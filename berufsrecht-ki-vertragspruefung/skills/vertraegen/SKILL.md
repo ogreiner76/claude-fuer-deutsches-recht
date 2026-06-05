@@ -1,12 +1,12 @@
 ---
 name: vertraegen
-description: "Nutze dies, wenn Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung / spezial vertraegen dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung / vertraegen dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

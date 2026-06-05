@@ -31,12 +31,12 @@ Prüfen pro Adressat:
 1. Schutzbereich (persönlich und sachlich)
 2. Eingriff
 3. Rechtfertigung
-   - verfassungsmaessige Schranke
-   - Schranken-Schranken (insbesondere Verhältnismaessigkeit)
-     - legitimer Zweck
-     - geeignet
-     - erforderlich (mildestes Mittel)
-     - angemessen
+ - verfassungsmaessige Schranke
+ - Schranken-Schranken (insbesondere Verhältnismaessigkeit)
+ - legitimer Zweck
+ - geeignet
+ - erforderlich (mildestes Mittel)
+ - angemessen
 
 ## Pruefstation 3 - Art. 3 GG Gleichbehandlung
 

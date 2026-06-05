@@ -1,13 +1,13 @@
 ---
 name: regulatorisches-richtlinien-neufassung
-description: "Nutze dies, wenn Regulatorisches Recht Anpassen, Regulatorisches Recht Mandat Arbeitsbereich, Richtlinien Neufassung im Plugin Regulatorisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Regulatorisches Recht Anpassen, Regulatorisches Recht Mandat Arbeitsbereich, Richtlinien Neufassung prüfen.; Erstelle eine Arbeitsfassung zu Regulatorisches Recht Anpassen, Regulatorisches Recht Mandat Arbeitsbereich, Richtlinien Neufassung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Regulatorisches Recht Anpassen, Regulatorisches Recht Mandat Arbeitsbereich, Richtlinien Neufassung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Regulatorisches Recht Anpassen, Regulatorisches Recht Mandat Arbeitsbereich, Richtlinien Neufassung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Regulatorisches Recht Anpassen, Regulatorisches Recht Mandat Arbeitsbereich, Richtlinien Neufassung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -155,11 +155,11 @@ Abfragen:
 1. Mandant (intern: nur Kürzel, kein vollständiger Name in Logs)
 2. Mandat-Bezeichnung / Slug (z. B. bafin-prüfung-2025-mandantA)
 3. Art des Mandats:
-   a) Gap-Analyse gegen Regulierungsakt
-   b) Konsultationsbeitrag
-   c) Richtlinienneufassung
-   d) Behördenanfrage
-   e) Sonstiges
+ a) Gap-Analyse gegen Regulierungsakt
+ b) Konsultationsbeitrag
+ c) Richtlinienneufassung
+ d) Behördenanfrage
+ e) Sonstiges
 4. Zuständige Behörde(n)
 5. Leitfrist (falls bekannt)
 ```
@@ -167,8 +167,8 @@ Abfragen:
 Mandatsordner anlegen:
 ```
 ~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/mandate/<mandat-slug>/
-├── mandat.md          # Mandat-Fakten und Übersteuerungen
-├── gap-tracker.yaml   # Mandat-spezifische Gaps
+├── mandat.md # Mandat-Fakten und Übersteuerungen
+├── gap-tracker.yaml # Mandat-spezifische Gaps
 ├── comment-tracker.yaml
 └── verification-log.md
 ```

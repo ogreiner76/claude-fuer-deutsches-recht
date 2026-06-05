@@ -1,13 +1,13 @@
 ---
 name: license-noncompliance-machine-regulation
-description: "Nutze dies, wenn License Noncompliance Dispute, Machine Regulation Embedded Software, Marketplace App Store Terms, Mit Apache Bsd im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte License Noncompliance Dispute, Machine Regulation Embedded Software, Marketplace App Store Terms, Mit Apache Bsd prüfen.; Erstelle eine Arbeitsfassung zu License Noncompliance Dispute, Machine Regulation Embedded Software, Marketplace App Store Terms, Mit Apache Bsd.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei License Noncompliance Dispute, Machine Regulation Embedded Software, Marketplace App Store Terms, Mit Apache Bsd: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # License Noncompliance Dispute, Machine Regulation Embedded Software, Marketplace App Store Terms, Mit Apache Bsd
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **License Noncompliance Dispute, Machine Regulation Embedded Software, Marketplace App Store Terms, Mit Apache Bsd** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

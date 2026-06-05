@@ -1,13 +1,13 @@
 ---
 name: freundlicher-copilot-gesellschaftsrecht
-description: "Nutze dies, wenn Corporate Kanzlei Freundlicher Copilot, Corporate Kanzlei Gesellschaftsrecht Register im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Freundlicher Copilot, Corporate Kanzlei Gesellschaftsrecht Register prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Freundlicher Copilot, Corporate Kanzlei Gesellschaftsrecht Register.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Freundlicher Copilot, Corporate Kanzlei Gesellschaftsrecht Register: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Freundlicher Copilot, Corporate Kanzlei Gesellschaftsrecht Register
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Freundlicher Copilot, Corporate Kanzlei Gesellschaftsrecht Register** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -353,24 +353,24 @@ Handelsregister-Abteilung B
 [ADRESSE]
 
 Betreff: [FIRMA GmbH] — HRB [NUMMER]
-         Aenderung der Geschaeftsfuehrung
+ Aenderung der Geschaeftsfuehrung
 
 Wir melden als Geschaeftsfuehrer der [FIRMA GmbH] zur Eintragung in das Handelsregister an:
 
 1. ABBERUFUNG:
-   [ALTER GF: Name, Geburtsdatum, Wohnort] ist als Geschaeftsfuehrer abberufen worden.
-   Beschluss der Gesellschafterversammlung vom [DATUM].
+ [ALTER GF: Name, Geburtsdatum, Wohnort] ist als Geschaeftsfuehrer abberufen worden.
+ Beschluss der Gesellschafterversammlung vom [DATUM].
 
 2. NEUBESTELLUNG:
-   Zum neuen Geschaeftsfuehrer ist bestellt worden:
-   [NEUER GF: Name, Geburtsdatum, Wohnort]
-   Vertretungsbefugnis: Einzelvertretungsberechtigung / Gesamtvertretungsberechtigung
-   Beschluss der Gesellschafterversammlung vom [DATUM].
+ Zum neuen Geschaeftsfuehrer ist bestellt worden:
+ [NEUER GF: Name, Geburtsdatum, Wohnort]
+ Vertretungsbefugnis: Einzelvertretungsberechtigung / Gesamtvertretungsberechtigung
+ Beschluss der Gesellschafterversammlung vom [DATUM].
 
-   Befreiung von §181 BGB: [Ja / Nein]
+ Befreiung von §181 BGB: [Ja / Nein]
 
 3. VERSICHERUNG GEMAESS § 8 III GMBHG
-   Der Unterzeichner versichert, dass kein Bestellungshindernis nach § 6 II GmbHG vorliegt.
+ Der Unterzeichner versichert, dass kein Bestellungshindernis nach § 6 II GmbHG vorliegt.
 
 [FIRMA GMBH]
 [NEUER GF NAME]

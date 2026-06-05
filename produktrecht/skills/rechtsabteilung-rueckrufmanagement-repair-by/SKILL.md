@@ -1,19 +1,19 @@
 ---
 name: rechtsabteilung-rueckrufmanagement-repair-by
-description: "Nutze dies, wenn Rechtsabteilung Rueckrufmanagement Mit Rapex Safety Gate, Repair By Design Software Locks Ersatzteile, Reparaturpflicht Hersteller Nach Gewährleistung im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Rueckrufmanagement Mit Rapex Safety Gate, Repair By Design Software Locks Ersatzteile, Reparaturpflicht Hersteller Nach Gewährleistung prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Rueckrufmanagement Mit Rapex Safety Gate, Repair By Design Software Locks Ersatzteile, Reparaturpflicht Hersteller Nach Gewährleistung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Rueckrufmanagement Mit Rapex Safety Gate, Repair By Design Software Locks Ersatzteile, Reparaturpflicht Hersteller Nach Gewaehrleistung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Rueckrufmanagement Mit Rapex Safety Gate, Repair By Design Software Locks Ersatzteile, Reparaturpflicht Hersteller Nach Gewährleistung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Rueckrufmanagement Mit Rapex Safety Gate, Repair By Design Software Locks Ersatzteile, Reparaturpflicht Hersteller Nach Gewährleistung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-rueckrufmanagement-mit-rapex-safety-gate` | Rechtsabteilungs-Spezialskill für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-rueckrufmanagement-mit-rapex-safety-gate` | Rechtsabteilungs-Fachmodul für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `repair-by-design-software-locks-ersatzteile` | Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen. |
 | `reparaturpflicht-hersteller-nach-gewaehrleistung` | Prüft, wann Hersteller auch außerhalb der kaufrechtlichen Gewährleistung Reparatur anbieten müssen oder sollten, einschließlich Kosten, angemessener Frist, Ersatzgerät, Reparaturformular und Produktgruppen mit EU-Reparierbarkeitsanforderungen. |
 
@@ -26,7 +26,7 @@ Für **Rechtsabteilung Rueckrufmanagement Mit Rapex Safety Gate, Repair By Desig
 
 ## 1. `rechtsabteilung-rueckrufmanagement-mit-rapex-safety-gate`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate
 

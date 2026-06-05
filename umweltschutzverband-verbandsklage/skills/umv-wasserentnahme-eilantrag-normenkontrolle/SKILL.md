@@ -1,13 +1,13 @@
 ---
 name: umv-wasserentnahme-eilantrag-normenkontrolle
-description: "Nutze dies, wenn Umv 076 Wasserentnahme Eilantrag Schreiben, Umv 077 Wasserentnahme Normenkontrolle Skizzie, Umv 078 Wasserentnahme Nebenbestimmung Fordern, Umv 079 Wasserentnahme Monitoring Planen im Plugin Umweltschutzverband Verbandsklage konkret bearbeitet werden soll. Auslöser: Bitte Umv 076 Wasserentnahme Eilantrag Schreiben, Umv 077 Wasserentnahme Normenkontrolle Skizzie, Umv 078 Wasserentnahme Nebenbestimmung Fordern, Umv 079 Wasserentnahme Monitoring Planen prüfen.; Erstelle eine Arbeitsfassung zu Umv 076 Wasserentnahme Eilantrag Schreiben, Umv 077 Wasserentnahme Normenkontrolle Skizzie, Umv 078 Wasserentnahme Nebenbestimmung Fordern, Umv 079 Wasserentnahme Monitoring Planen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umv 076 Wasserentnahme Eilantrag Schreiben, Umv 077 Wasserentnahme Normenkontrolle Skizzie, Umv 078 Wasserentnahme Nebenbestimmung Fordern, Umv 079 Wasserentnahme Monitoring Planen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umv 076 Wasserentnahme Eilantrag Schreiben, Umv 077 Wasserentnahme Normenkontrolle Skizzie, Umv 078 Wasserentnahme Nebenbestimmung Fordern, Umv 079 Wasserentnahme Monitoring Planen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umv 076 Wasserentnahme Eilantrag Schreiben, Umv 077 Wasserentnahme Normenkontrolle Skizzie, Umv 078 Wasserentnahme Nebenbestimmung Fordern, Umv 079 Wasserentnahme Monitoring Planen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

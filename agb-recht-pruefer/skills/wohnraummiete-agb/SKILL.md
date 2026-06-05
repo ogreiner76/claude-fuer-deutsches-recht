@@ -1,6 +1,6 @@
 ---
 name: wohnraummiete-agb
-description: "Branchen-Spezialskill für Wohnraummiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Wohnraummiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Wohnraummiete AGB

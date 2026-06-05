@@ -20,12 +20,12 @@ Lädt beim ersten Einsatz des Plugins oder wenn `--redo` übergeben wird.
 
 - Angaben zum Anwalt/zur Anwältin: Rolle, Kanzleigröße, Tätigkeitsschwerpunkt
 - Vertragsvolumen und -mix (Lieferantenverträge, Dienstleistungsverträge,
-  Lizenzverträge, AGB-basierte Massenverträge etc.)
+ Lizenzverträge, AGB-basierte Massenverträge etc.)
 - Mandatseite: Auftraggeber-Seite (Unternehmer/Verwender) oder
-  Auftragnehmer-Seite (Vertragspartner/Verbraucher)
+ Auftragnehmer-Seite (Vertragspartner/Verbraucher)
 - Verhandlungsstil und Eskalationsmatrix
 - 5–20 bereits unterzeichnete Musterverträge als Referenz (optional, aber
-  dringend empfohlen)
+ dringend empfohlen)
 
 ## Rechtlicher Rahmen
 
@@ -57,13 +57,13 @@ Lädt beim ersten Einsatz des Plugins oder wenn `--redo` übergeben wird.
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Transparenzgebot bei Zinsklauseln in AGB)
+ (Transparenzgebot bei Zinsklauseln in AGB)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Haftungsbeschränkung in AGB; Inhaltskontrolle § 307 BGB)
+ (Haftungsbeschränkung in AGB; Inhaltskontrolle § 307 BGB)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Einbeziehung von AGB im unternehmerischen Verkehr; § 305 Abs. 2 BGB)
+ (Einbeziehung von AGB im unternehmerischen Verkehr; § 305 Abs. 2 BGB)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Überraschungsklausel § 305c BGB; Leitentscheidung zur Klauselkontrolle)
+ (Überraschungsklausel § 305c BGB; Leitentscheidung zur Klauselkontrolle)
 
 ### Quellenregel
 
@@ -76,11 +76,11 @@ Lies `~/.claude/plugins/config/klotzkette/vertragsrecht/CLAUDE.md`:
 
 - **Existiert nicht** → Erstgespräch starten.
 - **Enthält `[PLATZHALTER]` oder `[Kanzleiname]`** → Vorlage unvollständig;
-  Erstgespräch starten oder fortsetzen.
+ Erstgespräch starten oder fortsetzen.
 - **Enthält `<!-- EINRICHTUNG PAUSIERT BEI: -->`** → Nutzer begrüßen und
-  Wiederaufnahme an der gespeicherten Stelle anbieten.
+ Wiederaufnahme an der gespeicherten Stelle anbieten.
 - **Vollständig ausgefüllt (keine Platzhalter)** → bereits konfiguriert;
-  nur mit `--redo` neu starten.
+ nur mit `--redo` neu starten.
 
 ### Schritt 1 — Einleitung (2 Minuten)
 
@@ -103,9 +103,9 @@ Zeige diese Kurzorientierung — nicht länger als 4 Zeilen:
 **Wer nutzt dieses Plugin?**
 
 > 1. **Rechtsanwalt/in, Syndikusrechtsanwalt/in oder juristischer
->    Mitarbeiter/Mitarbeiterin** unter anwaltlicher Aufsicht
+> Mitarbeiter/Mitarbeiterin** unter anwaltlicher Aufsicht
 > 2. **Nichtjurist/in mit Anwaltszugang** (Geschäftsführer, Einkauf,
->    Vertragsmanager) — hat einen Anwalt zur Rücksprache
+> Vertragsmanager) — hat einen Anwalt zur Rücksprache
 > 3. **Nichtjurist/in ohne regelmäßigen Anwaltszugang**
 
 Bei Wahl 2 oder 3: Ausgaben werden als Recherchegrundlage zur anwaltlichen
@@ -130,17 +130,17 @@ Kurzbeschreibung oder Link zur Website genügt.
 **Was kommt herein?**
 - Ungefähres Aufkommen: 10 Verträge/Monat? 100?
 - Mix: hauptsächlich Lieferantenverträge? Dienstleistungsverträge?
-  Lizenzverträge? AGB-basierte Massenverträge? Alles davon?
+ Lizenzverträge? AGB-basierte Massenverträge? Alles davon?
 - Wer stellt typischerweise den Vertragsentwurf? Sie (eigenes Muster), die
-  Gegenseite oder gemischt?
+ Gegenseite oder gemischt?
 
 **Mandatseite:**
 > Auf welche Seite kalibriere ich Ihr Verhandlungs-Playbook?
 >
 > - **Verwender-Seite** — Sie stellen AGB/Mustervertrag. Typisch für
->   Lieferanten, Dienstleister, Software-Anbieter.
+> Lieferanten, Dienstleister, Software-Anbieter.
 > - **Kunden-Seite** — Sie akzeptieren oder verhandeln fremde AGB/Verträge.
->   Typisch für Einkauf, Auftraggeber.
+> Typisch für Einkauf, Auftraggeber.
 > - **Beide Seiten.**
 
 ### Schritt 4 — Verhandlungs-Playbook (3–4 Minuten)
@@ -151,38 +151,38 @@ ich lese es und frage nur nach den Lücken.
 
 **Haftungsbeschränkung (§§ 309 Nr. 7, 307 BGB):**
 - Ihre Standardposition? (z. B. Haftung auf grobe Fahrlässigkeit/Vorsatz
-  beschränkt, oder Jahresvergütung als Cap)
+ beschränkt, oder Jahresvergütung als Cap)
 - Welche Carve-outs akzeptieren Sie? (Verletzung von Leben/Körper/Gesundheit
-  ist nach § 309 Nr. 7 lit. a BGB zwingend, Vorsatz/grobe Fahrlässigkeit
-  nach § 309 Nr. 7 lit. b BGB)
+ ist nach § 309 Nr. 7 lit. a BGB zwingend, Vorsatz/grobe Fahrlässigkeit
+ nach § 309 Nr. 7 lit. b BGB)
 - Wo ziehen Sie die Grenze?
 
 **Gewährleistung (§§ 437 ff. BGB, 634 ff. BGB):**
 - Verkürzung der gesetzlichen Verjährungsfrist (§ 438 BGB: 2 Jahre;
-  aber § 309 Nr. 8 BGB beachten)?
+ aber § 309 Nr. 8 BGB beachten)?
 - Welche Nacherfüllungsrechte räumen Sie ein?
 - Schadensersatz statt der Leistung: Wann akzeptieren Sie Ausschluss?
 
 **Datenschutz (DSGVO/BDSG):**
 - Eigener Standardauftragsdatenverarbeitungsvertrag (AVV gemäß Art. 28 DSGVO)
-  oder Übernahme des AVV der Gegenseite?
+ oder Übernahme des AVV der Gegenseite?
 - Subunternehmer-Genehmigungsrechte: Blockierende Zustimmung oder nur
-  Benachrichtigung?
+ Benachrichtigung?
 - Datenlöschung nach Vertragsende: Frist und Nachweis?
 
 **Laufzeit und Kündigung:**
 - Ordentliche Kündigung: Welche Mindestfrist ist für Sie akzeptabel?
 - Automatische Verlängerung: Welche maximale Ankündigungsfrist zum Kündigen
-  akzeptieren Sie?
+ akzeptieren Sie?
 - Vertragsstrafe (§ 339 BGB): Grundsätzlich nein, oder unter welchen
-  Bedingungen?
+ Bedingungen?
 
 **Gerichtsstand und anwendbares Recht:**
 - Bevorzugt? Akzeptabel? Nie?
 
 **Das eine Dealbreaker-Kriterium:**
 - Wenn ein Vertrag genau ein Problem hat, das Sie zum Ablehnen bewegt,
-  was ist es?
+ was ist es?
 
 ### Schritt 5 — Eskalationsmatrix (1–2 Minuten)
 
@@ -191,7 +191,7 @@ Delegationsrahmen? Wenn ja, teilen; ich lese und frage nur nach Lücken.
 
 - Wer kann was bis zu welchem Schwellenwert genehmigen?
 - Was eskaliert automatisch unabhängig vom Wert? (z. B. unbeschränkte Haftung,
-  IP-Abtretung an Gegenseite)
+ IP-Abtretung an Gegenseite)
 - Wie wird eskaliert — E-Mail, Slack, Jour fixe?
 
 ### Schritt 6 — Referenzverträge
@@ -326,10 +326,10 @@ von Vertragspartnern]
 und jeder Zusammenfassung vorangestellt):
 
 - Wenn Rolle Rechtsanwalt/in: `VERTRAULICH — ANWALTLICHES ARBEITSERGEBNIS —
-  ERSTELLT UNTER ANWALTLICHER AUFSICHT`
+ ERSTELLT UNTER ANWALTLICHER AUFSICHT`
 - Wenn Nichtjurist/in: `RECHERCHENOTIZ — KEIN RECHTSGUTACHTEN —
-  VOR JEDER RECHTSRELEVANTEN ENTSCHEIDUNG MIT EINEM ZUGELASSENEN RECHTSANWALT
-  ABSTIMMEN`
+ VOR JEDER RECHTSRELEVANTEN ENTSCHEIDUNG MIT EINEM ZUGELASSENEN RECHTSANWALT
+ ABSTIMMEN`
 
 ---
 
@@ -343,7 +343,7 @@ und jeder Zusammenfassung vorangestellt):
 
 ## Prüfungseinstellungen
 
-routing_bestaetigen: true   # Auf false setzen, um Routing-Bestätigung zu überspringen
+routing_bestaetigen: true # Auf false setzen, um Routing-Bestätigung zu überspringen
 
 ---
 
@@ -358,9 +358,9 @@ rueckblick_monate: 12
 Zeigen Sie eine Zusammenfassung und bieten Sie an:
 
 - **Ersten Vertragstest:** "Möchten Sie einen Vertrag einreichen, um zu
-  sehen, wie das Playbook funktioniert?"
+ sehen, wie das Playbook funktioniert?"
 - **Hinweis auf Änderbarkeit:** "Das Profil ist eine Textdatei — direkt
-  bearbeitbar. Einzelne Positionen ändern: `/vertragsrecht:vertragsrecht-anpassen`."
+ bearbeitbar. Einzelne Positionen ändern: `/vertragsrecht:vertragsrecht-anpassen`."
 
 ---
 
@@ -386,19 +386,19 @@ Das Profil würde enthalten:
 ## Risiken und typische Fehler
 
 - **Kein Playbook ohne Referenzverträge schreiben.** Das Erstgespräch zeigt
-  die behaupteten Positionen; die unterzeichneten Verträge zeigen die echten.
-  Das Delta ist entscheidend.
+ die behaupteten Positionen; die unterzeichneten Verträge zeigen die echten.
+ Das Delta ist entscheidend.
 - **AGB vs. Individualvertrag nicht vermischen.** § 310 Abs. 1 BGB schließt
-  §§ 308, 309 BGB im B2B-Bereich nicht vollständig aus — auch dort gilt § 307
-  BGB. Das Profil muss die typische Vertragssituation (B2B/B2C, AGB/Individualvertrag)
-  festhalten.
+ §§ 308, 309 BGB im B2B-Bereich nicht vollständig aus — auch dort gilt § 307
+ BGB. Das Profil muss die typische Vertragssituation (B2B/B2C, AGB/Individualvertrag)
+ festhalten.
 - **Zwingend zulässige Carve-outs falsch eintragen.** § 309 Nr. 7 lit. a BGB
-  verbietet Haftungsausschluss für Verletzung von Leben, Körper, Gesundheit —
-  das ist kein verhandelbares Playbook-Element, sondern zwingendes Recht.
+ verbietet Haftungsausschluss für Verletzung von Leben, Körper, Gesundheit —
+ das ist kein verhandelbares Playbook-Element, sondern zwingendes Recht.
 - **Eskalationsmatrix mit Lücken lassen.** Jede Lücke führt zu Standard-Eskalation
-  — besser explizit als "nicht konfiguriert" markieren.
+ — besser explizit als "nicht konfiguriert" markieren.
 - **Erstgespräch bei jeder Sitzung neu starten.** Das Profil einmal schreiben,
-  danach nur mit `--redo` neu befragen.
+ danach nur mit `--redo` neu befragen.
 
 ## Quellenpflicht
 
@@ -406,8 +406,8 @@ Jede Vertragsanalyse und jedes Playbook-Ergebnis muss Nachweise führen aus:
 
 - Gesetzestexten (BGB, UWG, HGB, DSGVO/BDSG) mit konkretem Paragraphen
 - BGH-Rechtsprechung in korrekter Zitierweise
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-  Ist eine Literaturquelle erforderlich, nur als "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" mit exakter Fundstelle kennzeichnen.
+ Ist eine Literaturquelle erforderlich, nur als "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" mit exakter Fundstelle kennzeichnen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

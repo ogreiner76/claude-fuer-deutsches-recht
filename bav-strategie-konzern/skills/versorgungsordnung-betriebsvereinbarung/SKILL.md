@@ -1,13 +1,13 @@
 ---
 name: versorgungsordnung-betriebsvereinbarung
-description: "Nutze dies, wenn Versorgungsordnung Und Betriebsvereinbarung Drafting im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Versorgungsordnung Und Betriebsvereinbarung Drafting prüfen.; Erstelle eine Arbeitsfassung zu Versorgungsordnung Und Betriebsvereinbarung Drafting.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Versorgungsordnung Und Betriebsvereinbarung Drafting: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Versorgungsordnung Und Betriebsvereinbarung Drafting
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Versorgungsordnung Und Betriebsvereinbarung Drafting** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -94,10 +94,10 @@ Unternehmens, die nach dem [Einführungsdatum] eingestellt werden und das 18.
 Lebensjahr vollendet haben, sofern das Arbeitsverhältnis auf unbestimmte Zeit
 geschlossen ist (nachfolgend "Berechtigte").
 (2) Ausgenommen sind:
-    a) Mitglieder des Vorstands und der Geschäftsführung,
-    b) Mitarbeiterinnen und Mitarbeiter, die einer anderen Versorgungsregelung
-       des Unternehmens unterfallen,
-    c) Auszubildende und Praktikanten.
+ a) Mitglieder des Vorstands und der Geschäftsführung,
+ b) Mitarbeiterinnen und Mitarbeiter, die einer anderen Versorgungsregelung
+ des Unternehmens unterfallen,
+ c) Auszubildende und Praktikanten.
 (3) Leitende Angestellte i.S.d. § 5 Abs. 3 BetrVG unterliegen dieser
 Versorgungsordnung, soweit nicht eine individuelle Versorgungsvereinbarung
 getroffen wurde (§ 17 Abs. 1 S. 2 BetrAVG).
@@ -113,9 +113,9 @@ Das Unternehmen verpflichtet sich zur Gewährung folgender Leistungen:
 (1) Altersrente wird gewährt, wenn das Arbeitsverhältnis nach Vollendung des
 67. Lebensjahres (Regelaltersgrenze) endet.
 (2) Der jährliche Rentenbetrag berechnet sich nach folgender Formel:
-    Altersrente = Anspruchsbetrag × (Jahre der Betriebszugehörigkeit /
-    Höchstanrechnungsjahre [35])
-    Anspruchsbetrag: [X] % des rentenfähigen Einkommens × 12.
+ Altersrente = Anspruchsbetrag × (Jahre der Betriebszugehörigkeit /
+ Höchstanrechnungsjahre [35])
+ Anspruchsbetrag: [X] % des rentenfähigen Einkommens × 12.
 (3) Das rentenfähige Einkommen ist das vertraglich vereinbarte Grundgehalt
 im Jahresdurchschnitt des letzten vollen Kalenderjahres vor Rentenbeginn,
 höchstens jedoch EUR [Kappungsgrenze] p.a.
@@ -145,11 +145,11 @@ gesetzlichen Unverfallbarkeit (§ 1b BetrAVG), erhält der überlebende Ehegatte
 eingetragene Lebenspartner 60 % der unverfallbaren Anwartschaft des Berechtigten.
 (3) Voraussetzung für die Hinterbliebenenrente ist, dass die Ehe / Lebenspartnerschaft
 vor Eintritt des Versorgungsfalles geschlossen wurde.
-    ANMERKUNG TREUENFELS YAMAMOTO: Eine Altersgrenze für die Eheschließung ist nach
-    reine "Spätehenklausel" (z.B. Heirat nach 60. Lebensjahr ausgeschlossen) ohne
-    weitere sachliche Begründung ist unzulässig und AGG-widrig. Zulässig ist hingegen
-    eine Klausel, die den Zeitpunkt der Eheschließung im Verhältnis zu bereits
-    erdienten Anwartschaften berücksichtigt (zeitproportionale Berechnung).
+ ANMERKUNG TREUENFELS YAMAMOTO: Eine Altersgrenze für die Eheschließung ist nach
+ reine "Spätehenklausel" (z.B. Heirat nach 60. Lebensjahr ausgeschlossen) ohne
+ weitere sachliche Begründung ist unzulässig und AGG-widrig. Zulässig ist hingegen
+ eine Klausel, die den Zeitpunkt der Eheschließung im Verhältnis zu bereits
+ erdienten Anwartschaften berücksichtigt (zeitproportionale Berechnung).
 (4) Die Hinterbliebenenrente erlischt bei Wiederheirat des überlebenden Ehegatten.
 (5) Abfindungsangebot: Das Unternehmen kann mit Einverständnis des Berechtigten
 vor Eintritt des Versorgungsfalles eine Abfindung der Hinterbliebenenversorgung
@@ -200,14 +200,14 @@ Drei-Stufen-Theorie (→ Skill `drei-stufen-theorie-eingriffsanalyse`).
 
 § 11 Anrechnung anderer Versorgungsleistungen
 (1) Auf die Versorgungsleistungen dieser Versorgungsordnung werden angerechnet:
-    a) Leistungen aus anderen betrieblichen Versorgungswerken des Unternehmens oder
-       verbundener Unternehmen i.S.d. §§ 15 ff. AktG, sofern diese für denselben
-       Versorgungsfall bestimmt sind;
-    b) Leistungen der gesetzlichen Rentenversicherung bis zu [X] % der
-       Regelaltersrente (Gesamtversorgungskonzept — nur bei ausdrücklicher
-       Gestaltung als Gesamtversorgungszusage).
-    ANMERKUNG: Gesamtversorgungszusagen mit Vollanrechnung der gesetzlichen Rente
-    sind nach BAG-Rechtsprechung zulässig, aber bei Rentenreformen besonders
+ a) Leistungen aus anderen betrieblichen Versorgungswerken des Unternehmens oder
+ verbundener Unternehmen i.S.d. §§ 15 ff. AktG, sofern diese für denselben
+ Versorgungsfall bestimmt sind;
+ b) Leistungen der gesetzlichen Rentenversicherung bis zu [X] % der
+ Regelaltersrente (Gesamtversorgungskonzept — nur bei ausdrücklicher
+ Gestaltung als Gesamtversorgungszusage).
+ ANMERKUNG: Gesamtversorgungszusagen mit Vollanrechnung der gesetzlichen Rente
+ sind nach BAG-Rechtsprechung zulässig, aber bei Rentenreformen besonders
 
 § 12 Übertragung und Portabilität
 (1) Bei Beendigung des Arbeitsverhältnisses und Aufnahme einer neuen Beschäftigung
@@ -274,13 +274,13 @@ des Unternehmens erforderlich ist.
 Quartalsende schriftlich gekündigt werden. Nach Kündigung wirkt diese
 Betriebsvereinbarung gem. § 77 Abs. 6 BetrVG nach, bis eine neue Regelung
 getroffen ist.
-    ANMERKUNG: Die Nachwirkung nach § 77 Abs. 6 BetrVG gilt nur bei
-    erzwingbaren Mitbestimmungsangelegenheiten (§ 87 BetrVG).
+ ANMERKUNG: Die Nachwirkung nach § 77 Abs. 6 BetrVG gilt nur bei
+ erzwingbaren Mitbestimmungsangelegenheiten (§ 87 BetrVG).
 
 Düsseldorf, den [Datum]
 
-[Geschäftsführung]                    [Betriebsratsvorsitzende/r]
-[Konzern Muster AG]                   Betriebsrat der [Konzern Muster AG]
+[Geschäftsführung] [Betriebsratsvorsitzende/r]
+[Konzern Muster AG] Betriebsrat der [Konzern Muster AG]
 ```
 
 ### Template 3: Anpassungsklausel § 16 Abs. 3 Nr. 1 BetrAVG (Inflationsindexierung)

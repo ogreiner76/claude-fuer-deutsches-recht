@@ -1,13 +1,13 @@
 ---
 name: 675u-675w-banking
-description: "Nutze dies, wenn Spezial 675U Verhandlung Vergleich Und Eskalation, Spezial 675W Zahlen Schwellen Und Berechnung, Spezial Banking Behörden Gericht Und Registerweg im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Spezial 675U Verhandlung Vergleich Und Eskalation, Spezial 675W Zahlen Schwellen Und Berechnung, Spezial Banking Behörden Gericht Und Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Spezial 675U Verhandlung Vergleich Und Eskalation, Spezial 675W Zahlen Schwellen Und Berechnung, Spezial Banking Behörden Gericht Und Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei 675u Verhandlung Vergleich Und Eskalation, 675w Zahlen Schwellen Und Berechnung, Banking Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial 675U Verhandlung Vergleich Und Eskalation, Spezial 675W Zahlen Schwellen Und Berechnung, Spezial Banking Behörden Gericht Und Registerweg
+# 675U Verhandlung Vergleich Und Eskalation, 675W Zahlen Schwellen Und Berechnung, Banking Behörden Gericht Und Registerweg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **675U Verhandlung Vergleich Und Eskalation, 675W Zahlen Schwellen Und Berechnung, Banking Behörden Gericht Und Registerweg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial 675U Verhandlung Vergleich Und Eskalation, Spezial 675W Zahlen Schwellen Und Berechnung, Spezial Banking Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **675U Verhandlung Vergleich Und Eskalation, 675W Zahlen Schwellen Und Berechnung, Banking Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial 675U Verhandlung Vergleich Und Eskalation, Spezial 675W Zahlen Sc
 # 675U: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: 675U: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** 675U: Verhandlung, Vergleich und Eskalation / spezial 675u verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** 675U: Verhandlung, Vergleich und Eskalation / 675u verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -95,7 +95,7 @@ Vergleich vor Schlichtung spart Zeit, opfert aber häufig 20-30 % der Erstattung
 # 675W: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: 675W: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** 675W: Zahlen, Schwellenwerte und Berechnung / spezial 675w zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** 675W: Zahlen, Schwellenwerte und Berechnung / 675w zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -148,7 +148,7 @@ Der häufigste Fehler bei Beratung: die Bank pauschal des "groben Verschuldens" 
 # Banking: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Banking: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Banking: Behörden-, Gerichts- oder Registerweg / spezial banking behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Banking: Behörden-, Gerichts- oder Registerweg / banking behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -173,10 +173,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Banking-Behördenwege bei Phishing
 - **Bank selbst:** Rückerstattungsantrag § 675u BGB → Beschwerdeabteilung der Bank.
 - **Schlichtungsstellen Bank-Sparkassen:**
-  - **Schlichtungsstelle bei der Deutschen Bundesbank** (für nicht in privaten Schlichtungsstellen erfasste Banken): bundesbank.de/schlichtungsstelle.
-  - **Ombudsmann der privaten Banken** (Bankenverband): bankenombudsmann.de.
-  - **Ombudsmann der öffentlichen Banken** (VöB).
-  - **Schlichter der Sparkassen** (DSGV) und **Schlichter der Genossenschaftsbanken** (BVR).
+ - **Schlichtungsstelle bei der Deutschen Bundesbank** (für nicht in privaten Schlichtungsstellen erfasste Banken): bundesbank.de/schlichtungsstelle.
+ - **Ombudsmann der privaten Banken** (Bankenverband): bankenombudsmann.de.
+ - **Ombudsmann der öffentlichen Banken** (VöB).
+ - **Schlichter der Sparkassen** (DSGV) und **Schlichter der Genossenschaftsbanken** (BVR).
 - **BaFin:** bafin.de — Beschwerde bei groben Bankpflichtverletzungen; keine Rückerstattung, aber aufsichtsrechtliche Wirkung.
 - **Polizei / Staatsanwaltschaft:** Strafanzeige wegen §§ 263a, 269 StGB; Aktenzeichen für spätere Akteneinsicht § 406e StPO.
 - **DSB / Aufsichtsbehörde:** bei Datenlecks (Art. 33 DSGVO).

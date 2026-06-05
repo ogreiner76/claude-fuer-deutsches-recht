@@ -1,13 +1,13 @@
 ---
 name: refusal-to-remedies-zusagen-section-19a
-description: "Nutze dies, wenn Refusal To Supply Essential Facilities, Remedies Zusagen Veraeusserung Zugang, Section 19A Gwb Big Tech, Sektor Adtech Und Digitale Werbung im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Refusal To Supply Essential Facilities, Remedies Zusagen Veraeusserung Zugang, Section 19A Gwb Big Tech, Sektor Adtech Und Digitale Werbung prüfen.; Erstelle eine Arbeitsfassung zu Refusal To Supply Essential Facilities, Remedies Zusagen Veraeusserung Zugang, Section 19A Gwb Big Tech, Sektor Adtech Und Digitale Werbung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Refusal To Supply Essential Facilities, Remedies Zusagen Veraeusserung Zugang, Section 19a Gwb Big Tech, Sektor Adtech Und Digitale Werbung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Refusal To Supply Essential Facilities, Remedies Zusagen Veraeusserung Zugang, Section 19A Gwb Big Tech, Sektor Adtech Und Digitale Werbung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Refusal To Supply Essential Facilities, Remedies Zusagen Veraeusserung Zugang, Section 19A Gwb Big Tech, Sektor Adtech Und Digitale Werbung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `refusal-to-supply-essential-facilities` | Refusal to Supply Essential Facilities: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `remedies-zusagen-veraeusserung-zugang` | Remedies Zusagen Veräußerung Zugang: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `section-19a-gwb-big-tech` | § 19a GWB Big Tech: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft überragende marktübergreifende Bedeutung, Verhaltenspflichten und BKartA-Verfahren prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `section-19a-gwb-big-tech` | § 19a GWB Big Tech: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft überragende marktübergreifende Bedeutung, Verhaltenspflichten und BKartA-Verfahren prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `sektor-adtech-und-digitale-werbung` | Sektor AdTech und digitale Werbung: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck. |
 
 ## Arbeitsweg
@@ -117,7 +117,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `section-19a-gwb-big-tech`
 
-**Fokus:** § 19a GWB Big Tech: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft überragende marktübergreifende Bedeutung, Verhaltenspflichten und BKartA-Verfahren prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** § 19a GWB Big Tech: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft überragende marktübergreifende Bedeutung, Verhaltenspflichten und BKartA-Verfahren prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # § 19a GWB Big Tech
 
@@ -184,7 +184,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Ad Exchanges, Publisher/Advertiser-Seite, Datenmacht, Auktionen, Transparenz und vertikale Integration
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.

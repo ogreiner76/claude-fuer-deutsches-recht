@@ -1,19 +1,19 @@
 ---
 name: stellungnahme-evaluationsklausel
-description: "Nutze dies, wenn Nkr Stellungnahme Evaluationsklausel Vorschlag, Nkr Stellungnahme Formulierungshilfe Vs Referentenentwurf im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Stellungnahme Evaluationsklausel Vorschlag, Nkr Stellungnahme Formulierungshilfe Vs Referentenentwurf prüfen.; Erstelle eine Arbeitsfassung zu Nkr Stellungnahme Evaluationsklausel Vorschlag, Nkr Stellungnahme Formulierungshilfe Vs Referentenentwurf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Stellungnahme Evaluationsklausel Vorschlag, Nkr Stellungnahme Formulierungshilfe Vs Referentenentwurf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Stellungnahme Evaluationsklausel Vorschlag, Nkr Stellungnahme Formulierungshilfe Vs Referentenentwurf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Stellungnahme Evaluationsklausel Vorschlag, Nkr Stellungnahme Formulierungshilfe Vs Referentenentwurf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `nkr-stellungnahme-evaluationsklausel-vorschlag` | Spezialskill fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen fuer die Stellungnahme. |
+| `nkr-stellungnahme-evaluationsklausel-vorschlag` | Fachmodul fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen fuer die Stellungnahme. |
 | `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf` | Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Nkr Stellungnahme Evaluationsklausel Vorschlag, Nkr Stellungnahme Formuli
 
 ## 1. `nkr-stellungnahme-evaluationsklausel-vorschlag`
 
-**Fokus:** Spezialskill fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen fuer die Stellungnahme.
+**Fokus:** Fachmodul fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen fuer die Stellungnahme.
 
 # NKR-Stellungnahme — Vorschlag einer Evaluationsklausel
 

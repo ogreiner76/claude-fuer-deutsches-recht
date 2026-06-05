@@ -1,13 +1,13 @@
 ---
 name: haftung-vorstand-ehrenamtspauschale
-description: "Nutze dies, wenn Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Bitte Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung prüfen.; Erstelle eine Arbeitsfassung zu Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbun
 ## Aufgabe
 Prüft Sorgfalt, Ressortverteilung, Ehrenamtspauschale, Versicherung, Innenhaftung und Außenhaftung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -116,7 +116,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, Kombination und Grenzen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -167,7 +167,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

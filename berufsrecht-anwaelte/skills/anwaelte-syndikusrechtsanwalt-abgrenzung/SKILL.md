@@ -1,13 +1,13 @@
 ---
 name: anwaelte-syndikusrechtsanwalt-abgrenzung
-description: "Nutze dies, wenn Anwälte Syndikusrechtsanwalt Abgrenzung Rechtsprechungscheck U, Anwälte Terminsvertreter Und Untervollmacht Rechtsprechungsche, Anwälte Umgehung Des Gegenanwalts Rechtsprechungscheck Und Red, Anwälte Unsachlichkeit Kollegenstreit Rechtsprechungscheck Und im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Syndikusrechtsanwalt Abgrenzung Rechtsprechungscheck U, Anwälte Terminsvertreter Und Untervollmacht Rechtsprechungsche, Anwälte Umgehung Des Gegenanwalts Rechtsprechungscheck Und Red, Anwälte Unsachlichkeit Kollegenstreit Rechtsprechungscheck Und prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Syndikusrechtsanwalt Abgrenzung Rechtsprechungscheck U, Anwälte Terminsvertreter Und Untervollmacht Rechtsprechungsche, Anwälte Umgehung Des Gegenanwalts Rechtsprechungscheck Und Red, Anwälte Unsachlichkeit Kollegenstreit Rechtsprechungscheck Und.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaelte Syndikusrechtsanwalt Abgrenzung Rechtsprechungscheck U, Anwaelte Terminsvertreter Und Untervollmacht Rechtsprechungsche, Anwaelte Umgehung Des Gegenanwalts Rechtsprechungscheck Und Red, Anwaelte Unsachlichkeit Kollegenstreit Rechtsprechungscheck Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Syndikusrechtsanwalt Abgrenzung Rechtsprechungscheck U, Anwälte Terminsvertreter Und Untervollmacht Rechtsprechungsche, Anwälte Umgehung Des Gegenanwalts Rechtsprechungscheck Und Red, Anwälte Unsachlichkeit Kollegenstreit Rechtsprechungscheck Und
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Syndikusrechtsanwalt Abgrenzung Rechtsprechungscheck U, Anwälte Terminsvertreter Und Untervollmacht Rechtsprechungsche, Anwälte Umgehung Des Gegenanwalts Rechtsprechungscheck Und Red, Anwälte Unsachlichkeit Kollegenstreit Rechtsprechungscheck Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

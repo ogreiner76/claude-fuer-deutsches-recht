@@ -1,21 +1,21 @@
 ---
 name: beirat-verschwiegenheit-veto-rechte
-description: "Nutze dies, wenn Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Mittelstand Corporate Ma Automation Monitoring im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Mittelstand Corporate Ma Automation Monitoring prüfen.; Erstelle eine Arbeitsfassung zu Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Mittelstand Corporate Ma Automation Monitoring.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Mittelstand Corporate Ma Automation Monitoring: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Mittelstand Corporate Ma Automation Monitoring
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Mittelstand Corporate Ma Automation Monitoring** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-verschwiegenheit` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-veto-rechte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Veto Rechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-zustimmungsvorbehalte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-verschwiegenheit` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-veto-rechte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Veto Rechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-zustimmungsvorbehalte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `mittelstand-corporate-ma-automation-monitoring` | Mandant oder Kanzlei will Deal-Aktivitaeten automatisch tracken: Datenraum-Neuzugaenge Fristen Q&A MAR-Signale PMI-Aufgaben. Normen MAR VO 596/2014 §§ 35-44 GWB Insiderlisten. Prüfraster Datenraum-Monitor CP-Deadline-Kalender Register-Update-Check News-Screening PMI-Task-Tracking. Output Monitoring-Protokoll Alert-Regeln Ampel-Dashboard. Abgrenzung zu mittelstand-ma-fristen-cp-kalender (Fristen-only) und mittelstand-corporate-ma-deal-intake (Eingang). |
 
 ## Arbeitsweg
@@ -27,7 +27,7 @@ Für **Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte
 
 ## 1. `beirat-verschwiegenheit`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Verschwiegenheit
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-veto-rechte`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Veto Rechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Veto Rechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Veto Rechte
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-zustimmungsvorbehalte`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Zustimmungsvorbehalte
 

@@ -1,6 +1,6 @@
 ---
 name: rom-011-mancipatio-und-in-iure-cessio
-description: "Römisches Recht: Mancipatio Und In Iure Cessio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Mancipatio Und In Iure Cessio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Mancipatio Und In Iure Cessio

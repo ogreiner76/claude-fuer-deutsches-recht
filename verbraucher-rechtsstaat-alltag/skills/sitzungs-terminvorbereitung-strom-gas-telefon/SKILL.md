@@ -1,13 +1,13 @@
 ---
 name: sitzungs-terminvorbereitung-strom-gas-telefon
-description: "Nutze dies, wenn Sitzungs Und Terminvorbereitung, Strom Gas Preiserhöhung, Telefon Internet Stoerung im Plugin Verbraucher Rechtsstaat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Sitzungs Und Terminvorbereitung, Strom Gas Preiserhöhung, Telefon Internet Stoerung prüfen.; Erstelle eine Arbeitsfassung zu Sitzungs Und Terminvorbereitung, Strom Gas Preiserhöhung, Telefon Internet Stoerung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sitzungs Und Terminvorbereitung, Strom Gas Preiserhoehung, Telefon Internet Stoerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sitzungs Und Terminvorbereitung, Strom Gas Preiserhöhung, Telefon Internet Stoerung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sitzungs Und Terminvorbereitung, Strom Gas Preiserhöhung, Telefon Internet Stoerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

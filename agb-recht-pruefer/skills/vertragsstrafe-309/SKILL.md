@@ -27,11 +27,11 @@ description: "Norm- und Dogmatik-Skill für Vertragsstrafe 309: prüft die AGB-K
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Vertragsstrafe (§ 309 Nr. 6 BGB):**
-   - **B2C:** § 309 Nr. 6 BGB ist absolutes Klauselverbot ohne Wertungsmöglichkeit. Eine Vertragsstrafe gegen den Verbraucher für Nichtabnahme, Zahlungsverzug oder Vertragslösung ist immer unwirksam.
-   - **B2B:** § 309 Nr. 6 BGB gilt zwar nicht direkt (§ 310 Abs. 1 BGB), die Wertung strahlt aber über § 307 Abs. 2 Nr. 1 BGB aus. Strafe ist im B2B nur zulässig, wenn Verstoß klar bestimmt, Höhe angemessen (Faustregel: nicht mehr als 5% Auftragswert pro Fall) und kein Schadenersatz darüber hinaus pauschaliert wird.
-   - **Verbot der Verschleierung:** Wenn die Klausel das Wort "Vertragsstrafe" vermeidet und stattdessen "Pauschalvergütung", "Bearbeitungspauschale" oder "Aufwandsentschädigung" sagt, gilt sie trotzdem als Vertragsstrafe, sobald sie sanktionierenden Charakter hat. Transparenzgebot § 307 Abs. 1 S. 2 BGB verletzt.
-   - **Verhältnis zu § 339 BGB:** Vertragsstrafe ist akzessorisch zur Hauptforderung (§ 339 BGB) und setzt Verschulden voraus (§ 286 Abs. 4 BGB analog). Klauseln ohne Verschuldensbezug sind regelmäßig unwirksam.
-   - **Verhältnis zu Schadenspauschale:** Vertragsstrafe ist Sanktion; Schadenspauschale ist Schadenausgleich (§ 309 Nr. 5 BGB). Beides parallel pauschalieren ist regelmäßig unzulässig.
+ - **B2C:** § 309 Nr. 6 BGB ist absolutes Klauselverbot ohne Wertungsmöglichkeit. Eine Vertragsstrafe gegen den Verbraucher für Nichtabnahme, Zahlungsverzug oder Vertragslösung ist immer unwirksam.
+ - **B2B:** § 309 Nr. 6 BGB gilt zwar nicht direkt (§ 310 Abs. 1 BGB), die Wertung strahlt aber über § 307 Abs. 2 Nr. 1 BGB aus. Strafe ist im B2B nur zulässig, wenn Verstoß klar bestimmt, Höhe angemessen (Faustregel: nicht mehr als 5% Auftragswert pro Fall) und kein Schadenersatz darüber hinaus pauschaliert wird.
+ - **Verbot der Verschleierung:** Wenn die Klausel das Wort "Vertragsstrafe" vermeidet und stattdessen "Pauschalvergütung", "Bearbeitungspauschale" oder "Aufwandsentschädigung" sagt, gilt sie trotzdem als Vertragsstrafe, sobald sie sanktionierenden Charakter hat. Transparenzgebot § 307 Abs. 1 S. 2 BGB verletzt.
+ - **Verhältnis zu § 339 BGB:** Vertragsstrafe ist akzessorisch zur Hauptforderung (§ 339 BGB) und setzt Verschulden voraus (§ 286 Abs. 4 BGB analog). Klauseln ohne Verschuldensbezug sind regelmäßig unwirksam.
+ - **Verhältnis zu Schadenspauschale:** Vertragsstrafe ist Sanktion; Schadenspauschale ist Schadenausgleich (§ 309 Nr. 5 BGB). Beides parallel pauschalieren ist regelmäßig unzulässig.
 6. **Rechtsfolge:** Vollständige Unwirksamkeit der Klausel (§ 306 Abs. 1 BGB); keine geltungserhaltende Reduktion auf "angemessene" Höhe (BGH, ständige Rechtsprechung). Ersatzregel: § 280 BGB konkreter Schadenersatz.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

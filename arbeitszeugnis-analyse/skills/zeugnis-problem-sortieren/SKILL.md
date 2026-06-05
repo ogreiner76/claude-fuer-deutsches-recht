@@ -26,11 +26,11 @@ Dieser Skill ist der Einstieg, wenn noch nicht klar ist, ob das Zeugnis schlecht
 
 - **Anspruchsgrundlage:** § 109 GewO (qualifiziertes wohlwollendes Zeugnis), für Arbeiter zusätzlich § 630 BGB.
 - **Notenstufen-Matrix nach BAG ständiger Rechtsprechung:**
-  - Note 1: "stets zur vollsten Zufriedenheit"
-  - Note 2: "stets zur vollen Zufriedenheit"
-  - Note 3: "zur vollen Zufriedenheit" (ohne "stets")
-  - Note 4: "zur Zufriedenheit" / "war stets bemüht"
-  - Note 5: "im Wesentlichen / im Großen und Ganzen zur Zufriedenheit"
+ - Note 1: "stets zur vollsten Zufriedenheit"
+ - Note 2: "stets zur vollen Zufriedenheit"
+ - Note 3: "zur vollen Zufriedenheit" (ohne "stets")
+ - Note 4: "zur Zufriedenheit" / "war stets bemüht"
+ - Note 5: "im Wesentlichen / im Großen und Ganzen zur Zufriedenheit"
 - **Wahrheit und Wohlwollen:** § 109 Abs. 2 GewO (kein Geheimcode, keine Doppeldeutigkeit). Beweislast: bis Note 3 trägt **Arbeitnehmer** die Beweislast für bessere Note; ab Note 4 (befriedigend) trägt **Arbeitgeber** die Beweislast für die schlechtere Beurteilung (BAG ständige Rechtsprechung).
 - **Geheimcode-Warnsignale:** "bemüht", "im Wesentlichen", fehlende Steigerungen, falsche Reihenfolge ("Kollegen und Vorgesetzte" statt "Vorgesetzten, Kollegen"), kühle Schlussformel ohne Bedauern/Dank/Erfolgswünsche, Auslassung relevanter Aufgabenbereiche.
 - **Fristen:** Verfall des Zeugnisanspruchs nach Verwirkung (ca. 10 Monate nach Beendigung, abhängig vom Einzelfall) und ggf. tarifvertragliche Ausschlussfristen.

@@ -26,11 +26,11 @@ Plus Hilfsformate:
 
 1. **Eingangsbausteine sammeln**: Die strukturierten Markdown-Dateien aus den vorgelagerten Skills (`vorblatt.md`, `gesetzestext.md`, `begruendung-allgemein.md`, `begruendung-besonders.md`, `synopse.csv`) müssen vorliegen.
 2. **Format wählen** (siehe oben 1-7) abhängig vom Adressaten:
-   - federführendes Ressort intern -> Referentenentwurf
-   - Kabinett -> Kabinettsmappe + Referentenentwurf
-   - Bundestag/Fraktion/Opposition -> parlamentarische Vorlage oder Formulierungshilfe
-   - Landtag/Landtagsfraktion -> landesspezifische parlamentarische Vorlage
-   - Bundestag von Bundesregierung -> BT-Drucksachen-Layout
+ - federführendes Ressort intern -> Referentenentwurf
+ - Kabinett -> Kabinettsmappe + Referentenentwurf
+ - Bundestag/Fraktion/Opposition -> parlamentarische Vorlage oder Formulierungshilfe
+ - Landtag/Landtagsfraktion -> landesspezifische parlamentarische Vorlage
+ - Bundestag von Bundesregierung -> BT-Drucksachen-Layout
 3. **Skript aufrufen**: `python3 skills/dokumente-rendern-docx-pdf/assets/render.py --format referentenentwurf --eingabe /pfad/zum/projekt/ --ausgabe /pfad/zum/projekt/output/`
 4. **Visuelle Prüfung** des DOCX: Schriftart, Sperrsatz, Änderungsbefehle kursiv, Vorblatt-Gliederung, Kopf-/Fußzeile.
 5. **Optional PDF**: Konvertierung via LibreOffice headless (Skript läuft, wenn `soffice` verfügbar) oder Pandoc.
@@ -76,22 +76,22 @@ Der Eingabeordner enthält:
 
 ```
 projekt/
-  metadaten.yaml      # Titel, Kurztitel, Federfuehrung, Bearbeitungsstand, Drucksachennummer, Wahlperiode
-  vorblatt.md         # A bis F mit den ueblichen Abschnitten
-  gesetzestext.md     # Artikel 1 ... Artikel N (Inkrafttreten)
-  begruendung-a.md    # I bis VII
-  begruendung-b.md    # Zu Artikel X / Zu Nummer Y
-  synopse.csv         # Spalten: geltend | aenderung | begruendung
-  anlagen/            # NKR, Bundesrat, Gegenaeusserung (optional, als md)
+ metadaten.yaml # Titel, Kurztitel, Federfuehrung, Bearbeitungsstand, Drucksachennummer, Wahlperiode
+ vorblatt.md # A bis F mit den ueblichen Abschnitten
+ gesetzestext.md # Artikel 1 ... Artikel N (Inkrafttreten)
+ begruendung-a.md # I bis VII
+ begruendung-b.md # Zu Artikel X / Zu Nummer Y
+ synopse.csv # Spalten: geltend | aenderung | begruendung
+ anlagen/ # NKR, Bundesrat, Gegenaeusserung (optional, als md)
 ```
 
 ## Beispielaufruf
 
 ```bash
 python3 skills/dokumente-rendern-docx-pdf/assets/render.py \
-  --format referentenentwurf \
-  --eingabe testakten/legistik-pflichtpostfach/ \
-  --ausgabe testakten/legistik-pflichtpostfach/output/
+ --format referentenentwurf \
+ --eingabe testakten/legistik-pflichtpostfach/ \
+ --ausgabe testakten/legistik-pflichtpostfach/output/
 ```
 
 Ausgabe: `Referentenentwurf-Pflichtpostfachgesetz.docx` (und `.pdf` wenn `soffice` installiert).

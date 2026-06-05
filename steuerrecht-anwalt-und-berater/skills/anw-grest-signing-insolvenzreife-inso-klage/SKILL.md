@@ -1,23 +1,23 @@
 ---
 name: anw-grest-signing-insolvenzreife-inso-klage
-description: "Nutze dies, wenn Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen, Anw Tatsaechliche Verstaendigung Schlussbesprechung und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `anw-grest-signing-closing-doppelfestsetzung` | GrESt Signing/Closing Spezialskill: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung. |
-| `anw-insolvenzreife-pruefung-17-19-inso` | Workflow-Skill zu anw insolvenzreife pruefung 17 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `anw-grest-signing-closing-doppelfestsetzung` | GrESt Signing/Closing Fachmodul: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung. |
+| `anw-insolvenzreife-pruefung-17-19-inso` | Arbeitsmodul zu anw insolvenzreife pruefung 17 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `anw-klage-finanzgericht` | Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anwendungsfall Einspruch wurde zurückgewiesen Mandant will Klage einreichen oder Untätigkeitsklage nach sechs Monaten ohne Entscheidung. Klagefrist ein Monat nach Bekanntgabe Einspruchsentscheidung § 47 Abs. 1 FGO ein Jahr bei fehlender Rechtsbehelfsbelehrung § 55 FGO Untätigkeitsklage § 46 FGO nach sechs Monaten. Sachliche Zuständigkeit FG § 33 FGO örtlich Beklagtensitz § 38 FGO beA-Pflicht. Output Klageschrift Anlagen Beweisangebote FGO-konform. Abgrenzung zu anw-einspruch-finanzamt und BFH-Nichtzulassungsbeschwerde. |
-| `anw-organschaft-konzern-grundlagen` | Workflow-Skill zu anw organschaft konzern grundlagen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `anw-tatsaechliche-verstaendigung-schlussbesprechung` | Workflow-Skill zu anw tatsaechliche verstaendigung schlussbesprechung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `anw-organschaft-konzern-grundlagen` | Arbeitsmodul zu anw organschaft konzern grundlagen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `anw-tatsaechliche-verstaendigung-schlussbesprechung` | Arbeitsmodul zu anw tatsaechliche verstaendigung schlussbesprechung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fa-stu-anteilstausch-21-umwstg` | Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolgen Buchwert. Anwendungsfall Eine natuerliche Person oder Personengesellschaft uebertraegt Anteile an einer Kapitalgesellschaft gegen Gewaehrung neuer Anteile an einer anderen Kapitalgesellschaft. Behandelt qualifizierter Anteilstausch Wertansatzwahl Sperrfristen § 22 Abs. 2 UmwStG sieben Jahre und Folge einer schaedlichen Veraeusserung. Output Pruefraster und Vereinbarungsmuster. Abgrenzung zu fa-stu-umwandlung-formwechsel-umwstg. |
 | `fa-stu-aussenpruefung-anordnung-pruefung` | Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprechung § 201 AO Pruefungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Pruefungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsgrenzen und Belege-Bereitstellung klaeren. Behandelt Pruefungsumfang Mitwirkungspflicht § 200 AO digitaler Datenzugriff GoBD und Ablaufhemmung § 171 Abs. 4 AO. Output Pruefraster und Schriftsatz gegen unwirksame Pruefungsanordnung. Abgrenzung zu fa-stu-betriebspruefung-strafrecht-393-ao und fa-stu-tatsaechliche-verstaendigung. |
 | `fa-stu-aussenwirtschaftsembargo` | Pruefung der Einhaltung des Aussenwirtschaftsrechts in Mandantenstrukturen — AWG AWV Dual-Use-Verordnung und EU-Sanktionsregime sowie strafrechtliche Konsequenzen § 17 AWG. Anwendungsfall Mandant exportiert in sanktionierten Drittstaat oder erhaelt eine Anfrage zur Bereitstellung von Vermoegen an gelistete Personen. Behandelt Genehmigungspflichten Catch-all-Klausel und das deutsche Strafrecht § 17 § 18 AWG. Output Pruefraster und Strategie bei Ermittlungsverfahren. Abgrenzung zu fa-stu-zollwert-unionszollkodex. |
@@ -32,7 +32,7 @@ Für **Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Prüfung 
 
 ## 1. `anw-grest-signing-closing-doppelfestsetzung`
 
-**Fokus:** GrESt Signing/Closing Spezialskill: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung.
+**Fokus:** GrESt Signing/Closing Fachmodul: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung.
 
 # GrESt: Signing, Closing und Doppelfestsetzung
 
@@ -96,7 +96,7 @@ Keine Aussage, die Finanzverwaltung dürfe "nie" zwei Bescheide erlassen. Der ak
 
 ## 2. `anw-insolvenzreife-pruefung-17-19-inso`
 
-**Fokus:** Workflow-Skill zu anw insolvenzreife pruefung 17 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu anw insolvenzreife pruefung 17 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO (Steueranwalts-Sicht)
 
@@ -162,7 +162,7 @@ Der Steueranwalt ist typischerweise der erste Berater, der erkennt, dass seine M
 ## Prüfschema Insolvenzreife
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -235,7 +235,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ANWALTLICHES PRÜFGUTACHTEN — VERTRAULICH
 Betreff: Insolvenzreife-Prüfung [Firma] GmbH — Stichtag [Datum]
 Erstellt von: Rechtsanwalt/Rechtsanwältin [Name], Fachanwalt/Fachanwältin
-              für Steuerrecht
+ für Steuerrecht
 
 A. Sachverhalt und Auftrag
 [Kurze Darstellung des Mandats; Anlass: Steuerrückstände EUR x;
@@ -247,20 +247,20 @@ B. Prüfung § 17 InsO — Zahlungsunfähigkeit
 I. Liquiditätsstatus zum [Stichtag]:
 
 Aktiva I:
- Bankguthaben (Kto. Nr. ...)     EUR [x]
- Ungenutzte Kreditlinie           EUR [y]
+ Bankguthaben (Kto. Nr. ...) EUR [x]
+ Ungenutzte Kreditlinie EUR [y]
  Forderungen Zahlungseingang ≤14T EUR [z]
- Summe Aktiva I                   EUR [A]
+ Summe Aktiva I EUR [A]
 
 Passiva I:
  Steuerschulden FA [Bescheid ...] EUR [a]
  (davon AdV § 361 AO: EUR [b] bleibt Passiva I;
-  davon Stundung § 222 AO bis [Datum]: EUR [c] = herausnehmen)
- Netto Steuerschulden Passiva I   EUR [a-c]
- Lohnsteuer § 41a EStG fällig     EUR [d]
- SV-Abgaben fällig                EUR [e]
- LuL-Verbindlichkeiten fällig     EUR [f]
- Summe Passiva I                  EUR [P]
+ davon Stundung § 222 AO bis [Datum]: EUR [c] = herausnehmen)
+ Netto Steuerschulden Passiva I EUR [a-c]
+ Lohnsteuer § 41a EStG fällig EUR [d]
+ SV-Abgaben fällig EUR [e]
+ LuL-Verbindlichkeiten fällig EUR [f]
+ Summe Passiva I EUR [P]
 
 Deckungslücke = [P] − [A] = EUR [L]
 Quote = [L] / [P] = [X] %
@@ -328,11 +328,11 @@ Zahlungen aus der Gesellschaft, die die Insolvenzmasse schmälern
 Wir empfehlen Ihnen dringend, unverzüglich:
 1. einen Fachanwalt für Insolvenzrecht hinzuzuziehen;
 2. mit dem Insolvenzgericht [Gericht] (Registergericht Ihres
-   Gesellschaftssitzes) Kontakt aufzunehmen;
+ Gesellschaftssitzes) Kontakt aufzunehmen;
 3. bis zum Insolvenzantrag keine Zahlungen mehr aus der
-   Gesellschaft zu leisten, die die Masse schmälern könnten
-   (§ 15b InsO), ausgenommen Zahlungen die mit der Sorgfalt
-   eines ordentlichen Kaufmanns vereinbar sind.
+ Gesellschaft zu leisten, die die Masse schmälern könnten
+ (§ 15b InsO), ausgenommen Zahlungen die mit der Sorgfalt
+ eines ordentlichen Kaufmanns vereinbar sind.
 
 Bitte bestätigen Sie uns den Empfang dieses Schreibens und
 teilen Sie uns mit, welche Schritte Sie unternehmen werden.
@@ -349,26 +349,26 @@ Datum: [Datum]
 Teilnehmer: RA [Name], GF [Firma GmbH], ggf. Steuerberater [Name]
 
 Gegenstand: Erörterung der Insolvenzreife-Prüfung und Belehrung
-            nach § 15a InsO
+ nach § 15a InsO
 
 1. Das anwaltliche Prüfgutachten vom [Datum] wurde dem Mandanten
-   erläutert. Ergebnis: Zahlungsunfähigkeit nach § 17 InsO seit
-   [Stichtag] bejaht.
+ erläutert. Ergebnis: Zahlungsunfähigkeit nach § 17 InsO seit
+ [Stichtag] bejaht.
 
 2. Der Mandant wurde ausdrücklich belehrt über:
-   a) Inhalt und Rechtsfolgen des § 15a Abs. 1 InsO
-      (Antragspflicht, Frist 3 Wochen);
-   b) Strafbarkeit nach § 15a Abs. 4 InsO;
-   c) Persönliche Haftung nach § 15b InsO für Masseschmälerungen;
-   d) § 69 AO GF-Haftung für nicht abgeführte Steuern;
-   e) § 266a StGB Strafbarkeit bei nicht abgeführten SV-Beiträgen.
+ a) Inhalt und Rechtsfolgen des § 15a Abs. 1 InsO
+ (Antragspflicht, Frist 3 Wochen);
+ b) Strafbarkeit nach § 15a Abs. 4 InsO;
+ c) Persönliche Haftung nach § 15b InsO für Masseschmälerungen;
+ d) § 69 AO GF-Haftung für nicht abgeführte Steuern;
+ e) § 266a StGB Strafbarkeit bei nicht abgeführten SV-Beiträgen.
 
 3. Der Mandant hat erklärt: [Reaktion des Mandanten dokumentieren]
 
 4. Nächste Schritte: [Beschluss Beteiligter]
 
 5. Kopie dieses Aktenvermerks geht an den Steuerberater [Name]
-   zur Dokumentation der § 102 StaRUG-Pflichterfüllung.
+ zur Dokumentation der § 102 StaRUG-Pflichterfüllung.
 
 Unterschrift RA: ___________________
 Datum: ___________________________
@@ -425,8 +425,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 <!-- AUDIT 27.05.2026 bundle_044
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  → Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=24.05.2005&Aktenzeichen=IX+ZR+123%2F04
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=24.05.2005&Aktenzeichen=IX+ZR+123%2F04
 -->
 
 ## 3. `anw-klage-finanzgericht`
@@ -556,7 +556,7 @@ Nach Urteil des FG: Revision an BFH (§ 115 FGO) wenn zugelassen oder Nichtzulas
 
 ## 4. `anw-organschaft-konzern-grundlagen`
 
-**Fokus:** Workflow-Skill zu anw organschaft konzern grundlagen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu anw organschaft konzern grundlagen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken
 
@@ -613,10 +613,10 @@ Anwaltliche Beratung bei Begründung, Pflege und Beendigung von Organschaftsverh
 2. **Organgesellschaft**: Inländische Kapitalgesellschaft (GmbH, AG, KGaA).
 3. **Finanzielle Eingliederung**: Organträger hat Stimmenmehrheit > 50 % (mittelbar oder unmittelbar) **ab Beginn** des Wirtschaftsjahres der Organgesellschaft.
 4. **Gewinnabführungsvertrag** nach §§ 291 ff. AktG (analog GmbHG):
-   - Vertragsdauer mindestens **5 Zeitjahre**
-   - Tatsächliche Durchführung
-   - Eintragung im Handelsregister
-   - Wirksamer Beschluss der Gesellschafterversammlungen beider Gesellschaften
+ - Vertragsdauer mindestens **5 Zeitjahre**
+ - Tatsächliche Durchführung
+ - Eintragung im Handelsregister
+ - Wirksamer Beschluss der Gesellschafterversammlungen beider Gesellschaften
 5. **Tatsächliche Verlustübernahme** durch Organträger (bei Verlustjahren).
 
 ### Wirkungen
@@ -670,7 +670,7 @@ Folgt grundsätzlich der KSt-Organschaft (Akzessorietät). Eigenständige Voraus
 - Gewinnabführungsvertrag (wie KSt)
 - **Gemeinde-Hebesatz** wird beim Organträger angesetzt (i.d.R. günstiger als verteilt).
 
-## Workflow Begründung
+## Begründung
 
 ### Phase 1 — Strukturplanung
 
@@ -730,7 +730,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 5. `anw-tatsaechliche-verstaendigung-schlussbesprechung`
 
-**Fokus:** Workflow-Skill zu anw tatsaechliche verstaendigung schlussbesprechung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu anw tatsaechliche verstaendigung schlussbesprechung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich
 

@@ -1,13 +1,13 @@
 ---
 name: simulation-bidder-steps-plan
-description: "Nutze dies, wenn Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -173,34 +173,34 @@ INFORMATION MEMORANDUM / PROCESS LETTER — [DEAL-NAME]
 STRENG VERTRAULICH
 
 1. UEBERSICHT TRANSAKTION
-   Zielgesellschaft: [NAME, Sitz, Beschreibung]
-   Transaktionsgegenstand: [100 % / X % Anteile / Assets]
-   Angestrebtes Closing: [QUARTAL / DATUM]
+ Zielgesellschaft: [NAME, Sitz, Beschreibung]
+ Transaktionsgegenstand: [100 % / X % Anteile / Assets]
+ Angestrebtes Closing: [QUARTAL / DATUM]
 
 2. PROZESS-KALENDER
-   NDA-Unterzeichnung bis: [DATUM]
-   Non-Binding Offer bis: [DATUM]
-   Management-Presentation: [KW]
-   Binding Offer bis: [DATUM]
-   Exklusivitaet: ab [DATUM], Dauer [X Wochen]
+ NDA-Unterzeichnung bis: [DATUM]
+ Non-Binding Offer bis: [DATUM]
+ Management-Presentation: [KW]
+ Binding Offer bis: [DATUM]
+ Exklusivitaet: ab [DATUM], Dauer [X Wochen]
 
 3. ANGEBOTSANFORDERUNGEN
-   Das Angebot muss enthalten:
-   a) Indikativen oder bindenden Kaufpreis (Enterprise Value und Equity Value)
-   b) Transaktionsstruktur (Share Deal / Asset Deal)
-   c) Wesentliche Vollzugsbedingungen (Kartellrecht, FDI, sonstige)
-   d) Finanzierungsnachweis / Funding Commitment
-   e) Geplantes Management-Konzept / Integrationsplan
-   f) Markierter SPA-Entwurf (Phase II)
+ Das Angebot muss enthalten:
+ a) Indikativen oder bindenden Kaufpreis (Enterprise Value und Equity Value)
+ b) Transaktionsstruktur (Share Deal / Asset Deal)
+ c) Wesentliche Vollzugsbedingungen (Kartellrecht, FDI, sonstige)
+ d) Finanzierungsnachweis / Funding Commitment
+ e) Geplantes Management-Konzept / Integrationsplan
+ f) Markierter SPA-Entwurf (Phase II)
 
 4. KONTAKTINFORMATION
-   Prozessbevollmaechtigter: [INVESTMENTBANK / KANZLEI]
-   Kontakt: [E-Mail]
+ Prozessbevollmaechtigter: [INVESTMENTBANK / KANZLEI]
+ Kontakt: [E-Mail]
 
 5. HINWEISE
-   - Alle Anfragen nur ueber die Prozessbeauftragten
-   - Kein direkter Kontakt zum Management ohne Erlaubnis
-   - Vertraulichkeit gemaess NDA; keine Weitergabe von Prozessinformationen
+ - Alle Anfragen nur ueber die Prozessbeauftragten
+ - Kein direkter Kontakt zum Management ohne Erlaubnis
+ - Vertraulichkeit gemaess NDA; keine Weitergabe von Prozessinformationen
 ```
 
 ## Bieter-Bewertungsmatrix
@@ -417,37 +417,37 @@ KW: [Nr.] / Datum: [DATUM]
 Erstellt von: [PMO-Lead]
 
 1. AMPELSTATUS: [GRUEN / GELB / ROT]
-   GRUEN: Alle Workstreams planmaessig
-   GELB: [Beschreibung des Problems / Risikos]
-   ROT: [Kritisches Problem; sofortige Eskalation]
+ GRUEN: Alle Workstreams planmaessig
+ GELB: [Beschreibung des Problems / Risikos]
+ ROT: [Kritisches Problem; sofortige Eskalation]
 
 2. MILESTONE-STATUS
-   | Milestone | Faellig | Status | Naechste Aktion |
-   |-----------|---------|--------|----------------|
-   | Signing | [Datum] | [On track / Delayed] | [Massnahme] |
-   | Kartellfreigabe | [Datum] | [Angemeldet / Phase I] | [Follow-up] |
-   | FDI-Nichtuntersagung | [Datum] | [Angemeldet] | [...] |
-   | Closing | [Datum] | [Auf Kurs] | [...] |
+ | Milestone | Faellig | Status | Naechste Aktion |
+ |-----------|---------|--------|----------------|
+ | Signing | [Datum] | [On track / Delayed] | [Massnahme] |
+ | Kartellfreigabe | [Datum] | [Angemeldet / Phase I] | [Follow-up] |
+ | FDI-Nichtuntersagung | [Datum] | [Angemeldet] | [...] |
+ | Closing | [Datum] | [Auf Kurs] | [...] |
 
 3. WORKSTREAM-STATUS
-   | Workstream | Lead | Status | Offene Punkte |
-   |-----------|------|--------|---------------|
-   | Legal DD | [Name] | Abgeschlossen | Litigation-Frage offen |
-   | Tax DD | [Name] | 90 % | Betriebspruefungs-Details ausstehend |
-   | Regulatory | [Name] | Phase I | BKartA-Rueckfrage am [Datum] |
+ | Workstream | Lead | Status | Offene Punkte |
+ |-----------|------|--------|---------------|
+ | Legal DD | [Name] | Abgeschlossen | Litigation-Frage offen |
+ | Tax DD | [Name] | 90 % | Betriebspruefungs-Details ausstehend |
+ | Regulatory | [Name] | Phase I | BKartA-Rueckfrage am [Datum] |
 
 4. RISIKEN
-   | Risiko | Eintrittswahr. | Auswirkung | Massnahme |
-   |--------|----------------|-----------|-----------|
-   | [Risiko 1] | [%] | [Hoch] | [Massnahme] |
+ | Risiko | Eintrittswahr. | Auswirkung | Massnahme |
+ |--------|----------------|-----------|-----------|
+ | [Risiko 1] | [%] | [Hoch] | [Massnahme] |
 
 5. ENTSCHEIDUNGSBEDARF
-   - [Offener Punkt] → Entscheidung durch [NAME] bis [DATUM]
+ - [Offener Punkt] → Entscheidung durch [NAME] bis [DATUM]
 
 6. NAECHSTE WOCHE
-   | Aktion | Owner | Datum |
-   |--------|-------|-------|
-   | [Aktion 1] | [Name] | [Datum] |
+ | Aktion | Owner | Datum |
+ |--------|-------|-------|
+ | [Aktion 1] | [Name] | [Datum] |
 ```
 
 ## Schritt-fuer-Schritt-Workflow

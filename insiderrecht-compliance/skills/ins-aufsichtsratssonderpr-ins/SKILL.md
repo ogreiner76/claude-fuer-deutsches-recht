@@ -1,13 +1,13 @@
 ---
 name: ins-aufsichtsratssonderpr-ins
-description: "Nutze dies, wenn Ins 047 Aufsichtsratssonderpr Fung, Ins 048 Bankaufsichtliches Handeln im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 047 Aufsichtsratssonderpr Fung, Ins 048 Bankaufsichtliches Handeln prüfen.; Erstelle eine Arbeitsfassung zu Ins 047 Aufsichtsratssonderpr Fung, Ins 048 Bankaufsichtliches Handeln.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 047 Aufsichtsratssonderpr Fung, Ins 048 Bankaufsichtliches Handeln: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 047 Aufsichtsratssonderpr Fung, Ins 048 Bankaufsichtliches Handeln
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 047 Aufsichtsratssonderpr Fung, Ins 048 Bankaufsichtliches Handeln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -52,31 +52,31 @@ Insiderinformation werden, und steuert die Ad-hoc-Entscheidung.
 ### Schritt 1 – Insiderinformations-Prüfung des Untersuchungsgegenstands
 
 - Was ist Gegenstand der Sonderuntersuchung?
-  (Bilanzmanipulation, Korruption, Compliance-Verstöße, Kartellverhalten, persönliche Fehlverhaltensvorwürfe)
+ (Bilanzmanipulation, Korruption, Compliance-Verstöße, Kartellverhalten, persönliche Fehlverhaltensvorwürfe)
 - Ist der Untersuchungsgegenstand bereits als Insiderinformation zu qualifizieren?
 - Kursrelevanz: Würde ein verständiger Anleger die Existenz der Untersuchung oder ihr
-  voraussichtliches Ergebnis berücksichtigen?
+ voraussichtliches Ergebnis berücksichtigen?
 
 ### Schritt 2 – Zeitpunkt der Insiderinformation
 
 - Mögliche Zeitpunkte: AR-Beschluss zur Untersuchung; erster Hinweis, der die Untersuchung
-  auslöste; Zwischenergebnisse; finales Ergebnis
+ auslöste; Zwischenergebnisse; finales Ergebnis
 - Geltl/Daimler-Test: Auch Zwischenschritte können eigenständige Insiderinformationen sein
 - Dokumentiere frühestmöglichen Zeitpunkt
 
 ### Schritt 3 – Informationskreis und Insiderlisten
 
 - Wer ist in die Untersuchung eingebunden?
-  (Beauftrage Kanzlei, WP, AR-Ausschuss, ggf. Vorstand – sofern nicht selbst Untersuchungsgegenstand)
+ (Beauftrage Kanzlei, WP, AR-Ausschuss, ggf. Vorstand – sofern nicht selbst Untersuchungsgegenstand)
 - Alle Wissensträger in die Insiderliste aufnehmen
 - Informationsfluss zwischen AR und Vorstand: Nur „need to know"
 
 ### Schritt 4 – Aufschub-Möglichkeit
 
 - Laufende Untersuchung: Legitimes Interesse am Aufschub möglich, wenn Offenlegung die
-  Untersuchung beeinträchtigen würde
+ Untersuchung beeinträchtigen würde
 - Grenzen: Wenn Markt bereits von dem Untersuchungsgegenstand informiert ist (z. B. durch
-  Medien) → kein Aufschub mehr
+ Medien) → kein Aufschub mehr
 - Trigger für Aufhebung: Abschluss der Untersuchung oder Leak der Ergebnisse
 
 ### Schritt 5 – Ad-hoc bei Untersuchungsergebnis
@@ -134,17 +134,17 @@ marktrechtlicher Ad-hoc-Pflicht für börsennotierte Kreditinstitute.
 ### Schritt 1 – Insiderinformations-Prüfung bei Aufsichtsmaßnahmen
 
 - Ist die aufsichtsrechtliche Maßnahme kursrelevant?
-  Hohe Kursrelevanz: Erhöhte Kapitalanforderungen, formelle Ermittlung, Bußgeldbescheid,
-  Lizenzaufhebung, Kapitalerhöhungspflicht
-  Niedrige Kursrelevanz: Routine-Prüfungen, allgemeine Branchenanforderungen
+ Hohe Kursrelevanz: Erhöhte Kapitalanforderungen, formelle Ermittlung, Bußgeldbescheid,
+ Lizenzaufhebung, Kapitalerhöhungspflicht
+ Niedrige Kursrelevanz: Routine-Prüfungen, allgemeine Branchenanforderungen
 
 ### Schritt 2 – Vertraulichkeits-Konflikt
 
 - Aufsichtsbehörde erteilt oft explizite Vertraulichkeitsauflagen
 - MAR Art. 17 Abs. 4: Aufschub möglich, wenn legitimes Interesse besteht
 - Frage: Ist behördliche Vertraulichkeitsauflage ein „legitimes Interesse" im Sinne MAR?
-  → Antwort: Ja, wenn Offenlegung die Umsetzung der Maßnahme gefährdet oder Behörde
-  explizit Vertraulichkeit fordert (BaFin-Praxis)
+ → Antwort: Ja, wenn Offenlegung die Umsetzung der Maßnahme gefährdet oder Behörde
+ explizit Vertraulichkeit fordert (BaFin-Praxis)
 
 ### Schritt 3 – Koordination mit BaFin
 
@@ -156,7 +156,7 @@ marktrechtlicher Ad-hoc-Pflicht für börsennotierte Kreditinstitute.
 
 - Wenn Aufsichtsmaßnahme rechtskräftig: Sofortige Ad-hoc-Pflicht (Aufschub endet)
 - Wenn Maßnahme zurückgenommen: Keine Ad-hoc-Pflicht für nicht-verwirklichte Maßnahme
-  (aber: laufendes Verfahren kann weiterhin kursrelevant sein)
+ (aber: laufendes Verfahren kann weiterhin kursrelevant sein)
 
 ### Schritt 5 – Sonderfall: EZB-SSM-Verfahren
 

@@ -1,13 +1,13 @@
 ---
 name: aufgabenstellung-erfassen-fachgebiet
-description: "Nutze dies, wenn Aufgabenstellung Erfassen, Fachgebiet Routing Zivil Öffentlich Straf, Gliederung Mit Tiefenstruktur im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Hausarbeitenmacher.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies bei Aufgabenstellung Erfassen, Fachgebiet Routing Zivil Öffentlich Straf, Gliederung Mit Tiefenstruktur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aufgabenstellung Erfassen, Fachgebiet Routing Zivil Öffentlich Straf, Gliederung Mit Tiefenstruktur
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aufgabenstellung Erfassen, Fachgebiet Routing Zivil Öffentlich Straf, Gliederung Mit Tiefenstruktur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -142,7 +142,7 @@ T-20 Tage: Lieferung
 T-15 Tage: Mängelanzeige A
 T-10 Tage: Nacherfüllungs-Frist
 T-7 Tage: Rücktrittserklärung A
-T-0:       Klage
+T-0: Klage
 ```
 
 Wozu? Bei Schuldrechts-Sachverhalten (Verzug, Verjährung, Fristen) hilft der Zeitstrahl enorm.
@@ -306,9 +306,9 @@ Beide gleichwertig prüfen, Gliederung typisch:
 
 ```
 A. Zivilrechtliche Ansprüche
-   I. ...
+ I. ...
 B. Strafrechtliche Verantwortlichkeit
-   I. ...
+ I. ...
 ```
 
 ## Schritt 5 — Schwerpunkt-Identifikation
@@ -378,14 +378,14 @@ Eine gute Gliederung zeigt schon im Inhaltsverzeichnis, ob Du das Problem versta
 
 ```
 A. Erster Hauptpunkt
-   I. Erster Unter-Hauptpunkt
-      1. Erste Voraussetzung
-         a) Erste Teilvoraussetzung
-            aa) Erste Teil-Teil-Voraussetzung
-            bb) Zweite Teil-Teil-Voraussetzung
-         b) Zweite Teilvoraussetzung
-      2. Zweite Voraussetzung
-   II. Zweiter Unter-Hauptpunkt
+ I. Erster Unter-Hauptpunkt
+ 1. Erste Voraussetzung
+ a) Erste Teilvoraussetzung
+ aa) Erste Teil-Teil-Voraussetzung
+ bb) Zweite Teil-Teil-Voraussetzung
+ b) Zweite Teilvoraussetzung
+ 2. Zweite Voraussetzung
+ II. Zweiter Unter-Hauptpunkt
 B. Zweiter Hauptpunkt
 ```
 
@@ -397,66 +397,66 @@ B. Zweiter Hauptpunkt
 
 ```
 A. Anspruch K gegen B aus § 433 II BGB (Kaufpreiszahlung)
-   I. Wirksamer Kaufvertrag
-      1. Angebot
-      2. Annahme
-      3. Wirksamkeit (Geschäftsfähigkeit, Form, AGB)
-   II. Anspruch nicht erloschen
-      1. Erfüllung § 362 I BGB
-      2. Aufrechnung § 387 BGB
-      3. Verjährung
-   III. Anspruch durchsetzbar
-      1. Einreden (z.B. § 320 BGB)
+ I. Wirksamer Kaufvertrag
+ 1. Angebot
+ 2. Annahme
+ 3. Wirksamkeit (Geschäftsfähigkeit, Form, AGB)
+ II. Anspruch nicht erloschen
+ 1. Erfüllung § 362 I BGB
+ 2. Aufrechnung § 387 BGB
+ 3. Verjährung
+ III. Anspruch durchsetzbar
+ 1. Einreden (z.B. § 320 BGB)
 
 B. Anspruch K gegen B aus § 280 I BGB iVm § 433 BGB (Schadensersatz statt der Leistung)
-   I. Schuldverhältnis
-   II. Pflichtverletzung
-   III. Vertretenmüssen
-   IV. Schaden
+ I. Schuldverhältnis
+ II. Pflichtverletzung
+ III. Vertretenmüssen
+ IV. Schaden
 ```
 
 ### Öffentliches Recht (Verwaltungsklage)
 
 ```
 A. Zulässigkeit
-   I. Verwaltungsrechtsweg § 40 VwGO
-   II. Statthafte Klageart § 42 I VwGO
-   III. Klagebefugnis § 42 II VwGO
-   IV. Vorverfahren §§ 68 ff. VwGO
-   V. Klagefrist § 74 VwGO
-   VI. Zuständigkeit (sachlich, örtlich)
+ I. Verwaltungsrechtsweg § 40 VwGO
+ II. Statthafte Klageart § 42 I VwGO
+ III. Klagebefugnis § 42 II VwGO
+ IV. Vorverfahren §§ 68 ff. VwGO
+ V. Klagefrist § 74 VwGO
+ VI. Zuständigkeit (sachlich, örtlich)
 
 B. Begründetheit
-   I. Anspruchsgrundlage / Rechtsgrundlage
-   II. Formelle Rechtmäßigkeit (Zuständigkeit, Verfahren, Form)
-   III. Materielle Rechtmäßigkeit
-      1. Tatbestand
-      2. Rechtsfolge / Ermessen
-   IV. Rechtsverletzung Kläger
+ I. Anspruchsgrundlage / Rechtsgrundlage
+ II. Formelle Rechtmäßigkeit (Zuständigkeit, Verfahren, Form)
+ III. Materielle Rechtmäßigkeit
+ 1. Tatbestand
+ 2. Rechtsfolge / Ermessen
+ IV. Rechtsverletzung Kläger
 ```
 
 ### Strafrecht
 
 ```
 A. Strafbarkeit T wegen Diebstahl gemäß § 242 StGB
-   I. Tatbestand
-      1. Objektiver Tatbestand
-         a) Fremde bewegliche Sache
-         b) Wegnahme
-            aa) Bruch fremden Gewahrsams
-            bb) Begründung neuen Gewahrsams
-      2. Subjektiver Tatbestand
-         a) Vorsatz
-         b) Zueignungsabsicht
-            aa) Aneignungs-Element
-            bb) Enteignungs-Element
-   II. Rechtswidrigkeit
-   III. Schuld
-      1. Schuldfähigkeit
-      2. Schuldformen / Unrechtsbewusstsein
-      3. Entschuldigungsgründe
-   IV. Strafzumessungs-Erwägungen (ggf.)
-   V. Ergebnis
+ I. Tatbestand
+ 1. Objektiver Tatbestand
+ a) Fremde bewegliche Sache
+ b) Wegnahme
+ aa) Bruch fremden Gewahrsams
+ bb) Begründung neuen Gewahrsams
+ 2. Subjektiver Tatbestand
+ a) Vorsatz
+ b) Zueignungsabsicht
+ aa) Aneignungs-Element
+ bb) Enteignungs-Element
+ II. Rechtswidrigkeit
+ III. Schuld
+ 1. Schuldfähigkeit
+ 2. Schuldformen / Unrechtsbewusstsein
+ 3. Entschuldigungsgründe
+ IV. Strafzumessungs-Erwägungen (ggf.)
+ V. Ergebnis
 ```
 
 ## Schritt 3 — Anspruchsgrundlagen-Reihenfolge im Zivilrecht (V-C-G-D-D-B)
@@ -501,33 +501,33 @@ A. Strafbarkeit T wegen Diebstahl gemäß § 242 StGB
 
 ```
 A. Anspruch A gegen B auf Kaufpreis aus § 433 II BGB
-   I. Wirksamer Kaufvertrag
-      1. Angebot
-      2. Annahme
-      3. Wirksamkeit (AGB-Kontrolle? Sittenwidrigkeit?)
-   II. Anspruch nicht erloschen
-      1. Erfüllung
-      2. Rücktritt B (§ 437 Nr. 2 sowie §§ 323 und 326 BGB)
-         a) Mangel
-            aa) Vereinbarte Beschaffenheit
-            bb) Übliche Beschaffenheit
-         b) Nacherfüllungs-Frist gesetzt?
-         c) Folge: Rücktritt durchgreifend?
-      3. Aufrechnung (Schadensersatz B)
-   III. Anspruch durchsetzbar
-      1. Verjährung
-      2. § 320 BGB Einrede
+ I. Wirksamer Kaufvertrag
+ 1. Angebot
+ 2. Annahme
+ 3. Wirksamkeit (AGB-Kontrolle? Sittenwidrigkeit?)
+ II. Anspruch nicht erloschen
+ 1. Erfüllung
+ 2. Rücktritt B (§ 437 Nr. 2 sowie §§ 323 und 326 BGB)
+ a) Mangel
+ aa) Vereinbarte Beschaffenheit
+ bb) Übliche Beschaffenheit
+ b) Nacherfüllungs-Frist gesetzt?
+ c) Folge: Rücktritt durchgreifend?
+ 3. Aufrechnung (Schadensersatz B)
+ III. Anspruch durchsetzbar
+ 1. Verjährung
+ 2. § 320 BGB Einrede
 
 B. Anspruch A gegen B auf Schadensersatz aus §§ 280 I, 437 Nr. 3 BGB
-   I. Schuldverhältnis (Kaufvertrag)
-   II. Pflichtverletzung
-   III. Vertretenmüssen
-   IV. Schaden
+ I. Schuldverhältnis (Kaufvertrag)
+ II. Pflichtverletzung
+ III. Vertretenmüssen
+ IV. Schaden
 
 C. Gegenanspruch B gegen A auf Lieferung mangelfreier Sache aus § 437 Nr. 1 BGB
-   I. Mangel
-   II. Frist
-   III. Anspruch nicht ausgeschlossen
+ I. Mangel
+ II. Frist
+ III. Anspruch nicht ausgeschlossen
 ```
 
 ## Schritt 6 — Probleme bei der Gliederung
@@ -551,8 +551,8 @@ Wenn ein Punkt am Ergebnis nicht entscheidet, aber zur Vollständigkeit zu prüf
 
 ```
 III. Hilfsweise: Annahme der Wirksamkeit des Vertrags
-   1. ...
-   2. ...
+ 1. ...
+ 2. ...
 ```
 
 ### Problem 4: Mehrere Anspruchssteller
@@ -561,11 +561,11 @@ Bei mehreren Klägern: pro Kläger eigenen Hauptpunkt.
 
 ```
 A. Ansprüche des A
-   I. Anspruch gegen B
-   II. Anspruch gegen C
+ I. Anspruch gegen B
+ II. Anspruch gegen C
 B. Ansprüche des K
-   I. Anspruch gegen B
-   II. Anspruch gegen C
+ I. Anspruch gegen B
+ II. Anspruch gegen C
 ```
 
 ## Schritt 7 — Inhaltsverzeichnis
@@ -576,13 +576,13 @@ B. Ansprüche des K
 INHALTSVERZEICHNIS
 
 A. Ansprüche des A gegen B........................................ 5
-   I. Anspruch aus § 433 II BGB................................... 5
-      1. Wirksamer Kaufvertrag.................................... 5
-         a) Angebot............................................... 5
-         b) Annahme............................................... 6
-         c) Wirksamkeit........................................... 7
-      2. Anspruch nicht erloschen.................................. 9
-   II. Anspruch aus § 823 I BGB................................... 12
+ I. Anspruch aus § 433 II BGB................................... 5
+ 1. Wirksamer Kaufvertrag.................................... 5
+ a) Angebot............................................... 5
+ b) Annahme............................................... 6
+ c) Wirksamkeit........................................... 7
+ 2. Anspruch nicht erloschen.................................. 9
+ II. Anspruch aus § 823 I BGB................................... 12
 B. Ansprüche des B gegen A....................................... 15
 ...
 ```

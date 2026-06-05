@@ -1,23 +1,23 @@
 ---
 name: sicherungsrechte-sla-service-social-media
-description: "Nutze dies, wenn Sicherungsrechte, Sla Service Credits, Social Media Agb, Softwarelizenz Agb, Sperrung Suspendierung im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Sicherungsrechte, Sla Service Credits, Social Media Agb, Softwarelizenz Agb, Sperrung Suspendierung prüfen.; Erstelle eine Arbeitsfassung zu Sicherungsrechte, Sla Service Credits, Social Media Agb, Softwarelizenz Agb, Sperrung Suspendierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sicherungsrechte, Sla Service Credits, Social Media Agb, Softwarelizenz Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sicherungsrechte, Sla Service Credits, Social Media Agb, Softwarelizenz Agb, Sperrung Suspendierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sicherungsrechte, Sla Service Credits, Social Media Agb, Softwarelizenz Agb, Sperrung Suspendierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `sicherungsrechte` | Klausel-Spezialskill für Sicherungsrechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `sla-service-credits` | Klausel-Spezialskill für SLA Service Credits: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `social-media-agb` | Branchen-Spezialskill für Social Media AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `softwarelizenz-agb` | Branchen-Spezialskill für Softwarelizenz AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `sperrung-suspendierung` | Klausel-Spezialskill für Sperrung Suspendierung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `sicherungsrechte` | Klausel-Fachmodul für Sicherungsrechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `sla-service-credits` | Klausel-Fachmodul für SLA Service Credits: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `social-media-agb` | Branchen-Fachmodul für Social Media AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `softwarelizenz-agb` | Branchen-Fachmodul für Softwarelizenz AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `sperrung-suspendierung` | Klausel-Fachmodul für Sperrung Suspendierung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Sicherungsrechte, Sla Service Credits, Social Media Agb, Softwarelizenz A
 
 ## 1. `sicherungsrechte`
 
-**Fokus:** Klausel-Spezialskill für Sicherungsrechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Sicherungsrechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Sicherungsrechte
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `sla-service-credits`
 
-**Fokus:** Klausel-Spezialskill für SLA Service Credits: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für SLA Service Credits: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # SLA Service Credits
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `social-media-agb`
 
-**Fokus:** Branchen-Spezialskill für Social Media AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Social Media AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Social Media AGB
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `softwarelizenz-agb`
 
-**Fokus:** Branchen-Spezialskill für Softwarelizenz AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Softwarelizenz AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Softwarelizenz AGB
 
@@ -248,7 +248,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `sperrung-suspendierung`
 
-**Fokus:** Klausel-Spezialskill für Sperrung Suspendierung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Sperrung Suspendierung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Sperrung Suspendierung
 

@@ -1,13 +1,13 @@
 ---
 name: db-oeffentliche-db-wissenschaftsdaten-db
-description: "Nutze dies, wenn Db 020 Oeffentliche Register Handelsregister Grundbuch Transpare, Db 021 Wissenschaftsdaten Forschungsdatenbank, Db 022 Kartendaten Geodaten Und Luftbilder im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 020 Oeffentliche Register Handelsregister Grundbuch Transpare, Db 021 Wissenschaftsdaten Forschungsdatenbank, Db 022 Kartendaten Geodaten Und Luftbilder prüfen.; Erstelle eine Arbeitsfassung zu Db 020 Oeffentliche Register Handelsregister Grundbuch Transpare, Db 021 Wissenschaftsdaten Forschungsdatenbank, Db 022 Kartendaten Geodaten Und Luftbilder.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Db 020 Oeffentliche Register Handelsregister Grundbuch Transpare, Db 021 Wissenschaftsdaten Forschungsdatenbank, Db 022 Kartendaten Geodaten Und Luftbilder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 020 Oeffentliche Register Handelsregister Grundbuch Transpare, Db 021 Wissenschaftsdaten Forschungsdatenbank, Db 022 Kartendaten Geodaten Und Luftbilder
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 020 Oeffentliche Register Handelsregister Grundbuch Transpare, Db 021 Wissenschaftsdaten Forschungsdatenbank, Db 022 Kartendaten Geodaten Und Luftbilder** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

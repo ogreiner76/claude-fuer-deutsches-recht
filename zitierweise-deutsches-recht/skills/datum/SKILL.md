@@ -1,12 +1,12 @@
 ---
 name: datum
-description: "Nutze dies, wenn Datum: Behörden-, Gerichts- oder Registerweg im Plugin Zitierweise Deutsches Recht konkret bearbeitet werden soll. Auslöser: Bitte Datum: Behörden-, Gerichts- oder Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Datum: Behörden-, Gerichts- oder Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Datum: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Datum: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Datum: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Datum: Behörden-, Gerichts- oder Registerweg / spezial datum behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Datum: Behörden-, Gerichts- oder Registerweg / datum behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

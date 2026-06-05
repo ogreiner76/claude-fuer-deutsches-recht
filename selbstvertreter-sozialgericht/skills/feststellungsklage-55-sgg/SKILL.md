@@ -51,7 +51,7 @@ Wenn ein Verwaltungsakt vorliegt: meistens Anfechtungs- oder Verpflichtungsklage
 ### Schritt 2 — Klageschrift
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 [Name]
 [Adresse]

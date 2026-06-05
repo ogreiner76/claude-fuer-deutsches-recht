@@ -36,7 +36,7 @@ Die neue Produkthaftungs-RL VO (EU) 2024/2853 reagiert auf die Beweisnot von Ges
 - **DSGVO** Art. 15 Auskunftsrecht.
 - **§ 99 PatG / § 145a MarkenG** für Geschäftsgeheimnisschutz im Disclosure-Verfahren (GeschGehG).
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Beweissicherung vor Klage.** Logs, Fotos, Zeugenaussagen, Sachverständigengutachten privat; Hash-Sicherung.
 2. **Disclosure-Antrag** nach neuer ProdHaftRL (für Schäden ab 09.12.2026): Antrag auf Vorlage konkret bezeichneter Unterlagen, "necessary and proportionate"; Schutz von Geschäftsgeheimnissen Art. 9 Abs. 4 RL i. V. m. GeschGehG.

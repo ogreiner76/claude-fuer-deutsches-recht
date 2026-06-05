@@ -49,7 +49,7 @@ Dieser Skill behandelt die Konstellation systematisch.
 - **BFH, Urteil v. 30.11.2011 — I R 100/10** — § 5 Abs. 2a EStG bei qualifiziertem Rangruecktritt (Abgrenzung).
 - **OFD Frankfurt a. M.** — Verfuegung mit der Aussage, dass der blosse Liquidationsbeschluss kein konkludenter Forderungsverzicht ist (Aktualitaet vor Anwendung pruefen).
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 | Schritt | Inhalt | Output |
 |---|---|---|

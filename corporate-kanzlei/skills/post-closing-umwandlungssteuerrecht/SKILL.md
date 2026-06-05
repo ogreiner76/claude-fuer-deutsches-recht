@@ -1,13 +1,13 @@
 ---
 name: post-closing-umwandlungssteuerrecht
-description: "Nutze dies, wenn Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Post Closing Integration, Corporate Kanzlei Umwandlungssteuerrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -215,17 +215,17 @@ hiermit informieren wir Sie gemass § 613a Abs. 5 BGB ueber den Uebergang Ihres 
 2. GRUND DES UEBERGANGS: Erwerb der [FIRMA] durch [KAEUFER] gemaess Share Purchase Agreement vom [DATUM].
 
 3. RECHTLICHE, WIRTSCHAFTLICHE UND SOZIALE FOLGEN:
-   - Ihr Arbeitsverhaeltnis geht mit allen Rechten und Pflichten auf [KAEUFER/NEUE GESELLSCHAFT] ueber.
-   - Ihr Gehalt, Ihre Taetigkeit und Ihre Arbeitsbedingungen bleiben unveraendert.
-   - Bestehende Betriebsvereinbarungen gelten fuer ein Jahr fort (§ 613a I 2 BGB), sofern keine abweichende Regelung getroffen wird.
+ - Ihr Arbeitsverhaeltnis geht mit allen Rechten und Pflichten auf [KAEUFER/NEUE GESELLSCHAFT] ueber.
+ - Ihr Gehalt, Ihre Taetigkeit und Ihre Arbeitsbedingungen bleiben unveraendert.
+ - Bestehende Betriebsvereinbarungen gelten fuer ein Jahr fort (§ 613a I 2 BGB), sofern keine abweichende Regelung getroffen wird.
 
 4. GEPLANTE MASSNAHMEN: [Kurzbeschreibung der Integrationsplane, soweit bekannt]
 
 5. WIDERSPRUCHSRECHT: Sie koennen dem Uebergang Ihres Arbeitsverhaeltnisses widersprechen.
-   - Frist: 1 Monat ab Zugang dieses Schreibens.
-   - Adressat: [Alte Gesellschaft] und/oder [Neue Gesellschaft]
-   - Folge des Widerspruchs: Ihr Arbeitsverhaeltnis verbleibt bei [Alte Gesellschaft];
-     jedoch koennte eine betriebsbedingte Kuendigung folgen.
+ - Frist: 1 Monat ab Zugang dieses Schreibens.
+ - Adressat: [Alte Gesellschaft] und/oder [Neue Gesellschaft]
+ - Folge des Widerspruchs: Ihr Arbeitsverhaeltnis verbleibt bei [Alte Gesellschaft];
+ jedoch koennte eine betriebsbedingte Kuendigung folgen.
 
 Mit freundlichen Gruessen
 [FIRMA]

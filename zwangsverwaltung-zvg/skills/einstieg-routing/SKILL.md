@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Zwangsverwaltung Zvg.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Zwangsverwaltung Zvg** ein Fall noch sorti
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `berichte-beschlagnahme-mietverwaltung-besitz` — Berichte Beschlagnahme Mietverwaltung Besitz
 - `betriebskosten-hausgeld-bieterangebot-bewertung-glaeubiger` — Betriebskosten Hausgeld Bieterangebot Bewertung Glaeubiger
 - `bieterangebote-mieten-oeffentliche` — Bieterangebote Mieten Oeffentliche

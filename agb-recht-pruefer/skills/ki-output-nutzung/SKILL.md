@@ -1,6 +1,6 @@
 ---
 name: ki-output-nutzung
-description: "Klausel-Spezialskill für KI Output Nutzung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für KI Output Nutzung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # KI Output Nutzung

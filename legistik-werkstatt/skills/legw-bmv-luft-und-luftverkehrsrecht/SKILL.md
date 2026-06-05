@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Luft- und Luftverkehrsrecht
-Ressort:            BMV
-Kernnormen:         LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.
-Akteure/Aufsicht:   Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).
-EU/Voelkerrecht:    EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmv; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Luft- und Luftverkehrsrecht
+Ressort: BMV
+Kernnormen: LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.
+Akteure/Aufsicht: Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).
+EU/Voelkerrecht: EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

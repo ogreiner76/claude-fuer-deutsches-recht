@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Produktrecht** ein Fall noch sortiert, Dok
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `bewertungen-red-team-impressumspflicht` — Bewertungen Red Team Impressumspflicht
 - `eu-produktsicherheitsverordnung-feature-risikobewertung` — Eu Produktsicherheitsverordnung Feature Risikobewertung
 - `ist-ein-ki-act-marktueberwachung-kommunikation` — Ist Ein Ki Act Marktueberwachung Kommunikation

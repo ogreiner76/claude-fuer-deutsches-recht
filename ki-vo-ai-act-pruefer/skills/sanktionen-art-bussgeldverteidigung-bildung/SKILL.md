@@ -1,13 +1,13 @@
 ---
 name: sanktionen-art-bussgeldverteidigung-bildung
-description: "Nutze dies, wenn Sanktionen Art 99 Bis 101, Sanktionen Bussgeldverteidigung Art 99, Bildung Pruefungsrecht Anhang Iii Monitoring, Hochrisiko Menschliche Aufsicht Art 14 im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Sanktionen Art 99 Bis 101, Sanktionen Bussgeldverteidigung Art 99, Bildung Pruefungsrecht Anhang Iii Monitoring, Hochrisiko Menschliche Aufsicht Art 14 prüfen.; Erstelle eine Arbeitsfassung zu Sanktionen Art 99 Bis 101, Sanktionen Bussgeldverteidigung Art 99, Bildung Pruefungsrecht Anhang Iii Monitoring, Hochrisiko Menschliche Aufsicht Art 14.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sanktionen Art 99 Bis 101, Sanktionen Bussgeldverteidigung Art 99, Bildung Pruefungsrecht Anhang Iii Monitoring, Hochrisiko Menschliche Aufsicht Art 14: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sanktionen Art 99 Bis 101, Sanktionen Bussgeldverteidigung Art 99, Bildung Pruefungsrecht Anhang Iii Monitoring, Hochrisiko Menschliche Aufsicht Art 14
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sanktionen Art 99 Bis 101, Sanktionen Bussgeldverteidigung Art 99, Bildung Pruefungsrecht Anhang Iii Monitoring, Hochrisiko Menschliche Aufsicht Art 14** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -133,7 +133,7 @@ Gepruefte Norm(en): [Art. 99 Rn. 5]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -342,7 +342,7 @@ Gepruefte Norm(en): [Art. 14 Rn. 5]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

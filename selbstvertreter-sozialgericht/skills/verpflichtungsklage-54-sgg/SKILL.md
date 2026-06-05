@@ -57,7 +57,7 @@ Beispiele:
 In der Praxis ist es fast immer kombinierte Anfechtungs- und Verpflichtungsklage:
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 [Name, Geburtsdatum, Versicherungsnummer]
 [Adresse]
@@ -91,16 +91,16 @@ I. Sachverhalt
 
 II. Rechtliche Wuerdigung
 1. Versicherungsrechtliche Voraussetzungen
-   - Wartezeit § 50 SGB VI erfuellt: [Beleg]
-   - 3 Jahre Pflichtbeitraege in den letzten 5 Jahren: [Beleg]
+ - Wartezeit § 50 SGB VI erfuellt: [Beleg]
+ - 3 Jahre Pflichtbeitraege in den letzten 5 Jahren: [Beleg]
 
 2. Medizinische Voraussetzungen
-   - Ich kann auf dem allgemeinen Arbeitsmarkt taeglich weniger als 3 Stunden arbeiten (§ 43 Abs. 2 SGB VI).
-   - Diagnose: [Diagnosen]
-   - Belege: [Atteste, Berichte]
+ - Ich kann auf dem allgemeinen Arbeitsmarkt taeglich weniger als 3 Stunden arbeiten (§ 43 Abs. 2 SGB VI).
+ - Diagnose: [Diagnosen]
+ - Belege: [Atteste, Berichte]
 
 3. Verschlossener Teilzeitarbeitsmarkt (bei 3 bis 6 h)
-   - Der Arbeitsmarkt fuer Teilzeit-Stellen ist fuer mich nicht verfuegbar.
+ - Der Arbeitsmarkt fuer Teilzeit-Stellen ist fuer mich nicht verfuegbar.
 
 III. Beweismittel
 - Befundberichte Hausarzt vom [Datum]

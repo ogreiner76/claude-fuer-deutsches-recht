@@ -1,13 +1,13 @@
 ---
 name: green-claims-haptik-tastmarke-keyword
-description: "Nutze dies, wenn Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit prüfen.; Erstelle eine Arbeitsfassung zu Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -108,51 +108,51 @@ Die Antwort ist ernüchternd ehrlich: Tastmarken sind rechtlich kaum eintragbar,
 ### Schritt 1: Eintragungsversuch DPMA/EUIPO (Vollständigkeitshalber)
 
 1. **Darstellungsformen prüfen:**
-   - Textliche Beschreibung: "Die Marke besteht aus einer regelmäßigen dreidimensionalen Twill-Köper-Struktur mit [X mm] Erhöhung, [Y mm] Absenkung, Diagonalwinkel 45°, auf Seidenstoff"
-   - Mikroskopie-Aufnahme/REM-Scan (Rasterelektronenmikroskop): präzise, aber fachspezifisch — nicht "leicht zugänglich"
-   - 3D-CAD-Modell: präzise und eindeutig, aber Sieckmann-Kriterium "verständlich" fraglich
-   - Physikalische Probe: nicht hinterlegbar beim DPMA/EUIPO; kein akzeptiertes Darstellungsmittel
+ - Textliche Beschreibung: "Die Marke besteht aus einer regelmäßigen dreidimensionalen Twill-Köper-Struktur mit [X mm] Erhöhung, [Y mm] Absenkung, Diagonalwinkel 45°, auf Seidenstoff"
+ - Mikroskopie-Aufnahme/REM-Scan (Rasterelektronenmikroskop): präzise, aber fachspezifisch — nicht "leicht zugänglich"
+ - 3D-CAD-Modell: präzise und eindeutig, aber Sieckmann-Kriterium "verständlich" fraglich
+ - Physikalische Probe: nicht hinterlegbar beim DPMA/EUIPO; kein akzeptiertes Darstellungsmittel
 
 2. **Sieckmann-Check für Tastmarke:**
 
-   | Kriterium | Ergebnis für Twill-Köper-Struktur |
-   |---|---|
-   | Klar | Ja (mit präziser Beschreibung) |
-   | Eindeutig | Bedingt (Mikrotoleranzen?) |
-   | In sich abgeschlossen | Ja |
-   | Leicht zugänglich | Nein (REM-Scan nicht allgemein zugänglich) |
-   | Verständlich | Nein (nur für Textilfachleute) |
-   | Dauerhaft | Ja (Beschreibung bleibt) |
-   | Objektiv | Bedingt (taktile Wahrnehmung = subjektiv) |
+ | Kriterium | Ergebnis für Twill-Köper-Struktur |
+ |---|---|
+ | Klar | Ja (mit präziser Beschreibung) |
+ | Eindeutig | Bedingt (Mikrotoleranzen?) |
+ | In sich abgeschlossen | Ja |
+ | Leicht zugänglich | Nein (REM-Scan nicht allgemein zugänglich) |
+ | Verständlich | Nein (nur für Textilfachleute) |
+ | Dauerhaft | Ja (Beschreibung bleibt) |
+ | Objektiv | Bedingt (taktile Wahrnehmung = subjektiv) |
 
-   **Ergebnis: Wahrscheinliche Zurückweisung durch DPMA/EUIPO**
+ **Ergebnis: Wahrscheinliche Zurückweisung durch DPMA/EUIPO**
 
 3. **Strategische Entscheidung:** Eintragungsversuch als Dokumentation der Schutzrechtsrelevanz, aber Hauptstrategie liegt bei Alternativen
 
 ### Schritt 2: Design-Schutz (Primäre Schutzstrategie)
 
 4. **Eingetragenes Design (DesignG / GGM):**
-   - Seiden-Twill-Köper-Struktur als eingetragenes Design beim DPMA oder als GGM beim EUIPO
-   - Neuheitserfordernis: § 2 DesignG — muss gegenüber dem vorbekannten Formenschatz neu sein
-   - Eigencharakter (§ 2 DesignG): Gesamteindruck unterscheidet sich vom Gesamteindruck des Standes des Entwurfs
-   - Schutzdauer: 5 Jahre, verlängerbar bis 25 Jahre (§ 27 DesignG)
-   - Anmeldung beim DPMA: EUR 60 je Design (Sammelanmeldung möglich)
+ - Seiden-Twill-Köper-Struktur als eingetragenes Design beim DPMA oder als GGM beim EUIPO
+ - Neuheitserfordernis: § 2 DesignG — muss gegenüber dem vorbekannten Formenschatz neu sein
+ - Eigencharakter (§ 2 DesignG): Gesamteindruck unterscheidet sich vom Gesamteindruck des Standes des Entwurfs
+ - Schutzdauer: 5 Jahre, verlängerbar bis 25 Jahre (§ 27 DesignG)
+ - Anmeldung beim DPMA: EUR 60 je Design (Sammelanmeldung möglich)
 
 5. **Geschmacksmuster (GGM) beim EUIPO:**
-   - Sammelanmeldung: bis 100 Designs in einer Anmeldung
-   - Günstig: EUR 350 für erste 10 Designs
-   - EU-weiter Schutz ohne Vollzugsbedarf
+ - Sammelanmeldung: bis 100 Designs in einer Anmeldung
+ - Günstig: EUR 350 für erste 10 Designs
+ - EU-weiter Schutz ohne Vollzugsbedarf
 
 ### Schritt 3: UWG-Schutz (§ 4 Nr. 3)
 
 6. **Wettbewerbliche Eigenart belegen:**
-   - Besonderheit der Oberflächenstruktur gegenüber Marktstandard
-   - Verbraucherkenntnis der spezifischen Haptik als klôtzzkètté-typisch
-   - Messung: Haptik-Expertengutachten, Verbraucherbefragung
+ - Besonderheit der Oberflächenstruktur gegenüber Marktstandard
+ - Verbraucherkenntnis der spezifischen Haptik als klôtzzkètté-typisch
+ - Messung: Haptik-Expertengutachten, Verbraucherbefragung
 
 7. **Nachahmungsnachweis:**
-   - Genaue Analyse der Konkurrenzstruktur (Textilanalyse, Materialprüfung)
-   - Identität oder sklavische Übernahme erforderlich (nicht nur Ähnlichkeit)
+ - Genaue Analyse der Konkurrenzstruktur (Textilanalyse, Materialprüfung)
+ - Identität oder sklavische Übernahme erforderlich (nicht nur Ähnlichkeit)
 
 ## Falltypische Konstellationen
 

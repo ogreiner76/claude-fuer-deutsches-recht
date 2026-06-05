@@ -1,6 +1,6 @@
 ---
 name: beirat-beratungsfunktion
-description: "Nutze dies, wenn Beirat Beratungsfunktion im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Beratungsfunktion prüfen.; Erstelle eine Arbeitsfassung zu Beirat Beratungsfunktion.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Beratungsfunktion: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Beratungsfunktion

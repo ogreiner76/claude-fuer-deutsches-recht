@@ -34,7 +34,7 @@ Diese Checkliste begleitet die Sanierungs-Begleitung des Mandats von M-12 bis M-
 - **§ 89 AO** — verbindliche Auskunft.
 - **BMF-Schreiben 27.04.2017** — Verwaltungsanweisung; vor Verwendung aktuellen Stand prüfen.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Phase 1: Erfassung (M-12 bis M-10)
 
@@ -142,9 +142,9 @@ steuerrechtlichen Würdigung nach § 3a EStG.
 ### Muster interne Bestätigungs-Tabelle
 
 ```
-Gläubiger A — Verzicht EUR ...   ► Schreiben vom ... Akte Bl. ...
-Gläubiger B — Verzicht EUR ...   ► Schreiben vom ... Akte Bl. ...
-Gläubiger C — kein Verzicht       ► Verhandlungsvermerk ... Bl. ...
+Gläubiger A — Verzicht EUR ... ► Schreiben vom ... Akte Bl. ...
+Gläubiger B — Verzicht EUR ... ► Schreiben vom ... Akte Bl. ...
+Gläubiger C — kein Verzicht ► Verhandlungsvermerk ... Bl. ...
 ```
 
 ## Typische Fehler

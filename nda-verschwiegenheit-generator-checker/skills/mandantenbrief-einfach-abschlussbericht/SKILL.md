@@ -1,22 +1,22 @@
 ---
 name: mandantenbrief-einfach-abschlussbericht
-description: "Nutze dies, wenn Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team prüfen.; Erstelle eine Arbeitsfassung zu Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für Ai Und Modelltraining, Nda Für Datenraum Clean Team** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `mandantenbrief-einfach-erklaert` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Mandantenbrief Einfach Erklaert; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nda-abschlussbericht-playbook` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Abschlussbericht Playbook; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nda-fuer-ai-und-modelltraining` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Ai Und Modelltraining; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nda-fuer-datenraum-clean-team` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Datenraum Clean Team; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `mandantenbrief-einfach-erklaert` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Mandantenbrief Einfach Erklaert; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nda-abschlussbericht-playbook` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Abschlussbericht Playbook; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nda-fuer-ai-und-modelltraining` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Ai Und Modelltraining; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nda-fuer-datenraum-clean-team` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Datenraum Clean Team; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Mandantenbrief Einfach Erklaert, Nda Abschlussbericht Playbook, Nda Für 
 
 ## 1. `mandantenbrief-einfach-erklaert`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Mandantenbrief Einfach Erklaert; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Mandantenbrief Einfach Erklaert; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Mandantenbrief Einfach Erklaert
 
@@ -81,7 +81,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `nda-abschlussbericht-playbook`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Abschlussbericht Playbook; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Abschlussbericht Playbook; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Abschlussbericht Playbook
 
@@ -138,7 +138,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `nda-fuer-ai-und-modelltraining`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Ai Und Modelltraining; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Ai Und Modelltraining; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Fuer Ai Und Modelltraining
 
@@ -195,7 +195,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `nda-fuer-datenraum-clean-team`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Datenraum Clean Team; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Fuer Datenraum Clean Team; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Fuer Datenraum Clean Team
 

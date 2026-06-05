@@ -1,13 +1,13 @@
 ---
 name: vc-founder-vc-legitime-vc-shareholder-vc
-description: "Nutze dies, wenn Vc 066 Founder Conflict Removal, Vc 067 Legitime Deal Taktik, Vc 068 Shareholder Dispute, Vc 069 Competitive Intelligence Lawful im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 066 Founder Conflict Removal, Vc 067 Legitime Deal Taktik, Vc 068 Shareholder Dispute, Vc 069 Competitive Intelligence Lawful prüfen.; Erstelle eine Arbeitsfassung zu Vc 066 Founder Conflict Removal, Vc 067 Legitime Deal Taktik, Vc 068 Shareholder Dispute, Vc 069 Competitive Intelligence Lawful.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vc 066 Founder Conflict Removal, Vc 067 Legitime Deal Taktik, Vc 068 Shareholder Dispute, Vc 069 Competitive Intelligence Lawful: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vc 066 Founder Conflict Removal, Vc 067 Legitime Deal Taktik, Vc 068 Shareholder Dispute, Vc 069 Competitive Intelligence Lawful
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vc 066 Founder Conflict Removal, Vc 067 Legitime Deal Taktik, Vc 068 Shareholder Dispute, Vc 069 Competitive Intelligence Lawful** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

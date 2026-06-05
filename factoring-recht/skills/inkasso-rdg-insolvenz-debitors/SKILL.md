@@ -1,13 +1,13 @@
 ---
 name: inkasso-rdg-insolvenz-debitors
-description: "Nutze dies, wenn Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitors Forderungspruefung, Insolvenz Des Factoringkunden Aussonderung Absonderung im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitors Forderungspruefung, Insolvenz Des Factoringkunden Aussonderung Absonderung prüfen.; Erstelle eine Arbeitsfassung zu Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitors Forderungspruefung, Insolvenz Des Factoringkunden Aussonderung Absonderung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitors Forderungspruefung, Insolvenz Des Factoringkunden Aussonderung Absonderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitors Forderungspruefung, Insolvenz Des Factoringkunden Aussonderung Absonderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Inkasso Rdg Abgrenzung Forderungsmanagement, Insolvenz Des Debitors Forderungspruefung, Insolvenz Des Factoringkunden Aussonderung Absonderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

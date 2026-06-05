@@ -1,13 +1,13 @@
 ---
 name: bafoeg-bescheide-beratungshilfe-widerspruch
-description: "Nutze dies, wenn Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750, Berufung Zulassung Besondere Bedeutung im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750, Berufung Zulassung Besondere Bedeutung prüfen.; Erstelle eine Arbeitsfassung zu Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750, Berufung Zulassung Besondere Bedeutung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750, Berufung Zulassung Besondere Bedeutung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750, Berufung Zulassung Besondere Bedeutung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -255,11 +255,11 @@ Stand: 05/2026. BerHG aktuell. Eigenanteil seit Jahren 15 EUR. Pruefen Sie aktue
 
 - Aktuell ca. 80 Berufskrankheiten.
 - Typische BK:
-  - BK 2108: Bandscheibenbedingte Erkrankungen LWS durch Heben/Tragen.
-  - BK 2301: Larmschwerhoerigkeit.
-  - BK 4103: Asbestose.
-  - BK 4104: Lungenkrebs durch Asbest.
-  - BK 5101: Hauterkrankungen.
+ - BK 2108: Bandscheibenbedingte Erkrankungen LWS durch Heben/Tragen.
+ - BK 2301: Larmschwerhoerigkeit.
+ - BK 4103: Asbestose.
+ - BK 4104: Lungenkrebs durch Asbest.
+ - BK 5101: Hauterkrankungen.
 
 ## Wie-Tatbestand § 9 Abs. 2 SGB VII
 
@@ -357,7 +357,7 @@ Siehe `berufung-zulassung-besondere-bedeutung`.
 ### Schritt 3 — Berufungsschrift
 
 ```
-Landessozialgericht [Land]                          [Ort, Datum]
+Landessozialgericht [Land] [Ort, Datum]
 
 In dem Verfahren
 
@@ -378,7 +378,7 @@ B E R U F U N G
 
 Ich lege gegen das Urteil des Sozialgerichts [Ort] vom [Datum], zugestellt am [Datum], Az [...]
 
-                       Berufung
+ Berufung
 
 ein.
 
@@ -526,7 +526,7 @@ Wenn nicht und Wertgrenze nicht erreicht: Nichtzulassungsbeschwerde noetig.
 ### Schritt 3 — Nichtzulassungsbeschwerde-Schrift
 
 ```
-Landessozialgericht [Land]                          [Ort, Datum]
+Landessozialgericht [Land] [Ort, Datum]
 
 Az LSG (folgt): ...
 SG-Az: ...
@@ -535,7 +535,7 @@ NICHTZULASSUNGSBESCHWERDE
 
 Gegen das Urteil des Sozialgerichts [Ort] vom [Datum], zugestellt am [Datum], lege ich
 
-                Nichtzulassungsbeschwerde
+ Nichtzulassungsbeschwerde
 
 ein.
 

@@ -44,22 +44,22 @@ Nutze diesen Skill, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Der Skil
 - **Tatbestand:** „in sonstiger Weise" auf Kosten eines anderen — Erlangung eines Vorteils ohne dass der andere selbst geleistet hat.
 - **Zuweisungsgehalt (Theorie der Eingriffskondiktion):** Erlangter Vorteil muss aus einer dem Anspruchsteller rechtlich zugewiesenen Position stammen.
 - **Klassische zuweisungsgehaltreiche Positionen:**
-  - **Eigentum § 903 BGB:** Nutzung fremder Sache, Verbrauch, Verfügung.
-  - **Beschränkte dingliche Rechte:** Nießbrauch §§ 1030 ff. BGB, Grunddienstbarkeit §§ 1018 ff. BGB.
-  - **Persönlichkeitsrechte:** Recht am eigenen Bild § 22 KUG, Namensrecht § 12 BGB.
-  - **Immaterialgüterrechte:** Patent, Marke, Urheberrecht, GebrM.
+ - **Eigentum § 903 BGB:** Nutzung fremder Sache, Verbrauch, Verfügung.
+ - **Beschränkte dingliche Rechte:** Nießbrauch §§ 1030 ff. BGB, Grunddienstbarkeit §§ 1018 ff. BGB.
+ - **Persönlichkeitsrechte:** Recht am eigenen Bild § 22 KUG, Namensrecht § 12 BGB.
+ - **Immaterialgüterrechte:** Patent, Marke, Urheberrecht, GebrM.
 - **Negativ — kein Zuweisungsgehalt:**
-  - Reine wettbewerbliche Position (str.).
-  - Allgemeine Marktchance, Lauterkeit (kein Bereicherungsanspruch, sondern UWG).
+ - Reine wettbewerbliche Position (str.).
+ - Allgemeine Marktchance, Lauterkeit (kein Bereicherungsanspruch, sondern UWG).
 
 ## Rechtsfolge — Lizenzanalogie
 
 - **Wertersatz § 818 Abs. 2 BGB:** Bei nicht-zurückgebbarem Vorteil (Nutzungsvorteil ist konsumiert) Wertersatz in Geld.
 - **Maßstab:** **Marktüblicher Lizenzpreis** für die konkret in Anspruch genommene Nutzung (Lizenzanalogie). Bei Eigentumsnutzung Mietzins; bei Patenten Lizenzgebühren; bei Urheberrecht GEMA-Sätze oder Vergleichsverträge.
 - **Drei-fache Berechnungsmethode** (Wahlrecht des Geschädigten — i.d.R. Immaterialgüterrechte):
-  1. Konkreter Schaden + entgangener Gewinn (§ 252 BGB).
-  2. Verletzergewinn (§ 687 Abs. 2 i.V.m. §§ 681, 667 BGB analog).
-  3. Lizenzanalogie (§ 812 BGB).
+ 1. Konkreter Schaden + entgangener Gewinn (§ 252 BGB).
+ 2. Verletzergewinn (§ 687 Abs. 2 i.V.m. §§ 681, 667 BGB analog).
+ 3. Lizenzanalogie (§ 812 BGB).
 
 ## Konkurrenz und Abgrenzung
 

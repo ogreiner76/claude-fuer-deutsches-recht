@@ -1,13 +1,13 @@
 ---
 name: space-planetary-protection-arbeitsrecht
-description: "Nutze dies, wenn Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc im Plugin Weltraumrecht konkret bearbeitet werden soll. Auslöser: Bitte Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc prüfen.; Erstelle eine Arbeitsfassung zu Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

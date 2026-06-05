@@ -1,13 +1,13 @@
 ---
 name: markenmonitoring-watchlist-markenuebertragung
-description: "Nutze dies, wenn Markenmonitoring Und Watchlist, Markenuebertragung Chain Of Title, Marketplace Notice Action Dsa, Messe Verletzung Und Gv Einsatz im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Markenmonitoring Und Watchlist, Markenuebertragung Chain Of Title, Marketplace Notice Action Dsa, Messe Verletzung Und Gv Einsatz prüfen.; Erstelle eine Arbeitsfassung zu Markenmonitoring Und Watchlist, Markenuebertragung Chain Of Title, Marketplace Notice Action Dsa, Messe Verletzung Und Gv Einsatz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Markenmonitoring Und Watchlist, Markenuebertragung Chain Of Title, Marketplace Notice Action Dsa, Messe Verletzung Und Gv Einsatz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Markenmonitoring Und Watchlist, Markenuebertragung Chain Of Title, Marketplace Notice Action Dsa, Messe Verletzung Und Gv Einsatz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Markenmonitoring Und Watchlist, Markenuebertragung Chain Of Title, Marketplace Notice Action Dsa, Messe Verletzung Und Gv Einsatz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -101,26 +101,26 @@ Die Widerspruchsfrist beträgt nur 3 Monate (EUIPO) bzw. 3 Monate (DPMA) ab Ver�
 ## Prüfungsschritte
 
 1. **Erstkonfiguration Watch-System:**
-   - Alle eigenen Marken in Watch-Dienst eingeben
-   - Suchbegriffe definieren: exakte Schreibweise + phonetische Varianten + visuelle Ähnlichkeiten
-   - Klassen: Kernklassen 3/14/18/25/35 + erweiterte Klassen 9/41/42 (KI-Kontext)
-   - Territorien: DE/AT/CH/FR/IT/ES/GB/US/JP/CN als Mindestdeckung
+ - Alle eigenen Marken in Watch-Dienst eingeben
+ - Suchbegriffe definieren: exakte Schreibweise + phonetische Varianten + visuelle Ähnlichkeiten
+ - Klassen: Kernklassen 3/14/18/25/35 + erweiterte Klassen 9/41/42 (KI-Kontext)
+ - Territorien: DE/AT/CH/FR/IT/ES/GB/US/JP/CN als Mindestdeckung
 
 2. **Alert-Bearbeitung:**
-   - Tägliche Alert-Prüfung (automatisch + manuell bei Unsicherheit)
-   - Priorisierung: (a) identische Zeichen = sofort prüfen; (b) ähnliche Zeichen = innerhalb 48h; (c) entfernte Ähnlichkeit = wöchentlich
-   - Widerspruchsentscheidung: spätestens in Monat 2 der 3-monatigen Frist
+ - Tägliche Alert-Prüfung (automatisch + manuell bei Unsicherheit)
+ - Priorisierung: (a) identische Zeichen = sofort prüfen; (b) ähnliche Zeichen = innerhalb 48h; (c) entfernte Ähnlichkeit = wöchentlich
+ - Widerspruchsentscheidung: spätestens in Monat 2 der 3-monatigen Frist
 
 3. **Dokumentation:**
-   - Alert-Log: Datum, gefundene Marke, Bewertung, Entscheidung
-   - Widerspruchs-Tracking: Aktenzeichen, Fristen, Status
-   - Jahresbericht an klôtzzkètté SA: Zusammenfassung Monitoring-Ergebnisse
+ - Alert-Log: Datum, gefundene Marke, Bewertung, Entscheidung
+ - Widerspruchs-Tracking: Aktenzeichen, Fristen, Status
+ - Jahresbericht an klôtzzkètté SA: Zusammenfassung Monitoring-Ergebnisse
 
 4. **Kostenkontrolle:**
-   - Professioneller Watch-Dienst: EUR 800-3.000/Jahr je nach Umfang
-   - EUIPO eWatch: ab EUR 200/Jahr
-   - DPMA-Newsletter: kostenfrei
-   - Gesamtbudget Monitoring: ca. EUR 2.500-5.000/Jahr für umfassendes System
+ - Professioneller Watch-Dienst: EUR 800-3.000/Jahr je nach Umfang
+ - EUIPO eWatch: ab EUR 200/Jahr
+ - DPMA-Newsletter: kostenfrei
+ - Gesamtbudget Monitoring: ca. EUR 2.500-5.000/Jahr für umfassendes System
 
 ## Falltypische Konstellationen
 
@@ -320,50 +320,50 @@ Messe-Verletzungen erfordern blitzschnelles Handeln: Die Ware verschwindet nach 
 ### Phase 1: Sofortmaßnahmen vor Ort (Messe-Tag)
 
 1. **Beweissicherung:**
-   - Fotos und Videos der verletzenden Waren (Zeitstempel!)
-   - Testkauf (Kaufbeleg aufbewahren)
-   - Visitenkarte / Aussteller-Daten vom Messekatalog
-   - Zeugen benennen (Messepersonal, Mitarbeiter klôtzzkètté)
+ - Fotos und Videos der verletzenden Waren (Zeitstempel!)
+ - Testkauf (Kaufbeleg aufbewahren)
+ - Visitenkarte / Aussteller-Daten vom Messekatalog
+ - Zeugen benennen (Messepersonal, Mitarbeiter klôtzzkètté)
 
 2. **Verständigung der Messe-Sicherheit:**
-   - Messe-Direktion informieren (meist sofortige Unterstützung bei nachgewiesener Markenverletzung)
-   - Ausstellerregistrierung: Stand-Inhaber und Verantwortlicher identifizieren
+ - Messe-Direktion informieren (meist sofortige Unterstützung bei nachgewiesener Markenverletzung)
+ - Ausstellerregistrierung: Stand-Inhaber und Verantwortlicher identifizieren
 
 3. **Sofortige Unterrichtung der Kanzlei:**
-   - Bilder, Kaufbeleg, Ausstellerdaten sofort übermitteln
-   - Parallele Prüfung: Schutzschriften-Register (zentrale Schutzschriften-Datenbank ZSSR) auf Schutzschrift des Gegners prüfen
+ - Bilder, Kaufbeleg, Ausstellerdaten sofort übermitteln
+ - Parallele Prüfung: Schutzschriften-Register (zentrale Schutzschriften-Datenbank ZSSR) auf Schutzschrift des Gegners prüfen
 
 ### Phase 2: Eilantrag (innerhalb von Stunden)
 
 4. **Abwägung: Abmahnung zuerst oder direkt zum Gericht?**
-   - Bei klarer Fälschung (Produktpiraterie): direkt einstweilige Verfügung ohne Abmahnung
-   - Begründung Eilbedürftigkeit: Messeende droht; Ware verlässt nach Messe das Land
+ - Bei klarer Fälschung (Produktpiraterie): direkt einstweilige Verfügung ohne Abmahnung
+ - Begründung Eilbedürftigkeit: Messeende droht; Ware verlässt nach Messe das Land
 
 5. **Antrag auf Erlass einstweiliger Verfügung (§§ 935/940 ZPO):**
-   - Verfügungsanspruch: § 14 V MarkenG (Unterlassung)
-   - Verfügungsgrund: Eilbedürftigkeit — Messe endet in 2/3 Tagen
-   - Glaubhaftmachung durch Anwaltseidesstattliche Versicherung + Fotos + Kaufbeleg
-   - Beantragung beim zuständigen LG (Messestadt: LG Berlin / LG Frankfurt / LG München I)
+ - Verfügungsanspruch: § 14 V MarkenG (Unterlassung)
+ - Verfügungsgrund: Eilbedürftigkeit — Messe endet in 2/3 Tagen
+ - Glaubhaftmachung durch Anwaltseidesstattliche Versicherung + Fotos + Kaufbeleg
+ - Beantragung beim zuständigen LG (Messestadt: LG Berlin / LG Frankfurt / LG München I)
 
 6. **Gerichtsvollzieher-Beauftragung (§§ 753/759 ZPO):**
-   - Nach Erlass der einstweiligen Verfügung: GV-Beauftragung mit Vollstreckungsauftrag
-   - Messestand aufsuchen, Waren sicherstellen
-   - GV-Protokoll = gesicherter Beweis
+ - Nach Erlass der einstweiligen Verfügung: GV-Beauftragung mit Vollstreckungsauftrag
+ - Messestand aufsuchen, Waren sicherstellen
+ - GV-Protokoll = gesicherter Beweis
 
 7. **Ordnungsmittelantrag (§ 890 ZPO):**
-   - Bei Zuwiderhandlung nach Zustellung der einstweiligen Verfügung
-   - Ordnungsgeld bis EUR 250.000 oder Ordnungshaft
+ - Bei Zuwiderhandlung nach Zustellung der einstweiligen Verfügung
+ - Ordnungsgeld bis EUR 250.000 oder Ordnungshaft
 
 ### Phase 3: Hauptsacheverfahren und Abwicklung
 
 8. **Auskunftsklage (§ 19 MarkenG):**
-   - Lieferkette: Hersteller, Importeure, Vorbesitzer
-   - Mengen: Stückzahlen produzierten und gelieferten Ware
-   - Grundlage für Schadensersatz
+ - Lieferkette: Hersteller, Importeure, Vorbesitzer
+ - Mengen: Stückzahlen produzierten und gelieferten Ware
+ - Grundlage für Schadensersatz
 
 9. **Vernichtung (§ 18 MarkenG):**
-   - Gefälschte Ware vernichten oder unbrauchbar machen
-   - Gerichtliche Anordnung erforderlich (kein Selbstvollzug!)
+ - Gefälschte Ware vernichten oder unbrauchbar machen
+ - Gerichtliche Anordnung erforderlich (kein Selbstvollzug!)
 
 ## Falltypische Konstellationen
 
@@ -393,13 +393,13 @@ Antrag auf Erlass einer einstweiligen Verfügung
 Antragstellerin: klôtzzkètté SA, Paris, vertr. durch RA'in [Name]
 Antragsgegnerin: [Donauzon/Brezelmann], [Adresse Messestand]
 
-I.   ANTRAG
+I. ANTRAG
 Es wird beantragt, der Antragsgegnerin im Wege der einstweiligen
 Verfügung zu untersagen, im geschäftlichen Verkehr Waren mit dem
 Zeichen [KLOTZ-KETTEN / Abbildung] anzubieten, zu vertreiben oder
 zu bewerben, insbesondere auf der [Messe], [Datum], Stand [Nr.].
 
-II.  VERFÜGUNGSANSPRUCH (§ 14 V MarkenG)
+II. VERFÜGUNGSANSPRUCH (§ 14 V MarkenG)
 [...]
 
 III. VERFÜGUNGSGRUND (§§ 935/940 ZPO)
@@ -407,7 +407,7 @@ Messeende: [Datum]. Nach Messeende verlassen die Waren die
 Bundesrepublik und sind für Vollstreckungsmaßnahmen nicht mehr
 erreichbar. Eilbedürftigkeit liegt auf der Hand.
 
-IV.  GLAUBHAFTMACHUNG
+IV. GLAUBHAFTMACHUNG
 - Eidesstattliche Versicherung RA'in [Name] (Anlage 1)
 - Fotografische Beweise (Anlage 2-7)
 - Testkauf-Quittung (Anlage 8)

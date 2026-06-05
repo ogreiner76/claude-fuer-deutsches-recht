@@ -19,43 +19,43 @@ Dieses Interview richtet das Plugin auf Ihre konkrete Datenschutzpraxis aus: Wer
 ## Ablauf
 
 1. **Voraussetzungs-Check.**
-   - `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/CLAUDE.md` prüfen.
-   - Wenn befüllt (keine `[PLATZHALTER]`) und kein `--redo`: Bestätigung einholen, bevor überschrieben wird.
-   - Wenn altes Cache-Profil unter `~/.claude/plugins/cache/…` vorhanden: automatisch übertragen, dem Nutzer mitteilen.
+ - `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/CLAUDE.md` prüfen.
+ - Wenn befüllt (keine `[PLATZHALTER]`) und kein `--redo`: Bestätigung einholen, bevor überschrieben wird.
+ - Wenn altes Cache-Profil unter `~/.claude/plugins/cache/…` vorhanden: automatisch übertragen, dem Nutzer mitteilen.
 
 2. **Organisations-Interview.** Folgende Fragen stellen (gebündelt, nicht einzeln):
-   - Organisations- oder Kanzleiname, Rechtsform, Hauptniederlassung (Bundesland)
-   - Primär Verantwortlicher, Auftragsverarbeiter oder beides? Für welche Daten?
-   - Welche Rechtsgrundlagen Art. 6 DSGVO kommen hauptsächlich zur Anwendung?
-   - Werden besondere Kategorien (Art. 9 DSGVO) oder Beschäftigtendaten (§ 26 BDSG) verarbeitet?
-   - Gibt es einen bestellten DSB? Intern oder extern? Name und Kontakt?
-   - Zuständige Aufsichtsbehörde (BfDI oder LfDI – welches Bundesland)?
-   - Drittlandtransfers vorhanden? In welche Länder? Welcher Mechanismus (SCC, DPF, Binding Corporate Rules)?
-   - Praxisumgebung: Kanzlei / internes Team / öffentliche Stelle?
-   - Wer nutzt das Plugin? (Rechtsanwalt, externer DSB, Compliance-Manager, Sachbearbeitung)
+ - Organisations- oder Kanzleiname, Rechtsform, Hauptniederlassung (Bundesland)
+ - Primär Verantwortlicher, Auftragsverarbeiter oder beides? Für welche Daten?
+ - Welche Rechtsgrundlagen Art. 6 DSGVO kommen hauptsächlich zur Anwendung?
+ - Werden besondere Kategorien (Art. 9 DSGVO) oder Beschäftigtendaten (§ 26 BDSG) verarbeitet?
+ - Gibt es einen bestellten DSB? Intern oder extern? Name und Kontakt?
+ - Zuständige Aufsichtsbehörde (BfDI oder LfDI – welches Bundesland)?
+ - Drittlandtransfers vorhanden? In welche Länder? Welcher Mechanismus (SCC, DPF, Binding Corporate Rules)?
+ - Praxisumgebung: Kanzlei / internes Team / öffentliche Stelle?
+ - Wer nutzt das Plugin? (Rechtsanwalt, externer DSB, Compliance-Manager, Sachbearbeitung)
 
 3. **Ausgangsdokumente lesen.**
-   - Datenschutzerklärung: Datenkategorien, Zwecke, Fristen, Drittempfänger, Rechte, Cookie-Infrastruktur extrahieren.
-   - AVV-Vorlage: Klauseln zu Sub-AV, Audit, Datenpanne, Datenhaltung, Laufzeit, Haftung herausarbeiten; Abweichungen von DSGVO-Mindestanforderungen kennzeichnen.
-   - Referenz-DSFA: Struktur, Gliederung, Tiefe, Format für zukünftige DSFAs übernehmen.
-   - Verarbeitungsverzeichnis (falls bereitgestellt): Systemliste für DSAR-Abfragen übernehmen.
+ - Datenschutzerklärung: Datenkategorien, Zwecke, Fristen, Drittempfänger, Rechte, Cookie-Infrastruktur extrahieren.
+ - AVV-Vorlage: Klauseln zu Sub-AV, Audit, Datenpanne, Datenhaltung, Laufzeit, Haftung herausarbeiten; Abweichungen von DSGVO-Mindestanforderungen kennzeichnen.
+ - Referenz-DSFA: Struktur, Gliederung, Tiefe, Format für zukünftige DSFAs übernehmen.
+ - Verarbeitungsverzeichnis (falls bereitgestellt): Systemliste für DSAR-Abfragen übernehmen.
 
 4. **AVV-Playbook-Fragen.**
-   - Wo sind Sie Deal-Breaker-sensibel? (z.B. Sub-AV-Transparenz, Datenhaltung EU)
-   - Was akzeptieren Sie unter keinen Umständen?
-   - Welche Klauseln sind Standard-Fallback?
+ - Wo sind Sie Deal-Breaker-sensibel? (z.B. Sub-AV-Transparenz, Datenhaltung EU)
+ - Was akzeptieren Sie unter keinen Umständen?
+ - Welche Klauseln sind Standard-Fallback?
 
 5. **Integrations-Check.**
-   - Dokumentenspeicher (Drive / SharePoint / lokaler Pfad) testen.
-   - Benachrichtigungskanal (Slack / Teams / E-Mail) testen.
-   - Aufgabenplanung testen.
-   - Nur ✓ melden, wenn ein Tool-Aufruf tatsächlich funktioniert hat; konfiguriert-aber-ungetestet als ⚪ ausweisen.
+ - Dokumentenspeicher (Drive / SharePoint / lokaler Pfad) testen.
+ - Benachrichtigungskanal (Slack / Teams / E-Mail) testen.
+ - Aufgabenplanung testen.
+ - Nur ✓ melden, wenn ein Tool-Aufruf tatsächlich funktioniert hat; konfiguriert-aber-ungetestet als ⚪ ausweisen.
 
 6. **`CLAUDE.md` schreiben.**
-   - Alle Platzhalter mit den ermittelten Werten befüllen.
-   - Übergeordnetes `organisation-profil.md` anlegen oder aktualisieren.
-   - Zusammenfassung der geschriebenen Konfiguration zeigen.
-   - Ersten nützlichen Befehl anbieten.
+ - Alle Platzhalter mit den ermittelten Werten befüllen.
+ - Übergeordnetes `organisation-profil.md` anlegen oder aktualisieren.
+ - Zusammenfassung der geschriebenen Konfiguration zeigen.
+ - Ersten nützlichen Befehl anbieten.
 
 ## `--check-integrations`
 

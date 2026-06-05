@@ -1,13 +1,13 @@
 ---
 name: uebertragung-sicherheit-us-provisional
-description: "Nutze dies, wenn Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster prüfen.; Erstelle eine Arbeitsfassung zu Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Übertragung Und Sicherheit, Us Provisional Vs Gebrauchsmuster** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

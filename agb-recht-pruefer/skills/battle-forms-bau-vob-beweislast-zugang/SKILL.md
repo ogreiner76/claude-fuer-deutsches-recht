@@ -1,23 +1,23 @@
 ---
 name: battle-forms-bau-vob-beweislast-zugang
-description: "Nutze dies, wenn Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb prüfen.; Erstelle eine Arbeitsfassung zu Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Bewertung Rezensionen, Bildungs Kurs Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `battle-of-forms-agb-kollision` | Norm- und Dogmatik-Skill für Battle of Forms AGB Kollision: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `bau-vob-agb` | Branchen-Spezialskill für Bau VOB/B AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `bau-vob-agb` | Branchen-Fachmodul für Bau VOB/B AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `beweislast-und-zugang-309` | Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `bewertung-rezensionen` | Klausel-Spezialskill für Bewertung Rezensionen: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `bildungs-kurs-agb` | Branchen-Spezialskill für Bildungs Kurs AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `bewertung-rezensionen` | Klausel-Fachmodul für Bewertung Rezensionen: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `bildungs-kurs-agb` | Branchen-Fachmodul für Bildungs Kurs AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 
 ## Arbeitsweg
 
@@ -54,15 +54,15 @@ Für **Battle Of Forms Agb Kollision, Bau Vob Agb, Beweislast Und Zugang 309, Be
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Battle of Forms (B2B - § 310 Abs. 1 BGB, §§ 154, 155 BGB):**
-   - **Grundregel (deutsches Recht):** Bei Kollision verdrängen sich die AGB der Vertragspartner gegenseitig in den kollidierenden Punkten ("Restgültigkeitslehre" / "Knock-out-Rule" - BGH, ständige Rechtsprechung). An ihre Stelle tritt das dispositive Gesetzesrecht.
-   - **Abweichende Theorie ("Last-Shot"):** In einigen ausländischen Rechtsordnungen gilt: Die zuletzt versandten AGB sind maßgeblich. In Deutschland gilt diese Regel grundsätzlich nicht; Ausnahme nur, wenn die zuletzt versandten AGB ausdrücklich akzeptiert wurden.
-   - **CISG (UN-Kaufrecht):** Bei internationalen Warenkäufen gilt - nach h.M. - ebenfalls die Knock-out-Rule (Art. 19 CISG); in der älteren Rechtsprechung teilweise Mirror-Image-Rule.
-   - **Abwehrklauseln ("AGB des Vertragspartners gelten nicht"):** Treffen abwehrende und entgegenstehende AGB aufeinander, verdrängen sich beide. Eine Abwehrklausel hindert nicht die Verdrängung eigener Klauseln durch entgegenstehende AGB des Kunden.
-   - **Konkrete Strategie:**
-     - **Individuelle Verhandlung dokumentieren** zu allen wesentlichen Punkten (Haftung, Mängelrechte, Zahlung, Eigentumsvorbehalt). § 305b BGB: Individualabrede > AGB.
-     - **Auftragsbestätigung** mit ausdrücklicher Bezugnahme auf eigene AGB; Auftraggeber darf nicht widersprechen.
-     - **Bei Schweigen:** Kein Last-Shot, aber Annahme ggf. nach kaufmännischem Bestätigungsschreiben (B2B).
-   - **Praxis-Tipp:** Kritische Klauseln (Haftung, Gerichtsstand, Rechtswahl) im Verhandlungsprotokoll individualvertraglich vereinbaren - überspielt jede AGB-Kollision.
+ - **Grundregel (deutsches Recht):** Bei Kollision verdrängen sich die AGB der Vertragspartner gegenseitig in den kollidierenden Punkten ("Restgültigkeitslehre" / "Knock-out-Rule" - BGH, ständige Rechtsprechung). An ihre Stelle tritt das dispositive Gesetzesrecht.
+ - **Abweichende Theorie ("Last-Shot"):** In einigen ausländischen Rechtsordnungen gilt: Die zuletzt versandten AGB sind maßgeblich. In Deutschland gilt diese Regel grundsätzlich nicht; Ausnahme nur, wenn die zuletzt versandten AGB ausdrücklich akzeptiert wurden.
+ - **CISG (UN-Kaufrecht):** Bei internationalen Warenkäufen gilt - nach h.M. - ebenfalls die Knock-out-Rule (Art. 19 CISG); in der älteren Rechtsprechung teilweise Mirror-Image-Rule.
+ - **Abwehrklauseln ("AGB des Vertragspartners gelten nicht"):** Treffen abwehrende und entgegenstehende AGB aufeinander, verdrängen sich beide. Eine Abwehrklausel hindert nicht die Verdrängung eigener Klauseln durch entgegenstehende AGB des Kunden.
+ - **Konkrete Strategie:**
+ - **Individuelle Verhandlung dokumentieren** zu allen wesentlichen Punkten (Haftung, Mängelrechte, Zahlung, Eigentumsvorbehalt). § 305b BGB: Individualabrede > AGB.
+ - **Auftragsbestätigung** mit ausdrücklicher Bezugnahme auf eigene AGB; Auftraggeber darf nicht widersprechen.
+ - **Bei Schweigen:** Kein Last-Shot, aber Annahme ggf. nach kaufmännischem Bestätigungsschreiben (B2B).
+ - **Praxis-Tipp:** Kritische Klauseln (Haftung, Gerichtsstand, Rechtswahl) im Verhandlungsprotokoll individualvertraglich vereinbaren - überspielt jede AGB-Kollision.
 6. **Rechtsfolge:** Knock-out: dispositives Recht gilt für die kollidierenden Bereiche; übrige AGB-Bestandteile bleiben jeweils wirksam, soweit sie sich nicht widersprechen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -122,7 +122,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `bau-vob-agb`
 
-**Fokus:** Branchen-Spezialskill für Bau VOB/B AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Bau VOB/B AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Bau VOB/B AGB
 
@@ -203,19 +203,19 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 309 Nr. 12 BGB (Beweislast) und § 308 Nr. 6 BGB (Zugangsfiktion):**
-   - **§ 309 Nr. 12 BGB - Beweislast:** Eine Klausel, durch die der Verwender die Beweislast zum Nachteil des Kunden aendert, ist unwirksam. Hierunter fallen insbesondere:
-     - **lit. a:** Klausel, die dem Kunden die Beweislast fuer Umstaende auferlegt, die im Verantwortungsbereich des Verwenders liegen.
-     - **lit. b:** Klausel, durch die der Kunde bestimmte Tatsachen bestaetigt (z.B. "Kunde bestaetigt vollstaendige Information").
-   - **Konkrete Beispiele unwirksamer Klauseln:**
-     - "Der Anspruch des Kunden auf Mangelbeseitigung setzt voraus, dass er den Mangel innerhalb von 14 Tagen anzeigt" (Beweislastumkehr).
-     - "Der Kunde bestaetigt, ueber das Widerrufsrecht informiert worden zu sein" (Tatsachen-Bestaetigung).
-     - "Die Sache ist bei Lieferung in ordnungsgemaessem Zustand" (Beweisbelastung).
-   - **§ 308 Nr. 6 BGB - Zugangsfiktion (Klauselverbot mit Wertungsmoeglichkeit):** Klausel, nach der eine Erklaerung des Verwenders bei besonderem Bedeutung als zugegangen gilt - nur bei angemessener Frist und Hinweisfunktion zulaessig. Pauschale Zugangsfiktion wie "Mitteilung an die letzte uns bekannte Adresse gilt als zugegangen" ist regelmaessig unwirksam.
-   - **B2B-Ausstrahlung:**
-     - § 309 Nr. 12 BGB strahlt ueber § 307 BGB ins B2B aus (BGH, ständige Rechtsprechung).
-     - § 308 Nr. 6 BGB ist im B2B unter Wertung des § 307 BGB anwendbar; pauschale Zugangsfiktionen auch im B2B kritisch.
-   - **Zugang nach § 130 BGB:** Bei Empfangsbeduerftigen Willenserklaerungen "Zugang in den Machtbereich des Empfaengers + Moeglichkeit der Kenntnisnahme". Bei E-Mail: in Eingang des Empfangsservers + Kenntnisnahmemoeglichkeit (BGH-Linie). Ausserhalb von Geschaeftszeiten: am naechsten Werktag.
-   - **Beweissicherung im Vertrag:** Statt Zugangsfiktion ist Lieferantragsdokumentation zu empfehlen (Einschreiben, Lesebestaetigung, qualifizierter elektronischer Zustelldienst).
+ - **§ 309 Nr. 12 BGB - Beweislast:** Eine Klausel, durch die der Verwender die Beweislast zum Nachteil des Kunden aendert, ist unwirksam. Hierunter fallen insbesondere:
+ - **lit. a:** Klausel, die dem Kunden die Beweislast fuer Umstaende auferlegt, die im Verantwortungsbereich des Verwenders liegen.
+ - **lit. b:** Klausel, durch die der Kunde bestimmte Tatsachen bestaetigt (z.B. "Kunde bestaetigt vollstaendige Information").
+ - **Konkrete Beispiele unwirksamer Klauseln:**
+ - "Der Anspruch des Kunden auf Mangelbeseitigung setzt voraus, dass er den Mangel innerhalb von 14 Tagen anzeigt" (Beweislastumkehr).
+ - "Der Kunde bestaetigt, ueber das Widerrufsrecht informiert worden zu sein" (Tatsachen-Bestaetigung).
+ - "Die Sache ist bei Lieferung in ordnungsgemaessem Zustand" (Beweisbelastung).
+ - **§ 308 Nr. 6 BGB - Zugangsfiktion (Klauselverbot mit Wertungsmoeglichkeit):** Klausel, nach der eine Erklaerung des Verwenders bei besonderem Bedeutung als zugegangen gilt - nur bei angemessener Frist und Hinweisfunktion zulaessig. Pauschale Zugangsfiktion wie "Mitteilung an die letzte uns bekannte Adresse gilt als zugegangen" ist regelmaessig unwirksam.
+ - **B2B-Ausstrahlung:**
+ - § 309 Nr. 12 BGB strahlt ueber § 307 BGB ins B2B aus (BGH, ständige Rechtsprechung).
+ - § 308 Nr. 6 BGB ist im B2B unter Wertung des § 307 BGB anwendbar; pauschale Zugangsfiktionen auch im B2B kritisch.
+ - **Zugang nach § 130 BGB:** Bei Empfangsbeduerftigen Willenserklaerungen "Zugang in den Machtbereich des Empfaengers + Moeglichkeit der Kenntnisnahme". Bei E-Mail: in Eingang des Empfangsservers + Kenntnisnahmemoeglichkeit (BGH-Linie). Ausserhalb von Geschaeftszeiten: am naechsten Werktag.
+ - **Beweissicherung im Vertrag:** Statt Zugangsfiktion ist Lieferantragsdokumentation zu empfehlen (Einschreiben, Lesebestaetigung, qualifizierter elektronischer Zustelldienst).
 6. **Rechtsfolge:** Unwirksamkeit; gesetzliche Beweislastregeln und Zugangsregeln greifen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -271,7 +271,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `bewertung-rezensionen`
 
-**Fokus:** Klausel-Spezialskill für Bewertung Rezensionen: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Bewertung Rezensionen: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Bewertung Rezensionen
 
@@ -326,7 +326,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `bildungs-kurs-agb`
 
-**Fokus:** Branchen-Spezialskill für Bildungs Kurs AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Bildungs Kurs AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Bildungs Kurs AGB
 

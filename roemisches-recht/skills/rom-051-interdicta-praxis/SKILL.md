@@ -1,6 +1,6 @@
 ---
 name: rom-051-interdicta-praxis
-description: "Römisches Recht: Interdicta Praxis. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Interdicta Praxis. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Interdicta Praxis

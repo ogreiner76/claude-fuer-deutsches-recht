@@ -1,13 +1,13 @@
 ---
 name: notare-handelsregisteranmeldung-fehler
-description: "Nutze dies, wenn Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Handelsregisteranmeldung Fehler Rechtsprechungscheck Und, Notare Identitaetspruefung Ausweis Rechtsprechungscheck Und Red, Notare Ki Im Notariat Grenzen Rechtsprechungscheck Und Red Team, Notare Kollegialitaet Und Zustaendigkeit Rechtsprechungscheck U** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: checkliste-forderungsdatenraum-datenschutz
-description: "Nutze dies, wenn Checkliste Forderungsdatenraum Factoring, Datenschutz Debitorendaten Dsgvo Informationspflichten, Debitorenbrief Hoeflich Aber Rechtssicher im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Checkliste Forderungsdatenraum Factoring, Datenschutz Debitorendaten Dsgvo Informationspflichten, Debitorenbrief Hoeflich Aber Rechtssicher prüfen.; Erstelle eine Arbeitsfassung zu Checkliste Forderungsdatenraum Factoring, Datenschutz Debitorendaten Dsgvo Informationspflichten, Debitorenbrief Hoeflich Aber Rechtssicher.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Checkliste Forderungsdatenraum Factoring, Datenschutz Debitorendaten Dsgvo Informationspflichten, Debitorenbrief Hoeflich Aber Rechtssicher: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Checkliste Forderungsdatenraum Factoring, Datenschutz Debitorendaten Dsgvo Informationspflichten, Debitorenbrief Hoeflich Aber Rechtssicher
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Checkliste Forderungsdatenraum Factoring, Datenschutz Debitorendaten Dsgvo Informationspflichten, Debitorenbrief Hoeflich Aber Rechtssicher** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -68,7 +68,7 @@ Fragen zum Einstieg:
 - **§ 257 HGB**: Aufbewahrungsfristen 6–10 Jahre.
 - **DSGVO Art. 14**: Informationspflichten bei Erhebung aus dritter Hand.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Datenraumstruktur anlegen**: Hauptkategorien (Verkäufer / Verträge / Forderungen / Sicherheiten / Recht / Aufsicht / Steuer).
 2. **Indexieren**: Jede Datei eindeutig benennen (Index-Nr., Dokumenttyp, Datum, Version).
@@ -102,30 +102,30 @@ Fragen zum Einstieg:
 
 ```
 01_Verkaeufer
-  01.01_Handelsregisterauszug
-  01.02_Gesellschaftsvertrag
-  01.03_Geschaeftsfuehrer-Vollmachten
-  01.04_BWA_GuV_letzte_3_Jahre
-  01.05_Bonitaetsauskuenfte
+ 01.01_Handelsregisterauszug
+ 01.02_Gesellschaftsvertrag
+ 01.03_Geschaeftsfuehrer-Vollmachten
+ 01.04_BWA_GuV_letzte_3_Jahre
+ 01.05_Bonitaetsauskuenfte
 02_Vertraege_mit_Debitoren
-  02.01_Lieferantenrahmenvertrag_Debitor_X
-  02.02_AGB_Debitor_X
-  ...
+ 02.01_Lieferantenrahmenvertrag_Debitor_X
+ 02.02_AGB_Debitor_X
+ ...
 03_Forderungsverzeichnis
-  03.01_Forderungsliste_CSV
-  03.02_Einzelforderung_F-2026-001
-    03.02.01_Bestellung
-    03.02.02_Auftragsbestaetigung
-    03.02.03_Lieferschein
-    03.02.04_Rechnung
-    03.02.05_Abnahmebestaetigung
+ 03.01_Forderungsliste_CSV
+ 03.02_Einzelforderung_F-2026-001
+ 03.02.01_Bestellung
+ 03.02.02_Auftragsbestaetigung
+ 03.02.03_Lieferschein
+ 03.02.04_Rechnung
+ 03.02.05_Abnahmebestaetigung
 04_Sicherheiten
-  04.01_Globalzession_Hausbank
-  04.02_Verlaengerter_Eigentumsvorbehalt_Lieferant_Y
-  04.03_Vorrangverzicht
+ 04.01_Globalzession_Hausbank
+ 04.02_Verlaengerter_Eigentumsvorbehalt_Lieferant_Y
+ 04.03_Vorrangverzicht
 05_Aufsicht_und_Steuer
-  05.01_Aufsichtsrechtliche_Stellungnahme
-  05.02_Umsatzsteuerliche_Behandlung
+ 05.01_Aufsichtsrechtliche_Stellungnahme
+ 05.02_Umsatzsteuerliche_Behandlung
 ```
 
 **Klausel im Factoringvertrag (Datenraumpflicht)**
@@ -207,7 +207,7 @@ Fragen zum Einstieg:
 - **BDSG § 31**: Scoring – Voraussetzungen für Bonitätsbewertung.
 - **§ 203 StGB**: Geheimnisschutz bei Berufsgeheimnisträgern (Ärzte, Anwälte) – bei Factoring von Honorarforderungen relevant.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Datenkatalog erstellen**: Welche Datenkategorien werden vom Kunden auf den Factor übertragen?
 2. **Verantwortlichkeit klären**: Verkäufer und Factor sind in der Regel jeweils eigenständig Verantwortliche, keine Auftragsverarbeitung.
@@ -318,7 +318,7 @@ Fragen zum Einstieg:
 - **UWG § 7**: Unzumutbare Belästigung – relevant bei unerbetenen Massenkommunikation an Verbraucher.
 - **§ 31a RDG**: Inkassodienstleistungen – Hinweis- und Belehrungspflichten beim Verbraucher.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Adressdaten prüfen**: Geschäftssitz, postalisch ladungsfähige Anschrift, Ansprechpartner Buchhaltung.
 2. **Sprache wählen**: Landessprache bei Auslandsdebitoren, sonst deutsch.

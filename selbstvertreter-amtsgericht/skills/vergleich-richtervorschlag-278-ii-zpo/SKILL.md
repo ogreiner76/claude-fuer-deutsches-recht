@@ -90,14 +90,14 @@ Bei Einigung: Vorsitzender protokolliert.
 Vergleich:
 
 1. Der Beklagte zahlt an die Klaegerin
-   1.100 EUR bis spaetestens [Datum].
+ 1.100 EUR bis spaetestens [Datum].
 
 2. Die Kosten des Rechtsstreits werden
-   gegeneinander aufgehoben.
+ gegeneinander aufgehoben.
 
 3. Mit Erfuellung dieses Vergleichs sind
-   alle gegenseitigen Anspruechre aus
-   diesem Streit erledigt.
+ alle gegenseitigen Anspruechre aus
+ diesem Streit erledigt.
 ```
 
 Beide Parteien stimmen muendlich zu. Protokoll wird vorgelesen oder vorgegeben (Aufzeichnung mit § 159 ZPO).

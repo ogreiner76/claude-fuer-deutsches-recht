@@ -1,13 +1,13 @@
 ---
 name: vdg-flugportal-beweisplan-umsetzung
-description: "Nutze dies, wenn Vdg 096 Flugportal Beweisplan Erstellen, Vdg 097 Flugportal Vergleich Prüfen, Vdg 098 Flugportal Umsetzung Ueberwachen, Vdg 101 Bankentgelte Zustimmungsfiktion Serie im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 096 Flugportal Beweisplan Erstellen, Vdg 097 Flugportal Vergleich Prüfen, Vdg 098 Flugportal Umsetzung Ueberwachen, Vdg 101 Bankentgelte Zustimmungsfiktion Serie prüfen.; Erstelle eine Arbeitsfassung zu Vdg 096 Flugportal Beweisplan Erstellen, Vdg 097 Flugportal Vergleich Prüfen, Vdg 098 Flugportal Umsetzung Ueberwachen, Vdg 101 Bankentgelte Zustimmungsfiktion Serie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vdg 096 Flugportal Beweisplan Erstellen, Vdg 097 Flugportal Vergleich Prüfen, Vdg 098 Flugportal Umsetzung Ueberwachen, Vdg 101 Bankentgelte Zustimmungsfiktion Serie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vdg 096 Flugportal Beweisplan Erstellen, Vdg 097 Flugportal Vergleich Prüfen, Vdg 098 Flugportal Umsetzung Ueberwachen, Vdg 101 Bankentgelte Zustimmungsfiktion Serie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 096 Flugportal Beweisplan Erstellen, Vdg 097 Flugportal Vergleich Prüfen, Vdg 098 Flugportal Umsetzung Ueberwachen, Vdg 101 Bankentgelte Zustimmungsfiktion Serie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

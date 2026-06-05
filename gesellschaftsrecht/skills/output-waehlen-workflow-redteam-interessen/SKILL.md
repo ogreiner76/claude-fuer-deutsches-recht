@@ -1,13 +1,13 @@
 ---
 name: output-waehlen-workflow-redteam-interessen
-description: "Nutze dies, wenn Workflow Output Waehlen, Workflow Redteam Qualitygate, Spezial Fristen Mehrparteien Konflikt Und Interessen, Spezial Handelsregisteranmeldung Frist Naechster Schritt, Spezial Personengesellschaften Fristen Form Und Zustaendigkeit im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Output Waehlen, Redteam Qualitygate, Fristen Mehrparteien Konflikt Und Interessen, Handelsregisteranmeldung Frist Naechster Schritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Output Waehlen, Workflow Redteam Qualitygate, Spezial Fristen Mehrparteien Konflikt Und Interessen, Spezial Handelsregisteranmeldung Frist Naechster Schritt, Spezial Personengesellschaften Fristen Form Und Zustaendigkeit
+# Output Waehlen, Redteam Qualitygate, Fristen Mehrparteien Konflikt Und Interessen, Handelsregisteranmeldung Frist Naechster Schritt, Personengesellschaften Fristen Form Und Zustaendigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Output Waehlen, Redteam Qualitygate, Fristen Mehrparteien Konflikt Und Interessen, Handelsregisteranmeldung Frist Naechster Schritt, Personengesellschaften Fristen Form Und Zustaendigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,13 +15,13 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `workflow-output-waehlen` | Output wählen im Plugin gesellschaftsrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin gesellschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `spezial-fristen-mehrparteien-konflikt-und-interessen` | Fristen: Mehrparteienkonflikt und Interessenmatrix im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-handelsregisteranmeldung-frist-naechster-schritt` | Handelsregisteranmeldung: Fristennotiz und nächster Schritt im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-personengesellschaften-fristen-form-und-zustaendigkeit` | Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-fristen-mehrparteien-konflikt-und-interessen` | Fristen: Mehrparteienkonflikt und Interessenmatrix im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-handelsregisteranmeldung-frist-naechster-schritt` | Handelsregisteranmeldung: Fristennotiz und nächster Schritt im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-personengesellschaften-fristen-form-und-zustaendigkeit` | Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Workflow Output Waehlen, Workflow Redteam Qualitygate, Spezial Fristen Mehrparteien Konflikt Und Interessen, Spezial Handelsregisteranmeldung Frist Naechster Schritt, Spezial Personengesellschaften Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Output Waehlen, Redteam Qualitygate, Fristen Mehrparteien Konflikt Und Interessen, Handelsregisteranmeldung Frist Naechster Schritt, Personengesellschaften Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,10 +42,10 @@ Für **Workflow Output Waehlen, Workflow Redteam Qualitygate, Spezial Fristen Me
 
 
 ## Aufgabe
-Dieser Workflow-Skill für `gesellschaftsrecht` Output wählen im Plugin gesellschaftsrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Output wählen im Plugin gesellschaftsrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -55,7 +55,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -86,10 +86,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 
 ## Aufgabe
-Dieser Workflow-Skill für `gesellschaftsrecht` Red-Team Qualitygate im Plugin gesellschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin gesellschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -99,7 +99,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -116,7 +116,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 3. `spezial-fristen-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Fristen: Mehrparteienkonflikt und Interessenmatrix im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Fristen: Mehrparteienkonflikt und Interessenmatrix im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Fristen: Mehrparteienkonflikt und Interessenmatrix
 
@@ -130,7 +130,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 
 ## Spezialwissen: Fristen: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Fristen: Mehrparteienkonflikt und Interessenmatrix / spezial fristen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fristen: Mehrparteienkonflikt und Interessenmatrix / fristen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -166,7 +166,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-handelsregisteranmeldung-frist-naechster-schritt`
 
-**Fokus:** Handelsregisteranmeldung: Fristennotiz und nächster Schritt im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Handelsregisteranmeldung: Fristennotiz und nächster Schritt im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Handelsregisteranmeldung: Fristennotiz und nächster Schritt
 
@@ -180,7 +180,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Handelsregisteranmeldung: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Handelsregisteranmeldung: Fristennotiz und nächster Schritt / spezial handelsregisteranmeldung frist naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Handelsregisteranmeldung: Fristennotiz und nächster Schritt / handelsregisteranmeldung frist naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -216,7 +216,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-personengesellschaften-fristen-form-und-zustaendigkeit`
 
-**Fokus:** Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -230,7 +230,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg / spezial personengesellschaften fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg / personengesellschaften fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

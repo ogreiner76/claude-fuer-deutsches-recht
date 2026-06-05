@@ -1,6 +1,6 @@
 ---
 name: rom-058-freilassung-freiheitsstatus
-description: "Römisches Recht: Freilassung Und Freiheitsstatus Historisch Kritisch. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Freilassung Und Freiheitsstatus Historisch Kritisch. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Freilassung Und Freiheitsstatus Historisch Kritisch

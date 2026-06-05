@@ -1,13 +1,13 @@
 ---
 name: mandantenbrief-verstaendlich
-description: "Nutze dies, wenn Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 88 Bbg, Mobbing Fuersorgepflicht 78 Bbg, Nebentaetigkeit 99 Bbg Anzeige Genehmigung im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 88 Bbg, Mobbing Fuersorgepflicht 78 Bbg, Nebentaetigkeit 99 Bbg Anzeige Genehmigung prüfen.; Erstelle eine Arbeitsfassung zu Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 88 Bbg, Mobbing Fuersorgepflicht 78 Bbg, Nebentaetigkeit 99 Bbg Anzeige Genehmigung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 88 Bbg, Mobbing Fuersorgepflicht 78 Bbg, Nebentaetigkeit 99 Bbg Anzeige Genehmigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mandantenbrief Verstaendlich Beamtenrecht, Mehrarbeitsverguetung 88 Bbg, Mobbing Fuersorgepflicht 78 Bbg, Nebentaetigkeit 99 Bbg Anzeige Genehmigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

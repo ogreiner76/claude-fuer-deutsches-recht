@@ -1,13 +1,13 @@
 ---
 name: arbeitnehmer-software-beta-pilot
-description: "Nutze dies, wenn Arbeitnehmer Software 69B Urhg, Beta Pilot Poc Termsheet, Beweissicherung Code Repository, Bonus Equity Devs Noncompete im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Arbeitnehmer Software 69B Urhg, Beta Pilot Poc Termsheet, Beweissicherung Code Repository, Bonus Equity Devs Noncompete prüfen.; Erstelle eine Arbeitsfassung zu Arbeitnehmer Software 69B Urhg, Beta Pilot Poc Termsheet, Beweissicherung Code Repository, Bonus Equity Devs Noncompete.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arbeitnehmer Software 69b Urhg, Beta Pilot Poc Termsheet, Beweissicherung Code Repository, Bonus Equity Devs Noncompete: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arbeitnehmer Software 69B Urhg, Beta Pilot Poc Termsheet, Beweissicherung Code Repository, Bonus Equity Devs Noncompete
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitnehmer Software 69B Urhg, Beta Pilot Poc Termsheet, Beweissicherung Code Repository, Bonus Equity Devs Noncompete** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

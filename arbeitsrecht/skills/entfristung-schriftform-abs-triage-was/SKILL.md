@@ -1,13 +1,13 @@
 ---
 name: entfristung-schriftform-abs-triage-was
-description: "Nutze dies, wenn Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kündigungsschutzklage Frist Und Zugang Prüfen im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kündigungsschutzklage Frist Und Zugang Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kündigungsschutzklage Frist Und Zugang Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kündigungsschutzklage Frist Und Zugang Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kündigungsschutzklage Frist Und Zugang Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kündigungsschutzklage Frist Und Zugang Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -68,20 +68,20 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Frage 1: Original-Urkunde mit eigenhändiger Unterschrift beider Parteien oder echte QES beider Parteien?
-  ├── Nein → SCHRIFTFORMMANGEL → § 16 Satz 1 TzBfG: Vertrag gilt als unbefristet
-  └── Ja → weiter zu Frage 2
+ ├── Nein → SCHRIFTFORMMANGEL → § 16 Satz 1 TzBfG: Vertrag gilt als unbefristet
+ └── Ja → weiter zu Frage 2
 
 Frage 2: Unterzeichnung vor Arbeitsaufnahme?
-  ├── Nein (Unterschrift erst nach erstem Arbeitstag) → SCHRIFTFORMMANGEL
-  └── Ja → weiter zu Frage 3
+ ├── Nein (Unterschrift erst nach erstem Arbeitstag) → SCHRIFTFORMMANGEL
+ └── Ja → weiter zu Frage 3
 
 Frage 3: Einheitlichkeit/Formverbund? (dieselbe Urkunde oder jeweils für die andere Seite bestimmte gleichlautende Ausfertigung; bei QES nachvollziehbarer elektronischer Dokumentbezug?)
-  ├── Nein (jede Seite hat eigene Kopie unterschrieben, kein Verbindungswille) → fraglich
-  └── Ja → Schriftform gewahrt
+ ├── Nein (jede Seite hat eigene Kopie unterschrieben, kein Verbindungswille) → fraglich
+ └── Ja → Schriftform gewahrt
 
 Frage 4 (bei Verlängerung): Verlaengerungsvereinbarung ebenfalls formwirksam (Papier/QES)?
-  ├── Nein (mündlich / per E-Mail) → SCHRIFTFORMMANGEL bei der Verlängerung
-  └── Ja → Verlängerung wirksam
+ ├── Nein (mündlich / per E-Mail) → SCHRIFTFORMMANGEL bei der Verlängerung
+ └── Ja → Verlängerung wirksam
 ```
 
 ## Zweck
@@ -448,12 +448,12 @@ Ist die Drei-Wochen-Frist bereits abgelaufen, gibt es einen Ausnahmeweg:
 ```
 Kündigung zugegangen?
 └─ Zugangsdatum feststellen
-   └─ Frist abgelaufen?
-       ├─ Nein → SOFORT Klage vorbereiten; Frist im Kalender eintragen
-       └─ Ja → Verhinderungsgrund vorhanden? (§ 5 KSchG)
-               ├─ Ja (Krankheit, Bettlägerigkeit, etc.) → Antrag auf nachträgliche Zulassung
-               │   Frist: 2 Wochen nach Wegfall des Hindernisses; max. 6 Monate
-               └─ Nein → Kündigung gilt nach § 7 KSchG als wirksam; andere Ansprüche prüfen
+ └─ Frist abgelaufen?
+ ├─ Nein → SOFORT Klage vorbereiten; Frist im Kalender eintragen
+ └─ Ja → Verhinderungsgrund vorhanden? (§ 5 KSchG)
+ ├─ Ja (Krankheit, Bettlägerigkeit, etc.) → Antrag auf nachträgliche Zulassung
+ │ Frist: 2 Wochen nach Wegfall des Hindernisses; max. 6 Monate
+ └─ Nein → Kündigung gilt nach § 7 KSchG als wirksam; andere Ansprüche prüfen
 ```
 
 ---

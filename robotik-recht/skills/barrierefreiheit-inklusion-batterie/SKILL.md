@@ -1,13 +1,13 @@
 ---
 name: barrierefreiheit-inklusion-batterie
-description: "Nutze dies, wenn Barrierefreiheit Und Inklusion Robotik, Batterie Ladeinfrastruktur Und Brandschutz, Bau Und Inspektionsroboter, Beschaeftigtendatenschutz Cobot im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Barrierefreiheit Und Inklusion Robotik, Batterie Ladeinfrastruktur Und Brandschutz, Bau Und Inspektionsroboter, Beschaeftigtendatenschutz Cobot prüfen.; Erstelle eine Arbeitsfassung zu Barrierefreiheit Und Inklusion Robotik, Batterie Ladeinfrastruktur Und Brandschutz, Bau Und Inspektionsroboter, Beschaeftigtendatenschutz Cobot.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Barrierefreiheit Und Inklusion Robotik, Batterie Ladeinfrastruktur Und Brandschutz, Bau Und Inspektionsroboter, Beschaeftigtendatenschutz Cobot: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Barrierefreiheit Und Inklusion Robotik, Batterie Ladeinfrastruktur Und Brandschutz, Bau Und Inspektionsroboter, Beschaeftigtendatenschutz Cobot
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -62,7 +62,7 @@ Service-, Pflege-, Liefer- und Empfangsroboter interagieren mit Menschen untersc
 - **MaschinenVO** VO (EU) 2023/1230 Anhang III Nr. 1.1.6 Ergonomie.
 - **UN-BRK** Art. 9 (Zugänglichkeit).
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Anwendungsbereich BFSG prüfen.** Verbraucherrobotik oder gewerblich? Übergangsregelungen für Bestandsprodukte beachten.
 2. **Wahrnehmbarkeit.** Mehrkanalige Ausgabe (visuell + akustisch + ggf. taktil); Kontraste mindestens WCAG AA; Schriftgrößen skalierbar; Sprachausgabe in Standardsprache.
@@ -162,7 +162,7 @@ Mobile Roboter (AMR, AGV, Liefer-, Reinigungs-, Mähroboter) werden überwiegend
 - **VdS-Bedingungen** (VdS 3103, VdS 3856) zu Li-Ion-Lagerung.
 - **ProdHaftG / VO (EU) 2024/2853** Produkthaftung, § 823 BGB.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Zellklassifizierung.** Energie pro Zelle und Pack, Chemie, Brandverhalten (Thermal Runaway).
 2. **Konformität.** Batterie-VO, MaschinenVO, ggf. CRA, UN 38.3 Transportsicherheit.
@@ -266,7 +266,7 @@ Bau- und Inspektionsroboter (Vermessungs-Roboter, Mauerwerks-, 3D-Druck-, Schwei
 - **ProdHaftG / VO (EU) 2024/2853** Hersteller, ggf. Quasi-Hersteller des Integrators.
 - **KI-VO** bei autonomer Wahrnehmung; bei sicherheitskritischer Erkennung ggf. Hochrisiko Anhang III KI-VO.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Rollenmatrix.** Wer ist Hersteller, wer Integrator, wer Vermieter, wer Betreiber, wer Bauherr? Wer haftet im Außenverhältnis?
 2. **Risikobeurteilung baustellenspezifisch.** Neben der Hersteller-Risikobeurteilung eine baustellenbezogene Beurteilung mit SiGeKo; Aufstellort, Bewegungsradius, Notabschaltung, Vandalismusrisiko.
@@ -361,7 +361,7 @@ Cobots erfassen regelmäßig Beschäftigtendaten: Pickrate je Schicht, Standortd
 - **KI-VO** Art. 26 Abs. 7 Information der Beschäftigten und Betriebsräte bei Einsatz von Hochrisiko-KI am Arbeitsplatz; Art. 5 Verbote (insb. Emotionserkennung am Arbeitsplatz, Art. 5 Abs. 1 lit. f ab 02.02.2025).
 - **MaschinenVO** VO (EU) 2023/1230 und ArbSchG für Sicherheits-Sensorik.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Datenkatalog.** Welche Daten entstehen (Sensor, Kamera, Audio, Vibration, Bedien-Logs)? Welche sind personenbezogen oder personenbeziehbar? Welche sind besonderer Kategorien (Art. 9 DSGVO)?
 2. **Zweckbindung.** Pro Datenkategorie konkreten Zweck definieren; "Allzweck-Telemetrie" ist nicht zulässig.

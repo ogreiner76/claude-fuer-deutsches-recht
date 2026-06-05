@@ -1,13 +1,13 @@
 ---
 name: vbr-haustuergeschaeft-frist-fernabsatz
-description: "Nutze dies, wenn Vbr 023 Haustuergeschaeft Frist Berechnen, Vbr 033 Fernabsatz Frist Berechnen, Vbr 043 Online Shop Frist Berechnen, Vbr 053 Marketplace Frist Berechnen im Plugin Verbraucherschutzrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vbr 023 Haustuergeschaeft Frist Berechnen, Vbr 033 Fernabsatz Frist Berechnen, Vbr 043 Online Shop Frist Berechnen, Vbr 053 Marketplace Frist Berechnen prüfen.; Erstelle eine Arbeitsfassung zu Vbr 023 Haustuergeschaeft Frist Berechnen, Vbr 033 Fernabsatz Frist Berechnen, Vbr 043 Online Shop Frist Berechnen, Vbr 053 Marketplace Frist Berechnen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vbr 023 Haustuergeschaeft Frist Berechnen, Vbr 033 Fernabsatz Frist Berechnen, Vbr 043 Online Shop Frist Berechnen, Vbr 053 Marketplace Frist Berechnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vbr 023 Haustuergeschaeft Frist Berechnen, Vbr 033 Fernabsatz Frist Berechnen, Vbr 043 Online Shop Frist Berechnen, Vbr 053 Marketplace Frist Berechnen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vbr 023 Haustuergeschaeft Frist Berechnen, Vbr 033 Fernabsatz Frist Berechnen, Vbr 043 Online Shop Frist Berechnen, Vbr 053 Marketplace Frist Berechnen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

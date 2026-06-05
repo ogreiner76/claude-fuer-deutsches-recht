@@ -1,13 +1,13 @@
 ---
 name: remedies-damages-representations-warranties
-description: "Nutze dies, wenn Common Law Remedies Damages Equity, Common Law Representations Warranties Covenants, Common Law Simulation Negotiation im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Bitte Common Law Remedies Damages Equity, Common Law Representations Warranties Covenants, Common Law Simulation Negotiation prüfen.; Erstelle eine Arbeitsfassung zu Common Law Remedies Damages Equity, Common Law Representations Warranties Covenants, Common Law Simulation Negotiation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Common Law Remedies Damages Equity, Common Law Representations Warranties Covenants, Common Law Simulation Negotiation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Common Law Remedies Damages Equity, Common Law Representations Warranties Covenants, Common Law Simulation Negotiation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Common Law Remedies Damages Equity, Common Law Representations Warranties Covenants, Common Law Simulation Negotiation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -107,32 +107,32 @@ Date: [DATE] — Matter: [DESCRIPTION]
 Jurisdiction: [England/Wales / New York]
 
 1. MEASURE OF DAMAGES
-   [ ] Expectation (put in position as if performed) — Est. value: GBP/USD [X]
-   [ ] Reliance (expenses wasted in reliance on contract)
-   [ ] Restitution (unjust enrichment; quantum meruit)
-   [ ] Wasted expenditure
+ [ ] Expectation (put in position as if performed) — Est. value: GBP/USD [X]
+ [ ] Reliance (expenses wasted in reliance on contract)
+ [ ] Restitution (unjust enrichment; quantum meruit)
+ [ ] Wasted expenditure
 
 2. HEADS OF LOSS
-   a. Direct loss: GBP/USD [X]
-   b. Consequential loss (foreseeable?): [YES — Hadley limb 2 / NO]
-   c. Loss of profit: [Recoverable if communicated: ...]
-   d. Non-pecuniary / distress: [Limited in commercial contracts]
+ a. Direct loss: GBP/USD [X]
+ b. Consequential loss (foreseeable?): [YES — Hadley limb 2 / NO]
+ c. Loss of profit: [Recoverable if communicated: ...]
+ d. Non-pecuniary / distress: [Limited in commercial contracts]
 
 3. REMOTENESS
-   Hadley v Baxendale test: [limb 1 / limb 2 — communicated?]
-   Achilleas assumption of responsibility: [relevant / not relevant]
+ Hadley v Baxendale test: [limb 1 / limb 2 — communicated?]
+ Achilleas assumption of responsibility: [relevant / not relevant]
 
 4. MITIGATION
-   Claimant mitigated?: [YES / NO — steps taken: ...]
-   Deduction for failure to mitigate: [est. GBP/USD X]
+ Claimant mitigated?: [YES / NO — steps taken: ...]
+ Deduction for failure to mitigate: [est. GBP/USD X]
 
 5. EQUITABLE RELIEF AVAILABLE?
-   [ ] Injunction — American Cyanamid test: [serious issue / damages inadequate / balance of convenience]
-   [ ] Specific performance — unique goods/property: [YES / NO]
-   [ ] Account of profits — breach fiduciary duty: [applicable / not]
+ [ ] Injunction — American Cyanamid test: [serious issue / damages inadequate / balance of convenience]
+ [ ] Specific performance — unique goods/property: [YES / NO]
+ [ ] Account of profits — breach fiduciary duty: [applicable / not]
 
 6. TOTAL ESTIMATED RECOVERY
-   Low: GBP/USD [X] — High: GBP/USD [Y]
+ Low: GBP/USD [X] — High: GBP/USD [Y]
 ```
 
 
@@ -227,10 +227,10 @@ Jurisdiction: [England/Wales / New York / Delaware]
 
 No. | Type | Clause | Risk | Rec.
 ----|------|--------|------|-----
-1   | Rep. | "[verbatim]" | [HIGH — no knowledge qualifier] | Add "to Seller's knowledge"
-2   | Warranty | "[verbatim]" | [MEDIUM — broad; cap?] | Add basket EUR/GBP [X]; cap [Y]
-3   | Covenant | "[verbatim]" | [LOW — time-limited 2 years] | OK
-4   | Indemnity | "[verbatim]" | [HIGH — uncapped tax indemnity] | Cap at transaction value
+1 | Rep. | "[verbatim]" | [HIGH — no knowledge qualifier] | Add "to Seller's knowledge"
+2 | Warranty | "[verbatim]" | [MEDIUM — broad; cap?] | Add basket EUR/GBP [X]; cap [Y]
+3 | Covenant | "[verbatim]" | [LOW — time-limited 2 years] | OK
+4 | Indemnity | "[verbatim]" | [HIGH — uncapped tax indemnity] | Cap at transaction value
 
 GLOBAL ISSUES:
 - Limitation period: [UK: 7 years from Completion / US: 18 months typical]

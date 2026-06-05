@@ -1,13 +1,13 @@
 ---
 name: recherche-strategie-tools-marktuebersicht
-description: "Nutze dies, wenn Recherche Strategie Keywords Und Klassen, Recherche Tools Marktuebersicht, Recherchebericht Erstellen im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Bitte Recherche Strategie Keywords Und Klassen, Recherche Tools Marktuebersicht, Recherchebericht Erstellen prüfen.; Erstelle eine Arbeitsfassung zu Recherche Strategie Keywords Und Klassen, Recherche Tools Marktuebersicht, Recherchebericht Erstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Recherche Strategie Keywords Und Klassen, Recherche Tools Marktuebersicht, Recherchebericht Erstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Recherche Strategie Keywords Und Klassen, Recherche Tools Marktuebersicht, Recherchebericht Erstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Recherche Strategie Keywords Und Klassen, Recherche Tools Marktuebersicht, Recherchebericht Erstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -151,12 +151,12 @@ Erzeugt das **formale Ausgabedokument** der Recherche. Wird je nach Mandat:
 Recherchebericht
 ================
 
-Mandant:        [Mandantenname]
-Aktenzeichen:   [Aktenzeichen]
+Mandant: [Mandantenname]
+Aktenzeichen: [Aktenzeichen]
 Recherchezweck: [Stand der Technik / Neuheit / FTO / Monitoring / Bescheidantwort]
-Stichtag:       [Datum des Berichts]
+Stichtag: [Datum des Berichts]
 Erstellt durch: [Patentanwältin / Patentanwalt]
-                [Kanzlei]
+ [Kanzlei]
 ```
 
 ### 2. Auftragsbeschreibung
@@ -220,11 +220,11 @@ kann nicht garantiert werden, insbesondere:
 
 - Treffer in nicht durchsuchten Sprachen (JP, CN, KR, RU usw.) können verfehlt werden;
 - Geheime ältere Anmeldungen (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPUe) sind erst
-  18 Monate nach Prioritaetstag öffentlich;
+ 18 Monate nach Prioritaetstag öffentlich;
 - Bezahl-Datenbanken (PatBase, STN, Orbit, Questel u. a.) sind in diese Recherche
-  nicht eingeflossen, sofern nicht ausdrücklich vermerkt;
+ nicht eingeflossen, sofern nicht ausdrücklich vermerkt;
 - Nicht-Patent-Literatur ist nur über Standard-Schnittstellen (Google Scholar,
-  Lens.org, arXiv, PubMed) erfasst.
+ Lens.org, arXiv, PubMed) erfasst.
 
 Die finale Bewertung der Patentierbarkeit, der Verletzungsfreiheit und des Rechts-
 stands muss durch eigenständige Prüfung der Patentanwältin / des Patentanwalts

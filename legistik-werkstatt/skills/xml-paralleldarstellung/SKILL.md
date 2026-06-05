@@ -22,30 +22,30 @@ Landesrecht-Portale verwenden teilweise eigene XML-Formate, teilweise LegalDocML
 
 ```xml
 <akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
-  <act name="entwurf-paragraf-33a-hgb">
-    <meta>
-      <identification source="#bmj">
-        <FRBRWork>
-          <FRBRthis value="/akn/de/act/2026/pflichtpostfachg"/>
-          <FRBRuri value="/akn/de/act/2026/pflichtpostfachg"/>
-          <FRBRdate date="2026-05-23" name="Auftragsdatum"/>
-          <FRBRauthor href="#bmj"/>
-          <FRBRcountry value="de"/>
-        </FRBRWork>
-      </identification>
-    </meta>
-    <body>
-      <article eId="art_1">
-        <num>Artikel 1</num>
-        <heading>Aenderung des Handelsgesetzbuchs</heading>
-        <paragraph eId="art_1__para_1">
-          <content>
-            <p>Das Handelsgesetzbuch ... wird wie folgt geaendert: ...</p>
-          </content>
-        </paragraph>
-      </article>
-    </body>
-  </act>
+ <act name="entwurf-paragraf-33a-hgb">
+ <meta>
+ <identification source="#bmj">
+ <FRBRWork>
+ <FRBRthis value="/akn/de/act/2026/pflichtpostfachg"/>
+ <FRBRuri value="/akn/de/act/2026/pflichtpostfachg"/>
+ <FRBRdate date="2026-05-23" name="Auftragsdatum"/>
+ <FRBRauthor href="#bmj"/>
+ <FRBRcountry value="de"/>
+ </FRBRWork>
+ </identification>
+ </meta>
+ <body>
+ <article eId="art_1">
+ <num>Artikel 1</num>
+ <heading>Aenderung des Handelsgesetzbuchs</heading>
+ <paragraph eId="art_1__para_1">
+ <content>
+ <p>Das Handelsgesetzbuch ... wird wie folgt geaendert: ...</p>
+ </content>
+ </paragraph>
+ </article>
+ </body>
+ </act>
 </akomaNtoso>
 ```
 

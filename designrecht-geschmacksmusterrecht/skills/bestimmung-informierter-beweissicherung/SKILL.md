@@ -1,13 +1,13 @@
 ---
 name: bestimmung-informierter-beweissicherung
-description: "Nutze dies, wenn Bestimmung Informierter Benutzer, Beweissicherung Designvergleich im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Bestimmung Informierter Benutzer, Beweissicherung Designvergleich prüfen.; Erstelle eine Arbeitsfassung zu Bestimmung Informierter Benutzer, Beweissicherung Designvergleich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bestimmung Informierter Benutzer, Beweissicherung Designvergleich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bestimmung Informierter Benutzer, Beweissicherung Designvergleich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bestimmung Informierter Benutzer, Beweissicherung Designvergleich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

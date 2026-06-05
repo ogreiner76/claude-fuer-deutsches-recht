@@ -1,19 +1,19 @@
 ---
 name: rechtsabteilung-scheinselbststaendigkeit
-description: "Nutze dies, wenn Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-scheinselbststaendigkeit-des-handelsvertreters` | Rechtsabteilungs-Spezialskill für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-scheinselbststaendigkeit-des-handelsvertreters` | Rechtsabteilungs-Fachmodul für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `reporting-pflichten` | Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung. |
 | `retouren-reklamationen` | Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unternehmer. |
 | `schiedsgericht` | Prüft Schiedsklauseln in Handelsvertreterverträgen: Wirksamkeit von Schiedsvereinbarungen nach §§ 1029 ff. ZPO, Verhältnis zu zwingenden Schutznormen des § 92c HGB, Vor- und Nachteile des Schiedsverfahrens, Anerkennung und Vollstreckung von Schiedssprüchen sowie Vorsorgemaßnahmen in der Vertragsgestaltung. |
@@ -27,7 +27,7 @@ Für **Rechtsabteilung Scheinselbststaendigkeit Des Handelsvertreters, Reporting
 
 ## 1. `rechtsabteilung-scheinselbststaendigkeit-des-handelsvertreters`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Scheinselbstständigkeit des Handelsvertreters
 

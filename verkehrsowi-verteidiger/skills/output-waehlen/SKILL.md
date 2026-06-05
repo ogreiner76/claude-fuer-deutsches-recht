@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Verkehrsowi Verteidiger** ein Fall noch so
 ## Fachlandkarte dieses Plugins
 
 - `alkohol-drogen-beweisverwertung-standardisiert-verkehrsowi` — Alkohol Drogen Beweisverwertung Standardisiert Verkehrsowi
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `amtsgericht-drogen-interessen-einspruch` — Amtsgericht Drogen Interessen Einspruch
 - `anhoerung-verkehrsowi-einspruch-messverfahren-geschwindigkeit` — Anhoerung Verkehrsowi Einspruch Messverfahren Geschwindigkeit
 - `fahrverbot-geschwindigkeit-handy` — Fahrverbot Geschwindigkeit Handy

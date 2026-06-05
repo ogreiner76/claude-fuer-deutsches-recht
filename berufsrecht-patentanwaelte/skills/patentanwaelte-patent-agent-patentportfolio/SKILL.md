@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-patent-agent-patentportfolio
-description: "Nutze dies, wenn Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, Patentanwaelte Patentportfolio Und Interessenkollision Kaltstar, Patentanwaelte Patentportfolio Und Interessenkollision Kammeran, Patentanwaelte Patentportfolio Und Interessenkollision Organisa im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, Patentanwaelte Patentportfolio Und Interessenkollision Kaltstar, Patentanwaelte Patentportfolio Und Interessenkollision Kammeran, Patentanwaelte Patentportfolio Und Interessenkollision Organisa prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, Patentanwaelte Patentportfolio Und Interessenkollision Kaltstar, Patentanwaelte Patentportfolio Und Interessenkollision Kammeran, Patentanwaelte Patentportfolio Und Interessenkollision Organisa.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, Patentanwaelte Patentportfolio Und Interessenkollision Kaltstar, Patentanwaelte Patentportfolio Und Interessenkollision Kammeran, Patentanwaelte Patentportfolio Und Interessenkollision Organisa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, Patentanwaelte Patentportfolio Und Interessenkollision Kaltstar, Patentanwaelte Patentportfolio Und Interessenkollision Kammeran, Patentanwaelte Patentportfolio Und Interessenkollision Organisa
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Patent Agent Title Und Werbung Organisationspfli, Patentanwaelte Patentportfolio Und Interessenkollision Kaltstar, Patentanwaelte Patentportfolio Und Interessenkollision Kammeran, Patentanwaelte Patentportfolio Und Interessenkollision Organisa** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,23 +1,23 @@
 ---
 name: gesetzliches-leitbild-gewahrleistung
-description: "Nutze dies, wenn Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbemiete Agb, Handelsvertreter Agb, Indexierung im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbemiete Agb, Handelsvertreter Agb, Indexierung prüfen.; Erstelle eine Arbeitsfassung zu Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbemiete Agb, Handelsvertreter Agb, Indexierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbemiete Agb, Handelsvertreter Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbemiete Agb, Handelsvertreter Agb, Indexierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbemiete Agb, Handelsvertreter Agb, Indexierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesetzliches-leitbild-abweichung-307` | Norm- und Dogmatik-Skill für Gesetzliches Leitbild Abweichung 307: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `gewahrleistung-ausschluss` | Klausel-Spezialskill für Gewährleistung Ausschluss: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `gewerbemiete-agb` | Branchen-Spezialskill für Gewerbemiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `handelsvertreter-agb` | Branchen-Spezialskill für Handelsvertreter AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `indexierung` | Klausel-Spezialskill für Indexierung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `gewahrleistung-ausschluss` | Klausel-Fachmodul für Gewährleistung Ausschluss: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `gewerbemiete-agb` | Branchen-Fachmodul für Gewerbemiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `handelsvertreter-agb` | Branchen-Fachmodul für Handelsvertreter AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `indexierung` | Klausel-Fachmodul für Indexierung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -54,18 +54,18 @@ Für **Gesetzliches Leitbild Abweichung 307, Gewahrleistung Ausschluss, Gewerbem
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 307 Abs. 2 Nr. 1 BGB (Abweichung vom gesetzlichen Leitbild):**
-   - **Tatbestand:** Eine AGB-Klausel ist im Zweifel unangemessen, wenn sie mit wesentlichen Grundgedanken der gesetzlichen Regelung, von der abgewichen wird, nicht zu vereinbaren ist.
-   - **Pruefschritte:**
-     - **(a)** Welches gesetzliche Leitbild greift (dispositiv vs. dispositiv-zwingend)? Beispiel: § 433 BGB Pflichten beim Kauf, § 631 BGB Werkpflichten, § 280 BGB Schadenersatz nur bei Verschulden.
-     - **(b)** Welche wesentlichen Grundgedanken ergeben sich aus dem Leitbild? Beispiel: Verschuldenshaftung statt Gefaehrdungshaftung; Aequivalenz zwischen Leistung und Gegenleistung.
-     - **(c)** Wird von diesen Grundgedanken abgewichen? Reine Praezisierungen sind unkritisch; substantielle Verschiebungen sind kritisch.
-     - **(d)** Liegt eine "unangemessene" Benachteiligung vor? Massstab: Treu und Glauben (§ 242 BGB).
-   - **Indizwirkung:** § 307 Abs. 2 Nr. 1 BGB schafft eine Indizwirkung; widerlegbar bei substantieller Begruendung des Verwenders (z.B. besondere Risikoallokation, Massengeschaeft-Effizienz).
-   - **Beispiele unwirksamer Leitbild-Abweichung:**
-     - Verschuldensunabhaengige Haftung des Kunden bei verspaeteter Annahme (Abweichung von §§ 286, 304 BGB Aenderung der Risikotragung).
-     - Vorab-Bezahlung ohne Reziprozitaet im Werkvertrag (Abweichung von § 641 BGB Vorleistungsregel).
-     - Erfuellung erst nach vollstaendiger Bezahlung im Kaufvertrag (Abweichung vom Zug-um-Zug-Prinzip § 320 BGB).
-   - **B2B-Ausstrahlung:** § 307 BGB gilt im B2B uneingeschraenkt; Wertungsmassstab ist die im Verkehrsbereich uebliche Risikoallokation und ggf. ergaenzend die §§ 308, 309 BGB.
+ - **Tatbestand:** Eine AGB-Klausel ist im Zweifel unangemessen, wenn sie mit wesentlichen Grundgedanken der gesetzlichen Regelung, von der abgewichen wird, nicht zu vereinbaren ist.
+ - **Pruefschritte:**
+ - **(a)** Welches gesetzliche Leitbild greift (dispositiv vs. dispositiv-zwingend)? Beispiel: § 433 BGB Pflichten beim Kauf, § 631 BGB Werkpflichten, § 280 BGB Schadenersatz nur bei Verschulden.
+ - **(b)** Welche wesentlichen Grundgedanken ergeben sich aus dem Leitbild? Beispiel: Verschuldenshaftung statt Gefaehrdungshaftung; Aequivalenz zwischen Leistung und Gegenleistung.
+ - **(c)** Wird von diesen Grundgedanken abgewichen? Reine Praezisierungen sind unkritisch; substantielle Verschiebungen sind kritisch.
+ - **(d)** Liegt eine "unangemessene" Benachteiligung vor? Massstab: Treu und Glauben (§ 242 BGB).
+ - **Indizwirkung:** § 307 Abs. 2 Nr. 1 BGB schafft eine Indizwirkung; widerlegbar bei substantieller Begruendung des Verwenders (z.B. besondere Risikoallokation, Massengeschaeft-Effizienz).
+ - **Beispiele unwirksamer Leitbild-Abweichung:**
+ - Verschuldensunabhaengige Haftung des Kunden bei verspaeteter Annahme (Abweichung von §§ 286, 304 BGB Aenderung der Risikotragung).
+ - Vorab-Bezahlung ohne Reziprozitaet im Werkvertrag (Abweichung von § 641 BGB Vorleistungsregel).
+ - Erfuellung erst nach vollstaendiger Bezahlung im Kaufvertrag (Abweichung vom Zug-um-Zug-Prinzip § 320 BGB).
+ - **B2B-Ausstrahlung:** § 307 BGB gilt im B2B uneingeschraenkt; Wertungsmassstab ist die im Verkehrsbereich uebliche Risikoallokation und ggf. ergaenzend die §§ 308, 309 BGB.
 6. **Rechtsfolge:** Unwirksamkeit; Rueckkehr zum gesetzlichen Leitbild als Ergaenzungsregel (§ 306 Abs. 2 BGB).
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -99,7 +99,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `gewahrleistung-ausschluss`
 
-**Fokus:** Klausel-Spezialskill für Gewährleistung Ausschluss: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Gewährleistung Ausschluss: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Gewährleistung Ausschluss
 
@@ -154,7 +154,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `gewerbemiete-agb`
 
-**Fokus:** Branchen-Spezialskill für Gewerbemiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Gewerbemiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Gewerbemiete AGB
 
@@ -209,7 +209,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `handelsvertreter-agb`
 
-**Fokus:** Branchen-Spezialskill für Handelsvertreter AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Handelsvertreter AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Handelsvertreter AGB
 
@@ -264,7 +264,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `indexierung`
 
-**Fokus:** Klausel-Spezialskill für Indexierung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Indexierung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Indexierung
 

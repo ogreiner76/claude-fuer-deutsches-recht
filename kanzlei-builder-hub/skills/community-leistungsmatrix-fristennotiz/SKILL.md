@@ -1,13 +1,13 @@
 ---
 name: community-leistungsmatrix-fristennotiz
-description: "Nutze dies, wenn Spezial Community Fristen Form Und Zustaendigkeit, Spezial Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer im Plugin Kanzlei Builder Hub konkret bearbeitet werden soll. Auslöser: Bitte Spezial Community Fristen Form Und Zustaendigkeit, Spezial Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer prüfen.; Erstelle eine Arbeitsfassung zu Spezial Community Fristen Form Und Zustaendigkeit, Spezial Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Community Fristen Form Und Zustaendigkeit, Spezial Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer
+# Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Community Fristen Form Und Zustaendigkeit, Spezial Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Community Fristen Form Und Zustaendigkeit, Spezial Leistungsmatri
 # Community: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Community: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Community: Fristen, Form, Zuständigkeit und Rechtsweg / spezial community fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Community: Fristen, Form, Zuständigkeit und Rechtsweg / community fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Leistungsmatrix: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Leistungsmatrix: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Leistungsmatrix: Fristennotiz und nächster Schritt / spezial leistungsmatrix fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Leistungsmatrix: Fristennotiz und nächster Schritt / leistungsmatrix fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

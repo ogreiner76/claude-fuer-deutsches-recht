@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-gk-sanierungsgewinn-corporate-ma
-description: "Nutze dies, wenn Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File, Grosskanzlei Corporate Ma Qa Information Requests und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -75,7 +75,7 @@ Nicht dieser Skill ist primär, wenn lediglich eine Standard-Tax-DD ohne Sanieru
 - **§ 10d EStG** – Verlustvortrag mit Mindestbesteuerung; ab 1 Mio. EUR nur noch 60 % verrechenbar.
 - **§ 4h EStG** – Zinsschranke; Zinsvortrag.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Verlustvortrag-Inventur.** Steuerbescheide der letzten fünf Veranlagungszeiträume sichten, einschließlich Feststellungsbescheide nach § 10d EStG und nach § 10a GewStG. Achtung auf vorläufige Veranlagungen.
 2. **Vortragsmappe vervollständigen.** Zinsvortrag § 4h EStG, EBITDA-Vortrag, ggf. verbleibende Steuerguthaben aus Organschaft. Zinsvortrag und EBITDA-Vortrag werden in der Praxis häufig vergessen.
@@ -126,10 +126,10 @@ Erfahrene Tax-Partner schauen im Distressed-DD zuerst auf drei Zahlen: kumuliert
 - Plugin `steuerrecht-anwalt-und-berater`: Skill zu § 8c und § 8d KStG; Skill zu § 89 AO.
 - Plugin `insolvenzrecht`: Wirkung des Insolvenzplans auf Verlustvorträge.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-due-diligence-legal`
-  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
-  - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
-  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+ - `grosskanzlei-corporate-ma-due-diligence-legal`
+ - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
+ - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
+ - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
 
 ## Quellen Stand 06/2026
 
@@ -356,7 +356,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zweck
 
-Spezialworkflow fuer KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Haftsumme und Register nach MoPeG und HGB.
+Spezialfuer KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Haftsumme und Register nach MoPeG und HGB.
 
 ## Triage — klaere vor Beginn
 
@@ -410,21 +410,21 @@ KG-CHECKLISTE
 Gesellschaft: [NAME] — HR-Nr.: [HRA XXXX]
 
 EINLAGEN
-  Hafteinlage Kommanditist [NAME]: [BETRAG] EUR
-  Geleistete Einlage: [BETRAG] EUR
-  Einlagenrueckgewaehr geprueft: [ ] JA [ ] NEIN → § 172 IV HGB
+ Hafteinlage Kommanditist [NAME]: [BETRAG] EUR
+ Geleistete Einlage: [BETRAG] EUR
+ Einlagenrueckgewaehr geprueft: [ ] JA [ ] NEIN → § 172 IV HGB
 
 VERTRETUNG
-  Komplementaer: [NAME] — Einzelvertretungsbefugnis: [ ] JA [ ] NEIN
-  Prokura: [NAME]
+ Komplementaer: [NAME] — Einzelvertretungsbefugnis: [ ] JA [ ] NEIN
+ Prokura: [NAME]
 
 ANTEILSUEBERTRAGUNG
-  Zustimmung GV erforderlich: [ ] JA [ ] NEIN
-  Abtretungsvertrag formfrei: [ ] JA — Notarpflicht: [ ] NEIN
+ Zustimmung GV erforderlich: [ ] JA [ ] NEIN
+ Abtretungsvertrag formfrei: [ ] JA — Notarpflicht: [ ] NEIN
 
 REGISTER
-  HR-Eintrag Kommanditistenwechsel: [ ] OK [ ] TODO
-  MoPeG eGbR: [ ] nicht relevant [ ] Eintragung erforderlich bis [DATUM]
+ HR-Eintrag Kommanditistenwechsel: [ ] OK [ ] TODO
+ MoPeG eGbR: [ ] nicht relevant [ ] Eintragung erforderlich bis [DATUM]
 ```
 
 ## Rote Schwellen

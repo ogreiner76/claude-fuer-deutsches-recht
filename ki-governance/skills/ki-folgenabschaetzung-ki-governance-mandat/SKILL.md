@@ -1,13 +1,13 @@
 ---
 name: ki-folgenabschaetzung-ki-governance-mandat
-description: "Nutze dies, wenn Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Bitte Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich prüfen.; Erstelle eine Arbeitsfassung zu Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -38,12 +38,12 @@ welche Aufsicht besteht, und ist der Einsatz vertretbar?
 
 Dieses Skill kombiniert zwei rechtlich eigenständige Instrumente:
 - **FRIA (Fundamental Rights Impact Assessment)** nach Art. 27 KI-VO – für Betreiber
-  hochriskanter KI-Systeme, insbesondere öffentliche Stellen sowie private Stellen, die
-  öffentlich finanzierte Dienste erbringen oder Kreditwürdigkeitsbewertungen bzw.
-  Lebens-/Krankenversicherungs-Risikobewertungen vornehmen.
+ hochriskanter KI-Systeme, insbesondere öffentliche Stellen sowie private Stellen, die
+ öffentlich finanzierte Dienste erbringen oder Kreditwürdigkeitsbewertungen bzw.
+ Lebens-/Krankenversicherungs-Risikobewertungen vornehmen.
 - **DSFA (Datenschutz-Folgenabschätzung)** nach Art. 35 DSGVO – bei KI-Systemen, die
-  personenbezogene Daten verarbeiten und ein hohes Risiko für die Rechte und Freiheiten
-  natürlicher Personen begründen können.
+ personenbezogene Daten verarbeiten und ein hohes Risiko für die Rechte und Freiheiten
+ natürlicher Personen begründen können.
 
 Eine DSFA ist **keine** FRIA, und eine FRIA ist **keine** DSFA. Sie überschneiden sich häufig
 und müssen parallel durchgeführt werden. Dieses Skill deckt beide ab und kennzeichnet explizit,
@@ -52,7 +52,7 @@ welche Abschnitte welchem Instrument zugehören.
 ## Eingaben
 
 - Konfiguration aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md`
-  (Hausformat Folgenabschätzung, Use-Case-Register, regulatorischer Fußabdruck)
+ (Hausformat Folgenabschätzung, Use-Case-Register, regulatorischer Fußabdruck)
 - Systembeschreibung oder Triage-Ergebnis
 - Seed-Folgenabschätzung (sofern im Setup übergeben)
 
@@ -81,14 +81,14 @@ welche Abschnitte welchem Instrument zugehören.
 
 1. Praxisprofil lesen; Hausformat Folgenabschätzung bestätigen.
 2. Risikotrack bestimmen (vereinfacht oder vollständig) anhand Governance-Stufe und
-   Systemeigenschaften.
+ Systemeigenschaften.
 3. Aufnahme führen – gesprächig, kein Formular.
 4. Regulierungsklassifizierung für jeden einschlägigen Rechtsakt im Fußabdruck – Risikoklasse,
-   Verbots-Exposition, anwendbare Pflichten; Primärquellen zitieren.
+ Verbots-Exposition, anwendbare Pflichten; Primärquellen zitieren.
 5. Abschätzung im Hausformat schreiben.
 6. Richtlinien-Diff gegen KI-Governance-Commitments in CLAUDE.md.
 7. Ausgabe: Abschätzungsdokument + Bedingungsliste + Übergabe-Flags (Datenschutz DSFA,
-   Vendor-Review bei Bedarf).
+ Vendor-Review bei Bedarf).
 
 ## Mandate-Kontext
 
@@ -104,7 +104,7 @@ Auslöserkriterien aus CLAUDE.md prüfen.
 
 **Unabhängig davon stets prüfen:**
 - Trifft die KI eine oder beeinflusst sie wesentlich eine Entscheidung, die eine Person
-  betrifft (Beschäftigung, Kredit, Zugang, Preisgestaltung, Content-Moderation)?
+ betrifft (Beschäftigung, Kredit, Zugang, Preisgestaltung, Content-Moderation)?
 - Verarbeitet die KI personenbezogene Daten von Personen?
 - Handelt es sich um ein kundenseitiges KI-System und nicht rein intern?
 - Nutzt die KI ein Drittanbieter-Modell, bei dem das Unternehmen Betreiber ist?
@@ -142,37 +142,37 @@ Vor dem Schreiben Antworten auf folgende Fragen einholen. Gesprächig – kein F
 - Was tut die KI? In Alltagssprache, nicht Marketingtext.
 - Welches Modell oder welcher Anbieter treibt es an? Fine-tuned oder off-the-shelf?
 - Wo sitzt es im Arbeitsablauf – assistierend (Mensch prüft Ausgabe), augmentierend (Mensch kann
-  übersteuern, tut es aber meist nicht) oder automatisiert (kein Mensch im Ablauf)?
+ übersteuern, tut es aber meist nicht) oder automatisiert (kein Mensch im Ablauf)?
 - Was ist die Ausgabe – generierter Text, ein Score, eine Klassifizierung, eine Empfehlung,
-  eine Aktion?
+ eine Aktion?
 
 ### Betroffene Personen
 
 - Wen betreffen die Ausgaben der KI – Mitarbeiter, Kunden, Dritte?
 - Wenn die KI einen Fehler macht (False Positive, False Negative, Halluzination), wen
-  trifft der Schaden und was ist der schlimmste realistische Fall?
+ trifft der Schaden und was ist der schlimmste realistische Fall?
 - Sind schutzbedürftige Gruppen unverhältnismäßig betroffen – Minderjährige, Bewerber,
-  Personen in finanzieller Not, Patienten?
+ Personen in finanzieller Not, Patienten?
 
 ### Eingaben und Daten
 
 - Welche Daten verarbeitet die KI?
 - Verarbeitet sie personenbezogene Daten? Von wem? (Art. 4 Nr. 1 DSGVO)
 - Wurde das Modell auf Unternehmensdaten trainiert oder ist es ein Foundation Model ohne
-  unternehmensspezifisches Training?
+ unternehmensspezifisches Training?
 - Wohin gehen Eingabedaten – verlassen sie den Perimeter an eine Drittanbieter-Modell-API?
-  (Auftragsverarbeitung Art. 28 DSGVO prüfen)
+ (Auftragsverarbeitung Art. 28 DSGVO prüfen)
 - Trainingsdaten-Transparenz: Falls eigene Daten zum Training verwendet wurden, UrhG-Prüfung
-  (§ 44b UrhG, Art. 4 DSM-RL Text- und Data-Mining-Schranke) und GeschGehG-Prüfung.
+ (§ 44b UrhG, Art. 4 DSM-RL Text- und Data-Mining-Schranke) und GeschGehG-Prüfung.
 
 ### Entscheidungsfindung und Aufsicht
 
 - Löst die KI-Ausgabe automatisch eine Aktion aus, oder entscheidet ein Mensch?
-  (Automatisierte Entscheidungsfindung Art. 22 DSGVO prüfen)
+ (Automatisierte Entscheidungsfindung Art. 22 DSGVO prüfen)
 - Falls menschliche Prüfung: Wie oft ändert der Mensch tatsächlich die Ausgabe der KI?
-  (Wenn "selten" – der Mensch prüft nicht wirklich; er stempelt ab.)
+ (Wenn "selten" – der Mensch prüft nicht wirklich; er stempelt ab.)
 - Gibt es ein Widerspruchs- oder Korrekturverfahren für betroffene Personen? (Art. 22 Abs. 3
-  DSGVO; Art. 26 Abs. 6 KI-VO)
+ DSGVO; Art. 26 Abs. 6 KI-VO)
 - Wer ist für die Ausgaben des KI-Systems verantwortlich – gibt es einen benannten Eigentümer?
 
 ### Genauigkeit und Fehler
@@ -186,7 +186,7 @@ Vor dem Schreiben Antworten auf folgende Fragen einholen. Gesprächig – kein F
 - **Stufe:** Geplant und noch nicht gebaut / Pilotbetrieb / Live in Produktion / Live und skaliert?
 - **Umfang:** Wie viele Personen sind ca. pro Monat/Jahr betroffen?
 - **Verlauf:** Wurde es bereits bewertet? Gab es Entscheidungen, die angefochten oder
-  aufgehoben wurden?
+ aufgehoben wurden?
 
 ---
 
@@ -203,30 +203,30 @@ Für jeden einschlägigen Rechtsakt im Fußabdruck:
 - Risikoklasse nach Art. 6 KI-VO i.V.m. Anhang III `[prüfen]`
 - Verbotene Praktiken Art. 5 KI-VO `[prüfen]`
 - Betreiberpflichten Art. 26 KI-VO (technische Dokumentation, Protokollierung, menschliche
-  Aufsicht, Unterrichtung von Arbeitnehmern) `[prüfen]`
+ Aufsicht, Unterrichtung von Arbeitnehmern) `[prüfen]`
 - FRIA Art. 27 KI-VO – erforderlich? (Öffentliche Stellen oder öffentlich finanzierte private
-  Dienste; Kreditwürdigkeit; Lebens-/Krankenversicherungs-Risikobewertung) `[prüfen]`
+ Dienste; Kreditwürdigkeit; Lebens-/Krankenversicherungs-Risikobewertung) `[prüfen]`
 - Transparenzpflichten Art. 50 KI-VO (Chatbot-Offenlegung, Deepfake-Kennzeichnung) `[prüfen]`
 
 **DSGVO / BDSG:**
 - DSFA-Pflicht Art. 35 DSGVO – bei hohem Risiko für Rechte und Freiheiten, insbesondere bei
-  automatisierten Entscheidungen (Art. 22), Profiling, Verarbeitung besonderer Kategorien
-  (Art. 9) `[prüfen]`
+ automatisierten Entscheidungen (Art. 22), Profiling, Verarbeitung besonderer Kategorien
+ (Art. 9) `[prüfen]`
 - Auftragsverarbeitung Art. 28 DSGVO bei Drittanbietern `[prüfen]`
 - Automatisierte Entscheidungsfindung Art. 22 DSGVO `[prüfen]`
 - Beschäftigtendatenschutz § 26 BDSG bei Mitarbeiter-KI `[prüfen]`
 
 **ProdHaftG / Produktsicherheitsrecht:**
 - KI-System als Produkt i.S.d. ProdHaftG – Herstellerhaftung für fehlerhafte KI-Ausgaben
-  bei körperlichen Schäden prüfen `[Modellwissen – prüfen]`
+ bei körperlichen Schäden prüfen `[Modellwissen – prüfen]`
 
 **§ 203 StGB:**
 - Bei Kanzleieinsatz: Mandantengeheimnis und KI-Einsatz vereinbar? Welche Schutzmechanismen
-  (On-Premise, Verarbeitung ohne Training) sind vorhanden? `[prüfen]`
+ (On-Premise, Verarbeitung ohne Training) sind vorhanden? `[prüfen]`
 
 **UrhG / GeschGehG:**
 - Trainings- oder Input-Daten: § 44b UrhG-Schranke, Art. 4 DSM-RL Opt-out-Mechanismus,
-  GeschGehG-Schutz für Modellarchitektur und proprietäre Daten `[prüfen]`
+ GeschGehG-Schutz für Modellarchitektur und proprietäre Daten `[prüfen]`
 
 ---
 
@@ -430,15 +430,15 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 ## Risiken / typische Fehler
 
 - **FRIA und DSFA verwechseln.** Beide Instrumente explizit kennzeichnen und als getrennte
-  Lieferungen behandeln, wenn beide erforderlich sind.
+ Lieferungen behandeln, wenn beide erforderlich sind.
 - **Art. 22 DSGVO ignorieren.** Bei automatisierten Entscheidungen immer auf vollständige
-  Automatisierung prüfen – auch bei nominell menschlicher Prüfung (Stempel-Risiko).
+ Automatisierung prüfen – auch bei nominell menschlicher Prüfung (Stempel-Risiko).
 - **Pinpoint-Zitate ohne Prüfung.** Artikel-Nummern der KI-VO haben sich während der
-  Konsolidierung verschoben; jeden Pinpoint gegen den Amtsblatttext prüfen.
+ Konsolidierung verschoben; jeden Pinpoint gegen den Amtsblatttext prüfen.
 - **Zu viele generische Risiken.** Ziel: 2–5 echte, am Design haftende Risiken, nicht 12
-  aufgeblähte.
+ aufgeblähte.
 - **Zertifizierung ohne Anwalt (bei Nicht-Juristen).** Vor Genehmigungsstempel auf
-  Anwaltsprüfung bestehen.
+ Anwaltsprüfung bestehen.
 
 ## Triage zu Beginn
 1. Liegt ein Hochrisiko-KI-System nach Art. 6 KI-VO i.V.m. Anhang III vor (Nr. 1-8)?
@@ -493,72 +493,72 @@ ohne YAML manuell zu bearbeiten.
 ## Eingaben
 
 - Konfiguration aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md`
-  und `unternehmens-profil.md` (eine Ebene höher)
+ und `unternehmens-profil.md` (eine Ebene höher)
 - Beschreibung der gewünschten Änderung vom Nutzer
 
 ## Ablauf
 
 1. **Konfiguration lesen.** CLAUDE.md und unternehmens-profil.md lesen. Falls CLAUDE.md nicht
-   existiert oder noch `[PLATZHALTER]`-Werte enthält:
+ existiert oder noch `[PLATZHALTER]`-Werte enthält:
 
-   > Sie haben noch kein Setup durchgeführt. Führen Sie zuerst `/ki-governance:ki-governance-kaltstart-interview`
-   > aus – anpassen dient der Anpassung eines bereits vorhandenen Profils.
+ > Sie haben noch kein Setup durchgeführt. Führen Sie zuerst `/ki-governance:ki-governance-kaltstart-interview`
+ > aus – anpassen dient der Anpassung eines bereits vorhandenen Profils.
 
 2. **Anpassbare Karte anzeigen.** Auflisten, was im Profil steht, gruppiert, mit
-   einzeiliger Zusammenfassung des aktuellen Werts:
+ einzeiliger Zusammenfassung des aktuellen Werts:
 
-   - **Unternehmen / Wer Sie sind** – Name, Branche, Jurisdiktionen, Phase, Praxiskontext
-     *(geteilt über alle Plugins – Änderungen fließen durch `unternehmens-profil.md`)*
-   - **Regulatorischer Fußabdruck** – KI-VO, DSGVO/BDSG, sektorspezifische Regelwerke
-     im Anwendungsbereich
-   - **Risikoeinstellung** – konservativ / mittig / progressiv, was das für Triage- und
-     Folgenabschätzungs-Ausgaben bedeutet
-   - **Personen** – Governance-Team, KI-Risikobeauftragter, Eskalationskette, Genehmiger
-   - **Use-Case-Register** – genehmigte / bedingte / nie-Einträge und zugehörige Bedingungen
-   - **KI-System-Inventar** – je System: Rolle (Anbieter / Betreiber usw.) und Risikoklasse
-     nach KI-VO. `/ki-governance:ki-inventar` für den dedizierten Editor verwenden.
-   - **Vendor-KI-Governance** – Trainings-auf-Daten, Haftung, Modell-Änderungsmeldung,
-     Art. 28 DSGVO AVV, Art. 11 KI-VO Technische Dokumentation und andere Positionen
-   - **KI-Richtlinien-Commitments** – öffentliche oder interne Commitments, gegen die das
-     Plugin abgleicht
-   - **Folgenabschätzungs-Hausformat** – FRIA-/DSFA-Abschnittsreihenfolge, Risiko-Scoring-Format,
-     Stakeholder-Framing
-   - **Ablauf** – Aufnahme-Pfad, Ausgabeformat, Mandats-Workspace-Pfade, Prüfkadenz für
-     den Policy-Monitor
-   - **Integrationen** – was verbunden ist (Slack, Dokumentenspeicher, geplante Aufgaben),
-     was zurückfällt
+ - **Unternehmen / Wer Sie sind** – Name, Branche, Jurisdiktionen, Phase, Praxiskontext
+ *(geteilt über alle Plugins – Änderungen fließen durch `unternehmens-profil.md`)*
+ - **Regulatorischer Fußabdruck** – KI-VO, DSGVO/BDSG, sektorspezifische Regelwerke
+ im Anwendungsbereich
+ - **Risikoeinstellung** – konservativ / mittig / progressiv, was das für Triage- und
+ Folgenabschätzungs-Ausgaben bedeutet
+ - **Personen** – Governance-Team, KI-Risikobeauftragter, Eskalationskette, Genehmiger
+ - **Use-Case-Register** – genehmigte / bedingte / nie-Einträge und zugehörige Bedingungen
+ - **KI-System-Inventar** – je System: Rolle (Anbieter / Betreiber usw.) und Risikoklasse
+ nach KI-VO. `/ki-governance:ki-inventar` für den dedizierten Editor verwenden.
+ - **Vendor-KI-Governance** – Trainings-auf-Daten, Haftung, Modell-Änderungsmeldung,
+ Art. 28 DSGVO AVV, Art. 11 KI-VO Technische Dokumentation und andere Positionen
+ - **KI-Richtlinien-Commitments** – öffentliche oder interne Commitments, gegen die das
+ Plugin abgleicht
+ - **Folgenabschätzungs-Hausformat** – FRIA-/DSFA-Abschnittsreihenfolge, Risiko-Scoring-Format,
+ Stakeholder-Framing
+ - **Ablauf** – Aufnahme-Pfad, Ausgabeformat, Mandats-Workspace-Pfade, Prüfkadenz für
+ den Policy-Monitor
+ - **Integrationen** – was verbunden ist (Slack, Dokumentenspeicher, geplante Aufgaben),
+ was zurückfällt
 
 3. **Fragen, was geändert werden soll.**
 
-   > Was möchten Sie anpassen? Wählen Sie einen Abschnitt oder beschreiben Sie die Änderung
-   > in eigenen Worten.
+ > Was möchten Sie anpassen? Wählen Sie einen Abschnitt oder beschreiben Sie die Änderung
+ > in eigenen Worten.
 
 4. **Änderung vornehmen.** Aktuellen Wert zeigen, neuen Wert abfragen, nachgelagerte
-   Auswirkungen erklären, bestätigen, in Konfiguration schreiben.
+ Auswirkungen erklären, bestätigen, in Konfiguration schreiben.
 
-   Beispiele für nachgelagerte Erklärungen:
-   - *Risikoeinstellung mittig → konservativ:* "Ich werde mehr Anwendungsfälle als bedingt
-     statt genehmigt markieren, mehr Folge-Prüfungen zur Folgenabschätzung einleiten und
-     konservativere Vendor-KI-Redlines empfehlen."
-   - *Eskalationskontakt hinzufügen:* "Jeder Skill, der Eskalationen weiterleitet
-     (`/anwendungsfall-triage`, `/ki-anbieter-prüfung`, `/regulierungs-lücken-analyse`), wird diesen Kontakt
-     nun auf den relevanten Risikostufen einschließen."
-   - *Neuer Use-Case-Register-Eintrag:* "`/anwendungsfall-triage` gleicht beim nächsten Lauf
-     gegen diesen Eintrag ab. Bestehende Folgenabschätzungen werden nicht neu geschrieben –
-     führen Sie sie neu aus, wenn Sie die neue Position darin gespiegelt sehen möchten."
+ Beispiele für nachgelagerte Erklärungen:
+ - *Risikoeinstellung mittig → konservativ:* "Ich werde mehr Anwendungsfälle als bedingt
+ statt genehmigt markieren, mehr Folge-Prüfungen zur Folgenabschätzung einleiten und
+ konservativere Vendor-KI-Redlines empfehlen."
+ - *Eskalationskontakt hinzufügen:* "Jeder Skill, der Eskalationen weiterleitet
+ (`/anwendungsfall-triage`, `/ki-anbieter-prüfung`, `/regulierungs-lücken-analyse`), wird diesen Kontakt
+ nun auf den relevanten Risikostufen einschließen."
+ - *Neuer Use-Case-Register-Eintrag:* "`/anwendungsfall-triage` gleicht beim nächsten Lauf
+ gegen diesen Eintrag ab. Bestehende Folgenabschätzungen werden nicht neu geschrieben –
+ führen Sie sie neu aus, wenn Sie die neue Position darin gespiegelt sehen möchten."
 
 5. **Bei Änderungen am gemeinsamen Profil** (Unternehmensname, Branche, Jurisdiktionen,
-   Praxiskontext):
-   `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` schreiben
-   und vermerken:
+ Praxiskontext):
+ `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` schreiben
+ und vermerken:
 
-   > Diese Änderung betrifft alle Plugins – jedes Plugin, das Ihren Jurisdiktionsfußabdruck
-   > liest, sieht jetzt [neuer Wert].
+ > Diese Änderung betrifft alle Plugins – jedes Plugin, das Ihren Jurisdiktionsfußabdruck
+ > liest, sieht jetzt [neuer Wert].
 
 6. **Abschluss.**
 
-   > Erledigt. Ihr nächstes Ergebnis wird die Änderung widerspiegeln. Noch etwas? Sie können
-   > `/ki-governance:ki-governance-anpassen` jederzeit ausführen.
+ > Erledigt. Ihr nächstes Ergebnis wird die Änderung widerspiegeln. Noch etwas? Sie können
+ > `/ki-governance:ki-governance-anpassen` jederzeit ausführen.
 
 ## Quellen und Zitierweise
 
@@ -576,22 +576,22 @@ Interaktiver Dialog: Karte → Auswahl → aktueller Wert / neuer Wert → Best�
 ## Risiken / typische Fehler
 
 - **Abschnitt nicht löschen.** Falls der Nutzer etwas "entfernen" möchte, auf
-  `[Nicht konfiguriert]` setzen und erklären, was das für das Plugin-Verhalten bedeutet.
-  ("Das Entfernen Ihrer Eskalationskette bedeutet, dass `/anwendungsfall-triage` eskalationswürdige
-  Punkte markiert, aber nicht an eine bestimmte Person weiterleitet.")
+ `[Nicht konfiguriert]` setzen und erklären, was das für das Plugin-Verhalten bedeutet.
+ ("Das Entfernen Ihrer Eskalationskette bedeutet, dass `/anwendungsfall-triage` eskalationswürdige
+ Punkte markiert, aber nicht an eine bestimmte Person weiterleitet.")
 - **Interne Inkonsistenz markieren.** Falls die Änderung das Profil inkonsistent machen würde
-  (z. B. Risikoeinstellung progressiv + Eskalation "alles geht an den GC"; oder "KI-VO im
-  Anwendungsbereich" + "keine Systeme für EU markiert"), Spannung aufzeigen und fragen,
-  welche Seite der Nutzer möchte.
+ (z. B. Risikoeinstellung progressiv + Eskalation "alles geht an den GC"; oder "KI-VO im
+ Anwendungsbereich" + "keine Systeme für EU markiert"), Spannung aufzeigen und fragen,
+ welche Seite der Nutzer möchte.
 - **Leitplanken-Degradation markieren.** Falls der Nutzer eine Leitplanke deaktivieren
-  möchte ("`[prüfen]`-Flag nicht mehr hinzufügen", "Zitats-Warnung weglassen"), erklären,
-  wovor die Leitplanke schützt, und die Trade-offs bestätigen. Strukturelle Leitplanken:
-  - `[prüfen]`-Markierungs-Mechanismus (zeigt dem Nutzer, wann juristisches Urteil
-    erforderlich ist) – tragend, nicht entfernen.
-  - Quellenattribuierungs-Tags auf abgerufenem Inhalt – tragend, nicht entfernen.
-  - `[prüfen]`-Tags auf zitierten Normen/Vorschriften – tragend, nicht entfernen.
+ möchte ("`[prüfen]`-Flag nicht mehr hinzufügen", "Zitats-Warnung weglassen"), erklären,
+ wovor die Leitplanke schützt, und die Trade-offs bestätigen. Strukturelle Leitplanken:
+ - `[prüfen]`-Markierungs-Mechanismus (zeigt dem Nutzer, wann juristisches Urteil
+ erforderlich ist) – tragend, nicht entfernen.
+ - Quellenattribuierungs-Tags auf abgerufenem Inhalt – tragend, nicht entfernen.
+ - `[prüfen]`-Tags auf zitierten Normen/Vorschriften – tragend, nicht entfernen.
 - **Eine Änderung auf einmal.** Nicht das gesamte Interview neu stellen. Bei mehreren
-  Änderungen sequenziell vorgehen und jede vor dem Weitermachen bestätigen.
+ Änderungen sequenziell vorgehen und jede vor dem Weitermachen bestätigen.
 
 ## Aktuelle Rechtsprechung (v14.2)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -648,54 +648,54 @@ Dieser Skill verwaltet diese Workspaces.
 ## Eingaben
 
 - Praxisprofil aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md`
-  (Abschnitt `## Mandate-Workspaces`)
+ (Abschnitt `## Mandate-Workspaces`)
 - Subbefehl und optionaler Slug vom Nutzer
 
 ## Ablauf
 
 1. CLAUDE.md lesen – bestätigen, dass der Abschnitt `## Mandate-Workspaces` vorhanden ist.
-   Falls `Aktiviert` = `✗`:
-   > Mandate-Workspaces sind deaktiviert – Sie sind als In-house-Praxis mit einem Mandanten
-   > konfiguriert, sodass das Plugin automatisch vom Praxiskontext arbeitet. Wenn Sie
-   > tatsächlich für mehrere Mandanten arbeiten, führen Sie `/ki-governance:ki-governance-kaltstart-interview
-   > --redo` neu aus und wählen einen Kanzleikontext. Andernfalls benötigen Sie `/mandat-arbeitsbereich`
-   > nicht.
+ Falls `Aktiviert` = `✗`:
+ > Mandate-Workspaces sind deaktiviert – Sie sind als In-house-Praxis mit einem Mandanten
+ > konfiguriert, sodass das Plugin automatisch vom Praxiskontext arbeitet. Wenn Sie
+ > tatsächlich für mehrere Mandanten arbeiten, führen Sie `/ki-governance:ki-governance-kaltstart-interview
+ > --redo` neu aus und wählen einen Kanzleikontext. Andernfalls benötigen Sie `/mandat-arbeitsbereich`
+ > nicht.
 
 2. Auf den ersten Token von `$ARGUMENTS` verzweigen:
-   - `new` → Aufnahme-Interview starten, `mandat.md` schreiben, `verlauf.md` und `notizen.md`
-     initialisieren.
-   - `list` → Alle `mandate/*/mandat.md` auflisten; Tabelle drucken; aktives Mandat markieren.
-   - `switch` → `Aktives Mandat:`-Zeile in CLAUDE.md aktualisieren.
-   - `close` → `mandate/<slug>/` nach `mandate/_archiv/<slug>/` verschieben; Schließdatum
-     in `verlauf.md` protokollieren.
-   - `none` → `Aktives Mandat:` auf `keines – nur Praxiskontext` setzen.
+ - `new` → Aufnahme-Interview starten, `mandat.md` schreiben, `verlauf.md` und `notizen.md`
+ initialisieren.
+ - `list` → Alle `mandate/*/mandat.md` auflisten; Tabelle drucken; aktives Mandat markieren.
+ - `switch` → `Aktives Mandat:`-Zeile in CLAUDE.md aktualisieren.
+ - `close` → `mandate/<slug>/` nach `mandate/_archiv/<slug>/` verschieben; Schließdatum
+ in `verlauf.md` protokollieren.
+ - `none` → `Aktives Mandat:` auf `keines – nur Praxiskontext` setzen.
 
 3. Dem Nutzer zeigen, was sich geändert hat, und vor dem Schreiben bestätigen.
 
 ## Subbefehle
 
 - `/ki-governance:ki-governance-mandat-arbeitsbereich new <slug>` – neuen Mandats-Workspace anlegen, kurzes
-  Aufnahme-Interview, `mandat.md` schreiben
+ Aufnahme-Interview, `mandat.md` schreiben
 - `/ki-governance:ki-governance-mandat-arbeitsbereich list` – Mandate mit Status und Aktiv-Flag auflisten
 - `/ki-governance:ki-governance-mandat-arbeitsbereich switch <slug>` – aktives Mandat setzen
 - `/ki-governance:ki-governance-mandat-arbeitsbereich close <slug>` – Mandat archivieren (nach
-  `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/mandate/_archiv/` verschieben, nie löschen)
+ `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/mandate/_archiv/` verschieben, nie löschen)
 - `/ki-governance:ki-governance-mandat-arbeitsbereich none` – von aktivem Mandat trennen, nur auf Praxisebene
-  arbeiten
+ arbeiten
 
 ## Speicherlayout
 
 ```
 ~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/
-├── CLAUDE.md                       # praxisweites Praxisprofil
+├── CLAUDE.md # praxisweites Praxisprofil
 └── mandate/
-    ├── <slug>/
-    │   ├── mandat.md               # Mandant, Gegenseite, Mandatstyp, Kernfakten, Abweichungen
-    │   ├── verlauf.md              # datiertes Log von Ereignissen, Entscheidungen, Entwürfen
-    │   ├── notizen.md                # freie Arbeitsnotizen
-    │   └── outputs/                # Skill-Ausgaben für dieses Mandat (optionaler Unterordner)
-    └── _archiv/
-        └── <slug>/                 # geschlossene Mandate – lesbar, aber nicht aktiv
+ ├── <slug>/
+ │ ├── mandat.md # Mandant, Gegenseite, Mandatstyp, Kernfakten, Abweichungen
+ │ ├── verlauf.md # datiertes Log von Ereignissen, Entscheidungen, Entwürfen
+ │ ├── notizen.md # freie Arbeitsnotizen
+ │ └── outputs/ # Skill-Ausgaben für dieses Mandat (optionaler Unterordner)
+ └── _archiv/
+ └── <slug>/ # geschlossene Mandate – lesbar, aber nicht aktiv
 ```
 
 Slugs sind kleingeschrieben mit Bindestrichen. Beispiele: `mueller-ki-review-2026`,
@@ -706,24 +706,24 @@ Slugs sind kleingeschrieben mit Bindestrichen. Beispiele: `mueller-ki-review-202
 ### `new <slug>`
 
 1. Bestätigen, dass der Slug nicht bereits in `mandate/<slug>/` oder `mandate/_archiv/<slug>/`
-   vorhanden ist. Bei Wiederverwendung anderen Slug wählen.
+ vorhanden ist. Bei Wiederverwendung anderen Slug wählen.
 2. Aufnahme-Interview starten:
-   - **Mandant** (die von uns vertretene Partei oder die interne Geschäftseinheit bei In-house)
-   - **Gegenseite** (die andere Seite – kann mehrere sein)
-   - **Mandatstyp** (für ki-governance: KI-Anwendungsfall intern | Vendor-AI-Review | Folgenabschätzung | Regulierungsänderung | Richtlinienprojekt | Sonstiges)
-   - **Vertraulichkeitsstufe** (standard | erhöht | Clean-Team – erhöht erfordert besondere
-     Vorsicht in mandatsübergreifenden Einstellungen)
-   - **Kernfakten** (2–5 Sätze: Worum geht es in diesem Mandat, wer sind die Stakeholder,
-     was steht auf dem Spiel)
-   - **Mandatsspezifische Abweichungen vom Playbook** (z. B. "Mandant verlangt 24-monatigen
-     Haftungshöchstbetrag statt 12", "Gegenseite ist strategischer Partner – beziehungserhaltender
-     Ton", "§ 203 StGB: besondere Schutzmechanismen erforderlich")
-   - **Verbundene Mandate** (Slugs anderer zusammenhängender Mandate)
+ - **Mandant** (die von uns vertretene Partei oder die interne Geschäftseinheit bei In-house)
+ - **Gegenseite** (die andere Seite – kann mehrere sein)
+ - **Mandatstyp** (für ki-governance: KI-Anwendungsfall intern | Vendor-AI-Review | Folgenabschätzung | Regulierungsänderung | Richtlinienprojekt | Sonstiges)
+ - **Vertraulichkeitsstufe** (standard | erhöht | Clean-Team – erhöht erfordert besondere
+ Vorsicht in mandatsübergreifenden Einstellungen)
+ - **Kernfakten** (2–5 Sätze: Worum geht es in diesem Mandat, wer sind die Stakeholder,
+ was steht auf dem Spiel)
+ - **Mandatsspezifische Abweichungen vom Playbook** (z. B. "Mandant verlangt 24-monatigen
+ Haftungshöchstbetrag statt 12", "Gegenseite ist strategischer Partner – beziehungserhaltender
+ Ton", "§ 203 StGB: besondere Schutzmechanismen erforderlich")
+ - **Verbundene Mandate** (Slugs anderer zusammenhängender Mandate)
 3. `mandate/<slug>/mandat.md` mit der nachstehenden Vorlage schreiben.
 4. `mandate/<slug>/verlauf.md` mit einem einzigen "Eröffnet"-Eintrag initialisieren.
 5. Leere `mandate/<slug>/notizen.md` anlegen.
 6. **Nicht** automatisch auf das neue Mandat wechseln. Fragen: "Möchten Sie jetzt zu
-   `<slug>` wechseln? (`/ki-governance:ki-governance-mandat-arbeitsbereich switch <slug>`)"
+ `<slug>` wechseln? (`/ki-governance:ki-governance-mandat-arbeitsbereich switch <slug>`)"
 
 ### `list`
 
@@ -738,10 +738,10 @@ falls vorhanden.
 ### `switch <slug>`
 
 1. Bestätigen, dass `mandate/<slug>/mandat.md` existiert. Falls nicht, `/mandat-arbeitsbereich
-   new <slug>` anbieten.
+ new <slug>` anbieten.
 2. `Aktives Mandat:`-Zeile in CLAUDE.md auf `Aktives Mandat: <slug>` setzen.
 3. Nutzern die mandat.md-Zusammenfassung zeigen, damit sie bestätigen können, dass sie
-   beim richtigen Mandat sind.
+ beim richtigen Mandat sind.
 
 ### `close <slug>`
 
@@ -749,7 +749,7 @@ falls vorhanden.
 2. "Geschlossen"-Eintrag mit heutigem Datum an `mandate/<slug>/verlauf.md` anhängen.
 3. `mandate/<slug>/` → `mandate/_archiv/<slug>/` verschieben.
 4. Falls das geschlossene Mandat das aktive war, `Aktives Mandat:` auf
-   `keines – nur Praxiskontext` setzen.
+ `keines – nur Praxiskontext` setzen.
 
 ### `none`
 
@@ -840,22 +840,22 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 ## Was dieser Skill nicht tut
 
 - **Keine Interessenkonfliktprüfung.** Konflikte liegen beim Praktiker/der Kanzlei;
-  das Aufnahme-Formular erfasst, was der Nutzer angibt.
+ das Aufnahme-Formular erfasst, was der Nutzer angibt.
 - **Keine Aufbewahrungserzwingung.** Schließen archiviert ein Mandat; es löscht nicht.
-  Aufbewahrungsrichtlinie liegt außerhalb des Anwendungsbereichs.
+ Aufbewahrungsrichtlinie liegt außerhalb des Anwendungsbereichs.
 - **Keine Ausgabenweiterleitung.** Der inhaltliche Skill entscheidet, wohin er schreibt;
-  dieser Skill teilt ihm mit, welcher Ordner aktiv ist.
+ dieser Skill teilt ihm mit, welcher Ordner aktiv ist.
 - **Keine Entscheidung über mandatsübergreifende Zulässigkeit.** Er liest das Flag und
-  befolgt es.
+ befolgt es.
 
 ## Risiken / typische Fehler
 
 - **§ 203 StGB bei KI-Einsatz.** Wenn Mandantendaten in ein Drittanbieter-KI-System eingegeben
-  werden, AVV nach Art. 28 DSGVO und Vereinbarkeit mit § 203 StGB prüfen. Im mandat.md
-  dokumentieren.
+ werden, AVV nach Art. 28 DSGVO und Vereinbarkeit mit § 203 StGB prüfen. Im mandat.md
+ dokumentieren.
 - **Slug-Wiederverwendung.** Führt zu Kontext-Vermischung. Immer neu prüfen, ob Slug frei ist.
 - **Schließen vs. Löschen.** Archivierte Mandate für Konflikts- und Aufbewahrungszwecke
-  niemals löschen.
+ niemals löschen.
 
 ## Aktuelle Rechtsprechung (v14.2)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

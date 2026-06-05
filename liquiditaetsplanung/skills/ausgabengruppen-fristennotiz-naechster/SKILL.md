@@ -1,6 +1,6 @@
 ---
 name: ausgabengruppen-fristennotiz-naechster
-description: "Nutze dies, wenn Ausgabengruppen: Fristennotiz und nächster Schritt im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Ausgabengruppen: Fristennotiz und nächster Schritt prüfen.; Erstelle eine Arbeitsfassung zu Ausgabengruppen: Fristennotiz und nächster Schritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ausgabengruppen: Fristennotiz und nächster Schritt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Ausgabengruppen: Fristennotiz und nächster Schritt

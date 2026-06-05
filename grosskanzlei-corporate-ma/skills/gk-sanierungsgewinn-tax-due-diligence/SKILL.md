@@ -46,7 +46,7 @@ Nicht dieser Skill ist primär, wenn nur eine normale Tax-DD ohne Sanierungsbezu
 - **§ 42 AO** – Missbrauch von Gestaltungen.
 - **Außensteuergesetz** – bei Konzern mit Auslandsbezug.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **DD-Scope abstimmen.** Sonderscope „Sanierungstax"; Fokus auf Verlustvorträge, schwebende Verfahren, verbindliche Auskünfte und Sanierungsmechanik.
 2. **Verlustvortrag-Inventur.** Vergleiche `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`. Hier zusätzlich: Außenprüfungs-Status, Einsprüche, FG-Verfahren, Verlustvortragsfeststellung nach § 10d EStG, nach § 10a GewStG.
@@ -104,12 +104,12 @@ Wer als Senior diese beiden Tabellen sauber bekommt, hat sechzig Prozent des DD-
 
 - Plugin `steuerrecht-anwalt-und-berater`: Tax-DD im Detail.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-due-diligence-legal`
-  - `grosskanzlei-corporate-ma-due-diligence-reporting`
-  - `grosskanzlei-corporate-ma-distressed-ma`
-  - `grosskanzlei-corporate-ma-wi-insurance`
-  - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
-  - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
+ - `grosskanzlei-corporate-ma-due-diligence-legal`
+ - `grosskanzlei-corporate-ma-due-diligence-reporting`
+ - `grosskanzlei-corporate-ma-distressed-ma`
+ - `grosskanzlei-corporate-ma-wi-insurance`
+ - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
+ - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
 
 ## Quellen Stand 06/2026
 

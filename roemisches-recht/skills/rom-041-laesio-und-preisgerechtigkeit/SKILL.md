@@ -1,6 +1,6 @@
 ---
 name: rom-041-laesio-und-preisgerechtigkeit
-description: "Römisches Recht: Laesio Und Preisgerechtigkeit. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Laesio Und Preisgerechtigkeit. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Laesio Und Preisgerechtigkeit

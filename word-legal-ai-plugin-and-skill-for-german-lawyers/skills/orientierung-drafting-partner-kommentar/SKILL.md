@@ -1,19 +1,19 @@
 ---
 name: orientierung-drafting-partner-kommentar
-description: "Nutze dies, wenn Orientierung Drafting Triage, Partner Kommentar Umsetzen im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Orientierung Drafting Triage, Partner Kommentar Umsetzen prüfen.; Erstelle eine Arbeitsfassung zu Orientierung Drafting Triage, Partner Kommentar Umsetzen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Orientierung Drafting Triage, Partner Kommentar Umsetzen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Orientierung Drafting Triage, Partner Kommentar Umsetzen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Orientierung Drafting Triage, Partner Kommentar Umsetzen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `orientierung-drafting-triage` | Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Spezial-Skills im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate. |
+| `orientierung-drafting-triage` | Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate. |
 | `partner-kommentar-umsetzen` | Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Orientierung Drafting Triage, Partner Kommentar Umsetzen** zuerst das Arb
 
 ## 1. `orientierung-drafting-triage`
 
-**Fokus:** Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Spezial-Skills im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate.
+**Fokus:** Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate.
 
 # Orientierung und Drafting-Triage
 
@@ -33,7 +33,7 @@ Für **Orientierung Drafting Triage, Partner Kommentar Umsetzen** zuerst das Arb
 
 Jeder Drafting-Auftrag beginnt mit einer Triage. Bevor Sie eine Klausel schreiben, eine Klage entwerfen oder einen Schriftsatz strukturieren, müssen drei Dinge feststehen: welches Dokument, welches Stadium, welcher Adressat. Dieser Skill bringt Sie in zwei Rückfragen dorthin und legt sofort die Mandatsmatrix offen. Er ist der Einstiegspunkt für das Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` (Word Legal AI Plugin and Skill for German Lawyers, bis v50.6.x unter dem Slug `juristisches-drafting`).
 
-Er ersetzt nicht die spezialisierten Skills, sondern verweist auf sie. Wenn die Anfrage wirklich diffus ist, beginnt die Arbeit mit `kaltstart-drafting-kommandocenter`. Wenn Dokumenttyp und Ziel bereits erkennbar sind, beginnt die Arbeit hier und verzweigt sofort in die Spezial-Skills.
+Er ersetzt nicht die spezialisierten Skills, sondern verweist auf sie. Wenn die Anfrage wirklich diffus ist, beginnt die Arbeit mit `kaltstart-drafting-kommandocenter`. Wenn Dokumenttyp und Ziel bereits erkennbar sind, beginnt die Arbeit hier und verzweigt sofort in die Fachmodule.
 
 Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält keinen Vortrag zur Drafting-Theorie. Sobald die drei Triagefragen beantwortet sind, erzeugt er eine Mandatsmatrix und schlägt die nächsten Skills vor.
 
@@ -49,7 +49,7 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 - Anwaltsrecht: Mandatsgegenstand und Adressat klären ist Teil des anwaltlichen Sorgfaltsmaßstabs gemäß § 43a BRAO.
 - Vertraulichkeit: § 43a Abs. 2 BRAO, § 203 StGB. Vor Eingabe von Mandantendaten in Cloud-Tools Auftragsverarbeitung prüfen.
 - Standardmethode: Gutachtenstil für interne Memos, Urteilsstil für Schriftsätze und operative Klauseln. Siehe `references/methodik-buergerliches-recht.md`.
-- Quellen: keine Pflicht für diese Triagephase. Belege folgen in den Spezial-Skills nach `references/zitierweise.md`.
+- Quellen: keine Pflicht für diese Triagephase. Belege folgen in den Fachmodule nach `references/zitierweise.md`.
 
 ## Ablauf / Checkliste
 
@@ -79,7 +79,7 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 | Term Sheet / LoI | Übersetzung in Vertrag | `term-sheet-zu-vertrag-uebersetzung`, `dokumentarchitektur-vertrag-und-schriftsatz` |
 | Vertrag DE/EN | Bilingual | `bilingual-drafting-deutsch-englisch`, `definitionen-klauseln-stringent` |
 | Klauselbedarf konkret | Baustein abrufen | `klausel-bibliothek-katalog`, `boilerplate-klauseln-katalog` |
-| Auftrag diffus | Kaltstart | `kaltstart-drafting-kommandocenter`, dann Spezial-Skill |
+| Auftrag diffus | Kaltstart | `kaltstart-drafting-kommandocenter`, dann Fachmodul |
 | Stil oder Kanzleiregister unklar | Stilkalibrierung | `deutscher-kanzleistil-kalibrieren`, `stil-und-ton-juristische-texte` |
 | Partnernotizen / Randkommentare | Umsetzung in Draft | `partner-kommentar-umsetzen`, `revisions-prozess-redlines-comparison` |
 | Mandantenmemo / Partnerupdate | Entscheidungsvorlage | `mandantenmemo-und-partner-update`, `argumentationsarchitektur-schreiben` |
@@ -94,7 +94,7 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 - **Stadium ignoriert.** Ein Term Sheet bekommt keine Boilerplate-Salven; ein Endentwurf hat keine offenen Platzhalter.
 - **Adressat falsch.** Mandantenbriefe in Schriftsatzsprache; Schriftsätze im Coaching-Ton.
 - **Frist nicht erfasst.** Drafting ohne Frist ist akademisch.
-- **Kein Verweis auf Spezial-Skills.** Triage-Skill versucht selbst, alle Aspekte zu lösen, statt zu übergeben.
+- **Kein Verweis auf Fachmodule.** Triage-Skill versucht selbst, alle Aspekte zu lösen, statt zu übergeben.
 
 ## Ausgabeformat
 
@@ -138,7 +138,7 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 
 - § 43a BRAO und § 203 StGB für Vertraulichkeit; gesetze-im-internet.de.
 - `references/methodik-buergerliches-recht.md` für Stilwahl Gutachtenstil und Urteilsstil.
-- Spezial-Skills im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` als Folgeartefakt; vom Nutzer zu validieren, falls die genannten Skills im konkreten Setup nicht aktiviert sind.
+- Fachmodule im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` als Folgeartefakt; vom Nutzer zu validieren, falls die genannten Skills im konkreten Setup nicht aktiviert sind.
 
 
 ## Qualitäts-Hardening

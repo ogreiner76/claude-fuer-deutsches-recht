@@ -1,13 +1,13 @@
 ---
 name: notweg-ueberhang-sonderfall-edge
-description: "Nutze dies, wenn Spezial Notweg Internationaler Bezug Und Schnittstellen, Spezial Ueberhang Dokumentenmatrix Und Lueckenliste, Spezial Vergleich Sonderfall Und Edge Case im Plugin Nachbarschaftsstreit Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Spezial Notweg Internationaler Bezug Und Schnittstellen, Spezial Ueberhang Dokumentenmatrix Und Lueckenliste, Spezial Vergleich Sonderfall Und Edge Case prüfen.; Erstelle eine Arbeitsfassung zu Spezial Notweg Internationaler Bezug Und Schnittstellen, Spezial Ueberhang Dokumentenmatrix Und Lueckenliste, Spezial Vergleich Sonderfall Und Edge Case.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notweg Internationaler Bezug Und Schnittstellen, Ueberhang Dokumentenmatrix Und Lueckenliste, Vergleich Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Notweg Internationaler Bezug Und Schnittstellen, Spezial Ueberhang Dokumentenmatrix Und Lueckenliste, Spezial Vergleich Sonderfall Und Edge Case
+# Notweg Internationaler Bezug Und Schnittstellen, Ueberhang Dokumentenmatrix Und Lueckenliste, Vergleich Sonderfall Und Edge Case
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notweg Internationaler Bezug Und Schnittstellen, Ueberhang Dokumentenmatrix Und Lueckenliste, Vergleich Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Notweg Internationaler Bezug Und Schnittstellen, Spezial Ueberhang Dokumentenmatrix Und Lueckenliste, Spezial Vergleich Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nachbarschaftsstreit-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Notweg Internationaler Bezug Und Schnittstellen, Ueberhang Dokumentenmatrix Und Lueckenliste, Vergleich Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nachbarschaftsstreit-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Notweg Internationaler Bezug Und Schnittstellen, Spezial Ueberhan
 # Notweg: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Notweg: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Notweg: Internationaler Bezug und Schnittstellen / spezial notweg internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Notweg: Internationaler Bezug und Schnittstellen / notweg internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung / spezial ueberhang dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung / ueberhang dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vergleich: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Vergleich: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Vergleich: Sonderfall und Edge-Case-Prüfung / spezial vergleich sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vergleich: Sonderfall und Edge-Case-Prüfung / vergleich sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

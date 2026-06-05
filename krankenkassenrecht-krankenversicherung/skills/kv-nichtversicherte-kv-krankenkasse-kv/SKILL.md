@@ -1,13 +1,13 @@
 ---
 name: kv-nichtversicherte-kv-krankenkasse-kv
-description: "Nutze dies, wenn Kv 077 Nichtversicherte Auffangpflichtversicherung, Kv 078 Krankenkasse Und Insolvenz Beitragsschuld, Kv 079 Elektronische Patientenakte Zugriffsrechte im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 077 Nichtversicherte Auffangpflichtversicherung, Kv 078 Krankenkasse Und Insolvenz Beitragsschuld, Kv 079 Elektronische Patientenakte Zugriffsrechte prüfen.; Erstelle eine Arbeitsfassung zu Kv 077 Nichtversicherte Auffangpflichtversicherung, Kv 078 Krankenkasse Und Insolvenz Beitragsschuld, Kv 079 Elektronische Patientenakte Zugriffsrechte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 077 Nichtversicherte Auffangpflichtversicherung, Kv 078 Krankenkasse Und Insolvenz Beitragsschuld, Kv 079 Elektronische Patientenakte Zugriffsrechte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 077 Nichtversicherte Auffangpflichtversicherung, Kv 078 Krankenkasse Und Insolvenz Beitragsschuld, Kv 079 Elektronische Patientenakte Zugriffsrechte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 077 Nichtversicherte Auffangpflichtversicherung, Kv 078 Krankenkasse Und Insolvenz Beitragsschuld, Kv 079 Elektronische Patientenakte Zugriffsrechte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

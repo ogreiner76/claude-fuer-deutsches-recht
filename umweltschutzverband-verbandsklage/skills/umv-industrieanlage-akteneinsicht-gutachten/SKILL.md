@@ -1,13 +1,13 @@
 ---
 name: umv-industrieanlage-akteneinsicht-gutachten
-description: "Nutze dies, wenn Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi im Plugin Umweltschutzverband Verbandsklage konkret bearbeitet werden soll. Auslöser: Bitte Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi prüfen.; Erstelle eine Arbeitsfassung zu Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umv 053 Industrieanlage Akteneinsicht Erzwinge, Umv 054 Industrieanlage Gutachten Zerlegen, Umv 056 Industrieanlage Eilantrag Schreiben, Umv 057 Industrieanlage Normenkontrolle Skizzi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

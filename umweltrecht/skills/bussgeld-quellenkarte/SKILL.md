@@ -1,6 +1,6 @@
 ---
 name: bussgeld-quellenkarte
-description: "Nutze dies, wenn Bussgeld Quellenkarte im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Bussgeld Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Bussgeld Quellenkarte

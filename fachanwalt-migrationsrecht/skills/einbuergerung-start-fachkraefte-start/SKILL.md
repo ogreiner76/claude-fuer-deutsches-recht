@@ -1,38 +1,38 @@
 ---
 name: einbuergerung-start-fachkraefte-start
-description: "Nutze dies, wenn Workflow Einbuergerung Start, Workflow Fachkraefte Start im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Workflow Einbuergerung Start, Workflow Fachkraefte Start prüfen.; Erstelle eine Arbeitsfassung zu Workflow Einbuergerung Start, Workflow Fachkraefte Start.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Einbuergerung Start, Fachkraefte Start: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Einbuergerung Start, Workflow Fachkraefte Start
+# Einbuergerung Start, Fachkraefte Start
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Einbuergerung Start, Fachkraefte Start** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-einbuergerung-start` | Einbürgerung Start: Workflow-Skill für Migrationsrecht; prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-fachkraefte-start` | Fachkräfte-Start: Workflow-Skill für Migrationsrecht; klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-einbuergerung-start` | Einbürgerung Start: Arbeitsmodul für Migrationsrecht; prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-fachkraefte-start` | Fachkräfte-Start: Arbeitsmodul für Migrationsrecht; klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Einbuergerung Start, Workflow Fachkraefte Start** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Einbuergerung Start, Fachkraefte Start** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-einbuergerung-start`
 
-**Fokus:** Einbürgerung Start: Workflow-Skill für Migrationsrecht; prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Einbürgerung Start: Arbeitsmodul für Migrationsrecht; prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Einbürgerung Start
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -59,14 +59,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 2. `workflow-fachkraefte-start`
 
-**Fokus:** Fachkräfte-Start: Workflow-Skill für Migrationsrecht; klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Fachkräfte-Start: Arbeitsmodul für Migrationsrecht; klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Fachkräfte-Start
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.

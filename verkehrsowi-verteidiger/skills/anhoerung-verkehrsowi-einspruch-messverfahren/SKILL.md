@@ -1,13 +1,13 @@
 ---
 name: anhoerung-verkehrsowi-einspruch-messverfahren
-description: "Nutze dies, wenn Spezial Anhoerung Fristen Form Und Zustaendigkeit, Verkehrsowi Fristen Einspruch, Verkehrsowi Messverfahren Geschwindigkeit im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Anhoerung Fristen Form Und Zustaendigkeit, Verkehrsowi Fristen Einspruch, Verkehrsowi Messverfahren Geschwindigkeit prüfen.; Erstelle eine Arbeitsfassung zu Spezial Anhoerung Fristen Form Und Zustaendigkeit, Verkehrsowi Fristen Einspruch, Verkehrsowi Messverfahren Geschwindigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anhoerung Fristen Form Und Zustaendigkeit, Verkehrsowi Fristen Einspruch, Verkehrsowi Messverfahren Geschwindigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Anhoerung Fristen Form Und Zustaendigkeit, Verkehrsowi Fristen Einspruch, Verkehrsowi Messverfahren Geschwindigkeit
+# Anhoerung Fristen Form Und Zustaendigkeit, Verkehrsowi Fristen Einspruch, Verkehrsowi Messverfahren Geschwindigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anhoerung Fristen Form Und Zustaendigkeit, Verkehrsowi Fristen Einspruch, Verkehrsowi Messverfahren Geschwindigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,11 +15,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spezial-anhoerung-fristen-form-und-zustaendigkeit` | Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `verkehrsowi-fristen-einspruch` | Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskraft des Bußgeldbescheids. Normen: § 67 OWiG (Einspruch 2 Wochen ab Zustellung), §§ 33 OWiG, 177-182 ZPO (Zustellungsfiktion), § 52 OWiG (Wiedereinsetzung), § 74 OWiG (Verwerfung bei Versaeumnis). Prüfraster: Zustellungsdatum und -art, Fristberechnung, Beschraenkter Einspruch § 67 Abs. 2 OWiG (nur Fahrverbot). Output Fristenblatt, Einspruchs-Template, ggf. Wiedereinsetzungsantrag. Abgrenzung: Inhalt des Einspruchs siehe verkehrsowi-beweisverwertung-standardisiert; Rechtsbeschwerde siehe verkehrsowi-rechtsbeschwerde. |
-| `verkehrsowi-messverfahren-geschwindigkeit` | Workflow-Skill zu verkehrsowi messverfahren geschwindigkeit. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `verkehrsowi-messverfahren-geschwindigkeit` | Arbeitsmodul zu verkehrsowi messverfahren geschwindigkeit: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Spezial Anhoerung Fristen Form Und Zustaendigkeit, Verkehrsowi Fristen Einspruch, Verkehrsowi Messverfahren Geschwindigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anhoerung Fristen Form Und Zustaendigkeit, Verkehrsowi Fristen Einspruch, Verkehrsowi Messverfahren Geschwindigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Anhoerung Fristen Form Und Zustaendigkeit, Verkehrsowi Fristen Ei
 # Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg / spezial anhoerung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg / anhoerung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** OWiG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -106,8 +106,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Zustellungsdatum: [DATUM]
-+ 14 Tage:        [DATUM + 14 Tage]
-= Fristende:      [DATUM]
++ 14 Tage: [DATUM + 14 Tage]
+= Fristende: [DATUM]
 
 Besonderheiten:
 - Fristende Samstag/Sonntag/Feiertag → naechster Werktag (§ 43 StPO)
@@ -120,13 +120,13 @@ Besonderheiten:
 ```
 Frist noch offen?
 ├─ Ja → Einspruch sofort formulieren und einlegen
-│   ├─ Beschraenkt (nur Rechtsfolgen)? → § 67 Abs. 2 OWiG
-│   └─ Unbeschraenkt → Standardvorgehen
+│ ├─ Beschraenkt (nur Rechtsfolgen)? → § 67 Abs. 2 OWiG
+│ └─ Unbeschraenkt → Standardvorgehen
 └─ Nein (Frist abgelaufen)
-    ├─ Kein Verschulden? → Wiedereinsetzung § 52 OWiG
-    │   ├─ Krankheit, Urlaub, Fehler der Behoerde
-    │   └─ Eidesstattliche Versicherung + gleichzeitiger Einspruch
-    └─ Verschulden → Bussgeldbescheid rechtskraeftig; Vollstreckung abwenden
+ ├─ Kein Verschulden? → Wiedereinsetzung § 52 OWiG
+ │ ├─ Krankheit, Urlaub, Fehler der Behoerde
+ │ └─ Eidesstattliche Versicherung + gleichzeitiger Einspruch
+ └─ Verschulden → Bussgeldbescheid rechtskraeftig; Vollstreckung abwenden
 ```
 
 ## Output-Template Einspruchsschreiben
@@ -165,7 +165,7 @@ Mit freundlichen Gruessen [KANZLEI]
 
 ## 3. `verkehrsowi-messverfahren-geschwindigkeit`
 
-**Fokus:** Workflow-Skill zu verkehrsowi messverfahren geschwindigkeit. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu verkehrsowi messverfahren geschwindigkeit: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Geschwindigkeitsmessung OWi-Verfahren
 

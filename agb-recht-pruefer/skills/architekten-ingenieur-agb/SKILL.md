@@ -1,6 +1,6 @@
 ---
 name: architekten-ingenieur-agb
-description: "Branchen-Spezialskill für Architekten Ingenieur AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Architekten Ingenieur AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Architekten Ingenieur AGB

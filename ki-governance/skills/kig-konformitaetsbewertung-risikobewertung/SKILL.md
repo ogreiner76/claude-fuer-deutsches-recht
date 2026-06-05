@@ -1,13 +1,13 @@
 ---
 name: kig-konformitaetsbewertung-risikobewertung
-description: "Nutze dies, wenn Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Bitte Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse prüfen.; Erstelle eine Arbeitsfassung zu Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -151,27 +151,27 @@ konservative Lesart nennen, bei Materialität externe Beratung empfehlen.
 ## Eingaben
 
 - Regulierungs-Name oder Regelungstext (AI Act Hochrisiko, DSGVO Art. 22,
-  DSA, DMA, RL 2024/2853, BSIG, Sektoren)
+ DSA, DMA, RL 2024/2853, BSIG, Sektoren)
 - Praxisprofil aus `CLAUDE.md` (regulatorischer Fußabdruck, Anwendungsfall-
-  Register, KI-Richtlinien-Verpflichtungen, Anbieter-Positionen,
-  Folgenabschätzungspraxis)
+ Register, KI-Richtlinien-Verpflichtungen, Anbieter-Positionen,
+ Folgenabschätzungspraxis)
 
 ## Rechtlicher Rahmen
 
 **Kernvorschriften (Referenzrahmen)**
 
 - **AI Act (VO (EU) 2024/1689)**: Gestaffelte Anwendbarkeit: Art. 5 (verbotene
-  Praktiken) ab 02.02.2025; Art. 53 ff. (Allgemeinzweck-KI) ab 02.08.2025;
-  Hochrisiko-Pflichten Art. 9–15 (Anbieter), Art. 26/29 (Betreiber) ab
-  02.08.2026. Hochrisiko: Art. 6 i.V.m. Anhang III. Bußgeld: Art. 99 bis
-  35 Mio. € oder 7 % weltweiter Jahresumsatz bei Art. 5-Verstößen.
+ Praktiken) ab 02.02.2025; Art. 53 ff. (Allgemeinzweck-KI) ab 02.08.2025;
+ Hochrisiko-Pflichten Art. 9–15 (Anbieter), Art. 26/29 (Betreiber) ab
+ 02.08.2026. Hochrisiko: Art. 6 i.V.m. Anhang III. Bußgeld: Art. 99 bis
+ 35 Mio. € oder 7 % weltweiter Jahresumsatz bei Art. 5-Verstößen.
 - **DSGVO Art. 22**: Automatisierte Einzelentscheidungen; Rechtsgrundlagen
-  Art. 22 Abs. 2 lit. a–c.
+ Art. 22 Abs. 2 lit. a–c.
 - **DSA Art. 27, 38 (VO (EU) 2022/2065)**: Transparenz für Empfehlungs-
-  systeme sehr großer Plattformen.
+ systeme sehr großer Plattformen.
 - **DMA Art. 6 (VO (EU) 2022/1925)**: KI-bezogene Pflichten für Torwächter.
 - **Produkthaftungs-RL 2024/2853/EU** (ersetzt RL 85/374/EWG): KI-Systeme
-  als Produkte; Beweislasterleichterungen.
+ als Produkte; Beweislasterleichterungen.
 - **GeschGehG, UrhG § 44b**: Trainingsdaten-Schutz; Text-und-Data-Mining.
 
 **Leitentscheidungen**
@@ -182,9 +182,9 @@ konservative Lesart nennen, bei Materialität externe Beratung empfehlen.
 
 - Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 5 (Hochrisiko-Klassifikation; Anhang-III-Kategorien).
 - Hoffmann-Riem (Hrsg.), Big Data, KI und das Recht, 2021, S. 115 ff.
-  (regulatorische Lücken im KI-Recht).
+ (regulatorische Lücken im KI-Recht).
 - Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
-  Teil IV Rn. 110 (Compliance-Anforderungen AI Act).
+ Teil IV Rn. 110 (Compliance-Anforderungen AI Act).
 - Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 20
 
 *Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im Einzelfall.*
@@ -223,7 +223,7 @@ Unser Ist-Zustand: [aus CLAUDE.md]
 Lücke: [Keine | Teilweise | Vollständig]
 Was fehlt: [konkret]
 Aufwand: [Richtlinienänderung | Prozess | System | Folgenabschätzung |
-          Anbieter-Nachverhandlung | Registrierung]
+ Anbieter-Nachverhandlung | Registrierung]
 Risiko: [Bußgeldrahmen; Durchsetzungswahrscheinlichkeit]
 ```
 
@@ -231,7 +231,7 @@ Risiko: [Bußgeldrahmen; Durchsetzungswahrscheinlichkeit]
 
 1. Harte Frist + Sanktionen (Art. 99 KI-VO; Art. 83 DSGVO)
 2. Verbotene Praktiken (Art. 5 KI-VO): erste Priorität unabhängig
-   vom Durchsetzungsdatum
+ vom Durchsetzungsdatum
 3. Aufwand-Wirkung-Verhältnis
 4. Anwendungsfall-Überschneidung
 
@@ -270,10 +270,10 @@ Auch bei "keine Lücken" dokumentieren — nützlicher Compliance-Nachweis.
 ## Risiken und typische Fehler
 
 - Mehrdeutigkeit übergehen: bei echten Auslegungsfragen konservative Lesart
-  nennen, nicht überdecken.
+ nennen, nicht überdecken.
 - Maßnahmen nicht implementieren: dieser Skill plant nur.
 - Sektorspezifische Expertise nicht ersetzen (Medizinprodukte MDR/IVDR,
-  Finanzdienstleistungen MaRisk-KI).
+ Finanzdienstleistungen MaRisk-KI).
 
 ## Quellenpflicht
 

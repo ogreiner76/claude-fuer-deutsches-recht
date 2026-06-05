@@ -1,13 +1,13 @@
 ---
 name: anwaelte-datenschutzpanne-kanzlei
-description: "Nutze dies, wenn Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und For..."
+description: "Nutze dies bei Anwaelte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwaelte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwaelte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwaelte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Datenschutzpanne In Der Kanzlei Organisationspflicht U, Anwälte Erfolgshonorar Und Prozessfinanzierung Kammerantwort U, Anwälte Erfolgshonorar Und Prozessfinanzierung Organisationspf, Anwälte Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver, Anwälte Fachanwaltstitel Und Fortbildung Organisationspflicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

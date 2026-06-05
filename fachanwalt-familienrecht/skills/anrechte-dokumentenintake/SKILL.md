@@ -1,6 +1,6 @@
 ---
 name: anrechte-dokumentenintake
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anrechte Dokumentenintake."
+description: "Nutze dies für Unterlagen zu Anrechte Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Anrechte Dokumentenintake

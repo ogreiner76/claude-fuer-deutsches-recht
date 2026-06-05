@@ -69,7 +69,7 @@ Schritt 1: Ironische/sarkastische Formulierung identifizieren. Schritt 2: Den ta
 **Vorher:** "Vielen Dank für Ihre wie immer so hilfreiche Rückmeldung." (bei ausbleibender Antwort)
 **Nachher:** "Ich habe bislang keine Rückmeldung erhalten."
 
-**Vorher:** "Ihr ,Experte' hat offenbar eine eigene Meinung zum Gesetz."
+**Vorher:** "Ihr,Experte' hat offenbar eine eigene Meinung zum Gesetz."
 **Nachher:** "Die fachliche Einschätzung Ihres Beraters weicht von der geltenden Rechtsprechung ab."
 
 ## Ausgabeformat

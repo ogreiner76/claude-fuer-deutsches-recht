@@ -1,13 +1,13 @@
 ---
 name: grundrechtspruefung-acht-formelle-interessen
-description: "Nutze dies, wenn Grundrechtspruefung, Spezial Acht Zahlen Schwellen Und Berechnung, Spezial Formelle Mehrparteien Konflikt Und Interessen im Plugin Verfassungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Grundrechtspruefung, Spezial Acht Zahlen Schwellen Und Berechnung, Spezial Formelle Mehrparteien Konflikt Und Interessen prüfen.; Erstelle eine Arbeitsfassung zu Grundrechtspruefung, Spezial Acht Zahlen Schwellen Und Berechnung, Spezial Formelle Mehrparteien Konflikt Und Interessen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grundrechtspruefung, Acht Zahlen Schwellen Und Berechnung, Formelle Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Grundrechtspruefung, Spezial Acht Zahlen Schwellen Und Berechnung, Spezial Formelle Mehrparteien Konflikt Und Interessen
+# Grundrechtspruefung, Acht Zahlen Schwellen Und Berechnung, Formelle Mehrparteien Konflikt Und Interessen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grundrechtspruefung, Acht Zahlen Schwellen Und Berechnung, Formelle Mehrparteien Konflikt Und Interessen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Grundrechtspruefung, Spezial Acht Zahlen Schwellen Und Berechnung, Spezial Formelle Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verfassungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grundrechtspruefung, Acht Zahlen Schwellen Und Berechnung, Formelle Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verfassungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -158,24 +158,24 @@ GRUNDRECHTSPRÜFUNG
 Geprüftes Grundrecht: Art. ___ GG
 
 1. Schutzbereich
-   - Persönlich: ___
-   - Sachlich: ___
-   - Eröffnet: [ja / nein]
+ - Persönlich: ___
+ - Sachlich: ___
+ - Eröffnet: [ja / nein]
 
 2. Eingriff
-   - Art: [klassisch / mittelbar / faktisch]
-   - Maßnahme: ___
-   - Vorliegen: [ja / nein]
+ - Art: [klassisch / mittelbar / faktisch]
+ - Maßnahme: ___
+ - Vorliegen: [ja / nein]
 
 3. Verfassungsrechtliche Rechtfertigung
-   - Schranke: [einfacher / qualifizierter Vorbehalt / vorbehaltlos]
-   - Einschränkungsgesetz: ___
-   - Schranken-Schranken:
-     - Verhältnismäßigkeit: [siehe Skill verhältnismäßigkeit]
-     - Wesensgehalt Art. 19 Abs. 2 GG: ___
-     - Zitiergebot Art. 19 Abs. 1 S. 2 GG: ___
-     - Wechselwirkung (Lüth): ___
-     - Bestimmtheit, Wesentlichkeit: ___
+ - Schranke: [einfacher / qualifizierter Vorbehalt / vorbehaltlos]
+ - Einschränkungsgesetz: ___
+ - Schranken-Schranken:
+ - Verhältnismäßigkeit: [siehe Skill verhältnismäßigkeit]
+ - Wesensgehalt Art. 19 Abs. 2 GG: ___
+ - Zitiergebot Art. 19 Abs. 1 S. 2 GG: ___
+ - Wechselwirkung (Lüth): ___
+ - Bestimmtheit, Wesentlichkeit: ___
 
 BVerfG-Pinpoints
 - ___

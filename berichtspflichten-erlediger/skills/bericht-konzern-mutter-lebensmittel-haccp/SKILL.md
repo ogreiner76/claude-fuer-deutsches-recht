@@ -1,13 +1,13 @@
 ---
 name: bericht-konzern-mutter-lebensmittel-haccp
-description: "Nutze dies, wenn Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht im Plugin Berichtspflichten Erlediger konkret bearbeitet werden soll. Auslöser: Bitte Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht prüfen.; Erstelle eine Arbeitsfassung zu Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

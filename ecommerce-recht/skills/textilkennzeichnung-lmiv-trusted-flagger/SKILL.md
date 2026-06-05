@@ -1,13 +1,13 @@
 ---
 name: textilkennzeichnung-lmiv-trusted-flagger
-description: "Nutze dies, wenn Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement Dsa, Widerrufsbelehrung Digitale Waren Dienstleistungen im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement Dsa, Widerrufsbelehrung Digitale Waren Dienstleistungen prüfen.; Erstelle eine Arbeitsfassung zu Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement Dsa, Widerrufsbelehrung Digitale Waren Dienstleistungen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement Dsa, Widerrufsbelehrung Digitale Waren Dienstleistungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement Dsa, Widerrufsbelehrung Digitale Waren Dienstleistungen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Textilkennzeichnung Lmiv Kosmetik Spielzeug, Trusted Flagger Beschwerdemanagement Dsa, Widerrufsbelehrung Digitale Waren Dienstleistungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

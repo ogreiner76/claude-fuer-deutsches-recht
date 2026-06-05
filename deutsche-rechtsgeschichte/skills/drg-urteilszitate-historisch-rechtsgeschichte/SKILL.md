@@ -1,13 +1,13 @@
 ---
 name: drg-urteilszitate-historisch-rechtsgeschichte
-description: "Nutze dies, wenn Drg 070 Urteilszitate Historisch Verifizieren, Drg 071 Rechtsgeschichte Im Schriftsatz, Drg 072 Rechtsgeschichte In Gesetzesbegruendung, Drg 073 Rechtshistorische Timeline, Drg 074 Vergleich Brd Ddr Recht und 1 weitere Themen im Plugin Deutsche Rechtsgeschichte konkret bearbeitet werden soll. Auslöser: Bitte Drg 070 Urteilszitate Historisch Verifizieren, Drg 071 Rechtsgeschichte Im Schriftsatz, Drg 072 Rechtsgeschichte In Gesetzesbegruendung, Drg 073 Rechtshistorische Timeline, Drg 074 Vergleich Brd Ddr Recht und 1 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Drg 070 Urteilszitate Historisch Verifizieren, Drg 071 Rechtsgeschichte Im Schriftsatz, Drg 072 Rechtsgeschichte In Gesetzesbegruendung, Drg 073 Rechtshistorische Timeline, Drg 074 Vergleich Brd Ddr Recht und 1 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Deutsche Rechtsgeschichte 070 Urteilszitate Historisch Verifizieren, Deutsche Rechtsgeschichte 071 Rechtsgeschichte Im Schriftsatz, Deutsche Rechtsgeschichte 072 Rechtsgeschichte In Gesetzesbegruendung, Deutsche Rechtsgeschichte 073 Rechtshistorische Timeline: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Drg 070 Urteilszitate Historisch Verifizieren, Drg 071 Rechtsgeschichte Im Schriftsatz, Drg 072 Rechtsgeschichte In Gesetzesbegruendung, Drg 073 Rechtshistorische Timeline, Drg 074 Vergleich Brd Ddr Recht und 1 weitere Themen
+# Deutsche Rechtsgeschichte 070 Urteilszitate Historisch Verifizieren, Deutsche Rechtsgeschichte 071 Rechtsgeschichte Im Schriftsatz, Deutsche Rechtsgeschichte 072 Rechtsgeschichte In Gesetzesbegruendung, Deutsche Rechtsgeschichte 073 Rechtshistorische Timeline, Deutsche Rechtsgeschichte 074 Vergleich Brd Ddr Recht und 1 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte 070 Urteilszitate Historisch Verifizieren, Deutsche Rechtsgeschichte 071 Rechtsgeschichte Im Schriftsatz, Deutsche Rechtsgeschichte 072 Rechtsgeschichte In Gesetzesbegruendung, Deutsche Rechtsgeschichte 073 Rechtshistorische Timeline, Deutsche Rechtsgeschichte 074 Vergleich Brd Ddr Recht und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -22,7 +22,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Drg 070 Urteilszitate Historisch Verifizieren, Drg 071 Rechtsgeschichte Im Schriftsatz, Drg 072 Rechtsgeschichte In Gesetzesbegruendung, Drg 073 Rechtshistorische Timeline, Drg 074 Vergleich Brd Ddr Recht und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte 070 Urteilszitate Historisch Verifizieren, Deutsche Rechtsgeschichte 071 Rechtsgeschichte Im Schriftsatz, Deutsche Rechtsgeschichte 072 Rechtsgeschichte In Gesetzesbegruendung, Deutsche Rechtsgeschichte 073 Rechtshistorische Timeline, Deutsche Rechtsgeschichte 074 Vergleich Brd Ddr Recht und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

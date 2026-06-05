@@ -1,13 +1,13 @@
 ---
 name: richtlinien-entwurf-kueschk-grundwarnung
-description: "Nutze dies, wenn Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite prüfen.; Erstelle eine Arbeitsfassung zu Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Richtlinien Entwurf, Kündigungsschutzklage Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kündigungsschutzklage Abfindung Faustformel Und Spannweite** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,7 +55,7 @@ Tarifvertrag und bestehende Zusagen geprüft werden sollen.
 ## Eingaben
 
 - Thema der Regelung (z. B. Mobile Arbeit, Elternzeit-Ergänzung, Spesen,
-  Social Media, Datenschutz am Arbeitsplatz)
+ Social Media, Datenschutz am Arbeitsplatz)
 - Anlass (gesetzliche Anforderung, Unternehmensinitiative, Regelungslücke)
 - Geltungsbereich (alle Arbeitnehmer / bestimmte Rollen / bestimmte Standorte)
 - Bestehende Betriebsvereinbarungen und Tarifbindung (falls bekannt)
@@ -66,47 +66,47 @@ Tarifvertrag und bestehende Zusagen geprüft werden sollen.
 **Kernvorschriften:**
 
 - § 87 BetrVG: Erzwingbares Mitbestimmungsrecht des Betriebsrats —
-  Regelungen in den Bereichen § 87 Abs. 1 Nr. 1–13 (u. a. Ordnung des
-  Betriebs, Arbeitszeit, Urlaub, Datenschutz, Vergütungsgrundsätze)
-  können nicht ohne Zustimmung des Betriebsrats eingeführt werden
+ Regelungen in den Bereichen § 87 Abs. 1 Nr. 1–13 (u. a. Ordnung des
+ Betriebs, Arbeitszeit, Urlaub, Datenschutz, Vergütungsgrundsätze)
+ können nicht ohne Zustimmung des Betriebsrats eingeführt werden
 - § 77 BetrVG: Betriebsvereinbarungen — Vorrang und Ablöseprinzip;
-  Nachwirkung (§ 77 Abs. 6 BetrVG); günstigerer Tarifvertrag geht vor
+ Nachwirkung (§ 77 Abs. 6 BetrVG); günstigerer Tarifvertrag geht vor
 - §§ 305 ff. BGB: AGB-Kontrolle für vorformulierte Arbeitsbedingungen;
-  § 305c Abs. 1 BGB: Verbot überraschender Klauseln; § 307 BGB:
-  Inhaltskontrolle; Transparenzgebot
+ § 305c Abs. 1 BGB: Verbot überraschender Klauseln; § 307 BGB:
+ Inhaltskontrolle; Transparenzgebot
 - § 2 NachwG: Schriftliche Mitteilung wesentlicher Arbeitsbedingungen
-  bei erstmaliger Vereinbarung und bei Änderungen
+ bei erstmaliger Vereinbarung und bei Änderungen
 - §§ 3 ff. AGG: Diskriminierungsverbote — Regelungen dürfen keine
-  unmittelbaren oder mittelbaren Benachteiligungen wegen geschützter
-  Merkmale enthalten oder bewirken
+ unmittelbaren oder mittelbaren Benachteiligungen wegen geschützter
+ Merkmale enthalten oder bewirken
 - ArbZG: Arbeitszeitgesetz — Regelungen zur Arbeitszeit dürfen
-  gesetzliche Höchstgrenzen (§ 3 ArbZG: 8 Stunden täglich, maximal
-  10 Stunden) und Ruhezeiten (§ 5 ArbZG) nicht unterschreiten
+ gesetzliche Höchstgrenzen (§ 3 ArbZG: 8 Stunden täglich, maximal
+ 10 Stunden) und Ruhezeiten (§ 5 ArbZG) nicht unterschreiten
 - § 26 BDSG / Art. 88 DSGVO: Beschäftigtendatenschutz — Regelungen zur
-  Überwachung, Zugriffsrechten oder Kommunikation erfordern
-  Datenschutzprüfung und ggf. Betriebsvereinbarung nach § 26 BDSG
+ Überwachung, Zugriffsrechten oder Kommunikation erfordern
+ Datenschutzprüfung und ggf. Betriebsvereinbarung nach § 26 BDSG
 
 **Leitentscheidungen:**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Betriebliche Übung als Anspruchsgrundlage; einseitige Verschlechterung
-  einer durch betriebliche Übung entstandenen Leistungspflicht unwirksam;
-  Änderungskündigung als erforderliches Instrument
+ Betriebliche Übung als Anspruchsgrundlage; einseitige Verschlechterung
+ einer durch betriebliche Übung entstandenen Leistungspflicht unwirksam;
+ Änderungskündigung als erforderliches Instrument
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Mitbestimmungspflicht bei einseitiger Änderung betrieblicher Regelungen
-  in § 87 BetrVG-Bereichen; Einigungsstellenverfahren bei Scheitern der
-  Einigung
+ Mitbestimmungspflicht bei einseitiger Änderung betrieblicher Regelungen
+ in § 87 BetrVG-Bereichen; Einigungsstellenverfahren bei Scheitern der
+ Einigung
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  Katalog der erzwingbaren Mitbestimmungsrechte; Reichweite bei einzelnen
-  Themenfeldern (Homeoffice, Datenschutz, Zeiterfassung)
+ Katalog der erzwingbaren Mitbestimmungsrechte; Reichweite bei einzelnen
+ Themenfeldern (Homeoffice, Datenschutz, Zeiterfassung)
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  AGB-Kontrolle vorformulierter Arbeitsbedingungen; Inhaltskontrolle;
-  Transparenzgebot im Arbeitsrecht
+ AGB-Kontrolle vorformulierter Arbeitsbedingungen; Inhaltskontrolle;
+ Transparenzgebot im Arbeitsrecht
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  Nachweispflicht; schriftliche Mitteilung bei Änderungen; Folgen
+ Nachweispflicht; schriftliche Mitteilung bei Änderungen; Folgen
 
 ## Ablauf
 
@@ -202,12 +202,12 @@ Ergänzungen knapp halten — nur Abweichendes; Kernregelung nicht wiederholen.
 
 - Kollidiert diese Regelung mit einer bestehenden Regelung im Handbuch?
 - Verspricht sie mehr, als das Unternehmen liefern will? (Eine Regelung ist
-  ein Versprechen — Gerichte halten Arbeitgeber an Handbuchzusagen.)
+ ein Versprechen — Gerichte halten Arbeitgeber an Handbuchzusagen.)
 - Enthält sie unabsichtlich eine vertragliche Bindung? (Betriebliche Übung
-  nach drei gleichförmigen Wiederholungen — Disclaimer-Klausel wenn nötig,
-  aber als eigenständigen Abschnitt, nicht als Fußnote.)
+ nach drei gleichförmigen Wiederholungen — Disclaimer-Klausel wenn nötig,
+ aber als eigenständigen Abschnitt, nicht als Fußnote.)
 - AGG-Konformität: Enthält die Regelung mittelbare Benachteiligungen wegen
-  geschützter Merkmale nach § 1 AGG?
+ geschützter Merkmale nach § 1 AGG?
 
 ## Ausgabeformat
 
@@ -280,23 +280,23 @@ Ausgabe (Auszug Entwurfsnotizen):
 ## Risiken und typische Fehler
 
 - **Mitbestimmung übergangen**: Eine in § 87 BetrVG-Bereichen eingeführte
-  Regelung ohne Betriebsratszustimmung ist unwirksam, auch wenn der Inhalt
-  sachlich gerechtfertigt ist.
+ Regelung ohne Betriebsratszustimmung ist unwirksam, auch wenn der Inhalt
+ sachlich gerechtfertigt ist.
 - **Betriebliche Übung**: Was dreimal gleichförmig gewährt wurde, kann
-  bindend werden. Neuregelungen, die bisher praxisübliche Leistungen
-  einschränken, brauchen entweder individuelle Zustimmung oder
-  Änderungskündigung.
+ bindend werden. Neuregelungen, die bisher praxisübliche Leistungen
+ einschränken, brauchen entweder individuelle Zustimmung oder
+ Änderungskündigung.
 - **AGB-Falle**: Vorformulierte Arbeitsbedingungen unterliegen § 307 BGB.
-  Überraschende oder unverhältnismäßig belastende Klauseln sind unwirksam.
+ Überraschende oder unverhältnismäßig belastende Klauseln sind unwirksam.
 - **NachwG versäumt**: Wenn die Regelung wesentliche Arbeitsbedingungen
-  ändert, ist schriftliche Mitteilung an die betroffenen Arbeitnehmer
-  nach § 2 NachwG erforderlich.
+ ändert, ist schriftliche Mitteilung an die betroffenen Arbeitnehmer
+ nach § 2 NachwG erforderlich.
 - **AGG-Konformität nicht geprüft**: Regelungen können mittelbar
-  diskriminierend wirken (z. B. Teilzeitausschlüsse, die überwiegend
-  Frauen treffen). § 3 Abs. 2 AGG beachten.
+ diskriminierend wirken (z. B. Teilzeitausschlüsse, die überwiegend
+ Frauen treffen). § 3 Abs. 2 AGG beachten.
 - **Datenschutz nicht eingeplant**: Technische Überwachungsmaßnahmen
-  ohne Betriebsvereinbarung und DSFA können nach § 26 BDSG und
-  § 87 Abs. 1 Nr. 6 BetrVG unzulässig sein.
+ ohne Betriebsvereinbarung und DSFA können nach § 26 BDSG und
+ § 87 Abs. 1 Nr. 6 BetrVG unzulässig sein.
 
 ## Quellenpflicht
 
@@ -329,7 +329,7 @@ Anpassungsbedarf.
 - Regelungen genehmigen — das ist Aufgabe von HR-Leitung und Rechtsabteilung.
 - Regelungen kommunizieren — Mitarbeiterinformation ist HR-Aufgabe.
 - Alle denkbaren Jurisdiktionen abdecken — nur den konfigurierten Fußabdruck.
-  Bei Erweiterung des Fußabdrucks neu prüfen.
+ Bei Erweiterung des Fußabdrucks neu prüfen.
 
 ## Ergänzende Rechtsprechung (v14.2)
 
@@ -461,25 +461,25 @@ nicht über eine interne Referenztabelle.
 **Kernvorschriften:**
 
 - §§ 1–19 AÜG: Arbeitnehmerüberlassungsgesetz — Erlaubnispflicht, 18-Monats-Grenze
-  (§ 1 Abs. 1b AÜG), Equal-Pay (§ 8 AÜG); relevant wenn EOR als Struktur gewählt wird
+ (§ 1 Abs. 1b AÜG), Equal-Pay (§ 8 AÜG); relevant wenn EOR als Struktur gewählt wird
 - § 7 SGB IV: Beschäftigungsverhältnis; Scheinselbständigkeit — bei Freelancer- oder
-  Contractor-Konstellationen zu prüfen
+ Contractor-Konstellationen zu prüfen
 - § 611a BGB: Arbeitnehmerbegriff; Abgrenzung zu selbständiger Tätigkeit
 - Art. 8 Rom I-VO (VO EG 593/2008): Arbeitsvertragsstatut — Rechtswahl darf nicht zum
-  Entzug zwingender Schutzvorschriften des Beschäftigungsstaats führen
+ Entzug zwingender Schutzvorschriften des Beschäftigungsstaats führen
 - Art. 45 AEUV, RL 96/71/EG (Entsenderichtlinie), RL 2018/957/EU: Arbeitnehmerfreizügigkeit,
-  Entsendung innerhalb der EU
+ Entsendung innerhalb der EU
 - DSGVO / § 26 BDSG: Beschäftigtendatenschutz; Datentransfer in Drittstaaten
-  (Art. 44 ff. DSGVO) bei Daten über EU-Arbeitnehmer an nicht-EU-Muttergesellschaft
+ (Art. 44 ff. DSGVO) bei Daten über EU-Arbeitnehmer an nicht-EU-Muttergesellschaft
 
 **Leitentscheidungen:**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Arbeitnehmerbegriff bei grenzüberschreitenden Tätigkeiten; Indizien für
-  Weisungsgebundenheit — maßgeblich für Contractor- vs. Arbeitnehmerstatus
+ Arbeitnehmerbegriff bei grenzüberschreitenden Tätigkeiten; Indizien für
+ Weisungsgebundenheit — maßgeblich für Contractor- vs. Arbeitnehmerstatus
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Rechtsfolgen fehlender AÜG-Erlaubnis; Fiktionswirkung nach § 10 Abs. 1 AÜG
-  bei unerlaubter Arbeitnehmerüberlassung
+ Rechtsfolgen fehlender AÜG-Erlaubnis; Fiktionswirkung nach § 10 Abs. 1 AÜG
+ bei unerlaubter Arbeitnehmerüberlassung
 
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
@@ -500,8 +500,8 @@ Alle folgenden Fragen in einem einzigen Block stellen:
 > **Die Expansion**
 > - Welches Land?
 > - Welche Rollen werden eingestellt? (Stellenprofil ist entscheidend —
->   ein Vertriebsmitarbeiter mit Abschlussvollmacht erzeugt anderes
->   Betriebsstättenrisiko als eine reine Entwicklerstelle)
+> ein Vertriebsmitarbeiter mit Abschlussvollmacht erzeugt anderes
+> Betriebsstättenrisiko als eine reine Entwicklerstelle)
 > - Wie viele Einstellungen im 12-Monats-Horizont?
 > - Wann soll die erste Person starten?
 >
@@ -513,7 +513,7 @@ Alle folgenden Fragen in einem einzigen Block stellen:
 >
 > **Strategischer Kontext**
 > - Langfristiger Aufbau (echtes Team aufbauen) oder Markttest
->   (ein bis zwei Einstellungen, dann bewerten)?
+> (ein bis zwei Einstellungen, dann bewerten)?
 > - Wer ist der Entscheidungsträger für die Strukturentscheidung?
 
 Auf Antworten warten, bevor fortgefahren wird.
@@ -558,14 +558,14 @@ Vertragsabschlussbefugnis umfassen — explizit flaggen:
 **Fragen für CFO/Steuerberatung:**
 
 > - Bei [N] Einstellungen über 12 Monate: Ab welchem Headcount wird eine
->   eigene Gesellschaft kosteneffizienter als EOR (einschließlich EOR-Aufschlag,
->   Gründungskosten, laufender Compliance-Aufwand)?
+> eigene Gesellschaft kosteneffizienter als EOR (einschließlich EOR-Aufschlag,
+> Gründungskosten, laufender Compliance-Aufwand)?
 > - [Falls Betriebsstättenrisiko:] Begründen diese Rollen im Zielland eine
->   steuerliche Betriebsstätte? Falls ja — ändert das die Gründungs-Timeline?
+> steuerliche Betriebsstätte? Falls ja — ändert das die Gründungs-Timeline?
 > - Falls mit EOR gestartet und später Gesellschaft gegründet wird: Was sind die
->   Übergangsrisiken für die bereits beim EOR beschäftigten Mitarbeiter?
+> Übergangsrisiken für die bereits beim EOR beschäftigten Mitarbeiter?
 > - Wer ist unser bevorzugter EOR-Anbieter für dieses Land und ist seine lokale
->   Compliance-Bilanz geprüft worden?
+> Compliance-Bilanz geprüft worden?
 
 ### Schritt 3 — Abteilungsübergreifende Trigger
 
@@ -579,14 +579,14 @@ erforderlich ist, Beratung zur Eigenkapitalvergütungsbesteuerung im Zielland.
 
 Fragen von Legal:
 - Begründet ein [Rollentyp] in [Land] eine Betriebsstätte oder steuerliche
-  Nexus vor Gründung einer Gesellschaft?
+ Nexus vor Gründung einer Gesellschaft?
 - Wie lange ist das Expositionsfenster, wenn vor Klärung der Betriebsstättenfrage
-  eingestellt wird?
+ eingestellt wird?
 - Wie werden unsere Beteiligungsprogramme (Optionen/Phantom Shares/RSU-Äquivalente)
-  in [Land] besteuert? Brauchen Mitarbeiter lokale Steuerberatung bei Gewährung
-  und Ausübung?
+ in [Land] besteuert? Brauchen Mitarbeiter lokale Steuerberatung bei Gewährung
+ und Ausübung?
 - Falls Gesellschaft gegründet wird: Welche Dienstleistungsvereinbarung
-  (Intragroup Service Agreement) wird zwischen Tochter und Mutter benötigt?
+ (Intragroup Service Agreement) wird zwischen Tochter und Mutter benötigt?
 
 **Finance / Lohnbuchhaltung** (vor dem ersten Gehaltslauf erforderlich)
 
@@ -596,11 +596,11 @@ Gesellschaftsmodell einrichten.
 
 Fragen von Legal:
 - Haben wir einen lokalen Lohnbuchhaltungsanbieter identifiziert? (Bei EOR:
-  bestätigen, dass EOR Payroll inkl. lokaler Sozialabgaben übernimmt)
+ bestätigen, dass EOR Payroll inkl. lokaler Sozialabgaben übernimmt)
 - Welche Pflichtarbeitgeberanteile bestehen in [Land] — Rente, Kranken-,
-  Sozialversicherung — und sind diese im Vergütungsmodell budgetiert?
+ Sozialversicherung — und sind diese im Vergütungsmodell budgetiert?
 - Wie werden Beteiligungsprogramme für Mitarbeiter in [Land] administriert?
-  Hat jemand die arbeitgeberseitigen Quellensteueranteile bei Ausübung modelliert?
+ Hat jemand die arbeitgeberseitigen Quellensteueranteile bei Ausübung modelliert?
 
 **HR / Compensation & Benefits** (vor der ersten Angebotsmachung erforderlich)
 
@@ -609,12 +609,12 @@ Pflicht- vs. freiwillige Benefits klären.
 
 Fragen von Legal:
 - Welche Benefits sind in [Land] gesetzlich Pflicht vs. marktüblich? (Vermeiden:
-  versehentlich mehr oder weniger als Marktstandard versprechen)
+ versehentlich mehr oder weniger als Marktstandard versprechen)
 - Ist unser Beteiligungspaket in diesem Markt wettbewerbsfähig oder weicht
-  die lokale Praxis erheblich ab?
+ die lokale Praxis erheblich ab?
 - Wer ist die direkte Führungskraft dieser Person — lokal oder remote aus dem
-  Inland? (Beeinflusst Arbeitnehmervertretungsanalyse und Arbeitsvertragsbedingungen
-  in einigen Jurisdiktionen)
+ Inland? (Beeinflusst Arbeitnehmervertretungsanalyse und Arbeitsvertragsbedingungen
+ in einigen Jurisdiktionen)
 
 **Externe Arbeitsrechtler** (zwingend erforderlich — nicht überspringen)
 
@@ -647,59 +647,59 @@ Briefing-Request, zugeschnitten auf die erhobenen Angaben:
 > Referenztabelle — wir möchten Änderungen im Zeitverlauf verfolgen können.
 >
 > 1. **Einstellungsstruktur** — Welche Optionen bestehen (Direktanstellung
->    über Gesellschaft, EOR, Freier Mitarbeiter) und was sind die rechtlichen
->    und praktischen Abwägungen für diesen Headcount und diese Rollen?
+> über Gesellschaft, EOR, Freier Mitarbeiter) und was sind die rechtlichen
+> und praktischen Abwägungen für diesen Headcount und diese Rollen?
 >
 > 2. **Arbeitsvertragsanforderungen** — Welche Form ist vorgeschrieben oder
->    üblich? Was muss enthalten sein? Was kann nicht wirksam vereinbart werden?
->    Welche Sprach- oder Übersetzungsanforderungen bestehen?
+> üblich? Was muss enthalten sein? Was kann nicht wirksam vereinbart werden?
+> Welche Sprach- oder Übersetzungsanforderungen bestehen?
 >
 > 3. **Kündigung** — Welche Kündigungsfristen und Abfindungspflichten bestehen?
->    Wie schwierig ist eine Kündigung in der Praxis (Kündigungsschutz,
->    Sozialauswahlregeln bei Massenentlassung, Sonderkündigungsschutz)?
->    Welchen Dokumentationsstandard sollten wir von Tag 1 an etablieren?
+> Wie schwierig ist eine Kündigung in der Praxis (Kündigungsschutz,
+> Sozialauswahlregeln bei Massenentlassung, Sonderkündigungsschutz)?
+> Welchen Dokumentationsstandard sollten wir von Tag 1 an etablieren?
 >
 > 4. **Pflichtleistungen und Arbeitgeberanteile** — Was muss gesetzlich
->    geleistet werden (Rente, Kranken-, Sozialversicherung, bezahlter Urlaub,
->    Boni)? Welche aktuellen Arbeitgeberbeitragssätze sind zu budgetieren?
->    Bitte einschlägige Gesetzesnorm angeben und Aktualität bestätigen.
+> geleistet werden (Rente, Kranken-, Sozialversicherung, bezahlter Urlaub,
+> Boni)? Welche aktuellen Arbeitgeberbeitragssätze sind zu budgetieren?
+> Bitte einschlägige Gesetzesnorm angeben und Aktualität bestätigen.
 >
 > 5. **Wettbewerbsverbote / Geheimhaltung** — Sind nachvertragliche
->    Wettbewerbsverbote durchsetzbar? Unter welchen Bedingungen und gegen
->    welche Karenzentschädigung? Welche Geheimhaltungs- und
->    IP-Übertragungsklauseln halten stand?
+> Wettbewerbsverbote durchsetzbar? Unter welchen Bedingungen und gegen
+> welche Karenzentschädigung? Welche Geheimhaltungs- und
+> IP-Übertragungsklauseln halten stand?
 >
 > 6. **Arbeitnehmervertretung** — Bestehen Betriebsrats-, Arbeitnehmervertretungs-,
->    Gewerkschafts- oder Tarifbindungsanforderungen? Ab welchem Headcount
->    greifen sie? Welche Anhörungs- oder Mitbestimmungsrechte bestehen?
->    Sind wir durch einen Branchentarifvertrag gebunden, auch ohne Gewerkschafts-
->    mitgliedschaft?
+> Gewerkschafts- oder Tarifbindungsanforderungen? Ab welchem Headcount
+> greifen sie? Welche Anhörungs- oder Mitbestimmungsrechte bestehen?
+> Sind wir durch einen Branchentarifvertrag gebunden, auch ohne Gewerkschafts-
+> mitgliedschaft?
 >
 > 7. **Datenschutz** — Welche Pflichten bestehen für Beschäftigtendaten?
->    Ist ein Datentransfermechanismus für Beschäftigtendaten in die EU oder
->    ins Inland erforderlich?
+> Ist ein Datentransfermechanismus für Beschäftigtendaten in die EU oder
+> ins Inland erforderlich?
 >
 > 8. **Arbeitserlaubnis** — Welche Aufenthaltstitel oder Visa sind für
->    ausländische Staatsangehörige erforderlich? Wie sind die Bearbeitungszeiten?
+> ausländische Staatsangehörige erforderlich? Wie sind die Bearbeitungszeiten?
 >
 > 9. **Branchenspezifische Regeln** — Gibt es Branchenregeln, Tarifverträge
->    oder kollektive Vereinbarungen, die unabhängig von einer Gewerkschafts-
->    zugehörigkeit für unsere Branche gelten?
+> oder kollektive Vereinbarungen, die unabhängig von einer Gewerkschafts-
+> zugehörigkeit für unsere Branche gelten?
 >
 > 10. **Contractor-Risiko / Scheinselbständigkeit** — Welches Prüfungsmaßstab
->     gilt für die Statusfeststellung und welche Reklassifizierungsrisiken
->     bestehen für etwaige Freelancer-Konstellationen?
+> gilt für die Statusfeststellung und welche Reklassifizierungsrisiken
+> bestehen für etwaige Freelancer-Konstellationen?
 >
 > 11. **Beteiligungsvergütung** — Gibt es lokale Steuer-, Kapitalmarkt- oder
->     arbeitsrechtliche Regeln für Optionen, Phantom Shares oder andere
->     Beteiligungsprogramme?
+> arbeitsrechtliche Regeln für Optionen, Phantom Shares oder andere
+> Beteiligungsprogramme?
 >
 > 12. **Tag-1-Compliance** — Was muss vor dem ersten Arbeitstag des ersten
->     Mitarbeiters in Ordnung sein? Anmeldungen, Aushangpflichten, Meldungen?
+> Mitarbeiters in Ordnung sein? Anmeldungen, Aushangpflichten, Meldungen?
 >
 > 13. **Die 2–3 Dinge, die ausländische Unternehmen am häufigsten überraschen** —
->     Was wünschen Sie sich, hätten Mandanten früher gefragt? Was hat sich
->     **jüngst geändert**, was ein Team aus dem Inland möglicherweise verpasst hat?
+> Was wünschen Sie sich, hätten Mandanten früher gefragt? Was hat sich
+> **jüngst geändert**, was ein Team aus dem Inland möglicherweise verpasst hat?
 
 Diesen Briefing-Request als einzelnen offenen Punkt in den Expansions-Tracker aufnehmen:
 Verantwortung = Externe Arbeitsrechtler, Status = offen, vollständige Briefing-Agenda
@@ -728,18 +728,18 @@ betriebsstaette_geflaggt: [true / false]
 zuletzt_aktualisiert: [ISO-Datum]
 
 offene_punkte:
-  - id: 1
-    kategorie: [struktur / steuer / finance / hr / externe-ar / compliance]
-    punkt: "[was zu tun ist]"
-    verantwortung: "[Funktion oder Person]"
-    status: [offen / in-bearbeitung / erledigt / blockiert]
-    faellig: [ISO-Datum oder null]
-    fragen:
-      - "[spezifische Frage aus Schritten 2–4]"
-    notizen: ""
+ - id: 1
+ kategorie: [struktur / steuer / finance / hr / externe-ar / compliance]
+ punkt: "[was zu tun ist]"
+ verantwortung: "[Funktion oder Person]"
+ status: [offen / in-bearbeitung / erledigt / blockiert]
+ faellig: [ISO-Datum oder null]
+ fragen:
+ - "[spezifische Frage aus Schritten 2–4]"
+ notizen: ""
 
-  - id: 2
-    [etc.]
+ - id: 2
+ [etc.]
 ```
 
 Pro identifizierter Maßnahme aus Schritten 2–4 einen eigenen Punkt — nicht
@@ -802,14 +802,14 @@ Fragen für CFO/Steuerberatung]
 ## Was diese Skill nicht tut
 
 - Länderspezifisches Arbeitsrecht inhaltlich beantworten — das ist Aufgabe
-  der externen Arbeitsrechtler.
+ der externen Arbeitsrechtler.
 - Die EOR-vs.-Gesellschaft-Entscheidung treffen — sie rahmt sie für die
-  richtigen Entscheidungsträger.
+ richtigen Entscheidungsträger.
 - Den lokalen Arbeitsvertrag entwerfen — das muss außen Counsel erledigen.
 - Länderspezifische Regeln aus eigenem Wissen wiedergeben — jedes Land wird
-  durch den Briefing-Request verifiziert.
+ durch den Briefing-Request verifiziert.
 - Externes Arbeitsrechtsmandat ersetzen — jedes neue Land erfordert lokalen
-  Rechtsbeistand, keine Ausnahme.
+ Rechtsbeistand, keine Ausnahme.
 
 ## Quellenpflicht
 
@@ -824,12 +824,12 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund WRONG_TOPIC + falsches Datum + falsche Zeitschrift → Eintrag gelöscht.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-     Statusfeststellungsverfahren nach § 7a SGB IV; Gesamtbetrachtung aller Beschäftigungsmerkmale"
+ Statusfeststellungsverfahren nach § 7a SGB IV; Gesamtbetrachtung aller Beschäftigungsmerkmale"
 Tatsächliche Entscheidung (dejure.org):
-  Datum: 29.06.2021 (nicht 29.03.2022)
-  Thema: Krankenversicherung — Familienversicherung — Gesamteinkommen (§ 10 SGB V)
-  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Kein Bezug zu § 7a SGB IV / Statusfeststellung.
+ Datum: 29.06.2021 (nicht 29.03.2022)
+ Thema: Krankenversicherung — Familienversicherung — Gesamteinkommen (§ 10 SGB V)
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Kein Bezug zu § 7a SGB IV / Statusfeststellung.
 Eintrag vollständig entfernt; bei Bedarf passendes Statusfeststellungs-AZ recherchieren.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=29.06.2021&Aktenzeichen=B+12+KR+2%2F20+R
 -->
@@ -938,10 +938,10 @@ Faustformel (0.5 × Monatslohn × Dienstjahre):
 [ZAHL] × 0.5 × [BETRAG] = [ERGEBNIS] Euro brutto
 
 Empfohlene Verhandlungsspanne:
-  Untere Grenze (0.25): [BETRAG] Euro brutto
-  Faustformel (0.50): [BETRAG] Euro brutto
-  Obere Grenze (0.75): [BETRAG] Euro brutto
-  (falls starke Rechtsposition: bis [BETRAG] Euro brutto)
+ Untere Grenze (0.25): [BETRAG] Euro brutto
+ Faustformel (0.50): [BETRAG] Euro brutto
+ Obere Grenze (0.75): [BETRAG] Euro brutto
+ (falls starke Rechtsposition: bis [BETRAG] Euro brutto)
 
 Steuerhinweis: Fünftel-Regelung § 34 EStG prüfen (Steuerberater einbinden)
 Sperrzeit-Hinweis: § 158-159 SGB III prüfen (Agentur für Arbeit informieren)

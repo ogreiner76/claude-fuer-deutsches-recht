@@ -1,6 +1,6 @@
 ---
 name: stb-buchhaltungsbutler-mandantencloud
-description: "BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV. Methodik Konfiguration Belegworkflow GoBD-Risiken Honoraranpassung. Output eingerichtete Cloud-Schnittstelle und Prüfroutine."
+description: "BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV. Methodik Konfiguration BelegGoBD-Risiken Honoraranpassung. Output eingerichtete Cloud-Schnittstelle und Prüfroutine."
 ---
 
 # BuchhaltungsButler — Mandanten-Cloud-Loesung
@@ -35,7 +35,7 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 | BuchhaltungsButler | KMU mit hohem Belegaufkommen |
 | sevDesk | Solo-Selbstaendige, Kleinunternehmer |
 | Lexware-Office | Kleinmandanten, Klein-GmbH |
-| Candis | Mittelstand mit Beleg-Workflow |
+| Candis | Mittelstand mit Beleg-|
 | Datev DUO | StB-Mandanten (Standard) |
 
 ### Phase 2 — Schnittstelle zu DATEV
@@ -48,7 +48,7 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 
 - Mandant erhaelt Cloud-Konto.
 - StB-Lese-Zugang.
-- Belegworkflow festlegen.
+- Belegfestlegen.
 
 ### Phase 4 — Buchungsfreigabe
 

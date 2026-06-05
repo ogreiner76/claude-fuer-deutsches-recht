@@ -33,7 +33,7 @@ Der Antrag § 3a Abs. 4 EStG ist nicht in jedem Fall die beste Lösung. Die Bind
 - **§ 8c, § 8d KStG** — Verlustuntergang / Verschonung.
 - **§§ 55 ff. GmbHG, § 56 GmbHG** — Kapitalerhöhung Sacheinlage.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Strategie A: Verlustvortrag-Maximierung
 
@@ -116,62 +116,62 @@ Der Antrag § 3a Abs. 4 EStG ist nicht in jedem Fall die beste Lösung. Die Bind
 STRATEGIE-ENTSCHEIDUNG SANIERUNGSGEWINN
 
 START ► Verlustvortrag aktualisiert?
-   ├─ NEIN ► Verlustvortrag aktualisieren (Bescheid)
-   └─ JA  ► Verlustvortrag ≥ Sanierungsertrag?
-              ├─ JA  ► Strategie A
-              │       (Sanierungsertrag wird voll aufgezehrt
-              │        ► kein Antrag § 3a IV EStG)
-              │       ► Mindestbesteuerung prüfen
-              │
-              └─ NEIN ► Gläubiger zu Alternativen bereit?
-                         ├─ JA, Sacheinlage (Hauptgläubiger)
-                         │   ► Strategie B (d/e-swap)
-                         │   ► § 8c KStG prüfen
-                         │
-                         ├─ JA, Rangrücktritt
-                         │   ► Strategie C
-                         │   ► Klauselgestaltung wichtig
-                         │
-                         ├─ JA, Besserungsabrede
-                         │   ► Strategie D
-                         │   ► spätere Prüfung
-                         │
-                         └─ NEIN ► Strategie E (Zeitsteuerung)
-                                    ODER Strategie § 3a EStG
-                                    ► Vier Voraussetzungen
-                                      vollständig dokumentieren
-                                    ► Antrag fristgerecht
+ ├─ NEIN ► Verlustvortrag aktualisieren (Bescheid)
+ └─ JA ► Verlustvortrag ≥ Sanierungsertrag?
+ ├─ JA ► Strategie A
+ │ (Sanierungsertrag wird voll aufgezehrt
+ │ ► kein Antrag § 3a IV EStG)
+ │ ► Mindestbesteuerung prüfen
+ │
+ └─ NEIN ► Gläubiger zu Alternativen bereit?
+ ├─ JA, Sacheinlage (Hauptgläubiger)
+ │ ► Strategie B (d/e-swap)
+ │ ► § 8c KStG prüfen
+ │
+ ├─ JA, Rangrücktritt
+ │ ► Strategie C
+ │ ► Klauselgestaltung wichtig
+ │
+ ├─ JA, Besserungsabrede
+ │ ► Strategie D
+ │ ► spätere Prüfung
+ │
+ └─ NEIN ► Strategie E (Zeitsteuerung)
+ ODER Strategie § 3a EStG
+ ► Vier Voraussetzungen
+ vollständig dokumentieren
+ ► Antrag fristgerecht
 ```
 
 ### Berechnungsbeispiel Strategievergleich
 
 ```
 Ausgangslage:
-  Sanierungsbedarf (Verzicht erforderlich)    EUR 2.000.000
-  KSt-Verlustvortrag                          EUR   800.000
-  Gewerbeverlust                              EUR   600.000
+ Sanierungsbedarf (Verzicht erforderlich) EUR 2.000.000
+ KSt-Verlustvortrag EUR 800.000
+ Gewerbeverlust EUR 600.000
 
 Strategie A: Verlustvortrag-Maximierung
-  ► Verlustvortrag deckt nicht voll
-  ► Antrag § 3a IV EStG erforderlich
-  ► Bindungswirkung
+ ► Verlustvortrag deckt nicht voll
+ ► Antrag § 3a IV EStG erforderlich
+ ► Bindungswirkung
 
 Strategie B: D/E-Swap für Hauptgläubiger 1.500.000
-  ► Sanierungsertrag nur 500.000
-  ► durch Verlustvortrag voll aufgezehrt
-  ► Antrag § 3a IV EStG nicht nötig
-  ► aber: gesellschaftsrechtlicher Aufwand
-  ► § 8c KStG geprüft, § 8d KStG-Antrag
+ ► Sanierungsertrag nur 500.000
+ ► durch Verlustvortrag voll aufgezehrt
+ ► Antrag § 3a IV EStG nicht nötig
+ ► aber: gesellschaftsrechtlicher Aufwand
+ ► § 8c KStG geprüft, § 8d KStG-Antrag
 
 Strategie C: Verzicht mit Besserungsabrede
-  ► aktueller Sanierungsertrag 0
-  ► spätere Buchung im Besserungsfall
+ ► aktueller Sanierungsertrag 0
+ ► spätere Buchung im Besserungsfall
 
 ► Empfehlung: Strategie B
-   - Verlustvortrag geschont (für künftige Verluste)
-   - Sanierungsertrag aufgezehrt durch Verlust
-   - keine Bindungswirkung § 3a IV EStG
-   - § 8d KStG-Antrag fristgerecht stellen
+ - Verlustvortrag geschont (für künftige Verluste)
+ - Sanierungsertrag aufgezehrt durch Verlust
+ - keine Bindungswirkung § 3a IV EStG
+ - § 8d KStG-Antrag fristgerecht stellen
 ```
 
 ## Typische Fehler

@@ -45,7 +45,7 @@ Nicht dieser Skill, sondern `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-m
 - **§ 7b GewStG** – Gewerbesteuer-Parallele.
 - **EU-Beihilferecht** – Sanierungsklausel als unionsrechtliches Streitthema.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Konstellation klären:**
 
@@ -124,10 +124,10 @@ Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
 - Plugin `steuerrecht-anwalt-und-berater`: § 8c KStG, § 8d KStG im Detail.
 - Plugin `insolvenzrecht`: Anteilseignerwechsel im Insolvenzplan.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
-  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+ - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
 
 ## Quellen Stand 06/2026
 

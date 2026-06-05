@@ -1,13 +1,13 @@
 ---
 name: satire-ironisierung-schimpfwort-lackaffe
-description: "Nutze dies, wenn Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott prüfen.; Erstelle eine Arbeitsfassung zu Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Satire Ironisierung Pinocchio, Schimpfwort Lackaffe Und Spott** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

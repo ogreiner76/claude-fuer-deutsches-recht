@@ -1,13 +1,13 @@
 ---
 name: legw-bmi-bevoelkerungsschutz-oeffentlicher
-description: "Nutze dies, wenn Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht, Legw Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht, Legw Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht, Legw Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht, Legw Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht, Legw Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,16 +87,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Bevoelkerungsschutz und Katastrophenrecht
-Ressort:            BMI
-Kernnormen:         ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).
-Akteure/Aufsicht:   BBK; THW; Laender-Katastrophenschutz; KRITIS-Aufsichten.
-EU/Voelkerrecht:    EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmi; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Bevoelkerungsschutz und Katastrophenrecht
+Ressort: BMI
+Kernnormen: ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).
+Akteure/Aufsicht: BBK; THW; Laender-Katastrophenschutz; KRITIS-Aufsichten.
+EU/Voelkerrecht: EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmi; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -169,16 +169,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Oeffentlicher Dienst und Beamtenrecht
-Ressort:            BMI
-Kernnormen:         BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.
-Akteure/Aufsicht:   BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.
-EU/Voelkerrecht:    Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmi; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Oeffentlicher Dienst und Beamtenrecht
+Ressort: BMI
+Kernnormen: BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.
+Akteure/Aufsicht: BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.
+EU/Voelkerrecht: Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmi; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -251,16 +251,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Sicherheits- und Polizeirecht
-Ressort:            BMI
-Kernnormen:         BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.
-Akteure/Aufsicht:   BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.
-EU/Voelkerrecht:    Schengen; Europol; Eurodac; Frontex; PNR-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmi; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Sicherheits- und Polizeirecht
+Ressort: BMI
+Kernnormen: BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.
+Akteure/Aufsicht: BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.
+EU/Voelkerrecht: Schengen; Europol; Eurodac; Frontex; PNR-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmi; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -333,16 +333,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Gerichtsverfassungs- und Prozessrecht
-Ressort:            BMJV
-Kernnormen:         GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.
-Akteure/Aufsicht:   BMJV; Bundesgerichte; Justizverwaltungen der Laender.
-EU/Voelkerrecht:    EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmjv; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Gerichtsverfassungs- und Prozessrecht
+Ressort: BMJV
+Kernnormen: GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.
+Akteure/Aufsicht: BMJV; Bundesgerichte; Justizverwaltungen der Laender.
+EU/Voelkerrecht: EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -415,16 +415,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Rechtsstaatlichkeit und Grundrechte-Querschnitt
-Ressort:            BMJV
-Kernnormen:         GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.
-Akteure/Aufsicht:   BMJV; BVerfG; BGH; Auslaenderbehoerden; Bundesrat.
-EU/Voelkerrecht:    Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmjv; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Rechtsstaatlichkeit und Grundrechte-Querschnitt
+Ressort: BMJV
+Kernnormen: GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.
+Akteure/Aufsicht: BMJV; BVerfG; BGH; Auslaenderbehoerden; Bundesrat.
+EU/Voelkerrecht: Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -497,16 +497,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Straf- und Strafprozessrecht-Pflege
-Ressort:            BMJV
-Kernnormen:         StGB; StPO; OWiG; JGG; GVG; EGStGB.
-Akteure/Aufsicht:   BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.
-EU/Voelkerrecht:    Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmjv; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Straf- und Strafprozessrecht-Pflege
+Ressort: BMJV
+Kernnormen: StGB; StPO; OWiG; JGG; GVG; EGStGB.
+Akteure/Aufsicht: BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.
+EU/Voelkerrecht: Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -579,16 +579,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Verbraucherschutz und Wettbewerbsrecht (UWG)
-Ressort:            BMJV
-Kernnormen:         UWG; UKlaG; BGB-Verbraucherrecht; ProdSG; PreisangabenV.
-Akteure/Aufsicht:   BMJV; vzbv; Wettbewerbszentrale; Landesbehoerden Verbraucherschutz.
-EU/Voelkerrecht:    Verbraucherrechte-RL; Omnibus-RL; Geoblocking-VO; DSA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmjv; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Verbraucherschutz und Wettbewerbsrecht (UWG)
+Ressort: BMJV
+Kernnormen: UWG; UKlaG; BGB-Verbraucherrecht; ProdSG; PreisangabenV.
+Akteure/Aufsicht: BMJV; vzbv; Wettbewerbszentrale; Landesbehoerden Verbraucherschutz.
+EU/Voelkerrecht: Verbraucherrechte-RL; Omnibus-RL; Geoblocking-VO; DSA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -661,16 +661,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Zivilrecht und BGB-Pflege
-Ressort:            BMJV
-Kernnormen:         BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.
-Akteure/Aufsicht:   BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.
-EU/Voelkerrecht:    Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmjv; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Zivilrecht und BGB-Pflege
+Ressort: BMJV
+Kernnormen: BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.
+Akteure/Aufsicht: BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.
+EU/Voelkerrecht: Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

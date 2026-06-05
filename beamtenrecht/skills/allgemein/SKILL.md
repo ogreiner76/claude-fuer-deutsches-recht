@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Einstieg, Kaltstart und Workflow-Routing im Beamtenrecht-Plugin: klärt Status, Dienstherr, Bundesland, Frist, Ziel, Unterlagen, Anfänger-/Profi-Modus und schlägt passende Spezial-Skills vor."
+description: "Einstieg, Kaltstart und Fallrouting im Beamtenrecht-Plugin: klärt Status, Dienstherr, Bundesland, Frist, Ziel, Unterlagen, Anfänger-/Profi-Modus und schlägt passende Fachmodule vor."
 ---
 
 # Allgemein
 
 ## Aufgabe
 
-Einstieg, Kaltstart und Workflow-Routing im Beamtenrecht-Plugin: klärt Status, Dienstherr, Bundesland, Frist, Ziel, Unterlagen, Anfänger-/Profi-Modus und schlägt passende Spezial-Skills vor.
+Einstieg, Kaltstart und Fallrouting im Beamtenrecht-Plugin: klärt Status, Dienstherr, Bundesland, Frist, Ziel, Unterlagen, Anfänger-/Profi-Modus und schlägt passende Fachmodule vor.
 
 ## Arbeitsweise
 

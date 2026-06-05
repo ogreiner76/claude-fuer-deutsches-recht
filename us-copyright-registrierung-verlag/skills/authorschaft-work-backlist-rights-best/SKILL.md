@@ -1,13 +1,13 @@
 ---
 name: authorschaft-work-backlist-rights-best
-description: "Nutze dies, wenn Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe im Plugin Us Copyright Registrierung Verlag konkret bearbeitet werden soll. Auslöser: Bitte Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe prüfen.; Erstelle eine Arbeitsfassung zu Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -183,7 +183,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## Zweck
 
-Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsworkflow ab, sondern als Praxiswerkzeug fuer Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
+Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug fuer Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
 
 Dieser Skill macht aus dem Thema **Characters und Fictional Universe** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 

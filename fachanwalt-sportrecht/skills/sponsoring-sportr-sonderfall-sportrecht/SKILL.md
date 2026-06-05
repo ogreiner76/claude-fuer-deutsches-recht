@@ -1,13 +1,13 @@
 ---
 name: sponsoring-sportr-sonderfall-sportrecht
-description: "Nutze dies, wenn Spezial Sponsoring Internationaler Bezug Und Schnittstellen, Spezial Sportr Sonderfall Und Edge Case, Spezial Sportrecht Tatbestand Beweis Und Belege im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Sponsoring Internationaler Bezug Und Schnittstellen, Spezial Sportr Sonderfall Und Edge Case, Spezial Sportrecht Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Sponsoring Internationaler Bezug Und Schnittstellen, Spezial Sportr Sonderfall Und Edge Case, Spezial Sportrecht Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sponsoring Internationaler Bezug Und Schnittstellen, Sportr Sonderfall Und Edge Case, Sportrecht Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Sponsoring Internationaler Bezug Und Schnittstellen, Spezial Sportr Sonderfall Und Edge Case, Spezial Sportrecht Tatbestand Beweis Und Belege
+# Sponsoring Internationaler Bezug Und Schnittstellen, Sportr Sonderfall Und Edge Case, Sportrecht Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sponsoring Internationaler Bezug Und Schnittstellen, Sportr Sonderfall Und Edge Case, Sportrecht Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Sponsoring Internationaler Bezug Und Schnittstellen, Spezial Sportr Sonderfall Und Edge Case, Spezial Sportrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sportrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sponsoring Internationaler Bezug Und Schnittstellen, Sportr Sonderfall Und Edge Case, Sportrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sportrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Sponsoring Internationaler Bezug Und Schnittstellen, Spezial Spor
 # Sponsoring: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Sponsoring: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Sponsoring: Internationaler Bezug und Schnittstellen / spezial sponsoring internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Sponsoring: Internationaler Bezug und Schnittstellen / sponsoring internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Sportr: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Sportr: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Sportr: Sonderfall und Edge-Case-Prüfung / spezial sportr sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Sportr: Sonderfall und Edge-Case-Prüfung / sportr sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial sportrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / sportrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

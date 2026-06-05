@@ -1,6 +1,6 @@
 ---
 name: fmkw
-description: "Nutze dies, wenn Fmkw: Mandantenkommunikation und Entscheidungsvorlage im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Fmkw: Mandantenkommunikation und Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Fmkw: Mandantenkommunikation und Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fmkw: Mandantenkommunikation und Entscheidungsvorlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Fmkw: Mandantenkommunikation und Entscheidungsvorlage

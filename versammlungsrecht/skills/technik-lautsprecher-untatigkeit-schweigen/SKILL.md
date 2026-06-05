@@ -1,13 +1,13 @@
 ---
 name: technik-lautsprecher-untatigkeit-schweigen
-description: "Nutze dies, wenn Technik Lautsprecher Musik, Untatigkeit Und Schweigen im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Technik Lautsprecher Musik, Untatigkeit Und Schweigen prüfen.; Erstelle eine Arbeitsfassung zu Technik Lautsprecher Musik, Untatigkeit Und Schweigen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Technik Lautsprecher Musik, Untatigkeit Und Schweigen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Technik Lautsprecher Musik, Untatigkeit Und Schweigen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Technik Lautsprecher Musik, Untatigkeit Und Schweigen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

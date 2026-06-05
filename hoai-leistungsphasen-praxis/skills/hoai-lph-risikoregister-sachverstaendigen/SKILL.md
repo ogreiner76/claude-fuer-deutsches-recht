@@ -1,13 +1,13 @@
 ---
 name: hoai-lph-risikoregister-sachverstaendigen
-description: "Nutze dies, wenn Hoai Lph 04 Risikoregister, Hoai Lph 04 Sachverstaendigen Prüfung, Hoai Lph 04 Schnittstelle Vob Bgb, Hoai Lph 04 Streitfall Vorbereitung, Hoai Lph 04 Terminsteuerung und 13 weitere Themen im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Lph 04 Risikoregister, Hoai Lph 04 Sachverstaendigen Prüfung, Hoai Lph 04 Schnittstelle Vob Bgb, Hoai Lph 04 Streitfall Vorbereitung, Hoai Lph 04 Terminsteuerung und 13 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Hoai Lph 04 Risikoregister, Hoai Lph 04 Sachverstaendigen Prüfung, Hoai Lph 04 Schnittstelle Vob Bgb, Hoai Lph 04 Streitfall Vorbereitung, Hoai Lph 04 Terminsteuerung und 13 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Lph 04 Risikoregister, Hoai Lph 04 Sachverstaendigen Prüfung, Hoai Lph 04 Schnittstelle Vob Bgb, Hoai Lph 04 Streitfall Vorbereitung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Lph 04 Risikoregister, Hoai Lph 04 Sachverstaendigen Prüfung, Hoai Lph 04 Schnittstelle Vob Bgb, Hoai Lph 04 Streitfall Vorbereitung, Hoai Lph 04 Terminsteuerung und 13 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Lph 04 Risikoregister, Hoai Lph 04 Sachverstaendigen Prüfung, Hoai Lph 04 Schnittstelle Vob Bgb, Hoai Lph 04 Streitfall Vorbereitung, Hoai Lph 04 Terminsteuerung und 13 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

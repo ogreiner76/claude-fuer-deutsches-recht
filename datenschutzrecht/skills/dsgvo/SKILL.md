@@ -1,12 +1,12 @@
 ---
 name: dsgvo
-description: "Nutze dies, wenn DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte DSGVO: Erstprüfung, Rollenklärung und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu DSGVO: Erstprüfung, Rollenklärung und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel / spezial dsgvo erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel / dsgvo erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

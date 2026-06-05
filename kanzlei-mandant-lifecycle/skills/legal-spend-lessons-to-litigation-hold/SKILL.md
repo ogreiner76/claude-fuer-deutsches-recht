@@ -1,13 +1,13 @@
 ---
 name: legal-spend-lessons-to-litigation-hold
-description: "Nutze dies, wenn Legal Spend Accruals, Lessons To Playbook, Litigation Hold Client, Litigation Roadmap Client, Mandant Self Service im Plugin Kanzlei Mandant Lifecycle konkret bearbeitet werden soll. Auslöser: Bitte Legal Spend Accruals, Lessons To Playbook, Litigation Hold Client, Litigation Roadmap Client, Mandant Self Service prüfen.; Erstelle eine Arbeitsfassung zu Legal Spend Accruals, Lessons To Playbook, Litigation Hold Client, Litigation Roadmap Client, Mandant Self Service.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legal Spend Accruals, Lessons To Playbook, Litigation Hold Client, Litigation Roadmap Client: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legal Spend Accruals, Lessons To Playbook, Litigation Hold Client, Litigation Roadmap Client, Mandant Self Service
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legal Spend Accruals, Lessons To Playbook, Litigation Hold Client, Litigation Roadmap Client, Mandant Self Service** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

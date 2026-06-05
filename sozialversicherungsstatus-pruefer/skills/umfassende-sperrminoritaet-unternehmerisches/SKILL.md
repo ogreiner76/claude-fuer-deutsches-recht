@@ -1,13 +1,13 @@
 ---
 name: umfassende-sperrminoritaet-unternehmerisches
-description: "Nutze dies, wenn Umfassende Sperrminoritaet, Unternehmerisches Risiko, Urlaub Krankheit Fortzahlung, Statusfeststellung Geschaeftsfuehrer Lehrer Freelancer im Plugin Sozialversicherungsstatus Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Umfassende Sperrminoritaet, Unternehmerisches Risiko, Urlaub Krankheit Fortzahlung, Statusfeststellung Geschaeftsfuehrer Lehrer Freelancer prüfen.; Erstelle eine Arbeitsfassung zu Umfassende Sperrminoritaet, Unternehmerisches Risiko, Urlaub Krankheit Fortzahlung, Statusfeststellung Geschaeftsfuehrer Lehrer Freelancer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umfassende Sperrminoritaet, Unternehmerisches Risiko, Urlaub Krankheit Fortzahlung, Statusfeststellung Geschaeftsfuehrer Lehrer Freelancer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umfassende Sperrminoritaet, Unternehmerisches Risiko, Urlaub Krankheit Fortzahlung, Statusfeststellung Geschaeftsfuehrer Lehrer Freelancer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umfassende Sperrminoritaet, Unternehmerisches Risiko, Urlaub Krankheit Fortzahlung, Statusfeststellung Geschaeftsfuehrer Lehrer Freelancer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

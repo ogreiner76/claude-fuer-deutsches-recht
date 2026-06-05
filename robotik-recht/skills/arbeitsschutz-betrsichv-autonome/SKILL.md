@@ -1,13 +1,13 @@
 ---
 name: arbeitsschutz-betrsichv-autonome
-description: "Nutze dies, wenn Arbeitsschutz Betrsichv Robotik, Autonome Lieferroboter Oeffentlicher Raum im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Arbeitsschutz Betrsichv Robotik, Autonome Lieferroboter Oeffentlicher Raum prüfen.; Erstelle eine Arbeitsfassung zu Arbeitsschutz Betrsichv Robotik, Autonome Lieferroboter Oeffentlicher Raum.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arbeitsschutz Betrsichv Robotik, Autonome Lieferroboter Oeffentlicher Raum: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arbeitsschutz Betrsichv Robotik, Autonome Lieferroboter Oeffentlicher Raum
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -59,7 +59,7 @@ Roboter im betrieblichen Einsatz sind Arbeitsmittel i. S. d. BetrSichV. Den Arbe
 - **ISO 10218-1/-2** Industrieroboter; **ISO/TS 15066** Cobot-Druck-/Kraftgrenzwerte.
 - **BetrVG** § 87 Abs. 1 Nr. 6 technische Überwachung, Nr. 7 Arbeits- und Gesundheitsschutz.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Gefährdungsbeurteilung** spezifisch für den Robotertyp und Arbeitsplatz; Beteiligung von Sifa, Betriebsarzt, Beschäftigten.
 2. **Risikobeurteilung des Herstellers** auswerten und auf den konkreten Einsatz übertragen; Restrisiken explizit benennen.
@@ -165,7 +165,7 @@ Roboter im betrieblichen Einsatz sind Arbeitsmittel i. S. d. BetrSichV. Den Arbe
 
 ## Worum geht es konkret
 
-Lieferroboter auf Gehwegen, in Fußgängerzonen und in Mischverkehrsräumen berühren ein Mosaik aus Bundes-, Landes- und Kommunalrecht: StVO/StVG, Landesstraßengesetze (Sondernutzung), Kommunalsatzungen, DSGVO (Kamerasensorik), KI-VO (autonome Wahrnehmung), MaschinenVO/ProdSG (Sicherheit) und Vertragsrecht zum Endkunden. Dieser Skill ordnet die Regulierungsebenen, gibt einen Genehmigungs-Workflow und enthält Vorlagen für Sondernutzungsanträge und Datenschutzhinweise.
+Lieferroboter auf Gehwegen, in Fußgängerzonen und in Mischverkehrsräumen berühren ein Mosaik aus Bundes-, Landes- und Kommunalrecht: StVO/StVG, Landesstraßengesetze (Sondernutzung), Kommunalsatzungen, DSGVO (Kamerasensorik), KI-VO (autonome Wahrnehmung), MaschinenVO/ProdSG (Sicherheit) und Vertragsrecht zum Endkunden. Dieser Skill ordnet die Regulierungsebenen, gibt einen Genehmigungs-und enthält Vorlagen für Sondernutzungsanträge und Datenschutzhinweise.
 
 ## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
@@ -186,7 +186,7 @@ Lieferroboter auf Gehwegen, in Fußgängerzonen und in Mischverkehrsräumen ber�
 - **MaschinenVO** VO (EU) 2023/1230 als Produkt; CE-Pflicht.
 - **ProdHaftG / VO (EU) 2024/2853** und § 823 BGB Halter-/Hersteller-/Betreiberhaftung.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Produktklassifizierung.** Maschine nach MaschinenVO; KI-Funktion einordnen (Anhang III KI-VO?); ggf. Funkanlagengesetz.
 2. **Genehmigung Verkehrsbehörde / Kommune.** Sondernutzungsantrag mit Fahrtrouten, Geschwindigkeit, Sicherheitsabständen, Notfall-Konzept; Anhörung Polizei, Tiefbauamt, Ordnungsamt.

@@ -1,12 +1,12 @@
 ---
 name: berufsrecht-sonderfall-edge-case
-description: "Nutze dies, wenn Berufsrecht: Sonderfall und Edge-Case-Prüfung im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Berufsrecht: Sonderfall und Edge-Case-Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Berufsrecht: Sonderfall und Edge-Case-Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Berufsrecht: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Berufsrecht: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Berufsrecht: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Berufsrecht: Sonderfall und Edge-Case-Prüfung / spezial berufsrecht sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Berufsrecht: Sonderfall und Edge-Case-Prüfung / berufsrecht sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,6 +1,6 @@
 ---
 name: rom-neu-019-ius-commune-lokale-statuten
-description: "Nutze dies, wenn Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht

@@ -1,20 +1,20 @@
 ---
 name: vertragsmarkup-key-beirat-haftung-billing
-description: "Nutze dies, wenn Mittelstand Corporate Ma Vertragsmarkup Key Issues, Beirat Haftung, Mittelstand Corporate Ma Billing Narratives, Mittelstand Corporate Ma Tabellenreview 3D Datenraum im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Mittelstand Corporate Ma Vertragsmarkup Key Issues, Beirat Haftung, Mittelstand Corporate Ma Billing Narratives, Mittelstand Corporate Ma Tabellenreview 3D Datenraum prüfen.; Erstelle eine Arbeitsfassung zu Mittelstand Corporate Ma Vertragsmarkup Key Issues, Beirat Haftung, Mittelstand Corporate Ma Billing Narratives, Mittelstand Corporate Ma Tabellenreview 3D Datenraum.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mittelstand Corporate Ma Vertragsmarkup Key Issues, Beirat Haftung, Mittelstand Corporate Ma Billing Narratives, Mittelstand Corporate Ma Tabellenreview 3d Datenraum: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mittelstand Corporate Ma Vertragsmarkup Key Issues, Beirat Haftung, Mittelstand Corporate Ma Billing Narratives, Mittelstand Corporate Ma Tabellenreview 3D Datenraum
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mittelstand Corporate Ma Vertragsmarkup Key Issues, Beirat Haftung, Mittelstand Corporate Ma Billing Narratives, Mittelstand Corporate Ma Tabellenreview 3D Datenraum** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-vertragsmarkup-key-issues` | Markup und Key Issues: Analysiert SPA/APA/NDA/Process-Letter-Markups, erstellt Key Issues Lists und Gegenmarkup-Vorschlaege nach Parteiperspektive. |
-| `beirat-haftung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-haftung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Haftung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `mittelstand-corporate-ma-billing-narratives` | Kanzlei erstellt Rechnung für M&A-Mandat und braucht praezise zeitgerechte Leistungsbeschreibungen: Time Narratives Phasenbudgets Workstream-Rechnungen Cap/Success-Fee-Berechnung. Normen RVG §§ 1 ff. BRAO § 49b AO-Steuerrecht. Prüfraster Workstream-Zeiterfassung Phasenzuordnung Korrektur Mandantsfreigabe. Output Narratives-Dokument Workstream-Abrechnung Rechnungsentwurf. Abgrenzung zu mittelstand-ma-erechnung-gobd (GoBD/XRechnung-Format). |
 | `mittelstand-corporate-ma-tabellenreview-3d-datenraum` | 3D-Tabellenreview im Datenraum: verbindet M&A-Datenraumprüfung mit interner Review-Matrix für Dokumente, Datenpunkte und Perspektiven Recht/Steuer/Wirtschaft. |
 
@@ -203,7 +203,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `beirat-haftung`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Haftung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Haftung
 
@@ -379,7 +379,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zweck
 
-Erstellt deal-taugliche Time Narratives, Phasenbudgets, Workstream-Rechnungen, Cap/Success-Fee-Hinweise und Matter-Controlling. Für GoBD, XRechnung und ZUGFeRD liegt der freistehende interne Workflow `mittelstand-ma-erechnung-gobd` im selben Plugin.
+Erstellt deal-taugliche Time Narratives, Phasenbudgets, Workstream-Rechnungen, Cap/Success-Fee-Hinweise und Matter-Controlling. Für GoBD, XRechnung und ZUGFeRD liegt der freistehende interne `mittelstand-ma-erechnung-gobd` im selben Plugin.
 
 ## Arbeitsmodus
 

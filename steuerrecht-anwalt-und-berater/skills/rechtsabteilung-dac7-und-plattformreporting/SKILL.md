@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-dac7-und-plattformreporting
-description: "Rechtsabteilungs-Spezialskill für DAC7 und Plattformreporting: Plattformbetreiber prüfen Meldepflicht, Verkäuferdaten und Korrekturprozesse. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für DAC7 und Plattformreporting: Plattformbetreiber prüfen Meldepflicht, Verkäuferdaten und Korrekturprozesse. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
 ---
 
 # Rechtsabteilung: DAC7 und Plattformreporting

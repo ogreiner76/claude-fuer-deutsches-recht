@@ -146,34 +146,34 @@ INFORMATION MEMORANDUM / PROCESS LETTER — [DEAL-NAME]
 STRENG VERTRAULICH
 
 1. UEBERSICHT TRANSAKTION
-   Zielgesellschaft: [NAME, Sitz, Beschreibung]
-   Transaktionsgegenstand: [100 % / X % Anteile / Assets]
-   Angestrebtes Closing: [QUARTAL / DATUM]
+ Zielgesellschaft: [NAME, Sitz, Beschreibung]
+ Transaktionsgegenstand: [100 % / X % Anteile / Assets]
+ Angestrebtes Closing: [QUARTAL / DATUM]
 
 2. PROZESS-KALENDER
-   NDA-Unterzeichnung bis: [DATUM]
-   Non-Binding Offer bis: [DATUM]
-   Management-Presentation: [KW]
-   Binding Offer bis: [DATUM]
-   Exklusivitaet: ab [DATUM], Dauer [X Wochen]
+ NDA-Unterzeichnung bis: [DATUM]
+ Non-Binding Offer bis: [DATUM]
+ Management-Presentation: [KW]
+ Binding Offer bis: [DATUM]
+ Exklusivitaet: ab [DATUM], Dauer [X Wochen]
 
 3. ANGEBOTSANFORDERUNGEN
-   Das Angebot muss enthalten:
-   a) Indikativen oder bindenden Kaufpreis (Enterprise Value und Equity Value)
-   b) Transaktionsstruktur (Share Deal / Asset Deal)
-   c) Wesentliche Vollzugsbedingungen (Kartellrecht, FDI, sonstige)
-   d) Finanzierungsnachweis / Funding Commitment
-   e) Geplantes Management-Konzept / Integrationsplan
-   f) Markierter SPA-Entwurf (Phase II)
+ Das Angebot muss enthalten:
+ a) Indikativen oder bindenden Kaufpreis (Enterprise Value und Equity Value)
+ b) Transaktionsstruktur (Share Deal / Asset Deal)
+ c) Wesentliche Vollzugsbedingungen (Kartellrecht, FDI, sonstige)
+ d) Finanzierungsnachweis / Funding Commitment
+ e) Geplantes Management-Konzept / Integrationsplan
+ f) Markierter SPA-Entwurf (Phase II)
 
 4. KONTAKTINFORMATION
-   Prozessbevollmaechtigter: [INVESTMENTBANK / KANZLEI]
-   Kontakt: [E-Mail]
+ Prozessbevollmaechtigter: [INVESTMENTBANK / KANZLEI]
+ Kontakt: [E-Mail]
 
 5. HINWEISE
-   - Alle Anfragen nur ueber die Prozessbeauftragten
-   - Kein direkter Kontakt zum Management ohne Erlaubnis
-   - Vertraulichkeit gemaess NDA; keine Weitergabe von Prozessinformationen
+ - Alle Anfragen nur ueber die Prozessbeauftragten
+ - Kein direkter Kontakt zum Management ohne Erlaubnis
+ - Vertraulichkeit gemaess NDA; keine Weitergabe von Prozessinformationen
 ```
 
 ## Bieter-Bewertungsmatrix

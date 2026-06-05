@@ -1,13 +1,13 @@
 ---
 name: klausel-entwerfen-low-risk-klauselbibliothek
-description: "Nutze dies, wenn Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope, Klauselvarianten Vergleich im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope, Klauselvarianten Vergleich prüfen.; Erstelle eine Arbeitsfassung zu Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope, Klauselvarianten Vergleich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope, Klauselvarianten Vergleich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klausel Entwerfen Balanced, Klausel Entwerfen Low Risk, Klauselbibliothek Aufbau, Klauselinventar Und Scope, Klauselvarianten Vergleich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,8 +15,8 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `klausel-entwerfen-balanced` | Output- und Streit-Skill für Klausel Entwerfen Balanced: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 | `klausel-entwerfen-low-risk` | Output- und Streit-Skill für Klausel Entwerfen Low Risk: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `klauselbibliothek-aufbau` | Einstiegs- und Workflow-Skill für Klauselbibliothek Aufbau: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
-| `klauselinventar-und-scope` | Einstiegs- und Workflow-Skill für Klauselinventar und Scope: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `klauselbibliothek-aufbau` | Einstiegs- und Arbeitsmodul für Klauselbibliothek Aufbau: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `klauselinventar-und-scope` | Einstiegs- und Arbeitsmodul für Klauselinventar und Scope: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 | `klauselvarianten-vergleich` | Output- und Streit-Skill für Klauselvarianten Vergleich: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsweg
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `klauselbibliothek-aufbau`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Klauselbibliothek Aufbau: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Klauselbibliothek Aufbau: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Klauselbibliothek Aufbau
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `klauselinventar-und-scope`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Klauselinventar und Scope: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Klauselinventar und Scope: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Klauselinventar und Scope
 

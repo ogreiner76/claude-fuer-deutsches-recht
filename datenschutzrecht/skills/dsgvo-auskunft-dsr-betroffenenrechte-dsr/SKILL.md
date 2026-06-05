@@ -1,13 +1,13 @@
 ---
 name: dsgvo-auskunft-dsr-betroffenenrechte-dsr
-description: "Nutze dies, wenn Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenrechte Prozess Leitfaden, Dsr Internationaler Datentransfer Spezial, Dsr Rechtsgrundlage Bauleiter im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenrechte Prozess Leitfaden, Dsr Internationaler Datentransfer Spezial, Dsr Rechtsgrundlage Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenrechte Prozess Leitfaden, Dsr Internationaler Datentransfer Spezial, Dsr Rechtsgrundlage Bauleiter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenrechte Prozess Leitfaden, Dsr Internationaler Datentransfer Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenrechte Prozess Leitfaden, Dsr Internationaler Datentransfer Spezial, Dsr Rechtsgrundlage Bauleiter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsgvo Auskunft, Dsgvo Auskunft Antwort, Dsr Betroffenenrechte Prozess Leitfaden, Dsr Internationaler Datentransfer Spezial, Dsr Rechtsgrundlage Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -224,7 +224,7 @@ wir bestätigen den Eingang Ihres Auskunftsersuchens vom [DATUM] und erteilen
 Ihnen hiermit Auskunft gemäß Art. 15 DSGVO:
 
 1. Verarbeitete Datenkategorien:
-   [LISTE NACH Art. 15 Abs. 1 lit. a DSGVO]
+ [LISTE NACH Art. 15 Abs. 1 lit. a DSGVO]
 
 2. Verarbeitungszwecke: [ZWECKE]
 
@@ -233,7 +233,7 @@ Ihnen hiermit Auskunft gemäß Art. 15 DSGVO:
 4. Speicherdauer / -kriterien: [FRIST ODER KRITERIEN]
 
 5. Rechte: Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18),
-   Widerspruch (Art. 21), Beschwerde Aufsichtsbehörde (Art. 77 DSGVO): [BEHOERDE].
+ Widerspruch (Art. 21), Beschwerde Aufsichtsbehörde (Art. 77 DSGVO): [BEHOERDE].
 
 6. Datenkopie: [ANLAGE / GESONDERT ÜBERMITTELT]
 
@@ -262,48 +262,48 @@ Strukturierter Ablauf zur vollständigen Bearbeitung eingehender Betroffenenanfr
 ## Ablauf
 
 1. **Eingangsklassifikation.**
-   - Anfrage-Art bestimmen: Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18), Datenportabilität (Art. 20), Widerspruch (Art. 21), Einwilligungswiderruf (Art. 7 Abs. 3)?
-   - Mehrfachanfragen erkennen (häufig: kombinierter Auskunfts- und Löschantrag).
-   - Handelt es sich um ein Auskunftsersuchen nach IFG/UIG statt DSGVO? (Abgrenzung bei öffentlichen Stellen)
+ - Anfrage-Art bestimmen: Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18), Datenportabilität (Art. 20), Widerspruch (Art. 21), Einwilligungswiderruf (Art. 7 Abs. 3)?
+ - Mehrfachanfragen erkennen (häufig: kombinierter Auskunfts- und Löschantrag).
+ - Handelt es sich um ein Auskunftsersuchen nach IFG/UIG statt DSGVO? (Abgrenzung bei öffentlichen Stellen)
 
 2. **Fristberechnung.**
-   - Grundfrist: 1 Monat ab Eingang, Art. 12 Abs. 3 Satz 1 DSGVO.
-   - Verlängerung um bis zu 2 Monate möglich bei Komplexität oder Vielzahl von Anfragen, Art. 12 Abs. 3 Satz 2 DSGVO.
-   - **Verlängerung erfordert Mitteilung an Betroffenen innerhalb der 1-Monatsfrist** mit Begründung.
-   - Fristende berechnen: [Eingangsdatum + 1 Monat] = [Datum]. Verlängerung bis [Datum + 2 Monate].
-   - Wochenenden und Feiertage: § 193 BGB, Art. 3 Abs. 4 EuGH-Verfahrensordnung (natürliches Monatsende).
+ - Grundfrist: 1 Monat ab Eingang, Art. 12 Abs. 3 Satz 1 DSGVO.
+ - Verlängerung um bis zu 2 Monate möglich bei Komplexität oder Vielzahl von Anfragen, Art. 12 Abs. 3 Satz 2 DSGVO.
+ - **Verlängerung erfordert Mitteilung an Betroffenen innerhalb der 1-Monatsfrist** mit Begründung.
+ - Fristende berechnen: [Eingangsdatum + 1 Monat] = [Datum]. Verlängerung bis [Datum + 2 Monate].
+ - Wochenenden und Feiertage: § 193 BGB, Art. 3 Abs. 4 EuGH-Verfahrensordnung (natürliches Monatsende).
 
 3. **Identitätsverifikation.**
-   - Ist die Identität des Antragstellers ausreichend nachgewiesen?
-   - Standard aus `CLAUDE.md` anwenden.
-   - Art. 12 Abs. 6 DSGVO: Bei begründeten Zweifeln kann zusätzliche Information angefordert werden – aber **keine unverhältnismäßige Identifikationshürde** (vgl. EDSA-Leitlinien 01/2022 zu DSAR, Abschn. 3.2).
-   - Identitätsprüfung bei Online-Diensten: Konto-Login-Bestätigung oder sichere Alternative; keine Ausweis-Kopien ohne konkreten Zweck (Daten dürfen nicht für andere Zwecke genutzt werden).
+ - Ist die Identität des Antragstellers ausreichend nachgewiesen?
+ - Standard aus `CLAUDE.md` anwenden.
+ - Art. 12 Abs. 6 DSGVO: Bei begründeten Zweifeln kann zusätzliche Information angefordert werden – aber **keine unverhältnismäßige Identifikationshürde** (vgl. EDSA-Leitlinien 01/2022 zu DSAR, Abschn. 3.2).
+ - Identitätsprüfung bei Online-Diensten: Konto-Login-Bestätigung oder sichere Alternative; keine Ausweis-Kopien ohne konkreten Zweck (Daten dürfen nicht für andere Zwecke genutzt werden).
 
 4. **Systemabfrage.**
-   - Alle relevanten Systeme aus der Systemliste in `CLAUDE.md` durchgehen.
-   - Kategorien: CRM, ERP, E-Mail-Archiv, Protokolldateien, Backups, Cloud-Dienste, Sub-AV-Systeme.
-   - Für jeden Treffer: Datenkategorie, Verarbeitungszweck, Rechtsgrundlage, Empfänger, Speicherfrist notieren.
-   - Keine eigenmächtige Löschung vor Abschluss der Prüfung (Dokumentationspflicht Art. 5 Abs. 2 DSGVO).
+ - Alle relevanten Systeme aus der Systemliste in `CLAUDE.md` durchgehen.
+ - Kategorien: CRM, ERP, E-Mail-Archiv, Protokolldateien, Backups, Cloud-Dienste, Sub-AV-Systeme.
+ - Für jeden Treffer: Datenkategorie, Verarbeitungszweck, Rechtsgrundlage, Empfänger, Speicherfrist notieren.
+ - Keine eigenmächtige Löschung vor Abschluss der Prüfung (Dokumentationspflicht Art. 5 Abs. 2 DSGVO).
 
 5. **Ausnahmenprüfung.**
-   - § 34 BDSG (Auskunftsverweigerung, z.B. zur Abwehr von Straftaten, Geschäftsgeheimnisse)
-   - § 35 BDSG (eingeschränkte Löschung, z.B. gesetzliche Aufbewahrungsfristen)
-   - Art. 17 Abs. 3 DSGVO (kein Löschrecht bei gesetzlicher Aufbewahrungspflicht, Geltendmachung/Verteidigung von Rechtsansprüchen)
-   - Art. 15 Abs. 4 DSGVO (Datenkopie darf Rechte Dritter nicht beeinträchtigen)
-   - Berufsgeheimnisschutz bei Kanzleien / medizinischen Einrichtungen (§ 203 StGB)
-   - Für jede angewandte Ausnahme: konkrete Norm und Begründung dokumentieren.
+ - § 34 BDSG (Auskunftsverweigerung, z.B. zur Abwehr von Straftaten, Geschäftsgeheimnisse)
+ - § 35 BDSG (eingeschränkte Löschung, z.B. gesetzliche Aufbewahrungsfristen)
+ - Art. 17 Abs. 3 DSGVO (kein Löschrecht bei gesetzlicher Aufbewahrungspflicht, Geltendmachung/Verteidigung von Rechtsansprüchen)
+ - Art. 15 Abs. 4 DSGVO (Datenkopie darf Rechte Dritter nicht beeinträchtigen)
+ - Berufsgeheimnisschutz bei Kanzleien / medizinischen Einrichtungen (§ 203 StGB)
+ - Für jede angewandte Ausnahme: konkrete Norm und Begründung dokumentieren.
 
 6. **Antwortentwurf erstellen.**
-   - Adressierung korrekt (Name, Adresse aus Anfrage).
-   - Positiv-Auskunft oder begründete Ablehnung/Einschränkung.
-   - Bei Auskunft: vollständige Informationen nach Art. 15 Abs. 1 DSGVO (alle 9 Ziffern) + ggf. Datenkopie Art. 15 Abs. 3 DSGVO.
-   - Hinweis auf Beschwerderecht bei Aufsichtsbehörde (Art. 77 DSGVO) in jedem Ablehnungsschreiben.
-   - Hinweis auf Klagerecht Art. 79 DSGVO.
-   - Keine Gebühren für Erstauskunft; bei offenkundig unbegründeten oder exzessiven Folgeanfragen: angemessenes Entgelt oder Ablehnung nach Art. 12 Abs. 5 DSGVO.
+ - Adressierung korrekt (Name, Adresse aus Anfrage).
+ - Positiv-Auskunft oder begründete Ablehnung/Einschränkung.
+ - Bei Auskunft: vollständige Informationen nach Art. 15 Abs. 1 DSGVO (alle 9 Ziffern) + ggf. Datenkopie Art. 15 Abs. 3 DSGVO.
+ - Hinweis auf Beschwerderecht bei Aufsichtsbehörde (Art. 77 DSGVO) in jedem Ablehnungsschreiben.
+ - Hinweis auf Klagerecht Art. 79 DSGVO.
+ - Keine Gebühren für Erstauskunft; bei offenkundig unbegründeten oder exzessiven Folgeanfragen: angemessenes Entgelt oder Ablehnung nach Art. 12 Abs. 5 DSGVO.
 
 7. **Dokumentation.**
-   - Eingang, Frist, Bearbeitungsschritte, Ausnahmen, Ergebnis im Datenschutzregister erfassen.
-   - Art. 5 Abs. 2 DSGVO (Rechenschaftspflicht).
+ - Eingang, Frist, Bearbeitungsschritte, Ausnahmen, Ergebnis im Datenschutzregister erfassen.
+ - Art. 5 Abs. 2 DSGVO (Rechenschaftspflicht).
 
 ## Quellen und Zitierweise
 
@@ -472,7 +472,7 @@ personenbezogenen Daten gemäß Art. 15 DSGVO:
 3. Empfänger (Art. 15 Abs. 1 lit. c): [EMPFAENGER]
 4. Speicherdauer (Art. 15 Abs. 1 lit. d): [FRIST/KRITERIEN]
 5. Rechte (Art. 15 Abs. 1 lit. e): Berichtigung, Löschung, Einschränkung,
-   Widerspruch, Beschwerde bei [AUFSICHTSBEHOERDE].
+ Widerspruch, Beschwerde bei [AUFSICHTSBEHOERDE].
 6. Herkunft der Daten (Art. 15 Abs. 1 lit. g): [HERKUNFT]
 7. Automatisierte Entscheidungen (Art. 15 Abs. 1 lit. h): [ja/nein]
 

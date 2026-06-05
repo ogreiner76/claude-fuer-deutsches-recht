@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-004-erster-titel-1-personen-stand
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 1 Personen und Stand im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 1 Personen und Stand prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 1 Personen und Stand.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 1 Personen und Stand: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 1 Personen und Stand

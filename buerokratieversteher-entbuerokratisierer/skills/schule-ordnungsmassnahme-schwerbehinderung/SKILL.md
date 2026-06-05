@@ -1,13 +1,13 @@
 ---
 name: schule-ordnungsmassnahme-schwerbehinderung
-description: "Nutze dies, wenn Schule Ordnungsmassnahme, Schwerbehinderung Gdb, Sozialamt Grundsicherung, Sprach Und Verstehensprofil im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Schule Ordnungsmassnahme, Schwerbehinderung Gdb, Sozialamt Grundsicherung, Sprach Und Verstehensprofil prüfen.; Erstelle eine Arbeitsfassung zu Schule Ordnungsmassnahme, Schwerbehinderung Gdb, Sozialamt Grundsicherung, Sprach Und Verstehensprofil.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schule Ordnungsmassnahme, Schwerbehinderung Gdb, Sozialamt Grundsicherung, Sprach Und Verstehensprofil: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Schule Ordnungsmassnahme, Schwerbehinderung Gdb, Sozialamt Grundsicherung, Sprach Und Verstehensprofil
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schule Ordnungsmassnahme, Schwerbehinderung Gdb, Sozialamt Grundsicherung, Sprach Und Verstehensprofil** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Schule Ordnungsmassnahme, Schwerbehinderung Gdb, Sozialamt Grundsicherung
 ## Aufgabe
 Hilft bei Verweis, Unterrichtsausschluss, Schulwechselandrohung, Anhörung und Elternstellungnahme.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei Antrag, Befundberichten, Bescheid, Merkzeichen, Widerspruch und Neufeststellung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei Grundsicherung, Hilfe zum Lebensunterhalt, Mehrbedarf, Unterkunft, Rückforderung und Widerspruch.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Fragt zu Beginn respektvoll, in welcher Sprache, Detailtiefe und Tonalität erklärt werden soll; berücksichtigt Deutsch als Zweitsprache und Juristendeutsch-Hürden.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

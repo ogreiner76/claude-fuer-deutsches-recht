@@ -1,13 +1,13 @@
 ---
 name: sanity-check-sozialleistungen-uebersicht
-description: "Nutze dies, wenn Sanity Check Selbstvertretung Sozialgericht, Sozialleistungen Uebersicht Sgb, Teilstattgabe Vollstattgabe Verstehen, Terminvorbereitung Laien Checkliste Sozialgericht, Typische Fehler Selbstvertreter Sozialgericht im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Sanity Check Selbstvertretung Sozialgericht, Sozialleistungen Uebersicht Sgb, Teilstattgabe Vollstattgabe Verstehen, Terminvorbereitung Laien Checkliste Sozialgericht, Typische Fehler Selbstvertreter Sozialgericht prüfen.; Erstelle eine Arbeitsfassung zu Sanity Check Selbstvertretung Sozialgericht, Sozialleistungen Uebersicht Sgb, Teilstattgabe Vollstattgabe Verstehen, Terminvorbereitung Laien Checkliste Sozialgericht, Typische Fehler Selbstvertreter Sozialgericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sanity Check Selbstvertretung Sozialgericht, Sozialleistungen Uebersicht Sgb, Teilstattgabe Vollstattgabe Verstehen, Terminvorbereitung Laien Checkliste Sozialgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sanity Check Selbstvertretung Sozialgericht, Sozialleistungen Uebersicht Sgb, Teilstattgabe Vollstattgabe Verstehen, Terminvorbereitung Laien Checkliste Sozialgericht, Typische Fehler Selbstvertreter Sozialgericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sanity Check Selbstvertretung Sozialgericht, Sozialleistungen Uebersicht Sgb, Teilstattgabe Vollstattgabe Verstehen, Terminvorbereitung Laien Checkliste Sozialgericht, Typische Fehler Selbstvertreter Sozialgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

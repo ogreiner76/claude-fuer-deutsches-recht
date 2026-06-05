@@ -1,6 +1,6 @@
 ---
 name: rom-neu-009-samnitische-rechtskultur
-description: "Nutze dies, wenn Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung

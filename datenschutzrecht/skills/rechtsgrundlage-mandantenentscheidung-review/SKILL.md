@@ -1,13 +1,13 @@
 ---
 name: rechtsgrundlage-mandantenentscheidung-review
-description: "Nutze dies, wenn Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status prüfen.; Erstelle eine Arbeitsfassung zu Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsgrundlage Mandantenentscheidung, Review Risikoampel Und Gegenargumente, Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status
+# Rechtsgrundlage Mandantenentscheidung, Review Risikoampel Und Gegenargumente, Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsgrundlage Mandantenentscheidung, Review Risikoampel Und Gegenargumente, Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel Und Gegenargumente, Spezial Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsgrundlage Mandantenentscheidung, Review Risikoampel Und Gegenargumente, Verarbeitungsverzeichnis Formular Portal Und Einreichung, Tia Edpb Roadmap 6 Schritte Deutsch, Tia En Data Privacy Framework Status** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Rechtsgrundlage Mandantenentscheidung, Spezial Review Risikoampel
 # Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage / spezial rechtsgrundlage mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechtsgrundlage: Mandantenkommunikation und Entscheidungsvorlage / rechtsgrundlage mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -87,7 +87,7 @@ Einwilligung wirkt geräumig, ist aber widerruflich und schafft Dokumentationsla
 # Review: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Review: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Review: Risikoampel, Gegenargumente und Verteidigungslinien / spezial review risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Review: Risikoampel, Gegenargumente und Verteidigungslinien / review risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -128,7 +128,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik / spezial verarbeitungsverzeichnis formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik / verarbeitungsverzeichnis formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -212,10 +212,10 @@ Optionen:
 
 - **Art. 45 DSGVO – Angemessenheitsbeschluss** (z. B. UK, Schweiz, Japan, Suedkorea, EU-US DPF fuer gelistete Importeure).
 - **Art. 46 DSGVO – Geeignete Garantien**:
-  - SCC (Beschluss (EU) 2021/914, Module 1-4),
-  - BCR (Art. 47),
-  - Genehmigte Verhaltensregeln / Zertifizierungen,
-  - Behoerdliche Standardvertragsklauseln.
+ - SCC (Beschluss (EU) 2021/914, Module 1-4),
+ - BCR (Art. 47),
+ - Genehmigte Verhaltensregeln / Zertifizierungen,
+ - Behoerdliche Standardvertragsklauseln.
 - **Art. 49 DSGVO – Ausnahmen** (Einwilligung, Vertragserfuellung, Rechtsanspruch) – nur eng auslegen, keine Dauerloesung.
 
 Bei Art. 45 endet die TIA-Pruefung haeufig hier (Schritt 3-5 dann reduziert).
@@ -229,10 +229,10 @@ Pruefen:
 - Welche Behoerden haben Zugriffsbefugnisse?
 - Welche Eingriffstiefe? Welche Garantien (gerichtliche Kontrolle, Anlassbezug)?
 - Empfehlung 02/2020 – Europaeische Wesentliche Garantien (EEG):
-  - Garantie A: klare, praezise und vorhersehbare Regelungen.
-  - Garantie B: Notwendigkeit und Verhaeltnismaessigkeit.
-  - Garantie C: unabhaengiger Pruefmechanismus.
-  - Garantie D: effektive Rechtsschutzmoeglichkeiten der betroffenen Person.
+ - Garantie A: klare, praezise und vorhersehbare Regelungen.
+ - Garantie B: Notwendigkeit und Verhaeltnismaessigkeit.
+ - Garantie C: unabhaengiger Pruefmechanismus.
+ - Garantie D: effektive Rechtsschutzmoeglichkeiten der betroffenen Person.
 - Sind die Garantien im Recht **und** in der Praxis erfuellt?
 
 Quellen fuer Bewertung: offizielle Berichte, Transparenzberichte des Importeurs, EDPB-Empfehlungen, frei zugaengliche Auswertungen.
@@ -275,35 +275,35 @@ Kapitelueberschriften fuer das TIA-Dokument:
 
 ```
 1. Know your transfers
-   1.1 Transferparteien
-   1.2 Datenarten
-   1.3 Subprozessoren und Onward Transfers
-   1.4 Datenflussdiagramm
+ 1.1 Transferparteien
+ 1.2 Datenarten
+ 1.3 Subprozessoren und Onward Transfers
+ 1.4 Datenflussdiagramm
 
 2. Transfer tool
-   2.1 Gewaehltes Instrument
-   2.2 Begruendung der Wahl
+ 2.1 Gewaehltes Instrument
+ 2.2 Begruendung der Wahl
 
 3. Bewertung Drittlandsrecht und -praxis
-   3.1 Behoerdliche Zugriffsbefugnisse
-   3.2 EEG-Pruefung (A, B, C, D)
-   3.3 Transparenzberichte und Erfahrungswerte des Importeurs
+ 3.1 Behoerdliche Zugriffsbefugnisse
+ 3.2 EEG-Pruefung (A, B, C, D)
+ 3.3 Transparenzberichte und Erfahrungswerte des Importeurs
 
 4. Ergaenzende Schutzmassnahmen
-   4.1 Technisch
-   4.2 Vertraglich
-   4.3 Organisatorisch
-   4.4 Wirkungsbewertung
+ 4.1 Technisch
+ 4.2 Vertraglich
+ 4.3 Organisatorisch
+ 4.4 Wirkungsbewertung
 
 5. Verfahrensschritte
-   5.1 Vertraglich umgesetzte Massnahmen
-   5.2 Aufsichtsbehoerden-Konsultation (falls erforderlich)
-   5.3 Sign-off
+ 5.1 Vertraglich umgesetzte Massnahmen
+ 5.2 Aufsichtsbehoerden-Konsultation (falls erforderlich)
+ 5.3 Sign-off
 
 6. Re-evaluation
-   6.1 Trigger fuer Neubewertung
-   6.2 Naechstes Review-Datum
-   6.3 Notfallaussetzungs-Prozess
+ 6.1 Trigger fuer Neubewertung
+ 6.2 Naechstes Review-Datum
+ 6.3 Notfallaussetzungs-Prozess
 ```
 
 ## Typische Fehler
@@ -395,7 +395,7 @@ This skill provides an English-language assessment of the EU-US Data Privacy Fra
 
 - The Commission periodically reviews the effectiveness of the DPF; the **first review in summer 2024** confirmed the decision; further reviews are scheduled approximately every four years, with ad hoc reviews possible.
 
-## Workflow / Checklist
+## / Checklist
 
 1. **Verify the exact name** of the US entity in the DPF list.
 2. **Check status** "Active"; if "Inactive" -> no DPF reliance.
@@ -413,20 +413,20 @@ This skill provides an English-language assessment of the EU-US Data Privacy Fra
 
 ```
 DPF Check – Importer: [exact name as listed on DPF list]
-Retrieval date:        [YYYY-MM-DD]
-Retrieval URL:         https://www.dataprivacyframework.gov/list
-Retrieved by:          [user]
-Listing status:        Active / Inactive
-Certification date:    [...]
+Retrieval date: [YYYY-MM-DD]
+Retrieval URL: https://www.dataprivacyframework.gov/list
+Retrieved by: [user]
+Listing status: Active / Inactive
+Certification date: [...]
 Next re-certification: [...]
-Track:                 EU-US DPF / Swiss-US DPF / UK Extension
-HR data covered:       Yes / No
-Non-HR data covered:   Yes / No
-Listed services:       [reconcile with privacy policy]
+Track: EU-US DPF / Swiss-US DPF / UK Extension
+HR data covered: Yes / No
+Non-HR data covered: Yes / No
+Listed services: [reconcile with privacy policy]
 Independent Recourse Mechanism: [AAA / JAMS / EU DPA Panel]
-Assessment:            DPF reliable / partially reliable / not reliable
-Residual risk:         [...]
-Fallback clause:       [reference]
+Assessment: DPF reliable / partially reliable / not reliable
+Residual risk: [...]
+Fallback clause: [reference]
 ```
 
 ### TIA Step 2 wording

@@ -1,13 +1,13 @@
 ---
 name: unfreundliche-unsachliche-umform-anwaltsbrief
-description: "Nutze dies, wenn Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Unfreundliche Tatbestand Beweis Und Belege, Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial
+# Unfreundliche Tatbestand Beweis Und Belege, Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Unfreundliche Tatbestand Beweis Und Belege, Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Unfreundliche Tatbestand Beweis Und Belege, Spezial Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `email-umformulierer-berufsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Unfreundliche Tatbestand Beweis Und Belege, Unsachliche Dokumentenmatrix Und Lueckenliste, Umform Anwaltsbrief An Gegner Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `email-umformulierer-berufsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

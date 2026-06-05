@@ -1,6 +1,6 @@
 ---
 name: bietet-fehlerkatalog
-description: "Nutze dies, wenn Bietet Fehlerkatalog im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Bietet Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Bietet Fehlerkatalog

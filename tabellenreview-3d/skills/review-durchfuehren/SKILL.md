@@ -39,10 +39,10 @@ Das ist der Hauptlauf. Wenn der Würfel 25 Spalten 200 Zeilen und 5 Arbeitsblät
 4. **Belegkette schreiben:** wörtliches Zitat in Anführungszeichen, danach Fundstelle (Datei-ID + Seite + Absatz + ggf. Ziffer).
 5. **Ampel setzen:** anhand `ampel-regel` aus dem Spaltenprompt (rot / gelb / grün).
 6. **Prüfer-Flag setzen wenn:**
-   - OCR-Konfidenz unter 90 Prozent
-   - Antworttyp `zitat-mit-fundstelle` aber kein Zitat extrahierbar
-   - Konflikt zwischen Spalten- und Zeilenprompt
-   - Mehrdeutigkeit (mehrere plausible Antworten im Dokument)
+ - OCR-Konfidenz unter 90 Prozent
+ - Antworttyp `zitat-mit-fundstelle` aber kein Zitat extrahierbar
+ - Konflikt zwischen Spalten- und Zeilenprompt
+ - Mehrdeutigkeit (mehrere plausible Antworten im Dokument)
 7. **Querweis aufbauen:** wenn Zellen-Ergebnis auf anderen Vertrag referenziert (`siehe Anlage 7 zu Vertrag X`) als Cross-Ref vermerken.
 8. **Cache prüfen:** bei Quasi-Duplikaten (Ähnlichkeit über 95 Prozent) zur Zelle eines bereits geprüften Dokuments Cache-Treffer vorschlagen — Prüfer entscheidet ob übernommen.
 

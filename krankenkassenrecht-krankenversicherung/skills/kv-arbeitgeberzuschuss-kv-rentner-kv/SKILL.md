@@ -1,13 +1,13 @@
 ---
 name: kv-arbeitgeberzuschuss-kv-rentner-kv
-description: "Nutze dies, wenn Kv 040 Arbeitgeberzuschuss Pkv Und Entgeltabrechnung, Kv 041 Rentner Krankenversicherung Der Rentner Kvdr, Kv 042 Versorgungswerk Krankenversicherung Im Ruhestand im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 040 Arbeitgeberzuschuss Pkv Und Entgeltabrechnung, Kv 041 Rentner Krankenversicherung Der Rentner Kvdr, Kv 042 Versorgungswerk Krankenversicherung Im Ruhestand prüfen.; Erstelle eine Arbeitsfassung zu Kv 040 Arbeitgeberzuschuss Pkv Und Entgeltabrechnung, Kv 041 Rentner Krankenversicherung Der Rentner Kvdr, Kv 042 Versorgungswerk Krankenversicherung Im Ruhestand.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 040 Arbeitgeberzuschuss Pkv Und Entgeltabrechnung, Kv 041 Rentner Krankenversicherung Der Rentner Kvdr, Kv 042 Versorgungswerk Krankenversicherung Im Ruhestand: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 040 Arbeitgeberzuschuss Pkv Und Entgeltabrechnung, Kv 041 Rentner Krankenversicherung Der Rentner Kvdr, Kv 042 Versorgungswerk Krankenversicherung Im Ruhestand
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 040 Arbeitgeberzuschuss Pkv Und Entgeltabrechnung, Kv 041 Rentner Krankenversicherung Der Rentner Kvdr, Kv 042 Versorgungswerk Krankenversicherung Im Ruhestand** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

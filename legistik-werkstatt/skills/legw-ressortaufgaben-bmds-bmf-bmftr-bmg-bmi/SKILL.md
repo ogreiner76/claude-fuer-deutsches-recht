@@ -1,13 +1,13 @@
 ---
 name: legw-ressortaufgaben-bmds-bmf-bmftr-bmg-bmi
-description: "Nutze dies, wenn Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben Bmftr, Legw Ressortaufgaben Bmg, Legw Ressortaufgaben Bmi und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben Bmftr, Legw Ressortaufgaben Bmg, Legw Ressortaufgaben Bmi und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben Bmftr, Legw Ressortaufgaben Bmg, Legw Ressortaufgaben Bmi und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben Bmftr, Legw Ressortaufgaben Bmg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben Bmftr, Legw Ressortaufgaben Bmg, Legw Ressortaufgaben Bmi und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben Bmftr, Legw Ressortaufgaben Bmg, Legw Ressortaufgaben Bmi und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -60,7 +60,7 @@ Für **Legw Ressortaufgaben Bmds, Legw Ressortaufgaben Bmf, Legw Ressortaufgaben
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -79,28 +79,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMDS-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMDS-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -112,17 +112,17 @@ Nachgeordnete Behoerden des BMDS im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              BMDS
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMDS-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmds-<thema>; normhierarchie-routing
+Ressort: BMDS
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMDS-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmds-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung
@@ -164,7 +164,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -183,28 +183,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMF-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMF-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -216,17 +216,17 @@ Nachgeordnete Behoerden des BMF im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              BMF
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMF-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmf-<thema>; normhierarchie-routing
+Ressort: BMF
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMF-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmf-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung
@@ -268,7 +268,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (HRG; WissZeitVG; WRG; WissTrAG; ATG; BNatSchG (Biotech); GenTG; KI-VO (EU).).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -287,28 +287,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMFTR-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMFTR-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -320,17 +320,17 @@ Nachgeordnete Behoerden des BMFTR im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              BMFTR
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMFTR-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmftr-<thema>; normhierarchie-routing
+Ressort: BMFTR
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMFTR-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmftr-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung
@@ -372,7 +372,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (AMG; MPG; MPDG; SGB V; SGB XI; IfSG; BApO; KHG; KHEntgG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -391,28 +391,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMG-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMG-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -424,17 +424,17 @@ Nachgeordnete Behoerden des BMG im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              BMG
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMG-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmg-<thema>; normhierarchie-routing
+Ressort: BMG
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMG-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmg-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung
@@ -476,7 +476,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (BPolG; BKAG; AufenthG; StAG; VwVfG; ZSKG; BBG; BeamtStG; PassG; PStG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -495,28 +495,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMI-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMI-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -528,17 +528,17 @@ Nachgeordnete Behoerden des BMI im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              BMI
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMI-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmi-<thema>; normhierarchie-routing
+Ressort: BMI
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMI-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmi-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung
@@ -580,7 +580,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (BGB; HGB; StGB; StPO; ZPO; GVG; UWG; UKlaG; BDSG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -599,28 +599,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMJV-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMJV-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -632,17 +632,17 @@ Nachgeordnete Behoerden des BMJV im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              BMJV
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMJV-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmjv-<thema>; normhierarchie-routing
+Ressort: BMJV
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMJV-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmjv-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung
@@ -684,7 +684,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (GAKG; TierSchG; LFGB; BWaldG; BJagdG; OeLG; PflSchG; DueV; AgrarZahlG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -703,28 +703,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMLEH-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMLEH-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -736,17 +736,17 @@ Nachgeordnete Behoerden des BMLEH im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              BMLEH
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMLEH-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmleh-<thema>; normhierarchie-routing
+Ressort: BMLEH
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMLEH-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmleh-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung
@@ -788,7 +788,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -807,28 +807,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMUKN-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMUKN-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -840,17 +840,17 @@ Nachgeordnete Behoerden des BMUKN im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              BMUKN
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMUKN-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmukn-<thema>; normhierarchie-routing
+Ressort: BMUKN
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMUKN-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmukn-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung

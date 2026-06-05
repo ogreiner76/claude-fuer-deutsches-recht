@@ -52,15 +52,15 @@ Die erste Würfel-Achse — Spalten — ist die wichtigste. Ein schlechter Spalt
 
 ```yaml
 - id: change-of-control
-  titel: "Change of Control"
-  prompt: |
-    Enthält der Vertrag eine Klausel die bei Kontrollwechsel ...
-  antworttyp: zitat-mit-fundstelle
-  pflichtfeld: true
-  ampel-regel:
-    rot: "Klausel vorhanden + harte Kündigungsfolge ohne Heilung"
-    gelb: "Zustimmungsvorbehalt mit unklarer Schwelle"
-    gruen: "Keine Klausel oder branchenüblicher Standard"
+ titel: "Change of Control"
+ prompt: |
+ Enthält der Vertrag eine Klausel die bei Kontrollwechsel ...
+ antworttyp: zitat-mit-fundstelle
+ pflichtfeld: true
+ ampel-regel:
+ rot: "Klausel vorhanden + harte Kündigungsfolge ohne Heilung"
+ gelb: "Zustimmungsvorbehalt mit unklarer Schwelle"
+ gruen: "Keine Klausel oder branchenüblicher Standard"
 ```
 
 ## Ausgabe

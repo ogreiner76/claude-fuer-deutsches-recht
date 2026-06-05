@@ -154,11 +154,11 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 3. **Ansaessigkeitsbescheinigung des Empfaengerstaats anfordern** — Vorlauf 4-8 Wochen.
 4. **Form auswaehlen**: Freistellungsbescheinigung (§ 50c Abs. 2 EStG) oder Erstattung (§ 50c Abs. 3 EStG); BZSt-Online-Portal BOP.
 5. **Anlagen zusammenstellen**:
-   - Ansaessigkeitsbescheinigung (Original oder beglaubigte Kopie).
-   - Lizenzvertrag (vollstaendig).
-   - Verguetungsabrechnungen.
-   - Substanzdokumentation (Personal, Geschaeftsraeume).
-   - Steuerbescheinigung des deutschen Vergueterschuldners (KapErtSt-Bescheinigung).
+ - Ansaessigkeitsbescheinigung (Original oder beglaubigte Kopie).
+ - Lizenzvertrag (vollstaendig).
+ - Verguetungsabrechnungen.
+ - Substanzdokumentation (Personal, Geschaeftsraeume).
+ - Steuerbescheinigung des deutschen Vergueterschuldners (KapErtSt-Bescheinigung).
 6. **Einreichung digital ueber BOP**.
 7. **Bearbeitung 6-24 Monate**; Rueckfragen fristgerecht beantworten.
 8. **Bei Ablehnung**: Einspruch innerhalb eines Monats; ggf. Klage FG Koeln.

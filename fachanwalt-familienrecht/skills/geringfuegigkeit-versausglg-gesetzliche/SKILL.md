@@ -1,13 +1,13 @@
 ---
 name: geringfuegigkeit-versausglg-gesetzliche
-description: "Nutze dies, wenn Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg prüfen.; Erstelle eine Arbeitsfassung zu Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg, Interne Teilung 10 Versausglg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -158,7 +158,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Auftrag
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
 
 ## Normanker
 

@@ -8,7 +8,7 @@ description: "Prüft Satzungsänderung, Mehrheit, Antragsfrist, Bekanntmachung, 
 ## Aufgabe
 Prüft Satzungsänderung, Mehrheit, Antragsfrist, Bekanntmachung, Protokoll, Anzeige und Folgeänderungen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

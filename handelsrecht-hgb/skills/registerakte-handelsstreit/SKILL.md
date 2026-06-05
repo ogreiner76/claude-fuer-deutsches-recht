@@ -1,13 +1,13 @@
 ---
 name: registerakte-handelsstreit
-description: "Nutze dies, wenn Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit prüfen.; Erstelle eine Arbeitsfassung zu Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Registerakte Und Lueckenliste, Verhandlung Handelsstreit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit
+# Registerakte Und Lueckenliste, Verhandlung Handelsstreit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Registerakte Und Lueckenliste, Verhandlung Handelsstreit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -18,7 +18,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Registerakte Und Lueckenliste, Workflow Verhandlung Handelsstreit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Registerakte Und Lueckenliste, Verhandlung Handelsstreit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `handelsrecht-hgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

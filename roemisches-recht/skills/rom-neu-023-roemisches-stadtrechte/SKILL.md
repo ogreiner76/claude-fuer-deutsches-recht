@@ -1,6 +1,6 @@
 ---
 name: rom-neu-023-roemisches-stadtrechte
-description: "Nutze dies, wenn Römisches Recht: Römisches Recht und Stadtrechte Norditalien im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Römisches Recht und Stadtrechte Norditalien prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Römisches Recht und Stadtrechte Norditalien.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Römisches Recht und Stadtrechte Norditalien: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Römisches Recht und Stadtrechte Norditalien

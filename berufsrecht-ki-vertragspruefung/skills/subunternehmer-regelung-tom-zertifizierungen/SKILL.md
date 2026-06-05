@@ -1,13 +1,13 @@
 ---
 name: subunternehmer-regelung-tom-zertifizierungen
-description: "Nutze dies, wenn Subunternehmer Regelung Prüfen, Tom Und Zertifizierungen Prüfen im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Subunternehmer Regelung Prüfen, Tom Und Zertifizierungen Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Subunternehmer Regelung Prüfen, Tom Und Zertifizierungen Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Subunternehmer Regelung Prüfen, Tom Und Zertifizierungen Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Subunternehmer Regelung Prüfen, Tom Und Zertifizierungen Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Subunternehmer Regelung Prüfen, Tom Und Zertifizierungen Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -86,7 +86,7 @@ Auch die Subunternehmer müssen über §§ 203, 204 StGB belehrt werden (Abs. 4 
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Punkt | Fundstelle | Ampel | Bemerkung |
@@ -277,7 +277,7 @@ DSGVO-spezifisches Konformitätsverfahren nach Art. 40 DS-GVO. Hilfreich, aber k
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Punkt | Status | Ampel | Bemerkung |
 |---|---|---|---|

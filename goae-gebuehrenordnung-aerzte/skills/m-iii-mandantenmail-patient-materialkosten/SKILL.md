@@ -1,13 +1,13 @@
 ---
 name: m-iii-mandantenmail-patient-materialkosten
-description: "Nutze dies, wenn M Iii M Iv Labor Delegation Speziallabor, Mandantenmail Patient Freundlich Klar, Materialkosten Auslagen Abgrenzung 10 Goae im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte M Iii M Iv Labor Delegation Speziallabor, Mandantenmail Patient Freundlich Klar, Materialkosten Auslagen Abgrenzung 10 Goae prüfen.; Erstelle eine Arbeitsfassung zu M Iii M Iv Labor Delegation Speziallabor, Mandantenmail Patient Freundlich Klar, Materialkosten Auslagen Abgrenzung 10 Goae.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei M Iii M Iv Labor Delegation Speziallabor, Mandantenmail Patient Freundlich Klar, Materialkosten Auslagen Abgrenzung 10 Goae: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # M Iii M Iv Labor Delegation Speziallabor, Mandantenmail Patient Freundlich Klar, Materialkosten Auslagen Abgrenzung 10 Goae
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **M Iii M Iv Labor Delegation Speziallabor, Mandantenmail Patient Freundlich Klar, Materialkosten Auslagen Abgrenzung 10 Goae** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

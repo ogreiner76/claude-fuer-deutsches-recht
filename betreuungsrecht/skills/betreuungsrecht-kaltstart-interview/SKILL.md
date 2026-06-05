@@ -75,12 +75,12 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/b
 
 - Was eingerichtet wurde (Zusammenfassung der Antworten)
 - Welche Skills jetzt sinnvoll als nächstes laufen können:
-  - `/betreuungsrecht:vermögensverzeichnis-prüfung` — bei Eröffnung einer Betreuung
-  - `/betreuungsrecht:genehmigungspflicht-prüfung` — vor wesentlichen Geschäften
-  - `/betreuungsrecht:jahresbericht-betreuungsgericht` — bei jährlicher Berichtspflicht
-  - `/betreuungsrecht:ehrenamtlicher-betreuer-erster-monat` — bei familiärer oder ehrenamtlicher Erstbetreuung
-  - `/betreuungsrecht:dokumentenscan-aktenablage-und-belegmappe` — bei unsortierten Scans, Fotos und Bescheiden
-  - `/betreuungsrecht:kalender-reminder-und-fristenmanagement` — für Berichtspflichten, Bescheidfristen und Routinekontakte
+ - `/betreuungsrecht:vermögensverzeichnis-prüfung` — bei Eröffnung einer Betreuung
+ - `/betreuungsrecht:genehmigungspflicht-prüfung` — vor wesentlichen Geschäften
+ - `/betreuungsrecht:jahresbericht-betreuungsgericht` — bei jährlicher Berichtspflicht
+ - `/betreuungsrecht:ehrenamtlicher-betreuer-erster-monat` — bei familiärer oder ehrenamtlicher Erstbetreuung
+ - `/betreuungsrecht:dokumentenscan-aktenablage-und-belegmappe` — bei unsortierten Scans, Fotos und Bescheiden
+ - `/betreuungsrecht:kalender-reminder-und-fristenmanagement` — für Berichtspflichten, Bescheidfristen und Routinekontakte
 - Hinweis auf Datenschutz, Vertraulichkeit und sparsame Verarbeitung sensibler Gesundheits- und Vermögensdaten
 
 ## Aktuelle Rechtsprechung

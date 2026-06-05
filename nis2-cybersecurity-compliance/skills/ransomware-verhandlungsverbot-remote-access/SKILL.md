@@ -1,13 +1,13 @@
 ---
 name: ransomware-verhandlungsverbot-remote-access
-description: "Nutze dies, wenn Ransomware Verhandlungsverbot, Remote Access Vpn Zero Trust, Risk Register Cyber, Screenshots Datenabfluss im Plugin Nis2 Cybersecurity Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ransomware Verhandlungsverbot, Remote Access Vpn Zero Trust, Risk Register Cyber, Screenshots Datenabfluss prüfen.; Erstelle eine Arbeitsfassung zu Ransomware Verhandlungsverbot, Remote Access Vpn Zero Trust, Risk Register Cyber, Screenshots Datenabfluss.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ransomware Verhandlungsverbot, Remote Access Vpn Zero Trust, Risk Register Cyber, Screenshots Datenabfluss: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ransomware Verhandlungsverbot, Remote Access Vpn Zero Trust, Risk Register Cyber, Screenshots Datenabfluss
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ransomware Verhandlungsverbot, Remote Access Vpn Zero Trust, Risk Register Cyber, Screenshots Datenabfluss** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

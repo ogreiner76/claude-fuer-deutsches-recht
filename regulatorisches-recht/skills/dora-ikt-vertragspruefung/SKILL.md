@@ -94,11 +94,11 @@ Empfohlene MCP-Konnektoren (s. `CONNECTORS.md`):
 
 ```jsonc
 {
-  "mcpServers": {
-    "eur-lex":   { "command": "node", "args": ["./mcp/eur-lex.js"] },
-    "bafin":     { "command": "node", "args": ["./mcp/bafin.js"] },
-    "esa-feeds": { "command": "node", "args": ["./mcp/esa-feeds.js"] }
-  }
+ "mcpServers": {
+ "eur-lex": { "command": "node", "args": ["./mcp/eur-lex.js"] },
+ "bafin": { "command": "node", "args": ["./mcp/bafin.js"] },
+ "esa-feeds": { "command": "node", "args": ["./mcp/esa-feeds.js"] }
+ }
 }
 ```
 

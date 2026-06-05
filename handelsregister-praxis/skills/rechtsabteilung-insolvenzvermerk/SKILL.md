@@ -1,21 +1,21 @@
 ---
 name: rechtsabteilung-insolvenzvermerk
-description: "Nutze dies, wenn Rechtsabteilung Insolvenzvermerk Und Auslaendischer Trustee, Rechtsabteilung Kapitalerhoehung Und Zwischenverfuegung, Rechtsabteilung Mopeg Gesellschaftsregister Und Ohg Sprung im Plugin Handelsregister Praxis konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Insolvenzvermerk Und Auslaendischer Trustee, Rechtsabteilung Kapitalerhoehung Und Zwischenverfuegung, Rechtsabteilung Mopeg Gesellschaftsregister Und Ohg Sprung prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Insolvenzvermerk Und Auslaendischer Trustee, Rechtsabteilung Kapitalerhoehung Und Zwischenverfuegung, Rechtsabteilung Mopeg Gesellschaftsregister Und Ohg Sprung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Insolvenzvermerk Und Auslaendischer Trustee, Rechtsabteilung Kapitalerhoehung Und Zwischenverfuegung, Rechtsabteilung Mopeg Gesellschaftsregister Und Ohg Sprung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Insolvenzvermerk Und Auslaendischer Trustee, Rechtsabteilung Kapitalerhoehung Und Zwischenverfuegung, Rechtsabteilung Mopeg Gesellschaftsregister Und Ohg Sprung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Insolvenzvermerk Und Auslaendischer Trustee, Rechtsabteilung Kapitalerhoehung Und Zwischenverfuegung, Rechtsabteilung Mopeg Gesellschaftsregister Und Ohg Sprung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-insolvenzvermerk-und-auslaendischer-trustee` | Rechtsabteilungs-Spezialskill für Insolvenzvermerk und ausländischer Trustee: Vertretungsmacht ausländischer Insolvenzorgane wird registertauglich nachgewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung` | Rechtsabteilungs-Spezialskill für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung` | Rechtsabteilungs-Spezialskill für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-insolvenzvermerk-und-auslaendischer-trustee` | Rechtsabteilungs-Fachmodul für Insolvenzvermerk und ausländischer Trustee: Vertretungsmacht ausländischer Insolvenzorgane wird registertauglich nachgewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung` | Rechtsabteilungs-Fachmodul für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung` | Rechtsabteilungs-Fachmodul für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Rechtsabteilung Insolvenzvermerk Und Auslaendischer Trustee, Rechtsabteil
 
 ## 1. `rechtsabteilung-insolvenzvermerk-und-auslaendischer-trustee`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Insolvenzvermerk und ausländischer Trustee: Vertretungsmacht ausländischer Insolvenzorgane wird registertauglich nachgewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Insolvenzvermerk und ausländischer Trustee: Vertretungsmacht ausländischer Insolvenzorgane wird registertauglich nachgewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee
 
@@ -66,7 +66,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung
 
@@ -106,7 +106,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung
 

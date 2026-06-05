@@ -1,13 +1,13 @@
 ---
 name: ar-aufhebungsvertrag-konkurrenzklausel
-description: "Nutze dies, wenn Ar Aufhebungsvertrag Praxis, Ar Konkurrenzklausel Spezial, Fachanwalt Arbeitsrecht Aufhebungsvertrag Sperrzeit im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Ar Aufhebungsvertrag Praxis, Ar Konkurrenzklausel Spezial, Fachanwalt Arbeitsrecht Aufhebungsvertrag Sperrzeit prüfen.; Erstelle eine Arbeitsfassung zu Ar Aufhebungsvertrag Praxis, Ar Konkurrenzklausel Spezial, Fachanwalt Arbeitsrecht Aufhebungsvertrag Sperrzeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ar Aufhebungsvertrag Praxis, Ar Konkurrenzklausel Spezial, Fachanwalt Arbeitsrecht Aufhebungsvertrag Sperrzeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ar Aufhebungsvertrag Praxis, Ar Konkurrenzklausel Spezial, Fachanwalt Arbeitsrecht Aufhebungsvertrag Sperrzeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ar Aufhebungsvertrag Praxis, Ar Konkurrenzklausel Spezial, Fachanwalt Arbeitsrecht Aufhebungsvertrag Sperrzeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -42,7 +42,7 @@ Für **Ar Aufhebungsvertrag Praxis, Ar Konkurrenzklausel Spezial, Fachanwalt Arb
 ## Zweck
 Vollständige anwaltliche Begleitung beim Aufhebungsvertrag — von der Erstprüfung über die Verhandlung bis zur Unterzeichnung. Kritische Weichen: Sperrzeitrisiko, Klageverzichtswert, AGB-Kontrolle der Klauseln und steuerliche Gestaltung.
 
-## Kaltstart
+## Einstieg
 Wenn Vertragsentwurf vorliegt, diesen zuerst auswerten. Minimalfragen für die erste Weiche:
 
 1. **Initiative:** Wer hat die Beendigung vorgeschlagen — Arbeitgeber oder Arbeitnehmer? (Sperrzeitrelevanz)
@@ -151,7 +151,7 @@ Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist n
 ## Zweck
 Vollständige Prüfung nachvertraglicher Wettbewerbsverbote — von der Klauselwirksamkeit über die Karenzentschädigungsberechnung bis zur Verteidigungsstrategie bei behauptetem Verstoß.
 
-## Kaltstart
+## Einstieg
 Wenn Vertragsklausel vorliegt, diese zuerst auswerten. Minimalfragen:
 
 1. **Was liegt vor?** Wettbewerbsverbot im Arbeitsvertrag oder separate Vereinbarung? Zeitraum und räumlicher Umfang?
@@ -193,14 +193,14 @@ Anderweitiger Verdienst wird angerechnet, soweit die Summe aus Entschädigung un
 
 ### Musterberechnung
 ```
-Letztes Brutto-Monatsgehalt:     4.000 €
-Zuletzt bezogene Provision (Ø): +   500 €
-Maßgebliche Vergütung:           4.500 €/Monat
-Karenzentschädigung (50 %):      2.250 €/Monat
-Deckungsgrenze (110 %):          4.950 €/Monat
-Neuer Verdienst:                 3.500 €/Monat
+Letztes Brutto-Monatsgehalt: 4.000 €
+Zuletzt bezogene Provision (Ø): + 500 €
+Maßgebliche Vergütung: 4.500 €/Monat
+Karenzentschädigung (50 %): 2.250 €/Monat
+Deckungsgrenze (110 %): 4.950 €/Monat
+Neuer Verdienst: 3.500 €/Monat
 Anrechnung (3.500 + 2.250 = 5.750 > 4.950): 800 € werden angerechnet
-Effektive Entschädigung:         1.450 €/Monat
+Effektive Entschädigung: 1.450 €/Monat
 ```
 
 ## Freistellung durch Arbeitgeber
@@ -368,7 +368,7 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 
 ## 7) Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Schritt 1 — Mandanten-Beratung
 

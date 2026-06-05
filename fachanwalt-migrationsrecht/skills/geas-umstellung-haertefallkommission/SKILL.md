@@ -1,41 +1,41 @@
 ---
 name: geas-umstellung-haertefallkommission
-description: "Nutze dies, wenn Spezial Geas 2026 Umstellung, Spezial Haertefallkommission, Spezial Innerstaatliche Fluchtalternative, Spezial Integrationskurs, Spezial Journalisten Aktivisten im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Geas 2026 Umstellung, Spezial Haertefallkommission, Spezial Innerstaatliche Fluchtalternative, Spezial Integrationskurs, Spezial Journalisten Aktivisten prüfen.; Erstelle eine Arbeitsfassung zu Spezial Geas 2026 Umstellung, Spezial Haertefallkommission, Spezial Innerstaatliche Fluchtalternative, Spezial Integrationskurs, Spezial Journalisten Aktivisten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geas 2026 Umstellung, Haertefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Geas 2026 Umstellung, Spezial Haertefallkommission, Spezial Innerstaatliche Fluchtalternative, Spezial Integrationskurs, Spezial Journalisten Aktivisten
+# Geas 2026 Umstellung, Haertefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs, Journalisten Aktivisten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geas 2026 Umstellung, Haertefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs, Journalisten Aktivisten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-geas-2026-umstellung` | GEAS-Umstellung 2026: Spezial-Skill im Migrationsrecht; prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-haertefallkommission` | Härtefallkommission: Spezial-Skill im Migrationsrecht; prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-innerstaatliche-fluchtalternative` | Innerstaatliche Fluchtalternative: Spezial-Skill im Migrationsrecht; prüft Erreichbarkeit, Sicherheit, Zumutbarkeit, Existenzminimum und Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-integrationskurs` | Integrationskurs: Spezial-Skill im Migrationsrecht; prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-journalisten-aktivisten` | Journalisten/Aktivisten: Spezial-Skill im Migrationsrecht; prüft politische Verfolgung, digitale Belege, Exilaktivität, Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-geas-2026-umstellung` | GEAS-Umstellung 2026: Fachmodul im Migrationsrecht; prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-haertefallkommission` | Härtefallkommission: Fachmodul im Migrationsrecht; prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-innerstaatliche-fluchtalternative` | Innerstaatliche Fluchtalternative: Fachmodul im Migrationsrecht; prüft Erreichbarkeit, Sicherheit, Zumutbarkeit, Existenzminimum und Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-integrationskurs` | Integrationskurs: Fachmodul im Migrationsrecht; prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-journalisten-aktivisten` | Journalisten/Aktivisten: Fachmodul im Migrationsrecht; prüft politische Verfolgung, digitale Belege, Exilaktivität, Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
-Für **Spezial Geas 2026 Umstellung, Spezial Haertefallkommission, Spezial Innerstaatliche Fluchtalternative, Spezial Integrationskurs, Spezial Journalisten Aktivisten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Geas 2026 Umstellung, Haertefallkommission, Innerstaatliche Fluchtalternative, Integrationskurs, Journalisten Aktivisten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-geas-2026-umstellung`
 
-**Fokus:** GEAS-Umstellung 2026: Spezial-Skill im Migrationsrecht; prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** GEAS-Umstellung 2026: Fachmodul im Migrationsrecht; prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # GEAS-Umstellung 2026
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft neues EU-Asylpaket ab 12.06.2026 und Übergangsfälle.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -64,14 +64,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft neues
 
 ## 2. `spezial-haertefallkommission`
 
-**Fokus:** Härtefallkommission: Spezial-Skill im Migrationsrecht; prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Härtefallkommission: Fachmodul im Migrationsrecht; prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Härtefallkommission
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Landesrecht, humanitäre Gründe, Ausschlüsse, Dossier.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -100,14 +100,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Lande
 
 ## 3. `spezial-innerstaatliche-fluchtalternative`
 
-**Fokus:** Innerstaatliche Fluchtalternative: Spezial-Skill im Migrationsrecht; prüft Erreichbarkeit, Sicherheit, Zumutbarkeit, Existenzminimum und Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Innerstaatliche Fluchtalternative: Fachmodul im Migrationsrecht; prüft Erreichbarkeit, Sicherheit, Zumutbarkeit, Existenzminimum und Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Innerstaatliche Fluchtalternative
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Erreichbarkeit, Sicherheit, Zumutbarkeit, Existenzminimum und Quellen.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Erreichbarkeit, Sicherheit, Zumutbarkeit, Existenzminimum und Quellen.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -136,14 +136,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Errei
 
 ## 4. `spezial-integrationskurs`
 
-**Fokus:** Integrationskurs: Spezial-Skill im Migrationsrecht; prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Integrationskurs: Fachmodul im Migrationsrecht; prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Integrationskurs
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Verpflichtung, Teilnahme, Sanktionen, Nachweis für Titel/StAG.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -172,14 +172,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Verpf
 
 ## 5. `spezial-journalisten-aktivisten`
 
-**Fokus:** Journalisten/Aktivisten: Spezial-Skill im Migrationsrecht; prüft politische Verfolgung, digitale Belege, Exilaktivität, Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Journalisten/Aktivisten: Fachmodul im Migrationsrecht; prüft politische Verfolgung, digitale Belege, Exilaktivität, Quellen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Journalisten/Aktivisten
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft politische Verfolgung, digitale Belege, Exilaktivität, Quellen.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft politische Verfolgung, digitale Belege, Exilaktivität, Quellen.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?

@@ -1,13 +1,13 @@
 ---
 name: ins-delisting-ins-bernahmeangebot
-description: "Nutze dies, wenn Ins 038 Delisting, Ins 039 Bernahmeangebot im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 038 Delisting, Ins 039 Bernahmeangebot prüfen.; Erstelle eine Arbeitsfassung zu Ins 038 Delisting, Ins 039 Bernahmeangebot.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 038 Delisting, Ins 039 Bernahmeangebot: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 038 Delisting, Ins 039 Bernahmeangebot
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 038 Delisting, Ins 039 Bernahmeangebot** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -52,7 +52,7 @@ bis zur endgültigen Zulassungsbeendigung.
 ### Schritt 1 – Entstehungszeitpunkt der Insiderinformation
 
 - Wann wurde die Delisting-Entscheidung getroffen?
-  (Vorstandsbeschluss, Hauptaktionär-Entscheidung, AR-Billigung)
+ (Vorstandsbeschluss, Hauptaktionär-Entscheidung, AR-Billigung)
 - Geltl/Daimler-Test: Bereits bei ernsthafter Prüfung des Delistings?
 - Kursrelevanz: Delisting ist regelmäßig kursrelevant (Liquiditätsverlust, Squeeze-out-Erwartung)
 
@@ -60,7 +60,7 @@ bis zur endgültigen Zulassungsbeendigung.
 
 - Unverzügliche Veröffentlichung nach Beschluss
 - Inhalt: Geplantes Datum des Delisting-Antrags, Begründung, Auswirkungen auf Aktionäre,
-  ggf. Abfindungsangebot
+ ggf. Abfindungsangebot
 - Bei Squeeze-out-Kopplung: Koordination der Ad-hoc mit Squeeze-out-Ankündigung
 
 ### Schritt 3 – Squeeze-out-Kopplung
@@ -144,7 +144,7 @@ in einem öffentlichen Übernahmeverfahren.
 - Diese Informationen begründen Handelsverbot für Bieter und seine Berater (Art. 14 MAR)
 - Bieter darf nicht auf Basis dieser Informationen in Aktien der Zielgesellschaft handeln
 - Ausnahme: Paketerwerb im Rahmen des Angebots ist reguläres Vorgehen; aber kein spekulativer
-  Vorab-Erwerb auf Basis von DD-Insiderinformationen
+ Vorab-Erwerb auf Basis von DD-Insiderinformationen
 
 ### Schritt 2 – Insiderinformation der Zielgesellschaft
 
@@ -155,7 +155,7 @@ in einem öffentlichen Übernahmeverfahren.
 ### Schritt 3 – WpÜG § 10-Veröffentlichung des Bieters
 
 - Bieter muss Entscheidung zur Veröffentlichung eines Angebots unverzüglich gem. § 10 WpÜG
-  veröffentlichen (keine MAR Ad-hoc, aber analoge Wirkung)
+ veröffentlichen (keine MAR Ad-hoc, aber analoge Wirkung)
 - Koordination: BaFin-Meldung gleichzeitig mit § 10-Veröffentlichung
 - Zielgesellschaft: Unmittelbar nach § 10-Veröffentlichung eigene Stellungnahme prüfen
 
@@ -171,7 +171,7 @@ in einem öffentlichen Übernahmeverfahren.
 - PDMRs der Zielgesellschaft: Können im Rahmen des Angebots Aktien einreichen (kein MAR-Verstoß)
 - Aber: Keine eigenständigen Käufe auf Basis der Übernahmeinsiderinformation vor § 10-Veröff.
 - Angebotsunterlage: Enthält keine MAR-pflichtigen Informationen, aber alle wesentlichen
-  Angaben nach WpÜG
+ Angaben nach WpÜG
 
 ## Red-Team-Fragen
 

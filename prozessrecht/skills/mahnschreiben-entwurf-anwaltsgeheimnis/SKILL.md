@@ -1,13 +1,13 @@
 ---
 name: mahnschreiben-entwurf-anwaltsgeheimnis
-description: "Nutze dies, wenn Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team prüfen.; Erstelle eine Arbeitsfassung zu Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mahnschreiben Entwurf, Anwaltsgeheimnis Prüfung, Argumentationsverbesserung Red Team** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -46,29 +46,29 @@ Entwurf eines anwaltlichen Mahnschreibens (§ 286 Abs. 1 BGB) oder einer qualifi
 1. **Intake laden:** `demand-letters/[slug]/intake.md` einlesen. Fehlende Pflichtfelder als Fehler ausgeben; kein Entwurf ohne vollständigen Intake.
 
 2. **Pflicht-Checkliste (Gate) – vor dem Entwurf:**
-   - [ ] Ist die Forderung dem Grunde nach schlüssig dargetan (§ 286 Abs. 1 BGB)?
-   - [ ] Ist der Schuldner eindeutig identifiziert (Name, Anschrift, ggf. Handelsregisternummer)?
-   - [ ] Ist der Betrag oder die geschuldete Handlung konkret bezeichnet?
-   - [ ] Ist die Frist angemessen (i. d. R. 2 Wochen; bei Baurecht oder komplexen Leistungen ggf. länger)?
-   - [ ] Sind Verzugsschäden (§ 288 BGB: 5 % über Basiszinssatz bei Verbrauchern; 9 % bei Unternehmen) korrekt beziffert?
-   - [ ] Droht ein Güteantrag (§ 15a EGZPO) in bestimmten Bundesländern vor Klageerhebung?
-   - [ ] Mandatsgeheimnis: Enthält das Schreiben keine vertraulichen Informationen Dritter?
-   - [ ] FRE-408-Äquivalent (DE): § 278 Abs. 6 ZPO; Vergleichsangebote im Schreiben als solche kennzeichnen.
+ - [ ] Ist die Forderung dem Grunde nach schlüssig dargetan (§ 286 Abs. 1 BGB)?
+ - [ ] Ist der Schuldner eindeutig identifiziert (Name, Anschrift, ggf. Handelsregisternummer)?
+ - [ ] Ist der Betrag oder die geschuldete Handlung konkret bezeichnet?
+ - [ ] Ist die Frist angemessen (i. d. R. 2 Wochen; bei Baurecht oder komplexen Leistungen ggf. länger)?
+ - [ ] Sind Verzugsschäden (§ 288 BGB: 5 % über Basiszinssatz bei Verbrauchern; 9 % bei Unternehmen) korrekt beziffert?
+ - [ ] Droht ein Güteantrag (§ 15a EGZPO) in bestimmten Bundesländern vor Klageerhebung?
+ - [ ] Mandatsgeheimnis: Enthält das Schreiben keine vertraulichen Informationen Dritter?
+ - [ ] FRE-408-Äquivalent (DE): § 278 Abs. 6 ZPO; Vergleichsangebote im Schreiben als solche kennzeichnen.
 
 3. **Schreiben entwerfen:**
-   - Briefkopf: Kanzlei, Datum, Aktenzeichen
-   - Betreff: Mandant ./. Schuldner – [Kurzbezeichnung des Anspruchs]
-   - Einleitung: Mandat und Vertretung
-   - Sachverhalt: Knapp, tatsächlich, ohne rechtliche Wertungen
-   - Forderung: Betrag / Handlung / Unterlassung, Rechtsgrundlage
-   - Fristsetzung: Konkretes Datum (nicht "binnen 14 Tagen", sondern "bis zum [TT.MM.JJJJ]")
-   - Konsequenzen: Klageandrohung, Kostenfolge (§§ 91 ZPO, 93 ZPO bei Anerkenntnisklage beachten)
-   - Grußformel, Unterschrift
+ - Briefkopf: Kanzlei, Datum, Aktenzeichen
+ - Betreff: Mandant ./. Schuldner – [Kurzbezeichnung des Anspruchs]
+ - Einleitung: Mandat und Vertretung
+ - Sachverhalt: Knapp, tatsächlich, ohne rechtliche Wertungen
+ - Forderung: Betrag / Handlung / Unterlassung, Rechtsgrundlage
+ - Fristsetzung: Konkretes Datum (nicht "binnen 14 Tagen", sondern "bis zum [TT.MM.JJJJ]")
+ - Konsequenzen: Klageandrohung, Kostenfolge (§§ 91 ZPO, 93 ZPO bei Anerkenntnisklage beachten)
+ - Grußformel, Unterschrift
 
 4. **Post-Send-Checkliste:**
-   - Zugangsdokumentation (Einschreiben / Fax / gerichtliche Zustellung) planen
-   - Frist in Kanzleifristbuch eintragen
-   - Mandats-History-Update (`/mandat-update [slug] Mahnschreiben versandt`)
+ - Zugangsdokumentation (Einschreiben / Fax / gerichtliche Zustellung) planen
+ - Frist in Kanzleifristbuch eintragen
+ - Mandats-History-Update (`/mandat-update [slug] Mahnschreiben versandt`)
 
 ## Quellen und Zitierweise
 

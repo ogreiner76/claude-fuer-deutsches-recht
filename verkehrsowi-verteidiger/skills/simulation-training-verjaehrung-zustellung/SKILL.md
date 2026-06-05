@@ -1,13 +1,13 @@
 ---
 name: simulation-training-verjaehrung-zustellung
-description: "Nutze dies, wenn Verkehrsowi Simulation Training, Verkehrsowi Verjaehrung Zustellung, Verkehrsowi Zeugen Polizei Strategie im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Verkehrsowi Simulation Training, Verkehrsowi Verjaehrung Zustellung, Verkehrsowi Zeugen Polizei Strategie prüfen.; Erstelle eine Arbeitsfassung zu Verkehrsowi Simulation Training, Verkehrsowi Verjaehrung Zustellung, Verkehrsowi Zeugen Polizei Strategie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verkehrsowi Simulation Training, Verkehrsowi Verjaehrung Zustellung, Verkehrsowi Zeugen Polizei Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verkehrsowi Simulation Training, Verkehrsowi Verjaehrung Zustellung, Verkehrsowi Zeugen Polizei Strategie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verkehrsowi Simulation Training, Verkehrsowi Verjaehrung Zustellung, Verkehrsowi Zeugen Polizei Strategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -139,15 +139,15 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 1. Tatdatum: [DATUM]
 2. Verjaehrungsfrist:
-   - Verkehrs-OWi § 26 Abs. 3 StVG: 3 Monate
-   - Andere OWi § 31 OWiG: 3 Jahre
+ - Verkehrs-OWi § 26 Abs. 3 StVG: 3 Monate
+ - Andere OWi § 31 OWiG: 3 Jahre
 3. Erste Verjaerungs-Deadline: Tatdatum + [Frist]
 4. Unterbrechungshandlungen nach § 33 OWiG:
-   - Anhoerungsschreiben: Datum + Zustellungsnachweis?
-   - Bussgeldbescheid: Datum + Zustellungsnachweis?
+ - Anhoerungsschreiben: Datum + Zustellungsnachweis?
+ - Bussgeldbescheid: Datum + Zustellungsnachweis?
 5. Neue Verjaerungs-Deadline nach letzter Unterbrechung
 6. Absolute Verjaehrung: Doppelte Grundfrist ab Tatende
-   - Bei 3 Monaten: 6 Monate ab Tatende
+ - Bei 3 Monaten: 6 Monate ab Tatende
 7. Ist absolute Verjaehrung abgelaufen? → Einstellung zwingend!
 ```
 

@@ -64,14 +64,14 @@ Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungs
 ### Phase 3 — Vergleichstabelle erstellen
 
 ```
-| Position           | Monat aktuell | Monat Vorjahr | Abweichung EUR | Abweichung in Prozent |
+| Position | Monat aktuell | Monat Vorjahr | Abweichung EUR | Abweichung in Prozent |
 |--------------------|---------------|---------------|----------------|------------------------|
-| Umsatzerloese      | 125.000       | 110.000       | +15.000        | +13,6                  |
-| Materialeinsatz    | 45.000        | 42.000        | +3.000         | +7,1                   |
-| Personalkosten     | 38.000        | 35.500        | +2.500         | +7,0                   |
-| Sonstige Aufw.     | 18.000        | 17.500        | +500           | +2,9                   |
-| Abschreibungen     | 4.500         | 4.300         | +200           | +4,7                   |
-| Betriebsergebnis   | 19.500        | 10.700        | +8.800         | +82,2                  |
+| Umsatzerloese | 125.000 | 110.000 | +15.000 | +13,6 |
+| Materialeinsatz | 45.000 | 42.000 | +3.000 | +7,1 |
+| Personalkosten | 38.000 | 35.500 | +2.500 | +7,0 |
+| Sonstige Aufw. | 18.000 | 17.500 | +500 | +2,9 |
+| Abschreibungen | 4.500 | 4.300 | +200 | +4,7 |
+| Betriebsergebnis | 19.500 | 10.700 | +8.800 | +82,2 |
 ```
 
 Vorsicht: Im obigen Beispiel ist `13,6` nur in der Tabelle akzeptabel; in der Frontmatter-Description waere das verboten (Cowork-Validator-Bug). In Erlaeuterungstexten ausserhalb der Tabelle "13 Prozent" oder "rund 14 Prozent" formulieren.

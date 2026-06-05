@@ -1,13 +1,13 @@
 ---
 name: untersuchungs-zusammenfassung-kuendigung
-description: "Nutze dies, wenn Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Neu 001 Kuendigungszugang Beweislast Und Zugangsmoment im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Neu 001 Kuendigungszugang Beweislast Und Zugangsmoment prüfen.; Erstelle eine Arbeitsfassung zu Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Neu 001 Kuendigungszugang Beweislast Und Zugangsmoment.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Kuendigungszugang Beweislast Und Zugangsmoment: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Neu 001 Kuendigungszugang Beweislast Und Zugangsmoment
+# Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Kuendigungszugang Beweislast Und Zugangsmoment
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Kuendigungszugang Beweislast Und Zugangsmoment** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Neu 001 Kuendigungszugang Beweislast Und Zugangsmoment** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Untersuchungs Memo, Untersuchungs Zusammenfassung, Kündigung Zugang Beweiswerkstatt, Zugang Kuendigungszugang Beweislast Und Zugangsmoment** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -54,47 +54,47 @@ vorhandenen Entwurf überarbeiten.
 
 - Bezeichnung der Untersuchungssache
 - Bei Aktualisierung: Hinweise, welche Teile überarbeitet werden sollen
-  (vollständige Überarbeitung oder nur betroffene Abschnitte)
+ (vollständige Überarbeitung oder nur betroffene Abschnitte)
 
 ## Rechtlicher Rahmen
 
 **Kernvorschriften:**
 
 - § 626 BGB: Außerordentliche Kündigung aus wichtigem Grund; Zwei-Wochen-Frist
-  des § 626 Abs. 2 BGB — der Vermerk dokumentiert den Zeitpunkt der
-  gesicherten Kenntnis als Fristbeginn
+ des § 626 Abs. 2 BGB — der Vermerk dokumentiert den Zeitpunkt der
+ gesicherten Kenntnis als Fristbeginn
 - §§ 1, 2 KSchG: Allgemeiner Kündigungsschutz — Vermerk als Grundlage für
-  verhaltens- oder personenbedingte Kündigung; Sozialauswahl dokumentieren
+ verhaltens- oder personenbedingte Kündigung; Sozialauswahl dokumentieren
 - § 102 BetrVG: Anhörung des Betriebsrats vor jeder Kündigung — Vermerk
-  liefert die Tatsachengrundlage für die BR-Anhörung
+ liefert die Tatsachengrundlage für die BR-Anhörung
 - § 26 BDSG: Beschäftigtendatenschutz; Verhältnismäßigkeit der Datenerhebung
-  und -verarbeitung — Vermerk muss belegen, dass die Untersuchung verhältnismäßig
-  war
+ und -verarbeitung — Vermerk muss belegen, dass die Untersuchung verhältnismäßig
+ war
 - § 22 AGG: Beweislastverteilung bei Diskriminierungsvorwürfen — bei
-  AGG-relevantem Sachverhalt dokumentiert der Vermerk, warum keine unzulässige
-  Benachteiligung vorliegt
+ AGG-relevantem Sachverhalt dokumentiert der Vermerk, warum keine unzulässige
+ Benachteiligung vorliegt
 
 **Leitentscheidungen:**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Verdachtskündigung — dringender Tatverdacht auf Basis objektiver Umstände;
-  umfassende Sachaufklärung vor der Kündigung; vorherige Anhörung des
-  Arbeitnehmers als zwingend; inhaltliche Mindestanforderungen
+ Verdachtskündigung — dringender Tatverdacht auf Basis objektiver Umstände;
+ umfassende Sachaufklärung vor der Kündigung; vorherige Anhörung des
+ Arbeitnehmers als zwingend; inhaltliche Mindestanforderungen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Inhaltliche Anforderungen an die Anhörung vor Verdachtskündigung; Folgen
-  fehlerhafter oder unvollständiger Anhörung; Heilungsmöglichkeiten
+ Inhaltliche Anforderungen an die Anhörung vor Verdachtskündigung; Folgen
+ fehlerhafter oder unvollständiger Anhörung; Heilungsmöglichkeiten
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Anforderungen an den Tatsachennachweis bei Tatkündigung —
-  Überzeugungsmaßstab im Gegensatz zur Verdachtskündigung; Anforderungen
-  an Aufklärung und Dokumentation
+ Anforderungen an den Tatsachennachweis bei Tatkündigung —
+ Überzeugungsmaßstab im Gegensatz zur Verdachtskündigung; Anforderungen
+ an Aufklärung und Dokumentation
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
 - § 102 BetrVG: Betriebsratsanhörung nach Gesetz und frei verifizierter Rechtsprechung prüfen; keine Kommentarzitate aus Modellwissen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  Verhaltensbedingte Kündigung — Pflichtverletzung, Interessenabwägung,
-  Dokumentationsstandards
+ Verhaltensbedingte Kündigung — Pflichtverletzung, Interessenabwägung,
+ Dokumentationsstandards
 
 ## Ablauf
 
@@ -111,7 +111,7 @@ nicht erfüllt ist:
 - Einträge für Beschwerdeführer/in und Beschuldigte/n vorhanden
 - Hochprioritäre offene Quellenchecklisten-Punkte flaggen (nicht blockieren)
 - Anhörung der beschuldigten Person dokumentiert (Pflichtvoraussetzung
-  für Verdachtskündigung nach § 626 BGB)
+ für Verdachtskündigung nach § 626 BGB)
 
 **§ 102 BetrVG-Hinweis:** Der Vermerk stellt die Tatsachengrundlage für eine
 etwaige BR-Anhörung bereit. Enthält der Vermerk keine vollständige
@@ -137,10 +137,10 @@ Neue Widersprüche: [ja/nein]
 Geschlossene Beweislücken: [ja/nein]
 
 Betroffene Abschnitte:
-  Sachverhaltliche Feststellungen: [welche Fragen betroffen]
-  Glaubwürdigkeitsbewertung: [neue glaubwürdigkeitsrelevante Einträge]
-  Ergebnisse: [Befunde, die revidiert werden sollten]
-  Anlage A (Chronologie): [N] neue Einträge
+ Sachverhaltliche Feststellungen: [welche Fragen betroffen]
+ Glaubwürdigkeitsbewertung: [neue glaubwürdigkeitsrelevante Einträge]
+ Ergebnisse: [Befunde, die revidiert werden sollten]
+ Anlage A (Chronologie): [N] neue Einträge
 ```
 
 Fragen: "Soll der gesamte Vermerk überarbeitet werden oder nur die
@@ -185,22 +185,22 @@ Beispiel-Ausgabe bei erster Erstellung mit fehlendem Hochprioritäts-Punkt:
 ## Risiken und typische Fehler
 
 - **Anhörung fehlt**: Ohne vorherige Anhörung der beschuldigten Person vor
-  Aussprechen einer Verdachtskündigung ist die Kündigung in der Regel
-  unwirksam. Anhörungsdokumentation gehört zwingend in den Vermerk.
+ Aussprechen einer Verdachtskündigung ist die Kündigung in der Regel
+ unwirksam. Anhörungsdokumentation gehört zwingend in den Vermerk.
 - **§ 626 Abs. 2 BGB-Frist versäumt**: Vermerk muss Kenntnisdatum klar
-  dokumentieren. Spätere Unklarheit über den Fristbeginn kann zur
-  Unwirksamkeit der Kündigung führen.
+ dokumentieren. Spätere Unklarheit über den Fristbeginn kann zur
+ Unwirksamkeit der Kündigung führen.
 - **BR-Anhörung auf unvollständigem Vermerk**: Eine BR-Anhörung, die nur
-  Teile des Sachverhalts wiedergibt, ist fehlerhaft (Theorie der subjektiven
-  Determinierung — BAG, ständige Rspr.).
+ Teile des Sachverhalts wiedergibt, ist fehlerhaft (Theorie der subjektiven
+ Determinierung — BAG, ständige Rspr.).
 - **Glaubwürdigkeit nicht bewertet**: Wenn Ergebnis von der Frage abhängt,
-  welcher Schilderung zu glauben ist, muss eine eigenständige
-  Glaubwürdigkeitsbewertung im Vermerk stehen. Fehlende Bewertung schwächt
-  die Entscheidungsgrundlage.
+ welcher Schilderung zu glauben ist, muss eine eigenständige
+ Glaubwürdigkeitsbewertung im Vermerk stehen. Fehlende Bewertung schwächt
+ die Entscheidungsgrundlage.
 - **AGG-Benachteiligung nicht ausgeschlossen**: Bei Untersuchungen mit
-  AGG-Relevanz (z. B. Kündigung eines Arbeitnehmers, der kurz zuvor eine
-  Beschwerde erhoben hat) muss der Vermerk belegen, dass die Maßnahme
-  nicht auf einem geschützten Merkmal beruht.
+ AGG-Relevanz (z. B. Kündigung eines Arbeitnehmers, der kurz zuvor eine
+ Beschwerde erhoben hat) muss der Vermerk belegen, dass die Maßnahme
+ nicht auf einem geschützten Merkmal beruht.
 
 ## Quellenpflicht
 
@@ -258,40 +258,40 @@ soll, die nicht den vollständigen Vermerk erhalten darf oder soll.
 - Bezeichnung der Untersuchungssache
 - Zielgruppe: `hr` / `geschaeftsfuehrung` / `externe-ar`
 - Zweck der Zusammenfassung (welche Entscheidung oder Maßnahme soll sie
-  unterstützen?)
+ unterstützen?)
 
 ## Rechtlicher Rahmen
 
 **Kernvorschriften:**
 
 - § 26 BDSG: Zweckbindung bei Beschäftigtendaten — Weitergabe von
-  Untersuchungsdaten nur soweit für den jeweiligen Zweck erforderlich;
-  bei HR-Zusammenfassungen Datenminimierung nach Art. 5 Abs. 1 lit. c DSGVO
+ Untersuchungsdaten nur soweit für den jeweiligen Zweck erforderlich;
+ bei HR-Zusammenfassungen Datenminimierung nach Art. 5 Abs. 1 lit. c DSGVO
 - § 102 BetrVG: Anhörung des Betriebsrats vor Kündigung — HR-Zusammenfassung
-  stellt oft die Tatsachengrundlage für die BR-Anhörung; Vollständigkeit
-  und Richtigkeit entscheidend (Theorie der subjektiven Determinierung)
+ stellt oft die Tatsachengrundlage für die BR-Anhörung; Vollständigkeit
+ und Richtigkeit entscheidend (Theorie der subjektiven Determinierung)
 - § 22 AGG: Beweislastverteilung — bei AGG-Sachverhalt muss die
-  Zusammenfassung für den Arbeitgeber verwertbare Ergebnisse zur
-  Enthaftung dokumentieren
+ Zusammenfassung für den Arbeitgeber verwertbare Ergebnisse zur
+ Enthaftung dokumentieren
 - §§ 93, 116 AktG / § 43 GmbHG: Informationspflichten und Haftung der
-  Geschäftsleitung — bei der Aufsichtsrats-/GF-Zusammenfassung muss der
-  Informationsgehalt ausreichen, um informierte Governance-Entscheidungen
-  zu ermöglichen
+ Geschäftsleitung — bei der Aufsichtsrats-/GF-Zusammenfassung muss der
+ Informationsgehalt ausreichen, um informierte Governance-Entscheidungen
+ zu ermöglichen
 - §§ 34, 37 HinSchG: Bei Hinweisgebersachen muss die Zusammenfassung
-  die Identität der hinweisgebenden Person schützen; keine Rückschlüsse
+ die Identität der hinweisgebenden Person schützen; keine Rückschlüsse
 
 **Leitentscheidungen:**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Inhalt der BR-Anhörung — die Anhörung muss den Sachverhalt vollständig
-  und richtig wiedergeben; fehlerhafte Grundlage (z. B. aus unvollständiger
-  HR-Zusammenfassung) macht die Kündigung unwirksam
+ Inhalt der BR-Anhörung — die Anhörung muss den Sachverhalt vollständig
+ und richtig wiedergeben; fehlerhafte Grundlage (z. B. aus unvollständiger
+ HR-Zusammenfassung) macht die Kündigung unwirksam
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Verdachtskündigung — Ergebnisse müssen auf objektiven Tatsachen beruhen,
-  die auch in einer HR-Kommunikation lückenlos nachvollziehbar sind
+ Verdachtskündigung — Ergebnisse müssen auf objektiven Tatsachen beruhen,
+ die auch in einer HR-Kommunikation lückenlos nachvollziehbar sind
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Informationspflichten der Geschäftsleitung gegenüber dem Aufsichtsrat bei
-  laufenden Untersuchungen; Dokumentationspflicht für Governance-Entscheidungen
+ Informationspflichten der Geschäftsleitung gegenüber dem Aufsichtsrat bei
+ laufenden Untersuchungen; Dokumentationspflicht für Governance-Entscheidungen
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
@@ -322,7 +322,7 @@ Maßnahme soll sie unterstützen?
 
 Inhalt:
 - Was ist passiert (Sachverhaltsdarstellung in klarer Sprache, keine
-  Rechtsanalyse)
+ Rechtsanalyse)
 - Ergebnis zu jedem Vorwurf (Bestätigt / Nicht bestätigt / Unklar)
 - Empfohlene Maßnahme
 - Verweis auf noch offene Ermittlungsstränge (falls vorhanden)
@@ -346,7 +346,7 @@ Inhalt:
 - Vorwurf und Untersuchungsumfang (ein Abschnitt)
 - Wesentliche Ergebnisse
 - Unternehmensrelevanz und Expositionseinschätzung
-  (nur grob — keine Detailrechtsanalyse)
+ (nur grob — keine Detailrechtsanalyse)
 - Ergriffene und geplante Maßnahmen
 
 Kopfzeile: "Vertraulich — Interne Untersuchung — Geschäftsleitung"
@@ -417,21 +417,21 @@ Empfehlung:
 ## Risiken und typische Fehler
 
 - **HR-Zusammenfassung zu reichhaltig**: Anwaltliche Analyse, Credibility-
-  Bewertung und Haftungseinschätzung in der HR-Zusammenfassung können
-  den vertraulichen Charakter der Untersuchungsunterlagen gefährden
-  und müssen dort nicht stehen.
+ Bewertung und Haftungseinschätzung in der HR-Zusammenfassung können
+ den vertraulichen Charakter der Untersuchungsunterlagen gefährden
+ und müssen dort nicht stehen.
 - **BR-Anhörungsgrundlage lückenhaft**: Wenn die HR-Zusammenfassung
-  der BR-Anhörung als Tatsachengrundlage dient und unvollständig ist,
-  ist die Kündigung unwirksam.
+ der BR-Anhörung als Tatsachengrundlage dient und unvollständig ist,
+ ist die Kündigung unwirksam.
 - **HinSchG-Identitätsschutz verletzt**: Rückschlüsse auf die hinweisgebende
-  Person in der Zusammenfassung können Repressalie nach § 36 HinSchG
-  begründen.
+ Person in der Zusammenfassung können Repressalie nach § 36 HinSchG
+ begründen.
 - **Geschäftsleitung unterinformiert**: Eine zu knappe GF/AR-Zusammenfassung
-  kann die Grundlage für informierte Governance-Entscheidungen nehmen
-  und Geschäftsleiterhaftung auslösen.
+ kann die Grundlage für informierte Governance-Entscheidungen nehmen
+ und Geschäftsleiterhaftung auslösen.
 - **Externe Bevollmächtigte ohne Prozessrelevanz**: Das Briefing für externe
-  AR muss die für Prozessführung wesentlichen offenen Stränge und
-  Dokumentenrisiken enthalten — ohne diese ist das Mandat unzureichend.
+ AR muss die für Prozessführung wesentlichen offenen Stränge und
+ Dokumentenrisiken enthalten — ohne diese ist das Mandat unzureichend.
 
 ## Quellenpflicht
 
@@ -441,7 +441,7 @@ Bei allen Ausgaben zitieren (zielgruppenspezifisch):
 - Bei AGG-relevantem Sachverhalt: § 22 AGG und frei verifizierte BAG-Rechtsprechung
 - Bei Hinweisgebersachen: §§ 8, 37 HinSchG
 - Bei GF/AR-Briefing: §§ 93, 116 AktG / § 43 GmbHG;
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 26 BDSG (Zweckbindung, Datenminimierung)
 
 Detaillierte Zielgruppen-Stripping-Regeln und Zusammenfassungs-Templates
@@ -490,7 +490,7 @@ Erzeuge immer eine Tabelle: `Zustellweg / Beleg / beweisbarer Inhalt / Zugangsta
 
 **Fokus:** Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Neu 001 Kuendigungszugang Beweislast Und Zugangsmoment
+# Zugang Kuendigungszugang Beweislast Und Zugangsmoment
 
 ## Aufgabe
 

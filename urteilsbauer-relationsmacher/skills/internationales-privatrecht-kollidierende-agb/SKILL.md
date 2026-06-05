@@ -1,13 +1,13 @@
 ---
 name: internationales-privatrecht-kollidierende-agb
-description: "Nutze dies, wenn Internationales Privatrecht, Kollidierende Agb Prüfen, Kostenentscheidung Bauen im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Bitte Internationales Privatrecht, Kollidierende Agb Prüfen, Kostenentscheidung Bauen prüfen.; Erstelle eine Arbeitsfassung zu Internationales Privatrecht, Kollidierende Agb Prüfen, Kostenentscheidung Bauen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Internationales Privatrecht, Kollidierende Agb Prüfen, Kostenentscheidung Bauen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Internationales Privatrecht, Kollidierende Agb Prüfen, Kostenentscheidung Bauen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Internationales Privatrecht, Kollidierende Agb Prüfen, Kostenentscheidung Bauen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -47,12 +47,12 @@ Bei Auslandsbezug immer prüfen, welches Recht zur Anwendung kommt.
 ## Zentrale Normen
 
 - Verordnung (EG) Nr. 593/2008 (Rom-I) — vertragliche Schuldverhältnisse
-  - Art. 3: Rechtswahl
-  - Art. 4: Anknüpfung ohne Wahl (charakteristische Leistung)
-  - Art. 6: Verbraucherverträge (Schutz des Verbrauchers)
-  - Art. 9: Eingriffsnormen (DSGVO, AGB-Recht, Datenschutz)
+ - Art. 3: Rechtswahl
+ - Art. 4: Anknüpfung ohne Wahl (charakteristische Leistung)
+ - Art. 6: Verbraucherverträge (Schutz des Verbrauchers)
+ - Art. 9: Eingriffsnormen (DSGVO, AGB-Recht, Datenschutz)
 - Verordnung (EG) Nr. 864/2007 (Rom-II) — außervertragliche Schuldverhältnisse
-  - Art. 4: Erfolgsortprinzip
+ - Art. 4: Erfolgsortprinzip
 - Art. 3 ff. EGBGB — autonomes deutsches IPR
 - CISG — internationales Einheitskaufrecht, vorrangig
 
@@ -145,7 +145,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-für-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **B2B oder B2C feststellen:** B2C → keine AGB-Kollision; B2B → weiter.
 2. **Kollidierende Klauseln identifizieren:** Welche Klauseln widersprechen sich?

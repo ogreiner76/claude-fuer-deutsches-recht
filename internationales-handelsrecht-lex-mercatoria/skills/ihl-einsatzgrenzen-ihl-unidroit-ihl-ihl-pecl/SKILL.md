@@ -1,13 +1,13 @@
 ---
 name: ihl-einsatzgrenzen-ihl-unidroit-ihl-ihl-pecl
-description: "Nutze dies, wenn Ihl 013 Lex Mercatoria Einsatzgrenzen, Ihl 015 Unidroit Hardship, Ihl 016 Unidroit Force Majeure, Ihl 017 Pecl Und Soft Law Vergleich im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 013 Lex Mercatoria Einsatzgrenzen, Ihl 015 Unidroit Hardship, Ihl 016 Unidroit Force Majeure, Ihl 017 Pecl Und Soft Law Vergleich prüfen.; Erstelle eine Arbeitsfassung zu Ihl 013 Lex Mercatoria Einsatzgrenzen, Ihl 015 Unidroit Hardship, Ihl 016 Unidroit Force Majeure, Ihl 017 Pecl Und Soft Law Vergleich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ihl 013 Lex Mercatoria Einsatzgrenzen, Ihl 015 Unidroit Hardship, Ihl 016 Unidroit Force Majeure, Ihl 017 Pecl Und Soft Law Vergleich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 013 Lex Mercatoria Einsatzgrenzen, Ihl 015 Unidroit Hardship, Ihl 016 Unidroit Force Majeure, Ihl 017 Pecl Und Soft Law Vergleich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 013 Lex Mercatoria Einsatzgrenzen, Ihl 015 Unidroit Hardship, Ihl 016 Unidroit Force Majeure, Ihl 017 Pecl Und Soft Law Vergleich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: bericht-lucid-verpackg-maschinen-ce
-description: "Nutze dies, wenn Bericht Lucid Verpackg 9 10, Bericht Maschinen Ce Konformitaetsakte, Bericht Mindestlohndokumentation Arbeitszeit im Plugin Berichtspflichten Erlediger konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Bericht Lucid Verpackg 9 10, Bericht Maschinen Ce Konformitaetsakte, Bericht Mindestlohndokumentation Arbeitszeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bericht Lucid Verpackg 9 10, Bericht Maschinen Ce Konformitaetsakte, Bericht Mindestlohndokumentation Arbeitszeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Lucid Verpackg 9 10, Bericht Maschinen Ce Konformitaetsakte, Bericht Mindestlohndokumentation Arbeitszeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

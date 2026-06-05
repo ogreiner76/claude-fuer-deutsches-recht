@@ -1,32 +1,32 @@
 ---
 name: hausverwaltungs-heizung-schaden-wegh
-description: "Nutze dies, wenn Spezial Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial
+# Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-hausverwaltungs-fristen-form-und-zustaendigkeit` | Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-hausverwaltungs-fristen-form-und-zustaendigkeit` | Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertiefter Fachmodul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `heizung-schaden-versicherung-notmassnahme` | Bearbeitet Heizungsstörungen, Wasserschäden, Feuchtigkeit, Frost, Versicherung und Notmaßnahmen in WEG-Anlagen. Prüft Zuständigkeit, Sofortmaßnahmen, Beweise, Handwerker, Beschlussbedarf, Umlage und Mieterkommunikation. Output: Maßnahmenplan. |
 | `wegh-verwalterhaftung-spezial` | Spezialfall Verwalterhaftung WEG §§ 26 ff. WEG nach Reform 2020: Innen- und Aussenhaftung, D-and-O fuer Verwalter, Haftung fuer Beschlussumsetzung. Pruefraster fuer Verwalter. |
 
 ## Arbeitsweg
 
-Für **Spezial Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weg-hausverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weg-hausverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-hausverwaltungs-fristen-form-und-zustaendigkeit`
 
-**Fokus:** Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertiefter Fachmodul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg
 

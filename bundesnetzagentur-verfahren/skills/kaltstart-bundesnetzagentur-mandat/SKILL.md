@@ -1,6 +1,6 @@
 ---
 name: kaltstart-bundesnetzagentur-mandat
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart Bundesnetzagentur-Mandat."
+description: "Nutze dies zum Einstieg in Kaltstart Bundesnetzagentur-Mandat: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart Bundesnetzagentur-Mandat

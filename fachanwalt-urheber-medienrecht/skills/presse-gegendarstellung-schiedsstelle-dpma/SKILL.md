@@ -1,13 +1,13 @@
 ---
 name: presse-gegendarstellung-schiedsstelle-dpma
-description: "Nutze dies, wenn Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44b Urhg Ki Training Opt Out: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urheber Medienrecht Schiedsstelle Dpma Vgg, Fachanwalt Urheber Medienrecht Tdm 44B Urhg Ki Training Opt Out** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -42,12 +42,12 @@ Für **Fachanwalt Urheber Medienrecht Presse Gegendarstellung, Fachanwalt Urhebe
 
 - Landespressegesetze regeln Gegendarstellungsanspruch — z. B. § 11 BlnPrG, § 11 LPG BW, § 10 LPG NRW, § 10 BayPrG; Voraussetzungen weitgehend einheitlich.
 - Voraussetzungen Gegendarstellung:
-  - Tatsachenbehauptung in einem periodischen Druckwerk veröffentlicht (nicht Werturteil)
-  - Berechtigtes Interesse des Betroffenen
-  - Unverzüglich nach Kenntnisnahme verlangt, spätestens innerhalb der gesetzlichen Frist (häufig drei Monate)
-  - Schriftlich, mit eigenhändiger Unterschrift des Betroffenen oder gesetzlichen Vertreters
-  - Beschränkt auf Tatsachenbehauptung; angemessener Umfang (in etwa wie die Erstmitteilung)
-  - Kein strafbarer Inhalt
+ - Tatsachenbehauptung in einem periodischen Druckwerk veröffentlicht (nicht Werturteil)
+ - Berechtigtes Interesse des Betroffenen
+ - Unverzüglich nach Kenntnisnahme verlangt, spätestens innerhalb der gesetzlichen Frist (häufig drei Monate)
+ - Schriftlich, mit eigenhändiger Unterschrift des Betroffenen oder gesetzlichen Vertreters
+ - Beschränkt auf Tatsachenbehauptung; angemessener Umfang (in etwa wie die Erstmitteilung)
+ - Kein strafbarer Inhalt
 - Rundfunkrechtliche Gegendarstellung § 9 MStV (früher Rundfunkstaatsvertrag) — analoge Voraussetzungen für Rundfunk und Telemedien.
 - Abdruckpflicht — gleichwertige Platzierung in nächster erreichbarer Ausgabe ohne Veränderung, ohne Einschaltungen, lediglich kurzer redaktioneller Hinweis zulässig.
 - Einstweilige Verfügung § 935, § 940 ZPO — bei Eilbedürftigkeit und Dringlichkeitsvermutung im Presserecht regelmäßig gegeben.
@@ -378,8 +378,8 @@ Disallow: /
 <!-- EXIF/Metadaten für Bilder -->
 Copyright: [Name] [Jahr]
 Rights: TDM Reservation § 44b Abs. 3 UrhG.
-        AI Training PROHIBITED.
-        Contact: [E-Mail] for licensing.
+ AI Training PROHIBITED.
+ Contact: [E-Mail] for licensing.
 ```
 
 ### Baustein 2 – Abmahnung KI-Anbieter (§ 97a UrhG)
@@ -425,17 +425,17 @@ II. FORDERUNGEN
 Wir fordern Sie auf binnen [14 Tagen]:
 
 1. Abgabe einer strafbewehrten Unterlassungserklärung
-   bzgl. jeglicher Verwendung der genannten Werke für
-   KI-Trainingszwecke ohne ausdrückliche Einwilligung.
+ bzgl. jeglicher Verwendung der genannten Werke für
+ KI-Trainingszwecke ohne ausdrückliche Einwilligung.
 
 2. Erteilung von Auskunft gemäß § 101 UrhG über:
-   – Welche Werke wurden in welchem Datenset verwendet?
-   – Welche KI-Modelle wurden damit trainiert?
-   – Wann und in welchem Umfang erfolgte die Erhebung?
+ – Welche Werke wurden in welchem Datenset verwendet?
+ – Welche KI-Modelle wurden damit trainiert?
+ – Wann und in welchem Umfang erfolgte die Erhebung?
 
 3. Zahlung von Schadensersatz (§ 97 Abs. 2 UrhG,
-   Lizenzanalogie). Unser vorläufiger Ansatz beträgt
-   EUR [X].
+ Lizenzanalogie). Unser vorläufiger Ansatz beträgt
+ EUR [X].
 
 [Ort, Datum, Unterschrift Kanzlei]
 ```

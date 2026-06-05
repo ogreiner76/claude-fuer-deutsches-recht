@@ -110,7 +110,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 Dieser Skill schaltet das Großkanzlei-Corporate/M&A-Plugin in einen geführten Lern- und Arbeitsmodus. Er ist für Nutzerinnen und Nutzer, die eine Transaktion noch nicht sicher überblicken: Studierende, Referendarinnen und Referendare, wissenschaftliche Mitarbeitende, Praktikanten, First-Year-Associates, Inhouse-Neulinge oder fachfremde Mandatsbeteiligte.
 
-Der Modus ist nicht herablassend. Er macht das Unsichtbare sichtbar: Was ist die Aufgabe wirklich, warum ist sie wichtig, welche Unterlagen braucht man, welche Begriffe muss man verstehen, wann muss ein Senior draufschauen und welcher Spezial-Skill führt als Nächstes weiter?
+Der Modus ist nicht herablassend. Er macht das Unsichtbare sichtbar: Was ist die Aufgabe wirklich, warum ist sie wichtig, welche Unterlagen braucht man, welche Begriffe muss man verstehen, wann muss ein Senior draufschauen und welcher Fachmodul führt als Nächstes weiter?
 
 ## Aktivierung
 

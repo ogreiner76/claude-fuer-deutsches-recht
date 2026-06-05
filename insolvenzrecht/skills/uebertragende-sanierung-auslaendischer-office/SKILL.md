@@ -1,13 +1,13 @@
 ---
 name: uebertragende-sanierung-auslaendischer-office
-description: "Nutze dies, wenn Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Prüfung 17 Inso im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Prüfung 17 Inso prüfen.; Erstelle eine Arbeitsfassung zu Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Prüfung 17 Inso.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Prüfung 17 Inso: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Prüfung 17 Inso
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Uebertragende Sanierung Und Asset Deals, Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Prüfung 17 Inso** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `uebertragende-sanierung-und-asset-deals` | Insolvenzverwalter will Geschäftsbetrieb verkaufen oder Investor kauft aus der Insolvenz und braucht Prüfung des Asset-Deals. Prüfraster uebertragende Sanierung Asset Deal im Regelverfahren Zustimmung Gläubigerausschuss § 160 InsO. Insolvenzplan § 254a InsO für gesellschaftsrechtliche Massnahmen Grundstuecke Marken Kundendaten. Aufschiebend versus auflösend bedingte Klauseln Haftungsabgrenzung. Output Kaufvertragsentwurf Checkliste Vollzugs-Voraussetzungen Gläubigerausschuss-Vorlage. Abgrenzung: insolvenzplan-starug-planwerkstatt für Insolvenzplan-Erstellung (anderes Plugin). |
 | `auslaendischer-office-holder-register-und-grundbuch` | Prüft, ob und wie ein US debtor in possession, kanadischer trustee, receiver, monitor oder sonstiger ausländischer office holder in Deutschland handeln kann. |
-| `vorsatzanfechtung-133-inso` | Workflow-Skill zu vorsatzanfechtung 133 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `vorsatzanfechtung-133-inso` | Arbeitsmodul zu vorsatzanfechtung 133 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `zahlungsunfaehigkeit-pruefung-17-inso` | Erstellt ein strukturiertes Prüfgutachten zum Eröffnungsgrund der Zahlungsunfähigkeit nach § 17 InsO. Berechnet den Liquiditätsstatus zum Stichtag, wendet das 10-%-/3-Wochen-Schema des BGH an und würdigt Indizien der Zahlungseinstellung. Lädt, wenn der Nutzer Zahlungsunfähigkeit, Liquiditätsstatus, Insolvenzeröffnungsgrund oder § 17 InsO prüfen möchte. |
 
 ## Arbeitsweg
@@ -251,27 +251,27 @@ Die folgenden Klauseltypen lassen sich sowohl im Asset-Deal-Vertrag (Regelverfah
 **Empfehlung Praxisstandard "Opt-in mit Anreiz":**
 
 1. **Information** aller Betroffenen vor Vollzug (Art. 13/14 DSGVO):
-   - Identität bisheriger und künftiger Verantwortlicher
-   - Zwecke der Verarbeitung beim Erwerber
-   - Rechtsgrundlage
-   - Empfänger / Kategorien
-   - Dauer der Speicherung
-   - Rechte der Betroffenen (Art. 15-22 DSGVO)
-   - Beschwerderecht Aufsichtsbehörde
+ - Identität bisheriger und künftiger Verantwortlicher
+ - Zwecke der Verarbeitung beim Erwerber
+ - Rechtsgrundlage
+ - Empfänger / Kategorien
+ - Dauer der Speicherung
+ - Rechte der Betroffenen (Art. 15-22 DSGVO)
+ - Beschwerderecht Aufsichtsbehörde
 
 2. **Einwilligungs-Kampagne** ("Opt-in") mit Anreiz/Goodie:
-   - Schreiben oder E-Mail an alle aktiven Kunden
-   - klare Frage: "Sind Sie damit einverstanden, dass Ihre Daten an die Erwerberin übertragen werden?"
-   - klare Abgrenzung: "Auch ohne Einwilligung haben Sie Anspruch auf [Ersatzleistung / Erstattung / vertragsabwicklung]."
-   - Anreiz (Beispiele: 10-EUR-Gutschein, Verlängerung Garantie um 12 Monate, ein zusätzliches Servicepaket, Treuepunkte-Verdopplung, etc.)
-   - Rückkanal: einfaches Antwortverfahren (Online-Formular mit DOI, postalisches Antwortkärtchen, E-Mail-Confirm-Link)
-   - **Freiwilligkeit muss gewahrt sein** — keine Kopplung an unverzichtbare Leistungen (Art. 7 Abs. 4 DSGVO)
-   - Dokumentation jeder Einwilligung mit Zeitstempel, Datenpunkt, Inhalt
+ - Schreiben oder E-Mail an alle aktiven Kunden
+ - klare Frage: "Sind Sie damit einverstanden, dass Ihre Daten an die Erwerberin übertragen werden?"
+ - klare Abgrenzung: "Auch ohne Einwilligung haben Sie Anspruch auf [Ersatzleistung / Erstattung / vertragsabwicklung]."
+ - Anreiz (Beispiele: 10-EUR-Gutschein, Verlängerung Garantie um 12 Monate, ein zusätzliches Servicepaket, Treuepunkte-Verdopplung, etc.)
+ - Rückkanal: einfaches Antwortverfahren (Online-Formular mit DOI, postalisches Antwortkärtchen, E-Mail-Confirm-Link)
+ - **Freiwilligkeit muss gewahrt sein** — keine Kopplung an unverzichtbare Leistungen (Art. 7 Abs. 4 DSGVO)
+ - Dokumentation jeder Einwilligung mit Zeitstempel, Datenpunkt, Inhalt
 
 3. **Übergangsmechanik im Plan:**
-   - **aufschiebend bedingt** auf Erreichen einer Quote x % (z.B. 60 %) zugestimmter Datensätze
-   - Daten ohne Zustimmung: bleiben bei Masse zur Restabwicklung, werden nach Restabwicklung gelöscht (Art. 17 DSGVO)
-   - alternativ: Treuhand-Daten-Custodian, der Daten nur freigibt, wenn Zustimmung nachträglich erteilt
+ - **aufschiebend bedingt** auf Erreichen einer Quote x % (z.B. 60 %) zugestimmter Datensätze
+ - Daten ohne Zustimmung: bleiben bei Masse zur Restabwicklung, werden nach Restabwicklung gelöscht (Art. 17 DSGVO)
+ - alternativ: Treuhand-Daten-Custodian, der Daten nur freigibt, wenn Zustimmung nachträglich erteilt
 
 **Wichtige Schranken:**
 
@@ -408,7 +408,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und Sta
 
 ```
 ASSET-DEAL DOKUMENTATION
-IV: [NAME]    Verfahren: [AZ]    Datum: [DATUM]
+IV: [NAME] Verfahren: [AZ] Datum: [DATUM]
 
 VERAEUSSERTES VERMÖGEN:
 [Auflistung Assets, Grundstuecke, IP, Kundenstamm, Inventar]
@@ -457,7 +457,7 @@ Erzeuge ein Nachweispaket `ausländische Entscheidung / Amtsnachweis / Befugnis 
 
 ## 3. `vorsatzanfechtung-133-inso`
 
-**Fokus:** Workflow-Skill zu vorsatzanfechtung 133 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu vorsatzanfechtung 133 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Vorsatzanfechtung § 133 InsO
 
@@ -486,7 +486,7 @@ Die Vorsatzanfechtung ist die häufigste und längste Anfechtungs-Art. Mandanten
 ## Schritt 1 — Tatbestand § 133 Abs. 1 InsO
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Voraussetzungen
 
@@ -535,9 +535,9 @@ c) **Kenntnis Vertragspartner** des Vorsatzes
 Seit der Grundsatzentscheidung **BGH IX ZR 72/20 vom 06.05.2021** verfolgt der IX. Zivilsenat eine deutlich anfechtungsfreundliche Restriktion bei kongruenten Deckungen. Bestätigt und konkretisiert durch:
 
 - **BGH IX ZR 129/22 vom 18.04.2024**: Aus der bloßen objektiv festgestellten Zahlungsunfähigkeit darf nicht ohne weiteres auf einen Gläubigerbenachteiligungsvorsatz geschlossen werden. Maßgeblich ist, ob der Schuldner wusste oder zumindest billigend in Kauf nahm, dass er andere Gläubiger zu späterer Zeit nicht vollständig befriedigen kann. Bei Liquiditätsbehauptungen des Verwalters kann ein einfaches Bestreiten des außenstehenden Anfechtungsgegners genügen.
-  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - **BGH IX ZR 239/22 vom 18.04.2024** (Schwesterentscheidung zu § 135 InsO Gesellschafterdarlehen): Verschärfung der Anforderungen an die Anfechtung wegen gesellschafterähnlicher Stellung.
-  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 
 Typische Indizien des Vorsatzes (vor Ausgabe einzeln verifizieren):
 
@@ -606,8 +606,8 @@ Schuldner zahlt sofort bei Lieferung.
 
 → Bargeschäft § 142 InsO
 → Vorsatzanfechtung scheitert,
-  außer der Verwalter weist die Unlauterkeit nach BGH IX ZR 122/23
-  positiv nach.
+ außer der Verwalter weist die Unlauterkeit nach BGH IX ZR 122/23
+ positiv nach.
 ```
 
 ## Schritt 5 — Sanierungs-Bemühungen als Verteidigung
@@ -834,11 +834,11 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 - InsO §§ 129 130 131 132 133 138 142 143 146
 - **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft § 142 InsO
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 - **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung Vorsatzanfechtung § 133 InsO
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - **BGH IX ZR 239/22 vom 18.04.2024** — Anfechtung wegen gesellschafterähnlicher Stellung
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - Ältere Linie (BGH IX ZR 72/20 vom 06.05.2021 — Grundsatzentscheidung Neuausrichtung) und § 138-Konstellationen vor Ausgabe über dejure.org/openjur.de verifizieren.
 - IDW S 6 (Sanierungskonzept)
 - Literatur und Kommentarstellen nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -849,7 +849,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 **Adressat:** Anfechtungsgegner — Tonfall: scharf-fristsetzend
 
 ```
-[KANZLEI]    [DATUM]
+[KANZLEI] [DATUM]
 
 Insolvenzverfahren [FIRMA]
 Amtsgericht [ORT], Az. [XX IN YY/ZZ]
@@ -862,8 +862,8 @@ ich bin als Insolvenzverwalter im obengenannten Verfahren bestellt.
 
 Hiermit fechte ich folgende Zahlungen nach § 133 Abs. 1 InsO an:
 
-Datum          Betrag          Verwendungszweck
-[DATUM]        EUR [BETRAG]    [ZWECK]
+Datum Betrag Verwendungszweck
+[DATUM] EUR [BETRAG] [ZWECK]
 [...]
 
 Begruendung Benachteiligungsvorsatz:
@@ -926,15 +926,15 @@ und Haftungsprozess sowie gegenüber dem vorläufigen Insolvenzverwalter Stand h
 Der Nutzer stellt folgende Informationen bereit (fehlende Angaben werden abgefragt):
 
 - **Stichtag**: konkretes Datum der Prüfung (i.d.R. Tag der Antragstellung oder ein früherer
-  Zeitpunkt für Haftungszwecke)
+ Zeitpunkt für Haftungszwecke)
 - **Fällige Verbindlichkeiten (Passiva I)**: Betrag und Gläubiger aller zum Stichtag fälligen,
-  nicht gestundeten Verbindlichkeiten
+ nicht gestundeten Verbindlichkeiten
 - **Liquide Mittel (Aktiva I)**: Kassenbestand, Bankguthaben, sofort verwertbare Aktiva
 - **Zuflüsse innerhalb von 3 Wochen (Aktiva II. Stufe)**: konkret zu erwartende Zahlungseingänge
-  aus bestehenden Forderungen, zugesagten Kreditlinien u.Ä.
+ aus bestehenden Forderungen, zugesagten Kreditlinien u.Ä.
 - **Stundungsvereinbarungen**: ob schriftlich dokumentiert, glaubhaft und ernstlich gewollt
 - **Indizien** (soweit vorhanden): Lohnrückstände, SV-Beitragsrückstände, Stundungsbitten,
-  Wechselproteste, Pfändungsmaßnahmen, Insolvenzanträge anderer Gläubiger
+ Wechselproteste, Pfändungsmaßnahmen, Insolvenzanträge anderer Gläubiger
 
 ## Rechtlicher Rahmen
 
@@ -1006,35 +1006,35 @@ ihre Echtheit zu prüfen (BGH-Linie zur echten Stundung; konkrete Az. vor Ausgab
 
 **Schritt 3 – Aktiva-Erfassung**
 - *Aktiva I*: sofort verfügbare liquide Mittel zum Stichtag (Kassenbestand, Bankguthaben,
-  debitorische Konten ohne Ausschöpfung des Rahmens)
+ debitorische Konten ohne Ausschöpfung des Rahmens)
 - *Aktiva II. Stufe* (innerhalb 3 Wochen zugehend): konkret erwartete Zahlungseingänge aus
-  bestehenden Forderungen (nach vorsichtiger Einschätzung der Ausfallwahrscheinlichkeit),
-  freie Kreditlinien, erwartete Darlehensauszahlungen mit schriftlicher Zusage
+ bestehenden Forderungen (nach vorsichtiger Einschätzung der Ausfallwahrscheinlichkeit),
+ freie Kreditlinien, erwartete Darlehensauszahlungen mit schriftlicher Zusage
 
 **Schritt 4 – Aufstellung des Liquiditätsstatus**
 Gegenüberstellung in tabellarischer Form:
 
 ```
-Aktiva I (sofort verfügbar)          EUR ______
-+ Aktiva II (innerhalb 3 Wochen)     EUR ______
-= Summe liquide Mittel               EUR ______
+Aktiva I (sofort verfügbar) EUR ______
++ Aktiva II (innerhalb 3 Wochen) EUR ______
+= Summe liquide Mittel EUR ______
 
-./. Passiva I (fällige Verbindlichkeiten)  EUR ______
+./. Passiva I (fällige Verbindlichkeiten) EUR ______
 
-= Unterdeckung / Überdeckung         EUR ______
+= Unterdeckung / Überdeckung EUR ______
 ```
 
 **Schritt 5 – Quotenberechnung**
 Berechnung der Liquiditätsquote:
 
-  Quote = (Summe liquide Mittel / Passiva I) × 100
+ Quote = (Summe liquide Mittel / Passiva I) × 100
 
 Eine Quote ≥ 100 % schließt Zahlungsunfähigkeit aus. Eine Quote zwischen 90 % und 99 %
 (Unterdeckung < 10 %) begründet bei kurzfristiger Behebbarkeit nur Zahlungsstockung.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Unterdeckung < 10 % und Beseitigung innerhalb 3 Wochen absehbar → Zahlungsstockung,
-  keine Zahlungsunfähigkeit
+ keine Zahlungsunfähigkeit
 - Unterdeckung < 10 %, aber Beseitigung nicht innerhalb 3 Wochen → Zahlungsunfähigkeit
 - Unterdeckung ≥ 10 % → Zahlungsunfähigkeit unabhängig von der Perspektive der Beseitigung
 
@@ -1082,11 +1082,11 @@ Die Muster GmbH (Schuldnerin) weist zum Stichtag 31.03.2025 folgende Situation a
 **Liquiditätsstatus:**
 
 ```
-Aktiva I                    25.000 EUR
-+ Aktiva II                      0 EUR
-= Summe liquide Mittel      25.000 EUR
-./. Passiva I              320.000 EUR
-= Unterdeckung             295.000 EUR
+Aktiva I 25.000 EUR
++ Aktiva II 0 EUR
+= Summe liquide Mittel 25.000 EUR
+./. Passiva I 320.000 EUR
+= Unterdeckung 295.000 EUR
 ```
 
 **Quote:** 25.000 / 320.000 × 100 = **7,8 %**
@@ -1105,11 +1105,11 @@ der 3-Wochen-Frist Zahlungsunfähigkeit vor. Bestehen hinreichend konkrete Zuflu
 **Liquiditätsstatus:**
 
 ```
-Aktiva I                    40.000 EUR
-+ Aktiva II                      0 EUR
-= Summe liquide Mittel      40.000 EUR
-./. Passiva I              320.000 EUR
-= Unterdeckung             280.000 EUR
+Aktiva I 40.000 EUR
++ Aktiva II 0 EUR
+= Summe liquide Mittel 40.000 EUR
+./. Passiva I 320.000 EUR
+= Unterdeckung 280.000 EUR
 ```
 
 **Quote:** 40.000 / 320.000 × 100 = **12,5 %**
@@ -1182,7 +1182,7 @@ Bevor losgelegt wird, klaere:
 
 ```
 LIQUIDITAETSSTATUS (§ 17 InsO-Pruefung)
-Gesellschaft: [FIRMA]    Stichtag: [DATUM]
+Gesellschaft: [FIRMA] Stichtag: [DATUM]
 
 FAELLIGE VERBINDLICHKEITEN:
 - Lieferantenverbindlichkeiten: EUR [BETRAG]

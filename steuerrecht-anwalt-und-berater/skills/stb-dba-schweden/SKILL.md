@@ -139,12 +139,12 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Naeringsbetingad-Sondersteuerregime, Wegzugsbesteuerung.
 3. **Kurzantwort**: DBA-Schweden 1992 Art. X regelt das Besteuerungsrecht; Freistellung mit Progressionsvorbehalt aktive Einkuenfte.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-SE 1992).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
-   - Methodenartikel (Art. 23 — Freistellung aktive Einkuenfte / Anrechnung passive).
-   - § 4k EStG bei Hybridmismatch.
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-SE 1992).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+ - Methodenartikel (Art. 23 — Freistellung aktive Einkuenfte / Anrechnung passive).
+ - § 4k EStG bei Hybridmismatch.
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: Aenderungsprotokoll 2023/2024, § 50d Abs. 3 EStG, MLI-Anwendung.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

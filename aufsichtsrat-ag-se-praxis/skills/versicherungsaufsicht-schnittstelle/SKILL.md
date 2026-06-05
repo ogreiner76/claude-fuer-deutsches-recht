@@ -1,22 +1,22 @@
 ---
 name: versicherungsaufsicht-schnittstelle
-description: "Nutze dies, wenn Versicherungsaufsicht Schnittstelle, Videokonferenz, Vorlagen Review System, Vorstandsabberufung Wichtiger Grund im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Versicherungsaufsicht Schnittstelle, Videokonferenz, Vorlagen Review System, Vorstandsabberufung Wichtiger Grund prüfen.; Erstelle eine Arbeitsfassung zu Versicherungsaufsicht Schnittstelle, Videokonferenz, Vorlagen Review System, Vorstandsabberufung Wichtiger Grund.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Versicherungsaufsicht Schnittstelle, Videokonferenz, Vorlagen Review System, Vorstandsabberufung Wichtiger Grund: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Versicherungsaufsicht Schnittstelle, Videokonferenz, Vorlagen Review System, Vorstandsabberufung Wichtiger Grund
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Versicherungsaufsicht Schnittstelle, Videokonferenz, Vorlagen Review System, Vorstandsabberufung Wichtiger Grund** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `versicherungsaufsicht-schnittstelle` | AG/SE-Aufsichtsrat Praxis: Versicherungsaufsicht Schnittstelle; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `videokonferenz` | AG/SE-Aufsichtsrat Praxis: Videokonferenz; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vorlagen-review-system` | AG/SE-Aufsichtsrat Praxis: Vorlagen Review System; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vorstandsabberufung-wichtiger-grund` | AG/SE-Aufsichtsrat Praxis: Vorstandsabberufung Wichtiger Grund; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `versicherungsaufsicht-schnittstelle` | AG/SE-Aufsichtsrat Praxis: Versicherungsaufsicht Schnittstelle; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `videokonferenz` | AG/SE-Aufsichtsrat Praxis: Videokonferenz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorlagen-review-system` | AG/SE-Aufsichtsrat Praxis: Vorlagen Review System; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorstandsabberufung-wichtiger-grund` | AG/SE-Aufsichtsrat Praxis: Vorstandsabberufung Wichtiger Grund; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Versicherungsaufsicht Schnittstelle, Videokonferenz, Vorlagen Review Syst
 
 ## 1. `versicherungsaufsicht-schnittstelle`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Versicherungsaufsicht Schnittstelle; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Versicherungsaufsicht Schnittstelle; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Versicherungsaufsicht Schnittstelle
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `videokonferenz`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Videokonferenz; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Videokonferenz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Videokonferenz
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `vorlagen-review-system`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorlagen Review System; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorlagen Review System; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorlagen Review System
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `vorstandsabberufung-wichtiger-grund`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsabberufung Wichtiger Grund; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsabberufung Wichtiger Grund; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorstandsabberufung Wichtiger Grund
 

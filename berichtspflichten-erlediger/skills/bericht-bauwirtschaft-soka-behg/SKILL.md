@@ -1,13 +1,13 @@
 ---
 name: bericht-bauwirtschaft-soka-behg
-description: "Nutze dies, wenn Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5 im Plugin Berichtspflichten Erlediger konkret bearbeitet werden soll. Auslöser: Bitte Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5 prüfen.; Erstelle eine Arbeitsfassung zu Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

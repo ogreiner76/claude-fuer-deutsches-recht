@@ -1,6 +1,6 @@
 ---
 name: steuerberater-mandantenentscheidung
-description: "Nutze dies, wenn Steuerberater: Mandantenkommunikation und Entscheidungsvorlage im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater: Mandantenkommunikation und Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater: Mandantenkommunikation und Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Steuerberater: Mandantenkommunikation und Entscheidungsvorlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Steuerberater: Mandantenkommunikation und Entscheidungsvorlage

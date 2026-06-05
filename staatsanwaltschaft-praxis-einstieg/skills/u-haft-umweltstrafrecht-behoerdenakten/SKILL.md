@@ -1,13 +1,13 @@
 ---
 name: u-haft-umweltstrafrecht-behoerdenakten
-description: "Nutze dies, wenn U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis prüfen.; Erstelle eine Arbeitsfassung zu U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **U Haft Fluchtgefahr Verhaeltnismaessigkeit, Umweltstrafrecht Behoerdenakten, Untreue Geschaeftsfuehrer Kontoanalyse, Urheber Und Markenstrafrecht Praxis, Verkehrsstrafrecht Blutprobe Fahrerlaubnis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** dringender Tatverdacht, Haftgrund, mildere Mittel und Haftfortdauerlogik
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -94,7 +94,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** §§ 324 ff. StGB, Genehmigungslage, Messwerte, Sachverständige und Gefahrenabwehr
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -143,7 +143,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Vermögensbetreuungspflicht, Nachteil, Business-Judgment-Nähe und Belegauswertung
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -192,7 +192,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Strafantrag, Verletzungsnachweis, Rechtekette, Durchsuchung und Schadensannahmen
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -241,7 +241,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** §§ 315c, 316 StGB, § 81a StPO, Entziehung und Tagessatzlogik
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

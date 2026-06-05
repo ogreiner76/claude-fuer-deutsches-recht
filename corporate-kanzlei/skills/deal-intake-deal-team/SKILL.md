@@ -1,19 +1,19 @@
 ---
 name: deal-intake-deal-team
-description: "Nutze dies, wenn Corporate Kanzlei Deal Intake, Corporate Kanzlei Deal Team Staffing im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Corporate Kanzlei Deal Intake, Corporate Kanzlei Deal Team Staffing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Deal Intake, Corporate Kanzlei Deal Team Staffing
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Deal Intake, Corporate Kanzlei Deal Team Staffing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `corporate-kanzlei-deal-intake` | Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Spezialskills (SPA, DD, Regulatory); für laufendes Mandat siehe kommandocenter. |
+| `corporate-kanzlei-deal-intake` | Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Fachmodule (SPA, DD, Regulatory); für laufendes Mandat siehe kommandocenter. |
 | `corporate-kanzlei-deal-team-staffing` | Transaktionsteam zusammenstellen und Workstreams verteilen für M&A-Mandate: Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberprüfen. Normen: BRAO § 43a (Interessenkonflikte), RVG/Stundenhonorar, Budget-Richtlinien. Prüfraster: Workstream-Matrix, Kapazitaetsplanung, Eskalationspfade, Stunden-Reporting. Output Team-Staffing-Plan, Workstream-Zuweisung, Budget-Controlling-Template. Abgrenzung: PMO-Gesamtplanung siehe steps-plan-pmo; Konflikt-Check siehe conflict-gwg-sanctions. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Corporate Kanzlei Deal Intake, Corporate Kanzlei Deal Team Staffing** zue
 
 ## 1. `corporate-kanzlei-deal-intake`
 
-**Fokus:** Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Spezialskills (SPA, DD, Regulatory); für laufendes Mandat siehe kommandocenter.
+**Fokus:** Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Fachmodule (SPA, DD, Regulatory); für laufendes Mandat siehe kommandocenter.
 
 # Deal-Intake
 
@@ -194,12 +194,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Zielgesellschaft borsennotiert oder Konzernteil einer Boersengesellschaft?
-  → Ja: Insiderinformation vorhanden?
-       → Ja: Insider-Log anlegen (Art. 18 MAR); Ad-Hoc ggf. erforderlich
-              → Vertraulichkeit von Mandant einfordern (NDA/MAR-Pflicht)
-       → Nein: laufend pruefen; Transaktionsbekanntgabe kann Insiderinformation werden
-  → Nein: GwG-Standard-CDD; keine MAR-Pflichten im engeren Sinne
-          → aber: Marktmanipulation (Art. 12 MAR) auch bei nicht-borsennotierten moeglich
+ → Ja: Insiderinformation vorhanden?
+ → Ja: Insider-Log anlegen (Art. 18 MAR); Ad-Hoc ggf. erforderlich
+ → Vertraulichkeit von Mandant einfordern (NDA/MAR-Pflicht)
+ → Nein: laufend pruefen; Transaktionsbekanntgabe kann Insiderinformation werden
+ → Nein: GwG-Standard-CDD; keine MAR-Pflichten im engeren Sinne
+ → aber: Marktmanipulation (Art. 12 MAR) auch bei nicht-borsennotierten moeglich
 ```
 
 ## Output-Template Deal-Karte

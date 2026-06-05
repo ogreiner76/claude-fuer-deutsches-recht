@@ -1,13 +1,13 @@
 ---
 name: recall-crisis-retail-pop
-description: "Nutze dies, wenn Recall Crisis Fashion, Retail Pop Up Store im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Recall Crisis Fashion, Retail Pop Up Store prüfen.; Erstelle eine Arbeitsfassung zu Recall Crisis Fashion, Retail Pop Up Store.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Recall Crisis Fashion, Retail Pop Up Store: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Recall Crisis Fashion, Retail Pop Up Store
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Recall Crisis Fashion, Retail Pop Up Store** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

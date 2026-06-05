@@ -1,13 +1,13 @@
 ---
 name: kv-buergergeld-kv-satzungsleistungen-kv-md
-description: "Nutze dies, wenn Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten prüfen.; Erstelle eine Arbeitsfassung zu Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 020 Bürgergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

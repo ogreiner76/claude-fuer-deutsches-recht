@@ -1,13 +1,13 @@
 ---
 name: spez-gesinderecht-staatshaftung
-description: "Nutze dies, wenn Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat, Pralr 003 Quellenkritik Fraktur Ocr im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat, Pralr 003 Quellenkritik Fraktur Ocr prüfen.; Erstelle eine Arbeitsfassung zu Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat, Pralr 003 Quellenkritik Fraktur Ocr.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat, Pralr 003 Quellenkritik Fraktur Ocr
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat, Pralr 003 Quellenkritik Fraktur Ocr** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

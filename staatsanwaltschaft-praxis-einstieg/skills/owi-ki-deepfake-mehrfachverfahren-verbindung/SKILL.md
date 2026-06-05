@@ -1,13 +1,13 @@
 ---
 name: owi-ki-deepfake-mehrfachverfahren-verbindung
-description: "Nutze dies, wenn Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit, Owi Einspruch Und Zwischenverfahren 69 im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit, Owi Einspruch Und Zwischenverfahren 69 prüfen.; Erstelle eine Arbeitsfassung zu Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit, Owi Einspruch Und Zwischenverfahren 69.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit, Owi Einspruch Und Zwischenverfahren 69
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit, Owi Einspruch Und Zwischenverfahren 69** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Authentizität, Sachverständige, Bild-/Tonforensik, Beweiswert und Täuschungsrisiko
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -94,7 +94,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Tatmehrheit, Beschuldigtenmehrheit, Aktenzeichen, Zuständigkeit und Prozessökonomie
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -141,7 +141,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
 
-## Kaltstart
+## Einstieg
 
 1. Verfahrensart klären: Strafverfahren, reine OWi-Sache, Mischfall oder Übergang zwischen beiden.
 2. Zuständigkeit klären: Verwaltungsbehörde, Staatsanwaltschaft, Amtsgericht, Jugendrichter, Landgericht bei Datenschutz-Sonderfall oder Rechtsbeschwerdegericht.
@@ -199,7 +199,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
 
-## Kaltstart
+## Einstieg
 
 1. Verfahrensart klären: Strafverfahren, reine OWi-Sache, Mischfall oder Übergang zwischen beiden.
 2. Zuständigkeit klären: Verwaltungsbehörde, Staatsanwaltschaft, Amtsgericht, Jugendrichter, Landgericht bei Datenschutz-Sonderfall oder Rechtsbeschwerdegericht.
@@ -257,7 +257,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
 
-## Kaltstart
+## Einstieg
 
 1. Verfahrensart klären: Strafverfahren, reine OWi-Sache, Mischfall oder Übergang zwischen beiden.
 2. Zuständigkeit klären: Verwaltungsbehörde, Staatsanwaltschaft, Amtsgericht, Jugendrichter, Landgericht bei Datenschutz-Sonderfall oder Rechtsbeschwerdegericht.

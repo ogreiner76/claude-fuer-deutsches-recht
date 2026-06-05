@@ -35,7 +35,7 @@ Mobile Roboter (AMR, AGV, Liefer-, Reinigungs-, Mähroboter) werden überwiegend
 - **VdS-Bedingungen** (VdS 3103, VdS 3856) zu Li-Ion-Lagerung.
 - **ProdHaftG / VO (EU) 2024/2853** Produkthaftung, § 823 BGB.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Zellklassifizierung.** Energie pro Zelle und Pack, Chemie, Brandverhalten (Thermal Runaway).
 2. **Konformität.** Batterie-VO, MaschinenVO, ggf. CRA, UN 38.3 Transportsicherheit.

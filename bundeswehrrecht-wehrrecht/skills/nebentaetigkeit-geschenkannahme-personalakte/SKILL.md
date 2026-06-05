@@ -1,13 +1,13 @@
 ---
 name: nebentaetigkeit-geschenkannahme-personalakte
-description: "Nutze dies, wenn Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datenschutz, Personalvertretung Zivile Beschaeftigte Schnittstelle im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datenschutz, Personalvertretung Zivile Beschaeftigte Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datenschutz, Personalvertretung Zivile Beschaeftigte Schnittstelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datenschutz, Personalvertretung Zivile Beschaeftigte Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datenschutz, Personalvertretung Zivile Beschaeftigte Schnittstelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nebentaetigkeit Geschenkannahme Compliance, Personalakte Einsicht Datenschutz, Personalvertretung Zivile Beschaeftigte Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -61,15 +61,15 @@ Soldaten dürfen Nebentätigkeiten nur eingeschränkt und nur nach vorheriger Ge
 - ZDv A-2614/1 (Nebentätigkeit) – nur nach Vorlage.
 - BHO-Geschenkrichtlinien.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Tätigkeit oder Geschenk klassifizieren.** Selbständig, Anstellung, Ehrenamt, einmalige Aufmerksamkeit, regelmäßige Zuwendung?
 2. **Genehmigungsbedarf prüfen.** Pflicht-Anzeige oder Pflicht-Genehmigung?
 3. **Versagungsgründe nach § 20 SG prüfen:**
-   - Wesentliche Beeinträchtigung dienstlicher Pflichten,
-   - Konkurrenz zum Dienstherrn,
-   - Beeinträchtigung der Unparteilichkeit,
-   - Sittenwidrigkeit.
+ - Wesentliche Beeinträchtigung dienstlicher Pflichten,
+ - Konkurrenz zum Dienstherrn,
+ - Beeinträchtigung der Unparteilichkeit,
+ - Sittenwidrigkeit.
 4. **Schriftlicher Antrag** mit Tätigkeitsbeschreibung, Zeitaufwand, Vergütung, Auftraggeber.
 5. **Geschenkannahme:** Sofortmeldung an Vorgesetzten, Schriftliche Anzeige, ggf. Rückgabe oder Hinterlegung.
 6. **Compliance-Folgen.** Strafanzeige (§ 331/332 StGB), WDO-Verfahren parallel.
@@ -215,7 +215,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -325,7 +325,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

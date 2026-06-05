@@ -17,14 +17,14 @@ description: "Rollierende Liquiditaetsvorschau fuer 3/6/12 Monate mit Fortfuehru
 Dieser Skill erzeugt aus dem typischerweise vorhandenen, oft unstrukturierten Material einer kleinen Kapitalgesellschaft (offene Rechnungen, Bankauszüge, BWA, SuSa, Zahlungserwartungen, Kreditverträge, Daueraufträge, Sozialversicherungs- und Steuerbescheide) eine **rollierende Liquiditätsvorschau** mit folgenden Funktionen:
 
 1. **Wochenraster (Mo–So)** über drei Horizonte:
-   - **Kurzfristhorizont 13 Wochen (3 Monate)** – primär für § 17 InsO (Zahlungsunfähigkeit).
-   - **Mittelfristhorizont 26 Wochen (6 Monate)** – Brücke zwischen Zahlungsfähigkeit und Fortführungsprognose.
-   - **Langfristhorizont 52 Wochen (12 Monate)** – Grundlage Fortbestehensprognose nach § 19 Abs. 2 InsO und Fortführungsprognose nach IDW S 6.
+ - **Kurzfristhorizont 13 Wochen (3 Monate)** – primär für § 17 InsO (Zahlungsunfähigkeit).
+ - **Mittelfristhorizont 26 Wochen (6 Monate)** – Brücke zwischen Zahlungsfähigkeit und Fortführungsprognose.
+ - **Langfristhorizont 52 Wochen (12 Monate)** – Grundlage Fortbestehensprognose nach § 19 Abs. 2 InsO und Fortführungsprognose nach IDW S 6.
 
 2. **Automatische Insolvenzreife-Ampel** für jede Woche:
-   - **Grün**: Liquide Mittel > 110 % der in der Folgewoche fällig werdenden Verbindlichkeiten.
-   - **Gelb (Zahlungsstockung)**: Lücke < 10 % oder Lücke ≥ 10 %, aber innerhalb von 3 Wochen schließbar.
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - **Grün**: Liquide Mittel > 110 % der in der Folgewoche fällig werdenden Verbindlichkeiten.
+ - **Gelb (Zahlungsstockung)**: Lücke < 10 % oder Lücke ≥ 10 %, aber innerhalb von 3 Wochen schließbar.
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. **Fortbestehens- und Sanierungsbrücke**: 12-Monats-Auswertung für § 19 InsO plus Übergabe in eine Sanierungsplanung auf IDW-S-6-Niveau. Die Liquiditätsvorschau allein ist noch kein Sanierungskonzept; sie muss bei Bedarf mit GuV, Planbilanz, Maßnahmenlog und Leitbild verzahnt werden.
 
@@ -133,13 +133,13 @@ Format-Wahl (Abschnitt *Format- und Padlet-Wahl*) und Banking-Wahl (Abschnitt *B
 - Prüfe zuerst die insolvenzrechtliche Fortbestehensprognose: bleibt die Zahlungsfähigkeit im Prognosezeitraum überwiegend wahrscheinlich erhalten?
 - Prüfe danach, ob die Vorschau in eine Sanierungsplanung überführt werden muss. Das ist regelmäßig der Fall bei Bankgespräch, StaRUG, Schutzschirm, Eigenverwaltung, Insolvenzplan oder wenn Gläubiger einen Sanierungsnachweis verlangen.
 - Für die Sanierungsbrücke sind diese Kernelemente abzuhaken:
-  1. **Ausgangslage:** Unternehmensstruktur, Vermögens-, Finanz- und Ertragslage, Datenstand.
-  2. **Krisenstadium und Ursachen:** Stakeholder-, Strategie-, Produkt-/Absatz-, Erfolgs-, Liquiditäts- oder Insolvenzkrise; Ursachen nicht nur Symptome.
-  3. **Leitbild des sanierten Unternehmens:** Geschäftsmodell, Markt, Kostenbasis, Organisation, Finanzierung und Risikoprofil nach Sanierung.
-  4. **Maßnahmen:** Innenfinanzierung, Außenfinanzierung, leistungswirtschaftliche und finanzwirtschaftliche Beiträge mit Kosten, Timing, Effekt und Belegstatus.
-  5. **Integrierte Planung:** GuV, Planbilanz und Liquidität; Working Capital, Steuern, Zinsen, Tilgung, Mindestliquidität.
-  6. **Szenarien:** Base Case und plausible Downside; bei hoher Unsicherheit weitere Sensitivitäten.
-  7. **Ergebnis:** positive/negative Fortbestehensprognose und getrennt davon tragfähige/nicht tragfähige Sanierungsfähigkeit.
+ 1. **Ausgangslage:** Unternehmensstruktur, Vermögens-, Finanz- und Ertragslage, Datenstand.
+ 2. **Krisenstadium und Ursachen:** Stakeholder-, Strategie-, Produkt-/Absatz-, Erfolgs-, Liquiditäts- oder Insolvenzkrise; Ursachen nicht nur Symptome.
+ 3. **Leitbild des sanierten Unternehmens:** Geschäftsmodell, Markt, Kostenbasis, Organisation, Finanzierung und Risikoprofil nach Sanierung.
+ 4. **Maßnahmen:** Innenfinanzierung, Außenfinanzierung, leistungswirtschaftliche und finanzwirtschaftliche Beiträge mit Kosten, Timing, Effekt und Belegstatus.
+ 5. **Integrierte Planung:** GuV, Planbilanz und Liquidität; Working Capital, Steuern, Zinsen, Tilgung, Mindestliquidität.
+ 6. **Szenarien:** Base Case und plausible Downside; bei hoher Unsicherheit weitere Sensitivitäten.
+ 7. **Ergebnis:** positive/negative Fortbestehensprognose und getrennt davon tragfähige/nicht tragfähige Sanierungsfähigkeit.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wenn ein Sanierungskonzept oder eine Bankunterlage gewünscht ist, nach dem Excel-Export an `idw-s6-integrierte-sanierungsplanung` übergeben. Die Vorschau liefert dann die Cash-Seite, nicht die gesamte Sanierungsbegründung.
@@ -225,12 +225,12 @@ Bevor losgelegt wird, klaere:
 
 ```
 13-WOCHEN-LIQUIDITAETSVORSCHAU (direkte Methode)
-Gesellschaft: [FIRMA]    Erstellt: [DATUM]    Ersteller: [NAME]
+Gesellschaft: [FIRMA] Erstellt: [DATUM] Ersteller: [NAME]
 
 Woche | Anfangsbestand | Einzahlungen | Auszahlungen | Endbestand | Kreditlinie | Freie Liqui
-  1   |   EUR [XXX]    |  EUR [YYY]   |  EUR [ZZZ]   |  EUR [AAA] |  EUR [BBB]  |  EUR [CCC]
-  2   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
- 13   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
+ 1 | EUR [XXX] | EUR [YYY] | EUR [ZZZ] | EUR [AAA] | EUR [BBB] | EUR [CCC]
+ 2 | ... | ... | ... | ... | ... | ...
+ 13 | ... | ... | ... | ... | ... | ...
 
 AMPEL-STATUS:
 Wochen 1-4 (kurzfristig): [GRUEN / GELB / ROT]

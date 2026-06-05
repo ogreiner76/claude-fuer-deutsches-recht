@@ -1,13 +1,13 @@
 ---
 name: immissionen-laerm-landesnachbarrecht
-description: "Nutze dies, wenn Immissionen Laerm Geruch Rauch Licht, Landesnachbarrecht Router, Nach Grenzbebauung Ueberhang Spezial im Plugin Nachbarschaftsstreit Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Immissionen Laerm Geruch Rauch Licht, Landesnachbarrecht Router, Nach Grenzbebauung Ueberhang Spezial prüfen.; Erstelle eine Arbeitsfassung zu Immissionen Laerm Geruch Rauch Licht, Landesnachbarrecht Router, Nach Grenzbebauung Ueberhang Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Immissionen Laerm Geruch Rauch Licht, Landesnachbarrecht Router, Nach Grenzbebauung Ueberhang Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Immissionen Laerm Geruch Rauch Licht, Landesnachbarrecht Router, Nach Grenzbebauung Ueberhang Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Immissionen Laerm Geruch Rauch Licht, Landesnachbarrecht Router, Nach Grenzbebauung Ueberhang Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -99,19 +99,19 @@ Nachbarrecht ist föderal. Dieser Skill verhindert, dass ein NRW-Zaunfall mit Be
 1. Bundesland feststellen.
 2. Gemeinde und Lage klären.
 3. Streitgegenstand landesrechtlich einordnen:
-   - Einfriedung,
-   - Grenzabstände für Pflanzen,
-   - Nachbarwand/Grenzwand,
-   - Hammerschlags- und Leiterrecht,
-   - Fenster-/Lichtrechte,
-   - Aufschichtungen,
-   - Ausschlussfristen.
+ - Einfriedung,
+ - Grenzabstände für Pflanzen,
+ - Nachbarwand/Grenzwand,
+ - Hammerschlags- und Leiterrecht,
+ - Fenster-/Lichtrechte,
+ - Aufschichtungen,
+ - Ausschlussfristen.
 4. Kommunale Satzungen prüfen:
-   - Baumschutzsatzung,
-   - Bebauungsplan,
-   - Gestaltungssatzung,
-   - Vorgartensatzung,
-   - Baumschutz-/Naturschutzregelungen.
+ - Baumschutzsatzung,
+ - Bebauungsplan,
+ - Gestaltungssatzung,
+ - Vorgartensatzung,
+ - Baumschutz-/Naturschutzregelungen.
 
 ## Output
 

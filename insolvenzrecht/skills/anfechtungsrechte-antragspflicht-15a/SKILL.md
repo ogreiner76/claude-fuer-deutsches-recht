@@ -1,13 +1,13 @@
 ---
 name: anfechtungsrechte-antragspflicht-15a
-description: "Nutze dies, wenn Anfechtungsrechte Prüfen, Antragspflicht 15A Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Anfechtungsrechte Prüfen, Antragspflicht 15A Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso prüfen.; Erstelle eine Arbeitsfassung zu Anfechtungsrechte Prüfen, Antragspflicht 15A Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anfechtungsrechte Prüfen, Antragspflicht 15a Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anfechtungsrechte Prüfen, Antragspflicht 15A Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anfechtungsrechte Prüfen, Antragspflicht 15A Inso, Auslaendischer Insolvenzverwalter Register Und Grundbuch, Forderungsanmeldung Glaeubiger 174 177 Inso** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -95,10 +95,10 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 
 - **BGH IX ZR 72/20 vom 06.05.2021** (Grundsatzentscheidung Neuausrichtung) — bloße objektive Zahlungsunfähigkeit lässt keinen automatischen Schluss auf Vorsatz zu.
 - **BGH IX ZR 129/22 vom 18.04.2024** — Bestätigung der Linie: bei verifizierter Zahlungsunfähigkeit ist konkret darzulegen, ob der Schuldner wusste oder billigend in Kauf nahm, dass andere Gläubiger zu späterer Zeit nicht vollständig befriedigt werden können.
-  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - Seit 2017 Vorsatz-Anfechtung gestaffelt:
-  - **Vier Jahre** für Deckungs-Konstellationen (§ 133 Abs. 2 InsO) — kongruent
-  - **Zehn Jahre** für sonstige Konstellationen (§ 133 Abs. 1 InsO)
+ - **Vier Jahre** für Deckungs-Konstellationen (§ 133 Abs. 2 InsO) — kongruent
+ - **Zehn Jahre** für sonstige Konstellationen (§ 133 Abs. 1 InsO)
 
 ### § 134 InsO — Unentgeltliche Leistung
 
@@ -227,11 +227,11 @@ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=
 
 - InsO §§ 129–147
 - **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft § 142 InsO
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 - **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung Vorsatzanfechtung
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - **BGH IX ZR 239/22 vom 18.04.2024** — Anfechtung wegen gesellschafterähnlicher Stellung (§ 135 InsO)
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - Ältere Leitentscheidungen (insb. BGH IX ZR 72/20 vom 06.05.2021, Liquiditätsstatus-Beweislast, § 138 InsO nahestehende Personen): vor Ausgabe konkretes Datum, Aktenzeichen, Randnummer in offener Quelle (dejure.org, openjur.de, bundesgerichtshof.de) prüfen.
 - Literatur und Handbücher nur bei vorhandenem Live-Zugriff.
 
@@ -275,12 +275,12 @@ pflichten des Geschäftsleiters.
 
 - Rechtsform der Gesellschaft (GmbH, AG, GmbH & Co. KG, etc.)
 - Festgestellter oder streitiger Eröffnungsgrund (Zahlungsunfähigkeit, drohende
-  Zahlungsunfähigkeit, Überschuldung) — ggf. Verweis auf Schwester-Skills
-  § 17 InsO und § 19 InsO
+ Zahlungsunfähigkeit, Überschuldung) — ggf. Verweis auf Schwester-Skills
+ § 17 InsO und § 19 InsO
 - Zeitpunkt des Eintritts des Eröffnungsgrundes (tatsächlich oder vorgeworfen)
 - Zeitpunkt der Antragstellung bzw. deren Unterlassen
 - Vorhandensein von Sanierungsbemühungen (StaRUG, außergerichtliche Einigung,
-  Sanierungsmoderation § 94 ff. StaRUG) und deren Dokumentationsstand
+ Sanierungsmoderation § 94 ff. StaRUG) und deren Dokumentationsstand
 - Zahlungen nach Eintritt des Eröffnungsgrundes (Art, Betrag, Datum)
 - D&O-Versicherungsschutz (soweit relevant)
 
@@ -309,11 +309,11 @@ haftet.
 
 **Abs. 4–6 — Strafbarkeit:**
 - Abs. 4: Vorsätzliche Verletzung der Antragspflicht — Freiheitsstrafe bis zu
-  drei Jahren oder Geldstrafe.
+ drei Jahren oder Geldstrafe.
 - Abs. 5: Fahrlässige Verletzung — Freiheitsstrafe bis zu einem Jahr oder
-  Geldstrafe.
+ Geldstrafe.
 - Abs. 6: Strafbarkeitsmilderung bei nachgeholtem Antrag; Abs. 4 bleibt
-  Offizialdelikt.
+ Offizialdelikt.
 
 ### § 15b InsO — Zahlungsverbot (seit SanInsFoG 01.01.2021)
 
@@ -373,13 +373,13 @@ Quelle: Bundesgerichtshof Pressemitteilung 2025; <https://www.noerr.com/de/insig
 
 > **Grundsätze (aus älterer BGH-Rspr., vor Ausgabe live verifizieren):**
 > - § 15a InsO ist Schutzgesetz iSd § 823 Abs. 2 BGB. Neugläubiger können
->   ihren vollen Vertrauensschaden ersetzt verlangen; Altgläubiger sind auf
->   den Quotenschaden beschränkt.
+> ihren vollen Vertrauensschaden ersetzt verlangen; Altgläubiger sind auf
+> den Quotenschaden beschränkt.
 > - Feststellung der Zahlungsunfähigkeit über Liquiditätsbilanz; die
->   Dreiwochenfrist dient nur der Abgrenzung zur vorübergehenden
->   Zahlungsstockung — keine "Schonfrist".
+> Dreiwochenfrist dient nur der Abgrenzung zur vorübergehenden
+> Zahlungsstockung — keine "Schonfrist".
 > - Der Geschäftsführer muss die wirtschaftliche Lage laufend im Blick
->   behalten; fahrlässige Unkenntnis schützt nicht.
+> behalten; fahrlässige Unkenntnis schützt nicht.
 > Verifizierung erforderlich: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe Gericht, Entscheidungsform, Datum, Aktenzeichen und tragende Aussage über offizielle oder frei zugängliche Quelle (dejure.org, openjur.de, bundesgerichtshof.de) prüfen.
 
 ### Quellenregel
@@ -397,45 +397,45 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
 
 ## Ablauf
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Feststellung des Eröffnungsgrundes**
-   Zunächst ist zu klären, ob Zahlungsunfähigkeit (§ 17 InsO — s. Schwester-
-   Skill) oder Überschuldung (§ 19 InsO — s. Schwester-Skill) vorliegt.
-   Maßgeblicher Zeitpunkt ist der objektive Eintritt; für die Haftung genügt
-   Kennenmüssen (fahrlässige Unkenntnis). IDW S 11 liefert den methodischen
-   Rahmen.
+ Zunächst ist zu klären, ob Zahlungsunfähigkeit (§ 17 InsO — s. Schwester-
+ Skill) oder Überschuldung (§ 19 InsO — s. Schwester-Skill) vorliegt.
+ Maßgeblicher Zeitpunkt ist der objektive Eintritt; für die Haftung genügt
+ Kennenmüssen (fahrlässige Unkenntnis). IDW S 11 liefert den methodischen
+ Rahmen.
 
 2. **Beginn der Antragsfrist**
-   Die Frist beginnt mit dem objektiven Eintritt des Eröffnungsgrundes,
-   frühestens jedoch mit dem Zeitpunkt, in dem der Geschäftsleiter diesen
-   kannte oder bei pflichtgemäßer Sorgfalt kennen musste (fahrlässige
-   Unkenntnis schützt nicht). Dreiwochenfrist bei Zahlungsunfähigkeit,
-   Sechswochenfrist bei Überschuldung (seit 01.01.2021, SanInsFoG).
-   Konkrete BGH-Entscheidungen zur Erkennbarkeit der Insolvenzreife vor Ausgabe verifizieren (dejure.org, openjur.de).
+ Die Frist beginnt mit dem objektiven Eintritt des Eröffnungsgrundes,
+ frühestens jedoch mit dem Zeitpunkt, in dem der Geschäftsleiter diesen
+ kannte oder bei pflichtgemäßer Sorgfalt kennen musste (fahrlässige
+ Unkenntnis schützt nicht). Dreiwochenfrist bei Zahlungsunfähigkeit,
+ Sechswochenfrist bei Überschuldung (seit 01.01.2021, SanInsFoG).
+ Konkrete BGH-Entscheidungen zur Erkennbarkeit der Insolvenzreife vor Ausgabe verifizieren (dejure.org, openjur.de).
 
 3. **Sanierungsversuche dokumentieren**
-   Sanierungsbemühungen können den Fristablauf nicht hemmen, senken aber das
-   Verschulden und können im Einzelfall belegen, dass keine Pflicht­verletzung
-   vorlag. Voraussetzung ist ein belastbares Sanierungskonzept mit konkreter
-   Erfolgsaussicht. Geeignete Instrumente: außergerichtliche Einigung,
-   Sanierungsmoderation (§§ 94 ff. StaRUG), vorläufiger Restrukturierungs­rahmen
-   (§§ 29 ff. StaRUG). Jede Maßnahme ist schriftlich mit Datum, Beteiligten und
-   Ergebnis zu dokumentieren (Vorstands-/Geschäftsführerprotokoll).
+ Sanierungsbemühungen können den Fristablauf nicht hemmen, senken aber das
+ Verschulden und können im Einzelfall belegen, dass keine Pflicht­verletzung
+ vorlag. Voraussetzung ist ein belastbares Sanierungskonzept mit konkreter
+ Erfolgsaussicht. Geeignete Instrumente: außergerichtliche Einigung,
+ Sanierungsmoderation (§§ 94 ff. StaRUG), vorläufiger Restrukturierungs­rahmen
+ (§§ 29 ff. StaRUG). Jede Maßnahme ist schriftlich mit Datum, Beteiligten und
+ Ergebnis zu dokumentieren (Vorstands-/Geschäftsführerprotokoll).
 
 4. **Antragstellung spätestens mit Ablauf der Höchstfrist**
-   Bei Zahlungsunfähigkeit: Antrag spätestens am 21. Tag nach Fristbeginn.
-   Bei Überschuldung: spätestens am 42. Tag. Jeder Tag der Überschreitung
-   verlängert den Haftungszeitraum. Fristversäumnis begründet zugleich
-   Strafbarkeit nach § 15a Abs. 4 oder Abs. 5 InsO.
+ Bei Zahlungsunfähigkeit: Antrag spätestens am 21. Tag nach Fristbeginn.
+ Bei Überschuldung: spätestens am 42. Tag. Jeder Tag der Überschreitung
+ verlängert den Haftungszeitraum. Fristversäumnis begründet zugleich
+ Strafbarkeit nach § 15a Abs. 4 oder Abs. 5 InsO.
 
 5. **Haftungsdokumentation Geschäftsführer**
-   Für die Haftungsabwehr ist eine lückenlose Dokumentation erforderlich:
-   Bilanzen, Liquiditätspläne, Beratungsmandate (Steuerberater, Sanierungsberater),
-   Gesellschafter­beschlüsse, Korrespondenz mit Gläubigern und Kreditinstituten.
-   Bei Beauftragung eines Insolvenzberaters: Mandat, Stellungnahme und zeitlicher
-   Ablauf festhalten. Bestehende D&O-Versicherungspolice prüfen (Coverage,
-   Selbstbehalt, Ausschlussklauseln für wissentliche Pflichtverletzungen).
+ Für die Haftungsabwehr ist eine lückenlose Dokumentation erforderlich:
+ Bilanzen, Liquiditätspläne, Beratungsmandate (Steuerberater, Sanierungsberater),
+ Gesellschafter­beschlüsse, Korrespondenz mit Gläubigern und Kreditinstituten.
+ Bei Beauftragung eines Insolvenzberaters: Mandat, Stellungnahme und zeitlicher
+ Ablauf festhalten. Bestehende D&O-Versicherungspolice prüfen (Coverage,
+ Selbstbehalt, Ausschlussklauseln für wissentliche Pflichtverletzungen).
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -455,20 +455,20 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 Ausgabe in strukturierter Prosa oder tabellarischer Form, jeweils bestehend aus:
 
 - **Sachverhaltszusammenfassung:** Eröffnungsgrund, Datum des Eintritts,
-  Fristbeginn und -ende (konkrete Daten).
+ Fristbeginn und -ende (konkrete Daten).
 - **Haftungsprüfung:** Pflicht­verletzung (ja/nein, Begründung), Verschulden
-  (Vorsatz/Fahrlässigkeit), Schaden (Neugläubiger: Vertrauensschaden;
-  Altgläubiger: Quotenschaden). Bei ausgeschiedenem GF: BGH II ZR 206/22
-  prüfen (fortwirkende Gefährdungslage).
+ (Vorsatz/Fahrlässigkeit), Schaden (Neugläubiger: Vertrauensschaden;
+ Altgläubiger: Quotenschaden). Bei ausgeschiedenem GF: BGH II ZR 206/22
+ prüfen (fortwirkende Gefährdungslage).
 - **Zahlungsverbot-Prüfung (§ 15b InsO):** Verbotene Zahlungen mit Datum und
-  Betrag; Ausnahmen (§ 15b Abs. 1 S. 2, Abs. 8).
+ Betrag; Ausnahmen (§ 15b Abs. 1 S. 2, Abs. 8).
 - **Strafrechtliches Risiko:** § 15a Abs. 4 oder Abs. 5 InsO; bei faktischer
-  Geschäftsführung BGH 5 StR 287/24 vom 27.02.2025 beachten.
+ Geschäftsführung BGH 5 StR 287/24 vom 27.02.2025 beachten.
 - **Handlungsempfehlungen:** Nachholung des Antrags, Dokumentation,
-  D&O-Deckungsprüfung (BGH IV ZR 66/25 vom 19.11.2025: positive Kenntnis pro
-  Pflichtverletzung erforderlich).
+ D&O-Deckungsprüfung (BGH IV ZR 66/25 vom 19.11.2025: positive Kenntnis pro
+ Pflichtverletzung erforderlich).
 - **Belege:** Mindestens zwei einschlägige BGH-Entscheidungen mit Randnummer
-  aus offener Quelle (dejure.org, openjur.de, bundesgerichtshof.de), IDW S 11.
+ aus offener Quelle (dejure.org, openjur.de, bundesgerichtshof.de), IDW S 11.
 
 ## Beispiel
 
@@ -484,23 +484,23 @@ Ein Insolvenzantrag wird erst am 02.06.2026 gestellt.
 **Haftungsfolgen:**
 
 1. *Zivilrechtlich (§ 823 Abs. 2 BGB iVm § 15a InsO):*
-   Neugläubiger, die zwischen dem 13.05.2026 und dem 02.06.2026 Vertragsbeziehungen
-   mit der GmbH eingegangen sind, können ihren Vertrauensschaden (vollständiger
-   Forderungsausfall abzüglich etwaiger Insolvenzquote) von Müller persönlich
-   ersetzt verlangen. Altgläubiger können den Quotenschaden geltend machen.
-   Sollte Müller vor dem 02.06.2026 ausscheiden, bleibt nach **BGH II ZR 206/22
-   vom 23.07.2024** die Haftung für danach hinzutretende Neugläubigerschäden
-   bestehen, solange die ursprünglich geschaffene Gefährdungslage fortbesteht.
+ Neugläubiger, die zwischen dem 13.05.2026 und dem 02.06.2026 Vertragsbeziehungen
+ mit der GmbH eingegangen sind, können ihren Vertrauensschaden (vollständiger
+ Forderungsausfall abzüglich etwaiger Insolvenzquote) von Müller persönlich
+ ersetzt verlangen. Altgläubiger können den Quotenschaden geltend machen.
+ Sollte Müller vor dem 02.06.2026 ausscheiden, bleibt nach **BGH II ZR 206/22
+ vom 23.07.2024** die Haftung für danach hinzutretende Neugläubigerschäden
+ bestehen, solange die ursprünglich geschaffene Gefährdungslage fortbesteht.
 
 2. *Zahlungsverbot (§ 15b InsO):*
-   Zahlungen, die Müller nach dem 22.04.2026 veranlasst hat und die nicht unter
-   § 15b Abs. 1 S. 2 oder Abs. 8 fallen, sind erstattungsfähig. Der
-   Insolvenzverwalter kann Müller auf Rückzahlung in Anspruch nehmen.
+ Zahlungen, die Müller nach dem 22.04.2026 veranlasst hat und die nicht unter
+ § 15b Abs. 1 S. 2 oder Abs. 8 fallen, sind erstattungsfähig. Der
+ Insolvenzverwalter kann Müller auf Rückzahlung in Anspruch nehmen.
 
 3. *Strafrechtlich (§ 15a Abs. 4 InsO):*
-   Bei nachgewiesenem Vorsatz (Müller kannte den Eröffnungsgrund seit 22.04.2026):
-   Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. Bei Fahrlässigkeit
-   (§ 15a Abs. 5 InsO): Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
+ Bei nachgewiesenem Vorsatz (Müller kannte den Eröffnungsgrund seit 22.04.2026):
+ Freiheitsstrafe bis zu drei Jahren oder Geldstrafe. Bei Fahrlässigkeit
+ (§ 15a Abs. 5 InsO): Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 ## Risiken und typische Fehler
 
@@ -559,11 +559,11 @@ nicht unter die Ausnahmen fallen.
 Bei jeder Ausgabe zu diesem Skill sind mindestens folgende Belege anzugeben (offene Quelle, vor Ausgabe live prüfen):
 
 - BGH II ZR 206/22 vom 23.07.2024 (Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden)
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - BGH 5 StR 287/24 vom 27.02.2025 (Faktischer Geschäftsführer / Firmenbestattung)
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
 - BGH IV ZR 66/25 vom 19.11.2025 (D&O-Versicherung; wissentliche Pflichtverletzung erfordert positive Kenntnis pro Pflichtverletzung)
-  Bundesgerichtshof Pressemitteilung 2025 (Verifikation über bundesgerichtshof.de / dejure.org)
+ Bundesgerichtshof Pressemitteilung 2025 (Verifikation über bundesgerichtshof.de / dejure.org)
 - Altere BGH-Linie zur Antragspflichthaftung (Schutzgesetz, Vertrauensschaden Neugläubiger, Quotenschaden Altgläubiger) und zur Feststellung der Zahlungsunfähigkeit (Liquiditätsbilanz, Aktiva II / Passiva II): vor Ausgabe Gericht, Datum, Aktenzeichen, Randnummer in offener Quelle prüfen.
 - IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen), Tz. 7 ff.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
@@ -625,10 +625,10 @@ Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
 <!-- AUDIT Mai 2026 — Update Bundle 034 —
-  Update aufgenommen: BGH II ZR 206/22 (23.07.2024) fortwirkende Haftung ausgeschiedener GF,
-  BGH 5 StR 287/24 (27.02.2025) faktischer GF,
-  BGH IV ZR 66/25 (19.11.2025) D&O-Wissentlichkeit.
-  Rechtsprechung weiterhin live prüfen: dejure.org, openjur.de, bundesgerichtshof.de.
+ Update aufgenommen: BGH II ZR 206/22 (23.07.2024) fortwirkende Haftung ausgeschiedener GF,
+ BGH 5 StR 287/24 (27.02.2025) faktischer GF,
+ BGH IV ZR 66/25 (19.11.2025) D&O-Wissentlichkeit.
+ Rechtsprechung weiterhin live prüfen: dejure.org, openjur.de, bundesgerichtshof.de.
 -->
 
 ## 3. `auslaendischer-insolvenzverwalter-register-und-grundbuch`
@@ -653,21 +653,21 @@ Dieser Skill macht aus einer grenzüberschreitenden Insolvenz einen deutschen Vo
 ## Schnellweichen
 
 1. **Asset gehört wem?**
-   - deutsches Grundstück des ausländischen Schuldners;
-   - GmbH-Anteile des ausländischen Schuldners an einer deutschen GmbH;
-   - Vermögen der deutschen Tochtergesellschaft selbst;
-   - Forderung/Bankkonto/IP-Recht des ausländischen Schuldners;
-   - streitige Zuordnung im Konzern.
+ - deutsches Grundstück des ausländischen Schuldners;
+ - GmbH-Anteile des ausländischen Schuldners an einer deutschen GmbH;
+ - Vermögen der deutschen Tochtergesellschaft selbst;
+ - Forderung/Bankkonto/IP-Recht des ausländischen Schuldners;
+ - streitige Zuordnung im Konzern.
 2. **Welche deutsche Form?**
-   - GmbH-Anteil: § 15 Abs. 3/4 GmbHG, notarielle Form;
-   - neue Gesellschafterliste: § 40 GmbHG, notarielle Einreichungslogik;
-   - Grundstück: §§ 873, 925 BGB, § 311b BGB, Grundbuchverfahren;
-   - Grundbuchnachweis: § 29 GBO;
-   - Insolvenzvermerk bei ausländischem Verfahren: § 346 InsO.
+ - GmbH-Anteil: § 15 Abs. 3/4 GmbHG, notarielle Form;
+ - neue Gesellschafterliste: § 40 GmbHG, notarielle Einreichungslogik;
+ - Grundstück: §§ 873, 925 BGB, § 311b BGB, Grundbuchverfahren;
+ - Grundbuchnachweis: § 29 GBO;
+ - Insolvenzvermerk bei ausländischem Verfahren: § 346 InsO.
 3. **Welche ausländische Befugnis?**
-   - Verfahrenseröffnung, office holder appointment, debtor-in-possession status;
-   - Einschränkungen durch stay, plan, court approval, creditor consent;
-   - Befugnis gerade zur Verfügung über dieses Asset.
+ - Verfahrenseröffnung, office holder appointment, debtor-in-possession status;
+ - Einschränkungen durch stay, plan, court approval, creditor consent;
+ - Befugnis gerade zur Verfügung über dieses Asset.
 
 ## GmbH-Anteile und Gesellschafterliste
 
@@ -823,7 +823,7 @@ Nicht jeder Anspruch gehört in die Tabelle. Erst klären, **welcher Forderungst
 - **ausdrücklich** unter Angabe des Tatbestands anmelden
 - Bedeutung: solche Forderungen sind von der **Restschuldbefreiung ausgeschlossen** (§ 302 Nr. 1 InsO) — Gläubiger kann nach Beendigung des Insolvenzverfahrens weiter vollstrecken
 - Anforderungen an die Individualisierung (Sachverhaltsdarstellung, keine schlüssige Rechtsbegründung erforderlich): vgl. **BGH IX ZR 114/23 vom 19.12.2024** zur Anmeldung abgetretener Forderungen.
-  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
+ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
 
 Beispiele Vorsatz-Forderungen:
 - Schadensersatz aus Betrug (§ 263 StGB), Untreue (§ 266 StGB), Unterschlagung (§ 246 StGB)
@@ -1080,9 +1080,9 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Forderungsanmeldun
 ## Weitere Leitentscheidungen — Forderungsanmeldung
 
 - **BGH IX ZR 114/23 vom 19.12.2024** — Anforderungen an die Individualisierung der Forderungsanmeldung; bei Abtretung muss Zedent und Zessionar die abgetretene Forderung jeweils gesondert anmelden und prüfen lassen.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
 - **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Kapitalmarktrechtliche Schadensersatzforderungen geschädigter Aktionäre sind in der Insolvenz der Aktiengesellschaft *keine* einfachen Insolvenzforderungen iSd § 38 InsO; sie treten hinter die einfachen Insolvenzgläubiger zurück. Bedeutung: bei Anmeldung solcher Forderungen ausdrücklich die Rangfrage adressieren.
-  Quelle: Bundesgerichtshof Pressemitteilung 2025/211; <https://www.lto.de/recht/kanzleien-unternehmen/k/bgh-ixzr12724-wirecard-insolvenzmasse-forderungen-aktionaere-urteil>
+ Quelle: Bundesgerichtshof Pressemitteilung 2025/211; <https://www.lto.de/recht/kanzleien-unternehmen/k/bgh-ixzr12724-wirecard-insolvenzmasse-forderungen-aktionaere-urteil>
 - Ältere Leitentscheidungen zur Individualisierung und Vorsatzanmeldung über dejure.org/openjur.de verifizieren.
 
 ---

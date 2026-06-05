@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Nutze dies, wenn Anschluss-Routing im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Normenkontrolle Bauleitplanung.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Anschluss-Routing
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Normenkontrolle Bauleitplanung** ein Fall 
 ## Fachlandkarte dieses Plugins
 
 - `abwaegungsgebot-1-abs-7-baugb` — Abwaegungsgebot 1 Abs 7 Baugb
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `allgemeine-satzungsnormenkontrolle-47-vwgo` — Allgemeine Satzungsnormenkontrolle 47 Vwgo
 - `allgemeine-satzungsnormenkontrolle-anpassungsgebot` — Allgemeine Satzungsnormenkontrolle Anpassungsgebot
 - `anfechtung-antragsbefugnis-red-antragstellervertretung` — Anfechtung Antragsbefugnis Red Antragstellervertretung
@@ -29,7 +29,7 @@ Nutze diesen Skill, wenn im Bereich **Normenkontrolle Bauleitplanung** ein Fall 
 ## Arbeitsweg
 
 - Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Spezialpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
+- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
 - Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
 - Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
 

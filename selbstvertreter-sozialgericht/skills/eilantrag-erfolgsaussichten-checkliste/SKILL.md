@@ -129,9 +129,9 @@ Auch ein erfolgreicher Eilantrag ist nur eine VORLAEUFIGE Regelung. Sie muessen 
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `eilantrag-86b-sgg-grundlagen` — Grundlagen
-- `eilantrag-buergergeld-jobcenter` — Spezial Buergergeld
-- `eilantrag-krankenkassen-leistung` — Spezial Krankenkasse
-- `eilantrag-pflegekassen-pflegehilfsmittel` — Spezial Pflege
+- `eilantrag-buergergeld-jobcenter` — Buergergeld
+- `eilantrag-krankenkassen-leistung` — Krankenkasse
+- `eilantrag-pflegekassen-pflegehilfsmittel` — Pflege
 
 ## Quellen und Aktualitaet
 

@@ -1,13 +1,13 @@
 ---
 name: freiwillige-beitraege-fremdrentengesetz
-description: "Nutze dies, wenn Freiwillige Beitraege Und Rentenoptimierung, Fremdrentengesetz Und Spaetaussiedler im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Freiwillige Beitraege Und Rentenoptimierung, Fremdrentengesetz Und Spaetaussiedler prüfen.; Erstelle eine Arbeitsfassung zu Freiwillige Beitraege Und Rentenoptimierung, Fremdrentengesetz Und Spaetaussiedler.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Freiwillige Beitraege Und Rentenoptimierung, Fremdrentengesetz Und Spaetaussiedler: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Freiwillige Beitraege Und Rentenoptimierung, Fremdrentengesetz Und Spaetaussiedler
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Freiwillige Beitraege Und Rentenoptimierung, Fremdrentengesetz Und Spaetaussiedler** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

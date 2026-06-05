@@ -1,13 +1,13 @@
 ---
 name: lernstrategien-loesungsschemata-methodenlehre
-description: "Nutze dies, wenn Lernstrategien, Loesungsschemata, Methodenlehre Grundlagen im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Lernstrategien, Loesungsschemata, Methodenlehre Grundlagen prüfen.; Erstelle eine Arbeitsfassung zu Lernstrategien, Loesungsschemata, Methodenlehre Grundlagen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lernstrategien, Loesungsschemata, Methodenlehre Grundlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lernstrategien, Loesungsschemata, Methodenlehre Grundlagen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lernstrategien, Loesungsschemata, Methodenlehre Grundlagen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -246,18 +246,18 @@ Sperrwirkung: §§ 987 ff. BGB regeln die Folgen abschließend, daneben kein § 
 
 ### Verbrechensaufbau (jedes Delikt)
 1. **Tatbestand**
-   - Objektiver Tatbestand (Handlung, Erfolg, Kausalität, objektive Zurechnung)
-   - Subjektiver Tatbestand (Vorsatz § 15, besondere subjektive Merkmale)
+ - Objektiver Tatbestand (Handlung, Erfolg, Kausalität, objektive Zurechnung)
+ - Subjektiver Tatbestand (Vorsatz § 15, besondere subjektive Merkmale)
 2. **Rechtswidrigkeit** (Rechtfertigungsgründe)
 3. **Schuld** (Schuldfähigkeit, Entschuldigungsgründe, Unrechtsbewusstsein)
 
 ### § 242 StGB — Diebstahl
 1. Objektiver Tatbestand:
-   - Fremde bewegliche Sache.
-   - Wegnahme: Bruch fremden, Begründung neuen Gewahrsams.
+ - Fremde bewegliche Sache.
+ - Wegnahme: Bruch fremden, Begründung neuen Gewahrsams.
 2. Subjektiver Tatbestand:
-   - Vorsatz bzgl. obj. Merkmalen.
-   - Zueignungsabsicht: Aneignungs**absicht** (Vorsatz 1. Grades) + Enteignungs**vorsatz** (dolus eventualis reicht), Rechtswidrigkeit der Zueignung.
+ - Vorsatz bzgl. obj. Merkmalen.
+ - Zueignungsabsicht: Aneignungs**absicht** (Vorsatz 1. Grades) + Enteignungs**vorsatz** (dolus eventualis reicht), Rechtswidrigkeit der Zueignung.
 3. Rechtswidrigkeit (Notwehr § 32, Notstand § 34, Einwilligung — selten).
 4. Schuld.
 
@@ -272,8 +272,8 @@ Sperrwirkung: §§ 987 ff. BGB regeln die Folgen abschließend, daneben kein § 
 1. **Schutzbereich**: persönlich + sachlich.
 2. **Eingriff**.
 3. **Verfassungsrechtliche Rechtfertigung**:
-   - Schranke (Vorbehalt des Gesetzes).
-   - Schranken-Schranken (Verhältnismäßigkeit, Wesensgehalt Art. 19 II GG, Zitiergebot Art. 19 I 2 GG, Bestimmtheit).
+ - Schranke (Vorbehalt des Gesetzes).
+ - Schranken-Schranken (Verhältnismäßigkeit, Wesensgehalt Art. 19 II GG, Zitiergebot Art. 19 I 2 GG, Bestimmtheit).
 
 ### Verhältnismäßigkeit
 1. Legitimer Zweck.
@@ -284,13 +284,13 @@ Sperrwirkung: §§ 987 ff. BGB regeln die Folgen abschließend, daneben kein § 
 ### Klage im Verwaltungsprozess
 1. **Klageart bestimmen** (Anfechtung, Verpflichtung, Leistung, Feststellung, FFK, Normenkontrolle).
 2. **Zulässigkeit**:
-   - Verwaltungsrechtsweg (§ 40 VwGO).
-   - Statthaftigkeit (richtige Klageart).
-   - Klagebefugnis (§ 42 II VwGO, "möglicherweise verletzt").
-   - Vorverfahren (§ 68 VwGO).
-   - Klagefrist (§ 74 VwGO).
-   - Form (§ 81 VwGO).
-   - Beteiligten- und Prozessfähigkeit (§§ 61, 62 VwGO).
+ - Verwaltungsrechtsweg (§ 40 VwGO).
+ - Statthaftigkeit (richtige Klageart).
+ - Klagebefugnis (§ 42 II VwGO, "möglicherweise verletzt").
+ - Vorverfahren (§ 68 VwGO).
+ - Klagefrist (§ 74 VwGO).
+ - Form (§ 81 VwGO).
+ - Beteiligten- und Prozessfähigkeit (§§ 61, 62 VwGO).
 3. **Begründetheit** (z. B. § 113 I 1 VwGO bei Anfechtungsklage: VA rechtswidrig + Kläger in seinen Rechten verletzt).
 
 ### Verwaltungsaktqualität (§ 35 VwVfG)
@@ -423,10 +423,10 @@ Wer eine Auslegung gegen den Wortlaut, eine Analogie, eine Reduktion vornimmt, *
 1. Skill stellt ein Auslegungsproblem (Norm + zweideutiger Sachverhalt).
 2. Studierender wendet **selbst** alle vier Methoden an.
 3. Skill korrigiert pro Methode einzeln:
-   - "Wortlaut: Ist der Sachverhalt vom möglichen Wortsinn erfasst — und woran machst du das fest?"
-   - "Systematik: Welche Nachbarnorm spricht dafür/dagegen — und warum?"
-   - "Historie: Was sagt die Gesetzesbegründung — und wenn du sie nicht kennst, warum?"
-   - "Telos: Welchen Zweck schützt die Norm — und welche Auslegung erreicht den Zweck besser?"
+ - "Wortlaut: Ist der Sachverhalt vom möglichen Wortsinn erfasst — und woran machst du das fest?"
+ - "Systematik: Welche Nachbarnorm spricht dafür/dagegen — und warum?"
+ - "Historie: Was sagt die Gesetzesbegründung — und wenn du sie nicht kennst, warum?"
+ - "Telos: Welchen Zweck schützt die Norm — und welche Auslegung erreicht den Zweck besser?"
 4. Skill stellt erst dann die Frage: "Welche Methode trägt hier — und warum?"
 5. Erst zum Schluss: Ergebnis mit Argumentationslast.
 

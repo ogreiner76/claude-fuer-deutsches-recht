@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Einstieg und Workflow-Routing im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Spezial-Skills vor."
+description: "Einstieg und Fallrouting im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Fachmodule vor."
 ---
 
-# Kaltstart und Workflow-Routing
+# Kaltstart und Fallrouting
 
 ## Aufgabe
 
-Einstieg und Workflow-Routing im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Spezial-Skills vor.
+Einstieg und Fallrouting im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Fachmodule vor.
 
 ## Arbeitsfokus
 

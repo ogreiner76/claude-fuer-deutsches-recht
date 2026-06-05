@@ -1,6 +1,6 @@
 ---
 name: rom-078-hypothek-vergleich
-description: "Römisches Recht: Hypothek Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Hypothek Vergleich. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Hypothek Vergleich

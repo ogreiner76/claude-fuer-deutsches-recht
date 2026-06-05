@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Geldwaeschepraevention Aml Kyc konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Geldwaeschepraevention Aml Kyc.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,14 +11,14 @@ Nutze diesen Skill, wenn im Bereich **Geldwaeschepraevention Aml Kyc** ein Fall 
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `geldwaesche-audit-internal-datenqualitaet-register-immobilien` — Geldwaesche Audit Internal Datenqualitaet Register Immobilien
 - `geldwaesche-krypto-zahlungsdienstleister-kyc-onboarding` — Geldwaesche Krypto Zahlungsdienstleister Kyc Onboarding
 - `geldwaesche-pep-hochrisikoland-risikoanalyse-unternehmen` — Geldwaesche Pep Hochrisikoland Risikoanalyse Unternehmen
 - `geldwaesche-sicherungsmassnahmen-geldwaesche-simulation` — Geldwaesche Sicherungsmassnahmen Geldwaesche Simulation
 - `geldwaesche-transaktionsstopp-freeze-transparenzregister-ubo` — Geldwaesche Transaktionsstopp Freeze Transparenzregister Ubo
 - `geldwaesche-verdachtsmeldung-geldwaesche-verpflichteten` — Geldwaesche Verdachtsmeldung Geldwaesche Verpflichteten
-- `goaml-gwg-spezial-kommandocenter` — Goaml Gwg Spezial Kommandocenter
+- `goaml-gwg-spezial-kommandocenter` — Goaml Gwg Kommandocenter
 - `livecheck-red-risikoanalyse-verdachtsmeldeweiche-simulation` — Livecheck Red Risikoanalyse Verdachtsmeldeweiche Simulation
 - `onboarding-bauleiter-trade-based-verdachtsmeldung-fiu` — Onboarding Bauleiter Trade Based Verdachtsmeldung Fiu
 - `risikoanalyse-geldwaesche-bussgeld-geldwaesche` — Risikoanalyse Geldwaesche Bussgeld Geldwaesche

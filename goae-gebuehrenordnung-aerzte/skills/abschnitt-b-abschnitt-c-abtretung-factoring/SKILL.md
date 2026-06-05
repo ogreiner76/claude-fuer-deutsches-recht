@@ -1,13 +1,13 @@
 ---
 name: abschnitt-b-abschnitt-c-abtretung-factoring
-description: "Nutze dies, wenn Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz prüfen.; Erstelle eine Arbeitsfassung zu Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Abschnitt B Grundleistungen Zuschlaege, Abschnitt C Nichtgebietsbezogene Sonderleistungen, Abtretung Factoring Arzthonorar Datenschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

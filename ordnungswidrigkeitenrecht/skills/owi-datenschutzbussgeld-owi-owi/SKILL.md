@@ -1,13 +1,13 @@
 ---
 name: owi-datenschutzbussgeld-owi-owi
-description: "Nutze dies, wenn Owi 021 Datenschutzbussgeld Tatbestand Zerlege, Owi 023 Datenschutzbussgeld Akteneinsicht Schr, Owi 024 Datenschutzbussgeld Einspruch Begruend, Owi 025 Datenschutzbussgeld Einstellung Anrege im Plugin Ordnungswidrigkeitenrecht konkret bearbeitet werden soll. Auslöser: Bitte Owi 021 Datenschutzbussgeld Tatbestand Zerlege, Owi 023 Datenschutzbussgeld Akteneinsicht Schr, Owi 024 Datenschutzbussgeld Einspruch Begruend, Owi 025 Datenschutzbussgeld Einstellung Anrege prüfen.; Erstelle eine Arbeitsfassung zu Owi 021 Datenschutzbussgeld Tatbestand Zerlege, Owi 023 Datenschutzbussgeld Akteneinsicht Schr, Owi 024 Datenschutzbussgeld Einspruch Begruend, Owi 025 Datenschutzbussgeld Einstellung Anrege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Owi 021 Datenschutzbussgeld Tatbestand Zerlege, Owi 023 Datenschutzbussgeld Akteneinsicht Schr, Owi 024 Datenschutzbussgeld Einspruch Begruend, Owi 025 Datenschutzbussgeld Einstellung Anrege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Owi 021 Datenschutzbussgeld Tatbestand Zerlege, Owi 023 Datenschutzbussgeld Akteneinsicht Schr, Owi 024 Datenschutzbussgeld Einspruch Begruend, Owi 025 Datenschutzbussgeld Einstellung Anrege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Owi 021 Datenschutzbussgeld Tatbestand Zerlege, Owi 023 Datenschutzbussgeld Akteneinsicht Schr, Owi 024 Datenschutzbussgeld Einspruch Begruend, Owi 025 Datenschutzbussgeld Einstellung Anrege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

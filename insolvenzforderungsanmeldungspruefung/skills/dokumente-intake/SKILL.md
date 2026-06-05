@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Insolvenzforderungsanmeldungspruefung konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Insolvenzforderungsanmeldungspruefung** ei
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
 - `iap-anmeldepruefung-bauleiter-aussonderung-absonderung` — Iap Anmeldepruefung Bauleiter Aussonderung Absonderung
 - `iap-rangordnung-ifap-aktenanlage-ifap-beleg` — Iap Rangordnung Ifap Aktenanlage Ifap Beleg

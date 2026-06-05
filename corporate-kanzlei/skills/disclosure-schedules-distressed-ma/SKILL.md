@@ -1,20 +1,20 @@
 ---
 name: disclosure-schedules-distressed-ma
-description: "Nutze dies, wenn Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-disclosure-schedules` | Disclosure Schedules zum SPA erstellen und prüfen: Verkaeufer offenbart bekannte Risiken um Warranty-Verletzungen nach § 444 BGB (Arglist) zu verhindern; Kaeufer prüft Vollständigkeit. Normen: § 444 BGB, § 311 Abs. 2 BGB (vorvertragliche Pflichten), § 442 BGB (Kenntnis des Kaeufers). Prüfraster: je Warranty-Abschnitt korrespondierender Schedule, Vollständigkeits-Prüfung, W&I-Versicherungs-Schnittstelle. Output Draft Disclosure Schedules, Luecken-Memo, Disclosure-Letter. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; W&I-Police siehe wi-insurance. |
-| `corporate-kanzlei-distressed-ma` | Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `corporate-kanzlei-distressed-ma` | Arbeitsmodul zu corporate kanzlei distressed ma: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -196,15 +196,15 @@ Allgemeine Offenlegung aller Datenraum-Dokumente als Disclosure — nur wirksam 
 
 ```
 Neues Material-Finding nach Signing entdeckt?
-  → Warranty-Verletzung?
-       → Ja, wesentlich (MAC-Level)?
-            → Kaeufer kann Ruecktrittsrecht geltend machen (MAC-Klausel pruefen)
-       → Ja, nicht wesentlich?
-            → Closing-Disclosure: Kaeufer informieren; Preisanpassung oder Waiver verhandeln
-  → Kein Warranty-Thema, aber CoC-Risiko?
-       → Consent sofort einholen; Closing-Condition-Status pruefen
-  → Arglist-Risiko (§ 444 BGB)?
-       → Vollstaendige Offenbarung im Closing Disclosure Letter; ggf. Rechtsrat einholen
+ → Warranty-Verletzung?
+ → Ja, wesentlich (MAC-Level)?
+ → Kaeufer kann Ruecktrittsrecht geltend machen (MAC-Klausel pruefen)
+ → Ja, nicht wesentlich?
+ → Closing-Disclosure: Kaeufer informieren; Preisanpassung oder Waiver verhandeln
+ → Kein Warranty-Thema, aber CoC-Risiko?
+ → Consent sofort einholen; Closing-Condition-Status pruefen
+ → Arglist-Risiko (§ 444 BGB)?
+ → Vollstaendige Offenbarung im Closing Disclosure Letter; ggf. Rechtsrat einholen
 ```
 
 ## Output-Template Disclosure Letter (Auszug)
@@ -257,7 +257,7 @@ nach vernaenftiger Nachforschung.
 
 ## 2. `corporate-kanzlei-distressed-ma`
 
-**Fokus:** Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu corporate kanzlei distressed ma: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Distressed M&A
 
@@ -272,7 +272,7 @@ nach vernaenftiger Nachforschung.
 
 ## Fachkern: Distressed M&A
 
-- **Corporate-Aufgabe (Distressed M&A):** Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Corporate-Aufgabe (Distressed M&A):** Arbeitsmodul zu corporate kanzlei distressed ma: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
 - **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
 - **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
@@ -436,29 +436,29 @@ Parteien: [INSOLVENZVERWALTER als Verkaefer] / [KAEUFER]
 Datum: [DATUM]
 
 1. KAUFGEGENSTAND (INCLUDED ASSETS)
-   - Anlagevermogen: [Liste Maschinen, Fahrzeuge, Inventar]
-   - IP: [Marken, Patente, Know-how, Kundendaten]
-   - Assumed Contracts: [Vertragsliste — nur genannte Vertraege gehen ueber]
-   - Lagerbestand: [zum Stichtag]
+ - Anlagevermogen: [Liste Maschinen, Fahrzeuge, Inventar]
+ - IP: [Marken, Patente, Know-how, Kundendaten]
+ - Assumed Contracts: [Vertragsliste — nur genannte Vertraege gehen ueber]
+ - Lagerbestand: [zum Stichtag]
 
 2. AUSGESCHLOSSENE VERBINDLICHKEITEN (EXCLUDED LIABILITIES)
-   Kaeufer uebernimmt KEINE Verbindlichkeiten des Schuldners ausser den Assumed Liabilities.
+ Kaeufer uebernimmt KEINE Verbindlichkeiten des Schuldners ausser den Assumed Liabilities.
 
 3. KAUFPREIS
-   [EUR]; Zahlung: [sofort bei Closing / Ratenzahlung]
+ [EUR]; Zahlung: [sofort bei Closing / Ratenzahlung]
 
 4. ARBEITNEHMER
-   Uebernahme von [X] Arbeitnehmern gem. Anlage X.
-   § 613a BGB Hinweis an Arbeitnehmer bis [DATUM].
+ Uebernahme von [X] Arbeitnehmern gem. Anlage X.
+ § 613a BGB Hinweis an Arbeitnehmer bis [DATUM].
 
 5. REPRESENTATIONS (MINIMAL SCOPE)
-   Nur: Titel/Verfuegungsbefugnis des Verwalters; keine Business Reps
+ Nur: Titel/Verfuegungsbefugnis des Verwalters; keine Business Reps
 
 6. HAFTUNGSAUSSCHLUSS
-   Vollstaendiger Ausschluss aller Gewaehrleistungen; § 444 BGB nicht anwendbar (keine Arglist)
+ Vollstaendiger Ausschluss aller Gewaehrleistungen; § 444 BGB nicht anwendbar (keine Arglist)
 
 7. CLOSING
-   Datum: [DATUM]; Simultaneous Signing & Closing
+ Datum: [DATUM]; Simultaneous Signing & Closing
 ```
 
 ## Rote Schwellen

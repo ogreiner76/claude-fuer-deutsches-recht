@@ -1,13 +1,13 @@
 ---
 name: see-yachtkauf-versicherung-local-counsel
-description: "Nutze dies, wenn See 056 Yachtkauf Versicherung Melden, See 057 Yachtkauf Local Counsel Instruieren, See 058 Yachtkauf Closing Planen, See 059 Yachtkauf Klagepfad Waehlen, See 060 Yachtkauf Risiko Memo Schreiben im Plugin Seerecht Schifffahrtsrecht konkret bearbeitet werden soll. Auslöser: Bitte See 056 Yachtkauf Versicherung Melden, See 057 Yachtkauf Local Counsel Instruieren, See 058 Yachtkauf Closing Planen, See 059 Yachtkauf Klagepfad Waehlen, See 060 Yachtkauf Risiko Memo Schreiben prüfen.; Erstelle eine Arbeitsfassung zu See 056 Yachtkauf Versicherung Melden, See 057 Yachtkauf Local Counsel Instruieren, See 058 Yachtkauf Closing Planen, See 059 Yachtkauf Klagepfad Waehlen, See 060 Yachtkauf Risiko Memo Schreiben.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei See 056 Yachtkauf Versicherung Melden, See 057 Yachtkauf Local Counsel Instruieren, See 058 Yachtkauf Closing Planen, See 059 Yachtkauf Klagepfad Waehlen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # See 056 Yachtkauf Versicherung Melden, See 057 Yachtkauf Local Counsel Instruieren, See 058 Yachtkauf Closing Planen, See 059 Yachtkauf Klagepfad Waehlen, See 060 Yachtkauf Risiko Memo Schreiben
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **See 056 Yachtkauf Versicherung Melden, See 057 Yachtkauf Local Counsel Instruieren, See 058 Yachtkauf Closing Planen, See 059 Yachtkauf Klagepfad Waehlen, See 060 Yachtkauf Risiko Memo Schreiben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

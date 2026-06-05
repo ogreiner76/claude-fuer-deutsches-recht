@@ -1,6 +1,6 @@
 ---
 name: stb-warnschreiben-krisensignale
-description: "Workflow-Skill zu stb warnschreiben krisensignale. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu stb warnschreiben krisensignale: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen
@@ -51,7 +51,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## Prüfschema Warnschreiben-Erstellung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -129,7 +129,7 @@ Vorab per Telefax [Fax-Nr.], dann per Einschreiben mit Rückschein
 
 Unsere Mandats-Nr.: [Nr.]
 Betreff: Hinweis auf erkennbare Krisensituation Ihrer Gesellschaft
-         Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Sehr geehrte/r Herr / Frau [GF-Name],
 
@@ -138,19 +138,19 @@ aufgestellten betriebswirtschaftlichen Auswertung zum Stichtag [Datum]
 ergeben sich folgende konkrete Krisensignale:
 
 1. Eigenkapital negativ — Bilanzentwurf zum [Datum] weist ein
-   Eigenkapital von EUR −[Betrag] aus (Vorjahr: EUR −[Betrag]).
+ Eigenkapital von EUR −[Betrag] aus (Vorjahr: EUR −[Betrag]).
 
 2. Sozialversicherungsbeiträge für [Monat 1], [Monat 2], [Monat 3]
-   nicht abgeführt: Rückstand EUR [Betrag]. Dies begründet ein Risiko
-   nach § 266a StGB und dokumentiert mögliche Zahlungsunfähigkeit.
+ nicht abgeführt: Rückstand EUR [Betrag]. Dies begründet ein Risiko
+ nach § 266a StGB und dokumentiert mögliche Zahlungsunfähigkeit.
 
 3. Liquiditätslücke nach 3-Wochen-Vorschau (§ 17 InsO):
-   Fällige Verbindlichkeiten EUR [P], verfügbare Mittel EUR [A],
-   Unterdeckung EUR [L] (Quote [X] %). Diese Lücke ist nach
-   derzeitigem Kenntnisstand nicht binnen 3 Wochen schließbar.
+ Fällige Verbindlichkeiten EUR [P], verfügbare Mittel EUR [A],
+ Unterdeckung EUR [L] (Quote [X] %). Diese Lücke ist nach
+ derzeitigem Kenntnisstand nicht binnen 3 Wochen schließbar.
 
 4. Steuerrückstände beim Finanzamt [FA-Name] über EUR [Betrag]:
-   davon EUR [y] seit über 3 Monaten überfällig.
+ davon EUR [y] seit über 3 Monaten überfällig.
 
 Diese Signale begründen den begründeten Verdacht einer Krise nach IDW S 6
 und möglicher Insolvenzreife im Sinne von §§ 17, 19 InsO.
@@ -175,12 +175,12 @@ steht uns als Steuerberater nach § 5 RDG nicht zu.
 Wir empfehlen Ihnen dringend, **binnen einer Woche**:
 
 a) einen Fachanwalt für Insolvenz-/Sanierungsrecht oder einen
-   Steueranwalt mit Sanierungserfahrung zu konsultieren;
+ Steueranwalt mit Sanierungserfahrung zu konsultieren;
 b) eine integrierte Liquiditätsvorschau und ein Sanierungskonzept
-   nach IDW S 6 erstellen zu lassen;
+ nach IDW S 6 erstellen zu lassen;
 c) die SV-Beiträge vorrangig nachzuzahlen (§ 266a StGB-Risiko);
 d) keine weiteren Zahlungen ohne anwaltlichen Rat zu leisten,
-   die die Insolvenzmasse schmälern könnten.
+ die die Insolvenzmasse schmälern könnten.
 
 Bitte bestätigen Sie den Eingang dieses Schreibens und die ergriffenen
 Maßnahmen innerhalb von 7 Tagen schriftlich. Bei Ausbleiben der Reaktion
@@ -240,22 +240,22 @@ Datum: [Datum]
 Teilnehmer: StB [Name], GF [Firma GmbH, Name], ggf. RA [Name]
 
 1. Gesprächsanlass: Erörterung Krisensignale gemäß BWA-Auswertung
-   und Hinweisschreiben vom [Datum].
+ und Hinweisschreiben vom [Datum].
 
 2. Präsentierte Daten: Liquiditätsvorschau KW [x]–[y]; Krisenmatrix;
-   Ampelstatus KW [z]: ROT.
+ Ampelstatus KW [z]: ROT.
 
 3. Reaktion GF: [dokumentieren: Zur Kenntnis genommen / bestritten /
-   eigene Maßnahmen angekündigt / kein Kommentar].
+ eigene Maßnahmen angekündigt / kein Kommentar].
 
 4. Beschlossene Maßnahmen: [z.B. Bankgespräch bis [Datum]; RA [Name]
-   beauftragt für anwaltliche Insolvenzreife-Prüfung].
+ beauftragt für anwaltliche Insolvenzreife-Prüfung].
 
 5. Nächster Besprechungstermin: [Datum].
 
 6. Eigene Haftungsabsicherung StB: Dieses Gespräch ist dokumentiert.
-   Warnschreiben vom [Datum] und Erinnerungsschreiben vom [Datum]
-   liegen in der Mandatsakte.
+ Warnschreiben vom [Datum] und Erinnerungsschreiben vom [Datum]
+ liegen in der Mandatsakte.
 
 Unterschrift StB: _________________
 Datum: ___________________________

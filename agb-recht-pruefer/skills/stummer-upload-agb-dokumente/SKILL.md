@@ -1,6 +1,6 @@
 ---
 name: stummer-upload-agb-dokumente
-description: "Einstiegs- und Workflow-Skill für Stummer Upload AGB Dokumente: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Arbeitsmodul für Stummer Upload AGB Dokumente: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Stummer Upload AGB Dokumente

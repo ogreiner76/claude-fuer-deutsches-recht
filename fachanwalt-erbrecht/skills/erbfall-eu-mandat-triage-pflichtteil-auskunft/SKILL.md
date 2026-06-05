@@ -1,13 +1,13 @@
 ---
 name: erbfall-eu-mandat-triage-pflichtteil-auskunft
-description: "Nutze dies, wenn Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Bitte Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung prüfen.; Erstelle eine Arbeitsfassung zu Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

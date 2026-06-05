@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Liquiditaetsplanung.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Liquiditaetsplanung** ein Fall noch sortie
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `deutschem-dokumentationspaket-excel` — Deutschem Dokumentationspaket Excel
 - `export-forecast-fortbestehensprognose-international` — Export Forecast Fortbestehensprognose International
 - `idw-s6-integrierte-sanierungsplanung` — Idw S6 Integrierte Sanierungsplanung

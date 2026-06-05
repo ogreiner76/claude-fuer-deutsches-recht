@@ -1,20 +1,20 @@
 ---
 name: fran-schadensersatz-wegen-rs-master
-description: "Nutze dies, wenn Fran 045 Schadensersatz Wegen Falschaufklaerung, Fran Rs Master Franchise Und Grenzueberschreitende Expansion, Fran 004 Systemhandbuch Rechtsnatur Und Aenderungsrechte im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran 045 Schadensersatz Wegen Falschaufklaerung, Fran Rs Master Franchise Und Grenzueberschreitende Expansion, Fran 004 Systemhandbuch Rechtsnatur Und Aenderungsrechte prüfen.; Erstelle eine Arbeitsfassung zu Fran 045 Schadensersatz Wegen Falschaufklaerung, Fran Rs Master Franchise Und Grenzueberschreitende Expansion, Fran 004 Systemhandbuch Rechtsnatur Und Aenderungsrechte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fran 045 Schadensersatz Wegen Falschaufklaerung, Fran Rs Master Franchise Und Grenzueberschreitende Expansion, Fran 004 Systemhandbuch Rechtsnatur Und Aenderungsrechte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fran 045 Schadensersatz Wegen Falschaufklaerung, Fran Rs Master Franchise Und Grenzueberschreitende Expansion, Fran 004 Systemhandbuch Rechtsnatur Und Aenderungsrechte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fran 045 Schadensersatz Wegen Falschaufklaerung, Fran Rs Master Franchise Und Grenzueberschreitende Expansion, Fran 004 Systemhandbuch Rechtsnatur Und Aenderungsrechte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-045-schadensersatz-wegen-falschaufklaerung` | Schadensersatzklage wegen Falschaufklärung im Franchiserecht vorbereiten: Anspruchsgrundlagen §§ 280 und 311 BGB, Kausalität, Schadensberechnung (negatives Interesse), Verjährung, Anfechtung nach § 123 BGB und Beweisführung im Klageverfahren. |
-| `fran-rs-master-franchise-und-grenzueberschreitende-expansion` | Spezialskill Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebündelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-master-franchise-und-grenzueberschreitende-expansion` | Fachmodul Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebündelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `fran-004-systemhandbuch-rechtsnatur-und-aenderungsrechte` | Rechtsnatur des Systemhandbuchs im Franchiserecht klären: AGB-Einbeziehung, einseitige Änderungsrechte des Franchisegebers, Grenzen nach §§ 307 ff. BGB und Systemtreuepflicht nach § 242 BGB. Know-how-Schutz nach GeschGehG einbeziehen. |
 
 ## Arbeitsweg
@@ -104,7 +104,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-rs-master-franchise-und-grenzueberschreitende-expansion`
 
-**Fokus:** Spezialskill Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebündelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebündelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Master-Franchise und grenzüberschreitende Expansion
 

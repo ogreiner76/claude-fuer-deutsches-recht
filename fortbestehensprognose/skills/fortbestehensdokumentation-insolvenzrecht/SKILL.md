@@ -1,13 +1,13 @@
 ---
 name: fortbestehensdokumentation-insolvenzrecht
-description: "Nutze dies, wenn Spezial Fortbestehensdokumentation Insolvenzrecht, Spezial Fortbestehensprognose Erstpruefung Und Mandatsziel, Spezial Inso Tatbestand Beweis Und Belege im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Fortbestehensdokumentation Insolvenzrecht, Fortbestehensprognose Erstpruefung Und Mandatsziel, Inso Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Fortbestehensdokumentation Insolvenzrecht, Spezial Fortbestehensprognose Erstpruefung Und Mandatsziel, Spezial Inso Tatbestand Beweis Und Belege
+# Fortbestehensdokumentation Insolvenzrecht, Fortbestehensprognose Erstpruefung Und Mandatsziel, Inso Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fortbestehensdokumentation Insolvenzrecht, Fortbestehensprognose Erstpruefung Und Mandatsziel, Inso Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Fortbestehensdokumentation Insolvenzrecht, Spezial Fortbestehensprognose Erstpruefung Und Mandatsziel, Spezial Inso Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fortbestehensprognose` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fortbestehensdokumentation Insolvenzrecht, Fortbestehensprognose Erstpruefung Und Mandatsziel, Inso Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fortbestehensprognose` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,11 +31,11 @@ Für **Spezial Fortbestehensdokumentation Insolvenzrecht, Spezial Fortbestehensp
 # Fortbestehensdokumentation mit insolvenzrechtlicher Tragfähigkeit
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `fortbestehensprognose`. Kontext des Plugins: Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fortbestehensprognose`. Kontext des Plugins: Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -70,7 +70,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel / spezial fortbestehensprognose erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fortbestehensprognose: Erstprüfung, Rollenklärung und Mandatsziel / fortbestehensprognose erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -111,7 +111,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # InsO: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: InsO: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** InsO: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial inso tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** InsO: Tatbestandsmerkmale, Beweisfragen und Beleglage / inso tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

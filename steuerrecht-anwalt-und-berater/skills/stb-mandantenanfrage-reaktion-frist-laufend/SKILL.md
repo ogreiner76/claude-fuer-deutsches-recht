@@ -47,7 +47,7 @@ Mandantenanfragen kommen taeglich: telefonisch, per E-Mail, via DUO-Portal. Ohne
 ```
 SERVICE-STANDARD MANDANTENKOMMUNIKATION
 
-Anfrage-Typ         | Reaktionsfrist | Bearbeitungsfrist
+Anfrage-Typ | Reaktionsfrist | Bearbeitungsfrist
 ------------------- | -------------- | -----------------
 Telefonische Anfrage einfach | Innerhalb Tag | -
 Telefonische Anfrage komplex | Innerhalb Tag | 3 Tage

@@ -1,6 +1,6 @@
 ---
 name: rom-042-bona-fides
-description: "Römisches Recht: Bona Fides. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Bona Fides. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Bona Fides

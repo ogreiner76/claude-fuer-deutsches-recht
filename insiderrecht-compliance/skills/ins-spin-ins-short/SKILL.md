@@ -1,13 +1,13 @@
 ---
 name: ins-spin-ins-short
-description: "Nutze dies, wenn Ins 037 Spin Off, Ins 041 Short Seller Attack im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 037 Spin Off, Ins 041 Short Seller Attack prüfen.; Erstelle eine Arbeitsfassung zu Ins 037 Spin Off, Ins 041 Short Seller Attack.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 037 Spin Off, Ins 041 Short Seller Attack: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 037 Spin Off, Ins 041 Short Seller Attack
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 037 Spin Off, Ins 041 Short Seller Attack** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -63,15 +63,15 @@ Meilensteine mit potenziellem Insiderinformations-Entstehungszeitpunkt:
 ### Schritt 2 – Insiderlisten für Mutter und Tochter
 
 - Mutter: Alle Wissensträger des Spin-off-Projekts ab dem frühesten Insiderinformations-
-  zeitpunkt in Insiderliste aufnehmen
+ zeitpunkt in Insiderliste aufnehmen
 - Zukünftige Tochter-Gesellschaft: Eigenständige Insiderliste aufbauen, sobald
-  Management der Tochter über die Transaktion informiert wird
+ Management der Tochter über die Transaktion informiert wird
 - Trennung der Informationsflüsse dokumentieren
 
 ### Schritt 3 – Ad-hoc-Pflichten
 
 - Muttergesellschaft: Ad-hoc beim Board-Beschluss (oder bei erstem kursrelevantem
-  Zwischenschritt)
+ Zwischenschritt)
 - Tochtergesellschaft (nach Börsengang): Eigenständige Ad-hoc-Pflichten nach Art. 17 MAR
 - Koordination: Beide Gesellschaften müssen simultane Veröffentlichung koordinieren
 
@@ -150,7 +150,7 @@ und koordiniert die Kommunikation mit der BaFin.
 
 - Emittent darf nur auf Basis öffentlicher Informationen reagieren
 - Kein Dementieren von Fakten, die Insiderinformationen sind (würde unzulässige Offenlegung
-  bedeuten oder den Aufschub gefährden)
+ bedeuten oder den Aufschub gefährden)
 - Zulässig: Hinweis auf fehlerhafte Methodik, fehlende Kontext-Information
 
 ### Schritt 4 – BaFin-Kommunikation
@@ -158,12 +158,12 @@ und koordiniert die Kommunikation mit der BaFin.
 - Proaktive Kontaktaufnahme mit BaFin (Marktüberwachung)
 - Mitteilen: Short-Seller-Bericht, Kursbewegung, interne Einschätzung der Vorwürfe
 - BaFin kann eigenständige Marktmanipulationsuntersuchung gegen Short Seller einleiten
-  (Art. 12 MAR, § 119 WpHG)
+ (Art. 12 MAR, § 119 WpHG)
 
 ### Schritt 5 – Marktmanipulationsanzeige gegen Short Seller
 
 - Prüfung: Enthält der Bericht falsche Informationen, die den Kurs beeinflussen sollen?
-  (Art. 12 Abs. 1 lit. c MAR: Verbreitung falscher oder irreführender Informationen)
+ (Art. 12 Abs. 1 lit. c MAR: Verbreitung falscher oder irreführender Informationen)
 - Wenn ja: Anzeige bei BaFin und Staatsanwaltschaft erwägen
 - Dokumentation: Short-Seller-Bericht sichern, Kursverlauf dokumentieren
 

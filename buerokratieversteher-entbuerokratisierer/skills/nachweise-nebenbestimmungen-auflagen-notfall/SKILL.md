@@ -1,13 +1,13 @@
 ---
 name: nachweise-nebenbestimmungen-auflagen-notfall
-description: "Nutze dies, wenn Nachweise Und Belege, Nebenbestimmungen Auflagen, Notfall Ordner, Ordnungsverfuegung im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Nachweise Und Belege, Nebenbestimmungen Auflagen, Notfall Ordner, Ordnungsverfuegung prüfen.; Erstelle eine Arbeitsfassung zu Nachweise Und Belege, Nebenbestimmungen Auflagen, Notfall Ordner, Ordnungsverfuegung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nachweise Und Belege, Nebenbestimmungen Auflagen, Notfall Ordner, Ordnungsverfuegung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nachweise Und Belege, Nebenbestimmungen Auflagen, Notfall Ordner, Ordnungsverfuegung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nachweise Und Belege, Nebenbestimmungen Auflagen, Notfall Ordner, Ordnungsverfuegung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Nachweise Und Belege, Nebenbestimmungen Auflagen, Notfall Ordner, Ordnung
 ## Aufgabe
 Erklärt, welche Nachweise wirklich gebraucht werden, wie man sie schwärzt, nummeriert und nachreicht.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Auflage, Bedingung, Befristung, Widerrufsvorbehalt und isolierte Anfechtung/Strategie.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erstellt eine Checkliste für alle wichtigen Dokumente, Fristen, Kontakte und laufenden Behördenverfahren.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei ordnungsrechtlicher Verfügung, Gefahrbegriff, Sofortvollzug, Frist, Auflagen und Eilantrag.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,13 +1,13 @@
 ---
 name: conflict-gwg-datenqualitaet-xai
-description: "Nutze dies, wenn Corporate Kanzlei Conflict Gwg Sanctions, Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Corporate Kanzlei Conflict Gwg Sanctions, Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Conflict Gwg Sanctions, Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Conflict Gwg Sanctions, Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -196,14 +196,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Sanktions-Treffer (OFAC/EU)?
-  → Ja: Mandat ablehnen; Verdachtsmeldung FIU pruefen (§ 43 GwG)
-  → Nein: PEP?
-       → Ja: Erhoehte Sorgfalt; schriftliche Freigabe Managing Partner; verstaerkte Ueberwachung
-       → Nein: Wirtschaftlich Berechtigter unbekannt/verweigert?
-            → Ja: Mandat ablehnen (§ 10 GwG)
-            → Nein: Mittelherkunft ungeklaert?
-                 → Ja: Erhoehte Sorgfalt; Erklaerung einfordern; ggf. ablehnen
-                 → Nein: Standard-CDD-Abschluss; Mandatsannahme moeglich
+ → Ja: Mandat ablehnen; Verdachtsmeldung FIU pruefen (§ 43 GwG)
+ → Nein: PEP?
+ → Ja: Erhoehte Sorgfalt; schriftliche Freigabe Managing Partner; verstaerkte Ueberwachung
+ → Nein: Wirtschaftlich Berechtigter unbekannt/verweigert?
+ → Ja: Mandat ablehnen (§ 10 GwG)
+ → Nein: Mittelherkunft ungeklaert?
+ → Ja: Erhoehte Sorgfalt; Erklaerung einfordern; ggf. ablehnen
+ → Nein: Standard-CDD-Abschluss; Mandatsannahme moeglich
 ```
 
 ## Output-Template CDD-Dokumentationsbogen
@@ -218,35 +218,35 @@ Datum: [DATUM]
 Bearbeiter: [NAME]
 
 1. WIRTSCHAFTLICH BERECHTIGTER (§ 3 GwG)
-   Name: [NAME]
-   Nationalitaet: [LAND]
-   Beteiligung: [%]
-   Nachweis: [HR-Auszug / UBO-Erklaerung vom DATUM]
+ Name: [NAME]
+ Nationalitaet: [LAND]
+ Beteiligung: [%]
+ Nachweis: [HR-Auszug / UBO-Erklaerung vom DATUM]
 
 2. SANKTIONS-SCREENING
-   Datum: [DATUM]
-   Datenbank: [EU / OFAC / UN]
-   Ergebnis: [Kein Treffer / Treffer: Beschreibung]
+ Datum: [DATUM]
+ Datenbank: [EU / OFAC / UN]
+ Ergebnis: [Kein Treffer / Treffer: Beschreibung]
 
 3. PEP-CHECK
-   Datenbank: [NAME]
-   Ergebnis: [Kein PEP / PEP: Beschreibung]
-   Massnahmen bei PEP: [Erhoehte Sorgfalt; Senior-Freigabe]
+ Datenbank: [NAME]
+ Ergebnis: [Kein PEP / PEP: Beschreibung]
+ Massnahmen bei PEP: [Erhoehte Sorgfalt; Senior-Freigabe]
 
 4. LAENDERRISIKO
-   Hauptsitz: [LAND]
-   Hochrisikoland: [Ja/Nein; FATF-Liste]
-   Massnahmen: [Erhoehte Sorgfalt / Keine]
+ Hauptsitz: [LAND]
+ Hochrisikoland: [Ja/Nein; FATF-Liste]
+ Massnahmen: [Erhoehte Sorgfalt / Keine]
 
 5. MITTELHERKUNFT
-   Beschreibung: [Eigenkapital aus laufendem Geschaeft / Finanzierung: Bank X]
-   Nachweis: [Bankbestaetigung; Jahresabschluss]
+ Beschreibung: [Eigenkapital aus laufendem Geschaeft / Finanzierung: Bank X]
+ Nachweis: [Bankbestaetigung; Jahresabschluss]
 
 6. ENTSCHEIDUNG
-   [ ] Mandatsannahme — keine Bedenken
-   [ ] Enhanced Due Diligence — Massnahmen: [Beschreibung]
-   [ ] Ablehnung — Grund: [Beschreibung]
-   [ ] Verdachtsmeldung FIU (§ 43 GwG) am [Datum]
+ [ ] Mandatsannahme — keine Bedenken
+ [ ] Enhanced Due Diligence — Massnahmen: [Beschreibung]
+ [ ] Ablehnung — Grund: [Beschreibung]
+ [ ] Verdachtsmeldung FIU (§ 43 GwG) am [Datum]
 
 Freigabe durch: [PARTNER-NAME], [DATUM]
 ```
@@ -343,17 +343,17 @@ Risikoniveau: [Hoch / Mittel / Niedrig]
 BELEGKETTE
 | Nr. | Quelle | Dok-Bezeichnung | Version/Datum | Datenraum-ID | Vollständigkeitsstatus |
 |----|--------|-----------------|--------------|--------------|----------------------|
-| 1  | [Quelle] | [Bezeichnung] | [V/Datum] | [ID] | [Vollständig/Lücke] |
+| 1 | [Quelle] | [Bezeichnung] | [V/Datum] | [ID] | [Vollständig/Lücke] |
 
 KONSISTENZPRÜFUNG
 | Datenpunkt | Quelle 1 | Quelle 2 | Abweichung | Bewertung |
 |-----------|---------|---------|-----------|-----------|
-| [Punkt]   | [Wert]  | [Wert]  | [%/EUR]   | [OK/Konflikt] |
+| [Punkt] | [Wert] | [Wert] | [%/EUR] | [OK/Konflikt] |
 
 BEKANNTE DATENLÜCKEN
 | Nr. | Fehlende Information | Auswirkung auf Analyse | Owner | Frist | Eskalation |
 |----|---------------------|----------------------|-------|-------|------------|
-| 1  | [Lücke]             | [Gering/Mittel/Hoch] | [Name] | [Datum] | [Stufe] |
+| 1 | [Lücke] | [Gering/Mittel/Hoch] | [Name] | [Datum] | [Stufe] |
 
 SCHLUSSFOLGERUNG
 [Ergebnis in 2-3 Sätzen; Grad der Sicherheit; Vorbehalte]
@@ -367,7 +367,7 @@ Freigabegrad: [Vollständig / Unter Vorbehalt / Abgelehnt]
 OFFENE PUNKTE (TODO)
 | Nr. | Punkt | Owner | Frist | Eskalationsstufe |
 |----|-------|-------|-------|-----------------|
-| 1  | [Punkt] | [Name] | [Datum] | [Partner/Counsel/Associate] |
+| 1 | [Punkt] | [Name] | [Datum] | [Partner/Counsel/Associate] |
 ```
 
 ## Rote Schwellen

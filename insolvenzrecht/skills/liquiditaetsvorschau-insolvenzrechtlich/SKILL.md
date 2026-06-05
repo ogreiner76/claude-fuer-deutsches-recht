@@ -109,14 +109,14 @@ Sanierungskonzept ist zusätzlich zu prüfen, ob die Planung nicht nur Zahlungsf
 sondern auch nachhaltige Sanierungsfähigkeit trägt. Operativ bedeutet das:
 
 - **Stichtagsbezogene Liquiditätsbilanz** für § 17 InsO: Gegenüberstellung der liquiden
-  Mittel (Zahlungsmittel I. Stufe) und der fälligen sowie innerhalb von 21 Tagen fällig
-  werdenden Verbindlichkeiten (Zahlungsmittel II. Stufe für Mittelzuflüsse).
+ Mittel (Zahlungsmittel I. Stufe) und der fälligen sowie innerhalb von 21 Tagen fällig
+ werdenden Verbindlichkeiten (Zahlungsmittel II. Stufe für Mittelzuflüsse).
 - **Integrierte Finanzplanung** für § 19 InsO: Ertrags-, Vermögens- und
-  Liquiditätsplanung für mindestens 12 Monate (IDW S 11 empfiehlt 24 Monate).
+ Liquiditätsplanung für mindestens 12 Monate (IDW S 11 empfiehlt 24 Monate).
 - **Plausibilisierungspflichten**: Plausibilisierung aller Planungsprämissen,
-  Sensitivitätsanalyse, Dokumentation abweichender Szenarien.
+ Sensitivitätsanalyse, Dokumentation abweichender Szenarien.
 - **Drei-Stufen-Ampel**: Klassifizierung der Liquiditätslage als GRÜN, GELB oder ROT
-  (siehe Ablauf-Abschnitt). Rechtsprechungsfundstellen vor Ausgabe live verifizieren.
+ (siehe Ablauf-Abschnitt). Rechtsprechungsfundstellen vor Ausgabe live verifizieren.
 
 ## Ablauf
 
@@ -142,13 +142,13 @@ Für jede der 13 Kalenderwochen wird eine eigene Zeile der Liquiditätsvorschau 
 
 ```
 Woche N:
-  (+) Anfangsbestand Kasse + Bank (verfügbar)
-  (+) Erwartete Forderungseingänge (dokumentiert, konkret)
-  (+) Freie KK-Linie (soweit nicht gekündigt)
-  (-) Fällige Verbindlichkeiten der Woche N
-  (-) Bis Ende Woche N+2 fällig werdende Verbindlichkeiten (3-Wochen-Fenster)
-  (=) Netto-Liquiditätsposition der Woche N
-  (%) Liquiditätslücke = Defizit / Summe fällige Verbindlichkeiten
+ (+) Anfangsbestand Kasse + Bank (verfügbar)
+ (+) Erwartete Forderungseingänge (dokumentiert, konkret)
+ (+) Freie KK-Linie (soweit nicht gekündigt)
+ (-) Fällige Verbindlichkeiten der Woche N
+ (-) Bis Ende Woche N+2 fällig werdende Verbindlichkeiten (3-Wochen-Fenster)
+ (=) Netto-Liquiditätsposition der Woche N
+ (%) Liquiditätslücke = Defizit / Summe fällige Verbindlichkeiten
 ```
 
 Für die 13-Wochen-Vorschau werden wochen- und tagesgenaue Fälligkeiten
@@ -197,16 +197,16 @@ Das Ausgabedokument ist eine **juristische Stellungnahme im Gutachtenstil** und 
 
 1. **Stichtagsbestimmung** — welcher Stichtag wird untersucht und warum
 2. **Datenbasis** — tabellarische Auflistung aller verwendeten Unterlagen mit Datum und
-   Herkunft
+ Herkunft
 3. **13-Wochen-Liquiditätsbilanz** — Tabelle mit Wochen-Spalten, Einzelpositionen
-   (Aktiv/Passiv), Netto-Liquiditätsposition und prozentualer Lücke
+ (Aktiv/Passiv), Netto-Liquiditätsposition und prozentualer Lücke
 4. **Ampel-Ergebnis** je Woche mit rechtlicher Bewertung (GRÜN/GELB/ROT + Begründung)
 5. **Stundungsabzüge** — Einzelauflistung aller herausgerechneten Verbindlichkeiten mit
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. **24-Monats-Vorschau** (sofern Fortbestehensprognose zu beurteilen) — monatlicher
-   Cashflow, Prämissenblatt, Szenarioanalyse
+ Cashflow, Prämissenblatt, Szenarioanalyse
 7. **Rechtliche Subsumtion** — Abschließende Einordnung: liegt § 17 InsO vor, wenn ja
-   seit wann?; liegt § 19 InsO vor?
+ seit wann?; liegt § 19 InsO vor?
 8. **Hinweis auf Antragspflicht** — soweit Tatbestand des § 15a InsO ausgelöst
 
 Alle Tabellen enthalten Quellenverweise auf die zugrunde liegenden Belegpositionen
@@ -224,17 +224,17 @@ Der vorläufige Insolvenzverwalter hat folgende Eckdaten ermittelt:
 - Kassebestand 15.03.2025: 3.200 EUR
 - Bankguthaben (laufendes Konto): 8.500 EUR
 - Kontokorrentlinie: 150.000 EUR, zu **92 %** ausgenutzt (freie Linie: 12.000 EUR,
-  nicht erweiterungsfähig; Hausbank hat mit Schreiben vom 08.03.2025 eine
-  Kreditlinienerweiterung abgelehnt)
+ nicht erweiterungsfähig; Hausbank hat mit Schreiben vom 08.03.2025 eine
+ Kreditlinienerweiterung abgelehnt)
 - Fällige Verbindlichkeiten zum 15.03.2025: 87.400 EUR (davon SV-Rückstand
-  Februar 2025: 18.300 EUR; USt-Vorauszahlung Januar 2025: 11.200 EUR;
-  Lieferantenverbindlichkeiten > 30 Tage: 57.900 EUR)
+ Februar 2025: 18.300 EUR; USt-Vorauszahlung Januar 2025: 11.200 EUR;
+ Lieferantenverbindlichkeiten > 30 Tage: 57.900 EUR)
 - Binnen 3 Wochen (bis 05.04.2025) fällig werdende Verbindlichkeiten: 34.600 EUR
-  (Löhne März 2025: 28.400 EUR; Mietfälligkeit 01.04.2025: 6.200 EUR)
+ (Löhne März 2025: 28.400 EUR; Mietfälligkeit 01.04.2025: 6.200 EUR)
 - Dokumentierte Forderungseingänge binnen 3 Wochen: 14.300 EUR (zwei
-  Abschlagsrechnungen mit Zahlungsziel 31.03.2025, Bonität der Auftraggeber geprüft)
+ Abschlagsrechnungen mit Zahlungsziel 31.03.2025, Bonität der Auftraggeber geprüft)
 - Eine Stundungsvereinbarung liegt nur für einen Lieferanten (Fischer Baustoffe GmbH,
-  4.200 EUR) vor — schriftlich bestätigt bis 30.04.2025.
+ 4.200 EUR) vor — schriftlich bestätigt bis 30.04.2025.
 
 **Gutachtenstil-Subsumtion:**
 
@@ -334,7 +334,7 @@ zwingend zu zitieren und zu berücksichtigen:
 
 **Ergänzend empfohlen:**
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  (integrierte Finanzplanung für Fortbestehensprognose und Sanierungskonzept)
+ (integrierte Finanzplanung für Fortbestehensprognose und Sanierungskonzept)
 
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*

@@ -1,13 +1,13 @@
 ---
 name: zag-erlaubnisanalyse-zag
-description: "Nutze dies, wenn Zag Erlaubnisanalyse Payment Institution, Zag Finanztransfergeschaeft Money Remittance, Zag Kontoinformationsdienst Ais, Zag Negativauskunft Feststellung Bafin, Zag Zahlungsausloesedienst Pis im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Bitte Zag Erlaubnisanalyse Payment Institution, Zag Finanztransfergeschaeft Money Remittance, Zag Kontoinformationsdienst Ais, Zag Negativauskunft Feststellung Bafin, Zag Zahlungsausloesedienst Pis prüfen.; Erstelle eine Arbeitsfassung zu Zag Erlaubnisanalyse Payment Institution, Zag Finanztransfergeschaeft Money Remittance, Zag Kontoinformationsdienst Ais, Zag Negativauskunft Feststellung Bafin, Zag Zahlungsausloesedienst Pis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zag Erlaubnisanalyse Payment Institution, Zag Finanztransfergeschaeft Money Remittance, Zag Kontoinformationsdienst Ais, Zag Negativauskunft Feststellung Bafin: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zag Erlaubnisanalyse Payment Institution, Zag Finanztransfergeschaeft Money Remittance, Zag Kontoinformationsdienst Ais, Zag Negativauskunft Feststellung Bafin, Zag Zahlungsausloesedienst Pis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zag Erlaubnisanalyse Payment Institution, Zag Finanztransfergeschaeft Money Remittance, Zag Kontoinformationsdienst Ais, Zag Negativauskunft Feststellung Bafin, Zag Zahlungsausloesedienst Pis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

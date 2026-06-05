@@ -1,13 +1,13 @@
 ---
 name: ins-handelsverbot-ins-unlawful
-description: "Nutze dies, wenn Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure prüfen.; Erstelle eine Arbeitsfassung zu Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,16 +57,16 @@ Elementen sowie den verfügbaren Safe-Harbour-Ausnahmen.
 
 - Hat die handelnde Person zum Zeitpunkt der Transaktion über eine Insiderinformation verfügt?
 - Handelt es sich um ein Finanzinstrument, auf das sich die Insiderinformation bezieht
-  (oder ein verbundenes Derivat)?
+ (oder ein verbundenes Derivat)?
 - Wurde die Transaktion auf der Basis der Insiderinformation getätigt? (Kausalitätselement)
 - Gilt auch für: Stornierung oder Änderung bestehender Aufträge auf der Basis von
-  Insiderinformationen.
+ Insiderinformationen.
 
 ### Schritt 2 – Abgrenzung: Art. 9 MAR Safe Harbour
 
 Prüfe, ob eine der Ausnahmen greift:
 a) Legitime Ausübung regulärer Aufgaben: Transaktion war Teil der normalen Geschäftstätigkeit
-   (z. B. Market Maker, Liquiditätssicherung)
+ (z. B. Market Maker, Liquiditätssicherung)
 b) Beschlossene Transaktion vor Erlangen der Insiderinformation (Art. 9 Abs. 3 MAR)
 c) Rückkaufprogramm oder Kursstabilisierung nach DVO (EU) 2016/1052
 d) Monetäre Politik, Staatsschulden, Klimapolitik (Art. 9 Abs. 2 MAR)
@@ -76,7 +76,7 @@ d) Monetäre Politik, Staatsschulden, Klimapolitik (Art. 9 Abs. 2 MAR)
 
 - Wurde die Insiderinformation an eine andere Person weitergegeben?
 - Erfolgte die Weitergabe im Rahmen normaler Berufsausübung (z. B. Anwalt an Mandant,
-  IR-Abteilung an Analyst im Rahmen von Market Sounding)?
+ IR-Abteilung an Analyst im Rahmen von Market Sounding)?
 - Wenn nein: Verstoß gegen Art. 10 MAR, ggf. auch Art. 14 lit. c MAR.
 
 ### Schritt 4 – Strafrecht (§ 119 WpHG)
@@ -89,7 +89,7 @@ d) Monetäre Politik, Staatsschulden, Klimapolitik (Art. 9 Abs. 2 MAR)
 
 Erstelle für jede verdachtsauslösende Transaktion:
 - Zeitstrahl: Wann hatte Person Kenntnis von der Insiderinformation? Wann wurde Transaktion
-  beschlossen und ausgeführt?
+ beschlossen und ausgeführt?
 - Handelsplan oder -strategie vor der Insiderinformation (z. B. Spar-/Investitionsplan)
 - Nachweis, dass Entscheidung vor Kenntnis getroffen wurde
 - Belege für Safe-Harbour-Tatbestand (falls zutreffend)
@@ -166,15 +166,15 @@ Bekanntgabe einer Transaktion. Voraussetzungen:
 - Einholung der Zustimmung zur Entgegennahme
 - Protokoll der Sondierung (Inhalt, Datum, Teilnehmer)
 - Aufhebung der Insiderposition des Investierten nach der Ad-hoc-Veröffentlichung
-  (Wall Crossing Management)
+ (Wall Crossing Management)
 Maßgebliche DVO: (EU) 2016/960.
 
 ### Schritt 4 – Due Diligence in M&A
 
 - Weitergabe in einem NDA-gesicherten Datenraum ist erlaubt, wenn:
-  a) Need-to-know-Prinzip eingehalten
-  b) Alle Empfänger in Insiderliste eingetragen
-  c) Vertraulichkeitsverpflichtung dokumentiert
+ a) Need-to-know-Prinzip eingehalten
+ b) Alle Empfänger in Insiderliste eingetragen
+ c) Vertraulichkeitsverpflichtung dokumentiert
 - Bei gescheitertem Prozess: Insiderinformation darf nicht genutzt werden (Art. 8 MAR).
 
 ### Schritt 5 – Dokumentationspflichten
@@ -191,7 +191,7 @@ Für jeden Weitergabevorgang außerhalb der Ad-hoc-Veröffentlichung:
 - Wurden Market-Sounding-Formalia (DVO 2016/960) eingehalten?
 - Sind alle Empfänger in der Insiderliste erfasst und belehrt?
 - Wurde beim M&A-Prozess sichergestellt, dass Informationen aus dem Datenraum nicht für
-  Eigengeschäfte genutzt wurden?
+ Eigengeschäfte genutzt wurden?
 - Gibt es Hinweise auf „Tipping" (gezielte Weitergabe zum Vorteil Dritter)?
 
 ## Ausgabeformat

@@ -1,6 +1,6 @@
 ---
 name: anw-umsatzsteuer-vorsteuerabzug-pruefen
-description: "Workflow-Skill zu anw umsatzsteuer vorsteuerabzug pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu anw umsatzsteuer vorsteuerabzug pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Umsatzsteuer-Vorsteuerabzug prüfen
@@ -56,13 +56,13 @@ Pflichtangaben § 14 Abs. 4 UStG:
 
 - **Empfangs-Pflicht**: Seit 1.1.2025 muss jeder inländische Unternehmer für inländische B2B-Umsätze eRechnungen empfangen können.
 - **Ausstellungs-Pflicht** (gestaffelt):
-  - bis 31.12.2026: Papier-/PDF-Rechnung mit Zustimmung des Empfaengers weiterhin zulaessig (Übergang)
-  - bis 31.12.2027: nur fuer Unternehmer mit Vorjahresumsatz ≤ 800 000 EUR Papier-Erleichterung
-  - ab 1.1.2028: vollständige eRechnungspflicht für alle B2B-Inlands-Umsätze
+ - bis 31.12.2026: Papier-/PDF-Rechnung mit Zustimmung des Empfaengers weiterhin zulaessig (Übergang)
+ - bis 31.12.2027: nur fuer Unternehmer mit Vorjahresumsatz ≤ 800 000 EUR Papier-Erleichterung
+ - ab 1.1.2028: vollständige eRechnungspflicht für alle B2B-Inlands-Umsätze
 - **Format**: strukturiertes, maschinenlesbares Format nach EN 16931 (z. B. **XRechnung** oder **ZUGFeRD ab Profil EN-16931**); reines PDF ohne strukturierte XML-Daten ist KEINE eRechnung.
 - **Folge fehlerhafter Rechnung**: Vorsteuerabzug nach § 15 Abs. 1 UStG kann verweigert werden, wenn Rechnungspflicht eRechnung verletzt ist. Massgebend:
-  - **BMF-Schreiben vom 15.10.2024**, GZ III C 2 - S 7287-a/23/10001 :007 (Einfuehrungsschreiben eRechnung).
-  - **BMF-Schreiben vom 15.10.2025**, GZ III C 2 - S 7287-a/00019/007/243 (Zweites Anwendungsschreiben mit Anpassung des UStAE; unterscheidet Format- und Inhaltsfehler-Klassen; Validierungsempfehlung des Senders, Pruefpflichten des Empfaengers).
+ - **BMF-Schreiben vom 15.10.2024**, GZ III C 2 - S 7287-a/23/10001 :007 (Einfuehrungsschreiben eRechnung).
+ - **BMF-Schreiben vom 15.10.2025**, GZ III C 2 - S 7287-a/00019/007/243 (Zweites Anwendungsschreiben mit Anpassung des UStAE; unterscheidet Format- und Inhaltsfehler-Klassen; Validierungsempfehlung des Senders, Pruefpflichten des Empfaengers).
 - **Ausnahmen**: Kleinbetragsrechnungen ≤ 250 EUR § 33 UStDV; Fahrausweise § 34 UStDV; Umsätze an Endverbraucher (B2C) bleiben außerhalb.
 
 ## Schritt 2 — Ausschluss § 15 Abs. 2 UStG

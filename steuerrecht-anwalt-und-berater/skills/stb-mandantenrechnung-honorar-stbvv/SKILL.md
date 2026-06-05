@@ -92,20 +92,20 @@ Rechnungsdatum: ...
 
 Leistungsbeschreibung:
 1. Jahresabschluss [Jahr]
-   Gegenstandswert: [X]
-   Gebuehrensatz nach § 35 StBVV: 25/10
-   Mittelgebuehr: [Y]
-   Faktor: ...
-   Honorar netto: [Z]
+ Gegenstandswert: [X]
+ Gebuehrensatz nach § 35 StBVV: 25/10
+ Mittelgebuehr: [Y]
+ Faktor: ...
+ Honorar netto: [Z]
 
 2. Buchfuehrung Monate [von - bis]
-   Gegenstandswert: [X]
-   Gebuehrensatz nach § 33 StBVV: 5/10
-   Honorar netto: [Z]
+ Gegenstandswert: [X]
+ Gebuehrensatz nach § 33 StBVV: 5/10
+ Honorar netto: [Z]
 
 3. Auslagen
-   Reisekosten EUR [X]
-   Porto EUR [X]
+ Reisekosten EUR [X]
+ Porto EUR [X]
 
 Zwischensumme netto: [Z]
 USt 19 Prozent: [Y]

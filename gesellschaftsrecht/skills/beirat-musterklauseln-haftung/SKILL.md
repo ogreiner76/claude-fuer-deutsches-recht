@@ -1,22 +1,22 @@
 ---
 name: beirat-musterklauseln-haftung
-description: "Nutze dies, wenn Beirat Musterklauseln, Beirat Haftung, Geschaeftsfuehrer Haftung 43 Gmbhg, Rechtsabteilung Geschaeftsfuehrerhaftung Für Compliance Versage, Agio Und Kapitalruecklage im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Beirat Musterklauseln, Beirat Haftung, Geschaeftsfuehrer Haftung 43 Gmbhg, Rechtsabteilung Geschaeftsfuehrerhaftung Für Compliance Versage, Agio Und Kapitalruecklage prüfen.; Erstelle eine Arbeitsfassung zu Beirat Musterklauseln, Beirat Haftung, Geschaeftsfuehrer Haftung 43 Gmbhg, Rechtsabteilung Geschaeftsfuehrerhaftung Für Compliance Versage, Agio Und Kapitalruecklage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Musterklauseln, Beirat Haftung, Geschaeftsfuehrer Haftung 43 Gmbhg, Rechtsabteilung Geschaeftsfuehrerhaftung Für Compliance Versage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Musterklauseln, Beirat Haftung, Geschaeftsfuehrer Haftung 43 Gmbhg, Rechtsabteilung Geschaeftsfuehrerhaftung Für Compliance Versage, Agio Und Kapitalruecklage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Musterklauseln, Beirat Haftung, Geschaeftsfuehrer Haftung 43 Gmbhg, Rechtsabteilung Geschaeftsfuehrerhaftung Für Compliance Versage, Agio Und Kapitalruecklage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-musterklauseln` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-haftung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-musterklauseln` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Musterklauseln; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-haftung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Haftung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `geschaeftsfuehrer-haftung-43-gmbhg` | Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG. Insolvenzantragspflicht-Verletzung § 15a InsO Zahlungsverbot § 15b InsO Compliance-Pflichten Steuer-Haftung § 69 AO Sozialversicherung § 266a StGB. Entlastung Sperrwirkung Beweislast Verjährung fuenf Jahre § 43 Abs. 4 GmbHG. D&O-Versicherung Selbstbehalt. Output Haftungs-Prüf-Memo mit Risikoampel Verteidigungs-Argumenten oder Schadensersatz-Berechnung. |
-| `rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage` | Rechtsabteilungs-Spezialskill für Geschäftsführerhaftung für Compliance-Versagen: Compliance-Redflags werden in Organpflichten, Ressortverteilung und D&O-Meldung übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage` | Rechtsabteilungs-Fachmodul für Geschäftsführerhaftung für Compliance-Versagen: Compliance-Redflags werden in Organpflichten, Ressortverteilung und D&O-Meldung übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `agio-und-kapitalruecklage` | Echtes (korporatives) und unechtes (schuldrechtliches) Agio in der GmbH bei Gründung und Kapitalerhöhung; § 3 Abs. 2 GmbHG als Anker; § 272 Abs. 2 Nr. 1 vs. Nr. 4 HGB; Sachagio im Rahmen des qualifizierten Anteilstauschs nach § 21 UmwStG; steuerliches Einlagekonto § 27 KStG; Differenzierung nach Fälligkeit bei Kapitalerhöhung; Eintragungshindernis vs. Unwirksamkeit. Lädt bei Mandaten zu VC-Finanzierungsrunden Holding-Strukturierungen Sachagio-Einbringungen und Satzungsformulierungen mit Aufgeld. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Beirat Musterklauseln, Beirat Haftung, Geschaeftsfuehrer Haftung 43 Gmbhg
 
 ## 1. `beirat-musterklauseln`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Musterklauseln; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Musterklauseln
 
@@ -94,7 +94,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-haftung`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Haftung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Haftung
 
@@ -301,7 +301,7 @@ Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DAT
 
 ## 4. `rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Geschäftsführerhaftung für Compliance-Versagen: Compliance-Redflags werden in Organpflichten, Ressortverteilung und D&O-Meldung übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Geschäftsführerhaftung für Compliance-Versagen: Compliance-Redflags werden in Organpflichten, Ressortverteilung und D&O-Meldung übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen
 

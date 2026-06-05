@@ -1,12 +1,12 @@
 ---
 name: sonderfall-edge-case
-description: "Nutze dies, wenn Kaltstart: Sonderfall und Edge-Case-Prüfung im Plugin Rechtsberatungsstelle konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Rechtsberatungsstelle.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies bei Kaltstart: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Kaltstart: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Kaltstart: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Kaltstart: Sonderfall und Edge-Case-Prüfung / spezial kaltstart sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kaltstart: Sonderfall und Edge-Case-Prüfung / kaltstart sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** RDG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

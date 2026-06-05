@@ -1,13 +1,13 @@
 ---
 name: forsch-stundenaufzeichnung-fz-ablehnung
-description: "Nutze dies, wenn Forsch Stundenaufzeichnung Leitfaden, Fz Ablehnung Nachbesserung Einspruch, Fz Bemessungsgrundlage 2026 im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Forsch Stundenaufzeichnung Leitfaden, Fz Ablehnung Nachbesserung Einspruch, Fz Bemessungsgrundlage 2026 prüfen.; Erstelle eine Arbeitsfassung zu Forsch Stundenaufzeichnung Leitfaden, Fz Ablehnung Nachbesserung Einspruch, Fz Bemessungsgrundlage 2026.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Forsch Stundenaufzeichnung Leitfaden, Fz Ablehnung Nachbesserung Einspruch, Fz Bemessungsgrundlage 2026: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Forsch Stundenaufzeichnung Leitfaden, Fz Ablehnung Nachbesserung Einspruch, Fz Bemessungsgrundlage 2026
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Forsch Stundenaufzeichnung Leitfaden, Fz Ablehnung Nachbesserung Einspruch, Fz Bemessungsgrundlage 2026** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -147,9 +147,9 @@ Einspruchsfrist beim Finanzamt grundsätzlich **ein Monat** ab Bekanntgabe (§ 3
 3. Frist eintragen, Mahnung im Kalender setzen.
 4. Konkret rugierte Punkte auflisten.
 5. Reparatur planen:
-   a. Welche Tatsachen sind ergänzungsfähig?
-   b. Welche Belege fehlen?
-   c. Welche Formulierungen sind missverständlich?
+ a. Welche Tatsachen sind ergänzungsfähig?
+ b. Welche Belege fehlen?
+ c. Welche Formulierungen sind missverständlich?
 6. Bei BSFZ: ergänzende Stellungnahme oder neuer Antrag.
 7. Bei Finanzamt: Einspruch fristwahrend einlegen, Begründung folgt.
 8. Verhandlungsgespräch mit Sachbearbeiter prüfen.

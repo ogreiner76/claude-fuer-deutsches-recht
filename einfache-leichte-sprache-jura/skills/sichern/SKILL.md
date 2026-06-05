@@ -1,12 +1,12 @@
 ---
 name: sichern
-description: "Nutze dies, wenn Sichern: Internationaler Bezug und Schnittstellen im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Bitte Sichern: Internationaler Bezug und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Sichern: Internationaler Bezug und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sichern: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Sichern: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Sichern: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Sichern: Internationaler Bezug und Schnittstellen / spezial sichern internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Sichern: Internationaler Bezug und Schnittstellen / sichern internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

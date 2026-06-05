@@ -1,13 +1,13 @@
 ---
 name: str-kreuzungsrecht-str-strassenausbaubeitrag
-description: "Nutze dies, wenn Str 014 Kreuzungsrecht Bahn Wasser Strasse, Str 015 Strassenausbaubeitrag Prüfen, Str 016 Unterhaltungspflicht Und Winterdienst, Str 017 Schaeden Durch Strasse im Plugin Strassenrecht Infrastruktur konkret bearbeitet werden soll. Auslöser: Bitte Str 014 Kreuzungsrecht Bahn Wasser Strasse, Str 015 Strassenausbaubeitrag Prüfen, Str 016 Unterhaltungspflicht Und Winterdienst, Str 017 Schaeden Durch Strasse prüfen.; Erstelle eine Arbeitsfassung zu Str 014 Kreuzungsrecht Bahn Wasser Strasse, Str 015 Strassenausbaubeitrag Prüfen, Str 016 Unterhaltungspflicht Und Winterdienst, Str 017 Schaeden Durch Strasse.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Str 014 Kreuzungsrecht Bahn Wasser Strasse, Str 015 Strassenausbaubeitrag Prüfen, Str 016 Unterhaltungspflicht Und Winterdienst, Str 017 Schaeden Durch Strasse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Str 014 Kreuzungsrecht Bahn Wasser Strasse, Str 015 Strassenausbaubeitrag Prüfen, Str 016 Unterhaltungspflicht Und Winterdienst, Str 017 Schaeden Durch Strasse
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Str 014 Kreuzungsrecht Bahn Wasser Strasse, Str 015 Strassenausbaubeitrag Prüfen, Str 016 Unterhaltungspflicht Und Winterdienst, Str 017 Schaeden Durch Strasse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

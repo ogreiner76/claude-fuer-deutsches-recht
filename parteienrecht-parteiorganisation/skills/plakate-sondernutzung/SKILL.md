@@ -8,7 +8,7 @@ description: "Routet Plakatierung, Sondernutzung, kommunale Satzung, Gleichbehan
 ## Aufgabe
 Routet Plakatierung, Sondernutzung, kommunale Satzung, Gleichbehandlung, Fristen und Entfernung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

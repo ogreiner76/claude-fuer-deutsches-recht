@@ -1,13 +1,13 @@
 ---
 name: notare-belehrungspflicht-verbraucher
-description: "Nutze dies, wenn Notare Belehrungspflicht Und Verbraucher Kammerantwort Und Verf, Notare Belehrungspflicht Und Verbraucher Organisationspflicht U, Notare Beurkundung Im Ausland Bezug Organisationspflicht Und Pr, Notare Beurkundungsabbruch Organisationspflicht Und Praevention im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Belehrungspflicht Und Verbraucher Kammerantwort Und Verf, Notare Belehrungspflicht Und Verbraucher Organisationspflicht U, Notare Beurkundung Im Ausland Bezug Organisationspflicht Und Pr, Notare Beurkundungsabbruch Organisationspflicht Und Praevention prüfen.; Erstelle eine Arbeitsfassung zu Notare Belehrungspflicht Und Verbraucher Kammerantwort Und Verf, Notare Belehrungspflicht Und Verbraucher Organisationspflicht U, Notare Beurkundung Im Ausland Bezug Organisationspflicht Und Pr, Notare Beurkundungsabbruch Organisationspflicht Und Praevention.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notare Belehrungspflicht Und Verbraucher Kammerantwort Und Verf, Notare Belehrungspflicht Und Verbraucher Organisationspflicht U, Notare Beurkundung Im Ausland Bezug Organisationspflicht Und Pr, Notare Beurkundungsabbruch Organisationspflicht Und Praevention: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Belehrungspflicht Und Verbraucher Kammerantwort Und Verf, Notare Belehrungspflicht Und Verbraucher Organisationspflicht U, Notare Beurkundung Im Ausland Bezug Organisationspflicht Und Pr, Notare Beurkundungsabbruch Organisationspflicht Und Praevention
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Belehrungspflicht Und Verbraucher Kammerantwort Und Verf, Notare Belehrungspflicht Und Verbraucher Organisationspflicht U, Notare Beurkundung Im Ausland Bezug Organisationspflicht Und Pr, Notare Beurkundungsabbruch Organisationspflicht Und Praevention** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

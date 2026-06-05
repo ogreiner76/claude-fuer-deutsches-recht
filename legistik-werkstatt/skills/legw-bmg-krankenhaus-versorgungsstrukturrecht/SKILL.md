@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Krankenhaus- und Versorgungsstrukturrecht
-Ressort:            BMG
-Kernnormen:         KHG; KHEntgG; BPflV; KHGes der Laender; KHVVG (Krankenhausreform).
-Akteure/Aufsicht:   BMG; G-BA; InEK; Laender (Krankenhausplanung); KVen.
-EU/Voelkerrecht:    EU-Beihilferecht; HTA-VO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmg; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Krankenhaus- und Versorgungsstrukturrecht
+Ressort: BMG
+Kernnormen: KHG; KHEntgG; BPflV; KHGes der Laender; KHVVG (Krankenhausreform).
+Akteure/Aufsicht: BMG; G-BA; InEK; Laender (Krankenhausplanung); KVen.
+EU/Voelkerrecht: EU-Beihilferecht; HTA-VO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

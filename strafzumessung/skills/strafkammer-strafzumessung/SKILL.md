@@ -1,13 +1,13 @@
 ---
 name: strafkammer-strafzumessung
-description: "Nutze dies, wenn Spezial Strafkammer Behörden Gericht Und Registerweg, Spezial Strafzumessung Erstpruefung Und Mandatsziel, Spezial Strafzumessungstatsachen Vergleich Eskalation im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Strafkammer Behörden Gericht Und Registerweg, Spezial Strafzumessung Erstpruefung Und Mandatsziel, Spezial Strafzumessungstatsachen Vergleich Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Strafkammer Behörden Gericht Und Registerweg, Spezial Strafzumessung Erstpruefung Und Mandatsziel, Spezial Strafzumessungstatsachen Vergleich Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafkammer Behörden Gericht Und Registerweg, Strafzumessung Erstpruefung Und Mandatsziel, Strafzumessungstatsachen Vergleich Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Strafkammer Behörden Gericht Und Registerweg, Spezial Strafzumessung Erstpruefung Und Mandatsziel, Spezial Strafzumessungstatsachen Vergleich Eskalation
+# Strafkammer Behörden Gericht Und Registerweg, Strafzumessung Erstpruefung Und Mandatsziel, Strafzumessungstatsachen Vergleich Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafkammer Behörden Gericht Und Registerweg, Strafzumessung Erstpruefung Und Mandatsziel, Strafzumessungstatsachen Vergleich Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Strafkammer Behörden Gericht Und Registerweg, Spezial Strafzumessung Erstpruefung Und Mandatsziel, Spezial Strafzumessungstatsachen Vergleich Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafkammer Behörden Gericht Und Registerweg, Strafzumessung Erstpruefung Und Mandatsziel, Strafzumessungstatsachen Vergleich Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Strafkammer Behörden Gericht Und Registerweg, Spezial Strafzumes
 # Strafkammer: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Strafkammer: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Strafkammer: Behörden-, Gerichts- oder Registerweg / spezial strafkammer behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Strafkammer: Behörden-, Gerichts- oder Registerweg / strafkammer behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, TOA, JGG, GVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -79,7 +79,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel / spezial strafzumessung erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel / strafzumessung erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -115,21 +115,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafzumessungs-Erstpruefung Bausteine
 - **Mandantenrolle und Ziel:**
-  - **Beschuldigter / Angeklagter:** Strafmilderung; Bewaehrung; Einstellung; Verstaendigung-Korridor.
-  - **Verletzter / Nebenklage § 395 StPO:** Schaden-Wiedergutmachung; angemessene Sanktion.
-  - **StA-Mitarbeit (selten Mandat):** Strafmasspruefung Antrag.
-  - **Gericht/Schoeffe:** strafrahmen-konforme Entscheidung.
+ - **Beschuldigter / Angeklagter:** Strafmilderung; Bewaehrung; Einstellung; Verstaendigung-Korridor.
+ - **Verletzter / Nebenklage § 395 StPO:** Schaden-Wiedergutmachung; angemessene Sanktion.
+ - **StA-Mitarbeit (selten Mandat):** Strafmasspruefung Antrag.
+ - **Gericht/Schoeffe:** strafrahmen-konforme Entscheidung.
 - **Sofort-Checkliste:**
-  - Welcher Tatbestand? Strafrahmen abstrakt (Min-Max).
-  - Vorstrafen (BZRG-Auszug); Verwertungsverbot § 51 BZRG.
-  - Schuldfaehigkeit § 20 StGB / verminderte Schuldfaehigkeit § 21 StGB - Anhaltspunkte fuer Gutachten?
-  - Tatschuld (objektive Schwere, subjektive Vorwerfbarkeit) - § 46 I 1 StGB Grundlage.
-  - Pruefung Regelbeispiel / besonders schwerer Fall / minderschwerer Fall.
-  - Strafrahmenverschiebung § 49 StGB pruefen.
+ - Welcher Tatbestand? Strafrahmen abstrakt (Min-Max).
+ - Vorstrafen (BZRG-Auszug); Verwertungsverbot § 51 BZRG.
+ - Schuldfaehigkeit § 20 StGB / verminderte Schuldfaehigkeit § 21 StGB - Anhaltspunkte fuer Gutachten?
+ - Tatschuld (objektive Schwere, subjektive Vorwerfbarkeit) - § 46 I 1 StGB Grundlage.
+ - Pruefung Regelbeispiel / besonders schwerer Fall / minderschwerer Fall.
+ - Strafrahmenverschiebung § 49 StGB pruefen.
 - **Erwartungsspanne kommunizieren:**
-  - **Geldstrafe** ueblicher Bereich nach Vergehen, Vorstrafen, Schuld: Zahl der TS; **Tagessatzhoehe** = 1/30 Nettoeinkommen.
-  - **Freiheitsstrafe**: idR ab 6 Monaten (§ 47 StGB), Bewaehrungspraxis § 56 StGB.
-  - **Nebenfolgen**: Fahrverbot § 44 StGB, Entziehung Fahrerlaubnis § 69 StGB, BZRG-Eintrag, FZR.
+ - **Geldstrafe** ueblicher Bereich nach Vergehen, Vorstrafen, Schuld: Zahl der TS; **Tagessatzhoehe** = 1/30 Nettoeinkommen.
+ - **Freiheitsstrafe**: idR ab 6 Monaten (§ 47 StGB), Bewaehrungspraxis § 56 StGB.
+ - **Nebenfolgen**: Fahrverbot § 44 StGB, Entziehung Fahrerlaubnis § 69 StGB, BZRG-Eintrag, FZR.
 - **Mandatsziel-Matrix:** Sachverhalt vs. Beweislage; Beste-Case / Wahrscheinlichster / Worst-Case Strafmass.
 - **Strategie:** Gestaendnis vs. Verteidigung; Verstaendigung § 257c StPO; TOA § 46a StGB; Einstellung §§ 153, 153a StPO.
 - **Anschluss:** Tatbestand-Belege / Strafmilderung / Bewaehrung / Rechtsmittel.
@@ -148,7 +148,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation / spezial strafzumessungstatsachen vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation / strafzumessungstatsachen vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -184,28 +184,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafzumessungstatsachen / Verhandlung Bausteine
 - **Verstaendigung § 257c StPO Eckpunkte:**
-  - **Inhalt zulaessig:** Strafrahmen-Korridor (Unter- und Obergrenze).
-  - **Inhalt unzulaessig:** Schuldspruch verzichtbar; Massregeln § 257c II 3 StPO.
-  - **Belehrung § 257c V StPO** als Wirksamkeitsvoraussetzung; Wegfall der Bindung bei neuen erheblichen Umstaenden.
-  - **Geschaeftsgrundlage** regelmaessig Gestaendnis Angeklagter; aber Beweisaufnahme nicht ersparbar (BGH-Linie).
+ - **Inhalt zulaessig:** Strafrahmen-Korridor (Unter- und Obergrenze).
+ - **Inhalt unzulaessig:** Schuldspruch verzichtbar; Massregeln § 257c II 3 StPO.
+ - **Belehrung § 257c V StPO** als Wirksamkeitsvoraussetzung; Wegfall der Bindung bei neuen erheblichen Umstaenden.
+ - **Geschaeftsgrundlage** regelmaessig Gestaendnis Angeklagter; aber Beweisaufnahme nicht ersparbar (BGH-Linie).
 - **TOA § 46a StGB:**
-  - **Nr. 1:** Wiedergutmachung des Schadens ganz oder ueberwiegend.
-  - **Nr. 2:** Ernsthafte Bemuehung um Aussoehnung mit Verletztem.
-  - **Folge:** Strafmilderung § 49 StGB / Absehen von Strafe (max. 1 Jahr Freiheitsstrafe / Geldstrafe).
-  - **Praxis:** TOA-Vermittlungsstelle einschalten; Vereinbarung schriftlich; Erfuellung dokumentieren.
+ - **Nr. 1:** Wiedergutmachung des Schadens ganz oder ueberwiegend.
+ - **Nr. 2:** Ernsthafte Bemuehung um Aussoehnung mit Verletztem.
+ - **Folge:** Strafmilderung § 49 StGB / Absehen von Strafe (max. 1 Jahr Freiheitsstrafe / Geldstrafe).
+ - **Praxis:** TOA-Vermittlungsstelle einschalten; Vereinbarung schriftlich; Erfuellung dokumentieren.
 - **Schadenswiedergutmachung als Strafzumessungstatsache:**
-  - Voll: erhebliche Strafmilderung.
-  - Teilweise mit Tilgungsplan: dann moderate Milderung; Plan verbindlich machen.
-  - Bei Vermoegensdelikten: Einziehung § 73 ff. StGB anrechnen.
+ - Voll: erhebliche Strafmilderung.
+ - Teilweise mit Tilgungsplan: dann moderate Milderung; Plan verbindlich machen.
+ - Bei Vermoegensdelikten: Einziehung § 73 ff. StGB anrechnen.
 - **Verhandlungsspielraum mit StA / Gericht:**
-  - Strafmass-Korridor sondieren (Vorgespraech ausserhalb Hauptverhandlung).
-  - Einstellung §§ 153, 153a StPO als Alternative.
-  - Auflagen § 153a StPO (Schadenswiedergutmachung, Geldzahlung Bussgeld an gemeinnuetzige Einrichtung, gemeinnuetzige Arbeit).
+ - Strafmass-Korridor sondieren (Vorgespraech ausserhalb Hauptverhandlung).
+ - Einstellung §§ 153, 153a StPO als Alternative.
+ - Auflagen § 153a StPO (Schadenswiedergutmachung, Geldzahlung Bussgeld an gemeinnuetzige Einrichtung, gemeinnuetzige Arbeit).
 - **Eskalation und Alternativen:**
-  - Antrag Hauptverhandlung bei Erfolgsaussicht Beweisaufnahme.
-  - Beweisantraege § 244 StPO.
-  - Hilfsbeweisantraege bei Bedingung Verurteilung.
-  - Schlussvortrag mit Strafmass-Argumentation entlang § 46 StGB.
+ - Antrag Hauptverhandlung bei Erfolgsaussicht Beweisaufnahme.
+ - Beweisantraege § 244 StPO.
+ - Hilfsbeweisantraege bei Bedingung Verurteilung.
+ - Schlussvortrag mit Strafmass-Argumentation entlang § 46 StGB.
 - **Kompensation bei langer Verfahrensdauer:** Strafabschlag wegen rechtsstaatswidriger Verfahrensdauer Art. 6 EMRK / Art. 20 III GG; BGH-Vollstreckungsloesung (Anrechnung auf Strafe).
 
 ## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe

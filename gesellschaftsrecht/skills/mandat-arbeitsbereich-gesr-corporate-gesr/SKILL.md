@@ -1,13 +1,13 @@
 ---
 name: mandat-arbeitsbereich-gesr-corporate-gesr
-description: "Nutze dies, wenn Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial, Gmbh Gruendung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -102,7 +102,7 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 
 ## Prüfschema: Mandats-Workspace
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -577,7 +577,7 @@ Dieser Skill gehoert zum Plugin `gesellschaftsrecht`. Er ergaenzt die uebrigen S
 
 
 ## Spezialwissen: GesR: KGaA SE Spezial
-- **Spezialgegenstand:** GesR: KGaA SE Spezial / gesr kgaa und se spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** GesR: KGaA SE / gesr kgaa und se spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** SE, BGH, BVerfG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -673,16 +673,16 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
 ## Eingaben
 
 1. **Gesellschafterkreis** – Namen, Adressen, Nationalität, Geschäftsfähigkeit;
-   bei Minderjährigen: familiengerichtliche Genehmigung.
+ bei Minderjährigen: familiengerichtliche Genehmigung.
 2. **Firma** – Unterscheidungskraft (§ 18 HGB), Irreführungsverbot (§ 18 Abs. 2
-   HGB), Namenszusatz "GmbH" (§ 4 GmbHG) oder "UG (haftungsbeschränkt)" (§ 5a
-   Abs. 1 GmbHG).
+ HGB), Namenszusatz "GmbH" (§ 4 GmbHG) oder "UG (haftungsbeschränkt)" (§ 5a
+ Abs. 1 GmbHG).
 3. **Stammkapital** – Mindestens 25.000 € bei GmbH (§ 5 Abs. 1 GmbHG); bei UG
-   mindestens 1 € (§ 5a Abs. 1 GmbHG).
+ mindestens 1 € (§ 5a Abs. 1 GmbHG).
 4. **Geschäftsführer** – Natürliche Person, Geschäftsfähigkeit, keine
-   Vorstrafen nach § 6 Abs. 2 Satz 2 GmbHG (Bestellungshindernis).
+ Vorstrafen nach § 6 Abs. 2 Satz 2 GmbHG (Bestellungshindernis).
 5. **Unternehmensgegenstand** – Hinreichend bestimmt; Erlaubnispflichtige
-   Tätigkeiten (z. B. § 32 KWG, § 34c GewO) vorab prüfen.
+ Tätigkeiten (z. B. § 32 KWG, § 34c GewO) vorab prüfen.
 6. **Sacheinlagen** – § 5 Abs. 4 GmbHG: Sachgründungsbericht, Werthaltigkeitsprüfung.
 
 ## Rechtlicher Rahmen
@@ -690,34 +690,34 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
 ### Zentrale Normen
 
 - **§ 2 GmbHG** – Notarielle Beurkundung des Gesellschaftsvertrags; Musterprotokoll
-  für vereinfachte Gründung (§ 2 Abs. 1a GmbHG, max. 3 Gesellschafter,
-  1 Geschäftsführer).
+ für vereinfachte Gründung (§ 2 Abs. 1a GmbHG, max. 3 Gesellschafter,
+ 1 Geschäftsführer).
 - **§ 5 GmbHG** – Stammkapital 25.000 €; Stammeinlage mind. 1 €; § 5 Abs. 4 GmbHG
-  Sachgründungsbericht.
+ Sachgründungsbericht.
 - **§ 5a GmbHG** – UG (haftungsbeschränkt): Mindestkapital 1 €; Rücklage 25 % des
-  Jahresüberschusses bis Aufstockung auf 25.000 € (§ 5a Abs. 3 GmbHG).
+ Jahresüberschusses bis Aufstockung auf 25.000 € (§ 5a Abs. 3 GmbHG).
 - **§ 6 GmbHG** – Geschäftsführer; Bestellungshindernisse § 6 Abs. 2 GmbHG.
 - **§ 7 GmbHG** – Anmeldung zum Handelsregister; Voraussetzung: Einzahlung
-  von mindestens 12.500 € (Hälfte) auf Bareinlage (§ 7 Abs. 2 GmbHG).
+ von mindestens 12.500 € (Hälfte) auf Bareinlage (§ 7 Abs. 2 GmbHG).
 - **§ 8 GmbHG** – Inhalt der Anmeldung; Versicherung des Geschäftsführers über
-  Bestellungshindernisse (§ 8 Abs. 3 GmbHG).
+ Bestellungshindernisse (§ 8 Abs. 3 GmbHG).
 - **§ 11 GmbHG** – Entstehung der GmbH mit Eintragung; Haftung in der Vorgesellschaft.
 - **§ 39 GmbHG** – Anmeldung von Geschäftsführerwechseln.
 - **§ 3 GwG** i. V. m. **§§ 19 ff. GwG** – Transparenzregistereintragung der
-  wirtschaftlich Berechtigten.
+ wirtschaftlich Berechtigten.
 
 ### Leitentscheidungen
 
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   "ARGE Weißes Ross": Grundsätze zur Haftung in der Vorgesellschaft;
-   Handeln im Namen der noch nicht eingetragenen GmbH begründet persönliche
-   Haftung der Handelnden nach § 11 Abs. 2 GmbHG, es sei denn, die Gesellschaft
-   wird eingetragen und die Verbindlichkeit übernommen.
+ "ARGE Weißes Ross": Grundsätze zur Haftung in der Vorgesellschaft;
+ Handeln im Namen der noch nicht eingetragenen GmbH begründet persönliche
+ Haftung der Handelnden nach § 11 Abs. 2 GmbHG, es sei denn, die Gesellschaft
+ wird eingetragen und die Verbindlichkeit übernommen.
 
 2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Zur Verlustdeckungspflicht der Gründergesellschafter in der Vor-GmbH:
-   Das Prinzip der realen Kapitalaufbringung gebietet, dass bei Eintragung
-   das Gesellschaftsvermögen mindestens dem angemeldeten Stammkapital entspricht.
+ Zur Verlustdeckungspflicht der Gründergesellschafter in der Vor-GmbH:
+ Das Prinzip der realen Kapitalaufbringung gebietet, dass bei Eintragung
+ das Gesellschaftsvermögen mindestens dem angemeldeten Stammkapital entspricht.
 
 ### Quellenregel
 
@@ -725,40 +725,40 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Vorbereitung** – Firmenrecherche beim zuständigen Handelsregister und DPMA
-   (Namensähnlichkeit); Gegenstandsformulierung; Bestellungshindernis-Prüfung
-   § 6 Abs. 2 GmbHG; ggf. behördliche Genehmigungen vorab einholen.
+ (Namensähnlichkeit); Gegenstandsformulierung; Bestellungshindernis-Prüfung
+ § 6 Abs. 2 GmbHG; ggf. behördliche Genehmigungen vorab einholen.
 
 2. **Gesellschaftsvertrag beurkunden** (§ 2 GmbHG) – Notar erstellt oder
-   beurkundet den Gesellschaftsvertrag mit Mindestinhalt (§ 3 GmbHG: Firma,
-   Sitz, Gegenstand, Stammkapital, Stammeinlagen). Bei vereinfachter Gründung:
-   Musterprotokoll (Anlage zu § 2 Abs. 1a GmbHG).
+ beurkundet den Gesellschaftsvertrag mit Mindestinhalt (§ 3 GmbHG: Firma,
+ Sitz, Gegenstand, Stammkapital, Stammeinlagen). Bei vereinfachter Gründung:
+ Musterprotokoll (Anlage zu § 2 Abs. 1a GmbHG).
 
 3. **Stammkapital einzahlen** – Bareinlage auf Geschäftskonto einzahlen; bei UG:
-   vollständige Einzahlung vor Anmeldung erforderlich (§ 5a Abs. 2 GmbHG).
-   Bei GmbH: mindestens 12.500 € (§ 7 Abs. 2 Satz 1 GmbHG) vor Anmeldung.
+ vollständige Einzahlung vor Anmeldung erforderlich (§ 5a Abs. 2 GmbHG).
+ Bei GmbH: mindestens 12.500 € (§ 7 Abs. 2 Satz 1 GmbHG) vor Anmeldung.
 
 4. **Geschäftsführer bestellen und Versicherung abgeben** – Gesellschafterbeschluss
-   (§ 46 Nr. 5 GmbHG); Anstellungsvertrag; Versicherung nach § 8 Abs. 3 GmbHG
-   gegenüber dem Registergericht.
+ (§ 46 Nr. 5 GmbHG); Anstellungsvertrag; Versicherung nach § 8 Abs. 3 GmbHG
+ gegenüber dem Registergericht.
 
 5. **Handelsregisteranmeldung** (§ 7 GmbHG) – Notarielle Beglaubigung der
-   Unterschrift (§ 12 HGB); Einreichung beim zuständigen Amtsgericht (HRB);
-   Anlage: Gesellschaftsvertrag, Liste der Gesellschafter, Geschäftsführernachweis.
+ Unterschrift (§ 12 HGB); Einreichung beim zuständigen Amtsgericht (HRB);
+ Anlage: Gesellschaftsvertrag, Liste der Gesellschafter, Geschäftsführernachweis.
 
 6. **Eintragung und Veröffentlichung** – Nach Eintragung entsteht die GmbH
-   (§ 11 Abs. 1 GmbHG); Bekanntmachung im Bundesanzeiger (§ 10 GmbHG).
+ (§ 11 Abs. 1 GmbHG); Bekanntmachung im Bundesanzeiger (§ 10 GmbHG).
 
 7. **Nachgelagerte Pflichten:**
-   - Gewerbeanmeldung § 14 GewO bei der Gemeinde (innerhalb von 1 Monat).
-   - IHK-Mitgliedschaft kraft Gesetzes (§ 2 IHKG); Beitragsbescheid folgt.
-   - Transparenzregister: Eintragung wirtschaftlich Berechtigter (§ 20 GwG)
-     innerhalb von 2 Wochen nach Gründung; Bußgeld bei Verstößen (§ 56 GwG).
-   - Finanzamt: steuerliche Erfassung (USt., KSt., GewSt.) mittels ELSTER-
-     Fragebogen.
-   - Bankverbindung: Geschäftskonto für Stammkapital und laufenden Zahlungsverkehr.
+ - Gewerbeanmeldung § 14 GewO bei der Gemeinde (innerhalb von 1 Monat).
+ - IHK-Mitgliedschaft kraft Gesetzes (§ 2 IHKG); Beitragsbescheid folgt.
+ - Transparenzregister: Eintragung wirtschaftlich Berechtigter (§ 20 GwG)
+ innerhalb von 2 Wochen nach Gründung; Bußgeld bei Verstößen (§ 56 GwG).
+ - Finanzamt: steuerliche Erfassung (USt., KSt., GewSt.) mittels ELSTER-
+ Fragebogen.
+ - Bankverbindung: Geschäftskonto für Stammkapital und laufenden Zahlungsverkehr.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -883,19 +883,19 @@ in: Altmeppen, GmbHG, 11. Aufl. 2023, § 2 Rn. 3.)*
 ## Risiken und typische Fehler
 
 - **Vorgesellschaftshaftung** – Handeln vor Eintragung begründet persönliche
-  Haftung der Handelnden (§ 11 Abs. 2 GmbHG); Haftungsübernahme durch die
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Haftung der Handelnden (§ 11 Abs. 2 GmbHG); Haftungsübernahme durch die
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ 1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vorbelastungshaftung** – Minderung des Gesellschaftsvermögens zwischen
-  Gründung und Eintragung geht zu Lasten der Gesellschafter.
+ Gründung und Eintragung geht zu Lasten der Gesellschafter.
 - **Sacheinlagen unterschätzt** – Fehlender Sachgründungsbericht (§ 5 Abs. 4
-  GmbHG) führt zur Ablehnung der Eintragung durch das Registergericht.
+ GmbHG) führt zur Ablehnung der Eintragung durch das Registergericht.
 - **Bestellungshindernis** – Vorstrafen nach § 6 Abs. 2 Satz 2 Nr. 3 GmbHG
-  schließen Geschäftsführeramt aus; Strafregisterauszug rechtzeitig einholen.
+ schließen Geschäftsführeramt aus; Strafregisterauszug rechtzeitig einholen.
 - **Transparenzregister-Frist** – 2-Wochen-Frist nach § 20 Abs. 1 GwG;
-  Bußgelder bis zu 1 Mio. € (§ 56 GwG).
+ Bußgelder bis zu 1 Mio. € (§ 56 GwG).
 - **Datenschutz/Berufsrecht** – § 43a Abs. 2 BRAO, § 203 StGB: keine
-  Mandantendaten in externe KI-Systeme ohne Einwilligung.
+ Mandantendaten in externe KI-Systeme ohne Einwilligung.
 
 ## Quellenpflicht
 

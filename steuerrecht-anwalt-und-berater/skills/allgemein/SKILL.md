@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Steuerrecht Anwalt Und Berater-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Fallrouting im Steuerrecht Anwalt Und Berater-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage."
 ---
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
@@ -8,7 +8,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Steuerrecht Anwalt
 - **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
 - **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
 - **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Spezial-Skills dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
+- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
@@ -27,7 +27,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Steuerrecht Anwalt
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Steuerrecht Anwalt Und Berater**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Steuerrecht Anwalt Und Berater**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
 **Plugin-Fokus:** Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-) mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: E-Rechnung, Umsatzsteuer/Vorsteuer, Krypto, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing/Closing, Einspruch, Klage, FG, Außenprüfung, Selbstanzeige. StB-Tools BWA, SuSa, Lohnbuchhaltung, Jahresabschluss, Mandantenkommunikation, Software-Bedienung. DBA weltweit nach BMF-Stand 01.01.2026 mit Ländermatrix, MLI-, Quellensteuer-, MAP- und Edge-Case-Routing.
 
@@ -41,7 +41,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
 3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
 4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Spezial-Skill aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
+5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
 6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
 
 **Was du bei stummem Upload nicht machst:**
@@ -81,7 +81,7 @@ Arbeite danach in dieser Reihenfolge:
 1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
 2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
 3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+4. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
 5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
 6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
 
@@ -92,7 +92,7 @@ Arbeite danach in dieser Reihenfolge:
 - Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
 - Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, zuerst `rechtsstand-mai-2026-faktenbank` laden und danach Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
 
 ### 4. Antwortformat für den Einstieg
 
@@ -117,7 +117,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 **Nächste Frage**
 [Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
 
-### 5. Spezial-Skills in diesem Plugin
+### 5. Fachmodule in diesem Plugin
 
 | Skill | Wann vorschlagen? |
 |---|---|
@@ -133,7 +133,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `anw-grunderwerbsteuer-share-deal-90-prozent` | Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften berechnen und gestalten. Anwendungsfall M-und-A-Transaktion mit Immobilien-Hintergrund Anteilsuebertragung droht… |
 | `anw-grest-kaltstart-asset-share-deal` | GrESt-Kaltstart bei Immobilien- und M&A-Transaktionen: Asset Deal oder Share Deal, Signing/Closing, Tatbestand, Steuerschuldner, Anzeige und Bescheidroute sortieren. |
 | `anw-grest-share-deal-90-prozent-10-jahre` | Share-Deal-Vertiefung mit § 1 Abs. 2a, 2b, 3 und 3a GrEStG, 90-%-Schwelle, 10-Jahres-Zeitraum, RETT-Blocker und Beteiligungsketten. |
-| `anw-grest-signing-closing-doppelfestsetzung` | Spezialskill für doppelte GrESt-Festsetzungen bei auseinanderfallendem Signing und Closing; BFH-AdV-Linie, Zielbescheid und § 16-Route sauber trennen. |
+| `anw-grest-signing-closing-doppelfestsetzung` | Fachmodul für doppelte GrESt-Festsetzungen bei auseinanderfallendem Signing und Closing; BFH-AdV-Linie, Zielbescheid und § 16-Route sauber trennen. |
 | `anw-grest-anzeige-19-closing-check` | Anzeige nach § 19 GrEStG, Closing-Checkliste, Grundstücksliste, Zuständigkeiten, Anlagen und Versandnachweise für Post-Closing-Teams. |
 | `anw-grest-spa-tax-clause-indemnity` | GrESt im SPA: Tax Covenant, Indemnity, Escrow, Mitwirkung, Verfahrenskontrolle und Signing/Closing-Doppelrisiko vertraglich absichern. |
 | `anw-grest-bescheid-einspruch-adv-16` | GrESt-Bescheide prüfen und angreifen: Einspruch, AdV, § 16 GrEStG, falscher Tatbestand, falsche Bemessungsgrundlage oder Doppelbelastung. |
@@ -280,7 +280,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `stb-lohn-krankheit-entgeltfortzahlung-efzg` | Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfähigkeit. Methodik… |
 | `stb-lohn-kurzarbeit-kug-progression` | Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung… |
 | `stb-lohn-lohnsteuer-anmeldung-elster` | Elektronische Lohnsteuer-Anmeldung über ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Übermittlung. Methodik Daten aus Lohnabrechnung… |
-| `stb-lohn-lohnsteuer-monatsabschluss` | Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Workflow Abrechnungsschritte 39e… |
+| `stb-lohn-lohnsteuer-monatsabschluss` | Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Abrechnungsschritte 39e… |
 | `stb-lohn-mandantenaufnahme-onboarding` | Onboarding eines neuen Lohn-Mandanten. Anwendungsfall Erstaufnahme Stammdaten Arbeitnehmer-Liste Sozialversicherungs-Anmeldung Mandantenstamm DATEV LODAS oder Lohn und Gehalt. Methodik Checkliste Datenerfassung… |
 | `stb-lohn-mehrarbeit-zuschlaege-39b-estg` | Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG. Anwendungsfall Lohnabrechnung mit Schichtzuschlaegen Gastronomie Pflege Sicherheitsdienst LSt-Freiheit SV-Freiheit in Grenzen. Methodik Prüfung Begrenzung Grundlohn… |
 | `stb-lohn-meldungen-sv-elstam-zugang` | SV-Meldungen und ELStAM-Verfahren beim AN-Onboarding. Anwendungsfall Beschaeftigungsbeginn und Beendigung Anmeldung Abmeldung Aenderungsmeldung Sofortmeldung Sonderbranchen Elektronische LSt-Merkmale Abruf. Methodik… |
@@ -329,7 +329,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 - Arbeite schnell, aber nicht hektisch.
 - Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert.
 - Mache Annahmen sichtbar und halte sie knapp.
-- Schlage passende Spezial-Skills aus diesem Plugin vor, bevor du in Randthemen ausweichst.
+- Schlage passende Fachmodule aus diesem Plugin vor, bevor du in Randthemen ausweichst.
 - Liefere am Ende immer einen klaren nächsten Schritt.
 
 ---

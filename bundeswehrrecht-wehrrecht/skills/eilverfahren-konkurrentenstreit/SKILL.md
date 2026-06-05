@@ -1,13 +1,13 @@
 ---
 name: eilverfahren-konkurrentenstreit
-description: "Nutze dies, wenn Eilverfahren Konkurrentenstreit Wehrdienstsenat, Fristenkalender Bundeswehrrecht, Gerichtliches Disziplinarverfahren Soldat im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Eilverfahren Konkurrentenstreit Wehrdienstsenat, Fristenkalender Bundeswehrrecht, Gerichtliches Disziplinarverfahren Soldat prüfen.; Erstelle eine Arbeitsfassung zu Eilverfahren Konkurrentenstreit Wehrdienstsenat, Fristenkalender Bundeswehrrecht, Gerichtliches Disziplinarverfahren Soldat.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eilverfahren Konkurrentenstreit Wehrdienstsenat, Fristenkalender Bundeswehrrecht, Gerichtliches Disziplinarverfahren Soldat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eilverfahren Konkurrentenstreit Wehrdienstsenat, Fristenkalender Bundeswehrrecht, Gerichtliches Disziplinarverfahren Soldat
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eilverfahren Konkurrentenstreit Wehrdienstsenat, Fristenkalender Bundeswehrrecht, Gerichtliches Disziplinarverfahren Soldat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -61,15 +61,15 @@ Beim Konkurrentenstreit geht es um die Auswahl zwischen mehreren Soldaten für e
 - §§ 27, 28 SG: Beurteilung und Auswahlentscheidung.
 - BVerfG zum effektiven Rechtsschutz vor Beförderung – ständige Rechtsprechung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Konkurrentenmitteilung sichern.** Vorab-Information durch Dienststelle ist Pflicht – Mandant muss reagieren können.
 2. **Frist berechnen.** § 6 WBO: 1 Monat ab Mitteilung; aber im Konkurrentenstreit faktisch kürzer (Beförderungstermin).
 3. **Akteneinsicht.** Personalakte und Vergleichsbeurteilungen (anonymisiert) anfordern, ggf. nach § 99 VwGO entsprechend Eilvorlage.
 4. **Schutzschrift.** Beim TDG/BVerwG mit Beförderungsstopp.
 5. **Eilantrag.**
-   - § 21 WBO: bei höherer Vorgesetzten-Entscheidung BVerwG.
-   - § 17 WBO: TDG für andere Maßnahmen.
+ - § 21 WBO: bei höherer Vorgesetzten-Entscheidung BVerwG.
+ - § 17 WBO: TDG für andere Maßnahmen.
 6. **Anordnungsanspruch begründen.** Beurteilungsfehler, fehlerhafte Vergleichsgruppenbildung, fehlende Auswahlentscheidungsbegründung.
 7. **Anordnungsgrund.** Drohende Beförderung des Mitbewerbers an konkretem Datum.
 8. **Hauptsache anschließend.** Beschwerde und gerichtliche Entscheidung in der Sache.
@@ -216,7 +216,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -329,7 +329,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

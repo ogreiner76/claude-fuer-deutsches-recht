@@ -1,13 +1,13 @@
 ---
 name: methodenwahl-offenlegen-methodischer
-description: "Nutze dies, wenn Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen, Objektiv Teleologische Auslegung Red Team im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen, Objektiv Teleologische Auslegung Red Team prüfen.; Erstelle eine Arbeitsfassung zu Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen, Objektiv Teleologische Auslegung Red Team.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen, Objektiv Teleologische Auslegung Red Team
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen, Objektiv Teleologische Auslegung Red Team** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

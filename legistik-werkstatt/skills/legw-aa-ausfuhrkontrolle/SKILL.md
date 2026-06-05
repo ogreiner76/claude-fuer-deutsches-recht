@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Ausfuhrkontrolle und Aussenwirtschaftsdimension
-Ressort:            AA
-Kernnormen:         AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.
-Akteure/Aufsicht:   BAFA; AA Politische Abteilung; BMWE.
-EU/Voelkerrecht:    Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Ausfuhrkontrolle und Aussenwirtschaftsdimension
+Ressort: AA
+Kernnormen: AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.
+Akteure/Aufsicht: BAFA; AA Politische Abteilung; BMWE.
+EU/Voelkerrecht: Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-aa; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

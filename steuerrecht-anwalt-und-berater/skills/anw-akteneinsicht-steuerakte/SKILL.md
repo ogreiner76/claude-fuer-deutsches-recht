@@ -65,7 +65,7 @@ Bevorzugte Übermittlung: elektronisch über Mein ELSTER;
 alternativ Papierform. Eine Übersendung per beA ist seit
 6.12.2024 unzulässig (§ 87a Abs. 1 S. 2 AO n.F.).
 
-[ORT], [DATUM]    [UNTERSCHRIFT]
+[ORT], [DATUM] [UNTERSCHRIFT]
 ```
 
 ## Antrag im Klageverfahren (§ 78 FGO)
@@ -79,18 +79,18 @@ An das Finanzgericht [BUNDESLAND]
 In der Streitsache [NAME] ./. Finanzamt [ORT] beantragen wir:
 
 1. Die vollständige Steuerakte betreffend [STEUERART] [JAHRE]
-   gemäß § 71 Abs. 2 FGO beizuziehen.
+ gemäß § 71 Abs. 2 FGO beizuziehen.
 2. Dem Kläger Einsicht gemäß § 78 FGO in die beigezogene
-   Verwaltungsakte zu gewähren, einschließlich interner
-   Prüfernotizen und Kontrollmitteilungen.
+ Verwaltungsakte zu gewähren, einschließlich interner
+ Prüfernotizen und Kontrollmitteilungen.
 3. Geschwärzten Aktenteilen ist eine Begründung der Schwärzung
-   beizufügen; bei Streit beantragen wir gerichtliche Prüfung.
+ beizufügen; bei Streit beantragen wir gerichtliche Prüfung.
 ```
 
 ## Schritt-für-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Aktenlage klären:** Liegt Einspruchsentscheidung vor? → Klageverfahren → § 78 FGO; sonst → § 364 AO.
 2. **Antrag formulieren** (Vorlage oben anpassen, Steuerart, Az, Mandantendaten).
@@ -172,10 +172,10 @@ beantragt. Sobald die Akte eingeht, werten wir sie für Sie aus
 und informieren Sie über die Ergebnisse, insbesondere über:
 
 - Welche Unterlagen das Finanzamt als Entscheidungsgrundlage
-  herangezogen hat
+ herangezogen hat
 - Ob Kontrollmitteilungen Dritter die Festsetzung beeinflusst haben
 - Welche Schwärzungen vorgenommen wurden und ob wir dagegen
-  vorgehen sollten
+ vorgehen sollten
 
 [KANZLEI], [DATUM]
 ```

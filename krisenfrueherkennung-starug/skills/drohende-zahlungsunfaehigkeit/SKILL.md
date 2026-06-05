@@ -1,13 +1,13 @@
 ---
 name: drohende-zahlungsunfaehigkeit
-description: "Nutze dies, wenn Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont prüfen.; Erstelle eine Arbeitsfassung zu Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -105,20 +105,20 @@ Ein Unternehmen kann bilanziell überschuldet und gleichzeitig noch zahlungsfäh
 LIQUIDITÄTSSTATUS — STICHTAG [TT.MM.JJJJ]
 
 VORHANDENE LIQUIDITÄT
-  Kassenbestand: EUR [___]
-  Bankguthaben: EUR [___]
-  Verfügbare Kreditlinien: EUR [___]
-  = Verfügbare Liquidität: EUR [___]
+ Kassenbestand: EUR [___]
+ Bankguthaben: EUR [___]
+ Verfügbare Kreditlinien: EUR [___]
+ = Verfügbare Liquidität: EUR [___]
 
 ABZUDECKENDE ZAHLUNGSPFLICHTEN
-  Fällige Verbindlichkeiten Stichtag: EUR [___]
-  Davon: Lieferanten: EUR [___]
-  Davon: Steuern/SV: EUR [___]
-  Davon: Banken (Zinsen/Tilgung): EUR [___]
+ Fällige Verbindlichkeiten Stichtag: EUR [___]
+ Davon: Lieferanten: EUR [___]
+ Davon: Steuern/SV: EUR [___]
+ Davon: Banken (Zinsen/Tilgung): EUR [___]
 
 SALDO: EUR [___]
-  → Positiv: Zahlungsfähig (Stichtag)
-  → Negativ: Zahlungsunfähig (Stichtag) → § 17 InsO prüfen
+ → Positiv: Zahlungsfähig (Stichtag)
+ → Negativ: Zahlungsunfähig (Stichtag) → § 17 InsO prüfen
 ```
 
 ### Schritt 2: Liquiditätsprognose 24 Monate (§ 18 InsO-Test)
@@ -155,24 +155,24 @@ Datum der Prüfung: [TT.MM.JJJJ]
 Erstellt von: [Name, Funktion]
 
 1. LIQUIDITÄTSSTATUS STICHTAG
-   Ergebnis: [zahlungsfähig / eingeschränkt zahlungsfähig / zahlungsunfähig]
-   Saldo: EUR [+/-]
+ Ergebnis: [zahlungsfähig / eingeschränkt zahlungsfähig / zahlungsunfähig]
+ Saldo: EUR [+/-]
 
 2. PROGNOSE 24 MONATE
-   Planungsgrundlage: Liquiditätsplan vom [Datum], freigegeben von [GF-Name]
-   Prognosezeitraum: [Datum] bis [Datum]
-   Kritischer Engpass identifiziert: [ja / nein]
-   Wenn ja: Zeitpunkt [Monat/JJJJ], Höhe EUR [___]
+ Planungsgrundlage: Liquiditätsplan vom [Datum], freigegeben von [GF-Name]
+ Prognosezeitraum: [Datum] bis [Datum]
+ Kritischer Engpass identifiziert: [ja / nein]
+ Wenn ja: Zeitpunkt [Monat/JJJJ], Höhe EUR [___]
 
 3. WAHRSCHEINLICHKEITSBEWERTUNG
-   Wahrscheinlichkeit der Unterdeckung: [< 50 % / > 50 %]
-   → Drohende ZU nach § 18 InsO: [ja / nein]
-   Begründung: [___]
+ Wahrscheinlichkeit der Unterdeckung: [< 50 % / > 50 %]
+ → Drohende ZU nach § 18 InsO: [ja / nein]
+ Begründung: [___]
 
 4. FOLGERUNG
-   [ ] Keine drohende ZU — kein StaRUG-Handlungsbedarf
-   [ ] Drohende ZU — StaRUG-Zugang prüfen
-   [ ] Eingetretene ZU — § 15a InsO-Frist läuft
+ [ ] Keine drohende ZU — kein StaRUG-Handlungsbedarf
+ [ ] Drohende ZU — StaRUG-Zugang prüfen
+ [ ] Eingetretene ZU — § 15a InsO-Frist läuft
 
 Unterschrift GF: ___________________
 Hinweis: Dieser Prüfvermerk ersetzt keine rechtliche Beratung.
@@ -241,15 +241,15 @@ Deutschland hat nach der Finanzmarktkrise 2008 dauerhaft den modifizierten Über
 
 ```
 ÜBERSCHULDUNG § 19 InsO:
-  Schritt 1: Liegt eine rechnerische Überschuldung vor?
-             (Passiva > Aktiva auf Liquidationsbasis)
-             → Wenn NEIN: Kein Insolvenzgrund gem. § 19 InsO
-             → Wenn JA: Weiter mit Schritt 2
+ Schritt 1: Liegt eine rechnerische Überschuldung vor?
+ (Passiva > Aktiva auf Liquidationsbasis)
+ → Wenn NEIN: Kein Insolvenzgrund gem. § 19 InsO
+ → Wenn JA: Weiter mit Schritt 2
 
-  Schritt 2: Liegt eine positive Fortführungsprognose vor?
-             → Wenn JA: Fortführungswerte zulässig; kein Insolvenzantrag
-                        (modifizierter Überschuldungsbegriff greift)
-             → Wenn NEIN: Insolvenzantragspflicht § 15a InsO ausgelöst
+ Schritt 2: Liegt eine positive Fortführungsprognose vor?
+ → Wenn JA: Fortführungswerte zulässig; kein Insolvenzantrag
+ (modifizierter Überschuldungsbegriff greift)
+ → Wenn NEIN: Insolvenzantragspflicht § 15a InsO ausgelöst
 ```
 
 ### 2. IDW S 11 — Das Zweistufenmodell der Fortbestehensprognose
@@ -304,25 +304,25 @@ Ein formales Gutachten durch einen Wirtschaftsprüfer nach IDW S 11 ist in folge
 ÜBERSCHULDUNGSBILANZ (LIQUIDATIONSWERTE)
 
 AKTIVA — zu Liquidationswerten
-  Immaterielle VG (Marktwert): EUR [___]
-  Sachanlagevermögen (Verwertungswert): EUR [___]
-  Vorräte (Verwertungswert, ggf. Abschlag): EUR [___]
-  Forderungen (abzgl. Ausfallwahrscheinlichkeit): EUR [___]
-  Bankguthaben: EUR [___]
-  Sonstige Aktiva: EUR [___]
+ Immaterielle VG (Marktwert): EUR [___]
+ Sachanlagevermögen (Verwertungswert): EUR [___]
+ Vorräte (Verwertungswert, ggf. Abschlag): EUR [___]
+ Forderungen (abzgl. Ausfallwahrscheinlichkeit): EUR [___]
+ Bankguthaben: EUR [___]
+ Sonstige Aktiva: EUR [___]
 = AKTIVA GESAMT: EUR [___]
 
 PASSIVA — zu Nennwerten
-  Bankverbindlichkeiten: EUR [___]
-  Verbindlichkeiten L&L: EUR [___]
-  Steuerverbindlichkeiten: EUR [___]
-  Rückstellungen: EUR [___]
-  Sonstige Verbindlichkeiten: EUR [___]
+ Bankverbindlichkeiten: EUR [___]
+ Verbindlichkeiten L&L: EUR [___]
+ Steuerverbindlichkeiten: EUR [___]
+ Rückstellungen: EUR [___]
+ Sonstige Verbindlichkeiten: EUR [___]
 = PASSIVA GESAMT: EUR [___]
 
 SALDO: EUR [___]
-  → Positiv: Keine rechnerische Überschuldung
-  → Negativ: Rechnerische Überschuldung — weiter mit FBP
+ → Positiv: Keine rechnerische Überschuldung
+ → Negativ: Rechnerische Überschuldung — weiter mit FBP
 ```
 
 ### Schritt 2: Fortbestehensprognose erstellen
@@ -353,27 +353,27 @@ Erstellt: [Name, Funktion]
 Grundlage: [eigene Analyse / IDW S 11-Gutachten von [WP-Kanzlei fiktiv]]
 
 1. RECHNERISCHE ÜBERSCHULDUNG
-   Aktiva (Liquidationswerte): EUR [___]
-   Passiva (Nennwerte): EUR [___]
-   Saldo: EUR [___]
-   Ergebnis: [rechnerisch überschuldet JA/NEIN]
+ Aktiva (Liquidationswerte): EUR [___]
+ Passiva (Nennwerte): EUR [___]
+ Saldo: EUR [___]
+ Ergebnis: [rechnerisch überschuldet JA/NEIN]
 
 2. FORTBESTEHENSPROGNOSE — STUFE 1 (ZAHLUNGSFÄHIGKEIT)
-   Planungshorizont: [x] Monate
-   Kritischer Engpass im Planungszeitraum: [ja / nein]
-   Wenn ja: [Beschreibung, Gegenmaßnahmen]
-   Ergebnis Stufe 1: [positiv / negativ]
+ Planungshorizont: [x] Monate
+ Kritischer Engpass im Planungszeitraum: [ja / nein]
+ Wenn ja: [Beschreibung, Gegenmaßnahmen]
+ Ergebnis Stufe 1: [positiv / negativ]
 
 3. FORTBESTEHENSPROGNOSE — STUFE 2 (ERTRAGSFÄHIGKEIT)
-   EBITDA-Planung Base Case: EUR [___] p.a.
-   Ergebnis dauerhaft positiv erwartet: [ja / nein]
-   Ergebnis Stufe 2: [positiv / negativ]
+ EBITDA-Planung Base Case: EUR [___] p.a.
+ Ergebnis dauerhaft positiv erwartet: [ja / nein]
+ Ergebnis Stufe 2: [positiv / negativ]
 
 4. GESAMTERGEBNIS
-   Positive Fortbestehensprognose: [JA / NEIN]
-   Folgerung:
-   [ ] Fortführungswerte zulässig, keine Antragspflicht
-   [ ] Negative FBP — § 15a InsO-Prüfung sofort einleiten
+ Positive Fortbestehensprognose: [JA / NEIN]
+ Folgerung:
+ [ ] Fortführungswerte zulässig, keine Antragspflicht
+ [ ] Negative FBP — § 15a InsO-Prüfung sofort einleiten
 
 Unterschrift GF: ___________________
 Hinweis: Dieser Vermerk ersetzt kein Sachverständigengutachten.
@@ -531,22 +531,22 @@ Die KPI-Kaskade verbindet strategische Ziele mit operativen Frühwarnindikatoren
 ESKALATIONSSYSTEM — DREISTUFIG
 
 Stufe 1 — GRÜN (Normalbetrieb):
-  Alle KPIs innerhalb Plankorridor
-  Aktion: Routinereporting (monatlich an GF)
+ Alle KPIs innerhalb Plankorridor
+ Aktion: Routinereporting (monatlich an GF)
 
 Stufe 2 — GELB (Frühwarnung):
-  Mind. ein KPI außerhalb Plankorridor aber über Mindestschwelle
-  Aktion: Sofortanalyse innerhalb 5 Werktagen
-           Maßnahmenplan innerhalb 10 Werktagen
-           Information AR/Gesellschafter innerhalb 15 Werktagen
+ Mind. ein KPI außerhalb Plankorridor aber über Mindestschwelle
+ Aktion: Sofortanalyse innerhalb 5 Werktagen
+ Maßnahmenplan innerhalb 10 Werktagen
+ Information AR/Gesellschafter innerhalb 15 Werktagen
 
 Stufe 3 — ROT (Krisenalarm):
-  Mindestschwelle unterschritten ODER Liquiditätsreichweite < 3 Monate
-  Aktion: Sofortmaßnahmen (72 Stunden)
-           Berater einschalten (RA, StB, Restrukturierungsberater)
-           Information AR/Gesellschafter unverzüglich
-           § 102 StaRUG Warnung empfangen/versenden
-           StaRUG-Zugang prüfen
+ Mindestschwelle unterschritten ODER Liquiditätsreichweite < 3 Monate
+ Aktion: Sofortmaßnahmen (72 Stunden)
+ Berater einschalten (RA, StB, Restrukturierungsberater)
+ Information AR/Gesellschafter unverzüglich
+ § 102 StaRUG Warnung empfangen/versenden
+ StaRUG-Zugang prüfen
 ```
 
 ### Schritt 4: Reporting-Struktur festlegen
@@ -577,9 +577,9 @@ Risiko-Inventar — [Firma GmbH] — Stand: [Datum]
 
 Nr. | Risikokategorie | Risikobeschreibung | Eintrittswsk. | Schaden EUR | Risikoscore | Verantwortlich | KPI | Schwelle ROT
 ----|----------------|-------------------|--------------|------------|------------|---------------|-----|-------------
-R01 | Liquidität     | Refinanzierungsrisiko: Hausbankkredit läuft [Datum] aus | Mittel | [Betrag] | Hoch | CFO | Kredit-Restlaufzeit | < 6 Monate
-R02 | Umsatz         | Kundenkonzentration: Kunde X = [x]% Umsatz | Niedrig | [Betrag] | Mittel | CSO | Umsatzanteil Top-1-Kunde | > 25 %
-R03 | Personal       | Schlüsselpersonenrisiko: Geschäftsführer [Name] | Niedrig | [Betrag] | Mittel | GF | Nachfolgeplanung | Nicht vorhanden
+R01 | Liquidität | Refinanzierungsrisiko: Hausbankkredit läuft [Datum] aus | Mittel | [Betrag] | Hoch | CFO | Kredit-Restlaufzeit | < 6 Monate
+R02 | Umsatz | Kundenkonzentration: Kunde X = [x]% Umsatz | Niedrig | [Betrag] | Mittel | CSO | Umsatzanteil Top-1-Kunde | > 25 %
+R03 | Personal | Schlüsselpersonenrisiko: Geschäftsführer [Name] | Niedrig | [Betrag] | Mittel | GF | Nachfolgeplanung | Nicht vorhanden
 ```
 
 ### Muster: Frühwarnsystem-Beschluss der Geschäftsführung
@@ -593,7 +593,7 @@ Datum: [TT.MM.JJJJ]
 Die Geschäftsführung beschließt:
 
 1. Das vorliegende Frühwarnsystem (Systemhandbuch vom [Datum])
-   wird als verbindliche Governance-Struktur eingeführt.
+ wird als verbindliche Governance-Struktur eingeführt.
 2. Verantwortlich für Pflege und Reporting: [Name, Funktion].
 3. Die KPI-Schwellenwerte gemäß Anlage 1 gelten ab sofort.
 4. Abweichungen von Stufe 2 (Gelb) werden unverzüglich protokolliert.

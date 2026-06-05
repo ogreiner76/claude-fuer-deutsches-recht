@@ -8,7 +8,7 @@ description: "Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachwe
 ## Aufgabe
 Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

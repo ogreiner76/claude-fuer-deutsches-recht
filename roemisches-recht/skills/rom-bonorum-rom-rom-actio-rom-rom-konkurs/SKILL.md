@@ -1,13 +1,13 @@
 ---
 name: rom-bonorum-rom-rom-actio-rom-rom-konkurs
-description: "Nutze dies, wenn Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor, Rom 114 Bonorum Distractio Vermoegenseinzelverkauf, Rom 115 Actio Pauliana Glaeubigeranfechtung, Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht, Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum und 3 weitere Themen im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor, Rom 114 Bonorum Distractio Vermoegenseinzelverkauf, Rom 115 Actio Pauliana Glaeubigeranfechtung, Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht, Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor, Rom 114 Bonorum Distractio Vermoegenseinzelverkauf, Rom 115 Actio Pauliana Glaeubigeranfechtung, Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht, Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum und 3 w..."
+description: "Nutze dies bei Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor, Rom 114 Bonorum Distractio Vermoegenseinzelverkauf, Rom 115 Actio Pauliana Glaeubigeranfechtung, Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor, Rom 114 Bonorum Distractio Vermoegenseinzelverkauf, Rom 115 Actio Pauliana Glaeubigeranfechtung, Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht, Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor, Rom 114 Bonorum Distractio Vermoegenseinzelverkauf, Rom 115 Actio Pauliana Glaeubigeranfechtung, Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht, Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -223,9 +223,9 @@ Skill fuer die Beweislastfragen bei der actio Pauliana.
 ## Beweislast
 
 - Glaeubiger traegt die Beweislast fuer:
-  - eventus damni
-  - consilium fraudis des Schuldners
-  - scientia oder conscientia des Dritten (bei entgeltlich)
+ - eventus damni
+ - consilium fraudis des Schuldners
+ - scientia oder conscientia des Dritten (bei entgeltlich)
 
 ## Indizienbeweis
 
@@ -431,10 +431,10 @@ Skill fuer die roemisch-rechtliche Glaeubigerrangordnung.
 ## Bevorrechtigte Glaeubiger (privilegium personae)
 
 - Krasse Beispiele:
-  - Beerdigungskosten ("funeris causa").
-  - Ehevermoegen der Witwe (dos).
-  - Pflegevormundschaft fuer Muendelvermoegen.
-  - Steuerforderungen des Fiscus.
+ - Beerdigungskosten ("funeris causa").
+ - Ehevermoegen der Witwe (dos).
+ - Pflegevormundschaft fuer Muendelvermoegen.
+ - Steuerforderungen des Fiscus.
 
 ## Quotale Verteilung
 

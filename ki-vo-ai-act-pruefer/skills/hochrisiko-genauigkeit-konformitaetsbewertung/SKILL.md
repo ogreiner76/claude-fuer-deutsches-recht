@@ -1,13 +1,13 @@
 ---
 name: hochrisiko-genauigkeit-konformitaetsbewertung
-description: "Nutze dies, wenn Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv prüfen.; Erstelle eine Arbeitsfassung zu Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -127,7 +127,7 @@ Gepruefte Norm(en): [Art. 15 Rn. 4]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -252,7 +252,7 @@ Gepruefte Norm(en): [Art. 43 Rn. 3]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -374,7 +374,7 @@ Gepruefte Norm(en): [Art. 9 Rn. 7]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -503,7 +503,7 @@ Gepruefte Norm(en): [Art. 11 Rn. 5]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

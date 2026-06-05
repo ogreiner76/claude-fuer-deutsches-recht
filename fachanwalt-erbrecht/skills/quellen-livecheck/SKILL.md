@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Erbrecht** ein Fall noch sortie
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `berater-interessen-beweislast-darlegungslast` — Berater Interessen Beweislast Darlegungslast
 - `erb-einfuehrung-erb-erstgespraech-erb-internationales` — Erb Einfuehrung Erb Erstgespraech Erb Internationales
 - `erb-nachlassinventar-erb-pflichtteilsanspruch-erb` — Erb Nachlassinventar Erb Pflichtteilsanspruch Erb
@@ -22,7 +22,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Erbrecht** ein Fall noch sortie
 - `fachanwalt-kanzlei-livecheck` — Fachanwalt Kanzlei Livecheck
 - `krypto-wallet-erbschaftsteuer-steuerrecht` — Krypto Wallet Erbschaftsteuer Steuerrecht
 - `pflichtteil-berechnen-schriftsatzkern-substantiierung-sonderfall` — Pflichtteil Berechnen Schriftsatzkern Substantiierung Sonderfall
-- `pflichtteil-progressionsoptimierung-spezial-schnittstellen` — Pflichtteil Progressionsoptimierung Spezial Schnittstellen
+- `pflichtteil-progressionsoptimierung-spezial-schnittstellen` — Pflichtteil Progressionsoptimierung Schnittstellen
 - `pflichtteilsergaenzung-frist-fachanwalt-erbrecht` — Pflichtteilsergaenzung Frist Fachanwalt Erbrecht
 - `pflichtteilsergaenzung-testamentsvollstreckung-mediation` — Pflichtteilsergaenzung Testamentsvollstreckung Mediation
 

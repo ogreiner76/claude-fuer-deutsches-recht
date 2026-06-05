@@ -1,13 +1,13 @@
 ---
 name: amts-aktenintake-zivil-anspruchsgrundlagen
-description: "Nutze dies, wenn Spezial Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen
+# Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urteilsbauer-relationsmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Prüfen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urteilsbauer-relationsmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruch
 # Amts: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Amts: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Amts: Fristen, Form, Zuständigkeit und Rechtsweg / spezial amts fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Amts: Fristen, Form, Zuständigkeit und Rechtsweg / amts fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DOCX, ZPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -133,15 +133,15 @@ Erster, systematischer Pruefschritt nach dem Eingang einer neuen Sache — sei e
 ## 3) Aktenübersicht — Tabellen-Template
 
 ```
-| Nr. | Datum     | Stueck                          | Verfasser     | Bezugnahme | Bewertung |
+| Nr. | Datum | Stueck | Verfasser | Bezugnahme | Bewertung |
 | --- | --------- | ------------------------------- | ------------- | ---------- | --------- |
-| 1   | 01.03.2025| Klagschrift                     | RA Mueller    | -          | schluessig vorgetragen |
-| 2   | 01.03.2025| Anlagen K1-K5                   | RA Mueller    | KS S. 3-7  | Lesbar, vollstaendig |
-| 3   | 12.03.2025| EB Zustellung Klagschrift       | -             | -          | Zustellung 10.03.2025 |
-| 4   | 31.03.2025| Klageerwiderung mit Widerklage  | RA Schmidt    | KS S.2     | Substanziiert; Widerklage zulaessig |
-| 5   | 14.04.2025| Replik                          | RA Mueller    | KE S.4-6   | neue Tatsache S.3 -> Paragraf 296 ZPO pruefen |
-| 6   | 15.05.2025| Hinweisbeschluss Paragraf 139   | Gericht       | -          | Hinweis zur Substanziierung der Hoehe |
-| 7   | 14.06.2025| Schriftsatznachreichung Klaeger | RA Mueller    | HinwB      | Hinweise befolgt; Frist gewahrt |
+| 1 | 01.03.2025| Klagschrift | RA Mueller | - | schluessig vorgetragen |
+| 2 | 01.03.2025| Anlagen K1-K5 | RA Mueller | KS S. 3-7 | Lesbar, vollstaendig |
+| 3 | 12.03.2025| EB Zustellung Klagschrift | - | - | Zustellung 10.03.2025 |
+| 4 | 31.03.2025| Klageerwiderung mit Widerklage | RA Schmidt | KS S.2 | Substanziiert; Widerklage zulaessig |
+| 5 | 14.04.2025| Replik | RA Mueller | KE S.4-6 | neue Tatsache S.3 -> Paragraf 296 ZPO pruefen |
+| 6 | 15.05.2025| Hinweisbeschluss Paragraf 139 | Gericht | - | Hinweis zur Substanziierung der Hoehe |
+| 7 | 14.06.2025| Schriftsatznachreichung Klaeger | RA Mueller | HinwB | Hinweise befolgt; Frist gewahrt |
 ```
 
 ## 4) Prüfliste für gerichtliche Pflichten

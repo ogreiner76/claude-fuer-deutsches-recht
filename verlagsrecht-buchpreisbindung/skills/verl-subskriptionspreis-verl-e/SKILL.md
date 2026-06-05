@@ -1,13 +1,13 @@
 ---
 name: verl-subskriptionspreis-verl-e
-description: "Nutze dies, wenn Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte prüfen.; Erstelle eine Arbeitsfassung zu Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 012 Subskriptionspreis Einfuehrungspreis Und Aktion, Verl 013 E Book Preisbindung Und Plattformrabatte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -165,9 +165,9 @@ Die E-Book-Preisbindung ist ein Spezialbereich mit erheblichem Konfliktpotenzial
 ### Seit 2016: Gesetzliche Preisbindung
 - BuchPrG § 2 Abs. 1 Nr. 3 (Fassung seit 01.01.2016): E-Books sind ausdrücklich preisgebunden.
 - Voraussetzungen:
-  1. E-Book ist ein „Buch" im Sinne des BuchPrG (Sprachwerk als elektronische Ausgabe)
-  2. Erscheinen in Deutschland oder Import für deutschen Markt
-  3. Nicht ausgenommen nach § 6 BuchPrG
+ 1. E-Book ist ein „Buch" im Sinne des BuchPrG (Sprachwerk als elektronische Ausgabe)
+ 2. Erscheinen in Deutschland oder Import für deutschen Markt
+ 3. Nicht ausgenommen nach § 6 BuchPrG
 
 ### Geltungsbereich: Was ist ein E-Book?
 - EPUB, PDF, MOBI (Kindle), AZW: Alle Formate, die den Buchinhalt digital als Sprachwerk übermitteln.

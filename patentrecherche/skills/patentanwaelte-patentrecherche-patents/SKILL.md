@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-patentrecherche-patents
-description: "Nutze dies, wenn Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Bitte Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentanwaelte Tatbestand Beweis Und Belege, Patentrecherche Erstpruefung Und Mandatsziel, Patents Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg
+# Patentanwaelte Tatbestand Beweis Und Belege, Patentrecherche Erstpruefung Und Mandatsziel, Patents Behörden Gericht Und Registerweg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Tatbestand Beweis Und Belege, Patentrecherche Erstpruefung Und Mandatsziel, Patents Behörden Gericht Und Registerweg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecherche Erstpruefung Und Mandatsziel, Spezial Patents Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentanwaelte Tatbestand Beweis Und Belege, Patentrecherche Erstpruefung Und Mandatsziel, Patents Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Patentanwaelte Tatbestand Beweis Und Belege, Spezial Patentrecher
 # Patentanwaelte: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Patentanwaelte: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Patentanwaelte: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial patentanwaelte tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Patentanwaelte: Tatbestandsmerkmale, Beweisfragen und Beleglage / patentanwaelte tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EPO, WIPO, USPTO, PatG, Art. 54, Art. 56, FTO, CPC, IPC, INPADOC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel / spezial patentrecherche erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel / patentrecherche erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EPO, WIPO, USPTO, PatG, Art. 54, Art. 56, FTO, CPC, IPC, INPADOC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Patents: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Patents: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Patents: Behörden-, Gerichts- oder Registerweg / spezial patents behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Patents: Behörden-, Gerichts- oder Registerweg / patents behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EPO, WIPO, USPTO, PatG, Art. 54, Art. 56, FTO, CPC, IPC, INPADOC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

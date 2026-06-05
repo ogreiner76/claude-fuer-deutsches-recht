@@ -1,34 +1,34 @@
 ---
 name: interessen-verwertung-beweislast-starug
-description: "Nutze dies, wenn Spezial Schnittstellen Mehrparteien Konflikt Und Interessen, Spezial Verwertung Beweislast Und Darlegungslast, Starug Spezial Restrukturierungsplan, Insolvenzanfechtung 129 Bis 147 Verteidigungsradar, Vergleichsverhandlung Strategie im Plugin Fachanwalt Insolvenz Sanierungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Schnittstellen Mehrparteien Konflikt Und Interessen, Spezial Verwertung Beweislast Und Darlegungslast, Starug Spezial Restrukturierungsplan, Insolvenzanfechtung 129 Bis 147 Verteidigungsradar, Vergleichsverhandlung Strategie prüfen.; Erstelle eine Arbeitsfassung zu Spezial Schnittstellen Mehrparteien Konflikt Und Interessen, Spezial Verwertung Beweislast Und Darlegungslast, Starug Spezial Restrukturierungsplan, Insolvenzanfechtung 129 Bis 147 Verteidigungsradar, Vergleichsverhandlung Strategie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schnittstellen Mehrparteien Konflikt Und Interessen, Verwertung Beweislast Und Darlegungslast, Starug Restrukturierungsplan, Insolvenzanfechtung 129 Bis 147 Verteidigungsradar: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Schnittstellen Mehrparteien Konflikt Und Interessen, Spezial Verwertung Beweislast Und Darlegungslast, Starug Spezial Restrukturierungsplan, Insolvenzanfechtung 129 Bis 147 Verteidigungsradar, Vergleichsverhandlung Strategie
+# Schnittstellen Mehrparteien Konflikt Und Interessen, Verwertung Beweislast Und Darlegungslast, Starug Restrukturierungsplan, Insolvenzanfechtung 129 Bis 147 Verteidigungsradar, Vergleichsverhandlung Strategie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schnittstellen Mehrparteien Konflikt Und Interessen, Verwertung Beweislast Und Darlegungslast, Starug Restrukturierungsplan, Insolvenzanfechtung 129 Bis 147 Verteidigungsradar, Vergleichsverhandlung Strategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-schnittstellen-mehrparteien-konflikt-und-interessen` | Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-verwertung-beweislast-und-darlegungslast` | Verwertung: Beweislast, Darlegungslast und Substantiierung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-schnittstellen-mehrparteien-konflikt-und-interessen` | Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-verwertung-beweislast-und-darlegungslast` | Verwertung: Beweislast, Darlegungslast und Substantiierung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `starug-spezial-restrukturierungsplan` | StaRUG-Restrukturierungsplan im Detail: Planinhalt, Gruppenbildung, Cross-Class-Cram-Down nach § 26 StaRUG, gerichtliche Bestaetigung. Pruefraster fuer Plan, der nicht alle Glaeubigergruppen umfasst. Schnittstellen zu Insolvenzplan und vorinsolvenzlicher Verhandlung. |
 | `insolvenzanfechtung-129-bis-147-verteidigungsradar` | Prüft Anfechtungsansprüche und Verteidigungslinien nach §§ 129-147 InsO mit Zeitachsen, Kenntnisindizien, Bargeschäft, § 135 InsO, Rechtsfolgen und KI-gestützter Aktenauswertung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Insolvenz- und Restrukturierungsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 
 ## Arbeitsweg
 
-Für **Spezial Schnittstellen Mehrparteien Konflikt Und Interessen, Spezial Verwertung Beweislast Und Darlegungslast, Starug Spezial Restrukturierungsplan, Insolvenzanfechtung 129 Bis 147 Verteidigungsradar, Vergleichsverhandlung Strategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schnittstellen Mehrparteien Konflikt Und Interessen, Verwertung Beweislast Und Darlegungslast, Starug Restrukturierungsplan, Insolvenzanfechtung 129 Bis 147 Verteidigungsradar, Vergleichsverhandlung Strategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-schnittstellen-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
 
@@ -42,7 +42,7 @@ Für **Spezial Schnittstellen Mehrparteien Konflikt Und Interessen, Spezial Verw
 
 
 ## Spezialwissen: Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix / spezial schnittstellen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schnittstellen: Mehrparteienkonflikt und Interessenmatrix / schnittstellen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, InsO, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verwertung-beweislast-und-darlegungslast`
 
-**Fokus:** Verwertung: Beweislast, Darlegungslast und Substantiierung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Verwertung: Beweislast, Darlegungslast und Substantiierung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Verwertung: Beweislast, Darlegungslast und Substantiierung
 
@@ -92,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Verwertung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Verwertung: Beweislast, Darlegungslast und Substantiierung / spezial verwertung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verwertung: Beweislast, Darlegungslast und Substantiierung / verwertung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, InsO, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -142,7 +142,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: StaRUG: Plan-Spezial
-- **Spezialgegenstand:** StaRUG: Plan-Spezial / starug spezial restrukturierungsplan. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** StaRUG: Plan-/ starug restrukturierungsplan. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -378,9 +378,9 @@ Klassische Stolperfalle in Insolvenz- und Restrukturierungsrecht:
 ## Aktuelle Leitentscheidungen — Vergleich im Insolvenz-Kontext (Stand Mai 2026)
 
 - **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft (§ 142 Abs. 1 Hs. 2 InsO). Wichtige Praxisfolge für Vergleiche: Bei Ratenvergleichen in der Krise muss konkret nachgewiesen werden, dass die Transaktion gezielt andere Gläubiger schädigt; bloße Verlustsituation genügt nicht.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 - **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung; konkrete Erwartung dauerhafter Liquiditätsunterdeckung darzulegen.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - Vergleichsregel: Raten- oder Stundungsvergleiche in der Krise sind anfechtungsanfällig und regelmäßig kein Bargeschäft ohne unmittelbare gleichwertige neue Gegenleistung; § 142 InsO nicht mit einer starren 30-Tage-Regel anwenden (BGH IX ZR 122/23).
 
 ## Paragrafenkette Vergleich

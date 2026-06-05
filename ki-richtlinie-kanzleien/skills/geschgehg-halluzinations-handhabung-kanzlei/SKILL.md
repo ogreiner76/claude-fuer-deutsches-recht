@@ -1,13 +1,13 @@
 ---
 name: geschgehg-halluzinations-handhabung-kanzlei
-description: "Nutze dies, wenn Geschgehg Bausteine, Halluzinations Handhabung, Kanzlei Kontext Analyse im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Geschgehg Bausteine, Halluzinations Handhabung, Kanzlei Kontext Analyse prüfen.; Erstelle eine Arbeitsfassung zu Geschgehg Bausteine, Halluzinations Handhabung, Kanzlei Kontext Analyse.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geschgehg Bausteine, Halluzinations Handhabung, Kanzlei Kontext Analyse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Geschgehg Bausteine, Halluzinations Handhabung, Kanzlei Kontext Analyse
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geschgehg Bausteine, Halluzinations Handhabung, Kanzlei Kontext Analyse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -113,7 +113,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 ## Vorgehen
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Quellenprüfung als Standard-Schritt**: In den Arbeitsablauf für jeden Schriftsatz und jede Beratung als festen Schritt integrieren: Jedes KI-generierte Zitat wird vor der Verwendung in der Originalquelle nachgeschlagen.
 2. **Primärquellen nutzen**: Gerichtsentscheidungen aus offiziellen Portalen (z.B. openjur, Bundesgerichtshof-Website, ECLI-Suche), Gesetze aus dem Bundesgesetzblatt oder gesetze-im-internet.de.
@@ -191,8 +191,8 @@ Schriftsatz: [BEZEICHNUNG] — Datum: [DATUM]
 
 KI-generierte Abschnitte:
 1. [ABSCHNITT / FUNDSTELLE — KI-Behauptung: BESCHREIBUNG]
-   Verifiziert gegen: [QUELLE: juris / Beckonline / EUR-Lex / amtliche Sammlung]
-   Ergebnis: [KORREKT / FEHLERHAFT — Korrektur: BESCHREIBUNG / NICHT GEFUNDEN — GESTRICHEN]
+ Verifiziert gegen: [QUELLE: juris / Beckonline / EUR-Lex / amtliche Sammlung]
+ Ergebnis: [KORREKT / FEHLERHAFT — Korrektur: BESCHREIBUNG / NICHT GEFUNDEN — GESTRICHEN]
 
 2. [WEITERE ABSCHNITTE analog]
 

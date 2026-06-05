@@ -1,13 +1,13 @@
 ---
 name: owi-datenschutzbussgeld-owi-owi-02
-description: "Nutze dies, wenn Owi 026 Datenschutzbussgeld Beweis Ruegen, Owi 027 Datenschutzbussgeld Verjaehrung Berech, Owi 028 Datenschutzbussgeld Gerichtstermin Vor, Owi 029 Datenschutzbussgeld Rechtsbeschwerde P im Plugin Ordnungswidrigkeitenrecht konkret bearbeitet werden soll. Auslöser: Bitte Owi 026 Datenschutzbussgeld Beweis Ruegen, Owi 027 Datenschutzbussgeld Verjaehrung Berech, Owi 028 Datenschutzbussgeld Gerichtstermin Vor, Owi 029 Datenschutzbussgeld Rechtsbeschwerde P prüfen.; Erstelle eine Arbeitsfassung zu Owi 026 Datenschutzbussgeld Beweis Ruegen, Owi 027 Datenschutzbussgeld Verjaehrung Berech, Owi 028 Datenschutzbussgeld Gerichtstermin Vor, Owi 029 Datenschutzbussgeld Rechtsbeschwerde P.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Owi 026 Datenschutzbussgeld Beweis Ruegen, Owi 027 Datenschutzbussgeld Verjaehrung Berech, Owi 028 Datenschutzbussgeld Gerichtstermin Vor, Owi 029 Datenschutzbussgeld Rechtsbeschwerde P: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Owi 026 Datenschutzbussgeld Beweis Ruegen, Owi 027 Datenschutzbussgeld Verjaehrung Berech, Owi 028 Datenschutzbussgeld Gerichtstermin Vor, Owi 029 Datenschutzbussgeld Rechtsbeschwerde P
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Owi 026 Datenschutzbussgeld Beweis Ruegen, Owi 027 Datenschutzbussgeld Verjaehrung Berech, Owi 028 Datenschutzbussgeld Gerichtstermin Vor, Owi 029 Datenschutzbussgeld Rechtsbeschwerde P** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

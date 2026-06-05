@@ -1,6 +1,6 @@
 ---
 name: fokus
-description: "Nutze dies, wenn Fokus: Compliance-Dokumentation und Aktenvermerk im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Fokus: Compliance-Dokumentation und Aktenvermerk: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Fokus: Compliance-Dokumentation und Aktenvermerk

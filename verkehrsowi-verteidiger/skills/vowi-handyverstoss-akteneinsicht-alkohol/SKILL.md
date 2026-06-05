@@ -1,13 +1,13 @@
 ---
 name: vowi-handyverstoss-akteneinsicht-alkohol
-description: "Nutze dies, wenn Vowi Handyverstoss Spezial, Spezial Akteneinsicht Internationaler Bezug Und Schnittstellen, Spezial Alkohol Compliance Dokumentation Und Akte im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Vowi Handyverstoss Spezial, Spezial Akteneinsicht Internationaler Bezug Und Schnittstellen, Spezial Alkohol Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Vowi Handyverstoss Spezial, Spezial Akteneinsicht Internationaler Bezug Und Schnittstellen, Spezial Alkohol Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vowi Handyverstoss Spezial, Akteneinsicht Internationaler Bezug Und Schnittstellen, Alkohol Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Vowi Handyverstoss Spezial, Spezial Akteneinsicht Internationaler Bezug Und Schnittstellen, Spezial Alkohol Compliance Dokumentation Und Akte
+# Vowi Handyverstoss Spezial, Akteneinsicht Internationaler Bezug Und Schnittstellen, Alkohol Compliance Dokumentation Und Akte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vowi Handyverstoss Spezial, Akteneinsicht Internationaler Bezug Und Schnittstellen, Alkohol Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Vowi Handyverstoss Spezial, Spezial Akteneinsicht Internationaler Bezug Und Schnittstellen, Spezial Alkohol Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vowi Handyverstoss Spezial, Akteneinsicht Internationaler Bezug Und Schnittstellen, Alkohol Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -84,7 +84,7 @@ Dieser Skill gehoert zum Plugin `verkehrsowi-verteidiger`. Er ergaenzt die uebri
 # Akteneinsicht: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Akteneinsicht: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Akteneinsicht: Internationaler Bezug und Schnittstellen / spezial akteneinsicht internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Akteneinsicht: Internationaler Bezug und Schnittstellen / akteneinsicht internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -124,14 +124,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **OLG-Linien zu Rohdaten:** zunehmend Anerkennung des Anspruchs (insb. Saarland VerfGH, OLG Frankfurt); bei Verweigerung Verfassungsbeschwerde / RB §§ 79, 80 OWiG.
 - **Inhalte Akte umfassend:** Messprotokoll, Messfoto, Lebensakte Geraet, Eichschein, Bedienerschein, Schulungsnachweis, Rohdaten (.case / .esa / .traf), Statistikdatei, Bedienungsanleitung des Geraets in geltender Fassung.
 - **Verweigerungsstrategie der Behoerde** typisch: "Rohdaten gehoeren nicht zur Akte"; "Herstellergeheimnis"; "Nicht in Behoerdenbesitz". **Gegenargumente:**
-  - § 49 OWiG i.V.m. § 147 StPO umfassend.
-  - BVerfG fair-trial: alles, was Verteidigung betrifft.
-  - Hersteller-Geheimnis steht Strafverteidigung nicht entgegen.
-  - Behoerde muss Rohdaten beim Hersteller / Polizei beschaffen.
+ - § 49 OWiG i.V.m. § 147 StPO umfassend.
+ - BVerfG fair-trial: alles, was Verteidigung betrifft.
+ - Hersteller-Geheimnis steht Strafverteidigung nicht entgegen.
+ - Behoerde muss Rohdaten beim Hersteller / Polizei beschaffen.
 - **Internationale Konstellationen:**
-  - **EU-Verkehrsverstoss** im Inland: deutsches Recht; Vollstreckung im Heimatstaat nach RB 2005/214/JI ueber gegenseitige Anerkennung Geldsanktionen (Rahmenbeschluss; in DE umgesetzt §§ 84 ff. OWiG-Vollstreckung).
-  - **Ausland-Verkehrsverstoss** durch deutschen Halter: anderes Land massgeblich; Vollstreckung gegen Halter in Deutschland nur ueber Rahmenbeschluss / Abkommen.
-  - **Akteneinsicht im Ausland**: nationales Recht; ggf. ueber EuRhilfe-Verordnung 2017/1939 oder Europaeische Ermittlungsanordnung RL 2014/41/EU.
+ - **EU-Verkehrsverstoss** im Inland: deutsches Recht; Vollstreckung im Heimatstaat nach RB 2005/214/JI ueber gegenseitige Anerkennung Geldsanktionen (Rahmenbeschluss; in DE umgesetzt §§ 84 ff. OWiG-Vollstreckung).
+ - **Ausland-Verkehrsverstoss** durch deutschen Halter: anderes Land massgeblich; Vollstreckung gegen Halter in Deutschland nur ueber Rahmenbeschluss / Abkommen.
+ - **Akteneinsicht im Ausland**: nationales Recht; ggf. ueber EuRhilfe-Verordnung 2017/1939 oder Europaeische Ermittlungsanordnung RL 2014/41/EU.
 - **Praxis-Tipp:** Akteneinsicht sofort schriftlich beantragen; bei Verweigerung Antrag auf gerichtliche Entscheidung; bei Hauptverhandlung Beweisantrag § 244 StPO i.V.m. § 71 OWiG auf Vorlage Rohdaten / Bedienungsanleitung; bei Verweigerung Vorlagebeschluss anregen.
 
 ## Qualitätsanker: Messdaten, Messakte und faires Verfahren
@@ -148,7 +148,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Alkohol: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Alkohol: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Alkohol: Compliance-Dokumentation und Aktenvermerk / spezial alkohol compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Alkohol: Compliance-Dokumentation und Aktenvermerk / alkohol compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, BAK, AAK, BußgKatV, EUR.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

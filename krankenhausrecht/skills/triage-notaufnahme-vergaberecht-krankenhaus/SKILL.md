@@ -1,13 +1,13 @@
 ---
 name: triage-notaufnahme-vergaberecht-krankenhaus
-description: "Nutze dies, wenn Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform prüfen.; Erstelle eine Arbeitsfassung zu Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,7 +55,7 @@ Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Tria
 - **Notaufnahmevergaben G-BA** Stufenkonzept und Strukturmerkmale.
 - **MD-Strukturpruefung** und MBO-Aerzte.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Triagesystem dokumentieren:** Welches System, wer triagiert (Notfallpflege, Aerztlich), Schulungsnachweis.
 2. **Dokumentation jeder Triage:** Eingangstrias mit Datum/Uhrzeit, Kategorie, Vitalparameter, Begruendung.
 3. **Re-Triage:** Bei Verzoegerung erneute Bewertung; Verlauf dokumentieren.
@@ -184,7 +184,7 @@ Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendig
 - **BMG-/InEK-Hinweise** zur LG-Casemix-Berechnung und Vorhalteanteil-Bestimmung.
 - **PrEV/Pflegebudget** bleibt separat.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **LG-Zuweisung dokumentieren:** Welche LG hat die Klinik? Welche Mengen sind erbracht?
 2. **Vorhalteanteil je LG berechnen:** Bundesweit normierter Anteil x Casemix-Volumen der Klinik.
 3. **Konvergenzpfad anwenden:** 2025: 0 %, 2026: 20 % (Schaetzung, abhaengig von KHVVG-Konkretisierungen), 2027: 60 %.

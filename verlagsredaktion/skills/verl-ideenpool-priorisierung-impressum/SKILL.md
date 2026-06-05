@@ -1,13 +1,13 @@
 ---
 name: verl-ideenpool-priorisierung-impressum
-description: "Nutze dies, wenn Verl Ideenpool Und Priorisierung, Verl Impressum Pflicht Und Prüfung, Verl Interview Roh Zu Magazinbeitrag, Verl Jourfix Vorbereiten Protokoll, Verl Konferenzmitschnitt Zu Tagungsbericht im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Verl Ideenpool Und Priorisierung, Verl Impressum Pflicht Und Prüfung, Verl Interview Roh Zu Magazinbeitrag, Verl Jourfix Vorbereiten Protokoll, Verl Konferenzmitschnitt Zu Tagungsbericht prüfen.; Erstelle eine Arbeitsfassung zu Verl Ideenpool Und Priorisierung, Verl Impressum Pflicht Und Prüfung, Verl Interview Roh Zu Magazinbeitrag, Verl Jourfix Vorbereiten Protokoll, Verl Konferenzmitschnitt Zu Tagungsbericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl Ideenpool Und Priorisierung, Verl Impressum Pflicht Und Prüfung, Verl Interview Roh Zu Magazinbeitrag, Verl Jourfix Vorbereiten Protokoll: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Ideenpool Und Priorisierung, Verl Impressum Pflicht Und Prüfung, Verl Interview Roh Zu Magazinbeitrag, Verl Jourfix Vorbereiten Protokoll, Verl Konferenzmitschnitt Zu Tagungsbericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Ideenpool Und Priorisierung, Verl Impressum Pflicht Und Prüfung, Verl Interview Roh Zu Magazinbeitrag, Verl Jourfix Vorbereiten Protokoll, Verl Konferenzmitschnitt Zu Tagungsbericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -93,13 +93,13 @@ ID | Titel | Beschreibung | Rechtsgebiet | Quelle | Status | Prioritaet (1-5) | 
 **Status-Definition (intern):**
 
 ```
-Roh:              Idee notiert, noch nicht geprueft
-Geprueft:         Quellenlage und Autorenfrage angerissen
+Roh: Idee notiert, noch nicht geprueft
+Geprueft: Quellenlage und Autorenfrage angerissen
 Entscheidungsreif: Vorschlagspaket Heft/Autor/Frist liegt vor
-Beauftragt:       Autorin hat zugesagt, Vertrag eingegangen
-In Produktion:    Manuskript im Lektorat
-Erschienen:       gedruckt, Datum festgehalten
-Abgelehnt:        Begruendung in Spalte "Notizen"
+Beauftragt: Autorin hat zugesagt, Vertrag eingegangen
+In Produktion: Manuskript im Lektorat
+Erschienen: gedruckt, Datum festgehalten
+Abgelehnt: Begruendung in Spalte "Notizen"
 ```
 
 ## Typische Fehler / Pitfalls
@@ -159,20 +159,20 @@ Jedes Verlagsprodukt mit eigener oeffentlicher Wirkung braucht ein Impressum: Pr
 1. **Produkttyp einordnen.** Print (LandesPresseG), Online-Geschaeftsmaessig (DDG § 5), Online-Journalistisch (DDG § 5 + MStV § 18), Newsletter (DDG § 5 + HGB), Social-Profil (DDG § 5).
 2. **V. i. S. d. P. festlegen** fuer journalistisch-redaktionelle Inhalte; eine natuerliche Person mit ladungsfaehiger Anschrift.
 3. **Pflichtangaben sammeln.**
-   - Firma und Anschrift (kein Postfach).
-   - Vertretungsberechtigte.
-   - Telefon und E-Mail.
-   - Handelsregister mit Registergericht und Nummer.
-   - USt-ID nach UStG § 27a.
-   - Aufsichtsbehoerde (wenn anwendbar).
-   - Berufsbezeichnung, Kammer, Berufsrecht (wenn anwendbar).
+ - Firma und Anschrift (kein Postfach).
+ - Vertretungsberechtigte.
+ - Telefon und E-Mail.
+ - Handelsregister mit Registergericht und Nummer.
+ - USt-ID nach UStG § 27a.
+ - Aufsichtsbehoerde (wenn anwendbar).
+ - Berufsbezeichnung, Kammer, Berufsrecht (wenn anwendbar).
 4. **V. i. S. d. P. eintragen** in journalistischen Telemedien.
 5. **Plattformspezifika.**
-   - Print-Heft: Impressum auf Seite 2 oder Innentitel.
-   - Buch: Impressum mit ISBN, Verlagsanschrift, Druckerei.
-   - Online: ueber alle Seiten erreichbar (Footer).
-   - Newsletter: Footer jeder Ausgabe.
-   - Social Media: Bio-Link oder eigenes Impressums-Tab.
+ - Print-Heft: Impressum auf Seite 2 oder Innentitel.
+ - Buch: Impressum mit ISBN, Verlagsanschrift, Druckerei.
+ - Online: ueber alle Seiten erreichbar (Footer).
+ - Newsletter: Footer jeder Ausgabe.
+ - Social Media: Bio-Link oder eigenes Impressums-Tab.
 6. **Datenschutzerklaerung** separat halten; nicht im Impressum aufgehen lassen.
 7. **Regelmaessige Pruefung** halbjaehrlich (Vertretungswechsel, Anschrift, USt-ID).
 
@@ -479,10 +479,10 @@ Pre-Read: Statusliste vom 11.06.2026
 
 Beschluesse:
 1. Weber Festschrift: Klaerungsanruf heute. Falls Manuskript nicht bis 19.06.,
-   Vertragsrueckabwicklung pruefen. Owner: Schmidt. Frist: 19.06.2026.
+ Vertragsrueckabwicklung pruefen. Owner: Schmidt. Frist: 19.06.2026.
 2. Schmidt AGB: Mandantenfreigabe einholen. Owner: Lekt. Frist: 19.06.2026.
 3. Standardanschreiben Lieferverzug aktualisieren (siehe Anlage).
-   Owner: Mueller. Frist: 26.06.2026.
+ Owner: Mueller. Frist: 26.06.2026.
 
 Naechster Jourfix: 19.06.2026, 10:00.
 ```
@@ -572,9 +572,9 @@ Sie brauchen ihn, wenn ein vollstaendiger Tagungsmitschnitt oder mehrere Einzelv
 ```
 Einleitung (Tagungsmetadaten, 800-1.500 Z)
 Vortragsblock I
-  Titel, Vortragende, Funktion
-  Hauptthesen
-  Tragende Quellen
+ Titel, Vortragende, Funktion
+ Hauptthesen
+ Tragende Quellen
 Vortragsblock II ...
 Diskussion (1.500-3.000 Z)
 Fazit (500-1.000 Z)

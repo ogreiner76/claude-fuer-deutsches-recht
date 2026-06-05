@@ -1,13 +1,13 @@
 ---
 name: vaf-template-vaf-template-vaf-track
-description: "Nutze dies, wenn Vaf Template Erkennung, Vaf Template Format Und Source, Vaf Track Changes Nur Nach Frage im Plugin Vertragsausfueller konkret bearbeitet werden soll. Auslöser: Bitte Vaf Template Erkennung, Vaf Template Format Und Source, Vaf Track Changes Nur Nach Frage prüfen.; Erstelle eine Arbeitsfassung zu Vaf Template Erkennung, Vaf Template Format Und Source, Vaf Track Changes Nur Nach Frage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vaf Template Erkennung, Vaf Template Format Und Source, Vaf Track Changes Nur Nach Frage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vaf Template Erkennung, Vaf Template Format Und Source, Vaf Track Changes Nur Nach Frage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vaf Template Erkennung, Vaf Template Format Und Source, Vaf Track Changes Nur Nach Frage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

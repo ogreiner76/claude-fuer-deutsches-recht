@@ -1,13 +1,13 @@
 ---
 name: wasser-bodenschutz-uwr-altlasten-uwr-bimschg
-description: "Nutze dies, wenn Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umweltrecht Wasser Bodenschutz, Uwr Altlasten Prüfung Spezial, Uwr Bimschg Genehmigung Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -64,7 +64,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### A) Wasserrecht: Einleitungs-/Entnahme-Erlaubnis
 
@@ -88,13 +88,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Kontamination festgestellt?
-  JA → Wer hat verursacht?
-         Bekannter Verursacher/Rechtsnachfolger → § 4 Abs. 3 BBodSchG-Haftung
-         Nur Eigentuemer bekannt → Eigentuemer-Haftung § 4 Abs. 3; Verhaeltnismaessigkeit pruefen
-         Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  → Sanierungsanordnung § 10 BBodSchG:
-       Unverhältnismaessig? (Kosten > Grundstueckswert) → Anfechtung
-       Gesamtschuldner? → Erstattungsklage § 24 BBodSchG
+ JA → Wer hat verursacht?
+ Bekannter Verursacher/Rechtsnachfolger → § 4 Abs. 3 BBodSchG-Haftung
+ Nur Eigentuemer bekannt → Eigentuemer-Haftung § 4 Abs. 3; Verhaeltnismaessigkeit pruefen
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → Sanierungsanordnung § 10 BBodSchG:
+ Unverhältnismaessig? (Kosten > Grundstueckswert) → Anfechtung
+ Gesamtschuldner? → Erstattungsklage § 24 BBodSchG
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)

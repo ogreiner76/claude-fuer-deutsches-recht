@@ -1,13 +1,13 @@
 ---
 name: bereicherung-bereicherungsausgleich
-description: "Nutze dies, wenn Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing im Plugin Bereicherungs Und Anfechtungsrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing prüfen.; Erstelle eine Arbeitsfassung zu Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -156,10 +156,10 @@ Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff r�
 ## Kettenkonstellationen — typische Fälle
 
 - **Anweisung (Zahlung A → B → C):**
-  - A weist B an, an C zu zahlen — Zahlung an C ist gleichzeitig Leistung des A (Deckungsverhältnis A↔B) und des B (Valutaverhältnis B↔C).
-  - Mangel im **Deckungsverhältnis** (A↔B): Kondiktion **B gegen A** (B kondiziert seinen eigenen Leistungsweg).
-  - Mangel im **Valutaverhältnis** (B↔C): Kondiktion **C gegen B** (Valutaverhältnis ist fehlerhaft).
-  - **Doppelmangel** (beide Verhältnisse fehlerhaft): trotzdem keine Direktkondiktion A↔C; jeder kondiziert in seiner eigenen Beziehung.
+ - A weist B an, an C zu zahlen — Zahlung an C ist gleichzeitig Leistung des A (Deckungsverhältnis A↔B) und des B (Valutaverhältnis B↔C).
+ - Mangel im **Deckungsverhältnis** (A↔B): Kondiktion **B gegen A** (B kondiziert seinen eigenen Leistungsweg).
+ - Mangel im **Valutaverhältnis** (B↔C): Kondiktion **C gegen B** (Valutaverhältnis ist fehlerhaft).
+ - **Doppelmangel** (beide Verhältnisse fehlerhaft): trotzdem keine Direktkondiktion A↔C; jeder kondiziert in seiner eigenen Beziehung.
 - **Zessionsfall:** Zedent → Zessionar; Schuldner zahlt an Zessionar bei nichtiger Zession → Zedent kondiziert vom Zessionar (siehe `abgetretene-forderung-und-zession`).
 - **Drittleistung § 267 BGB:** Dritter zahlt fremde Schuld — bei nichtiger Schuld kondiziert Dritter vom Empfänger; bei fehlender Tilgungsbestimmung andere Wertung.
 
@@ -167,14 +167,14 @@ Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff r�
 
 - BGH-Linie zum Bereicherungsausgleich in Mehrpersonenverhältnissen: jeder kondiziert in der Beziehung, in der der Rechtsgrund fehlt — Schutz vor doppeltem Insolvenzrisiko und Wahrung der vertraglichen Einreden.
 - Direktkondiktion (Durchgriff A → C) nur ausnahmsweise — bei:
-  - § 822 BGB (Bereicherung eines Dritten, unentgeltliche Weitergabe).
-  - Sittenwidrigkeit, Treuhand, vergleichbaren Konstellationen.
+ - § 822 BGB (Bereicherung eines Dritten, unentgeltliche Weitergabe).
+ - Sittenwidrigkeit, Treuhand, vergleichbaren Konstellationen.
 
 ## Insolvenzschutz-Funktion
 
 - Wickung in der fehlerhaften Beziehung schützt vor Verlagerung des Insolvenzrisikos:
-  - A muss B in Anspruch nehmen — Insolvenzrisiko B trägt A.
-  - A kann nicht auf C zugreifen — Insolvenzrisiko C trägt B.
+ - A muss B in Anspruch nehmen — Insolvenzrisiko B trägt A.
+ - A kann nicht auf C zugreifen — Insolvenzrisiko C trägt B.
 - **Ausnahme:** Bei unentgeltlicher Weitergabe (§ 822 BGB) Direktkondiktion A → C möglich.
 
 ## Empfängerhorizont § 133, 157 BGB
@@ -259,15 +259,15 @@ Nutze diesen Skill, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen 
 ## Beweislastverteilung im Bereicherungsrecht
 
 - **Kläger trägt Beweislast für:**
-  - Bereicherung des Beklagten (Vermögensvorteil).
-  - Eigene Leistung an Beklagten oder Eingriff in eigenen Zuweisungsgehalt.
-  - Fehlen des Rechtsgrunds (anspruchsbegründende Tatsache).
+ - Bereicherung des Beklagten (Vermögensvorteil).
+ - Eigene Leistung an Beklagten oder Eingriff in eigenen Zuweisungsgehalt.
+ - Fehlen des Rechtsgrunds (anspruchsbegründende Tatsache).
 - **Beklagter trägt Beweislast für:**
-  - Bestehen eines Rechtsgrunds (rechtsvernichtende Einwendung) — h.M. dreht insoweit die Beweislast.
-  - § 814 BGB Kenntnis der Nichtschuld.
-  - § 817 S. 2 BGB Gesetzes-/Sittenverstoß auf Seiten des Leistenden.
-  - § 818 Abs. 3 BGB Entreicherung mit konkretem Vermögensweg (substantiiert).
-  - § 818 Abs. 4 i.V.m. § 819 BGB Wegfall der Entreicherungseinrede bei Bösgläubigkeit.
+ - Bestehen eines Rechtsgrunds (rechtsvernichtende Einwendung) — h.M. dreht insoweit die Beweislast.
+ - § 814 BGB Kenntnis der Nichtschuld.
+ - § 817 S. 2 BGB Gesetzes-/Sittenverstoß auf Seiten des Leistenden.
+ - § 818 Abs. 3 BGB Entreicherung mit konkretem Vermögensweg (substantiiert).
+ - § 818 Abs. 4 i.V.m. § 819 BGB Wegfall der Entreicherungseinrede bei Bösgläubigkeit.
 
 ## Substantiierungspflicht § 138 ZPO
 

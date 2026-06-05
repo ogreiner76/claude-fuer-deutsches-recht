@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-change-control-klauseln
-description: "Rechtsabteilungs-Spezialskill für Change-Control-Klauseln im Konzernvertrag: Einseitige Leistungs- und Prozessänderungen werden in komplexen Konzern-Frameworks auf Zumutbarkeit und Governance geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für Change-Control-Klauseln im Konzernvertrag: Einseitige Leistungs- und Prozessänderungen werden in komplexen Konzern-Frameworks auf Zumutbarkeit und Governance geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
 ---
 
 # Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag

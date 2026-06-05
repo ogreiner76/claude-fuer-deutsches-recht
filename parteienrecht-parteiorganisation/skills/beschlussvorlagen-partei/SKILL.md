@@ -8,7 +8,7 @@ description: "Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftso
 ## Aufgabe
 Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,13 +1,13 @@
 ---
 name: honorarvereinbarung-paragraph-honorarzone
-description: "Nutze dies, wenn Hoai Honorarvereinbarung Paragraph 7 Hoai, Hoai Honorarzone Bewertungspunkte Objektliste, Hoai Ingenieur Perspektive, Hoai Kanzlei Mandatsintake Hoai, Hoai Kostenrahmen Kostenschaetzung Kostenberechnung im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Honorarvereinbarung Paragraph 7 Hoai, Hoai Honorarzone Bewertungspunkte Objektliste, Hoai Ingenieur Perspektive, Hoai Kanzlei Mandatsintake Hoai, Hoai Kostenrahmen Kostenschaetzung Kostenberechnung prüfen.; Erstelle eine Arbeitsfassung zu Hoai Honorarvereinbarung Paragraph 7 Hoai, Hoai Honorarzone Bewertungspunkte Objektliste, Hoai Ingenieur Perspektive, Hoai Kanzlei Mandatsintake Hoai, Hoai Kostenrahmen Kostenschaetzung Kostenberechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Honorarvereinbarung Paragraph 7 Hoai, Hoai Honorarzone Bewertungspunkte Objektliste, Hoai Ingenieur Perspektive, Hoai Kanzlei Mandatsintake Hoai: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Honorarvereinbarung Paragraph 7 Hoai, Hoai Honorarzone Bewertungspunkte Objektliste, Hoai Ingenieur Perspektive, Hoai Kanzlei Mandatsintake Hoai, Hoai Kostenrahmen Kostenschaetzung Kostenberechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Honorarvereinbarung Paragraph 7 Hoai, Hoai Honorarzone Bewertungspunkte Objektliste, Hoai Ingenieur Perspektive, Hoai Kanzlei Mandatsintake Hoai, Hoai Kostenrahmen Kostenschaetzung Kostenberechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Hoai Honorarvereinbarung Paragraph 7 Hoai, Hoai Honorarzone Bewertungspun
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **prüft Honorarvereinbarung, Textform, Verbraucherhinweis und Orientierungswerte** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **prüft Honorarvereinbarung, Textform, Verbraucherhinweis und Orientierungswerte** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -91,7 +91,7 @@ Erstelle eine Honorarzonen-Notiz mit Punktetabelle, Belegen, abweichenden Einord
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **ordnet TGA/Tragwerk/Ingenieurbau-Schnittstellen** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **ordnet TGA/Tragwerk/Ingenieurbau-Schnittstellen** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -121,7 +121,7 @@ Dieser Querschnitts-Skill bearbeitet **ordnet TGA/Tragwerk/Ingenieurbau-Schnitts
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **fragt anwaltlich alle Unterlagen für HOAI-/Bauprojektmandat ab** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **fragt anwaltlich alle Unterlagen für HOAI-/Bauprojektmandat ab** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -151,7 +151,7 @@ Dieser Querschnitts-Skill bearbeitet **fragt anwaltlich alle Unterlagen für HOA
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **vergleicht Kostenermittlungsstufen und Warnpflichten** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **vergleicht Kostenermittlungsstufen und Warnpflichten** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 

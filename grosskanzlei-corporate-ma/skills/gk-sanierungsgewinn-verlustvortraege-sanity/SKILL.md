@@ -43,7 +43,7 @@ Nicht dieser Skill ist primär, wenn lediglich eine Standard-Tax-DD ohne Sanieru
 - **§ 10d EStG** – Verlustvortrag mit Mindestbesteuerung; ab 1 Mio. EUR nur noch 60 % verrechenbar.
 - **§ 4h EStG** – Zinsschranke; Zinsvortrag.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Verlustvortrag-Inventur.** Steuerbescheide der letzten fünf Veranlagungszeiträume sichten, einschließlich Feststellungsbescheide nach § 10d EStG und nach § 10a GewStG. Achtung auf vorläufige Veranlagungen.
 2. **Vortragsmappe vervollständigen.** Zinsvortrag § 4h EStG, EBITDA-Vortrag, ggf. verbleibende Steuerguthaben aus Organschaft. Zinsvortrag und EBITDA-Vortrag werden in der Praxis häufig vergessen.
@@ -94,10 +94,10 @@ Erfahrene Tax-Partner schauen im Distressed-DD zuerst auf drei Zahlen: kumuliert
 - Plugin `steuerrecht-anwalt-und-berater`: Skill zu § 8c und § 8d KStG; Skill zu § 89 AO.
 - Plugin `insolvenzrecht`: Wirkung des Insolvenzplans auf Verlustvorträge.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-due-diligence-legal`
-  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
-  - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
-  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+ - `grosskanzlei-corporate-ma-due-diligence-legal`
+ - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
+ - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
+ - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
 
 ## Quellen Stand 06/2026
 

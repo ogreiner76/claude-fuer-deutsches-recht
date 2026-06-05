@@ -1,13 +1,13 @@
 ---
 name: beweismittel-vorab-dokumenten-erzeugung
-description: "Nutze dies, wenn Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -131,12 +131,12 @@ Eigene Aussage ist im Zivilprozess **kein** vollwertiges Beweismittel. Sie wirkt
 Erstellen Sie eine Tabelle:
 
 ```
-Tatsache                  Beweismittel
-1. Vertrag geschlossen    Anlage K1 (Email-Verkehr)
-2. Lieferung erfolgt      Anlage K2 (Lieferschein), Zeuge X
-3. Rechnung gesandt       Anlage K3 (Rechnung)
-4. Mahnung versandt       Anlage K4 (Mahnung + Einschreiben-Beleg)
-5. Keine Zahlung          Anlage K5 (Kontoauszug)
+Tatsache Beweismittel
+1. Vertrag geschlossen Anlage K1 (Email-Verkehr)
+2. Lieferung erfolgt Anlage K2 (Lieferschein), Zeuge X
+3. Rechnung gesandt Anlage K3 (Rechnung)
+4. Mahnung versandt Anlage K4 (Mahnung + Einschreiben-Beleg)
+5. Keine Zahlung Anlage K5 (Kontoauszug)
 ```
 
 Diese Tabelle ist die Grundlage Ihrer Klage. Skill `klageschrift-beweisangebote-einbauen-373-zpo`.

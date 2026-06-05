@@ -1,13 +1,13 @@
 ---
 name: vergleichsverhandlung-strategie-werkmangel
-description: "Nutze dies, wenn Vergleichsverhandlung Strategie, Werkmangel Vob Bgb Prüfen im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Vergleichsverhandlung Strategie, Werkmangel Vob Bgb Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Vergleichsverhandlung Strategie, Werkmangel Vob Bgb Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vergleichsverhandlung Strategie, Werkmangel Vob Bgb Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vergleichsverhandlung Strategie, Werkmangel Vob Bgb Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vergleichsverhandlung Strategie, Werkmangel Vob Bgb Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -288,7 +288,7 @@ Weitere konkrete Entscheidungen (insb. VII ZR 26/20 zum Vorschussanspruch ohne s
 
 ## Prüfschema — Stufenweise Anspruchsprüfung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
@@ -496,18 +496,18 @@ Sehr geehrte Damen und Herren,
 bei der Bauleistung [Gewerk] wurden folgende Mängel festgestellt:
 
 1. [Mangelbeschreibung] — Lokalisation: [Bauteil/Raum]
-   Symptom: [Beschreibung Erscheinungsbild]
-   Verstoß gegen: [DIN/ETB/vereinbarte Beschaffenheit]
+ Symptom: [Beschreibung Erscheinungsbild]
+ Verstoß gegen: [DIN/ETB/vereinbarte Beschaffenheit]
 
 2. [Mangelbeschreibung] — Lokalisation: [Bauteil/Raum]
-   [...]
+ [...]
 
 Wir fordern Sie auf, die vorgenannten Mängel bis zum [Datum]
 (Frist: 3 Wochen) vollständig zu beseitigen.
 
 Nach fruchtlosem Fristablauf werden wir ohne weitere Ankündigung
 — Selbstvornahme nach § 637 BGB vornehmen und Vorschuss
-  in Höhe von EUR [geschätzter Betrag] netto geltend machen,
+ in Höhe von EUR [geschätzter Betrag] netto geltend machen,
 — Minderung der Vergütung nach § 638 BGB erklären,
 — Schadensersatz nach §§ 280, 281 BGB geltend machen.
 

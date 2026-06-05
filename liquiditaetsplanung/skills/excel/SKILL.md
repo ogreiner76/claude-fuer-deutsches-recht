@@ -1,6 +1,6 @@
 ---
 name: excel
-description: "Nutze dies, wenn Excel: Behörden-, Gerichts- oder Registerweg im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Excel: Behörden-, Gerichts- oder Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Excel: Behörden-, Gerichts- oder Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Excel: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Excel: Behörden-, Gerichts- oder Registerweg

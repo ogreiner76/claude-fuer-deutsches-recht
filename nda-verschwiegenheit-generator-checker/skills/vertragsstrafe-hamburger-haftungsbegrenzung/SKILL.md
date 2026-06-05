@@ -1,22 +1,22 @@
 ---
 name: vertragsstrafe-hamburger-haftungsbegrenzung
-description: "Nutze dies, wenn Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen prüfen.; Erstelle eine Arbeitsfassung zu Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pauschalierter Schaden, Sanktions Und Exportkontrollinformationen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `vertragsstrafe-hamburger-brauch` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vertragsstrafe Hamburger Brauch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `haftungsbegrenzung-und-carve-outs` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Haftungsbegrenzung Und Carve Outs; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `pauschalierter-schaden` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Pauschalierter Schaden; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `sanktions-und-exportkontrollinformationen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Sanktions Und Exportkontrollinformationen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vertragsstrafe-hamburger-brauch` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vertragsstrafe Hamburger Brauch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `haftungsbegrenzung-und-carve-outs` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Haftungsbegrenzung Und Carve Outs; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `pauschalierter-schaden` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Pauschalierter Schaden; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `sanktions-und-exportkontrollinformationen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Sanktions Und Exportkontrollinformationen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Vertragsstrafe Hamburger Brauch, Haftungsbegrenzung Und Carve Outs, Pausc
 
 ## 1. `vertragsstrafe-hamburger-brauch`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vertragsstrafe Hamburger Brauch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vertragsstrafe Hamburger Brauch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vertragsstrafe Hamburger Brauch
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `haftungsbegrenzung-und-carve-outs`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Haftungsbegrenzung Und Carve Outs; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Haftungsbegrenzung Und Carve Outs; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Haftungsbegrenzung Und Carve Outs
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `pauschalierter-schaden`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Pauschalierter Schaden; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Pauschalierter Schaden; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Pauschalierter Schaden
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `sanktions-und-exportkontrollinformationen`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Sanktions Und Exportkontrollinformationen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Sanktions Und Exportkontrollinformationen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Sanktions Und Exportkontrollinformationen
 

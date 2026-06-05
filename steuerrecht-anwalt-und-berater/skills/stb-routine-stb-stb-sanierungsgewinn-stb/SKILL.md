@@ -1,13 +1,13 @@
 ---
 name: stb-routine-stb-stb-sanierungsgewinn-stb
-description: "Nutze dies, wenn Stb Routine Monatsabschluss 30 Tage Zyklus, Stb Routine Quartalsabschluss Prozess, Stb Sanierungsgewinn 3C Iv Estg Verlustreihenfolge, Stb Sanierungsgewinn 7B Gewstg Gewerbesteuer Parallel, Stb Sanierungsgewinn 10A S 1 Gewstg Gewerbeverlust und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Routine Monatsabschluss 30 Tage Zyklus, Stb Routine Quartalsabschluss Prozess, Stb Sanierungsgewinn 3C Iv Estg Verlustreihenfolge, Stb Sanierungsgewinn 7B Gewstg Gewerbesteuer Parallel, Stb Sanierungsgewinn 10A S 1 Gewstg Gewerbeverlust und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Routine Monatsabschluss 30 Tage Zyklus, Stb Routine Quartalsabschluss Prozess, Stb Sanierungsgewinn 3C Iv Estg Verlustreihenfolge, Stb Sanierungsgewinn 7B Gewstg Gewerbesteuer Parallel, Stb Sanierungsgewinn 10A S 1 Gewstg Gewerbeverlust und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Routine Monatsabschluss 30 Tage Zyklus, Stb Routine Quartalsabschluss Prozess, Stb Sanierungsgewinn 3c Iv Estg Verlustreihenfolge, Stb Sanierungsgewinn 7b Gewstg Gewerbesteuer Parallel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Routine Monatsabschluss 30 Tage Zyklus, Stb Routine Quartalsabschluss Prozess, Stb Sanierungsgewinn 3C Iv Estg Verlustreihenfolge, Stb Sanierungsgewinn 7B Gewstg Gewerbesteuer Parallel, Stb Sanierungsgewinn 10A S 1 Gewstg Gewerbeverlust und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Routine Monatsabschluss 30 Tage Zyklus, Stb Routine Quartalsabschluss Prozess, Stb Sanierungsgewinn 3C Iv Estg Verlustreihenfolge, Stb Sanierungsgewinn 7B Gewstg Gewerbesteuer Parallel, Stb Sanierungsgewinn 10A S 1 Gewstg Gewerbeverlust und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -363,7 +363,7 @@ Stand: 05/2026.
 - **§ 10a Sätze 2-3 GewStG** — Mindestbesteuerung GewSt.
 - **§ 3a Abs. 1, 4 EStG** — Steuerbefreiung Sanierungsertrag.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Verrechnungsreihenfolge nach § 3c Abs. 4 EStG
 
@@ -409,22 +409,22 @@ Stand: 05/2026.
 ### Berechnungsbeispiel mit Mindestbesteuerung
 
 ```
-Sanierungsertrag brutto                EUR 2.000.000
+Sanierungsertrag brutto EUR 2.000.000
 abzgl. zugehörige Aufwendungen
-       § 3c Abs. 1 EStG                EUR  -150.000
-Sanierungsertrag netto                 EUR 1.850.000
+ § 3c Abs. 1 EStG EUR -150.000
+Sanierungsertrag netto EUR 1.850.000
 
-Laufender Verlust Sanierungsjahr       EUR  -200.000
-Sanierungsertrag nach lauf. Verlust    EUR 1.650.000
+Laufender Verlust Sanierungsjahr EUR -200.000
+Sanierungsertrag nach lauf. Verlust EUR 1.650.000
 
-Verlustvortrag § 10d EStG verfügbar    EUR 1.300.000
+Verlustvortrag § 10d EStG verfügbar EUR 1.300.000
 Mindestbesteuerung:
-  Sockel                               EUR 1.000.000
-  + 60 % von (1.650.000 - 1.000.000)   EUR   390.000
-  = maximal nutzbarer Vortrag          EUR 1.390.000
-  begrenzt durch Vortrag               EUR 1.300.000
+ Sockel EUR 1.000.000
+ + 60 % von (1.650.000 - 1.000.000) EUR 390.000
+ = maximal nutzbarer Vortrag EUR 1.390.000
+ begrenzt durch Vortrag EUR 1.300.000
 
-Sanierungsertrag nach Vortrag          EUR   350.000
+Sanierungsertrag nach Vortrag EUR 350.000
 ► steuerfrei § 3a Abs. 1 EStG bei Antrag § 3a Abs. 4 EStG
 ► Verlustvortrag voll verbraucht (EUR 1.300.000 weg)
 ► laufender Verlust (EUR 200.000) verbraucht
@@ -437,7 +437,7 @@ Wenn KEIN Antrag § 3a Abs. 4 EStG gestellt:
 ► § 3a EStG nicht anwendbar
 ► aber § 3c Abs. 4 EStG bleibt Spezialregel?
 ► Lex: ohne Antrag tritt § 3a-Steuerbefreiung nicht ein;
-       Sanierungsertrag voll steuerpflichtig
+ Sanierungsertrag voll steuerpflichtig
 ► Mindestbesteuerung § 10d Abs. 2 EStG greift wie üblich
 ► Verlustverbrauch wie sonst auch
 ```
@@ -445,18 +445,18 @@ Wenn KEIN Antrag § 3a Abs. 4 EStG gestellt:
 ### Berechnungsbeispiel Verlustrücktrag
 
 ```
-Sanierungsjahr Wj X mit Sanierungsertrag        EUR 800.000
-Verlustrücktrag aus Wj X+1 möglich              EUR 200.000
-  (Verlust in X+1 entstanden; § 10d Abs. 1 EStG-Wahlrecht)
+Sanierungsjahr Wj X mit Sanierungsertrag EUR 800.000
+Verlustrücktrag aus Wj X+1 möglich EUR 200.000
+ (Verlust in X+1 entstanden; § 10d Abs. 1 EStG-Wahlrecht)
 
 Reihenfolge § 3c Abs. 4 EStG:
 1. Laufender Verlust Wj X (sofern vorhanden)
 2. Verlustrücktrag Wj X+1 nach Wj X (Wahlrecht ausgeübt)
 3. Verlustvortrag § 10d Abs. 2 EStG
 
-Verbleibender Sanierungsertrag nach Rücktrag    EUR 600.000
-abzgl. Verlustvortrag § 10d Abs. 2 EStG          EUR 600.000
-Restbetrag                                       EUR        0
+Verbleibender Sanierungsertrag nach Rücktrag EUR 600.000
+abzgl. Verlustvortrag § 10d Abs. 2 EStG EUR 600.000
+Restbetrag EUR 0
 
 ► Sanierungsertrag voll verrechnet
 ► Antrag § 3a IV EStG möglicherweise entbehrlich
@@ -468,13 +468,13 @@ Restbetrag                                       EUR        0
 ```
 Anlage zur Steuererklärung Sanierungsjahr:
 - Berechnungsschema § 3c Abs. 4 EStG mit:
-  - Sanierungsertrag brutto
-  - § 3c Abs. 1 EStG-Aufwendungen
-  - Sanierungsertrag netto
-  - Verrechnung laufender Verlust
-  - Verrechnung Rücktrag (falls beantragt)
-  - Verrechnung Vortrag mit Mindestbesteuerung
-  - Steuerfrei zu stellender Restbetrag
+ - Sanierungsertrag brutto
+ - § 3c Abs. 1 EStG-Aufwendungen
+ - Sanierungsertrag netto
+ - Verrechnung laufender Verlust
+ - Verrechnung Rücktrag (falls beantragt)
+ - Verrechnung Vortrag mit Mindestbesteuerung
+ - Steuerfrei zu stellender Restbetrag
 - Vortragsrest zum Jahresende
 - Gewerbeverlust separat (analog § 10a S. 1 GewStG)
 ```
@@ -541,7 +541,7 @@ Anlage zur Steuererklärung Sanierungsjahr:
 - **§ 7 GewStG** — Gewerbeertrag.
 - **§ 16 GewStG** — Steuermesszahl und Hebesatz.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt | Output |
 |---|---|---|
@@ -584,7 +584,7 @@ Anlage zur Gewerbesteuererklärung [Erhebungszeitraum]
 der [Firma]
 
 Betreff: Antrag nach § 7b Abs. 3 GewStG — Befreiung des
-         Sanierungsertrags von der Gewerbesteuer
+ Sanierungsertrags von der Gewerbesteuer
 
 Sehr geehrte Damen und Herren,
 
@@ -601,16 +601,16 @@ der Gläubiger, Krisendokumentation).
 
 Berechnung Gewerbeertrag:
 
-Gewerbeertrag vor Sanierungswirkung           EUR [G]
-+ Sanierungsertrag                            EUR [S]
-Gewerbeertrag brutto                          EUR [G+S]
+Gewerbeertrag vor Sanierungswirkung EUR [G]
++ Sanierungsertrag EUR [S]
+Gewerbeertrag brutto EUR [G+S]
 
 - Gewerbeverlust § 10a S. 1 GewStG verbraucht EUR [V]
-  (Mindestbesteuerung beachtet)
+ (Mindestbesteuerung beachtet)
 
-Gewerbeertrag nach Verlustverrechnung         EUR [G+S-V]
-- Sanierungsertrag-Befreiung § 7b GewStG      EUR [S-(verrechnet)]
-zu versteuernder Gewerbeertrag                EUR [G-V_übrig]
+Gewerbeertrag nach Verlustverrechnung EUR [G+S-V]
+- Sanierungsertrag-Befreiung § 7b GewStG EUR [S-(verrechnet)]
+zu versteuernder Gewerbeertrag EUR [G-V_übrig]
 
 Mit freundlichen Grüßen
 [Berater]
@@ -641,8 +641,8 @@ Gewerbeverlust-Vortrag EUR 600.000
 Hebesatz 410 %
 
 Mindestbesteuerung:
-  Sockel 1.000.000 + 60 % (800.000 - 1.000.000) → nicht relevant,
-  da Sanierungsertrag < Sockel; voll verrechenbar
+ Sockel 1.000.000 + 60 % (800.000 - 1.000.000) → nicht relevant,
+ da Sanierungsertrag < Sockel; voll verrechenbar
 
 Verrechnung: 600.000 vom Sanierungsertrag
 verbleibender Sanierungsertrag EUR 200.000
@@ -714,7 +714,7 @@ Gewerbeverlust verbraucht
 - **§ 7b GewStG** — Sanierungsertragsbefreiung.
 - **§ 7 GewStG** — Ermittlung Gewerbeertrag.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt |
 |---|---|
@@ -748,20 +748,20 @@ Gewerbeverlust verbraucht
 ### Berechnungsbeispiel Mindestbesteuerung GewSt
 
 ```
-Gewerbeertrag vor Sanierung               EUR  -100.000
-Sanierungsertrag                          EUR 2.300.000
-Gewerbeertrag des Jahres                  EUR 2.200.000
+Gewerbeertrag vor Sanierung EUR -100.000
+Sanierungsertrag EUR 2.300.000
+Gewerbeertrag des Jahres EUR 2.200.000
 
-Gewerbeverlust-Vortrag § 10a S.1 GewStG   EUR 1.600.000
+Gewerbeverlust-Vortrag § 10a S.1 GewStG EUR 1.600.000
 
 Mindestbesteuerung:
-  Sockel                                  EUR 1.000.000
-  + 60 % (2.200.000 - 1.000.000)          EUR   720.000
-  maximal nutzbarer Vortrag               EUR 1.720.000
-  begrenzt durch Vortrag                  EUR 1.600.000
+ Sockel EUR 1.000.000
+ + 60 % (2.200.000 - 1.000.000) EUR 720.000
+ maximal nutzbarer Vortrag EUR 1.720.000
+ begrenzt durch Vortrag EUR 1.600.000
 
-Gewerbeertrag nach Verlustverrechnung     EUR   600.000
-Davon Sanierungsertrag-Anteil (max.)      EUR   600.000
+Gewerbeertrag nach Verlustverrechnung EUR 600.000
+Davon Sanierungsertrag-Anteil (max.) EUR 600.000
 ► § 7b GewStG-Antrag stellen, um diesen Anteil freizustellen
 ► Gewerbeverlust voll verbraucht
 ```
@@ -769,17 +769,17 @@ Davon Sanierungsertrag-Anteil (max.)      EUR   600.000
 ### Berechnungsbeispiel ohne Anteilseignerwechsel-Problematik
 
 ```
-Sanierungsertrag                          EUR  500.000
-Gewerbeertrag laufendes Geschäft          EUR  -100.000
-Gewerbeertrag des Jahres                  EUR  400.000
+Sanierungsertrag EUR 500.000
+Gewerbeertrag laufendes Geschäft EUR -100.000
+Gewerbeertrag des Jahres EUR 400.000
 
-Gewerbeverlust-Vortrag                    EUR  450.000
+Gewerbeverlust-Vortrag EUR 450.000
 
 Mindestbesteuerung: Sockel 1 Mio. > 400.000 ► voll nutzbar
 Verrechnung: 400.000 vom Gewerbeertrag
-verbleibender Gewerbeertrag                EUR        0
+verbleibender Gewerbeertrag EUR 0
 ► § 7b GewStG-Antrag dennoch erwägen (Bindungswirkung minimal,
-  da Ertrag bereits durch Verlust verbraucht)
+ da Ertrag bereits durch Verlust verbraucht)
 ```
 
 ### Memo-Baustein zur Identitätsprüfung § 10a S. 8 GewStG
@@ -798,7 +798,7 @@ III. Subsumtion
 - Unternehmensidentität (Branche, Betriebsstätte, ...)
 - Unternehmeridentität (juristische Person bleibt)
 - BFH-Linie zur Wesentlichkeit nicht aus Modellwissen
-  zitieren; vor Ausgabe Quelle prüfen
+ zitieren; vor Ausgabe Quelle prüfen
 
 IV. Folge
 [Wenn untergegangen: kein Verbrauch durch Sanierungsertrag möglich;
@@ -866,7 +866,7 @@ Bei grenzüberschreitenden Sachverhalten wirft die Sanierungsertragsbefreiung Fr
 - **DBA** — typischerweise Art. 5 (Betriebsstätte), Art. 7 (Unternehmensgewinne), Art. 11 (Zinsen).
 - **§ 50d Abs. 8, 9 EStG** — Subject-to-tax-Klauseln.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Schuldner ist deutsche Gesellschaft mit Auslandsbetriebsstätte
 
@@ -922,16 +922,16 @@ Bei grenzüberschreitenden Sachverhalten wirft die Sanierungsertragsbefreiung Fr
 ### Beispiel: Deutsche GmbH mit britischer Betriebsstätte
 
 ```
-Verbindlichkeit gegenüber dt. Bank   EUR 1.000.000
-Verbindlichkeit gegenüber brit. Bank EUR   500.000
+Verbindlichkeit gegenüber dt. Bank EUR 1.000.000
+Verbindlichkeit gegenüber brit. Bank EUR 500.000
 
 Verzicht beide Banken voll:
-► Gesamt-Sanierungsertrag             EUR 1.500.000
+► Gesamt-Sanierungsertrag EUR 1.500.000
 
 Zuordnung:
 ► Stammhaus DE: EUR 1.000.000 ► § 3a EStG-Antrag
 ► Betriebsstätte UK: EUR 500.000 ► DBA-Freistellung greift,
-  deutsche Steuerbefreiung nicht erforderlich
+ deutsche Steuerbefreiung nicht erforderlich
 ► UK behandelt Ertrag nach UK-Recht (separat zu prüfen)
 ```
 
@@ -1025,7 +1025,7 @@ Der Debt-Equity-Swap ist die Umwandlung einer Forderung des Gläubigers in Antei
 - **§ 17 EStG** — Anteile am Kapital von Gesellschaften.
 - **§ 8b KStG** — Beteiligungserträge.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Variante 1: Außergerichtlicher d/e-swap
 
@@ -1079,31 +1079,31 @@ Der Debt-Equity-Swap ist die Umwandlung einer Forderung des Gläubigers in Antei
 
 ```
 Ausgangslage:
-  Forderung Gläubiger A           EUR 1.500.000
-  Forderung Gläubiger B           EUR   500.000
-  Forderung Gläubiger C           EUR   300.000
-  Verlustvortrag KSt              EUR   400.000
-  Hebesatz GewSt                  410 %
+ Forderung Gläubiger A EUR 1.500.000
+ Forderung Gläubiger B EUR 500.000
+ Forderung Gläubiger C EUR 300.000
+ Verlustvortrag KSt EUR 400.000
+ Hebesatz GewSt 410 %
 
 Szenario 1: Vollständiger Forderungsverzicht
-  Sanierungsertrag                EUR 2.300.000
-  Verlustvortrag verbraucht       EUR  -400.000
-  steuerpflichtiger Ertrag ohne Antrag EUR 1.900.000
-  KSt + SolZ                      ~ EUR  300.000
-  GewSt                           ~ EUR  273.000
-  Gesamtsteuer ohne § 3a/§ 7b     ~ EUR  573.000
-  Mit Antrag § 3a/§ 7b: EUR 0
-  Aber: Bindungswirkung, Aufwand Vier-Voraussetzungen-Doku
+ Sanierungsertrag EUR 2.300.000
+ Verlustvortrag verbraucht EUR -400.000
+ steuerpflichtiger Ertrag ohne Antrag EUR 1.900.000
+ KSt + SolZ ~ EUR 300.000
+ GewSt ~ EUR 273.000
+ Gesamtsteuer ohne § 3a/§ 7b ~ EUR 573.000
+ Mit Antrag § 3a/§ 7b: EUR 0
+ Aber: Bindungswirkung, Aufwand Vier-Voraussetzungen-Doku
 
 Szenario 2: d/e-swap nur Gläubiger A, Rest Verzicht
-  Sacheinlage A (werthaltig)      EUR 1.500.000 ► Kapitalrücklage
-  Verzicht B + C                  EUR   800.000
-  Sanierungsertrag                EUR   800.000
-  Verlustvortrag verbraucht       EUR  -400.000
-  Rest steuerpflichtig ohne Antrag EUR  400.000
-  Steuerlast ohne Antrag         ~ EUR  120.000
-  Mit Antrag § 3a/§ 7b für 400.000: EUR 0 (Bindung nur kleinere Größe)
-  Verlustvortrag geschont in Höhe d/e-swap-Teil
+ Sacheinlage A (werthaltig) EUR 1.500.000 ► Kapitalrücklage
+ Verzicht B + C EUR 800.000
+ Sanierungsertrag EUR 800.000
+ Verlustvortrag verbraucht EUR -400.000
+ Rest steuerpflichtig ohne Antrag EUR 400.000
+ Steuerlast ohne Antrag ~ EUR 120.000
+ Mit Antrag § 3a/§ 7b für 400.000: EUR 0 (Bindung nur kleinere Größe)
+ Verlustvortrag geschont in Höhe d/e-swap-Teil
 
 ► d/e-swap erspart Verlustvortrag-Verbrauch
 ► reduziert Antrags-Bindungswirkung
@@ -1173,7 +1173,7 @@ nerin gem. § 364 BGB durch Konfusion.
 - **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
 - **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
 
-### Querverweis Spezial-Skill
+### Querverweis Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Liquidations-Alternative zum DES, wenn Restrukturierung scheitert.
 
@@ -1217,7 +1217,7 @@ nerin gem. § 364 BGB durch Konfusion.
 - **§ 15 EStG** — Einkünfte aus Gewerbebetrieb (Personengesellschaft).
 - **§ 17 EStG** — Anteile an Kapitalgesellschaften.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### KSt-Pfad
 
@@ -1269,27 +1269,27 @@ nerin gem. § 364 BGB durch Konfusion.
 ### Vergleich KSt vs. ESt — gleiche Sanierung
 
 ```
-Sanierungsertrag in beiden Fällen     EUR 1.500.000
+Sanierungsertrag in beiden Fällen EUR 1.500.000
 
 Variante A: GmbH (KSt-Pfad)
-  KSt-Verlustvortrag                  EUR 1.000.000
-  Mindestbesteuerung: Sockel + 60 %
-  voll nutzbar bis 1.000.000
+ KSt-Verlustvortrag EUR 1.000.000
+ Mindestbesteuerung: Sockel + 60 %
+ voll nutzbar bis 1.000.000
 
-  Sanierungsertrag - Vortrag           EUR   500.000
-  Antrag § 3a Abs. 4 EStG für 500.000 ► steuerfrei
-  KSt + SolZ ohne Antrag: ~ EUR    79.000
-  GewSt (410 % Hebesatz): ~ EUR     72.000
+ Sanierungsertrag - Vortrag EUR 500.000
+ Antrag § 3a Abs. 4 EStG für 500.000 ► steuerfrei
+ KSt + SolZ ohne Antrag: ~ EUR 79.000
+ GewSt (410 % Hebesatz): ~ EUR 72.000
 
 Variante B: Einzelunternehmer (ESt-Pfad)
-  ESt-Verlustvortrag                  EUR 1.000.000
-  Mindestbesteuerung gleich
-  Sanierungsertrag - Vortrag           EUR   500.000
+ ESt-Verlustvortrag EUR 1.000.000
+ Mindestbesteuerung gleich
+ Sanierungsertrag - Vortrag EUR 500.000
 
-  Antrag § 3a Abs. 4 EStG für 500.000 ► steuerfrei
-  ESt-Spitzensteuersatz 42 % + SolZ
-  ESt ohne Antrag: ~ EUR             220.000
-  GewSt mit Anrechnung § 35 EStG: ~ EUR  72.000 (anrechenbar)
+ Antrag § 3a Abs. 4 EStG für 500.000 ► steuerfrei
+ ESt-Spitzensteuersatz 42 % + SolZ
+ ESt ohne Antrag: ~ EUR 220.000
+ GewSt mit Anrechnung § 35 EStG: ~ EUR 72.000 (anrechenbar)
 
 ► ESt-Last ohne Antrag drastisch höher
 ► Antrag § 3a EStG bei ESt besonders wichtig
@@ -1398,7 +1398,7 @@ Dieser Skill behandelt die Konstellation systematisch.
 - **BFH, Urteil v. 30.11.2011 — I R 100/10** — § 5 Abs. 2a EStG bei qualifiziertem Rangruecktritt (Abgrenzung).
 - **OFD Frankfurt a. M.** — Verfuegung mit der Aussage, dass der blosse Liquidationsbeschluss kein konkludenter Forderungsverzicht ist (Aktualitaet vor Anwendung pruefen).
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 | Schritt | Inhalt | Output |
 |---|---|---|

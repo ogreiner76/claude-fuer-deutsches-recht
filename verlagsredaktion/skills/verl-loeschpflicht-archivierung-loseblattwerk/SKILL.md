@@ -1,13 +1,13 @@
 ---
 name: verl-loeschpflicht-archivierung-loseblattwerk
-description: "Nutze dies, wenn Verl Loeschpflicht Und Archivierung Fachzs, Verl Loseblattwerk Spezial, Verl Manuskript Merkwuerdige Formate Rettung, Verl Newsletter Redaktion Jur, Verl Online Kommentar Update Spezial im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Verl Loeschpflicht Und Archivierung Fachzs, Verl Loseblattwerk Spezial, Verl Manuskript Merkwuerdige Formate Rettung, Verl Newsletter Redaktion Jur, Verl Online Kommentar Update Spezial prüfen.; Erstelle eine Arbeitsfassung zu Verl Loeschpflicht Und Archivierung Fachzs, Verl Loseblattwerk Spezial, Verl Manuskript Merkwuerdige Formate Rettung, Verl Newsletter Redaktion Jur, Verl Online Kommentar Update Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl Loeschpflicht Und Archivierung Fachzs, Verl Loseblattwerk Spezial, Verl Manuskript Merkwuerdige Formate Rettung, Verl Newsletter Redaktion Jur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Loeschpflicht Und Archivierung Fachzs, Verl Loseblattwerk Spezial, Verl Manuskript Merkwuerdige Formate Rettung, Verl Newsletter Redaktion Jur, Verl Online Kommentar Update Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Loeschpflicht Und Archivierung Fachzs, Verl Loseblattwerk Spezial, Verl Manuskript Merkwuerdige Formate Rettung, Verl Newsletter Redaktion Jur, Verl Online Kommentar Update Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -60,17 +60,17 @@ Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-
 
 1. **Eingang.** Loeschungsbegehren protokollieren mit Datum und Frist (DSGVO: einen Monat zur Antwort, verlaengerbar).
 2. **Pruefraster anwenden.**
-   - Tatsachenbehauptung oder Werturteil?
-   - Aktualitaet noch gegeben?
-   - Informationsinteresse (oeffentlich vs. privat)?
-   - Identifizierbarkeit zwingend?
-   - Medienprivileg einschlaegig?
+ - Tatsachenbehauptung oder Werturteil?
+ - Aktualitaet noch gegeben?
+ - Informationsinteresse (oeffentlich vs. privat)?
+ - Identifizierbarkeit zwingend?
+ - Medienprivileg einschlaegig?
 3. **Abwaegung dokumentieren.** Pflicht zur Begruendung, auch bei Ablehnung.
 4. **Optionen.**
-   - Loeschung des gesamten Beitrags (nur in seltenen Faellen).
-   - Anonymisierung (Initialen, generische Funktionsbeschreibung).
-   - Korrektur einzelner Passagen mit Versionierung.
-   - Ablehnung mit Begruendung; Hinweis auf Beschwerde und Klage.
+ - Loeschung des gesamten Beitrags (nur in seltenen Faellen).
+ - Anonymisierung (Initialen, generische Funktionsbeschreibung).
+ - Korrektur einzelner Passagen mit Versionierung.
+ - Ablehnung mit Begruendung; Hinweis auf Beschwerde und Klage.
 5. **Datenbankanbieter informieren** (juris, beck-online): Aenderung muss in der Datenbank nachvollzogen werden.
 6. **Backup-Pflichten.** Auch in internen Backups Anonymisierung sicherstellen, soweit zumutbar.
 7. **Folgen kommunizieren.** Bei kompletter Loeschung Hinweisseite mit Datum.
@@ -128,7 +128,7 @@ geprueft.
 Eine vollstaendige Loeschung lehnen wir ab. Begruendung:
 - Der Beitrag dient der wissenschaftlichen Aufbereitung von [...].
 - Das oeffentliche Informationsinteresse ueberwiegt im Sinne von
-  DSGVO Art. 85 und der nationalen Mediengesetze.
+ DSGVO Art. 85 und der nationalen Mediengesetze.
 
 Im Rahmen der Abwaegung haben wir jedoch beschlossen, im Beitrag
 folgende Anonymisierungen vorzunehmen:
@@ -329,7 +329,7 @@ Output: Mueller-Aufsatz_v2-clean.docx
 
 ## Querverweise
 
-- `workflow-dokumentenintake` - allgemeiner Intake-Workflow im Plugin.
+- `workflow-dokumentenintake` - allgemeiner Intake-im Plugin.
 - `workflow-kaltstart-und-routing` - fuer die erste Weiche.
 - `verl-zeitschriftenartikel-leitfaden` - wenn das Manuskript ein Zeitschriftenaufsatz wird.
 - `lektorat-struktur-redaktion` - Anschluss-Skill nach erfolgter Bereinigung.
@@ -416,11 +416,11 @@ Bitte tragen Sie hier Ihre E-Mail-Adresse ein. Wir senden Ihnen
 [ ] E-Mail-Adresse:
 
 [ ] Ich willige ein, dass [Verlag] mir Newsletter und Hinweise zu
-    eigenen Verlagsprodukten an die angegebene Adresse zusendet. Die
-    Einwilligung kann ich jederzeit mit Wirkung fuer die Zukunft
-    widerrufen, ohne dass die Rechtmaessigkeit der bisherigen Daten-
-    verarbeitung beruehrt wird. Weitere Informationen in unserer
-    Datenschutzerklaerung [Link].
+ eigenen Verlagsprodukten an die angegebene Adresse zusendet. Die
+ Einwilligung kann ich jederzeit mit Wirkung fuer die Zukunft
+ widerrufen, ohne dass die Rechtmaessigkeit der bisherigen Daten-
+ verarbeitung beruehrt wird. Weitere Informationen in unserer
+ Datenschutzerklaerung [Link].
 
 [Button: Anmelden]
 

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Kaltstart und Workflow-Routing im Rentenprüfer: klärt gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung, Fristen, Unterlagen und Wunsch-Output und schlägt passende Spezial-Skills vor."
+description: "Einstieg, Kaltstart und Fallrouting im Rentenprüfer: klärt gesetzliche Rente, Versorgungswerk, Ausland, Nachversicherung, Fristen, Unterlagen und Wunsch-Output und schlägt passende Fachmodule vor."
 ---
 
 # allgemein

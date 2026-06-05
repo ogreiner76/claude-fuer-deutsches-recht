@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Urheber Medienrecht** ein Fall 
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-sonderfall-bild-eigenen` — Abmahnung Sonderfall Bild Eigenen
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `erstgespraech-mandatsannahme-fachanwalt-urheber-medienrecht` — Erstgespraech Mandatsannahme Fachanwalt Urheber Medienrecht
 - `fachanwalt-gewerblicher-kanzlei` — Fachanwalt Gewerblicher Kanzlei
 - `gegendarstellung-presse-mandat-triage-schriftsatzkern` — Gegendarstellung Presse Mandat Triage Schriftsatzkern

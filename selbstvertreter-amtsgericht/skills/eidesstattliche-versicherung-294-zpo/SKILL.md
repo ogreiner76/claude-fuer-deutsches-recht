@@ -59,9 +59,9 @@ wohnhaft [Adresse], versichere hiermit
 an Eides statt:
 
 1. Ich war vom 1.5.2026 bis 10.5.2026 wegen
-   eines Verkehrsunfalls im Krankenhaus [Name].
+ eines Verkehrsunfalls im Krankenhaus [Name].
 2. Mir war es in diesem Zeitraum nicht moeglich,
-   Schriftsaetze zu erstellen oder einzureichen.
+ Schriftsaetze zu erstellen oder einzureichen.
 
 Ich versichere die Wahrheit dieser Erklaerung an
 Eides statt.

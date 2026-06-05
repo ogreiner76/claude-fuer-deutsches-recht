@@ -1,13 +1,13 @@
 ---
 name: uebersicht-einsteiger-deaktivieren
-description: "Nutze dies, wenn Builder Uebersicht Für Einsteiger, Deaktivieren, Deinstallieren im Plugin Kanzlei Builder Hub konkret bearbeitet werden soll. Auslöser: Bitte Builder Uebersicht Für Einsteiger, Deaktivieren, Deinstallieren prüfen.; Erstelle eine Arbeitsfassung zu Builder Uebersicht Für Einsteiger, Deaktivieren, Deinstallieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Builder Uebersicht Für Einsteiger, Deaktivieren, Deinstallieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Builder Uebersicht Für Einsteiger, Deaktivieren, Deinstallieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Builder Uebersicht Für Einsteiger, Deaktivieren, Deinstallieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -134,13 +134,13 @@ Folgende Umbenennungen vorbereiten:
 Umbenennungsliste anzeigen:
 ```
 Zu deaktivierende Dateien (Umbenennung, keine Löschung):
-  ~/.claude/skills/[skill-name]/SKILL.md
-    → SKILL.md.disabled
-  ~/.claude/skills/[skill-name]/ausloeser/ausloeser.json (falls vorhanden)
-    → ausloeser.json.disabled
+ ~/.claude/skills/[skill-name]/SKILL.md
+ → SKILL.md.disabled
+ ~/.claude/skills/[skill-name]/ausloeser/ausloeser.json (falls vorhanden)
+ → ausloeser.json.disabled
 
 Konfiguration bleibt erhalten:
-  ~/.claude/plugins/config/.../[skill-name]/ (wird NICHT angefasst)
+ ~/.claude/plugins/config/.../[skill-name]/ (wird NICHT angefasst)
 
 Skill deaktivieren? (ja / nein)
 ```
@@ -157,9 +157,9 @@ In `installations-protokoll.yaml` anhängen:
 
 ```yaml
 - skill: <name>
-  action: disable
-  timestamp: <ISO8601>
-  path: <install-pfad>
+ action: disable
+ timestamp: <ISO8601>
+ path: <install-pfad>
 ```
 
 ### Reaktivierungs-Arbeitsablauf
@@ -167,9 +167,9 @@ In `installations-protokoll.yaml` anhängen:
 Wenn der Nutzer einen Skill nennt, dessen neueste Protokollaktion `deaktivieren` ist:
 
 1. Umbenennung rückgängig machen:
-   - `SKILL.md.disabled` → `SKILL.md`
-   - `ausloeser.json.disabled` → `ausloeser.json` (falls vorhanden)
-   - `agents/*.md.disabled` → `agents/*.md` (falls vorhanden)
+ - `SKILL.md.disabled` → `SKILL.md`
+ - `ausloeser.json.disabled` → `ausloeser.json` (falls vorhanden)
+ - `agents/*.md.disabled` → `agents/*.md` (falls vorhanden)
 2. Umbenennungsliste anzeigen
 3. "Skill reaktivieren? (ja / nein)" — nur bei `ja` fortfahren
 4. Protokolleintrag mit `action: enable` anhängen
@@ -195,17 +195,17 @@ Wenn der Nutzer einen Skill nennt, dessen neueste Protokollaktion `deaktivieren`
 /kanzlei-builder-hub:deaktivieren nda-prüfung
 
 Zu deaktivierende Dateien (Umbenennung, keine Löschung):
-  ~/.claude/skills/nda-prüfung/SKILL.md
-    → SKILL.md.disabled
+ ~/.claude/skills/nda-prüfung/SKILL.md
+ → SKILL.md.disabled
 
 Konfiguration bleibt erhalten:
-  ~/.claude/plugins/config/.../nda-prüfung/ (wird NICHT angefasst)
+ ~/.claude/plugins/config/.../nda-prüfung/ (wird NICHT angefasst)
 
 Skill deaktivieren? (ja / nein): ja
 
 ✅ Deaktiviert. nda-prüfung wird nicht mehr ausgeführt.
-   Reaktivierung: /kanzlei-builder-hub:deaktivieren nda-prüfung erneut ausführen.
-   Vollständige Entfernung: /kanzlei-builder-hub:deinstallieren nda-prüfung
+ Reaktivierung: /kanzlei-builder-hub:deaktivieren nda-prüfung erneut ausführen.
+ Vollständige Entfernung: /kanzlei-builder-hub:deinstallieren nda-prüfung
 ```
 
 ## Risiken und typische Fehler
@@ -249,7 +249,7 @@ Vollständiges Entfernen eines Community-Skills, der über den Kanzlei-Builder-H
 
 Die vollständige, revisionssichere Protokollierung der Deinstallation ist rechtlich geboten: § 50 BRAO verlangt nachvollziehbare Aktenführung über kanzleiinterne Vorgänge; Art. 5 Abs. 2 DSGVO (Rechenschaftspflicht) erfordert Nachweis über Verarbeitung und Löschung personenbezogener Daten; der AI Act Art. 26 verlangt Dokumentation der Außerbetriebnahme von Hochrisiko-KI-Systemen.
 
-Den vollständigen Deinstallations-, Deaktivierungs- und Reaktivierungsworkflow lädt dieser Skill aus dem `skill-verwalter`-Referenz-Skill — dieser muss vor substanzieller Arbeit geladen sein.
+Den vollständigen Deinstallations-, Deaktivierungs- und Reaktivierungslädt dieser Skill aus dem `skill-verwalter`-Referenz-Skill — dieser muss vor substanzieller Arbeit geladen sein.
 
 ---
 
@@ -294,7 +294,7 @@ Vor jeder Aktion gelten folgende unverbrüchliche Regeln:
 
 ### Schritt 2: skill-verwalter laden
 
-Den vollständigen Deinstallationsworkflow aus dem `skill-verwalter`-Referenz-Skill laden und ausführen.
+Den vollständigen Deinstallationsaus dem `skill-verwalter`-Referenz-Skill laden und ausführen.
 
 ### Schritt 3: Alternativen prüfen
 
@@ -325,13 +325,13 @@ Strukturierte Abschlussbestätigung:
 
 ```
 Deinstallation — [skill-name]
-Zeitstempel:         [ISO8601]
+Zeitstempel: [ISO8601]
 Gelöschte Dateien:
-  - [Pfad 1]
-  - [Pfad 2]
+ - [Pfad 1]
+ - [Pfad 2]
 Beigehaltene Konfiguration:
-  - [Pfad, falls zutreffend]
-Protokolleintrag:    installations-protokoll.yaml aktualisiert (action: uninstall)
+ - [Pfad, falls zutreffend]
+Protokolleintrag: installations-protokoll.yaml aktualisiert (action: uninstall)
 Aufbewahrungshinweis: [siehe oben, falls Konfiguration vorhanden]
 ```
 

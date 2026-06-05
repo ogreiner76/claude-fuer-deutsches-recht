@@ -1,13 +1,13 @@
 ---
 name: tier-tierschg-grundsatz-haltung-betreuung
-description: "Nutze dies, wenn Tier 003 Tierschg Grundsatz Und Leiden Prüfen, Tier 005 Haltung Und Betreuung Dokumentieren, Tier 006 Anordnung Und Wegnahme Prüfen, Tier 007 Tierschutz Strafanzeige Vorbereiten im Plugin Tierschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Tier 003 Tierschg Grundsatz Und Leiden Prüfen, Tier 005 Haltung Und Betreuung Dokumentieren, Tier 006 Anordnung Und Wegnahme Prüfen, Tier 007 Tierschutz Strafanzeige Vorbereiten prüfen.; Erstelle eine Arbeitsfassung zu Tier 003 Tierschg Grundsatz Und Leiden Prüfen, Tier 005 Haltung Und Betreuung Dokumentieren, Tier 006 Anordnung Und Wegnahme Prüfen, Tier 007 Tierschutz Strafanzeige Vorbereiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tier 003 Tierschg Grundsatz Und Leiden Prüfen, Tier 005 Haltung Und Betreuung Dokumentieren, Tier 006 Anordnung Und Wegnahme Prüfen, Tier 007 Tierschutz Strafanzeige Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tier 003 Tierschg Grundsatz Und Leiden Prüfen, Tier 005 Haltung Und Betreuung Dokumentieren, Tier 006 Anordnung Und Wegnahme Prüfen, Tier 007 Tierschutz Strafanzeige Vorbereiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tier 003 Tierschg Grundsatz Und Leiden Prüfen, Tier 005 Haltung Und Betreuung Dokumentieren, Tier 006 Anordnung Und Wegnahme Prüfen, Tier 007 Tierschutz Strafanzeige Vorbereiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

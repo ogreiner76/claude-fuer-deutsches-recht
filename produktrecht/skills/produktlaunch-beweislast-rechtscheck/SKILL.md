@@ -1,13 +1,13 @@
 ---
 name: produktlaunch-beweislast-rechtscheck
-description: "Nutze dies, wenn Spezial Produktlaunch Beweislast Und Darlegungslast, Spezial Produktlaunch Rechtscheck, Spezial Produktnutzung Und Claimcheck im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Produktlaunch Beweislast Und Darlegungslast, Spezial Produktlaunch Rechtscheck, Spezial Produktnutzung Und Claimcheck prüfen.; Erstelle eine Arbeitsfassung zu Spezial Produktlaunch Beweislast Und Darlegungslast, Spezial Produktlaunch Rechtscheck, Spezial Produktnutzung Und Claimcheck.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Produktlaunch Beweislast Und Darlegungslast, Spezial Produktlaunch Rechtscheck, Spezial Produktnutzung Und Claimcheck
+# Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Produktlaunch Beweislast Und Darlegungslast, Spezial Produktlaunch Rechtscheck, Spezial Produktnutzung Und Claimcheck** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `produktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Produktlaunch Beweislast Und Darlegungslast, Produktlaunch Rechtscheck, Produktnutzung Und Claimcheck** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `produktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Produktlaunch Beweislast Und Darlegungslast, Spezial Produktlaunc
 # Produktlaunch: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Produktlaunch: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Produktlaunch: Beweislast, Darlegungslast und Substantiierung / spezial produktlaunch beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Produktlaunch: Beweislast, Darlegungslast und Substantiierung / produktlaunch beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DDG, PAngV, UWG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,11 +72,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Produktlaunch-Rechtscheck von Impressum bis Marktüberwachung
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `produktrecht`. Kontext des Plugins: Produktrechtliche Skills für Launch-Review, Impressumspflicht nach DDG und PAngV sowie UWG-Bewertungen.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `produktrecht`. Kontext des Plugins: Produktrechtliche Skills für Launch-Review, Impressumspflicht nach DDG und PAngV sowie UWG-Bewertungen.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -111,11 +111,11 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # Produktnutzung, Werbeclaim und Sicherheitsversprechen prüfen
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `produktrecht`. Kontext des Plugins: Produktrechtliche Skills für Launch-Review, Impressumspflicht nach DDG und PAngV sowie UWG-Bewertungen.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `produktrecht`. Kontext des Plugins: Produktrechtliche Skills für Launch-Review, Impressumspflicht nach DDG und PAngV sowie UWG-Bewertungen.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?

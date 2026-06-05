@@ -1,13 +1,13 @@
 ---
 name: verl-bibliothekslizenz-verl-autor
-description: "Nutze dies, wenn Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette prüfen.; Erstelle eine Arbeitsfassung zu Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

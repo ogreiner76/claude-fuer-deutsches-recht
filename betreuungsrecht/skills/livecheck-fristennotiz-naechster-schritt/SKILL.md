@@ -1,12 +1,12 @@
 ---
 name: livecheck-fristennotiz-naechster-schritt
-description: "Nutze dies, wenn Livecheck: Fristennotiz und nächster Schritt im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Livecheck: Fristennotiz und nächster Schritt: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Livecheck: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Livecheck: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Livecheck: Fristennotiz und nächster Schritt / spezial livecheck fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Livecheck: Fristennotiz und nächster Schritt / livecheck fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

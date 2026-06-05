@@ -1,13 +1,13 @@
 ---
 name: vertragserstellung-musterbasiert
-description: "Nutze dies, wenn Vertragserstellung Musterbasiert, Vertragspruefung Playbook, Immo Share Deal Grunderwerbsteuer im Plugin Immobilienrechtspraxis konkret bearbeitet werden soll. Auslöser: Bitte Vertragserstellung Musterbasiert, Vertragspruefung Playbook, Immo Share Deal Grunderwerbsteuer prüfen.; Erstelle eine Arbeitsfassung zu Vertragserstellung Musterbasiert, Vertragspruefung Playbook, Immo Share Deal Grunderwerbsteuer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vertragserstellung Musterbasiert, Vertragspruefung Playbook, Immo Share Deal Grunderwerbsteuer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vertragserstellung Musterbasiert, Vertragspruefung Playbook, Immo Share Deal Grunderwerbsteuer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vertragserstellung Musterbasiert, Vertragspruefung Playbook, Immo Share Deal Grunderwerbsteuer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -50,7 +50,7 @@ keine eigenen Klauseln in tragenden Punkten.
 - Term Sheet oder Eckpunktepapier (.docx, .md, .pdf, freier Text)
 - Optional: vorhandene Vorgängerverträge zur Stilreferenz
 - Optional: Anlagenliste (Lageplan, Baubeschreibung, Hausordnung,
-  Betriebskostenaufstellung)
+ Betriebskostenaufstellung)
 
 ## Klauselschutz — die zentrale Regel
 
@@ -72,13 +72,13 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 
 1. Mustervertrag laden und alle Platzhalter inventarisieren
 2. Term Sheet parsen — Parteien, Objekt, wirtschaftliche Eckpunkte,
-   Sondervereinbarungen
+ Sondervereinbarungen
 3. Mapping Term-Sheet-Position auf Musterplatzhalter erstellen
 4. Platzhalter befuellen, Querverweise (§-Verweise, Anlagen) anpassen
 5. Konsistenzprüfung: Daten, Betraege ohne Komma in der Beschreibung,
-   Parteiennennungen, Pluralformen
+ Parteiennennungen, Pluralformen
 6. Änderungsprotokoll erzeugen — welche Platzhalter befüllt, welche offen,
-   welche Konflikte
+ welche Konflikte
 7. Roter Block oben im Dokument: was zwingend manuell zu prüfen ist
 
 ## Output
@@ -86,8 +86,8 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 - `Vertrag_<Objekt>_<Datum>.docx` auf Muster-Layout, Platzhalter befüllt
 - `Aenderungsprotokoll.md` mit Tabelle Platzhalter — Wert — Quelle im Term Sheet
 - `Manuelle_Pruefung.md` mit Liste der Punkte die nur ein Jurist
-  entscheiden kann (zB GenehmigungspflichtigerVerkauf §§ 1365 BGB,
-  Vorkaufsrechte §§ 24 ff. BauGB, Denkmalschutz, Erbbauzins-Anpassung)
+ entscheiden kann (zB GenehmigungspflichtigerVerkauf §§ 1365 BGB,
+ Vorkaufsrechte §§ 24 ff. BauGB, Denkmalschutz, Erbbauzins-Anpassung)
 
 ## Typische manuelle Pruefpunkte bei Immobilienverträgen
 
@@ -106,11 +106,11 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 ## Beispielformulierungen
 
 - "Erstelle aus Mustervertrag Gewerbemiete und beigefügtem Term Sheet
-  einen Entwurf. Achte auf Schriftform § 550 BGB."
+ einen Entwurf. Achte auf Schriftform § 550 BGB."
 - "Befuelle den Wohnraummietvertrag-Muster mit den Eckpunkten aus dem
-  Eckpunktepapier. Prüfe ob Mietpreisbremse greift und markiere."
+ Eckpunktepapier. Prüfe ob Mietpreisbremse greift und markiere."
 - "Erstelle WEG-Verwaltervertrag aus Muster, Term Sheet anbei,
-  Bestellungsbeschluss als Anlage einfügen."
+ Bestellungsbeschluss als Anlage einfügen."
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
@@ -158,12 +158,12 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 
 ```json
 {
-  "klausel_id": "indexmiete",
-  "soll": "VPI mit Schwelle 5 Prozent und Mindestabstand zwölf Monate",
-  "toleranz": "Schwelle drei bis sieben Prozent",
-  "rot": "Vollindexierung ohne Schwelle oder Mindestabstand",
-  "eskalation": "Asset-Management bei Abweichung",
-  "fundstelle": "§ 557b BGB"
+ "klausel_id": "indexmiete",
+ "soll": "VPI mit Schwelle 5 Prozent und Mindestabstand zwölf Monate",
+ "toleranz": "Schwelle drei bis sieben Prozent",
+ "rot": "Vollindexierung ohne Schwelle oder Mindestabstand",
+ "eskalation": "Asset-Management bei Abweichung",
+ "fundstelle": "§ 557b BGB"
 }
 ```
 
@@ -171,13 +171,13 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 
 1. Vertrag in Klauseln segmentieren
 2. Jede Klausel einem Playbook-Eintrag zuordnen (Klassifikation per
-   Schlüsselwort und Semantik)
+ Schlüsselwort und Semantik)
 3. Ampel setzen — GRUEN entspricht Soll, GELB innerhalb Toleranz, ROT
-   außerhalb Toleranz
+ außerhalb Toleranz
 4. Fehlende Klauseln als WEISS markieren (Schutzlücke)
 5. Redline-Vorschlag in Tracked Changes erzeugen wo ROT oder WEISS
 6. Business-Memo mit drei bis fünf Punkten was wirklich wirtschaftlich
-   relevant ist
+ relevant ist
 
 ## Output
 
@@ -205,11 +205,11 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 ## Beispielformulierungen
 
 - "Prüfe diesen Gewerbemietvertrag gegen unser Playbook. Schwerpunkt
-  Schriftform Indexierung und Konkurrenzschutz."
+ Schriftform Indexierung und Konkurrenzschutz."
 - "Externer Kaufvertrag liegt vor. Vergleiche mit Playbook und liefere
-  Ampelmatrix plus Redline."
+ Ampelmatrix plus Redline."
 - "Property-Management-Vertrag ist gekommen. Was muss vor Unterschrift
-  geändert werden, gemessen an unseren Mindeststandards?"
+ geändert werden, gemessen an unseren Mindeststandards?"
 
 ## Aktuelle Rechtsprechung — Leitsaetze fuer Playbook-Pruefung (Stand 05/2026, verifiziert dejure.org)
 

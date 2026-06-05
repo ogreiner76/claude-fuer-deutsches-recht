@@ -1,13 +1,13 @@
 ---
 name: fran-usa-franchise-eu-vertikal
-description: "Nutze dies, wenn Fran 024 Usa Franchise Disclosure Vergleich, Fran 025 Eu Vertikal Gvo Und Franchise, Fran 026 Kartellrechtlicher Informationsaustausch Im System im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran 024 Usa Franchise Disclosure Vergleich, Fran 025 Eu Vertikal Gvo Und Franchise, Fran 026 Kartellrechtlicher Informationsaustausch Im System prüfen.; Erstelle eine Arbeitsfassung zu Fran 024 Usa Franchise Disclosure Vergleich, Fran 025 Eu Vertikal Gvo Und Franchise, Fran 026 Kartellrechtlicher Informationsaustausch Im System.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fran 024 Usa Franchise Disclosure Vergleich, Fran 025 Eu Vertikal Gvo Und Franchise, Fran 026 Kartellrechtlicher Informationsaustausch Im System: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fran 024 Usa Franchise Disclosure Vergleich, Fran 025 Eu Vertikal Gvo Und Franchise, Fran 026 Kartellrechtlicher Informationsaustausch Im System
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fran 024 Usa Franchise Disclosure Vergleich, Fran 025 Eu Vertikal Gvo Und Franchise, Fran 026 Kartellrechtlicher Informationsaustausch Im System** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

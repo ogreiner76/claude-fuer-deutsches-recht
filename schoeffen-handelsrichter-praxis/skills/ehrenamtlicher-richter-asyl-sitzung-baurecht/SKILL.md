@@ -1,13 +1,13 @@
 ---
 name: ehrenamtlicher-richter-asyl-sitzung-baurecht
-description: "Nutze dies, wenn Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter Asyl Sitzung, Ehrenamtlicher Richter Baurecht Orientierung im Plugin Schoeffen Handelsrichter Praxis konkret bearbeitet werden soll. Auslöser: Bitte Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter Asyl Sitzung, Ehrenamtlicher Richter Baurecht Orientierung prüfen.; Erstelle eine Arbeitsfassung zu Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter Asyl Sitzung, Ehrenamtlicher Richter Baurecht Orientierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter Asyl Sitzung, Ehrenamtlicher Richter Baurecht Orientierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter Asyl Sitzung, Ehrenamtlicher Richter Baurecht Orientierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ehrenamtlicher Richter Asyl Orientierung, Ehrenamtlicher Richter Asyl Sitzung, Ehrenamtlicher Richter Baurecht Orientierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

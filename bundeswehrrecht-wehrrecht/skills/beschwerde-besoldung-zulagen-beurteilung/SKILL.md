@@ -1,13 +1,13 @@
 ---
 name: beschwerde-besoldung-zulagen-beurteilung
-description: "Nutze dies, wenn Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung prüfen.; Erstelle eine Arbeitsfassung zu Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -60,19 +60,19 @@ Die Beurteilung (planmäßig oder Anlassbeurteilung) und die darauf gestützte L
 - § 21 WBO: Erstinstanzliche Zuständigkeit BVerwG bei Maßnahme höherer Vorgesetzter (oft im Konkurrentenstreit).
 - BVerwG-Rspr. zu Beurteilungsspielraum und Plausibilitätskontrolle – ständige Rechtsprechung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Beurteilung und Anlass dokumentieren.** Eröffnungsdatum, Beurteilerkette, Vergleichsgruppe.
 2. **Fehler identifizieren.**
-   - Formaler Fehler (falsche Beurteilerkette, fehlende Eröffnung),
-   - Sachlicher Fehler (Verwertungsverbote, Hörensagen, falsche Tatsachenbasis),
-   - Bewertungsfehler (Plausibilitätslücke, Maßstabsverstöße),
-   - Quotenfehler (falsche Vergleichsgruppe).
+ - Formaler Fehler (falsche Beurteilerkette, fehlende Eröffnung),
+ - Sachlicher Fehler (Verwertungsverbote, Hörensagen, falsche Tatsachenbasis),
+ - Bewertungsfehler (Plausibilitätslücke, Maßstabsverstöße),
+ - Quotenfehler (falsche Vergleichsgruppe).
 3. **Frist sichern.** § 6 WBO: 1 Monat ab Eröffnung. Fristwahrende Beschwerde mit Vorbehalt der Begründung möglich.
 4. **Akteneinsicht.** Personalakte, andere Beurteilungen (anonymisierte Auswertung), Quotenmatrix.
 5. **Konkurrentenstreit.**
-   - Eilantrag § 21 WBO i.V.m. § 80a VwGO entsprechend, wenn Beförderung anderer droht.
-   - Schutzschrift zum BVerwG bei höchstrangiger Auswahl.
+ - Eilantrag § 21 WBO i.V.m. § 80a VwGO entsprechend, wenn Beförderung anderer droht.
+ - Schutzschrift zum BVerwG bei höchstrangiger Auswahl.
 6. **Beschwerdeschrift.** Konkrete Rüge der Beurteilungsfehler, Anträge auf Aufhebung und Neubeurteilung.
 7. **Mündliche Verhandlung.** Bei Truppendienstgericht häufig; persönliches Erscheinen.
 
@@ -225,7 +225,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -337,7 +337,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

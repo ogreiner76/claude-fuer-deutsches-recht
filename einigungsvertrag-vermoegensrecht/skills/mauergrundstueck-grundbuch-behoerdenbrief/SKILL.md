@@ -1,13 +1,13 @@
 ---
 name: mauergrundstueck-grundbuch-behoerdenbrief
-description: "Nutze dies, wenn Ein 046 Mauergrundstueck Grundbuch Auswerten, Ein 047 Mauergrundstueck Behoerdenbrief Schrei, Ein 048 Mauergrundstueck Widerspruch Prüfen, Ein 049 Mauergrundstueck Klage Skizzieren im Plugin Einigungsvertrag Vermoegensrecht konkret bearbeitet werden soll. Auslöser: Bitte Ein 046 Mauergrundstueck Grundbuch Auswerten, Ein 047 Mauergrundstueck Behoerdenbrief Schrei, Ein 048 Mauergrundstueck Widerspruch Prüfen, Ein 049 Mauergrundstueck Klage Skizzieren prüfen.; Erstelle eine Arbeitsfassung zu Ein 046 Mauergrundstueck Grundbuch Auswerten, Ein 047 Mauergrundstueck Behoerdenbrief Schrei, Ein 048 Mauergrundstueck Widerspruch Prüfen, Ein 049 Mauergrundstueck Klage Skizzieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ein 046 Mauergrundstueck Grundbuch Auswerten, Ein 047 Mauergrundstueck Behoerdenbrief Schrei, Ein 048 Mauergrundstueck Widerspruch Prüfen, Ein 049 Mauergrundstueck Klage Skizzieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ein 046 Mauergrundstueck Grundbuch Auswerten, Ein 047 Mauergrundstueck Behoerdenbrief Schrei, Ein 048 Mauergrundstueck Widerspruch Prüfen, Ein 049 Mauergrundstueck Klage Skizzieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ein 046 Mauergrundstueck Grundbuch Auswerten, Ein 047 Mauergrundstueck Behoerdenbrief Schrei, Ein 048 Mauergrundstueck Widerspruch Prüfen, Ein 049 Mauergrundstueck Klage Skizzieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

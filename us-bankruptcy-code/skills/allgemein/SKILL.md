@@ -31,7 +31,7 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 
 1. Rolle and chapter route bestimmen.
 2. Critical dates, court, debtor, case number, assets and claims erfassen.
-3. Passende Spezial-Skills vorschlagen.
+3. Passende Fachmodule vorschlagen.
 
 
 ## Output

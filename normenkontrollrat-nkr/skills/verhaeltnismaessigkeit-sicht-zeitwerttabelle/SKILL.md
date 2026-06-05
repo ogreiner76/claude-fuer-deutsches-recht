@@ -1,13 +1,13 @@
 ---
 name: verhaeltnismaessigkeit-sicht-zeitwerttabelle
-description: "Nutze dies, wenn Nkr Verhaeltnismaessigkeit Aus Nkr Sicht, Nkr Zeitwerttabelle Und Fallzahlen im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Verhaeltnismaessigkeit Aus Nkr Sicht, Nkr Zeitwerttabelle Und Fallzahlen prüfen.; Erstelle eine Arbeitsfassung zu Nkr Verhaeltnismaessigkeit Aus Nkr Sicht, Nkr Zeitwerttabelle Und Fallzahlen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Verhaeltnismaessigkeit Aus Nkr Sicht, Nkr Zeitwerttabelle Und Fallzahlen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Verhaeltnismaessigkeit Aus Nkr Sicht, Nkr Zeitwerttabelle Und Fallzahlen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Verhaeltnismaessigkeit Aus Nkr Sicht, Nkr Zeitwerttabelle Und Fallzahlen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,34 +1,34 @@
 ---
 name: dokumentenstapel-sortieren-first-year
-description: "Nutze dies, wenn Workflow Dokumentenstapel Sortieren, Workflow First Year Associate Mietrecht, Workflow Fotobeweis Mangel, Workflow Fristen Und Risikoampel, Workflow Fristenrettung Miet Weg im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Dokumentenstapel Sortieren, First Year Associate Mietrecht, Fotobeweis Mangel, Fristen Und Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Dokumentenstapel Sortieren, Workflow First Year Associate Mietrecht, Workflow Fotobeweis Mangel, Workflow Fristen Und Risikoampel, Workflow Fristenrettung Miet Weg
+# Dokumentenstapel Sortieren, First Year Associate Mietrecht, Fotobeweis Mangel, Fristen Und Risikoampel, Fristenrettung Miet Weg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dokumentenstapel Sortieren, First Year Associate Mietrecht, Fotobeweis Mangel, Fristen Und Risikoampel, Fristenrettung Miet Weg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-dokumentenstapel-sortieren` | Dokumentenstapel sortieren: Workflow-Skill für Miet- und WEG-Recht; ordnet Mietvertrag, Nachträge, Fotos, Mails, Protokolle, Rechnungen und Kontoauszüge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-first-year-associate-mietrecht` | First-Year-Associate-Coach Mietrecht: Workflow-Skill für Miet- und WEG-Recht; führt neue Anwältinnen durch Anspruchsaufbau, Fristen, Belege und Schriftsatzlogik; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-fotobeweis-mangel` | Fotobeweis-Mangel: Workflow-Skill für Miet- und WEG-Recht; macht aus Fotos, Videos und Messungen einen beweisbaren Mangelvortrag; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-dokumentenstapel-sortieren` | Dokumentenstapel sortieren: Arbeitsmodul für Miet- und WEG-Recht; ordnet Mietvertrag, Nachträge, Fotos, Mails, Protokolle, Rechnungen und Kontoauszüge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-first-year-associate-mietrecht` | First-Year-Associate-Coach Mietrecht: Arbeitsmodul für Miet- und WEG-Recht; führt neue Anwältinnen durch Anspruchsaufbau, Fristen, Belege und Schriftsatzlogik; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-fotobeweis-mangel` | Fotobeweis-Mangel: Arbeitsmodul für Miet- und WEG-Recht; macht aus Fotos, Videos und Messungen einen beweisbaren Mangelvortrag; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-fristenrettung-miet-weg` | Fristenrettung Miet/WEG: Workflow-Skill für Miet- und WEG-Recht; erkennt Sofortfristen und erzeugt eine Rettungsliste mit Verantwortlichen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-fristenrettung-miet-weg` | Fristenrettung Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; erkennt Sofortfristen und erzeugt eine Rettungsliste mit Verantwortlichen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Dokumentenstapel Sortieren, Workflow First Year Associate Mietrecht, Workflow Fotobeweis Mangel, Workflow Fristen Und Risikoampel, Workflow Fristenrettung Miet Weg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dokumentenstapel Sortieren, First Year Associate Mietrecht, Fotobeweis Mangel, Fristen Und Risikoampel, Fristenrettung Miet Weg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-dokumentenstapel-sortieren`
 
-**Fokus:** Dokumentenstapel sortieren: Workflow-Skill für Miet- und WEG-Recht; ordnet Mietvertrag, Nachträge, Fotos, Mails, Protokolle, Rechnungen und Kontoauszüge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Dokumentenstapel sortieren: Arbeitsmodul für Miet- und WEG-Recht; ordnet Mietvertrag, Nachträge, Fotos, Mails, Protokolle, Rechnungen und Kontoauszüge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Dokumentenstapel sortieren
 
@@ -42,9 +42,9 @@ Für **Workflow Dokumentenstapel Sortieren, Workflow First Year Associate Mietre
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: ordnet Mietvertrag, Nachträge, Fotos, Mails, Protokolle, Rechnungen und Kontoauszüge.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: ordnet Mietvertrag, Nachträge, Fotos, Mails, Protokolle, Rechnungen und Kontoauszüge.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -57,7 +57,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-first-year-associate-mietrecht`
 
-**Fokus:** First-Year-Associate-Coach Mietrecht: Workflow-Skill für Miet- und WEG-Recht; führt neue Anwältinnen durch Anspruchsaufbau, Fristen, Belege und Schriftsatzlogik; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** First-Year-Associate-Coach Mietrecht: Arbeitsmodul für Miet- und WEG-Recht; führt neue Anwältinnen durch Anspruchsaufbau, Fristen, Belege und Schriftsatzlogik; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # First-Year-Associate-Coach Mietrecht
 
@@ -87,9 +87,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: führt neue Anwältinnen durch Anspruchsaufbau, Fristen, Belege und Schriftsatzlogik.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: führt neue Anwältinnen durch Anspruchsaufbau, Fristen, Belege und Schriftsatzlogik.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -102,7 +102,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -118,7 +118,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-fotobeweis-mangel`
 
-**Fokus:** Fotobeweis-Mangel: Workflow-Skill für Miet- und WEG-Recht; macht aus Fotos, Videos und Messungen einen beweisbaren Mangelvortrag; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Fotobeweis-Mangel: Arbeitsmodul für Miet- und WEG-Recht; macht aus Fotos, Videos und Messungen einen beweisbaren Mangelvortrag; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Fotobeweis-Mangel
 
@@ -132,9 +132,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht aus Fotos, Videos und Messungen einen beweisbaren Mangelvortrag.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht aus Fotos, Videos und Messungen einen beweisbaren Mangelvortrag.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -147,7 +147,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -177,10 +177,10 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-miet-wohnungseigentumsrecht` Fristen- und Risikoampel im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin fachanwalt-miet-wohnungseigentumsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -190,7 +190,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -207,7 +207,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 5. `workflow-fristenrettung-miet-weg`
 
-**Fokus:** Fristenrettung Miet/WEG: Workflow-Skill für Miet- und WEG-Recht; erkennt Sofortfristen und erzeugt eine Rettungsliste mit Verantwortlichen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Fristenrettung Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; erkennt Sofortfristen und erzeugt eine Rettungsliste mit Verantwortlichen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Fristenrettung Miet/WEG
 
@@ -221,9 +221,9 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: erkennt Sofortfristen und erzeugt eine Rettungsliste mit Verantwortlichen.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: erkennt Sofortfristen und erzeugt eine Rettungsliste mit Verantwortlichen.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -236,7 +236,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab

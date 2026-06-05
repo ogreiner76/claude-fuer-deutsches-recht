@@ -1,34 +1,34 @@
 ---
 name: baurecht-schnittstelle-belegeinsicht
-description: "Nutze dies, wenn Spezial Baurecht Schnittstelle Miete, Spezial Belegeinsicht Betriebskosten, Spezial Berliner Raeumung, Spezial Beschlussanfechtung Compliance Dokumentation Und Akte, Spezial Betriebskosten Formell im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Baurecht Schnittstelle Miete, Spezial Belegeinsicht Betriebskosten, Spezial Berliner Raeumung, Spezial Beschlussanfechtung Compliance Dokumentation Und Akte, Spezial Betriebskosten Formell prüfen.; Erstelle eine Arbeitsfassung zu Spezial Baurecht Schnittstelle Miete, Spezial Belegeinsicht Betriebskosten, Spezial Berliner Raeumung, Spezial Beschlussanfechtung Compliance Dokumentation Und Akte, Spezial Betriebskosten Formell.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Baurecht Schnittstelle Miete, Belegeinsicht Betriebskosten, Berliner Raeumung, Beschlussanfechtung Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Baurecht Schnittstelle Miete, Spezial Belegeinsicht Betriebskosten, Spezial Berliner Raeumung, Spezial Beschlussanfechtung Compliance Dokumentation Und Akte, Spezial Betriebskosten Formell
+# Baurecht Schnittstelle Miete, Belegeinsicht Betriebskosten, Berliner Raeumung, Beschlussanfechtung Compliance Dokumentation Und Akte, Betriebskosten Formell
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Baurecht Schnittstelle Miete, Belegeinsicht Betriebskosten, Berliner Raeumung, Beschlussanfechtung Compliance Dokumentation Und Akte, Betriebskosten Formell** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-baurecht-schnittstelle-miete` | Baurecht-Schnittstelle: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Nutzungsuntersagung, Mangel, Genehmigung, Zweckentfremdung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-baurecht-schnittstelle-miete` | Baurecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Nutzungsuntersagung, Mangel, Genehmigung, Zweckentfremdung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-belegeinsicht-betriebskosten` | Belegeinsicht Betriebskosten: Rechnungen, Verträge, Originalbelege, Zahlungsbelege, digitale Belege, Datenschutz, Terminorganisation, Zurückbehaltungsrecht und konkrete Einwendungen nach § 556 Abs. 3 BGB; mit BGH VIII ZR 118/19 und VIII ZR 66/20. |
-| `spezial-berliner-raeumung` | Berliner Räumung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; klärt Auftrag, Vermieterpfandrecht, Kosten, Einlagerung und Haftungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-beschlussanfechtung-compliance-dokumentation-und-akte` | Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-berliner-raeumung` | Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Auftrag, Vermieterpfandrecht, Kosten, Einlagerung und Haftungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-beschlussanfechtung-compliance-dokumentation-und-akte` | Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-betriebskosten-formell` | Formelle Ordnung der Betriebskostenabrechnung: Mindestangaben nach BGH VIII ZR 84/07, Abrechnungseinheit, Gesamtkosten, Verteilerschlüssel, Mieteranteil, Vorauszahlungen, Saldo, Zugang und Abgrenzung zu bloß materiellen Fehlern. |
 
 ## Arbeitsweg
 
-Für **Spezial Baurecht Schnittstelle Miete, Spezial Belegeinsicht Betriebskosten, Spezial Berliner Raeumung, Spezial Beschlussanfechtung Compliance Dokumentation Und Akte, Spezial Betriebskosten Formell** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Baurecht Schnittstelle Miete, Belegeinsicht Betriebskosten, Berliner Raeumung, Beschlussanfechtung Compliance Dokumentation Und Akte, Betriebskosten Formell** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-baurecht-schnittstelle-miete`
 
-**Fokus:** Baurecht-Schnittstelle: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Nutzungsuntersagung, Mangel, Genehmigung, Zweckentfremdung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Baurecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Nutzungsuntersagung, Mangel, Genehmigung, Zweckentfremdung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Baurecht-Schnittstelle
 
@@ -42,9 +42,9 @@ Für **Spezial Baurecht Schnittstelle Miete, Spezial Belegeinsicht Betriebskoste
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Nutzungsuntersagung, Mangel, Genehmigung, Zweckentfremdung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Nutzungsuntersagung, Mangel, Genehmigung, Zweckentfremdung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -122,7 +122,7 @@ BGH-Entscheidungen nur mit Datum, Aktenzeichen und frei prüfbarer Quelle nennen
 
 ## 3. `spezial-berliner-raeumung`
 
-**Fokus:** Berliner Räumung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; klärt Auftrag, Vermieterpfandrecht, Kosten, Einlagerung und Haftungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Berliner Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Auftrag, Vermieterpfandrecht, Kosten, Einlagerung und Haftungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Berliner Räumung
 
@@ -136,9 +136,9 @@ BGH-Entscheidungen nur mit Datum, Aktenzeichen und frei prüfbarer Quelle nennen
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: klärt Auftrag, Vermieterpfandrecht, Kosten, Einlagerung und Haftungsrisiko.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: klärt Auftrag, Vermieterpfandrecht, Kosten, Einlagerung und Haftungsrisiko.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -167,7 +167,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-beschlussanfechtung-compliance-dokumentation-und-akte`
 
-**Fokus:** Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk
 
@@ -181,7 +181,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Spezialwissen: Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk / spezial beschlussanfechtung compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk / beschlussanfechtung compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

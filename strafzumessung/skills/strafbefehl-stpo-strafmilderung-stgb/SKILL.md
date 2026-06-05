@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-stpo-strafmilderung-stgb
-description: "Nutze dies, wenn Strafbefehl Strafzumessung 407 Stpo, Strafmilderung 49 Stgb Zwingend Fakultativ, Strafrahmen Und Strafzumessungsstufen im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Strafbefehl Strafzumessung 407 Stpo, Strafmilderung 49 Stgb Zwingend Fakultativ, Strafrahmen Und Strafzumessungsstufen prüfen.; Erstelle eine Arbeitsfassung zu Strafbefehl Strafzumessung 407 Stpo, Strafmilderung 49 Stgb Zwingend Fakultativ, Strafrahmen Und Strafzumessungsstufen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafbefehl Strafzumessung 407 Stpo, Strafmilderung 49 Stgb Zwingend Fakultativ, Strafrahmen Und Strafzumessungsstufen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Strafbefehl Strafzumessung 407 Stpo, Strafmilderung 49 Stgb Zwingend Fakultativ, Strafrahmen Und Strafzumessungsstufen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafbefehl Strafzumessung 407 Stpo, Strafmilderung 49 Stgb Zwingend Fakultativ, Strafrahmen Und Strafzumessungsstufen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -44,8 +44,8 @@ Der Strafbefehl ist ein **schriftliches** Verfahren ohne Hauptverhandlung. Die S
 
 - **§ 407 Abs. 1 StPO** — Strafbefehl auf Antrag der Staatsanwaltschaft bei Vergehen.
 - **§ 407 Abs. 2 StPO** — Sanktionskatalog:
-  - Nr. 1: Geldstrafe, Verwarnung mit Strafvorbehalt, Fahrverbot, Entziehung der Fahrerlaubnis, Sperre fuer Fahrerlaubniserteilung, Einziehung, Vernichtung, Unbrauchbarmachung, Bekanntmachung, Geldbusse.
-  - Nr. 2: Freiheitsstrafe bis 1 Jahr **mit Bewaehrung und nur mit Verteidiger**.
+ - Nr. 1: Geldstrafe, Verwarnung mit Strafvorbehalt, Fahrverbot, Entziehung der Fahrerlaubnis, Sperre fuer Fahrerlaubniserteilung, Einziehung, Vernichtung, Unbrauchbarmachung, Bekanntmachung, Geldbusse.
+ - Nr. 2: Freiheitsstrafe bis 1 Jahr **mit Bewaehrung und nur mit Verteidiger**.
 - **§ 408 StPO** — Erlass durch Richter; Pruefung des hinreichenden Tatverdachts.
 - **§ 410 Abs. 1 StPO** — Einspruchsfrist 2 Wochen ab Zustellung.
 - **§ 410 Abs. 2 StPO** — Beschraenkung des Einspruchs auf Rechtsfolgen; Schuldspruch wird rechtskraeftig.
@@ -63,19 +63,19 @@ Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenomme
 ## Schritt-fuer-Schritt-Anleitung (Verteidigung)
 
 1. **Strafbefehl pruefen**:
-   - Welche Tatbestaende, welcher Strafrahmen?
-   - Welche Anzahl Tagessaetze? Welcher Tagessatz?
-   - Gibt es Fahrverbot, Einziehung, Nebenfolgen?
+ - Welche Tatbestaende, welcher Strafrahmen?
+ - Welche Anzahl Tagessaetze? Welcher Tagessatz?
+ - Gibt es Fahrverbot, Einziehung, Nebenfolgen?
 2. **Strafzumessung pruefen**:
-   - **Tagessatzanzahl**: Ist die Schuldkomponente realistisch? Vgl. `geldstrafe-tagessatzanzahl-bestimmen`.
-   - **Tagessatzhoehe**: Stimmt die Einkommensschaetzung? Vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`.
-   - **§ 47 StGB**: Wenn Freiheitsstrafe verhaengt, sind die "besonderen Umstaende" begruendet?
+ - **Tagessatzanzahl**: Ist die Schuldkomponente realistisch? Vgl. `geldstrafe-tagessatzanzahl-bestimmen`.
+ - **Tagessatzhoehe**: Stimmt die Einkommensschaetzung? Vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`.
+ - **§ 47 StGB**: Wenn Freiheitsstrafe verhaengt, sind die "besonderen Umstaende" begruendet?
 3. **Beschraenkter Einspruch** (§ 410 Abs. 2 StPO): Schuldspruch wird rechtskraeftig; nur Rechtsfolgen werden in der Hauptverhandlung verhandelt. **Vorsicht**: BZRG-Eintrag bleibt; berufsrechtliche Folgen pruefen.
 4. **Unbeschraenkter Einspruch**: Schuldspruch wird mitverhandelt; auch Freispruch moeglich.
 5. **Strafmilderungsangebote** vorbereiten:
-   - TOA / Schadenswiedergutmachung (§ 46a StGB).
-   - Einkommensnachweise fuer realistische Tagessatzhoehe.
-   - Gestaendnis bei Einspruchsverhandlung (Gestaendnis-Rabatt).
+ - TOA / Schadenswiedergutmachung (§ 46a StGB).
+ - Einkommensnachweise fuer realistische Tagessatzhoehe.
+ - Gestaendnis bei Einspruchsverhandlung (Gestaendnis-Rabatt).
 
 ## Tagessatzhoehe — typische Korrektur-Hebel
 
@@ -152,10 +152,10 @@ Wenn das Gesetz die Milderung nach dieser Vorschrift vorschreibt:
 - **Nr. 1**: Statt **lebenslanger** Freiheitsstrafe Freiheitsstrafe **3 bis 15 Jahre**.
 - **Nr. 2**: Bei zeitiger Freiheitsstrafe darf hoechstens **3/4** des angedrohten Hoechstmasses verhaengt werden.
 - **Nr. 3**: Das erhoehte Mindestmass einer Freiheitsstrafe ermaessigt sich:
-  - bei einem Mindestmass von 10 oder 5 Jahren auf 2 Jahre;
-  - bei einem Mindestmass von 3 oder 2 Jahren auf 6 Monate;
-  - bei einem Mindestmass von 1 Jahr auf 3 Monate;
-  - im uebrigen auf das gesetzliche Mindestmass.
+ - bei einem Mindestmass von 10 oder 5 Jahren auf 2 Jahre;
+ - bei einem Mindestmass von 3 oder 2 Jahren auf 6 Monate;
+ - bei einem Mindestmass von 1 Jahr auf 3 Monate;
+ - im uebrigen auf das gesetzliche Mindestmass.
 
 ### § 49 Abs. 2 StGB — Fakultative Milderung
 
@@ -182,24 +182,24 @@ Das Gericht kann nach pflichtgemaessem Ermessen die Strafe **bis zum gesetzliche
 
 - Grundtatbestand § 249 Abs. 1 StGB: Freiheitsstrafe 1 Jahr bis 15 Jahre.
 - Beihilfe-Milderung nach § 49 Abs. 1 StGB:
-  - Hoechstmass: 3/4 von 15 Jahren = 11 Jahre 3 Monate.
-  - Mindestmass: bei Mindeststrafe von 1 Jahr ermaessigt auf 3 Monate (Nr. 3).
+ - Hoechstmass: 3/4 von 15 Jahren = 11 Jahre 3 Monate.
+ - Mindestmass: bei Mindeststrafe von 1 Jahr ermaessigt auf 3 Monate (Nr. 3).
 - Konkreter Strafrahmen: 3 Monate bis 11 Jahre 3 Monate.
 
 ### Beispiel 2: Verminderte Schuldfaehigkeit § 21 StGB beim Totschlag § 212 StGB
 
 - Grundtatbestand § 212 Abs. 1 StGB: 5 bis 15 Jahre.
 - § 21 i.V.m. § 49 Abs. 1 StGB:
-  - Hoechstmass: 3/4 von 15 Jahren = 11 Jahre 3 Monate.
-  - Mindestmass: bei Mindeststrafe von 5 Jahren ermaessigt auf 2 Jahre (Nr. 3 erste Alt.).
+ - Hoechstmass: 3/4 von 15 Jahren = 11 Jahre 3 Monate.
+ - Mindestmass: bei Mindeststrafe von 5 Jahren ermaessigt auf 2 Jahre (Nr. 3 erste Alt.).
 - Konkreter Strafrahmen: 2 Jahre bis 11 Jahre 3 Monate.
 
 ### Beispiel 3: Mehrere Milderungsgruende — Beihilfe + § 21 StGB beim Totschlag
 
 - Zwingende Milderung § 27 Abs. 2: 2 Jahre bis 11 Jahre 3 Monate (siehe Beispiel 2-Logik bei § 49 Abs. 1 StGB).
 - Hinzu § 21 StGB: erneute Milderung nach § 49 Abs. 1 StGB:
-  - Hoechstmass: 3/4 von 11 Jahren 3 Monaten = ca. 8 Jahre 5 Monate.
-  - Mindestmass: bei Ausgangsmindeststrafe von 2 Jahren ermaessigt auf 6 Monate.
+ - Hoechstmass: 3/4 von 11 Jahren 3 Monaten = ca. 8 Jahre 5 Monate.
+ - Mindestmass: bei Ausgangsmindeststrafe von 2 Jahren ermaessigt auf 6 Monate.
 - Konkreter Strafrahmen nach Mehrfachmilderung: 6 Monate bis ca. 8 Jahre 5 Monate. **BGH-Aktenzeichen zur Berechnungstechnik der mehrfachen Milderung vor Zitat verifizieren in dejure.org/openjur.de.**
 
 ## Schritt-fuer-Schritt-Anleitung
@@ -217,7 +217,7 @@ Das Gericht kann nach pflichtgemaessem Ermessen die Strafe **bis zum gesetzliche
 - **Milderung uebersehen**: Beihilfe nach § 27 Abs. 2 StGB ist **zwingend**.
 - **Mehrere Milderungen** falsch verkettet: jede Milderung wird auf das Ergebnis der vorigen angewendet.
 - **§ 49 Abs. 2 statt Abs. 1** verwendet, obwohl Norm Abs. 1 vorschreibt.
-- **§ 46a StGB** ohne Pruefung, ob Strafrahmen "nicht ueber 1 Jahr" auch fuer den **konkret** drohenden Bereich gilt (siehe Spezial-Skill).
+- **§ 46a StGB** ohne Pruefung, ob Strafrahmen "nicht ueber 1 Jahr" auch fuer den **konkret** drohenden Bereich gilt (siehe Fachmodul).
 
 ## Querverweise
 

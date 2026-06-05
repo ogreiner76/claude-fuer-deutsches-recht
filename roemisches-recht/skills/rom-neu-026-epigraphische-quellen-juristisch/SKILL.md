@@ -1,6 +1,6 @@
 ---
 name: rom-neu-026-epigraphische-quellen-juristisch
-description: "Nutze dies, wenn Römisches Recht: Epigraphische Quellen juristisch auswerten im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Römisches Recht: Epigraphische Quellen juristisch auswerten: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Römisches Recht: Epigraphische Quellen juristisch auswerten

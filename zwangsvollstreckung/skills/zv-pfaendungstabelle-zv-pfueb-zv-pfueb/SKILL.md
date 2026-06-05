@@ -1,13 +1,13 @@
 ---
 name: zv-pfaendungstabelle-zv-pfueb-zv-pfueb
-description: "Nutze dies, wenn Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank prüfen.; Erstelle eine Arbeitsfassung zu Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -135,14 +135,14 @@ Erhöhungen müssen durch Bescheinigung (Schuldnerberatung, anerkannter Berater,
 ```
 PFÄNDUNGSBERECHNUNG (Tabelle 1.7.2025)
 
-Netto:                 EUR x
-Unterhaltspflichten:   n
-Pfändbar regulär:      EUR y / Monat
+Netto: EUR x
+Unterhaltspflichten: n
+Pfändbar regulär: EUR y / Monat
 Pfändbar privilegiert: EUR z (§ 850d ZPO, Selbstbehalt EUR a)
-P-Konto-Sockel:        EUR b / Monat (+ Erhöhungen)
-Hinweis Sonderzuw.:    [§ 850a Nr. 3/4 ZPO]
+P-Konto-Sockel: EUR b / Monat (+ Erhöhungen)
+Hinweis Sonderzuw.: [§ 850a Nr. 3/4 ZPO]
 
-Tabelle gültig bis:    30.6.2027
+Tabelle gültig bis: 30.6.2027
 ```
 
 ## Qualitätsgates
@@ -220,17 +220,17 @@ Gültig seit 1.7.2025 (Bekanntmachung BMJ). Die Tabelle wird zum 1.7. jeden unge
 ```
 PFÜB ARBEITSENTGELT [Mandant] gegen [Schuldner], Az [Gericht]
 
-Titel:                 [Art, Datum, Aussteller]
-Forderung:             EUR Haupt + EUR Zinsen + EUR Kosten
-Drittschuldner:        [Arbeitgeber als juristische Person]
-Schuldner-Netto:       EUR x (zuletzt bekannter Wert, Datum)
-Unterhaltspflichten:   [Anzahl]
-Pfändbarer Betrag:     EUR y / Monat (Tabelle 1.7.2025)
-Privileg § 850d:       [ja – Unterhaltsforderung / nein]
-Sonderzuwendungen:     [erfasst nach § 850a Nr. 3/4 ZPO]
+Titel: [Art, Datum, Aussteller]
+Forderung: EUR Haupt + EUR Zinsen + EUR Kosten
+Drittschuldner: [Arbeitgeber als juristische Person]
+Schuldner-Netto: EUR x (zuletzt bekannter Wert, Datum)
+Unterhaltspflichten: [Anzahl]
+Pfändbarer Betrag: EUR y / Monat (Tabelle 1.7.2025)
+Privileg § 850d: [ja – Unterhaltsforderung / nein]
+Sonderzuwendungen: [erfasst nach § 850a Nr. 3/4 ZPO]
 
-NÄCHSTER SCHRITT:      Drittschuldnererklärung in 2 Wochen
-WIEDERVORLAGE:         DD.MM.JJJJ
+NÄCHSTER SCHRITT: Drittschuldnererklärung in 2 Wochen
+WIEDERVORLAGE: DD.MM.JJJJ
 ```
 
 ## Qualitätsgates
@@ -287,15 +287,15 @@ Pfändung und Überweisung einer Forderung des Schuldners gegen sein Kreditinsti
 1. **Titel + Klausel + Zustellung** prüfen lassen.
 2. **Drittschuldner** identifizieren: Bank, IBAN reicht nicht – Bank ist der Drittschuldner, IBAN nur Bezeichnung des Anspruchs.
 3. **Antrag bauen** an das Vollstreckungsgericht am Wohnsitz des Schuldners (§ 828 Abs. 2 ZPO). Pflichtangaben:
-   - Gläubiger, Schuldner, Drittschuldner-Bank
-   - Forderungsaufstellung (Hauptforderung, Zinsen, Kosten, Verzugskosten)
-   - genaue Bezeichnung der gepfändeten Forderung ("gesamtes Guthaben sowie alle künftigen Eingänge auf jedem Konto, das der Schuldner bei der Drittschuldnerin unterhält")
-   - Auskunftsersuchen § 840 ZPO
+ - Gläubiger, Schuldner, Drittschuldner-Bank
+ - Forderungsaufstellung (Hauptforderung, Zinsen, Kosten, Verzugskosten)
+ - genaue Bezeichnung der gepfändeten Forderung ("gesamtes Guthaben sowie alle künftigen Eingänge auf jedem Konto, das der Schuldner bei der Drittschuldnerin unterhält")
+ - Auskunftsersuchen § 840 ZPO
 4. **Formular** verwenden – Pflichtformular der ZVFV. Ab 1.10.2026 neue Muster (vereinheitlicht, XML-Anhang).
 5. **Einreichen** beim Vollstreckungsgericht: derzeit Papier oder elektronisch über beA/eBO. Ab 1.10.2026 XML-Antrag nach § 829 Abs. 5 ZPO n.F. möglich (PDF + maschinenlesbare XML, XML führend).
 6. **Zustellung an Drittschuldner** und Schuldner:
-   - bis 30.9.2027: per Gerichtsvollzieher (Papier) oder freiwillig elektronisch
-   - ab 1.10.2027: Kreditinstitute MÜSSEN sicheren Übermittlungsweg eröffnen – Pfändungen werden in der Regel elektronisch über eBO oder § 130a Abs. 4 ZPO zugestellt
+ - bis 30.9.2027: per Gerichtsvollzieher (Papier) oder freiwillig elektronisch
+ - ab 1.10.2027: Kreditinstitute MÜSSEN sicheren Übermittlungsweg eröffnen – Pfändungen werden in der Regel elektronisch über eBO oder § 130a Abs. 4 ZPO zugestellt
 7. **Drittschuldnererklärung § 840 ZPO** abwarten (zwei Wochen). Reaktion auswerten: gepfändet, gesperrt, P-Konto, andere Pfändung vorrangig.
 8. **P-Konto-Schutz prüfen**: Schuldner kann binnen vier Wochen nach Zustellung Umwandlung zum P-Konto verlangen, dann Sockelbetrag § 850k ZPO frei. Erhöhungsbeträge nach § 850k Abs. 2 ZPO.
 9. **Auszahlung** ggf. nach Ablauf des Moratoriums § 833a ZPO (vier Wochen) – Verbraucher kann in dieser Zeit Vollstreckungsschutz beantragen.
@@ -321,17 +321,17 @@ Rechtsquellen: BT-Drs. 21/4815, Bundestagsbeschluss 19.3.2026, Verkündung im BG
 ```
 PFÜB BANK [Mandant] gegen [Schuldner], Az [Gericht]
 
-Titel:                 [Art, Datum, Aussteller]
-Forderung:             EUR Haupt + EUR Zinsen + EUR Kosten = EUR gesamt
-Drittschuldner:        [Bank], BIC [...]
-Gepfändet:             gesamtes Guthaben + künftige Eingänge / nur Habensaldo / ...
-Antragsweg:            Papier / beA / ab 1.10.2026 XML nach § 829 Abs. 5 ZPO n.F.
-Zustellung Drittsch.:  GV Papier / eBO / ab 1.10.2027 Pflicht elektronisch
-P-Konto-Hinweis:       [ja / nein – Schuldner kann § 850k beantragen]
-Moratorium § 833a:     [4 Wochen – Auszahlung frühestens am DD.MM.JJJJ]
+Titel: [Art, Datum, Aussteller]
+Forderung: EUR Haupt + EUR Zinsen + EUR Kosten = EUR gesamt
+Drittschuldner: [Bank], BIC [...]
+Gepfändet: gesamtes Guthaben + künftige Eingänge / nur Habensaldo / ...
+Antragsweg: Papier / beA / ab 1.10.2026 XML nach § 829 Abs. 5 ZPO n.F.
+Zustellung Drittsch.: GV Papier / eBO / ab 1.10.2027 Pflicht elektronisch
+P-Konto-Hinweis: [ja / nein – Schuldner kann § 850k beantragen]
+Moratorium § 833a: [4 Wochen – Auszahlung frühestens am DD.MM.JJJJ]
 
-NÄCHSTER SCHRITT:      Drittschuldnererklärung in 2 Wochen abwarten
-WIEDERVORLAGE:         DD.MM.JJJJ
+NÄCHSTER SCHRITT: Drittschuldnererklärung in 2 Wochen abwarten
+WIEDERVORLAGE: DD.MM.JJJJ
 ```
 
 ## Qualitätsgates

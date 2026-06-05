@@ -1,13 +1,13 @@
 ---
 name: zv-vollstreckungsbescheid-zv
-description: "Nutze dies, wenn Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger prüfen.; Erstelle eine Arbeitsfassung zu Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765a, Zv Zvg Antrag Glaeubiger: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765A, Zv Zvg Antrag Glaeubiger** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -66,13 +66,13 @@ Der Vollstreckungsbescheid (VB) ist der Titel, den die meisten Mahnverfahren in 
 - **§ 700 Abs. 1 ZPO** – VB wirkt wie ein für vorläufig vollstreckbar erklärtes Versäumnisurteil; Sicherheitsleistung nicht erforderlich.
 - **§ 705 ZPO** – Rechtskraft tritt ein mit Ablauf der Einspruchsfrist (§ 700 Abs. 1 i.V.m. § 705 S. 2 ZPO).
 
-## Workflow VB beantragen
+## VB beantragen
 
 1. **Voraussetzungen prüfen**:
-   - Mahnbescheid erlassen und dem Antragsgegner zugestellt
-   - Frist von 14 Tagen ab Zustellung verstrichen
-   - Kein Widerspruch eingelegt (oder nur Teilwiderspruch – dann VB nur über unbestrittenen Teil)
-   - VB-Antrag innerhalb von 6 Monaten nach Mahnbescheid-Zustellung gestellt § 701 ZPO – sonst Verfall des Mahnbescheids
+ - Mahnbescheid erlassen und dem Antragsgegner zugestellt
+ - Frist von 14 Tagen ab Zustellung verstrichen
+ - Kein Widerspruch eingelegt (oder nur Teilwiderspruch – dann VB nur über unbestrittenen Teil)
+ - VB-Antrag innerhalb von 6 Monaten nach Mahnbescheid-Zustellung gestellt § 701 ZPO – sonst Verfall des Mahnbescheids
 2. **Antrag stellen** über [online-mahnantrag.de](https://www.online-mahnantrag.de): Antragsart "Vollstreckungsbescheid beantragen", Aktenzeichen des Mahnbescheids angeben, Versandverlust meldet System eigenständig.
 3. **Erlass und Zustellung** des VB an Antragsgegner von Amts wegen § 699 Abs. 4 ZPO.
 4. **Wiedervorlage** 3 Wochen nach VB-Erlass: Einspruch erfolgt? Wenn nicht: Rechtskraft, vollstrecken.
@@ -107,22 +107,22 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 VB-STATUS [Mandant] gegen [Schuldner]
 
 Mahnbescheid:
-  Zugestellt am:        [DD.MM.JJJJ]
-  Frist 14 Tage ablauf: [DD.MM.JJJJ]
-  Widerspruch:          [NEIN / JA Volltext: ...]
+ Zugestellt am: [DD.MM.JJJJ]
+ Frist 14 Tage ablauf: [DD.MM.JJJJ]
+ Widerspruch: [NEIN / JA Volltext: ...]
 
 VB-Antrag:
-  Beantragt am:         [DD.MM.JJJJ]
-  6-Monats-Frist § 701: [eingehalten]
-  VB erlassen am:       [DD.MM.JJJJ]
-  VB zugestellt am:     [DD.MM.JJJJ]
+ Beantragt am: [DD.MM.JJJJ]
+ 6-Monats-Frist § 701: [eingehalten]
+ VB erlassen am: [DD.MM.JJJJ]
+ VB zugestellt am: [DD.MM.JJJJ]
 
-Einspruchsfrist:        [Ende DD.MM.JJJJ]
-Einspruch eingegangen:  [NEIN / JA – Übergang Streitverfahren]
+Einspruchsfrist: [Ende DD.MM.JJJJ]
+Einspruch eingegangen: [NEIN / JA – Übergang Streitverfahren]
 
-Status:                 [Rechtskraft eingetreten am DD.MM.JJJJ – VOLLSTRECKBAR]
+Status: [Rechtskraft eingetreten am DD.MM.JJJJ – VOLLSTRECKBAR]
 
-Nächster Skill:         [zv-kommandocenter / zv-pfueb-bank / ...]
+Nächster Skill: [zv-kommandocenter / zv-pfueb-bank / ...]
 ```
 
 ## Qualitätsgates
@@ -254,7 +254,7 @@ Antrag des **Schuldners** auf einstweilige Einstellung, Beschränkung oder Aufhe
 ## Schreibvorlage — Antrag § 765a ZPO (verkürzt)
 
 ```
-[Anwaltskanzlei]                                              [Datum]
+[Anwaltskanzlei] [Datum]
 
 An das Amtsgericht [Ort]
 — Vollstreckungsgericht —
@@ -297,9 +297,9 @@ Schuldner-Haerte; Hinweis auf Befristung der Einstellung]
 
 V. Antrag
 1. Die Vollstreckung wird einstweilen [bis zum [Datum] / bis auf
-   weiteres mit Wiedervorlage in [X] Monaten] eingestellt.
+ weiteres mit Wiedervorlage in [X] Monaten] eingestellt.
 2. Hilfsweise: Die Vollstreckung wird auf [konkrete Maßnahme]
-   beschraenkt.
+ beschraenkt.
 
 Es wird um eilige Entscheidung gebeten; die Vollstreckung droht am
 [Datum].
@@ -405,18 +405,18 @@ Vollstreckung in das Grundstück. Wird in der Regel parallel zur PfÜB betrieben
 ```
 ZVG-ANTRAG [Mandant] gegen [Schuldner], AG [Belegenheitsgericht]
 
-Titel:                 [Art, Datum]
-Grundbuch:             [Ort, Bl, Flurst, Lage]
-Eigentümer:            [Schuldner / Dritter § 800 ZPO]
-Rangstelle:            [Abt. III, lfd Nr / Zwangshypothek § 866 erforderlich]
-Vorrangige Rechte:     EUR x (Bank, Steuer, sonstige)
-Verkehrswert:          EUR y (Schätzung)
-Geringstes Gebot:      ~ EUR z
-Verfahrenstyp:         Versteigerung / Verwaltung / beides
+Titel: [Art, Datum]
+Grundbuch: [Ort, Bl, Flurst, Lage]
+Eigentümer: [Schuldner / Dritter § 800 ZPO]
+Rangstelle: [Abt. III, lfd Nr / Zwangshypothek § 866 erforderlich]
+Vorrangige Rechte: EUR x (Bank, Steuer, sonstige)
+Verkehrswert: EUR y (Schätzung)
+Geringstes Gebot: ~ EUR z
+Verfahrenstyp: Versteigerung / Verwaltung / beides
 Beitritt § 27 möglich? [ja, AG Az / nein]
 
-NÄCHSTER SCHRITT:      Anordnung beim AG / Beitritt
-WIEDERVORLAGE:         DD.MM.JJJJ
+NÄCHSTER SCHRITT: Anordnung beim AG / Beitritt
+WIEDERVORLAGE: DD.MM.JJJJ
 ```
 
 ## Qualitätsgates

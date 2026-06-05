@@ -1,13 +1,13 @@
 ---
 name: owi-gewerberecht-ruegen-verjaehrung-berechnen
-description: "Nutze dies, wenn Owi 036 Gewerberecht Beweis Ruegen, Owi 037 Gewerberecht Verjaehrung Berechnen, Owi 038 Gewerberecht Gerichtstermin Vorbereite, Owi 039 Gewerberecht Rechtsbeschwerde Prüfen im Plugin Ordnungswidrigkeitenrecht konkret bearbeitet werden soll. Auslöser: Bitte Owi 036 Gewerberecht Beweis Ruegen, Owi 037 Gewerberecht Verjaehrung Berechnen, Owi 038 Gewerberecht Gerichtstermin Vorbereite, Owi 039 Gewerberecht Rechtsbeschwerde Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Owi 036 Gewerberecht Beweis Ruegen, Owi 037 Gewerberecht Verjaehrung Berechnen, Owi 038 Gewerberecht Gerichtstermin Vorbereite, Owi 039 Gewerberecht Rechtsbeschwerde Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Owi 036 Gewerberecht Beweis Ruegen, Owi 037 Gewerberecht Verjaehrung Berechnen, Owi 038 Gewerberecht Gerichtstermin Vorbereite, Owi 039 Gewerberecht Rechtsbeschwerde Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Owi 036 Gewerberecht Beweis Ruegen, Owi 037 Gewerberecht Verjaehrung Berechnen, Owi 038 Gewerberecht Gerichtstermin Vorbereite, Owi 039 Gewerberecht Rechtsbeschwerde Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Owi 036 Gewerberecht Beweis Ruegen, Owi 037 Gewerberecht Verjaehrung Berechnen, Owi 038 Gewerberecht Gerichtstermin Vorbereite, Owi 039 Gewerberecht Rechtsbeschwerde Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

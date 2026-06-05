@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsplanung
-description: "Nutze dies, wenn Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel

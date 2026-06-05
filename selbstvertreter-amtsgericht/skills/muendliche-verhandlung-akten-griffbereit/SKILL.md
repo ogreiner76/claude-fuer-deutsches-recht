@@ -49,13 +49,13 @@ Termin-Stichwort-Liste
 1. Anspruch: 1.250 EUR aus Kaufvertrag vom 12.03.2025
 2. Kernpunkt: Beklagter hat die Lieferung verweigert.
 3. Beweise:
-   - K1 = Vertrag (S. 2 Klausel III)
-   - K2 = Rechnung (saldiert 1.250 EUR)
-   - K3 = E-Mail Beklagter 20.04.2025 ("kann nicht zahlen")
-   - K4 = Mahnung 02.05.2025
+ - K1 = Vertrag (S. 2 Klausel III)
+ - K2 = Rechnung (saldiert 1.250 EUR)
+ - K3 = E-Mail Beklagter 20.04.2025 ("kann nicht zahlen")
+ - K4 = Mahnung 02.05.2025
 4. Gegen-Argumente Beklagter:
-   - sagt: Vertrag war nichtig wegen Wuchers
-   - meine Antwort: marktueblicher Preis (siehe K5 = Vergleichs-Angebote)
+ - sagt: Vertrag war nichtig wegen Wuchers
+ - meine Antwort: marktueblicher Preis (siehe K5 = Vergleichs-Angebote)
 5. Vergleichs-Bereitschaft: ja, ab 900 EUR
 6. Zeugen vorhanden: Zeuge Mueller zu Anruf vom 18.04.2025
 ```
@@ -64,11 +64,11 @@ Termin-Stichwort-Liste
 
 Auf einem weiteren Blatt machen Sie eine **Tabelle** mit den Streit-Punkten:
 
-| Punkt aus Klageerwiderung           | Meine Antwort / Replik           | Beweis        |
+| Punkt aus Klageerwiderung | Meine Antwort / Replik | Beweis |
 |-------------------------------------|----------------------------------|---------------|
-| Vertrag war nichtig wegen Wuchers   | Preis war marktueblich           | K5            |
-| Lieferung war mangelhaft            | War zur Zeit der Uebergabe ok    | K1 Klausel V  |
-| Mahnung kam zu spaet                | Frist eingehalten — 14 Tage      | K4 Datum      |
+| Vertrag war nichtig wegen Wuchers | Preis war marktueblich | K5 |
+| Lieferung war mangelhaft | War zur Zeit der Uebergabe ok | K1 Klausel V |
+| Mahnung kam zu spaet | Frist eingehalten — 14 Tage | K4 Datum |
 
 Diese Tabelle hilft Ihnen, im Termin **keinen Punkt zu vergessen**.
 

@@ -1,6 +1,6 @@
 ---
 name: rom-neu-020-rezeption-deutschland
-description: "Nutze dies, wenn Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus

@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-verschwiegenheit-f-e-projekten
-description: "Nutze dies, wenn Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kammerantw, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Organisati im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kammerantw, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Organisati prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwae..."
+description: "Nutze dies bei Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kammerantw: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kammerantw, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Organisati
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Verschwiegenheit In F And E Projekten Kammerantw, Patentanwaelte Verschwiegenheit In F And E Projekten Organisati, Patentanwaelte Verschwiegenheit In F And E Projekten Rechtsprec, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Kammerantw, Patentanwaelte Vertretungsbefugnis Vor Patentgericht Organisati** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

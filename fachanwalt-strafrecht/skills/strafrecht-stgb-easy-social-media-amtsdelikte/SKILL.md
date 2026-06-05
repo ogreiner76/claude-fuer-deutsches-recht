@@ -1,19 +1,19 @@
 ---
 name: strafrecht-stgb-easy-social-media-amtsdelikte
-description: "Nutze dies, wenn Strafrecht Spezial 188 Stgb Easy Verteidigung, Strafrecht Spezial 188 Stgb Social Media Beweise, Strafrecht Spezial Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Spezial Amtstraegerbestechung 332 334 Stgb, Strafrecht Spezial Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial 188 Stgb Easy Verteidigung, Strafrecht Spezial 188 Stgb Social Media Beweise, Strafrecht Spezial Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Spezial Amtstraegerbestechung 332 334 Stgb, Strafrecht Spezial Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial 188 Stgb Easy Verteidigung, Strafrecht Spezial 188 Stgb Social Media Beweise, Strafrecht Spezial Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Spezial Amtstraegerbestechung 332 334 Stgb, Strafrecht Spezial Arzneimittelstrafrecht Amg 95 96 und 5 w..."
+description: "Nutze dies bei Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafrecht Spezial 188 Stgb Easy Verteidigung, Strafrecht Spezial 188 Stgb Social Media Beweise, Strafrecht Spezial Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Spezial Amtstraegerbestechung 332 334 Stgb, Strafrecht Spezial Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen
+# Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb, Strafrecht Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb, Strafrecht Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `strafrecht-spezial-188-stgb-easy-verteidigung` | Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsworkflow bei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie. |
+| `strafrecht-spezial-188-stgb-easy-verteidigung` | Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsbei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie. |
 | `strafrecht-spezial-188-stgb-social-media-beweise` | Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram, TikTok, Telegram, WhatsApp, Blogs, Kommentarspalten und Demonstrationsvideos. Prüft Account-Zuordnung, Öffentlichkeit, Verbreiten eines Inhalts (§ 11 Abs. 3 StGB), Screenshot-Fallen, Thread-Kontext, Reichweite, Bot-/Share-Dynamik, Löschung, Plattformauskunft und Beweisanträge. |
 | `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt` | Koerperverletzung im Amt nach Paragraph 340 StGB. Sonderdelikt fuer Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausuebung des Dienstes oder Beziehung darauf. Praktisch wichtige Fallgruppen polizeilicher Schlagstockeinsatz Fixierung Tasereinsatz. Konkurrenzen Strafrahmen verschaerft. |
 | `strafrecht-spezial-amtstraegerbestechung-332-334-stgb` | Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo fuer Vergabekorruption Amtstraegerbestechung Richterbestechung. |
@@ -26,14 +26,14 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial 188 Stgb Easy Verteidigung, Strafrecht Spezial 188 Stgb Social Media Beweise, Strafrecht Spezial Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Spezial Amtstraegerbestechung 332 334 Stgb, Strafrecht Spezial Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht 188 Stgb Easy Verteidigung, Strafrecht 188 Stgb Social Media Beweise, Strafrecht Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Amtstraegerbestechung 332 334 Stgb, Strafrecht Arzneimittelstrafrecht Amg 95 96 und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-188-stgb-easy-verteidigung`
 
-**Fokus:** Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsworkflow bei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie.
+**Fokus:** Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsbei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie.
 
 # § 188 StGB — Easy-Verteidigung
 

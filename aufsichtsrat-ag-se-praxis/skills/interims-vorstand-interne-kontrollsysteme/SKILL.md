@@ -1,22 +1,22 @@
 ---
 name: interims-vorstand-interne-kontrollsysteme
-description: "Nutze dies, wenn Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste prüfen.; Erstelle eine Arbeitsfassung zu Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabschluss Checkliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `interims-vorstand` | AG/SE-Aufsichtsrat Praxis: Interims Vorstand; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `interne-kontrollsysteme` | AG/SE-Aufsichtsrat Praxis: Interne Kontrollsysteme; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `investor-activism` | AG/SE-Aufsichtsrat Praxis: Investor Activism; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `jahresabschluss-checkliste` | AG/SE-Aufsichtsrat Praxis: Jahresabschluss Checkliste; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `interims-vorstand` | AG/SE-Aufsichtsrat Praxis: Interims Vorstand; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `interne-kontrollsysteme` | AG/SE-Aufsichtsrat Praxis: Interne Kontrollsysteme; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `investor-activism` | AG/SE-Aufsichtsrat Praxis: Investor Activism; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `jahresabschluss-checkliste` | AG/SE-Aufsichtsrat Praxis: Jahresabschluss Checkliste; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Interims Vorstand, Interne Kontrollsysteme, Investor Activism, Jahresabsc
 
 ## 1. `interims-vorstand`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Interims Vorstand; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Interims Vorstand; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Interims Vorstand
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `interne-kontrollsysteme`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Interne Kontrollsysteme; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Interne Kontrollsysteme; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Interne Kontrollsysteme
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `investor-activism`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Investor Activism; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Investor Activism; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Investor Activism
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `jahresabschluss-checkliste`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Jahresabschluss Checkliste; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Jahresabschluss Checkliste; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Jahresabschluss Checkliste
 

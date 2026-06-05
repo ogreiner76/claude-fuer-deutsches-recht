@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Haushaltsrecht BHO Bund und Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Spezialskill-Routing und erste Ausgabe."
+description: "Haushaltsrecht BHO Bund und Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
 ---
 
 # Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg
 
 ## Aufgabe
 
-Führt in Haushaltsrecht BHO Bund und Länder ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Spezialskills dieses Plugins vor.
+Führt in Haushaltsrecht BHO Bund und Länder ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.
 
 ## Startfragen
 

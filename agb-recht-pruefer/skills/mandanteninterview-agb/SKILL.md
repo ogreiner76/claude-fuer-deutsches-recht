@@ -1,6 +1,6 @@
 ---
 name: mandanteninterview-agb
-description: "Einstiegs- und Workflow-Skill für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Arbeitsmodul für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Mandanteninterview AGB

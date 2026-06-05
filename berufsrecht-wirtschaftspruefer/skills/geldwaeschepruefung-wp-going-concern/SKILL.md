@@ -1,13 +1,13 @@
 ---
 name: geldwaeschepruefung-wp-going-concern
-description: "Nutze dies, wenn Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Organisationsp, Wirtschaftspruefer Going Concern Warnsignale Kammerantwort Und, Wirtschaftspruefer Going Concern Warnsignale Organisationspflic, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 2 im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Organisationsp, Wirtschaftspruefer Going Concern Warnsignale Kammerantwort Und, Wirtschaftspruefer Going Concern Warnsignale Organisationspflic, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 2 prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Organisationsp, Wirtschaftspruefer Going Concern Warnsignale Kammerantwort Und, Wirtschaftspruefer Going Concern Warnsignale Organisationspflic, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 2.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Organisationsp, Wirtschaftspruefer Going Concern Warnsignale Kammerantwort Und, Wirtschaftspruefer Going Concern Warnsignale Organisationspflic, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 2: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Organisationsp, Wirtschaftspruefer Going Concern Warnsignale Kammerantwort Und, Wirtschaftspruefer Going Concern Warnsignale Organisationspflic, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 2
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Geldwaeschepruefung Wp Praxis Organisationsp, Wirtschaftspruefer Going Concern Warnsignale Kammerantwort Und, Wirtschaftspruefer Going Concern Warnsignale Organisationspflic, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 2** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

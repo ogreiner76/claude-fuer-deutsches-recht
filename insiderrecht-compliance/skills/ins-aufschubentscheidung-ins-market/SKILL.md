@@ -1,13 +1,13 @@
 ---
 name: ins-aufschubentscheidung-ins-market
-description: "Nutze dies, wenn Ins 004 Aufschubentscheidung, Ins 008 Market Sounding im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 004 Aufschubentscheidung, Ins 008 Market Sounding prüfen.; Erstelle eine Arbeitsfassung zu Ins 004 Aufschubentscheidung, Ins 008 Market Sounding.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 004 Aufschubentscheidung, Ins 008 Market Sounding: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 004 Aufschubentscheidung, Ins 008 Market Sounding
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 004 Aufschubentscheidung, Ins 008 Market Sounding** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,7 +57,7 @@ unberechtigten Aufschubs und der daraus resultierenden Haftung nach § 97 WpHG.
 
 Prüfe, ob einer der anerkannten legitimen Interessen-Tatbestände vorliegt:
 - Laufende Verhandlungen (M&A, Refinanzierung, strategische Kooperationen), deren Ergebnis durch
-  vorzeitige Veröffentlichung wesentlich beeinträchtigt würde
+ vorzeitige Veröffentlichung wesentlich beeinträchtigt würde
 - Ausstehende Board-Entscheidung, die zur Vollständigkeit der Mitteilung erforderlich ist
 - Notwendigkeit, begleitende Maßnahmen (z. B. Kapitalerhöhung) vorzubereiten
 Nicht ausreichend: allgemeiner Wunsch nach Kursschutz, PR-Vorbereitung, Warten auf günstigeren Markt
@@ -66,7 +66,7 @@ Nicht ausreichend: allgemeiner Wunsch nach Kursschutz, PR-Vorbereitung, Warten a
 
 Prüfe, ob die verschwiegene Information im Widerspruch zu einer öffentlichen Aussage steht:
 - Steht die Insiderinformation im Widerspruch zu Gewinnprognosen, Statements des Vorstands
-  oder Investoren-Präsentationen?
+ oder Investoren-Präsentationen?
 - Hat der Emittent Marktgerüchte aktiv dementiert, die der Insiderinformation entsprechen?
 - Gilt das Irreführungsverbot auch ggü. Analysten, Rating-Agenturen, Kreditgebern.
 → Bei Widerspruch zu öffentlichen Aussagen: Aufschub nicht zulässig.
@@ -101,7 +101,7 @@ Nach Veröffentlichung: BaFin unverzüglich informieren (schriftlich), Aufschubg
 ## Red-Team-Fragen
 
 - Liegt tatsächlich ein legitimes Interesse vor, oder wird der Aufschub nur zur PR-Vorbereitung
-  verwendet?
+ verwendet?
 - Stehen öffentliche Aussagen des Emittenten im Widerspruch zur verschwiegenen Information?
 - Ist der Informationskreis wirklich auf „need to know" begrenzt?
 - Ist die Insiderliste vollständig und aktuell?
@@ -155,9 +155,9 @@ lichung. Er stellt die lückenlose DVO-konforme Dokumentation sicher.
 - Klassifiziere: Welche Informationen sind Insiderinformationen nach Art. 7 MAR?
 - Erstelle Non-Insider-Version: Informationen, die ohne Insiderstatus weitergegeben werden können.
 - Bereite Sounding-Skript und schriftliche Vorabinformation vor (Art. 11 Abs. 3 MAR):
-  a) Erklärung, dass Informationen UPSI (unpublished price-sensitive information) enthalten
-  b) Handelsverbot für Dauer des Insiderstatus
-  c) Vertraulichkeitsverpflichtung
+ a) Erklärung, dass Informationen UPSI (unpublished price-sensitive information) enthalten
+ b) Handelsverbot für Dauer des Insiderstatus
+ c) Vertraulichkeitsverpflichtung
 
 ### Schritt 2 – Wall-Crossing-Verfahren
 
@@ -185,7 +185,7 @@ Nach Ad-hoc-Veröffentlichung:
 ### Schritt 5 – Aufbewahrung
 
 - Alle Sounding-Protokolle, Wall-Crossing-Dokumente und Wall-Down-Bestätigungen:
-  5 Jahre aufbewahren (Art. 18 Abs. 5 MAR analog)
+ 5 Jahre aufbewahren (Art. 18 Abs. 5 MAR analog)
 - BaFin-Übermittlung auf Anfrage binnen 24 Stunden
 
 ## Red-Team-Fragen

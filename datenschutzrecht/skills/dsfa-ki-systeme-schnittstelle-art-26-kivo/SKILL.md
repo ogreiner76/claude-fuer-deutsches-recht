@@ -22,10 +22,10 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 - Art. 35 DSGVO Pflicht-DSFA bei voraussichtlich hohem Risiko, insbesondere bei neuen Technologien (Art. 35 Abs. 1, Abs. 3 lit. a DSGVO).
 - Art. 22 DSGVO automatisierte Einzelentscheidung.
 - VO (EU) 2024/1689 KI-VO:
-  - Art. 6, Anhang III: Hochrisiko-KI-Kategorien
-  - Art. 26 Betreiberpflichten (englisch: deployers): bestimmungsgemaesse Nutzung, menschliche Aufsicht, Logging, Information Betroffener
-  - Art. 27 Pflicht zur Grundrechte-Folgenabschaetzung (FRIA) fuer bestimmte Betreiber (oeffentliche Stellen, oeffentlich finanzierte Dienste, Kreditwuerdigkeit, Kranken- und Lebensversicherung)
-  - Art. 50 Transparenzpflichten generative KI
+ - Art. 6, Anhang III: Hochrisiko-KI-Kategorien
+ - Art. 26 Betreiberpflichten (englisch: deployers): bestimmungsgemaesse Nutzung, menschliche Aufsicht, Logging, Information Betroffener
+ - Art. 27 Pflicht zur Grundrechte-Folgenabschaetzung (FRIA) fuer bestimmte Betreiber (oeffentliche Stellen, oeffentlich finanzierte Dienste, Kreditwuerdigkeit, Kranken- und Lebensversicherung)
+ - Art. 50 Transparenzpflichten generative KI
 - EDSA-Stellungnahme 28/2024 zu KI-Modellen (Auslegung DSGVO bei KI).
 - EDSA-Leitlinien WP 248 rev.01 zur DSFA.
 - Anwendungsbeginn KI-VO: gestaffelt, Hochrisiko-Pflichten 02.08.2026.
@@ -42,8 +42,8 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 1. **Verarbeitungsbeschreibung.** Welches KI-System, welcher Zweck, welche Datenarten, welche Betroffenenkreise? Anbieter und Betreiber benennen, Anhang-III-Kategorie pruefen.
 2. **Verhaeltnismaessigkeitspruefung.** Notwendigkeit und Verhaeltnismaessigkeit der KI-gestuetzten Verarbeitung; Pruefung ob ein nicht-automatisiertes Verfahren ausreicht. Art. 5 Abs. 1 DSGVO und Erforderlichkeitspruefung.
 3. **Risikoanalyse.** Doppelblick:
-   - DSGVO-Risiken: Profiling, automatisierte Entscheidung, Trainingsdatenleck, Halluzination ueber Personen.
-   - KI-VO-Risiken: Diskriminierung durch Datenbias, fehlende menschliche Aufsicht, fehlende Robustheit.
+ - DSGVO-Risiken: Profiling, automatisierte Entscheidung, Trainingsdatenleck, Halluzination ueber Personen.
+ - KI-VO-Risiken: Diskriminierung durch Datenbias, fehlende menschliche Aufsicht, fehlende Robustheit.
 4. **Massnahmen.** TOMs nach Art. 32 DSGVO plus KI-VO-Massnahmen: menschliche Aufsicht, Logging, Transparenz, Information Betroffener (Art. 26 Abs. 11 KI-VO).
 5. **Restrisiko.** Doppelte Restrisikobewertung — fuer DSFA (Art. 35 DSGVO) und fuer FRIA (Art. 27 KI-VO), wenn diese Pflicht besteht.
 6. **Konsultation / Genehmigung.** DSB Anhoerung Art. 35 Abs. 2 DSGVO. Bei hohem Restrisiko: Art. 36 DSGVO Vorabkonsultation. Nach KI-VO: nationale Marktueberwachungsbehoerde nach Art. 70 KI-VO ggf. einbinden. Integration in Verarbeitungsverzeichnis und KI-Bestandsverzeichnis.

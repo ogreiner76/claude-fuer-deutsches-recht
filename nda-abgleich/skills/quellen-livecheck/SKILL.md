@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Nda Abgleich** ein Fall noch sortiert, Dok
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `ausgabe-changes-docx-beweislast` — Ausgabe Changes Docx Beweislast
 - `durch-interessen-echten-sonderfall-eigenen` — Durch Interessen Echten Sonderfall Eigenen
 - `gegen-gelb-gleicht` — Gegen Gelb Gleicht

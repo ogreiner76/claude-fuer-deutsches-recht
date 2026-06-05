@@ -1,13 +1,13 @@
 ---
 name: lieferkette-lksg-massnahmenplan-meldekanal
-description: "Nutze dies, wenn Lieferkette Lksg Csddd, Massnahmenplan, Meldekanal Design, Meldeprozess Sla im Plugin Hinweisgeberschutz Compliance konkret bearbeitet werden soll. Auslöser: Bitte Lieferkette Lksg Csddd, Massnahmenplan, Meldekanal Design, Meldeprozess Sla prüfen.; Erstelle eine Arbeitsfassung zu Lieferkette Lksg Csddd, Massnahmenplan, Meldekanal Design, Meldeprozess Sla.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lieferkette Lksg Csddd, Massnahmenplan, Meldekanal Design, Meldeprozess Sla: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lieferkette Lksg Csddd, Massnahmenplan, Meldekanal Design, Meldeprozess Sla
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lieferkette Lksg Csddd, Massnahmenplan, Meldekanal Design, Meldeprozess Sla** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

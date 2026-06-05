@@ -1,12 +1,12 @@
 ---
 name: massenpruefung-interessen
-description: "Nutze dies, wenn Massenpruefung: Mehrparteienkonflikt und Interessenmatrix im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Massenpruefung: Mehrparteienkonflikt und Interessenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Massenpruefung: Mehrparteienkonflikt und Interessenmatrix.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Massenpruefung: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Massenpruefung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Massenpruefung: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Massenpruefung: Mehrparteienkonflikt und Interessenmatrix / spezial massenpruefung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Massenpruefung: Mehrparteienkonflikt und Interessenmatrix / massenpruefung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DD.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

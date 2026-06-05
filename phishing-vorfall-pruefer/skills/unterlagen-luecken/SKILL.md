@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Nutze dies, wenn Unterlagen und Lücken im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Unterlagen und Lücken
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Phishing Vorfall Prüfer** ein Fall noch s
 ## Fachlandkarte dieses Plugins
 
 - `675u-675w-banking` — 675u 675w Banking
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `arbeitnehmer-haftung-bgb-675u-phish-ceo` — Arbeitnehmer Haftung Bgb 675u Phish Ceo
 - `aufsicht-bafin-bank-strategie-banking-app` — Aufsicht Bafin Bank Strategie Banking App
 - `bankpflichten-beweislast-beweislast-bgb` — Bankpflichten Beweislast Beweislast Bgb

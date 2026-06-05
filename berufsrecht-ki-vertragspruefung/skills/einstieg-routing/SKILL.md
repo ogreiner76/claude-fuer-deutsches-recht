@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Berufsrecht Ki Vertragspruefung.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Berufsrecht Ki Vertragspruefung** ein Fall
 ## Fachlandkarte dieses Plugins
 
 - `ai-act-rollen-kanzlei-provider-deployer-api` — Ai Act Rollen Kanzlei Provider Deployer Api
-- `allgemein-brki-rollout-workflow-chronologie` — Allgemein Brki Rollout Workflow Chronologie
+- `allgemein-brki-rollout-workflow-chronologie` — Allgemein Brki Rollout Chronologie
 - `anbietern-belehrung-sonderfall-edge` — Anbietern Belehrung Sonderfall Edge
 - `art-50-ki-vo-schriftsatz-marketing-chatbot` — Art 50 Ki Vo Schriftsatz Marketing Chatbot
 - `avv-grenzpruefung-brki-anbieter-brki-eu` — Avv Grenzpruefung Brki Anbieter Brki Eu

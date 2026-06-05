@@ -1,13 +1,13 @@
 ---
 name: krankenhausreform-leistungsgruppen-laborwert
-description: "Nutze dies, wenn Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Mandat Triage Medizinrecht, Medical Tourism Liability im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Mandat Triage Medizinrecht, Medical Tourism Liability prüfen.; Erstelle eine Arbeitsfassung zu Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Mandat Triage Medizinrecht, Medical Tourism Liability.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Mandat Triage Medizinrecht, Medical Tourism Liability: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Mandat Triage Medizinrecht, Medical Tourism Liability
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -245,9 +245,9 @@ Medizinrecht ist breit — vom Behandlungsfehler bis zur Pharmavermarktung. Tria
 | Behandlungsfehler-Patient | `behandlungsfehler-anspruch-pruefen` |
 | Behandlungsfehler-Arzt-Verteidigung | `behandlungsfehler-anspruch-pruefen` (Beweislast-Sicht) |
 | Honorarstreit GOÄ EBM | (Skill arzt-honorar — perspektivisch) |
-| Approbation-Widerruf | weiter an `mandat-triage-verwaltungsrecht` plus Spezial |
+| Approbation-Widerruf | weiter an `mandat-triage-verwaltungsrecht` plus |
 | KV-Plausibilitätsprüfung Regress | (Skill kv-regress — perspektivisch) |
-| Pharma-Korruption § 299a StGB | weiter an `mandat-triage-strafrecht` plus Spezial |
+| Pharma-Korruption § 299a StGB | weiter an `mandat-triage-strafrecht` plus |
 | Heilmittelwerberecht | (Skill hwg-werberecht — perspektivisch) |
 | Datenschutz Gesundheitswesen | weiter an `datenschutzrecht`-Plugin |
 

@@ -1,13 +1,13 @@
 ---
 name: kinder-schutzbeduerftige-kosten-auslagen
-description: "Nutze dies, wenn Kinder Und Schutzbeduerftige Betroffene, Kosten Auslagen Und D Und O Risiko, Lieferanten Und Auftragsverarbeiter Regress, Loeschkonzept Und Aufbewahrungsfehler im Plugin Datenschutz Sanktionsverfahren Verteidigung konkret bearbeitet werden soll. Auslöser: Bitte Kinder Und Schutzbeduerftige Betroffene, Kosten Auslagen Und D Und O Risiko, Lieferanten Und Auftragsverarbeiter Regress, Loeschkonzept Und Aufbewahrungsfehler prüfen.; Erstelle eine Arbeitsfassung zu Kinder Und Schutzbeduerftige Betroffene, Kosten Auslagen Und D Und O Risiko, Lieferanten Und Auftragsverarbeiter Regress, Loeschkonzept Und Aufbewahrungsfehler.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kinder Und Schutzbeduerftige Betroffene, Kosten Auslagen Und D Und O Risiko, Lieferanten Und Auftragsverarbeiter Regress, Loeschkonzept Und Aufbewahrungsfehler: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kinder Und Schutzbeduerftige Betroffene, Kosten Auslagen Und D Und O Risiko, Lieferanten Und Auftragsverarbeiter Regress, Loeschkonzept Und Aufbewahrungsfehler
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kinder Und Schutzbeduerftige Betroffene, Kosten Auslagen Und D Und O Risiko, Lieferanten Und Auftragsverarbeiter Regress, Loeschkonzept Und Aufbewahrungsfehler** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

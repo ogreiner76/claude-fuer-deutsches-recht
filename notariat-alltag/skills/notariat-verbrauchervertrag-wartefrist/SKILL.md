@@ -1,13 +1,13 @@
 ---
 name: notariat-verbrauchervertrag-wartefrist
-description: "Nutze dies, wenn Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal im Plugin Notariat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal prüfen.; Erstelle eine Arbeitsfassung zu Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

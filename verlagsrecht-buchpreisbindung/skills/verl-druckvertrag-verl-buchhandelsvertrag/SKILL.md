@@ -1,13 +1,13 @@
 ---
 name: verl-druckvertrag-verl-buchhandelsvertrag
-description: "Nutze dies, wenn Verl 024 Druckvertrag Papier Krise Lieferverzug, Verl 032 Buchhandelsvertrag Konditionen Und Remission im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 024 Druckvertrag Papier Krise Lieferverzug, Verl 032 Buchhandelsvertrag Konditionen Und Remission prüfen.; Erstelle eine Arbeitsfassung zu Verl 024 Druckvertrag Papier Krise Lieferverzug, Verl 032 Buchhandelsvertrag Konditionen Und Remission.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 024 Druckvertrag Papier Krise Lieferverzug, Verl 032 Buchhandelsvertrag Konditionen Und Remission: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 024 Druckvertrag Papier Krise Lieferverzug, Verl 032 Buchhandelsvertrag Konditionen Und Remission
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 024 Druckvertrag Papier Krise Lieferverzug, Verl 032 Buchhandelsvertrag Konditionen Und Remission** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -168,12 +168,12 @@ Der **Buchhandelsvertrag** zwischen Verlag (oder Auslieferung) und Buchhandlung 
 
 ### Barsortimentsrabatt vs. Direktbezug
 - **Barsortiment** (Grossist: Libri, KNV/VVA, Umbreit): Buchhandel kauft beim Barsortiment; Verlag liefert an Barsortiment.
-  - Verlagsrabatt an Barsortiment: 40–50 % des Ladenpreises.
-  - Barsortiment verkauft an Buchhandel mit 20–25 % Buchhandelsrabatt.
+ - Verlagsrabatt an Barsortiment: 40–50 % des Ladenpreises.
+ - Barsortiment verkauft an Buchhandel mit 20–25 % Buchhandelsrabatt.
 - **Direktbezug**: Buchhandel bestellt direkt beim Verlag oder dessen Auslieferung.
-  - Buchhandelsrabatt: Typisch 30–40 % je nach Bestellgröße.
-  - Kleinbuchhandlungen: 25–30 %.
-  - Großfilialketten: 35–45 %.
+ - Buchhandelsrabatt: Typisch 30–40 % je nach Bestellgröße.
+ - Kleinbuchhandlungen: 25–30 %.
+ - Großfilialketten: 35–45 %.
 
 ### Konditionenabkommen des Börsenvereins
 - Konditionenabkommen zwischen Verlegerverbänden und Buchhandelsverbänden legt Grundrabattrahmen fest.

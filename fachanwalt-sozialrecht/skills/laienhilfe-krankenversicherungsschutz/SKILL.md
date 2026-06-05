@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-krankenversicherungsschutz
-description: "Nutze dies, wenn Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Krankenversicherungsschutz, Laienhilfe Merkzeichen, Laienhilfe Muendliche Verhandlung Sg, Laienhilfe Mutterschaft Elterngeld Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -161,19 +161,19 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 ## Merkzeichen - Themenspezifika
 - **Rechtsgrundlage:** § 229 SGB IX (Merkzeichen-Voraussetzungen); § 3 Schwerbehindertenausweisverordnung (SchwbAwV); VersorgungsmedizinV / VersorgungsmedizinG.
 - **Wichtige Merkzeichen mit Voraussetzungen und Vorteilen:**
-  - **G (Gehbehinderung):** erhebliche Beeintraechtigung Bewegungsfaehigkeit im Strassenverkehr; in Behinderungsgrad-Massstaeben 50/50; Vorteil: oeffentlicher Nahverkehr unentgeltlich (mit Wertmarke EUR 91 / Jahr, ermaessigt EUR 46) bzw. KFZ-Steuerermaessigung 50 %.
-  - **aG (aussergewoehnliche Gehbehinderung):** dauerhafte Mobilitaetseinschraenkung erheblich; Voraussetzung u. a. Querschnittlaehmung, beidseitige Beinamputation, doppelte Oberschenkelamputation, vergleichbare schwerere Faelle (VersMedV strenge BSG-Linie); Vorteil: Behindertenparkplatz; KFZ-Steuerbefreiung.
-  - **B (Begleitperson):** Notwendigkeit staendiger Begleitung; Begleitperson reist im oeffentlichen Verkehr kostenlos mit.
-  - **H (Hilflosigkeit):** dauerhaft hilflos im taeglichen Leben (vergleichbar Pflegegrad 4-5); KFZ-Steuerbefreiung, hoehere Pauschbetraege.
-  - **Bl (Blindheit):** mehr als 1/50 Sehkraft beidaeugig; Landesblindengeld; KFZ-Steuerbefreiung.
-  - **Gl (Gehoerlosigkeit):** Hoer-/Sprachverlust seit dem Spracherwerb; Vorteil Telefonpauschale.
-  - **RF (Rundfunkbeitragsbefreiung):** wegen Schwerbehinderung Teilhabe an Veranstaltungen ausgeschlossen.
-  - **TBl (Taubblindheit):** Kombination Hoer- und Sehbehinderung; besondere Foerderungen.
+ - **G (Gehbehinderung):** erhebliche Beeintraechtigung Bewegungsfaehigkeit im Strassenverkehr; in Behinderungsgrad-Massstaeben 50/50; Vorteil: oeffentlicher Nahverkehr unentgeltlich (mit Wertmarke EUR 91 / Jahr, ermaessigt EUR 46) bzw. KFZ-Steuerermaessigung 50 %.
+ - **aG (aussergewoehnliche Gehbehinderung):** dauerhafte Mobilitaetseinschraenkung erheblich; Voraussetzung u. a. Querschnittlaehmung, beidseitige Beinamputation, doppelte Oberschenkelamputation, vergleichbare schwerere Faelle (VersMedV strenge BSG-Linie); Vorteil: Behindertenparkplatz; KFZ-Steuerbefreiung.
+ - **B (Begleitperson):** Notwendigkeit staendiger Begleitung; Begleitperson reist im oeffentlichen Verkehr kostenlos mit.
+ - **H (Hilflosigkeit):** dauerhaft hilflos im taeglichen Leben (vergleichbar Pflegegrad 4-5); KFZ-Steuerbefreiung, hoehere Pauschbetraege.
+ - **Bl (Blindheit):** mehr als 1/50 Sehkraft beidaeugig; Landesblindengeld; KFZ-Steuerbefreiung.
+ - **Gl (Gehoerlosigkeit):** Hoer-/Sprachverlust seit dem Spracherwerb; Vorteil Telefonpauschale.
+ - **RF (Rundfunkbeitragsbefreiung):** wegen Schwerbehinderung Teilhabe an Veranstaltungen ausgeschlossen.
+ - **TBl (Taubblindheit):** Kombination Hoer- und Sehbehinderung; besondere Foerderungen.
 - **Versorgungsmedizinische Grundsaetze (VersMedV / Anlage 2):** Mindestkriterien je Merkzeichen; behandelnder Arzt mit konkreten Funktionsbefunden untermauern.
 - **Antrag / Widerspruch:**
-  - **Antrag** beim Versorgungsamt; **Aenderungsantrag** bei Verschlechterung.
-  - **Widerspruch § 84 SGG:** 1 Monat; Klage SG 1 Monat.
-  - **§ 109 SGG-Wahl-Sachverstaendiger** bei Klage.
+ - **Antrag** beim Versorgungsamt; **Aenderungsantrag** bei Verschlechterung.
+ - **Widerspruch § 84 SGG:** 1 Monat; Klage SG 1 Monat.
+ - **§ 109 SGG-Wahl-Sachverstaendiger** bei Klage.
 - **Praxis-Tipp:** Fokus auf Funktionsbeeintraechtigung im Alltag (Gehstrecke konkret in Metern; Hilfsmittelbedarf; Begleitnotwendigkeit). Bei aG-Verweigerung: BSG-Linie zur Gleichstellung (vergleichbare schwerwiegende Faelle); Stellungnahme Facharzt unverzichtbar.
 
 

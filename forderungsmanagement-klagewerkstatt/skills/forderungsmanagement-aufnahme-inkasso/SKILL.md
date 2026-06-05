@@ -1,13 +1,13 @@
 ---
 name: forderungsmanagement-aufnahme-inkasso
-description: "Nutze dies, wenn Forderungsmanagement Aufnahme, Inkasso Zahlungsklage Ersteller, Klagevorlage Aus Eigenen Mustern im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Forderungsmanagement Aufnahme, Inkasso Zahlungsklage Ersteller, Klagevorlage Aus Eigenen Mustern prüfen.; Erstelle eine Arbeitsfassung zu Forderungsmanagement Aufnahme, Inkasso Zahlungsklage Ersteller, Klagevorlage Aus Eigenen Mustern.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Forderungsmanagement Aufnahme, Inkasso Zahlungsklage Ersteller, Klagevorlage Aus Eigenen Mustern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Forderungsmanagement Aufnahme, Inkasso Zahlungsklage Ersteller, Klagevorlage Aus Eigenen Mustern
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Forderungsmanagement Aufnahme, Inkasso Zahlungsklage Ersteller, Klagevorlage Aus Eigenen Mustern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -142,7 +142,7 @@ Dieser Skill baut aus einer Forderungsakte einen sauberen Mahn- und Klageworkflo
 ## Pflichtablauf
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Schritt 1: Akte aufnehmen
 
@@ -304,9 +304,9 @@ Pflichtschritt vor Auslieferung. Reihenfolge:
 1. **Sachliche Zuständigkeit** rechnerisch: Streitwert ≤ 10.000 EUR → AG (§ 23 Nr. 1 GVG i. d. F. seit 1.1.2026); > 10.000 EUR → LG (§ 71 GVG). Sondertatbestände beachten: Wohnraummietsachen AG ohne Streitwertgrenze (§ 23 Nr. 2a GVG), Nachbarschaftsstreitigkeiten AG (§ 23 Nr. 2e GVG), Familiensachen FamG, Handelssachen Kammer für Handelssachen (§§ 95, 96 GVG).
 2. **Örtliche Zuständigkeit** rechtlich: allgemeiner Gerichtsstand der Beklagten (§§ 12, 13 ZPO). Erfüllungsort (§ 29 ZPO) prüfen — bei Geldschulden Sitz der Klagepartei nur bei qualifizierter Schickschuld, sonst Wohnsitz Beklagte. Verbraucher-Sondertatbestand § 29c ZPO. AGB-Gerichtsstand prüfen, aber bei Verbrauchern nach § 38 ZPO unwirksam.
 3. **Online-Adressrecherche** (immer ausführen):
-   - Für NRW-Anschriften: `pplx content fetch "https://www.justizadressen.nrw.de/de/justiz/suche?suchbegriff=<PLZ_oder_Ort>"` (PLZ oder Ort der Beklagten). Wenn PLZ allein nicht reicht, mit Ort nachfassen.
-   - Bundesweit ergänzend: `pplx content fetch "https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php"` und Landes-Justizportale.
-   - Treffer prüfen und Bezeichnung, Postanschrift, Telefax und — wo bekannt — die BeA-EGVP-SAFE-ID (Bundesweites elektronisches Adressverzeichnis SAFE, abrufbar in beA bzw. unter justiz.de) einsetzen. Wenn keine SAFE-ID gelistet, mit dem Hinweis "EGVP-Adresse über beA-Adressbuch (SAFE-ID) zu ergänzen" markieren.
+ - Für NRW-Anschriften: `pplx content fetch "https://www.justizadressen.nrw.de/de/justiz/suche?suchbegriff=<PLZ_oder_Ort>"` (PLZ oder Ort der Beklagten). Wenn PLZ allein nicht reicht, mit Ort nachfassen.
+ - Bundesweit ergänzend: `pplx content fetch "https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php"` und Landes-Justizportale.
+ - Treffer prüfen und Bezeichnung, Postanschrift, Telefax und — wo bekannt — die BeA-EGVP-SAFE-ID (Bundesweites elektronisches Adressverzeichnis SAFE, abrufbar in beA bzw. unter justiz.de) einsetzen. Wenn keine SAFE-ID gelistet, mit dem Hinweis "EGVP-Adresse über beA-Adressbuch (SAFE-ID) zu ergänzen" markieren.
 4. Quelle und Abrufdatum stets im Output ausweisen (Anlage `Zuständigkeitsprüfung`).
 
 **Schritt 7 — Klageschrift erzeugen**
@@ -321,11 +321,11 @@ Aus den Hausregeln und der Standardvorlage wird ein eigenes Plugin gepackt:
 
 - Skript: `python scripts/plugin_aus_hausregeln.py --kanzlei "<Name>" --vorlage <pfad.md> --regeln <regeln.json> --ziel <ziel.zip>`.
 - Inhalt des ZIP:
-  - `klagewerkstatt-<slug>/.claude-plugin/plugin.json` (Name `klagewerkstatt-<slug>`, Version 0.1.0).
-  - `klagewerkstatt-<slug>/skills/klage-erstellen/SKILL.md` (siehe Schwester-Skill `klage-aus-eigenem-skill` als Bauanleitung; im erzeugten Plugin lebt die Skill-Datei eigenständig).
-  - `klagewerkstatt-<slug>/assets/vorlage/standardklage.md` und `.docx`.
-  - `klagewerkstatt-<slug>/references/hausregeln.json`, `belegmuster.md`, `anlagenliste.md`, `zustaendigkeit-quellen.md`.
-  - `klagewerkstatt-<slug>/README.md` mit Direkt-Download-Hinweis und Installationsanleitung.
+ - `klagewerkstatt-<slug>/.claude-plugin/plugin.json` (Name `klagewerkstatt-<slug>`, Version 0.1.0).
+ - `klagewerkstatt-<slug>/skills/klage-erstellen/SKILL.md` (siehe Schwester-Skill `klage-aus-eigenem-skill` als Bauanleitung; im erzeugten Plugin lebt die Skill-Datei eigenständig).
+ - `klagewerkstatt-<slug>/assets/vorlage/standardklage.md` und `.docx`.
+ - `klagewerkstatt-<slug>/references/hausregeln.json`, `belegmuster.md`, `anlagenliste.md`, `zustaendigkeit-quellen.md`.
+ - `klagewerkstatt-<slug>/README.md` mit Direkt-Download-Hinweis und Installationsanleitung.
 - ZIP-Dateiname `klagewerkstatt-<slug>.zip`. Datei dem Nutzer zum Download geben mit Installationsanweisung für Claude Code (`Customize Plugins → Install from .zip`).
 
 **Schritt 9 — Memo (nur auf Anfrage)**
@@ -382,9 +382,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Bei drohender Zahlungsunfähigkeit der Beklagten an Liquiditätsplanung (`liquiditaetsplanung`) zur Schnellprüfung.
 - Bei einstweiligem Rechtsschutz/Mahnverfahren an `prozessrecht` (Plugin) oder das freistehende
-  Plugin `zwangsvollstreckung` (`zv-mahnbescheid-online`, `zv-vollstreckungsbescheid-folge`) verweisen.
+ Plugin `zwangsvollstreckung` (`zv-mahnbescheid-online`, `zv-vollstreckungsbescheid-folge`) verweisen.
 - Nach Rechtskraft des Titels an `zwangsvollstreckung` zur operativen Durchsetzung (`zv-pfueb-bank`,
-  `zv-pfueb-arbeitsentgelt`, `zv-vermoegensauskunft-gv`).
+ `zv-pfueb-arbeitsentgelt`, `zv-vermoegensauskunft-gv`).
 - Wenn der Nutzer beim nächsten Mal nur den Sachverhalt einreichen will: Schwester-Skill `klage-aus-eigenem-skill` mit dem im Schritt 8 erzeugten Plugin verwenden.
 
 ---

@@ -1,20 +1,20 @@
 ---
 name: nachvertragliche-provision-rechtsabteilung
-description: "Nutze dies, wenn Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wettbewerbsverbot 90A Hgb, Vertragshaendler Abgrenzung, Vertragsredline im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wettbewerbsverbot 90A Hgb, Vertragshaendler Abgrenzung, Vertragsredline prüfen.; Erstelle eine Arbeitsfassung zu Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wettbewerbsverbot 90A Hgb, Vertragshaendler Abgrenzung, Vertragsredline.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wettbewerbsverbot 90a Hgb, Vertragshaendler Abgrenzung, Vertragsredline: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wettbewerbsverbot 90A Hgb, Vertragshaendler Abgrenzung, Vertragsredline
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nachvertragliche Provision, Rechtsabteilung Nachvertragliches Wettbewerbsverbot 90A Hgb, Vertragshaendler Abgrenzung, Vertragsredline** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `nachvertragliche-provision` | Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche. |
-| `rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb` | Rechtsabteilungs-Spezialskill für Nachvertragliches Wettbewerbsverbot § 90a HGB: Wettbewerbsverbote werden nach Gebiet, Kundenkreis, Dauer und Entschädigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb` | Rechtsabteilungs-Fachmodul für Nachvertragliches Wettbewerbsverbot § 90a HGB: Wettbewerbsverbote werden nach Gebiet, Kundenkreis, Dauer und Entschädigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `vertragshaendler-abgrenzung` | Prüft die Abgrenzung zwischen Handelsvertreter und Vertragshändler: Eigenhändler kauft im eigenen Namen und auf eigene Rechnung und hat keinen gesetzlichen Ausgleich nach § 89b HGB, analoge Anwendung bei Einbindung wie Handelsvertreter nach BGH-Rechtsprechung sowie vertragliche Gestaltungsoptionen. |
 | `vertragsredline` | Unterstützt beim Redigieren und Verhandeln von Handelsvertreterverträgen: systematisches Redline-Verfahren für Klauseln zu Provision, Ausgleich, Kündigung, Wettbewerbsverbot und AGB, Prüfung auf Konformität mit §§ 84–92c HGB sowie Erstellung eines kommentierten Gegenentwurfs. |
 
@@ -106,7 +106,7 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 
 ## 2. `rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Nachvertragliches Wettbewerbsverbot § 90a HGB: Wettbewerbsverbote werden nach Gebiet, Kundenkreis, Dauer und Entschädigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Nachvertragliches Wettbewerbsverbot § 90a HGB: Wettbewerbsverbote werden nach Gebiet, Kundenkreis, Dauer und Entschädigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Nachvertragliches Wettbewerbsverbot § 90a HGB
 

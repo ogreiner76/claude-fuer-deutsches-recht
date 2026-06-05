@@ -1,13 +1,13 @@
 ---
 name: datenschutzerklaerung-tracking-digitale
-description: "Nutze dies, wenn Datenschutzerklaerung Tracking Consent Dsgvo Ttdsg Tdddg, Digitale Inhalte Abo Kuendigungsbutton, Domainrecht Cybersquatting im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Datenschutzerklaerung Tracking Consent Dsgvo Ttdsg Tdddg, Digitale Inhalte Abo Kuendigungsbutton, Domainrecht Cybersquatting prüfen.; Erstelle eine Arbeitsfassung zu Datenschutzerklaerung Tracking Consent Dsgvo Ttdsg Tdddg, Digitale Inhalte Abo Kuendigungsbutton, Domainrecht Cybersquatting.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Datenschutzerklaerung Tracking Consent Dsgvo Ttdsg Tdddg, Digitale Inhalte Abo Kuendigungsbutton, Domainrecht Cybersquatting: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Datenschutzerklaerung Tracking Consent Dsgvo Ttdsg Tdddg, Digitale Inhalte Abo Kuendigungsbutton, Domainrecht Cybersquatting
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutzerklaerung Tracking Consent Dsgvo Ttdsg Tdddg, Digitale Inhalte Abo Kuendigungsbutton, Domainrecht Cybersquatting** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

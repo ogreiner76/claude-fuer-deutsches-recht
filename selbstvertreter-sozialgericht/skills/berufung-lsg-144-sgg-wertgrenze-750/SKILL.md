@@ -62,7 +62,7 @@ Siehe `berufung-zulassung-besondere-bedeutung`.
 ### Schritt 3 — Berufungsschrift
 
 ```
-Landessozialgericht [Land]                          [Ort, Datum]
+Landessozialgericht [Land] [Ort, Datum]
 
 In dem Verfahren
 
@@ -83,7 +83,7 @@ B E R U F U N G
 
 Ich lege gegen das Urteil des Sozialgerichts [Ort] vom [Datum], zugestellt am [Datum], Az [...]
 
-                       Berufung
+ Berufung
 
 ein.
 

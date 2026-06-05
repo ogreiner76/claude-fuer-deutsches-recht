@@ -1,12 +1,12 @@
 ---
 name: klauseln-beweislast-darlegungslast
-description: "Nutze dies, wenn Klauseln: Beweislast, Darlegungslast und Substantiierung im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Klauseln: Beweislast, Darlegungslast und Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Klauseln: Beweislast, Darlegungslast und Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klauseln: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Klauseln: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Klauseln: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Klauseln: Beweislast, Darlegungslast und Substantiierung / spezial klauseln beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Klauseln: Beweislast, Darlegungslast und Substantiierung / klauseln beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

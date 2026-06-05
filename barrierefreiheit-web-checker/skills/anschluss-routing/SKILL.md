@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Nutze dies, wenn Anschluss-Routing im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Barrierefreiheit Web Checker.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Anschluss-Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Barrierefreiheit Web Checker** ein Fall no
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `audit-barrierefreiheits-bfsg` — Audit Barrierefreiheits Bfsg
 - `bf-kiosk-bf-mediendienste-bf-pdf` — Bf Kiosk Bf Mediendienste Bf Pdf
 - `bfsg-zeitleiste-ecommerce-checkout-en301549-wcag` — Bfsg Zeitleiste Ecommerce Checkout En301549 Wcag
@@ -29,7 +29,7 @@ Nutze diesen Skill, wenn im Bereich **Barrierefreiheit Web Checker** ein Fall no
 ## Arbeitsweg
 
 - Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Spezialpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
+- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
 - Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
 - Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
 

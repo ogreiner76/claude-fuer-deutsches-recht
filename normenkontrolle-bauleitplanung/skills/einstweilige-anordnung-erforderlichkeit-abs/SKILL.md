@@ -1,20 +1,20 @@
 ---
 name: einstweilige-anordnung-erforderlichkeit-abs
-description: "Nutze dies, wenn Einstweilige Anordnung 47 Abs 6 Vwgo, Erforderlichkeit 1 Abs 3 Baugb, Festsetzungskatalog 9 Baugb Baunvo im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Einstweilige Anordnung 47 Abs 6 Vwgo, Erforderlichkeit 1 Abs 3 Baugb, Festsetzungskatalog 9 Baugb Baunvo prüfen.; Erstelle eine Arbeitsfassung zu Einstweilige Anordnung 47 Abs 6 Vwgo, Erforderlichkeit 1 Abs 3 Baugb, Festsetzungskatalog 9 Baugb Baunvo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Einstweilige Anordnung 47 Abs 6 Vwgo, Erforderlichkeit 1 Abs 3 Baugb, Festsetzungskatalog 9 Baugb Baunvo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Einstweilige Anordnung 47 Abs 6 Vwgo, Erforderlichkeit 1 Abs 3 Baugb, Festsetzungskatalog 9 Baugb Baunvo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Einstweilige Anordnung 47 Abs 6 Vwgo, Erforderlichkeit 1 Abs 3 Baugb, Festsetzungskatalog 9 Baugb Baunvo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `einstweilige-anordnung-47-abs-6-vwgo` | Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaftmachung. Output: Eilantrag § 47 Abs. 6 VwGO Schriftsatz. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache) und jahresfrist-47-abs-2-vwgo (Frist beachten). |
-| `erforderlichkeit-1-abs-3-baugb` | Workflow-Skill zu erforderlichkeit 1 abs 3 baugb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `erforderlichkeit-1-abs-3-baugb` | Arbeitsmodul zu erforderlichkeit 1 abs 3 baugb: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `festsetzungskatalog-9-baugb-baunvo` | Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog BauNVO. Prüfraster: Festsetzungen außerhalb des Katalogs unwirksam BauNVO Art und Mass bauliche Nutzung GRZ GFZ Vollgeschosse Hoechstgrenzen § 17 BauNVO Stellplaetze § 9 Abs. 1 Nr. 4 BauGB Schallschutz § 9 Abs. 1 Nr. 24 BauGB. Output: Festsetzungs-Prüfprotokoll und Teilunwirksamkeitsbegründung. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegung) und vorhabenbezogener-bebauungsplan-12-baugb. |
 
 ## Arbeitsweg
@@ -121,15 +121,15 @@ Der Eilantrag ist die schärfste Waffe der Mandantenseite. Bei drohendem Vollzug
 2. Statthaftigkeit und Antragsbefugnis (kurz)
 3. Sachverhalt (kompakt — Eilrichter haben wenig Zeit)
 4. Eilbedürftigkeit
-   4.1 Drohender Vollzug konkret (Baugenehmigung beantragt, Bauarbeiten geplant)
-   4.2 Irreversibilität bei Realisierung
+ 4.1 Drohender Vollzug konkret (Baugenehmigung beantragt, Bauarbeiten geplant)
+ 4.2 Irreversibilität bei Realisierung
 5. Erfolgsprognose Hauptsache
-   5.1 Stärkste Fehler kompakt
-   5.2 Verweis auf Hauptsacheschriftsatz für Details
+ 5.1 Stärkste Fehler kompakt
+ 5.2 Verweis auf Hauptsacheschriftsatz für Details
 6. Vollzugsfolgenabwägung
-   6.1 Folgen ohne Eilanordnung
-   6.2 Folgen mit Eilanordnung
-   6.3 Saldo
+ 6.1 Folgen ohne Eilanordnung
+ 6.2 Folgen mit Eilanordnung
+ 6.3 Saldo
 7. Glaubhaftmachung-Anlagen
 8. Streitwert
 
@@ -206,7 +206,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `erforderlichkeit-1-abs-3-baugb`
 
-**Fokus:** Workflow-Skill zu erforderlichkeit 1 abs 3 baugb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu erforderlichkeit 1 abs 3 baugb: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Erforderlichkeit § 1 Abs. 3 BauGB
 
@@ -570,9 +570,9 @@ Drei Faktoren nach § 16 ff. BauNVO:
 
 - Art. 47 Abs. 2 Satz 2 BayBO: B-Plan kann abweichend festsetzen
 - Voraussetzungen:
-  - städtebauliche Rechtfertigung
-  - anderweitige Bedarfsdeckung (z.B. ÖPNV-Nähe, Mobilitätskonzept)
-  - Verhältnismäßigkeit
+ - städtebauliche Rechtfertigung
+ - anderweitige Bedarfsdeckung (z.B. ÖPNV-Nähe, Mobilitätskonzept)
+ - Verhältnismäßigkeit
 
 ### Praktische Höchstgrenze
 
@@ -595,10 +595,10 @@ Drei Faktoren nach § 16 ff. BauNVO:
 ### DIN 18005
 
 - Orientierungswerte:
-  - Reines Wohngebiet 50 dB(A) Tag / 35 dB(A) Nacht
-  - Allgemeines Wohngebiet 55 / 40 dB(A)
-  - Mischgebiet 60 / 45 dB(A)
-  - Urbanes Gebiet 63 / 48 dB(A)
+ - Reines Wohngebiet 50 dB(A) Tag / 35 dB(A) Nacht
+ - Allgemeines Wohngebiet 55 / 40 dB(A)
+ - Mischgebiet 60 / 45 dB(A)
+ - Urbanes Gebiet 63 / 48 dB(A)
 - Statische Bezugnahme zulässig
 
 ### TA Lärm

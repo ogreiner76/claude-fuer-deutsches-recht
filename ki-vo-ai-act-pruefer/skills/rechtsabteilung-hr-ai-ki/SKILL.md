@@ -1,22 +1,22 @@
 ---
 name: rechtsabteilung-hr-ai-ki
-description: "Nutze dies, wenn Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformitaetsbescheinigung Für Vorstand, Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa Linie, Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-hr-ai-als-hochrisikosystem` | Rechtsabteilungs-Spezialskill für HR-AI als Hochrisikosystem: Recruiting, Beförderung, Kündigungsrisiko und Beschäftigtendaten werden als Complianceakte geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-ki-konformitaetsbescheinigung-fuer-vorstand` | Rechtsabteilungs-Spezialskill für KI-Konformitätsbescheinigung für Vorstand: Management bekommt eine belegbare Konformitätsakte mit Restrisiko und Maßnahmenplan. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-kreditwuerdigkeits-ki-nach-schufa-linie` | Rechtsabteilungs-Spezialskill für Kreditwürdigkeits-KI nach Schufa-Linie: Scoring wird zugleich nach AI Act, DSGVO und Bankaufsicht eingeordnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-provider-deployer-grenze-bei-custom-gpt` | Rechtsabteilungs-Spezialskill für Provider-Deployer-Grenze bei Custom GPT: Rollenwechsel durch Fine-Tuning, Systemprompt und Vertrieb wird geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-hr-ai-als-hochrisikosystem` | Rechtsabteilungs-Fachmodul für HR-AI als Hochrisikosystem: Recruiting, Beförderung, Kündigungsrisiko und Beschäftigtendaten werden als Complianceakte geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-ki-konformitaetsbescheinigung-fuer-vorstand` | Rechtsabteilungs-Fachmodul für KI-Konformitätsbescheinigung für Vorstand: Management bekommt eine belegbare Konformitätsakte mit Restrisiko und Maßnahmenplan. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-kreditwuerdigkeits-ki-nach-schufa-linie` | Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach Schufa-Linie: Scoring wird zugleich nach AI Act, DSGVO und Bankaufsicht eingeordnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-provider-deployer-grenze-bei-custom-gpt` | Rechtsabteilungs-Fachmodul für Provider-Deployer-Grenze bei Custom GPT: Rollenwechsel durch Fine-Tuning, Systemprompt und Vertrieb wird geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Rechtsabteilung Hr Ai Als Hochrisikosystem, Rechtsabteilung Ki Konformita
 
 ## 1. `rechtsabteilung-hr-ai-als-hochrisikosystem`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für HR-AI als Hochrisikosystem: Recruiting, Beförderung, Kündigungsrisiko und Beschäftigtendaten werden als Complianceakte geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für HR-AI als Hochrisikosystem: Recruiting, Beförderung, Kündigungsrisiko und Beschäftigtendaten werden als Complianceakte geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: HR-AI als Hochrisikosystem
 
@@ -67,7 +67,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-ki-konformitaetsbescheinigung-fuer-vorstand`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für KI-Konformitätsbescheinigung für Vorstand: Management bekommt eine belegbare Konformitätsakte mit Restrisiko und Maßnahmenplan. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für KI-Konformitätsbescheinigung für Vorstand: Management bekommt eine belegbare Konformitätsakte mit Restrisiko und Maßnahmenplan. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: KI-Konformitätsbescheinigung für Vorstand
 
@@ -107,7 +107,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-kreditwuerdigkeits-ki-nach-schufa-linie`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Kreditwürdigkeits-KI nach Schufa-Linie: Scoring wird zugleich nach AI Act, DSGVO und Bankaufsicht eingeordnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach Schufa-Linie: Scoring wird zugleich nach AI Act, DSGVO und Bankaufsicht eingeordnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kreditwürdigkeits-KI nach Schufa-Linie
 
@@ -147,7 +147,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-provider-deployer-grenze-bei-custom-gpt`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Provider-Deployer-Grenze bei Custom GPT: Rollenwechsel durch Fine-Tuning, Systemprompt und Vertrieb wird geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Provider-Deployer-Grenze bei Custom GPT: Rollenwechsel durch Fine-Tuning, Systemprompt und Vertrieb wird geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Provider-Deployer-Grenze bei Custom GPT
 

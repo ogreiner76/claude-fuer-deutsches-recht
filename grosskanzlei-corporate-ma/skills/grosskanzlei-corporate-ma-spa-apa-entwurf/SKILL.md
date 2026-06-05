@@ -53,7 +53,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Term Sheet auswearten:** Kernparameter extrahieren — Kaufpreis, Struktur, Garantien, CPs, Rechtsordnung
 2. **DD-Findings in SPA uebertragen:** Material Issues → spezifische Garantieausnahmen oder Freistellungen; Red Flags → MAC-Trigger oder Haftungsausschluss
@@ -95,30 +95,30 @@ SHARE PURCHASE AGREEMENT (ENTWURF)
 
 1. DEFINITIONEN UND AUSLEGUNG
 2. KAUF UND UEBERTRAGUNG DER ANTEILE
-   2.1 Gegenstand; Kaufpreis (Locked Box / Completion Accounts)
-   2.2 Anpassungsmechanismus / Earn-Out-Formel
+ 2.1 Gegenstand; Kaufpreis (Locked Box / Completion Accounts)
+ 2.2 Anpassungsmechanismus / Earn-Out-Formel
 3. SIGNING UND CLOSING
-   3.1 Signing-Datum [DATUM]
-   3.2 Closing Conditions (Anlagen 3.2.1 bis 3.2.X)
-   3.3 Closing-Ablauf (Zug-um-Zug)
+ 3.1 Signing-Datum [DATUM]
+ 3.2 Closing Conditions (Anlagen 3.2.1 bis 3.2.X)
+ 3.3 Closing-Ablauf (Zug-um-Zug)
 4. GARANTIEN DES VERKAEUFERS
-   4.1 Title- und Anteilsgarantien
-   4.2 Business Warranties (Anlage 4.2)
-   4.3 Financial Statements-Garantie
-   4.4 Tax Warranties
-   4.5 Ausnahmen gemaess Disclosure Letter (Anlage 4.5)
+ 4.1 Title- und Anteilsgarantien
+ 4.2 Business Warranties (Anlage 4.2)
+ 4.3 Financial Statements-Garantie
+ 4.4 Tax Warranties
+ 4.5 Ausnahmen gemaess Disclosure Letter (Anlage 4.5)
 5. HAFTUNGSRAHMEN
-   5.1 Cap: [BETRAG / PROZENTSATZ]
-   5.2 Basket: [TIPPING / DEDUCTIBLE] Schwellenwert: [BETRAG]
-   5.3 Verjährung: 18 Monate ab Closing; Steuergarantien: Veranlagungszeitraum + 3 Monate
+ 5.1 Cap: [BETRAG / PROZENTSATZ]
+ 5.2 Basket: [TIPPING / DEDUCTIBLE] Schwellenwert: [BETRAG]
+ 5.3 Verjährung: 18 Monate ab Closing; Steuergarantien: Veranlagungszeitraum + 3 Monate
 6. MAC-KLAUSEL (MATERIAL ADVERSE CHANGE)
 7. KAEUFER-GARANTIEN
 8. SCHLUSSBESTIMMUNGEN (Schiedsklausel / Gerichtsstand, Rechtsordnung, Kosten)
 
 ANLAGEN:
-  Anlage 3.2 — Closing Deliverables
-  Anlage 4.2 — Business Warranties
-  Anlage 4.5 — Disclosure Letter
+ Anlage 3.2 — Closing Deliverables
+ Anlage 4.2 — Business Warranties
+ Anlage 4.5 — Disclosure Letter
 ```
 
 --- vor Versand klaeren ---

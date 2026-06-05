@@ -1,13 +1,13 @@
 ---
 name: stoerfall-anlagen-transaktionen-dd
-description: "Nutze dies, wenn Umweltrecht Stoerfall Anlagen, Umweltrecht Transaktionen Dd, Umweltrecht Umweltinformation Uig Ifg im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Umweltrecht Stoerfall Anlagen, Umweltrecht Transaktionen Dd, Umweltrecht Umweltinformation Uig Ifg prüfen.; Erstelle eine Arbeitsfassung zu Umweltrecht Stoerfall Anlagen, Umweltrecht Transaktionen Dd, Umweltrecht Umweltinformation Uig Ifg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umweltrecht Stoerfall Anlagen, Umweltrecht Transaktionen Dd, Umweltrecht Umweltinformation Uig Ifg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umweltrecht Stoerfall Anlagen, Umweltrecht Transaktionen Dd, Umweltrecht Umweltinformation Uig Ifg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umweltrecht Stoerfall Anlagen, Umweltrecht Transaktionen Dd, Umweltrecht Umweltinformation Uig Ifg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -63,7 +63,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### A) Praeventive Compliance-Pruefung
 
@@ -87,13 +87,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Stoff in Anhang I 12. BImSchV?
-  JA → Menge erreicht Spalte-1-Schwelle?
-         JA → Grundpflichten (§§ 3-9 12. BImSchV)
-              Menge erreicht Spalte-2-Schwelle?
-                JA → Erweiterte Pflichten incl. Sicherheitsbericht § 16
-                NEIN → Nur Grundpflichten
-         NEIN → Keine Stoerfall-VO-Pflicht; normale BImSchG-Anforderungen
-  NEIN → Keine Stoerfall-Relevanz
+ JA → Menge erreicht Spalte-1-Schwelle?
+ JA → Grundpflichten (§§ 3-9 12. BImSchV)
+ Menge erreicht Spalte-2-Schwelle?
+ JA → Erweiterte Pflichten incl. Sicherheitsbericht § 16
+ NEIN → Nur Grundpflichten
+ NEIN → Keine Stoerfall-VO-Pflicht; normale BImSchG-Anforderungen
+ NEIN → Keine Stoerfall-Relevanz
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -211,7 +211,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow DD
+## Schritt-fuer-Schritt-DD
 
 ### Phase 1: Kick-off und Scope-Setting
 
@@ -329,7 +329,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### A) Antragsteller (Buerger, NGO, Unternehmen)
 
@@ -350,12 +350,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Informationsbegehren
-  → UIG oder IFG? (Umweltbezug → UIG; allgemeine Behoerde → IFG)
-      → Behoerde bundesrechtlich? (Bund: UIG-Bund/IFG; Land: UIG-Land/LIFG)
-          → Antrag stellen, 1-Monats-Frist abwarten
-              → Keine Antwort? → Untaetigkeit-Klage VG
-              → Ablehnung? → Widerspruch (falls vorgesehen) → Klage VG
-              → Drittbeteiligung? → Stellungnahme Geheimhaltung → Behoerde entscheidet → Klage des Dritten moeglich
+ → UIG oder IFG? (Umweltbezug → UIG; allgemeine Behoerde → IFG)
+ → Behoerde bundesrechtlich? (Bund: UIG-Bund/IFG; Land: UIG-Land/LIFG)
+ → Antrag stellen, 1-Monats-Frist abwarten
+ → Keine Antwort? → Untaetigkeit-Klage VG
+ → Ablehnung? → Widerspruch (falls vorgesehen) → Klage VG
+ → Drittbeteiligung? → Stellungnahme Geheimhaltung → Behoerde entscheidet → Klage des Dritten moeglich
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -386,7 +386,7 @@ Antragsteller: [NAME], [ADRESSE]
 Ich beantrage Zugang zu folgenden Umweltinformationen:
 
 1. [Konkrete Beschreibung der gesuchten Information]
-   Bezug: [Anlage, Ort, Verfahren, Datum]
+ Bezug: [Anlage, Ort, Verfahren, Datum]
 
 2. [Zweite Information, falls mehrere]
 
@@ -432,11 +432,11 @@ I. Hiermit legen wir Widerspruch ein.
 II. Begruendung
 Die Ablehnung ist rechtswidrig:
 a) § 9 UIG Geheimnisschutz: Die Behoerde hat keine eigene Abwaegung vorgenommen.
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 b) § 8 UIG laufende Verfahren: Das Verfahren ist abgeschlossen; Ausschlussgrund
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 c) Emissionsdaten sind nach § 9 Abs. 1 Satz 2 UIG grundsaetzlich offenzulegen
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Antrag
 Wir beantragen, den Ablehnungsbescheid aufzuheben und die Informationen herauszugeben.

@@ -140,12 +140,12 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Distribution Tax, e-Residency-Substanz, CFC.
 3. **Kurzantwort**: DBA-Estland 1996 (mit Aenderungsprotokoll 2020) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-EE; POEM bei e-Residency).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
-   - Methodenartikel.
-   - § 7 ff. AStG-CFC bei Distribution-Tax-System; § 50d Abs. 3 EStG.
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-EE; POEM bei e-Residency).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+ - Methodenartikel.
+ - § 7 ff. AStG-CFC bei Distribution-Tax-System; § 50d Abs. 3 EStG.
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: e-Residency-POEM, CFC bei Estonian Tax Model, Pillar Two, Aenderungsprotokoll 2020 ab 01.01.2022, MLI bilaterale Umsetzung.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

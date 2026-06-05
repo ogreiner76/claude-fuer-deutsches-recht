@@ -1,13 +1,13 @@
 ---
 name: folgekorrespondenz-vorbereiten-konfliktcheck
-description: "Nutze dies, wenn Folgekorrespondenz Vorbereiten, Konfliktcheck Vorab, Ma Aufnahmegespraech Leitfaden im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Bitte Folgekorrespondenz Vorbereiten, Konfliktcheck Vorab, Ma Aufnahmegespraech Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Folgekorrespondenz Vorbereiten, Konfliktcheck Vorab, Ma Aufnahmegespraech Leitfaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Folgekorrespondenz Vorbereiten, Konfliktcheck Vorab, Ma Aufnahmegespraech Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Folgekorrespondenz Vorbereiten, Konfliktcheck Vorab, Ma Aufnahmegespraech Leitfaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Folgekorrespondenz Vorbereiten, Konfliktcheck Vorab, Ma Aufnahmegespraech Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,33 +55,33 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 === NEUER VORGANG — ERSTANFRAGE ===
-Eingangsdatum:     [DATUM UND UHRZEIT]
-Eingangskanal:     E-Mail
+Eingangsdatum: [DATUM UND UHRZEIT]
+Eingangskanal: E-Mail
 
 --- KONTAKT ---
-Name:              [NACHNAME, VORNAME] | [Titel falls vorhanden]
-E-Mail:            [ABSENDER-ADRESSE]
-Telefon:           [TELEFONNUMMER oder "nicht genannt"]
-Postanschrift:     [ADRESSE oder "nicht genannt"]
-Sprache:           [DE / EN / FR / IT / Sonstiges]
+Name: [NACHNAME, VORNAME] | [Titel falls vorhanden]
+E-Mail: [ABSENDER-ADRESSE]
+Telefon: [TELEFONNUMMER oder "nicht genannt"]
+Postanschrift: [ADRESSE oder "nicht genannt"]
+Sprache: [DE / EN / FR / IT / Sonstiges]
 
 --- ANLIEGEN ---
-Rechtsgebiet:      [Ersteinschätzung: z. B. Arbeitsrecht / Mietrecht / Strafrecht]
-Stichwörter:       [Kommagetrennte Liste — max. 5 Begriffe]
-Beteiligte:        [Gegner / Behörde / weitere Parteien oder "nicht genannt"]
+Rechtsgebiet: [Ersteinschätzung: z. B. Arbeitsrecht / Mietrecht / Strafrecht]
+Stichwörter: [Kommagetrennte Liste — max. 5 Begriffe]
+Beteiligte: [Gegner / Behörde / weitere Parteien oder "nicht genannt"]
 Sachverhalt-Kurzfassung:
-  [2-4 Sätze aus dem Parsing — wortwörtlich oder eng paraphrasiert]
+ [2-4 Sätze aus dem Parsing — wortwörtlich oder eng paraphrasiert]
 
 --- DRINGLICHKEIT ---
-Stufe:             [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
-Begründung:        [Frist, Termin, Eile-Signal oder "kein Hinweis"]
-Massnahme:         [Sofortiger Anwaltsrückruf erforderlich / Normale Bearbeitung / Abwarten]
+Stufe: [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
+Begründung: [Frist, Termin, Eile-Signal oder "kein Hinweis"]
+Massnahme: [Sofortiger Anwaltsrückruf erforderlich / Normale Bearbeitung / Abwarten]
 
 --- STATUS ---
-Spam-Check:        [KLAR / VERDÄCHTIG / SPAM]
-Konfliktcheck:     [AUSSTEHEND — vor Terminvergabe durchführen!]
-Erstantwort:       [VERSENDET am DATUM / AUSSTEHEND]
-Transkription:     [AKTIV / NICHT AKTIV]
+Spam-Check: [KLAR / VERDÄCHTIG / SPAM]
+Konfliktcheck: [AUSSTEHEND — vor Terminvergabe durchführen!]
+Erstantwort: [VERSENDET am DATUM / AUSSTEHEND]
+Transkription: [AKTIV / NICHT AKTIV]
 
 --- INTERNE NOTIZEN ---
 [Platz für manuelle Ergänzungen der Sekretariatsmitarbeitenden]
@@ -229,9 +229,9 @@ Das Sekretariat muss vor Terminvergabe — oder spätestens beim Erstgespräch �
 2. **Abgleich mit Mandantendatenbank:** Alle Namen und Unternehmen werden gegen die bestehende Mandantenakte abgeglichen.
 3. **Sozietätsmitglieder:** Prüfung erstreckt sich auf alle Partner und angestellten Anwälte der Kanzlei.
 4. **Ergebnis:**
-   - `KLAR` — Mandat kann angenommen werden
-   - `KONFLIKT` — Mandat nicht möglich; anfragende Person erhöflich ablehnen und ggf. auf andere Kanzlei hinweisen
-   - `UNKLAR` — Rücksprache mit Rechtsanwalt erforderlich vor Terminvergabe
+ - `KLAR` — Mandat kann angenommen werden
+ - `KONFLIKT` — Mandat nicht möglich; anfragende Person erhöflich ablehnen und ggf. auf andere Kanzlei hinweisen
+ - `UNKLAR` — Rücksprache mit Rechtsanwalt erforderlich vor Terminvergabe
 
 ## Skript für das Sekretariat: Was beim Erstanruf zu fragen ist
 
@@ -250,12 +250,12 @@ diesem Fall vertreten dürfen. Ich leite nichts an die Gegenseite weiter."
 ```
 KONFLIKTCHECK
 =============
-Durchgeführt am:   [DATUM]
-Durchgeführt von:  [MITARBEITENDE]
+Durchgeführt am: [DATUM]
+Durchgeführt von: [MITARBEITENDE]
 Anfragende Person: [NAME]
-Gegenseite:        [NAME / FIRMA]
-Ergebnis:          [KLAR / KONFLIKT — TYP / UNKLAR — Rücksprache]
-Notiz:             [Ggf. Begründung]
+Gegenseite: [NAME / FIRMA]
+Ergebnis: [KLAR / KONFLIKT — TYP / UNKLAR — Rücksprache]
+Notiz: [Ggf. Begründung]
 ```
 
 ## Hinweis bei KONFLIKT: Ablehnungsformulierung

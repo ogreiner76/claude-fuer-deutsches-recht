@@ -1,23 +1,23 @@
 ---
 name: ruegeobliegenheit-saas-agb-schiedsgericht
-description: "Nutze dies, wenn Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform, Security Incidents im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform, Security Incidents prüfen.; Erstelle eine Arbeitsfassung zu Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform, Security Incidents.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform, Security Incidents
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform, Security Incidents** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `ruegeobliegenheit` | Klausel-Spezialskill für Rügeobliegenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `saas-agb` | Branchen-Spezialskill für SaaS AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `schiedsgericht` | Klausel-Spezialskill für Schiedsgericht: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `schriftform-textform` | Klausel-Spezialskill für Schriftform Textform: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `security-incidents` | Klausel-Spezialskill für Security Incidents: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `ruegeobliegenheit` | Klausel-Fachmodul für Rügeobliegenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `saas-agb` | Branchen-Fachmodul für SaaS AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `schiedsgericht` | Klausel-Fachmodul für Schiedsgericht: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `schriftform-textform` | Klausel-Fachmodul für Schriftform Textform: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `security-incidents` | Klausel-Fachmodul für Security Incidents: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Ruegeobliegenheit, Saas Agb, Schiedsgericht, Schriftform Textform, Securi
 
 ## 1. `ruegeobliegenheit`
 
-**Fokus:** Klausel-Spezialskill für Rügeobliegenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Rügeobliegenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Rügeobliegenheit
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `saas-agb`
 
-**Fokus:** Branchen-Spezialskill für SaaS AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für SaaS AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # SaaS AGB
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `schiedsgericht`
 
-**Fokus:** Klausel-Spezialskill für Schiedsgericht: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Schiedsgericht: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Schiedsgericht
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `schriftform-textform`
 
-**Fokus:** Klausel-Spezialskill für Schriftform Textform: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Schriftform Textform: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Schriftform Textform
 
@@ -248,7 +248,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `security-incidents`
 
-**Fokus:** Klausel-Spezialskill für Security Incidents: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Security Incidents: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Security Incidents
 

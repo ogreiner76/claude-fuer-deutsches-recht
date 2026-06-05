@@ -1,13 +1,13 @@
 ---
 name: zv-mahnbescheid-zv-mobiliar-zv-notarielle
-description: "Nutze dies, wenn Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld prüfen.; Erstelle eine Arbeitsfassung zu Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -81,7 +81,7 @@ Anwalt darf nur Mahnbescheid beantragen, wenn die Forderung **schlüssig** ist. 
 4. **Verjährung** nicht offensichtlich, sonst kann Schuldner widersprechen und Verjährungseinrede erheben.
 5. **Verbraucher**-Geschäft erkennen: § 688 Abs. 2 Nr. 1 ZPO: Bagatellgrenze entfallen seit 1.7.2014; aber Bestimmungen zum Verbraucherdarlehen § 688 Abs. 2 Nr. 1 ZPO – Mahnverfahren ausgeschlossen wenn effektiver Jahreszins über Eckzins.
 
-## Workflow auf www.online-mahnantrag.de
+## auf www.online-mahnantrag.de
 
 ### Schritt 1: Antragsart wählen
 
@@ -151,21 +151,21 @@ Privatperson oder Vereine ohne beA: über das Online-Portal anlegen, dann ausdru
 ```
 MAHNANTRAG-VORBEREITUNG [Mandant] gegen [Schuldner]
 
-Schlüssigkeit:        [JA – Anspruchsgrundlage XYZ / NEIN – Klage statt Mahnverfahren]
-Anhängigkeit-Termin:  [Verjährung droht zum DD.MM.JJJJ – Einreichung bis ...]
+Schlüssigkeit: [JA – Anspruchsgrundlage XYZ / NEIN – Klage statt Mahnverfahren]
+Anhängigkeit-Termin: [Verjährung droht zum DD.MM.JJJJ – Einreichung bis ...]
 
 Antragsdaten:
-- Antragsteller:      [Name, Anschrift, ggf. ges. Vertreter]
-- Antragsgegner:      [Name, Anschrift, ggf. ges. Vertreter, HRB-Nr.]
-- Hauptforderung:     [EUR ...,..]
+- Antragsteller: [Name, Anschrift, ggf. ges. Vertreter]
+- Antragsgegner: [Name, Anschrift, ggf. ges. Vertreter, HRB-Nr.]
+- Hauptforderung: [EUR ...,..]
 - Anspruchsbezeichn.: [Katalog-Nr. ...; Individualisierung: Rechnungsnr. ... v. DD.MM.JJJJ]
-- Zinsen:             [X % seit DD.MM.JJJJ – Anspruchsgrundlage § 288 BGB / Vertrag]
-- Nebenforderungen:   [Mahnkosten EUR ..; Inkassokosten EUR .. (Anwaltskosten Verzug)]
-- Gegenleistung:      [erbracht / nicht abhängig]
-- Verfahrensgebühr:   [EUR .. nach Nr. 1100 KV GKG]
+- Zinsen: [X % seit DD.MM.JJJJ – Anspruchsgrundlage § 288 BGB / Vertrag]
+- Nebenforderungen: [Mahnkosten EUR ..; Inkassokosten EUR .. (Anwaltskosten Verzug)]
+- Gegenleistung: [erbracht / nicht abhängig]
+- Verfahrensgebühr: [EUR .. nach Nr. 1100 KV GKG]
 
-Übermittlung:         [beA mit EDA-XML / EGVP / Druck]
-Wiedervorlage:        [DD.MM.JJJJ (2 Wo nach voraussichtl. Zustellung)]
+Übermittlung: [beA mit EDA-XML / EGVP / Druck]
+Wiedervorlage: [DD.MM.JJJJ (2 Wo nach voraussichtl. Zustellung)]
 ```
 
 ## Qualitätsgates
@@ -243,16 +243,16 @@ Die häufigsten Fehlbewertungen:
 ```
 MOBILIAR-AUFTRAG [Mandant] gegen [Schuldner], GV [Bezirk]
 
-Titel:                 [Art, Datum]
-Forderung:             EUR Haupt + EUR Zinsen + EUR Kosten
-Modul:                 [1 / 1+2 / 1+2+3]
-Anlaufstelle:          [Wohnung Adresse / Geschäft / KFZ]
-Durchsuchungsanordn:   [nicht erforderlich / § 758a ZPO beantragt]
+Titel: [Art, Datum]
+Forderung: EUR Haupt + EUR Zinsen + EUR Kosten
+Modul: [1 / 1+2 / 1+2+3]
+Anlaufstelle: [Wohnung Adresse / Geschäft / KFZ]
+Durchsuchungsanordn: [nicht erforderlich / § 758a ZPO beantragt]
 Erwartete Pfandstücke: [KFZ, Maschinen, Lager, ...]
 Voraussichtliche Kost: EUR x (GvKostG)
 
-NÄCHSTER SCHRITT:      GV-Termin abwarten
-WIEDERVORLAGE:         DD.MM.JJJJ
+NÄCHSTER SCHRITT: GV-Termin abwarten
+WIEDERVORLAGE: DD.MM.JJJJ
 ```
 
 ## Qualitätsgates
@@ -301,9 +301,9 @@ Banken und Investoren stützen die Vollstreckung in Immobilien fast immer auf ei
 ## Workflow
 
 1. **Drei-Säulen-Prüfung speziell**:
-   - **Titel**: notarielle Urkunde mit Unterwerfung – wurde sie als "Vollstreckungstitel" ausgestellt (in der Regel formularmäßig "der Eigentümer unterwirft sich ...").
-   - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   - **Zustellung** der vollstreckbaren Ausfertigung an den Schuldner; bei dinglicher Vollstreckung an den Eigentümer (auch Dritter) nach § 800 Abs. 2 ZPO.
+ - **Titel**: notarielle Urkunde mit Unterwerfung – wurde sie als "Vollstreckungstitel" ausgestellt (in der Regel formularmäßig "der Eigentümer unterwirft sich ...").
+ - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - **Zustellung** der vollstreckbaren Ausfertigung an den Schuldner; bei dinglicher Vollstreckung an den Eigentümer (auch Dritter) nach § 800 Abs. 2 ZPO.
 2. **Kündigung Grundschuld § 1193 BGB**: sechs Monate Kündigungsfrist, abdingbar nur eingeschränkt (AGB-Kontrolle gem. § 307 BGB). Kündigungsschreiben zustellen.
 3. **Sicherungsabrede prüfen**: Welche Forderungen sichert die Grundschuld? Aktuelle Höhe? Zinsen? Übersicherung? Einrede § 1192 Abs. 1a BGB bei Abtretung.
 4. **Dingliche Vollstreckung**: ZVG-Antrag → `zv-zvg-antrag-glaeubiger`.
@@ -336,17 +336,17 @@ Schuldner kann gegenüber neuem Erwerber alle Einreden geltend machen, die ihm g
 ```
 NOTAR. URKUNDE / GRUNDSCHULD [Mandant] gegen [Schuldner], Az [Notar]
 
-Urkunde:               Notar [Name], URNr [Nr/Jahr]
-Grundschuld:           EUR x, Zinsen x %, GB [Ort, Bl, lfd Nr]
-Unterwerfung:          [dinglich / persönlich / beides]
-Sicherungsabrede:      [Datum, Gegenstand]
-Kündigung § 1193:      [erforderlich? ja, am DD.MM.JJJJ erklärt]
-Klausel § 727:         [nicht erforderlich / umschrieben am DD.MM.JJJJ]
-Zustellung § 750:      [erfolgt an DD.MM.JJJJ]
-Vollstreckungswege:    [ZVG / PfÜB Bank / PfÜB Lohn]
+Urkunde: Notar [Name], URNr [Nr/Jahr]
+Grundschuld: EUR x, Zinsen x %, GB [Ort, Bl, lfd Nr]
+Unterwerfung: [dinglich / persönlich / beides]
+Sicherungsabrede: [Datum, Gegenstand]
+Kündigung § 1193: [erforderlich? ja, am DD.MM.JJJJ erklärt]
+Klausel § 727: [nicht erforderlich / umschrieben am DD.MM.JJJJ]
+Zustellung § 750: [erfolgt an DD.MM.JJJJ]
+Vollstreckungswege: [ZVG / PfÜB Bank / PfÜB Lohn]
 
-NÄCHSTE SKILLS:        zv-zvg-antrag-glaeubiger, zv-pfueb-bank
-WIEDERVORLAGE:         DD.MM.JJJJ + 6 Monate (Kündigungsfrist)
+NÄCHSTE SKILLS: zv-zvg-antrag-glaeubiger, zv-pfueb-bank
+WIEDERVORLAGE: DD.MM.JJJJ + 6 Monate (Kündigungsfrist)
 ```
 
 ## Qualitätsgates

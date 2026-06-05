@@ -1,22 +1,22 @@
 ---
 name: religionsfreiheit-glaubensgehorsam-romische
-description: "Nutze dies, wenn Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, Sakramentenempfang Nach Kirchenaustritt, Sakramentenverweigerung Und Rechte im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, Sakramentenempfang Nach Kirchenaustritt, Sakramentenverweigerung Und Rechte prüfen.; Erstelle eine Arbeitsfassung zu Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, Sakramentenempfang Nach Kirchenaustritt, Sakramentenverweigerung Und Rechte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, Sakramentenempfang Nach Kirchenaustritt, Sakramentenverweigerung Und Rechte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, Sakramentenempfang Nach Kirchenaustritt, Sakramentenverweigerung Und Rechte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, Sakramentenempfang Nach Kirchenaustritt, Sakramentenverweigerung Und Rechte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `religionsfreiheit-und-glaubensgehorsam` | Religionsfreiheit und Glaubensgehorsam: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `romische-kurie-und-dikasterien` | Römische Kurie und Dikasterien: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `sakramentenempfang-nach-kirchenaustritt` | Sakramentenempfang nach Kirchenaustritt: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `sakramentenverweigerung-und-rechte` | Sakramentenverweigerung und Rechte: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `religionsfreiheit-und-glaubensgehorsam` | Religionsfreiheit und Glaubensgehorsam: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `romische-kurie-und-dikasterien` | Römische Kurie und Dikasterien: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `sakramentenempfang-nach-kirchenaustritt` | Sakramentenempfang nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `sakramentenverweigerung-und-rechte` | Sakramentenverweigerung und Rechte: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Religionsfreiheit Und Glaubensgehorsam, Romische Kurie Und Dikasterien, S
 
 ## 1. `religionsfreiheit-und-glaubensgehorsam`
 
-**Fokus:** Religionsfreiheit und Glaubensgehorsam: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Religionsfreiheit und Glaubensgehorsam: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Religionsfreiheit und Glaubensgehorsam
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `romische-kurie-und-dikasterien`
 
-**Fokus:** Römische Kurie und Dikasterien: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Römische Kurie und Dikasterien: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Römische Kurie und Dikasterien
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `sakramentenempfang-nach-kirchenaustritt`
 
-**Fokus:** Sakramentenempfang nach Kirchenaustritt: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Sakramentenempfang nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Sakramentenempfang nach Kirchenaustritt
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `sakramentenverweigerung-und-rechte`
 
-**Fokus:** Sakramentenverweigerung und Rechte: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Sakramentenverweigerung und Rechte: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Sakramentenverweigerung und Rechte
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

@@ -85,7 +85,7 @@ Jede gelbe oder rote Ampel bekommt einen Reparaturschritt:
 **Sanity-Check**
 | Feld | Ampel | Befund | Reparatur |
 |---|---|---|---|
-| Frist | Rot/Gelb/Grün |  |  |
+| Frist | Rot/Gelb/Grün | | |
 
 **Nicht abschicken, bevor**
 1. [kritischer Punkt]

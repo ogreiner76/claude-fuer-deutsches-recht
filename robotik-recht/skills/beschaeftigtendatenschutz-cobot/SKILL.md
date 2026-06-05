@@ -32,7 +32,7 @@ Cobots erfassen regelmäßig Beschäftigtendaten: Pickrate je Schicht, Standortd
 - **KI-VO** Art. 26 Abs. 7 Information der Beschäftigten und Betriebsräte bei Einsatz von Hochrisiko-KI am Arbeitsplatz; Art. 5 Verbote (insb. Emotionserkennung am Arbeitsplatz, Art. 5 Abs. 1 lit. f ab 02.02.2025).
 - **MaschinenVO** VO (EU) 2023/1230 und ArbSchG für Sicherheits-Sensorik.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Datenkatalog.** Welche Daten entstehen (Sensor, Kamera, Audio, Vibration, Bedien-Logs)? Welche sind personenbezogen oder personenbeziehbar? Welche sind besonderer Kategorien (Art. 9 DSGVO)?
 2. **Zweckbindung.** Pro Datenkategorie konkreten Zweck definieren; "Allzweck-Telemetrie" ist nicht zulässig.

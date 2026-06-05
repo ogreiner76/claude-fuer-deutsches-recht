@@ -1,6 +1,6 @@
 ---
 name: entgelt-nebenkosten-service-fees
-description: "Klausel-Spezialskill für Entgelt Nebenkosten Service Fees: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Entgelt Nebenkosten Service Fees: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Entgelt Nebenkosten Service Fees

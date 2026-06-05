@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-migrationsrecht-aufenthaltstitel
-description: "Nutze dies, wenn Fachanwalt Migrationsrecht Aufenthaltstitel Antrag, Fachanwalt Migrationsrecht Ausweisung Widerspruch, Fachanwalt Migrationsrecht Bamf Anhoerung Strategie, Fachanwalt Migrationsrecht Einbuergerung im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Migrationsrecht Aufenthaltstitel Antrag, Fachanwalt Migrationsrecht Ausweisung Widerspruch, Fachanwalt Migrationsrecht Bamf Anhoerung Strategie, Fachanwalt Migrationsrecht Einbuergerung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Migrationsrecht Aufenthaltstitel Antrag, Fachanwalt Migrationsrecht Ausweisung Widerspruch, Fachanwalt Migrationsrecht Bamf Anhoerung Strategie, Fachanwalt Migrationsrecht Einbuergerung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Migrationsrecht Aufenthaltstitel Antrag, Fachanwalt Migrationsrecht Ausweisung Widerspruch, Fachanwalt Migrationsrecht Bamf Anhoerung Strategie, Fachanwalt Migrationsrecht Einbuergerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Migrationsrecht Aufenthaltstitel Antrag, Fachanwalt Migrationsrecht Ausweisung Widerspruch, Fachanwalt Migrationsrecht Bamf Anhoerung Strategie, Fachanwalt Migrationsrecht Einbuergerung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -122,9 +122,9 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 An die Ausländerbehörde [Ort]
 
 Betreff: Antrag auf Verlängerung der Aufenthaltserlaubnis
-         nach § 8 i.V.m. § [Spezialnorm] AufenthG
-         für [Name, Geburtsdatum, Staatsangehörigkeit, Anschrift]
-         Az. der Ausländerbehörde: [...]
+ nach § 8 i.V.m. § [Spezialnorm] AufenthG
+ für [Name, Geburtsdatum, Staatsangehörigkeit, Anschrift]
+ Az. der Ausländerbehörde: [...]
 
 Sehr geehrte Damen und Herren,
 
@@ -134,29 +134,29 @@ auf Verlängerung der Aufenthaltserlaubnis.
 Begründung:
 
 1. Aufenthaltszweck (§ [Spezialnorm] AufenthG)
-   Unser Mandant / unsere Mandantin ist als [Beruf] beim Arbeit-
-   geber [Name, Adresse] beschäftigt. Bruttoeinkommen: EUR [Betrag]
-   monatlich (Anlage K1: Arbeitsvertrag, Anlagen K2–K4: Lohn-
-   abrechnungen der letzten drei Monate).
+ Unser Mandant / unsere Mandantin ist als [Beruf] beim Arbeit-
+ geber [Name, Adresse] beschäftigt. Bruttoeinkommen: EUR [Betrag]
+ monatlich (Anlage K1: Arbeitsvertrag, Anlagen K2–K4: Lohn-
+ abrechnungen der letzten drei Monate).
 
 2. Lebensunterhaltssicherung (§ 2 Abs. 3 AufenthG)
-   Der Lebensunterhalt ist ohne Inanspruchnahme öffentlicher
-   Mittel gesichert. Krankenversicherung: [Versicherung, Police-Nr.]
-   (Anlage K5). Es bestehen keine Sozialhilfebezüge.
+ Der Lebensunterhalt ist ohne Inanspruchnahme öffentlicher
+ Mittel gesichert. Krankenversicherung: [Versicherung, Police-Nr.]
+ (Anlage K5). Es bestehen keine Sozialhilfebezüge.
 
 3. Identität und Pass (§ 3, § 5 Abs. 1 Nr. 1a AufenthG)
-   Reisepass-Nr. [Nummer], gültig bis [Datum] (Anlage K6).
-   Identität ist ungeklärt? → Nein, Identität ist seit Ersterteilung
-   ungeklärt.
+ Reisepass-Nr. [Nummer], gültig bis [Datum] (Anlage K6).
+ Identität ist ungeklärt? → Nein, Identität ist seit Ersterteilung
+ ungeklärt.
 
 4. Ausweisungsinteresse (§ 54 AufenthG)
-   Kein Eintrag im Bundeszentralregister (Führungszeugnis Anlage K7).
-   Keine offenen Ermittlungsverfahren.
+ Kein Eintrag im Bundeszentralregister (Führungszeugnis Anlage K7).
+ Keine offenen Ermittlungsverfahren.
 
 5. Fiktionswirkung (§ 81 Abs. 4 AufenthG)
-   Dieser Antrag wird vor Ablauf der bisherigen Aufenthalts-
-   erlaubnis (gültig bis [Datum]) gestellt. Wir berufen uns auf
-   die gesetzliche Fiktionswirkung des § 81 Abs. 4 AufenthG.
+ Dieser Antrag wird vor Ablauf der bisherigen Aufenthalts-
+ erlaubnis (gültig bis [Datum]) gestellt. Wir berufen uns auf
+ die gesetzliche Fiktionswirkung des § 81 Abs. 4 AufenthG.
 
 Wir bitten um:
 a) Bestätigung des Eingangs dieses Antrages
@@ -172,7 +172,7 @@ Mit freundlichen Grüßen
 ### Baustein 2 — Widerspruch / Klage gegen Ablehnungsbescheid
 
 ```
-An das Verwaltungsgericht [Ort]            [Datum]
+An das Verwaltungsgericht [Ort] [Datum]
 
 Klage
 gegen die Ausländerbehörde [Ort / Beklagter]
@@ -194,18 +194,18 @@ I. Sachverhalt
 II. Rechtslage
 
 1. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG sind erfüllt:
-   a) Lebensunterhalt gesichert (monatl. Nettoeinkommen EUR [Betrag]
-      übersteigt Regelbedarf SGB II EUR [Betrag] für [Personen]),
-      Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   b) Identität geklärt, Pass gültig (Anlage K1).
-   c) Kein Ausweisungsinteresse § 54 AufenthG (Anlage K2:
-      Führungszeugnis ohne Eintrag).
+ a) Lebensunterhalt gesichert (monatl. Nettoeinkommen EUR [Betrag]
+ übersteigt Regelbedarf SGB II EUR [Betrag] für [Personen]),
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ b) Identität geklärt, Pass gültig (Anlage K1).
+ c) Kein Ausweisungsinteresse § 54 AufenthG (Anlage K2:
+ Führungszeugnis ohne Eintrag).
 
 2. Spezialnorm § [Norm] AufenthG: [Spezifische Voraussetzungen
-   konkret erfüllt — Hochschulabschluss, Gehaltsschwelle, etc.]
+ konkret erfüllt — Hochschulabschluss, Gehaltsschwelle, etc.]
 
 3. Ermessensreduktion auf Null: Bei Erfüllung aller Voraussetzungen
-   besteht kein Ermessen; Anspruch auf Erteilung.
+ besteht kein Ermessen; Anspruch auf Erteilung.
 
 Beweisangebote: Anlage K1 [Beschreibung], K2 [Beschreibung],
 K3 [Beschreibung].
@@ -220,7 +220,7 @@ Mit freundlichen Grüßen
 An die Ausländerbehörde [Ort]
 
 Betreff: Antrag auf Erteilung der Blauen Karte EU
-         gem. § 18b Abs. 2 AufenthG für [Name, Geburtsdatum]
+ gem. § 18b Abs. 2 AufenthG für [Name, Geburtsdatum]
 
 Sehr geehrte Damen und Herren,
 
@@ -230,19 +230,19 @@ Blauen Karte EU.
 Voraussetzungen sind erfüllt:
 
 1. Hochschulabschluss: [Universität, Abschluss, Datum]
-   (Anlage B1: Zeugnis mit beglaubigter Übersetzung; Anlage B2:
-   Anerkennungsbescheid der [KMK / anabin-Datenbank-Nachweis]).
+ (Anlage B1: Zeugnis mit beglaubigter Übersetzung; Anlage B2:
+ Anerkennungsbescheid der [KMK / anabin-Datenbank-Nachweis]).
 
 2. Konkretes Beschäftigungsangebot: Arbeitsvertrag mit [Arbeitgeber]
-   (Anlage B3). Bruttojahresgehalt EUR [Betrag] übersteigt den
-   Mindestgehaltsschwellenwert von EUR 45300 (2025 — aktuellen
-   Wert prüfen) gemäß § 18b Abs. 2 Satz 1 Nr. 2 AufenthG.
+ (Anlage B3). Bruttojahresgehalt EUR [Betrag] übersteigt den
+ Mindestgehaltsschwellenwert von EUR 45300 (2025 — aktuellen
+ Wert prüfen) gemäß § 18b Abs. 2 Satz 1 Nr. 2 AufenthG.
 
 3. Keine Zustimmungspflicht: Blaue Karte EU ist nach § 2 Abs. 1
-   Nr. 2 BeschV zustimmungsfrei.
+ Nr. 2 BeschV zustimmungsfrei.
 
 4. Allgemeine Voraussetzungen § 5 AufenthG: erfüllt (s. Anlagen
-   B4–B6: Pass, Krankenversicherung, Führungszeugnis).
+ B4–B6: Pass, Krankenversicherung, Führungszeugnis).
 
 Wir bitten um Ausstellung der Blauen Karte EU.
 
@@ -348,7 +348,7 @@ Auslaenderbehoerde [ORT / LANDKREIS]
 [ADRESSE]
 
 Re: Antrag auf [Erteilung / Verlaengerung] Aufenthaltstitel
-    fuer: [NAME, geb. DATUM, Staatsang., AKZ Auslaenderbehoerde falls vorhanden]
+ fuer: [NAME, geb. DATUM, Staatsang., AKZ Auslaenderbehoerde falls vorhanden]
 
 Sehr geehrte Damen und Herren,
 
@@ -367,7 +367,7 @@ rechtzeitig gestellt — Fiktionswirkung § 81 Abs. 4 AufenthG.
 
 VORAUSSETZUNGEN § 5 AufenthG:
 a) Lebensunterhalt: Anlage 2 (Gehaltsabrechnungen), Netto EUR [X].
-   Bedarf nach SGB-II-Regelsaetzen: EUR [Y]. Deckung gegeben.
+ Bedarf nach SGB-II-Regelsaetzen: EUR [Y]. Deckung gegeben.
 b) Identitaet: Anlage 3 (Reisepass, gueltig bis DATUM).
 c) Kein Ausweisungsinteresse: Anlage 4 (Fuehrungszeugnis).
 d) Visumserfordernis: mit Visum Typ [X] eingereist, Anlage 5.
@@ -595,18 +595,18 @@ SOZIALLEISTUNGEN]; Aufenthalt seit [DATUM]; Familienkonstellation: ...]
 II. RECHTLICHE WUERDIGUNG
 
 1. Ausweisungsinteresse gering zu gewichten (§ 54 AufenthG):
-   [Analyse ob Ausweisungsinteresse wirklich schwerwiegend i.S.d. § 54 I
-   oder II AufenthG; Strafmass; Wiederholungsgefahr Sozialprognose]
+ [Analyse ob Ausweisungsinteresse wirklich schwerwiegend i.S.d. § 54 I
+ oder II AufenthG; Strafmass; Wiederholungsgefahr Sozialprognose]
 
 2. Schwerwiegende Bleibeinteressen (§ 55 AufenthG):
-   - Aufenthalt seit [X] Jahren — Niederlassungserlaubnis vorhanden
-   - Familienleben Art. 6 GG, Art. 8 EMRK: [KINDER / EHEGATTE DETAILS]
-   - Kindeswohl: [KINDER DETAILS, Alter, dt. Staatsang.]
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-     minimal nach [X] Jahren Abwesenheit.
+ - Aufenthalt seit [X] Jahren — Niederlassungserlaubnis vorhanden
+ - Familienleben Art. 6 GG, Art. 8 EMRK: [KINDER / EHEGATTE DETAILS]
+ - Kindeswohl: [KINDER DETAILS, Alter, dt. Staatsang.]
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ minimal nach [X] Jahren Abwesenheit.
 
 3. Abwaegung § 53 AufenthG ergibt Ueberwiegen Bleibeinteressen:
-   [Subsumtion; Verhältnismaessigkeit; milderes Mittel Verwarnungsschreiben?]
+ [Subsumtion; Verhältnismaessigkeit; milderes Mittel Verwarnungsschreiben?]
 
 III. HILFSANTRAG: BEFRISTUNG EINREISEVERBOT § 11 AufenthG
 Fuer den Fall der Aufrechterhaltung der Ausweisungsverfuegung wird beantragt,
@@ -687,7 +687,7 @@ Im Migrationsrecht gibt es kein klassisches Schiedsverfahren / ADR — Verfahren
 
 ## Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Phase 1 — Erstgespräch
 
@@ -794,8 +794,8 @@ Bundesamt fuer Migration und Fluechtlinge
 [ADRESSE]
 
 Re: Asylverfahren [NAME, geb. DATUM, Staatsang.]
-    BAMF-Aktenzeichen: [AZ]
-    Anhoerung am: [DATUM]
+ BAMF-Aktenzeichen: [AZ]
+ Anhoerung am: [DATUM]
 
 Sehr geehrte Damen und Herren,
 
@@ -922,37 +922,37 @@ den deutschen Staatsverband.
 I. Begründung
 
 1. Aufenthaltsdauer
-   Rechtmaessiger gewoehnlicher Aufenthalt seit [Datum] —
-   Dauer [X Jahre Y Monate] (Anlage K1: AZR-Auskunft).
+ Rechtmaessiger gewoehnlicher Aufenthalt seit [Datum] —
+ Dauer [X Jahre Y Monate] (Anlage K1: AZR-Auskunft).
 
 2. Aufenthaltstitel
-   Niederlassungserlaubnis § 9 AufenthG seit [Datum]
-   (Anlage K2: Aufenthaltstitel).
+ Niederlassungserlaubnis § 9 AufenthG seit [Datum]
+ (Anlage K2: Aufenthaltstitel).
 
 3. Lebensunterhalt
-   Erwerbstaetigkeit als [Beruf] bei [Arbeitgeber],
-   Bruttomonatseinkommen EUR [Betrag]; keine oeffentlichen
-   Leistungen in den letzten 24 Monaten
-   (Anlage K3-K5: Gehaltsabrechnungen; Steuerbescheide).
+ Erwerbstaetigkeit als [Beruf] bei [Arbeitgeber],
+ Bruttomonatseinkommen EUR [Betrag]; keine oeffentlichen
+ Leistungen in den letzten 24 Monaten
+ (Anlage K3-K5: Gehaltsabrechnungen; Steuerbescheide).
 
 4. Sprachkenntnisse
-   Zertifikat [Institut] Niveau B1 vom [Datum]
-   (Anlage K6).
+ Zertifikat [Institut] Niveau B1 vom [Datum]
+ (Anlage K6).
 
 5. Einbuergerungstest
-   Bestanden am [Datum] bei [BAMF-Testzentrum]
-   (Anlage K7).
+ Bestanden am [Datum] bei [BAMF-Testzentrum]
+ (Anlage K7).
 
 6. Bekenntnis fdGO
-   Beigefuegte Erklaerung (Anlage K8).
+ Beigefuegte Erklaerung (Anlage K8).
 
 7. Straffreiheit
-   Fuehrungszeugnis ohne relevante Eintraege
-   (Anlage K9).
+ Fuehrungszeugnis ohne relevante Eintraege
+ (Anlage K9).
 
 8. Mehrstaatigkeit
-   Gemaess § 12 StAG n.F. (Reform 27.06.2024) wird die
-   Beibehaltung der [Staatsangehoerigkeit] beantragt.
+ Gemaess § 12 StAG n.F. (Reform 27.06.2024) wird die
+ Beibehaltung der [Staatsangehoerigkeit] beantragt.
 
 II. Fristen
 
@@ -1071,17 +1071,17 @@ Hiermit beantragen wir die Einbuergerung des o.g. Mandanten gemaess
 
 I. VORAUSSETZUNGEN (§ 10 StAG)
 a) Aufenthaltsdauer: Rechtmaessiger Aufenthalt seit [DATUM] = [X] Jahre
-   (Nachweis: Aufenthaltstitel-Uebersicht Anlage 2).
+ (Nachweis: Aufenthaltstitel-Uebersicht Anlage 2).
 b) Aufenthaltstitel: [NE / DA-EU / unbefristete AE] Anlage 3.
 c) Bekenntnis fdGO: Unterschriebene Erklaerung Anlage 4.
 d) Lebensunterhalt: Erwerbstaetig seit [DATUM]; Netto-Einkommen EUR [X]
-   Anlage 5; kein SGB-II-Bezug in den letzten 2 Jahren.
+ Anlage 5; kein SGB-II-Bezug in den letzten 2 Jahren.
 e) Straffreiheit: Fuehrungszeugnis O Anlage 6; kein Verstoß gegen § 12a StAG.
 f) Sprachkenntnisse: B1-Zertifikat [INSTITUT, DATUM] Anlage 7.
 g) Einbuergerungstest: Bescheinigung BAMF Anlage 8.
 h) Mehrstaatigkeit: Beibehaltung [NATIONALITAET] — gemaess § 12 StAG n.F.
-   (seit 27.06.2024) zulaessig ohne Antrag auf Beibehaltung.
-   [ODER: Entlassungsurkunde aus [STAAT] liegt vor Anlage 9.]
+ (seit 27.06.2024) zulaessig ohne Antrag auf Beibehaltung.
+ [ODER: Entlassungsurkunde aus [STAAT] liegt vor Anlage 9.]
 
 II. BESONDERHEITEN (falls zutreffend)
 [§ 9 StAG — Ehegatte Deutscher seit DATUM; Eheurkunde Anlage X]

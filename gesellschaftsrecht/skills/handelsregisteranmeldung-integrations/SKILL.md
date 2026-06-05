@@ -1,13 +1,13 @@
 ---
 name: handelsregisteranmeldung-integrations
-description: "Nutze dies, wenn Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Übergabe, Mandat Triage Gesellschaftsrecht, Rechtsabteilung Beirat Mit Vetorechten In Der Gmbh im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Übergabe, Mandat Triage Gesellschaftsrecht, Rechtsabteilung Beirat Mit Vetorechten In Der Gmbh prüfen.; Erstelle eine Arbeitsfassung zu Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Übergabe, Mandat Triage Gesellschaftsrecht, Rechtsabteilung Beirat Mit Vetorechten In Der Gmbh.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Uebergabe, Mandat Triage Gesellschaftsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Übergabe, Mandat Triage Gesellschaftsrecht, Rechtsabteilung Beirat Mit Vetorechten In Der Gmbh
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Übergabe, Mandat Triage Gesellschaftsrecht, Rechtsabteilung Beirat Mit Vetorechten In Der Gmbh** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -17,7 +17,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `integrations-management` | Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste. Berücksichtigt § 613a BGB (Betriebsübergang), BetrVG-Mitbestimmung und gesellschaftsrechtliche Post-Closing-Pflichten nach UmwG/GmbHG/AktG. Lädt bei "Post-Merger-Integration", "Post-Closing", "Betriebsübergang", "Vertragsübertragung" oder "was ist noch offen". |
 | `ki-werkzeug-uebergabe` | KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer "Luminance", "Kira", "KI-Prüfung", "automatische Extraktion" oder "Massenprüfung" erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die ein einheitliches Klausel-Extraktionsprofil erfordern. |
 | `mandat-triage-gesellschaftsrecht` | Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht § 15a InsO drei Wochen Anfechtungsklage § 246 AktG ein Monat. Normen § 2 GmbHG Gründung § 48 GmbHG Gesellschafterversammlung § 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung). |
-| `rechtsabteilung-beirat-mit-vetorechten-in-der-gmbh` | Rechtsabteilungs-Spezialskill für Beirat mit Vetorechten in der GmbH: Beiratsrechte werden zwischen Beratung, Zustimmung, Weisung und faktischer Geschäftsführung abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-beirat-mit-vetorechten-in-der-gmbh` | Rechtsabteilungs-Fachmodul für Beirat mit Vetorechten in der GmbH: Beiratsrechte werden zwischen Beratung, Zustimmung, Weisung und faktischer Geschäftsführung abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -78,17 +78,17 @@ werden kann.
 ## Eingaben
 
 1. **Registerart** – HRB (GmbH, AG, KGaA, SE), HRA (OHG, KG, GmbH & Co. KG),
-   GnR (eG), PartGR (PartG).
+ GnR (eG), PartGR (PartG).
 2. **Anmeldungsgegenstand** – Art der Änderung: Geschäftsführer, Prokura, Sitz,
-   Firma, Stammkapital, Satzungsänderung, Liquidation, Löschung.
+ Firma, Stammkapital, Satzungsänderung, Liquidation, Löschung.
 3. **Unterlagen** – Gesellschafterbeschluss, Satzungsänderung, Versicherungen,
-   Anstellungsvertrag (bei GF), Ausweiskopien.
+ Anstellungsvertrag (bei GF), Ausweiskopien.
 4. **Zuständiges Registergericht** – Amtsgericht am Sitz der Gesellschaft
-   (§ 8 HGB, §§ 13, 14 GmbHG); elektronische Einreichung über das
-   Gemeinsame Registerportal der Länder (www.handelsregister.de).
+ (§ 8 HGB, §§ 13, 14 GmbHG); elektronische Einreichung über das
+ Gemeinsame Registerportal der Länder (www.handelsregister.de).
 5. **Vollmachten** – Notarielle Beglaubigung der Unterschrift des Anmeldenden
-   erforderlich (§ 12 Abs. 1 Satz 1 HGB); bei GmbH: Unterschrift aller
-   Geschäftsführer (§ 78 GmbHG).
+ erforderlich (§ 12 Abs. 1 Satz 1 HGB); bei GmbH: Unterschrift aller
+ Geschäftsführer (§ 78 GmbHG).
 
 ## Rechtlicher Rahmen
 
@@ -96,35 +96,35 @@ werden kann.
 
 - **§ 8 HGB** – Inhalt und Führung des Handelsregisters; öffentliches Register.
 - **§ 12 HGB** – Form der Anmeldungen: elektronisch in öffentlich beglaubigter
-  Form (§ 12 Abs. 1 Satz 1 HGB); Notar übermittelt (§ 12 Abs. 2 HGB).
+ Form (§ 12 Abs. 1 Satz 1 HGB); Notar übermittelt (§ 12 Abs. 2 HGB).
 - **§ 13 HGB** – Örtliche Zuständigkeit: Gericht am Sitz der Niederlassung.
 - **§ 15 HGB** – Wirkung der Eintragung und Bekanntmachung; negative Publizität
-  (Abs. 1): nicht eingetragene und bekanntgemachte Tatsachen können Dritten
-  nicht entgegengehalten werden; positive Publizität (Abs. 3): irrtümliche
-  Eintragung kann gegenüber gutgläubigen Dritten wirken.
+ (Abs. 1): nicht eingetragene und bekanntgemachte Tatsachen können Dritten
+ nicht entgegengehalten werden; positive Publizität (Abs. 3): irrtümliche
+ Eintragung kann gegenüber gutgläubigen Dritten wirken.
 - **§ 39 GmbHG** – Anmeldung von Geschäftsführerwechseln; Muster-Versicherung;
-  unverzügliche Anmeldung.
+ unverzügliche Anmeldung.
 - **§ 53 HGB** – Erteilung, Änderung und Erlöschen der Prokura; Anmeldung zur
-  Eintragung; keine konstitutive Wirkung, aber Publizitätswirkung § 15 HGB.
+ Eintragung; keine konstitutive Wirkung, aber Publizitätswirkung § 15 HGB.
 - **§§ 54–58 HGB** – Umfang der Prokura; Beschränkungen (Grundstücke § 49
-  Abs. 2 HGB).
+ Abs. 2 HGB).
 - **§ 78 GmbHG** – Zeichnung der Anmeldungen durch alle Geschäftsführer.
 - **§§ 181 ff. AktG** – Satzungsänderung bei AG; Anmeldung durch Vorstand und
-  Aufsichtsratsvorsitzenden.
+ Aufsichtsratsvorsitzenden.
 
 ### Leitentscheidungen
 
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Zum Eintragungserfordernis bei Prokura-Erteilung: Die Eintragung der Prokura
-   hat keine konstitutive Wirkung; die Prokura entsteht durch Erteilung, nicht
-   durch Eintragung. Aus § 15 Abs. 1 HGB folgt jedoch, dass der nicht eingetragene
-   Widerruf der Prokura Dritten gegenüber unwirksam ist, wenn diese keine
-   Kenntnis hatten.
+ Zum Eintragungserfordernis bei Prokura-Erteilung: Die Eintragung der Prokura
+ hat keine konstitutive Wirkung; die Prokura entsteht durch Erteilung, nicht
+ durch Eintragung. Aus § 15 Abs. 1 HGB folgt jedoch, dass der nicht eingetragene
+ Widerruf der Prokura Dritten gegenüber unwirksam ist, wenn diese keine
+ Kenntnis hatten.
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-   Rn. 14 – Zur Zurückweisung einer Handelsregisteranmeldung wegen unzureichender
-   Beglaubigung: § 12 HGB verlangt öffentliche Beglaubigung der Unterschrift;
-   bloße notarielle Beglaubigung von Ablichtungen genügt nicht.
+ Rn. 14 – Zur Zurückweisung einer Handelsregisteranmeldung wegen unzureichender
+ Beglaubigung: § 12 HGB verlangt öffentliche Beglaubigung der Unterschrift;
+ bloße notarielle Beglaubigung von Ablichtungen genügt nicht.
 
 ### Quellenregel
 
@@ -132,39 +132,39 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Sachverhalt klären** – Welcher Anmeldungsgegenstand liegt vor? Liegt ein
-   neuer Geschäftsführer vor (§ 39 GmbHG), eine Prokura-Änderung (§ 53 HGB),
-   eine Satzungsänderung (§ 54 GmbHG i. V. m. § 181 GmbHG) oder eine
-   Kapitalmaßnahme?
+ neuer Geschäftsführer vor (§ 39 GmbHG), eine Prokura-Änderung (§ 53 HGB),
+ eine Satzungsänderung (§ 54 GmbHG i. V. m. § 181 GmbHG) oder eine
+ Kapitalmaßnahme?
 
 2. **Unterlagen zusammenstellen** – Gesellschafterbeschluss (notariell beurkundet
-   bei Satzungsänderung, § 53 Abs. 2 GmbHG); Anstellungsvertrag und ggf.
-   Selbstauskunft des neuen Geschäftsführers nach § 8 Abs. 3 GmbHG; Satzung in
-   aktueller Fassung.
+ bei Satzungsänderung, § 53 Abs. 2 GmbHG); Anstellungsvertrag und ggf.
+ Selbstauskunft des neuen Geschäftsführers nach § 8 Abs. 3 GmbHG; Satzung in
+ aktueller Fassung.
 
 3. **Anmeldung vorbereiten** – Entwurf der Anmeldeformulierung; Vorlage beim
-   Notar zur Beglaubigung der Unterschrift nach § 12 HGB; Notar übermittelt
-   elektronisch (§ 12 Abs. 2 HGB).
+ Notar zur Beglaubigung der Unterschrift nach § 12 HGB; Notar übermittelt
+ elektronisch (§ 12 Abs. 2 HGB).
 
 4. **Einreichungsfrist beachten:**
-   - Geschäftsführerwechsel § 39 GmbHG: unverzüglich (keine Ausschlussfrist,
-     aber Haftungsrisiko bei Verzögerung).
-   - Prokura § 53 Abs. 1 HGB: unverzüglich nach Erteilung oder Erlöschen.
-   - Satzungsänderung § 54 GmbHG: nach Beschluss unverzüglich, vor Wirksamkeit
-     zur Eintragung anmelden (§ 54 Abs. 3 GmbHG).
-   - Kapitalerhöhung AG: § 184 AktG; Anmeldung durch Vorstand und
-     Aufsichtsratsvorsitzenden innerhalb angemessener Frist.
+ - Geschäftsführerwechsel § 39 GmbHG: unverzüglich (keine Ausschlussfrist,
+ aber Haftungsrisiko bei Verzögerung).
+ - Prokura § 53 Abs. 1 HGB: unverzüglich nach Erteilung oder Erlöschen.
+ - Satzungsänderung § 54 GmbHG: nach Beschluss unverzüglich, vor Wirksamkeit
+ zur Eintragung anmelden (§ 54 Abs. 3 GmbHG).
+ - Kapitalerhöhung AG: § 184 AktG; Anmeldung durch Vorstand und
+ Aufsichtsratsvorsitzenden innerhalb angemessener Frist.
 
 5. **Eintragung abwarten / § 15 HGB beachten** – Bis zur Eintragung und
-   Bekanntmachung kann der geänderte Sachverhalt Dritten nicht entgegengehalten
-   werden (§ 15 Abs. 1 HGB); in der Zwischenzeit Übergangsregelungen treffen
-   (z. B. Vollmachten).
+ Bekanntmachung kann der geänderte Sachverhalt Dritten nicht entgegengehalten
+ werden (§ 15 Abs. 1 HGB); in der Zwischenzeit Übergangsregelungen treffen
+ (z. B. Vollmachten).
 
 6. **Registerauszug prüfen** – Nach Eintragung aktuellen Handelsregisterauszug
-   abrufen (www.handelsregister.de); fehlerhafte Eintragungen unverzüglich
-   korrigieren (§ 395 FamFG, Berichtigungsantrag).
+ abrufen (www.handelsregister.de); fehlerhafte Eintragungen unverzüglich
+ korrigieren (§ 395 FamFG, Berichtigungsantrag).
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -288,18 +288,18 @@ einzugehende Verbindlichkeiten entziehen.
 ## Risiken und typische Fehler
 
 - **Formfehler § 12 HGB:** Bloße Kopienbeglaubigung oder fehlende Originalunterschrift
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  - Literaturhinweis gesperrt: Kommentar-, Handbuch- und Aufsatzfundstellen nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - **Negative Publizität (§ 15 HGB):** Nicht eingetragene Änderungen können
-  Dritten gegenüber nicht geltend gemacht werden; erhebliches Haftungsrisiko
-  bei verspäteter Prokura-Widerrufseintragung.
+ Dritten gegenüber nicht geltend gemacht werden; erhebliches Haftungsrisiko
+ bei verspäteter Prokura-Widerrufseintragung.
 - **Versicherungspflicht § 8 Abs. 3 GmbHG:** Fehlt die Versicherung des neuen GF
-  über das Nichtvorliegen von Bestellungshindernissen, wird die Anmeldung
-  zurückgewiesen.
+ über das Nichtvorliegen von Bestellungshindernissen, wird die Anmeldung
+ zurückgewiesen.
 - **Falsche Registerart:** Eintragung im falschen Register (z. B. HRB statt HRA)
-  bei GmbH & Co. KG führt zu Verfahrensverzögerungen.
+ bei GmbH & Co. KG führt zu Verfahrensverzögerungen.
 - **Berufsrecht:** § 43a Abs. 2 BRAO, § 203 StGB; Vertraulichkeit der
-  Gesellschafterdaten und -beschlüsse.
+ Gesellschafterdaten und -beschlüsse.
 
 ## Quellenpflicht
 
@@ -415,13 +415,13 @@ INTEGRATIONSSTATUS — [Mandatscode] / [Zielgesellschaft]
 
 > Vertraulich — Mandatsgeheimnis § 43a Abs. 2 BRAO. Weitergabe nur nach Freigabe.
 
-PFLICHT-ZUSTIMMUNGEN  [Frist: DATUM — N Tage]
-  Erhalten: [N] von [gesamt]  ████░░  [%]
-  Verweigert: [N] ⚠️
+PFLICHT-ZUSTIMMUNGEN [Frist: DATUM — N Tage]
+ Erhalten: [N] von [gesamt] ████░░ [%]
+ Verweigert: [N] ⚠️
 
 VERTRAGSÜBERTRAGUNG
-  Tier 1–3: Status je Kategorie
-  CoC offen: [N] ⚠️
+ Tier 1–3: Status je Kategorie
+ CoC offen: [N] ⚠️
 
 ARBEITSPLAN — ÜBERFÄLLIG / DIESE WOCHE / ABGESCHLOSSEN
 
@@ -457,9 +457,9 @@ Erstellt von: [NAME], [KANZLEI]
 
 --- PFLICHT-ZUSTIMMUNGEN (SPA-Anhang [X]) ---
 Frist gemäß SPA: [TT.MM.JJJJ] ([N] Tage verbleibend)
-Erhalten: [N] von [GESAMT]  ████░░░░  [%]
+Erhalten: [N] von [GESAMT] ████░░░░ [%]
 Offen: [N] (Gegenpartei: [NAME]; kontaktiert: [DATUM])
-Verweigert: [N] ⚠️  → SPA-Klausel [§/Ziff.] gefährdet
+Verweigert: [N] ⚠️ → SPA-Klausel [§/Ziff.] gefährdet
 
 --- VERTRAGSÜBERTRAGUNGEN ---
 Tier 1 (SPA-Pflicht): [N] offen / [N] abgeschlossen
@@ -599,38 +599,38 @@ Für jede Vertragsart ein Extraktionsprofil mit den zu extraktierenden Klauseln 
 
 ```yaml
 extraktionsprofil:
-  change_of_control:
-    frage: "Gibt es eine Change-of-Control-Klausel? Ist Zustimmung erforderlich?"
-    rechtsgrundlage: "Kein gesetzliches Zustimmungserfordernis; rein vertragliche Regelung"
-    relevanz: "Zustimmungserfordernis vor Vollzug"
-  kuendigungsrecht_abtretung:
-    frage: "Gibt es ein Kündigungsrecht oder Abtretungsverbot bei Eigentümerwechsel?"
-    rechtsgrundlage: "§ 398 BGB (Abtretung), § 613a BGB (Betriebsübergang)"
-    relevanz: "Hemmt Vollzug oder Vertragsübertragung"
-  wettbewerbsverbot:
-    frage: "Enthält der Vertrag ein Wettbewerbs- oder Exklusivitätsverbot?"
-    rechtsgrundlage: "§ 138 BGB (Sittenwidrigkeit), Bindung nach UWG"
-    relevanz: "Schränkt Käufer-Geschäft ein"
-  haftungsbegrenzung:
-    frage: "Gibt es eine Haftungsobergrenze? In welcher Höhe? AGB oder Individualvereinbarung?"
-    rechtsgrundlage: "§§ 305 ff. BGB (AGB-Kontrolle); § 309 Nr. 7 BGB"
-    relevanz: "Risikoquantifizierung; AGB-Unwirksamkeit prüfen"
-  ip_eigentum:
-    frage: "Wer ist Eigentümer der erzeugten IP? Enthält der Vertrag eine Abtretung?"
-    rechtsgrundlage: "§§ 69b, 43 UrhG (Arbeitnehmererfindung); § 7 ArbNErfG"
-    relevanz: "IP-Kette zum Zielunternehmen"
-  kuendigungsfristen:
-    frage: "Wie sind ordentliche und außerordentliche Kündigung geregelt?"
-    rechtsgrundlage: "§§ 314, 615 BGB; vertraglich oder gesetzlich"
-    relevanz: "Risiko vorzeitiger Beendigung nach Vollzug"
-  agb_kontrolle:
-    frage: "Wurden die AGB einbezogen? Welcher Partei? Gültige Einbeziehung gem. §§ 305 ff. BGB?"
-    rechtsgrundlage: "§§ 305, 307, 309 BGB"
-    relevanz: "Unwirksame Klauseln trotz Vertragstext"
-  compliance:
-    frage: "Gibt es Compliance-Zusicherungen (Korruptionsverbote, Sanktionen, Exportkontrolle)?"
-    rechtsgrundlage: "§ 130 OWiG; AWG/AWV; GwG"
-    relevanz: "Compliance-Risiko des Zielunternehmens"
+ change_of_control:
+ frage: "Gibt es eine Change-of-Control-Klausel? Ist Zustimmung erforderlich?"
+ rechtsgrundlage: "Kein gesetzliches Zustimmungserfordernis; rein vertragliche Regelung"
+ relevanz: "Zustimmungserfordernis vor Vollzug"
+ kuendigungsrecht_abtretung:
+ frage: "Gibt es ein Kündigungsrecht oder Abtretungsverbot bei Eigentümerwechsel?"
+ rechtsgrundlage: "§ 398 BGB (Abtretung), § 613a BGB (Betriebsübergang)"
+ relevanz: "Hemmt Vollzug oder Vertragsübertragung"
+ wettbewerbsverbot:
+ frage: "Enthält der Vertrag ein Wettbewerbs- oder Exklusivitätsverbot?"
+ rechtsgrundlage: "§ 138 BGB (Sittenwidrigkeit), Bindung nach UWG"
+ relevanz: "Schränkt Käufer-Geschäft ein"
+ haftungsbegrenzung:
+ frage: "Gibt es eine Haftungsobergrenze? In welcher Höhe? AGB oder Individualvereinbarung?"
+ rechtsgrundlage: "§§ 305 ff. BGB (AGB-Kontrolle); § 309 Nr. 7 BGB"
+ relevanz: "Risikoquantifizierung; AGB-Unwirksamkeit prüfen"
+ ip_eigentum:
+ frage: "Wer ist Eigentümer der erzeugten IP? Enthält der Vertrag eine Abtretung?"
+ rechtsgrundlage: "§§ 69b, 43 UrhG (Arbeitnehmererfindung); § 7 ArbNErfG"
+ relevanz: "IP-Kette zum Zielunternehmen"
+ kuendigungsfristen:
+ frage: "Wie sind ordentliche und außerordentliche Kündigung geregelt?"
+ rechtsgrundlage: "§§ 314, 615 BGB; vertraglich oder gesetzlich"
+ relevanz: "Risiko vorzeitiger Beendigung nach Vollzug"
+ agb_kontrolle:
+ frage: "Wurden die AGB einbezogen? Welcher Partei? Gültige Einbeziehung gem. §§ 305 ff. BGB?"
+ rechtsgrundlage: "§§ 305, 307, 309 BGB"
+ relevanz: "Unwirksame Klauseln trotz Vertragstext"
+ compliance:
+ frage: "Gibt es Compliance-Zusicherungen (Korruptionsverbote, Sanktionen, Exportkontrolle)?"
+ rechtsgrundlage: "§ 130 OWiG; AWG/AWV; GwG"
+ relevanz: "Compliance-Risiko des Zielunternehmens"
 ```
 
 ### Schritt 3: Tool-Übergabe-Paket erstellen
@@ -661,10 +661,10 @@ Das Übergabe-Paket enthält:
 Nach Erhalt der Tool-Ausgabe:
 
 1. **Stichproben-QA**: [N] Dokumente manuell gegenlesen
-   - Vollständigkeit: Alle extraktierten Klauseln vorhanden?
-   - Richtigkeit: Klausel korrekt klassifiziert?
-   - Falsch-Negative: Übersehene wesentliche Klauseln?
-   - Falsch-Positive: Irrelevante Klauseln einbezogen?
+ - Vollständigkeit: Alle extraktierten Klauseln vorhanden?
+ - Richtigkeit: Klausel korrekt klassifiziert?
+ - Falsch-Negative: Übersehene wesentliche Klauseln?
+ - Falsch-Positive: Irrelevante Klauseln einbezogen?
 
 2. **Fehler-Typen dokumentieren**:
 
@@ -678,9 +678,9 @@ QA-Bericht – [Deal-Code]
 ```
 
 3. **Vertrauensniveau aus Praxisprofil anwenden:**
-   - `Ergebnis übernehmen`: Direkt in DD-Issues übernehmen, QA-Ergebnis vermerken
-   - `Stichproben`: Mittleres Vertrauensniveau; alle 🔴-Issues manuell nachprüfen
-   - `Vollständige Neuprüfung`: Nur Screening verwenden; alle Issues selbst extrahieren
+ - `Ergebnis übernehmen`: Direkt in DD-Issues übernehmen, QA-Ergebnis vermerken
+ - `Stichproben`: Mittleres Vertrauensniveau; alle 🔴-Issues manuell nachprüfen
+ - `Vollständige Neuprüfung`: Nur Screening verwenden; alle Issues selbst extrahieren
 
 ### Schritt 5: Rückübergabe an DD-Issue-Extraktion
 
@@ -688,21 +688,21 @@ Tool-Ergebnisse im Standardformat für den `dd-findings-extraktion`-Skill überg
 
 ```yaml
 ki_tool_ergebnisse:
-  tool: "Luminance"
-  version: "2024.3"
-  datum: "[DATUM]"
-  vertrauensniveau: "mittel"
-  qa_stichprobe_prozent: 10
-  dokumente_gesamt: 312
-  findings:
-    - dokument: "VDR/02-Verträge/Acme-MSA-2021.pdf"
-      kategorie: "Wesentliche Verträge"
-      klausel: "change_of_control"
-      extrakt: "§ 12 Abs. 3: Bei Kontrollwechsel hat [Vertragspartner] das Recht, fristlos zu kündigen."
-      schweregrad_vorschlag: "🔴"
-      ki_konfidenz: 0.92
-      qa_geprueft: true
-      qa_korrekt: true
+ tool: "Luminance"
+ version: "2024.3"
+ datum: "[DATUM]"
+ vertrauensniveau: "mittel"
+ qa_stichprobe_prozent: 10
+ dokumente_gesamt: 312
+ findings:
+ - dokument: "VDR/02-Verträge/Acme-MSA-2021.pdf"
+ kategorie: "Wesentliche Verträge"
+ klausel: "change_of_control"
+ extrakt: "§ 12 Abs. 3: Bei Kontrollwechsel hat [Vertragspartner] das Recht, fristlos zu kündigen."
+ schweregrad_vorschlag: "🔴"
+ ki_konfidenz: 0.92
+ qa_geprueft: true
+ qa_korrekt: true
 ```
 
 ## Quellen und Zitierweise
@@ -740,20 +740,20 @@ Erstellt von: [NAME], [KANZLEI]
 --- CHARGE-BESCHREIBUNG ---
 Dokumente gesamt: [N]
 Kategorien:
-  - [KATEGORIE 1]: [N] Dokumente — Eignung: [HOCH / BEDINGT / NIEDRIG]
-  - [KATEGORIE 2]: [N] Dokumente — Eignung: [HOCH / BEDINGT / NIEDRIG]
+ - [KATEGORIE 1]: [N] Dokumente — Eignung: [HOCH / BEDINGT / NIEDRIG]
+ - [KATEGORIE 2]: [N] Dokumente — Eignung: [HOCH / BEDINGT / NIEDRIG]
 Ausgeschlossen (manuell zu prüfen): [N] Dokumente (Gesellschaftsvertraege, Side Letters)
 
 --- EXTRAKTIONSPROFIL ---
 Version: [v1.0]
 Rechtsordnung: [Deutsches Recht / Englisches Recht / Gemischt]
 Klauseln im Profil:
-  1. change_of_control — [§ Vertrag; CoC-Recht]
-  2. abtretungsverbot — [§ 399 BGB; § 354a HGB]
-  3. haftungsbegrenzung — [§§ 305 ff. BGB]
-  4. wettbewerbsverbot — [§ 138 BGB]
-  5. kuendigungsfristen — [§§ 314, 615 BGB]
-  [weitere nach Profil]
+ 1. change_of_control — [§ Vertrag; CoC-Recht]
+ 2. abtretungsverbot — [§ 399 BGB; § 354a HGB]
+ 3. haftungsbegrenzung — [§§ 305 ff. BGB]
+ 4. wettbewerbsverbot — [§ 138 BGB]
+ 5. kuendigungsfristen — [§§ 314, 615 BGB]
+ [weitere nach Profil]
 
 --- PRIORISIERUNG ---
 Top-[N] nach [Vertragswert / Relevanz]: [LISTE]
@@ -853,7 +853,7 @@ Gesellschaftsrechts-Mandate sind heterogen — vom Beschluss-Streit bis zum M&A-
 ## Ablauf — acht Fragen
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Frage 1 — Mandantenrolle?
 
@@ -1092,7 +1092,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 5. `rechtsabteilung-beirat-mit-vetorechten-in-der-gmbh`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Beirat mit Vetorechten in der GmbH: Beiratsrechte werden zwischen Beratung, Zustimmung, Weisung und faktischer Geschäftsführung abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Beirat mit Vetorechten in der GmbH: Beiratsrechte werden zwischen Beratung, Zustimmung, Weisung und faktischer Geschäftsführung abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Beirat mit Vetorechten in der GmbH
 

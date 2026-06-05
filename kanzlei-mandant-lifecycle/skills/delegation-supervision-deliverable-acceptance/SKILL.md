@@ -1,13 +1,13 @@
 ---
 name: delegation-supervision-deliverable-acceptance
-description: "Nutze dies, wenn Delegation Und Supervision, Deliverable Acceptance, Document Room Governance, Enforcement Monitor, Engagement Letter Scope im Plugin Kanzlei Mandant Lifecycle konkret bearbeitet werden soll. Auslöser: Bitte Delegation Und Supervision, Deliverable Acceptance, Document Room Governance, Enforcement Monitor, Engagement Letter Scope prüfen.; Erstelle eine Arbeitsfassung zu Delegation Und Supervision, Deliverable Acceptance, Document Room Governance, Enforcement Monitor, Engagement Letter Scope.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Delegation Und Supervision, Deliverable Acceptance, Document Room Governance, Enforcement Monitor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Delegation Und Supervision, Deliverable Acceptance, Document Room Governance, Enforcement Monitor, Engagement Letter Scope
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Delegation Und Supervision, Deliverable Acceptance, Document Room Governance, Enforcement Monitor, Engagement Letter Scope** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

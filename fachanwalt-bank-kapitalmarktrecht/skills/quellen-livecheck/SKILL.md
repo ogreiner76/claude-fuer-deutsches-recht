@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Bank Kapitalmarktrecht** ein Fa
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-bk-bafin-workflow-chronologie` — Allgemein Bk Bafin Workflow Chronologie
+- `allgemein-bk-bafin-workflow-chronologie` — Allgemein Bk Bafin Chronologie
 - `anlageberatung-fehlerhaft-cybertrading-anlagebetrug` — Anlageberatung Fehlerhaft Cybertrading Anlagebetrug
 - `anlageberatungsfehler-bankrecht-akkreditiv-buergschaft-erste` — Anlageberatungsfehler Bankrecht Akkreditiv Buergschaft Erste
 - `bankaufsicht-erlaubnis-emissionsprospekt-mandantenentscheidung` — Bankaufsicht Erlaubnis Emissionsprospekt Mandantenentscheidung

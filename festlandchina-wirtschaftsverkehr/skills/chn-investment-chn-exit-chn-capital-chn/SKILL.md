@@ -1,13 +1,13 @@
 ---
 name: chn-investment-chn-exit-chn-capital-chn
-description: "Nutze dies, wenn Chn 075 Investment Committee Memo, Chn 076 Exit Plan China Operations, Chn 078 Capital Controls And Payments, Chn 079 Currency Risk Cny Eur Usd im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 075 Investment Committee Memo, Chn 076 Exit Plan China Operations, Chn 078 Capital Controls And Payments, Chn 079 Currency Risk Cny Eur Usd prüfen.; Erstelle eine Arbeitsfassung zu Chn 075 Investment Committee Memo, Chn 076 Exit Plan China Operations, Chn 078 Capital Controls And Payments, Chn 079 Currency Risk Cny Eur Usd.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chn 075 Investment Committee Memo, Chn 076 Exit Plan China Operations, Chn 078 Capital Controls And Payments, Chn 079 Currency Risk Cny Eur Usd: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Chn 075 Investment Committee Memo, Chn 076 Exit Plan China Operations, Chn 078 Capital Controls And Payments, Chn 079 Currency Risk Cny Eur Usd
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chn 075 Investment Committee Memo, Chn 076 Exit Plan China Operations, Chn 078 Capital Controls And Payments, Chn 079 Currency Risk Cny Eur Usd** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

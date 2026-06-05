@@ -8,7 +8,7 @@ description: "Erstellt formal belastbares Protokoll für Parteitag, Kreisversamm
 ## Aufgabe
 Erstellt formal belastbares Protokoll für Parteitag, Kreisversammlung, Aufstellung, Vorstand und Schiedsgericht.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

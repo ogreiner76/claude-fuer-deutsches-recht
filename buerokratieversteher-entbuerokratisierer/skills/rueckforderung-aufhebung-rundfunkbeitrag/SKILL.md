@@ -1,13 +1,13 @@
 ---
 name: rueckforderung-aufhebung-rundfunkbeitrag
-description: "Nutze dies, wenn Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief prüfen.; Erstelle eine Arbeitsfassung zu Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -41,7 +41,7 @@ Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz, Ratenzahlung 
 - Ratenzahlung/Stundung: § 76 BHO/LHO, § 222 AO (Steuern), § 76 SGB IV; Antrag formlos mit Einkommens-/Vermögensaufstellung.
 - Praktiker-Tipp: Bei Rückforderung sofort prüfen — Vertrauensschutz (verbraucht?), Verschulden (Mitwirkungspflicht verletzt?), Anhörung erfolgt? Innerhalb der Widerspruchsfrist (§ 70 VwGO) reagieren; bei drohender Verrechnung sofortige Aussetzung der Vollziehung beantragen (§ 80 Abs. 4 VwGO, § 86a SGG).
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -81,7 +81,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Beitragsbescheid, Befreiung, Ermäßigung, Vollstreckung, Widerspruch und Nachweise.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -121,7 +121,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Routet zwischen Schule, Eingliederungshilfe, Jugendamt, Sozialamt, ärztlichen Nachweisen und Eilantrag.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -161,7 +161,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Schulpflicht, Ordnungsmaßnahmen, Anhörung, Klassenkonferenz, Widerspruch, Schulamt und Landesrecht.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

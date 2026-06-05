@@ -1,6 +1,6 @@
 ---
 name: rom-010-traditio-und-uebereignung
-description: "Römisches Recht: Traditio Und Uebereignung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Traditio Und Uebereignung. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Traditio Und Uebereignung

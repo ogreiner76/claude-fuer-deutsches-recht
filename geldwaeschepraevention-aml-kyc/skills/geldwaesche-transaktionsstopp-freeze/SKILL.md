@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-transaktionsstopp-freeze
-description: "Nutze dies, wenn Geldwaesche Transaktionsstopp Freeze, Geldwaesche Transparenzregister, Geldwaesche Ubo Wirtschaftlich Berechtigte im Plugin Geldwaeschepraevention Aml Kyc konkret bearbeitet werden soll. Auslöser: Bitte Geldwaesche Transaktionsstopp Freeze, Geldwaesche Transparenzregister, Geldwaesche Ubo Wirtschaftlich Berechtigte prüfen.; Erstelle eine Arbeitsfassung zu Geldwaesche Transaktionsstopp Freeze, Geldwaesche Transparenzregister, Geldwaesche Ubo Wirtschaftlich Berechtigte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geldwaesche Transaktionsstopp Freeze, Geldwaesche Transparenzregister, Geldwaesche Ubo Wirtschaftlich Berechtigte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Geldwaesche Transaktionsstopp Freeze, Geldwaesche Transparenzregister, Geldwaesche Ubo Wirtschaftlich Berechtigte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geldwaesche Transaktionsstopp Freeze, Geldwaesche Transparenzregister, Geldwaesche Ubo Wirtschaftlich Berechtigte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -184,7 +184,7 @@ Dieser Skill verbindet KYC-Unterlagen mit Transparenzregisterdaten und Eskalatio
 - Art. 3 AMLD5 — UBO-Definitionen im EU-Recht (Erweiterungen auf Trusts und Stiftungen)
 
 ## Normfokus und Praxis (UBO-Ermittlung)
-- 25 %-Schwelle (§ 3 Abs. 2 GwG): direkt oder mittelbar Kapital-/Stimmrechtsmehrheit oder vergleichbare Kontrolle (z. B. Aufsichtsratsbestimmungsrecht, Gewinnverteilung). Bei mehrstufigen Beteiligungen Multiplikationsprinzip (z. B. 60 %  x  50 % = 30 % indirekt — UBO).
+- 25 %-Schwelle (§ 3 Abs. 2 GwG): direkt oder mittelbar Kapital-/Stimmrechtsmehrheit oder vergleichbare Kontrolle (z. B. Aufsichtsratsbestimmungsrecht, Gewinnverteilung). Bei mehrstufigen Beteiligungen Multiplikationsprinzip (z. B. 60 % x 50 % = 30 % indirekt — UBO).
 - Fiktiver UBO (§ 3 Abs. 2 Satz 5 GwG): wenn kein natürlicher UBO ermittelbar oder keine 25 % erreicht, gilt der gesetzliche Vertreter (Geschäftsführer, Vorstand) als fiktiver UBO; dies entbindet aber nicht von der Pflicht, alle Versuche zur Ermittlung zu dokumentieren.
 - Trusts/Stiftungen (§ 3 Abs. 3 GwG): jeder Treugeber, Treuhänder, Protector, Begünstigter und Person mit Bestimmungsbefugnis. Bei diskretionären Trusts: gesamte Begünstigtenklasse.
 - EuGH 22.11.2022 (C-37/20, C-601/20, WM): öffentlicher Zugang zum Transparenzregister durch jedermann nicht zulässig — seitdem berechtigtes Interesse erforderlich (§ 23 GwG); kommerzielle Datenanbieter dürfen Daten nur eingeschränkt nutzen.

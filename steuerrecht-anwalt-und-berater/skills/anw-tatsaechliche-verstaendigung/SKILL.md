@@ -1,6 +1,6 @@
 ---
 name: anw-tatsaechliche-verstaendigung
-description: "Workflow-Skill zu anw tatsaechliche verstaendigung schlussbesprechung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu anw tatsaechliche verstaendigung schlussbesprechung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich

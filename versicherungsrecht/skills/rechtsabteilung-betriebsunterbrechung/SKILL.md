@@ -1,21 +1,21 @@
 ---
 name: rechtsabteilung-betriebsunterbrechung
-description: "Nutze dies, wenn Rechtsabteilung Betriebsunterbrechung Und Lieferkettenausfall, Rechtsabteilung Cyberversicherung Nach Ransomware, Rechtsabteilung Idd Vertrieb Und Provisionskonflikt im Plugin Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Betriebsunterbrechung Und Lieferkettenausfall, Rechtsabteilung Cyberversicherung Nach Ransomware, Rechtsabteilung Idd Vertrieb Und Provisionskonflikt prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Betriebsunterbrechung Und Lieferkettenausfall, Rechtsabteilung Cyberversicherung Nach Ransomware, Rechtsabteilung Idd Vertrieb Und Provisionskonflikt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Betriebsunterbrechung Und Lieferkettenausfall, Rechtsabteilung Cyberversicherung Nach Ransomware, Rechtsabteilung Idd Vertrieb Und Provisionskonflikt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Betriebsunterbrechung Und Lieferkettenausfall, Rechtsabteilung Cyberversicherung Nach Ransomware, Rechtsabteilung Idd Vertrieb Und Provisionskonflikt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Betriebsunterbrechung Und Lieferkettenausfall, Rechtsabteilung Cyberversicherung Nach Ransomware, Rechtsabteilung Idd Vertrieb Und Provisionskonflikt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-betriebsunterbrechung-und-lieferkettenausfall` | Rechtsabteilungs-Spezialskill für Betriebsunterbrechung und Lieferkettenausfall: Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-cyberversicherung-nach-ransomware` | Rechtsabteilungs-Spezialskill für Cyberversicherung nach Ransomware: Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-idd-vertrieb-und-provisionskonflikt` | Rechtsabteilungs-Spezialskill für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-betriebsunterbrechung-und-lieferkettenausfall` | Rechtsabteilungs-Fachmodul für Betriebsunterbrechung und Lieferkettenausfall: Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-cyberversicherung-nach-ransomware` | Rechtsabteilungs-Fachmodul für Cyberversicherung nach Ransomware: Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-idd-vertrieb-und-provisionskonflikt` | Rechtsabteilungs-Fachmodul für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Rechtsabteilung Betriebsunterbrechung Und Lieferkettenausfall, Rechtsabte
 
 ## 1. `rechtsabteilung-betriebsunterbrechung-und-lieferkettenausfall`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Betriebsunterbrechung und Lieferkettenausfall: Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Betriebsunterbrechung und Lieferkettenausfall: Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Betriebsunterbrechung und Lieferkettenausfall
 
@@ -66,7 +66,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-cyberversicherung-nach-ransomware`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Cyberversicherung nach Ransomware: Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Cyberversicherung nach Ransomware: Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Cyberversicherung nach Ransomware
 
@@ -106,7 +106,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-idd-vertrieb-und-provisionskonflikt`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: IDD-Vertrieb und Provisionskonflikt
 

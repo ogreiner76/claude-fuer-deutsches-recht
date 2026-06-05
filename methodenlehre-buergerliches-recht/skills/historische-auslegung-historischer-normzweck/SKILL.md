@@ -1,19 +1,19 @@
 ---
 name: historische-auslegung-historischer-normzweck
-description: "Nutze dies, wenn Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck, Kelsen Normstufen Kompetenz Bgb Methode im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck, Kelsen Normstufen Kompetenz Bgb Methode prüfen.; Erstelle eine Arbeitsfassung zu Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck, Kelsen Normstufen Kompetenz Bgb Methode.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck, Kelsen Normstufen Kompetenz Bgb Methode
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck, Kelsen Normstufen Kompetenz Bgb Methode** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `historische-auslegung` | Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-Workflow ueber dipbt.bundestag.de. |
+| `historische-auslegung` | Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-ueber dipbt.bundestag.de. |
 | `historischer-normzweck-erster-schritt` | Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, Entstehungsgeschichte und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen methodischen Stellenwert diese Erkenntnisse gegenüber anderen Auslegungsmaßstäben haben. |
 | `institutionelle-folgen-und-regelbindung` | Analysiert die institutionellen Folgen von Rechtsanwendungsentscheidungen und die Forderung nach Regelbindung statt Einzelfallgerechtigkeit. Das Skill zeigt, wann Regelbindung als methodisches Gebot institutionell notwendig ist und wann Einzelfallgerechtigkeit überwiegt. Es hilft, in Gutachten und Schriftsätzen die institutionellen Konsequenzen verschiedener Auslegungsoptionen durchzudenken. |
 | `interessenjurisprudenz-heck` | Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: ratio legis als Interessenabwaegung. Vorlaeufer der Wertungsjurisprudenz. Kritik. Anwendung im BGB: Schadensrecht, Vertragsrecht, Generalklauseln. Wo Hecks Methode bis heute traegt und wo sie durch Wertungsjurisprudenz verfeinert ist. |
@@ -28,7 +28,7 @@ Für **Historische Auslegung, Historischer Normzweck Erster Schritt, Institution
 
 ## 1. `historische-auslegung`
 
-**Fokus:** Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-Workflow ueber dipbt.bundestag.de.
+**Fokus:** Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-ueber dipbt.bundestag.de.
 
 # Historische Auslegung
 

@@ -1,6 +1,6 @@
 ---
 name: rom-043-aequitas
-description: "Römisches Recht: Aequitas. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Aequitas. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Aequitas

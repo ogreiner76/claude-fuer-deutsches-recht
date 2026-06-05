@@ -1,13 +1,13 @@
 ---
 name: str-planfeststellung-strasse-plangenehmigung
-description: "Nutze dies, wenn Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis im Plugin Strassenrecht Infrastruktur konkret bearbeitet werden soll. Auslöser: Bitte Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis prüfen.; Erstelle eine Arbeitsfassung zu Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Str 006 Planfeststellung Strasse, Str 007 Plangenehmigung Und Uvp, Str 008 Anliegergebrauch Abgrenzen, Str 009 Sondernutzungserlaubnis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

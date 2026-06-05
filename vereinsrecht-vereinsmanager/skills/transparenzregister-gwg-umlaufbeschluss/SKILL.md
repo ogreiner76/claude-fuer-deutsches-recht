@@ -1,13 +1,13 @@
 ---
 name: transparenzregister-gwg-umlaufbeschluss
-description: "Nutze dies, wenn Transparenzregister Gwg, Umlaufbeschluss, Veranstaltung Planen im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Bitte Transparenzregister Gwg, Umlaufbeschluss, Veranstaltung Planen prüfen.; Erstelle eine Arbeitsfassung zu Transparenzregister Gwg, Umlaufbeschluss, Veranstaltung Planen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Transparenzregister Gwg, Umlaufbeschluss, Veranstaltung Planen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Transparenzregister Gwg, Umlaufbeschluss, Veranstaltung Planen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Transparenzregister Gwg, Umlaufbeschluss, Veranstaltung Planen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Transparenzregister Gwg, Umlaufbeschluss, Veranstaltung Planen** zuerst d
 ## Aufgabe
 Prüft Transparenzregisterdaten, wirtschaftlich Berechtigte, Registerabgleich und Meldepflichten.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft Beschlüsse ohne Versammlung, Textform, Einstimmigkeit oder Satzungsregel, Dokumentation und Grenzen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft Genehmigungen, Sicherheit, GEMA, Ausschank, Jugendschutz, Datenschutz, Versicherung und Verträge.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

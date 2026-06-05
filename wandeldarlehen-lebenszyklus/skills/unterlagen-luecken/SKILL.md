@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Nutze dies, wenn Unterlagen und Lücken im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Unterlagen und Lücken

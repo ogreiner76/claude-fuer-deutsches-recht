@@ -1,13 +1,13 @@
 ---
 name: verl-hoerbuch-verl-fachzeitschrift
-description: "Nutze dies, wenn Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung prüfen.; Erstelle eine Arbeitsfassung zu Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -69,8 +69,8 @@ Hörbücher sind urheberrechtlich komplexe Produkte: Sie kombinieren das Urheber
 1. **Werkbeschreibung**: Titel des Werks; Umfang (Laufzeit, Seitenanzahl).
 2. **Aufnahmesessions**: Ort, Zeitplanung, technische Standards.
 3. **Vergütung**:
-   - Pauschalhonorar (häufig bei Auftragsproduktion): Z.B. 150–300 € pro Aufnahmestunde.
-   - Beteiligungshonorar: Anteil an Einnahmen aus Verkauf/Streaming.
+ - Pauschalhonorar (häufig bei Auftragsproduktion): Z.B. 150–300 € pro Aufnahmestunde.
+ - Beteiligungshonorar: Anteil an Einnahmen aus Verkauf/Streaming.
 4. **Nutzungsrechtseinräumung (§ 79 UrhG)**: Alle Nutzungsarten (CD, Download, Streaming, Bibliotheksausleihe); ausschließlich oder einfach; zeitlich und räumlich.
 5. **Namensnennung**: Sprecher wird auf der Verpackung und in Metadaten genannt.
 6. **Rückgabe der Aufnahmen**: Originaldateien an Verlag; Sprecher hat keine eigene Vermarktungsrecht.
@@ -79,8 +79,8 @@ Hörbücher sind urheberrechtlich komplexe Produkte: Sie kombinieren das Urheber
 ## GEMA und musikalische Unterlegung
 
 - Wenn Hörbuch musikalische Elemente enthält (Intro, Untermaler, Abschnittstrennungen):
-  - Eigenkomposition: Verlag/Produzent lizenziert direkt.
-  - GEMA-geschützte Musik: GEMA-Lizenz erforderlich (Online-Produkt: GEMA-Tarif U-OM; CD: GEMA-Tarif U-K/H).
+ - Eigenkomposition: Verlag/Produzent lizenziert direkt.
+ - GEMA-geschützte Musik: GEMA-Lizenz erforderlich (Online-Produkt: GEMA-Tarif U-OM; CD: GEMA-Tarif U-K/H).
 - Schnittstelle mit GVL (Gesellschaft zur Verwertung von Leistungsschutzrechten): Sprecher und Hersteller melden Hörbücher für Bibliotheks- und Streaming-Ausschüttungen.
 
 ## Preisbindung für Hörbücher
@@ -197,9 +197,9 @@ Wissenschaftliche und juristische Fachzeitschriften unterliegen einem eigenen Re
 ### Grundsatz
 - Verlage haften nicht für inhaltliche Fehler in Fachbeiträgen (kein Beratungsvertrag).
 - **Ausnahmen**:
-  - Verlag hat eigene Expertise beworben und besonderes Vertrauen in Richtigkeit geweckt.
-  - Offensichtliche Fehler, die ein Fachlektorat hätte erkennen müssen.
-  - Fehler in Lehrbüchern, auf die Studenten in Prüfungen vertrauen → höhere Sorgfaltspflicht?
+ - Verlag hat eigene Expertise beworben und besonderes Vertrauen in Richtigkeit geweckt.
+ - Offensichtliche Fehler, die ein Fachlektorat hätte erkennen müssen.
+ - Fehler in Lehrbüchern, auf die Studenten in Prüfungen vertrauen → höhere Sorgfaltspflicht?
 
 ### Retraction und Richtigstellung
 - Retraction: Zurückziehen eines veröffentlichten Beitrags wegen Fehler, Plagiats oder Datenfälschung.

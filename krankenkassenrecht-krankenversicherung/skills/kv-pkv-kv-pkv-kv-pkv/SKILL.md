@@ -1,13 +1,13 @@
 ---
 name: kv-pkv-kv-pkv-kv-pkv
-description: "Nutze dies, wenn Kv 030 Pkv Beitragsanpassung Treuhaender Begründung Und Verjaeh, Kv 031 Pkv Basistarif Standardtarif Notlagentarif, Kv 032 Pkv Krankentagegeld Berufsunfaehigkeit Und Arbeitsunfaehi im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 030 Pkv Beitragsanpassung Treuhaender Begründung Und Verjaeh, Kv 031 Pkv Basistarif Standardtarif Notlagentarif, Kv 032 Pkv Krankentagegeld Berufsunfaehigkeit Und Arbeitsunfaehi prüfen.; Erstelle eine Arbeitsfassung zu Kv 030 Pkv Beitragsanpassung Treuhaender Begründung Und Verjaeh, Kv 031 Pkv Basistarif Standardtarif Notlagentarif, Kv 032 Pkv Krankentagegeld Berufsunfaehigkeit Und Arbeitsunfaehi.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 030 Pkv Beitragsanpassung Treuhaender Begruendung Und Verjaeh, Kv 031 Pkv Basistarif Standardtarif Notlagentarif, Kv 032 Pkv Krankentagegeld Berufsunfaehigkeit Und Arbeitsunfaehi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 030 Pkv Beitragsanpassung Treuhaender Begründung Und Verjaeh, Kv 031 Pkv Basistarif Standardtarif Notlagentarif, Kv 032 Pkv Krankentagegeld Berufsunfaehigkeit Und Arbeitsunfaehi
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 030 Pkv Beitragsanpassung Treuhaender Begründung Und Verjaeh, Kv 031 Pkv Basistarif Standardtarif Notlagentarif, Kv 032 Pkv Krankentagegeld Berufsunfaehigkeit Und Arbeitsunfaehi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -141,9 +141,9 @@ Wer sich die PKV-Beiträge nicht leisten kann oder will, hat Optionen: **Basista
 
 ### Schritt 1 – Basistarif-Anspruch (§ 152 VAG)
 - Wer hat Anspruch auf Wechsel in Basistarif?
-  - PKV-Versicherte ohne anderweitigen Pflichtversicherungsanspruch
-  - Versicherungspflichtige ohne KV-Schutz (Auffangpflichtversicherung)
-  - GKV-Versicherte, die in PKV wechseln (nur Neuabschluss)
+ - PKV-Versicherte ohne anderweitigen Pflichtversicherungsanspruch
+ - Versicherungspflichtige ohne KV-Schutz (Auffangpflichtversicherung)
+ - GKV-Versicherte, die in PKV wechseln (nur Neuabschluss)
 - Keine Risikoprüfung: PKV muss jeden aufnehmen
 - Beitrag: max. allgemeiner GKV-Beitragssatz (14,6 %) * Beitragsbemessungsgrenze
 

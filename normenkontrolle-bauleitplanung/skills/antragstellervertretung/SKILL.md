@@ -1,12 +1,12 @@
 ---
 name: antragstellervertretung
-description: "Nutze dies, wenn Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung / spezial antragstellervertretung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung / antragstellervertretung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, OVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

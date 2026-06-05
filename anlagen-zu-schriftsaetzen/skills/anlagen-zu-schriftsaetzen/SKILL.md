@@ -82,12 +82,12 @@ Regeln: keine Umlaute in Dateinamen (`ae/oe/ue/ss`), keine Leerzeichen, stabile 
 
 ```
 anlagen/
-  Anlage_K-01_<Kurzbeschreibung>.pdf
-  Anlage_K-02_<Kurzbeschreibung>.pdf
-  …
-  Anlagenkonvolut.pdf
-  Anlagenverzeichnis.pdf
-  Anlagenverzeichnis.md
+ Anlage_K-01_<Kurzbeschreibung>.pdf
+ Anlage_K-02_<Kurzbeschreibung>.pdf
+ …
+ Anlagenkonvolut.pdf
+ Anlagenverzeichnis.pdf
+ Anlagenverzeichnis.md
 ```
 
 Optional: `Schriftsatz_mit_Anlagen.pdf` — Schriftsatz vorab, dann Konvolut, mit durchlaufenden Lesezeichen.
@@ -96,11 +96,11 @@ Zusätzlich bei großen Akten:
 
 ```
 kontrolle/
-  belegmatrix.xlsx
-  hash-und-duplikatlog.csv
-  lueckenliste.md
-  redaktionsprotokoll.md
-  bea-versandplan.md
+ belegmatrix.xlsx
+ hash-und-duplikatlog.csv
+ lueckenliste.md
+ redaktionsprotokoll.md
+ bea-versandplan.md
 ```
 
 ## Was der Skill NICHT tut

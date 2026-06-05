@@ -1,20 +1,20 @@
 ---
 name: rechtswahl-schweizer-risikoklassifizierung
-description: "Nutze dies, wenn Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Agb Transparenzgebot 307 Abs 1 Satz 2, Agb Und 242 Bgb Eingriffsnorm, Agb Und Cookie Einwilligung Dsgvo im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Agb Transparenzgebot 307 Abs 1 Satz 2, Agb Und 242 Bgb Eingriffsnorm, Agb Und Cookie Einwilligung Dsgvo prüfen.; Erstelle eine Arbeitsfassung zu Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Agb Transparenzgebot 307 Abs 1 Satz 2, Agb Und 242 Bgb Eingriffsnorm, Agb Und Cookie Einwilligung Dsgvo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Agb Transparenzgebot 307 Abs 1 Satz 2, Agb Und 242 Bgb Eingriffsnorm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Agb Transparenzgebot 307 Abs 1 Satz 2, Agb Und 242 Bgb Eingriffsnorm, Agb Und Cookie Einwilligung Dsgvo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Agb Transparenzgebot 307 Abs 1 Satz 2, Agb Und 242 Bgb Eingriffsnorm, Agb Und Cookie Einwilligung Dsgvo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `agb-rechtswahl-schweizer-recht-rom-i` | Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf fuer rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm. |
-| `agb-risikoklassifizierung-ampel` | Einstiegs- und Workflow-Skill für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `agb-risikoklassifizierung-ampel` | Einstiegs- und Arbeitsmodul für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 | `agb-transparenzgebot-307-abs-1-satz-2` | AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die BGH-Linie zum Transparenzgebot aus Bestimmtheitserfordernis Verstaendlichkeit Vorhersehbarkeit der Klauselwirkung und Schutz vor verschachtelten Verweisen. Behandelt typische Verstoesse Cookie-Banner Preisanpassung Schiedsklauseln. Liefert Pruefraster. |
 | `agb-und-242-bgb-eingriffsnorm` | Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-VO. Skill problematisiert die in der Literatur vereinzelt vertretene These das gesamte AGB-Recht greife international durch weil § 242 BGB ein verbindlicher Grundsatz von Treu und Glauben sei. Liefert Pro- und Contra-Argumente Bedeutung der EuGH-Rechtsprechung zur Eingriffsnorm-Definition (Unamar Rs. C-184/12) und praktische Konsequenz fuer internationale Kanzleimandate. |
 | `agb-und-cookie-einwilligung-dsgvo` | AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill klaert die Wechselwirkung von AGB-rechtlichen Klauseln und datenschutzrechtlicher Einwilligung Anforderungen an die Einwilligung Differenzierung notwendige Cookies und optionale Cookies sowie BGH-Linie zur Einwilligung im Plattformkontext. Behandelt EuGH-Linie Planet49 und Folgejudikate. Liefert Pruefraster und Bannerentwurf. |
@@ -97,7 +97,7 @@ Für **Agb Rechtswahl Schweizer Recht Rom I, Agb Risikoklassifizierung Ampel, Ag
 
 ## 2. `agb-risikoklassifizierung-ampel`
 
-**Fokus:** Einstiegs- und Workflow-Skill für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für AGB Risikoklassifizierung Ampel: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # AGB Risikoklassifizierung Ampel
 

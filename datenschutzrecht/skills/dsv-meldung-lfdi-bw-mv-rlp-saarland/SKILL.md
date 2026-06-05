@@ -1,13 +1,13 @@
 ---
 name: dsv-meldung-lfdi-bw-mv-rlp-saarland
-description: "Nutze dies, wenn Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland prüfen.; Erstelle eine Arbeitsfassung zu Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Meldung Lfdi Bremen, Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

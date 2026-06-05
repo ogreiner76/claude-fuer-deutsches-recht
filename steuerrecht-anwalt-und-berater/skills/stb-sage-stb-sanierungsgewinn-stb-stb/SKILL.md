@@ -1,13 +1,13 @@
 ---
 name: stb-sage-stb-sanierungsgewinn-stb-stb
-description: "Nutze dies, wenn Stb Sage Buchhalter Bwa Konfiguration, Stb Sanierungsgewinn 3A Estg Grundtatbestand, Stb Sanierungsgewinn 3A Estg Unternehmens Vs Person, Stb Sanierungsgewinn 3A Iv Estg Antrag Und Bindungswirkung, Stb Sanierungsgewinn Bmf 2017 Sanierungserlass Nachfolge und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Sage Buchhalter Bwa Konfiguration, Stb Sanierungsgewinn 3A Estg Grundtatbestand, Stb Sanierungsgewinn 3A Estg Unternehmens Vs Person, Stb Sanierungsgewinn 3A Iv Estg Antrag Und Bindungswirkung, Stb Sanierungsgewinn Bmf 2017 Sanierungserlass Nachfolge und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Sage Buchhalter Bwa Konfiguration, Stb Sanierungsgewinn 3A Estg Grundtatbestand, Stb Sanierungsgewinn 3A Estg Unternehmens Vs Person, Stb Sanierungsgewinn 3A Iv Estg Antrag Und Bindungswirkung, Stb Sanierungsgewinn Bmf 2017 Sanierungserlass Nachfolge und 4 weitere Themen.; Welche Normen und Na..."
+description: "Nutze dies bei Stb Sage Buchhalter Bwa Konfiguration, Stb Sanierungsgewinn 3a Estg Grundtatbestand, Stb Sanierungsgewinn 3a Estg Unternehmens Vs Person, Stb Sanierungsgewinn 3a Iv Estg Antrag Und Bindungswirkung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Sage Buchhalter Bwa Konfiguration, Stb Sanierungsgewinn 3A Estg Grundtatbestand, Stb Sanierungsgewinn 3A Estg Unternehmens Vs Person, Stb Sanierungsgewinn 3A Iv Estg Antrag Und Bindungswirkung, Stb Sanierungsgewinn Bmf 2017 Sanierungserlass Nachfolge und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Sage Buchhalter Bwa Konfiguration, Stb Sanierungsgewinn 3A Estg Grundtatbestand, Stb Sanierungsgewinn 3A Estg Unternehmens Vs Person, Stb Sanierungsgewinn 3A Iv Estg Antrag Und Bindungswirkung, Stb Sanierungsgewinn Bmf 2017 Sanierungserlass Nachfolge und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -170,7 +170,7 @@ Stand: 05/2026.
 - **§ 7b GewStG** — Gewerbesteuer-Befreiung parallel.
 - **§ 3c Abs. 4 EStG** — Verlustreihenfolge.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Die vier Voraussetzungen kumulativ
 
@@ -241,14 +241,14 @@ gegenüber dem Finanzamt.
 ### Berechnungsschema § 3a Abs. 3 EStG
 
 ```
-Sanierungsertrag brutto (Verzichtsbetrag)             EUR [A]
+Sanierungsertrag brutto (Verzichtsbetrag) EUR [A]
 abzgl. mit dem Sanierungsertrag wirtschaftlich
-       zusammenhängende Aufwendungen (Berater,
-       Rechtskosten — § 3c Abs. 1, Abs. 4 EStG)        EUR [B]
-Sanierungsertrag netto                                EUR [A-B]
-abzgl. zu verrechnender Verlustvortrag § 3c IV EStG   EUR [C]
+ zusammenhängende Aufwendungen (Berater,
+ Rechtskosten — § 3c Abs. 1, Abs. 4 EStG) EUR [B]
+Sanierungsertrag netto EUR [A-B]
+abzgl. zu verrechnender Verlustvortrag § 3c IV EStG EUR [C]
 verbleibender Sanierungsertrag (steuerbefreit gem.
-§ 3a Abs. 1 EStG bei Antrag § 3a Abs. 4 EStG)         EUR [A-B-C]
+§ 3a Abs. 1 EStG bei Antrag § 3a Abs. 4 EStG) EUR [A-B-C]
 ```
 
 ### Subsumtionsmuster Vier Voraussetzungen — Gutachtenformat
@@ -333,7 +333,7 @@ beachtet; parallel § 7b GewStG-Antrag.
 - **OFD Frankfurt, Verfügung v. 27.12.2018, BeckVerw 447487** — Einsprüche zur Mindestbesteuerung ruhend zu stellen.
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
 
-### Querverweis Liquidations-Spezial-Skill
+### Querverweis Liquidations-Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse zur Behandlung stehen gelassener Verbindlichkeiten in der Liquidation.
 
@@ -372,7 +372,7 @@ beachtet; parallel § 7b GewStG-Antrag.
 - **§ 4 EStG, § 5 EStG** — Betriebsvermögensvergleich; Abgrenzung Betrieb / Privat.
 - **§§ 286 ff. InsO** — Restschuldbefreiungsverfahren.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Variante A: unternehmensbezogene Sanierung (§ 3a Abs. 1, 2 EStG)
 
@@ -449,7 +449,7 @@ IV. Ergebnis
 § 3a Abs. [1 / 5] EStG anwendbar.
 
 V. Folge: Antrag § 3a Abs. 4 EStG mit Berücksichtigung
-    der spezifischen Voraussetzungen.
+ der spezifischen Voraussetzungen.
 ```
 
 ### Berechnungsbeispiel Personengesellschaft mit gemischtem Verzicht
@@ -457,14 +457,14 @@ V. Folge: Antrag § 3a Abs. 4 EStG mit Berücksichtigung
 ```
 KG mit zwei Kommanditisten 50/50:
 
-Verzicht Bankdarlehen Gesamthandsvermögen        EUR 800.000
-  ► je Mitunternehmer EUR 400.000 Sanierungsertrag
-  ► je Mitunternehmer Antrag § 3a Abs. 4 EStG
+Verzicht Bankdarlehen Gesamthandsvermögen EUR 800.000
+ ► je Mitunternehmer EUR 400.000 Sanierungsertrag
+ ► je Mitunternehmer Antrag § 3a Abs. 4 EStG
 
 Verzicht Gesellschafterdarlehen Kommanditist A
-  Sonderbetriebsvermögen                         EUR 200.000
-  ► nur Kommanditist A betroffen
-  ► getrennte Prüfung in dessen Steuererklärung
+ Sonderbetriebsvermögen EUR 200.000
+ ► nur Kommanditist A betroffen
+ ► getrennte Prüfung in dessen Steuererklärung
 ```
 
 ## Typische Fehler
@@ -528,7 +528,7 @@ Verzicht Gesellschafterdarlehen Kommanditist A
 - **§ 149 AO** — Steuererklärung.
 - **§ 164 AO** — Festsetzung unter Vorbehalt; eventuelle Rücknahme der Steuerfestsetzung im Vorbehaltsverfahren.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt | Output |
 |---|---|---|
@@ -575,7 +575,7 @@ Anlage zur [Körperschaft-/Einkommen-]Steuererklärung
 [Wirtschaftsjahr] der [Firma]
 
 Betreff: Antrag nach § 3a Abs. 4 EStG —
-         Sanierungsertrag in Höhe von EUR [Betrag]
+ Sanierungsertrag in Höhe von EUR [Betrag]
 
 Sehr geehrte Damen und Herren,
 
@@ -598,24 +598,24 @@ in entsprechender Höhe.
 II. Vier Voraussetzungen § 3a Abs. 1 EStG
 1. Sanierungsbedürftigkeit: Anlagen 1 und 2.
 2. Sanierungsfähigkeit: IDW S 6-Konzept vom [Datum] —
-   Anlage 4.
+ Anlage 4.
 3. Sanierungsabsicht der Gläubiger: Schriftliche
-   Erklärungen — Anlagen 3.
+ Erklärungen — Anlagen 3.
 4. Sanierungseignung: Maßnahmenkatalog und Quote —
-   Anlage 5.
+ Anlage 5.
 
 III. Berechnung Sanierungsertrag nach § 3a Abs. 3 EStG
-Sanierungsertrag brutto                     EUR [A]
-abzgl. zusammenhängende Aufwendungen         EUR [B]
-Sanierungsertrag netto                       EUR [A-B]
-abzgl. Verlustvortrag § 3c Abs. 4 EStG       EUR [C]
-verbleibender steuerbefreiter Ertrag         EUR [A-B-C]
+Sanierungsertrag brutto EUR [A]
+abzgl. zusammenhängende Aufwendungen EUR [B]
+Sanierungsertrag netto EUR [A-B]
+abzgl. Verlustvortrag § 3c Abs. 4 EStG EUR [C]
+verbleibender steuerbefreiter Ertrag EUR [A-B-C]
 
 IV. Anträge
 1. Steuerbefreiung in Höhe von EUR [A-B-C] gem.
-   § 3a Abs. 1 EStG.
+ § 3a Abs. 1 EStG.
 2. Festsetzung unter Vorbehalt der Nachprüfung
-   gem. § 164 AO bis Abschluss des Sanierungsverfahrens.
+ gem. § 164 AO bis Abschluss des Sanierungsverfahrens.
 
 Mit freundlichen Grüßen
 [Berater]
@@ -630,7 +630,7 @@ Schritt 3: FA stellt Sanierungserfolg fest
 Schritt 4: Bindungswirkung greift ► Rücknahme ausgeschlossen
 Schritt 5: Verlustvortrag wurde verbraucht ► dauerhaft weg
 Schritt 6: Bei späterer Streit: nur noch Steuerbescheid-
-           Korrektur, kein neuer Wahlrechtsweg
+ Korrektur, kein neuer Wahlrechtsweg
 ```
 
 ## Typische Fehler
@@ -698,7 +698,7 @@ Das BMF-Schreiben vom 27.04.2017 ist die Verwaltungsanweisung, die den früheren
 - **§ 7b GewStG** — Gewerbesteuer.
 - **§ 89 AO** — verbindliche Auskunft.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Vier Voraussetzungen im BMF-Schreiben konkretisiert
 
@@ -749,32 +749,32 @@ im Sinne § 3a Abs. 1 EStG sind nach Maßgabe des BMF-Schreibens
 vom 27.04.2017 (BStBl. I [..., Seite ...]) erfüllt:
 
 1. Sanierungsbedürftigkeit
-   Die Mandantin wies in den Jahren [X-3] bis [X-1] eine
-   Verlustreihe von kumuliert EUR [Betrag] aus. Die
-   integrierte Liquiditätsplanung zeigt einen Liquiditäts-
-   Bedarf von EUR [...] bis [Stichtag], der ohne Sanierung
-   nicht gedeckt werden konnte (Anlage 1).
+ Die Mandantin wies in den Jahren [X-3] bis [X-1] eine
+ Verlustreihe von kumuliert EUR [Betrag] aus. Die
+ integrierte Liquiditätsplanung zeigt einen Liquiditäts-
+ Bedarf von EUR [...] bis [Stichtag], der ohne Sanierung
+ nicht gedeckt werden konnte (Anlage 1).
 
 2. Sanierungsfähigkeit
-   Das IDW S 6-Konzept des Sanierungsberaters
-   [Name] vom [Datum] (Anlage 4) weist die Fortführung
-   bei Durchführung der vorgeschlagenen Maßnahmen aus.
-   Die integrierte Planung für [24 Monate ab Stichtag]
-   ist Teil des Konzepts.
+ Das IDW S 6-Konzept des Sanierungsberaters
+ [Name] vom [Datum] (Anlage 4) weist die Fortführung
+ bei Durchführung der vorgeschlagenen Maßnahmen aus.
+ Die integrierte Planung für [24 Monate ab Stichtag]
+ ist Teil des Konzepts.
 
 3. Sanierungsabsicht der Gläubiger
-   Die Gläubiger [...] haben mit Schreiben vom [Datum]
-   ausdrücklich erklärt, dass der jeweilige Verzicht
-   "zum Zweck der Sanierung der Mandantin" erfolgt
-   (Anlagen 3.1 bis 3.n). Diese Formulierung entspricht
-   der Konkretisierung in Abschnitt [...] des BMF-
-   Schreibens 27.04.2017.
+ Die Gläubiger [...] haben mit Schreiben vom [Datum]
+ ausdrücklich erklärt, dass der jeweilige Verzicht
+ "zum Zweck der Sanierung der Mandantin" erfolgt
+ (Anlagen 3.1 bis 3.n). Diese Formulierung entspricht
+ der Konkretisierung in Abschnitt [...] des BMF-
+ Schreibens 27.04.2017.
 
 4. Sanierungseignung
-   Die im Maßnahmenkatalog (Anlage 5) quantifizierten
-   Maßnahmen führen nach den Planungen zu einer
-   Verbesserung der Eigenkapitalquote von [X] % auf
-   [Y] %; die Liquiditätsdeckungslücke wird geschlossen.
+ Die im Maßnahmenkatalog (Anlage 5) quantifizierten
+ Maßnahmen führen nach den Planungen zu einer
+ Verbesserung der Eigenkapitalquote von [X] % auf
+ [Y] %; die Liquiditätsdeckungslücke wird geschlossen.
 
 Wir bitten um steuerbefreite Festsetzung in Höhe von
 EUR [Betrag] gem. § 3a Abs. 1 EStG.
@@ -859,7 +859,7 @@ Der Forderungsverzicht durch Gläubiger ist beim Schuldner ein Buchgewinn. Wie e
 - **§ 8 Abs. 3 KStG** — Verdeckte Einlage durch Gesellschafter.
 - **§ 3a Abs. 3 EStG** — Berechnung Sanierungsertrag.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Buchungslogik beim Schuldner
 
@@ -902,46 +902,46 @@ Der Forderungsverzicht durch Gläubiger ist beim Schuldner ein Buchgewinn. Wie e
 ### Plan-Bilanz vor und nach Verzicht
 
 ```
-Aktiva                        vor Sanierung  nach Sanierung
-Anlagevermögen                EUR 2.500.000  EUR 2.500.000
-Umlaufvermögen                EUR 1.200.000  EUR 1.200.000
-Summe Aktiva                  EUR 3.700.000  EUR 3.700.000
+Aktiva vor Sanierung nach Sanierung
+Anlagevermögen EUR 2.500.000 EUR 2.500.000
+Umlaufvermögen EUR 1.200.000 EUR 1.200.000
+Summe Aktiva EUR 3.700.000 EUR 3.700.000
 
-Passiva                       vor Sanierung  nach Sanierung
-Eigenkapital                  EUR  -800.000  EUR  -300.000
-  davon Bilanzverlust         EUR -2.500.000 EUR -2.000.000
-Rückstellungen                EUR   400.000  EUR   400.000
-Verbindlichkeiten ggü. Kreditinst. EUR 2.500.000  EUR 1.700.000
-  (Bankverzicht 800.000)
-Verbindlichkeiten ggü. Lieferanten EUR 1.600.000  EUR 1.400.000
-  (Lieferantenverzicht 200.000)
-Summe Passiva                 EUR 3.700.000  EUR 3.200.000
+Passiva vor Sanierung nach Sanierung
+Eigenkapital EUR -800.000 EUR -300.000
+ davon Bilanzverlust EUR -2.500.000 EUR -2.000.000
+Rückstellungen EUR 400.000 EUR 400.000
+Verbindlichkeiten ggü. Kreditinst. EUR 2.500.000 EUR 1.700.000
+ (Bankverzicht 800.000)
+Verbindlichkeiten ggü. Lieferanten EUR 1.600.000 EUR 1.400.000
+ (Lieferantenverzicht 200.000)
+Summe Passiva EUR 3.700.000 EUR 3.200.000
 
-Sanierungsertrag GuV          EUR        0    EUR 1.000.000
+Sanierungsertrag GuV EUR 0 EUR 1.000.000
 ```
 
 ### Buchungssätze (Beispiel)
 
 ```
 Variante A — Drittgläubiger (Bank) verzichtet auf 800.000:
-  Verbindlichkeiten Kreditinstitut 800.000
-    an sonstiger betrieblicher Ertrag 800.000
+ Verbindlichkeiten Kreditinstitut 800.000
+ an sonstiger betrieblicher Ertrag 800.000
 
 Variante B — Gesellschafter verzichtet auf werthaltige 200.000:
-  Verbindlichkeiten Gesellschafter 200.000
-    an Kapitalrücklage 200.000
+ Verbindlichkeiten Gesellschafter 200.000
+ an Kapitalrücklage 200.000
 
 Variante C — Gesellschafter verzichtet auf nicht werthaltige
 500.000 (Teilwert 100.000, Restbetrag 400.000 zum Ertrag):
-  Verbindlichkeiten Gesellschafter 500.000
-    an Kapitalrücklage 100.000
-    an sonstiger betrieblicher Ertrag 400.000
+ Verbindlichkeiten Gesellschafter 500.000
+ an Kapitalrücklage 100.000
+ an sonstiger betrieblicher Ertrag 400.000
 
 Variante D — Verzicht mit Besserungsabrede:
-  bei Eintritt der Besserung (z. B. Gewinn 300.000 in
-  Folgejahr):
-    Verbindlichkeit / Wegfall  300.000
-      an sonstiger betrieblicher Ertrag 300.000
+ bei Eintritt der Besserung (z. B. Gewinn 300.000 in
+ Folgejahr):
+ Verbindlichkeit / Wegfall 300.000
+ an sonstiger betrieblicher Ertrag 300.000
 ```
 
 ### Anhangs-Erläuterung
@@ -1010,7 +1010,7 @@ führung erfüllt.
 - Stalbold, in: Gosch, KStG, § 11 Rn. 72.
 - Micker, in: Herrmann/Heuer/Raupach, EStG/KStG, § 11 KStG Rn. 44.
 
-### Querverweis Spezial-Skill
+### Querverweis Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse für stehen gelassene Verbindlichkeiten in der Liquidation.
 
@@ -1055,7 +1055,7 @@ Dieser Skill stellt die Zeitachse 12 Monate vor dem geplanten Antrag dar und zei
 - **BMF-Schreiben vom 27.04.2017** (Sanierungserlass-Nachfolge) — verwaltungsseitige Konkretisierung der vier Voraussetzungen.
 - Inkrafttreten der gesetzlichen Verankerung in § 3a EStG: Verifikation des aktuellen Standes (Wachstumschancengesetz, BGBl. I 2024) vor jedem Mandat.
 
-## Workflow / Schritt für Schritt — die Zeitachse
+## / Schritt für Schritt — die Zeitachse
 
 | Monat vor Plan | Aufgabe | Verantwortlich | Output |
 |---|---|---|---|
@@ -1100,38 +1100,38 @@ Dieser Skill stellt die Zeitachse 12 Monate vor dem geplanten Antrag dar und zei
 M-12 ► Mandantenbrief Warnung Sanierungsgewinn
 M-11 ► Verlustvortrag-Check (EStG/KStG/GewStG)
 M-10 ► Memo "unternehmensbezogen vs. personenbezogen"
-M-9  ► Sanierungskonzept Entwurf
-M-8  ► IDW-S6-Bericht Entwurf
-M-7  ► Maßnahmenkatalog mit Quote
-M-6  ► Gläubigeransprache schriftlich
-M-5  ► Plan-Bilanz mit Verzichtswirkung
-M-4  ► Optionsvergleich Verzicht vs. d/e-swap
-M-3  ► Verbindliche Auskunft (optional)
-M-2  ► Strategievermerk Vermeidung
-M-1  ► Antragsentwurf 3a IV EStG
-M-0  ► Antrag eingereicht
+M-9 ► Sanierungskonzept Entwurf
+M-8 ► IDW-S6-Bericht Entwurf
+M-7 ► Maßnahmenkatalog mit Quote
+M-6 ► Gläubigeransprache schriftlich
+M-5 ► Plan-Bilanz mit Verzichtswirkung
+M-4 ► Optionsvergleich Verzicht vs. d/e-swap
+M-3 ► Verbindliche Auskunft (optional)
+M-2 ► Strategievermerk Vermeidung
+M-1 ► Antragsentwurf 3a IV EStG
+M-0 ► Antrag eingereicht
 ```
 
 ### Berechnungsbeispiel Wirkungsweise § 3c Abs. 4 EStG
 
 ```
 Schritt 1 Vor Sanierung
-  Verlustvortrag KSt zum 31.12.        EUR 800.000
-  Gewerbeverlust zum 31.12.            EUR 600.000
+ Verlustvortrag KSt zum 31.12. EUR 800.000
+ Gewerbeverlust zum 31.12. EUR 600.000
 
 Schritt 2 Forderungsverzicht 01.04.
-  Verzichtsbetrag (Banken+Lieferanten) EUR 1.000.000
-  ► entstehender Buchgewinn handelsrechtlich
-    und steuerlich (vorläufig) gleich
+ Verzichtsbetrag (Banken+Lieferanten) EUR 1.000.000
+ ► entstehender Buchgewinn handelsrechtlich
+ und steuerlich (vorläufig) gleich
 
 Schritt 3 § 3c Abs. 4 EStG (Verbrauchsreihenfolge)
-  KSt Sanierungsertrag                 EUR 1.000.000
-  abzgl. Verlustvortrag                EUR  -800.000
-  verbleibender Sanierungsertrag       EUR   200.000
-  steuerfrei nach § 3a Abs. 1 EStG     EUR   200.000
+ KSt Sanierungsertrag EUR 1.000.000
+ abzgl. Verlustvortrag EUR -800.000
+ verbleibender Sanierungsertrag EUR 200.000
+ steuerfrei nach § 3a Abs. 1 EStG EUR 200.000
 
 Ergebnis: kein KSt-Cashflow durch Verzicht
-          aber Verlustvortrag vollständig aufgezehrt
+ aber Verlustvortrag vollständig aufgezehrt
 ```
 
 ## Typische Fehler
@@ -1203,7 +1203,7 @@ Bei Personengesellschaften (GbR, OHG, KG, GmbH und Co. KG) ist der Sanierungsert
 - **§ 10a S. 1 GewStG** — Gewerbeverlust (auf Gesellschafts-Ebene).
 - **§ 180 Abs. 1 Nr. 2 AO** — gesonderte und einheitliche Feststellung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Verbindlichkeit im Gesamthandsvermögen
 
@@ -1258,48 +1258,48 @@ Bei Personengesellschaften (GbR, OHG, KG, GmbH und Co. KG) ist der Sanierungsert
 ### Berechnungsbeispiel KG mit 3 Kommanditisten
 
 ```
-KG-Sanierungsertrag (Gesamthand)                EUR 1.500.000
+KG-Sanierungsertrag (Gesamthand) EUR 1.500.000
 Gewinnverteilungsschlüssel: 50/30/20 %
 
 Kommanditist A (50 %): EUR 750.000
-  ESt-Verlustvortrag                            EUR 800.000
-  Mindestbesteuerung: Sockel 1 Mio. > 750.000
-  ► voll verrechenbar
-  ► Antrag § 3a IV EStG entbehrlich
-  ► Verlustvortrag verbraucht 750.000
+ ESt-Verlustvortrag EUR 800.000
+ Mindestbesteuerung: Sockel 1 Mio. > 750.000
+ ► voll verrechenbar
+ ► Antrag § 3a IV EStG entbehrlich
+ ► Verlustvortrag verbraucht 750.000
 
 Kommanditist B (30 %): EUR 450.000
-  ESt-Verlustvortrag                            EUR 200.000
-  Sanierungsertrag - Vortrag                    EUR 250.000
-  ► Antrag § 3a IV EStG für 250.000 erforderlich
-  ► ESt-Spitzensatz ohne Antrag: ~ 105.000
+ ESt-Verlustvortrag EUR 200.000
+ Sanierungsertrag - Vortrag EUR 250.000
+ ► Antrag § 3a IV EStG für 250.000 erforderlich
+ ► ESt-Spitzensatz ohne Antrag: ~ 105.000
 
 Kommanditist C (20 %): EUR 300.000
-  Kein Verlustvortrag, aber § 15a EStG-Verluste EUR 400.000
-  ► Sanierungsertrag aktiviert § 15a-Verluste
-  ► nach § 15a-Verrechnung: 0 EUR steuerpflichtig
-  ► Antrag § 3a IV EStG ggf. entbehrlich
+ Kein Verlustvortrag, aber § 15a EStG-Verluste EUR 400.000
+ ► Sanierungsertrag aktiviert § 15a-Verluste
+ ► nach § 15a-Verrechnung: 0 EUR steuerpflichtig
+ ► Antrag § 3a IV EStG ggf. entbehrlich
 
 Gewerbesteuer:
-  Antrag § 7b GewStG durch KG mit GewSt-Erklärung
-  Gewerbeverlust § 10a S. 1 GewStG vorher prüfen
+ Antrag § 7b GewStG durch KG mit GewSt-Erklärung
+ Gewerbeverlust § 10a S. 1 GewStG vorher prüfen
 ```
 
 ### Berechnungsbeispiel Sonderbetriebsvermögen
 
 ```
 KG, Gesellschafterdarlehen Kommanditist A
-im Sonderbetriebsvermögen                       EUR 600.000
+im Sonderbetriebsvermögen EUR 600.000
 
 Gesellschafter A verzichtet:
 ► Sanierungsertrag NUR bei Mitunternehmer A
 ► Kommanditisten B und C nicht betroffen
 
 A trägt allein:
-  Sanierungsertrag                              EUR 600.000
-  ESt-Verlustvortrag                            EUR 400.000
-  Sanierungsertrag - Vortrag                    EUR 200.000
-  ► Antrag § 3a IV EStG für 200.000
+ Sanierungsertrag EUR 600.000
+ ESt-Verlustvortrag EUR 400.000
+ Sanierungsertrag - Vortrag EUR 200.000
+ ► Antrag § 3a IV EStG für 200.000
 
 Übrige Mitunternehmer unverändert.
 ```
@@ -1371,7 +1371,7 @@ A trägt allein:
 - **§ 3a EStG** — Sanierungsertrag.
 - **§ 8 Abs. 3 KStG** — verdeckte Einlage.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt |
 |---|---|
@@ -1417,10 +1417,10 @@ i.S.d. § 39 Abs. 2 InsO).
 
 Die Forderung ist zu tilgen, sobald und soweit eine
 Tilgung möglich ist aus:
-  (i)   künftigen Gewinnen oder Einnahmen der Schuldnerin,
-  (ii)  einem die sonstigen Verbindlichkeiten der Schuldnerin
-        übersteigenden freien Vermögen, oder
-  (iii) einem etwaigen Liquidationsüberschuss.
+ (i) künftigen Gewinnen oder Einnahmen der Schuldnerin,
+ (ii) einem die sonstigen Verbindlichkeiten der Schuldnerin
+ übersteigenden freien Vermögen, oder
+ (iii) einem etwaigen Liquidationsüberschuss.
 
 Diese Erklärung gilt unwiderruflich bis zur nachhaltigen
 Beseitigung der Krise der Schuldnerin.
@@ -1477,9 +1477,9 @@ Tilgungsabrede umfasst:
 
 III. Ergebnis
 [Wenn alle Quellen erfasst, insb. freies Vermögen:
-   § 5 Abs. 2a EStG-Risiko gering — Verbindlichkeit bleibt]
+ § 5 Abs. 2a EStG-Risiko gering — Verbindlichkeit bleibt]
 [Wenn nur Gewinne/Einnahmen:
-   § 5 Abs. 2a EStG-Risiko hoch — Auflösung droht]
+ § 5 Abs. 2a EStG-Risiko hoch — Auflösung droht]
 
 IV. Empfehlung
 [Klausel-Anpassung durch Nachtragsvereinbarung]

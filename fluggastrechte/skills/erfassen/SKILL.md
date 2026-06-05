@@ -1,12 +1,12 @@
 ---
 name: erfassen
-description: "Nutze dies, wenn Erfassen: Behörden-, Gerichts- oder Registerweg im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Erfassen: Behörden-, Gerichts- oder Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Erfassen: Behörden-, Gerichts- oder Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erfassen: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Erfassen: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Erfassen: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Erfassen: Behörden-, Gerichts- oder Registerweg / spezial erfassen behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Erfassen: Behörden-, Gerichts- oder Registerweg / erfassen behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Aktenaufbereiter Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -13,9 +13,9 @@ Nutze diesen Skill, wenn im Bereich **Aktenaufbereiter Strafrecht** ein Fall noc
 
 - `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
 - `akteneinsicht-uebersicht-aktenvorblatt-erstellen-anklageschrift` — Akteneinsicht Uebersicht Aktenvorblatt Erstellen Anklageschrift
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `beweismittel-katalog-beweisverwertungsverbote-beziehungsmatrix` — Beweismittel Katalog Beweisverwertungsverbote Beziehungsmatrix
-- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
+- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Chronologie Ergaenzbar
 - `ersatz-sonderfall-excel-faehige` — Ersatz Sonderfall Excel Faehige
 - `fortlaufend-luecken-personenverzeichnis` — Fortlaufend Luecken Personenverzeichnis
 - `fristenliste-strafverfahren-aktenlektuere-fristennotiz` — Fristenliste Strafverfahren Aktenlektuere Fristennotiz

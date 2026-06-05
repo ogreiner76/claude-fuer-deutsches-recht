@@ -1,22 +1,22 @@
 ---
 name: franchise-agb-gaming-garantie-beschaffenheit
-description: "Nutze dies, wenn Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand, Gesellschaftsrechtliche Satzungen Agb Abgrenzung im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand, Gesellschaftsrechtliche Satzungen Agb Abgrenzung prüfen.; Erstelle eine Arbeitsfassung zu Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand, Gesellschaftsrechtliche Satzungen Agb Abgrenzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand, Gesellschaftsrechtliche Satzungen Agb Abgrenzung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand, Gesellschaftsrechtliche Satzungen Agb Abgrenzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `franchise-agb` | Branchen-Spezialskill für Franchise AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `gaming-agb` | Branchen-Spezialskill für Gaming AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `garantie-beschaffenheit` | Klausel-Spezialskill für Garantie Beschaffenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `gerichtsstand` | Klausel-Spezialskill für Gerichtsstand: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `franchise-agb` | Branchen-Fachmodul für Franchise AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `gaming-agb` | Branchen-Fachmodul für Gaming AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `garantie-beschaffenheit` | Klausel-Fachmodul für Garantie Beschaffenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `gerichtsstand` | Klausel-Fachmodul für Gerichtsstand: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `gesellschaftsrechtliche-satzungen-agb-abgrenzung` | Norm- und Dogmatik-Skill für Gesellschaftsrechtliche Satzungen AGB Abgrenzung: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Franchise Agb, Gaming Agb, Garantie Beschaffenheit, Gerichtsstand, Gesell
 
 ## 1. `franchise-agb`
 
-**Fokus:** Branchen-Spezialskill für Franchise AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Franchise AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Franchise AGB
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `gaming-agb`
 
-**Fokus:** Branchen-Spezialskill für Gaming AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Gaming AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Gaming AGB
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `garantie-beschaffenheit`
 
-**Fokus:** Klausel-Spezialskill für Garantie Beschaffenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Garantie Beschaffenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Garantie Beschaffenheit
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `gerichtsstand`
 
-**Fokus:** Klausel-Spezialskill für Gerichtsstand: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Gerichtsstand: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Gerichtsstand
 

@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-quality-gate-akteneinsicht
-description: "Nutze dies, wenn Strafbefehl Kommandocenter, Strafbefehl Quality Gate, Spezial Akteneinsicht Behörden Gericht Und Registerweg im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Strafbefehl Kommandocenter, Strafbefehl Quality Gate, Spezial Akteneinsicht Behörden Gericht Und Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Strafbefehl Kommandocenter, Strafbefehl Quality Gate, Spezial Akteneinsicht Behörden Gericht Und Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafbefehl Kommandocenter, Strafbefehl Quality Gate, Akteneinsicht Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafbefehl Kommandocenter, Strafbefehl Quality Gate, Spezial Akteneinsicht Behörden Gericht Und Registerweg
+# Strafbefehl Kommandocenter, Strafbefehl Quality Gate, Akteneinsicht Behörden Gericht Und Registerweg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafbefehl Kommandocenter, Strafbefehl Quality Gate, Akteneinsicht Behörden Gericht Und Registerweg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafbefehl Kommandocenter, Strafbefehl Quality Gate, Spezial Akteneinsicht Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafbefehl Kommandocenter, Strafbefehl Quality Gate, Akteneinsicht Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -39,8 +39,8 @@ Dieses Kommandocenter ist der Einstiegspunkt fuer alle Mandate im Strafbefehlsve
 **Die drei kritischen Fragen zuerst:**
 
 1. **Fristlage:** Wann wurde der Strafbefehl zugestellt? Einspruchsfrist § 410 Abs. 1 StPO: 2 Wochen ab Zustellung. Ist die Frist noch offen oder abgelaufen?
-   - Frist offen → Einspruch sofort einlegen, dann vertiefen
-   - Frist abgelaufen → Wiedereinsetzung § 44 StPO pruefen
+ - Frist offen → Einspruch sofort einlegen, dann vertiefen
+ - Frist abgelaufen → Wiedereinsetzung § 44 StPO pruefen
 
 2. **Delikt und Sanktion:** Was wird vorgeworfen (§§ StGB/StVG/OWiG)? Welche Rechtsfolge ist angesetzt (Tagessaetze, Geldstrafe, Fahrverbot, Bewaehrungsstrafe)?
 
@@ -124,7 +124,7 @@ Dieser Skill ist die abschliessende Qualitaetssicherung fuer das Strafbefehlsman
 
 ```
 □ Einspruchsfrist § 410 Abs. 1 StPO berechnet und noch offen?
-   Zustellungsdatum: [DATUM] + 14 Tage = Fristende: [DATUM]
+ Zustellungsdatum: [DATUM] + 14 Tage = Fristende: [DATUM]
 □ Vollmacht des Mandanten liegt vor?
 □ Strafbefehl-Inhalt auf § 409 StPO geprueft (Pflicht-Inhalte)?
 □ Delikt ist Vergehen (kein Verbrechen § 12 StGB)?

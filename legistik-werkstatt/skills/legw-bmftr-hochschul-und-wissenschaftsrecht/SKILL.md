@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Hochschulrecht und Wissenschaftsrecht
-Ressort:            BMFTR
-Kernnormen:         HRG; WissZeitVG; LHGs der Laender; WHG (Wissenschaft); ProfBesG.
-Akteure/Aufsicht:   BMFTR; Wissenschaftsrat; DFG; HRK; Laenderministerien.
-EU/Voelkerrecht:    ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmftr; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Hochschulrecht und Wissenschaftsrecht
+Ressort: BMFTR
+Kernnormen: HRG; WissZeitVG; LHGs der Laender; WHG (Wissenschaft); ProfBesG.
+Akteure/Aufsicht: BMFTR; Wissenschaftsrat; DFG; HRK; Laenderministerien.
+EU/Voelkerrecht: ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: versorgung-ruhegehalt-versorgungsabschlag
-description: "Nutze dies, wenn Versorgung Ruhegehalt Beamtvg, Versorgungsabschlag 14 Beamtvg, Versorgungslastenteilung 107B Beamtvg im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Versorgung Ruhegehalt Beamtvg, Versorgungsabschlag 14 Beamtvg, Versorgungslastenteilung 107B Beamtvg prüfen.; Erstelle eine Arbeitsfassung zu Versorgung Ruhegehalt Beamtvg, Versorgungsabschlag 14 Beamtvg, Versorgungslastenteilung 107B Beamtvg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Versorgung Ruhegehalt Beamtvg, Versorgungsabschlag 14 Beamtvg, Versorgungslastenteilung 107b Beamtvg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Versorgung Ruhegehalt Beamtvg, Versorgungsabschlag 14 Beamtvg, Versorgungslastenteilung 107B Beamtvg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

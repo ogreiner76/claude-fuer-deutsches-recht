@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Oekolandbau und Pflanzenschutzrecht
-Ressort:            BMLEH
-Kernnormen:         OeLG; PflSchG; PflSchAnwV; SaatG; DueV; OeKo-VO (EU).
-Akteure/Aufsicht:   BLE; BVL (Zulassung Pflanzenschutzmittel); Laender-Pflanzenschutzdienste.
-EU/Voelkerrecht:    OeKo-VO 2018/848; PSM-VO 1107/2009; SUR-Entwurf.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmleh; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Oekolandbau und Pflanzenschutzrecht
+Ressort: BMLEH
+Kernnormen: OeLG; PflSchG; PflSchAnwV; SaatG; DueV; OeKo-VO (EU).
+Akteure/Aufsicht: BLE; BVL (Zulassung Pflanzenschutzmittel); Laender-Pflanzenschutzdienste.
+EU/Voelkerrecht: OeKo-VO 2018/848; PSM-VO 1107/2009; SUR-Entwurf.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

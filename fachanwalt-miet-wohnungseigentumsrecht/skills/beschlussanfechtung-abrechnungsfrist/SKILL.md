@@ -1,13 +1,13 @@
 ---
 name: beschlussanfechtung-abrechnungsfrist
-description: "Nutze dies, wenn Beschlussanfechtung Spezial Fristen, Spezial Abrechnungsfrist Nachforderung, Spezial Erhalt Fristennotiz Und Naechster Schritt, Spezial Fristlose Kündigung Stoerung, Spezial Wohnungseigentumsrecht Fristen Form Und Zustaendigkeit im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Beschlussanfechtung Spezial Fristen, Spezial Abrechnungsfrist Nachforderung, Spezial Erhalt Fristennotiz Und Naechster Schritt, Spezial Fristlose Kündigung Stoerung, Spezial Wohnungseigentumsrecht Fristen Form Und Zustaendigkeit prüfen.; Erstelle eine Arbeitsfassung zu Beschlussanfechtung Spezial Fristen, Spezial Abrechnungsfrist Nachforderung, Spezial Erhalt Fristennotiz Und Naechster Schritt, Spezial Fristlose Kündigung Stoerung, Spezial Wohnungseigentumsrecht Fristen Form Und Zustaendigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beschlussanfechtung Fristen, Abrechnungsfrist Nachforderung, Erhalt Fristennotiz Und Naechster Schritt, Fristlose Kündigung Stoerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Beschlussanfechtung Spezial Fristen, Spezial Abrechnungsfrist Nachforderung, Spezial Erhalt Fristennotiz Und Naechster Schritt, Spezial Fristlose Kündigung Stoerung, Spezial Wohnungseigentumsrecht Fristen Form Und Zustaendigkeit
+# Beschlussanfechtung Fristen, Abrechnungsfrist Nachforderung, Erhalt Fristennotiz Und Naechster Schritt, Fristlose Kündigung Stoerung, Wohnungseigentumsrecht Fristen Form Und Zustaendigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beschlussanfechtung Fristen, Abrechnungsfrist Nachforderung, Erhalt Fristennotiz Und Naechster Schritt, Fristlose Kündigung Stoerung, Wohnungseigentumsrecht Fristen Form Und Zustaendigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,13 +15,13 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `beschlussanfechtung-spezial-fristen` | Beschlussanfechtung nach § 44 WEG spezial: Klagefrist 1 Monat, Begruendungsfrist 2 Monate ab Beschluss, formale Fehler vs. materielle Mangelhaftigkeit, ausschliesslich Eigentuemerklage nicht Mieter. Pruefraster und Klageaufbau. Routet in fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung. |
 | `spezial-abrechnungsfrist-nachforderung` | Abrechnungsfrist und Nachforderung aus Betriebskosten: § 556 Abs. 3 BGB, Zugang, Jahresfrist, Vermieter-Nichtvertretenmüssen, Guthaben, Korrekturen, WEG-Verzögerung, Gewerberaumabweichungen und Prozessstrategie. |
-| `spezial-erhalt-fristennotiz-und-naechster-schritt` | Erhalt: Fristennotiz und nächster Schritt im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-fristlose-kuendigung-stoerung` | Fristlose Kündigung wegen Störung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; ordnet Abmahnung, Pflichtverletzung, Wiederholung, Beweise und Interessenabwägung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-wohnungseigentumsrecht-fristen-form-und-zustaendigkeit` | Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-erhalt-fristennotiz-und-naechster-schritt` | Erhalt: Fristennotiz und nächster Schritt im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-fristlose-kuendigung-stoerung` | Fristlose Kündigung wegen Störung: Fachmodul im Miet- und Wohnungseigentumsrecht; ordnet Abmahnung, Pflichtverletzung, Wiederholung, Beweise und Interessenabwägung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-wohnungseigentumsrecht-fristen-form-und-zustaendigkeit` | Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Beschlussanfechtung Spezial Fristen, Spezial Abrechnungsfrist Nachforderung, Spezial Erhalt Fristennotiz Und Naechster Schritt, Spezial Fristlose Kündigung Stoerung, Spezial Wohnungseigentumsrecht Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beschlussanfechtung Fristen, Abrechnungsfrist Nachforderung, Erhalt Fristennotiz Und Naechster Schritt, Fristlose Kündigung Stoerung, Wohnungseigentumsrecht Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,7 +42,7 @@ Für **Beschlussanfechtung Spezial Fristen, Spezial Abrechnungsfrist Nachforderu
 
 
 ## Spezialwissen: Beschlussanfechtung: Spezialdetails
-- **Spezialgegenstand:** Beschlussanfechtung: Spezialdetails / beschlussanfechtung spezial fristen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Beschlussanfechtung: Spezialdetails / beschlussanfechtung fristen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** WEG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,8 +113,8 @@ Dieser Skill prüft, ob eine Nachforderung aus einer Betriebskostenabrechnung ze
 3. Zugang beweisen: Einwurf, Bote, Zustellnachweis, E-Mail nur bei tragfähiger Vereinbarung/Kommunikationslage.
 4. Formelle Mindestangaben innerhalb der Frist prüfen. Eine bloße Zahlenwolke wahrt die Frist nicht.
 5. Korrektur unterscheiden:
-   - zugunsten des Mieters grundsätzlich möglich,
-   - zulasten des Mieters nach Fristablauf nur, wenn der Vermieter die Verspätung nicht zu vertreten hat.
+ - zugunsten des Mieters grundsätzlich möglich,
+ - zulasten des Mieters nach Fristablauf nur, wenn der Vermieter die Verspätung nicht zu vertreten hat.
 6. WEG-Sonderfall: Verzögerung durch die GdWE/Hausverwaltung kann relevant sein, entlastet den vermietenden Eigentümer aber nicht automatisch. Nachweise zur Anforderung, Erinnerung und Verzögerungsursache sammeln.
 7. Gewerberaum: Vertragslage prüfen; § 556 Abs. 3 BGB gilt unmittelbar für Wohnraum, kann aber vertraglich übernommen oder abweichend geregelt sein.
 
@@ -140,7 +140,7 @@ Dieser Skill prüft, ob eine Nachforderung aus einer Betriebskostenabrechnung ze
 
 ## 3. `spezial-erhalt-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Erhalt: Fristennotiz und nächster Schritt im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Erhalt: Fristennotiz und nächster Schritt im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Erhalt: Fristennotiz und nächster Schritt
 
@@ -154,7 +154,7 @@ Dieser Skill prüft, ob eine Nachforderung aus einer Betriebskostenabrechnung ze
 
 
 ## Spezialwissen: Erhalt: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Erhalt: Fristennotiz und nächster Schritt / spezial erhalt fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Erhalt: Fristennotiz und nächster Schritt / erhalt fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -190,7 +190,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-fristlose-kuendigung-stoerung`
 
-**Fokus:** Fristlose Kündigung wegen Störung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; ordnet Abmahnung, Pflichtverletzung, Wiederholung, Beweise und Interessenabwägung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Fristlose Kündigung wegen Störung: Fachmodul im Miet- und Wohnungseigentumsrecht; ordnet Abmahnung, Pflichtverletzung, Wiederholung, Beweise und Interessenabwägung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Fristlose Kündigung wegen Störung
 
@@ -204,9 +204,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: ordnet Abmahnung, Pflichtverletzung, Wiederholung, Beweise und Interessenabwägung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: ordnet Abmahnung, Pflichtverletzung, Wiederholung, Beweise und Interessenabwägung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -235,7 +235,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-wohnungseigentumsrecht-fristen-form-und-zustaendigkeit`
 
-**Fokus:** Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -249,7 +249,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Spezialwissen: Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg / spezial wohnungseigentumsrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Wohnungseigentumsrecht: Fristen, Form, Zuständigkeit und Rechtsweg / wohnungseigentumsrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

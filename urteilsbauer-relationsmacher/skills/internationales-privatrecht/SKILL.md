@@ -22,12 +22,12 @@ Bei Auslandsbezug immer prüfen, welches Recht zur Anwendung kommt.
 ## Zentrale Normen
 
 - Verordnung (EG) Nr. 593/2008 (Rom-I) — vertragliche Schuldverhältnisse
-  - Art. 3: Rechtswahl
-  - Art. 4: Anknüpfung ohne Wahl (charakteristische Leistung)
-  - Art. 6: Verbraucherverträge (Schutz des Verbrauchers)
-  - Art. 9: Eingriffsnormen (DSGVO, AGB-Recht, Datenschutz)
+ - Art. 3: Rechtswahl
+ - Art. 4: Anknüpfung ohne Wahl (charakteristische Leistung)
+ - Art. 6: Verbraucherverträge (Schutz des Verbrauchers)
+ - Art. 9: Eingriffsnormen (DSGVO, AGB-Recht, Datenschutz)
 - Verordnung (EG) Nr. 864/2007 (Rom-II) — außervertragliche Schuldverhältnisse
-  - Art. 4: Erfolgsortprinzip
+ - Art. 4: Erfolgsortprinzip
 - Art. 3 ff. EGBGB — autonomes deutsches IPR
 - CISG — internationales Einheitskaufrecht, vorrangig
 

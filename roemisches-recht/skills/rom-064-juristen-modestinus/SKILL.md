@@ -1,6 +1,6 @@
 ---
 name: rom-064-juristen-modestinus
-description: "Römisches Recht: Juristen Modestinus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Juristen Modestinus. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Juristen Modestinus

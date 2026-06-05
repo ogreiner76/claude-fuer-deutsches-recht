@@ -33,7 +33,7 @@ Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskompon
 - **NIS-2** Umsetzung im BSIG, OT-Sicherheit bei Robotik in kritischen Sektoren.
 - **§ 1 ProdHaftG / VO (EU) 2024/2853** neue Produkthaftungs-RL (Inkrafttreten 09.12.2026): Software und KI sind Produkte, Beweiserleichterungen.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Use-case-Schärfung.** Definieren Sie den Einsatzkontext exakt: Umgebung, Beleuchtung, Geschwindigkeitsbereich, Personenkreis, Lastfälle. Performance-Aussagen ohne Kontext sind irreführend.
 2. **Metriken festlegen.** Accuracy nicht nur als Single-Number-Wert: Precision, Recall, F1 je Klasse; bei Wahrnehmungsfunktionen mAP, IoU; bei Steuerung Erfolgsquote und Time-to-Stop. Mindestschwellen schriftlich.

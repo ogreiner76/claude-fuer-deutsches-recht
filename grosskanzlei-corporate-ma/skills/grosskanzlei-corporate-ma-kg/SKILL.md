@@ -108,7 +108,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zweck
 
-Spezialworkflow fuer KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Haftsumme und Register nach MoPeG und HGB.
+Spezialfuer KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Haftsumme und Register nach MoPeG und HGB.
 
 ## Triage — klaere vor Beginn
 
@@ -162,21 +162,21 @@ KG-CHECKLISTE
 Gesellschaft: [NAME] — HR-Nr.: [HRA XXXX]
 
 EINLAGEN
-  Hafteinlage Kommanditist [NAME]: [BETRAG] EUR
-  Geleistete Einlage: [BETRAG] EUR
-  Einlagenrueckgewaehr geprueft: [ ] JA [ ] NEIN → § 172 IV HGB
+ Hafteinlage Kommanditist [NAME]: [BETRAG] EUR
+ Geleistete Einlage: [BETRAG] EUR
+ Einlagenrueckgewaehr geprueft: [ ] JA [ ] NEIN → § 172 IV HGB
 
 VERTRETUNG
-  Komplementaer: [NAME] — Einzelvertretungsbefugnis: [ ] JA [ ] NEIN
-  Prokura: [NAME]
+ Komplementaer: [NAME] — Einzelvertretungsbefugnis: [ ] JA [ ] NEIN
+ Prokura: [NAME]
 
 ANTEILSUEBERTRAGUNG
-  Zustimmung GV erforderlich: [ ] JA [ ] NEIN
-  Abtretungsvertrag formfrei: [ ] JA — Notarpflicht: [ ] NEIN
+ Zustimmung GV erforderlich: [ ] JA [ ] NEIN
+ Abtretungsvertrag formfrei: [ ] JA — Notarpflicht: [ ] NEIN
 
 REGISTER
-  HR-Eintrag Kommanditistenwechsel: [ ] OK [ ] TODO
-  MoPeG eGbR: [ ] nicht relevant [ ] Eintragung erforderlich bis [DATUM]
+ HR-Eintrag Kommanditistenwechsel: [ ] OK [ ] TODO
+ MoPeG eGbR: [ ] nicht relevant [ ] Eintragung erforderlich bis [DATUM]
 ```
 
 ## Rote Schwellen

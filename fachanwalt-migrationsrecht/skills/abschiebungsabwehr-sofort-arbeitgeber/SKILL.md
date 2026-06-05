@@ -1,34 +1,34 @@
 ---
 name: abschiebungsabwehr-sofort-arbeitgeber
-description: "Nutze dies, wenn Allgemein, Workflow Abschiebungsabwehr Sofort, Workflow Arbeitgeber Memo, Workflow Arbeitsrecht Schnittstelle, Workflow Asyl Start im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Allgemein, Workflow Abschiebungsabwehr Sofort, Workflow Arbeitgeber Memo, Workflow Arbeitsrecht Schnittstelle, Workflow Asyl Start prüfen.; Erstelle eine Arbeitsfassung zu Allgemein, Workflow Abschiebungsabwehr Sofort, Workflow Arbeitgeber Memo, Workflow Arbeitsrecht Schnittstelle, Workflow Asyl Start.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Allgemein, Abschiebungsabwehr Sofort, Arbeitgeber Memo, Arbeitsrecht Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Allgemein, Workflow Abschiebungsabwehr Sofort, Workflow Arbeitgeber Memo, Workflow Arbeitsrecht Schnittstelle, Workflow Asyl Start
+# Allgemein, Abschiebungsabwehr Sofort, Arbeitgeber Memo, Arbeitsrecht Schnittstelle, Asyl Start
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Allgemein, Abschiebungsabwehr Sofort, Arbeitgeber Memo, Arbeitsrecht Schnittstelle, Asyl Start** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills. |
-| `workflow-abschiebungsabwehr-sofort` | Abschiebungsabwehr sofort: Workflow-Skill für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-arbeitgeber-memo` | Arbeitgeber-Memo: Workflow-Skill für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-arbeitsrecht-schnittstelle` | Arbeitsrecht-Schnittstelle: Workflow-Skill für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-asyl-start` | Asyl-Start: Workflow-Skill für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills. |
+| `workflow-abschiebungsabwehr-sofort` | Abschiebungsabwehr sofort: Arbeitsmodul für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-arbeitgeber-memo` | Arbeitgeber-Memo: Arbeitsmodul für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-arbeitsrecht-schnittstelle` | Arbeitsrecht-Schnittstelle: Arbeitsmodul für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-asyl-start` | Asyl-Start: Arbeitsmodul für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Allgemein, Workflow Abschiebungsabwehr Sofort, Workflow Arbeitgeber Memo, Workflow Arbeitsrecht Schnittstelle, Workflow Asyl Start** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Allgemein, Abschiebungsabwehr Sofort, Arbeitgeber Memo, Arbeitsrecht Schnittstelle, Asyl Start** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `allgemein`
 
-**Fokus:** Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills.
+**Fokus:** Einstieg, Schnelltriage und Fallrouting im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills.
 
 # Migrationsrecht-Kompass
 
@@ -69,18 +69,18 @@ Wenn der Nutzer Spanisch wünscht, liefere eine knappe spanische Erklärung mit 
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
 
 ## Startausgabe
-Gib zuerst aus: `Ziel`, `aktueller Status`, `Frist`, `größtes Risiko`, `fehlende Unterlagen`, `passende Spezialskills`, `nächster Schritt`.
+Gib zuerst aus: `Ziel`, `aktueller Status`, `Frist`, `größtes Risiko`, `fehlende Unterlagen`, `passende Fachmodule`, `nächster Schritt`.
 
 ## 2. `workflow-abschiebungsabwehr-sofort`
 
-**Fokus:** Abschiebungsabwehr sofort: Workflow-Skill für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Abschiebungsabwehr sofort: Arbeitsmodul für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Abschiebungsabwehr sofort
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -102,9 +102,9 @@ Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste We
 - **Familieneinheit Art. 6 GG / Art. 8 EMRK:** Ehe/Partnerschaft, minderjährige Kinder, intensives Familienleben — Substantiierung mit Urkunden, Aufenthaltsdauer, Integrationsleistungen.
 - **Inlandsbezogene Vollstreckungshindernisse:** Reiseunfähigkeit (§ 60a Abs. 2 AufenthG); fachärztliches Attest mit qualifiziertem Inhalt nach § 60a Abs. 2c AufenthG (Diagnose, Schwere, voraussichtlicher Verlauf, konkrete Behandlung).
 - **Eilrechtsschutz parallel:**
-  - § 80 Abs. 5 VwGO gegen Abschiebungsandrohung (i. V. m. § 34a Abs. 2 AsylG bei Dublin).
-  - § 123 VwGO bei Duldungsversagung (Anordnungsanspruch und Anordnungsgrund glaubhaft machen).
-  - Petitionsausschuss / Härtefallkommission als politischer Sekundärweg (§ 23a AufenthG).
+ - § 80 Abs. 5 VwGO gegen Abschiebungsandrohung (i. V. m. § 34a Abs. 2 AsylG bei Dublin).
+ - § 123 VwGO bei Duldungsversagung (Anordnungsanspruch und Anordnungsgrund glaubhaft machen).
+ - Petitionsausschuss / Härtefallkommission als politischer Sekundärweg (§ 23a AufenthG).
 - **Kirchenasyl:** Keine Rechtsfigur, aber faktische Praxis — BAMF erkennt Härtefälle bei "Dossier-Verfahren" an; mit Pfarramt koordinieren.
 - **Fluggesellschaft/Bundespolizei:** Bei akuter Abschiebung Fax an Bundespolizei mit Eilantrag-Eingangsstempel; ggf. Eilbeschwerde § 146 VwGO an OVG.
 - **Anwaltsfax/Beschluss in der Hand:** Vollziehbarkeit eines stattgebenden Eilbeschlusses sofort sichern.
@@ -120,14 +120,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 3. `workflow-arbeitgeber-memo`
 
-**Fokus:** Arbeitgeber-Memo: Workflow-Skill für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Arbeitgeber-Memo: Arbeitsmodul für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Arbeitgeber-Memo
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -154,14 +154,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 4. `workflow-arbeitsrecht-schnittstelle`
 
-**Fokus:** Arbeitsrecht-Schnittstelle: Workflow-Skill für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Arbeitsrecht-Schnittstelle: Arbeitsmodul für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Arbeitsrecht-Schnittstelle
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -188,14 +188,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 5. `workflow-asyl-start`
 
-**Fokus:** Asyl-Start: Workflow-Skill für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Asyl-Start: Arbeitsmodul für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Asyl-Start
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.

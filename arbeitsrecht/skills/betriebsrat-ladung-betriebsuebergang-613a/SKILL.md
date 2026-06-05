@@ -1,19 +1,19 @@
 ---
 name: betriebsrat-ladung-betriebsuebergang-613a
-description: "Nutze dies, wenn Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613A Prüfen, Einstellungspruefung, Expansion Aktualisierung im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613A Prüfen, Einstellungspruefung, Expansion Aktualisierung prüfen.; Erstelle eine Arbeitsfassung zu Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613A Prüfen, Einstellungspruefung, Expansion Aktualisierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613a Prüfen, Einstellungspruefung, Expansion Aktualisierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613A Prüfen, Einstellungspruefung, Expansion Aktualisierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613A Prüfen, Einstellungspruefung, Expansion Aktualisierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Workflow-Skill zu betriebsrat ladung und ersatzmitglieder pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Arbeitsmodul zu betriebsrat ladung und ersatzmitglieder pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `betriebsuebergang-613a-pruefen` | Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan. |
 | `einstellungspruefung` | Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie nachvertragliche Wettbewerbsverbote (§§ 74 ff. HGB). Liefert strukturiertes Memo mit Ampelbewertung. |
 | `expansion-aktualisierung` | Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung Fortschritte erzielt wurden und der Tracker den aktuellen Stand widerspiegeln soll. |
@@ -27,7 +27,7 @@ Für **Betriebsrat Ladung Und Ersatzmitglieder Prüfen, Betriebsuebergang 613A P
 
 ## 1. `betriebsrat-ladung-und-ersatzmitglieder-pruefen`
 
-**Fokus:** Workflow-Skill zu betriebsrat ladung und ersatzmitglieder pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu betriebsrat ladung und ersatzmitglieder pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Betriebsrat — Ladung und Ersatzmitglieder prüfen
 
@@ -82,15 +82,15 @@ Für jedes ordentliche Mitglied:
 
 ```
 □ War das Mitglied an dem Sitzungstag verhindert?
-   → Urlaub (geplant, im Voraus bekannt)
-   → Krankheit (kurzfristig, wann genau bekannt geworden?)
-   → Dienstliche Abwesenheit
-   → Befangenheit / Interessenkollision in einer Tagesordnungs-Sache
-   → Erlöschen der Mitgliedschaft (§ 24 BetrVG)
+ → Urlaub (geplant, im Voraus bekannt)
+ → Krankheit (kurzfristig, wann genau bekannt geworden?)
+ → Dienstliche Abwesenheit
+ → Befangenheit / Interessenkollision in einer Tagesordnungs-Sache
+ → Erlöschen der Mitgliedschaft (§ 24 BetrVG)
 □ Wann wurde die Verhinderung bekannt?
-   → Vor dem Sitzungstag: rechtzeitige Nachladung möglich → war erforderlich
-   → Am Sitzungstag: Beurteilungsspielraum des Vorsitzenden
-     Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → Vor dem Sitzungstag: rechtzeitige Nachladung möglich → war erforderlich
+ → Am Sitzungstag: Beurteilungsspielraum des Vorsitzenden
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 □ Dokumentierte Mitteilung der Verhinderung?
 ```
 
@@ -100,12 +100,12 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 
 ```
 □ Wahl mit Listenwahl oder Mehrheitswahl?
-   → Listenwahl: Ersatzmitglied stammt aus DERSELBEN Liste wie das
-     verhinderte ordentliche Mitglied (Listentreue)
-   → Mehrheitswahl: Ersatzmitglieder nach Stimmenzahl
+ → Listenwahl: Ersatzmitglied stammt aus DERSELBEN Liste wie das
+ verhinderte ordentliche Mitglied (Listentreue)
+ → Mehrheitswahl: Ersatzmitglieder nach Stimmenzahl
 □ Innerhalb der Liste: Reihenfolge nach dem festgestellten Wahlergebnis
 □ Geschlechterquote (§ 15 Abs. 2 BetrVG) — Minderheitsgeschlecht
-   muss bei der Nachrückreihenfolge beachtet werden
+ muss bei der Nachrückreihenfolge beachtet werden
 □ Ist das richtige Ersatzmitglied geladen worden?
 □ Ist das richtige Ersatzmitglied erschienen?
 □ Hat es an der Abstimmung teilgenommen?
@@ -115,7 +115,7 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 
 ```
 □ War der Betriebsrat beschlussfähig?
-   (mehr als die Hälfte der Mitglieder anwesend, § 33 Abs. 2 BetrVG)
+ (mehr als die Hälfte der Mitglieder anwesend, § 33 Abs. 2 BetrVG)
 □ Wurde der Beschluss mit Mehrheit der abgegebenen Stimmen gefasst?
 □ Stimmenthaltungen korrekt behandelt (zählen nicht als Ja-Stimme)?
 ```
@@ -124,22 +124,22 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 
 ```
 □ Alle vorstehenden Punkte erfüllt?
-   → Beschluss wirksam
+ → Beschluss wirksam
 
 □ Verstoß gegen Nachrückreihenfolge (§ 25 Abs. 2 BetrVG)?
-   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   → ABER: Heilung möglich (→ Skill `betriebsrat-beschluss-heilung-nachtraeglich`)
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → ABER: Heilung möglich (→ Skill `betriebsrat-beschluss-heilung-nachtraeglich`)
 
 □ Verstoß gegen Ladungsvorschriften (§ 29 Abs. 2 BetrVG)?
-   → Grundsätzlich Unwirksamkeit
-   → Heilung durch neuen Beschluss möglich (→ Heilungs-Skill)
+ → Grundsätzlich Unwirksamkeit
+ → Heilung durch neuen Beschluss möglich (→ Heilungs-Skill)
 
 □ Verhinderung erst am Sitzungstag bekannt und Vorsitzender hat
-   keine Nachladung versucht?
-   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   → Beurteilungsspielraum des Vorsitzenden
-   → Beschluss bleibt wirksam, wenn das Quorum auch ohne
-     Nachladung erreicht war
+ keine Nachladung versucht?
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → Beurteilungsspielraum des Vorsitzenden
+ → Beschluss bleibt wirksam, wenn das Quorum auch ohne
+ Nachladung erreicht war
 ```
 
 ## Häufige Fehlerquellen
@@ -266,11 +266,11 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Schriftlich; an jeden betroffenen Arbeitnehmer persönlich
 - Vor dem Übergang (rechtzeitig, nicht am Tag des Vollzugs)
 - Pflichtangaben:
-  - Zeitpunkt / geplanter Zeitpunkt des Übergangs
-  - Grund des Übergangs
-  - Rechtliche, wirtschaftliche und soziale Folgen für die Arbeitnehmer
-  - Vorgesehene Maßnahmen
-  - Widerspruchsrecht mit Frist (§ 613a Abs. 6 BGB)
+ - Zeitpunkt / geplanter Zeitpunkt des Übergangs
+ - Grund des Übergangs
+ - Rechtliche, wirtschaftliche und soziale Folgen für die Arbeitnehmer
+ - Vorgesehene Maßnahmen
+ - Widerspruchsrecht mit Frist (§ 613a Abs. 6 BGB)
 
 **Folge fehlerhafter Unterrichtung:**
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -337,30 +337,30 @@ VERTRAULICH – § 43a Abs. 2 BRAO
 
 Ergebnis: [§ 613a BGB anwendbar / nicht anwendbar / Grenzfall]
 
-I.   Tatbestand Identitätswahrung
-     Sieben-Punkte-Ergebnis: [Übersicht]
-     Gesamtbewertung: [Betriebsübergang ja/nein/wahrscheinlich]
+I. Tatbestand Identitätswahrung
+ Sieben-Punkte-Ergebnis: [Übersicht]
+ Gesamtbewertung: [Betriebsübergang ja/nein/wahrscheinlich]
 
-II.  Unterrichtungspflicht § 613a Abs. 5 BGB
-     Entwurf: [angehängt / zu erstellen]
-     Fristablauf Widerspruch: [Datum]
+II. Unterrichtungspflicht § 613a Abs. 5 BGB
+ Entwurf: [angehängt / zu erstellen]
+ Fristablauf Widerspruch: [Datum]
 
 III. Widerspruchsrisiko
-     Identifizierte Schlüsselpersonen: [Liste]
-     Empfehlung Kommunikationsstrategie: [konkret]
+ Identifizierte Schlüsselpersonen: [Liste]
+ Empfehlung Kommunikationsstrategie: [konkret]
 
-IV.  Haftungsabgrenzung § 613a Abs. 2 BGB
-     Risiken Veräußerer: [Forderungen aus Zeitraum vor Übergang]
-     Risiken Erwerber: [Eintrittstheorie, Summe]
+IV. Haftungsabgrenzung § 613a Abs. 2 BGB
+ Risiken Veräußerer: [Forderungen aus Zeitraum vor Übergang]
+ Risiken Erwerber: [Eintrittstheorie, Summe]
 
-V.   Betriebsrat-Mitbestimmung
-     Betriebsrat vorhanden: [ja / nein]
-     Interessenausgleich erforderlich: [ja / nein]
-     Sozialplan: [Schätzung Volumen]
+V. Betriebsrat-Mitbestimmung
+ Betriebsrat vorhanden: [ja / nein]
+ Interessenausgleich erforderlich: [ja / nein]
+ Sozialplan: [Schätzung Volumen]
 
 Handlungsempfehlungen:
-  1. ...
-  2. ...
+ 1. ...
+ 2. ...
 ```
 
 --- vor Versand klaeren ---
@@ -485,13 +485,13 @@ Falls Betriebsrat vorhanden und Betrieb > 20 wahlberechtigte AN:
 Befristung geplant?
 ├── Nein → AGG + NachwG + AGB-Kontrolle prüfen → weiter zu Schritt 3
 └── Ja → Sachgrundlos oder Sachgrund?
-    ├── Sachgrundlos (§ 14 Abs. 2)
-    │   ├── Vorbeschäftigung beim selben AG? → Ja → GESPERRT → Sachgrund prüfen oder unbefristet
-    │   ├── Gesamtdauer > 2 Jahre? → Ja → UNZULÄSSIG
-    │   └── > 3 Verlängerungen? → Ja → UNZULÄSSIG
-    └── Sachgrund (§ 14 Abs. 1)
-        ├── Sachgrund konkret bestimmbar? → Nein → UNZULÄSSIG
-        └── Sachgrund bei Vertragsschluss vorhanden? → Nein → UNZULÄSSIG
+ ├── Sachgrundlos (§ 14 Abs. 2)
+ │ ├── Vorbeschäftigung beim selben AG? → Ja → GESPERRT → Sachgrund prüfen oder unbefristet
+ │ ├── Gesamtdauer > 2 Jahre? → Ja → UNZULÄSSIG
+ │ └── > 3 Verlängerungen? → Ja → UNZULÄSSIG
+ └── Sachgrund (§ 14 Abs. 1)
+ ├── Sachgrund konkret bestimmbar? → Nein → UNZULÄSSIG
+ └── Sachgrund bei Vertragsschluss vorhanden? → Nein → UNZULÄSSIG
 
 Schriftform (§ 14 Abs. 4 TzBfG)?
 ├── Eigenhändige Unterschrift auf Originaldokument vor Arbeitsaufnahme → OK
@@ -509,29 +509,29 @@ VERTRAULICH – MANDATSGEHEIMNIS – § 43a Abs. 2 BRAO
 
 Ergebnis: [GRUEN Freigabe / GELB Freigabe mit Auflagen / ROT Nicht freigegeben]
 
-I. Befristungsprüfung                     [GRUEN / GELB / ROT]
-   Befristungsart: [§ 14 Abs. 1 oder Abs. 2 TzBfG]
-   Sachgrund: [Bezeichnung und Subsumtion]
-   Vorbeschäftigung: [Ja/Nein — Ergebnis]
-   Schriftform: [OK / MANGEL — Handlungsbedarf]
+I. Befristungsprüfung [GRUEN / GELB / ROT]
+ Befristungsart: [§ 14 Abs. 1 oder Abs. 2 TzBfG]
+ Sachgrund: [Bezeichnung und Subsumtion]
+ Vorbeschäftigung: [Ja/Nein — Ergebnis]
+ Schriftform: [OK / MANGEL — Handlungsbedarf]
 
-II. AGG-Prüfung                           [GRUEN / GELB / ROT]
-    Ausschreibung: [OK / Flag + Korrekturvorschlag]
-    Auswahlverfahren: [OK / Dokumentationslücke]
+II. AGG-Prüfung [GRUEN / GELB / ROT]
+ Ausschreibung: [OK / Flag + Korrekturvorschlag]
+ Auswahlverfahren: [OK / Dokumentationslücke]
 
-III. NachwG                               [GRUEN / GELB]
-     Fehlende Pflichtangaben: [Liste oder "keine"]
+III. NachwG [GRUEN / GELB]
+ Fehlende Pflichtangaben: [Liste oder "keine"]
 
-IV. AGB-Kontrolle                         [GRUEN / GELB / ROT]
-    Flags: [Klausel | Risiko | Empfehlung]
+IV. AGB-Kontrolle [GRUEN / GELB / ROT]
+ Flags: [Klausel | Risiko | Empfehlung]
 
-V. AÜeG (falls relevant)                  [GRUEN / GELB / ROT]
+V. AÜeG (falls relevant) [GRUEN / GELB / ROT]
 
-VI. Betriebsrat (§ 99 BetrVG)             [Erforderlich / Nicht erforderlich]
+VI. Betriebsrat (§ 99 BetrVG) [Erforderlich / Nicht erforderlich]
 
 Handlungsempfehlungen:
-  1. [Konkrete Maßnahme mit Frist]
-  2. [Konkrete Maßnahme mit Frist]
+ 1. [Konkrete Maßnahme mit Frist]
+ 2. [Konkrete Maßnahme mit Frist]
 ```
 
 ## Quellen und Zitierweise
@@ -584,28 +584,28 @@ sind und der Tracker aktualisiert werden soll.
 **Kernvorschriften:**
 
 - § 7 SGB IV: Beschäftigungsverhältnis und Scheinselbständigkeit — bei
-  Verlängerung eines EOR-Verhältnisses weiterhin zu prüfen
+ Verlängerung eines EOR-Verhältnisses weiterhin zu prüfen
 - § 1 Abs. 1b AÜG: Gesetzliche Höchstüberlassungsdauer von 18 Monaten —
-  bei andauernder EOR-Nutzung kontinuierlich zu überwachen
+ bei andauernder EOR-Nutzung kontinuierlich zu überwachen
 - § 8 AÜG: Equal-Pay-Gebot nach neun Monaten Überlassung — Ausnahme nur
-  durch einschlägigen Tarifvertrag
+ durch einschlägigen Tarifvertrag
 - Art. 8 Rom I-VO: Fortlaufende Relevanz des Beschäftigungsstatuts bei
-  grenzüberschreitenden Arbeitsverhältnissen
+ grenzüberschreitenden Arbeitsverhältnissen
 - §§ 17, 18 KSchG: Massenentlassungsanzeige bei Erreichung der
-  Schwellenwerte im Rahmen des Aufbaus
+ Schwellenwerte im Rahmen des Aufbaus
 
 **Leitentscheidungen:**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Rechtsfolgen fehlender AÜG-Erlaubnis; Entstehung eines Arbeitsverhältnisses
-  zum Entleiher kraft Gesetzes — Relevanz, wenn EOR ohne korrekte AÜG-Struktur
-  fortgeführt wird
+ Rechtsfolgen fehlender AÜG-Erlaubnis; Entstehung eines Arbeitsverhältnisses
+ zum Entleiher kraft Gesetzes — Relevanz, wenn EOR ohne korrekte AÜG-Struktur
+ fortgeführt wird
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Interessenausgleich und Sozialplan bei Betriebsänderungen infolge
-  Auslandsexpansion — zu beachten, wenn durch den Aufbau im Ausland
-  inländische Strukturen betroffen werden
+ Interessenausgleich und Sozialplan bei Betriebsänderungen infolge
+ Auslandsexpansion — zu beachten, wenn durch den Aufbau im Ausland
+ inländische Strukturen betroffen werden
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Gesamtbetrachtung bei der Statusfeststellung nach § 7a SGB IV
+ Gesamtbetrachtung bei der Statusfeststellung nach § 7a SGB IV
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
@@ -632,9 +632,9 @@ Lese den Tracker. Zeige den Gesamtstatus:
 Offen: [N] | In Bearbeitung: [N] | Erledigt: [N] | Blockiert: [N]
 
 Nächste Prioritäten (offene Punkte nach Fälligkeit / Abhängigkeit):
-  [Punkt] — Verantwortung: [Person/Funktion]
-  [Punkt] — Verantwortung: [Person/Funktion]
-  [Punkt] — Verantwortung: [Person/Funktion]
+ [Punkt] — Verantwortung: [Person/Funktion]
+ [Punkt] — Verantwortung: [Person/Funktion]
+ [Punkt] — Verantwortung: [Person/Funktion]
 ```
 
 **Schritt 3 — Änderungen abfragen**
@@ -704,17 +704,17 @@ Beispiel-Ausgabe bei laufendem EOR-Einsatz seit 14 Monaten:
 ## Risiken und typische Fehler
 
 - **18-Monats-Grenze übersehen**: Die AÜG-Frist läuft unabhängig davon,
-  ob die Parteien die Überlassung bewusst als solche strukturiert haben.
-  Frühzeitige Planung der Folgeoption (Direkteinstellung oder neuer EOR-Vertrag
-  mit echtem Unterbrechungszeitraum) ist erforderlich.
+ ob die Parteien die Überlassung bewusst als solche strukturiert haben.
+ Frühzeitige Planung der Folgeoption (Direkteinstellung oder neuer EOR-Vertrag
+ mit echtem Unterbrechungszeitraum) ist erforderlich.
 - **Equal-Pay vergessen**: Nach neun Monaten ununterbrochener Überlassung
-  gilt das Equal-Pay-Gebot (§ 8 AÜG), sofern kein einschlägiger TV gilt.
-  Budgetauswirkung für Finance vorab modellieren.
+ gilt das Equal-Pay-Gebot (§ 8 AÜG), sofern kein einschlägiger TV gilt.
+ Budgetauswirkung für Finance vorab modellieren.
 - **Tracker nicht gepflegt**: Ein veralteter Tracker führt zu fehlerhafter
-  Priorisierung. Update zeitnah nach jeder relevanten Entwicklung.
+ Priorisierung. Update zeitnah nach jeder relevanten Entwicklung.
 - **Statusänderungen nicht auf Abhängigkeiten geprüft**: Wird z. B. die
-  EOR-Entscheidung getroffen, schaltet dies typischerweise Punkte für
-  Steuer, Finance und HR frei — diese dürfen nicht übersehen werden.
+ EOR-Entscheidung getroffen, schaltet dies typischerweise Punkte für
+ Steuer, Finance und HR frei — diese dürfen nicht übersehen werden.
 
 ## Quellenpflicht
 

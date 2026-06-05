@@ -1,13 +1,13 @@
 ---
 name: vert-vertragsschluss-vertragspruefung
-description: "Nutze dies, wenn Vert Vertragsschluss Bauleiter, Vertragspruefung, Vertragsrecht Anpassen im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vert Vertragsschluss Bauleiter, Vertragspruefung, Vertragsrecht Anpassen prüfen.; Erstelle eine Arbeitsfassung zu Vert Vertragsschluss Bauleiter, Vertragspruefung, Vertragsrecht Anpassen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vert Vertragsschluss Bauleiter, Vertragspruefung, Vertragsrecht Anpassen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vert Vertragsschluss Bauleiter, Vertragspruefung, Vertragsrecht Anpassen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vert Vertragsschluss Bauleiter, Vertragspruefung, Vertragsrecht Anpassen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -90,7 +90,7 @@ Kanzlei-Playbook aus dem Kanzleiprofil. Sie ist das zentrale Werkzeug für
 die Vertragsanalyse im täglichen Kanzleibetrieb:
 
 - AGB-Kontrolle: Einbeziehungsprüfung (§ 305 BGB), Überraschungsklauseln
-  (§ 305c BGB), Inhaltskontrolle (§ 307 BGB), Klauselverbote (§§ 308, 309 BGB)
+ (§ 305c BGB), Inhaltskontrolle (§ 307 BGB), Klauselverbote (§§ 308, 309 BGB)
 - Gewährleistungs- und Schadensersatzklauseln (§§ 437 ff., 634 ff., 280 ff. BGB)
 - Haftungsbeschränkungen und -ausschlüsse
 - Datenschutz und AVV (Art. 28 DSGVO)
@@ -102,9 +102,9 @@ Lädt, wenn der Nutzer einen Vertrag zur Prüfung einreicht.
 ## Eingaben
 
 - Den zu prüfenden Vertrag: Dateipfad, SharePoint-Link, Datenbankkennung
-  oder direkt eingefügter Text
+ oder direkt eingefügter Text
 - Optional: Hinweis auf die Mandatsseite (Verwender/Vertragspartner-Seite),
-  wenn nicht aus dem Vertrag erkennbar
+ wenn nicht aus dem Vertrag erkennbar
 - Optional: Aktives Mandat (Kürzel), wenn Mandatsarbeitsbereiche aktiviert sind
 
 ## Rechtlicher Rahmen
@@ -116,26 +116,26 @@ Lädt, wenn der Nutzer einen Vertrag zur Prüfung einreicht.
 - Zumutbare Möglichkeit der Kenntnisnahme?
 - Einverständnis des Vertragspartners?
 - Sonderfall: § 305 Abs. 2 BGB gilt nicht im unternehmerischen Verkehr
-  (§ 310 Abs. 1 BGB); dort genügt kaufmännische Üblichkeit
+ (§ 310 Abs. 1 BGB); dort genügt kaufmännische Üblichkeit
 
 **Stufe 2 — Überraschende und mehrdeutige Klauseln (§ 305c BGB):**
 - Ist die Klausel nach den Gesamtumständen so ungewöhnlich, dass der
-  Vertragspartner nicht mit ihr rechnet?
+ Vertragspartner nicht mit ihr rechnet?
 - Mehrdeutige Klauseln gehen zulasten des Verwenders (§ 305c Abs. 2 BGB)
 
 **Stufe 3 — Inhaltskontrolle (§ 307 BGB):**
 - Unangemessene Benachteiligung durch Abweichung von wesentlichen Grundgedanken
-  der gesetzlichen Regelung (§ 307 Abs. 2 Nr. 1 BGB)?
+ der gesetzlichen Regelung (§ 307 Abs. 2 Nr. 1 BGB)?
 - Transparenzgebot: Ist die Klausel klar und verständlich formuliert?
-  (§ 307 Abs. 1 S. 2 BGB)
+ (§ 307 Abs. 1 S. 2 BGB)
 - Im B2B-Bereich gilt § 307 BGB vollumfänglich, §§ 308, 309 BGB nur als
-  Indizien (§ 310 Abs. 1 S. 2 BGB)
+ Indizien (§ 310 Abs. 1 S. 2 BGB)
 
 **Stufe 4 — Klauselverbote (§§ 308, 309 BGB):**
 - § 308 Nr. 1 BGB: Angemessene Fristen
 - § 308 Nr. 4 BGB: Änderungsvorbehalte
 - § 309 Nr. 7 BGB: Haftungsausschluss für Körperverletzung und grobe
-  Fahrlässigkeit (absolutes Verbot)
+ Fahrlässigkeit (absolutes Verbot)
 - § 309 Nr. 8 BGB: Gewährleistungsverkürzung
 
 ### Schadensersatz (§§ 280 ff. BGB)
@@ -151,9 +151,9 @@ Lädt, wenn der Nutzer einen Vertrag zur Prüfung einreicht.
 - § 437 BGB — Rechte des Käufers bei Sachmangel
 - § 439 BGB — Nacherfüllung als primärer Rechtsbehelf
 - § 438 BGB — Verjährung der Mängelrechte (2 Jahre Regelfall, 5 Jahre bei
-  Bauwerken)
+ Bauwerken)
 - § 309 Nr. 8 lit. b aa BGB — Verkürzungsverbot: Mindestgewährleistung
-  bei neu hergestellten Sachen
+ bei neu hergestellten Sachen
 - § 634 BGB — Rechte des Bestellers beim Werkvertrag
 - § 634a BGB — Verjährung beim Werkvertrag
 
@@ -163,36 +163,36 @@ Lädt, wenn der Nutzer einen Vertrag zur Prüfung einreicht.
 - § 312g BGB — Widerrufsrecht; § 355 BGB — Ausübung; § 356 BGB — Fristen
 - § 312j BGB — Pflichten im elektronischen Geschäftsverkehr
 - § 475 BGB — Verbrauchsgüterkauf: Abweichungen von Gewährleistungsrecht
-  zu Lasten des Verbrauchers unzulässig
+ zu Lasten des Verbrauchers unzulässig
 
 ### Datenschutz (DSGVO / BDSG)
 
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag (AVV); zwingend bei
-  Auftragsverarbeitung personenbezogener Daten
+ Auftragsverarbeitung personenbezogener Daten
 - Art. 28 Abs. 3 DSGVO — Mindestinhalt des AVV
 - Art. 46 DSGVO — Drittlandübertragungen; Standardvertragsklauseln
 
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Inhaltskontrolle Haftungsbeschränkungsklausel; § 307 BGB; Grenze
-  der Freizeichnung)
+ (Inhaltskontrolle Haftungsbeschränkungsklausel; § 307 BGB; Grenze
+ der Freizeichnung)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (§ 305c BGB; Überraschungsklausel; Leitnorm zur AGB-Kontrolle)
+ (§ 305c BGB; Überraschungsklausel; Leitnorm zur AGB-Kontrolle)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Transparenzgebot; § 307 Abs. 1 S. 2 BGB; Klauselkontrolle
-  Zinsanpassungsklausel)
+ (Transparenzgebot; § 307 Abs. 1 S. 2 BGB; Klauselkontrolle
+ Zinsanpassungsklausel)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (§ 309 Nr. 8 BGB; unzulässige Einschränkung der Gewährleistungsrechte
-  in AGB)
+ (§ 309 Nr. 8 BGB; unzulässige Einschränkung der Gewährleistungsrechte
+ in AGB)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (§ 309 Nr. 7 lit. b BGB; Haftungsfreizeichnung für grobe Fahrlässigkeit
-  in AGB unwirksam)
+ (§ 309 Nr. 7 lit. b BGB; Haftungsfreizeichnung für grobe Fahrlässigkeit
+ in AGB unwirksam)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (§ 305 Abs. 2 BGB; AGB-Einbeziehung; Anforderungen im Verbraucher- und
-  B2B-Bereich)
+ (§ 305 Abs. 2 BGB; AGB-Einbeziehung; Anforderungen im Verbraucher- und
+ B2B-Bereich)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Drittlandübertragungen; Standardvertragsklauseln)
+ Drittlandübertragungen; Standardvertragsklauseln)
 - **LG Aachen, Urteil vom 27.05.2026, 10 O 306/25** — Button-Lösung § 312j Abs. 3 BGB im Online-Glücksspiel: Die Schaltflächenbeschriftung "Wette abgeben" genügt nicht. Verstoß führt zu endgültiger Unwirksamkeit (§ 312j Abs. 4 BGB) und Rückabwicklung nach § 812 BGB — unabhängig von glücksspielrechtlichen Konzessionsfragen. Für die Vertragsprüfung digitaler B2C-Vertragsschlüsse bedeutet das: Button-Beschriftung isoliert prüfen, nur die Worte auf dem Button zählen (im Anschluss an EuGH C-249/21 Fuhrmann-2). (Quelle: Pressehinweis Gamesright/rightmart vom 28.05.2026; Volltext bei Aufnahme noch nicht veröffentlicht.)
 
 ### Quellenregel
@@ -221,7 +221,7 @@ Falls kein Vertrag vorliegt: danach fragen.
 Vor dem Lesen des Textkörpers extrahieren:
 - Haupttitel (z. B. "Dienstleistungsrahmenvertrag", "Geheimhaltungsvereinbarung")
 - Alle Anlage-, Anhang-, Nachtragstitel (z. B. "Anlage 1 — AVV", "Anhang B —
-  Service-Level-Vereinbarung")
+ Service-Level-Vereinbarung")
 
 Das ist das Routing-Signal. Nicht auf Body-Keywords allein verlassen.
 
@@ -239,7 +239,7 @@ Das ist das Routing-Signal. Nicht auf Body-Keywords allein verlassen.
 Mehrere Prüfpfade möglich. Häufige Kombinationen:
 - Rahmenvertrag + AVV-Anlage → lieferanten-vertrag-prüfung, mit AVV-Hinweis
 - SaaS-Vertrag + Bestellformular mit automatischer Verlängerung + SLA-Anlage →
-  saas-vertrag-prüfung (deckt alle drei ab)
+ saas-vertrag-prüfung (deckt alle drei ab)
 - AGB + Individualvertrag → AGB-Kontrolle + vertragsspezifische Prüfung
 
 Bei echter Ambiguität nach Titellektüre: die ersten zwei Seiten des Textkörpers
@@ -275,7 +275,7 @@ sequenziell abarbeiten und Ausgabe in einem einzigen Memo zusammenführen.
 1. **Klausel** — Volltext (kein Trunkieren)
 2. **Bewertung** — GRÜN / GELB / ROT (nach Playbook-Kriterien)
 3. **Begründung** — konkrete Abweichung vom Playbook oder zwingendes Recht;
-   mit §§ und BGH-Belegen
+ mit §§ und BGH-Belegen
 4. **Gegenentwurf** — vorgeschlagene Formulierung mit Begründung
 5. **Eskalation** — wenn die Entscheidung die Zeichnungsbefugnis übersteigt
 
@@ -304,21 +304,21 @@ dass sie für einen redlich und verständig denkenden Kaufmann inakzeptabel wär
 
 **Haftungsbeschränkung:**
 - Carve-outs zwingend nach § 309 Nr. 7 lit. a BGB (Körperverletzung) und
-  § 276 Abs. 3 BGB (Vorsatz) vorhanden?
+ § 276 Abs. 3 BGB (Vorsatz) vorhanden?
 - Cap-Betrag: welches Vielfaches der Vergütung?
 - Symmetrie: unterschiedliche Caps für beide Seiten?
 - Schadensersatz statt der Leistung (§ 281 BGB): welche Schwelle?
 
 **Gewährleistung (§§ 437 ff., 634 ff. BGB):**
 - Verjährungsfrist: kürzer als § 438 Abs. 1 Nr. 3 BGB (2 Jahre)?
-  Grenze nach § 309 Nr. 8 lit. b aa BGB beachten
+ Grenze nach § 309 Nr. 8 lit. b aa BGB beachten
 - Mängelrechte eingeschränkt? Nacherfüllungspflicht ausgeschlossen?
 - Bei Werkvertrag: Abnahme (§ 640 BGB) und Verjährung (§ 634a BGB)
 
 **Freistellung / Freistellungsklauseln (§ 257 BGB):**
 - Einseitig zulasten einer Partei?
 - Ausgelöst durch "jeglichen Verstoß" — das macht die Haftungsbegrenzung
-  faktisch wirkungslos?
+ faktisch wirkungslos?
 - Verfahren: Benachrichtigung, Verteidigungsrecht, Vergleichszustimmung?
 
 **Datenschutz (Art. 28 DSGVO):**
@@ -330,9 +330,9 @@ dass sie für einen redlich und verständig denkenden Kaufmann inakzeptabel wär
 **Laufzeit und Kündigung:**
 - Ordentliche Kündigung: zulässig oder nur fristgebundene außerordentliche?
 - Automatische Verlängerung: Ankündigungsfrist? Bei Verbrauchern
-  § 309 Nr. 9 BGB beachten (max. 3 Monate Ankündigungsfrist)
+ § 309 Nr. 9 BGB beachten (max. 3 Monate Ankündigungsfrist)
 - Vertragsstrafe (§ 339 BGB): angemessen? Herabsetzungsrecht nach
-  § 343 BGB anwendbar?
+ § 343 BGB anwendbar?
 
 **Verbraucherrechtliche Checks (bei B2C):**
 - Widerrufsrecht (§ 312g BGB) ordnungsgemäß belehrt?
@@ -401,29 +401,29 @@ soweit keine grobe Fahrlässigkeit oder kein Vorsatz vorliegt."
 **Prüfung:**
 - Klausel: Haftungsbeschränkung auf grobe Fahrlässigkeit/Vorsatz
 - Bewertung: GELB — entspricht § 309 Nr. 7 lit. b BGB (Grenze im B2C),
-  im B2B zulässig (§ 310 Abs. 1 BGB), aber prüfen, ob der vollständige
-  Ausschluss für leichte Fahrlässigkeit auch Kardinalpflichten erfasst
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  freigezeichnet werden)
+ im B2B zulässig (§ 310 Abs. 1 BGB), aber prüfen, ob der vollständige
+ Ausschluss für leichte Fahrlässigkeit auch Kardinalpflichten erfasst
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ freigezeichnet werden)
 - Gegenentwurf: "Die Haftung für die Verletzung von Kardinalpflichten
-  bleibt in Höhe des vertragstypischen, vorhersehbaren Schadens bestehen."
+ bleibt in Höhe des vertragstypischen, vorhersehbaren Schadens bestehen."
 
 ## Risiken und typische Fehler
 
 - **Haftungsbeschränkung und Freistellung isoliert lesen.** Eine faktisch
-  unbegrenzte Freistellungsklausel macht den Haftungsdeckel wirkungslos —
-  immer beide gemeinsam bewerten.
+ unbegrenzte Freistellungsklausel macht den Haftungsdeckel wirkungslos —
+ immer beide gemeinsam bewerten.
 - **B2B/B2C-Unterscheidung vergessen.** Im B2C gelten §§ 308, 309 BGB
-  unmittelbar; im B2B nur § 307 BGB direkt, §§ 308, 309 BGB als Indizien.
-  Das Playbook muss die typische Kundensituation ausweisen.
+ unmittelbar; im B2B nur § 307 BGB direkt, §§ 308, 309 BGB als Indizien.
+ Das Playbook muss die typische Kundensituation ausweisen.
 - **Automatische Verlängerung ohne Fristen-Check.** Eine automatische
-  Verlängerung mit kurzer Kündigungsfrist kann faktisch zu einem Lock-in
-  führen. Bei Verbrauchern § 309 Nr. 9 BGB beachten.
+ Verlängerung mit kurzer Kündigungsfrist kann faktisch zu einem Lock-in
+ führen. Bei Verbrauchern § 309 Nr. 9 BGB beachten.
 - **AVV vergessen.** Wenn der Vertrag Zugang zu personenbezogenen Daten
-  des Mandanten beinhaltet und kein AVV beigefügt ist: ROT-Markierung,
-  da Art. 28 DSGVO zwingend ist.
+ des Mandanten beinhaltet und kein AVV beigefügt ist: ROT-Markierung,
+ da Art. 28 DSGVO zwingend ist.
 - **Klauseln trunkieren.** Bedingte Sätze immer vollständig zitieren —
-  verkürzte Wiedergabe kann den Sinn entstellen.
+ verkürzte Wiedergabe kann den Sinn entstellen.
 
 ## Quellenpflicht
 
@@ -431,7 +431,7 @@ Jede Klauselbewertung muss belegen:
 - Den einschlägigen Paragraphen (§ 305c, § 307, § 309 Nr. 7 BGB etc.)
 - Mindestens eine BGH-Entscheidung in korrekter Zitierweise
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
+ Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
@@ -455,10 +455,10 @@ möchte — nicht für die Ersteinrichtung (dafür: `/vertragsrecht:vertragsrech
 ## Eingaben
 
 - Die gewünschte Änderung in eigenen Worten: "Ändere meine Haftungsobergrenze
-  auf 6 Monate", "Neuer Eskalationsansprechpartner für Verträge über 500.000 €",
-  "Risikobereitschaft auf konservativ setzen"
+ auf 6 Monate", "Neuer Eskalationsansprechpartner für Verträge über 500.000 €",
+ "Risikobereitschaft auf konservativ setzen"
 - Optional: Abschnittsnamen aus dem Kanzleiprofil (Playbook, Eskalation,
-  Kanzleistil, Integrationen etc.)
+ Kanzleistil, Integrationen etc.)
 
 ## Rechtlicher Rahmen
 
@@ -468,26 +468,26 @@ Die zulässige Anpassungsspanne von Vertragsklauseln ist durch zwingendes Recht
 begrenzt. Relevante Grenzen:
 
 - § 307 BGB — Unangemessene Benachteiligung; Transparenzgebot. Klauseln,
-  die den Vertragspartner entgegen den Geboten von Treu und Glauben unangemessen
-  benachteiligen, sind unwirksam — auch im B2B-Bereich.
+ die den Vertragspartner entgegen den Geboten von Treu und Glauben unangemessen
+ benachteiligen, sind unwirksam — auch im B2B-Bereich.
 - § 308 Nr. 1, 2 BGB — Klauselverbote mit Wertungsmöglichkeit (Fristen,
-  Leistungsänderungsvorbehalte)
+ Leistungsänderungsvorbehalte)
 - § 309 Nr. 7 BGB — Klauselverbot ohne Wertungsmöglichkeit: Haftungsausschluss
-  für Körperverletzungen und grobe Fahrlässigkeit ist unwirksam und nicht
-  verhandelbar
+ für Körperverletzungen und grobe Fahrlässigkeit ist unwirksam und nicht
+ verhandelbar
 - § 310 Abs. 1 BGB — Im unternehmerischen Verkehr gelten §§ 308, 309 BGB
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 438, 634a BGB — Gesetzliche Verjährungsfristen für Gewährleistung;
-  Verkürzung in AGB nur in Grenzen des § 309 Nr. 8 BGB
+ Verkürzung in AGB nur in Grenzen des § 309 Nr. 8 BGB
 
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Zulässige Anpassung von Zinsklauseln; Transparenzgebot bei Änderungsvorbehalten)
+ (Zulässige Anpassung von Zinsklauseln; Transparenzgebot bei Änderungsvorbehalten)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Unwirksamkeit einer AGB-Klausel bei unangemessener Benachteiligung; § 307 BGB)
+ (Unwirksamkeit einer AGB-Klausel bei unangemessener Benachteiligung; § 307 BGB)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Unwirksamkeit verkürzter Verjährungsfristen in AGB bei versteckter Klausel)
+ (Unwirksamkeit verkürzter Verjährungsfristen in AGB bei versteckter Klausel)
 
 ### Quellenregel
 
@@ -509,24 +509,24 @@ Zeige dem Nutzer, was im Profil änderbar ist, mit aktuellem Ist-Wert
 (eine Zeile pro Einstellung):
 
 - **Kanzlei / Profil** — Name, Branche, Jurisdiktion, Rechtsform, Setting
-  (Kanzlei/In-house), Mandatseite (Verwender/Kunden-Seite)
-  *(Gemeinsames Profil — Änderungen wirken sich auf alle Plugins aus)*
+ (Kanzlei/In-house), Mandatseite (Verwender/Kunden-Seite)
+ *(Gemeinsames Profil — Änderungen wirken sich auf alle Plugins aus)*
 - **Risikobereitschaft** — konservativ / ausgewogen / risikobereit;
-  Auswirkung auf Fallback-Positionen und Eskalationsschwellen
+ Auswirkung auf Fallback-Positionen und Eskalationsschwellen
 - **Personen** — Eskalationskette, Genehmiger nach Schwellenwert und
-  Klauseltyp (GC, Partner, Geschäftsführung)
+ Klauseltyp (GC, Partner, Geschäftsführung)
 - **Klauselpositionen (Playbook)** — die substanziellen Vertragspositionen:
-  Haftungsbeschränkung, Gewährleistung, Datenschutz/AVV, Laufzeit/Kündigung,
-  AGB-Einbeziehung, Gerichtsstand, Fallback-Positionen zu jeder Klausel
+ Haftungsbeschränkung, Gewährleistung, Datenschutz/AVV, Laufzeit/Kündigung,
+ AGB-Einbeziehung, Gerichtsstand, Fallback-Positionen zu jeder Klausel
 - **Spürbarkeit von Abweichungen** — ab welcher Abweichung vom Standardmuster
-  wird eine Klausel als GELB oder ROT gekennzeichnet?
+ wird eine Klausel als GELB oder ROT gekennzeichnet?
 - **Prüfungseinstellungen** — Routing-Bestätigung, Erklärungstiefe,
-  Standard-Stakeholder-Zusammenfassung
+ Standard-Stakeholder-Zusammenfassung
 - **Kanzleistil** — Ton in Gegenentwürfen, Länge von Zusammenfassungen,
-  Ablageort für Arbeitsergebnisse
+ Ablageort für Arbeitsergebnisse
 - **Ablauf** — Mandatspfade, Fristen-Tracker-Takt
 - **Integrationen** — Status Vertragsmanagement-System, E-Signatur, Slack,
-  Dokumentenablage
+ Dokumentenablage
 
 ### Schritt 3 — Änderung abfragen
 
@@ -542,17 +542,17 @@ Kanzleiprofil.
 **Beispiele:**
 
 - *Haftungsobergrenze Fallback 12 Monate → 6 Monate:*
-  "`/vertragsrecht:vertragsprüfung` kennzeichnet künftig alles über 6 Monate als
-  Abweichung; bereits protokollierte Verhandlungsergebnisse bleiben unverändert."
+ "`/vertragsrecht:vertragsprüfung` kennzeichnet künftig alles über 6 Monate als
+ Abweichung; bereits protokollierte Verhandlungsergebnisse bleiben unverändert."
 - *Neuer Eskalationsansprechpartner:*
-  "Jeder Redline-Vorschlag, der Ihre Zeichnungsbefugnis übersteigt, wird
-  künftig an diesen Ansprechpartner gerichtet."
+ "Jeder Redline-Vorschlag, der Ihre Zeichnungsbefugnis übersteigt, wird
+ künftig an diesen Ansprechpartner gerichtet."
 - *Risikobereitschaft ausgewogen → konservativ:*
-  "Ich kennzeichne Klauseln, die zuvor als akzeptabel galten, künftig früher
-  als Abweichung und verschiebe den Eskalationsschwellenwert nach unten."
+ "Ich kennzeichne Klauseln, die zuvor als akzeptabel galten, künftig früher
+ als Abweichung und verschiebe den Eskalationsschwellenwert nach unten."
 - *Spürbarkeit einer Abweichung ändern:*
-  "Soll jede Verlängerung der Verjährungsfrist über 2 Jahre als GELB
-  (verhandelbar) oder als ROT (Eskalation) markiert werden?"
+ "Soll jede Verlängerung der Verjährungsfrist über 2 Jahre als GELB
+ (verhandelbar) oder als ROT (Eskalation) markiert werden?"
 
 ### Schritt 5 — Gemeinsames Profil (mandantenübergreifend)
 
@@ -580,27 +580,27 @@ genau, was sich geändert hat.
 1. Profil zeigt aktuell: "Eskalation an RA Müller, E-Mail"
 2. Nutzer sagt: "RA Müller ist ausgeschieden, bitte auf RA Meier ändern"
 3. Skill zeigt: Aktuell: `RA Müller (m.mueller@kanzlei.de)` →
-   Neu: `RA Meier` (bitte E-Mail-Adresse bestätigen)
+ Neu: `RA Meier` (bitte E-Mail-Adresse bestätigen)
 4. Nach Bestätigung: Profil aktualisiert; Hinweis, dass `/vertragsrecht:vertragsprüfung`
-   und Eskalationsvorschläge künftig RA Meier adressieren.
+ und Eskalationsvorschläge künftig RA Meier adressieren.
 
 ## Risiken und typische Fehler
 
 - **Zwingende AGB-Grenzen nicht umgehen lassen.** Wenn der Nutzer eine
-  Position eintragen will, die gegen § 309 Nr. 7 BGB oder andere zwingende
-  Vorschriften verstößt (z. B. vollständiger Haftungsausschluss auch für grobe
-  Fahrlässigkeit in AGB), darauf hinweisen und Eintragung verweigern oder
-  mit Warnung versehen.
+ Position eintragen will, die gegen § 309 Nr. 7 BGB oder andere zwingende
+ Vorschriften verstößt (z. B. vollständiger Haftungsausschluss auch für grobe
+ Fahrlässigkeit in AGB), darauf hinweisen und Eintragung verweigern oder
+ mit Warnung versehen.
 - **Interne Widersprüche im Profil flaggen.** Wenn Risikobereitschaft auf
-  "konservativ" steht, aber jede Eskalation der GC-Genehmigung bedarf, ist
-  das ein Widerspruch — ansprechen, welche Einstellung gelten soll.
+ "konservativ" steht, aber jede Eskalation der GC-Genehmigung bedarf, ist
+ das ein Widerspruch — ansprechen, welche Einstellung gelten soll.
 - **Leitplanken-Abbau erklären.** Wenn der Nutzer eine Schutzmarkierung
-  deaktivieren will (z. B. `[Prüfen]`-Hinweis auf Klauseln, Quellenangaben
-  entfernen), den Zweck der Leitplanke erklären und Konsequenz benennen.
-  Die `[Prüfen]`-Markierung, Quellenangaben und `[Verifizieren]`-Hinweise
-  sind funktionstragende Elemente und sollen nicht entfernt werden.
+ deaktivieren will (z. B. `[Prüfen]`-Hinweis auf Klauseln, Quellenangaben
+ entfernen), den Zweck der Leitplanke erklären und Konsequenz benennen.
+ Die `[Prüfen]`-Markierung, Quellenangaben und `[Verifizieren]`-Hinweise
+ sind funktionstragende Elemente und sollen nicht entfernt werden.
 - **Gesamtinterview nicht auslösen.** Diese Skill ändert einzelne
-  Einstellungen — sie stellt keine Fragen aus dem Erstgespräch neu.
+ Einstellungen — sie stellt keine Fragen aus dem Erstgespräch neu.
 
 ## Quellenpflicht
 
@@ -609,7 +609,7 @@ oder eine Warnung ausgelöst wird, muss die Ausgabe belegen:
 - Den einschlägigen Paragraphen (z. B. § 309 Nr. 7 BGB)
 - Eine BGH-Entscheidung zur Grenze
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  § 309 Rn. 48)
+ § 309 Rn. 48)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 

@@ -1,13 +1,13 @@
 ---
 name: livecheck-fristennotiz-versorger
-description: "Nutze dies, wenn Spezial Livecheck Fristennotiz Und Naechster Schritt, Spezial Versorger Fristen Form Und Zustaendigkeit, Ladeinfrastruktur Spezial Vertragskette, Ppa Cppa Vertragsspezialitaeten im Plugin Energierecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Livecheck Fristennotiz Und Naechster Schritt, Versorger Fristen Form Und Zustaendigkeit, Ladeinfrastruktur Vertragskette, Ppa Cppa Vertragsspezialitaeten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Livecheck Fristennotiz Und Naechster Schritt, Spezial Versorger Fristen Form Und Zustaendigkeit, Ladeinfrastruktur Spezial Vertragskette, Ppa Cppa Vertragsspezialitaeten
+# Livecheck Fristennotiz Und Naechster Schritt, Versorger Fristen Form Und Zustaendigkeit, Ladeinfrastruktur Vertragskette, Ppa Cppa Vertragsspezialitaeten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Livecheck Fristennotiz Und Naechster Schritt, Versorger Fristen Form Und Zustaendigkeit, Ladeinfrastruktur Vertragskette, Ppa Cppa Vertragsspezialitaeten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Livecheck Fristennotiz Und Naechster Schritt, Spezial Versorger Fristen Form Und Zustaendigkeit, Ladeinfrastruktur Spezial Vertragskette, Ppa Cppa Vertragsspezialitaeten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `energierecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Livecheck Fristennotiz Und Naechster Schritt, Versorger Fristen Form Und Zustaendigkeit, Ladeinfrastruktur Vertragskette, Ppa Cppa Vertragsspezialitaeten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `energierecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Spezial Livecheck Fristennotiz Und Naechster Schritt, Spezial Versorger F
 # Livecheck: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Livecheck: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Livecheck: Fristennotiz und nächster Schritt / spezial livecheck fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Livecheck: Fristennotiz und nächster Schritt / livecheck fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EEG, KWKG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -73,7 +73,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Versorger: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Versorger: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Versorger: Fristen, Form, Zuständigkeit und Rechtsweg / spezial versorger fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Versorger: Fristen, Form, Zuständigkeit und Rechtsweg / versorger fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EEG, KWKG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -114,7 +114,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Ladeinfrastruktur-Vertragskette
 
 ## Spezialwissen: Ladeinfrastruktur-Vertragskette
-- **Spezialgegenstand:** Ladeinfrastruktur-Vertragskette / ladeinfrastruktur spezial vertragskette. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ladeinfrastruktur-Vertragskette / ladeinfrastruktur vertragskette. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CPO, AFIR.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

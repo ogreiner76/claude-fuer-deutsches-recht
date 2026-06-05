@@ -1,13 +1,13 @@
 ---
 name: vc-climate-vc-defense-vc-consumer-vc
-description: "Nutze dies, wenn Vc 043 Climate Energy Deeptech, Vc 044 Defense Dual Use Fdi, Vc 045 Consumer Ecommerce Platform, Vc 046 International Eu Schweiz im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 043 Climate Energy Deeptech, Vc 044 Defense Dual Use Fdi, Vc 045 Consumer Ecommerce Platform, Vc 046 International Eu Schweiz prüfen.; Erstelle eine Arbeitsfassung zu Vc 043 Climate Energy Deeptech, Vc 044 Defense Dual Use Fdi, Vc 045 Consumer Ecommerce Platform, Vc 046 International Eu Schweiz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vc 043 Climate Energy Deeptech, Vc 044 Defense Dual Use Fdi, Vc 045 Consumer Ecommerce Platform, Vc 046 International Eu Schweiz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vc 043 Climate Energy Deeptech, Vc 044 Defense Dual Use Fdi, Vc 045 Consumer Ecommerce Platform, Vc 046 International Eu Schweiz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vc 043 Climate Energy Deeptech, Vc 044 Defense Dual Use Fdi, Vc 045 Consumer Ecommerce Platform, Vc 046 International Eu Schweiz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

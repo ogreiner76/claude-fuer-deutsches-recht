@@ -1,6 +1,6 @@
 ---
 name: mahnung-fehlerkatalog
-description: "Nutze dies, wenn Mahnung Fehlerkatalog im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Mahnung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Mahnung Fehlerkatalog

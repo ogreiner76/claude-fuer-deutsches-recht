@@ -1,21 +1,21 @@
 ---
 name: rechtsabteilung-employee-invention-frand
-description: "Nutze dies, wenn Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Frand Verteidigung Bei Sep Abmahnung, Rechtsabteilung Freedom To Operate Vor Product Launch im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Frand Verteidigung Bei Sep Abmahnung, Rechtsabteilung Freedom To Operate Vor Product Launch prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Frand Verteidigung Bei Sep Abmahnung, Rechtsabteilung Freedom To Operate Vor Product Launch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Frand Verteidigung Bei Sep Abmahnung, Rechtsabteilung Freedom To Operate Vor Product Launch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Frand Verteidigung Bei Sep Abmahnung, Rechtsabteilung Freedom To Operate Vor Product Launch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Frand Verteidigung Bei Sep Abmahnung, Rechtsabteilung Freedom To Operate Vor Product Launch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-employee-invention-im-konzernprojekt` | Rechtsabteilungs-Spezialskill für Employee Invention im Konzernprojekt: Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-frand-verteidigung-bei-sep-abmahnung` | Rechtsabteilungs-Spezialskill für FRAND-Verteidigung bei SEP-Abmahnung: Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-freedom-to-operate-vor-product-launch` | Rechtsabteilungs-Spezialskill für Freedom-to-Operate vor Product Launch: FTO wird mit Claim Chart, Länderpriorität und Design-Around-Entscheidung ausgegeben. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-employee-invention-im-konzernprojekt` | Rechtsabteilungs-Fachmodul für Employee Invention im Konzernprojekt: Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-frand-verteidigung-bei-sep-abmahnung` | Rechtsabteilungs-Fachmodul für FRAND-Verteidigung bei SEP-Abmahnung: Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-freedom-to-operate-vor-product-launch` | Rechtsabteilungs-Fachmodul für Freedom-to-Operate vor Product Launch: FTO wird mit Claim Chart, Länderpriorität und Design-Around-Entscheidung ausgegeben. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Rechtsabteilung Employee Invention Im Konzernprojekt, Rechtsabteilung Fra
 
 ## 1. `rechtsabteilung-employee-invention-im-konzernprojekt`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Employee Invention im Konzernprojekt: Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Employee Invention im Konzernprojekt: Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Employee Invention im Konzernprojekt
 
@@ -66,7 +66,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-frand-verteidigung-bei-sep-abmahnung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für FRAND-Verteidigung bei SEP-Abmahnung: Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für FRAND-Verteidigung bei SEP-Abmahnung: Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: FRAND-Verteidigung bei SEP-Abmahnung
 
@@ -106,7 +106,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-freedom-to-operate-vor-product-launch`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Freedom-to-Operate vor Product Launch: FTO wird mit Claim Chart, Länderpriorität und Design-Around-Entscheidung ausgegeben. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Freedom-to-Operate vor Product Launch: FTO wird mit Claim Chart, Länderpriorität und Design-Around-Entscheidung ausgegeben. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Freedom-to-Operate vor Product Launch
 

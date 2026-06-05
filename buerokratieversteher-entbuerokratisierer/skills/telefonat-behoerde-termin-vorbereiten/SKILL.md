@@ -1,13 +1,13 @@
 ---
 name: telefonat-behoerde-termin-vorbereiten
-description: "Nutze dies, wenn Telefonat Mit Behörde, Termin Behörde Vorbereiten, Untaetigkeit Behörde, Verbraucher Behörde Schlichtung im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Telefonat Mit Behörde, Termin Behörde Vorbereiten, Untaetigkeit Behörde, Verbraucher Behörde Schlichtung prüfen.; Erstelle eine Arbeitsfassung zu Telefonat Mit Behörde, Termin Behörde Vorbereiten, Untaetigkeit Behörde, Verbraucher Behörde Schlichtung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Telefonat Mit Behörde, Termin Behörde Vorbereiten, Untaetigkeit Behörde, Verbraucher Behörde Schlichtung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Telefonat Mit Behörde, Termin Behörde Vorbereiten, Untaetigkeit Behörde, Verbraucher Behörde Schlichtung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Telefonat Mit Behörde, Termin Behörde Vorbereiten, Untaetigkeit Behörde, Verbraucher Behörde Schlichtung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Telefonat Mit Behörde, Termin Behörde Vorbereiten, Untaetigkeit Behörd
 ## Aufgabe
 Bereitet Telefonate vor: Ziel, Fragenliste, keine spontanen Zugeständnisse, Gesprächsnotiz, Bestätigung per E-Mail oder Brief.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Vorbereitung für Termin: Ziele, Unterlagen, Begleitperson, Dolmetscher, Protokollnotiz, keine spontanen Zusatzangaben.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei Sachstandsanfrage, Erinnerung, Fristsetzung und Untätigkeitsklage-Überlegung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei Verbraucherzentrale, Schlichtungsstelle, Aufsichtsbeschwerde und sachlicher Beschwerde.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

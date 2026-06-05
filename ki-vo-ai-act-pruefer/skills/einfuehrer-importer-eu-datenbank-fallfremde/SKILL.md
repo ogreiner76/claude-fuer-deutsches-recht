@@ -1,13 +1,13 @@
 ---
 name: einfuehrer-importer-eu-datenbank-fallfremde
-description: "Nutze dies, wenn Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo prüfen.; Erstelle eine Arbeitsfassung zu Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -132,7 +132,7 @@ Gepruefte Norm(en): [Art. 23 Rn. 3]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -251,7 +251,7 @@ Gepruefte Norm(en): [Art. 49 Rn. 2]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -336,7 +336,7 @@ Ein häufiger Fehler in der Praxis besteht darin, die KI-VO auf Sachverhalte anz
 
 **Richtigstellung:**
 - Die KI-VO ist keine Haftungsregelung. Sie begründet öffentlich-rechtliche Pflichten und Sanktionen, aber keine privatrechtlichen Schadensersatzansprüche.
-- Die neue EU-Produkthaftungsrichtlinie (2024/2853) und die KI-Haftungsrichtlinie (Entwurf) betreffen Haftungsfragen. Diese sind vom KI-VO-Workflow zu trennen.
+- Die neue EU-Produkthaftungsrichtlinie (2024/2853) und die KI-Haftungsrichtlinie (Entwurf) betreffen Haftungsfragen. Diese sind vom KI-VO-zu trennen.
 - Compliance mit der KI-VO kann jedoch haftungsmindernd wirken, wenn ein Verstoß zugleich eine Sorgfaltspflichtverletzung darstellt.
 
 **Routing:** Haftungsfragen → Fachanwalt IT-Recht / Produkthaftung; KI-VO-Compliance → dieser Workflow.
@@ -418,7 +418,7 @@ Gepruefte Norm(en): [Art. 6 Rn. 10]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

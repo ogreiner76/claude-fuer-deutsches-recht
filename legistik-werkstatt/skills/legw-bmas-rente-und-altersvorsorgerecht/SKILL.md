@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Rente und Altersvorsorgerecht
-Ressort:            BMAS
-Kernnormen:         SGB VI; AVG (alt); FRG; ZRBG; Riester; Foerderhinweise Steuer (mit BMF).
-Akteure/Aufsicht:   DRV Bund; Aufsicht ueber Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).
-EU/Voelkerrecht:    VO 883/2004; PEPP-VO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Rente und Altersvorsorgerecht
+Ressort: BMAS
+Kernnormen: SGB VI; AVG (alt); FRG; ZRBG; Riester; Foerderhinweise Steuer (mit BMF).
+Akteure/Aufsicht: DRV Bund; Aufsicht ueber Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).
+EU/Voelkerrecht: VO 883/2004; PEPP-VO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

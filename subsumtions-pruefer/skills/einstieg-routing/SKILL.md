@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Subsumtions Prüfer.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Subsumtions Prüfer** ein Fall noch sortie
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `eu-abgrenzung-einschlaegige-normen-einschlaegige-normen` — Eu Abgrenzung Einschlaegige Normen Einschlaegige Normen
 - `eu-vorabentscheidung-falsche-wiese-fehlerklasse-bgb` — Eu Vorabentscheidung Falsche Wiese Fehlerklasse Bgb
 - `gegen-tbm-grundrechte-grch-kandidatenloesung-subsumtion` — Gegen Tbm Grundrechte Grch Kandidatenloesung Subsumtion

@@ -53,9 +53,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - NKR-Vorlagedatei
 - Anschreiben
 - Anlagen:
-  - Erfüllungsaufwand-Tabelle
-  - KMU-Test-Bericht
-  - One-in-one-out-Nachweis
+ - Erfüllungsaufwand-Tabelle
+ - KMU-Test-Bericht
+ - One-in-one-out-Nachweis
 
 ## Anschluss
 

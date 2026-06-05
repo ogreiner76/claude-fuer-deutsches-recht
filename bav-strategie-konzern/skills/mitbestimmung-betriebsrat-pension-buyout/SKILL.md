@@ -1,13 +1,13 @@
 ---
 name: mitbestimmung-betriebsrat-pension-buyout
-description: "Nutze dies, wenn Mitbestimmung Betriebsrat Einigungsstelle Bav, Pension Buyout Strukturierung Und De Risking, Spezial Benefits Mandantenkommunikation Entscheidungsvorlage im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Mitbestimmung Betriebsrat Einigungsstelle Bav, Pension Buyout Strukturierung Und De Risking, Spezial Benefits Mandantenkommunikation Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Mitbestimmung Betriebsrat Einigungsstelle Bav, Pension Buyout Strukturierung Und De Risking, Spezial Benefits Mandantenkommunikation Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mitbestimmung Betriebsrat Einigungsstelle Bav, Pension Buyout Strukturierung Und De Risking, Benefits Mandantenkommunikation Entscheidungsvorlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Mitbestimmung Betriebsrat Einigungsstelle Bav, Pension Buyout Strukturierung Und De Risking, Spezial Benefits Mandantenkommunikation Entscheidungsvorlage
+# Mitbestimmung Betriebsrat Einigungsstelle Bav, Pension Buyout Strukturierung Und De Risking, Benefits Mandantenkommunikation Entscheidungsvorlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mitbestimmung Betriebsrat Einigungsstelle Bav, Pension Buyout Strukturierung Und De Risking, Benefits Mandantenkommunikation Entscheidungsvorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Mitbestimmung Betriebsrat Einigungsstelle Bav, Pension Buyout Strukturierung Und De Risking, Spezial Benefits Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mitbestimmung Betriebsrat Einigungsstelle Bav, Pension Buyout Strukturierung Und De Risking, Benefits Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -341,57 +341,57 @@ Bei Portfolioübertragung (Buy-out über Pensionskasse oder Pensionsfonds):
 TERM SHEET — PENSION BUY-IN
 Vertraulich — Entwurf
 
-Auftraggeber:     [Konzern Muster AG], Düsseldorf
-Versicherer:      [Versicherungsgesellschaft]
-Datum:            [Datum]
-Beratung:         bAV-Projektteam
-                  fachliche Leitung
+Auftraggeber: [Konzern Muster AG], Düsseldorf
+Versicherer: [Versicherungsgesellschaft]
+Datum: [Datum]
+Beratung: bAV-Projektteam
+ fachliche Leitung
 
 1. GEGENSTAND
-   Abschluss einer Gruppenrentenversicherung (Buy-in) zur Absicherung der
-   Versorgungsansprüche des Rentner-Kollektivs der [Konzern Muster AG].
+ Abschluss einer Gruppenrentenversicherung (Buy-in) zur Absicherung der
+ Versorgungsansprüche des Rentner-Kollektivs der [Konzern Muster AG].
 
 2. VERSICHERTER PERSONENKREIS
-   Alle Rentenempfänger per Stichtag [Datum]: [Anzahl] Personen
-   Gesamte jährliche Rentenlast: EUR [Betrag]
-   Hinterbliebenenversorgung: eingeschlossen / nicht eingeschlossen
+ Alle Rentenempfänger per Stichtag [Datum]: [Anzahl] Personen
+ Gesamte jährliche Rentenlast: EUR [Betrag]
+ Hinterbliebenenversorgung: eingeschlossen / nicht eingeschlossen
 
 3. LEISTUNGSUMFANG
-   Versicherungsleistungen entsprechen 1:1 den Versorgungsansprüchen gem.
-   Versorgungsordnung [Bezeichnung] in der Fassung vom [Datum].
-   Anpassungen gem. § 16 BetrAVG: [passthrough / eingeschlossen bis X% / nicht]
+ Versicherungsleistungen entsprechen 1:1 den Versorgungsansprüchen gem.
+ Versorgungsordnung [Bezeichnung] in der Fassung vom [Datum].
+ Anpassungen gem. § 16 BetrAVG: [passthrough / eingeschlossen bis X% / nicht]
 
 4. PRÄMIE
-   Einmalprämie (Indikation): EUR [Betrag]
-   Entspricht ca. [X]% der IAS 19 DBO des Rentner-Kollektivs
-   (Longevity Loading: ca. [X]% über Best-Estimate)
+ Einmalprämie (Indikation): EUR [Betrag]
+ Entspricht ca. [X]% der IAS 19 DBO des Rentner-Kollektivs
+ (Longevity Loading: ca. [X]% über Best-Estimate)
 
 5. LAUFZEIT UND KÜNDIGUNG
-   Laufzeit: Lebenslange Rente bis zum Tod des letzten Berechtigten
-   Vorzeitige Kündigung: nur mit Rückkaufswert-Vereinbarung; nicht vor [Jahr]
+ Laufzeit: Lebenslange Rente bis zum Tod des letzten Berechtigten
+ Vorzeitige Kündigung: nur mit Rückkaufswert-Vereinbarung; nicht vor [Jahr]
 
 6. QUALIFYING INSURANCE POLICY (IAS 19)
-   Beide Parteien bestätigen, dass der Buy-in die Anforderungen an eine
-   qualifying insurance policy gem. IAS 19.8 erfüllt (ausschließliche
-   Zweckbindung, Zahlungsausfallrisiko beim Versicherer, kein Zugriff Dritter).
+ Beide Parteien bestätigen, dass der Buy-in die Anforderungen an eine
+ qualifying insurance policy gem. IAS 19.8 erfüllt (ausschließliche
+ Zweckbindung, Zahlungsausfallrisiko beim Versicherer, kein Zugriff Dritter).
 
 7. SUBSIDIÄRHAFTUNG
-   Arbeitgeber bleibt gem. § 1 Abs. 1 S. 3 BetrAVG subsidiär haftbar,
-   sofern der Versicherer ausfällt. Dieses Restrisiko ist durch Solvency
-   II-Kapitalanforderungen begrenzt.
+ Arbeitgeber bleibt gem. § 1 Abs. 1 S. 3 BetrAVG subsidiär haftbar,
+ sofern der Versicherer ausfällt. Dieses Restrisiko ist durch Solvency
+ II-Kapitalanforderungen begrenzt.
 
 8. WESENTLICHE CLOSING-BEDINGUNGEN
-   □ BaFin-Genehmigung (sofern Portfolioübertragung)
-   □ Zustimmung Betriebsrat (Information gem. § 87 BetrVG, soweit erforderlich)
-   □ Aktualitätsbestätigung Sterbetafeln durch unabhängigen Aktuar
-   □ Signing Gruppenversicherungsvertrag
+ □ BaFin-Genehmigung (sofern Portfolioübertragung)
+ □ Zustimmung Betriebsrat (Information gem. § 87 BetrVG, soweit erforderlich)
+ □ Aktualitätsbestätigung Sterbetafeln durch unabhängigen Aktuar
+ □ Signing Gruppenversicherungsvertrag
 
 9. GEPLANTER ZEITPLAN
-   Indikation: [Datum]
-   Due Diligence: [Datum] – [Datum]
-   Verbindliches Angebot: [Datum]
-   Signing: [Datum]
-   Closing/Prämientransfer: [Datum]
+ Indikation: [Datum]
+ Due Diligence: [Datum] – [Datum]
+ Verbindliches Angebot: [Datum]
+ Signing: [Datum]
+ Closing/Prämientransfer: [Datum]
 ```
 
 ### Template 2: Checkliste Buy-out Due Diligence (Datenraum-Anforderungen)
@@ -401,27 +401,27 @@ DATENRAUM-ANFORDERUNGEN PENSION BUY-OUT
 bAV-Projektteam · fachliche Leitung
 
 A. VERSORGUNGSBERECHTIGTE
-   □ Vollständige Bestandsliste (Name, Geburtsdatum, Rentenbeginn,
-     monatliche Rente, Hinterbliebenen-Status)
-   □ Sterbetafeln (zuletzt verwendete Grundtafeln — z.B. DAV 2004 R)
-   □ Geschlechterverteilung, Altersstruktur
-   □ Hinterbliebenen-Proportion (Verhältnis Witwen/Witwer zu Rentnern)
+ □ Vollständige Bestandsliste (Name, Geburtsdatum, Rentenbeginn,
+ monatliche Rente, Hinterbliebenen-Status)
+ □ Sterbetafeln (zuletzt verwendete Grundtafeln — z.B. DAV 2004 R)
+ □ Geschlechterverteilung, Altersstruktur
+ □ Hinterbliebenen-Proportion (Verhältnis Witwen/Witwer zu Rentnern)
 
 B. LEISTUNGSDATEN
-   □ Versorgungsordnung(en) mit allen Anlagen und Änderungen
-   □ Anpassungshistorie (§ 16 BetrAVG, letzte zehn Jahre)
-   □ Sonderzahlungen, Einmalleistungen (Kapitalwahlrechte)
+ □ Versorgungsordnung(en) mit allen Anlagen und Änderungen
+ □ Anpassungshistorie (§ 16 BetrAVG, letzte zehn Jahre)
+ □ Sonderzahlungen, Einmalleistungen (Kapitalwahlrechte)
 
 C. FINANZIELLE DATEN
-   □ IAS 19-Gutachten letzter zwei Jahre (inkl. Annahmen)
-   □ HGB-Rückstellungen letzter zwei Jahre
-   □ PSV-Meldungen letzter zwei Jahre
+ □ IAS 19-Gutachten letzter zwei Jahre (inkl. Annahmen)
+ □ HGB-Rückstellungen letzter zwei Jahre
+ □ PSV-Meldungen letzter zwei Jahre
 
 D. RECHTLICHE DOKUMENTATION
-   □ Alle Versorgungsverträge (Einzel- und Kollektivzusagen)
-   □ Betriebsvereinbarungen mit BAV-Bezug
-   □ Etwaige Rechtsstreitigkeiten (laufend oder drohend)
-   □ Sonstige Zusagen (Gesamtzusagen, Auswahlrichtlinien)
+ □ Alle Versorgungsverträge (Einzel- und Kollektivzusagen)
+ □ Betriebsvereinbarungen mit BAV-Bezug
+ □ Etwaige Rechtsstreitigkeiten (laufend oder drohend)
+ □ Sonstige Zusagen (Gesamtzusagen, Auswahlrichtlinien)
 ```
 
 ---
@@ -457,7 +457,7 @@ D. RECHTLICHE DOKUMENTATION
 # Benefits: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Benefits: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Benefits: Mandantenkommunikation und Entscheidungsvorlage / spezial benefits mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Benefits: Mandantenkommunikation und Entscheidungsvorlage / benefits mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

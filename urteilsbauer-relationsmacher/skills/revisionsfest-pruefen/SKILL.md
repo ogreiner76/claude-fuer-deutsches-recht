@@ -16,21 +16,21 @@ Dieser Skill liefert die Selbstprüfung **vor** Verkündung — nicht erst, wenn
 Der Klassiker — bei diesen Gründen ist die Aufhebung zwingend, ohne dass es auf Kausalitaet ankommt:
 
 1. **Nicht vorschriftsmaessige Besetzung** des Gerichts (Nr. 1)
-   - Geschäftsverteilungsplan eingehalten?
-   - Bei Einzelrichter: Übertragung Paragraf 348a ZPO begründet?
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Geschäftsverteilungsplan eingehalten?
+ - Bei Einzelrichter: Übertragung Paragraf 348a ZPO begründet?
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Mitwirkung eines ausgeschlossenen Richters** (Nr. 2)
-   - Selbst-Ausschluss Paragraf 41 ZPO geprüft (Verwandtschaft, Voreintragung)
+ - Selbst-Ausschluss Paragraf 41 ZPO geprüft (Verwandtschaft, Voreintragung)
 3. **Mitwirkung eines mit Erfolg abgelehnten Richters** (Nr. 3)
 4. **Verletzung der OEffentlichkeit** Paragrafen 169 ff. GVG (Nr. 4)
-   - OEffentlichkeitsausschluss richtig begründet?
+ - OEffentlichkeitsausschluss richtig begründet?
 5. **Vertretungsmangel** Paragraf 51, 56 ZPO (Nr. 5)
-   - Prozessunfähiger ohne gesetzlichen Vertreter?
+ - Prozessunfähiger ohne gesetzlichen Vertreter?
 6. **Begründungsmangel** (Nr. 6) — **der haeufigste Fall**:
-   - Keine Entscheidungsgründe überhaupt
-   - Gründe lassen die wesentliche Erwaegung nicht erkennen
-   - Widerspruch zwischen Tatbestand und Gründen
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Keine Entscheidungsgründe überhaupt
+ - Gründe lassen die wesentliche Erwaegung nicht erkennen
+ - Widerspruch zwischen Tatbestand und Gründen
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 2) Verfahrensrecht — Paragraf 545 ZPO
 
@@ -88,13 +88,13 @@ Der BGH ist an die festgestellten Tatsachen gebunden, soweit nicht
 ### Zulassungsgründe (alle gleichberechtigt)
 
 1. **Grundsaetzliche Bedeutung** (Abs. 2 S. 1 Nr. 1)
-   - Eine bislang ungeklärte oder unterschiedlich beantwortete Rechtsfrage
-   - In einer unbestimmten Zahl von Fällen auftretend
+ - Eine bislang ungeklärte oder unterschiedlich beantwortete Rechtsfrage
+ - In einer unbestimmten Zahl von Fällen auftretend
 2. **Rechtsfortbildung** (Abs. 2 S. 1 Nr. 2)
-   - Bedürfnis nach richterlicher Leitsatzbildung
+ - Bedürfnis nach richterlicher Leitsatzbildung
 3. **Sicherung einheitlicher Rechtsprechung** (Abs. 2 S. 1 Nr. 2 Alt. 2)
-   - Abweichende OLG-Rspr. zu derselben Rechtsfrage
-   - Eigene Abweichung vom BGH-Linie
+ - Abweichende OLG-Rspr. zu derselben Rechtsfrage
+ - Eigene Abweichung vom BGH-Linie
 
 ### Tenorierung
 

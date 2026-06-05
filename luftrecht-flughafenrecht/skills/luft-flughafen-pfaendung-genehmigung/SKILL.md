@@ -1,13 +1,13 @@
 ---
 name: luft-flughafen-pfaendung-genehmigung
-description: "Nutze dies, wenn Luft 034 Flughafen Pfaendung Planen, Luft 035 Flughafen Genehmigung Prüfen, Luft 036 Flughafen Sicherheitsauflage Bewerten, Luft 037 Flughafen Insolvenzrisiko Markieren, Luft 038 Flughafen Local Counsel Briefen im Plugin Luftrecht Flughafenrecht konkret bearbeitet werden soll. Auslöser: Bitte Luft 034 Flughafen Pfaendung Planen, Luft 035 Flughafen Genehmigung Prüfen, Luft 036 Flughafen Sicherheitsauflage Bewerten, Luft 037 Flughafen Insolvenzrisiko Markieren, Luft 038 Flughafen Local Counsel Briefen prüfen.; Erstelle eine Arbeitsfassung zu Luft 034 Flughafen Pfaendung Planen, Luft 035 Flughafen Genehmigung Prüfen, Luft 036 Flughafen Sicherheitsauflage Bewerten, Luft 037 Flughafen Insolvenzrisiko Markieren, Luft 038 Flughafen Local Counsel Briefen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Luft 034 Flughafen Pfaendung Planen, Luft 035 Flughafen Genehmigung Prüfen, Luft 036 Flughafen Sicherheitsauflage Bewerten, Luft 037 Flughafen Insolvenzrisiko Markieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Luft 034 Flughafen Pfaendung Planen, Luft 035 Flughafen Genehmigung Prüfen, Luft 036 Flughafen Sicherheitsauflage Bewerten, Luft 037 Flughafen Insolvenzrisiko Markieren, Luft 038 Flughafen Local Counsel Briefen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Luft 034 Flughafen Pfaendung Planen, Luft 035 Flughafen Genehmigung Prüfen, Luft 036 Flughafen Sicherheitsauflage Bewerten, Luft 037 Flughafen Insolvenzrisiko Markieren, Luft 038 Flughafen Local Counsel Briefen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

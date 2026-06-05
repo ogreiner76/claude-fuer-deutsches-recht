@@ -1,13 +1,13 @@
 ---
 name: verteidigung-wiedereinsetzung-zeugenstrategie
-description: "Nutze dies, wenn Spezial Verteidigung Tatbestand Beweis Und Belege, Spezial Wiedereinsetzung Zahlen Schwellen Und Berechnung, Spezial Zeugenstrategie Mehrparteien Konflikt Und Interessen im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verteidigung Tatbestand Beweis Und Belege, Spezial Wiedereinsetzung Zahlen Schwellen Und Berechnung, Spezial Zeugenstrategie Mehrparteien Konflikt Und Interessen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verteidigung Tatbestand Beweis Und Belege, Spezial Wiedereinsetzung Zahlen Schwellen Und Berechnung, Spezial Zeugenstrategie Mehrparteien Konflikt Und Interessen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verteidigung Tatbestand Beweis Und Belege, Wiedereinsetzung Zahlen Schwellen Und Berechnung, Zeugenstrategie Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verteidigung Tatbestand Beweis Und Belege, Spezial Wiedereinsetzung Zahlen Schwellen Und Berechnung, Spezial Zeugenstrategie Mehrparteien Konflikt Und Interessen
+# Verteidigung Tatbestand Beweis Und Belege, Wiedereinsetzung Zahlen Schwellen Und Berechnung, Zeugenstrategie Mehrparteien Konflikt Und Interessen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verteidigung Tatbestand Beweis Und Belege, Wiedereinsetzung Zahlen Schwellen Und Berechnung, Zeugenstrategie Mehrparteien Konflikt Und Interessen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verteidigung Tatbestand Beweis Und Belege, Spezial Wiedereinsetzung Zahlen Schwellen Und Berechnung, Spezial Zeugenstrategie Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verteidigung Tatbestand Beweis Und Belege, Wiedereinsetzung Zahlen Schwellen Und Berechnung, Zeugenstrategie Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -68,23 +68,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Verteidigung-Tatbestand-Beweisbausteine im Strafbefehl
 - **Strafbefehl-typische Tatvorwuerfe und Pruefkette:**
-  - **§ 263 StGB Betrug:** Taeuschung + Irrtum + Vermoegensverfuegung + Schaden + Stoffgleichheit + Vorsatz + Bereicherungsabsicht. Pruefen: kausaler Irrtum? Vermoegensschaden vorliegend?
-  - **§ 242 StGB Diebstahl:** Wegnahme + fremde bewegliche Sache + Bruch des Gewahrsams + Vorsatz + Zueignungsabsicht. Pruefen: tatsaechliche Wegnahme oder noch im Geltungsbereich Geschaedigter?
-  - **§ 316 StGB Trunkenheit:** Fahren im Strassenverkehr + Fahruntuechtigkeit (absolut ab 1,1 Promille / relativ ab 0,3 Promille mit Ausfallerscheinungen) + Vorsatz / Fahrlaessigkeit. Pruefen: BAK-Wert / Atemalkoholwert plausibel, Methodik korrekt?
-  - **§ 142 StGB Unfallflucht:** Verkehrsunfall + Beteiligung + Sich-Entfernen vor angemessener Wartezeit + Vorsatz. Pruefen: Unfall im Rechtssinn (auch Bagatellschaden)? Wartezeit zumutbar gewesen?
-  - **§ 240 StGB Noetigung:** Gewalt / Drohung mit empfindlichem Uebel + Erzwingen einer Handlung/Duldung/Unterlassung + Verwerflichkeit + Vorsatz.
-  - **§ 263a StGB Computerbetrug:** EDV-Eingabe / -Verfahren + Vermoegensschaedigung + Bereicherungsabsicht.
+ - **§ 263 StGB Betrug:** Taeuschung + Irrtum + Vermoegensverfuegung + Schaden + Stoffgleichheit + Vorsatz + Bereicherungsabsicht. Pruefen: kausaler Irrtum? Vermoegensschaden vorliegend?
+ - **§ 242 StGB Diebstahl:** Wegnahme + fremde bewegliche Sache + Bruch des Gewahrsams + Vorsatz + Zueignungsabsicht. Pruefen: tatsaechliche Wegnahme oder noch im Geltungsbereich Geschaedigter?
+ - **§ 316 StGB Trunkenheit:** Fahren im Strassenverkehr + Fahruntuechtigkeit (absolut ab 1,1 Promille / relativ ab 0,3 Promille mit Ausfallerscheinungen) + Vorsatz / Fahrlaessigkeit. Pruefen: BAK-Wert / Atemalkoholwert plausibel, Methodik korrekt?
+ - **§ 142 StGB Unfallflucht:** Verkehrsunfall + Beteiligung + Sich-Entfernen vor angemessener Wartezeit + Vorsatz. Pruefen: Unfall im Rechtssinn (auch Bagatellschaden)? Wartezeit zumutbar gewesen?
+ - **§ 240 StGB Noetigung:** Gewalt / Drohung mit empfindlichem Uebel + Erzwingen einer Handlung/Duldung/Unterlassung + Verwerflichkeit + Vorsatz.
+ - **§ 263a StGB Computerbetrug:** EDV-Eingabe / -Verfahren + Vermoegensschaedigung + Bereicherungsabsicht.
 - **Beweis-Lueckenliste pro Tatvorwurf:**
-  - Identitaet Taeter zweifelsfrei (Lichtbildvergleich, Zeugenaussage, DNA)?
-  - Tatzeit / Tatort gesichert?
-  - Vorsatz / Fahrlaessigkeit objektiv erkennbar?
-  - Schadens- / Erfolgsbeweis dokumentiert?
-  - Kausalitaet / Zurechnung gegeben?
+ - Identitaet Taeter zweifelsfrei (Lichtbildvergleich, Zeugenaussage, DNA)?
+ - Tatzeit / Tatort gesichert?
+ - Vorsatz / Fahrlaessigkeit objektiv erkennbar?
+ - Schadens- / Erfolgsbeweis dokumentiert?
+ - Kausalitaet / Zurechnung gegeben?
 - **Verteidigungslinien:**
-  - **Tatbestand nicht erfuellt** (Lueckenliste oben).
-  - **Rechtswidrigkeit ausgeschlossen** (Notwehr § 32 StGB, Notstand § 34 StGB, Einwilligung).
-  - **Schuld ausgeschlossen** (Verbotsirrtum § 17 StGB, §§ 20, 21 StGB).
-  - **Strafmilderung** ueber §§ 46a, 49 StGB.
+ - **Tatbestand nicht erfuellt** (Lueckenliste oben).
+ - **Rechtswidrigkeit ausgeschlossen** (Notwehr § 32 StGB, Notstand § 34 StGB, Einwilligung).
+ - **Schuld ausgeschlossen** (Verbotsirrtum § 17 StGB, §§ 20, 21 StGB).
+ - **Strafmilderung** ueber §§ 46a, 49 StGB.
 - **Beweisantraege § 244 StPO** wenn nicht-aussagende Zeugen / Sachverstaendige benoetigt; Hilfsbeweisantraege fuer Hauptverhandlung vorbereiten.
 - **Verfahrensruegen** bei Verstoss gegen § 136 StPO (Belehrung), § 136a StPO (verbotene Methoden), § 252 StPO (Sperrwirkung Zeugnisverweigerung).
 
@@ -133,36 +133,36 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Wiedereinsetzung im Strafbefehl Bausteine
 - **Rechtsgrundlage:** § 44 StPO Wiedereinsetzung in den vorigen Stand bei unverschuldeter Versaeumung; spezielles Beispiel § 410 StPO Einspruchsfrist.
 - **Zeitliche Schranken § 45 StPO:**
-  - **Antragsfrist: 1 Woche** ab Wegfall des Hindernisses.
-  - **Hoechstfrist: 1 Jahr** nach Ende der versaeumten Frist (Ausnahme bei Hindernis durch hoehere Gewalt).
+ - **Antragsfrist: 1 Woche** ab Wegfall des Hindernisses.
+ - **Hoechstfrist: 1 Jahr** nach Ende der versaeumten Frist (Ausnahme bei Hindernis durch hoehere Gewalt).
 - **Begruendungserfordernis § 45 II StPO:**
-  - Konkretisierung Hindernis (Tatsachen darlegen).
-  - Glaubhaftmachung (z. B. eidesstattliche Versicherung, Atteste, Postzustellungsdaten).
-  - **Versaeumte Handlung in Antragsfrist nachholen** (z. B. Einspruch mit beilegen).
+ - Konkretisierung Hindernis (Tatsachen darlegen).
+ - Glaubhaftmachung (z. B. eidesstattliche Versicherung, Atteste, Postzustellungsdaten).
+ - **Versaeumte Handlung in Antragsfrist nachholen** (z. B. Einspruch mit beilegen).
 - **Anerkannte Gruende fuer unverschuldete Versaeumung:**
-  - Schwere Krankheit / Krankenhausaufenthalt mit Unfaehigkeit zur Wahrnehmung.
-  - Postfehler / Zustellungsmaengel (z. B. Zustellung an falsche Adresse, Ersatzzustellung an unbefugte Person).
-  - Hoehere Gewalt (Naturkatastrophe).
-  - Falsche Belehrung im Bescheid (BGH-Linie).
+ - Schwere Krankheit / Krankenhausaufenthalt mit Unfaehigkeit zur Wahrnehmung.
+ - Postfehler / Zustellungsmaengel (z. B. Zustellung an falsche Adresse, Ersatzzustellung an unbefugte Person).
+ - Hoehere Gewalt (Naturkatastrophe).
+ - Falsche Belehrung im Bescheid (BGH-Linie).
 - **Nicht ausreichend:**
-  - "Habe es vergessen" oder Nachlaessigkeit.
-  - Versaeumnis durch Verteidiger -> Mandantenverschulden (BGH-Linie restriktiv im Strafbefehlsverfahren, im Rechtsmittelverfahren milder).
-  - Sprachbarriere allein (Belehrung muss verstaendlich gewesen sein - im Zweifel Dolmetscher).
+ - "Habe es vergessen" oder Nachlaessigkeit.
+ - Versaeumnis durch Verteidiger -> Mandantenverschulden (BGH-Linie restriktiv im Strafbefehlsverfahren, im Rechtsmittelverfahren milder).
+ - Sprachbarriere allein (Belehrung muss verstaendlich gewesen sein - im Zweifel Dolmetscher).
 - **Begruendungsvorlage:**
-  ```
-  Antrag auf Wiedereinsetzung in den vorigen Stand
+ ```
+ Antrag auf Wiedereinsetzung in den vorigen Stand
 
-  Gegen die Versaeumung der Einspruchsfrist gegen den Strafbefehl AG ... vom ...
-  (Az ...) wird beantragt, die Wiedereinsetzung in den vorigen Stand gemaess § 44 StPO
-  zu gewaehren.
+ Gegen die Versaeumung der Einspruchsfrist gegen den Strafbefehl AG ... vom ...
+ (Az ...) wird beantragt, die Wiedereinsetzung in den vorigen Stand gemaess § 44 StPO
+ zu gewaehren.
 
-  Begruendung:
-  Der Mandant war ab dem ... infolge schwerer Krankheit (Anlage 1: Attest Dr. ... vom ...)
-  unfaehig, seine Verteidigungsrechte wahrzunehmen. Die Frist endete am ...
-  Das Hindernis ist am ... weggefallen (Entlassung Klinik, Anlage 2).
-  Mit diesem Antrag wird die versaeumte Handlung (Einspruch gegen Strafbefehl, Anlage 3)
-  nachgeholt.
-  ```
+ Begruendung:
+ Der Mandant war ab dem ... infolge schwerer Krankheit (Anlage 1: Attest Dr. ... vom ...)
+ unfaehig, seine Verteidigungsrechte wahrzunehmen. Die Frist endete am ...
+ Das Hindernis ist am ... weggefallen (Entlassung Klinik, Anlage 2).
+ Mit diesem Antrag wird die versaeumte Handlung (Einspruch gegen Strafbefehl, Anlage 3)
+ nachgeholt.
+ ```
 - **Praxis-Tipp:** Bei Zustellungsdefekten **Heilung § 189 ZPO** pruefen (Zustellung gilt zum tatsaechlichen Zugangsdatum als bewirkt - was die ggf. spaetere Fristberechnung beeinflusst).
 
 ## 3. `spezial-zeugenstrategie-mehrparteien-konflikt-und-interessen`

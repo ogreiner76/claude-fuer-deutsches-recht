@@ -1,34 +1,34 @@
 ---
 name: mieterhoehung-mietminderung-bemessung
-description: "Nutze dies, wenn Spezial Mieterhoehung Verhandlung Vergleich Und Eskalation, Spezial Mietminderung Bemessung, Spezial Mietpreisbremse Ruege, Spezial Mietrecht Beweislast Und Darlegungslast, Spezial Mietrecht Eu Ausland im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Mieterhoehung Verhandlung Vergleich Und Eskalation, Spezial Mietminderung Bemessung, Spezial Mietpreisbremse Ruege, Spezial Mietrecht Beweislast Und Darlegungslast, Spezial Mietrecht Eu Ausland prüfen.; Erstelle eine Arbeitsfassung zu Spezial Mieterhoehung Verhandlung Vergleich Und Eskalation, Spezial Mietminderung Bemessung, Spezial Mietpreisbremse Ruege, Spezial Mietrecht Beweislast Und Darlegungslast, Spezial Mietrecht Eu Ausland.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Mieterhoehung Verhandlung Vergleich Und Eskalation, Spezial Mietminderung Bemessung, Spezial Mietpreisbremse Ruege, Spezial Mietrecht Beweislast Und Darlegungslast, Spezial Mietrecht Eu Ausland
+# Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast, Mietrecht Eu Ausland
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast, Mietrecht Eu Ausland** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-mieterhoehung-verhandlung-vergleich-und-eskalation` | Mieterhoehung: Verhandlung, Vergleich und Eskalation im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-mietminderung-bemessung` | Mietminderung Bemessung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; warnt vor Tabellenblindflug und verlangt konkrete Gebrauchsbeeinträchtigung mit Belegen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-mietpreisbremse-ruege` | Mietpreisbremse Rüge/Rückforderung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gebiet, Ausnahmen, Vormiete, qualifizierte Rüge, Verjährung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-mietrecht-beweislast-und-darlegungslast` | Mietrecht: Beweislast, Darlegungslast und Substantiierung im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-mietrecht-eu-ausland` | Auslands-/EU-Bezug Mietrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft anwendbares Recht, Gerichtsstand, Zustellung, Vollstreckung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-mieterhoehung-verhandlung-vergleich-und-eskalation` | Mieterhoehung: Verhandlung, Vergleich und Eskalation im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-mietminderung-bemessung` | Mietminderung Bemessung: Fachmodul im Miet- und Wohnungseigentumsrecht; warnt vor Tabellenblindflug und verlangt konkrete Gebrauchsbeeinträchtigung mit Belegen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-mietpreisbremse-ruege` | Mietpreisbremse Rüge/Rückforderung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gebiet, Ausnahmen, Vormiete, qualifizierte Rüge, Verjährung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-mietrecht-beweislast-und-darlegungslast` | Mietrecht: Beweislast, Darlegungslast und Substantiierung im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-mietrecht-eu-ausland` | Auslands-/EU-Bezug Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft anwendbares Recht, Gerichtsstand, Zustellung, Vollstreckung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Mieterhoehung Verhandlung Vergleich Und Eskalation, Spezial Mietminderung Bemessung, Spezial Mietpreisbremse Ruege, Spezial Mietrecht Beweislast Und Darlegungslast, Spezial Mietrecht Eu Ausland** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mieterhoehung Verhandlung Vergleich Und Eskalation, Mietminderung Bemessung, Mietpreisbremse Ruege, Mietrecht Beweislast Und Darlegungslast, Mietrecht Eu Ausland** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-mieterhoehung-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Mieterhoehung: Verhandlung, Vergleich und Eskalation im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mieterhoehung: Verhandlung, Vergleich und Eskalation im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mieterhoehung: Verhandlung, Vergleich und Eskalation
 
@@ -42,7 +42,7 @@ Für **Spezial Mieterhoehung Verhandlung Vergleich Und Eskalation, Spezial Mietm
 
 
 ## Spezialwissen: Mieterhoehung: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Mieterhoehung: Verhandlung, Vergleich und Eskalation / spezial mieterhoehung verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mieterhoehung: Verhandlung, Vergleich und Eskalation / mieterhoehung verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-mietminderung-bemessung`
 
-**Fokus:** Mietminderung Bemessung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; warnt vor Tabellenblindflug und verlangt konkrete Gebrauchsbeeinträchtigung mit Belegen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Mietminderung Bemessung: Fachmodul im Miet- und Wohnungseigentumsrecht; warnt vor Tabellenblindflug und verlangt konkrete Gebrauchsbeeinträchtigung mit Belegen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Mietminderung Bemessung
 
@@ -92,9 +92,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: warnt vor Tabellenblindflug und verlangt konkrete Gebrauchsbeeinträchtigung mit Belegen.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: warnt vor Tabellenblindflug und verlangt konkrete Gebrauchsbeeinträchtigung mit Belegen.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -123,7 +123,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-mietpreisbremse-ruege`
 
-**Fokus:** Mietpreisbremse Rüge/Rückforderung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gebiet, Ausnahmen, Vormiete, qualifizierte Rüge, Verjährung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Mietpreisbremse Rüge/Rückforderung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gebiet, Ausnahmen, Vormiete, qualifizierte Rüge, Verjährung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Mietpreisbremse Rüge/Rückforderung
 
@@ -137,9 +137,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Gebiet, Ausnahmen, Vormiete, qualifizierte Rüge, Verjährung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Gebiet, Ausnahmen, Vormiete, qualifizierte Rüge, Verjährung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -168,7 +168,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-mietrecht-beweislast-und-darlegungslast`
 
-**Fokus:** Mietrecht: Beweislast, Darlegungslast und Substantiierung im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mietrecht: Beweislast, Darlegungslast und Substantiierung im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mietrecht: Beweislast, Darlegungslast und Substantiierung
 
@@ -182,7 +182,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Spezialwissen: Mietrecht: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Mietrecht: Beweislast, Darlegungslast und Substantiierung / spezial mietrecht beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mietrecht: Beweislast, Darlegungslast und Substantiierung / mietrecht beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -226,7 +226,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-mietrecht-eu-ausland`
 
-**Fokus:** Auslands-/EU-Bezug Mietrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft anwendbares Recht, Gerichtsstand, Zustellung, Vollstreckung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Auslands-/EU-Bezug Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft anwendbares Recht, Gerichtsstand, Zustellung, Vollstreckung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Auslands-/EU-Bezug Mietrecht
 
@@ -240,9 +240,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft anwendbares Recht, Gerichtsstand, Zustellung, Vollstreckung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft anwendbares Recht, Gerichtsstand, Zustellung, Vollstreckung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

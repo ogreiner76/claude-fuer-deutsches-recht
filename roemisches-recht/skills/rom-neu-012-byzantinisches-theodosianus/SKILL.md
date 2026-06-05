@@ -1,6 +1,6 @@
 ---
 name: rom-neu-012-byzantinisches-theodosianus
-description: "Nutze dies, wenn Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken

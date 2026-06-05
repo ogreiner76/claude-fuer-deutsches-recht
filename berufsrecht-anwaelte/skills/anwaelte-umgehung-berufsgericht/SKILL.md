@@ -1,13 +1,13 @@
 ---
 name: anwaelte-umgehung-berufsgericht
-description: "Nutze dies, wenn Anwälte Umgehung Des Gegenanwalts Kammerantwort Und Verfahrens, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Anwälte Sanktionen Und Mandatsannahme Kammerantwort Und Verfah im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Umgehung Des Gegenanwalts Kammerantwort Und Verfahrens, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Anwälte Sanktionen Und Mandatsannahme Kammerantwort Und Verfah prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Umgehung Des Gegenanwalts Kammerantwort Und Verfahrens, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Anwälte Sanktionen Und Mandatsannahme Kammerantwort Und Verfah.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaelte Umgehung Des Gegenanwalts Kammerantwort Und Verfahrens, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Umgehung Des Gegenanwalts Kammerantwort Und Verfahrens, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Anwälte Sanktionen Und Mandatsannahme Kammerantwort Und Verfah
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Umgehung Des Gegenanwalts Kammerantwort Und Verfahrens, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Anwälte Sanktionen Und Mandatsannahme Kammerantwort Und Verfah** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

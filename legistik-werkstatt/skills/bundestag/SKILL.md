@@ -1,12 +1,12 @@
 ---
 name: bundestag
-description: "Nutze dies, wenn Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg prüfen.; Erstelle eine Arbeitsfassung zu Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg / spezial bundestag fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg / bundestag fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

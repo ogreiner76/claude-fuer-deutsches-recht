@@ -150,16 +150,16 @@ Datenschutz: Art. 28, 32 DSGVO
 Strafprozess: §§ 53a, 97 StPO
 
 III. Einzelprüfungen (Ampeltabelle)
-| Pruefpunkt              | Ampel | Begruendung |
+| Pruefpunkt | Ampel | Begruendung |
 |-------------------------|-------|-------------|
-| Erforderlichkeit        |       |             |
-| Verschwiegenheitsklausel|       |             |
-| Belehrung §§ 203/204    |       |             |
-| Subunternehmer          |       |             |
-| Strafprozess §§ 53a/97  |       |             |
-| TOM / Zertifizierungen  |       |             |
-| Drittstaat / CLOUD Act  |       |             |
-| AVV Art. 28 DSGVO       |       |             |
+| Erforderlichkeit | | |
+| Verschwiegenheitsklausel| | |
+| Belehrung §§ 203/204 | | |
+| Subunternehmer | | |
+| Strafprozess §§ 53a/97 | | |
+| TOM / Zertifizierungen | | |
+| Drittstaat / CLOUD Act | | |
+| AVV Art. 28 DSGVO | | |
 
 IV. Gesamtergebnis
 [GRUEN / GELB / ROT]

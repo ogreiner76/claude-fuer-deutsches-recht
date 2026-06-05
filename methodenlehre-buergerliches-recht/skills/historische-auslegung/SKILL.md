@@ -1,6 +1,6 @@
 ---
 name: historische-auslegung
-description: "Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-Workflow ueber dipbt.bundestag.de."
+description: "Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-ueber dipbt.bundestag.de."
 ---
 
 # Historische Auslegung

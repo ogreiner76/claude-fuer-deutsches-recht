@@ -46,14 +46,14 @@ Manchmal verkuendet das Gericht direkt am Termin. Vorsitzender liest den **Tenor
 "Es wird verkuendet:
 
 1. Der Beklagte wird verurteilt, an die
-   Klaegerin 1.500 EUR nebst Zinsen seit
-   5.4.2025 zu zahlen.
+ Klaegerin 1.500 EUR nebst Zinsen seit
+ 5.4.2025 zu zahlen.
 
 2. Im Uebrigen wird die Klage abgewiesen.
 
 3. Die Kosten des Rechtsstreits tragen
-   die Klaegerin zu 20 % und der Beklagte
-   zu 80 %.
+ die Klaegerin zu 20 % und der Beklagte
+ zu 80 %.
 
 4. Das Urteil ist vorlaeufig vollstreckbar."
 ```

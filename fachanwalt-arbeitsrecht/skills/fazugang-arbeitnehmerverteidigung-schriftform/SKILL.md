@@ -1,13 +1,13 @@
 ---
 name: fazugang-arbeitnehmerverteidigung-schriftform
-description: "Nutze dies, wenn Fazugang Neu 007 Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Neu 008 Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fazugang Neu 007 Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Neu 008 Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken prüfen.; Erstelle eine Arbeitsfassung zu Fazugang Neu 007 Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Neu 008 Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fazugang Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Fazugang Neu 007 Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Neu 008 Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken
+# Fazugang Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fazugang Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Fazugang Neu 007 Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Neu 008 Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fazugang Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Schriftform Kündigung Original Und Elektronisc, Kündigung Per Einschreiben Risiken** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,7 +42,7 @@ Für **Fazugang Neu 007 Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugan
 ## Zweck
 Verteidigungsstrategie für den Arbeitnehmer bei streitigem Zugangsdatum — ausschließlich mit wahrheitsgemäßen Einwänden. Dieser Skill betont, dass die Verteidigung auf Fakten beruhen muss und erklärt, wo echte rechtliche Spielräume liegen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Sachverhalt vorliegt, zuerst klären:
 
 1. **Was ist der wahre Sachverhalt?** Wann hat der Mandant den Brief tatsächlich erhalten oder aus dem Briefkasten genommen?
@@ -151,7 +151,7 @@ Der Anwalt ist verpflichtet, den Mandanten über die Wahrheitspflicht im Prozess
 ## Zweck
 Vollständige Prüfung des Schriftformerfordernisses nach § 623 BGB bei der Kündigung. Häufig verkannte Fehlerquelle: Arbeitgeber versenden Kündigungen per E-Mail, WhatsApp oder als eingescannte PDF — alles unwirksam.
 
-## Kaltstart
+## Einstieg
 Wenn eine Kündigung vorliegt, sofort prüfen:
 
 1. **Wie wurde die Kündigung übermittelt?** Brief, E-Mail, WhatsApp, Fax, Teams, mündlich?
@@ -269,7 +269,7 @@ Eine nichtige Kündigung kann nicht geheilt werden. Der Arbeitgeber muss eine ne
 
 ## Auftrag
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
 
 ## Normanker
 

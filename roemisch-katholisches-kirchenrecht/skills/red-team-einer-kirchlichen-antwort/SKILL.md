@@ -1,6 +1,6 @@
 ---
 name: red-team-einer-kirchlichen-antwort
-description: "Red-Team einer kirchlichen Antwort: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
+description: "Red-Team einer kirchlichen Antwort: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe."
 ---
 
 # Red-Team einer kirchlichen Antwort
@@ -48,7 +48,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

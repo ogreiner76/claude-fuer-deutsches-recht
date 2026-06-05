@@ -1,13 +1,13 @@
 ---
 name: infl-affiliate-link-geschenk-pr-umsatzsteuer
-description: "Nutze dies, wenn Infl 003 Affiliate Link Rabattcode Und Provision, Infl 004 Geschenk Pr Sample Sachleistung Und Steuer, Infl 005 Umsatzsteuer Bei Barter Deal Und Auslandsbrand im Plugin Influencer Recht konkret bearbeitet werden soll. Auslöser: Bitte Infl 003 Affiliate Link Rabattcode Und Provision, Infl 004 Geschenk Pr Sample Sachleistung Und Steuer, Infl 005 Umsatzsteuer Bei Barter Deal Und Auslandsbrand prüfen.; Erstelle eine Arbeitsfassung zu Infl 003 Affiliate Link Rabattcode Und Provision, Infl 004 Geschenk Pr Sample Sachleistung Und Steuer, Infl 005 Umsatzsteuer Bei Barter Deal Und Auslandsbrand.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Infl 003 Affiliate Link Rabattcode Und Provision, Infl 004 Geschenk Pr Sample Sachleistung Und Steuer, Infl 005 Umsatzsteuer Bei Barter Deal Und Auslandsbrand: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Infl 003 Affiliate Link Rabattcode Und Provision, Infl 004 Geschenk Pr Sample Sachleistung Und Steuer, Infl 005 Umsatzsteuer Bei Barter Deal Und Auslandsbrand
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Infl 003 Affiliate Link Rabattcode Und Provision, Infl 004 Geschenk Pr Sample Sachleistung Und Steuer, Infl 005 Umsatzsteuer Bei Barter Deal Und Auslandsbrand** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

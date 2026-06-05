@@ -1,6 +1,6 @@
 ---
 name: rom-003-personae-status-und-familie
-description: "Römisches Recht: Personae Status Und Familie. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Personae Status Und Familie. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Personae Status Und Familie

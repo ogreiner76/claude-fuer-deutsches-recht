@@ -1,13 +1,13 @@
 ---
 name: sektor-app-stores-automotive-zulieferketten
-description: "Nutze dies, wenn Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten prüfen.; Erstelle eine Arbeitsfassung zu Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sektor App Stores Mobile Oekosysteme, Sektor Automotive Zulieferketten Und Oem, Sektor Cloud Infrastruktur Hyperscaler, Sektor Energie Speicher Regelenergie Netz, Sektor Ki Foundation Models Compute Daten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** App Stores, Payment Steering, Sideloading, Self-Preferencing, DMA-Schnittstelle und Entwicklerbeschränkungen
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.
@@ -88,7 +88,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** OEM-/Tier-Strukturen, Plattformen, Standardisierung, Datenzugang, Ersatzteile und Einkaufsmacht
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.
@@ -131,7 +131,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Cloud-IaaS/PaaS, Egress Fees, Interoperabilität, Datenportabilität, Bündelung und Zugang zu kritischer Infrastruktur
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.
@@ -174,7 +174,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Stromspeicher, Regelenergie, Netzanschluss, Kapazitätsmärkte, Missbrauch von Engpassmacht und Beihilfeschnittstelle
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.
@@ -217,7 +217,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Foundation Models, GPU-/Cloud-Zugang, Trainingsdaten, exklusive Partnerschaften, Talentmärkte und Innovationswettbewerb
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.

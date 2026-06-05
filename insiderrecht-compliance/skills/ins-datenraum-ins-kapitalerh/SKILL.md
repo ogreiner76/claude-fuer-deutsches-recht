@@ -1,13 +1,13 @@
 ---
 name: ins-datenraum-ins-kapitalerh
-description: "Nutze dies, wenn Ins 017 Datenraum Transaktion, Ins 021 Kapitalerh Hung im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 017 Datenraum Transaktion, Ins 021 Kapitalerh Hung prüfen.; Erstelle eine Arbeitsfassung zu Ins 017 Datenraum Transaktion, Ins 021 Kapitalerh Hung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 017 Datenraum Transaktion, Ins 021 Kapitalerh Hung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 017 Datenraum Transaktion, Ins 021 Kapitalerh Hung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 017 Datenraum Transaktion, Ins 021 Kapitalerh Hung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,7 +55,7 @@ und stellt sicher, dass alle Zugangsberechtigten korrekt als Insider behandelt w
 - Definiere Zugriffsebenen (Stufe 1: Non-Insider-Informationen, Stufe 2: Insiderinformationen)
 - Führe separate Insiderlisten für jede Zugriffsebene
 - Beauftrage Datenraum-Anbieter mit aktiviertem Zugangsprotokoll (Wer hat wann welche
-  Dokumente geöffnet/heruntergeladen?)
+ Dokumente geöffnet/heruntergeladen?)
 
 ### Schritt 2 – Aufnahme in Insiderliste bei Zugriffserteilung
 
@@ -82,7 +82,7 @@ Nach Abschluss des Prozesses (Signing, Closing, Abbruch):
 - Datenraum-Zugang und Aufschub nach Art. 17 Abs. 4 MAR sind parallel zu führen
 - Bei Leak: Sofortmaßnahmen (Skill ins-011) aktivieren
 - Bei Abbruch der Transaktion: Insiderinformation erlischt nur, wenn kein legitimes Interesse
-  mehr an Aufschub besteht; Compliance prüft neuen Status der Information
+ mehr an Aufschub besteht; Compliance prüft neuen Status der Information
 
 ## Red-Team-Fragen
 
@@ -132,7 +132,7 @@ bis zur Ad-hoc-Veröffentlichung, inklusive Market Sounding und Post-Deal-Compli
 ### Schritt 1 – Entstehungszeitpunkt der Insiderinformation
 
 - Prüfe, ob bereits die Entscheidung, eine Kapitalerhöhung zu prüfen, eine präzise Information
-  darstellt (Geltl/Daimler-Test: Zwischenschritte)
+ darstellt (Geltl/Daimler-Test: Zwischenschritte)
 - Typischer Insiderinformations-Zeitpunkt: Board-Beschluss zur Durchführung
 - Dokumentiere Zeitpunkt und Wissensträger
 

@@ -22,7 +22,7 @@ TKG 2021; TDDDG; DSGVO; VwVfG/VwGO; BGB; GWB/AEUV; EU-Richtlinie 2018/1972 (EECC
 
 ## Output
 
-Triage-Memo mit Rechtsweg, Fristen, Unterlagenliste, Zielbild und passenden Spezial-Skills.
+Triage-Memo mit Rechtsweg, Fristen, Unterlagenliste, Zielbild und passenden Fachmodule.
 
 ## Red Flags
 

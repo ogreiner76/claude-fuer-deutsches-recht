@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Rechtsberatungsstelle konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Rechtsberatungsstelle** ein Fall noch sort
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `anlaufstellen-beweislast-anleiter-bono` — Anlaufstellen Beweislast Anleiter Bono
 - `anleiter-pruefwarteschlange` — Anleiter Pruefwarteschlange
 - `briefe-erstberatung-rdg-konform` — Briefe Erstberatung Rdg Konform

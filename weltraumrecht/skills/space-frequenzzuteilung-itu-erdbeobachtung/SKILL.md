@@ -1,13 +1,13 @@
 ---
 name: space-frequenzzuteilung-itu-erdbeobachtung
-description: "Nutze dies, wenn Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht im Plugin Weltraumrecht konkret bearbeitet werden soll. Auslöser: Bitte Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht prüfen.; Erstelle eine Arbeitsfassung zu Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

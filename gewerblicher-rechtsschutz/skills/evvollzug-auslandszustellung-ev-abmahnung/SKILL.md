@@ -1,13 +1,13 @@
 ---
 name: evvollzug-auslandszustellung-ev-abmahnung
-description: "Nutze dies, wenn Evvollzug Neu 006 Auslandszustellung Ev Und Uebersetzung, Evvollzug Neu 007 Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Neu 008 Schutzschrift Register Und Forumstrategie im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Evvollzug Neu 006 Auslandszustellung Ev Und Uebersetzung, Evvollzug Neu 007 Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Neu 008 Schutzschrift Register Und Forumstrategie prüfen.; Erstelle eine Arbeitsfassung zu Evvollzug Neu 006 Auslandszustellung Ev Und Uebersetzung, Evvollzug Neu 007 Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Neu 008 Schutzschrift Register Und Forumstrategie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Evvollzug Auslandszustellung Ev Und Uebersetzung, Evvollzug Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Schutzschrift Register Und Forumstrategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Evvollzug Neu 006 Auslandszustellung Ev Und Uebersetzung, Evvollzug Neu 007 Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Neu 008 Schutzschrift Register Und Forumstrategie
+# Evvollzug Auslandszustellung Ev Und Uebersetzung, Evvollzug Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Schutzschrift Register Und Forumstrategie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Evvollzug Auslandszustellung Ev Und Uebersetzung, Evvollzug Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Schutzschrift Register Und Forumstrategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Evvollzug Neu 006 Auslandszustellung Ev Und Uebersetzung, Evvollzug Neu 007 Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Neu 008 Schutzschrift Register Und Forumstrategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Evvollzug Auslandszustellung Ev Und Uebersetzung, Evvollzug Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Schutzschrift Register Und Forumstrategie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -308,8 +308,8 @@ Pflichtinhalt einer Schutzschrift:
 1. **Rubrum:** Antragsgegner (Mandant), potentieller Antragsteller, Anspruchsgegenstand.
 2. **Sachverhalt:** Tatsachen aus Sicht des Antragsgegners; konkreter Tatbestand.
 3. **Einwendungen:** Warum EV nicht ergehen darf.
-   - Material: Schutzrecht ungültig, kein Verstoß, Erschöpfung (§ 24 MarkenG), Verwirkung.
-   - Formal: Keine Dringlichkeit, fehlende Aktivlegitimation, Missbrauch.
+ - Material: Schutzrecht ungültig, kein Verstoß, Erschöpfung (§ 24 MarkenG), Verwirkung.
+ - Formal: Keine Dringlichkeit, fehlende Aktivlegitimation, Missbrauch.
 4. **Beweisangebote:** Dokumente, eidesstattliche Versicherungen, Zeugen.
 5. **Antrag:** Gericht möge von Erlass einer EV ohne mündliche Verhandlung absehen.
 

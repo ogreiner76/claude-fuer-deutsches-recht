@@ -1,32 +1,32 @@
 ---
 name: pflichtteilsergaenzung-frist-fachanwalt
-description: "Nutze dies, wenn Spezial Pflichtteilsergaenzung Frist Naechster Schritt, Fachanwalt Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Pflichtteilsergaenzung Frist Naechster Schritt, Fachanwalt Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Pflichtteilsergaenzung Frist Naechster Schritt, Fachanwalt Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pflichtteilsergaenzung Frist Naechster Schritt, Fachanwalt Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Pflichtteilsergaenzung Frist Naechster Schritt, Fachanwalt Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen
+# Pflichtteilsergaenzung Frist Naechster Schritt, Fachanwalt Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pflichtteilsergaenzung Frist Naechster Schritt, Fachanwalt Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-pflichtteilsergaenzung-frist-naechster-schritt` | Pflichtteilsergaenzung: Fristennotiz und nächster Schritt im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-pflichtteilsergaenzung-frist-naechster-schritt` | Pflichtteilsergaenzung: Fristennotiz und nächster Schritt im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `fachanwalt-erbrecht-testamentsentwurf` | Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte. §§ 2229 2231 2247 BGB Testament §§ 2274 ff. BGB Erbvertrag. Prüfraster: Testierfähigkeit Form Erbeinsetung Vermaechtnisse Pflichtteilsreduzierung Testamentsvollstreckung Erbvertragsbindung. Output: Testamentsentwurf oder Erbvertragsentwurf. Abgrenzung: nicht für Pflichtteilsberechnungen. |
 | `nachlassinsolvenz-erbenhaftung-begrenzen` | Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist. §§ 1975 1980 2059 BGB Nachlassinsolvenz §§ 315 ff. InsO. Prüfraster: Nachlassueberschuldung Antragspflicht Frist Haftungsbeschraenkung Inventarrecht Nachlassverwaltung. Output: Nachlassinsolvenantrag Haftungsbeschraenkungsstrategie. Abgrenzung: nicht für Ausschlagung (fachanwalt-erbrecht-erbschaftsausschlagung). |
 
 ## Arbeitsweg
 
-Für **Spezial Pflichtteilsergaenzung Frist Naechster Schritt, Fachanwalt Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pflichtteilsergaenzung Frist Naechster Schritt, Fachanwalt Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-pflichtteilsergaenzung-frist-naechster-schritt`
 
-**Fokus:** Pflichtteilsergaenzung: Fristennotiz und nächster Schritt im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Pflichtteilsergaenzung: Fristennotiz und nächster Schritt im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Pflichtteilsergaenzung: Fristennotiz und nächster Schritt
 
@@ -40,7 +40,7 @@ Für **Spezial Pflichtteilsergaenzung Frist Naechster Schritt, Fachanwalt Erbrec
 
 
 ## Spezialwissen: Pflichtteilsergaenzung: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Pflichtteilsergaenzung: Fristennotiz und nächster Schritt / spezial pflichtteilsergaenzung frist naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pflichtteilsergaenzung: Fristennotiz und nächster Schritt / pflichtteilsergaenzung frist naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, EU, ErbVO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -222,7 +222,7 @@ Saemtliche Verfuegungen sind wechselbezueglich § 2270 BGB.
 
 ## Prüfschema — Haftungsbegrenzungs-Instrumente
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Instrument | Frist | Voraussetzung | Folge |
 |---------|-----------|-------|--------------|-------|

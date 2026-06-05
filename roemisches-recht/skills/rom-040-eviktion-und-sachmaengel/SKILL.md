@@ -1,6 +1,6 @@
 ---
 name: rom-040-eviktion-und-sachmaengel
-description: "Römisches Recht: Eviktion Und Sachmaengel. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Eviktion Und Sachmaengel. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Eviktion Und Sachmaengel

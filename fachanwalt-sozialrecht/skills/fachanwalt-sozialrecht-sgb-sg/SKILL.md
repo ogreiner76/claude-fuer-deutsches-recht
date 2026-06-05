@@ -1,20 +1,20 @@
 ---
 name: fachanwalt-sozialrecht-sgb-sg
-description: "Nutze dies, wenn Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich Sg Widerspruchsverhandlung, Fachanwalt Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-sozialrecht-sgb-ii-bescheid` | Workflow-Skill zu fachanwalt sozialrecht sgb ii bescheid. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung` | Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Workflow Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht. |
+| `fachanwalt-sozialrecht-sgb-ii-bescheid` | Arbeitsmodul zu fachanwalt sozialrecht sgb ii bescheid: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung` | Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht. |
 | `fachanwalt-sozialrecht-widerspruch-sozialleistung` | Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch. § 84 SGG Widerspruchsfrist ein Monat. Prüfraster: Frist (Bekanntgabe Vier-Tage-Fiktion § 37 Abs. 2 SGB X seit 1.1.2025 PostModG) aufschiebende Wirkung § 86a SGG Antrag § 86b SGG Tatsachen und Rechtsgrundlagen Beweisangebote. Output: Widerspruchsschriftsatz mit Begründung. Abgrenzung zu bescheid-frist-quick-check (Fristkontrolle vorab) und klage-sozialgericht (nach Widerspruchsbescheid). |
 | `hilfsmittelantrag-pruefen` | Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zuständig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Prüfraster: Zuständigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgründe. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad). |
 
@@ -27,7 +27,7 @@ Für **Fachanwalt Sozialrecht Sgb Ii Bescheid, Fachanwalt Sozialrecht Vergleich 
 
 ## 1. `fachanwalt-sozialrecht-sgb-ii-bescheid`
 
-**Fokus:** Workflow-Skill zu fachanwalt sozialrecht sgb ii bescheid. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt sozialrecht sgb ii bescheid: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # SGB-II-Bescheid (Bürgergeld)
 
@@ -164,7 +164,7 @@ Sehr geehrte Damen und Herren,
 
 namens und in Vollmacht legen wir
 
-                       W i d e r s p r u c h
+ W i d e r s p r u c h
 
 ein.
 
@@ -180,7 +180,7 @@ III. Mehrbedarfe (§ 21 SGB II)
 Folgende Mehrbedarfe wurden zu Unrecht nicht berücksichtigt:
 - Alleinerziehung § 21 Abs. 3 SGB II (Anlage W1)
 - Kostenaufwändige Ernährung § 21 Abs. 5 SGB II wegen [Diagnose]
-  (Anlage W2: ärztliches Attest)
+ (Anlage W2: ärztliches Attest)
 
 IV. Kosten der Unterkunft (§ 22 SGB II)
 Tatsächliche monatliche Kaltmiete: EUR [Betrag]
@@ -215,7 +215,7 @@ Mit freundlichen Grüßen
 ### Baustein 2 — Eilantrag § 86b SGG bei Leistungslücke
 
 ```
-An das Sozialgericht [Ort]                     [Datum]
+An das Sozialgericht [Ort] [Datum]
 
 Antrag auf einstweilige Anordnung
 gem. § 86b Abs. 2 SGG
@@ -257,17 +257,17 @@ Sehr geehrte Damen und Herren,
 der Sanktionsbescheid ist rechtswidrig, weil:
 
 1. Rechtsfolgenbelehrung fehlerhaft: Die Belehrung enthielt
-   keine hinreichend konkrete Benennung der verletzten Pflicht
-   und der genauen Rechtsfolge (BSG-Linie zu § 31 SGB II).
+ keine hinreichend konkrete Benennung der verletzten Pflicht
+ und der genauen Rechtsfolge (BSG-Linie zu § 31 SGB II).
 
 2. Kein Verschulden: Die Pflichtverletzung war nicht ver-
-   schuldet, weil [konkreter Grund: Krankheit, Irrtum,
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Sanktionen sind nur bei Verschulden verfassungskonform.
+ schuldet, weil [konkreter Grund: Krankheit, Irrtum,
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Sanktionen sind nur bei Verschulden verfassungskonform.
 
 3. Verhältnismäßigkeit: Die festgesetzte Minderung von [X %]
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   muss ein Härteparagraph greifen.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ muss ein Härteparagraph greifen.
 
 Wir beantragen: Aufhebung des Sanktionsbescheids.
 
@@ -367,7 +367,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung`
 
-**Fokus:** Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Workflow Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht.
+**Fokus:** Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht.
 
 # Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung
 
@@ -511,7 +511,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Baustein 1 — Klageerhebung mit Vergleichssignal
 
 ```
-An das Sozialgericht [Ort]                       [Datum]
+An das Sozialgericht [Ort] [Datum]
 
 Klage
 
@@ -520,7 +520,7 @@ In dem Rechtsstreit
 
 erhebe ich / erheben wir namens und in Vollmacht von [Name]
 
-                           K l a g e
+ K l a g e
 
 gegen den Widerspruchsbescheid der [Behörde] vom [Datum],
 Az. [...].
@@ -797,7 +797,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ```
 [Briefkopf Kanzlei]
 
-[Behörde, Anschrift]                               [Ort, Datum]
+[Behörde, Anschrift] [Ort, Datum]
 
 Az. [BehAz]
 betr. [Name, Geburtsdatum]
@@ -811,7 +811,7 @@ Sehr geehrte Damen und Herren,
 namens und in Vollmacht von [Name] legen wir gegen den oben
 bezeichneten Bescheid fristwahrend
 
-                       W i d e r s p r u c h
+ W i d e r s p r u c h
 
 ein.
 
@@ -821,15 +821,15 @@ in ihren Rechten.
 Vorläufige Begründung:
 
 1. Tatsächliche Grundlage
-   [Kurzdarstellung des Sachverhalts und der strittigen Leistung]
+ [Kurzdarstellung des Sachverhalts und der strittigen Leistung]
 
 2. Rechtliche Grundlage
-   Die Ablehnung / Kürzung / Aufhebung verletzt [§ XX SGB X/II/V/VI]
-   weil [Kurzbegründung].
+ Die Ablehnung / Kürzung / Aufhebung verletzt [§ XX SGB X/II/V/VI]
+ weil [Kurzbegründung].
 
 3. Verfahrensfehler
-   [Sofern vorhanden: Anhörung fehlt § 24 SGB X; Begründung
-   unzureichend § 35 SGB X]
+ [Sofern vorhanden: Anhörung fehlt § 24 SGB X; Begründung
+ unzureichend § 35 SGB X]
 
 Die ausführliche Widerspruchsbegründung wird nach Akteneinsicht
 innerhalb von vier Wochen nachgereicht.
@@ -838,8 +838,8 @@ Wir beantragen:
 a) Den Bescheid aufzuheben / abzuändern.
 b) Akteneinsicht in die vollständige Verwaltungsakte (§ 25 SGB X).
 c) [Bei fehlendem Suspensiveffekt:] Zugleich stellen wir beim
-   zuständigen Sozialgericht [Ort] Antrag nach § 86b SGG auf
-   [Anordnung der aufschiebenden Wirkung / einstweilige Anordnung].
+ zuständigen Sozialgericht [Ort] Antrag nach § 86b SGG auf
+ [Anordnung der aufschiebenden Wirkung / einstweilige Anordnung].
 
 Anlagen:
 - Vollmacht
@@ -872,15 +872,15 @@ wurden; Korrekturen gegenüber dem Bescheid; neue Beweismittel]
 II. Rechtliche Bewertung
 
 1. Rechtsgrundlage falsch angewendet
-   Der Bescheid stützt sich auf § [XX], obwohl [Begründung
-   warum die Norm nicht greift oder falsch ausgelegt wurde].
+ Der Bescheid stützt sich auf § [XX], obwohl [Begründung
+ warum die Norm nicht greift oder falsch ausgelegt wurde].
 
 2. Tatbestandsvoraussetzungen nicht erfüllt
-   [Konkrete Tatbestandsmerkmale fehlen; BSG-Rechtsprechung zitieren]
+ [Konkrete Tatbestandsmerkmale fehlen; BSG-Rechtsprechung zitieren]
 
 3. Ermessensfehler
-   [Wenn Ermessen eingeräumt ist: Ermessen nicht ausgeübt /
-   Ermessensüberschreitung / -unterschreitung]
+ [Wenn Ermessen eingeräumt ist: Ermessen nicht ausgeübt /
+ Ermessensüberschreitung / -unterschreitung]
 
 III. Verfahrensfehler
 
@@ -926,8 +926,8 @@ Die Vierjahresfrist des § 44 Abs. 4 SGB X ist gewahrt
 Wir beantragen:
 1. Rücknahme des Bescheids vom [Datum].
 2. Nachzahlung der zu Unrecht vorenthaltenen Leistungen
-   ab [Zeitraum] in Höhe von EUR [Betrag] (hilfsweise
-   gerichtlich zu klären).
+ ab [Zeitraum] in Höhe von EUR [Betrag] (hilfsweise
+ gerichtlich zu klären).
 
 Mit freundlichen Grüßen
 [Fachanwalt/-anwältin]

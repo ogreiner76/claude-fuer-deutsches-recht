@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Legistik Werkstatt** ein Fall noch sortier
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen-legw-bmleh` — Allgemein Workflow Chronologie Workflow Fristen Legw Bmleh
+- `allgemein-workflow-chronologie-workflow-fristen-legw-bmleh` — Allgemein Chronologie Fristen Legw Bmleh
 - `begruendung-allgemein-und-besonders` — Begruendung Allgemein Und Besonders
 - `dokumente-rendern-docx-pdf` — Dokumente Rendern Docx Pdf
 - `europarechtskonformitaet` — Europarechtskonformitaet

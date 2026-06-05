@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Fachanwalt Transport Speditionsrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Fachanwalt Transport Speditionsrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,13 +11,13 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Transport Speditionsrecht** ein
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `autonome-lkw-cmr-schadensregulierung-speditionshaftung-hgb` — Autonome Lkw Cmr Schadensregulierung Speditionshaftung Hgb
 - `cmr-haftung-ladungsschaden-frachtfuehrerhaftung` — Cmr Haftung Ladungsschaden Frachtfuehrerhaftung
 - `cotif-fachanwalt-haager` — Cotif Fachanwalt Haager
 - `hgb-kabotage-beweislast-kanzlei-red` — Hgb Kabotage Beweislast Kanzlei Red
 - `lieferverzug-orientierung-mandat-triage` — Lieferverzug Orientierung Mandat Triage
-- `marktzugang-sonderfall-montrealer-spezial-pruefen` — Marktzugang Sonderfall Montrealer Spezial Prüfen
+- `marktzugang-sonderfall-montrealer-spezial-pruefen` — Marktzugang Sonderfall Montrealer Prüfen
 - `regeln-interessen-schnittstelle-spedition` — Regeln Interessen Schnittstelle Spedition
 - `reklamationsschreiben-cmr-schriftsatzkern-substantiierung-adsp` — Reklamationsschreiben Cmr Schriftsatzkern Substantiierung Adsp
 - `speditionsrecht-tio-schiedsgericht-frachtvertrag` — Speditionsrecht Tio Schiedsgericht Frachtvertrag

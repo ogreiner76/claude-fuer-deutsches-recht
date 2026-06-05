@@ -1,6 +1,6 @@
 ---
 name: kaltstart-e-commerce-mandat
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart E-Commerce Mandat."
+description: "Nutze dies zum Einstieg in Kaltstart E-Commerce Mandat: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart E-Commerce Mandat

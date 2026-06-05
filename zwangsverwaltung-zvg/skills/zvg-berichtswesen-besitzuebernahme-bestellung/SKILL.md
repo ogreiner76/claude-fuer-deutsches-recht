@@ -1,13 +1,13 @@
 ---
 name: zvg-berichtswesen-besitzuebernahme-bestellung
-description: "Nutze dies, wenn Zvg Berichtswesen Gericht, Zvg Besitzuebernahme, Zvg Bestellung Beschlagnahme im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Bitte Zvg Berichtswesen Gericht, Zvg Besitzuebernahme, Zvg Bestellung Beschlagnahme prüfen.; Erstelle eine Arbeitsfassung zu Zvg Berichtswesen Gericht, Zvg Besitzuebernahme, Zvg Bestellung Beschlagnahme.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zvg Berichtswesen Gericht, Zvg Besitzuebernahme, Zvg Bestellung Beschlagnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zvg Berichtswesen Gericht, Zvg Besitzuebernahme, Zvg Bestellung Beschlagnahme
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zvg Berichtswesen Gericht, Zvg Besitzuebernahme, Zvg Bestellung Beschlagnahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

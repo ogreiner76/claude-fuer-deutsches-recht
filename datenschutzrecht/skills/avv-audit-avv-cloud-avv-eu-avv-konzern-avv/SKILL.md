@@ -1,13 +1,13 @@
 ---
 name: avv-audit-avv-cloud-avv-eu-avv-konzern-avv
-description: "Nutze dies, wenn Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Avv Audit Und Kontrollrechte, Avv Cloud Und Subverarbeitung Art 28 Iv, Avv Eu Us Data Privacy Framework Bezug, Avv Konzern Und Multi Party Konstellation, Avv Prüfung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -54,42 +54,42 @@ Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem 
 ## Ablauf / Checkliste
 
 1. **Audit-Frequenz.**
-   - Regelfall: einmal pro Kalenderjahr.
-   - Anlassbezogen: bei Datenpanne, Aenderung der Verarbeitung, Aufsichtsbehoerdenfrage, konkreten Verdachtsmomenten.
-   - Aufsichtsbehoerde direkt: keine Frequenzbegrenzung.
+ - Regelfall: einmal pro Kalenderjahr.
+ - Anlassbezogen: bei Datenpanne, Aenderung der Verarbeitung, Aufsichtsbehoerdenfrage, konkreten Verdachtsmomenten.
+ - Aufsichtsbehoerde direkt: keine Frequenzbegrenzung.
 
 2. **Audit-Form.**
 
-   | Form | Anwendungsfall | Aussagekraft |
-   |---|---|---|
-   | Selbstauskunft (Self-Assessment) | Standardpruefung | Niedrig |
-   | Zertifikatseinsicht (ISO 27001, SOC 2 Type II, BSI C5 Typ 2) | Routine | Mittel |
-   | Schriftlicher Auditbericht des Auftragsverarbeiters | Routine | Mittel |
-   | Vor-Ort-Audit durch den Verantwortlichen oder dessen Pruefer | Anlassbezogen / kritisch | Hoch |
-   | Aufsichtsbehoerdliche Pruefung | bei Anordnung | Hoechste |
+ | Form | Anwendungsfall | Aussagekraft |
+ |---|---|---|
+ | Selbstauskunft (Self-Assessment) | Standardpruefung | Niedrig |
+ | Zertifikatseinsicht (ISO 27001, SOC 2 Type II, BSI C5 Typ 2) | Routine | Mittel |
+ | Schriftlicher Auditbericht des Auftragsverarbeiters | Routine | Mittel |
+ | Vor-Ort-Audit durch den Verantwortlichen oder dessen Pruefer | Anlassbezogen / kritisch | Hoch |
+ | Aufsichtsbehoerdliche Pruefung | bei Anordnung | Hoechste |
 
 3. **Ankuendigungsfrist und Auditor.**
-   - Praxis: 30 Kalendertage Vorankuendigung bei planmaessigem Audit.
-   - Verzicht auf Vorankuendigung bei akuter Datenpanne.
-   - Auditor: Verantwortlicher selbst oder ein vom Verantwortlichen beauftragter Wirtschaftspruefer / Datenschutzauditor.
-   - Wettbewerber-Ausschluss zulaessig, soweit konkret begruendet.
+ - Praxis: 30 Kalendertage Vorankuendigung bei planmaessigem Audit.
+ - Verzicht auf Vorankuendigung bei akuter Datenpanne.
+ - Auditor: Verantwortlicher selbst oder ein vom Verantwortlichen beauftragter Wirtschaftspruefer / Datenschutzauditor.
+ - Wettbewerber-Ausschluss zulaessig, soweit konkret begruendet.
 
 4. **Geschaeftsgeheimnis-Schutz.**
-   - NDA fuer Auditoren.
-   - Schutz von Quellcode, Konfigurationen, Sub-AV-Vertraegen.
-   - Recht des Auftragsverarbeiters, sensible Informationen zu schwaerzen oder in Aggregatsform vorzulegen.
-   - Bei Berufsgeheimnistraegern (§ 203 StGB): Auditor unterliegt selbst der Schweigepflicht.
+ - NDA fuer Auditoren.
+ - Schutz von Quellcode, Konfigurationen, Sub-AV-Vertraegen.
+ - Recht des Auftragsverarbeiters, sensible Informationen zu schwaerzen oder in Aggregatsform vorzulegen.
+ - Bei Berufsgeheimnistraegern (§ 203 StGB): Auditor unterliegt selbst der Schweigepflicht.
 
 5. **Kostenregelung.**
-   - Praxis: Verantwortlicher traegt Kosten des planmaessigen Audits.
-   - Auftragsverarbeiter traegt Kosten bei festgestellten Verstoessen.
-   - Bei anlassbezogenen Audits oft 50/50 oder Verursacherprinzip.
+ - Praxis: Verantwortlicher traegt Kosten des planmaessigen Audits.
+ - Auftragsverarbeiter traegt Kosten bei festgestellten Verstoessen.
+ - Bei anlassbezogenen Audits oft 50/50 oder Verursacherprinzip.
 
 6. **Auditergebnis und Folgen.**
-   - Auditbericht binnen 30 Kalendertagen.
-   - Stellungnahme des Auftragsverarbeiters binnen 14 Kalendertagen.
-   - Mangelbehebungsplan mit Fristen.
-   - Eskalation bei wesentlichen Maengeln: Anordnungen, Vertragsanpassung, Sonderkuendigung.
+ - Auditbericht binnen 30 Kalendertagen.
+ - Stellungnahme des Auftragsverarbeiters binnen 14 Kalendertagen.
+ - Mangelbehebungsplan mit Fristen.
+ - Eskalation bei wesentlichen Maengeln: Anordnungen, Vertragsanpassung, Sonderkuendigung.
 
 ## Mustertext / Template
 
@@ -172,33 +172,33 @@ Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerwe
 ## Ablauf / Checkliste
 
 1. **Sub-AV-Kette dokumentieren.**
-   - Tier 1: Vertragspartner.
-   - Tier 2: Direkter Sub-AV des Tier 1 (z. B. Hyperscaler).
-   - Tier 3+: Weitere Sub-AV (z. B. Support-Dienstleister, Backup-Provider).
-   - Pro Sub-AV: Name, Sitz, Verarbeitungsumfang, Datenort, Drittlandbezug, Schutzmechanismus.
+ - Tier 1: Vertragspartner.
+ - Tier 2: Direkter Sub-AV des Tier 1 (z. B. Hyperscaler).
+ - Tier 3+: Weitere Sub-AV (z. B. Support-Dienstleister, Backup-Provider).
+ - Pro Sub-AV: Name, Sitz, Verarbeitungsumfang, Datenort, Drittlandbezug, Schutzmechanismus.
 
 2. **Genehmigungsmodell festlegen.**
 
-   | Modell | Vorteil | Nachteil |
-   |---|---|---|
-   | Spezifische Genehmigung | Volle Kontrolle | Praktisch unhandhabbar bei vielen Sub-AV |
-   | Allgemeine Genehmigung mit Liste | Praktikabel | Voraussetzung: aktuelle Liste, ausreichende Frist, Einspruchsrecht |
-   | Allgemeine Genehmigung ohne Liste | Bequem | Nicht Art. 28 DSGVO-konform |
+ | Modell | Vorteil | Nachteil |
+ |---|---|---|
+ | Spezifische Genehmigung | Volle Kontrolle | Praktisch unhandhabbar bei vielen Sub-AV |
+ | Allgemeine Genehmigung mit Liste | Praktikabel | Voraussetzung: aktuelle Liste, ausreichende Frist, Einspruchsrecht |
+ | Allgemeine Genehmigung ohne Liste | Bequem | Nicht Art. 28 DSGVO-konform |
 
 3. **Informationspflicht und Einspruchsrecht.**
-   - Frist Praxis: 30 Tage vor Wirksamwerden, mindestens aber so, dass Einspruch faktisch moeglich ist.
-   - Einspruchsgrund: berechtigte Bedenken (Drittland, fehlende TOM, Wettbewerber, Aufsichtsbehoerde).
-   - Folge: Auftragsverarbeiter sucht alternative Sub-AV, sonst ausserordentliche Kuendigung durch Verantwortlichen.
+ - Frist Praxis: 30 Tage vor Wirksamwerden, mindestens aber so, dass Einspruch faktisch moeglich ist.
+ - Einspruchsgrund: berechtigte Bedenken (Drittland, fehlende TOM, Wettbewerber, Aufsichtsbehoerde).
+ - Folge: Auftragsverarbeiter sucht alternative Sub-AV, sonst ausserordentliche Kuendigung durch Verantwortlichen.
 
 4. **Haftungsdurchleitung.**
-   - Vertraglich oder per Rechtsinstrument identische Pflichten beim Sub-AV.
-   - Praxis: Back-to-Back-Vertrag oder Inkorporation des AVV als Anlage.
-   - Beweisbarkeit: Auftragsverarbeiter muss die Sub-AV-Vertraege auf Verlangen vorlegen.
+ - Vertraglich oder per Rechtsinstrument identische Pflichten beim Sub-AV.
+ - Praxis: Back-to-Back-Vertrag oder Inkorporation des AVV als Anlage.
+ - Beweisbarkeit: Auftragsverarbeiter muss die Sub-AV-Vertraege auf Verlangen vorlegen.
 
 5. **Drittlandbezug.**
-   - Sub-AV im Drittland: zusaetzlich SCC Beschluss (EU) 2021/914 (Module C2P oder P2P, je nach Konstellation).
-   - DPF nur fuer US-Sub-AV mit aktiver Selbstzertifizierung.
-   - TIA nach EDSA-Empfehlungen 01/2020.
+ - Sub-AV im Drittland: zusaetzlich SCC Beschluss (EU) 2021/914 (Module C2P oder P2P, je nach Konstellation).
+ - DPF nur fuer US-Sub-AV mit aktiver Selbstzertifizierung.
+ - TIA nach EDSA-Empfehlungen 01/2020.
 
 ## Mustertext / Template
 
@@ -278,28 +278,28 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
 ## Ablauf / Checkliste
 
 1. **Selbstzertifizierung pruefen.**
-   - Liste pruefen ueber dataprivacyframework.gov.
-   - Status: aktiv ("Active") versus inaktiv ("Inactive Participant").
-   - Geltungsbereich der Selbstzertifizierung: HR-Daten und/oder Non-HR-Daten?
-   - Im Listing fuer den konkreten Datentypus zertifiziert?
+ - Liste pruefen ueber dataprivacyframework.gov.
+ - Status: aktiv ("Active") versus inaktiv ("Inactive Participant").
+ - Geltungsbereich der Selbstzertifizierung: HR-Daten und/oder Non-HR-Daten?
+ - Im Listing fuer den konkreten Datentypus zertifiziert?
 
 2. **Vertragsabsicherung.**
-   - DPF-Selbstzertifizierung des Anbieters wird im AVV ausdruecklich referenziert.
-   - SCC nach Beschluss (EU) 2021/914 als Fallback fuer den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
-   - Transfer Impact Assessment auch bei DPF-Nutzung empfohlen, weil DPF politisch und rechtlich angreifbar bleibt (Schrems-Linie).
+ - DPF-Selbstzertifizierung des Anbieters wird im AVV ausdruecklich referenziert.
+ - SCC nach Beschluss (EU) 2021/914 als Fallback fuer den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
+ - Transfer Impact Assessment auch bei DPF-Nutzung empfohlen, weil DPF politisch und rechtlich angreifbar bleibt (Schrems-Linie).
 
 3. **Sub-AV-Kette pruefen.**
-   - Sub-AV des US-Anbieters mit weiterem US-Standort oder Drittland?
-   - Eigene DPF-Selbstzertifizierung jedes US-Sub-AV erforderlich.
-   - Fuer Nicht-US-Drittland-Sub-AV: SCC oder anderer Transfermechanismus.
+ - Sub-AV des US-Anbieters mit weiterem US-Standort oder Drittland?
+ - Eigene DPF-Selbstzertifizierung jedes US-Sub-AV erforderlich.
+ - Fuer Nicht-US-Drittland-Sub-AV: SCC oder anderer Transfermechanismus.
 
 4. **Monitoring.**
-   - DPF-Listing periodisch (mindestens jaehrlich) ueberpruefen.
-   - Pruefung vor jedem Vertragsschluss und vor wesentlicher Vertragsverlaengerung.
+ - DPF-Listing periodisch (mindestens jaehrlich) ueberpruefen.
+ - Pruefung vor jedem Vertragsschluss und vor wesentlicher Vertragsverlaengerung.
 
 5. **Eskalation.**
-   - Bei Suspendierung der DPF-Listung: sofortige Aktivierung des SCC-Fallback.
-   - Bei Unwirksamkeitserklaerung des DPF durch EuGH (analog Schrems II): umfassende Transferpruefung neu.
+ - Bei Suspendierung der DPF-Listung: sofortige Aktivierung des SCC-Fallback.
+ - Bei Unwirksamkeitserklaerung des DPF durch EuGH (analog Schrems II): umfassende Transferpruefung neu.
 
 ## Mustertext / Template
 
@@ -382,32 +382,32 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 ## Ablauf / Checkliste
 
 1. **Konzernstruktur erfassen.**
-   - Mutter, Toechter, Schwestern, Gemeinschaftsunternehmen.
-   - Wer ist Vertragspartner des Dienstleisters?
-   - Wer ist tatsaechlicher Verantwortlicher fuer die Daten?
+ - Mutter, Toechter, Schwestern, Gemeinschaftsunternehmen.
+ - Wer ist Vertragspartner des Dienstleisters?
+ - Wer ist tatsaechlicher Verantwortlicher fuer die Daten?
 
 2. **Vertragsstrukturen vergleichen.**
 
-   | Struktur | Beschreibung | Anwendungsfall |
-   |---|---|---|
-   | Hauptvertrag der Mutter mit Beitrittsmechanik | Mutter unterzeichnet, Toechter treten bei | Konzernlizenz Cloud-Dienst |
-   | Rahmen-AVV mit Einzelbestellungen | Jede Gesellschaft schliesst eigenen AVV unter Rahmen ab | Multi-Country-Rollout |
-   | Multilateraler AVV | Alle Konzerngesellschaften unterzeichnen gemeinsam | Wenige Gesellschaften, hohe Datenkritikalitaet |
-   | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter fuer Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
+ | Struktur | Beschreibung | Anwendungsfall |
+ |---|---|---|
+ | Hauptvertrag der Mutter mit Beitrittsmechanik | Mutter unterzeichnet, Toechter treten bei | Konzernlizenz Cloud-Dienst |
+ | Rahmen-AVV mit Einzelbestellungen | Jede Gesellschaft schliesst eigenen AVV unter Rahmen ab | Multi-Country-Rollout |
+ | Multilateraler AVV | Alle Konzerngesellschaften unterzeichnen gemeinsam | Wenige Gesellschaften, hohe Datenkritikalitaet |
+ | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter fuer Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
 
 3. **Rollenmix klaeren.**
-   - Mutter als Auftragsverarbeiterin der Toechter setzt voraus, dass die Mutter weisungsgebunden ist.
-   - Wenn die Mutter eigenstaendige Konzernzwecke verfolgt (Konzernsteuerung, Reporting), liegt regelmaessig Art. 26 DSGVO oder eigene Verantwortlichkeit vor.
-   - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: weite Auslegung gemeinsamer Verantwortlichkeit.
+ - Mutter als Auftragsverarbeiterin der Toechter setzt voraus, dass die Mutter weisungsgebunden ist.
+ - Wenn die Mutter eigenstaendige Konzernzwecke verfolgt (Konzernsteuerung, Reporting), liegt regelmaessig Art. 26 DSGVO oder eigene Verantwortlichkeit vor.
+ - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: weite Auslegung gemeinsamer Verantwortlichkeit.
 
 4. **Drittlandbezug pruefen.**
-   - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 fuer jede Konzerngesellschaft im Drittland.
-   - DPF nur fuer US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
+ - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 fuer jede Konzerngesellschaft im Drittland.
+ - DPF nur fuer US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
 
 5. **Beitrittsmechanik (Docking Clause).**
-   - Vergleichbar dem Mechanismus in den EU-SCC nach Beschluss (EU) 2021/914.
-   - Beitritt durch Unterzeichnung einer Beitrittsanlage.
-   - Wirkung: Beitretende Gesellschaft wird Vertragspartei mit allen Rechten und Pflichten.
+ - Vergleichbar dem Mechanismus in den EU-SCC nach Beschluss (EU) 2021/914.
+ - Beitritt durch Unterzeichnung einer Beitrittsanlage.
+ - Wirkung: Beitretende Gesellschaft wird Vertragspartei mit allen Rechten und Pflichten.
 
 ## Mustertext / Template
 
@@ -490,42 +490,42 @@ Strukturierte Prüfung eingehender oder ausgehender Auftragsverarbeitungsverträ
 
 2. **Art. 28 DSGVO Pflichtklausel-Check.** Jede gesetzlich vorgeschriebene Klausel prüfen:
 
-   | Art. 28 Abs. 3 DSGVO | Pflichtinhalt | Status |
-   |---|---|---|
-   | lit. a | Weisungsgebundenheit + Weisungsregister | ✓ / ⚠️ / ✗ |
-   | lit. b | Vertraulichkeitsverpflichtung verarbeitendes Personal | ✓ / ⚠️ / ✗ |
-   | lit. c | Technisch-organisatorische Maßnahmen (TOM) nach Art. 32 DSGVO | ✓ / ⚠️ / ✗ |
-   | lit. d | Sub-Auftragsverarbeiter-Regelung (allgemeine oder spezifische Genehmigung) | ✓ / ⚠️ / ✗ |
-   | lit. e | Unterstützung bei Betroffenenrechten | ✓ / ⚠️ / ✗ |
-   | lit. f | Unterstützung bei Art. 32–36 DSGVO (DSFA, Datenpanne, Vorab-Konsultation) | ✓ / ⚠️ / ✗ |
-   | lit. g | Löschung oder Rückgabe nach Vertragsende | ✓ / ⚠️ / ✗ |
-   | lit. h | Audit-Recht und Nachweispflichten | ✓ / ⚠️ / ✗ |
+ | Art. 28 Abs. 3 DSGVO | Pflichtinhalt | Status |
+ |---|---|---|
+ | lit. a | Weisungsgebundenheit + Weisungsregister | ✓ / ⚠️ / ✗ |
+ | lit. b | Vertraulichkeitsverpflichtung verarbeitendes Personal | ✓ / ⚠️ / ✗ |
+ | lit. c | Technisch-organisatorische Maßnahmen (TOM) nach Art. 32 DSGVO | ✓ / ⚠️ / ✗ |
+ | lit. d | Sub-Auftragsverarbeiter-Regelung (allgemeine oder spezifische Genehmigung) | ✓ / ⚠️ / ✗ |
+ | lit. e | Unterstützung bei Betroffenenrechten | ✓ / ⚠️ / ✗ |
+ | lit. f | Unterstützung bei Art. 32–36 DSGVO (DSFA, Datenpanne, Vorab-Konsultation) | ✓ / ⚠️ / ✗ |
+ | lit. g | Löschung oder Rückgabe nach Vertragsende | ✓ / ⚠️ / ✗ |
+ | lit. h | Audit-Recht und Nachweispflichten | ✓ / ⚠️ / ✗ |
 
 3. **Playbook-Abgleich.** Jede Klausel mit der eigenen Standardposition aus `CLAUDE.md` vergleichen:
-   - ✅ Standardposition = akzeptabel
-   - ⚠️ Fallback-Position = bedingt akzeptabel, mit Bedingungen
-   - 🔴 Unter Playbook-Minimum = nicht akzeptabel, Redline-Vorschlag
+ - ✅ Standardposition = akzeptabel
+ - ⚠️ Fallback-Position = bedingt akzeptabel, mit Bedingungen
+ - 🔴 Unter Playbook-Minimum = nicht akzeptabel, Redline-Vorschlag
 
 4. **Sub-Auftragsverarbeiter-Prüfung.**
-   - Allgemeine vs. spezifische Genehmigung (Art. 28 Abs. 2 DSGVO)?
-   - Wechselbenachrichtigungsfrist vorhanden? (Praxis: 4 Wochen; kürzer = Einspruchsrecht faktisch ausgehöhlt)
-   - Haftungsüberleitung auf Sub-AV in gleichem Umfang (Art. 28 Abs. 4 DSGVO)?
-   - Liste der Sub-AVs verfügbar / aktuell?
-   - Sub-AVs in Drittländern? → Weiterleitung zu Schritt 5 (TIA).
+ - Allgemeine vs. spezifische Genehmigung (Art. 28 Abs. 2 DSGVO)?
+ - Wechselbenachrichtigungsfrist vorhanden? (Praxis: 4 Wochen; kürzer = Einspruchsrecht faktisch ausgehöhlt)
+ - Haftungsüberleitung auf Sub-AV in gleichem Umfang (Art. 28 Abs. 4 DSGVO)?
+ - Liste der Sub-AVs verfügbar / aktuell?
+ - Sub-AVs in Drittländern? → Weiterleitung zu Schritt 5 (TIA).
 
 5. **Drittlandtransfer-Check (TIA).**
-   - Werden Daten außerhalb EU/EWR verarbeitet oder zugänglich gemacht?
-   - Welcher Transfermechanismus: EU-SCC (Beschluss 2021/914), DPF, BCR, Art. 49 Abs. 1 DSGVO Ausnahmen?
-   - EU-SCC: Modul korrekt (AV-zu-AV, Verantwortlicher-zu-AV)? Technische Anlage befüllt?
-   - DPF: Anbieter auf DPF-Liste eingetragen (data.privacyframework.gov)? `[Modellwissen – prüfen, da DPF ggf. geändert]`
-   - TIA nach EDSA-Empfehlungen 01/2020 erforderlich? (Ja, wenn SCC ohne zusätzliche Schutzmaßnahmen nicht ausreichen)
-   - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Werden Daten außerhalb EU/EWR verarbeitet oder zugänglich gemacht?
+ - Welcher Transfermechanismus: EU-SCC (Beschluss 2021/914), DPF, BCR, Art. 49 Abs. 1 DSGVO Ausnahmen?
+ - EU-SCC: Modul korrekt (AV-zu-AV, Verantwortlicher-zu-AV)? Technische Anlage befüllt?
+ - DPF: Anbieter auf DPF-Liste eingetragen (data.privacyframework.gov)? `[Modellwissen – prüfen, da DPF ggf. geändert]`
+ - TIA nach EDSA-Empfehlungen 01/2020 erforderlich? (Ja, wenn SCC ohne zusätzliche Schutzmaßnahmen nicht ausreichen)
+ - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 6. **Redline-Vorschläge.** Für jede 🔴-Klausel konkreten Änderungsvorschlag formulieren – in Vertragssprache, nicht als Memo-Kommentar.
 
 7. **Bewertungstabelle und Empfehlung.**
-   - Gesamt-Risikobewertung: 🔴 Blockend / 🟠 Hoch / 🟡 Mittel / 🟢 Gering
-   - Empfehlung: Unterzeichnen / Mit Redlines unterzeichnen / Ablehnen / Eskalieren
+ - Gesamt-Risikobewertung: 🔴 Blockend / 🟠 Hoch / 🟡 Mittel / 🟢 Gering
+ - Empfehlung: Unterzeichnen / Mit Redlines unterzeichnen / Ablehnen / Eskalieren
 
 ## Quellen und Zitierweise
 
@@ -621,17 +621,17 @@ Stand: 05/2026. Aktualität prüfen bei neuen EDSA-Leitlinien zur Auftragsverarb
 
 ```
 Prüfungsrichtung?
-  Eingehender AVV (wir sind Verantwortlicher) → Prüfe: Weisungsrecht vollständig?
-  Ausgehender AVV (wir sind Auftragsverarbeiter) → Prüfe: Pflichten Art. 28 Abs. 3 vollständig?
-  Unklar → Richtungserkennung über Parteienbezeichnung und Weisungsklausel
+ Eingehender AVV (wir sind Verantwortlicher) → Prüfe: Weisungsrecht vollständig?
+ Ausgehender AVV (wir sind Auftragsverarbeiter) → Prüfe: Pflichten Art. 28 Abs. 3 vollständig?
+ Unklar → Richtungserkennung über Parteienbezeichnung und Weisungsklausel
 
 Drittlandbezug?
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Nein → kein TIA erforderlich
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Nein → kein TIA erforderlich
 
 Sub-AVs mit Drittlandexposure?
-  Ja → Art. 28 Abs. 4 DSGVO: Pflichten vollständig übergeleitet?
-  Nein → nur Listenpflicht und Wechselbenachrichtigung prüfen
+ Ja → Art. 28 Abs. 4 DSGVO: Pflichten vollständig übergeleitet?
+ Nein → nur Listenpflicht und Wechselbenachrichtigung prüfen
 ```
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -647,16 +647,16 @@ Richtung: Verantwortlicher / Auftragsverarbeiter
 Gesamt-Risiko: ROT / ORANGE / GELB / GRUEN
 
 Pflichtklausel-Status (Art. 28 Abs. 3 DSGVO):
-| Buchstabe | Inhalt                     | Status | Kommentar |
+| Buchstabe | Inhalt | Status | Kommentar |
 |-----------|----------------------------|--------|-----------|
-| lit. a    | Weisungsgebundenheit       |        |           |
-| lit. b    | Vertraulichkeit            |        |           |
-| lit. c    | TOM Art. 32 DSGVO          |        |           |
-| lit. d    | Sub-AV-Regelung            |        |           |
-| lit. e    | Unterstuetzung Betr.-R.    |        |           |
-| lit. f    | Unterstuetzung Art. 32-36  |        |           |
-| lit. g    | Loeschung/Rueckgabe        |        |           |
-| lit. h    | Audit-Recht                |        |           |
+| lit. a | Weisungsgebundenheit | | |
+| lit. b | Vertraulichkeit | | |
+| lit. c | TOM Art. 32 DSGVO | | |
+| lit. d | Sub-AV-Regelung | | |
+| lit. e | Unterstuetzung Betr.-R. | | |
+| lit. f | Unterstuetzung Art. 32-36 | | |
+| lit. g | Loeschung/Rueckgabe | | |
+| lit. h | Audit-Recht | | |
 
 Drittlandtransfer: ja / nein
 TIA erforderlich: ja / nein

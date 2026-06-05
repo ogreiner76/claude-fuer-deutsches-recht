@@ -1,19 +1,19 @@
 ---
 name: lph8-bauueberwachung-dokumentenanalyse
-description: "Nutze dies, wenn Lph8 Bauueberwachung Dokumentenanalyse Aufmass, Lph8 Bauueberwachung Doppelhaus Reihenhaus, Lph8 Bauueberwachung Einfamilienhaus Holzbau, Lph8 Bauueberwachung Einfamilienhaus Massiv, Lph8 Bauueberwachung Einkaufszentrum Mall und 13 weitere Themen im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Lph8 Bauueberwachung Dokumentenanalyse Aufmass, Lph8 Bauueberwachung Doppelhaus Reihenhaus, Lph8 Bauueberwachung Einfamilienhaus Holzbau, Lph8 Bauueberwachung Einfamilienhaus Massiv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lph8 Bauueberwachung Dokumentenanalyse Aufmass, Lph8 Bauueberwachung Doppelhaus Reihenhaus, Lph8 Bauueberwachung Einfamilienhaus Holzbau, Lph8 Bauueberwachung Einfamilienhaus Massiv, Lph8 Bauueberwachung Einkaufszentrum Mall und 13 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lph8 Bauueberwachung Dokumentenanalyse Aufmass, Lph8 Bauueberwachung Doppelhaus Reihenhaus, Lph8 Bauueberwachung Einfamilienhaus Holzbau, Lph8 Bauueberwachung Einfamilienhaus Massiv, Lph8 Bauueberwachung Einkaufszentrum Mall und 13 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `lph8-bauueberwachung-dokumentenanalyse-aufmass` | Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion fuer Schlussrechnungspruefung. |
+| `lph8-bauueberwachung-dokumentenanalyse-aufmass` | Methodikskill HOAI LPH 8 — Strukturierter fuer Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion fuer Schlussrechnungspruefung. |
 | `lph8-bauueberwachung-doppelhaus-reihenhaus` | Bauueberwachung nach HOAI LPH 8 fuer Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport. |
 | `lph8-bauueberwachung-einfamilienhaus-holzbau` | Bauueberwachung nach HOAI LPH 8 fuer Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe Dokumentation mit Dalux, PlanRadar und Blower-Door-Pruefprotokoll. |
 | `lph8-bauueberwachung-einfamilienhaus-massiv` | Bauueberwachung nach HOAI LPH 8 fuer Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protokollen, Betonpruefung und digitaler Maengeldokumentation mit PlanRadar und RIB iTWO. |
@@ -23,7 +23,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `lph8-bauueberwachung-fassade-wdvs-brandsperren` | Bauueberwachung HOAI LPH 8 fuer Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser. |
 | `lph8-bauueberwachung-fenster-tueren-anschluss` | Bauueberwachung HOAI LPH 8 fuer Fenster- und Tuereinbauten — Kontrolle Einbauanschluss nach RAL-Leitfaden Fenstereinbau 3-Ebenen-Konzept aussen schlagregensDicht-innen dampfdicht, Fensterbank- und Sturzdichtung, Befestigungsnachweis Rahmendubel nach EN 14592, Schallschutz-Einbauprotokoll nach DIN 4109, einbruchhemmende Verglasung nach RC-Klassen sowie Aufmass und Abnahme mit Blower-Door-Messung nach DIN EN ISO 9972. |
 | `lph8-bauueberwachung-flughafen-vorfeld-tower` | Bauueberwachung nach HOAI LPH 8 fuer Flughafenvorfelder und Towerbauten — Kontrolle von Vorfeldbeton C35/45 XF4 XD3 nach DIN EN 206 und DIN 1045-2, Befeuerungsanlagen nach ICAO Annex 14, ILS-Schutzbereiche nach LuftVO sowie koordinierte Abnahme mit Luftfahrtbehoerde. Umfasst Drohnendokumentation, SAP-PM-Mangelmanagement und VOB/C-Abnahme in sicherheitskritischer Luftfahrtumgebung. |
-| `lph8-bauueberwachung-fotoanalyse-baustellen-drohne` | Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM fuer Mangelmanagement bei Bauueberwachung. |
+| `lph8-bauueberwachung-fotoanalyse-baustellen-drohne` | Methodikskill HOAI LPH 8 — Strukturierter fuer die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM fuer Mangelmanagement bei Bauueberwachung. |
 | `lph8-bauueberwachung-gartenhaus-carport` | Bauueberwachung gemaess HOAI LPH 8 fuer Gartenhaeuser und Carports aus Holz- oder Stahl-Leichtbau — Fundamentpruefung nach DIN 1054, Holzschutzklassen nach DIN 68800, Verbindungsmittel-Kontrolle und Abstandsflaechennachweis. Unterstuetzt private und kleingewerbliche Bauherren mit strukturierter Maengeldokumentation und digitaler Fotodokumentation ueber PlanRadar oder Dalux. |
 | `lph8-bauueberwachung-gewerbehalle-stahlbau` | Bauueberwachung nach HOAI LPH 8 fuer Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mit systematischer Maengeldokumentation und SAP-PM-Integration fuer Betreiber. |
 | `lph8-bauueberwachung-hafen-spundwand-kai` | Bauueberwachung HOAI LPH 8 fuer Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle C35/45 XS3 XF4, Korrosionsschutz Riffelblech nach DIN EN ISO 12944, kathodischer Korrosionsschutz sowie koordinierte Abnahme mit Hafen- und Wasserbehoerde. |
@@ -41,7 +41,7 @@ Für **Lph8 Bauueberwachung Dokumentenanalyse Aufmass, Lph8 Bauueberwachung Dopp
 
 ## 1. `lph8-bauueberwachung-dokumentenanalyse-aufmass`
 
-**Fokus:** Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion fuer Schlussrechnungspruefung.
+**Fokus:** Methodikskill HOAI LPH 8 — Strukturierter fuer Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion fuer Schlussrechnungspruefung.
 
 # Dokumentenanalyse und Aufmass in der Bauueberwachung LPH 8
 
@@ -863,11 +863,11 @@ Tagesprotokoll Betonage mit Frischbetonkennwerten, Temperaturprotokoll und Charg
 
 ## 11. `lph8-bauueberwachung-fotoanalyse-baustellen-drohne`
 
-**Fokus:** Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM fuer Mangelmanagement bei Bauueberwachung.
+**Fokus:** Methodikskill HOAI LPH 8 — Strukturierter fuer die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM fuer Mangelmanagement bei Bauueberwachung.
 
 # Fotoanalyse Baustellen-Drohne in der Bauueberwachung LPH 8
 
-Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geworden: Sie ermöglichen die flaechendeckende Dokumentation grosser Baustellen in wenigen Stunden, decken Maengel auf, die vom Boden aus unsichtbar sind, und liefern massstabstreue Orthofotos fuer As-Built-Dokumentation und Aufmass. Dieser Skill beschreibt den vollstaendigen Workflow von der Flugplanung bis zur SAP-PM-Meldungserstellung.
+Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geworden: Sie ermöglichen die flaechendeckende Dokumentation grosser Baustellen in wenigen Stunden, decken Maengel auf, die vom Boden aus unsichtbar sind, und liefern massstabstreue Orthofotos fuer As-Built-Dokumentation und Aufmass. Dieser Skill beschreibt den vollstaendigen von der Flugplanung bis zur SAP-PM-Meldungserstellung.
 
 ## Bauwerk und Auftrag
 

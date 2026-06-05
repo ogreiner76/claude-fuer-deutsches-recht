@@ -1,13 +1,13 @@
 ---
 name: hochrisiko-art-abs-aufzeichnungspflichten
-description: "Nutze dies, wenn Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10 im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10 prüfen.; Erstelle eine Arbeitsfassung zu Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -384,7 +384,7 @@ Gepruefte Norm(en): [Art. 12 Rn. 4]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -402,7 +402,7 @@ Geprueft: [NAME], [DATUM]
 
 Sie haben festgestellt: das System ist Hochrisiko nach Art. 6 Abs. 1 oder Abs. 2 i.V.m. Anhang I/III KI-VO. Die Rückausnahme nach Art. 6 Abs. 3 KI-VO greift nicht. **Was jetzt?**
 
-Dieser Skill liefert den vollständigen Mandanten-Workflow von "Hochrisiko-Diagnose" bis "Marktreife mit CE-Kennzeichnung". Ziel ist Entdramatisierung: jeder Schritt ist mechanisch abarbeitbar.
+Dieser Skill liefert den vollständigen Mandanten-von "Hochrisiko-Diagnose" bis "Marktreife mit CE-Kennzeichnung". Ziel ist Entdramatisierung: jeder Schritt ist mechanisch abarbeitbar.
 
 ---
 
@@ -644,7 +644,7 @@ Dieser Skill liefert den vollständigen Mandanten-Workflow von "Hochrisiko-Diagn
 
 ---
 
-## Ergänzungs-Workflow für Betreiber
+## Ergänzungs-für Betreiber
 
 Wer das System **einsetzt** (Art. 3 Nr. 4 KI-VO), durchläuft einen kürzeren Workflow:
 
@@ -733,7 +733,7 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 
 ## Querverweise
 
-- `entscheidungsbaum-ki-vo-gesamt-workflow` — Master-Workflow vorgelagert
+- `entscheidungsbaum-ki-vo-gesamt-workflow` — Master-vorgelagert
 - `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` — alternative Pfade
 - `rueckausnahme-art-6-abs-3` — falls Diagnose noch unsicher
 - `sanktionen-art-99-bis-101` — was passiert, wenn nichts unternommen wird
@@ -775,7 +775,7 @@ Gepruefte Norm(en): [Art. 9 Rn. 1]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -901,7 +901,7 @@ Gepruefte Norm(en): [Art. 10 Rn. 6]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

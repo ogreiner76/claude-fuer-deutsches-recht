@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-erste-stufe
-description: "Workflow-Skill zu forderungsschreiben erste stufe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu forderungsschreiben erste stufe: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Forderungsschreiben — Erste Stufe
@@ -24,13 +24,13 @@ description: "Workflow-Skill zu forderungsschreiben erste stufe. Nutzt Normtext,
 [Datum]
 
 An: [Airline-Name]
-   [Kundenservice-Postfach]
-   [Adresse]
-   [Land]
+ [Kundenservice-Postfach]
+ [Adresse]
+ [Land]
 
 Betreff: Forderung Ausgleichszahlung gemäß Art. 7 VO (EG) Nr. 261/2004
-         Flug [Flugnummer] vom [Datum]
-         Buchungscode [PNR]
+ Flug [Flugnummer] vom [Datum]
+ Buchungscode [PNR]
 ```
 
 ### 2. Sachverhalt knapp
@@ -42,10 +42,10 @@ ich nehme Bezug auf den unter dem Buchungscode [PNR] gebuchten Flug [Flugnummer]
 am [Datum] von [Abflughafen] nach [Zielflughafen] mit Ihrer Fluggesellschaft.
 
 Folgende Passagiere waren betroffen:
-  - [Name 1], geboren [Datum 1]
-  - [Name 2], geboren [Datum 2]
-  - [Name 3], geboren [Datum 3] (minderjährig, vertreten durch
-    die unterzeichnenden Erziehungsberechtigten)
+ - [Name 1], geboren [Datum 1]
+ - [Name 2], geboren [Datum 2]
+ - [Name 3], geboren [Datum 3] (minderjährig, vertreten durch
+ die unterzeichnenden Erziehungsberechtigten)
 
 Vollmachten der Mitreisenden sind beigefuegt (Anlagen K1 K2 ...).
 
@@ -91,9 +91,9 @@ Hiermit fordere ich Sie auf den Gesamtausgleich in Höhe von [X] EUR sowie
 gegebenenfalls Auslagenersatz für [Hotel Verpflegung Telefon] in Höhe von
 [Y] EUR — Belege beiliegend — auf folgendes Konto zu überweisen:
 
-  Inhaber: [Name]
-  IBAN: DE [...]
-  BIC: [...]
+ Inhaber: [Name]
+ IBAN: DE [...]
+ BIC: [...]
 
 bis spaetestens [Datum + 14 Tage].
 
@@ -108,12 +108,12 @@ Klage zum zuständigen Amtsgericht erheben mit den hieraus folgenden Mehrkosten
 
 ```
 Anlagen:
-  K1   Buchungsbestätigung Flug [Flugnummer] vom [Datum]
-  K2   Boardingpaesse aller Passagiere
-  K3   Stoerungsmitteilung der Airline (sofern vorhanden)
-  K4   Belege Auslagen Hotel Verpflegung Telefon
-  K5   Vollmacht [Name Passagier 2]
-  K6   Vollmacht [Name Passagier 3]
+ K1 Buchungsbestätigung Flug [Flugnummer] vom [Datum]
+ K2 Boardingpaesse aller Passagiere
+ K3 Stoerungsmitteilung der Airline (sofern vorhanden)
+ K4 Belege Auslagen Hotel Verpflegung Telefon
+ K5 Vollmacht [Name Passagier 2]
+ K6 Vollmacht [Name Passagier 3]
 ```
 
 ### 6. Schluss
@@ -164,9 +164,9 @@ Unmittelbar nach Erstellung des Schreibens den Skill `fluggastrechte-anlagen-bau
 schriftsatz: forderung-erste-stufe-<datum>.docx
 rohbelege_verzeichnis: <fall>/belege/
 ausgabeverzeichnis: <fall>/anlagen/
-bundle: true   # erzeugt zusätzlich Schriftsatz_mit_Anlagen.pdf
+bundle: true # erzeugt zusätzlich Schriftsatz_mit_Anlagen.pdf
 schriftgrad_stempel: 12
-schrift_stempel: Arial-Bold   # Arial 12 FETT oben rechts
+schrift_stempel: Arial-Bold # Arial 12 FETT oben rechts
 bezeichnung: "Anlage K"
 ```
 

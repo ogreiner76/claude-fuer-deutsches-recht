@@ -1,6 +1,6 @@
 ---
 name: rom-059-sklaverei-rechtshistorisch-kritisch
-description: "Römisches Recht: Sklaverei Rechtshistorisch Kritisch. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Sklaverei Rechtshistorisch Kritisch. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Sklaverei Rechtshistorisch Kritisch

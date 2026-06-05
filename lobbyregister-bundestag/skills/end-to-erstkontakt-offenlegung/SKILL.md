@@ -1,19 +1,19 @@
 ---
 name: end-to-erstkontakt-offenlegung
-description: "Nutze dies, wenn End To End Registrierungswizard, Erstkontakt Offenlegung im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte End To End Registrierungswizard, Erstkontakt Offenlegung prüfen.; Erstelle eine Arbeitsfassung zu End To End Registrierungswizard, Erstkontakt Offenlegung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei End To End Registrierungswizard, Erstkontakt Offenlegung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # End To End Registrierungswizard, Erstkontakt Offenlegung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **End To End Registrierungswizard, Erstkontakt Offenlegung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `end-to-end-registrierungswizard` | Geführter Gesamtworkflow mit 50-Skill-Routing: Pflicht, Datenraum, Portal, Freigabe, Aktualisierung, Kodex und Monitoring. Output vollständige Registrierungsmappe. |
+| `end-to-end-registrierungswizard` | Geführter Gesamtmit 50-Skill-Routing: Pflicht, Datenraum, Portal, Freigabe, Aktualisierung, Kodex und Monitoring. Output vollständige Registrierungsmappe. |
 | `erstkontakt-offenlegung` | Formuliert Offenlegung beim erstmaligen Kontakt: Identität, Anliegen, Auftraggeber, Registereintrag und Verhaltenskodizes. Output Kontaktbausteine. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **End To End Registrierungswizard, Erstkontakt Offenlegung** zuerst das Arb
 
 ## 1. `end-to-end-registrierungswizard`
 
-**Fokus:** Geführter Gesamtworkflow mit 50-Skill-Routing: Pflicht, Datenraum, Portal, Freigabe, Aktualisierung, Kodex und Monitoring. Output vollständige Registrierungsmappe.
+**Fokus:** Geführter Gesamtmit 50-Skill-Routing: Pflicht, Datenraum, Portal, Freigabe, Aktualisierung, Kodex und Monitoring. Output vollständige Registrierungsmappe.
 
 # End-to-End Registrierungswizard
 

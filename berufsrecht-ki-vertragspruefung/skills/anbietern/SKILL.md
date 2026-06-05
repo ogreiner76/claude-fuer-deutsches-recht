@@ -1,12 +1,12 @@
 ---
 name: anbietern
-description: "Nutze dies, wenn Anbietern: Schriftsatz-, Brief- und Memo-Bausteine im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Anbietern: Schriftsatz-, Brief- und Memo-Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Anbietern: Schriftsatz-, Brief- und Memo-Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anbietern: Schriftsatz-, Brief- und Memo-Bausteine: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Anbietern: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Anbietern: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Anbietern: Schriftsatz-, Brief- und Memo-Bausteine / spezial anbietern schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Anbietern: Schriftsatz-, Brief- und Memo-Bausteine / anbietern schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

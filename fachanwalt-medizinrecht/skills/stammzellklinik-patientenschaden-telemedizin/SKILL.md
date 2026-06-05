@@ -1,13 +1,13 @@
 ---
 name: stammzellklinik-patientenschaden-telemedizin
-description: "Nutze dies, wenn Stammzellklinik Patientenschaden, Telemedizin Standardhaftung, Fachanwalt Medizinrecht Approbations Widerspruch, Medr Mvz Strukturierung Spezial im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Stammzellklinik Patientenschaden, Telemedizin Standardhaftung, Fachanwalt Medizinrecht Approbations Widerspruch, Medr Mvz Strukturierung Spezial prüfen.; Erstelle eine Arbeitsfassung zu Stammzellklinik Patientenschaden, Telemedizin Standardhaftung, Fachanwalt Medizinrecht Approbations Widerspruch, Medr Mvz Strukturierung Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stammzellklinik Patientenschaden, Telemedizin Standardhaftung, Fachanwalt Medizinrecht Approbations Widerspruch, Medr Mvz Strukturierung Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stammzellklinik Patientenschaden, Telemedizin Standardhaftung, Fachanwalt Medizinrecht Approbations Widerspruch, Medr Mvz Strukturierung Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -181,19 +181,19 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 
 - Schwere strafrechtliche Verfehlung
 - Beispiele:
-  - Toetungs-Delikte
-  - Schwere Sexualstraftaten
-  - Vermögens-Delikte mit Patienten-Geld (Abrechnungs-Betrug)
-  - BtmG-Delikte groß
-  - Steuerhinterziehung von Bedeutung
+ - Toetungs-Delikte
+ - Schwere Sexualstraftaten
+ - Vermögens-Delikte mit Patienten-Geld (Abrechnungs-Betrug)
+ - BtmG-Delikte groß
+ - Steuerhinterziehung von Bedeutung
 
 ### Unzuverlaessigkeit
 
 - Persönliche Eigenschaften unerlaubt
 - Beispiele:
-  - Sucht-Erkrankung
-  - Psychische Erkrankung Behandlungs-relevant
-  - Geistige Defekte
+ - Sucht-Erkrankung
+ - Psychische Erkrankung Behandlungs-relevant
+ - Geistige Defekte
 
 ### BAG-/BVerwG-Linie
 

@@ -1,6 +1,6 @@
 ---
 name: rom-022-werk-und-diensttypen
-description: "Römisches Recht: Werk Und Diensttypen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Werk Und Diensttypen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Werk Und Diensttypen

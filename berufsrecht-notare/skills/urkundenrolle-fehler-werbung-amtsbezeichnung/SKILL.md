@@ -1,13 +1,13 @@
 ---
 name: urkundenrolle-fehler-werbung-amtsbezeichnung
-description: "Nutze dies, wenn Notare Urkundenrolle Fehler Kammerantwort Und Verfahrensstrateg, Notare Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens, Notare Erbvertrag Testament Belehrung Kammerantwort Und Verfahr, Notare Erbvertrag Testament Belehrung Organisationspflicht Und im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Notare Urkundenrolle Fehler Kammerantwort Und Verfahrensstrateg, Notare Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens, Notare Erbvertrag Testament Belehrung Kammerantwort Und Verfahr, Notare Erbvertrag Testament Belehrung Organisationspflicht Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Urkundenrolle Fehler Kammerantwort Und Verfahrensstrateg, Notare Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens, Notare Erbvertrag Testament Belehrung Kammerantwort Und Verfahr, Notare Erbvertrag Testament Belehrung Organisationspflicht Und
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Urkundenrolle Fehler Kammerantwort Und Verfahrensstrateg, Notare Werbung Und Amtsbezeichnung Kammerantwort Und Verfahrens, Notare Erbvertrag Testament Belehrung Kammerantwort Und Verfahr, Notare Erbvertrag Testament Belehrung Organisationspflicht Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

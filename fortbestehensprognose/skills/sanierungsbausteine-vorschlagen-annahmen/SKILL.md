@@ -1,13 +1,13 @@
 ---
 name: sanierungsbausteine-vorschlagen-annahmen
-description: "Nutze dies, wenn Sanierungsbausteine Vorschlagen, Spezial Annahmen Behörden Gericht Und Registerweg, Spezial Bilanzstatus Risikoampel Und Gegenargumente im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Bitte Sanierungsbausteine Vorschlagen, Spezial Annahmen Behörden Gericht Und Registerweg, Spezial Bilanzstatus Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Sanierungsbausteine Vorschlagen, Spezial Annahmen Behörden Gericht Und Registerweg, Spezial Bilanzstatus Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sanierungsbausteine Vorschlagen, Annahmen Behörden Gericht Und Registerweg, Bilanzstatus Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Sanierungsbausteine Vorschlagen, Spezial Annahmen Behörden Gericht Und Registerweg, Spezial Bilanzstatus Risikoampel Und Gegenargumente
+# Sanierungsbausteine Vorschlagen, Annahmen Behörden Gericht Und Registerweg, Bilanzstatus Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sanierungsbausteine Vorschlagen, Annahmen Behörden Gericht Und Registerweg, Bilanzstatus Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Sanierungsbausteine Vorschlagen, Spezial Annahmen Behörden Gericht Und Registerweg, Spezial Bilanzstatus Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fortbestehensprognose` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sanierungsbausteine Vorschlagen, Annahmen Behörden Gericht Und Registerweg, Bilanzstatus Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fortbestehensprognose` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -105,41 +105,41 @@ Aus der Zusammenführung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt 
 
 ```yaml
 empfehlungen:
-  zur-erreichung-positive-prognose:
-    pflicht:
-      - baustein: patronatserklaerung-extern-hart
-        umfang: 200000 EUR
-        patron: Hauptgesellschafter
-        skill: patronatserklaerung-extern-hart-erzeugen
-        prioritaet: kritisch
-        umsetzung-bis: 2026-05-27
+ zur-erreichung-positive-prognose:
+ pflicht:
+ - baustein: patronatserklaerung-extern-hart
+ umfang: 200000 EUR
+ patron: Hauptgesellschafter
+ skill: patronatserklaerung-extern-hart-erzeugen
+ prioritaet: kritisch
+ umsetzung-bis: 2026-05-27
 
-    empfohlen:
-      - baustein: stundungsanfrage-glaeubiger
-        anzahl: 5 Lieferanten
-        skill: stundungsanfrage-glaeubiger
-        prioritaet: hoch
-        umsetzung-bis: 2026-06-15
+ empfohlen:
+ - baustein: stundungsanfrage-glaeubiger
+ anzahl: 5 Lieferanten
+ skill: stundungsanfrage-glaeubiger
+ prioritaet: hoch
+ umsetzung-bis: 2026-06-15
 
-      - baustein: gesellschafterdarlehen-rangruecktritt
-        umfang: 120000 EUR bestehend
-        skill: gesellschafterdarlehen-rangruecktritt
-        prioritaet: hoch
-        umsetzung-bis: 2026-05-25 notariell
+ - baustein: gesellschafterdarlehen-rangruecktritt
+ umfang: 120000 EUR bestehend
+ skill: gesellschafterdarlehen-rangruecktritt
+ prioritaet: hoch
+ umsetzung-bis: 2026-05-25 notariell
 
-    optional-bei-eskalation:
-      - baustein: forderungsverzicht-besserungsschein
-        umfang: 50000 EUR Bank
-        skill: forderungsverzicht-besserungsschein
-        prioritaet: mittel
-        umsetzung-bis: 2026-06-30
+ optional-bei-eskalation:
+ - baustein: forderungsverzicht-besserungsschein
+ umfang: 50000 EUR Bank
+ skill: forderungsverzicht-besserungsschein
+ prioritaet: mittel
+ umsetzung-bis: 2026-06-30
 
-  ergebnis-nach-massnahmen:
-    bilanzbasis-vorher: positiv 133000 EUR
-    bilanzbasis-nach-massnahmen: positiv 333000 EUR (zusätzlich Patronage 200000)
-    liquiditaet-vorher-stress: negativ
-    liquiditaet-nach-massnahmen-stress: positiv
-    gesamtprognose: positiv mit Maßnahmen
+ ergebnis-nach-massnahmen:
+ bilanzbasis-vorher: positiv 133000 EUR
+ bilanzbasis-nach-massnahmen: positiv 333000 EUR (zusätzlich Patronage 200000)
+ liquiditaet-vorher-stress: negativ
+ liquiditaet-nach-massnahmen-stress: positiv
+ gesamtprognose: positiv mit Maßnahmen
 ```
 
 ## Zeitliche Reihenfolge
@@ -183,7 +183,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 # Annahmen: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Annahmen: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Annahmen: Behörden-, Gerichts- oder Registerweg / spezial annahmen behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Annahmen: Behörden-, Gerichts- oder Registerweg / annahmen behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -224,7 +224,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien / spezial bilanzstatus risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien / bilanzstatus risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -260,13 +260,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Bilanzstatus § 19 InsO — zweistufige Prüfung
 1. **Rechnerische Überschuldung** (Stufe 1):
-   - Liquidationswertbilanz (nicht Fortführungsbilanz!) — Vermögensgegenstände zu Veräußerungswerten, Verbindlichkeiten in voller Höhe.
-   - Eigenkapital negativ → rechnerische Überschuldung.
-   - Wichtige Position: Stille Reserven aktivieren, Pensionsrückstellungen prüfen, immaterielle Vermögensgegenstände (Goodwill bei going-concern, Veräußerungswert bei Liquidation).
+ - Liquidationswertbilanz (nicht Fortführungsbilanz!) — Vermögensgegenstände zu Veräußerungswerten, Verbindlichkeiten in voller Höhe.
+ - Eigenkapital negativ → rechnerische Überschuldung.
+ - Wichtige Position: Stille Reserven aktivieren, Pensionsrückstellungen prüfen, immaterielle Vermögensgegenstände (Goodwill bei going-concern, Veräußerungswert bei Liquidation).
 2. **Fortbestehensprognose** (Stufe 2):
-   - Prognosezeitraum **12 Monate** (§ 19 Abs. 2 S. 1 InsO seit SanInsFoG).
-   - Maßstab: „überwiegende Wahrscheinlichkeit" der Fortführungsfähigkeit — quantitativ > 50 Prozent.
-   - Bei positiver Prognose: keine Überschuldung trotz rechnerischer Überschuldung.
+ - Prognosezeitraum **12 Monate** (§ 19 Abs. 2 S. 1 InsO seit SanInsFoG).
+ - Maßstab: „überwiegende Wahrscheinlichkeit" der Fortführungsfähigkeit — quantitativ > 50 Prozent.
+ - Bei positiver Prognose: keine Überschuldung trotz rechnerischer Überschuldung.
 
 ## Verteidigungslinien Geschäftsführer
 - **Rangrücktritt** § 39 Abs. 2 InsO: Gesellschafterforderungen werden als Eigenkapital behandelt — neutralisiert rechnerische Überschuldung. Achtung: nur **qualifizierter** Rangrücktritt zählt (nicht nur „bis zur Sanierung", sondern unter Beschränkung auf freies Vermögen).

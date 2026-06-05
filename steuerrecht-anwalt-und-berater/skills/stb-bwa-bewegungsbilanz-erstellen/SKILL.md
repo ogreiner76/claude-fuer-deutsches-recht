@@ -57,17 +57,17 @@ Die Bewegungsbilanz stellt die Veraenderungen einzelner Bilanzposten zwischen zw
 
 ```
 AKTIVA-VERAENDERUNG:
-Position                        Anfang     Ende    Veraenderung
+Position Anfang Ende Veraenderung
 Anlagevermoegen
-  Sachanlagen                   [X]        [Y]      [+/-Z]
-  Immaterielle WG               [X]        [Y]      [+/-Z]
-  Finanzanlagen                 [X]        [Y]      [+/-Z]
+ Sachanlagen [X] [Y] [+/-Z]
+ Immaterielle WG [X] [Y] [+/-Z]
+ Finanzanlagen [X] [Y] [+/-Z]
 Umlaufvermoegen
-  Vorraete                      [X]        [Y]      [+/-Z]
-  Forderungen LuL               [X]        [Y]      [+/-Z]
-  Sonstige Forderungen          [X]        [Y]      [+/-Z]
-  Liquide Mittel                [X]        [Y]      [+/-Z]
-Aktive Rechnungsabgrenzung      [X]        [Y]      [+/-Z]
+ Vorraete [X] [Y] [+/-Z]
+ Forderungen LuL [X] [Y] [+/-Z]
+ Sonstige Forderungen [X] [Y] [+/-Z]
+ Liquide Mittel [X] [Y] [+/-Z]
+Aktive Rechnungsabgrenzung [X] [Y] [+/-Z]
 ```
 
 ### Phase 3 — Strukturierung Passiva
@@ -75,16 +75,16 @@ Aktive Rechnungsabgrenzung      [X]        [Y]      [+/-Z]
 ```
 PASSIVA-VERAENDERUNG:
 Eigenkapital
-  Gezeichnetes Kapital          [X]        [Y]      [+/-Z]
-  Kapitalruecklagen             [X]        [Y]      [+/-Z]
-  Gewinn-/Verlustruecklage      [X]        [Y]      [+/-Z]
-  Jahresergebnis                [X]        [Y]      [+/-Z]
-Rueckstellungen                 [X]        [Y]      [+/-Z]
+ Gezeichnetes Kapital [X] [Y] [+/-Z]
+ Kapitalruecklagen [X] [Y] [+/-Z]
+ Gewinn-/Verlustruecklage [X] [Y] [+/-Z]
+ Jahresergebnis [X] [Y] [+/-Z]
+Rueckstellungen [X] [Y] [+/-Z]
 Verbindlichkeiten
-  Kreditinstitute               [X]        [Y]      [+/-Z]
-  Lieferanten                   [X]        [Y]      [+/-Z]
-  Sonstige Verbindlichkeiten    [X]        [Y]      [+/-Z]
-Passive Rechnungsabgrenzung     [X]        [Y]      [+/-Z]
+ Kreditinstitute [X] [Y] [+/-Z]
+ Lieferanten [X] [Y] [+/-Z]
+ Sonstige Verbindlichkeiten [X] [Y] [+/-Z]
+Passive Rechnungsabgrenzung [X] [Y] [+/-Z]
 ```
 
 ### Phase 4 — Mittelherkunft und Mittelverwendung

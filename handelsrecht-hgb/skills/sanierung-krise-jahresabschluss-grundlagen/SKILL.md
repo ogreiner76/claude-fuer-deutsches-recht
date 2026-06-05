@@ -1,13 +1,13 @@
 ---
 name: sanierung-krise-jahresabschluss-grundlagen
-description: "Nutze dies, wenn Hgb Sanierung Und Krise, Jahresabschluss Hgb Grundlagen im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Hgb Sanierung Und Krise, Jahresabschluss Hgb Grundlagen prüfen.; Erstelle eine Arbeitsfassung zu Hgb Sanierung Und Krise, Jahresabschluss Hgb Grundlagen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hgb Sanierung Und Krise, Jahresabschluss Hgb Grundlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hgb Sanierung Und Krise, Jahresabschluss Hgb Grundlagen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hgb Sanierung Und Krise, Jahresabschluss Hgb Grundlagen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

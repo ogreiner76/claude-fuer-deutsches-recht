@@ -1,13 +1,13 @@
 ---
 name: datenschutz-schufa-scoring-art22
-description: "Nutze dies, wenn Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl prüfen.; Erstelle eine Arbeitsfassung zu Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutz Schufa Insolvenzdaten Löschung, Datenschutz Scoring Art22 Schufa C63421, Datenschutzrecht Anpassen, Datenschutzrecht Mandat Arbeitsbereich, Dpa En Controller Controller Tmpl** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -113,18 +113,18 @@ Gezieltes Aktualisieren einzelner Abschnitte von `CLAUDE.md`, ohne das gesamte K
 ## Ablauf
 
 1. **Abschnitt identifizieren.** Nutzer nennt, was geändert werden soll. Bei Unklarheit eine strukturierte Liste der änderbaren Bereiche anzeigen:
-   - Organisationsdaten (Name, Rechtsform, Standort)
-   - Zuständige Aufsichtsbehörde
-   - Rolle (Verantwortlicher / Auftragsverarbeiter)
-   - Datenschutzbeauftragte·r (Name, intern/extern)
-   - Rechtsgrundlagen-Übersicht (Art. 6/9 DSGVO)
-   - AVV-Playbook (Klausel-Positionen, Deal-Breaker)
-   - Drittlandtransfer-Mechanismen (SCC, DPF, BCR)
-   - Systemliste für Betroffenenanfragen
-   - DSFA-Format und Auslöser
-   - Datenschutzerklärungsangaben
-   - Ausgaben-Konfiguration (Ordner, Namenskonvention)
-   - Integrations-Einstellungen
+ - Organisationsdaten (Name, Rechtsform, Standort)
+ - Zuständige Aufsichtsbehörde
+ - Rolle (Verantwortlicher / Auftragsverarbeiter)
+ - Datenschutzbeauftragte·r (Name, intern/extern)
+ - Rechtsgrundlagen-Übersicht (Art. 6/9 DSGVO)
+ - AVV-Playbook (Klausel-Positionen, Deal-Breaker)
+ - Drittlandtransfer-Mechanismen (SCC, DPF, BCR)
+ - Systemliste für Betroffenenanfragen
+ - DSFA-Format und Auslöser
+ - Datenschutzerklärungsangaben
+ - Ausgaben-Konfiguration (Ordner, Namenskonvention)
+ - Integrations-Einstellungen
 
 2. **Aktuellen Wert zeigen.** Den aktuellen Wert aus `CLAUDE.md` lesen und ausgeben, damit der Nutzer die Änderung klar gegen den Ist-Zustand vergleichen kann.
 
@@ -416,11 +416,11 @@ CONTROLLER-TO-CONTROLLER DATA SHARING AGREEMENT
 This Controller-to-Controller Data Sharing Agreement ("Agreement") is entered into
 between:
 
-  (1) [Party A Legal Name], a company organised under the laws of [jurisdiction],
-      ("Party A"); and
+ (1) [Party A Legal Name], a company organised under the laws of [jurisdiction],
+ ("Party A"); and
 
-  (2) [Party B Legal Name], a company organised under the laws of [jurisdiction],
-      ("Party B").
+ (2) [Party B Legal Name], a company organised under the laws of [jurisdiction],
+ ("Party B").
 
 Recital A. The Parties wish to share personal data within the meaning of Article 4
 (1) GDPR for the purposes described in Annex I.
@@ -430,71 +430,71 @@ GDPR. This Agreement does not establish joint controllership under Article 26 GD
 
 1. SCOPE
 1.1 The Parties shall share the categories of personal data described in Annex I
-    for the purposes and on the lawful bases set out therein.
+ for the purposes and on the lawful bases set out therein.
 
 2. INDEPENDENT CONTROLLERSHIP
 2.1 Each Party shall act as an independent controller and shall comply with the
-    GDPR in its own right.
+ GDPR in its own right.
 2.2 Each Party is solely responsible for identifying and documenting the lawful
-    basis under Article 6 GDPR and, where applicable, Article 9 GDPR.
+ basis under Article 6 GDPR and, where applicable, Article 9 GDPR.
 
 3. INFORMATION DUTIES (Art. 13 / 14 GDPR)
 3.1 Each Party shall provide its own data subjects with the information required
-    under Articles 13 and 14 GDPR, including the disclosure of personal data to
-    the other Party as a recipient.
+ under Articles 13 and 14 GDPR, including the disclosure of personal data to
+ the other Party as a recipient.
 
 4. SECURITY (Art. 32 GDPR)
 4.1 Each Party shall implement appropriate technical and organisational measures
-    in accordance with Article 32 GDPR. The minimum baseline is set out in Annex II.
+ in accordance with Article 32 GDPR. The minimum baseline is set out in Annex II.
 
 5. PERSONAL DATA BREACH (Art. 33 / 34 GDPR)
 5.1 The Party that becomes aware of a personal data breach affecting the shared
-    data shall notify the other Party without undue delay and in any event within
-    twenty-four (24) hours after becoming aware of the breach.
+ data shall notify the other Party without undue delay and in any event within
+ twenty-four (24) hours after becoming aware of the breach.
 5.2 Each Party shall be responsible for its own notification to the competent
-    supervisory authority under Article 33 GDPR and to data subjects under
-    Article 34 GDPR.
+ supervisory authority under Article 33 GDPR and to data subjects under
+ Article 34 GDPR.
 
 6. DATA SUBJECT REQUESTS
 6.1 Each Party shall handle requests from its own data subjects under Articles 15
-    to 22 GDPR. The Parties shall cooperate where a request relates to shared data.
+ to 22 GDPR. The Parties shall cooperate where a request relates to shared data.
 
 7. INTERNATIONAL TRANSFERS
 7.1 Where personal data is transferred outside the EEA, the Parties shall execute
-    Module One (Controller-to-Controller) of the EU Standard Contractual Clauses
-    adopted by Decision (EU) 2021/914 of 04 June 2021, and conduct a transfer
-    impact assessment in accordance with EDPB Recommendations 01/2020.
+ Module One (Controller-to-Controller) of the EU Standard Contractual Clauses
+ adopted by Decision (EU) 2021/914 of 04 June 2021, and conduct a transfer
+ impact assessment in accordance with EDPB Recommendations 01/2020.
 
 8. SUBSEQUENT TRANSFERS
 8.1 A Party shall not transfer the shared personal data onward to any third party
-    other than its own processors (Article 28 GDPR) without the prior written
-    consent of the other Party, except where such transfer is required by law.
+ other than its own processors (Article 28 GDPR) without the prior written
+ consent of the other Party, except where such transfer is required by law.
 
 9. AUDIT
 9.1 Each Party may, on reasonable prior notice, request evidence of the other
-    Party's compliance with this Agreement.
+ Party's compliance with this Agreement.
 
 10. LIABILITY
 10.1 Each Party shall be liable for its own infringements of the GDPR in
-     accordance with Article 82 GDPR.
+ accordance with Article 82 GDPR.
 
 11. TERM AND TERMINATION
 11.1 This Agreement enters into force on the date of last signature and remains
-     in force until terminated by either Party with [number] months' written
-     notice or where required by applicable data protection law.
+ in force until terminated by either Party with [number] months' written
+ notice or where required by applicable data protection law.
 
 12. GOVERNING LAW AND JURISDICTION
 12.1 This Agreement shall be governed by the laws of [jurisdiction]. The courts
-     of [court venue] shall have exclusive jurisdiction.
+ of [court venue] shall have exclusive jurisdiction.
 
-Annex I  Description of Data Sharing (purposes, lawful basis, categories, retention)
+Annex I Description of Data Sharing (purposes, lawful basis, categories, retention)
 Annex II Minimum Security Baseline
 
-Signed on behalf of Party A:               Signed on behalf of Party B:
-__________________________________         __________________________________
-Name:                                       Name:
-Title:                                      Title:
-Date:                                       Date:
+Signed on behalf of Party A: Signed on behalf of Party B:
+__________________________________ __________________________________
+Name: Name:
+Title: Title:
+Date: Date:
 ```
 
 ## Typische Drafting-Fehler

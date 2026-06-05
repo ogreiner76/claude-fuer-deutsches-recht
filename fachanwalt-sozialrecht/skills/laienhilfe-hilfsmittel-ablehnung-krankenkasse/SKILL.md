@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-hilfsmittel-ablehnung-krankenkasse
-description: "Nutze dies, wenn Laienhilfe Hilfsmittel Ablehnung, Laienhilfe Hilfsmittel Krankenkasse, Laienhilfe Kdu Miete Heizung, Laienhilfe Kinder Jugendhilfe Abgrenzung im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Laienhilfe Hilfsmittel Ablehnung, Laienhilfe Hilfsmittel Krankenkasse, Laienhilfe Kdu Miete Heizung, Laienhilfe Kinder Jugendhilfe Abgrenzung prüfen.; Erstelle eine Arbeitsfassung zu Laienhilfe Hilfsmittel Ablehnung, Laienhilfe Hilfsmittel Krankenkasse, Laienhilfe Kdu Miete Heizung, Laienhilfe Kinder Jugendhilfe Abgrenzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Laienhilfe Hilfsmittel Ablehnung, Laienhilfe Hilfsmittel Krankenkasse, Laienhilfe Kdu Miete Heizung, Laienhilfe Kinder Jugendhilfe Abgrenzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Laienhilfe Hilfsmittel Ablehnung, Laienhilfe Hilfsmittel Krankenkasse, Laienhilfe Kdu Miete Heizung, Laienhilfe Kinder Jugendhilfe Abgrenzung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Hilfsmittel Ablehnung, Laienhilfe Hilfsmittel Krankenkasse, Laienhilfe Kdu Miete Heizung, Laienhilfe Kinder Jugendhilfe Abgrenzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -89,17 +89,17 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## Hilfsmittel-Ablehnung - Themenspezifika
 - **Doppeltraegerschaft pruefen:** Wer ist eigentlich zustaendig?
-  - **Krankenkasse (§ 33 SGB V):** Hilfsmittel zur Sicherung Krankenbehandlungserfolg, Vorbeugung Behinderung, Ausgleich Behinderung (Hilfsmittelverzeichnis § 139 SGB V).
-  - **Pflegekasse (§ 40 SGB XI):** Pflegehilfsmittel (zum Verbrauch wie Einmalhandschuhe, technisch wie Pflegebett).
-  - **Berufsgenossenschaft (SGB VII):** bei Arbeitsunfall / Berufskrankheit.
-  - **Eingliederungshilfetraeger (§§ 111-113 SGB IX):** soziale Teilhabe, Bildung, Arbeit.
-  - **Bundesagentur fuer Arbeit (§ 49 SGB IX):** Teilhabe am Arbeitsleben.
+ - **Krankenkasse (§ 33 SGB V):** Hilfsmittel zur Sicherung Krankenbehandlungserfolg, Vorbeugung Behinderung, Ausgleich Behinderung (Hilfsmittelverzeichnis § 139 SGB V).
+ - **Pflegekasse (§ 40 SGB XI):** Pflegehilfsmittel (zum Verbrauch wie Einmalhandschuhe, technisch wie Pflegebett).
+ - **Berufsgenossenschaft (SGB VII):** bei Arbeitsunfall / Berufskrankheit.
+ - **Eingliederungshilfetraeger (§§ 111-113 SGB IX):** soziale Teilhabe, Bildung, Arbeit.
+ - **Bundesagentur fuer Arbeit (§ 49 SGB IX):** Teilhabe am Arbeitsleben.
 - **Genehmigungsfiktion § 13 IIIa SGB V:** 3 Wochen (mit MD 5 Wochen) - bei Fristueberschreitung gilt Antrag als bewilligt (BSG-Linie). Wichtig: ordnungsgemaesser Antrag, kein Hinweis Kasse auf Verzoegerung, Patient haelt Hilfsmittel fuer erforderlich.
 - **Standard-Ablehnungsgruende und Gegenargumente:**
-  - "nicht im Hilfsmittelverzeichnis": **kein Ausschluss** - § 33 SGB V umfassend, BSG-Linie. Hilfsmittelverzeichnis ist nur Indiz.
-  - "nicht wirtschaftlich" (§ 12 SGB V): Vergleichsleistungen pruefen, Preis-Leistung-Verhaeltnis dokumentieren.
-  - "Gebrauchsgegenstand des taeglichen Lebens" (BSG-Linie): Hilfsmittel ist abgrenzt, wenn ausschliesslich von Behinderten/Kranken benutzt.
-  - "Eigenanteil nicht zumutbar": Belastungsgrenze § 62 SGB V (2 % Brutto / 1 % chronisch krank).
+ - "nicht im Hilfsmittelverzeichnis": **kein Ausschluss** - § 33 SGB V umfassend, BSG-Linie. Hilfsmittelverzeichnis ist nur Indiz.
+ - "nicht wirtschaftlich" (§ 12 SGB V): Vergleichsleistungen pruefen, Preis-Leistung-Verhaeltnis dokumentieren.
+ - "Gebrauchsgegenstand des taeglichen Lebens" (BSG-Linie): Hilfsmittel ist abgrenzt, wenn ausschliesslich von Behinderten/Kranken benutzt.
+ - "Eigenanteil nicht zumutbar": Belastungsgrenze § 62 SGB V (2 % Brutto / 1 % chronisch krank).
 - **Widerspruch § 84 SGG 1 Monat:** mit medizinischer Begruendung; Stellungnahme Arzt mit konkreter Indikation; Anhang MD-Gutachten widerlegen.
 - **Eilantrag § 86b II SGG** bei dringend benoetigtem Hilfsmittel (Rollstuhl, Heimbeatmungsgeraet, Notfallhilfsmittel).
 - **Praxis-Tipp:** Eigenversorgung mit Erstattungsanspruch § 13 IIIa SGB V (bei Fristueberschreitung); Vertragsleistungserbringerliste anfordern (§ 33 VI SGB V); ggf. Selbstbeschaffung mit Kostentragung Kasse bei Notlage (BSG-Linie zur Selbstbeschaffung).
@@ -342,20 +342,20 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Rechtsgrundlage:** SGB VIII (Kinder- und Jugendhilfe); seit BTHG-Reform fortlaufende Aenderungen Schnittstelle SGB IX (Eingliederungshilfe behinderter Kinder).
 - **Zustaendigkeit:** Jugendamt (Stadt / Landkreis); Klage zum **Verwaltungsgericht** (§ 40 VwGO) - **nicht** Sozialgericht.
 - **Leistungsspektrum SGB VIII:**
-  - **§ 27 SGB VIII Hilfen zur Erziehung:** Erziehungsbeistand (§ 30), sozialpaedagogische Familienhilfe (§ 31), Tagesgruppe (§ 32), Vollzeitpflege (§ 33), Heimerziehung (§ 34), intensive sozialpaedagogische Einzelbetreuung (§ 35).
-  - **§ 35a SGB VIII Eingliederungshilfe** seelisch behinderter Kinder / Jugendlicher - **Abgrenzung kritisch** zu SGB IX (geistige / koerperliche Behinderung).
-  - **§ 41 SGB VIII Hilfen fuer junge Volljaehrige** (18-21 Jahre).
-  - **§ 13 SGB VIII Jugendsozialarbeit / -hilfe.**
-  - **§§ 22-26 SGB VIII Foerderung Kinder in Tageseinrichtungen** (Kita-Anspruch § 24 SGB VIII fuer Kinder ab 1).
+ - **§ 27 SGB VIII Hilfen zur Erziehung:** Erziehungsbeistand (§ 30), sozialpaedagogische Familienhilfe (§ 31), Tagesgruppe (§ 32), Vollzeitpflege (§ 33), Heimerziehung (§ 34), intensive sozialpaedagogische Einzelbetreuung (§ 35).
+ - **§ 35a SGB VIII Eingliederungshilfe** seelisch behinderter Kinder / Jugendlicher - **Abgrenzung kritisch** zu SGB IX (geistige / koerperliche Behinderung).
+ - **§ 41 SGB VIII Hilfen fuer junge Volljaehrige** (18-21 Jahre).
+ - **§ 13 SGB VIII Jugendsozialarbeit / -hilfe.**
+ - **§§ 22-26 SGB VIII Foerderung Kinder in Tageseinrichtungen** (Kita-Anspruch § 24 SGB VIII fuer Kinder ab 1).
 - **Abgrenzungs-Triade Schulbegleitung / Integrationshelfer:**
-  - **Seelisch behindert / drohend** -> § 35a SGB VIII Jugendamt zustaendig.
-  - **Geistig / koerperlich behindert** -> § 112 SGB IX Eingliederungshilfe (Sozialamt / Bezirk / Land).
-  - **Mehrfachbehindert** -> primaer Eingliederungshilfe; Jugendamt subsidiaer.
+ - **Seelisch behindert / drohend** -> § 35a SGB VIII Jugendamt zustaendig.
+ - **Geistig / koerperlich behindert** -> § 112 SGB IX Eingliederungshilfe (Sozialamt / Bezirk / Land).
+ - **Mehrfachbehindert** -> primaer Eingliederungshilfe; Jugendamt subsidiaer.
 - **Gesetzliche Verfahren:**
-  - **Hilfeplanverfahren § 36 SGB VIII** zwingend mit Beteiligung Familie/Jugendlicher.
-  - **Anhoerung § 28 VwVfG / § 24 SGB X.**
-  - **Widerspruch § 70 VwGO** (Verwaltungsgericht) - **1 Monat** ab Bekanntgabe (oder Klagefrist § 74 VwGO, je nach Bundesland Widerspruchsverfahren abgeschafft).
-  - **Klage Verwaltungsgericht** 1 Monat.
+ - **Hilfeplanverfahren § 36 SGB VIII** zwingend mit Beteiligung Familie/Jugendlicher.
+ - **Anhoerung § 28 VwVfG / § 24 SGB X.**
+ - **Widerspruch § 70 VwGO** (Verwaltungsgericht) - **1 Monat** ab Bekanntgabe (oder Klagefrist § 74 VwGO, je nach Bundesland Widerspruchsverfahren abgeschafft).
+ - **Klage Verwaltungsgericht** 1 Monat.
 - **Kostenbeteiligung Eltern §§ 91-94 SGB VIII** abhaengig von Einkommen; Kostenheranziehung nach gesonderter Berechnung.
 - **Eilrechtsschutz § 123 VwGO** bei drohendem Hilfeausfall.
 - **Praxis-Tipp:** Bei Streit Jugendamt vs. Sozialamt zur Eingliederungshilfe: 1. Erstantrag beim Jugendamt (Schnellweg), 2. parallel Sozialamt; bei Streit nach §§ 14, 15 SGB IX vorlaeufige Klaerung; Antraege nach § 14 SGB IX werden binnen 2 Wochen weitergeleitet, sonst Erstattung zwischen Traegern.

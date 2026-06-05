@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Verteidigungstechnologie und Exportkontrolle
-Ressort:            BMVg
-Kernnormen:         KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.
-Akteure/Aufsicht:   BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.
-EU/Voelkerrecht:    Common Position 2008/944/GASP; Wassenaar; MTCR.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmvg; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Verteidigungstechnologie und Exportkontrolle
+Ressort: BMVg
+Kernnormen: KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.
+Akteure/Aufsicht: BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.
+EU/Voelkerrecht: Common Position 2008/944/GASP; Wassenaar; MTCR.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

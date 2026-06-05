@@ -1,13 +1,13 @@
 ---
 name: liqui-eingangsdaten-idw-s6-liqp
-description: "Nutze dies, wenn Liqui Eingangsdaten Checkliste, Idw S6 Integrierte Sanierungsplanung, Liqp Bankenreporting Leitfaden im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Liqui Eingangsdaten Checkliste, Idw S6 Integrierte Sanierungsplanung, Liqp Bankenreporting Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Liqui Eingangsdaten Checkliste, Idw S6 Integrierte Sanierungsplanung, Liqp Bankenreporting Leitfaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Liqui Eingangsdaten Checkliste, Idw S6 Integrierte Sanierungsplanung, Liqp Bankenreporting Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Liqui Eingangsdaten Checkliste, Idw S6 Integrierte Sanierungsplanung, Liqp Bankenreporting Leitfaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Liqui Eingangsdaten Checkliste, Idw S6 Integrierte Sanierungsplanung, Liqp Bankenreporting Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -131,27 +131,27 @@ Lege für jede Maßnahme einen Datensatz an:
 
 ```yaml
 massnahme:
-  titel: "[z. B. Standortkonsolidierung / Bankstundung / Kapitalzufuhr]"
-  krisenursache: "[welche Ursache wird adressiert?]"
-  status: "verbindlich | verhandelt | plausibel | ungeklärt | nicht tragfähig"
-  guv-effekt:
-    umsatz: "[EUR / Prozent / Monat]"
-    kosten: "[EUR / Monat]"
-    zinsen_steuern: "[EUR / Monat]"
-  liquiditaets-effekt:
-    einmalig: "[EUR, Datum]"
-    laufend: "[EUR, ab Datum]"
-    vorfinanzierungsbedarf: "[EUR]"
-  bilanz-effekt:
-    eigenkapital: "[EUR]"
-    verbindlichkeiten: "[EUR]"
-    working_capital: "[EUR]"
-  voraussetzungen:
-    - "[Beschluss, Vertrag, Finanzierung, Zustimmung]"
-  nachweise:
-    - "[Datei / Vertrag / Beschluss / Kontoauszug]"
-  risiko:
-    sensitivitaet: "[was passiert bei Verzug oder Teilwirkung?]"
+ titel: "[z. B. Standortkonsolidierung / Bankstundung / Kapitalzufuhr]"
+ krisenursache: "[welche Ursache wird adressiert?]"
+ status: "verbindlich | verhandelt | plausibel | ungeklärt | nicht tragfähig"
+ guv-effekt:
+ umsatz: "[EUR / Prozent / Monat]"
+ kosten: "[EUR / Monat]"
+ zinsen_steuern: "[EUR / Monat]"
+ liquiditaets-effekt:
+ einmalig: "[EUR, Datum]"
+ laufend: "[EUR, ab Datum]"
+ vorfinanzierungsbedarf: "[EUR]"
+ bilanz-effekt:
+ eigenkapital: "[EUR]"
+ verbindlichkeiten: "[EUR]"
+ working_capital: "[EUR]"
+ voraussetzungen:
+ - "[Beschluss, Vertrag, Finanzierung, Zustimmung]"
+ nachweise:
+ - "[Datei / Vertrag / Beschluss / Kontoauszug]"
+ risiko:
+ sensitivitaet: "[was passiert bei Verzug oder Teilwirkung?]"
 ```
 
 ## Sanierungsfähigkeits-Ampel

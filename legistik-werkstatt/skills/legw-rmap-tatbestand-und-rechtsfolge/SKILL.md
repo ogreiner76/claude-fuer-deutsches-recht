@@ -31,10 +31,10 @@ Pruefen: ist jede Voraussetzung als eigener Knoten modelliert? Sind unbestimmte 
 ## Output
 
 ```
-Skill:              legw-rmap-tatbestand-und-rechtsfolge
-Thema:              Tatbestand und Rechtsfolge als Knoten modellieren
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-tatbestand-und-rechtsfolge
+Thema: Tatbestand und Rechtsfolge als Knoten modellieren
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

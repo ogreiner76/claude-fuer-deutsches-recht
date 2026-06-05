@@ -1,13 +1,13 @@
 ---
 name: pralr-spez-jagdrecht-justizreform-friedrich
-description: "Nutze dies, wenn Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr prüfen.; Erstelle eine Arbeitsfassung zu Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau, Pralr Spez Negotiorum Gestio Im Alr** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

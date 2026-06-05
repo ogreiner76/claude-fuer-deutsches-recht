@@ -1,34 +1,34 @@
 ---
 name: modernisierungsumlage-moeblierte-vermietung
-description: "Nutze dies, wenn Spezial Modernisierungsumlage 559, Spezial Moeblierte Vermietung, Spezial Muellsortierung Kosten, Spezial Notar Weg Grundbuch, Spezial Ordnungsrecht Schnittstelle Haus im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Modernisierungsumlage 559, Spezial Moeblierte Vermietung, Spezial Muellsortierung Kosten, Spezial Notar Weg Grundbuch, Spezial Ordnungsrecht Schnittstelle Haus prüfen.; Erstelle eine Arbeitsfassung zu Spezial Modernisierungsumlage 559, Spezial Moeblierte Vermietung, Spezial Muellsortierung Kosten, Spezial Notar Weg Grundbuch, Spezial Ordnungsrecht Schnittstelle Haus.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Modernisierungsumlage 559, Moeblierte Vermietung, Muellsortierung Kosten, Notar Weg Grundbuch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Modernisierungsumlage 559, Spezial Moeblierte Vermietung, Spezial Muellsortierung Kosten, Spezial Notar Weg Grundbuch, Spezial Ordnungsrecht Schnittstelle Haus
+# Modernisierungsumlage 559, Moeblierte Vermietung, Muellsortierung Kosten, Notar Weg Grundbuch, Ordnungsrecht Schnittstelle Haus
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Modernisierungsumlage 559, Moeblierte Vermietung, Muellsortierung Kosten, Notar Weg Grundbuch, Ordnungsrecht Schnittstelle Haus** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-modernisierungsumlage-559` | Modernisierungsumlage § 559 BGB: Spezial-Skill im Miet- und Wohnungseigentumsrecht; berechnet Kostenabzug Erhaltung, Kappung, Drittmittel, Erläuterung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-moeblierte-vermietung` | Möblierte Vermietung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Möblierungszuschlag, Mietpreisbremse, Inventar, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-muellsortierung-kosten` | Müllsortierung/Kosten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Fehlwürfe, Sonderkosten, Umlage, Abmahnung, Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-notar-weg-grundbuch` | Notar/Grundbuch WEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Teilungserklärung, Auflassung, Grundbuchstand, Belastungen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-ordnungsrecht-schnittstelle-haus` | Ordnungsrecht-Schnittstelle: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Brandschutz, Hygiene, Lärm, Gefahrenabwehr und Mietfolgen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-modernisierungsumlage-559` | Modernisierungsumlage § 559 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht; berechnet Kostenabzug Erhaltung, Kappung, Drittmittel, Erläuterung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-moeblierte-vermietung` | Möblierte Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Möblierungszuschlag, Mietpreisbremse, Inventar, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-muellsortierung-kosten` | Müllsortierung/Kosten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Fehlwürfe, Sonderkosten, Umlage, Abmahnung, Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-notar-weg-grundbuch` | Notar/Grundbuch WEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Teilungserklärung, Auflassung, Grundbuchstand, Belastungen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-ordnungsrecht-schnittstelle-haus` | Ordnungsrecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Brandschutz, Hygiene, Lärm, Gefahrenabwehr und Mietfolgen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Modernisierungsumlage 559, Spezial Moeblierte Vermietung, Spezial Muellsortierung Kosten, Spezial Notar Weg Grundbuch, Spezial Ordnungsrecht Schnittstelle Haus** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Modernisierungsumlage 559, Moeblierte Vermietung, Muellsortierung Kosten, Notar Weg Grundbuch, Ordnungsrecht Schnittstelle Haus** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-modernisierungsumlage-559`
 
-**Fokus:** Modernisierungsumlage § 559 BGB: Spezial-Skill im Miet- und Wohnungseigentumsrecht; berechnet Kostenabzug Erhaltung, Kappung, Drittmittel, Erläuterung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Modernisierungsumlage § 559 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht; berechnet Kostenabzug Erhaltung, Kappung, Drittmittel, Erläuterung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Modernisierungsumlage § 559 BGB
 
@@ -42,9 +42,9 @@ Für **Spezial Modernisierungsumlage 559, Spezial Moeblierte Vermietung, Spezial
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: berechnet Kostenabzug Erhaltung, Kappung, Drittmittel, Erläuterung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: berechnet Kostenabzug Erhaltung, Kappung, Drittmittel, Erläuterung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-moeblierte-vermietung`
 
-**Fokus:** Möblierte Vermietung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Möblierungszuschlag, Mietpreisbremse, Inventar, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Möblierte Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Möblierungszuschlag, Mietpreisbremse, Inventar, Kaution; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Möblierte Vermietung
 
@@ -87,9 +87,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Möblierungszuschlag, Mietpreisbremse, Inventar, Kaution.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Möblierungszuschlag, Mietpreisbremse, Inventar, Kaution.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -118,7 +118,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-muellsortierung-kosten`
 
-**Fokus:** Müllsortierung/Kosten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Fehlwürfe, Sonderkosten, Umlage, Abmahnung, Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Müllsortierung/Kosten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Fehlwürfe, Sonderkosten, Umlage, Abmahnung, Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Müllsortierung/Kosten
 
@@ -132,9 +132,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Fehlwürfe, Sonderkosten, Umlage, Abmahnung, Beweis.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Fehlwürfe, Sonderkosten, Umlage, Abmahnung, Beweis.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -163,7 +163,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-notar-weg-grundbuch`
 
-**Fokus:** Notar/Grundbuch WEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Teilungserklärung, Auflassung, Grundbuchstand, Belastungen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Notar/Grundbuch WEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Teilungserklärung, Auflassung, Grundbuchstand, Belastungen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Notar/Grundbuch WEG
 
@@ -177,9 +177,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Teilungserklärung, Auflassung, Grundbuchstand, Belastungen.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Teilungserklärung, Auflassung, Grundbuchstand, Belastungen.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -208,7 +208,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-ordnungsrecht-schnittstelle-haus`
 
-**Fokus:** Ordnungsrecht-Schnittstelle: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Brandschutz, Hygiene, Lärm, Gefahrenabwehr und Mietfolgen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Ordnungsrecht-Schnittstelle: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Brandschutz, Hygiene, Lärm, Gefahrenabwehr und Mietfolgen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Ordnungsrecht-Schnittstelle
 
@@ -222,9 +222,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Brandschutz, Hygiene, Lärm, Gefahrenabwehr und Mietfolgen.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Brandschutz, Hygiene, Lärm, Gefahrenabwehr und Mietfolgen.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

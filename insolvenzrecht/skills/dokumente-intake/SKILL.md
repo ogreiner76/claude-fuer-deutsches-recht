@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Insolvenzrecht** ein Fall noch sortiert, D
 ## Fachlandkarte dieses Plugins
 
 - `anfechtungsrechte-antragspflicht-15a-auslaendischer` — Anfechtungsrechte Antragspflicht 15a Auslaendischer
-- `antragspflicht-spezial-belegmatrix-spezial-chronologie` — Antragspflicht Spezial Belegmatrix Spezial Chronologie
+- `antragspflicht-spezial-belegmatrix-spezial-chronologie` — Antragspflicht Belegmatrix Chronologie
 - `feststellung-sonderfall-glaeubigerantrag-inso-insolvenzrecht` — Feststellung Sonderfall Glaeubigerantrag Inso Insolvenzrecht
 - `glaeubigerantrag-glaeubigerausschuss-mitwirkung-inso-dsgvo` — Glaeubigerantrag Glaeubigerausschuss Mitwirkung Inso Dsgvo
 - `glaeubigerausschuss-fristennotiz-ueberschuldung-do-versicherung` — Glaeubigerausschuss Fristennotiz Ueberschuldung Do Versicherung

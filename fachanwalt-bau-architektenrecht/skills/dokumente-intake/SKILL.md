@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Bau Architektenrecht** ein Fall
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-bau-abnahme-nachtrag-workflow-chronologie` — Allgemein Bau Abnahme Nachtrag Workflow Chronologie
+- `allgemein-bau-abnahme-nachtrag-workflow-chronologie` — Allgemein Bau Abnahme Nachtrag Chronologie
 - `bauordnungsrecht-einfuehrung-fachanwalt-hoai` — Bauordnungsrecht Einfuehrung Fachanwalt Hoai
 - `bautraeger-abnahme-formgerecht-abnahmefiktion-clause-anlagen` — Bautraeger Abnahme Formgerecht Abnahmefiktion Clause Anlagen
 - `bautraeger-belehrungspflicht-bautraeger-bonitaetspruefung` — Bautraeger Belehrungspflicht Bautraeger Bonitaetspruefung

@@ -1,6 +1,6 @@
 ---
 name: beirat-amtszeit-und-rotation
-description: "Nutze dies, wenn Beirat Amtszeit Und Rotation im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Amtszeit Und Rotation prüfen.; Erstelle eine Arbeitsfassung zu Beirat Amtszeit Und Rotation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Amtszeit Und Rotation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Amtszeit Und Rotation

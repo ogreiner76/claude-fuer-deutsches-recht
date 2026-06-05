@@ -1,13 +1,13 @@
 ---
 name: steuerliche-folgen-unterhalt-selbstaendige
-description: "Nutze dies, wenn Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte prüfen.; Erstelle eine Arbeitsfassung zu Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung, Anpassung Wegen Invaliditaet Oder Besonderer Haerte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -104,7 +104,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Auftrag
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
 
 ## Normanker
 

@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Industriepolitik; Foerderrecht; EU-Beihilfen
-Ressort:            BMWE
-Kernnormen:         BHO; SubvG; AGVO; Notifizierungspflicht (Art. 108 AEUV); ggf. IPCEI-Regeln.
-Akteure/Aufsicht:   BMWE; Bafa; Projekttraeger; EU-Kommission GD COMP.
-EU/Voelkerrecht:    AGVO; KMU-Definition; Klimaschutz-Beihilfeleitlinien; Chips Act; CRMA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwe; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Industriepolitik; Foerderrecht; EU-Beihilfen
+Ressort: BMWE
+Kernnormen: BHO; SubvG; AGVO; Notifizierungspflicht (Art. 108 AEUV); ggf. IPCEI-Regeln.
+Akteure/Aufsicht: BMWE; Bafa; Projekttraeger; EU-Kommission GD COMP.
+EU/Voelkerrecht: AGVO; KMU-Definition; Klimaschutz-Beihilfeleitlinien; Chips Act; CRMA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: inkasso-rdg-luecken-mar-mifid
-description: "Nutze dies, wenn Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend im Plugin Regulatorisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend prüfen.; Erstelle eine Arbeitsfassung zu Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Inkasso Rdg, Luecken, Mar Mifid Eltif Uebergreifend** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -83,11 +83,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Schritt 3 – Hinweispflichten gegenüber Schuldnern (§ 13d RDG)**
 - Erstes Anschreiben muss enthalten:
-  - Identität des Inkassounternehmens (vollständiger Name, Anschrift, Registrierungsnummer).
-  - Forderungsinhaber und Rechtsgrund der Forderung.
-  - Forderungsbetrag mit Aufschlüsselung (Hauptforderung, Zinsen, Kosten).
-  - Hinweis auf Recht des Schuldners, die Forderung zu bestreiten.
-  - Kontaktmöglichkeit für Rückfragen.
+ - Identität des Inkassounternehmens (vollständiger Name, Anschrift, Registrierungsnummer).
+ - Forderungsinhaber und Rechtsgrund der Forderung.
+ - Forderungsbetrag mit Aufschlüsselung (Hauptforderung, Zinsen, Kosten).
+ - Hinweis auf Recht des Schuldners, die Forderung zu bestreiten.
+ - Kontaktmöglichkeit für Rückfragen.
 - Irrleitende oder einschüchternde Kommunikation ist unzulässig (§ 4 UWG, Lauterkeitsrecht).
 
 **Schritt 4 – Vergütung (§ 4 RDGEG)**
@@ -227,11 +227,11 @@ Gap-Übersicht – Stand: 01.06.2025
 Gesamt: 7 | 🔴 2 | 🟠 3 | 🟡 2 | 🟢 0
 Offen: 5 | In Bearbeitung: 2 | Geschlossen: 0 | Überfällig: 0
 
-| Gap-ID      | Verlautbarung        | Anforderung         | Schwere | Frist      | Eigentümer  | Status        |
+| Gap-ID | Verlautbarung | Anforderung | Schwere | Frist | Eigentümer | Status |
 |-------------|----------------------|---------------------|---------|------------|-------------|---------------|
-| GAP-2025-001| MaRisk AT 4.3.2      | Datenhaltung 10 J.  | 🔴      | 31.12.2025 | Compliance  | offen         |
-| GAP-2025-002| MaRisk BTR 3.2       | ESG-Integration     | 🔴      | 31.03.2026 | Risiko      | in Bearbeitung|
-| GAP-2025-003| MaRisk BTO 1.2.4     | Kreditvergabe       | 🟠      | 30.06.2026 | Kredit      | offen         |
+| GAP-2025-001| MaRisk AT 4.3.2 | Datenhaltung 10 J. | 🔴 | 31.12.2025 | Compliance | offen |
+| GAP-2025-002| MaRisk BTR 3.2 | ESG-Integration | 🔴 | 31.03.2026 | Risiko | in Bearbeitung|
+| GAP-2025-003| MaRisk BTO 1.2.4 | Kreditvergabe | 🟠 | 30.06.2026 | Kredit | offen |
 ```
 
 ## Risiken / typische Fehler

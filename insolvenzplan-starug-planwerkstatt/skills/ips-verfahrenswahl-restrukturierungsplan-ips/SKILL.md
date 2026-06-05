@@ -1,25 +1,25 @@
 ---
 name: ips-verfahrenswahl-restrukturierungsplan-ips
-description: "Nutze dies, wenn Ips Verfahrenswahl, Spezial Restrukturierungsplan Fristen Form Und Zustaendigkeit, Ips Darstellender Teil im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Ips Verfahrenswahl, Spezial Restrukturierungsplan Fristen Form Und Zustaendigkeit, Ips Darstellender Teil prüfen.; Erstelle eine Arbeitsfassung zu Ips Verfahrenswahl, Spezial Restrukturierungsplan Fristen Form Und Zustaendigkeit, Ips Darstellender Teil.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ips Verfahrenswahl, Restrukturierungsplan Fristen Form Und Zustaendigkeit, Ips Darstellender Teil: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Ips Verfahrenswahl, Spezial Restrukturierungsplan Fristen Form Und Zustaendigkeit, Ips Darstellender Teil
+# Ips Verfahrenswahl, Restrukturierungsplan Fristen Form Und Zustaendigkeit, Ips Darstellender Teil
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ips Verfahrenswahl, Restrukturierungsplan Fristen Form Und Zustaendigkeit, Ips Darstellender Teil** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `ips-verfahrenswahl` | Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwaltung Schutzschirm StaRUG und außergerichtliche Einigung vergleichen. §§ 270 270d InsO §§ 29 42 StaRUG. Prüfraster: Zahlungsunfähigkeit Masse Zeitfenster Eingriffstiefe Gerichtsbedarf No-go-Schwellen. Output: Routenmatrix Empfehlung mit Bedingungen Risikoampel. Abgrenzung: nicht für Detailplanung der gewaehlten Route. |
-| `spezial-restrukturierungsplan-fristen-form-und-zustaendigkeit` | Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-restrukturierungsplan-fristen-form-und-zustaendigkeit` | Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `ips-darstellender-teil` | Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Massnahmen Finanzplanung Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung Widerspruchsfreiheit. Output: Darstellender Teil als Entwurf Risiko- und Lueckenliste. Abgrenzung: nicht für gestaltenden Teil (ips-gestaltender-teil). |
 
 ## Arbeitsweg
 
-Für **Ips Verfahrenswahl, Spezial Restrukturierungsplan Fristen Form Und Zustaendigkeit, Ips Darstellender Teil** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ips Verfahrenswahl, Restrukturierungsplan Fristen Form Und Zustaendigkeit, Ips Darstellender Teil** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -105,7 +105,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `spezial-restrukturierungsplan-fristen-form-und-zustaendigkeit`
 
-**Fokus:** Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -119,7 +119,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 
 ## Spezialwissen: Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg / spezial restrukturierungsplan fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg / restrukturierungsplan fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Teilhaberecht (SGB IX)
-Ressort:            BMAS
-Kernnormen:         SGB IX; SchwbAV; BTHG; SGB XII; AGG.
-Akteure/Aufsicht:   Integrationsaemter; Reha-Traeger; Bundesagentur fuer Arbeit; Sozialgerichte.
-EU/Voelkerrecht:    UN-BRK; EU-Beschaeftigungsrichtlinien.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Teilhaberecht (SGB IX)
+Ressort: BMAS
+Kernnormen: SGB IX; SchwbAV; BTHG; SGB XII; AGG.
+Akteure/Aufsicht: Integrationsaemter; Reha-Traeger; Bundesagentur fuer Arbeit; Sozialgerichte.
+EU/Voelkerrecht: UN-BRK; EU-Beschaeftigungsrichtlinien.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

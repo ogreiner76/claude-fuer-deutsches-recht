@@ -1,13 +1,13 @@
 ---
 name: rechtsfolge-bestimmen-einreden-interaktiver
-description: "Nutze dies, wenn Rechtsfolge Bestimmen, Spezial Einreden Compliance Dokumentation Und Akte, Spezial Interaktiver Erstpruefung Und Mandatsziel im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Rechtsfolge Bestimmen, Einreden Compliance Dokumentation Und Akte, Interaktiver Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Rechtsfolge Bestimmen, Spezial Einreden Compliance Dokumentation Und Akte, Spezial Interaktiver Erstpruefung Und Mandatsziel
+# Rechtsfolge Bestimmen, Einreden Compliance Dokumentation Und Akte, Interaktiver Erstpruefung Und Mandatsziel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsfolge Bestimmen, Einreden Compliance Dokumentation Und Akte, Interaktiver Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Rechtsfolge Bestimmen, Spezial Einreden Compliance Dokumentation Und Akte, Spezial Interaktiver Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsfolge Bestimmen, Einreden Compliance Dokumentation Und Akte, Interaktiver Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -103,10 +103,10 @@ Das System nennt den gesetzlichen Strafrahmen (Mindest- und Höchststrafe nach S
 ```
 Tatbestand erfüllt → Rechtsfolge bestimmen
 ├─ Primäranspruch (Erfüllung): § 433/280 BGB → Zahlung / Herausgabe / Unterlassung
-│   └─ Noch nicht erfüllt? → Klage auf Erfüllung
+│ └─ Noch nicht erfüllt? → Klage auf Erfüllung
 ├─ Sekundäranspruch (SE): § 249 BGB → Naturalrestitution
-│   ├─ Körperverletzung/Sachbeschädigung? → § 249 Abs. 2 BGB Geldersatz möglich
-│   └─ Immaterielle Schäden? → § 253 Abs. 2 BGB Schmerzensgeld
+│ ├─ Körperverletzung/Sachbeschädigung? → § 249 Abs. 2 BGB Geldersatz möglich
+│ └─ Immaterielle Schäden? → § 253 Abs. 2 BGB Schmerzensgeld
 └─ Nebenansprüche: Verzugszinsen § 288 BGB + RK als SE
 ```
 
@@ -122,7 +122,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Aufgabe
 
-Dieser Skill strukturiert die Arbeit an Einreden und Einwendungen im Subsumtions-Workflow und sichert gleichzeitig die Compliance-Dokumentation. Ergebnis ist ein sofort nutzbarer Aktenvermerk, der Einreden belegt, Risiken bewertet und den nächsten Schritt benennt.
+Dieser Skill strukturiert die Arbeit an Einreden und Einwendungen im Subsumtions-und sichert gleichzeitig die Compliance-Dokumentation. Ergebnis ist ein sofort nutzbarer Aktenvermerk, der Einreden belegt, Risiken bewertet und den nächsten Schritt benennt.
 
 ## Systematik: Einreden und Einwendungen
 
@@ -158,17 +158,17 @@ Dieser Skill strukturiert die Arbeit an Einreden und Einwendungen im Subsumtions
 ### Musterstruktur Aktenvermerk
 
 ```
-Datum:          TT.MM.JJJJ
-Aktenzeichen:   ...
-Sachverhalt:    kurze Zusammenfassung (max. 5 Sätze)
+Datum: TT.MM.JJJJ
+Aktenzeichen: ...
+Sachverhalt: kurze Zusammenfassung (max. 5 Sätze)
 Einreden:
-  1. Verjährung: Fristbeginn ..., Ablauf ..., Hemmung vorhanden/nicht vorhanden (Quelle: ...)
-  2. § 273 BGB: Gegenanspruch ..., Fälligkeit ..., belegt durch ...
-Risikoampel:    Rot / Gelb / Grün
-Handlung:       [Sofortmaßnahme mit Frist und Zuständigkeit]
+ 1. Verjährung: Fristbeginn ..., Ablauf ..., Hemmung vorhanden/nicht vorhanden (Quelle: ...)
+ 2. § 273 BGB: Gegenanspruch ..., Fälligkeit ..., belegt durch ...
+Risikoampel: Rot / Gelb / Grün
+Handlung: [Sofortmaßnahme mit Frist und Zuständigkeit]
 ```
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
@@ -264,15 +264,15 @@ Ohne Rollenklärung und Mandatsziel riskiert die Subsumtion:
 Das System erstellt nach Klärung der fünf Fragen ein Fallbild:
 
 ```
-Rolle:        [Kläger / Beklagter / Anwalt / Klausurkandidat / ...]
-Ziel:         [Anspruch X gegen Y aus Norm Z]
-Frist:        [Verjährung TT.MM.JJJJ / Klagefrist TT.MM.JJJJ / keine erkennbare]
-Unterlagen:   [vorhanden: Vertrag, Rechnung; fehlend: Zustellungsnachweis]
-Output:       [Klageschrift / Memo / Mandantenbrief / Klausurgutachten]
+Rolle: [Kläger / Beklagter / Anwalt / Klausurkandidat / ...]
+Ziel: [Anspruch X gegen Y aus Norm Z]
+Frist: [Verjährung TT.MM.JJJJ / Klagefrist TT.MM.JJJJ / keine erkennbare]
+Unterlagen: [vorhanden: Vertrag, Rechnung; fehlend: Zustellungsnachweis]
+Output: [Klageschrift / Memo / Mandantenbrief / Klausurgutachten]
 Nächster Skill: [→ darlegungs-und-beweislast-verteilen / workflow-fristen-und-risikoampel / ...]
 ```
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

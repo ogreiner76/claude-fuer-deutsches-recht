@@ -1,13 +1,13 @@
 ---
 name: stv-tempo-stv-fahrradstrasse-stv-stv
-description: "Nutze dies, wenn Stv 040 Tempo 30 Risiko Erklaeren, Stv 041 Fahrradstrasse Regel Prüfen, Stv 042 Fahrradstrasse Zeichen Auslegen, Stv 043 Fahrradstrasse Anordnung Angreifen im Plugin Strassenverkehrsrecht Stvo konkret bearbeitet werden soll. Auslöser: Bitte Stv 040 Tempo 30 Risiko Erklaeren, Stv 041 Fahrradstrasse Regel Prüfen, Stv 042 Fahrradstrasse Zeichen Auslegen, Stv 043 Fahrradstrasse Anordnung Angreifen prüfen.; Erstelle eine Arbeitsfassung zu Stv 040 Tempo 30 Risiko Erklaeren, Stv 041 Fahrradstrasse Regel Prüfen, Stv 042 Fahrradstrasse Zeichen Auslegen, Stv 043 Fahrradstrasse Anordnung Angreifen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stv 040 Tempo 30 Risiko Erklaeren, Stv 041 Fahrradstrasse Regel Prüfen, Stv 042 Fahrradstrasse Zeichen Auslegen, Stv 043 Fahrradstrasse Anordnung Angreifen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stv 040 Tempo 30 Risiko Erklaeren, Stv 041 Fahrradstrasse Regel Prüfen, Stv 042 Fahrradstrasse Zeichen Auslegen, Stv 043 Fahrradstrasse Anordnung Angreifen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stv 040 Tempo 30 Risiko Erklaeren, Stv 041 Fahrradstrasse Regel Prüfen, Stv 042 Fahrradstrasse Zeichen Auslegen, Stv 043 Fahrradstrasse Anordnung Angreifen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

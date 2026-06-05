@@ -1,13 +1,13 @@
 ---
 name: fa-anw-verbindliche-erstgespraech
-description: "Nutze dies, wenn Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg, Fa Stu Bilanzberichtigung 4 Abs 2 Estg und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg, Fa Stu Bilanzberichtigung 4 Abs 2 Estg und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg, Fa Stu Bilanzberichtigung 4 Abs 2 Estg und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg, Fa Stu Bilanzberichtigung 4 Abs 2 Estg und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg, Fa Stu Bilanzberichtigung 4 Abs 2 Estg und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

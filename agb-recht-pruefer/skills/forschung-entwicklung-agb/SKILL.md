@@ -1,6 +1,6 @@
 ---
 name: forschung-entwicklung-agb
-description: "Branchen-Spezialskill für Forschung Entwicklung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Forschung Entwicklung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Forschung Entwicklung AGB

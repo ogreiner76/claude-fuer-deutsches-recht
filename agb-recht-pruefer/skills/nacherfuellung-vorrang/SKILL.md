@@ -1,6 +1,6 @@
 ---
 name: nacherfuellung-vorrang
-description: "Klausel-Spezialskill für Nacherfüllung Vorrang: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Nacherfüllung Vorrang: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Nacherfüllung Vorrang

@@ -1,13 +1,13 @@
 ---
 name: review-engagement-rotation-cooling-sanktionen
-description: "Nutze dies, wenn Wirtschaftspruefer Review Engagement Abgrenzung Kaltstart Und F, Wirtschaftspruefer Rotation Und Cooling Off Kaltstart Und Fakte, Wirtschaftspruefer Sanktionen Russia Belarus Kaltstart Und Fakt, Wirtschaftspruefer Sonderpruefung Aktienrecht Kaltstart Und Fak, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kaltstart Un im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Review Engagement Abgrenzung Kaltstart Und F, Wirtschaftspruefer Rotation Und Cooling Off Kaltstart Und Fakte, Wirtschaftspruefer Sanktionen Russia Belarus Kaltstart Und Fakt, Wirtschaftspruefer Sonderpruefung Aktienrecht Kaltstart Und Fak, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kaltstart Un prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Review Engagement Abgrenzung Kaltstart Und F, Wirtschaftspruefer Rotation Und Cooling Off Kaltstart Und Fakte, Wirtschaftspruefer Sanktionen Russia Belarus Kaltstart Und Fakt, Wirtsch..."
+description: "Nutze dies bei Wirtschaftspruefer Review Engagement Abgrenzung Kaltstart Und F, Wirtschaftspruefer Rotation Und Cooling Off Kaltstart Und Fakte, Wirtschaftspruefer Sanktionen Russia Belarus Kaltstart Und Fakt, Wirtschaftspruefer Sonderpruefung Aktienrecht Kaltstart Und Fak: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Review Engagement Abgrenzung Kaltstart Und F, Wirtschaftspruefer Rotation Und Cooling Off Kaltstart Und Fakte, Wirtschaftspruefer Sanktionen Russia Belarus Kaltstart Und Fakt, Wirtschaftspruefer Sonderpruefung Aktienrecht Kaltstart Und Fak, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kaltstart Un
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Review Engagement Abgrenzung Kaltstart Und F, Wirtschaftspruefer Rotation Und Cooling Off Kaltstart Und Fakte, Wirtschaftspruefer Sanktionen Russia Belarus Kaltstart Und Fakt, Wirtschaftspruefer Sonderpruefung Aktienrecht Kaltstart Und Fak, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kaltstart Un** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: predatory-pricing-preisalgorithmen-kollusives
-description: "Nutze dies, wenn Predatory Pricing Kampfpreise, Preisalgorithmen Kollusives Risiko, Preisbindung Der Zweiten Hand Rpm, Presseverlage Plattformen Leistungsschutz Schnittstelle im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Predatory Pricing Kampfpreise, Preisalgorithmen Kollusives Risiko, Preisbindung Der Zweiten Hand Rpm, Presseverlage Plattformen Leistungsschutz Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Predatory Pricing Kampfpreise, Preisalgorithmen Kollusives Risiko, Preisbindung Der Zweiten Hand Rpm, Presseverlage Plattformen Leistungsschutz Schnittstelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Predatory Pricing Kampfpreise, Preisalgorithmen Kollusives Risiko, Preisbindung Der Zweiten Hand Rpm, Presseverlage Plattformen Leistungsschutz Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

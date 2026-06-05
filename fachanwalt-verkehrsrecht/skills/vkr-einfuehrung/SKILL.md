@@ -1,13 +1,13 @@
 ---
 name: vkr-einfuehrung
-description: "Nutze dies, wenn Vkr Einfuehrung Rechtsfelder im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vkr Einfuehrung Rechtsfelder prüfen.; Erstelle eine Arbeitsfassung zu Vkr Einfuehrung Rechtsfelder.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vkr Einfuehrung Rechtsfelder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vkr Einfuehrung Rechtsfelder
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vkr Einfuehrung Rechtsfelder** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

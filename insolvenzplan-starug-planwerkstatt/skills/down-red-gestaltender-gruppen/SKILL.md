@@ -1,32 +1,32 @@
 ---
 name: down-red-gestaltender-gruppen
-description: "Nutze dies, wenn Spezial Down Red Team Und Qualitaetskontrolle, Spezial Gestaltender Zahlen Schwellen Und Berechnung, Spezial Gruppen Schriftsatz Brief Und Memo Bausteine im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Down Red Team Und Qualitaetskontrolle, Gestaltender Zahlen Schwellen Und Berechnung, Gruppen Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Down Red Team Und Qualitaetskontrolle, Spezial Gestaltender Zahlen Schwellen Und Berechnung, Spezial Gruppen Schriftsatz Brief Und Memo Bausteine
+# Down Red Team Und Qualitaetskontrolle, Gestaltender Zahlen Schwellen Und Berechnung, Gruppen Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Down Red Team Und Qualitaetskontrolle, Gestaltender Zahlen Schwellen Und Berechnung, Gruppen Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-down-red-team-und-qualitaetskontrolle` | Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-gestaltender-zahlen-schwellen-und-berechnung` | Gestaltender: Zahlen, Schwellenwerte und Berechnung im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-gruppen-schriftsatz-brief-und-memo-bausteine` | Gruppen: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-down-red-team-und-qualitaetskontrolle` | Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gestaltender-zahlen-schwellen-und-berechnung` | Gestaltender: Zahlen, Schwellenwerte und Berechnung im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gruppen-schriftsatz-brief-und-memo-bausteine` | Gruppen: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Down Red Team Und Qualitaetskontrolle, Spezial Gestaltender Zahlen Schwellen Und Berechnung, Spezial Gruppen Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Down Red Team Und Qualitaetskontrolle, Gestaltender Zahlen Schwellen Und Berechnung, Gruppen Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-down-red-team-und-qualitaetskontrolle`
 
-**Fokus:** Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Down: Red-Team und Qualitätskontrolle
 
@@ -40,7 +40,7 @@ Für **Spezial Down Red Team Und Qualitaetskontrolle, Spezial Gestaltender Zahle
 
 
 ## Spezialwissen: Down: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Down: Red-Team und Qualitätskontrolle / spezial down red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Down: Red-Team und Qualitätskontrolle / down red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -85,7 +85,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-gestaltender-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Gestaltender: Zahlen, Schwellenwerte und Berechnung im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gestaltender: Zahlen, Schwellenwerte und Berechnung im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gestaltender: Zahlen, Schwellenwerte und Berechnung
 
@@ -99,7 +99,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Gestaltender: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Gestaltender: Zahlen, Schwellenwerte und Berechnung / spezial gestaltender zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gestaltender: Zahlen, Schwellenwerte und Berechnung / gestaltender zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -144,7 +144,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-gruppen-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Gruppen: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gruppen: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gruppen: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -158,7 +158,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Gruppen: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Gruppen: Schriftsatz-, Brief- und Memo-Bausteine / spezial gruppen schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gruppen: Schriftsatz-, Brief- und Memo-Bausteine / gruppen schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -188,16 +188,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Gruppen-/Klassenbildung — Standardstruktur
 - **InsO § 222 InsO Gruppenbildung:**
-  - Abs. 1: Forderungen mit gleicher Rechtsstellung in einer Gruppe;
-  - Abs. 2: Aufteilung nur bei sachlicher Rechtfertigung (z. B. Banken vs. Lieferanten vs. Kleinforderungen);
-  - typische Gruppen: Absonderungsberechtigte (Banken), Insolvenzforderungen ungesichert, Kleinforderungen (häufig <1.500 EUR Pauschalzahlung), Arbeitnehmerforderungen, nachrangige Forderungen, Anteilsinhaber.
+ - Abs. 1: Forderungen mit gleicher Rechtsstellung in einer Gruppe;
+ - Abs. 2: Aufteilung nur bei sachlicher Rechtfertigung (z. B. Banken vs. Lieferanten vs. Kleinforderungen);
+ - typische Gruppen: Absonderungsberechtigte (Banken), Insolvenzforderungen ungesichert, Kleinforderungen (häufig <1.500 EUR Pauschalzahlung), Arbeitnehmerforderungen, nachrangige Forderungen, Anteilsinhaber.
 - **StaRUG § 9 StaRUG Klassenbildung:** Vergleichbar zu § 222 InsO; Klassen müssen wirtschaftlich vergleichbare Rechtspositionen enthalten; auch hier sachliche Rechtfertigung für Aufspaltung.
 - **Mehrheits-Engineering:** Gruppen so bilden, dass Mehrheit erreichbar; aber: zu feine Aufspaltung führt zu § 250 InsO-Versagung und Bestätigungsrisiko.
 - **Pflicht-Information § 230 InsO bzw. § 17 StaRUG:** Vor Plan-Abstimmung schriftliche Information über Inhalt und Folgen — Verstöße führen zu Anfechtung der Abstimmung.
 - **Schriftsatz-Bausteine:**
-  - Antrag auf Bestätigung: Bezugnahme auf Plan und Abstimmungsergebnis.
-  - Stimmrechtsantrag bei bestrittenen Forderungen: § 77 InsO mit Schätzung und Begründung.
-  - Cram-Down-Antrag § 245 InsO / §§ 26 ff. StaRUG: Best-Interest-Test, Priorität-Test.
+ - Antrag auf Bestätigung: Bezugnahme auf Plan und Abstimmungsergebnis.
+ - Stimmrechtsantrag bei bestrittenen Forderungen: § 77 InsO mit Schätzung und Begründung.
+ - Cram-Down-Antrag § 245 InsO / §§ 26 ff. StaRUG: Best-Interest-Test, Priorität-Test.
 - **Praxis:** Gruppenbildung im darstellenden Teil ausführlich begründen — Argumentationskette wird im Bestätigungsverfahren geprüft.
 
 ## Quellenregel

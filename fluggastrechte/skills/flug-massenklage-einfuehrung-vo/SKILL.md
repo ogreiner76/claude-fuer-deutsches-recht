@@ -1,13 +1,13 @@
 ---
 name: flug-massenklage-einfuehrung-vo
-description: "Nutze dies, wenn Flug Massenklage Prozessfinanzierung Spezial, Fluggastrechte Einfuehrung Vo 261, Forderungsschreiben Erste Stufe im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Flug Massenklage Prozessfinanzierung Spezial, Fluggastrechte Einfuehrung Vo 261, Forderungsschreiben Erste Stufe prüfen.; Erstelle eine Arbeitsfassung zu Flug Massenklage Prozessfinanzierung Spezial, Fluggastrechte Einfuehrung Vo 261, Forderungsschreiben Erste Stufe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Flug Massenklage Prozessfinanzierung Spezial, Fluggastrechte Einfuehrung Vo 261, Forderungsschreiben Erste Stufe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Flug Massenklage Prozessfinanzierung Spezial, Fluggastrechte Einfuehrung Vo 261, Forderungsschreiben Erste Stufe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Flug Massenklage Prozessfinanzierung Spezial, Fluggastrechte Einfuehrung Vo 261, Forderungsschreiben Erste Stufe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `flug-massenklage-prozessfinanzierung-spezial` | Spezialfall Massenklage und Prozessfinanzierung in Fluggastrechten: Abtretung, Inkasso-Modelle, RDG-Grenzen, Anti-Claim-Klausel. Pruefraster fuer Verbraucher und Legal-Tech. |
 | `fluggastrechte-einfuehrung-vo-261` | Einfuehrung VO (EG) 261/2004: Anwendungsbereich (Abflug aus EU, Ankunft in EU mit EU-Carrier), Annullierung, Verspaetung ab 3 Stunden (EuGH-Sturgeon), Nichtbefoerderung. Ausgleichsstufen 250 Euro / 400 Euro / 600 Euro. Betreuungsleistungen Art. 9. Erstattungs- vs. Umbuchungswahlrecht. |
-| `forderungsschreiben-erste-stufe` | Workflow-Skill zu forderungsschreiben erste stufe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `forderungsschreiben-erste-stufe` | Arbeitsmodul zu forderungsschreiben erste stufe: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -131,7 +131,7 @@ Dieser Skill gehoert zum Plugin `fluggastrechte`. Er ergaenzt die uebrigen Skill
 
 ## 3. `forderungsschreiben-erste-stufe`
 
-**Fokus:** Workflow-Skill zu forderungsschreiben erste stufe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu forderungsschreiben erste stufe: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Forderungsschreiben — Erste Stufe
 
@@ -154,13 +154,13 @@ Dieser Skill gehoert zum Plugin `fluggastrechte`. Er ergaenzt die uebrigen Skill
 [Datum]
 
 An: [Airline-Name]
-   [Kundenservice-Postfach]
-   [Adresse]
-   [Land]
+ [Kundenservice-Postfach]
+ [Adresse]
+ [Land]
 
 Betreff: Forderung Ausgleichszahlung gemäß Art. 7 VO (EG) Nr. 261/2004
-         Flug [Flugnummer] vom [Datum]
-         Buchungscode [PNR]
+ Flug [Flugnummer] vom [Datum]
+ Buchungscode [PNR]
 ```
 
 ### 2. Sachverhalt knapp
@@ -172,10 +172,10 @@ ich nehme Bezug auf den unter dem Buchungscode [PNR] gebuchten Flug [Flugnummer]
 am [Datum] von [Abflughafen] nach [Zielflughafen] mit Ihrer Fluggesellschaft.
 
 Folgende Passagiere waren betroffen:
-  - [Name 1], geboren [Datum 1]
-  - [Name 2], geboren [Datum 2]
-  - [Name 3], geboren [Datum 3] (minderjährig, vertreten durch
-    die unterzeichnenden Erziehungsberechtigten)
+ - [Name 1], geboren [Datum 1]
+ - [Name 2], geboren [Datum 2]
+ - [Name 3], geboren [Datum 3] (minderjährig, vertreten durch
+ die unterzeichnenden Erziehungsberechtigten)
 
 Vollmachten der Mitreisenden sind beigefuegt (Anlagen K1 K2 ...).
 
@@ -221,9 +221,9 @@ Hiermit fordere ich Sie auf den Gesamtausgleich in Höhe von [X] EUR sowie
 gegebenenfalls Auslagenersatz für [Hotel Verpflegung Telefon] in Höhe von
 [Y] EUR — Belege beiliegend — auf folgendes Konto zu überweisen:
 
-  Inhaber: [Name]
-  IBAN: DE [...]
-  BIC: [...]
+ Inhaber: [Name]
+ IBAN: DE [...]
+ BIC: [...]
 
 bis spaetestens [Datum + 14 Tage].
 
@@ -238,12 +238,12 @@ Klage zum zuständigen Amtsgericht erheben mit den hieraus folgenden Mehrkosten
 
 ```
 Anlagen:
-  K1   Buchungsbestätigung Flug [Flugnummer] vom [Datum]
-  K2   Boardingpaesse aller Passagiere
-  K3   Stoerungsmitteilung der Airline (sofern vorhanden)
-  K4   Belege Auslagen Hotel Verpflegung Telefon
-  K5   Vollmacht [Name Passagier 2]
-  K6   Vollmacht [Name Passagier 3]
+ K1 Buchungsbestätigung Flug [Flugnummer] vom [Datum]
+ K2 Boardingpaesse aller Passagiere
+ K3 Stoerungsmitteilung der Airline (sofern vorhanden)
+ K4 Belege Auslagen Hotel Verpflegung Telefon
+ K5 Vollmacht [Name Passagier 2]
+ K6 Vollmacht [Name Passagier 3]
 ```
 
 ### 6. Schluss
@@ -294,9 +294,9 @@ Unmittelbar nach Erstellung des Schreibens den Skill `fluggastrechte-anlagen-bau
 schriftsatz: forderung-erste-stufe-<datum>.docx
 rohbelege_verzeichnis: <fall>/belege/
 ausgabeverzeichnis: <fall>/anlagen/
-bundle: true   # erzeugt zusätzlich Schriftsatz_mit_Anlagen.pdf
+bundle: true # erzeugt zusätzlich Schriftsatz_mit_Anlagen.pdf
 schriftgrad_stempel: 12
-schrift_stempel: Arial-Bold   # Arial 12 FETT oben rechts
+schrift_stempel: Arial-Bold # Arial 12 FETT oben rechts
 bezeichnung: "Anlage K"
 ```
 

@@ -1,22 +1,22 @@
 ---
 name: kirchenaustritt-deutschland-kirchenmusik
-description: "Nutze dies, wenn Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat prüfen.; Erstelle eine Arbeitsfassung zu Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtliche Bescheinigung Und Nachweis, Kirchliche Arbeitsverhaltnisse Und Loyalitat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `kirchenaustritt-in-deutschland` | Kirchenaustritt in Deutschland: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kirchenmusik-und-liturgie` | Kirchenmusik und Liturgie: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kirchenrechtliche-bescheinigung-und-nachweis` | Kirchenrechtliche Bescheinigung und Nachweis: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kirchliche-arbeitsverhaltnisse-und-loyalitat` | Kirchliche Arbeitsverhältnisse und Loyalität: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchenaustritt-in-deutschland` | Kirchenaustritt in Deutschland: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchenmusik-und-liturgie` | Kirchenmusik und Liturgie: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchenrechtliche-bescheinigung-und-nachweis` | Kirchenrechtliche Bescheinigung und Nachweis: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchliche-arbeitsverhaltnisse-und-loyalitat` | Kirchliche Arbeitsverhältnisse und Loyalität: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Kirchenaustritt In Deutschland, Kirchenmusik Und Liturgie, Kirchenrechtli
 
 ## 1. `kirchenaustritt-in-deutschland`
 
-**Fokus:** Kirchenaustritt in Deutschland: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchenaustritt in Deutschland: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchenaustritt in Deutschland
 
@@ -79,12 +79,12 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ### Kanonische Wirkung
 - Der staatliche Austritt loest nach DBK-Allgemeinem Dekret vom 20.09.2012 weitreichende kirchenrechtliche Folgen aus:
-  - Verlust des Rechts auf Sakramente (Eucharistie, Beichte, Krankensalbung) mit Ausnahme der Todesgefahr.
-  - Verlust des Rechts auf kirchliches Begraebnis (im Einzelfall durch den Ortsordinarius dispensierbar).
-  - Verlust des Patenamtes und des Taufpatenrechts.
-  - Verlust des Wahlrechts in kirchlichen Gremien.
-  - Verlust des Mandatum fuer kirchliche Lehraemter.
-  - Verlust der Anstellungsfaehigkeit in kirchlichen Berufen (mit Differenzierungen nach Grundordnung 2022).
+ - Verlust des Rechts auf Sakramente (Eucharistie, Beichte, Krankensalbung) mit Ausnahme der Todesgefahr.
+ - Verlust des Rechts auf kirchliches Begraebnis (im Einzelfall durch den Ortsordinarius dispensierbar).
+ - Verlust des Patenamtes und des Taufpatenrechts.
+ - Verlust des Wahlrechts in kirchlichen Gremien.
+ - Verlust des Mandatum fuer kirchliche Lehraemter.
+ - Verlust der Anstellungsfaehigkeit in kirchlichen Berufen (mit Differenzierungen nach Grundordnung 2022).
 - Der Austritt fuehrt nicht automatisch zum kanonischen Verlust der Kirchengliedschaft (c. 11 CIC i.V.m. c. 96 CIC: Taufe begruendet die Mitgliedschaft).
 - Die Diskussion um den actus formalis defectionis ab Ecclesia catholica ist mit den Mitteilungen der Glaubenskongregation 2006 entschaerft, aber nicht final geklaert.
 
@@ -105,7 +105,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -116,7 +116,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `kirchenmusik-und-liturgie`
 
-**Fokus:** Kirchenmusik und Liturgie: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchenmusik und Liturgie: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchenmusik und Liturgie
 
@@ -163,7 +163,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -174,7 +174,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `kirchenrechtliche-bescheinigung-und-nachweis`
 
-**Fokus:** Kirchenrechtliche Bescheinigung und Nachweis: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchenrechtliche Bescheinigung und Nachweis: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchenrechtliche Bescheinigung und Nachweis
 
@@ -221,7 +221,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -232,7 +232,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `kirchliche-arbeitsverhaltnisse-und-loyalitat`
 
-**Fokus:** Kirchliche Arbeitsverhältnisse und Loyalität: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliche Arbeitsverhältnisse und Loyalität: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliche Arbeitsverhältnisse und Loyalität
 
@@ -280,10 +280,10 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 ### Grundordnung 2022
 - **Grundordnung des kirchlichen Dienstes im Rahmen kirchlicher Arbeitsverhaeltnisse** (DBK 22.11.2022, in Kraft je Dioezese unterschiedlich, weitestgehend zum 01.01.2023 in den meisten Dioezesen).
 - Wesentliche Aenderungen gegenueber GrO 1993/2015:
-  - Keine pauschale Kuendigung bei standesamtlicher Wiederheirat nach Scheidung.
-  - Keine Kuendigung wegen gleichgeschlechtlicher Partnerschaft als solcher.
-  - Loyalitaet wird auf grobe Verstoesse gegen den Charakter des Dienstes beschraenkt.
-  - Differenzierte Anforderungen je nach Naehe zum kirchlichen Verkuendigungsauftrag.
+ - Keine pauschale Kuendigung bei standesamtlicher Wiederheirat nach Scheidung.
+ - Keine Kuendigung wegen gleichgeschlechtlicher Partnerschaft als solcher.
+ - Loyalitaet wird auf grobe Verstoesse gegen den Charakter des Dienstes beschraenkt.
+ - Differenzierte Anforderungen je nach Naehe zum kirchlichen Verkuendigungsauftrag.
 
 ### Staats- und Verfassungsrecht
 - **Art. 137 Abs. 3 WRV i.V.m. Art. 140 GG**: kirchliches Selbstbestimmungsrecht in eigenen Angelegenheiten.
@@ -312,7 +312,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

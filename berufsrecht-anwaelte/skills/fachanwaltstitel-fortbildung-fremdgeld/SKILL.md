@@ -1,13 +1,13 @@
 ---
 name: fachanwaltstitel-fortbildung-fremdgeld
-description: "Nutze dies, wenn Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaelte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwaelte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwaelte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwaelte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Fachanwaltstitel Und Fortbildung Rechtsprechungscheck, Anwälte Fremdgeld Und Anderkonto Rechtsprechungscheck Und Red, Anwälte Fristversaeumnis Und Wiedereinsetzung Rechtsprechungsc, Anwälte Gebuehrenunterschreitung Und Pro Bono Rechtsprechungsc** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

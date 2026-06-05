@@ -1,13 +1,13 @@
 ---
 name: verl-abstimmung-lektorat-produktion-satz
-description: "Nutze dies, wenn Verl Abstimmung Mit Lektorat Format, Verl Abstimmung Mit Produktion Satz Druck, Verl Abstimmung Mit Rechtsabteilung Prüfung, Verl Abstimmung Mit Vertrieb Marketing, Verl Audio Transkript Zu Fachbeitrag im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Verl Abstimmung Mit Lektorat Format, Verl Abstimmung Mit Produktion Satz Druck, Verl Abstimmung Mit Rechtsabteilung Prüfung, Verl Abstimmung Mit Vertrieb Marketing, Verl Audio Transkript Zu Fachbeitrag prüfen.; Erstelle eine Arbeitsfassung zu Verl Abstimmung Mit Lektorat Format, Verl Abstimmung Mit Produktion Satz Druck, Verl Abstimmung Mit Rechtsabteilung Prüfung, Verl Abstimmung Mit Vertrieb Marketing, Verl Audio Transkript Zu Fachbeitrag.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl Abstimmung Mit Lektorat Format, Verl Abstimmung Mit Produktion Satz Druck, Verl Abstimmung Mit Rechtsabteilung Prüfung, Verl Abstimmung Mit Vertrieb Marketing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Abstimmung Mit Lektorat Format, Verl Abstimmung Mit Produktion Satz Druck, Verl Abstimmung Mit Rechtsabteilung Prüfung, Verl Abstimmung Mit Vertrieb Marketing, Verl Audio Transkript Zu Fachbeitrag
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Abstimmung Mit Lektorat Format, Verl Abstimmung Mit Produktion Satz Druck, Verl Abstimmung Mit Rechtsabteilung Prüfung, Verl Abstimmung Mit Vertrieb Marketing, Verl Audio Transkript Zu Fachbeitrag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -54,8 +54,8 @@ Sie brauchen ihn, wenn Lektorat und Redaktion neu aufgestellt sind, ein neues Ma
 ## Praxisleitfaden / Schritt fuer Schritt
 
 1. **Schnittstelle festlegen.**
-   - **Redaktion:** inhaltliche Beurteilung, Annahme/Ablehnung, Heftslot, Beitragsformat.
-   - **Lektorat:** Sprache, Stil, Format, Zitiernorm, Konsistenz, ggf. Korrekturlauf.
+ - **Redaktion:** inhaltliche Beurteilung, Annahme/Ablehnung, Heftslot, Beitragsformat.
+ - **Lektorat:** Sprache, Stil, Format, Zitiernorm, Konsistenz, ggf. Korrekturlauf.
 2. **Uebergabeprotokoll.** Jede Uebergabe mit Datum, Bearbeiter, Versionsstand, was gemacht wurde, was noch offen ist.
 3. **Versionierungsregeln.** Dateiname `Autor-Titel_vN_status.docx` mit klarem Status (`eingang`, `lekt1`, `lekt2`, `red1`, `freigabe`, `druck`).
 4. **Track-Changes-Konvention.** Wer schaltet TC ein/aus? Wer kommentiert? Wer akzeptiert? Bei Word: jeweils Autorinnenname in den Einstellungen.
@@ -113,13 +113,13 @@ Offen:
 **Versionsstand-Schema:**
 
 ```
-Mueller-Plattform_v1_eingang.docx        (vom Autor)
-Mueller-Plattform_v2_lekt0.docx          (nach Format-Check)
-Mueller-Plattform_v3_lekt1.docx          (nach Sprachlektorat)
-Mueller-Plattform_v4_red1.docx           (nach Redaktion)
-Mueller-Plattform_v5_aut.docx            (Autor-Rueckmeldung)
-Mueller-Plattform_v6_freigabe.docx       (alle Aenderungen akzeptiert)
-Mueller-Plattform_v7_druck.docx          (an Produktion)
+Mueller-Plattform_v1_eingang.docx (vom Autor)
+Mueller-Plattform_v2_lekt0.docx (nach Format-Check)
+Mueller-Plattform_v3_lekt1.docx (nach Sprachlektorat)
+Mueller-Plattform_v4_red1.docx (nach Redaktion)
+Mueller-Plattform_v5_aut.docx (Autor-Rueckmeldung)
+Mueller-Plattform_v6_freigabe.docx (alle Aenderungen akzeptiert)
+Mueller-Plattform_v7_druck.docx (an Produktion)
 ```
 
 ## Typische Fehler / Pitfalls
@@ -176,11 +176,11 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 ## Praxisleitfaden / Schritt fuer Schritt
 
 1. **Uebergabe-Paket fuer Setzer:**
-   - Manuskript als .docx (freigegeben, alle Aenderungen akzeptiert).
-   - Bilder als separate Dateien in 300+ dpi.
-   - Tabellen ggf. separat als .xlsx.
-   - Style-Anweisungen / Vorlage.
-   - Inhaltsverzeichnis / Stichwortverzeichnis.
+ - Manuskript als .docx (freigegeben, alle Aenderungen akzeptiert).
+ - Bilder als separate Dateien in 300+ dpi.
+ - Tabellen ggf. separat als .xlsx.
+ - Style-Anweisungen / Vorlage.
+ - Inhaltsverzeichnis / Stichwortverzeichnis.
 2. **Erste Satzfahne pruefen** mit `satzfahne-korrekturlauf`.
 3. **Korrekturen markieren** im PDF (Adobe Acrobat-Kommentare oder ausgedruckt mit Korrekturzeichen).
 4. **Zweite Fahne** auf Vollstaendigkeit der Korrekturen pruefen.
@@ -301,11 +301,11 @@ Vor Drucklegung oder Onlineschaltung muss bei rechtssensiblen Beitraegen das Jus
 ## Praxisleitfaden / Schritt fuer Schritt
 
 1. **Vorselektion durch Redaktion.** Ein Pruefkanon laeuft jedem Beitrag voraus. Bei "Ja" zu einem der folgenden Punkte: Justiziariat einschalten.
-   - Namentliche Berichterstattung ueber lebende Personen mit kritischer Bewertung.
-   - Aktenzeichen aus laufenden Verfahren mit identifizierender Wirkung.
-   - Behauptungen ueber konkrete Pflichtverletzungen, Unwirksamkeiten von AGB Dritter, Verstoesse gegen Berufsrecht.
-   - Bildmaterial ohne klare Lizenz oder ohne Personenrechte.
-   - Sponsored Content, Affiliate-Links, vergleichende Aussagen.
+ - Namentliche Berichterstattung ueber lebende Personen mit kritischer Bewertung.
+ - Aktenzeichen aus laufenden Verfahren mit identifizierender Wirkung.
+ - Behauptungen ueber konkrete Pflichtverletzungen, Unwirksamkeiten von AGB Dritter, Verstoesse gegen Berufsrecht.
+ - Bildmaterial ohne klare Lizenz oder ohne Personenrechte.
+ - Sponsored Content, Affiliate-Links, vergleichende Aussagen.
 2. **Pruefpaket schnueren.** Manuskriptfassung mit Stand, Quellenliste, ggf. Bildlizenzen, ggf. Anonymisierungsentscheidungen, gewuenschte Online- und Printtermine.
 3. **Pruefauftrag schreiben.** Nicht "schaut mal druber", sondern konkrete Fragen: "Ist Passage S. 3 Abs. 2 zulaessige Werturteil oder unwahre Tatsachenbehauptung?"
 4. **Frist setzen.** Mindestens fuenf Werktage vor Imprimatur; bei Brennthemen 24 Stunden mit explizitem Hinweis.
@@ -342,15 +342,15 @@ Sehr geehrte/r [Name Justiziariat],
 bitte pruefen Sie den anliegenden Beitrag mit Blick auf folgende Punkte:
 
 1. Persoenlichkeitsrecht - Passage S. [n] Abs. [n] enthaelt namentliche
-   Bewertung von [Name/Funktion]. Ist die Bewertung als Werturteil
-   zulaessig?
+ Bewertung von [Name/Funktion]. Ist die Bewertung als Werturteil
+ zulaessig?
 2. Aeusserungsrecht / Tatsachenbehauptung - Passage S. [n] Abs. [n]
-   behauptet "[konkretes Zitat]". Ist der Beleg in Fn. [n] ausreichend?
+ behauptet "[konkretes Zitat]". Ist der Beleg in Fn. [n] ausreichend?
 3. Bildrechte - Abbildung [n] stammt aus [Quelle], Lizenz: [Quelle/Stand].
-   Bitte Rechte/Personen pruefen.
+ Bitte Rechte/Personen pruefen.
 4. Wettbewerbsrecht - Tabelle S. [n] vergleicht Produkte von [Anbietern].
 5. KI-Anteil - Abschnitt [Bezug] enthaelt mit [Tool] generierte Passage,
-   redaktionell ueberarbeitet.
+ redaktionell ueberarbeitet.
 
 Imprimaturziel: [Datum, Uhrzeit].
 Bei Rueckfragen erreichen Sie mich unter [Kontakt].
@@ -437,11 +437,11 @@ Sie brauchen ihn 6-9 Monate vor Erscheinen eines neuen Produkts, periodisch fuer
 4. **Alleinstellungsmerkmale.** Was hat NUR dieses Produkt?
 5. **Preisarchitektur.** Standardausgabe / Online-Lizenz / Kombiabo. Stichprobe Konkurrenzpreise.
 6. **Marketing-Material aufbereiten:**
-   - Klappentext (200-400 Z).
-   - Kapitelteaser fuer Web.
-   - Autoren-Kurzbiografie.
-   - Probekapitel oder Leseprobe.
-   - Pressetext (300-600 Z).
+ - Klappentext (200-400 Z).
+ - Kapitelteaser fuer Web.
+ - Autoren-Kurzbiografie.
+ - Probekapitel oder Leseprobe.
+ - Pressetext (300-600 Z).
 7. **Veranstaltungspitch.** Wenn auf Tagung / Messe: 60-Sek-Pitch.
 8. **Erscheinungs-Vorschau.** Was passiert zu welchem Zeitpunkt (Vorschau, Vorab-Mailings, Erstauslieferung)?
 

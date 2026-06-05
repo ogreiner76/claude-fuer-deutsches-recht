@@ -1,13 +1,13 @@
 ---
 name: geschaeftsbesorgung-zahlungsdienste-goa
-description: "Nutze dies, wenn Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677 im Plugin Bgb Bt Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677 prüfen.; Erstelle eine Arbeitsfassung zu Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

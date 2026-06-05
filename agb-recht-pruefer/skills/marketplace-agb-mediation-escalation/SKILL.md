@@ -1,23 +1,23 @@
 ---
 name: marketplace-agb-mediation-escalation
-description: "Nutze dies, wenn Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305C2, Mehrsprachige Agb Check im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305C2, Mehrsprachige Agb Check prüfen.; Erstelle eine Arbeitsfassung zu Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305C2, Mehrsprachige Agb Check.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305c2: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305C2, Mehrsprachige Agb Check
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrdeutigkeit 305C2, Mehrsprachige Agb Check** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `marketplace-agb` | Branchen-Spezialskill für Marketplace AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `mediation-escalation` | Klausel-Spezialskill für Mediation Escalation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `medizinische-leistungen-agb` | Branchen-Spezialskill für Medizinische Leistungen AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `marketplace-agb` | Branchen-Fachmodul für Marketplace AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `mediation-escalation` | Klausel-Fachmodul für Mediation Escalation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `medizinische-leistungen-agb` | Branchen-Fachmodul für Medizinische Leistungen AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `mehrdeutigkeit-305c2` | Norm- und Dogmatik-Skill für Mehrdeutigkeit 305c2: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `mehrsprachige-agb-check` | Einstiegs- und Workflow-Skill für Mehrsprachige AGB Check: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `mehrsprachige-agb-check` | Einstiegs- und Arbeitsmodul für Mehrsprachige AGB Check: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Marketplace Agb, Mediation Escalation, Medizinische Leistungen Agb, Mehrd
 
 ## 1. `marketplace-agb`
 
-**Fokus:** Branchen-Spezialskill für Marketplace AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Marketplace AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Marketplace AGB
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `mediation-escalation`
 
-**Fokus:** Klausel-Spezialskill für Mediation Escalation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Mediation Escalation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Mediation Escalation
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `medizinische-leistungen-agb`
 
-**Fokus:** Branchen-Spezialskill für Medizinische Leistungen AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Medizinische Leistungen AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Medizinische Leistungen AGB
 
@@ -248,7 +248,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `mehrsprachige-agb-check`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Mehrsprachige AGB Check: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Mehrsprachige AGB Check: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Mehrsprachige AGB Check
 

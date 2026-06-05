@@ -1,13 +1,13 @@
 ---
 name: klage-niederschrift-zusammenstellen-bundle
-description: "Nutze dies, wenn Klage Zur Niederschrift 90 Sgg, Klage Zusammenstellen Bundle Sozialgericht, Klagearten Uebersicht Sgg, Klagebegruendung Laienleitfaden, Kostenfrei Vs Aufwendungsersatz 193 Sgg im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Klage Zur Niederschrift 90 Sgg, Klage Zusammenstellen Bundle Sozialgericht, Klagearten Uebersicht Sgg, Klagebegruendung Laienleitfaden, Kostenfrei Vs Aufwendungsersatz 193 Sgg prüfen.; Erstelle eine Arbeitsfassung zu Klage Zur Niederschrift 90 Sgg, Klage Zusammenstellen Bundle Sozialgericht, Klagearten Uebersicht Sgg, Klagebegruendung Laienleitfaden, Kostenfrei Vs Aufwendungsersatz 193 Sgg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klage Zur Niederschrift 90 Sgg, Klage Zusammenstellen Bundle Sozialgericht, Klagearten Uebersicht Sgg, Klagebegruendung Laienleitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klage Zur Niederschrift 90 Sgg, Klage Zusammenstellen Bundle Sozialgericht, Klagearten Uebersicht Sgg, Klagebegruendung Laienleitfaden, Kostenfrei Vs Aufwendungsersatz 193 Sgg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klage Zur Niederschrift 90 Sgg, Klage Zusammenstellen Bundle Sozialgericht, Klagearten Uebersicht Sgg, Klagebegruendung Laienleitfaden, Kostenfrei Vs Aufwendungsersatz 193 Sgg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -553,20 +553,20 @@ Listen Sie ALLE Beweise auf:
 IV. Beweisangebot
 
 1. Aerztliche Befundberichte
-   - Hausarzt Dr. X vom [Datum], Anlage K1
-   - Facharzt Dr. Y vom [Datum], Anlage K2
-   - Krankenhausentlassungsbericht vom [Datum], Anlage K3
-   - Reha-Entlassungsbericht vom [Datum], Anlage K4
+ - Hausarzt Dr. X vom [Datum], Anlage K1
+ - Facharzt Dr. Y vom [Datum], Anlage K2
+ - Krankenhausentlassungsbericht vom [Datum], Anlage K3
+ - Reha-Entlassungsbericht vom [Datum], Anlage K4
 
 2. Zeugen
-   - Frau [Name, Adresse] zum Pflegealltag
-   - Herr [Name, Adresse] zur Arbeitsfaehigkeit
+ - Frau [Name, Adresse] zum Pflegealltag
+ - Herr [Name, Adresse] zur Arbeitsfaehigkeit
 
 3. Antrag auf Sachverstaendigen-Gutachten nach § 103 SGG
-   Zur Frage des Leistungsvermoegens auf dem allgemeinen Arbeitsmarkt.
+ Zur Frage des Leistungsvermoegens auf dem allgemeinen Arbeitsmarkt.
 
 4. Hilfsweise: Antrag auf Sachverstaendigen-Gutachten nach § 109 SGG
-   Sachverstaendiger: Prof. Dr. [Name], [Adresse / Klinik]
+ Sachverstaendiger: Prof. Dr. [Name], [Adresse / Klinik]
 ```
 
 ### Schritt 6 — Anlagenverzeichnis
@@ -693,7 +693,7 @@ NICHT erstattungsfaehig:
 Das Gericht kann im Urteil ueber die Erstattung entscheiden. Oder Sie stellen nach dem Urteil:
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 
@@ -702,13 +702,13 @@ Antrag auf Kostenfestsetzung nach § 197 SGG
 Ich beantrage, die mir zu erstattenden Auslagen wie folgt festzusetzen:
 
 1. Anwaltskosten: [Betrag] EUR
-   - Geschaeftsgebuehr [...]
-   - Verfahrensgebuehr [...]
-   - Terminsgebuehr [...]
+ - Geschaeftsgebuehr [...]
+ - Verfahrensgebuehr [...]
+ - Terminsgebuehr [...]
 
 2. Fahrtkosten: [Betrag] EUR
-   - 2 Fahrten je 50 km zum Termin am [Datum] = 100 km * 0,30 EUR = 30 EUR
-   - 2 Fahrten je 50 km zur Untersuchung am [Datum] = 30 EUR
+ - 2 Fahrten je 50 km zum Termin am [Datum] = 100 km * 0,30 EUR = 30 EUR
+ - 2 Fahrten je 50 km zur Untersuchung am [Datum] = 30 EUR
 
 3. Auslagenpauschale: 20 EUR
 

@@ -1,13 +1,13 @@
 ---
 name: vermoegensauskunft-vollstreckungsbescheid
-description: "Nutze dies, wenn Spezial Vermoegensauskunft Zahlen Schwellen Und Berechnung, Spezial Vollstreckungsbescheid Dokumentenmatrix Und Lueckenliste, Spezial Vollstreckungstitel Sonderfall Und Edge Case im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Vermoegensauskunft Zahlen Schwellen Und Berechnung, Spezial Vollstreckungsbescheid Dokumentenmatrix Und Lueckenliste, Spezial Vollstreckungstitel Sonderfall Und Edge Case prüfen.; Erstelle eine Arbeitsfassung zu Spezial Vermoegensauskunft Zahlen Schwellen Und Berechnung, Spezial Vollstreckungsbescheid Dokumentenmatrix Und Lueckenliste, Spezial Vollstreckungstitel Sonderfall Und Edge Case.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vermoegensauskunft Zahlen Schwellen Und Berechnung, Vollstreckungsbescheid Dokumentenmatrix Und Lueckenliste, Vollstreckungstitel Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Vermoegensauskunft Zahlen Schwellen Und Berechnung, Spezial Vollstreckungsbescheid Dokumentenmatrix Und Lueckenliste, Spezial Vollstreckungstitel Sonderfall Und Edge Case
+# Vermoegensauskunft Zahlen Schwellen Und Berechnung, Vollstreckungsbescheid Dokumentenmatrix Und Lueckenliste, Vollstreckungstitel Sonderfall Und Edge Case
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vermoegensauskunft Zahlen Schwellen Und Berechnung, Vollstreckungsbescheid Dokumentenmatrix Und Lueckenliste, Vollstreckungstitel Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Vermoegensauskunft Zahlen Schwellen Und Berechnung, Spezial Vollstreckungsbescheid Dokumentenmatrix Und Lueckenliste, Spezial Vollstreckungstitel Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vermoegensauskunft Zahlen Schwellen Und Berechnung, Vollstreckungsbescheid Dokumentenmatrix Und Lueckenliste, Vollstreckungstitel Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Vermoegensauskunft Zahlen Schwellen Und Berechnung, Spezial Volls
 # Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung / spezial vermoegensauskunft zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung / vermoegensauskunft zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung / spezial vollstreckungsbescheid dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung / vollstreckungsbescheid dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -124,7 +124,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung / spezial vollstreckungstitel sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vollstreckungstitel: Sonderfall und Edge-Case-Prüfung / vollstreckungstitel sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

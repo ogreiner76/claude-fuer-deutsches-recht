@@ -1,13 +1,13 @@
 ---
 name: umv-windpark-einwendung-akteneinsicht
-description: "Nutze dies, wenn Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben im Plugin Umweltschutzverband Verbandsklage konkret bearbeitet werden soll. Auslöser: Bitte Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben prüfen.; Erstelle eine Arbeitsfassung zu Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umv 022 Windpark Einwendung Bauen, Umv 023 Windpark Akteneinsicht Erzwingen, Umv 024 Windpark Gutachten Zerlegen, Umv 026 Windpark Eilantrag Schreiben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

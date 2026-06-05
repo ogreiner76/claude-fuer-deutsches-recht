@@ -1,13 +1,13 @@
 ---
 name: verl-verlagsvertrag-verl-redaktionsvertrag
-description: "Nutze dies, wenn Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

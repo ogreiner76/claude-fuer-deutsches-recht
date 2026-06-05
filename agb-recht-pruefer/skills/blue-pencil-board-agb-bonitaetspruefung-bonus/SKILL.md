@@ -1,13 +1,13 @@
 ---
 name: blue-pencil-board-agb-bonitaetspruefung-bonus
-description: "Nutze dies, wenn Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bonitaetspruefung, Bonus Rabatt, Business Summary Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bonitaetspruefung, Bonus Rabatt, Business Summary Agb prüfen.; Erstelle eine Arbeitsfassung zu Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bonitaetspruefung, Bonus Rabatt, Business Summary Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bonitaetspruefung, Bonus Rabatt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bonitaetspruefung, Bonus Rabatt, Business Summary Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Blue Pencil Und Geltungserhaltende Reduktion, Board Brief Agb, Bonitaetspruefung, Bonus Rabatt, Business Summary Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,8 +15,8 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `blue-pencil-und-geltungserhaltende-reduktion` | Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ablehnung der geltungserhaltenden Reduktion. Liefert Pruefraster. |
 | `board-brief-agb` | Output- und Streit-Skill für Board Brief AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `bonitaetspruefung` | Klausel-Spezialskill für Bonitätsprüfung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `bonus-rabatt` | Klausel-Spezialskill für Bonus Rabatt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `bonitaetspruefung` | Klausel-Fachmodul für Bonitätsprüfung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `bonus-rabatt` | Klausel-Fachmodul für Bonus Rabatt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `business-summary-agb` | Output- und Streit-Skill für Business Summary AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsweg
@@ -123,7 +123,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `bonitaetspruefung`
 
-**Fokus:** Klausel-Spezialskill für Bonitätsprüfung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Bonitätsprüfung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Bonitätsprüfung
 
@@ -178,7 +178,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `bonus-rabatt`
 
-**Fokus:** Klausel-Spezialskill für Bonus Rabatt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Bonus Rabatt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Bonus Rabatt
 

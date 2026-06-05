@@ -1,13 +1,13 @@
 ---
 name: litigation-eilverfahren-produkthaftung
-description: "Nutze dies, wenn Litigation Und Eilverfahren Fashion, Produkthaftung Defective Garment im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Litigation Und Eilverfahren Fashion, Produkthaftung Defective Garment prüfen.; Erstelle eine Arbeitsfassung zu Litigation Und Eilverfahren Fashion, Produkthaftung Defective Garment.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Litigation Und Eilverfahren Fashion, Produkthaftung Defective Garment: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Litigation Und Eilverfahren Fashion, Produkthaftung Defective Garment
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Litigation Und Eilverfahren Fashion, Produkthaftung Defective Garment** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

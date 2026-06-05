@@ -1,13 +1,13 @@
 ---
 name: bescheid-frist-fristenbuch-sozialrecht
-description: "Nutze dies, wenn Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb prüfen.; Erstelle eine Arbeitsfassung zu Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -157,17 +157,17 @@ Pro Eintrag:
 
 ```yaml
 - mandat-az: SR-2026-0042
-  mandant: Mueller, Hans
-  vorgang: Bürgergeld-Bescheid 12.03.2026
-  fristart: widerspruchsfrist
-  rechtsgrundlage: "§ 84 Abs. 1 SGG"
-  fristbeginn: 2026-03-16  # Zugang nach Vier-Tages-Fiktion § 37 Abs. 2 SGB X n.F. (PostModG, seit 1.1.2025): Aufgabe zur Post 12.03.2026 + 4 Tage = 16.03.2026
-  hauptfrist: 2026-04-16
-  vorfrist-tage: 5
-  vorfrist: 2026-04-11
-  zustaendig: RA Mueller
-  status: offen
-  bemerkung: Widerspruchsbegründung benoetigt Akteneinsicht
+ mandant: Mueller, Hans
+ vorgang: Bürgergeld-Bescheid 12.03.2026
+ fristart: widerspruchsfrist
+ rechtsgrundlage: "§ 84 Abs. 1 SGG"
+ fristbeginn: 2026-03-16 # Zugang nach Vier-Tages-Fiktion § 37 Abs. 2 SGB X n.F. (PostModG, seit 1.1.2025): Aufgabe zur Post 12.03.2026 + 4 Tage = 16.03.2026
+ hauptfrist: 2026-04-16
+ vorfrist-tage: 5
+ vorfrist: 2026-04-11
+ zustaendig: RA Mueller
+ status: offen
+ bemerkung: Widerspruchsbegründung benoetigt Akteneinsicht
 ```
 
 ## Standardfristen

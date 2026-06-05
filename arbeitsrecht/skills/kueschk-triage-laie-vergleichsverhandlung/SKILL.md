@@ -1,13 +1,13 @@
 ---
 name: kueschk-triage-laie-vergleichsverhandlung
-description: "Nutze dies, wenn Kündigungsschutzklage Triage Laie Oder Anwalt, Kündigungsschutzklage Vergleichsverhandlung Checkliste, Kündigungsschutzklage Weiterbeschaeftigungsantrag Grosser Senat, Kündigungsschutzklage Zeugnisanspruch Und Vergleich im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Kündigungsschutzklage Triage Laie Oder Anwalt, Kündigungsschutzklage Vergleichsverhandlung Checkliste, Kündigungsschutzklage Weiterbeschaeftigungsantrag Grosser Senat, Kündigungsschutzklage Zeugnisanspruch Und Vergleich prüfen.; Erstelle eine Arbeitsfassung zu Kündigungsschutzklage Triage Laie Oder Anwalt, Kündigungsschutzklage Vergleichsverhandlung Checkliste, Kündigungsschutzklage Weiterbeschaeftigungsantrag Grosser Senat, Kündigungsschutzklage Zeugnisanspruch Und Vergleich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kündigungsschutzklage Triage Laie Oder Anwalt, Kündigungsschutzklage Vergleichsverhandlung Checkliste, Kündigungsschutzklage Weiterbeschaeftigungsantrag Grosser Senat, Kündigungsschutzklage Zeugnisanspruch Und Vergleich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kündigungsschutzklage Triage Laie Oder Anwalt, Kündigungsschutzklage Vergleichsverhandlung Checkliste, Kündigungsschutzklage Weiterbeschaeftigungsantrag Grosser Senat, Kündigungsschutzklage Zeugnisanspruch Und Vergleich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kündigungsschutzklage Triage Laie Oder Anwalt, Kündigungsschutzklage Vergleichsverhandlung Checkliste, Kündigungsschutzklage Weiterbeschaeftigungsantrag Grosser Senat, Kündigungsschutzklage Zeugnisanspruch Und Vergleich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -42,7 +42,7 @@ Für **Kündigungsschutzklage Triage Laie Oder Anwalt, Kündigungsschutzklage Ve
 
 ## Zweck
 
-Dieser Skill ist der **Kerneinstieg** für das Kündigungsschutzklage-Bündel. Er klärt zunächst, wer den Workflow nutzt, und leitet dann zielgerichtet weiter. Ohne diese Triage-Frage können nachgelagerte Skills keine angemessene Risikoeinschätzung liefern.
+Dieser Skill ist der **Kerneinstieg** für das Kündigungsschutzklage-Bündel. Er klärt zunächst, wer den nutzt, und leitet dann zielgerichtet weiter. Ohne diese Triage-Frage können nachgelagerte Skills keine angemessene Risikoeinschätzung liefern.
 
 ## Eröffnungsfrage (PFLICHT, immer zuerst)
 
@@ -112,7 +112,7 @@ Du bist dabei, rechtliche Schritte einzuleiten, ohne Anwalt zu sein. Das ist ges
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Keine Vorwegnahme des Ergebnisses
 
-Der Skill liefert noch keine inhaltliche Prüfung der Kündigung. Er stellt ausschließlich die Weichenfrage, welche den gesamten nachfolgenden Workflow prägt.
+Der Skill liefert noch keine inhaltliche Prüfung der Kündigung. Er stellt ausschließlich die Weichenfrage, welche den gesamten nachfolgenden prägt.
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 name: drg-ns-zeit-entnazifizierung
-description: "Nutze dies, wenn Drg Neu 013 Ns Zeit Unrecht Gesetzgebung Und Justiz, Drg Neu 014 Entnazifizierung Kontrollratsrecht Und Uebergang, Drg Neu 015 Grundgesetz Entstehung Parlamentarischer Rat, Drg Neu 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Drg Neu 018 Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen im Plugin Deutsche Rechtsgeschichte konkret bearbeitet werden soll. Auslöser: Bitte Drg Neu 013 Ns Zeit Unrecht Gesetzgebung Und Justiz, Drg Neu 014 Entnazifizierung Kontrollratsrecht Und Uebergang, Drg Neu 015 Grundgesetz Entstehung Parlamentarischer Rat, Drg Neu 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Drg Neu 018 Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Drg Neu 013 Ns Zeit Unrecht Gesetzgebung Und Justiz, Drg Neu 014 Entnazifizierung Kontrollratsrecht Und Uebergang, Drg Neu 015 Grundgesetz Entstehung Parlamentarischer Rat, Drg Neu 016 Ddr Recht Sozialistische Geset..."
+description: "Nutze dies bei Deutsche Rechtsgeschichte Ns Zeit Unrecht Gesetzgebung Und Justiz, Deutsche Rechtsgeschichte Entnazifizierung Kontrollratsrecht Und Uebergang, Deutsche Rechtsgeschichte Grundgesetz Entstehung Parlamentarischer Rat, Deutsche Rechtsgeschichte Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Drg Neu 013 Ns Zeit Unrecht Gesetzgebung Und Justiz, Drg Neu 014 Entnazifizierung Kontrollratsrecht Und Uebergang, Drg Neu 015 Grundgesetz Entstehung Parlamentarischer Rat, Drg Neu 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Drg Neu 018 Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen
+# Deutsche Rechtsgeschichte Ns Zeit Unrecht Gesetzgebung Und Justiz, Deutsche Rechtsgeschichte Entnazifizierung Kontrollratsrecht Und Uebergang, Deutsche Rechtsgeschichte Grundgesetz Entstehung Parlamentarischer Rat, Deutsche Rechtsgeschichte Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Deutsche Rechtsgeschichte Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte Ns Zeit Unrecht Gesetzgebung Und Justiz, Deutsche Rechtsgeschichte Entnazifizierung Kontrollratsrecht Und Uebergang, Deutsche Rechtsgeschichte Grundgesetz Entstehung Parlamentarischer Rat, Deutsche Rechtsgeschichte Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Deutsche Rechtsgeschichte Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -22,7 +22,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Drg Neu 013 Ns Zeit Unrecht Gesetzgebung Und Justiz, Drg Neu 014 Entnazifizierung Kontrollratsrecht Und Uebergang, Drg Neu 015 Grundgesetz Entstehung Parlamentarischer Rat, Drg Neu 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Drg Neu 018 Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte Ns Zeit Unrecht Gesetzgebung Und Justiz, Deutsche Rechtsgeschichte Entnazifizierung Kontrollratsrecht Und Uebergang, Deutsche Rechtsgeschichte Grundgesetz Entstehung Parlamentarischer Rat, Deutsche Rechtsgeschichte Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei, Deutsche Rechtsgeschichte Bgb Inkrafttreten Und Partikularrechtsabloesung und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -104,10 +104,10 @@ Skill fuer die Entnazifizierung 1945-1949 und das alliierte Kontrollratsrecht.
 
 - **Kontrollrat fuer Deutschland** (4 Maechte: USA UK Frankreich Sowjetunion).
 - Wichtige Gesetze:
-  - **Kontrollratsgesetz Nr. 1 vom 20.09.1945**: Aufhebung nationalsozialistischer Gesetze.
-  - **Kontrollratsgesetz Nr. 4**: Reorganisation des Justizwesens.
-  - **Kontrollratsgesetz Nr. 10 vom 20.12.1945**: Bestrafung von Personen, die sich Kriegsverbrechen, Verbrechen gegen den Frieden und gegen die Menschlichkeit schuldig gemacht haben.
-  - **Kontrollratsgesetz Nr. 45 vom 20.02.1947**: Aufloesung der Familienfideikommisse und sonstigen gebundenen Vermoegen.
+ - **Kontrollratsgesetz Nr. 1 vom 20.09.1945**: Aufhebung nationalsozialistischer Gesetze.
+ - **Kontrollratsgesetz Nr. 4**: Reorganisation des Justizwesens.
+ - **Kontrollratsgesetz Nr. 10 vom 20.12.1945**: Bestrafung von Personen, die sich Kriegsverbrechen, Verbrechen gegen den Frieden und gegen die Menschlichkeit schuldig gemacht haben.
+ - **Kontrollratsgesetz Nr. 45 vom 20.02.1947**: Aufloesung der Familienfideikommisse und sonstigen gebundenen Vermoegen.
 
 ## Entnazifizierung
 

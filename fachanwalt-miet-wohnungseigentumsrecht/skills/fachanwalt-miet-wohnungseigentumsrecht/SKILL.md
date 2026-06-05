@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht
-description: "Nutze dies, wenn Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung, Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel, Fachanwalt Miet Wohnungseigentumsrecht Orientierung, Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44 im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung, Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel, Fachanwalt Miet Wohnungseigentumsrecht Orientierung, Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44 prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung, Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel, Fachanwalt Miet Wohnungseigentumsrecht Orientierung, Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungskl..."
+description: "Nutze dies bei Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung, Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel, Fachanwalt Miet Wohnungseigentumsrecht Orientierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung, Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel, Fachanwalt Miet Wohnungseigentumsrecht Orientierung, Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Miet Wohnungseigentumsrecht Kündigung, Fachanwalt Miet Wohnungseigentumsrecht Mieterhoehung, Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel, Fachanwalt Miet Wohnungseigentumsrecht Orientierung, Fachanwalt Miet Wohnungseigentumsrecht Weg Anfechtungsklage 44** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,9 +15,9 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `fachanwalt-miet-wohnungseigentumsrecht-kuendigung` | Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Kündigung und prüft Wirksamkeit. Ordentliche Kündigung § 573 BGB außerordentliche Kündigung §§ 543 569 BGB Eigenbedarfskündigung § 573 Abs. 2 Nr. 2 BGB. Normen §§ 535 543 569 573 573c BGB. Prüfraster Kündigungs-Grund Abmahnung Kündigungsfristen Schonfristzahlung § 569 Abs. 3 BGB Haerteklausel §§ 574 ff. BGB. Output Kündigungs-Schreiben Widerspruch Räumugsklage. Abgrenzung zu eigenbedarfskündigung (Eigenbedarfs-Spezifik) und mietminderung-schimmel (Maengelrecht). |
 | `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung` | Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung. § 558 BGB ortsuebliche Vergleichsmiete Kappungsgrenze 20 Prozent bzw. 15 Prozent in angespannten Maerkten. Normen §§ 558-558b 559 556d ff. BGB. Prüfraster Wartefrist 15 Monate Begründungsmittel Mietspiegel Kappungsgrenze Zustimmungsklage § 558b Mietpreisbremse. Output Mieterhoehungs-Schreiben Zustimmungsklage. Abgrenzung zu eigenbedarfskündigung (Kündigung) und mietminderung-schimmel (Maengelrecht). |
-| `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel` | Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht mietminderung schimmel. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht orientierung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44` | Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel` | Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht mietminderung schimmel: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht orientierung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44` | Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -125,7 +125,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Eigenbedarfskündigung
 
 ```
-[Briefkopf Vermieter / Kanzlei]                       [Ort, Datum]
+[Briefkopf Vermieter / Kanzlei] [Ort, Datum]
 
 An [Mieterin / Mieter, Anschrift]
 
@@ -163,11 +163,11 @@ Kündigung gem. § 543 Abs. 2 Nr. 3 BGB,
 hilfsweise § 573 Abs. 2 Nr. 1 BGB
 
 Ausstehende Mietzahlungen:
-  [Monat/Jahr]:    EUR [Betrag]
-  [Monat/Jahr]:    EUR [Betrag]
-  Gesamtrückstand: EUR [Betrag]
-  (mehr als zwei volle Monatsmieten iSv § 543 Abs. 2 Nr. 3
-  lit. a BGB / Rückstand über zwei Mietzeiträume iSv lit. b BGB)
+ [Monat/Jahr]: EUR [Betrag]
+ [Monat/Jahr]: EUR [Betrag]
+ Gesamtrückstand: EUR [Betrag]
+ (mehr als zwei volle Monatsmieten iSv § 543 Abs. 2 Nr. 3
+ lit. a BGB / Rückstand über zwei Mietzeiträume iSv lit. b BGB)
 
 Wir kündigen das Mietverhältnis hiermit fristlos gemäß § 543
 Abs. 2 Nr. 3 BGB sowie hilfsweise ordentlich gemäß § 573
@@ -250,9 +250,9 @@ im Schriftsatz live ueber dejure.org verifizieren.
 - BGB §§ 535, 543, 549–574b
 - GKG § 41
 - Verifizierte BGH-Rechtsprechung (Stand 05/2026):
-  - BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 (Eigenbedarf bei Umbau-/Verkaufsabsicht): https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_289-23.pdf
-  - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24 (Härtefall § 574 BGB): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.08.2025&Aktenzeichen=VIII+ZR+262/24
-  - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23 (gewinnbringende Untervermietung): https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_228-23.pdf
+ - BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 (Eigenbedarf bei Umbau-/Verkaufsabsicht): https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_289-23.pdf
+ - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24 (Härtefall § 574 BGB): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.08.2025&Aktenzeichen=VIII+ZR+262/24
+ - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23 (gewinnbringende Untervermietung): https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_228-23.pdf
 - Weitere Rechtsprechung vor Verwendung im Schriftsatz live über dejure.org / openjur.de / bundesgerichtshof.de prüfen.
 - Schmidt/Futterer Mietrecht, aktuelle Aufl.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -354,32 +354,32 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Mieterhöhungsverlangen § 558a BGB
 
 ```
-[Briefkopf Vermieter / Kanzlei]                       [Ort, Datum]
+[Briefkopf Vermieter / Kanzlei] [Ort, Datum]
 
 An [Mieter / Mieterin, Anschrift]
 
 Mieterhöhungsverlangen gemäß §§ 558, 558a BGB
 
 1. Bisherige Nettokaltmiete: EUR [Betrag]
-   (gültig seit: [Datum])
+ (gültig seit: [Datum])
 
 2. Neue Nettokaltmiete: EUR [Betrag] ab [Datum = 1. des
-   übernächsten Monats nach Zugang], entspricht EUR [Betrag]/qm
-   bei einer Wohnfläche von [qm].
+ übernächsten Monats nach Zugang], entspricht EUR [Betrag]/qm
+ bei einer Wohnfläche von [qm].
 
 3. Begründung gemäß § 558a Abs. 2 Nr. 1 BGB:
-   Qualifizierter Mietspiegel der Stadt [Ort], Ausgabe [Jahr],
-   Tabellenfeld [Nr.] (Baujahr [Jahr], Lage [Lageklasse],
-   Ausstattung [Stufe]).
-   Mittelwert der Tabelle: EUR [Betrag]/qm; die neue Miete
-   liegt innerhalb des Mietspiegelrahmens.
-   (Auszug Mietspiegel: Anlage 1)
+ Qualifizierter Mietspiegel der Stadt [Ort], Ausgabe [Jahr],
+ Tabellenfeld [Nr.] (Baujahr [Jahr], Lage [Lageklasse],
+ Ausstattung [Stufe]).
+ Mittelwert der Tabelle: EUR [Betrag]/qm; die neue Miete
+ liegt innerhalb des Mietspiegelrahmens.
+ (Auszug Mietspiegel: Anlage 1)
 
 4. Einhaltung Kappungsgrenze § 558 Abs. 3 BGB:
-   Letzte Erhöhung war am [Datum]; die bisherige Miete betrug
-   EUR [Betrag]. Die Erhöhung beträgt EUR [Betrag] = [x %]
-   innerhalb von drei Jahren. Die Kappungsgrenze von
-   [20 / 15] % ist eingehalten.
+ Letzte Erhöhung war am [Datum]; die bisherige Miete betrug
+ EUR [Betrag]. Die Erhöhung beträgt EUR [Betrag] = [x %]
+ innerhalb von drei Jahren. Die Kappungsgrenze von
+ [20 / 15] % ist eingehalten.
 
 Bitte erklären Sie Ihre Zustimmung bis zum Ablauf von
 [Datum = Ende des übernächsten Monats nach Zugang].
@@ -397,7 +397,7 @@ drei Monate] erhoben werden.
 Ankündigung Modernisierungsmaßnahme gemäß § 555c BGB
 
 Art der Maßnahme: [z.B. Wärmedämmung Fassade und Keller;
-                       Einbau Brennwerttherme mit Wärmepumpe]
+ Einbau Brennwerttherme mit Wärmepumpe]
 Umfang: [Beschreibung]
 Beginn: [Datum — mindestens drei Monate nach Zugang]
 Voraussichtliche Dauer: [Kalenderwochen]
@@ -482,9 +482,9 @@ Monats kündigen.
 - GKG § 41 Abs. 5
 - Gesetz zur Änderung der Regelungen über die zulässige Miethöhe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163), in Kraft 23.07.2025 — Verlaengerung der Mietpreisbremse bis 31.12.2029: https://www.recht.bund.de/bgbl/1/2025/163/VO.html
 - Verifizierte BGH-Rechtsprechung (Stand 05/2026):
-  - BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse nur bei Mietbeginn): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.2025&Aktenzeichen=VIII+ZR+56/25
-  - BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbstaendiges Beweisverfahren fuer Mieterhoehung)
-  - BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 (Modernisierungsmieterhoehung Prognose Endenergieeinsparung): https://openjur.de/u/2517641.html
+ - BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse nur bei Mietbeginn): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.2025&Aktenzeichen=VIII+ZR+56/25
+ - BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbstaendiges Beweisverfahren fuer Mieterhoehung)
+ - BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 (Modernisierungsmieterhoehung Prognose Endenergieeinsparung): https://openjur.de/u/2517641.html
 - Schmidt/Futterer Mietrecht, aktuelle Aufl.
 - Blank/Börstinghaus Miete, aktuelle Aufl.
 
@@ -499,7 +499,7 @@ Monats kündigen.
 
 ## 3. `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel`
 
-**Fokus:** Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht mietminderung schimmel. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht mietminderung schimmel: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mietminderung — Schimmelbefall
 
@@ -586,7 +586,7 @@ Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/
 - Bei klar mangelhaftem Lueftungsverhalten: Mieter haftet
 - Beweis Vermieter: schwer
 
-## 5) Workflow Minderung-Geltendmachung
+## 5) Minderung-Geltendmachung
 
 ### Schritt 1 — Mangel-Anzeige
 
@@ -675,7 +675,7 @@ Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/
 
 ## 4. `fachanwalt-miet-wohnungseigentumsrecht-orientierung`
 
-**Fokus:** Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht orientierung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht orientierung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Orientierung Miet- und Wohnungseigentumsrecht
 
@@ -788,7 +788,7 @@ GEG-2024- und CO2KostAufG-Bezuege aktualisiert. Beck-RS/juris-Fundstellen nicht 
 
 ## 5. `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44`
 
-**Fokus:** Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht weg anfechtungsklage 44: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # WEG-Anfechtungsklage § 44 WEG
 
@@ -876,29 +876,29 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 An das Amtsgericht [Ort der belegenen Sache]
-— WEG-Sache —                                         [Ort, Datum]
+— WEG-Sache — [Ort, Datum]
 
 Klage
 
 der [Klägerin / Kläger, Anschrift]
-                                                    — Klägerin —
+ — Klägerin —
 
 gegen
 
 die Gemeinschaft der Wohnungseigentümer der Liegenschaft
 [Anschrift], vertreten durch den Verwalter [Name, Anschrift]
-                                                    — Beklagte —
+ — Beklagte —
 
 wegen Anfechtung WEG-Beschluss § 44 WEG
 
 I. Antrag
 1. Der in der Wohnungseigentümerversammlung vom [Datum]
-   zu TOP [Nr.] gefasste Beschluss:
-   "[Wortlaut]"
-   wird für ungültig erklärt.
+ zu TOP [Nr.] gefasste Beschluss:
+ "[Wortlaut]"
+ wird für ungültig erklärt.
 
 2. Hilfsweise: Feststellung der Nichtigkeit des Beschlusses
-   nach § 23 Abs. 4 WEG.
+ nach § 23 Abs. 4 WEG.
 
 3. Die Beklagte trägt die Kosten.
 
@@ -920,33 +920,33 @@ Klagebegründung Az. [Az.] — § 45 Satz 2 WEG
 I. Zulässigkeit
 
 1. Fristen
-   Beschluss: [Datum]. Klage: [Datum] (innerhalb 1 Monat).
-   Begründung: fristgerecht (innerhalb 2 Monate).
+ Beschluss: [Datum]. Klage: [Datum] (innerhalb 1 Monat).
+ Begründung: fristgerecht (innerhalb 2 Monate).
 
 2. Passivlegitimation
-   Beklagte ist die GdWE § 9a WEG, vertreten durch Verwalter
-   gemäß § 9b WEG. Keine Interessenkollision erkennbar.
+ Beklagte ist die GdWE § 9a WEG, vertreten durch Verwalter
+ gemäß § 9b WEG. Keine Interessenkollision erkennbar.
 
 II. Begründetheit
 
 1. Verfahrensmangel — Ladungsfehler § 24 Abs. 4 WEG
-   Ladungsschreiben datiert vom [Datum]; zugegangen am [Datum].
-   Zwischen Zugang und Versammlung lagen nur [X] Tage —
-   die Zweiwochenfrist war nicht eingehalten (Anlage K2).
+ Ladungsschreiben datiert vom [Datum]; zugegangen am [Datum].
+ Zwischen Zugang und Versammlung lagen nur [X] Tage —
+ die Zweiwochenfrist war nicht eingehalten (Anlage K2).
 
-   ALTERNATIVE: TOP [Nr.] war in der Einladung vom [Datum]
-   nicht angekündigt.
+ ALTERNATIVE: TOP [Nr.] war in der Einladung vom [Datum]
+ nicht angekündigt.
 
 2. Materieller Mangel
-   Der Beschluss zu TOP [Nr.] verstößt gegen die Grundsätze
-   ordnungsmäßiger Verwaltung § 19 WEG, weil [konkrete
-   Begründung: unverhältnismäßige Kosten, bessere Alternative
-   vorhanden, gesetzliche Pflicht missachtet].
+ Der Beschluss zu TOP [Nr.] verstößt gegen die Grundsätze
+ ordnungsmäßiger Verwaltung § 19 WEG, weil [konkrete
+ Begründung: unverhältnismäßige Kosten, bessere Alternative
+ vorhanden, gesetzliche Pflicht missachtet].
 
 3. Nichtigkeit (hilfsweise)
-   Der Beschluss greift in das Sondereigentum der Klägerin
-   (§ 20 Abs. 4 WEG) ein und überschreitet daher die Beschluss-
-   kompetenz — nichtig § 23 Abs. 4 WEG.
+ Der Beschluss greift in das Sondereigentum der Klägerin
+ (§ 20 Abs. 4 WEG) ein und überschreitet daher die Beschluss-
+ kompetenz — nichtig § 23 Abs. 4 WEG.
 
 [Unterschrift]
 ```
@@ -1015,11 +1015,11 @@ II. Begründetheit
 - WEG §§ 9a, 9b, 10, 23–26, 29, 44, 45
 - GKG § 49
 - Verifizierte BGH-Rechtsprechung (Stand 05/2026):
-  - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit bei verspaeteter Zustellung)
-  - BGH, Urt. v. 14.02.2025 – V ZR 236/23 (Erhaltungskosten / sachlicher Grund): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2025&nr=140714&linked=urt&Blank=1&file=dokument.pdf
-  - BGH, Urt. v. 14.02.2025 – V ZR 128/23 (Verteilungsschluessel Erhaltungsruecklage): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23
-  - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Waermepumpe / Vorbefassung)
-  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Bauliche Veraenderung Klimaanlage / unbillige Benachteiligung)
+ - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit bei verspaeteter Zustellung)
+ - BGH, Urt. v. 14.02.2025 – V ZR 236/23 (Erhaltungskosten / sachlicher Grund): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2025&nr=140714&linked=urt&Blank=1&file=dokument.pdf
+ - BGH, Urt. v. 14.02.2025 – V ZR 128/23 (Verteilungsschluessel Erhaltungsruecklage): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23
+ - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Waermepumpe / Vorbefassung)
+ - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Bauliche Veraenderung Klimaanlage / unbillige Benachteiligung)
 - Weitere Rechtsprechung vor Verwendung im Schriftsatz live über dejure.org / openjur.de / bundesgerichtshof.de prüfen.
 - Bärmann WEG-Kommentar, aktuelle Aufl.
 - Hügel/Elzer WEG

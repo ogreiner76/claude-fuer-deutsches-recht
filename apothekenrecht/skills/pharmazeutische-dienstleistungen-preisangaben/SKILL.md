@@ -1,13 +1,13 @@
 ---
 name: pharmazeutische-dienstleistungen-preisangaben
-description: "Nutze dies, wenn Pharmazeutische Dienstleistungen Vergütung, Preisangaben E Commerce Apotheke, Preisbindung Arzneimittel Ampreisv im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Pharmazeutische Dienstleistungen Vergütung, Preisangaben E Commerce Apotheke, Preisbindung Arzneimittel Ampreisv prüfen.; Erstelle eine Arbeitsfassung zu Pharmazeutische Dienstleistungen Vergütung, Preisangaben E Commerce Apotheke, Preisbindung Arzneimittel Ampreisv.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pharmazeutische Dienstleistungen Verguetung, Preisangaben E Commerce Apotheke, Preisbindung Arzneimittel Ampreisv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pharmazeutische Dienstleistungen Vergütung, Preisangaben E Commerce Apotheke, Preisbindung Arzneimittel Ampreisv
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pharmazeutische Dienstleistungen Vergütung, Preisangaben E Commerce Apotheke, Preisbindung Arzneimittel Ampreisv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -65,7 +65,7 @@ Eingaben:
 - **DSGVO Art. 9** bei Gesundheitsdaten-Verarbeitung.
 - Berufsordnung Apothekerkammer — Zulässigkeit, Werbeauftritt.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Leistungskatalog prüfen:** Welche pDL-Leistung ist vergütungsfähig? Aktueller Stand Rahmenvertrag.
 2. **Patienten-Anspruch prüfen:** Versichertenstatus, Indikation (z. B. mind. fünf systematisch eingenommene Arzneimittel für Polymedikationsanalyse).
@@ -214,15 +214,15 @@ Eingaben:
 - BGH-Folge-Rspr., staend. Rspr.
 - **UWG § 3a** (Verstoss gegen Marktverhaltensregel) bei Rabatten oder Boni.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Status des Arzneimittels:** Rx oder OTC? Preisbindung gilt für Rx; OTC-Preise sind freigegeben.
 2. **Preiskette nachvollziehen:** HAP, Grosshandelszuschlag, Apothekenzuschlag, MwSt.
 3. **Geplante Aktion einordnen:**
-   - Echter Preisrabatt auf Rx: unzulässig (Inland), für EU-Versand teilweise zulässig (BGH-Rspr.).
-   - Sachbonus, Gutschein, Punktesystem: Wertgrenze beachten (HWG-Geringwertigkeit, in der Rspr. um 1 Euro/Aktion umstritten).
-   - Beratung als Mehrwertleistung: unproblematisch.
-   - Kostenfreier Botendienst innerorts: regelmässig zulässig.
+ - Echter Preisrabatt auf Rx: unzulässig (Inland), für EU-Versand teilweise zulässig (BGH-Rspr.).
+ - Sachbonus, Gutschein, Punktesystem: Wertgrenze beachten (HWG-Geringwertigkeit, in der Rspr. um 1 Euro/Aktion umstritten).
+ - Beratung als Mehrwertleistung: unproblematisch.
+ - Kostenfreier Botendienst innerorts: regelmässig zulässig.
 4. **Wettbewerbsrechtliche Würdigung:** Verstösse gegen Preisbindung sind UWG-relevant (§ 3a, § 8 UWG); Abmahnung, Unterlassungsklage möglich.
 5. **Werbung:** HWG-konforme Werbung; keine "Schnäppchen-Preise" für Rx.
 6. **Bei EU-Versand:** Aktualität BGH-Rspr. prüfen — Preisbindung gegen EU-Versandapotheken eingeschränkt anwendbar.

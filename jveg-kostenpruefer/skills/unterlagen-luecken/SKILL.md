@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Nutze dies, wenn Unterlagen und Lücken im Plugin Jveg Kostenpruefer konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Unterlagen und Lücken
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Jveg Kostenpruefer** ein Fall noch sortier
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `beschwerde-dolmetscher-sonderfall-dolmetscherkosten` — Beschwerde Dolmetscher Sonderfall Dolmetscherkosten
 - `fahrtkosten-festsetzung-interessen-freistehender` — Fahrtkosten Festsetzung Interessen Freistehender
 - `gate-beweislast-jveg-quality` — Gate Beweislast Jveg Quality

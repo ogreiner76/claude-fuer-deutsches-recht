@@ -27,7 +27,7 @@ d) where possible, a general description of the technical and organisational mea
 
 One row per controller. Multiple processing categories can be grouped where TOMs are identical.
 
-## Workflow / Checklist
+## / Checklist
 
 1. Cover sheet with processor details.
 2. Maintain a controller list (each customer relationship).
@@ -42,13 +42,13 @@ One row per controller. Multiple processing categories can be grouped where TOMs
 ### Cover Sheet
 
 ```
-Processor:                [Company name]
-Address:                  [...]
+Processor: [Company name]
+Address: [...]
 Representative (Art. 27): [if applicable]
-Data Protection Officer:  [Name, contact]
-Created:                  [date]
-Last amended:             [date]
-Version:                  [v1.0]
+Data Protection Officer: [Name, contact]
+Created: [date]
+Last amended: [date]
+Version: [v1.0]
 ```
 
 ### Table (mandatory columns)
@@ -72,7 +72,7 @@ Version:                  [v1.0]
 
 ```
 Version 1.0 – Initial draft – [date, author]
-Version 1.1 – [change]      – [date, author]
+Version 1.1 – [change] – [date, author]
 ```
 
 ## Common mistakes

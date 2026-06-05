@@ -1,13 +1,13 @@
 ---
 name: entfristung-sachgrund-abs-sachgrundlos
-description: "Nutze dies, wenn Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52 im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52 prüfen.; Erstelle eine Arbeitsfassung zu Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2a Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Entfristung Sachgrund Prüfen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2A Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -140,11 +140,11 @@ Vereinbartes Vertragsende: [DATUM]
 Behaupteter Sachgrund: [Nr. X — Bezeichnung]
 
 Prüfung:
-  Sachgrund bei Vertragsschluss vorhanden? [Ja/Nein/fraglich]
-  Sachgrund im Vertrag benannt? [Ja/Nein]
-  Sachgrund trägt Befristungsdauer? [Ja/Nein/fraglich]
-  Indizien für Dauerbeschäftigungsbedarf? [Ja/Nein]
-  Kettenbefristung problematisch? [Ja/Nein]
+ Sachgrund bei Vertragsschluss vorhanden? [Ja/Nein/fraglich]
+ Sachgrund im Vertrag benannt? [Ja/Nein]
+ Sachgrund trägt Befristungsdauer? [Ja/Nein/fraglich]
+ Indizien für Dauerbeschäftigungsbedarf? [Ja/Nein]
+ Kettenbefristung problematisch? [Ja/Nein]
 
 Ergebnis: [Sachgrund wirksam / Sachgrund unwirksam — § 16 TzBfG: unbefristet]
 Nächster Schritt: [Klage nach § 17 TzBfG / weitere Ermittlung]
@@ -214,19 +214,19 @@ Nach § 14 Abs. 2 Satz 1 TzBfG ist eine sachgrundlose Befristung zulässig wenn:
 
 ```
 Schritt 1: Gesamtdauer aller Verträge ≤ 2 Jahre?
-  └── Nein → UNZULÄSSIG (§ 16 TzBfG: unbefristet)
+ └── Nein → UNZULÄSSIG (§ 16 TzBfG: unbefristet)
 
 Schritt 2: Anzahl Verlängerungen ≤ 3?
-  └── Nein → UNZULÄSSIG (§ 16 TzBfG: unbefristet)
+ └── Nein → UNZULÄSSIG (§ 16 TzBfG: unbefristet)
 
 Schritt 3: Frühere Beschäftigung beim selben Arbeitgeber?
-  └── Nein → Sachgrundlose Befristung ZULÄSSIG
-  └── Ja → Vorbeschäftigungsverbot → weiter zu Schritt 4
+ └── Nein → Sachgrundlose Befristung ZULÄSSIG
+ └── Ja → Vorbeschäftigungsverbot → weiter zu Schritt 4
 
 Schritt 4: Ausnahme nach BVerfG 2018 — sehr lange zurückliegend oder ganz andersartig?
-  └── Ja, sehr lange zurückliegend (wie lange? Keine feste Grenze) + andersartig
-        → Einzelfallprüfung — Ausnahme möglich, aber unsicher
-  └── Nein → UNZULÄSSIG → sachgrundlose Befristung gesperrt
+ └── Ja, sehr lange zurückliegend (wie lange? Keine feste Grenze) + andersartig
+ → Einzelfallprüfung — Ausnahme möglich, aber unsicher
+ └── Nein → UNZULÄSSIG → sachgrundlose Befristung gesperrt
 ```
 
 ## Rechtslage nach BVerfG 2018 und BAG 2019 — Zusammenfassung
@@ -395,9 +395,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 1. **Vollendung des 52. Lebensjahres** bei Beginn des befristeten Vertrags.
 2. **Mindestens vier Monate** unmittelbar vor Beginn des Vertrags:
-   - Beschäftigungslosigkeit i.S.d. § 119 Abs. 1 Nr. 1 SGB III (bei der Agentur für Arbeit gemeldet), oder
-   - Bezug von Transferkurzarbeitergeld, oder
-   - Teilnahme an einer öffentlich geförderten Beschäftigungsmaßnahme.
+ - Beschäftigungslosigkeit i.S.d. § 119 Abs. 1 Nr. 1 SGB III (bei der Agentur für Arbeit gemeldet), oder
+ - Bezug von Transferkurzarbeitergeld, oder
+ - Teilnahme an einer öffentlich geförderten Beschäftigungsmaßnahme.
 3. **Unmittelbarkeit:** Die Vorarbeitslosigkeit muss direkt vor Vertragsbeginn liegen.
 
 ## EuGH-Rechtsprechung

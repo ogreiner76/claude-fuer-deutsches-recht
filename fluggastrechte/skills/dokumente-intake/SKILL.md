@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -15,7 +15,7 @@ Nutze diesen Skill, wenn im Bereich **Fluggastrechte** ein Fall noch sortiert, D
 - `airline-bonitaet-und-vollstreckung` — Airline Bonitaet Und Vollstreckung
 - `airline-standardausreden-annullierung-verspaetung-anschlussflug` — Airline Standardausreden Annullierung Verspaetung Anschlussflug
 - `airline-standardausreden-pruefen` — Airline Standardausreden Prüfen
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `annullierung-oder-verspaetung-einordnen` — Annullierung Oder Verspaetung Einordnen
 - `anschlussflug-und-reiseplan` — Anschlussflug Und Reiseplan
 - `ausnahmen-aussergewoehnliche-aussergewoehnliche-umstaende` — Ausnahmen Aussergewoehnliche Aussergewoehnliche Umstaende

@@ -1,6 +1,6 @@
 ---
 name: gerichtlichen
-description: "Nutze dies, wenn Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg prüfen.; Erstelle eine Arbeitsfassung zu Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg

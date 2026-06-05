@@ -1,13 +1,13 @@
 ---
 name: verl-mahnung-an-honorar-vertrag
-description: "Nutze dies, wenn Verl Mahnung An Autor Zahlung Frist, Honorar Vertrag Royalties Triage, Verl Honorarvertrag Templates Und Abweichungen, Verl Haftungsfreistellung Autor Verlag, Buchprojekt Kapitelkoordination im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Verl Mahnung An Autor Zahlung Frist, Honorar Vertrag Royalties Triage, Verl Honorarvertrag Templates Und Abweichungen, Verl Haftungsfreistellung Autor Verlag, Buchprojekt Kapitelkoordination prüfen.; Erstelle eine Arbeitsfassung zu Verl Mahnung An Autor Zahlung Frist, Honorar Vertrag Royalties Triage, Verl Honorarvertrag Templates Und Abweichungen, Verl Haftungsfreistellung Autor Verlag, Buchprojekt Kapitelkoordination.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl Mahnung An Autor Zahlung Frist, Honorar Vertrag Royalties Triage, Verl Honorarvertrag Templates Und Abweichungen, Verl Haftungsfreistellung Autor Verlag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Mahnung An Autor Zahlung Frist, Honorar Vertrag Royalties Triage, Verl Honorarvertrag Templates Und Abweichungen, Verl Haftungsfreistellung Autor Verlag, Buchprojekt Kapitelkoordination
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Mahnung An Autor Zahlung Frist, Honorar Vertrag Royalties Triage, Verl Honorarvertrag Templates Und Abweichungen, Verl Haftungsfreistellung Autor Verlag, Buchprojekt Kapitelkoordination** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -265,15 +265,15 @@ Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentar
 
 1. **Template auswaehlen.** Nach Werktyp - falsche Vorlage erzeugt unsaubere Klauseln.
 2. **Pflichtklauseln pruefen.**
-   - Werkbeschreibung (Titel, Umfang, Termine).
-   - Honorar (Pauschale / Tantiemestaffel / Vorschuss).
-   - Nutzungsrechte (raeumlich, zeitlich, inhaltlich, Sublizenz).
-   - Bearbeitungspflicht (Folgeauflagen, Aktualisierungen).
-   - Druck und Vertrieb (Auflage, Erscheinungstermin, Aboerstreckung).
-   - Imprimaturrecht und Mitwirkungspflichten.
-   - Ruecktritts- und Verzugsregelungen.
-   - Karenz / Konkurrenzschutz (zeitlich begrenzen!).
-   - Datenschutz und Werbenutzung des Namens.
+ - Werkbeschreibung (Titel, Umfang, Termine).
+ - Honorar (Pauschale / Tantiemestaffel / Vorschuss).
+ - Nutzungsrechte (raeumlich, zeitlich, inhaltlich, Sublizenz).
+ - Bearbeitungspflicht (Folgeauflagen, Aktualisierungen).
+ - Druck und Vertrieb (Auflage, Erscheinungstermin, Aboerstreckung).
+ - Imprimaturrecht und Mitwirkungspflichten.
+ - Ruecktritts- und Verzugsregelungen.
+ - Karenz / Konkurrenzschutz (zeitlich begrenzen!).
+ - Datenschutz und Werbenutzung des Namens.
 3. **Verhandlungsabweichungen aufnehmen.** In Aenderungsvermerk-Tabelle: Klausel - alt - neu - Begruendung des Autors - Verlagsantwort.
 4. **Angemessenheitspruefung.** Bei stark abweichenden Saetzen Vergleich mit branchenueblichen Verguetungsregeln (z. B. Hinweise Boersenverein, Verbandsempfehlungen Wissenschaftsverlage).
 5. **Justiziariat einbinden** bei: Pauschalverguetung trotz hoher Auflagenerwartung, Total-Buy-Out, ungewoehnlicher Karenz, internationalem Bezug.
@@ -307,24 +307,24 @@ Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentar
 § [n] Nutzungsrechte
 
 (1) Der Autor raeumt dem Verlag das ausschliessliche, raeumlich,
-    zeitlich und inhaltlich unbeschraenkte Recht ein, das Werk zu
-    vervielfaeltigen, zu verbreiten, oeffentlich wiederzugeben und
-    in koerperlicher und unkoerperlicher Form zu nutzen, insbesondere
-    in folgenden Nutzungsarten:
-    a) Print (Buchausgabe, Sonderausgabe, Lizenzausgabe);
-    b) E-Book (EPUB, PDF, alle gaengigen Vertriebsplattformen);
-    c) Datenbank-Einstellung (juris, beck-online, vergleichbare
-       Anbieter);
-    d) Online-Kommentar-Plattformen;
-    e) Bearbeitung und Uebersetzung in fremde Sprachen;
-    f) Werbung und Vorabdruck.
+ zeitlich und inhaltlich unbeschraenkte Recht ein, das Werk zu
+ vervielfaeltigen, zu verbreiten, oeffentlich wiederzugeben und
+ in koerperlicher und unkoerperlicher Form zu nutzen, insbesondere
+ in folgenden Nutzungsarten:
+ a) Print (Buchausgabe, Sonderausgabe, Lizenzausgabe);
+ b) E-Book (EPUB, PDF, alle gaengigen Vertriebsplattformen);
+ c) Datenbank-Einstellung (juris, beck-online, vergleichbare
+ Anbieter);
+ d) Online-Kommentar-Plattformen;
+ e) Bearbeitung und Uebersetzung in fremde Sprachen;
+ f) Werbung und Vorabdruck.
 
 (2) Unbekannte Nutzungsarten im Sinne von § 31a UrhG werden gesondert
-    schriftlich vereinbart.
+ schriftlich vereinbart.
 
 (3) Die Einraeumung umfasst auch das Recht zur Vergabe von
-    Sublizenzen. Die hieraus erzielten Einnahmen werden gemaess § [n]
-    zwischen den Parteien geteilt.
+ Sublizenzen. Die hieraus erzielten Einnahmen werden gemaess § [n]
+ zwischen den Parteien geteilt.
 ```
 
 **Pruefraster Abweichungsantrag des Autors**
@@ -346,13 +346,13 @@ Justiziariat einbinden? [ja/nein]
 § [n] Konkurrenzschutz
 
 (1) Der Autor verpflichtet sich, fuer die Dauer von 24 Monaten nach
-    Erscheinen der jeweils aktuellen Auflage des Werks kein
-    konkurrierendes Werk vergleichbaren Inhalts und vergleichbaren
-    Adressatenkreises bei einem anderen Verlag zu veroeffentlichen.
+ Erscheinen der jeweils aktuellen Auflage des Werks kein
+ konkurrierendes Werk vergleichbaren Inhalts und vergleichbaren
+ Adressatenkreises bei einem anderen Verlag zu veroeffentlichen.
 (2) Aufsaetze und Beitraege zu Festschriften gelten nicht als
-    konkurrierende Werke.
+ konkurrierende Werke.
 (3) Diese Klausel endet spaetestens mit Ablauf von vier Jahren nach
-    Vertragsschluss.
+ Vertragsschluss.
 ```
 
 ## Typische Fehler / Pitfalls
@@ -448,29 +448,29 @@ Bei Veroeffentlichung urheberrechtlich oder aeusserungsrechtlich kritischer Beit
 § [n] Zusicherungen und Haftungsfreistellung
 
 (1) Der Autor versichert, dass er das Werk selbststaendig verfasst
-    und nicht in unzulaessiger Weise von Dritten uebernommen hat.
-    Er versichert weiter, dass er ueber alle erforderlichen
-    urheberrechtlichen Befugnisse verfuegt, einschliesslich der
-    Zustimmung Dritter zur Verwendung deren Werkteilen, Abbildungen,
-    Tabellen und Daten.
+ und nicht in unzulaessiger Weise von Dritten uebernommen hat.
+ Er versichert weiter, dass er ueber alle erforderlichen
+ urheberrechtlichen Befugnisse verfuegt, einschliesslich der
+ Zustimmung Dritter zur Verwendung deren Werkteilen, Abbildungen,
+ Tabellen und Daten.
 
 (2) Der Autor versichert, dass das Werk weder das Persoenlichkeits-
-    recht Dritter noch sonstige Rechte Dritter verletzt und keine
-    strafbaren Inhalte enthaelt.
+ recht Dritter noch sonstige Rechte Dritter verletzt und keine
+ strafbaren Inhalte enthaelt.
 
 (3) Soweit der Verlag aus berechtigten Ansprueche Dritter wegen
-    Verletzung der vorstehenden Zusicherungen in Anspruch genommen
-    wird, stellt der Autor den Verlag von diesen Ansprueche frei,
-    insbesondere von angemessenen Kosten der Rechtsverteidigung
-    (gesetzliche Gebuehren des Anwalts und Gerichtskosten).
+ Verletzung der vorstehenden Zusicherungen in Anspruch genommen
+ wird, stellt der Autor den Verlag von diesen Ansprueche frei,
+ insbesondere von angemessenen Kosten der Rechtsverteidigung
+ (gesetzliche Gebuehren des Anwalts und Gerichtskosten).
 
 (4) Der Verlag wird den Autor unverzueglich nach Kenntnis von einem
-    geltend gemachten Anspruch informieren und ihm Gelegenheit zur
-    Stellungnahme geben. Die Verteidigung wird gemeinsam abgestimmt.
+ geltend gemachten Anspruch informieren und ihm Gelegenheit zur
+ Stellungnahme geben. Die Verteidigung wird gemeinsam abgestimmt.
 
 (5) Die Freistellung gilt nicht, soweit der Autor nachweist, dass
-    die Inanspruchnahme auf einem ausschliesslichen Verschulden des
-    Verlags beruht.
+ die Inanspruchnahme auf einem ausschliesslichen Verschulden des
+ Verlags beruht.
 ```
 
 **Manuskripterklaerung (vor Drucklegung)**
@@ -484,15 +484,15 @@ Vertrag vom: [Datum]
 Ich versichere hiermit:
 
 1. Das Manuskript ist mein urheberrechtlich geschuetztes Werk. Soweit
-   ich Werkteile, Tabellen, Schaubilder oder Daten Dritter verwendet
-   habe, habe ich die erforderlichen Nutzungsrechte eingeholt.
+ ich Werkteile, Tabellen, Schaubilder oder Daten Dritter verwendet
+ habe, habe ich die erforderlichen Nutzungsrechte eingeholt.
 2. Die im Manuskript enthaltenen Aussagen ueber Personen sind sorgfaeltig
-   recherchiert. Ich habe weder Persoenlichkeitsrechte Dritter noch
-   Aeusserungsrecht in unzulaessiger Weise verletzt.
+ recherchiert. Ich habe weder Persoenlichkeitsrechte Dritter noch
+ Aeusserungsrecht in unzulaessiger Weise verletzt.
 3. Bei Verwendung von Abbildungen liegen mir die schriftlichen
-   Lizenznachweise vor, die ich auf Anforderung dem Verlag uebermittele.
+ Lizenznachweise vor, die ich auf Anforderung dem Verlag uebermittele.
 4. Bei Personenbildern liegt mir die schriftliche Einwilligung der
-   abgebildeten Personen vor.
+ abgebildeten Personen vor.
 
 Ort, Datum, Unterschrift Autor
 ```

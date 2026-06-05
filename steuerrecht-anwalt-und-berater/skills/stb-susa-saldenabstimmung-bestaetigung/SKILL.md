@@ -61,7 +61,7 @@ Zum Bilanzstichtag muessen die Forderungen und Verbindlichkeiten extern bestaeti
 
 ```
 ABSTIMMUNGSSCHREIBEN
-[StB-Briefkopf]                                  [Datum]
+[StB-Briefkopf] [Datum]
 
 An: [Geschaeftspartner]
 

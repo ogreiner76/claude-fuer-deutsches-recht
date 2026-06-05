@@ -1,13 +1,13 @@
 ---
 name: fz-bescheidung-fz-bsfz-fz-dokumentationspaket
-description: "Nutze dies, wenn Fz Bescheidung Rechtsmittel, Fz Bsfz Bescheinigung Projektbeschreibung, Fz Dokumentationspaket Betriebspruefung im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Fz Bescheidung Rechtsmittel, Fz Bsfz Bescheinigung Projektbeschreibung, Fz Dokumentationspaket Betriebspruefung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fz Bescheidung Rechtsmittel, Fz Bsfz Bescheinigung Projektbeschreibung, Fz Dokumentationspaket Betriebspruefung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fz Bescheidung Rechtsmittel, Fz Bsfz Bescheinigung Projektbeschreibung, Fz Dokumentationspaket Betriebspruefung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -354,23 +354,23 @@ Pflichtspalten:
 ```
 0. Verfahrensdokumentation
 1. Projektakte je Vorhaben
-   1.1 Projektsteckbrief
-   1.2 BSFZ-Antrag und Bescheinigung
-   1.3 Arbeitspakete und Meilensteine
-   1.4 Versuchsberichte und Ergebnisse
-   1.5 Quellenverzeichnis Stand der Technik
+ 1.1 Projektsteckbrief
+ 1.2 BSFZ-Antrag und Bescheinigung
+ 1.3 Arbeitspakete und Meilensteine
+ 1.4 Versuchsberichte und Ergebnisse
+ 1.5 Quellenverzeichnis Stand der Technik
 2. Zeit- und Personalkosten
-   2.1 Stundenaufzeichnung Mitarbeiter A
-   2.2 ...
-   2.x Personalkosten je Mitarbeiter
+ 2.1 Stundenaufzeichnung Mitarbeiter A
+ 2.2 ...
+ 2.x Personalkosten je Mitarbeiter
 3. Auftragsforschung
-   3.1 Verträge
-   3.2 Rechnungen
-   3.3 Zahlungsnachweise
-   3.4 EU/EWR-Bestätigung
+ 3.1 Verträge
+ 3.2 Rechnungen
+ 3.3 Zahlungsnachweise
+ 3.4 EU/EWR-Bestätigung
 4. Wirtschaftsgüter
-   4.1 AfA-Plan
-   4.2 Zuordnungsnachweise
+ 4.1 AfA-Plan
+ 4.2 Zuordnungsnachweise
 5. Gemein- und Betriebskostenpauschale (sofern einschlägig)
 6. Andere Förderungen / AGVO-Kumulierungsblatt
 7. Finanzamt-Antrag und Bescheide

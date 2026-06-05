@@ -1,13 +1,13 @@
 ---
 name: integrationen-simulation-kanzlei
-description: "Nutze dies, wenn Kanzlei Allgemein Integrationen Simulation, Kanzlei Allgemein Kanzleikalender im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Integrationen Simulation, Kanzlei Allgemein Kanzleikalender prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Integrationen Simulation, Kanzlei Allgemein Kanzleikalender.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kanzlei Allgemein Integrationen Simulation, Kanzlei Allgemein Kanzleikalender: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kanzlei Allgemein Integrationen Simulation, Kanzlei Allgemein Kanzleikalender
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Allgemein Integrationen Simulation, Kanzlei Allgemein Kanzleikalender** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -50,7 +50,7 @@ Für **Kanzlei Allgemein Integrationen Simulation, Kanzlei Allgemein Kanzleikale
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
-Dieser Skill klärt, welche Systeme wirklich angeschlossen sind. Wenn etwas fehlt, fragt er freundlich, ob der Nutzer es verbinden oder simulieren möchte. So bleibt der Workflow testbar, ohne echte beA-, Outlook-, Word-, Messenger-, Fax- oder Buchhaltungszugänge zu benötigen.
+Dieser Skill klärt, welche Systeme wirklich angeschlossen sind. Wenn etwas fehlt, fragt er freundlich, ob der Nutzer es verbinden oder simulieren möchte. So bleibt der testbar, ohne echte beA-, Outlook-, Word-, Messenger-, Fax- oder Buchhaltungszugänge zu benötigen.
 
 ## Integrationsmatrix
 

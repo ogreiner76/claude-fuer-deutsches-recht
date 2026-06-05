@@ -1,13 +1,13 @@
 ---
 name: chn-fdi-chn-chinesische-chn-critical-chn-awg
-description: "Nutze dies, wenn Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung prüfen.; Erstelle eine Arbeitsfassung zu Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

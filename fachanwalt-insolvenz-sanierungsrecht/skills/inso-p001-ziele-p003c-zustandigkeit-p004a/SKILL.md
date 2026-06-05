@@ -1,13 +1,13 @@
 ---
 name: inso-p001-ziele-p003c-zustandigkeit-p004a
-description: "Nutze dies, wenn Inso P001 Ziele Des Insolvenzverfahrens, Inso P003C Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004A Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze, Inso P011 Zulassigkeit Des Insolvenzverfahrens im Plugin Fachanwalt Insolvenz Sanierungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Inso P001 Ziele Des Insolvenzverfahrens, Inso P003C Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004A Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze, Inso P011 Zulassigkeit Des Insolvenzverfahrens prüfen.; Erstelle eine Arbeitsfassung zu Inso P001 Ziele Des Insolvenzverfahrens, Inso P003C Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004A Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze, Inso P011 Zulassigkeit Des Insolvenzverfahrens.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Inso P001 Ziele Des Insolvenzverfahrens, Inso P003c Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004a Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Inso P001 Ziele Des Insolvenzverfahrens, Inso P003C Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004A Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze, Inso P011 Zulassigkeit Des Insolvenzverfahrens
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Inso P001 Ziele Des Insolvenzverfahrens, Inso P003C Zustandigkeit Fur Gruppen Folgeverfahren, Inso P004A Stundung Der Kosten Des Insolvenzverfahrens, Inso P005 Verfahrensgrundsatze, Inso P011 Zulassigkeit Des Insolvenzverfahrens** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -42,7 +42,7 @@ Für **Inso P001 Ziele Des Insolvenzverfahrens, Inso P003C Zustandigkeit Fur Gru
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsworkflow an **§ 1 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 1 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 1 InsO**
@@ -95,7 +95,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsworkflow an **§ 3c InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 3c InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 3c InsO**
@@ -150,7 +150,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsworkflow an **§ 4a InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 4a InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 4a InsO**
@@ -203,7 +203,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsworkflow an **§ 5 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 5 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 5 InsO**
@@ -256,7 +256,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsworkflow an **§ 11 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 11 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 11 InsO**

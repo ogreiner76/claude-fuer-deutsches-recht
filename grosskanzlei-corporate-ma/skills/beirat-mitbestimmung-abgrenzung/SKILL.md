@@ -1,6 +1,6 @@
 ---
 name: beirat-mitbestimmung-abgrenzung
-description: "Nutze dies, wenn Beirat Mitbestimmung Abgrenzung im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Mitbestimmung Abgrenzung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Mitbestimmung Abgrenzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Mitbestimmung Abgrenzung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Mitbestimmung Abgrenzung

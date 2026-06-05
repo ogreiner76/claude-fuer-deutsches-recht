@@ -1,13 +1,13 @@
 ---
 name: abwaegungszustaendigkeit-institutionen-02
-description: "Nutze dies, wenn Abwaegungszustaendigkeit Institutionen, Spezial Buergerlichen Fristen Form Und Zustaendigkeit, Spezial Verjaehrung Fristennotiz Und Naechster Schritt, Freiheitlicher Paternalismus Check Vertrag, Generalklauseln Abwaegungslenkung im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Abwaegungszustaendigkeit Institutionen, Spezial Buergerlichen Fristen Form Und Zustaendigkeit, Spezial Verjaehrung Fristennotiz Und Naechster Schritt, Freiheitlicher Paternalismus Check Vertrag, Generalklauseln Abwaegungslenkung prüfen.; Erstelle eine Arbeitsfassung zu Abwaegungszustaendigkeit Institutionen, Spezial Buergerlichen Fristen Form Und Zustaendigkeit, Spezial Verjaehrung Fristennotiz Und Naechster Schritt, Freiheitlicher Paternalismus Check Vertrag, Generalklauseln Abwaegungslenkung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Abwaegungszustaendigkeit Institutionen, Buergerlichen Fristen Form Und Zustaendigkeit, Verjaehrung Fristennotiz Und Naechster Schritt, Freiheitlicher Paternalismus Check Vertrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Abwaegungszustaendigkeit Institutionen, Spezial Buergerlichen Fristen Form Und Zustaendigkeit, Spezial Verjaehrung Fristennotiz Und Naechster Schritt, Freiheitlicher Paternalismus Check Vertrag, Generalklauseln Abwaegungslenkung
+# Abwaegungszustaendigkeit Institutionen, Buergerlichen Fristen Form Und Zustaendigkeit, Verjaehrung Fristennotiz Und Naechster Schritt, Freiheitlicher Paternalismus Check Vertrag, Generalklauseln Abwaegungslenkung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Abwaegungszustaendigkeit Institutionen, Buergerlichen Fristen Form Und Zustaendigkeit, Verjaehrung Fristennotiz Und Naechster Schritt, Freiheitlicher Paternalismus Check Vertrag, Generalklauseln Abwaegungslenkung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Abwaegungszustaendigkeit Institutionen, Spezial Buergerlichen Fristen Form Und Zustaendigkeit, Spezial Verjaehrung Fristennotiz Und Naechster Schritt, Freiheitlicher Paternalismus Check Vertrag, Generalklauseln Abwaegungslenkung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abwaegungszustaendigkeit Institutionen, Buergerlichen Fristen Form Und Zustaendigkeit, Verjaehrung Fristennotiz Und Naechster Schritt, Freiheitlicher Paternalismus Check Vertrag, Generalklauseln Abwaegungslenkung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

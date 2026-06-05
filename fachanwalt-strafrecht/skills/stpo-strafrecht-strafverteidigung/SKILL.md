@@ -1,13 +1,13 @@
 ---
 name: stpo-strafrecht-strafverteidigung
-description: "Nutze dies, wenn Spezial Stpo Dokumentenmatrix Und Lueckenliste, Spezial Strafrecht Tatbestand Beweis Und Belege, Spezial Strafverteidigung Schriftsatz Brief Und Memo Bausteine, Spezial Zeugenbeistand Internationaler Bezug Und Schnittstellen, Strafprozess Abschluss Urteil Bewaehrung Vollstreckung im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Stpo Dokumentenmatrix Und Lueckenliste, Spezial Strafrecht Tatbestand Beweis Und Belege, Spezial Strafverteidigung Schriftsatz Brief Und Memo Bausteine, Spezial Zeugenbeistand Internationaler Bezug Und Schnittstellen, Strafprozess Abschluss Urteil Bewaehrung Vollstreckung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Stpo Dokumentenmatrix Und Lueckenliste, Spezial Strafrecht Tatbestand Beweis Und Belege, Spezial Strafverteidigung Schriftsatz Brief Und Memo Bausteine, Spezial Zeugenbeistand Internationaler Bezug Und Schnittstellen, Strafprozess Abschluss Urteil Bewaehrung Vollstreckung.; Welche Normen..."
+description: "Nutze dies bei Stpo Dokumentenmatrix Und Lueckenliste, Strafrecht Tatbestand Beweis Und Belege, Strafverteidigung Schriftsatz Brief Und Memo Bausteine, Zeugenbeistand Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Stpo Dokumentenmatrix Und Lueckenliste, Spezial Strafrecht Tatbestand Beweis Und Belege, Spezial Strafverteidigung Schriftsatz Brief Und Memo Bausteine, Spezial Zeugenbeistand Internationaler Bezug Und Schnittstellen, Strafprozess Abschluss Urteil Bewaehrung Vollstreckung
+# Stpo Dokumentenmatrix Und Lueckenliste, Strafrecht Tatbestand Beweis Und Belege, Strafverteidigung Schriftsatz Brief Und Memo Bausteine, Zeugenbeistand Internationaler Bezug Und Schnittstellen, Strafprozess Abschluss Urteil Bewaehrung Vollstreckung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stpo Dokumentenmatrix Und Lueckenliste, Strafrecht Tatbestand Beweis Und Belege, Strafverteidigung Schriftsatz Brief Und Memo Bausteine, Zeugenbeistand Internationaler Bezug Und Schnittstellen, Strafprozess Abschluss Urteil Bewaehrung Vollstreckung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -17,11 +17,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `spezial-strafrecht-tatbestand-beweis-und-belege` | Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-strafverteidigung-schriftsatz-brief-und-memo-bausteine` | Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-zeugenbeistand-internationaler-bezug-und-schnittstellen` | Zeugenbeistand: Internationaler Bezug und Schnittstellen im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `strafprozess-abschluss-urteil-bewaehrung-vollstreckung` | Abschlussworkflow nach Urteil, Einstellung oder Verständigung: sichert Rechtsmittelfristen, Bewährungsauflagen, Zahlungspflichten, Führungszeugnisfolgen, Vollstreckung, Mandantenbrief, Aktenabschluss und Wiedervorlagen. |
+| `strafprozess-abschluss-urteil-bewaehrung-vollstreckung` | Abschlussnach Urteil, Einstellung oder Verständigung: sichert Rechtsmittelfristen, Bewährungsauflagen, Zahlungspflichten, Führungszeugnisfolgen, Vollstreckung, Mandantenbrief, Aktenabschluss und Wiedervorlagen. |
 
 ## Arbeitsweg
 
-Für **Spezial Stpo Dokumentenmatrix Und Lueckenliste, Spezial Strafrecht Tatbestand Beweis Und Belege, Spezial Strafverteidigung Schriftsatz Brief Und Memo Bausteine, Spezial Zeugenbeistand Internationaler Bezug Und Schnittstellen, Strafprozess Abschluss Urteil Bewaehrung Vollstreckung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stpo Dokumentenmatrix Und Lueckenliste, Strafrecht Tatbestand Beweis Und Belege, Strafverteidigung Schriftsatz Brief Und Memo Bausteine, Zeugenbeistand Internationaler Bezug Und Schnittstellen, Strafprozess Abschluss Urteil Bewaehrung Vollstreckung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Stpo Dokumentenmatrix Und Lueckenliste, Spezial Strafrecht Tatbes
 # StPO: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: StPO: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** StPO: Dokumentenmatrix, Lückenliste und Nachforderung / spezial stpo dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** StPO: Dokumentenmatrix, Lückenliste und Nachforderung / stpo dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -69,28 +69,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## StPO-Dokumentenmatrix Bausteine
 - **Pflichtdokumente nach Verfahrensstand:**
-  - **Ermittlungsverfahren:** Anzeige / Strafanzeige § 158 StPO; Beschuldigtenvernehmung mit Belehrung § 136 StPO (sonst Verwertungsverbot!); Durchsuchungs-/Beschlagnahmebeschluss §§ 102, 105 StPO; Haftbefehl § 114 StPO + Vollzugsbescheid; Sachverstaendigengutachten § 73 StPO; Asservatenverzeichnis; TKUe-Protokoll § 100a StPO mit Beschluss.
-  - **Anklageverfahren:** Anklageschrift mit Anklagesatz / wesentlichem Ergebnis Ermittlungen / Beweismittelverzeichnis § 200 StPO; Eroeffnungsbeschluss § 207 StPO.
-  - **Hauptverhandlung:** Hauptverhandlungsprotokoll § 273 StPO; Urteil §§ 267, 268 StPO; Verstaendigungsprotokoll § 257c StPO.
-  - **Strafvollstreckung:** Vollstreckungsanordnung; Strafvollstreckungsentscheidung § 57 StGB; Bewaehrungsbeschluss.
+ - **Ermittlungsverfahren:** Anzeige / Strafanzeige § 158 StPO; Beschuldigtenvernehmung mit Belehrung § 136 StPO (sonst Verwertungsverbot!); Durchsuchungs-/Beschlagnahmebeschluss §§ 102, 105 StPO; Haftbefehl § 114 StPO + Vollzugsbescheid; Sachverstaendigengutachten § 73 StPO; Asservatenverzeichnis; TKUe-Protokoll § 100a StPO mit Beschluss.
+ - **Anklageverfahren:** Anklageschrift mit Anklagesatz / wesentlichem Ergebnis Ermittlungen / Beweismittelverzeichnis § 200 StPO; Eroeffnungsbeschluss § 207 StPO.
+ - **Hauptverhandlung:** Hauptverhandlungsprotokoll § 273 StPO; Urteil §§ 267, 268 StPO; Verstaendigungsprotokoll § 257c StPO.
+ - **Strafvollstreckung:** Vollstreckungsanordnung; Strafvollstreckungsentscheidung § 57 StGB; Bewaehrungsbeschluss.
 - **Lueckenliste typische Maengel:**
-  - **Belehrung Beschuldigter § 136 StPO** in Vernehmungsprotokoll dokumentiert? Qualifizierte Belehrung bei Wiederholung?
-  - **Beweismittelverzeichnis** vollstaendig - alle Zeugen, Urkunden, Sachverstaendigengutachten gelistet?
-  - **Akteneinsicht § 147 StPO** vollstaendig erhalten? Bei Verweigerung gerichtliche Entscheidung § 147 V 2 StPO.
-  - **Haftbefehl § 114 StPO** ordnungsgemaess: dringender Tatverdacht, Haftgrund, Tat, Beweismittel, Verhaeltnismaessigkeit?
-  - **Durchsuchungsbeschluss § 105 StPO** ordnungsgemaess: Tatverdacht konkretisiert, zu suchende Beweismittel konkret, richterliche Anordnung (Ausnahme Gefahr im Verzug eng gefasst)?
-  - **TKUe-Beschluss § 100a StPO** mit Katalogtatauflistung, Subsidiaritaet, Befristung?
+ - **Belehrung Beschuldigter § 136 StPO** in Vernehmungsprotokoll dokumentiert? Qualifizierte Belehrung bei Wiederholung?
+ - **Beweismittelverzeichnis** vollstaendig - alle Zeugen, Urkunden, Sachverstaendigengutachten gelistet?
+ - **Akteneinsicht § 147 StPO** vollstaendig erhalten? Bei Verweigerung gerichtliche Entscheidung § 147 V 2 StPO.
+ - **Haftbefehl § 114 StPO** ordnungsgemaess: dringender Tatverdacht, Haftgrund, Tat, Beweismittel, Verhaeltnismaessigkeit?
+ - **Durchsuchungsbeschluss § 105 StPO** ordnungsgemaess: Tatverdacht konkretisiert, zu suchende Beweismittel konkret, richterliche Anordnung (Ausnahme Gefahr im Verzug eng gefasst)?
+ - **TKUe-Beschluss § 100a StPO** mit Katalogtatauflistung, Subsidiaritaet, Befristung?
 - **Nachforderungs-Schreiben Vorlage:**
-  ```
-  Sehr geehrte Damen und Herren,
-  zur Sache Az ... bitte ich um Vorlage / Mitteilung gemaess § 147 StPO:
-  - Vollstaendige Akten einschliesslich Beiakten.
-  - Schaedigungsunterlagen Geschaedigte (Anzeige, Lichtbilder).
-  - TKUe-Beschluss vom ... mit Begruendung und Befristung.
-  - Asservatenverzeichnis mit chain-of-custody.
-  - Sachverstaendigengutachten (vollstaendig).
-  ...
-  ```
+ ```
+ Sehr geehrte Damen und Herren,
+ zur Sache Az ... bitte ich um Vorlage / Mitteilung gemaess § 147 StPO:
+ - Vollstaendige Akten einschliesslich Beiakten.
+ - Schaedigungsunterlagen Geschaedigte (Anzeige, Lichtbilder).
+ - TKUe-Beschluss vom ... mit Begruendung und Befristung.
+ - Asservatenverzeichnis mit chain-of-custody.
+ - Sachverstaendigengutachten (vollstaendig).
+ ...
+ ```
 - **Anschluss-Skills:** beweisverwertungsverbote, durchsuchungsbeschluss-pruefung, telefoneberwachung-pruefung.
 
 ## 2. `spezial-strafrecht-tatbestand-beweis-und-belege`
@@ -100,7 +100,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial strafrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / strafrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -141,7 +141,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine / spezial strafverteidigung schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine / strafverteidigung schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -182,7 +182,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Zeugenbeistand: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Zeugenbeistand: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Zeugenbeistand: Internationaler Bezug und Schnittstellen / spezial zeugenbeistand internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Zeugenbeistand: Internationaler Bezug und Schnittstellen / zeugenbeistand internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -220,29 +220,29 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Rechtsgrundlage Zeugenbeistand § 68b StPO:** anwaltliche Hilfe fuer Zeugen in der Vernehmung; auf Antrag oder von Amts wegen bei besonderer Schutzbeduerftigkeit; Ablehnung in eng begrenzten Faellen.
 - **Anwaltsbestellung Zeugen § 68b II StPO:** Beiordnung wenn Zeugenrechte (insb. §§ 52, 55 StPO) ohne Beistand nicht wahrgenommen werden koennen.
 - **Schutzrechte Zeugen StPO:**
-  - **§ 52 StPO Zeugnisverweigerungsrecht Angehoeriger:** Verlobte / Ehegatten / Lebenspartner / Geschwister bis 3. Grad / Verschwaegerte; muss vor Vernehmung belehrt werden.
-  - **§ 53 StPO Berufsgeheimnistraeger:** Anwaelte, Aerzte, Geistliche, Journalisten.
-  - **§ 55 StPO Auskunftsverweigerung wegen Selbstbelastung:** bei Strafverfolgungsrisiko fuer Zeugen / Angehoerige.
-  - **§ 68 StPO Pruefung Anonymitaet** bei gefaehrdeten Zeugen.
+ - **§ 52 StPO Zeugnisverweigerungsrecht Angehoeriger:** Verlobte / Ehegatten / Lebenspartner / Geschwister bis 3. Grad / Verschwaegerte; muss vor Vernehmung belehrt werden.
+ - **§ 53 StPO Berufsgeheimnistraeger:** Anwaelte, Aerzte, Geistliche, Journalisten.
+ - **§ 55 StPO Auskunftsverweigerung wegen Selbstbelastung:** bei Strafverfolgungsrisiko fuer Zeugen / Angehoerige.
+ - **§ 68 StPO Pruefung Anonymitaet** bei gefaehrdeten Zeugen.
 - **Internationaler Zeugenbeistand:**
-  - **Auslaendischer Zeuge im Inland:** Dolmetscher § 185 GVG; ggf. videovernehmung.
-  - **Auslaendischer Zeuge im Ausland:** Rechtshilfeersuchen / Europaeische Ermittlungsanordnung RL 2014/41/EU; Videovernehmung moeglich.
-  - **Inlandszeuge im Ausland:** Vernehmung ueber Botschaft / Konsulat; ggf. kommissarische Vernehmung § 223 StPO.
+ - **Auslaendischer Zeuge im Inland:** Dolmetscher § 185 GVG; ggf. videovernehmung.
+ - **Auslaendischer Zeuge im Ausland:** Rechtshilfeersuchen / Europaeische Ermittlungsanordnung RL 2014/41/EU; Videovernehmung moeglich.
+ - **Inlandszeuge im Ausland:** Vernehmung ueber Botschaft / Konsulat; ggf. kommissarische Vernehmung § 223 StPO.
 - **Konfrontation und Konfrontationsrecht Art. 6 III lit. d EMRK:**
-  - Recht des Beschuldigten auf Befragung Belastungszeugen.
-  - **EGMR-Linie zu anonymen Zeugen:** restriktive Verwertung; massgebliche Konfrontationsmoeglichkeit erforderlich.
+ - Recht des Beschuldigten auf Befragung Belastungszeugen.
+ - **EGMR-Linie zu anonymen Zeugen:** restriktive Verwertung; massgebliche Konfrontationsmoeglichkeit erforderlich.
 - **Adhaesionsverfahren §§ 403-406c StPO:**
-  - Zivilrechtliche Anspruchsverfolgung Geschaedigte im Strafverfahren.
-  - Stadium: bis Eroeffnungsbeschluss zu beantragen.
+ - Zivilrechtliche Anspruchsverfolgung Geschaedigte im Strafverfahren.
+ - Stadium: bis Eroeffnungsbeschluss zu beantragen.
 - **Nebenklage §§ 395-402 StPO** fuer Verletzte:
-  - Antrag bei AG / LG.
-  - **§ 395 StPO Anschlussberechtigte:** insb. bei §§ 174-184k, 211, 212, 223 StGB, OWi mit erheblicher Verletzung.
-  - **§ 397a StPO Beiordnung Rechtsanwalt** kostenlos bei besonderer Schutzbeduerftigkeit (insbesondere Sexualdelikte, schwere Koerperverletzungen).
+ - Antrag bei AG / LG.
+ - **§ 395 StPO Anschlussberechtigte:** insb. bei §§ 174-184k, 211, 212, 223 StGB, OWi mit erheblicher Verletzung.
+ - **§ 397a StPO Beiordnung Rechtsanwalt** kostenlos bei besonderer Schutzbeduerftigkeit (insbesondere Sexualdelikte, schwere Koerperverletzungen).
 - **Praxis-Tipp:** Bei Zeugenbeistand-Mandat klare Trennung zur Beschuldigtenverteidigung; § 138 StGB Beistandsverbot doppelt vertreten; Schweigerechtsbelehrung Zeugen klar und schriftlich dokumentieren.
 
 ## 5. `strafprozess-abschluss-urteil-bewaehrung-vollstreckung`
 
-**Fokus:** Abschlussworkflow nach Urteil, Einstellung oder Verständigung: sichert Rechtsmittelfristen, Bewährungsauflagen, Zahlungspflichten, Führungszeugnisfolgen, Vollstreckung, Mandantenbrief, Aktenabschluss und Wiedervorlagen.
+**Fokus:** Abschlussnach Urteil, Einstellung oder Verständigung: sichert Rechtsmittelfristen, Bewährungsauflagen, Zahlungspflichten, Führungszeugnisfolgen, Vollstreckung, Mandantenbrief, Aktenabschluss und Wiedervorlagen.
 
 # Abschluss: Urteil, Bewährung und Vollstreckung
 

@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-testat-widerruf
-description: "Nutze dies, wenn Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefer Unabhaengigkeit Praevention, Wirtschaftspruefer Unabhaengigkeit Verteidigung, Anwaltsgericht Brao Ueberblick im Plugin Berufsgerichtliche Verfahren Freie Berufe konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefer Unabhaengigkeit Praevention, Wirtschaftspruefer Unabhaengigkeit Verteidigung, Anwaltsgericht Brao Ueberblick prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefer Unabhaengigkeit Praevention, Wirtschaftspruefer Unabhaengigkeit Verteidigung, Anwaltsgericht Brao Ueberblick.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefer Unabhaengigkeit Praevention, Wirtschaftspruefer Unabhaengigkeit Verteidigung, Anwaltsgericht Brao Ueberblick: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefer Unabhaengigkeit Praevention, Wirtschaftspruefer Unabhaengigkeit Verteidigung, Anwaltsgericht Brao Ueberblick
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Testat Widerruf Verteidigung, Wirtschaftspruefer Unabhaengigkeit Praevention, Wirtschaftspruefer Unabhaengigkeit Verteidigung, Anwaltsgericht Brao Ueberblick** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

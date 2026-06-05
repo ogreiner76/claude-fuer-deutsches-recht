@@ -6,11 +6,11 @@ description: "Betreuerpflichten, Genehmigung und Berichtswesen: führt schnell d
 # Betreuerpflichten, Genehmigung und Berichtswesen
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `betreuungsrecht`. Kontext des Plugins: Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und Verdachtsverträge nach BtOG und BGB.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `betreuungsrecht`. Kontext des Plugins: Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und Verdachtsverträge nach BtOG und BGB.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?

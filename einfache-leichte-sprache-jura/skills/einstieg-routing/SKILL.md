@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Einfache Leichte Sprache Jura.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Einfache Leichte Sprache Jura** ein Fall n
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-ls-bescheid-workflow-chronologie` — Allgemein Ls Bescheid Workflow Chronologie
+- `allgemein-ls-bescheid-workflow-chronologie` — Allgemein Ls Bescheid Chronologie
 - `einfache-elsj-bescheidmodus-elsj` — Einfache Elsj Bescheidmodus Elsj
 - `elsj-aufenthaltsrecht-mandant` — Elsj Aufenthaltsrecht Mandant
 - `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache` — Elsj Aufenthaltsrecht Mandant Betreuung Vormundschaft Einfache

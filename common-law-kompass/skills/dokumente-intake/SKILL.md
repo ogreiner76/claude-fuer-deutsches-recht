@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Common Law Kompass** ein Fall noch sortier
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `begriffe-uebersetzung-bilingual-contract-client-explainer` — Begriffe Uebersetzung Bilingual Contract Client Explainer
 - `bilinguale-client-commercial-sonderfall` — Bilinguale Client Commercial Sonderfall
 - `cl-mandantenuebersicht-cl-prozesskostenrisiko-cl-precedent` — Cl Mandantenuebersicht Cl Prozesskostenrisiko Cl Precedent

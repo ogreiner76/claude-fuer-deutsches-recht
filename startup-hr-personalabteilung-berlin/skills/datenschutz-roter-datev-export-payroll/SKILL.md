@@ -1,23 +1,23 @@
 ---
 name: datenschutz-roter-datev-export-payroll
-description: "Nutze dies, wenn Datenschutz Roter Schalter Personaldaten, Datev Export Import Plausibilisierung, Datev Payroll Datenpaket Monatslauf, Dienstgeraete Byod Policy, Diskriminierung Agg Beschwerdestelle im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Datenschutz Roter Schalter Personaldaten, Datev Export Import Plausibilisierung, Datev Payroll Datenpaket Monatslauf, Dienstgeraete Byod Policy, Diskriminierung Agg Beschwerdestelle prüfen.; Erstelle eine Arbeitsfassung zu Datenschutz Roter Schalter Personaldaten, Datev Export Import Plausibilisierung, Datev Payroll Datenpaket Monatslauf, Dienstgeraete Byod Policy, Diskriminierung Agg Beschwerdestelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Datenschutz Roter Schalter Personaldaten, Datev Export Import Plausibilisierung, Datev Payroll Datenpaket Monatslauf, Dienstgeraete Byod Policy: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Datenschutz Roter Schalter Personaldaten, Datev Export Import Plausibilisierung, Datev Payroll Datenpaket Monatslauf, Dienstgeraete Byod Policy, Diskriminierung Agg Beschwerdestelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutz Roter Schalter Personaldaten, Datev Export Import Plausibilisierung, Datev Payroll Datenpaket Monatslauf, Dienstgeraete Byod Policy, Diskriminierung Agg Beschwerdestelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `datenschutz-roter-schalter-personaldaten` | Berliner Start-up-HR: Roter Datenschutz-Schalter für Personalakten: Datenminimierung, Zugriff, Zweckbindung, Löschung, besondere Kategorien und Chef-Briefings. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `datev-export-import-plausibilisierung` | Berliner Start-up-HR: DATEV-Export/Import plausibilisieren: Felder, Differenzen, Dubletten, Rückfragen und Datenschutzgrenzen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `datev-payroll-datenpaket-monatslauf` | Berliner Start-up-HR: Monatslauf an Lohnbuchhaltung/DATEV: Neueintritte, Austritte, variable Vergütung, Fehlzeiten, Sachbezüge, Benefits und Freigabe. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `dienstgeraete-byod-policy` | Berliner Start-up-HR: Dienstgeräte und BYOD: MDM, private Nutzung, Monitoring, Rückgabe, Verlustmeldung, Datenschutz und IT-Security. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `diskriminierung-agg-beschwerdestelle` | Berliner Start-up-HR: AGG-Beschwerdestelle: Beschwerde aufnehmen, prüfen, Maßnahmen wählen, Fristen und Vertraulichkeit sichern. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `datenschutz-roter-schalter-personaldaten` | Berliner Start-up-HR: Roter Datenschutz-Schalter für Personalakten: Datenminimierung, Zugriff, Zweckbindung, Löschung, besondere Kategorien und Chef-Briefings. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `datev-export-import-plausibilisierung` | Berliner Start-up-HR: DATEV-Export/Import plausibilisieren: Felder, Differenzen, Dubletten, Rückfragen und Datenschutzgrenzen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `datev-payroll-datenpaket-monatslauf` | Berliner Start-up-HR: Monatslauf an Lohnbuchhaltung/DATEV: Neueintritte, Austritte, variable Vergütung, Fehlzeiten, Sachbezüge, Benefits und Freigabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `dienstgeraete-byod-policy` | Berliner Start-up-HR: Dienstgeräte und BYOD: MDM, private Nutzung, Monitoring, Rückgabe, Verlustmeldung, Datenschutz und IT-Security. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `diskriminierung-agg-beschwerdestelle` | Berliner Start-up-HR: AGG-Beschwerdestelle: Beschwerde aufnehmen, prüfen, Maßnahmen wählen, Fristen und Vertraulichkeit sichern. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Datenschutz Roter Schalter Personaldaten, Datev Export Import Plausibilis
 
 ## 1. `datenschutz-roter-schalter-personaldaten`
 
-**Fokus:** Berliner Start-up-HR: Roter Datenschutz-Schalter für Personalakten: Datenminimierung, Zugriff, Zweckbindung, Löschung, besondere Kategorien und Chef-Briefings. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Roter Datenschutz-Schalter für Personalakten: Datenminimierung, Zugriff, Zweckbindung, Löschung, besondere Kategorien und Chef-Briefings. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Datenschutz Roter Schalter Personaldaten
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Kaltstart
 **Fokus:** Roter Datenschutz-Schalter für Personalakten: Datenminimierung, Zugriff, Zweckbindung, Löschung, besondere Kategorien und Chef-Briefings.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `datev-export-import-plausibilisierung`
 
-**Fokus:** Berliner Start-up-HR: DATEV-Export/Import plausibilisieren: Felder, Differenzen, Dubletten, Rückfragen und Datenschutzgrenzen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: DATEV-Export/Import plausibilisieren: Felder, Differenzen, Dubletten, Rückfragen und Datenschutzgrenzen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # DATEV Export Import Plausibilisierung
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Payroll
 **Fokus:** DATEV-Export/Import plausibilisieren: Felder, Differenzen, Dubletten, Rückfragen und Datenschutzgrenzen.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `datev-payroll-datenpaket-monatslauf`
 
-**Fokus:** Berliner Start-up-HR: Monatslauf an Lohnbuchhaltung/DATEV: Neueintritte, Austritte, variable Vergütung, Fehlzeiten, Sachbezüge, Benefits und Freigabe. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Monatslauf an Lohnbuchhaltung/DATEV: Neueintritte, Austritte, variable Vergütung, Fehlzeiten, Sachbezüge, Benefits und Freigabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # DATEV Payroll Datenpaket Monatslauf
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Payroll
 **Fokus:** Monatslauf an Lohnbuchhaltung/DATEV: Neueintritte, Austritte, variable Vergütung, Fehlzeiten, Sachbezüge, Benefits und Freigabe.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `dienstgeraete-byod-policy`
 
-**Fokus:** Berliner Start-up-HR: Dienstgeräte und BYOD: MDM, private Nutzung, Monitoring, Rückgabe, Verlustmeldung, Datenschutz und IT-Security. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Dienstgeräte und BYOD: MDM, private Nutzung, Monitoring, Rückgabe, Verlustmeldung, Datenschutz und IT-Security. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Dienstgeraete Byod Policy
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Policies
 **Fokus:** Dienstgeräte und BYOD: MDM, private Nutzung, Monitoring, Rückgabe, Verlustmeldung, Datenschutz und IT-Security.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `diskriminierung-agg-beschwerdestelle`
 
-**Fokus:** Berliner Start-up-HR: AGG-Beschwerdestelle: Beschwerde aufnehmen, prüfen, Maßnahmen wählen, Fristen und Vertraulichkeit sichern. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: AGG-Beschwerdestelle: Beschwerde aufnehmen, prüfen, Maßnahmen wählen, Fristen und Vertraulichkeit sichern. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Diskriminierung AGG Beschwerdestelle
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Vorfälle
 **Fokus:** AGG-Beschwerdestelle: Beschwerde aufnehmen, prüfen, Maßnahmen wählen, Fristen und Vertraulichkeit sichern.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

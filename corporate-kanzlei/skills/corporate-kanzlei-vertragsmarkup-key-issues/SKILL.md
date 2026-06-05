@@ -193,18 +193,18 @@ EXECUTIVE SUMMARY
 PRIORITAET 1 — DEAL-BREAKER/ENTSCHEIDUNGSBEDARF
 
 1.1 Haftungs-Cap: § X des SPA sieht Cap von [X %] des Kaufpreises vor.
-    Marktstandard: 20-30 %; unsere Position: mindestens 25 %.
-    Markup: "[NEUE FORMULIERUNG]"
-    Empfehlung: Harte Verhandlungsposition.
+ Marktstandard: 20-30 %; unsere Position: mindestens 25 %.
+ Markup: "[NEUE FORMULIERUNG]"
+ Empfehlung: Harte Verhandlungsposition.
 
 1.2 Verjährung Tax Indemnity: Nur 3 Jahre vorgesehen; bei steuerlichen Nachhaftungsrisiken aus Betriebspruefungen zu kurz.
-    Empfehlung: 7 Jahre fuer Tax-Themen; unbegrenzt fuer Steuerhinterziehung.
+ Empfehlung: 7 Jahre fuer Tax-Themen; unbegrenzt fuer Steuerhinterziehung.
 
 PRIORITAET 2 — HOHE PRIORITAET
 
 2.1 [Klausel]
-    Problem: [Beschreibung]
-    Markup: [Vorschlag]
+ Problem: [Beschreibung]
+ Markup: [Vorschlag]
 
 PRIORITAET 3 — VERHANDLUNGSPOSITION
 

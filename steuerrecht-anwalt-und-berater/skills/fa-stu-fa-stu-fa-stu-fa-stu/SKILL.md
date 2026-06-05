@@ -1,13 +1,13 @@
 ---
 name: fa-stu-fa-stu-fa-stu-fa-stu
-description: "Nutze dies, wenn Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg prüfen.; Erstelle eine Arbeitsfassung zu Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fa Stu Ust Rechnungspflicht 14 Ustg, Fa Stu Ust Vorsteuerabzug 15 Ustg, Fa Stu Vga Pruefraster, Fa Stu Vorbehaltsaufgaben Stberg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

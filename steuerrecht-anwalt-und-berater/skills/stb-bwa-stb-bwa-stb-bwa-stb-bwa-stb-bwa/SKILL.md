@@ -1,13 +1,13 @@
 ---
 name: stb-bwa-stb-bwa-stb-bwa-stb-bwa-stb-bwa
-description: "Nutze dies, wenn Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev, Stb Bwa Cashflow Laienverstaendlich und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -95,18 +95,18 @@ Die Standard-BWA weist ein Betriebsergebnis nach Block-Logik aus. Fuer Steuerung
 ### Phase 2 — Stufendeckungsbeitrag konfigurieren
 
 ```
-Umsatzerloese                          [Umsatz]
+Umsatzerloese [Umsatz]
 - Variable Kosten (Material, FL, var. Lohn) [Var. K]
-= DECKUNGSBEITRAG I (Rohgewinn)        [DB I]
+= DECKUNGSBEITRAG I (Rohgewinn) [DB I]
 - Fixkosten der Kostenstelle / des Produkts [Fix-KSt]
-= DECKUNGSBEITRAG II                   [DB II]
-- Allgemeine Fixkosten Unternehmen     [Allg. Fix]
-= BETRIEBSERGEBNIS / EBITDA            [BE]
-- Abschreibungen                       [AfA]
+= DECKUNGSBEITRAG II [DB II]
+- Allgemeine Fixkosten Unternehmen [Allg. Fix]
+= BETRIEBSERGEBNIS / EBITDA [BE]
+- Abschreibungen [AfA]
 = EBIT
-- Zinsergebnis                         [Zins]
+- Zinsergebnis [Zins]
 = EBT (Ergebnis vor Steuern)
-- Ertragsteuern                        [Steuern]
+- Ertragsteuern [Steuern]
 = JAHRESUEBERSCHUSS
 ```
 
@@ -243,38 +243,38 @@ Mandant: [Firma]
 Zeitraum: [Monat / kumuliert]
 
 I. UMSATZ UND BETRIEBLICHE ERTRAEGE
-  8400 Erloese 19 Prozent USt                   [X]
-  8300 Erloese 7 Prozent USt                    [X]
-  8125 Erloese steuerfreie innergem. Lieferung  [X]
-  8200 Sonstige betriebliche Ertraege           [X]
+ 8400 Erloese 19 Prozent USt [X]
+ 8300 Erloese 7 Prozent USt [X]
+ 8125 Erloese steuerfreie innergem. Lieferung [X]
+ 8200 Sonstige betriebliche Ertraege [X]
 
 II. MATERIAL- UND WARENEINSATZ
-  3400 Wareneingang 19 Prozent VSt              [X]
-  3300 Wareneingang 7 Prozent VSt               [X]
-  3100 Fremdleistungen                          [X]
+ 3400 Wareneingang 19 Prozent VSt [X]
+ 3300 Wareneingang 7 Prozent VSt [X]
+ 3100 Fremdleistungen [X]
 
 III. PERSONALKOSTEN
-  4120 Loehne                                   [X]
-  4130 Gehaelter                                [X]
-  4138 Beitraege zur Berufsgenossenschaft       [X]
-  4140 Krankenkassen-AG-Anteil                  [X]
+ 4120 Loehne [X]
+ 4130 Gehaelter [X]
+ 4138 Beitraege zur Berufsgenossenschaft [X]
+ 4140 Krankenkassen-AG-Anteil [X]
 
 IV. SONSTIGE BETRIEBLICHE AUFWENDUNGEN
-  4210 Miete                                    [X]
-  4240 Gas Strom Wasser                         [X]
-  4500 Kfz-Kosten                               [X]
-  4600 Werbe- und Reisekosten                   [X]
-  4900 Sonstige betriebliche Aufwendungen       [X]
+ 4210 Miete [X]
+ 4240 Gas Strom Wasser [X]
+ 4500 Kfz-Kosten [X]
+ 4600 Werbe- und Reisekosten [X]
+ 4900 Sonstige betriebliche Aufwendungen [X]
 
 V. ABSCHREIBUNGEN
-  4830 Absetzungen auf Sachanlagen              [X]
+ 4830 Absetzungen auf Sachanlagen [X]
 
 VI. ZINSERGEBNIS UND STEUERN
-  7300 Zinsen und aehnliche Aufwendungen        [X]
-  7100 Zinsertraege                             [X]
-  7600 Steuern vom Einkommen und Ertrag         [X]
+ 7300 Zinsen und aehnliche Aufwendungen [X]
+ 7100 Zinsertraege [X]
+ 7600 Steuern vom Einkommen und Ertrag [X]
 
-ERGEBNIS NACH STEUERN                           [X]
+ERGEBNIS NACH STEUERN [X]
 ```
 
 ### Phase 3 — Vergleichsspalten
@@ -410,17 +410,17 @@ Die Bewegungsbilanz stellt die Veraenderungen einzelner Bilanzposten zwischen zw
 
 ```
 AKTIVA-VERAENDERUNG:
-Position                        Anfang     Ende    Veraenderung
+Position Anfang Ende Veraenderung
 Anlagevermoegen
-  Sachanlagen                   [X]        [Y]      [+/-Z]
-  Immaterielle WG               [X]        [Y]      [+/-Z]
-  Finanzanlagen                 [X]        [Y]      [+/-Z]
+ Sachanlagen [X] [Y] [+/-Z]
+ Immaterielle WG [X] [Y] [+/-Z]
+ Finanzanlagen [X] [Y] [+/-Z]
 Umlaufvermoegen
-  Vorraete                      [X]        [Y]      [+/-Z]
-  Forderungen LuL               [X]        [Y]      [+/-Z]
-  Sonstige Forderungen          [X]        [Y]      [+/-Z]
-  Liquide Mittel                [X]        [Y]      [+/-Z]
-Aktive Rechnungsabgrenzung      [X]        [Y]      [+/-Z]
+ Vorraete [X] [Y] [+/-Z]
+ Forderungen LuL [X] [Y] [+/-Z]
+ Sonstige Forderungen [X] [Y] [+/-Z]
+ Liquide Mittel [X] [Y] [+/-Z]
+Aktive Rechnungsabgrenzung [X] [Y] [+/-Z]
 ```
 
 ### Phase 3 — Strukturierung Passiva
@@ -428,16 +428,16 @@ Aktive Rechnungsabgrenzung      [X]        [Y]      [+/-Z]
 ```
 PASSIVA-VERAENDERUNG:
 Eigenkapital
-  Gezeichnetes Kapital          [X]        [Y]      [+/-Z]
-  Kapitalruecklagen             [X]        [Y]      [+/-Z]
-  Gewinn-/Verlustruecklage      [X]        [Y]      [+/-Z]
-  Jahresergebnis                [X]        [Y]      [+/-Z]
-Rueckstellungen                 [X]        [Y]      [+/-Z]
+ Gezeichnetes Kapital [X] [Y] [+/-Z]
+ Kapitalruecklagen [X] [Y] [+/-Z]
+ Gewinn-/Verlustruecklage [X] [Y] [+/-Z]
+ Jahresergebnis [X] [Y] [+/-Z]
+Rueckstellungen [X] [Y] [+/-Z]
 Verbindlichkeiten
-  Kreditinstitute               [X]        [Y]      [+/-Z]
-  Lieferanten                   [X]        [Y]      [+/-Z]
-  Sonstige Verbindlichkeiten    [X]        [Y]      [+/-Z]
-Passive Rechnungsabgrenzung     [X]        [Y]      [+/-Z]
+ Kreditinstitute [X] [Y] [+/-Z]
+ Lieferanten [X] [Y] [+/-Z]
+ Sonstige Verbindlichkeiten [X] [Y] [+/-Z]
+Passive Rechnungsabgrenzung [X] [Y] [+/-Z]
 ```
 
 ### Phase 4 — Mittelherkunft und Mittelverwendung
@@ -717,29 +717,29 @@ Mandant: [Firma]
 Zeitraum: [Quartal X / 2026]
 
 WAS WURDE LAUFEND VERDIENT?
-+ Jahresueberschuss/-fehlbetrag                [X]
-+ Abschreibungen (kein Cash-Ausfluss)          [X]
-+/- Veraenderung Vorraete und Forderungen     [X]
++ Jahresueberschuss/-fehlbetrag [X]
++ Abschreibungen (kein Cash-Ausfluss) [X]
++/- Veraenderung Vorraete und Forderungen [X]
 +/- Veraenderung Lieferantenverbindlichkeiten [X]
-= LAUFENDER CASHFLOW                          [Y]
+= LAUFENDER CASHFLOW [Y]
 
 WAS WURDE INVESTIERT?
-- Neue Maschinen, Fahrzeuge, IT               [X]
-- Beteiligungen                                [X]
-+ Verkauf Alt-Anlagen                          [X]
-= INVESTITIONS-CASHFLOW                       [-Z]
+- Neue Maschinen, Fahrzeuge, IT [X]
+- Beteiligungen [X]
++ Verkauf Alt-Anlagen [X]
+= INVESTITIONS-CASHFLOW [-Z]
 
 WIE HAT SICH DIE FINANZIERUNG VERAENDERT?
-+ Neue Bankdarlehen                            [X]
-- Tilgung Bankdarlehen                         [X]
-- Ausschuettung Gesellschafter                 [X]
-+ Privateinlage Gesellschafter                 [X]
-= FINANZIERUNGS-CASHFLOW                      [+/- A]
++ Neue Bankdarlehen [X]
+- Tilgung Bankdarlehen [X]
+- Ausschuettung Gesellschafter [X]
++ Privateinlage Gesellschafter [X]
+= FINANZIERUNGS-CASHFLOW [+/- A]
 
-NETTO-CASH-VERAENDERUNG                       [Y - Z +/- A]
+NETTO-CASH-VERAENDERUNG [Y - Z +/- A]
 
-BANK-/KASSE-BESTAND ANFANG                    [X]
-BANK-/KASSE-BESTAND ENDE                      [X]
+BANK-/KASSE-BESTAND ANFANG [X]
+BANK-/KASSE-BESTAND ENDE [X]
 ```
 
 ### Phase 2 — Erklaerung fuer den Mandanten
@@ -1176,36 +1176,36 @@ Mandant: [Firma]
 Stichtag: [Datum]
 
 I. ERGEBNIS-UEBERBLICK
-   Umsatzerloese                 [Jahr]   [Vorjahr]  [Abweichung in Prozent]
-   Materialeinsatz               ...
-   Personalkosten                ...
-   Sonstige Aufwendungen         ...
-   Abschreibungen                ...
-   Betriebsergebnis              ...
-   Zinsergebnis                  ...
-   Ergebnis vor Steuern          ...
-   Steuern                       ...
-   Jahresergebnis                ...
+ Umsatzerloese [Jahr] [Vorjahr] [Abweichung in Prozent]
+ Materialeinsatz ...
+ Personalkosten ...
+ Sonstige Aufwendungen ...
+ Abschreibungen ...
+ Betriebsergebnis ...
+ Zinsergebnis ...
+ Ergebnis vor Steuern ...
+ Steuern ...
+ Jahresergebnis ...
 
 II. STRUKTURKENNZAHLEN
-   Materialquote                 [Prozent]
-   Personalquote                 [Prozent]
-   Umsatzrentabilitaet           [Prozent]
-   EBITDA-Marge                  [Prozent]
+ Materialquote [Prozent]
+ Personalquote [Prozent]
+ Umsatzrentabilitaet [Prozent]
+ EBITDA-Marge [Prozent]
 
 III. LIQUIDITAETSKENNZAHLEN
-   Liquiditaet 1./2./3. Grades   [Prozent]
-   Eigenkapitalquote             [Prozent]
-   Anlagendeckung II             [Prozent]
+ Liquiditaet 1./2./3. Grades [Prozent]
+ Eigenkapitalquote [Prozent]
+ Anlagendeckung II [Prozent]
 
 IV. RENTABILITAET
-   Eigenkapitalrendite           [Prozent]
-   Gesamtkapitalrendite          [Prozent]
+ Eigenkapitalrendite [Prozent]
+ Gesamtkapitalrendite [Prozent]
 
 V. MEHRJAHRES-TREND (3-5 Jahre)
-   Umsatzentwicklung als Liniendiagramm
-   Ergebnisentwicklung
-   Eigenkapital-Entwicklung
+ Umsatzentwicklung als Liniendiagramm
+ Ergebnisentwicklung
+ Eigenkapital-Entwicklung
 ```
 
 ### Phase 3 — Sondereffekte separat
@@ -1342,36 +1342,36 @@ Die Kapitalflussrechnung ist nach DRS 21 Pflichtbestandteil des Konzernabschluss
 KAPITALFLUSSRECHNUNG nach DRS 21 (indirekte Methode)
 
 I. CASHFLOW AUS LAUFENDER GESCHAEFTSTAETIGKEIT
-   Jahresueberschuss/Fehlbetrag                            [X]
-   +/- Abschreibungen/Zuschreibungen Anlagevermoegen       [X]
-   +/- Veraenderung Rueckstellungen                         [X]
-   +/- Sonstige nicht-zahlungswirksame Aufwendungen/Ertraege [X]
-   +/- Veraenderung Vorraete                                [X]
-   +/- Veraenderung Forderungen LuL                         [X]
-   +/- Veraenderung sonstige Aktiva                         [X]
-   +/- Veraenderung Verbindlichkeiten LuL                   [X]
-   +/- Veraenderung sonstige Passiva                        [X]
-   +/- Gezahlte/Erstattete Ertragsteuern                    [X]
-   = Cashflow aus laufender Geschaeftstaetigkeit           [X]
+ Jahresueberschuss/Fehlbetrag [X]
+ +/- Abschreibungen/Zuschreibungen Anlagevermoegen [X]
+ +/- Veraenderung Rueckstellungen [X]
+ +/- Sonstige nicht-zahlungswirksame Aufwendungen/Ertraege [X]
+ +/- Veraenderung Vorraete [X]
+ +/- Veraenderung Forderungen LuL [X]
+ +/- Veraenderung sonstige Aktiva [X]
+ +/- Veraenderung Verbindlichkeiten LuL [X]
+ +/- Veraenderung sonstige Passiva [X]
+ +/- Gezahlte/Erstattete Ertragsteuern [X]
+ = Cashflow aus laufender Geschaeftstaetigkeit [X]
 
 II. CASHFLOW AUS INVESTITIONSTAETIGKEIT
-   - Auszahlungen fuer Investitionen Sachanlagen            [X]
-   - Auszahlungen fuer Investitionen immat. WG              [X]
-   - Auszahlungen fuer Investitionen Finanzanlagen          [X]
-   + Einzahlungen aus Abgang Sachanlagen                    [X]
-   + Einzahlungen aus Abgang Finanzanlagen                  [X]
-   = Cashflow aus Investitionstaetigkeit                   [X]
+ - Auszahlungen fuer Investitionen Sachanlagen [X]
+ - Auszahlungen fuer Investitionen immat. WG [X]
+ - Auszahlungen fuer Investitionen Finanzanlagen [X]
+ + Einzahlungen aus Abgang Sachanlagen [X]
+ + Einzahlungen aus Abgang Finanzanlagen [X]
+ = Cashflow aus Investitionstaetigkeit [X]
 
 III. CASHFLOW AUS FINANZIERUNGSTAETIGKEIT
-   + Einzahlungen aus Kapitalerhoehung                      [X]
-   + Aufnahme Darlehen Kreditinstitute                      [X]
-   - Tilgung Darlehen Kreditinstitute                       [X]
-   - Ausschuettungen an Gesellschafter                      [X]
-   = Cashflow aus Finanzierungstaetigkeit                  [X]
+ + Einzahlungen aus Kapitalerhoehung [X]
+ + Aufnahme Darlehen Kreditinstitute [X]
+ - Tilgung Darlehen Kreditinstitute [X]
+ - Ausschuettungen an Gesellschafter [X]
+ = Cashflow aus Finanzierungstaetigkeit [X]
 
-IV. VERAENDERUNG FINANZMITTELFONDS                          [X]
-   + Finanzmittelfonds zu Beginn der Periode                [X]
-   = Finanzmittelfonds am Ende der Periode                  [X]
+IV. VERAENDERUNG FINANZMITTELFONDS [X]
+ + Finanzmittelfonds zu Beginn der Periode [X]
+ = Finanzmittelfonds am Ende der Periode [X]
 ```
 
 ### Phase 3 — Ableitung Bewegungen

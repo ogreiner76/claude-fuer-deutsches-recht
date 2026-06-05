@@ -1,13 +1,13 @@
 ---
 name: kanzlei-rechtsprechungsrecherche-fristenbuch
-description: "Nutze dies, wenn Kanzlei Allgemein Rechtsprechungsrecherche, Fristenbuch Fuehren im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Rechtsprechungsrecherche, Fristenbuch Fuehren prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Rechtsprechungsrecherche, Fristenbuch Fuehren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kanzlei Allgemein Rechtsprechungsrecherche, Fristenbuch Fuehren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kanzlei Allgemein Rechtsprechungsrecherche, Fristenbuch Fuehren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Allgemein Rechtsprechungsrecherche, Fristenbuch Fuehren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -66,13 +66,13 @@ Dieser Skill recherchiert gezielt Rechtsprechung zu einer Akte, einem Schriftsat
 
 1. **Bundesübergreifend amtlich**: `https://www.rechtsprechung-im-internet.de` und Justizportal `https://www.justiz.de/onlinedienste/rechtsprechung/index.php`.
 2. **Bundesgerichte direkt**:
-   - Bundesverfassungsgericht: `https://www.bundesverfassungsgericht.de/SiteGlobals/Forms/Suche/Entscheidungensuche_Formular.html`
-   - Bundesgerichtshof: `https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen.html`
-   - Bundesverwaltungsgericht: `https://www.bverwg.de/rechtsprechung`
-   - Bundesarbeitsgericht: `https://www.bundesarbeitsgericht.de/entscheidungen/`
-   - Bundesfinanzhof: `https://www.bundesfinanzhof.de/de/entscheidungen/entscheidungen-online/`
-   - Bundessozialgericht: `https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen.html`
-   - Bundespatentgericht: `https://www.bundespatentgericht.de/DE/Rechtsprechung/Entscheidungen/entscheidungen_node.html`
+ - Bundesverfassungsgericht: `https://www.bundesverfassungsgericht.de/SiteGlobals/Forms/Suche/Entscheidungensuche_Formular.html`
+ - Bundesgerichtshof: `https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen.html`
+ - Bundesverwaltungsgericht: `https://www.bverwg.de/rechtsprechung`
+ - Bundesarbeitsgericht: `https://www.bundesarbeitsgericht.de/entscheidungen/`
+ - Bundesfinanzhof: `https://www.bundesfinanzhof.de/de/entscheidungen/entscheidungen-online/`
+ - Bundessozialgericht: `https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen.html`
+ - Bundespatentgericht: `https://www.bundespatentgericht.de/DE/Rechtsprechung/Entscheidungen/entscheidungen_node.html`
 3. **Länderrechtsprechung**: über das Justizportal und die Rechtsprechungsdatenbanken der Länder, z. B. NRWE für Nordrhein-Westfalen.
 4. **Ergänzend**: OpenJur und dejure.org für zusätzliche Treffer, Parallelfundstellen, Verlinkungen, Vorinstanzen, Zitatnetz und Presse-/Literaturhinweise.
 
@@ -94,24 +94,24 @@ Wenn wenig Zeit ist, sofort eine Suchmatrix aus `Norm + Rechtsproblem + Gerichts
 
 1. Rechtsfrage normalisieren: Anspruch, Einwendung, Prozessfrage, Beweisfrage oder Vertragsrisiko.
 2. Suchbegriffe bilden:
-   - Normen mit und ohne Paragrafenzeichen.
-   - juristische Kernbegriffe.
-   - Synonyme und alte Begriffe.
-   - Aktenzeichen und ECLI, wenn vorhanden.
-   - typische Phrasen aus Leitsätzen.
+ - Normen mit und ohne Paragrafenzeichen.
+ - juristische Kernbegriffe.
+ - Synonyme und alte Begriffe.
+ - Aktenzeichen und ECLI, wenn vorhanden.
+ - typische Phrasen aus Leitsätzen.
 3. Gerichtshierarchie priorisieren:
-   - Bundesgericht oder Verfassungsgericht vor Instanzrechtsprechung.
-   - Zuständige Fachgerichtsbarkeit vor allgemeiner Suche.
-   - Landesrecht zuerst im betroffenen Bundesland, danach vergleichbare Länder.
+ - Bundesgericht oder Verfassungsgericht vor Instanzrechtsprechung.
+ - Zuständige Fachgerichtsbarkeit vor allgemeiner Suche.
+ - Landesrecht zuerst im betroffenen Bundesland, danach vergleichbare Länder.
 4. Treffer sichten:
-   - amtlicher Volltext vorhanden?
-   - Leitsatz oder Orientierungssatz?
-   - Tragende Gründe oder obiter dictum?
-   - aktuell oder überholt?
-   - passt der Sachverhalt wirklich?
+ - amtlicher Volltext vorhanden?
+ - Leitsatz oder Orientierungssatz?
+ - Tragende Gründe oder obiter dictum?
+ - aktuell oder überholt?
+ - passt der Sachverhalt wirklich?
 5. Gegenrecherche:
-   - abweichende Senate, andere Obergerichte, spätere Entscheidungen, Nichtannahme- oder Nichtzulassungsfragen suchen.
-   - dejure/OpenJur nur ergänzend für Verweise und Vernetzung nutzen.
+ - abweichende Senate, andere Obergerichte, spätere Entscheidungen, Nichtannahme- oder Nichtzulassungsfragen suchen.
+ - dejure/OpenJur nur ergänzend für Verweise und Vernetzung nutzen.
 
 ## Bewertung
 
@@ -129,13 +129,13 @@ Standardordner in der Akte:
 
 ```text
 rechtsprechung/
-  YYYY-MM-DD_recherchefrage-kurz/
-    suchplan.md
-    fundstellen-register.md
-    entscheidungen/
-    zitiervorschlaege.md
-    verwertungsnotiz.md
-    ablageprotokoll.md
+ YYYY-MM-DD_recherchefrage-kurz/
+ suchplan.md
+ fundstellen-register.md
+ entscheidungen/
+ zitiervorschlaege.md
+ verwertungsnotiz.md
+ ablageprotokoll.md
 ```
 
 Wenn eine Online-Ablage gewünscht ist:
@@ -195,17 +195,17 @@ Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist
 
 ```yaml
 - mandat-az: 2026/0042
-  mandant: Mueller GmbH
-  vorgang: Kundenklage
-  fristart: berufungsfrist
-  rechtsgrundlage: "§ 517 ZPO"
-  fristbeginn: 2026-03-15
-  hauptfrist: 2026-04-15
-  vorfrist-tage: 7
-  vorfrist: 2026-04-06
-  zustaendig: RA Mueller
-  status: offen
-  bemerkung: Berufungsbegründung gemäß § 520 ZPO innerhalb von zwei Monaten
+ mandant: Mueller GmbH
+ vorgang: Kundenklage
+ fristart: berufungsfrist
+ rechtsgrundlage: "§ 517 ZPO"
+ fristbeginn: 2026-03-15
+ hauptfrist: 2026-04-15
+ vorfrist-tage: 7
+ vorfrist: 2026-04-06
+ zustaendig: RA Mueller
+ status: offen
+ bemerkung: Berufungsbegründung gemäß § 520 ZPO innerhalb von zwei Monaten
 ```
 
 ## Fristarten und Standardfristen

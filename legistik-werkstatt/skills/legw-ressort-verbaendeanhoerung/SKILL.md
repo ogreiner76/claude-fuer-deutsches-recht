@@ -1,13 +1,13 @@
 ---
 name: legw-ressort-verbaendeanhoerung
-description: "Nutze dies, wenn Legw Ressort Bmf, Verbaendeanhoerung Ressortabstimmung, Begründung Allgemein Und Besonders, Europarechtskonformitaet im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Ressort Bmf, Verbaendeanhoerung Ressortabstimmung, Begründung Allgemein Und Besonders, Europarechtskonformitaet prüfen.; Erstelle eine Arbeitsfassung zu Legw Ressort Bmf, Verbaendeanhoerung Ressortabstimmung, Begründung Allgemein Und Besonders, Europarechtskonformitaet.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Ressort Bmf, Verbaendeanhoerung Ressortabstimmung, Begruendung Allgemein Und Besonders, Europarechtskonformitaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Ressort Bmf, Verbaendeanhoerung Ressortabstimmung, Begründung Allgemein Und Besonders, Europarechtskonformitaet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -71,13 +71,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -93,13 +93,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -134,16 +134,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMF - Bundesministerium der Finanzen
-Hausleitung:        Lars Klingbeil (SPD)
-Materie:            Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche.
-Kernnormen:         AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmf
+Ressort: BMF - Bundesministerium der Finanzen
+Hausleitung: Lars Klingbeil (SPD)
+Materie: Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche.
+Kernnormen: AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmf
 ```
 
 ## Abgrenzung

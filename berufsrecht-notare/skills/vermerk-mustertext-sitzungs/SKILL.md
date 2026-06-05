@@ -1,13 +1,13 @@
 ---
 name: vermerk-mustertext-sitzungs
-description: "Nutze dies, wenn Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld prüfen.; Erstelle eine Arbeitsfassung zu Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

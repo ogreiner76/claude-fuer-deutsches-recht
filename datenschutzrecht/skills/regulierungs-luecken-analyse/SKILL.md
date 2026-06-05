@@ -18,47 +18,47 @@ Systematische Lückenanalyse zwischen dem aktuellen Datenschutz-Status der Organ
 ## Ablauf
 
 1. **Anforderungsanalyse.**
-   - Dokument oder URL lesen: Was sind die normativen Kernaussagen?
-   - Handelt es sich um verbindliche Anforderungen (VO, Beschluss Art. 65 DSGVO) oder Leitlinien mit Empfehlungscharakter (die dennoch Behördenpraxis widerspiegeln)?
-   - Sachlicher Anwendungsbereich: Gilt die Anforderung für diese Organisation? (Branche, Verarbeitungsart, Größe, Drittlandbezug)
-   - Zeitlicher Geltungsbeginn und ggf. Übergangsfristen?
+ - Dokument oder URL lesen: Was sind die normativen Kernaussagen?
+ - Handelt es sich um verbindliche Anforderungen (VO, Beschluss Art. 65 DSGVO) oder Leitlinien mit Empfehlungscharakter (die dennoch Behördenpraxis widerspiegeln)?
+ - Sachlicher Anwendungsbereich: Gilt die Anforderung für diese Organisation? (Branche, Verarbeitungsart, Größe, Drittlandbezug)
+ - Zeitlicher Geltungsbeginn und ggf. Übergangsfristen?
 
 2. **Anforderungs-Inventur.**
-   Aus dem Dokument alle konkreten Anforderungen extrahieren und strukturieren:
+ Aus dem Dokument alle konkreten Anforderungen extrahieren und strukturieren:
 
-   | Nr. | Anforderung | Norm / Quelle | Verbindlich? | Frist |
-   |---|---|---|---|---|
-   | 1 | [Konkrete Pflicht] | [Art. X DSGVO / EDSA-Leitlinie Y] | Ja/Empfehlung | [Datum] |
-   | … | … | … | … | … |
+ | Nr. | Anforderung | Norm / Quelle | Verbindlich? | Frist |
+ |---|---|---|---|---|
+ | 1 | [Konkrete Pflicht] | [Art. X DSGVO / EDSA-Leitlinie Y] | Ja/Empfehlung | [Datum] |
+ | … | … | … | … | … |
 
 3. **Ist-Zustand-Abgleich.**
-   Für jede Anforderung: Erfüllt die aktuelle Praxis die Anforderung?
-   - Vollständig erfüllt ✅
-   - Teilweise erfüllt ⚠️ (Lücke beschreiben)
-   - Nicht erfüllt 🔴 (Lücke beschreiben)
-   - Nicht anwendbar auf diese Organisation ⬜
+ Für jede Anforderung: Erfüllt die aktuelle Praxis die Anforderung?
+ - Vollständig erfüllt ✅
+ - Teilweise erfüllt ⚠️ (Lücke beschreiben)
+ - Nicht erfüllt 🔴 (Lücke beschreiben)
+ - Nicht anwendbar auf diese Organisation ⬜
 
 4. **Gap-Bewertung.**
-   Für jede Lücke (⚠️ oder 🔴):
-   - Rechtliches Risiko (Bußgeld Art. 83 DSGVO, Unterlassung, Schadensersatz Art. 82 DSGVO)
-   - Reputationsrisiko
-   - Umsetzungsaufwand (hoch / mittel / gering)
-   - Priorität (kombiniert aus Risiko und Aufwand)
+ Für jede Lücke (⚠️ oder 🔴):
+ - Rechtliches Risiko (Bußgeld Art. 83 DSGVO, Unterlassung, Schadensersatz Art. 82 DSGVO)
+ - Reputationsrisiko
+ - Umsetzungsaufwand (hoch / mittel / gering)
+ - Priorität (kombiniert aus Risiko und Aufwand)
 
 5. **Maßnahmenplan.**
-   Priorisierte Liste konkreter Umsetzungsschritte:
+ Priorisierte Liste konkreter Umsetzungsschritte:
 
-   | Priorität | Lücke | Maßnahme | Verantwortlich | Frist | Status |
-   |---|---|---|---|---|---|
-   | 🔴 Kritisch | [Beschreibung] | [Konkrete Maßnahme] | [Abteilung] | [Datum] | Offen |
-   | 🟠 Hoch | … | … | … | … | … |
-   | 🟡 Mittel | … | … | … | … | … |
+ | Priorität | Lücke | Maßnahme | Verantwortlich | Frist | Status |
+ |---|---|---|---|---|---|
+ | 🔴 Kritisch | [Beschreibung] | [Konkrete Maßnahme] | [Abteilung] | [Datum] | Offen |
+ | 🟠 Hoch | … | … | … | … | … |
+ | 🟡 Mittel | … | … | … | … | … |
 
 6. **EDSA-/DSK-Positionierung.**
-   Bei widersprüchlichen Leitlinien zwischen EDSA und DSK (z.B. Cookie-Einwilligung): DSK-Position für Deutschland maßgeblich; EDSA-Position als EU-weiter Standard vermerken; Abweichungen kennzeichnen.
+ Bei widersprüchlichen Leitlinien zwischen EDSA und DSK (z.B. Cookie-Einwilligung): DSK-Position für Deutschland maßgeblich; EDSA-Position als EU-weiter Standard vermerken; Abweichungen kennzeichnen.
 
 7. **Muster-Dokumente oder Klauseln.**
-   Für häufig nachgefragte Anpassungen: Textbausteine oder Klauselentwürfe anbieten (AVV-Anlagen, DSFA-Trigger-Kriterien, Datenschutzerklärungsabschnitte).
+ Für häufig nachgefragte Anpassungen: Textbausteine oder Klauselentwürfe anbieten (AVV-Anlagen, DSFA-Trigger-Kriterien, Datenschutzerklärungsabschnitte).
 
 ## Quellen und Zitierweise
 
@@ -146,11 +146,11 @@ Scope: [BESCHREIBUNG]
 Anlass: [NEUES GESETZ / AUDIT / REGELMAESSIG]
 
 Gap-Tabelle:
-| Nr. | Anforderung (Norm)    | Ist-Stand        | Luecke            | Prioritaet | Frist |
+| Nr. | Anforderung (Norm) | Ist-Stand | Luecke | Prioritaet | Frist |
 |-----|----------------------|------------------|-------------------|------------|-------|
-|  1  | Art. 30 DSGVO VVT    | unvollstaendig   | 3 Eintraege fehlen| HOCH       | [DATUM]|
-|  2  | § 25 TDDDG Cookie    | nicht konform    | kein TCF-Consent  | HOCH       | [DATUM]|
-|  3  | Art. 37 DSGVO DSB    | kein DSB bestellt| Bestellungspflicht| MITTEL     | [DATUM]|
+| 1 | Art. 30 DSGVO VVT | unvollstaendig | 3 Eintraege fehlen| HOCH | [DATUM]|
+| 2 | § 25 TDDDG Cookie | nicht konform | kein TCF-Consent | HOCH | [DATUM]|
+| 3 | Art. 37 DSGVO DSB | kein DSB bestellt| Bestellungspflicht| MITTEL | [DATUM]|
 
 Zusammenfassung:
 Kritische Lücken (ROT): [X]

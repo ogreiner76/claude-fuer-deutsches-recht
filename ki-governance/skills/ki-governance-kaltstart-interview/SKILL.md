@@ -31,37 +31,37 @@ Erstgespräch klärt die Rolle systembezogen (nicht unternehmensweit).
 **Kernvorschriften**
 
 - **Verordnung (EU) 2024/1689 (AI Act)**: In Kraft 01.08.2024; gestaffelte
-  Anwendbarkeit. Art. 3: Anbieter, Betreiber, Importeur, Händler, bevoll-
-  mächtigter Vertreter. Art. 5: verbotene Praktiken (ab 02.02.2025). Art. 6
-  i.V.m. Anhang III: Hochrisiko-KI. Art. 9–15: Anbieterpflichten. Art. 25–29:
-  Betreiberpflichten.
+ Anwendbarkeit. Art. 3: Anbieter, Betreiber, Importeur, Händler, bevoll-
+ mächtigter Vertreter. Art. 5: verbotene Praktiken (ab 02.02.2025). Art. 6
+ i.V.m. Anhang III: Hochrisiko-KI. Art. 9–15: Anbieterpflichten. Art. 25–29:
+ Betreiberpflichten.
 - **DSGVO Art. 22**: Automatisierte Einzelentscheidungen; Widerspruchsrecht
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **GeschGehG §§ 2, 4**: Schutz von Geschäftsgeheimnissen bei Trainingsdaten.
 - **UrhG § 44b**: Text-und-Data-Mining-Schranke bei KI-Training.
 - **BSI-Gesetz (BSIG)**: KI-Systeme in kritischer Infrastruktur.
 - **§ 87 Abs. 1 Nr. 6 BetrVG**: Mitbestimmung des Betriebsrats bei KI-Tools
-  zur Mitarbeiterüberwachung/-bewertung.
+ zur Mitarbeiterüberwachung/-bewertung.
 
 **Leitentscheidungen**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn
-  KI-Note maßgebliche Grundlage für Drittentscheidung ist.
+ Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn
+ KI-Note maßgebliche Grundlage für Drittentscheidung ist.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  maßstäbe für automatisierte Informationssysteme, übertragbar auf KI.
+ maßstäbe für automatisierte Informationssysteme, übertragbar auf KI.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
-  Systemen.
+ Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
+ Systemen.
 
 **Kommentare**
 
 - Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 3 Rn. 12 ff.
-  (Anbieter/Betreiber-Begriff).
+ (Anbieter/Betreiber-Begriff).
 - Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 5 ff.
 - Hoffmann-Riem (Hrsg.), Big Data, KI und das Recht, 2021, S. 45 ff.
 - Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
-  Teil IV Rn. 88 ff.
+ Teil IV Rn. 88 ff.
 
 *Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im Einzelfall.*
 
@@ -70,9 +70,9 @@ Erstgespräch klärt die Rolle systembezogen (nicht unternehmensweit).
 **Schritt 0 — Vorabprüfung**
 
 1. `CLAUDE.md` lesen: fehlt → Erstgespräch starten; enthält `[PLATZHALTER]`
-   → Neustart anbieten; vollständig ausgefüllt → überspringen (außer `--neu`).
+ → Neustart anbieten; vollständig ausgefüllt → überspringen (außer `--neu`).
 2. Geteiltes Unternehmensprofil (`unternehmens-profil.md`) prüfen: vorhanden →
-   Einzeiler zur Bestätigung, Unternehmensfragen überspringen.
+ Einzeiler zur Bestätigung, Unternehmensfragen überspringen.
 3. Installations-Scope: bei Projekt-Scope einmaligen Hinweis ausgeben.
 
 **Schritt 1 — Eröffnung und Kurzwahl**
@@ -144,7 +144,7 @@ möglich; keine Anbieter-KI-Klauseln = Anbieter kann auf Daten trainieren).
 
 Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
 - Als Anbieter einer KI-gestützten Dokumentenklassifizierungslösung → Anbieter
-  nach Art. 3 Nr. 3 KI-VO; ggf. Hochrisiko nach Anhang III.
+ nach Art. 3 Nr. 3 KI-VO; ggf. Hochrisiko nach Anhang III.
 - Intern KI-Schreibassistenten → Betreiberrolle Art. 3 Nr. 4 KI-VO.
 - DSGVO Art. 22 relevant weil Dokumentenklassifizierung für Kunden automatisch.
 - Praxisprofil mit Anbieterpflichten (Art. 9–15 KI-VO) als Schwerpunkt.
@@ -152,10 +152,10 @@ Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
 ## Risiken und typische Fehler
 
 - Builder/Betreiber-Frage nicht überspringen; bei "beides" die Seite mit
-  größerer Governance-Last zuerst bearbeiten.
+ größerer Governance-Last zuerst bearbeiten.
 - Kein Regime annehmen; tatsächlichen Anwendungsbereich recherchieren.
 - Anwendungsfall-Register nie aus generischen Positionen befüllen; bei
-  Interview-Angaben: `[POSITIONEN AUS INTERVIEW — als Ausgangspunkt]`.
+ Interview-Angaben: `[POSITIONEN AUS INTERVIEW — als Ausgangspunkt]`.
 - Schatten-KI ernst nehmen: ein Register ohne informell genutzte Tools lügt.
 - KI-Governance- und Datenschutz-Interview nicht vermischen.
 
@@ -167,7 +167,7 @@ Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 3 Rn. 12 ff.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 5 ff.**
 - Ausgaben auf Basis von Gesprächsangaben: `[ANGABEN AUS INTERVIEW —
-  anwaltliche Prüfung empfohlen]` kennzeichnen.
+ anwaltliche Prüfung empfohlen]` kennzeichnen.
 
 ## Aktuelle Rechtsprechung (v14.2)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -193,30 +193,30 @@ PRAXISPROFIL KI-GOVERNANCE — ERSTERFASSUNG
 [DATUM] — [UNTERNEHMEN / NAME MANDANT]
 
 1. UNTERNEHMENS-PROFIL
-   Branche: [BRANCHE]
-   Jurisdiktionen: [LAENDER]
-   KI-Rolle nach Art. 3 KI-VO: [ANBIETER / BETREIBER / IMPORTEUR / HAENDLER]
+ Branche: [BRANCHE]
+ Jurisdiktionen: [LAENDER]
+ KI-Rolle nach Art. 3 KI-VO: [ANBIETER / BETREIBER / IMPORTEUR / HAENDLER]
 
 2. KI-INVENTAR (Einstieg)
-   | System | Zweck | Rolle | Risikoklasse | Status |
-   |---|---|---|---|---|
-   | [SYSTEM 1] | [ZWECK] | [ROLLE] | [KLASSE] | [STATUS] |
+ | System | Zweck | Rolle | Risikoklasse | Status |
+ |---|---|---|---|---|
+ | [SYSTEM 1] | [ZWECK] | [ROLLE] | [KLASSE] | [STATUS] |
 
 3. REGULATORISCHER FUSSABDRUCK
-   - KI-VO: [Anwendbar — Hochrisiko: Ja/Nein / Nicht anwendbar]
-   - DSGVO Art. 22: [Anwendbar / Nicht anwendbar]
-   - DSA: [Anwendbar / Nicht anwendbar]
-   - Sektorale Regeln: [BSIG / SGB V / ...]
+ - KI-VO: [Anwendbar — Hochrisiko: Ja/Nein / Nicht anwendbar]
+ - DSGVO Art. 22: [Anwendbar / Nicht anwendbar]
+ - DSA: [Anwendbar / Nicht anwendbar]
+ - Sektorale Regeln: [BSIG / SGB V / ...]
 
 4. GOVERNANCE-TEAM
-   KI-Beauftragter: [NAME]
-   DSB: [NAME]
-   Eskalation: [NAME / ROLLE]
+ KI-Beauftragter: [NAME]
+ DSB: [NAME]
+ Eskalation: [NAME / ROLLE]
 
 5. RISIKOEINSTELLUNG: [KONSERVATIV / MITTIG / PROGRESSIV]
 
 6. NAECHSTE SCHRITTE
-   1. [MASSNAHME bis DATUM]
+ 1. [MASSNAHME bis DATUM]
 
 Erstellt: [NAME], [DATUM]
 Naechste Pruefung: [DATUM]

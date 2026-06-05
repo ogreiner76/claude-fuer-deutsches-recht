@@ -18,7 +18,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** wiederholte Nachstellung, digitale Kontakte, Schutzanordnung und Beweisprotokoll
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

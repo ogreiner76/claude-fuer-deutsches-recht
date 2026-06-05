@@ -1,13 +1,13 @@
 ---
 name: legw-aa-konsular-bmas-arbeitsrecht
-description: "Nutze dies, wenn Legw Aa Konsular Und Passrecht, Legw Bmas Arbeitsrecht Und Arbeitsschutz, Legw Bmas Arbeitsschutz Und Arbeitssicherheit, Legw Bmas Sozialversicherungsrecht Sgb im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Aa Konsular Und Passrecht, Legw Bmas Arbeitsrecht Und Arbeitsschutz, Legw Bmas Arbeitsschutz Und Arbeitssicherheit, Legw Bmas Sozialversicherungsrecht Sgb prüfen.; Erstelle eine Arbeitsfassung zu Legw Aa Konsular Und Passrecht, Legw Bmas Arbeitsrecht Und Arbeitsschutz, Legw Bmas Arbeitsschutz Und Arbeitssicherheit, Legw Bmas Sozialversicherungsrecht Sgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Aa Konsular Und Passrecht, Legw Bmas Arbeitsrecht Und Arbeitsschutz, Legw Bmas Arbeitsschutz Und Arbeitssicherheit, Legw Bmas Sozialversicherungsrecht Sgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Aa Konsular Und Passrecht, Legw Bmas Arbeitsrecht Und Arbeitsschutz, Legw Bmas Arbeitsschutz Und Arbeitssicherheit, Legw Bmas Sozialversicherungsrecht Sgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -84,16 +84,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Konsularrecht und Passrecht
-Ressort:            AA
-Kernnormen:         KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).
-Akteure/Aufsicht:   Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).
-EU/Voelkerrecht:    Visa-Kodex; Schengen; ETIAS.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Konsularrecht und Passrecht
+Ressort: AA
+Kernnormen: KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).
+Akteure/Aufsicht: Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).
+EU/Voelkerrecht: Visa-Kodex; Schengen; ETIAS.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-aa; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -167,16 +167,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Arbeitsrecht und Arbeitsschutz
-Ressort:            BMAS
-Kernnormen:         BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.
-Akteure/Aufsicht:   BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Laender.
-EU/Voelkerrecht:    Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-RL; ArbeitnehmerInfo-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Arbeitsrecht und Arbeitsschutz
+Ressort: BMAS
+Kernnormen: BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.
+Akteure/Aufsicht: BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Laender.
+EU/Voelkerrecht: Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-RL; ArbeitnehmerInfo-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -250,16 +250,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Arbeitsschutz und Arbeitssicherheit
-Ressort:            BMAS
-Kernnormen:         ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.
-Akteure/Aufsicht:   BAuA; UVT (Berufsgenossenschaften); Laender-Arbeitsschutzbehoerden; KomNet.
-EU/Voelkerrecht:    Arbeitsschutz-Rahmenrichtlinie 89/391/EWG; Tochterrichtlinien.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Arbeitsschutz und Arbeitssicherheit
+Ressort: BMAS
+Kernnormen: ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.
+Akteure/Aufsicht: BAuA; UVT (Berufsgenossenschaften); Laender-Arbeitsschutzbehoerden; KomNet.
+EU/Voelkerrecht: Arbeitsschutz-Rahmenrichtlinie 89/391/EWG; Tochterrichtlinien.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -333,16 +333,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Sozialversicherungsrecht (SGB)
-Ressort:            BMAS
-Kernnormen:         SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).
-Akteure/Aufsicht:   DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt fuer Soziale Sicherung); SGericht.
-EU/Voelkerrecht:    VO 883/2004 (Koordinierung); EFTA; bilaterale Abkommen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Sozialversicherungsrecht (SGB)
+Ressort: BMAS
+Kernnormen: SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).
+Akteure/Aufsicht: DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt fuer Soziale Sicherung); SGericht.
+EU/Voelkerrecht: VO 883/2004 (Koordinierung); EFTA; bilaterale Abkommen.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: prompt-versionierung-paket-review
-description: "Nutze dies, wenn Prompt Versionierung, Prüfer Übergabe Paket, Review Durchfuehren im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Prompt Versionierung, Prüfer Übergabe Paket, Review Durchfuehren prüfen.; Erstelle eine Arbeitsfassung zu Prompt Versionierung, Prüfer Übergabe Paket, Review Durchfuehren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prompt Versionierung, Prüfer Uebergabe Paket, Review Durchfuehren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Prompt Versionierung, Prüfer Übergabe Paket, Review Durchfuehren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prompt Versionierung, Prüfer Übergabe Paket, Review Durchfuehren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -82,17 +82,17 @@ Semantische Versions-ID pro Prompt: `<spalte-id>@<major>.<minor>.<patch>`
 
 ```yaml
 - spalte-id: change-of-control
-  version: "2.1.0"
-  wortlaut: |
-    Enthält der Vertrag eine Klausel die bei Kontrollwechsel ...
-  antworttyp: zitat-mit-fundstelle-und-schwelle
-  ampel-regel:
-    rot: "Klausel vorhanden + harte Kündigungsfolge ohne Heilung"
-    gelb: "Zustimmungsvorbehalt mit unklarer Schwelle"
-    gruen: "Keine Klausel oder branchenübliche Schwelle"
-  geaendert-am: "2026-05-20"
-  geaendert-von: "anwalt-x"
-  migrationspfad: "Patch-Änderung — bestehende Zellen behalten gültig."
+ version: "2.1.0"
+ wortlaut: |
+ Enthält der Vertrag eine Klausel die bei Kontrollwechsel ...
+ antworttyp: zitat-mit-fundstelle-und-schwelle
+ ampel-regel:
+ rot: "Klausel vorhanden + harte Kündigungsfolge ohne Heilung"
+ gelb: "Zustimmungsvorbehalt mit unklarer Schwelle"
+ gruen: "Keine Klausel oder branchenübliche Schwelle"
+ geaendert-am: "2026-05-20"
+ geaendert-von: "anwalt-x"
+ migrationspfad: "Patch-Änderung — bestehende Zellen behalten gültig."
 ```
 
 ## Integration mit Audit-Trail
@@ -228,10 +228,10 @@ Das ist der Hauptlauf. Wenn der Würfel 25 Spalten 200 Zeilen und 5 Arbeitsblät
 4. **Belegkette schreiben:** wörtliches Zitat in Anführungszeichen, danach Fundstelle (Datei-ID + Seite + Absatz + ggf. Ziffer).
 5. **Ampel setzen:** anhand `ampel-regel` aus dem Spaltenprompt (rot / gelb / grün).
 6. **Prüfer-Flag setzen wenn:**
-   - OCR-Konfidenz unter 90 Prozent
-   - Antworttyp `zitat-mit-fundstelle` aber kein Zitat extrahierbar
-   - Konflikt zwischen Spalten- und Zeilenprompt
-   - Mehrdeutigkeit (mehrere plausible Antworten im Dokument)
+ - OCR-Konfidenz unter 90 Prozent
+ - Antworttyp `zitat-mit-fundstelle` aber kein Zitat extrahierbar
+ - Konflikt zwischen Spalten- und Zeilenprompt
+ - Mehrdeutigkeit (mehrere plausible Antworten im Dokument)
 7. **Querweis aufbauen:** wenn Zellen-Ergebnis auf anderen Vertrag referenziert (`siehe Anlage 7 zu Vertrag X`) als Cross-Ref vermerken.
 8. **Cache prüfen:** bei Quasi-Duplikaten (Ähnlichkeit über 95 Prozent) zur Zelle eines bereits geprüften Dokuments Cache-Treffer vorschlagen — Prüfer entscheidet ob übernommen.
 

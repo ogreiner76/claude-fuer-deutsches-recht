@@ -1,20 +1,20 @@
 ---
 name: timesheet-aktenzeitung-umgang-ki
-description: "Nutze dies, wenn Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten prüfen.; Erstelle eine Arbeitsfassung zu Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `timesheet-aktenzeitung` | Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative. |
-| `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten` | Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, Workflow für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise. |
+| `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten` | Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise. |
 
 ## Arbeitsweg
 
@@ -61,15 +61,15 @@ Die Aktenzeitung ist die Tagebuchführung pro Mandat. Sie ist Grundlage jeder Ho
 
 ```yaml
 - datum: 2026-05-20
-  anwalt: RA Mueller
-  mandat-az: 2026/0042
-  mandant: Mueller GmbH
-  taetigkeit: Klageschrift Endredaktion und Versand über beA
-  dauer-minuten: 72
-  abrechenbarkeit: abrechenbar
-  honorarsatz-eur: 320
-  notiz: Versand-Vor-Check erfolgreich; Eingang vom AG bestätigt
-  erfasst-am: 2026-05-20T17:42:00
+ anwalt: RA Mueller
+ mandat-az: 2026/0042
+ mandant: Mueller GmbH
+ taetigkeit: Klageschrift Endredaktion und Versand über beA
+ dauer-minuten: 72
+ abrechenbarkeit: abrechenbar
+ honorarsatz-eur: 320
+ notiz: Versand-Vor-Check erfolgreich; Eingang vom AG bestätigt
+ erfasst-am: 2026-05-20T17:42:00
 ```
 
 ## Tätigkeitsarten
@@ -131,7 +131,7 @@ Bei Mandatsende oder Zwischenrechnung:
 
 ## 2. `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten`
 
-**Fokus:** Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, Workflow für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise.
+**Fokus:** Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise.
 
 # Umgang mit dem KI-Vorwurf bei Sachverständigengutachten
 
@@ -238,7 +238,7 @@ Dies ist der oft übersehene Punkt: Der Vorwurf "KI eingesetzt = Gutachten schle
 
 ### Wenn Ihr Mandant der Sachverständige ist (KI-Vorwurf gegen ihn)
 
-1. **Eigene Erstellungsweise dokumentieren** — Workflow nachvollziehbar darstellen
+1. **Eigene Erstellungsweise dokumentieren** — nachvollziehbar darstellen
 2. **Verantwortliche Erstellung darlegen** — Welche Schritte hat der Sachverständige persönlich gemacht?
 3. **Hilfsmittel benennen** — soweit zulässig, transparent erklären, welche Recherchewerkzeuge eingesetzt wurden
 4. **Mitarbeiter offenlegen** (§ 407a Abs. 3 ZPO) — falls Hilfskräfte beteiligt waren
@@ -256,12 +256,12 @@ Abs. 3 ZPO zur mündlichen Erläuterung seines Gutachtens vom
 folgende Punkte erläutern:
 
 1. Welche Untersuchungs- und Erhebungsschritte hat er persönlich
-   durchgeführt?
+ durchgeführt?
 2. Welche Hilfsmittel — einschließlich technischer Werkzeuge —
-   hat er bei der Erstellung des Gutachtens eingesetzt?
+ hat er bei der Erstellung des Gutachtens eingesetzt?
 3. Wer war an der Erstellung beteiligt (§ 407a Abs. 3 ZPO)?
 4. Wie ist die Gleichförmigkeit bestimmter Formulierungen
-   (beispielhaft S. [X], Z. [Y]; S. [A], Z. [B]) zu erklären?
+ (beispielhaft S. [X], Z. [Y]; S. [A], Z. [B]) zu erklären?
 
 Die persönliche Anhörung ist erforderlich, weil das schriftliche
 Gutachten an mehreren Stellen Auffälligkeiten enthält, die Zweifel
@@ -293,7 +293,7 @@ null Euro festzusetzen.
 
 Das Gutachten ist objektiv unverwertbar, weil:
 - [konkrete methodische Mängel benennen, unabhängig von
-  etwaigem KI-Einsatz]
+ etwaigem KI-Einsatz]
 - [fehlende Tatsachenfeststellung]
 - [Nichtbeantwortung der Beweisfrage]
 

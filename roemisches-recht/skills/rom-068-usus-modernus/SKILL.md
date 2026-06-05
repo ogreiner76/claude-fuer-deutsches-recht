@@ -1,6 +1,6 @@
 ---
 name: rom-068-usus-modernus
-description: "Römisches Recht: Usus Modernus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Usus Modernus. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Usus Modernus

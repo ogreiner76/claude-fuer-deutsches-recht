@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-livecheck-arbeitsrecht
-description: "Berliner Start-up-HR: Livecheck für Arbeitsrecht, Datenschutz und Sozialversicherung: Normen, Rechtsprechung, keine Blindzitate, Updatebedarf. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt."
+description: "Berliner Start-up-HR: Livecheck für Arbeitsrecht, Datenschutz und Sozialversicherung: Normen, Rechtsprechung, keine Blindzitate, Updatebedarf. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt."
 ---
 
 # Rechtsquellen Livecheck Arbeitsrecht Datenschutz
@@ -19,7 +19,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Governance
 **Fokus:** Livecheck für Arbeitsrecht, Datenschutz und Sozialversicherung: Normen, Rechtsprechung, keine Blindzitate, Updatebedarf.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

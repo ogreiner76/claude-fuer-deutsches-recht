@@ -1,6 +1,6 @@
 ---
 name: rom-005-ehe-mitgift-und-familienvermoegen
-description: "Römisches Recht: Ehe Mitgift Und Familienvermoegen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Ehe Mitgift Und Familienvermoegen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Ehe Mitgift Und Familienvermoegen

@@ -1,13 +1,13 @@
 ---
 name: liqp-liquiditaetspool-cash-rollende-13wochen
-description: "Nutze dies, wenn Liqp Liquiditaetspool Cash Pooling Spezial, Liqp Rollende 13Wochen Bauleiter, Liqp Warenkredit Skonto Szenarien Spezial im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Liqp Liquiditaetspool Cash Pooling Spezial, Liqp Rollende 13wochen Bauleiter, Liqp Warenkredit Skonto Szenarien Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Liqp Liquiditaetspool Cash Pooling Spezial, Liqp Rollende 13Wochen Bauleiter, Liqp Warenkredit Skonto Szenarien Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Liqp Liquiditaetspool Cash Pooling Spezial, Liqp Rollende 13Wochen Bauleiter, Liqp Warenkredit Skonto Szenarien Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -31,7 +31,7 @@ Für **Liqp Liquiditaetspool Cash Pooling Spezial, Liqp Rollende 13Wochen Baulei
 # LiqP: Cash-Pooling Spezial
 
 ## Fachkern: LiqP: Cash-Pooling Spezial
-- **Spezialgegenstand:** LiqP: Cash-Pooling Spezial wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Spezialgegenstand:** LiqP: Cash-Pooling wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
 - **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.

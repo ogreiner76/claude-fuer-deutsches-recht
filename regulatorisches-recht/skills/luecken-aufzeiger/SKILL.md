@@ -59,15 +59,15 @@ Für jede identifizierte Lücke:
 
 ```yaml
 gap:
-  id: "[GAP-2025-001]"
-  verlautbarung: "[BaFin RS 09/2017 Novelle 2023, AT 4.3.2]"
-  anforderung: "[Beschreibung der neuen Anforderung]"
-  bestandsregel: "[Aktuelle interne Regelung oder 'keine']"
-  luecke: "[Was fehlt oder abweicht]"
-  schweregrad: "[🔴 Blockierend / 🟠 Hoch / 🟡 Mittel / 🟢 Gering]"
-  frist: "[TT.MM.JJJJ oder 'keine Frist']"
-  eigentuemer: "[PLATZHALTER]"
-  status: "offen"
+ id: "[GAP-2025-001]"
+ verlautbarung: "[BaFin RS 09/2017 Novelle 2023, AT 4.3.2]"
+ anforderung: "[Beschreibung der neuen Anforderung]"
+ bestandsregel: "[Aktuelle interne Regelung oder 'keine']"
+ luecke: "[Was fehlt oder abweicht]"
+ schweregrad: "[🔴 Blockierend / 🟠 Hoch / 🟡 Mittel / 🟢 Gering]"
+ frist: "[TT.MM.JJJJ oder 'keine Frist']"
+ eigentuemer: "[PLATZHALTER]"
+ status: "offen"
 ```
 
 Schweregradkriteria:

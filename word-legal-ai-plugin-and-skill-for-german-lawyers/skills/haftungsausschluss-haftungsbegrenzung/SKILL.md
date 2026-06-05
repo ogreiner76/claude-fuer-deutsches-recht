@@ -1,13 +1,13 @@
 ---
 name: haftungsausschluss-haftungsbegrenzung
-description: "Nutze dies, wenn Haftungsausschluss Und Haftungsbegrenzung, Klageerwiderung Substantiiertes Bestreiten im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Haftungsausschluss Und Haftungsbegrenzung, Klageerwiderung Substantiiertes Bestreiten prüfen.; Erstelle eine Arbeitsfassung zu Haftungsausschluss Und Haftungsbegrenzung, Klageerwiderung Substantiiertes Bestreiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Haftungsausschluss Und Haftungsbegrenzung, Klageerwiderung Substantiiertes Bestreiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Haftungsausschluss Und Haftungsbegrenzung, Klageerwiderung Substantiiertes Bestreiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Haftungsausschluss Und Haftungsbegrenzung, Klageerwiderung Substantiiertes Bestreiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -88,24 +88,24 @@ Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), di
 § 7 Haftung
 
 (1) Der Lieferant haftet unbeschraenkt:
-   a) bei Vorsatz und grober Fahrlaessigkeit der Geschaeftsleitung oder
-      leitender Angestellter;
-   b) bei Verletzung von Leben Koerper Gesundheit, auch durch
-      Erfuellungsgehilfen;
-   c) bei Arglist (§ 444 BGB);
-   d) nach Produkthaftungsgesetz (§ 11 ProdHaftG).
+ a) bei Vorsatz und grober Fahrlaessigkeit der Geschaeftsleitung oder
+ leitender Angestellter;
+ b) bei Verletzung von Leben Koerper Gesundheit, auch durch
+ Erfuellungsgehilfen;
+ c) bei Arglist (§ 444 BGB);
+ d) nach Produkthaftungsgesetz (§ 11 ProdHaftG).
 
 (2) Bei leicht fahrlaessiger Verletzung wesentlicher Vertragspflichten
-    (Kardinalpflichten) ist die Haftung begrenzt auf den bei Vertrags-
-    schluss vorhersehbaren typischen Schaden, hoechstens jedoch auf
-    [Betrag in Euro] je Schadensfall.
+ (Kardinalpflichten) ist die Haftung begrenzt auf den bei Vertrags-
+ schluss vorhersehbaren typischen Schaden, hoechstens jedoch auf
+ [Betrag in Euro] je Schadensfall.
 
 (3) Im Uebrigen ist die Haftung des Lieferanten ausgeschlossen, insbesondere
-    fuer indirekte Schaeden, entgangenen Gewinn und Datenverlust.
+ fuer indirekte Schaeden, entgangenen Gewinn und Datenverlust.
 
 (4) Ansprueche verjaehren in zwei Jahren ab gesetzlichem Verjaehrungsbeginn,
-    Anspruechee aus Vorsatz und nach Produkthaftungsgesetz nach den
-    gesetzlichen Vorschriften.
+ Anspruechee aus Vorsatz und nach Produkthaftungsgesetz nach den
+ gesetzlichen Vorschriften.
 ```
 
 ### Mustertext B2C (AGB-Verbraucher)
@@ -114,13 +114,13 @@ Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), di
 § 7 Haftung
 
 (1) Wir haften unbeschraenkt:
-   a) bei Vorsatz und grober Fahrlaessigkeit;
-   b) bei Verletzung von Leben Koerper Gesundheit;
-   c) nach Produkthaftungsgesetz;
-   d) im Umfang einer uebernommenen Garantie.
+ a) bei Vorsatz und grober Fahrlaessigkeit;
+ b) bei Verletzung von Leben Koerper Gesundheit;
+ c) nach Produkthaftungsgesetz;
+ d) im Umfang einer uebernommenen Garantie.
 
 (2) Bei leicht fahrlaessiger Verletzung wesentlicher Vertragspflichten
-    haften wir auf den bei Vertragsschluss vorhersehbaren typischen Schaden.
+ haften wir auf den bei Vertragsschluss vorhersehbaren typischen Schaden.
 
 (3) Eine weitergehende Haftung ist ausgeschlossen.
 ```
@@ -259,10 +259,10 @@ Dieser Skill führt Sie durch den Aufbau, hilft bei der Bestreitens-Architektur 
 ### Mustertext Klageerwiderung (Auszug)
 
 ```
-Landgericht Berlin                       Berlin, den 5. Juni 2026
+Landgericht Berlin Berlin, den 5. Juni 2026
 Az.: 12 O 345/26
 
-                       Klageerwiderung
+ Klageerwiderung
 
 In dem Rechtsstreit Anna Muster gegen Beklagt GmbH
 
@@ -274,7 +274,7 @@ Die Klage wird abgewiesen.
 Hilfsweise: Die Klägerin wird verurteilt, an die Beklagte 4.000 Euro zu
 zahlen Zug um Zug gegen Rücknahme der Maschinen Typ A-100.
 
-                          Begründung
+ Begründung
 
 I. Sachverhalt
 
@@ -302,8 +302,8 @@ BGB. Die Beklagte hat ihrerseits Rückzahlung des bezahlten Anteils zu
 fordern (Anlage B2).
 
 Anlagenverzeichnis:
-B1   Lieferschein vom 5. Februar 2026
-B2   Mängelanzeige vom 8. Februar 2026
+B1 Lieferschein vom 5. Februar 2026
+B2 Mängelanzeige vom 8. Februar 2026
 
 Marta Verteidiger
 Rechtsanwalt

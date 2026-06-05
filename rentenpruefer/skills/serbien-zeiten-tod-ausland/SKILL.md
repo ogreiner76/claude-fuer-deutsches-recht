@@ -1,13 +1,13 @@
 ---
 name: serbien-zeiten-tod-ausland
-description: "Nutze dies, wenn Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene prüfen.; Erstelle eine Arbeitsfassung zu Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Serbien Zeiten Und Nachweise, Tod Im Ausland Hinterbliebene** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

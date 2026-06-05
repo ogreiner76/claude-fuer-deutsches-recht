@@ -1,13 +1,13 @@
 ---
 name: ai-act-aktenherausgabe-zurueckbehaltung
-description: "Nutze dies, wenn Anwälte Ai Act Transparenz Kanzlei Chatbot, Anwälte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwälte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwälte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre, Anwälte Anwaltliche Nebentaetigkeit Organisationspflicht Und P im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Ai Act Transparenz Kanzlei Chatbot, Anwälte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwälte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwälte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre, Anwälte Anwaltliche Nebentaetigkeit Organisationspflicht Und P prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Ai Act Transparenz Kanzlei Chatbot, Anwälte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwälte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwälte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre, Anwälte Anwaltliche Nebent..."
+description: "Nutze dies bei Anwaelte Ai Act Transparenz Kanzlei Chatbot, Anwaelte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwaelte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwaelte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Ai Act Transparenz Kanzlei Chatbot, Anwälte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwälte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwälte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre, Anwälte Anwaltliche Nebentaetigkeit Organisationspflicht Und P
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Ai Act Transparenz Kanzlei Chatbot, Anwälte Aktenherausgabe Und Zurueckbehaltung Kammerantwort Und, Anwälte Aktenherausgabe Und Zurueckbehaltung Organisationspfli, Anwälte Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahre, Anwälte Anwaltliche Nebentaetigkeit Organisationspflicht Und P** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -82,7 +82,7 @@ Rechtzeitig markieren, wann die Verwaltung nicht weiter allein handeln sollte. F
 
 ## Quellenpflicht
 
-`rechtsstand-mai-2026-faktenbank` laden. §§ 43, 44, 45 WEG: https://www.gesetze-im-internet.de/woeigg/__43.html , https://www.gesetze-im-internet.de/woeigg/__44.html , https://www.gesetze-im-internet.de/woeigg/__45.html .
+`rechtsstand-mai-2026-faktenbank` laden. §§ 43, 44, 45 WEG: https://www.gesetze-im-internet.de/woeigg/__43.html, https://www.gesetze-im-internet.de/woeigg/__44.html, https://www.gesetze-im-internet.de/woeigg/__45.html .
 
 
 ## Qualitäts-Hardening

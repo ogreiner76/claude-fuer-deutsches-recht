@@ -1,6 +1,6 @@
 ---
 name: annaeherung-quellenkarte
-description: "Nutze dies, wenn Annaeherung Quellenkarte im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Annaeherung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Annaeherung Quellenkarte

@@ -42,9 +42,9 @@ Strukturierte Anwendung der neun Kriterien der EDPB-/EDSA-Leitlinien WP 248 rev.
 3. **Risikoanalyse Kriterien.** Jedes der neun Kriterien einzeln pruefen und mit ja oder nein beantworten, jeweils mit kurzer Begruendung. Wo Grenzfaelle bestehen, das Pro und Contra dokumentieren.
 4. **Massnahmen.** Pruefen ob bereits geplante Massnahmen ein Kriterium so entkraeften, dass es nicht mehr greift (z. B. echte Anonymisierung statt Pseudonymisierung kann das Kriterium besondere Kategorien entfallen lassen).
 5. **Restrisiko / Schwellwert.** Zaehlung der erfuellten Kriterien:
-   - 0 Kriterien — DSFA voraussichtlich entbehrlich
-   - 1 Kriterium — Grenzfall, schriftliche Begruendung der Entscheidung
-   - 2 oder mehr Kriterien — DSFA zwingend
+ - 0 Kriterien — DSFA voraussichtlich entbehrlich
+ - 1 Kriterium — Grenzfall, schriftliche Begruendung der Entscheidung
+ - 2 oder mehr Kriterien — DSFA zwingend
 6. **Konsultation / Genehmigung.** Ergebnis dem DSB vorlegen; Aufsichtsbehoerde wird nur konsultiert, wenn nach DSFA hohes Restrisiko verbleibt (Art. 36 DSGVO).
 
 ## Mustertext / Template
@@ -55,16 +55,16 @@ WP-248-PRUEFUNG ZUR DSFA-PFLICHT [DATUM]
 Verarbeitung: [BEZEICHNUNG]
 Verantwortlicher: [NAME]
 
-Kriterium                                       | Erfuellt | Begruendung
-1 Scoring / Profiling / Prognose                | ja/nein  | [...]
-2 Automatisierte Entscheidung Art. 22 DSGVO     | ja/nein  | [...]
-3 Systematische Ueberwachung                    | ja/nein  | [...]
-4 Sensible Daten Art. 9 / Art. 10 DSGVO         | ja/nein  | [...]
-5 Verarbeitung in grossem Umfang                | ja/nein  | [...]
-6 Abgleich / Zusammenfuehrung                   | ja/nein  | [...]
-7 Schutzbeduerftige Personen                    | ja/nein  | [...]
-8 Neue Technologien                             | ja/nein  | [...]
-9 Verhinderung Rechtsausuebung                  | ja/nein  | [...]
+Kriterium | Erfuellt | Begruendung
+1 Scoring / Profiling / Prognose | ja/nein | [...]
+2 Automatisierte Entscheidung Art. 22 DSGVO | ja/nein | [...]
+3 Systematische Ueberwachung | ja/nein | [...]
+4 Sensible Daten Art. 9 / Art. 10 DSGVO | ja/nein | [...]
+5 Verarbeitung in grossem Umfang | ja/nein | [...]
+6 Abgleich / Zusammenfuehrung | ja/nein | [...]
+7 Schutzbeduerftige Personen | ja/nein | [...]
+8 Neue Technologien | ja/nein | [...]
+9 Verhinderung Rechtsausuebung | ja/nein | [...]
 
 Summe erfuellter Kriterien: [X] von 9
 

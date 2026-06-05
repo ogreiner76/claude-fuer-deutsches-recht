@@ -1,13 +1,13 @@
 ---
 name: luft-drohne-pfandrecht-pfaendung-planen
-description: "Nutze dies, wenn Luft 073 Drohne Pfandrecht Vorbereiten, Luft 074 Drohne Pfaendung Planen, Luft 075 Drohne Genehmigung Prüfen, Luft 076 Drohne Sicherheitsauflage Bewerten, Luft 077 Drohne Insolvenzrisiko Markieren im Plugin Luftrecht Flughafenrecht konkret bearbeitet werden soll. Auslöser: Bitte Luft 073 Drohne Pfandrecht Vorbereiten, Luft 074 Drohne Pfaendung Planen, Luft 075 Drohne Genehmigung Prüfen, Luft 076 Drohne Sicherheitsauflage Bewerten, Luft 077 Drohne Insolvenzrisiko Markieren prüfen.; Erstelle eine Arbeitsfassung zu Luft 073 Drohne Pfandrecht Vorbereiten, Luft 074 Drohne Pfaendung Planen, Luft 075 Drohne Genehmigung Prüfen, Luft 076 Drohne Sicherheitsauflage Bewerten, Luft 077 Drohne Insolvenzrisiko Markieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Luft 073 Drohne Pfandrecht Vorbereiten, Luft 074 Drohne Pfaendung Planen, Luft 075 Drohne Genehmigung Prüfen, Luft 076 Drohne Sicherheitsauflage Bewerten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Luft 073 Drohne Pfandrecht Vorbereiten, Luft 074 Drohne Pfaendung Planen, Luft 075 Drohne Genehmigung Prüfen, Luft 076 Drohne Sicherheitsauflage Bewerten, Luft 077 Drohne Insolvenzrisiko Markieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Luft 073 Drohne Pfandrecht Vorbereiten, Luft 074 Drohne Pfaendung Planen, Luft 075 Drohne Genehmigung Prüfen, Luft 076 Drohne Sicherheitsauflage Bewerten, Luft 077 Drohne Insolvenzrisiko Markieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

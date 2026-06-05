@@ -1,12 +1,12 @@
 ---
 name: foerderantragssteller
-description: "Nutze dies, wenn Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Dfg Foerderantrag konkret bearbeitet werden soll. Auslöser: Bitte Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage prüfen.; Erstelle eine Arbeitsfassung zu Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial foerderantragssteller tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage / foerderantragssteller tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFG, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

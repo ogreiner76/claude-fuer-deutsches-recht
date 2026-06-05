@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-due-diligence-03
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Due Diligence Commercial Contracts, Grosskanzlei Corporate Ma Due Diligence Legal, Grosskanzlei Corporate Ma Due Diligence Reporting, Grosskanzlei Corporate Ma Employment Works Council 613A, Grosskanzlei Corporate Ma Environmental Esg Compliance Dd und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Corporate Ma Due Diligence Commercial Contracts, Grosskanzlei Corporate Ma Due Diligence Legal, Grosskanzlei Corporate Ma Due Diligence Reporting, Grosskanzlei Corporate Ma Employment Works Council 613A, Grosskanzlei Corporate Ma Environmental Esg Compliance Dd und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Corporate Ma Due Diligence Commercial Contracts, Grosskanzlei Corporate Ma Due Diligence Legal, Grosskanzlei Corporate Ma Due Diligence Reporting, Grosskanzlei Corporate Ma Employment Works Council 613A, Grosskanzlei Corporate Ma Environmental Esg Co..."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Due Diligence Commercial Contracts, Grosskanzlei Corporate Ma Due Diligence Legal, Grosskanzlei Corporate Ma Due Diligence Reporting, Grosskanzlei Corporate Ma Employment Works Council 613a: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Due Diligence Commercial Contracts, Grosskanzlei Corporate Ma Due Diligence Legal, Grosskanzlei Corporate Ma Due Diligence Reporting, Grosskanzlei Corporate Ma Employment Works Council 613A, Grosskanzlei Corporate Ma Environmental Esg Compliance Dd und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Corporate Ma Due Diligence Commercial Contracts, Grosskanzlei Corporate Ma Due Diligence Legal, Grosskanzlei Corporate Ma Due Diligence Reporting, Grosskanzlei Corporate Ma Employment Works Council 613A, Grosskanzlei Corporate Ma Environmental Esg Compliance Dd und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -366,12 +366,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. **DD-Scope festlegen:** Workstream-Matrix erstellen; Materiality-Schwellen mit Kaeufer abstimmen; Zeitplan und DD-Team staffeln
 2. **Datenraum-Indexierung:** Dokumente nach Kategorien sortieren; fehlende Dokumente in Information Request List (IRL) erfassen
 3. **Pruefung je Workstream:**
-   - Corporate: HR-Auszuege, Satzungen, Beschluesse, Gesellschafterliste, Vollmachten, Organstruktur
-   - Arbeitsrecht: Arbeitsvertraege, Betriebsvereinbarungen, Tarifbindung, Pensionsverpflichtungen
-   - Vertraege: Change-of-Control-Klauseln, Exklusivitaeten, Kuendigungsrechte, Haftungsobergrenzen
-   - IP/IT: Markenregister, Lizenzvertraege, Open Source, Datenschutz (DSGVO-Compliance)
-   - Litigation: laufende Verfahren, Schiedsverfahren, Regulierungsrisiken
-   - Immobilien: Grundbuch, Baulasten, Umweltlasten, Mietvertraege
+ - Corporate: HR-Auszuege, Satzungen, Beschluesse, Gesellschafterliste, Vollmachten, Organstruktur
+ - Arbeitsrecht: Arbeitsvertraege, Betriebsvereinbarungen, Tarifbindung, Pensionsverpflichtungen
+ - Vertraege: Change-of-Control-Klauseln, Exklusivitaeten, Kuendigungsrechte, Haftungsobergrenzen
+ - IP/IT: Markenregister, Lizenzvertraege, Open Source, Datenschutz (DSGVO-Compliance)
+ - Litigation: laufende Verfahren, Schiedsverfahren, Regulierungsrisiken
+ - Immobilien: Grundbuch, Baulasten, Umweltlasten, Mietvertraege
 4. **Findings strukturieren:** je Finding: Dokument, Seite/Clause, Risikobeschreibung, Materiality-Bewertung (Low/Medium/High/Deal-Breaker), Empfehlung (Garantie/Freistellung/Preisanpassung/Walk Away)
 5. **Red-Flag-Report erstellen:** Top-10-Findings mit Handlungsempfehlung; Human-in-the-loop fuer High/Deal-Breaker-Findings
 6. **IRL-Management:** offene Anfragen tracken; Antwortqualitaet bewerten; Eskalation an Selling-Side

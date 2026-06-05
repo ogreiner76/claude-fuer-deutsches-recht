@@ -1,13 +1,13 @@
 ---
 name: stb-lohn-abfindungen-ausgleichszahlungen
-description: "Nutze dies, wenn Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch, Stb Lohn Direktversicherung 3 Nr 63 Estg und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch, Stb Lohn Direktversicherung 3 Nr 63 Estg und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch, Stb Lohn Direktversicherung 3 Nr 63 Estg und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch, Stb Lohn Direktversicherung 3 Nr 63 Estg und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch, Stb Lohn Direktversicherung 3 Nr 63 Estg und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -508,11 +508,11 @@ Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, ents
 ### Phase 3 — Fahrtenbuch-Methode
 
 - Voraussetzungen Fahrtenbuch (BMF-Anforderungen):
-  - Zeitnah gefuehrt (taeglich).
-  - Lueckenlos.
-  - Datum, Zweck, Start- und Ziel-Kilometer, gefahrene Strecke.
-  - Trennung privat/dienstlich.
-  - Unveraenderbar (kein Excel-Sheet, sondern Buch oder zertifizierte Software).
+ - Zeitnah gefuehrt (taeglich).
+ - Lueckenlos.
+ - Datum, Zweck, Start- und Ziel-Kilometer, gefahrene Strecke.
+ - Trennung privat/dienstlich.
+ - Unveraenderbar (kein Excel-Sheet, sondern Buch oder zertifizierte Software).
 - Aufteilung: Privatfahrten anteilig zur Jahres-Kilometer.
 - Anteil x Gesamt-Kfz-Kosten = Sachbezug.
 

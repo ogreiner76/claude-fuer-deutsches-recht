@@ -1,13 +1,13 @@
 ---
 name: cybercrime-logfiles-daten-plattformen-deal
-description: "Nutze dies, wenn Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud prüfen.; Erstelle eine Arbeitsfassung zu Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257c Stpo Sta, Digitale Durchsuchung Daten Sicherung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Cybercrime Logfiles Und Chain Of Custody, Daten Von Plattformen Bestandsdaten, Deal Verstaendigung 257C Stpo Sta, Digitale Durchsuchung Daten Sicherung, Digitale Spuren Mobiltelefon Cloud** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Serverdaten, Hashwerte, Sicherung, Zuständigkeit und internationale Provider
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -94,7 +94,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** TKG/TDDDG-Schnittstellen, StPO-Befugnisse, Richtervorbehalt und Providerantwort
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -143,7 +143,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Geständnis, Strafrahmen, Transparenz, Protokollierung und Rechtsmittelrisiko
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -242,7 +242,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Beschlagnahme, Auswertung, Zufallsfunde, Datenminimierung und Verteidigerangriffe
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

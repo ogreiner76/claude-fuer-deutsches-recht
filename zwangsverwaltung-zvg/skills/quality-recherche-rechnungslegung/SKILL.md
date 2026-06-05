@@ -1,13 +1,13 @@
 ---
 name: quality-recherche-rechnungslegung
-description: "Nutze dies, wenn Spezial Quality Formular Portal Und Einreichung, Spezial Recherche Zahlen Schwellen Und Berechnung, Spezial Rechnungslegung Internationaler Bezug Und Schnittstellen im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Bitte Spezial Quality Formular Portal Und Einreichung, Spezial Recherche Zahlen Schwellen Und Berechnung, Spezial Rechnungslegung Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Quality Formular Portal Und Einreichung, Spezial Recherche Zahlen Schwellen Und Berechnung, Spezial Rechnungslegung Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Quality Formular Portal Und Einreichung, Recherche Zahlen Schwellen Und Berechnung, Rechnungslegung Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Quality Formular Portal Und Einreichung, Spezial Recherche Zahlen Schwellen Und Berechnung, Spezial Rechnungslegung Internationaler Bezug Und Schnittstellen
+# Quality Formular Portal Und Einreichung, Recherche Zahlen Schwellen Und Berechnung, Rechnungslegung Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Quality Formular Portal Und Einreichung, Recherche Zahlen Schwellen Und Berechnung, Rechnungslegung Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Quality Formular Portal Und Einreichung, Spezial Recherche Zahlen Schwellen Und Berechnung, Spezial Rechnungslegung Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Quality Formular Portal Und Einreichung, Recherche Zahlen Schwellen Und Berechnung, Rechnungslegung Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Quality Formular Portal Und Einreichung, Spezial Recherche Zahlen
 # Quality: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Quality: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Quality: Formular, Portal und Einreichungslogik / spezial quality formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Quality: Formular, Portal und Einreichungslogik / quality formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Recherche: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Recherche: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Recherche: Zahlen, Schwellenwerte und Berechnung / spezial recherche zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Recherche: Zahlen, Schwellenwerte und Berechnung / recherche zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Rechnungslegung: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Rechnungslegung: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Rechnungslegung: Internationaler Bezug und Schnittstellen / spezial rechnungslegung internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechnungslegung: Internationaler Bezug und Schnittstellen / rechnungslegung internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

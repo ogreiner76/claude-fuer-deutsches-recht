@@ -1,6 +1,6 @@
 ---
 name: uebereinkommen-quellenkarte
-description: "Nutze dies, wenn Uebereinkommen Quellenkarte im Plugin Fachanwalt Transport Speditionsrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Uebereinkommen Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Uebereinkommen Quellenkarte

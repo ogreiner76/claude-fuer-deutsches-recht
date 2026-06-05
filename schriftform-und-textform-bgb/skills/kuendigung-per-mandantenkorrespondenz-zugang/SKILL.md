@@ -1,21 +1,21 @@
 ---
 name: kuendigung-per-mandantenkorrespondenz-zugang
-description: "Nutze dies, wenn Kündigung Per Schriftsatz Zustellung Formfragen, Mandantenkorrespondenz Form Und Zugang Templates, Mandantenwarnung Qes Per Email Whatsapp Und Zugang im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Bitte Kündigung Per Schriftsatz Zustellung Formfragen, Mandantenkorrespondenz Form Und Zugang Templates, Mandantenwarnung Qes Per Email Whatsapp Und Zugang prüfen.; Erstelle eine Arbeitsfassung zu Kündigung Per Schriftsatz Zustellung Formfragen, Mandantenkorrespondenz Form Und Zugang Templates, Mandantenwarnung Qes Per Email Whatsapp Und Zugang.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kündigung Per Schriftsatz Zustellung Formfragen, Mandantenkorrespondenz Form Und Zugang Templates, Mandantenwarnung Qes Per Email Whatsapp Und Zugang: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kündigung Per Schriftsatz Zustellung Formfragen, Mandantenkorrespondenz Form Und Zugang Templates, Mandantenwarnung Qes Per Email Whatsapp Und Zugang
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kündigung Per Schriftsatz Zustellung Formfragen, Mandantenkorrespondenz Form Und Zugang Templates, Mandantenwarnung Qes Per Email Whatsapp Und Zugang** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `kuendigung-per-schriftsatz-zustellung-formfragen` | Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, § 130a ZPO, § 130e ZPO, § 46h ArbGG, § 173 ZPO, § 186 ZPO, § 298 Abs. 3 ZPO und § 174 BGB. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung. |
-| `mandantenkorrespondenz-form-und-zugang-templates` | Workflow-Skill zu mandantenkorrespondenz form und zugang templates. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `mandantenwarnung-qes-per-email-whatsapp-und-zugang` | Workflow-Skill zu mandantenwarnung qes per email whatsapp und zugang. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `mandantenkorrespondenz-form-und-zugang-templates` | Arbeitsmodul zu mandantenkorrespondenz form und zugang templates: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `mandantenwarnung-qes-per-email-whatsapp-und-zugang` | Arbeitsmodul zu mandantenwarnung qes per email whatsapp und zugang: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -94,36 +94,36 @@ Der Transfervermerk nach § 298 Abs. 3 ZPO dokumentiert die Übertragung eines e
 
 ```
 □ Erklärungsträger bestimmen:
-   → Mandant erklärt selbst?
-   → Rechtsanwalt erklärt als Vertreter?
-   → Schriftsatz enthält nur Sachvortrag oder eine echte Willenserklärung?
+ → Mandant erklärt selbst?
+ → Rechtsanwalt erklärt als Vertreter?
+ → Schriftsatz enthält nur Sachvortrag oder eine echte Willenserklärung?
 
 □ Formquelle bestimmen:
-   → Wohnraumkündigung § 568 BGB
-   → Arbeitskündigung oder Aufhebungsvertrag § 623 BGB
-   → andere Schriftform oder elektronische Form
-   → vertragliche Form nach § 127 BGB
+ → Wohnraumkündigung § 568 BGB
+ → Arbeitskündigung oder Aufhebungsvertrag § 623 BGB
+ → andere Schriftform oder elektronische Form
+ → vertragliche Form nach § 127 BGB
 
 □ Direkte Form prüfen:
-   → Papieroriginal mit eigenhändiger Unterschrift?
-   → qES-Datei nach § 126a BGB?
-   → nur einfache Signatur plus beA?
+ → Papieroriginal mit eigenhändiger Unterschrift?
+ → qES-Datei nach § 126a BGB?
+ → nur einfache Signatur plus beA?
 
 □ Zugang prüfen:
-   → Papieroriginal beim Empfänger?
-   → qES-Datei beim Empfänger mit prüfbarer Signatur?
-   → gerichtliche Zustellung oder Mitteilung?
-   → Anwalt-zu-Anwalt-Zustellung mit eEB?
+ → Papieroriginal beim Empfänger?
+ → qES-Datei beim Empfänger mit prüfbarer Signatur?
+ → gerichtliche Zustellung oder Mitteilung?
+ → Anwalt-zu-Anwalt-Zustellung mit eEB?
 
 □ Formfiktion prüfen:
-   → Zivilprozess: § 130e ZPO seit 17.07.2024
-   → Arbeitsgericht: § 46h ArbGG seit 17.07.2024
-   → andere Prozessordnungen nur bei ausdrücklicher Grundlage
+ → Zivilprozess: § 130e ZPO seit 17.07.2024
+ → Arbeitsgericht: § 46h ArbGG seit 17.07.2024
+ → andere Prozessordnungen nur bei ausdrücklicher Grundlage
 
 □ Vollmacht prüfen:
-   → Vertretung offengelegt?
-   → Originalvollmacht beigefügt oder entbehrlich?
-   → Zurückweisung nach § 174 BGB unverzüglich möglich?
+ → Vertretung offengelegt?
+ → Originalvollmacht beigefügt oder entbehrlich?
+ → Zurückweisung nach § 174 BGB unverzüglich möglich?
 ```
 
 ### Ergebnisbaustein
@@ -192,13 +192,13 @@ Vollmachtsurkunde im Original vorgelegt wurde (§ 174 Satz 1 BGB).
 
 ## 2. `mandantenkorrespondenz-form-und-zugang-templates`
 
-**Fokus:** Workflow-Skill zu mandantenkorrespondenz form und zugang templates. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu mandantenkorrespondenz form und zugang templates: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mandantenkorrespondenz — Form und Zugang: Templates
 
 ## Fachkern: Mandantenkorrespondenz — Form und Zugang: Templates
 
-- **Spezialfrage (Mandantenkorrespondenz — Form und Zugang: Templates):** Workflow-Skill zu mandantenkorrespondenz form und zugang templates. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Spezialfrage (Mandantenkorrespondenz — Form und Zugang: Templates):** Arbeitsmodul zu mandantenkorrespondenz form und zugang templates: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
 
@@ -246,13 +246,13 @@ Bitte beachten Sie daher:
 2. Löschen Sie PDF-Anhänge von Ihrem Vermieter oder dessen Rechtsanwalt nicht.
 
 3. Prüfen Sie PDF-Anhänge in Adobe Acrobat Reader auf eine
-   Signaturmarkierung (blaues oder grünes Zertifikatsfeld).
+ Signaturmarkierung (blaues oder grünes Zertifikatsfeld).
 
 4. Wenn Sie eine mögliche Kündigung erhalten haben, kontaktieren Sie
-   uns unverzüglich.
+ uns unverzüglich.
 
 5. Sichern Sie alle relevanten E-Mails und PDF-Dateien durch Export
-   oder Screenshot.
+ oder Screenshot.
 
 Wir stehen Ihnen für Rückfragen jederzeit zur Verfügung.
 
@@ -283,11 +283,11 @@ für die von Ihnen beabsichtigte Kündigung des Mietverhältnisses
 Empfohlene Vorgehensweise (Papier per Boten):
 
 1. Wir bereiten die Kündigung schriftlich vor und legen sie Ihnen
-   zur eigenhändigen Unterzeichnung vor.
+ zur eigenhändigen Unterzeichnung vor.
 
 2. Sie übergeben das unterschriebene Original persönlich oder durch
-   einen Boten an den Mieter. Der Mieter bestätigt den Empfang durch
-   Unterschrift auf einer Quittung.
+ einen Boten an den Mieter. Der Mieter bestätigt den Empfang durch
+ Unterschrift auf einer Quittung.
 
 3. Alternativ: Übergabe durch Einschreiben mit Rückschein.
 
@@ -326,21 +326,21 @@ Vermieter oder dessen Anwalt erhalten haben, prüfen Sie bitte:
 SCHRITT 1: Öffnen Sie die PDF-Datei in Adobe Acrobat Reader (kostenlos).
 
 SCHRITT 2: Sehen Sie im Dokument ein blaues oder grünes Banner mit
-  "Signiert und alle Signaturen sind gültig" oder ähnlichem?
-  → Wenn JA: Es könnte sich um eine rechtlich wirksame Kündigung handeln.
+ "Signiert und alle Signaturen sind gültig" oder ähnlichem?
+ → Wenn JA: Es könnte sich um eine rechtlich wirksame Kündigung handeln.
 
 SCHRITT 3: Prüfen Sie, ob das Dokument eine Kündigung des Mietverhältnisses
-  enthält und auf welches Datum die Kündigung verweist.
+ enthält und auf welches Datum die Kündigung verweist.
 
 SCHRITT 4: Sichern Sie die E-Mail und die PDF-Datei.
-  → E-Mail: als PDF drucken oder .eml exportieren
-  → PDF: auf Ihrem Computer und auf einem USB-Stick oder Cloud speichern
-  → Screenshot der E-Mail anfertigen
+ → E-Mail: als PDF drucken oder .eml exportieren
+ → PDF: auf Ihrem Computer und auf einem USB-Stick oder Cloud speichern
+ → Screenshot der E-Mail anfertigen
 
 SCHRITT 5: Kontaktieren Sie uns unverzüglich mit:
-  → Weiterleitung der E-Mail an [Kanzlei-E-Mail]
-  → Datum des Eingangs der E-Mail
-  → Inhalt des PDF (Scan oder Weiterleitung der Datei)
+ → Weiterleitung der E-Mail an [Kanzlei-E-Mail]
+ → Datum des Eingangs der E-Mail
+ → Inhalt des PDF (Scan oder Weiterleitung der Datei)
 
 Wichtig: Reagieren Sie schnell — Kündigungsfristen und Reaktionsfristen
 laufen ab Zugang der Kündigung.
@@ -359,16 +359,16 @@ Einfamilienhauses per E-Mail geschlossen?
 Bitte prüfen Sie:
 
 □ Hat der Makler Ihnen per E-Mail ein Angebot über den Maklerauftrag gemacht?
-  → Enthielt die E-Mail: Name des Maklers, Provisionsangebot, Auftragsbeschreibung?
+ → Enthielt die E-Mail: Name des Maklers, Provisionsangebot, Auftragsbeschreibung?
 
 □ Haben Sie den Auftrag per E-Mail bestätigt?
-  → Enthielt Ihre E-Mail: Ihren Namen, Ihre Bestätigung des Auftrags?
+ → Enthielt Ihre E-Mail: Ihren Namen, Ihre Bestätigung des Auftrags?
 
 □ Ist aus dem E-Mail-Austausch erkennbar, dass ein Vertrag geschlossen wurde?
 
 □ Gibt es Anzeichen, dass kein Textform-konformer Vertrag vorliegt?
-  → Nur mündliche Absprachen per Telefon?
-  → Nur unverbindliche Anfragen ohne klare Beauftragung?
+ → Nur mündliche Absprachen per Telefon?
+ → Nur unverbindliche Anfragen ohne klare Beauftragung?
 
 Bedeutung:
 
@@ -401,7 +401,7 @@ Bitte beachten Sie:
 
 - Die Kündigung gilt mit Eingang dieser E-Mail in Ihrem Postfach als zugegangen.
 - Prüfen Sie die elektronische Signatur in Adobe Acrobat Reader oder
-  unter validator.bund.de.
+ unter validator.bund.de.
 - Drucken Sie das Dokument aus und bewahren Sie die elektronische Datei auf.
 
 Bitte bestätigen Sie den Empfang dieser E-Mail durch kurze Rückantwort.
@@ -429,13 +429,13 @@ Mit freundlichen Grüßen
 
 ## 3. `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
 
-**Fokus:** Workflow-Skill zu mandantenwarnung qes per email whatsapp und zugang. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu mandantenwarnung qes per email whatsapp und zugang: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis
 
 ## Fachkern: Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis
 
-- **Spezialfrage (Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis):** Workflow-Skill zu mandantenwarnung qes per email whatsapp und zugang. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Spezialfrage (Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis):** Arbeitsmodul zu mandantenwarnung qes per email whatsapp und zugang: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
 
@@ -460,7 +460,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 1. E-Mail-Postfach regelmäßig prüfen (auch Spam-Ordner)
 2. Unbekannte Absender mit Dateianhängen (PDF) nicht vorschnell löschen
 3. PDF-Anhänge öffnen und auf qES-Signaturanzeige achten
-   (in Adobe Acrobat Reader: blaues Signaturfeld oder Zertifikats-Panel)
+ (in Adobe Acrobat Reader: blaues Signaturfeld oder Zertifikats-Panel)
 4. Bei qES-Kündigung: sofort anwaltlichen Rat einholen
 5. Datei sichern — nicht löschen, nicht bloß ausdrucken
 6. WhatsApp-Dateianhänge ebenfalls sichern (Backup aktivieren)
@@ -473,7 +473,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 2. qES über qualifizierten Anbieter anbringen (nicht FES/einfache Signatur)
 3. PDF-Datei per E-Mail als Anhang an Mieter senden
 4. In der E-Mail ausdrücklich darauf hinweisen, dass ein rechtliches
-   Dokument mit qualifizierter elektronischer Signatur beigefügt ist
+ Dokument mit qualifizierter elektronischer Signatur beigefügt ist
 5. Eingangsbestätigung anfordern
 6. Sendebericht / Auslieferungsnachweis sichern
 7. Alternativ: zusätzlich Papierkündigung mit Originalunterschrift per Boten
@@ -486,9 +486,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ```
 MANDANTENMEMO — VERTRAULICH
 
-An:      [Name Mieter]
-Von:     [Kanzleiname]
-Datum:   [Datum]
+An: [Name Mieter]
+Von: [Kanzleiname]
+Datum: [Datum]
 Betreff: Achtung — Wohnraumkündigung kann künftig wirksam per E-Mail zugehen
 
 Sehr geehrte(r) Frau/Herr [Name],
@@ -501,9 +501,9 @@ er dabei eine qualifizierte elektronische Signatur (qES) verwendet.
 Was bedeutet das für Sie?
 
 - Eine E-Mail von Ihrem Vermieter (oder dessen Anwalt) mit einem
-  PDF-Anhang kann eine wirksame Kündigung enthalten.
+ PDF-Anhang kann eine wirksame Kündigung enthalten.
 - Die Kündigung gilt als zugegangen, sobald die E-Mail in Ihrem
-  Postfach eingegangen ist — auch wenn Sie sie noch nicht gelesen haben.
+ Postfach eingegangen ist — auch wenn Sie sie noch nicht gelesen haben.
 - Sie müssen Ihren E-Mail-Spam-Ordner regelmäßig prüfen.
 - WhatsApp-Dateianhänge ebenfalls beachten.
 
@@ -511,10 +511,10 @@ Was sollten Sie tun?
 
 - Öffnen Sie alle PDF-Anhänge von Ihrem Vermieter oder dessen Anwalt.
 - Prüfen Sie, ob das PDF eine Signaturmarkierung enthält (sichtbar in
-  Adobe Acrobat Reader als blaues/grünes Zertifikatsfeld).
+ Adobe Acrobat Reader als blaues/grünes Zertifikatsfeld).
 - Löschen Sie solche E-Mails und Dateien NICHT.
 - Kontaktieren Sie uns umgehend, wenn Sie eine mögliche Kündigung
-  erhalten haben.
+ erhalten haben.
 
 Wir empfehlen, Ihren E-Mail-Posteingang und WhatsApp-Verlauf auf
 solche Nachrichten hin zu überprüfen und uns bei Unsicherheit sofort
@@ -529,9 +529,9 @@ Mit freundlichen Grüßen
 ```
 MANDANTENMEMO — VERTRAULICH
 
-An:      [Name Vermieter]
-Von:     [Kanzleiname]
-Datum:   [Datum]
+An: [Name Vermieter]
+Von: [Kanzleiname]
+Datum: [Datum]
 Betreff: Kündigung Wohnraummietverhältnis — Formempfehlung 2025/2026
 
 Sehr geehrte(r) Frau/Herr [Name],
@@ -544,16 +544,16 @@ dass er die Signatur prüfen kann.
 Unsere Empfehlung in der Reihenfolge der Sicherheit:
 
 Option A (sicherste Methode):
-  Papierkündigung mit eigenhändiger Unterschrift, übergeben durch
-  einen Boten gegen schriftliche Empfangsquittung.
+ Papierkündigung mit eigenhändiger Unterschrift, übergeben durch
+ einen Boten gegen schriftliche Empfangsquittung.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  PDF mit qES per E-Mail an den Mieter. Eingangsbestätigung anfordern.
-  Sendebericht aufbewahren. Hinweistext in der E-Mail einfügen.
+ PDF mit qES per E-Mail an den Mieter. Eingangsbestätigung anfordern.
+ Sendebericht aufbewahren. Hinweistext in der E-Mail einfügen.
 
 Option C (vermeiden):
-  Nur Papierdruck der qES-Kündigung — der Mieter erhält damit kein
-  prüfbares Dokument. Zugang der Schriftform fraglich.
+ Nur Papierdruck der qES-Kündigung — der Mieter erhält damit kein
+ prüfbares Dokument. Zugang der Schriftform fraglich.
 
 Wir stehen für weitere Beratung zur Verfügung.
 
@@ -568,12 +568,12 @@ Schritt-für-Schritt: qES in PDF-Datei erkennen
 
 1. Öffnen Sie die PDF-Datei mit Adobe Acrobat Reader (kostenlos).
 2. Achten Sie auf ein blaues oder grünes Banner oben oder ein
-   Signaturfeld im Dokument.
+ Signaturfeld im Dokument.
 3. Klicken Sie auf das Signaturfeld oder "Signaturen" im Menü.
 4. Prüfen Sie: Ist das Zertifikat gültig? Ist der Name des
-   Unterzeichners korrekt?
+ Unterzeichners korrekt?
 5. Alternativ: Laden Sie die Datei auf validator.bund.de hoch.
-   (Kostenloser Signaturprüfdienst der Bundesverwaltung.)
+ (Kostenloser Signaturprüfdienst der Bundesverwaltung.)
 
 Wenn Sie unsicher sind: Senden Sie uns die Datei per E-Mail.
 Löschen Sie die Datei NICHT, bevor wir sie geprüft haben.

@@ -1,13 +1,13 @@
 ---
 name: erstellung-forschungsdatenzugang
-description: "Nutze dies, wenn Spezial Erstellung Abschlussprodukt Und Übergabe, Spezial Forschungsdatenzugang Mehrparteienkonflikt, Spezial Gatekeeper Schriftsatz Brief Und Memo Bausteine im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Erstellung Abschlussprodukt Und Übergabe, Spezial Forschungsdatenzugang Mehrparteienkonflikt, Spezial Gatekeeper Schriftsatz Brief Und Memo Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Spezial Erstellung Abschlussprodukt Und Übergabe, Spezial Forschungsdatenzugang Mehrparteienkonflikt, Spezial Gatekeeper Schriftsatz Brief Und Memo Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erstellung Abschlussprodukt Und Uebergabe, Forschungsdatenzugang Mehrparteienkonflikt, Gatekeeper Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Erstellung Abschlussprodukt Und Übergabe, Spezial Forschungsdatenzugang Mehrparteienkonflikt, Spezial Gatekeeper Schriftsatz Brief Und Memo Bausteine
+# Erstellung Abschlussprodukt Und Übergabe, Forschungsdatenzugang Mehrparteienkonflikt, Gatekeeper Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erstellung Abschlussprodukt Und Übergabe, Forschungsdatenzugang Mehrparteienkonflikt, Gatekeeper Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Erstellung Abschlussprodukt Und Übergabe, Spezial Forschungsdatenzugang Mehrparteienkonflikt, Spezial Gatekeeper Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Erstellung Abschlussprodukt Und Übergabe, Forschungsdatenzugang Mehrparteienkonflikt, Gatekeeper Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Erstellung Abschlussprodukt Und Übergabe, Spezial Forschungsdate
 # Erstellung: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Erstellung: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Erstellung: Abschlussprodukt und Übergabe / spezial erstellung abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Erstellung: Abschlussprodukt und Übergabe / erstellung abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix / spezial forschungsdatenzugang mehrparteienkonflikt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix / forschungsdatenzugang mehrparteienkonflikt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine / spezial gatekeeper schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine / gatekeeper schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

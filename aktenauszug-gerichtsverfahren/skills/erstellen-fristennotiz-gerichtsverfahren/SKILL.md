@@ -1,13 +1,13 @@
 ---
 name: erstellen-fristennotiz-gerichtsverfahren
-description: "Nutze dies, wenn Spezial Erstellen Fristennotiz Und Naechster Schritt, Spezial Gerichtsverfahren Fristen Form Und Zustaendigkeit, Spezial Verfahrensgeschichte Vergleich Eskalation im Plugin Aktenauszug Gerichtsverfahren konkret bearbeitet werden soll. Auslöser: Bitte Spezial Erstellen Fristennotiz Und Naechster Schritt, Spezial Gerichtsverfahren Fristen Form Und Zustaendigkeit, Spezial Verfahrensgeschichte Vergleich Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Erstellen Fristennotiz Und Naechster Schritt, Spezial Gerichtsverfahren Fristen Form Und Zustaendigkeit, Spezial Verfahrensgeschichte Vergleich Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erstellen Fristennotiz Und Naechster Schritt, Gerichtsverfahren Fristen Form Und Zustaendigkeit, Verfahrensgeschichte Vergleich Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Erstellen Fristennotiz Und Naechster Schritt, Spezial Gerichtsverfahren Fristen Form Und Zustaendigkeit, Spezial Verfahrensgeschichte Vergleich Eskalation
+# Erstellen Fristennotiz Und Naechster Schritt, Gerichtsverfahren Fristen Form Und Zustaendigkeit, Verfahrensgeschichte Vergleich Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erstellen Fristennotiz Und Naechster Schritt, Gerichtsverfahren Fristen Form Und Zustaendigkeit, Verfahrensgeschichte Vergleich Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Erstellen Fristennotiz Und Naechster Schritt, Spezial Gerichtsverfahren Fristen Form Und Zustaendigkeit, Spezial Verfahrensgeschichte Vergleich Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Erstellen Fristennotiz Und Naechster Schritt, Gerichtsverfahren Fristen Form Und Zustaendigkeit, Verfahrensgeschichte Vergleich Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Erstellen Fristennotiz Und Naechster Schritt, Spezial Gerichtsver
 # Erstellen: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Erstellen: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Erstellen: Fristennotiz und nächster Schritt / spezial erstellen fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Erstellen: Fristennotiz und nächster Schritt / erstellen fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg / spezial gerichtsverfahren fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg / gerichtsverfahren fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation / spezial verfahrensgeschichte vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation / verfahrensgeschichte vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

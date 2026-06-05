@@ -1,19 +1,19 @@
 ---
 name: gegendarstellung-presse-mod-erklaerung
-description: "Nutze dies, wenn Fachanwalt Urheber Medienrecht Gegendarstellung Presse, Fachanwalt Urheber Medienrecht Mod Erklaerung, Fachanwalt Urheber Medienrecht Orientierung im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Urheber Medienrecht Gegendarstellung Presse, Fachanwalt Urheber Medienrecht Mod Erklaerung, Fachanwalt Urheber Medienrecht Orientierung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Urheber Medienrecht Gegendarstellung Presse, Fachanwalt Urheber Medienrecht Mod Erklaerung, Fachanwalt Urheber Medienrecht Orientierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Urheber Medienrecht Gegendarstellung Presse, Fachanwalt Urheber Medienrecht Mod Erklaerung, Fachanwalt Urheber Medienrecht Orientierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Urheber Medienrecht Gegendarstellung Presse, Fachanwalt Urheber Medienrecht Mod Erklaerung, Fachanwalt Urheber Medienrecht Orientierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Urheber Medienrecht Gegendarstellung Presse, Fachanwalt Urheber Medienrecht Mod Erklaerung, Fachanwalt Urheber Medienrecht Orientierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-urheber-medienrecht-gegendarstellung-presse` | Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Workflow Prüfung Schriftsatz Klage. |
+| `fachanwalt-urheber-medienrecht-gegendarstellung-presse` | Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Prüfung Schriftsatz Klage. |
 | `fachanwalt-urheber-medienrecht-mod-erklaerung` | Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Prüfprotokoll. Abgrenzung: nicht für vollständige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-prüfen). |
 | `fachanwalt-urheber-medienrecht-orientierung` | Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills. |
 
@@ -26,7 +26,7 @@ Für **Fachanwalt Urheber Medienrecht Gegendarstellung Presse, Fachanwalt Urhebe
 
 ## 1. `fachanwalt-urheber-medienrecht-gegendarstellung-presse`
 
-**Fokus:** Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Workflow Prüfung Schriftsatz Klage.
+**Fokus:** Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Prüfung Schriftsatz Klage.
 
 # Gegendarstellung Presserecht
 
@@ -269,13 +269,13 @@ Rechteinhaberin zu nutzen.
 
 Die vorstehende Erklärung:
 – gilt für die vorstehend konkret bezeichnete Verletzungsform
-  und kerngleiche Handlungen im Sinne der Rechtsprechung des BGH
+ und kerngleiche Handlungen im Sinne der Rechtsprechung des BGH
 – enthält kein Anerkenntnis von Schadensersatzansprüchen (§ 97
-  Abs. 2 UrhG) dem Grunde oder der Höhe nach
+ Abs. 2 UrhG) dem Grunde oder der Höhe nach
 – enthält kein Anerkenntnis von Auskunftsansprüchen (§ 101 UrhG)
 – enthält kein Anerkenntnis von Kostenforderungen;
-  hilfsweise werden diese auf den Rahmen des § 97a Abs. 3 UrhG
-  begrenzt (Gegenstandswert EUR 1.000)
+ hilfsweise werden diese auf den Rahmen des § 97a Abs. 3 UrhG
+ begrenzt (Gegenstandswert EUR 1.000)
 
 Diese Erklärung wird unter dem Vorbehalt der Annahme
 durch die Gläubigerseite abgegeben (§ 130 BGB).
@@ -303,21 +303,21 @@ etwaiger Wiederholungsgefahr.
 Wir weisen ergänzend darauf hin:
 
 1. Die Verletzungshandlung wird dem Grunde nach bestritten.
-   [Konkret: Werk war lizenzfrei / Handlung war nach § 51 UrhG
-   gestattet / Mandant hat die Handlung nicht begangen.]
+ [Konkret: Werk war lizenzfrei / Handlung war nach § 51 UrhG
+ gestattet / Mandant hat die Handlung nicht begangen.]
 
 2. Die Aktivlegitimation Ihrer Mandantschaft wird bestritten.
-   Bitte übersenden Sie binnen [7] Tagen die vollständige
-   Lizenzurkunde oder den Rechtsübertragungsvertrag.
+ Bitte übersenden Sie binnen [7] Tagen die vollständige
+ Lizenzurkunde oder den Rechtsübertragungsvertrag.
 
 3. Schadensersatzansprüche werden vollumfänglich bestritten.
-   Der behauptete Schaden in Höhe von EUR [X] ist nicht
-   substantiiert; Berechnungsgrundlage und Tarif werden nicht
-   akzeptiert.
+ Der behauptete Schaden in Höhe von EUR [X] ist nicht
+ substantiiert; Berechnungsgrundlage und Tarif werden nicht
+ akzeptiert.
 
 4. Die Kostenforderung in Höhe von EUR [X] wird bestritten.
-   [Soweit Mandant Verbraucher:] § 97a Abs. 3 UrhG begrenzt
-   den erstattungsfähigen Gegenstandswert auf EUR 1.000.
+ [Soweit Mandant Verbraucher:] § 97a Abs. 3 UrhG begrenzt
+ den erstattungsfähigen Gegenstandswert auf EUR 1.000.
 
 Die modifizierte Unterlassungserklärung dient ausschließlich
 der Beseitigung der Wiederholungsgefahr und begründet keinerlei
@@ -469,28 +469,28 @@ Bevor die modifizierte Unterlassungserklaerung abgegeben wird, klaere:
 
 ```
 Werk geschuetzt (Foto, Text, Software, Musik, Film)?
-  → UrhG §§ 1 ff. (Werk), §§ 15 ff. (Verwertungsrechte), § 97 UrhG (Schadensersatz)
-  → Skill: urheber-abmahnung-pruefen
+ → UrhG §§ 1 ff. (Werk), §§ 15 ff. (Verwertungsrechte), § 97 UrhG (Schadensersatz)
+ → Skill: urheber-abmahnung-pruefen
 
 Recht am eigenen Bild (Foto einer Person veröffentlicht)?
-  → §§ 22, 23 KUG + §§ 823, 1004 BGB
-  → Skill: fachanwalt-urheber-medienrecht-abmahnung-pruefen
+ → §§ 22, 23 KUG + §§ 823, 1004 BGB
+ → Skill: fachanwalt-urheber-medienrecht-abmahnung-pruefen
 
 Berichterstattung, Aeusserung, Gegendarstellung?
-  → §§ 823 Abs. 1, 1004 BGB i.V.m. Art. 2 Abs. 1, 1 Abs. 1 GG; LPG
-  → Skill: fachanwalt-urheber-medienrecht-gegendarstellung-presse
+ → §§ 823 Abs. 1, 1004 BGB i.V.m. Art. 2 Abs. 1, 1 Abs. 1 GG; LPG
+ → Skill: fachanwalt-urheber-medienrecht-gegendarstellung-presse
 
 Filesharing-Abmahnung?
-  → § 97a UrhG; § 97 Abs. 2 UrhG; Streitwert § 97a Abs. 3 UrhG
-  → Skill: fachanwalt-urheber-medienrecht-filesharing-verteidigung
+ → § 97a UrhG; § 97 Abs. 2 UrhG; Streitwert § 97a Abs. 3 UrhG
+ → Skill: fachanwalt-urheber-medienrecht-filesharing-verteidigung
 
 Verwertungsgesellschaft (GEMA, VG Wort, VG Bild-Kunst)?
-  → VGG §§ 92 ff.; Schiedsstelle DPMA
-  → Skill: fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg
+ → VGG §§ 92 ff.; Schiedsstelle DPMA
+ → Skill: fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg
 
 KI-Training und Text-Data-Mining?
-  → § 44b UrhG; DSM-RL Art. 3, 4
-  → Skill: fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out
+ → § 44b UrhG; DSM-RL Art. 3, 4
+ → Skill: fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out
 ```
 
 ## FAO-Voraussetzungen

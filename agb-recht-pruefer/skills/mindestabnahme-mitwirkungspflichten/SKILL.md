@@ -1,22 +1,22 @@
 ---
 name: mindestabnahme-mitwirkungspflichten
-description: "Nutze dies, wenn Mindestabnahme, Mitwirkungspflichten, Nacherfuellung Vorrang, Nda Standardbedingungen, Negative Feststellung Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Mindestabnahme, Mitwirkungspflichten, Nacherfuellung Vorrang, Nda Standardbedingungen, Negative Feststellung Agb prüfen.; Erstelle eine Arbeitsfassung zu Mindestabnahme, Mitwirkungspflichten, Nacherfuellung Vorrang, Nda Standardbedingungen, Negative Feststellung Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mindestabnahme, Mitwirkungspflichten, Nacherfuellung Vorrang, Nda Standardbedingungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mindestabnahme, Mitwirkungspflichten, Nacherfuellung Vorrang, Nda Standardbedingungen, Negative Feststellung Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mindestabnahme, Mitwirkungspflichten, Nacherfuellung Vorrang, Nda Standardbedingungen, Negative Feststellung Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `mindestabnahme` | Klausel-Spezialskill für Mindestabnahme: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `mitwirkungspflichten` | Klausel-Spezialskill für Mitwirkungspflichten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `nacherfuellung-vorrang` | Klausel-Spezialskill für Nacherfüllung Vorrang: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `nda-standardbedingungen` | Branchen-Spezialskill für NDA Standardbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `mindestabnahme` | Klausel-Fachmodul für Mindestabnahme: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `mitwirkungspflichten` | Klausel-Fachmodul für Mitwirkungspflichten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `nacherfuellung-vorrang` | Klausel-Fachmodul für Nacherfüllung Vorrang: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `nda-standardbedingungen` | Branchen-Fachmodul für NDA Standardbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `negative-feststellung-agb` | Output- und Streit-Skill für Negative Feststellung AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Mindestabnahme, Mitwirkungspflichten, Nacherfuellung Vorrang, Nda Standar
 
 ## 1. `mindestabnahme`
 
-**Fokus:** Klausel-Spezialskill für Mindestabnahme: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Mindestabnahme: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Mindestabnahme
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `mitwirkungspflichten`
 
-**Fokus:** Klausel-Spezialskill für Mitwirkungspflichten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Mitwirkungspflichten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Mitwirkungspflichten
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `nacherfuellung-vorrang`
 
-**Fokus:** Klausel-Spezialskill für Nacherfüllung Vorrang: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Nacherfüllung Vorrang: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Nacherfüllung Vorrang
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `nda-standardbedingungen`
 
-**Fokus:** Branchen-Spezialskill für NDA Standardbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für NDA Standardbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # NDA Standardbedingungen
 

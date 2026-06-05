@@ -1,27 +1,27 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Nutze dies, wenn Schriftsatzkern Substantiierung, Spezial Abschiebungshaft, Spezial Abschiebungsverbot 60 5 7, Spezial Akteneinsicht Migration, Spezial Anerkennung Berufsabschluss im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Schriftsatzkern Substantiierung, Spezial Abschiebungshaft, Spezial Abschiebungsverbot 60 5 7, Spezial Akteneinsicht Migration, Spezial Anerkennung Berufsabschluss prüfen.; Erstelle eine Arbeitsfassung zu Schriftsatzkern Substantiierung, Spezial Abschiebungshaft, Spezial Abschiebungsverbot 60 5 7, Spezial Akteneinsicht Migration, Spezial Anerkennung Berufsabschluss.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schriftsatzkern Substantiierung, Abschiebungshaft, Abschiebungsverbot 60 5 7, Akteneinsicht Migration: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Schriftsatzkern Substantiierung, Spezial Abschiebungshaft, Spezial Abschiebungsverbot 60 5 7, Spezial Akteneinsicht Migration, Spezial Anerkennung Berufsabschluss
+# Schriftsatzkern Substantiierung, Abschiebungshaft, Abschiebungsverbot 60 5 7, Akteneinsicht Migration, Anerkennung Berufsabschluss
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schriftsatzkern Substantiierung, Abschiebungshaft, Abschiebungsverbot 60 5 7, Akteneinsicht Migration, Anerkennung Berufsabschluss** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-abschiebungshaft` | Abschiebungshaft: Spezial-Skill im Migrationsrecht; prüft Haftgrund, Fluchtgefahr, Verhältnismäßigkeit, Rechtsmittel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-abschiebungsverbot-60-5-7` | Abschiebungsverbot § 60 Abs. 5/7: Spezial-Skill im Migrationsrecht; prüft EMRK, Krankheit, Existenzminimum, individuelle Gefahr; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-akteneinsicht-migration` | Akteneinsicht Migration: Spezial-Skill im Migrationsrecht; prüft BAMF/ABH/Gericht, Datenschutz, Vollmacht, Strategie; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-anerkennung-berufsabschluss` | Anerkennung Berufsabschluss: Spezial-Skill im Migrationsrecht; prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-abschiebungshaft` | Abschiebungshaft: Fachmodul im Migrationsrecht; prüft Haftgrund, Fluchtgefahr, Verhältnismäßigkeit, Rechtsmittel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-abschiebungsverbot-60-5-7` | Abschiebungsverbot § 60 Abs. 5/7: Fachmodul im Migrationsrecht; prüft EMRK, Krankheit, Existenzminimum, individuelle Gefahr; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-akteneinsicht-migration` | Akteneinsicht Migration: Fachmodul im Migrationsrecht; prüft BAMF/ABH/Gericht, Datenschutz, Vollmacht, Strategie; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-anerkennung-berufsabschluss` | Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht; prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
-Für **Schriftsatzkern Substantiierung, Spezial Abschiebungshaft, Spezial Abschiebungsverbot 60 5 7, Spezial Akteneinsicht Migration, Spezial Anerkennung Berufsabschluss** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schriftsatzkern Substantiierung, Abschiebungshaft, Abschiebungsverbot 60 5 7, Akteneinsicht Migration, Anerkennung Berufsabschluss** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -320,14 +320,14 @@ IV. BEWEISANGEBOTE
 
 ## 2. `spezial-abschiebungshaft`
 
-**Fokus:** Abschiebungshaft: Spezial-Skill im Migrationsrecht; prüft Haftgrund, Fluchtgefahr, Verhältnismäßigkeit, Rechtsmittel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Abschiebungshaft: Fachmodul im Migrationsrecht; prüft Haftgrund, Fluchtgefahr, Verhältnismäßigkeit, Rechtsmittel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Abschiebungshaft
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Haftgrund, Fluchtgefahr, Verhältnismäßigkeit, Rechtsmittel.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Haftgrund, Fluchtgefahr, Verhältnismäßigkeit, Rechtsmittel.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -356,14 +356,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Haftg
 
 ## 3. `spezial-abschiebungsverbot-60-5-7`
 
-**Fokus:** Abschiebungsverbot § 60 Abs. 5/7: Spezial-Skill im Migrationsrecht; prüft EMRK, Krankheit, Existenzminimum, individuelle Gefahr; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Abschiebungsverbot § 60 Abs. 5/7: Fachmodul im Migrationsrecht; prüft EMRK, Krankheit, Existenzminimum, individuelle Gefahr; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Abschiebungsverbot § 60 Abs. 5/7
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft EMRK, Krankheit, Existenzminimum, individuelle Gefahr.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft EMRK, Krankheit, Existenzminimum, individuelle Gefahr.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -392,14 +392,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft EMRK,
 
 ## 4. `spezial-akteneinsicht-migration`
 
-**Fokus:** Akteneinsicht Migration: Spezial-Skill im Migrationsrecht; prüft BAMF/ABH/Gericht, Datenschutz, Vollmacht, Strategie; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Akteneinsicht Migration: Fachmodul im Migrationsrecht; prüft BAMF/ABH/Gericht, Datenschutz, Vollmacht, Strategie; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Akteneinsicht Migration
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft BAMF/ABH/Gericht, Datenschutz, Vollmacht, Strategie.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft BAMF/ABH/Gericht, Datenschutz, Vollmacht, Strategie.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -428,14 +428,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft BAMF/
 
 ## 5. `spezial-anerkennung-berufsabschluss`
 
-**Fokus:** Anerkennung Berufsabschluss: Spezial-Skill im Migrationsrecht; prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Anerkennung Berufsabschluss: Fachmodul im Migrationsrecht; prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Anerkennung Berufsabschluss
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Gleichwertigkeit, Defizitbescheid, Anpassungsqualifizierung und Berufszugang.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?

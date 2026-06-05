@@ -179,8 +179,8 @@ Kanzleiprofil erstellt am 2025-01-15:
 - Team: Solo
 - Rechtsgebiet: Arbeitsrecht, Kündigungsschutz, Betriebsverfassungsrecht
 - Eingesetztes Starter-Paket:
-  - kanzlei-arbeitsrecht (installiert)
-  - kündigungsfristen-tracker (installiert)
+ - kanzlei-arbeitsrecht (installiert)
+ - kündigungsfristen-tracker (installiert)
 - Beobachtete Registries: kanzlei-skills
 - TOM-Hinweis: Bitte Verfahrensübersicht nach Art. 30 DSGVO aktualisieren.
 ```

@@ -1,23 +1,23 @@
 ---
 name: steuern-umsatzsteuer-stummer-upload
-description: "Nutze dies, wenn Steuern Umsatzsteuer, Stummer Upload Agb Dokumente, Subscription Abonnement, Subscription Box Agb, Subunternehmer im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Steuern Umsatzsteuer, Stummer Upload Agb Dokumente, Subscription Abonnement, Subscription Box Agb, Subunternehmer prüfen.; Erstelle eine Arbeitsfassung zu Steuern Umsatzsteuer, Stummer Upload Agb Dokumente, Subscription Abonnement, Subscription Box Agb, Subunternehmer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Steuern Umsatzsteuer, Stummer Upload Agb Dokumente, Subscription Abonnement, Subscription Box Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuern Umsatzsteuer, Stummer Upload Agb Dokumente, Subscription Abonnement, Subscription Box Agb, Subunternehmer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuern Umsatzsteuer, Stummer Upload Agb Dokumente, Subscription Abonnement, Subscription Box Agb, Subunternehmer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `steuern-umsatzsteuer` | Klausel-Spezialskill für Steürn Umsatzsteür: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `stummer-upload-agb-dokumente` | Einstiegs- und Workflow-Skill für Stummer Upload AGB Dokumente: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
-| `subscription-abonnement` | Branchen-Spezialskill für Subscription Abonnement: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `subscription-box-agb` | Branchen-Spezialskill für Subscription Box AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `subunternehmer` | Klausel-Spezialskill für Subunternehmer: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `steuern-umsatzsteuer` | Klausel-Fachmodul für Steürn Umsatzsteür: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `stummer-upload-agb-dokumente` | Einstiegs- und Arbeitsmodul für Stummer Upload AGB Dokumente: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `subscription-abonnement` | Branchen-Fachmodul für Subscription Abonnement: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `subscription-box-agb` | Branchen-Fachmodul für Subscription Box AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `subunternehmer` | Klausel-Fachmodul für Subunternehmer: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Steuern Umsatzsteuer, Stummer Upload Agb Dokumente, Subscription Abonneme
 
 ## 1. `steuern-umsatzsteuer`
 
-**Fokus:** Klausel-Spezialskill für Steürn Umsatzsteür: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Steürn Umsatzsteür: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Steürn Umsatzsteür
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `stummer-upload-agb-dokumente`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Stummer Upload AGB Dokumente: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Stummer Upload AGB Dokumente: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Stummer Upload AGB Dokumente
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `subscription-abonnement`
 
-**Fokus:** Branchen-Spezialskill für Subscription Abonnement: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Subscription Abonnement: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Subscription Abonnement
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `subscription-box-agb`
 
-**Fokus:** Branchen-Spezialskill für Subscription Box AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Subscription Box AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Subscription Box AGB
 
@@ -248,7 +248,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `subunternehmer`
 
-**Fokus:** Klausel-Spezialskill für Subunternehmer: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Subunternehmer: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Subunternehmer
 

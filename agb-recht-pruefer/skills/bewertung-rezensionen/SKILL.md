@@ -1,6 +1,6 @@
 ---
 name: bewertung-rezensionen
-description: "Klausel-Spezialskill für Bewertung Rezensionen: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Bewertung Rezensionen: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Bewertung Rezensionen

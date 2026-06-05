@@ -1,13 +1,13 @@
 ---
 name: datenraum-aufbau-gap-deal-intake-team
-description: "Nutze dies, wenn Mittelstand Corporate Ma Datenraum Aufbau, Mittelstand Corporate Ma Datenraum Gap Clean Room, Mittelstand Corporate Ma Deal Intake, Mittelstand Corporate Ma Deal Team Staffing im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Mittelstand Corporate Ma Datenraum Aufbau, Mittelstand Corporate Ma Datenraum Gap Clean Room, Mittelstand Corporate Ma Deal Intake, Mittelstand Corporate Ma Deal Team Staffing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mittelstand Corporate Ma Datenraum Aufbau, Mittelstand Corporate Ma Datenraum Gap Clean Room, Mittelstand Corporate Ma Deal Intake, Mittelstand Corporate Ma Deal Team Staffing
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mittelstand Corporate Ma Datenraum Aufbau, Mittelstand Corporate Ma Datenraum Gap Clean Room, Mittelstand Corporate Ma Deal Intake, Mittelstand Corporate Ma Deal Team Staffing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

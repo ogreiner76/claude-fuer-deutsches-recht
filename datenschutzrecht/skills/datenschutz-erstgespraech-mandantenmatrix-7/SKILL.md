@@ -1,6 +1,6 @@
 ---
 name: datenschutz-erstgespraech-mandantenmatrix-7
-description: "Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO Anlass Aufsichtsbehoerde Betroffener Anwalt Gegner Fristlage Art. 12 III DSGVO Risikolage Datenkategorien Art. 9 10 DSGVO Vorgeschichte und Mandatsziel. Liefert sofort Mandatsfragebogen-Antwortpattern Risikoampel und Folge-Skill-Empfehlung. Abgrenzung: keine Subsumtion ersetzt die Spezial-Skills."
+description: "Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO Anlass Aufsichtsbehoerde Betroffener Anwalt Gegner Fristlage Art. 12 III DSGVO Risikolage Datenkategorien Art. 9 10 DSGVO Vorgeschichte und Mandatsziel. Liefert sofort Mandatsfragebogen-Antwortpattern Risikoampel und Folge-Skill-Empfehlung. Abgrenzung: keine Subsumtion ersetzt die Fachmodule."
 ---
 
 # Datenschutz Erstgespraech — Mandantenmatrix mit sieben Fragen
@@ -11,7 +11,7 @@ Dieser Skill fuehrt das erste Gespraech mit dem Mandanten in einem Datenschutzfa
 
 ## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-Sie brauchen diesen Skill **immer dann**, wenn ein neues Datenschutzmandat eingeht und unklar ist, welcher Spezial-Skill greift. Typische Anlaesse:
+Sie brauchen diesen Skill **immer dann**, wenn ein neues Datenschutzmandat eingeht und unklar ist, welcher Fachmodul greift. Typische Anlaesse:
 
 - Mandant erhaelt ein Auskunftsersuchen nach Art. 15 DSGVO.
 - Mandant meldet eine moegliche Datenpanne.

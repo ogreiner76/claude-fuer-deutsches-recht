@@ -1,13 +1,13 @@
 ---
 name: zugang-kuendigungsschutzklage
-description: "Nutze dies, wenn Zugang Neu 008 Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825 konkret bearbeitet werden soll: Unterlagen sortieren, Normen und Fristen prüfen, typische Fehler vermeiden und einen verwertbaren nächsten Schritt formulieren."
+description: "Nutze dies bei Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
 ---
 
-# Zugang Neu 008 Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825
+# Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,12 +15,12 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga` | Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis. |
 | `aufhebungsvertrag` | Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung, Fünftelregelung (§ 34 EStG), Ausgleichsklausel und Widerrufsrechte. |
-| `aufhebungsvertrag-sperrzeit-prognose` | Workflow-Skill zu aufhebungsvertrag sperrzeit prognose. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `bag-freistellungsklausel-unwirksam-5azr10825` | Workflow-Skill zu bag freistellungsklausel unwirksam 5azr10825. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `aufhebungsvertrag-sperrzeit-prognose` | Arbeitsmodul zu aufhebungsvertrag sperrzeit prognose: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `bag-freistellungsklausel-unwirksam-5azr10825` | Arbeitsmodul zu bag freistellungsklausel unwirksam 5azr10825: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Zugang Neu 008 Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5Azr10825** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -29,7 +29,7 @@ Für **Zugang Neu 008 Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebu
 
 **Fokus:** Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Neu 008 Kuendigungsschutzklage Frist Nach Streitigem Zuga
+# Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga
 
 ## Aufgabe
 
@@ -134,16 +134,16 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 ### Leitentscheidungen (BGH-Stil)
 
 - **Widerruf des Aufhebungsvertrags / Überrumpelung:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Sperrzeit bei arbeitgeberseitig veranlasstem Aufhebungsvertrag:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Anfechtung wegen widerrechtlicher Drohung:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Fünftelregelung / Zusammenballung:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -188,10 +188,10 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Umfassende Ausgleichsklausel formulieren: "Mit diesem Vertrag sind alle wechselseitigen Ansprüche aus dem Arbeitsverhältnis und seiner Beendigung – gleich aus welchem Rechtsgrund – erledigt."
 - **Ausnahmen ausdrücklich benennen** (typisch):
-  - Ansprüche aus betrieblicher Altersversorgung (§§ 1b, 7 BetrAVG)
-  - Laufende Entgeltansprüche bis Beendigung
-  - Ansprüche aus deliktischen Handlungen
-  - Betriebsrat-Widerspruchsrecht
+ - Ansprüche aus betrieblicher Altersversorgung (§§ 1b, 7 BetrAVG)
+ - Laufende Entgeltansprüche bis Beendigung
+ - Ansprüche aus deliktischen Handlungen
+ - Betriebsrat-Widerspruchsrecht
 - Einbeziehung von Ausgleichsklausel in Verhandlung: Arbeitnehmer muss wissen, auf welche Ansprüche er verzichtet.
 
 ### Schritt 6 – Weitere Regelungspunkte
@@ -264,7 +264,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 ## 3. `aufhebungsvertrag-sperrzeit-prognose`
 
-**Fokus:** Workflow-Skill zu aufhebungsvertrag sperrzeit prognose. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu aufhebungsvertrag sperrzeit prognose: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Aufhebungsvertrag — Sperrzeit-Prognose
 
@@ -616,7 +616,7 @@ und die Empfehlung verstanden habe."
 
 ## 4. `bag-freistellungsklausel-unwirksam-5azr10825`
 
-**Fokus:** Workflow-Skill zu bag freistellungsklausel unwirksam 5azr10825. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu bag freistellungsklausel unwirksam 5azr10825: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 

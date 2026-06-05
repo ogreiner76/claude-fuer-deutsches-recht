@@ -1,13 +1,13 @@
 ---
 name: berufsanerkennung-bescheid-ohne-betreuung
-description: "Nutze dies, wenn Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots prüfen.; Erstelle eine Arbeitsfassung zu Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevollmacht, Beweismittel Fotos Screenshots** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Berufsanerkennung, Bescheid Ohne Rechtsbehelf, Betreuung Und Vorsorgevoll
 ## Aufgabe
 Hilft bei Anerkennung ausländischer Abschlüsse, Anpassungslehrgang, Kenntnisprüfung, Fristen und Nachweisen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Folgen fehlender oder fehlerhafter Belehrung und sichere Fristbehandlung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei Behördenkontakt für Angehörige, Vollmacht, Betreuung, Einwilligungsfähigkeit und Datenschutz.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt beweissichere Fotos, Screenshots, Metadaten, Dateinamen, Schwärzung und Anlagenverzeichnis.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

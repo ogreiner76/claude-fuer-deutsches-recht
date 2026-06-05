@@ -1,32 +1,32 @@
 ---
 name: gmbhg-handels-handelsvertreterausgleich
-description: "Nutze dies, wenn Spezial Gmbhg Schriftsatz Brief Und Memo Bausteine, Spezial Handels Tatbestand Beweis Und Belege, Spezial Handelsvertreterausgleich International Schnittstellen im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gmbhg Schriftsatz Brief Und Memo Bausteine, Spezial Handels Tatbestand Beweis Und Belege, Spezial Handelsvertreterausgleich International Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gmbhg Schriftsatz Brief Und Memo Bausteine, Spezial Handels Tatbestand Beweis Und Belege, Spezial Handelsvertreterausgleich International Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gmbhg Schriftsatz Brief Und Memo Bausteine, Handels Tatbestand Beweis Und Belege, Handelsvertreterausgleich International Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Gmbhg Schriftsatz Brief Und Memo Bausteine, Spezial Handels Tatbestand Beweis Und Belege, Spezial Handelsvertreterausgleich International Schnittstellen
+# Gmbhg Schriftsatz Brief Und Memo Bausteine, Handels Tatbestand Beweis Und Belege, Handelsvertreterausgleich International Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gmbhg Schriftsatz Brief Und Memo Bausteine, Handels Tatbestand Beweis Und Belege, Handelsvertreterausgleich International Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-gmbhg-schriftsatz-brief-und-memo-bausteine` | Gmbhg: Schriftsatz-, Brief- und Memo-Bausteine im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-handels-tatbestand-beweis-und-belege` | Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-handelsvertreterausgleich-international-schnittstellen` | Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gmbhg-schriftsatz-brief-und-memo-bausteine` | Gmbhg: Schriftsatz-, Brief- und Memo-Bausteine im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-handels-tatbestand-beweis-und-belege` | Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-handelsvertreterausgleich-international-schnittstellen` | Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Gmbhg Schriftsatz Brief Und Memo Bausteine, Spezial Handels Tatbestand Beweis Und Belege, Spezial Handelsvertreterausgleich International Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gmbhg Schriftsatz Brief Und Memo Bausteine, Handels Tatbestand Beweis Und Belege, Handelsvertreterausgleich International Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-gmbhg-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Gmbhg: Schriftsatz-, Brief- und Memo-Bausteine im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gmbhg: Schriftsatz-, Brief- und Memo-Bausteine im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gmbhg: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -40,7 +40,7 @@ Für **Spezial Gmbhg Schriftsatz Brief Und Memo Bausteine, Spezial Handels Tatbe
 
 
 ## Spezialwissen: Gmbhg: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Gmbhg: Schriftsatz-, Brief- und Memo-Bausteine / spezial gmbhg schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gmbhg: Schriftsatz-, Brief- und Memo-Bausteine / gmbhg schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-handels-tatbestand-beweis-und-belege`
 
-**Fokus:** Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -90,7 +90,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial handels tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Handels: Tatbestandsmerkmale, Beweisfragen und Beleglage / handels tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -126,7 +126,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-handelsvertreterausgleich-international-schnittstellen`
 
-**Fokus:** Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen
 
@@ -140,7 +140,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen / spezial handelsvertreterausgleich international schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Handelsvertreterausgleich: Internationaler Bezug und Schnittstellen / handelsvertreterausgleich international schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: brand-enforcement-brand-markenportfolio
-description: "Nutze dies, wenn Brand Enforcement Abmahnung, Brand Und Markenportfolio im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Brand Enforcement Abmahnung, Brand Und Markenportfolio prüfen.; Erstelle eine Arbeitsfassung zu Brand Enforcement Abmahnung, Brand Und Markenportfolio.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Brand Enforcement Abmahnung, Brand Und Markenportfolio: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Brand Enforcement Abmahnung, Brand Und Markenportfolio
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Brand Enforcement Abmahnung, Brand Und Markenportfolio** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

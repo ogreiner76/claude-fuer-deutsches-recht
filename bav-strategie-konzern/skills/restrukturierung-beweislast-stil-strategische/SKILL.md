@@ -1,13 +1,13 @@
 ---
 name: restrukturierung-beweislast-stil-strategische
-description: "Nutze dies, wenn Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Restrukturierung Beweislast Und Darlegungslast, Stil Abschlussprodukt Und Uebergabe, Strategische Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel
+# Restrukturierung Beweislast Und Darlegungslast, Stil Abschlussprodukt Und Übergabe, Strategische Erstpruefung Und Mandatsziel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Restrukturierung Beweislast Und Darlegungslast, Stil Abschlussprodukt Und Übergabe, Strategische Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Abschlussprodukt Und Übergabe, Spezial Strategische Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Restrukturierung Beweislast Und Darlegungslast, Stil Abschlussprodukt Und Übergabe, Strategische Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Restrukturierung Beweislast Und Darlegungslast, Spezial Stil Absc
 # Restrukturierung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Restrukturierung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Restrukturierung: Beweislast, Darlegungslast und Substantiierung / spezial restrukturierung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Restrukturierung: Beweislast, Darlegungslast und Substantiierung / restrukturierung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -107,7 +107,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Stil: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Stil: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Stil: Abschlussprodukt und Übergabe / spezial stil abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Stil: Abschlussprodukt und Übergabe / stil abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -148,7 +148,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Strategische: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Strategische: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Strategische: Erstprüfung, Rollenklärung und Mandatsziel / spezial strategische erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Strategische: Erstprüfung, Rollenklärung und Mandatsziel / strategische erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

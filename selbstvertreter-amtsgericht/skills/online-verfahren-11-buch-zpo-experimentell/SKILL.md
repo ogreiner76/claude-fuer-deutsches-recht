@@ -1,6 +1,6 @@
 ---
 name: online-verfahren-11-buch-zpo-experimentell
-description: "Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Workflow Teilnahme."
+description: "Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Teilnahme."
 ---
 
 # Online-Verfahren — das neue digitale Zivilverfahren
@@ -38,14 +38,14 @@ Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die 
 
 ## Was unterscheidet das Online-Verfahren vom normalen Verfahren?
 
-| Merkmal               | Normales Verfahren                       | Online-Verfahren                                        |
+| Merkmal | Normales Verfahren | Online-Verfahren |
 |-----------------------|------------------------------------------|---------------------------------------------------------|
-| Klage einreichen      | Papier oder MJP oder § 130a ZPO          | Strukturierte Eingabe-Maske auf der Plattform           |
-| Klageschrift          | Freier Text in Word/PDF                  | Vorgegebene Felder (Antrag, Sachverhalt, Beweise)       |
-| Schriftverkehr        | E-Mail, Post, MJP                        | Plattform-internes Postfach                             |
-| Termin                | Im Gerichtssaal                          | Video-Konferenz auf der Plattform                       |
-| Urteil                | Schriftlich per Post                     | Im Plattform-Postfach                                   |
-| Akteneinsicht         | Geschaeftsstelle, Anwalt                 | Plattform jederzeit                                     |
+| Klage einreichen | Papier oder MJP oder § 130a ZPO | Strukturierte Eingabe-Maske auf der Plattform |
+| Klageschrift | Freier Text in Word/PDF | Vorgegebene Felder (Antrag, Sachverhalt, Beweise) |
+| Schriftverkehr | E-Mail, Post, MJP | Plattform-internes Postfach |
+| Termin | Im Gerichtssaal | Video-Konferenz auf der Plattform |
+| Urteil | Schriftlich per Post | Im Plattform-Postfach |
+| Akteneinsicht | Geschaeftsstelle, Anwalt | Plattform jederzeit |
 
 ## Vorteile
 

@@ -1,13 +1,13 @@
 ---
 name: staatsanwalt-rolle-staatsanwaltschaft
-description: "Nutze dies, wenn Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen prüfen.; Erstelle eine Arbeitsfassung zu Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Uebergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Übergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen, Strafbefehl Tagessaetze Und Nebenfolgen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -93,7 +93,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 Nutze diesen Skill, wenn eine Akte übernommen, vertreten oder kurzfristig im Sitzungsdienst weitergeführt werden muss. Ziel ist eine Übergabe, die nicht nur erzählt, sondern sofort handlungsfähig macht.
 
-## Kaltstart
+## Einstieg
 
 1. Aktenzeichen, Dezernat, Vertretungslage und Eilfristen feststellen.
 2. Haft, Verjährung, Rechtsmittelfristen, Wiedervorlagen und offene richterliche Beschlüsse markieren.
@@ -135,7 +135,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** wiederholte Nachstellung, digitale Kontakte, Schutzanordnung und Beweisprotokoll
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -234,7 +234,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** §§ 407 ff. StPO, Geldstrafe, Fahrverbot, Einziehung und Verteidigerreaktion
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

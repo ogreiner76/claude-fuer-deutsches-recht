@@ -1,20 +1,20 @@
 ---
 name: klauselgenerator-formvorbehalt-maklervertrag
-description: "Nutze dies, wenn Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt, Maklervertrag Paragraph 656A Bgb Textform Bgh I Zr 202 25, Amtlicher Formkern Bgb Zpo Check im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Bitte Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt, Maklervertrag Paragraph 656A Bgb Textform Bgh I Zr 202 25, Amtlicher Formkern Bgb Zpo Check prüfen.; Erstelle eine Arbeitsfassung zu Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt, Maklervertrag Paragraph 656A Bgb Textform Bgh I Zr 202 25, Amtlicher Formkern Bgb Zpo Check.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt, Maklervertrag Paragraph 656a Bgb Textform Bgh I Zr 202 25, Amtlicher Formkern Bgb Zpo Check: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt, Maklervertrag Paragraph 656A Bgb Textform Bgh I Zr 202 25, Amtlicher Formkern Bgb Zpo Check
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt, Maklervertrag Paragraph 656A Bgb Textform Bgh I Zr 202 25, Amtlicher Formkern Bgb Zpo Check** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt` | Workflow-Skill zu klauselgenerator formvorbehalt und aenderungsvorbehalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25` | Workflow-Skill zu Maklervertrag, § 656a BGB und Textform. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; behauptete Rechtsprechung zu I ZR 202/25 nie ohne Live-Pruefung zitieren. |
+| `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt` | Arbeitsmodul zu klauselgenerator formvorbehalt und aenderungsvorbehalt: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25` | Arbeitsmodul zu Maklervertrag, § 656a BGB und Textform. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; behauptete Rechtsprechung zu I ZR 202/25 nie ohne Live-Pruefung zitieren. |
 | `amtlicher-formkern-bgb-zpo-check` | Amtlicher Formkern-Check für BGB und ZPO: trennt Schriftform, Textform, elektronische Form, qES, beA/EGVP, § 130e ZPO, Zustellung, Zugang und Beweiskraft elektronischer Dokumente. |
 
 ## Arbeitsweg
@@ -26,7 +26,7 @@ Für **Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt, Maklervertrag Par
 
 ## 1. `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt`
 
-**Fokus:** Workflow-Skill zu klauselgenerator formvorbehalt und aenderungsvorbehalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu klauselgenerator formvorbehalt und aenderungsvorbehalt: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Klauselgenerator — Formvorbehalt und Änderungsvorbehalt
 
@@ -176,7 +176,7 @@ benennen.
 
 ## 2. `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25`
 
-**Fokus:** Workflow-Skill zu Maklervertrag, § 656a BGB und Textform. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; behauptete Rechtsprechung zu I ZR 202/25 nie ohne Live-Pruefung zitieren.
+**Fokus:** Arbeitsmodul zu Maklervertrag, § 656a BGB und Textform. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; behauptete Rechtsprechung zu I ZR 202/25 nie ohne Live-Pruefung zitieren.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -234,39 +234,39 @@ Ein Provisionshinweis unterhalb der Grußformel, in einer Standardsignatur oder 
 
 ```
 □ Maklervertrag über Kauf/Verkauf einer Wohnung oder eines Einfamilienhauses?
-   → § 656a BGB: Textform zwingend erforderlich
+ → § 656a BGB: Textform zwingend erforderlich
 
 □ Textformtraeger vorhanden?
-   → E-Mail / PDF / WhatsApp / SMS / Brief moeglich
-   → Lesbar auf dauerhaftem Datentraeger
+ → E-Mail / PDF / WhatsApp / SMS / Brief moeglich
+ → Lesbar auf dauerhaftem Datentraeger
 
 □ Person des Erklaerenden erkennbar?
-   → Absender-Adresse, Name, Briefkopf
+ → Absender-Adresse, Name, Briefkopf
 
 □ ABSCHLUSS DER ERKLAERUNG ERKENNBAR? (Kernpunkt)
-   → Provisionshinweis VOR Grussformel und Namensangabe?
-   → Oder: Bezugnahme auf Hinweis im Haupttext?
-   → NICHT genuegend: Provisionshinweis im Footer / unter der Grussformel
-     ohne Bezug aus dem Haupttext
+ → Provisionshinweis VOR Grussformel und Namensangabe?
+ → Oder: Bezugnahme auf Hinweis im Haupttext?
+ → NICHT genuegend: Provisionshinweis im Footer / unter der Grussformel
+ ohne Bezug aus dem Haupttext
 
 □ Wesentliche Bestandteile bestimmbar?
-   → Parteien des Maklervertrags
-   → Hoehe der Provision (Prozentsatz oder Betrag)
-   → Gegenstand des in Aussicht genommenen Hauptvertrags (Immobilie)
-   → Ggf. Rueckgriff auf Umstaende ausserhalb der Erklaerung zulaessig,
-     wenn zureichender Anhaltspunkt in der Urkunde
+ → Parteien des Maklervertrags
+ → Hoehe der Provision (Prozentsatz oder Betrag)
+ → Gegenstand des in Aussicht genommenen Hauptvertrags (Immobilie)
+ → Ggf. Rueckgriff auf Umstaende ausserhalb der Erklaerung zulaessig,
+ wenn zureichender Anhaltspunkt in der Urkunde
 
 □ Angebot und Annahme:
-   → Koennen auf getrennten E-Mails stehen, wenn beide Erklaerungen die Textform wahren
-   → Konkludente Annahme nur vorsichtig bejahen und mit verifizierter Rechtsprechung absichern
+ → Koennen auf getrennten E-Mails stehen, wenn beide Erklaerungen die Textform wahren
+ → Konkludente Annahme nur vorsichtig bejahen und mit verifizierter Rechtsprechung absichern
 
 □ Archivierung gesichert?
-   → Beide Seiten sollten E-Mails und Anhaenge dauerhaft sichern
+ → Beide Seiten sollten E-Mails und Anhaenge dauerhaft sichern
 
 □ Bei Formverstoss:
-   → Maklervertrag nichtig (Paragraph 125 BGB)
-   → Wertersatz-/Bereicherungsanspruch des Maklers am Schutzzweck des § 656a BGB pruefen
-   → Bereits gezahlte Provision kann der Kaeufer zurueckfordern
+ → Maklervertrag nichtig (Paragraph 125 BGB)
+ → Wertersatz-/Bereicherungsanspruch des Maklers am Schutzzweck des § 656a BGB pruefen
+ → Bereits gezahlte Provision kann der Kaeufer zurueckfordern
 ```
 
 ### Pruefung von E-Mails auf Textform-Wirksamkeit
@@ -335,15 +335,15 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Textform ist z. B. gewahrt durch:
 - E-Mail-Austausch (Angebot des Maklers + Ihre Bestaetigung), wenn
-  der Provisionshinweis im Haupttext steht
+ der Provisionshinweis im Haupttext steht
 - Schriftlicher Auftrag auf Papier
 - WhatsApp-Nachrichtenfolge, wenn dauerhaft gespeichert und
-  inhaltlich klar
+ inhaltlich klar
 
 Textform ist NICHT gewahrt, wenn der Provisionshinweis:
 - nur in einer Signatur oder im Footer der E-Mail steht
 - unter der Grussformel angefuegt ist, ohne dass der Haupttext
-  darauf Bezug nimmt
+ darauf Bezug nimmt
 - nur muendlich (Telefon, persoenlich) genannt wurde
 
 Wenn Sie bereits gezahlt haben und Zweifel bestehen, kann eine
@@ -360,22 +360,22 @@ ist bei Maklertaetigkeit fuer Wohnungen und Einfamilienhaeuser
 unbedingt zu beachten:
 
 1. Provisionshinweis MUSS im Haupttext der E-Mail stehen — nicht
-   unter der Grussformel, nicht im Footer, nicht in der Signatur.
-   Sonst ist die Textform fuer den Hinweis NICHT gewahrt.
+ unter der Grussformel, nicht im Footer, nicht in der Signatur.
+ Sonst ist die Textform fuer den Hinweis NICHT gewahrt.
 
 2. Die Erklaerung muss klar erkennbar dort enden, wo der
-   Erklaerende den Erklaerungswillen abschliesst. Alles, was unter
-   der Grussformel steht, gehoert nicht mehr zur Erklaerung — es
-   sei denn, der Haupttext nimmt ausdruecklich darauf Bezug.
+ Erklaerende den Erklaerungswillen abschliesst. Alles, was unter
+ der Grussformel steht, gehoert nicht mehr zur Erklaerung — es
+ sei denn, der Haupttext nimmt ausdruecklich darauf Bezug.
 
 3. Wesentliche Bestandteile muessen aus der Erklaerung
-   bestimmbar sein:
-   - Parteien
-   - Hoehe der Provision (Prozentsatz oder Betrag)
-   - Gegenstand des Hauptvertrags (welche Immobilie)
+ bestimmbar sein:
+ - Parteien
+ - Hoehe der Provision (Prozentsatz oder Betrag)
+ - Gegenstand des Hauptvertrags (welche Immobilie)
 
 4. Folge eines Formverstosses: kein Provisionsanspruch, auch
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Empfehlung: standardisiertes E-Mail-Template mit Provisionshinweis
 im Haupttext verwenden und durch Bestaetigung des Kaufinteressenten

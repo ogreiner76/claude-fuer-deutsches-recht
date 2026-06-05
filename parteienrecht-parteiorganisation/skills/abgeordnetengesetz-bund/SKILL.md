@@ -8,7 +8,7 @@ description: "Routet Transparenz, Zuwendungen, Spenden an Abgeordnete, Nebentät
 ## Aufgabe
 Routet Transparenz, Zuwendungen, Spenden an Abgeordnete, Nebentätigkeiten und Verhaltensregeln.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

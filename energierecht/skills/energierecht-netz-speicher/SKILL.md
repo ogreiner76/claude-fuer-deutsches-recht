@@ -1,13 +1,13 @@
 ---
 name: energierecht-netz-speicher
-description: "Nutze dies, wenn Energierecht Kommandocenter, Energierecht Netz Speicher Zugang, Energierecht Projektfinanzierung, Energierecht Transaktionen Dd im Plugin Energierecht konkret bearbeitet werden soll. Auslöser: Bitte Energierecht Kommandocenter, Energierecht Netz Speicher Zugang, Energierecht Projektfinanzierung, Energierecht Transaktionen Dd prüfen.; Erstelle eine Arbeitsfassung zu Energierecht Kommandocenter, Energierecht Netz Speicher Zugang, Energierecht Projektfinanzierung, Energierecht Transaktionen Dd.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Energierecht Kommandocenter, Energierecht Netz Speicher Zugang, Energierecht Projektfinanzierung, Energierecht Transaktionen Dd: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Energierecht Kommandocenter, Energierecht Netz Speicher Zugang, Energierecht Projektfinanzierung, Energierecht Transaktionen Dd
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Energierecht Kommandocenter, Energierecht Netz Speicher Zugang, Energierecht Projektfinanzierung, Energierecht Transaktionen Dd** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Energierecht Kommandocenter, Energierecht Netz Speicher Zugang, Energiere
 
 ## Zweck
 
-Der Erst-Skill jedes Energiemandats. Sortiert den Eingang nach Mandanten-Rolle und Sachgebiet, identifiziert kritische Fristen, schickt den Fall in den passenden Spezial-Skill.
+Der Erst-Skill jedes Energiemandats. Sortiert den Eingang nach Mandanten-Rolle und Sachgebiet, identifiziert kritische Fristen, schickt den Fall in den passenden Fachmodul.
 
 ## Eingaben
 

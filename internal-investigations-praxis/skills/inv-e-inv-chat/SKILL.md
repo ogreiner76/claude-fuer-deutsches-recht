@@ -1,13 +1,13 @@
 ---
 name: inv-e-inv-chat
-description: "Nutze dies, wenn Inv 016 E Mail Review, Inv 017 Chat Review im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 016 E Mail Review, Inv 017 Chat Review prüfen.; Erstelle eine Arbeitsfassung zu Inv 016 E Mail Review, Inv 017 Chat Review.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Inv 016 E Mail Review, Inv 017 Chat Review: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Inv 016 E Mail Review, Inv 017 Chat Review
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Inv 016 E Mail Review, Inv 017 Chat Review** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -56,7 +56,7 @@ Dieser Skill steuert den E-Mail-Review von der Planung bis zur Produktion: Keywo
 - TAR/Predictive Coding: Machine-Learning-Klassifizierung von relevanten vs. nicht-relevanten Dokumenten.
 - Seed-Set-Qualität: manuell überprüfte Beispieldokumente für das Training des Modells.
 - Validation: Statistische Prüfung der Recall- und Precision-Werte (95 % Konfidenzintervall standard).
-- Transparenz: TAR-Workflow für US-Discovery dokumentierbar; Gegenseite kann Methodik anfechten.
+- Transparenz: TAR-für US-Discovery dokumentierbar; Gegenseite kann Methodik anfechten.
 
 ### 4. Privilege-Screening
 - Alle Dokumente mit Anwaltskommunikation (To/From Anwalt, „privileged", „attorney-client") separat sichern.

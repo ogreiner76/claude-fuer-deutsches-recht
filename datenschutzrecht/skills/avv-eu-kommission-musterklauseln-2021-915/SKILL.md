@@ -25,32 +25,32 @@ Anwendung und Aufbau der EU-Kommissions-Standardvertragsklauseln zwischen Verant
 ## Ablauf / Checkliste
 
 1. **Abgrenzung pruefen.**
-   - Beschluss (EU) 2021/915 = AVV Verantwortlicher zu Auftragsverarbeiter im EWR-Binnenkontext.
-   - Beschluss (EU) 2021/914 = Drittlandtransfer-SCC (vier Module: C2C, C2P, P2P, P2C); in Kraft seit 27.06.2021.
-   - Beide koennen nebeneinander verwendet werden, wenn Auftragsverarbeiter im Drittland sitzt.
+ - Beschluss (EU) 2021/915 = AVV Verantwortlicher zu Auftragsverarbeiter im EWR-Binnenkontext.
+ - Beschluss (EU) 2021/914 = Drittlandtransfer-SCC (vier Module: C2C, C2P, P2P, P2C); in Kraft seit 27.06.2021.
+ - Beide koennen nebeneinander verwendet werden, wenn Auftragsverarbeiter im Drittland sitzt.
 
 2. **Struktur des Beschluss (EU) 2021/915.**
-   - Klausel 1 Zweck und Anwendungsbereich.
-   - Klausel 2 Unveraenderlichkeit (Klauseln nicht abaendern, aber ergaenzen).
-   - Klausel 3 Auslegung.
-   - Klausel 4 Hierarchie (Vorrang vor anderen vertraglichen Bestimmungen).
-   - Klausel 5 Verarbeitungstaetigkeiten (Anhang I).
-   - Klausel 6 Beschreibung der Verarbeitung (Anhang I).
-   - Klausel 7 Pflichten der Parteien (Art. 28 Abs. 3 lit. a bis h DSGVO).
-   - Klausel 8 Sub-Auftragsverarbeiter (Anhang IV).
-   - Klausel 9 Internationale Datenuebermittlung (Verweis auf SCC Beschluss (EU) 2021/914).
-   - Klausel 10 Unterstuetzung des Verantwortlichen.
-   - Klausel 11 Beendigung.
-   - Anhang II TOM, Anhang III Liste Sub-AV, Anhang IV Liste der Verarbeitungstaetigkeiten.
+ - Klausel 1 Zweck und Anwendungsbereich.
+ - Klausel 2 Unveraenderlichkeit (Klauseln nicht abaendern, aber ergaenzen).
+ - Klausel 3 Auslegung.
+ - Klausel 4 Hierarchie (Vorrang vor anderen vertraglichen Bestimmungen).
+ - Klausel 5 Verarbeitungstaetigkeiten (Anhang I).
+ - Klausel 6 Beschreibung der Verarbeitung (Anhang I).
+ - Klausel 7 Pflichten der Parteien (Art. 28 Abs. 3 lit. a bis h DSGVO).
+ - Klausel 8 Sub-Auftragsverarbeiter (Anhang IV).
+ - Klausel 9 Internationale Datenuebermittlung (Verweis auf SCC Beschluss (EU) 2021/914).
+ - Klausel 10 Unterstuetzung des Verantwortlichen.
+ - Klausel 11 Beendigung.
+ - Anhang II TOM, Anhang III Liste Sub-AV, Anhang IV Liste der Verarbeitungstaetigkeiten.
 
 3. **Auswahl und Ausfuellung.**
-   - Klauseln 1 bis 11 unveraendert uebernehmen.
-   - Anhaenge konkret befuellen: keine Pauschalformulierungen.
-   - Bei Konzern-/Multi-Party-Konstellationen ggf. Beitrittsmechanik (Docking Clause analog Beschluss 2021/914).
+ - Klauseln 1 bis 11 unveraendert uebernehmen.
+ - Anhaenge konkret befuellen: keine Pauschalformulierungen.
+ - Bei Konzern-/Multi-Party-Konstellationen ggf. Beitrittsmechanik (Docking Clause analog Beschluss 2021/914).
 
 4. **Begrenzung.**
-   - Die Klauseln decken Art. 28 DSGVO ab, nicht Art. 26 (Joint Control) und nicht Art. 13/14 (Informationspflichten).
-   - Sie ersetzen keine Drittland-SCC; wenn Daten aus dem EWR herausfliessen, muessen zusaetzlich die SCC nach Beschluss (EU) 2021/914 abgeschlossen werden.
+ - Die Klauseln decken Art. 28 DSGVO ab, nicht Art. 26 (Joint Control) und nicht Art. 13/14 (Informationspflichten).
+ - Sie ersetzen keine Drittland-SCC; wenn Daten aus dem EWR herausfliessen, muessen zusaetzlich die SCC nach Beschluss (EU) 2021/914 abgeschlossen werden.
 
 ## Mustertext / Template
 

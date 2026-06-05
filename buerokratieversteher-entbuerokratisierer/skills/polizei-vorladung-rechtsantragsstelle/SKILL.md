@@ -1,13 +1,13 @@
 ---
 name: polizei-vorladung-rechtsantragsstelle
-description: "Nutze dies, wenn Polizei Vorladung Zeuge, Rechtsantragsstelle, Rentenversicherung, Rolle Erkennen im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Polizei Vorladung Zeuge, Rechtsantragsstelle, Rentenversicherung, Rolle Erkennen prüfen.; Erstelle eine Arbeitsfassung zu Polizei Vorladung Zeuge, Rechtsantragsstelle, Rentenversicherung, Rolle Erkennen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Polizei Vorladung Zeuge, Rechtsantragsstelle, Rentenversicherung, Rolle Erkennen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Polizei Vorladung Zeuge, Rechtsantragsstelle, Rentenversicherung, Rolle Erkennen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Polizei Vorladung Zeuge, Rechtsantragsstelle, Rentenversicherung, Rolle Erkennen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Polizei Vorladung Zeuge, Rechtsantragsstelle, Rentenversicherung, Rolle E
 ## Aufgabe
 Erklärt, wer geladen hat, ob Erscheinen Pflicht ist, was Aussage bedeutet und wann Beratung vor Aussage sinnvoll ist.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt, wann Rechtsantragsstelle helfen kann, was sie nicht leistet, welche Unterlagen mitzunehmen sind.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Rentenbescheid, Erwerbsminderung, Reha vor Rente, Versicherungsverlauf, Widerspruch und Gutachten.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Klären, ob jemand Antragsteller, Adressat, Zeuge, Beschuldigter, Betroffener, Beteiligter, Elternteil, Sorgeberechtigter, Bevollmächtigter oder nur Auskunftsperson ist.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

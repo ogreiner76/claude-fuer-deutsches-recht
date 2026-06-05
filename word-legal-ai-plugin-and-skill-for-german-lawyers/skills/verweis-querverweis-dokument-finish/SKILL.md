@@ -1,13 +1,13 @@
 ---
 name: verweis-querverweis-dokument-finish
-description: "Nutze dies, wenn Verweis Und Querverweis Technik, Word Dokument Finish Und Layout im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Verweis Und Querverweis Technik, Word Dokument Finish Und Layout: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verweis Und Querverweis Technik, Word Dokument Finish Und Layout
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verweis Und Querverweis Technik, Word Dokument Finish Und Layout** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -69,7 +69,7 @@ Dieser Skill liefert die Verweistechnik: interne Verweise auf Klauseln und Anlag
 
 - Gesetz: "§ 433 Abs. 1 Satz 1 BGB"
 - EU-Recht: "Art. 6 Abs. 1 lit. f DSGVO"
-- Rspr.: "BGH, Urt. v. TT.MM.JJJJ - Az. ... , [freie Quelle] Rn. ..."
+- Rspr.: "BGH, Urt. v. TT.MM.JJJJ - Az. ..., [freie Quelle] Rn. ..."
 - Mehrere Normen: "§§ 280 Abs. 1, 281 Abs. 1 und Abs. 2 BGB"
 
 Externe Rspr.- und Literaturverweise nur, wenn verifiziert. Siehe `references/zitierweise.md`.
@@ -179,9 +179,9 @@ zur Geheimhaltung.
 ```
 § 7 Haftung
 (1) Der Lieferant haftet nach Massgabe dieses § 7 in Verbindung mit
-    § 6 (Maengelhaftung).
+ § 6 (Maengelhaftung).
 (2) Die Haftung fuer Geheimhaltungsverstoesse richtet sich nach § 8
-    (Geheimhaltung) und Anlage 8 (Geheimhaltungsregeln).
+ (Geheimhaltung) und Anlage 8 (Geheimhaltungsregeln).
 (3) Im Uebrigen ist die Haftung ausgeschlossen.
 ```
 

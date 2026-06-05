@@ -1,39 +1,39 @@
 ---
 name: weg-restaurant-geruch-sondereigentum
-description: "Nutze dies, wenn Spezial Weg Restaurant Geruch Laerm, Spezial Weg Sondereigentum Gemeinschaftseigentum, Spezial Weg Sondernutzungsrecht, Spezial Weg Sonderumlage, Spezial Weg Tauben Schaedlinge und 5 weitere Themen im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Weg Restaurant Geruch Laerm, Spezial Weg Sondereigentum Gemeinschaftseigentum, Spezial Weg Sondernutzungsrecht, Spezial Weg Sonderumlage, Spezial Weg Tauben Schaedlinge und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Weg Restaurant Geruch Laerm, Spezial Weg Sondereigentum Gemeinschaftseigentum, Spezial Weg Sondernutzungsrecht, Spezial Weg Sonderumlage, Spezial Weg Tauben Schaedlinge und 5 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinschaftseigentum, Weg Sondernutzungsrecht, Weg Sonderumlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Weg Restaurant Geruch Laerm, Spezial Weg Sondereigentum Gemeinschaftseigentum, Spezial Weg Sondernutzungsrecht, Spezial Weg Sonderumlage, Spezial Weg Tauben Schaedlinge und 5 weitere Themen
+# Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinschaftseigentum, Weg Sondernutzungsrecht, Weg Sonderumlage, Weg Tauben Schaedlinge und 5 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinschaftseigentum, Weg Sondernutzungsrecht, Weg Sonderumlage, Weg Tauben Schaedlinge und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-weg-restaurant-geruch-laerm` | Restaurant/Geruch/Lärm in Anlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-sondereigentum-gemeinschaftseigentum` | Sondereigentum/Gemeinschaftseigentum: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-sondernutzungsrecht` | Sondernutzungsrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-sonderumlage` | WEG Sonderumlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anlass, Höhe, Verteilung, Fälligkeit, Anfechtungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-tauben-schaedlinge` | Tauben/Schädlinge: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-teilnahme-online-hybrid` | Online-/Hybridversammlung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beschlussgrundlage, Zugang, Identität, Protokoll, Technikrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-umlaufbeschluss` | Umlaufbeschluss: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Textform, Mehrheit, Umlauffrist, Dokumentation, Anfechtung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-unterlassungsklage` | WEG Unterlassungsklage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-vermietete-eigentumswohnung` | Vermietete Eigentumswohnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schnittstelle Mieter/Eigentümer/Gemeinschaft, Umlage, Duldung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-versicherungsfall` | WEG Versicherungsfall: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schadenmeldung, Selbstbehalt, Regress, Mietausfall, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-restaurant-geruch-laerm` | Restaurant/Geruch/Lärm in Anlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-sondereigentum-gemeinschaftseigentum` | Sondereigentum/Gemeinschaftseigentum: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-sondernutzungsrecht` | Sondernutzungsrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-sonderumlage` | WEG Sonderumlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anlass, Höhe, Verteilung, Fälligkeit, Anfechtungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-tauben-schaedlinge` | Tauben/Schädlinge: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-teilnahme-online-hybrid` | Online-/Hybridversammlung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beschlussgrundlage, Zugang, Identität, Protokoll, Technikrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-umlaufbeschluss` | Umlaufbeschluss: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Textform, Mehrheit, Umlauffrist, Dokumentation, Anfechtung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-unterlassungsklage` | WEG Unterlassungsklage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-vermietete-eigentumswohnung` | Vermietete Eigentumswohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schnittstelle Mieter/Eigentümer/Gemeinschaft, Umlage, Duldung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-versicherungsfall` | WEG Versicherungsfall: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schadenmeldung, Selbstbehalt, Regress, Mietausfall, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Weg Restaurant Geruch Laerm, Spezial Weg Sondereigentum Gemeinschaftseigentum, Spezial Weg Sondernutzungsrecht, Spezial Weg Sonderumlage, Spezial Weg Tauben Schaedlinge und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinschaftseigentum, Weg Sondernutzungsrecht, Weg Sonderumlage, Weg Tauben Schaedlinge und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-weg-restaurant-geruch-laerm`
 
-**Fokus:** Restaurant/Geruch/Lärm in Anlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Restaurant/Geruch/Lärm in Anlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Restaurant/Geruch/Lärm in Anlage
 
@@ -47,9 +47,9 @@ Für **Spezial Weg Restaurant Geruch Laerm, Spezial Weg Sondereigentum Gemeinsch
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -78,7 +78,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-weg-sondereigentum-gemeinschaftseigentum`
 
-**Fokus:** Sondereigentum/Gemeinschaftseigentum: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Sondereigentum/Gemeinschaftseigentum: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Sondereigentum/Gemeinschaftseigentum
 
@@ -92,9 +92,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -123,7 +123,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-weg-sondernutzungsrecht`
 
-**Fokus:** Sondernutzungsrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Sondernutzungsrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Sondernutzungsrecht
 
@@ -137,9 +137,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -168,7 +168,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-weg-sonderumlage`
 
-**Fokus:** WEG Sonderumlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anlass, Höhe, Verteilung, Fälligkeit, Anfechtungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Sonderumlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anlass, Höhe, Verteilung, Fälligkeit, Anfechtungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Sonderumlage
 
@@ -182,9 +182,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Anlass, Höhe, Verteilung, Fälligkeit, Anfechtungsrisiko.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Anlass, Höhe, Verteilung, Fälligkeit, Anfechtungsrisiko.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -213,7 +213,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-weg-tauben-schaedlinge`
 
-**Fokus:** Tauben/Schädlinge: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Tauben/Schädlinge: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Tauben/Schädlinge
 
@@ -227,9 +227,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -258,7 +258,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 6. `spezial-weg-teilnahme-online-hybrid`
 
-**Fokus:** Online-/Hybridversammlung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beschlussgrundlage, Zugang, Identität, Protokoll, Technikrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Online-/Hybridversammlung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beschlussgrundlage, Zugang, Identität, Protokoll, Technikrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Online-/Hybridversammlung
 
@@ -272,9 +272,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Beschlussgrundlage, Zugang, Identität, Protokoll, Technikrisiko.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Beschlussgrundlage, Zugang, Identität, Protokoll, Technikrisiko.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -303,7 +303,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 7. `spezial-weg-umlaufbeschluss`
 
-**Fokus:** Umlaufbeschluss: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Textform, Mehrheit, Umlauffrist, Dokumentation, Anfechtung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Umlaufbeschluss: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Textform, Mehrheit, Umlauffrist, Dokumentation, Anfechtung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Umlaufbeschluss
 
@@ -317,9 +317,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Textform, Mehrheit, Umlauffrist, Dokumentation, Anfechtung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Textform, Mehrheit, Umlauffrist, Dokumentation, Anfechtung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -348,7 +348,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 8. `spezial-weg-unterlassungsklage`
 
-**Fokus:** WEG Unterlassungsklage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Unterlassungsklage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Unterlassungsklage
 
@@ -362,9 +362,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -393,7 +393,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 9. `spezial-weg-vermietete-eigentumswohnung`
 
-**Fokus:** Vermietete Eigentumswohnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schnittstelle Mieter/Eigentümer/Gemeinschaft, Umlage, Duldung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Vermietete Eigentumswohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schnittstelle Mieter/Eigentümer/Gemeinschaft, Umlage, Duldung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Vermietete Eigentumswohnung
 
@@ -407,9 +407,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Schnittstelle Mieter/Eigentümer/Gemeinschaft, Umlage, Duldung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Schnittstelle Mieter/Eigentümer/Gemeinschaft, Umlage, Duldung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -438,7 +438,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 10. `spezial-weg-versicherungsfall`
 
-**Fokus:** WEG Versicherungsfall: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schadenmeldung, Selbstbehalt, Regress, Mietausfall, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Versicherungsfall: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schadenmeldung, Selbstbehalt, Regress, Mietausfall, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Versicherungsfall
 
@@ -452,9 +452,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Schadenmeldung, Selbstbehalt, Regress, Mietausfall, Beschluss.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Schadenmeldung, Selbstbehalt, Regress, Mietausfall, Beschluss.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

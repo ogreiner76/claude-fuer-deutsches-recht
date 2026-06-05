@@ -1,13 +1,13 @@
 ---
 name: faevvollzug-gegnerische-grenzueberschreitende
-description: "Nutze dies, wenn Faevvollzug Neu 005 Gegnerische Schutzschrift Auswerten, Faevvollzug Neu 007 Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Neu 008 Qualitaetsgate Vor Vollziehung im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Faevvollzug Neu 005 Gegnerische Schutzschrift Auswerten, Faevvollzug Neu 007 Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Neu 008 Qualitaetsgate Vor Vollziehung prüfen.; Erstelle eine Arbeitsfassung zu Faevvollzug Neu 005 Gegnerische Schutzschrift Auswerten, Faevvollzug Neu 007 Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Neu 008 Qualitaetsgate Vor Vollziehung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Faevvollzug Gegnerische Schutzschrift Auswerten, Faevvollzug Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Qualitaetsgate Vor Vollziehung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Faevvollzug Neu 005 Gegnerische Schutzschrift Auswerten, Faevvollzug Neu 007 Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Neu 008 Qualitaetsgate Vor Vollziehung
+# Faevvollzug Gegnerische Schutzschrift Auswerten, Faevvollzug Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Qualitaetsgate Vor Vollziehung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Faevvollzug Gegnerische Schutzschrift Auswerten, Faevvollzug Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Qualitaetsgate Vor Vollziehung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Faevvollzug Neu 005 Gegnerische Schutzschrift Auswerten, Faevvollzug Neu 007 Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Neu 008 Qualitaetsgate Vor Vollziehung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Faevvollzug Gegnerische Schutzschrift Auswerten, Faevvollzug Grenzueberschreitende Ip Eilverfuegung, Faevvollzug Qualitaetsgate Vor Vollziehung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -75,19 +75,19 @@ Eine gegnerische Schutzschrift greift regelmäßig an:
 | Starke Schutzschrift mit echten Schwächen | Strategie überdenken: Abschlussschreiben vs. Widerspruchsverhandlung |
 | Dringlichkeitsargument überzeugend | Kenntnisdatum präzise darlegen; eigene eidesstattliche Versicherung |
 
-## Workflow Reaktion auf Schutzschrift
+## Reaktion auf Schutzschrift
 
 ```
 Schutzschrift auswerten
-       ↓
+ ↓
 Angriffspunkte kategorisieren (prozessual / materiell / Dringlichkeit)
-       ↓
+ ↓
 Für jeden Punkt: Gegenbeweis / Gegenargument formulieren
-       ↓
+ ↓
 Entscheidung: EV-Antrag aufrechterhalten, anpassen oder zurücknehmen?
-       ↓
+ ↓
 Erwidernden Schriftsatz oder Anlage zum EV-Antrag vorbereiten
-       ↓
+ ↓
 ggf. mündliche Verhandlung nach Widerspruch (§ 925 ZPO) vorbereiten
 ```
 
@@ -103,7 +103,7 @@ ggf. mündliche Verhandlung nach Widerspruch (§ 925 ZPO) vorbereiten
 | Strategie festgelegt (EV aufrechterhalten / anpassen) | ☐ |
 | Erwidernder Schriftsatz in Entwurf | ☐ |
 
-## Kaltstart
+## Einstieg
 1. Liegt die Schutzschrift im Volltext vor? (Einreichung über ZSSR oder direkt an Gericht?)
 2. Welche konkreten Angriffspunkte enthält sie?
 3. Hat das Gericht die Schutzschrift bereits berücksichtigt (EV erlassen / abgelehnt)?
@@ -157,7 +157,7 @@ Dieser Skill behandelt einstweilige Verfügungen mit grenzüberschreitendem Bezu
 
 ### Patent (Einheitspatent und klassisches Patent)
 - **Einheitspatent / UPC:** Zuständigkeit des UPC (Lokale Kammer oder Zentralkammer) ab Juni 2023.
-  - Opt-out-Möglichkeit für bestehende EP-Patente läuft ab; Status prüfen.
+ - Opt-out-Möglichkeit für bestehende EP-Patente läuft ab; Status prüfen.
 - **Klassisches deutsches Patent:** BPatG (Verletzung), LG (Verletzungsklage), zuständige Kammern.
 - **EPÜ-Patent:** Verletzung nach nationalem Recht des Verletzungsortes.
 
@@ -197,7 +197,7 @@ Dieser Skill behandelt einstweilige Verfügungen mit grenzüberschreitendem Bezu
 | Verletzung in Nicht-EU-Land | Nationales Recht + ggf. TRIPs-Maßnahmen; Kooperationsanwalt lokal einschalten |
 | Online-Marktplatz (Amazon/eBay) | Brand Registry-Takedown parallel zu EV-Antrag |
 
-## Kaltstart
+## Einstieg
 1. Welches Schutzrecht ist betroffen (Unionsmarke / nat. Marke / Patent / Design)?
 2. In welchen Ländern findet die Verletzung statt?
 3. Besteht Dringlichkeit (Vollziehungsfrist, Selbstwiderlegungsrisiko)?
@@ -292,17 +292,17 @@ Wird die einstweilige Verfügung aufgehoben oder der Hauptsacheanspruch abgewies
 
 ```
 Alle MUSS-Punkte erfüllt?
-  Nein → Nicht vollziehen; Lücken schließen
-  Ja  →
-        Gegenrechte (Erschöpfung, Prior Use) ausgeschlossen?
-          Nein → Strategie neu bewerten; ggf. Abmahnung statt EV
-          Ja  →
-                § 945-Risiko vertretbar?
-                  Nein → Mandantenfreigabe einholen
-                  Ja  → Vollziehung durchführen
+ Nein → Nicht vollziehen; Lücken schließen
+ Ja →
+ Gegenrechte (Erschöpfung, Prior Use) ausgeschlossen?
+ Nein → Strategie neu bewerten; ggf. Abmahnung statt EV
+ Ja →
+ § 945-Risiko vertretbar?
+ Nein → Mandantenfreigabe einholen
+ Ja → Vollziehung durchführen
 ```
 
-## Kaltstart
+## Einstieg
 1. Liegt vollstreckbare Ausfertigung des Beschlusses vor?
 2. Ist die Dringlichkeit noch unversehrt (Kenntnisdatum, Kammer-Frist)?
 3. Schutzschrift beim ZSSR hinterlegt?

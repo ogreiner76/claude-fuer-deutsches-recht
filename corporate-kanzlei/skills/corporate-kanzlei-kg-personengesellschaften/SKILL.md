@@ -163,22 +163,22 @@ Parteien: [VERAEUSSERER] / [ERWERBER]
 Datum: [DATUM]
 
 1. GEGENSTAND
-   Der Veraeusserer uebertraegt hiermit seinen Kommanditanteil an der [FIRMA KG]
-   (HRA-Nummer: [Nr.], Amtsgericht [Ort])
-   im Nominalwert von EUR [BETRAG] an den Erwerber.
+ Der Veraeusserer uebertraegt hiermit seinen Kommanditanteil an der [FIRMA KG]
+ (HRA-Nummer: [Nr.], Amtsgericht [Ort])
+ im Nominalwert von EUR [BETRAG] an den Erwerber.
 
 2. KAUFPREIS
-   EUR [BETRAG]; zahlbar bis [DATUM].
+ EUR [BETRAG]; zahlbar bis [DATUM].
 
 3. ZUSTIMMUNGEN
-   Die uebrigen Gesellschafter haben der Abtretung am [Datum] zugestimmt.
-   [Gesellschaftsvertrag § X: Vinkulierungsklausel beachtet]
+ Die uebrigen Gesellschafter haben der Abtretung am [Datum] zugestimmt.
+ [Gesellschaftsvertrag § X: Vinkulierungsklausel beachtet]
 
 4. STEUERLICHE REGELUNGEN
-   [Buchwertfortfuehrung nach § 6 III EStG; oder § 24 UmwStG]
+ [Buchwertfortfuehrung nach § 6 III EStG; oder § 24 UmwStG]
 
 5. HANDELSREGISTERANMELDUNG
-   Der Erwerber verpflichtet sich, die Aenderung unverzueglich beim Handelsregister anzumelden.
+ Der Erwerber verpflichtet sich, die Aenderung unverzueglich beim Handelsregister anzumelden.
 ```
 
 ## Rote Schwellen

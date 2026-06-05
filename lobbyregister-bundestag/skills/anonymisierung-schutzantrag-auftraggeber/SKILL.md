@@ -1,13 +1,13 @@
 ---
 name: anonymisierung-schutzantrag-auftraggeber
-description: "Nutze dies, wenn Anonymisierung Schutzantrag, Auftraggeber Ermitteln im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte Anonymisierung Schutzantrag, Auftraggeber Ermitteln prüfen.; Erstelle eine Arbeitsfassung zu Anonymisierung Schutzantrag, Auftraggeber Ermitteln.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anonymisierung Schutzantrag, Auftraggeber Ermitteln: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anonymisierung Schutzantrag, Auftraggeber Ermitteln
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anonymisierung Schutzantrag, Auftraggeber Ermitteln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

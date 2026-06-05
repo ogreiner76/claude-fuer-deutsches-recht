@@ -1,22 +1,22 @@
 ---
 name: vc-portfolio-rechtsabteilung-data-down
-description: "Nutze dies, wenn Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update Und Insider Governance, Rechtsabteilung Down Round Und Anti Dilution, Rechtsabteilung Investor Consent Matters Ohne Organblockade im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update Und Insider Governance, Rechtsabteilung Down Round Und Anti Dilution, Rechtsabteilung Investor Consent Matters Ohne Organblockade prüfen.; Erstelle eine Arbeitsfassung zu Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update Und Insider Governance, Rechtsabteilung Down Round Und Anti Dilution, Rechtsabteilung Investor Consent Matters Ohne Organblockade.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update Und Insider Governance, Rechtsabteilung Down Round Und Anti Dilution, Rechtsabteilung Investor Consent Matters Ohne Organblockade: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update Und Insider Governance, Rechtsabteilung Down Round Und Anti Dilution, Rechtsabteilung Investor Consent Matters Ohne Organblockade
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vc 091 Portfolio Legal Calendar, Rechtsabteilung Data Room Update Und Insider Governance, Rechtsabteilung Down Round Und Anti Dilution, Rechtsabteilung Investor Consent Matters Ohne Organblockade** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-091-portfolio-legal-calendar` | Baut Kalender für Gesellschafterversammlungen, Zustimmungen, Reports, Steuer, Fristen, Optionsausübungen und Runden. |
-| `rechtsabteilung-data-room-update-und-insider-governance` | Rechtsabteilungs-Spezialskill für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-down-round-und-anti-dilution` | Rechtsabteilungs-Spezialskill für Down Round und Anti-Dilution: Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-investor-consent-matters-ohne-organblockade` | Rechtsabteilungs-Spezialskill für Investor Consent Matters ohne Organblockade: Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführung austariert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-data-room-update-und-insider-governance` | Rechtsabteilungs-Fachmodul für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-down-round-und-anti-dilution` | Rechtsabteilungs-Fachmodul für Down Round und Anti-Dilution: Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-investor-consent-matters-ohne-organblockade` | Rechtsabteilungs-Fachmodul für Investor Consent Matters ohne Organblockade: Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführung austariert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -73,7 +73,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `rechtsabteilung-data-room-update-und-insider-governance`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Data Room Update und Insider-Governance
 
@@ -113,7 +113,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-down-round-und-anti-dilution`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Down Round und Anti-Dilution: Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Down Round und Anti-Dilution: Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Down Round und Anti-Dilution
 
@@ -153,7 +153,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-investor-consent-matters-ohne-organblockade`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Investor Consent Matters ohne Organblockade: Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführung austariert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Investor Consent Matters ohne Organblockade: Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführung austariert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Investor Consent Matters ohne Organblockade
 

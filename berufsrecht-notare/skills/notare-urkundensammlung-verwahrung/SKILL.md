@@ -1,13 +1,13 @@
 ---
 name: notare-urkundensammlung-verwahrung
-description: "Nutze dies, wenn Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, Notare Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten, Notare Verschwiegenheit Und Datenraum Kaltstart Und Faktenmatri, Notare Verwahrungsanzeige Und Gnotkg Kaltstart Und Faktenmatrix, Notare Vollzugsueberwachung Grundbuch Kaltstart Und Faktenmatri im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, Notare Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten, Notare Verschwiegenheit Und Datenraum Kaltstart Und Faktenmatri, Notare Verwahrungsanzeige Und Gnotkg Kaltstart Und Faktenmatrix, Notare Vollzugsueberwachung Grundbuch Kaltstart Und Faktenmatri prüfen.; Erstelle eine Arbeitsfassung zu Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, Notare Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten, Notare Verschwiegenheit Und Datenraum Kaltstart Und Faktenmatri, Notare Verwahrungsa..."
+description: "Nutze dies bei Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, Notare Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten, Notare Verschwiegenheit Und Datenraum Kaltstart Und Faktenmatri, Notare Verwahrungsanzeige Und Gnotkg Kaltstart Und Faktenmatrix: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, Notare Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten, Notare Verschwiegenheit Und Datenraum Kaltstart Und Faktenmatri, Notare Verwahrungsanzeige Und Gnotkg Kaltstart Und Faktenmatrix, Notare Vollzugsueberwachung Grundbuch Kaltstart Und Faktenmatri
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Urkundensammlung Und Verwahrung Kaltstart Und Faktenmatr, Notare Verbraucherwiderruf Und Beurkundung Kaltstart Und Fakten, Notare Verschwiegenheit Und Datenraum Kaltstart Und Faktenmatri, Notare Verwahrungsanzeige Und Gnotkg Kaltstart Und Faktenmatrix, Notare Vollzugsueberwachung Grundbuch Kaltstart Und Faktenmatri** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

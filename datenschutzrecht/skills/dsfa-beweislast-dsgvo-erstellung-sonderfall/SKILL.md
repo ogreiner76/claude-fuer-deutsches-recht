@@ -1,13 +1,13 @@
 ---
 name: dsfa-beweislast-dsgvo-erstellung-sonderfall
-description: "Nutze dies, wenn Spezial Dsfa Beweislast Und Darlegungslast, Spezial Dsgvo Erstpruefung Und Mandatsziel, Spezial Erstellung Sonderfall Und Edge Case, Spezial Generator Red Team Und Qualitaetskontrolle, Spezial Paket Internationaler Bezug Und Schnittstellen im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Dsfa Beweislast Und Darlegungslast, Dsgvo Erstpruefung Und Mandatsziel, Erstellung Sonderfall Und Edge Case, Generator Red Team Und Qualitaetskontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Dsfa Beweislast Und Darlegungslast, Spezial Dsgvo Erstpruefung Und Mandatsziel, Spezial Erstellung Sonderfall Und Edge Case, Spezial Generator Red Team Und Qualitaetskontrolle, Spezial Paket Internationaler Bezug Und Schnittstellen
+# Dsfa Beweislast Und Darlegungslast, Dsgvo Erstpruefung Und Mandatsziel, Erstellung Sonderfall Und Edge Case, Generator Red Team Und Qualitaetskontrolle, Paket Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsfa Beweislast Und Darlegungslast, Dsgvo Erstpruefung Und Mandatsziel, Erstellung Sonderfall Und Edge Case, Generator Red Team Und Qualitaetskontrolle, Paket Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Dsfa Beweislast Und Darlegungslast, Spezial Dsgvo Erstpruefung Und Mandatsziel, Spezial Erstellung Sonderfall Und Edge Case, Spezial Generator Red Team Und Qualitaetskontrolle, Spezial Paket Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsfa Beweislast Und Darlegungslast, Dsgvo Erstpruefung Und Mandatsziel, Erstellung Sonderfall Und Edge Case, Generator Red Team Und Qualitaetskontrolle, Paket Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Dsfa Beweislast Und Darlegungslast, Spezial Dsgvo Erstpruefung Un
 # Dsfa: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Dsfa: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Dsfa: Beweislast, Darlegungslast und Substantiierung / spezial dsfa beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Dsfa: Beweislast, Darlegungslast und Substantiierung / dsfa beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -105,7 +105,7 @@ Schlanke DSFA-Templates beschleunigen die Erstellung, lassen aber bei Hochrisiko
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel / spezial dsgvo erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel / dsgvo erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -158,7 +158,7 @@ Einwilligung (Art. 6 Abs. 1 lit. a) ist klar, aber jederzeit widerrufbar (Art. 7
 # Erstellung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Erstellung: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Erstellung: Sonderfall und Edge-Case-Prüfung / spezial erstellung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Erstellung: Sonderfall und Edge-Case-Prüfung / erstellung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -182,17 +182,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## DSFA-Sonderfälle und Edge Cases
 - **DSFA-Pflicht-Trigger (Art. 35 Abs. 3 DSGVO):**
-  - Lit. a: Profiling mit Rechtswirkung oder erheblicher Beeinträchtigung.
-  - Lit. b: umfangreiche Verarbeitung besonderer Datenkategorien (Art. 9) oder strafbezogener Daten (Art. 10).
-  - Lit. c: systematische Überwachung öffentlich zugänglicher Bereiche.
+ - Lit. a: Profiling mit Rechtswirkung oder erheblicher Beeinträchtigung.
+ - Lit. b: umfangreiche Verarbeitung besonderer Datenkategorien (Art. 9) oder strafbezogener Daten (Art. 10).
+ - Lit. c: systematische Überwachung öffentlich zugänglicher Bereiche.
 - **DSK-Liste der DSFA-pflichtigen Verarbeitungen** (Anhang gemäß § 67 BDSG-Konkretisierung): KI-Profiling, Biometrie, Geo-Tracking, Beschäftigtenüberwachung in größerem Umfang.
 - **EuGH-Rechtsprechung:**
-  - C-205/21 (Ministerstvo na vatreshnite raboti): Polizei-Biometrik unterliegt strengen DSGVO-Bewertungsmaßstäben.
+ - C-205/21 (Ministerstvo na vatreshnite raboti): Polizei-Biometrik unterliegt strengen DSGVO-Bewertungsmaßstäben.
 - **Edge Cases:**
-  - **GPAI-Tools für DSFA-Erstellung:** Wenn Verantwortlicher KI-Tool nutzt, um DSFA selbst zu erstellen → Rechenschaftspflicht Art. 5 Abs. 2 nicht automatisch erfüllt; ggf. zusätzliche menschliche Überprüfung.
-  - **Mehrere ähnliche Verarbeitungen:** eine DSFA für gleichartige Verarbeitungen mit ähnlichem Risiko zulässig (Art. 35 Abs. 1 S. 2).
-  - **Konsultationspflicht Art. 36:** bei hohem Restrisiko trotz Maßnahmen — 8 Wochen Frist Aufsicht.
-  - **DSFA für KI-Hochrisiko Art. 26 KI-VO:** wenn KI-VO-Hochrisiko + DSGVO-Hochrisiko, kombinierter Bewertungsprozess möglich.
+ - **GPAI-Tools für DSFA-Erstellung:** Wenn Verantwortlicher KI-Tool nutzt, um DSFA selbst zu erstellen → Rechenschaftspflicht Art. 5 Abs. 2 nicht automatisch erfüllt; ggf. zusätzliche menschliche Überprüfung.
+ - **Mehrere ähnliche Verarbeitungen:** eine DSFA für gleichartige Verarbeitungen mit ähnlichem Risiko zulässig (Art. 35 Abs. 1 S. 2).
+ - **Konsultationspflicht Art. 36:** bei hohem Restrisiko trotz Maßnahmen — 8 Wochen Frist Aufsicht.
+ - **DSFA für KI-Hochrisiko Art. 26 KI-VO:** wenn KI-VO-Hochrisiko + DSGVO-Hochrisiko, kombinierter Bewertungsprozess möglich.
 
 ## Praxis-Tipp
 Bei Sonderfällen, in denen die Verarbeitung nicht eindeutig der DSK-Liste entspricht, lieber eine kurze DSFA-Eingangsbewertung dokumentieren (3-Punkte-Test: Risiko-Trigger, Schutzmaßnahmen, Restrisiko) als nichts zu dokumentieren. Im Audit zählt sichtbare Begründung.
@@ -216,7 +216,7 @@ Bei Sonderfällen, in denen die Verarbeitung nicht eindeutig der DSK-Liste entsp
 # Generator: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Generator: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Generator: Red-Team und Qualitätskontrolle / spezial generator red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Generator: Red-Team und Qualitätskontrolle / generator red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -257,7 +257,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Paket: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Paket: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Paket: Internationaler Bezug und Schnittstellen / spezial paket internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Paket: Internationaler Bezug und Schnittstellen / paket internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -281,13 +281,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Internationaler Bezug Datenschutz — Schnittstellen
 - **Räumlicher Anwendungsbereich DSGVO Art. 3:**
-  - Abs. 1: Verantwortlicher/Auftragsverarbeiter mit Niederlassung in EU/EWR.
-  - Abs. 2: Drittlandsanbieter, der Waren/Dienste an EU-Betroffene anbietet (lit. a) oder Verhalten in EU beobachtet (lit. b).
+ - Abs. 1: Verantwortlicher/Auftragsverarbeiter mit Niederlassung in EU/EWR.
+ - Abs. 2: Drittlandsanbieter, der Waren/Dienste an EU-Betroffene anbietet (lit. a) oder Verhalten in EU beobachtet (lit. b).
 - **Drittlandstransfer Art. 44 ff. DSGVO:**
-  - **Adäquanzbeschluss Art. 45**: aktuelle Liste auf ec.europa.eu (z. B. Schweiz, UK, Israel, Japan, Korea, Andorra, Argentinien etc.).
-  - **DPF (US-Adäquanz)**: VO 2023/1795 — nur teilnehmende US-Unternehmen (Liste dataprivacyframework.gov).
-  - **SCC** (Beschluss 2021/914): Modul 1 (C-C), 2 (C-P), 3 (P-P), 4 (P-C); + Annex II TOM + Annex III Subunternehmer + ggf. Annex I Beteiligte.
-  - **TIA (Transfer Impact Assessment)**: nach Schrems II (Rs. C-311/18) Pflicht; nach EDSA-Empfehlung 01/2020.
+ - **Adäquanzbeschluss Art. 45**: aktuelle Liste auf ec.europa.eu (z. B. Schweiz, UK, Israel, Japan, Korea, Andorra, Argentinien etc.).
+ - **DPF (US-Adäquanz)**: VO 2023/1795 — nur teilnehmende US-Unternehmen (Liste dataprivacyframework.gov).
+ - **SCC** (Beschluss 2021/914): Modul 1 (C-C), 2 (C-P), 3 (P-P), 4 (P-C); + Annex II TOM + Annex III Subunternehmer + ggf. Annex I Beteiligte.
+ - **TIA (Transfer Impact Assessment)**: nach Schrems II (Rs. C-311/18) Pflicht; nach EDSA-Empfehlung 01/2020.
 - **Behördenpaket:** Standardformulare BfDI/LDI/LDA; ggf. Auskunftsersuchen Art. 58 Abs. 1 lit. a, Anordnungen lit. d.
 - **EU/EWR-Niederlassung:** Bei Anbieter aus Drittstaat → Pflicht Vertreter Art. 27 DSGVO.
 

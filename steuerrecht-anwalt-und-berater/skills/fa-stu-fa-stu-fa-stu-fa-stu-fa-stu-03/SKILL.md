@@ -1,13 +1,13 @@
 ---
 name: fa-stu-fa-stu-fa-stu-fa-stu-fa-stu-03
-description: "Nutze dies, wenn Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit, Fa Stu Steuerhinterziehung 370 Ao und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -203,7 +203,7 @@ Ein Zuschlag nach § 398a AO wuerde - sofern einschlaegig - ebenfalls geleistet.
 
 Es wird gebeten von der Einleitung eines Strafverfahrens abzusehen.
 
-[ORT, DATUM]   [UNTERSCHRIFT RA/StB]
+[ORT, DATUM] [UNTERSCHRIFT RA/StB]
 ```
 
 ## Abgrenzung zu anderen Skills dieses Plugins

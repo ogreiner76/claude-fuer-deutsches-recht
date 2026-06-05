@@ -1,23 +1,23 @@
 ---
 name: beirat-internal-investigation-datenschutz-ki
-description: "Nutze dies, wenn Beirat Compliance Und Internal Investigation, Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Beirat Compliance Und Internal Investigation, Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg prüfen.; Erstelle eine Arbeitsfassung zu Beirat Compliance Und Internal Investigation, Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Compliance Und Internal Investigation, Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Compliance Und Internal Investigation, Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Compliance Und Internal Investigation, Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-compliance-und-internal-investigation` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-datenschutz-und-ki` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Datenschutz Und KI; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-deadlock-mechanik` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Deadlock Mechanik; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-entscheidungsbefugnisse` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-fakultativer-aufsichtsrat-52-gmbhg` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-compliance-und-internal-investigation` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-datenschutz-und-ki` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Datenschutz Und KI; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-deadlock-mechanik` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Deadlock Mechanik; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-entscheidungsbefugnisse` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-fakultativer-aufsichtsrat-52-gmbhg` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Beirat Compliance Und Internal Investigation, Beirat Datenschutz Und Ki, 
 
 ## 1. `beirat-compliance-und-internal-investigation`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Compliance Und Internal Investigation
 
@@ -94,7 +94,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-datenschutz-und-ki`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Datenschutz Und KI; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Datenschutz Und KI; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Datenschutz Und KI
 
@@ -160,7 +160,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-deadlock-mechanik`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Deadlock Mechanik; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Deadlock Mechanik; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Deadlock Mechanik
 
@@ -226,7 +226,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-entscheidungsbefugnisse`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Entscheidungsbefugnisse
 
@@ -292,7 +292,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-fakultativer-aufsichtsrat-52-gmbhg`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Fakultativer Aufsichtsrat 52 Gmbhg
 

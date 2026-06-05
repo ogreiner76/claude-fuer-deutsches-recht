@@ -1,13 +1,13 @@
 ---
 name: klageschrift-pflichtbestandteile
-description: "Nutze dies, wenn Klageschrift Pflichtbestandteile 253 Zpo, Klageschrift Tatsachenvortrag Strukturieren, Kostenfestsetzung 103 104 Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Klageschrift Pflichtbestandteile 253 Zpo, Klageschrift Tatsachenvortrag Strukturieren, Kostenfestsetzung 103 104 Zpo prüfen.; Erstelle eine Arbeitsfassung zu Klageschrift Pflichtbestandteile 253 Zpo, Klageschrift Tatsachenvortrag Strukturieren, Kostenfestsetzung 103 104 Zpo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klageschrift Pflichtbestandteile 253 Zpo, Klageschrift Tatsachenvortrag Strukturieren, Kostenfestsetzung 103 104 Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klageschrift Pflichtbestandteile 253 Zpo, Klageschrift Tatsachenvortrag Strukturieren, Kostenfestsetzung 103 104 Zpo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klageschrift Pflichtbestandteile 253 Zpo, Klageschrift Tatsachenvortrag Strukturieren, Kostenfestsetzung 103 104 Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -77,13 +77,13 @@ In dem Rechtsstreit
 
 [Vorname Nachname Klaeger]
 [Adresse Klaeger]
-                                  - Klaeger -
+ - Klaeger -
 
 gegen
 
 [Vorname Nachname Beklagter]
 [Adresse Beklagter]
-                                  - Beklagter -
+ - Beklagter -
 
 wegen [Stichwort, z.B. "Kaufpreis"]
 ```
@@ -104,15 +104,15 @@ Eindeutig, vollstreckungsfaehig formuliert:
 Antraege:
 
 1. Der Beklagte wird verurteilt, an den Klaeger
-   1.500,00 EUR nebst Zinsen in Hoehe von 5
-   Prozentpunkten ueber dem Basiszinssatz seit
-   05.04.2025 zu zahlen.
+ 1.500,00 EUR nebst Zinsen in Hoehe von 5
+ Prozentpunkten ueber dem Basiszinssatz seit
+ 05.04.2025 zu zahlen.
 
 2. Die Kosten des Rechtsstreits traegt der
-   Beklagte.
+ Beklagte.
 
 3. Das Urteil wird fuer vorlaeufig vollstreckbar
-   erklaert.
+ erklaert.
 ```
 
 Skill `klageschrift-antrag-bestimmt-formulieren`.
@@ -497,19 +497,19 @@ In der Sache [Klaeger] ./. [Beklagter]
 beantrage ich Festsetzung folgender Kosten:
 
 1. Gerichtskosten-Vorschuss vom [Datum]
-   324,00 EUR
+ 324,00 EUR
 2. Sachverstaendigen-Vorschuss vom [Datum]
-   850,00 EUR
+ 850,00 EUR
 3. Reisekosten zum Termin am [Datum]
-   (250 km hin/zurueck, 0,30 EUR/km)
-   75,00 EUR
+ (250 km hin/zurueck, 0,30 EUR/km)
+ 75,00 EUR
 4. Verdienstausfall
-   1 Tag x 8 h x 17 EUR
-   136,00 EUR
+ 1 Tag x 8 h x 17 EUR
+ 136,00 EUR
 5. Porto
-   12,30 EUR
-                              -------
-Gesamt                     1.397,30 EUR
+ 12,30 EUR
+ -------
+Gesamt 1.397,30 EUR
 
 Zugunsten von:
 [Ihr Name, IBAN]

@@ -8,7 +8,7 @@ description: "Baut Aktenstruktur für Satzung, Protokolle, Mitglieder, Wahlvorsc
 ## Aufgabe
 Baut Aktenstruktur für Satzung, Protokolle, Mitglieder, Wahlvorschläge, Finanzen, Spenden, Schiedsverfahren.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

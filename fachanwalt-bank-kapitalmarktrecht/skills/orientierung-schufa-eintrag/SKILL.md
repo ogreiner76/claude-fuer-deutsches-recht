@@ -1,21 +1,21 @@
 ---
 name: orientierung-schufa-eintrag
-description: "Nutze dies, wenn Fachanwalt Bank Kapitalmarktrecht Orientierung, Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag, Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Bank Kapitalmarktrecht Orientierung, Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag, Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Bank Kapitalmarktrecht Orientierung, Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag, Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Bank Kapitalmarktrecht Orientierung, Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag, Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Bank Kapitalmarktrecht Orientierung, Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag, Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Bank Kapitalmarktrecht Orientierung, Fachanwalt Bank Kapitalmarktrecht Schufa Eintrag, Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-bank-kapitalmarktrecht-orientierung` | Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing). |
-| `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa eintrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` | Arbeitsmodul zu fachanwalt bank kapitalmarktrecht schufa eintrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` | Arbeitsmodul zu fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -131,7 +131,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag`
 
-**Fokus:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa eintrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt bank kapitalmarktrecht schufa eintrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # SCHUFA-Eintrag
 
@@ -165,9 +165,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. SCHUFA-Selbstauskunft Art. 15 DSGVO einholen
 2. Eintragstyp und Datenquelle identifizieren
 3. Rechtmaessigkeitspruefung Glaeubigerseite
-   - Forderung faellig und unbestritten
-   - Zwei qualifizierte Mahnungen mit Hinweis
-   - Vier Wochen Abstand
+ - Forderung faellig und unbestritten
+ - Zwei qualifizierte Mahnungen mit Hinweis
+ - Vier Wochen Abstand
 4. Verarbeitungsgrundlage Art. 6 DSGVO § 31 BDSG
 5. Loeschungsverlangen Art. 17 DSGVO an Glaeubiger und SCHUFA
 6. Bei Verweigerung Beschwerde Art. 77 DSGVO + Klage Art. 79 DSGVO
@@ -192,8 +192,8 @@ Forderung [Az/Bezeichnung] in Hoehe von EUR [Betrag].
 Der Eintrag ist rechtswidrig:
 1. Die Forderung ist bestritten und nicht tituliert.
 2. Die nach § 31 BDSG geforderten zwei qualifizierten Mahnungen mit
-   Hinweis auf die SCHUFA-Uebermittlung und Vier-Wochen-Abstand wurden
-   nicht ausgesprochen.
+ Hinweis auf die SCHUFA-Uebermittlung und Vier-Wochen-Abstand wurden
+ nicht ausgesprochen.
 3. Damit fehlt die Rechtsgrundlage nach Art. 6 Abs. 1 lit. f DSGVO.
 
 Wir fordern Loeschung innerhalb der Monatsfrist des Art. 12 Abs. 3
@@ -214,7 +214,7 @@ Mit freundlichen Gruessen
 
 ## 3. `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch`
 
-**Fokus:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # SCHUFA-Löschungsanspruch
 
@@ -269,7 +269,7 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 - EuGH, Urt. v. 7.12.2023, C-634/21 — Score-Berechnung der SCHUFA als automatisierte Entscheidung im Einzelfall i.S.v. Art. 22 Abs. 1 DSGVO, soweit Dritte sich maßgeblich auf den Score-Wert stützen. Quelle: curia.europa.eu
 - Folge: Recht auf Erklärung, manuelle Prüfung, sinnvolle Informationen über die Logik (Art. 15 Abs. 1 lit. h DSGVO).
 
-## 4) Workflow Löschung
+## 4) Löschung
 
 ### Schritt 1 — Auskunft Art. 15 DSGVO
 
@@ -399,11 +399,11 @@ wegen Loeschung und Schadensersatz (DSGVO)
 
 Wir beantragen:
 1. Die Beklagten werden verurteilt, den Negativeintrag zu
-   [NAME], [GEBURTSDATUM] vom [DATUM EINTRAG] betreffend
-   Forderung [BEZEICHNUNG] bei der SCHUFA zu loeschen.
+ [NAME], [GEBURTSDATUM] vom [DATUM EINTRAG] betreffend
+ Forderung [BEZEICHNUNG] bei der SCHUFA zu loeschen.
 2. Die Beklagten werden verurteilt, an den Klaeger
-   EUR [BETRAG] immateriellen Schadensersatz gemass
-   Art. 82 DSGVO zu zahlen.
+ EUR [BETRAG] immateriellen Schadensersatz gemass
+ Art. 82 DSGVO zu zahlen.
 
 Begruendung:
 [Fehler beim Eintrag: bestrittene Forderung /

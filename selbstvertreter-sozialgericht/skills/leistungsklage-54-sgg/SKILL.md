@@ -52,7 +52,7 @@ Wenn die Behoerde noch einen ablehnenden Bescheid hat: Sie brauchen erst Widersp
 ### Schritt 2 — Klageschrift
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 [Name]
 [Adresse]

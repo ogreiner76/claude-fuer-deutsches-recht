@@ -33,7 +33,7 @@ Robotik-Architekturen verteilen Datenverarbeitung typischerweise auf Edge (im Ro
 - **TTDSG** (in D ab 01.12.2021) bei Endgeräte-Zugriff (z. B. App).
 - **BSI Cloud Security Cloud Computing Compliance Criteria Catalogue (C5)**, ISO/IEC 27001/27017/27018.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Datenfluss-Diagramm.** Quellen, Verarbeitung, Speicherorte, Übertragungen, Empfänger.
 2. **Klassifizierung.** Personenbezogen / besondere Kategorie / nicht-personenbezogen.

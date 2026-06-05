@@ -1,13 +1,13 @@
 ---
 name: vbr-inkasso-vbr-gewaehrleistung-vbr-kaufrecht
-description: "Nutze dies, wenn Vbr 012 Inkasso Und Mahnung Einordnen, Vbr 013 Gewährleistung Und Garantie Trennen, Vbr 014 Kaufrecht Reparatur Und Right To Repai, Vbr 015 Reise Und Flug Schnittstelle im Plugin Verbraucherschutzrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vbr 012 Inkasso Und Mahnung Einordnen, Vbr 013 Gewährleistung Und Garantie Trennen, Vbr 014 Kaufrecht Reparatur Und Right To Repai, Vbr 015 Reise Und Flug Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Vbr 012 Inkasso Und Mahnung Einordnen, Vbr 013 Gewährleistung Und Garantie Trennen, Vbr 014 Kaufrecht Reparatur Und Right To Repai, Vbr 015 Reise Und Flug Schnittstelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vbr 012 Inkasso Und Mahnung Einordnen, Vbr 013 Gewaehrleistung Und Garantie Trennen, Vbr 014 Kaufrecht Reparatur Und Right To Repai, Vbr 015 Reise Und Flug Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vbr 012 Inkasso Und Mahnung Einordnen, Vbr 013 Gewährleistung Und Garantie Trennen, Vbr 014 Kaufrecht Reparatur Und Right To Repai, Vbr 015 Reise Und Flug Schnittstelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vbr 012 Inkasso Und Mahnung Einordnen, Vbr 013 Gewährleistung Und Garantie Trennen, Vbr 014 Kaufrecht Reparatur Und Right To Repai, Vbr 015 Reise Und Flug Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

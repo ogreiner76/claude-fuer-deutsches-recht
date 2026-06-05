@@ -66,7 +66,7 @@ Wenn nicht und Wertgrenze nicht erreicht: Nichtzulassungsbeschwerde noetig.
 ### Schritt 3 — Nichtzulassungsbeschwerde-Schrift
 
 ```
-Landessozialgericht [Land]                          [Ort, Datum]
+Landessozialgericht [Land] [Ort, Datum]
 
 Az LSG (folgt): ...
 SG-Az: ...
@@ -75,7 +75,7 @@ NICHTZULASSUNGSBESCHWERDE
 
 Gegen das Urteil des Sozialgerichts [Ort] vom [Datum], zugestellt am [Datum], lege ich
 
-                Nichtzulassungsbeschwerde
+ Nichtzulassungsbeschwerde
 
 ein.
 

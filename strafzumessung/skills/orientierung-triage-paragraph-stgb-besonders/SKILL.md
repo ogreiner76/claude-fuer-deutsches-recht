@@ -1,39 +1,39 @@
 ---
 name: orientierung-triage-paragraph-stgb-besonders
-description: "Nutze dies, wenn Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Besonders Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung
+# Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Besonders Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Besonders Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `orientierung-strafzumessung-triage` | Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Spezial-Skills aus diesem Plugin vor und liefert bei klarer Faktenlage sofort einen ersten Strafzumessungsentwurf mit Platzhaltern. |
+| `orientierung-strafzumessung-triage` | Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Fachmodule aus diesem Plugin vor und liefert bei klarer Faktenlage sofort einen ersten Strafzumessungsentwurf mit Platzhaltern. |
 | `paragraph-46-stgb-grundsatz-strafzumessung` | Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftige Leben des Taeters (Abs. 1 Satz 2), Katalog der Strafzumessungstatsachen (Abs. 2), Doppelverwertungsverbot (Abs. 3). Anwendung in Hauptverhandlung, Urteilsbegruendung und Revision. Schnittstelle zu §§ 46a 47 49 56 StGB und § 267 Abs. 3 StPO. |
 | `spezial-besonders-formular-portal-und-einreichung` | Besonders: Formular, Portal und Einreichungslogik im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-Für **Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Spezial Besonders Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Besonders Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `orientierung-strafzumessung-triage`
 
-**Fokus:** Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Spezial-Skills aus diesem Plugin vor und liefert bei klarer Faktenlage sofort einen ersten Strafzumessungsentwurf mit Platzhaltern.
+**Fokus:** Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Fachmodule aus diesem Plugin vor und liefert bei klarer Faktenlage sofort einen ersten Strafzumessungsentwurf mit Platzhaltern.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
 - **Erste Antwort kurz.** Sachverhalt einordnen, hoechstens **eine** unverzichtbare Rueckfrage, dann arbeiten.
 - **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankuendigung – sofort einsteigen.
 - **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klaeren: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, eine Rueckfrage falls noetig, dann auf die Spezial-Skills dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
+- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, eine Rueckfrage falls noetig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausfuehrlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklaerungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausfuehrlich. Sonst nicht.
 
@@ -41,7 +41,7 @@ Für **Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzume
 
 ## Worum geht es?
 
-Strafzumessung ist die richterliche Bestimmung von Strafart und Strafhoehe innerhalb des gesetzlichen Strafrahmens. Grundlage ist die Schuld des Taeters (§ 46 Abs. 1 Satz 1 StGB). Dieser Allgemein-Skill ist der Eingang in das Plugin: er ordnet den Stand des Verfahrens, identifiziert Fristen und schlaegt den passenden Spezial-Skill vor.
+Strafzumessung ist die richterliche Bestimmung von Strafart und Strafhoehe innerhalb des gesetzlichen Strafrahmens. Grundlage ist die Schuld des Taeters (§ 46 Abs. 1 Satz 1 StGB). Dieser Allgemein-Skill ist der Eingang in das Plugin: er ordnet den Stand des Verfahrens, identifiziert Fristen und schlaegt den passenden Fachmodul vor.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -82,7 +82,7 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 2. Eilfristen pruefen (Einspruchsfrist § 410 StPO, Revisionsbegruendung § 345 StPO, Bewaehrungsstellungnahme).
 3. Strafrahmen-Frage stellen: Welche Norm, welcher Strafrahmen, gibt es Regelbeispiele oder minder schweren Fall?
 4. Strafzumessungs-Tatsachen sammeln (§ 46 Abs. 2 StGB): Vorleben, Tat, Nachtatverhalten.
-5. Passenden Spezial-Skill auswaehlen; bei klarer Faktenlage sofort ersten Entwurf mit Platzhaltern liefern.
+5. Passenden Fachmodul auswaehlen; bei klarer Faktenlage sofort ersten Entwurf mit Platzhaltern liefern.
 6. Quellenpflicht beachten: § 46 StGB, einschlaegige Spezialnormen, BGH-Linie nur mit verifiziertem Aktenzeichen.
 
 ## Typische Fehler
@@ -132,12 +132,12 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 - **§ 46 Abs. 1 Satz 1 StGB** — "Die Schuld des Taeters ist Grundlage fuer die Zumessung der Strafe."
 - **§ 46 Abs. 1 Satz 2 StGB** — Die Wirkungen, die von der Strafe fuer das kuenftige Leben des Taeters in der Gesellschaft zu erwarten sind, sind zu beruecksichtigen (Spezialpraevention).
 - **§ 46 Abs. 2 StGB** — Bei der Zumessung waegt das Gericht die Umstaende, die fuer und gegen den Taeter sprechen, gegeneinander ab. Genannt sind insbesondere:
-  - Beweggruende und Ziele des Taeters, **besonders auch rassistische, fremdenfeindliche, antisemitische, geschlechtsspezifische, gegen die sexuelle Orientierung gerichtete oder sonstige menschenverachtende** Beweggruende und Ziele;
-  - Gesinnung, die aus der Tat spricht, und der bei der Tat aufgewendete Wille;
-  - Mass der Pflichtwidrigkeit;
-  - Art der Ausfuehrung und verschuldete Auswirkungen der Tat;
-  - Vorleben des Taeters, seine persoenlichen und wirtschaftlichen Verhaeltnisse;
-  - Verhalten nach der Tat, namentlich Bemuehen, den Schaden wiedergutzumachen, und das Bemuehen des Taeters, einen Ausgleich mit dem Verletzten zu erreichen.
+ - Beweggruende und Ziele des Taeters, **besonders auch rassistische, fremdenfeindliche, antisemitische, geschlechtsspezifische, gegen die sexuelle Orientierung gerichtete oder sonstige menschenverachtende** Beweggruende und Ziele;
+ - Gesinnung, die aus der Tat spricht, und der bei der Tat aufgewendete Wille;
+ - Mass der Pflichtwidrigkeit;
+ - Art der Ausfuehrung und verschuldete Auswirkungen der Tat;
+ - Vorleben des Taeters, seine persoenlichen und wirtschaftlichen Verhaeltnisse;
+ - Verhalten nach der Tat, namentlich Bemuehen, den Schaden wiedergutzumachen, und das Bemuehen des Taeters, einen Ausgleich mit dem Verletzten zu erreichen.
 - **§ 46 Abs. 3 StGB** — **Doppelverwertungsverbot**: Umstaende, die schon Merkmale des gesetzlichen Tatbestandes sind, duerfen nicht beruecksichtigt werden.
 
 ## Strafzumessungs-Grundsatz
@@ -152,9 +152,9 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 1. **Schuld bestimmen**: Welche Tatbestaende verwirklicht? Welche Schuldform (Vorsatz, Fahrlaessigkeit)? Schuldminderungs- oder -ausschlussgruende (§§ 17, 20, 21 StGB)?
 2. **Strafrahmen bestimmen**: Grundtatbestand, Qualifikation, Privilegierung, Regelbeispiele, minder schwerer Fall, Strafmilderungs-/Schaerfungsgruende (§§ 49, 23 Abs. 2, 28 StGB).
 3. **Strafzumessungstatsachen sammeln** (§ 46 Abs. 2 StGB):
-   - Vorleben: Vorstrafen (BZRG, Tilgung), Erziehung, soziale Verhaeltnisse;
-   - Taterscheinung: Beweggrund, Ausfuehrung, Folgen, Pflichtwidrigkeit;
-   - Nachtatverhalten: Reue, Gestaendnis, TOA (§ 46a StGB), Schadenswiedergutmachung.
+ - Vorleben: Vorstrafen (BZRG, Tilgung), Erziehung, soziale Verhaeltnisse;
+ - Taterscheinung: Beweggrund, Ausfuehrung, Folgen, Pflichtwidrigkeit;
+ - Nachtatverhalten: Reue, Gestaendnis, TOA (§ 46a StGB), Schadenswiedergutmachung.
 4. **Abwaegung**: Strafmildernde gegen strafschaerfende Faktoren; das Gewicht muss explizit werden.
 5. **Doppelverwertungsverbot pruefen**: Wenn etwa § 224 Abs. 1 Nr. 2 StGB (gefaehrliches Werkzeug) verwirklicht ist, darf die Tatsache "Messer verwendet" nicht noch einmal strafschaerfend angefuehrt werden.
 6. **Begruendung**: Im Urteil muss die Strafzumessung so dargelegt werden, dass das Revisionsgericht sie ueberpruefen kann (§ 267 Abs. 3 StPO).
@@ -209,7 +209,7 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 # Besonders: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Besonders: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Besonders: Formular, Portal und Einreichungslogik / spezial besonders formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Besonders: Formular, Portal und Einreichungslogik / besonders formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -245,38 +245,38 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafzumessungs-Formular / Portal / Einreichung Bausteine
 - **Formal-Einreichungen im Strafverfahren:**
-  - **Pladoyer-Notizen** schriftlich vorbereitet (Strafrahmen, § 46 StGB-Bilanz, Antrag).
-  - **Antrag auf nachtraegliche Gesamtstrafe § 460 StPO** an Vollstreckungsbehoerde mit Auflistung aller Verurteilungen.
-  - **Antrag auf Strafaussetzung Strafrest § 57 StGB / § 57a StGB** mit Sozialprognose-Tatsachen.
-  - **Antrag auf Bewaehrungswiderruf-Abwehr § 56f StGB** mit Stellungnahme zu neuen Vorwuerfen.
-  - **Antrag auf Bewaehrungserlass § 56g StGB** nach Bewaehrungszeit-Ende.
+ - **Pladoyer-Notizen** schriftlich vorbereitet (Strafrahmen, § 46 StGB-Bilanz, Antrag).
+ - **Antrag auf nachtraegliche Gesamtstrafe § 460 StPO** an Vollstreckungsbehoerde mit Auflistung aller Verurteilungen.
+ - **Antrag auf Strafaussetzung Strafrest § 57 StGB / § 57a StGB** mit Sozialprognose-Tatsachen.
+ - **Antrag auf Bewaehrungswiderruf-Abwehr § 56f StGB** mit Stellungnahme zu neuen Vorwuerfen.
+ - **Antrag auf Bewaehrungserlass § 56g StGB** nach Bewaehrungszeit-Ende.
 - **Sachverstaendigengutachten beantragen:**
-  - **Schuldfaehigkeitsgutachten §§ 20, 21 StGB:** Antrag in Hauptverhandlung; Pflicht bei Anhaltspunkten Schuldminderung.
-  - **Therapieprognose-Gutachten § 56 StGB:** fuer Sozialprognose.
-  - **§ 109 SGG-Gutachten** ist Sozialgerichts-Spezialitaet, nicht im Strafverfahren - statt dessen § 73 StPO Sachverstaendiger.
+ - **Schuldfaehigkeitsgutachten §§ 20, 21 StGB:** Antrag in Hauptverhandlung; Pflicht bei Anhaltspunkten Schuldminderung.
+ - **Therapieprognose-Gutachten § 56 StGB:** fuer Sozialprognose.
+ - **§ 109 SGG-Gutachten** ist Sozialgerichts-Spezialitaet, nicht im Strafverfahren - statt dessen § 73 StPO Sachverstaendiger.
 - **Eingaben Vollstreckungsverfahren:**
-  - **Antrag bei StA als Vollstreckungsbehoerde § 451 StPO:** Stundung, Ratenzahlung § 42 StGB, gemeinnuetzige Arbeit § 43 StGB.
-  - **Strafaussetzungsverfahren §§ 57, 57a StGB** beim Strafvollstreckungsgericht (StVG-Kammer).
-  - **Massregelvollzug-Antraege §§ 67d ff. StGB** beim StVG.
+ - **Antrag bei StA als Vollstreckungsbehoerde § 451 StPO:** Stundung, Ratenzahlung § 42 StGB, gemeinnuetzige Arbeit § 43 StGB.
+ - **Strafaussetzungsverfahren §§ 57, 57a StGB** beim Strafvollstreckungsgericht (StVG-Kammer).
+ - **Massregelvollzug-Antraege §§ 67d ff. StGB** beim StVG.
 - **Gerichts-Portale:**
-  - **beA / EGVP** fuer Anwaltskommunikation (im Strafrecht § 32a StPO freiwillig).
-  - **Vollstreckungsstelle StA:** Schriftverkehr per Post / Fax / E-Mail.
-  - **BZRG-Auszug** ueber Bundeszentralregister, online beantragbar.
+ - **beA / EGVP** fuer Anwaltskommunikation (im Strafrecht § 32a StPO freiwillig).
+ - **Vollstreckungsstelle StA:** Schriftverkehr per Post / Fax / E-Mail.
+ - **BZRG-Auszug** ueber Bundeszentralregister, online beantragbar.
 - **Standardvorlage Strafmass-Antrag (Pladoyer-Schluss):**
-  ```
-  Antraege der Verteidigung:
+ ```
+ Antraege der Verteidigung:
 
-  Hauptantrag: Freispruch.
+ Hauptantrag: Freispruch.
 
-  Hilfsantrag: Verurteilung wegen ... (§ ... StGB) zu einer Strafe von ...
-  - ... Tagessaetzen Geldstrafe a ... EUR; bzw.
-  - ... Monaten Freiheitsstrafe, deren Vollstreckung zur Bewaehrung ausgesetzt wird (§ 56 StGB), bei einer Bewaehrungszeit von ... Jahren.
+ Hilfsantrag: Verurteilung wegen ... (§ ... StGB) zu einer Strafe von ...
+ - ... Tagessaetzen Geldstrafe a ... EUR; bzw.
+ - ... Monaten Freiheitsstrafe, deren Vollstreckung zur Bewaehrung ausgesetzt wird (§ 56 StGB), bei einer Bewaehrungszeit von ... Jahren.
 
-  Bewaehrungsauflagen / -weisungen:
-  - Zahlung von ... EUR an gemeinnuetzige Einrichtung (§ 56b II Nr. 2 StGB).
-  - Wiedergutmachung des Schadens an Geschaedigte (§ 56b II Nr. 1 StGB).
-  - Therapeutische Betreuung (§ 56c II Nr. 5 StGB).
-  ```
+ Bewaehrungsauflagen / -weisungen:
+ - Zahlung von ... EUR an gemeinnuetzige Einrichtung (§ 56b II Nr. 2 StGB).
+ - Wiedergutmachung des Schadens an Geschaedigte (§ 56b II Nr. 1 StGB).
+ - Therapeutische Betreuung (§ 56c II Nr. 5 StGB).
+ ```
 - **Praxis-Tipp:** Antraege schriftlich formulieren; bei Hauptverhandlung kopieren fuer Gericht und Mandant; Belege Strafmilderung in Hauptverhandlung vorlegen.
 
 ## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe

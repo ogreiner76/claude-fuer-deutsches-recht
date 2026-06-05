@@ -1,13 +1,13 @@
 ---
 name: lph-bim-lph-belegakte-lph-fachplaner-lph
-description: "Nutze dies, wenn Hoai Lph 02 Bim Und Datenraum, Hoai Lph 02 Dokumentation Und Belegakte, Hoai Lph 02 Fachplaner Schnittstellen, Hoai Lph 02 Foerdermittel Und Nachweis, Hoai Lph 02 Genehmigungen Und Auflagen und 13 weitere Themen im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Lph 02 Bim Und Datenraum, Hoai Lph 02 Dokumentation Und Belegakte, Hoai Lph 02 Fachplaner Schnittstellen, Hoai Lph 02 Foerdermittel Und Nachweis, Hoai Lph 02 Genehmigungen Und Auflagen und 13 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Hoai Lph 02 Bim Und Datenraum, Hoai Lph 02 Dokumentation Und Belegakte, Hoai Lph 02 Fachplaner Schnittstellen, Hoai Lph 02 Foerdermittel Und Nachweis, Hoai Lph 02 Genehmigungen Und Auflagen und 13 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Lph 02 Bim Und Datenraum, Hoai Lph 02 Dokumentation Und Belegakte, Hoai Lph 02 Fachplaner Schnittstellen, Hoai Lph 02 Foerdermittel Und Nachweis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Lph 02 Bim Und Datenraum, Hoai Lph 02 Dokumentation Und Belegakte, Hoai Lph 02 Fachplaner Schnittstellen, Hoai Lph 02 Foerdermittel Und Nachweis, Hoai Lph 02 Genehmigungen Und Auflagen und 13 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Lph 02 Bim Und Datenraum, Hoai Lph 02 Dokumentation Und Belegakte, Hoai Lph 02 Fachplaner Schnittstellen, Hoai Lph 02 Foerdermittel Und Nachweis, Hoai Lph 02 Genehmigungen Und Auflagen und 13 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

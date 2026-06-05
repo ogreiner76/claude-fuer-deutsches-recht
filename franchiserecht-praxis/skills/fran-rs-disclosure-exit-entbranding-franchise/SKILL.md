@@ -1,21 +1,21 @@
 ---
 name: fran-rs-disclosure-exit-entbranding-franchise
-description: "Nutze dies, wenn Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence prüfen.; Erstelle eine Arbeitsfassung zu Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbranding Und Social Media Accounts, Fran Rs Franchise M A Und System Due Diligence** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fran-rs-disclosure-fail-bei-phantom-umsatzzahlen` | Spezialskill Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
-| `fran-rs-exit-entbranding-und-social-media-accounts` | Spezialskill Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
-| `fran-rs-franchise-m-a-und-system-due-diligence` | Spezialskill Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-disclosure-fail-bei-phantom-umsatzzahlen` | Fachmodul Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-exit-entbranding-und-social-media-accounts` | Fachmodul Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-franchise-m-a-und-system-due-diligence` | Fachmodul Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Fran Rs Disclosure Fail Bei Phantom Umsatzzahlen, Fran Rs Exit Entbrandin
 
 ## 1. `fran-rs-disclosure-fail-bei-phantom-umsatzzahlen`
 
-**Fokus:** Spezialskill Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen
 
@@ -70,7 +70,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `fran-rs-exit-entbranding-und-social-media-accounts`
 
-**Fokus:** Spezialskill Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Exit, Entbranding und Social-Media-Accounts: Bei Vertragsende werden Markenentfernung, Kundendaten, Bewertungsprofile, Domains, Accounts, Inventar und einstweiliger Rechtsschutz sauber getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Exit, Entbranding und Social-Media-Accounts
 
@@ -114,7 +114,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `fran-rs-franchise-m-a-und-system-due-diligence`
 
-**Fokus:** Spezialskill Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Franchise-M&A und System-Due-Diligence
 

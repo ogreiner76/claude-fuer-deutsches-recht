@@ -1,13 +1,13 @@
 ---
 name: ladung-erhalten-mandanten
-description: "Nutze dies, wenn Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung im Plugin Schoeffen Handelsrichter Praxis konkret bearbeitet werden soll. Auslöser: Bitte Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung prüfen.; Erstelle eine Arbeitsfassung zu Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

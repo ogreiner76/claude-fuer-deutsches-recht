@@ -1,6 +1,6 @@
 ---
 name: rom-047-kognitionsverfahren
-description: "Römisches Recht: Kognitionsverfahren. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Kognitionsverfahren. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Kognitionsverfahren

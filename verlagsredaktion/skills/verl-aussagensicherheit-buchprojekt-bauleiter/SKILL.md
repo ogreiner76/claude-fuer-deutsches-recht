@@ -1,13 +1,13 @@
 ---
 name: verl-aussagensicherheit-buchprojekt-bauleiter
-description: "Nutze dies, wenn Verl Aussagensicherheit Prüfung, Verl Buchprojekt Bauleiter, Verl Email Konvolute Zu Fachbeitrag, Verl Eskalation Bei Deadline Konflikt, Verl Formatvorlage Check Autor Manuskript im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Verl Aussagensicherheit Prüfung, Verl Buchprojekt Bauleiter, Verl Email Konvolute Zu Fachbeitrag, Verl Eskalation Bei Deadline Konflikt, Verl Formatvorlage Check Autor Manuskript prüfen.; Erstelle eine Arbeitsfassung zu Verl Aussagensicherheit Prüfung, Verl Buchprojekt Bauleiter, Verl Email Konvolute Zu Fachbeitrag, Verl Eskalation Bei Deadline Konflikt, Verl Formatvorlage Check Autor Manuskript.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl Aussagensicherheit Prüfung, Verl Buchprojekt Bauleiter, Verl Email Konvolute Zu Fachbeitrag, Verl Eskalation Bei Deadline Konflikt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Aussagensicherheit Prüfung, Verl Buchprojekt Bauleiter, Verl Email Konvolute Zu Fachbeitrag, Verl Eskalation Bei Deadline Konflikt, Verl Formatvorlage Check Autor Manuskript
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Aussagensicherheit Prüfung, Verl Buchprojekt Bauleiter, Verl Email Konvolute Zu Fachbeitrag, Verl Eskalation Bei Deadline Konflikt, Verl Formatvorlage Check Autor Manuskript** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,11 +55,11 @@ Sie brauchen ihn immer bei brisanten Themen, polemischen Anmerkungen, Beitraegen
 ## Praxisleitfaden / Schritt fuer Schritt
 
 1. **Risikoflaechen identifizieren:**
-   - Mandantenbezug (Anwaltsmandat).
-   - Konkret benannte Dritte (Richter, Anwaelte, Behoerden, Unternehmen).
-   - Tatsachenbehauptungen (vs. Wertungen).
-   - Anschuldigungen / Vorwuerfe.
-   - Datenschutz-relevante Angaben.
+ - Mandantenbezug (Anwaltsmandat).
+ - Konkret benannte Dritte (Richter, Anwaelte, Behoerden, Unternehmen).
+ - Tatsachenbehauptungen (vs. Wertungen).
+ - Anschuldigungen / Vorwuerfe.
+ - Datenschutz-relevante Angaben.
 2. **Belegtiefe pruefen.** Jede Tatsachenbehauptung mit Beleg? Wertungen als solche erkennbar?
 3. **Ehrenschutz / Persoenlichkeitsrecht** (§§ 823, 1004 BGB, Art. 1 i.V.m. Art. 2 I GG): Werden Beteiligte ungerechtfertigt herabgesetzt?
 4. **Mandantenschutz** (§ 43a Abs. 2 BRAO, § 203 StGB): Anonymisierung ausreichend? Schreibt die Autorin ueber einen eigenen Fall? Mandantenfreigabe?
@@ -248,13 +248,13 @@ Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis fuer einen Verlagsbeitrag d
 **Anonymisierungs-Schablone:**
 
 ```
-M     = Mandantin (privat, Mitte 50, NRW)
-A     = Anwalt (Verfasser des Beitrags)
-B     = Bauamt (Mittelstadt)
-Az.   = [Az. anonymisiert, 4-stellig: XXXX/24]
+M = Mandantin (privat, Mitte 50, NRW)
+A = Anwalt (Verfasser des Beitrags)
+B = Bauamt (Mittelstadt)
+Az. = [Az. anonymisiert, 4-stellig: XXXX/24]
 Datum = im Wortlaut erhalten
-Ort   = Stadt verfremdet ("Mittelstadt, NRW")
-EUR   = Betraege auf 1.000 EUR gerundet, wenn Identifikation droht
+Ort = Stadt verfremdet ("Mittelstadt, NRW")
+EUR = Betraege auf 1.000 EUR gerundet, wenn Identifikation droht
 ```
 
 ## Typische Fehler / Pitfalls
@@ -313,11 +313,11 @@ Eine Frist droht zu reissen: Manuskripteingang verzoegert sich, Druckereitermin 
 
 1. **Sachverhalt fixieren.** Wer hat wann was zugesagt, was ist eingegangen, was fehlt? In Schriftform dokumentieren.
 2. **Stufe bestimmen.**
-   - Stufe 1: Freundlicher Reminder mit Vorschlag zur Loesung.
-   - Stufe 2: Erinnerung mit klarer neuer Frist, Hinweis auf Folgen.
-   - Stufe 3: Mahnung mit Nachfristsetzung gemaess BGB § 323, Androhung des Ruecktritts.
-   - Stufe 4: Eskalation an Programm- oder Verlagsleitung, ggf. an Justiziariat.
-   - Stufe 5: Ruecktritt vom Vertrag, Schadensersatzgeltendmachung.
+ - Stufe 1: Freundlicher Reminder mit Vorschlag zur Loesung.
+ - Stufe 2: Erinnerung mit klarer neuer Frist, Hinweis auf Folgen.
+ - Stufe 3: Mahnung mit Nachfristsetzung gemaess BGB § 323, Androhung des Ruecktritts.
+ - Stufe 4: Eskalation an Programm- oder Verlagsleitung, ggf. an Justiziariat.
+ - Stufe 5: Ruecktritt vom Vertrag, Schadensersatzgeltendmachung.
 3. **Vor jeder Stufe pruefen:** Ist der vorherige Schritt schriftlich dokumentiert?
 4. **Bei externer Beteiligung (Druckerei, Verteiler):** Parallel Plan B aktivieren, nicht erst nach Verstreichen der Frist.
 5. **Nach Eskalation:** Stets schriftliche Bestaetigung des neuen Termins einholen.

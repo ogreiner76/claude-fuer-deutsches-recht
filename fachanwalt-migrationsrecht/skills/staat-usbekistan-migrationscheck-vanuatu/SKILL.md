@@ -1,22 +1,22 @@
 ---
 name: staat-usbekistan-migrationscheck-vanuatu
-description: "Nutze dies, wenn Staat Usbekistan Migrationscheck, Staat Vanuatu Migrationscheck, Staat Vatikanstadt Migrationscheck, Staat Venezuela Migrationscheck im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Staat Usbekistan Migrationscheck, Staat Vanuatu Migrationscheck, Staat Vatikanstadt Migrationscheck, Staat Venezuela Migrationscheck prüfen.; Erstelle eine Arbeitsfassung zu Staat Usbekistan Migrationscheck, Staat Vanuatu Migrationscheck, Staat Vatikanstadt Migrationscheck, Staat Venezuela Migrationscheck.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Staat Usbekistan Migrationscheck, Staat Vanuatu Migrationscheck, Staat Vatikanstadt Migrationscheck, Staat Venezuela Migrationscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Staat Usbekistan Migrationscheck, Staat Vanuatu Migrationscheck, Staat Vatikanstadt Migrationscheck, Staat Venezuela Migrationscheck
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `staat-usbekistan-migrationscheck` | Staaten- und Gebietscheck Usbekistan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-vanuatu-migrationscheck` | Staaten- und Gebietscheck Vanuatu: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-vatikanstadt-migrationscheck` | Staaten- und Gebietscheck Vatikanstadt: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-venezuela-migrationscheck` | Staaten- und Gebietscheck Venezuela: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-usbekistan-migrationscheck` | Staaten- und Gebietscheck Usbekistan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-vanuatu-migrationscheck` | Staaten- und Gebietscheck Vanuatu: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-vatikanstadt-migrationscheck` | Staaten- und Gebietscheck Vatikanstadt: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-venezuela-migrationscheck` | Staaten- und Gebietscheck Venezuela: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
 
 ## Arbeitsweg
 
@@ -27,15 +27,15 @@ Für **Staat Usbekistan Migrationscheck, Staat Vanuatu Migrationscheck, Staat Va
 
 ## 1. `staat-usbekistan-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Usbekistan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Usbekistan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 
 # Staaten-/Gebietscheck: Usbekistan
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Usbekistan**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Usbekistan**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Usbekistan: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -65,15 +65,15 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Usbekistan**. Er 
 
 ## 2. `staat-vanuatu-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Vanuatu: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Vanuatu: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 
 # Staaten-/Gebietscheck: Vanuatu
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vanuatu**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vanuatu**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Vanuatu: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -103,15 +103,15 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vanuatu**. Er ist
 
 ## 3. `staat-vatikanstadt-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Vatikanstadt: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Vatikanstadt: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 
 # Staaten-/Gebietscheck: Vatikanstadt
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vatikanstadt**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vatikanstadt**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Vatikanstadt: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -141,15 +141,15 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Vatikanstadt**. E
 
 ## 4. `staat-venezuela-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Venezuela: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Venezuela: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 
 # Staaten-/Gebietscheck: Venezuela
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Venezuela**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Venezuela**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Venezuela: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?

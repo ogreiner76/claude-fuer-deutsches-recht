@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-027-normkarte-altrecht-heutiger
-description: "Nutze dies, wenn PrALR: Normkarte Altrecht in heutiger Akte im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Normkarte Altrecht in heutiger Akte prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Normkarte Altrecht in heutiger Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Normkarte Altrecht in heutiger Akte: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Normkarte Altrecht in heutiger Akte

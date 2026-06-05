@@ -1,13 +1,13 @@
 ---
 name: ips-minderheitenschutz-ips-planbetroffene-ips
-description: "Nutze dies, wenn Ips Minderheitenschutz, Ips Planbetroffene Auswahl, Ips Planvollzug Monitoring im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Ips Minderheitenschutz, Ips Planbetroffene Auswahl, Ips Planvollzug Monitoring prüfen.; Erstelle eine Arbeitsfassung zu Ips Minderheitenschutz, Ips Planbetroffene Auswahl, Ips Planvollzug Monitoring.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ips Minderheitenschutz, Ips Planbetroffene Auswahl, Ips Planvollzug Monitoring: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ips Minderheitenschutz, Ips Planbetroffene Auswahl, Ips Planvollzug Monitoring
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ips Minderheitenschutz, Ips Planbetroffene Auswahl, Ips Planvollzug Monitoring** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -83,7 +83,7 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 ## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA AG) — Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss; Ausschluss von 49,9 % Aktionären ohne Kompensation) als unzulässig zurückgewiesen. Bedeutung für Minderheitenschutz: § 66 Abs. 2 Nr. 3 StaRUG (Schlechterstellungsprüfung) ist die zentrale Schutznorm; die Beschwerde war nicht gegen die Norm selbst gerichtet. Es gibt damit verfassungsrechtlich keine generelle Schranke gegen den Ausschluss out-of-the-money-Aktionäre.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Praxisgrundsatz: Minderheitenschutz im InsO-Plan über § 251 InsO (Minderheitenschutzantrag) und im StaRUG über §§ 64 ff. StaRUG. Konkrete BGH/LG-Entscheidungen vor Ausgabe über offene Quellen verifizieren.
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)

@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-quellenkarte
-description: "Nutze dies, wenn Hauptverhandlung Quellenkarte im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Hauptverhandlung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Hauptverhandlung Quellenkarte

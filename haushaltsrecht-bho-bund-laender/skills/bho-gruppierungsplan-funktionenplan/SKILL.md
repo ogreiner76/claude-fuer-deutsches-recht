@@ -1,13 +1,13 @@
 ---
 name: bho-gruppierungsplan-funktionenplan
-description: "Nutze dies, wenn Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung, Bho 007 Verpflichtungsermaechtigung Prüfen und 6 weitere Themen im Plugin Haushaltsrecht Bho Bund Länder konkret bearbeitet werden soll. Auslöser: Bitte Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung, Bho 007 Verpflichtungsermaechtigung Prüfen und 6 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung, Bho 007 Verpflichtungsermaechtigung Prüfen und 6 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung, Bho 007 Verpflichtungsermaechtigung Prüfen und 6 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung, Bho 007 Verpflichtungsermaechtigung Prüfen und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

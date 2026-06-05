@@ -1,6 +1,6 @@
 ---
 name: nkr-handelsregister-elektronische-zustellung
-description: "Spezialskill fuer Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen."
+description: "Fachmodul fuer Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen."
 ---
 
 # NKR-Handelsregister und elektronische Zustellung
@@ -49,8 +49,8 @@ Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle einge
 ### 2. Architektur (zentral vs. dezentral)
 
 - Wer fuehrt die elektronische Adresse?
-   - **Zentral**: einheitliches Register beim BfJ / zentrale Stelle
-   - **Dezentral**: bei jedem Amtsgericht (Registergericht)
+ - **Zentral**: einheitliches Register beim BfJ / zentrale Stelle
+ - **Dezentral**: bei jedem Amtsgericht (Registergericht)
 - Schnittstellen
 - Datenkonsistenz
 

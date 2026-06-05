@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Verwaltungsverfahren und Bundesverwaltung
-Ressort:            BMI
-Kernnormen:         VwVfG; VwGO; IFG; UIG (mit BMUKN); BVerwGG; BBG; BeamtStG.
-Akteure/Aufsicht:   Bundesbehoerden des allgemeinen Verwaltungsrechts; BVerwG.
-EU/Voelkerrecht:    EU-Verwaltungsverfahren; Single Digital Gateway.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmi; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Verwaltungsverfahren und Bundesverwaltung
+Ressort: BMI
+Kernnormen: VwVfG; VwGO; IFG; UIG (mit BMUKN); BVerwGG; BBG; BeamtStG.
+Akteure/Aufsicht: Bundesbehoerden des allgemeinen Verwaltungsrechts; BVerwG.
+EU/Voelkerrecht: EU-Verwaltungsverfahren; Single Digital Gateway.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmi; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

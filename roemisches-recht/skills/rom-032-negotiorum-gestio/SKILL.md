@@ -1,6 +1,6 @@
 ---
 name: rom-032-negotiorum-gestio
-description: "Römisches Recht: Negotiorum Gestio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Negotiorum Gestio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Negotiorum Gestio

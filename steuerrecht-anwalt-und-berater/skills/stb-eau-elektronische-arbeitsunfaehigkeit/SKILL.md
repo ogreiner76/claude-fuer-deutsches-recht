@@ -55,13 +55,13 @@ Seit 01.01.2023 (mit Uebergangsphase) ist die elektronische Arbeitsunfaehigkeits
 
 ```
 AN meldet sich krank (Telefon, Mail)
-   ↓
+ ↓
 AG erfaesst Krankheitsbeginn in Lohnprogramm
-   ↓
+ ↓
 AG-System ruft automatisch eAU-Daten ab
-   ↓
+ ↓
 Krankenkasse liefert Diagnose-Codes und Dauer
-   ↓
+ ↓
 Lohnabrechnung mit Entgeltfortzahlung-Anteil
 ```
 

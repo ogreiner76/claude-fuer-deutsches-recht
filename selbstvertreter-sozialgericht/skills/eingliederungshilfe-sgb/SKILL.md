@@ -1,13 +1,13 @@
 ---
 name: eingliederungshilfe-sgb
-description: "Nutze dies, wenn Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht, Einreichung Papierform Sozialgericht Mit Abschriften im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht, Einreichung Papierform Sozialgericht Mit Abschriften prüfen.; Erstelle eine Arbeitsfassung zu Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht, Einreichung Papierform Sozialgericht Mit Abschriften.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht, Einreichung Papierform Sozialgericht Mit Abschriften
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht, Einreichung Papierform Sozialgericht Mit Abschriften** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -304,9 +304,9 @@ Sie brauchen:
 
 - **Computer** oder Smartphone mit Internet
 - Eine **Identifikation**, eine der drei:
-  - Personalausweis mit Online-Funktion (eID) + PIN + Lesegeraet oder Smartphone-App "AusweisApp"
-  - ELSTER-Zertifikat (von Ihrer Steuererklaerung)
-  - DE-Mail-Account (auslaufend, lieber andere Wege)
+ - Personalausweis mit Online-Funktion (eID) + PIN + Lesegeraet oder Smartphone-App "AusweisApp"
+ - ELSTER-Zertifikat (von Ihrer Steuererklaerung)
+ - DE-Mail-Account (auslaufend, lieber andere Wege)
 
 ### Schritt 2 — Konto anlegen
 

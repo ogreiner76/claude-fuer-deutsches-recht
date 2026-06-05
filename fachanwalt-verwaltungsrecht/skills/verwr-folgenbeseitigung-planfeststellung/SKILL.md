@@ -1,13 +1,13 @@
 ---
 name: verwr-folgenbeseitigung-planfeststellung
-description: "Nutze dies, wenn Verwr Folgenbeseitigung Spezial, Verwr Planfeststellung Grossvorhaben Spezial, Verwr Vorlaeufiger Rechtsschutz Leitfaden im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Verwr Folgenbeseitigung Spezial, Verwr Planfeststellung Grossvorhaben Spezial, Verwr Vorlaeufiger Rechtsschutz Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Verwr Folgenbeseitigung Spezial, Verwr Planfeststellung Grossvorhaben Spezial, Verwr Vorlaeufiger Rechtsschutz Leitfaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verwr Folgenbeseitigung Spezial, Verwr Planfeststellung Grossvorhaben Spezial, Verwr Vorlaeufiger Rechtsschutz Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verwr Folgenbeseitigung Spezial, Verwr Planfeststellung Grossvorhaben Spezial, Verwr Vorlaeufiger Rechtsschutz Leitfaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verwr Folgenbeseitigung Spezial, Verwr Planfeststellung Grossvorhaben Spezial, Verwr Vorlaeufiger Rechtsschutz Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -139,7 +139,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-verwaltungsrecht`. Er ergaenzt die u
 ## Aufgabe
 Leitfaden vorlaeufiger Rechtsschutz VwGO: § 80 V VwGO (Anfechtungssituationen mit aufschiebender Wirkung), § 80a VwGO (Drittwiderspruch), § 123 VwGO (einstweilige Anordnung in allen anderen Faellen). Pruefraster Eilbeduerftigkeit, Anordnungsanspruch/Anordnungsgrund. Verhaeltnis zu Art. 19 IV GG.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?

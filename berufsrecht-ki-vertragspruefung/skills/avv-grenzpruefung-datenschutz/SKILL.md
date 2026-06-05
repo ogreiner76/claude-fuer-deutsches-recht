@@ -71,19 +71,19 @@ Die berufsrechtliche Dienstleisterregelung (§§ 43e BRAO, 62a StBerG, 50a WPO, 
 
 ```
 AVV vorhanden?
-  Nein → DSGVO-Verstoß bei personenbezogenen Daten; separate Meldung nötig
-  Ja → Inhalt nach Art. 28 Abs. 3 DSGVO vollständig?
-         Nein → Lücken dokumentieren; Rückfragebrief
-         Ja → Berufsrechtliche Verschwiegenheitsverpflichtung separat?
-                Nein → Muss separat/zusätzlich vereinbart werden
-                Ja → Strafrechtliche Belehrung §§ 203/204 StGB enthalten?
-                       Nein → Ergänzungsklausel erforderlich
-                       Ja → GRÜN: AVV-Prüfung abgeschlossen; Berufsrecht separat OK
+ Nein → DSGVO-Verstoß bei personenbezogenen Daten; separate Meldung nötig
+ Ja → Inhalt nach Art. 28 Abs. 3 DSGVO vollständig?
+ Nein → Lücken dokumentieren; Rückfragebrief
+ Ja → Berufsrechtliche Verschwiegenheitsverpflichtung separat?
+ Nein → Muss separat/zusätzlich vereinbart werden
+ Ja → Strafrechtliche Belehrung §§ 203/204 StGB enthalten?
+ Nein → Ergänzungsklausel erforderlich
+ Ja → GRÜN: AVV-Prüfung abgeschlossen; Berufsrecht separat OK
 ```
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Punkt | Status | Bemerkung |

@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -15,7 +15,7 @@ Nutze diesen Skill, wenn im Bereich **Fluggastrechte** ein Fall noch sortiert, D
 - `airline-bonitaet-und-vollstreckung` — Airline Bonitaet Und Vollstreckung
 - `airline-standardausreden-annullierung-verspaetung-anschlussflug` — Airline Standardausreden Annullierung Verspaetung Anschlussflug
 - `airline-standardausreden-pruefen` — Airline Standardausreden Prüfen
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `annullierung-oder-verspaetung-einordnen` — Annullierung Oder Verspaetung Einordnen
 - `anschlussflug-und-reiseplan` — Anschlussflug Und Reiseplan
 - `ausnahmen-aussergewoehnliche-aussergewoehnliche-umstaende` — Ausnahmen Aussergewoehnliche Aussergewoehnliche Umstaende

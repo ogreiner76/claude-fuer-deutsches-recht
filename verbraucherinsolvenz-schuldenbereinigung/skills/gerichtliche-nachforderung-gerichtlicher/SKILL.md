@@ -1,13 +1,13 @@
 ---
 name: gerichtliche-nachforderung-gerichtlicher
-description: "Nutze dies, wenn Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten im Plugin Verbraucherinsolvenz Schuldenbereinigung konkret bearbeitet werden soll. Auslöser: Bitte Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten prüfen.; Erstelle eine Arbeitsfassung zu Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gerichtliche Nachforderung, Gerichtlicher Schuldenbereinigungsplan, Glaeubiger Mit Sicherheiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

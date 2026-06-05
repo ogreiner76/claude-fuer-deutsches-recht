@@ -1,22 +1,22 @@
 ---
 name: oesterreich-geheimhaltung-offenlegung-pitch
-description: "Nutze dies, wenn Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Source Und Secret Contamination, Patent Erfinder Und Prior Art im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Source Und Secret Contamination, Patent Erfinder Und Prior Art prüfen.; Erstelle eine Arbeitsfassung zu Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Source Und Secret Contamination, Patent Erfinder Und Prior Art.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Source Und Secret Contamination, Patent Erfinder Und Prior Art: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Source Und Secret Contamination, Patent Erfinder Und Prior Art
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Source Und Secret Contamination, Patent Erfinder Und Prior Art** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `oesterreich-geheimhaltung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oesterreich Geheimhaltung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `offenlegung-in-pitch-und-datenraum` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Offenlegung In Pitch Und Datenraum; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `open-source-und-secret-contamination` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Open Source Und Secret Contamination; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `patent-erfinder-und-prior-art` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Patent Erfinder Und Prior Art; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `oesterreich-geheimhaltung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oesterreich Geheimhaltung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `offenlegung-in-pitch-und-datenraum` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Offenlegung In Pitch Und Datenraum; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `open-source-und-secret-contamination` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Open Source Und Secret Contamination; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `patent-erfinder-und-prior-art` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Patent Erfinder Und Prior Art; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Oesterreich Geheimhaltung, Offenlegung In Pitch Und Datenraum, Open Sourc
 
 ## 1. `oesterreich-geheimhaltung`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oesterreich Geheimhaltung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oesterreich Geheimhaltung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Oesterreich Geheimhaltung
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `offenlegung-in-pitch-und-datenraum`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Offenlegung In Pitch Und Datenraum; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Offenlegung In Pitch Und Datenraum; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Offenlegung In Pitch Und Datenraum
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `open-source-und-secret-contamination`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Open Source Und Secret Contamination; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Open Source Und Secret Contamination; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Open Source Und Secret Contamination
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `patent-erfinder-und-prior-art`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Patent Erfinder Und Prior Art; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Patent Erfinder Und Prior Art; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Patent Erfinder Und Prior Art
 

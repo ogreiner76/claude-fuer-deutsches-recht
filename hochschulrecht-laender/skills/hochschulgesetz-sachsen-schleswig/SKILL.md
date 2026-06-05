@@ -1,13 +1,13 @@
 ---
 name: hochschulgesetz-sachsen-schleswig
-description: "Nutze dies, wenn Hochschulgesetz Sachsen Anhalt, Hochschulgesetz Schleswig Holstein, Hochschulgesetz Thueringen, Hochschulmedizin im Plugin Hochschulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Hochschulgesetz Sachsen Anhalt, Hochschulgesetz Schleswig Holstein, Hochschulgesetz Thueringen, Hochschulmedizin prüfen.; Erstelle eine Arbeitsfassung zu Hochschulgesetz Sachsen Anhalt, Hochschulgesetz Schleswig Holstein, Hochschulgesetz Thueringen, Hochschulmedizin.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hochschulgesetz Sachsen Anhalt, Hochschulgesetz Schleswig Holstein, Hochschulgesetz Thueringen, Hochschulmedizin: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hochschulgesetz Sachsen Anhalt, Hochschulgesetz Schleswig Holstein, Hochschulgesetz Thueringen, Hochschulmedizin
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hochschulgesetz Sachsen Anhalt, Hochschulgesetz Schleswig Holstein, Hochschulgesetz Thueringen, Hochschulmedizin** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

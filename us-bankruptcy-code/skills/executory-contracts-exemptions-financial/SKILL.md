@@ -1,13 +1,13 @@
 ---
 name: executory-contracts-exemptions-financial
-description: "Nutze dies, wenn Executory Contracts 365, Exemptions 522, Financial Contract Safe Harbors, First Day Motions im Plugin Us Bankruptcy Code konkret bearbeitet werden soll. Auslöser: Bitte Executory Contracts 365, Exemptions 522, Financial Contract Safe Harbors, First Day Motions prüfen.; Erstelle eine Arbeitsfassung zu Executory Contracts 365, Exemptions 522, Financial Contract Safe Harbors, First Day Motions.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Executory Contracts 365, Exemptions 522, Financial Contract Safe Harbors, First Day Motions: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Executory Contracts 365, Exemptions 522, Financial Contract Safe Harbors, First Day Motions
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Executory Contracts 365, Exemptions 522, Financial Contract Safe Harbors, First Day Motions** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

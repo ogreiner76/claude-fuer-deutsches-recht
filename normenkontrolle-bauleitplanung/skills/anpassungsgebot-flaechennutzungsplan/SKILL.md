@@ -114,8 +114,8 @@ Das Entwicklungsgebot bindet den B-Plan an den FNP. Verletzung ist beachtlicher 
 
 ### Strategischer Hebel
 - Wenn Entwidmung nicht vorliegt — B-Plan wirft zwei Probleme auf:
-  - FNP-Konflikt
-  - Eisenbahnrechts-Konflikt
+ - FNP-Konflikt
+ - Eisenbahnrechts-Konflikt
 - Beides als Verstoß gegen Erforderlichkeit oder beachtlicher Fehler
 
 ## Schritt 8 — Rechtsfolge bei Verstoß gegen § 8 Abs. 2 BauGB

@@ -1,13 +1,13 @@
 ---
 name: planerhaltung-abwaegung
-description: "Nutze dies, wenn Spezial Planerhaltung Abwaegung Antragsbefugnis, Spezial Planerhaltung Internationaler Bezug Und Schnittstellen, Spezial Prüfung Erstpruefung Und Mandatsziel im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Planerhaltung Abwaegung Antragsbefugnis, Spezial Planerhaltung Internationaler Bezug Und Schnittstellen, Spezial Prüfung Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Planerhaltung Abwaegung Antragsbefugnis, Spezial Planerhaltung Internationaler Bezug Und Schnittstellen, Spezial Prüfung Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Planerhaltung Abwaegung Antragsbefugnis, Planerhaltung Internationaler Bezug Und Schnittstellen, Prüfung Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Planerhaltung Abwaegung Antragsbefugnis, Spezial Planerhaltung Internationaler Bezug Und Schnittstellen, Spezial Prüfung Erstpruefung Und Mandatsziel
+# Planerhaltung Abwaegung Antragsbefugnis, Planerhaltung Internationaler Bezug Und Schnittstellen, Prüfung Erstpruefung Und Mandatsziel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Planerhaltung Abwaegung Antragsbefugnis, Planerhaltung Internationaler Bezug Und Schnittstellen, Prüfung Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Planerhaltung Abwaegung Antragsbefugnis, Spezial Planerhaltung Internationaler Bezug Und Schnittstellen, Spezial Prüfung Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrolle-bauleitplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Planerhaltung Abwaegung Antragsbefugnis, Planerhaltung Internationaler Bezug Und Schnittstellen, Prüfung Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrolle-bauleitplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,11 +31,11 @@ Für **Spezial Planerhaltung Abwaegung Antragsbefugnis, Spezial Planerhaltung In
 # Planerhaltung, Abwägung und Antragsbefugnis
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `normenkontrolle-bauleitplanung`. Kontext des Plugins: Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `normenkontrolle-bauleitplanung`. Kontext des Plugins: Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -70,7 +70,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # Planerhaltung: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Planerhaltung: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Planerhaltung: Internationaler Bezug und Schnittstellen / spezial planerhaltung internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Planerhaltung: Internationaler Bezug und Schnittstellen / planerhaltung internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, OVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -111,7 +111,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Pruefung: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Pruefung: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Pruefung: Erstprüfung, Rollenklärung und Mandatsziel / spezial pruefung erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pruefung: Erstprüfung, Rollenklärung und Mandatsziel / pruefung erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, OVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

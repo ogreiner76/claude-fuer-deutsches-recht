@@ -1,13 +1,13 @@
 ---
 name: str-landesstrasse-widmung-planrecht
-description: "Nutze dies, wenn Str 042 Landesstrasse Widmung Lesen, Str 043 Landesstrasse Planrecht Prüfen, Str 044 Landesstrasse Sondernutzung Formuliere, Str 045 Landesstrasse Einwendung Bauen im Plugin Strassenrecht Infrastruktur konkret bearbeitet werden soll. Auslöser: Bitte Str 042 Landesstrasse Widmung Lesen, Str 043 Landesstrasse Planrecht Prüfen, Str 044 Landesstrasse Sondernutzung Formuliere, Str 045 Landesstrasse Einwendung Bauen prüfen.; Erstelle eine Arbeitsfassung zu Str 042 Landesstrasse Widmung Lesen, Str 043 Landesstrasse Planrecht Prüfen, Str 044 Landesstrasse Sondernutzung Formuliere, Str 045 Landesstrasse Einwendung Bauen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Str 042 Landesstrasse Widmung Lesen, Str 043 Landesstrasse Planrecht Prüfen, Str 044 Landesstrasse Sondernutzung Formuliere, Str 045 Landesstrasse Einwendung Bauen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Str 042 Landesstrasse Widmung Lesen, Str 043 Landesstrasse Planrecht Prüfen, Str 044 Landesstrasse Sondernutzung Formuliere, Str 045 Landesstrasse Einwendung Bauen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Str 042 Landesstrasse Widmung Lesen, Str 043 Landesstrasse Planrecht Prüfen, Str 044 Landesstrasse Sondernutzung Formuliere, Str 045 Landesstrasse Einwendung Bauen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

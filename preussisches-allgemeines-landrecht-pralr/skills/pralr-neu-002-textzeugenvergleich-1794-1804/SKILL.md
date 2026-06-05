@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-002-textzeugenvergleich-1794-1804
-description: "Nutze dies, wenn PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR

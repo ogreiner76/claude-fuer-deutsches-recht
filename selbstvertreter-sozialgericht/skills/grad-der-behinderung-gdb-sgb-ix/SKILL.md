@@ -80,7 +80,7 @@ Pro Diagnose ein aktuelles Attest:
 ### Schritt 4 — Widerspruch
 
 ```
-Versorgungsamt / Bezirksregierung [...]            [Ort, Datum]
+Versorgungsamt / Bezirksregierung [...] [Ort, Datum]
 
 Az: [...]
 
@@ -93,16 +93,16 @@ gegen den o.g. Bescheid lege ich Widerspruch ein.
 Begruendung:
 
 1. Diagnosen und GdB-Werte
-   a) [Diagnose 1, ICD] — Einzel-GdB nach VMG: [Wert]. Beleg: [Attest]
-   b) [Diagnose 2, ICD] — Einzel-GdB: [Wert]. Beleg: [Attest]
-   c) [Diagnose 3, ICD] — Einzel-GdB: [Wert]. Beleg: [Attest]
+ a) [Diagnose 1, ICD] — Einzel-GdB nach VMG: [Wert]. Beleg: [Attest]
+ b) [Diagnose 2, ICD] — Einzel-GdB: [Wert]. Beleg: [Attest]
+ c) [Diagnose 3, ICD] — Einzel-GdB: [Wert]. Beleg: [Attest]
 
 2. Gesamt-GdB
-   Die Einzelbewertungen ergeben unter Beruecksichtigung der Wechselwirkungen einen Gesamt-GdB von mindestens [Wert].
+ Die Einzelbewertungen ergeben unter Beruecksichtigung der Wechselwirkungen einen Gesamt-GdB von mindestens [Wert].
 
 3. Merkzeichen
-   a) Merkzeichen [G/B/H/...] liegen vor, weil [...]
-   b) Beleg: [Attest, Befund]
+ a) Merkzeichen [G/B/H/...] liegen vor, weil [...]
+ b) Beleg: [Attest, Befund]
 
 Anlagen:
 - Aerztliche Atteste [Liste]

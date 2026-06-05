@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Nutze dies, wenn Anschluss-Routing im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Legistik Werkstatt.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Anschluss-Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Legistik Werkstatt** ein Fall noch sortier
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen-legw-bmleh` — Allgemein Workflow Chronologie Workflow Fristen Legw Bmleh
+- `allgemein-workflow-chronologie-workflow-fristen-legw-bmleh` — Allgemein Chronologie Fristen Legw Bmleh
 - `begruendung-allgemein-und-besonders` — Begruendung Allgemein Und Besonders
 - `dokumente-rendern-docx-pdf` — Dokumente Rendern Docx Pdf
 - `europarechtskonformitaet` — Europarechtskonformitaet
@@ -29,7 +29,7 @@ Nutze diesen Skill, wenn im Bereich **Legistik Werkstatt** ein Fall noch sortier
 ## Arbeitsweg
 
 - Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Spezialpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
+- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
 - Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
 - Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
 

@@ -1,25 +1,25 @@
 ---
 name: faktenbank-bauliche-beschluesse
-description: "Nutze dies, wenn Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsstand Mai 2026 Faktenbank, Bauliche Formular Portal Und Einreichung, Beschluesse Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste
+# Rechtsstand Mai 2026 Faktenbank, Bauliche Formular Portal Und Einreichung, Beschluesse Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsstand Mai 2026 Faktenbank, Bauliche Formular Portal Und Einreichung, Beschluesse Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsstand-mai-2026-faktenbank` | Quellen-Gate für WEG und Hausverwaltung mit Stand 05/2026. Enthält Normanker zu WEG, BGB, BetrKV, HeizkostenV, GEG und CO2KostAufG sowie frei verifizierte BGH-Rechtsprechung des V. Zivilsenats 2024 bis 2026 zu Kostenverteilung, baulichen Veränderungen, Jahresabrechnung, Vorschüssen, Verwalterhaftung, Störerhaftung und Verfahrensfristen. |
-| `spezial-bauliche-formular-portal-und-einreichung` | Bauliche: Formular, Portal und Einreichungslogik im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-beschluesse-dokumentenmatrix-und-lueckenliste` | Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-bauliche-formular-portal-und-einreichung` | Bauliche: Formular, Portal und Einreichungslogik im WEG- und Hausverwaltungsrecht: fachlich vertiefter Fachmodul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-beschluesse-dokumentenmatrix-und-lueckenliste` | Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung im WEG- und Hausverwaltungsrecht: fachlich vertiefter Fachmodul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Rechtsstand Mai 2026 Faktenbank, Spezial Bauliche Formular Portal Und Einreichung, Spezial Beschluesse Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weg-hausverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsstand Mai 2026 Faktenbank, Bauliche Formular Portal Und Einreichung, Beschluesse Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `weg-hausverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -111,7 +111,7 @@ Jede Ausgabe mit Rechtsstand enthält:
 
 ## 2. `spezial-bauliche-formular-portal-und-einreichung`
 
-**Fokus:** Bauliche: Formular, Portal und Einreichungslogik im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Bauliche: Formular, Portal und Einreichungslogik im WEG- und Hausverwaltungsrecht: fachlich vertiefter Fachmodul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Bauliche: Formular, Portal und Einreichungslogik
 
@@ -168,7 +168,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-beschluesse-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung im WEG- und Hausverwaltungsrecht: fachlich vertiefter Fachmodul mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung
 

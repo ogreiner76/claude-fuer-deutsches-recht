@@ -32,7 +32,7 @@ description: "Antrag nach § 3a Absatz 4 EStG: Form, Frist, Inhalt und Bindungsw
 - **§ 149 AO** — Steuererklärung.
 - **§ 164 AO** — Festsetzung unter Vorbehalt; eventuelle Rücknahme der Steuerfestsetzung im Vorbehaltsverfahren.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt | Output |
 |---|---|---|
@@ -79,7 +79,7 @@ Anlage zur [Körperschaft-/Einkommen-]Steuererklärung
 [Wirtschaftsjahr] der [Firma]
 
 Betreff: Antrag nach § 3a Abs. 4 EStG —
-         Sanierungsertrag in Höhe von EUR [Betrag]
+ Sanierungsertrag in Höhe von EUR [Betrag]
 
 Sehr geehrte Damen und Herren,
 
@@ -102,24 +102,24 @@ in entsprechender Höhe.
 II. Vier Voraussetzungen § 3a Abs. 1 EStG
 1. Sanierungsbedürftigkeit: Anlagen 1 und 2.
 2. Sanierungsfähigkeit: IDW S 6-Konzept vom [Datum] —
-   Anlage 4.
+ Anlage 4.
 3. Sanierungsabsicht der Gläubiger: Schriftliche
-   Erklärungen — Anlagen 3.
+ Erklärungen — Anlagen 3.
 4. Sanierungseignung: Maßnahmenkatalog und Quote —
-   Anlage 5.
+ Anlage 5.
 
 III. Berechnung Sanierungsertrag nach § 3a Abs. 3 EStG
-Sanierungsertrag brutto                     EUR [A]
-abzgl. zusammenhängende Aufwendungen         EUR [B]
-Sanierungsertrag netto                       EUR [A-B]
-abzgl. Verlustvortrag § 3c Abs. 4 EStG       EUR [C]
-verbleibender steuerbefreiter Ertrag         EUR [A-B-C]
+Sanierungsertrag brutto EUR [A]
+abzgl. zusammenhängende Aufwendungen EUR [B]
+Sanierungsertrag netto EUR [A-B]
+abzgl. Verlustvortrag § 3c Abs. 4 EStG EUR [C]
+verbleibender steuerbefreiter Ertrag EUR [A-B-C]
 
 IV. Anträge
 1. Steuerbefreiung in Höhe von EUR [A-B-C] gem.
-   § 3a Abs. 1 EStG.
+ § 3a Abs. 1 EStG.
 2. Festsetzung unter Vorbehalt der Nachprüfung
-   gem. § 164 AO bis Abschluss des Sanierungsverfahrens.
+ gem. § 164 AO bis Abschluss des Sanierungsverfahrens.
 
 Mit freundlichen Grüßen
 [Berater]
@@ -134,7 +134,7 @@ Schritt 3: FA stellt Sanierungserfolg fest
 Schritt 4: Bindungswirkung greift ► Rücknahme ausgeschlossen
 Schritt 5: Verlustvortrag wurde verbraucht ► dauerhaft weg
 Schritt 6: Bei späterer Streit: nur noch Steuerbescheid-
-           Korrektur, kein neuer Wahlrechtsweg
+ Korrektur, kein neuer Wahlrechtsweg
 ```
 
 ## Typische Fehler

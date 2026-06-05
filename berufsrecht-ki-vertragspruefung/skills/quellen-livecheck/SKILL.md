@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Berufsrecht Ki Vertragspruefung** ein Fall
 ## Fachlandkarte dieses Plugins
 
 - `ai-act-rollen-kanzlei-provider-deployer-api` — Ai Act Rollen Kanzlei Provider Deployer Api
-- `allgemein-brki-rollout-workflow-chronologie` — Allgemein Brki Rollout Workflow Chronologie
+- `allgemein-brki-rollout-workflow-chronologie` — Allgemein Brki Rollout Chronologie
 - `anbietern-belehrung-sonderfall-edge` — Anbietern Belehrung Sonderfall Edge
 - `art-50-ki-vo-schriftsatz-marketing-chatbot` — Art 50 Ki Vo Schriftsatz Marketing Chatbot
 - `avv-grenzpruefung-brki-anbieter-brki-eu` — Avv Grenzpruefung Brki Anbieter Brki Eu

@@ -1,6 +1,6 @@
 ---
 name: urlaub-quellenkarte
-description: "Nutze dies, wenn Urlaub Quellenkarte im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Urlaub Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Urlaub Quellenkarte

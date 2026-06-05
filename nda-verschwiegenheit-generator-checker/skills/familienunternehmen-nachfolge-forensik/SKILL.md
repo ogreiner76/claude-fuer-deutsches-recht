@@ -1,22 +1,22 @@
 ---
 name: familienunternehmen-nachfolge-forensik
-description: "Nutze dies, wenn Familienunternehmen Und Nachfolge, Forensik Und Logfiles, Forschung Entwicklung Kooperation, Frankreich Secret Des Affaires im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Familienunternehmen Und Nachfolge, Forensik Und Logfiles, Forschung Entwicklung Kooperation, Frankreich Secret Des Affaires prüfen.; Erstelle eine Arbeitsfassung zu Familienunternehmen Und Nachfolge, Forensik Und Logfiles, Forschung Entwicklung Kooperation, Frankreich Secret Des Affaires.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Familienunternehmen Und Nachfolge, Forensik Und Logfiles, Forschung Entwicklung Kooperation, Frankreich Secret Des Affaires: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Familienunternehmen Und Nachfolge, Forensik Und Logfiles, Forschung Entwicklung Kooperation, Frankreich Secret Des Affaires
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Familienunternehmen Und Nachfolge, Forensik Und Logfiles, Forschung Entwicklung Kooperation, Frankreich Secret Des Affaires** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `familienunternehmen-und-nachfolge` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Familienunternehmen Und Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `forensik-und-logfiles` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forensik Und Logfiles; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `forschung-entwicklung-kooperation` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forschung Entwicklung Kooperation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `frankreich-secret-des-affaires` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Frankreich Secret Des Affaires; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `familienunternehmen-und-nachfolge` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Familienunternehmen Und Nachfolge; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `forensik-und-logfiles` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forensik Und Logfiles; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `forschung-entwicklung-kooperation` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forschung Entwicklung Kooperation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `frankreich-secret-des-affaires` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Frankreich Secret Des Affaires; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Familienunternehmen Und Nachfolge, Forensik Und Logfiles, Forschung Entwi
 
 ## 1. `familienunternehmen-und-nachfolge`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Familienunternehmen Und Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Familienunternehmen Und Nachfolge; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Familienunternehmen Und Nachfolge
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `forensik-und-logfiles`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forensik Und Logfiles; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forensik Und Logfiles; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Forensik Und Logfiles
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `forschung-entwicklung-kooperation`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forschung Entwicklung Kooperation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forschung Entwicklung Kooperation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Forschung Entwicklung Kooperation
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `frankreich-secret-des-affaires`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Frankreich Secret Des Affaires; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Frankreich Secret Des Affaires; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Frankreich Secret Des Affaires
 

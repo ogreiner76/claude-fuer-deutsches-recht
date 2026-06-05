@@ -1,13 +1,13 @@
 ---
 name: entwurf-einarbeitung-einfache-sprache
-description: "Nutze dies, wenn Entwurf, Einarbeitung, Einfache Sprache Briefe im Plugin Rechtsberatungsstelle konkret bearbeitet werden soll. Auslöser: Bitte Entwurf, Einarbeitung, Einfache Sprache Briefe prüfen.; Erstelle eine Arbeitsfassung zu Entwurf, Einarbeitung, Einfache Sprache Briefe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Entwurf, Einarbeitung, Einfache Sprache Briefe, /mandanten Aufnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Entwurf, Einarbeitung, Einfache Sprache Briefe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Entwurf, Einarbeitung, Einfache Sprache Briefe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -123,10 +123,10 @@ Ein Schriftstück bei Gericht oder einer Behörde einzureichen ist eine folgensc
 
 ```
 ═══════════════════════════════════════════════════════════════════════
-  KI-GESTÜTZTER ENTWURF — ERFORDERT STUDENTISCHE ANALYSE UND SUPERVISOREN-PRÜFUNG
-  Dies ist ein Ausgangspunkt, kein fertiggestelltes Arbeitsergebnis.
-  Jedes [PRÜFEN]- und [TATSACHE FEHLT]-Flag muss vor der Einreichung aufgelöst werden.
-  § 6 Abs. 2 RDG: Einreichung erst nach Supervisoren-Freigabe.
+ KI-GESTÜTZTER ENTWURF — ERFORDERT STUDENTISCHE ANALYSE UND SUPERVISOREN-PRÜFUNG
+ Dies ist ein Ausgangspunkt, kein fertiggestelltes Arbeitsergebnis.
+ Jedes [PRÜFEN]- und [TATSACHE FEHLT]-Flag muss vor der Einreichung aufgelöst werden.
+ § 6 Abs. 2 RDG: Einreichung erst nach Supervisoren-Freigabe.
 ═══════════════════════════════════════════════════════════════════════
 
 [Das Schriftstück — im Rechtsgebiet-Musterformat, formvorschriftengerecht,

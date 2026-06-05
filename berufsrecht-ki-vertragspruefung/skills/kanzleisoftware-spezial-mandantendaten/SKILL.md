@@ -3,10 +3,10 @@ name: kanzleisoftware-spezial-mandantendaten
 description: "Spezialfall Kanzleisoftware mit KI-Funktionen (RA-MICRO, Datev DMS, Acta Nova, vRA): Mandantendaten in Cloud, KI-Funktion Volltextsuche, Diktat, Vertragsanalyse. Pruefraster fuer Einwilligung Mandant, Auftragsverarbeitung, Loeschkonzepte."
 ---
 
-# Kanzleisoftware-Spezial KI
+# Kanzleisoftware-KI
 
-## Spezialwissen: Kanzleisoftware-Spezial KI
-- **Spezialgegenstand:** Kanzleisoftware-Spezial KI / kanzleisoftware spezial mandantendaten. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+## Spezialwissen: Kanzleisoftware-KI
+- **Spezialgegenstand:** Kanzleisoftware-KI / kanzleisoftware mandantendaten. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** KI, RA, MICRO, DMS.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

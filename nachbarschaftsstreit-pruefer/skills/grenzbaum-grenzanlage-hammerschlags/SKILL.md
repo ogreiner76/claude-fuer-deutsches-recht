@@ -1,13 +1,13 @@
 ---
 name: grenzbaum-grenzanlage-hammerschlags
-description: "Nutze dies, wenn Grenzbaum Und Grenzanlage, Hammerschlags Und Leiterrecht, Horrorfall Aktenauswertung im Plugin Nachbarschaftsstreit Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Grenzbaum Und Grenzanlage, Hammerschlags Und Leiterrecht, Horrorfall Aktenauswertung prüfen.; Erstelle eine Arbeitsfassung zu Grenzbaum Und Grenzanlage, Hammerschlags Und Leiterrecht, Horrorfall Aktenauswertung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grenzbaum Und Grenzanlage, Hammerschlags Und Leiterrecht, Horrorfall Aktenauswertung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grenzbaum Und Grenzanlage, Hammerschlags Und Leiterrecht, Horrorfall Aktenauswertung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grenzbaum Und Grenzanlage, Hammerschlags Und Leiterrecht, Horrorfall Aktenauswertung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -160,7 +160,7 @@ Dieser Skill ist für die Akte, bei der schon der Dateiname müde macht. Er lies
 5. Eilpunkte markieren.
 6. Beweise je Anspruch zuordnen.
 7. Falsche Fährten aussortieren.
-8. Spezialskills vorschlagen.
+8. Fachmodule vorschlagen.
 9. Schreiben, Eilantrag oder Vergleich vorbereiten.
 
 ## Ausgabe

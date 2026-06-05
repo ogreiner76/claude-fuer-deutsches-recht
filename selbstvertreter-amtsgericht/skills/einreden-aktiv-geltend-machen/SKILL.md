@@ -137,14 +137,14 @@ Eigener Abschnitt in der Klageerwiderung:
 III. Einreden
 
 1. Verjaehrung.
-   [Begruendung]
+ [Begruendung]
 
 2. Hilfsweise: Aufrechnung mit Forderung in Hoehe
-   von 800 EUR aus [Grund].
-   [Begruendung]
+ von 800 EUR aus [Grund].
+ [Begruendung]
 
 3. Hoechsthilfsweise: Zurueckbehaltungsrecht.
-   [Begruendung]
+ [Begruendung]
 ```
 
 Rangfolge: Erst Hauptangriff (Verjaehrung, weil sie Klage komplett zu Fall bringt), dann Aufrechnung (Teilreduktion), dann Zurueckbehaltung (Zug-um-Zug).

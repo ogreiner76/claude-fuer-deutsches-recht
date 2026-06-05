@@ -1,13 +1,13 @@
 ---
 name: reseller-oem-sbom-software-scraping-api
-description: "Nutze dies, wenn Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, Secure Development Contract im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, Secure Development Contract prüfen.; Erstelle eine Arbeitsfassung zu Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, Secure Development Contract.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, Secure Development Contract: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, Secure Development Contract
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Reseller Oem Var, Sbom Software Composition, Scraping Api Terms, Secure Development Contract** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

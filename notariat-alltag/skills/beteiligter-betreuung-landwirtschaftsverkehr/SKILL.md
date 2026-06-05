@@ -1,13 +1,13 @@
 ---
 name: beteiligter-betreuung-landwirtschaftsverkehr
-description: "Nutze dies, wenn Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst im Plugin Notariat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst prüfen.; Erstelle eine Arbeitsfassung zu Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 025 Beteiligter Mit Betreuung Oder Vorsorgevollmacht Ge, Notariat 028 Landwirtschaftsverkehr Grundstuecksverkehrsgenehmig, Notariat 030 Stiftung Verein Genossenschaft Notarielle Schnittst** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

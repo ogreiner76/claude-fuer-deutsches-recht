@@ -1,22 +1,22 @@
 ---
 name: beirat-amtszeit-rotation-bank-sanierung
-description: "Nutze dies, wenn Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-amtszeit-und-rotation` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Amtszeit Und Rotation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-bank-und-sanierung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Bank Und Sanierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-beratungsfunktion` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-beschlussfassung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beschlussfassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-amtszeit-und-rotation` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Amtszeit Und Rotation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-bank-und-sanierung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Bank Und Sanierung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-beratungsfunktion` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beratungsfunktion; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-beschlussfassung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beschlussfassung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung, Beirat Beratungs
 
 ## 1. `beirat-amtszeit-und-rotation`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Amtszeit Und Rotation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Amtszeit Und Rotation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Amtszeit Und Rotation
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-bank-und-sanierung`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Bank Und Sanierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Bank Und Sanierung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Bank Und Sanierung
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-beratungsfunktion`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beratungsfunktion; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beratungsfunktion
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-beschlussfassung`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beschlussfassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beschlussfassung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beschlussfassung
 

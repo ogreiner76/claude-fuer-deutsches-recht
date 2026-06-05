@@ -1,13 +1,13 @@
 ---
 name: steuerberater-verschwiegenheit-cloud-datev
-description: "Nutze dies, wenn Steuerberater Verschwiegenheit Cloud Und Datev Kammerantwort Un, Steuerberater Verschwiegenheit Cloud Und Datev Organisationspfl, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kal, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kam im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Verschwiegenheit Cloud Und Datev Kammerantwort Un, Steuerberater Verschwiegenheit Cloud Und Datev Organisationspfl, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kal, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kam prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Verschwiegenheit Cloud Und Datev Kammerantwort Un, Steuerberater Verschwiegenheit Cloud Und Datev Organisationspfl, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kal, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kam.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Steuerberater Verschwiegenheit Cloud Und Datev Kammerantwort Un, Steuerberater Verschwiegenheit Cloud Und Datev Organisationspfl, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kal, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kam: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Verschwiegenheit Cloud Und Datev Kammerantwort Un, Steuerberater Verschwiegenheit Cloud Und Datev Organisationspfl, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kal, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kam
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Verschwiegenheit Cloud Und Datev Kammerantwort Un, Steuerberater Verschwiegenheit Cloud Und Datev Organisationspfl, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kal, Steuerberater Vorbehaltsaufgabe Und Unbefugte Hilfeleistung Kam** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

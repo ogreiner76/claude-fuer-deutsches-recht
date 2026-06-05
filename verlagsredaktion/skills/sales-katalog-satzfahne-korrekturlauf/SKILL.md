@@ -1,13 +1,13 @@
 ---
 name: sales-katalog-satzfahne-korrekturlauf
-description: "Nutze dies, wenn Sales Katalog Vlb Buchhandel, Satzfahne Korrekturlauf, Spezial Autorenkommunikation Compliance Dokumentation Und Akte, Spezial Bildrechte Zahlen Schwellen Und Berechnung, Spezial Buchprojekte Internationaler Bezug Und Schnittstellen im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Sales Katalog Vlb Buchhandel, Satzfahne Korrekturlauf, Spezial Autorenkommunikation Compliance Dokumentation Und Akte, Spezial Bildrechte Zahlen Schwellen Und Berechnung, Spezial Buchprojekte Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Sales Katalog Vlb Buchhandel, Satzfahne Korrekturlauf, Spezial Autorenkommunikation Compliance Dokumentation Und Akte, Spezial Bildrechte Zahlen Schwellen Und Berechnung, Spezial Buchprojekte Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sales Katalog Vlb Buchhandel, Satzfahne Korrekturlauf, Autorenkommunikation Compliance Dokumentation Und Akte, Bildrechte Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Sales Katalog Vlb Buchhandel, Satzfahne Korrekturlauf, Spezial Autorenkommunikation Compliance Dokumentation Und Akte, Spezial Bildrechte Zahlen Schwellen Und Berechnung, Spezial Buchprojekte Internationaler Bezug Und Schnittstellen
+# Sales Katalog Vlb Buchhandel, Satzfahne Korrekturlauf, Autorenkommunikation Compliance Dokumentation Und Akte, Bildrechte Zahlen Schwellen Und Berechnung, Buchprojekte Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sales Katalog Vlb Buchhandel, Satzfahne Korrekturlauf, Autorenkommunikation Compliance Dokumentation Und Akte, Bildrechte Zahlen Schwellen Und Berechnung, Buchprojekte Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Sales Katalog Vlb Buchhandel, Satzfahne Korrekturlauf, Spezial Autorenkommunikation Compliance Dokumentation Und Akte, Spezial Bildrechte Zahlen Schwellen Und Berechnung, Spezial Buchprojekte Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsredaktion` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sales Katalog Vlb Buchhandel, Satzfahne Korrekturlauf, Autorenkommunikation Compliance Dokumentation Und Akte, Bildrechte Zahlen Schwellen Und Berechnung, Buchprojekte Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsredaktion` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -135,7 +135,7 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 # Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk / spezial autorenkommunikation compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk / autorenkommunikation compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -176,7 +176,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Bildrechte: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Bildrechte: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Bildrechte: Zahlen, Schwellenwerte und Berechnung / spezial bildrechte zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bildrechte: Zahlen, Schwellenwerte und Berechnung / bildrechte zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -217,7 +217,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Buchprojekte: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Buchprojekte: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Buchprojekte: Internationaler Bezug und Schnittstellen / spezial buchprojekte internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Buchprojekte: Internationaler Bezug und Schnittstellen / buchprojekte internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

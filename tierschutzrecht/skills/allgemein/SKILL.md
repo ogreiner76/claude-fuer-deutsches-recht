@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Tierschutzrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Spezialskill-Routing und erste Ausgabe."
+description: "Tierschutzrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
 ---
 
 # Tierschutzrecht - Allgemeiner Einstieg
 
 ## Aufgabe
 
-Führt in Tierschutzrecht ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Spezialskills dieses Plugins vor.
+Führt in Tierschutzrecht ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.
 
 ## Startfragen
 

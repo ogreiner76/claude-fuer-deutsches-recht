@@ -1,6 +1,6 @@
 ---
 name: beirat-bestellung-und-abberufung
-description: "Nutze dies, wenn Beirat Bestellung Und Abberufung im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Bestellung Und Abberufung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Bestellung Und Abberufung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Bestellung Und Abberufung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Bestellung Und Abberufung

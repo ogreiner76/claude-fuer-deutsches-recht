@@ -1,13 +1,13 @@
 ---
 name: ki-notariat-kollegialitaet-kammerantwort
-description: "Nutze dies, wenn Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr prüfen.; Erstelle eine Arbeitsfassung zu Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer..."
+description: "Nutze dies bei Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Ki Im Notariat Grenzen Kammerantwort Und Verfahrensstrat, Notare Kollegialitaet Und Zustaendigkeit Kammerantwort Und Verf, Notare Kollegialitaet Und Zustaendigkeit Organisationspflicht U, Notare Notarkammer Anfrage Kammerantwort Und Verfahrensstrategi, Notare Share Deal Closing Notar Kammerantwort Und Verfahrensstr** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

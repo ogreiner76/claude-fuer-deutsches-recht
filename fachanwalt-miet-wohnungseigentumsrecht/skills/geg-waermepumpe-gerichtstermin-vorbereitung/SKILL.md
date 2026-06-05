@@ -1,34 +1,34 @@
 ---
 name: geg-waermepumpe-gerichtstermin-vorbereitung
-description: "Nutze dies, wenn Workflow Geg Waermepumpe Routing, Workflow Gerichtstermin Vorbereitung, Workflow Gewerberaum Intake, Workflow Haustier Nachbar Konflikt, Workflow Hausverwaltung Intake im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Geg Waermepumpe Routing, Gerichtstermin Vorbereitung, Gewerberaum Intake, Haustier Nachbar Konflikt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Geg Waermepumpe Routing, Workflow Gerichtstermin Vorbereitung, Workflow Gewerberaum Intake, Workflow Haustier Nachbar Konflikt, Workflow Hausverwaltung Intake
+# Geg Waermepumpe Routing, Gerichtstermin Vorbereitung, Gewerberaum Intake, Haustier Nachbar Konflikt, Hausverwaltung Intake
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geg Waermepumpe Routing, Gerichtstermin Vorbereitung, Gewerberaum Intake, Haustier Nachbar Konflikt, Hausverwaltung Intake** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-geg-waermepumpe-routing` | GEG/Wärmepumpe-Routing: Workflow-Skill für Miet- und WEG-Recht; trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-gerichtstermin-vorbereitung` | Gerichtstermin Vorbereitung: Workflow-Skill für Miet- und WEG-Recht; macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-gewerberaum-intake` | Gewerberaum-Intake: Workflow-Skill für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-haustier-nachbar-konflikt` | Haustier-/Nachbarkonflikt: Workflow-Skill für Miet- und WEG-Recht; trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-hausverwaltung-intake` | Hausverwaltungs-Intake: Workflow-Skill für Miet- und WEG-Recht; macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-geg-waermepumpe-routing` | GEG/Wärmepumpe-Routing: Arbeitsmodul für Miet- und WEG-Recht; trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-gerichtstermin-vorbereitung` | Gerichtstermin Vorbereitung: Arbeitsmodul für Miet- und WEG-Recht; macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-gewerberaum-intake` | Gewerberaum-Intake: Arbeitsmodul für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-haustier-nachbar-konflikt` | Haustier-/Nachbarkonflikt: Arbeitsmodul für Miet- und WEG-Recht; trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-hausverwaltung-intake` | Hausverwaltungs-Intake: Arbeitsmodul für Miet- und WEG-Recht; macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Geg Waermepumpe Routing, Workflow Gerichtstermin Vorbereitung, Workflow Gewerberaum Intake, Workflow Haustier Nachbar Konflikt, Workflow Hausverwaltung Intake** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Geg Waermepumpe Routing, Gerichtstermin Vorbereitung, Gewerberaum Intake, Haustier Nachbar Konflikt, Hausverwaltung Intake** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-geg-waermepumpe-routing`
 
-**Fokus:** GEG/Wärmepumpe-Routing: Workflow-Skill für Miet- und WEG-Recht; trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** GEG/Wärmepumpe-Routing: Arbeitsmodul für Miet- und WEG-Recht; trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # GEG/Wärmepumpe-Routing
 
@@ -42,9 +42,9 @@ Für **Workflow Geg Waermepumpe Routing, Workflow Gerichtstermin Vorbereitung, W
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: trennt Mietrecht, WEG, Förderung, Kostenverteilung und Duldung.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -57,7 +57,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-gerichtstermin-vorbereitung`
 
-**Fokus:** Gerichtstermin Vorbereitung: Workflow-Skill für Miet- und WEG-Recht; macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Gerichtstermin Vorbereitung: Arbeitsmodul für Miet- und WEG-Recht; macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Gerichtstermin Vorbereitung
 
@@ -87,9 +87,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht Parteivortrag, Beweise, Vergleichslinie und Fragenliste.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -102,7 +102,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -118,7 +118,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-gewerberaum-intake`
 
-**Fokus:** Gewerberaum-Intake: Workflow-Skill für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Gewerberaum-Intake: Arbeitsmodul für Miet- und WEG-Recht; klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Gewerberaum-Intake
 
@@ -132,9 +132,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Laufzeit, Schriftform, Betriebspflicht, Konkurrenzschutz, Nebenkosten und Kündigung.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -147,7 +147,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-haustier-nachbar-konflikt`
 
-**Fokus:** Haustier-/Nachbarkonflikt: Workflow-Skill für Miet- und WEG-Recht; trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Haustier-/Nachbarkonflikt: Arbeitsmodul für Miet- und WEG-Recht; trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Haustier-/Nachbarkonflikt
 
@@ -177,9 +177,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: trennt Mietvertrag, Hausordnung, Störung, Beweis und Unterlassung.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -192,7 +192,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -208,7 +208,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-hausverwaltung-intake`
 
-**Fokus:** Hausverwaltungs-Intake: Workflow-Skill für Miet- und WEG-Recht; macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Hausverwaltungs-Intake: Arbeitsmodul für Miet- und WEG-Recht; macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Hausverwaltungs-Intake
 
@@ -222,9 +222,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht aus Verwalterpost, Angeboten, Schäden und Beschwerden eine Beschluss- und To-do-Matrix.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -237,7 +237,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab

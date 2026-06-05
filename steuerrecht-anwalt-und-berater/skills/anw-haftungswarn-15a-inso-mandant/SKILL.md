@@ -87,7 +87,7 @@ Pflicht aus § 11 BORA (Schriftform-Pflicht bei wichtigen Mandantenhinweisen) un
 ## Muster — Anwaltliches Belehrungs-/Hinweisschreiben (verkürzt)
 
 ```
-[Kanzlei-Briefkopf]                                               [Datum]
+[Kanzlei-Briefkopf] [Datum]
 
 PERSÖNLICH UND VERTRAULICH
 
@@ -117,29 +117,29 @@ sechs Wochen ab Eintritt der Ueberschuldung].
 **Risiken bei Verstoss gegen die Antragspflicht:**
 
 1. Strafrechtliche Verantwortung nach § 15a Abs. 4 InsO
-   (Freiheitsstrafe bis zu drei Jahren oder Geldstrafe; bei
-   fahrlaessiger Verschleppung bis zu einem Jahr).
+ (Freiheitsstrafe bis zu drei Jahren oder Geldstrafe; bei
+ fahrlaessiger Verschleppung bis zu einem Jahr).
 2. Persoenliche zivilrechtliche Haftung gegenueber der Gesellschaft
-   gemaess § 15b InsO (verbotene Zahlungen nach Insolvenzreife).
+ gemaess § 15b InsO (verbotene Zahlungen nach Insolvenzreife).
 3. Persoenliche Haftung gegenueber Neuglaeubigern aus § 823 Abs. 2
-   BGB i.V.m. § 15a InsO bzw. § 826 BGB (Quotenschaden Altglaeubiger,
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ BGB i.V.m. § 15a InsO bzw. § 826 BGB (Quotenschaden Altglaeubiger,
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Empfehlung:**
 
 Ich empfehle Ihnen mit Nachdruck:
 
 - saemtliche an Glaeubiger gerichteten Zahlungen unverzueglich auf
-  Insolvenzkonformitaet zu pruefen (vgl. § 15b InsO);
+ Insolvenzkonformitaet zu pruefen (vgl. § 15b InsO);
 - saemtliche an die Gesellschaft eingehenden Zahlungen auf einem
-  gesonderten Konto zu sammeln;
+ gesonderten Konto zu sammeln;
 - den Insolvenzantrag innerhalb der oben genannten Frist zu stellen,
-  sofern eine Sanierungsperspektive ausserhalb des Insolvenzverfahrens
-  nicht zeitnah belegt werden kann;
+ sofern eine Sanierungsperspektive ausserhalb des Insolvenzverfahrens
+ nicht zeitnah belegt werden kann;
 - alternative Verfahrenswege (Eigenverwaltung § 270b InsO,
-  Schutzschirm § 270d InsO, StaRUG-Restrukturierung soweit erst
-  drohende Zahlungsunfaehigkeit) gegen das Regelinsolvenzverfahren
-  abzuwaegen.
+ Schutzschirm § 270d InsO, StaRUG-Restrukturierung soweit erst
+ drohende Zahlungsunfaehigkeit) gegen das Regelinsolvenzverfahren
+ abzuwaegen.
 
 Ich stehe zur Mandatsuebernahme fuer das Insolvenzantragsverfahren oder
 fuer ein Sanierungsverfahren auf Grundlage einer gesonderten

@@ -1,6 +1,6 @@
 ---
 name: formuliert
-description: "Nutze dies, wenn Formuliert: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Formuliert: Erstprüfung, Rollenklärung und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Formuliert: Erstprüfung, Rollenklärung und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Formuliert: Erstprüfung, Rollenklärung und Mandatsziel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Formuliert: Erstprüfung, Rollenklärung und Mandatsziel

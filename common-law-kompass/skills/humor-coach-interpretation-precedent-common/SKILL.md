@@ -1,13 +1,13 @@
 ---
 name: humor-coach-interpretation-precedent-common
-description: "Nutze dies, wenn Common Law Humor Coach, Common Law Interpretation Precedent, Common Law Kommandocenter im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Bitte Common Law Humor Coach, Common Law Interpretation Precedent, Common Law Kommandocenter prüfen.; Erstelle eine Arbeitsfassung zu Common Law Humor Coach, Common Law Interpretation Precedent, Common Law Kommandocenter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Common Law Humor Coach, Common Law Interpretation Precedent, Common Law Kommandocenter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Common Law Humor Coach, Common Law Interpretation Precedent, Common Law Kommandocenter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Common Law Humor Coach, Common Law Interpretation Precedent, Common Law Kommandocenter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -309,7 +309,7 @@ Kläre vor dem ersten Schritt:
 - Zweigert/Kötz, Einführung in die Rechtsvergleichung, 3. Aufl. 1996 — Standardwerk für deutsch-englische Rechtsvergleichung
 - Goode/McKendrick, Commercial Law, 6th ed. 2020 — umfassender UK-Commercial-Law-Überblick
 
-## Schritt-für-Schritt-Workflow Mandatseinstieg
+## Schritt-für-Schritt-Mandatseinstieg
 
 1. **Jurisdiktion fixieren** — Rechtswahlklausel lesen, Sitz und Registered Office prüfen, UK/US-Spur wählen.
 2. **False-Friends-Scan** — Begriffe wie "material breach", "condition", "warranty", "indemnity", "guarantee", "representation" im Vertragstext identifizieren und auf deutsche Rechtsbehelfs-Äquivalente abgleichen.
@@ -330,26 +330,26 @@ Mandat: [BEZEICHNUNG]
 Bearbeiter: [NAME]
 
 1. JURISDIKTION
-   Rechtsordnung: [English Law / New York Law / Delaware / ...]
-   Verbindliche Sprache: [EN / DE+EN]
-   Vertragstyp: [SPA / SHA / Loan / Services / ...]
+ Rechtsordnung: [English Law / New York Law / Delaware / ...]
+ Verbindliche Sprache: [EN / DE+EN]
+ Vertragstyp: [SPA / SHA / Loan / Services / ...]
 
 2. PARTEIROLLE & INTERESSEN
-   Mandant: [PARTEI]
-   Gegenpartei: [PARTEI]
-   Kerninteressen: [...]
+ Mandant: [PARTEI]
+ Gegenpartei: [PARTEI]
+ Kerninteressen: [...]
 
 3. FALSE-FRIENDS-TREFFER (Ampel)
-   GRUEN:  [Begriff] — unproblematisch
-   GELB:   [Begriff] — Klarstellungsbedarf, Kommentar: [...]
-   ROT:    [Begriff] — dringend ueberarbeiten, Risiko: [...]
+ GRUEN: [Begriff] — unproblematisch
+ GELB: [Begriff] — Klarstellungsbedarf, Kommentar: [...]
+ ROT: [Begriff] — dringend ueberarbeiten, Risiko: [...]
 
 4. OFFENE ANNAHMEN / LOCAL-COUNSEL-BEDARF
-   - [...]
+ - [...]
 
 5. NAECHSTE SCHRITTE
-   - [Schritt 1 mit Frist]
-   - [Schritt 2 mit Verantwortlichem]
+ - [Schritt 1 mit Frist]
+ - [Schritt 2 mit Verantwortlichem]
 ```
 
 

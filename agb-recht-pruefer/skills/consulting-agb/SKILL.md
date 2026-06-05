@@ -1,6 +1,6 @@
 ---
 name: consulting-agb
-description: "Branchen-Spezialskill für Consulting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Consulting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Consulting AGB

@@ -1,12 +1,12 @@
 ---
 name: anfechtung
-description: "Nutze dies, wenn Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage prüfen.; Erstelle eine Arbeitsfassung zu Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial anfechtung tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage / anfechtung tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, OVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

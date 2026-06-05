@@ -1,6 +1,6 @@
 ---
 name: beirat-kaltstart-und-zielbild
-description: "Nutze dies, wenn Beirat Kaltstart Und Zielbild im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Gesellschaftsrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Beirat Kaltstart Und Zielbild: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Beirat Kaltstart Und Zielbild

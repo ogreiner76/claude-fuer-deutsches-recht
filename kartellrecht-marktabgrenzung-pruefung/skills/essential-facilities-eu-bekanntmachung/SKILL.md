@@ -1,19 +1,19 @@
 ---
 name: essential-facilities-eu-bekanntmachung
-description: "Nutze dies, wenn Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2024, Evidenz Qualitaet Bewertung, Exklusivitaetsrabatte Treuerabatte, Follow On Klage Bindungswirkung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `essential-facilities-refusal-to-deal` | Essential Facilities und Refusal to Deal: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zugangspflichten, objektive Rechtfertigung, Immaterialgüterrechte und Datenzugang prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `essential-facilities-refusal-to-deal` | Essential Facilities und Refusal to Deal: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zugangspflichten, objektive Rechtfertigung, Immaterialgüterrechte und Datenzugang prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `eu-bekanntmachung-marktdefinition-2024` | Skill zur neuen EU-Kommissions-Bekanntmachung zur Marktdefinition (Februar 2024) und ihrer praktischen Anwendung. Vergleich zur Bekanntmachung von 1997. Neue Elemente: digitale Maerkte Innovationswettbewerb Datenmaerkte beidseitiger SSNIP-Test und qualitative Evidenz. Fundstelle ABl 2024/C 1645. |
 | `evidenz-qualitaet-bewertung` | Bewertet die Qualitaet und Belastbarkeit der vorgelegten Belege für eine Marktabgrenzung: interne Unternehmensdokumente Kundenverhaltensdaten Marktdaten Elastizitaeten Diversion Ratios Branchenberichte. Erkennt selektive Datenwahl methodische Schwaechen und fehlende Triangulation. |
 | `exklusivitaetsrabatte-treuerabatte` | Exklusivitätsrabatte Treuerabatte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
@@ -28,7 +28,7 @@ Für **Essential Facilities Refusal To Deal, Eu Bekanntmachung Marktdefinition 2
 
 ## 1. `essential-facilities-refusal-to-deal`
 
-**Fokus:** Essential Facilities und Refusal to Deal: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zugangspflichten, objektive Rechtfertigung, Immaterialgüterrechte und Datenzugang prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Essential Facilities und Refusal to Deal: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zugangspflichten, objektive Rechtfertigung, Immaterialgüterrechte und Datenzugang prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Essential Facilities und Refusal to Deal
 

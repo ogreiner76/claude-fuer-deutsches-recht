@@ -1,6 +1,6 @@
 ---
 name: beirat-sitzung-und-protokoll
-description: "Nutze dies, wenn Beirat Sitzung Und Protokoll im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Sitzung Und Protokoll prüfen.; Erstelle eine Arbeitsfassung zu Beirat Sitzung Und Protokoll.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Sitzung Und Protokoll: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Sitzung Und Protokoll

@@ -1,6 +1,6 @@
 ---
 name: beirat-red-team-satzung
-description: "Nutze dies, wenn Beirat Red Team Satzung im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Beirat Red Team Satzung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Red Team Satzung

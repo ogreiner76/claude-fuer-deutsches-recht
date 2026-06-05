@@ -1,13 +1,13 @@
 ---
 name: renewal-review-routing
-description: "Nutze dies, wenn Spezial Renewal Schriftsatz Brief Und Memo Bausteine, Spezial Review Behörden Gericht Und Registerweg, Spezial Routing Zahlen Schwellen Und Berechnung im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Vertragsrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies bei Renewal Schriftsatz Brief Und Memo Bausteine, Review Behörden Gericht Und Registerweg, Routing Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Renewal Schriftsatz Brief Und Memo Bausteine, Spezial Review Behörden Gericht Und Registerweg, Spezial Routing Zahlen Schwellen Und Berechnung
+# Renewal Schriftsatz Brief Und Memo Bausteine, Review Behörden Gericht Und Registerweg, Routing Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Renewal Schriftsatz Brief Und Memo Bausteine, Review Behörden Gericht Und Registerweg, Routing Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Renewal Schriftsatz Brief Und Memo Bausteine, Spezial Review Behörden Gericht Und Registerweg, Spezial Routing Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Renewal Schriftsatz Brief Und Memo Bausteine, Review Behörden Gericht Und Registerweg, Routing Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Renewal Schriftsatz Brief Und Memo Bausteine, Spezial Review Beh�
 # Renewal: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Renewal: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Renewal: Schriftsatz-, Brief- und Memo-Bausteine / spezial renewal schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Renewal: Schriftsatz-, Brief- und Memo-Bausteine / renewal schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Review: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Review: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Review: Behörden-, Gerichts- oder Registerweg / spezial review behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Review: Behörden-, Gerichts- oder Registerweg / review behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Routing: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Routing: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Routing: Zahlen, Schwellenwerte und Berechnung / spezial routing zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Routing: Zahlen, Schwellenwerte und Berechnung / routing zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

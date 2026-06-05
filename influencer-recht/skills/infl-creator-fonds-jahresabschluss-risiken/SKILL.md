@@ -1,13 +1,13 @@
 ---
 name: infl-creator-fonds-jahresabschluss-risiken
-description: "Nutze dies, wenn Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug im Plugin Influencer Recht konkret bearbeitet werden soll. Auslöser: Bitte Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug prüfen.; Erstelle eine Arbeitsfassung zu Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: raub-stgb-raub-todesfolge-rechtsbeugung-stgb
-description: "Nutze dies, wenn Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafrecht Raub 249 Stgb, Strafrecht Raub Mit Todesfolge 251 Stgb, Strafrecht Rechtsbeugung 339 Stgb, Strafrecht Schuldnerbeguenstigung 283d Stgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen
+# Strafrecht Raub 249 Stgb, Strafrecht Raub Mit Todesfolge 251 Stgb, Strafrecht Rechtsbeugung 339 Stgb, Strafrecht Schuldnerbeguenstigung 283D Stgb, Strafrecht Schwere Koerperverletzung 226 Stgb und 5 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Raub 249 Stgb, Strafrecht Raub Mit Todesfolge 251 Stgb, Strafrecht Rechtsbeugung 339 Stgb, Strafrecht Schuldnerbeguenstigung 283D Stgb, Strafrecht Schwere Koerperverletzung 226 Stgb und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -26,7 +26,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283D Stgb, Strafrecht Spezial Schwere Koerperverletzung 226 Stgb und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Raub 249 Stgb, Strafrecht Raub Mit Todesfolge 251 Stgb, Strafrecht Rechtsbeugung 339 Stgb, Strafrecht Schuldnerbeguenstigung 283D Stgb, Strafrecht Schwere Koerperverletzung 226 Stgb und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

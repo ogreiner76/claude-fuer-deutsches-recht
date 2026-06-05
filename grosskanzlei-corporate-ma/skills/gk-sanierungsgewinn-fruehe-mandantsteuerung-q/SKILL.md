@@ -45,7 +45,7 @@ Nicht dieser Skill, sondern `grosskanzlei-corporate-ma-distressed-ma` oder `gros
 - **BMF-Schreiben vom 27.04.2017** zur Umsetzung des Sanierungserlasses sowie nachfolgende Verlautbarungen; eigene Verifizierung im Bundessteuerblatt Stand 06/2026.
 - **FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25** zur Antragstellung im Bezug auf § 3a EStG; Volltext über die Datenbank des FG Köln und über NWB.
 
-## Workflow / Schritt für Schritt – Zeitachse Q-12 bis Q+6
+## / Schritt für Schritt – Zeitachse Q-12 bis Q+6
 
 **Q-12 bis Q-9 – Sondierung und Steuerseite ans Bord holen.**
 1. Erste Strategie-Note an den CFO mit der Warnung: Verlustvorträge sind ein Vermögensgegenstand des Konzerns; sie sind in der Sanierung gefährdet.
@@ -116,10 +116,10 @@ Schreiben Sie Ihre Empfehlungen schriftlich und gegenzeichnen lassen. Das ist ni
 - Plugin `steuerrecht-anwalt-und-berater`: Skills zu § 3a EStG, § 8c KStG, § 89 AO im Detail.
 - Plugin `insolvenzrecht`: StaRUG-Plan, Insolvenzplan, Forderungsverzicht aus Gläubigersicht.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-distressed-ma`
-  - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
-  - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+ - `grosskanzlei-corporate-ma-distressed-ma`
+ - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
+ - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
+ - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
 
 ## Quellen Stand 06/2026
 

@@ -1,21 +1,21 @@
 ---
 name: anhoerung-auskunftsbeschluss-digital-services
-description: "Nutze dies, wenn Anhoerung Auskunftsbeschluss Fristenplan, Digital Services Melde Und Abhilfeverfahren Notice And Action, Eilverfahren Verwaltungsgericht Strategie, Energie Regulierungsakte Bbplg Leitungsvorhaben Fristen Und Besc im Plugin Bundesnetzagentur Verfahren konkret bearbeitet werden soll. Auslöser: Bitte Anhoerung Auskunftsbeschluss Fristenplan, Digital Services Melde Und Abhilfeverfahren Notice And Action, Eilverfahren Verwaltungsgericht Strategie, Energie Regulierungsakte Bbplg Leitungsvorhaben Fristen Und Besc prüfen.; Erstelle eine Arbeitsfassung zu Anhoerung Auskunftsbeschluss Fristenplan, Digital Services Melde Und Abhilfeverfahren Notice And Action, Eilverfahren Verwaltungsgericht Strategie, Energie Regulierungsakte Bbplg Leitungsvorhaben Fristen Und Besc.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anhoerung Auskunftsbeschluss Fristenplan, Digital Services Melde Und Abhilfeverfahren Notice And Action, Eilverfahren Verwaltungsgericht Strategie, Energie Regulierungsakte Bbplg Leitungsvorhaben Fristen Und Besc: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anhoerung Auskunftsbeschluss Fristenplan, Digital Services Melde Und Abhilfeverfahren Notice And Action, Eilverfahren Verwaltungsgericht Strategie, Energie Regulierungsakte Bbplg Leitungsvorhaben Fristen Und Besc
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `anhoerung-auskunftsbeschluss-fristenplan` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan. |
-| `digital-services-melde-und-abhilfeverfahren-notice-and-action` | Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
-| `eilverfahren-verwaltungsgericht-strategie` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie. |
+| `anhoerung-auskunftsbeschluss-fristenplan` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan. |
+| `digital-services-melde-und-abhilfeverfahren-notice-and-action` | Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
+| `eilverfahren-verwaltungsgericht-strategie` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie. |
 | `energie-regulierungsakte-bbplg-leitungsvorhaben-fristen-und-besc` | BBPlG Leitungsvorhaben: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 
 ## Arbeitsweg
@@ -27,7 +27,7 @@ Für **Anhoerung Auskunftsbeschluss Fristenplan, Digital Services Melde Und Abhi
 
 ## 1. `anhoerung-auskunftsbeschluss-fristenplan`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan.
 
 
 # Anhörung, Auskunftsbeschluss, Fristenplan
@@ -59,39 +59,39 @@ Anwaltliche Steuerung von Anhörungen und Auskunftsverlangen der Bundesnetzagent
 ## Ablauf
 
 1. **Frist sichern.**
-   - Frist in den Kalender, Eingangsbestätigung an BNetzA.
-   - Antrag auf Fristverlängerung mit konkreter Begründung (Datenmenge, Tochtergesellschaften, Konzernfreigabe).
-   - Bei Konzernen: Freigabe-Kette mit Compliance, Datenschutz, Geschäftsführung.
+ - Frist in den Kalender, Eingangsbestätigung an BNetzA.
+ - Antrag auf Fristverlängerung mit konkreter Begründung (Datenmenge, Tochtergesellschaften, Konzernfreigabe).
+ - Bei Konzernen: Freigabe-Kette mit Compliance, Datenschutz, Geschäftsführung.
 
 2. **Rechtsgrundlage prüfen.**
-   - Stützt sich das Verlangen auf eine taugliche Norm (TKG, EnWG, PostG, ERegG, DDG)?
-   - Ist das Verfahren bereits bußgeldnah (dann § 206 Abs. 3 TKG, Selbstbelastungsschutz)?
-   - Ist die Beschlusskammer im Beschlusskammerverfahren oder die Abteilung im Aufsichtsverfahren tätig?
+ - Stützt sich das Verlangen auf eine taugliche Norm (TKG, EnWG, PostG, ERegG, DDG)?
+ - Ist das Verfahren bereits bußgeldnah (dann § 206 Abs. 3 TKG, Selbstbelastungsschutz)?
+ - Ist die Beschlusskammer im Beschlusskammerverfahren oder die Abteilung im Aufsichtsverfahren tätig?
 
 3. **Verhältnismäßigkeit prüfen.**
-   - Erforderlichkeit der Daten.
-   - Bestimmtheit der Fragen.
-   - Zumutbarkeit der Datenaufbereitung.
-   - Bei Unbestimmtheit: Nachfrage, Eingrenzung, ggf. Stufung der Datenlieferung.
+ - Erforderlichkeit der Daten.
+ - Bestimmtheit der Fragen.
+ - Zumutbarkeit der Datenaufbereitung.
+ - Bei Unbestimmtheit: Nachfrage, Eingrenzung, ggf. Stufung der Datenlieferung.
 
 4. **Datenbestand inventarisieren.**
-   - Quellen, Verantwortliche, Datenschutzfragen.
-   - Geschäftsgeheimnisse identifizieren.
-   - Konzernkommunikation und Anwaltskorrespondenz aussondern (Legal Privilege).
+ - Quellen, Verantwortliche, Datenschutzfragen.
+ - Geschäftsgeheimnisse identifizieren.
+ - Konzernkommunikation und Anwaltskorrespondenz aussondern (Legal Privilege).
 
 5. **Antwortstrategie wählen.**
-   - Vollantwort, Teilantwort mit Schwärzung, Verweigerung mit Begründung.
-   - Verweigerungen sind nur bei Selbstbelastung, fehlender Rechtsgrundlage oder Unverhältnismäßigkeit tragfähig.
-   - Risiko der Beugehaft- bzw. Zwangsgeldverhängung gegen Geschäftsleitung beachten.
+ - Vollantwort, Teilantwort mit Schwärzung, Verweigerung mit Begründung.
+ - Verweigerungen sind nur bei Selbstbelastung, fehlender Rechtsgrundlage oder Unverhältnismäßigkeit tragfähig.
+ - Risiko der Beugehaft- bzw. Zwangsgeldverhängung gegen Geschäftsleitung beachten.
 
 6. **Anhörungstext entwerfen.** Sachverhalt, Tatsachenbasis, rechtliche Bewertung, Alternativvorschläge. Klare Trennung Tatsache/Bewertung.
 
 7. **Verteidigungslinie dokumentieren.** Was wurde gesagt, was bewusst nicht. Spätere Klage beim VG Köln stützt sich auf diese Akte.
 
 8. **Rechtsschutz parallel.**
-   - Gegen den Auskunftsbeschluss selbst ist Widerspruch (sofern nicht ausgeschlossen) und Klage zum VG Köln statthaft (§ 51 Abs. 1 Nr. 7 VwGO).
-   - Aufschiebende Wirkung kann nach § 80 Abs. 5 VwGO beantragt werden, sofern nicht spezialgesetzlich ausgeschlossen (vgl. § 137 TKG, § 76 EnWG, § 79 ERegG, § 22 DDG).
-   - Bei drohendem Zwangsgeld parallel Einspruch und Eilantrag.
+ - Gegen den Auskunftsbeschluss selbst ist Widerspruch (sofern nicht ausgeschlossen) und Klage zum VG Köln statthaft (§ 51 Abs. 1 Nr. 7 VwGO).
+ - Aufschiebende Wirkung kann nach § 80 Abs. 5 VwGO beantragt werden, sofern nicht spezialgesetzlich ausgeschlossen (vgl. § 137 TKG, § 76 EnWG, § 79 ERegG, § 22 DDG).
+ - Bei drohendem Zwangsgeld parallel Einspruch und Eilantrag.
 
 ## Mustertexte
 
@@ -149,7 +149,7 @@ Vor Absendung prüfen:
 
 ## 2. `digital-services-melde-und-abhilfeverfahren-notice-and-action`
 
-**Fokus:** Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 
 # Melde- und Abhilfeverfahren ("Notice and Action") nach Art. 16 DSA
@@ -205,14 +205,14 @@ Anwaltliche Arbeit am Art. 16 DSA-Verfahren ("Notice and Action"), d. h. der Pfl
 ## Beispiele
 - Rechteinhaber meldet urheberrechtsverletzendes Video. Plattform reagiert nicht binnen 7 Tagen. Klage vor LG plus DSC-Anzeige.
 - Verband meldet Hassrede gegen Minderjährige. Plattform sperrt; Statement of Reasons mangelhaft. Beschwerde Art. 20 DSA, dann DSC.
-- Online-Plattform optimiert Notice-and-Action-Workflow auf Compliance. Implementierungsplan inkl. Trusted-Flagger-Priorisierung.
+- Online-Plattform optimiert Notice-and-Action-auf Compliance. Implementierungsplan inkl. Trusted-Flagger-Priorisierung.
 
 ## Qualitätsgate
 Meldung enthält alle Art. 16 Abs. 2-Bestandteile? Begründung der Illegalität rechtssicher (konkrete Norm)? Transparenz-Datenbank-Eintrag erfolgt? Beschwerdeweg Art. 20 reflektiert? Frist für Folgemaßnahmen kalendarisiert?
 
 ## 3. `eilverfahren-verwaltungsgericht-strategie`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie.
 
 
 # Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen

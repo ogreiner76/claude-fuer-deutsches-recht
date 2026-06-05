@@ -1,22 +1,22 @@
 ---
 name: praesenz-virtuell-praesenzskript
-description: "Nutze dies, wenn Praesenz Virtuell Hybrid Router, Praesenzskript, Protokollpaket, Q And A Katalog im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Praesenz Virtuell Hybrid Router, Praesenzskript, Protokollpaket, Q And A Katalog prüfen.; Erstelle eine Arbeitsfassung zu Praesenz Virtuell Hybrid Router, Praesenzskript, Protokollpaket, Q And A Katalog.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Praesenz Virtuell Hybrid Router, Praesenzskript, Protokollpaket, Q And A Katalog: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Praesenz Virtuell Hybrid Router, Praesenzskript, Protokollpaket, Q And A Katalog
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Praesenz Virtuell Hybrid Router, Praesenzskript, Protokollpaket, Q And A Katalog** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `praesenz-virtuell-hybrid-router` | Hauptversammlung AG und SE: Praesenz Virtuell Hybrid Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `praesenzskript` | Hauptversammlung AG und SE: Praesenzskript; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `protokollpaket` | Hauptversammlung AG und SE: Protokollpaket; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `q-and-a-katalog` | Hauptversammlung AG und SE: Q&and A Katalog; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `praesenz-virtuell-hybrid-router` | Hauptversammlung AG und SE: Praesenz Virtuell Hybrid Router; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `praesenzskript` | Hauptversammlung AG und SE: Praesenzskript; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `protokollpaket` | Hauptversammlung AG und SE: Protokollpaket; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `q-and-a-katalog` | Hauptversammlung AG und SE: Q&and A Katalog; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Praesenz Virtuell Hybrid Router, Praesenzskript, Protokollpaket, Q And A 
 
 ## 1. `praesenz-virtuell-hybrid-router`
 
-**Fokus:** Hauptversammlung AG und SE: Praesenz Virtuell Hybrid Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Praesenz Virtuell Hybrid Router; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Praesenz Virtuell Hybrid Router
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `praesenzskript`
 
-**Fokus:** Hauptversammlung AG und SE: Praesenzskript; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Praesenzskript; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Praesenzskript
 
@@ -138,7 +138,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `protokollpaket`
 
-**Fokus:** Hauptversammlung AG und SE: Protokollpaket; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Protokollpaket; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Protokollpaket
 
@@ -195,7 +195,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `q-and-a-katalog`
 
-**Fokus:** Hauptversammlung AG und SE: Q&and A Katalog; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Q&and A Katalog; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Q&and A Katalog
 

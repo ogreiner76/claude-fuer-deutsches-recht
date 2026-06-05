@@ -1,13 +1,13 @@
 ---
 name: vvg-versicherung-wohngebaeude-leitungswasser
-description: "Nutze dies, wenn Vvg Versicherung Für Fremde 43 48, Wohngebaeude Leitungswasser Sturm Hagel Brand im Plugin Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vvg Versicherung Für Fremde 43 48, Wohngebaeude Leitungswasser Sturm Hagel Brand prüfen.; Erstelle eine Arbeitsfassung zu Vvg Versicherung Für Fremde 43 48, Wohngebaeude Leitungswasser Sturm Hagel Brand.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vvg Versicherung Für Fremde 43 48, Wohngebaeude Leitungswasser Sturm Hagel Brand: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vvg Versicherung Für Fremde 43 48, Wohngebaeude Leitungswasser Sturm Hagel Brand
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vvg Versicherung Für Fremde 43 48, Wohngebaeude Leitungswasser Sturm Hagel Brand** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

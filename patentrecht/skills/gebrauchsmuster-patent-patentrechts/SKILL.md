@@ -1,13 +1,13 @@
 ---
 name: gebrauchsmuster-patent-patentrechts
-description: "Nutze dies, wenn Gebrauchsmuster Oder Patent Route, Internationaler Patentrechts Und Laendercheck, Israel Patentrecht Ilpo Opposition Revocation im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Gebrauchsmuster Oder Patent Route, Internationaler Patentrechts Und Laendercheck, Israel Patentrecht Ilpo Opposition Revocation prüfen.; Erstelle eine Arbeitsfassung zu Gebrauchsmuster Oder Patent Route, Internationaler Patentrechts Und Laendercheck, Israel Patentrecht Ilpo Opposition Revocation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gebrauchsmuster Oder Patent Route, Internationaler Patentrechts Und Laendercheck, Israel Patentrecht Ilpo Opposition Revocation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gebrauchsmuster Oder Patent Route, Internationaler Patentrechts Und Laendercheck, Israel Patentrecht Ilpo Opposition Revocation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gebrauchsmuster Oder Patent Route, Internationaler Patentrechts Und Laendercheck, Israel Patentrecht Ilpo Opposition Revocation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -60,9 +60,9 @@ Für **Gebrauchsmuster Oder Patent Route, Internationaler Patentrechts Und Laend
 ## Normen und Trade-offs
 
 - **Patent vs. Gebrauchsmuster (§§ 1, 3 ff. PatG vs. §§ 1, 3 GebrMG):**
-  - Patent: erfinderische Tätigkeit (§ 4 PatG, "erfinderischer Schritt" beim GebrM gemäß § 1 GebrMG ist materiell ähnlich, aber Maßstab wurde durch BGH "Demonstrationsschrank" GRUR 2006, 842 stärker an Patent-Maßstab gerückt).
-  - Patent: 20 Jahre Schutzdauer (§ 16 PatG); Gebrauchsmuster: max. 10 Jahre (§ 23 GebrMG).
-  - Patent: geprüft, daher rechtsbeständig; Gebrauchsmuster: ungeprüft, im Verletzungsprozess Streit über Schutzfähigkeit.
+ - Patent: erfinderische Tätigkeit (§ 4 PatG, "erfinderischer Schritt" beim GebrM gemäß § 1 GebrMG ist materiell ähnlich, aber Maßstab wurde durch BGH "Demonstrationsschrank" GRUR 2006, 842 stärker an Patent-Maßstab gerückt).
+ - Patent: 20 Jahre Schutzdauer (§ 16 PatG); Gebrauchsmuster: max. 10 Jahre (§ 23 GebrMG).
+ - Patent: geprüft, daher rechtsbeständig; Gebrauchsmuster: ungeprüft, im Verletzungsprozess Streit über Schutzfähigkeit.
 - **Neuheitsschonfrist:** § 3 Abs. 1 GebrMG kennt 6-Monats-Schonfrist für Offenbarung durch Anmelder/Vorgänger; § 3 PatG kennt KEINE allgemeine Schonfrist (Ausnahme § 3 Abs. 5 PatG: missbräuchliche Offenbarung, Schau iSd Pariser Übereinkunft). USA: 12 Monate Grace Period (35 U.S.C. § 102(b)). EP: keine allgemeine Schonfrist.
 - **Verfahrensanmeldungen:** Reine Verfahren sind nach § 2 Nr. 3 GebrMG NICHT gebrauchsmusterfähig — nur Patent.
 - **Strategie:** Doppelschutz (Patent + Gebrauchsmuster) durch Abzweigung (§ 5 GebrMG) bis 10 Jahre nach Patentanmeldung möglich.
@@ -87,7 +87,7 @@ Für **Gebrauchsmuster Oder Patent Route, Internationaler Patentrechts Und Laend
 
 Master-Routing für internationale Patentfragen: Territorien, Patentfamilie, Priorität, PCT/Nationalphasen, Validierungen, Einheitspatent, UPC-Opt-out, nationale Verletzungs- und Nichtigkeitsrisiken.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
@@ -145,7 +145,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 Israelisches Patentrecht mit starker High-Tech-/MedTech-Relevanz und Register-/Opposition-Fokus.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 

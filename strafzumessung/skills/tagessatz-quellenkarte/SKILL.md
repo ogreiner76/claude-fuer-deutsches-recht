@@ -1,6 +1,6 @@
 ---
 name: tagessatz-quellenkarte
-description: "Nutze dies, wenn Tagessatz Quellenkarte im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Tagessatz Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Tagessatz Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: fran-e-commerce-influencer-werbung
-description: "Nutze dies, wenn Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz prüfen.; Erstelle eine Arbeitsfassung zu Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

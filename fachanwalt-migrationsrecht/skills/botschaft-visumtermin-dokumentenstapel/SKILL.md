@@ -1,41 +1,41 @@
 ---
 name: botschaft-visumtermin-dokumentenstapel
-description: "Nutze dies, wenn Workflow Botschaft Visumtermin, Workflow Chronologie Und Belegmatrix, Workflow Dokumentenstapel Migration, Workflow Dublin Geas Start, Workflow Duldung Spurwechsel im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Botschaft Visumtermin, Chronologie Und Belegmatrix, Dokumentenstapel Migration, Dublin Geas Start: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Botschaft Visumtermin, Workflow Chronologie Und Belegmatrix, Workflow Dokumentenstapel Migration, Workflow Dublin Geas Start, Workflow Duldung Spurwechsel
+# Botschaft Visumtermin, Chronologie Und Belegmatrix, Dokumentenstapel Migration, Dublin Geas Start, Duldung Spurwechsel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Botschaft Visumtermin, Chronologie Und Belegmatrix, Dokumentenstapel Migration, Dublin Geas Start, Duldung Spurwechsel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-botschaft-visumtermin` | Botschaft/Visumtermin: Workflow-Skill für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-botschaft-visumtermin` | Botschaft/Visumtermin: Arbeitsmodul für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-migrationsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-dokumentenstapel-migration` | Dokumentenstapel Migration: Workflow-Skill für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-dublin-geas-start` | Dublin/GEAS Start: Workflow-Skill für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-duldung-spurwechsel` | Duldung/Spurwechsel: Workflow-Skill für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-dokumentenstapel-migration` | Dokumentenstapel Migration: Arbeitsmodul für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-dublin-geas-start` | Dublin/GEAS Start: Arbeitsmodul für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-duldung-spurwechsel` | Duldung/Spurwechsel: Arbeitsmodul für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Botschaft Visumtermin, Workflow Chronologie Und Belegmatrix, Workflow Dokumentenstapel Migration, Workflow Dublin Geas Start, Workflow Duldung Spurwechsel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Botschaft Visumtermin, Chronologie Und Belegmatrix, Dokumentenstapel Migration, Dublin Geas Start, Duldung Spurwechsel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-botschaft-visumtermin`
 
-**Fokus:** Botschaft/Visumtermin: Workflow-Skill für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Botschaft/Visumtermin: Arbeitsmodul für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Botschaft/Visumtermin
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -67,10 +67,10 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-migrationsrecht` Chronologie und Belegmatrix im Plugin fachanwalt-migrationsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin fachanwalt-migrationsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -80,7 +80,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -97,14 +97,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 3. `workflow-dokumentenstapel-migration`
 
-**Fokus:** Dokumentenstapel Migration: Workflow-Skill für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Dokumentenstapel Migration: Arbeitsmodul für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Dokumentenstapel Migration
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -131,14 +131,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 4. `workflow-dublin-geas-start`
 
-**Fokus:** Dublin/GEAS Start: Workflow-Skill für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Dublin/GEAS Start: Arbeitsmodul für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Dublin/GEAS Start
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -165,14 +165,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 5. `workflow-duldung-spurwechsel`
 
-**Fokus:** Duldung/Spurwechsel: Workflow-Skill für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Duldung/Spurwechsel: Arbeitsmodul für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Duldung/Spurwechsel
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.

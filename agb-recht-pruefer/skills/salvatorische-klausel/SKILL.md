@@ -1,6 +1,6 @@
 ---
 name: salvatorische-klausel
-description: "Klausel-Spezialskill für Salvatorische Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Salvatorische Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Salvatorische Klausel

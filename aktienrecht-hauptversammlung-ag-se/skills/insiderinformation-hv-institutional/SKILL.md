@@ -1,22 +1,22 @@
 ---
 name: insiderinformation-hv-institutional
-description: "Nutze dies, wenn Insiderinformation Und Hv, Institutional Shareholder Services, Interessenkonflikt Organmitglied, Investor Relations Und Proxy Advisor im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Insiderinformation Und Hv, Institutional Shareholder Services, Interessenkonflikt Organmitglied, Investor Relations Und Proxy Advisor prüfen.; Erstelle eine Arbeitsfassung zu Insiderinformation Und Hv, Institutional Shareholder Services, Interessenkonflikt Organmitglied, Investor Relations Und Proxy Advisor.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Insiderinformation Und Hv, Institutional Shareholder Services, Interessenkonflikt Organmitglied, Investor Relations Und Proxy Advisor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Insiderinformation Und Hv, Institutional Shareholder Services, Interessenkonflikt Organmitglied, Investor Relations Und Proxy Advisor
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Insiderinformation Und Hv, Institutional Shareholder Services, Interessenkonflikt Organmitglied, Investor Relations Und Proxy Advisor** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `insiderinformation-und-hv` | Hauptversammlung AG und SE: Insiderinformation Und HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `institutional-shareholder-services` | Hauptversammlung AG und SE: Institutional Shareholder Services; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `interessenkonflikt-organmitglied` | Hauptversammlung AG und SE: Interessenkonflikt Organmitglied; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `investor-relations-und-proxy-advisor` | Hauptversammlung AG und SE: Investor Relations Und Proxy Advisor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `insiderinformation-und-hv` | Hauptversammlung AG und SE: Insiderinformation Und HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `institutional-shareholder-services` | Hauptversammlung AG und SE: Institutional Shareholder Services; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `interessenkonflikt-organmitglied` | Hauptversammlung AG und SE: Interessenkonflikt Organmitglied; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `investor-relations-und-proxy-advisor` | Hauptversammlung AG und SE: Investor Relations Und Proxy Advisor; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Insiderinformation Und Hv, Institutional Shareholder Services, Interessen
 
 ## 1. `insiderinformation-und-hv`
 
-**Fokus:** Hauptversammlung AG und SE: Insiderinformation Und HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Insiderinformation Und HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Insiderinformation Und HV
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `institutional-shareholder-services`
 
-**Fokus:** Hauptversammlung AG und SE: Institutional Shareholder Services; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Institutional Shareholder Services; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Institutional Shareholder Services
 
@@ -138,7 +138,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `interessenkonflikt-organmitglied`
 
-**Fokus:** Hauptversammlung AG und SE: Interessenkonflikt Organmitglied; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Interessenkonflikt Organmitglied; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Interessenkonflikt Organmitglied
 
@@ -192,7 +192,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `investor-relations-und-proxy-advisor`
 
-**Fokus:** Hauptversammlung AG und SE: Investor Relations Und Proxy Advisor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Investor Relations Und Proxy Advisor; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Investor Relations Und Proxy Advisor
 

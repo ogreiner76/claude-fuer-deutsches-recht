@@ -1,13 +1,13 @@
 ---
 name: wann-doch-widerspruch-begruendung
-description: "Nutze dies, wenn Wann Doch Anwalt Grenzfaelle Sozialgericht, Widerspruch Begründung Laienleitfaden, Widerspruch Gegen Gutachten Laien, Widerspruchsbescheid Was Jetzt, Wohngeld Und Sozialhilfe Grenzfaelle im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Wann Doch Anwalt Grenzfaelle Sozialgericht, Widerspruch Begründung Laienleitfaden, Widerspruch Gegen Gutachten Laien, Widerspruchsbescheid Was Jetzt, Wohngeld Und Sozialhilfe Grenzfaelle prüfen.; Erstelle eine Arbeitsfassung zu Wann Doch Anwalt Grenzfaelle Sozialgericht, Widerspruch Begründung Laienleitfaden, Widerspruch Gegen Gutachten Laien, Widerspruchsbescheid Was Jetzt, Wohngeld Und Sozialhilfe Grenzfaelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wann Doch Anwalt Grenzfaelle Sozialgericht, Widerspruch Begruendung Laienleitfaden, Widerspruch Gegen Gutachten Laien, Widerspruchsbescheid Was Jetzt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wann Doch Anwalt Grenzfaelle Sozialgericht, Widerspruch Begründung Laienleitfaden, Widerspruch Gegen Gutachten Laien, Widerspruchsbescheid Was Jetzt, Wohngeld Und Sozialhilfe Grenzfaelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wann Doch Anwalt Grenzfaelle Sozialgericht, Widerspruch Begründung Laienleitfaden, Widerspruch Gegen Gutachten Laien, Widerspruchsbescheid Was Jetzt, Wohngeld Und Sozialhilfe Grenzfaelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -247,19 +247,19 @@ Folgende Struktur funktioniert gut:
 Begruendung des Widerspruchs
 
 I. Sachverhalt
-   - Was ist passiert, in einer geordneten Reihenfolge.
-   - Daten, Namen, Adressen.
+ - Was ist passiert, in einer geordneten Reihenfolge.
+ - Daten, Namen, Adressen.
 
 II. Rechtliche Bewertung
-   - Welche Entscheidung der Behoerde halte ich fuer falsch?
-   - Warum? (Tatsachen, die uebersehen wurden; Beweise, die nicht beachtet wurden; falsche Auslegung des Gesetzes)
+ - Welche Entscheidung der Behoerde halte ich fuer falsch?
+ - Warum? (Tatsachen, die uebersehen wurden; Beweise, die nicht beachtet wurden; falsche Auslegung des Gesetzes)
 
 III. Antrag
-   - Ich beantrage die Aufhebung des Bescheids vom [Datum].
-   - Hilfsweise: die Aenderung wie folgt: [...]
+ - Ich beantrage die Aufhebung des Bescheids vom [Datum].
+ - Hilfsweise: die Aenderung wie folgt: [...]
 
 IV. Beweismittel
-   - Liste aller Anlagen, nummeriert.
+ - Liste aller Anlagen, nummeriert.
 ```
 
 ### Schritt 5 — Konkrete Beispiele fuer typische Themen
@@ -380,7 +380,7 @@ Mehrfach lesen. Auch unbekannte Begriffe googeln. Markieren Sie:
 Sie haben das Recht, schriftlich Stellung zu nehmen. Mustertext:
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [aktuell]
 

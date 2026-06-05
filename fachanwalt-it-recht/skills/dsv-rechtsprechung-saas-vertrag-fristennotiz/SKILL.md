@@ -1,13 +1,13 @@
 ---
 name: dsv-rechtsprechung-saas-vertrag-fristennotiz
-description: "Nutze dies, wenn Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Spezial Saas Fristen Form Und Zustaendigkeit, Spezial Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Bitte Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Spezial Saas Fristen Form Und Zustaendigkeit, Spezial Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung prüfen.; Erstelle eine Arbeitsfassung zu Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Spezial Saas Fristen Form Und Zustaendigkeit, Spezial Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Spezial Saas Fristen Form Und Zustaendigkeit, Spezial Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung
+# Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Spezial Saas Fristen Form Und Zustaendigkeit, Spezial Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, Fachanwalt It Recht It Vertrag Verhandlung Eu Odr, Fachanwalt It Recht Saas Vertrag Verhandlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -83,7 +83,7 @@ Verifikationsschritt: vor jeder Zitation prüfen — wegen Quellenregel keine Zi
 # Saas: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Saas: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Saas: Fristen, Form, Zuständigkeit und Rechtsweg / spezial saas fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Saas: Fristen, Form, Zuständigkeit und Rechtsweg / saas fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -143,7 +143,7 @@ Härtere SLA-Klauseln nutzen wenig, wenn die Lebenswirklichkeit fehlt: Service C
 # Vertrag: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Vertrag: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Vertrag: Fristennotiz und nächster Schritt / spezial vertrag fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vertrag: Fristennotiz und nächster Schritt / vertrag fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -262,7 +262,7 @@ IT-Vertrag-Verhandlung ist Verhandlungs-intensiv: SaaS, Cloud, Lizenz, IT-Projek
 
 ## Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Phase 1 — Vertragsanalyse
 
@@ -356,12 +356,12 @@ Parteien: [MANDANT] vs. [GEGENSEITE]
 Verhandlungsstand: [DATUM / RUNDE X]
 
 Offene Klauseln:
-| Klausel         | Ist-Position  | Soll-Position | Bewertung | Status   |
+| Klausel | Ist-Position | Soll-Position | Bewertung | Status |
 |-----------------|--------------|---------------|-----------|----------|
-| SLA Verfuegbarkeit | [X]%       | >= 99.5%      | ROT       | offen    |
-| Haftungsgrenze  | 1 Monatsbetrag| 12 Monate     | ROT       | offen    |
-| Exit/Datenmigration | fehlt    | 90-Tage-Klausel| ROT      | offen    |
-| AVV Art. 28     | fehlt        | Pflicht        | ROT       | offen    |
+| SLA Verfuegbarkeit | [X]% | >= 99.5% | ROT | offen |
+| Haftungsgrenze | 1 Monatsbetrag| 12 Monate | ROT | offen |
+| Exit/Datenmigration | fehlt | 90-Tage-Klausel| ROT | offen |
+| AVV Art. 28 | fehlt | Pflicht | ROT | offen |
 
 Streitbeilegung: ODR-Plattform (B2C) / DGRI-Schlichtung / DIS-Schiedsverfahren
 Nächster Termin: [DATUM]
@@ -456,36 +456,36 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 § [X] Service Level Agreement
 
 1. Verfuegbarkeit
-   Der Anbieter sichert eine monatliche Systemverfuegbarkeit
-   von mindestens 99,5 % (SaaS Standard) / 99,9 % (Premium)
-   zu, gemessen am Netzwerkuebergabepunkt des Anbieters,
-   ausschliesslich geplanter Wartungsfenster.
+ Der Anbieter sichert eine monatliche Systemverfuegbarkeit
+ von mindestens 99,5 % (SaaS Standard) / 99,9 % (Premium)
+ zu, gemessen am Netzwerkuebergabepunkt des Anbieters,
+ ausschliesslich geplanter Wartungsfenster.
 
 2. Wartungsfenster
-   Geplante Wartungsarbeiten werden mindestens 48 Stunden
-   im Voraus angekuendigt und in die Zeit Montag bis Freitag
-   20:00–06:00 Uhr und Wochenende gelegt. Maximale Dauer:
-   6 Stunden/Monat.
+ Geplante Wartungsarbeiten werden mindestens 48 Stunden
+ im Voraus angekuendigt und in die Zeit Montag bis Freitag
+ 20:00–06:00 Uhr und Wochenende gelegt. Maximale Dauer:
+ 6 Stunden/Monat.
 
 3. Definitionen
-   "Ausfall" ist die vollstaendige Nichterreichbarkeit oder
-   Nicht-Nutzbarkeit wesentlicher Kernfunktionen des Dienstes
-   aus Gruenden, die nicht in der Sphaere des Kunden liegen.
+ "Ausfall" ist die vollstaendige Nichterreichbarkeit oder
+ Nicht-Nutzbarkeit wesentlicher Kernfunktionen des Dienstes
+ aus Gruenden, die nicht in der Sphaere des Kunden liegen.
 
 4. Service Credits
-   Bei Unterschreitung der Verfuegbarkeit erhalt der Kunde:
-   - 99,0–99,5 %: 10 % der Monatspauschale
-   - 98,0–99,0 %: 20 % der Monatspauschale
-   - unter 98 %:  50 % der Monatspauschale als Gutschrift.
-   Die Geltendmachung erfolgt mit Antrag binnen 30 Tagen.
-   Service Credits schliessen weitergehende gesetzliche
-   Ansprueche nicht aus.
+ Bei Unterschreitung der Verfuegbarkeit erhalt der Kunde:
+ - 99,0–99,5 %: 10 % der Monatspauschale
+ - 98,0–99,0 %: 20 % der Monatspauschale
+ - unter 98 %: 50 % der Monatspauschale als Gutschrift.
+ Die Geltendmachung erfolgt mit Antrag binnen 30 Tagen.
+ Service Credits schliessen weitergehende gesetzliche
+ Ansprueche nicht aus.
 
 5. Ausserordentliche Kuendigung
-   Unterschreitet die tatsaechliche Verfuegbarkeit zwei
-   aufeinanderfolgende Monate die garantierte Verfueg-
-   barkeit um mehr als 2 Prozentpunkte, ist der Kunde
-   berechtigt, den Vertrag ohne Frist zu kuendigen.
+ Unterschreitet die tatsaechliche Verfuegbarkeit zwei
+ aufeinanderfolgende Monate die garantierte Verfueg-
+ barkeit um mehr als 2 Prozentpunkte, ist der Kunde
+ berechtigt, den Vertrag ohne Frist zu kuendigen.
 ```
 
 ### Exit-Klausel / Datenmigration
@@ -494,33 +494,33 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 § [X] Datenexport und Beendigung
 
 1. Daten des Kunden
-   Alle vom Kunden eingegebenen, generierten oder
-   hochgeladenen Daten ("Kundendaten") verbleiben im
-   Eigentum des Kunden. Der Anbieter erwirbt kein
-   Eigentum und kein dauerhaftes Nutzungsrecht.
+ Alle vom Kunden eingegebenen, generierten oder
+ hochgeladenen Daten ("Kundendaten") verbleiben im
+ Eigentum des Kunden. Der Anbieter erwirbt kein
+ Eigentum und kein dauerhaftes Nutzungsrecht.
 
 2. Datenexport
-   Waehrend der gesamten Vertragslaufzeit kann der Kunde
-   jederzeit und ohne Mehrkosten alle Kundendaten in einem
-   gaengigen Standardformat (CSV, JSON, XML oder
-   branchenublichem Format) exportieren.
+ Waehrend der gesamten Vertragslaufzeit kann der Kunde
+ jederzeit und ohne Mehrkosten alle Kundendaten in einem
+ gaengigen Standardformat (CSV, JSON, XML oder
+ branchenublichem Format) exportieren.
 
 3. Nach Vertragsende
-   Innerhalb von [60 / 90] Tagen nach Vertragsbeendigung
-   haelt der Anbieter alle Kundendaten zum Abruf bereit.
-   Nach Ablauf dieser Frist werden die Daten unwieder-
-   bringlich geloescht; Loeschbestaetigung wird erteilt.
+ Innerhalb von [60 / 90] Tagen nach Vertragsbeendigung
+ haelt der Anbieter alle Kundendaten zum Abruf bereit.
+ Nach Ablauf dieser Frist werden die Daten unwieder-
+ bringlich geloescht; Loeschbestaetigung wird erteilt.
 
 4. Migrations-Unterstuetzung
-   Auf Wunsch des Kunden erbringt der Anbieter Migrations-
-   unterstuetzung zu einem Pauschalpreis von EUR [X]
-   (Datenexport in Zielformat + technische Dokumentation
-   der Datenstruktur).
+ Auf Wunsch des Kunden erbringt der Anbieter Migrations-
+ unterstuetzung zu einem Pauschalpreis von EUR [X]
+ (Datenexport in Zielformat + technische Dokumentation
+ der Datenstruktur).
 
 5. API-Zugang
-   Dem Kunden steht waehrend der Vertragslaufzeit eine
-   dokumentierte REST-API zur Datenabfrage und zum
-   Datenexport zur Verfuegung.
+ Dem Kunden steht waehrend der Vertragslaufzeit eine
+ dokumentierte REST-API zur Datenabfrage und zum
+ Datenexport zur Verfuegung.
 ```
 
 ### AVV-Kurzcheck

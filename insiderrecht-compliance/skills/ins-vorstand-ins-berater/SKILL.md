@@ -1,13 +1,13 @@
 ---
 name: ins-vorstand-ins-berater
-description: "Nutze dies, wenn Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank prüfen.; Erstelle eine Arbeitsfassung zu Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 012 Vorstand Aufsichtsrat, Ins 013 Berater Kanzlei Bank** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -53,11 +53,11 @@ schafft eine Grundlage für interne Compliance-Richtlinien und Haftungspräventi
 ### Schritt 1 – Wissenszurechnung
 
 - Wissen jedes Vorstandsmitglieds wird dem Emittenten als Gesamtwissen zugerechnet
-  (BGH-Rechtsprechung zur Wissenszurechnung bei juristischen Personen)
+ (BGH-Rechtsprechung zur Wissenszurechnung bei juristischen Personen)
 - Folge: Ad-hoc-Pflicht nach Art. 17 MAR entsteht, sobald ein Vorstandsmitglied Kenntnis hat,
-  nicht erst bei Kenntnis des Gesamtvorstands
+ nicht erst bei Kenntnis des Gesamtvorstands
 - Aufsichtsrat: Zurechnung bei Vorstands-relevanten Informationen → prüfen, ob AR-Wissen
-  bereits Veröffentlichungspflicht auslöst
+ bereits Veröffentlichungspflicht auslöst
 
 ### Schritt 2 – Pflichten des Vorstands
 
@@ -66,7 +66,7 @@ b) Insiderlisten-Pflicht: Sicherstellung, dass Compliance Art. 18 MAR-Listen fü
 c) Handelsverbote: Eigengeschäfte nur außerhalb von Closed Periods und ohne Insiderinformation
 d) Directors' Dealings: Meldung aller Eigengeschäfte nach Art. 19 MAR
 e) Sorgfaltspflicht (§ 93 AktG): Keine Verletzung kapitalmarktrechtlicher Normen als
-   Pflichtverletzung
+ Pflichtverletzung
 f) Vertraulichkeitspflicht: Keine unzulässige Weitergabe an Dritte
 
 ### Schritt 3 – Pflichten des Aufsichtsrats
@@ -75,7 +75,7 @@ a) Überwachungspflicht (§ 111 AktG): Prüfung, ob Vorstand MAR-Pflichten erfü
 b) Eigene Handelsverbote (Art. 14 MAR) und Meldepflichten (Art. 19 MAR) als PDMRs
 c) Verschwiegenheitspflicht (§ 116 AktG): Keine Weitergabe von Vertrauliches aus AR-Sitzungen
 d) Interessenkonflikt: AR-Mitglieder mit Doppelmandaten oder Verbindungen zu Bietern in M&A
-   müssen sich bei AR-Beschlüssen enthalten
+ müssen sich bei AR-Beschlüssen enthalten
 
 ### Schritt 4 – Governance-Instrumente
 
@@ -89,7 +89,7 @@ d) Interessenkonflikt: AR-Mitglieder mit Doppelmandaten oder Verbindungen zu Bie
 - § 97 WpHG: Haftung des Emittenten für verspätete oder unterlassene Ad-hoc-Mitteilung
 - § 98 WpHG: Haftung für falsche Ad-hoc-Mitteilung
 - Persönliche Haftung von Vorstandsmitgliedern nach § 93 Abs. 2 AktG, wenn MAR-Pflicht
-  schuldhaft verletzt
+ schuldhaft verletzt
 - Strafbarkeit nach § 119 WpHG: persönlich für handelnde Vorstandsmitglieder
 
 ## Red-Team-Fragen
@@ -151,7 +151,7 @@ Beratungsverhältnissen.
 
 Zusätzlich zu MAR-Grundpflichten:
 - Chinese Walls zwischen Corporate Finance (Kenntnis der Insiderinformation) und
-  Eigenhandel, Research und Kundenberatung
+ Eigenhandel, Research und Kundenberatung
 - Information Barriers dokumentieren und regelmäßig testen
 - Compliance-Officer-Überwachung des Wechsels von Mitarbeitern über die Chinese Wall
 - Market Sounding: nur unter Art. 11 MAR-konformen Bedingungen (Skill ins-008)
@@ -175,14 +175,14 @@ Pflichtklauseln in Beratungsverträgen / NDAs mit externen Beratern:
 ### Schritt 5 – Haftungsrisiken
 
 - Externe Berater haften nach allgemeinem Deliktsrecht (§ 823 BGB) und ggf.
-  Spezialvorschriften, wenn sie MAR-Pflichten verletzen
+ Spezialvorschriften, wenn sie MAR-Pflichten verletzen
 - Strafbarkeit nach § 119 WpHG gilt auch für externe Personen
 - Emittent kann in Anspruch genommen werden, wenn er unzureichend überwacht hat
 
 ## Red-Team-Fragen
 
 - Sind alle externen Berater des aktuellen Projekts vertraglich zur Insiderlisten-Führung
-  verpflichtet?
+ verpflichtet?
 - Werden Banken auf ordnungsgemäße Chinese Walls überprüft?
 - Ist der Datenraum-Zugang protokolliert und auf need-to-know beschränkt?
 - Wurden alle Berater-Mitarbeiter schriftlich belehrt?

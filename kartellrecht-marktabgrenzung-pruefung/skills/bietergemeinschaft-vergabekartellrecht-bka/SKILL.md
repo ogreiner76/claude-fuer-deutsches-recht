@@ -1,23 +1,23 @@
 ---
 name: bietergemeinschaft-vergabekartellrecht-bka
-description: "Nutze dies, wenn Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation prüfen.; Erstelle eine Arbeitsfassung zu Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bietergemeinschaft Vergabekartellrecht, Bka Dgcomp Ftc Doj Routing, Cartel Settlement Procedure, Competition Board Liability, Competition Compliance Investigation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `bietergemeinschaft-vergabekartellrecht` | Bietergemeinschaft Vergabekartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `bka-dgcomp-ftc-doj-routing` | BKartA DG Competition FTC DOJ Routing: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zuständigkeit und Parallelläufe zwischen Deutschland, EU und USA trennen, Evidenz, Fristen, Strategie und Quellen. |
-| `cartel-settlement-procedure` | Settlement in Kartellverfahren: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Geständnis, Bußgeldreduktion, Akteneinsicht, Schadensersatzfolgen und Kommunikation abwägen, Evidenz, Fristen, Strategie und Quellen. |
-| `competition-board-liability` | Organhaftung und Kartellrecht: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vorstand/Geschäftsführung, Compliance-Pflicht, Bußgeldregress und D&O prüfen, Evidenz, Fristen, Strategie und Quellen. |
-| `competition-compliance-investigation` | Interne Kartelluntersuchung: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Forensic, Interviews, Dokumentensicherung, Privilege, Remediation und Board Reporting planen, Evidenz, Fristen, Strategie und Quellen. |
+| `bka-dgcomp-ftc-doj-routing` | BKartA DG Competition FTC DOJ Routing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zuständigkeit und Parallelläufe zwischen Deutschland, EU und USA trennen, Evidenz, Fristen, Strategie und Quellen. |
+| `cartel-settlement-procedure` | Settlement in Kartellverfahren: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Geständnis, Bußgeldreduktion, Akteneinsicht, Schadensersatzfolgen und Kommunikation abwägen, Evidenz, Fristen, Strategie und Quellen. |
+| `competition-board-liability` | Organhaftung und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vorstand/Geschäftsführung, Compliance-Pflicht, Bußgeldregress und D&O prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `competition-compliance-investigation` | Interne Kartelluntersuchung: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Forensic, Interviews, Dokumentensicherung, Privilege, Remediation und Board Reporting planen, Evidenz, Fristen, Strategie und Quellen. |
 
 ## Arbeitsweg
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `bka-dgcomp-ftc-doj-routing`
 
-**Fokus:** BKartA DG Competition FTC DOJ Routing: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zuständigkeit und Parallelläufe zwischen Deutschland, EU und USA trennen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** BKartA DG Competition FTC DOJ Routing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Zuständigkeit und Parallelläufe zwischen Deutschland, EU und USA trennen, Evidenz, Fristen, Strategie und Quellen.
 
 # BKartA DG Competition FTC DOJ Routing
 
@@ -123,7 +123,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `cartel-settlement-procedure`
 
-**Fokus:** Settlement in Kartellverfahren: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Geständnis, Bußgeldreduktion, Akteneinsicht, Schadensersatzfolgen und Kommunikation abwägen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Settlement in Kartellverfahren: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Geständnis, Bußgeldreduktion, Akteneinsicht, Schadensersatzfolgen und Kommunikation abwägen, Evidenz, Fristen, Strategie und Quellen.
 
 # Settlement in Kartellverfahren
 
@@ -173,7 +173,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `competition-board-liability`
 
-**Fokus:** Organhaftung und Kartellrecht: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vorstand/Geschäftsführung, Compliance-Pflicht, Bußgeldregress und D&O prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Organhaftung und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vorstand/Geschäftsführung, Compliance-Pflicht, Bußgeldregress und D&O prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Organhaftung und Kartellrecht
 
@@ -223,7 +223,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `competition-compliance-investigation`
 
-**Fokus:** Interne Kartelluntersuchung: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Forensic, Interviews, Dokumentensicherung, Privilege, Remediation und Board Reporting planen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Interne Kartelluntersuchung: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Forensic, Interviews, Dokumentensicherung, Privilege, Remediation und Board Reporting planen, Evidenz, Fristen, Strategie und Quellen.
 
 # Interne Kartelluntersuchung
 

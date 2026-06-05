@@ -133,35 +133,35 @@ Aktenverantwortliche: [Partner Name]
 
 ROOT
 ├── 01_Mandate & Compliance
-│   ├── Mandatsvertrag
-│   ├── Conflict-Check-Protokoll
-│   ├── GwG-CDD-Bogen
-│   └── Insider-Log
+│ ├── Mandatsvertrag
+│ ├── Conflict-Check-Protokoll
+│ ├── GwG-CDD-Bogen
+│ └── Insider-Log
 ├── 02_Transaktionsdokumente
-│   ├── Term Sheet / LOI
-│   ├── NDA
-│   ├── SPA / APA (Versionen)
-│   └── Disclosure Letter
+│ ├── Term Sheet / LOI
+│ ├── NDA
+│ ├── SPA / APA (Versionen)
+│ └── Disclosure Letter
 ├── 03_Due Diligence
-│   ├── IRL
-│   ├── DD-Workstream-Reports (Legal, Tax, FIN, COM)
-│   ├── Red-Flag-Memo
-│   └── Q&A-Log
+│ ├── IRL
+│ ├── DD-Workstream-Reports (Legal, Tax, FIN, COM)
+│ ├── Red-Flag-Memo
+│ └── Q&A-Log
 ├── 04_Regulatory
-│   ├── Kartellrecht (Anmeldung, Freigabe)
-│   └── FDI (AWG/AWV-Korrespondenz)
+│ ├── Kartellrecht (Anmeldung, Freigabe)
+│ └── FDI (AWG/AWV-Korrespondenz)
 ├── 05_Closing
-│   ├── CP-Tracker
-│   ├── Closing-Checkliste
-│   ├── Closing-Bible
-│   └── Handelsregister-Anmeldungen
+│ ├── CP-Tracker
+│ ├── Closing-Checkliste
+│ ├── Closing-Bible
+│ └── Handelsregister-Anmeldungen
 ├── 06_Post-Closing
-│   ├── PMI-Plan
-│   ├── §613a-Informationsschreiben
-│   └── Organschaft-Dokumente
+│ ├── PMI-Plan
+│ ├── §613a-Informationsschreiben
+│ └── Organschaft-Dokumente
 └── 07_Korrespondenz
-    ├── E-Mail-Archive (wichtige Threads)
-    └── Externe Berater-Korrespondenz
+ ├── E-Mail-Archive (wichtige Threads)
+ └── Externe Berater-Korrespondenz
 ```
 
 ## Schritt-fuer-Schritt-Workflow

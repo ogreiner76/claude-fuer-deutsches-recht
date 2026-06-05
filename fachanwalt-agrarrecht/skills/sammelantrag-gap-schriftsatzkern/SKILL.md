@@ -1,13 +1,13 @@
 ---
 name: sammelantrag-gap-schriftsatzkern
-description: "Nutze dies, wenn Sammelantrag Gap Checkliste, Schriftsatzkern Substantiierung, Spezial Agrarrecht Tatbestand Beweis Und Belege im Plugin Fachanwalt Agrarrecht konkret bearbeitet werden soll. Auslöser: Bitte Sammelantrag Gap Checkliste, Schriftsatzkern Substantiierung, Spezial Agrarrecht Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Sammelantrag Gap Checkliste, Schriftsatzkern Substantiierung, Spezial Agrarrecht Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sammelantrag Gap Checkliste, Schriftsatzkern Substantiierung, Agrarrecht Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Sammelantrag Gap Checkliste, Schriftsatzkern Substantiierung, Spezial Agrarrecht Tatbestand Beweis Und Belege
+# Sammelantrag Gap Checkliste, Schriftsatzkern Substantiierung, Agrarrecht Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sammelantrag Gap Checkliste, Schriftsatzkern Substantiierung, Agrarrecht Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Sammelantrag Gap Checkliste, Schriftsatzkern Substantiierung, Spezial Agrarrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sammelantrag Gap Checkliste, Schriftsatzkern Substantiierung, Agrarrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -72,7 +72,7 @@ Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für
 
 ## Prüfschema Sammelantrag
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
@@ -149,7 +149,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 An das Amt fuer Agrarordnung / Landwirtschaftskammer [Land]
-[Anschrift]                                         [Ort, Datum]
+[Anschrift] [Ort, Datum]
 
 Widerspruch gegen Förderbescheid
 
@@ -159,7 +159,7 @@ Mandant/in: [Name, Betriebsnummer]
 In dem vorbezeichneten Verfahren lege ich namens und in
 Vollmacht meines Mandanten
 
-                        Widerspruch
+ Widerspruch
 
 ein und bitte um Aussetzung der sofortigen Vollziehung, soweit
 der Bescheid bereits Kürzungen vorsieht.
@@ -167,20 +167,20 @@ der Bescheid bereits Kürzungen vorsieht.
 Begründung:
 
 1. Flächenanerkennung [Feldblock-ID]:
-   Der Bescheid erkennt [Fläche] ha weniger an als beantragt.
-   Die beantragte Fläche entspricht der im aktuellen
-   Liegenschaftskataster eingetragenen Größe von [ha].
-   Beigefügt: Katasterauszug, Pachtvertrag, GPS-Messung.
+ Der Bescheid erkennt [Fläche] ha weniger an als beantragt.
+ Die beantragte Fläche entspricht der im aktuellen
+ Liegenschaftskataster eingetragenen Größe von [ha].
+ Beigefügt: Katasterauszug, Pachtvertrag, GPS-Messung.
 
 2. GLÖZ-Kürzung:
-   Die Kürzung wegen angeblichem GLÖZ-[Nr.]-Verstoß ist
-   unbegründet. Konkret: [Sachverhalt; Nachweis Einhaltung].
+ Die Kürzung wegen angeblichem GLÖZ-[Nr.]-Verstoß ist
+ unbegründet. Konkret: [Sachverhalt; Nachweis Einhaltung].
 
 3. Verspätungskürzung:
-   Der Antrag ist am [Datum] eingegangen. Die Frist endete am
-   [15. Mai]. Die Verzögerung beruht auf [Krankheit/Höhere
-   Gewalt]. Wir beantragen Verlängerung gemäß Art. 40 Abs. 4
-   VO (EU) 2021/2116.
+ Der Antrag ist am [Datum] eingegangen. Die Frist endete am
+ [15. Mai]. Die Verzögerung beruht auf [Krankheit/Höhere
+ Gewalt]. Wir beantragen Verlängerung gemäß Art. 40 Abs. 4
+ VO (EU) 2021/2116.
 
 Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 
@@ -479,7 +479,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 # Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial agrarrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / agrarrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: bk-mifid-bk-prip-erstgespraech-mandatsannahme
-description: "Nutze dies, wenn Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Bitte Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme prüfen.; Erstelle eine Arbeitsfassung zu Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bk Mifid Suitability Spezial, Bk Prip Kid Fehlerhaft Spezial, Erstgespraech Mandatsannahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -313,21 +313,21 @@ Bevor losgelegt wird, klaere folgende Punkte:
 ```
 MANDATSBOGEN Bank-/Kapitalmarktrecht
 ===========================================
-Datum Erstgespraech:      [TT.MM.JJJJ]
-Mandant (Name/Geb./ADR):  [NAME] / [DATUM] / [ANSCHRIFT]
-Rolle Mandant:            [Anleger / Kreditnehmer / Bank / Sonstiges]
-Gegenpartei:              [NAME, ANSCHRIFT, ggf. Anwalt]
-Sachgebiet:               [Anlageberatung / Verbraucherkredit / Widerruf / BaFin ...]
+Datum Erstgespraech: [TT.MM.JJJJ]
+Mandant (Name/Geb./ADR): [NAME] / [DATUM] / [ANSCHRIFT]
+Rolle Mandant: [Anleger / Kreditnehmer / Bank / Sonstiges]
+Gegenpartei: [NAME, ANSCHRIFT, ggf. Anwalt]
+Sachgebiet: [Anlageberatung / Verbraucherkredit / Widerruf / BaFin ...]
 Sachverhaltskern (5 Saetze):
 [...]
-Ziel Mandant (1 Satz):    [...]
-Sofortfristen:            [Datum] — [Art] — [Rechtsgrundlage]
-Verjaebrungsprognose:     [3 Jahre ab XX.XX.XXXX / 10 Jahre absolut]
-GwG-Identifizierung:      [Lichtbildausweis] JA / NEIN; [HR-Auszug] JA / NEIN
-Konflikt-Check:           JA (sauber) / NEIN (Hinderungsgrund: ...)
-Vollmacht:                Unterschrieben am [Datum]
-Streitwert (Schaetzung):  EUR [Betrag]
-Honorarvereinbarung:      RVG / Stunde EUR [...] / Pauschale EUR [...]
-Naechster Schritt:        [Owner] bis [Datum]
+Ziel Mandant (1 Satz): [...]
+Sofortfristen: [Datum] — [Art] — [Rechtsgrundlage]
+Verjaebrungsprognose: [3 Jahre ab XX.XX.XXXX / 10 Jahre absolut]
+GwG-Identifizierung: [Lichtbildausweis] JA / NEIN; [HR-Auszug] JA / NEIN
+Konflikt-Check: JA (sauber) / NEIN (Hinderungsgrund: ...)
+Vollmacht: Unterschrieben am [Datum]
+Streitwert (Schaetzung): EUR [Betrag]
+Honorarvereinbarung: RVG / Stunde EUR [...] / Pauschale EUR [...]
+Naechster Schritt: [Owner] bis [Datum]
 ===========================================
 ```

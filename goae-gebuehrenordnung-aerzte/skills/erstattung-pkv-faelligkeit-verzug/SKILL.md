@@ -1,13 +1,13 @@
 ---
 name: erstattung-pkv-faelligkeit-verzug
-description: "Nutze dies, wenn Erstattung Pkv Vs Honoraranspruch Patient, Faelligkeit Verzug Mahnung Honorarklage, Gebuehrenrahmen Schwellenwert Ampel im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte Erstattung Pkv Vs Honoraranspruch Patient, Faelligkeit Verzug Mahnung Honorarklage, Gebuehrenrahmen Schwellenwert Ampel prüfen.; Erstelle eine Arbeitsfassung zu Erstattung Pkv Vs Honoraranspruch Patient, Faelligkeit Verzug Mahnung Honorarklage, Gebuehrenrahmen Schwellenwert Ampel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erstattung Pkv Vs Honoraranspruch Patient, Faelligkeit Verzug Mahnung Honorarklage, Gebuehrenrahmen Schwellenwert Ampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erstattung Pkv Vs Honoraranspruch Patient, Faelligkeit Verzug Mahnung Honorarklage, Gebuehrenrahmen Schwellenwert Ampel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erstattung Pkv Vs Honoraranspruch Patient, Faelligkeit Verzug Mahnung Honorarklage, Gebuehrenrahmen Schwellenwert Ampel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `erstattung-pkv-vs-honoraranspruch-patient` | Erstattung PKV vs Honoraranspruch Patient: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 | `faelligkeit-verzug-mahnung-honorarklage` | Fälligkeit Verzug Mahnung Honorarklage: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
-| `gebuehrenrahmen-schwellenwert-ampel` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel. |
+| `gebuehrenrahmen-schwellenwert-ampel` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel. |
 
 ## Arbeitsweg
 
@@ -116,7 +116,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `gebuehrenrahmen-schwellenwert-ampel`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Gebührenrahmen Schwellenwert Ampel.
 
 # Gebührenrahmen Schwellenwert Ampel
 

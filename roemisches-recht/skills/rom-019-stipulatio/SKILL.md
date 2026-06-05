@@ -1,6 +1,6 @@
 ---
 name: rom-019-stipulatio
-description: "Römisches Recht: Stipulatio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Stipulatio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Stipulatio

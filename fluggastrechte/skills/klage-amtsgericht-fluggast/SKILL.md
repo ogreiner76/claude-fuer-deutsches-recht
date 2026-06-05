@@ -1,6 +1,6 @@
 ---
 name: klage-amtsgericht-fluggast
-description: "Workflow-Skill zu klage amtsgericht fluggast. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu klage amtsgericht fluggast: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Klage zum Amtsgericht (Fluggastrechte)
@@ -43,14 +43,14 @@ Bei Pauschalreise mit Reiseveranstalter als Beklagter zusätzlich der **Wohnsitz
 An das Amtsgericht [Ort des Abflughafens / Zielflughafens / Niederlassung]
 
 In Sachen
-  [Hauptkläger] und weitere Kläger (siehe Anlage)
-  - vertreten durch [Hauptkläger] aufgrund Vollmacht
-  
-  gegen
-  
-  [Airline-Name]
-  vertreten durch [gesetzlicher Vertreter / Niederlassungsleiter Deutschland]
-  [Adresse]
+ [Hauptkläger] und weitere Kläger (siehe Anlage)
+ - vertreten durch [Hauptkläger] aufgrund Vollmacht
+
+ gegen
+
+ [Airline-Name]
+ vertreten durch [gesetzlicher Vertreter / Niederlassungsleiter Deutschland]
+ [Adresse]
 
 erhebe ich Klage und beantrage:
 ```
@@ -58,16 +58,16 @@ erhebe ich Klage und beantrage:
 ### 2. Anträge
 
 ```
-1. Die Beklagte wird verurteilt an den Kläger zu 1 [Name] 
-   [Betrag] EUR nebst Verzugszinsen in Höhe von 5 Prozentpunkten über dem
-   Basiszinssatz seit [Datum Frist erste Mahnung + 1] zu zahlen.
+1. Die Beklagte wird verurteilt an den Kläger zu 1 [Name]
+ [Betrag] EUR nebst Verzugszinsen in Höhe von 5 Prozentpunkten über dem
+ Basiszinssatz seit [Datum Frist erste Mahnung + 1] zu zahlen.
 
-2. Die Beklagte wird verurteilt an den Kläger zu 2 [Name] 
-   [Betrag] EUR nebst Zinsen wie zu 1.
+2. Die Beklagte wird verurteilt an den Kläger zu 2 [Name]
+ [Betrag] EUR nebst Zinsen wie zu 1.
 
 3. Die Beklagte wird verurteilt an den Kläger zu 3 [Name minderjährig]
-   vertreten durch die Erziehungsberechtigten [Name]
-   [Betrag] EUR nebst Zinsen wie zu 1.
+ vertreten durch die Erziehungsberechtigten [Name]
+ [Betrag] EUR nebst Zinsen wie zu 1.
 
 4. Die Beklagte traegt die Kosten des Rechtsstreits.
 
@@ -84,33 +84,33 @@ Streitwert: [Summe der Einzelanspruechen]
 
 ```
 1. Die Klagepartei buchte am [Datum] bei der Beklagten die Beforderung
-   gemäß Buchungscode [PNR] auf dem Flug [Flugnummer] am [Datum] von
-   [Abflughafen] nach [Zielflughafen] in Economy.
-   Beweis: Buchungsbestätigung, Anlage K1
+ gemäß Buchungscode [PNR] auf dem Flug [Flugnummer] am [Datum] von
+ [Abflughafen] nach [Zielflughafen] in Economy.
+ Beweis: Buchungsbestätigung, Anlage K1
 
 2. Die Klagepartei meldete sich am Tag des Flugs rechtzeitig zum
-   Check-in. Sie hatte ein gültiges Ticket und alle Reisedokumente.
-   Beweis: Boardingpaesse, Anlage K2
+ Check-in. Sie hatte ein gültiges Ticket und alle Reisedokumente.
+ Beweis: Boardingpaesse, Anlage K2
 
 3. Der Flug wurde durch die Beklagte [annulliert / mit X Stunden
-   Verspätung durchgeführt / die Befoerderung wurde verweigert].
-   Beweis: Stoerungsmitteilung der Beklagten, Anlage K3
+ Verspätung durchgeführt / die Befoerderung wurde verweigert].
+ Beweis: Stoerungsmitteilung der Beklagten, Anlage K3
 
 4. [Bei Annullierung mit Ersatzflug:] Die Beklagte bot Ersatzflug
-   [Flugnummer] am [Datum] an, mit dem die Klagepartei das Endziel
-   [X] Stunden verspätet erreichte.
-   Beweis: Ersatz-Boardingpaesse, Anlage K4
+ [Flugnummer] am [Datum] an, mit dem die Klagepartei das Endziel
+ [X] Stunden verspätet erreichte.
+ Beweis: Ersatz-Boardingpaesse, Anlage K4
 
 5. [Falls Auslagen entstanden:] Aufgrund der Annullierung musste die
-   Klagepartei [Hotel Verpflegung Telefon] in Höhe von [Y] EUR
-   aufwenden.
-   Beweis: Belege, Anlage K5
+ Klagepartei [Hotel Verpflegung Telefon] in Höhe von [Y] EUR
+ aufwenden.
+ Beweis: Belege, Anlage K5
 
 6. Mit Schreiben vom [Datum] forderte die Klagepartei die Beklagte
-   zur Zahlung auf [Erste Stufe]; mit Schreiben vom [Datum]
-   zur Zahlung nochmals [Mahnung].
-   Beweis: Forderungs- und Mahnschreiben mit Einschreiben-Rückschein,
-   Anlagen K6 K7
+ zur Zahlung auf [Erste Stufe]; mit Schreiben vom [Datum]
+ zur Zahlung nochmals [Mahnung].
+ Beweis: Forderungs- und Mahnschreiben mit Einschreiben-Rückschein,
+ Anlagen K6 K7
 
 7. Die Beklagte zahlte nicht.
 ```
@@ -121,78 +121,78 @@ Streitwert: [Summe der Einzelanspruechen]
 1. Anspruchsgrundlage: Art. 7 VO (EG) Nr. 261/2004.
 
 2. Anwendungsbereich: Der Flug erfüllt die Voraussetzungen des Art. 3
-   Abs. 1 VO 261/2004 (Abflug aus einem EU-Mitgliedstaat).
+ Abs. 1 VO 261/2004 (Abflug aus einem EU-Mitgliedstaat).
 
 3. Tatbestand: Der Flug wurde
-   [bei Annullierung] gemäß Art. 5 VO 261/2004 annulliert. Der
-   urspruengliche Flug fand nicht statt; der Ersatzflug am [Datum] erfolgte
-   mit gravierender Änderung.
+ [bei Annullierung] gemäß Art. 5 VO 261/2004 annulliert. Der
+ urspruengliche Flug fand nicht statt; der Ersatzflug am [Datum] erfolgte
+ mit gravierender Änderung.
 
-   [bei Verspätung] Der Flug erreichte das Endziel mit [X] Stunden
-   Verspätung. Nach EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07
-   (Sturgeon u.a. — Quelle: curia.europa.eu) sowie EuGH, Urt. v.
-   23.10.2012, C-581/10 und C-629/10 (Nelson u.a. — curia.europa.eu)
-   entsteht bei mehr als drei Stunden Endzielverspätung ein
-   Ausgleichsanspruch wie bei Annullierung.
+ [bei Verspätung] Der Flug erreichte das Endziel mit [X] Stunden
+ Verspätung. Nach EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07
+ (Sturgeon u.a. — Quelle: curia.europa.eu) sowie EuGH, Urt. v.
+ 23.10.2012, C-581/10 und C-629/10 (Nelson u.a. — curia.europa.eu)
+ entsteht bei mehr als drei Stunden Endzielverspätung ein
+ Ausgleichsanspruch wie bei Annullierung.
 
-   [bei Anschlussflug] Maßgeblich ist die Endzielverspätung gemäß EuGH,
-   Urt. v. 26.2.2013, C-11/11 (Folkerts — curia.europa.eu) und EuGH,
-   Urt. v. 31.5.2018, C-537/17 (Wegener — curia.europa.eu).
+ [bei Anschlussflug] Maßgeblich ist die Endzielverspätung gemäß EuGH,
+ Urt. v. 26.2.2013, C-11/11 (Folkerts — curia.europa.eu) und EuGH,
+ Urt. v. 31.5.2018, C-537/17 (Wegener — curia.europa.eu).
 
 4. Distanz: Die Grosskreisdistanz [Abflug zu Endziel] betraegt [X] km.
-   Dies entspricht der Stufe [1/2/3] des Art. 7 VO 261/2004.
+ Dies entspricht der Stufe [1/2/3] des Art. 7 VO 261/2004.
 
 5. Höhe des Anspruchs: [250 / 400 / 600] EUR pro Passagier;
-   bei [3] Passagieren [Gesamtbetrag] EUR.
+ bei [3] Passagieren [Gesamtbetrag] EUR.
 
 6. Keine Befreiung wegen außergewöhnlicher Umstaende (Art. 5 Abs. 3
-   VO 261/2004). Die Beklagte hat sich auf [Begründung der Airline]
-   berufen. Dies verfaengt aus folgenden Gründen nicht:
+ VO 261/2004). Die Beklagte hat sich auf [Begründung der Airline]
+ berufen. Dies verfaengt aus folgenden Gründen nicht:
 
-   Technische Defekte sind nach EuGH, Urt. v. 22.12.2008, C-549/07
-   (Wallentin-Hermann — curia.europa.eu), regelmäßig nicht als
-   außergewöhnliche Umstaende einzuordnen, weil sie Teil der normalen
-   Ausübung der Tätigkeit des Luftfahrtunternehmens sind.
+ Technische Defekte sind nach EuGH, Urt. v. 22.12.2008, C-549/07
+ (Wallentin-Hermann — curia.europa.eu), regelmäßig nicht als
+ außergewöhnliche Umstaende einzuordnen, weil sie Teil der normalen
+ Ausübung der Tätigkeit des Luftfahrtunternehmens sind.
 
-   [bei Streik] Streiks der eigenen Mitarbeiter (auch wilde Streiks)
-   stellen nach st. Rspr. des EuGH keinen außergewöhnlichen Umstand
-   dar. Volltext und konkretes Aktenzeichen vor Versand in
-   curia.europa.eu aufrufen und mit Randnummer einsetzen.
+ [bei Streik] Streiks der eigenen Mitarbeiter (auch wilde Streiks)
+ stellen nach st. Rspr. des EuGH keinen außergewöhnlichen Umstand
+ dar. Volltext und konkretes Aktenzeichen vor Versand in
+ curia.europa.eu aufrufen und mit Randnummer einsetzen.
 
-   [bei Personalmangel Flughafen] EuGH, Urt. v. 16.5.2024, C-405/23
-   (curia.europa.eu) — Personalmangel beim eigenen Bodenpersonal ist
-   nicht außergewöhnlich; nur ausnahmsweise bei drittverantwortetem
-   Engpass.
+ [bei Personalmangel Flughafen] EuGH, Urt. v. 16.5.2024, C-405/23
+ (curia.europa.eu) — Personalmangel beim eigenen Bodenpersonal ist
+ nicht außergewöhnlich; nur ausnahmsweise bei drittverantwortetem
+ Engpass.
 
-   [bei versteckter Konstruktionsfehler] EuGH, Urt. v. 13.6.2025,
-   C-411/23 (curia.europa.eu) — versteckter Konstruktionsfehler im
-   Triebwerk kann außergewöhnlicher Umstand sein, auch wenn die
-   Airline vorab informiert war; zumutbare Maßnahmen bleiben darzulegen.
+ [bei versteckter Konstruktionsfehler] EuGH, Urt. v. 13.6.2025,
+ C-411/23 (curia.europa.eu) — versteckter Konstruktionsfehler im
+ Triebwerk kann außergewöhnlicher Umstand sein, auch wenn die
+ Airline vorab informiert war; zumutbare Maßnahmen bleiben darzulegen.
 
-   [bei Blitzschlag] EuGH, Urt. v. 16.10.2025, C-399/24 (curia.europa.eu).
+ [bei Blitzschlag] EuGH, Urt. v. 16.10.2025, C-399/24 (curia.europa.eu).
 
-   Die Beweislast für außergewöhnliche Umstaende und für die
-   Ergreifung aller zumutbaren Maßnahmen liegt bei der Beklagten.
+ Die Beweislast für außergewöhnliche Umstaende und für die
+ Ergreifung aller zumutbaren Maßnahmen liegt bei der Beklagten.
 
 7. Verzug: Mit Ablauf der mit Schreiben vom [Datum] gesetzten Zahlungsfrist
-   trat Verzug ein (§ 286 Abs. 1 BGB). Verzugszinsen gemäß § 288 Abs. 1
-   BGB.
+ trat Verzug ein (§ 286 Abs. 1 BGB). Verzugszinsen gemäß § 288 Abs. 1
+ BGB.
 
 8. Sachliche Zuständigkeit Amtsgericht (§ 23 Nr. 1 GVG bis zehntausend
-   Euro, Streitwertgrenze seit 1.1.2026). Oertliche Zuständigkeit
-   wahlweise am Abflug- oder Zielflughafen (§ 29 ZPO i.V.m. Art. 7
-   Nr. 1 lit. b VO (EU) 1215/2012 — Brüssel-Ia) oder am Sitz der
-   Beklagten (§§ 12, 17 ZPO).
+ Euro, Streitwertgrenze seit 1.1.2026). Oertliche Zuständigkeit
+ wahlweise am Abflug- oder Zielflughafen (§ 29 ZPO i.V.m. Art. 7
+ Nr. 1 lit. b VO (EU) 1215/2012 — Brüssel-Ia) oder am Sitz der
+ Beklagten (§§ 12, 17 ZPO).
 ```
 
 ### 6. Beweisangebote
 
 ```
 Beweise:
-  Urkundenbeweis durch beigefuegte Anlagen K1 bis K7.
-  Parteivernehmung der Klagepartei zum Verlauf vor Ort.
-  Im Bestreitensfall: Auskunft des Flughafens [Name] über tatsächliche
-  Abflug- und Ankunftszeiten (Anregung gerichtlicher Beiziehung).
+ Urkundenbeweis durch beigefuegte Anlagen K1 bis K7.
+ Parteivernehmung der Klagepartei zum Verlauf vor Ort.
+ Im Bestreitensfall: Auskunft des Flughafens [Name] über tatsächliche
+ Abflug- und Ankunftszeiten (Anregung gerichtlicher Beiziehung).
 ```
 
 ### 7. Anlagen
@@ -248,7 +248,7 @@ Unmittelbar nach Erstellung der Klageschrift den Skill `fluggastrechte-anlagen-b
 schriftsatz: klage-fluggast-<datum>.docx
 rohbelege_verzeichnis: <fall>/belege/
 ausgabeverzeichnis: <fall>/anlagen/
-bundle: true   # Pflicht — beA verlangt geschlossenes PDF
+bundle: true # Pflicht — beA verlangt geschlossenes PDF
 schriftgrad_stempel: 12
 schrift_stempel: Arial-Bold
 bezeichnung: "Anlage K"

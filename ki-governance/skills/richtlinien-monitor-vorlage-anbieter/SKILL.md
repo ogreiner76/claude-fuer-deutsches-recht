@@ -1,13 +1,13 @@
 ---
 name: richtlinien-monitor-vorlage-anbieter
-description: "Nutze dies, wenn Richtlinien Monitor, Richtlinien Vorlage, Spezial Anbieter Mehrparteien Konflikt Und Interessen im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Bitte Richtlinien Monitor, Richtlinien Vorlage, Spezial Anbieter Mehrparteien Konflikt Und Interessen prüfen.; Erstelle eine Arbeitsfassung zu Richtlinien Monitor, Richtlinien Vorlage, Spezial Anbieter Mehrparteien Konflikt Und Interessen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Richtlinien Monitor, Richtlinien Vorlage, Anbieter Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Richtlinien Monitor, Richtlinien Vorlage, Spezial Anbieter Mehrparteien Konflikt Und Interessen
+# Richtlinien Monitor, Richtlinien Vorlage, Anbieter Mehrparteien Konflikt Und Interessen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Richtlinien Monitor, Richtlinien Vorlage, Anbieter Mehrparteien Konflikt Und Interessen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Richtlinien Monitor, Richtlinien Vorlage, Spezial Anbieter Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Richtlinien Monitor, Richtlinien Vorlage, Anbieter Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -57,34 +57,34 @@ Richtlinien-Verpflichtungen und Anwendungsfall-Register aus `CLAUDE.md`.
 **Kernvorschriften**
 
 - **AI Act Art. 17 KI-VO**: Anbieter von Hochrisiko-KI müssen ein Qualitäts-
-  managementsystem unterhalten inkl. laufender Überprüfung. Für Betreiber:
-  Art. 29 Abs. 1–4 KI-VO (Überwachungs- und Meldepflichten).
+ managementsystem unterhalten inkl. laufender Überprüfung. Für Betreiber:
+ Art. 29 Abs. 1–4 KI-VO (Überwachungs- und Meldepflichten).
 - **DSGVO Art. 5 Abs. 2 (Rechenschaftspflicht)**: Verantwortliche müssen
-  Einhaltung der Grundsätze nachweisen; Richtlinie und gelebte Praxis
-  müssen übereinstimmen.
+ Einhaltung der Grundsätze nachweisen; Richtlinie und gelebte Praxis
+ müssen übereinstimmen.
 - **DSGVO Art. 22 i.V.m. Art. 13/14**: Betroffene müssen über automatisierte
-  Entscheidungen informiert werden; Richtlinie muss Offenlegungspflichten
-  widerspiegeln.
+ Entscheidungen informiert werden; Richtlinie muss Offenlegungspflichten
+ widerspiegeln.
 - **DSA Art. 27, 38 (VO (EU) 2022/2065)**: Transparenzpflichten für
-  algorithmische Empfehlungssysteme sehr großer Plattformen.
+ algorithmische Empfehlungssysteme sehr großer Plattformen.
 
 **Leitentscheidungen**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  KI-Richtlinie ohne Adressierung von Scoring-Systemen schafft materielle
-  Lücke, wenn entsprechende Systeme operativ eingesetzt werden.
+ KI-Richtlinie ohne Adressierung von Scoring-Systemen schafft materielle
+ Lücke, wenn entsprechende Systeme operativ eingesetzt werden.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
-  Systemen; Transparenzgebot beim KI-Einsatz.
+ Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
+ Systemen; Transparenzgebot beim KI-Einsatz.
 
 **Kommentare**
 
 - Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 17 Rn. 8 ff.
-  (Qualitätsmanagementsystem; laufende Richtlinienüberprüfung).
+ (Qualitätsmanagementsystem; laufende Richtlinienüberprüfung).
 - Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 5 Rn. 62 ff.
-  (Rechenschaftspflicht; Dokumentation der Verarbeitungspolitik).
+ (Rechenschaftspflicht; Dokumentation der Verarbeitungspolitik).
 - Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
-  Teil IV Rn. 95 ff. (Transparenzpflichten bei Algorithmen).
+ Teil IV Rn. 95 ff. (Transparenzpflichten bei Algorithmen).
 - Hoffmann-Riem (Hrsg.), Big Data, KI und das Recht, 2021, S. 89 ff.
 
 *Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im Einzelfall.*
@@ -97,19 +97,19 @@ Beschreibung einer Praxis → Direktanfrage-Modus.
 ### Sweep-Modus
 
 1. `CLAUDE.md` laden: `## KI-Richtlinien-Verpflichtungen`, `## KI-Anwendungsfall-
-   Register`, `## Ausgaben` (Ordner-Pfad, Richtlinienstandort, letztes Sweep-Datum).
+ Register`, `## Ausgaben` (Ordner-Pfad, Richtlinienstandort, letztes Sweep-Datum).
 2. Ausgabedateien seit letztem Sweep scannen. Bei keinen neuen Dateien:
-   "Keine neuen Ausgaben seit [Datum]. Nächster Sweep: [Datum]."
+ "Keine neuen Ausgaben seit [Datum]. Nächster Sweep: [Datum]."
 3. Aus jeder Ausgabe extrahieren: freigegebener Anwendungsfall, Einsatzmodus
-   (assistiv/automatisiert), Auflagen, betroffene Parteien, Anbieter-Datennutzung.
+ (assistiv/automatisiert), Auflagen, betroffene Parteien, Anbieter-Datennutzung.
 4. Kennzeichnen: neue Anwendungsfälle ohne Richtlinienabdeckung; automatisierte
-   Entscheidungen wo Richtlinie menschliche Aufsicht impliziert; Anbieter-
-   Datennutzung die Richtlinie referenzieren sollte.
+ Entscheidungen wo Richtlinie menschliche Aufsicht impliziert; Anbieter-
+ Datennutzung die Richtlinie referenzieren sollte.
 5. Lücken klassifizieren: **ERFORDERLICH** (Richtlinie widerspricht Praxis,
-   Nicht-Aktualisierung = materielle Falschdarstellung) oder **EMPFOHLEN**
-   (Richtlinie schweigt, Praxis vertretbar aber klarer mit Aktualisierung).
+ Nicht-Aktualisierung = materielle Falschdarstellung) oder **EMPFOHLEN**
+ (Richtlinie schweigt, Praxis vertretbar aber klarer mit Aktualisierung).
 6. Ergebnisse vorlegen; erst nach Bestätigung durch den Nutzer:
-   `Letztes Sweep-Datum` und `gefundene_Lücken` in `CLAUDE.md` aktualisieren.
+ `Letztes Sweep-Datum` und `gefundene_Lücken` in `CLAUDE.md` aktualisieren.
 
 ### Direktanfrage-Modus
 
@@ -171,13 +171,13 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 ## Risiken und typische Fehler
 
 - Sweep-Datum vor Bestätigung aktualisieren: unterdrückt beim nächsten Lauf
-  die Aufmerksamkeit für dieselben Lücken.
+ die Aufmerksamkeit für dieselben Lücken.
 - Zu vage Formulierungsvorschläge: "KI-gestützt" bevorzugen statt
-  konkreter Modellnamen; keine Zusagen formulieren, die das Team nicht
-  einhalten kann.
+ konkreter Modellnamen; keine Zusagen formulieren, die das Team nicht
+ einhalten kann.
 - Richtlinie selbst aktualisieren: nur nach menschlicher Prüfung und Freigabe.
 - Eingehende Regelungsänderungen: das ist `regulierungs-luecken-analyse`. Dieser Skill
-  überwacht nur interne Praxis-Abweichungen.
+ überwacht nur interne Praxis-Abweichungen.
 
 ## Quellenpflicht
 
@@ -243,7 +243,7 @@ keine konkrete Position zu den schwierigen Entscheidungspunkten.
 ## Eingaben
 
 - Praxisprofil aus `CLAUDE.md` (KI-Rolle, regulatorischer Fußabdruck,
-  bestehendes Register, Governance-Team, ggf. bestehende Richtlinie)
+ bestehendes Register, Governance-Team, ggf. bestehende Richtlinie)
 - Scopegespräch: welche Abschnitte? welche Zielgruppe? welcher Kontext?
 
 ## Rechtlicher Rahmen
@@ -251,40 +251,40 @@ keine konkrete Position zu den schwierigen Entscheidungspunkten.
 **Kernvorschriften**
 
 - **AI Act Art. 4 KI-VO**: KI-Kompetenzverpflichtung — Anbieter und Betreiber
-  müssen hinreichende KI-Kompetenz ihres Personals sicherstellen; Richtlinie
-  muss Schulungspflicht abbilden.
+ müssen hinreichende KI-Kompetenz ihres Personals sicherstellen; Richtlinie
+ muss Schulungspflicht abbilden.
 - **AI Act Art. 9 KI-VO**: Risikomanagementsystem für Hochrisiko-KI; interne
-  Richtlinien müssen Risikoidentifikations- und Mitigationsverfahren beschreiben.
+ Richtlinien müssen Risikoidentifikations- und Mitigationsverfahren beschreiben.
 - **AI Act Art. 26/29 KI-VO**: Betreiberpflichten — menschliche Aufsicht,
-  Protokollierung, Meldeobliegenheiten; müssen in der Richtlinie operationalisiert
-  werden.
+ Protokollierung, Meldeobliegenheiten; müssen in der Richtlinie operationalisiert
+ werden.
 - **DSGVO Art. 22**: Vollautomatisierte Einzelentscheidungen nur unter Art. 22
-  Abs. 2 lit. a–c zulässig; Richtlinie muss Rechtsgrundlage und
-  Widerspruchsrecht klären.
+ Abs. 2 lit. a–c zulässig; Richtlinie muss Rechtsgrundlage und
+ Widerspruchsrecht klären.
 - **§ 87 Abs. 1 Nr. 6 BetrVG**: Mitbestimmungsrecht des Betriebsrats bei KI-
-  Tools zur Mitarbeiterüberwachung/-bewertung; vor Richtlinienabschnitt prüfen.
+ Tools zur Mitarbeiterüberwachung/-bewertung; vor Richtlinienabschnitt prüfen.
 - **GeschGehG §§ 2, 4**: Schutz von Geschäftsgeheimnissen bei Eingabe
-  vertraulicher Daten in externe KI-Systeme.
+ vertraulicher Daten in externe KI-Systeme.
 - **UrhG § 44b**: Text-und-Data-Mining-Schranke; relevant bei KI-Training.
 
 **Leitentscheidungen**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Richtlinie muss Art. 22 Abs. 3 DSGVO-Widerspruchsrecht bei automatisierten
-  Entscheidungen operationalisieren.
+ Richtlinie muss Art. 22 Abs. 3 DSGVO-Widerspruchsrecht bei automatisierten
+ Entscheidungen operationalisieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  pflicht bei technischen Überwachungssystemen; gilt auch für KI-basierte
-  Mitarbeiterbewertung.
+ pflicht bei technischen Überwachungssystemen; gilt auch für KI-basierte
+ Mitarbeiterbewertung.
 
 **Kommentare**
 
 - Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 4 Rn. 3 ff.
-  (KI-Kompetenzverpflichtung; interne Richtliniengestaltung).
+ (KI-Kompetenzverpflichtung; interne Richtliniengestaltung).
 - Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 1 ff.
 - Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 87 BetrVG Rn. 32 ff.
-  (Mitbestimmung bei KI-Tools).
+ (Mitbestimmung bei KI-Tools).
 - Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
-  Teil IV Rn. 100 ff. (Compliance-Anforderungen für KI-Nutzungsrichtlinien).
+ Teil IV Rn. 100 ff. (Compliance-Anforderungen für KI-Nutzungsrichtlinien).
 
 *Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im Einzelfall.*
 
@@ -318,10 +318,10 @@ Anwendungskontext (Unternehmen / Konzern / Kanzlei / Behörde).
 
 Aktuelle veröffentlichte Muster-KI-Richtlinien und Leitlinien suchen:
 - Deutschland/EU: AI Act direkt (Art. 4, 9, 26, 29); EDPB Guidelines 01/2022
-  (Art. 22 DSGVO); DSK-Orientierungshilfen; BSI-Empfehlungen; Bitkom/DAV-
-  Leitlinien; veröffentlichte Unternehmensrichtlinien aus DAX-Umfeld.
+ (Art. 22 DSGVO); DSK-Orientierungshilfen; BSI-Empfehlungen; Bitkom/DAV-
+ Leitlinien; veröffentlichte Unternehmensrichtlinien aus DAX-Umfeld.
 - Jeden verwendeten Quellennachweis im **Quellenblock** dokumentieren:
-  Name, URL, Zugriffsdatum, was der Entwurf daraus entnommen hat.
+ Name, URL, Zugriffsdatum, was der Entwurf daraus entnommen hat.
 
 **Schritt 4 — Entwurf erstellen**
 
@@ -362,9 +362,9 @@ Zustimmung erfordern `[prüfen — § 87 BetrVG; anwaltliche Prüfung empfohlen]
 ## Risiken und typische Fehler
 
 - Richtliniensprache erfinden: jede materielle Regel aus einer Quelle
-  belegen oder `[prüfen — adaptiert, keine Direktquelle]` kennzeichnen.
+ belegen oder `[prüfen — adaptiert, keine Direktquelle]` kennzeichnen.
 - Schwierige Entscheidungen vorwegnehmen: das ist ein `[prüfen]`, keine
-  empfohlene Position.
+ empfohlene Position.
 - § 87 BetrVG vergessen: bei Unternehmen mit Betriebsrat immer prüfen.
 - Scope-Gespräch überspringen: "einfach alles" ist die Hauptfehlerquelle.
 
@@ -375,7 +375,7 @@ Zustimmung erfordern `[prüfen — § 87 BetrVG; anwaltliche Prüfung empfohlen]
 - **§ 87 Abs. 1 Nr. 6 BetrVG** bei Mitarbeiter-KI.
 - **GeschGehG §§ 2, 4** bei Abschnitt zu vertraulichen Daten.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Entscheidungen.
+ Entscheidungen.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 4.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22.**
 - **Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 87 BetrVG Rn. 32 ff.**
@@ -438,7 +438,7 @@ Datenschutzbeauftragter: [NAME, EMAIL]
 # Anbieter: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Anbieter: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Anbieter: Mehrparteienkonflikt und Interessenmatrix / spezial anbieter mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Anbieter: Mehrparteienkonflikt und Interessenmatrix / anbieter mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

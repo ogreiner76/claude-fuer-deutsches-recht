@@ -1,13 +1,13 @@
 ---
 name: grosse-kleine-koselleck-interessen
-description: "Nutze dies, wenn Spezial Grosse Compliance Dokumentation Und Akte, Spezial Kleine Verhandlung Vergleich Und Eskalation, Spezial Koselleck Mehrparteien Konflikt Und Interessen im Plugin Dfg Foerderantrag konkret bearbeitet werden soll. Auslöser: Bitte Spezial Grosse Compliance Dokumentation Und Akte, Spezial Kleine Verhandlung Vergleich Und Eskalation, Spezial Koselleck Mehrparteien Konflikt Und Interessen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Grosse Compliance Dokumentation Und Akte, Spezial Kleine Verhandlung Vergleich Und Eskalation, Spezial Koselleck Mehrparteien Konflikt Und Interessen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grosse Compliance Dokumentation Und Akte, Kleine Verhandlung Vergleich Und Eskalation, Koselleck Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Grosse Compliance Dokumentation Und Akte, Spezial Kleine Verhandlung Vergleich Und Eskalation, Spezial Koselleck Mehrparteien Konflikt Und Interessen
+# Grosse Compliance Dokumentation Und Akte, Kleine Verhandlung Vergleich Und Eskalation, Koselleck Mehrparteien Konflikt Und Interessen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosse Compliance Dokumentation Und Akte, Kleine Verhandlung Vergleich Und Eskalation, Koselleck Mehrparteien Konflikt Und Interessen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Grosse Compliance Dokumentation Und Akte, Spezial Kleine Verhandlung Vergleich Und Eskalation, Spezial Koselleck Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dfg-foerderantrag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grosse Compliance Dokumentation Und Akte, Kleine Verhandlung Vergleich Und Eskalation, Koselleck Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dfg-foerderantrag` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Grosse Compliance Dokumentation Und Akte, Spezial Kleine Verhandl
 # Grosse: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Grosse: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Grosse: Compliance-Dokumentation und Aktenvermerk / spezial grosse compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Grosse: Compliance-Dokumentation und Aktenvermerk / grosse compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFG, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Kleine: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Kleine: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Kleine: Verhandlung, Vergleich und Eskalation / spezial kleine verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kleine: Verhandlung, Vergleich und Eskalation / kleine verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFG, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Koselleck: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Koselleck: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Koselleck: Mehrparteienkonflikt und Interessenmatrix / spezial koselleck mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Koselleck: Mehrparteienkonflikt und Interessenmatrix / koselleck mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFG, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

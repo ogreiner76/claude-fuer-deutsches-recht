@@ -1,13 +1,13 @@
 ---
 name: lease-qualitaetsgate-leasingakte-lessons
-description: "Nutze dies, wenn Lease 049 Qualitaetsgate Leasingakte, Lease 050 Lessons Learned Nach Rueckgabe, Lease 051 Bewegliche Sachen Router im Plugin Leasingrecht Praxis konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Lease 049 Qualitaetsgate Leasingakte, Lease 050 Lessons Learned Nach Rueckgabe, Lease 051 Bewegliche Sachen Router: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lease 049 Qualitaetsgate Leasingakte, Lease 050 Lessons Learned Nach Rueckgabe, Lease 051 Bewegliche Sachen Router
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lease 049 Qualitaetsgate Leasingakte, Lease 050 Lessons Learned Nach Rueckgabe, Lease 051 Bewegliche Sachen Router** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

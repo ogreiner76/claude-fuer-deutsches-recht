@@ -46,7 +46,7 @@ Nicht dieser Skill, sondern die rein nationalen Sanierungsskills sind primär, w
 - **EuGH, Urteil vom 24.07.2003 – Altmark Trans, Rs. C-280/00** – die vier Altmark-Kriterien für Ausgleichsleistungen.
 - **§ 8c Abs. 1a KStG** – Sanierungsklausel; Gegenstand der EU-Beihilfeauseinandersetzung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Beihilfetatbestand prüfen:**
 
@@ -125,10 +125,10 @@ Drei Beobachtungen aus der Beihilfepraxis bei Sanierungen:
 - Plugin `kartellrecht`: Beihilferecht im Detail.
 - Plugin `steuerrecht-anwalt-und-berater`: Sanierungsklausel § 8c Abs. 1a KStG.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-  - `gk-sanierungsgewinn-konzern-und-cross-border`
-  - `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
-  - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `gk-sanierungsgewinn-konzern-und-cross-border`
+ - `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
+ - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
 
 ## Quellen Stand 06/2026
 

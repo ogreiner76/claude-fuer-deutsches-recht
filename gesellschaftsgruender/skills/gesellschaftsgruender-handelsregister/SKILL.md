@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-handelsregister
-description: "Nutze dies, wenn Gesellschaftsgründer Handelsregister Anmeldung, Gesellschaftsgründer Ihk Und Berufsgenossenschaft, Gesellschaftsgründer Investor Dd Vorbereiten, Gesellschaftsgründer Ip Einbringung, Gesellschaftsgründer Kapitalerhoehung Bezugsrecht im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Handelsregister Anmeldung, Gesellschaftsgründer Ihk Und Berufsgenossenschaft, Gesellschaftsgründer Investor Dd Vorbereiten, Gesellschaftsgründer Ip Einbringung, Gesellschaftsgründer Kapitalerhoehung Bezugsrecht prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Handelsregister Anmeldung, Gesellschaftsgründer Ihk Und Berufsgenossenschaft, Gesellschaftsgründer Investor Dd Vorbereiten, Gesellschaftsgründer Ip Einbringung, Gesellschaftsgründer Kapitalerhoehung Bezugsrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Handelsregister Anmeldung, Gesellschaftsgruender Ihk Und Berufsgenossenschaft, Gesellschaftsgruender Investor Dd Vorbereiten, Gesellschaftsgruender Ip Einbringung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Handelsregister Anmeldung, Gesellschaftsgründer Ihk Und Berufsgenossenschaft, Gesellschaftsgründer Investor Dd Vorbereiten, Gesellschaftsgründer Ip Einbringung, Gesellschaftsgründer Kapitalerhoehung Bezugsrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Handelsregister Anmeldung, Gesellschaftsgründer Ihk Und Berufsgenossenschaft, Gesellschaftsgründer Investor Dd Vorbereiten, Gesellschaftsgründer Ip Einbringung, Gesellschaftsgründer Kapitalerhoehung Bezugsrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -324,7 +324,7 @@ STATUS PFLICHTMELDUNGEN
 
 ## Übergabe an andere Skills
 
-- `gesellschaftsgruender-kommandocenter` — Master-Workflow Gründung
+- `gesellschaftsgruender-kommandocenter` — Master-Gründung
 - `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — Gewerbeanmeldung vor IHK
 - `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Status GF und Beschäftigte
 
@@ -578,8 +578,8 @@ Bei Mitarbeiter-Beteiligung:
 - **Einstweilige Verfügung** auf Anmeldungs-Sperre (Paragraf 16 II HGB)
 - Antrag beim **Landgericht** (Gesellschafts-Sitz)
 - Glaubhaftmachung von:
-  - Wahrscheinlichkeit der Anfechtbarkeit (sachliche Rechtfertigung fehlt)
-  - Eilbedürftigkeit (Eintragung würde Verwässerung unwiderruflich)
+ - Wahrscheinlichkeit der Anfechtbarkeit (sachliche Rechtfertigung fehlt)
+ - Eilbedürftigkeit (Eintragung würde Verwässerung unwiderruflich)
 
 → `gesellschaftsgruender-gesellschafterstreit-eilantraege`
 
@@ -593,31 +593,31 @@ Beschluss-Vorlage:
 "Die Gesellschafterversammlung beschliesst,
 
 a) das Stammkapital der Gesellschaft um 10.000 EUR
-   auf 35.000 EUR durch Ausgabe von 10.000 neuen
-   Geschaeftsanteilen der Class A zu erhoehen,
+ auf 35.000 EUR durch Ausgabe von 10.000 neuen
+ Geschaeftsanteilen der Class A zu erhoehen,
 
 b) das Bezugsrecht der bestehenden Gesellschafter
-   gemaess Paragraf 55 IV GmbHG ganz auszuschliessen,
+ gemaess Paragraf 55 IV GmbHG ganz auszuschliessen,
 
 c) zur Uebernahme der neuen Anteile die Investor I AG
-   mit Sitz in [Ort], eingetragen im HR [HRB X], zu
-   ermaechtigen, gegen Bareinlage des
-   Nennwerts plus Aufgeld i.H.v. 90.000 EUR pro Anteil
-   (Gesamtbetrag 100.000 EUR pro Anteil),
+ mit Sitz in [Ort], eingetragen im HR [HRB X], zu
+ ermaechtigen, gegen Bareinlage des
+ Nennwerts plus Aufgeld i.H.v. 90.000 EUR pro Anteil
+ (Gesamtbetrag 100.000 EUR pro Anteil),
 
 d) die naeheren Bedingungen folgen aus dem
-   Subscription Agreement zwischen der Gesellschaft
-   und Investor I AG vom [Datum].
+ Subscription Agreement zwischen der Gesellschaft
+ und Investor I AG vom [Datum].
 
 Sachliche Rechtfertigung des Bezugsrechtsausschlusses:
 - Investor I AG ist strategischer Investor mit
-  Marktzugang in Sektor X.
+ Marktzugang in Sektor X.
 - Der Eintritt des Investors ist Voraussetzung fuer
-  die Geschaeftsentwicklung in [Markt].
+ die Geschaeftsentwicklung in [Markt].
 - Die bestehenden Gesellschafter haben kein
-  vergleichbares strategisches Engagement.
+ vergleichbares strategisches Engagement.
 - Verwaesserung der bestehenden Gesellschafter
-  betraegt 22 %, was im Rahmen angemessen ist."
+ betraegt 22 %, was im Rahmen angemessen ist."
 ```
 
 ## 7) Bei Sondervetorecht / Golden Share
@@ -707,17 +707,17 @@ TOP [N]: Kapitalerhoehung mit Bezugsrechtsausschluss
 Die Gesellschafterversammlung beschliesst:
 
 1. Das Stammkapital der Gesellschaft wird um [BETRAG] EUR
-   auf [NEUES KAPITAL] EUR erhoeht durch Ausgabe von
-   [ANZAHL] neuen Geschaeftsanteilen (Class [X]) mit
-   einem Nennwert von je 1 EUR.
+ auf [NEUES KAPITAL] EUR erhoeht durch Ausgabe von
+ [ANZAHL] neuen Geschaeftsanteilen (Class [X]) mit
+ einem Nennwert von je 1 EUR.
 
 2. Das Bezugsrecht der bestehenden Gesellschafter
-   wird gemaess § 55 Abs. 4 GmbHG ausgeschlossen.
-   Sachliche Rechtfertigung: [BEGRUENDUNG].
+ wird gemaess § 55 Abs. 4 GmbHG ausgeschlossen.
+ Sachliche Rechtfertigung: [BEGRUENDUNG].
 
 3. Zur Uebernahme der neuen Anteile wird [INVESTOR]
-   zugelassen gegen Bareinlage von [BETRAG] EUR
-   (Nennwert [BETRAG] EUR + Aufgeld [BETRAG] EUR).
+ zugelassen gegen Bareinlage von [BETRAG] EUR
+ (Nennwert [BETRAG] EUR + Aufgeld [BETRAG] EUR).
 
 4. Einzahlungsfrist: [DATUM].
 

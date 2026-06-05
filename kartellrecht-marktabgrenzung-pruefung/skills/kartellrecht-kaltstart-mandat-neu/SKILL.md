@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-kaltstart-mandat-neu
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kartellrecht Kaltstart Mandat neu."
+description: "Nutze dies zum Einstieg in Kartellrecht Kaltstart Mandat neu: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kartellrecht Kaltstart Mandat neu

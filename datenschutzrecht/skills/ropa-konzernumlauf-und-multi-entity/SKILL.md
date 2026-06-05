@@ -59,13 +59,13 @@ EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR 
 ### Master-RoPA-Deckblatt
 
 ```
-Konzern:                  [Mutter AG]
-Konzernweite DSB:         [Name, Kontakt]
-Geltungsbereich:          [Liste der Tochtergesellschaften, EU/EWR + Drittlaender]
-Konzerninterne Garantie:  [BCR genehmigt YYYY-MM-DD durch Lead-Behoerde XY] oder [SCC-Rahmenvertrag YYYY]
-Erstellt:                 [Datum]
-Letzte Aenderung:         [Datum]
-Version:                  [v1.0]
+Konzern: [Mutter AG]
+Konzernweite DSB: [Name, Kontakt]
+Geltungsbereich: [Liste der Tochtergesellschaften, EU/EWR + Drittlaender]
+Konzerninterne Garantie: [BCR genehmigt YYYY-MM-DD durch Lead-Behoerde XY] oder [SCC-Rahmenvertrag YYYY]
+Erstellt: [Datum]
+Letzte Aenderung: [Datum]
+Version: [v1.0]
 ```
 
 ### Master-Tabelle (gruppenuebergreifende Prozesse)
@@ -80,21 +80,21 @@ Version:                  [v1.0]
 ### Entity-Anhang (pro Tochter)
 
 ```
-Tochter:               [Name, Sitz, Rechtsform]
+Tochter: [Name, Sitz, Rechtsform]
 Lokal Verantwortlicher: [...]
-Lokal DSB:             [...]
+Lokal DSB: [...]
 Lokale Aufsichtsbehoerde: [...]
-Lokale Prozesse:       [Tabelle entsprechend Controller-Vorlage]
-Bezug zu Master-RoPA:  [Prozessnummern oben]
+Lokale Prozesse: [Tabelle entsprechend Controller-Vorlage]
+Bezug zu Master-RoPA: [Prozessnummern oben]
 ```
 
 ### Datenflussdiagramm (textuell)
 
 ```
-DE (Mutter)  <--AVV-->  IT-Service-GmbH (DE)
-DE (Mutter)  <--Joint Controllership-->  US (Tochter im DPF)
-DE (Mutter)  <--BCR-->  IN (Tochter)
-DE (Mutter)  <--SCC-->  BR (Tochter, kein Angemessenheitsbeschluss)
+DE (Mutter) <--AVV--> IT-Service-GmbH (DE)
+DE (Mutter) <--Joint Controllership--> US (Tochter im DPF)
+DE (Mutter) <--BCR--> IN (Tochter)
+DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 ```
 
 ## Typische Fehler

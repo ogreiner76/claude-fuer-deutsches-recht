@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Nutze dies, wenn Unterlagen und Lücken im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Unterlagen und Lücken
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Urheber Medienrecht** ein Fall 
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-sonderfall-bild-eigenen` — Abmahnung Sonderfall Bild Eigenen
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `erstgespraech-mandatsannahme-fachanwalt-urheber-medienrecht` — Erstgespraech Mandatsannahme Fachanwalt Urheber Medienrecht
 - `fachanwalt-gewerblicher-kanzlei` — Fachanwalt Gewerblicher Kanzlei
 - `gegendarstellung-presse-mandat-triage-schriftsatzkern` — Gegendarstellung Presse Mandat Triage Schriftsatzkern

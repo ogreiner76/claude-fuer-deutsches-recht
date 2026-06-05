@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "PrALR: Kaltstart, Quellenlage, Textzeugenvergleich, Spezialskill-Routing und erste verwertbare rechtsgeschichtliche Ausgabe."
+description: "PrALR: Kaltstart, Quellenlage, Textzeugenvergleich, Fachmodul-Routing und erste verwertbare rechtsgeschichtliche Ausgabe."
 ---
 
 # PrALR - Allgemeiner Einstieg

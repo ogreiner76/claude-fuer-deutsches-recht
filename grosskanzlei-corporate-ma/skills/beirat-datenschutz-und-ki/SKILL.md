@@ -1,6 +1,6 @@
 ---
 name: beirat-datenschutz-und-ki
-description: "Nutze dies, wenn Beirat Datenschutz Und KI im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Datenschutz Und KI prüfen.; Erstelle eine Arbeitsfassung zu Beirat Datenschutz Und KI.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Datenschutz Und KI: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Datenschutz Und KI

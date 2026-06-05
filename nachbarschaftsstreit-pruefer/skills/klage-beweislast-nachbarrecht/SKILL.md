@@ -1,13 +1,13 @@
 ---
 name: klage-beweislast-nachbarrecht
-description: "Nutze dies, wenn Spezial Klage Beweislast Und Darlegungslast, Spezial Nachbarrecht Erstpruefung Und Mandatsziel, Spezial Nachbarschaftsstreit Tatbestand Beweis Und Belege im Plugin Nachbarschaftsstreit Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Spezial Klage Beweislast Und Darlegungslast, Spezial Nachbarrecht Erstpruefung Und Mandatsziel, Spezial Nachbarschaftsstreit Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Klage Beweislast Und Darlegungslast, Spezial Nachbarrecht Erstpruefung Und Mandatsziel, Spezial Nachbarschaftsstreit Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klage Beweislast Und Darlegungslast, Nachbarrecht Erstpruefung Und Mandatsziel, Nachbarschaftsstreit Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Klage Beweislast Und Darlegungslast, Spezial Nachbarrecht Erstpruefung Und Mandatsziel, Spezial Nachbarschaftsstreit Tatbestand Beweis Und Belege
+# Klage Beweislast Und Darlegungslast, Nachbarrecht Erstpruefung Und Mandatsziel, Nachbarschaftsstreit Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klage Beweislast Und Darlegungslast, Nachbarrecht Erstpruefung Und Mandatsziel, Nachbarschaftsstreit Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Klage Beweislast Und Darlegungslast, Spezial Nachbarrecht Erstpruefung Und Mandatsziel, Spezial Nachbarschaftsstreit Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nachbarschaftsstreit-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Klage Beweislast Und Darlegungslast, Nachbarrecht Erstpruefung Und Mandatsziel, Nachbarschaftsstreit Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nachbarschaftsstreit-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Klage Beweislast Und Darlegungslast, Spezial Nachbarrecht Erstpru
 # Klage: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Klage: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Klage: Beweislast, Darlegungslast und Substantiierung / spezial klage beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Klage: Beweislast, Darlegungslast und Substantiierung / klage beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel / spezial nachbarrecht erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel / nachbarrecht erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial nachbarschaftsstreit tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage / nachbarschaftsstreit tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

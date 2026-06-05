@@ -1,13 +1,13 @@
 ---
 name: vertrag-einfach-aktenzeichen-betreff
-description: "Nutze dies, wenn Vertrag Einfach Verstehen, Aktenzeichen Und Betreff im Plugin Juristische Sprache Deutsch Als Zweitsprache konkret bearbeitet werden soll. Auslöser: Bitte Vertrag Einfach Verstehen, Aktenzeichen Und Betreff prüfen.; Erstelle eine Arbeitsfassung zu Vertrag Einfach Verstehen, Aktenzeichen Und Betreff.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vertrag Einfach Verstehen, Aktenzeichen Und Betreff: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vertrag Einfach Verstehen, Aktenzeichen Und Betreff
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vertrag Einfach Verstehen, Aktenzeichen Und Betreff** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

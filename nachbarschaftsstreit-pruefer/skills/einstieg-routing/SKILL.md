@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Nachbarschaftsstreit Prüfer konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Nachbarschaftsstreit Prüfer.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Nachbarschaftsstreit Prüfer** ein Fall no
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `anspruchslandkarte-bgb-aufforderungsschreiben-nachbar` — Anspruchslandkarte Bgb Aufforderungsschreiben Nachbar
 - `aufforderung-beweise-red-grenzbaum` — Aufforderung Beweise Red Grenzbaum
 - `drohender-einsturz-einfriedung-zaun-einstweilige-verfuegung` — Drohender Einsturz Einfriedung Zaun Einstweilige Verfuegung

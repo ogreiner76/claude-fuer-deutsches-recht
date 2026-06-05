@@ -1,13 +1,13 @@
 ---
 name: ueberbau-ueberhang-aeste-mediation
-description: "Nutze dies, wenn Ueberbau Prüfung, Ueberhang Aeste Wurzeln, Vergleich Mediation Nachbarschaftsfrieden im Plugin Nachbarschaftsstreit Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Ueberbau Prüfung, Ueberhang Aeste Wurzeln, Vergleich Mediation Nachbarschaftsfrieden prüfen.; Erstelle eine Arbeitsfassung zu Ueberbau Prüfung, Ueberhang Aeste Wurzeln, Vergleich Mediation Nachbarschaftsfrieden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ueberbau Prüfung, Ueberhang Aeste Wurzeln, Vergleich Mediation Nachbarschaftsfrieden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ueberbau Prüfung, Ueberhang Aeste Wurzeln, Vergleich Mediation Nachbarschaftsfrieden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ueberbau Prüfung, Ueberhang Aeste Wurzeln, Vergleich Mediation Nachbarschaftsfrieden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

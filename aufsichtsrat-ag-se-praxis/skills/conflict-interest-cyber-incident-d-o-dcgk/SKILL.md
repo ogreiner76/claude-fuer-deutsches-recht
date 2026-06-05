@@ -1,22 +1,22 @@
 ---
 name: conflict-interest-cyber-incident-d-o-dcgk
-description: "Nutze dies, wenn Conflict Of Interest, Cyber Incident Board, D Und O Versicherung, Dcgk Entsprechenserklaerung im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Conflict Of Interest, Cyber Incident Board, D Und O Versicherung, Dcgk Entsprechenserklaerung prüfen.; Erstelle eine Arbeitsfassung zu Conflict Of Interest, Cyber Incident Board, D Und O Versicherung, Dcgk Entsprechenserklaerung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Conflict Of Interest, Cyber Incident Board, D Und O Versicherung, Dcgk Entsprechenserklaerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Conflict Of Interest, Cyber Incident Board, D Und O Versicherung, Dcgk Entsprechenserklaerung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Conflict Of Interest, Cyber Incident Board, D Und O Versicherung, Dcgk Entsprechenserklaerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `conflict-of-interest` | AG/SE-Aufsichtsrat Praxis: Conflict Of Interest; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `cyber-incident-board` | AG/SE-Aufsichtsrat Praxis: Cyber Incident Board; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `d-und-o-versicherung` | AG/SE-Aufsichtsrat Praxis: D Und O Versicherung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `dcgk-entsprechenserklaerung` | AG/SE-Aufsichtsrat Praxis: Dcgk Entsprechenserklaerung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `conflict-of-interest` | AG/SE-Aufsichtsrat Praxis: Conflict Of Interest; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `cyber-incident-board` | AG/SE-Aufsichtsrat Praxis: Cyber Incident Board; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `d-und-o-versicherung` | AG/SE-Aufsichtsrat Praxis: D Und O Versicherung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `dcgk-entsprechenserklaerung` | AG/SE-Aufsichtsrat Praxis: Dcgk Entsprechenserklaerung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Conflict Of Interest, Cyber Incident Board, D Und O Versicherung, Dcgk En
 
 ## 1. `conflict-of-interest`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Conflict Of Interest; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Conflict Of Interest; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Conflict Of Interest
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `cyber-incident-board`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Cyber Incident Board; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Cyber Incident Board; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Cyber Incident Board
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `d-und-o-versicherung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: D Und O Versicherung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: D Und O Versicherung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # D Und O Versicherung
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `dcgk-entsprechenserklaerung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Dcgk Entsprechenserklaerung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Dcgk Entsprechenserklaerung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Dcgk Entsprechenserklaerung
 

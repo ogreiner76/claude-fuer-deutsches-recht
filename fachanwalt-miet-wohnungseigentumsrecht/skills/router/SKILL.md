@@ -1,6 +1,6 @@
 ---
 name: router
-description: "Output-Router Miet/WEG: Workflow-Skill für Miet- und WEG-Recht; wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output."
+description: "Output-Router Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output."
 ---
 
 # Output-Router Miet/WEG
@@ -15,9 +15,9 @@ description: "Output-Router Miet/WEG: Workflow-Skill für Miet- und WEG-Recht; w
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wählt Memo, Tabelle, Brief, Beschluss, Schriftsatz, Vergleich oder Fristenblatt.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -30,7 +30,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab

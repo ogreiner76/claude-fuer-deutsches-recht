@@ -48,7 +48,7 @@ Nicht dieser Skill ist primär, wenn nur klassisches Bank-Debt restrukturiert wi
 - **Scheme of Arrangement (UK Companies Act 2006, Part 26 / Part 26A)** – relevant bei deutscher Emittentin mit englischem Anleiherecht.
 - **EuInsVO** – grenzüberschreitendes Insolvenzverfahren.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Bond-Inventur:**
 
@@ -132,11 +132,11 @@ Drei Beobachtungen aus der Bond-Restrukturierungs-Praxis:
 - Plugin `kapitalmarktrecht`: SchVG, MAR im Detail.
 - Plugin `insolvenzrecht`: StaRUG, Insolvenzplan mit Bondgläubiger.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar`
-  - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
-  - `gk-sanierungsgewinn-konzern-und-cross-border`
+ - `grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar`
+ - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+ - `gk-sanierungsgewinn-konzern-und-cross-border`
 
 ## Quellen Stand 06/2026
 

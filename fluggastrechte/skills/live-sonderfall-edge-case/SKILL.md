@@ -1,12 +1,12 @@
 ---
 name: live-sonderfall-edge-case
-description: "Nutze dies, wenn Live: Sonderfall und Edge-Case-Prüfung im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Live: Sonderfall und Edge-Case-Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Live: Sonderfall und Edge-Case-Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Live: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Live: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Live: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Live: Sonderfall und Edge-Case-Prüfung / spezial live sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Live: Sonderfall und Edge-Case-Prüfung / live sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

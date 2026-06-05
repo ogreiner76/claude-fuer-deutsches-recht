@@ -1,6 +1,6 @@
 ---
 name: nkr-gleichstellungs-und-gendercheck
-description: "Spezialskill Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten."
+description: "Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten."
 ---
 
 # NKR-Gleichstellungs- und Gendercheck

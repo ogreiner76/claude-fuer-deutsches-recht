@@ -1,6 +1,6 @@
 ---
 name: rom-080-kaufrecht-vergleich-cisg-bgb
-description: "Römisches Recht: Kaufrecht Vergleich CISG BGB. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Kaufrecht Vergleich CISG BGB. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Kaufrecht Vergleich CISG BGB

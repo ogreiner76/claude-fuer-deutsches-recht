@@ -1,13 +1,13 @@
 ---
 name: barrierefreiheit-meldekanal
-description: "Nutze dies, wenn Barrierefreiheit Meldekanal, Beschaeftigtenzahl Konzern, Beschuldigtenrechte, Beschwerde Management im Plugin Hinweisgeberschutz Compliance konkret bearbeitet werden soll. Auslöser: Bitte Barrierefreiheit Meldekanal, Beschaeftigtenzahl Konzern, Beschuldigtenrechte, Beschwerde Management prüfen.; Erstelle eine Arbeitsfassung zu Barrierefreiheit Meldekanal, Beschaeftigtenzahl Konzern, Beschuldigtenrechte, Beschwerde Management.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Barrierefreiheit Meldekanal, Beschaeftigtenzahl Konzern, Beschuldigtenrechte, Beschwerde Management: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Barrierefreiheit Meldekanal, Beschaeftigtenzahl Konzern, Beschuldigtenrechte, Beschwerde Management
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Barrierefreiheit Meldekanal, Beschaeftigtenzahl Konzern, Beschuldigtenrechte, Beschwerde Management** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

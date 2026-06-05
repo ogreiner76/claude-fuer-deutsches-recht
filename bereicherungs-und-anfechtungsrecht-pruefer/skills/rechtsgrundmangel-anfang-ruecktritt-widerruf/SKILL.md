@@ -1,13 +1,13 @@
 ---
 name: rechtsgrundmangel-anfang-ruecktritt-widerruf
-description: "Nutze dies, wenn Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung im Plugin Bereicherungs Und Anfechtungsrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung prüfen.; Erstelle eine Arbeitsfassung zu Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsgrundmangel Anfang Und Wegfall, Rücktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

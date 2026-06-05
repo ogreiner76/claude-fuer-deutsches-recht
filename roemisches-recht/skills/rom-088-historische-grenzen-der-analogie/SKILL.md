@@ -1,6 +1,6 @@
 ---
 name: rom-088-historische-grenzen-der-analogie
-description: "Römisches Recht: Historische Grenzen Der Analogie. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Historische Grenzen Der Analogie. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Historische Grenzen Der Analogie

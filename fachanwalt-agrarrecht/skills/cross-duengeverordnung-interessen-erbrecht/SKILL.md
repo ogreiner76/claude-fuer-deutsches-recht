@@ -1,13 +1,13 @@
 ---
 name: cross-duengeverordnung-interessen-erbrecht
-description: "Nutze dies, wenn Spezial Cross Zahlen Schwellen Und Berechnung, Spezial Duengeverordnung Mehrparteien Konflikt Und Interessen, Spezial Erbrecht Beweislast Und Darlegungslast im Plugin Fachanwalt Agrarrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Cross Zahlen Schwellen Und Berechnung, Spezial Duengeverordnung Mehrparteien Konflikt Und Interessen, Spezial Erbrecht Beweislast Und Darlegungslast prüfen.; Erstelle eine Arbeitsfassung zu Spezial Cross Zahlen Schwellen Und Berechnung, Spezial Duengeverordnung Mehrparteien Konflikt Und Interessen, Spezial Erbrecht Beweislast Und Darlegungslast.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Cross Zahlen Schwellen Und Berechnung, Duengeverordnung Mehrparteien Konflikt Und Interessen, Erbrecht Beweislast Und Darlegungslast: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Cross Zahlen Schwellen Und Berechnung, Spezial Duengeverordnung Mehrparteien Konflikt Und Interessen, Spezial Erbrecht Beweislast Und Darlegungslast
+# Cross Zahlen Schwellen Und Berechnung, Duengeverordnung Mehrparteien Konflikt Und Interessen, Erbrecht Beweislast Und Darlegungslast
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Cross Zahlen Schwellen Und Berechnung, Duengeverordnung Mehrparteien Konflikt Und Interessen, Erbrecht Beweislast Und Darlegungslast** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Cross Zahlen Schwellen Und Berechnung, Spezial Duengeverordnung Mehrparteien Konflikt Und Interessen, Spezial Erbrecht Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Cross Zahlen Schwellen Und Berechnung, Duengeverordnung Mehrparteien Konflikt Und Interessen, Erbrecht Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Cross Zahlen Schwellen Und Berechnung, Spezial Duengeverordnung M
 # Cross: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Cross: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Cross: Zahlen, Schwellenwerte und Berechnung / spezial cross zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Cross: Zahlen, Schwellenwerte und Berechnung / cross zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix / spezial duengeverordnung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix / duengeverordnung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Erbrecht: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Erbrecht: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Erbrecht: Beweislast, Darlegungslast und Substantiierung / spezial erbrecht beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Erbrecht: Beweislast, Darlegungslast und Substantiierung / erbrecht beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

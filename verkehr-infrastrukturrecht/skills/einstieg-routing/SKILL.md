@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Verkehr Infrastrukturrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Verkehr Infrastrukturrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Verkehr Infrastrukturrecht** ein Fall noch
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `autonomous-driving-interessen-grossprojekt` — Autonomous Driving Interessen Grossprojekt
 - `foerderung-vergabe-ladeinfrastruktur-planfeststellung` — Foerderung Vergabe Ladeinfrastruktur Planfeststellung
 - `infrastruktur-foerderung-nachhaltige-bahninfrastruktur` — Infrastruktur Foerderung Nachhaltige Bahninfrastruktur

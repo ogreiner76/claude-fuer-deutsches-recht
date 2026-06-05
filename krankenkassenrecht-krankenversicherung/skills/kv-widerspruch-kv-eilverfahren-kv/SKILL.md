@@ -1,13 +1,13 @@
 ---
 name: kv-widerspruch-kv-eilverfahren-kv
-description: "Nutze dies, wenn Kv 024 Widerspruch Gegen Leistungsablehnung Frist Und Begruendun, Kv 025 Eilverfahren Sozialgericht Medizinische Dringlichkeit, Kv 049 Unfallversicherung Oder Krankenkasse Zustaendigkeitsstrei im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 024 Widerspruch Gegen Leistungsablehnung Frist Und Begruendun, Kv 025 Eilverfahren Sozialgericht Medizinische Dringlichkeit, Kv 049 Unfallversicherung Oder Krankenkasse Zustaendigkeitsstrei prüfen.; Erstelle eine Arbeitsfassung zu Kv 024 Widerspruch Gegen Leistungsablehnung Frist Und Begruendun, Kv 025 Eilverfahren Sozialgericht Medizinische Dringlichkeit, Kv 049 Unfallversicherung Oder Krankenkasse Zustaendigkeitsstrei.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 024 Widerspruch Gegen Leistungsablehnung Frist Und Begruendun, Kv 025 Eilverfahren Sozialgericht Medizinische Dringlichkeit, Kv 049 Unfallversicherung Oder Krankenkasse Zustaendigkeitsstrei: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 024 Widerspruch Gegen Leistungsablehnung Frist Und Begruendun, Kv 025 Eilverfahren Sozialgericht Medizinische Dringlichkeit, Kv 049 Unfallversicherung Oder Krankenkasse Zustaendigkeitsstrei
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 024 Widerspruch Gegen Leistungsablehnung Frist Und Begruendun, Kv 025 Eilverfahren Sozialgericht Medizinische Dringlichkeit, Kv 049 Unfallversicherung Oder Krankenkasse Zustaendigkeitsstrei** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

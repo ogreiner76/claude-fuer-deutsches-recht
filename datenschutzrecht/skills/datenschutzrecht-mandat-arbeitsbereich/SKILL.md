@@ -149,6 +149,6 @@ Aktive Arbeitsbereich-IDs:
 - [ID_2]: [MANDANT/PROJEKT] | Status: aktiv | Kontext: isoliert
 
 Aktuell aktiver Kontext: [ID_X]
-Sicherheitshinweis: Kontextleak zwischen Mandaten wurde verhindert. 
+Sicherheitshinweis: Kontextleak zwischen Mandaten wurde verhindert.
 Letzter Wechsel: [DATUM, UHRZEIT]
 ```

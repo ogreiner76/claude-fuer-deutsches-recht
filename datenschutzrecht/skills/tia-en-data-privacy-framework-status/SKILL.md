@@ -51,7 +51,7 @@ This skill provides an English-language assessment of the EU-US Data Privacy Fra
 
 - The Commission periodically reviews the effectiveness of the DPF; the **first review in summer 2024** confirmed the decision; further reviews are scheduled approximately every four years, with ad hoc reviews possible.
 
-## Workflow / Checklist
+## / Checklist
 
 1. **Verify the exact name** of the US entity in the DPF list.
 2. **Check status** "Active"; if "Inactive" -> no DPF reliance.
@@ -69,20 +69,20 @@ This skill provides an English-language assessment of the EU-US Data Privacy Fra
 
 ```
 DPF Check – Importer: [exact name as listed on DPF list]
-Retrieval date:        [YYYY-MM-DD]
-Retrieval URL:         https://www.dataprivacyframework.gov/list
-Retrieved by:          [user]
-Listing status:        Active / Inactive
-Certification date:    [...]
+Retrieval date: [YYYY-MM-DD]
+Retrieval URL: https://www.dataprivacyframework.gov/list
+Retrieved by: [user]
+Listing status: Active / Inactive
+Certification date: [...]
 Next re-certification: [...]
-Track:                 EU-US DPF / Swiss-US DPF / UK Extension
-HR data covered:       Yes / No
-Non-HR data covered:   Yes / No
-Listed services:       [reconcile with privacy policy]
+Track: EU-US DPF / Swiss-US DPF / UK Extension
+HR data covered: Yes / No
+Non-HR data covered: Yes / No
+Listed services: [reconcile with privacy policy]
 Independent Recourse Mechanism: [AAA / JAMS / EU DPA Panel]
-Assessment:            DPF reliable / partially reliable / not reliable
-Residual risk:         [...]
-Fallback clause:       [reference]
+Assessment: DPF reliable / partially reliable / not reliable
+Residual risk: [...]
+Fallback clause: [reference]
 ```
 
 ### TIA Step 2 wording

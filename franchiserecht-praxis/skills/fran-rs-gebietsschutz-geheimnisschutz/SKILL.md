@@ -1,21 +1,21 @@
 ---
 name: fran-rs-gebietsschutz-geheimnisschutz
-description: "Nutze dies, wenn Fran Rs Gebietsschutz Gegen Online Und Plattformkanaele, Fran Rs Geheimnisschutz Für Handbuch Und Know How, Fran Rs Ghost Kitchens Und Lieferplattform Franchise im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran Rs Gebietsschutz Gegen Online Und Plattformkanaele, Fran Rs Geheimnisschutz Für Handbuch Und Know How, Fran Rs Ghost Kitchens Und Lieferplattform Franchise prüfen.; Erstelle eine Arbeitsfassung zu Fran Rs Gebietsschutz Gegen Online Und Plattformkanaele, Fran Rs Geheimnisschutz Für Handbuch Und Know How, Fran Rs Ghost Kitchens Und Lieferplattform Franchise.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fran Rs Gebietsschutz Gegen Online Und Plattformkanaele, Fran Rs Geheimnisschutz Für Handbuch Und Know How, Fran Rs Ghost Kitchens Und Lieferplattform Franchise: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fran Rs Gebietsschutz Gegen Online Und Plattformkanaele, Fran Rs Geheimnisschutz Für Handbuch Und Know How, Fran Rs Ghost Kitchens Und Lieferplattform Franchise
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fran Rs Gebietsschutz Gegen Online Und Plattformkanaele, Fran Rs Geheimnisschutz Für Handbuch Und Know How, Fran Rs Ghost Kitchens Und Lieferplattform Franchise** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fran-rs-gebietsschutz-gegen-online-und-plattformkanaele` | Spezialskill Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
-| `fran-rs-geheimnisschutz-fuer-handbuch-und-know-how` | Spezialskill Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
-| `fran-rs-ghost-kitchens-und-lieferplattform-franchise` | Spezialskill Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-gebietsschutz-gegen-online-und-plattformkanaele` | Fachmodul Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-geheimnisschutz-fuer-handbuch-und-know-how` | Fachmodul Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-ghost-kitchens-und-lieferplattform-franchise` | Fachmodul Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Fran Rs Gebietsschutz Gegen Online Und Plattformkanaele, Fran Rs Geheimni
 
 ## 1. `fran-rs-gebietsschutz-gegen-online-und-plattformkanaele`
 
-**Fokus:** Spezialskill Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Gebietsschutz gegen Online- und Plattformkanäle
 
@@ -70,7 +70,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `fran-rs-geheimnisschutz-fuer-handbuch-und-know-how`
 
-**Fokus:** Spezialskill Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Geheimnisschutz für Handbuch und Know-how
 
@@ -114,7 +114,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `fran-rs-ghost-kitchens-und-lieferplattform-franchise`
 
-**Fokus:** Spezialskill Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Ghost Kitchens und Lieferplattform-Franchise
 

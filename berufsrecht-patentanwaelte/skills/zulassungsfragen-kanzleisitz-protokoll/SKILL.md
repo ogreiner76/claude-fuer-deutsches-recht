@@ -1,13 +1,13 @@
 ---
 name: zulassungsfragen-kanzleisitz-protokoll
-description: "Nutze dies, wenn Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate, Remote Work im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate, Remote Work prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate, Remote Work.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate, Remote Work
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Zulassungsfragen Und Kanzleisitz Organisationspf, Protokoll Und Nachbereitung, Rechnungseinzug, Red Team Qualitygate, Remote Work** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

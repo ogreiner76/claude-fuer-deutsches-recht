@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Dfg Foerderantrag konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Dfg Foerderantrag** ein Fall noch sortiert
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `anfaenger-antraege-dfg` — Anfaenger Antraege Dfg
 - `dfg-bis-200k-begutachtung-light` — Dfg Bis 200k Begutachtung Light
 - `dfg-eigenanteil-und-grundausstattung` — Dfg Eigenanteil Und Grundausstattung

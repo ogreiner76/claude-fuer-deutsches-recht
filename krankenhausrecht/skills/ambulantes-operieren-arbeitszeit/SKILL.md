@@ -1,13 +1,13 @@
 ---
 name: ambulantes-operieren-arbeitszeit
-description: "Nutze dies, wenn Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation prüfen.; Erstelle eine Arbeitsfassung zu Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ambulantes Operieren 115b Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdienst, Barrierefreiheit Krankenhauskommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,7 +55,7 @@ Für **Ambulantes Operieren 115B Sgb V, Arbeitszeit Bereitschaftsdienst Rufdiens
 - **BMV-AE** und KV-Abrechnungsregeln (HVM, EBM).
 - **MD-Pruefung § 275c SGB V** und § 17c KHG zur Fehlbelegungspruefung.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Eingriff im AOP-Katalog identifizieren:** OPS-Code abgleichen.
 2. **Kontextfaktoren pruefen:** Sind Schweregrad-/Risiko-Konstellationen erfuellt, die stationaeren Aufenthalt rechtfertigen?
 3. **Abrechnungsweg waehlen:** AOP (KV) oder Hybrid-DRG (Kasse direkt) oder stationaer (Kasse, DRG).

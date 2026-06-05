@@ -1,13 +1,13 @@
 ---
 name: sanktionen-investorcheck-gewerbeanmeldung
-description: "Nutze dies, wenn Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Sanktionen Investorcheck, Gesellschaftsgruender Gewerbeanmeldung Finanzamt, Gesellschaftsgruender Gf Sozialversicherungs Status, Gesellschaftsgruender Gruender Intake: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Sanktionen Investorcheck, Gesellschaftsgründer Gewerbeanmeldung Finanzamt, Gesellschaftsgründer Gf Sozialversicherungs Status, Gesellschaftsgründer Gruender Intake, Gesellschaftsgründer Holdingmodell** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -215,7 +215,7 @@ GewSt-Vorauszahlung: 15.02. / 15.05. / 15.08. / 15.11.
 
 ## Übergabe an andere Skills
 
-- `gesellschaftsgruender-kommandocenter` — Master-Workflow Gründung
+- `gesellschaftsgruender-kommandocenter` — Master-Gründung
 - `gesellschaftsgruender-ihk-und-berufsgenossenschaft` — weitere Pflichtmeldungen
 - `gesellschaftsgruender-transparenzregister` — GwG-Pflicht
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — laufende Steuerpflichten
@@ -406,7 +406,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Pro Gründer: Vollständiger Name, Geburtsdatum, Anschrift, Staatsangehörigkeit.
 - Funktion in der Gesellschaft (CEO, CTO, COO, nur Investor)?
 - Persönliches Halten oder über Holding-GmbH?
-  - Holding bereits gegründet? Falls nein: vor operativer GmbH gründen (§ 8b KStG-Vorteil).
+ - Holding bereits gegründet? Falls nein: vor operativer GmbH gründen (§ 8b KStG-Vorteil).
 - Ausländische Gesellschafter → Sanktionsrecht prüfen, GwG-Identifikation.
 
 ### Block 2 — Anteilsverteilung
@@ -468,7 +468,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. **Blöcke 1-9 abarbeiten** — systematisch alle Daten abfragen; offene Punkte als TODO kennzeichnen.
 3. **Datenblatt erstellen** — alle Eckdaten strukturiert zusammenstellen (siehe Output-Template).
 4. **Cap Table initial** — Anteile, Quoten, Holding-Struktur → `gesellschaftsgruender-cap-table`.
-5. **Routenliste** — welche Spezialskills sollen als nächstes laufen.
+5. **Routenliste** — welche Fachmodule sollen als nächstes laufen.
 6. **Fristen-Vorschau** — Notartermin, Stammkapital-Einzahlung, Behörden-Fristen.
 7. **Stoppschilder identifizieren** — wann ist zwingend Anwalt/Steuerberater/Notar erforderlich.
 
@@ -491,7 +491,7 @@ Stammkapital: [EUR]
 GESELLSCHAFTER
 | Nr. | Name | Anschrift | Anteil EUR | Quote % | Halten über | Einzahlung |
 |----|------|---------|-----------|---------|------------|-----------|
-| 1  | [Name] | [Adr.] | [EUR] | [%] | Persönlich / Holding | Bar |
+| 1 | [Name] | [Adr.] | [EUR] | [%] | Persönlich / Holding | Bar |
 
 GESCHÄFTSFÜHRUNG
 | GF | Gesellschafter? | Vertretung | § 181 befreit | SV-Status |
@@ -515,7 +515,7 @@ ROUTENLISTE (nächste Skills)
 OFFENE PUNKTE / STOPPSCHILDER
 | Nr. | Punkt | Owner | Frist | Eskalation |
 |----|-------|-------|-------|------------|
-| 1  | [Punkt] | [Name] | [Datum] | [Stufe] |
+| 1 | [Punkt] | [Name] | [Datum] | [Stufe] |
 ```
 
 ## Rote Schwellen
@@ -536,7 +536,7 @@ OFFENE PUNKTE / STOPPSCHILDER
 
 ## Übergabe an andere Skills
 
-- `gesellschaftsgruender-kommandocenter` — Master-Workflow nach Intake
+- `gesellschaftsgruender-kommandocenter` — Master-nach Intake
 - `gesellschaftsgruender-cap-table` — Cap Table aufbauen
 - `gesellschaftsgruender-firmenname-pruefung` — Firmencheck
 - `gesellschaftsgruender-rechtsformwahl` — falls Rechtsform noch offen

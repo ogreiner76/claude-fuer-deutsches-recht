@@ -1,13 +1,13 @@
 ---
 name: oew-krankenhausgesellschaft-wirtschaftlich
-description: "Nutze dies, wenn Oew 044 Krankenhausgesellschaft Wirtschaftlich, Oew 045 Krankenhausgesellschaft Risiko Verteil, Oew 047 Krankenhausgesellschaft Kontrolle Sich, Oew 048 Krankenhausgesellschaft Haushalt Anbin im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Oew 044 Krankenhausgesellschaft Wirtschaftlich, Oew 045 Krankenhausgesellschaft Risiko Verteil, Oew 047 Krankenhausgesellschaft Kontrolle Sich, Oew 048 Krankenhausgesellschaft Haushalt Anbin prüfen.; Erstelle eine Arbeitsfassung zu Oew 044 Krankenhausgesellschaft Wirtschaftlich, Oew 045 Krankenhausgesellschaft Risiko Verteil, Oew 047 Krankenhausgesellschaft Kontrolle Sich, Oew 048 Krankenhausgesellschaft Haushalt Anbin.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oew 044 Krankenhausgesellschaft Wirtschaftlich, Oew 045 Krankenhausgesellschaft Risiko Verteil, Oew 047 Krankenhausgesellschaft Kontrolle Sich, Oew 048 Krankenhausgesellschaft Haushalt Anbin: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oew 044 Krankenhausgesellschaft Wirtschaftlich, Oew 045 Krankenhausgesellschaft Risiko Verteil, Oew 047 Krankenhausgesellschaft Kontrolle Sich, Oew 048 Krankenhausgesellschaft Haushalt Anbin
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oew 044 Krankenhausgesellschaft Wirtschaftlich, Oew 045 Krankenhausgesellschaft Risiko Verteil, Oew 047 Krankenhausgesellschaft Kontrolle Sich, Oew 048 Krankenhausgesellschaft Haushalt Anbin** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

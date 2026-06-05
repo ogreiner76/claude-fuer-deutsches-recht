@@ -1,20 +1,20 @@
 ---
 name: lieferengpaesse-austausch-livecheck-apog
-description: "Nutze dies, wenn Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notfallkontrazeption Beratung im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notfallkontrazeption Beratung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notfallkontrazeption Beratung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lieferengpaesse Austausch Dokumentation, Livecheck Apog Apbetro Amg, Notfallkontrazeption Beratung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `lieferengpaesse-austausch-dokumentation` | Lieferengpässe Austausch Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
-| `livecheck-apog-apbetro-amg` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck ApoG ApBetrO AMG. |
+| `livecheck-apog-apbetro-amg` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck ApoG ApBetrO AMG. |
 | `notfallkontrazeption-beratung` | Notfallkontrazeption Beratung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 
 ## Arbeitsweg
@@ -67,20 +67,20 @@ Eingaben:
 - BfArM Engpassmeldungen (Pflicht der Hersteller nach § 52b AMG).
 - BSG, staend. Rspr. zu Retaxation bei Engpass-Austausch.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Verfügbarkeit prüfen:** Grosshandel-Anfrage, ABDA-Datenbank, BfArM-Engpassliste.
 2. **Falls nicht verfügbar — Austauschpfade:**
-   a. **ALBVVG-Variation** (vom Anwender zu verifizieren): andere Packungsgrösse, andere Wirkstoffstärke unter Anpassung der Menge, gleicher Wirkstoff. Kein Rückgriff zum Arzt erforderlich, aber Dokumentation.
-   b. **Substitution wirkstoffgleich** wie bei Rabattvertrag, ggf. mit Pharmazeutische Bedenken.
-   c. **Rücksprache Arzt** bei wirkstofflich abweichendem Austausch — schriftlich dokumentieren.
-   d. **Notfallabgabe** § 4 AMVV bei akutem Bedarf, kleinste Packung.
+ a. **ALBVVG-Variation** (vom Anwender zu verifizieren): andere Packungsgrösse, andere Wirkstoffstärke unter Anpassung der Menge, gleicher Wirkstoff. Kein Rückgriff zum Arzt erforderlich, aber Dokumentation.
+ b. **Substitution wirkstoffgleich** wie bei Rabattvertrag, ggf. mit Pharmazeutische Bedenken.
+ c. **Rücksprache Arzt** bei wirkstofflich abweichendem Austausch — schriftlich dokumentieren.
+ d. **Notfallabgabe** § 4 AMVV bei akutem Bedarf, kleinste Packung.
 3. **Beratung Patient:** Erklärung Austausch, Wirkstoff, Anwendung.
 4. **Dokumentation:**
-   - Original-Verordnung.
-   - Begründung für Austausch (Engpass, BfArM-Listen-Eintrag).
-   - Ausgetauschtes Präparat mit PZN und Stärke.
-   - Datum, Apotheker:in, Beratung.
+ - Original-Verordnung.
+ - Begründung für Austausch (Engpass, BfArM-Listen-Eintrag).
+ - Ausgetauschtes Präparat mit PZN und Stärke.
+ - Datum, Apotheker:in, Beratung.
 5. **Krankenkasse-Hinweis:** Bei E-Rezept-Abrechnung Austauschgrund-Code; Retax-Sicherheit erhöhen.
 
 ## Trade-off-Matrix
@@ -132,12 +132,12 @@ Eingaben:
 - ALBVVG-Vorschriften (vom Anwender zu verifizieren — Aktualität, Detailregelungen).
 - SGB V § 129 Abs. 2a und Rahmenvertrag.
 - BfArM-Engpassliste (tagesaktuell online).
-- ABDA-Mitteilungen zum Engpass-Workflow (vom Anwender zu verifizieren).
+- ABDA-Mitteilungen zum Engpass-(vom Anwender zu verifizieren).
 - BSG, staend. Rspr. zur Retaxation bei Engpass.
 
 ## 2. `livecheck-apog-apbetro-amg`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck ApoG ApBetrO AMG.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck ApoG ApBetrO AMG.
 
 # Livecheck ApoG ApBetrO AMG
 

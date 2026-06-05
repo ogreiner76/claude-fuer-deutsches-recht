@@ -1,13 +1,13 @@
 ---
 name: handelskauf-paragraphen-handelsmakler
-description: "Nutze dies, wenn Handelskauf Paragraphen 373 381, Handelsmakler Paragraphen 93 104 Hgb im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Handelskauf Paragraphen 373 381, Handelsmakler Paragraphen 93 104 Hgb prüfen.; Erstelle eine Arbeitsfassung zu Handelskauf Paragraphen 373 381, Handelsmakler Paragraphen 93 104 Hgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Handelskauf Paragraphen 373 381, Handelsmakler Paragraphen 93 104 Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Handelskauf Paragraphen 373 381, Handelsmakler Paragraphen 93 104 Hgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Handelskauf Paragraphen 373 381, Handelsmakler Paragraphen 93 104 Hgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

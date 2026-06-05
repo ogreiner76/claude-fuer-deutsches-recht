@@ -1,39 +1,39 @@
 ---
 name: weg-kinderlaerm-spielplatz-kostenverteilung
-description: "Nutze dies, wenn Spezial Weg Kinderlaerm Spielplatz, Spezial Weg Kostenverteilung, Spezial Weg Kurzzeitvermietung, Spezial Weg Ladeinfrastruktur, Spezial Weg Mehrheiten Stimmrechte und 5 weitere Themen im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Weg Kinderlaerm Spielplatz, Spezial Weg Kostenverteilung, Spezial Weg Kurzzeitvermietung, Spezial Weg Ladeinfrastruktur, Spezial Weg Mehrheiten Stimmrechte und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Weg Kinderlaerm Spielplatz, Spezial Weg Kostenverteilung, Spezial Weg Kurzzeitvermietung, Spezial Weg Ladeinfrastruktur, Spezial Weg Mehrheiten Stimmrechte und 5 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Weg Kinderlaerm Spielplatz, Weg Kostenverteilung, Weg Kurzzeitvermietung, Weg Ladeinfrastruktur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Weg Kinderlaerm Spielplatz, Spezial Weg Kostenverteilung, Spezial Weg Kurzzeitvermietung, Spezial Weg Ladeinfrastruktur, Spezial Weg Mehrheiten Stimmrechte und 5 weitere Themen
+# Weg Kinderlaerm Spielplatz, Weg Kostenverteilung, Weg Kurzzeitvermietung, Weg Ladeinfrastruktur, Weg Mehrheiten Stimmrechte und 5 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Weg Kinderlaerm Spielplatz, Weg Kostenverteilung, Weg Kurzzeitvermietung, Weg Ladeinfrastruktur, Weg Mehrheiten Stimmrechte und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-weg-kinderlaerm-spielplatz` | Kinderlärm/Spielplatz: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Sozialadäquanz, Hausordnung, Rücksichtnahme, bauliche Maßnahmen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-kostenverteilung` | WEG Kostenverteilung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 16 WEG, Öffnungsklauseln, Einzelfallkosten, Beschlusswortlaut; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-kurzzeitvermietung` | Kurzzeitvermietung in WEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Zweckbestimmung, Beschluss, Störungen, kommunale Regeln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-ladeinfrastruktur` | WEG Ladeinfrastruktur: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Einzelanspruch, Gemeinschaftslösung, Lastmanagement, Brandschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-mehrheiten-stimmrechte` | WEG Mehrheiten/Stimmrechte: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Kopf-/Objekt-/Wertprinzip, Stimmverbot, Umlaufbeschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-mieter-in-versammlung` | Mieter in Versammlung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Teilnahme, Vollmacht, Datenschutz, Rederecht, Unterlagen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-nichtigkeit` | WEG Nichtigkeit: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft besonders schwere Mängel, Kompetenzüberschreitung, Bestimmtheit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-notgeschaeftsfuehrung` | Notgeschäftsführung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gefahr im Verzug, Kompetenz, Dokumentation, Kostenerstattung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-photovoltaik-dach` | WEG Photovoltaik Dach: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beschlusskompetenz, Statik, Einspeisung, Dachnutzung, Kosten/Nutzen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-privilegierte-massnahmen` | Privilegierte Maßnahmen § 20 WEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Barrierefreiheit, E-Laden, Einbruchschutz, Glasfaser, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-kinderlaerm-spielplatz` | Kinderlärm/Spielplatz: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sozialadäquanz, Hausordnung, Rücksichtnahme, bauliche Maßnahmen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-kostenverteilung` | WEG Kostenverteilung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft § 16 WEG, Öffnungsklauseln, Einzelfallkosten, Beschlusswortlaut; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-kurzzeitvermietung` | Kurzzeitvermietung in WEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Zweckbestimmung, Beschluss, Störungen, kommunale Regeln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-ladeinfrastruktur` | WEG Ladeinfrastruktur: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Einzelanspruch, Gemeinschaftslösung, Lastmanagement, Brandschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-mehrheiten-stimmrechte` | WEG Mehrheiten/Stimmrechte: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kopf-/Objekt-/Wertprinzip, Stimmverbot, Umlaufbeschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-mieter-in-versammlung` | Mieter in Versammlung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Teilnahme, Vollmacht, Datenschutz, Rederecht, Unterlagen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-nichtigkeit` | WEG Nichtigkeit: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft besonders schwere Mängel, Kompetenzüberschreitung, Bestimmtheit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-notgeschaeftsfuehrung` | Notgeschäftsführung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gefahr im Verzug, Kompetenz, Dokumentation, Kostenerstattung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-photovoltaik-dach` | WEG Photovoltaik Dach: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beschlusskompetenz, Statik, Einspeisung, Dachnutzung, Kosten/Nutzen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-privilegierte-massnahmen` | Privilegierte Maßnahmen § 20 WEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Barrierefreiheit, E-Laden, Einbruchschutz, Glasfaser, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Weg Kinderlaerm Spielplatz, Spezial Weg Kostenverteilung, Spezial Weg Kurzzeitvermietung, Spezial Weg Ladeinfrastruktur, Spezial Weg Mehrheiten Stimmrechte und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Weg Kinderlaerm Spielplatz, Weg Kostenverteilung, Weg Kurzzeitvermietung, Weg Ladeinfrastruktur, Weg Mehrheiten Stimmrechte und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-weg-kinderlaerm-spielplatz`
 
-**Fokus:** Kinderlärm/Spielplatz: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Sozialadäquanz, Hausordnung, Rücksichtnahme, bauliche Maßnahmen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Kinderlärm/Spielplatz: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sozialadäquanz, Hausordnung, Rücksichtnahme, bauliche Maßnahmen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Kinderlärm/Spielplatz
 
@@ -47,9 +47,9 @@ Für **Spezial Weg Kinderlaerm Spielplatz, Spezial Weg Kostenverteilung, Spezial
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Sozialadäquanz, Hausordnung, Rücksichtnahme, bauliche Maßnahmen.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Sozialadäquanz, Hausordnung, Rücksichtnahme, bauliche Maßnahmen.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -78,7 +78,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-weg-kostenverteilung`
 
-**Fokus:** WEG Kostenverteilung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 16 WEG, Öffnungsklauseln, Einzelfallkosten, Beschlusswortlaut; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Kostenverteilung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft § 16 WEG, Öffnungsklauseln, Einzelfallkosten, Beschlusswortlaut; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Kostenverteilung
 
@@ -92,9 +92,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft § 16 WEG, Öffnungsklauseln, Einzelfallkosten, Beschlusswortlaut.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft § 16 WEG, Öffnungsklauseln, Einzelfallkosten, Beschlusswortlaut.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -123,7 +123,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-weg-kurzzeitvermietung`
 
-**Fokus:** Kurzzeitvermietung in WEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Zweckbestimmung, Beschluss, Störungen, kommunale Regeln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Kurzzeitvermietung in WEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Zweckbestimmung, Beschluss, Störungen, kommunale Regeln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Kurzzeitvermietung in WEG
 
@@ -137,9 +137,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Zweckbestimmung, Beschluss, Störungen, kommunale Regeln.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Zweckbestimmung, Beschluss, Störungen, kommunale Regeln.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -168,7 +168,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-weg-ladeinfrastruktur`
 
-**Fokus:** WEG Ladeinfrastruktur: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Einzelanspruch, Gemeinschaftslösung, Lastmanagement, Brandschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Ladeinfrastruktur: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Einzelanspruch, Gemeinschaftslösung, Lastmanagement, Brandschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Ladeinfrastruktur
 
@@ -182,9 +182,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Einzelanspruch, Gemeinschaftslösung, Lastmanagement, Brandschutz.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Einzelanspruch, Gemeinschaftslösung, Lastmanagement, Brandschutz.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -213,7 +213,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-weg-mehrheiten-stimmrechte`
 
-**Fokus:** WEG Mehrheiten/Stimmrechte: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Kopf-/Objekt-/Wertprinzip, Stimmverbot, Umlaufbeschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Mehrheiten/Stimmrechte: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kopf-/Objekt-/Wertprinzip, Stimmverbot, Umlaufbeschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Mehrheiten/Stimmrechte
 
@@ -227,9 +227,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Kopf-/Objekt-/Wertprinzip, Stimmverbot, Umlaufbeschluss.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Kopf-/Objekt-/Wertprinzip, Stimmverbot, Umlaufbeschluss.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -258,7 +258,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 6. `spezial-weg-mieter-in-versammlung`
 
-**Fokus:** Mieter in Versammlung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Teilnahme, Vollmacht, Datenschutz, Rederecht, Unterlagen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Mieter in Versammlung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Teilnahme, Vollmacht, Datenschutz, Rederecht, Unterlagen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Mieter in Versammlung
 
@@ -272,9 +272,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Teilnahme, Vollmacht, Datenschutz, Rederecht, Unterlagen.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Teilnahme, Vollmacht, Datenschutz, Rederecht, Unterlagen.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -303,7 +303,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 7. `spezial-weg-nichtigkeit`
 
-**Fokus:** WEG Nichtigkeit: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft besonders schwere Mängel, Kompetenzüberschreitung, Bestimmtheit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Nichtigkeit: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft besonders schwere Mängel, Kompetenzüberschreitung, Bestimmtheit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Nichtigkeit
 
@@ -317,9 +317,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft besonders schwere Mängel, Kompetenzüberschreitung, Bestimmtheit.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft besonders schwere Mängel, Kompetenzüberschreitung, Bestimmtheit.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -348,7 +348,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 8. `spezial-weg-notgeschaeftsfuehrung`
 
-**Fokus:** Notgeschäftsführung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gefahr im Verzug, Kompetenz, Dokumentation, Kostenerstattung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Notgeschäftsführung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gefahr im Verzug, Kompetenz, Dokumentation, Kostenerstattung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Notgeschäftsführung
 
@@ -362,9 +362,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Gefahr im Verzug, Kompetenz, Dokumentation, Kostenerstattung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Gefahr im Verzug, Kompetenz, Dokumentation, Kostenerstattung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -393,7 +393,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 9. `spezial-weg-photovoltaik-dach`
 
-**Fokus:** WEG Photovoltaik Dach: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beschlusskompetenz, Statik, Einspeisung, Dachnutzung, Kosten/Nutzen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Photovoltaik Dach: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beschlusskompetenz, Statik, Einspeisung, Dachnutzung, Kosten/Nutzen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Photovoltaik Dach
 
@@ -407,9 +407,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Beschlusskompetenz, Statik, Einspeisung, Dachnutzung, Kosten/Nutzen.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Beschlusskompetenz, Statik, Einspeisung, Dachnutzung, Kosten/Nutzen.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -438,7 +438,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 10. `spezial-weg-privilegierte-massnahmen`
 
-**Fokus:** Privilegierte Maßnahmen § 20 WEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Barrierefreiheit, E-Laden, Einbruchschutz, Glasfaser, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Privilegierte Maßnahmen § 20 WEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Barrierefreiheit, E-Laden, Einbruchschutz, Glasfaser, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Privilegierte Maßnahmen § 20 WEG
 
@@ -452,9 +452,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Barrierefreiheit, E-Laden, Einbruchschutz, Glasfaser, Kosten.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Barrierefreiheit, E-Laden, Einbruchschutz, Glasfaser, Kosten.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

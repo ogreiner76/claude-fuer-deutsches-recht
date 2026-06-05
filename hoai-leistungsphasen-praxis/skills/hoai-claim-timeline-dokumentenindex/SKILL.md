@@ -1,13 +1,13 @@
 ---
 name: hoai-claim-timeline-dokumentenindex
-description: "Nutze dies, wenn Hoai Claim Timeline, Hoai Dokumentenindex Hoai Akte, Hoai Fachplaner Tga Brandschutz Tragwerk Koordination, Hoai Foerdermittel Baukosten, Hoai Foerdermittel Vergabebindung Rueckforderung im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Hoai Claim Timeline, Hoai Dokumentenindex Hoai Akte, Hoai Fachplaner Tga Brandschutz Tragwerk Koordination, Hoai Foerdermittel Baukosten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Claim Timeline, Hoai Dokumentenindex Hoai Akte, Hoai Fachplaner Tga Brandschutz Tragwerk Koordination, Hoai Foerdermittel Baukosten, Hoai Foerdermittel Vergabebindung Rueckforderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Claim Timeline, Hoai Dokumentenindex Hoai Akte, Hoai Fachplaner Tga Brandschutz Tragwerk Koordination, Hoai Foerdermittel Baukosten, Hoai Foerdermittel Vergabebindung Rueckforderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Hoai Claim Timeline, Hoai Dokumentenindex Hoai Akte, Hoai Fachplaner Tga 
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **baut Zeitstrahl für Pflichtverletzung, Warnung, Entscheidung, Schaden und Frist** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **baut Zeitstrahl für Pflichtverletzung, Warnung, Entscheidung, Schaden und Frist** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -64,7 +64,7 @@ Dieser Querschnitts-Skill bearbeitet **baut Zeitstrahl für Pflichtverletzung, W
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **erstellt Aktenindex nach LPH, Datum, Planstand, Version und Beweiswert** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **erstellt Aktenindex nach LPH, Datum, Planstand, Version und Beweiswert** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -122,7 +122,7 @@ RACI-Matrix, Kollisionsliste, Planlauf-Entscheidung und Textbaustein für Fachpl
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **prüft Fördermittel, Vergabebindungen, Nachweise und Kostenänderungen** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **prüft Fördermittel, Vergabebindungen, Nachweise und Kostenänderungen** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 

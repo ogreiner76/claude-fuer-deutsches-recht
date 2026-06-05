@@ -1,6 +1,6 @@
 ---
 name: agentur-marketing-agb
-description: "Branchen-Spezialskill für Agentur Marketing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Agentur Marketing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Agentur Marketing AGB

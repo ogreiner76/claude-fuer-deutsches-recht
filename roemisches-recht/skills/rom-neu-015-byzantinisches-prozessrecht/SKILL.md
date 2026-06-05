@@ -1,6 +1,6 @@
 ---
 name: rom-neu-015-byzantinisches-prozessrecht
-description: "Nutze dies, wenn Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition

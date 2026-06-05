@@ -1,33 +1,33 @@
 ---
 name: antragspflicht
-description: "Nutze dies, wenn Spezial Antragspflicht Dokumentenmatrix Und Lueckenliste, Spezial Belegmatrix Formular Portal Und Einreichung, Spezial Chronologie Internationaler Bezug Und Schnittstellen, Spezial Einfuehrung Verhandlung Vergleich Und Eskalation im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Antragspflicht Dokumentenmatrix Und Lueckenliste, Spezial Belegmatrix Formular Portal Und Einreichung, Spezial Chronologie Internationaler Bezug Und Schnittstellen, Spezial Einfuehrung Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Antragspflicht Dokumentenmatrix Und Lueckenliste, Spezial Belegmatrix Formular Portal Und Einreichung, Spezial Chronologie Internationaler Bezug Und Schnittstellen, Spezial Einfuehrung Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Antragspflicht Dokumentenmatrix Und Lueckenliste, Belegmatrix Formular Portal Und Einreichung, Chronologie Internationaler Bezug Und Schnittstellen, Einfuehrung Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Antragspflicht Dokumentenmatrix Und Lueckenliste, Spezial Belegmatrix Formular Portal Und Einreichung, Spezial Chronologie Internationaler Bezug Und Schnittstellen, Spezial Einfuehrung Verhandlung Vergleich Und Eskalation
+# Antragspflicht Dokumentenmatrix Und Lueckenliste, Belegmatrix Formular Portal Und Einreichung, Chronologie Internationaler Bezug Und Schnittstellen, Einfuehrung Verhandlung Vergleich Und Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Antragspflicht Dokumentenmatrix Und Lueckenliste, Belegmatrix Formular Portal Und Einreichung, Chronologie Internationaler Bezug Und Schnittstellen, Einfuehrung Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-antragspflicht-dokumentenmatrix-und-lueckenliste` | Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-belegmatrix-formular-portal-und-einreichung` | Belegmatrix: Formular, Portal und Einreichungslogik im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-chronologie-internationaler-bezug-und-schnittstellen` | Chronologie: Internationaler Bezug und Schnittstellen im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-einfuehrung-verhandlung-vergleich-und-eskalation` | Einfuehrung: Verhandlung, Vergleich und Eskalation im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-antragspflicht-dokumentenmatrix-und-lueckenliste` | Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-belegmatrix-formular-portal-und-einreichung` | Belegmatrix: Formular, Portal und Einreichungslogik im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-chronologie-internationaler-bezug-und-schnittstellen` | Chronologie: Internationaler Bezug und Schnittstellen im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-einfuehrung-verhandlung-vergleich-und-eskalation` | Einfuehrung: Verhandlung, Vergleich und Eskalation im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Antragspflicht Dokumentenmatrix Und Lueckenliste, Spezial Belegmatrix Formular Portal Und Einreichung, Spezial Chronologie Internationaler Bezug Und Schnittstellen, Spezial Einfuehrung Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Antragspflicht Dokumentenmatrix Und Lueckenliste, Belegmatrix Formular Portal Und Einreichung, Chronologie Internationaler Bezug Und Schnittstellen, Einfuehrung Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-antragspflicht-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -41,7 +41,7 @@ Für **Spezial Antragspflicht Dokumentenmatrix Und Lueckenliste, Spezial Belegma
 
 
 ## Spezialwissen: Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung / spezial antragspflicht dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung / antragspflicht dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -86,7 +86,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-belegmatrix-formular-portal-und-einreichung`
 
-**Fokus:** Belegmatrix: Formular, Portal und Einreichungslogik im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Belegmatrix: Formular, Portal und Einreichungslogik im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Belegmatrix: Formular, Portal und Einreichungslogik
 
@@ -100,7 +100,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Belegmatrix: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Belegmatrix: Formular, Portal und Einreichungslogik / spezial belegmatrix formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Belegmatrix: Formular, Portal und Einreichungslogik / belegmatrix formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -145,7 +145,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-chronologie-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Chronologie: Internationaler Bezug und Schnittstellen im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Chronologie: Internationaler Bezug und Schnittstellen im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Chronologie: Internationaler Bezug und Schnittstellen
 
@@ -159,7 +159,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Chronologie: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Chronologie: Internationaler Bezug und Schnittstellen / spezial chronologie internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Chronologie: Internationaler Bezug und Schnittstellen / chronologie internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -207,7 +207,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-einfuehrung-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Einfuehrung: Verhandlung, Vergleich und Eskalation im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Einfuehrung: Verhandlung, Vergleich und Eskalation im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Einfuehrung: Verhandlung, Vergleich und Eskalation
 
@@ -221,7 +221,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Einfuehrung: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Einfuehrung: Verhandlung, Vergleich und Eskalation / spezial einfuehrung verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Einfuehrung: Verhandlung, Vergleich und Eskalation / einfuehrung verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

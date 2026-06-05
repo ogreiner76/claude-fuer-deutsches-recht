@@ -1,13 +1,13 @@
 ---
 name: single-asset-small-business-stalking-horse
-description: "Nutze dies, wenn Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362D im Plugin Us Bankruptcy Code konkret bearbeitet werden soll. Auslöser: Bitte Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362D prüfen.; Erstelle eine Arbeitsfassung zu Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362D.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362d: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362D
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362D** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

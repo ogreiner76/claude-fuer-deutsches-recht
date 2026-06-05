@@ -32,7 +32,7 @@ description: "§ 7b GewStG befreit den Sanierungsertrag parallel zur ESt/KSt von
 - **§ 7 GewStG** — Gewerbeertrag.
 - **§ 16 GewStG** — Steuermesszahl und Hebesatz.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt | Output |
 |---|---|---|
@@ -75,7 +75,7 @@ Anlage zur Gewerbesteuererklärung [Erhebungszeitraum]
 der [Firma]
 
 Betreff: Antrag nach § 7b Abs. 3 GewStG — Befreiung des
-         Sanierungsertrags von der Gewerbesteuer
+ Sanierungsertrags von der Gewerbesteuer
 
 Sehr geehrte Damen und Herren,
 
@@ -92,16 +92,16 @@ der Gläubiger, Krisendokumentation).
 
 Berechnung Gewerbeertrag:
 
-Gewerbeertrag vor Sanierungswirkung           EUR [G]
-+ Sanierungsertrag                            EUR [S]
-Gewerbeertrag brutto                          EUR [G+S]
+Gewerbeertrag vor Sanierungswirkung EUR [G]
++ Sanierungsertrag EUR [S]
+Gewerbeertrag brutto EUR [G+S]
 
 - Gewerbeverlust § 10a S. 1 GewStG verbraucht EUR [V]
-  (Mindestbesteuerung beachtet)
+ (Mindestbesteuerung beachtet)
 
-Gewerbeertrag nach Verlustverrechnung         EUR [G+S-V]
-- Sanierungsertrag-Befreiung § 7b GewStG      EUR [S-(verrechnet)]
-zu versteuernder Gewerbeertrag                EUR [G-V_übrig]
+Gewerbeertrag nach Verlustverrechnung EUR [G+S-V]
+- Sanierungsertrag-Befreiung § 7b GewStG EUR [S-(verrechnet)]
+zu versteuernder Gewerbeertrag EUR [G-V_übrig]
 
 Mit freundlichen Grüßen
 [Berater]
@@ -132,8 +132,8 @@ Gewerbeverlust-Vortrag EUR 600.000
 Hebesatz 410 %
 
 Mindestbesteuerung:
-  Sockel 1.000.000 + 60 % (800.000 - 1.000.000) → nicht relevant,
-  da Sanierungsertrag < Sockel; voll verrechenbar
+ Sockel 1.000.000 + 60 % (800.000 - 1.000.000) → nicht relevant,
+ da Sanierungsertrag < Sockel; voll verrechenbar
 
 Verrechnung: 600.000 vom Sanierungsertrag
 verbleibender Sanierungsertrag EUR 200.000

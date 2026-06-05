@@ -1,13 +1,13 @@
 ---
 name: nebenfolgen-fahrerlaubnis-strafbefehl
-description: "Nutze dies, wenn Strafbefehl Nebenfolgen Fahrerlaubnis, Strafbefehl Pflichtverteidiger, Strafbefehl Polizeifilmerei 201 Kug im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Strafbefehl Nebenfolgen Fahrerlaubnis, Strafbefehl Pflichtverteidiger, Strafbefehl Polizeifilmerei 201 Kug prüfen.; Erstelle eine Arbeitsfassung zu Strafbefehl Nebenfolgen Fahrerlaubnis, Strafbefehl Pflichtverteidiger, Strafbefehl Polizeifilmerei 201 Kug.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafbefehl Nebenfolgen Fahrerlaubnis, Strafbefehl Pflichtverteidiger, Strafbefehl Polizeifilmerei 201 Kug: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Strafbefehl Nebenfolgen Fahrerlaubnis, Strafbefehl Pflichtverteidiger, Strafbefehl Polizeifilmerei 201 Kug
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafbefehl Nebenfolgen Fahrerlaubnis, Strafbefehl Pflichtverteidiger, Strafbefehl Polizeifilmerei 201 Kug** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -61,16 +61,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Im Strafbefehl: Fahrverbot § 44 StGB?
 ├─ JA → Dauer verhältnismaessig? Berufsbedingte Notwendigkeit?
-│   ├─ Ja: Einspruch mit Haertefallargument (Ausnahmen eng!)
-│   └─ Nein: akzeptieren, ggf. Timing-Optionen nutzen
+│ ├─ Ja: Einspruch mit Haertefallargument (Ausnahmen eng!)
+│ └─ Nein: akzeptieren, ggf. Timing-Optionen nutzen
 └─ Im Strafbefehl: Entziehung § 69 StGB?
-    ├─ Regeldelikt § 69 Abs. 2 StGB?
-    │   ├─ Ja: Widerlegungs-Argument vorbereiten (besondere Einzelfallumstaende)
-    │   └─ Nein: Individualpruefung — konkrete Ungeeignetheit bestreiten
-    ├─ Sperrfrist verhandelbar? (§ 69a StGB)
-    │   └─ Nach halbem Ablauf: § 69a Abs. 7-Antrag vorbereiten
-    └─ MPU vorgesehen oder droht sie?
-        └─ MPU-Vorbereitung parallel starten (§ 11 FeV)
+ ├─ Regeldelikt § 69 Abs. 2 StGB?
+ │ ├─ Ja: Widerlegungs-Argument vorbereiten (besondere Einzelfallumstaende)
+ │ └─ Nein: Individualpruefung — konkrete Ungeeignetheit bestreiten
+ ├─ Sperrfrist verhandelbar? (§ 69a StGB)
+ │ └─ Nach halbem Ablauf: § 69a Abs. 7-Antrag vorbereiten
+ └─ MPU vorgesehen oder droht sie?
+ └─ MPU-Vorbereitung parallel starten (§ 11 FeV)
 ```
 
 ## Argumente fuer Widerlegung § 69 Abs. 2 StGB
@@ -130,14 +130,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Pflichtverteidiger notwendig?
 ├─ § 140 Abs. 1 StPO (kraft Gesetzes):
-│   ├─ Hauptverhandlung vor LG/OLG? → automatisch
-│   ├─ Verbrechensanklage? → automatisch
-│   ├─ U-Haft oder Unterbringung? → automatisch
-│   └─ Freiheitsstrafe > 1 Jahr zu erwarten? → automatisch
+│ ├─ Hauptverhandlung vor LG/OLG? → automatisch
+│ ├─ Verbrechensanklage? → automatisch
+│ ├─ U-Haft oder Unterbringung? → automatisch
+│ └─ Freiheitsstrafe > 1 Jahr zu erwarten? → automatisch
 └─ § 140 Abs. 2 StPO (auf Antrag bei Ermessen):
-    ├─ Schwierige Sach- oder Rechtslage? → Antrag stellen
-    ├─ Mandant nicht in der Lage sich selbst zu verteidigen? → Antrag stellen
-    └─ Schwere des zu erwartenden Urteils? → Antrag mit Begruendung
+ ├─ Schwierige Sach- oder Rechtslage? → Antrag stellen
+ ├─ Mandant nicht in der Lage sich selbst zu verteidigen? → Antrag stellen
+ └─ Schwere des zu erwartenden Urteils? → Antrag mit Begruendung
 
 Wunschverteidiger moeglich?
 ├─ Ja → § 142 Abs. 5 StPO-Antrag

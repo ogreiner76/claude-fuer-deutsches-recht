@@ -1,13 +1,13 @@
 ---
 name: cmr-haftung-ladungsschaden
-description: "Nutze dies, wenn Fachanwalt Transport Speditionsrecht Cmr Haftung, Fachanwalt Transport Speditionsrecht Ladungsschaden, Frachtfuehrerhaftung Prüfen im Plugin Fachanwalt Transport Speditionsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Transport Speditionsrecht Cmr Haftung, Fachanwalt Transport Speditionsrecht Ladungsschaden, Frachtfuehrerhaftung Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Transport Speditionsrecht Cmr Haftung, Fachanwalt Transport Speditionsrecht Ladungsschaden, Frachtfuehrerhaftung Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Transport Speditionsrecht Cmr Haftung, Fachanwalt Transport Speditionsrecht Ladungsschaden, Frachtfuehrerhaftung Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Transport Speditionsrecht Cmr Haftung, Fachanwalt Transport Speditionsrecht Ladungsschaden, Frachtfuehrerhaftung Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Transport Speditionsrecht Cmr Haftung, Fachanwalt Transport Speditionsrecht Ladungsschaden, Frachtfuehrerhaftung Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -221,7 +221,7 @@ Unterfrachtführer 2: [C] (Teilstrecke [Ort] – [Ort])
 
 Rechtslage Art. 34–40 CMR:
 - Jeder Frachtführer durch Übernahme der Sendung Partei
-  des ursprünglichen Frachtvertrags (Art. 34 CMR)
+ des ursprünglichen Frachtvertrags (Art. 34 CMR)
 - Gesamtschuldnerische Haftung gegenüber Auftraggeber
 - Klage gegen jeden einzelnen möglich
 
@@ -460,7 +460,7 @@ IV. QUALIFIZIERTES VERSCHULDEN § 435 HGB
 Die Beklagte hat leichtfertig im Bewusstsein des wahrschein-
 lichen Schadenseintritts gehandelt:
 – Kein Eingangsscan bei Übernahme im Depot [Ort]
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 – Kein Nachweis des letzten Kontaktpunkts mit der Sendung
 – Fahrzeug war [X Stunden] auf unbewachtem Parkplatz abgestellt
 
@@ -795,23 +795,23 @@ Transport: [Strecke, Datum]
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 1. EINGANGSSCAN FEHLT
-   [ ] Kein Scan bei Übernahme dokumentiert
-   → Frachtführer kann Übernahme in ordnungsgemäßem Zustand
-     nicht beweisen → Beweislastumkehr
+ [ ] Kein Scan bei Übernahme dokumentiert
+ → Frachtführer kann Übernahme in ordnungsgemäßem Zustand
+ nicht beweisen → Beweislastumkehr
 
 2. SCHNITTSTELLENKONTROLLE
-   [ ] Keine Dokumentation an Umladestation [Ort]
-   → Lücke im Obhutszeitraum nicht erklärbar
+ [ ] Keine Dokumentation an Umladestation [Ort]
+ → Lücke im Obhutszeitraum nicht erklärbar
 
 3. PARKPLATZ / ABSTELLVORGANG
-   [ ] LKW auf unbeleuchtetem, unbewachtem Parkplatz abgestellt
-   [ ] Übernachtung ohne ausreichende Sicherung
-   → Diebstahlrisiko bei hochwertigem Gut nicht ausreichend
-     beachtet (BGH: Frachtführer haftet unbegrenzt)
+ [ ] LKW auf unbeleuchtetem, unbewachtem Parkplatz abgestellt
+ [ ] Übernachtung ohne ausreichende Sicherung
+ → Diebstahlrisiko bei hochwertigem Gut nicht ausreichend
+ beachtet (BGH: Frachtführer haftet unbegrenzt)
 
 4. FAZIT
-   Leichtfertigkeit i.S.d. Art. 29 CMR bejaht:
-   → Unbegrenzte Haftung, voller Warenwert EUR [X]
+ Leichtfertigkeit i.S.d. Art. 29 CMR bejaht:
+ → Unbegrenzte Haftung, voller Warenwert EUR [X]
 
 Belege: [Auflistung]
 ```

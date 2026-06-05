@@ -1,6 +1,6 @@
 ---
 name: gewerbemiete-agb
-description: "Branchen-Spezialskill für Gewerbemiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Gewerbemiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Gewerbemiete AGB

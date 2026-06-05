@@ -1,13 +1,13 @@
 ---
 name: excel-multi-kreuzblatt-konsistenzpruefung-pdf
-description: "Nutze dies, wenn Excel Multi Sheet Export, Kreuzblatt Konsistenzpruefung, Pdf Bericht Erzeugen im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Excel Multi Sheet Export, Kreuzblatt Konsistenzpruefung, Pdf Bericht Erzeugen prüfen.; Erstelle eine Arbeitsfassung zu Excel Multi Sheet Export, Kreuzblatt Konsistenzpruefung, Pdf Bericht Erzeugen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Excel Multi Sheet Export, Kreuzblatt Konsistenzpruefung, Pdf Bericht Erzeugen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Excel Multi Sheet Export, Kreuzblatt Konsistenzpruefung, Pdf Bericht Erzeugen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Excel Multi Sheet Export, Kreuzblatt Konsistenzpruefung, Pdf Bericht Erzeugen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -147,11 +147,11 @@ Eine Zelle die rechtlich grün aber datenschutzrechtlich rot ist ist nicht autom
 ## Ausgabe
 
 - `widerspruchsbericht.md` mit pro Widerspruch:
-  - Zeile (Dokument)
-  - Spalte (Datenpunkt)
-  - Arbeitsblatt-A und Arbeitsblatt-B mit jeweiliger Antwort
-  - Konflikt-Klassifikation
-  - Empfohlene Aktion (Re-Run / Prüfer / Konsolidierung)
+ - Zeile (Dokument)
+ - Spalte (Datenpunkt)
+ - Arbeitsblatt-A und Arbeitsblatt-B mit jeweiliger Antwort
+ - Konflikt-Klassifikation
+ - Empfohlene Aktion (Re-Run / Prüfer / Konsolidierung)
 
 ## Beispiele
 

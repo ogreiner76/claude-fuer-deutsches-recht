@@ -1,13 +1,13 @@
 ---
 name: registerpublizitaet-paragraph-scheinkaufmann
-description: "Nutze dies, wenn Registerpublizitaet Paragraph 15 Hgb, Scheinkaufmann Und Rechtsschein im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Registerpublizitaet Paragraph 15 Hgb, Scheinkaufmann Und Rechtsschein prüfen.; Erstelle eine Arbeitsfassung zu Registerpublizitaet Paragraph 15 Hgb, Scheinkaufmann Und Rechtsschein.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Registerpublizitaet Paragraph 15 Hgb, Scheinkaufmann Und Rechtsschein: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Registerpublizitaet Paragraph 15 Hgb, Scheinkaufmann Und Rechtsschein
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Registerpublizitaet Paragraph 15 Hgb, Scheinkaufmann Und Rechtsschein** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

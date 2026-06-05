@@ -1,13 +1,13 @@
 ---
 name: dsv-dsfa-update-erstgespraech-vorfallmeldung
-description: "Nutze dies, wenn Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Bitte Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation prüfen.; Erstelle eine Arbeitsfassung zu Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5, Dsv Kein Risiko Dokumentation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

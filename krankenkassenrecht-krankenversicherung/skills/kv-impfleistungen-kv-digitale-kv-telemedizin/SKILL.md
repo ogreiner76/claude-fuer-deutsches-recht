@@ -1,13 +1,13 @@
 ---
 name: kv-impfleistungen-kv-digitale-kv-telemedizin
-description: "Nutze dies, wenn Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz prüfen.; Erstelle eine Arbeitsfassung zu Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

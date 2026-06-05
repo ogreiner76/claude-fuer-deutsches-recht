@@ -1,6 +1,6 @@
 ---
 name: zahlungsklage
-description: "Nutze dies, wenn Zahlungsklage: Behörden-, Gerichts- oder Registerweg im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Zahlungsklage: Behörden-, Gerichts- oder Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Zahlungsklage: Behörden-, Gerichts- oder Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zahlungsklage: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Zahlungsklage: Behörden-, Gerichts- oder Registerweg

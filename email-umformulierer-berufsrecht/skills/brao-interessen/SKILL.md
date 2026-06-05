@@ -1,6 +1,6 @@
 ---
 name: brao-interessen
-description: "Nutze dies, wenn Brao: Mehrparteienkonflikt und Interessenmatrix im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Brao: Mehrparteienkonflikt und Interessenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Brao: Mehrparteienkonflikt und Interessenmatrix.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Brao: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Brao: Mehrparteienkonflikt und Interessenmatrix

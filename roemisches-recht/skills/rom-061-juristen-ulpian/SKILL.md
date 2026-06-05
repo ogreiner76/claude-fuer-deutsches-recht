@@ -1,6 +1,6 @@
 ---
 name: rom-061-juristen-ulpian
-description: "Römisches Recht: Juristen Ulpian. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Juristen Ulpian. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Juristen Ulpian

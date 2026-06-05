@@ -1,13 +1,13 @@
 ---
 name: hoai-lph-haftungsfalle-lph-lph-lph-lph
-description: "Nutze dies, wenn Hoai Lph 04 Haftungsfalle, Hoai Lph 05 Haftungsfalle, Hoai Lph 06 Haftungsfalle, Hoai Lph 07 Haftungsfalle, Hoai Lph 08 Haftungsfalle im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Lph 04 Haftungsfalle, Hoai Lph 05 Haftungsfalle, Hoai Lph 06 Haftungsfalle, Hoai Lph 07 Haftungsfalle, Hoai Lph 08 Haftungsfalle prüfen.; Erstelle eine Arbeitsfassung zu Hoai Lph 04 Haftungsfalle, Hoai Lph 05 Haftungsfalle, Hoai Lph 06 Haftungsfalle, Hoai Lph 07 Haftungsfalle, Hoai Lph 08 Haftungsfalle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Lph 04 Haftungsfalle, Hoai Lph 05 Haftungsfalle, Hoai Lph 06 Haftungsfalle, Hoai Lph 07 Haftungsfalle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Lph 04 Haftungsfalle, Hoai Lph 05 Haftungsfalle, Hoai Lph 06 Haftungsfalle, Hoai Lph 07 Haftungsfalle, Hoai Lph 08 Haftungsfalle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Lph 04 Haftungsfalle, Hoai Lph 05 Haftungsfalle, Hoai Lph 06 Haftungsfalle, Hoai Lph 07 Haftungsfalle, Hoai Lph 08 Haftungsfalle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

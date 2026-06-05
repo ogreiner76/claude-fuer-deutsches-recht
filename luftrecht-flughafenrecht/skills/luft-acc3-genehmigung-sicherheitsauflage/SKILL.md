@@ -1,13 +1,13 @@
 ---
 name: luft-acc3-genehmigung-sicherheitsauflage
-description: "Nutze dies, wenn Luft 095 Acc3 Genehmigung Prüfen, Luft 096 Acc3 Sicherheitsauflage Bewerten, Luft 097 Acc3 Insolvenzrisiko Markieren, Luft 098 Acc3 Local Counsel Briefen, Luft 099 Acc3 Dashboard Bauen im Plugin Luftrecht Flughafenrecht konkret bearbeitet werden soll. Auslöser: Bitte Luft 095 Acc3 Genehmigung Prüfen, Luft 096 Acc3 Sicherheitsauflage Bewerten, Luft 097 Acc3 Insolvenzrisiko Markieren, Luft 098 Acc3 Local Counsel Briefen, Luft 099 Acc3 Dashboard Bauen prüfen.; Erstelle eine Arbeitsfassung zu Luft 095 Acc3 Genehmigung Prüfen, Luft 096 Acc3 Sicherheitsauflage Bewerten, Luft 097 Acc3 Insolvenzrisiko Markieren, Luft 098 Acc3 Local Counsel Briefen, Luft 099 Acc3 Dashboard Bauen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Luft 095 Acc3 Genehmigung Prüfen, Luft 096 Acc3 Sicherheitsauflage Bewerten, Luft 097 Acc3 Insolvenzrisiko Markieren, Luft 098 Acc3 Local Counsel Briefen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Luft 095 Acc3 Genehmigung Prüfen, Luft 096 Acc3 Sicherheitsauflage Bewerten, Luft 097 Acc3 Insolvenzrisiko Markieren, Luft 098 Acc3 Local Counsel Briefen, Luft 099 Acc3 Dashboard Bauen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Luft 095 Acc3 Genehmigung Prüfen, Luft 096 Acc3 Sicherheitsauflage Bewerten, Luft 097 Acc3 Insolvenzrisiko Markieren, Luft 098 Acc3 Local Counsel Briefen, Luft 099 Acc3 Dashboard Bauen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

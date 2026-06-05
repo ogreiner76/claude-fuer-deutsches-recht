@@ -1,13 +1,13 @@
 ---
 name: gestapelt-immobilien-massenpruefung
-description: "Nutze dies, wenn Spezial Gestapelt Compliance Dokumentation Und Akte, Spezial Immobilien Formular Portal Und Einreichung, Spezial Massenpruefung Mehrparteien Konflikt Und Interessen im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gestapelt Compliance Dokumentation Und Akte, Spezial Immobilien Formular Portal Und Einreichung, Spezial Massenpruefung Mehrparteien Konflikt Und Interessen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gestapelt Compliance Dokumentation Und Akte, Spezial Immobilien Formular Portal Und Einreichung, Spezial Massenpruefung Mehrparteien Konflikt Und Interessen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gestapelt Compliance Dokumentation Und Akte, Immobilien Formular Portal Und Einreichung, Massenpruefung Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Gestapelt Compliance Dokumentation Und Akte, Spezial Immobilien Formular Portal Und Einreichung, Spezial Massenpruefung Mehrparteien Konflikt Und Interessen
+# Gestapelt Compliance Dokumentation Und Akte, Immobilien Formular Portal Und Einreichung, Massenpruefung Mehrparteien Konflikt Und Interessen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gestapelt Compliance Dokumentation Und Akte, Immobilien Formular Portal Und Einreichung, Massenpruefung Mehrparteien Konflikt Und Interessen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Gestapelt Compliance Dokumentation Und Akte, Spezial Immobilien Formular Portal Und Einreichung, Spezial Massenpruefung Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `tabellenreview-3d` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gestapelt Compliance Dokumentation Und Akte, Immobilien Formular Portal Und Einreichung, Massenpruefung Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `tabellenreview-3d` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Gestapelt Compliance Dokumentation Und Akte, Spezial Immobilien F
 # Gestapelt: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Gestapelt: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Gestapelt: Compliance-Dokumentation und Aktenvermerk / spezial gestapelt compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gestapelt: Compliance-Dokumentation und Aktenvermerk / gestapelt compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DD.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Immobilien: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Immobilien: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Immobilien: Formular, Portal und Einreichungslogik / spezial immobilien formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Immobilien: Formular, Portal und Einreichungslogik / immobilien formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DD.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Massenpruefung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Massenpruefung: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Massenpruefung: Mehrparteienkonflikt und Interessenmatrix / spezial massenpruefung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Massenpruefung: Mehrparteienkonflikt und Interessenmatrix / massenpruefung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DD.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

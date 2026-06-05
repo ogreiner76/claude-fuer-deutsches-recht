@@ -1,13 +1,13 @@
 ---
 name: panel-management-partner-dashboard-post
-description: "Nutze dies, wenn Panel Management, Partner Dashboard, Post Mortem Retrospective, Press And Litigation Comms, Privilege Und Vertraulichkeit im Plugin Kanzlei Mandant Lifecycle konkret bearbeitet werden soll. Auslöser: Bitte Panel Management, Partner Dashboard, Post Mortem Retrospective, Press And Litigation Comms, Privilege Und Vertraulichkeit prüfen.; Erstelle eine Arbeitsfassung zu Panel Management, Partner Dashboard, Post Mortem Retrospective, Press And Litigation Comms, Privilege Und Vertraulichkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Panel Management, Partner Dashboard, Post Mortem Retrospective, Press And Litigation Comms: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Panel Management, Partner Dashboard, Post Mortem Retrospective, Press And Litigation Comms, Privilege Und Vertraulichkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Panel Management, Partner Dashboard, Post Mortem Retrospective, Press And Litigation Comms, Privilege Und Vertraulichkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: vdg-abo-vdg-abo-vdg-abo-vdg-abo
-description: "Nutze dies, wenn Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben prüfen.; Erstelle eine Arbeitsfassung zu Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 061 Abo Modell Sammelfaehigkeit Prüfen, Vdg 062 Abo Modell Klageschrift Strukturieren, Vdg 063 Abo Modell Anspruchsgruppen Bilden, Vdg 064 Abo Modell Registertext Schreiben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,21 +1,21 @@
 ---
 name: whistleblower-meldung-wpueg-uebernahmeangebot
-description: "Nutze dies, wenn Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte prüfen.; Erstelle eine Arbeitsfassung zu Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `whistleblower-meldung` | AG/SE-Aufsichtsrat Praxis: Whistleblower Meldung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `wpueg-uebernahmeangebot` | AG/SE-Aufsichtsrat Praxis: Wpueg Uebernahmeangebot; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `zustimmungsvorbehalte` | AG/SE-Aufsichtsrat Praxis: Zustimmungsvorbehalte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `whistleblower-meldung` | AG/SE-Aufsichtsrat Praxis: Whistleblower Meldung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `wpueg-uebernahmeangebot` | AG/SE-Aufsichtsrat Praxis: Wpueg Uebernahmeangebot; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `zustimmungsvorbehalte` | AG/SE-Aufsichtsrat Praxis: Zustimmungsvorbehalte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Whistleblower Meldung, Wpueg Uebernahmeangebot, Zustimmungsvorbehalte** z
 
 ## 1. `whistleblower-meldung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Whistleblower Meldung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Whistleblower Meldung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Whistleblower Meldung
 
@@ -83,7 +83,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `wpueg-uebernahmeangebot`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Wpueg Uebernahmeangebot; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Wpueg Uebernahmeangebot; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Wpueg Uebernahmeangebot
 
@@ -140,7 +140,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `zustimmungsvorbehalte`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Zustimmungsvorbehalte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Zustimmungsvorbehalte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Zustimmungsvorbehalte
 

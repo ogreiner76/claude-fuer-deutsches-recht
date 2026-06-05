@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-cloud-audit-component-02
-description: "Nutze dies, wenn Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Rechtsprec, Wirtschaftspruefer Component Auditor Koordination Kammerantwort, Wirtschaftspruefer Component Auditor Koordination Organisations, Wirtschaftspruefer Component Auditor Koordination Rechtsprechun, Wirtschaftspruefer Datenpanne Pruefungsakte Kammerantwort Und V im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Rechtsprec, Wirtschaftspruefer Component Auditor Koordination Kammerantwort, Wirtschaftspruefer Component Auditor Koordination Organisations, Wirtschaftspruefer Component Auditor Koordination Rechtsprechun, Wirtschaftspruefer Datenpanne Pruefungsakte Kammerantwort Und V prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Rechtsprec, Wirtschaftspruefer Component Auditor Koordination Kammerantwort, Wirtschaftspruefer Component Auditor Koordination Organisations, Wirtsch..."
+description: "Nutze dies bei Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Rechtsprec, Wirtschaftspruefer Component Auditor Koordination Kammerantwort, Wirtschaftspruefer Component Auditor Koordination Organisations, Wirtschaftspruefer Component Auditor Koordination Rechtsprechun: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Rechtsprec, Wirtschaftspruefer Component Auditor Koordination Kammerantwort, Wirtschaftspruefer Component Auditor Koordination Organisations, Wirtschaftspruefer Component Auditor Koordination Rechtsprechun, Wirtschaftspruefer Datenpanne Pruefungsakte Kammerantwort Und V
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Cloud Audit Tools Und Datenschutz Rechtsprec, Wirtschaftspruefer Component Auditor Koordination Kammerantwort, Wirtschaftspruefer Component Auditor Koordination Organisations, Wirtschaftspruefer Component Auditor Koordination Rechtsprechun, Wirtschaftspruefer Datenpanne Pruefungsakte Kammerantwort Und V** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

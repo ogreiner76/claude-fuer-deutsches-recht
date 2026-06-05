@@ -1,13 +1,13 @@
 ---
 name: ihl-insolvency-ihl-retention-ihl-arbitration
-description: "Nutze dies, wenn Ihl 073 Insolvency Of Foreign Buyer, Ihl 074 Retention And Setoff, Ihl 075 Arbitration Evidence, Ihl 076 Emergency Arbitrator im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 073 Insolvency Of Foreign Buyer, Ihl 074 Retention And Setoff, Ihl 075 Arbitration Evidence, Ihl 076 Emergency Arbitrator prüfen.; Erstelle eine Arbeitsfassung zu Ihl 073 Insolvency Of Foreign Buyer, Ihl 074 Retention And Setoff, Ihl 075 Arbitration Evidence, Ihl 076 Emergency Arbitrator.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ihl 073 Insolvency Of Foreign Buyer, Ihl 074 Retention And Setoff, Ihl 075 Arbitration Evidence, Ihl 076 Emergency Arbitrator: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 073 Insolvency Of Foreign Buyer, Ihl 074 Retention And Setoff, Ihl 075 Arbitration Evidence, Ihl 076 Emergency Arbitrator
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 073 Insolvency Of Foreign Buyer, Ihl 074 Retention And Setoff, Ihl 075 Arbitration Evidence, Ihl 076 Emergency Arbitrator** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

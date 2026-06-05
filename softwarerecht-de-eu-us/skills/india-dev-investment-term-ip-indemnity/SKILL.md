@@ -1,13 +1,13 @@
 ---
 name: india-dev-investment-term-ip-indemnity
-description: "Nutze dies, wenn India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap prüfen.; Erstelle eine Arbeitsfassung zu India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

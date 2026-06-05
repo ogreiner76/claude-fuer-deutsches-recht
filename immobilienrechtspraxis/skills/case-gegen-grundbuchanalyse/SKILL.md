@@ -1,13 +1,13 @@
 ---
 name: case-gegen-grundbuchanalyse
-description: "Nutze dies, wenn Spezial Case Internationaler Bezug Und Schnittstellen, Spezial Gegen Verhandlung Vergleich Und Eskalation, Spezial Grundbuchanalyse Zahlen Schwellen Und Berechnung im Plugin Immobilienrechtspraxis konkret bearbeitet werden soll. Auslöser: Bitte Spezial Case Internationaler Bezug Und Schnittstellen, Spezial Gegen Verhandlung Vergleich Und Eskalation, Spezial Grundbuchanalyse Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Case Internationaler Bezug Und Schnittstellen, Spezial Gegen Verhandlung Vergleich Und Eskalation, Spezial Grundbuchanalyse Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Case Internationaler Bezug Und Schnittstellen, Gegen Verhandlung Vergleich Und Eskalation, Grundbuchanalyse Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Case Internationaler Bezug Und Schnittstellen, Spezial Gegen Verhandlung Vergleich Und Eskalation, Spezial Grundbuchanalyse Zahlen Schwellen Und Berechnung
+# Case Internationaler Bezug Und Schnittstellen, Gegen Verhandlung Vergleich Und Eskalation, Grundbuchanalyse Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Case Internationaler Bezug Und Schnittstellen, Gegen Verhandlung Vergleich Und Eskalation, Grundbuchanalyse Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Case Internationaler Bezug Und Schnittstellen, Spezial Gegen Verhandlung Vergleich Und Eskalation, Spezial Grundbuchanalyse Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `immobilienrechtspraxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Case Internationaler Bezug Und Schnittstellen, Gegen Verhandlung Vergleich Und Eskalation, Grundbuchanalyse Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `immobilienrechtspraxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

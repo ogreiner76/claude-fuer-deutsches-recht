@@ -1,13 +1,13 @@
 ---
 name: kommentar-literatur-konkurrenzen
-description: "Nutze dies, wenn Kommentar Und Literatur Hinweis, Konkurrenzen Anspruchsgrundlagen, Norm Historie Und Aenderungen im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Kommentar Und Literatur Hinweis, Konkurrenzen Anspruchsgrundlagen, Norm Historie Und Aenderungen prüfen.; Erstelle eine Arbeitsfassung zu Kommentar Und Literatur Hinweis, Konkurrenzen Anspruchsgrundlagen, Norm Historie Und Aenderungen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kommentar Und Literatur Hinweis, Konkurrenzen Anspruchsgrundlagen, Norm Historie Und Aenderungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kommentar Und Literatur Hinweis, Konkurrenzen Anspruchsgrundlagen, Norm Historie Und Aenderungen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kommentar Und Literatur Hinweis, Konkurrenzen Anspruchsgrundlagen, Norm Historie Und Aenderungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -243,9 +243,9 @@ Das System fragt: Wann hat das relevante Ereignis stattgefunden?
 ```
 Liegt das Ereignis vor einer bekannten Normänderung?
 ├─ Ja → alte Normfassung anwenden (intertemporales Recht)
-│       → Übergangsvorschriften prüfen
+│ → Übergangsvorschriften prüfen
 └─ Nein → aktuelle Normfassung anwenden
-          → gesetze-im-internet.de verifizieren
+ → gesetze-im-internet.de verifizieren
 ```
 
 Bekannte wichtige Zäsuren:
@@ -288,6 +288,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 <!-- AUDIT 27.05.2026 bundle_044
-  → Falsche Rechtsprechungszeile entfernt
-  → kein gesicherter Ersatz für lex-temporis-actus-Aussage gefunden; Grundsatz weiterhin durch BVerfG Art. 20 Abs. 3 GG / lizenzpflichtige Literaturquelle BGB Einl. gedeckt
+ → Falsche Rechtsprechungszeile entfernt
+ → kein gesicherter Ersatz für lex-temporis-actus-Aussage gefunden; Grundsatz weiterhin durch BVerfG Art. 20 Abs. 3 GG / lizenzpflichtige Literaturquelle BGB Einl. gedeckt
 -->

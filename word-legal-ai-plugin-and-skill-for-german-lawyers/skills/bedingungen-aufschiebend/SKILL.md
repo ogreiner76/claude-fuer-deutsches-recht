@@ -1,13 +1,13 @@
 ---
 name: bedingungen-aufschiebend
-description: "Nutze dies, wenn Workflow Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Workflow Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen prüfen.; Erstelle eine Arbeitsfassung zu Workflow Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen
+# Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -18,7 +18,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -30,7 +30,7 @@ Für **Workflow Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fri
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill markiert in Word-basierten Mandatsdokumenten typische Risiken: KI-Halluzinationen, übersehene Tracked Changes, falsche Querverweise, fehlende Aktualisierung von Inhaltsverzeichnis/Felder, Mandantengeheimnis bei Cloud-Sync.
+Dieser Arbeitsmodul markiert in Word-basierten Mandatsdokumenten typische Risiken: KI-Halluzinationen, übersehene Tracked Changes, falsche Querverweise, fehlende Aktualisierung von Inhaltsverzeichnis/Felder, Mandantengeheimnis bei Cloud-Sync.
 
 ## Risikoampel Word-Dokumente
 - **Rot:** Tracked Changes nicht angenommen/abgelehnt -> versehentlicher Versand mit Markup; Kommentare an Mandant/Gegenseite. Vor Versand "Endgültig (mit Markup)" prüfen; "Dokument prüfen" (Inspect Document).
@@ -45,8 +45,8 @@ Dieser Workflow-Skill markiert in Word-basierten Mandatsdokumenten typische Risi
 - "Dokument prüfen" (Datei > Informationen > Auf Probleme prüfen) vor jedem externen Versand.
 - Versand als PDF/A (nicht .docx) bei finalen Schriftsätzen; .docx nur für Redline-Verhandlung intern.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -56,7 +56,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -124,21 +124,21 @@ Dieser Skill liefert die Konditionalsystematik, die typischen M&A-Closing-Condit
 
 ```
 SIGNING (Unterzeichnung des Vertrages)
-       |
-       | Vollzugsbedingungen (Closing Conditions / CP)
-       |   - Kartellfreigabe
-       |   - Vorstandsbeschluss
-       |   - MAC-Bedingung (Material Adverse Change)
-       |
-       v
+ |
+ | Vollzugsbedingungen (Closing Conditions / CP)
+ | - Kartellfreigabe
+ | - Vorstandsbeschluss
+ | - MAC-Bedingung (Material Adverse Change)
+ |
+ v
 CLOSING (Vollzug, Uebergang von Eigentum und Risiko)
-       |
-       | Closing Actions
-       |   - Kaufpreiszahlung
-       |   - Abtretung der Geschaeftsanteile
-       |   - Uebergabe der Vermoegenswerte
-       |
-       v
+ |
+ | Closing Actions
+ | - Kaufpreiszahlung
+ | - Abtretung der Geschaeftsanteile
+ | - Uebergabe der Vermoegenswerte
+ |
+ v
 POST-CLOSING (Garantieansprueche, Earn-Out, Uebergangsbestimmungen)
 ```
 
@@ -150,17 +150,17 @@ POST-CLOSING (Garantieansprueche, Earn-Out, Uebergangsbestimmungen)
 § 8 Vollzug
 
 (1) Dieser Vertrag wird mit Eintritt aller in Anlage 8.1 genannten
-    Vollzugsbedingungen wirksam (Closing).
+ Vollzugsbedingungen wirksam (Closing).
 
 (2) Long Stop Date ist der 31. Dezember 2026. Treten die Vollzugs-
-    bedingungen bis zum Long Stop Date nicht ein, kann jede Partei
-    durch schriftliche Erklaerung an die jeweils andere Partei vom
-    Vertrag zuruecktreten. Bereits erbrachte Leistungen sind
-    rueckabzuwickeln.
+ bedingungen bis zum Long Stop Date nicht ein, kann jede Partei
+ durch schriftliche Erklaerung an die jeweils andere Partei vom
+ Vertrag zuruecktreten. Bereits erbrachte Leistungen sind
+ rueckabzuwickeln.
 
 (3) Die Parteien werden den Eintritt der Bedingungen mit der nach
-    diesem Vertrag erforderlichen Sorgfalt foerdern. § 162 BGB bleibt
-    unberuehrt.
+ diesem Vertrag erforderlichen Sorgfalt foerdern. § 162 BGB bleibt
+ unberuehrt.
 ```
 
 **Aufloesende Bedingung:**
@@ -181,8 +181,8 @@ wird. § 119 InsO bleibt unberuehrt.
 (1) Dieser Vertrag beginnt am 1. Juli 2026 und endet am 30. Juni 2029.
 
 (2) Er verlaengert sich um jeweils ein Jahr, wenn er nicht von einer
-    Partei mit einer Frist von drei Monaten zum Ende der Laufzeit
-    schriftlich gekuendigt wird.
+ Partei mit einer Frist von drei Monaten zum Ende der Laufzeit
+ schriftlich gekuendigt wird.
 ```
 
 ### Fristberechnung nach §§ 187 bis 193 BGB

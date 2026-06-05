@@ -33,7 +33,7 @@ Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- u
 - **DSGVO** Art. 25 (Privacy by Design), Art. 35 DSFA.
 - **ISO/IEC** ISO 12100 (Risikobeurteilung), ISO 13849-1, IEC 61508/62061, ISO 10218 / ISO/TS 15066 für Cobots, ISO/IEC 27001, ISO/IEC 42001 (AI-MS).
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **DoR (Definition of Ready) erweitern.** Jede Story mit Sicherheits-, KI- und Datenschutzrelevanz erhält Pflichtfelder: Risikoeinordnung, betroffene Schutzziele, erforderliche Tests, betroffene technische Dokumentation.
 2. **DoD je Story.** Code-Review, statische Analyse, Unit-Tests, ggf. Hardware-in-the-Loop-Tests; Risiko-Snippet in der Story aktualisiert.

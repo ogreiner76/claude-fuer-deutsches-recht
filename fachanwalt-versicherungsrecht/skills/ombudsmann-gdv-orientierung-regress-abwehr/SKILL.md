@@ -1,13 +1,13 @@
 ---
 name: ombudsmann-gdv-orientierung-regress-abwehr
-description: "Nutze dies, wenn Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Versicherungsrecht Ombudsmann Gdv Schlichtung, Fachanwalt Versicherungsrecht Orientierung, Fachanwalt Versicherungsrecht Regress Abwehr** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -301,7 +301,7 @@ Ein Schädiger oder dessen Haftpflichtversicherer wird nach einem Schadensereign
 ## Prüfschema Regress-Abwehr
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -400,15 +400,15 @@ mit den Schadensersatzpositionen unseres Mandanten sachlich
 kongruent. Im Einzelnen:
 
 a) Wahlleistungen (EUR [x]) — Krankenhauszusatzleistungen wie
-   Zweibettzimmer und Chefarztbehandlung stellen keine durch
-   § 116 SGB X regressfähigen Leistungen dar, da sie nicht auf
-   den Kernschaden rückführbar sind und von der GKV im Rahmen
-   des gesetzlichen Leistungskatalogs nicht gedeckt werden.
+ Zweibettzimmer und Chefarztbehandlung stellen keine durch
+ § 116 SGB X regressfähigen Leistungen dar, da sie nicht auf
+ den Kernschaden rückführbar sind und von der GKV im Rahmen
+ des gesetzlichen Leistungskatalogs nicht gedeckt werden.
 
 b) Behandlungskosten ab [Datum] (EUR [x]) — Die Behandlungen
-   nach diesem Zeitpunkt betreffen ausweislich der vorliegenden
-   Atteste eine von der Unfallverletzung unabhängige Vorerkrankung.
-   Die zeitliche und sachliche Kongruenz fehlt insoweit.
+ nach diesem Zeitpunkt betreffen ausweislich der vorliegenden
+ Atteste eine von der Unfallverletzung unabhängige Vorerkrankung.
+ Die zeitliche und sachliche Kongruenz fehlt insoweit.
 
 2. Quotenvorrecht § 116 Abs. 3 SGB X
 
@@ -499,7 +499,7 @@ Ihrer Forderung: EUR [Gesamtforderung Träger]
 Abzüge:
 – Nicht kongruente Positionen (Wahlleistungen, Vorerkrankung): EUR [x]
 – Quotenbereinigung 40 % Mitverschulden des Geschädigten
-  gem. § 116 Abs. 3 SGB X: EUR [y]
+ gem. § 116 Abs. 3 SGB X: EUR [y]
 – Verjährte Teilbeträge (Leistungen vor [Datum]): EUR [z]
 Anerkennungsfähiger Betrag: EUR [Restbetrag]
 

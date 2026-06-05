@@ -8,7 +8,7 @@ description: "Prüft vor Einreichung oder Entscheidung: Zuständigkeit, rechtlic
 ## Aufgabe
 Prüft vor Einreichung oder Entscheidung: Zuständigkeit, rechtliches Gehör, Satzung, Beweise, Verhältnismäßigkeit.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

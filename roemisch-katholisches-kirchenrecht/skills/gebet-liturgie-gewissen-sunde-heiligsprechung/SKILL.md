@@ -1,22 +1,22 @@
 ---
 name: gebet-liturgie-gewissen-sunde-heiligsprechung
-description: "Nutze dies, wenn Gebet Liturgie Und Volksfrommigkeit, Gewissen Sunde Todsunde Und Umkehr, Heiligsprechung Reliquien Und Verehrung, Hierarchischer Rekurs im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Gebet Liturgie Und Volksfrommigkeit, Gewissen Sunde Todsunde Und Umkehr, Heiligsprechung Reliquien Und Verehrung, Hierarchischer Rekurs prüfen.; Erstelle eine Arbeitsfassung zu Gebet Liturgie Und Volksfrommigkeit, Gewissen Sunde Todsunde Und Umkehr, Heiligsprechung Reliquien Und Verehrung, Hierarchischer Rekurs.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gebet Liturgie Und Volksfrommigkeit, Gewissen Sunde Todsunde Und Umkehr, Heiligsprechung Reliquien Und Verehrung, Hierarchischer Rekurs: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gebet Liturgie Und Volksfrommigkeit, Gewissen Sunde Todsunde Und Umkehr, Heiligsprechung Reliquien Und Verehrung, Hierarchischer Rekurs
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gebet Liturgie Und Volksfrommigkeit, Gewissen Sunde Todsunde Und Umkehr, Heiligsprechung Reliquien Und Verehrung, Hierarchischer Rekurs** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `gebet-liturgie-und-volksfrommigkeit` | Gebet, Liturgie und Volksfrömmigkeit: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `gewissen-sunde-todsunde-und-umkehr` | Gewissen, Sünde, Todsünde und Umkehr: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `heiligsprechung-reliquien-und-verehrung` | Heiligsprechung, Reliquien und Verehrung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `hierarchischer-rekurs` | Hierarchischer Rekurs: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `gebet-liturgie-und-volksfrommigkeit` | Gebet, Liturgie und Volksfrömmigkeit: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `gewissen-sunde-todsunde-und-umkehr` | Gewissen, Sünde, Todsünde und Umkehr: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `heiligsprechung-reliquien-und-verehrung` | Heiligsprechung, Reliquien und Verehrung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `hierarchischer-rekurs` | Hierarchischer Rekurs: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Gebet Liturgie Und Volksfrommigkeit, Gewissen Sunde Todsunde Und Umkehr, 
 
 ## 1. `gebet-liturgie-und-volksfrommigkeit`
 
-**Fokus:** Gebet, Liturgie und Volksfrömmigkeit: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Gebet, Liturgie und Volksfrömmigkeit: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Gebet, Liturgie und Volksfrömmigkeit
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `gewissen-sunde-todsunde-und-umkehr`
 
-**Fokus:** Gewissen, Sünde, Todsünde und Umkehr: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Gewissen, Sünde, Todsünde und Umkehr: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Gewissen, Sünde, Todsünde und Umkehr
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `heiligsprechung-reliquien-und-verehrung`
 
-**Fokus:** Heiligsprechung, Reliquien und Verehrung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Heiligsprechung, Reliquien und Verehrung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Heiligsprechung, Reliquien und Verehrung
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `hierarchischer-rekurs`
 
-**Fokus:** Hierarchischer Rekurs: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Hierarchischer Rekurs: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Hierarchischer Rekurs
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

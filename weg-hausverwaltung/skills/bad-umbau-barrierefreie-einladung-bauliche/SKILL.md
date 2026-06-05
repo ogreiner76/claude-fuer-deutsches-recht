@@ -1,13 +1,13 @@
 ---
 name: bad-umbau-barrierefreie-einladung-bauliche
-description: "Nutze dies, wenn Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg prüfen.; Erstelle eine Arbeitsfassung zu Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

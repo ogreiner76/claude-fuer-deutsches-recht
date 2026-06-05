@@ -1,13 +1,13 @@
 ---
 name: autonome-lkw-cmr-schadensregulierung
-description: "Nutze dies, wenn Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb im Plugin Fachanwalt Transport Speditionsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Transport Autonome Lkw Konvois Haftung 1d Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Transport Autonome Lkw Konvois Haftung 1D Stvg, Fachanwalt Transport Cmr Schadensregulierung, Fachanwalt Transport Speditionshaftung Hgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -132,7 +132,7 @@ verpflichtenden Datenspeichers für 6 Monate aufzubewahren.
 
 Ich bitte um:
 1. Kompletten Datensatz § 1g StVG für Zeitraum [X Stunden]
-   vor dem Unfall
+ vor dem Unfall
 2. V2V-Kommunikationsprotokolle des Konvois
 3. Systemzustand (autonom / manuell) zum Unfallzeitpunkt
 4. Übergabeanforderungen an Fahrer / Technische Aufsicht
@@ -371,7 +371,7 @@ Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen über den Bef�
 - Bei Vorsatz / grober Fahrlaessigkeit: **3 Jahre**
 - Hemmung durch schriftliche Reklamation
 
-## 6) Workflow Schadens-Regulierung
+## 6) Schadens-Regulierung
 
 ### Phase 1 — Schadens-Aufnahme
 

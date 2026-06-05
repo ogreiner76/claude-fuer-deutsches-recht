@@ -1,13 +1,13 @@
 ---
 name: espacenet-google-neuheit-red
-description: "Nutze dies, wenn Spezial Espacenet Dokumentenmatrix Und Lueckenliste, Spezial Google Risikoampel Und Gegenargumente, Spezial Neuheit Red Team Und Qualitaetskontrolle im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Espacenet Dokumentenmatrix Und Lueckenliste, Google Risikoampel Und Gegenargumente, Neuheit Red Team Und Qualitaetskontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Espacenet Dokumentenmatrix Und Lueckenliste, Spezial Google Risikoampel Und Gegenargumente, Spezial Neuheit Red Team Und Qualitaetskontrolle
+# Espacenet Dokumentenmatrix Und Lueckenliste, Google Risikoampel Und Gegenargumente, Neuheit Red Team Und Qualitaetskontrolle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Espacenet Dokumentenmatrix Und Lueckenliste, Google Risikoampel Und Gegenargumente, Neuheit Red Team Und Qualitaetskontrolle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Espacenet Dokumentenmatrix Und Lueckenliste, Spezial Google Risikoampel Und Gegenargumente, Spezial Neuheit Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Espacenet Dokumentenmatrix Und Lueckenliste, Google Risikoampel Und Gegenargumente, Neuheit Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Espacenet Dokumentenmatrix Und Lueckenliste, Spezial Google Risik
 # Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung / spezial espacenet dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung / espacenet dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EPO, WIPO, USPTO, PatG, Art. 54, Art. 56, FTO, CPC, IPC, INPADOC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Google: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Google: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Google: Risikoampel, Gegenargumente und Verteidigungslinien / spezial google risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Google: Risikoampel, Gegenargumente und Verteidigungslinien / google risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EPO, WIPO, USPTO, PatG, Art. 54, Art. 56, FTO, CPC, IPC, INPADOC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Neuheit: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Neuheit: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Neuheit: Red-Team und Qualitätskontrolle / spezial neuheit red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Neuheit: Red-Team und Qualitätskontrolle / neuheit red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EPO, WIPO, USPTO, PatG, Art. 54, Art. 56, FTO, CPC, IPC, INPADOC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

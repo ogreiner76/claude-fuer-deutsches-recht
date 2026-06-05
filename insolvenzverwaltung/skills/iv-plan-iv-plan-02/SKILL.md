@@ -1,13 +1,13 @@
 ---
 name: iv-plan-iv-plan-02
-description: "Nutze dies, wenn Iv Plan Cramdown Obstruktion, Iv Plan Datenraum Register im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Plan Cramdown Obstruktion, Iv Plan Datenraum Register prüfen.; Erstelle eine Arbeitsfassung zu Iv Plan Cramdown Obstruktion, Iv Plan Datenraum Register.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Iv Plan Cramdown Obstruktion, Iv Plan Datenraum Register: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Iv Plan Cramdown Obstruktion, Iv Plan Datenraum Register
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Iv Plan Cramdown Obstruktion, Iv Plan Datenraum Register** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -85,7 +85,7 @@ Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und vorläufig
 ## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde gegen Bestätigung eines Restrukturierungsplans mit Kapitalherabsetzung und Bezugsrechtsausschluss als unzulässig zurückgewiesen. Bedeutung für Obstruktionsverbot iSd § 245 InsO und Cross-Class-Cramdown iSd § 26 StaRUG: Die Schlechterstellungsprüfung ist die zentrale Schutznorm.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Bei AG-Insolvenz: kapitalmarktrechtliche Aktionärsschadensersatzforderungen nachrangig (§ 38 InsO-Forderungen ausgeschlossen); bei Cramdown-Klassenbildung beachten.
 - Restrukturierungsgerichts-Entscheidungen zur Praxis des § 26 StaRUG und § 245 InsO vor Ausgabe über dejure.org / openjur.de verifizieren.
 

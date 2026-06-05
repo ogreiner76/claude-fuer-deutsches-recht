@@ -1,13 +1,13 @@
 ---
 name: tagesordnung-parteitag-02
-description: "Nutze dies, wenn Tagesordnung Parteitag, Unterstuetzungsunterschriften, Vertrauenspersonen Wahlvorschlag im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Tagesordnung Parteitag, Unterstuetzungsunterschriften, Vertrauenspersonen Wahlvorschlag prüfen.; Erstelle eine Arbeitsfassung zu Tagesordnung Parteitag, Unterstuetzungsunterschriften, Vertrauenspersonen Wahlvorschlag.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tagesordnung Parteitag, Unterstuetzungsunterschriften, Vertrauenspersonen Wahlvorschlag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tagesordnung Parteitag, Unterstuetzungsunterschriften, Vertrauenspersonen Wahlvorschlag
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tagesordnung Parteitag, Unterstuetzungsunterschriften, Vertrauenspersonen Wahlvorschlag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Tagesordnung Parteitag, Unterstuetzungsunterschriften, Vertrauenspersonen
 ## Aufgabe
 Erstellt Tagesordnung für Vorstandswahl, Anträge, Satzungsänderung, Listenaufstellung, Rechenschaft und Entlastung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft, ob Unterstützungsunterschriften nötig sind, Formblätter, Wahlberechtigung, Bescheinigung, Sammlung und Fehlerquellen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Regelt Vertrauenspersonen, Rücknahme/Änderung des Wahlvorschlags, Kommunikation und Risiko interner Konflikte.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

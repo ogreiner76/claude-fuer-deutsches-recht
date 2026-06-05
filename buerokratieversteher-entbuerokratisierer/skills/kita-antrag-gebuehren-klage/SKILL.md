@@ -1,13 +1,13 @@
 ---
 name: kita-antrag-gebuehren-klage
-description: "Nutze dies, wenn Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben prüfen.; Erstelle eine Arbeitsfassung zu Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kita Antrag, Kita Gebuehren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Kita Antrag, Kita Gebühren, Klage Verwaltungsgericht Einfach, Kommunale 
 ## Aufgabe
 Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn kein Widerspruch möglich ist oder ein Widerspruchsbescheid vorliegt.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Erschließungsbeitrag, Straßenausbaubeitrag, Abwasser, Müllgebühren, Satzung und Bescheidkette.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

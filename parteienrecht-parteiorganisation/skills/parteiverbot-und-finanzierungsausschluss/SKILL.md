@@ -8,7 +8,7 @@ description: "Routet nur formal: Zuständigkeiten, Folgen, Vorsicht, keine polit
 ## Aufgabe
 Routet nur formal: Zuständigkeiten, Folgen, Vorsicht, keine politische Bewertung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -26,9 +26,9 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 1. Parteiverbot (Art. 21 II GG)
 - **Voraussetzungen:**
-  - Partei verfolgt nach ihren Zielen oder dem Verhalten ihrer Anhänger
-  - Beeinträchtigung oder Beseitigung der freiheitlichen demokratischen Grundordnung **oder**
-  - Gefährdung des Bestandes der BRD.
+ - Partei verfolgt nach ihren Zielen oder dem Verhalten ihrer Anhänger
+ - Beeinträchtigung oder Beseitigung der freiheitlichen demokratischen Grundordnung **oder**
+ - Gefährdung des Bestandes der BRD.
 - **Potentialität** (BVerfG, Urteil vom 17.01.2017, 2 BvB 1/13 — NPD II): "darauf ausgehen" verlangt aktives, planvolles Handeln; potentielle Möglichkeit des Erfolgs.
 - **Antrag** § 43 BVerfGG durch Bundestag, Bundesrat oder Bundesregierung beim BVerfG.
 - **Verfahren** §§ 43-47 BVerfGG (Sonderzuständigkeit Zweiter Senat).

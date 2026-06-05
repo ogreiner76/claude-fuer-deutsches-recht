@@ -1,24 +1,24 @@
 ---
 name: beirat-streit-gesellschafter-transaktionen-ma
-description: "Nutze dies, wenn Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Verguetung, Beirat Verschwiegenheit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-streit-gesellschafter` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-transaktionen-ma` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-verguetung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-verschwiegenheit` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-veto-rechte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Veto Rechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-zustimmungsvorbehalte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-streit-gesellschafter` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-transaktionen-ma` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-verguetung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verguetung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-verschwiegenheit` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-veto-rechte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Veto Rechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-zustimmungsvorbehalte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `gk-ma-lma-loan-transfer` | Prüft LMA-basierte Transfermechanik im syndizierten Kredit: Assignment, Novation, Transfer Certificate, Consent, Agent und Register. |
 
 ## Arbeitsweg
@@ -30,7 +30,7 @@ Für **Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung,
 
 ## 1. `beirat-streit-gesellschafter`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Streit Gesellschafter
 
@@ -96,7 +96,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-transaktionen-ma`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Transaktionen M&A
 
@@ -162,7 +162,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-verguetung`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verguetung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Verguetung
 
@@ -228,7 +228,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-verschwiegenheit`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Verschwiegenheit
 
@@ -294,7 +294,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-veto-rechte`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Veto Rechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Veto Rechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Veto Rechte
 
@@ -360,7 +360,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 6. `beirat-zustimmungsvorbehalte`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Zustimmungsvorbehalte
 

@@ -1,6 +1,6 @@
 ---
 name: rom-039-gefahrtragung-beim-kauf
-description: "Römisches Recht: Gefahrtragung Beim Kauf. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Gefahrtragung Beim Kauf. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Gefahrtragung Beim Kauf

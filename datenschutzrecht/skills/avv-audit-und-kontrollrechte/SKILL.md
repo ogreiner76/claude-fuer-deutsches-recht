@@ -27,42 +27,42 @@ Ausgestaltung des Audit- und Kontrollrechts des Verantwortlichen gegenueber dem 
 ## Ablauf / Checkliste
 
 1. **Audit-Frequenz.**
-   - Regelfall: einmal pro Kalenderjahr.
-   - Anlassbezogen: bei Datenpanne, Aenderung der Verarbeitung, Aufsichtsbehoerdenfrage, konkreten Verdachtsmomenten.
-   - Aufsichtsbehoerde direkt: keine Frequenzbegrenzung.
+ - Regelfall: einmal pro Kalenderjahr.
+ - Anlassbezogen: bei Datenpanne, Aenderung der Verarbeitung, Aufsichtsbehoerdenfrage, konkreten Verdachtsmomenten.
+ - Aufsichtsbehoerde direkt: keine Frequenzbegrenzung.
 
 2. **Audit-Form.**
 
-   | Form | Anwendungsfall | Aussagekraft |
-   |---|---|---|
-   | Selbstauskunft (Self-Assessment) | Standardpruefung | Niedrig |
-   | Zertifikatseinsicht (ISO 27001, SOC 2 Type II, BSI C5 Typ 2) | Routine | Mittel |
-   | Schriftlicher Auditbericht des Auftragsverarbeiters | Routine | Mittel |
-   | Vor-Ort-Audit durch den Verantwortlichen oder dessen Pruefer | Anlassbezogen / kritisch | Hoch |
-   | Aufsichtsbehoerdliche Pruefung | bei Anordnung | Hoechste |
+ | Form | Anwendungsfall | Aussagekraft |
+ |---|---|---|
+ | Selbstauskunft (Self-Assessment) | Standardpruefung | Niedrig |
+ | Zertifikatseinsicht (ISO 27001, SOC 2 Type II, BSI C5 Typ 2) | Routine | Mittel |
+ | Schriftlicher Auditbericht des Auftragsverarbeiters | Routine | Mittel |
+ | Vor-Ort-Audit durch den Verantwortlichen oder dessen Pruefer | Anlassbezogen / kritisch | Hoch |
+ | Aufsichtsbehoerdliche Pruefung | bei Anordnung | Hoechste |
 
 3. **Ankuendigungsfrist und Auditor.**
-   - Praxis: 30 Kalendertage Vorankuendigung bei planmaessigem Audit.
-   - Verzicht auf Vorankuendigung bei akuter Datenpanne.
-   - Auditor: Verantwortlicher selbst oder ein vom Verantwortlichen beauftragter Wirtschaftspruefer / Datenschutzauditor.
-   - Wettbewerber-Ausschluss zulaessig, soweit konkret begruendet.
+ - Praxis: 30 Kalendertage Vorankuendigung bei planmaessigem Audit.
+ - Verzicht auf Vorankuendigung bei akuter Datenpanne.
+ - Auditor: Verantwortlicher selbst oder ein vom Verantwortlichen beauftragter Wirtschaftspruefer / Datenschutzauditor.
+ - Wettbewerber-Ausschluss zulaessig, soweit konkret begruendet.
 
 4. **Geschaeftsgeheimnis-Schutz.**
-   - NDA fuer Auditoren.
-   - Schutz von Quellcode, Konfigurationen, Sub-AV-Vertraegen.
-   - Recht des Auftragsverarbeiters, sensible Informationen zu schwaerzen oder in Aggregatsform vorzulegen.
-   - Bei Berufsgeheimnistraegern (§ 203 StGB): Auditor unterliegt selbst der Schweigepflicht.
+ - NDA fuer Auditoren.
+ - Schutz von Quellcode, Konfigurationen, Sub-AV-Vertraegen.
+ - Recht des Auftragsverarbeiters, sensible Informationen zu schwaerzen oder in Aggregatsform vorzulegen.
+ - Bei Berufsgeheimnistraegern (§ 203 StGB): Auditor unterliegt selbst der Schweigepflicht.
 
 5. **Kostenregelung.**
-   - Praxis: Verantwortlicher traegt Kosten des planmaessigen Audits.
-   - Auftragsverarbeiter traegt Kosten bei festgestellten Verstoessen.
-   - Bei anlassbezogenen Audits oft 50/50 oder Verursacherprinzip.
+ - Praxis: Verantwortlicher traegt Kosten des planmaessigen Audits.
+ - Auftragsverarbeiter traegt Kosten bei festgestellten Verstoessen.
+ - Bei anlassbezogenen Audits oft 50/50 oder Verursacherprinzip.
 
 6. **Auditergebnis und Folgen.**
-   - Auditbericht binnen 30 Kalendertagen.
-   - Stellungnahme des Auftragsverarbeiters binnen 14 Kalendertagen.
-   - Mangelbehebungsplan mit Fristen.
-   - Eskalation bei wesentlichen Maengeln: Anordnungen, Vertragsanpassung, Sonderkuendigung.
+ - Auditbericht binnen 30 Kalendertagen.
+ - Stellungnahme des Auftragsverarbeiters binnen 14 Kalendertagen.
+ - Mangelbehebungsplan mit Fristen.
+ - Eskalation bei wesentlichen Maengeln: Anordnungen, Vertragsanpassung, Sonderkuendigung.
 
 ## Mustertext / Template
 

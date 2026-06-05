@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Krisenfrueherkennung Starug.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Krisenfrueherkennung Starug** ein Fall noc
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `berater-drohende-fruehwarnsystem` — Berater Drohende Fruehwarnsystem
 - `drohende-zahlungsunfaehigkeit-fortbestehensprognose-zweistufig` — Drohende Zahlungsunfaehigkeit Fortbestehensprognose Zweistufig
 - `integrierte-interessen-kennzahlenset-mandantenentscheidung` — Integrierte Interessen Kennzahlenset Mandantenentscheidung

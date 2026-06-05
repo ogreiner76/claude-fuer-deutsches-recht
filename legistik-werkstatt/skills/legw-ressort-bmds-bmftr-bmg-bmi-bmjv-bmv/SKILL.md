@@ -1,13 +1,13 @@
 ---
 name: legw-ressort-bmds-bmftr-bmg-bmi-bmjv-bmv
-description: "Nutze dies, wenn Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi, Legw Ressort Bmjv und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -74,13 +74,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -96,13 +96,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -137,16 +137,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMDS - Bundesministerium fuer Digitales und Staatsmodernisierung
-Hausleitung:        Karsten Wildberger (CDU)
-Materie:            Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht.
-Kernnormen:         OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmds
+Ressort: BMDS - Bundesministerium fuer Digitales und Staatsmodernisierung
+Hausleitung: Karsten Wildberger (CDU)
+Materie: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht.
+Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmds
 ```
 
 ## Abgrenzung
@@ -202,13 +202,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -224,13 +224,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -265,16 +265,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMFTR - Bundesministerium fuer Forschung; Technologie und Raumfahrt
-Hausleitung:        Dorothee Baer (CSU)
-Materie:            Hochschule und Wissenschaft; Raumfahrt; Forschungsfoerderung; KI; Biotechnologie.
-Kernnormen:         HRG; WissZeitVG; WRG; WissTrAG; ATG; BNatSchG (Biotech); GenTG; KI-VO (EU).
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmftr
+Ressort: BMFTR - Bundesministerium fuer Forschung; Technologie und Raumfahrt
+Hausleitung: Dorothee Baer (CSU)
+Materie: Hochschule und Wissenschaft; Raumfahrt; Forschungsfoerderung; KI; Biotechnologie.
+Kernnormen: HRG; WissZeitVG; WRG; WissTrAG; ATG; BNatSchG (Biotech); GenTG; KI-VO (EU).
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmftr
 ```
 
 ## Abgrenzung
@@ -330,13 +330,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -352,13 +352,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -393,16 +393,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMG - Bundesministerium fuer Gesundheit
-Hausleitung:        Nina Warken (CDU)
-Materie:            Arzneimittel; gesetzliche Krankenversicherung; Infektionsschutz; Heilberufe; Krankenhaus.
-Kernnormen:         AMG; MPG; MPDG; SGB V; SGB XI; IfSG; BApO; KHG; KHEntgG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmg
+Ressort: BMG - Bundesministerium fuer Gesundheit
+Hausleitung: Nina Warken (CDU)
+Materie: Arzneimittel; gesetzliche Krankenversicherung; Infektionsschutz; Heilberufe; Krankenhaus.
+Kernnormen: AMG; MPG; MPDG; SGB V; SGB XI; IfSG; BApO; KHG; KHEntgG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmg
 ```
 
 ## Abgrenzung
@@ -458,13 +458,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -480,13 +480,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -521,16 +521,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMI - Bundesministerium des Innern
-Hausleitung:        Alexander Dobrindt (CSU)
-Materie:            Innere Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; oeffentlicher Dienst.
-Kernnormen:         BPolG; BKAG; AufenthG; StAG; VwVfG; ZSKG; BBG; BeamtStG; PassG; PStG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmi
+Ressort: BMI - Bundesministerium des Innern
+Hausleitung: Alexander Dobrindt (CSU)
+Materie: Innere Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; oeffentlicher Dienst.
+Kernnormen: BPolG; BKAG; AufenthG; StAG; VwVfG; ZSKG; BBG; BeamtStG; PassG; PStG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmi
 ```
 
 ## Abgrenzung
@@ -586,13 +586,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -608,13 +608,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -649,16 +649,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMJV - Bundesministerium der Justiz und fuer Verbraucherschutz
-Hausleitung:        Stefanie Hubig (SPD)
-Materie:            Pflege von BGB und StGB; Prozessrecht; Verbraucherschutz; Rechtsstaatlichkeit.
-Kernnormen:         BGB; HGB; StGB; StPO; ZPO; GVG; UWG; UKlaG; BDSG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmjv
+Ressort: BMJV - Bundesministerium der Justiz und fuer Verbraucherschutz
+Hausleitung: Stefanie Hubig (SPD)
+Materie: Pflege von BGB und StGB; Prozessrecht; Verbraucherschutz; Rechtsstaatlichkeit.
+Kernnormen: BGB; HGB; StGB; StPO; ZPO; GVG; UWG; UKlaG; BDSG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmjv
 ```
 
 ## Abgrenzung
@@ -714,13 +714,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -736,13 +736,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -777,16 +777,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMLEH - Bundesministerium fuer Landwirtschaft; Ernaehrung und Heimat
-Hausleitung:        Alois Rainer (CSU)
-Materie:            Agrar; Tierschutz; Lebensmittel; Forst und Jagd; Oekolandbau.
-Kernnormen:         GAKG; TierSchG; LFGB; BWaldG; BJagdG; OeLG; PflSchG; DueV; AgrarZahlG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmleh
+Ressort: BMLEH - Bundesministerium fuer Landwirtschaft; Ernaehrung und Heimat
+Hausleitung: Alois Rainer (CSU)
+Materie: Agrar; Tierschutz; Lebensmittel; Forst und Jagd; Oekolandbau.
+Kernnormen: GAKG; TierSchG; LFGB; BWaldG; BJagdG; OeLG; PflSchG; DueV; AgrarZahlG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmleh
 ```
 
 ## Abgrenzung
@@ -842,13 +842,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -864,13 +864,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -905,16 +905,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMUKN - Bundesministerium fuer Umwelt; Klimaschutz; Naturschutz und nukleare Sicherheit
-Hausleitung:        Carsten Schneider (SPD)
-Materie:            Immissionsschutz; Wasser; Abfall und Kreislaufwirtschaft; Naturschutz; Nukleares.
-Kernnormen:         BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmukn
+Ressort: BMUKN - Bundesministerium fuer Umwelt; Klimaschutz; Naturschutz und nukleare Sicherheit
+Hausleitung: Carsten Schneider (SPD)
+Materie: Immissionsschutz; Wasser; Abfall und Kreislaufwirtschaft; Naturschutz; Nukleares.
+Kernnormen: BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmukn
 ```
 
 ## Abgrenzung
@@ -970,13 +970,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -992,13 +992,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -1033,16 +1033,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMV - Bundesministerium fuer Verkehr
-Hausleitung:        Patrick Schnieder (CDU)
-Materie:            Strasse; Schiene; Luft; Wasser; Mobilitaet und Fuehrerschein.
-Kernnormen:         StVG; StVO; FeV; AEG; ERegG; LuftVG; SeeAufgG; BinSchG; PBefG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmv
+Ressort: BMV - Bundesministerium fuer Verkehr
+Hausleitung: Patrick Schnieder (CDU)
+Materie: Strasse; Schiene; Luft; Wasser; Mobilitaet und Fuehrerschein.
+Kernnormen: StVG; StVO; FeV; AEG; ERegG; LuftVG; SeeAufgG; BinSchG; PBefG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmv
 ```
 
 ## Abgrenzung

@@ -1,22 +1,22 @@
 ---
 name: insiderinformationen-mar-interessenprofil
-description: "Nutze dies, wenn Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda prüfen.; Erstelle eine Arbeitsfassung zu Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Business Secrets, Joint Venture Nda** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `insiderinformationen-mar` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Insiderinformationen Mar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `interessenprofil-offenlegung-empfang` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Interessenprofil Offenlegung Empfang; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `japan-business-secrets` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Japan Business Secrets; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `joint-venture-nda` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Joint Venture NDA; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `insiderinformationen-mar` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Insiderinformationen Mar; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `interessenprofil-offenlegung-empfang` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Interessenprofil Offenlegung Empfang; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `japan-business-secrets` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Japan Business Secrets; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `joint-venture-nda` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Joint Venture NDA; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Insiderinformationen Mar, Interessenprofil Offenlegung Empfang, Japan Bus
 
 ## 1. `insiderinformationen-mar`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Insiderinformationen Mar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Insiderinformationen Mar; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Insiderinformationen Mar
 
@@ -81,7 +81,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `interessenprofil-offenlegung-empfang`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Interessenprofil Offenlegung Empfang; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Interessenprofil Offenlegung Empfang; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Interessenprofil Offenlegung Empfang
 
@@ -138,7 +138,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `japan-business-secrets`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Japan Business Secrets; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Japan Business Secrets; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Japan Business Secrets
 
@@ -192,7 +192,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `joint-venture-nda`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Joint Venture NDA; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Joint Venture NDA; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Joint Venture NDA
 

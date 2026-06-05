@@ -1,13 +1,13 @@
 ---
 name: rechtsfolge-kein-rechtsfolgen-rueckabwicklung
-description: "Nutze dies, wenn Rechtsfolge 306 Kein Blue Pencil, Rechtsfolgen Rueckabwicklung Agb, Rechtswahl, Redline Kommentar Agb, Referenznennung im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Rechtsfolge 306 Kein Blue Pencil, Rechtsfolgen Rueckabwicklung Agb, Rechtswahl, Redline Kommentar Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsfolge 306 Kein Blue Pencil, Rechtsfolgen Rueckabwicklung Agb, Rechtswahl, Redline Kommentar Agb, Referenznennung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsfolge 306 Kein Blue Pencil, Rechtsfolgen Rueckabwicklung Agb, Rechtswahl, Redline Kommentar Agb, Referenznennung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,9 +15,9 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `rechtsfolge-306-kein-blue-pencil` | Norm- und Dogmatik-Skill für Rechtsfolge 306 Kein Blü Pencil: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `rechtsfolgen-rueckabwicklung-agb` | Norm- und Dogmatik-Skill für Rechtsfolgen Rückabwicklung AGB: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `rechtswahl` | Klausel-Spezialskill für Rechtswahl: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `rechtswahl` | Klausel-Fachmodul für Rechtswahl: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `redline-kommentar-agb` | Output- und Streit-Skill für Redline Kommentar AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `referenznennung` | Klausel-Spezialskill für Referenznennung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `referenznennung` | Klausel-Fachmodul für Referenznennung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `rechtswahl`
 
-**Fokus:** Klausel-Spezialskill für Rechtswahl: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Rechtswahl: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Rechtswahl
 
@@ -248,7 +248,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `referenznennung`
 
-**Fokus:** Klausel-Spezialskill für Referenznennung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Referenznennung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Referenznennung
 

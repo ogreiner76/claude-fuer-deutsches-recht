@@ -1,13 +1,13 @@
 ---
 name: subcontractors-cloud-support-maintenance
-description: "Nutze dies, wenn Subcontractors Cloud, Support Maintenance Sla, Swiss Software Contracts, Synthetic Data Code im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Subcontractors Cloud, Support Maintenance Sla, Swiss Software Contracts, Synthetic Data Code prüfen.; Erstelle eine Arbeitsfassung zu Subcontractors Cloud, Support Maintenance Sla, Swiss Software Contracts, Synthetic Data Code.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Subcontractors Cloud, Support Maintenance Sla, Swiss Software Contracts, Synthetic Data Code: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Subcontractors Cloud, Support Maintenance Sla, Swiss Software Contracts, Synthetic Data Code
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Subcontractors Cloud, Support Maintenance Sla, Swiss Software Contracts, Synthetic Data Code** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

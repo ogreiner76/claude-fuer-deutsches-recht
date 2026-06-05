@@ -1,13 +1,13 @@
 ---
 name: due-diligence-due-diligence
-description: "Nutze dies, wenn Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -183,13 +183,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Wesentlicher Vertrag mit CoC-Klausel identifiziert?
-  → Ja: Klausel loest Kuendigung aus?
-       → Ja: Wesentlich fuer Geschaeftsbetrieb?
-            → Ja: Consent vor Signing einholen → ggf. Closing Condition
-            → Nein: Disclosure Letter; SPA-Rep "kein wesentlicher Vertrag betroffen"
-       → Nein: Klausel loest nur Anpassungsrecht aus?
-            → Ja: Verhandlungsoption bewerten; Offenlegung im SPA
-  → Nein: Kein Handlungsbedarf; Dokumentation Datenraum
+ → Ja: Klausel loest Kuendigung aus?
+ → Ja: Wesentlich fuer Geschaeftsbetrieb?
+ → Ja: Consent vor Signing einholen → ggf. Closing Condition
+ → Nein: Disclosure Letter; SPA-Rep "kein wesentlicher Vertrag betroffen"
+ → Nein: Klausel loest nur Anpassungsrecht aus?
+ → Ja: Verhandlungsoption bewerten; Offenlegung im SPA
+ → Nein: Kein Handlungsbedarf; Dokumentation Datenraum
 ```
 
 ## Output-Template Contract Summary Sheet
@@ -203,13 +203,13 @@ Stand: [DATUM]
 
 | Nr. | Vertrag | Partei | Laufzeit | Vol. p.a. | CoC-Klausel | Kuendigungsrecht | Risikoklasse | SPA-Empfehlung |
 |-----|---------|--------|----------|-----------|-------------|-----------------|--------------|----------------|
-| 1   | [Name]  | [Partei] | [Bis]  | [EUR]     | [Ja/Nein]   | [§/Bedingung]   | [H/M/N]      | [Consent/Rep/Indemnity] |
+| 1 | [Name] | [Partei] | [Bis] | [EUR] | [Ja/Nein] | [§/Bedingung] | [H/M/N] | [Consent/Rep/Indemnity] |
 ```
 
 ```
 CRITICAL CONTRACT ANALYSIS — [VERTRAGSNAME]
 Parteien: [VERKAEUFER-GESELLSCHAFT] / [GEGENPARTEI]
-Datum: [DATUM]  Laufzeit: [BIS]  Jahresvolumen: [EUR]
+Datum: [DATUM] Laufzeit: [BIS] Jahresvolumen: [EUR]
 Governing Law: [Deutsches Recht / Englisch Recht]
 
 CHANGE OF CONTROL: [Ja — Klausel Abs. X; Schwelle: X% / Nein]
@@ -330,25 +330,25 @@ Version: [Nr.]
 Bearbeiter: [NAMEN]
 
 1. EXECUTIVE SUMMARY
-   Gesamtrisikoeinschaetzung: [Hoch / Mittel / Niedrig]
-   Deal-Breaker identifiziert: [Ja/Nein — wenn Ja: Beschreibung]
-   Empfehlung: [Weiterverhandeln / Kaufpreisanpassung erforderlich / Abbruch pruefen]
+ Gesamtrisikoeinschaetzung: [Hoch / Mittel / Niedrig]
+ Deal-Breaker identifiziert: [Ja/Nein — wenn Ja: Beschreibung]
+ Empfehlung: [Weiterverhandeln / Kaufpreisanpassung erforderlich / Abbruch pruefen]
 
 2. RED FLAGS (nach Schweregrad)
-   | Nr. | Workstream | Befund | Schweregrad | Vertragsmechanismus |
-   |-----|-----------|--------|-------------|---------------------|
-   | 1   | [Workstream] | [Befund] | [Red Flag] | [Indemnity / KP-Abschlag] |
+ | Nr. | Workstream | Befund | Schweregrad | Vertragsmechanismus |
+ |-----|-----------|--------|-------------|---------------------|
+ | 1 | [Workstream] | [Befund] | [Red Flag] | [Indemnity / KP-Abschlag] |
 
 3. HIGH-RISK-FINDINGS
-   [Strukturierter Ueberblick]
+ [Strukturierter Ueberblick]
 
 4. OFFENE PUNKTE / Q&A-AUSSTEHEND
-   | Nr. | Frage | An Verkaefer seit | Frist |
-   |-----|-------|-------------------|-------|
-   | 1   | [Frage] | [Datum] | [Datum] |
+ | Nr. | Frage | An Verkaefer seit | Frist |
+ |-----|-------|-------------------|-------|
+ | 1 | [Frage] | [Datum] | [Datum] |
 
 5. EMPFEHLUNGEN SPA-ADJUSTMENTS
-   [Konkrete Klausel-Anpassungen, Indemnity-Empfehlungen]
+ [Konkrete Klausel-Anpassungen, Indemnity-Empfehlungen]
 ```
 
 ## Output-Template DD-Report Struktur
@@ -359,17 +359,17 @@ Transaktion: [DEAL-NAME]
 Zielgesellschaft: [NAME]
 Datum: [DATUM]
 
-I.   EXECUTIVE SUMMARY
-II.  SCOPE AND METHODOLOGY
+I. EXECUTIVE SUMMARY
+II. SCOPE AND METHODOLOGY
 III. CORPORATE / ANTEILSSTRUKTUR
-IV.  WESENTLICHE VERTRAEGE
-V.   HR UND ARBEITSRECHT
-VI.  IP UND IT
+IV. WESENTLICHE VERTRAEGE
+V. HR UND ARBEITSRECHT
+VI. IP UND IT
 VII. LITIGATION UND BESCHWERDEN
 VIII.COMPLIANCE UND REGULIERUNG
-IX.  IMMOBILIEN UND UMWELT
-X.   STEUERN (Ueberblick; Details im Tax DD Report)
-XI.  RISIKOMATRIX (konsolidiert)
+IX. IMMOBILIEN UND UMWELT
+X. STEUERN (Ueberblick; Details im Tax DD Report)
+XI. RISIKOMATRIX (konsolidiert)
 XII. SPA-EMPFEHLUNGEN
 ANLAGEN: Dokumentenindex, Q&A-Log, Organigramm
 ```

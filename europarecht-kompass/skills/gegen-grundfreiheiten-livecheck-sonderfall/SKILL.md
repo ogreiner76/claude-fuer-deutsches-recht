@@ -1,13 +1,13 @@
 ---
 name: gegen-grundfreiheiten-livecheck-sonderfall
-description: "Nutze dies, wenn Spezial Gegen Tatbestand Beweis Und Belege, Spezial Grundfreiheiten Zahlen Schwellen Und Berechnung, Spezial Livecheck Sonderfall Und Edge Case im Plugin Europarecht Kompass konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Gegen Tatbestand Beweis Und Belege, Grundfreiheiten Zahlen Schwellen Und Berechnung, Livecheck Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Gegen Tatbestand Beweis Und Belege, Spezial Grundfreiheiten Zahlen Schwellen Und Berechnung, Spezial Livecheck Sonderfall Und Edge Case
+# Gegen Tatbestand Beweis Und Belege, Grundfreiheiten Zahlen Schwellen Und Berechnung, Livecheck Sonderfall Und Edge Case
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gegen Tatbestand Beweis Und Belege, Grundfreiheiten Zahlen Schwellen Und Berechnung, Livecheck Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Gegen Tatbestand Beweis Und Belege, Spezial Grundfreiheiten Zahlen Schwellen Und Berechnung, Spezial Livecheck Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `europarecht-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gegen Tatbestand Beweis Und Belege, Grundfreiheiten Zahlen Schwellen Und Berechnung, Livecheck Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `europarecht-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Gegen Tatbestand Beweis Und Belege, Spezial Grundfreiheiten Zahle
 # Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial gegen tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage / gegen tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung / spezial grundfreiheiten zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung / grundfreiheiten zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Livecheck: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Livecheck: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Livecheck: Sonderfall und Edge-Case-Prüfung / spezial livecheck sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Livecheck: Sonderfall und Edge-Case-Prüfung / livecheck sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

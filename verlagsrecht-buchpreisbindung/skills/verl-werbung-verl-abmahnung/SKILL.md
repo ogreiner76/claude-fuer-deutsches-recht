@@ -1,13 +1,13 @@
 ---
 name: verl-werbung-verl-abmahnung
-description: "Nutze dies, wenn Verl 040 Werbung Mit Bestseller Siegel Und Rezensionen, Verl 041 Abmahnung Buchpreisbindung im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 040 Werbung Mit Bestseller Siegel Und Rezensionen, Verl 041 Abmahnung Buchpreisbindung prüfen.; Erstelle eine Arbeitsfassung zu Verl 040 Werbung Mit Bestseller Siegel Und Rezensionen, Verl 041 Abmahnung Buchpreisbindung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 040 Werbung Mit Bestseller Siegel Und Rezensionen, Verl 041 Abmahnung Buchpreisbindung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 040 Werbung Mit Bestseller Siegel Und Rezensionen, Verl 041 Abmahnung Buchpreisbindung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 040 Werbung Mit Bestseller Siegel Und Rezensionen, Verl 041 Abmahnung Buchpreisbindung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -183,14 +183,14 @@ Abmahnungen wegen Buchpreisbindungsverstößen sind das häufigste Durchsetzungs
 
 ### Optionen
 1. **Unterlassungserklärung unterzeichnen**: Verstoß eingestehen; Vertragsstrafe bei Wiederholung akzeptieren; Kosten zahlen.
-   - Vorteil: Schnelle Erledigung; Schutz vor teurerer einstweiliger Verfügung.
-   - Risiko: Vertragsstrafe bei späterem Verstoß; Eingeständnis für Schadensersatzklage.
+ - Vorteil: Schnelle Erledigung; Schutz vor teurerer einstweiliger Verfügung.
+ - Risiko: Vertragsstrafe bei späterem Verstoß; Eingeständnis für Schadensersatzklage.
 
 2. **Modifizierte Unterlassungserklärung**: Unterlassung erklären, aber Vertragsstrafe-Höhe oder Formulierung modifizieren.
-   - Abmahner muss neue Formulierung akzeptieren oder Verfügung beantragen.
+ - Abmahner muss neue Formulierung akzeptieren oder Verfügung beantragen.
 
 3. **Ablehnen**: Abmahner trägt dann Risiko und muss einstweilige Verfügung beantragen.
-   - Nur sinnvoll, wenn Abmahnung offensichtlich unbegründet oder Verstoß nicht vorlag.
+ - Nur sinnvoll, wenn Abmahnung offensichtlich unbegründet oder Verstoß nicht vorlag.
 
 4. **Schutzschrift**: Beim zuständigen Gericht einreichen, um Gegendarstellung bei Verfügungsantrag zu sichern.
 

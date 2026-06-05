@@ -33,7 +33,7 @@ description: "§ 3c Absatz 4 EStG Verlustreihenfolge: bestehende Verlustvorträg
 - **§ 10a Sätze 2-3 GewStG** — Mindestbesteuerung GewSt.
 - **§ 3a Abs. 1, 4 EStG** — Steuerbefreiung Sanierungsertrag.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Verrechnungsreihenfolge nach § 3c Abs. 4 EStG
 
@@ -79,22 +79,22 @@ description: "§ 3c Absatz 4 EStG Verlustreihenfolge: bestehende Verlustvorträg
 ### Berechnungsbeispiel mit Mindestbesteuerung
 
 ```
-Sanierungsertrag brutto                EUR 2.000.000
+Sanierungsertrag brutto EUR 2.000.000
 abzgl. zugehörige Aufwendungen
-       § 3c Abs. 1 EStG                EUR  -150.000
-Sanierungsertrag netto                 EUR 1.850.000
+ § 3c Abs. 1 EStG EUR -150.000
+Sanierungsertrag netto EUR 1.850.000
 
-Laufender Verlust Sanierungsjahr       EUR  -200.000
-Sanierungsertrag nach lauf. Verlust    EUR 1.650.000
+Laufender Verlust Sanierungsjahr EUR -200.000
+Sanierungsertrag nach lauf. Verlust EUR 1.650.000
 
-Verlustvortrag § 10d EStG verfügbar    EUR 1.300.000
+Verlustvortrag § 10d EStG verfügbar EUR 1.300.000
 Mindestbesteuerung:
-  Sockel                               EUR 1.000.000
-  + 60 % von (1.650.000 - 1.000.000)   EUR   390.000
-  = maximal nutzbarer Vortrag          EUR 1.390.000
-  begrenzt durch Vortrag               EUR 1.300.000
+ Sockel EUR 1.000.000
+ + 60 % von (1.650.000 - 1.000.000) EUR 390.000
+ = maximal nutzbarer Vortrag EUR 1.390.000
+ begrenzt durch Vortrag EUR 1.300.000
 
-Sanierungsertrag nach Vortrag          EUR   350.000
+Sanierungsertrag nach Vortrag EUR 350.000
 ► steuerfrei § 3a Abs. 1 EStG bei Antrag § 3a Abs. 4 EStG
 ► Verlustvortrag voll verbraucht (EUR 1.300.000 weg)
 ► laufender Verlust (EUR 200.000) verbraucht
@@ -107,7 +107,7 @@ Wenn KEIN Antrag § 3a Abs. 4 EStG gestellt:
 ► § 3a EStG nicht anwendbar
 ► aber § 3c Abs. 4 EStG bleibt Spezialregel?
 ► Lex: ohne Antrag tritt § 3a-Steuerbefreiung nicht ein;
-       Sanierungsertrag voll steuerpflichtig
+ Sanierungsertrag voll steuerpflichtig
 ► Mindestbesteuerung § 10d Abs. 2 EStG greift wie üblich
 ► Verlustverbrauch wie sonst auch
 ```
@@ -115,18 +115,18 @@ Wenn KEIN Antrag § 3a Abs. 4 EStG gestellt:
 ### Berechnungsbeispiel Verlustrücktrag
 
 ```
-Sanierungsjahr Wj X mit Sanierungsertrag        EUR 800.000
-Verlustrücktrag aus Wj X+1 möglich              EUR 200.000
-  (Verlust in X+1 entstanden; § 10d Abs. 1 EStG-Wahlrecht)
+Sanierungsjahr Wj X mit Sanierungsertrag EUR 800.000
+Verlustrücktrag aus Wj X+1 möglich EUR 200.000
+ (Verlust in X+1 entstanden; § 10d Abs. 1 EStG-Wahlrecht)
 
 Reihenfolge § 3c Abs. 4 EStG:
 1. Laufender Verlust Wj X (sofern vorhanden)
 2. Verlustrücktrag Wj X+1 nach Wj X (Wahlrecht ausgeübt)
 3. Verlustvortrag § 10d Abs. 2 EStG
 
-Verbleibender Sanierungsertrag nach Rücktrag    EUR 600.000
-abzgl. Verlustvortrag § 10d Abs. 2 EStG          EUR 600.000
-Restbetrag                                       EUR        0
+Verbleibender Sanierungsertrag nach Rücktrag EUR 600.000
+abzgl. Verlustvortrag § 10d Abs. 2 EStG EUR 600.000
+Restbetrag EUR 0
 
 ► Sanierungsertrag voll verrechnet
 ► Antrag § 3a IV EStG möglicherweise entbehrlich
@@ -138,13 +138,13 @@ Restbetrag                                       EUR        0
 ```
 Anlage zur Steuererklärung Sanierungsjahr:
 - Berechnungsschema § 3c Abs. 4 EStG mit:
-  - Sanierungsertrag brutto
-  - § 3c Abs. 1 EStG-Aufwendungen
-  - Sanierungsertrag netto
-  - Verrechnung laufender Verlust
-  - Verrechnung Rücktrag (falls beantragt)
-  - Verrechnung Vortrag mit Mindestbesteuerung
-  - Steuerfrei zu stellender Restbetrag
+ - Sanierungsertrag brutto
+ - § 3c Abs. 1 EStG-Aufwendungen
+ - Sanierungsertrag netto
+ - Verrechnung laufender Verlust
+ - Verrechnung Rücktrag (falls beantragt)
+ - Verrechnung Vortrag mit Mindestbesteuerung
+ - Steuerfrei zu stellender Restbetrag
 - Vortragsrest zum Jahresende
 - Gewerbeverlust separat (analog § 10a S. 1 GewStG)
 ```

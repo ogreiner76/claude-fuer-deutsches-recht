@@ -1,6 +1,6 @@
 ---
 name: forecast
-description: "Nutze dies, wenn Forecast: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Forecast: Risikoampel, Gegenargumente und Verteidigungslinien prüfen.; Erstelle eine Arbeitsfassung zu Forecast: Risikoampel, Gegenargumente und Verteidigungslinien.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Forecast: Risikoampel, Gegenargumente und Verteidigungslinien: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Forecast: Risikoampel, Gegenargumente und Verteidigungslinien

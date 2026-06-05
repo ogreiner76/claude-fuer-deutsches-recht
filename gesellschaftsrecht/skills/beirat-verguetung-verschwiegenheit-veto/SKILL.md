@@ -1,22 +1,22 @@
 ---
 name: beirat-verguetung-verschwiegenheit-veto
-description: "Nutze dies, wenn Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Dd Findings Extraktion im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Dd Findings Extraktion prüfen.; Erstelle eine Arbeitsfassung zu Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Dd Findings Extraktion.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Verguetung, Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Dd Findings Extraktion
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zustimmungsvorbehalte, Dd Findings Extraktion** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-verguetung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Verguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-verschwiegenheit` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Verschwiegenheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-veto-rechte` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Veto Rechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-zustimmungsvorbehalte` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-verguetung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Verguetung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-verschwiegenheit` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Verschwiegenheit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-veto-rechte` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Veto Rechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-zustimmungsvorbehalte` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `dd-findings-extraktion` | Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskategorien und Wesentlichkeitsschwellen im Findings-Report-Format. Laden wenn der Nutzer Datenraum prüfen, DD-Issues extrahieren aus [Ordner], Due-Diligence-Prüfung oder was ist im VDR sagt oder auf VDR-Dokumente hinweist. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Beirat Vergütung, Beirat Verschwiegenheit, Beirat Veto Rechte, Beirat Zu
 
 ## 1. `beirat-verguetung`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Verguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Verguetung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Verguetung
 
@@ -94,7 +94,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-verschwiegenheit`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Verschwiegenheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Verschwiegenheit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Verschwiegenheit
 
@@ -160,7 +160,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-veto-rechte`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Veto Rechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Veto Rechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Veto Rechte
 
@@ -226,7 +226,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-zustimmungsvorbehalte`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Zustimmungsvorbehalte
 
@@ -454,7 +454,7 @@ Erstellt: [DATUM] | Bearbeiter: [NAME]
 
 Geprüfte Dokumente: [N] von [M] in Kategorie
 Abdeckung: [Alle | >X EUR-Schwelle | Top-N]
-Findings: [N] blockierend  [N] hoch  [N] mittel  [N] niedrig
+Findings: [N] blockierend [N] hoch [N] mittel [N] niedrig
 
 ---
 

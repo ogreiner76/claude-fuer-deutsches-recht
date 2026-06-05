@@ -1,13 +1,13 @@
 ---
 name: bayvgh-bekanntmachung-beweislast-eilantrag
-description: "Nutze dies, wenn Spezial Bayvgh Verhandlung Vergleich Und Eskalation, Spezial Bekanntmachung Beweislast Und Darlegungslast, Spezial Eilantrag 47 Abs 6 Vwgo im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Bayvgh Verhandlung Vergleich Und Eskalation, Spezial Bekanntmachung Beweislast Und Darlegungslast, Spezial Eilantrag 47 Abs 6 Vwgo prüfen.; Erstelle eine Arbeitsfassung zu Spezial Bayvgh Verhandlung Vergleich Und Eskalation, Spezial Bekanntmachung Beweislast Und Darlegungslast, Spezial Eilantrag 47 Abs 6 Vwgo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Bayvgh Verhandlung Vergleich Und Eskalation, Spezial Bekanntmachung Beweislast Und Darlegungslast, Spezial Eilantrag 47 Abs 6 Vwgo
+# Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Bayvgh Verhandlung Vergleich Und Eskalation, Spezial Bekanntmachung Beweislast Und Darlegungslast, Spezial Eilantrag 47 Abs 6 Vwgo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrolle-bauleitplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bayvgh Verhandlung Vergleich Und Eskalation, Bekanntmachung Beweislast Und Darlegungslast, Eilantrag 47 Abs 6 Vwgo** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrolle-bauleitplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Bayvgh Verhandlung Vergleich Und Eskalation, Spezial Bekanntmachu
 # Bayvgh: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Bayvgh: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Bayvgh: Verhandlung, Vergleich und Eskalation / spezial bayvgh verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bayvgh: Verhandlung, Vergleich und Eskalation / bayvgh verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, OVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Bekanntmachung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Bekanntmachung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Bekanntmachung: Beweislast, Darlegungslast und Substantiierung / spezial bekanntmachung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bekanntmachung: Beweislast, Darlegungslast und Substantiierung / bekanntmachung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, OVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,11 +113,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Eilantrag nach § 47 Abs. 6 VwGO
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `normenkontrolle-bauleitplanung`. Kontext des Plugins: Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `normenkontrolle-bauleitplanung`. Kontext des Plugins: Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?

@@ -1,13 +1,13 @@
 ---
 name: rangruecktritt-sanierungsbausteine
-description: "Nutze dies, wenn Spezial Rangruecktritt Formular Portal Und Einreichung, Spezial Sanierungsbausteine Compliance Dokumentation Und Akte, Spezial Selbstdokumentation Dokumentenmatrix Und Lueckenliste im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Rangruecktritt Formular Portal Und Einreichung, Sanierungsbausteine Compliance Dokumentation Und Akte, Selbstdokumentation Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Rangruecktritt Formular Portal Und Einreichung, Spezial Sanierungsbausteine Compliance Dokumentation Und Akte, Spezial Selbstdokumentation Dokumentenmatrix Und Lueckenliste
+# Rangruecktritt Formular Portal Und Einreichung, Sanierungsbausteine Compliance Dokumentation Und Akte, Selbstdokumentation Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rangruecktritt Formular Portal Und Einreichung, Sanierungsbausteine Compliance Dokumentation Und Akte, Selbstdokumentation Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Rangruecktritt Formular Portal Und Einreichung, Spezial Sanierungsbausteine Compliance Dokumentation Und Akte, Spezial Selbstdokumentation Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fortbestehensprognose` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rangruecktritt Formular Portal Und Einreichung, Sanierungsbausteine Compliance Dokumentation Und Akte, Selbstdokumentation Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fortbestehensprognose` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Rangruecktritt Formular Portal Und Einreichung, Spezial Sanierung
 # Rangruecktritt: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Rangruecktritt: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Rangruecktritt: Formular, Portal und Einreichungslogik / spezial rangruecktritt formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rangruecktritt: Formular, Portal und Einreichungslogik / rangruecktritt formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -80,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk / spezial sanierungsbausteine compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Sanierungsbausteine: Compliance-Dokumentation und Aktenvermerk / sanierungsbausteine compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -121,7 +121,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung / spezial selbstdokumentation dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Selbstdokumentation: Dokumentenmatrix, Lückenliste und Nachforderung / selbstdokumentation dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

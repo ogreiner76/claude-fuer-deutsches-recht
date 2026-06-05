@@ -1,6 +1,6 @@
 ---
 name: nkr-digitalcheck-und-onlinezugangsgesetz-ozg
-description: "Spezialskill OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG fuer Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen fuer die Stellungnahme."
+description: "Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG fuer Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen fuer die Stellungnahme."
 ---
 
 # NKR-Digitalcheck und Onlinezugangsgesetz (OZG)

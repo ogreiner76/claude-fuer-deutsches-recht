@@ -8,7 +8,7 @@ description: "Erstellt Einreichungscheck für Kreiswahlvorschlag und Landesliste
 ## Aufgabe
 Erstellt Einreichungscheck für Kreiswahlvorschlag und Landesliste nach BWahlG/BWO und Bundeswahlleiter-Hinweisen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

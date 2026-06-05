@@ -8,7 +8,7 @@ description: "Bauleiter Gesetzgebungsverfahren Bund: Referentenentwurf, Kabinett
 ## Aufgabe
 Bauleiter Gesetzgebungsverfahren Bund: Referentenentwurf, Kabinettsbeschluss, Bundesrat, Bundestag.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -66,10 +66,10 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 - **Adressat**: federführendes Ministerium.
 - **Form**: schriftlich (Brief, E-Mail) und durchnummeriert auf Paragraphen / Sätze.
 - **Inhalt**:
-  - Konkrete Formulierungsvorschläge (statt nur Kritik).
-  - Folgenabschätzung: Erfüllungsaufwand, KMU-Belastung, Umsetzungspraxis.
-  - Rechtsförmlichkeitsprüfung (Handbuch der Rechtsförmlichkeit HdR).
-  - Vergleich zu EU-Vorgaben (Goldplating-Vermeidung).
+ - Konkrete Formulierungsvorschläge (statt nur Kritik).
+ - Folgenabschätzung: Erfüllungsaufwand, KMU-Belastung, Umsetzungspraxis.
+ - Rechtsförmlichkeitsprüfung (Handbuch der Rechtsförmlichkeit HdR).
+ - Vergleich zu EU-Vorgaben (Goldplating-Vermeidung).
 - **Eskalationspunkte** identifizieren: Welche Punkte sind politisch verhandelbar, welche nicht?
 - **Verbündete** suchen: Kontakt zu anderen Verbänden / Mitgliedsunternehmen / Bundesländern.
 

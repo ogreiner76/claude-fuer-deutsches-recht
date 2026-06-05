@@ -1,13 +1,13 @@
 ---
 name: formwahl-zugang-live-prozessablauf
-description: "Nutze dies, wenn Spezial Formwahl Zugang Und Beweis, Spezial Live Zahlen Schwellen Und Berechnung, Spezial Prozessablauf Mandantenentscheidung im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Bitte Spezial Formwahl Zugang Und Beweis, Spezial Live Zahlen Schwellen Und Berechnung, Spezial Prozessablauf Mandantenentscheidung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Formwahl Zugang Und Beweis, Spezial Live Zahlen Schwellen Und Berechnung, Spezial Prozessablauf Mandantenentscheidung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Formwahl Zugang Und Beweis, Live Zahlen Schwellen Und Berechnung, Prozessablauf Mandantenentscheidung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Formwahl Zugang Und Beweis, Spezial Live Zahlen Schwellen Und Berechnung, Spezial Prozessablauf Mandantenentscheidung
+# Formwahl Zugang Und Beweis, Live Zahlen Schwellen Und Berechnung, Prozessablauf Mandantenentscheidung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Formwahl Zugang Und Beweis, Live Zahlen Schwellen Und Berechnung, Prozessablauf Mandantenentscheidung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Formwahl Zugang Und Beweis, Spezial Live Zahlen Schwellen Und Berechnung, Spezial Prozessablauf Mandantenentscheidung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schriftform-und-textform-bgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Formwahl Zugang Und Beweis, Live Zahlen Schwellen Und Berechnung, Prozessablauf Mandantenentscheidung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schriftform-und-textform-bgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,11 +31,11 @@ Für **Spezial Formwahl Zugang Und Beweis, Spezial Live Zahlen Schwellen Und Ber
 # Formwahl, Zugang und Beweisrisiko im BGB und Prozessrecht
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `schriftform-und-textform-bgb`. Kontext des Plugins: Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `schriftform-und-textform-bgb`. Kontext des Plugins: Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -70,7 +70,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # Live: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Live: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Live: Zahlen, Schwellenwerte und Berechnung / spezial live zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Live: Zahlen, Schwellenwerte und Berechnung / live zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ERV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -111,7 +111,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage / spezial prozessablauf mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage / prozessablauf mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ERV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

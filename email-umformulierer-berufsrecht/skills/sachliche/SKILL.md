@@ -1,6 +1,6 @@
 ---
 name: sachliche
-description: "Nutze dies, wenn Sachliche: Schriftsatz-, Brief- und Memo-Bausteine im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Sachliche: Schriftsatz-, Brief- und Memo-Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Sachliche: Schriftsatz-, Brief- und Memo-Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sachliche: Schriftsatz-, Brief- und Memo-Bausteine: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Sachliche: Schriftsatz-, Brief- und Memo-Bausteine

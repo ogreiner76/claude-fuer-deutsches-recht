@@ -34,7 +34,7 @@ Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen 
 - **BFSG** für Verbraucherrobotik.
 - **EU-Grundrechtecharta** Art. 21 Diskriminierungsverbot.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Use-Case-spezifische Datenanforderungen.** Was muss der Roboter erkennen, in welcher Umgebung, bei welcher Bevölkerung?
 2. **Data Sheet** je Datensatz: Quelle, Sammelmethode, Annotatoren, Lizenzen, Verteilungsstatistiken nach geschützten Merkmalen (soweit zulässig erhebbar).

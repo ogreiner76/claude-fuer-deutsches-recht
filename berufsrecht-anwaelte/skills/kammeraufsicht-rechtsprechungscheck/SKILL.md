@@ -1,13 +1,13 @@
 ---
 name: kammeraufsicht-rechtsprechungscheck
-description: "Nutze dies, wenn Anwälte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwälte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwälte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck, Anwälte Beweisfuehrung Im Berufsverfahren Kammerantwort Und Ve im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwälte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwälte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck, Anwälte Beweisfuehrung Im Berufsverfahren Kammerantwort Und Ve prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwälte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwälte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck, Anwälte Beweisfuehrung Im Berufsverfahren Kammerantwort Und..."
+description: "Nutze dies bei Anwaelte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwaelte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwaelte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwälte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwälte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck, Anwälte Beweisfuehrung Im Berufsverfahren Kammerantwort Und Ve
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Vergleich Mit Kammeraufsicht Rechtsprechungscheck Und, Anwälte Verschwiegenheit Cloud Outsourcing Rechtsprechungschec, Anwälte Werbung Google Ads Und Linkedin Rechtsprechungscheck U, Quellen Und Rechtsprechungscheck, Anwälte Beweisfuehrung Im Berufsverfahren Kammerantwort Und Ve** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,23 +1,23 @@
 ---
 name: betriebsfeier-drogen-sexuelle-betriebsrat
-description: "Nutze dies, wenn Betriebsfeier Drogen Alkohol Vorfall, Betriebsfeier Sexuelle Belaestigung Intake, Betriebsrat Anhoerung Kündigung 102, Betriebsrat Gruendung Reagieren, Betriebsrat Mitbestimmung 87 Router im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Betriebsfeier Drogen Alkohol Vorfall, Betriebsfeier Sexuelle Belaestigung Intake, Betriebsrat Anhoerung Kündigung 102, Betriebsrat Gruendung Reagieren, Betriebsrat Mitbestimmung 87 Router prüfen.; Erstelle eine Arbeitsfassung zu Betriebsfeier Drogen Alkohol Vorfall, Betriebsfeier Sexuelle Belaestigung Intake, Betriebsrat Anhoerung Kündigung 102, Betriebsrat Gruendung Reagieren, Betriebsrat Mitbestimmung 87 Router.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betriebsfeier Drogen Alkohol Vorfall, Betriebsfeier Sexuelle Belaestigung Intake, Betriebsrat Anhoerung Kündigung 102, Betriebsrat Gruendung Reagieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Betriebsfeier Drogen Alkohol Vorfall, Betriebsfeier Sexuelle Belaestigung Intake, Betriebsrat Anhoerung Kündigung 102, Betriebsrat Gruendung Reagieren, Betriebsrat Mitbestimmung 87 Router
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Betriebsfeier Drogen Alkohol Vorfall, Betriebsfeier Sexuelle Belaestigung Intake, Betriebsrat Anhoerung Kündigung 102, Betriebsrat Gruendung Reagieren, Betriebsrat Mitbestimmung 87 Router** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `betriebsfeier-drogen-alkohol-vorfall` | Berliner Start-up-HR: Drogen-/Alkoholvorfall bei Betriebsfeier: Fürsorge, Arbeitsschutz, Beweise, Sanktionen, Datenschutz und Wiederholungsschutz. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `betriebsfeier-sexuelle-belaestigung-intake` | Berliner Start-up-HR: Sexuelle Belästigung bei Betriebsfeier: Sofortschutz, AGG-Beschwerde, Untersuchung, Verhältnismäßigkeit und Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `betriebsrat-anhoerung-kuendigung-102` | Berliner Start-up-HR: Betriebsratsanhörung vor Kündigung: vollständige Unterrichtung, Fristen, Nachschieben, Widerspruch und Dokumentation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `betriebsrat-gruendung-reagieren` | Berliner Start-up-HR: Wenn Beschäftigte Betriebsrat gründen wollen: neutral bleiben, Schutzrechte, Kommunikation, Wahlvorstand und Management-Briefing. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `betriebsrat-mitbestimmung-87-router` | Berliner Start-up-HR: Mitbestimmung nach § 87 BetrVG im Alltag: Arbeitszeit, Überstunden, Monitoring, Ordnung, Vergütung, Softwaretools. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `betriebsfeier-drogen-alkohol-vorfall` | Berliner Start-up-HR: Drogen-/Alkoholvorfall bei Betriebsfeier: Fürsorge, Arbeitsschutz, Beweise, Sanktionen, Datenschutz und Wiederholungsschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `betriebsfeier-sexuelle-belaestigung-intake` | Berliner Start-up-HR: Sexuelle Belästigung bei Betriebsfeier: Sofortschutz, AGG-Beschwerde, Untersuchung, Verhältnismäßigkeit und Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `betriebsrat-anhoerung-kuendigung-102` | Berliner Start-up-HR: Betriebsratsanhörung vor Kündigung: vollständige Unterrichtung, Fristen, Nachschieben, Widerspruch und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `betriebsrat-gruendung-reagieren` | Berliner Start-up-HR: Wenn Beschäftigte Betriebsrat gründen wollen: neutral bleiben, Schutzrechte, Kommunikation, Wahlvorstand und Management-Briefing. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `betriebsrat-mitbestimmung-87-router` | Berliner Start-up-HR: Mitbestimmung nach § 87 BetrVG im Alltag: Arbeitszeit, Überstunden, Monitoring, Ordnung, Vergütung, Softwaretools. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Betriebsfeier Drogen Alkohol Vorfall, Betriebsfeier Sexuelle Belaestigung
 
 ## 1. `betriebsfeier-drogen-alkohol-vorfall`
 
-**Fokus:** Berliner Start-up-HR: Drogen-/Alkoholvorfall bei Betriebsfeier: Fürsorge, Arbeitsschutz, Beweise, Sanktionen, Datenschutz und Wiederholungsschutz. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Drogen-/Alkoholvorfall bei Betriebsfeier: Fürsorge, Arbeitsschutz, Beweise, Sanktionen, Datenschutz und Wiederholungsschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Betriebsfeier Drogen Alkohol Vorfall
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Vorfälle
 **Fokus:** Drogen-/Alkoholvorfall bei Betriebsfeier: Fürsorge, Arbeitsschutz, Beweise, Sanktionen, Datenschutz und Wiederholungsschutz.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `betriebsfeier-sexuelle-belaestigung-intake`
 
-**Fokus:** Berliner Start-up-HR: Sexuelle Belästigung bei Betriebsfeier: Sofortschutz, AGG-Beschwerde, Untersuchung, Verhältnismäßigkeit und Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Sexuelle Belästigung bei Betriebsfeier: Sofortschutz, AGG-Beschwerde, Untersuchung, Verhältnismäßigkeit und Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Betriebsfeier Sexuelle Belaestigung Intake
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Vorfälle
 **Fokus:** Sexuelle Belästigung bei Betriebsfeier: Sofortschutz, AGG-Beschwerde, Untersuchung, Verhältnismäßigkeit und Kommunikation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `betriebsrat-anhoerung-kuendigung-102`
 
-**Fokus:** Berliner Start-up-HR: Betriebsratsanhörung vor Kündigung: vollständige Unterrichtung, Fristen, Nachschieben, Widerspruch und Dokumentation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Betriebsratsanhörung vor Kündigung: vollständige Unterrichtung, Fristen, Nachschieben, Widerspruch und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Betriebsrat Anhoerung Kuendigung 102
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Betriebsrat
 **Fokus:** Betriebsratsanhörung vor Kündigung: vollständige Unterrichtung, Fristen, Nachschieben, Widerspruch und Dokumentation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `betriebsrat-gruendung-reagieren`
 
-**Fokus:** Berliner Start-up-HR: Wenn Beschäftigte Betriebsrat gründen wollen: neutral bleiben, Schutzrechte, Kommunikation, Wahlvorstand und Management-Briefing. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Wenn Beschäftigte Betriebsrat gründen wollen: neutral bleiben, Schutzrechte, Kommunikation, Wahlvorstand und Management-Briefing. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Betriebsrat Gruendung Reagieren
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Betriebsrat
 **Fokus:** Wenn Beschäftigte Betriebsrat gründen wollen: neutral bleiben, Schutzrechte, Kommunikation, Wahlvorstand und Management-Briefing.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `betriebsrat-mitbestimmung-87-router`
 
-**Fokus:** Berliner Start-up-HR: Mitbestimmung nach § 87 BetrVG im Alltag: Arbeitszeit, Überstunden, Monitoring, Ordnung, Vergütung, Softwaretools. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Mitbestimmung nach § 87 BetrVG im Alltag: Arbeitszeit, Überstunden, Monitoring, Ordnung, Vergütung, Softwaretools. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Betriebsrat Mitbestimmung 87 Router
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Betriebsrat
 **Fokus:** Mitbestimmung nach § 87 BetrVG im Alltag: Arbeitszeit, Überstunden, Monitoring, Ordnung, Vergütung, Softwaretools.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

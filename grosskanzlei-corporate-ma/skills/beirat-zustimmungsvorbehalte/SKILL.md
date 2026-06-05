@@ -1,6 +1,6 @@
 ---
 name: beirat-zustimmungsvorbehalte
-description: "Nutze dies, wenn Beirat Zustimmungsvorbehalte im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Zustimmungsvorbehalte prüfen.; Erstelle eine Arbeitsfassung zu Beirat Zustimmungsvorbehalte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Zustimmungsvorbehalte: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Zustimmungsvorbehalte

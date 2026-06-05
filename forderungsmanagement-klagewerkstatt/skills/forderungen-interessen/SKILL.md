@@ -1,6 +1,6 @@
 ---
 name: forderungen-interessen
-description: "Nutze dies, wenn Forderungen: Mehrparteienkonflikt und Interessenmatrix im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Forderungen: Mehrparteienkonflikt und Interessenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Forderungen: Mehrparteienkonflikt und Interessenmatrix.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Forderungen: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Forderungen: Mehrparteienkonflikt und Interessenmatrix

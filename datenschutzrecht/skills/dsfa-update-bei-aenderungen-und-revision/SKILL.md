@@ -31,12 +31,12 @@ Steuerung der Aktualisierung einer bestehenden DSFA bei wesentlichen Aenderungen
 
 1. **Verarbeitungsbeschreibung.** Aktuellen Stand der Verarbeitung erfassen und mit der dokumentierten DSFA-Version vergleichen.
 2. **Verhaeltnismaessigkeitspruefung.** Aenderung wesentlich? Schwellenwerte:
-   - Neue oder weggefallene Zweck
-   - Neue Datenkategorie
-   - Neue Empfaenger oder neuer Drittlandtransfer
-   - Neue Technologie
-   - Neue Aufbewahrungsfrist (> 50 Prozent Verlaengerung)
-   - Aufsichtsbehoerden- oder Rechtsprechungsaenderung
+ - Neue oder weggefallene Zweck
+ - Neue Datenkategorie
+ - Neue Empfaenger oder neuer Drittlandtransfer
+ - Neue Technologie
+ - Neue Aufbewahrungsfrist (> 50 Prozent Verlaengerung)
+ - Aufsichtsbehoerden- oder Rechtsprechungsaenderung
 3. **Risikoanalyse.** Erneute Risikoanalyse nach Methodik des urspruenglichen DSFA-Skills; Risikomatrix vor und nach erneuten Massnahmen.
 4. **Massnahmen.** Pruefung, ob bestehende Massnahmen ausreichen oder ergaenzt werden muessen.
 5. **Restrisiko.** Vergleich Restrisiko alt versus neu; ggf. neue Art. 36 Konsultation.
@@ -92,9 +92,9 @@ Unterschrift DSB: ____________________
 
 Versionshistorie
 | Version | Datum | Aenderung | Autor | Freigabe |
-| 1.0     | [...] | Erstfassung | [...] | [...] |
-| 1.1     | [...] | [...] | [...] | [...] |
-| 2.0     | [...] | [...] | [...] | [...] |
+| 1.0 | [...] | Erstfassung | [...] | [...] |
+| 1.1 | [...] | [...] | [...] | [...] |
+| 2.0 | [...] | [...] | [...] | [...] |
 ```
 
 ## Empfohlene Revisionsfrequenz

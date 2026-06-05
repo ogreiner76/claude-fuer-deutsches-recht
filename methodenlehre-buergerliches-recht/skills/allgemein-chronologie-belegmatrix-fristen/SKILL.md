@@ -1,19 +1,19 @@
 ---
 name: allgemein-chronologie-belegmatrix-fristen
-description: "Nutze dies, wenn Allgemein, Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation, Workflow Redteam Qualitygate im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Allgemein, Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation, Workflow Redteam Qualitygate prüfen.; Erstelle eine Arbeitsfassung zu Allgemein, Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation, Workflow Redteam Qualitygate.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Allgemein, Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation, Workflow Redteam Qualitygate
+# Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation, Redteam Qualitygate
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation, Redteam Qualitygate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage. |
+| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. |
 | `workflow-chronologie-und-belegmatrix` | Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat. Es zeigt, wie zeitliche Abläufe für Verjährungs- und Fristprüfungen aufbereitet werden, wie Belege tabellarisch den Tatbestandsmerkmalen zugeordnet werden und wie Chronologie und Belegmatrix zusammen die Grundlage für Gutachten, Schriftsatz und Mandatskommunikation bilden. Das Skill sichert lückenlose Nachvollziehbarkeit des gesamten Sachverhaltsverlaufs. |
 | `workflow-fristen-und-risikoampel` | Dieses Skill verbindet die systematische Fristenüberwachung mit einer integrierten Risikoampel für zivilrechtliche Mandate. Es zeigt, wie alle mandatsrelevanten Fristen in einem einheitlichen System erfasst werden, wie kritische Fristen durch ein Ampelsystem (grün, gelb, rot) nach Dringlichkeit priorisiert werden und wie Anwälte sicherstellen, dass keine Frist versäumt wird. Das Skill reduziert das Haftungsrisiko und sichert die methodische Qualität der Mandatsführung durch proaktive Fristenkontrolle. |
 | `workflow-mandantenkommunikation` | Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate. Es zeigt, wie rechtliche Einschätzungen mandantengerecht übersetzt werden, welche Informationen zu welchem Zeitpunkt des Mandats mitgeteilt werden müssen und wie schriftliche und mündliche Kommunikation methodisch so aufgebaut wird, dass Mandanten informierte Entscheidungen treffen können. Besonderes Gewicht liegt auf der Aufklärungspflicht, der Dokumentation von Kommunikationsinhalten und der Haftungsreduktion durch vollständige Informationsweitergabe. |
@@ -21,21 +21,21 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Allgemein, Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation, Workflow Redteam Qualitygate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation, Redteam Qualitygate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `allgemein`
 
-**Fokus:** Einstieg, Schnelltriage und Workflow-Routing im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage.
+**Fokus:** Einstieg, Schnelltriage und Fallrouting im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
 - **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
 - **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
 - **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Spezial-Skills dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
+- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
@@ -54,7 +54,7 @@ Für **Allgemein, Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Ris
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Methodenlehre Buergerliches Recht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Methodenlehre Buergerliches Recht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
 **Plugin-Fokus:** Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung. Verjährung.
 
@@ -68,7 +68,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
 3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
 4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Spezial-Skill aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
+5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
 6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
 
 **Was du bei stummem Upload nicht machst:**
@@ -108,7 +108,7 @@ Arbeite danach in dieser Reihenfolge:
 1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
 2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
 3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+4. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
 5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
 6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
 
@@ -119,7 +119,7 @@ Arbeite danach in dieser Reihenfolge:
 - Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
 - Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
 
 ### 4. Antwortformat für den Einstieg
 
@@ -144,7 +144,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 **Nächste Frage**
 [Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
 
-### 5. Spezial-Skills in diesem Plugin
+### 5. Fachmodule in diesem Plugin
 
 Das Plugin enthält 20 Skills, gegliedert in fünf Blöcke. Für eine konkrete zivilrechtliche Bewertung reicht meistens `methodenlehre-anwenden` plus ein oder zwei Vertiefungsskills aus den Auslegungs- oder Rechtsfortbildungs-Blöcken. Die Strömungs-Skills sind für Hausarbeiten, Methoden-Memos und akademische Diskussion gedacht.
 
@@ -162,7 +162,7 @@ Das Plugin enthält 20 Skills, gegliedert in fünf Blöcke. Für eine konkrete z
 | `savigny-vier-auslegungsmethoden` | Wenn das Gerüst der vier Auslegungsmethoden gebraucht wird. Theoretische Grundlage, Werkstand, Verhältnis zur modernen pragmatischen Auslegung. |
 | `wortlaut-grammatikalische-auslegung` | Wenn der Wortlaut trägt oder als Grenze diskutiert werden muss. Legaldefinitionen, Mehrdeutigkeit, unbestimmte Rechtsbegriffe. |
 | `systematische-auslegung` | Wenn Stellung der Norm, Nachbarnormen, Verweisungen oder Konkordanz mit HGB/ZPO/GG/Unionsrecht den Ausschlag geben. |
-| `historische-auslegung` | Wenn Gesetzesmaterialien Argumente liefern. Bundestags-Drucksachen, Ausschussberichte, Schuldrechtsmodernisierung 2002 und neuere Reformen. Workflow über dipbt.bundestag.de. |
+| `historische-auslegung` | Wenn Gesetzesmaterialien Argumente liefern. Bundestags-Drucksachen, Ausschussberichte, Schuldrechtsmodernisierung 2002 und neuere Reformen. über dipbt.bundestag.de. |
 | `teleologische-auslegung` | Wenn Sinn und Zweck der Norm das stärkste Argument ist — in der BGH-Praxis fast immer. Schutzzwecknormen. |
 
 **Block C — Verfassungs- und Unionsrechtskonforme Auslegung**
@@ -209,7 +209,7 @@ Das Plugin enthält 20 Skills, gegliedert in fünf Blöcke. Für eine konkrete z
 - Arbeite schnell, aber nicht hektisch.
 - Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert.
 - Mache Annahmen sichtbar und halte sie knapp.
-- Schlage passende Spezial-Skills aus diesem Plugin vor, bevor du in Randthemen ausweichst.
+- Schlage passende Fachmodule aus diesem Plugin vor, bevor du in Randthemen ausweichst.
 - Liefere am Ende immer einen klaren nächsten Schritt.
 
 ---
@@ -229,10 +229,10 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 **Fokus:** Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat. Es zeigt, wie zeitliche Abläufe für Verjährungs- und Fristprüfungen aufbereitet werden, wie Belege tabellarisch den Tatbestandsmerkmalen zugeordnet werden und wie Chronologie und Belegmatrix zusammen die Grundlage für Gutachten, Schriftsatz und Mandatskommunikation bilden. Das Skill sichert lückenlose Nachvollziehbarkeit des gesamten Sachverhaltsverlaufs.
 
-# Chronologie und Belegmatrix: Workflow für strukturierte Sachverhaltserfassung
+# Chronologie und Belegmatrix: für strukturierte Sachverhaltserfassung
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Chronologie und Belegmatrix: Workflow für strukturierte Sachverhaltserfassung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Chronologie und Belegmatrix: für strukturierte Sachverhaltserfassung` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -413,10 +413,10 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 **Fokus:** Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate. Es zeigt, wie rechtliche Einschätzungen mandantengerecht übersetzt werden, welche Informationen zu welchem Zeitpunkt des Mandats mitgeteilt werden müssen und wie schriftliche und mündliche Kommunikation methodisch so aufgebaut wird, dass Mandanten informierte Entscheidungen treffen können. Besonderes Gewicht liegt auf der Aufklärungspflicht, der Dokumentation von Kommunikationsinhalten und der Haftungsreduktion durch vollständige Informationsweitergabe.
 
-# Workflow Mandantenkommunikation
+# Mandantenkommunikation
 
 ## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow Mandantenkommunikation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandantenkommunikation` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
 - **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
@@ -424,13 +424,13 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-Rechtliche Beratung ist nur so gut wie ihre Kommunikation. Anwälte haben eine gesetzliche Aufklärungspflicht — und eine Haftungsexposition, wenn sie dieser nicht nachkommen. Dieser Workflow strukturiert die gesamte Mandantenkommunikation von der Erstberatung bis zur Mandatsübergabe und sichert methodische Vollständigkeit und Verständlichkeit.
+Rechtliche Beratung ist nur so gut wie ihre Kommunikation. Anwälte haben eine gesetzliche Aufklärungspflicht — und eine Haftungsexposition, wenn sie dieser nicht nachkommen. Dieser strukturiert die gesamte Mandantenkommunikation von der Erstberatung bis zur Mandatsübergabe und sichert methodische Vollständigkeit und Verständlichkeit.
 
 ## Mandantenfall
 
-- Eine Mandantin mit geringen Rechtskenntnissen soll über ihre Erfolgsaussichten in einem Mietrechtsstreit informiert werden. Der Workflow hilft, die rechtliche Einschätzung in verständlicher Sprache zu vermitteln, ohne an Präzision zu verlieren.
-- Ein Unternehmer erhält eine komplexe Risikoanalyse mit mehreren Szenarien. Der Workflow hilft, die Informationen so zu strukturieren, dass der Mandant die Kernbotschaft sofort versteht und eine informierte Entscheidung über das weitere Vorgehen treffen kann.
-- Eine Mandantin lehnt einen Vergleich ab, obwohl ihr Anwalt ihn empfohlen hat. Der Workflow zeigt, wie die Risikoaufklärung vollständig dokumentiert wird, sodass die Entscheidung der Mandantin und die Empfehlung des Anwalts haftungsrechtlich klar sind.
+- Eine Mandantin mit geringen Rechtskenntnissen soll über ihre Erfolgsaussichten in einem Mietrechtsstreit informiert werden. Der hilft, die rechtliche Einschätzung in verständlicher Sprache zu vermitteln, ohne an Präzision zu verlieren.
+- Ein Unternehmer erhält eine komplexe Risikoanalyse mit mehreren Szenarien. Der hilft, die Informationen so zu strukturieren, dass der Mandant die Kernbotschaft sofort versteht und eine informierte Entscheidung über das weitere Vorgehen treffen kann.
+- Eine Mandantin lehnt einen Vergleich ab, obwohl ihr Anwalt ihn empfohlen hat. Der zeigt, wie die Risikoaufklärung vollständig dokumentiert wird, sodass die Entscheidung der Mandantin und die Empfehlung des Anwalts haftungsrechtlich klar sind.
 
 ## Erste Schritte
 

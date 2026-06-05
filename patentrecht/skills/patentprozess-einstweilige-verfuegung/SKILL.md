@@ -1,13 +1,13 @@
 ---
 name: patentprozess-einstweilige-verfuegung
-description: "Nutze dies, wenn Patentprozess Einstweilige Verfuegung De Upc, Patentprozess Experten Und Sachverstaendige, Patentprozess Kostensicherheit Und Budget im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Patentprozess Einstweilige Verfuegung De Upc, Patentprozess Experten Und Sachverstaendige, Patentprozess Kostensicherheit Und Budget prüfen.; Erstelle eine Arbeitsfassung zu Patentprozess Einstweilige Verfuegung De Upc, Patentprozess Experten Und Sachverstaendige, Patentprozess Kostensicherheit Und Budget.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentprozess Einstweilige Verfuegung De Upc, Patentprozess Experten Und Sachverstaendige, Patentprozess Kostensicherheit Und Budget: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentprozess Einstweilige Verfuegung De Upc, Patentprozess Experten Und Sachverstaendige, Patentprozess Kostensicherheit Und Budget
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentprozess Einstweilige Verfuegung De Upc, Patentprozess Experten Und Sachverstaendige, Patentprozess Kostensicherheit Und Budget** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Patentprozess Einstweilige Verfuegung De Upc, Patentprozess Experten Und 
 
 Eilverfahren mit deutscher und UPC-Perspektive.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
@@ -92,7 +92,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 Technische Evidenz gerichts- und verhandlungsfest machen.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
@@ -150,7 +150,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 Budgetfähigkeit und Prozessökonomie vor Patentdurchsetzung oder Verteidigung.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 

@@ -1,13 +1,13 @@
 ---
 name: anwaelte-legal-tech-mandatskuendigung-unzeit
-description: "Nutze dies, wenn Anwälte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwälte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwälte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwälte Robe Werbung Und Gerichtstermin Kammerantwort Und Verf, Anwälte Robe Werbung Und Gerichtstermin Organisationspflicht U im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwälte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwälte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwälte Robe Werbung Und Gerichtstermin Kammerantwort Und Verf, Anwälte Robe Werbung Und Gerichtstermin Organisationspflicht U prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwälte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwälte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwälte Robe Werbung Und Gerichts..."
+description: "Nutze dies bei Anwaelte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwaelte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwaelte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwaelte Robe Werbung Und Gerichtstermin Kammerantwort Und Verf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwälte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwälte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwälte Robe Werbung Und Gerichtstermin Kammerantwort Und Verf, Anwälte Robe Werbung Und Gerichtstermin Organisationspflicht U
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Legal Tech Rdg Grenze Organisationspflicht Und Praeven, Anwälte Mandatskuendigung Zur Unzeit Kammerantwort Und Verfahr, Anwälte Mandatskuendigung Zur Unzeit Organisationspflicht Und, Anwälte Robe Werbung Und Gerichtstermin Kammerantwort Und Verf, Anwälte Robe Werbung Und Gerichtstermin Organisationspflicht U** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

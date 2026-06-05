@@ -1,13 +1,13 @@
 ---
 name: fazugang-einwurf-einschreiben-zugang-urlaub
-description: "Nutze dies, wenn Fazugang Neu 002 Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Neu 003 Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Neu 004 Inhalt Des Umschlags Bestreiten Und Beweisangeb im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fazugang Neu 002 Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Neu 003 Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Neu 004 Inhalt Des Umschlags Bestreiten Und Beweisangeb prüfen.; Erstelle eine Arbeitsfassung zu Fazugang Neu 002 Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Neu 003 Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Neu 004 Inhalt Des Umschlags Bestreiten Und Beweisangeb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fazugang Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Inhalt Des Umschlags Bestreiten Und Beweisangeb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Fazugang Neu 002 Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Neu 003 Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Neu 004 Inhalt Des Umschlags Bestreiten Und Beweisangeb
+# Fazugang Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Inhalt Des Umschlags Bestreiten Und Beweisangeb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fazugang Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Inhalt Des Umschlags Bestreiten Und Beweisangeb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Fazugang Neu 002 Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Neu 003 Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Neu 004 Inhalt Des Umschlags Bestreiten Und Beweisangeb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fazugang Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Inhalt Des Umschlags Bestreiten Und Beweisangeb** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,7 +42,7 @@ Für **Fazugang Neu 002 Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang
 ## Zweck
 Vollständige Analyse der Zustellungsrisiken bei Nutzung des Einschreibens zur Kündigungszustellung. Häufiger Fehler: Arbeitgeber glaubt, mit Einschreiben sei der Zugang gesichert — das Gegenteil kann der Fall sein.
 
-## Kaltstart
+## Einstieg
 Wenn ein Sachverhalt vorliegt (Kündigungsschreiben wurde per Einschreiben versandt), zuerst die Fakten klären:
 
 1. **Einschreibentyp:** Einwurf-Einschreiben oder Übergabe-Einschreiben (mit/ohne Rückschein)?
@@ -152,7 +152,7 @@ Das BAG hat keine feste Zugangsvermutung für Einschreiben entwickelt. Stattdess
 ## Zweck
 Klärung des Zugangszeitpunkts bei Kündigung oder anderen fristauslösenden Erklärungen, wenn der Empfänger zum Zeitpunkt der Zustellung abwesend war. Häufig streitiger Ausgangspunkt für die Berechnung der 3-Wochen-Frist § 4 KSchG.
 
-## Kaltstart
+## Einstieg
 Wenn ein Sachverhalt vorliegt, zuerst die Fakten sichern:
 
 1. **Art der Abwesenheit:** Urlaub (geplant, bekannt?), Krankheit (zuhause oder stationär?), Klinikaufenthalt (wie lange?), Auslandsaufenthalt (zeitweise oder dauerhaft)?
@@ -252,7 +252,7 @@ Wenn der Arbeitnehmer die Klagefrist nach § 4 KSchG unverschuldet versäumt hat
 ## Zweck
 Vollständige Analyse, wann und wie der Inhalt eines zugestellten Umschlags zulässig bestritten werden kann — mit Blick auf Beweislast, prozessuale Konsequenzen und die Grenze zur unzulässigen Schutzbehauptung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Sachverhalt vorliegt, zuerst klären:
 
 1. **Was wird bestritten?** Nur der Inhalt (leerer Umschlag, falsches Dokument) oder auch die Zustellung selbst?

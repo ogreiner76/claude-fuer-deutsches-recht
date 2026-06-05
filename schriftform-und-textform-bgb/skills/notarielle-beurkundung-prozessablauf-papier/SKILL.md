@@ -1,13 +1,13 @@
 ---
 name: notarielle-beurkundung-prozessablauf-papier
-description: "Nutze dies, wenn Notarielle Beurkundung Und Oeffentliche Beglaubigung, Prozessablauf Papier Vs Elektronisch, Schriftform Paragraph 126 Bgb Eigenhaendige Unterschrift im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Bitte Notarielle Beurkundung Und Oeffentliche Beglaubigung, Prozessablauf Papier Vs Elektronisch, Schriftform Paragraph 126 Bgb Eigenhaendige Unterschrift prüfen.; Erstelle eine Arbeitsfassung zu Notarielle Beurkundung Und Oeffentliche Beglaubigung, Prozessablauf Papier Vs Elektronisch, Schriftform Paragraph 126 Bgb Eigenhaendige Unterschrift.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notarielle Beurkundung Und Oeffentliche Beglaubigung, Prozessablauf Papier Vs Elektronisch, Schriftform Paragraph 126 Bgb Eigenhaendige Unterschrift: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notarielle Beurkundung Und Oeffentliche Beglaubigung, Prozessablauf Papier Vs Elektronisch, Schriftform Paragraph 126 Bgb Eigenhaendige Unterschrift
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notarielle Beurkundung Und Oeffentliche Beglaubigung, Prozessablauf Papier Vs Elektronisch, Schriftform Paragraph 126 Bgb Eigenhaendige Unterschrift** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -191,7 +191,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - § 46h ArbGG — arbeitsgerichtliche Formfiktion
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Referenzanker: `references/amtlicher-formkern-bgb-zpo.md`
-- Spezialskill: `amtlicher-formkern-bgb-zpo-check`
+- Fachmodul: `amtlicher-formkern-bgb-zpo-check`
 
 ## Workflow
 
@@ -199,135 +199,135 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Schritt 1: Dokument erstellen
-  → Vertragstext / Kündigung / Bürgschaft auf Papier erstellen
-  → Ggf. in zwei gleichlautenden Exemplaren (bei Vertragsabschluss)
+ → Vertragstext / Kündigung / Bürgschaft auf Papier erstellen
+ → Ggf. in zwei gleichlautenden Exemplaren (bei Vertragsabschluss)
 
 Schritt 2: Unterschrift
-  → Eigenhändige Unterschrift mit Kugelschreiber oder Füller
-  → Unterschrift räumlich unter dem gesamten Text
-  → Bei Vertrag: beide Parteien auf demselben oder auf gleichlautenden Exemplaren
+ → Eigenhändige Unterschrift mit Kugelschreiber oder Füller
+ → Unterschrift räumlich unter dem gesamten Text
+ → Bei Vertrag: beide Parteien auf demselben oder auf gleichlautenden Exemplaren
 
 Schritt 3: Übergabe / Versand
-  Option A — Bote (sicherste Methode):
-    → Bote (ggf. angestellte Person oder Gerichtsvollzieher) übergibt Original
-    → Empfänger unterschreibt Quittung oder Zeuge bestätigt Übergabe
-    → Quittung / Zeugenprotokoll in Akte
+ Option A — Bote (sicherste Methode):
+ → Bote (ggf. angestellte Person oder Gerichtsvollzieher) übergibt Original
+ → Empfänger unterschreibt Quittung oder Zeuge bestätigt Übergabe
+ → Quittung / Zeugenprotokoll in Akte
 
-  Option B — Einschreiben mit Rückschein:
-    → Original einlegen, versiegeln, als Einschreiben/Rückschein aufgeben
-    → Rückschein aufbewahren (beweist Übergabe, nicht Inhalt)
-    → Kopie des Dokuments in Akte
+ Option B — Einschreiben mit Rückschein:
+ → Original einlegen, versiegeln, als Einschreiben/Rückschein aufgeben
+ → Rückschein aufbewahren (beweist Übergabe, nicht Inhalt)
+ → Kopie des Dokuments in Akte
 
-  Option C — Gerichtlicher Gerichtsvollzieher (§ 132 BGB):
-    → Bei streitigem Empfänger: Antrag auf Zustellung durch GV
-    → Kostenpflichtig, aber höchster Beweiswert
+ Option C — Gerichtlicher Gerichtsvollzieher (§ 132 BGB):
+ → Bei streitigem Empfänger: Antrag auf Zustellung durch GV
+ → Kostenpflichtig, aber höchster Beweiswert
 
 Schritt 4: Zugang dokumentieren
-  → Rückschein / Quittung / GV-Protokoll archivieren
-  → Datum des Zugangs festhalten
+ → Rückschein / Quittung / GV-Protokoll archivieren
+ → Datum des Zugangs festhalten
 ```
 
 ### Prozess B — qES-Dokument (elektronische Form § 126a BGB)
 
 ```
 Schritt 1: Dokument erstellen
-  → Vertragstext als PDF/A erstellen (maschinenlesbares Format)
-  → Alle Seiten nummerieren
+ → Vertragstext als PDF/A erstellen (maschinenlesbares Format)
+ → Alle Seiten nummerieren
 
 Schritt 2: Qualifizierte Signatur anbringen
-  → Zugang zu qualifiziertem Vertrauensdiensteanbieter (z. B. D-Trust, Swisscom)
-  → Signatur in die PDF-Datei einbetten (nicht: Bild der Unterschrift einfügen)
-  → Zertifikats-Gültigkeit prüfen (Ablaufdatum, OCSP-Status)
-  → Dokument als PDF/A-LTV speichern (Langzeitvalidierung)
+ → Zugang zu qualifiziertem Vertrauensdiensteanbieter (z. B. D-Trust, Swisscom)
+ → Signatur in die PDF-Datei einbetten (nicht: Bild der Unterschrift einfügen)
+ → Zertifikats-Gültigkeit prüfen (Ablaufdatum, OCSP-Status)
+ → Dokument als PDF/A-LTV speichern (Langzeitvalidierung)
 
 Schritt 3: Elektronische Übermittlung
-  → PDF-Datei als E-Mail-Anhang an Empfänger senden
-  → NICHT ausdrucken — nur digitale Übermittlung wahrt Formwirksamkeit
-  → In der E-Mail deutlichen Hinweis: "Rechtliches Dokument mit qES"
-  → Bei mehreren Empfängern: für jeden Empfänger separate Zustellung
+ → PDF-Datei als E-Mail-Anhang an Empfänger senden
+ → NICHT ausdrucken — nur digitale Übermittlung wahrt Formwirksamkeit
+ → In der E-Mail deutlichen Hinweis: "Rechtliches Dokument mit qES"
+ → Bei mehreren Empfängern: für jeden Empfänger separate Zustellung
 
 Schritt 4: Zugangssicherung
-  → Eingangsbestätigung des Empfängers per Antwort-E-Mail anfordern
-  → Sendebericht der E-Mail (Auslieferungsnachweis) sichern
-  → Beide in Akte aufnehmen
-  → Alternativ: Plattform mit Lesebestätigung nutzen
+ → Eingangsbestätigung des Empfängers per Antwort-E-Mail anfordern
+ → Sendebericht der E-Mail (Auslieferungsnachweis) sichern
+ → Beide in Akte aufnehmen
+ → Alternativ: Plattform mit Lesebestätigung nutzen
 
 Schritt 5: qES-Validierungsprotokoll erstellen
-  → Signatur des gesendeten Dokuments in Validierungstool prüfen
-  → Validierungsbericht (validator.bund.de oder eIDAS-konformes Tool) in Akte
+ → Signatur des gesendeten Dokuments in Validierungstool prüfen
+ → Validierungsbericht (validator.bund.de oder eIDAS-konformes Tool) in Akte
 ```
 
 ### Prozess B2 — beA-Schriftsatz mit Formfiktion
 
 ```
 Schritt 1: Anwendungsbereich klären
-  → Zivilprozess: § 130e ZPO
-  → Arbeitsgericht: § 46h ArbGG
-  → andere Prozessordnung: ausdrückliche Grundlage suchen
+ → Zivilprozess: § 130e ZPO
+ → Arbeitsgericht: § 46h ArbGG
+ → andere Prozessordnung: ausdrückliche Grundlage suchen
 
 Schritt 2: Erklärung im Schriftsatz formulieren
-  → Willenserklärung klar und unübersehbar aufnehmen
-  → nicht nur Tatsachenvortrag oder Rechtsansicht
-  → Erklärungsträger und Vertretung offenlegen
-  → Vollmacht und § 174 BGB gesondert absichern
+ → Willenserklärung klar und unübersehbar aufnehmen
+ → nicht nur Tatsachenvortrag oder Rechtsansicht
+ → Erklärungsträger und Vertretung offenlegen
+ → Vollmacht und § 174 BGB gesondert absichern
 
 Schritt 3: elektronisch einreichen
-  → qES oder einfache Signatur plus sicherer Übermittlungsweg
-  → bei beA: Versandjournal und Prüfprotokoll sichern
-  → Schriftsatz als vorbereitenden Schriftsatz einordnen
+ → qES oder einfache Signatur plus sicherer Übermittlungsweg
+ → bei beA: Versandjournal und Prüfprotokoll sichern
+ → Schriftsatz als vorbereitenden Schriftsatz einordnen
 
 Schritt 4: Zustellung oder Mitteilung nachweisen
-  → gerichtliche Zustellung, eEB oder Mitteilung dokumentieren
-  → Datum und Empfänger eindeutig in der Akte erfassen
-  → bei Alt-Fällen vor 17.07.2024 nicht rückwirkend mit § 130e arbeiten
+ → gerichtliche Zustellung, eEB oder Mitteilung dokumentieren
+ → Datum und Empfänger eindeutig in der Akte erfassen
+ → bei Alt-Fällen vor 17.07.2024 nicht rückwirkend mit § 130e arbeiten
 
 Schritt 5: Ergebnis trennen
-  → prozessual ordnungsgemäß eingereicht
-  → materielle Form direkt durch qES oder fiktiv durch § 130e/§ 46h
-  → Zugang und Fristbeginn dokumentiert
+ → prozessual ordnungsgemäß eingereicht
+ → materielle Form direkt durch qES oder fiktiv durch § 130e/§ 46h
+ → Zugang und Fristbeginn dokumentiert
 ```
 
 ### Prozess C — Textform per E-Mail (§ 126b BGB)
 
 ```
 Schritt 1: E-Mail verfassen
-  → Absender klar erkennbar (Name in E-Mail-Adresse oder Signatur)
-  → Inhalt der Erklärung vollständig im E-Mail-Text oder als Anhang
-  → Abschluss der Erklärung erkennbar (Name, Datum, Grußformel)
+ → Absender klar erkennbar (Name in E-Mail-Adresse oder Signatur)
+ → Inhalt der Erklärung vollständig im E-Mail-Text oder als Anhang
+ → Abschluss der Erklärung erkennbar (Name, Datum, Grußformel)
 
 Schritt 2: Versand
-  → E-Mail an Empfänger senden
-  → Bei wichtigen Erklärungen: Lesebestätigung anfordern
+ → E-Mail an Empfänger senden
+ → Bei wichtigen Erklärungen: Lesebestätigung anfordern
 
 Schritt 3: Zugang sichern
-  → Sendebericht archivieren (Datum/Uhrzeit des Eingangs im Empfänger-Postfach)
-  → Antwort-E-Mail (Bestätigung) des Empfängers archivieren
-  → Screenshot der gesendeten E-Mail in Akte
+ → Sendebericht archivieren (Datum/Uhrzeit des Eingangs im Empfänger-Postfach)
+ → Antwort-E-Mail (Bestätigung) des Empfängers archivieren
+ → Screenshot der gesendeten E-Mail in Akte
 
 Schritt 4: Physische Sicherung der E-Mail
-  → E-Mail-Thread aus Postfach exportieren (z. B. .eml oder PDF-Export)
-  → In Mandantenakte archivieren
+ → E-Mail-Thread aus Postfach exportieren (z. B. .eml oder PDF-Export)
+ → In Mandantenakte archivieren
 ```
 
 ### Prozess D — WhatsApp-Textform (§ 126b BGB, Sicherung)
 
 ```
 Schritt 1: WhatsApp-Nachricht senden
-  → Name erkennbar (WhatsApp-Profil mit Vor-/Nachname)
-  → Text vollständig und abgeschlossen
+ → Name erkennbar (WhatsApp-Profil mit Vor-/Nachname)
+ → Text vollständig und abgeschlossen
 
 Schritt 2: Lieferbestätigung beachten
-  → Doppelter Haken = zugestellt (Empfänger-Gerät)
-  → Blauer Doppelhaken = gelesen
+ → Doppelter Haken = zugestellt (Empfänger-Gerät)
+ → Blauer Doppelhaken = gelesen
 
 Schritt 3: Sicherung
-  → Screenshot der Konversation mit sichtbarem Datum/Uhrzeit
-  → In Mandantenakte ablegen
-  → WhatsApp-Chat-Export (als .txt oder .zip) über "Chat exportieren"
+ → Screenshot der Konversation mit sichtbarem Datum/Uhrzeit
+ → In Mandantenakte ablegen
+ → WhatsApp-Chat-Export (als .txt oder .zip) über "Chat exportieren"
 
 Schritt 4: Risikobewertung
-  → WhatsApp-Zugang schwer nachweisbar bei Streit
-  → Bei wichtigen Erklärungen: zusätzlich E-Mail oder Papier
+ → WhatsApp-Zugang schwer nachweisbar bei Streit
+ → Bei wichtigen Erklärungen: zusätzlich E-Mail oder Papier
 ```
 
 ## Templates
@@ -354,7 +354,7 @@ von [Name Überbringer] folgendes Dokument erhalten zu haben:
 
 [Bezeichnung des Dokuments, z. B. "Kündigung des Mietverhältnisses vom [Datum]"]
 
-[Unterschrift Empfänger]               [Unterschrift Überbringer]
+[Unterschrift Empfänger] [Unterschrift Überbringer]
 [Datum]
 ```
 

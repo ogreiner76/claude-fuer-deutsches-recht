@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Bauproduktenrecht und technische Normen
-Ressort:            BMWSB
-Kernnormen:         BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.
-Akteure/Aufsicht:   DIBt; BMWSB; Notified Bodies; Laender-Bauaufsicht.
-EU/Voelkerrecht:    BauPVO 305/2011; Aenderung BauPVO (CRR-Update).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwsb; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Bauproduktenrecht und technische Normen
+Ressort: BMWSB
+Kernnormen: BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.
+Akteure/Aufsicht: DIBt; BMWSB; Notified Bodies; Laender-Bauaufsicht.
+EU/Voelkerrecht: BauPVO 305/2011; Aenderung BauPVO (CRR-Update).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

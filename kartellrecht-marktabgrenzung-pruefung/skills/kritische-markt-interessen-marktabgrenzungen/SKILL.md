@@ -1,13 +1,13 @@
 ---
 name: kritische-markt-interessen-marktabgrenzungen
-description: "Nutze dies, wenn Spezial Kritische Erstpruefung Und Mandatsziel, Spezial Markt Mehrparteien Konflikt Und Interessen, Spezial Marktabgrenzungen Dokumentenmatrix Und Lueckenliste, Spezial Marktbeherrschung Mandantenentscheidung im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Kritische Erstpruefung Und Mandatsziel, Spezial Markt Mehrparteien Konflikt Und Interessen, Spezial Marktabgrenzungen Dokumentenmatrix Und Lueckenliste, Spezial Marktbeherrschung Mandantenentscheidung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Kritische Erstpruefung Und Mandatsziel, Spezial Markt Mehrparteien Konflikt Und Interessen, Spezial Marktabgrenzungen Dokumentenmatrix Und Lueckenliste, Spezial Marktbeherrschung Mandantenentscheidung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kritische Erstpruefung Und Mandatsziel, Markt Mehrparteien Konflikt Und Interessen, Marktabgrenzungen Dokumentenmatrix Und Lueckenliste, Marktbeherrschung Mandantenentscheidung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Kritische Erstpruefung Und Mandatsziel, Spezial Markt Mehrparteien Konflikt Und Interessen, Spezial Marktabgrenzungen Dokumentenmatrix Und Lueckenliste, Spezial Marktbeherrschung Mandantenentscheidung
+# Kritische Erstpruefung Und Mandatsziel, Markt Mehrparteien Konflikt Und Interessen, Marktabgrenzungen Dokumentenmatrix Und Lueckenliste, Marktbeherrschung Mandantenentscheidung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kritische Erstpruefung Und Mandatsziel, Markt Mehrparteien Konflikt Und Interessen, Marktabgrenzungen Dokumentenmatrix Und Lueckenliste, Marktbeherrschung Mandantenentscheidung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Kritische Erstpruefung Und Mandatsziel, Spezial Markt Mehrparteien Konflikt Und Interessen, Spezial Marktabgrenzungen Dokumentenmatrix Und Lueckenliste, Spezial Marktbeherrschung Mandantenentscheidung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kritische Erstpruefung Und Mandatsziel, Markt Mehrparteien Konflikt Und Interessen, Marktabgrenzungen Dokumentenmatrix Und Lueckenliste, Marktbeherrschung Mandantenentscheidung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Spezial Kritische Erstpruefung Und Mandatsziel, Spezial Markt Mehrparteie
 # Kritische: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Kritische: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Kritische: Erstprüfung, Rollenklärung und Mandatsziel / spezial kritische erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kritische: Erstprüfung, Rollenklärung und Mandatsziel / kritische erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -73,7 +73,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Markt: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Markt: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Markt: Mehrparteienkonflikt und Interessenmatrix / spezial markt mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Markt: Mehrparteienkonflikt und Interessenmatrix / markt mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -114,7 +114,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Marktabgrenzungen: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Marktabgrenzungen: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Marktabgrenzungen: Dokumentenmatrix, Lückenliste und Nachforderung / spezial marktabgrenzungen dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Marktabgrenzungen: Dokumentenmatrix, Lückenliste und Nachforderung / marktabgrenzungen dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -155,7 +155,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Marktbeherrschung: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Marktbeherrschung: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Marktbeherrschung: Mandantenkommunikation und Entscheidungsvorlage / spezial marktbeherrschung mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Marktbeherrschung: Mandantenkommunikation und Entscheidungsvorlage / marktbeherrschung mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

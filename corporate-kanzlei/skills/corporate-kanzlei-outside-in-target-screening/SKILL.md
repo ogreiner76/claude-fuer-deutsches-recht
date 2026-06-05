@@ -194,37 +194,37 @@ Erstellt von: [KANZLEI / DEAL-TEAM]
 VERTRAULICH
 
 1. UNTERNEHMENSUEBERBLICK
-   Gruendungsjahr: [Jahr]
-   Hauptgesellschafter: [Namen / Wirtschaftlich Berechtigter]
-   Geschaeftsfuehrung: [Namen, Amtsdauer]
-   Mitarbeiter: ca. [Zahl] (Quelle: Bundesanzeiger [Jahr])
-   Hauptstandorte: [Staedte]
+ Gruendungsjahr: [Jahr]
+ Hauptgesellschafter: [Namen / Wirtschaftlich Berechtigter]
+ Geschaeftsfuehrung: [Namen, Amtsdauer]
+ Mitarbeiter: ca. [Zahl] (Quelle: Bundesanzeiger [Jahr])
+ Hauptstandorte: [Staedte]
 
 2. FINANZIELLE KENNZAHLEN (aus Bundesanzeiger)
-   | Jahr | Umsatz | EBITDA | EK-Quote | Bilanzsumme |
-   |------|--------|--------|----------|-------------|
-   | 2022 | [EUR Mio.] | [EUR Mio.] | [%] | [EUR Mio.] |
-   | 2023 | [EUR Mio.] | [EUR Mio.] | [%] | [EUR Mio.] |
+ | Jahr | Umsatz | EBITDA | EK-Quote | Bilanzsumme |
+ |------|--------|--------|----------|-------------|
+ | 2022 | [EUR Mio.] | [EUR Mio.] | [%] | [EUR Mio.] |
+ | 2023 | [EUR Mio.] | [EUR Mio.] | [%] | [EUR Mio.] |
 
 3. BEWERTUNGSINDIKATION (Multiples-Schaetzung)
-   Angenommenes EBITDA: [EUR Mio.]
-   Branchenm-Multiple: [x-y]x
-   Indikative EV-Range: EUR [X] — EUR [Y] Mio.
+ Angenommenes EBITDA: [EUR Mio.]
+ Branchenm-Multiple: [x-y]x
+ Indikative EV-Range: EUR [X] — EUR [Y] Mio.
 
 4. VORHANDENE RISIKEN
-   - [Risiko 1: z.B. Jahresabschluss 2023 noch nicht veroeffentlicht]
-   - [Risiko 2: z.B. GF-Wechsel 2x in 3 Jahren]
+ - [Risiko 1: z.B. Jahresabschluss 2023 noch nicht veroeffentlicht]
+ - [Risiko 2: z.B. GF-Wechsel 2x in 3 Jahren]
 
 5. STRATEGISCHE FIT-BEWERTUNG
-   [2-3 Saetze: Synergien, Marktposition, Komplementaritaet]
+ [2-3 Saetze: Synergien, Marktposition, Komplementaritaet]
 
 6. EMPFEHLUNG
-   [ ] Kontaktaufnahme empfohlen
-   [ ] Weitere Analyse erforderlich: [Punkt]
-   [ ] Kein Fit: [Begruendung]
+ [ ] Kontaktaufnahme empfohlen
+ [ ] Weitere Analyse erforderlich: [Punkt]
+ [ ] Kein Fit: [Begruendung]
 
 7. NAECHSTE SCHRITTE
-   [Konkrete Handlungen mit Datum und Owner]
+ [Konkrete Handlungen mit Datum und Owner]
 ```
 
 ## Rote Schwellen

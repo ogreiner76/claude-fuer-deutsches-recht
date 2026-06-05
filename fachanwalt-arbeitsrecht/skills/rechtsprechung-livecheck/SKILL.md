@@ -1,13 +1,13 @@
 ---
 name: rechtsprechung-livecheck
-description: "Nutze dies, wenn Workflow Redteam Qualitygate, Spezial Rechtsprechung Internationaler Bezug Und Schnittstellen, Spezial Rechtsprechung Livecheck Arbeitsrecht im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Redteam Qualitygate, Rechtsprechung Internationaler Bezug Und Schnittstellen, Rechtsprechung Livecheck Arbeitsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Redteam Qualitygate, Spezial Rechtsprechung Internationaler Bezug Und Schnittstellen, Spezial Rechtsprechung Livecheck Arbeitsrecht
+# Redteam Qualitygate, Rechtsprechung Internationaler Bezug Und Schnittstellen, Rechtsprechung Livecheck Arbeitsrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Redteam Qualitygate, Rechtsprechung Internationaler Bezug Und Schnittstellen, Rechtsprechung Livecheck Arbeitsrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Redteam Qualitygate, Spezial Rechtsprechung Internationaler Bezug Und Schnittstellen, Spezial Rechtsprechung Livecheck Arbeitsrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Redteam Qualitygate, Rechtsprechung Internationaler Bezug Und Schnittstellen, Rechtsprechung Livecheck Arbeitsrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -40,9 +40,9 @@ Für **Workflow Redteam Qualitygate, Spezial Rechtsprechung Internationaler Bezu
 
 
 ## Zweck
-Abschließende Qualitätskontrolle, bevor ein Produkt (Schriftsatz, Memo, Brief, Vergleich) den Skill verlässt. Dieser Workflow findet Fehler, Lücken und Scheingenauigkeiten — bevor der Gegner oder das Gericht sie findet.
+Abschließende Qualitätskontrolle, bevor ein Produkt (Schriftsatz, Memo, Brief, Vergleich) den Skill verlässt. Dieser findet Fehler, Lücken und Scheingenauigkeiten — bevor der Gegner oder das Gericht sie findet.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument zur Qualitätskontrolle vorliegt:
 
 1. **Was ist das Dokument?** Schriftsatz (Klage, Schriftsatz, Berufung), Memo, Mandantenbrief, Vergleich?
@@ -175,7 +175,7 @@ Checkliste:
 ## Zweck
 Überblick über die EuGH-Linie im Arbeitsrecht und die relevanten EU-Richtlinien mit ihren deutschen Umsetzungsgesetzen. Besondere Bedeutung: Richtlinienkonforme Auslegung, Vorabentscheidungsverfahren und direkte Anwendbarkeit von EU-Recht.
 
-## Kaltstart
+## Einstieg
 Wenn ein Sachverhalt mit internationalem Bezug oder einer EU-Rechtsfrage vorliegt:
 
 1. **EuGH oder nationales Recht?** Ist eine EU-Richtlinie berührt?
@@ -276,9 +276,9 @@ Entsendendes Unternehmen muss Entsendung bei der ZKA (Zentrale Kontrolle der Sch
 
 
 ## Zweck
-Strukturierter Prüfworkflow für die Verifikation arbeitsrechtlicher Rechtsprechungszitate — bevor sie in Schriftsätze, Memos oder Beratungshinweise einfließen. Dieser Skill verhindert Scheinzitate und stärkt die anwaltliche Glaubwürdigkeit.
+Strukturierter Prüffür die Verifikation arbeitsrechtlicher Rechtsprechungszitate — bevor sie in Schriftsätze, Memos oder Beratungshinweise einfließen. Dieser Skill verhindert Scheinzitate und stärkt die anwaltliche Glaubwürdigkeit.
 
-## Kaltstart
+## Einstieg
 Wenn Urteile zitiert werden sollen oder bereits zitierte Urteile zu prüfen sind:
 
 1. **Welche Urteile sind zu prüfen?** Liste der Aktenzeichen mit Datum
@@ -339,7 +339,7 @@ Primärquelle für BAG-Entscheidungen: [bundesarbeitsgericht.de](https://www.bun
 | BeckRS als einzige Fundstelle | Nicht öffentlich zugänglich; nicht frei prüfbar | Nur BeckRS-Nummer verwenden wenn BAG-URL als Primärquelle angegeben |
 | Falsche Randnummer | Urteil wird mit falscher Randnummer zitiert | Volltext lesen und Rn. prüfen |
 
-## Live-Check-Workflow (Kurzfassung)
+## Live-Check-(Kurzfassung)
 
 ```
 1. Aktenzeichen und Datum notieren

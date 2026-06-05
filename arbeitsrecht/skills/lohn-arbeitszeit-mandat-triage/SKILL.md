@@ -1,13 +1,13 @@
 ---
 name: lohn-arbeitszeit-mandat-triage
-description: "Nutze dies, wenn Lohn Arbeitszeit Fragen, Mandat Triage Arbeitsrecht, Massenentlassung 17 Kschg, Mindestlohn Arbeitszeit Erfassung im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Lohn Arbeitszeit Fragen, Mandat Triage Arbeitsrecht, Massenentlassung 17 Kschg, Mindestlohn Arbeitszeit Erfassung prüfen.; Erstelle eine Arbeitsfassung zu Lohn Arbeitszeit Fragen, Mandat Triage Arbeitsrecht, Massenentlassung 17 Kschg, Mindestlohn Arbeitszeit Erfassung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lohn Arbeitszeit Fragen, Mandat Triage Arbeitsrecht, Massenentlassung 17 Kschg, Mindestlohn Arbeitszeit Erfassung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lohn Arbeitszeit Fragen, Mandat Triage Arbeitsrecht, Massenentlassung 17 Kschg, Mindestlohn Arbeitszeit Erfassung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lohn Arbeitszeit Fragen, Mandat Triage Arbeitsrecht, Massenentlassung 17 Kschg, Mindestlohn Arbeitszeit Erfassung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,8 +15,8 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `lohn-arbeitszeit-fragen` | Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG (Höchstarbeitszeit, Pausen, Ruhezeiten, Aufzeichnungspflichten), MiLoG (Mindestlohn, Aufzeichnungspflicht), EFZG (Entgeltfortzahlung im Krankheitsfall), Tarifverträge, Überstunden. Antwort mit der maßgeblichen Norm und Zitat. |
 | `mandat-triage-arbeitsrecht` | Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle (Arbeitnehmer Arbeitgeber Betriebsrat Geschäftsführer). Sofort-Fristen-Check § 4 KSchG drei Wochen Kündigungsschutzklage § 17 TzBfG drei Wochen Entfristung. Normen § 1 KSchG § 611a BGB § 102 BetrVG § 17 KSchG Massenentlassung. Eskalation Telefon-Sofort bei Kündigung mit drohender Klagefrist Massenentlassung Betriebsuebergang. Output Triage-Memo mit Fristen-Ampel und Routing zu kündigungs-prüfung betriebsrat-anhoerung oder entfristung-Skills. Abgrenzung zu mandat-arbeitsbereich (Workspace-Verwaltung). |
-| `massenentlassung-17-kschg` | Workflow-Skill zu massenentlassung 17 kschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `mindestlohn-arbeitszeit-erfassung` | Workflow-Skill zu mindestlohn arbeitszeit erfassung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `massenentlassung-17-kschg` | Arbeitsmodul zu massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `mindestlohn-arbeitszeit-erfassung` | Arbeitsmodul zu mindestlohn arbeitszeit erfassung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -364,7 +364,7 @@ Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGV
 
 ## 3. `massenentlassung-17-kschg`
 
-**Fokus:** Workflow-Skill zu massenentlassung 17 kschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Massenentlassung § 17 KSchG
 
@@ -384,9 +384,9 @@ Bei Massenentlassungen ist § 17 KSchG zwingend zu beachten — sonst sind alle 
 ## Aktuelle Leitentscheidungen (Stand Mai 2026)
 
 - **BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22**: Fehler im Anzeigeverfahren (komplett fehlende oder vor Abschluss des Konsultationsverfahrens verfruehte Massenentlassungsanzeige) fuehren zur Unwirksamkeit aller Kuendigungen; eine Heilung nach Kuendigungsausspruch ist ausgeschlossen.
-  - Quelle: dejure.org, Vernetzung BAG 01.04.2026 - 6 AZR 152/22; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren"; Volltext PDF auf bundesarbeitsgericht.de (Wp-Content) verfuegbar.
+ - Quelle: dejure.org, Vernetzung BAG 01.04.2026 - 6 AZR 152/22; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren"; Volltext PDF auf bundesarbeitsgericht.de (Wp-Content) verfuegbar.
 - **EuGH, Urteile vom 30.10.2025 - C-134/24 (Tomann) und C-402/24 (Sewel)**: Die Massenentlassungsanzeige nach Art. 4 RL 98/59/EG ist Wirksamkeitsvoraussetzung der Kuendigung; eine fehlende oder verfruehte Anzeige kann nach Kuendigungsausspruch nicht nachgeholt oder geheilt werden. Die 30-Tage-Sperrfrist beginnt erst mit ordnungsgemaesser Anzeige.
-  - Quelle: dejure.org, Vernetzung EuGH 30.10.2025 - C-134/24 und C-402/24.
+ - Quelle: dejure.org, Vernetzung EuGH 30.10.2025 - C-134/24 und C-402/24.
 
 ## Schritt 1 — Schwellenwert prüfen
 
@@ -611,7 +611,7 @@ Schriftlich an Betriebsrat:
 
 ## 4. `mindestlohn-arbeitszeit-erfassung`
 
-**Fokus:** Workflow-Skill zu mindestlohn arbeitszeit erfassung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu mindestlohn arbeitszeit erfassung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mindestlohn und Arbeitszeit-Erfassung
 
@@ -805,16 +805,16 @@ Beispiel:
 
 ```
 Besteht ein Zeiterfassungssystem?
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-       (objektiv, verlässlich, zugänglich, gesamte Arbeitszeit)
-       Ja → Aufbewahrung 6 Jahre § 17 MiLoG gewährleistet?
-            Ja → OK
-            Nein → Aufbewahrungspflicht nachrüsten
-       Nein → System nachrüsten; BR-Mitbestimmung § 87 Abs. 1 Nr. 6 BetrVG!
-  Nein → System einführen (sofort)
-         Betrieb mit BR? → Betriebsvereinbarung abschließen
-         Kein BR? → Weisung AG
-         Datenschutzbeauftragten einbinden
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ (objektiv, verlässlich, zugänglich, gesamte Arbeitszeit)
+ Ja → Aufbewahrung 6 Jahre § 17 MiLoG gewährleistet?
+ Ja → OK
+ Nein → Aufbewahrungspflicht nachrüsten
+ Nein → System nachrüsten; BR-Mitbestimmung § 87 Abs. 1 Nr. 6 BetrVG!
+ Nein → System einführen (sofort)
+ Betrieb mit BR? → Betriebsvereinbarung abschließen
+ Kein BR? → Weisung AG
+ Datenschutzbeauftragten einbinden
 ```
 
 ## Schritt 7 — Konkretes Erfassungs-System
@@ -939,9 +939,9 @@ wegen Mindestlohnzahlung
 Antraege:
 
 1. Die Beklagte wird verurteilt, an die Klaeger/in
-   EUR [Differenz Mindestlohn / tatsaechlich gezahlt]
-   nebst Zinsen in Hoehe von 5 Prozentpunkten ueber
-   dem Basiszinssatz seit [Datum] zu zahlen.
+ EUR [Differenz Mindestlohn / tatsaechlich gezahlt]
+ nebst Zinsen in Hoehe von 5 Prozentpunkten ueber
+ dem Basiszinssatz seit [Datum] zu zahlen.
 
 Begruendung:
 

@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-gk-sanierungsgewinn-tax-step
-description: "Nutze dies, wenn Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier, Grosskanzlei Corporate Ma Ancillary Documents Tsa Sla und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier, Grosskanzlei Corporate Ma Ancillary Documents Tsa Sla und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier, Grosskanzlei Corporate Ma Ancillary Documents Tsa Sla und 2 weiter..."
+description: "Nutze dies bei Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier, Grosskanzlei Corporate Ma Ancillary Documents Tsa Sla und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier, Grosskanzlei Corporate Ma Ancillary Documents Tsa Sla und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -78,7 +78,7 @@ Nicht dieser Skill ist primär, wenn nur eine normale Tax-DD ohne Sanierungsbezu
 - **§ 42 AO** – Missbrauch von Gestaltungen.
 - **Außensteuergesetz** – bei Konzern mit Auslandsbezug.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **DD-Scope abstimmen.** Sonderscope „Sanierungstax"; Fokus auf Verlustvorträge, schwebende Verfahren, verbindliche Auskünfte und Sanierungsmechanik.
 2. **Verlustvortrag-Inventur.** Vergleiche `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`. Hier zusätzlich: Außenprüfungs-Status, Einsprüche, FG-Verfahren, Verlustvortragsfeststellung nach § 10d EStG, nach § 10a GewStG.
@@ -136,12 +136,12 @@ Wer als Senior diese beiden Tabellen sauber bekommt, hat sechzig Prozent des DD-
 
 - Plugin `steuerrecht-anwalt-und-berater`: Tax-DD im Detail.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-due-diligence-legal`
-  - `grosskanzlei-corporate-ma-due-diligence-reporting`
-  - `grosskanzlei-corporate-ma-distressed-ma`
-  - `grosskanzlei-corporate-ma-wi-insurance`
-  - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
-  - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
+ - `grosskanzlei-corporate-ma-due-diligence-legal`
+ - `grosskanzlei-corporate-ma-due-diligence-reporting`
+ - `grosskanzlei-corporate-ma-distressed-ma`
+ - `grosskanzlei-corporate-ma-wi-insurance`
+ - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
+ - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
 
 ## Quellen Stand 06/2026
 
@@ -214,7 +214,7 @@ Nicht dieser Skill, sondern `grosskanzlei-corporate-ma-steps-plan-pmo` ist prim�
 - **§ 42 AO** – Missbrauch von Gestaltungsmöglichkeiten; relevant bei Reihenfolge-Optimierung.
 - **§ 89 AO** – verbindliche Auskunft.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Schritt 0 – Ist-Aufnahme (Tax Position vor Restrukturierung):**
 
@@ -224,9 +224,9 @@ Nicht dieser Skill, sondern `grosskanzlei-corporate-ma-steps-plan-pmo` ist prim�
 
 2. Wann tritt der Sanierungsertrag ein? Was wird vor, was nach dem Sanierungsertrag wirksam?
 3. Frage: Anteilseignerwechsel vor oder nach Forderungsverzicht?
-   - Vor: § 8c KStG zerstört Verlustvorträge; § 3a Abs. 3 EStG verbraucht nichts mehr; Sanierungsertrag voll besteuert.
-   - Nach: § 3a Abs. 3 EStG verbraucht Verlustvorträge; § 8c KStG-Effekt trifft den Rest-Verlustvortrag, der schon klein ist.
-   - Praxis: Forderungsverzicht **vor** Anteilseignerwechsel.
+ - Vor: § 8c KStG zerstört Verlustvorträge; § 3a Abs. 3 EStG verbraucht nichts mehr; Sanierungsertrag voll besteuert.
+ - Nach: § 3a Abs. 3 EStG verbraucht Verlustvorträge; § 8c KStG-Effekt trifft den Rest-Verlustvortrag, der schon klein ist.
+ - Praxis: Forderungsverzicht **vor** Anteilseignerwechsel.
 
 **Schritt 2 – Schutzmaßnahmen einbauen:**
 
@@ -298,10 +298,10 @@ In einem Tax Step Plan einer Großkanzlei sieht ein Senior Counsel auf drei Feld
 - Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung Tax Step Plan.
 - Plugin `insolvenzrecht`: Reihenfolge im Insolvenzplan.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-steps-plan-pmo`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+ - `grosskanzlei-corporate-ma-steps-plan-pmo`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
 
 ## Quellen Stand 06/2026
 
@@ -374,7 +374,7 @@ Nicht dieser Skill, sondern eine spezifische Steuerberatung ist primär, wenn di
 - **§ 8c KStG / § 8d KStG** – Verlustvortrag.
 - **AO-Anwendungserlass** zu § 89 AO.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Vorbereitung:**
 
@@ -454,11 +454,11 @@ Drei Beobachtungen zur verbindlichen Auskunft im Sanierungskontext:
 
 - Plugin `steuerrecht-anwalt-und-berater`: § 89 AO im Detail; verfahrensrechtliche Begleitung.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
-  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
-  - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
-  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+ - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+ - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
+ - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
 
 ## Quellen Stand 06/2026
 
@@ -777,7 +777,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 Dieser Skill schaltet das Großkanzlei-Corporate/M&A-Plugin in einen geführten Lern- und Arbeitsmodus. Er ist für Nutzerinnen und Nutzer, die eine Transaktion noch nicht sicher überblicken: Studierende, Referendarinnen und Referendare, wissenschaftliche Mitarbeitende, Praktikanten, First-Year-Associates, Inhouse-Neulinge oder fachfremde Mandatsbeteiligte.
 
-Der Modus ist nicht herablassend. Er macht das Unsichtbare sichtbar: Was ist die Aufgabe wirklich, warum ist sie wichtig, welche Unterlagen braucht man, welche Begriffe muss man verstehen, wann muss ein Senior draufschauen und welcher Spezial-Skill führt als Nächstes weiter?
+Der Modus ist nicht herablassend. Er macht das Unsichtbare sichtbar: Was ist die Aufgabe wirklich, warum ist sie wichtig, welche Unterlagen braucht man, welche Begriffe muss man verstehen, wann muss ein Senior draufschauen und welcher Fachmodul führt als Nächstes weiter?
 
 ## Aktivierung
 

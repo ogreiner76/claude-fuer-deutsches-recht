@@ -162,20 +162,20 @@ bezugnehmend auf den Share Purchase Agreement vom [DATUM]
 Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 
 1. DEFINITIONEN UND AUSLEGUNG
-   1.1 "Disclosure Letter" bedeutet dieses Schreiben einschliesslich aller Anlagen
-   1.2 "Datenraum" bedeutet der virtuelle Datenraum [PLATTFORM], Index-Stand [DATUM]
+ 1.1 "Disclosure Letter" bedeutet dieses Schreiben einschliesslich aller Anlagen
+ 1.2 "Datenraum" bedeutet der virtuelle Datenraum [PLATTFORM], Index-Stand [DATUM]
 
 2. GENERAL DISCLOSURES
-   2.1 Alle im Datenraum enthaltenen Dokumente gelten als disclosed
-   2.2 Vendor Due Diligence Report vom [DATUM] (Anlage GD-1)
-   2.3 Registerdokumente gemaess HR-Auszug [DATUM] (Anlage GD-2)
+ 2.1 Alle im Datenraum enthaltenen Dokumente gelten als disclosed
+ 2.2 Vendor Due Diligence Report vom [DATUM] (Anlage GD-1)
+ 2.3 Registerdokumente gemaess HR-Auszug [DATUM] (Anlage GD-2)
 
 3. SPECIFIC DISCLOSURES
-   Zu Garantie 7.1 (Title): [BESCHREIBUNG] — Dokument: [ID]
-   Zu Garantie 8.3 (Material Contracts): Change-of-Control-Klausel in Vertrag [ID]
-   Zu Garantie 11.2 (Employment): Betriebsvereinbarung Bonusregelung [ID]
-   Zu Garantie 14.1 (Litigation): Laufendes Verfahren [GERICHT, AZ] — [BETRAG]
-   Earn-Out-Disclosure: [UMSTANDE, die Earn-Out beeinflussen]
+ Zu Garantie 7.1 (Title): [BESCHREIBUNG] — Dokument: [ID]
+ Zu Garantie 8.3 (Material Contracts): Change-of-Control-Klausel in Vertrag [ID]
+ Zu Garantie 11.2 (Employment): Betriebsvereinbarung Bonusregelung [ID]
+ Zu Garantie 14.1 (Litigation): Laufendes Verfahren [GERICHT, AZ] — [BETRAG]
+ Earn-Out-Disclosure: [UMSTANDE, die Earn-Out beeinflussen]
 ```
 
 ## Rote Schwellen

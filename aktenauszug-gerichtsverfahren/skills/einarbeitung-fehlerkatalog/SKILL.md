@@ -1,6 +1,6 @@
 ---
 name: einarbeitung-fehlerkatalog
-description: "Nutze dies, wenn Einarbeitung Fehlerkatalog im Plugin Aktenauszug Gerichtsverfahren konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Einarbeitung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Einarbeitung Fehlerkatalog

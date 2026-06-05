@@ -55,10 +55,10 @@ Wenn ein Skill ein Finding mit einem Schweregrad produziert und ein anderer Skil
 ## Ausgabe
 
 - `ampel-aggregat.md` mit:
-  - Würfel-Ampel (gesamt)
-  - Arbeitsblatt-Ampeln (eine je Perspektive)
-  - Spalten-Hotspots (Top-N)
-  - Zeilen-Ampel-Liste (sortiert nach Schwere)
+ - Würfel-Ampel (gesamt)
+ - Arbeitsblatt-Ampeln (eine je Perspektive)
+ - Spalten-Hotspots (Top-N)
+ - Zeilen-Ampel-Liste (sortiert nach Schwere)
 - `heatmap.json` mit Daten für Excel-Heatmap-Visualisierung
 
 ## Hinweis zur Prüfer-Abnahme

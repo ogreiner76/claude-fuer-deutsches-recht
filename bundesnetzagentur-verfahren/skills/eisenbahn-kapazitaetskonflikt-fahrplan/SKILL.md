@@ -1,26 +1,26 @@
 ---
 name: eisenbahn-kapazitaetskonflikt-fahrplan
-description: "Nutze dies, wenn Eisenbahn Kapazitaetskonflikt Fahrplan, Eisenbahn Netznutzungsbedingungen, Eisenbahn Regulierungsvereinbarung Db Netz Infrago, Eisenbahn Serviceeinrichtungen, Eisenbahn Stationszugang und 3 weitere Themen im Plugin Bundesnetzagentur Verfahren konkret bearbeitet werden soll. Auslöser: Bitte Eisenbahn Kapazitaetskonflikt Fahrplan, Eisenbahn Netznutzungsbedingungen, Eisenbahn Regulierungsvereinbarung Db Netz Infrago, Eisenbahn Serviceeinrichtungen, Eisenbahn Stationszugang und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Eisenbahn Kapazitaetskonflikt Fahrplan, Eisenbahn Netznutzungsbedingungen, Eisenbahn Regulierungsvereinbarung Db Netz Infrago, Eisenbahn Serviceeinrichtungen, Eisenbahn Stationszugang und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eisenbahn Kapazitaetskonflikt Fahrplan, Eisenbahn Netznutzungsbedingungen, Eisenbahn Regulierungsvereinbarung Db Netz Infrago, Eisenbahn Serviceeinrichtungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eisenbahn Kapazitaetskonflikt Fahrplan, Eisenbahn Netznutzungsbedingungen, Eisenbahn Regulierungsvereinbarung Db Netz Infrago, Eisenbahn Serviceeinrichtungen, Eisenbahn Stationszugang und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eisenbahn Kapazitaetskonflikt Fahrplan, Eisenbahn Netznutzungsbedingungen, Eisenbahn Regulierungsvereinbarung Db Netz Infrago, Eisenbahn Serviceeinrichtungen, Eisenbahn Stationszugang und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `eisenbahn-kapazitaetskonflikt-fahrplan` | Eisenbahn / Kapazitätskonflikt Fahrplan: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `eisenbahn-netznutzungsbedingungen` | Eisenbahn / Netznutzungsbedingungen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `eisenbahn-regulierungsvereinbarung-db-netz-infrago` | Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `eisenbahn-serviceeinrichtungen` | Eisenbahn / Serviceeinrichtungen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `eisenbahn-stationszugang` | Eisenbahn / Stationszugang: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `eisenbahn-stilllegung-infrastruktur-schnittstelle` | Eisenbahn / Stilllegung Infrastruktur Schnittstelle: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `eisenbahn-trassenzugang` | Eisenbahn / Trassenzugang: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `energie-anreizregulierung-erloesobergrenze` | Energie / Anreizregulierung Erlösobergrenze: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
+| `eisenbahn-kapazitaetskonflikt-fahrplan` | Eisenbahn / Kapazitätskonflikt Fahrplan: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `eisenbahn-netznutzungsbedingungen` | Eisenbahn / Netznutzungsbedingungen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `eisenbahn-regulierungsvereinbarung-db-netz-infrago` | Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `eisenbahn-serviceeinrichtungen` | Eisenbahn / Serviceeinrichtungen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `eisenbahn-stationszugang` | Eisenbahn / Stationszugang: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `eisenbahn-stilllegung-infrastruktur-schnittstelle` | Eisenbahn / Stilllegung Infrastruktur Schnittstelle: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `eisenbahn-trassenzugang` | Eisenbahn / Trassenzugang: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `energie-anreizregulierung-erloesobergrenze` | Energie / Anreizregulierung Erlösobergrenze: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
 
 ## Arbeitsweg
 
@@ -31,7 +31,7 @@ Für **Eisenbahn Kapazitaetskonflikt Fahrplan, Eisenbahn Netznutzungsbedingungen
 
 ## 1. `eisenbahn-kapazitaetskonflikt-fahrplan`
 
-**Fokus:** Eisenbahn / Kapazitätskonflikt Fahrplan: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Kapazitätskonflikt Fahrplan: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahn: Kapazitätskonflikt Fahrplan
 
@@ -71,7 +71,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `eisenbahn-netznutzungsbedingungen`
 
-**Fokus:** Eisenbahn / Netznutzungsbedingungen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Netznutzungsbedingungen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahn: Netznutzungsbedingungen
 
@@ -111,7 +111,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `eisenbahn-regulierungsvereinbarung-db-netz-infrago`
 
-**Fokus:** Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Regulierungsvereinbarung DB Netz InfraGO: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahn: Regulierungsvereinbarung DB Netz InfraGO
 
@@ -151,7 +151,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `eisenbahn-serviceeinrichtungen`
 
-**Fokus:** Eisenbahn / Serviceeinrichtungen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Serviceeinrichtungen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahn: Serviceeinrichtungen
 
@@ -191,7 +191,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `eisenbahn-stationszugang`
 
-**Fokus:** Eisenbahn / Stationszugang: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Stationszugang: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahn: Stationszugang
 
@@ -231,7 +231,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `eisenbahn-stilllegung-infrastruktur-schnittstelle`
 
-**Fokus:** Eisenbahn / Stilllegung Infrastruktur Schnittstelle: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Stilllegung Infrastruktur Schnittstelle: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahn: Stilllegung Infrastruktur Schnittstelle
 
@@ -271,7 +271,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `eisenbahn-trassenzugang`
 
-**Fokus:** Eisenbahn / Trassenzugang: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Trassenzugang: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahn: Trassenzugang
 
@@ -311,7 +311,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `energie-anreizregulierung-erloesobergrenze`
 
-**Fokus:** Energie / Anreizregulierung Erlösobergrenze: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
+**Fokus:** Energie / Anreizregulierung Erlösobergrenze: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
 
 # Energie: Anreizregulierung Erlösobergrenze
 

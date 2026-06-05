@@ -1,13 +1,13 @@
 ---
 name: mandantenbrief-leichte-triage-sozialrecht
-description: "Nutze dies, wenn Mandantenbrief Leichte Sprache, Mandat Triage Sozialrecht, Pflegegrad Widerspruch, Pkh Erfolgsaussicht Prüfen im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Mandantenbrief Leichte Sprache, Mandat Triage Sozialrecht, Pflegegrad Widerspruch, Pkh Erfolgsaussicht Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Mandantenbrief Leichte Sprache, Mandat Triage Sozialrecht, Pflegegrad Widerspruch, Pkh Erfolgsaussicht Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandantenbrief Leichte Sprache, Mandat Triage Sozialrecht, Pflegegrad Widerspruch, Pkh Erfolgsaussicht Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mandantenbrief Leichte Sprache, Mandat Triage Sozialrecht, Pflegegrad Widerspruch, Pkh Erfolgsaussicht Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenbrief Leichte Sprache, Mandat Triage Sozialrecht, Pflegegrad Widerspruch, Pkh Erfolgsaussicht Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `mandantenbrief-leichte-sprache` | Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache. Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER) Leichte Sprache (Regeln Netzwerk Leichte Sprache und DIN SPEC 33429). Erfasst Bescheidtenor in einem Satz Begründung in drei Saetzen naechste Schritte mit Datum und konkreter Handlung. Pflichtelemente Anrede konkrete Frist nicht nur Monat Anwaltskontakt persoenlich erreichbare Telefonzeit Hinweis kein Aufschub durch Widerspruch. Geeignet für kognitiv beeintraechtigte Mandanten geringe Lesekompetenz Migrationshintergrund oder Krisensituation. Ausgabe als A4-Brief Format Anwaltskanzlei. |
 | `mandat-triage-sozialrecht` | Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klaeren und zum richtigen Skill weiterleiten. Eingangs-Triage Sozialrecht SGB I-XIV. Prüfraster: Sachgebiet (SGB II Buergergeld SGB V Krankenversicherung SGB VI Rente SGB IX Reha SGB XI Pflege SGB XII Sozialhilfe SGB VII Unfall) Sofort-Fristen Widerspruch 1 Monat § 84 SGG Klage 1 Monat § 87 SGG Untätigkeitsklage 6 Monate § 88 SGG. Output: Routing-Entscheidung mit Folge-Skill und Fristen. Abgrenzung zu mandanten-intake (Stammdaten) und sozialrecht-fallaufnahme-routing (Master-Routing). |
 | `pflegegrad-widerspruch` | Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad. Widerspruch gegen Pflegegrad-Bescheid nach SGB XI. Prüfraster: sechs Module § 15 SGB XI Mobilitaet Kognition Verhalten Selbstversorgung Krankheitsbewaeltigung Alltagsgestaltung. Punkte-Schwellen: PG 1 ab 12.5 PG 2 ab 27 PG 3 ab 47.5 PG 4 ab 70 PG 5 ab 90 Punkten. Schwachstellen in MD-Gutachten (keine Inaugenscheinnahme fehlende Pflegetagebuch-Berücksichtigung). Output: Widerspruchsbausteine Hoeherstufungsbegehren Beweisanträge. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und eilantrag-sozialrecht. |
-| `pkh-erfolgsaussicht-pruefen` | Workflow-Skill zu pkh erfolgsaussicht pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `pkh-erfolgsaussicht-pruefen` | Arbeitsmodul zu pkh erfolgsaussicht pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -504,7 +504,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `pkh-erfolgsaussicht-pruefen`
 
-**Fokus:** Workflow-Skill zu pkh erfolgsaussicht pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu pkh erfolgsaussicht pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # PKH-Erfolgsaussicht prüfen
 
@@ -547,11 +547,11 @@ Vor Mandatsannahme oder Klage-Einreichung prüfen, ob PKH bewilligt wird — fal
 
 - **Verwertbares Vermögen** muss eingesetzt werden
 - **Schonvermögen** § 90 SGB XII parallel
-  - Selbstgenutzte Eigentumswohnung bei angemessener Größe
-  - Auto bei beruflicher Notwendigkeit
-  - Hausrat
-  - Bestattungsvorsorge
-  - Schmuck bis bestimmte Grenze
+ - Selbstgenutzte Eigentumswohnung bei angemessener Größe
+ - Auto bei beruflicher Notwendigkeit
+ - Hausrat
+ - Bestattungsvorsorge
+ - Schmuck bis bestimmte Grenze
 
 ### Belastungen
 

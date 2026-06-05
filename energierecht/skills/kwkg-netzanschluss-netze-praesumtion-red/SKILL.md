@@ -1,13 +1,13 @@
 ---
 name: kwkg-netzanschluss-netze-praesumtion-red
-description: "Nutze dies, wenn Spezial Kwkg Verhandlung Vergleich Und Eskalation, Spezial Netzanschluss Formular Portal Und Einreichung, Spezial Netze Risikoampel Und Gegenargumente, Spezial Praesumtion Red Team Und Qualitaetskontrolle im Plugin Energierecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Kwkg Verhandlung Vergleich Und Eskalation, Netzanschluss Formular Portal Und Einreichung, Netze Risikoampel Und Gegenargumente, Praesumtion Red Team Und Qualitaetskontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Kwkg Verhandlung Vergleich Und Eskalation, Spezial Netzanschluss Formular Portal Und Einreichung, Spezial Netze Risikoampel Und Gegenargumente, Spezial Praesumtion Red Team Und Qualitaetskontrolle
+# Kwkg Verhandlung Vergleich Und Eskalation, Netzanschluss Formular Portal Und Einreichung, Netze Risikoampel Und Gegenargumente, Praesumtion Red Team Und Qualitaetskontrolle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kwkg Verhandlung Vergleich Und Eskalation, Netzanschluss Formular Portal Und Einreichung, Netze Risikoampel Und Gegenargumente, Praesumtion Red Team Und Qualitaetskontrolle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Kwkg Verhandlung Vergleich Und Eskalation, Spezial Netzanschluss Formular Portal Und Einreichung, Spezial Netze Risikoampel Und Gegenargumente, Spezial Praesumtion Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `energierecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kwkg Verhandlung Vergleich Und Eskalation, Netzanschluss Formular Portal Und Einreichung, Netze Risikoampel Und Gegenargumente, Praesumtion Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `energierecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Spezial Kwkg Verhandlung Vergleich Und Eskalation, Spezial Netzanschluss 
 # Kwkg: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Kwkg: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Kwkg: Verhandlung, Vergleich und Eskalation / spezial kwkg verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kwkg: Verhandlung, Vergleich und Eskalation / kwkg verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EEG, KWKG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Netzanschluss: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Netzanschluss: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Netzanschluss: Formular, Portal und Einreichungslogik / spezial netzanschluss formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Netzanschluss: Formular, Portal und Einreichungslogik / netzanschluss formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EEG, KWKG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -134,7 +134,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Netze: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Netze: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Netze: Risikoampel, Gegenargumente und Verteidigungslinien / spezial netze risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Netze: Risikoampel, Gegenargumente und Verteidigungslinien / netze risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EEG, KWKG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -175,7 +175,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Praesumtion: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Praesumtion: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Praesumtion: Red-Team und Qualitätskontrolle / spezial praesumtion red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Praesumtion: Red-Team und Qualitätskontrolle / praesumtion red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EEG, KWKG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

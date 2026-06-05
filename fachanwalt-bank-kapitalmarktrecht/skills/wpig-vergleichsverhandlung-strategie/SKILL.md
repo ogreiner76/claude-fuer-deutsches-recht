@@ -1,13 +1,13 @@
 ---
 name: wpig-vergleichsverhandlung-strategie
-description: "Nutze dies, wenn Spezial Wpig Risikoampel Und Gegenargumente, Vergleichsverhandlung Strategie, Widerrufsjoker Immobiliendarlehen im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Wpig Risikoampel Und Gegenargumente, Vergleichsverhandlung Strategie, Widerrufsjoker Immobiliendarlehen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Wpig Risikoampel Und Gegenargumente, Vergleichsverhandlung Strategie, Widerrufsjoker Immobiliendarlehen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wpig Risikoampel Und Gegenargumente, Vergleichsverhandlung Strategie, Widerrufsjoker Immobiliendarlehen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Wpig Risikoampel Und Gegenargumente, Vergleichsverhandlung Strategie, Widerrufsjoker Immobiliendarlehen
+# Wpig Risikoampel Und Gegenargumente, Vergleichsverhandlung Strategie, Widerrufsjoker Immobiliendarlehen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wpig Risikoampel Und Gegenargumente, Vergleichsverhandlung Strategie, Widerrufsjoker Immobiliendarlehen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,11 +15,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spezial-wpig-risikoampel-und-gegenargumente` | Wpig: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Bank-, Kapitalmarkt- und Wertpapierrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
-| `widerrufsjoker-immobiliendarlehen` | Workflow-Skill zu widerrufsjoker immobiliendarlehen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `widerrufsjoker-immobiliendarlehen` | Arbeitsmodul zu widerrufsjoker immobiliendarlehen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Spezial Wpig Risikoampel Und Gegenargumente, Vergleichsverhandlung Strategie, Widerrufsjoker Immobiliendarlehen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wpig Risikoampel Und Gegenargumente, Vergleichsverhandlung Strategie, Widerrufsjoker Immobiliendarlehen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -242,7 +242,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `widerrufsjoker-immobiliendarlehen`
 
-**Fokus:** Workflow-Skill zu widerrufsjoker immobiliendarlehen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu widerrufsjoker immobiliendarlehen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Widerrufsjoker bei Immobiliendarlehen
 
@@ -285,7 +285,7 @@ Bei fehlerhafter Widerrufsbelehrung in Verbraucher-Immobiliendarlehen besteht ei
 
 ## Prüfschema Widerrufsbelehrung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Prüfpunkt | Fehlerkonstellation | BGH-Entscheidung (Volltext in offener Quelle vor Versand verifizieren) | Folge |
@@ -338,10 +338,10 @@ Beide Voraussetzungen müssen kumulativ vorliegen. Bei laufendem, ungestörtem V
 ```
 Laufendes Darlehen — Vergleich:
 
-Vertrags-Zins:        [x] % p.a. auf Restschuld EUR [Betrag]
+Vertrags-Zins: [x] % p.a. auf Restschuld EUR [Betrag]
 Aktueller Markt-Zins: [y] % p.a.
-Zinsdifferenz:        [x-y] % × Restschuld × Restlaufzeit Jahre
-= Barwert-Vorteil:    EUR [Betrag]
+Zinsdifferenz: [x-y] % × Restschuld × Restlaufzeit Jahre
+= Barwert-Vorteil: EUR [Betrag]
 
 Vorfälligkeitsentschädigung (bei Kündigung normal):
 = EUR [Betrag]
@@ -354,11 +354,11 @@ Wirtschaftlicher Widerruf-Vorteil:
 ### Abgelöstes Darlehen
 
 ```
-Geleistete Zahlungen (Zins + Tilgung):         EUR [Summe]
-Erhaltene Darlehensvaluta:                     ./. EUR [Betrag]
-Nutzungsentschädigung Bank an Mandant:         + EUR [5 %pkt. × Zahlungen × Zeit]
-Nutzungsentschädigung Mandant an Bank:         ./. EUR [5 %pkt. × Valuta × Zeit]
-Saldo zugunsten Mandant:                       EUR [Netto]
+Geleistete Zahlungen (Zins + Tilgung): EUR [Summe]
+Erhaltene Darlehensvaluta: ./. EUR [Betrag]
+Nutzungsentschädigung Bank an Mandant: + EUR [5 %pkt. × Zahlungen × Zeit]
+Nutzungsentschädigung Mandant an Bank: ./. EUR [5 %pkt. × Valuta × Zeit]
+Saldo zugunsten Mandant: EUR [Netto]
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -378,7 +378,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 Einschreiben mit Rückschein / per Boten
-                                              [Ort, Datum]
+ [Ort, Datum]
 
 [Bank]
 [Anschrift]
@@ -415,14 +415,14 @@ Kapitalmarktrecht]
 Es wird beantragt:
 
 1. Die Beklagte wird verurteilt, an den Kläger
-   EUR [Betrag] nebst Zinsen in Höhe von 5 Prozent-
-   punkten über dem Basiszinssatz ab [Datum] zu zahlen,
-   Zug um Zug gegen Übereignung der Immobilie und
-   Freistellung von der Darlehensschuld.
+ EUR [Betrag] nebst Zinsen in Höhe von 5 Prozent-
+ punkten über dem Basiszinssatz ab [Datum] zu zahlen,
+ Zug um Zug gegen Übereignung der Immobilie und
+ Freistellung von der Darlehensschuld.
 
 2. Es wird festgestellt, dass sich die Beklagte mit
-   der Annahme der Gegenleistung in Annahmeverzug
-   befindet.
+ der Annahme der Gegenleistung in Annahmeverzug
+ befindet.
 
 Streitwert: EUR [Nettovorteil des Widerrufs].
 ```

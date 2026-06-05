@@ -1,13 +1,13 @@
 ---
 name: dpa-template-dpa-tom-dpia-summary
-description: "Nutze dies, wenn Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dpa En Template Controller Processor, Dpa En Tom Annex Template, Dpia En Summary For Management, Dpia En Template Full Version, Drittlandstransfer Prüfung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -71,77 +71,77 @@ DATA PROCESSING AGREEMENT
 This Data Processing Agreement ("DPA") forms part of and is incorporated into the
 Main Agreement entered into between:
 
-  (1) [Controller Legal Name], a company organised under the laws of [jurisdiction],
-      with its registered office at [address] ("Controller"); and
+ (1) [Controller Legal Name], a company organised under the laws of [jurisdiction],
+ with its registered office at [address] ("Controller"); and
 
-  (2) [Processor Legal Name], a company organised under the laws of [jurisdiction],
-      with its registered office at [address] ("Processor").
+ (2) [Processor Legal Name], a company organised under the laws of [jurisdiction],
+ with its registered office at [address] ("Processor").
 
 The Controller and the Processor are each a "Party" and together the "Parties".
 
 1. DEFINITIONS
 1.1 "GDPR" means Regulation (EU) 2016/679.
 1.2 "Personal Data", "Processing", "Data Subject", "Sub-processor" and "Supervisory
-    Authority" shall have the meanings ascribed to them in Article 4 GDPR.
+ Authority" shall have the meanings ascribed to them in Article 4 GDPR.
 1.3 "Annex" means an annex to this DPA which forms an integral part hereof.
 
 2. SCOPE AND ROLES
 2.1 The subject matter, duration, nature and purpose of the Processing, the types
-    of Personal Data and the categories of Data Subjects are set out in Annex I.
+ of Personal Data and the categories of Data Subjects are set out in Annex I.
 2.2 The Controller is the controller and the Processor is the processor within the
-    meaning of Article 4 (7) and (8) GDPR.
+ meaning of Article 4 (7) and (8) GDPR.
 
 3. PROCESSING ON DOCUMENTED INSTRUCTIONS (Art. 28 (3) (a) GDPR)
 3.1 The Processor shall process the Personal Data only on documented instructions
-    from the Controller, including with regard to transfers of Personal Data to
-    a third country or an international organisation, unless required to do so by
-    Union or Member State law.
+ from the Controller, including with regard to transfers of Personal Data to
+ a third country or an international organisation, unless required to do so by
+ Union or Member State law.
 3.2 The Processor shall immediately inform the Controller if, in its opinion, an
-    instruction infringes the GDPR or other applicable data protection provisions.
+ instruction infringes the GDPR or other applicable data protection provisions.
 
 4. CONFIDENTIALITY (Art. 28 (3) (b) GDPR)
 4.1 The Processor shall ensure that persons authorised to process the Personal Data
-    have committed themselves to confidentiality or are under an appropriate
-    statutory obligation of confidentiality.
+ have committed themselves to confidentiality or are under an appropriate
+ statutory obligation of confidentiality.
 
 5. SECURITY OF PROCESSING (Art. 28 (3) (c), Art. 32 GDPR)
 5.1 The Processor shall implement the technical and organisational measures set
-    out in Annex II.
+ out in Annex II.
 
 6. SUB-PROCESSING (Art. 28 (2), (4) GDPR)
 6.1 The Processor shall not engage any sub-processor without the prior written
-    authorisation of the Controller. General authorisation is granted for the
-    sub-processors listed in Annex III.
+ authorisation of the Controller. General authorisation is granted for the
+ sub-processors listed in Annex III.
 6.2 The Processor shall inform the Controller of any intended changes concerning
-    the addition or replacement of sub-processors at least thirty (30) days in
-    advance, giving the Controller the opportunity to object.
+ the addition or replacement of sub-processors at least thirty (30) days in
+ advance, giving the Controller the opportunity to object.
 
 7. ASSISTANCE WITH DATA SUBJECT RIGHTS (Art. 28 (3) (e) GDPR)
 7.1 The Processor shall assist the Controller, by appropriate technical and
-    organisational measures and insofar as this is possible, in the fulfilment of
-    the Controller's obligation to respond to requests under Chapter III GDPR.
+ organisational measures and insofar as this is possible, in the fulfilment of
+ the Controller's obligation to respond to requests under Chapter III GDPR.
 
 8. ASSISTANCE WITH SECURITY, BREACHES AND DPIA (Art. 28 (3) (f) GDPR)
 8.1 The Processor shall notify the Controller without undue delay and in any event
-    within forty-eight (48) hours after becoming aware of a Personal Data breach.
+ within forty-eight (48) hours after becoming aware of a Personal Data breach.
 
 9. RETURN OR DELETION (Art. 28 (3) (g) GDPR)
 9.1 Upon termination of the provision of services relating to Processing, the
-    Processor shall, at the choice of the Controller, delete or return all the
-    Personal Data and delete existing copies unless Union or Member State law
-    requires storage of the Personal Data.
+ Processor shall, at the choice of the Controller, delete or return all the
+ Personal Data and delete existing copies unless Union or Member State law
+ requires storage of the Personal Data.
 
 10. AUDIT AND INSPECTION (Art. 28 (3) (h) GDPR)
 10.1 The Processor shall make available to the Controller all information necessary
-     to demonstrate compliance with this DPA and Article 28 GDPR, and allow for and
-     contribute to audits, including inspections, conducted by the Controller or
-     another auditor mandated by the Controller, no more than once per calendar
-     year, save in case of a Personal Data breach.
+ to demonstrate compliance with this DPA and Article 28 GDPR, and allow for and
+ contribute to audits, including inspections, conducted by the Controller or
+ another auditor mandated by the Controller, no more than once per calendar
+ year, save in case of a Personal Data breach.
 
 11. INTERNATIONAL TRANSFERS
 11.1 Where Personal Data is transferred outside the EEA, the Parties shall enter
-     into the relevant module of the EU Standard Contractual Clauses adopted by
-     Commission Implementing Decision (EU) 2021/914 of 04 June 2021.
+ into the relevant module of the EU Standard Contractual Clauses adopted by
+ Commission Implementing Decision (EU) 2021/914 of 04 June 2021.
 
 12. LIABILITY (Art. 82 GDPR)
 12.1 Each Party shall be liable in accordance with Article 82 GDPR.
@@ -151,17 +151,17 @@ The Controller and the Processor are each a "Party" and together the "Parties".
 
 14. GOVERNING LAW AND JURISDICTION
 14.1 This DPA shall be governed by the laws of [jurisdiction] and the courts of
-     [court venue] shall have exclusive jurisdiction.
+ [court venue] shall have exclusive jurisdiction.
 
-Annex I  Description of Processing
+Annex I Description of Processing
 Annex II Technical and Organisational Measures
 Annex III List of Sub-processors
 
-Signed on behalf of the Controller:        Signed on behalf of the Processor:
-__________________________________         __________________________________
-Name:                                       Name:
-Title:                                      Title:
-Date:                                       Date:
+Signed on behalf of the Controller: Signed on behalf of the Processor:
+__________________________________ __________________________________
+Name: Name:
+Title: Title:
+Date: Date:
 ```
 
 ## Typische Drafting-Fehler
@@ -241,76 +241,76 @@ Processor: [NAME]
 Review cycle: annually and upon material change
 
 1. PSEUDONYMISATION (Art. 32 (1) (a) GDPR)
-   1.1 Personal data shall be pseudonymised in development and test environments.
-   1.2 The mapping table shall be stored separately, with access limited to the
-       Data Protection Officer.
+ 1.1 Personal data shall be pseudonymised in development and test environments.
+ 1.2 The mapping table shall be stored separately, with access limited to the
+ Data Protection Officer.
 
 2. ENCRYPTION (Art. 32 (1) (a) GDPR)
-   2.1 In transit: TLS 1.3 with forward secrecy, configured in accordance with
-       industry guidance (e.g. BSI TR-02102 or NIST SP 800-52 Rev. 2).
-   2.2 At rest: AES-256 (CBC or GCM) for all databases and backups.
-   2.3 Key management: hardware security module (HSM) or equivalent; keys rotated
-       at least annually.
+ 2.1 In transit: TLS 1.3 with forward secrecy, configured in accordance with
+ industry guidance (e.g. BSI TR-02102 or NIST SP 800-52 Rev. 2).
+ 2.2 At rest: AES-256 (CBC or GCM) for all databases and backups.
+ 2.3 Key management: hardware security module (HSM) or equivalent; keys rotated
+ at least annually.
 
 3. CONFIDENTIALITY (Art. 32 (1) (b) GDPR)
-   3.1 Physical access controls: 24/7 guarded data centres with multi-factor
-       physical access.
-   3.2 Logical access: multi-factor authentication for all privileged accounts.
-   3.3 Authorisation: role-based access control on a least-privilege basis;
-       periodic recertification.
-   3.4 Segregation: multi-tenant logical separation with tenant-scoped access
-       control.
+ 3.1 Physical access controls: 24/7 guarded data centres with multi-factor
+ physical access.
+ 3.2 Logical access: multi-factor authentication for all privileged accounts.
+ 3.3 Authorisation: role-based access control on a least-privilege basis;
+ periodic recertification.
+ 3.4 Segregation: multi-tenant logical separation with tenant-scoped access
+ control.
 
 4. INTEGRITY (Art. 32 (1) (b) GDPR)
-   4.1 Transfer controls: documented interfaces; audit logging of all data
-       exports.
-   4.2 Input controls: write-operation logging with attribution to authenticated
-       identities.
-   4.3 Hashing: SHA-256 or stronger for integrity verification.
+ 4.1 Transfer controls: documented interfaces; audit logging of all data
+ exports.
+ 4.2 Input controls: write-operation logging with attribution to authenticated
+ identities.
+ 4.3 Hashing: SHA-256 or stronger for integrity verification.
 
 5. AVAILABILITY AND RESILIENCE (Art. 32 (1) (b) GDPR)
-   5.1 Backups: daily incremental, weekly full; retention thirty (30) days.
-   5.2 Recovery Point Objective (RPO): twenty-four (24) hours or less.
-   5.3 Recovery Time Objective (RTO): eight (8) hours or less for critical
-       processing.
-   5.4 Geographic redundancy: synchronous replication across at least two EEA
-       data centres.
-   5.5 DDoS protection: upstream filtering with provider SLA.
+ 5.1 Backups: daily incremental, weekly full; retention thirty (30) days.
+ 5.2 Recovery Point Objective (RPO): twenty-four (24) hours or less.
+ 5.3 Recovery Time Objective (RTO): eight (8) hours or less for critical
+ processing.
+ 5.4 Geographic redundancy: synchronous replication across at least two EEA
+ data centres.
+ 5.5 DDoS protection: upstream filtering with provider SLA.
 
 6. RECOVERABILITY (Art. 32 (1) (c) GDPR)
-   6.1 Incident response runbook; tabletop exercises at least annually.
-   6.2 Documented restoration procedures.
-   6.3 Restoration drills with actual data restoration tests at least semi-annually.
+ 6.1 Incident response runbook; tabletop exercises at least annually.
+ 6.2 Documented restoration procedures.
+ 6.3 Restoration drills with actual data restoration tests at least semi-annually.
 
 7. REGULAR TESTING (Art. 32 (1) (d) GDPR)
-   7.1 Independent third-party penetration testing at least annually.
-   7.2 Vulnerability scanning monthly.
-   7.3 Internal ISMS audits annually; external ISO 27001 audits annually.
-   7.4 TOM annex review at least annually.
+ 7.1 Independent third-party penetration testing at least annually.
+ 7.2 Vulnerability scanning monthly.
+ 7.3 Internal ISMS audits annually; external ISO 27001 audits annually.
+ 7.4 TOM annex review at least annually.
 
 8. ORGANISATIONAL MEASURES
-   8.1 Data Protection Officer designated; contact details in Annex IV.
-   8.2 Confidentiality undertakings from all personnel processing personal data
-       (Article 28 (3) (b) GDPR).
-   8.3 Annual data protection training with attendance records.
-   8.4 Joiner-mover-leaver process; immediate revocation of access on exit.
-   8.5 Incident response procedure with notification to the Controller within
-       forty-eight (48) hours of becoming aware of a personal data breach
-       (Article 33 GDPR).
+ 8.1 Data Protection Officer designated; contact details in Annex IV.
+ 8.2 Confidentiality undertakings from all personnel processing personal data
+ (Article 28 (3) (b) GDPR).
+ 8.3 Annual data protection training with attendance records.
+ 8.4 Joiner-mover-leaver process; immediate revocation of access on exit.
+ 8.5 Incident response procedure with notification to the Controller within
+ forty-eight (48) hours of becoming aware of a personal data breach
+ (Article 33 GDPR).
 
 9. CERTIFICATIONS AND STANDARDS
-   9.1 ISO/IEC 27001:2022 – certified on [DATE] by [BODY].
-   9.2 BSI C5:2020 Type 2 – report dated [DATE].
-   9.3 SOC 2 Type II – report period [PERIOD].
+ 9.1 ISO/IEC 27001:2022 – certified on [DATE] by [BODY].
+ 9.2 BSI C5:2020 Type 2 – report dated [DATE].
+ 9.3 SOC 2 Type II – report period [PERIOD].
 
 10. SUB-PROCESSORS
-    10.1 Sub-processors are required to implement measures at least equivalent
-         to those set out in this Annex II (Article 28 (4) GDPR).
-    10.2 Sub-processor audit reports shall be provided to the Controller on
-         request.
+ 10.1 Sub-processors are required to implement measures at least equivalent
+ to those set out in this Annex II (Article 28 (4) GDPR).
+ 10.2 Sub-processor audit reports shall be provided to the Controller on
+ request.
 
-Signed by:                                  Date:
-________________________________            ____________________________
+Signed by: Date:
+________________________________ ____________________________
 [Processor representative]
 ```
 
@@ -409,12 +409,12 @@ DPO: [Name, contact]
 - Data subject rights: [Implemented mechanisms]
 
 3. TOP RISKS TO DATA SUBJECTS (BEFORE MEASURES)
-| Scenario                          | Likelihood | Severity | Rating |
-| Unauthorised access               | [h/m/l]    | [h/m/l]  | [R/O/Y/G] |
-| Covert profiling                  |            |          |        |
-| Data leakage / transfer exposure  |            |          |        |
-| Discrimination of data subjects   |            |          |        |
-| Identity theft / fraud            |            |          |        |
+| Scenario | Likelihood | Severity | Rating |
+| Unauthorised access | [h/m/l] | [h/m/l] | [R/O/Y/G] |
+| Covert profiling | | | |
+| Data leakage / transfer exposure | | | |
+| Discrimination of data subjects | | | |
+| Identity theft / fraud | | | |
 
 4. KEY MEASURES
 - Technical: [encryption, pseudonymisation, access control, logging, key management]
@@ -423,10 +423,10 @@ DPO: [Name, contact]
 - AI-specific (if applicable): [human oversight, logging Art. 26(6) AI Act, transparency Art. 50 AI Act]
 
 5. RESIDUAL RISK
-| Scenario                          | Rating after measures |
-| Unauthorised access               | [R/O/Y/G]             |
-| Covert profiling                  |                       |
-| ...                               |                       |
+| Scenario | Rating after measures |
+| Unauthorised access | [R/O/Y/G] |
+| Covert profiling | |
+| ... | |
 
 Overall residual risk: [HIGH / MEDIUM / LOW]
 
@@ -503,10 +503,10 @@ Complete English-language Data Protection Impact Assessment template aligned wit
 ## Legal framework
 
 - Art. 35(7) GDPR minimum content of a DPIA:
-  - lit. a systematic description of processing operations and purposes
-  - lit. b assessment of necessity and proportionality
-  - lit. c assessment of risk to rights and freedoms of data subjects
-  - lit. d measures envisaged to address the risk, including safeguards, security measures and mechanisms
+ - lit. a systematic description of processing operations and purposes
+ - lit. b assessment of necessity and proportionality
+ - lit. c assessment of risk to rights and freedoms of data subjects
+ - lit. d measures envisaged to address the risk, including safeguards, security measures and mechanisms
 - Art. 35(2) GDPR DPO consultation
 - Art. 35(9) GDPR consultation of data subjects or their representatives where appropriate
 - Art. 5(2) GDPR accountability
@@ -549,7 +549,7 @@ Overall risk after measures: [HIGH / MEDIUM / LOW]
 Approval recommendation: [Approved / Prior consultation Art. 36 / Not approved]
 
 1. DESCRIPTION OF PROCESSING
-   (Art. 35(7)(a) GDPR)
+ (Art. 35(7)(a) GDPR)
 1.1 Purpose and nature of processing
 [...]
 1.2 Categories of personal data
@@ -572,7 +572,7 @@ Approval recommendation: [Approved / Prior consultation Art. 36 / Not approved]
 [Diagram reference or short narrative]
 
 2. NECESSITY AND PROPORTIONALITY ASSESSMENT
-   (Art. 35(7)(b) GDPR)
+ (Art. 35(7)(b) GDPR)
 2.1 Necessity of processing for purpose
 [Suitable, necessary, no less intrusive means]
 2.2 Data minimisation Art. 5(1)(c) GDPR
@@ -589,24 +589,24 @@ Approval recommendation: [Approved / Prior consultation Art. 36 / Not approved]
 [...]
 
 3. RISK TO DATA SUBJECTS
-   (Art. 35(7)(c) GDPR)
+ (Art. 35(7)(c) GDPR)
 3.1 Risk matrix before measures
-| No | Scenario                          | Likelihood | Severity | Risk |
+| No | Scenario | Likelihood | Severity | Risk |
 |----|-----------------------------------|------------|----------|------|
-| 1  | Unauthorised access (confid.)     | [h/m/l]    | [h/m/l]  | [R/O/Y/G] |
-| 2  | Data leakage to outside           |            |          |      |
-| 3  | Covert profiling                  |            |          |      |
-| 4  | Data loss / availability          |            |          |      |
-| 5  | Manipulation / integrity          |            |          |      |
-| 6  | Discrimination of data subjects   |            |          |      |
-| 7  | Identity theft                    |            |          |      |
+| 1 | Unauthorised access (confid.) | [h/m/l] | [h/m/l] | [R/O/Y/G] |
+| 2 | Data leakage to outside | | | |
+| 3 | Covert profiling | | | |
+| 4 | Data loss / availability | | | |
+| 5 | Manipulation / integrity | | | |
+| 6 | Discrimination of data subjects | | | |
+| 7 | Identity theft | | | |
 3.2 Protection goals touched
 [Confidentiality / Integrity / Availability / Transparency / Intervenability / Unlinkability / Data minimisation]
 3.3 Vulnerable data subjects
 [Children / Patients / Employees / Consumers]
 
 4. MEASURES TO MITIGATE RISK
-   (Art. 35(7)(d) GDPR)
+ (Art. 35(7)(d) GDPR)
 4.1 Technical measures (Art. 32 GDPR)
 - Encryption: [type, key length]
 - Pseudonymisation: [...]
@@ -738,18 +738,18 @@ Anwendungsfälle: Kanzlei oder Unternehmen moechte einen US-amerikanischen SaaS-
 | **USA** | EU-US Data Privacy Framework, Beschluss der Kommission vom 10.07.2023 (C(2023) 4745 final) | Nur für zertifizierte Unternehmen auf der DPF-Liste; Prüfung auf data.privacyframework.gov erforderlich |
 | **UK** | Angemessenheitsbeschluss vom 28.06.2021 (Beschluss 2021/1772/EU) | Gilt vorbehaltlich Überprüfung; nach Brexit-Änderungen des britischen Datenschutzrechts beobachten |
 | **Schweiz** | Angemessenheitsbeschluss der Kommission; erneuert im Kontext des CH-Datenschutzgesetzes (nDSG, in Kraft ab 01.09.2023) | Teilweiser Angemessenheitsbeschluss; Praxis nach CH-DSG-Reform beachten |
-| **Andorra** | Beschluss 2010/625/EU |  |
-| **Argentinien** | Beschluss 2003/490/EG |  |
-| **Faeroeer** | Beschluss 2010/146/EU |  |
-| **Guernsey** | Beschluss 2003/821/EG |  |
-| **Isle of Man** | Beschluss 2004/411/EG |  |
-| **Israel** | Beschluss 2011/61/EU |  |
+| **Andorra** | Beschluss 2010/625/EU | |
+| **Argentinien** | Beschluss 2003/490/EG | |
+| **Faeroeer** | Beschluss 2010/146/EU | |
+| **Guernsey** | Beschluss 2003/821/EG | |
+| **Isle of Man** | Beschluss 2004/411/EG | |
+| **Israel** | Beschluss 2011/61/EU | |
 | **Japan** | Beschluss vom 23.01.2019 (2019/419/EU) | Mit gegenseitiger Anerkennung; Einschraenkungen beachten |
-| **Jersey** | Beschluss 2008/393/EG |  |
+| **Jersey** | Beschluss 2008/393/EG | |
 | **Kanada** | Beschluss 2002/2/EG | Nur für Organisationen, die dem PIPEDA unterliegen; Bundesbehörden ausgenommen |
-| **Neuseeland** | Beschluss 2013/65/EU |  |
+| **Neuseeland** | Beschluss 2013/65/EU | |
 | **Suedkorea** | Beschluss vom 17.12.2021 (2022/254/EU) | Erster Angemessenheitsbeschluss in Asien außerhalb Japan |
-| **Uruguay** | Beschluss 2012/484/EU |  |
+| **Uruguay** | Beschluss 2012/484/EU | |
 
 ## Ablauf
 
@@ -871,23 +871,23 @@ Transfermechanismus: [SCC Modul X / BCR / DPF]
 Datenkategorien: [Auflistung]
 
 1. Kartierung der Uebermittlung
-   [Zweck, Umfang, Haeufigkeit]
+ [Zweck, Umfang, Haeufigkeit]
 
 2. Rechtslage im Empfaengerland
-   [Relevante Gesetze, Massengesetze, Behoerdenzugriffsrechte]
-   Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Laenderanalysen]
+ [Relevante Gesetze, Massengesetze, Behoerdenzugriffsrechte]
+ Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Laenderanalysen]
 
 3. Schutzlueckenanalyse
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 4. Ergaenzende Massnahmen
-   [Verschluesselung, Pseudonymisierung, vertragliche Massnahmen]
+ [Verschluesselung, Pseudonymisierung, vertragliche Massnahmen]
 
 5. Ergebnis und Restrisiko
-   [Gruen / Orange / Rot – Begruendung]
+ [Gruen / Orange / Rot – Begruendung]
 
 6. Massnahmenplan
-   [Bei Orange oder Rot: konkrete Abhilfemassnahmen mit Frist und Verantwortlichen]
+ [Bei Orange oder Rot: konkrete Abhilfemassnahmen mit Frist und Verantwortlichen]
 
 Unterschrift DSB: _____________
 Freigabe Datenschutzbeauftragter: _____________
@@ -898,11 +898,11 @@ Freigabe Datenschutzbeauftragter: _____________
 ```
 Wer ist Exporteur?
 ├─ Verantwortlicher in EU
-│  ├─ Importeur = Verantwortlicher im Drittland → Modul 1
-│  └─ Importeur = Auftragsverarbeiter im Drittland → Modul 2
+│ ├─ Importeur = Verantwortlicher im Drittland → Modul 1
+│ └─ Importeur = Auftragsverarbeiter im Drittland → Modul 2
 └─ Auftragsverarbeiter in EU
-   ├─ Importeur = Auftragsverarbeiter im Drittland (Sub-AV) → Modul 3
-   └─ Importeur = Verantwortlicher im Drittland (Ruecktransfer) → Modul 4
+ ├─ Importeur = Auftragsverarbeiter im Drittland (Sub-AV) → Modul 3
+ └─ Importeur = Verantwortlicher im Drittland (Ruecktransfer) → Modul 4
 ```
 
 ### Datenschutzerklärungsbaustein Drittlandtransfer
@@ -959,13 +959,13 @@ Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 
 ```
 Findet eine Übermittlung außerhalb EU/EWR statt?
-  Nein → kein Kapitel-V-DSGVO-Problem
-  Ja → Angemessenheitsbeschluss vorhanden?
-        Ja (USA/DPF, UK, Schweiz etc.) → Angemessenheitsbeschluss, Scope, Empfänger und Monitoring prüfen
-        Nein → SCC (Beschluss 2021/914) vorhanden?
-                 Ja → TIA erforderlich; Modul korrekt?
-                 Nein → BCR / Art. 49 Ausnahme?
-                          Nein → Übermittlung unzulässig
+ Nein → kein Kapitel-V-DSGVO-Problem
+ Ja → Angemessenheitsbeschluss vorhanden?
+ Ja (USA/DPF, UK, Schweiz etc.) → Angemessenheitsbeschluss, Scope, Empfänger und Monitoring prüfen
+ Nein → SCC (Beschluss 2021/914) vorhanden?
+ Ja → TIA erforderlich; Modul korrekt?
+ Nein → BCR / Art. 49 Ausnahme?
+ Nein → Übermittlung unzulässig
 ```
 
 ## Output-Template — TIA-Ergebnis

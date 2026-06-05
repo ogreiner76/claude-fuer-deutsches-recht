@@ -1,13 +1,13 @@
 ---
 name: bho-bundesbetriebe-praktisch-erhebung
-description: "Nutze dies, wenn Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen im Plugin Haushaltsrecht Bho Bund Länder konkret bearbeitet werden soll. Auslöser: Bitte Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak, Bho 062 Bho 39 Gewaehrleistungen Praktisch Anw und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

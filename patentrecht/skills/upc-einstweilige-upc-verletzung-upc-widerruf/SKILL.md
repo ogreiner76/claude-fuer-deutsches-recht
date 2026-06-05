@@ -1,13 +1,13 @@
 ---
 name: upc-einstweilige-upc-verletzung-upc-widerruf
-description: "Nutze dies, wenn Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation prüfen.; Erstelle eine Arbeitsfassung zu Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerruf Und Widerklage Revocation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Upc Einstweilige Massnahmen, Upc Verletzung Und Rechtsbestand, Upc Widerr
 
 Preliminary injunctions und provisional measures vor dem UPC aus Antragsteller- oder Antragsgegnerperspektive.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
@@ -92,7 +92,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 UPC-Route für europäische Patentstreitigkeiten mit Zuständigkeit, Opt-out-Status, Verletzungs- und Rechtsbestandsangriffen.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
@@ -150,7 +150,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 Rechtsbestandsangriffe vor dem UPC mit Parallelität zu EPO-Opposition und nationalen Verfahren.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 

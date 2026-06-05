@@ -50,10 +50,10 @@ Ueberstunden koennen im Arbeitszeitkonto angesammelt und durch Freizeit oder Aus
 ### Phase 1 — Vertragspruefung
 
 - Schriftliche Arbeitszeitkonto-Vereinbarung mit:
-  - Obergrenze (z.B. +120 Stunden) und Untergrenze (z.B. -40 Stunden).
-  - Ausgleichszeitraum (z.B. 12 Monate).
-  - Modalitaeten Freizeit-Ausgleich.
-  - Modalitaeten Auszahlung.
+ - Obergrenze (z.B. +120 Stunden) und Untergrenze (z.B. -40 Stunden).
+ - Ausgleichszeitraum (z.B. 12 Monate).
+ - Modalitaeten Freizeit-Ausgleich.
+ - Modalitaeten Auszahlung.
 - Falls keine Vereinbarung: Ueberstunden in der Regel als Mehrarbeit zu verguteten.
 
 ### Phase 2 — Stunden-Konto fuehren

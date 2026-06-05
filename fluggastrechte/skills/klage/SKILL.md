@@ -1,12 +1,12 @@
 ---
 name: klage
-description: "Nutze dies, wenn Klage: Mandantenkommunikation und Entscheidungsvorlage im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Klage: Mandantenkommunikation und Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Klage: Mandantenkommunikation und Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klage: Mandantenkommunikation und Entscheidungsvorlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Klage: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Klage: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Klage: Mandantenkommunikation und Entscheidungsvorlage / spezial klage mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Klage: Mandantenkommunikation und Entscheidungsvorlage / klage mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

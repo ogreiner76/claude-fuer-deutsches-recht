@@ -1,22 +1,22 @@
 ---
 name: registeranmeldung-risk-map-satzung
-description: "Nutze dies, wenn Registeranmeldung, Risk Map Anfechtung Nichtigkeit, Satzung Und Geschaeftsordnung Check, Satzungsaenderung im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Registeranmeldung, Risk Map Anfechtung Nichtigkeit, Satzung Und Geschaeftsordnung Check, Satzungsaenderung prüfen.; Erstelle eine Arbeitsfassung zu Registeranmeldung, Risk Map Anfechtung Nichtigkeit, Satzung Und Geschaeftsordnung Check, Satzungsaenderung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Registeranmeldung, Risk Map Anfechtung Nichtigkeit, Satzung Und Geschaeftsordnung Check, Satzungsaenderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Registeranmeldung, Risk Map Anfechtung Nichtigkeit, Satzung Und Geschaeftsordnung Check, Satzungsaenderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Registeranmeldung, Risk Map Anfechtung Nichtigkeit, Satzung Und Geschaeftsordnung Check, Satzungsaenderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `registeranmeldung` | Hauptversammlung AG und SE: Registeranmeldung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `risk-map-anfechtung-nichtigkeit` | Hauptversammlung AG und SE: Risk Map Anfechtung Nichtigkeit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `satzung-und-geschaeftsordnung-check` | Hauptversammlung AG und SE: Satzung Und Geschaeftsordnung Check; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `satzungsaenderung` | Hauptversammlung AG und SE: Satzungsaenderung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `registeranmeldung` | Hauptversammlung AG und SE: Registeranmeldung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `risk-map-anfechtung-nichtigkeit` | Hauptversammlung AG und SE: Risk Map Anfechtung Nichtigkeit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `satzung-und-geschaeftsordnung-check` | Hauptversammlung AG und SE: Satzung Und Geschaeftsordnung Check; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `satzungsaenderung` | Hauptversammlung AG und SE: Satzungsaenderung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Registeranmeldung, Risk Map Anfechtung Nichtigkeit, Satzung Und Geschaeft
 
 ## 1. `registeranmeldung`
 
-**Fokus:** Hauptversammlung AG und SE: Registeranmeldung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Registeranmeldung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Registeranmeldung
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `risk-map-anfechtung-nichtigkeit`
 
-**Fokus:** Hauptversammlung AG und SE: Risk Map Anfechtung Nichtigkeit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Risk Map Anfechtung Nichtigkeit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Risk Map Anfechtung Nichtigkeit
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `satzung-und-geschaeftsordnung-check`
 
-**Fokus:** Hauptversammlung AG und SE: Satzung Und Geschaeftsordnung Check; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Satzung Und Geschaeftsordnung Check; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Satzung Und Geschaeftsordnung Check
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `satzungsaenderung`
 
-**Fokus:** Hauptversammlung AG und SE: Satzungsaenderung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Satzungsaenderung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Satzungsaenderung
 

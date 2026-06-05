@@ -57,12 +57,12 @@ DPO: [Name, contact]
 - Data subject rights: [Implemented mechanisms]
 
 3. TOP RISKS TO DATA SUBJECTS (BEFORE MEASURES)
-| Scenario                          | Likelihood | Severity | Rating |
-| Unauthorised access               | [h/m/l]    | [h/m/l]  | [R/O/Y/G] |
-| Covert profiling                  |            |          |        |
-| Data leakage / transfer exposure  |            |          |        |
-| Discrimination of data subjects   |            |          |        |
-| Identity theft / fraud            |            |          |        |
+| Scenario | Likelihood | Severity | Rating |
+| Unauthorised access | [h/m/l] | [h/m/l] | [R/O/Y/G] |
+| Covert profiling | | | |
+| Data leakage / transfer exposure | | | |
+| Discrimination of data subjects | | | |
+| Identity theft / fraud | | | |
 
 4. KEY MEASURES
 - Technical: [encryption, pseudonymisation, access control, logging, key management]
@@ -71,10 +71,10 @@ DPO: [Name, contact]
 - AI-specific (if applicable): [human oversight, logging Art. 26(6) AI Act, transparency Art. 50 AI Act]
 
 5. RESIDUAL RISK
-| Scenario                          | Rating after measures |
-| Unauthorised access               | [R/O/Y/G]             |
-| Covert profiling                  |                       |
-| ...                               |                       |
+| Scenario | Rating after measures |
+| Unauthorised access | [R/O/Y/G] |
+| Covert profiling | |
+| ... | |
 
 Overall residual risk: [HIGH / MEDIUM / LOW]
 

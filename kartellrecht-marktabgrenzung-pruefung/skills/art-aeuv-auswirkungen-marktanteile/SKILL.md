@@ -1,19 +1,19 @@
 ---
 name: art-aeuv-auswirkungen-marktanteile
-description: "Nutze dies, wenn Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung prüfen.; Erstelle eine Arbeitsfassung zu Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Marktbeherrschung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `art-102-aeuv-missbrauchspruefung-einstieg` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 102 AEUV Missbrauchsprüfung Einstieg. |
+| `art-102-aeuv-missbrauchspruefung-einstieg` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 102 AEUV Missbrauchsprüfung Einstieg. |
 | `auswirkungen-marktanteile-marktbeherrschung` | Wie aendert sich der Marktanteil des Mandanten je nachdem wie eng oder weit der Markt abgegrenzt wird. Quantifiziert Auswirkungen alternativer Marktabgrenzungen auf Marktanteile und Marktbeherrschungsvermutungen. Normen § 18 Abs. 4 GWB 40-Prozent-Einzelmarktbeherrschungs-Vermutung § 18 Abs. 6 GWB gemeinsame Beherrschung Art. 102 AEUV. Prüfraster Marktanteilsberechnung je Marktdefinition rechtliche Konsequenzen Untersagung Missbrauch Zulassung. Output Sensitivitaets-Tabelle Marktanteil pro Szenario mit Ampelbewertung. Abgrenzung: gesamtbewertung-tragfähigkeit für das Gesamturteil. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Art 102 Aeuv Missbrauchspruefung Einstieg, Auswirkungen Marktanteile Mark
 
 ## 1. `art-102-aeuv-missbrauchspruefung-einstieg`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 102 AEUV Missbrauchsprüfung Einstieg.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 102 AEUV Missbrauchsprüfung Einstieg.
 
 
 # Art 102 AEUV Missbrauchsprüfung Einstieg

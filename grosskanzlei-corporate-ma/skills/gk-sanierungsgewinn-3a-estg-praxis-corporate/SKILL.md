@@ -43,7 +43,7 @@ Nicht dieser Skill, sondern der spezialisierte Steuerberatungs-Skill ist primär
 - **§ 7b GewStG i. V. m. § 36 Abs. 2c GewStG** – gewerbesteuerliche Parallelregelung.
 - **BMF-Schreiben vom 27.04.2017** und nachfolgende Verlautbarungen.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Tatbestandsmerkmal 1 – Sanierungsbedürftigkeit:**
 
@@ -114,10 +114,10 @@ Im Mandantengespräch sind drei Aussagen wichtig:
 - Plugin `steuerrecht-anwalt-und-berater`: Detailberatung zu § 3a EStG einschließlich Streitfragen.
 - Plugin `insolvenzrecht`: § 3a EStG im Insolvenzplan.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
-  - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
-  - `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
+ - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
+ - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
+ - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+ - `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
 
 ## Quellen Stand 06/2026
 

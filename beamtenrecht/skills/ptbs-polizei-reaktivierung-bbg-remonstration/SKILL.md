@@ -1,13 +1,13 @@
 ---
 name: ptbs-polizei-reaktivierung-bbg-remonstration
-description: "Nutze dies, wenn Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechtsanspruch, Remonstration Rechtswidrige Weisung, Richter Praesidium Und Geschaeftsverteilung im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechtsanspruch, Remonstration Rechtswidrige Weisung, Richter Praesidium Und Geschaeftsverteilung prüfen.; Erstelle eine Arbeitsfassung zu Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechtsanspruch, Remonstration Rechtswidrige Weisung, Richter Praesidium Und Geschaeftsverteilung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechtsanspruch, Remonstration Rechtswidrige Weisung, Richter Praesidium Und Geschaeftsverteilung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ptbs Polizei Anerkennung Dienstunfall, Reaktivierung 29 Bbg Rechtsanspruch, Remonstration Rechtswidrige Weisung, Richter Praesidium Und Geschaeftsverteilung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

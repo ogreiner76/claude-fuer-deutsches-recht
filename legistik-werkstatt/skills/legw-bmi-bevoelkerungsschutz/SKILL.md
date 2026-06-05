@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Bevoelkerungsschutz und Katastrophenrecht
-Ressort:            BMI
-Kernnormen:         ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).
-Akteure/Aufsicht:   BBK; THW; Laender-Katastrophenschutz; KRITIS-Aufsichten.
-EU/Voelkerrecht:    EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmi; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Bevoelkerungsschutz und Katastrophenrecht
+Ressort: BMI
+Kernnormen: ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).
+Akteure/Aufsicht: BBK; THW; Laender-Katastrophenschutz; KRITIS-Aufsichten.
+EU/Voelkerrecht: EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmi; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: stand-technik-patr2-anmeldeverfahren
-description: "Nutze dies, wenn Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie prüfen.; Erstelle eine Arbeitsfassung zu Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stand Der Technik Recherche Workflow, Patr2 Anmeldeverfahren Bauleiter, Rechtsabteilung Upc Eilverfahren Und Deutsche Parallelstrategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `stand-der-technik-recherche-workflow` | Plant eine Stand-der-Technik-Recherche: Suchbegriffe, CPC/IPC-Klassen, Datenbanken, Suchstrings, Trefferbewertung und Übergabe an das Patentrecherche-Plugin. |
 | `patr2-anmeldeverfahren-bauleiter` | Bauleiter Patentanmeldeverfahren DPMA und EPA: Pruefverfahren, Einspruch, Beschwerde. Pruefraster fuer Erfinder und Patentanwalt. |
-| `rechtsabteilung-upc-eilverfahren-und-deutsche-parallelstrategie` | Rechtsabteilungs-Spezialskill für UPC-Eilverfahren und deutsche Parallelstrategie: PI-Antrag, Schutzschrift, Bifurcation und Forumstrategie werden abgewogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-upc-eilverfahren-und-deutsche-parallelstrategie` | Rechtsabteilungs-Fachmodul für UPC-Eilverfahren und deutsche Parallelstrategie: PI-Antrag, Schutzschrift, Bifurcation und Forumstrategie werden abgewogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -129,7 +129,7 @@ Dieser Skill gehoert zum Plugin `patentrecht`. Er ergaenzt die uebrigen Skills d
 
 ## 3. `rechtsabteilung-upc-eilverfahren-und-deutsche-parallelstrategie`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für UPC-Eilverfahren und deutsche Parallelstrategie: PI-Antrag, Schutzschrift, Bifurcation und Forumstrategie werden abgewogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für UPC-Eilverfahren und deutsche Parallelstrategie: PI-Antrag, Schutzschrift, Bifurcation und Forumstrategie werden abgewogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: UPC-Eilverfahren und deutsche Parallelstrategie
 

@@ -1,13 +1,13 @@
 ---
 name: ifg-ifggebv-gebuehren-klage-vorbereiten
-description: "Nutze dies, wenn Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier im Plugin Informationsfreiheit Presseauskunft konkret bearbeitet werden soll. Auslöser: Bitte Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier prüfen.; Erstelle eine Arbeitsfassung zu Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ifg 053 Ifggebv Gebuehren Widerspruch Bauen, Ifg 054 Ifggebv Gebuehren Klage Vorbereiten, Ifg 055 Ifggebv Gebuehren Presseantwort Nachfa, Ifg 056 Ifggebv Gebuehren Tracking Aktualisier: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ifg 053 Ifggebv Gebühren Widerspruch Bauen, Ifg 054 Ifggebv Gebühren Klage Vorbereiten, Ifg 055 Ifggebv Gebühren Presseantwort Nachfa, Ifg 056 Ifggebv Gebühren Tracking Aktualisier** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: mindestabnahme
-description: "Klausel-Spezialskill für Mindestabnahme: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Mindestabnahme: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Mindestabnahme

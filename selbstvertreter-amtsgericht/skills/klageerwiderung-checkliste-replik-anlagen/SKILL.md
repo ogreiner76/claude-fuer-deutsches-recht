@@ -1,13 +1,13 @@
 ---
 name: klageerwiderung-checkliste-replik-anlagen
-description: "Nutze dies, wenn Klageerwiderung Checkliste Alle Punkte, Klageerwiderung Replik Anlagen B1 B2 Fortlaufend, Klageschrift Anlagen Bezeichnen im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Klageerwiderung Checkliste Alle Punkte, Klageerwiderung Replik Anlagen B1 B2 Fortlaufend, Klageschrift Anlagen Bezeichnen prüfen.; Erstelle eine Arbeitsfassung zu Klageerwiderung Checkliste Alle Punkte, Klageerwiderung Replik Anlagen B1 B2 Fortlaufend, Klageschrift Anlagen Bezeichnen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klageerwiderung Checkliste Alle Punkte, Klageerwiderung Replik Anlagen B1 B2 Fortlaufend, Klageschrift Anlagen Bezeichnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klageerwiderung Checkliste Alle Punkte, Klageerwiderung Replik Anlagen B1 B2 Fortlaufend, Klageschrift Anlagen Bezeichnen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klageerwiderung Checkliste Alle Punkte, Klageerwiderung Replik Anlagen B1 B2 Fortlaufend, Klageschrift Anlagen Bezeichnen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -135,7 +135,7 @@ Antraege:
 2. Die Kosten des Rechtsstreits traegt die Klaegerin.
 
 3. Das Urteil wird fuer vorlaeufig vollstreckbar erklaert
-   (auch ohne Sicherheitsleistung).
+ (auch ohne Sicherheitsleistung).
 ```
 
 ### Schritt 8 — Hilfsantraege bei Teil-Begruendetheit

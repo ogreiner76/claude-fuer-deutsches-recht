@@ -1,41 +1,41 @@
 ---
 name: passbeschaffung-zumutbarkeit-petition
-description: "Nutze dies, wenn Spezial Passbeschaffung Zumutbarkeit, Spezial Petition Migration, Spezial Qualifikations Schriftsatz Brief Und Memo Bausteine, Spezial Rechtsberatungsstelle Formular Portal Und Einreichung, Spezial Reform Mandantenkommunikation Entscheidungsvorlage im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Passbeschaffung Zumutbarkeit, Spezial Petition Migration, Spezial Qualifikations Schriftsatz Brief Und Memo Bausteine, Spezial Rechtsberatungsstelle Formular Portal Und Einreichung, Spezial Reform Mandantenkommunikation Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Passbeschaffung Zumutbarkeit, Spezial Petition Migration, Spezial Qualifikations Schriftsatz Brief Und Memo Bausteine, Spezial Rechtsberatungsstelle Formular Portal Und Einreichung, Spezial Reform Mandantenkommunikation Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Passbeschaffung Zumutbarkeit, Petition Migration, Qualifikations Schriftsatz Brief Und Memo Bausteine, Rechtsberatungsstelle Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Passbeschaffung Zumutbarkeit, Spezial Petition Migration, Spezial Qualifikations Schriftsatz Brief Und Memo Bausteine, Spezial Rechtsberatungsstelle Formular Portal Und Einreichung, Spezial Reform Mandantenkommunikation Entscheidungsvorlage
+# Passbeschaffung Zumutbarkeit, Petition Migration, Qualifikations Schriftsatz Brief Und Memo Bausteine, Rechtsberatungsstelle Formular Portal Und Einreichung, Reform Mandantenkommunikation Entscheidungsvorlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Passbeschaffung Zumutbarkeit, Petition Migration, Qualifikations Schriftsatz Brief Und Memo Bausteine, Rechtsberatungsstelle Formular Portal Und Einreichung, Reform Mandantenkommunikation Entscheidungsvorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-passbeschaffung-zumutbarkeit` | Passbeschaffung Zumutbarkeit: Spezial-Skill im Migrationsrecht; prüft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-petition-migration` | Petition Migration: Spezial-Skill im Migrationsrecht; prüft Landtag/Bundestag, Ziel, Timing, Parallelverfahren; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-passbeschaffung-zumutbarkeit` | Passbeschaffung Zumutbarkeit: Fachmodul im Migrationsrecht; prüft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-petition-migration` | Petition Migration: Fachmodul im Migrationsrecht; prüft Landtag/Bundestag, Ziel, Timing, Parallelverfahren; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `spezial-qualifikations-schriftsatz-brief-und-memo-bausteine` | Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-rechtsberatungsstelle-formular-portal-und-einreichung` | Rechtsberatungsstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-reform-mandantenkommunikation-entscheidungsvorlage` | Reform: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-Für **Spezial Passbeschaffung Zumutbarkeit, Spezial Petition Migration, Spezial Qualifikations Schriftsatz Brief Und Memo Bausteine, Spezial Rechtsberatungsstelle Formular Portal Und Einreichung, Spezial Reform Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Passbeschaffung Zumutbarkeit, Petition Migration, Qualifikations Schriftsatz Brief Und Memo Bausteine, Rechtsberatungsstelle Formular Portal Und Einreichung, Reform Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-passbeschaffung-zumutbarkeit`
 
-**Fokus:** Passbeschaffung Zumutbarkeit: Spezial-Skill im Migrationsrecht; prüft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Passbeschaffung Zumutbarkeit: Fachmodul im Migrationsrecht; prüft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Passbeschaffung Zumutbarkeit
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -64,14 +64,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Mitwi
 
 ## 2. `spezial-petition-migration`
 
-**Fokus:** Petition Migration: Spezial-Skill im Migrationsrecht; prüft Landtag/Bundestag, Ziel, Timing, Parallelverfahren; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Petition Migration: Fachmodul im Migrationsrecht; prüft Landtag/Bundestag, Ziel, Timing, Parallelverfahren; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Petition Migration
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Landtag/Bundestag, Ziel, Timing, Parallelverfahren.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Landtag/Bundestag, Ziel, Timing, Parallelverfahren.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -105,7 +105,7 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Landt
 # Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine / spezial qualifikations schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine / qualifikations schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -153,7 +153,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Rechtsberatungsstelle: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Rechtsberatungsstelle: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Rechtsberatungsstelle: Formular, Portal und Einreichungslogik / spezial rechtsberatungsstelle formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechtsberatungsstelle: Formular, Portal und Einreichungslogik / rechtsberatungsstelle formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -201,7 +201,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Reform: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Reform: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Reform: Mandantenkommunikation und Entscheidungsvorlage / spezial reform mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Reform: Mandantenkommunikation und Entscheidungsvorlage / reform mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

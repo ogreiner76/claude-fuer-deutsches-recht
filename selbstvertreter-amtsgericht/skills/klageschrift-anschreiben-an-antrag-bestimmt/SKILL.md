@@ -1,13 +1,13 @@
 ---
 name: klageschrift-anschreiben-an-antrag-bestimmt
-description: "Nutze dies, wenn Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo prüfen.; Erstelle eine Arbeitsfassung zu Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -93,16 +93,16 @@ Bei Bekanntem Aktenzeichen: konkrete Abteilung angeben, z. B. "Abt. C 5".
 
 ```
 Betreff: Aktenzeichen [AZ]
-         Rechtsstreit Mustermann ./. Beispielmann
-         wegen [Streitgegenstand]
+ Rechtsstreit Mustermann ./. Beispielmann
+ wegen [Streitgegenstand]
 ```
 
 Bei erster Klage (noch kein Aktenzeichen):
 
 ```
 Betreff: Klage
-         Mustermann ./. Beispielmann
-         wegen [Streitgegenstand]
+ Mustermann ./. Beispielmann
+ wegen [Streitgegenstand]
 ```
 
 Praxis-Hinweis: "./." (Punkt-Strich-Punkt) bedeutet "gegen".
@@ -375,13 +375,13 @@ Bei AG-Urteilen i. d. R. ohne Sicherheitsleistung (§ 708 ZPO).
 Antraege:
 
 1. Der Beklagte wird verurteilt, an den Klaeger
-   1.500 EUR nebst Zinsen ... zu zahlen.
+ 1.500 EUR nebst Zinsen ... zu zahlen.
 
 2. Die Kosten des Rechtsstreits traegt der
-   Beklagte.
+ Beklagte.
 
 3. Das Urteil wird fuer vorlaeufig vollstreckbar
-   erklaert.
+ erklaert.
 ```
 
 ## Worauf Sie besonders achten muessen
@@ -475,7 +475,7 @@ oder
 
 ```
 Beweis: Urkunde — Kaufvertrag vom 5.3.2025
-        (Anlage K1)
+ (Anlage K1)
 ```
 
 - Anlage fuegen Sie der Klage bei.
@@ -490,7 +490,7 @@ Muster:
 
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
-        Musterstrasse 1, 12345 Musterstadt
+ Musterstrasse 1, 12345 Musterstadt
 ```
 
 Pflichtangaben:
@@ -503,11 +503,11 @@ Beispiel mit Beweisthema:
 
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
-        Musterstrasse 1, 12345 Musterstadt,
-        zum Beweis dafuer, dass der Beklagte
-        bei der Lieferung am 12.3.2025 anwesend
-        war und persoenlich den Lieferschein
-        unterzeichnete.
+ Musterstrasse 1, 12345 Musterstadt,
+ zum Beweis dafuer, dass der Beklagte
+ bei der Lieferung am 12.3.2025 anwesend
+ war und persoenlich den Lieferschein
+ unterzeichnete.
 ```
 
 Skill `zeugenbeweis-373-ff-zpo`.
@@ -518,8 +518,8 @@ Muster:
 
 ```
 Beweis: Einholung eines Sachverstaendigen-Gutachtens
-        zum Beweis dafuer, dass die Reparaturkosten
-        des Fahrzeugs 4.250 EUR betragen.
+ zum Beweis dafuer, dass die Reparaturkosten
+ des Fahrzeugs 4.250 EUR betragen.
 ```
 
 - Sie muessen das **Beweisthema** klar formulieren.
@@ -533,9 +533,9 @@ Muster:
 
 ```
 Beweis: Inaugenscheinnahme des beschaedigten
-        Sofas durch das Gericht;
-        ergaenzend Anlage K6 (Fotos des Sofas
-        nach Beschaedigung).
+ Sofas durch das Gericht;
+ ergaenzend Anlage K6 (Fotos des Sofas
+ nach Beschaedigung).
 ```
 
 - Bei groesseren Objekten (Auto, Wohnung): Augenschein vor Ort, durch beauftragten Richter / Gerichtsvollzieher.
@@ -549,7 +549,7 @@ Muster:
 
 ```
 Beweis: Parteivernehmung des Klaegers gemaess
-        §§ 445, 448 ZPO
+ §§ 445, 448 ZPO
 ```
 
 - Nur subsidiaer (wenn keine anderen Beweismittel).
@@ -563,8 +563,8 @@ Sie koennen kumulativ mehrere benennen:
 
 ```
 Beweis: Anlage K2 (Lieferschein),
-        sowie Zeugnis des Herrn Mustermann,
-        Musterstrasse 1, 12345 Musterstadt.
+ sowie Zeugnis des Herrn Mustermann,
+ Musterstrasse 1, 12345 Musterstadt.
 ```
 
 Vorteil: Wenn ein Beweismittel scheitert, traegt das andere.

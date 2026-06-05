@@ -1,13 +1,13 @@
 ---
 name: oew-krankenhausgesellschaft-kommunikation-red
-description: "Nutze dies, wenn Oew 049 Krankenhausgesellschaft Kommunikation, Oew 050 Krankenhausgesellschaft Red Flags List, Oew 051 Stadtwerke Organisationsform Prüfen, Oew 052 Stadtwerke Vergabeweg Waehlen im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Oew 049 Krankenhausgesellschaft Kommunikation, Oew 050 Krankenhausgesellschaft Red Flags List, Oew 051 Stadtwerke Organisationsform Prüfen, Oew 052 Stadtwerke Vergabeweg Waehlen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oew 049 Krankenhausgesellschaft Kommunikation, Oew 050 Krankenhausgesellschaft Red Flags List, Oew 051 Stadtwerke Organisationsform Prüfen, Oew 052 Stadtwerke Vergabeweg Waehlen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oew 049 Krankenhausgesellschaft Kommunikation, Oew 050 Krankenhausgesellschaft Red Flags List, Oew 051 Stadtwerke Organisationsform Prüfen, Oew 052 Stadtwerke Vergabeweg Waehlen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

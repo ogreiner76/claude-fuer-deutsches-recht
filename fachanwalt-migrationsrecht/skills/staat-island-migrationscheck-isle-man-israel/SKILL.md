@@ -1,35 +1,35 @@
 ---
 name: staat-island-migrationscheck-isle-man-israel
-description: "Nutze dies, wenn Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Israel Migrationscheck, Staat Italien Migrationscheck, Staat Jamaika Migrationscheck und 12 weitere Themen im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Israel Migrationscheck, Staat Italien Migrationscheck, Staat Jamaika Migrationscheck und 12 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Israel Migrationscheck, Staat Italien Migrationscheck, Staat Jamaika Migrationscheck und 12 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Israel Migrationscheck, Staat Italien Migrationscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Israel Migrationscheck, Staat Italien Migrationscheck, Staat Jamaika Migrationscheck und 12 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Israel Migrationscheck, Staat Italien Migrationscheck, Staat Jamaika Migrationscheck und 12 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `staat-island-migrationscheck` | Staaten- und Gebietscheck Island: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-isle-of-man-migrationscheck` | Staaten- und Gebietscheck Isle of Man: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-israel-migrationscheck` | Staaten- und Gebietscheck Israel: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-italien-migrationscheck` | Staaten- und Gebietscheck Italien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-jamaika-migrationscheck` | Staaten- und Gebietscheck Jamaika: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-japan-migrationscheck` | Staaten- und Gebietscheck Japan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-jemen-migrationscheck` | Staaten- und Gebietscheck Jemen: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-jersey-migrationscheck` | Staaten- und Gebietscheck Jersey: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-jordanien-migrationscheck` | Staaten- und Gebietscheck Jordanien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-kambodscha-migrationscheck` | Staaten- und Gebietscheck Kambodscha: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-kamerun-migrationscheck` | Staaten- und Gebietscheck Kamerun: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-kanada-migrationscheck` | Staaten- und Gebietscheck Kanada: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-kap-verde-migrationscheck` | Staaten- und Gebietscheck Kap Verde: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-kasachstan-migrationscheck` | Staaten- und Gebietscheck Kasachstan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-katar-migrationscheck` | Staaten- und Gebietscheck Katar: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-kenia-migrationscheck` | Staaten- und Gebietscheck Kenia: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-kirgisistan-migrationscheck` | Staaten- und Gebietscheck Kirgisistan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-island-migrationscheck` | Staaten- und Gebietscheck Island: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-isle-of-man-migrationscheck` | Staaten- und Gebietscheck Isle of Man: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-israel-migrationscheck` | Staaten- und Gebietscheck Israel: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-italien-migrationscheck` | Staaten- und Gebietscheck Italien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-jamaika-migrationscheck` | Staaten- und Gebietscheck Jamaika: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-japan-migrationscheck` | Staaten- und Gebietscheck Japan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-jemen-migrationscheck` | Staaten- und Gebietscheck Jemen: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-jersey-migrationscheck` | Staaten- und Gebietscheck Jersey: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-jordanien-migrationscheck` | Staaten- und Gebietscheck Jordanien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-kambodscha-migrationscheck` | Staaten- und Gebietscheck Kambodscha: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-kamerun-migrationscheck` | Staaten- und Gebietscheck Kamerun: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-kanada-migrationscheck` | Staaten- und Gebietscheck Kanada: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-kap-verde-migrationscheck` | Staaten- und Gebietscheck Kap Verde: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-kasachstan-migrationscheck` | Staaten- und Gebietscheck Kasachstan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-katar-migrationscheck` | Staaten- und Gebietscheck Katar: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-kenia-migrationscheck` | Staaten- und Gebietscheck Kenia: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-kirgisistan-migrationscheck` | Staaten- und Gebietscheck Kirgisistan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
 
 ## Arbeitsweg
 
@@ -40,14 +40,14 @@ Für **Staat Island Migrationscheck, Staat Isle Of Man Migrationscheck, Staat Is
 
 ## 1. `staat-island-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Island: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Island: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Island
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Island**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Island**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Island: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -77,14 +77,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Island**. Er ist 
 
 ## 2. `staat-isle-of-man-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Isle of Man: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Isle of Man: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Isle of Man
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Isle of Man**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Isle of Man**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Isle of Man: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -114,14 +114,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Isle of Man**. Er
 
 ## 3. `staat-israel-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Israel: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Israel: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Israel
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Israel**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Israel**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Israel: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -151,14 +151,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Israel**. Er ist 
 
 ## 4. `staat-italien-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Italien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Italien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Italien
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Italien**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Italien**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Italien: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -188,14 +188,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Italien**. Er ist
 
 ## 5. `staat-jamaika-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Jamaika: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Jamaika: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Jamaika
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jamaika**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jamaika**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Jamaika: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -225,14 +225,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jamaika**. Er ist
 
 ## 6. `staat-japan-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Japan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Japan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Japan
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Japan**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Japan**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Japan: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -262,14 +262,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Japan**. Er ist k
 
 ## 7. `staat-jemen-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Jemen: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Jemen: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Jemen
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jemen**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jemen**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Jemen: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -299,14 +299,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jemen**. Er ist k
 
 ## 8. `staat-jersey-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Jersey: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Jersey: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Jersey
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jersey**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jersey**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Jersey: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -336,14 +336,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jersey**. Er ist 
 
 ## 9. `staat-jordanien-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Jordanien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Jordanien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Jordanien
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jordanien**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jordanien**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Jordanien: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -373,14 +373,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jordanien**. Er i
 
 ## 10. `staat-kambodscha-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Kambodscha: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kambodscha: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kambodscha
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kambodscha**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kambodscha**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Kambodscha: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -410,14 +410,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kambodscha**. Er 
 
 ## 11. `staat-kamerun-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Kamerun: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kamerun: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kamerun
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kamerun**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kamerun**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Kamerun: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -447,14 +447,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kamerun**. Er ist
 
 ## 12. `staat-kanada-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Kanada: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kanada: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kanada
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kanada**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kanada**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Kanada: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -484,14 +484,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kanada**. Er ist 
 
 ## 13. `staat-kap-verde-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Kap Verde: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kap Verde: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kap Verde
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kap Verde**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kap Verde**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Kap Verde: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -521,14 +521,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kap Verde**. Er i
 
 ## 14. `staat-kasachstan-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Kasachstan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kasachstan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kasachstan
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kasachstan**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kasachstan**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Kasachstan: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -558,14 +558,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kasachstan**. Er 
 
 ## 15. `staat-katar-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Katar: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Katar: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Katar
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Katar**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Katar**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Katar: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -595,14 +595,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Katar**. Er ist k
 
 ## 16. `staat-kenia-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Kenia: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kenia: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kenia
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kenia**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kenia**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Kenia: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -632,14 +632,14 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kenia**. Er ist k
 
 ## 17. `staat-kirgisistan-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Kirgisistan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kirgisistan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kirgisistan
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kirgisistan**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kirgisistan**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Kirgisistan: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?

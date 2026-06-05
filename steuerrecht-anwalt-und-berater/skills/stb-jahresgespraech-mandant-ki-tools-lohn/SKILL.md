@@ -1,13 +1,13 @@
 ---
 name: stb-jahresgespraech-mandant-ki-tools-lohn
-description: "Nutze dies, wenn Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog, Stb Lohn Bav Doppelversorgung Foerderung und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -92,40 +92,40 @@ Termin: [Datum]
 Dauer: 2-3 Stunden
 
 1. JAHR IN ZAHLEN (30 Min)
-   - Umsatz, EBIT, Jahresueberschuss
-   - Vorjahresvergleich
-   - Mehrjahres-Trend
-   - Branchenvergleich
+ - Umsatz, EBIT, Jahresueberschuss
+ - Vorjahresvergleich
+ - Mehrjahres-Trend
+ - Branchenvergleich
 
 2. BILANZ (20 Min)
-   - Eigenkapital-Entwicklung
-   - Liquiditaet
-   - Anlagendeckung
-   - Sondervorgaenge
+ - Eigenkapital-Entwicklung
+ - Liquiditaet
+ - Anlagendeckung
+ - Sondervorgaenge
 
 3. STEUERN (30 Min)
-   - Steuerbelastung im Jahr
-   - Vorauszahlungen Folgejahr
-   - Steuerliche Optimierungen
-   - Investitionsabzugsbetrag § 7g EStG
-   - Sonder-AfA-Optionen
+ - Steuerbelastung im Jahr
+ - Vorauszahlungen Folgejahr
+ - Steuerliche Optimierungen
+ - Investitionsabzugsbetrag § 7g EStG
+ - Sonder-AfA-Optionen
 
 4. PERSONAL (15 Min)
-   - Personalentwicklung
-   - Lohnkostenquote
-   - Sondervergueteungs-Planung
-   - SV-Themen
+ - Personalentwicklung
+ - Lohnkostenquote
+ - Sondervergueteungs-Planung
+ - SV-Themen
 
 5. STRATEGIE FOLGEJAHR (30 Min)
-   - Umsatz- und Ergebnis-Plan
-   - Investitionsplan
-   - Finanzierung
-   - Eigenkapital-Verstaerkung
+ - Umsatz- und Ergebnis-Plan
+ - Investitionsplan
+ - Finanzierung
+ - Eigenkapital-Verstaerkung
 
 6. RISIKEN UND ESKALATIONEN (10 Min)
-   - Krisensignale
-   - § 102 StaRUG-Hinweise
-   - Anhaengige Pruefungen
+ - Krisensignale
+ - § 102 StaRUG-Hinweise
+ - Anhaengige Pruefungen
 ```
 
 ### Phase 3 — Gespraechsfuehrung
@@ -668,9 +668,9 @@ Hat ein AN mehrere bAV-Vertraege (z.B. Direktversicherung und Pensionskasse), gr
 
 - Ueberschiessender Beitrag: voll LSt-pflichtig.
 - Optionen:
-  - Beitrag reduzieren (in einem Vertrag).
-  - Ueberschuss versteuern (Mandant akzeptiert).
-  - Beitrag in Direktzusage umwandeln (kein § 3 Nr. 63 EStG-Limit, aber andere Behandlung).
+ - Beitrag reduzieren (in einem Vertrag).
+ - Ueberschuss versteuern (Mandant akzeptiert).
+ - Beitrag in Direktzusage umwandeln (kein § 3 Nr. 63 EStG-Limit, aber andere Behandlung).
 
 ### Phase 4 — Altvertraege § 40b EStG a.F.
 

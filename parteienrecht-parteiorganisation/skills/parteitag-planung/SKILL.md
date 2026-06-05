@@ -8,7 +8,7 @@ description: "Plant Parteitag/Hauptversammlung: Einladung, Antragsfristen, Wahlo
 ## Aufgabe
 Plant Parteitag/Hauptversammlung: Einladung, Antragsfristen, Wahlordnung, Mandatsprüfung, Präsidium, Protokoll.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

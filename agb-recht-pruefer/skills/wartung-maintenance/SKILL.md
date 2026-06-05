@@ -1,6 +1,6 @@
 ---
 name: wartung-maintenance
-description: "Branchen-Spezialskill für Wartung Maintenance: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Wartung Maintenance: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Wartung Maintenance

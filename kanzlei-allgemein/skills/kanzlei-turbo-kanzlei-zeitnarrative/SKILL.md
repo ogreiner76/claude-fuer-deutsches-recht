@@ -1,13 +1,13 @@
 ---
 name: kanzlei-turbo-kanzlei-zeitnarrative
-description: "Nutze dies, wenn Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Allgemein Schriftsatz Turbo, Kanzlei Allgemein Zeitnarrative** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -168,7 +168,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Schriftsatz schnell erstellen Turbo-Workflow | Schriftsatz nach Turbo-Schema; Template unten |
+| Standard — Schriftsatz schnell erstellen Turbo-| Schriftsatz nach Turbo-Schema; Template unten |
 | Variante A — Schriftsatz sehr komplex mehrere Rechtsgebiete | Fachanwalt-Skill separat einsetzen; Turbo nur als Strukturhilfe |
 | Variante B — Mandant will nur Entwurf keine Fertigstellung | Entwurfs-Version ohne finale Formulierung |
 | Variante C — Frist droht in 2 Stunden | Kernantraege sofort; Begruendung nachreichen wenn Frist es erlaubt |

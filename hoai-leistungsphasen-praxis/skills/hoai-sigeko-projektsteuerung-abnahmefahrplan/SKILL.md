@@ -1,13 +1,13 @@
 ---
 name: hoai-sigeko-projektsteuerung-abnahmefahrplan
-description: "Nutze dies, wenn Hoai Sigeko Projektsteuerung Besondere Leistungen, Hoai Abnahmefahrplan, Hoai Abschluss Und Lessons Learned, Hoai Andere Leistungsbilder Router, Hoai Anwalt Sachverstaendiger Architekt Dreieck im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Sigeko Projektsteuerung Besondere Leistungen, Hoai Abnahmefahrplan, Hoai Abschluss Und Lessons Learned, Hoai Andere Leistungsbilder Router, Hoai Anwalt Sachverstaendiger Architekt Dreieck prüfen.; Erstelle eine Arbeitsfassung zu Hoai Sigeko Projektsteuerung Besondere Leistungen, Hoai Abnahmefahrplan, Hoai Abschluss Und Lessons Learned, Hoai Andere Leistungsbilder Router, Hoai Anwalt Sachverstaendiger Architekt Dreieck.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Sigeko Projektsteuerung Besondere Leistungen, Hoai Abnahmefahrplan, Hoai Abschluss Und Lessons Learned, Hoai Andere Leistungsbilder Router: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Sigeko Projektsteuerung Besondere Leistungen, Hoai Abnahmefahrplan, Hoai Abschluss Und Lessons Learned, Hoai Andere Leistungsbilder Router, Hoai Anwalt Sachverstaendiger Architekt Dreieck
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Sigeko Projektsteuerung Besondere Leistungen, Hoai Abnahmefahrplan, Hoai Abschluss Und Lessons Learned, Hoai Andere Leistungsbilder Router, Hoai Anwalt Sachverstaendiger Architekt Dreieck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -62,7 +62,7 @@ Besondere-Leistung-Matrix mit Auftragstext, Abgrenzung, Vergütungsvorschlag und
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **plant technische Vorabnahme, förmliche Abnahme, Restmängel und Zustandsfeststellung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **plant technische Vorabnahme, förmliche Abnahme, Restmängel und Zustandsfeststellung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -92,7 +92,7 @@ Dieser Querschnitts-Skill bearbeitet **plant technische Vorabnahme, förmliche A
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **erstellt Abschlussbericht, Gewährleistungsplan und Lessons Learned** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **erstellt Abschlussbericht, Gewährleistungsplan und Lessons Learned** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -122,7 +122,7 @@ Dieser Querschnitts-Skill bearbeitet **erstellt Abschlussbericht, Gewährleistun
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **leitet zu Freianlagen, Ingenieurbauwerken, Verkehrsanlagen, Tragwerk und TGA** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **leitet zu Freianlagen, Ingenieurbauwerken, Verkehrsanlagen, Tragwerk und TGA** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -152,7 +152,7 @@ Dieser Querschnitts-Skill bearbeitet **leitet zu Freianlagen, Ingenieurbauwerken
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **koordiniert Rollen ohne Verantwortungsvermischung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **koordiniert Rollen ohne Verantwortungsvermischung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 

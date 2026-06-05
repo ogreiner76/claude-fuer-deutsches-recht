@@ -1,20 +1,20 @@
 ---
 name: oertliche-zpo-online-verfahren
-description: "Nutze dies, wenn Oertliche Zustaendigkeit 12 37 Zpo, Online Verfahren 11 Buch Zpo Experimentell, Rechtsmittelfrist 517 Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Oertliche Zustaendigkeit 12 37 Zpo, Online Verfahren 11 Buch Zpo Experimentell, Rechtsmittelfrist 517 Zpo prüfen.; Erstelle eine Arbeitsfassung zu Oertliche Zustaendigkeit 12 37 Zpo, Online Verfahren 11 Buch Zpo Experimentell, Rechtsmittelfrist 517 Zpo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oertliche Zustaendigkeit 12 37 Zpo, Online Verfahren 11 Buch Zpo Experimentell, Rechtsmittelfrist 517 Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oertliche Zustaendigkeit 12 37 Zpo, Online Verfahren 11 Buch Zpo Experimentell, Rechtsmittelfrist 517 Zpo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oertliche Zustaendigkeit 12 37 Zpo, Online Verfahren 11 Buch Zpo Experimentell, Rechtsmittelfrist 517 Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `oertliche-zustaendigkeit-12-37-zpo` | Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12 ff. ZPO. Allgemeiner Gerichtsstand am Wohnsitz des Beklagten Besondere Gerichtsstaende Erfuellungsort unerlaubte Handlung Niederlassung. Wahlrecht und ausschließliche Gerichtsstaende erklärt. |
-| `online-verfahren-11-buch-zpo-experimentell` | Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Workflow Teilnahme. |
+| `online-verfahren-11-buch-zpo-experimentell` | Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Teilnahme. |
 | `rechtsmittelfrist-517-zpo` | Rechtsmittelfrist 1 Monat nach § 517 ZPO. Beginn mit Zustellung des vollständigen Urteils Notfrist keine Verlaengerung. Berechnung mit § 187 188 BGB Praeklusion bei Versaeumnis Wiedereinsetzung in Ausnahmefaellen. |
 
 ## Arbeitsweg
@@ -146,7 +146,7 @@ Stand: 05/2026. §§ 12 ff. ZPO unveraendert. BGH-Rechtsprechung zum Erfuellungs
 
 ## 2. `online-verfahren-11-buch-zpo-experimentell`
 
-**Fokus:** Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Workflow Teilnahme.
+**Fokus:** Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Teilnahme.
 
 # Online-Verfahren — das neue digitale Zivilverfahren
 
@@ -183,14 +183,14 @@ Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die 
 
 ## Was unterscheidet das Online-Verfahren vom normalen Verfahren?
 
-| Merkmal               | Normales Verfahren                       | Online-Verfahren                                        |
+| Merkmal | Normales Verfahren | Online-Verfahren |
 |-----------------------|------------------------------------------|---------------------------------------------------------|
-| Klage einreichen      | Papier oder MJP oder § 130a ZPO          | Strukturierte Eingabe-Maske auf der Plattform           |
-| Klageschrift          | Freier Text in Word/PDF                  | Vorgegebene Felder (Antrag, Sachverhalt, Beweise)       |
-| Schriftverkehr        | E-Mail, Post, MJP                        | Plattform-internes Postfach                             |
-| Termin                | Im Gerichtssaal                          | Video-Konferenz auf der Plattform                       |
-| Urteil                | Schriftlich per Post                     | Im Plattform-Postfach                                   |
-| Akteneinsicht         | Geschaeftsstelle, Anwalt                 | Plattform jederzeit                                     |
+| Klage einreichen | Papier oder MJP oder § 130a ZPO | Strukturierte Eingabe-Maske auf der Plattform |
+| Klageschrift | Freier Text in Word/PDF | Vorgegebene Felder (Antrag, Sachverhalt, Beweise) |
+| Schriftverkehr | E-Mail, Post, MJP | Plattform-internes Postfach |
+| Termin | Im Gerichtssaal | Video-Konferenz auf der Plattform |
+| Urteil | Schriftlich per Post | Im Plattform-Postfach |
+| Akteneinsicht | Geschaeftsstelle, Anwalt | Plattform jederzeit |
 
 ## Vorteile
 

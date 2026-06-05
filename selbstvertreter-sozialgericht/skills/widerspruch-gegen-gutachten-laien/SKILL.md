@@ -55,7 +55,7 @@ Mehrfach lesen. Auch unbekannte Begriffe googeln. Markieren Sie:
 Sie haben das Recht, schriftlich Stellung zu nehmen. Mustertext:
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [aktuell]
 

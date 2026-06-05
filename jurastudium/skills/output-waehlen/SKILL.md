@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Jurastudium** ein Fall noch sortiert, Doku
 ## Fachlandkarte dieses Plugins
 
 - `ag-vorbereitung-examens-prognose-examensvorbereitung-fragen` — Ag Vorbereitung Examens Prognose Examensvorbereitung Fragen
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `fall-zusammenfassung-gliederungs-baukasten-gutachten-uebung` — Fall Zusammenfassung Gliederungs Baukasten Gutachten Uebung
 - `jurastudium-juristisches-schreiben-jus-klausurtraining` — Jurastudium Juristisches Schreiben Jus Klausurtraining
 - `jurastudium-kaltstart-interview` — Jurastudium Kaltstart Interview

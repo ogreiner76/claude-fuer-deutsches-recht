@@ -1,6 +1,6 @@
 ---
 name: rom-neu-027-archaisches-formularrecht-legis
-description: "Nutze dies, wenn Römisches Recht: Archaisches Formularrecht legis actiones vertiefen im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Archaisches Formularrecht legis actiones vertiefen prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Archaisches Formularrecht legis actiones vertiefen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Archaisches Formularrecht legis actiones vertiefen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Archaisches Formularrecht legis actiones vertiefen

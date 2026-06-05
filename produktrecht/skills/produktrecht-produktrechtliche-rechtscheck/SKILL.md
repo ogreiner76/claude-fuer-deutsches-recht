@@ -1,13 +1,13 @@
 ---
 name: produktrecht-produktrechtliche-rechtscheck
-description: "Nutze dies, wenn Spezial Produktrecht Schriftsatz Brief Und Memo Bausteine, Spezial Produktrechtliche Erstpruefung Und Mandatsziel, Spezial Rechtscheck Sonderfall Und Edge Case im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Produktrecht Schriftsatz Brief Und Memo Bausteine, Spezial Produktrechtliche Erstpruefung Und Mandatsziel, Spezial Rechtscheck Sonderfall Und Edge Case prüfen.; Erstelle eine Arbeitsfassung zu Spezial Produktrecht Schriftsatz Brief Und Memo Bausteine, Spezial Produktrechtliche Erstpruefung Und Mandatsziel, Spezial Rechtscheck Sonderfall Und Edge Case.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Produktrecht Schriftsatz Brief Und Memo Bausteine, Produktrechtliche Erstpruefung Und Mandatsziel, Rechtscheck Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Produktrecht Schriftsatz Brief Und Memo Bausteine, Spezial Produktrechtliche Erstpruefung Und Mandatsziel, Spezial Rechtscheck Sonderfall Und Edge Case
+# Produktrecht Schriftsatz Brief Und Memo Bausteine, Produktrechtliche Erstpruefung Und Mandatsziel, Rechtscheck Sonderfall Und Edge Case
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Produktrecht Schriftsatz Brief Und Memo Bausteine, Produktrechtliche Erstpruefung Und Mandatsziel, Rechtscheck Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Produktrecht Schriftsatz Brief Und Memo Bausteine, Spezial Produktrechtliche Erstpruefung Und Mandatsziel, Spezial Rechtscheck Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `produktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Produktrecht Schriftsatz Brief Und Memo Bausteine, Produktrechtliche Erstpruefung Und Mandatsziel, Rechtscheck Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `produktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Produktrecht Schriftsatz Brief Und Memo Bausteine, Spezial Produk
 # Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine / spezial produktrecht schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine / produktrecht schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DDG, PAngV, UWG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel / spezial produktrechtliche erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel / produktrechtliche erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DDG, PAngV, UWG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Rechtscheck: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Rechtscheck: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Rechtscheck: Sonderfall und Edge-Case-Prüfung / spezial rechtscheck sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechtscheck: Sonderfall und Edge-Case-Prüfung / rechtscheck sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DDG, PAngV, UWG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

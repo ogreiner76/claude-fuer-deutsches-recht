@@ -1,13 +1,13 @@
 ---
 name: spa-apa-vertragsmarkup-key-rechtsabteilung
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Spa Apa Entwurf, Grosskanzlei Corporate Ma Vertragsmarkup Key Issues, Rechtsabteilung Mac Klausel Bei Signing Closing Bruch im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Corporate Ma Spa Apa Entwurf, Grosskanzlei Corporate Ma Vertragsmarkup Key Issues, Rechtsabteilung Mac Klausel Bei Signing Closing Bruch prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Corporate Ma Spa Apa Entwurf, Grosskanzlei Corporate Ma Vertragsmarkup Key Issues, Rechtsabteilung Mac Klausel Bei Signing Closing Bruch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Spa Apa Entwurf, Grosskanzlei Corporate Ma Vertragsmarkup Key Issues, Rechtsabteilung Mac Klausel Bei Signing Closing Bruch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Spa Apa Entwurf, Grosskanzlei Corporate Ma Vertragsmarkup Key Issues, Rechtsabteilung Mac Klausel Bei Signing Closing Bruch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | --- | --- |
 | `grosskanzlei-corporate-ma-spa-apa-entwurf` | SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag für Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. §§ 433 ff. BGB Kaufrecht, § 15 GmbHG Abtretung, § 179 AktG Einbringung, MAC Material Adverse Change Klausel. Prüfraster Reps and Warranties Katalog, MAC-Klausel-Formulierung, Earn-Out-Mechanismus, Freistellungsregelungen, Closing Conditions. Output vollständiger SPA/APA-Vertragsentwurf mit Garantiekatalog MAC Earn-Out und Closing-Bedingungen. Abgrenzung zu Vertragsmarkup-Key-Issues und zu Signing-Closing-CPs. |
 | `grosskanzlei-corporate-ma-vertragsmarkup-key-issues` | SPA/APA/NDA Markup analysieren und Key Issues List erstellen: Anwendungsfall Anwalt erhaelt Gegenentwurf oder Markup und muss wirtschaftlich relevante Abweichungen strukturieren und Gegenvorschlaege formulieren. §§ 433 ff. BGB Kaufrecht, SPA Reps and Warranties. Prüfraster Aenderungen nach wirtschaftlicher Relevanz clustern, Rote Linien und Konzessionen trennen, Parteiposition Buy-side/Sell-side dokumentieren. Output Key Issues List mit priorisierten Verhandlungspunkten und Gegenmarkup-Vorschlaegen. Abgrenzung zu SPA/APA-Entwurf für Erstellung und zu Disclosure-Schedules. |
-| `rechtsabteilung-mac-klausel-bei-signing-closing-bruch` | Rechtsabteilungs-Spezialskill für MAC-Klausel bei Signing-Closing-Bruch: Ein Deal-Team erhält eine deutsche Auslegungsmatrix für MAC, MAE und Bring-down-Zertifikate. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-mac-klausel-bei-signing-closing-bruch` | Rechtsabteilungs-Fachmodul für MAC-Klausel bei Signing-Closing-Bruch: Ein Deal-Team erhält eine deutsche Auslegungsmatrix für MAC, MAE und Bring-down-Zertifikate. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -82,7 +82,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Term Sheet auswearten:** Kernparameter extrahieren — Kaufpreis, Struktur, Garantien, CPs, Rechtsordnung
 2. **DD-Findings in SPA uebertragen:** Material Issues → spezifische Garantieausnahmen oder Freistellungen; Red Flags → MAC-Trigger oder Haftungsausschluss
@@ -124,30 +124,30 @@ SHARE PURCHASE AGREEMENT (ENTWURF)
 
 1. DEFINITIONEN UND AUSLEGUNG
 2. KAUF UND UEBERTRAGUNG DER ANTEILE
-   2.1 Gegenstand; Kaufpreis (Locked Box / Completion Accounts)
-   2.2 Anpassungsmechanismus / Earn-Out-Formel
+ 2.1 Gegenstand; Kaufpreis (Locked Box / Completion Accounts)
+ 2.2 Anpassungsmechanismus / Earn-Out-Formel
 3. SIGNING UND CLOSING
-   3.1 Signing-Datum [DATUM]
-   3.2 Closing Conditions (Anlagen 3.2.1 bis 3.2.X)
-   3.3 Closing-Ablauf (Zug-um-Zug)
+ 3.1 Signing-Datum [DATUM]
+ 3.2 Closing Conditions (Anlagen 3.2.1 bis 3.2.X)
+ 3.3 Closing-Ablauf (Zug-um-Zug)
 4. GARANTIEN DES VERKAEUFERS
-   4.1 Title- und Anteilsgarantien
-   4.2 Business Warranties (Anlage 4.2)
-   4.3 Financial Statements-Garantie
-   4.4 Tax Warranties
-   4.5 Ausnahmen gemaess Disclosure Letter (Anlage 4.5)
+ 4.1 Title- und Anteilsgarantien
+ 4.2 Business Warranties (Anlage 4.2)
+ 4.3 Financial Statements-Garantie
+ 4.4 Tax Warranties
+ 4.5 Ausnahmen gemaess Disclosure Letter (Anlage 4.5)
 5. HAFTUNGSRAHMEN
-   5.1 Cap: [BETRAG / PROZENTSATZ]
-   5.2 Basket: [TIPPING / DEDUCTIBLE] Schwellenwert: [BETRAG]
-   5.3 Verjährung: 18 Monate ab Closing; Steuergarantien: Veranlagungszeitraum + 3 Monate
+ 5.1 Cap: [BETRAG / PROZENTSATZ]
+ 5.2 Basket: [TIPPING / DEDUCTIBLE] Schwellenwert: [BETRAG]
+ 5.3 Verjährung: 18 Monate ab Closing; Steuergarantien: Veranlagungszeitraum + 3 Monate
 6. MAC-KLAUSEL (MATERIAL ADVERSE CHANGE)
 7. KAEUFER-GARANTIEN
 8. SCHLUSSBESTIMMUNGEN (Schiedsklausel / Gerichtsstand, Rechtsordnung, Kosten)
 
 ANLAGEN:
-  Anlage 3.2 — Closing Deliverables
-  Anlage 4.2 — Business Warranties
-  Anlage 4.5 — Disclosure Letter
+ Anlage 3.2 — Closing Deliverables
+ Anlage 4.2 — Business Warranties
+ Anlage 4.5 — Disclosure Letter
 ```
 
 --- vor Versand klaeren ---
@@ -395,7 +395,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `rechtsabteilung-mac-klausel-bei-signing-closing-bruch`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für MAC-Klausel bei Signing-Closing-Bruch: Ein Deal-Team erhält eine deutsche Auslegungsmatrix für MAC, MAE und Bring-down-Zertifikate. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für MAC-Klausel bei Signing-Closing-Bruch: Ein Deal-Team erhält eine deutsche Auslegungsmatrix für MAC, MAE und Bring-down-Zertifikate. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 
 # Rechtsabteilung: MAC-Klausel bei Signing-Closing-Bruch

@@ -1,6 +1,6 @@
 ---
 name: rom-050-exceptiones-und-repliken
-description: "Römisches Recht: Exceptiones Und Repliken. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Exceptiones Und Repliken. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Exceptiones Und Repliken

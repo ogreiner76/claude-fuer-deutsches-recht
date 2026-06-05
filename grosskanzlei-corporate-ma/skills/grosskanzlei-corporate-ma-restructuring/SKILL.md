@@ -165,9 +165,9 @@ DARSTELLENDER TEIL
 2. Insolvenztatbestand (§ 18 InsO: drohende ZU)
 3. Sanierungskonzept (IDW S 6 Grundsaetze)
 4. Glaeubiger und Forderungsklassen:
-   Klasse 1: Gesicherte Glaeubiger (Banken) — Summe: [BETRAG]
-   Klasse 2: Lieferanten und ungesicherte Glaeubiger — Summe: [BETRAG]
-   Klasse 3: Nachrangige Glaeubiger — Summe: [BETRAG]
+ Klasse 1: Gesicherte Glaeubiger (Banken) — Summe: [BETRAG]
+ Klasse 2: Lieferanten und ungesicherte Glaeubiger — Summe: [BETRAG]
+ Klasse 3: Nachrangige Glaeubiger — Summe: [BETRAG]
 5. Besserstellungsvergleich: Plan [X EUR] vs. Liquidation [Y EUR]
 
 GESTALTENDER TEIL

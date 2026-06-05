@@ -1,13 +1,13 @@
 ---
 name: stb-sanierungsgewinn-vermeidungsstrategien-02
-description: "Nutze dies, wenn Stb Sanierungsgewinn Vermeidungsstrategien Praxis, Stb Sanierungsgewinn Vorbereitungs Checkliste, Stb Susa Anlagenkonten Ueberblick, Stb Susa Debitorenliste Osa Offene Posten, Stb Susa Erstellen Grundlagen und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Sanierungsgewinn Vermeidungsstrategien Praxis, Stb Sanierungsgewinn Vorbereitungs Checkliste, Stb Susa Anlagenkonten Ueberblick, Stb Susa Debitorenliste Osa Offene Posten, Stb Susa Erstellen Grundlagen und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Sanierungsgewinn Vermeidungsstrategien Praxis, Stb Sanierungsgewinn Vorbereitungs Checkliste, Stb Susa Anlagenkonten Ueberblick, Stb Susa Debitorenliste Osa Offene Posten, Stb Susa Erstellen Grundlagen und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Sanierungsgewinn Vermeidungsstrategien Praxis, Stb Sanierungsgewinn Vorbereitungs Checkliste, Stb Susa Anlagenkonten Ueberblick, Stb Susa Debitorenliste Osa Offene Posten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Sanierungsgewinn Vermeidungsstrategien Praxis, Stb Sanierungsgewinn Vorbereitungs Checkliste, Stb Susa Anlagenkonten Ueberblick, Stb Susa Debitorenliste Osa Offene Posten, Stb Susa Erstellen Grundlagen und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Sanierungsgewinn Vermeidungsstrategien Praxis, Stb Sanierungsgewinn Vorbereitungs Checkliste, Stb Susa Anlagenkonten Ueberblick, Stb Susa Debitorenliste Osa Offene Posten, Stb Susa Erstellen Grundlagen und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -67,7 +67,7 @@ Der Antrag § 3a Abs. 4 EStG ist nicht in jedem Fall die beste Lösung. Die Bind
 - **§ 8c, § 8d KStG** — Verlustuntergang / Verschonung.
 - **§§ 55 ff. GmbHG, § 56 GmbHG** — Kapitalerhöhung Sacheinlage.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Strategie A: Verlustvortrag-Maximierung
 
@@ -150,62 +150,62 @@ Der Antrag § 3a Abs. 4 EStG ist nicht in jedem Fall die beste Lösung. Die Bind
 STRATEGIE-ENTSCHEIDUNG SANIERUNGSGEWINN
 
 START ► Verlustvortrag aktualisiert?
-   ├─ NEIN ► Verlustvortrag aktualisieren (Bescheid)
-   └─ JA  ► Verlustvortrag ≥ Sanierungsertrag?
-              ├─ JA  ► Strategie A
-              │       (Sanierungsertrag wird voll aufgezehrt
-              │        ► kein Antrag § 3a IV EStG)
-              │       ► Mindestbesteuerung prüfen
-              │
-              └─ NEIN ► Gläubiger zu Alternativen bereit?
-                         ├─ JA, Sacheinlage (Hauptgläubiger)
-                         │   ► Strategie B (d/e-swap)
-                         │   ► § 8c KStG prüfen
-                         │
-                         ├─ JA, Rangrücktritt
-                         │   ► Strategie C
-                         │   ► Klauselgestaltung wichtig
-                         │
-                         ├─ JA, Besserungsabrede
-                         │   ► Strategie D
-                         │   ► spätere Prüfung
-                         │
-                         └─ NEIN ► Strategie E (Zeitsteuerung)
-                                    ODER Strategie § 3a EStG
-                                    ► Vier Voraussetzungen
-                                      vollständig dokumentieren
-                                    ► Antrag fristgerecht
+ ├─ NEIN ► Verlustvortrag aktualisieren (Bescheid)
+ └─ JA ► Verlustvortrag ≥ Sanierungsertrag?
+ ├─ JA ► Strategie A
+ │ (Sanierungsertrag wird voll aufgezehrt
+ │ ► kein Antrag § 3a IV EStG)
+ │ ► Mindestbesteuerung prüfen
+ │
+ └─ NEIN ► Gläubiger zu Alternativen bereit?
+ ├─ JA, Sacheinlage (Hauptgläubiger)
+ │ ► Strategie B (d/e-swap)
+ │ ► § 8c KStG prüfen
+ │
+ ├─ JA, Rangrücktritt
+ │ ► Strategie C
+ │ ► Klauselgestaltung wichtig
+ │
+ ├─ JA, Besserungsabrede
+ │ ► Strategie D
+ │ ► spätere Prüfung
+ │
+ └─ NEIN ► Strategie E (Zeitsteuerung)
+ ODER Strategie § 3a EStG
+ ► Vier Voraussetzungen
+ vollständig dokumentieren
+ ► Antrag fristgerecht
 ```
 
 ### Berechnungsbeispiel Strategievergleich
 
 ```
 Ausgangslage:
-  Sanierungsbedarf (Verzicht erforderlich)    EUR 2.000.000
-  KSt-Verlustvortrag                          EUR   800.000
-  Gewerbeverlust                              EUR   600.000
+ Sanierungsbedarf (Verzicht erforderlich) EUR 2.000.000
+ KSt-Verlustvortrag EUR 800.000
+ Gewerbeverlust EUR 600.000
 
 Strategie A: Verlustvortrag-Maximierung
-  ► Verlustvortrag deckt nicht voll
-  ► Antrag § 3a IV EStG erforderlich
-  ► Bindungswirkung
+ ► Verlustvortrag deckt nicht voll
+ ► Antrag § 3a IV EStG erforderlich
+ ► Bindungswirkung
 
 Strategie B: D/E-Swap für Hauptgläubiger 1.500.000
-  ► Sanierungsertrag nur 500.000
-  ► durch Verlustvortrag voll aufgezehrt
-  ► Antrag § 3a IV EStG nicht nötig
-  ► aber: gesellschaftsrechtlicher Aufwand
-  ► § 8c KStG geprüft, § 8d KStG-Antrag
+ ► Sanierungsertrag nur 500.000
+ ► durch Verlustvortrag voll aufgezehrt
+ ► Antrag § 3a IV EStG nicht nötig
+ ► aber: gesellschaftsrechtlicher Aufwand
+ ► § 8c KStG geprüft, § 8d KStG-Antrag
 
 Strategie C: Verzicht mit Besserungsabrede
-  ► aktueller Sanierungsertrag 0
-  ► spätere Buchung im Besserungsfall
+ ► aktueller Sanierungsertrag 0
+ ► spätere Buchung im Besserungsfall
 
 ► Empfehlung: Strategie B
-   - Verlustvortrag geschont (für künftige Verluste)
-   - Sanierungsertrag aufgezehrt durch Verlust
-   - keine Bindungswirkung § 3a IV EStG
-   - § 8d KStG-Antrag fristgerecht stellen
+ - Verlustvortrag geschont (für künftige Verluste)
+ - Sanierungsertrag aufgezehrt durch Verlust
+ - keine Bindungswirkung § 3a IV EStG
+ - § 8d KStG-Antrag fristgerecht stellen
 ```
 
 ## Typische Fehler
@@ -278,7 +278,7 @@ Diese Checkliste begleitet die Sanierungs-Begleitung des Mandats von M-12 bis M-
 - **§ 89 AO** — verbindliche Auskunft.
 - **BMF-Schreiben 27.04.2017** — Verwaltungsanweisung; vor Verwendung aktuellen Stand prüfen.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Phase 1: Erfassung (M-12 bis M-10)
 
@@ -386,9 +386,9 @@ steuerrechtlichen Würdigung nach § 3a EStG.
 ### Muster interne Bestätigungs-Tabelle
 
 ```
-Gläubiger A — Verzicht EUR ...   ► Schreiben vom ... Akte Bl. ...
-Gläubiger B — Verzicht EUR ...   ► Schreiben vom ... Akte Bl. ...
-Gläubiger C — kein Verzicht       ► Verhandlungsvermerk ... Bl. ...
+Gläubiger A — Verzicht EUR ... ► Schreiben vom ... Akte Bl. ...
+Gläubiger B — Verzicht EUR ... ► Schreiben vom ... Akte Bl. ...
+Gläubiger C — kein Verzicht ► Verhandlungsvermerk ... Bl. ...
 ```
 
 ## Typische Fehler
@@ -480,25 +480,25 @@ Anlagenkonten der Klasse 0 (SKR 03) bzw. 0xxx-1xxx (SKR 04) zeigen die Buchwerte
 Anlagenkonten SKR 03 (Kontennummern typische Beispiele; konkrete Nummern mit aktueller DATEV-Kontenrahmenfassung abgleichen):
 
 ```
-0010   Immaterielle Wirtschaftsgueter
-0020   Grundstuecke und Bauten
-0080   Maschinen
-0440   Geringwertige Wirtschaftsgueter
-0500   Fuhrpark
-0670   Betriebs- und Geschaeftsausstattung
-0900   Anzahlungen auf Anlagen
-1000   Beteiligungen
+0010 Immaterielle Wirtschaftsgueter
+0020 Grundstuecke und Bauten
+0080 Maschinen
+0440 Geringwertige Wirtschaftsgueter
+0500 Fuhrpark
+0670 Betriebs- und Geschaeftsausstattung
+0900 Anzahlungen auf Anlagen
+1000 Beteiligungen
 ```
 
 ### Phase 2 — Anlagenspiegel-Auswertung
 
 ```
 ANLAGENSPIEGEL (Auszug)
-Bezeichnung      Anschaffung  Bisherige AfA  Buchwert Anfang  Zugang  Abgang  AfA Periode  Buchwert Ende
-Maschine A       50.000       30.000         20.000           —       —       2.500        17.500
-Pkw Mazda        25.000       8.000          17.000           —       —       2.083        14.917
-GWG-Pool 2026    1.200        —              —                1.200   —       240          960
-Buero-Ausstattung 15.000      6.000          9.000            —       —       1.500        7.500
+Bezeichnung Anschaffung Bisherige AfA Buchwert Anfang Zugang Abgang AfA Periode Buchwert Ende
+Maschine A 50.000 30.000 20.000 — — 2.500 17.500
+Pkw Mazda 25.000 8.000 17.000 — — 2.083 14.917
+GWG-Pool 2026 1.200 — — 1.200 — 240 960
+Buero-Ausstattung 15.000 6.000 9.000 — — 1.500 7.500
 ```
 
 ### Phase 3 — Abstimmung Hauptbuch / Anlagenspiegel
@@ -636,12 +636,12 @@ Die Debitoren-Saldenliste zeigt alle Forderungen gegen Kunden mit Saldo, Faellig
 DEBITOREN-OPOS-LISTE
 Stichtag: [Datum]
 
-Konto    Name             Saldo EUR   Faelligkeit   Mahnstand   Bemerkung
-10001    [Kunde A]        5.500       30 Tage       1. Mahnung  Brief am [Datum]
-10002    [Kunde B]        12.000      90 Tage       3. Mahnung  Anwalt eingeschaltet
-10003    [Kunde C]        850         15 Tage       —           im Plan
+Konto Name Saldo EUR Faelligkeit Mahnstand Bemerkung
+10001 [Kunde A] 5.500 30 Tage 1. Mahnung Brief am [Datum]
+10002 [Kunde B] 12.000 90 Tage 3. Mahnung Anwalt eingeschaltet
+10003 [Kunde C] 850 15 Tage — im Plan
 ...
-SUMME                     [X]
+SUMME [X]
 ```
 
 ### Phase 3 — Faelligkeitsstaffel
@@ -786,21 +786,21 @@ SUMMEN- UND SALDENLISTE
 Mandant: [Firma]
 Periode: [Monat / Quartal / YTD]
 
-Konto  Bezeichnung           Soll-Summe   Haben-Summe   Saldo Soll   Saldo Haben
-0440   GWG                   [X]          [X]           [X]          [X]
-0670   Bauten/Grundstuecke   [X]          [X]           [X]          [X]
+Konto Bezeichnung Soll-Summe Haben-Summe Saldo Soll Saldo Haben
+0440 GWG [X] [X] [X] [X]
+0670 Bauten/Grundstuecke [X] [X] [X] [X]
 ...
-1000   Kasse                 [X]          [X]           [X]          [X]
-1200   Bank                  [X]          [X]           [X]          [X]
-1400   Forderungen LuL       [X]          [X]           [X]          [X]
-1576   Vorsteuer 19 Prozent  [X]          [X]           [X]          [X]
-1700   Verb. LuL             [X]          [X]           [X]          [X]
-1776   USt 19 Prozent        [X]          [X]           [X]          [X]
-2000   Eroeffnungsbilanz     [X]          [X]           [X]          [X]
+1000 Kasse [X] [X] [X] [X]
+1200 Bank [X] [X] [X] [X]
+1400 Forderungen LuL [X] [X] [X] [X]
+1576 Vorsteuer 19 Prozent [X] [X] [X] [X]
+1700 Verb. LuL [X] [X] [X] [X]
+1776 USt 19 Prozent [X] [X] [X] [X]
+2000 Eroeffnungsbilanz [X] [X] [X] [X]
 ...
-3400   Wareneingang 19 Pr.   [X]          [X]           [X]          [X]
-4120   Loehne                [X]          [X]           [X]          [X]
-8400   Erloese 19 Prozent    [X]          [X]           [X]          [X]
+3400 Wareneingang 19 Pr. [X] [X] [X] [X]
+4120 Loehne [X] [X] [X] [X]
+8400 Erloese 19 Prozent [X] [X] [X] [X]
 ...
 ```
 
@@ -971,16 +971,16 @@ FEHLERPROTOKOLL SUSA-PRUEFUNG
 Datum: [Datum] Bearbeiter: [Name]
 
 1. Verrechnungskonto (z. B. SKR 03 1590) Saldo 12.500 EUR — nicht abgebaut.
-   Ursache: unzugeordnete Bankbuchung 28.04.2026.
-   Korrektur: Buchungsaufloesung gegen Forderungssammelkonto (SKR 03 1400), GVC-Zuordnung 71.
+ Ursache: unzugeordnete Bankbuchung 28.04.2026.
+ Korrektur: Buchungsaufloesung gegen Forderungssammelkonto (SKR 03 1400), GVC-Zuordnung 71.
 
 2. Erloeskonto Habensaldo wider Erwarten gering, Sollsaldo 850 EUR.
-   Ursache: Gutschrift Kunde 10002 wurde gegen Erloeskonto gebucht statt Erloesschmaelerung.
-   Korrektur: Umbuchung auf Erloesschmaelerungs-Konto im 8730er-Bereich (SKR 03; typisch Konto 8736 oder 8739 je nach Steuerklasse; konkrete Kontonummer in DATEV-Kontenrahmen-Dokumentation nachschlagen).
+ Ursache: Gutschrift Kunde 10002 wurde gegen Erloeskonto gebucht statt Erloesschmaelerung.
+ Korrektur: Umbuchung auf Erloesschmaelerungs-Konto im 8730er-Bereich (SKR 03; typisch Konto 8736 oder 8739 je nach Steuerklasse; konkrete Kontonummer in DATEV-Kontenrahmen-Dokumentation nachschlagen).
 
 3. Differenz USt-Konto (z. B. SKR 03 1776) vs. USt-Voranmeldung 240 EUR.
-   Ursache: vergessene Buchung am 30.04.2026.
-   Korrektur: Nachbuchung mit Steuerschluessel 3 (Umsatz 19 Prozent).
+ Ursache: vergessene Buchung am 30.04.2026.
+ Korrektur: Nachbuchung mit Steuerschluessel 3 (Umsatz 19 Prozent).
 ```
 
 ## Output
@@ -1081,11 +1081,11 @@ Die SuSa zeigt einen Saldo auf dem Sammelkonto "Forderungen aus Lieferungen und 
 Typische SKR-03-Sammelkonten (Nummern beispielhaft; bei Abweichungen in der aktuellen DATEV-Kontenrahmenfassung nachschlagen):
 
 ```
-1200  Bank                    [X]
-1400  Forderungen LuL         [X]
-1700  Verbindlichkeiten LuL   [X]
-1576  Vorsteuer 19 Prozent    [X]
-1776  USt 19 Prozent          [X]
+1200 Bank [X]
+1400 Forderungen LuL [X]
+1700 Verbindlichkeiten LuL [X]
+1576 Vorsteuer 19 Prozent [X]
+1776 USt 19 Prozent [X]
 ```
 
 ### Phase 2 — Personenkonten-OPOS
@@ -1233,12 +1233,12 @@ Die Kreditoren-Saldenliste zeigt alle Verbindlichkeiten gegenueber Lieferanten. 
 KREDITOREN-OPOS-LISTE
 Stichtag: [Datum]
 
-Konto    Lieferant         Saldo EUR   Faelligkeit   Skonti-Frist   Bemerkung
-70001    [Lieferant A]     8.500       In 5 Tagen    Skonti -2%     Skonti bis [Datum]
-70002    [Lieferant B]     12.000      Ueberfaellig  —              Liefersperre droht
-70003    [Lieferant C]     2.300       In 25 Tagen   —              Normal
+Konto Lieferant Saldo EUR Faelligkeit Skonti-Frist Bemerkung
+70001 [Lieferant A] 8.500 In 5 Tagen Skonti -2% Skonti bis [Datum]
+70002 [Lieferant B] 12.000 Ueberfaellig — Liefersperre droht
+70003 [Lieferant C] 2.300 In 25 Tagen — Normal
 ...
-SUMME                      [X]
+SUMME [X]
 ```
 
 ### Phase 3 — Faelligkeitsstaffel
@@ -1382,20 +1382,20 @@ Wie haeufig die SuSa erstellt wird, haengt von Belegvolumen, Mandantengroesse un
 ### Phase 3 — Monatsrhythmus
 
 ```
-Tag 5 des Folgemonats:    Belegannahme abgeschlossen
-Tag 15:                   Buchung abgeschlossen
-Tag 20:                   Periodenabgrenzung gebucht
-Tag 22:                   SuSa-Vorabauswertung
-Tag 25:                   SuSa final, BWA versandfertig
-Tag 30:                   USt-VA uebermittelt
+Tag 5 des Folgemonats: Belegannahme abgeschlossen
+Tag 15: Buchung abgeschlossen
+Tag 20: Periodenabgrenzung gebucht
+Tag 22: SuSa-Vorabauswertung
+Tag 25: SuSa final, BWA versandfertig
+Tag 30: USt-VA uebermittelt
 ```
 
 ### Phase 4 — Quartalsrhythmus
 
 ```
-Tag 5 nach Quartalsende:  Belegannahme letzter Monat abgeschlossen
-Tag 25:                   SuSa Quartal final
-Tag 30:                   BWA Quartal versandt
+Tag 5 nach Quartalsende: Belegannahme letzter Monat abgeschlossen
+Tag 25: SuSa Quartal final
+Tag 30: BWA Quartal versandt
 ```
 
 ### Phase 5 — Sondersituationen

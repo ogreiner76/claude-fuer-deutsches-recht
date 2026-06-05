@@ -1,13 +1,13 @@
 ---
 name: ki-preisgestaltung-konsistenzpruefung
-description: "Nutze dies, wenn Ki Preisgestaltung Kartellrecht, Konsistenzpruefung Marktdefinition, Kronzeugenprogramm Bonusregelung, Labor Antitrust No Poach Global, Landwirtschaftliche Erzeugerkooperation im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Ki Preisgestaltung Kartellrecht, Konsistenzpruefung Marktdefinition, Kronzeugenprogramm Bonusregelung, Labor Antitrust No Poach Global, Landwirtschaftliche Erzeugerkooperation prüfen.; Erstelle eine Arbeitsfassung zu Ki Preisgestaltung Kartellrecht, Konsistenzpruefung Marktdefinition, Kronzeugenprogramm Bonusregelung, Labor Antitrust No Poach Global, Landwirtschaftliche Erzeugerkooperation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ki Preisgestaltung Kartellrecht, Konsistenzpruefung Marktdefinition, Kronzeugenprogramm Bonusregelung, Labor Antitrust No Poach Global: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ki Preisgestaltung Kartellrecht, Konsistenzpruefung Marktdefinition, Kronzeugenprogramm Bonusregelung, Labor Antitrust No Poach Global, Landwirtschaftliche Erzeugerkooperation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ki Preisgestaltung Kartellrecht, Konsistenzpruefung Marktdefinition, Kronzeugenprogramm Bonusregelung, Labor Antitrust No Poach Global, Landwirtschaftliche Erzeugerkooperation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `ki-preisgestaltung-kartellrecht` | KI Preisgestaltung Kartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `konsistenzpruefung-marktdefinition` | Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Übereinstimmung von Sachmarkt und räumlichem Markt tatsaechlichem Marktverhalten Behoerdenpraxis und oekonomischen Grundprinzipien. Erkennt Zirkelschluesse und inkonsistente Argumente zwischen verschiedenen Teilen einer Marktanalyse. |
 | `kronzeugenprogramm-bonusregelung` | Kronzeugenprogramm Bonusregelung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `labor-antitrust-no-poach-global` | Labor Antitrust No-Poach global: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft No-Poach, Wage-Fixing, HR-Benchmarking und Arbeitsmarkt als Wettbewerbsproblem prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `labor-antitrust-no-poach-global` | Labor Antitrust No-Poach global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft No-Poach, Wage-Fixing, HR-Benchmarking und Arbeitsmarkt als Wettbewerbsproblem prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `landwirtschaftliche-erzeugerkooperation` | Landwirtschaftliche Erzeugerkooperation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
 ## Arbeitsweg
@@ -199,7 +199,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `labor-antitrust-no-poach-global`
 
-**Fokus:** Labor Antitrust No-Poach global: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft No-Poach, Wage-Fixing, HR-Benchmarking und Arbeitsmarkt als Wettbewerbsproblem prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Labor Antitrust No-Poach global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft No-Poach, Wage-Fixing, HR-Benchmarking und Arbeitsmarkt als Wettbewerbsproblem prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Labor Antitrust No-Poach global
 

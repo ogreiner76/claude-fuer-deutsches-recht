@@ -61,17 +61,17 @@ Wer mit KI Verträge prüft muss später erklären können wie das Ergebnis zust
 
 ```json
 {
-  "zeitstempel": "2026-05-20T14:23:11Z",
-  "aktion": "lauf.beendet",
-  "verantwortlicher": "system",
-  "würfel-version": "v3",
-  "prompt-version": "p12",
-  "modell-version": "claude-opus-4-7",
-  "eingangs-hash": "sha256:...",
-  "ausgangs-hash": "sha256:...",
-  "anzahl-zellen": 4176,
-  "anzahl-prüferflag": 87,
-  "begründung": "Standardlauf nach Schema-Änderung Spalte 'MAC'"
+ "zeitstempel": "2026-05-20T14:23:11Z",
+ "aktion": "lauf.beendet",
+ "verantwortlicher": "system",
+ "würfel-version": "v3",
+ "prompt-version": "p12",
+ "modell-version": "claude-opus-4-7",
+ "eingangs-hash": "sha256:...",
+ "ausgangs-hash": "sha256:...",
+ "anzahl-zellen": 4176,
+ "anzahl-prüferflag": 87,
+ "begründung": "Standardlauf nach Schema-Änderung Spalte 'MAC'"
 }
 ```
 

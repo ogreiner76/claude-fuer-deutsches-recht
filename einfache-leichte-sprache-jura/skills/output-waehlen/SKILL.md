@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Einfache Leichte Sprache Jura** ein Fall n
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-ls-bescheid-workflow-chronologie` — Allgemein Ls Bescheid Workflow Chronologie
+- `allgemein-ls-bescheid-workflow-chronologie` — Allgemein Ls Bescheid Chronologie
 - `einfache-elsj-bescheidmodus-elsj` — Einfache Elsj Bescheidmodus Elsj
 - `elsj-aufenthaltsrecht-mandant` — Elsj Aufenthaltsrecht Mandant
 - `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache` — Elsj Aufenthaltsrecht Mandant Betreuung Vormundschaft Einfache

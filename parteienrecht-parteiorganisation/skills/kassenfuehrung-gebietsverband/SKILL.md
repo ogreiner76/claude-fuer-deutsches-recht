@@ -8,7 +8,7 @@ description: "Hilft Schatzmeisterei bei Belegen, Kasse, Konto, Vier-Augen-Prinzi
 ## Aufgabe
 Hilft Schatzmeisterei bei Belegen, Kasse, Konto, Vier-Augen-Prinzip, Quittungen, Jahresabschluss und Prüfung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,13 +1,13 @@
 ---
 name: migr-aufenthaltstitel
-description: "Nutze dies, wenn Migr Aufenthaltstitel Uebersicht im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Migr Aufenthaltstitel Uebersicht prüfen.; Erstelle eine Arbeitsfassung zu Migr Aufenthaltstitel Uebersicht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Migr Aufenthaltstitel Uebersicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Migr Aufenthaltstitel Uebersicht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -32,7 +32,7 @@ Für **Migr Aufenthaltstitel Uebersicht** zuerst das Arbeitsmodul wählen, desse
 ## Aufgabe
 Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -67,9 +67,9 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 - Grundsatz: 5 Jahre Aufenthaltserlaubnis + Lebensunterhalt + 60 Monate Beitraege RV + Sprachkenntnisse B1 + Grundkenntnisse Rechts-/Gesellschaftsordnung.
 - Schnellere Wege:
-  - Fachkraefte mit Blauer Karte: 33 / 21 Monate (mit Sprachkenntnissen B1; § 18c AufenthG).
-  - Asyl/Fluechtling: drei Jahre nach Anerkennung bei Erfuellung Integrationsvoraussetzungen (§ 26 III AufenthG).
-  - Hochqualifizierte: sofort (§ 18c II AufenthG).
+ - Fachkraefte mit Blauer Karte: 33 / 21 Monate (mit Sprachkenntnissen B1; § 18c AufenthG).
+ - Asyl/Fluechtling: drei Jahre nach Anerkennung bei Erfuellung Integrationsvoraussetzungen (§ 26 III AufenthG).
+ - Hochqualifizierte: sofort (§ 18c II AufenthG).
 
 ### 4. Erlaubnis zum Daueraufenthalt-EU (§ 9a AufenthG, RL 2003/109/EG)
 

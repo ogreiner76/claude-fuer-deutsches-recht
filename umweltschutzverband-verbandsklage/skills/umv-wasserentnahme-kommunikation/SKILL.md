@@ -1,13 +1,13 @@
 ---
 name: umv-wasserentnahme-kommunikation
-description: "Nutze dies, wenn Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge im Plugin Umweltschutzverband Verbandsklage konkret bearbeitet werden soll. Auslöser: Bitte Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge prüfen.; Erstelle eine Arbeitsfassung zu Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Prüfen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

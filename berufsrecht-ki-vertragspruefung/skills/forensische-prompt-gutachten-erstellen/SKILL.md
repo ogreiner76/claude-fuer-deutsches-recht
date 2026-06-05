@@ -1,13 +1,13 @@
 ---
 name: forensische-prompt-gutachten-erstellen
-description: "Nutze dies, wenn Forensische Prüfung Prompt Injection, Gutachten Erstellen, Kanzleisoftware Spezial Mandantendaten im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Forensische Prüfung Prompt Injection, Gutachten Erstellen, Kanzleisoftware Spezial Mandantendaten prüfen.; Erstelle eine Arbeitsfassung zu Forensische Prüfung Prompt Injection, Gutachten Erstellen, Kanzleisoftware Spezial Mandantendaten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Forensische Prüfung Prompt Injection, Gutachten Erstellen, Kanzleisoftware Mandantendaten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Forensische Prüfung Prompt Injection, Gutachten Erstellen, Kanzleisoftware Spezial Mandantendaten
+# Forensische Prüfung Prompt Injection, Gutachten Erstellen, Kanzleisoftware Mandantendaten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Forensische Prüfung Prompt Injection, Gutachten Erstellen, Kanzleisoftware Mandantendaten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Forensische Prüfung Prompt Injection, Gutachten Erstellen, Kanzleisoftware Spezial Mandantendaten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-ki-vertragspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Forensische Prüfung Prompt Injection, Gutachten Erstellen, Kanzleisoftware Mandantendaten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-ki-vertragspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -227,16 +227,16 @@ Datenschutz: Art. 28, 32 DSGVO
 Strafprozess: §§ 53a, 97 StPO
 
 III. Einzelprüfungen (Ampeltabelle)
-| Pruefpunkt              | Ampel | Begruendung |
+| Pruefpunkt | Ampel | Begruendung |
 |-------------------------|-------|-------------|
-| Erforderlichkeit        |       |             |
-| Verschwiegenheitsklausel|       |             |
-| Belehrung §§ 203/204    |       |             |
-| Subunternehmer          |       |             |
-| Strafprozess §§ 53a/97  |       |             |
-| TOM / Zertifizierungen  |       |             |
-| Drittstaat / CLOUD Act  |       |             |
-| AVV Art. 28 DSGVO       |       |             |
+| Erforderlichkeit | | |
+| Verschwiegenheitsklausel| | |
+| Belehrung §§ 203/204 | | |
+| Subunternehmer | | |
+| Strafprozess §§ 53a/97 | | |
+| TOM / Zertifizierungen | | |
+| Drittstaat / CLOUD Act | | |
+| AVV Art. 28 DSGVO | | |
 
 IV. Gesamtergebnis
 [GRUEN / GELB / ROT]
@@ -261,10 +261,10 @@ Quellen: geltende Gesetzestexte, Gesetzesmaterialien, verifizierbare Kammerhinwe
 
 **Fokus:** Spezialfall Kanzleisoftware mit KI-Funktionen (RA-MICRO, Datev DMS, Acta Nova, vRA): Mandantendaten in Cloud, KI-Funktion Volltextsuche, Diktat, Vertragsanalyse. Pruefraster fuer Einwilligung Mandant, Auftragsverarbeitung, Loeschkonzepte.
 
-# Kanzleisoftware-Spezial KI
+# Kanzleisoftware-KI
 
-## Spezialwissen: Kanzleisoftware-Spezial KI
-- **Spezialgegenstand:** Kanzleisoftware-Spezial KI / kanzleisoftware spezial mandantendaten. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+## Spezialwissen: Kanzleisoftware-KI
+- **Spezialgegenstand:** Kanzleisoftware-KI / kanzleisoftware mandantendaten. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** KI, RA, MICRO, DMS.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

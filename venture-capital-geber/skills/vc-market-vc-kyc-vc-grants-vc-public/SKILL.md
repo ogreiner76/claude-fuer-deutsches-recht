@@ -1,13 +1,13 @@
 ---
 name: vc-market-vc-kyc-vc-grants-vc-public
-description: "Nutze dies, wenn Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid prüfen.; Erstelle eine Arbeitsfassung zu Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: expansion-auftakt-fehlzeit-erfassen
-description: "Nutze dies, wenn Expansion Auftakt, Fehlzeit Erfassen, Fehlzeiten Register, Handbuch Aktualisierung im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Expansion Auftakt, Fehlzeit Erfassen, Fehlzeiten Register, Handbuch Aktualisierung prüfen.; Erstelle eine Arbeitsfassung zu Expansion Auftakt, Fehlzeit Erfassen, Fehlzeiten Register, Handbuch Aktualisierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Expansion Auftakt, Fehlzeit Erfassen, Fehlzeiten Register, Handbuch Aktualisierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Expansion Auftakt, Fehlzeit Erfassen, Fehlzeiten Register, Handbuch Aktualisierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Expansion Auftakt, Fehlzeit Erfassen, Fehlzeiten Register, Handbuch Aktualisierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -110,7 +110,7 @@ Frage alle nachfolgenden Punkte in einem einzigen Block ab:
 > **Die Expansion**
 > - Welches Land / welches Bundesland?
 > - Welche Rollen? (Stellenprofil ist entscheidend — ein Vertriebsmitarbeiter
->   mit Abschlussvollmacht erzeugt anderes Risiko als eine Entwicklerstelle)
+> mit Abschlussvollmacht erzeugt anderes Risiko als eine Entwicklerstelle)
 > - Wie viele Einstellungen im 12-Monats-Horizont?
 > - Wann soll die erste Person starten?
 >
@@ -172,21 +172,21 @@ Ausgabe bei Einstellung von zwei Vertriebsmitarbeitern in Polen:
 ## Risiken und typische Fehler
 
 - **Scheinselbständigkeit § 7 SGB IV**: Freie Mitarbeiter im Ausland, die
-  faktisch weisungsgebunden und eingegliedert sind, gelten als Arbeitnehmer.
-  Nachzahlungsrisiko Sozialversicherung bis zu vier Jahre rückwirkend.
+ faktisch weisungsgebunden und eingegliedert sind, gelten als Arbeitnehmer.
+ Nachzahlungsrisiko Sozialversicherung bis zu vier Jahre rückwirkend.
 - **AÜG-Falle bei EOR**: Wird ein EOR ohne AÜG-Erlaubnis genutzt und liegt
-  echte Arbeitnehmerüberlassung vor, kann kraft Gesetzes ein Arbeitsverhältnis
-  zum Entleiher entstehen (§ 10 Abs. 1 AÜG).
+ echte Arbeitnehmerüberlassung vor, kann kraft Gesetzes ein Arbeitsverhältnis
+ zum Entleiher entstehen (§ 10 Abs. 1 AÜG).
 - **18-Monats-Grenze**: Die gesetzliche Höchstüberlassungsdauer beträgt
-  18 Monate (§ 1 Abs. 1b AÜG). Überschreitung ohne tarifvertragliche Ausnahme
-  ist bußgeldbewehrt.
+ 18 Monate (§ 1 Abs. 1b AÜG). Überschreitung ohne tarifvertragliche Ausnahme
+ ist bußgeldbewehrt.
 - **Fehlende Vorabklärung Betriebsstättenrisiko**: Vertriebsmitarbeiter mit
-  Vertretungsmacht können in vielen Ländern steuerlich eine Betriebsstätte
-  begründen — Steuerberatung vor Einstellungsbeginn zwingend.
+ Vertretungsmacht können in vielen Ländern steuerlich eine Betriebsstätte
+ begründen — Steuerberatung vor Einstellungsbeginn zwingend.
 - **Arbeitsvertrag nach dem Recht des Stammlandes**: Art. 8 Rom I-VO schützt
-  Arbeitnehmer vor Abwahl zwingender Schutzvorschriften des
-  Beschäftigungsstaats. Reine Rechtswahl zugunsten deutschen Rechts schützt
-  nicht vor Mindeststandards des Einsatzlandes.
+ Arbeitnehmer vor Abwahl zwingender Schutzvorschriften des
+ Beschäftigungsstaats. Reine Rechtswahl zugunsten deutschen Rechts schützt
+ nicht vor Mindeststandards des Einsatzlandes.
 
 ## Quellenpflicht
 
@@ -237,12 +237,12 @@ Standort-Fußabdruck, HRIS-Status, Tarifvertrag prüfen. Falls HRIS verbunden: H
 > - **Mitarbeiter-ID oder Rolle** (anonymisiert ist in Ordnung)
 > - **Bundesland** (bestimmt anwendbare Regeln)
 > - **Abwesenheitstyp:**
->   - Krankheit / Arbeitsunfähigkeit (EFZG)
->   - Urlaub (BUrlG)
->   - Mutterschutz / Beschäftigungsverbot (MuSchG)
->   - Elternzeit (BEEG)
->   - Pflegezeit (PflegeZG)
->   - Sonstiges
+> - Krankheit / Arbeitsunfähigkeit (EFZG)
+> - Urlaub (BUrlG)
+> - Mutterschutz / Beschäftigungsverbot (MuSchG)
+> - Elternzeit (BEEG)
+> - Pflegezeit (PflegeZG)
+> - Sonstiges
 > - **Startdatum** der Abwesenheit
 > - **Voraussichtliches Rückkehrdatum** (falls bekannt – leer lassen wenn unbekannt)
 > - **Bei Elternzeit:** Hat die Mitarbeiterin/der Mitarbeiter die Elternzeit schriftlich angemeldet? Anmeldedatum?
@@ -285,19 +285,19 @@ Register-Eintrag anlegen in `~/.claude/plugins/config/claude-fuer-deutsches-rech
 
 ```yaml
 - id: [generierte ID]
-  mitarbeiter: [anonymisierte Bezeichnung]
-  bundesland: [BL]
-  typ: [krankheit|urlaub|mutterschutz|elternzeit|pflegezeit|sonstiges]
-  startdatum: [JJJJ-MM-TT]
-  rueckkehr_geplant: [JJJJ-MM-TT | unbekannt]
-  fristen:
-    efzg_erschoepfung: [JJJJ-MM-TT]      # nur bei Krankheit
-    bem_pruefung: [JJJJ-MM-TT]            # nur bei Krankheit ≥ 6 Wochen
-    urlaubsverfall_warnung: [JJJJ-MM-TT]  # nur bei Urlaub
-    schutzfrist_ende: [JJJJ-MM-TT]        # MuSchG/BEEG
-    ks_schutz_ende: [JJJJ-MM-TT]          # Kündigungsschutz-Ende
-  notizen: [ggf.]
-  status: offen
+ mitarbeiter: [anonymisierte Bezeichnung]
+ bundesland: [BL]
+ typ: [krankheit|urlaub|mutterschutz|elternzeit|pflegezeit|sonstiges]
+ startdatum: [JJJJ-MM-TT]
+ rueckkehr_geplant: [JJJJ-MM-TT | unbekannt]
+ fristen:
+ efzg_erschoepfung: [JJJJ-MM-TT] # nur bei Krankheit
+ bem_pruefung: [JJJJ-MM-TT] # nur bei Krankheit ≥ 6 Wochen
+ urlaubsverfall_warnung: [JJJJ-MM-TT] # nur bei Urlaub
+ schutzfrist_ende: [JJJJ-MM-TT] # MuSchG/BEEG
+ ks_schutz_ende: [JJJJ-MM-TT] # Kündigungsschutz-Ende
+ notizen: [ggf.]
+ status: offen
 ```
 
 ## Quellen und Zitierweise
@@ -316,14 +316,14 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 ```
 FEHLZEITEINTRAG ANGELEGT – [ID] – [Datum]
 
-Mitarbeiter:   [ID/Rolle]
-Typ:           [Abwesenheitstyp]
-Bundesland:    [BL]
-Start:         [Datum]
-Rückkehr:      [Datum / unbekannt]
+Mitarbeiter: [ID/Rolle]
+Typ: [Abwesenheitstyp]
+Bundesland: [BL]
+Start: [Datum]
+Rückkehr: [Datum / unbekannt]
 
 Berechnete Fristen:
-  [Fristname]:  [Datum]  [Norm]
+ [Fristname]: [Datum] [Norm]
 
 Gespeichert: ~/.../urlaubsregister.yaml
 Nächste Prüfung: /arbeitsrecht:fehlzeiten-register
@@ -428,15 +428,15 @@ URLAUB- UND FEHLZEITEN-TRACKER – [Datum]
 Aktive Abwesenheiten: [N gesamt] | Handlungsbedarf: [N]
 
 🔴 SOFORTMASSNAHME
-  [Name/ID] – [Abwesenheitstyp] – Frist: [Datum]
-  → [Was zu tun ist, in einem Satz]
+ [Name/ID] – [Abwesenheitstyp] – Frist: [Datum]
+ → [Was zu tun ist, in einem Satz]
 
 🟠 ZEITNAH HANDELN
-  [Name/ID] – [Typ] – Frist: [Datum]
-  → [Handlung]
+ [Name/ID] – [Typ] – Frist: [Datum]
+ → [Handlung]
 
 🟢 Unauffällig ([N] Fälle)
-  [kurze Zusammenfassung, eine Zeile]
+ [kurze Zusammenfassung, eine Zeile]
 
 Wie weiter? [Entscheidungsbaum]
 ```
@@ -453,14 +453,14 @@ URLAUB- UND FEHLZEITEN-TRACKER – 15.01.2025
 Aktive Abwesenheiten: 8 gesamt | Handlungsbedarf: 2
 
 🟠 ZEITNAH HANDELN
-  MA-0047 (Projektmanagerin) – Elternzeit-Anmeldung – Frist: 03.02.2025
-  → Elternzeitanmeldung mit 7-Wochen-Frist (§ 16 Abs. 1 BEEG) liegt noch nicht vor.
-     Bitte Mitarbeiterin erinnern und Antrag schriftlich bestätigen.
+ MA-0047 (Projektmanagerin) – Elternzeit-Anmeldung – Frist: 03.02.2025
+ → Elternzeitanmeldung mit 7-Wochen-Frist (§ 16 Abs. 1 BEEG) liegt noch nicht vor.
+ Bitte Mitarbeiterin erinnern und Antrag schriftlich bestätigen.
 
 🟡 AUF DEM RADAR
-  MA-0031 (Vertrieb) – EFZG-Erschöpfung (gleiche Erkrankung) – 05.03.2025
-  → 6. Krankheitswoche bei derselben Erkrankung. BEM prüfen (§ 167 Abs. 2 SGB IX).
-     EFZG-Anspruch erschöpft sich am 05.03.2025.
+ MA-0031 (Vertrieb) – EFZG-Erschöpfung (gleiche Erkrankung) – 05.03.2025
+ → 6. Krankheitswoche bei derselben Erkrankung. BEM prüfen (§ 167 Abs. 2 SGB IX).
+ EFZG-Anspruch erschöpft sich am 05.03.2025.
 
 🟢 Unauffällig (6 Fälle) – keine Handlung erforderlich.
 ```
@@ -511,44 +511,44 @@ Folgewirkungen systematisch geprüft werden sollen.
 **Kernvorschriften:**
 
 - § 87 BetrVG: Erzwingbares Mitbestimmungsrecht des Betriebsrats bei
-  Ordnung des Betriebs, Arbeitszeit, Urlaub, betrieblichem Datenschutz u. a.
-  — Handbuchänderungen in diesen Bereichen erfordern Betriebsratszustimmung
-  oder Einigungsstellenverfahren
+ Ordnung des Betriebs, Arbeitszeit, Urlaub, betrieblichem Datenschutz u. a.
+ — Handbuchänderungen in diesen Bereichen erfordern Betriebsratszustimmung
+ oder Einigungsstellenverfahren
 - § 77 BetrVG: Betriebsvereinbarungen — Vorrang und Ablösung;
-  Nachwirkung gekündigter Betriebsvereinbarungen (§ 77 Abs. 6 BetrVG)
+ Nachwirkung gekündigter Betriebsvereinbarungen (§ 77 Abs. 6 BetrVG)
 - §§ 305 ff. BGB: AGB-Kontrolle für vorformulierte Arbeitsbedingungen;
-  Inhaltskontrolle nach § 307 BGB; Transparenzgebot § 307 Abs. 1 S. 2 BGB
+ Inhaltskontrolle nach § 307 BGB; Transparenzgebot § 307 Abs. 1 S. 2 BGB
 - § 2 NachwG: Nachweispflicht wesentlicher Arbeitsbedingungen;
-  Änderungen sind dem Arbeitnehmer spätestens am ersten Tag nach Wirksamwerden
-  schriftlich mitzuteilen
+ Änderungen sind dem Arbeitnehmer spätestens am ersten Tag nach Wirksamwerden
+ schriftlich mitzuteilen
 - §§ 611a, 613 BGB: Arbeitsvertragliche Einbindung von Handbuchregelungen
-  durch Bezugnahmeklauseln
+ durch Bezugnahmeklauseln
 
 **Leitentscheidungen:**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Wirksame Einbeziehung von Personalhandbuch-Regelungen durch Bezugnahmeklausel
-  im Arbeitsvertrag; AGB-Kontrolle; Maßstab der überraschenden Klausel
-  nach § 305c Abs. 1 BGB
+ Wirksame Einbeziehung von Personalhandbuch-Regelungen durch Bezugnahmeklausel
+ im Arbeitsvertrag; AGB-Kontrolle; Maßstab der überraschenden Klausel
+ nach § 305c Abs. 1 BGB
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Verschlechterung einer durch betriebliche Übung entstandenen
-  Leistungsverpflichtung — einseitige Abänderung unwirksam; Änderungskündigung
-  als richtiger Weg; Vertrauensschutz der Arbeitnehmer
+ Verschlechterung einer durch betriebliche Übung entstandenen
+ Leistungsverpflichtung — einseitige Abänderung unwirksam; Änderungskündigung
+ als richtiger Weg; Vertrauensschutz der Arbeitnehmer
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Mitbestimmung des Betriebsrats bei einseitiger Änderung betrieblicher
-  Regelungen, die in den Bereich des § 87 BetrVG fallen; Einigungsstellenverfahren
+ Mitbestimmung des Betriebsrats bei einseitiger Änderung betrieblicher
+ Regelungen, die in den Bereich des § 87 BetrVG fallen; Einigungsstellenverfahren
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  Katalog erzwingbarer Mitbestimmungsrechte; Reichweite der Mitbestimmung
-  bei Regelungsänderungen
+ Katalog erzwingbarer Mitbestimmungsrechte; Reichweite der Mitbestimmung
+ bei Regelungsänderungen
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  AGB-Kontrolle vorformulierter Arbeitsbedingungen; Inhaltskontrolle
-  und Transparenzgebot im Arbeitsverhältnis
+ AGB-Kontrolle vorformulierter Arbeitsbedingungen; Inhaltskontrolle
+ und Transparenzgebot im Arbeitsverhältnis
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  Nachweispflicht bei Änderungen wesentlicher Arbeitsbedingungen,
-  Formerfordernis und Folgen der Verletzung
+ Nachweispflicht bei Änderungen wesentlicher Arbeitsbedingungen,
+ Formerfordernis und Folgen der Verletzung
 
 ## Ablauf
 
@@ -572,10 +572,10 @@ Zeige den Vergleich:
 Durchsuche das Personalhandbuch nach Bezügen auf den geänderten Abschnitt:
 
 - Andere Regelungen, die auf diesen Abschnitt verweisen
-  ("zur Urlaubsabgeltung siehe Abschnitt …")
+ ("zur Urlaubsabgeltung siehe Abschnitt …")
 - Definierte Begriffe, die dieser Abschnitt verwendet oder definiert
 - Standort- oder tarifvertragliche Sonderregelungen, die diesen Abschnitt
-  modifizieren
+ modifizieren
 
 Für jeden Querverweis: Gilt er nach der Änderung noch unverändert?
 Wird er durch die Änderung falsch oder unvollständig? Kennzeichne Konflikte.
@@ -597,7 +597,7 @@ Entlohnungsgrundsätze). Falls ja:
 Prüfe für jeden Standort im Fußabdruck:
 - Modifiziert eine bestehende Betriebsvereinbarung diesen Bereich?
 - Macht die Änderung eine bestehende Betriebsvereinbarung obsolet, falsch
-  oder unvollständig?
+ oder unvollständig?
 - Entsteht für einen Standort erstmals Anpassungsbedarf?
 
 **Schritt 6 — Leistungsversprechen-Check**
@@ -673,16 +673,16 @@ Ausgabe der Skill:
 ## Risiken und typische Fehler
 
 - **Mitbestimmung vergessen**: Änderungen in Bereichen des § 87 BetrVG
-  ohne Betriebsratsinhaber sind unwirksam — auch wenn sie sachlich gerechtfertigt sind.
+ ohne Betriebsratsinhaber sind unwirksam — auch wenn sie sachlich gerechtfertigt sind.
 - **Betriebliche Übung unterschätzt**: Was über Jahre konsistent gewährt wurde,
-  kann bindend sein — auch ohne ausdrücklichen Vertrag.
+ kann bindend sein — auch ohne ausdrücklichen Vertrag.
 - **NachwG-Frist versäumt**: Änderungen wesentlicher Arbeitsbedingungen müssen
-  spätestens am nächsten Arbeitstag schriftlich mitgeteilt werden.
+ spätestens am nächsten Arbeitstag schriftlich mitgeteilt werden.
 - **AGB-Kontrolle nicht geprüft**: Vorformulierte Handbuchklauseln unterliegen
-  §§ 305 ff. BGB; überraschende oder unangemessen belastende Klauseln sind
-  unwirksam.
+ §§ 305 ff. BGB; überraschende oder unangemessen belastende Klauseln sind
+ unwirksam.
 - **Standortspezifika übersehen**: Betriebsvereinbarungen an einzelnen
-  Standorten können bundesweite Handbuchregelungen einschränken oder erweitern.
+ Standorten können bundesweite Handbuchregelungen einschränken oder erweitern.
 
 ## Quellenpflicht
 

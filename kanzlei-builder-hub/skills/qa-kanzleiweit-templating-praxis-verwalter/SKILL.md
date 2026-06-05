@@ -1,13 +1,13 @@
 ---
 name: qa-kanzleiweit-templating-praxis-verwalter
-description: "Nutze dies, wenn Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter im Plugin Kanzlei Builder Hub konkret bearbeitet werden soll. Auslöser: Bitte Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter prüfen.; Erstelle eine Arbeitsfassung zu Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Skill Qa Kanzleiweit Spezial, Skill Templating Praxis, Skill Verwalter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -202,10 +202,10 @@ An `installations-protokoll.yaml` anhängen:
 
 ```yaml
 - skill: <name>
-  action: uninstall
-  timestamp: <ISO8601>
-  path: <gelöschter Pfad>
-  grund: <optional, vom Nutzer angegeben>
+ action: uninstall
+ timestamp: <ISO8601>
+ path: <gelöschter Pfad>
+ grund: <optional, vom Nutzer angegeben>
 ```
 
 Die Skill-Zeile aus der installierten Starter-Pack-Tabelle in der Hub-CLAUDE.md entfernen.
@@ -248,13 +248,13 @@ Strukturierte Bestätigung nach jeder Aktion:
 
 ```
 Skill-Manager — Aktion: [deinstalliert / deaktiviert / reaktiviert]
-Skill:          [name]
-Zeitstempel:    [ISO8601]
+Skill: [name]
+Zeitstempel: [ISO8601]
 Betroffene Dateien:
-  - [Pfad 1]
-  - [Pfad 2]
+ - [Pfad 1]
+ - [Pfad 2]
 Konfiguration beibehalten:
-  - [Pfad, falls zutreffend]
+ - [Pfad, falls zutreffend]
 Protokolleintrag: installations-protokoll.yaml aktualisiert.
 ```
 

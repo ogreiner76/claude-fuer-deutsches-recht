@@ -1,13 +1,13 @@
 ---
 name: erbschaft-schenkung-familienbudget
-description: "Nutze dies, wenn Erbschaft Schenkung Gewinn, Familienbudget Und Haushaltsplan, Formularcheck Insolvenzantrag im Plugin Verbraucherinsolvenz Schuldenbereinigung konkret bearbeitet werden soll. Auslöser: Bitte Erbschaft Schenkung Gewinn, Familienbudget Und Haushaltsplan, Formularcheck Insolvenzantrag prüfen.; Erstelle eine Arbeitsfassung zu Erbschaft Schenkung Gewinn, Familienbudget Und Haushaltsplan, Formularcheck Insolvenzantrag.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erbschaft Schenkung Gewinn, Familienbudget Und Haushaltsplan, Formularcheck Insolvenzantrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erbschaft Schenkung Gewinn, Familienbudget Und Haushaltsplan, Formularcheck Insolvenzantrag
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erbschaft Schenkung Gewinn, Familienbudget Und Haushaltsplan, Formularcheck Insolvenzantrag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

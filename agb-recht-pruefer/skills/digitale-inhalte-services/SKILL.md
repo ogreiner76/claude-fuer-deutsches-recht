@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-services
-description: "Branchen-Spezialskill für Digitale Inhalte Services: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Digitale Inhalte Services: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Digitale Inhalte Services

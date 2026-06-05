@@ -1,13 +1,13 @@
 ---
 name: communication-charter-conflict-after-court
-description: "Nutze dies, wenn Communication Charter, Conflict After Mandate, Court Deadline Dashboard, Court File Progress, Crisis Mode im Plugin Kanzlei Mandant Lifecycle konkret bearbeitet werden soll. Auslöser: Bitte Communication Charter, Conflict After Mandate, Court Deadline Dashboard, Court File Progress, Crisis Mode prüfen.; Erstelle eine Arbeitsfassung zu Communication Charter, Conflict After Mandate, Court Deadline Dashboard, Court File Progress, Crisis Mode.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Communication Charter, Conflict After Mandate, Court Deadline Dashboard, Court File Progress: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Communication Charter, Conflict After Mandate, Court Deadline Dashboard, Court File Progress, Crisis Mode
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Communication Charter, Conflict After Mandate, Court Deadline Dashboard, Court File Progress, Crisis Mode** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: ropa-art-anwendungsfall-triage-avv-art-avv
-description: "Nutze dies, wenn Ropa Art 30 Processor Deutsch Vorlage, Anwendungsfall Triage, Avv Art 26 Joint Controllership Deutsch, Avv Art 28 Dsgvo Grundtatbestand, Avv Art 28 Mindestinhalte Checkliste im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Ropa Art 30 Processor Deutsch Vorlage, Anwendungsfall Triage, Avv Art 26 Joint Controllership Deutsch, Avv Art 28 Dsgvo Grundtatbestand, Avv Art 28 Mindestinhalte Checkliste prüfen.; Erstelle eine Arbeitsfassung zu Ropa Art 30 Processor Deutsch Vorlage, Anwendungsfall Triage, Avv Art 26 Joint Controllership Deutsch, Avv Art 28 Dsgvo Grundtatbestand, Avv Art 28 Mindestinhalte Checkliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ropa Art 30 Processor Deutsch Vorlage, Anwendungsfall Triage, Avv Art 26 Joint Controllership Deutsch, Avv Art 28 Dsgvo Grundtatbestand: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ropa Art 30 Processor Deutsch Vorlage, Anwendungsfall Triage, Avv Art 26 Joint Controllership Deutsch, Avv Art 28 Dsgvo Grundtatbestand, Avv Art 28 Mindestinhalte Checkliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ropa Art 30 Processor Deutsch Vorlage, Anwendungsfall Triage, Avv Art 26 Joint Controllership Deutsch, Avv Art 28 Dsgvo Grundtatbestand, Avv Art 28 Mindestinhalte Checkliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -69,13 +69,13 @@ Wichtig: Pro Auftraggeber eine Zeile. Mehrere Verarbeitungskategorien koennen zu
 ### Deckblatt
 
 ```
-Auftragsverarbeiter:     [Firmenname]
-Anschrift:               [...]
-Vertreter (Art. 27):     [falls anwendbar]
+Auftragsverarbeiter: [Firmenname]
+Anschrift: [...]
+Vertreter (Art. 27): [falls anwendbar]
 Datenschutzbeauftragter: [Name, Kontakt]
-Erstellt:                [Datum]
-Letzte Aenderung:        [Datum]
-Version:                 [v1.0]
+Erstellt: [Datum]
+Letzte Aenderung: [Datum]
+Version: [v1.0]
 ```
 
 ### Tabelle (Pflichtspalten)
@@ -153,7 +153,7 @@ die Folgenabschätzung nicht, sondern bestimmt, ob sie geboten ist.
 - **DSA ERFORDERLICH** — Datenschutzprüfung vor oder begleitend zum Einsatz.
 - **DSFA PFLICHT** — Art. 35 DSGVO zwingend; DSB-Einbindung erforderlich.
 - **STOPP** — Verarbeitung widerspricht Datenschutzrichtlinie oder entbehrt jeder
-  Rechtsgrundlage; Neugestaltung vor Fortführung zwingend.
+ Rechtsgrundlage; Neugestaltung vor Fortführung zwingend.
 
 ## Eingaben
 
@@ -169,41 +169,41 @@ die Folgenabschätzung nicht, sondern bestimmt, ob sie geboten ist.
 ### Kernvorschriften
 
 - **DSGVO:** Art. 5 (Grundsätze), Art. 6 (Rechtsgrundlagen), Art. 9 (besondere
-  Kategorien), Art. 13/14 (Informationspflichten), Art. 17 (Löschrecht), Art. 22
-  (automatisierte Entscheidungen), Art. 25 (Privacy by Design/Default), Art. 28 (AVV),
-  Art. 30 (Verarbeitungsverzeichnis), Art. 32 (TOM), Art. 35 (DSFA), Art. 44 ff.
-  (Drittlandtransfer).
+ Kategorien), Art. 13/14 (Informationspflichten), Art. 17 (Löschrecht), Art. 22
+ (automatisierte Entscheidungen), Art. 25 (Privacy by Design/Default), Art. 28 (AVV),
+ Art. 30 (Verarbeitungsverzeichnis), Art. 32 (TOM), Art. 35 (DSFA), Art. 44 ff.
+ (Drittlandtransfer).
 - **BDSG:** § 22 (Gesundheits-/Sozialdaten), § 26 (Beschäftigtendatenschutz), § 38
-  (betrieblicher DSB).
+ (betrieblicher DSB).
 - **TDDDG (ehem. TTDSG):** §§ 24 ff. — Einwilligung für Cookies/Endgerätezugriffe.
 - **Art. 35 Abs. 4 DSGVO** i. V. m. DSK-Positivliste — nationale Pflichttatbestände.
 
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  — Ungültigkeit EU-US-Privacy-Shield; Standardvertragsklauseln erfordern Transfer
-  Impact Assessment; maßgeblich für Art. 44 ff. DSGVO.
+ — Ungültigkeit EU-US-Privacy-Shield; Standardvertragsklauseln erfordern Transfer
+ Impact Assessment; maßgeblich für Art. 44 ff. DSGVO.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  — Automatisiertes Scoring als Entscheidung i. S. d. Art. 22 DSGVO, wenn Dritte
-  maßgeblich darauf abstellen; zentral für Triage von KI-/Scoring-Vorhaben.
+ — Automatisiertes Scoring als Entscheidung i. S. d. Art. 22 DSGVO, wenn Dritte
+ maßgeblich darauf abstellen; zentral für Triage von KI-/Scoring-Vorhaben.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  — Datenschutzrechtliche Haftung Art. 82 DSGVO; Beweislastverteilung.
+ — Datenschutzrechtliche Haftung Art. 82 DSGVO; Beweislastverteilung.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  *(Recht auf Vergessen I)* — Datenschutz als Teil des allgemeinen Persönlichkeitsrechts
-  (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG); Abwägung mit Kommunikationsfreiheiten.
+ *(Recht auf Vergessen I)* — Datenschutz als Teil des allgemeinen Persönlichkeitsrechts
+ (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG); Abwägung mit Kommunikationsfreiheiten.
 
 ### Kommentare
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-  — DSFA-Pflicht, Schwellenwerte, Verhältnis zu nationalen Listen.
+ — DSFA-Pflicht, Schwellenwerte, Verhältnis zu nationalen Listen.
 - `Simitis/Hornung/Spiecker (Hrsg.), DSGVO, 2. Aufl. 2022, Art. 6 Rn. 30 ff.`
-  — Rechtsgrundlagen; berechtigtes Interesse als Auffangtatbestand.
+ — Rechtsgrundlagen; berechtigtes Interesse als Auffangtatbestand.
 - `Gola (Hrsg.), DSGVO, 3. Aufl. 2022, Art. 22 Rn. 5 ff.`
-  — Automatisierte Entscheidungsfindung; Abgrenzung zu Profiling.
+ — Automatisierte Entscheidungsfindung; Abgrenzung zu Profiling.
 - `Paal/Pauly (Hrsg.), DS-GVO BDSG, 3. Aufl. 2021, Art. 25 DSGVO Rn. 7 ff.`
-  — Privacy by Design und Privacy by Default als Entwurfspflicht.
+ — Privacy by Design und Privacy by Default als Entwurfspflicht.
 - `Ehmann/Selmayr (Hrsg.), DS-GVO, 2. Aufl. 2018, Art. 35 Rn. 25 ff.`
-  — Anwendungsbereich der DSFA; Verhältnis zu Art. 5, 25 DSGVO.
+ — Anwendungsbereich der DSFA; Verhältnis zu Art. 5, 25 DSGVO.
 
 ## Ablauf
 
@@ -222,7 +222,7 @@ Konfiguriertes Prüfraster aus CLAUDE.md lesen. Trigger erfüllt → mindestens
 
 **Pflichttatbestände (Art. 35 Abs. 3, DSK-Positivliste):**
 - Systematische automatisierte Bewertung persönlicher Aspekte inkl. Profiling mit
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Umfangreiche Verarbeitung besonderer Datenkategorien (Art. 9 DSGVO).
 - Systematische umfangreiche Überwachung öffentlich zugänglicher Bereiche.
 
@@ -277,9 +277,9 @@ Konflikt benennen. Optionen: (A) Vorhaben umgestalten, (B) Richtlinie aktualisie
 ### Schritt 6: Weiterleitung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  KI-Folgenabschätzung erwägen.
+ KI-Folgenabschätzung erwägen.
 - **Beschäftigtendatenschutz:** § 26 BDSG und Mitbestimmung (§§ 87 Abs. 1 Nr. 6,
-  94 BetrVG) prüfen.
+ 94 BetrVG) prüfen.
 
 ## Ausgabeformat
 
@@ -309,12 +309,12 @@ DSB-Konsultation und Verarbeitungsverzeichnis-Eintrag (Art. 30) zwingend.
 ## Risiken und typische Fehler
 
 - **"Anonymisiert" = FREIGABE:** Pseudonymisierte Daten bleiben personenbezogen
-  (Art. 4 Nr. 1 DSGVO). Re-Identifikationsrisiko konkret prüfen.
+ (Art. 4 Nr. 1 DSGVO). Re-Identifikationsrisiko konkret prüfen.
 - **"Wir machen das ähnlich":** Bestehende, nie geprüfte Verarbeitungen legitimieren
-  keine neue. Bei anderem Umfang/Zweck/Kategorie: neu triagen.
+ keine neue. Bei anderem Umfang/Zweck/Kategorie: neu triagen.
 - **"Nur ein Pilot":** Pilot mit echten Personendaten unterliegt denselben Anforderungen.
 - **"Der Anbieter regelt Datenschutz":** AVV nach Art. 28 zwingend; Triage bleibt beim
-  Verantwortlichen (Art. 4 Nr. 7 DSGVO).
+ Verantwortlichen (Art. 4 Nr. 7 DSGVO).
 - **Inferred Data übersehen:** Score, Risikoklasse, Präferenz = personenbezogenes Datum.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
@@ -397,30 +397,30 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 ## Ablauf / Checkliste
 
 1. **Konstellation klaeren.**
-   - Welche Akteure?
-   - Welche Verarbeitung ist betroffen?
-   - Welche Zwecke werden gemeinsam verfolgt?
+ - Welche Akteure?
+ - Welche Verarbeitung ist betroffen?
+ - Welche Zwecke werden gemeinsam verfolgt?
 
 2. **Aufgabenverteilung.**
-   - Informationspflichten Art. 13/14 DSGVO – wer informiert wen?
-   - Betroffenenrechte Art. 15 bis 22 DSGVO – wer bearbeitet?
-   - Sicherheitsmassnahmen Art. 32 DSGVO – wer trifft was?
-   - Meldepflichten Art. 33, 34 DSGVO – wer meldet was?
-   - DSFA Art. 35 DSGVO – wer fuehrt durch?
-   - Vorabkonsultation Art. 36 DSGVO – wer fuehrt durch?
-   - Verarbeitungsverzeichnis Art. 30 DSGVO – wer fuehrt?
+ - Informationspflichten Art. 13/14 DSGVO – wer informiert wen?
+ - Betroffenenrechte Art. 15 bis 22 DSGVO – wer bearbeitet?
+ - Sicherheitsmassnahmen Art. 32 DSGVO – wer trifft was?
+ - Meldepflichten Art. 33, 34 DSGVO – wer meldet was?
+ - DSFA Art. 35 DSGVO – wer fuehrt durch?
+ - Vorabkonsultation Art. 36 DSGVO – wer fuehrt durch?
+ - Verarbeitungsverzeichnis Art. 30 DSGVO – wer fuehrt?
 
 3. **Anlaufstelle festlegen.**
-   - Eine zentrale Anlaufstelle fuer Betroffene oder mehrere?
-   - Empfehlung: zentrale Anlaufstelle, um Art. 26 Abs. 3 DSGVO praktisch handhabbar zu machen.
+ - Eine zentrale Anlaufstelle fuer Betroffene oder mehrere?
+ - Empfehlung: zentrale Anlaufstelle, um Art. 26 Abs. 3 DSGVO praktisch handhabbar zu machen.
 
 4. **Transparenz nach Art. 26 Abs. 2 DSGVO.**
-   - "Wesentliche Aspekte" der Vereinbarung muessen den Betroffenen zugaenglich gemacht werden.
-   - Praxis: Veroeffentlichung in der Datenschutzerklaerung oder als eigenes Dokument auf der Webseite.
+ - "Wesentliche Aspekte" der Vereinbarung muessen den Betroffenen zugaenglich gemacht werden.
+ - Praxis: Veroeffentlichung in der Datenschutzerklaerung oder als eigenes Dokument auf der Webseite.
 
 5. **Innenregress.**
-   - Trotz Gesamtschuld nach Art. 82 Abs. 4 DSGVO koennen die Parteien intern den Verschuldensanteil regeln.
-   - Cap-Diskussion analog zum AVV (Querverweis: avv-haftung-risikoallokation-art-82-dsgvo).
+ - Trotz Gesamtschuld nach Art. 82 Abs. 4 DSGVO koennen die Parteien intern den Verschuldensanteil regeln.
+ - Cap-Diskussion analog zum AVV (Querverweis: avv-haftung-risikoallokation-art-82-dsgvo).
 
 ## Mustertext / Template
 
@@ -540,34 +540,34 @@ Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftr
 ## Ablauf / Checkliste
 
 1. **Sachverhalt erfassen.**
-   - Welche personenbezogenen Daten werden verarbeitet?
-   - Welcher Akteur entscheidet ueber Zweck (Wozu?) und Mittel (Wie?)?
-   - Gibt es Weisungsmoeglichkeiten und Weisungsrechte?
-   - Welchen wirtschaftlichen Vorteil zieht jeder Akteur aus der Verarbeitung?
+ - Welche personenbezogenen Daten werden verarbeitet?
+ - Welcher Akteur entscheidet ueber Zweck (Wozu?) und Mittel (Wie?)?
+ - Gibt es Weisungsmoeglichkeiten und Weisungsrechte?
+ - Welchen wirtschaftlichen Vorteil zieht jeder Akteur aus der Verarbeitung?
 
 2. **Drei-Stufen-Test fuer Rollenzuordnung.**
 
-   | Frage | Indiz fuer Auftragsverarbeitung | Indiz gegen Auftragsverarbeitung |
-   |---|---|---|
-   | Wer legt Zweck fest? | Verantwortlicher allein | Dienstleister mitbestimmend |
-   | Wer legt wesentliche Mittel fest? | Verantwortlicher | Dienstleister bestimmt Architektur und Datenlogik |
-   | Eigene Datennutzung des Dienstleisters? | Nein, nur weisungsgebunden | Ja, fuer eigene Zwecke (Werbung, KI-Training, Statistik) |
-   | Wirtschaftliches Interesse | Verantwortlicher | Dienstleister hat eigenes Interesse an Daten |
-   | Berufsbild | Reiner Auftragnehmer | Eigene Rechtsdienstleistung, Berufstraegerstellung |
+ | Frage | Indiz fuer Auftragsverarbeitung | Indiz gegen Auftragsverarbeitung |
+ |---|---|---|
+ | Wer legt Zweck fest? | Verantwortlicher allein | Dienstleister mitbestimmend |
+ | Wer legt wesentliche Mittel fest? | Verantwortlicher | Dienstleister bestimmt Architektur und Datenlogik |
+ | Eigene Datennutzung des Dienstleisters? | Nein, nur weisungsgebunden | Ja, fuer eigene Zwecke (Werbung, KI-Training, Statistik) |
+ | Wirtschaftliches Interesse | Verantwortlicher | Dienstleister hat eigenes Interesse an Daten |
+ | Berufsbild | Reiner Auftragnehmer | Eigene Rechtsdienstleistung, Berufstraegerstellung |
 
 3. **Negativabgrenzung.**
-   - **Funktionsuebertragung:** Bei Berufsgeheimnistraegern (Steuerberater, Rechtsanwaelte, Aerzte), Inkassodienstleistern und Wirtschaftspruefern ist die Rollenzuordnung wegen § 203 StGB und § 43a Abs. 2 BRAO besonders kritisch (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
-   - **Gemeinsame Verantwortlichkeit (Art. 26 DSGVO):** Wenn beide Akteure gemeinsam ueber Zwecke und Mittel entscheiden – EuGH C-210/16 Wirtschaftsakademie, EuGH C-40/17 Fashion ID, EuGH C-25/17 Zeugen Jehovas.
-   - **Getrennte Verantwortlichkeit:** Wenn jeder Akteur dieselben Daten fuer eigene Zwecke mit eigener Rechtsgrundlage verarbeitet.
+ - **Funktionsuebertragung:** Bei Berufsgeheimnistraegern (Steuerberater, Rechtsanwaelte, Aerzte), Inkassodienstleistern und Wirtschaftspruefern ist die Rollenzuordnung wegen § 203 StGB und § 43a Abs. 2 BRAO besonders kritisch (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
+ - **Gemeinsame Verantwortlichkeit (Art. 26 DSGVO):** Wenn beide Akteure gemeinsam ueber Zwecke und Mittel entscheiden – EuGH C-210/16 Wirtschaftsakademie, EuGH C-40/17 Fashion ID, EuGH C-25/17 Zeugen Jehovas.
+ - **Getrennte Verantwortlichkeit:** Wenn jeder Akteur dieselben Daten fuer eigene Zwecke mit eigener Rechtsgrundlage verarbeitet.
 
 4. **Rechtsfolge feststellen.**
-   - Auftragsverarbeitung bejaht: AVV-Pflicht nach Art. 28 Abs. 3 DSGVO.
-   - Keine Verarbeitung im Auftrag, sondern Art. 26 DSGVO: Joint-Controller-Vereinbarung (Querverweis: avv-art-26-joint-controllership-deutsch).
-   - Funktionsuebertragung: Eigener Vertragstyp, ggf. Datenuebermittlungsklausel und Geheimhaltungsvereinbarung statt AVV.
+ - Auftragsverarbeitung bejaht: AVV-Pflicht nach Art. 28 Abs. 3 DSGVO.
+ - Keine Verarbeitung im Auftrag, sondern Art. 26 DSGVO: Joint-Controller-Vereinbarung (Querverweis: avv-art-26-joint-controllership-deutsch).
+ - Funktionsuebertragung: Eigener Vertragstyp, ggf. Datenuebermittlungsklausel und Geheimhaltungsvereinbarung statt AVV.
 
 5. **Dokumentation.**
-   - Im Verarbeitungsverzeichnis Art. 30 DSGVO: Rolle eintragen.
-   - AVV als Anlage zum Hauptvertrag oder eigenstaendig.
+ - Im Verarbeitungsverzeichnis Art. 30 DSGVO: Rolle eintragen.
+ - AVV als Anlage zum Hauptvertrag oder eigenstaendig.
 
 ## Mustertext / Template
 

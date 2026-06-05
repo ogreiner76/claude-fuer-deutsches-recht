@@ -1,6 +1,6 @@
 ---
 name: buyouts-quellenkarte
-description: "Nutze dies, wenn Buyouts Quellenkarte im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Buyouts Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Buyouts Quellenkarte

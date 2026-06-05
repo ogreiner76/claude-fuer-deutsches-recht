@@ -1,13 +1,13 @@
 ---
 name: kanzlei-mandatsvereinbarung-kanzlei-postlauf
-description: "Nutze dies, wenn Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -132,7 +132,7 @@ Dieser Skill bildet die tägliche Kanzleipost ab. Er ist für den manuellen Aufr
 2. Bei beA-Connect das Nachrichtenjournal öffnen, einsehen, Screenshot sichern und `kanzlei-allgemein-bea-journal` starten.
 3. Jede neue beA-Nachricht als ZIP-Archiv exportieren oder herunterladen, entpacken und der Akte zuordnen.
 4. Jede seit dem letzten Lauf versandte beA-Nachricht im Journal prüfen, als ZIP sichern und entpacken.
-5. Elektronische Empfangsbekenntnisse erkennen und EB-Workflow anbieten.
+5. Elektronische Empfangsbekenntnisse erkennen und EB-anbieten.
 6. Nicht zugeordnete Eingänge an `kanzlei-allgemein-intake` geben.
 7. Fristen heute, morgen und diese Woche anzeigen.
 8. Action-Items nach Verantwortlichen gruppieren.

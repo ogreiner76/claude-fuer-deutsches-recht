@@ -1,6 +1,6 @@
 ---
 name: hoefliche
-description: "Nutze dies, wenn Hoefliche: Behörden-, Gerichts- oder Registerweg im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Hoefliche: Behörden-, Gerichts- oder Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Hoefliche: Behörden-, Gerichts- oder Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoefliche: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Hoefliche: Behörden-, Gerichts- oder Registerweg

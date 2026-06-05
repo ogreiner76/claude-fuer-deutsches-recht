@@ -1,13 +1,13 @@
 ---
 name: fuehren-interessen-mappen-nachfrage
-description: "Nutze dies, wenn Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe im Plugin Vertragsausfueller konkret bearbeitet werden soll. Auslöser: Bitte Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fuehren Mehrparteien Konflikt Und Interessen, Mappen Zahlen Schwellen Und Berechnung, Nachfrage Abschlussprodukt Und Uebergabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe
+# Fuehren Mehrparteien Konflikt Und Interessen, Mappen Zahlen Schwellen Und Berechnung, Nachfrage Abschlussprodukt Und Übergabe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fuehren Mehrparteien Konflikt Und Interessen, Mappen Zahlen Schwellen Und Berechnung, Nachfrage Abschlussprodukt Und Übergabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahlen Schwellen Und Berechnung, Spezial Nachfrage Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsausfueller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fuehren Mehrparteien Konflikt Und Interessen, Mappen Zahlen Schwellen Und Berechnung, Nachfrage Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsausfueller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Fuehren Mehrparteien Konflikt Und Interessen, Spezial Mappen Zahl
 # Fuehren: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Fuehren: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Fuehren: Mehrparteienkonflikt und Interessenmatrix / spezial fuehren mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fuehren: Mehrparteienkonflikt und Interessenmatrix / fuehren mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DOCX.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Mappen: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Mappen: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Mappen: Zahlen, Schwellenwerte und Berechnung / spezial mappen zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mappen: Zahlen, Schwellenwerte und Berechnung / mappen zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DOCX.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Nachfrage: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Nachfrage: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Nachfrage: Abschlussprodukt und Übergabe / spezial nachfrage abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Nachfrage: Abschlussprodukt und Übergabe / nachfrage abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DOCX.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

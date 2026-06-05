@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Zitierweise Deutsches Recht konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -11,9 +11,9 @@ Nutze diesen Skill, wenn im Bereich **Zitierweise Deutsches Recht** ein Fall noc
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `aufsatz-interessen-beckrs-blindzitate` — Aufsatz Interessen Beckrs Blindzitate
-- `datum-entscheidungsform-spezial-gericht` — Datum Entscheidungsform Spezial Gericht
+- `datum-entscheidungsform-spezial-gericht` — Datum Entscheidungsform Gericht
 - `hauszitierweise-juristische-kommentar` — Hauszitierweise Juristische Kommentar
 - `literatur-live-beweislast-lizenziertem` — Literatur Live Beweislast Lizenziertem
 - `rechtsprechung-zit-rechtsprechungszitierung-zitat-eugh` — Rechtsprechung Zit Rechtsprechungszitierung Zitat Eugh

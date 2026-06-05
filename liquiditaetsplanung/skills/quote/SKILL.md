@@ -1,6 +1,6 @@
 ---
 name: quote
-description: "Nutze dies, wenn Quote: Verhandlung, Vergleich und Eskalation im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Quote: Verhandlung, Vergleich und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Quote: Verhandlung, Vergleich und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Quote: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Quote: Verhandlung, Vergleich und Eskalation

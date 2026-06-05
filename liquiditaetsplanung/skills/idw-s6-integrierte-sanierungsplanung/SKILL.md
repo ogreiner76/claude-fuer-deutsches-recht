@@ -54,27 +54,27 @@ Lege für jede Maßnahme einen Datensatz an:
 
 ```yaml
 massnahme:
-  titel: "[z. B. Standortkonsolidierung / Bankstundung / Kapitalzufuhr]"
-  krisenursache: "[welche Ursache wird adressiert?]"
-  status: "verbindlich | verhandelt | plausibel | ungeklärt | nicht tragfähig"
-  guv-effekt:
-    umsatz: "[EUR / Prozent / Monat]"
-    kosten: "[EUR / Monat]"
-    zinsen_steuern: "[EUR / Monat]"
-  liquiditaets-effekt:
-    einmalig: "[EUR, Datum]"
-    laufend: "[EUR, ab Datum]"
-    vorfinanzierungsbedarf: "[EUR]"
-  bilanz-effekt:
-    eigenkapital: "[EUR]"
-    verbindlichkeiten: "[EUR]"
-    working_capital: "[EUR]"
-  voraussetzungen:
-    - "[Beschluss, Vertrag, Finanzierung, Zustimmung]"
-  nachweise:
-    - "[Datei / Vertrag / Beschluss / Kontoauszug]"
-  risiko:
-    sensitivitaet: "[was passiert bei Verzug oder Teilwirkung?]"
+ titel: "[z. B. Standortkonsolidierung / Bankstundung / Kapitalzufuhr]"
+ krisenursache: "[welche Ursache wird adressiert?]"
+ status: "verbindlich | verhandelt | plausibel | ungeklärt | nicht tragfähig"
+ guv-effekt:
+ umsatz: "[EUR / Prozent / Monat]"
+ kosten: "[EUR / Monat]"
+ zinsen_steuern: "[EUR / Monat]"
+ liquiditaets-effekt:
+ einmalig: "[EUR, Datum]"
+ laufend: "[EUR, ab Datum]"
+ vorfinanzierungsbedarf: "[EUR]"
+ bilanz-effekt:
+ eigenkapital: "[EUR]"
+ verbindlichkeiten: "[EUR]"
+ working_capital: "[EUR]"
+ voraussetzungen:
+ - "[Beschluss, Vertrag, Finanzierung, Zustimmung]"
+ nachweise:
+ - "[Datei / Vertrag / Beschluss / Kontoauszug]"
+ risiko:
+ sensitivitaet: "[was passiert bei Verzug oder Teilwirkung?]"
 ```
 
 ## Sanierungsfähigkeits-Ampel

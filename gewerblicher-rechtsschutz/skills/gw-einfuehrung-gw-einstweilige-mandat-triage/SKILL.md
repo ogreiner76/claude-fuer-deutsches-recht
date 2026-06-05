@@ -1,13 +1,13 @@
 ---
 name: gw-einfuehrung-gw-einstweilige-mandat-triage
-description: "Nutze dies, wenn Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz prüfen.; Erstelle eine Arbeitsfassung zu Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -170,7 +170,7 @@ Mandatsbezug: Mandant kommt mit einem IP-Problem, weiß aber nicht, ob er klagen
 
 **Fokus:** Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrachtung von Antrag bis Hauptsache. Gerichtsauswahl, Tenorformulierung, Sicherheitsleistung, Vollzug, Widerspruch und Übergang in die Hauptsache als integrierter Workflow.
 
-# GewR: Einstweilige Verfügung Spezial – Strategische Gesamtbetrachtung
+# GewR: Einstweilige Verfügung – Strategische Gesamtbetrachtung
 
 ## Zweck und Mandatsbezug
 

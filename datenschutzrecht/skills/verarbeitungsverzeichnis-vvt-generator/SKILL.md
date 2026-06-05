@@ -168,11 +168,11 @@ TOMs:
 - **Drittland bezeichnen**
 - **Empfänger nennen**
 - **Garantie nach Art. 46 DSGVO** spezifizieren:
-  - SCC (Standard-Vertrags-Klauseln)
-  - BCR (Binding Corporate Rules)
-  - Verhaltens-Regeln Art. 40
-  - Zertifizierung Art. 42
-  - Internationales Abkommen (z.B. EU-US Data Privacy Framework)
+ - SCC (Standard-Vertrags-Klauseln)
+ - BCR (Binding Corporate Rules)
+ - Verhaltens-Regeln Art. 40
+ - Zertifizierung Art. 42
+ - Internationales Abkommen (z.B. EU-US Data Privacy Framework)
 - Bei Art. 49 Ausnahme bezeichnen (Einwilligung Vertrag Lebenswichtige Interessen etc.)
 
 ### Anhang TIA (Transfer Impact Assessment)
@@ -332,7 +332,7 @@ TIA durchgeführt: ja, Skill drittlandstransfer-pruefung
 Lösch-Frist:
 - Aktive Abonnenten: Bis zum Widerruf
 - Nach Widerruf: 3 Jahre Aufbewahrung der
-  Widerrufs-Information (Beweis-Funktion)
+ Widerrufs-Information (Beweis-Funktion)
 - Click-Verhalten: 13 Monate (Statistik-Auswertung)
 
 TOMs:

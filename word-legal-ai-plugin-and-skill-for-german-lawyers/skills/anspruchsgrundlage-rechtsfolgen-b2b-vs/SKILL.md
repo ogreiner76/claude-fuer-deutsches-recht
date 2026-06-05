@@ -1,13 +1,13 @@
 ---
 name: anspruchsgrundlage-rechtsfolgen-b2b-vs
-description: "Nutze dies, wenn Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie prüfen.; Erstelle eine Arbeitsfassung zu Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2b Vs B2c Klausel Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2B Vs B2C Klausel Strategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -62,10 +62,10 @@ Dieser Skill operationalisiert die Wenn-Dann-Architektur fuer typische Vertragsk
 ### Wenn-Dann-Schema
 
 ```
-WENN  [Tatbestandsvoraussetzung 1]
-UND   [Tatbestandsvoraussetzung 2]
-UND   [Tatbestandsvoraussetzung 3]
-DANN  [Rechtsfolge]
+WENN [Tatbestandsvoraussetzung 1]
+UND [Tatbestandsvoraussetzung 2]
+UND [Tatbestandsvoraussetzung 3]
+DANN [Rechtsfolge]
 INNERHALB [Frist]
 ES SEI DENN [Ausnahme].
 ```
@@ -147,7 +147,7 @@ zu leisten sein, wobei die Hoehe sich nach billigem Ermessen richtet.
 (1) Liefert der Lieferant nicht oder nicht rechtzeitig, gilt § 5 (Verzug).
 (2) Der Besteller setzt dem Lieferanten eine Nachfrist von 14 Tagen.
 (3) Nach erfolglosem Fristablauf kann der Besteller Schadensersatz statt
-    der Leistung verlangen (§ 281 BGB).
+ der Leistung verlangen (§ 281 BGB).
 (4) Die Hoehe des Schadensersatzes richtet sich nach § 7 (Haftung).
 ```
 
@@ -178,11 +178,11 @@ zu leisten sein, wobei die Hoehe sich nach billigem Ermessen richtet.
 (1) Tatbestand
 Eine Partei kann diesen Vertrag aus wichtigem Grund ohne Einhaltung einer
 Kuendigungsfrist kuendigen, wenn:
-   a) die andere Partei eine wesentliche Vertragspflicht trotz Abmahnung
-      mit Fristsetzung von mindestens 14 Tagen wiederholt verletzt; oder
-   b) ueber das Vermoegen der anderen Partei ein Insolvenzverfahren eroeffnet
-      oder mangels Masse abgelehnt wird; oder
-   c) die andere Partei ihre Zahlungen einstellt.
+ a) die andere Partei eine wesentliche Vertragspflicht trotz Abmahnung
+ mit Fristsetzung von mindestens 14 Tagen wiederholt verletzt; oder
+ b) ueber das Vermoegen der anderen Partei ein Insolvenzverfahren eroeffnet
+ oder mangels Masse abgelehnt wird; oder
+ c) die andere Partei ihre Zahlungen einstellt.
 
 (2) Form
 Die Kuendigung bedarf der Schriftform und ist innerhalb von 14 Tagen ab

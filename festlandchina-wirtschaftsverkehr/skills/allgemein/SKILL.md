@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Festlandchina Wirtschaftsverkehr: Kaltstart, Aktenlandkarte, Quellenprüfung, Spezialskill-Routing und erste verwertbare Ausgabe."
+description: "Festlandchina Wirtschaftsverkehr: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe."
 ---
 
 # Festlandchina Wirtschaftsverkehr - Allgemeiner Einstieg
@@ -9,7 +9,7 @@ description: "Festlandchina Wirtschaftsverkehr: Kaltstart, Aktenlandkarte, Quell
 
 China-Geschäft ohne Illusionen und ohne Reflexe: freiheitsbewusst, regelgebunden, de-risked, dokumentiert und wirtschaftlich handlungsfähig.
 
-Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Spezialskills dieses Plugins vor.
+Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Fachmodule dieses Plugins vor.
 
 ## Startfragen
 

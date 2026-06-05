@@ -71,11 +71,11 @@ Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, ents
 ### Phase 3 — Fahrtenbuch-Methode
 
 - Voraussetzungen Fahrtenbuch (BMF-Anforderungen):
-  - Zeitnah gefuehrt (taeglich).
-  - Lueckenlos.
-  - Datum, Zweck, Start- und Ziel-Kilometer, gefahrene Strecke.
-  - Trennung privat/dienstlich.
-  - Unveraenderbar (kein Excel-Sheet, sondern Buch oder zertifizierte Software).
+ - Zeitnah gefuehrt (taeglich).
+ - Lueckenlos.
+ - Datum, Zweck, Start- und Ziel-Kilometer, gefahrene Strecke.
+ - Trennung privat/dienstlich.
+ - Unveraenderbar (kein Excel-Sheet, sondern Buch oder zertifizierte Software).
 - Aufteilung: Privatfahrten anteilig zur Jahres-Kilometer.
 - Anteil x Gesamt-Kfz-Kosten = Sachbezug.
 

@@ -1,13 +1,13 @@
 ---
 name: ins-vorstandswechsel-ins-dividenden
-description: "Nutze dies, wenn Ins 029 Vorstandswechsel, Ins 030 Dividenden Nderung im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 029 Vorstandswechsel, Ins 030 Dividenden Nderung prüfen.; Erstelle eine Arbeitsfassung zu Ins 029 Vorstandswechsel, Ins 030 Dividenden Nderung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 029 Vorstandswechsel, Ins 030 Dividenden Nderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 029 Vorstandswechsel, Ins 030 Dividenden Nderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 029 Vorstandswechsel, Ins 030 Dividenden Nderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -53,9 +53,9 @@ prüft den Ad-hoc-Zeitpunkt und stellt Vertraulichkeit während der Entscheidung
 
 - Geltl/Daimler-Test anwenden: Ab wann ist der Wechsel als hinreichend wahrscheinlich anzusehen?
 - Typische Trigger für frühzeitige Insiderinformation:
-  - AR-Präsidium hat Abberufungsentscheidung in principle getroffen
-  - Einvernehmliche Aufhebungsverhandlungen sind fortgeschritten
-  - Nachfolger ist identifiziert und hat Verhandlungen aufgenommen
+ - AR-Präsidium hat Abberufungsentscheidung in principle getroffen
+ - Einvernehmliche Aufhebungsverhandlungen sind fortgeschritten
+ - Nachfolger ist identifiziert und hat Verhandlungen aufgenommen
 - Dokumentiere frühestmöglichen Zeitpunkt
 
 ### Schritt 2 – AR-Beschluss als definierter Zeitpunkt
@@ -63,16 +63,16 @@ prüft den Ad-hoc-Zeitpunkt und stellt Vertraulichkeit während der Entscheidung
 - Spätester Entstehungszeitpunkt der Insiderinformation: AR-Beschluss
 - Ad-hoc-Pflicht: Unverzüglich nach AR-Beschluss
 - Ausnahme: Wenn Nachfolge noch nicht geklärt und Vollständigkeit für die Ad-hoc fehlt
-  (Zwischenmitteilung möglich, die nur Abgang meldet)
+ (Zwischenmitteilung möglich, die nur Abgang meldet)
 
 ### Schritt 3 – Aufschub-Möglichkeiten
 
 - Legitimes Interesse am Aufschub: In der Praxis selten, da Wechsel selbst
-  keine laufenden Verhandlungen darstellt
+ keine laufenden Verhandlungen darstellt
 - Ausnahme: Wenn Wechsel mit wesentlicher Strategie-Neuausrichtung verknüpft ist,
-  kann Aufschub bis zur Vollständigkeit gerechtfertigt sein (restriktiv)
+ kann Aufschub bis zur Vollständigkeit gerechtfertigt sein (restriktiv)
 - Vertraulichkeit während AR-Beratung: Normal-Standard der AR-Verschwiegenheitspflicht
-  (§ 116 AktG) reicht für die AR-Phase
+ (§ 116 AktG) reicht für die AR-Phase
 
 ### Schritt 4 – Inhalt der Ad-hoc-Mitteilung
 
@@ -84,7 +84,7 @@ prüft den Ad-hoc-Zeitpunkt und stellt Vertraulichkeit während der Entscheidung
 ### Schritt 5 – Eigengeschäfte und Directors' Dealings
 
 - Ausscheidendes Vorstandsmitglied: Hat es Eigengeschäfte zwischen Beginn der
-  Abberufungsverhandlungen und Ad-hoc getätigt? → Art. 14 MAR-Prüfung
+ Abberufungsverhandlungen und Ad-hoc getätigt? → Art. 14 MAR-Prüfung
 - Neuer CEO: Directors'-Dealings-Registrierung ab Dienstantritt
 - Abfindung: Meldepflichtige Transaktion nach Art. 19 MAR?
 
@@ -136,7 +136,7 @@ und stellt die rechtzeitige Ad-hoc-Veröffentlichung sicher.
 - Analyse des Analystenkonsensus: Welche Dividende erwartet der Markt?
 - Abweichung von der eigenen bisherigen Dividendenpolitik
 - Wesentlichkeitsschwelle: Keine feste Prozentregel; BaFin-Emittentenleitfaden nennt
-  erhebliche Unterschreitung als Indikator
+ erhebliche Unterschreitung als Indikator
 - Dividendenausfall: Stets kursrelevant, wenn bisher Dividende gezahlt wurde
 
 ### Schritt 2 – Entstehungszeitpunkt der Insiderinformation
@@ -144,29 +144,29 @@ und stellt die rechtzeitige Ad-hoc-Veröffentlichung sicher.
 - Vorstandsbeschluss zum Dividendenvorschlag: Typischer Zeitpunkt
 - AR-Billigung des Vorschlags: Spätestens ab hier ist die Insiderinformation präzise
 - Früherer Zeitpunkt möglich: Wenn bereits im Vorstand klar entschieden wurde und
-  AR-Zustimmung praktisch sicher
+ AR-Zustimmung praktisch sicher
 
 ### Schritt 3 – Aufschub-Prüfung
 
 - Kein Standard-Aufschub für Dividendenankündigungen
 - Möglicher Aufschub: Wenn Dividendenentscheidung mit wesentlicher Unternehmens-
-  transaktion verknüpft ist (z. B. Sanierung, M&A)
+ transaktion verknüpft ist (z. B. Sanierung, M&A)
 - Praxis: Dividendenänderungen werden i.d.R. als Teil des Jahresabschluss-Termins
-  koordiniert (Jahresabschluss-Saison)
+ koordiniert (Jahresabschluss-Saison)
 
 ### Schritt 4 – Koordination mit Jahresabschluss
 
 - Wird der Jahresabschluss gleichzeitig veröffentlicht?
 - Dann: Dividendeninfo als Teil der Jahresabschluss-Ad-hoc oder separater Announcement?
 - Beachte: Wenn die Dividende erheblich von Konsensus abweicht und Jahresabschluss
-  erst in 2 Wochen kommt: Separate Ad-hoc jetzt erforderlich
+ erst in 2 Wochen kommt: Separate Ad-hoc jetzt erforderlich
 
 ### Schritt 5 – Eigengeschäfte und Directors' Dealings
 
 - PDMRs, die zwischen Vorstandsbeschluss und Ad-hoc Aktien kaufen (antizipierte
-  Dividendenerhöhung) oder verkaufen (antizipierter -ausfall): Art. 14 MAR-Prüfung
+ Dividendenerhöhung) oder verkaufen (antizipierter -ausfall): Art. 14 MAR-Prüfung
 - HV-Beschluss: Offizielle Bestätigung der Dividende, i.d.R. nicht mehr kursrelevant
-  (bereits bekannt durch Ad-hoc)
+ (bereits bekannt durch Ad-hoc)
 
 ## Red-Team-Fragen
 

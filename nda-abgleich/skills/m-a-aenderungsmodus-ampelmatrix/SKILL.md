@@ -1,13 +1,13 @@
 ---
 name: m-a-aenderungsmodus-ampelmatrix
-description: "Nutze dies, wenn Nda Vor M A Data Room, Spezial Aenderungsmodus Compliance Dokumentation Und Akte, Spezial Ampelmatrix Internationaler Bezug Und Schnittstellen im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Bitte Nda Vor M A Data Room, Spezial Aenderungsmodus Compliance Dokumentation Und Akte, Spezial Ampelmatrix Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Nda Vor M A Data Room, Spezial Aenderungsmodus Compliance Dokumentation Und Akte, Spezial Ampelmatrix Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nda Vor M A Data Room, Aenderungsmodus Compliance Dokumentation Und Akte, Ampelmatrix Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Nda Vor M A Data Room, Spezial Aenderungsmodus Compliance Dokumentation Und Akte, Spezial Ampelmatrix Internationaler Bezug Und Schnittstellen
+# Nda Vor M A Data Room, Aenderungsmodus Compliance Dokumentation Und Akte, Ampelmatrix Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nda Vor M A Data Room, Aenderungsmodus Compliance Dokumentation Und Akte, Ampelmatrix Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Nda Vor M A Data Room, Spezial Aenderungsmodus Compliance Dokumentation Und Akte, Spezial Ampelmatrix Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nda Vor M A Data Room, Aenderungsmodus Compliance Dokumentation Und Akte, Ampelmatrix Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -83,7 +83,7 @@ Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills 
 # Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk / spezial aenderungsmodus compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk / aenderungsmodus compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -124,7 +124,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Ampelmatrix: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Ampelmatrix: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Ampelmatrix: Internationaler Bezug und Schnittstellen / spezial ampelmatrix internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ampelmatrix: Internationaler Bezug und Schnittstellen / ampelmatrix internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

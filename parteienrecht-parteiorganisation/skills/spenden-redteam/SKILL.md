@@ -8,7 +8,7 @@ description: "Prüft Zuwendung vor Annahme: Identität, Höhe, Herkunft, Veröff
 ## Aufgabe
 Prüft Zuwendung vor Annahme: Identität, Höhe, Herkunft, Veröffentlichungs-/Meldepflicht, Verbot und Dokumentation.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

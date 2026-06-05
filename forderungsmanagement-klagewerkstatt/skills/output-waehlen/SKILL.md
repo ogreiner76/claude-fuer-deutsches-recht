@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Forderungsmanagement Klagewerkstatt** ein 
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `belegte-faellige-fmkw` — Belegte Faellige Fmkw
 - `bgb-zpo-fmkw-saumselig-fmkw-titulierung` — Bgb Zpo Fmkw Saumselig Fmkw Titulierung
 - `fmkw-mahnverfahren-bauleiter` — Fmkw Mahnverfahren Bauleiter

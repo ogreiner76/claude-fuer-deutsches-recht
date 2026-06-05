@@ -36,7 +36,7 @@ Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Wer
 - **UWG** §§ 3, 3a (Rechtsbruch), § 5 (Irreführung), § 13 (Abmahnung), § 8c (Missbrauch).
 - **ProdSG** § 7 ff. Wirtschaftsakteure.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Anwendbare Rechtsakte** abschließend bestimmen; multiple CE-Bewertungen sind Standard.
 2. **Bewertungsmodul** prüfen: Selbsterklärung, Stichprobenprüfung, Typprüfung, vollständiges QM – pro Rechtsakt.

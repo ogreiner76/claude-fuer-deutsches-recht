@@ -1,21 +1,21 @@
 ---
 name: rechtsabteilung-developer-ip-open-source-us
-description: "Nutze dies, wenn Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung Open Source Copyleft Im Saas Stack, Rechtsabteilung Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung Open Source Copyleft Im Saas Stack, Rechtsabteilung Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung Open Source Copyleft Im Saas Stack, Rechtsabteilung Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung Open Source Copyleft Im Saas Stack, Rechtsabteilung Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung Open Source Copyleft Im Saas Stack, Rechtsabteilung Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung Open Source Copyleft Im Saas Stack, Rechtsabteilung Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-developer-ip-bei-deutschen-angestellten` | Rechtsabteilungs-Spezialskill für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-open-source-copyleft-im-saas-stack` | Rechtsabteilungs-Spezialskill für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt` | Rechtsabteilungs-Spezialskill für US Work Made for Hire im deutschen Projekt: US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-developer-ip-bei-deutschen-angestellten` | Rechtsabteilungs-Fachmodul für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-open-source-copyleft-im-saas-stack` | Rechtsabteilungs-Fachmodul für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt` | Rechtsabteilungs-Fachmodul für US Work Made for Hire im deutschen Projekt: US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `repository-access-offboarding` | Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung. |
 
 ## Arbeitsweg
@@ -27,7 +27,7 @@ Für **Rechtsabteilung Developer Ip Bei Deutschen Angestellten, Rechtsabteilung 
 
 ## 1. `rechtsabteilung-developer-ip-bei-deutschen-angestellten`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Developer-IP bei deutschen Angestellten
 
@@ -74,7 +74,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-open-source-copyleft-im-saas-stack`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack
 
@@ -121,7 +121,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für US Work Made for Hire im deutschen Projekt: US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für US Work Made for Hire im deutschen Projekt: US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: US Work Made for Hire im deutschen Projekt
 

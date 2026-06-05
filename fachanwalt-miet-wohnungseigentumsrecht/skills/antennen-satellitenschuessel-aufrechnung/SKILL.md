@@ -1,34 +1,34 @@
 ---
 name: antennen-satellitenschuessel-aufrechnung
-description: "Nutze dies, wenn Spezial Antennen Satellitenschuessel, Spezial Aufrechnung Zurueckbehaltung, Spezial Aufzugskosten, Spezial Balkon Terrasse Garten, Spezial Barrierefreiheit Mietwohnung im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Antennen Satellitenschuessel, Spezial Aufrechnung Zurueckbehaltung, Spezial Aufzugskosten, Spezial Balkon Terrasse Garten, Spezial Barrierefreiheit Mietwohnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Antennen Satellitenschuessel, Spezial Aufrechnung Zurueckbehaltung, Spezial Aufzugskosten, Spezial Balkon Terrasse Garten, Spezial Barrierefreiheit Mietwohnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Antennen Satellitenschuessel, Aufrechnung Zurueckbehaltung, Aufzugskosten, Balkon Terrasse Garten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Antennen Satellitenschuessel, Spezial Aufrechnung Zurueckbehaltung, Spezial Aufzugskosten, Spezial Balkon Terrasse Garten, Spezial Barrierefreiheit Mietwohnung
+# Antennen Satellitenschuessel, Aufrechnung Zurueckbehaltung, Aufzugskosten, Balkon Terrasse Garten, Barrierefreiheit Mietwohnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Antennen Satellitenschuessel, Aufrechnung Zurueckbehaltung, Aufzugskosten, Balkon Terrasse Garten, Barrierefreiheit Mietwohnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-antennen-satellitenschuessel` | Satellitenschüssel/Antennen: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Informationsfreiheit, Optik, Alternativen, WEG/Miete; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-aufrechnung-zurueckbehaltung` | Aufrechnung/Zurückbehaltung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gegenforderung, Erklärung, Grenzen, Taktik; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-aufzugskosten` | Aufzugskosten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Umlage, Erdgeschoss, Gewerbe, Instandhaltung, Modernisierung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-balkon-terrasse-garten` | Balkon, Terrasse, Garten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gebrauchsrecht, Bepflanzung, Grillen, Markise, bauliche Veränderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-barrierefreiheit-mietwohnung` | Barrierefreiheit Mietwohnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft bauliche Veränderung, Sicherheit, Rückbau, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-antennen-satellitenschuessel` | Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Informationsfreiheit, Optik, Alternativen, WEG/Miete; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-aufrechnung-zurueckbehaltung` | Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gegenforderung, Erklärung, Grenzen, Taktik; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-aufzugskosten` | Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Umlage, Erdgeschoss, Gewerbe, Instandhaltung, Modernisierung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-balkon-terrasse-garten` | Balkon, Terrasse, Garten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gebrauchsrecht, Bepflanzung, Grillen, Markise, bauliche Veränderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-barrierefreiheit-mietwohnung` | Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft bauliche Veränderung, Sicherheit, Rückbau, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Antennen Satellitenschuessel, Spezial Aufrechnung Zurueckbehaltung, Spezial Aufzugskosten, Spezial Balkon Terrasse Garten, Spezial Barrierefreiheit Mietwohnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Antennen Satellitenschuessel, Aufrechnung Zurueckbehaltung, Aufzugskosten, Balkon Terrasse Garten, Barrierefreiheit Mietwohnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-antennen-satellitenschuessel`
 
-**Fokus:** Satellitenschüssel/Antennen: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Informationsfreiheit, Optik, Alternativen, WEG/Miete; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Satellitenschüssel/Antennen: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Informationsfreiheit, Optik, Alternativen, WEG/Miete; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Satellitenschüssel/Antennen
 
@@ -42,9 +42,9 @@ Für **Spezial Antennen Satellitenschuessel, Spezial Aufrechnung Zurueckbehaltun
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Informationsfreiheit, Optik, Alternativen, WEG/Miete.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Informationsfreiheit, Optik, Alternativen, WEG/Miete.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-aufrechnung-zurueckbehaltung`
 
-**Fokus:** Aufrechnung/Zurückbehaltung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gegenforderung, Erklärung, Grenzen, Taktik; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Aufrechnung/Zurückbehaltung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gegenforderung, Erklärung, Grenzen, Taktik; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Aufrechnung/Zurückbehaltung
 
@@ -87,9 +87,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Gegenforderung, Erklärung, Grenzen, Taktik.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Gegenforderung, Erklärung, Grenzen, Taktik.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -118,7 +118,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-aufzugskosten`
 
-**Fokus:** Aufzugskosten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Umlage, Erdgeschoss, Gewerbe, Instandhaltung, Modernisierung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Aufzugskosten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Umlage, Erdgeschoss, Gewerbe, Instandhaltung, Modernisierung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Aufzugskosten
 
@@ -132,9 +132,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Umlage, Erdgeschoss, Gewerbe, Instandhaltung, Modernisierung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Umlage, Erdgeschoss, Gewerbe, Instandhaltung, Modernisierung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -163,7 +163,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-balkon-terrasse-garten`
 
-**Fokus:** Balkon, Terrasse, Garten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gebrauchsrecht, Bepflanzung, Grillen, Markise, bauliche Veränderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Balkon, Terrasse, Garten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gebrauchsrecht, Bepflanzung, Grillen, Markise, bauliche Veränderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Balkon, Terrasse, Garten
 
@@ -177,9 +177,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Gebrauchsrecht, Bepflanzung, Grillen, Markise, bauliche Veränderung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Gebrauchsrecht, Bepflanzung, Grillen, Markise, bauliche Veränderung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -208,7 +208,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-barrierefreiheit-mietwohnung`
 
-**Fokus:** Barrierefreiheit Mietwohnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft bauliche Veränderung, Sicherheit, Rückbau, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft bauliche Veränderung, Sicherheit, Rückbau, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Barrierefreiheit Mietwohnung
 
@@ -222,9 +222,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft bauliche Veränderung, Sicherheit, Rückbau, Kosten.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft bauliche Veränderung, Sicherheit, Rückbau, Kosten.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

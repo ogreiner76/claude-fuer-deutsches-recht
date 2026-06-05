@@ -1,22 +1,22 @@
 ---
 name: klerikerpflichten-disziplin-kommunikation
-description: "Nutze dies, wenn Klerikerpflichten Und Disziplin, Kommunikation Bei Kirchlichem Skandal, Konvalidation Und Sanatio In Radice, Konversion Und Volle Gemeinschaft im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Klerikerpflichten Und Disziplin, Kommunikation Bei Kirchlichem Skandal, Konvalidation Und Sanatio In Radice, Konversion Und Volle Gemeinschaft prüfen.; Erstelle eine Arbeitsfassung zu Klerikerpflichten Und Disziplin, Kommunikation Bei Kirchlichem Skandal, Konvalidation Und Sanatio In Radice, Konversion Und Volle Gemeinschaft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klerikerpflichten Und Disziplin, Kommunikation Bei Kirchlichem Skandal, Konvalidation Und Sanatio In Radice, Konversion Und Volle Gemeinschaft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klerikerpflichten Und Disziplin, Kommunikation Bei Kirchlichem Skandal, Konvalidation Und Sanatio In Radice, Konversion Und Volle Gemeinschaft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klerikerpflichten Und Disziplin, Kommunikation Bei Kirchlichem Skandal, Konvalidation Und Sanatio In Radice, Konversion Und Volle Gemeinschaft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `klerikerpflichten-und-disziplin` | Klerikerpflichten und Disziplin: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kommunikation-bei-kirchlichem-skandal` | Kommunikation bei kirchlichem Skandal: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `konvalidation-und-sanatio-in-radice` | Konvalidation und sanatio in radice: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `konversion-und-volle-gemeinschaft` | Konversion und volle Gemeinschaft: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `klerikerpflichten-und-disziplin` | Klerikerpflichten und Disziplin: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kommunikation-bei-kirchlichem-skandal` | Kommunikation bei kirchlichem Skandal: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `konvalidation-und-sanatio-in-radice` | Konvalidation und sanatio in radice: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `konversion-und-volle-gemeinschaft` | Konversion und volle Gemeinschaft: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Klerikerpflichten Und Disziplin, Kommunikation Bei Kirchlichem Skandal, K
 
 ## 1. `klerikerpflichten-und-disziplin`
 
-**Fokus:** Klerikerpflichten und Disziplin: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Klerikerpflichten und Disziplin: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Klerikerpflichten und Disziplin
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `kommunikation-bei-kirchlichem-skandal`
 
-**Fokus:** Kommunikation bei kirchlichem Skandal: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kommunikation bei kirchlichem Skandal: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kommunikation bei kirchlichem Skandal
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `konvalidation-und-sanatio-in-radice`
 
-**Fokus:** Konvalidation und sanatio in radice: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Konvalidation und sanatio in radice: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Konvalidation und sanatio in radice
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `konversion-und-volle-gemeinschaft`
 
-**Fokus:** Konversion und volle Gemeinschaft: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Konversion und volle Gemeinschaft: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Konversion und volle Gemeinschaft
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Fachanwalt Sportrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Sportrecht** ein Fall noch sort
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `cas-berufung-erstgespraech-mandatsannahme-doping-cas` — Cas Berufung Erstgespraech Mandatsannahme Doping Cas
 - `dosb-fachanwalt-fifa` — Dosb Fachanwalt Fifa
 - `fachanwalt-sportrecht-athletenvertrag-fristennotiz` — Fachanwalt Sportrecht Athletenvertrag Fristennotiz

@@ -1,13 +1,13 @@
 ---
 name: transaktionsstruktur-translations
-description: "Nutze dies, wenn Corporate Kanzlei Transaktionsstruktur, Corporate Kanzlei Translations Multijurisdictional im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Transaktionsstruktur, Corporate Kanzlei Translations Multijurisdictional prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Transaktionsstruktur, Corporate Kanzlei Translations Multijurisdictional.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Transaktionsstruktur, Corporate Kanzlei Translations Multijurisdictional: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Transaktionsstruktur, Corporate Kanzlei Translations Multijurisdictional
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Transaktionsstruktur, Corporate Kanzlei Translations Multijurisdictional** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

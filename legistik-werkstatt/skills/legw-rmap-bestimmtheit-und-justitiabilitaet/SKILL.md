@@ -31,10 +31,10 @@ Pruefen: bleibt der Beurteilungs- oder Ermessensspielraum der Verwaltung erhalte
 ## Output
 
 ```
-Skill:              legw-rmap-bestimmtheit-und-justitiabilitaet
-Thema:              Bestimmtheit und Justitiabilitaet bei Rulemap-Normen
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-bestimmtheit-und-justitiabilitaet
+Thema: Bestimmtheit und Justitiabilitaet bei Rulemap-Normen
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

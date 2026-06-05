@@ -1,13 +1,13 @@
 ---
 name: hybrid-drg-insolvenz-intensivmedizin-beatmung
-description: "Nutze dies, wenn Hybrid Drg 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Hybrid Drg 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung prüfen.; Erstelle eine Arbeitsfassung zu Hybrid Drg 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hybrid Deutsche Rechtsgeschichte 115f Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Hybrid Drg 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung
+# Hybrid Deutsche Rechtsgeschichte 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hybrid Deutsche Rechtsgeschichte 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Hybrid Drg 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hybrid Deutsche Rechtsgeschichte 115F Sgb V, Insolvenz Eines Krankenhauses Versorgungssicherung, Intensivmedizin Beatmung Verlegung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -55,7 +55,7 @@ Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung fuer einen ab
 - **KHEntgG/DRG-Katalog** fuer stationaere Restmengen.
 - **DKR** fuer Kodierung.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Katalog-Treffer pruefen:** OPS und ICD im Hybrid-DRG-Katalog?
 2. **Behandlungsweg dokumentieren:** Ambulant, stationaer Kurzlieger (< 1 Tag), stationaer mit Indikation.
 3. **Abrechnungsweg waehlen:** Hybrid-DRG (Kasse direkt) bei Katalogfall, sonst AOP (KV) oder DRG (Kasse).
@@ -182,7 +182,7 @@ Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), St
 - **SGB V § 37c** Spezialisierte Ambulante Palliativversorgung (SAPV) als angrenzendes Feld.
 - **G-DRG-Katalog** Beatmungs- und Sepsis-DRGs mit Strukturmerkmal.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Stationskategorisierung pruefen:** Erwachsenen-, Kinder-, Neonatologie-Intensiv; Bettenzahl, Beatmungsplaetze.
 2. **PpUGV-Quote rechnen:** Pflege je Schicht, examinierte Quote, Helferanrechnung.
 3. **Beatmungsstunden korrekt erfassen:** Beginn (Intubation/Tracheostoma) bis Ende (Extubation), MD-konforme Doku.

@@ -32,25 +32,25 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 ## Pruefraster / Schritt fuer Schritt
 
 1. **Rechtsaktstyp identifizieren**:
-   - Richtlinie (Umsetzung) -> nationaler Gestaltungsspielraum, Goldplating-Gefahr
-   - Verordnung (Durchfuehrung) -> nur Begleitvorschriften
-   - Beschluss / Empfehlung -> wenig nationale Rechtssetzung
+ - Richtlinie (Umsetzung) -> nationaler Gestaltungsspielraum, Goldplating-Gefahr
+ - Verordnung (Durchfuehrung) -> nur Begleitvorschriften
+ - Beschluss / Empfehlung -> wenig nationale Rechtssetzung
 2. **EU-Vorgaben kartieren**:
-   - Welche Pflichten sind zwingend?
-   - Welche Optionen / Mindestharmonisierung?
-   - Welche Aufnahme von "national gestaltbaren Spielraeumen"?
+ - Welche Pflichten sind zwingend?
+ - Welche Optionen / Mindestharmonisierung?
+ - Welche Aufnahme von "national gestaltbaren Spielraeumen"?
 3. **Umsetzungsspielraum nutzen**:
-   - 1:1-Umsetzung bevorzugt
-   - Goldplating nur mit Begruendung
+ - 1:1-Umsetzung bevorzugt
+ - Goldplating nur mit Begruendung
 4. **Erfuellungsaufwand der Umsetzung**:
-   - Erfuellungsaufwand aus der EU-Vorgabe (Mindestaufwand)
-   - **Zusatzaufwand** aus deutscher Ueberregulierung (Delta-Berechnung)
+ - Erfuellungsaufwand aus der EU-Vorgabe (Mindestaufwand)
+ - **Zusatzaufwand** aus deutscher Ueberregulierung (Delta-Berechnung)
 5. **EU-Folgenabschaetzung einbeziehen**:
-   - Impact Assessment der EU-Kommission lesen
-   - RSB-Opinion lesen
-   - Daten als Ausgangspunkt verwenden, dann auf deutsche Verhaeltnisse adaptieren
+ - Impact Assessment der EU-Kommission lesen
+ - RSB-Opinion lesen
+ - Daten als Ausgangspunkt verwenden, dann auf deutsche Verhaeltnisse adaptieren
 6. **REFIT-Programme nutzen**:
-   - Wenn EU bereits Vereinfachung andenkt, nicht national verschaerfen
+ - Wenn EU bereits Vereinfachung andenkt, nicht national verschaerfen
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 

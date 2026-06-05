@@ -1,13 +1,13 @@
 ---
 name: ins-ki-ins-archivierung
-description: "Nutze dies, wenn Ins 053 Ki Prognosemodell, Ins 054 Archivierung im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 053 Ki Prognosemodell, Ins 054 Archivierung prüfen.; Erstelle eine Arbeitsfassung zu Ins 053 Ki Prognosemodell, Ins 054 Archivierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 053 Ki Prognosemodell, Ins 054 Archivierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 053 Ki Prognosemodell, Ins 054 Archivierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 053 Ki Prognosemodell, Ins 054 Archivierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -53,18 +53,18 @@ Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolli
 ### Schritt 1 – KI-Modell-Input-Analyse
 
 - Welche Daten werden in das Modell eingespeist?
-  - Ausschließlich öffentliche Daten: Kein Insiderrecht-Problem beim Output
-  - Nicht-öffentliche Unternehmensdaten (interne Finanzdaten, Vertriebsdaten, Produktionsdaten):
-    Modell-Output kann Insiderinformation sein
+ - Ausschließlich öffentliche Daten: Kein Insiderrecht-Problem beim Output
+ - Nicht-öffentliche Unternehmensdaten (interne Finanzdaten, Vertriebsdaten, Produktionsdaten):
+ Modell-Output kann Insiderinformation sein
 
 ### Schritt 2 – Modell-Output als Insiderinformation
 
 - Generiert das Modell eine Prognose, die erheblich von der veröffentlichten Guidance oder
-  dem Analystenkonsensus abweicht?
+ dem Analystenkonsensus abweicht?
 - Ist der Modell-Output hinreichend präzise? (nicht nur Wahrscheinlichkeiten, sondern
-  konkrete Zahlenwerte)
+ konkrete Zahlenwerte)
 - Würde ein verständiger Anleger diesen Output bei seiner Investitionsentscheidung nutzen?
-  Wenn ja → Modell-Output ist Insiderinformation
+ Wenn ja → Modell-Output ist Insiderinformation
 
 ### Schritt 3 – Zugangskontrollen
 
@@ -75,7 +75,7 @@ Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolli
 ### Schritt 4 – Modell-Governance und Dokumentation
 
 - AI-Act-Anforderungen für Hochrisiko-KI: Falls das Modell für Investitions- oder
-  Finanzentscheidungen eingesetzt wird, können AI Act Art. 9 ff. gelten
+ Finanzentscheidungen eingesetzt wird, können AI Act Art. 9 ff. gelten
 - Modell-Dokumentation: Input-Daten, Algorithmus-Beschreibung, Output-Interpretation
 - Audit-Trail: Wer hat wann welche Prognosen aus dem Modell abgerufen?
 
@@ -83,7 +83,7 @@ Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolli
 
 - Trennung: Internes Forecasting-System (Insiderinformation) vs. extern veröffentlichte Prognose
 - Ad-hoc-Pflicht: Wenn Modell-Output wesentliche Abweichung von Guidance signalisiert →
-  Prüfung ob Profit-Warning-Ad-hoc erforderlich
+ Prüfung ob Profit-Warning-Ad-hoc erforderlich
 - Schulung der Modell-Nutzer auf Insiderrecht
 
 ## Red-Team-Fragen

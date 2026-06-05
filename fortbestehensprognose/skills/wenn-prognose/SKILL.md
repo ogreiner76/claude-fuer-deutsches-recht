@@ -1,13 +1,13 @@
 ---
 name: wenn-prognose
-description: "Nutze dies, wenn Wenn Prognose Negativ Naechste Schritte im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Bitte Wenn Prognose Negativ Naechste Schritte prüfen.; Erstelle eine Arbeitsfassung zu Wenn Prognose Negativ Naechste Schritte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wenn Prognose Negativ Naechste Schritte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wenn Prognose Negativ Naechste Schritte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wenn Prognose Negativ Naechste Schritte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -98,30 +98,30 @@ Ausnahmen (§ 15b Abs. 1 InsO):
 
 ```yaml
 verfahren-pruefraster:
-  zahlungsunfaehigkeit-eingetreten:
-    frist: drei-Wochen
-    optionen:
-      - Regelinsolvenzantrag (Selbstantrag)
-      - Eigenverwaltung (wenn Voraussetzungen erfüllt)
-      - Schutzschirmverfahren nur bei drohender Zahlungsunfähigkeit
-        BEVOR Zahlungsunfähigkeit eintrat
-    ausgeschlossen: StaRUG (zu spaet)
+ zahlungsunfaehigkeit-eingetreten:
+ frist: drei-Wochen
+ optionen:
+ - Regelinsolvenzantrag (Selbstantrag)
+ - Eigenverwaltung (wenn Voraussetzungen erfüllt)
+ - Schutzschirmverfahren nur bei drohender Zahlungsunfähigkeit
+ BEVOR Zahlungsunfähigkeit eintrat
+ ausgeschlossen: StaRUG (zu spaet)
 
-  überschuldung-eingetreten-aber-zahlungsfähig:
-    frist: sechs-Wochen
-    optionen:
-      - Regelinsolvenzantrag
-      - Eigenverwaltung
-      - Schutzschirmverfahren
-    pruefung-staerug: nur wenn drohende Zahlungsunfähigkeit
-      separat festgestellt werden kann (Prognose 24 Monate negativ)
+ überschuldung-eingetreten-aber-zahlungsfähig:
+ frist: sechs-Wochen
+ optionen:
+ - Regelinsolvenzantrag
+ - Eigenverwaltung
+ - Schutzschirmverfahren
+ pruefung-staerug: nur wenn drohende Zahlungsunfähigkeit
+ separat festgestellt werden kann (Prognose 24 Monate negativ)
 
-  drohende-zahlungsunfaehigkeit:
-    frist: keine
-    optionen:
-      - StaRUG-Restrukturierungsrahmen (bevorzugt)
-      - Eigenantrag § 18 InsO mit Eigenverwaltung
-      - Schutzschirmverfahren
+ drohende-zahlungsunfaehigkeit:
+ frist: keine
+ optionen:
+ - StaRUG-Restrukturierungsrahmen (bevorzugt)
+ - Eigenantrag § 18 InsO mit Eigenverwaltung
+ - Schutzschirmverfahren
 ```
 
 ## Beratungsbedarf
@@ -153,11 +153,11 @@ Ich bitte um umgehende Terminvereinbarung zur Prüfung des weiteren Vorgehens
 (Regelinsolvenz / Eigenverwaltung / Schutzschirmverfahren / ggf. StaRUG).
 
 Anlagen:
-  - Fortbestehensprognose mit allen Anlagen (Datum [...])
-  - Bilanz [Jahr]
-  - Aktuelle BWA SuSa
-  - 12-Monats-Liquiditätsplan
-  - Sanierungsbausteine-Empfehlung
+ - Fortbestehensprognose mit allen Anlagen (Datum [...])
+ - Bilanz [Jahr]
+ - Aktuelle BWA SuSa
+ - 12-Monats-Liquiditätsplan
+ - Sanierungsbausteine-Empfehlung
 
 Mit freundlichen Grüßen
 [Geschäftsführer]

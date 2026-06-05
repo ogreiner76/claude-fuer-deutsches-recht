@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-bau-architektenrecht-bauablauf-vbg
-description: "Nutze dies, wenn Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Bau Architektenrecht Abnahme Verweigerung, Fachanwalt Bau Architektenrecht Bauablauf Vbg, Fachanwalt Bau Architektenrecht Bautraeger Insolvenz, Fachanwalt Bau Architektenrecht Hoai Honorar Mindestsaetze** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -64,10 +64,10 @@ Mandate zur Abnahme: Auftraggeber will Abnahme verweigern wegen Mängeln; Auftra
 ### Unwesentlicher Mangel
 
 - **Verweigerung unzulaessig**, aber Mängelrechte:
-  - Nacherfüllung § 635 BGB
-  - Selbstvornahme § 637 BGB
-  - Minderung § 638 BGB
-  - Schadensersatz § 280 BGB
+ - Nacherfüllung § 635 BGB
+ - Selbstvornahme § 637 BGB
+ - Minderung § 638 BGB
+ - Schadensersatz § 280 BGB
 
 ### Verweigerung-Grenzwert
 
@@ -94,7 +94,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - § 12 VOB/B: förmliche Abnahme, konkludente nach 12 Werktagen Nutzung
 
-## 5) Workflow AG-Strategie (Verweigerung)
+## 5) AG-Strategie (Verweigerung)
 
 ### Schritt 1 — Mängel-Liste
 
@@ -118,7 +118,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Kostenvorschuss verlangbar
 - Folgeklage gegen AN auf Kosten
 
-## 6) Workflow AN-Strategie (Abnahme erreichen)
+## 6) AN-Strategie (Abnahme erreichen)
 
 ### Schritt 1 — Mängel-Behebung
 
@@ -222,7 +222,7 @@ Stehende BGH-Linien zur Bauablaufstoerung (Aktenzeichen vor Ausgabe ueber dejure
 
 ## Prüfschema — Mehrkostenanspruch bei Bauablaufstörung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
@@ -296,38 +296,38 @@ Behinderungsursache: [Beschreibung]
 Betroffenes Gewerk: [Bezeichnung]
 
 A. STILLSTANDSKOSTEN PERSONAL
-   [X] Facharbeiter × [Y] Tage × EUR [Z] Tagessatz = EUR [Summe]
-   [X] Geräteführer × [Y] Tage × EUR [Z] Tagessatz = EUR [Summe]
-   Vorarbeiter [X] × [Y] × EUR [Z]                 = EUR [Summe]
-   GESAMT PERSONAL:                                   EUR [A]
+ [X] Facharbeiter × [Y] Tage × EUR [Z] Tagessatz = EUR [Summe]
+ [X] Geräteführer × [Y] Tage × EUR [Z] Tagessatz = EUR [Summe]
+ Vorarbeiter [X] × [Y] × EUR [Z] = EUR [Summe]
+ GESAMT PERSONAL: EUR [A]
 
 B. VORHALTEKOSTEN GERÄTE
-   Gerät 1 [Beschreibung]: [X] Tage × EUR [Tagesmiete/AfA] = EUR [Summe]
-   Gerät 2 [Beschreibung]: [X] Tage × EUR [Tagesmiete/AfA] = EUR [Summe]
-   GESAMT GERÄTE:                                           EUR [B]
+ Gerät 1 [Beschreibung]: [X] Tage × EUR [Tagesmiete/AfA] = EUR [Summe]
+ Gerät 2 [Beschreibung]: [X] Tage × EUR [Tagesmiete/AfA] = EUR [Summe]
+ GESAMT GERÄTE: EUR [B]
 
 C. BAUSTELLENEINRICHTUNG-MEHRVORHALTUNG
-   [Kran/Containeranlage/Zäune]: [X] Tage × EUR [Y] = EUR [Summe]
-   GESAMT BE:                                          EUR [C]
+ [Kran/Containeranlage/Zäune]: [X] Tage × EUR [Y] = EUR [Summe]
+ GESAMT BE: EUR [C]
 
 D. MATERIALPREISINDEXIERUNG
-   Anwendbar wenn Verzögerung > 6 Monate
-   Preisindex [Quelle: Statistisches Bundesamt/Baupreisindex]
-   Delta: [X] % × Materialkostenbasis EUR [Y] = EUR [Summe]
-   GESAMT MATERIAL:                             EUR [D]
+ Anwendbar wenn Verzögerung > 6 Monate
+ Preisindex [Quelle: Statistisches Bundesamt/Baupreisindex]
+ Delta: [X] % × Materialkostenbasis EUR [Y] = EUR [Summe]
+ GESAMT MATERIAL: EUR [D]
 
 E. ALLGEMEINE GESCHÄFTSKOSTEN (AGK)
-   Prozentsatz aus Ursprungsangebot: [X] %
-   Basis A+B+C+D: EUR [Y] × [X]% = EUR [Summe]
+ Prozentsatz aus Ursprungsangebot: [X] %
+ Basis A+B+C+D: EUR [Y] × [X]% = EUR [Summe]
 
 F. WAGNIS UND GEWINN (nur bei § 6 Abs. 6 VOB/B-Verschulden)
-   [X]% aus Ursprungsangebot × Basis EUR [Y] = EUR [Summe]
+ [X]% aus Ursprungsangebot × Basis EUR [Y] = EUR [Summe]
 
 G. BAULEITUNGS-MEHRKOSTEN
-   Polier/Bauleiter: [X] Tage × EUR [Tagessatz] = EUR [Summe]
+ Polier/Bauleiter: [X] Tage × EUR [Tagessatz] = EUR [Summe]
 
 GESAMTMEHRKOSTEN NETTO: EUR [Summe A+B+C+D+E+F+G]
-USt 19%:                EUR [Summe]
+USt 19%: EUR [Summe]
 GESAMTMEHRKOSTEN BRUTTO: EUR [Summe]
 
 Bauzeitverlängerung: [Anzahl] Werktage
@@ -364,15 +364,15 @@ namens und in Vollmacht der Firma [Auftragnehmer] zeigen wir
 hiermit folgende Behinderung der Bauausführung an:
 
 I. Sachverhalt der Behinderung
-Beginn der Behinderung:  [Datum, Uhrzeit]
-Ursache:                 [konkrete Beschreibung —
-                          z.B.: Ausführungsplan Pos. [Nr.]
-                          wurde trotz Anforderung vom [Datum]
-                          nicht geliefert / Vorgewerk [Gewerk]
-                          ist am [Datum] nicht abgeschlossen /
-                          Anordnung des AG vom [Datum]]
-Verantwortlicher:        [Auftraggeber / Architekt / Vorgewerk]
-Auswirkung:              [Gewerk] kann nicht ausgeführt werden.
+Beginn der Behinderung: [Datum, Uhrzeit]
+Ursache: [konkrete Beschreibung —
+ z.B.: Ausführungsplan Pos. [Nr.]
+ wurde trotz Anforderung vom [Datum]
+ nicht geliefert / Vorgewerk [Gewerk]
+ ist am [Datum] nicht abgeschlossen /
+ Anordnung des AG vom [Datum]]
+Verantwortlicher: [Auftraggeber / Architekt / Vorgewerk]
+Auswirkung: [Gewerk] kann nicht ausgeführt werden.
 
 II. Folgen der Behinderung
 1. Bauzeitverlängerung voraussichtlich [Anzahl] Werktage (§ 6 Abs. 2 VOB/B)
@@ -413,12 +413,12 @@ der Bauausführung durch [Ursache] angezeigt.
 Die Behinderung bestand vom [Datum von] bis [Datum bis]
 ([Anzahl] Werktage). Wir machen folgende Mehrkosten geltend:
 
-Mehrkosten gemäß anliegender Kalkulation:   EUR [Summe] netto
-Umsatzsteuer 19 %:                          EUR [Summe]
-Mehrkosten gesamt brutto:                   EUR [Summe]
+Mehrkosten gemäß anliegender Kalkulation: EUR [Summe] netto
+Umsatzsteuer 19 %: EUR [Summe]
+Mehrkosten gesamt brutto: EUR [Summe]
 
-Bauzeitverlängerung:                        [Anzahl] Werktage
-Neuer Fertigstellungstermin:                [Datum]
+Bauzeitverlängerung: [Anzahl] Werktage
+Neuer Fertigstellungstermin: [Datum]
 
 Wir fordern Sie auf, den Nettobetrag von EUR [Summe] bis
 [Zahlungsziel, 21 Tage] auf unser Konto zu überweisen.
@@ -536,8 +536,8 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 
 - Bauträger muss Bürgschaft auf erstes Anfordern über 5 % der Bausumme zugunsten Erwerber stellen
 - Bürgschaft umfasst:
-  - Fertigstellungs-Risiko
-  - Mangelbeseitigung (5 Jahre)
+ - Fertigstellungs-Risiko
+ - Mangelbeseitigung (5 Jahre)
 
 ### Bei Insolvenz
 
@@ -598,9 +598,9 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 
 - Vertrag wird beendet
 - Erwerber erhaelt:
-  - **Bürgschaft** für Fertigstellung
-  - **Schadensersatz** zur Insolvenztabelle
-  - Vormerkung bleibt (Eigentums-Anspruch)
+ - **Bürgschaft** für Fertigstellung
+ - **Schadensersatz** zur Insolvenztabelle
+ - Vormerkung bleibt (Eigentums-Anspruch)
 
 ### Verwalter-Frist
 

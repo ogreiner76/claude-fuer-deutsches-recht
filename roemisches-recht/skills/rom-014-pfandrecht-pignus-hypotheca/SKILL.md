@@ -1,6 +1,6 @@
 ---
 name: rom-014-pfandrecht-pignus-hypotheca
-description: "Römisches Recht: Pfandrecht Pignus Hypotheca. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Pfandrecht Pignus Hypotheca. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Pfandrecht Pignus Hypotheca

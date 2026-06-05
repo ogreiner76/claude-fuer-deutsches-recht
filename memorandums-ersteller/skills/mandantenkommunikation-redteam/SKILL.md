@@ -1,13 +1,13 @@
 ---
 name: mandantenkommunikation-redteam
-description: "Nutze dies, wenn Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Memo Fristen Sofortmassnahmen im Plugin Memorandums Ersteller konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Memo Fristen Sofortmassnahmen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Memo Fristen Sofortmassnahmen
+# Mandantenkommunikation, Redteam Qualitygate, Memo Fristen Sofortmassnahmen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenkommunikation, Redteam Qualitygate, Memo Fristen Sofortmassnahmen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Memo Fristen Sofortmassnahmen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `memorandums-ersteller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenkommunikation, Redteam Qualitygate, Memo Fristen Sofortmassnahmen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `memorandums-ersteller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,17 +31,17 @@ Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Memo Frist
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill übersetzt die rechtliche Bewertung des Memos in eine knappe, entscheidungsorientierte Nachricht an den Mandanten (Geschäftsführung, Vorstand, Inhouse-Counsel oder externe Stakeholder).
+Dieser Arbeitsmodul übersetzt die rechtliche Bewertung des Memos in eine knappe, entscheidungsorientierte Nachricht an den Mandanten (Geschäftsführung, Vorstand, Inhouse-Counsel oder externe Stakeholder).
 
 ## Memo-Cover für Mandant
 - **Adressat-spezifisch:** Geschäftsführung -- knapp, Risiko/Empfehlung; Vorstand/Aufsichtsrat -- mit Governance-Bezug; Investor -- mit Auswirkung auf Deal; Behörde -- ohne werbendes Element.
 - **Standard-Aufbau:**
-  1. Anliegen in einem Satz.
-  2. Kurzantwort (Ja/Nein/Bedingt) -- nicht mehr als zwei Sätze.
-  3. Empfehlung mit Begründung in 3-5 Sätzen.
-  4. Risiken / Restunsicherheiten ausdrücklich (rechtlich, faktisch, prozessual, reputativ).
-  5. Nächste Schritte mit Verantwortlichkeit und Frist.
-  6. Hinweis auf vollständiges Memo (Anlage).
+ 1. Anliegen in einem Satz.
+ 2. Kurzantwort (Ja/Nein/Bedingt) -- nicht mehr als zwei Sätze.
+ 3. Empfehlung mit Begründung in 3-5 Sätzen.
+ 4. Risiken / Restunsicherheiten ausdrücklich (rechtlich, faktisch, prozessual, reputativ).
+ 5. Nächste Schritte mit Verantwortlichkeit und Frist.
+ 6. Hinweis auf vollständiges Memo (Anlage).
 
 ## Sprachregeln
 - Aktive Verben statt Nominalstil ("Sie sollten X tun" statt "Eine Tätigung von X wäre angezeigt").
@@ -53,8 +53,8 @@ Dieser Workflow-Skill übersetzt die rechtliche Bewertung des Memos in eine knap
 - "Im Ergebnis lässt sich festhalten, dass die Rechtslage zumindest nicht eindeutig in eine bestimmte Richtung tendiert." -- Mandant lernt nichts.
 - Risiken am Ende verstecken statt prominent benennen.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -64,7 +64,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -86,7 +86,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill prüft das fertige Memo vor Versand auf typische Schwächen: Halluzinationen, fehlende Gegenargumente, übersehene Sondernormen, schwache Subsumtion, unklare Empfehlung, fehlender Vertraulichkeitsvermerk.
+Dieser Arbeitsmodul prüft das fertige Memo vor Versand auf typische Schwächen: Halluzinationen, fehlende Gegenargumente, übersehene Sondernormen, schwache Subsumtion, unklare Empfehlung, fehlender Vertraulichkeitsvermerk.
 
 ## Red-Team-Punkte Memo
 - **Halluzinations-Scan:** Jede zitierte Entscheidung mit echtem Az.? "Ständige Rspr." mit konkretem Az. belegt? Kommentar-/Aufsatzfundstellen mit Quelle?
@@ -101,8 +101,8 @@ Dieser Workflow-Skill prüft das fertige Memo vor Versand auf typische Schwäche
 - **Sprache:** Gutachtenstil bei Memo-Hauptteil; Cover-Letter mandantengerecht.
 - Falle: Memo nur aus Mandantenperspektive -- bedenke immer auch die Sicht der Gegenseite / der Behörde / des Gerichts.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -112,7 +112,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard

@@ -1,13 +1,13 @@
 ---
 name: vc-runway-vc-follow-vc-co-vc-troubled
-description: "Nutze dies, wenn Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue prüfen.; Erstelle eine Arbeitsfassung zu Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

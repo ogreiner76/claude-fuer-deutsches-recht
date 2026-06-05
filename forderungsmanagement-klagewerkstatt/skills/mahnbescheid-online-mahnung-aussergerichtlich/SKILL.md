@@ -1,13 +1,13 @@
 ---
 name: mahnbescheid-online-mahnung-aussergerichtlich
-description: "Nutze dies, wenn Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Spezial Anspruchs Schriftsatz Brief Und Memo Bausteine im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Spezial Anspruchs Schriftsatz Brief Und Memo Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Spezial Anspruchs Schriftsatz Brief Und Memo Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Anspruchs Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Spezial Anspruchs Schriftsatz Brief Und Memo Bausteine
+# Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Anspruchs Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Anspruchs Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Spezial Anspruchs Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Anspruchs Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

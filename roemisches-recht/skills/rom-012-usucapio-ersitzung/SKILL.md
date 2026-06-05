@@ -1,6 +1,6 @@
 ---
 name: rom-012-usucapio-ersitzung
-description: "Römisches Recht: Usucapio Ersitzung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Usucapio Ersitzung. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Usucapio Ersitzung

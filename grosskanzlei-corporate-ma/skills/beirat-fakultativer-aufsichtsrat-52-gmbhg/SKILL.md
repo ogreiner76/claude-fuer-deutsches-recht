@@ -1,6 +1,6 @@
 ---
 name: beirat-fakultativer-aufsichtsrat-52-gmbhg
-description: "Nutze dies, wenn Beirat Fakultativer Aufsichtsrat 52 Gmbhg im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Fakultativer Aufsichtsrat 52 Gmbhg prüfen.; Erstelle eine Arbeitsfassung zu Beirat Fakultativer Aufsichtsrat 52 Gmbhg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Fakultativer Aufsichtsrat 52 Gmbhg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Fakultativer Aufsichtsrat 52 Gmbhg

@@ -1,13 +1,13 @@
 ---
 name: testlauf-beweislast-transaktionsmonitoring
-description: "Nutze dies, wenn Spezial Testlauf Beweislast Und Darlegungslast, Spezial Transaktionsmonitoring International Schnittstellen, Spezial Transparenzregister Behörden Gericht Und Registerweg im Plugin Geldwaeschepraevention Aml Kyc konkret bearbeitet werden soll. Auslöser: Bitte Spezial Testlauf Beweislast Und Darlegungslast, Spezial Transaktionsmonitoring International Schnittstellen, Spezial Transparenzregister Behörden Gericht Und Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Spezial Testlauf Beweislast Und Darlegungslast, Spezial Transaktionsmonitoring International Schnittstellen, Spezial Transparenzregister Behörden Gericht Und Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Testlauf Beweislast Und Darlegungslast, Transaktionsmonitoring International Schnittstellen, Transparenzregister Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Testlauf Beweislast Und Darlegungslast, Spezial Transaktionsmonitoring International Schnittstellen, Spezial Transparenzregister Behörden Gericht Und Registerweg
+# Testlauf Beweislast Und Darlegungslast, Transaktionsmonitoring International Schnittstellen, Transparenzregister Behörden Gericht Und Registerweg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Testlauf Beweislast Und Darlegungslast, Transaktionsmonitoring International Schnittstellen, Transparenzregister Behörden Gericht Und Registerweg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Testlauf Beweislast Und Darlegungslast, Spezial Transaktionsmonitoring International Schnittstellen, Spezial Transparenzregister Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `geldwaeschepraevention-aml-kyc` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Testlauf Beweislast Und Darlegungslast, Transaktionsmonitoring International Schnittstellen, Transparenzregister Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `geldwaeschepraevention-aml-kyc` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Testlauf Beweislast Und Darlegungslast, Spezial Transaktionsmonit
 # Testlauf: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Testlauf: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Testlauf: Beweislast, Darlegungslast und Substantiierung / spezial testlauf beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Testlauf: Beweislast, Darlegungslast und Substantiierung / testlauf beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AML, KYC, GwG, UBO, PEP, FIU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Transaktionsmonitoring: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Transaktionsmonitoring: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Transaktionsmonitoring: Internationaler Bezug und Schnittstellen / spezial transaktionsmonitoring international schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Transaktionsmonitoring: Internationaler Bezug und Schnittstellen / transaktionsmonitoring international schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AML, KYC, GwG, UBO, PEP, FIU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Transparenzregister: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Transparenzregister: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Transparenzregister: Behörden-, Gerichts- oder Registerweg / spezial transparenzregister behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Transparenzregister: Behörden-, Gerichts- oder Registerweg / transparenzregister behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AML, KYC, GwG, UBO, PEP, FIU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

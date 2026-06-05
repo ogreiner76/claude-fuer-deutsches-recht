@@ -1,13 +1,13 @@
 ---
 name: typische-laien-urkundenbeweis-ff-urteil-zpo
-description: "Nutze dies, wenn Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo prüfen.; Erstelle eine Arbeitsfassung zu Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Prüfen 313 Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

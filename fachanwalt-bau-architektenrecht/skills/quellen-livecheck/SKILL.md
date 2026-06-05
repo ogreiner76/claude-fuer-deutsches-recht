@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Bau Architektenrecht** ein Fall
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-bau-abnahme-nachtrag-workflow-chronologie` — Allgemein Bau Abnahme Nachtrag Workflow Chronologie
+- `allgemein-bau-abnahme-nachtrag-workflow-chronologie` — Allgemein Bau Abnahme Nachtrag Chronologie
 - `bauordnungsrecht-einfuehrung-fachanwalt-hoai` — Bauordnungsrecht Einfuehrung Fachanwalt Hoai
 - `bautraeger-abnahme-formgerecht-abnahmefiktion-clause-anlagen` — Bautraeger Abnahme Formgerecht Abnahmefiktion Clause Anlagen
 - `bautraeger-belehrungspflicht-bautraeger-bonitaetspruefung` — Bautraeger Belehrungspflicht Bautraeger Bonitaetspruefung

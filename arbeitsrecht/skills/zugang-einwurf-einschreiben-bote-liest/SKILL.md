@@ -1,13 +1,13 @@
 ---
 name: zugang-einwurf-einschreiben-bote-liest
-description: "Nutze dies, wenn Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang Neu 003 Bote Liest Kündigung Inhalt Umschlag Und Zeugenb, Zugang Neu 004 Persoenliche Übergabe Empfangsverweigerung Und Z, Zugang Neu 005 Hausbriefkasten Leerungszeiten Und Zugang im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang Neu 003 Bote Liest Kündigung Inhalt Umschlag Und Zeugenb, Zugang Neu 004 Persoenliche Übergabe Empfangsverweigerung Und Z, Zugang Neu 005 Hausbriefkasten Leerungszeiten Und Zugang prüfen.; Erstelle eine Arbeitsfassung zu Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang Neu 003 Bote Liest Kündigung Inhalt Umschlag Und Zeugenb, Zugang Neu 004 Persoenliche Übergabe Empfangsverweigerung Und Z, Zugang Neu 005 Hausbriefkasten Leerungszeiten Und Zugang.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zugang Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang Bote Liest Kündigung Inhalt Umschlag Und Zeugenb, Zugang Persoenliche Uebergabe Empfangsverweigerung Und Z, Zugang Hausbriefkasten Leerungszeiten Und Zugang: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang Neu 003 Bote Liest Kündigung Inhalt Umschlag Und Zeugenb, Zugang Neu 004 Persoenliche Übergabe Empfangsverweigerung Und Z, Zugang Neu 005 Hausbriefkasten Leerungszeiten Und Zugang
+# Zugang Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang Bote Liest Kündigung Inhalt Umschlag Und Zeugenb, Zugang Persoenliche Übergabe Empfangsverweigerung Und Z, Zugang Hausbriefkasten Leerungszeiten Und Zugang
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zugang Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang Bote Liest Kündigung Inhalt Umschlag Und Zeugenb, Zugang Persoenliche Übergabe Empfangsverweigerung Und Z, Zugang Hausbriefkasten Leerungszeiten Und Zugang** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang Neu 003 Bote Liest Kündigung Inhalt Umschlag Und Zeugenb, Zugang Neu 004 Persoenliche Übergabe Empfangsverweigerung Und Z, Zugang Neu 005 Hausbriefkasten Leerungszeiten Und Zugang** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Zugang Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang Bote Liest Kündigung Inhalt Umschlag Und Zeugenb, Zugang Persoenliche Übergabe Empfangsverweigerung Und Z, Zugang Hausbriefkasten Leerungszeiten Und Zugang** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -29,7 +29,7 @@ Für **Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang 
 
 **Fokus:** Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal
+# Zugang Einwurf Einschreiben Auslieferungsbeleg Und Inhal
 
 ## Aufgabe
 
@@ -78,7 +78,7 @@ Skill fuer Einwurfeinschreiben als Zustellnachweis bei Kuendigung — Beweiswert
 
 **Fokus:** Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Neu 003 Bote Liest Kuendigung Inhalt Umschlag Und Zeugenb
+# Zugang Bote Liest Kuendigung Inhalt Umschlag Und Zeugenb
 
 ## Aufgabe
 
@@ -129,7 +129,7 @@ Arbeitgeber laesst die Kuendigung durch einen **Boten** uebergeben (interner Mit
 
 **Fokus:** Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Neu 004 Persoenliche Uebergabe Empfangsverweigerung Und Z
+# Zugang Persoenliche Uebergabe Empfangsverweigerung Und Z
 
 ## Aufgabe
 
@@ -177,7 +177,7 @@ Skill fuer persoenliche Uebergabe der Kuendigung und Behandlung der Empfangsverw
 
 **Fokus:** Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Neu 005 Hausbriefkasten Leerungszeiten Und Zugang
+# Zugang Hausbriefkasten Leerungszeiten Und Zugang
 
 ## Aufgabe
 

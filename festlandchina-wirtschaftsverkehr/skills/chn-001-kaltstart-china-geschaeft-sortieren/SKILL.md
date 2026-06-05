@@ -1,6 +1,6 @@
 ---
 name: chn-001-kaltstart-china-geschaeft-sortieren
-description: "'Erstaufnahme eines China-Geschaeftsmandats: Rollenklärung (Importeur/Exporteur/Investor), Unterlagencheck, Routing zu Spezialskills. Prüft AWG-Meldepflichten, De-risking-Bedarf, FDI-Screening-Relevanz gem. EU-VO 2019/452 und BAFA-Zustaendigkeit. Output: strukturierter Mandats-Kaltstart mit Risiko-Ampel und Skill-Routing.'"
+description: "'Erstaufnahme eines China-Geschaeftsmandats: Rollenklärung (Importeur/Exporteur/Investor), Unterlagencheck, Routing zu Fachmodule. Prüft AWG-Meldepflichten, De-risking-Bedarf, FDI-Screening-Relevanz gem. EU-VO 2019/452 und BAFA-Zustaendigkeit. Output: strukturierter Mandats-Kaltstart mit Risiko-Ampel und Skill-Routing.'"
 ---
 
 # Kaltstart China-Mandat: Erstaufnahme und Routing
@@ -30,7 +30,7 @@ Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbare
 3. De-risking-Checkliste abarbeiten: Kritische Infrastruktur, kritische Technologie, staatliche Beteiligung CN-Seite.
 4. AWG/AWV-Relevanz prüfen: §§ 55 ff. AWG, §§ 55-62a AWV, Sektoren gem. AWV-Anlage.
 5. BAFA-Dual-Use-Prüfung einleiten: AL-Listung, Catch-All-Klausel, End-User-Zertifikat.
-6. Mandats-Routing: Spezialskill für den dominierenden Rechtsrahmen identifizieren.
+6. Mandats-Routing: Fachmodul für den dominierenden Rechtsrahmen identifizieren.
 
 ## Rechtsrahmen
 
@@ -75,7 +75,7 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 
 ## Output
 
-Mandats-Kurzaufnahme (Rolle/Unterlagen/Rechtsrahmen), Risiko-Ampel, Checkliste offener Prüfpunkte, Routing-Empfehlung zu Spezialskills.
+Mandats-Kurzaufnahme (Rolle/Unterlagen/Rechtsrahmen), Risiko-Ampel, Checkliste offener Prüfpunkte, Routing-Empfehlung zu Fachmodule.
 
 Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
 Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.

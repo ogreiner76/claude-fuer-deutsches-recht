@@ -1,13 +1,13 @@
 ---
 name: gegenseite-status-mahnbescheid-mahnschreiben
-description: "Nutze dies, wenn Gegenseite Status, Mahnbescheid, Mahnschreiben Aufnahme im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Gegenseite Status, Mahnbescheid, Mahnschreiben Aufnahme prüfen.; Erstelle eine Arbeitsfassung zu Gegenseite Status, Mahnbescheid, Mahnschreiben Aufnahme.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gegenseite Status, Mahnbescheid, Mahnschreiben Aufnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gegenseite Status, Mahnbescheid, Mahnschreiben Aufnahme
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gegenseite Status, Mahnbescheid, Mahnschreiben Aufnahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -220,12 +220,12 @@ Abgabe ins streitige Verfahren oder Vollstreckungsbescheid → Einspruch → Vol
 Das Modell benötigt:
 
 1. **Forderungsdetails**: Hauptforderung (Betrag, Entstehungsgrund), Zinsen (Verzugszinsen
-   § 288 BGB; bei Verbraucher 5 % über Basiszinssatz, bei Unternehmer 9 % über Basiszinssatz),
-   Mahnkosten, Auslagen
+ § 288 BGB; bei Verbraucher 5 % über Basiszinssatz, bei Unternehmer 9 % über Basiszinssatz),
+ Mahnkosten, Auslagen
 2. **Parteien**: Name, Anschrift, Rechtsform von Antragsteller und Antragsgegner
 3. **Zuständigkeit**: Wohnsitz/Sitz des Antragsgegners → zuständiges Mahngericht (§ 689 ZPO)
 4. **Aktuelle Situation**: Liegt bereits ein Mahnbescheid vor? Wurde Widerspruch eingelegt?
-   Ist Vollstreckungsbescheid beantragt?
+ Ist Vollstreckungsbescheid beantragt?
 5. **Verjährungsstand**: Wann ist die Forderung fällig geworden? Verjährung droht?
 
 ## Rechtlicher Rahmen
@@ -233,30 +233,30 @@ Das Modell benötigt:
 ### Normen
 
 - **§ 688 ZPO** – Zulässigkeit des Mahnverfahrens (nur Geldforderungen; keine bedingten
-  Forderungen; nicht gegen unbekannte Erben)
+ Forderungen; nicht gegen unbekannte Erben)
 - **§ 689 ZPO** – Zuständigkeit (zentrale Mahngerichte der Länder; in Bayern: AG Coburg)
 - **§ 690 ZPO** – Inhalt des Mahnantrags (Pflichtangaben: Parteien, Forderung, Zinsen,
-  Entstehungsgrund kurz bezeichnet)
+ Entstehungsgrund kurz bezeichnet)
 - **§ 692 ZPO** – Erlass des Mahnbescheids ohne Sachprüfung
 - **§ 694 ZPO** – Widerspruch gegen den Mahnbescheid (binnen 2 Wochen ab Zustellung)
 - **§ 696 ZPO** – Abgabe an das Streitgericht nach Widerspruch
 - **§ 699 ZPO** – Antrag auf Vollstreckungsbescheid (nach Ablauf der Widerspruchsfrist oder
-  nach Nicht-Einlegung des Widerspruchs; max. 6 Monate nach Zustellung des Mahnbescheids)
+ nach Nicht-Einlegung des Widerspruchs; max. 6 Monate nach Zustellung des Mahnbescheids)
 - **§ 700 ZPO** – Einspruch gegen den Vollstreckungsbescheid (2 Wochen ab Zustellung;
-  § 700 Abs. 1 ZPO: VB steht einem Versäumnisurteil gleich)
+ § 700 Abs. 1 ZPO: VB steht einem Versäumnisurteil gleich)
 - **§ 701 ZPO** – Weiteres Verfahren nach Einspruch
 - **§ 204 Abs. 1 Nr. 3 BGB** – Verjährungshemmung durch Mahnantrag (ab Eingang beim Gericht)
 
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  durch Mahnbescheid; § 204 Abs. 1 Nr. 3 BGB setzt voraus, dass die Forderung im Mahnantrag
-  ausreichend individualisiert ist; pauschale Sammelbezeichnungen genügen nicht und hemmen
-  die Verjährung nicht.
+ durch Mahnbescheid; § 204 Abs. 1 Nr. 3 BGB setzt voraus, dass die Forderung im Mahnantrag
+ ausreichend individualisiert ist; pauschale Sammelbezeichnungen genügen nicht und hemmen
+ die Verjährung nicht.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  anforderung im Mahnverfahren; der Entstehungsgrund muss so bezeichnet sein, dass der
-  Antragsgegner die Forderung zuordnen kann; Verweis auf "Lieferscheine" ohne Nummer
-  unzureichend.
+ anforderung im Mahnverfahren; der Entstehungsgrund muss so bezeichnet sein, dass der
+ Antragsgegner die Forderung zuordnen kann; Verweis auf "Lieferscheine" ohne Nummer
+ unzureichend.
 
 ### Quellenregel
 
@@ -264,24 +264,24 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Zulässigkeitsprüfung** (§ 688 ZPO): Ist die Forderung eine bezifferte Geldforderung?
-   Keine aufschiebende Bedingung? Kein Auslandsaufenthalt des Antragsgegners (§ 688 Abs. 2 ZPO)?
+ Keine aufschiebende Bedingung? Kein Auslandsaufenthalt des Antragsgegners (§ 688 Abs. 2 ZPO)?
 2. **Verjährungsprüfung** (§§ 195, 199 BGB): Verjährungsfrist bereits abgelaufen oder kurz
-   vor Ablauf? → Sofortiger Mahnantrag zur Hemmung (§ 204 Abs. 1 Nr. 3 BGB).
+ vor Ablauf? → Sofortiger Mahnantrag zur Hemmung (§ 204 Abs. 1 Nr. 3 BGB).
 3. **Mahnantrag** (§ 690 ZPO) über www.online-mahnantrag.de:
-   - Pflichtangaben: Antragsteller/Gegner (vollständig), Forderungsbetrag, Entstehungsgrund
-     (Vertragstyp + Datum), Zinsen (Fälligkeitsdatum + Zinssatz), Gerichtsgebühr (§ 12 GKG)
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-     Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Pflichtangaben: Antragsteller/Gegner (vollständig), Forderungsbetrag, Entstehungsgrund
+ (Vertragstyp + Datum), Zinsen (Fälligkeitsdatum + Zinssatz), Gerichtsgebühr (§ 12 GKG)
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Erlass und Zustellung** (§§ 692, 693 ZPO): Gericht erlässt MB ohne Sachprüfung; Zustellung
-   an Antragsgegner; 2-Wochen-Frist für Widerspruch beginnt.
+ an Antragsgegner; 2-Wochen-Frist für Widerspruch beginnt.
 5. **Widerspruch** (§ 694 ZPO): Binnen 2 Wochen → Abgabe an Streitgericht (§ 696 ZPO);
-   Antragsteller muss innerhalb 1 Monat Kostenvorschuss einzahlen, sonst Rücknahmefiktion.
+ Antragsteller muss innerhalb 1 Monat Kostenvorschuss einzahlen, sonst Rücknahmefiktion.
 6. **Kein Widerspruch** → Antrag auf Vollstreckungsbescheid (§ 699 ZPO) innerhalb 6 Monaten;
-   VB wird zugestellt; Einspruchsfrist 2 Wochen (§ 700 ZPO).
+ VB wird zugestellt; Einspruchsfrist 2 Wochen (§ 700 ZPO).
 7. **Einspruch gegen VB** (§ 700 ZPO): Verfahren wie nach Widerspruch; VB gilt als
-   Versäumnisurteil (§ 700 Abs. 1 ZPO).
+ Versäumnisurteil (§ 700 Abs. 1 ZPO).
 8. **Vollstreckung**: VB ohne Einspruch → Vollstreckungsklausel beantragen (§§ 724 ff. ZPO);
-   Pfändung oder Forderungspfändung einleiten (→ Skill vollstreckung).
+ Pfändung oder Forderungspfändung einleiten (→ Skill vollstreckung).
 
 ## Ausgabeformat
 
@@ -313,15 +313,15 @@ Nr. 3 BGB), was vorsorglich zu nutzen ist.
 ## Risiken und typische Fehler
 
 - **Unzureichende Individualisierung**: Verjährungshemmung tritt nicht ein; Vollstreckungsbescheid
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Versäumte 6-Monatsfrist** für VB-Antrag: Mahnbescheid verliert Wirkung; neues Verfahren
-  erforderlich; Verjährungshemmung endet (§ 204 Abs. 2 BGB).
+ erforderlich; Verjährungshemmung endet (§ 204 Abs. 2 BGB).
 - **Falsche Zinsen**: § 288 Abs. 1 vs. Abs. 2 BGB (Verbraucher vs. Unternehmer);
-  zu hoch angesetzte Zinsen führen zu Teilvollstreckungsschutz.
+ zu hoch angesetzte Zinsen führen zu Teilvollstreckungsschutz.
 - **Auslands-Antragsgegner**: § 688 Abs. 2 Nr. 2 ZPO – Mahnverfahren unzulässig →
-  Klage erforderlich.
+ Klage erforderlich.
 - **Berufsrecht**: Mandantendaten (Forderungsunterlagen) nur in verschlüsselter Form
-  übermitteln (§ 43a Abs. 2 BRAO, § 203 StGB).
+ übermitteln (§ 43a Abs. 2 BRAO, § 203 StGB).
 
 ## Quellenpflicht
 
@@ -376,36 +376,36 @@ Strukturierte Erfassung aller für ein Mahnschreiben oder eine vorgerichtliche A
 ## Ablauf
 
 1. **Mandantenidentifikation:**
-   - Vollständiger Name / Firma, Anschrift, Kontaktperson
-   - Mandantentyp: Verbraucher (§ 13 BGB) oder Unternehmer (§ 14 BGB) – für Verzugszinsberechnung relevant (§ 288 Abs. 1 vs. 2 BGB)
+ - Vollständiger Name / Firma, Anschrift, Kontaktperson
+ - Mandantentyp: Verbraucher (§ 13 BGB) oder Unternehmer (§ 14 BGB) – für Verzugszinsberechnung relevant (§ 288 Abs. 1 vs. 2 BGB)
 
 2. **Schuldneridentifikation:**
-   - Vollständiger Name / Firma, Anschrift, HRB-Nummer (bei Gesellschaften)
-   - Zustellungsfähige Anschrift vorhanden? (für spätere Klagezustellung, § 253 Abs. 2 Nr. 1 ZPO)
-   - Ist die Passivlegitimation des Schuldners geklärt? (z. B. bei Gesamtschuld § 421 BGB, Rechtsnachfolge, Konzernmutter)
+ - Vollständiger Name / Firma, Anschrift, HRB-Nummer (bei Gesellschaften)
+ - Zustellungsfähige Anschrift vorhanden? (für spätere Klagezustellung, § 253 Abs. 2 Nr. 1 ZPO)
+ - Ist die Passivlegitimation des Schuldners geklärt? (z. B. bei Gesamtschuld § 421 BGB, Rechtsnachfolge, Konzernmutter)
 
 3. **Sachverhaltserfassung:**
-   - Wie kam das Schuldverhältnis zustande? (Vertragsurkunde vorhanden?)
-   - Was wurde nicht geleistet oder schlecht geleistet?
-   - Wann war Leistung fällig?
-   - Hat der Mandant bereits gemahnt? (schriftlich / mündlich / konkludent – relevant für § 286 Abs. 1 BGB)
-   - Gab es Reaktionen des Schuldners (Einwände, Aufrechnungen, Minderung)?
+ - Wie kam das Schuldverhältnis zustande? (Vertragsurkunde vorhanden?)
+ - Was wurde nicht geleistet oder schlecht geleistet?
+ - Wann war Leistung fällig?
+ - Hat der Mandant bereits gemahnt? (schriftlich / mündlich / konkludent – relevant für § 286 Abs. 1 BGB)
+ - Gab es Reaktionen des Schuldners (Einwände, Aufrechnungen, Minderung)?
 
 4. **Forderungserfassung:**
-   - Hauptforderung (Betrag, Art, Rechtsgrundlage)
-   - Nebenforderungen: Verzugszinsen (§ 288 BGB), vorgerichtliche Anwaltskosten (§ 13 RVG i. V. m. VV 2300), Schadensersatz (§§ 280, 281 BGB)
-   - Fälligkeitsdatum und bisherige Mahnungen (mit Datum)
-   - Offene Restforderung (nach Teilzahlungen)
+ - Hauptforderung (Betrag, Art, Rechtsgrundlage)
+ - Nebenforderungen: Verzugszinsen (§ 288 BGB), vorgerichtliche Anwaltskosten (§ 13 RVG i. V. m. VV 2300), Schadensersatz (§§ 280, 281 BGB)
+ - Fälligkeitsdatum und bisherige Mahnungen (mit Datum)
+ - Offene Restforderung (nach Teilzahlungen)
 
 5. **Hebel und Risiko (BATNA):**
-   - Was ist die beste Alternative des Mandanten ohne Mahnschreiben?
-   - Welche Risiken bestehen (Aufrechnung, Gegenansprüche, Insolvenzrisiko)?
-   - Ist ein Güteantrag (§ 15a EGZPO) im zuständigen Bundesland Pflicht?
-   - Empfiehlt sich ein Mahnbescheid (§§ 688 ff. ZPO) statt Mahnschreiben?
+ - Was ist die beste Alternative des Mandanten ohne Mahnschreiben?
+ - Welche Risiken bestehen (Aufrechnung, Gegenansprüche, Insolvenzrisiko)?
+ - Ist ein Güteantrag (§ 15a EGZPO) im zuständigen Bundesland Pflicht?
+ - Empfiehlt sich ein Mahnbescheid (§§ 688 ff. ZPO) statt Mahnschreiben?
 
 6. **Vertraulichkeitsfilter:**
-   - Enthält der Sachverhalt vertrauliche Informationen Dritter, die nicht in das Schreiben dürfen?
-   - Besteht Zeugnisverweigerungsrecht des Mandanten für bestimmte Tatsachen?
+ - Enthält der Sachverhalt vertrauliche Informationen Dritter, die nicht in das Schreiben dürfen?
+ - Besteht Zeugnisverweigerungsrecht des Mandanten für bestimmte Tatsachen?
 
 7. **Intake-Datei schreiben:** `demand-letters/[slug]/intake.md` mit allen Feldern befüllen. Fehlende Pflichtfelder markieren.
 
@@ -421,28 +421,28 @@ Verbindlich: `../references/zitierweise.md`.
 ```yaml
 # demand-letters/[slug]/intake.md
 mandant:
-  name: ""
-  typ: "Unternehmer / Verbraucher"
-  anschrift: ""
+ name: ""
+ typ: "Unternehmer / Verbraucher"
+ anschrift: ""
 schuldner:
-  name: ""
-  anschrift: ""
-  hrb: ""
-  passivlegitimation_geklaert: true/false
+ name: ""
+ anschrift: ""
+ hrb: ""
+ passivlegitimation_geklaert: true/false
 schuldverhaeltnis:
-  entstehungsgrund: ""
-  vertrag_vorhanden: true/false
-  anlage: ""
+ entstehungsgrund: ""
+ vertrag_vorhanden: true/false
+ anlage: ""
 forderung:
-  art: ""
-  hauptbetrag: 0.00
-  faelligkeit: ""
-  bisherige_mahnungen: []
-  verzugszinsen_p_a: "5% / 9% über Basiszinssatz"
-  anwaltskosten: 0.00
+ art: ""
+ hauptbetrag: 0.00
+ faelligkeit: ""
+ bisherige_mahnungen: []
+ verzugszinsen_p_a: "5% / 9% über Basiszinssatz"
+ anwaltskosten: 0.00
 anspruchsgrundlage: ""
 fristen_geplant:
-  fristsetzung_bis: ""
+ fristsetzung_bis: ""
 batna: ""
 risiken: []
 gueteantrag_erforderlich: false

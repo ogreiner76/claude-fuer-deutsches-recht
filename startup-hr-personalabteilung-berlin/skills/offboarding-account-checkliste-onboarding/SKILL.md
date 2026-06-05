@@ -1,23 +1,23 @@
 ---
 name: offboarding-account-checkliste-onboarding
-description: "Nutze dies, wenn Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste prüfen.; Erstelle eine Arbeitsfassung zu Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It Payroll, Onboarding Datenschutz Und It Accounts, Onboarding Equipment Und Homeoffice, Onboarding Erster Tag Checkliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `offboarding-account-sperre-und-datenuebergabe` | Berliner Start-up-HR: Account-Sperre und Datenübergabe: E-Mail, Slack, GitHub, Kundenkontakte, private Daten und Litigation Hold. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `offboarding-checkliste-it-payroll` | Berliner Start-up-HR: Offboarding-Checkliste: Kündigungsgrund, Zeugnis, Resturlaub, Equipment, Accounts, Payroll, Geheimnisse und Alumni-Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `onboarding-datenschutz-und-it-accounts` | Berliner Start-up-HR: IT-Accounts und Datenschutz beim Onboarding: Rollenrechte, MFA, Geräte, Slack, HRIS, MDM und Zugriffskontrolle. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `onboarding-equipment-und-homeoffice` | Berliner Start-up-HR: Equipment, Laptop, Handy, Homeoffice-Ausstattung, Rückgabe, Verlust und private Nutzung dokumentieren. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `onboarding-erster-tag-checkliste` | Berliner Start-up-HR: Erster-Tag-Checkliste: Vertrag, IT, Datenschutz, Arbeitsschutz, Payroll, Buddy, Probezeitziele und Welcome-Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `offboarding-account-sperre-und-datenuebergabe` | Berliner Start-up-HR: Account-Sperre und Datenübergabe: E-Mail, Slack, GitHub, Kundenkontakte, private Daten und Litigation Hold. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `offboarding-checkliste-it-payroll` | Berliner Start-up-HR: Offboarding-Checkliste: Kündigungsgrund, Zeugnis, Resturlaub, Equipment, Accounts, Payroll, Geheimnisse und Alumni-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `onboarding-datenschutz-und-it-accounts` | Berliner Start-up-HR: IT-Accounts und Datenschutz beim Onboarding: Rollenrechte, MFA, Geräte, Slack, HRIS, MDM und Zugriffskontrolle. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `onboarding-equipment-und-homeoffice` | Berliner Start-up-HR: Equipment, Laptop, Handy, Homeoffice-Ausstattung, Rückgabe, Verlust und private Nutzung dokumentieren. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `onboarding-erster-tag-checkliste` | Berliner Start-up-HR: Erster-Tag-Checkliste: Vertrag, IT, Datenschutz, Arbeitsschutz, Payroll, Buddy, Probezeitziele und Welcome-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Offboarding Account Sperre Und Datenuebergabe, Offboarding Checkliste It 
 
 ## 1. `offboarding-account-sperre-und-datenuebergabe`
 
-**Fokus:** Berliner Start-up-HR: Account-Sperre und Datenübergabe: E-Mail, Slack, GitHub, Kundenkontakte, private Daten und Litigation Hold. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Account-Sperre und Datenübergabe: E-Mail, Slack, GitHub, Kundenkontakte, private Daten und Litigation Hold. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Offboarding Account Sperre Und Datenuebergabe
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Offboarding
 **Fokus:** Account-Sperre und Datenübergabe: E-Mail, Slack, GitHub, Kundenkontakte, private Daten und Litigation Hold.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `offboarding-checkliste-it-payroll`
 
-**Fokus:** Berliner Start-up-HR: Offboarding-Checkliste: Kündigungsgrund, Zeugnis, Resturlaub, Equipment, Accounts, Payroll, Geheimnisse und Alumni-Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Offboarding-Checkliste: Kündigungsgrund, Zeugnis, Resturlaub, Equipment, Accounts, Payroll, Geheimnisse und Alumni-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Offboarding Checkliste IT Payroll
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Offboarding
 **Fokus:** Offboarding-Checkliste: Kündigungsgrund, Zeugnis, Resturlaub, Equipment, Accounts, Payroll, Geheimnisse und Alumni-Kommunikation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `onboarding-datenschutz-und-it-accounts`
 
-**Fokus:** Berliner Start-up-HR: IT-Accounts und Datenschutz beim Onboarding: Rollenrechte, MFA, Geräte, Slack, HRIS, MDM und Zugriffskontrolle. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: IT-Accounts und Datenschutz beim Onboarding: Rollenrechte, MFA, Geräte, Slack, HRIS, MDM und Zugriffskontrolle. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Onboarding Datenschutz Und IT Accounts
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Onboarding
 **Fokus:** IT-Accounts und Datenschutz beim Onboarding: Rollenrechte, MFA, Geräte, Slack, HRIS, MDM und Zugriffskontrolle.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `onboarding-equipment-und-homeoffice`
 
-**Fokus:** Berliner Start-up-HR: Equipment, Laptop, Handy, Homeoffice-Ausstattung, Rückgabe, Verlust und private Nutzung dokumentieren. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Equipment, Laptop, Handy, Homeoffice-Ausstattung, Rückgabe, Verlust und private Nutzung dokumentieren. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Onboarding Equipment Und Homeoffice
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Onboarding
 **Fokus:** Equipment, Laptop, Handy, Homeoffice-Ausstattung, Rückgabe, Verlust und private Nutzung dokumentieren.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `onboarding-erster-tag-checkliste`
 
-**Fokus:** Berliner Start-up-HR: Erster-Tag-Checkliste: Vertrag, IT, Datenschutz, Arbeitsschutz, Payroll, Buddy, Probezeitziele und Welcome-Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Erster-Tag-Checkliste: Vertrag, IT, Datenschutz, Arbeitsschutz, Payroll, Buddy, Probezeitziele und Welcome-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Onboarding Erster Tag Checkliste
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Onboarding
 **Fokus:** Erster-Tag-Checkliste: Vertrag, IT, Datenschutz, Arbeitsschutz, Payroll, Buddy, Probezeitziele und Welcome-Kommunikation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

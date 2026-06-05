@@ -1,13 +1,13 @@
 ---
 name: vwgo-statthaftigkeit-stellplatzsatzung-bay
-description: "Nutze dies, wenn Spezial Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung
+# Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrolle-bauleitplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `normenkontrolle-bauleitplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwg
 # VwGO: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: VwGO: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** VwGO: Schriftsatz-, Brief- und Memo-Bausteine / spezial vwgo schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** VwGO: Schriftsatz-, Brief- und Memo-Bausteine / vwgo schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, OVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -255,9 +255,9 @@ Stellplatzfragen sind ein Hauptkampffeld bei Innenstadt-Verdichtungen. Reduziert
 ### Verbindlichkeit
 - Mobilitätskonzept muss in textlichen Festsetzungen abgesichert sein, sonst leeres Versprechen
 - Häufige Treffer:
-  - Konzept nicht in Festsetzungen übernommen
-  - Konzept verweist nur auf "Bemühungen"
-  - Vermieter-/Bauträger-Konzepte ohne rechtliche Bindung
+ - Konzept nicht in Festsetzungen übernommen
+ - Konzept verweist nur auf "Bemühungen"
+ - Vermieter-/Bauträger-Konzepte ohne rechtliche Bindung
 
 ## Schritt 4 — Verkehrsmodellierung
 

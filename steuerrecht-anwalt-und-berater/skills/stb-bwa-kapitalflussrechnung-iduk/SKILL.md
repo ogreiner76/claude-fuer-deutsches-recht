@@ -61,36 +61,36 @@ Die Kapitalflussrechnung ist nach DRS 21 Pflichtbestandteil des Konzernabschluss
 KAPITALFLUSSRECHNUNG nach DRS 21 (indirekte Methode)
 
 I. CASHFLOW AUS LAUFENDER GESCHAEFTSTAETIGKEIT
-   Jahresueberschuss/Fehlbetrag                            [X]
-   +/- Abschreibungen/Zuschreibungen Anlagevermoegen       [X]
-   +/- Veraenderung Rueckstellungen                         [X]
-   +/- Sonstige nicht-zahlungswirksame Aufwendungen/Ertraege [X]
-   +/- Veraenderung Vorraete                                [X]
-   +/- Veraenderung Forderungen LuL                         [X]
-   +/- Veraenderung sonstige Aktiva                         [X]
-   +/- Veraenderung Verbindlichkeiten LuL                   [X]
-   +/- Veraenderung sonstige Passiva                        [X]
-   +/- Gezahlte/Erstattete Ertragsteuern                    [X]
-   = Cashflow aus laufender Geschaeftstaetigkeit           [X]
+ Jahresueberschuss/Fehlbetrag [X]
+ +/- Abschreibungen/Zuschreibungen Anlagevermoegen [X]
+ +/- Veraenderung Rueckstellungen [X]
+ +/- Sonstige nicht-zahlungswirksame Aufwendungen/Ertraege [X]
+ +/- Veraenderung Vorraete [X]
+ +/- Veraenderung Forderungen LuL [X]
+ +/- Veraenderung sonstige Aktiva [X]
+ +/- Veraenderung Verbindlichkeiten LuL [X]
+ +/- Veraenderung sonstige Passiva [X]
+ +/- Gezahlte/Erstattete Ertragsteuern [X]
+ = Cashflow aus laufender Geschaeftstaetigkeit [X]
 
 II. CASHFLOW AUS INVESTITIONSTAETIGKEIT
-   - Auszahlungen fuer Investitionen Sachanlagen            [X]
-   - Auszahlungen fuer Investitionen immat. WG              [X]
-   - Auszahlungen fuer Investitionen Finanzanlagen          [X]
-   + Einzahlungen aus Abgang Sachanlagen                    [X]
-   + Einzahlungen aus Abgang Finanzanlagen                  [X]
-   = Cashflow aus Investitionstaetigkeit                   [X]
+ - Auszahlungen fuer Investitionen Sachanlagen [X]
+ - Auszahlungen fuer Investitionen immat. WG [X]
+ - Auszahlungen fuer Investitionen Finanzanlagen [X]
+ + Einzahlungen aus Abgang Sachanlagen [X]
+ + Einzahlungen aus Abgang Finanzanlagen [X]
+ = Cashflow aus Investitionstaetigkeit [X]
 
 III. CASHFLOW AUS FINANZIERUNGSTAETIGKEIT
-   + Einzahlungen aus Kapitalerhoehung                      [X]
-   + Aufnahme Darlehen Kreditinstitute                      [X]
-   - Tilgung Darlehen Kreditinstitute                       [X]
-   - Ausschuettungen an Gesellschafter                      [X]
-   = Cashflow aus Finanzierungstaetigkeit                  [X]
+ + Einzahlungen aus Kapitalerhoehung [X]
+ + Aufnahme Darlehen Kreditinstitute [X]
+ - Tilgung Darlehen Kreditinstitute [X]
+ - Ausschuettungen an Gesellschafter [X]
+ = Cashflow aus Finanzierungstaetigkeit [X]
 
-IV. VERAENDERUNG FINANZMITTELFONDS                          [X]
-   + Finanzmittelfonds zu Beginn der Periode                [X]
-   = Finanzmittelfonds am Ende der Periode                  [X]
+IV. VERAENDERUNG FINANZMITTELFONDS [X]
+ + Finanzmittelfonds zu Beginn der Periode [X]
+ = Finanzmittelfonds am Ende der Periode [X]
 ```
 
 ### Phase 3 — Ableitung Bewegungen

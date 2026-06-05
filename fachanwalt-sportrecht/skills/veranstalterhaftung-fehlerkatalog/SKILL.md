@@ -1,6 +1,6 @@
 ---
 name: veranstalterhaftung-fehlerkatalog
-description: "Nutze dies, wenn Veranstalterhaftung Fehlerkatalog im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Veranstalterhaftung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Veranstalterhaftung Fehlerkatalog

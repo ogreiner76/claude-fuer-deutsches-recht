@@ -1,13 +1,13 @@
 ---
 name: penetration-test-per-seat-platform-dsa
-description: "Nutze dies, wenn Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software prüfen.; Erstelle eine Arbeitsfassung zu Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

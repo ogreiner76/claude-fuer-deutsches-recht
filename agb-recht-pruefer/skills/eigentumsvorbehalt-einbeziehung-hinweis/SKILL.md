@@ -1,22 +1,22 @@
 ---
 name: eigentumsvorbehalt-einbeziehung-hinweis
-description: "Nutze dies, wenn Eigentumsvorbehalt, Einbeziehung Hinweis Kenntnisnahme 305, Einbeziehung Online Clickwrap Browsewrap, Einkaufsbedingungen B2B, Einstweilige Verfuegung Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Eigentumsvorbehalt, Einbeziehung Hinweis Kenntnisnahme 305, Einbeziehung Online Clickwrap Browsewrap, Einkaufsbedingungen B2B, Einstweilige Verfuegung Agb prüfen.; Erstelle eine Arbeitsfassung zu Eigentumsvorbehalt, Einbeziehung Hinweis Kenntnisnahme 305, Einbeziehung Online Clickwrap Browsewrap, Einkaufsbedingungen B2B, Einstweilige Verfuegung Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eigentumsvorbehalt, Einbeziehung Hinweis Kenntnisnahme 305, Einbeziehung Online Clickwrap Browsewrap, Einkaufsbedingungen B2b: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eigentumsvorbehalt, Einbeziehung Hinweis Kenntnisnahme 305, Einbeziehung Online Clickwrap Browsewrap, Einkaufsbedingungen B2B, Einstweilige Verfuegung Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eigentumsvorbehalt, Einbeziehung Hinweis Kenntnisnahme 305, Einbeziehung Online Clickwrap Browsewrap, Einkaufsbedingungen B2B, Einstweilige Verfuegung Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `eigentumsvorbehalt` | Klausel-Spezialskill für Eigentumsvorbehalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `eigentumsvorbehalt` | Klausel-Fachmodul für Eigentumsvorbehalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `einbeziehung-hinweis-kenntnisnahme-305` | Norm- und Dogmatik-Skill für Einbeziehung Hinweis Kenntnisnahme 305: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `einbeziehung-online-clickwrap-browsewrap` | Norm- und Dogmatik-Skill für Einbeziehung Online Clickwrap Browsewrap: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `einkaufsbedingungen-b2b` | Branchen-Spezialskill für Einkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `einkaufsbedingungen-b2b` | Branchen-Fachmodul für Einkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `einstweilige-verfuegung-agb` | Output- und Streit-Skill für Einstweilige Verfügung AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Eigentumsvorbehalt, Einbeziehung Hinweis Kenntnisnahme 305, Einbeziehung 
 
 ## 1. `eigentumsvorbehalt`
 
-**Fokus:** Klausel-Spezialskill für Eigentumsvorbehalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Eigentumsvorbehalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Eigentumsvorbehalt
 
@@ -54,13 +54,13 @@ Für **Eigentumsvorbehalt, Einbeziehung Hinweis Kenntnisnahme 305, Einbeziehung 
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Eigentumsvorbehalt (§§ 449, 925, 158 BGB):**
-   - **Einfacher EV** (§ 449 Abs. 1 BGB): Eigentum geht erst mit vollständiger Kaufpreiszahlung über, aufschiebend bedingte Übereignung nach § 158 Abs. 1 BGB. Wirksam auch B2C.
-   - **Verlängerter EV (Vorausabtretung der Forderungen aus Weiterverkauf):** B2B üblich; B2C regelmäßig zu weitgehend und über § 307 BGB unwirksam, weil Verbraucher kein Gewerbe betreibt.
-   - **Erweiterter EV (Kontokorrentvorbehalt):** Eigentumsvorbehalt sichert sämtliche aktuellen und zukünftigen Forderungen. Im B2B grundsätzlich zulässig, im B2C unzulässig (§ 449 Abs. 3 BGB).
-   - **Konzernvorbehalt** (Forderungen auch zugunsten verbundener Unternehmen): § 449 Abs. 3 BGB Verbot - immer unwirksam.
-   - **Sicherungs-/Verarbeitungsklausel:** Bei Verarbeitung durch den Kunden Vorbehalt am Endprodukt; Verarbeitungsklausel "im Namen und für den Verwender" muss klar formuliert sein, sonst Wirkung nur auf Miteigentum nach § 947 BGB.
-   - **Praxis-Hinweise:** Im Auslandsgeschäft ist Eigentumsvorbehalt häufig nicht oder nur eingeschränkt anerkannt (z.B. Frankreich erst nach Eintragung; UK kennt nur Romalpa-Clause). Internationale Kollisionsregeln über Art. 43 EGBGB / lex rei sitae prüfen.
-   - **Insolvenzfestigkeit:** Einfacher EV gewährt Aussonderungsrecht § 47 InsO; verlängerter EV gewährt Absonderungsrecht §§ 50, 51 InsO an der vorausabgetretenen Forderung.
+ - **Einfacher EV** (§ 449 Abs. 1 BGB): Eigentum geht erst mit vollständiger Kaufpreiszahlung über, aufschiebend bedingte Übereignung nach § 158 Abs. 1 BGB. Wirksam auch B2C.
+ - **Verlängerter EV (Vorausabtretung der Forderungen aus Weiterverkauf):** B2B üblich; B2C regelmäßig zu weitgehend und über § 307 BGB unwirksam, weil Verbraucher kein Gewerbe betreibt.
+ - **Erweiterter EV (Kontokorrentvorbehalt):** Eigentumsvorbehalt sichert sämtliche aktuellen und zukünftigen Forderungen. Im B2B grundsätzlich zulässig, im B2C unzulässig (§ 449 Abs. 3 BGB).
+ - **Konzernvorbehalt** (Forderungen auch zugunsten verbundener Unternehmen): § 449 Abs. 3 BGB Verbot - immer unwirksam.
+ - **Sicherungs-/Verarbeitungsklausel:** Bei Verarbeitung durch den Kunden Vorbehalt am Endprodukt; Verarbeitungsklausel "im Namen und für den Verwender" muss klar formuliert sein, sonst Wirkung nur auf Miteigentum nach § 947 BGB.
+ - **Praxis-Hinweise:** Im Auslandsgeschäft ist Eigentumsvorbehalt häufig nicht oder nur eingeschränkt anerkannt (z.B. Frankreich erst nach Eintragung; UK kennt nur Romalpa-Clause). Internationale Kollisionsregeln über Art. 43 EGBGB / lex rei sitae prüfen.
+ - **Insolvenzfestigkeit:** Einfacher EV gewährt Aussonderungsrecht § 47 InsO; verlängerter EV gewährt Absonderungsrecht §§ 50, 51 InsO an der vorausabgetretenen Forderung.
 6. **Rechtsfolge:** Bei Unzulässigkeit Wegfall der Sicherung, voller Eigentumsübergang nach § 929 BGB.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -120,15 +120,15 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Einbeziehung (§ 305 Abs. 2 BGB - B2C):**
-   - **Dreifachvoraussetzung Verbrauchergeschäft:**
-     - **(a) Ausdrücklicher Hinweis** bei Vertragsschluss (nicht erst nachträglich), so dass er bei normalem Verlauf nicht zu übersehen ist. Bei Aushängen an der Schließanlage oder Verstecktverweisen unzulässig.
-     - **(b) Möglichkeit der Kenntnisnahme** in zumutbarer Weise. Schriftgröße, Sprache, technische Zugänglichkeit müssen beachtet werden.
-     - **(c) Einverständnis** des Vertragspartners (Annahme, ausdrücklich oder durch schlüssiges Verhalten in Kenntnis).
-   - **B2B (§ 310 Abs. 1 BGB):** Erleichterungen. Es genügt der Hinweis und das Schweigen des Vertragspartners (z.B. kaufmännisches Bestätigungsschreiben). Aber: Bei eingelassenem Klauselverstoß auch im B2B Einbeziehung nicht erlangt.
-   - **Online (§ 305 Abs. 2 i.V.m. § 312i Abs. 1 S. 1 Nr. 4 BGB):** Klickdummy-Verfahren ("Ich habe die AGB gelesen") setzt voraus: (i) AGB sind unmittelbar abrufbar (Verlinkung), (ii) speicher- und ausdruckbar, (iii) Bestätigung erfolgt vor Vertragsschluss.
-   - **Browsewrap (bloße Verlinkung im Footer) reicht regelmäßig nicht.** Clickwrap-Bestätigung notwendig.
-   - **Überraschende Klauseln** (§ 305c Abs. 1 BGB): Klauseln, die nach Umständen so ungewöhnlich sind, dass der Vertragspartner nicht damit zu rechnen brauchte, werden nicht Vertragsbestandteil - auch wenn Einbeziehungsvoraussetzungen formal erfüllt sind.
-   - **§ 305b BGB:** Individualabreden haben Vorrang vor AGB.
+ - **Dreifachvoraussetzung Verbrauchergeschäft:**
+ - **(a) Ausdrücklicher Hinweis** bei Vertragsschluss (nicht erst nachträglich), so dass er bei normalem Verlauf nicht zu übersehen ist. Bei Aushängen an der Schließanlage oder Verstecktverweisen unzulässig.
+ - **(b) Möglichkeit der Kenntnisnahme** in zumutbarer Weise. Schriftgröße, Sprache, technische Zugänglichkeit müssen beachtet werden.
+ - **(c) Einverständnis** des Vertragspartners (Annahme, ausdrücklich oder durch schlüssiges Verhalten in Kenntnis).
+ - **B2B (§ 310 Abs. 1 BGB):** Erleichterungen. Es genügt der Hinweis und das Schweigen des Vertragspartners (z.B. kaufmännisches Bestätigungsschreiben). Aber: Bei eingelassenem Klauselverstoß auch im B2B Einbeziehung nicht erlangt.
+ - **Online (§ 305 Abs. 2 i.V.m. § 312i Abs. 1 S. 1 Nr. 4 BGB):** Klickdummy-Verfahren ("Ich habe die AGB gelesen") setzt voraus: (i) AGB sind unmittelbar abrufbar (Verlinkung), (ii) speicher- und ausdruckbar, (iii) Bestätigung erfolgt vor Vertragsschluss.
+ - **Browsewrap (bloße Verlinkung im Footer) reicht regelmäßig nicht.** Clickwrap-Bestätigung notwendig.
+ - **Überraschende Klauseln** (§ 305c Abs. 1 BGB): Klauseln, die nach Umständen so ungewöhnlich sind, dass der Vertragspartner nicht damit zu rechnen brauchte, werden nicht Vertragsbestandteil - auch wenn Einbeziehungsvoraussetzungen formal erfüllt sind.
+ - **§ 305b BGB:** Individualabreden haben Vorrang vor AGB.
 6. **Rechtsfolge:** Bei fehlender Einbeziehung: AGB werden nicht Vertragsbestandteil, gesetzliche Regelung greift (§ 306 Abs. 2 BGB).
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -188,17 +188,17 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Online-Einbeziehung (Clickwrap vs. Browsewrap):**
-   - **Clickwrap (zulässig):** Aktive Bestätigung durch Klick auf eine Checkbox vor Vertragsschluss. Checkbox darf nicht voreingewählt sein (EuGH, Urteil vom 11.11.2020, C-61/19, Rs. Orange Romania, zu Cookie-Einwilligung übertragbar).
-   - **Browsewrap (regelmäßig unzulässig):** Bloße Verlinkung "Mit Bestellung akzeptieren Sie unsere AGB" oder Footer-Link reicht für § 305 Abs. 2 BGB nicht.
-   - **Hybrid (Sign-in-Wrap):** "Mit Klick auf Bestellbutton akzeptieren Sie die AGB" - rechtlich umstritten; vorzuziehen ist eindeutiges Clickwrap.
-   - **Anforderungen nach § 305 Abs. 2 BGB:**
-     - **(a) Hinweis:** AGB-Link unmittelbar bei Vertragsabschlussvorgang, nicht nur im Footer.
-     - **(b) Kenntnisnahme:** Klick auf Link öffnet AGB in lesbarer Form (Schriftgröße, Sprache).
-     - **(c) Einverständnis:** Aktive Bestätigung notwendig (Checkbox-Aktion + Bestellbutton).
-   - **Mobile/Apps:** Bei Mobilbestellung sind Schriftgröße und Scrollverhalten kritisch. Bei eingeschränkter Display-Lesbarkeit Einbeziehung gefährdet.
-   - **Beweislast:** Verwender trägt Beweislast für Einbeziehung. Beweissicherung durch Logging (Zeit, IP, Klick-Sequenz, AGB-Version) ist Pflicht.
-   - **§ 312i Abs. 1 S. 1 Nr. 4 BGB:** Bestätigungs-E-Mail mit AGB im Anhang in Textform schicken (B2C-Online).
-   - **DSGVO:** Logging der Einwilligung berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO; Speicherdauer mit Verjährungsfrist abstimmen.
+ - **Clickwrap (zulässig):** Aktive Bestätigung durch Klick auf eine Checkbox vor Vertragsschluss. Checkbox darf nicht voreingewählt sein (EuGH, Urteil vom 11.11.2020, C-61/19, Rs. Orange Romania, zu Cookie-Einwilligung übertragbar).
+ - **Browsewrap (regelmäßig unzulässig):** Bloße Verlinkung "Mit Bestellung akzeptieren Sie unsere AGB" oder Footer-Link reicht für § 305 Abs. 2 BGB nicht.
+ - **Hybrid (Sign-in-Wrap):** "Mit Klick auf Bestellbutton akzeptieren Sie die AGB" - rechtlich umstritten; vorzuziehen ist eindeutiges Clickwrap.
+ - **Anforderungen nach § 305 Abs. 2 BGB:**
+ - **(a) Hinweis:** AGB-Link unmittelbar bei Vertragsabschlussvorgang, nicht nur im Footer.
+ - **(b) Kenntnisnahme:** Klick auf Link öffnet AGB in lesbarer Form (Schriftgröße, Sprache).
+ - **(c) Einverständnis:** Aktive Bestätigung notwendig (Checkbox-Aktion + Bestellbutton).
+ - **Mobile/Apps:** Bei Mobilbestellung sind Schriftgröße und Scrollverhalten kritisch. Bei eingeschränkter Display-Lesbarkeit Einbeziehung gefährdet.
+ - **Beweislast:** Verwender trägt Beweislast für Einbeziehung. Beweissicherung durch Logging (Zeit, IP, Klick-Sequenz, AGB-Version) ist Pflicht.
+ - **§ 312i Abs. 1 S. 1 Nr. 4 BGB:** Bestätigungs-E-Mail mit AGB im Anhang in Textform schicken (B2C-Online).
+ - **DSGVO:** Logging der Einwilligung berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO; Speicherdauer mit Verjährungsfrist abstimmen.
 6. **Rechtsfolge:** Bei nicht beweisbarer Einbeziehung: AGB nicht Vertragsbestandteil; gesetzliche Regelung greift.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -235,7 +235,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `einkaufsbedingungen-b2b`
 
-**Fokus:** Branchen-Spezialskill für Einkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Einkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Einkaufsbedingungen B2B
 

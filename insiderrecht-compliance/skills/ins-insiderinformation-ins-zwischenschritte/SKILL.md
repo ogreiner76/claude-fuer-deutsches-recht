@@ -1,13 +1,13 @@
 ---
 name: ins-insiderinformation-ins-zwischenschritte
-description: "Nutze dies, wenn Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma prüfen.; Erstelle eine Arbeitsfassung zu Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 001 Insiderinformation Art7, Ins 002 Zwischenschritte Ma** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,48 +57,48 @@ zu verneinen. Ergebnis ist immer ein schriftlicher Insidervermerk mit Quellennac
 ### Schritt 1 – Präzision (Art. 7 Abs. 1 lit. a, Abs. 2 MAR)
 
 - Bestimme, ob die Information eine konkrete Tatsache oder ein konkretes Ereignis betrifft oder
-  mit hinreichender Wahrscheinlichkeit eintreten wird.
+ mit hinreichender Wahrscheinlichkeit eintreten wird.
 - Trenne Tatsachen (vergangen/gegenwärtig) von Prognosen, Gerüchten und Analysen.
 - Wende den Geltl/Daimler-Test an: Auch Zwischenschritte in einem mehrstufigen Prozess können
-  präzise Informationen sein, sofern ihr Eintritt hinreichend wahrscheinlich ist (EuGH C-19/11).
+ präzise Informationen sein, sofern ihr Eintritt hinreichend wahrscheinlich ist (EuGH C-19/11).
 - Halte fest: Welches Ereignis? Welches Datum/welcher Zeitraum? Welche Eintrittswahrscheinlichkeit?
 
 ### Schritt 2 – Nichtöffentlichkeit
 
 - Prüfe, ob die Information in einem offiziell anerkannten Informationssystem (DGAP/EQS, BaFin-
-  Datenbank, Bundesanzeiger) veröffentlicht wurde.
+ Datenbank, Bundesanzeiger) veröffentlicht wurde.
 - Prüfe Kapitalmarktgerüchte: Breite Berichterstattung in Qualitätsmedien kann Öffentlichkeit
-  herstellen, Gerücht oder Spekulation hingegen nicht.
+ herstellen, Gerücht oder Spekulation hingegen nicht.
 - Dokumentiere Informationskreis: Wer hat die Information wann erhalten?
 
 ### Schritt 3 – Emittenten- oder Instrumentenbezug
 
 - Kläre, ob die Information sich unmittelbar auf den Emittenten oder sein Finanzinstrument bezieht
-  (z. B. Jahresergebnis) oder nur mittelbar (z. B. Rohstoffpreisanstieg).
+ (z. B. Jahresergebnis) oder nur mittelbar (z. B. Rohstoffpreisanstieg).
 - Bei Derivaten: Bezug auf Basiswert ausreichend.
 
 ### Schritt 4 – Kursrelevanz (Art. 7 Abs. 4 MAR)
 
 - Wende den „verständigen Anleger"-Test an: Würde ein rationaler Investor die Information bei
-  seiner Anlageentscheidung voraussichtlich nutzen?
+ seiner Anlageentscheidung voraussichtlich nutzen?
 - Kursrelevanz ist ex ante zu beurteilen, nicht nachträglich aus Kursbewegungen herzuleiten
-  (EuGH C-628/13 Lafonta: Keine Pflicht, eine Kursrichtung vorherzusagen).
+ (EuGH C-628/13 Lafonta: Keine Pflicht, eine Kursrichtung vorherzusagen).
 - Dokumentiere Marktumfeld, Branchenvergleich und Analystenpositionen als Hilfsindikatoren.
 
 ### Schritt 5 – Gesamtbewertung und Dokumentation
 
 - Erstelle tabellarischen Insidervermerk mit: Sachverhalt, geprüftes Merkmal, Norm, Subsumtion,
-  Gegenargument, Beleg, Zwischenergebnis.
+ Gegenargument, Beleg, Zwischenergebnis.
 - Benenne Unsicherheiten explizit; empfehle Nachprüfung durch Legal-Counsel falls unklar.
 - Bestimme, ob Veröffentlichungspflicht nach Art. 17 MAR ausgelöst wird, und übergebe ggf. an
-  Skill ins-003 (Ad-hoc) oder ins-004 (Aufschub).
+ Skill ins-003 (Ad-hoc) oder ins-004 (Aufschub).
 
 ## Red-Team-Fragen
 
 - Ist die Information wirklich präzise oder nur ein allgemeines Marktgespräch?
 - Wird Präzision mit Kursrelevanz verwechselt? Beide sind eigenständige Merkmale.
 - Wurde der Geltl/Daimler-Test auf Zwischenschritte im M&A oder Restrukturierungsprozess
-  konsequent angewendet?
+ konsequent angewendet?
 - Wurde Kursrelevanz ex ante beurteilt, nicht nachträglich aus Kursbewegungen hergeleitet?
 - Ist der Informationskreis vollständig dokumentiert?
 - Wurden alle betroffenen Finanzinstrumente (Aktien, Anleihen, Derivate) erfasst?
@@ -154,7 +154,7 @@ Compliance-Risiko, erst beim finalen Abschluss zu prüfen und frühere Schritte 
 ### Schritt 1 – Prozesskartierung
 
 - Erstelle eine chronologische Zeitleiste des Vorgangs mit allen wesentlichen Schritten:
-  Erstkontakt, NDA, indikatives Angebot, Due Diligence, LOI, Signing, Closing.
+ Erstkontakt, NDA, indikatives Angebot, Due Diligence, LOI, Signing, Closing.
 - Identifiziere alle Entscheidungsträger, die zu welchem Zeitpunkt Kenntnis erlangt haben.
 - Halte fest, wer intern und extern in den Prozess einbezogen ist.
 
@@ -163,45 +163,45 @@ Compliance-Risiko, erst beim finalen Abschluss zu prüfen und frühere Schritte 
 Prüfe für jeden identifizierten Zwischenschritt:
 a) Handelt es sich um eine konkrete Tatsache oder ein Ereignis (Präzision)?
 b) Ist der Eintritt des finalen Ereignisses aus Sicht des jeweiligen Zeitpunkts hinreichend
-   wahrscheinlich? (Kein Automatismus: 50 % genügen nicht stets, 90 % fast immer.)
+ wahrscheinlich? (Kein Automatismus: 50 % genügen nicht stets, 90 % fast immer.)
 c) Ist der Zwischenschritt selbst kursrelevant, weil ein verständiger Anleger ihn bei seiner
-   Investitionsentscheidung berücksichtigen würde?
+ Investitionsentscheidung berücksichtigen würde?
 d) Ist die Information noch nicht öffentlich?
 
 ### Schritt 3 – Erste Insiderinformation bestimmen
 
 - Identifiziere den frühestmöglichen Zeitpunkt, ab dem eine Insiderinformation vorlag.
 - Beachte: Bei einem M&A kann das Entscheidungsbegehren des Vorstands zur Aufnahme von
-  Gesprächen bereits eine Insiderinformation sein (vgl. BaFin-Emittentenleitfaden).
+ Gesprächen bereits eine Insiderinformation sein (vgl. BaFin-Emittentenleitfaden).
 - Dokumentiere Alternativszenarien und begründe die gewählte Einordnung.
 
 ### Schritt 4 – Folgehandlungen
 
 - Löse Insiderliste (Art. 18 MAR) für alle Wissensträger ab dem ersten Insiderinformations-
-  zeitpunkt aus.
+ zeitpunkt aus.
 - Prüfe Aufschub der Ad-hoc-Meldung nach Art. 17 Abs. 4 MAR: Sind die drei Aufschubvoraus-
-  setzungen (legitimes Interesse, keine Irreführung, Vertraulichkeit gewährbar) erfüllt?
+ setzungen (legitimes Interesse, keine Irreführung, Vertraulichkeit gewährbar) erfüllt?
 - Erstelle Aufschubakte und Leak-Überwachungsprotokoll.
 - Prüfe Handelsverbote für alle Insider (Art. 14 MAR, Art. 19 MAR Closed Periods).
 
 ### Schritt 5 – Ereignis-Trigger und Eskalation
 
 - Definiere im Voraus, bei welchem Ereignis der Aufschub endet und die Sofortveröffentlichung
-  ausgelöst wird (Signing, Board-Beschluss, Bekanntwerden in Medien).
+ ausgelöst wird (Signing, Board-Beschluss, Bekanntwerden in Medien).
 - Benenne eine verantwortliche Person (Compliance, CFO, IR) für die Auslösungsentscheidung.
 
 ## Red-Team-Fragen
 
 - Wurde bei jedem Prozessschritt eigenständig geprüft, ob bereits eine Insiderinformation vorlag?
 - Wurde der Geltl/Daimler-Test korrekt angewendet – insbesondere die Eintrittswahrscheinlichkeit
-  zeitpunktbezogen und nicht rückblickend beurteilt?
+ zeitpunktbezogen und nicht rückblickend beurteilt?
 - Ist die Insiderliste vom frühestmöglichen Zeitpunkt an gepflegt worden?
 - Wurden externe Berater (Banken, Kanzleien) in die Insiderliste aufgenommen?
 - Ist der Aufschub nach Art. 17 Abs. 4 MAR lückenlos dokumentiert?
 - Gibt es einen definierten Trigger für die Sofortveröffentlichung?
 - Wurden Handelsverbote für alle Wissensträger sichergestellt?
 - Wurde Market Sounding (Art. 11 MAR) korrekt angewendet, sofern potenzielle Investoren
-  sondiert wurden?
+ sondiert wurden?
 
 ## Ausgabeformat
 

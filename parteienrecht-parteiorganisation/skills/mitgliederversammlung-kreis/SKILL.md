@@ -8,7 +8,7 @@ description: "Erstellt Einladung zur Kreis-/Mitgliederversammlung mit Frist, Tag
 ## Aufgabe
 Erstellt Einladung zur Kreis-/Mitgliederversammlung mit Frist, Tagesordnung, Satzungsgrundlage und Nachweis.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -55,26 +55,26 @@ Rentabilitaetskennzahlen zeigen, wie effizient ein Unternehmen Kapital einsetzt.
 
 ```
 EIGENKAPITALRENDITE vor Steuern:
-  Jahresergebnis vor Steuern / Durchschnittliches Eigenkapital * 100
+ Jahresergebnis vor Steuern / Durchschnittliches Eigenkapital * 100
 
 EIGENKAPITALRENDITE nach Steuern:
-  Jahresueberschuss / Durchschnittliches Eigenkapital * 100
+ Jahresueberschuss / Durchschnittliches Eigenkapital * 100
 
 GESAMTKAPITALRENDITE (ROA, Return on Assets):
-  (Jahresergebnis vor Steuern + Zinsaufwand) / Durchschnittliche Bilanzsumme * 100
+ (Jahresergebnis vor Steuern + Zinsaufwand) / Durchschnittliche Bilanzsumme * 100
 
 RETURN ON INVESTMENT (ROI, DuPont):
-  Umsatzrentabilitaet * Kapitalumschlag
-  = (Gewinn/Umsatz) * (Umsatz/Bilanzsumme)
+ Umsatzrentabilitaet * Kapitalumschlag
+ = (Gewinn/Umsatz) * (Umsatz/Bilanzsumme)
 
 UMSATZRENTABILITAET:
-  Jahresergebnis / Umsatz * 100
+ Jahresergebnis / Umsatz * 100
 
 EBIT-MARGE:
-  EBIT / Umsatz * 100
+ EBIT / Umsatz * 100
 
 EBITDA-MARGE:
-  EBITDA / Umsatz * 100
+ EBITDA / Umsatz * 100
 ```
 
 ### Phase 3 — Schwellenwerte und Bewertung (Daumenregeln, branchenabhaengig)

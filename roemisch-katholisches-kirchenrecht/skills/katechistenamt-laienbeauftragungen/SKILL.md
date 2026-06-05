@@ -1,22 +1,22 @@
 ---
 name: katechistenamt-laienbeauftragungen
-description: "Nutze dies, wenn Katechistenamt Und Laienbeauftragungen, Katholische Kindererziehung, Katholische Soziallehre, Kirchenasyl Caritas Und Staat im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Katechistenamt Und Laienbeauftragungen, Katholische Kindererziehung, Katholische Soziallehre, Kirchenasyl Caritas Und Staat prüfen.; Erstelle eine Arbeitsfassung zu Katechistenamt Und Laienbeauftragungen, Katholische Kindererziehung, Katholische Soziallehre, Kirchenasyl Caritas Und Staat.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Katechistenamt Und Laienbeauftragungen, Katholische Kindererziehung, Katholische Soziallehre, Kirchenasyl Caritas Und Staat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Katechistenamt Und Laienbeauftragungen, Katholische Kindererziehung, Katholische Soziallehre, Kirchenasyl Caritas Und Staat
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Katechistenamt Und Laienbeauftragungen, Katholische Kindererziehung, Katholische Soziallehre, Kirchenasyl Caritas Und Staat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `katechistenamt-und-laienbeauftragungen` | Katechistenamt und Laienbeauftragungen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `katholische-kindererziehung` | Katholische Kindererziehung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `katholische-soziallehre` | Katholische Soziallehre: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kirchenasyl-caritas-und-staat` | Kirchenasyl, Caritas und Staat: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `katechistenamt-und-laienbeauftragungen` | Katechistenamt und Laienbeauftragungen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `katholische-kindererziehung` | Katholische Kindererziehung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `katholische-soziallehre` | Katholische Soziallehre: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchenasyl-caritas-und-staat` | Kirchenasyl, Caritas und Staat: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Katechistenamt Und Laienbeauftragungen, Katholische Kindererziehung, Kath
 
 ## 1. `katechistenamt-und-laienbeauftragungen`
 
-**Fokus:** Katechistenamt und Laienbeauftragungen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Katechistenamt und Laienbeauftragungen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Katechistenamt und Laienbeauftragungen
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `katholische-kindererziehung`
 
-**Fokus:** Katholische Kindererziehung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Katholische Kindererziehung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Katholische Kindererziehung
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `katholische-soziallehre`
 
-**Fokus:** Katholische Soziallehre: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Katholische Soziallehre: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Katholische Soziallehre
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `kirchenasyl-caritas-und-staat`
 
-**Fokus:** Kirchenasyl, Caritas und Staat: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchenasyl, Caritas und Staat: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchenasyl, Caritas und Staat
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

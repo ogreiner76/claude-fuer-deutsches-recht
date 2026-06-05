@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Energierecht und Netzregulierung (EnWG)
-Ressort:            BMWE
-Kernnormen:         EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.
-Akteure/Aufsicht:   Bundesnetzagentur; Bundeskartellamt; Laender-Energieregulierer; BMWE Abteilung Energie.
-EU/Voelkerrecht:    Strom- und Gasbinnenmarktpakete; ACER; NetCode.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwe; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Energierecht und Netzregulierung (EnWG)
+Ressort: BMWE
+Kernnormen: EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.
+Akteure/Aufsicht: Bundesnetzagentur; Bundeskartellamt; Laender-Energieregulierer; BMWE Abteilung Energie.
+EU/Voelkerrecht: Strom- und Gasbinnenmarktpakete; ACER; NetCode.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

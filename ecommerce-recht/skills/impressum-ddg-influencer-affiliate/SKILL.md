@@ -1,13 +1,13 @@
 ---
 name: impressum-ddg-influencer-affiliate
-description: "Nutze dies, wenn Impressum Ddg Anbieterkennzeichnung, Influencer Affiliate Kennzeichnung Uwg, International Eu Verbraucherrecht Intake im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Impressum Ddg Anbieterkennzeichnung, Influencer Affiliate Kennzeichnung Uwg, International Eu Verbraucherrecht Intake prüfen.; Erstelle eine Arbeitsfassung zu Impressum Ddg Anbieterkennzeichnung, Influencer Affiliate Kennzeichnung Uwg, International Eu Verbraucherrecht Intake.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Impressum Ddg Anbieterkennzeichnung, Influencer Affiliate Kennzeichnung Uwg, International Eu Verbraucherrecht Intake: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Impressum Ddg Anbieterkennzeichnung, Influencer Affiliate Kennzeichnung Uwg, International Eu Verbraucherrecht Intake
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Impressum Ddg Anbieterkennzeichnung, Influencer Affiliate Kennzeichnung Uwg, International Eu Verbraucherrecht Intake** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `impressum-ddg-anbieterkennzeichnung` | Impressum DDG Anbieterkennzeichnung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `influencer-affiliate-kennzeichnung-uwg` | Influencer Affiliate Kennzeichnung UWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
-| `international-eu-verbraucherrecht-intake` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema International EU Verbraucherrecht Intake. |
+| `international-eu-verbraucherrecht-intake` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema International EU Verbraucherrecht Intake. |
 
 ## Arbeitsweg
 
@@ -61,22 +61,22 @@ Seit 14. Mai 2024 ist das Digitale-Dienste-Gesetz (DDG) in Kraft und ersetzt das
 - TDDDG (vormals TTDSG) – Datenschutz Telemedien.
 - § 3a UWG: Marktverhaltensregel – Verstoß abmahnbar.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Anbieterstatus.** Geschäftsmäßig in der Regel gegen Entgelt? Pflicht nach § 5 DDG.
 2. **Pflichtangaben § 5 DDG:**
-   - Name und Anschrift (bei juristischen Personen Vertretungsberechtigte).
-   - Schnelle elektronische Kontaktaufnahme (E-Mail-Adresse) und unmittelbare Kommunikation (Telefon oder Kontaktformular mit Zugang).
-   - Behörde, soweit Aufsicht (für regulierte Berufe).
-   - Handelsregister/Vereinsregister + Nummer.
-   - Umsatzsteuer-ID nach § 27a UStG oder Wirtschafts-Identifikationsnummer.
-   - Berufsspezifische Angaben (Kammer, Berufsbezeichnung, Staat, Berufsregeln).
+ - Name und Anschrift (bei juristischen Personen Vertretungsberechtigte).
+ - Schnelle elektronische Kontaktaufnahme (E-Mail-Adresse) und unmittelbare Kommunikation (Telefon oder Kontaktformular mit Zugang).
+ - Behörde, soweit Aufsicht (für regulierte Berufe).
+ - Handelsregister/Vereinsregister + Nummer.
+ - Umsatzsteuer-ID nach § 27a UStG oder Wirtschafts-Identifikationsnummer.
+ - Berufsspezifische Angaben (Kammer, Berufsbezeichnung, Staat, Berufsregeln).
 3. **Bei journalistisch-redaktionellem Inhalt** zusätzlich verantwortliche Person § 18 MStV.
 4. **Kommerzielle Kommunikation § 6 DDG:** Erkennbarkeit als Werbung, Identität, Bedingungen, Preise.
 5. **Erreichbarkeit.** Impressum maximal "zwei-Klicks-Regel" – BGH ständige Rechtsprechung.
 6. **Spezielle Telemedien.**
-   - Social-Media-Profile: Impressum via Link oder Direktangabe.
-   - Apps: Im App-Store-Impressum-Eintrag oder in der App selbst.
+ - Social-Media-Profile: Impressum via Link oder Direktangabe.
+ - Apps: Im App-Store-Impressum-Eintrag oder in der App selbst.
 7. **Plattformbetreiber:** DSA-Pflichten zusätzlich (Trusted Flagger, Notice-and-Action, Statement of Reasons).
 8. **Sanktionen.** Bußgelder § 26 DDG bis 50.000 EUR; UWG-Abmahnung.
 
@@ -198,7 +198,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `international-eu-verbraucherrecht-intake`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema International EU Verbraucherrecht Intake.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema International EU Verbraucherrecht Intake.
 
 # International EU Verbraucherrecht Intake
 

@@ -1,6 +1,6 @@
 ---
 name: rom-090-abschlussmemo-romanistische
-description: "Römisches Recht: Abschlussmemo Romanistische Tragfaehigkeit. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Abschlussmemo Romanistische Tragfaehigkeit. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Abschlussmemo Romanistische Tragfaehigkeit

@@ -55,12 +55,12 @@ Im Beweisantrag konkret:
 
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
-        Musterstrasse 1, 12345 Musterstadt,
-        zum Beweis dafuer, dass der Beklagte
-        am 12.3.2025 zwischen 10 und 11 Uhr
-        die Lieferung an der Adresse des
-        Klaegers entgegen genommen und
-        persoenlich quittiert hat.
+ Musterstrasse 1, 12345 Musterstadt,
+ zum Beweis dafuer, dass der Beklagte
+ am 12.3.2025 zwischen 10 und 11 Uhr
+ die Lieferung an der Adresse des
+ Klaegers entgegen genommen und
+ persoenlich quittiert hat.
 ```
 
 Ein vages Beweisthema "zum Sachverhalt" ist unzulaessig (Ausforschungs-Beweis-Verbot).

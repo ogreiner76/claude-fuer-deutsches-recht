@@ -1,13 +1,13 @@
 ---
 name: bea-notfall-bgb-675v-erstkontakt-mandant
-description: "Nutze dies, wenn Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant prüfen.; Erstelle eine Arbeitsfassung zu Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Phishing Bea Notfall Anwalt, Phishing Bgb 675v Grobfahrlaessig, Phishing Erstkontakt Mandant: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Phishing Bea Notfall Anwalt, Phishing Bgb 675V Grobfahrlaessig, Phishing Erstkontakt Mandant** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

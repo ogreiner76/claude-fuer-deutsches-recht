@@ -8,7 +8,7 @@ description: "Prüft Europawahl-Vorschläge, Bundes-/Landesliste, Vertreterversa
 ## Aufgabe
 Prüft Europawahl-Vorschläge, Bundes-/Landesliste, Vertreterversammlung, Formulare und Bundeswahlleiter-Kommunikation.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

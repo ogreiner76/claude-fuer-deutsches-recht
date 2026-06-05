@@ -1,13 +1,13 @@
 ---
 name: vowi-tempomessverfahren-bussgeldbescheid
-description: "Nutze dies, wenn Vowi Tempomessverfahren Fehlerquellen Spezial, Spezial Bussgeldbescheid Tatbestand Beweis Und Belege, Verkehrsowi Anhoerung Bussgeldbescheid im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Vowi Tempomessverfahren Fehlerquellen Spezial, Spezial Bussgeldbescheid Tatbestand Beweis Und Belege, Verkehrsowi Anhoerung Bussgeldbescheid prüfen.; Erstelle eine Arbeitsfassung zu Vowi Tempomessverfahren Fehlerquellen Spezial, Spezial Bussgeldbescheid Tatbestand Beweis Und Belege, Verkehrsowi Anhoerung Bussgeldbescheid.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vowi Tempomessverfahren Fehlerquellen Spezial, Bussgeldbescheid Tatbestand Beweis Und Belege, Verkehrsowi Anhoerung Bussgeldbescheid: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Vowi Tempomessverfahren Fehlerquellen Spezial, Spezial Bussgeldbescheid Tatbestand Beweis Und Belege, Verkehrsowi Anhoerung Bussgeldbescheid
+# Vowi Tempomessverfahren Fehlerquellen Spezial, Bussgeldbescheid Tatbestand Beweis Und Belege, Verkehrsowi Anhoerung Bussgeldbescheid
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vowi Tempomessverfahren Fehlerquellen Spezial, Bussgeldbescheid Tatbestand Beweis Und Belege, Verkehrsowi Anhoerung Bussgeldbescheid** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Vowi Tempomessverfahren Fehlerquellen Spezial, Spezial Bussgeldbescheid Tatbestand Beweis Und Belege, Verkehrsowi Anhoerung Bussgeldbescheid** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vowi Tempomessverfahren Fehlerquellen Spezial, Bussgeldbescheid Tatbestand Beweis Und Belege, Verkehrsowi Anhoerung Bussgeldbescheid** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -84,7 +84,7 @@ Dieser Skill gehoert zum Plugin `verkehrsowi-verteidiger`. Er ergaenzt die uebri
 # Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial bussgeldbescheid tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage / bussgeldbescheid tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** OWiG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -162,9 +162,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Anhoerungsbogen erhalten:
 ├─ EMPFEHLUNG: Nicht ausfullen, nicht zuruecksenden (Schweigen § 55 OWiG)
 ├─ Ausnahme: Fahreridentifikation offensichtlich aus anderen Quellen bekannt?
-│   └─ Dann kann Einlassung zur Sache sinnvoll sein (selten)
+│ └─ Dann kann Einlassung zur Sache sinnvoll sein (selten)
 └─ FALLFALLE: Unterschrift unter "Ich war der Fahrzeugfuehrer"
-    → gilt als Gestaendnis der Fahrereigenschaft → nicht unterschreiben!
+ → gilt als Gestaendnis der Fahrereigenschaft → nicht unterschreiben!
 ```
 
 ## Bussgeldbescheid — Pflichtinhalt nach § 66 OWiG

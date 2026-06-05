@@ -1,19 +1,19 @@
 ---
 name: kanzleitag-simulation-kanzlei
-description: "Nutze dies, wenn Kanzlei Allgemein Kanzleitag Simulation, Kanzlei Allgemein Kommandocenter im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Kanzleitag Simulation, Kanzlei Allgemein Kommandocenter prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Kanzleitag Simulation, Kanzlei Allgemein Kommandocenter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kanzlei Allgemein Kanzleitag Simulation, Kanzlei Allgemein Kommandocenter, Neue Sache, Mach Klage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kanzlei Allgemein Kanzleitag Simulation, Kanzlei Allgemein Kommandocenter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Allgemein Kanzleitag Simulation, Kanzlei Allgemein Kommandocenter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `kanzlei-allgemein-kanzleitag-simulation` | Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-Workflow vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart. |
+| `kanzlei-allgemein-kanzleitag-simulation` | Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart. |
 | `kanzlei-allgemein-kommandocenter` | Schnellstart und Command Center für Kanzlei-Allgemein-Plugin. Erkennt aus einem Satz den passenden Kanzlei-Workflow, routet zu Mandatsannahme GwG Klage Replik Vertrag Rechtsprechung beA Fristen Rechnung Buchhaltung HR UStVA oder Simulation, stellt nur die nötigsten Rückfragen und erzeugt eine Freigabeampel. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Kanzlei Allgemein Kanzleitag Simulation, Kanzlei Allgemein Kommandocenter
 
 ## 1. `kanzlei-allgemein-kanzleitag-simulation`
 
-**Fokus:** Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-Workflow vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart.
+**Fokus:** Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart.
 
 # Kanzleitag-Simulation
 
@@ -111,7 +111,7 @@ Wenn Mandatsannahme oder GwG nicht echt angebunden ist, an `kanzlei-allgemein-ma
 
 ## Zweck
 
-Dieser Skill ist die schnelle Oberfläche des Plugins. Er verhindert, dass Nutzer erst wissen müssen, welcher Spezialskill passt. Aus einem Satz, einer Datei oder einem chaotischen Eingang entsteht eine klare Arbeitskarte mit nächstem Schritt, passenden Skills und Freigabeampel.
+Dieser Skill ist die schnelle Oberfläche des Plugins. Er verhindert, dass Nutzer erst wissen müssen, welcher Fachmodul passt. Aus einem Satz, einer Datei oder einem chaotischen Eingang entsteht eine klare Arbeitskarte mit nächstem Schritt, passenden Skills und Freigabeampel.
 
 ## Grundregel
 
@@ -122,7 +122,7 @@ Erst Tempo, dann Tiefe:
 3. maximal drei Rückfragen stellen.
 4. sofort eine Arbeitskarte erzeugen.
 5. `kanzlei-allgemein-look-and-feel` anwenden, wenn eine sichtbare Dashboard-, Status- oder Startausgabe entsteht.
-6. an den passenden Spezialskill übergeben.
+6. an den passenden Fachmodul übergeben.
 
 Nicht alle Checklisten auf einmal öffnen. Nur die Checkliste verwenden, die den nächsten Arbeitsschritt wirklich freischaltet.
 
@@ -170,7 +170,7 @@ Immer mit dieser Struktur starten:
 
 | Akte | Ampel | Frist | Nächste Aktion |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| | | | |
 
 ## Jetzt
 
@@ -185,7 +185,7 @@ Immer mit dieser Struktur starten:
 - Nicht mit 20 Fragen beginnen.
 - Fehlendes als `TODO` markieren.
 - Unsichere Nutzer mit einem konkreten Vorschlag führen.
-- Bei Profis knapper werden und direkt an die Spezialskills übergeben.
+- Bei Profis knapper werden und direkt an die Fachmodule übergeben.
 
 ## Übergabe
 

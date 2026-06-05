@@ -13,9 +13,9 @@ Erstes Forderungsschreiben aus Skill `forderungsschreiben-erste-stufe` ist verse
 
 ```
 Betreff: Mahnung — Forderung Ausgleichszahlung gemäß Art. 7 VO (EG)
-         Nr. 261/2004 — Flug [Flugnummer] vom [Datum]
-         Buchungscode [PNR]
-         Mein voriges Schreiben vom [Datum erste Stufe]
+ Nr. 261/2004 — Flug [Flugnummer] vom [Datum]
+ Buchungscode [PNR]
+ Mein voriges Schreiben vom [Datum erste Stufe]
 
 Sehr geehrte Damen und Herren,
 
@@ -24,35 +24,35 @@ geantwortet]. Die hierin gestellten Forderungen sind weiterhin offen.
 
 Zu Ihrer ablehnenden Begründung [bei Ablehnung]:
 
-  "[Zitat Airline-Begründung]"
+ "[Zitat Airline-Begründung]"
 
 Diese Begründung verfaengt nicht. Bei [technischer Defekt / Streik der
 eigenen Mitarbeiter / Crew-Engpass / sonstige Standardausrede] handelt es
 sich nach ständiger EuGH-Rechtsprechung regelmäßig NICHT um
 außergewöhnliche Umstaende im Sinn des Art. 5 Abs. 3 VO 261/2004:
 
-  Bei technischem Defekt: EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte sind grundsaetzlich Teil der normalen Tätigkeit eines Luftfahrtunternehmens.
-  [Volltext und Randnummer vor Versand in curia.europa.eu aufrufen
-   und passende Aktenzeichen-Linie ergaenzen — z.B. bei Streik der
-   eigenen Mitarbeiter EuGH-Linie, bei Personalmangel C-405/23
-   (16.5.2024), bei Vorverlegung C-394/23 (9.1.2025).]
+ Bei technischem Defekt: EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte sind grundsaetzlich Teil der normalen Tätigkeit eines Luftfahrtunternehmens.
+ [Volltext und Randnummer vor Versand in curia.europa.eu aufrufen
+ und passende Aktenzeichen-Linie ergaenzen — z.B. bei Streik der
+ eigenen Mitarbeiter EuGH-Linie, bei Personalmangel C-405/23
+ (16.5.2024), bei Vorverlegung C-394/23 (9.1.2025).]
 
 Die Beweislast für außergewöhnliche Umstaende und für die Ergreifung
 aller zumutbaren Maßnahmen liegt bei Ihnen.
 
 Ich setze hiermit eine letzte Frist zur Zahlung des offenen Betrags von
 
-  [Gesamtbetrag] EUR
-  zuzueglich Verzugszinsen seit [Datum erste Frist + 1] in Höhe von
-  5 Prozentpunkten über dem Basiszinssatz gemäß § 288 Abs. 1 BGB
+ [Gesamtbetrag] EUR
+ zuzueglich Verzugszinsen seit [Datum erste Frist + 1] in Höhe von
+ 5 Prozentpunkten über dem Basiszinssatz gemäß § 288 Abs. 1 BGB
 
 bis spaetestens [Datum + 10 Tage].
 
 Sollten Sie die Zahlung nicht fristgerecht leisten werde ich:
 
-  a) die Schlichtungsstelle für den öffentlichen Personenverkehr SOEP
-     anrufen — kostenfrei für Verbraucher,
-  b) anschliessend Klage zum zuständigen Amtsgericht erheben.
+ a) die Schlichtungsstelle für den öffentlichen Personenverkehr SOEP
+ anrufen — kostenfrei für Verbraucher,
+ b) anschliessend Klage zum zuständigen Amtsgericht erheben.
 
 Im Klagefall werden Sie zudem die Gerichtskosten Anwaltskosten und alle
 ueberfälligen Verzugszinsen zu tragen haben. Die sachliche Zuständigkeit

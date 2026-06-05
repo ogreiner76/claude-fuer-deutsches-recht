@@ -1,6 +1,6 @@
 ---
 name: immobiliendarlehen-fehlerkatalog
-description: "Nutze dies, wenn Immobiliendarlehen Fehlerkatalog im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Immobiliendarlehen Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Immobiliendarlehen Fehlerkatalog

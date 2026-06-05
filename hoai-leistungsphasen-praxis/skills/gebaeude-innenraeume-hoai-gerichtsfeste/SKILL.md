@@ -1,13 +1,13 @@
 ---
 name: gebaeude-innenraeume-hoai-gerichtsfeste
-description: "Nutze dies, wenn Hoai Gebaeude Innenraeume Anlage 10, Hoai Gerichtsfeste Akte, Hoai Gesamtschuld Bgb 650T im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Gebaeude Innenraeume Anlage 10, Hoai Gerichtsfeste Akte, Hoai Gesamtschuld Bgb 650T prüfen.; Erstelle eine Arbeitsfassung zu Hoai Gebaeude Innenraeume Anlage 10, Hoai Gerichtsfeste Akte, Hoai Gesamtschuld Bgb 650T.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Gebaeude Innenraeume Anlage 10, Hoai Gerichtsfeste Akte, Hoai Gesamtschuld Bgb 650t: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Gebaeude Innenraeume Anlage 10, Hoai Gerichtsfeste Akte, Hoai Gesamtschuld Bgb 650T
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Gebaeude Innenraeume Anlage 10, Hoai Gerichtsfeste Akte, Hoai Gesamtschuld Bgb 650T** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -32,7 +32,7 @@ Für **Hoai Gebaeude Innenraeume Anlage 10, Hoai Gerichtsfeste Akte, Hoai Gesamt
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **prüft speziell Leistungsbild Gebäude und Innenräume nach § 34 HOAI und Anlage 10** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **prüft speziell Leistungsbild Gebäude und Innenräume nach § 34 HOAI und Anlage 10** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -62,7 +62,7 @@ Dieser Querschnitts-Skill bearbeitet **prüft speziell Leistungsbild Gebäude un
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **macht aus Projektdaten eine Prozessakte mit Belegpfad und Zeugenliste** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **macht aus Projektdaten eine Prozessakte mit Belegpfad und Zeugenliste** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -92,7 +92,7 @@ Dieser Querschnitts-Skill bearbeitet **macht aus Projektdaten eine Prozessakte m
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **ordnet Haftung Architekt/Bauunternehmer und Vorrang der Nacherfüllung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **ordnet Haftung Architekt/Bauunternehmer und Vorrang der Nacherfüllung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 

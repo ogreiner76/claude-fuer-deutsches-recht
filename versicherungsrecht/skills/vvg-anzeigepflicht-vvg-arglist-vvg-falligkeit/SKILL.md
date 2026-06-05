@@ -1,13 +1,13 @@
 ---
 name: vvg-anzeigepflicht-vvg-arglist-vvg-falligkeit
-description: "Nutze dies, wenn Vvg Anzeigepflicht 19 Rücktritt Kündigung Anpassung, Vvg Arglist Taeuschung Anfechtung, Vvg Falligkeit 14 Abschlagszahlung im Plugin Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vvg Anzeigepflicht 19 Rücktritt Kündigung Anpassung, Vvg Arglist Taeuschung Anfechtung, Vvg Falligkeit 14 Abschlagszahlung prüfen.; Erstelle eine Arbeitsfassung zu Vvg Anzeigepflicht 19 Rücktritt Kündigung Anpassung, Vvg Arglist Taeuschung Anfechtung, Vvg Falligkeit 14 Abschlagszahlung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vvg Anzeigepflicht 19 Rücktritt Kündigung Anpassung, Vvg Arglist Taeuschung Anfechtung, Vvg Falligkeit 14 Abschlagszahlung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vvg Anzeigepflicht 19 Rücktritt Kündigung Anpassung, Vvg Arglist Taeuschung Anfechtung, Vvg Falligkeit 14 Abschlagszahlung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vvg Anzeigepflicht 19 Rücktritt Kündigung Anpassung, Vvg Arglist Taeuschung Anfechtung, Vvg Falligkeit 14 Abschlagszahlung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: syndizierte-kredite-tokenisierung-security
-description: "Nutze dies, wenn Syndizierte Kredite Agent Security Trustee, Tokenisierung Security Token Mica Mifid, Trade Finance Sanctions Lc Guarantee, Travel Rule Krypto Transfers, Verwahrung Kryptowerte Bank Custody im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Syndizierte Kredite Agent Security Trustee, Tokenisierung Security Token Mica Mifid, Trade Finance Sanctions Lc Guarantee, Travel Rule Krypto Transfers: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Syndizierte Kredite Agent Security Trustee, Tokenisierung Security Token Mica Mifid, Trade Finance Sanctions Lc Guarantee, Travel Rule Krypto Transfers, Verwahrung Kryptowerte Bank Custody
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Syndizierte Kredite Agent Security Trustee, Tokenisierung Security Token Mica Mifid, Trade Finance Sanctions Lc Guarantee, Travel Rule Krypto Transfers, Verwahrung Kryptowerte Bank Custody** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

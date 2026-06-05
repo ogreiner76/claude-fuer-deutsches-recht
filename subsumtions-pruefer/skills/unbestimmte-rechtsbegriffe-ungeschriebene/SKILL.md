@@ -1,13 +1,13 @@
 ---
 name: unbestimmte-rechtsbegriffe-ungeschriebene
-description: "Nutze dies, wenn Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung prüfen.; Erstelle eine Arbeitsfassung zu Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Unbestimmte Rechtsbegriffe Prüfen, Ungeschriebene Merkmale Judikatur, Ziel Und Rechtsweg Bestimmung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -66,9 +66,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ```
 Welche Interessen stehen auf dem Spiel?
 ├─ Wirtschaftliche Interessen des Einen vs. Persönlichkeitsrechte des Anderen
-│  → Abwägung; Schwere des Eingriffs maßgebend
+│ → Abwägung; Schwere des Eingriffs maßgebend
 └─ Beider wirtschaftliche Interessen
-   → Verhältnismäßigkeit im engeren Sinne
+ → Verhältnismäßigkeit im engeren Sinne
 ```
 
 ### "Geeignet"
@@ -253,15 +253,15 @@ Das Ziel bestimmt den Rechtsweg, die Verfahrensart, die Klageart und letztlich d
 ```
 Ist eine Behörde beteiligt?
 ├─ Ja → Handlung hoheitlich?
-│       ├─ Ja → VwGO / SGG / FGO (je nach Sachgebiet)
-│       │       ├─ Sozialversicherung → SGG
-│       │       ├─ Steuer → FGO
-│       │       └─ sonst öffentl. Recht → VwGO
-│       └─ Nein → ordentliche Gerichtsbarkeit (Fiskusprivileg ausnahmsweise)
+│ ├─ Ja → VwGO / SGG / FGO (je nach Sachgebiet)
+│ │ ├─ Sozialversicherung → SGG
+│ │ ├─ Steuer → FGO
+│ │ └─ sonst öffentl. Recht → VwGO
+│ └─ Nein → ordentliche Gerichtsbarkeit (Fiskusprivileg ausnahmsweise)
 └─ Nein → ZPO (ordentliche Gerichtsbarkeit)
-          ├─ Schiedsklausel vorhanden? → §§ 1025 ff. ZPO
-          ├─ Arbeitssache? → ArbGG
-          └─ Familiensache? → FamFG
+ ├─ Schiedsklausel vorhanden? → §§ 1025 ff. ZPO
+ ├─ Arbeitssache? → ArbGG
+ └─ Familiensache? → FamFG
 ```
 
 ## Vorverfahren und Fristen

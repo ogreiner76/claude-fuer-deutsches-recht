@@ -1,13 +1,13 @@
 ---
 name: verl-marketplace-verl-titelschutz
-description: "Nutze dies, wenn Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname prüfen.; Erstelle eine Arbeitsfassung zu Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 014 Marketplace Haendler Amazon Und Preisdisziplin, Verl 015 Titelschutz Werktitel Und Reihenname** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

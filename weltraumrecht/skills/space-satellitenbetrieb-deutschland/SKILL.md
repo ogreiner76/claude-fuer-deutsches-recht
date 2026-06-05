@@ -1,13 +1,13 @@
 ---
 name: space-satellitenbetrieb-deutschland
-description: "Nutze dies, wenn Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt im Plugin Weltraumrecht konkret bearbeitet werden soll. Auslöser: Bitte Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt prüfen.; Erstelle eine Arbeitsfassung zu Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

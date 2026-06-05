@@ -1,13 +1,13 @@
 ---
 name: dsv-pressemitteilung-krisenkommunikation
-description: "Nutze dies, wenn Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Bitte Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien prüfen.; Erstelle eine Arbeitsfassung zu Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72h: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72H, Dsv Art 9 Besondere Kategorien** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -341,26 +341,26 @@ Verantwortlicher: [Unternehmen]
 Auftragsverarbeiter: [Forensik-Dienstleister]
 
 1. Gegenstand: Sicherung und Analyse digitaler Beweismittel
-   im Zusammenhang mit Sicherheitsvorfall vom [Datum].
+ im Zusammenhang mit Sicherheitsvorfall vom [Datum].
 
 2. Weisungsgebundenheit: Dienstleister handelt ausschliesslich
-   nach Weisung des Verantwortlichen.
+ nach Weisung des Verantwortlichen.
 
 3. Vertraulichkeit: Alle im Rahmen des Auftrags erlangten
-   Informationen sind streng vertraulich zu behandeln.
+ Informationen sind streng vertraulich zu behandeln.
 
 4. Technische und organisatorische Massnahmen: Dienstleister
-   wendet mindestons die in Anlage 1 beschriebenen TOMs an.
+ wendet mindestons die in Anlage 1 beschriebenen TOMs an.
 
 5. Sub-Verarbeiter: Nur mit vorheriger schriftlicher Zustimmung.
 
 6. Rueckgabe/Loeschung: Nach Abschluss des Auftrags werden
-   alle personenbezogenen Daten unverzueglich zurueckgegeben
-   oder geloescht, soweit keine gesetzliche Aufbewahrungspflicht
-   entgegensteht.
+ alle personenbezogenen Daten unverzueglich zurueckgegeben
+ oder geloescht, soweit keine gesetzliche Aufbewahrungspflicht
+ entgegensteht.
 
 7. Chain of Custody: Alle Beweismittel werden mit Hash-Werten
-   gesichert und lueckenlos protokolliert.
+ gesichert und lueckenlos protokolliert.
 ```
 
 --- vor Versand klaeren ---

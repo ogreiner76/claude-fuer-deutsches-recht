@@ -1,13 +1,13 @@
 ---
 name: ki-tool-legal-tech-mandatskuendigung-unzeit
-description: "Nutze dies, wenn Anwälte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwälte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwälte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwälte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwälte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwälte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwälte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwälte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwälte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwälte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaelte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwaelte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwaelte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwaelte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwälte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwälte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwälte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Ki Tool In Der Kanzlei Rechtsprechungscheck Und Red Te, Anwälte Legal Tech Rdg Grenze Rechtsprechungscheck Und Red Tea, Anwälte Mandatskuendigung Zur Unzeit Rechtsprechungscheck Und, Anwälte Robe Werbung Und Gerichtstermin Rechtsprechungscheck U** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

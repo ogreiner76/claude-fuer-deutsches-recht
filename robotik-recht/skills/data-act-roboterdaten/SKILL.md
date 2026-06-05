@@ -38,7 +38,7 @@ Der Data Act (VO (EU) 2023/2854) ist seit 11.01.2024 in Kraft und gilt überwieg
 - **GeschGehG** §§ 1, 17 GeschGehG / VO Trade Secrets (RL (EU) 2016/943).
 - **VO (EU) 2024/1689 (KI-VO)** Art. 10 zur Datenqualität.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Klassifizierung.** Ist der Roboter "connected product"? Sind Daten "produktgenerierte Daten" oder rein abgeleitete?
 2. **Datenkatalog.** Welche Datenarten entstehen? Welche sind schon heute Bestandteil des Datenmodells?

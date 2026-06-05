@@ -1,6 +1,6 @@
 ---
 name: rom-062-juristen-paulus
-description: "Römisches Recht: Juristen Paulus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Juristen Paulus. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Juristen Paulus

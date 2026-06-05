@@ -1,13 +1,13 @@
 ---
 name: mediation-settlement-meeting-creditors
-description: "Nutze dies, wenn Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality im Plugin Us Bankruptcy Code konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-apothekenrecht
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart Apothekenrecht."
+description: "Nutze dies zum Einstieg in Kaltstart Apothekenrecht: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart Apothekenrecht

@@ -1,13 +1,13 @@
 ---
 name: faevvollzug-abschlussschreiben-lizenzanaloger
-description: "Nutze dies, wenn Workflow Redteam Qualitygate, Faevvollzug Neu 006 Abschlussschreiben Kosten Und Frist, Spezial Lizenzanaloger Fristennotiz Und Naechster Schritt im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Redteam Qualitygate, Faevvollzug Abschlussschreiben Kosten Und Frist, Lizenzanaloger Fristennotiz Und Naechster Schritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Redteam Qualitygate, Faevvollzug Neu 006 Abschlussschreiben Kosten Und Frist, Spezial Lizenzanaloger Fristennotiz Und Naechster Schritt
+# Redteam Qualitygate, Faevvollzug Abschlussschreiben Kosten Und Frist, Lizenzanaloger Fristennotiz Und Naechster Schritt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Redteam Qualitygate, Faevvollzug Abschlussschreiben Kosten Und Frist, Lizenzanaloger Fristennotiz Und Naechster Schritt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Redteam Qualitygate, Faevvollzug Neu 006 Abschlussschreiben Kosten Und Frist, Spezial Lizenzanaloger Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Redteam Qualitygate, Faevvollzug Abschlussschreiben Kosten Und Frist, Lizenzanaloger Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Workflow Redteam Qualitygate, Faevvollzug Neu 006 Abschlussschreiben Kost
 # Red-Team und Qualitätsgate
 
 ## Aufgabe
-Dieser Workflow-Skill führt ein systematisches Red-Team-Review durch: Er sucht Schwächen, Lücken und logische Fehler in Arbeitsprodukten, bevor sie nach außen gehen oder für Entscheidungen verwendet werden.
+Dieser Arbeitsmodul führt ein systematisches Red-Team-Review durch: Er sucht Schwächen, Lücken und logische Fehler in Arbeitsprodukten, bevor sie nach außen gehen oder für Entscheidungen verwendet werden.
 
 ## Warum Red-Team im IP-Recht?
 
@@ -125,7 +125,7 @@ Ein Arbeitsprodukt wird freigegeben, wenn:
 | 🟡 Gelb | 1–2 Punkte offen; Nacharbeit nötig, aber kein K.O.-Kriterium |
 | 🔴 Rot | K.O.-Kriterium offen (z.B. Schutzrecht abgelaufen; keine eV); Dokument nicht freigeben |
 
-## Kaltstart
+## Einstieg
 1. Welches Dokument soll reviewed werden (Abmahnung / EV-Antrag / Schriftsatz / Memo / Vergleich)?
 2. Liegt das Dokument als Text vor?
 3. Gibt es bereits bekannte Schwachstellen?
@@ -188,9 +188,9 @@ Das Abschlussschreiben fordert den Unterlassungsschuldner nach Erlass und Vollzi
 ## Muster-Abschlussschreiben
 
 ```
-[Briefkopf Kanzlei]                              [Ort, Datum]
+[Briefkopf Kanzlei] [Ort, Datum]
 
-An [Schuldner / Rechtsanwalt der Gegenseite]      - Per Einschreiben/Rückschein -
+An [Schuldner / Rechtsanwalt der Gegenseite] - Per Einschreiben/Rückschein -
 
 Abschlussschreiben gemäß Beschluss des [Gericht] vom [Datum], Az. [Az.]
 
@@ -238,7 +238,7 @@ Mit freundlichen Grüßen
 | Widerspruch erhoben | Mündliche Verhandlung § 925 ZPO; Aufhebungsrisiko prüfen |
 | Gegenansprüche auf Aufhebung geltend gemacht | Abwägung: Vergleich vs. Hauptsacheklage |
 
-## Kaltstart
+## Einstieg
 1. Ist die EV vollzogen und die Vollziehungsfrist gewahrt?
 2. Liegt ein Widerspruch der Gegenseite vor?
 3. Soll das Abschlussschreiben jetzt versandt werden?
@@ -300,9 +300,9 @@ Dieser Skill behandelt den lizenzanalogen Schadensersatz als bevorzugte Methode 
 ### Schritt 2: Lizenzsatz recherchieren
 
 - Branchenübliche Lizenzsätze:
-  - In Deutschland keine einheitliche Datenbank; Vergleichslizenzverträge oder Sachverständige.
-  - Orientierung: DPMA-Lizenzstatistiken, Branchenverbände, Rechercheberichte.
-  - **Keine pauschalen Modellzahlen nutzen; branchenspezifische Recherche erforderlich.**
+ - In Deutschland keine einheitliche Datenbank; Vergleichslizenzverträge oder Sachverständige.
+ - Orientierung: DPMA-Lizenzstatistiken, Branchenverbände, Rechercheberichte.
+ - **Keine pauschalen Modellzahlen nutzen; branchenspezifische Recherche erforderlich.**
 - Eigenart / Bekanntheit der Marke / des Patents erhöhen den Satz.
 - Niedrige Marktstellung: niedrigerer Satz.
 
@@ -310,9 +310,9 @@ Dieser Skill behandelt den lizenzanalogen Schadensersatz als bevorzugte Methode 
 
 ```
 Lizenzanaloger Schaden =
-  Anzahl der verletzenden Einheiten (oder Umsatz des Verletzers)
-  × marktüblicher Lizenzsatz (%)
-  + Zinsen (§ 288 BGB: 5 % über Basiszinssatz)
+ Anzahl der verletzenden Einheiten (oder Umsatz des Verletzers)
+ × marktüblicher Lizenzsatz (%)
+ + Zinsen (§ 288 BGB: 5 % über Basiszinssatz)
 ```
 
 ### Schritt 4: Auskunft erwirken (§ 19 MarkenG / § 140b PatG etc.)
@@ -349,7 +349,7 @@ zu machen (§ [14 Abs. 6 MarkenG / 139 Abs. 2 PatG / 97 Abs. 2 UrhG]).
 [Kanzlei]
 ```
 
-## Kaltstart
+## Einstieg
 1. In welchem Stadium befindet sich das Verfahren (Unterlassung gesichert / noch ausstehend)?
 2. Welche Informationen über Umfang der Verletzung liegen vor?
 3. Welche Methode der Schadensberechnung ist sinnvoll?

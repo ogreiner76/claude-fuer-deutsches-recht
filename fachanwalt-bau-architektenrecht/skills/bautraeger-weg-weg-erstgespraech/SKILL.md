@@ -1,13 +1,13 @@
 ---
 name: bautraeger-weg-weg-erstgespraech
-description: "Nutze dies, wenn Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt prüfen.; Erstelle eine Arbeitsfassung zu Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bautraeger Weg Instandhaltungsruecklage Uebergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bautraeger Weg Instandhaltungsruecklage Übergabe, Bautraeger Weg Teilungserklaerung Prüfen, Erstgespraech Mandatsannahme, Fachanwalt Bau Architektenrecht Abnahme Mit Vorbehalt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -314,7 +314,7 @@ Weitere Entscheidungen vor Verwendung per dejure.org / BGH-Webseite verifizieren
 
 ## Prüfschema — Abnahme und ihre Rechtswirkungen
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Folge |
@@ -409,15 +409,15 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 ABNAHMEPROTOKOLL
-Bauvorhaben:  [Bezeichnung]
-LV-Nummer:    [Nr.]
-Datum:        [Datum], [Uhrzeit] Uhr
-Ort:          [Baustelle]
+Bauvorhaben: [Bezeichnung]
+LV-Nummer: [Nr.]
+Datum: [Datum], [Uhrzeit] Uhr
+Ort: [Baustelle]
 Anwesende:
-  Auftraggeber:   [Name, Funktion]
-  Auftragnehmer:  [Name, Funktion]
-  Architekt:      [Name, Büro]
-  SV (falls):     [Name]
+ Auftraggeber: [Name, Funktion]
+ Auftragnehmer: [Name, Funktion]
+ Architekt: [Name, Büro]
+ SV (falls): [Name]
 
 I. GEGENSTAND DER ABNAHME
 Gewerk [Bezeichnung] gemäß Leistungsverzeichnis vom [Datum],
@@ -428,40 +428,40 @@ Das Werk wird hiermit nach § 640 BGB abgenommen.
 Folgende Mängel wurden festgestellt und sind zur Nachbesserung
 in der angegebenen Frist zu beseitigen:
 
-Lfd. | Raum/Lokalisation | Mangelbeschreibung          | Frist
-1.   | [Raum/Bauteil]   | [Beschreibung]              | [Datum]
-2.   | [Raum/Bauteil]   | [Beschreibung]              | [Datum]
-3.   | [Raum/Bauteil]   | [Beschreibung]              | [Datum]
+Lfd. | Raum/Lokalisation | Mangelbeschreibung | Frist
+1. | [Raum/Bauteil] | [Beschreibung] | [Datum]
+2. | [Raum/Bauteil] | [Beschreibung] | [Datum]
+3. | [Raum/Bauteil] | [Beschreibung] | [Datum]
 
 III. VORBEHALTE
 1. Mängelvorbehalt § 640 Abs. 3 BGB
-   Hinsichtlich der vorstehend aufgeführten Mängel wird
-   ausdrücklich Vorbehalt nach § 640 Abs. 3 BGB erklärt.
-   Die Mängelrechte nach § 634 BGB bleiben in vollem Umfang
-   vorbehalten.
+ Hinsichtlich der vorstehend aufgeführten Mängel wird
+ ausdrücklich Vorbehalt nach § 640 Abs. 3 BGB erklärt.
+ Die Mängelrechte nach § 634 BGB bleiben in vollem Umfang
+ vorbehalten.
 
 2. Vertragsstrafenvorbehalt § 341 Abs. 3 BGB
-   Hinsichtlich der Vertragsstrafe wegen Überschreitung des
-   vereinbarten Fertigstellungstermins [Datum] wird Vorbehalt
-   nach § 341 Abs. 3 BGB erklärt.
-   [Hinweis: Vertragsstrafe nach § 339 BGB wird gesondert
-   geltend gemacht.]
+ Hinsichtlich der Vertragsstrafe wegen Überschreitung des
+ vereinbarten Fertigstellungstermins [Datum] wird Vorbehalt
+ nach § 341 Abs. 3 BGB erklärt.
+ [Hinweis: Vertragsstrafe nach § 339 BGB wird gesondert
+ geltend gemacht.]
 
 3. Einbehalt § 641 Abs. 3 BGB
-   Die Schlusszahlung wird um den doppelten Betrag der
-   voraussichtlichen Mängelbeseitigungskosten (EUR [Betrag] × 2
-   = EUR [Einbehalt]) bis zur vollständigen Nacherfüllung
-   einbehalten.
+ Die Schlusszahlung wird um den doppelten Betrag der
+ voraussichtlichen Mängelbeseitigungskosten (EUR [Betrag] × 2
+ = EUR [Einbehalt]) bis zur vollständigen Nacherfüllung
+ einbehalten.
 
 IV. FRISTEN
-Schlussrechnung:    bis [Datum] einzureichen
-Zahlungsfrist:      [Datum]
-Verjährung Mängel:  [Datum = Abnahme + 5 Jahre BGB / + 4 Jahre VOB/B]
+Schlussrechnung: bis [Datum] einzureichen
+Zahlungsfrist: [Datum]
+Verjährung Mängel: [Datum = Abnahme + 5 Jahre BGB / + 4 Jahre VOB/B]
 
 UNTERSCHRIFTEN
-Auftraggeber:    ............................  Datum: ..............
-Auftragnehmer:   ............................  Datum: ..............
-Architekt:       ............................  Datum: ..............
+Auftraggeber: ............................ Datum: ..............
+Auftragnehmer: ............................ Datum: ..............
+Architekt: ............................ Datum: ..............
 ```
 
 ### Fristsetzung zur Abnahme (fiktive Abnahme § 640 Abs. 2 BGB)
@@ -507,8 +507,8 @@ wir verweigern die Abnahme der Werkleistung für Gewerk
 [Bezeichnung] wegen folgender wesentlicher Mängel:
 
 1. [Mangelbezeichnung] — Lokalisation: [Bauteil]
-   Auswirkung: [Erläuterung Wesentlichkeit]
-   Grundlage: Verstoß gegen [DIN/vereinbarte Beschaffenheit]
+ Auswirkung: [Erläuterung Wesentlichkeit]
+ Grundlage: Verstoß gegen [DIN/vereinbarte Beschaffenheit]
 
 2. [Mangelbezeichnung] — [...]
 

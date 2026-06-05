@@ -1,13 +1,13 @@
 ---
 name: vowi-bussgeldbescheid-verkehrsowi-quality
-description: "Nutze dies, wenn Vowi Bussgeldbescheid Prüfung Bauleiter, Verkehrsowi Kommandocenter, Verkehrsowi Quality Gate im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Vowi Bussgeldbescheid Prüfung Bauleiter, Verkehrsowi Kommandocenter, Verkehrsowi Quality Gate prüfen.; Erstelle eine Arbeitsfassung zu Vowi Bussgeldbescheid Prüfung Bauleiter, Verkehrsowi Kommandocenter, Verkehrsowi Quality Gate.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vowi Bussgeldbescheid Prüfung Bauleiter, Verkehrsowi Kommandocenter, Verkehrsowi Quality Gate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vowi Bussgeldbescheid Prüfung Bauleiter, Verkehrsowi Kommandocenter, Verkehrsowi Quality Gate
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vowi Bussgeldbescheid Prüfung Bauleiter, Verkehrsowi Kommandocenter, Verkehrsowi Quality Gate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `vowi-bussgeldbescheid-pruefung-bauleiter` | Bauleiter Pruefung Bussgeldbescheid OWiG: Tatvorwurf, Beweismittel, Hoehe, Rechtsfolgen Punkte und Fahrverbot. Pruefraster fuer Verteidiger im Erstgespraech. |
 | `verkehrsowi-kommandocenter` | Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Prüfraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi mit Fristen-Ampel und Routing-Empfehlung. Abgrenzung: Alkohol/Drogen siehe verkehrsowi-alkohol-drogen-24a; Rotlicht/Abstand/Handy siehe verkehrsowi-rotlicht-abstand-handy. |
-| `verkehrsowi-quality-gate` | Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Spezialskills; Gesamtsteuerung siehe verkehrsowi-kommandocenter. |
+| `verkehrsowi-quality-gate` | Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Fachmodule; Gesamtsteuerung siehe verkehrsowi-kommandocenter. |
 
 ## Arbeitsweg
 
@@ -92,8 +92,8 @@ Einstiegspunkt fuer alle OWi-Mandate im Verkehrsrecht. Erfasst Kontext, bewertet
 **Drei kritische Fragen zuerst:**
 
 1. **Fristlage:** Wann wurde der Bussgeldbescheid zugestellt? Einspruchsfrist § 67 Abs. 1 OWiG: 2 Wochen ab Zustellung.
-   - Frist offen → Einspruch sofort, dann vertiefen
-   - Frist abgelaufen → Wiedereinsetzung § 52 OWiG pruefen
+ - Frist offen → Einspruch sofort, dann vertiefen
+ - Frist abgelaufen → Wiedereinsetzung § 52 OWiG pruefen
 
 2. **OWi oder Strafrecht?** — Grenzwert: § 24a Abs. 1 StVG (0,5 Promille OWi) vs. § 316 StGB (ab 1,1 Promille oder Ausfallerscheinung = Strafrecht!); Geschwindigkeit: OWi immer.
 
@@ -157,7 +157,7 @@ Einstiegspunkt fuer alle OWi-Mandate im Verkehrsrecht. Erfasst Kontext, bewertet
 
 ## 3. `verkehrsowi-quality-gate`
 
-**Fokus:** Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Spezialskills; Gesamtsteuerung siehe verkehrsowi-kommandocenter.
+**Fokus:** Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Fachmodule; Gesamtsteuerung siehe verkehrsowi-kommandocenter.
 
 # Quality Gate — OWi-Mandat
 
@@ -165,7 +165,7 @@ Einstiegspunkt fuer alle OWi-Mandate im Verkehrsrecht. Erfasst Kontext, bewertet
 
 ```
 □ Einspruchsfrist § 67 Abs. 1 OWiG berechnet und noch offen?
-   Zustellungsdatum: [DATUM] + 14 Tage = Fristende: [DATUM]
+ Zustellungsdatum: [DATUM] + 14 Tage = Fristende: [DATUM]
 □ Vollmacht des Betroffenen liegt vor?
 □ Bussgeldbescheid auf Pflichtinhalt § 66 OWiG geprueft?
 □ OWi oder Strafrecht? (Grenzwert BAK § 316 StGB vs. § 24a StVG)

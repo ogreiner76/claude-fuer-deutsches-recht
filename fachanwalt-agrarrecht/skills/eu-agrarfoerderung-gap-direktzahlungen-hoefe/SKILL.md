@@ -1,20 +1,20 @@
 ---
 name: eu-agrarfoerderung-gap-direktzahlungen-hoefe
-description: "Nutze dies, wenn Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe im Plugin Fachanwalt Agrarrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Uebergabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direktzahlungen Antrag, Fachanwalt Agrarrecht Hoefe Übergabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-agrarrecht-eu-agrarfoerderung` | Workflow-Skill zu fachanwalt agrarrecht eu agrarfoerderung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` | Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Workflow Vorprüfung Risiko-Check Antragstellung Einspruch. |
+| `fachanwalt-agrarrecht-eu-agrarfoerderung` | Arbeitsmodul zu fachanwalt agrarrecht eu agrarfoerderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` | Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Vorprüfung Risiko-Check Antragstellung Einspruch. |
 | `fachanwalt-agrarrecht-hoefe-uebergabe` | Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbedürftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit. |
 
 ## Arbeitsweg
@@ -26,7 +26,7 @@ Für **Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direk
 
 ## 1. `fachanwalt-agrarrecht-eu-agrarfoerderung`
 
-**Fokus:** Workflow-Skill zu fachanwalt agrarrecht eu agrarfoerderung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt agrarrecht eu agrarfoerderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # EU-Agrarförderung
 
@@ -61,7 +61,7 @@ Für **Fachanwalt Agrarrecht Eu Agrarfoerderung, Fachanwalt Agrarrecht Gap Direk
 
 ```
 1. Foerderprogramm identifizieren (Direktzahlung / OEko-Regelung /
-   ELER)
+ ELER)
 2. Antragsvoraussetzungen (aktive Landwirt Mindestflaeche)
 3. Konditionalitaet GLOEZ + GAB pruefen
 4. Behauptete Verstoesse — schuldhaft / unverschuldet?
@@ -94,13 +94,13 @@ behaupteter Verstoesse gegen GLOEZ-Standards [Nr.] und GAB [Nr.].
 
 2. Rechtswidrigkeit:
 a) Der Verstoss laesst sich nicht feststellen — die im Vor-Ort-
-   Kontrollprotokoll vom [Datum] dokumentierte Beobachtung war
-   wetterbedingt nicht repraesentativ.
+ Kontrollprotokoll vom [Datum] dokumentierte Beobachtung war
+ wetterbedingt nicht repraesentativ.
 b) Hilfsweise hoehere Gewalt Art. 3 VO 2021/2116 — am Kontrolltag lag
-   [Extremwetterereignis] vor (Anlage K1 Wetterdaten DWD).
+ [Extremwetterereignis] vor (Anlage K1 Wetterdaten DWD).
 c) Verhaeltnismaessigkeit der Sanktion — die festgesetzte 5%-Kuerzung
-   ist nicht durch Art. 85 VO 2021/2116 gedeckt; allenfalls 1 % bei
-   geringfuegigem unverschuldetem Verstoss.
+ ist nicht durch Art. 85 VO 2021/2116 gedeckt; allenfalls 1 % bei
+ geringfuegigem unverschuldetem Verstoss.
 
 3. Antrag:
 Wir beantragen den Bescheid aufzuheben und die Direktzahlungen in
@@ -139,7 +139,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-agrarrecht-gap-direktzahlungen-antrag`
 
-**Fokus:** Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Workflow Vorprüfung Risiko-Check Antragstellung Einspruch.
+**Fokus:** Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Vorprüfung Risiko-Check Antragstellung Einspruch.
 
 # Sammelantrag GAP-Direktzahlungen
 
@@ -314,9 +314,9 @@ Notarieller Hofesvertrag (UR-Nr.: [...])
 
 I. Vertragsparteien
 1. Uebergeber: [Name Anschrift] Eigentuemer des im Grundbuch von [Ort]
-   Blatt [Nr] eingetragenen Hofes Gemarkung [...] Flurstuecke [...]
+ Blatt [Nr] eingetragenen Hofes Gemarkung [...] Flurstuecke [...]
 2. Uebernehmer: [Name Anschrift] — Sohn/Tochter des Uebergebers,
-   Hoferbe nach § 4 HoefeO
+ Hoferbe nach § 4 HoefeO
 
 II. Hofesgegenstand
 Der Hof umfasst saemtliche Grundstuecke gemaess Anlage K1

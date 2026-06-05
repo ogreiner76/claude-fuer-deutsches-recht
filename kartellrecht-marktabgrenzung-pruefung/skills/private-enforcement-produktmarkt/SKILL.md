@@ -1,22 +1,22 @@
 ---
 name: private-enforcement-produktmarkt
-description: "Nutze dies, wenn Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging, Raeumlicher Markt Abgrenzung im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging, Raeumlicher Markt Abgrenzung prüfen.; Erstelle eine Arbeitsfassung zu Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging, Raeumlicher Markt Abgrenzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging, Raeumlicher Markt Abgrenzung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Produktmarkt Nachfragesubstitution, Public Procurement Bid Rigging, Raeumlicher Markt Abgrenzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `private-enforcement-damages-global` | Private Enforcement und Kartellschaden: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Follow-on, Stand-alone, Passing-on, Disclosure, Verjährung und Vergleich prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `private-enforcement-damages-global` | Private Enforcement und Kartellschaden: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Follow-on, Stand-alone, Passing-on, Disclosure, Verjährung und Vergleich prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `produktmarkt-angebotsumstellung` | Prüft angebotsseitige Substitution (Supply-Side Substitution): Kann ein anderer Anbieter kurzfristig und ohne erhebliche Kosten auf den relevanten Markt wechseln? Bewertet Umstellungskosten regulatorische Anforderungen Zertifizierungen und Zeitaufwand. Grenzt Supply-Side Substitution vom potenziellen Wettbewerb ab. |
 | `produktmarkt-nachfragesubstitution` | Kernschritt jeder Marktabgrenzung: sachlicher Markt aus Nachfragersicht bestimmen. Prüft funktionale Austauschbarkeit Preisreagibilitaet qualitative Unterschiede Verwendungszweck Bedarfsdeckungsaequivalenz. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Prüfraster Verallgemeinerungsannahmen fehlende Differenzierungen nach Kundensegmenten SSNIP-Test. Output Nachfragesubstitutions-Memo mit Marktdefinition und Argument-Schwachstellen-Liste. Abgrenzung: produktmarkt-angebotsumstellung für Supply-Side-Perspektive. |
-| `public-procurement-bid-rigging` | Bid Rigging und Vergabe: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Bietergemeinschaft, Subcontracting, Angebotsmuster, Selbstreinigung und Schadensersatz prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `public-procurement-bid-rigging` | Bid Rigging und Vergabe: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Bietergemeinschaft, Subcontracting, Angebotsmuster, Selbstreinigung und Schadensersatz prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `raeumlicher-markt-abgrenzung` | Prüft den räumlich relevanten Markt: national europaeisch global. Analysiert Preisstrukturen Transportkosten regulatorische Unterschiede Homogenitaetsannahmen Handelsstroeme und Arbitragemoeaeglichkeiten. Bewertet ob nationale Marktdefinition europarechtskonform oder globalere Abgrenzung geboten ist. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Private Enforcement Damages Global, Produktmarkt Angebotsumstellung, Prod
 
 ## 1. `private-enforcement-damages-global`
 
-**Fokus:** Private Enforcement und Kartellschaden: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Follow-on, Stand-alone, Passing-on, Disclosure, Verjährung und Vergleich prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Private Enforcement und Kartellschaden: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Follow-on, Stand-alone, Passing-on, Disclosure, Verjährung und Vergleich prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Private Enforcement und Kartellschaden
 
@@ -134,10 +134,10 @@ Zu prüfen:
 
 ```
 Anbieter X (Produkt Y):
-  Umstellungskosten: [gering / mittel / hoch]
-  Zeitbedarf: [< 6 Monate / 6–12 Monate / > 12 Monate]
-  Regulatorische Hürden: [keine / überwindbar / prohibitiv]
-  Ergebnis: [Supply-Side einbeziehbar / nicht einbeziehbar]
+ Umstellungskosten: [gering / mittel / hoch]
+ Zeitbedarf: [< 6 Monate / 6–12 Monate / > 12 Monate]
+ Regulatorische Hürden: [keine / überwindbar / prohibitiv]
+ Ergebnis: [Supply-Side einbeziehbar / nicht einbeziehbar]
 ```
 
 ## Zwischenergebnis
@@ -231,7 +231,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `public-procurement-bid-rigging`
 
-**Fokus:** Bid Rigging und Vergabe: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Bietergemeinschaft, Subcontracting, Angebotsmuster, Selbstreinigung und Schadensersatz prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Bid Rigging und Vergabe: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Bietergemeinschaft, Subcontracting, Angebotsmuster, Selbstreinigung und Schadensersatz prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Bid Rigging und Vergabe
 

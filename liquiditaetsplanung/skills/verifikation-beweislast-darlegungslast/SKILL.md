@@ -1,6 +1,6 @@
 ---
 name: verifikation-beweislast-darlegungslast
-description: "Nutze dies, wenn Verifikation: Beweislast, Darlegungslast und Substantiierung im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Verifikation: Beweislast, Darlegungslast und Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Verifikation: Beweislast, Darlegungslast und Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verifikation: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Verifikation: Beweislast, Darlegungslast und Substantiierung

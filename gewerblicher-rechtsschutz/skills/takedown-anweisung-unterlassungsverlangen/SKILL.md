@@ -1,13 +1,13 @@
 ---
 name: takedown-anweisung-unterlassungsverlangen
-description: "Nutze dies, wenn Takedown Anweisung, Unterlassungsverlangen, Verletzungs Triage im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Takedown Anweisung, Unterlassungsverlangen, Verletzungs Triage prüfen.; Erstelle eine Arbeitsfassung zu Takedown Anweisung, Unterlassungsverlangen, Verletzungs Triage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Takedown Anweisung, Unterlassungsverlangen, Verletzungs Triage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Takedown Anweisung, Unterlassungsverlangen, Verletzungs Triage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Takedown Anweisung, Unterlassungsverlangen, Verletzungs Triage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -142,28 +142,28 @@ DSA Art. 16 Plattformen: Meldung über das behördlich bereitgestellte Formular 
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  VOR DEM VERSAND DIESER MELDUNG                             │
+│ VOR DEM VERSAND DIESER MELDUNG │
 ├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Eine Notice-and-Take-Down-Meldung hat unmittelbare         │
-│  rechtliche Wirkung. Unberechtigt eingereichte Meldungen    │
-│  können Schadensersatzansprüche des Diensteanbieters        │
-│  oder des betroffenen Nutzers auslösen (§§ 823, 826 BGB;   │
-│  Art. 17 Abs. 8 DSA für Missbrauch des Meldeverfahrens).   │
-│                                                             │
-│  Vor dem Versand bestätigen:                                │
-│                                                             │
-│    1. Sie sind Rechtsinhaber oder bevollmächtigt.           │
-│    2. Die beanstandete Nutzung ist nicht gestattet —        │
-│       Lizenzen, Schranken und Gestattungen wurden           │
-│       geprüft.                                              │
-│    3. Schranken (§§ 44a ff. UrhG, insb. Zitat § 51,        │
-│       Parodie § 51a) sind nicht einschlägig.                │
-│    4. Die versendende Person hat Genehmigung gemäß          │
-│       Mandatsprofil.                                        │
-│                                                             │
-│  Genehmigung gemäß Mandatsprofil: [Genehmigende Person]    │
-│                                                             │
+│ │
+│ Eine Notice-and-Take-Down-Meldung hat unmittelbare │
+│ rechtliche Wirkung. Unberechtigt eingereichte Meldungen │
+│ können Schadensersatzansprüche des Diensteanbieters │
+│ oder des betroffenen Nutzers auslösen (§§ 823, 826 BGB; │
+│ Art. 17 Abs. 8 DSA für Missbrauch des Meldeverfahrens). │
+│ │
+│ Vor dem Versand bestätigen: │
+│ │
+│ 1. Sie sind Rechtsinhaber oder bevollmächtigt. │
+│ 2. Die beanstandete Nutzung ist nicht gestattet — │
+│ Lizenzen, Schranken und Gestattungen wurden │
+│ geprüft. │
+│ 3. Schranken (§§ 44a ff. UrhG, insb. Zitat § 51, │
+│ Parodie § 51a) sind nicht einschlägig. │
+│ 4. Die versendende Person hat Genehmigung gemäß │
+│ Mandatsprofil. │
+│ │
+│ Genehmigung gemäß Mandatsprofil: [Genehmigende Person] │
+│ │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -287,30 +287,30 @@ Bei DSA-Plattformen: Beschwerdemechanismus nach Art. 20 DSA nutzen; ggf. außerg
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  VOR DEM VERSAND DIESER GEGENVORSTELLUNG                    │
+│ VOR DEM VERSAND DIESER GEGENVORSTELLUNG │
 ├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Eine Gegenvorstellung bestreitet die Berechtigung          │
-│  der ursprünglichen Meldung und kann den Absender zu        │
-│  rechtlichen Schritten veranlassen.                         │
-│                                                             │
-│  • Bei Eskalation durch den Absender: Klage auf             │
-│    Unterlassung oder Schadensersatz nach § 97 UrhG          │
-│    möglich.                                                 │
-│                                                             │
-│  • DSA Art. 20: Beschwerde bei Plattform möglich.           │
-│    Art. 21: Außergerichtliche Streitbeilegung verfügbar.    │
-│                                                             │
-│  Vor dem Versand bestätigen:                                │
-│    1. Guter Glaube besteht — Lizenz, Schranke oder          │
-│       fehlendes Recht des Absenders ist konkret             │
-│       benennbar.                                            │
-│    2. Anwalt hat diese Gegenvorstellung vor dem             │
-│       Versand geprüft.                                      │
-│    3. Genehmigung gemäß Mandatsprofil liegt vor.            │
-│                                                             │
-│  Genehmigung gemäß Mandatsprofil: [Genehmigende Person]    │
-│                                                             │
+│ │
+│ Eine Gegenvorstellung bestreitet die Berechtigung │
+│ der ursprünglichen Meldung und kann den Absender zu │
+│ rechtlichen Schritten veranlassen. │
+│ │
+│ • Bei Eskalation durch den Absender: Klage auf │
+│ Unterlassung oder Schadensersatz nach § 97 UrhG │
+│ möglich. │
+│ │
+│ • DSA Art. 20: Beschwerde bei Plattform möglich. │
+│ Art. 21: Außergerichtliche Streitbeilegung verfügbar. │
+│ │
+│ Vor dem Versand bestätigen: │
+│ 1. Guter Glaube besteht — Lizenz, Schranke oder │
+│ fehlendes Recht des Absenders ist konkret │
+│ benennbar. │
+│ 2. Anwalt hat diese Gegenvorstellung vor dem │
+│ Versand geprüft. │
+│ 3. Genehmigung gemäß Mandatsprofil liegt vor. │
+│ │
+│ Genehmigung gemäß Mandatsprofil: [Genehmigende Person] │
+│ │
 └─────────────────────────────────────────────────────────────┘
 ```
 

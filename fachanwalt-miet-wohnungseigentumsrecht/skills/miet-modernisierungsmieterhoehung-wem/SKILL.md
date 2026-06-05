@@ -1,13 +1,13 @@
 ---
 name: miet-modernisierungsmieterhoehung-wem
-description: "Nutze dies, wenn Miet Modernisierungsmieterhoehung Leitfaden, Miet Wem Bauliche Veraenderung Spezial, Mietrecht Modernisierung Und Erhalt, Milieuschutz Und Genehmigung Veraendert, Schriftsatzkern Substantiierung im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Miet Modernisierungsmieterhoehung Leitfaden, Miet Wem Bauliche Veraenderung Spezial, Mietrecht Modernisierung Und Erhalt, Milieuschutz Und Genehmigung Veraendert, Schriftsatzkern Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Miet Modernisierungsmieterhoehung Leitfaden, Miet Wem Bauliche Veraenderung Spezial, Mietrecht Modernisierung Und Erhalt, Milieuschutz Und Genehmigung Veraendert, Schriftsatzkern Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Miet Modernisierungsmieterhoehung Leitfaden, Miet Wem Bauliche Veraenderung Spezial, Mietrecht Modernisierung Und Erhalt, Milieuschutz Und Genehmigung Veraendert: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Miet Modernisierungsmieterhoehung Leitfaden, Miet Wem Bauliche Veraenderung Spezial, Mietrecht Modernisierung Und Erhalt, Milieuschutz Und Genehmigung Veraendert, Schriftsatzkern Substantiierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Miet Modernisierungsmieterhoehung Leitfaden, Miet Wem Bauliche Veraenderung Spezial, Mietrecht Modernisierung Und Erhalt, Milieuschutz Und Genehmigung Veraendert, Schriftsatzkern Substantiierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -536,7 +536,7 @@ wegen Räumung und Herausgabe
 
 Anträge:
 1. Die Beklagte wird verurteilt, die Wohnung [ANSCHRIFT, LAGE, QM] zu räumen
-   und geräumt an den Kläger herauszugeben.
+ und geräumt an den Kläger herauszugeben.
 2. Hilfsweise: Feststellung des Endes des Mietverhältnisses zum [DATUM].
 
 Begründung:

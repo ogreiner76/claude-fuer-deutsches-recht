@@ -1,12 +1,12 @@
 ---
 name: ethik
-description: "Nutze dies, wenn Ethik: Abschlussprodukt und Übergabe im Plugin Dfg Foerderantrag konkret bearbeitet werden soll. Auslöser: Bitte Ethik: Abschlussprodukt und Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Ethik: Abschlussprodukt und Übergabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ethik: Abschlussprodukt und Übergabe: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Ethik: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Ethik: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Ethik: Abschlussprodukt und Übergabe / spezial ethik abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ethik: Abschlussprodukt und Übergabe / ethik abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFG, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

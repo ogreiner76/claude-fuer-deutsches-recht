@@ -1,13 +1,13 @@
 ---
 name: berufung-sta-beweisantraege-stpo
-description: "Nutze dies, wenn Berufung Sta Einlegen Und Begrenzen, Beweisantraege 244 Stpo Reagieren, Beweisverwertungsverbote Sta, Btmg Kcang Mischfaelle, Btmg Kcang Sitzungsdienst im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Berufung Sta Einlegen Und Begrenzen, Beweisantraege 244 Stpo Reagieren, Beweisverwertungsverbote Sta, Btmg Kcang Mischfaelle, Btmg Kcang Sitzungsdienst prüfen.; Erstelle eine Arbeitsfassung zu Berufung Sta Einlegen Und Begrenzen, Beweisantraege 244 Stpo Reagieren, Beweisverwertungsverbote Sta, Btmg Kcang Mischfaelle, Btmg Kcang Sitzungsdienst.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Berufung Sta Einlegen Und Begrenzen, Beweisantraege 244 Stpo Reagieren, Beweisverwertungsverbote Sta, Btmg Kcang Mischfaelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Berufung Sta Einlegen Und Begrenzen, Beweisantraege 244 Stpo Reagieren, Beweisverwertungsverbote Sta, Btmg Kcang Mischfaelle, Btmg Kcang Sitzungsdienst
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Berufung Sta Einlegen Und Begrenzen, Beweisantraege 244 Stpo Reagieren, Beweisverwertungsverbote Sta, Btmg Kcang Mischfaelle, Btmg Kcang Sitzungsdienst** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Beschwer, Ziel, Beschränkung, Frist und Sitzungsstrategie
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -94,7 +94,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Ablehnungsgründe, Amtsaufklärung, Verfahrensfairness und Protokollkontrolle
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -193,7 +193,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Cannabis, Betäubungsmittel, Wirkstoffgutachten, minder schwere Fälle und Einziehung
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

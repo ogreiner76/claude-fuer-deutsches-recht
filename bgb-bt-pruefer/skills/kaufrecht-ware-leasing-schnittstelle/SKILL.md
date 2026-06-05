@@ -1,13 +1,13 @@
 ---
 name: kaufrecht-ware-leasing-schnittstelle
-description: "Nutze dies, wenn Kaufrecht Ware Mit Digitalen Elementen 475B, Leasing Bgb Bt Schnittstelle, Mietrecht Mangel Minderung im Plugin Bgb Bt Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Kaufrecht Ware Mit Digitalen Elementen 475B, Leasing Bgb Bt Schnittstelle, Mietrecht Mangel Minderung prüfen.; Erstelle eine Arbeitsfassung zu Kaufrecht Ware Mit Digitalen Elementen 475B, Leasing Bgb Bt Schnittstelle, Mietrecht Mangel Minderung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kaufrecht Ware Mit Digitalen Elementen 475b, Leasing Bgb Bt Schnittstelle, Mietrecht Mangel Minderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kaufrecht Ware Mit Digitalen Elementen 475B, Leasing Bgb Bt Schnittstelle, Mietrecht Mangel Minderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kaufrecht Ware Mit Digitalen Elementen 475B, Leasing Bgb Bt Schnittstelle, Mietrecht Mangel Minderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

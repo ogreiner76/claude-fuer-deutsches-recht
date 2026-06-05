@@ -1,6 +1,6 @@
 ---
 name: beirat-budget-und-businessplan
-description: "Nutze dies, wenn Beirat Budget Und Businessplan im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Budget Und Businessplan prüfen.; Erstelle eine Arbeitsfassung zu Beirat Budget Und Businessplan.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Budget Und Businessplan: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Budget Und Businessplan

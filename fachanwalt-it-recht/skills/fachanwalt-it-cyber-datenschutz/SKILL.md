@@ -1,19 +1,19 @@
 ---
 name: fachanwalt-it-cyber-datenschutz
-description: "Nutze dies, wenn Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht Datenschutz Folgenabschaetzung, Fachanwalt It Recht Ki Vo Hochrisiko Konformitaetsbewertung, Fachanwalt It Recht Open Source Compliance Audit, Fachanwalt It Recht Orientierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` | Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Workflow Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung. |
+| `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` | Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung. |
 | `fachanwalt-it-recht-datenschutz-folgenabschaetzung` | Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Prüfraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Massnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung. |
 | `fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung` | KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art. 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konformitätserklarung. Normen KI-VO 2024/1689 Anhang III Hochrisiko-Liste Art. 48 CE-Kennzeichnung Art. 99 Bußgelder bis 35 Mio EUR Anwendbarkeit ab 2.8.2026. Prüfraster Risiko-Klassifikation Anhang-III-Prüfung Risikomanagement Daten-Governance Dokumentation Transparenz Cybersicherheit menschliche Aufsicht. Output Konformitätsbewertungsdossier mit Prüfergebnis Massnahmenplan und CE-Kennzeichnungsunterlage. Abgrenzung zu ki-governance-Plugin und fachanwalt-it-recht-datenschutz-folgenabschaetzung. |
 | `fachanwalt-it-recht-open-source-compliance-audit` | Open-Source-Software Compliance Audit für GPL LGPL MIT BSD Apache Copyleft und SBOM. Anwendungsfall Software-Produkt enthaelt Open-Source-Komponenten und Lizenzpflichten muessen vor Auslieferung geprüft werden. Normen GPL v2/v3 AGPL LGPL MIT Apache-2.0 Copyleft-Wirkung EU-Cyber-Resilienz-Act SBOM-Pflicht. Prüfraster Inventarisierung Komponentenliste Lizenzkonflikte permissiv vs. Copyleft SBOM-Erstellung Werkzeuge FOSSology BlackDuck. Output Compliance-Audit-Bericht mit Lizenzkarte Konflikten Bereinigungsplan und SBOM-Dokumentation. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen. |
@@ -28,7 +28,7 @@ Für **Fachanwalt It Recht Cyber Vorfall Sofortmassnahmen, Fachanwalt It Recht D
 
 ## 1. `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen`
 
-**Fokus:** Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Workflow Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung.
+**Fokus:** Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung.
 
 # Cyber-Vorfall-Sofortmaßnahmen
 
@@ -111,16 +111,16 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 Sofortmassnahmen Cyber-Vorfall — erste 2 Stunden
 
 1. Krisenteam informieren:
-   - IT-Leitung: [...]
-   - Datenschutzbeauftragter: [...]
-   - Geschaeftsfuehrung: [...]
-   - Anwalt: [...]
-   - Forensik-Dienstleister: [...]
+ - IT-Leitung: [...]
+ - Datenschutzbeauftragter: [...]
+ - Geschaeftsfuehrung: [...]
+ - Anwalt: [...]
+ - Forensik-Dienstleister: [...]
 
 2. Systeme NICHT abschalten — nur Netzwerk trennen:
-   - Switch-Port deaktivieren (IT)
-   - WLAN abschalten
-   - VPN-Zugaenge sperren
+ - Switch-Port deaktivieren (IT)
+ - WLAN abschalten
+ - VPN-Zugaenge sperren
 
 3. Keine Loesegeld-Zahlung ohne Anwaltsruecksprache.
 
@@ -136,7 +136,7 @@ Sofortmassnahmen Cyber-Vorfall — erste 2 Stunden
 ```
 An: [Landesdatenschutzbehoerde]
 Betreff: Meldung Verletzung Schutz personenbezogener Daten
-         gemaess Art. 33 DSGVO
+ gemaess Art. 33 DSGVO
 
 Verantwortlicher: [Unternehmen, Anschrift, DSB, Kontakt]
 Datum/Uhrzeit Kenntnis: [TT.MM.JJJJ HH:MM]
@@ -514,38 +514,38 @@ Nr.: [Erklaerungsnummer]
 Datum: [Ausstellungsdatum]
 
 1. Anbieter
-   Name: [Unternehmen]
-   Anschrift: [...]
-   EU-Repraesentant (falls Nicht-EU): [...]
+ Name: [Unternehmen]
+ Anschrift: [...]
+ EU-Repraesentant (falls Nicht-EU): [...]
 
 2. Beschreibung des KI-Systems
-   Bezeichnung: [Systemname]
-   Modell-Nummer / Version: [...]
-   Beabsichtigter Zweck: [Funktion, Sektor]
-   Hochrisiko-Tatbestand Anhang III Nr. [X]: [Beschreibung]
+ Bezeichnung: [Systemname]
+ Modell-Nummer / Version: [...]
+ Beabsichtigter Zweck: [Funktion, Sektor]
+ Hochrisiko-Tatbestand Anhang III Nr. [X]: [Beschreibung]
 
 3. Erklaerung der Konformitaet
-   Das oben beschriebene KI-System erfullt die Anforderungen der
-   Verordnung (EU) 2024/1689, insbesondere:
-   - Risikomanagementsystem Art. 9
-   - Daten-Governance Art. 10
-   - Technische Dokumentation Art. 11 (Anhang IV)
-   - Logging Art. 12
-   - Transparenz Art. 13
-   - Menschliche Aufsicht Art. 14
-   - Genauigkeit und Robustheit Art. 15
+ Das oben beschriebene KI-System erfullt die Anforderungen der
+ Verordnung (EU) 2024/1689, insbesondere:
+ - Risikomanagementsystem Art. 9
+ - Daten-Governance Art. 10
+ - Technische Dokumentation Art. 11 (Anhang IV)
+ - Logging Art. 12
+ - Transparenz Art. 13
+ - Menschliche Aufsicht Art. 14
+ - Genauigkeit und Robustheit Art. 15
 
 4. Konformitaetsbewertungsverfahren
-   [X] Interne Kontrolle gemaess Anhang VI
-   [ ] Benannte Stelle: [Name, Nummer] gemaess Anhang VII
-   Zertifikatsnummer (falls Benannte Stelle): [...]
+ [X] Interne Kontrolle gemaess Anhang VI
+ [ ] Benannte Stelle: [Name, Nummer] gemaess Anhang VII
+ Zertifikatsnummer (falls Benannte Stelle): [...]
 
 5. Harmonisierte Normen und technische Spezifikationen
-   [ISO 42001, ISO 27001, ...]
+ [ISO 42001, ISO 27001, ...]
 
 6. Unterzeichnung
-   Ort, Datum: [...]
-   Handlungsbevollmaechtigter: [Name, Funktion, Unterschrift]
+ Ort, Datum: [...]
+ Handlungsbevollmaechtigter: [Name, Funktion, Unterschrift]
 ```
 
 ### Anschreiben bei NCA-Anfrage (Marktüberwachung)
@@ -554,27 +554,27 @@ Datum: [Ausstellungsdatum]
 An: [Nationale Kompetenzbehoerde / Marktaufsichtsbehoerde]
 
 Betreff: KI-VO Hochrisiko-System [Systemname] —
-         Antwort auf Auskunftsverlangen vom [Datum]
+ Antwort auf Auskunftsverlangen vom [Datum]
 
 I. Systemidentifikation
-   [Name, Version, Anhang-III-Tatbestand]
+ [Name, Version, Anhang-III-Tatbestand]
 
 II. Konformitaetsstatus
-   CE-Kennzeichnung erteilt am [Datum]. EU-Konformitaets-
-   erklaerung liegt als Anlage bei. Technische Dokumentation
-   (Anhang IV) auf Anforderung bereit.
+ CE-Kennzeichnung erteilt am [Datum]. EU-Konformitaets-
+ erklaerung liegt als Anlage bei. Technische Dokumentation
+ (Anhang IV) auf Anforderung bereit.
 
 III. Risikomanagementsystem Art. 9
-   [Beschreibung des Lebenszyklus-Risikomanagements;
-   letzte Aktualisierung; verwendete Normen]
+ [Beschreibung des Lebenszyklus-Risikomanagements;
+ letzte Aktualisierung; verwendete Normen]
 
 IV. Nachmarkt-Monitoring Art. 72
-   [Monitoring-Konzept; bisher aufgetretene Vorfaelle: keine /
-   meldepflichtige Vorfaelle Art. 73: gemeldet am Datum]
+ [Monitoring-Konzept; bisher aufgetretene Vorfaelle: keine /
+ meldepflichtige Vorfaelle Art. 73: gemeldet am Datum]
 
 V. Kooperation
-   Wir stehen fuer weitere Auskuenfte zur Verfuegung und
-   benennen als Kontaktperson: [Name, E-Mail, Tel].
+ Wir stehen fuer weitere Auskuenfte zur Verfuegung und
+ benennen als Kontaktperson: [Name, E-Mail, Tel].
 
 Anlagen:
 - EU-Konformitaetserklaerung
@@ -699,15 +699,15 @@ Anbieter: [NAME] | Betreiber: [NAME]
 Anhang-III-Eintrag: Nr. [X] lit. [Y] — [BEZEICHNUNG]
 
 Anbieter-Pflichten-Status (Art. 16–20 KI-VO):
-| Pflicht                              | Norm     | Status     |
+| Pflicht | Norm | Status |
 |--------------------------------------|----------|------------|
-| Risikomanagement Art. 9              |          |            |
-| Daten-Governance Art. 10             |          |            |
-| Technische Dokumentation Art. 11     |          |            |
-| Aufzeichnungspflichten Art. 12       |          |            |
-| Transparenz/Betreiber-Info Art. 13   |          |            |
-| Menschliche Aufsicht Art. 14         |          |            |
-| Genauigkeit/Robustheit Art. 15       |          |            |
+| Risikomanagement Art. 9 | | |
+| Daten-Governance Art. 10 | | |
+| Technische Dokumentation Art. 11 | | |
+| Aufzeichnungspflichten Art. 12 | | |
+| Transparenz/Betreiber-Info Art. 13 | | |
+| Menschliche Aufsicht Art. 14 | | |
+| Genauigkeit/Robustheit Art. 15 | | |
 
 Konformitätsbewertung (Art. 43): interne Bewertung / Drittpartei-Notifizierte Stelle
 CE-Kennzeichnung (Art. 48): abgeschlossen / ausstehend
@@ -811,7 +811,7 @@ Prüfung der OSS-Lizenz-Konformität — vor Produkt-Launch, vor M&A-Due-Diligen
 - WhiteSource / Mend
 - Snyk
 
-## 6) Workflow Audit
+## 6) Audit
 
 ### Schritt 1 — Inventarisierung
 
@@ -913,11 +913,11 @@ Produkt/Projekt: [NAME, VERSION]
 Geprüft durch: [TOOL / PERSON]
 
 Lizenz-Inventar:
-| Komponente | Lizenz     | Copyleft | Verwendung | Status     |
+| Komponente | Lizenz | Copyleft | Verwendung | Status |
 |-----------|------------|----------|------------|------------|
-| [NAME]    | GPL-2.0    | stark    | distributiert | Lücke  |
-| [NAME]    | MIT        | nein     | intern     | OK         |
-| [NAME]    | AGPL-3.0   | netz     | SaaS       | Prüfen     |
+| [NAME] | GPL-2.0 | stark | distributiert | Lücke |
+| [NAME] | MIT | nein | intern | OK |
+| [NAME] | AGPL-3.0 | netz | SaaS | Prüfen |
 
 Kritische Befunde: [LISTE]
 Handlungsempfehlungen:

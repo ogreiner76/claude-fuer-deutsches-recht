@@ -1,13 +1,13 @@
 ---
 name: aufsichtsverfahren-anhoerung-gwg
-description: "Nutze dies, wenn Spezial Aufsichtsverfahren Anhoerung Massnahme, Spezial Aufsichtsverfahren Formular Portal Und Einreichung, Spezial Gwg Fristen Form Und Zustaendigkeit im Plugin Regulatorisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Aufsichtsverfahren Anhoerung Massnahme, Spezial Aufsichtsverfahren Formular Portal Und Einreichung, Spezial Gwg Fristen Form Und Zustaendigkeit prüfen.; Erstelle eine Arbeitsfassung zu Spezial Aufsichtsverfahren Anhoerung Massnahme, Spezial Aufsichtsverfahren Formular Portal Und Einreichung, Spezial Gwg Fristen Form Und Zustaendigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aufsichtsverfahren Anhoerung Massnahme, Aufsichtsverfahren Formular Portal Und Einreichung, Gwg Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Aufsichtsverfahren Anhoerung Massnahme, Spezial Aufsichtsverfahren Formular Portal Und Einreichung, Spezial Gwg Fristen Form Und Zustaendigkeit
+# Aufsichtsverfahren Anhoerung Massnahme, Aufsichtsverfahren Formular Portal Und Einreichung, Gwg Fristen Form Und Zustaendigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aufsichtsverfahren Anhoerung Massnahme, Aufsichtsverfahren Formular Portal Und Einreichung, Gwg Fristen Form Und Zustaendigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Aufsichtsverfahren Anhoerung Massnahme, Spezial Aufsichtsverfahren Formular Portal Und Einreichung, Spezial Gwg Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `regulatorisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Aufsichtsverfahren Anhoerung Massnahme, Aufsichtsverfahren Formular Portal Und Einreichung, Gwg Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `regulatorisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,11 +31,11 @@ Für **Spezial Aufsichtsverfahren Anhoerung Massnahme, Spezial Aufsichtsverfahre
 # Aufsichtsverfahren, Anhörung und Maßnahmebescheid
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `regulatorisches-recht`. Kontext des Plugins: Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `regulatorisches-recht`. Kontext des Plugins: Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -70,7 +70,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # Aufsichtsverfahren: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Aufsichtsverfahren: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Aufsichtsverfahren: Formular, Portal und Einreichungslogik / spezial aufsichtsverfahren formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aufsichtsverfahren: Formular, Portal und Einreichungslogik / aufsichtsverfahren formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, RDG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -111,7 +111,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # GwG: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: GwG: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** GwG: Fristen, Form, Zuständigkeit und Rechtsweg / spezial gwg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** GwG: Fristen, Form, Zuständigkeit und Rechtsweg / gwg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GwG, KWG, ZAG, WpHG, EnWG, TKG, HeilMWerbG, RDG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,22 +1,22 @@
 ---
 name: gmbh-ausschluss-blockade-einziehung
-description: "Nutze dies, wenn Gmbh Ausschluss, Gmbh Blockade, Gmbh Einziehung, Gmbh Geschaeftsfuehrerverguetung im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Gmbh Ausschluss, Gmbh Blockade, Gmbh Einziehung, Gmbh Geschaeftsfuehrerverguetung prüfen.; Erstelle eine Arbeitsfassung zu Gmbh Ausschluss, Gmbh Blockade, Gmbh Einziehung, Gmbh Geschaeftsfuehrerverguetung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gmbh Ausschluss, Gmbh Blockade, Gmbh Einziehung, Gmbh Geschaeftsfuehrerverguetung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gmbh Ausschluss, Gmbh Blockade, Gmbh Einziehung, Gmbh Geschaeftsfuehrerverguetung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gmbh Ausschluss, Gmbh Blockade, Gmbh Einziehung, Gmbh Geschaeftsfuehrerverguetung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `gmbh-ausschluss` | Gesellschaftsrechtliche Treuepflicht: Gmbh Ausschluss; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gmbh-blockade` | Gesellschaftsrechtliche Treuepflicht: Gmbh Blockade; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gmbh-einziehung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Einziehung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gmbh-geschaeftsfuehrerverguetung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Geschaeftsfuehrerverguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gmbh-ausschluss` | Gesellschaftsrechtliche Treuepflicht: Gmbh Ausschluss; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gmbh-blockade` | Gesellschaftsrechtliche Treuepflicht: Gmbh Blockade; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gmbh-einziehung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Einziehung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gmbh-geschaeftsfuehrerverguetung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Geschaeftsfuehrerverguetung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Gmbh Ausschluss, Gmbh Blockade, Gmbh Einziehung, Gmbh Geschaeftsfuehrerve
 
 ## 1. `gmbh-ausschluss`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Ausschluss; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Ausschluss; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Ausschluss
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `gmbh-blockade`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Blockade; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Blockade; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Blockade
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `gmbh-einziehung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Einziehung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Einziehung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Einziehung
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `gmbh-geschaeftsfuehrerverguetung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Geschaeftsfuehrerverguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Geschaeftsfuehrerverguetung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Geschaeftsfuehrerverguetung
 

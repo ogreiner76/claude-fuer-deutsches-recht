@@ -1,13 +1,13 @@
 ---
 name: inv-accounting-inv-cyber
-description: "Nutze dies, wenn Inv 032 Accounting Irregularity, Inv 033 Cyber Incident im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 032 Accounting Irregularity, Inv 033 Cyber Incident prüfen.; Erstelle eine Arbeitsfassung zu Inv 032 Accounting Irregularity, Inv 033 Cyber Incident.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Inv 032 Accounting Irregularity, Inv 033 Cyber Incident: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Inv 032 Accounting Irregularity, Inv 033 Cyber Incident
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Inv 032 Accounting Irregularity, Inv 033 Cyber Incident** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

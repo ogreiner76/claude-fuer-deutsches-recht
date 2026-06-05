@@ -1,19 +1,19 @@
 ---
 name: betreuer-registrierung-betreuung
-description: "Nutze dies, wenn Betreuer Als Erbe, Betreuer Registrierung, Betreuung Anwaltskosten Rvg im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Betreuer Als Erbe, Betreuer Registrierung, Betreuung Anwaltskosten Rvg prüfen.; Erstelle eine Arbeitsfassung zu Betreuer Als Erbe, Betreuer Registrierung, Betreuung Anwaltskosten Rvg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betreuer Als Erbe, Betreuer Registrierung, Betreuung Anwaltskosten Rvg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Betreuer Als Erbe, Betreuer Registrierung, Betreuung Anwaltskosten Rvg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Betreuer Als Erbe, Betreuer Registrierung, Betreuung Anwaltskosten Rvg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `betreuer-als-erbe` | Workflow-Skill zu betreuer als erbe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `betreuer-als-erbe` | Arbeitsmodul zu betreuer als erbe: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `betreuer-registrierung` | Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der Betreuerregistrierungsverordnung. Behandelt Sachkundenachweis (270 Stunden, Anerkennung für Volljuristen und Sozialarbeiter), Berufshaftpflicht 250000 EUR pro Fall und 1000000 EUR jaehrlich, Eignungsgespraech bei der Stammbehoerde, Vergueturung nach VBVG, Bestandsbetreuer-Übergangsregelung Paragraph 32 BtOG, Subsidiaritaetsprinzip Paragraph 1816 Abs. 5 BGB. Verwenden bei Fragen wie 'Wie werde ich Berufsbetreuer', 'Sachkunde Betreuer', 'Anerkennung als Volljurist', 'Vergueturung Betreuer', 'Berufshaftpflicht Betreuer', 'Subsidiaritaet ehrenamtlich beruflich'. |
 | `betreuung-anwaltskosten-rvg` | Anwaltskosten im Betreuungsverfahren: RVG, Verfahrenspflegerbestellung, Verfahrenskostenhilfe nach § 76 FamFG. Empfehlung Mandantenkommunikation Kosten. |
 
@@ -26,7 +26,7 @@ Für **Betreuer Als Erbe, Betreuer Registrierung, Betreuung Anwaltskosten Rvg** 
 
 ## 1. `betreuer-als-erbe`
 
-**Fokus:** Workflow-Skill zu betreuer als erbe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu betreuer als erbe: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Betreuer als Erbe und Beschenkter
 

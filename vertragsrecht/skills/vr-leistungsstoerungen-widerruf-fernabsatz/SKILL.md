@@ -1,13 +1,13 @@
 ---
 name: vr-leistungsstoerungen-widerruf-fernabsatz
-description: "Nutze dies, wenn Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz prüfen.; Erstelle eine Arbeitsfassung zu Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -97,7 +97,7 @@ Das Modell benötigt:
 1. **Art des Vertrags**: Kauf, Werk, Dienstleistung, digitale Inhalte, Finanzdienstleistung
 2. **Vertragsschluss**: Datum, Kanal (Webshop, Telefon, App, Haustür, Messe)
 3. **Widerrufsbelehrung**: Wortlaut der verwendeten Belehrung (oder Angabe, dass keine
-   erteilt wurde); Verweis auf Muster-Widerrufsformular (Anlage 2 EGBGB)?
+ erteilt wurde); Verweis auf Muster-Widerrufsformular (Anlage 2 EGBGB)?
 4. **Widerrufserklärung**: Datum und Form der Widerrufserklärung des Verbrauchers
 5. **Besonderheiten**: Digitale Inhalte? Zugeschnittene Waren? Hygieneartikel? (Ausnahmen!)
 6. **Streitwert**: Für Kostenentscheidung relevant
@@ -111,34 +111,34 @@ Das Modell benötigt:
 - **§ 312d BGB** – Informationspflichten bei Fernabsatzverträgen (i. V. m. Art. 246a EGBGB)
 - **§ 312g Abs. 1 BGB** – Widerrufsrecht als Grundregel
 - **§ 312g Abs. 2 BGB** – Ausnahmen vom Widerrufsrecht (Nr. 1–13, z. B. nach Maß angefertigte
-  Waren, digitale Inhalte nach Ausführungsbeginn mit Zustimmung, Hygieneartikel nach Entsiegelung)
+ Waren, digitale Inhalte nach Ausführungsbeginn mit Zustimmung, Hygieneartikel nach Entsiegelung)
 - **§ 355 BGB** – Widerrufsrecht, Widerrufserklärung, Form
 - **§ 356 BGB** – Widerrufsfrist (14 Tage; bei fehlender/fehlerhafter Belehrung: 12 Monate +
-  14 Tage, § 356 Abs. 3 S. 2 BGB)
+ 14 Tage, § 356 Abs. 3 S. 2 BGB)
 - **§ 357 BGB** – Rechtsfolgen des Widerrufs (gegenseitige Rückgewähr, Wertersatz für
-  Verschlechterung § 357 Abs. 7 BGB)
+ Verschlechterung § 357 Abs. 7 BGB)
 - **Anlage 1 EGBGB** – Muster-Widerrufsbelehrung (amtliches Gestaltungshinweis-Muster;
-  bei ordnungsgemäßer Verwendung gesetzliche Fiktion der ordnungsmäßigen Belehrung)
+ bei ordnungsgemäßer Verwendung gesetzliche Fiktion der ordnungsmäßigen Belehrung)
 - **Anlage 2 EGBGB** – Muster-Widerrufsformular
 - **Art. 246a EGBGB** – Informationspflichten im Fernabsatz; § 1 Abs. 2 Nr. 1 (ausdrückliche
-  Hinweispflicht auf Widerrufsrecht)
+ Hinweispflicht auf Widerrufsrecht)
 
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Wertersatzanspruch des Unternehmers für die Benutzung der Ware vor Ausübung des Widerrufs nur
-  dann zu leisten, wenn er die Ware über das zur Prüfung notwendige Maß hinaus benutzt hat; eine
-  pauschale Nutzungsentschädigung ist mit dem Widerrufsrecht unvereinbar.
+ Wertersatzanspruch des Unternehmers für die Benutzung der Ware vor Ausübung des Widerrufs nur
+ dann zu leisten, wenn er die Ware über das zur Prüfung notwendige Maß hinaus benutzt hat; eine
+ pauschale Nutzungsentschädigung ist mit dem Widerrufsrecht unvereinbar.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  fehlerhafter Widerrufsbelehrung; die Widerrufsfrist beginnt nicht zu laufen, wenn der
-  Unternehmer keine oder eine fehlerhafte Belehrung erteilt hat; der Verbraucher kann auch
-  Monate nach Lieferung noch widerrufen.
+ fehlerhafter Widerrufsbelehrung; die Widerrufsfrist beginnt nicht zu laufen, wenn der
+ Unternehmer keine oder eine fehlerhafte Belehrung erteilt hat; der Verbraucher kann auch
+ Monate nach Lieferung noch widerrufen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  versiegelte Waren § 312g Abs. 2 Nr. 3 BGB; die Entsiegelung muss produktspezifisch
-  hygienisch bedeutsam sein; eine Schutzfolie auf einem Buch fällt nicht darunter.
+ versiegelte Waren § 312g Abs. 2 Nr. 3 BGB; die Entsiegelung muss produktspezifisch
+ hygienisch bedeutsam sein; eine Schutzfolie auf einem Buch fällt nicht darunter.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Widerrufsrechts bei Verbraucherdarlehen; auch bei formell fehlerhafter Belehrung kann das
-  Widerrufsrecht verwirkt sein, wenn der Verbraucher jahrelang Leistungen erbracht hat.
+ Widerrufsrechts bei Verbraucherdarlehen; auch bei formell fehlerhafter Belehrung kann das
+ Widerrufsrecht verwirkt sein, wenn der Verbraucher jahrelang Leistungen erbracht hat.
 
 ### Quellenregel
 
@@ -146,24 +146,24 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Qualifikation des Vertrags**: Liegt ein Fernabsatz- oder Außergeschäftsraumvertrag vor?
-   Prüfung der Definition (§§ 312b, 312c BGB); Verbrauchereigenschaft (§ 13 BGB)?
+ Prüfung der Definition (§§ 312b, 312c BGB); Verbrauchereigenschaft (§ 13 BGB)?
 2. **Ausnahmen prüfen** (§ 312g Abs. 2 BGB): Individuelle Anfertigung? Digitale Inhalte nach
-   Ausführungsbeginn? Entsiegelte Hygieneartikel? Gilt kein Widerrufsrecht → Hinweis an Mandant.
+ Ausführungsbeginn? Entsiegelte Hygieneartikel? Gilt kein Widerrufsrecht → Hinweis an Mandant.
 3. **Belehrungsprüfung**:
-   - Stimmt die Belehrung mit Anlage 1 EGBGB überein? (Musterverwendung = Fiktion)
-   - Fehler? → Frist läuft nicht → Widerruf noch möglich (§ 356 Abs. 3 BGB)
-   - Ist das Muster-Widerrufsformular (Anlage 2 EGBGB) mitgeteilt worden?
+ - Stimmt die Belehrung mit Anlage 1 EGBGB überein? (Musterverwendung = Fiktion)
+ - Fehler? → Frist läuft nicht → Widerruf noch möglich (§ 356 Abs. 3 BGB)
+ - Ist das Muster-Widerrufsformular (Anlage 2 EGBGB) mitgeteilt worden?
 4. **Fristberechnung** (§ 355 Abs. 2 BGB): 14 Tage ab Vertragsschluss (Dienstleistungen) bzw.
-   ab Warenerhalt (§ 356 Abs. 2 BGB). Fristbeginn erst nach vollständiger Information.
+ ab Warenerhalt (§ 356 Abs. 2 BGB). Fristbeginn erst nach vollständiger Information.
 5. **Widerrufserklärung**: Formfrei (§ 355 Abs. 1 S. 2 BGB), aber eindeutig; Fax, E-Mail,
-   Brief, Rücksendung ausreichend. Fristwahrung: Absendung entscheidend.
+ Brief, Rücksendung ausreichend. Fristwahrung: Absendung entscheidend.
 6. **Rückabwicklung** (§ 357 BGB): Unternehmer muss Zahlung inkl. Lieferkosten (Standard)
-   binnen 14 Tagen zurückgewähren. Verbraucher muss Ware binnen 14 Tagen zurücksenden.
-   Kosten der Rücksendung trägt Unternehmer, sofern er darüber informiert hat (§ 357 Abs. 6 BGB).
+ binnen 14 Tagen zurückgewähren. Verbraucher muss Ware binnen 14 Tagen zurücksenden.
+ Kosten der Rücksendung trägt Unternehmer, sofern er darüber informiert hat (§ 357 Abs. 6 BGB).
 7. **Wertersatz** (§ 357 Abs. 7 BGB): Unternehmer kann Wertersatz verlangen bei Verschlechterung
-   durch bestimmungswidrige Nutzung (nicht: normaler Prüfgebrauch, vgl. EuGH – "Messner").
+ durch bestimmungswidrige Nutzung (nicht: normaler Prüfgebrauch, vgl. EuGH – "Messner").
 8. **Auskunft zu Kosten**: Ggf. Hinweis auf Schadensersatzpflicht bei schuldhafter Verletzung
-   der Rückgabepflicht.
+ der Rückgabepflicht.
 
 ## Ausgabeformat
 
@@ -196,16 +196,16 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 ## Risiken und typische Fehler
 
 - **Keine oder fehlerhafte Belehrung**: Widerrufsfrist läuft nicht → unbegrenzte Widerrufsmöglich-
-  keit (bis 12 Monate + 14 Tage). Unternehmer-Risiko: erhebliches Haftungsvolumen.
+ keit (bis 12 Monate + 14 Tage). Unternehmer-Risiko: erhebliches Haftungsvolumen.
 - **Ausnahmen § 312g Abs. 2 BGB übersehen**: Unternehmer weist Widerruf zu Unrecht zurück →
-  Zahlungsverzug, Verzugszinsen, Schadensersatz.
+ Zahlungsverzug, Verzugszinsen, Schadensersatz.
 - **Wertersatz nach § 357 Abs. 7 BGB**: Zu hohe Forderung → Verbraucher schuldet nur
-  Verschlechterung über normalen Prüfgebrauch hinaus; pauschale Nutzungsentschädigung
-  unionsrechtswidrig (EuGH – "Messner").
+ Verschlechterung über normalen Prüfgebrauch hinaus; pauschale Nutzungsentschädigung
+ unionsrechtswidrig (EuGH – "Messner").
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Berufsrecht**: Mandantendaten (Bestell- und Zahlungsdaten) unterliegen § 43a Abs. 2 BRAO,
-  § 203 StGB; Verarbeitung nur in gesicherten Systemen.
+ § 203 StGB; Verarbeitung nur in gesicherten Systemen.
 
 ## Quellenpflicht
 

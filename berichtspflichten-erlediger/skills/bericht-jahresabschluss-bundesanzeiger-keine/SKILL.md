@@ -1,13 +1,13 @@
 ---
 name: bericht-jahresabschluss-bundesanzeiger-keine
-description: "Nutze dies, wenn Bericht Jahresabschluss Bundesanzeiger, Bericht Keine Pflicht Begruendet Ablehnen, Bericht Konjunktur Und Produktionsstatistik im Plugin Berichtspflichten Erlediger konkret bearbeitet werden soll. Auslöser: Bitte Bericht Jahresabschluss Bundesanzeiger, Bericht Keine Pflicht Begruendet Ablehnen, Bericht Konjunktur Und Produktionsstatistik prüfen.; Erstelle eine Arbeitsfassung zu Bericht Jahresabschluss Bundesanzeiger, Bericht Keine Pflicht Begruendet Ablehnen, Bericht Konjunktur Und Produktionsstatistik.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bericht Jahresabschluss Bundesanzeiger, Bericht Keine Pflicht Begruendet Ablehnen, Bericht Konjunktur Und Produktionsstatistik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bericht Jahresabschluss Bundesanzeiger, Bericht Keine Pflicht Begruendet Ablehnen, Bericht Konjunktur Und Produktionsstatistik
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Jahresabschluss Bundesanzeiger, Bericht Keine Pflicht Begruendet Ablehnen, Bericht Konjunktur Und Produktionsstatistik** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

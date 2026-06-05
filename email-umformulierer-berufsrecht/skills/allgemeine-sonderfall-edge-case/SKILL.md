@@ -1,6 +1,6 @@
 ---
 name: allgemeine-sonderfall-edge-case
-description: "Nutze dies, wenn Allgemeine: Sonderfall und Edge-Case-Prüfung im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Allgemeine: Sonderfall und Edge-Case-Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Allgemeine: Sonderfall und Edge-Case-Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Allgemeine: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Allgemeine: Sonderfall und Edge-Case-Prüfung

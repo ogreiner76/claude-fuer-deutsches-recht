@@ -1,6 +1,6 @@
 ---
 name: berufsrechtskonform
-description: "Nutze dies, wenn Berufsrechtskonform: Verhandlung, Vergleich und Eskalation im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Berufsrechtskonform: Verhandlung, Vergleich und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Berufsrechtskonform: Verhandlung, Vergleich und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Berufsrechtskonform: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Berufsrechtskonform: Verhandlung, Vergleich und Eskalation

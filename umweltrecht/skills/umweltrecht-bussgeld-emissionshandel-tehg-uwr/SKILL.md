@@ -1,13 +1,13 @@
 ---
 name: umweltrecht-bussgeld-emissionshandel-tehg-uwr
-description: "Nutze dies, wenn Umweltrecht Bussgeld Sanktionen, Umweltrecht Emissionshandel Tehg, Uwr Emissionshandel Ets Spezial im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Umweltrecht Bussgeld Sanktionen, Umweltrecht Emissionshandel Tehg, Uwr Emissionshandel Ets Spezial prüfen.; Erstelle eine Arbeitsfassung zu Umweltrecht Bussgeld Sanktionen, Umweltrecht Emissionshandel Tehg, Uwr Emissionshandel Ets Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umweltrecht Bussgeld Sanktionen, Umweltrecht Emissionshandel Tehg, Uwr Emissionshandel Ets Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umweltrecht Bussgeld Sanktionen, Umweltrecht Emissionshandel Tehg, Uwr Emissionshandel Ets Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umweltrecht Bussgeld Sanktionen, Umweltrecht Emissionshandel Tehg, Uwr Emissionshandel Ets Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -64,7 +64,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Anhoerungsschreiben analysieren**: Vorwurf, Norm, Tatzeit, Beweismittel, gesetzte Frist.
 2. **Akteneinsicht beantragen** (§ 49 OWiG): Vollstaendige Akte — Messberichte, Kontrolle-Protokolle, Zeugenaussagen.
@@ -78,12 +78,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Anhoerungsschreiben erhalten
-  → Frist noch offen?
-      JA → Akteneinsicht sofort beantragen
-           → Schuld-Pruefung: War Pflichtverletzung schuldhaft?
-               JA → Minderungsgruende? → Verteidigungsschrift mit Minderungsargumentation
-               NEIN → Einstellungsantrag wegen fehlendem Vorsatz/Fahrlassigkeit
-      NEIN → Einspruch (§ 67 OWiG, 2 Wochen ab Bescheid)
+ → Frist noch offen?
+ JA → Akteneinsicht sofort beantragen
+ → Schuld-Pruefung: War Pflichtverletzung schuldhaft?
+ JA → Minderungsgruende? → Verteidigungsschrift mit Minderungsargumentation
+ NEIN → Einstellungsantrag wegen fehlendem Vorsatz/Fahrlassigkeit
+ NEIN → Einspruch (§ 67 OWiG, 2 Wochen ab Bescheid)
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -114,8 +114,8 @@ Ihr Zeichen: [AZ BEHOERDE]
 Vorwurf: [KURZBESCHREIBUNG]
 
 I. Wir zeigen die anwaltliche Vertretung von [MANDANT] an.
-   Akteneinsicht beantragen wir hiermit ausdruecklich gemaess § 49 OWiG.
-   Wir bitten um Verlaengerung der Stellungnahme-Frist bis [DATUM].
+ Akteneinsicht beantragen wir hiermit ausdruecklich gemaess § 49 OWiG.
+ Wir bitten um Verlaengerung der Stellungnahme-Frist bis [DATUM].
 
 II. Sachverhalt
 [MANDANT] ist Betreiber der Anlage [NAME] in [ORT].
@@ -124,9 +124,9 @@ II. Sachverhalt
 III. Rechtliche Einlassung
 a) Tatbestand: § [X] [Gesetz] ist nicht erfuellt, weil [Argumentation].
 b) Schuld: Ein schuldhaftes Handeln liegt nicht vor. [MANDANT] hat alle
-   zumutbaren Vorkehrungen getroffen (Nachweise Anlage [X]).
+ zumutbaren Vorkehrungen getroffen (Nachweise Anlage [X]).
 c) Verjaeahrung: Die Tat soll sich am [DATUM] ereignet haben. Gemaess
-   § 31 OWiG verjaeahrte die Ordnungswidrigkeit am [DATUM].
+ § 31 OWiG verjaeahrte die Ordnungswidrigkeit am [DATUM].
 
 IV. Antrag
 Wir beantragen, das Verfahren einzustellen.
@@ -216,11 +216,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Abgabe-Frist 30.04. versaeumt?
-  JA → § 26 TEHG: Sanktion 100 EUR/t CO2 Rueckstand
-       → Sofort fehlende EUAs kaufen (Markt oder Broker)
-       → Abgabe nachholen
-       → Sanktions-Bescheid DEHSt anfechten? → Nur Verjaeahrung oder Fehler Feststellungsbescheid pruefbar
-  NEIN → Alles korrekt → Dokumentation sichern
+ JA → § 26 TEHG: Sanktion 100 EUR/t CO2 Rueckstand
+ → Sofort fehlende EUAs kaufen (Markt oder Broker)
+ → Abgabe nachholen
+ → Sanktions-Bescheid DEHSt anfechten? → Nur Verjaeahrung oder Fehler Feststellungsbescheid pruefbar
+ NEIN → Alles korrekt → Dokumentation sichern
 ```
 
 ## Output-Template: Widerspruch Zuteilungsbescheid
@@ -238,7 +238,7 @@ Anlage: [NAME], [ORT], TEHG-Genehmigung Nr. [NR.]
 DEHSt-Az.: [AZ.]
 
 I. Hiermit legen wir namens und in Vollmacht des Anlagenbetreibers
-   Widerspruch gegen den Zuteilungsbescheid vom [DATUM] ein.
+ Widerspruch gegen den Zuteilungsbescheid vom [DATUM] ein.
 
 II. Sachverhalt
 Die DEHSt hat fuer die Handelsperiode 2021-2030 eine kostenlose
@@ -248,9 +248,9 @@ auf Basis der ZuV 2020 und der Benchmark-Daten ergibt jedoch
 
 III. Begruendung
 a) Falsche Benchmark-Anwendung: DEHSt hat Benchmark [BM-CODE]
-   angewendet, richtig waere [ANDERER CODE] (vgl. ZuV 2020 Anhang 1).
+ angewendet, richtig waere [ANDERER CODE] (vgl. ZuV 2020 Anhang 1).
 b) Baseline-Daten fehlerhaft: Produktionsmenge [JAHR] betraegt
-   [ZAHL] t (Nachweise Anlage), nicht [ZAHL t DEHSt].
+ [ZAHL] t (Nachweise Anlage), nicht [ZAHL t DEHSt].
 c) CSCF-Korrektur unzulaessig hoch: Berechnung gem. Beschl. EU 2021/355.
 
 IV. Antrag

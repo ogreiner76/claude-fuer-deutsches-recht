@@ -1,13 +1,13 @@
 ---
 name: rechtsschutz-review-sonderfall-source-red
-description: "Nutze dies, wenn Spezial Rechtsschutz Tatbestand Beweis Und Belege, Spezial Review Sonderfall Und Edge Case, Spezial Source Red Team Und Qualitaetskontrolle im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und Edge Case, Source Red Team Und Qualitaetskontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Rechtsschutz Tatbestand Beweis Und Belege, Spezial Review Sonderfall Und Edge Case, Spezial Source Red Team Und Qualitaetskontrolle
+# Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und Edge Case, Source Red Team Und Qualitaetskontrolle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und Edge Case, Source Red Team Und Qualitaetskontrolle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Rechtsschutz Tatbestand Beweis Und Belege, Spezial Review Sonderfall Und Edge Case, Spezial Source Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und Edge Case, Source Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -450,7 +450,7 @@ Empfehlung vor Versand:
 
 ## Anschluss-Skills
 
-- `workflow-redteam-qualitygate` – Red-Team-Workflow im Plugin
+- `workflow-redteam-qualitygate` – Red-Team-im Plugin
 - `spezial-source-red-team-und-qualitaetskontrolle` – Dieser Skill (Selbstreferenz)
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweislastfragen
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beweis

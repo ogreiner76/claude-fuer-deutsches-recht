@@ -1,13 +1,13 @@
 ---
 name: prozesskostenhilfe-antrag-schriftsatzkern
-description: "Nutze dies, wenn Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing prüfen.; Erstelle eine Arbeitsfassung zu Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prozesskostenhilfe Antrag, Schriftsatzkern Substantiierung, Schulung Fallbesprechung, Sozialrecht Fallaufnahme Routing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -552,9 +552,9 @@ Ziehe **`bescheid-frist-quick-check`** sofort. Ergebnisse:
 
 ### Schritt 2 — Bescheidart und Rechtsgebiet
 
-Mappe das Rechtsgebiet auf den Spezial-Skill:
+Mappe das Rechtsgebiet auf den Fachmodul:
 
-| Rechtsgebiet | Spezial-Skill | Hauptnormen |
+| Rechtsgebiet | Fachmodul | Hauptnormen |
 |---|---|---|
 | Bürgergeld SGB II | `buergergeld-pruefen` | §§ 19 ff. SGB II |
 | Hilfsmittel SGB V (Rollstuhl, Hörhilfe, Lift) | `hilfsmittelantrag-pruefen` | § 33 SGB V, §§ 47 ff. SGB IX |

@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Forst- und Jagdrecht
-Ressort:            BMLEH
-Kernnormen:         BWaldG; BJagdG; LJagdGes der Laender; FleischhygieneG; ForstWG.
-Akteure/Aufsicht:   BLE; Laender-Forstaemter und Jagdbehoerden; BMLEH.
-EU/Voelkerrecht:    EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmleh; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Forst- und Jagdrecht
+Ressort: BMLEH
+Kernnormen: BWaldG; BJagdG; LJagdGes der Laender; FleischhygieneG; ForstWG.
+Akteure/Aufsicht: BLE; Laender-Forstaemter und Jagdbehoerden; BMLEH.
+EU/Voelkerrecht: EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

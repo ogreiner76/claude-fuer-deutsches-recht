@@ -19,51 +19,51 @@ Typische Drifts: neue Tracking-Tool-Integration ohne Datenschutzerklärungsupdat
 ## Ablauf – Sweep-Modus
 
 1. **Commitment-Inventur.**
-   Alle Datenschutz-Commitment-Flächen aus `CLAUDE.md` lesen:
-   - Datenschutzerklärung (Haupt-URL / Dokument)
-   - CMP / Cookie-Consent-Banner-Konfiguration
-   - App-Store Privacy Labels
-   - In-Produkt-Einwilligungsflows
-   - Sektorspezifische Hinweise (TDDDG, KUG)
+ Alle Datenschutz-Commitment-Flächen aus `CLAUDE.md` lesen:
+ - Datenschutzerklärung (Haupt-URL / Dokument)
+ - CMP / Cookie-Consent-Banner-Konfiguration
+ - App-Store Privacy Labels
+ - In-Produkt-Einwilligungsflows
+ - Sektorspezifische Hinweise (TDDDG, KUG)
 
 2. **Praxis-Inventur.**
-   Aktuelle Verarbeitungspraxis aus Ausgaben des Plugins rekonstruieren:
-   - Neueste AVV-Reviews (neue Sub-AVs, neue Drittlandtransfers)
-   - Neueste DSFA-Ergebnisse (neue Verarbeitungstätigkeiten)
-   - Neueste Triage-Ergebnisse (Rechtsgrundlagenänderungen)
-   - Aus `CLAUDE.md` bekannte Systemliste und Drittlandsituation
+ Aktuelle Verarbeitungspraxis aus Ausgaben des Plugins rekonstruieren:
+ - Neueste AVV-Reviews (neue Sub-AVs, neue Drittlandtransfers)
+ - Neueste DSFA-Ergebnisse (neue Verarbeitungstätigkeiten)
+ - Neueste Triage-Ergebnisse (Rechtsgrundlagenänderungen)
+ - Aus `CLAUDE.md` bekannte Systemliste und Drittlandsituation
 
 3. **Drift-Analyse.**
-   Für jede Commit-Fläche: Ist-Inhalt gegen Praxis-Inventur abgleichen.
+ Für jede Commit-Fläche: Ist-Inhalt gegen Praxis-Inventur abgleichen.
 
-   | Commit-Fläche | Praxis-Ist | Erklärung-Ist | Drift? | Schwere |
-   |---|---|---|---|---|
-   | Datenschutzerklärung – Empfänger | [aktuelle Liste] | [publizierte Liste] | Ja/Nein | 🔴/🟡/🟢 |
-   | Cookie-Banner – Kategorien | [aktiv gesetzt] | [angekündigt] | Ja/Nein | … |
-   | Speicherfristen | [tatsächlich] | [publiziert] | Ja/Nein | … |
-   | Drittlandtransfer-Mechanismus | [aktuell] | [publiziert] | Ja/Nein | … |
+ | Commit-Fläche | Praxis-Ist | Erklärung-Ist | Drift? | Schwere |
+ |---|---|---|---|---|
+ | Datenschutzerklärung – Empfänger | [aktuelle Liste] | [publizierte Liste] | Ja/Nein | 🔴/🟡/🟢 |
+ | Cookie-Banner – Kategorien | [aktiv gesetzt] | [angekündigt] | Ja/Nein | … |
+ | Speicherfristen | [tatsächlich] | [publiziert] | Ja/Nein | … |
+ | Drittlandtransfer-Mechanismus | [aktuell] | [publiziert] | Ja/Nein | … |
 
 4. **Drift-Klassifikation.**
-   - 🔴 **Sofortiger Handlungsbedarf:** Verarbeitung erfolgt, die in der Erklärung nicht angekündigt ist → Informationspflicht-Verstoß Art. 13/14 DSGVO, potenziell rechtswidrige Verarbeitung.
-   - 🟠 **Hoch:** Wesentliche Erweiterung des Verarbeitungsumfangs nicht reflektiert (z.B. neuer Zweck, neues Empfänger-Land).
-   - 🟡 **Mittel:** Aktualisierung empfohlen, keine unmittelbare Rechtswidrigkeit (z.B. neue Formulierung genauer als nötig, aber nicht falsch).
-   - 🟢 **Gering:** Kosmetische Anpassung, kein Handlungsdruck.
+ - 🔴 **Sofortiger Handlungsbedarf:** Verarbeitung erfolgt, die in der Erklärung nicht angekündigt ist → Informationspflicht-Verstoß Art. 13/14 DSGVO, potenziell rechtswidrige Verarbeitung.
+ - 🟠 **Hoch:** Wesentliche Erweiterung des Verarbeitungsumfangs nicht reflektiert (z.B. neuer Zweck, neues Empfänger-Land).
+ - 🟡 **Mittel:** Aktualisierung empfohlen, keine unmittelbare Rechtswidrigkeit (z.B. neue Formulierung genauer als nötig, aber nicht falsch).
+ - 🟢 **Gering:** Kosmetische Anpassung, kein Handlungsdruck.
 
 5. **Änderungsentwürfe.**
-   Für jede 🔴- und 🟠-Drift: konkreten Textvorschlag für die Datenschutzerklärung formulieren (nicht als Meta-Kommentar, sondern als fertiger Erklärungstext).
+ Für jede 🔴- und 🟠-Drift: konkreten Textvorschlag für die Datenschutzerklärung formulieren (nicht als Meta-Kommentar, sondern als fertiger Erklärungstext).
 
 6. **Sweep-Bericht.**
-   Zusammenfassung: [N] Drifts, davon [N] 🔴, [N] 🟠, [N] 🟡; Änderungsvorschläge inline; Folgeaktionen.
+ Zusammenfassung: [N] Drifts, davon [N] 🔴, [N] 🟠, [N] 🟡; Änderungsvorschläge inline; Folgeaktionen.
 
 ## Ablauf – Direkt-Modus
 
 1. Geplante Änderung der Verarbeitungspraxis beschreiben lassen.
 2. Prüfen: Welche Art. 13/14 DSGVO-Pflichtinformationen sind betroffen?
-   - Neue Datenkategorie → Art. 13 Abs. 1 lit. c DSGVO
-   - Neuer Zweck → Art. 13 Abs. 1 lit. c DSGVO
-   - Neuer Empfänger → Art. 13 Abs. 1 lit. e DSGVO
-   - Neue Speicherfrist → Art. 13 Abs. 2 lit. a DSGVO
-   - Neues Drittland → Art. 13 Abs. 1 lit. f DSGVO
+ - Neue Datenkategorie → Art. 13 Abs. 1 lit. c DSGVO
+ - Neuer Zweck → Art. 13 Abs. 1 lit. c DSGVO
+ - Neuer Empfänger → Art. 13 Abs. 1 lit. e DSGVO
+ - Neue Speicherfrist → Art. 13 Abs. 2 lit. a DSGVO
+ - Neues Drittland → Art. 13 Abs. 1 lit. f DSGVO
 3. Prüfen: Ändert sich die Rechtsgrundlage (Art. 6/9 DSGVO)? Muss ggf. neue Einwilligung eingeholt werden?
 4. Prüfen: Ist eine DSFA erforderlich? (Weiterleitung an `dsfa-erstellung` anbieten)
 5. Änderungsentwurf für betroffene Abschnitte der Datenschutzerklärung erstellen.
@@ -160,11 +160,11 @@ Organisation: [NAME]
 Geprüfte Dokumente: [LISTE]
 
 Befunde:
-| Nr. | Dokument          | Abweichung / Drift              | Prioritaet | Frist  |
+| Nr. | Dokument | Abweichung / Drift | Prioritaet | Frist |
 |-----|------------------|----------------------------------|------------|--------|
-|  1  | Datenschutzerklärung | Cookie-Liste veraltet (3 neue)  | HOCH       | [DATUM]|
-|  2  | Datenschutzerklärung | Empfaenger nicht konkret benannt| MITTEL     | [DATUM]|
-|  3  | Interne Richtlinie | KI-Tools noch nicht erwaehnt    | HOCH       | [DATUM]|
+| 1 | Datenschutzerklärung | Cookie-Liste veraltet (3 neue) | HOCH | [DATUM]|
+| 2 | Datenschutzerklärung | Empfaenger nicht konkret benannt| MITTEL | [DATUM]|
+| 3 | Interne Richtlinie | KI-Tools noch nicht erwaehnt | HOCH | [DATUM]|
 
 Keine Abweichungen: [LISTE GEPRÜFTER BEREICHE]
 

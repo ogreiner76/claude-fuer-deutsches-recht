@@ -118,10 +118,10 @@ ____________________________
 ## Triage zu Beginn — kläre vor Ausgabe der vollständigen Klageschrift
 
 1. Wurden alle vorgelagerten Prüfschritte abgearbeitet?
-   - KSchG-Anwendbarkeit (§ 23 KSchG, § 1 Abs. 1 KSchG) ✓/✗
-   - Frist und Zugang (§ 4 KSchG) ✓/✗
-   - Formfehler (§§ 623, 174 BGB) ✓/✗
-   - Sonderkündigungsschutz ✓/✗
+ - KSchG-Anwendbarkeit (§ 23 KSchG, § 1 Abs. 1 KSchG) ✓/✗
+ - Frist und Zugang (§ 4 KSchG) ✓/✗
+ - Formfehler (§§ 623, 174 BGB) ✓/✗
+ - Sonderkündigungsschutz ✓/✗
 2. Liegt der Kündigungsgrund (betriebsbedingt/verhaltensbedingt/personenbedingt) fest?
 3. Wurde der Laien-Disclaimer-Kopf (`kueschk-grundwarnung-falsche-wiese-und-haftung`) bereits ausgegeben?
 4. Sind alle Platzhalter [NAME], [DATUM], [BETRAG] durch echte Angaben des Nutzers befüllt?

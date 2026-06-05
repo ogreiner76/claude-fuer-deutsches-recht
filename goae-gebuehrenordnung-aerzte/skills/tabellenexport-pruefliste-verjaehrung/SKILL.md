@@ -1,13 +1,13 @@
 ---
 name: tabellenexport-pruefliste-verjaehrung
-description: "Nutze dies, wenn Tabellenexport Goae Pruefliste, Verjaehrung Aerztlicher Honoraranspruch, Wahlleistungsvereinbarung Krankenhaus Goae im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte Tabellenexport Goae Pruefliste, Verjaehrung Aerztlicher Honoraranspruch, Wahlleistungsvereinbarung Krankenhaus Goae prüfen.; Erstelle eine Arbeitsfassung zu Tabellenexport Goae Pruefliste, Verjaehrung Aerztlicher Honoraranspruch, Wahlleistungsvereinbarung Krankenhaus Goae.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tabellenexport Goae Pruefliste, Verjaehrung Aerztlicher Honoraranspruch, Wahlleistungsvereinbarung Krankenhaus Goae: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tabellenexport Goae Pruefliste, Verjaehrung Aerztlicher Honoraranspruch, Wahlleistungsvereinbarung Krankenhaus Goae
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tabellenexport Goae Pruefliste, Verjaehrung Aerztlicher Honoraranspruch, Wahlleistungsvereinbarung Krankenhaus Goae** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

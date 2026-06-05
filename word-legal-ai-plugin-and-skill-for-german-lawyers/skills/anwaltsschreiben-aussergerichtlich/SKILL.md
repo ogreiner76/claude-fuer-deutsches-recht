@@ -1,13 +1,13 @@
 ---
 name: anwaltsschreiben-aussergerichtlich
-description: "Nutze dies, wenn Anwaltsschreiben Aussergerichtlich, Argumentationsarchitektur Schreiben im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Anwaltsschreiben Aussergerichtlich, Argumentationsarchitektur Schreiben prüfen.; Erstelle eine Arbeitsfassung zu Anwaltsschreiben Aussergerichtlich, Argumentationsarchitektur Schreiben.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaltsschreiben Aussergerichtlich, Argumentationsarchitektur Schreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwaltsschreiben Aussergerichtlich, Argumentationsarchitektur Schreiben
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwaltsschreiben Aussergerichtlich, Argumentationsarchitektur Schreiben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -102,7 +102,7 @@ Musterallee 4 · 12345 Musterstadt
 
 Beklagt GmbH
 Industrieweg 5
-12345 Beispielstadt                              Berlin, den 30. Mai 2026
+12345 Beispielstadt Berlin, den 30. Mai 2026
 
 Unser Zeichen: 2026 023 sm
 Ihre Mandantin: Anna Muster
@@ -134,7 +134,7 @@ Rechtsanwältin
 ### Mustertext Mahnung
 
 ```
-[Briefkopf]                                       Berlin, den 30. Mai 2026
+[Briefkopf] Berlin, den 30. Mai 2026
 
 Mahnung in Sachen Anna Muster ./. Beklagt GmbH
 
@@ -143,9 +143,9 @@ Sehr geehrte Damen und Herren,
 namens und in Vollmacht unserer Mandantin Frau Anna Muster mahnen wir
 hiermit die Zahlung der offenen Kaufpreisforderung an.
 
-Hauptforderung:               25.000,00 Euro (fällig seit 1. März 2026)
-Verzugszinsen § 288 Abs. 2:        gemäß gesonderter Berechnung
-Geschäftsgebühr Nr. 2300 VV RVG:   gesonderte Berechnung
+Hauptforderung: 25.000,00 Euro (fällig seit 1. März 2026)
+Verzugszinsen § 288 Abs. 2: gemäß gesonderter Berechnung
+Geschäftsgebühr Nr. 2300 VV RVG: gesonderte Berechnung
 
 Wir setzen Ihnen eine letzte Zahlungsfrist bis zum 13. Juni 2026
 (Posteingang bei uns). Nach Ablauf der Frist werden wir ohne weitere
@@ -159,7 +159,7 @@ Rechtsanwältin
 ### Mustertext Vergleichsangebot
 
 ```
-[Briefkopf]                                       Berlin, den 30. Mai 2026
+[Briefkopf] Berlin, den 30. Mai 2026
 
 Vergleichsangebot in Sachen Anna Muster ./. Beklagt GmbH
 
@@ -169,10 +169,10 @@ zur außergerichtlichen Erledigung des Streits über die offene
 Kaufpreisforderung schlagen wir Folgendes vor:
 
 1. Die Beklagt GmbH zahlt an unsere Mandantin 22.000 Euro bis zum 30.
-   Juni 2026 auf das Konto IBAN DE12 1234 5678 9012 3456 78.
+ Juni 2026 auf das Konto IBAN DE12 1234 5678 9012 3456 78.
 
 2. Mit der vollständigen Zahlung sind sämtliche wechselseitigen Ansprüche
-   aus dem Kaufvertrag vom 15. Januar 2026 erledigt.
+ aus dem Kaufvertrag vom 15. Januar 2026 erledigt.
 
 3. Jede Partei trägt ihre außergerichtlichen Kosten selbst.
 

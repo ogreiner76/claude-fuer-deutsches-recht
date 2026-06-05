@@ -1,34 +1,34 @@
 ---
 name: heizungsausfall-sofort-indexmiete
-description: "Nutze dies, wenn Workflow Heizungsausfall Sofort, Workflow Indexmiete Staffelmiete, Workflow Inkasso Mahnung Miete, Workflow Kaution Nach Auszug, Workflow Kosten Streitwert im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Workflow Heizungsausfall Sofort, Workflow Indexmiete Staffelmiete, Workflow Inkasso Mahnung Miete, Workflow Kaution Nach Auszug, Workflow Kosten Streitwert prüfen.; Erstelle eine Arbeitsfassung zu Workflow Heizungsausfall Sofort, Workflow Indexmiete Staffelmiete, Workflow Inkasso Mahnung Miete, Workflow Kaution Nach Auszug, Workflow Kosten Streitwert.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Heizungsausfall Sofort, Indexmiete Staffelmiete, Inkasso Mahnung Miete, Kaution Nach Auszug: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Heizungsausfall Sofort, Workflow Indexmiete Staffelmiete, Workflow Inkasso Mahnung Miete, Workflow Kaution Nach Auszug, Workflow Kosten Streitwert
+# Heizungsausfall Sofort, Indexmiete Staffelmiete, Inkasso Mahnung Miete, Kaution Nach Auszug, Kosten Streitwert
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Heizungsausfall Sofort, Indexmiete Staffelmiete, Inkasso Mahnung Miete, Kaution Nach Auszug, Kosten Streitwert** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-heizungsausfall-sofort` | Heizungsausfall sofort: Workflow-Skill für Miet- und WEG-Recht; erstellt Sofortmaßnahmen, Minderung, Ersatzvornahme, einstweiligen Rechtsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-indexmiete-staffelmiete` | Index-/Staffelmiete: Workflow-Skill für Miet- und WEG-Recht; prüft Anpassung, Form, Sperren, Mietpreisbremse und Kommunikation; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-inkasso-mahnung-miete` | Inkasso/Mahnung Miete: Workflow-Skill für Miet- und WEG-Recht; erstellt Zahlungsplan, Mahnung, Kündigungsreife und Verjährungscheck; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-kaution-nach-auszug` | Kaution nach Auszug: Workflow-Skill für Miet- und WEG-Recht; sortiert Abrechnungsreife, Zurückbehalt, Gegenforderungen und Fristen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-kosten-streitwert` | Kosten und Streitwert: Workflow-Skill für Miet- und WEG-Recht; schätzt Streitwert, Gebühren, Prozesskostenrisiko und Vergleichswirtschaftlichkeit; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-heizungsausfall-sofort` | Heizungsausfall sofort: Arbeitsmodul für Miet- und WEG-Recht; erstellt Sofortmaßnahmen, Minderung, Ersatzvornahme, einstweiligen Rechtsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-indexmiete-staffelmiete` | Index-/Staffelmiete: Arbeitsmodul für Miet- und WEG-Recht; prüft Anpassung, Form, Sperren, Mietpreisbremse und Kommunikation; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-inkasso-mahnung-miete` | Inkasso/Mahnung Miete: Arbeitsmodul für Miet- und WEG-Recht; erstellt Zahlungsplan, Mahnung, Kündigungsreife und Verjährungscheck; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-kaution-nach-auszug` | Kaution nach Auszug: Arbeitsmodul für Miet- und WEG-Recht; sortiert Abrechnungsreife, Zurückbehalt, Gegenforderungen und Fristen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-kosten-streitwert` | Kosten und Streitwert: Arbeitsmodul für Miet- und WEG-Recht; schätzt Streitwert, Gebühren, Prozesskostenrisiko und Vergleichswirtschaftlichkeit; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Heizungsausfall Sofort, Workflow Indexmiete Staffelmiete, Workflow Inkasso Mahnung Miete, Workflow Kaution Nach Auszug, Workflow Kosten Streitwert** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Heizungsausfall Sofort, Indexmiete Staffelmiete, Inkasso Mahnung Miete, Kaution Nach Auszug, Kosten Streitwert** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-heizungsausfall-sofort`
 
-**Fokus:** Heizungsausfall sofort: Workflow-Skill für Miet- und WEG-Recht; erstellt Sofortmaßnahmen, Minderung, Ersatzvornahme, einstweiligen Rechtsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Heizungsausfall sofort: Arbeitsmodul für Miet- und WEG-Recht; erstellt Sofortmaßnahmen, Minderung, Ersatzvornahme, einstweiligen Rechtsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Heizungsausfall sofort
 
@@ -42,9 +42,9 @@ Für **Workflow Heizungsausfall Sofort, Workflow Indexmiete Staffelmiete, Workfl
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: erstellt Sofortmaßnahmen, Minderung, Ersatzvornahme, einstweiligen Rechtsschutz.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: erstellt Sofortmaßnahmen, Minderung, Ersatzvornahme, einstweiligen Rechtsschutz.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -57,7 +57,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-indexmiete-staffelmiete`
 
-**Fokus:** Index-/Staffelmiete: Workflow-Skill für Miet- und WEG-Recht; prüft Anpassung, Form, Sperren, Mietpreisbremse und Kommunikation; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Index-/Staffelmiete: Arbeitsmodul für Miet- und WEG-Recht; prüft Anpassung, Form, Sperren, Mietpreisbremse und Kommunikation; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Index-/Staffelmiete
 
@@ -87,9 +87,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anpassung, Form, Sperren, Mietpreisbremse und Kommunikation.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anpassung, Form, Sperren, Mietpreisbremse und Kommunikation.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -102,7 +102,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -118,7 +118,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-inkasso-mahnung-miete`
 
-**Fokus:** Inkasso/Mahnung Miete: Workflow-Skill für Miet- und WEG-Recht; erstellt Zahlungsplan, Mahnung, Kündigungsreife und Verjährungscheck; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Inkasso/Mahnung Miete: Arbeitsmodul für Miet- und WEG-Recht; erstellt Zahlungsplan, Mahnung, Kündigungsreife und Verjährungscheck; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Inkasso/Mahnung Miete
 
@@ -132,9 +132,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: erstellt Zahlungsplan, Mahnung, Kündigungsreife und Verjährungscheck.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: erstellt Zahlungsplan, Mahnung, Kündigungsreife und Verjährungscheck.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -147,7 +147,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-kaution-nach-auszug`
 
-**Fokus:** Kaution nach Auszug: Workflow-Skill für Miet- und WEG-Recht; sortiert Abrechnungsreife, Zurückbehalt, Gegenforderungen und Fristen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Kaution nach Auszug: Arbeitsmodul für Miet- und WEG-Recht; sortiert Abrechnungsreife, Zurückbehalt, Gegenforderungen und Fristen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Kaution nach Auszug
 
@@ -177,9 +177,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Abrechnungsreife, Zurückbehalt, Gegenforderungen und Fristen.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Abrechnungsreife, Zurückbehalt, Gegenforderungen und Fristen.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -192,7 +192,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -208,7 +208,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-kosten-streitwert`
 
-**Fokus:** Kosten und Streitwert: Workflow-Skill für Miet- und WEG-Recht; schätzt Streitwert, Gebühren, Prozesskostenrisiko und Vergleichswirtschaftlichkeit; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Kosten und Streitwert: Arbeitsmodul für Miet- und WEG-Recht; schätzt Streitwert, Gebühren, Prozesskostenrisiko und Vergleichswirtschaftlichkeit; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Kosten und Streitwert
 
@@ -222,9 +222,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: schätzt Streitwert, Gebühren, Prozesskostenrisiko und Vergleichswirtschaftlichkeit.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: schätzt Streitwert, Gebühren, Prozesskostenrisiko und Vergleichswirtschaftlichkeit.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -237,7 +237,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab

@@ -35,12 +35,12 @@ Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. We
 1. **Verarbeitungsbeschreibung.** Welche Daten gehen wohin, an wen, in welcher Form, wie oft, in welchem Umfang?
 2. **Verhaeltnismaessigkeitspruefung.** Ist der Drittlandtransfer fuer den Zweck erforderlich, oder gaebe es EU-Alternativen?
 3. **Risikoanalyse.**
-   - Drittlandrecht: Zugriffsbefugnisse von Behoerden, Rechtsbehelfe Betroffener.
-   - Anbieter-Risiko: Branche, Datentyp, Subunternehmer.
-   - Daten-Risiko: Sensitivitaet, Aggregation, Identifizierbarkeit.
+ - Drittlandrecht: Zugriffsbefugnisse von Behoerden, Rechtsbehelfe Betroffener.
+ - Anbieter-Risiko: Branche, Datentyp, Subunternehmer.
+ - Daten-Risiko: Sensitivitaet, Aggregation, Identifizierbarkeit.
 4. **Massnahmen.**
-   - Rechtsgrundlage: Angemessenheitsbeschluss, SCC mit passendem Modul, BCR, Ausnahme Art. 49.
-   - Ergaenzende Massnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information ueber Behoerdenanfragen), organisatorisch (Audit, Schulung).
+ - Rechtsgrundlage: Angemessenheitsbeschluss, SCC mit passendem Modul, BCR, Ausnahme Art. 49.
+ - Ergaenzende Massnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information ueber Behoerdenanfragen), organisatorisch (Audit, Schulung).
 5. **Restrisiko.** Pruefung ob die ergaenzenden Massnahmen das Schutzniveau auf das EU-Niveau anheben oder ob das Restrisiko hoch bleibt.
 6. **Konsultation / Genehmigung.** DSB-Anhoerung; bei verbleibendem hohem Restrisiko Art. 36 DSGVO Vorabkonsultation; bei US-Anbietern Pruefung DPF-Zertifizierung.
 
@@ -78,17 +78,17 @@ Sub-AVs: [Liste mit Land]
 
 4. Ergaenzende Massnahmen
 - Technisch:
-  [ ] Ende-zu-Ende-Verschluesselung mit EU-Schluesselhoheit
-  [ ] Pseudonymisierung vor Transfer
-  [ ] Tokenisierung
-  [ ] Split-Processing (sensitive Felder in EU)
+ [ ] Ende-zu-Ende-Verschluesselung mit EU-Schluesselhoheit
+ [ ] Pseudonymisierung vor Transfer
+ [ ] Tokenisierung
+ [ ] Split-Processing (sensitive Felder in EU)
 - Vertraglich:
-  [ ] Transparenz-Pflicht ueber Behoerdenanfragen
-  [ ] Audit-Recht
-  [ ] Loeschpflicht nach Vertragsende
+ [ ] Transparenz-Pflicht ueber Behoerdenanfragen
+ [ ] Audit-Recht
+ [ ] Loeschpflicht nach Vertragsende
 - Organisatorisch:
-  [ ] Anbieterschulung Datenschutz
-  [ ] Notfallplan bei Behoerdenzugriff
+ [ ] Anbieterschulung Datenschutz
+ [ ] Notfallplan bei Behoerdenzugriff
 
 5. Restrisikobewertung
 [GRUEN / GELB / ORANGE / ROT]

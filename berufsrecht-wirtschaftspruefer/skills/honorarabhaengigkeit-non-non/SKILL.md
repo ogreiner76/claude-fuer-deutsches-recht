@@ -1,13 +1,13 @@
 ---
 name: honorarabhaengigkeit-non-non
-description: "Nutze dies, wenn Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaen..."
+description: "Nutze dies bei Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Organisati und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

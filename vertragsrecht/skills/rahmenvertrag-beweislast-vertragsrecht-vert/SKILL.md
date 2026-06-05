@@ -1,13 +1,13 @@
 ---
 name: rahmenvertrag-beweislast-vertragsrecht-vert
-description: "Nutze dies, wenn Spezial Rahmenvertrag Beweislast Und Darlegungslast, Spezial Vertragsrecht Erstpruefung Und Mandatsziel, Vert Rahmenvertrag Einzelabrufe Spezial im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Rahmenvertrag Beweislast Und Darlegungslast, Spezial Vertragsrecht Erstpruefung Und Mandatsziel, Vert Rahmenvertrag Einzelabrufe Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Rahmenvertrag Beweislast Und Darlegungslast, Spezial Vertragsrecht Erstpruefung Und Mandatsziel, Vert Rahmenvertrag Einzelabrufe Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rahmenvertrag Beweislast Und Darlegungslast, Vertragsrecht Erstpruefung Und Mandatsziel, Vert Rahmenvertrag Einzelabrufe Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Rahmenvertrag Beweislast Und Darlegungslast, Spezial Vertragsrecht Erstpruefung Und Mandatsziel, Vert Rahmenvertrag Einzelabrufe Spezial
+# Rahmenvertrag Beweislast Und Darlegungslast, Vertragsrecht Erstpruefung Und Mandatsziel, Vert Rahmenvertrag Einzelabrufe Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rahmenvertrag Beweislast Und Darlegungslast, Vertragsrecht Erstpruefung Und Mandatsziel, Vert Rahmenvertrag Einzelabrufe Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Rahmenvertrag Beweislast Und Darlegungslast, Spezial Vertragsrecht Erstpruefung Und Mandatsziel, Vert Rahmenvertrag Einzelabrufe Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rahmenvertrag Beweislast Und Darlegungslast, Vertragsrecht Erstpruefung Und Mandatsziel, Vert Rahmenvertrag Einzelabrufe Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Rahmenvertrag Beweislast Und Darlegungslast, Spezial Vertragsrech
 # Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung / spezial rahmenvertrag beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung / rahmenvertrag beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel / spezial vertragsrecht erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vertragsrecht: Erstprüfung, Rollenklärung und Mandatsziel / vertragsrecht erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

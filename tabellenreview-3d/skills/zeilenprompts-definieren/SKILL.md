@@ -1,13 +1,13 @@
 ---
 name: zeilenprompts-definieren
-description: "Nutze dies, wenn Zeilenprompts Definieren im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Zeilenprompts Definieren prüfen.; Erstelle eine Arbeitsfassung zu Zeilenprompts Definieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zeilenprompts Definieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zeilenprompts Definieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zeilenprompts Definieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -77,14 +77,14 @@ Spaltenprompts machen alle Dokumente vergleichbar. Zeilenprompts erlauben genau 
 
 ```yaml
 - zeile-id: vertrag-042
-  pfad: "vdr/kunden/042-kundenvertrag-mueller-gmbh.pdf"
-  hash: "sha256:..."
-  zeilenprompt: |
-    Konzernvertrag (Tochter zur Muttergesellschaft).
-    Zusätzlich: AktG Paragraph 311 / Paragraph 312 (Konzernrecht).
-    Marktüblichkeit der Vergütung in der Spalte 'Vergütung' bewerten.
-  ueberschreibt-spalten: ["vergütung"]
-  ergaenzt-spalten: ["change-of-control"]
+ pfad: "vdr/kunden/042-kundenvertrag-mueller-gmbh.pdf"
+ hash: "sha256:..."
+ zeilenprompt: |
+ Konzernvertrag (Tochter zur Muttergesellschaft).
+ Zusätzlich: AktG Paragraph 311 / Paragraph 312 (Konzernrecht).
+ Marktüblichkeit der Vergütung in der Spalte 'Vergütung' bewerten.
+ ueberschreibt-spalten: ["vergütung"]
+ ergaenzt-spalten: ["change-of-control"]
 ```
 
 ## Ausgabe

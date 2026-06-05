@@ -1,22 +1,22 @@
 ---
 name: information-exchange-informationsaustausch
-description: "Nutze dies, wenn Information Exchange Safe Harbor, Informationsaustausch Wettbewerber, Innovations Und Technologiemaerkte, Joint Venture Full Function im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Information Exchange Safe Harbor, Informationsaustausch Wettbewerber, Innovations Und Technologiemaerkte, Joint Venture Full Function prüfen.; Erstelle eine Arbeitsfassung zu Information Exchange Safe Harbor, Informationsaustausch Wettbewerber, Innovations Und Technologiemaerkte, Joint Venture Full Function.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Information Exchange Safe Harbor, Informationsaustausch Wettbewerber, Innovations Und Technologiemaerkte, Joint Venture Full Function: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Information Exchange Safe Harbor, Informationsaustausch Wettbewerber, Innovations Und Technologiemaerkte, Joint Venture Full Function
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Information Exchange Safe Harbor, Informationsaustausch Wettbewerber, Innovations Und Technologiemaerkte, Joint Venture Full Function** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `information-exchange-safe-harbor` | Informationsaustausch Safe Harbor: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Benchmarking, Verbandssitzung, Datenalter, Aggregation und Wettbewerbsparameter prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `information-exchange-safe-harbor` | Informationsaustausch Safe Harbor: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Benchmarking, Verbandssitzung, Datenalter, Aggregation und Wettbewerbsparameter prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `informationsaustausch-wettbewerber` | Informationsaustausch Wettbewerber: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `innovations-und-technologiemaerkte` | Marktabgrenzung in dynamischen Technologiemaerkten wo kuenftige Innovation den Wettbewerb praegt oder Patent-Pools streitig sind. Prüft Innovationsmaerkte technologische Substitution Standard-Essential-Patents FuE-Maerkte. Normen Art. 102 AEUV § 18 GWB FKVO 139/2004 EU-Bekanntmachung Marktdefinition 2024. Prüfraster Innovation-Markets-Doktrin Patent-Pool-Effekte Innovationswettbewerb als Ausgleich. Output Marktdefinitions-Memo Innovationsmarkt-Analyse Risikobewertung für Fusionskontrolle. Abgrenzung: fusionskontrolle-modus für allgemeine Fusionskontroll-Marktabgrenzung. |
-| `joint-venture-full-function` | Joint Venture Full Function: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Gemeinschaftsunternehmen, Vollfunktion, Spillover, FKVO und Art. 101 AEUV prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `joint-venture-full-function` | Joint Venture Full Function: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Gemeinschaftsunternehmen, Vollfunktion, Spillover, FKVO und Art. 101 AEUV prüfen, Evidenz, Fristen, Strategie und Quellen. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Information Exchange Safe Harbor, Informationsaustausch Wettbewerber, Inn
 
 ## 1. `information-exchange-safe-harbor`
 
-**Fokus:** Informationsaustausch Safe Harbor: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Benchmarking, Verbandssitzung, Datenalter, Aggregation und Wettbewerbsparameter prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Informationsaustausch Safe Harbor: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Benchmarking, Verbandssitzung, Datenalter, Aggregation und Wettbewerbsparameter prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Informationsaustausch Safe Harbor
 
@@ -202,7 +202,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `joint-venture-full-function`
 
-**Fokus:** Joint Venture Full Function: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Gemeinschaftsunternehmen, Vollfunktion, Spillover, FKVO und Art. 101 AEUV prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Joint Venture Full Function: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Gemeinschaftsunternehmen, Vollfunktion, Spillover, FKVO und Art. 101 AEUV prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Joint Venture Full Function
 

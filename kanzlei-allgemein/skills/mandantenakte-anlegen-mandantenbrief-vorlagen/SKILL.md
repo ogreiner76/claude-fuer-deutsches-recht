@@ -1,13 +1,13 @@
 ---
 name: mandantenakte-anlegen-mandantenbrief-vorlagen
-description: "Nutze dies, wenn Mandantenakte Anlegen, Mandantenbrief Vorlagen im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Mandantenakte Anlegen, Mandantenbrief Vorlagen prüfen.; Erstelle eine Arbeitsfassung zu Mandantenakte Anlegen, Mandantenbrief Vorlagen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandantenakte Anlegen, Mandantenbrief Vorlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mandantenakte Anlegen, Mandantenbrief Vorlagen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenakte Anlegen, Mandantenbrief Vorlagen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -54,20 +54,20 @@ Unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/ma
 
 ```
 01_stammdaten/
-  mandatsblatt.md
-  vollmacht.docx
-  vollmacht-unterschrieben.pdf
-  datenschutzhinweis.md
-  gwg-identifizierung.pdf
-  konfliktprüfung.md
-  honorarvereinbarung.docx (falls Vereinbarung)
+ mandatsblatt.md
+ vollmacht.docx
+ vollmacht-unterschrieben.pdf
+ datenschutzhinweis.md
+ gwg-identifizierung.pdf
+ konfliktprüfung.md
+ honorarvereinbarung.docx (falls Vereinbarung)
 02_eingaenge/
 03_schriftsaetze/
 04_anlagen/
 05_fristen/
 06_honorar/
-  rechnungen/
-  zahlungseingang.yaml
+ rechnungen/
+ zahlungseingang.yaml
 07_korrespondenz_mandant/
 08_korrespondenz_dritte/
 09_aktennotizen/
@@ -83,36 +83,36 @@ zustaendiger-anwalt: RA Mueller
 sekretariat: Frau Schmidt
 
 mandant:
-  typ: juristische-person  # juristische-person / natürliche-person / ehepaare-vergleichsweise
-  name: Mueller GmbH
-  anschrift: ...
-  rechtsform: GmbH
-  vertretungsberechtigte: Hans Mueller (Geschäftsführer)
-  registergericht: HRB ... AG München
-  ust-id: DE...
-  steuernummer: ...
+ typ: juristische-person # juristische-person / natürliche-person / ehepaare-vergleichsweise
+ name: Mueller GmbH
+ anschrift: ...
+ rechtsform: GmbH
+ vertretungsberechtigte: Hans Mueller (Geschäftsführer)
+ registergericht: HRB ... AG München
+ ust-id: DE...
+ steuernummer: ...
 
 ansprechpartner:
-  name: Hans Mueller
-  funktion: Geschäftsführer
-  telefon: ...
-  e-mail: ...
+ name: Hans Mueller
+ funktion: Geschäftsführer
+ telefon: ...
+ e-mail: ...
 
 mandatsumfang:
-  beschreibung: Verteidigung in Zivilrechtsstreit gegen ABC GmbH (Klage)
-  rechtsgebiet: Zivilrecht / Vertragsrecht
-  instanz: 1. Instanz LG München
-  streitwert: 35.000 EUR
+ beschreibung: Verteidigung in Zivilrechtsstreit gegen ABC GmbH (Klage)
+ rechtsgebiet: Zivilrecht / Vertragsrecht
+ instanz: 1. Instanz LG München
+ streitwert: 35.000 EUR
 
 honorar:
-  basis: rvg  # rvg / vereinbarung
-  stundensatz: 320  # bei Vereinbarung
-  pkh-pruefung: nein
+ basis: rvg # rvg / vereinbarung
+ stundensatz: 320 # bei Vereinbarung
+ pkh-pruefung: nein
 
 konfliktpruefung:
-  erfolgt-am: 2026-05-20
-  ergebnis: kein-konflikt
-  geprueft-von: RA Mueller
+ erfolgt-am: 2026-05-20
+ ergebnis: kein-konflikt
+ geprueft-von: RA Mueller
 ```
 
 ## Vollmacht
@@ -152,12 +152,12 @@ In `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/manda
 
 ```yaml
 - mandant-id: M-00874
-  name: Mueller GmbH
-  typ: juristische-person
-  mandate:
-    - 2026/0042
-  konfliktstatus: kein-konflikt
-  letzte-pruefung: 2026-05-20
+ name: Mueller GmbH
+ typ: juristische-person
+ mandate:
+ - 2026/0042
+ konfliktstatus: kein-konflikt
+ letzte-pruefung: 2026-05-20
 ```
 
 ## Audit

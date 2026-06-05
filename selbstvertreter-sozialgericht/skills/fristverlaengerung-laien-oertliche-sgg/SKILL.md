@@ -1,13 +1,13 @@
 ---
 name: fristverlaengerung-laien-oertliche-sgg
-description: "Nutze dies, wenn Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg prüfen.; Erstelle eine Arbeitsfassung zu Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg, Widerspruchsfrist 84 Sgg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -91,7 +91,7 @@ Manche Fristen koennen Sie verlaengern. Andere nicht. Wir zeigen Ihnen, welche u
 ### Schritt 2 — Antrag stellen
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 
@@ -432,7 +432,7 @@ Adressat ist die Behoerde, die den Bescheid erlassen hat — NICHT das Gericht. 
 [Ihr Name]
 [Ihre Adresse]
 
-[Behoerde mit Adresse]                                  [Ort, Datum]
+[Behoerde mit Adresse] [Ort, Datum]
 
 Az: [aus dem Bescheid uebernehmen]
 Betr: Bescheid vom [Datum], zugegangen am [Datum]
@@ -443,7 +443,7 @@ Sehr geehrte Damen und Herren,
 
 gegen den oben bezeichneten Bescheid lege ich
 
-                       Widerspruch
+ Widerspruch
 
 ein. Die Begruendung folgt nach Akteneinsicht.
 

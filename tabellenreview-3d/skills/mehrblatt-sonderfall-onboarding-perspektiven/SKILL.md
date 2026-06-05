@@ -1,13 +1,13 @@
 ---
 name: mehrblatt-sonderfall-onboarding-perspektiven
-description: "Nutze dies, wenn Spezial Mehrblatt Sonderfall Und Edge Case, Spezial Onboarding Mandantenkommunikation Entscheidungsvorlage, Spezial Perspektiven Verhandlung Vergleich Und Eskalation im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Spezial Mehrblatt Sonderfall Und Edge Case, Spezial Onboarding Mandantenkommunikation Entscheidungsvorlage, Spezial Perspektiven Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Mehrblatt Sonderfall Und Edge Case, Spezial Onboarding Mandantenkommunikation Entscheidungsvorlage, Spezial Perspektiven Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mehrblatt Sonderfall Und Edge Case, Onboarding Mandantenkommunikation Entscheidungsvorlage, Perspektiven Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Mehrblatt Sonderfall Und Edge Case, Spezial Onboarding Mandantenkommunikation Entscheidungsvorlage, Spezial Perspektiven Verhandlung Vergleich Und Eskalation
+# Mehrblatt Sonderfall Und Edge Case, Onboarding Mandantenkommunikation Entscheidungsvorlage, Perspektiven Verhandlung Vergleich Und Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mehrblatt Sonderfall Und Edge Case, Onboarding Mandantenkommunikation Entscheidungsvorlage, Perspektiven Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Mehrblatt Sonderfall Und Edge Case, Spezial Onboarding Mandantenkommunikation Entscheidungsvorlage, Spezial Perspektiven Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `tabellenreview-3d` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mehrblatt Sonderfall Und Edge Case, Onboarding Mandantenkommunikation Entscheidungsvorlage, Perspektiven Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `tabellenreview-3d` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Mehrblatt Sonderfall Und Edge Case, Spezial Onboarding Mandantenk
 # Mehrblatt: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Mehrblatt: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Mehrblatt: Sonderfall und Edge-Case-Prüfung / spezial mehrblatt sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mehrblatt: Sonderfall und Edge-Case-Prüfung / mehrblatt sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DD.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Onboarding: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Onboarding: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Onboarding: Mandantenkommunikation und Entscheidungsvorlage / spezial onboarding mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Onboarding: Mandantenkommunikation und Entscheidungsvorlage / onboarding mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DD.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Perspektiven: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Perspektiven: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Perspektiven: Verhandlung, Vergleich und Eskalation / spezial perspektiven verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Perspektiven: Verhandlung, Vergleich und Eskalation / perspektiven verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DD.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

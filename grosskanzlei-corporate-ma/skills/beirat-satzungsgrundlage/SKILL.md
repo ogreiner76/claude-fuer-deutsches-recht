@@ -1,6 +1,6 @@
 ---
 name: beirat-satzungsgrundlage
-description: "Nutze dies, wenn Beirat Satzungsgrundlage im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Satzungsgrundlage prüfen.; Erstelle eine Arbeitsfassung zu Beirat Satzungsgrundlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Satzungsgrundlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Satzungsgrundlage

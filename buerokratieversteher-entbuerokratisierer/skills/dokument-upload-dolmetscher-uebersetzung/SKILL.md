@@ -1,13 +1,13 @@
 ---
 name: dokument-upload-dolmetscher-uebersetzung
-description: "Nutze dies, wenn Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notf
 ## Aufgabe
 Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Klären, wann Übersetzung, Dolmetscher, einfache Sprache, fremdsprachiger Begleittext oder amtliche Übersetzung nötig ist.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -121,7 +121,7 @@ Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Sc
 - Vorwegnahme der Hauptsache nur ausnahmsweise zulässig, wenn ohne Eilentscheidung schwerer und unzumutbarer Schaden droht (st. Rspr., zuletzt z. B. BVerfG zu Existenzminimum-Eilanträgen).
 - Praktiker-Tipp: Eilantrag immer schriftlich plus parallel per Fax/beA an das zuständige Gericht; Telefonnotiz mit Kammer-Geschäftsstelle für Akteneilbearbeitung. Beratungshilfe (BerHG) und Prozesskostenhilfe (§ 114 ZPO iVm § 166 VwGO) sofort mitbeantragen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -167,7 +167,7 @@ Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Ve
 - Verzögerung: Untätigkeitsklage nach drei Monaten (§ 75 VwGO). Praxiserfahrung: häufig 12-24 Monate Bearbeitungszeit; Fristmahnung an die Behörde schriftlich, danach Klage.
 - Praktiker-Tipp: Unterlagen vollständig und beglaubigt einreichen (Geburts-/Heiratsurkunde mit Apostille/Legalisation, Sprachzertifikat B1, Einbürgerungstest, Einkommensnachweise). Bei Doppelstaaterhalt klären, ob Herkunftsstaat ohne Antrag entlässt oder Mehrstaatigkeit ohnehin akzeptiert.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,6 +1,6 @@
 ---
 name: strategie-fehlerkatalog
-description: "Nutze dies, wenn Strategie Fehlerkatalog im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Strategie Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Strategie Fehlerkatalog

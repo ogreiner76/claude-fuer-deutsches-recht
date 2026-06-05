@@ -1,13 +1,13 @@
 ---
 name: buergergeld-bescheid-lesen-beweismittel
-description: "Nutze dies, wenn Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii prüfen.; Erstelle eine Arbeitsfassung zu Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bescheid Lesen Tenor Begruendung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Bürgergeld Jobcenter Sgb Ii, Bürgergeld Kosten Der Unterkunft 22 Sgb Ii: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bescheid Lesen Tenor Begründung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii, Buergergeld Mehrbedarf 21 Sgb Ii** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -323,7 +323,7 @@ Buergergeld bekommen Sie, wenn Sie wenig Geld haben und arbeitsfaehig sind. Das 
 ### Schritt 3 — Widerspruch
 
 ```
-Jobcenter [Ort]                                     [Ort, Datum]
+Jobcenter [Ort] [Ort, Datum]
 
 BG-Nr: [...]
 

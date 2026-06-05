@@ -1,13 +1,13 @@
 ---
 name: itr-saas-dsv-bussgeldverteidigung-dsv
-description: "Nutze dies, wenn Itr Saas Vertragstypen Praxis, Dsv Bussgeldverteidigung Art 83, Dsv Schadensersatz Art 82, Softwarefehler Mangelhaftung Prüfen, Dsv Forensische Erstsicherung im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Bitte Itr Saas Vertragstypen Praxis, Dsv Bussgeldverteidigung Art 83, Dsv Schadensersatz Art 82, Softwarefehler Mangelhaftung Prüfen, Dsv Forensische Erstsicherung prüfen.; Erstelle eine Arbeitsfassung zu Itr Saas Vertragstypen Praxis, Dsv Bussgeldverteidigung Art 83, Dsv Schadensersatz Art 82, Softwarefehler Mangelhaftung Prüfen, Dsv Forensische Erstsicherung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Itr Saas Vertragstypen Praxis, Dsv Bussgeldverteidigung Art 83, Dsv Schadensersatz Art 82, Softwarefehler Mangelhaftung Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Itr Saas Vertragstypen Praxis, Dsv Bussgeldverteidigung Art 83, Dsv Schadensersatz Art 82, Softwarefehler Mangelhaftung Prüfen, Dsv Forensische Erstsicherung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Itr Saas Vertragstypen Praxis, Dsv Bussgeldverteidigung Art 83, Dsv Schadensersatz Art 82, Softwarefehler Mangelhaftung Prüfen, Dsv Forensische Erstsicherung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -288,11 +288,11 @@ Wir ruegen nachfolgende Maengel an der Softwarelieferung / dem
 Softwarewerk vom [Datum]:
 
 1. [Bug-Beschreibung: System stuerzt bei Ausfuehren von Funktion X
-   ab; Fehlermeldung: [Code]; reproduzierbar bei: [Umgebung]]
+ ab; Fehlermeldung: [Code]; reproduzierbar bei: [Umgebung]]
 2. [Performance: Antwortzeit bei 10 parallelen Nutzern > 30 Sekunden;
-   vereinbart laut Pflichtenheft Punkt 4.2: < 3 Sekunden]
+ vereinbart laut Pflichtenheft Punkt 4.2: < 3 Sekunden]
 3. [Schnittstelle Y funktioniert nicht: Schnittstellendokumentation
-   laut Spezifikation vom [Datum] nicht erfullt]
+ laut Spezifikation vom [Datum] nicht erfullt]
 
 Die Maengel unterschreiten die vereinbarte Beschaffenheit gemaess
 Pflichtenheft vom [Datum] sowie die objektive Beschaffenheit
@@ -306,7 +306,7 @@ Nach fruchtlosem Ablauf der Frist behalten wir uns vor:
 - Minderung des Werklohns / Kaufpreises
 - Ruecktritt vom Vertrag
 - Schadensersatz statt der Leistung §§ 437 Nr. 3, 281 BGB /
-  §§ 636, 281 BGB
+ §§ 636, 281 BGB
 - Selbstvornahme und Vorschussklage § 637 BGB (Werkvertrag)
 
 [Unterschrift]

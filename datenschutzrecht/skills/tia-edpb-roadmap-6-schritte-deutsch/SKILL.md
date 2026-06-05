@@ -49,10 +49,10 @@ Optionen:
 
 - **Art. 45 DSGVO – Angemessenheitsbeschluss** (z. B. UK, Schweiz, Japan, Suedkorea, EU-US DPF fuer gelistete Importeure).
 - **Art. 46 DSGVO – Geeignete Garantien**:
-  - SCC (Beschluss (EU) 2021/914, Module 1-4),
-  - BCR (Art. 47),
-  - Genehmigte Verhaltensregeln / Zertifizierungen,
-  - Behoerdliche Standardvertragsklauseln.
+ - SCC (Beschluss (EU) 2021/914, Module 1-4),
+ - BCR (Art. 47),
+ - Genehmigte Verhaltensregeln / Zertifizierungen,
+ - Behoerdliche Standardvertragsklauseln.
 - **Art. 49 DSGVO – Ausnahmen** (Einwilligung, Vertragserfuellung, Rechtsanspruch) – nur eng auslegen, keine Dauerloesung.
 
 Bei Art. 45 endet die TIA-Pruefung haeufig hier (Schritt 3-5 dann reduziert).
@@ -66,10 +66,10 @@ Pruefen:
 - Welche Behoerden haben Zugriffsbefugnisse?
 - Welche Eingriffstiefe? Welche Garantien (gerichtliche Kontrolle, Anlassbezug)?
 - Empfehlung 02/2020 – Europaeische Wesentliche Garantien (EEG):
-  - Garantie A: klare, praezise und vorhersehbare Regelungen.
-  - Garantie B: Notwendigkeit und Verhaeltnismaessigkeit.
-  - Garantie C: unabhaengiger Pruefmechanismus.
-  - Garantie D: effektive Rechtsschutzmoeglichkeiten der betroffenen Person.
+ - Garantie A: klare, praezise und vorhersehbare Regelungen.
+ - Garantie B: Notwendigkeit und Verhaeltnismaessigkeit.
+ - Garantie C: unabhaengiger Pruefmechanismus.
+ - Garantie D: effektive Rechtsschutzmoeglichkeiten der betroffenen Person.
 - Sind die Garantien im Recht **und** in der Praxis erfuellt?
 
 Quellen fuer Bewertung: offizielle Berichte, Transparenzberichte des Importeurs, EDPB-Empfehlungen, frei zugaengliche Auswertungen.
@@ -112,35 +112,35 @@ Kapitelueberschriften fuer das TIA-Dokument:
 
 ```
 1. Know your transfers
-   1.1 Transferparteien
-   1.2 Datenarten
-   1.3 Subprozessoren und Onward Transfers
-   1.4 Datenflussdiagramm
+ 1.1 Transferparteien
+ 1.2 Datenarten
+ 1.3 Subprozessoren und Onward Transfers
+ 1.4 Datenflussdiagramm
 
 2. Transfer tool
-   2.1 Gewaehltes Instrument
-   2.2 Begruendung der Wahl
+ 2.1 Gewaehltes Instrument
+ 2.2 Begruendung der Wahl
 
 3. Bewertung Drittlandsrecht und -praxis
-   3.1 Behoerdliche Zugriffsbefugnisse
-   3.2 EEG-Pruefung (A, B, C, D)
-   3.3 Transparenzberichte und Erfahrungswerte des Importeurs
+ 3.1 Behoerdliche Zugriffsbefugnisse
+ 3.2 EEG-Pruefung (A, B, C, D)
+ 3.3 Transparenzberichte und Erfahrungswerte des Importeurs
 
 4. Ergaenzende Schutzmassnahmen
-   4.1 Technisch
-   4.2 Vertraglich
-   4.3 Organisatorisch
-   4.4 Wirkungsbewertung
+ 4.1 Technisch
+ 4.2 Vertraglich
+ 4.3 Organisatorisch
+ 4.4 Wirkungsbewertung
 
 5. Verfahrensschritte
-   5.1 Vertraglich umgesetzte Massnahmen
-   5.2 Aufsichtsbehoerden-Konsultation (falls erforderlich)
-   5.3 Sign-off
+ 5.1 Vertraglich umgesetzte Massnahmen
+ 5.2 Aufsichtsbehoerden-Konsultation (falls erforderlich)
+ 5.3 Sign-off
 
 6. Re-evaluation
-   6.1 Trigger fuer Neubewertung
-   6.2 Naechstes Review-Datum
-   6.3 Notfallaussetzungs-Prozess
+ 6.1 Trigger fuer Neubewertung
+ 6.2 Naechstes Review-Datum
+ 6.3 Notfallaussetzungs-Prozess
 ```
 
 ## Typische Fehler

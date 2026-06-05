@@ -1,22 +1,22 @@
 ---
 name: red-flag-related-party-ressortverteilung
-description: "Nutze dies, wenn Red Flag Escalation, Related Party Transactions, Ressortverteilung, Risikoampel Vorlage im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Red Flag Escalation, Related Party Transactions, Ressortverteilung, Risikoampel Vorlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Red Flag Escalation, Related Party Transactions, Ressortverteilung, Risikoampel Vorlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Red Flag Escalation, Related Party Transactions, Ressortverteilung, Risikoampel Vorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `red-flag-escalation` | AG/SE-Aufsichtsrat Praxis: Red Flag Escalation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `related-party-transactions` | AG/SE-Aufsichtsrat Praxis: Related Party Transactions; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `ressortverteilung` | AG/SE-Aufsichtsrat Praxis: Ressortverteilung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `risikoampel-vorlage` | AG/SE-Aufsichtsrat Praxis: Risikoampel Vorlage; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `red-flag-escalation` | AG/SE-Aufsichtsrat Praxis: Red Flag Escalation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `related-party-transactions` | AG/SE-Aufsichtsrat Praxis: Related Party Transactions; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ressortverteilung` | AG/SE-Aufsichtsrat Praxis: Ressortverteilung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `risikoampel-vorlage` | AG/SE-Aufsichtsrat Praxis: Risikoampel Vorlage; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Red Flag Escalation, Related Party Transactions, Ressortverteilung, Risik
 
 ## 1. `red-flag-escalation`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Red Flag Escalation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Red Flag Escalation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Red Flag Escalation
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `related-party-transactions`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Related Party Transactions; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Related Party Transactions; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Related Party Transactions
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `ressortverteilung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Ressortverteilung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Ressortverteilung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Ressortverteilung
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `risikoampel-vorlage`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Risikoampel Vorlage; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Risikoampel Vorlage; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Risikoampel Vorlage
 

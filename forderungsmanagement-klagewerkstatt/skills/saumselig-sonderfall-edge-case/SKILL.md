@@ -1,6 +1,6 @@
 ---
 name: saumselig-sonderfall-edge-case
-description: "Nutze dies, wenn Saumselig: Sonderfall und Edge-Case-Prüfung im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Saumselig: Sonderfall und Edge-Case-Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Saumselig: Sonderfall und Edge-Case-Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Saumselig: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Saumselig: Sonderfall und Edge-Case-Prüfung

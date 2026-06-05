@@ -1,13 +1,13 @@
 ---
 name: beteiligung-unternehmen-brh-aufgabe-brh
-description: "Nutze dies, wenn Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen, Bho 073 Bho 91 Stellen Ausserhalb Bund Praktis und 6 weitere Themen im Plugin Haushaltsrecht Bho Bund Länder konkret bearbeitet werden soll. Auslöser: Bitte Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen, Bho 073 Bho 91 Stellen Ausserhalb Bund Praktis und 6 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen, Bho 073 Bho 91 Stellen Ausserhalb Bund Praktis und 6 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen, Bho 073 Bho 91 Stellen Ausserhalb Bund Praktis und 6 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Prüfung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Prüfung Praktisch Anwen, Bho 073 Bho 91 Stellen Ausserhalb Bund Praktis und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: tabletop-exercise-third-party-tls-pki-usb
-description: "Nutze dies, wenn Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger im Plugin Nis2 Cybersecurity Compliance konkret bearbeitet werden soll. Auslöser: Bitte Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger prüfen.; Erstelle eine Arbeitsfassung zu Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

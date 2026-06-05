@@ -1,6 +1,6 @@
 ---
 name: klage
-description: "Nutze dies, wenn Klage: Formular, Portal und Einreichungslogik im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Klage: Formular, Portal und Einreichungslogik prüfen.; Erstelle eine Arbeitsfassung zu Klage: Formular, Portal und Einreichungslogik.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klage: Formular, Portal und Einreichungslogik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Klage: Formular, Portal und Einreichungslogik

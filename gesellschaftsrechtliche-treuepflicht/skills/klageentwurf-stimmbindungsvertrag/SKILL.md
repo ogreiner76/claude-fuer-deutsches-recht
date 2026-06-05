@@ -1,22 +1,22 @@
 ---
 name: klageentwurf-stimmbindungsvertrag
-description: "Nutze dies, wenn Klageentwurf Bausteine, Stimmbindungsvertrag, Schadensersatz, Aktienrecht Gleichbehandlung 53A im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Klageentwurf Bausteine, Stimmbindungsvertrag, Schadensersatz, Aktienrecht Gleichbehandlung 53A prüfen.; Erstelle eine Arbeitsfassung zu Klageentwurf Bausteine, Stimmbindungsvertrag, Schadensersatz, Aktienrecht Gleichbehandlung 53A.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klageentwurf Bausteine, Stimmbindungsvertrag, Schadensersatz, Aktienrecht Gleichbehandlung 53a: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klageentwurf Bausteine, Stimmbindungsvertrag, Schadensersatz, Aktienrecht Gleichbehandlung 53A
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klageentwurf Bausteine, Stimmbindungsvertrag, Schadensersatz, Aktienrecht Gleichbehandlung 53A** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `klageentwurf-bausteine` | Gesellschaftsrechtliche Treuepflicht: Klageentwurf Bausteine; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `stimmbindungsvertrag` | Gesellschaftsrechtliche Treuepflicht: Stimmbindungsvertrag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `schadensersatz` | Gesellschaftsrechtliche Treuepflicht: Schadensersatz; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aktienrecht-gleichbehandlung-53a` | Gesellschaftsrechtliche Treuepflicht: Aktienrecht Gleichbehandlung 53a; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `klageentwurf-bausteine` | Gesellschaftsrechtliche Treuepflicht: Klageentwurf Bausteine; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `stimmbindungsvertrag` | Gesellschaftsrechtliche Treuepflicht: Stimmbindungsvertrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `schadensersatz` | Gesellschaftsrechtliche Treuepflicht: Schadensersatz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aktienrecht-gleichbehandlung-53a` | Gesellschaftsrechtliche Treuepflicht: Aktienrecht Gleichbehandlung 53a; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Klageentwurf Bausteine, Stimmbindungsvertrag, Schadensersatz, Aktienrecht
 
 ## 1. `klageentwurf-bausteine`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Klageentwurf Bausteine; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Klageentwurf Bausteine; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Klageentwurf Bausteine
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `stimmbindungsvertrag`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Stimmbindungsvertrag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Stimmbindungsvertrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Stimmbindungsvertrag
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `schadensersatz`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Schadensersatz; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Schadensersatz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Schadensersatz
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `aktienrecht-gleichbehandlung-53a`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Aktienrecht Gleichbehandlung 53a; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Aktienrecht Gleichbehandlung 53a; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aktienrecht Gleichbehandlung 53a
 

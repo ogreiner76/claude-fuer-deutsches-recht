@@ -1,22 +1,22 @@
 ---
 name: hv-einladung-hv-jahreskalender-hv-lessons-hv
-description: "Nutze dies, wenn Hv Einladung Finalcheck, Hv Jahreskalender, Hv Lessons Learned, Hv Projektplan Und Raci im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Hv Einladung Finalcheck, Hv Jahreskalender, Hv Lessons Learned, Hv Projektplan Und Raci prüfen.; Erstelle eine Arbeitsfassung zu Hv Einladung Finalcheck, Hv Jahreskalender, Hv Lessons Learned, Hv Projektplan Und Raci.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hv Einladung Finalcheck, Hv Jahreskalender, Hv Lessons Learned, Hv Projektplan Und Raci: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hv Einladung Finalcheck, Hv Jahreskalender, Hv Lessons Learned, Hv Projektplan Und Raci
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hv Einladung Finalcheck, Hv Jahreskalender, Hv Lessons Learned, Hv Projektplan Und Raci** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `hv-einladung-finalcheck` | Hauptversammlung AG und SE: HV Einladung Finalcheck; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `hv-jahreskalender` | Hauptversammlung AG und SE: HV Jahreskalender; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `hv-lessons-learned` | Hauptversammlung AG und SE: HV Lessons Learned; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `hv-projektplan-und-raci` | Hauptversammlung AG und SE: HV Projektplan Und Raci; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `hv-einladung-finalcheck` | Hauptversammlung AG und SE: HV Einladung Finalcheck; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `hv-jahreskalender` | Hauptversammlung AG und SE: HV Jahreskalender; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `hv-lessons-learned` | Hauptversammlung AG und SE: HV Lessons Learned; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `hv-projektplan-und-raci` | Hauptversammlung AG und SE: HV Projektplan Und Raci; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Hv Einladung Finalcheck, Hv Jahreskalender, Hv Lessons Learned, Hv Projek
 
 ## 1. `hv-einladung-finalcheck`
 
-**Fokus:** Hauptversammlung AG und SE: HV Einladung Finalcheck; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: HV Einladung Finalcheck; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # HV Einladung Finalcheck
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `hv-jahreskalender`
 
-**Fokus:** Hauptversammlung AG und SE: HV Jahreskalender; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: HV Jahreskalender; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # HV Jahreskalender
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `hv-lessons-learned`
 
-**Fokus:** Hauptversammlung AG und SE: HV Lessons Learned; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: HV Lessons Learned; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # HV Lessons Learned
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `hv-projektplan-und-raci`
 
-**Fokus:** Hauptversammlung AG und SE: HV Projektplan Und Raci; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: HV Projektplan Und Raci; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # HV Projektplan Und Raci
 

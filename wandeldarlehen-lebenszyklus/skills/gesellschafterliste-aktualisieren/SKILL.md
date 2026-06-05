@@ -1,13 +1,13 @@
 ---
 name: gesellschafterliste-aktualisieren
-description: "Nutze dies, wenn Gesellschafterliste Aktualisieren, Gesellschafterversammlung Einberufen im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Bitte Gesellschafterliste Aktualisieren, Gesellschafterversammlung Einberufen prüfen.; Erstelle eine Arbeitsfassung zu Gesellschafterliste Aktualisieren, Gesellschafterversammlung Einberufen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschafterliste Aktualisieren, Gesellschafterversammlung Einberufen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschafterliste Aktualisieren, Gesellschafterversammlung Einberufen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschafterliste Aktualisieren, Gesellschafterversammlung Einberufen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -89,10 +89,10 @@ Berlin, HRB 123456 B, Amtsgericht Charlottenburg
 Stand: [Datum nach Kapitalerhöhung]
 
 Nr. | Name | Geburtsdatum / HRB | Anschrift | Anteile | Nennwert EUR | Erwerb
-1   | Dr. Mira Schoeneck | [Datum] | [Anschrift] | 40 | 40 | [Gründungsdatum]
-2   | Lina Habersaat | [Datum] | [Anschrift] | 35 | 35 | [Gründungsdatum]
-3   | [Treasury GmbH] | HRB ●, AG ● | [Anschrift] | 25 | 25 | [Datum]
-4   | Northstar Pre-Seed Partners GmbH & Co. KG | HRA 99999, AG Frankfurt | [Anschrift] | 7 | 7 | [Beurkundungsdatum KE]
+1 | Dr. Mira Schoeneck | [Datum] | [Anschrift] | 40 | 40 | [Gründungsdatum]
+2 | Lina Habersaat | [Datum] | [Anschrift] | 35 | 35 | [Gründungsdatum]
+3 | [Treasury GmbH] | HRB ●, AG ● | [Anschrift] | 25 | 25 | [Datum]
+4 | Northstar Pre-Seed Partners GmbH & Co. KG | HRA 99999, AG Frankfurt | [Anschrift] | 7 | 7 | [Beurkundungsdatum KE]
 
 Gesamt: 107 Anteile, Stammkapital EUR 107
 ```

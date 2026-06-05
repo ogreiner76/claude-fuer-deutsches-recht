@@ -1,6 +1,6 @@
 ---
 name: mails
-description: "Nutze dies, wenn Mails: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Mails: Risikoampel, Gegenargumente und Verteidigungslinien prüfen.; Erstelle eine Arbeitsfassung zu Mails: Risikoampel, Gegenargumente und Verteidigungslinien.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mails: Risikoampel, Gegenargumente und Verteidigungslinien: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Mails: Risikoampel, Gegenargumente und Verteidigungslinien

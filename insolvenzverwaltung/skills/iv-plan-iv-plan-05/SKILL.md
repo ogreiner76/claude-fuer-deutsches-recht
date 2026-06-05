@@ -1,13 +1,13 @@
 ---
 name: iv-plan-iv-plan-05
-description: "Nutze dies, wenn Iv Plan Insolvenzplan Architektur, Iv Plan Minderheitenschutz im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Plan Insolvenzplan Architektur, Iv Plan Minderheitenschutz prüfen.; Erstelle eine Arbeitsfassung zu Iv Plan Insolvenzplan Architektur, Iv Plan Minderheitenschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Iv Plan Insolvenzplan Architektur, Iv Plan Minderheitenschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Iv Plan Insolvenzplan Architektur, Iv Plan Minderheitenschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Iv Plan Insolvenzplan Architektur, Iv Plan Minderheitenschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -53,7 +53,7 @@ Einen vollständigen InsO-Plan strukturieren. Der Skill ist vollständig in das 
 
 1. Planziel, Planvorlageberechtigung, Verfahrensstand und Einreichungszeitpunkt aufnehmen.
 2. Darstellenden und gestaltenden Teil mit Anlagen, Gruppen und Rechtswirkungen verzahnen.
-3. Sicherheiten, Nachrang, Altmassegläubiger, Anteilsrechte und Drittsicherheiten als Spezialmodule prüfen.
+3. Sicherheiten, Nachrang, Altmassegläubiger, Anteilsrechte und Drittsicherheiten als Fachmodule prüfen.
 4. Planvollzug, Überwachung, Bedingungen und Registerfolgen vorab mitdenken.
 
 ## Ausgabe

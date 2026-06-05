@@ -1,12 +1,12 @@
 ---
 name: auskunft
-description: "Nutze dies, wenn Auskunft: Behörden-, Gerichts- oder Registerweg im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Auskunft: Behörden-, Gerichts- oder Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Auskunft: Behörden-, Gerichts- oder Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Auskunft: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Auskunft: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Auskunft: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Auskunft: Behörden-, Gerichts- oder Registerweg / spezial auskunft behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Auskunft: Behörden-, Gerichts- oder Registerweg / auskunft behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -33,12 +33,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Datenkopie** Art. 15 Abs. 3 DSGVO; erste Kopie kostenlos, weitere mit Verwaltungskosten zulässig (EuGH C-307/22 zur Reichweite).
 - **Identitätsprüfung** Art. 12 Abs. 6 — bei begründeten Zweifeln; nicht überzogen handhaben.
 - **Verweigerung:**
-  - **Art. 12 Abs. 5 lit. b DSGVO:** offenkundig missbräuchlich.
-  - **§ 34 BDSG:** Ausnahmen (z. B. Datenverbleib bei Berufsgeheimnisträgern, Strafverfolgung).
+ - **Art. 12 Abs. 5 lit. b DSGVO:** offenkundig missbräuchlich.
+ - **§ 34 BDSG:** Ausnahmen (z. B. Datenverbleib bei Berufsgeheimnisträgern, Strafverfolgung).
 - **Beschwerdewege:**
-  - **Beschwerde Aufsicht Art. 77 DSGVO:** zuständige Landesdatenschutzbehörde oder BfDI.
-  - **Klage gegen Verantwortlichen Art. 79 DSGVO:** ZG mit Streitwert-Zuständigkeit; ggf. § 29c ZPO Verbraucher.
-  - **Klage gegen Aufsicht Art. 78 DSGVO:** VG-Klage.
+ - **Beschwerde Aufsicht Art. 77 DSGVO:** zuständige Landesdatenschutzbehörde oder BfDI.
+ - **Klage gegen Verantwortlichen Art. 79 DSGVO:** ZG mit Streitwert-Zuständigkeit; ggf. § 29c ZPO Verbraucher.
+ - **Klage gegen Aufsicht Art. 78 DSGVO:** VG-Klage.
 - **EuGH-Rechtsprechung:** C-487/21 (Österreichische Datenschutzbehörde): Auskunftsanspruch erstreckt sich auf konkrete Empfänger (nicht nur Empfängerkategorien), wenn diese identifiziert werden können.
 
 ## Praxis-Tipp

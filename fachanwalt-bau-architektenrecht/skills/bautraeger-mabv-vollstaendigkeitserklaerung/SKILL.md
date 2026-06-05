@@ -1,13 +1,13 @@
 ---
 name: bautraeger-mabv-vollstaendigkeitserklaerung
-description: "Nutze dies, wenn Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Löschung, Bautraeger Rangruecktritt Grundpfandrechte im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Löschung, Bautraeger Rangruecktritt Grundpfandrechte prüfen.; Erstelle eine Arbeitsfassung zu Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Löschung, Bautraeger Rangruecktritt Grundpfandrechte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Löschung, Bautraeger Rangruecktritt Grundpfandrechte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Löschung, Bautraeger Rangruecktritt Grundpfandrechte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Löschung, Bautraeger Rangruecktritt Grundpfandrechte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

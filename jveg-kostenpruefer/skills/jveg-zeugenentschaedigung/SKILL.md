@@ -1,13 +1,13 @@
 ---
 name: jveg-zeugenentschaedigung
-description: "Nutze dies, wenn Jveg Zeugenentschaedigung Checkliste, Prüfung Sachverstaendigengutachten Ki Deklaration, Spezial Belegfeste Formular Portal Und Einreichung im Plugin Jveg Kostenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Jveg Zeugenentschaedigung Checkliste, Prüfung Sachverstaendigengutachten Ki Deklaration, Spezial Belegfeste Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Jveg Zeugenentschaedigung Checkliste, Prüfung Sachverstaendigengutachten Ki Deklaration, Spezial Belegfeste Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Jveg Zeugenentschaedigung Checkliste, Prüfung Sachverstaendigengutachten Ki Deklaration, Belegfeste Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Jveg Zeugenentschaedigung Checkliste, Prüfung Sachverstaendigengutachten Ki Deklaration, Spezial Belegfeste Formular Portal Und Einreichung
+# Jveg Zeugenentschaedigung Checkliste, Prüfung Sachverstaendigengutachten Ki Deklaration, Belegfeste Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Jveg Zeugenentschaedigung Checkliste, Prüfung Sachverstaendigengutachten Ki Deklaration, Belegfeste Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Jveg Zeugenentschaedigung Checkliste, Prüfung Sachverstaendigengutachten Ki Deklaration, Spezial Belegfeste Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jveg-kostenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Jveg Zeugenentschaedigung Checkliste, Prüfung Sachverstaendigengutachten Ki Deklaration, Belegfeste Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jveg-kostenpruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -127,21 +127,21 @@ Wenn dem Gericht ein Sachverständigengutachten zur Vergütungsfestsetzung vorge
 
 ```
 □ Ist im Gutachten ein Hinweis auf eingesetzte Hilfsmittel
-  enthalten?
+ enthalten?
 □ Sind Mitarbeiter benannt (§ 407a Abs. 3 ZPO)?
 □ Gibt es Anhaltspunkte, dass das Gutachten nicht persönlich
-  erstellt wurde?
-  - Gleichförmige Satzanfänge in mehrfacher Wiederholung
-  - Dreifach-Strukturen in Aufzählungen ohne sachlichen Grund
-  - Sachverständiger nennt sich selbst als Adressat
-  - Halbsatzkonstruktionen, die wie Prompt-Nachschärfungen
-    wirken
-  - Stilbrüche zwischen Kapiteln
-  - Generische Standardformulierungen ohne Fallbezug
-  - Fehlende Auseinandersetzung mit konkreten
-    Anknüpfungstatsachen
+ erstellt wurde?
+ - Gleichförmige Satzanfänge in mehrfacher Wiederholung
+ - Dreifach-Strukturen in Aufzählungen ohne sachlichen Grund
+ - Sachverständiger nennt sich selbst als Adressat
+ - Halbsatzkonstruktionen, die wie Prompt-Nachschärfungen
+ wirken
+ - Stilbrüche zwischen Kapiteln
+ - Generische Standardformulierungen ohne Fallbezug
+ - Fehlende Auseinandersetzung mit konkreten
+ Anknüpfungstatsachen
 □ Wurde eine Untersuchung der Beteiligten durchgeführt, wenn
-  erforderlich?
+ erforderlich?
 ```
 
 → Einzelne Indizien tragen nicht. Erst das **Gesamtbild** kann eine ernsthafte Prüfung rechtfertigen.
@@ -152,10 +152,10 @@ Vor einer Vergütungssperre ist der Sachverständige in der Regel anzuhören:
 
 - Ladung zur mündlichen Erläuterung (§ 411 Abs. 3 ZPO) oder schriftliche Stellungnahme
 - Konkrete Fragen:
-  - Welche Erstellungsschritte hat er persönlich vorgenommen?
-  - Wurden Hilfskräfte oder technische Hilfsmittel eingesetzt? Welche?
-  - Wer ist verantwortlich für welche Passagen des Gutachtens?
-  - Wie ist eine Auffälligkeit konkret zu erklären?
+ - Welche Erstellungsschritte hat er persönlich vorgenommen?
+ - Wurden Hilfskräfte oder technische Hilfsmittel eingesetzt? Welche?
+ - Wer ist verantwortlich für welche Passagen des Gutachtens?
+ - Wie ist eine Auffälligkeit konkret zu erklären?
 
 → Die Antworten sind ins Protokoll aufzunehmen.
 
@@ -216,10 +216,10 @@ Der Beschluss muss tragend begründen:
 □ Fehlende Würdigung konkreter Anknüpfungstatsachen
 □ Belegketten, die nicht zur konkreten Akte passen
 □ Auffällige Übereinstimmungen mit anderen, dem Gericht
-  bekannten Gutachten desselben Sachverständigen
+ bekannten Gutachten desselben Sachverständigen
 □ Standard-Floskeln aus generativen Modellen
-  ("Es ist wichtig zu beachten…", "Zusammenfassend lässt sich
-  festhalten…") in unangemessener Häufung
+ ("Es ist wichtig zu beachten…", "Zusammenfassend lässt sich
+ festhalten…") in unangemessener Häufung
 ```
 
 ## Hinweise zur höchstpersönlichen Erstellung
@@ -251,17 +251,17 @@ Der Sachverständige [Name] wird gebeten, bis [Datum] schriftlich
 zu folgenden Fragen Stellung zu nehmen:
 
 1. Welche Untersuchungs- und Erhebungsschritte haben Sie
-   persönlich durchgeführt?
+ persönlich durchgeführt?
 2. Welche Hilfsmittel haben Sie bei der Erstellung des Gutachtens
-   eingesetzt? Bitte konkretisieren Sie etwaige technische
-   Werkzeuge.
+ eingesetzt? Bitte konkretisieren Sie etwaige technische
+ Werkzeuge.
 3. Wer war an der Erstellung beteiligt? Bitte benennen Sie
-   sämtliche Mitarbeiter gemäß § 407a Abs. 3 ZPO.
+ sämtliche Mitarbeiter gemäß § 407a Abs. 3 ZPO.
 4. Wie ist die mehrfach gleichförmige Formulierung an folgenden
-   Stellen zu erklären: [konkrete Fundstellen].
+ Stellen zu erklären: [konkrete Fundstellen].
 5. Bitte legen Sie gemäß § 407a Abs. 5 ZPO sämtliche Unterlagen
-   vor, die der Begutachtung zugrunde liegen, einschließlich
-   etwaiger Recherche- und Vorbereitungsdokumentation.
+ vor, die der Begutachtung zugrunde liegen, einschließlich
+ etwaiger Recherche- und Vorbereitungsdokumentation.
 
 Auf die Folgen einer Vergütungssperre nach § 8a Abs. 2 S. 1
 JVEG wird hingewiesen.

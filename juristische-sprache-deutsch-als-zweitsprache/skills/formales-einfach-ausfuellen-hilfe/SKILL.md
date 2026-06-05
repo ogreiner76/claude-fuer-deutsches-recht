@@ -1,13 +1,13 @@
 ---
 name: formales-einfach-ausfuellen-hilfe
-description: "Nutze dies, wenn Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe im Plugin Juristische Sprache Deutsch Als Zweitsprache konkret bearbeitet werden soll. Auslöser: Bitte Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe prüfen.; Erstelle eine Arbeitsfassung zu Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: subsumtion-schritt-verfassungsrecht
-description: "Nutze dies, wenn Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Bitte Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen prüfen.; Erstelle eine Arbeitsfassung zu Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Subsumtion Schritt Für Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,11 +57,11 @@ Subsumtion ist das **Kern-Handwerk** der juristischen Arbeit. Wer subsumieren ka
 
 ```
 1. TATBESTANDSMERKMAL benennen
-   ↓
+ ↓
 2. DEFINITION dieses Merkmals
-   ↓
+ ↓
 3. SUBSUMTION (Tatsachen + Subsumtions-Konstruktion "Hier hat...")
-   ↓
+ ↓
 4. ZWISCHENERGEBNIS
 ```
 
@@ -268,20 +268,20 @@ Bei jeder Grundrechts-Frage: Schutzbereich – Eingriff – Verfassungsrechtlich
 
 ```
 A. Schutzbereich
-   I. Persönlich (wer ist Träger?)
-   II. Sachlich (welches Verhalten ist erfasst?)
+ I. Persönlich (wer ist Träger?)
+ II. Sachlich (welches Verhalten ist erfasst?)
 
 B. Eingriff
-   Hoheitliches Handeln greift in Schutzbereich ein
+ Hoheitliches Handeln greift in Schutzbereich ein
 
 C. Verfassungs-rechtliche Rechtfertigung
-   I. Eingriffs-Befugnis (Gesetz, Grundrechts-Schranke)
-   II. Verfassungsmäßigkeit des Eingriffs-Gesetzes
-   III. Verhältnismäßigkeit im Einzelfall
-      1. Legitimer Zweck
-      2. Geeignetheit
-      3. Erforderlichkeit
-      4. Angemessenheit (Verhältnismäßigkeit i.e.S.)
+ I. Eingriffs-Befugnis (Gesetz, Grundrechts-Schranke)
+ II. Verfassungsmäßigkeit des Eingriffs-Gesetzes
+ III. Verhältnismäßigkeit im Einzelfall
+ 1. Legitimer Zweck
+ 2. Geeignetheit
+ 3. Erforderlichkeit
+ 4. Angemessenheit (Verhältnismäßigkeit i.e.S.)
 ```
 
 ## Schritt 2 — Schutzbereich
@@ -425,9 +425,9 @@ Welches Gesetz erlaubt den Eingriff?
 
 - Beruf-Wahl + Beruf-Ausübung
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  - 1. Stufe: Berufsausübungs-Regelung
-  - 2. Stufe: subjektive Berufswahl-Schranke
-  - 3. Stufe: objektive Berufswahl-Schranke
+ - 1. Stufe: Berufsausübungs-Regelung
+ - 2. Stufe: subjektive Berufswahl-Schranke
+ - 3. Stufe: objektive Berufswahl-Schranke
 
 ### Art. 14 GG — Eigentum
 
@@ -478,22 +478,22 @@ Welches Gesetz erlaubt den Eingriff?
 
 ```
 A. Schutzbereich
-   I. Persönlich: Deutscher (Veranstalter), juristische Person
-   II. Sachlich: friedliche Versammlung im Freien
+ I. Persönlich: Deutscher (Veranstalter), juristische Person
+ II. Sachlich: friedliche Versammlung im Freien
 
 B. Eingriff
-   Verbots-Verfügung der Stadt ist klassischer Eingriff
+ Verbots-Verfügung der Stadt ist klassischer Eingriff
 
 C. Verfassungs-rechtliche Rechtfertigung
-   I. Art. 8 II GG einfacher Gesetzes-Vorbehalt für Versammlungen im Freien
-   II. § 15 VersG als Ermächtigungs-Norm
-   III. Verfassungsmäßigkeit § 15 VersG
-   IV. Verhältnismäßigkeit im Einzelfall
-      1. Legitimer Zweck (Sicherheit, Verkehrs-Funktion)
-      2. Geeignet (Verbot verhindert Versammlung)
-      3. Erforderlich? (Auflagen wären milder)
-      4. Angemessen? (Konkordanz Versammlungs-Freiheit / öffentliche Sicherheit)
-      → Eingriff voraussichtlich unverhältnismäßig
+ I. Art. 8 II GG einfacher Gesetzes-Vorbehalt für Versammlungen im Freien
+ II. § 15 VersG als Ermächtigungs-Norm
+ III. Verfassungsmäßigkeit § 15 VersG
+ IV. Verhältnismäßigkeit im Einzelfall
+ 1. Legitimer Zweck (Sicherheit, Verkehrs-Funktion)
+ 2. Geeignet (Verbot verhindert Versammlung)
+ 3. Erforderlich? (Auflagen wären milder)
+ 4. Angemessen? (Konkordanz Versammlungs-Freiheit / öffentliche Sicherheit)
+ → Eingriff voraussichtlich unverhältnismäßig
 ```
 
 ## Hilfsfragen für Deine Reflexion

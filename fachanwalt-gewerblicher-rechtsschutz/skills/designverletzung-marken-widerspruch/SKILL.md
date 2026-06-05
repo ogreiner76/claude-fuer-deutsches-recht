@@ -1,13 +1,13 @@
 ---
 name: designverletzung-marken-widerspruch
-description: "Nutze dies, wenn Fachanwalt Gewerblicher Rechtsschutz Designverletzung, Fachanwalt Gewerblicher Rechtsschutz Marken Widerspruch, Fachanwalt Gewerblicher Rechtsschutz Markenanmeldung im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Gewerblicher Rechtsschutz Designverletzung, Fachanwalt Gewerblicher Rechtsschutz Marken Widerspruch, Fachanwalt Gewerblicher Rechtsschutz Markenanmeldung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Gewerblicher Rechtsschutz Designverletzung, Fachanwalt Gewerblicher Rechtsschutz Marken Widerspruch, Fachanwalt Gewerblicher Rechtsschutz Markenanmeldung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Gewerblicher Rechtsschutz Designverletzung, Fachanwalt Gewerblicher Rechtsschutz Marken Widerspruch, Fachanwalt Gewerblicher Rechtsschutz Markenanmeldung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Gewerblicher Rechtsschutz Designverletzung, Fachanwalt Gewerblicher Rechtsschutz Marken Widerspruch, Fachanwalt Gewerblicher Rechtsschutz Markenanmeldung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Gewerblicher Rechtsschutz Designverletzung, Fachanwalt Gewerblicher Rechtsschutz Marken Widerspruch, Fachanwalt Gewerblicher Rechtsschutz Markenanmeldung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -69,7 +69,7 @@ Für **Fachanwalt Gewerblicher Rechtsschutz Designverletzung, Fachanwalt Gewerbl
 
 ## Prüfschema Designverletzung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -105,33 +105,33 @@ An das Landgericht [Ort] – Kammer für Designstreitsachen § 52 DesignG –
 
 Klage
 
-der [Designinhaberin], [Anschrift]  – Klägerin –
+der [Designinhaberin], [Anschrift] – Klägerin –
 gegen
-die [Verletzerin], [Anschrift]      – Beklagte –
+die [Verletzerin], [Anschrift] – Beklagte –
 
 wegen Verletzung des eingetragenen Designs Nr. [DE/EM-Nr.]
 
 Anträge:
 
 1. Die Beklagte wird verurteilt, es bei Meidung eines für jeden Fall der
-   Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu EUR 250.000,
-   ersatzweise Ordnungshaft bis zu 6 Monaten, zu unterlassen, Produkte
-   gemäß Anlage K 3 (Verletzungsmuster) anzubieten, zu vertreiben oder
-   zu bewerben.
+ Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu EUR 250.000,
+ ersatzweise Ordnungshaft bis zu 6 Monaten, zu unterlassen, Produkte
+ gemäß Anlage K 3 (Verletzungsmuster) anzubieten, zu vertreiben oder
+ zu bewerben.
 
 2. Die Beklagte wird verurteilt, der Klägerin Auskunft zu erteilen
-   (§ 46 DesignG):
-   a) Lieferanten, Hersteller, Vorbesitzer;
-   b) gewerbliche Abnehmer mit Anschriften und Bestellmengen;
-   c) Umsatzerlöse und Einkaufspreise je Verletzungseinheit.
+ (§ 46 DesignG):
+ a) Lieferanten, Hersteller, Vorbesitzer;
+ b) gewerbliche Abnehmer mit Anschriften und Bestellmengen;
+ c) Umsatzerlöse und Einkaufspreise je Verletzungseinheit.
 
 3. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin
-   alle durch die Handlungen gemäß Nr. 1 entstandenen und künftigen Schäden
-   zu ersetzen (§ 42 Abs. 2 DesignG).
+ alle durch die Handlungen gemäß Nr. 1 entstandenen und künftigen Schäden
+ zu ersetzen (§ 42 Abs. 2 DesignG).
 
 4. Die Beklagte wird verurteilt, die in ihrem Besitz befindlichen
-   Verletzungsmuster zu vernichten und aus den Vertriebskanälen zurückzurufen
-   (§ 43 DesignG).
+ Verletzungsmuster zu vernichten und aus den Vertriebskanälen zurückzurufen
+ (§ 43 DesignG).
 
 5. Die Beklagte trägt die Kosten des Rechtsstreits.
 
@@ -369,59 +369,59 @@ Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
 
 ```
 Eintragungs-Datum > 5 Jahre?
-  Nein → Benutzungszwang noch nicht eingetreten
-  Ja   → Nichtbenutzungs-Einwand droht
+ Nein → Benutzungszwang noch nicht eingetreten
+ Ja → Nichtbenutzungs-Einwand droht
 
 Wurde Einwand erhoben?
-  Nein → Widerspruch laeuft ohne Benutzungsnachweis
-  Ja   → Benutzungsnachweise bereitstellen:
-           - Werbematerialien mit Datum und Markennutzung
-           - Rechnungen mit Bezug zur eingetragenen Marke
-           - Verpackungen mit Datum
-           - Marktanteils-/Umsatzzahlen
-           - Eidesstattliche Versicherung
+ Nein → Widerspruch laeuft ohne Benutzungsnachweis
+ Ja → Benutzungsnachweise bereitstellen:
+ - Werbematerialien mit Datum und Markennutzung
+ - Rechnungen mit Bezug zur eingetragenen Marke
+ - Verpackungen mit Datum
+ - Marktanteils-/Umsatzzahlen
+ - Eidesstattliche Versicherung
 
 Reicht der Nachweis nicht?
-  → Widerspruch wird abgewiesen
-  → Erwägen: Widerspruch auf bekannte Marke (§ 14 Abs. 2 Nr. 3) umstellen
+ → Widerspruch wird abgewiesen
+ → Erwägen: Widerspruch auf bekannte Marke (§ 14 Abs. 2 Nr. 3) umstellen
 ```
 
 ## Schritt-fuer-Schritt-Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 ```
 Schritt 1: Frist sichern
-  → 3 Monate ab Markenblatt-Veroeffentlichung (DPMA) oder Amtsblatt (EUIPO)
-  → Kalender-Alarm mit 2-Wochen-Vorlauf
-  → Gebuehr bereithalten: 250 EUR DPMA / 320 EUR EUIPO
+ → 3 Monate ab Markenblatt-Veroeffentlichung (DPMA) oder Amtsblatt (EUIPO)
+ → Kalender-Alarm mit 2-Wochen-Vorlauf
+ → Gebuehr bereithalten: 250 EUR DPMA / 320 EUR EUIPO
 
 Schritt 2: Verwechslungsgefahr-Analyse
-  → Zeichenvergleich: Klang, Schriftbild, Bedeutung
-  → Waren-/DL-Aehnlichkeit nach Nizza-Klassen und faktischer Austauschbarkeit
-  → Bekanntheit der aelteren Marke einbeziehen
+ → Zeichenvergleich: Klang, Schriftbild, Bedeutung
+ → Waren-/DL-Aehnlichkeit nach Nizza-Klassen und faktischer Austauschbarkeit
+ → Bekanntheit der aelteren Marke einbeziehen
 
 Schritt 3: Benutzungslage pruefen
-  → Alter der aelteren Marke ueber 5 Jahre?
-  → Benutzungsnachweise parat?
-  → Wenn nein: strategisch abwaegen, ob Widerspruch sinnvoll
+ → Alter der aelteren Marke ueber 5 Jahre?
+ → Benutzungsnachweise parat?
+ → Wenn nein: strategisch abwaegen, ob Widerspruch sinnvoll
 
 Schritt 4: Widerspruchs-Schriftsatz erstellen
-  → Bezug auf § 9 Abs. 1 Nr. 2 MarkenG (Verwechslungsgefahr)
-  → Belegvorlage Benutzung
-  → Ggf. Bekanntheit nach § 14 Abs. 2 Nr. 3 MarkenG darlegen
+ → Bezug auf § 9 Abs. 1 Nr. 2 MarkenG (Verwechslungsgefahr)
+ → Belegvorlage Benutzung
+ → Ggf. Bekanntheit nach § 14 Abs. 2 Nr. 3 MarkenG darlegen
 
 Schritt 5: Cooling-off-Periode nutzen (EUIPO: 2 Monate)
-  → Koexistenz-Vereinbarung verhandeln
-  → Klassen-Abgrenzung oder Vertragsstrafe
+ → Koexistenz-Vereinbarung verhandeln
+ → Klassen-Abgrenzung oder Vertragsstrafe
 
 Schritt 6: Inhaltliche Begruendung
-  → Stellungnahmen-Austausch, DPMA/EUIPO entscheidet
+ → Stellungnahmen-Austausch, DPMA/EUIPO entscheidet
 
 Schritt 7: Bei Niederlage — Beschwerde
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  → EUIPO: Boards of Appeal binnen 2 Monaten Art. 68 UMV
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → EUIPO: Boards of Appeal binnen 2 Monaten Art. 68 UMV
 ```
 
 ## Quellenregel
@@ -452,15 +452,15 @@ WIDERSPRUCH
 
 In der Markensache
 
-Jungere Marke:     [MARKENNAME], Az. [DPMA-AZ], eingetragen am [DATUM]
-                   fuer Waren/DL der Klassen [X, Y, Z]
-Inhaber:           [NAME, ADRESSE]
+Jungere Marke: [MARKENNAME], Az. [DPMA-AZ], eingetragen am [DATUM]
+ fuer Waren/DL der Klassen [X, Y, Z]
+Inhaber: [NAME, ADRESSE]
 
-Widersprechende:   [NAME, ADRESSE]
-vertreten durch:   [KANZLEI, ADRESSE]
+Widersprechende: [NAME, ADRESSE]
+vertreten durch: [KANZLEI, ADRESSE]
 
-Aeltere Marke:     [MARKENNAME], Az. [DPMA-AZ], eingetragen am [DATUM]
-                   fuer Waren/DL der Klassen [A, B, C]
+Aeltere Marke: [MARKENNAME], Az. [DPMA-AZ], eingetragen am [DATUM]
+ fuer Waren/DL der Klassen [A, B, C]
 
 legen wir Widerspruch gegen die Eintragung der juengeren Marke ein und
 begruenden diesen wie folgt:
@@ -468,20 +468,20 @@ begruenden diesen wie folgt:
 I. Verwechslungsgefahr § 9 Abs. 1 Nr. 2 MarkenG
 
 1. Zeichenaehnlichkeit
-   Klanglich: [BESCHREIBUNG]. Schriftbildlich: [BESCHREIBUNG].
-   Begrifflich: [BESCHREIBUNG].
+ Klanglich: [BESCHREIBUNG]. Schriftbildlich: [BESCHREIBUNG].
+ Begrifflich: [BESCHREIBUNG].
 
 2. Waren-/DL-Aehnlichkeit
-   [BESCHREIBUNG nach Nizza-Klassen]
+ [BESCHREIBUNG nach Nizza-Klassen]
 
 3. Kennzeichnungskraft der aelteren Marke
-   [BESCHREIBUNG; bei Bekanntheit: Anlage W1 Marktanteile etc.]
+ [BESCHREIBUNG; bei Bekanntheit: Anlage W1 Marktanteile etc.]
 
 4. Wechselwirkung
-   Aufgrund [X] besteht Verwechslungsgefahr.
+ Aufgrund [X] besteht Verwechslungsgefahr.
 
 II. Benutzung der aelteren Marke (vorsorglich)
-   Die aeltere Marke wird ernsthaft benutzt, Nachweis als Anlage W2.
+ Die aeltere Marke wird ernsthaft benutzt, Nachweis als Anlage W2.
 
 Gebuehrennachweis: als Anlage W3 beigefuegt.
 
@@ -566,7 +566,7 @@ Anlage W3: [Gebuehrenbeleg]
 
 ## Prüfschema Markenanmeldung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
@@ -603,7 +603,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 An das
 Deutsche Patent- und Markenamt
 Zweibrückenstraße 12
-80331 München                                                  [Ort, Datum]
+80331 München [Ort, Datum]
 
 Anmeldung einer Marke gemäß §§ 32 ff. MarkenG
 
@@ -619,8 +619,8 @@ Markendarstellung:
 [Klangmarke: Notenschrift, Anlage 2 + ggf. Audiodatei]
 
 Markenform:
-[ ] Wortmarke    [ ] Wort-Bild-Marke    [ ] Bildmarke
-[ ] 3D-Marke     [ ] Positionsmarke     [ ] Klangmarke
+[ ] Wortmarke [ ] Wort-Bild-Marke [ ] Bildmarke
+[ ] 3D-Marke [ ] Positionsmarke [ ] Klangmarke
 
 Waren- und Dienstleistungsverzeichnis (Nizza-Klassifikation, 12. Edition):
 
@@ -633,7 +633,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 Priorität:
 [ ] Keine
 [x] Anmeldung Nr. [...], Datum [...], Land [...], gemäß § 34 MarkenG iVm
-    PVÜ Art. 4 (Prioritätsfrist 6 Monate ab Erstanmeldung)
+ PVÜ Art. 4 (Prioritätsfrist 6 Monate ab Erstanmeldung)
 
 Einzugsermächtigung:
 Gebühren werden vom DPMA-Gebührenkonto [Konto-Nr.] eingezogen.
@@ -678,7 +678,7 @@ Widerspruchsfrist: 3 Monate ab Veröffentlichung der Eintragung (EUIPO Bulletin)
 
 ```
 An das Deutsche Patent- und Markenamt
-— Markenbeschwerdestelle / Widerspruchsstelle —                [Ort, Datum]
+— Markenbeschwerdestelle / Widerspruchsstelle — [Ort, Datum]
 
 Widerspruch nach § 42 MarkenG
 gegen die Eintragung der Marke Nr. [DE-Reg.-Nr.], eingetragen am [Datum],
@@ -694,17 +694,17 @@ Verwechslungsgefahr § 9 Abs. 1 Nr. 2 MarkenG / Art. 8 Abs. 1 lit. b UMV
 Begründung:
 
 1. Identität / Ähnlichkeit der Waren und Dienstleistungen:
-   Die angegriffene Marke beansprucht Schutz für [Klassen], die mit den
-   Waren/Dienstleistungen der älteren Marke [identisch / ähnlich] sind.
+ Die angegriffene Marke beansprucht Schutz für [Klassen], die mit den
+ Waren/Dienstleistungen der älteren Marke [identisch / ähnlich] sind.
 
 2. Zeichenähnlichkeit:
-   Klanglich: [beide Zeichen beginnen mit [Bestandteil]; phonetisch
-   nahezu identisch in [Silbenstruktur]].
-   Schriftbildlich: [Buchstabenfolge weitgehend übereinstimmend].
-   Begrifflich: [gleiche oder ähnliche Bedeutung / kein begrifflicher Unterschied].
+ Klanglich: [beide Zeichen beginnen mit [Bestandteil]; phonetisch
+ nahezu identisch in [Silbenstruktur]].
+ Schriftbildlich: [Buchstabenfolge weitgehend übereinstimmend].
+ Begrifflich: [gleiche oder ähnliche Bedeutung / kein begrifflicher Unterschied].
 
 3. Gefahr der gedanklichen Verknüpfung / Bekanntheitsschutz (§ 9 Abs. 1 Nr. 3 MarkenG):
-   [Falls ältere Marke bekannt: Nachweise Verkehrsgeltung beifügen]
+ [Falls ältere Marke bekannt: Nachweise Verkehrsgeltung beifügen]
 
 Glaubhaftmachung Benutzung (sofern ältere Marke > 5 Jahre eingetragen):
 Anlage W 3: Belege der ernsthaften Benutzung (§ 25 MarkenG).

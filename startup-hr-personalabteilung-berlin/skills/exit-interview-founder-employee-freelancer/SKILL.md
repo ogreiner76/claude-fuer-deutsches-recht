@@ -1,23 +1,23 @@
 ---
 name: exit-interview-founder-employee-freelancer
-description: "Nutze dies, wenn Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf prüfen.; Erstelle eine Arbeitsfassung zu Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelancer Scheinselbststaendigkeit Router, Gehaltsband Transparenz Und Entgtranspg, Gehaltsfaelligkeiten Und Zahlungslauf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `exit-interview-und-retention-lernen` | Berliner Start-up-HR: Exit-Interview: freiwillig, datensparsam, verwertbar, ohne Druck und mit Maßnahmen-Backlog. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `founder-employee-boundary` | Berliner Start-up-HR: Founder, Advisor, Employee oder Freelancer: Rollen sauber trennen, Beteiligung, IP, Sozialversicherung und Vertretungsmacht. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `freelancer-scheinselbststaendigkeit-router` | Berliner Start-up-HR: Freelancer und Scheinselbständigkeit: Eingliederung, Weisung, DRV-Status, Vertragsgestaltung und Praxischeck. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `gehaltsband-transparenz-und-entgtranspg` | Berliner Start-up-HR: Gehaltsbänder, Entgelttransparenz und Fair-Pay-Check: Auskunft, Dokumentation, Diskriminierungsrisiko und Chefbriefing. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `gehaltsfaelligkeiten-und-zahlungslauf` | Berliner Start-up-HR: Gehaltsfälligkeiten und Zahlungslauf überwachen: Freigabe, Sonderzahlungen, Abzüge, Pfändungen, Korrekturen und Chef-Update. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `exit-interview-und-retention-lernen` | Berliner Start-up-HR: Exit-Interview: freiwillig, datensparsam, verwertbar, ohne Druck und mit Maßnahmen-Backlog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `founder-employee-boundary` | Berliner Start-up-HR: Founder, Advisor, Employee oder Freelancer: Rollen sauber trennen, Beteiligung, IP, Sozialversicherung und Vertretungsmacht. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `freelancer-scheinselbststaendigkeit-router` | Berliner Start-up-HR: Freelancer und Scheinselbständigkeit: Eingliederung, Weisung, DRV-Status, Vertragsgestaltung und Praxischeck. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `gehaltsband-transparenz-und-entgtranspg` | Berliner Start-up-HR: Gehaltsbänder, Entgelttransparenz und Fair-Pay-Check: Auskunft, Dokumentation, Diskriminierungsrisiko und Chefbriefing. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `gehaltsfaelligkeiten-und-zahlungslauf` | Berliner Start-up-HR: Gehaltsfälligkeiten und Zahlungslauf überwachen: Freigabe, Sonderzahlungen, Abzüge, Pfändungen, Korrekturen und Chef-Update. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Exit Interview Und Retention Lernen, Founder Employee Boundary, Freelance
 
 ## 1. `exit-interview-und-retention-lernen`
 
-**Fokus:** Berliner Start-up-HR: Exit-Interview: freiwillig, datensparsam, verwertbar, ohne Druck und mit Maßnahmen-Backlog. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Exit-Interview: freiwillig, datensparsam, verwertbar, ohne Druck und mit Maßnahmen-Backlog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Exit Interview Und Retention Lernen
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Offboarding
 **Fokus:** Exit-Interview: freiwillig, datensparsam, verwertbar, ohne Druck und mit Maßnahmen-Backlog.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `founder-employee-boundary`
 
-**Fokus:** Berliner Start-up-HR: Founder, Advisor, Employee oder Freelancer: Rollen sauber trennen, Beteiligung, IP, Sozialversicherung und Vertretungsmacht. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Founder, Advisor, Employee oder Freelancer: Rollen sauber trennen, Beteiligung, IP, Sozialversicherung und Vertretungsmacht. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Founder Employee Boundary
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Externe
 **Fokus:** Founder, Advisor, Employee oder Freelancer: Rollen sauber trennen, Beteiligung, IP, Sozialversicherung und Vertretungsmacht.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `freelancer-scheinselbststaendigkeit-router`
 
-**Fokus:** Berliner Start-up-HR: Freelancer und Scheinselbständigkeit: Eingliederung, Weisung, DRV-Status, Vertragsgestaltung und Praxischeck. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Freelancer und Scheinselbständigkeit: Eingliederung, Weisung, DRV-Status, Vertragsgestaltung und Praxischeck. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Freelancer Scheinselbststaendigkeit Router
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Externe
 **Fokus:** Freelancer und Scheinselbständigkeit: Eingliederung, Weisung, DRV-Status, Vertragsgestaltung und Praxischeck.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `gehaltsband-transparenz-und-entgtranspg`
 
-**Fokus:** Berliner Start-up-HR: Gehaltsbänder, Entgelttransparenz und Fair-Pay-Check: Auskunft, Dokumentation, Diskriminierungsrisiko und Chefbriefing. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Gehaltsbänder, Entgelttransparenz und Fair-Pay-Check: Auskunft, Dokumentation, Diskriminierungsrisiko und Chefbriefing. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Gehaltsband Transparenz Und Entgtranspg
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Happiness
 **Fokus:** Gehaltsbänder, Entgelttransparenz und Fair-Pay-Check: Auskunft, Dokumentation, Diskriminierungsrisiko und Chefbriefing.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `gehaltsfaelligkeiten-und-zahlungslauf`
 
-**Fokus:** Berliner Start-up-HR: Gehaltsfälligkeiten und Zahlungslauf überwachen: Freigabe, Sonderzahlungen, Abzüge, Pfändungen, Korrekturen und Chef-Update. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Gehaltsfälligkeiten und Zahlungslauf überwachen: Freigabe, Sonderzahlungen, Abzüge, Pfändungen, Korrekturen und Chef-Update. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Gehaltsfaelligkeiten Und Zahlungslauf
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Payroll
 **Fokus:** Gehaltsfälligkeiten und Zahlungslauf überwachen: Freigabe, Sonderzahlungen, Abzüge, Pfändungen, Korrekturen und Chef-Update.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

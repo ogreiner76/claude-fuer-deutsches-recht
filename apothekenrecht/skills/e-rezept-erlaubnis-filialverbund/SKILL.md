@@ -1,20 +1,20 @@
 ---
 name: e-rezept-erlaubnis-filialverbund
-description: "Nutze dies, wenn E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung prüfen.; Erstelle eine Arbeitsfassung zu E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **E Rezept Ti Gematik Apothekenprozess, Erlaubnis Filialverbund Routing, Filialapotheke Hauptapotheke Leitung Vertretung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `e-rezept-ti-gematik-apothekenprozess` | E-Rezept TI Gematik Apothekenprozess: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
-| `erlaubnis-filialverbund-routing` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Erlaubnis Filialverbund Routing. |
+| `erlaubnis-filialverbund-routing` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Erlaubnis Filialverbund Routing. |
 | `filialapotheke-hauptapotheke-leitung-vertretung` | Filialapotheke Hauptapotheke Leitung Vertretung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 
 ## Arbeitsweg
@@ -65,7 +65,7 @@ Eingaben:
 - **§ 7 ApBetrO:** Pharmazeutische Letztverantwortung; bei TI-Störung kein Ersatzweg ausserhalb der Regelungen.
 - **§ 129 SGB V:** Rahmenvertrag, Retaxation bei formalen Fehlern.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Einlösung:** Patient legt eGK ein, scannt Token (App), gibt Ausdruck mit QR-Code. Apothekensoftware ruft Rezept vom Fachdienst ab.
 2. **Signaturprüfung:** Qualifizierte elektronische Signatur des Arztes wird automatisch verifiziert.
@@ -128,7 +128,7 @@ Eingaben:
 
 ## 2. `erlaubnis-filialverbund-routing`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Erlaubnis Filialverbund Routing.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Erlaubnis Filialverbund Routing.
 
 # Erlaubnis Filialverbund Routing
 

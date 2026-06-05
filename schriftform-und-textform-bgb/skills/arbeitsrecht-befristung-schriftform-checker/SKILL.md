@@ -1,13 +1,13 @@
 ---
 name: arbeitsrecht-befristung-schriftform-checker
-description: "Nutze dies, wenn Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Spezial Schriftform Fristen Form Und Zustaendigkeit, Form Checker Für Vertrag Oder Willenserklaerung im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Bitte Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Spezial Schriftform Fristen Form Und Zustaendigkeit, Form Checker Für Vertrag Oder Willenserklaerung prüfen.; Erstelle eine Arbeitsfassung zu Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Spezial Schriftform Fristen Form Und Zustaendigkeit, Form Checker Für Vertrag Oder Willenserklaerung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Schriftform Fristen Form Und Zustaendigkeit, Form Checker Für Vertrag Oder Willenserklaerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Spezial Schriftform Fristen Form Und Zustaendigkeit, Form Checker Für Vertrag Oder Willenserklaerung
+# Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Schriftform Fristen Form Und Zustaendigkeit, Form Checker Für Vertrag Oder Willenserklaerung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Schriftform Fristen Form Und Zustaendigkeit, Form Checker Für Vertrag Oder Willenserklaerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,11 +15,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb` | Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft § 14 Abs. 4 TzBfG, § 623 BGB, § 126 BGB, qES bei Befristung, direkte elektronische Form, § 46h ArbGG, § 174 BGB und Klage-/Widerspruchsstrategie. |
 | `spezial-schriftform-fristen-form-und-zustaendigkeit` | Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `form-checker-fuer-vertrag-oder-willenserklaerung` | Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer Workflow mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt. |
+| `form-checker-fuer-vertrag-oder-willenserklaerung` | Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt. |
 
 ## Arbeitsweg
 
-Für **Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Spezial Schriftform Fristen Form Und Zustaendigkeit, Form Checker Für Vertrag Oder Willenserklaerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schriftform-und-textform-bgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Schriftform Fristen Form Und Zustaendigkeit, Form Checker Für Vertrag Oder Willenserklaerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schriftform-und-textform-bgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -67,42 +67,42 @@ Das TzBfG enthält keine Öffnungsklausel für elektronische Form. Der Verweis d
 
 ```
 □ Befristungsabrede vor Arbeitsbeginn schriftlich vereinbart?
-   → Eigenhändig von AG und AN unterschrieben
-   → AN hat Dokument vor Beginn der Tätigkeit erhalten
+ → Eigenhändig von AG und AN unterschrieben
+ → AN hat Dokument vor Beginn der Tätigkeit erhalten
 
 □ Befristungsgrund angegeben? (§ 14 Abs. 1 TzBfG)
-   → Sachgrundlos nach § 14 Abs. 2 TzBfG: max. 2 Jahre, max. drei Verlängerungen
+ → Sachgrundlos nach § 14 Abs. 2 TzBfG: max. 2 Jahre, max. drei Verlängerungen
 
 □ Bei Verlängerung: Schriftform gewahrt?
-   → Jede Verlängerung bedarf Schriftform
-   → Verlängerung vor Ablauf der bisherigen Befristung unterschreiben
+ → Jede Verlängerung bedarf Schriftform
+ → Verlängerung vor Ablauf der bisherigen Befristung unterschreiben
 
 □ Keine Vorbeschäftigung des AN beim selben AG in den letzten 3 Jahren?
-   (§ 14 Abs. 2 S. 2 TzBfG — Vorbeschäftigungsverbot bei sachgrundloser Befristung)
+ (§ 14 Abs. 2 S. 2 TzBfG — Vorbeschäftigungsverbot bei sachgrundloser Befristung)
 ```
 
 ### Checkliste Kündigung / Aufhebungsvertrag
 
 ```
 □ Schriftliche Kündigung vorhanden?
-   → Eigenhändige Unterschrift des Kündigenden (oder Bevollmächtigten mit Vollmacht)
-   → Original des Kündigungsschreibens zugegangen
+ → Eigenhändige Unterschrift des Kündigenden (oder Bevollmächtigten mit Vollmacht)
+ → Original des Kündigungsschreibens zugegangen
 
 □ Vollmacht bei AG-Kündigung durch Bevollmächtigten?
-   → § 174 BGB: Arbeitnehmer kann unverzüglich zurückweisen
+ → § 174 BGB: Arbeitnehmer kann unverzüglich zurückweisen
 
 □ Bei Aufhebungsvertrag:
-   → Schriftliche Vereinbarung von AG und AN unterschrieben
-   → Inhalt: Ende des Arbeitsverhältnisses, Abfindung, Freistellung, Zeugnis
+ → Schriftliche Vereinbarung von AG und AN unterschrieben
+ → Inhalt: Ende des Arbeitsverhältnisses, Abfindung, Freistellung, Zeugnis
 
 □ Betriebsrat angehört? (§ 102 BetrVG bei Kündigung durch AG)
 
 □ Bei Kündigung im arbeitsgerichtlichen Schriftsatz:
-   → § 46h ArbGG zeitlich anwendbar?
-   → Erklärung im Schriftsatz klar erkennbar?
-   → elektronisches Dokument nach § 46c ArbGG?
-   → Zustellung oder Mitteilung an den richtigen Empfänger?
-   → Vollmachtsurkunde und § 174 BGB geprüft?
+ → § 46h ArbGG zeitlich anwendbar?
+ → Erklärung im Schriftsatz klar erkennbar?
+ → elektronisches Dokument nach § 46c ArbGG?
+ → Zustellung oder Mitteilung an den richtigen Empfänger?
+ → Vollmachtsurkunde und § 174 BGB geprüft?
 ```
 
 ### Folgen Formverstoß
@@ -129,11 +129,11 @@ Der Mitarbeiter hat den Vertrag vor Aufnahme seiner Tätigkeit eigenhändig
 zu unterzeichnen. Eine Unterzeichnung nach Arbeitsbeginn macht die
 Befristungsabrede unwirksam.
 
-Arbeitgeber:                           Arbeitnehmer:
-[Ort, Datum]                           [Ort, Datum]
+Arbeitgeber: Arbeitnehmer:
+[Ort, Datum] [Ort, Datum]
 
-________________________              ________________________
-[Unterschrift AG / Bevollmächtigter]   [Unterschrift AN]
+________________________ ________________________
+[Unterschrift AG / Bevollmächtigter] [Unterschrift AN]
 ```
 
 ### Kündigungsschreiben Arbeitgeber
@@ -185,7 +185,7 @@ Ein qualifiziertes Arbeitszeugnis wird Ihnen rechtzeitig zugestellt.
 # Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg / spezial schriftform fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg / schriftform fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ERV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -221,7 +221,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `form-checker-fuer-vertrag-oder-willenserklaerung`
 
-**Fokus:** Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer Workflow mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt.
+**Fokus:** Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt.
 
 # Form-Checker — Vertrag oder Willenserklärung
 
@@ -265,82 +265,82 @@ SCHRITT 1 — Art des Rechtsgeschäfts identifizieren
 Welches Rechtsgeschäft liegt vor?
 
 → Grundstückskauf / Grundstücksschenkung
-   → Notarielle Beurkundung § 311b BGB
-   → Heilung durch Auflassung + Eintragung
+ → Notarielle Beurkundung § 311b BGB
+ → Heilung durch Auflassung + Eintragung
 
 → GmbH-Anteilsübertragung
-   → Notarielle Beurkundung § 15 GmbHG
+ → Notarielle Beurkundung § 15 GmbHG
 
 → Ehevertrag / Scheidungsfolgenvereinbarung
-   → Notarielle Beurkundung § 1410 BGB
+ → Notarielle Beurkundung § 1410 BGB
 
 → Erbvertrag
-   → Notarielle Beurkundung § 2276 BGB
+ → Notarielle Beurkundung § 2276 BGB
 
 → Schenkungsversprechen (nicht sofortige Handschenkung)
-   → Notarielle Beurkundung § 518 BGB
+ → Notarielle Beurkundung § 518 BGB
 
 → Wohnraummiete-Kündigung
-   → Schriftform § 568 Abs. 1 BGB
-   → qES möglich, aber Zugang mit prüfbarer Signatur erforderlich
-     Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → Schriftform § 568 Abs. 1 BGB
+ → qES möglich, aber Zugang mit prüfbarer Signatur erforderlich
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 → Gewerberaummietvertrag länger als 1 Jahr
-   → Schriftform § 550 BGB
-   → Alle wesentlichen Vertragsbestandteile in Urkunde
+ → Schriftform § 550 BGB
+ → Alle wesentlichen Vertragsbestandteile in Urkunde
 
 → Maklervertrag Wohnraum (Kauf)
-   → Textform § 656a BGB
-   → E-Mail-Austausch reicht, kein Bereicherungsanspruch bei Verstoß
-     Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → Textform § 656a BGB
+ → E-Mail-Austausch reicht, kein Bereicherungsanspruch bei Verstoß
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 → Bürgschaft (Nicht-Kaufmann)
-   → Schriftform § 766 BGB
-   → Originalunterschrift Bürge
+ → Schriftform § 766 BGB
+ → Originalunterschrift Bürge
 
 → Verbraucherdarlehensvertrag
-   → Schriftform § 492 BGB
-   → Bei Verstoß: § 494 BGB (Anpassungsfolge, keine Nichtigkeit)
+ → Schriftform § 492 BGB
+ → Bei Verstoß: § 494 BGB (Anpassungsfolge, keine Nichtigkeit)
 
 → Befristeter Arbeitsvertrag
-   → Schriftform vor Arbeitsbeginn § 14 Abs. 4 TzBfG
-   → Keine Heilung, bei Verstoß: unbefristetes Arbeitsverhältnis
+ → Schriftform vor Arbeitsbeginn § 14 Abs. 4 TzBfG
+ → Keine Heilung, bei Verstoß: unbefristetes Arbeitsverhältnis
 
 → Kündigung Arbeitsvertrag / Aufhebungsvertrag
-   → Schriftform § 623 BGB
-   → direkte elektronische Form ausgeschlossen
-   → Papier empfohlen; im Arbeitsgerichtsverfahren § 46h ArbGG gesondert prüfen
+ → Schriftform § 623 BGB
+ → direkte elektronische Form ausgeschlossen
+ → Papier empfohlen; im Arbeitsgerichtsverfahren § 46h ArbGG gesondert prüfen
 
 → Mieterhöhungsverlangen
-   → Textform § 558a Abs. 1 BGB (E-Mail zulässig)
+ → Textform § 558a Abs. 1 BGB (E-Mail zulässig)
 
 → Verbraucherwiderruf
-   → Textform (§ 355 BGB i.V.m. Widerrufsbelehrung)
+ → Textform (§ 355 BGB i.V.m. Widerrufsbelehrung)
 
 → Sonstiger Vertrag ohne spezifische Norm
-   → Formfreiheit als Regel
-   → Prüfe: vertragliche Schriftformklausel vereinbart?
+ → Formfreiheit als Regel
+ → Prüfe: vertragliche Schriftformklausel vereinbart?
 
 SCHRITT 2 — Formwahl und Empfehlung
 ─────────────────────────────────────
 Welche Form ist möglich und welche ist empfohlen?
 
 Notarielle Beurkundung erforderlich:
-  → Notar aufsuchen; kein Ersatz durch qES
+ → Notar aufsuchen; kein Ersatz durch qES
 
 Schriftform erforderlich:
-  → Option A (sicherste): Papier + Originalunterschrift + Bote/Einschreiben
-  → Option B (technisch möglich): qES-Dokument elektronisch übermitteln
-     — Zugang als prüfbares Dokument beim Empfänger sicherstellen
-     — Eingangsbestätigung anfordern
+ → Option A (sicherste): Papier + Originalunterschrift + Bote/Einschreiben
+ → Option B (technisch möglich): qES-Dokument elektronisch übermitteln
+ — Zugang als prüfbares Dokument beim Empfänger sicherstellen
+ — Eingangsbestätigung anfordern
 
 Textform erforderlich:
-  → E-Mail mit Namen und erkennbarem Abschluss ausreichend
-  → WhatsApp: möglich, aber Sicherung empfehlen
-  → Empfehlung: schriftliche Quittung / Bestätigung einholen
+ → E-Mail mit Namen und erkennbarem Abschluss ausreichend
+ → WhatsApp: möglich, aber Sicherung empfehlen
+ → Empfehlung: schriftliche Quittung / Bestätigung einholen
 
 Keine Formvorschrift:
-  → Empfehlung trotzdem: schriftliche Dokumentation für Beweis
+ → Empfehlung trotzdem: schriftliche Dokumentation für Beweis
 
 SCHRITT 3 — Sanktion bei Verstoß
 ──────────────────────────────────

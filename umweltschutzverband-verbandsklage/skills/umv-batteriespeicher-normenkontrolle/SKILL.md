@@ -1,13 +1,13 @@
 ---
 name: umv-batteriespeicher-normenkontrolle
-description: "Nutze dies, wenn Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf im Plugin Umweltschutzverband Verbandsklage konkret bearbeitet werden soll. Auslöser: Bitte Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf prüfen.; Erstelle eine Arbeitsfassung zu Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

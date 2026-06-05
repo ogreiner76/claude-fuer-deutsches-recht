@@ -18,7 +18,7 @@ erforderliche Genehmigung sind Geschäfte schwebend unwirksam (§ 1855 BGB).
 
 - **Aufgabenkreise** des Betreuers (Bestellungsurkunde)
 - **Konkret geplante Maßnahme** (z. B. "Verkauf der Eigentumswohnung der
-  betreuten Person in Berlin-Charlottenburg")
+ betreuten Person in Berlin-Charlottenburg")
 - **Beteiligte Personen** (Vertragspartner, Heimträger, Arzt)
 - **Wirtschaftliche Eckdaten** (Kaufpreis, Heimkosten, Darlehenssumme)
 - **Wünsche/Willen der betreuten Person** zum Geschäft (§ 1821 BGB)
@@ -31,29 +31,29 @@ erforderliche Genehmigung sind Geschäfte schwebend unwirksam (§ 1855 BGB).
 Die §§ 1848–1858 BGB regeln **vermögensbezogene** Genehmigungspflichten:
 
 - § 1848 BGB — Grundsatz: Genehmigung des Gerichts bei wesentlichen
-  Vermögensverfügungen
+ Vermögensverfügungen
 - § 1849 BGB — Genehmigung bei Geschäften über Grundstücke und Rechte an
-  Grundstücken
+ Grundstücken
 - § 1850 BGB — Genehmigung bei Erbschaftsangelegenheiten (Annahme/
-  Ausschlagung der Erbschaft, Erbteilsverkauf)
+ Ausschlagung der Erbschaft, Erbteilsverkauf)
 - § 1851 BGB — Genehmigung bei Aufgabe/Auflösung der Wohnung der
-  betreuten Person
+ betreuten Person
 - § 1852 BGB — Genehmigung bei Geschäften über erwerbsmäßige Tätigkeit
 - § 1853 BGB — Genehmigung bei Kreditaufnahme, Verfügungen über Wertpapiere
 - § 1854 BGB — Genehmigung bei Schenkungen (Ausschluss anstandspflichtiger
-  Schenkungen)
+ Schenkungen)
 - § 1855 BGB — Rechtsfolge: schwebende Unwirksamkeit ohne Genehmigung
 
 ### Personenbezogene Maßnahmen (§§ 1828–1834 BGB)
 
 - § 1828 BGB — Einwilligung in ärztliche Maßnahmen
 - § 1829 BGB — Genehmigung bei lebensgefährlichen oder schwer
-  beeinträchtigenden ärztlichen Maßnahmen
+ beeinträchtigenden ärztlichen Maßnahmen
 - § 1831 BGB — Genehmigung **freiheitsentziehender Unterbringung**
-  (geschlossene Heimunterbringung, geschlossene psychiatrische Klinik)
+ (geschlossene Heimunterbringung, geschlossene psychiatrische Klinik)
 - § 1832 BGB — Genehmigung **freiheitsentziehender Maßnahmen** in offener
-  Einrichtung (Bettgitter, Bauchgurt, sedierende Medikamente zur
-  Bewegungseinschränkung)
+ Einrichtung (Bettgitter, Bauchgurt, sedierende Medikamente zur
+ Bewegungseinschränkung)
 
 ### § 1855 BGB — Schwebende Unwirksamkeit
 
@@ -79,32 +79,32 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Aufgabenkreis prüfen**
-   Liegt die geplante Maßnahme überhaupt im übertragenen Aufgabenkreis?
-   (Vermögenssorge / Gesundheitssorge / Aufenthaltsbestimmung — § 1815 BGB).
-   Fehlt der Aufgabenkreis, ist Erweiterung beim Gericht zu beantragen.
+ Liegt die geplante Maßnahme überhaupt im übertragenen Aufgabenkreis?
+ (Vermögenssorge / Gesundheitssorge / Aufenthaltsbestimmung — § 1815 BGB).
+ Fehlt der Aufgabenkreis, ist Erweiterung beim Gericht zu beantragen.
 
 2. **Tatbestand der Genehmigungspflicht prüfen**
-   Subsumtion unter konkreten §§ 1848 ff. BGB bzw. §§ 1831, 1832 BGB.
+ Subsumtion unter konkreten §§ 1848 ff. BGB bzw. §§ 1831, 1832 BGB.
 
 3. **Wunsch der betreuten Person ermitteln (§ 1821 BGB)**
-   Auch bei genehmigungspflichtigen Geschäften ist der Wille der betreuten
-   Person primärer Maßstab.
+ Auch bei genehmigungspflichtigen Geschäften ist der Wille der betreuten
+ Person primärer Maßstab.
 
 4. **Antrag beim Betreuungsgericht stellen**
-   Schriftlich oder zur Niederschrift der Geschäftsstelle. Beizufügen:
-   - Begründung der Maßnahme
-   - Wirtschaftliche Eckdaten (Verkehrswertgutachten, Kostenvoranschlag)
-   - Stellungnahme zum Willen der betreuten Person
-   - Bei medizinischen Maßnahmen: ärztliches Zeugnis / Gutachten
+ Schriftlich oder zur Niederschrift der Geschäftsstelle. Beizufügen:
+ - Begründung der Maßnahme
+ - Wirtschaftliche Eckdaten (Verkehrswertgutachten, Kostenvoranschlag)
+ - Stellungnahme zum Willen der betreuten Person
+ - Bei medizinischen Maßnahmen: ärztliches Zeugnis / Gutachten
 
 5. **Anhörung durch das Gericht abwarten**
-   Persönliche Anhörung der betreuten Person grundsätzlich Pflicht
-   (§ 278 FamFG); bei Unterbringung Sachverständigengutachten
-   zwingend (§ 321 FamFG).
+ Persönliche Anhörung der betreuten Person grundsätzlich Pflicht
+ (§ 278 FamFG); bei Unterbringung Sachverständigengutachten
+ zwingend (§ 321 FamFG).
 
 6. **Genehmigungsbeschluss umsetzen**
-   Geschäft erst nach Rechtskraft des Beschlusses vollziehen. Bei
-   Grundstücken: Beschluss als Anlage zum Notarvertrag.
+ Geschäft erst nach Rechtskraft des Beschlusses vollziehen. Bei
+ Grundstücken: Beschluss als Anlage zum Notarvertrag.
 
 ## Ausgabeformat
 
@@ -112,34 +112,34 @@ Strukturierte Prüfung in folgender Form:
 
 ```
 Genehmigungspflicht-Prüfung
-Geplante Maßnahme:    [konkret]
-Geprüft am:           [Datum]
-Betreute Person:      [Name, AZ]
-Aufgabenkreise:       [Aufzählung]
+Geplante Maßnahme: [konkret]
+Geprüft am: [Datum]
+Betreute Person: [Name, AZ]
+Aufgabenkreise: [Aufzählung]
 
 1. Aufgabenkreis-Zuordnung
-   [Ja/Nein, Begründung]
+ [Ja/Nein, Begründung]
 
 2. Einschlägige Rechtsnorm
-   [§ XXXX BGB — Tatbestand]
+ [§ XXXX BGB — Tatbestand]
 
 3. Subsumtion
-   [Tatbestandsmerkmal 1 — erfüllt/nicht erfüllt — Begründung]
-   [Tatbestandsmerkmal 2 — ...]
+ [Tatbestandsmerkmal 1 — erfüllt/nicht erfüllt — Begründung]
+ [Tatbestandsmerkmal 2 — ...]
 
 4. Wunsch und Wille der betreuten Person (§ 1821 BGB)
-   [Ermittelt durch ..., Inhalt: ...]
+ [Ermittelt durch ..., Inhalt: ...]
 
 5. Ergebnis
-   [ ] genehmigungspflichtig — Antrag beim Betreuungsgericht erforderlich
-   [ ] nicht genehmigungspflichtig — Begründung
-   [ ] Aufgabenkreis-Erweiterung erforderlich
+ [ ] genehmigungspflichtig — Antrag beim Betreuungsgericht erforderlich
+ [ ] nicht genehmigungspflichtig — Begründung
+ [ ] Aufgabenkreis-Erweiterung erforderlich
 
 6. Empfohlene Anlagen für Genehmigungsantrag
-   [Liste]
+ [Liste]
 
 7. Belege
-   [BGH-Entscheidungen, Kommentarstellen]
+ [BGH-Entscheidungen, Kommentarstellen]
 ```
 
 ## Beispiel
@@ -157,9 +157,9 @@ anzubringen sowie ein leichtes Sedativum (Pipamperon 20 mg) zu verabreichen.
 > *3. Subsumtion:*
 > - Maßnahme: Bettgitter + sedierende Medikation
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
->   Rn. 27 ff. — auch in offener Einrichtung)
+> Rn. 27 ff. — auch in offener Einrichtung)
 > - Sedativum: Wenn primär zur Bewegungseinschränkung verabreicht
->   (nicht therapeutisch), ebenfalls § 1832 BGB
+> (nicht therapeutisch), ebenfalls § 1832 BGB
 > - Regelmäßigkeit: jede Nacht — Tatbestand erfüllt
 >
 > *4. Wille der betreuten Person:* Frau K. wurde am 18.02.2026 befragt

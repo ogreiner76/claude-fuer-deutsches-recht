@@ -1,21 +1,21 @@
 ---
 name: fran-rs-kpi-lieferbindung-eigenmarken
-description: "Nutze dies, wenn Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau prüfen.; Erstelle eine Arbeitsfassung zu Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fran-rs-kpi-audit-und-kuendigungsreife` | Spezialskill Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
-| `fran-rs-lieferbindung-eigenmarken-und-einkaufsmacht` | Spezialskill Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
-| `fran-rs-standortmiete-investitionsschutz-und-rueckbau` | Spezialskill Franchiserecht für Standortmiete, Investitionsschutz und Rückbau: Der Franchisenehmer hängt oft am Mietvertrag; deshalb werden Laufzeiten, Eintrittsrechte, Umbaukosten, Rückbau und Sicherheiten zusammen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-kpi-audit-und-kuendigungsreife` | Fachmodul Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-lieferbindung-eigenmarken-und-einkaufsmacht` | Fachmodul Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-standortmiete-investitionsschutz-und-rueckbau` | Fachmodul Franchiserecht für Standortmiete, Investitionsschutz und Rückbau: Der Franchisenehmer hängt oft am Mietvertrag; deshalb werden Laufzeiten, Eintrittsrechte, Umbaukosten, Rückbau und Sicherheiten zusammen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken
 
 ## 1. `fran-rs-kpi-audit-und-kuendigungsreife`
 
-**Fokus:** Spezialskill Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: KPI-Audit und Kündigungsreife
 
@@ -70,7 +70,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `fran-rs-lieferbindung-eigenmarken-und-einkaufsmacht`
 
-**Fokus:** Spezialskill Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Lieferbindung, Eigenmarken und Einkaufsmacht
 
@@ -114,7 +114,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `fran-rs-standortmiete-investitionsschutz-und-rueckbau`
 
-**Fokus:** Spezialskill Franchiserecht für Standortmiete, Investitionsschutz und Rückbau: Der Franchisenehmer hängt oft am Mietvertrag; deshalb werden Laufzeiten, Eintrittsrechte, Umbaukosten, Rückbau und Sicherheiten zusammen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Standortmiete, Investitionsschutz und Rückbau: Der Franchisenehmer hängt oft am Mietvertrag; deshalb werden Laufzeiten, Eintrittsrechte, Umbaukosten, Rückbau und Sicherheiten zusammen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Standortmiete, Investitionsschutz und Rückbau
 

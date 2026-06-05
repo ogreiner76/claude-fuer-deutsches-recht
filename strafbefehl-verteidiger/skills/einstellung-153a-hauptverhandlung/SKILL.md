@@ -1,13 +1,13 @@
 ---
 name: einstellung-153a-hauptverhandlung
-description: "Nutze dies, wenn Strafbefehl Einstellung 153 153A 170, Strafbefehl Hauptverhandlung Vorbereitung, Strafbefehl Inhalt 409 Prüfung im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Strafbefehl Einstellung 153 153A 170, Strafbefehl Hauptverhandlung Vorbereitung, Strafbefehl Inhalt 409 Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Strafbefehl Einstellung 153 153A 170, Strafbefehl Hauptverhandlung Vorbereitung, Strafbefehl Inhalt 409 Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafbefehl Einstellung 153 153a 170, Strafbefehl Hauptverhandlung Vorbereitung, Strafbefehl Inhalt 409 Prüfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Strafbefehl Einstellung 153 153A 170, Strafbefehl Hauptverhandlung Vorbereitung, Strafbefehl Inhalt 409 Prüfung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafbefehl Einstellung 153 153A 170, Strafbefehl Hauptverhandlung Vorbereitung, Strafbefehl Inhalt 409 Prüfung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -69,7 +69,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Sachverhalt qualifizieren:** Delikt-Schwere, Schadenshoehe, Vorleben — passe Antrag an passende Norm an.
 2. **Informelle Sondierung bei Staatsanwaltschaft:** Telefonat oder E-Mail — ist Einstellung grundsaetzlich moeglich?
@@ -168,7 +168,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Vorbereiungs-Workflow (1 Woche vor HV)
+## Vorbereiungs-(1 Woche vor HV)
 
 1. **Aktenexzerpt aktualisieren** — alle Beweismittel, alle Zeugen, kritische Aktenstellen markieren.
 2. **Einlassung finalisieren** — schriftlich vorbereiten, mit Mandant durchgehen, Reihenfolge festlegen.
@@ -204,7 +204,7 @@ Beweismittel: [Zeuge / Sachverstaendiger / Urkunde — konkret benennen]
 Erwartetes Ergebnis: [Was wird die Beweisaufnahme zeigen?]
 Relevanz fuer das Verfahren: [Warum ist das entscheidungserheblich?]
 Gestuetzt auf: § 244 Abs. 2 StPO (Amtsaufklaerungspflicht) /
-               § 244 Abs. 4 StPO (Sachverstaendigen-Antrag)
+ § 244 Abs. 4 StPO (Sachverstaendigen-Antrag)
 ```
 
 ## Output-Template Plaedoyer-Gliederung
@@ -288,10 +288,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 □ Beweismittel wenigstens schlagwortartig aufgefuehrt (Nr. 4)?
 □ Strafgesetz (Paragraf, Absatz, Alternative) explizit zitiert (Nr. 5)?
 □ Rechtsfolge vollstaendig:
-    - Geldstrafe: Anzahl Tagessaetze + Euro je Tagessatz?
-    - Fahrverbot: Dauer, § 25 StVG oder § 44 StGB?
-    - Bewaehrungsstrafe: Bewaehrungszeit, Auflagen?
-    - Einziehung: Gegenstand, Wert?
+ - Geldstrafe: Anzahl Tagessaetze + Euro je Tagessatz?
+ - Fahrverbot: Dauer, § 25 StVG oder § 44 StGB?
+ - Bewaehrungsstrafe: Bewaehrungszeit, Auflagen?
+ - Einziehung: Gegenstand, Wert?
 □ Belehrung ueber Einspruch und 2-Wochen-Frist vorhanden (Nr. 7)?
 □ Richter des Amtsgerichts unterschrieben (kein Rechtspfleger)?
 □ Ausstellungsdatum aufgefuehrt?
@@ -302,15 +302,15 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Fehler im Strafbefehl gefunden?
 ├─ Belehrungsfehler (Nr. 7)
-│   └─ Frist laeuft nicht an → unbeschraenkte Zeit fuer Einspruch
-│       + Wiedereinsetzungsantrag bei spaeterer Kenntnis (§ 44 StPO)
+│ └─ Frist laeuft nicht an → unbeschraenkte Zeit fuer Einspruch
+│ + Wiedereinsetzungsantrag bei spaeterer Kenntnis (§ 44 StPO)
 ├─ Tatbeschreibung zu unbestimmt (Nr. 2)
-│   └─ Einspruch einlegen + In HV Antrag auf Einstellung wegen
-│       Verletzung Art. 103 Abs. 2 GG stellen
+│ └─ Einspruch einlegen + In HV Antrag auf Einstellung wegen
+│ Verletzung Art. 103 Abs. 2 GG stellen
 ├─ Rechtsfolge fehlerhaft / unvollstaendig (Nr. 6)
-│   └─ Einspruch (Frist sichern!) + in HV Aufhebung beantragen
+│ └─ Einspruch (Frist sichern!) + in HV Aufhebung beantragen
 └─ Sachlich unzustaendiges Gericht (z.B. Schoeffengericht)
-    └─ Einspruch + Unzustaendigkeitsruege in der Hauptverhandlung
+ └─ Einspruch + Unzustaendigkeitsruege in der Hauptverhandlung
 ```
 
 ## Schritt-fuer-Schritt-Workflow

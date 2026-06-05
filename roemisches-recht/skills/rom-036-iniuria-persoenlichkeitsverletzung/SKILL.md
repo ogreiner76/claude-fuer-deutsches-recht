@@ -1,6 +1,6 @@
 ---
 name: rom-036-iniuria-persoenlichkeitsverletzung
-description: "Römisches Recht: Iniuria Persoenlichkeitsverletzung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Iniuria Persoenlichkeitsverletzung. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Iniuria Persoenlichkeitsverletzung

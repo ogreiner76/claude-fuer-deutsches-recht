@@ -1,13 +1,13 @@
 ---
 name: deliktsrecht-paragraph-sittenwidrige
-description: "Nutze dies, wenn Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2 im Plugin Bgb Bt Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2 prüfen.; Erstelle eine Arbeitsfassung zu Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

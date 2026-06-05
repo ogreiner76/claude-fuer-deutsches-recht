@@ -1,34 +1,34 @@
 ---
 name: kaution-abrechnung-kuendigung-vollmacht-laerm
-description: "Nutze dies, wenn Spezial Kaution Abrechnung, Spezial Kündigung Form Vollmacht Zugang, Spezial Laerm Geruch Stoerung, Spezial Makler Courtage Mietrecht, Spezial Miet Tatbestand Beweis Und Belege im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Kaution Abrechnung, Spezial Kündigung Form Vollmacht Zugang, Spezial Laerm Geruch Stoerung, Spezial Makler Courtage Mietrecht, Spezial Miet Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Kaution Abrechnung, Spezial Kündigung Form Vollmacht Zugang, Spezial Laerm Geruch Stoerung, Spezial Makler Courtage Mietrecht, Spezial Miet Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kaution Abrechnung, Kündigung Form Vollmacht Zugang, Laerm Geruch Stoerung, Makler Courtage Mietrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Kaution Abrechnung, Spezial Kündigung Form Vollmacht Zugang, Spezial Laerm Geruch Stoerung, Spezial Makler Courtage Mietrecht, Spezial Miet Tatbestand Beweis Und Belege
+# Kaution Abrechnung, Kündigung Form Vollmacht Zugang, Laerm Geruch Stoerung, Makler Courtage Mietrecht, Miet Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kaution Abrechnung, Kündigung Form Vollmacht Zugang, Laerm Geruch Stoerung, Makler Courtage Mietrecht, Miet Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-kaution-abrechnung` | Kaution Abrechnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anlagepflicht, Abrechnungsfrist, Zurückbehalt, Aufrechnung, Zinsen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-kuendigung-form-vollmacht-zugang` | Kündigungsform/Vollmacht/Zugang: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-laerm-geruch-stoerung` | Lärm/Geruch/Störung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; macht Störungsprotokoll, Zeugen, Messung, Minderungs- und Unterlassungsstrategie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-makler-courtage-mietrecht` | Maklercourtage Mietrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-miet-tatbestand-beweis-und-belege` | Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-kaution-abrechnung` | Kaution Abrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anlagepflicht, Abrechnungsfrist, Zurückbehalt, Aufrechnung, Zinsen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-kuendigung-form-vollmacht-zugang` | Kündigungsform/Vollmacht/Zugang: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-laerm-geruch-stoerung` | Lärm/Geruch/Störung: Fachmodul im Miet- und Wohnungseigentumsrecht; macht Störungsprotokoll, Zeugen, Messung, Minderungs- und Unterlassungsstrategie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-makler-courtage-mietrecht` | Maklercourtage Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-miet-tatbestand-beweis-und-belege` | Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Kaution Abrechnung, Spezial Kündigung Form Vollmacht Zugang, Spezial Laerm Geruch Stoerung, Spezial Makler Courtage Mietrecht, Spezial Miet Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kaution Abrechnung, Kündigung Form Vollmacht Zugang, Laerm Geruch Stoerung, Makler Courtage Mietrecht, Miet Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-kaution-abrechnung`
 
-**Fokus:** Kaution Abrechnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anlagepflicht, Abrechnungsfrist, Zurückbehalt, Aufrechnung, Zinsen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Kaution Abrechnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anlagepflicht, Abrechnungsfrist, Zurückbehalt, Aufrechnung, Zinsen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Kaution Abrechnung
 
@@ -42,9 +42,9 @@ Für **Spezial Kaution Abrechnung, Spezial Kündigung Form Vollmacht Zugang, Spe
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Anlagepflicht, Abrechnungsfrist, Zurückbehalt, Aufrechnung, Zinsen.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Anlagepflicht, Abrechnungsfrist, Zurückbehalt, Aufrechnung, Zinsen.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-kuendigung-form-vollmacht-zugang`
 
-**Fokus:** Kündigungsform/Vollmacht/Zugang: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Kündigungsform/Vollmacht/Zugang: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Kündigungsform/Vollmacht/Zugang
 
@@ -87,9 +87,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Schriftform, Vertretung, Originalvollmacht, Briefkasten, Bote, Einschreiben.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -118,7 +118,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-laerm-geruch-stoerung`
 
-**Fokus:** Lärm/Geruch/Störung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; macht Störungsprotokoll, Zeugen, Messung, Minderungs- und Unterlassungsstrategie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Lärm/Geruch/Störung: Fachmodul im Miet- und Wohnungseigentumsrecht; macht Störungsprotokoll, Zeugen, Messung, Minderungs- und Unterlassungsstrategie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Lärm/Geruch/Störung
 
@@ -132,9 +132,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: macht Störungsprotokoll, Zeugen, Messung, Minderungs- und Unterlassungsstrategie.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: macht Störungsprotokoll, Zeugen, Messung, Minderungs- und Unterlassungsstrategie.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -163,7 +163,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-makler-courtage-mietrecht`
 
-**Fokus:** Maklercourtage Mietrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Maklercourtage Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Maklercourtage Mietrecht
 
@@ -177,9 +177,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -208,7 +208,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-miet-tatbestand-beweis-und-belege`
 
-**Fokus:** Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -222,7 +222,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Spezialwissen: Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial miet tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage / miet tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

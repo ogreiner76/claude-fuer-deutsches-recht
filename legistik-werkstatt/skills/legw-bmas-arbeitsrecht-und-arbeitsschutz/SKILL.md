@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Arbeitsrecht und Arbeitsschutz
-Ressort:            BMAS
-Kernnormen:         BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.
-Akteure/Aufsicht:   BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Laender.
-EU/Voelkerrecht:    Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-RL; ArbeitnehmerInfo-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Arbeitsrecht und Arbeitsschutz
+Ressort: BMAS
+Kernnormen: BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.
+Akteure/Aufsicht: BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Laender.
+EU/Voelkerrecht: Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-RL; ArbeitnehmerInfo-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

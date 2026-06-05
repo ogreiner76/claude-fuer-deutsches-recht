@@ -1,24 +1,24 @@
 ---
 name: iv-zahlungsklagen-insolvenzverwaltungs
-description: "Nutze dies, wenn Iv Zahlungsklagen 15B, Spezial Insolvenzverwaltungs Erstpruefung Und Mandatsziel im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Zahlungsklagen 15B, Spezial Insolvenzverwaltungs Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Iv Zahlungsklagen 15B, Spezial Insolvenzverwaltungs Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Iv Zahlungsklagen 15b, Insolvenzverwaltungs Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Iv Zahlungsklagen 15B, Spezial Insolvenzverwaltungs Erstpruefung Und Mandatsziel
+# Iv Zahlungsklagen 15B, Insolvenzverwaltungs Erstpruefung Und Mandatsziel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Iv Zahlungsklagen 15B, Insolvenzverwaltungs Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-zahlungsklagen-15b` | Zahlungsklagen nach § 15b InsO gegen Geschäftsleiter vorbereiten wenn Zahlungen nach Insolvenzreife erfolgt sind. § 15b InsO §§ 17 19 InsO Insolvenzreife. Prüfraster: Insolvenzreifedatum Zahlungen nach Stichtag Organstellung Ausnahmen ordnungsgemaeßer Geschäftsgang D-und-O-Deckung Vergleichsanker. Output: Haftungsanalyse Klageentwurf Vergleichsrechnung. Abgrenzung: nicht für Anfechtungsansprüche (iv-anfechtung-129ff). |
-| `spezial-insolvenzverwaltungs-erstpruefung-und-mandatsziel` | Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzverwaltung: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-insolvenzverwaltungs-erstpruefung-und-mandatsziel` | Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzverwaltung: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Iv Zahlungsklagen 15B, Spezial Insolvenzverwaltungs Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Iv Zahlungsklagen 15B, Insolvenzverwaltungs Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzverwaltung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -113,7 +113,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `spezial-insolvenzverwaltungs-erstpruefung-und-mandatsziel`
 
-**Fokus:** Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzverwaltung: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzverwaltung: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -127,7 +127,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 
 ## Spezialwissen: Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel / spezial insolvenzverwaltungs erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel / insolvenzverwaltungs erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -163,20 +163,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Erstprüfung Insolvenzverwalter — Pflichtfragen
 - **Rollenklärung:**
-  - Regelverwalter § 80 InsO (volle Verwaltungs- und Verfügungsbefugnis) oder Sachwalter § 274 InsO (Eigenverwaltung — Schuldner bleibt verfügungsbefugt, Sachwalter überwacht)?
-  - Vorl. Verwalter § 21, § 22 InsO: stark (Verwaltungs- und Verfügungsbefugnis) oder schwach (Zustimmungsvorbehalt § 21 Abs. 2 Nr. 2 Alt. 2 InsO)?
-  - Restrukturierungsbeauftragter § 73 ff. StaRUG (StaRUG-Verfahren)?
+ - Regelverwalter § 80 InsO (volle Verwaltungs- und Verfügungsbefugnis) oder Sachwalter § 274 InsO (Eigenverwaltung — Schuldner bleibt verfügungsbefugt, Sachwalter überwacht)?
+ - Vorl. Verwalter § 21, § 22 InsO: stark (Verwaltungs- und Verfügungsbefugnis) oder schwach (Zustimmungsvorbehalt § 21 Abs. 2 Nr. 2 Alt. 2 InsO)?
+ - Restrukturierungsbeauftragter § 73 ff. StaRUG (StaRUG-Verfahren)?
 - **Mandatsziel:**
-  - Massesicherung in den ersten 14 Tagen (§ 22 InsO Sicherungsmaßnahmen).
-  - Berichtstermin § 156 InsO mit Empfehlung Fortführung oder Stilllegung.
-  - Planinsolvenz §§ 217 ff. InsO als Verwertungsstrategie.
-  - Übertragende Sanierung (Asset Deal / Share Deal).
+ - Massesicherung in den ersten 14 Tagen (§ 22 InsO Sicherungsmaßnahmen).
+ - Berichtstermin § 156 InsO mit Empfehlung Fortführung oder Stilllegung.
+ - Planinsolvenz §§ 217 ff. InsO als Verwertungsstrategie.
+ - Übertragende Sanierung (Asset Deal / Share Deal).
 - **Erstmaßnahmen:**
-  - Inbesitznahme der Geschäftsräume, IT-Systeme, Buchhaltung, Mailpostfach (§ 148 InsO).
-  - Sofortige Kontensperrung bei Banken, Neueröffnung Insolvenzkonto.
-  - Anmeldung bei Insolvenzgericht: Verfahrenseröffnungsantrag bestätigt, Insolvenzbekanntmachung veranlasst.
-  - Information Mitarbeiter, Betriebsrat — Insolvenzgeld § 165 SGB III prüfen, Vorfinanzierung anstoßen.
-  - Eilige Verträge: Mietvertrag § 109 InsO (3 Monate Sonderkündigungsrecht), Arbeitsverträge § 113 InsO (3 Monate Kündigungsfrist), Dauerlieferverträge § 103 InsO Erfüllungswahlrecht.
+ - Inbesitznahme der Geschäftsräume, IT-Systeme, Buchhaltung, Mailpostfach (§ 148 InsO).
+ - Sofortige Kontensperrung bei Banken, Neueröffnung Insolvenzkonto.
+ - Anmeldung bei Insolvenzgericht: Verfahrenseröffnungsantrag bestätigt, Insolvenzbekanntmachung veranlasst.
+ - Information Mitarbeiter, Betriebsrat — Insolvenzgeld § 165 SGB III prüfen, Vorfinanzierung anstoßen.
+ - Eilige Verträge: Mietvertrag § 109 InsO (3 Monate Sonderkündigungsrecht), Arbeitsverträge § 113 InsO (3 Monate Kündigungsfrist), Dauerlieferverträge § 103 InsO Erfüllungswahlrecht.
 - **Vergütung:** § 63 InsO i.V.m. InsVV — Regelsatz nach Massewert mit Zu-/Abschlägen.
 
 ## Haftungsrelevante Erstmaßnahmen

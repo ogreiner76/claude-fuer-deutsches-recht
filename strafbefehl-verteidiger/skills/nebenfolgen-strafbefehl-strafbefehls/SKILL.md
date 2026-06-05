@@ -1,13 +1,13 @@
 ---
 name: nebenfolgen-strafbefehl-strafbefehls
-description: "Nutze dies, wenn Spezial Nebenfolgen Verhandlung Vergleich Und Eskalation, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste, Spezial Strafbefehls Erstpruefung Und Mandatsziel im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Nebenfolgen Verhandlung Vergleich Und Eskalation, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste, Spezial Strafbefehls Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Nebenfolgen Verhandlung Vergleich Und Eskalation, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste, Spezial Strafbefehls Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nebenfolgen Verhandlung Vergleich Und Eskalation, Strafbefehl Dokumentenmatrix Und Lueckenliste, Strafbefehls Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Nebenfolgen Verhandlung Vergleich Und Eskalation, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste, Spezial Strafbefehls Erstpruefung Und Mandatsziel
+# Nebenfolgen Verhandlung Vergleich Und Eskalation, Strafbefehl Dokumentenmatrix Und Lueckenliste, Strafbefehls Erstpruefung Und Mandatsziel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nebenfolgen Verhandlung Vergleich Und Eskalation, Strafbefehl Dokumentenmatrix Und Lueckenliste, Strafbefehls Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Nebenfolgen Verhandlung Vergleich Und Eskalation, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste, Spezial Strafbefehls Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nebenfolgen Verhandlung Vergleich Und Eskalation, Strafbefehl Dokumentenmatrix Und Lueckenliste, Strafbefehls Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -154,16 +154,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Zustellung re-pruefen:** Postzustellungsurkunde § 37 StPO i.V.m. §§ 166 ff. ZPO; bei Ersatzzustellung Heilung § 189 ZPO; Datum verbindlich fuer Beginn 2-Wochen-Frist § 410 StPO.
 - **Verteidigerbestellung § 137 StPO** sofort; bei Freiheitsstrafe Strafbefehl Pflichtverteidigerbestellung § 408b StPO.
 - **Mandantenziel matrix:**
-  - **Schuldspruch bestritten** -> Vollumfaenglicher Einspruch + Hauptverhandlung; Akteneinsicht § 147 StPO Beweismittel pruefen.
-  - **Strafmass-Reduktion** -> Beschraenkter Einspruch § 410 II StPO auf Rechtsfolgenausspruch.
-  - **Nebenfolgen-Reduktion** (Fahrverbot) -> Einspruch auf Fahrverbot ggf. mit Antrag Erhoehung Geldstrafe als Kompensation.
-  - **Einstellung anstreben** -> §§ 153, 153a StPO mit Auflagen.
-  - **Akzeptanz** -> Wenn Strafmass im Rahmen, kein Eintrag-Risiko, Hauptverhandlung wuerde Beweise gegen Mandant erbringen.
+ - **Schuldspruch bestritten** -> Vollumfaenglicher Einspruch + Hauptverhandlung; Akteneinsicht § 147 StPO Beweismittel pruefen.
+ - **Strafmass-Reduktion** -> Beschraenkter Einspruch § 410 II StPO auf Rechtsfolgenausspruch.
+ - **Nebenfolgen-Reduktion** (Fahrverbot) -> Einspruch auf Fahrverbot ggf. mit Antrag Erhoehung Geldstrafe als Kompensation.
+ - **Einstellung anstreben** -> §§ 153, 153a StPO mit Auflagen.
+ - **Akzeptanz** -> Wenn Strafmass im Rahmen, kein Eintrag-Risiko, Hauptverhandlung wuerde Beweise gegen Mandant erbringen.
 - **BZRG-Eintrag-Risiko** § 32 BZRG: ab 90 TS / Freiheitsstrafe Eintragung Fuehrungszeugnis; Konsequenzen Berufslaufbahn pruefen.
 - **Berufliche / disziplinarrechtliche Auswirkungen:**
-  - Beamte: Disziplinarrecht, Anzeigepflicht; ab Geldstrafe ueblich Verfahren.
-  - Aerzte / Anwaelte / Steuerberater / Apotheker: Berufsaufsicht.
-  - Lehrer / Polizisten: Schulaufsicht / Disziplinarverfahren.
-  - Fuehrungspositionen Wirtschaft: Reputation.
+ - Beamte: Disziplinarrecht, Anzeigepflicht; ab Geldstrafe ueblich Verfahren.
+ - Aerzte / Anwaelte / Steuerberater / Apotheker: Berufsaufsicht.
+ - Lehrer / Polizisten: Schulaufsicht / Disziplinarverfahren.
+ - Fuehrungspositionen Wirtschaft: Reputation.
 - **Erfolgsaussicht-Prognose** vor Einspruch: Beweislage objektiv pruefen; Strafrahmen Hauptverhandlung; Kostenrisiko bei Verurteilung; Best-Case / Worst-Case.
 - **Anschluss-Skills:** Strafbefehl-Dokumentenmatrix; Einspruchsentscheidung; Verteidigerstrategie.

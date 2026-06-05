@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Kommunalrecht der Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Spezialskill-Routing und erste Ausgabe."
+description: "Kommunalrecht der Länder: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
 ---
 
 # Kommunalrecht der Länder - Allgemeiner Einstieg
 
 ## Aufgabe
 
-Führt in Kommunalrecht der Länder ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Spezialskills dieses Plugins vor.
+Führt in Kommunalrecht der Länder ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.
 
 ## Startfragen
 

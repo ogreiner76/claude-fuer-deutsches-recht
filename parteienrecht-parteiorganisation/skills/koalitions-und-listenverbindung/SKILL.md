@@ -8,7 +8,7 @@ description: "Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, 
 ## Aufgabe
 Prüft wahlrechtlich zulässige Kooperationen, gemeinsame Listen, Wählergruppen und Satzung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

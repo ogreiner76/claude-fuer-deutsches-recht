@@ -1,23 +1,23 @@
 ---
 name: arbeitserlaubnis-blue-arbeitsschutz
-description: "Nutze dies, wenn Arbeitserlaubnis Blue Card Nicht Eu, Arbeitsschutz Psychische Gefaehrdungsbeurteilung, Arbeitszeit Erfassung Arbzg, Arbeitszeugnis Standard Und Code, Barrierefreiheit Arbeitsplatz Accommodation im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Arbeitserlaubnis Blue Card Nicht Eu, Arbeitsschutz Psychische Gefaehrdungsbeurteilung, Arbeitszeit Erfassung Arbzg, Arbeitszeugnis Standard Und Code, Barrierefreiheit Arbeitsplatz Accommodation prüfen.; Erstelle eine Arbeitsfassung zu Arbeitserlaubnis Blue Card Nicht Eu, Arbeitsschutz Psychische Gefaehrdungsbeurteilung, Arbeitszeit Erfassung Arbzg, Arbeitszeugnis Standard Und Code, Barrierefreiheit Arbeitsplatz Accommodation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arbeitserlaubnis Blue Card Nicht Eu, Arbeitsschutz Psychische Gefaehrdungsbeurteilung, Arbeitszeit Erfassung Arbzg, Arbeitszeugnis Standard Und Code: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arbeitserlaubnis Blue Card Nicht Eu, Arbeitsschutz Psychische Gefaehrdungsbeurteilung, Arbeitszeit Erfassung Arbzg, Arbeitszeugnis Standard Und Code, Barrierefreiheit Arbeitsplatz Accommodation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitserlaubnis Blue Card Nicht Eu, Arbeitsschutz Psychische Gefaehrdungsbeurteilung, Arbeitszeit Erfassung Arbzg, Arbeitszeugnis Standard Und Code, Barrierefreiheit Arbeitsplatz Accommodation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `arbeitserlaubnis-blue-card-nicht-eu` | Berliner Start-up-HR: Aufenthalts- und Arbeitserlaubnis-Check bei Nicht-EU-Beschäftigten, Blue Card, Fiktionsbescheinigung und Payroll-Stopps. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `arbeitsschutz-psychische-gefaehrdungsbeurteilung` | Berliner Start-up-HR: Arbeitsschutz und psychische Gefährdungsbeurteilung: Start-up-gerecht, dokumentiert und ohne Wellness-Fassade. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `arbeitszeit-erfassung-arbzg` | Berliner Start-up-HR: Arbeitszeiterfassung für Start-up: Höchstarbeitszeit, Pausen, Ruhezeit, Überstunden, Vertrauensarbeitszeit und Audit. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `arbeitszeugnis-standard-und-code` | Berliner Start-up-HR: Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `barrierefreiheit-arbeitsplatz-accommodation` | Berliner Start-up-HR: Angemessene Vorkehrungen am Arbeitsplatz: Hilfsmittel, Arbeitszeit, Remote, Kosten, Integrationsamt und Teamkommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `arbeitserlaubnis-blue-card-nicht-eu` | Berliner Start-up-HR: Aufenthalts- und Arbeitserlaubnis-Check bei Nicht-EU-Beschäftigten, Blue Card, Fiktionsbescheinigung und Payroll-Stopps. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `arbeitsschutz-psychische-gefaehrdungsbeurteilung` | Berliner Start-up-HR: Arbeitsschutz und psychische Gefährdungsbeurteilung: Start-up-gerecht, dokumentiert und ohne Wellness-Fassade. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `arbeitszeit-erfassung-arbzg` | Berliner Start-up-HR: Arbeitszeiterfassung für Start-up: Höchstarbeitszeit, Pausen, Ruhezeit, Überstunden, Vertrauensarbeitszeit und Audit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `arbeitszeugnis-standard-und-code` | Berliner Start-up-HR: Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `barrierefreiheit-arbeitsplatz-accommodation` | Berliner Start-up-HR: Angemessene Vorkehrungen am Arbeitsplatz: Hilfsmittel, Arbeitszeit, Remote, Kosten, Integrationsamt und Teamkommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Arbeitserlaubnis Blue Card Nicht Eu, Arbeitsschutz Psychische Gefaehrdung
 
 ## 1. `arbeitserlaubnis-blue-card-nicht-eu`
 
-**Fokus:** Berliner Start-up-HR: Aufenthalts- und Arbeitserlaubnis-Check bei Nicht-EU-Beschäftigten, Blue Card, Fiktionsbescheinigung und Payroll-Stopps. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Aufenthalts- und Arbeitserlaubnis-Check bei Nicht-EU-Beschäftigten, Blue Card, Fiktionsbescheinigung und Payroll-Stopps. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitserlaubnis Blue Card Nicht Eu
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Recruiting
 **Fokus:** Aufenthalts- und Arbeitserlaubnis-Check bei Nicht-EU-Beschäftigten, Blue Card, Fiktionsbescheinigung und Payroll-Stopps.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `arbeitsschutz-psychische-gefaehrdungsbeurteilung`
 
-**Fokus:** Berliner Start-up-HR: Arbeitsschutz und psychische Gefährdungsbeurteilung: Start-up-gerecht, dokumentiert und ohne Wellness-Fassade. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Arbeitsschutz und psychische Gefährdungsbeurteilung: Start-up-gerecht, dokumentiert und ohne Wellness-Fassade. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitsschutz Psychische Gefaehrdungsbeurteilung
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Office
 **Fokus:** Arbeitsschutz und psychische Gefährdungsbeurteilung: Start-up-gerecht, dokumentiert und ohne Wellness-Fassade.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `arbeitszeit-erfassung-arbzg`
 
-**Fokus:** Berliner Start-up-HR: Arbeitszeiterfassung für Start-up: Höchstarbeitszeit, Pausen, Ruhezeit, Überstunden, Vertrauensarbeitszeit und Audit. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Arbeitszeiterfassung für Start-up: Höchstarbeitszeit, Pausen, Ruhezeit, Überstunden, Vertrauensarbeitszeit und Audit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitszeit Erfassung ArbZG
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Zeit
 **Fokus:** Arbeitszeiterfassung für Start-up: Höchstarbeitszeit, Pausen, Ruhezeit, Überstunden, Vertrauensarbeitszeit und Audit.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `arbeitszeugnis-standard-und-code`
 
-**Fokus:** Berliner Start-up-HR: Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitszeugnis Standard Und Code
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Offboarding
 **Fokus:** Arbeitszeugnis: Anspruch, Note, Tätigkeitsbeschreibung, Schlussformel, Code-Risiko und schnelle Entwurfsroute.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `barrierefreiheit-arbeitsplatz-accommodation`
 
-**Fokus:** Berliner Start-up-HR: Angemessene Vorkehrungen am Arbeitsplatz: Hilfsmittel, Arbeitszeit, Remote, Kosten, Integrationsamt und Teamkommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Angemessene Vorkehrungen am Arbeitsplatz: Hilfsmittel, Arbeitszeit, Remote, Kosten, Integrationsamt und Teamkommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Barrierefreiheit Arbeitsplatz Accommodation
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** SGB IX
 **Fokus:** Angemessene Vorkehrungen am Arbeitsplatz: Hilfsmittel, Arbeitszeit, Remote, Kosten, Integrationsamt und Teamkommunikation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

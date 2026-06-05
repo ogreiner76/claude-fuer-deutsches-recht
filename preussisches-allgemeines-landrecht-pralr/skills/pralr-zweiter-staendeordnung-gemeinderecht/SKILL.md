@@ -1,13 +1,13 @@
 ---
 name: pralr-zweiter-staendeordnung-gemeinderecht
-description: "Nutze dies, wenn Pralr Neu 022 Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Neu 023 Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Neu 024 Zweiter Teil Kirchen Schule Armenwesen, Pralr Neu 025 Zweiter Teil Staatsdiener Amtspflichten, Pralr Neu 026 Zweiter Teil Strafrecht 20 Titel Quellenkritisch im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr Neu 022 Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Neu 023 Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Neu 024 Zweiter Teil Kirchen Schule Armenwesen, Pralr Neu 025 Zweiter Teil Staatsdiener Amtspflichten, Pralr Neu 026 Zweiter Teil Strafrecht 20 Titel Quellenkritisch prüfen.; Erstelle eine Arbeitsfassung zu Pralr Neu 022 Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Neu 023 Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Neu 024 Zweiter Teil Kirchen Schule Armenwesen, Pralr Neu 025 Zweiter Teil Staatsdiener Amtspflichten, P..."
+description: "Nutze dies bei Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Pralr Neu 022 Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Neu 023 Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Neu 024 Zweiter Teil Kirchen Schule Armenwesen, Pralr Neu 025 Zweiter Teil Staatsdiener Amtspflichten, Pralr Neu 026 Zweiter Teil Strafrecht 20 Titel Quellenkritisch
+# Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten, Pralr Zweiter Teil Strafrecht 20 Titel Quellenkritisch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten, Pralr Zweiter Teil Strafrecht 20 Titel Quellenkritisch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Pralr Neu 022 Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Neu 023 Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Neu 024 Zweiter Teil Kirchen Schule Armenwesen, Pralr Neu 025 Zweiter Teil Staatsdiener Amtspflichten, Pralr Neu 026 Zweiter Teil Strafrecht 20 Titel Quellenkritisch** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Zweiter Teil Kirchen Schule Armenwesen, Pralr Zweiter Teil Staatsdiener Amtspflichten, Pralr Zweiter Teil Strafrecht 20 Titel Quellenkritisch** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -100,7 +100,7 @@ ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Bei
 
 **Fokus:** PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 023 Zweiter Teil Gemeinderecht Staedte Doerfer Polizei
+# Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei
 
 ## Aufgabe
 
@@ -144,7 +144,7 @@ Buergermeister einer Mittelstadt erlaesst Verfuegung.
 
 **Fokus:** PrALR: Zweiter Teil Kirchen Schule Armenwesen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 024 Zweiter Teil Kirchen Schule Armenwesen
+# Pralr Zweiter Teil Kirchen Schule Armenwesen
 
 ## Aufgabe
 
@@ -188,7 +188,7 @@ Bauer schickt Kind nicht zur Schule.
 
 **Fokus:** PrALR: Zweiter Teil Staatsdiener Amtspflichten mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 025 Zweiter Teil Staatsdiener Amtspflichten
+# Pralr Zweiter Teil Staatsdiener Amtspflichten
 
 ## Aufgabe
 

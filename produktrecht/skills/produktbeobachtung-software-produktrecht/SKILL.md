@@ -1,13 +1,13 @@
 ---
 name: produktbeobachtung-software-produktrecht
-description: "Nutze dies, wenn Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich prüfen.; Erstelle eine Arbeitsfassung zu Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -85,37 +85,37 @@ Der Nutzer hat `/produktrecht:produktrecht-anpassen` eingegeben. Er möchte etwa
 
 1. **Konfiguration lesen.** `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` lesen (und `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` eine Ebene darüber). Wenn die Plugin-Konfiguration nicht existiert oder noch `[PLATZHALTER]`-Werte enthält, sagen:
 
-   > Sie haben das Setup noch nicht ausgeführt. Führen Sie zuerst `/produktrecht:produktrecht-kaltstart-interview` aus – anpassen ist für die Anpassung eines Profils das Sie bereits haben.
+ > Sie haben das Setup noch nicht ausgeführt. Führen Sie zuerst `/produktrecht:produktrecht-kaltstart-interview` aus – anpassen ist für die Anpassung eines Profils das Sie bereits haben.
 
 2. **Anpassbare Karte zeigen.** Was im Profil ist, gruppiert, mit einer einzeiligen Zusammenfassung des aktuellen Werts:
 
-   - **Unternehmen / wer wir sind** – Name, Branche, Jurisdiktionen, Phase, Praxissetting, Produkt-Fläche *(geteilt über alle Plugins – Änderungen fließen durch `unternehmens-profil.md`)*
-   - **Launch-Review-Prozess** – Eingang (Jira / Linear / Asana / Dokument), Review-SLA, Launch-Tiering, PRD-Speicherort
-   - **Review-Framework** – die Kategorien gegen die Sie Launches prüfen (Werberecht, Datenschutz, AGB, Produktsicherheit, Geistiges Eigentum, Verbraucherrechte, Aufsichtsrecht) und die Tiefe pro Kategorie
-   - **Risikokalibrierung** – was P0-Blocker / braucht-einen-Blick / in-Ordnung bei Ihrem Unternehmen ist, mit Beispielen die die Labels verankern
-   - **Werbeaussagen** – Haltung zu marktschreierischer Anpreisung vs. substanziiert, vergleichende Werbehaltung nach § 6 UWG, Superlative, Hausregeln für KI-Feature-Aussagen
-   - **Personen** – Produktpartner nach Fläche, Eskalationskette (Ihr Vorgesetzter, GC, Risikoausschuss), Marketing-Kontaktperson
-   - **Ablauf** – Mandate-Workspaces, launch-radar-Watcher-Takt, Launch-Review-Vorlage
-   - **Integrationen** – Jira / Linear / Asana / Slack / Dokumentenspeicher-Status, Ausweiche
+ - **Unternehmen / wer wir sind** – Name, Branche, Jurisdiktionen, Phase, Praxissetting, Produkt-Fläche *(geteilt über alle Plugins – Änderungen fließen durch `unternehmens-profil.md`)*
+ - **Launch-Review-Prozess** – Eingang (Jira / Linear / Asana / Dokument), Review-SLA, Launch-Tiering, PRD-Speicherort
+ - **Review-Framework** – die Kategorien gegen die Sie Launches prüfen (Werberecht, Datenschutz, AGB, Produktsicherheit, Geistiges Eigentum, Verbraucherrechte, Aufsichtsrecht) und die Tiefe pro Kategorie
+ - **Risikokalibrierung** – was P0-Blocker / braucht-einen-Blick / in-Ordnung bei Ihrem Unternehmen ist, mit Beispielen die die Labels verankern
+ - **Werbeaussagen** – Haltung zu marktschreierischer Anpreisung vs. substanziiert, vergleichende Werbehaltung nach § 6 UWG, Superlative, Hausregeln für KI-Feature-Aussagen
+ - **Personen** – Produktpartner nach Fläche, Eskalationskette (Ihr Vorgesetzter, GC, Risikoausschuss), Marketing-Kontaktperson
+ - **Ablauf** – Mandate-Workspaces, launch-radar-Watcher-Takt, Launch-Review-Vorlage
+ - **Integrationen** – Jira / Linear / Asana / Slack / Dokumentenspeicher-Status, Ausweiche
 
 3. **Fragen was geändert werden soll.**
 
-   > Was möchten Sie anpassen? Wählen Sie einen Abschnitt, oder beschreiben Sie die Änderung in Ihren eigenen Worten.
+ > Was möchten Sie anpassen? Wählen Sie einen Abschnitt, oder beschreiben Sie die Änderung in Ihren eigenen Worten.
 
 4. **Die Änderung machen.** Aktuellen Wert zeigen, nach neuem Wert fragen, erklären was sich downstream ändert, bestätigen, in die Konfiguration schreiben.
 
-   Beispiele:
-   - *Risikokalibrierung von "in-Ordnung" → "braucht-einen-Blick" für ein Muster festigen:* "`/ist-das-ein-problem` und `/launch-prüfung` werden dieses Muster beginnen zu flaggen. Bestehende Reviews bleiben wie geschrieben; erneut ausführen wenn Sie die neue Haltung angewendet haben möchten."
-   - *Neue Launch-Review-Kategorie:* "`/launch-prüfung` fügt einen Abschnitt für diese Kategorie hinzu. `/ist-das-ein-problem` wird es in der Triage muster-erkennen."
-   - *Werbeaussagen-Haltung festigen:* "`/werbeaussagen-prüfung` wird mehr Sprache als substanziierungsbedürftig oder umformulierungsbedürftig flaggen."
+ Beispiele:
+ - *Risikokalibrierung von "in-Ordnung" → "braucht-einen-Blick" für ein Muster festigen:* "`/ist-das-ein-problem` und `/launch-prüfung` werden dieses Muster beginnen zu flaggen. Bestehende Reviews bleiben wie geschrieben; erneut ausführen wenn Sie die neue Haltung angewendet haben möchten."
+ - *Neue Launch-Review-Kategorie:* "`/launch-prüfung` fügt einen Abschnitt für diese Kategorie hinzu. `/ist-das-ein-problem` wird es in der Triage muster-erkennen."
+ - *Werbeaussagen-Haltung festigen:* "`/werbeaussagen-prüfung` wird mehr Sprache als substanziierungsbedürftig oder umformulierungsbedürftig flaggen."
 
 5. **Für gemeinsames-Profil-Änderungen** (Unternehmensname, Branche, Jurisdiktionen, Praxissetting, Phase): nach `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` schreiben und vermerken:
 
-   > Diese Änderung betrifft alle Plugins – jedes Plugin das Ihren Jurisdiktions-Fußabdruck liest sieht jetzt [neuer Wert].
+ > Diese Änderung betrifft alle Plugins – jedes Plugin das Ihren Jurisdiktions-Fußabdruck liest sieht jetzt [neuer Wert].
 
 6. **Abschließen.**
 
-   > Fertig. Ihre nächste Ausgabe spiegelt die Änderung wider. Sonst noch etwas? Sie können `/produktrecht:produktrecht-anpassen` jederzeit ausführen.
+ > Fertig. Ihre nächste Ausgabe spiegelt die Änderung wider. Sonst noch etwas? Sie können `/produktrecht:produktrecht-anpassen` jederzeit ausführen.
 
 ## Leitplanken
 
@@ -202,13 +202,13 @@ Auf das erste Argument (Unterbefehl) reagieren:
 
 1. Prüfen, ob der Slug nicht bereits in `mandate/<slug>/` oder `mandate/_archiviert/<slug>/` vorhanden ist. Bei Wiederverwendung anderen Slug wählen lassen.
 2. Interview durchführen:
-   - **Mandant** (vertretene Partei oder interner Unternehmensbereich bei In-house)
-   - **Gegenseite / Beteiligte** (andere Partei — können mehrere sein)
-   - **Mandatstyp** (aus dem Kanzleiprofil; für Produktrecht: Produkt-Launch | Feature-Review | Marketingaussagen-Prüfung | Risikoanalyse | Produktbereich dauerhaft | Sonstiges)
-   - **Vertraulichkeitsstufe** (standard | erhöht | Clean-Team — erhöhte Stufe erfordert besondere Vorsicht bei mandatsübergreifenden Einstellungen)
-   - **Kernsachverhalt** (2–5 Sätze: Worum geht es? Wer sind die Beteiligten? Was steht auf dem Spiel?)
-   - **Mandatsspezifische Abweichungen** vom Standardprozess (z. B. "Mandant besteht auf 24 Monaten Haftungsbeschränkung statt 12", "Ton: partnerschaftlich — Gegenseite ist strategischer Partner")
-   - **Zusammenhängende Mandate** (Slugs verbundener Vorgänge)
+ - **Mandant** (vertretene Partei oder interner Unternehmensbereich bei In-house)
+ - **Gegenseite / Beteiligte** (andere Partei — können mehrere sein)
+ - **Mandatstyp** (aus dem Kanzleiprofil; für Produktrecht: Produkt-Launch | Feature-Review | Marketingaussagen-Prüfung | Risikoanalyse | Produktbereich dauerhaft | Sonstiges)
+ - **Vertraulichkeitsstufe** (standard | erhöht | Clean-Team — erhöhte Stufe erfordert besondere Vorsicht bei mandatsübergreifenden Einstellungen)
+ - **Kernsachverhalt** (2–5 Sätze: Worum geht es? Wer sind die Beteiligten? Was steht auf dem Spiel?)
+ - **Mandatsspezifische Abweichungen** vom Standardprozess (z. B. "Mandant besteht auf 24 Monaten Haftungsbeschränkung statt 12", "Ton: partnerschaftlich — Gegenseite ist strategischer Partner")
+ - **Zusammenhängende Mandate** (Slugs verbundener Vorgänge)
 3. `mandate/<slug>/mandat.md` mit der unten beschriebenen Vorlage anlegen.
 4. `mandate/<slug>/verlauf.md` mit einem "Eröffnet"-Eintrag anlegen.
 5. Leere `mandate/<slug>/notizen.md` anlegen.

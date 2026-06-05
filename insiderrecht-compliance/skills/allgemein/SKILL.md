@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Workflow fuer Insiderrecht, Ad-hoc, Insiderliste, Handelsverbote und BaFin-Kommunikation."
+description: "Nutze dies bei Kaltstart Insiderrecht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Kaltstart Insiderrecht

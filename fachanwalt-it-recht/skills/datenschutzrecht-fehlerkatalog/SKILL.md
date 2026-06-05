@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-fehlerkatalog
-description: "Nutze dies, wenn Datenschutzrecht Fehlerkatalog im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Datenschutzrecht Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Datenschutzrecht Fehlerkatalog

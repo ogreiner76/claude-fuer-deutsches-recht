@@ -1,13 +1,13 @@
 ---
 name: kaufrecht-right-to-sachmangel-paragraph
-description: "Nutze dies, wenn Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B im Plugin Bgb Bt Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B prüfen.; Erstelle eine Arbeitsfassung zu Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327f 475b: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327F 475B** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

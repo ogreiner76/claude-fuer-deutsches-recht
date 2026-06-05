@@ -1,6 +1,6 @@
 ---
 name: beirat-register-und-notar
-description: "Nutze dies, wenn Beirat Register Und Notar im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Register Und Notar prüfen.; Erstelle eine Arbeitsfassung zu Beirat Register Und Notar.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Register Und Notar: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Register Und Notar

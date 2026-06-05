@@ -1,13 +1,13 @@
 ---
 name: datenminimierung-edge-datensatzqualitaet-bias
-description: "Nutze dies, wenn Datenminimierung Edge Cloud, Datensatzqualitaet Und Bias Hri im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Datenminimierung Edge Cloud, Datensatzqualitaet Und Bias Hri: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Datenminimierung Edge Cloud, Datensatzqualitaet Und Bias Hri
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -58,7 +58,7 @@ Robotik-Architekturen verteilen Datenverarbeitung typischerweise auf Edge (im Ro
 - **TTDSG** (in D ab 01.12.2021) bei Endgeräte-Zugriff (z. B. App).
 - **BSI Cloud Security Cloud Computing Compliance Criteria Catalogue (C5)**, ISO/IEC 27001/27017/27018.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Datenfluss-Diagramm.** Quellen, Verarbeitung, Speicherorte, Übertragungen, Empfänger.
 2. **Klassifizierung.** Personenbezogen / besondere Kategorie / nicht-personenbezogen.
@@ -160,7 +160,7 @@ Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen 
 - **BFSG** für Verbraucherrobotik.
 - **EU-Grundrechtecharta** Art. 21 Diskriminierungsverbot.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Use-Case-spezifische Datenanforderungen.** Was muss der Roboter erkennen, in welcher Umgebung, bei welcher Bevölkerung?
 2. **Data Sheet** je Datensatz: Quelle, Sammelmethode, Annotatoren, Lizenzen, Verteilungsstatistiken nach geschützten Merkmalen (soweit zulässig erhebbar).

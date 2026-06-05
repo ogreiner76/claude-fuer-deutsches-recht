@@ -1,13 +1,13 @@
 ---
 name: stb-lohn-kurzarbeit-lohnsteuer-anmeldung
-description: "Nutze dies, wenn Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung, Stb Lohn Sachbezuege 50 Euro Freigrenze und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `stb-lohn-kurzarbeit-kug-progression` | Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung. |
 | `stb-lohn-lohnsteuer-anmeldung-elster` | Elektronische Lohnsteuer-Anmeldung über ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Übermittlung. Methodik Daten aus Lohnabrechnung ELSTER-Formular Prüfen Senden. Output ELSTER-Quittung. |
-| `stb-lohn-lohnsteuer-monatsabschluss` | Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Workflow Abrechnungsschritte 39e Tabelle. Output Lohnabrechnungen LSt-Anmeldung Bankueberweisung. |
+| `stb-lohn-lohnsteuer-monatsabschluss` | Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Abrechnungsschritte 39e Tabelle. Output Lohnabrechnungen LSt-Anmeldung Bankueberweisung. |
 | `stb-lohn-minijob-538-euro-2024-anpassung` | Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Knappschaft. |
 | `stb-lohn-sachbezuege-50-euro-freigrenze` | Sachbezuege 50 EUR Freigrenze § 8 Abs 2 EStG. Anwendungsfall geldwerte Vorteile Gutscheine Sachgeschenke Aufmerksamkeiten Begründung steuerfrei wenn unter 50 EUR/Monat. Methodik Prüfung Sachbezugs-Typ Geldzuwendung-Abgrenzung Loyalitaetsprogramme. Output Sachbezugs-Abrechnung Dokumentation. |
 | `stb-mandanten-onboarding-checkliste-vollservice` | Onboarding-Checkliste Neumandant Vollservice. Anwendungsfall Mandatsannahme Standardablauf Mandantenvereinbarung Vollmachten DSGVO-Information Buchführung Lohn Steuererklärung. Methodik strukturierter Checkliste. Output Mandantenakte komplett startklar. |
@@ -312,7 +312,7 @@ Stand: 05/2026.
 
 ## 3. `stb-lohn-lohnsteuer-monatsabschluss`
 
-**Fokus:** Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Workflow Abrechnungsschritte 39e Tabelle. Output Lohnabrechnungen LSt-Anmeldung Bankueberweisung.
+**Fokus:** Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Abrechnungsschritte 39e Tabelle. Output Lohnabrechnungen LSt-Anmeldung Bankueberweisung.
 
 # Lohnsteuer-Monatsabschluss
 
@@ -399,8 +399,8 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 ### Phase 4 — SV-Beitraege
 
 - Beitragsbemessungsgrenzen (BBG) Stand 2025 (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen):
-  - RV/AV: ab 2025 bundeseinheitlich 8.050 EUR/Monat (96.600 EUR/Jahr; West-Ost-Angleichung zum 01.01.2025 abgeschlossen).
-  - KV/PV (bundeseinheitlich): 5.512,50 EUR/Monat (66.150 EUR/Jahr); JAEG abweichend.
+ - RV/AV: ab 2025 bundeseinheitlich 8.050 EUR/Monat (96.600 EUR/Jahr; West-Ost-Angleichung zum 01.01.2025 abgeschlossen).
+ - KV/PV (bundeseinheitlich): 5.512,50 EUR/Monat (66.150 EUR/Jahr); JAEG abweichend.
 - Beitragssaetze Stand 2025: RV 18,6 Prozent, AV 2,6 Prozent, KV allgemein 14,6 Prozent + KK-Zusatzbeitrag (durchschnittlich 2,5 Prozent), PV 3,6 Prozent + Kinderlosenzuschlag 0,6 Prozent; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen.
 - Zusatzbeitrag KV individuell je Kasse.
 - Beitragsverteilung AG-/AN-Anteile (jeweils ca. halftig; Ausnahmen PV-Kinderlose, Insolvenzgeld-Umlage).
@@ -410,11 +410,11 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 - Nettolohn = Brutto minus LSt/KiSt/SolZ minus SV-AN-Anteile (- Pfaendung, - VL, - Sonderabzug).
 - Ueberweisung an AN-Konto.
 - Typische Buchungssaetze SKR04 (SKR03 entsprechend):
-  - Loehne und Gehaelter: 6020 SKR04 (4120 SKR03) "Loehne" an 3740 SKR04 (1742 SKR03) "Verbindlichkeiten aus Lohn- und Kirchensteuer", 3760 SKR04 (1741 SKR03) "Verbindlichkeiten im Rahmen der sozialen Sicherheit", 3790 SKR04 (1755 SKR03) "Sonstige Verbindlichkeiten gegenueber Mitarbeitern".
-  - AG-SV-Anteil: 6110 SKR04 (4130 SKR03) "Gesetzliche soziale Aufwendungen" an 3760 SKR04 (1741 SKR03).
-  - Bei Auszahlung Netto: 3790 SKR04 an Bank (1800 SKR04 / 1200 SKR03).
-  - Abfuehrung LSt: 3740 SKR04 an Bank.
-  - Abfuehrung SV: 3760 SKR04 an Bank.
+ - Loehne und Gehaelter: 6020 SKR04 (4120 SKR03) "Loehne" an 3740 SKR04 (1742 SKR03) "Verbindlichkeiten aus Lohn- und Kirchensteuer", 3760 SKR04 (1741 SKR03) "Verbindlichkeiten im Rahmen der sozialen Sicherheit", 3790 SKR04 (1755 SKR03) "Sonstige Verbindlichkeiten gegenueber Mitarbeitern".
+ - AG-SV-Anteil: 6110 SKR04 (4130 SKR03) "Gesetzliche soziale Aufwendungen" an 3760 SKR04 (1741 SKR03).
+ - Bei Auszahlung Netto: 3790 SKR04 an Bank (1800 SKR04 / 1200 SKR03).
+ - Abfuehrung LSt: 3740 SKR04 an Bank.
+ - Abfuehrung SV: 3760 SKR04 an Bank.
 - Konten-Nr je nach Kontenplan und DATEV-Mandantenkonfiguration; bei Abweichungen Mandantenstammdaten pruefen.
 
 ### Phase 6 — Anmeldung Lohnsteuer
@@ -1042,39 +1042,39 @@ Quartal: [Q1/2026]
 Termin: [Datum, Uhrzeit]
 
 1. Quartal in Zahlen (10 Min)
-   - Umsatz, EBIT, Ergebnis
-   - Vergleich Plan/Vorquartal/Vorjahresquartal
+ - Umsatz, EBIT, Ergebnis
+ - Vergleich Plan/Vorquartal/Vorjahresquartal
 
 2. BWA-Auffaelligkeiten (15 Min)
-   - Wesentliche Abweichungen
-   - Sondereffekte
-   - Empfehlungen
+ - Wesentliche Abweichungen
+ - Sondereffekte
+ - Empfehlungen
 
 3. Steuerliche Themen (15 Min)
-   - Steuervorauszahlungen
-   - USt-Voranmeldung Quartalsergebnis
-   - Investitionsabzugsbetrag § 7g EStG
-   - Sonder-AfA Moeglichkeiten
+ - Steuervorauszahlungen
+ - USt-Voranmeldung Quartalsergebnis
+ - Investitionsabzugsbetrag § 7g EStG
+ - Sonder-AfA Moeglichkeiten
 
 4. Liquiditaet und Bank (10 Min)
-   - Bankgespraeche
-   - OPOS-Status
-   - Liquiditaetsplan
+ - Bankgespraeche
+ - OPOS-Status
+ - Liquiditaetsplan
 
 5. Personal (10 Min)
-   - Bestand
-   - Anstehende Vertraegsaenderungen
-   - Lohnerhoehungen, Sonderzahlungen
-   - SV-Pruefung in Sicht?
+ - Bestand
+ - Anstehende Vertraegsaenderungen
+ - Lohnerhoehungen, Sonderzahlungen
+ - SV-Pruefung in Sicht?
 
 6. Investitionen / Strategie (15 Min)
-   - Geplante Investitionen
-   - Steuerliche Optimierung
-   - Bankfinanzierung
+ - Geplante Investitionen
+ - Steuerliche Optimierung
+ - Bankfinanzierung
 
 7. Naechste Schritte (5 Min)
-   - Termine
-   - Aktionspunkte
+ - Termine
+ - Aktionspunkte
 ```
 
 ### Phase 4 — Krisengespraech (Sonderfall)
@@ -1246,20 +1246,20 @@ Rechnungsdatum: ...
 
 Leistungsbeschreibung:
 1. Jahresabschluss [Jahr]
-   Gegenstandswert: [X]
-   Gebuehrensatz nach § 35 StBVV: 25/10
-   Mittelgebuehr: [Y]
-   Faktor: ...
-   Honorar netto: [Z]
+ Gegenstandswert: [X]
+ Gebuehrensatz nach § 35 StBVV: 25/10
+ Mittelgebuehr: [Y]
+ Faktor: ...
+ Honorar netto: [Z]
 
 2. Buchfuehrung Monate [von - bis]
-   Gegenstandswert: [X]
-   Gebuehrensatz nach § 33 StBVV: 5/10
-   Honorar netto: [Z]
+ Gegenstandswert: [X]
+ Gebuehrensatz nach § 33 StBVV: 5/10
+ Honorar netto: [Z]
 
 3. Auslagen
-   Reisekosten EUR [X]
-   Porto EUR [X]
+ Reisekosten EUR [X]
+ Porto EUR [X]
 
 Zwischensumme netto: [Z]
 USt 19 Prozent: [Y]

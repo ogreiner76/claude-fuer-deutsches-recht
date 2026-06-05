@@ -1,12 +1,12 @@
 ---
 name: legal
-description: "Nutze dies, wenn Legal: Behörden-, Gerichts- oder Registerweg im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Legal: Behörden-, Gerichts- oder Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Legal: Behörden-, Gerichts- oder Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legal: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Legal: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Legal: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Legal: Behörden-, Gerichts- oder Registerweg / spezial legal behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Legal: Behörden-, Gerichts- oder Registerweg / legal behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -30,11 +30,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Behörden- und Gerichtswege bei Legal-AI / Berufsrecht
 - **Berufsständische Aufsicht:**
-  - **Rechtsanwaltskammer** (regional, z. B. RAK Berlin, RAK München) — Beschwerden, Aufsichtsverfahren nach BRAO, anwaltsgerichtliche Maßnahmen § 113 BRAO.
-  - **Steuerberaterkammer** (regional) — analog StBerG.
-  - **Wirtschaftsprüferkammer** (WPK Berlin) — analog WPO.
-  - **Notarkammer** (regional) — analog BNotO.
-  - **Patentanwaltskammer** (PAK München) — analog PAO.
+ - **Rechtsanwaltskammer** (regional, z. B. RAK Berlin, RAK München) — Beschwerden, Aufsichtsverfahren nach BRAO, anwaltsgerichtliche Maßnahmen § 113 BRAO.
+ - **Steuerberaterkammer** (regional) — analog StBerG.
+ - **Wirtschaftsprüferkammer** (WPK Berlin) — analog WPO.
+ - **Notarkammer** (regional) — analog BNotO.
+ - **Patentanwaltskammer** (PAK München) — analog PAO.
 - **Anwaltsgerichte** (§§ 92 ff. BRAO): I. Instanz Anwaltsgericht (regional), II. Instanz Anwaltsgerichtshof, III. Instanz BGH.
 - **Datenschutzbehörden** (BfDI / LDI / LDA): bei DSGVO-Verstoß; nicht spezifisch für KI.
 - **EU-Kommission AI Office:** für KI-VO-Compliance-Fragen (digital-strategy.ec.europa.eu).

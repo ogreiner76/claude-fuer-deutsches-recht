@@ -1,13 +1,13 @@
 ---
 name: fremdgeld-anderkonto-gebuehrenunterschreitung
-description: "Nutze dies, wenn Anwälte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwälte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwälte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwälte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwälte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwälte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwälte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwälte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwälte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwälte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaelte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwaelte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwaelte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwaelte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwälte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwälte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwälte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Fremdgeld Und Anderkonto Organisationspflicht Und Prae, Anwälte Gebuehrenunterschreitung Und Pro Bono Kammerantwort Un, Anwälte Gebuehrenunterschreitung Und Pro Bono Organisationspfl, Anwälte Geldwaesche Risikoanalyse Kanzlei Kammerantwort Und Ve** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

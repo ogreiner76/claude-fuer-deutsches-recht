@@ -1,20 +1,20 @@
 ---
 name: fachanwalt-vergaberecht-olg-orientierung
-description: "Nutze dies, wenn Fachanwalt Vergaberecht Olg Sofortige Beschwerde, Fachanwalt Vergaberecht Orientierung, Fachanwalt Vergaberecht Ruegeschriftsatz 160 Gwb, Fachanwalt Vergaberecht Sektorenvergabe Sektvo im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Vergaberecht Olg Sofortige Beschwerde, Fachanwalt Vergaberecht Orientierung, Fachanwalt Vergaberecht Ruegeschriftsatz 160 Gwb, Fachanwalt Vergaberecht Sektorenvergabe Sektvo prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Vergaberecht Olg Sofortige Beschwerde, Fachanwalt Vergaberecht Orientierung, Fachanwalt Vergaberecht Ruegeschriftsatz 160 Gwb, Fachanwalt Vergaberecht Sektorenvergabe Sektvo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Vergaberecht Olg Sofortige Beschwerde, Fachanwalt Vergaberecht Orientierung, Fachanwalt Vergaberecht Ruegeschriftsatz 160 Gwb, Fachanwalt Vergaberecht Sektorenvergabe Sektvo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Vergaberecht Olg Sofortige Beschwerde, Fachanwalt Vergaberecht Orientierung, Fachanwalt Vergaberecht Ruegeschriftsatz 160 Gwb, Fachanwalt Vergaberecht Sektorenvergabe Sektvo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Vergaberecht Olg Sofortige Beschwerde, Fachanwalt Vergaberecht Orientierung, Fachanwalt Vergaberecht Ruegeschriftsatz 160 Gwb, Fachanwalt Vergaberecht Sektorenvergabe Sektvo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-vergaberecht-olg-sofortige-beschwerde` | Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Auftraggeber will VK-Beschluss angreifen oder verteidigen. Normen: §§ 171-184 GWB (Beschwerde), § 172 GWB (Frist zwei Wochen ab Zustellung), § 173 GWB (aufschiebende Wirkung), § 176 GWB (Verlaengerung), § 178 GWB (Entscheidung). Pruefraster: Beschwerdebefugnis, Frist, Form, Begruendungstiefe, Antraege, aufschiebende Wirkung beantragen, Eilantrag § 173 Abs. 1 S. 3 GWB. Output Beschwerdeschriftsatz-Geruest, Fristenkalender, Antraege-Set. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; Schadensersatz siehe fachanwalt-vergaberecht-schadensersatz-181-gwb. |
-| `fachanwalt-vergaberecht-orientierung` | Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Prüfraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachprüfungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin. |
+| `fachanwalt-vergaberecht-orientierung` | Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Prüfraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachprüfungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin. |
 | `fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb` | Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs. 3 GWB ausarbeiten: Bieter will Ruege inhaltlich stark begründen. Normen: § 160 Abs. 3 GWB (Ruege als Zulassigkeitsvoraussetzung), §§ 97 ff. GWB. Prüfraster: Konkrete Vergabestoerung, Norm-Bezeichnung, Beweismittel, Antrag auf Abhilfe, unverzuegliche Einreichung. Output Ruegeschriftsatz, Begleitschreiben. Abgrenzung: Ersteinschaetzung Ruege-Erfordernis siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Nachprüfungsantrag danach siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk. |
 | `fachanwalt-vergaberecht-sektorenvergabe-sektvo` | Sektorenvergabe nach SektVO durchfuehren und angreifen: Sektorenauftraggeber Wasser/Energie/Verkehr/Post oder Bieter will SektVO-konformes Verfahren oder Ruege. Normen: §§ 100-104 GWB (Sektorenauftraggeber), SektVO, RL 2014/25/EU. Pruefraster: Sektorenauftraggeberbegriff § 100 GWB, ausschliesslicher/besonderer Recht, Schwellenwert EUR 432000 ab 01.01.2026, Verfahrenswahl § 13 SektVO, Verhandlungsspielraum, Praequalifikation § 48 SektVO. Output Verfahrensentwurf, Pruefvermerk Verfahrenswahl. Abgrenzung: Allgemein VgV siehe fachanwalt-vergaberecht-orientierung; Konzessionen siehe fachanwalt-vergaberecht-konzessionsvergabe-konzvgv. |
 
@@ -34,7 +34,7 @@ Für **Fachanwalt Vergaberecht Olg Sofortige Beschwerde, Fachanwalt Vergaberecht
 ## Aufgabe
 Bereite eine sofortige Beschwerde gegen eine Vergabekammer-Entscheidung vor oder verteidige sie. Frist zwei Wochen ab Zustellung ist nicht verlaengerbar. Aufschiebende Wirkung muss separat beantragt werden.
 
-## Kaltstart
+## Einstieg
 1. Wer hat verloren? (Bieter, Auftraggeber, Beigeladener)
 2. Zustelldatum des VK-Beschlusses?
 3. Wurde Zuschlag bereits erteilt? Wenn ja: nur noch Feststellungs- und Schadensersatzpfad.
@@ -109,7 +109,7 @@ BGH X ZB 14/17 (Suspensiveffekt) und OLG-Linien nur mit Datum, Aktenzeichen und 
 
 ## 2. `fachanwalt-vergaberecht-orientierung`
 
-**Fokus:** Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Prüfraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachprüfungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin.
+**Fokus:** Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Prüfraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachprüfungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin.
 
 # Fachanwalt für Vergaberecht — Orientierung
 
@@ -145,9 +145,9 @@ BGH X ZB 14/17 (Suspensiveffekt) und OLG-Linien nur mit Datum, Aktenzeichen und 
 ## Fristen
 
 - **Ruegefrist** § 160 Abs. 3 GWB:
-  - **erkannte Verstöße** unverzueglich nach Kenntnis (in der Praxis bis zu zehn Kalendertage).
-  - **erkennbare Verstöße** vor Ablauf der Angebotsfrist.
-  - **in der Bekanntmachung erkennbare Verstöße** bis zum Ablauf der Angebotsfrist.
+ - **erkannte Verstöße** unverzueglich nach Kenntnis (in der Praxis bis zu zehn Kalendertage).
+ - **erkennbare Verstöße** vor Ablauf der Angebotsfrist.
+ - **in der Bekanntmachung erkennbare Verstöße** bis zum Ablauf der Angebotsfrist.
 - **Nachprüfungsantrag** § 160 GWB binnen 15 Kalendertagen nach Mitteilung der Vergabestelle dass der Ruege nicht abgeholfen wird.
 - **Beschwerde** § 171 GWB binnen zwei Wochen nach Zustellung der Vergabekammer-Entscheidung.
 - **Stillhaltefrist § 134 GWB** zehn Kalendertage (15 bei nicht-elektronischer Information) zwischen Vorinformation und Zuschlag.
@@ -343,7 +343,7 @@ Per beA / E-Mail mit Lesebestaetigung
 Vergabeverfahren [BEZEICHNUNG], TED-Nr. [NR.]
 Unsere Mandantschaft: [BIETER], [ANSCHRIFT]
 
-R U E G E  gemaess § 160 Abs. 3 GWB
+R U E G E gemaess § 160 Abs. 3 GWB
 
 Sehr geehrte Damen und Herren,
 
@@ -351,27 +351,27 @@ namens und in Vollmacht des oben genannten Bieters
 ruegen wir folgenden Vergabeverstoss:
 
 1. Sachverhalt / Verstoss:
-   [Konkrete Beschreibung, z.B.:
-   "Die Vergabeunterlagen sehen als Eignungskriterium
-   [XYZ] vor, obwohl dieses Kriterium unverhaaltnismaessig
-   und diskriminierend ist (§ 122 GWB i.V.m. § 45 VgV)."]
+ [Konkrete Beschreibung, z.B.:
+ "Die Vergabeunterlagen sehen als Eignungskriterium
+ [XYZ] vor, obwohl dieses Kriterium unverhaaltnismaessig
+ und diskriminierend ist (§ 122 GWB i.V.m. § 45 VgV)."]
 
 2. Verletzte Normen:
-   - [§ 97 Abs. 2 GWB (Gleichbehandlung)]
-   - [§ 122 GWB / § 45 VgV (Eignungskriterien)]
-   - [EU-RL 2014/24/EU Art. 58]
+ - [§ 97 Abs. 2 GWB (Gleichbehandlung)]
+ - [§ 122 GWB / § 45 VgV (Eignungskriterien)]
+ - [EU-RL 2014/24/EU Art. 58]
 
 3. Kenntnisdatum:
-   [DATUM] — [Quelle, z.B. "Vergabeunterlagen"]
-   Frist § 160 Abs. 3 GWB gewahrt.
+ [DATUM] — [Quelle, z.B. "Vergabeunterlagen"]
+ Frist § 160 Abs. 3 GWB gewahrt.
 
 4. Antrag:
-   Wir fordern Sie auf, den Vergabeverstoss
-   durch [Massnahme: Ergaenzung der Unterlagen /
-   Aufhebung Eignungskriterium] zu beseitigen.
+ Wir fordern Sie auf, den Vergabeverstoss
+ durch [Massnahme: Ergaenzung der Unterlagen /
+ Aufhebung Eignungskriterium] zu beseitigen.
 
-   Andernfalls beantragen wir umgehend Nachpruefung
-   bei der Vergabekammer [NAME VK].
+ Andernfalls beantragen wir umgehend Nachpruefung
+ bei der Vergabekammer [NAME VK].
 
 Mit freundlichen Gruessen
 [Rechtsanwalt/-anwaeltin, Fachanwalt Vergaberecht]
@@ -402,7 +402,7 @@ Mit freundlichen Gruessen
 ## Aufgabe
 Sektorenvergabe nach SektVO strukturieren oder angreifen. Schluesselfragen: Ist der Auftraggeber Sektorenauftraggeber? Greift die SektVO statt der VgV? Welcher Schwellenwert?
 
-## Kaltstart
+## Einstieg
 1. Taetigkeitsbereich: Wasser, Energie (Gas, Waerme, Elektrizitaet), Verkehr (Bus, Bahn, Hafen, Flughafen), Postdienste?
 2. Rechtsform und Eigentuemerschaft (oeffentlicher Auftraggeber, oeffentliches Unternehmen, Privatunternehmen mit besonderen oder ausschliesslichen Rechten)?
 3. Auftragswert oberhalb EUR 432000 (LD/DL) oder EUR 5404000 (Bau) ab 01.01.2026?

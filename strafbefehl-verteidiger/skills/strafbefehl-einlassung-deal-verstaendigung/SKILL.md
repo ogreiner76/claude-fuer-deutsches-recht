@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-einlassung-deal-verstaendigung
-description: "Nutze dies, wenn Strafbefehl Beweis Und Einlassung, Strafbefehl Deal Verstaendigung, Strafbefehl Einspruch Beschraenkung im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Strafbefehl Beweis Und Einlassung, Strafbefehl Deal Verstaendigung, Strafbefehl Einspruch Beschraenkung prüfen.; Erstelle eine Arbeitsfassung zu Strafbefehl Beweis Und Einlassung, Strafbefehl Deal Verstaendigung, Strafbefehl Einspruch Beschraenkung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafbefehl Beweis Und Einlassung, Strafbefehl Deal Verstaendigung, Strafbefehl Einspruch Beschraenkung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Strafbefehl Beweis Und Einlassung, Strafbefehl Deal Verstaendigung, Strafbefehl Einspruch Beschraenkung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafbefehl Beweis Und Einlassung, Strafbefehl Deal Verstaendigung, Strafbefehl Einspruch Beschraenkung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -62,17 +62,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Mandant bestreitet Tat?
 ├─ Ja, substantiiert (Alibi, Messversagen, Fahreridentitaet)
-│   ├─ Schweigen bis Hauptverhandlung empfehlen
-│   ├─ Beweisantraege vorbereiten (§ 244 StPO)
-│   └─ Einlassung in HV formulieren
+│ ├─ Schweigen bis Hauptverhandlung empfehlen
+│ ├─ Beweisantraege vorbereiten (§ 244 StPO)
+│ └─ Einlassung in HV formulieren
 ├─ Nein, Tat anerkannt, nur Strafmass angreifbar
-│   ├─ Gestaendnis-Strategie: frueh und glaubhaft (§ 46 Abs. 2 StGB)
-│   ├─ Wiedergutmachung als Milderungsgrund (§ 46a StGB)
-│   └─ § 153a-Antrag bei Staatsanwaltschaft pruefen
+│ ├─ Gestaendnis-Strategie: frueh und glaubhaft (§ 46 Abs. 2 StGB)
+│ ├─ Wiedergutmachung als Milderungsgrund (§ 46a StGB)
+│ └─ § 153a-Antrag bei Staatsanwaltschaft pruefen
 └─ Fahrereigenschaft bestreitbar
-    ├─ Lichtbildabgleich anfordern
-    ├─ Keine Aussagen zur Fahreridentifikation
-    └─ Beweisantrag auf Sachverstaendigen fuer Lichtbild-Identifikation
+ ├─ Lichtbildabgleich anfordern
+ ├─ Keine Aussagen zur Fahreridentifikation
+ └─ Beweisantrag auf Sachverstaendigen fuer Lichtbild-Identifikation
 
 Anhoerungsbogen ausgefuellt?
 ├─ Nein → gut; Schweigen weiter empfehlen bis Akteneinsicht
@@ -246,14 +246,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Mandant erkennt Tat an?
 ├─ Ja
-│   ├─ Nur Tagessatzhoehe angreifbar (Einkommen falsch)?
-│   │   └─ Beschraenkt auf Rechtsfolgen → geringeres Risiko
-│   ├─ Fahrverbot unverhältnismaessig?
-│   │   └─ Beschraenkt auf Fahrverbot
-│   └─ Strafmass insgesamt zu hoch?
-│       └─ Unbeschraenkt mit Gestaendnis-Strategie
+│ ├─ Nur Tagessatzhoehe angreifbar (Einkommen falsch)?
+│ │ └─ Beschraenkt auf Rechtsfolgen → geringeres Risiko
+│ ├─ Fahrverbot unverhältnismaessig?
+│ │ └─ Beschraenkt auf Fahrverbot
+│ └─ Strafmass insgesamt zu hoch?
+│ └─ Unbeschraenkt mit Gestaendnis-Strategie
 └─ Nein
-    └─ Unbeschraenkt — kein beschraenkter Einspruch!
+ └─ Unbeschraenkt — kein beschraenkter Einspruch!
 
 Risikopruefung vor Beschraenkung:
 - Kann Gericht in HV hoeher bestrafen? → JA, kein Verboeschungsverbot!

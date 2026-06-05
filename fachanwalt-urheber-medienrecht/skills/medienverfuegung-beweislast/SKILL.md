@@ -1,13 +1,13 @@
 ---
 name: medienverfuegung-beweislast
-description: "Nutze dies, wenn Spezial Medienverfuegung Beweislast Und Darlegungslast, Spezial Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Spezial Persoenlichkeitsrecht Vergleich Eskalation im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Medienverfuegung Beweislast Und Darlegungslast, Spezial Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Spezial Persoenlichkeitsrecht Vergleich Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Medienverfuegung Beweislast Und Darlegungslast, Spezial Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Spezial Persoenlichkeitsrecht Vergleich Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Medienverfuegung Beweislast Und Darlegungslast, Spezial Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Spezial Persoenlichkeitsrecht Vergleich Eskalation
+# Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Medienverfuegung Beweislast Und Darlegungslast, Spezial Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Spezial Persoenlichkeitsrecht Vergleich Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Medienverfuegung Beweislast Und Darlegungslast, Persoenlichkeitsrecht Medienverfuegung Und Abmahnung, Persoenlichkeitsrecht Vergleich Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Medienverfuegung Beweislast Und Darlegungslast, Spezial Persoenli
 # Medienverfuegung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Medienverfuegung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Medienverfuegung: Beweislast, Darlegungslast und Substantiierung / spezial medienverfuegung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Medienverfuegung: Beweislast, Darlegungslast und Substantiierung / medienverfuegung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,11 +72,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Persönlichkeitsrecht, Medienverfügung und Abmahnung
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `fachanwalt-urheber-medienrecht`. Kontext des Plugins: Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persoenlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-urheber-medienrecht`. Kontext des Plugins: Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persoenlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -111,7 +111,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation / spezial persoenlichkeitsrecht vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation / persoenlichkeitsrecht vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

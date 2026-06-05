@@ -1,13 +1,13 @@
 ---
 name: auslandsmandant-steuerdaten
-description: "Nutze dies, wenn Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberater Belegvernichtung Und Aufbewahrung Organisationspf, Steuerberater Berichtigungspflicht 153 Ao Kammerantwort Und Ver im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberater Belegvernichtung Und Aufbewahrung Organisationspf, Steuerberater Berichtigungspflicht 153 Ao Kammerantwort Und Ver prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberate..."
+description: "Nutze dies bei Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberater Belegvernichtung Und Aufbewahrung Organisationspf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberater Belegvernichtung Und Aufbewahrung Organisationspf, Steuerberater Berichtigungspflicht 153 Ao Kammerantwort Und Ver
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Auslandsmandant Und Steuerdaten Kammerantwort Und, Steuerberater Auslandsmandant Und Steuerdaten Organisationspfli, Steuerberater Belegvernichtung Und Aufbewahrung Kammerantwort U, Steuerberater Belegvernichtung Und Aufbewahrung Organisationspf, Steuerberater Berichtigungspflicht 153 Ao Kammerantwort Und Ver** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,21 +1,21 @@
 ---
 name: fran-rs-health-insolvenz-irrefuehrende
-description: "Nutze dies, wenn Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales prüfen.; Erstelle eine Arbeitsfassung zu Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fran-rs-health-und-pflege-franchise-mit-hwg-risiko` | Spezialskill Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
-| `fran-rs-insolvenz-eines-franchisenehmers-im-filialnetz` | Spezialskill Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenworkflow für Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
-| `fran-rs-irrefuehrende-systemwerbung-und-franchise-sales` | Spezialskill Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-health-und-pflege-franchise-mit-hwg-risiko` | Fachmodul Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-insolvenz-eines-franchisenehmers-im-filialnetz` | Fachmodul Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-irrefuehrende-systemwerbung-und-franchise-sales` | Fachmodul Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Ein
 
 ## 1. `fran-rs-health-und-pflege-franchise-mit-hwg-risiko`
 
-**Fokus:** Spezialskill Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Health- und Pflege-Franchise mit HWG-Risiko
 
@@ -70,13 +70,13 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `fran-rs-insolvenz-eines-franchisenehmers-im-filialnetz`
 
-**Fokus:** Spezialskill Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenworkflow für Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Insolvenz eines Franchisenehmers im Filialnetz
 
 ## Fachkern: Franchise: Insolvenz eines Franchisenehmers im Filialnetz
 
-- **Franchiseproblem:** Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenworkflow für Systemgeber und Verwalter gebaut.
+- **Franchiseproblem:** Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut.
 - **Rechtsrahmen:** Franchise als typengemischtes Dauerschuldverhältnis prüfen: §§ 241 Abs. 2, 280, 311, 314, 305 ff. BGB; § 89b HGB analog nur fallbezogen; MarkenG/GeschGehG; Art. 101 AEUV, GWB und Vertikal-GVO 2022/720 bei Systembindungen.
 - **Entscheidende Weiche:** Systemschutz, wirtschaftliche Abhängigkeit, vorvertragliche Aufklärung, laufende Unterstützung, Daten-/Markenzugriff und Exit-Folgen getrennt bewerten.
 - **Arbeitsprodukt:** Franchise-Memo mit Anspruch/Abwehr, Belegmatrix, Risikopunkten, Verhandlungszug und Textbaustein für Abmahnung, Kündigung, EV oder Vergleich.
@@ -91,7 +91,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## Fachlicher Fokus
 
-Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenworkflow für Systemgeber und Verwalter gebaut.
+Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenfür Systemgeber und Verwalter gebaut.
 
 ## Norm- und Rechtsprechungsanker
 
@@ -114,7 +114,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `fran-rs-irrefuehrende-systemwerbung-und-franchise-sales`
 
-**Fokus:** Spezialskill Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Irreführende Systemwerbung und Franchise Sales
 

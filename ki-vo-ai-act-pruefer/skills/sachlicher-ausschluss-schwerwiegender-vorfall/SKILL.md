@@ -1,13 +1,13 @@
 ---
 name: sachlicher-ausschluss-schwerwiegender-vorfall
-description: "Nutze dies, wenn Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Spezial Mechanik Erstpruefung Und Mandatsziel im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Spezial Mechanik Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Spezial Mechanik Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Mechanik Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Spezial Mechanik Erstpruefung Und Mandatsziel
+# Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Mechanik Erstpruefung Und Mandatsziel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Mechanik Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Spezial Mechanik Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Mechanik Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-vo-ai-act-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -90,7 +90,7 @@ Für KI-Systeme, deren Parameter einschließlich der Modellgewichte, der Archite
 
 ## Ergebnis und Routing
 
-- **Ausnahme eindeutig gegeben:** KI-VO nicht anwendbar; Workflow endet. Hinweis auf möglicherweise anwendbares anderes Recht.
+- **Ausnahme eindeutig gegeben:** KI-VO nicht anwendbar; endet. Hinweis auf möglicherweise anwendbares anderes Recht.
 - **Ausnahme fraglich (z.B. Dual-Use, Forschung mit echten Nutzern):** Weiter mit Vorbehalt; Hinweis auf Klärungsbedarf; ggf. `mandatsabbruch-empfehlung-komplexe-faelle`
 - **Keine Ausnahme:** Weiter zu `persoenlicher-anwendungsbereich-rollen-art-3`
 
@@ -130,7 +130,7 @@ Gepruefte Norm(en): [Art. 2 Abs. 3 Rn. 8]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -227,7 +227,7 @@ Wenn die Fachabteilung sagt: "Das Tool entscheidet nicht, es empfiehlt nur", tro
 # Mechanik: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Mechanik: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Mechanik: Erstprüfung, Rollenklärung und Mandatsziel / spezial mechanik erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mechanik: Erstprüfung, Rollenklärung und Mandatsziel / mechanik erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** KI, VO, EU, GPAI, Art. 43, CE, DB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

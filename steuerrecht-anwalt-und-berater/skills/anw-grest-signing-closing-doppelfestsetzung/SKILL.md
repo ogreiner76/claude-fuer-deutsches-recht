@@ -1,6 +1,6 @@
 ---
 name: anw-grest-signing-closing-doppelfestsetzung
-description: "GrESt Signing/Closing Spezialskill: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung."
+description: "GrESt Signing/Closing Fachmodul: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung."
 ---
 
 # GrESt: Signing, Closing und Doppelfestsetzung

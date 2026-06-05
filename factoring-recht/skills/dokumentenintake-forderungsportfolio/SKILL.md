@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-forderungsportfolio
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Dokumentenintake Forderungsportfolio."
+description: "Nutze dies für Unterlagen zu Dokumentenintake Forderungsportfolio: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake Forderungsportfolio
@@ -43,7 +43,7 @@ Fragen zum Einstieg:
 - **AO §§ 145, 147**: Steuerliche Aufzeichnungs- und Aufbewahrungspflichten.
 - **BSI IT-Grundschutz**: für sichere Intake-Pipelines (kein zwingendes Recht, aber Stand der Technik).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Schnittstellen definieren**: ERP-Export, CSV-Schema, API-Endpoint mit Authentifizierung.
 2. **Pflichtfelder festlegen**: Forderungs-ID, Debitor-ID, Rechnungsnummer, Rechnungsdatum, Fälligkeit, Betrag (netto/brutto/USt), Leistungszeitraum, Auftragsnummer.
@@ -86,7 +86,7 @@ F-2026-001;D-12345;R-2026-0089;2026-05-15;2026-06-15;10000,00;1900,00;11900,00;2
 
 **Eingangsquittung an Kunden (automatisiert)**
 
-"Sehr geehrte Damen und Herren, wir bestätigen den Eingang Ihrer Forderungsmeldung vom … mit folgenden Kennzahlen: Eingangsdatum/Uhrzeit, Anzahl Forderungen … , Gesamtvolumen … EUR, Hash-Wert SHA-256 … . Plausibilitätsprüfung läuft, Sie erhalten innerhalb von zwei Werktagen Rückmeldung. Forderungen, die Plausibilitätskriterien nicht erfüllen, werden separat ausgewiesen."
+"Sehr geehrte Damen und Herren, wir bestätigen den Eingang Ihrer Forderungsmeldung vom … mit folgenden Kennzahlen: Eingangsdatum/Uhrzeit, Anzahl Forderungen …, Gesamtvolumen … EUR, Hash-Wert SHA-256 … . Plausibilitätsprüfung läuft, Sie erhalten innerhalb von zwei Werktagen Rückmeldung. Forderungen, die Plausibilitätskriterien nicht erfüllen, werden separat ausgewiesen."
 
 ## Typische Fehler
 

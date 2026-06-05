@@ -1,13 +1,13 @@
 ---
 name: grobe-online-phishing
-description: "Nutze dies, wenn Spezial Grobe Formular Portal Und Einreichung, Spezial Online Risikoampel Und Gegenargumente, Spezial Phishing Tatbestand Beweis Und Belege im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Spezial Grobe Formular Portal Und Einreichung, Spezial Online Risikoampel Und Gegenargumente, Spezial Phishing Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Grobe Formular Portal Und Einreichung, Spezial Online Risikoampel Und Gegenargumente, Spezial Phishing Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grobe Formular Portal Und Einreichung, Online Risikoampel Und Gegenargumente, Phishing Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Grobe Formular Portal Und Einreichung, Spezial Online Risikoampel Und Gegenargumente, Spezial Phishing Tatbestand Beweis Und Belege
+# Grobe Formular Portal Und Einreichung, Online Risikoampel Und Gegenargumente, Phishing Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grobe Formular Portal Und Einreichung, Online Risikoampel Und Gegenargumente, Phishing Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Grobe Formular Portal Und Einreichung, Spezial Online Risikoampel Und Gegenargumente, Spezial Phishing Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grobe Formular Portal Und Einreichung, Online Risikoampel Und Gegenargumente, Phishing Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Grobe Formular Portal Und Einreichung, Spezial Online Risikoampel
 # Grobe: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Grobe: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Grobe: Formular, Portal und Einreichungslogik / spezial grobe formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Grobe: Formular, Portal und Einreichungslogik / grobe formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -57,10 +57,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Definition grobe Fahrlässigkeit:** Verletzung der im Verkehr erforderlichen Sorgfalt in besonders schwerem Maße, naheliegende Überlegungen werden nicht angestellt.
 - **Beweislast:** Bank (§ 675w S. 4 BGB), die Behauptung allein genügt nicht.
 - **Typische "grobe Fahrlässigkeit"-Argumente der Bank — und Gegenargumente:**
-  - "Kunde klickte auf Link in Phishing-Mail" — laut BGH XI ZR 91/14 (26.01.2016) reicht das *nicht*, sofern Mail täuschend echt war.
-  - "Kunde gab PIN/TAN über Anruf weiter" — kommt auf Vortäuschungsqualität an; Call-ID-Spoofing kann nicht-grob fahrlässig sein.
-  - "Kunde gab mehrere TANs" — könnte grobe Fahrlässigkeit nahelegen, wenn typische Bankhinweise ignoriert wurden.
-  - "Kunde hat AGB-Warnhinweise ignoriert" — nur, wenn diese verständlich, prominent und konkret waren.
+ - "Kunde klickte auf Link in Phishing-Mail" — laut BGH XI ZR 91/14 (26.01.2016) reicht das *nicht*, sofern Mail täuschend echt war.
+ - "Kunde gab PIN/TAN über Anruf weiter" — kommt auf Vortäuschungsqualität an; Call-ID-Spoofing kann nicht-grob fahrlässig sein.
+ - "Kunde gab mehrere TANs" — könnte grobe Fahrlässigkeit nahelegen, wenn typische Bankhinweise ignoriert wurden.
+ - "Kunde hat AGB-Warnhinweise ignoriert" — nur, wenn diese verständlich, prominent und konkret waren.
 
 ## Bank-Formularwege Reklamation
 - **Bankenformulare**: oft "Reklamation nicht autorisierte Zahlung" oder "Schadensanzeige"; alle Banken haben eigene Formulare/Online-Portale.
@@ -89,7 +89,7 @@ Bei "grobe Fahrlässigkeit"-Streit auf Bankspezifika der Nutzerführung achten: 
 # Online: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Online: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Online: Risikoampel, Gegenargumente und Verteidigungslinien / spezial online risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Online: Risikoampel, Gegenargumente und Verteidigungslinien / online risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,18 +113,18 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Risikoampel Online-Banking Phishing
 - **Rot (Mandantengefahr):**
-  - 13-Monats-Frist § 676b Abs. 2 BGB läuft ab.
-  - Bank hat Erstattung verweigert ohne Beweis für Autorisierung.
-  - Großer Schaden (> 10.000 EUR), keine Beweissicherung erfolgt.
-  - Strafanzeige fehlt — spätere Strafverfolgung erschwert.
+ - 13-Monats-Frist § 676b Abs. 2 BGB läuft ab.
+ - Bank hat Erstattung verweigert ohne Beweis für Autorisierung.
+ - Großer Schaden (> 10.000 EUR), keine Beweissicherung erfolgt.
+ - Strafanzeige fehlt — spätere Strafverfolgung erschwert.
 - **Gelb:**
-  - Mitverschulden des Kunden möglich (mehrere TANs freigegeben, AGB-Warnhinweise sichtbar).
-  - Beweissicherung lückenhaft (kein E-Mail-Header, keine Screenshots).
-  - Schlichtungsweg noch nicht ausgeschöpft.
+ - Mitverschulden des Kunden möglich (mehrere TANs freigegeben, AGB-Warnhinweise sichtbar).
+ - Beweissicherung lückenhaft (kein E-Mail-Header, keine Screenshots).
+ - Schlichtungsweg noch nicht ausgeschöpft.
 - **Grün:**
-  - Anzeige bei Bank rechtzeitig + Strafanzeige bei Polizei mit Az.
-  - Beweise gesichert (Mail-Header, Banking-Logs, Konto-Auszug).
-  - Schlichtung läuft mit klarer Sachlage zugunsten Kunde.
+ - Anzeige bei Bank rechtzeitig + Strafanzeige bei Polizei mit Az.
+ - Beweise gesichert (Mail-Header, Banking-Logs, Konto-Auszug).
+ - Schlichtung läuft mit klarer Sachlage zugunsten Kunde.
 
 ## Gegenargumente Bank
 1. **"Kunde war grob fahrlässig":** Beweislast Bank (§ 675w S. 4 BGB); BGH XI ZR 91/14 (26.01.2016) verlangt sorgfältige Einzelfallprüfung.
@@ -156,7 +156,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial phishing tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage / phishing tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -180,13 +180,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Phishing — Tatbestände und Beweisfragen
 - **Zivilrechtlich §§ 675u, 675v BGB:** Nicht autorisierter Zahlungsvorgang vs. autorisierter unter Täuschung.
-  - **Beweislast Bank:** Authentifizierung, ordnungsgemäße Aufzeichnung, korrekte Buchung (§ 675w BGB).
-  - **Beweislast Kunde:** keine — Bank trägt; Kunde muss nur Nichtautorisierung anzeigen.
-  - **Grobe Fahrlässigkeit § 675v Abs. 3:** Beweislast Bank.
+ - **Beweislast Bank:** Authentifizierung, ordnungsgemäße Aufzeichnung, korrekte Buchung (§ 675w BGB).
+ - **Beweislast Kunde:** keine — Bank trägt; Kunde muss nur Nichtautorisierung anzeigen.
+ - **Grobe Fahrlässigkeit § 675v Abs. 3:** Beweislast Bank.
 - **Strafrechtlich:**
-  - **§ 263a StGB Computerbetrug:** unbefugte Verwendung von Daten, Vermögensschaden.
-  - **§ 269 StGB:** Fälschung beweiserheblicher Daten.
-  - **§ 202a/202b/202c StGB:** Ausspähen, Abfangen, Vorbereiten.
+ - **§ 263a StGB Computerbetrug:** unbefugte Verwendung von Daten, Vermögensschaden.
+ - **§ 269 StGB:** Fälschung beweiserheblicher Daten.
+ - **§ 202a/202b/202c StGB:** Ausspähen, Abfangen, Vorbereiten.
 - **Belege:** E-Mail-Header (DKIM, SPF, Return-Path, Received-Chain), IP-Logs, Banking-Session-Log, Screenshot des Anmeldeprozesses, ggf. App-Log.
 
 ## Beweissicherung Tag 1

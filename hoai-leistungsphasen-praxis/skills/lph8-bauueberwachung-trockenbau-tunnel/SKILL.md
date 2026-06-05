@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-trockenbau-tunnel
-description: "Nutze dies, wenn Lph8 Bauueberwachung Trockenbau F30 F90, Lph8 Bauueberwachung Tunnel Spritzbeton Vortrieb, Lph8 Bauueberwachung Videoanalyse Tagesbaustelle, Lph8 Bauueberwachung Vob C Din Checklisten, Lph8 Bauueberwachung Wasserwerk Rohrleitung im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Lph8 Bauueberwachung Trockenbau F30 F90, Lph8 Bauueberwachung Tunnel Spritzbeton Vortrieb, Lph8 Bauueberwachung Videoanalyse Tagesbaustelle, Lph8 Bauueberwachung Vob C Din Checklisten, Lph8 Bauueberwachung Wasserwerk Rohrleitung prüfen.; Erstelle eine Arbeitsfassung zu Lph8 Bauueberwachung Trockenbau F30 F90, Lph8 Bauueberwachung Tunnel Spritzbeton Vortrieb, Lph8 Bauueberwachung Videoanalyse Tagesbaustelle, Lph8 Bauueberwachung Vob C Din Checklisten, Lph8 Bauueberwachung Wasserwerk Rohrleitung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lph8 Bauueberwachung Trockenbau F30 F90, Lph8 Bauueberwachung Tunnel Spritzbeton Vortrieb, Lph8 Bauueberwachung Videoanalyse Tagesbaustelle, Lph8 Bauueberwachung Vob C Din Checklisten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lph8 Bauueberwachung Trockenbau F30 F90, Lph8 Bauueberwachung Tunnel Spritzbeton Vortrieb, Lph8 Bauueberwachung Videoanalyse Tagesbaustelle, Lph8 Bauueberwachung Vob C Din Checklisten, Lph8 Bauueberwachung Wasserwerk Rohrleitung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lph8 Bauueberwachung Trockenbau F30 F90, Lph8 Bauueberwachung Tunnel Spritzbeton Vortrieb, Lph8 Bauueberwachung Videoanalyse Tagesbaustelle, Lph8 Bauueberwachung Vob C Din Checklisten, Lph8 Bauueberwachung Wasserwerk Rohrleitung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `lph8-bauueberwachung-trockenbau-f30-f90` | Bauueberwachung HOAI LPH 8 fuer Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle fuer Brandschutzsachverstaendige und Baubehoerde. |
 | `lph8-bauueberwachung-tunnel-spritzbeton-vortrieb` | Bauueberwachung nach HOAI LPH 8 fuer Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO fuer Bahninfrastrukturbetreiber. |
-| `lph8-bauueberwachung-videoanalyse-tagesbaustelle` | Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung. |
+| `lph8-bauueberwachung-videoanalyse-tagesbaustelle` | Methodikskill HOAI LPH 8 — Strukturierter fuer die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung. |
 | `lph8-bauueberwachung-vob-c-din-checklisten` | Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten fuer die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten fuer Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte fuer mobile Nutzung auf der Baustelle. |
 | `lph8-bauueberwachung-wasserwerk-rohrleitung` | Bauueberwachung HOAI LPH 8 fuer Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen fuer Wasserversorger mit GIS-As-Built-Abgabe. |
 
@@ -192,11 +192,11 @@ Bewetterungs-Messprotokoll CO/NOx. Abnahmeprotokoll Tunnel nach VOB/B und ZTV-IN
 
 ## 3. `lph8-bauueberwachung-videoanalyse-tagesbaustelle`
 
-**Fokus:** Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung.
+**Fokus:** Methodikskill HOAI LPH 8 — Strukturierter fuer die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung.
 
 # Videoanalyse Tagesbaustelle in der Bauueberwachung LPH 8
 
-Die systematische Videodokumentation der Tagesbaustelle ergaenzt die klassische Bautagesbuch-Dokumentation um kontinuierliche Visuelle Beweise: Zeitraffervideos belegen Arbeitsfortschritt, Maschineneinsatz und Wetterbedingungen lueckenlos. Bei Nachtragsstreit oder Behinderungsanzeigen sind Videoaufnahmen der wichtigste Beweis. Dieser Skill beschreibt den vollstaendigen Videoanalyse-Workflow fuer die LPH 8 Bauueberwachung.
+Die systematische Videodokumentation der Tagesbaustelle ergaenzt die klassische Bautagesbuch-Dokumentation um kontinuierliche Visuelle Beweise: Zeitraffervideos belegen Arbeitsfortschritt, Maschineneinsatz und Wetterbedingungen lueckenlos. Bei Nachtragsstreit oder Behinderungsanzeigen sind Videoaufnahmen der wichtigste Beweis. Dieser Skill beschreibt den vollstaendigen Videoanalyse-fuer die LPH 8 Bauueberwachung.
 
 ## Bauwerk und Auftrag
 
@@ -293,7 +293,7 @@ VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsing
 2. Pruefpunkte ableiten: Aus Normentext Abschnitt Ausfuehrung und Abnahme Pruefanweisungen ableiten, 5-8 Pruefpunkte je Gewerk, Reihenfolge logisch nach Bauablauf
 3. Checklisten-Digital Dalux: Vorlage erstellen Dalux Field, Pruefpunkte mit Eingabetype Checkbox, Text, Foto-Pflicht, Messwert, Auswahlliste, QR-Code-Generierung je Punkt
 4. QR-Code-Planung auf Baustelle: Je Pruefpunkt oder Bauteil QR-Code-Aufkleber, Scan mit Mobilgeraet oeffnet Dalux-Formular automatisch
-5. Workflow Erstpruefung und Nachpruefung: Pruefung durch Bauueberwacher, Mangel-Pin bei Nicht-Bestehen, AN-Benachrichtigung, Massnahme, Nachpruefung Bestehen oder Eskalation
+5. Erstpruefung und Nachpruefung: Pruefung durch Bauueberwacher, Mangel-Pin bei Nicht-Bestehen, AN-Benachrichtigung, Massnahme, Nachpruefung Bestehen oder Eskalation
 6. SAP PM Integration: Checklisten-Ergebnis automatisch SAP PM Meldung M3 Aktivitaetenmeldung bei abgeschlossener Pruefung, M2 bei Mangel
 
 ## Normen und Rechtsrahmen

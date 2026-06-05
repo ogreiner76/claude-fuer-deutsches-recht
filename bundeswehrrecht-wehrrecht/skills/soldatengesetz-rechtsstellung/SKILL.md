@@ -1,13 +1,13 @@
 ---
 name: soldatengesetz-rechtsstellung
-description: "Nutze dies, wenn Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz Beschaedigtenversorgung, Status Soldat Beamter Zivilbeschaeftigter Klaeren im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz Beschaedigtenversorgung, Status Soldat Beamter Zivilbeschaeftigter Klaeren prüfen.; Erstelle eine Arbeitsfassung zu Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz Beschaedigtenversorgung, Status Soldat Beamter Zivilbeschaeftigter Klaeren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz Beschaedigtenversorgung, Status Soldat Beamter Zivilbeschaeftigter Klaeren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz Beschaedigtenversorgung, Status Soldat Beamter Zivilbeschaeftigter Klaeren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Soldatengesetz Rechtsstellung Grundpflichten, Soldatenversorgungsgesetz Beschaedigtenversorgung, Status Soldat Beamter Zivilbeschaeftigter Klaeren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `soldatengesetz-rechtsstellung-grundpflichten` | Soldatengesetz Rechtsstellung Grundpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `soldatenversorgungsgesetz-beschaedigtenversorgung` | Soldatenversorgungsgesetz Beschädigtenversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
-| `status-soldat-beamter-zivilbeschaeftigter-klaeren` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären. |
+| `status-soldat-beamter-zivilbeschaeftigter-klaeren` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären. |
 
 ## Arbeitsweg
 
@@ -64,7 +64,7 @@ Das Soldatengesetz (SG) regelt das öffentlich-rechtliche Dienst- und Treueverh�
 - § 17a SG: Gesundes Erscheinungsbild, Uniform.
 - Rechtsschutz: WBO (Beschwerde, weitere Beschwerde, Antrag auf gerichtliche Entscheidung), WDO (Disziplinarverfahren).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Status klären.** Berufssoldat oder SaZ? Datum der Ernennung, Dienstzeitende, Dienstgrad, Truppenteil, Disziplinarvorgesetzter.
 2. **Pflichtenkollision identifizieren.** Welche Norm aus §§ 7–17a SG ist tangiert? Gegebenenfalls mehrere parallel (Mäßigung § 15 + Achtungswürdigkeit § 17).
@@ -163,7 +163,7 @@ Das SVG regelt Versorgung wegen Wehrdienstbeschädigung (WDB), Hinterbliebenenve
 - § 4 SGB IX: Teilhabeleistungen.
 - Beweismaß: Vollbeweis der Schädigung, Wahrscheinlichkeitsmaß der Kausalität (§ 81 VI SVG).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Schädigung dokumentieren.** Diagnose, ärztliche Berichte, ggf. AU-Bescheinigung, Klinikentlassungsberichte, MRT/CT-Befunde.
 2. **Kausalkette aufbauen.** Welche Wehrdienstverrichtung (Übung, Einsatz, dienstliche Tätigkeit) war ursächlich? Zeugen, Befehle, Einsatzberichte beibringen.
@@ -226,7 +226,7 @@ Das SVG regelt Versorgung wegen Wehrdienstbeschädigung (WDB), Hinterbliebenenve
 
 ## 3. `status-soldat-beamter-zivilbeschaeftigter-klaeren`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären.
 
 # Status klären: Soldat, Beamter oder Zivilbeschäftigter
 
@@ -260,14 +260,14 @@ Innerhalb der Bundeswehr arbeiten drei Statusgruppen mit unterschiedlichen Recht
 - § 17 SG, § 7 SG: Soldatische Treuepflicht – gilt nur für Soldaten.
 - Truppendienstgericht (WDO/WBO) vs. Verwaltungsgericht (VwGO) vs. Arbeitsgericht (ArbGG) – Rechtsweg je nach Status.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Status feststellen.** Ernennungs- oder Einstellungsurkunde, Arbeitsvertrag, Personalausweis (Truppenausweis vs. Dienstausweis).
 2. **Reservistenstatus prüfen.** Beamte/Tarifbeschäftigte können gleichzeitig Reservisten sein (UWBO, WPflG, Reservistendienst). Bei Heranziehung gilt SG zeitweise neben Beamten-/Tarifrecht.
 3. **Rechtsweg zuordnen.**
-   - Soldat: WBO/WDO + Truppendienstgericht + BVerwG.
-   - Beamter Bundeswehrverwaltung: BDG/BBG + Verwaltungsgericht.
-   - Tarifbeschäftigter: TVöD + Arbeitsgericht.
+ - Soldat: WBO/WDO + Truppendienstgericht + BVerwG.
+ - Beamter Bundeswehrverwaltung: BDG/BBG + Verwaltungsgericht.
+ - Tarifbeschäftigter: TVöD + Arbeitsgericht.
 4. **Mitbestimmung.** Soldat: SBG-Vertrauensperson. Beamter/Beschäftigter: BPersVG-Personalrat. Mischverhältnisse beachten.
 5. **Versorgungsregime.** Soldat: SVG, BeamtVG (Versorgungslückenausgleich). Beamter: BeamtVG. Beschäftigter: gesetzliche Rente + ZVK.
 6. **Disziplinarregime.** Soldat: WDO (Verweis bis Entfernung aus dem Dienstverhältnis). Beamter: BDG (Verweis bis Entfernung). Beschäftigter: Arbeitsrecht (Abmahnung, Kündigung).

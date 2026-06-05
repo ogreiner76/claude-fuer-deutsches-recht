@@ -1,13 +1,13 @@
 ---
 name: kostenrisiko-streitwert-ladung-termin
-description: "Nutze dies, wenn Kostenrisiko Streitwert Berechnen Gkg, Ladung Termin 216 Zpo, Muendliche Verhandlung Akten Griffbereit im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Kostenrisiko Streitwert Berechnen Gkg, Ladung Termin 216 Zpo, Muendliche Verhandlung Akten Griffbereit prüfen.; Erstelle eine Arbeitsfassung zu Kostenrisiko Streitwert Berechnen Gkg, Ladung Termin 216 Zpo, Muendliche Verhandlung Akten Griffbereit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kostenrisiko Streitwert Berechnen Gkg, Ladung Termin 216 Zpo, Muendliche Verhandlung Akten Griffbereit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kostenrisiko Streitwert Berechnen Gkg, Ladung Termin 216 Zpo, Muendliche Verhandlung Akten Griffbereit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kostenrisiko Streitwert Berechnen Gkg, Ladung Termin 216 Zpo, Muendliche Verhandlung Akten Griffbereit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -324,13 +324,13 @@ Termin-Stichwort-Liste
 1. Anspruch: 1.250 EUR aus Kaufvertrag vom 12.03.2025
 2. Kernpunkt: Beklagter hat die Lieferung verweigert.
 3. Beweise:
-   - K1 = Vertrag (S. 2 Klausel III)
-   - K2 = Rechnung (saldiert 1.250 EUR)
-   - K3 = E-Mail Beklagter 20.04.2025 ("kann nicht zahlen")
-   - K4 = Mahnung 02.05.2025
+ - K1 = Vertrag (S. 2 Klausel III)
+ - K2 = Rechnung (saldiert 1.250 EUR)
+ - K3 = E-Mail Beklagter 20.04.2025 ("kann nicht zahlen")
+ - K4 = Mahnung 02.05.2025
 4. Gegen-Argumente Beklagter:
-   - sagt: Vertrag war nichtig wegen Wuchers
-   - meine Antwort: marktueblicher Preis (siehe K5 = Vergleichs-Angebote)
+ - sagt: Vertrag war nichtig wegen Wuchers
+ - meine Antwort: marktueblicher Preis (siehe K5 = Vergleichs-Angebote)
 5. Vergleichs-Bereitschaft: ja, ab 900 EUR
 6. Zeugen vorhanden: Zeuge Mueller zu Anruf vom 18.04.2025
 ```
@@ -339,11 +339,11 @@ Termin-Stichwort-Liste
 
 Auf einem weiteren Blatt machen Sie eine **Tabelle** mit den Streit-Punkten:
 
-| Punkt aus Klageerwiderung           | Meine Antwort / Replik           | Beweis        |
+| Punkt aus Klageerwiderung | Meine Antwort / Replik | Beweis |
 |-------------------------------------|----------------------------------|---------------|
-| Vertrag war nichtig wegen Wuchers   | Preis war marktueblich           | K5            |
-| Lieferung war mangelhaft            | War zur Zeit der Uebergabe ok    | K1 Klausel V  |
-| Mahnung kam zu spaet                | Frist eingehalten — 14 Tage      | K4 Datum      |
+| Vertrag war nichtig wegen Wuchers | Preis war marktueblich | K5 |
+| Lieferung war mangelhaft | War zur Zeit der Uebergabe ok | K1 Klausel V |
+| Mahnung kam zu spaet | Frist eingehalten — 14 Tage | K4 Datum |
 
 Diese Tabelle hilft Ihnen, im Termin **keinen Punkt zu vergessen**.
 

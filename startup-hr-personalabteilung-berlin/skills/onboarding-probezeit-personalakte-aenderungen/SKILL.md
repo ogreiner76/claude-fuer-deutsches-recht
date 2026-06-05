@@ -1,23 +1,23 @@
 ---
 name: onboarding-probezeit-personalakte-aenderungen
-description: "Nutze dies, wenn Onboarding Probezeit Plan, Personalakte Aenderungen Versionierung, Personalakte Auskunftsanspruch Dsgvo, Personalakte Neuer Mitarbeiter Onboarding, Personalakten Struktur Und Zugriff im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Onboarding Probezeit Plan, Personalakte Aenderungen Versionierung, Personalakte Auskunftsanspruch Dsgvo, Personalakte Neuer Mitarbeiter Onboarding, Personalakten Struktur Und Zugriff prüfen.; Erstelle eine Arbeitsfassung zu Onboarding Probezeit Plan, Personalakte Aenderungen Versionierung, Personalakte Auskunftsanspruch Dsgvo, Personalakte Neuer Mitarbeiter Onboarding, Personalakten Struktur Und Zugriff.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Onboarding Probezeit Plan, Personalakte Aenderungen Versionierung, Personalakte Auskunftsanspruch Dsgvo, Personalakte Neuer Mitarbeiter Onboarding: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Onboarding Probezeit Plan, Personalakte Aenderungen Versionierung, Personalakte Auskunftsanspruch Dsgvo, Personalakte Neuer Mitarbeiter Onboarding, Personalakten Struktur Und Zugriff
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Onboarding Probezeit Plan, Personalakte Aenderungen Versionierung, Personalakte Auskunftsanspruch Dsgvo, Personalakte Neuer Mitarbeiter Onboarding, Personalakten Struktur Und Zugriff** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `onboarding-probezeit-plan` | Berliner Start-up-HR: Probezeitplan: Ziele, Feedbacktermine, Warnsignale, Dokumentation und rechtzeitige Entscheidung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `personalakte-aenderungen-versionierung` | Berliner Start-up-HR: Änderungen an Personalakten versionieren: wer hat was wann geändert, warum und mit welcher Rechtsgrundlage. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `personalakte-auskunftsanspruch-dsgvo` | Berliner Start-up-HR: DSGVO-Auskunft aus Personalakten: Scope, Schutz Dritter, interne Notizen, Schwärzung, Frist und Antwortpaket. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `personalakte-neuer-mitarbeiter-onboarding` | Berliner Start-up-HR: Neue Personalakte beim Onboarding: Vertrag, Stammdaten, Nachweise, Einwilligungen, Equipment, Payroll und Fristen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `personalakten-struktur-und-zugriff` | Berliner Start-up-HR: Personalaktenstruktur mit Rollenrechten, Ablageplan, Audit-Trail, Trennung sensibler Daten und Löschlogik. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `onboarding-probezeit-plan` | Berliner Start-up-HR: Probezeitplan: Ziele, Feedbacktermine, Warnsignale, Dokumentation und rechtzeitige Entscheidung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `personalakte-aenderungen-versionierung` | Berliner Start-up-HR: Änderungen an Personalakten versionieren: wer hat was wann geändert, warum und mit welcher Rechtsgrundlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `personalakte-auskunftsanspruch-dsgvo` | Berliner Start-up-HR: DSGVO-Auskunft aus Personalakten: Scope, Schutz Dritter, interne Notizen, Schwärzung, Frist und Antwortpaket. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `personalakte-neuer-mitarbeiter-onboarding` | Berliner Start-up-HR: Neue Personalakte beim Onboarding: Vertrag, Stammdaten, Nachweise, Einwilligungen, Equipment, Payroll und Fristen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `personalakten-struktur-und-zugriff` | Berliner Start-up-HR: Personalaktenstruktur mit Rollenrechten, Ablageplan, Audit-Trail, Trennung sensibler Daten und Löschlogik. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Onboarding Probezeit Plan, Personalakte Aenderungen Versionierung, Person
 
 ## 1. `onboarding-probezeit-plan`
 
-**Fokus:** Berliner Start-up-HR: Probezeitplan: Ziele, Feedbacktermine, Warnsignale, Dokumentation und rechtzeitige Entscheidung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Probezeitplan: Ziele, Feedbacktermine, Warnsignale, Dokumentation und rechtzeitige Entscheidung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Onboarding Probezeit Plan
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Onboarding
 **Fokus:** Probezeitplan: Ziele, Feedbacktermine, Warnsignale, Dokumentation und rechtzeitige Entscheidung.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `personalakte-aenderungen-versionierung`
 
-**Fokus:** Berliner Start-up-HR: Änderungen an Personalakten versionieren: wer hat was wann geändert, warum und mit welcher Rechtsgrundlage. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Änderungen an Personalakten versionieren: wer hat was wann geändert, warum und mit welcher Rechtsgrundlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Personalakte Aenderungen Versionierung
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Personalakte
 **Fokus:** Änderungen an Personalakten versionieren: wer hat was wann geändert, warum und mit welcher Rechtsgrundlage.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `personalakte-auskunftsanspruch-dsgvo`
 
-**Fokus:** Berliner Start-up-HR: DSGVO-Auskunft aus Personalakten: Scope, Schutz Dritter, interne Notizen, Schwärzung, Frist und Antwortpaket. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: DSGVO-Auskunft aus Personalakten: Scope, Schutz Dritter, interne Notizen, Schwärzung, Frist und Antwortpaket. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Personalakte Auskunftsanspruch DSGVO
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Personalakte
 **Fokus:** DSGVO-Auskunft aus Personalakten: Scope, Schutz Dritter, interne Notizen, Schwärzung, Frist und Antwortpaket.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `personalakte-neuer-mitarbeiter-onboarding`
 
-**Fokus:** Berliner Start-up-HR: Neue Personalakte beim Onboarding: Vertrag, Stammdaten, Nachweise, Einwilligungen, Equipment, Payroll und Fristen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Neue Personalakte beim Onboarding: Vertrag, Stammdaten, Nachweise, Einwilligungen, Equipment, Payroll und Fristen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Personalakte Neuer Mitarbeiter Onboarding
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Personalakte
 **Fokus:** Neue Personalakte beim Onboarding: Vertrag, Stammdaten, Nachweise, Einwilligungen, Equipment, Payroll und Fristen.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `personalakten-struktur-und-zugriff`
 
-**Fokus:** Berliner Start-up-HR: Personalaktenstruktur mit Rollenrechten, Ablageplan, Audit-Trail, Trennung sensibler Daten und Löschlogik. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Personalaktenstruktur mit Rollenrechten, Ablageplan, Audit-Trail, Trennung sensibler Daten und Löschlogik. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Personalakten Struktur Und Zugriff
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Personalakte
 **Fokus:** Personalaktenstruktur mit Rollenrechten, Ablageplan, Audit-Trail, Trennung sensibler Daten und Löschlogik.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

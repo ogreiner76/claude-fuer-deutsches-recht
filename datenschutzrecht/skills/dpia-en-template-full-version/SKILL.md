@@ -19,10 +19,10 @@ Complete English-language Data Protection Impact Assessment template aligned wit
 ## Legal framework
 
 - Art. 35(7) GDPR minimum content of a DPIA:
-  - lit. a systematic description of processing operations and purposes
-  - lit. b assessment of necessity and proportionality
-  - lit. c assessment of risk to rights and freedoms of data subjects
-  - lit. d measures envisaged to address the risk, including safeguards, security measures and mechanisms
+ - lit. a systematic description of processing operations and purposes
+ - lit. b assessment of necessity and proportionality
+ - lit. c assessment of risk to rights and freedoms of data subjects
+ - lit. d measures envisaged to address the risk, including safeguards, security measures and mechanisms
 - Art. 35(2) GDPR DPO consultation
 - Art. 35(9) GDPR consultation of data subjects or their representatives where appropriate
 - Art. 5(2) GDPR accountability
@@ -65,7 +65,7 @@ Overall risk after measures: [HIGH / MEDIUM / LOW]
 Approval recommendation: [Approved / Prior consultation Art. 36 / Not approved]
 
 1. DESCRIPTION OF PROCESSING
-   (Art. 35(7)(a) GDPR)
+ (Art. 35(7)(a) GDPR)
 1.1 Purpose and nature of processing
 [...]
 1.2 Categories of personal data
@@ -88,7 +88,7 @@ Approval recommendation: [Approved / Prior consultation Art. 36 / Not approved]
 [Diagram reference or short narrative]
 
 2. NECESSITY AND PROPORTIONALITY ASSESSMENT
-   (Art. 35(7)(b) GDPR)
+ (Art. 35(7)(b) GDPR)
 2.1 Necessity of processing for purpose
 [Suitable, necessary, no less intrusive means]
 2.2 Data minimisation Art. 5(1)(c) GDPR
@@ -105,24 +105,24 @@ Approval recommendation: [Approved / Prior consultation Art. 36 / Not approved]
 [...]
 
 3. RISK TO DATA SUBJECTS
-   (Art. 35(7)(c) GDPR)
+ (Art. 35(7)(c) GDPR)
 3.1 Risk matrix before measures
-| No | Scenario                          | Likelihood | Severity | Risk |
+| No | Scenario | Likelihood | Severity | Risk |
 |----|-----------------------------------|------------|----------|------|
-| 1  | Unauthorised access (confid.)     | [h/m/l]    | [h/m/l]  | [R/O/Y/G] |
-| 2  | Data leakage to outside           |            |          |      |
-| 3  | Covert profiling                  |            |          |      |
-| 4  | Data loss / availability          |            |          |      |
-| 5  | Manipulation / integrity          |            |          |      |
-| 6  | Discrimination of data subjects   |            |          |      |
-| 7  | Identity theft                    |            |          |      |
+| 1 | Unauthorised access (confid.) | [h/m/l] | [h/m/l] | [R/O/Y/G] |
+| 2 | Data leakage to outside | | | |
+| 3 | Covert profiling | | | |
+| 4 | Data loss / availability | | | |
+| 5 | Manipulation / integrity | | | |
+| 6 | Discrimination of data subjects | | | |
+| 7 | Identity theft | | | |
 3.2 Protection goals touched
 [Confidentiality / Integrity / Availability / Transparency / Intervenability / Unlinkability / Data minimisation]
 3.3 Vulnerable data subjects
 [Children / Patients / Employees / Consumers]
 
 4. MEASURES TO MITIGATE RISK
-   (Art. 35(7)(d) GDPR)
+ (Art. 35(7)(d) GDPR)
 4.1 Technical measures (Art. 32 GDPR)
 - Encryption: [type, key length]
 - Pseudonymisation: [...]

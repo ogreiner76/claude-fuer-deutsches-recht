@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-praesentation-aufsichtsrat
-description: "Nutze dies, wenn Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaft..."
+description: "Nutze dies bei Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Praesentation Im Aufsichtsrat Organisationsp, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke 2, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Ka, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Or, Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

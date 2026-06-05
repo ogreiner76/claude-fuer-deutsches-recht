@@ -1,6 +1,6 @@
 ---
 name: cloud-hosting-agb
-description: "Branchen-Spezialskill für Cloud Hosting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Cloud Hosting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Cloud Hosting AGB

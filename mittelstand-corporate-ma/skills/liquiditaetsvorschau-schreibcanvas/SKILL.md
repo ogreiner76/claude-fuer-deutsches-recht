@@ -1,13 +1,13 @@
 ---
 name: liquiditaetsvorschau-schreibcanvas
-description: "Nutze dies, wenn Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten prüfen.; Erstelle eine Arbeitsfassung zu Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Rechtsabteilung Betriebsuebergang Im Asset Deal, Rechtsabteilung Familiengesellschafter Und Zustimmungsketten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,8 +15,8 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `mittelstand-ma-liquiditaetsvorschau` | Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Prüfraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Prüfung Insolvenzschwellen-Check. Output Liquiditaetsplan-Tabelle Runway-Berechnung Warnsignal-Ampel. Abgrenzung zu mittelstand-ma-insolvenzreife (Rechtsschwellen) und fortbestehensprognose (IDW-Gutachten). |
 | `mittelstand-ma-schreibcanvas` | Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Prüfraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollständigkeit. Output Kommentierter-Entwurf Verbesserungshinweise Substanz-Prüfung. Abgrenzung zu vertragsmarkup-key-issues (Vertragsprüfung) und output-versand-signing (Ausgabe). |
-| `rechtsabteilung-betriebsuebergang-im-asset-deal` | Rechtsabteilungs-Spezialskill für Betriebsübergang im Asset Deal: Informationsschreiben, Widerspruchsrisiko und Closing-Unterlagen werden koordiniert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-familiengesellschafter-und-zustimmungsketten` | Rechtsabteilungs-Spezialskill für Familiengesellschafter und Zustimmungsketten: Zustimmungen, Vorkaufsrechte, Güterstand und Nachfolge werden vor Signing gesichert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-betriebsuebergang-im-asset-deal` | Rechtsabteilungs-Fachmodul für Betriebsübergang im Asset Deal: Informationsschreiben, Widerspruchsrisiko und Closing-Unterlagen werden koordiniert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-familiengesellschafter-und-zustimmungsketten` | Rechtsabteilungs-Fachmodul für Familiengesellschafter und Zustimmungsketten: Zustimmungen, Vorkaufsrechte, Güterstand und Nachfolge werden vor Signing gesichert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -86,7 +86,7 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 
 ## Prüfschema Liquiditätsvorschau (Mittelstand)
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -154,20 +154,20 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ```
 LIQUIDITÄTSVORSCHAU — VERTRAULICH — [Firma] — Stand [Datum]
 
-| Position              | Woche 1      | Woche 2      | Woche 3      |
+| Position | Woche 1 | Woche 2 | Woche 3 |
 |-----------------------|--------------|--------------|--------------|
-| Anfangsbestand        | EUR [X]      | EUR [Y]      | EUR [Z]      |
-| + Kundenzahlungen     | EUR [...]    | EUR [...]    | EUR [...]    |
-| + Sonstige Einzahlg.  | EUR [...]    | EUR [...]    | EUR [...]    |
-| - Lieferantenzahlg.   | EUR [...]    | EUR [...]    | EUR [...]    |
-| - Löhne/SV            | EUR [...]    | EUR [...]    | EUR [...]    |
-| - Steuern/USt         | EUR [...]    | EUR [...]    | EUR [...]    |
-| - Kredit-Tilgung/Zins | EUR [...]    | EUR [...]    | EUR [...]    |
-| - Sonstige Auslagen   | EUR [...]    | EUR [...]    | EUR [...]    |
-| Endbestand            | EUR [Y]      | EUR [Z]      | EUR [A]      |
-| KK-Kredit verfügbar   | EUR [B]      | EUR [B]      | EUR [B]      |
-| Gesamtliquidität      | EUR [C]      | EUR [D]      | EUR [E]      |
-| AMPEL                 | GRÜN         | GELB         | ROT          |
+| Anfangsbestand | EUR [X] | EUR [Y] | EUR [Z] |
+| + Kundenzahlungen | EUR [...] | EUR [...] | EUR [...] |
+| + Sonstige Einzahlg. | EUR [...] | EUR [...] | EUR [...] |
+| - Lieferantenzahlg. | EUR [...] | EUR [...] | EUR [...] |
+| - Löhne/SV | EUR [...] | EUR [...] | EUR [...] |
+| - Steuern/USt | EUR [...] | EUR [...] | EUR [...] |
+| - Kredit-Tilgung/Zins | EUR [...] | EUR [...] | EUR [...] |
+| - Sonstige Auslagen | EUR [...] | EUR [...] | EUR [...] |
+| Endbestand | EUR [Y] | EUR [Z] | EUR [A] |
+| KK-Kredit verfügbar | EUR [B] | EUR [B] | EUR [B] |
+| Gesamtliquidität | EUR [C] | EUR [D] | EUR [E] |
+| AMPEL | GRÜN | GELB | ROT |
 
 HINWEIS WOCHE 3: Deckungslücke EUR [X]. Prüfung § 17 InsO erforderlich.
 Empfehlung: Steuerberate und Insolvenzrechtler konsultieren.
@@ -185,7 +185,7 @@ Unterlagen und Bestätigungen:
 2. OPOS Kreditoren und Debitoren mit Fälligkeitsdaten
 3. Steuerrückstände gegenüber Finanzamt [Ort] und Sozialversicherung
 4. Bestätigung, dass die Fortführungsannahme nach § 252 Abs. 1 Nr. 2 HGB
-   aus Ihrer Sicht weiterhin gerechtfertigt ist
+ aus Ihrer Sicht weiterhin gerechtfertigt ist
 
 Bitte senden Sie die Unterlagen bis [Datum]. Bei Zweifeln an der Fortführungsfähigkeit
 bitten wir Sie, uns unverzüglich telefonisch zu kontaktieren.
@@ -404,7 +404,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `rechtsabteilung-betriebsuebergang-im-asset-deal`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Betriebsübergang im Asset Deal: Informationsschreiben, Widerspruchsrisiko und Closing-Unterlagen werden koordiniert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Betriebsübergang im Asset Deal: Informationsschreiben, Widerspruchsrisiko und Closing-Unterlagen werden koordiniert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Betriebsübergang im Asset Deal
 
@@ -460,7 +460,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-familiengesellschafter-und-zustimmungsketten`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Familiengesellschafter und Zustimmungsketten: Zustimmungen, Vorkaufsrechte, Güterstand und Nachfolge werden vor Signing gesichert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Familiengesellschafter und Zustimmungsketten: Zustimmungen, Vorkaufsrechte, Güterstand und Nachfolge werden vor Signing gesichert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Familiengesellschafter und Zustimmungsketten
 

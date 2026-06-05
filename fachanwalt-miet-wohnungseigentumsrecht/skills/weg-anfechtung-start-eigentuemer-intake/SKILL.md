@@ -1,34 +1,34 @@
 ---
 name: weg-anfechtung-start-eigentuemer-intake
-description: "Nutze dies, wenn Workflow Weg Anfechtung Start, Workflow Weg Eigentuemer Intake, Workflow Weg Protokoll Nachbereiten, Workflow Weg Versammlung Vorbereiten, Workflow Whatsapp Email Beweis im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Weg Anfechtung Start, Weg Eigentuemer Intake, Weg Protokoll Nachbereiten, Weg Versammlung Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Weg Anfechtung Start, Workflow Weg Eigentuemer Intake, Workflow Weg Protokoll Nachbereiten, Workflow Weg Versammlung Vorbereiten, Workflow Whatsapp Email Beweis
+# Weg Anfechtung Start, Weg Eigentuemer Intake, Weg Protokoll Nachbereiten, Weg Versammlung Vorbereiten, Whatsapp Email Beweis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Weg Anfechtung Start, Weg Eigentuemer Intake, Weg Protokoll Nachbereiten, Weg Versammlung Vorbereiten, Whatsapp Email Beweis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-weg-anfechtung-start` | WEG-Anfechtung-Start: Workflow-Skill für Miet- und WEG-Recht; prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-weg-eigentuemer-intake` | WEG-Eigentümer-Intake: Workflow-Skill für Miet- und WEG-Recht; klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-weg-protokoll-nachbereiten` | WEG-Protokoll nachbereiten: Workflow-Skill für Miet- und WEG-Recht; prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-weg-versammlung-vorbereiten` | Eigentümerversammlung vorbereiten: Workflow-Skill für Miet- und WEG-Recht; macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-whatsapp-email-beweis` | WhatsApp-/E-Mail-Beweis: Workflow-Skill für Miet- und WEG-Recht; wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-weg-anfechtung-start` | WEG-Anfechtung-Start: Arbeitsmodul für Miet- und WEG-Recht; prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-weg-eigentuemer-intake` | WEG-Eigentümer-Intake: Arbeitsmodul für Miet- und WEG-Recht; klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-weg-protokoll-nachbereiten` | WEG-Protokoll nachbereiten: Arbeitsmodul für Miet- und WEG-Recht; prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-weg-versammlung-vorbereiten` | Eigentümerversammlung vorbereiten: Arbeitsmodul für Miet- und WEG-Recht; macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-whatsapp-email-beweis` | WhatsApp-/E-Mail-Beweis: Arbeitsmodul für Miet- und WEG-Recht; wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Weg Anfechtung Start, Workflow Weg Eigentuemer Intake, Workflow Weg Protokoll Nachbereiten, Workflow Weg Versammlung Vorbereiten, Workflow Whatsapp Email Beweis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Weg Anfechtung Start, Weg Eigentuemer Intake, Weg Protokoll Nachbereiten, Weg Versammlung Vorbereiten, Whatsapp Email Beweis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-weg-anfechtung-start`
 
-**Fokus:** WEG-Anfechtung-Start: Workflow-Skill für Miet- und WEG-Recht; prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** WEG-Anfechtung-Start: Arbeitsmodul für Miet- und WEG-Recht; prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # WEG-Anfechtung-Start
 
@@ -42,9 +42,9 @@ Für **Workflow Weg Anfechtung Start, Workflow Weg Eigentuemer Intake, Workflow 
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anfechtungsziel, Kläger, Fristen, Beklagte, Beschlussmangel.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -57,7 +57,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-weg-eigentuemer-intake`
 
-**Fokus:** WEG-Eigentümer-Intake: Workflow-Skill für Miet- und WEG-Recht; klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** WEG-Eigentümer-Intake: Arbeitsmodul für Miet- und WEG-Recht; klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # WEG-Eigentümer-Intake
 
@@ -87,9 +87,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Beschluss, Gemeinschaft, Verwalter, Teilungserklärung, Fristen und Ziel.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -102,7 +102,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -118,7 +118,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-weg-protokoll-nachbereiten`
 
-**Fokus:** WEG-Protokoll nachbereiten: Workflow-Skill für Miet- und WEG-Recht; prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** WEG-Protokoll nachbereiten: Arbeitsmodul für Miet- und WEG-Recht; prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # WEG-Protokoll nachbereiten
 
@@ -132,9 +132,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Beschlusswortlaut, Verkündung, Sammlung, Fristen und Fehler.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -147,7 +147,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-weg-versammlung-vorbereiten`
 
-**Fokus:** Eigentümerversammlung vorbereiten: Workflow-Skill für Miet- und WEG-Recht; macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Eigentümerversammlung vorbereiten: Arbeitsmodul für Miet- und WEG-Recht; macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Eigentümerversammlung vorbereiten
 
@@ -177,9 +177,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: macht Einladung, TOPs, Beschlussvorschläge und Mehrheiten praxistauglich.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -192,7 +192,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -208,7 +208,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-whatsapp-email-beweis`
 
-**Fokus:** WhatsApp-/E-Mail-Beweis: Workflow-Skill für Miet- und WEG-Recht; wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** WhatsApp-/E-Mail-Beweis: Arbeitsmodul für Miet- und WEG-Recht; wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # WhatsApp-/E-Mail-Beweis
 
@@ -222,9 +222,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: wertet informelle Nachrichten für Zugang, Kenntnis, Fristen und Einigungen aus.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -237,7 +237,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab

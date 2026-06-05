@@ -1,6 +1,6 @@
 ---
 name: dokumentenscan-aktenablage-und-belegmappe
-description: "Scan- und Ablageworkflow für Betreuungsakten: sortiert Fotos, PDFs, E-Mails, Bescheide, Kontoauszüge, Heim- und Arztunterlagen in eine gerichtstaugliche Belegmappe mit Fristen, Belegnummern, Datenschutzmarkierung und Lückenliste."
+description: "Scan- und Ablagefür Betreuungsakten: sortiert Fotos, PDFs, E-Mails, Bescheide, Kontoauszüge, Heim- und Arztunterlagen in eine gerichtstaugliche Belegmappe mit Fristen, Belegnummern, Datenschutzmarkierung und Lückenliste."
 ---
 
 # Dokumentenscan, Aktenablage und Belegmappe

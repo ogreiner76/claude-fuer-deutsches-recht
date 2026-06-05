@@ -1,13 +1,13 @@
 ---
 name: board-duties-cash-collateral-chapter7-asset
-description: "Nutze dies, wenn Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation im Plugin Us Bankruptcy Code konkret bearbeitet werden soll. Auslöser: Bitte Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation prüfen.; Erstelle eine Arbeitsfassung zu Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -236,7 +236,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 # Chapter 7 Liquidation Workflow
 
 ## Fachkern: Chapter 7 Liquidation Workflow
-- **Spezialgegenstand:** Chapter 7 Liquidation Workflow wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Spezialgegenstand:** Chapter 7 Liquidation wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.

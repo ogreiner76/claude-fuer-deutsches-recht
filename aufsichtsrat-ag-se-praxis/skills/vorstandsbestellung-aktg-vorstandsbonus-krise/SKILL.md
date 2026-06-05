@@ -1,22 +1,22 @@
 ---
 name: vorstandsbestellung-aktg-vorstandsbonus-krise
-description: "Nutze dies, wenn Vorstandsbestellung 84 Aktg, Vorstandsbonus In Krise, Vorstandsfreie Sitzung, Vorstandsverguetung 87 Aktg im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Vorstandsbestellung 84 Aktg, Vorstandsbonus In Krise, Vorstandsfreie Sitzung, Vorstandsverguetung 87 Aktg prüfen.; Erstelle eine Arbeitsfassung zu Vorstandsbestellung 84 Aktg, Vorstandsbonus In Krise, Vorstandsfreie Sitzung, Vorstandsverguetung 87 Aktg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vorstandsbestellung 84 Aktg, Vorstandsbonus In Krise, Vorstandsfreie Sitzung, Vorstandsverguetung 87 Aktg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vorstandsbestellung 84 Aktg, Vorstandsbonus In Krise, Vorstandsfreie Sitzung, Vorstandsverguetung 87 Aktg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vorstandsbestellung 84 Aktg, Vorstandsbonus In Krise, Vorstandsfreie Sitzung, Vorstandsverguetung 87 Aktg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `vorstandsbestellung-84-aktg` | AG/SE-Aufsichtsrat Praxis: Vorstandsbestellung 84 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vorstandsbonus-in-krise` | AG/SE-Aufsichtsrat Praxis: Vorstandsbonus In Krise; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vorstandsfreie-sitzung` | AG/SE-Aufsichtsrat Praxis: Vorstandsfreie Sitzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vorstandsverguetung-87-aktg` | AG/SE-Aufsichtsrat Praxis: Vorstandsverguetung 87 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorstandsbestellung-84-aktg` | AG/SE-Aufsichtsrat Praxis: Vorstandsbestellung 84 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorstandsbonus-in-krise` | AG/SE-Aufsichtsrat Praxis: Vorstandsbonus In Krise; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorstandsfreie-sitzung` | AG/SE-Aufsichtsrat Praxis: Vorstandsfreie Sitzung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorstandsverguetung-87-aktg` | AG/SE-Aufsichtsrat Praxis: Vorstandsverguetung 87 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Vorstandsbestellung 84 Aktg, Vorstandsbonus In Krise, Vorstandsfreie Sitz
 
 ## 1. `vorstandsbestellung-84-aktg`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsbestellung 84 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsbestellung 84 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorstandsbestellung 84 Aktg
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `vorstandsbonus-in-krise`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsbonus In Krise; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsbonus In Krise; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorstandsbonus In Krise
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `vorstandsfreie-sitzung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsfreie Sitzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsfreie Sitzung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorstandsfreie Sitzung
 
@@ -204,7 +204,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `vorstandsverguetung-87-aktg`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsverguetung 87 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsverguetung 87 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorstandsverguetung 87 Aktg
 

@@ -58,7 +58,7 @@ Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -136,12 +136,12 @@ Das Gutachten enthält in den nachfolgend bezeichneten Teilen methodische Mänge
 die einer ausdrücklichen Stellungnahme bedürfen:
 
 1. Seite [X]: Die behauptete Schlussfolgerung [Schlussfolgerung] wird nicht aus den
-   Anknüpfungstatsachen hergeleitet. Der Sachverständige zitiert lediglich
-   [generische Aussage], ohne auf die Messprotokolle vom [Datum] (Anlage K [X])
-   einzugehen.
+ Anknüpfungstatsachen hergeleitet. Der Sachverständige zitiert lediglich
+ [generische Aussage], ohne auf die Messprotokolle vom [Datum] (Anlage K [X])
+ einzugehen.
 
 2. Seite [Y]: Die Methodik zur Berechnung von [Parameter] ist nicht dargestellt.
-   Es fehlt jeder Beleg dafür, welche Datengrundlage zugrunde lag.
+ Es fehlt jeder Beleg dafür, welche Datengrundlage zugrunde lag.
 
 II. Auffälligkeiten in der Erstellungsweise
 
@@ -149,9 +149,9 @@ Ergänzend bemerkt die [Partei], dass das Gutachten folgende formale Auffälligk
 aufweist, die Anlass zur Nachfrage geben:
 
 - Auf den Seiten [X], [Y], [Z] wiederholen sich identische Einleitungsformeln
-  ("Zusammenfassend ist festzustellen, dass ...").
+ ("Zusammenfassend ist festzustellen, dass ...").
 - Zwischen Kapitel [A] und Kapitel [B] besteht ein erkennbarer Stilwechsel, der
-  auf unterschiedliche Erstellungsstränge hindeuten kann.
+ auf unterschiedliche Erstellungsstränge hindeuten kann.
 
 Die [Partei] erhebt keinen pauschalen Vorwurf des KI-Einsatzes. Sie beantragt
 jedoch gemäß § 411 Abs. 3 ZPO die mündliche Anhörung des Sachverständigen und
@@ -159,7 +159,7 @@ insbesondere Aufklärung über folgende Punkte:
 
 (a) Welche Erstellungsschritte hat der Sachverständige persönlich durchgeführt?
 (b) Wurden technische Hilfsmittel oder Hilfskräfte eingesetzt? Wenn ja: in
-    welchem Umfang und mit welcher Kontrolle?
+ welchem Umfang und mit welcher Kontrolle?
 (c) Wie erklärt sich der Stilwechsel zwischen Kapitel [A] und Kapitel [B]?
 
 [Kanzlei, Datum, Unterschrift]
@@ -177,18 +177,18 @@ vom [Datum] gemäß § 8a Abs. 2 S. 1 Nr. 1 JVEG auf null festzusetzen.
 Begründung:
 
 1. Der Sachverständige hat in der Anhörung vom [Datum] eingeräumt, dass die
-   Abschnitte [X] des Gutachtens nicht von ihm persönlich, sondern mit Hilfe eines
-   generativen Sprachmodells erstellt wurden, ohne dass er eine eigenständige
-   inhaltliche Prüfung der Ausgaben vorgenommen hat.
+ Abschnitte [X] des Gutachtens nicht von ihm persönlich, sondern mit Hilfe eines
+ generativen Sprachmodells erstellt wurden, ohne dass er eine eigenständige
+ inhaltliche Prüfung der Ausgaben vorgenommen hat.
 
 2. Damit liegt eine Verletzung der höchstpersönlichen Erstellungspflicht nach
-   § 407a Abs. 1 ZPO vor. Diese Pflicht ist nicht disponibel und gilt für alle
-   wesentlichen Teile des Gutachtens.
+ § 407a Abs. 1 ZPO vor. Diese Pflicht ist nicht disponibel und gilt für alle
+ wesentlichen Teile des Gutachtens.
 
 3. Gemäß § 8a Abs. 2 S. 1 Nr. 1 JVEG ist die Vergütung auf null festzusetzen,
-   wenn der Sachverständige grob gegen die Pflicht aus § 407a Abs. 1 ZPO verstoßen
-   hat. Die von der höchstrichterlichen Rechtsprechung geforderten Voraussetzungen
-   sind im vorliegenden Fall erfüllt.
+ wenn der Sachverständige grob gegen die Pflicht aus § 407a Abs. 1 ZPO verstoßen
+ hat. Die von der höchstrichterlichen Rechtsprechung geforderten Voraussetzungen
+ sind im vorliegenden Fall erfüllt.
 
 Die [Partei] beantragt ferner die Einholung eines neuen Gutachtens gemäß § 412 ZPO.
 
@@ -201,19 +201,19 @@ Die [Partei] beantragt ferner die Einholung eines neuen Gutachtens gemäß § 41
 DRAFT — Procedural Order No. [X] — AI Disclosure
 
 1. AI Disclosure by Experts. Each party-appointed expert and each tribunal-appointed
-   expert shall, in a cover statement attached to any written report, disclose:
-   (a) whether generative AI tools were used in drafting or analysing any portion
-       of the report;
-   (b) which tools were used and for which tasks;
-   (c) the expert's confirmation that all substantive conclusions in the report
-       reflect the expert's own independent professional judgment.
+ expert shall, in a cover statement attached to any written report, disclose:
+ (a) whether generative AI tools were used in drafting or analysing any portion
+ of the report;
+ (b) which tools were used and for which tasks;
+ (c) the expert's confirmation that all substantive conclusions in the report
+ reflect the expert's own independent professional judgment.
 
 2. Consequences. Non-disclosure may be taken into account by the Tribunal in
-   assessing the weight to be accorded to the expert's report.
+ assessing the weight to be accorded to the expert's report.
 
 3. Counsel. Nothing in this Order requires counsel to disclose use of AI tools in
-   drafting submissions, provided counsel takes full professional responsibility
-   for all submissions filed.
+ drafting submissions, provided counsel takes full professional responsibility
+ for all submissions filed.
 
 [Schiedsgericht, Verfahren, Datum]
 ```

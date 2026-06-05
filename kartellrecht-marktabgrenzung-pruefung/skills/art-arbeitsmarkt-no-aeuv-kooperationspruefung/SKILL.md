@@ -1,20 +1,20 @@
 ---
 name: art-arbeitsmarkt-no-aeuv-kooperationspruefung
-description: "Nutze dies, wenn Arbeitsmarkt No Poach Wage Fixing, Art 101 Aeuv Kooperationspruefung Einstieg, Art 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha, Art 102 Aeuv Marktbeherrschung Missbrauch im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Arbeitsmarkt No Poach Wage Fixing, Art 101 Aeuv Kooperationspruefung Einstieg, Art 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha, Art 102 Aeuv Marktbeherrschung Missbrauch prüfen.; Erstelle eine Arbeitsfassung zu Arbeitsmarkt No Poach Wage Fixing, Art 101 Aeuv Kooperationspruefung Einstieg, Art 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha, Art 102 Aeuv Marktbeherrschung Missbrauch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arbeitsmarkt No Poach Wage Fixing, Art 101 Aeuv Kooperationspruefung Einstieg, Art 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha, Art 102 Aeuv Marktbeherrschung Missbrauch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arbeitsmarkt No Poach Wage Fixing, Art 101 Aeuv Kooperationspruefung Einstieg, Art 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha, Art 102 Aeuv Marktbeherrschung Missbrauch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitsmarkt-no-poach-wage-fixing` | Arbeitsmarkt No-Poach Wage-Fixing: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `art-101-aeuv-kooperationspruefung-einstieg` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 101 AEUV Kooperationsprüfung Einstieg. |
+| `art-101-aeuv-kooperationspruefung-einstieg` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 101 AEUV Kooperationsprüfung Einstieg. |
 | `art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha` | Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `art-102-aeuv-marktbeherrschung-missbrauch` | Art 102 AEUV Marktbeherrschung Missbrauch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `art-101-aeuv-kooperationspruefung-einstieg`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 101 AEUV Kooperationsprüfung Einstieg.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Art 101 AEUV Kooperationsprüfung Einstieg.
 
 
 # Art 101 AEUV Kooperationsprüfung Einstieg

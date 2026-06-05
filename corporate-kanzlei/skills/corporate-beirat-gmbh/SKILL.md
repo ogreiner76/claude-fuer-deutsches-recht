@@ -1,31 +1,31 @@
 ---
 name: corporate-beirat-gmbh
-description: "Nutze dies, wenn Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix prüfen.; Erstelle eine Arbeitsfassung zu Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix
+# Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-corporate-erstpruefung-und-mandatsziel` | Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-corporate-erstpruefung-und-mandatsziel` | Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix` | Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie. |
 
 ## Arbeitsweg
 
-Für **Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `corporate-kanzlei` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-corporate-erstpruefung-und-mandatsziel`
 
-**Fokus:** Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Corporate: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -39,7 +39,7 @@ Für **Spezial Corporate Erstpruefung Und Mandatsziel, Beirat Gmbh Zustimmungska
 
 
 ## Spezialwissen: Corporate: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Corporate: Erstprüfung, Rollenklärung und Mandatsziel / spezial corporate erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Corporate: Erstprüfung, Rollenklärung und Mandatsziel / corporate erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** SPA, APA, StaRUG, PMI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

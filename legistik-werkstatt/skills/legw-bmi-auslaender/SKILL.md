@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Auslaender- und Staatsangehoerigkeitsrecht
-Ressort:            BMI
-Kernnormen:         AufenthG; AsylG; StAG; FreizuegG/EU; AZRG; AsylbLG (mit BMAS).
-Akteure/Aufsicht:   BAMF; Auslaenderbehoerden; Bundespolizei.
-EU/Voelkerrecht:    GEAS; Dublin-VO; Rueckfuehrungs-RL; Visa-Kodex; Schengen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmi; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Auslaender- und Staatsangehoerigkeitsrecht
+Ressort: BMI
+Kernnormen: AufenthG; AsylG; StAG; FreizuegG/EU; AZRG; AsylbLG (mit BMAS).
+Akteure/Aufsicht: BAMF; Auslaenderbehoerden; Bundespolizei.
+EU/Voelkerrecht: GEAS; Dublin-VO; Rueckfuehrungs-RL; Visa-Kodex; Schengen.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmi; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

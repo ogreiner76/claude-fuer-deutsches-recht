@@ -1,13 +1,13 @@
 ---
 name: kommissionsverfahren-vorlageverfahren
-description: "Nutze dies, wenn Spezial Kommissionsverfahren Formular Portal Und Einreichung, Spezial Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung im Plugin Europarecht Kompass konkret bearbeitet werden soll. Auslöser: Bitte Spezial Kommissionsverfahren Formular Portal Und Einreichung, Spezial Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Kommissionsverfahren Formular Portal Und Einreichung, Spezial Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kommissionsverfahren Formular Portal Und Einreichung, Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Kommissionsverfahren Formular Portal Und Einreichung, Spezial Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung
+# Kommissionsverfahren Formular Portal Und Einreichung, Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kommissionsverfahren Formular Portal Und Einreichung, Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Kommissionsverfahren Formular Portal Und Einreichung, Spezial Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `europarecht-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kommissionsverfahren Formular Portal Und Einreichung, Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `europarecht-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Kommissionsverfahren Formular Portal Und Einreichung, Spezial Vor
 # Kommissionsverfahren: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Kommissionsverfahren: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Kommissionsverfahren: Formular, Portal und Einreichungslogik / spezial kommissionsverfahren formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kommissionsverfahren: Formular, Portal und Einreichungslogik / kommissionsverfahren formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix / spezial vorlageverfahren mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix / vorlageverfahren mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

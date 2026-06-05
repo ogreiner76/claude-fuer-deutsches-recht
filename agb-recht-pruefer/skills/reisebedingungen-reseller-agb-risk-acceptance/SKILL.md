@@ -1,23 +1,23 @@
 ---
 name: reisebedingungen-reseller-agb-risk-acceptance
-description: "Nutze dies, wenn Reisebedingungen, Reseller Agb, Risk Acceptance Memo, Rollout Mail Bestandskunden, Rollout Monitoring Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Reisebedingungen, Reseller Agb, Risk Acceptance Memo, Rollout Mail Bestandskunden, Rollout Monitoring Agb prüfen.; Erstelle eine Arbeitsfassung zu Reisebedingungen, Reseller Agb, Risk Acceptance Memo, Rollout Mail Bestandskunden, Rollout Monitoring Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Reisebedingungen, Reseller Agb, Risk Acceptance Memo, Rollout Mail Bestandskunden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Reisebedingungen, Reseller Agb, Risk Acceptance Memo, Rollout Mail Bestandskunden, Rollout Monitoring Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Reisebedingungen, Reseller Agb, Risk Acceptance Memo, Rollout Mail Bestandskunden, Rollout Monitoring Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `reisebedingungen` | Branchen-Spezialskill für Reisebedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `reseller-agb` | Branchen-Spezialskill für Reseller AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `reisebedingungen` | Branchen-Fachmodul für Reisebedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `reseller-agb` | Branchen-Fachmodul für Reseller AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `risk-acceptance-memo` | Output- und Streit-Skill für Risk Acceptance Memo: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 | `rollout-mail-bestandskunden` | Output- und Streit-Skill für Rollout Mail Bestandskunden: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `rollout-monitoring-agb` | Einstiegs- und Workflow-Skill für Rollout Monitoring AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `rollout-monitoring-agb` | Einstiegs- und Arbeitsmodul für Rollout Monitoring AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Reisebedingungen, Reseller Agb, Risk Acceptance Memo, Rollout Mail Bestan
 
 ## 1. `reisebedingungen`
 
-**Fokus:** Branchen-Spezialskill für Reisebedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Reisebedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Reisebedingungen
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `reseller-agb`
 
-**Fokus:** Branchen-Spezialskill für Reseller AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Reseller AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Reseller AGB
 
@@ -248,7 +248,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `rollout-monitoring-agb`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Rollout Monitoring AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Rollout Monitoring AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Rollout Monitoring AGB
 

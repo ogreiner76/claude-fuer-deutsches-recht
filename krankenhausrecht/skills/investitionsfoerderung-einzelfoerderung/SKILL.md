@@ -1,13 +1,13 @@
 ---
 name: investitionsfoerderung-einzelfoerderung
-description: "Nutze dies, wenn Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Drg Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Drg Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung prüfen.; Erstelle eine Arbeitsfassung zu Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Drg Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Drg Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung
+# Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Drg Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Deutsche Rechtsgeschichte Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krankenhausrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -55,7 +55,7 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern 
 - **Subventionsrecht**, Vergaberecht (GWB, VgV, UVgO), Beihilfenrecht EU.
 - **VwVfG §§ 48, 49** Aufhebung/Rueckforderung Foerderbescheid.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Foerdertyp identifizieren:** Einzel, Pauschal, KHZG, Transformationsfonds.
 2. **Foerderfaehigkeit pruefen:** Plankrankenhausstatus, Bedarfsbegruendung, Wirtschaftlichkeit.
 3. **Bauplanung pruefen:** Baugenehmigung, ggf. Planfeststellung (Bauordnungs-/Bauplanungsrecht).
@@ -140,7 +140,7 @@ Die jaehrliche Budgetverhandlung legt fuer jede Klinik den Erloesrahmen fest. **
 - **PrEV/Pflegebudget-Vereinbarung** zu Pflegepersonalkosten.
 - **MD-Pruefungen** nach § 275c SGB V ergaenzen Abrechnung.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Abgrenzung pruefen:** Welche Bereiche fallen unter DRG (somatisch), welche unter PEPP (Psychiatrie, Psychosomatik)?
 2. **Datensaetze pruefen:** AEB (Aufstellung der Entgelte und Budgetberechnung), L-Datensatz (Leistungen), E1/E2/E3 (Erloese), Pflegebudget-Nachweis.
 3. **Mehrleistungen quantifizieren:** Casemix-Volumen, neue OPS, Mengenentwicklung, Vorhalte-Anteil.

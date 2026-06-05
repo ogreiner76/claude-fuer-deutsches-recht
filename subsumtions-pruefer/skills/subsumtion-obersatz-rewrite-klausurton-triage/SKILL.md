@@ -1,13 +1,13 @@
 ---
 name: subsumtion-obersatz-rewrite-klausurton-triage
-description: "Nutze dies, wenn Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm prüfen.; Erstelle eine Arbeitsfassung zu Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Subsumtion Obersatz Definition Untersatz Ergebnis, Subsumtions Rewrite Klausurton, Triage Rechtsfrage Oder Norm** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -94,7 +94,7 @@ Nach Durchlauf aller TBM bildet das System ein Gesamtergebnis:
 TBM-Definition bekannt?
 ├─ Ja (Gesetz/BGH) → Definition formulieren → Untersatz → Ergebnis
 └─ Nein / unsicher → h.M. recherchieren → Kommentarhinweis geben
-                    → Untersatz mit Vorbehalt → Ergebnis fraglich
+ → Untersatz mit Vorbehalt → Ergebnis fraglich
 ```
 
 ## Output-Template Vier-Schritt (Auszug)
@@ -243,11 +243,11 @@ Dieser Skill ist der erste Schritt im Subsumtions-Workflow. Er stellt sicher, da
 Das System stellt folgende Eingangsfragen:
 
 1. Was haben Sie konkret? Bitte wählen Sie:
-   - (A) Konkreter Lebenssachverhalt (Ereignis, Streit, Vertrag, Handlung, Bescheid)
-   - (B) Abstrakte Rechtsfrage (z.B. "Darf mein Arbeitgeber …?")
-   - (C) Ich weiß bereits, welche Norm ich prüfen will
-   - (D) Beides: Sachverhalt und Norm
-   - (E) Ich weiß es nicht genau — bitte führe mich
+ - (A) Konkreter Lebenssachverhalt (Ereignis, Streit, Vertrag, Handlung, Bescheid)
+ - (B) Abstrakte Rechtsfrage (z.B. "Darf mein Arbeitgeber …?")
+ - (C) Ich weiß bereits, welche Norm ich prüfen will
+ - (D) Beides: Sachverhalt und Norm
+ - (E) Ich weiß es nicht genau — bitte führe mich
 
 2. Falls (A) oder (D): Sachverhalt in knappen Stichpunkten. Wer? Wann? Was? Dokumente?
 3. Falls (B): Frage so präzise wie möglich formulieren

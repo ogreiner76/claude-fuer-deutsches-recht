@@ -1,13 +1,13 @@
 ---
 name: db-b2b-db-datenbank-db-datenbank
-description: "Nutze dies, wenn Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence prüfen.; Erstelle eine Arbeitsfassung zu Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Db 017 B2b Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 017 B2B Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

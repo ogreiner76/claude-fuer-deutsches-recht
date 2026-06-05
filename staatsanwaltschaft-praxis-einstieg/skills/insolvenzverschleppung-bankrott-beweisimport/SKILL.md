@@ -1,13 +1,13 @@
 ---
 name: insolvenzverschleppung-bankrott-beweisimport
-description: "Nutze dies, wenn Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwertung, Jugendstrafrecht Erziehungsziel, Jugendstrafrecht Sta, Koerperverletzung Strafantrag 230 im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwertung, Jugendstrafrecht Erziehungsziel, Jugendstrafrecht Sta, Koerperverletzung Strafantrag 230 prüfen.; Erstelle eine Arbeitsfassung zu Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwertung, Jugendstrafrecht Erziehungsziel, Jugendstrafrecht Sta, Koerperverletzung Strafantrag 230.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwertung, Jugendstrafrecht Erziehungsziel, Jugendstrafrecht Sta: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwertung, Jugendstrafrecht Erziehungsziel, Jugendstrafrecht Sta, Koerperverletzung Strafantrag 230
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Insolvenzverschleppung Und Bankrott, Internationaler Beweisimport Verwertung, Jugendstrafrecht Erziehungsziel, Jugendstrafrecht Sta, Koerperverletzung Strafantrag 230** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** § 15a InsO, §§ 283 ff. StGB, Zahlungsunfähigkeit, Buchführung und Vermögensverschiebung
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -94,7 +94,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Auslandsdaten, Rechtshilfeweg, Authentizität, Verteidigungsrechte und Übersetzung
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -143,7 +143,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** JGG, Diversion, Jugendgerichtshilfe, Weisungen und Hauptverhandlung
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -242,7 +242,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** einfache und gefährliche Körperverletzung, Strafantrag, besonderes öffentliches Interesse und Vergleichsdruck
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

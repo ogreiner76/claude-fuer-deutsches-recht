@@ -48,7 +48,7 @@ Nicht dieser Skill, sondern die nationalen Sanierungsskills sind primär, wenn n
 - **EuInsVO – VO (EU) 2015/848** – europäische Insolvenzverordnung.
 - **EU-Beihilferecht Art. 107 AEUV** – relevant bei Sanierungsklausel.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Konzernstruktur kartieren.** Welche Gesellschaften sind betroffen? Welche sind organschaftlich verbunden? Welche befinden sich in welcher Jurisdiktion?
 2. **Forderungsstruktur kartieren.** Welche Forderungen bestehen zwischen Konzerngesellschaften? Welche zwischen Konzern und externen Gläubigern? Welche sind sicherheitenbesichert?
@@ -104,10 +104,10 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - Plugin `steuerrecht-anwalt-und-berater`: AStG, ATAD, Konzernsteuerrecht im Detail.
 - Plugin `insolvenzrecht`: EuInsVO, Konzerninsolvenz, Cross-Border-Verfahren.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
-  - `grosskanzlei-corporate-ma-translations-multijurisdictional`
-  - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
+ - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `grosskanzlei-corporate-ma-translations-multijurisdictional`
+ - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
 
 ## Quellen Stand 06/2026
 

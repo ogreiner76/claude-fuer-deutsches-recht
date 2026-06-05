@@ -1,13 +1,13 @@
 ---
 name: persoenlicher-anwendungsbereich-polizeiliche
-description: "Nutze dies, wenn Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun prüfen.; Erstelle eine Arbeitsfassung zu Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, Rechtsabteilung General Purpose Ai Im Konzern Und Zweckbestimmun** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `persoenlicher-anwendungsbereich-rollen-art-3` | Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22. Output: Rollenzuordnungsentscheidung als Einstieg für alle weiteren Pflichten-Skills. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbaeume). |
 | `polizeiliche-ki-vertrauenswuerdigkeit-din-spec` | Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation fuer Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz. |
 | `public-sector-ai-procurement-ausschreibung` | KI-Beschaffung der oeffentlichen Hand: Leistungsbeschreibung, KI-VO-Hochrisiko, Datenschutz, Vergaberecht, Transparenz, Open-Source/Lock-in, Audit, Grundrechte-Folgenabschaetzung, Testbetrieb und Abnahme. |
-| `rechtsabteilung-general-purpose-ai-im-konzern-und-zweckbestimmun` | Rechtsabteilungs-Spezialskill für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-general-purpose-ai-im-konzern-und-zweckbestimmun` | Rechtsabteilungs-Fachmodul für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -132,7 +132,7 @@ Gepruefte Norm(en): [Art. 3 Nr. 3/4 Rn. 12]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -242,7 +242,7 @@ Der öffentliche Auftraggeber beschafft nicht nur Software, sondern Verwaltungsm
 
 ## 4. `rechtsabteilung-general-purpose-ai-im-konzern-und-zweckbestimmun`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: General Purpose AI im Konzern und Zweckbestimmung
 

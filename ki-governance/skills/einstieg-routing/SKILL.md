@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Ki Governance.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Ki Governance** ein Fall noch sortiert, Do
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `case-dpia-drift` — Case Dpia Drift
 - `dsgvo-governance-inventar` — Dsgvo Governance Inventar
 - `gpai-modelle-ki-anbieter-arbeitsrecht-mitbestimmung` — Gpai Modelle Ki Anbieter Arbeitsrecht Mitbestimmung

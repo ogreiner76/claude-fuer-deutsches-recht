@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-werbung-aussenauftritt
-description: "Nutze dies, wenn Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations prüfen.; Erstelle eine Arbeitsfassung zu Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Org..."
+description: "Nutze dies bei Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort, Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

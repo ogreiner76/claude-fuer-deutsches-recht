@@ -28,28 +28,28 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
 ## Ablauf / Checkliste
 
 1. **Selbstzertifizierung pruefen.**
-   - Liste pruefen ueber dataprivacyframework.gov.
-   - Status: aktiv ("Active") versus inaktiv ("Inactive Participant").
-   - Geltungsbereich der Selbstzertifizierung: HR-Daten und/oder Non-HR-Daten?
-   - Im Listing fuer den konkreten Datentypus zertifiziert?
+ - Liste pruefen ueber dataprivacyframework.gov.
+ - Status: aktiv ("Active") versus inaktiv ("Inactive Participant").
+ - Geltungsbereich der Selbstzertifizierung: HR-Daten und/oder Non-HR-Daten?
+ - Im Listing fuer den konkreten Datentypus zertifiziert?
 
 2. **Vertragsabsicherung.**
-   - DPF-Selbstzertifizierung des Anbieters wird im AVV ausdruecklich referenziert.
-   - SCC nach Beschluss (EU) 2021/914 als Fallback fuer den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
-   - Transfer Impact Assessment auch bei DPF-Nutzung empfohlen, weil DPF politisch und rechtlich angreifbar bleibt (Schrems-Linie).
+ - DPF-Selbstzertifizierung des Anbieters wird im AVV ausdruecklich referenziert.
+ - SCC nach Beschluss (EU) 2021/914 als Fallback fuer den Fall, dass der Anbieter die Selbstzertifizierung verliert oder das DPF unwirksam wird.
+ - Transfer Impact Assessment auch bei DPF-Nutzung empfohlen, weil DPF politisch und rechtlich angreifbar bleibt (Schrems-Linie).
 
 3. **Sub-AV-Kette pruefen.**
-   - Sub-AV des US-Anbieters mit weiterem US-Standort oder Drittland?
-   - Eigene DPF-Selbstzertifizierung jedes US-Sub-AV erforderlich.
-   - Fuer Nicht-US-Drittland-Sub-AV: SCC oder anderer Transfermechanismus.
+ - Sub-AV des US-Anbieters mit weiterem US-Standort oder Drittland?
+ - Eigene DPF-Selbstzertifizierung jedes US-Sub-AV erforderlich.
+ - Fuer Nicht-US-Drittland-Sub-AV: SCC oder anderer Transfermechanismus.
 
 4. **Monitoring.**
-   - DPF-Listing periodisch (mindestens jaehrlich) ueberpruefen.
-   - Pruefung vor jedem Vertragsschluss und vor wesentlicher Vertragsverlaengerung.
+ - DPF-Listing periodisch (mindestens jaehrlich) ueberpruefen.
+ - Pruefung vor jedem Vertragsschluss und vor wesentlicher Vertragsverlaengerung.
 
 5. **Eskalation.**
-   - Bei Suspendierung der DPF-Listung: sofortige Aktivierung des SCC-Fallback.
-   - Bei Unwirksamkeitserklaerung des DPF durch EuGH (analog Schrems II): umfassende Transferpruefung neu.
+ - Bei Suspendierung der DPF-Listung: sofortige Aktivierung des SCC-Fallback.
+ - Bei Unwirksamkeitserklaerung des DPF durch EuGH (analog Schrems II): umfassende Transferpruefung neu.
 
 ## Mustertext / Template
 

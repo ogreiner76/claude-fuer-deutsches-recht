@@ -1,6 +1,6 @@
 ---
 name: rom-034-delikte-furtum
-description: "Römisches Recht: Delikte Furtum. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Delikte Furtum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Delikte Furtum

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im KI VO AI Act Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Fallrouting im KI VO AI Act Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage."
 ---
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
@@ -8,7 +8,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im KI VO AI Act Pruef
 - **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
 - **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
 - **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Spezial-Skills dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
+- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
@@ -18,9 +18,9 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im KI VO AI Act Pruef
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **KI VO AI Act Pruefer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **KI VO AI Act Pruefer**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Konformitätsbewertung, Evidence-Pack, Sanktionen. Kein Rechtsrat.
+**Plugin-Fokus:** Vollständiger Mechanik-zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Konformitätsbewertung, Evidence-Pack, Sanktionen. Kein Rechtsrat.
 
 **Neuer Schwerpunkt für Art. 3 und Art. 6 Abs. 2:** Wenn es um allgemeine Chatbots, ChatGPT-ähnliche Systeme, GPAI, Mitarbeitenden-Fehlgebrauch oder Hochrisiko nach Anhang III geht, immer Zweckbestimmung und tatsächliche Nutzung trennen. Ein allgemeiner Chatbot ist nicht automatisch Hochrisiko; der konkrete Einsatz in Personal, Bildung, Kredit, Justiz, Migration, Strafverfolgung, Notfalltriage, kritischer Infrastruktur oder Biometrie kann aber Hochrisiko auslösen.
 
@@ -34,7 +34,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
 3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
 4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Spezial-Skill aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
+5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
 6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
 
 **Was du bei stummem Upload nicht machst:**
@@ -84,7 +84,7 @@ Bei KI-VO-Fragen zusätzlich sofort klären:
 
 ### 1b. Neue Spezialcluster mit schneller Weichenstellung
 
-Wenn der Fall in einen dieser Praxisbereiche fällt, nicht beim allgemeinen Entscheidungsbaum stehenbleiben. Kurz routen und dann den passenden Spezial-Skill aktiv vorschlagen.
+Wenn der Fall in einen dieser Praxisbereiche fällt, nicht beim allgemeinen Entscheidungsbaum stehenbleiben. Kurz routen und dann den passenden Fachmodul aktiv vorschlagen.
 
 | Praxisbereich | Typische Frage | Primäre Skills |
 |---|---|---|
@@ -105,7 +105,7 @@ Arbeite danach in dieser Reihenfolge:
 1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
 2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
 3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund. Bei Chatbot/GPAI und Anhang-III-Nähe immer `liegt-ki-system-vor-art-3-nr-1`, `gpai-vorliegen-art-3-nr-63`, `hochrisiko-art-6-abs-2-anhang-iii` und `output-pruefdokument-ki-vo-mit-warnhinweisen` erwägen.
+4. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund. Bei Chatbot/GPAI und Anhang-III-Nähe immer `liegt-ki-system-vor-art-3-nr-1`, `gpai-vorliegen-art-3-nr-63`, `hochrisiko-art-6-abs-2-anhang-iii` und `output-pruefdokument-ki-vo-mit-warnhinweisen` erwägen.
 5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
 6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
 
@@ -116,7 +116,7 @@ Arbeite danach in dieser Reihenfolge:
 - Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
 - Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
 
 ### 4. Antwortformat für den Einstieg
 
@@ -141,18 +141,18 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 **Nächste Frage**
 [Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
 
-### 5. Spezial-Skills in diesem Plugin
+### 5. Fachmodule in diesem Plugin
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `abgrenzung-konventionelle-software-vs-ki-system` | Grenzfälle zwischen Automation, Statistik, Expertensystem, Workflow und KI-System; besonders Inferenz, gelernte Parameter, LLM/API und menschliche Freigabe. |
+| `abgrenzung-konventionelle-software-vs-ki-system` | Grenzfälle zwischen Automation, Statistik, Expertensystem, und KI-System; besonders Inferenz, gelernte Parameter, LLM/API und menschliche Freigabe. |
 | `anbieter-werden-art-25` | Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 KI-VO Re-Provisioning. Prüfraster: vier Fallgruppen wesentliche… |
 | `begrenztes-risiko-art-50-transparenzpflichten` | Unternehmen setzt Chatbot Deepfake-Tool oder KI-Textgenerator ein und fragt: Welche Hinweispflichten treffen uns gegenüber Nutzern? Art. 50 KI-VO begrenztes Risiko. Prüfraster: Chatbot-Hinweispflicht Art. 50 Abs. 1… |
 | `betreiber-deployer-pflichten-art-26` | Betreiberpflichten plus Off-label-Nutzung durch Mitarbeitende, Zweckänderung, Chatbot-Governance, Art. 25-Anbieterwerden und Re-Evaluation. |
 | `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` | Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für integrierte KI-Komponenten? Art. 22 KI-VO Bevollmaechtigter Art. 25 Produkthersteller. Prüfraster:… |
 | `code-of-practice-und-harmonisierte-normen` | Standards-Landkarte: Art. 40/41/56, GPAI Code of Practice, ISO/IEC 42001/23894/22989/23053 ohne falsche Vermutungswirkung. |
 | `einfuehrer-importer-pflichten-art-23` | Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter… |
-| `entscheidungsbaum-ki-vo-gesamt-workflow` | Master-Workflow von Art. 3 über Rollen, Art. 6 Abs. 2/Anhang III, GPAI/Chatbot-Abgrenzung, Fehlgebrauch und Output-Dokumentation. |
+| `entscheidungsbaum-ki-vo-gesamt-workflow` | Master-von Art. 3 über Rollen, Art. 6 Abs. 2/Anhang III, GPAI/Chatbot-Abgrenzung, Fehlgebrauch und Output-Dokumentation. |
 | `eu-datenbank-registrierung-art-49-und-71` | Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? Art. 49 und 71 KI-VO Registrierungspflichten. Prüfraster: Anbieter vor Inverkehrbringen Pflicht… |
 | `falsche-wiese-warnung-ki-vo` | Nutzer fragt eine KI-VO-Frage die eigentlich unter DSGVO Produkthaftung MDR oder Maschinenverordnung faellt. Warnt vor typischen Rechtsgebiets-Verwechslungen KI-VO versus DSGVO versus Produkthaftungsrichtlinie versus… |
 | `governance-aufsichtsbehoerden-art-70` | Unternehmen oder Behoerde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur KI-VO-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. KI-VO Governance. Prüfraster: nationale… |
@@ -173,7 +173,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13` | Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung… |
 | `hochrisiko-zuordnung-art-6-und-anhang-i-iii` | Überblick zu Art. 6 Abs. 1/2, Zweckbestimmung statt Tool-Label, Rückausnahme und Pflichtenfolge. |
 | `liegt-ki-system-vor-art-3-nr-1` | Art.-3-Kerncheck mit sieben Elementen: Automation, Autonomie, Adaptivität, Ziele, Inferenz, Output und Umgebungseinfluss. |
-| `mandatsabbruch-empfehlung-komplexe-faelle` | Mechanik-Workflow erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren für Komplexitaet jenseits des KI-VO-Prüfers: multijurisdiktionelle Lieferketten… |
+| `mandatsabbruch-empfehlung-komplexe-faelle` | Mechanik-erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren für Komplexitaet jenseits des KI-VO-Prüfers: multijurisdiktionelle Lieferketten… |
 | `marktueberwachung-meldung-vorfaelle-art-72-bis-79` | Anbieter oder Betreiber hat einen schwerwiegenden Vorfall mit einem Hochrisiko-KI-System und fragt: Was muss gemeldet werden an wen und innerhalb welcher Fristen? Art. 72 bis 79 KI-VO Post-Market-Monitoring und… |
 | `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` | Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6… |
 | `output-betreiber-checkliste-und-folgenabschaetzung` | Betreiber von Hochrisiko-KI benoetigt fertige Compliance-Dokumentation für interne Zwecke oder Aufsichtsbehoerde. Art. 26 und 27 KI-VO Betreiber-Compliance-Output. Zwei Output-Dokumente: Betreiber-Compliance-Checkliste… |

@@ -1,13 +1,13 @@
 ---
 name: devops-ci-digitale-souveraenitaet-dora-art16
-description: "Nutze dies, wenn Devops Ci Cd Secrets, Digitale Souveraenitaet Provider Lockin, Dora Art16 Finanzunternehmen Simplified Framework, Dora Finanzsektor Abgrenzung im Plugin Nis2 Cybersecurity Compliance konkret bearbeitet werden soll. Auslöser: Bitte Devops Ci Cd Secrets, Digitale Souveraenitaet Provider Lockin, Dora Art16 Finanzunternehmen Simplified Framework, Dora Finanzsektor Abgrenzung prüfen.; Erstelle eine Arbeitsfassung zu Devops Ci Cd Secrets, Digitale Souveraenitaet Provider Lockin, Dora Art16 Finanzunternehmen Simplified Framework, Dora Finanzsektor Abgrenzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Devops Ci Cd Secrets, Digitale Souveraenitaet Provider Lockin, Dora Art16 Finanzunternehmen Simplified Framework, Dora Finanzsektor Abgrenzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Devops Ci Cd Secrets, Digitale Souveraenitaet Provider Lockin, Dora Art16 Finanzunternehmen Simplified Framework, Dora Finanzsektor Abgrenzung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Devops Ci Cd Secrets, Digitale Souveraenitaet Provider Lockin, Dora Art16 Finanzunternehmen Simplified Framework, Dora Finanzsektor Abgrenzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `devops-ci-cd-secrets` | Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit. |
 | `digitale-souveraenitaet-provider-lockin` | Bewertet Provider-Lock-in und digitale Souveränität strategisch. |
-| `dora-art16-finanzunternehmen-simplified-framework` | DORA-Artikel-16-Spezialskill für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan. |
+| `dora-art16-finanzunternehmen-simplified-framework` | DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan. |
 | `dora-finanzsektor-abgrenzung` | Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittparteien ab. |
 
 ## Arbeitsweg
@@ -123,7 +123,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `dora-art16-finanzunternehmen-simplified-framework`
 
-**Fokus:** DORA-Artikel-16-Spezialskill für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan.
+**Fokus:** DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan.
 
 # DORA Artikel 16 für Finanzunternehmen
 

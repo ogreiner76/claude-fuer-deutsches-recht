@@ -1,13 +1,13 @@
 ---
 name: einsatzunfall-wehrdienstbeschaedigung
-description: "Nutze dies, wenn Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ernennung Dienstgrad Laufbahnrecht im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ernennung Dienstgrad Laufbahnrecht prüfen.; Erstelle eine Arbeitsfassung zu Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ernennung Dienstgrad Laufbahnrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ernennung Dienstgrad Laufbahnrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ernennung Dienstgrad Laufbahnrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Einsatzunfall Wehrdienstbeschaedigung, Entlassung Auf Eigenen Antrag, Ernennung Dienstgrad Laufbahnrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -62,7 +62,7 @@ Der Einsatzunfall ist eine besonders qualifizierte Form der Wehrdienstbeschädig
 - Versorgungsmedizinische Grundsätze (VMG).
 - Beweismaß: Vollbeweis Schädigung, Wahrscheinlichkeit der Kausalität.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Einsatzstatus klären.** Bundestagsmandat? Einsatz nach § 63c SG anerkannt? OPLAN/Einsatzbefehl beibringen.
 2. **Ereignisdokumentation.** Unfallmeldung, Funkspruch, Sanitätsbuch, Patientenkarte, Kameradenbericht, ggf. JET (Joint Operations Centre Logs).
@@ -215,7 +215,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -325,7 +325,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

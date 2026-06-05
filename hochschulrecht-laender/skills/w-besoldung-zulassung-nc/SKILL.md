@@ -1,13 +1,13 @@
 ---
 name: w-besoldung-zulassung-nc
-description: "Nutze dies, wenn W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet im Plugin Hochschulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet prüfen.; Erstelle eine Arbeitsfassung zu W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

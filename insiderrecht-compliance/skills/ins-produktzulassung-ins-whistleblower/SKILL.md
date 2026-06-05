@@ -1,13 +1,13 @@
 ---
 name: ins-produktzulassung-ins-whistleblower
-description: "Nutze dies, wenn Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung prüfen.; Erstelle eine Arbeitsfassung zu Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -52,9 +52,9 @@ Kursrelevanz von Zwischenschritten und steuert Timing und Inhalt der Ad-hoc-Meld
 ### Schritt 1 – Zulassungsverfahren kartieren
 
 - Erstelle Prozessdiagramm: Antragstellung → Vorprüfung → klinische Phase (Pharma) →
-  Behördenprüfung → vorläufige Entscheidung → finale Zulassung
+ Behördenprüfung → vorläufige Entscheidung → finale Zulassung
 - Identifiziere alle wesentlichen Meilensteine (Advisory Committee Meeting, Complete
-  Response Letter, Zulassungsbescheid)
+ Response Letter, Zulassungsbescheid)
 - Benenne interne Wissensträger für jeden Meilenstein
 
 ### Schritt 2 – Geltl/Daimler-Test für jeden Meilenstein
@@ -82,18 +82,18 @@ auch wenn finale FDA/EMA-Entscheidung noch aussteht.
 ### Schritt 5 – Ad-hoc-Timing und Koordination
 
 - Bei positiver Entscheidung: Sofortveröffentlichung ab Kenntnis (nicht erst nach offizieller
-  Bekanntmachung durch Behörde)
+ Bekanntmachung durch Behörde)
 - Bei negativer Entscheidung: Ebenso unverzüglich
 - Koordination mit IR und Presse für simultane Kommunikation
 
 ## Red-Team-Fragen
 
 - Wurden alle wesentlichen Meilensteine im Zulassungsverfahren auf Insiderinformations-
-  Qualität geprüft?
+ Qualität geprüft?
 - Wurde der Geltl/Daimler-Test zeitpunktbezogen (nicht rückblickend) angewendet?
 - Ist die Kursrelevanz-Beurteilung anhand von Markterwartungen gestützt?
 - Wurden alle Wissensträger (Regulatory Affairs, Wissenschaftler, externe Berater) in
-  Insiderliste aufgenommen?
+ Insiderliste aufgenommen?
 
 ## Ausgabeformat
 
@@ -143,7 +143,7 @@ Marktmanipulation oder MAR-Pflichtverletzungen betreffen, und leitet MAR-Folgeha
 ### Schritt 2 – Vorläufige Sachverhaltsaufklärung
 
 - Welcher MAR-Tatbestand wird behauptet? (Insiderhandel, Tipping, Marktmanipulation,
-  verspätete Ad-hoc, falsche Insiderliste)
+ verspätete Ad-hoc, falsche Insiderliste)
 - Interne Recherche: Zugangsberechtigungen, Transaktionshistorie, Kommunikationsprotokolle
 - Erste Einschätzung: Substanziierter Verdacht oder Gefälligkeitsmeldung?
 

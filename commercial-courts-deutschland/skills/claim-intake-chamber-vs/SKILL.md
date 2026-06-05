@@ -1,13 +1,13 @@
 ---
 name: claim-intake-chamber-vs
-description: "Nutze dies, wenn Claim Intake Fakten Und Exhibits, Commercial Chamber Vs Commercial Court im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Claim Intake Fakten Und Exhibits, Commercial Chamber Vs Commercial Court: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Claim Intake Fakten Und Exhibits, Commercial Chamber Vs Commercial Court
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Claim Intake Fakten Und Exhibits, Commercial Chamber Vs Commercial Court** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -40,7 +40,7 @@ Für **Claim Intake Fakten Und Exhibits, Commercial Chamber Vs Commercial Court*
 
 Dieser Skill unterstützt Verfahren vor deutschen Commercial Courts oder Commercial Chambers mit internationalem Wirtschaftsbezug. Er liefert eine prozessuale Arbeitsstruktur und, wenn gewünscht, englischen Output. Deutsches Prozessrecht bleibt der Rahmen; englische Sprache bedeutet nicht Common-Law-Verfahren.
 
-## Kaltstart
+## Einstieg
 
 Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
@@ -95,7 +95,7 @@ Vor echter Verwendung aktuelle Primärquellen prüfen: GVG, ZPO, einschlägige L
 
 Dieser Skill unterstützt Verfahren vor deutschen Commercial Courts oder Commercial Chambers mit internationalem Wirtschaftsbezug. Er liefert eine prozessuale Arbeitsstruktur und, wenn gewünscht, englischen Output. Deutsches Prozessrecht bleibt der Rahmen; englische Sprache bedeutet nicht Common-Law-Verfahren.
 
-## Kaltstart
+## Einstieg
 
 Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 

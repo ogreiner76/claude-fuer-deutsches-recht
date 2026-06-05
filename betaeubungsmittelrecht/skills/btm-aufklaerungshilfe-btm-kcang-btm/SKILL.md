@@ -1,13 +1,13 @@
 ---
 name: btm-aufklaerungshilfe-btm-kcang-btm
-description: "Nutze dies, wenn Btm 010 Aufklaerungshilfe 31 Btmg, Btm 011 Kcang Und Medcang Abgrenzen, Btm 012 Neue Psychoaktive Stoffe, Btm 013 Durchsuchung Und Beschlagnahme im Plugin Betaeubungsmittelrecht konkret bearbeitet werden soll. Auslöser: Bitte Btm 010 Aufklaerungshilfe 31 Btmg, Btm 011 Kcang Und Medcang Abgrenzen, Btm 012 Neue Psychoaktive Stoffe, Btm 013 Durchsuchung Und Beschlagnahme prüfen.; Erstelle eine Arbeitsfassung zu Btm 010 Aufklaerungshilfe 31 Btmg, Btm 011 Kcang Und Medcang Abgrenzen, Btm 012 Neue Psychoaktive Stoffe, Btm 013 Durchsuchung Und Beschlagnahme.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Btm 010 Aufklaerungshilfe 31 Btmg, Btm 011 Kcang Und Medcang Abgrenzen, Btm 012 Neue Psychoaktive Stoffe, Btm 013 Durchsuchung Und Beschlagnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Btm 010 Aufklaerungshilfe 31 Btmg, Btm 011 Kcang Und Medcang Abgrenzen, Btm 012 Neue Psychoaktive Stoffe, Btm 013 Durchsuchung Und Beschlagnahme
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Btm 010 Aufklaerungshilfe 31 Btmg, Btm 011 Kcang Und Medcang Abgrenzen, Btm 012 Neue Psychoaktive Stoffe, Btm 013 Durchsuchung Und Beschlagnahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

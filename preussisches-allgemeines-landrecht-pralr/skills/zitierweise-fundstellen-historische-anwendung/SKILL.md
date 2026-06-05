@@ -1,13 +1,13 @@
 ---
 name: zitierweise-fundstellen-historische-anwendung
-description: "Nutze dies, wenn Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit prüfen.; Erstelle eine Arbeitsfassung zu Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung, Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

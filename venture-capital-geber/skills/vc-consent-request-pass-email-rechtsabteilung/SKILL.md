@@ -1,13 +1,13 @@
 ---
 name: vc-consent-request-pass-email-rechtsabteilung
-description: "Nutze dies, wenn Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Rechtsabteilung Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Rechtsabteilung Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel prüfen.; Erstelle eine Arbeitsfassung zu Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Rechtsabteilung Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Rechtsabteilung Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Rechtsabteilung Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Rechtsabteilung Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `vc-056-consent-request-workflow` | Prüft Zustimmungsanfragen zu Budget, Debt, Hiring, IP, M&A, Related Party und Kapitalmaßnahmen. |
 | `vc-093-pass-email-und-feedback` | Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne Haftungs- oder Reputationsrisiko. |
-| `rechtsabteilung-founder-vesting-und-leaver-streit` | Rechtsabteilungs-Spezialskill für Founder Vesting und Leaver-Streit: Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-founder-vesting-und-leaver-streit` | Rechtsabteilungs-Fachmodul für Founder Vesting und Leaver-Streit: Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `vc-003-investorprofil-family-office-fonds-angel` | Baut aus Herkunft des Geldes, Mandat, Risikoappetit, Ticketgröße, Haltedauer, Steuer, Reputation und Regulatorik ein VC-Investorprofil. |
 
 ## Arbeitsweg
@@ -119,7 +119,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `rechtsabteilung-founder-vesting-und-leaver-streit`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Founder Vesting und Leaver-Streit: Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Founder Vesting und Leaver-Streit: Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Founder Vesting und Leaver-Streit
 

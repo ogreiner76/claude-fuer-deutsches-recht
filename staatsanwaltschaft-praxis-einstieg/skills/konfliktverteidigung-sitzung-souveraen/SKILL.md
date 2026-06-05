@@ -1,13 +1,13 @@
 ---
 name: konfliktverteidigung-sitzung-souveraen
-description: "Nutze dies, wenn Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation, Opfer Und Nebenklage Kommunikation im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation, Opfer Und Nebenklage Kommunikation prüfen.; Erstelle eine Arbeitsfassung zu Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation, Opfer Und Nebenklage Kommunikation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation, Opfer Und Nebenklage Kommunikation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation, Opfer Und Nebenklage Kommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Anträge, Unterbrechungen, Ton, gerichtliche Sachleitung und StA-Rolle
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -144,7 +144,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** §§ 299, 331 ff. StGB, Einladungen, Sponsoring, Drittvorteil und Compliance-Unterlagen
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

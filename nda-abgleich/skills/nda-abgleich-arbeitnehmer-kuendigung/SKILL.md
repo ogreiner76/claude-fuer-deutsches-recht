@@ -1,13 +1,13 @@
 ---
 name: nda-abgleich-arbeitnehmer-kuendigung
-description: "Nutze dies, wenn Nda Abgleich, Nda Bei Arbeitnehmer Kündigung, Nda Bei Bewerbungen Pitches im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Bitte Nda Abgleich, Nda Bei Arbeitnehmer Kündigung, Nda Bei Bewerbungen Pitches prüfen.; Erstelle eine Arbeitsfassung zu Nda Abgleich, Nda Bei Arbeitnehmer Kündigung, Nda Bei Bewerbungen Pitches.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nda Abgleich, Nda Bei Arbeitnehmer Kündigung, Nda Bei Bewerbungen Pitches: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nda Abgleich, Nda Bei Arbeitnehmer Kündigung, Nda Bei Bewerbungen Pitches
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nda Abgleich, Nda Bei Arbeitnehmer Kündigung, Nda Bei Bewerbungen Pitches** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -170,9 +170,9 @@ Vor der ersten Änderung liest der Skill alle Inputs vollständig:
 - Der Entwurf der Gegenseite wird in seine Absätze zerlegt und durchnummeriert (typischerweise 60 bis 100 Absätze). Diese Nummerierung dient als Adresse für jede Änderung.
 - Der Haltelinien-Standard liefert die **Zielformulierungen** für jede Klausel — also die genauen Worte, mit denen die eigene Position sprachlich am elegantesten ins Dokument der Gegenseite eingebaut werden kann.
 - Die Ampelmatrix liefert die **Reihenfolge der Verbindlichkeit**:
-  - ROT-Einträge sind **nicht verhandelbar**. Jeder ROT-Punkt muss in der Ausgabe-Datei adressiert sein, andernfalls schlägt das Mandat fehl.
-  - GELB-Einträge werden in **Standardposition** eingebracht; die zulässige Bandbreite ist in der Matrix definiert.
-  - GRUEN-Einträge werden nur dann beruehrt, wenn die Gegenseite eine Formulierung gewählt hat, die deutlich vom Standard abweicht — sonst stehen sie unverändert.
+ - ROT-Einträge sind **nicht verhandelbar**. Jeder ROT-Punkt muss in der Ausgabe-Datei adressiert sein, andernfalls schlägt das Mandat fehl.
+ - GELB-Einträge werden in **Standardposition** eingebracht; die zulässige Bandbreite ist in der Matrix definiert.
+ - GRUEN-Einträge werden nur dann beruehrt, wenn die Gegenseite eine Formulierung gewählt hat, die deutlich vom Standard abweicht — sonst stehen sie unverändert.
 
 Wenn die Ampelmatrix unklar oder unvollständig ist, **fragt der Skill nach**, bevor er beginnt. Er erfindet keine Haltelinien.
 
@@ -225,8 +225,8 @@ Die Ausgabedatei ist **valid .docx** und enthält echte Word-Tracked-Changes. Pr
 - Eingefügter Text steht in `<w:ins>` mit einem Kind-Run `<w:r>`, der wieder einen `<w:t>` trägt.
 - Gelöschter Text steht in `<w:del>` mit einem Kind-Run, dessen Text in `<w:delText>` (statt `<w:t>`) liegt.
 - Beide Elemente tragen die Attribute **`w:id`**, **`w:author`** und **`w:date`**.
-  - `w:author` Standardwert: **"Receiving Party Counsel"** (oder vom Anwender vorgegeben).
-  - `w:date` als ISO-8601-Zeitstempel der Bearbeitung, z. B. `2026-05-20T01:55:00Z`.
+ - `w:author` Standardwert: **"Receiving Party Counsel"** (oder vom Anwender vorgegeben).
+ - `w:date` als ISO-8601-Zeitstempel der Bearbeitung, z. B. `2026-05-20T01:55:00Z`.
 - Jede `w:id` ist im ganzen Dokument eindeutig.
 - Die Datei oeffnet ohne Reparatur-Dialog in Microsoft Word ab Version 2016 und in LibreOffice ab Version 7.
 
@@ -234,20 +234,20 @@ Beispiel für einen Wortaustausch in einem Lauf:
 
 ```xml
 <w:r>
-  <w:t xml:space="preserve">governed by </w:t>
+ <w:t xml:space="preserve">governed by </w:t>
 </w:r>
 <w:del w:id="42" w:author="Receiving Party Counsel" w:date="2026-05-20T01:55:00Z">
-  <w:r>
-    <w:delText xml:space="preserve">the laws of the State of Delaware</w:delText>
-  </w:r>
+ <w:r>
+ <w:delText xml:space="preserve">the laws of the State of Delaware</w:delText>
+ </w:r>
 </w:del>
 <w:ins w:id="43" w:author="Receiving Party Counsel" w:date="2026-05-20T01:55:00Z">
-  <w:r>
-    <w:t xml:space="preserve">the laws of the Federal Republic of Germany, excluding the CISG and rules of private international law</w:t>
-  </w:r>
+ <w:r>
+ <w:t xml:space="preserve">the laws of the Federal Republic of Germany, excluding the CISG and rules of private international law</w:t>
+ </w:r>
 </w:ins>
 <w:r>
-  <w:t xml:space="preserve">.</w:t>
+ <w:t xml:space="preserve">.</w:t>
 </w:r>
 ```
 

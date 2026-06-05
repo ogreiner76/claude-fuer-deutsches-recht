@@ -1,6 +1,6 @@
 ---
 name: monats-quellenkarte
-description: "Nutze dies, wenn Monats Quellenkarte im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Monats Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Monats Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: lehramtspruefung-lrs-hochschule-masterarbeit
-description: "Nutze dies, wenn Lehramtspruefung, Lrs Hochschule, Masterarbeit Betreuung, Medizinisches Staatsexamen im Plugin Pruefungsrecht Hochschule konkret bearbeitet werden soll. Auslöser: Bitte Lehramtspruefung, Lrs Hochschule, Masterarbeit Betreuung, Medizinisches Staatsexamen prüfen.; Erstelle eine Arbeitsfassung zu Lehramtspruefung, Lrs Hochschule, Masterarbeit Betreuung, Medizinisches Staatsexamen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lehramtspruefung, Lrs Hochschule, Masterarbeit Betreuung, Medizinisches Staatsexamen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lehramtspruefung, Lrs Hochschule, Masterarbeit Betreuung, Medizinisches Staatsexamen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lehramtspruefung, Lrs Hochschule, Masterarbeit Betreuung, Medizinisches Staatsexamen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

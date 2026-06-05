@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-008-erster-titel-5-vertraege-a
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung

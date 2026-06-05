@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Nutze dies, wenn Unterlagen und Lücken im Plugin Kanzlei Builder Hub konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Unterlagen und Lücken
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Kanzlei Builder Hub** ein Fall noch sortie
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `community-leistungsmatrix-fristennotiz-automatischer` — Community Leistungsmatrix Fristennotiz Automatischer
 - `deployment-eigenen-einsteiger` — Deployment Eigenen Einsteiger
 - `findet-gate-installiert` — Findet Gate Installiert

@@ -1,6 +1,6 @@
 ---
 name: rom-002-quellenkritik-digesten-institutionen
-description: "Römisches Recht: Quellenkritik Digesten Und Institutionen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Quellenkritik Digesten Und Institutionen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Quellenkritik Digesten Und Institutionen

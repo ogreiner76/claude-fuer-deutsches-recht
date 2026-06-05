@@ -1,13 +1,13 @@
 ---
 name: see-charterparty-register-hypothek-bestellen
-description: "Nutze dies, wenn See 111 Charterparty Register Prüfen, See 112 Charterparty Hypothek Bestellen, See 114 Charterparty Arrest Vorbereiten, See 115 Charterparty Wrackpflicht Prüfen, See 116 Charterparty Versicherung Melden im Plugin Seerecht Schifffahrtsrecht konkret bearbeitet werden soll. Auslöser: Bitte See 111 Charterparty Register Prüfen, See 112 Charterparty Hypothek Bestellen, See 114 Charterparty Arrest Vorbereiten, See 115 Charterparty Wrackpflicht Prüfen, See 116 Charterparty Versicherung Melden prüfen.; Erstelle eine Arbeitsfassung zu See 111 Charterparty Register Prüfen, See 112 Charterparty Hypothek Bestellen, See 114 Charterparty Arrest Vorbereiten, See 115 Charterparty Wrackpflicht Prüfen, See 116 Charterparty Versicherung Melden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei See 111 Charterparty Register Prüfen, See 112 Charterparty Hypothek Bestellen, See 114 Charterparty Arrest Vorbereiten, See 115 Charterparty Wrackpflicht Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # See 111 Charterparty Register Prüfen, See 112 Charterparty Hypothek Bestellen, See 114 Charterparty Arrest Vorbereiten, See 115 Charterparty Wrackpflicht Prüfen, See 116 Charterparty Versicherung Melden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **See 111 Charterparty Register Prüfen, See 112 Charterparty Hypothek Bestellen, See 114 Charterparty Arrest Vorbereiten, See 115 Charterparty Wrackpflicht Prüfen, See 116 Charterparty Versicherung Melden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

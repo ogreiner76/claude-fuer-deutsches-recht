@@ -1,13 +1,13 @@
 ---
 name: arbeitsstrafrecht-266a-aufsichtsbeschwerde
-description: "Nutze dies, wenn Arbeitsstrafrecht 266A Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen, Bekaempfung Organisierte Kriminalitaet im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Arbeitsstrafrecht 266A Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen, Bekaempfung Organisierte Kriminalitaet prüfen.; Erstelle eine Arbeitsfassung zu Arbeitsstrafrecht 266A Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen, Bekaempfung Organisierte Kriminalitaet.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arbeitsstrafrecht 266a Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arbeitsstrafrecht 266A Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen, Bekaempfung Organisierte Kriminalitaet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitsstrafrecht 266A Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen, Bekaempfung Organisierte Kriminalitaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Sozialversicherungsbeiträge, Subunternehmerketten, Lohnunterlagen und Einziehung
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -94,7 +94,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Dienstaufsicht, Sachaufsicht, Aktenvermerk, Bürgerantwort und Deeskalation
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -143,7 +143,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** §§ 24 ff. StPO, Tatsachengrundlage, Zeitpunkt, Begründung und Prozesslage
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -242,7 +242,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Tatkomplexe, Telekommunikation, Vertrauenspersonen, verdeckte Maßnahmen und Abschlussverfügung
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

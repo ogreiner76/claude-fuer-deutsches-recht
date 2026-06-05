@@ -1,13 +1,13 @@
 ---
 name: rueckfragen-mandant-depatisnet
-description: "Nutze dies, wenn Rechtsstand Prüfen, Rueckfragen Mandant, Spezial Depatisnet Verhandlung Vergleich Und Eskalation im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Bitte Rechtsstand Prüfen, Rueckfragen Mandant, Spezial Depatisnet Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Rechtsstand Prüfen, Rueckfragen Mandant, Spezial Depatisnet Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsstand Prüfen, Rueckfragen Mandant, Depatisnet Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Rechtsstand Prüfen, Rueckfragen Mandant, Spezial Depatisnet Verhandlung Vergleich Und Eskalation
+# Rechtsstand Prüfen, Rueckfragen Mandant, Depatisnet Verhandlung Vergleich Und Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsstand Prüfen, Rueckfragen Mandant, Depatisnet Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Rechtsstand Prüfen, Rueckfragen Mandant, Spezial Depatisnet Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsstand Prüfen, Rueckfragen Mandant, Depatisnet Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,12 +42,12 @@ Sicherstellen, dass ein Treffer aus der Recherche **noch in Kraft** ist und sein
 - **Erteilungstag** (grant date) — Veröffentlichung der Erteilung; **ab diesem Tag** Verbietungsrecht.
 - **Schutzdauer-Ende** — Anmeldetag + 20 Jahre (§ 16 PatG, Art. 63 EPÜ). Bei Arzneimittel / PSM: + maximal 5 Jahre SPC nach VO (EG) 469/2009 / VO (EG) 1610/96.
 - **Status:**
-  - **Anhängig / pending** — Anmeldung läuft noch.
-  - **Erteilt / granted / in force** — Patent ist erteilt und in Kraft.
-  - **Zurückgenommen / withdrawn** — Anmelder hat zurückgezogen.
-  - **Zurückgewiesen / refused** — Amt hat zurückgewiesen.
-  - **Erloschen / lapsed** — Schutzdauer abgelaufen oder Jahresgebühren nicht bezahlt.
-  - **Nichtig / revoked** — durch Einspruch oder Nichtigkeitsverfahren beseitigt.
+ - **Anhängig / pending** — Anmeldung läuft noch.
+ - **Erteilt / granted / in force** — Patent ist erteilt und in Kraft.
+ - **Zurückgenommen / withdrawn** — Anmelder hat zurückgezogen.
+ - **Zurückgewiesen / refused** — Amt hat zurückgewiesen.
+ - **Erloschen / lapsed** — Schutzdauer abgelaufen oder Jahresgebühren nicht bezahlt.
+ - **Nichtig / revoked** — durch Einspruch oder Nichtigkeitsverfahren beseitigt.
 
 ## Quellen
 
@@ -86,8 +86,8 @@ Pro Schutzrecht:
 ```yaml
 veroeffentlichungsnummer: EP 3 456 789 B1
 familie:
-  inpadoc_family_id: 12345678
-  prioritaeten: [DE 15.03.2018]
+ inpadoc_family_id: 12345678
+ prioritaeten: [DE 15.03.2018]
 anmeldetag: 14.03.2019
 prioritaetstag: 15.03.2018
 veroeffentlichungstag_anmeldung: 18.09.2019
@@ -96,10 +96,10 @@ schutzdauer_ende: 14.03.2039
 status: erteilt, in Kraft
 anmelder_eingetragen: Siemens AG
 einspruch:
-  laufend: nein
-  abgeschlossen: 12.06.2022 - Einspruch zurückgewiesen
+ laufend: nein
+ abgeschlossen: 12.06.2022 - Einspruch zurückgewiesen
 nichtigkeit:
-  laufend: nein
+ laufend: nein
 validierung_states: [DE, FR, GB, IT, NL]
 jahresgebuehren_bezahlt_bis: 2026
 abrufdatum: 20.05.2026
@@ -298,7 +298,7 @@ Bevor die Rueckfrageliste erstellt wird, klaere:
 # Depatisnet: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Depatisnet: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Depatisnet: Verhandlung, Vergleich und Eskalation / spezial depatisnet verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Depatisnet: Verhandlung, Vergleich und Eskalation / depatisnet verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EPO, WIPO, USPTO, PatG, Art. 54, Art. 56, FTO, CPC, IPC, INPADOC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

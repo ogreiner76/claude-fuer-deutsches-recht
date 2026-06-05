@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-001-normnavigator-jede-norm-karte
-description: "Nutze dies, wenn PrALR: Normnavigator jede PrALR-Norm als Karte erschließen im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Normnavigator jede PrALR-Norm als Karte erschließen prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Normnavigator jede PrALR-Norm als Karte erschließen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Normnavigator jede PrALR-Norm als Karte erschließen

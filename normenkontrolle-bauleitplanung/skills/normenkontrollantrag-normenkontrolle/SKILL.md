@@ -1,13 +1,13 @@
 ---
 name: normenkontrollantrag-normenkontrolle
-description: "Nutze dies, wenn Normenkontrollantrag Schriftsatz, Normenkontrolle Oder Inzidentkontrolle, Planerhaltung 214 215 Baugb im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Normenkontrollantrag Schriftsatz, Normenkontrolle Oder Inzidentkontrolle, Planerhaltung 214 215 Baugb prüfen.; Erstelle eine Arbeitsfassung zu Normenkontrollantrag Schriftsatz, Normenkontrolle Oder Inzidentkontrolle, Planerhaltung 214 215 Baugb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Normenkontrollantrag Schriftsatz, Normenkontrolle Oder Inzidentkontrolle, Planerhaltung 214 215 Baugb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Normenkontrollantrag Schriftsatz, Normenkontrolle Oder Inzidentkontrolle, Planerhaltung 214 215 Baugb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Normenkontrollantrag Schriftsatz, Normenkontrolle Oder Inzidentkontrolle, Planerhaltung 214 215 Baugb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -103,10 +103,10 @@ B. Materielle Mängel
 1. § 1 Abs. 3 BauGB Erforderlichkeit / Planrechtfertigung / Gefälligkeitsplanung
 2. § 8 Abs. 2 BauGB Anpassungsgebot
 3. § 1 Abs. 7 BauGB Abwägung
-   3.1 Abwägungsausfall (Vorfestlegung)
-   3.2 Abwägungsdefizit (übersehene Belange)
-   3.3 Abwägungsfehleinschätzung (falsche Gewichtung)
-   3.4 Abwägungsdisproportionalität (Ergebnis)
+ 3.1 Abwägungsausfall (Vorfestlegung)
+ 3.2 Abwägungsdefizit (übersehene Belange)
+ 3.3 Abwägungsfehleinschätzung (falsche Gewichtung)
+ 3.4 Abwägungsdisproportionalität (Ergebnis)
 4. § 1a Abs. 3 BauGB Eingriffsregelung
 5. § 44 BNatSchG Artenschutz
 6. § 50 BImSchG Trennungsgrundsatz / Lärm
@@ -251,7 +251,7 @@ Erzeuge eine Statthaftigkeitsskizze, Satzungs-Red-Team, Eilantragsskizze, Schrif
 ## Schritt 1 — § 214 Abs. 1 BauGB Verfahrens- und Formfehler
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Abschließende Liste beachtlicher Fehler
 - Verletzung Vorschriften über die Beteiligung (§§ 3 Abs. 2, 4 Abs. 2 BauGB) — nur wenn nach den Umständen offenkundig und Auswirkung
@@ -301,9 +301,9 @@ Erzeuge eine Statthaftigkeitsskizze, Satzungs-Red-Team, Eilantragsskizze, Schrif
 
 ### Strategie Anwältin
 - Wenn Stadt während des Normenkontrollverfahrens "heilen" will:
-  - Prüfen ob das ergänzende Verfahren methodisch korrekt
-  - Prüfen ob der bestehende Mangel heilungsfähig ist (Ergebnis-Fehler nicht)
-  - Prüfen ob Rückwirkung legitim
+ - Prüfen ob das ergänzende Verfahren methodisch korrekt
+ - Prüfen ob der bestehende Mangel heilungsfähig ist (Ergebnis-Fehler nicht)
+ - Prüfen ob Rückwirkung legitim
 - Häufig bricht "Heilung" an formellen Folgemängeln
 
 ## Schritt 5 — § 215 Abs. 1 BauGB Rügefrist
@@ -461,13 +461,13 @@ im Namen unserer Mandantschaft [NAME] rügen wir gemäß § 215 Abs. 1 BauGB
 fristgerecht innerhalb der Jahresfrist ab Bekanntmachung folgende Mängel:
 
 1. Verletzung von § 3 Abs. 2 BauGB — Öffentlichkeitsbeteiligung
-   [KONKRETE BEZEICHNUNG DES MANGELS]
+ [KONKRETE BEZEICHNUNG DES MANGELS]
 
 2. Verletzung von § 4 Abs. 2 BauGB — Behördenbeteiligung
-   [KONKRETE BEZEICHNUNG]
+ [KONKRETE BEZEICHNUNG]
 
 3. Abwägungsdefizit § 1 Abs. 7 i.V.m. § 2 Abs. 3 BauGB
-   [KONKRETE BEZEICHNUNG: welcher Belang übersehen / falsch gewichtet]
+ [KONKRETE BEZEICHNUNG: welcher Belang übersehen / falsch gewichtet]
 
 Wir behalten uns weitere Rügen ausdrücklich vor, soweit uns weiteres
 Akten- und Begründungsmaterial zugänglich wird.

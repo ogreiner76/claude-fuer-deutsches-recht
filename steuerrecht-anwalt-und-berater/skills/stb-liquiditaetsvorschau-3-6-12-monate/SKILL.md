@@ -53,7 +53,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Prüfschema Liquiditätsvorschau
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -79,13 +79,13 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 LIQUIDITÄTSVORSCHAU — [Firma] GmbH
 Stand: [Datum]
 
-| KW | Anfangs-  | + Einzah- | − Auszah- | End-    | Fäll. VB | 3W-Lücke | Quote | Ampel |
-|    | bestand   | lungen    | lungen    | bestand | Folge-KW | kumuliert |  %    |       |
+| KW | Anfangs- | + Einzah- | − Auszah- | End- | Fäll. VB | 3W-Lücke | Quote | Ampel |
+| | bestand | lungen | lungen | bestand | Folge-KW | kumuliert | % | |
 |----+-----------|-----------|-----------|---------|----------|----------|-------|-------|
-| 21 | 18.500    | 42.000    | 47.200    | 13.300  | 61.800   | 48.500   | 78 %  | ROT   |
-| 22 | 13.300    | 51.000    | 45.600    | 18.700  | 38.200   |          |       |       |
-| 23 | 18.700    | 145.000*  | 44.100    | 119.600 |          |          | GRÜN  |       |
-     *Großauftrag-Eingang; Zahlungseingang-Risiko: Base 100 %, Worst 60 %
+| 21 | 18.500 | 42.000 | 47.200 | 13.300 | 61.800 | 48.500 | 78 % | ROT |
+| 22 | 13.300 | 51.000 | 45.600 | 18.700 | 38.200 | | | |
+| 23 | 18.700 | 145.000* | 44.100 | 119.600 | | | GRÜN | |
+ *Großauftrag-Eingang; Zahlungseingang-Risiko: Base 100 %, Worst 60 %
 ```
 
 ## Beweislast
@@ -147,19 +147,19 @@ Datum: [Datum]
 Betreff: Ergebnis Liquiditätsvorschau 13-Wochen — § 17 InsO-Prüfung
 
 1. Ergebnis Ampel-Übersicht:
-   KW [x]: GRÜN (Quote [y] %)
-   KW [x+1]: GELB (Quote [z] % — Zahlungsstockung, voraussichtlich
-              lösbar durch Eingang Rechnung [Rn.] EUR [x] in KW [x+2])
-   KW [x+3]: ROT (Quote [a] % — Zahlungsunfähigkeit § 17 InsO
-              droht, falls Eingang Großauftrag ausbleibt)
+ KW [x]: GRÜN (Quote [y] %)
+ KW [x+1]: GELB (Quote [z] % — Zahlungsstockung, voraussichtlich
+ lösbar durch Eingang Rechnung [Rn.] EUR [x] in KW [x+2])
+ KW [x+3]: ROT (Quote [a] % — Zahlungsunfähigkeit § 17 InsO
+ droht, falls Eingang Großauftrag ausbleibt)
 
 2. Früheste § 17-InsO-Relevanz: KW [x+3] — [Datum]
 
 3. Handlungsempfehlung:
-   a) Sofortige anwaltliche Prüfung der Insolvenzreife beauftragen.
-   b) Bankgespräch zur Linienerweiterung bis [Datum].
-   c) Auftragseingang [Bezeichnung] sichern/beschleunigen.
-   d) Bis KW [x+2] Liquiditätslage neu auswerten.
+ a) Sofortige anwaltliche Prüfung der Insolvenzreife beauftragen.
+ b) Bankgespräch zur Linienerweiterung bis [Datum].
+ c) Auftragseingang [Bezeichnung] sichern/beschleunigen.
+ d) Bis KW [x+2] Liquiditätslage neu auswerten.
 
 Wir stehen für ein persönliches Besprechungsgespräch zur Verfügung.
 Bitte bestätigen Sie Kenntnisnahme dieses Memos schriftlich.
@@ -171,32 +171,32 @@ Bitte bestätigen Sie Kenntnisnahme dieses Memos schriftlich.
 FORTFÜHRUNGSPROGNOSE — [Firma] GmbH — [Datum]
 
 1. Krisenstadium (IDW S 6):
-   [Liquiditätskrise / Ertragskrise / Strategiekrise — begründen]
+ [Liquiditätskrise / Ertragskrise / Strategiekrise — begründen]
 
 2. Krisenursachen:
-   Intern: [z.B. gesunkene Marge, Personalkosten]
-   Extern: [z.B. Nachfragerückgang, Rohstoffpreise]
+ Intern: [z.B. gesunkene Marge, Personalkosten]
+ Extern: [z.B. Nachfragerückgang, Rohstoffpreise]
 
 3. Leitbild des sanierten Unternehmens:
-   [Kerngeschäft; Restrukturierungsmaßnahmen; Ziel-Geschäftsmodell]
+ [Kerngeschäft; Restrukturierungsmaßnahmen; Ziel-Geschäftsmodell]
 
 4. Maßnahmen zur Krisenbewältigung:
-   Innenfinanzierung: [Forderungsabbau, WC-Reduzierung]
-   Außenfinanzierung: [Gesellschafterdarlehen, Bankgespräch]
-   Leistungswirtschaftlich: [Kostenabbau, Produktsortiment]
+ Innenfinanzierung: [Forderungsabbau, WC-Reduzierung]
+ Außenfinanzierung: [Gesellschafterdarlehen, Bankgespräch]
+ Leistungswirtschaftlich: [Kostenabbau, Produktsortiment]
 
 5. Integrierte 24-Monats-Planung:
-   Monat 1–12: Ergebnis [x]; Cashflow [y]; EK [z]
-   Monat 13–24: Ergebnis [a]; Cashflow [b]; EK [c]
+ Monat 1–12: Ergebnis [x]; Cashflow [y]; EK [z]
+ Monat 13–24: Ergebnis [a]; Cashflow [b]; EK [c]
 
 6. Ergebnis Fortführungsprognose:
-   [ ] Positiv — überwiegende Wahrscheinlichkeit der Fortführung
-   [ ] Negativ — Fortführung nicht überwiegend wahrscheinlich
-   Begründung: [...]
+ [ ] Positiv — überwiegende Wahrscheinlichkeit der Fortführung
+ [ ] Negativ — Fortführung nicht überwiegend wahrscheinlich
+ Begründung: [...]
 
 7. Rechtsfolge für § 19 InsO:
-   Positiv: keine Überschuldung, auch bei negativem Eigenkapital.
-   Negativ: Überschuldungsstatus mit Liquidationswerten erforderlich.
+ Positiv: keine Überschuldung, auch bei negativem Eigenkapital.
+ Negativ: Überschuldungsstatus mit Liquidationswerten erforderlich.
 ```
 
 --- vor Versand klaeren ---

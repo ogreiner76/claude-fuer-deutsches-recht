@@ -8,7 +8,7 @@ description: "Letzte Prüfung von Satzung, Einladung, Protokoll, Beschluss, Regi
 ## Aufgabe
 Letzte Prüfung von Satzung, Einladung, Protokoll, Beschluss, Registeranmeldung oder Finanzamtsschreiben.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

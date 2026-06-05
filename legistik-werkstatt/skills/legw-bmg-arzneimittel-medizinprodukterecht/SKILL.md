@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Arzneimittel- und Medizinprodukterecht
-Ressort:            BMG
-Kernnormen:         AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.
-Akteure/Aufsicht:   BfArM; PEI; G-BA; DIMDI/BfArM; Laender-Aufsichten.
-EU/Voelkerrecht:    VO 726/2004; MDR; IVDR; EMA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmg; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Arzneimittel- und Medizinprodukterecht
+Ressort: BMG
+Kernnormen: AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.
+Akteure/Aufsicht: BfArM; PEI; G-BA; DIMDI/BfArM; Laender-Aufsichten.
+EU/Voelkerrecht: VO 726/2004; MDR; IVDR; EMA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: quellen-rechtsprechungscheck-anfangsverdacht
-description: "Nutze dies, wenn Quellen Und Rechtsprechungscheck, Anfangsverdacht Und Verfahrenseinleitung, Beschleunigtes Verfahren 418 Stpo, Frist Und Zustaendigkeit Cockpit, Fristenkalender Staatsanwaltschaft im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Quellen Und Rechtsprechungscheck, Anfangsverdacht Und Verfahrenseinleitung, Beschleunigtes Verfahren 418 Stpo, Frist Und Zustaendigkeit Cockpit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Quellen Und Rechtsprechungscheck, Anfangsverdacht Und Verfahrenseinleitung, Beschleunigtes Verfahren 418 Stpo, Frist Und Zustaendigkeit Cockpit, Fristenkalender Staatsanwaltschaft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Quellen Und Rechtsprechungscheck, Anfangsverdacht Und Verfahrenseinleitung, Beschleunigtes Verfahren 418 Stpo, Frist Und Zustaendigkeit Cockpit, Fristenkalender Staatsanwaltschaft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -145,7 +145,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** einfacher Sachverhalt, Beweislage, Terminlogik, Verteidigung und Fairness
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -244,7 +244,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Haftfristen, Verjährung, Rechtsmittelfristen, Wiedervorlagen und Kontrollvermerke
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

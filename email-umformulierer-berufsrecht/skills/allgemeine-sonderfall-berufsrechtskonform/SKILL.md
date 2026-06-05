@@ -1,13 +1,13 @@
 ---
 name: allgemeine-sonderfall-berufsrechtskonform
-description: "Nutze dies, wenn Spezial Allgemeine Sonderfall Und Edge Case, Spezial Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Spezial Bora Internationaler Bezug Und Schnittstellen im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Allgemeine Sonderfall Und Edge Case, Spezial Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Spezial Bora Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Allgemeine Sonderfall Und Edge Case, Spezial Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Spezial Bora Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Allgemeine Sonderfall Und Edge Case, Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Bora Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Allgemeine Sonderfall Und Edge Case, Spezial Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Spezial Bora Internationaler Bezug Und Schnittstellen
+# Allgemeine Sonderfall Und Edge Case, Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Bora Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Allgemeine Sonderfall Und Edge Case, Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Bora Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Allgemeine Sonderfall Und Edge Case, Spezial Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Spezial Bora Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `email-umformulierer-berufsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Allgemeine Sonderfall Und Edge Case, Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Bora Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `email-umformulierer-berufsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

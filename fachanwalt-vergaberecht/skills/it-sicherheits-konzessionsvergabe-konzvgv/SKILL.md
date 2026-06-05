@@ -1,13 +1,13 @@
 ---
 name: it-sicherheits-konzessionsvergabe-konzvgv
-description: "Nutze dies, wenn Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Fachanwalt Vergaberecht Konzessionsvergabe Konzvgv, Fachanwalt Vergaberecht Losbildung Mittelstandsfoerderung, Fachanwalt Vergaberecht Nachpruefungsantrag Vk** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -121,24 +121,24 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 Der Bieter erklaert:
 
 1. Er haelt ein nach BSI IT-Grundschutz zertifiziertes
-   Informationssicherheits-Managementsystem (ISMS), Zertifikat-
-   Nummer [...], gueltg bis [...], Zertifizierungsstelle [...].
-   Zertifikat liegt als Anlage [X] bei.
+ Informationssicherheits-Managementsystem (ISMS), Zertifikat-
+ Nummer [...], gueltg bis [...], Zertifizierungsstelle [...].
+ Zertifikat liegt als Anlage [X] bei.
 
 2. Er haelt eine ISO/IEC 27001:2022-Zertifizierung fuer den in
-   diesem Angebot bezeichneten Leistungsbereich; Zertifikat
-   liegt als Anlage [X] bei.
+ diesem Angebot bezeichneten Leistungsbereich; Zertifikat
+ liegt als Anlage [X] bei.
 
 3. Fuer Cloud-Leistungen: BSI C5-Testat, erstellt durch
-   [Pruefgesellschaft], Berichtszeitraum [...], Berichtstyp Typ 2.
-   Anlage [X].
+ [Pruefgesellschaft], Berichtszeitraum [...], Berichtstyp Typ 2.
+ Anlage [X].
 
 4. Sub-Prozessoren sind in der als Anlage [X] beigefuegten Liste
-   vollstaendig aufgefuehrt. Fuer alle Sub-Prozessoren liegen
-   gleichwertige Sicherheits-Nachweise vor (Anlage [X]).
+ vollstaendig aufgefuehrt. Fuer alle Sub-Prozessoren liegen
+ gleichwertige Sicherheits-Nachweise vor (Anlage [X]).
 
 5. Datenverarbeitungsvertrag gemaess Art. 28 DSGVO liegt als
-   Anlage [X] bei.
+ Anlage [X] bei.
 ```
 
 ### Baustein 2 — Vertragsklausel IT-Sicherheitspflichten
@@ -185,10 +185,10 @@ gehender Schadensersatz bleibt vorbehalten.
 ### Baustein 3 — Rüge wegen überzogener Sicherheitsanforderungen (Bieterseite)
 
 ```
-An [Vergabestelle]                                [Datum]
+An [Vergabestelle] [Datum]
 Betr.: Vergabeverfahren [Titel], Az. [...]
-       Ruege gemaess § 160 Abs. 3 GWB — ueberzogene Sicherheits-
-       anforderungen
+ Ruege gemaess § 160 Abs. 3 GWB — ueberzogene Sicherheits-
+ anforderungen
 
 Sehr geehrte Damen und Herren,
 
@@ -198,22 +198,22 @@ Hiermit ruegeon wir unverzueglich folgende Vergabeverstoeße:
 
 1. Verstoß gegen § 122 Abs. 4 GWB (Verhaeltnismaessigkeit)
 
-   Die Vergabeunterlage (Punkt [X]) fordert ein BSI C5-Typ-2-
-   Testat mit Berichtszeitraum von mindestens 12 Monaten. Diese
-   Anforderung ist fuer den Auftragsgegenstand ([kurze Beschreibung])
-   unverhaaltnismaessig, weil:
+ Die Vergabeunterlage (Punkt [X]) fordert ein BSI C5-Typ-2-
+ Testat mit Berichtszeitraum von mindestens 12 Monaten. Diese
+ Anforderung ist fuer den Auftragsgegenstand ([kurze Beschreibung])
+ unverhaaltnismaessig, weil:
 
-   - Der Auftraggeber ist kein KRITIS-Betreiber gemaess § 2 BSIG
-     in Sektor [...] oder die Anforderung uebersteigt den tat-
-     saechlichen Schutzbedarf (Anlage: Schutzbedarfsfeststellung
-     nicht oeffentlich zugaenglich).
-   - ISO 27001:2022 Typ 1 genuegt fuer den konkreten Leistungsumfang
-     (vgl. VK Bund VK 2-71/23).
-   - Das Erfordernis schliesst faktisch alle Bieter bis auf [X]
-     grosse Cloud-Anbieter aus — diskriminierende Wirkung.
+ - Der Auftraggeber ist kein KRITIS-Betreiber gemaess § 2 BSIG
+ in Sektor [...] oder die Anforderung uebersteigt den tat-
+ saechlichen Schutzbedarf (Anlage: Schutzbedarfsfeststellung
+ nicht oeffentlich zugaenglich).
+ - ISO 27001:2022 Typ 1 genuegt fuer den konkreten Leistungsumfang
+ (vgl. VK Bund VK 2-71/23).
+ - Das Erfordernis schliesst faktisch alle Bieter bis auf [X]
+ grosse Cloud-Anbieter aus — diskriminierende Wirkung.
 
 2. Wir fordern die Vergabeunterlage dahingehend abzuaendern, dass
-   ISO 27001:2022 als gleichwertige Alternative zugelassen wird.
+ ISO 27001:2022 als gleichwertige Alternative zugelassen wird.
 
 Mit freundlichen Gruessen
 [Kanzlei]
@@ -297,19 +297,19 @@ Ruege — IT-Sicherheitsanforderungen
 Vergabe: [BEZEICHNUNG]
 
 1. Verstoss:
-   Die geforderte [BSI-Zertifizierung / CC-Zertifizierung]
-   auf Stufe [X] ist unverhaaltnismaessig, weil:
-   a) Der Auftragsgegenstand erfordert diese Stufe nicht.
-   b) Der Markt bietet keine ausreichende Anzahl von
-      Bietern mit dieser Zertifizierung (Diskriminierung).
+ Die geforderte [BSI-Zertifizierung / CC-Zertifizierung]
+ auf Stufe [X] ist unverhaaltnismaessig, weil:
+ a) Der Auftragsgegenstand erfordert diese Stufe nicht.
+ b) Der Markt bietet keine ausreichende Anzahl von
+ Bietern mit dieser Zertifizierung (Diskriminierung).
 
 2. Normen:
-   § 122 Abs. 4 GWB (Eignungsanforderungen verhaeltnismaessig)
-   § 97 Abs. 2 GWB (Gleichbehandlung)
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ § 122 Abs. 4 GWB (Eignungsanforderungen verhaeltnismaessig)
+ § 97 Abs. 2 GWB (Gleichbehandlung)
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. Antrag:
-   Abaenderung der Eignungsanforderung auf [angemessene Stufe].
+ Abaenderung der Eignungsanforderung auf [angemessene Stufe].
 
 [Rechtsanwalt/-anwaeltin]
 ```
@@ -340,7 +340,7 @@ Halluzinations-Reparatur Bundle 026:
 ## Aufgabe
 Bau- oder Dienstleistungskonzession nach KonzVgV strukturieren oder eine angegriffene Konzessionsvergabe verteidigen. Abgrenzungs-Kernfrage: Konzession (Betriebsrisiko beim Konzessionaer) vs. oeffentlicher Auftrag (Festentgelt).
 
-## Kaltstart
+## Einstieg
 1. Konzessionsgegenstand: Bau (Errichtung + Betrieb) oder Dienstleistung (Betrieb mit Entgelt von Dritten)?
 2. Wer traegt das Betriebsrisiko (Nachfragerisiko, Angebotsrisiko)?
 3. Auftragswert oberhalb EUR 5404000 ab 01.01.2026 (geschaetzter Gesamtumsatz Konzessionaer waehrend Laufzeit)?
@@ -411,7 +411,7 @@ EuGH-Entscheidungen zur Konzessionsabgrenzung ueber curia.europa.eu verifizieren
 ## Aufgabe
 Losbildung im Vergabeverfahren strukturieren oder eine fehlerhafte Gesamtvergabe ruegen. Schluesselregel: Aufteilung in Lose ist Grundsatz, Gesamtvergabe bedarf Begruendung.
 
-## Kaltstart
+## Einstieg
 1. Auftraggeber- oder Bieter-Mandat?
 2. Auftragsumfang: einheitliche Leistung oder klar trennbare Teilleistungen?
 3. Bekanntmachung schon erfolgt? Losbildung dort schon dokumentiert?
@@ -570,32 +570,32 @@ gemäß §§ 160 ff. GWB
 [Ort], [Datum]
 
 Antragsteller: [Firma], [Adresse], vertreten durch [GF],
-               Prozessbevollmächtigte: Rechtsanwälte [...]
+ Prozessbevollmächtigte: Rechtsanwälte [...]
 
 Antragsgegner: [Auftraggeber], [Adresse]
 
-Beigeladene:   [Zuschlagskandidat], [Adresse]
+Beigeladene: [Zuschlagskandidat], [Adresse]
 
 I. ANTRÄGE
 
 Es wird beantragt:
 
 1. Dem Antragsgegner wird untersagt, in dem Vergabeverfahren
-   "[Titel]", Az. [VgV-Nr.], den Zuschlag auf das Angebot der
-   Beigeladenen zu erteilen.
+ "[Titel]", Az. [VgV-Nr.], den Zuschlag auf das Angebot der
+ Beigeladenen zu erteilen.
 
 2. Dem Antragsgegner wird aufgegeben, das Vergabeverfahren in
-   den Stand vor der [Eignungsentscheidung / Wertung] vom
-   [Datum] zurückzuversetzen und unter Beachtung der Rechts-
-   auffassung der Vergabekammer fortzuführen.
+ den Stand vor der [Eignungsentscheidung / Wertung] vom
+ [Datum] zurückzuversetzen und unter Beachtung der Rechts-
+ auffassung der Vergabekammer fortzuführen.
 
 3. Dem Antragsteller wird vollständige Akteneinsicht gemäß
-   § 165 GWB gewährt.
+ § 165 GWB gewährt.
 
 4. Die Kosten des Verfahrens trägt der Antragsgegner.
 
 5. Die Hinzuziehung eines Rechtsanwalts durch den Antragsteller
-   wird für notwendig erklärt (§ 182 Abs. 4 GWB).
+ wird für notwendig erklärt (§ 182 Abs. 4 GWB).
 
 II. SACHVERHALT
 
@@ -626,8 +626,8 @@ EUR [X] (Angebotskalkulation Anlage K3).
 IV. BEGRÜNDETHEIT
 
 1. Verstoß gegen § [122 / 127] GWB:
-   [Konkreter Vorwurf mit Belegen: Seitenzahl Vergabeunterlagen,
-    Angebot des Konkurrenten soweit bekannt]
+ [Konkreter Vorwurf mit Belegen: Seitenzahl Vergabeunterlagen,
+ Angebot des Konkurrenten soweit bekannt]
 
 2. [Weiterer Verstoß]
 
@@ -776,21 +776,21 @@ N A C H P R U E F U N G S A N T R A G
 
 nach §§ 160 ff. GWB
 
-Antragsteller:    [NAME BIETER], [ANSCHRIFT]
-                  - vertr. d. [Rechtsanwalt/-anwaeltin] -
-Antragsgegner:    [AUFTRAGGEBER / VERGABESTELLE], [ANSCHRIFT]
-Beigeladene:      [BEZEICHNETER BIETER falls bekannt]
-Az. Verfahren:    [TED-Nr. / Vergabe-Az.]
+Antragsteller: [NAME BIETER], [ANSCHRIFT]
+ - vertr. d. [Rechtsanwalt/-anwaeltin] -
+Antragsgegner: [AUFTRAGGEBER / VERGABESTELLE], [ANSCHRIFT]
+Beigeladene: [BEZEICHNETER BIETER falls bekannt]
+Az. Verfahren: [TED-Nr. / Vergabe-Az.]
 
 1. Antraege:
 a) Die Antragsgegnerin wird verpflichtet, das Vergabeverfahren
-   in den Stand vor [VERSTOSS] zurueckzuversetzen und die Wertung
-   unter Beachtung der Rechtsauffassung der Vergabekammer
-   zu wiederholen.
+ in den Stand vor [VERSTOSS] zurueckzuversetzen und die Wertung
+ unter Beachtung der Rechtsauffassung der Vergabekammer
+ zu wiederholen.
 b) Der Antragsgegnerin wird untersagt, den Zuschlag zu erteilen,
-   bis ueber diesen Antrag entschieden wurde.
+ bis ueber diesen Antrag entschieden wurde.
 c) Der Antragsgegnerin werden die Kosten des Verfahrens
-   auferlegt.
+ auferlegt.
 
 2. Sachverhalt:
 [Chronologische Darstellung; Vergabeverfahren, Angebot, Verstoss]

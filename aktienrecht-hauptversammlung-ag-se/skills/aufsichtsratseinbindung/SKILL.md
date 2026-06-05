@@ -1,22 +1,22 @@
 ---
 name: aufsichtsratseinbindung
-description: "Nutze dies, wenn Aufsichtsratseinbindung, Aufsichtsratsverguetung, Aufsichtsratswahl, Auskunftsrecht 131 Aktg im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Aufsichtsratseinbindung, Aufsichtsratsverguetung, Aufsichtsratswahl, Auskunftsrecht 131 Aktg prüfen.; Erstelle eine Arbeitsfassung zu Aufsichtsratseinbindung, Aufsichtsratsverguetung, Aufsichtsratswahl, Auskunftsrecht 131 Aktg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aufsichtsratseinbindung, Aufsichtsratsverguetung, Aufsichtsratswahl, Auskunftsrecht 131 Aktg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aufsichtsratseinbindung, Aufsichtsratsverguetung, Aufsichtsratswahl, Auskunftsrecht 131 Aktg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aufsichtsratseinbindung, Aufsichtsratsverguetung, Aufsichtsratswahl, Auskunftsrecht 131 Aktg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `aufsichtsratseinbindung` | Hauptversammlung AG und SE: Aufsichtsratseinbindung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsratsverguetung` | Hauptversammlung AG und SE: Aufsichtsratsverguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsratswahl` | Hauptversammlung AG und SE: Aufsichtsratswahl; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `auskunftsrecht-131-aktg` | Hauptversammlung AG und SE: Auskunftsrecht 131 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsratseinbindung` | Hauptversammlung AG und SE: Aufsichtsratseinbindung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsratsverguetung` | Hauptversammlung AG und SE: Aufsichtsratsverguetung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsratswahl` | Hauptversammlung AG und SE: Aufsichtsratswahl; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `auskunftsrecht-131-aktg` | Hauptversammlung AG und SE: Auskunftsrecht 131 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Aufsichtsratseinbindung, Aufsichtsratsverguetung, Aufsichtsratswahl, Ausk
 
 ## 1. `aufsichtsratseinbindung`
 
-**Fokus:** Hauptversammlung AG und SE: Aufsichtsratseinbindung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Aufsichtsratseinbindung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsratseinbindung
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `aufsichtsratsverguetung`
 
-**Fokus:** Hauptversammlung AG und SE: Aufsichtsratsverguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Aufsichtsratsverguetung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsratsverguetung
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `aufsichtsratswahl`
 
-**Fokus:** Hauptversammlung AG und SE: Aufsichtsratswahl; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Aufsichtsratswahl; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsratswahl
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `auskunftsrecht-131-aktg`
 
-**Fokus:** Hauptversammlung AG und SE: Auskunftsrecht 131 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Auskunftsrecht 131 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Auskunftsrecht 131 Aktg
 

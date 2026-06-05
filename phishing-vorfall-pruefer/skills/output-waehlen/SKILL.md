@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Phishing Vorfall Prüfer** ein Fall noch s
 ## Fachlandkarte dieses Plugins
 
 - `675u-675w-banking` — 675u 675w Banking
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `arbeitnehmer-haftung-bgb-675u-phish-ceo` — Arbeitnehmer Haftung Bgb 675u Phish Ceo
 - `aufsicht-bafin-bank-strategie-banking-app` — Aufsicht Bafin Bank Strategie Banking App
 - `bankpflichten-beweislast-beweislast-bgb` — Bankpflichten Beweislast Beweislast Bgb

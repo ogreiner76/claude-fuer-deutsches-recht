@@ -1,22 +1,22 @@
 ---
 name: ad-hoc-typ-kleine-aktienrueckkauf
-description: "Nutze dies, wenn Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief prüfen.; Erstelle eine Arbeitsfassung zu Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `ad-hoc-am-hv-tag` | Hauptversammlung AG und SE: Ad Hoc Am HV Tag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `ag-typ-kleine-normale-boersennotierte-ag-se` | Hauptversammlung AG und SE: AG Typ Kleine Normale Boersennotierte AG SE; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aktienrueckkauf` | Hauptversammlung AG und SE: Aktienrueckkauf; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aktionaersbrief` | Hauptversammlung AG und SE: Aktionaersbrief; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ad-hoc-am-hv-tag` | Hauptversammlung AG und SE: Ad Hoc Am HV Tag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ag-typ-kleine-normale-boersennotierte-ag-se` | Hauptversammlung AG und SE: AG Typ Kleine Normale Boersennotierte AG SE; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aktienrueckkauf` | Hauptversammlung AG und SE: Aktienrueckkauf; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aktionaersbrief` | Hauptversammlung AG und SE: Aktionaersbrief; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienruec
 
 ## 1. `ad-hoc-am-hv-tag`
 
-**Fokus:** Hauptversammlung AG und SE: Ad Hoc Am HV Tag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Ad Hoc Am HV Tag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Ad Hoc Am HV Tag
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `ag-typ-kleine-normale-boersennotierte-ag-se`
 
-**Fokus:** Hauptversammlung AG und SE: AG Typ Kleine Normale Boersennotierte AG SE; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: AG Typ Kleine Normale Boersennotierte AG SE; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # AG Typ Kleine Normale Boersennotierte AG SE
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `aktienrueckkauf`
 
-**Fokus:** Hauptversammlung AG und SE: Aktienrueckkauf; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Aktienrueckkauf; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aktienrueckkauf
 
@@ -201,7 +201,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `aktionaersbrief`
 
-**Fokus:** Hauptversammlung AG und SE: Aktionaersbrief; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Aktionaersbrief; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aktionaersbrief
 

@@ -1,13 +1,13 @@
 ---
 name: umv-bebauungsplan-monitoring-kommunikation
-description: "Nutze dies, wenn Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen im Plugin Umweltschutzverband Verbandsklage konkret bearbeitet werden soll. Auslöser: Bitte Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen prüfen.; Erstelle eine Arbeitsfassung zu Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Prüfen, Umv 052 Industrieanlage Einwendung Bauen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

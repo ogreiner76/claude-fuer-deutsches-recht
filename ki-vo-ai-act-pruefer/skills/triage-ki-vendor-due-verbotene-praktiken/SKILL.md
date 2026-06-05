@@ -1,19 +1,19 @@
 ---
 name: triage-ki-vendor-due-verbotene-praktiken
-description: "Nutze dies, wenn Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten prüfen.; Erstelle eine Arbeitsfassung zu Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `triage-ki-vo-vorpruefung` | Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder Beratungsanfrage. Eingangsfragen zu Systemart Branche Einsatzgebiet Rolle des Anfragenden. Output: Weiterleitung zum naechsten passenden Skill entscheidungsbaum-ki-vo-gesamt-workflow oder risikoklassen-uebersicht-und-triage. Warnt vor typischen Fehlzuordnungen. Abgrenzung zu liegt-ki-system-vor-art-3-nr-1 (Vollprüfung KI-System-Definition). |
+| `triage-ki-vo-vorpruefung` | Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder Beratungsanfrage. Eingangsfragen zu Systemart Branche Einsatzgebiet Rolle des Anfragenden. Output: Weiterleitung zum naechsten passenden Skill entscheidungsbaum-ki-vo-gesamt-oder risikoklassen-uebersicht-und-triage. Warnt vor typischen Fehlzuordnungen. Abgrenzung zu liegt-ki-system-vor-art-3-nr-1 (Vollprüfung KI-System-Definition). |
 | `vendor-due-diligence-ai-act-beschaffung` | KI-Beschaffung und Vendor Due Diligence: Anbieterrolle, Hochrisiko, GPAI, Datenschutz, Urheberrecht, Security, Unterauftragnehmer, Audit-Rechte, Exit, Incident-Meldung und Vertragsanlagen fuer Einkauf und Legal. |
 | `verbotene-praktiken-art-5` | Unternehmen prüft ob ein KI-Einsatz in den Bereich der absolut verbotenen KI-Praktiken faellt. Art. 5 KI-VO Verbotskatalog. Prüfraster: alle acht verbotenen Praktiken subliminale Techniken Vulnerabilitaetsausnutzung Social Scoring Predictive Policing biometrisches Categorisierung Echtzeit-RBI öffentlicher Raum Emotionserkennung Arbeitsplatz Untargeted Scraping Gesichtsdatenbanken. Output: Entscheidungsbaum je Verbotspraktik mit Begründung. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (Hochrisiko nicht verboten aber reguliert) und sachlicher-ausschluss-art-2-abs-3-bis-12. |
 | `verhaeltnis-zu-anderen-unionsrechtsakten` | Anwalt oder Compliance-Beauftragter fragt: Gilt neben der KI-VO noch ein anderes EU-Gesetz für das gleiche System und wie interagieren die Pflichten? Art. 2 Abs. 2 KI-VO Verhältnis zu anderen Rechtsakten. Prüfraster: DSGVO Maschinenverordnung Produktsicherheits-VO MDR IVDR NIS-2 Cyber Resilience Act Kumulationseffekte Spezialitaet Verweisregelungen Doppelpflichten. Output: Normen-Konflikt-Matrix und Handlungsempfehlung. Abgrenzung zu falsche-wiese-warnung-ki-vo (Abgrenzung bei klaren Verwechslungen) und territorialer-anwendungsbereich-art-2. |
@@ -27,13 +27,13 @@ Für **Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbot
 
 ## 1. `triage-ki-vo-vorpruefung`
 
-**Fokus:** Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder Beratungsanfrage. Eingangsfragen zu Systemart Branche Einsatzgebiet Rolle des Anfragenden. Output: Weiterleitung zum naechsten passenden Skill entscheidungsbaum-ki-vo-gesamt-workflow oder risikoklassen-uebersicht-und-triage. Warnt vor typischen Fehlzuordnungen. Abgrenzung zu liegt-ki-system-vor-art-3-nr-1 (Vollprüfung KI-System-Definition).
+**Fokus:** Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder Beratungsanfrage. Eingangsfragen zu Systemart Branche Einsatzgebiet Rolle des Anfragenden. Output: Weiterleitung zum naechsten passenden Skill entscheidungsbaum-ki-vo-gesamt-oder risikoklassen-uebersicht-und-triage. Warnt vor typischen Fehlzuordnungen. Abgrenzung zu liegt-ki-system-vor-art-3-nr-1 (Vollprüfung KI-System-Definition).
 
 # Triage: KI-VO-Vorprüfung — Was prüft der Nutzer?
 
 ## Zweck
 
-Dieser Skill ist der Einstiegspunkt in den vollständigen Prüfungsworkflow der Verordnung (EU) 2024/1689 (KI-VO). Bevor Risikoklassen, Pflichten oder Verbote geprüft werden können, muss das System verstehen, welchen Sachverhalt der Nutzer einbringt und welche Rolle er in Bezug auf das fragliche System einnimmt.
+Dieser Skill ist der Einstiegspunkt in den vollständigen Prüfungsder Verordnung (EU) 2024/1689 (KI-VO). Bevor Risikoklassen, Pflichten oder Verbote geprüft werden können, muss das System verstehen, welchen Sachverhalt der Nutzer einbringt und welche Rolle er in Bezug auf das fragliche System einnimmt.
 
 ## Eingangsfragen
 
@@ -80,7 +80,7 @@ Das System prüft auf Basis der Eingaben:
 
 - Das System akzeptiert keine fiktiven Testdaten oder Mustersachverhalte.
 - Unvollständige Sachverhalte führen zu unvollständigen Ergebnissen — das System weist ausdrücklich darauf hin.
-- Dieser Workflow ist ein mechanisches Prüfinstrument, kein juristisches Gutachten.
+- Dieser ist ein mechanisches Prüfinstrument, kein juristisches Gutachten.
 
 ## Warnblock
 
@@ -123,7 +123,7 @@ Gepruefte Norm(en): [Art. 2 Rn. 1]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -417,7 +417,7 @@ Gepruefte Norm(en): [Art. 2 Abs. 7 Rn. 5]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

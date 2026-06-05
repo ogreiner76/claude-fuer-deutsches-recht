@@ -1,6 +1,6 @@
 ---
 name: fahrlaessigkeit-fehlerkatalog
-description: "Nutze dies, wenn Fahrlaessigkeit Fehlerkatalog im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Fahrlaessigkeit Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Fahrlaessigkeit Fehlerkatalog

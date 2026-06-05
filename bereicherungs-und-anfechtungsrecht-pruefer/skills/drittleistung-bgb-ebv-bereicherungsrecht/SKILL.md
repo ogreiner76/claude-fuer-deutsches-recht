@@ -1,13 +1,13 @@
 ---
 name: drittleistung-bgb-ebv-bereicherungsrecht
-description: "Nutze dies, wenn Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentumsnutzung Und Sachenrechtliche Zuweisung, Eingriff In Namen Bild Und Persoenlichkeitswert im Plugin Bereicherungs Und Anfechtungsrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentumsnutzung Und Sachenrechtliche Zuweisung, Eingriff In Namen Bild Und Persoenlichkeitswert prüfen.; Erstelle eine Arbeitsfassung zu Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentumsnutzung Und Sachenrechtliche Zuweisung, Eingriff In Namen Bild Und Persoenlichkeitswert.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentumsnutzung Und Sachenrechtliche Zuweisung, Eingriff In Namen Bild Und Persoenlichkeitswert: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentumsnutzung Und Sachenrechtliche Zuweisung, Eingriff In Namen Bild Und Persoenlichkeitswert
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Drittleistung 267 Bgb Und Rueckgriff, Ebv Und Bereicherungsrecht, Eigentumsnutzung Und Sachenrechtliche Zuweisung, Eingriff In Namen Bild Und Persoenlichkeitswert** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -166,22 +166,22 @@ Nutze diesen Skill, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit §§ 8
 - **Voraussetzung:** Eigentümer X gegen Besitzer Y; kein Besitzrecht (Y ist „unrechtmäßiger Besitzer").
 - **Vindikation § 985 BGB:** Herausgabe der Sache.
 - **§§ 987 ff. BGB Folgeansprüche:**
-  - § 987 BGB Nutzungen bei verklagtem oder bösgläubigem Besitzer.
-  - § 989 BGB Schadensersatz bei verklagtem oder bösgläubigem Besitzer.
-  - § 990 BGB Bösgläubigkeit — Kenntnis vom Fehlen des Besitzrechts oder grob fahrlässige Unkenntnis.
-  - § 993 BGB redlicher und unverklagter Besitzer: nur tatsächlich gezogene Übermaß-Nutzungen, kein Schadensersatz.
+ - § 987 BGB Nutzungen bei verklagtem oder bösgläubigem Besitzer.
+ - § 989 BGB Schadensersatz bei verklagtem oder bösgläubigem Besitzer.
+ - § 990 BGB Bösgläubigkeit — Kenntnis vom Fehlen des Besitzrechts oder grob fahrlässige Unkenntnis.
+ - § 993 BGB redlicher und unverklagter Besitzer: nur tatsächlich gezogene Übermaß-Nutzungen, kein Schadensersatz.
 - **Verwendungen §§ 994 ff. BGB:**
-  - § 994 BGB notwendige Verwendungen — bei verklagtem/bösgläubigem Besitzer voller Ersatz, bei redlichem nur freiwillig erbrachte zwingende Verwendungen.
-  - § 996 BGB nützliche Verwendungen — nur wenn Eigentümer Besitz übernimmt.
+ - § 994 BGB notwendige Verwendungen — bei verklagtem/bösgläubigem Besitzer voller Ersatz, bei redlichem nur freiwillig erbrachte zwingende Verwendungen.
+ - § 996 BGB nützliche Verwendungen — nur wenn Eigentümer Besitz übernimmt.
 
 ## Konkurrenz zu §§ 812 ff. BGB
 
 - **Sperrwirkung des EBV:** Im Anwendungsbereich der §§ 987 ff. BGB sind Bereicherungs- und Deliktsansprüche grundsätzlich **gesperrt** (h.M.). Schutzwertung: Besitzschutz und privilegierte Haftung des redlichen Besitzers.
 - **Ausnahmen** (Bereicherungsrecht greift trotz EBV):
-  - **Fremdbesitzerexzess:** Besitzer überschreitet sein vermeintliches Recht (z. B. Mieter zerstört Sache mutwillig).
-  - **Aufgedrängte Verwendungen:** Verwendungen außerhalb §§ 994 ff. BGB — Bereicherungsausgleich nach § 812 BGB i.V.m. § 1001 BGB (umstritten).
-  - **§ 988 BGB unentgeltlich erlangter Besitz:** EBV greift, aber Verzahnung mit Bereicherungsrecht über Verweisung.
-  - **Verfügung eines Nichtberechtigten § 816 BGB:** vorrangiger Spezialtatbestand, kein EBV-Konflikt bei Drittverfügung.
+ - **Fremdbesitzerexzess:** Besitzer überschreitet sein vermeintliches Recht (z. B. Mieter zerstört Sache mutwillig).
+ - **Aufgedrängte Verwendungen:** Verwendungen außerhalb §§ 994 ff. BGB — Bereicherungsausgleich nach § 812 BGB i.V.m. § 1001 BGB (umstritten).
+ - **§ 988 BGB unentgeltlich erlangter Besitz:** EBV greift, aber Verzahnung mit Bereicherungsrecht über Verweisung.
+ - **Verfügung eines Nichtberechtigten § 816 BGB:** vorrangiger Spezialtatbestand, kein EBV-Konflikt bei Drittverfügung.
 
 ## Praktische Empfehlung
 
@@ -267,22 +267,22 @@ Nutze diesen Skill, wenn fremdes Eigentum wirtschaftlich genutzt wurde. Der Skil
 - **Tatbestand:** „in sonstiger Weise" auf Kosten eines anderen — Erlangung eines Vorteils ohne dass der andere selbst geleistet hat.
 - **Zuweisungsgehalt (Theorie der Eingriffskondiktion):** Erlangter Vorteil muss aus einer dem Anspruchsteller rechtlich zugewiesenen Position stammen.
 - **Klassische zuweisungsgehaltreiche Positionen:**
-  - **Eigentum § 903 BGB:** Nutzung fremder Sache, Verbrauch, Verfügung.
-  - **Beschränkte dingliche Rechte:** Nießbrauch §§ 1030 ff. BGB, Grunddienstbarkeit §§ 1018 ff. BGB.
-  - **Persönlichkeitsrechte:** Recht am eigenen Bild § 22 KUG, Namensrecht § 12 BGB.
-  - **Immaterialgüterrechte:** Patent, Marke, Urheberrecht, GebrM.
+ - **Eigentum § 903 BGB:** Nutzung fremder Sache, Verbrauch, Verfügung.
+ - **Beschränkte dingliche Rechte:** Nießbrauch §§ 1030 ff. BGB, Grunddienstbarkeit §§ 1018 ff. BGB.
+ - **Persönlichkeitsrechte:** Recht am eigenen Bild § 22 KUG, Namensrecht § 12 BGB.
+ - **Immaterialgüterrechte:** Patent, Marke, Urheberrecht, GebrM.
 - **Negativ — kein Zuweisungsgehalt:**
-  - Reine wettbewerbliche Position (str.).
-  - Allgemeine Marktchance, Lauterkeit (kein Bereicherungsanspruch, sondern UWG).
+ - Reine wettbewerbliche Position (str.).
+ - Allgemeine Marktchance, Lauterkeit (kein Bereicherungsanspruch, sondern UWG).
 
 ## Rechtsfolge — Lizenzanalogie
 
 - **Wertersatz § 818 Abs. 2 BGB:** Bei nicht-zurückgebbarem Vorteil (Nutzungsvorteil ist konsumiert) Wertersatz in Geld.
 - **Maßstab:** **Marktüblicher Lizenzpreis** für die konkret in Anspruch genommene Nutzung (Lizenzanalogie). Bei Eigentumsnutzung Mietzins; bei Patenten Lizenzgebühren; bei Urheberrecht GEMA-Sätze oder Vergleichsverträge.
 - **Drei-fache Berechnungsmethode** (Wahlrecht des Geschädigten — i.d.R. Immaterialgüterrechte):
-  1. Konkreter Schaden + entgangener Gewinn (§ 252 BGB).
-  2. Verletzergewinn (§ 687 Abs. 2 i.V.m. §§ 681, 667 BGB analog).
-  3. Lizenzanalogie (§ 812 BGB).
+ 1. Konkreter Schaden + entgangener Gewinn (§ 252 BGB).
+ 2. Verletzergewinn (§ 687 Abs. 2 i.V.m. §§ 681, 667 BGB analog).
+ 3. Lizenzanalogie (§ 812 BGB).
 
 ## Konkurrenz und Abgrenzung
 
@@ -379,18 +379,18 @@ Nutze diesen Skill, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genu
 ## Schrankenfrei vs. zustimmungspflichtig
 
 - **§ 23 KUG-Ausnahmen** (Bildverwendung zulässig ohne Einwilligung):
-  - Bilder aus dem Bereich der Zeitgeschichte (§ 23 Abs. 1 Nr. 1 KUG) — abgestufte Wertung BVerfG/BGH.
-  - Bilder als Beiwerk (Nr. 2), Versammlungen/Aufzüge (Nr. 3), höhere Interessen der Kunst (Nr. 4).
-  - **Schranke der Schranke § 23 Abs. 2 KUG:** berechtigte Interessen des Abgebildeten dürfen nicht verletzt werden.
+ - Bilder aus dem Bereich der Zeitgeschichte (§ 23 Abs. 1 Nr. 1 KUG) — abgestufte Wertung BVerfG/BGH.
+ - Bilder als Beiwerk (Nr. 2), Versammlungen/Aufzüge (Nr. 3), höhere Interessen der Kunst (Nr. 4).
+ - **Schranke der Schranke § 23 Abs. 2 KUG:** berechtigte Interessen des Abgebildeten dürfen nicht verletzt werden.
 - **Kommerzielle Nutzung:** nahezu immer zustimmungspflichtig, da kein § 23 Abs. 1 KUG.
 
 ## Eingriffskondiktion — Berechnung
 
 - **Lizenzanalogie:** marktübliche Lizenzgebühr für vergleichbare Werbeverträge (Prominente, Kategorie, Umfang der Nutzung — Print, TV, Online, Dauer, Reichweite).
 - **Drei-fache Berechnungsmethode** (BGH-Linie zu Immaterialgüterrechten und Persönlichkeitsrechten):
-  1. Konkreter Schaden.
-  2. Verletzergewinn.
-  3. Lizenzanalogie.
+ 1. Konkreter Schaden.
+ 2. Verletzergewinn.
+ 3. Lizenzanalogie.
 - **Gewinnabschöpfung:** bei vorsätzlich-sittenwidriger Verletzung höhere Werte zulässig.
 
 ## Konkurrenz und parallele Ansprüche

@@ -136,11 +136,11 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Quellensteuer, Erstattung, MLI-Anwendung.
 3. **Kurzantwort**: DBA-CSSR (Tschechien) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-CSSR; Fortgeltungs-Bekanntmachung BGBl. 1993 II S. 762).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel mit Quellensteuersatz.
-   - Methodenartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig bei verbundenen Unternehmen.
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-CSSR; Fortgeltungs-Bekanntmachung BGBl. 1993 II S. 762).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel mit Quellensteuersatz.
+ - Methodenartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig bei verbundenen Unternehmen.
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: § 50d Abs. 3 EStG, MLI ab 01.01.2026, Sozialversicherungs-Doppelbesteuerung.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

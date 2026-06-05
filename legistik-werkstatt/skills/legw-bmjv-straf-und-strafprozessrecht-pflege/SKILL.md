@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Straf- und Strafprozessrecht-Pflege
-Ressort:            BMJV
-Kernnormen:         StGB; StPO; OWiG; JGG; GVG; EGStGB.
-Akteure/Aufsicht:   BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.
-EU/Voelkerrecht:    Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmjv; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Straf- und Strafprozessrecht-Pflege
+Ressort: BMJV
+Kernnormen: StGB; StPO; OWiG; JGG; GVG; EGStGB.
+Akteure/Aufsicht: BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.
+EU/Voelkerrecht: Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

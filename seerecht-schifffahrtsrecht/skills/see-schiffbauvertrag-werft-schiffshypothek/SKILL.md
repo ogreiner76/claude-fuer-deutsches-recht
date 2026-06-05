@@ -1,13 +1,13 @@
 ---
 name: see-schiffbauvertrag-werft-schiffshypothek
-description: "Nutze dies, wenn See 005 Schiffbauvertrag Werft, See 023 Schiffshypothek Kaufvertrag Scopen, See 033 Schiffbauwerk Kaufvertrag Scopen, See 041 Werftvertrag Register Prüfen, See 042 Werftvertrag Hypothek Bestellen im Plugin Seerecht Schifffahrtsrecht konkret bearbeitet werden soll. Auslöser: Bitte See 005 Schiffbauvertrag Werft, See 023 Schiffshypothek Kaufvertrag Scopen, See 033 Schiffbauwerk Kaufvertrag Scopen, See 041 Werftvertrag Register Prüfen, See 042 Werftvertrag Hypothek Bestellen prüfen.; Erstelle eine Arbeitsfassung zu See 005 Schiffbauvertrag Werft, See 023 Schiffshypothek Kaufvertrag Scopen, See 033 Schiffbauwerk Kaufvertrag Scopen, See 041 Werftvertrag Register Prüfen, See 042 Werftvertrag Hypothek Bestellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei See 005 Schiffbauvertrag Werft, See 023 Schiffshypothek Kaufvertrag Scopen, See 033 Schiffbauwerk Kaufvertrag Scopen, See 041 Werftvertrag Register Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # See 005 Schiffbauvertrag Werft, See 023 Schiffshypothek Kaufvertrag Scopen, See 033 Schiffbauwerk Kaufvertrag Scopen, See 041 Werftvertrag Register Prüfen, See 042 Werftvertrag Hypothek Bestellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **See 005 Schiffbauvertrag Werft, See 023 Schiffshypothek Kaufvertrag Scopen, See 033 Schiffbauwerk Kaufvertrag Scopen, See 041 Werftvertrag Register Prüfen, See 042 Werftvertrag Hypothek Bestellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

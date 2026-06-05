@@ -1,13 +1,13 @@
 ---
 name: fremd-mehrbesitzverbot-gefahrstoffe
-description: "Nutze dies, wenn Fremd Und Mehrbesitzverbot Apothekenrecht, Gefahrstoffe Chemikalien Ausgangsstoffe, Hygiene Pandemie Infektionsschutz im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Fremd Und Mehrbesitzverbot Apothekenrecht, Gefahrstoffe Chemikalien Ausgangsstoffe, Hygiene Pandemie Infektionsschutz prüfen.; Erstelle eine Arbeitsfassung zu Fremd Und Mehrbesitzverbot Apothekenrecht, Gefahrstoffe Chemikalien Ausgangsstoffe, Hygiene Pandemie Infektionsschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fremd Und Mehrbesitzverbot Apothekenrecht, Gefahrstoffe Chemikalien Ausgangsstoffe, Hygiene Pandemie Infektionsschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fremd Und Mehrbesitzverbot Apothekenrecht, Gefahrstoffe Chemikalien Ausgangsstoffe, Hygiene Pandemie Infektionsschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fremd Und Mehrbesitzverbot Apothekenrecht, Gefahrstoffe Chemikalien Ausgangsstoffe, Hygiene Pandemie Infektionsschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -65,7 +65,7 @@ Eingaben:
 - **Art. 12 GG:** Berufsfreiheit — BVerfG, staend. Rspr., insb. Apothekenurteil 1958.
 - **EuGH** — staend. Rspr., insb. zur Vereinbarkeit des Fremdbesitzverbots mit EU-Recht (DocMorris, Apothekenkammer Saarland u. a.).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Eigentumsstruktur abklären:** Wer ist Erlaubnisinhaber? Welche Beteiligungen sind geplant?
 2. **Apotheker-Status aller Beteiligten:** Approbation vorhanden? Mitgliedschaft Apothekerkammer aktuell?

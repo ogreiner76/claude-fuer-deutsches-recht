@@ -1,13 +1,13 @@
 ---
 name: owi-gewerberecht-frist-umwelt
-description: "Nutze dies, wenn Owi 032 Gewerberecht Frist Prüfen, Owi 042 Umwelt Owi Frist Prüfen, Owi 052 Lebensmittelrecht Frist Prüfen, Owi 062 Tierschutz Owi Frist Prüfen im Plugin Ordnungswidrigkeitenrecht konkret bearbeitet werden soll. Auslöser: Bitte Owi 032 Gewerberecht Frist Prüfen, Owi 042 Umwelt Owi Frist Prüfen, Owi 052 Lebensmittelrecht Frist Prüfen, Owi 062 Tierschutz Owi Frist Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Owi 032 Gewerberecht Frist Prüfen, Owi 042 Umwelt Owi Frist Prüfen, Owi 052 Lebensmittelrecht Frist Prüfen, Owi 062 Tierschutz Owi Frist Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Owi 032 Gewerberecht Frist Prüfen, Owi 042 Umwelt Owi Frist Prüfen, Owi 052 Lebensmittelrecht Frist Prüfen, Owi 062 Tierschutz Owi Frist Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Owi 032 Gewerberecht Frist Prüfen, Owi 042 Umwelt Owi Frist Prüfen, Owi 052 Lebensmittelrecht Frist Prüfen, Owi 062 Tierschutz Owi Frist Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Owi 032 Gewerberecht Frist Prüfen, Owi 042 Umwelt Owi Frist Prüfen, Owi 052 Lebensmittelrecht Frist Prüfen, Owi 062 Tierschutz Owi Frist Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

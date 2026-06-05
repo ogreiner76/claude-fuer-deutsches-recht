@@ -1,13 +1,13 @@
 ---
 name: anti-ki-beweissicherung-testkauf-bildmarke
-description: "Nutze dies, wenn Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke prüfen.; Erstelle eine Arbeitsfassung zu Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,14 +45,14 @@ Die Comtesse Beatrice de Klotzzkettie hat klar positioniert: Kein Faden bei klô
 ## Rechtsrahmen
 
 - **EU AI Act, VO (EU) 2024/1689:** Umfassendes KI-Regulierungsframework, in Kraft getreten 01.08.2024. Relevante Pflichten:
-  - Art. 50: Kennzeichnungspflichten für KI-generierte Inhalte (Bilder, Text, Video)
-  - Art. 13/14: Transparenz- und Informationspflichten bei Hochrisiko-KI
-  - Art. 53: Allzweck-KI-Modelle (GPAI) — Urheberrechts-Compliance
+ - Art. 50: Kennzeichnungspflichten für KI-generierte Inhalte (Bilder, Text, Video)
+ - Art. 13/14: Transparenz- und Informationspflichten bei Hochrisiko-KI
+ - Art. 53: Allzweck-KI-Modelle (GPAI) — Urheberrechts-Compliance
 - **Markenrechtliche Eintragungsfähigkeit neuer Kennzeichen:**
-  - Wortmarke "HUMAN MADE": Prüfung Unterscheidungskraft — für Haute-Couture eintragungsfähig? (Marke "HUMAN MADE" von Tomoaki Nagao in diversen Ländern eingetragen)
-  - Bildmarke mit Zertifizierungssignet: eigenständige Schutzfähigkeit
-  - Kollektivmarke (§ 97 MarkenG / Art. 74 ff. UMV): Verbandsmarke für Branchenstandard
-  - Gewährleistungsmarke (Art. 83 ff. UMV): EU-Zertifizierungsmarke für verifiziertes Human-Made-Versprechen
+ - Wortmarke "HUMAN MADE": Prüfung Unterscheidungskraft — für Haute-Couture eintragungsfähig? (Marke "HUMAN MADE" von Tomoaki Nagao in diversen Ländern eingetragen)
+ - Bildmarke mit Zertifizierungssignet: eigenständige Schutzfähigkeit
+ - Kollektivmarke (§ 97 MarkenG / Art. 74 ff. UMV): Verbandsmarke für Branchenstandard
+ - Gewährleistungsmarke (Art. 83 ff. UMV): EU-Zertifizierungsmarke für verifiziertes Human-Made-Versprechen
 - **UWG § 5 I Nr. 1:** Irreführungsverbot — "Human Made"-Label muss inhaltlich zutreffend sein
 - **UWG § 5a:** Verschweigen wesentlicher Informationen (bei KI-Nutzung ohne Hinweis)
 - **Urheberrecht § 2 UrhG:** KI-generierte Werke nicht urheberrechtsfähig mangels menschlicher Schöpfung (§ 7 UrhG — nur natürliche Personen als Urheber); klôtzzkètté-Designs müssen nachweislich von menschlichem Designer stammen
@@ -60,35 +60,35 @@ Die Comtesse Beatrice de Klotzzkettie hat klar positioniert: Kein Faden bei klô
 ## Prüfungsschritte
 
 1. **Bestandsaufnahme KI-Nutzung im Unternehmen:**
-   - Wo wird KI im Designprozess eingesetzt? (Trendanalyse, Mood Boards, Rendering — vs. eigentliche Design-Kreation)
-   - Dokumentation: Welche Designs sind nachweislich human-created?
-   - Compliance mit EU AI Act Art. 50 (Kennzeichnungspflichten für KI-Outputs)
+ - Wo wird KI im Designprozess eingesetzt? (Trendanalyse, Mood Boards, Rendering — vs. eigentliche Design-Kreation)
+ - Dokumentation: Welche Designs sind nachweislich human-created?
+ - Compliance mit EU AI Act Art. 50 (Kennzeichnungspflichten für KI-Outputs)
 
 2. **Kennzeichen-Strategie entwickeln:**
 
-   **Option A — Eigenmarke "klôtzzkètté Atelier Authentique"**
-   - Wortmarke für Klasse 25 und Zertifizierungsdienstleistungen
-   - Differenzierungsversprechen gegenüber KI-Mode
+ **Option A — Eigenmarke "klôtzzkètté Atelier Authentique"**
+ - Wortmarke für Klasse 25 und Zertifizierungsdienstleistungen
+ - Differenzierungsversprechen gegenüber KI-Mode
 
-   **Option B — Kollektivmarke Branchenverband**
-   - § 97 MarkenG: Kollektivmarke durch Verband (z.B. Bundesverband Haute Couture)
-   - Art. 74 ff. UMV: Unionskollektivmarke
-   - Satzung mit Nutzungsbedingungen: nur für nachweisl. menschl. entworfene und gefertigte Mode
+ **Option B — Kollektivmarke Branchenverband**
+ - § 97 MarkenG: Kollektivmarke durch Verband (z.B. Bundesverband Haute Couture)
+ - Art. 74 ff. UMV: Unionskollektivmarke
+ - Satzung mit Nutzungsbedingungen: nur für nachweisl. menschl. entworfene und gefertigte Mode
 
-   **Option C — Gewährleistungsmarke (Certification Mark)**
-   - Art. 83 ff. UMV: EU-Zertifizierungsmarke
-   - Unabhängige Zertifizierungsstelle prüft und vergibt Lizenz
-   - Vergleichbar mit Fairtrade-Label, Bio-Siegel
-   - Stärkste Vertrauenswirkung gegenüber Verbrauchern
+ **Option C — Gewährleistungsmarke (Certification Mark)**
+ - Art. 83 ff. UMV: EU-Zertifizierungsmarke
+ - Unabhängige Zertifizierungsstelle prüft und vergibt Lizenz
+ - Vergleichbar mit Fairtrade-Label, Bio-Siegel
+ - Stärkste Vertrauenswirkung gegenüber Verbrauchern
 
 3. **Anti-Counterfeiting KI-Kontext:**
-   - KI-generierte Markenfälschungen (Deep-Fake-Produktbilder, AI-generierte Fälschungs-Boutiquen)
-   - Plattform-Strategien gegen KI-generierten Content (vgl. Skill `plattform-piraterie-donauzon`)
+ - KI-generierte Markenfälschungen (Deep-Fake-Produktbilder, AI-generierte Fälschungs-Boutiquen)
+ - Plattform-Strategien gegen KI-generierten Content (vgl. Skill `plattform-piraterie-donauzon`)
 
 4. **Urheberrechts-Dokumentation:**
-   - Design-Prozess dokumentieren: Skizzen, Datumsstempel, Designer-Notizen
-   - Arbeitsverträge: Urheberrechtsübertragung/Einräumung von Nutzungsrechten (§§ 31 ff. UrhG)
-   - Kein KI-Generierungstool für schutzrelevante Designelemente verwenden
+ - Design-Prozess dokumentieren: Skizzen, Datumsstempel, Designer-Notizen
+ - Arbeitsverträge: Urheberrechtsübertragung/Einräumung von Nutzungsrechten (§§ 31 ff. UrhG)
+ - Kein KI-Generierungstool für schutzrelevante Designelemente verwenden
 
 ## Falltypische Konstellationen
 
@@ -254,30 +254,30 @@ Die Wort-Bild-Marke schützt das Zeichen in seiner konkreten grafischen Gestalt.
 ## Prüfungsschritte
 
 1. **Vorbereitung der Anmeldungsdatei:**
-   - Bildwiedergage in JPG/PNG/SVG (DPMA: TIFF 300 dpi oder JPG; EUIPO: JPG bis 2 MB oder SVG)
-   - Hintergrund: weiß oder transparent (kein gemusterter Hintergrund)
-   - Farbanspruch: Ja/Nein-Entscheidung (Farbanspruch = enger Schutz, kein Farbanspruch = Schwarz/Weiß-Anmeldung mit breiterem Schutzumfang)
+ - Bildwiedergage in JPG/PNG/SVG (DPMA: TIFF 300 dpi oder JPG; EUIPO: JPG bis 2 MB oder SVG)
+ - Hintergrund: weiß oder transparent (kein gemusterter Hintergrund)
+ - Farbanspruch: Ja/Nein-Entscheidung (Farbanspruch = enger Schutz, kein Farbanspruch = Schwarz/Weiß-Anmeldung mit breiterem Schutzumfang)
 
 2. **Entscheidung Farbanspruch:**
-   - Farbanspruch = Schutz nur in dieser konkreten Farbkombination (Vorteil: stärkerer visueller Schutz; Nachteil: schmalerer Schutzumfang)
-   - Ohne Farbanspruch = Schutz erstreckt sich auf alle Farbvarianten (für Luxusmarken oft vorzugswürdig)
-   - klôtzzkètté-Strategie: Wort-Bild-Marke OHNE Farbanspruch (Schwarz-Weiß-Fassung) + separate Farbmarke Ivory/Graphit
+ - Farbanspruch = Schutz nur in dieser konkreten Farbkombination (Vorteil: stärkerer visueller Schutz; Nachteil: schmalerer Schutzumfang)
+ - Ohne Farbanspruch = Schutz erstreckt sich auf alle Farbvarianten (für Luxusmarken oft vorzugswürdig)
+ - klôtzzkètté-Strategie: Wort-Bild-Marke OHNE Farbanspruch (Schwarz-Weiß-Fassung) + separate Farbmarke Ivory/Graphit
 
 3. **Vienna Classification (EUIPO):**
-   - Bildbestandteile kategorisieren (z.B. Buchstaben, Buchstabenverbindungen, geometrische Figuren)
-   - EUIPO ordnet automatisch zu, aber Anwalt prüft Vollständigkeit
-   - Wichtig für spätere Ähnlichkeitssuche bei Widersprüchen
+ - Bildbestandteile kategorisieren (z.B. Buchstaben, Buchstabenverbindungen, geometrische Figuren)
+ - EUIPO ordnet automatisch zu, aber Anwalt prüft Vollständigkeit
+ - Wichtig für spätere Ähnlichkeitssuche bei Widersprüchen
 
 4. **Beschreibung des Bildzeichens:**
-   - Präzise textliche Beschreibung aller Bildelemente (EUIPO verlangt dies)
-   - Beispiel: "Zwei stilisierte, verschlungene Buchstaben K in geometrischer Serifenschrift auf rechteckigem Hintergrund; Schriftzug KLÔTZZKÈTTÉ darunter in Kapitälchen"
+ - Präzise textliche Beschreibung aller Bildelemente (EUIPO verlangt dies)
+ - Beispiel: "Zwei stilisierte, verschlungene Buchstaben K in geometrischer Serifenschrift auf rechteckigem Hintergrund; Schriftzug KLÔTZZKÈTTÉ darunter in Kapitälchen"
 
 5. **Warenverzeichnis:** identisch zur Wortmarken-Strategie (Klassen 3/14/18/25/35)
 
 6. **Prüfung Unterscheidungskraft Bildzeichen:**
-   - Einfache geometrische Formen, allgemeine Ornamente ohne Schutz
-   - Das Doppel-K-Signet von klôtzzkètté: eigenschöpferisch, hinreichend individuell
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Einfache geometrische Formen, allgemeine Ornamente ohne Schutz
+ - Das Doppel-K-Signet von klôtzzkètté: eigenschöpferisch, hinreichend individuell
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Falltypische Konstellationen
 

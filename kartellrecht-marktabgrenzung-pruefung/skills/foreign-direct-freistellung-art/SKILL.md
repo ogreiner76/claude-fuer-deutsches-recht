@@ -1,21 +1,21 @@
 ---
 name: foreign-direct-freistellung-art
-description: "Nutze dies, wenn Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen prüfen.; Erstelle eine Arbeitsfassung zu Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 Abs 3 Aeuv Effizienz Verbraucheranteil, Fusionskontrolle Anmeldung Routing, Fusionskontrolle Gwb Umsatzschwellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `foreign-direct-investment-antitrust-schnittstelle` | FDI und Antitrust Schnittstelle: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Investitionskontrolle, Fusionskontrolle, Sanktionen und Industriepolitik auseinanderhalten, Evidenz, Fristen, Strategie und Quellen. |
+| `foreign-direct-investment-antitrust-schnittstelle` | FDI und Antitrust Schnittstelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Investitionskontrolle, Fusionskontrolle, Sanktionen und Industriepolitik auseinanderhalten, Evidenz, Fristen, Strategie und Quellen. |
 | `freistellung-art-101-abs-3-aeuv-effizienz-verbraucheranteil` | Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `fusionskontrolle-anmeldung-routing` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fusionskontrolle Anmeldung Routing. |
+| `fusionskontrolle-anmeldung-routing` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fusionskontrolle Anmeldung Routing. |
 | `fusionskontrolle-gwb-umsatzschwellen` | Fusionskontrolle GWB Umsatzschwellen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
 ## Arbeitsweg
@@ -27,7 +27,7 @@ Für **Foreign Direct Investment Antitrust Schnittstelle, Freistellung Art 101 A
 
 ## 1. `foreign-direct-investment-antitrust-schnittstelle`
 
-**Fokus:** FDI und Antitrust Schnittstelle: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Investitionskontrolle, Fusionskontrolle, Sanktionen und Industriepolitik auseinanderhalten, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** FDI und Antitrust Schnittstelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Investitionskontrolle, Fusionskontrolle, Sanktionen und Industriepolitik auseinanderhalten, Evidenz, Fristen, Strategie und Quellen.
 
 # FDI und Antitrust Schnittstelle
 
@@ -122,7 +122,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `fusionskontrolle-anmeldung-routing`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fusionskontrolle Anmeldung Routing.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fusionskontrolle Anmeldung Routing.
 
 # Fusionskontrolle Anmeldung Routing
 

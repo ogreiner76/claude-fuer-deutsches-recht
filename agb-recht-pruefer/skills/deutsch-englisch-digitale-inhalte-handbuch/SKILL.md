@@ -1,23 +1,23 @@
 ---
 name: deutsch-englisch-digitale-inhalte-handbuch
-description: "Nutze dies, wenn Deutsch Englisch Agb, Digitale Inhalte Services, Dokumentation Handbuch, Dokumentenfamilie Rangfolge, Ecommerce Shop Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Deutsch Englisch Agb, Digitale Inhalte Services, Dokumentation Handbuch, Dokumentenfamilie Rangfolge: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Deutsch Englisch Agb, Digitale Inhalte Services, Dokumentation Handbuch, Dokumentenfamilie Rangfolge, Ecommerce Shop Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Deutsch Englisch Agb, Digitale Inhalte Services, Dokumentation Handbuch, Dokumentenfamilie Rangfolge, Ecommerce Shop Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `deutsch-englisch-agb` | Output- und Streit-Skill für Deutsch Englisch AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `digitale-inhalte-services` | Branchen-Spezialskill für Digitale Inhalte Services: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `dokumentation-handbuch` | Klausel-Spezialskill für Dokumentation Handbuch: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `dokumentenfamilie-rangfolge` | Einstiegs- und Workflow-Skill für Dokumentenfamilie Rangfolge: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
-| `ecommerce-shop-agb` | Branchen-Spezialskill für Ecommerce Shop AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `digitale-inhalte-services` | Branchen-Fachmodul für Digitale Inhalte Services: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `dokumentation-handbuch` | Klausel-Fachmodul für Dokumentation Handbuch: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `dokumentenfamilie-rangfolge` | Einstiegs- und Arbeitsmodul für Dokumentenfamilie Rangfolge: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `ecommerce-shop-agb` | Branchen-Fachmodul für Ecommerce Shop AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 
 ## Arbeitsweg
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `digitale-inhalte-services`
 
-**Fokus:** Branchen-Spezialskill für Digitale Inhalte Services: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Digitale Inhalte Services: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Digitale Inhalte Services
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `dokumentation-handbuch`
 
-**Fokus:** Klausel-Spezialskill für Dokumentation Handbuch: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Dokumentation Handbuch: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Dokumentation Handbuch
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `dokumentenfamilie-rangfolge`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Dokumentenfamilie Rangfolge: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Dokumentenfamilie Rangfolge: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Dokumentenfamilie Rangfolge
 
@@ -248,7 +248,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `ecommerce-shop-agb`
 
-**Fokus:** Branchen-Spezialskill für Ecommerce Shop AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Ecommerce Shop AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Ecommerce Shop AGB
 

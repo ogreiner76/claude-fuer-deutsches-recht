@@ -1,6 +1,6 @@
 ---
 name: aktenanlage-fehlerkatalog
-description: "Nutze dies, wenn Aktenanlage Fehlerkatalog im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Aktenanlage Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Aktenanlage Fehlerkatalog

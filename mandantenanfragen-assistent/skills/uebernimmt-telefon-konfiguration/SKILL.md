@@ -1,13 +1,13 @@
 ---
 name: uebernimmt-telefon-konfiguration
-description: "Nutze dies, wenn Spezial Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Bitte Spezial Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung, Name: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung
+# Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mandantenanfragen-assistent` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mandantenanfragen-assistent` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfigur
 # Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine / spezial uebernimmt schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine / uebernimmt schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -98,20 +98,20 @@ Die Kanzlei hinterlegt ihre Kontaktdaten in einer Datei `kanzlei.json`. Das Beis
 
 ```json
 {
-  "kanzlei": {
-    "name": "[KANZLEI-NAME]",
-    "adresse": {
-      "strasse": "[STRASSE UND HAUSNUMMER]",
-      "plz": "[POSTLEITZAHL]",
-      "ort": "[ORT]"
-    },
-    "telefon_sekretariat": "[SEKRETARIATS-TELEFON]",
-    "telefon_transkription": "[TRANSKRIPTIONS-TELEFON]",
-    "erreichbarkeit": "[Z.B. Mo-Fr 09:00-17:00 Uhr]",
-    "email_kanzlei": "[KANZLEI-E-MAIL]",
-    "unterzeichnende_ra": "[VORNAME NACHNAME, Rechtsanwalt/Rechtsanwaeltin]",
-    "rechtsanwaltsgesellschaft": "[FALLS ZUTREFFEND]"
-  }
+ "kanzlei": {
+ "name": "[KANZLEI-NAME]",
+ "adresse": {
+ "strasse": "[STRASSE UND HAUSNUMMER]",
+ "plz": "[POSTLEITZAHL]",
+ "ort": "[ORT]"
+ },
+ "telefon_sekretariat": "[SEKRETARIATS-TELEFON]",
+ "telefon_transkription": "[TRANSKRIPTIONS-TELEFON]",
+ "erreichbarkeit": "[Z.B. Mo-Fr 09:00-17:00 Uhr]",
+ "email_kanzlei": "[KANZLEI-E-MAIL]",
+ "unterzeichnende_ra": "[VORNAME NACHNAME, Rechtsanwalt/Rechtsanwaeltin]",
+ "rechtsanwaltsgesellschaft": "[FALLS ZUTREFFEND]"
+ }
 }
 ```
 
@@ -162,12 +162,12 @@ Bevor die `kanzlei.json` für die Produktion verwendet wird:
 
 ```json
 {
-  "kanzlei": {
-    "name": "Rechtsanwältin Dr. Lena Hoffmann",
-    "telefon_sekretariat": "+49 30 98765-0",
-    "telefon_transkription": "+49 30 98765-10",
-    "unterzeichnende_ra": "Dr. Lena Hoffmann, Rechtsanwältin"
-  }
+ "kanzlei": {
+ "name": "Rechtsanwältin Dr. Lena Hoffmann",
+ "telefon_sekretariat": "+49 30 98765-0",
+ "telefon_transkription": "+49 30 98765-10",
+ "unterzeichnende_ra": "Dr. Lena Hoffmann, Rechtsanwältin"
+ }
 }
 ```
 
@@ -175,12 +175,12 @@ Bevor die `kanzlei.json` für die Produktion verwendet wird:
 
 ```json
 {
-  "kanzlei": {
-    "name": "Steinacker Lichtenberg Partnerschaftsgesellschaft mbB",
-    "telefon_sekretariat": "+49 89 12345-0",
-    "telefon_transkription": "+49 800 123456-99",
-    "erreichbarkeit": "Mo-Do 08:30-18:00 Uhr, Fr 08:30-16:00 Uhr"
-  }
+ "kanzlei": {
+ "name": "Steinacker Lichtenberg Partnerschaftsgesellschaft mbB",
+ "telefon_sekretariat": "+49 89 12345-0",
+ "telefon_transkription": "+49 800 123456-99",
+ "erreichbarkeit": "Mo-Do 08:30-18:00 Uhr, Fr 08:30-16:00 Uhr"
+ }
 }
 ```
 
@@ -249,14 +249,14 @@ automatisierten Transkriptionsservice an:
 Sie rufen unter der folgenden Nummer an und schildern Ihr Anliegen
 mündlich:
 
-  Transkriptionsservice: [TRANSKRIPTIONS-TELEFON]
+ Transkriptionsservice: [TRANSKRIPTIONS-TELEFON]
 
 Ablauf:
-  1. Automatische Ansage mit Datenschutzhinweis
-  2. Bestätigung Ihres Einverständnisses (Tastendruck oder mündliches "Ja")
-     — Ohne Bestätigung wird keine Aufnahme gestartet.
-  3. Freie Schilderung Ihres Anliegens
-  4. Automatische Verschriftung und vertrauliche Weiterleitung an uns
+ 1. Automatische Ansage mit Datenschutzhinweis
+ 2. Bestätigung Ihres Einverständnisses (Tastendruck oder mündliches "Ja")
+ — Ohne Bestätigung wird keine Aufnahme gestartet.
+ 3. Freie Schilderung Ihres Anliegens
+ 4. Automatische Verschriftung und vertrauliche Weiterleitung an uns
 
 Bitte beachten Sie: Da zwischen uns noch kein Mandatsverhältnis besteht,
 gilt für die Verarbeitung Ihrer Sprachdaten das ausdrückliche

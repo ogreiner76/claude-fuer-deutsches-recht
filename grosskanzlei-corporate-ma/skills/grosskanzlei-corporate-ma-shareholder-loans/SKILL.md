@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-shareholder-loans
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager, Grosskanzlei Corporate Ma Specific Indemnities Risk Transfer und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager, Grosskanzlei Corporate Ma Specific Indemnities Risk Transfer und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager, Grosskanzlei Corporate Ma Specific Indem..."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager, Grosskanzlei Corporate Ma Specific Indemnities Risk Transfer und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager, Grosskanzlei Corporate Ma Specific Indemnities Risk Transfer und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -376,10 +376,10 @@ Deal: [DEALNAME] — Signing: [DATUM] — Longstop: [DATUM]
 
 | Nr. | CP-Bezeichnung | Owner | Faelligkeit | Nachweistyp | Status |
 |----|---------------|-------|------------|-------------|--------|
-| 1  | Kartellfreigabe (BKartA) | [KAEUFER] | [DATUM] | Behoerdenbescheid | Ausstehend |
-| 2  | FDI-Freigabe § 55 AWV | [KAEUFER] | [DATUM] | BMWi-Schreiben | Ausstehend |
-| 3  | Gesellschafterbeschluss Verkaeufer | [VERKAEUFER] | [DATUM] | Notarielles Protokoll | OK |
-| 4  | W&I Deckungszusage | [VERKAEUFER] | [DATUM] | Versicherer-Schreiben | TODO |
+| 1 | Kartellfreigabe (BKartA) | [KAEUFER] | [DATUM] | Behoerdenbescheid | Ausstehend |
+| 2 | FDI-Freigabe § 55 AWV | [KAEUFER] | [DATUM] | BMWi-Schreiben | Ausstehend |
+| 3 | Gesellschafterbeschluss Verkaeufer | [VERKAEUFER] | [DATUM] | Notarielles Protokoll | OK |
+| 4 | W&I Deckungszusage | [VERKAEUFER] | [DATUM] | Versicherer-Schreiben | TODO |
 
 AMPEL: [ ] Alle CPs gruen [ ] CPs ausstehend — Eskalation erforderlich
 ```

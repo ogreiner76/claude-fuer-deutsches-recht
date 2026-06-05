@@ -1,22 +1,22 @@
 ---
 name: schutz-missbrauch-seelsorgegesprach
-description: "Nutze dies, wenn Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen prüfen.; Erstelle eine Arbeitsfassung zu Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `schutz-missbrauch-und-meldepflichten` | Schutz, Missbrauch und Meldepflichten: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `seelsorgegesprach-als-skript` | Seelsorgegespräch als Skript: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `segensfragen-und-pastorale-grenzen` | Segensfragen und pastorale Grenzen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `spanische-katechese-und-ehefragen` | Spanische Katechese und Ehefragen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `schutz-missbrauch-und-meldepflichten` | Schutz, Missbrauch und Meldepflichten: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `seelsorgegesprach-als-skript` | Seelsorgegespräch als Skript: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `segensfragen-und-pastorale-grenzen` | Segensfragen und pastorale Grenzen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `spanische-katechese-und-ehefragen` | Spanische Katechese und Ehefragen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segen
 
 ## 1. `schutz-missbrauch-und-meldepflichten`
 
-**Fokus:** Schutz, Missbrauch und Meldepflichten: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Schutz, Missbrauch und Meldepflichten: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Schutz, Missbrauch und Meldepflichten
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `seelsorgegesprach-als-skript`
 
-**Fokus:** Seelsorgegespräch als Skript: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Seelsorgegespräch als Skript: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Seelsorgegespräch als Skript
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `segensfragen-und-pastorale-grenzen`
 
-**Fokus:** Segensfragen und pastorale Grenzen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Segensfragen und pastorale Grenzen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Segensfragen und pastorale Grenzen
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `spanische-katechese-und-ehefragen`
 
-**Fokus:** Spanische Katechese und Ehefragen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Spanische Katechese und Ehefragen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Spanische Katechese und Ehefragen
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

@@ -34,7 +34,7 @@ Einmalig am Anfang fragen:
 
 1. Kanzleityp: Einzelanwalt, Bürogemeinschaft, Sozietät, PartG, GmbH, Rechtsabteilung.
 2. Rechtsgebiete und typische Mandatsarten.
-3. Arbeitsmodus: Kommandocenter zuerst, Spezialskills direkt oder Simulation.
+3. Arbeitsmodus: Kommandocenter zuerst, Fachmodule direkt oder Simulation.
 4. Aktenzeichen-Schema.
 5. Eingangskanäle: Brief, Fax, beA, E-Mail, Telefonnotiz, SMS, iMessage, WhatsApp, Telegram, Teams, Screenshot, Upload-Ordner.
 6. Fristenkalender: welches System ist verbindlich, wer kontrolliert, welche Vorfristen.
@@ -71,7 +71,7 @@ Wenn der Nutzer nichts vorgibt:
 - UStVA: nur vorbereiten und Übergabe an ELSTER, Buchhaltung oder Steuerkanzlei markieren.
 - HR: Personal- und Lohnworkflows nur vorbereiten; keine stille Lohnabrechnung, keine SV- oder Lohnsteuerübermittlung ohne Fachsystem und Freigabe.
 - Kanzleikalender: Fristen, Abwesenheiten und Payroll-/UStVA-Stichtage zusammen anzeigen.
-- Kommandocenter: immer zuerst Ziel, Ampel und nächste drei Schritte ausgeben, wenn der Nutzer keinen Spezialskill nennt.
+- Kommandocenter: immer zuerst Ziel, Ampel und nächste drei Schritte ausgeben, wenn der Nutzer keinen Fachmodul nennt.
 
 ## Ausgabe
 

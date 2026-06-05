@@ -1,21 +1,21 @@
 ---
 name: rechtsabteilung-influencer-omnibus
-description: "Nutze dies, wenn Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Preisangaben Und Rabattkommunikation, Rechtsabteilung Online Marktplatz Nach Dsa im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Preisangaben Und Rabattkommunikation, Rechtsabteilung Online Marktplatz Nach Dsa prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Preisangaben Und Rabattkommunikation, Rechtsabteilung Online Marktplatz Nach Dsa.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Preisangaben Und Rabattkommunikation, Rechtsabteilung Online Marktplatz Nach Dsa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Preisangaben Und Rabattkommunikation, Rechtsabteilung Online Marktplatz Nach Dsa
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Preisangaben Und Rabattkommunikation, Rechtsabteilung Online Marktplatz Nach Dsa** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-influencer-und-affiliate-shop` | Rechtsabteilungs-Spezialskill für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation` | Rechtsabteilungs-Spezialskill für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-online-marktplatz-nach-dsa` | Rechtsabteilungs-Spezialskill für Online-Marktplatz nach DSA: Notice-and-Action, Trader Traceability und Rankingtransparenz werden operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-influencer-und-affiliate-shop` | Rechtsabteilungs-Fachmodul für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation` | Rechtsabteilungs-Fachmodul für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-online-marktplatz-nach-dsa` | Rechtsabteilungs-Fachmodul für Online-Marktplatz nach DSA: Notice-and-Action, Trader Traceability und Rankingtransparenz werden operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Rechtsabteilung Influencer Und Affiliate Shop, Rechtsabteilung Omnibus Pr
 
 ## 1. `rechtsabteilung-influencer-und-affiliate-shop`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Influencer- und Affiliate-Shop
 
@@ -73,7 +73,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Omnibus-Preisangaben und Rabattkommunikation
 
@@ -120,7 +120,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-online-marktplatz-nach-dsa`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Online-Marktplatz nach DSA: Notice-and-Action, Trader Traceability und Rankingtransparenz werden operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Online-Marktplatz nach DSA: Notice-and-Action, Trader Traceability und Rankingtransparenz werden operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Online-Marktplatz nach DSA
 

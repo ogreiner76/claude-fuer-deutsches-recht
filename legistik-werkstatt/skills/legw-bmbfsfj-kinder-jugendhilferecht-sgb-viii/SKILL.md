@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Kinder- und Jugendhilferecht (SGB VIII)
-Ressort:            BMBFSFJ
-Kernnormen:         SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.
-Akteure/Aufsicht:   Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale fuer Kinder- und Jugend-medienschutz (BzKJ).
-EU/Voelkerrecht:    Kinderschutz-Strategie EU; UN-KRK.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmbfsfj; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Kinder- und Jugendhilferecht (SGB VIII)
+Ressort: BMBFSFJ
+Kernnormen: SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.
+Akteure/Aufsicht: Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale fuer Kinder- und Jugend-medienschutz (BzKJ).
+EU/Voelkerrecht: Kinderschutz-Strategie EU; UN-KRK.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

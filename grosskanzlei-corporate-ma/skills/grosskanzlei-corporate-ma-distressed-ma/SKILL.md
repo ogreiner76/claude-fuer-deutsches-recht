@@ -164,23 +164,23 @@ DISTRESSED M&A TIMELINE
 Deal: [DEALNAME] — Status: [Krisenphase]
 
 PHASE 1: Krisencheck und Strukturentscheidung bis [DATUM]
-  - Liquiditaetsvorschau 13 Wochen
-  - Insolvenzreife-Pruefung: §§ 17-19 InsO
-  - Strukturentscheidung: Asset Deal / StaRUG / Insolvenzplan
+ - Liquiditaetsvorschau 13 Wochen
+ - Insolvenzreife-Pruefung: §§ 17-19 InsO
+ - Strukturentscheidung: Asset Deal / StaRUG / Insolvenzplan
 
 PHASE 2: Due Diligence und SPA-Verhandlung bis [DATUM]
-  - Datenraum: eingeschraenkt
-  - Anfechtungsrisiko-Analyse §§ 129-147 InsO
-  - § 613a BGB — Arbeitnehmer-Mapping
+ - Datenraum: eingeschraenkt
+ - Anfechtungsrisiko-Analyse §§ 129-147 InsO
+ - § 613a BGB — Arbeitnehmer-Mapping
 
 PHASE 3: Signing und Genehmigungen bis [DATUM]
-  - Insolvenzgericht-Genehmigung (§§ 160, 163 InsO)
-  - Glaeubigerzustimmung (§§ 157, 244 InsO)
+ - Insolvenzgericht-Genehmigung (§§ 160, 163 InsO)
+ - Glaeubigerzustimmung (§§ 157, 244 InsO)
 
 PHASE 4: Closing bis [DATUM]
-  - Funds Flow, Freigabe Sicherheiten
-  - Anmeldung HR, Transparenzregister
-  - § 613a BGB Information Arbeitnehmer
+ - Funds Flow, Freigabe Sicherheiten
+ - Anmeldung HR, Transparenzregister
+ - § 613a BGB Information Arbeitnehmer
 
 OFFENE PUNKTE: [TODO Owner Datum]
 ```

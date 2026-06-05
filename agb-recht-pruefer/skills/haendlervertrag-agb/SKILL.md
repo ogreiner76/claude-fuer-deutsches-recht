@@ -1,6 +1,6 @@
 ---
 name: haendlervertrag-agb
-description: "Branchen-Spezialskill für Haendlervertrag AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Haendlervertrag AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Haendlervertrag AGB

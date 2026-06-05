@@ -1,13 +1,13 @@
 ---
 name: audit-barrierefreiheits-bfsg
-description: "Nutze dies, wenn Spezial Audit Schriftsatz Brief Und Memo Bausteine, Spezial Barrierefreiheits Erstpruefung Und Mandatsziel, Spezial Bfsg Tatbestand Beweis Und Belege im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Bitte Spezial Audit Schriftsatz Brief Und Memo Bausteine, Spezial Barrierefreiheits Erstpruefung Und Mandatsziel, Spezial Bfsg Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Audit Schriftsatz Brief Und Memo Bausteine, Spezial Barrierefreiheits Erstpruefung Und Mandatsziel, Spezial Bfsg Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Audit Schriftsatz Brief Und Memo Bausteine, Barrierefreiheits Erstpruefung Und Mandatsziel, Bfsg Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Audit Schriftsatz Brief Und Memo Bausteine, Spezial Barrierefreiheits Erstpruefung Und Mandatsziel, Spezial Bfsg Tatbestand Beweis Und Belege
+# Audit Schriftsatz Brief Und Memo Bausteine, Barrierefreiheits Erstpruefung Und Mandatsziel, Bfsg Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Audit Schriftsatz Brief Und Memo Bausteine, Barrierefreiheits Erstpruefung Und Mandatsziel, Bfsg Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Audit Schriftsatz Brief Und Memo Bausteine, Spezial Barrierefreiheits Erstpruefung Und Mandatsziel, Spezial Bfsg Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Audit Schriftsatz Brief Und Memo Bausteine, Barrierefreiheits Erstpruefung Und Mandatsziel, Bfsg Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Audit Schriftsatz Brief Und Memo Bausteine, Spezial Barrierefreih
 # Audit: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Audit: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Audit: Schriftsatz-, Brief- und Memo-Bausteine / spezial audit schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Audit: Schriftsatz-, Brief- und Memo-Bausteine / audit schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel / spezial barrierefreiheits erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel / barrierefreiheits erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -123,7 +123,7 @@ Vollumfängliches Audit aller Seiten/Funktionen vs. risikobasiertes Stichprobena
 # BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial bfsg tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage / bfsg tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

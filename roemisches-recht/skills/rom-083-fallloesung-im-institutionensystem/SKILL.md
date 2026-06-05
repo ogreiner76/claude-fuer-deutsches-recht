@@ -1,6 +1,6 @@
 ---
 name: rom-083-fallloesung-im-institutionensystem
-description: "Römisches Recht: Fallloesung Im Institutionensystem. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Fallloesung Im Institutionensystem. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Fallloesung Im Institutionensystem

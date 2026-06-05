@@ -1,22 +1,22 @@
 ---
 name: aufsichtsrat-schnittstelle-beirat-investor
-description: "Nutze dies, wenn Treuepflicht Aufsichtsrat Schnittstelle, Treuepflicht Beirat Und Investor, Treuepflicht Drag Tag Liquidation Preference, Treuepflicht Geheimhaltung Und Datenraum im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Treuepflicht Aufsichtsrat Schnittstelle, Treuepflicht Beirat Und Investor, Treuepflicht Drag Tag Liquidation Preference, Treuepflicht Geheimhaltung Und Datenraum prüfen.; Erstelle eine Arbeitsfassung zu Treuepflicht Aufsichtsrat Schnittstelle, Treuepflicht Beirat Und Investor, Treuepflicht Drag Tag Liquidation Preference, Treuepflicht Geheimhaltung Und Datenraum.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Treuepflicht Aufsichtsrat Schnittstelle, Treuepflicht Beirat Und Investor, Treuepflicht Drag Tag Liquidation Preference, Treuepflicht Geheimhaltung Und Datenraum: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Treuepflicht Aufsichtsrat Schnittstelle, Treuepflicht Beirat Und Investor, Treuepflicht Drag Tag Liquidation Preference, Treuepflicht Geheimhaltung Und Datenraum
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Treuepflicht Aufsichtsrat Schnittstelle, Treuepflicht Beirat Und Investor, Treuepflicht Drag Tag Liquidation Preference, Treuepflicht Geheimhaltung Und Datenraum** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `treuepflicht-aufsichtsrat-schnittstelle` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Aufsichtsrat Schnittstelle; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `treuepflicht-beirat-und-investor` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Beirat Und Investor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `treuepflicht-drag-tag-liquidation-preference` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Drag Tag Liquidation Preference; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `treuepflicht-geheimhaltung-und-datenraum` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Geheimhaltung Und Datenraum; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-aufsichtsrat-schnittstelle` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Aufsichtsrat Schnittstelle; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-beirat-und-investor` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Beirat Und Investor; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-drag-tag-liquidation-preference` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Drag Tag Liquidation Preference; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-geheimhaltung-und-datenraum` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Geheimhaltung Und Datenraum; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Treuepflicht Aufsichtsrat Schnittstelle, Treuepflicht Beirat Und Investor
 
 ## 1. `treuepflicht-aufsichtsrat-schnittstelle`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Aufsichtsrat Schnittstelle; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Aufsichtsrat Schnittstelle; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht Aufsichtsrat Schnittstelle
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `treuepflicht-beirat-und-investor`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Beirat Und Investor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Beirat Und Investor; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht Beirat Und Investor
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `treuepflicht-drag-tag-liquidation-preference`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Drag Tag Liquidation Preference; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Drag Tag Liquidation Preference; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht Drag Tag Liquidation Preference
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `treuepflicht-geheimhaltung-und-datenraum`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Geheimhaltung Und Datenraum; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Geheimhaltung Und Datenraum; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht Geheimhaltung Und Datenraum
 

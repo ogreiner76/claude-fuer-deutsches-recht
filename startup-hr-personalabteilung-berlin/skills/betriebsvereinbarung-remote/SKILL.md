@@ -1,23 +1,23 @@
 ---
 name: betriebsvereinbarung-remote
-description: "Nutze dies, wenn Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk, Datenschutz Beschaeftigteneinwilligung im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk, Datenschutz Beschaeftigteneinwilligung prüfen.; Erstelle eine Arbeitsfassung zu Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk, Datenschutz Beschaeftigteneinwilligung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk, Datenschutz Beschaeftigteneinwilligung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunikation, Chef Briefing Ohne Datenschutzbruch, Company Event Planung Hr Risk, Datenschutz Beschaeftigteneinwilligung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `betriebsvereinbarung-remote-it-benefits` | Berliner Start-up-HR: Betriebsvereinbarungen zu Remote, IT, Arbeitszeit, Benefits und Hinweisgeberprozessen entwerfen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `betriebsversammlung-und-kommunikation` | Berliner Start-up-HR: Betriebsversammlung und Kommunikation: HR-Rolle, Fragen, Konflikte, Protokollnotiz und keine Behinderung der Betriebsratsarbeit. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `chef-briefing-ohne-datenschutzbruch` | Berliner Start-up-HR: Briefing an Chefs/Chefinnen ohne Datenschutzbruch: Ampel, aggregierte Daten, erforderliche Details und klare Entscheidungsvorlage. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `company-event-planung-hr-risk` | Berliner Start-up-HR: Betriebsfeier planen: Alkohol, Awareness, Fotoeinwilligung, Kosten, Arbeitszeit, Versicherung und Eskalationsplan. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `datenschutz-beschaeftigteneinwilligung` | Berliner Start-up-HR: Beschäftigteneinwilligung: Freiwilligkeit, Alternative, Widerruf, Machtgefälle und Dokumentation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `betriebsvereinbarung-remote-it-benefits` | Berliner Start-up-HR: Betriebsvereinbarungen zu Remote, IT, Arbeitszeit, Benefits und Hinweisgeberprozessen entwerfen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `betriebsversammlung-und-kommunikation` | Berliner Start-up-HR: Betriebsversammlung und Kommunikation: HR-Rolle, Fragen, Konflikte, Protokollnotiz und keine Behinderung der Betriebsratsarbeit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `chef-briefing-ohne-datenschutzbruch` | Berliner Start-up-HR: Briefing an Chefs/Chefinnen ohne Datenschutzbruch: Ampel, aggregierte Daten, erforderliche Details und klare Entscheidungsvorlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `company-event-planung-hr-risk` | Berliner Start-up-HR: Betriebsfeier planen: Alkohol, Awareness, Fotoeinwilligung, Kosten, Arbeitszeit, Versicherung und Eskalationsplan. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `datenschutz-beschaeftigteneinwilligung` | Berliner Start-up-HR: Beschäftigteneinwilligung: Freiwilligkeit, Alternative, Widerruf, Machtgefälle und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Betriebsvereinbarung Remote It Benefits, Betriebsversammlung Und Kommunik
 
 ## 1. `betriebsvereinbarung-remote-it-benefits`
 
-**Fokus:** Berliner Start-up-HR: Betriebsvereinbarungen zu Remote, IT, Arbeitszeit, Benefits und Hinweisgeberprozessen entwerfen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Betriebsvereinbarungen zu Remote, IT, Arbeitszeit, Benefits und Hinweisgeberprozessen entwerfen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Betriebsvereinbarung Remote IT Benefits
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Betriebsrat
 **Fokus:** Betriebsvereinbarungen zu Remote, IT, Arbeitszeit, Benefits und Hinweisgeberprozessen entwerfen.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `betriebsversammlung-und-kommunikation`
 
-**Fokus:** Berliner Start-up-HR: Betriebsversammlung und Kommunikation: HR-Rolle, Fragen, Konflikte, Protokollnotiz und keine Behinderung der Betriebsratsarbeit. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Betriebsversammlung und Kommunikation: HR-Rolle, Fragen, Konflikte, Protokollnotiz und keine Behinderung der Betriebsratsarbeit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Betriebsversammlung Und Kommunikation
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Betriebsrat
 **Fokus:** Betriebsversammlung und Kommunikation: HR-Rolle, Fragen, Konflikte, Protokollnotiz und keine Behinderung der Betriebsratsarbeit.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `chef-briefing-ohne-datenschutzbruch`
 
-**Fokus:** Berliner Start-up-HR: Briefing an Chefs/Chefinnen ohne Datenschutzbruch: Ampel, aggregierte Daten, erforderliche Details und klare Entscheidungsvorlage. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Briefing an Chefs/Chefinnen ohne Datenschutzbruch: Ampel, aggregierte Daten, erforderliche Details und klare Entscheidungsvorlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Chef Briefing Ohne Datenschutzbruch
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Kommunikation
 **Fokus:** Briefing an Chefs/Chefinnen ohne Datenschutzbruch: Ampel, aggregierte Daten, erforderliche Details und klare Entscheidungsvorlage.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `company-event-planung-hr-risk`
 
-**Fokus:** Berliner Start-up-HR: Betriebsfeier planen: Alkohol, Awareness, Fotoeinwilligung, Kosten, Arbeitszeit, Versicherung und Eskalationsplan. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Betriebsfeier planen: Alkohol, Awareness, Fotoeinwilligung, Kosten, Arbeitszeit, Versicherung und Eskalationsplan. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Company Event Planung HR Risk
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Office
 **Fokus:** Betriebsfeier planen: Alkohol, Awareness, Fotoeinwilligung, Kosten, Arbeitszeit, Versicherung und Eskalationsplan.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `datenschutz-beschaeftigteneinwilligung`
 
-**Fokus:** Berliner Start-up-HR: Beschäftigteneinwilligung: Freiwilligkeit, Alternative, Widerruf, Machtgefälle und Dokumentation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Beschäftigteneinwilligung: Freiwilligkeit, Alternative, Widerruf, Machtgefälle und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Datenschutz Beschaeftigteneinwilligung
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Datenschutz
 **Fokus:** Beschäftigteneinwilligung: Freiwilligkeit, Alternative, Widerruf, Machtgefälle und Dokumentation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

@@ -26,33 +26,33 @@ Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerwe
 ## Ablauf / Checkliste
 
 1. **Sub-AV-Kette dokumentieren.**
-   - Tier 1: Vertragspartner.
-   - Tier 2: Direkter Sub-AV des Tier 1 (z. B. Hyperscaler).
-   - Tier 3+: Weitere Sub-AV (z. B. Support-Dienstleister, Backup-Provider).
-   - Pro Sub-AV: Name, Sitz, Verarbeitungsumfang, Datenort, Drittlandbezug, Schutzmechanismus.
+ - Tier 1: Vertragspartner.
+ - Tier 2: Direkter Sub-AV des Tier 1 (z. B. Hyperscaler).
+ - Tier 3+: Weitere Sub-AV (z. B. Support-Dienstleister, Backup-Provider).
+ - Pro Sub-AV: Name, Sitz, Verarbeitungsumfang, Datenort, Drittlandbezug, Schutzmechanismus.
 
 2. **Genehmigungsmodell festlegen.**
 
-   | Modell | Vorteil | Nachteil |
-   |---|---|---|
-   | Spezifische Genehmigung | Volle Kontrolle | Praktisch unhandhabbar bei vielen Sub-AV |
-   | Allgemeine Genehmigung mit Liste | Praktikabel | Voraussetzung: aktuelle Liste, ausreichende Frist, Einspruchsrecht |
-   | Allgemeine Genehmigung ohne Liste | Bequem | Nicht Art. 28 DSGVO-konform |
+ | Modell | Vorteil | Nachteil |
+ |---|---|---|
+ | Spezifische Genehmigung | Volle Kontrolle | Praktisch unhandhabbar bei vielen Sub-AV |
+ | Allgemeine Genehmigung mit Liste | Praktikabel | Voraussetzung: aktuelle Liste, ausreichende Frist, Einspruchsrecht |
+ | Allgemeine Genehmigung ohne Liste | Bequem | Nicht Art. 28 DSGVO-konform |
 
 3. **Informationspflicht und Einspruchsrecht.**
-   - Frist Praxis: 30 Tage vor Wirksamwerden, mindestens aber so, dass Einspruch faktisch moeglich ist.
-   - Einspruchsgrund: berechtigte Bedenken (Drittland, fehlende TOM, Wettbewerber, Aufsichtsbehoerde).
-   - Folge: Auftragsverarbeiter sucht alternative Sub-AV, sonst ausserordentliche Kuendigung durch Verantwortlichen.
+ - Frist Praxis: 30 Tage vor Wirksamwerden, mindestens aber so, dass Einspruch faktisch moeglich ist.
+ - Einspruchsgrund: berechtigte Bedenken (Drittland, fehlende TOM, Wettbewerber, Aufsichtsbehoerde).
+ - Folge: Auftragsverarbeiter sucht alternative Sub-AV, sonst ausserordentliche Kuendigung durch Verantwortlichen.
 
 4. **Haftungsdurchleitung.**
-   - Vertraglich oder per Rechtsinstrument identische Pflichten beim Sub-AV.
-   - Praxis: Back-to-Back-Vertrag oder Inkorporation des AVV als Anlage.
-   - Beweisbarkeit: Auftragsverarbeiter muss die Sub-AV-Vertraege auf Verlangen vorlegen.
+ - Vertraglich oder per Rechtsinstrument identische Pflichten beim Sub-AV.
+ - Praxis: Back-to-Back-Vertrag oder Inkorporation des AVV als Anlage.
+ - Beweisbarkeit: Auftragsverarbeiter muss die Sub-AV-Vertraege auf Verlangen vorlegen.
 
 5. **Drittlandbezug.**
-   - Sub-AV im Drittland: zusaetzlich SCC Beschluss (EU) 2021/914 (Module C2P oder P2P, je nach Konstellation).
-   - DPF nur fuer US-Sub-AV mit aktiver Selbstzertifizierung.
-   - TIA nach EDSA-Empfehlungen 01/2020.
+ - Sub-AV im Drittland: zusaetzlich SCC Beschluss (EU) 2021/914 (Module C2P oder P2P, je nach Konstellation).
+ - DPF nur fuer US-Sub-AV mit aktiver Selbstzertifizierung.
+ - TIA nach EDSA-Empfehlungen 01/2020.
 
 ## Mustertext / Template
 

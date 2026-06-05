@@ -1,6 +1,6 @@
 ---
 name: bereits
-description: "Nutze dies, wenn Bereits: Abschlussprodukt und Übergabe im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Bereits: Abschlussprodukt und Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Bereits: Abschlussprodukt und Übergabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bereits: Abschlussprodukt und Übergabe: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Bereits: Abschlussprodukt und Übergabe

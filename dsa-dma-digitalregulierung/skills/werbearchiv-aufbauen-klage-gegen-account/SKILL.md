@@ -1,13 +1,13 @@
 ---
 name: werbearchiv-aufbauen-klage-gegen-account
-description: "Nutze dies, wenn Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen
+# Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Spezial Account Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -101,9 +101,9 @@ Bei DSA-Designation und DMA-Gatekeeper-Benennung ist das Unternehmen **Adressat 
 ## Frist (Art. 263 Abs. 6 AEUV)
 
 - **Zwei Monate** ab:
-  - Bekanntgabe an den Adressaten **oder**
-  - Bekanntmachung im Amtsblatt **oder**
-  - Kenntnis (subsidiär)
+ - Bekanntgabe an den Adressaten **oder**
+ - Bekanntmachung im Amtsblatt **oder**
+ - Kenntnis (subsidiär)
 - **+ zehn Tage** Entfernungsfrist (Art. 60 § 1 VerfO EuG)
 - Frist ist materiell — Versäumung führt zur Unzulässigkeit
 
@@ -249,7 +249,7 @@ Antrag:
 # Account: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Account: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Account: Internationaler Bezug und Schnittstellen / spezial account internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Account: Internationaler Bezug und Schnittstellen / account internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -277,9 +277,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Plattformbedingungen in mehreren Sprachen:** Art. 14 Abs. 1 DSA verlangt klare und unzweideutige Sprache, oft Übersetzungen in Landessprachen.
 - **Grenzüberschreitende Account-Sperre:** Wenn US-Plattform deutsche Nutzer sperrt: DSA gilt; nationale Beschwerde via BNetzA (DSC), Klage zum ZG in DE (§§ 12, 29 ZPO; bei Verbrauchern § 29c ZPO).
 - **Schnittstellen zu nationalem Recht:**
-  - **TKG / DDG:** für Telekommunikationsdienste teils ergänzend.
-  - **DSGVO:** Account-Datenlöschung; Auskunftsanspruch Art. 15.
-  - **UWG:** bei Mitbewerberklage über unzulässige Plattformpraktiken.
+ - **TKG / DDG:** für Telekommunikationsdienste teils ergänzend.
+ - **DSGVO:** Account-Datenlöschung; Auskunftsanspruch Art. 15.
+ - **UWG:** bei Mitbewerberklage über unzulässige Plattformpraktiken.
 - **US-Konflikt:** Section 230 Communications Decency Act schützt US-Plattformen vor US-Haftung — Spannung zum DSA-Notice-and-Action-Regime.
 
 ## Praxis-Tipp

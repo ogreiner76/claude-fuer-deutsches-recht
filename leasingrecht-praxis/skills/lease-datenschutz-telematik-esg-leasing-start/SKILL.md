@@ -1,13 +1,13 @@
 ---
 name: lease-datenschutz-telematik-esg-leasing-start
-description: "Nutze dies, wenn Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants im Plugin Leasingrecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants prüfen.; Erstelle eine Arbeitsfassung zu Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lease 033 Datenschutz Telematik Im Fahrzeugleasing, Lease 034 Esg Leasing Taxonomie Und Green Lease, Lease 037 Start Up Equipment Leasing Covenants** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

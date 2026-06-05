@@ -1,13 +1,13 @@
 ---
 name: deckungsklage-interessen-deckungspruefung
-description: "Nutze dies, wenn Spezial Deckungsklage Mehrparteien Konflikt Und Interessen, Spezial Deckungspruefung Obliegenheiten Regress, Spezial Einfuehrung Sonderfall Und Edge Case im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Deckungsklage Mehrparteien Konflikt Und Interessen, Spezial Deckungspruefung Obliegenheiten Regress, Spezial Einfuehrung Sonderfall Und Edge Case prüfen.; Erstelle eine Arbeitsfassung zu Spezial Deckungsklage Mehrparteien Konflikt Und Interessen, Spezial Deckungspruefung Obliegenheiten Regress, Spezial Einfuehrung Sonderfall Und Edge Case.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Deckungsklage Mehrparteien Konflikt Und Interessen, Deckungspruefung Obliegenheiten Regress, Einfuehrung Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Deckungsklage Mehrparteien Konflikt Und Interessen, Spezial Deckungspruefung Obliegenheiten Regress, Spezial Einfuehrung Sonderfall Und Edge Case
+# Deckungsklage Mehrparteien Konflikt Und Interessen, Deckungspruefung Obliegenheiten Regress, Einfuehrung Sonderfall Und Edge Case
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Deckungsklage Mehrparteien Konflikt Und Interessen, Deckungspruefung Obliegenheiten Regress, Einfuehrung Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Deckungsklage Mehrparteien Konflikt Und Interessen, Spezial Deckungspruefung Obliegenheiten Regress, Spezial Einfuehrung Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-versicherungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deckungsklage Mehrparteien Konflikt Und Interessen, Deckungspruefung Obliegenheiten Regress, Einfuehrung Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-versicherungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Deckungsklage Mehrparteien Konflikt Und Interessen, Spezial Decku
 # Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Deckungsklage: Mehrparteienkonflikt und Interessenmatrix / spezial deckungsklage mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Deckungsklage: Mehrparteienkonflikt und Interessenmatrix / deckungsklage mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VVG, VAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,11 +72,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Deckungsprüfung, Obliegenheiten und Regressrisiko
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `fachanwalt-versicherungsrecht`. Kontext des Plugins: Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-versicherungsrecht`. Kontext des Plugins: Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -111,7 +111,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # Einfuehrung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Einfuehrung: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Einfuehrung: Sonderfall und Edge-Case-Prüfung / spezial einfuehrung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Einfuehrung: Sonderfall und Edge-Case-Prüfung / einfuehrung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VVG, VAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

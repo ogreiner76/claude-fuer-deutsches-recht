@@ -1,13 +1,13 @@
 ---
 name: notare-rechtsmittel-dienstaufsicht
-description: "Nutze dies, wenn Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P prüfen.; Erstelle eine Arbeitsfassung zu Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung U..."
+description: "Nutze dies bei Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Rechtsmittel Gegen Dienstaufsicht Kammerantwort Und Verf, Notare Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U, Notare Share Deal Closing Notar Organisationspflicht Und Praeve, Notare Umwandlung Und Registersperre Kammerantwort Und Verfahre, Notare Umwandlung Und Registersperre Organisationspflicht Und P** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

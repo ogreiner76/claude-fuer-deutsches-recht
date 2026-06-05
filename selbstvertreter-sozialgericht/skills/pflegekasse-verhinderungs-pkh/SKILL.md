@@ -1,13 +1,13 @@
 ---
 name: pflegekasse-verhinderungs-pkh
-description: "Nutze dies, wenn Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi prüfen.; Erstelle eine Arbeitsfassung zu Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73a Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73A Sgg, Rentenauskunft Und Versicherungsverlauf Prüfen, Rentenkontenklaerung 149 Sgb Vi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,8 +57,8 @@ Für **Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfol
 ## Kombinierbarkeit
 
 - Pflegekasse erlaubt seit Pflegestaerkungsgesetz die Uebertragung:
-  - Bis zu 50 Prozent (806 Euro) des Kurzzeitpflegebudgets in die Verhinderungspflege uebertragbar.
-  - Bis zu 100 Prozent (1612 Euro) der Verhinderungspflege in die Kurzzeitpflege uebertragbar.
+ - Bis zu 50 Prozent (806 Euro) des Kurzzeitpflegebudgets in die Verhinderungspflege uebertragbar.
+ - Bis zu 100 Prozent (1612 Euro) der Verhinderungspflege in die Kurzzeitpflege uebertragbar.
 
 ## Antrag
 
@@ -256,7 +256,7 @@ Sicherheitsformel: Wer Buergergeld bekommt oder kurz drueber liegt, hat in der R
 ### Schritt 3 — PKH-Antrag stellen
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 In dem Verfahren
 

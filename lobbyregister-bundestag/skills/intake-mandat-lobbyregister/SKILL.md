@@ -1,13 +1,13 @@
 ---
 name: intake-mandat-lobbyregister
-description: "Nutze dies, wenn Lobbyregister Intake Mandat, Lobbyregister Kommandocenter im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Lobbyregister Intake Mandat, Lobbyregister Kommandocenter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lobbyregister Intake Mandat, Lobbyregister Kommandocenter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lobbyregister Intake Mandat, Lobbyregister Kommandocenter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -81,7 +81,7 @@ Intake-Protokoll mit Faktenstand, Dokumentenanforderung, Risikofragen und Verant
 
 ## Einsatz
 
-Mandat starten, Ziel klaeren und den richtigen Spezial-Skill auswaehlen.
+Mandat starten, Ziel klaeren und den passendes Fachmodul auswaehlen.
 
 ## Gefuehrter Ablauf
 

@@ -1,13 +1,13 @@
 ---
 name: ihl-ip-ihl-confidentiality-ihl-audit-ihl
-description: "Nutze dies, wenn Ihl 069 Ip License In Supply Chain, Ihl 070 Confidentiality And Trade Secrets, Ihl 071 Audit Rights Supplier, Ihl 072 Termination Crossborder im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 069 Ip License In Supply Chain, Ihl 070 Confidentiality And Trade Secrets, Ihl 071 Audit Rights Supplier, Ihl 072 Termination Crossborder prüfen.; Erstelle eine Arbeitsfassung zu Ihl 069 Ip License In Supply Chain, Ihl 070 Confidentiality And Trade Secrets, Ihl 071 Audit Rights Supplier, Ihl 072 Termination Crossborder.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ihl 069 Ip License In Supply Chain, Ihl 070 Confidentiality And Trade Secrets, Ihl 071 Audit Rights Supplier, Ihl 072 Termination Crossborder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 069 Ip License In Supply Chain, Ihl 070 Confidentiality And Trade Secrets, Ihl 071 Audit Rights Supplier, Ihl 072 Termination Crossborder
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 069 Ip License In Supply Chain, Ihl 070 Confidentiality And Trade Secrets, Ihl 071 Audit Rights Supplier, Ihl 072 Termination Crossborder** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

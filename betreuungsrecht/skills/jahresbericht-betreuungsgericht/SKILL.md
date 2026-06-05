@@ -19,22 +19,22 @@ Bericht mit den nach § 1863 BGB zwingend vorgeschriebenen Abschnitten.
 ## Eingaben
 
 - **Stammdaten der betreuten Person:** Name, Geburtsdatum, Anschrift,
-  Aufenthaltsort (eigene Wohnung, Heim, Klinik), Aktenzeichen des
-  Betreuungsgerichts, Anordnungsdatum und Aufgabenkreise (§ 1815 BGB)
+ Aufenthaltsort (eigene Wohnung, Heim, Klinik), Aktenzeichen des
+ Betreuungsgerichts, Anordnungsdatum und Aufgabenkreise (§ 1815 BGB)
 - **Berichtszeitraum:** Berichtsbeginn und -ende (Anfangsbericht: ab
-  Bestellung; Jahresbericht: 12 Monate; Schlussbericht: Ende der Betreuung)
+ Bestellung; Jahresbericht: 12 Monate; Schlussbericht: Ende der Betreuung)
 - **Persönliche Kontakte:** Datum, Dauer, Ort und Inhalt jedes Besuchs oder
-  Telefonats (§ 1821 Abs. 5 BGB — Pflicht zum persönlichen Kontakt)
+ Telefonats (§ 1821 Abs. 5 BGB — Pflicht zum persönlichen Kontakt)
 - **Wohnsituation:** Wechsel der Wohnung, Heimaufnahme, Heimwechsel,
-  Klinikaufenthalte
+ Klinikaufenthalte
 - **Gesundheitliche Situation:** Diagnosen (aktuelle Arztbriefe), Pflegegrad,
-  Behandlungen, ärztliche Maßnahmen mit Einwilligungsbedarf (§§ 1828 ff. BGB)
+ Behandlungen, ärztliche Maßnahmen mit Einwilligungsbedarf (§§ 1828 ff. BGB)
 - **Soziale Kontakte:** Familienangehörige, Freundeskreis, Ehrenamtliche
 - **Vermögensentwicklung:** Eckdaten (Anfangsbestand, Endbestand,
-  wesentliche Veränderungen) — Detailausweis erfolgt in der gesonderten
-  Rechnungslegung (§ 1865 BGB)
+ wesentliche Veränderungen) — Detailausweis erfolgt in der gesonderten
+ Rechnungslegung (§ 1865 BGB)
 - **Wünsche und Präferenzen der betreuten Person** (§ 1821 Abs. 2, 3 BGB —
-  Vorrang der Wünsche)
+ Vorrang der Wünsche)
 - **Bestehender Anfangs- oder Vorjahresbericht** (zur Fortschreibung)
 
 ## Rechtlicher Rahmen
@@ -49,10 +49,10 @@ geplante Ausgestaltung der Betreuung zu berichten.
 **Abs. 2 — Inhalt des Anfangsberichts:**
 1. die persönlichen Verhältnisse der betreuten Person,
 2. die Wünsche der betreuten Person und die geplanten Maßnahmen zu ihrer
-   Verwirklichung,
+ Verwirklichung,
 3. ggf. Gründe, weshalb Wünschen nicht entsprochen werden kann,
 4. die geplante Ausgestaltung der persönlichen Betreuung, insbesondere die
-   Häufigkeit persönlicher Kontakte.
+ Häufigkeit persönlicher Kontakte.
 
 **Abs. 3 — Jahresbericht:** Mindestens einmal jährlich hat der Betreuer dem
 Betreuungsgericht über die persönlichen Verhältnisse der betreuten Person
@@ -63,7 +63,7 @@ enthält insbesondere:
 2. den Umfang und Inhalt der persönlichen Kontakte,
 3. die Wünsche der betreuten Person und ihre Verwirklichung,
 4. Mitteilung, ob Anlass besteht, die Betreuung aufzuheben oder den
-   Aufgabenkreis (§ 1815 BGB) zu erweitern oder einzuschränken.
+ Aufgabenkreis (§ 1815 BGB) zu erweitern oder einzuschränken.
 
 **Abs. 4 — Schlussbericht:** Bei Beendigung der Betreuung hat der Betreuer
 einen Schlussbericht zu erstatten.
@@ -120,50 +120,50 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Eingabesichtung und Kategorisierung**
-   Der Skill sichtet alle eingegebenen Dokumente (E-Mails, Aktenvermerke,
-   Arztbriefe, Heimberichte, Kontoauszüge, Behördenpost) und ordnet sie
-   einem der vier Pflichtabschnitte des § 1863 Abs. 3 BGB zu: persönliche
-   Verhältnisse, persönliche Kontakte, Wünsche, Anlass zur Änderung.
+ Der Skill sichtet alle eingegebenen Dokumente (E-Mails, Aktenvermerke,
+ Arztbriefe, Heimberichte, Kontoauszüge, Behördenpost) und ordnet sie
+ einem der vier Pflichtabschnitte des § 1863 Abs. 3 BGB zu: persönliche
+ Verhältnisse, persönliche Kontakte, Wünsche, Anlass zur Änderung.
 
 2. **Persönliche Verhältnisse darstellen**
-   - Wohnsituation (eigene Wohnung / Heim — mit Namen der Einrichtung,
-     Aufnahmedatum, Pflegegrad)
-   - Gesundheitlicher Zustand (aktuelle Diagnosen, Veränderungen im
-     Berichtszeitraum, Klinikaufenthalte)
-   - Soziales Umfeld (Angehörige, Freundeskreis, ehrenamtliche Helfer)
-   - Wirtschaftliche Verhältnisse in Eckdaten (Anfangs-/Endvermögen,
-     Sozialleistungsbezug)
-   - Berufliche oder ehrenamtliche Tätigkeit, Beschäftigung
+ - Wohnsituation (eigene Wohnung / Heim — mit Namen der Einrichtung,
+ Aufnahmedatum, Pflegegrad)
+ - Gesundheitlicher Zustand (aktuelle Diagnosen, Veränderungen im
+ Berichtszeitraum, Klinikaufenthalte)
+ - Soziales Umfeld (Angehörige, Freundeskreis, ehrenamtliche Helfer)
+ - Wirtschaftliche Verhältnisse in Eckdaten (Anfangs-/Endvermögen,
+ Sozialleistungsbezug)
+ - Berufliche oder ehrenamtliche Tätigkeit, Beschäftigung
 
 3. **Persönliche Kontakte tabellarisch belegen**
-   Pro Kontakt: Datum, Dauer, Ort, kurze Inhaltsangabe, eigener Eindruck,
-   Wunschbezug und offene Folgeaufgabe. Bei Heimbewohnern Kontakte nicht nur
-   aus Heimberichten ableiten.
+ Pro Kontakt: Datum, Dauer, Ort, kurze Inhaltsangabe, eigener Eindruck,
+ Wunschbezug und offene Folgeaufgabe. Bei Heimbewohnern Kontakte nicht nur
+ aus Heimberichten ableiten.
 
 4. **Wünsche und ihre Verwirklichung**
-   - Wünsche der betreuten Person (geäußert oder erschlossen aus früheren
-     Willensbekundungen, Patientenverfügung, Vorsorgevollmacht)
-   - Maßnahmen des Betreuers zur Verwirklichung
-   - Bei Abweichung: Begründung (§ 1821 Abs. 3 BGB — erhebliche
-     Gefährdung)
+ - Wünsche der betreuten Person (geäußert oder erschlossen aus früheren
+ Willensbekundungen, Patientenverfügung, Vorsorgevollmacht)
+ - Maßnahmen des Betreuers zur Verwirklichung
+ - Bei Abweichung: Begründung (§ 1821 Abs. 3 BGB — erhebliche
+ Gefährdung)
 
 5. **Anlass zur Änderung der Betreuung prüfen**
-   - Sind alle Aufgabenkreise weiter erforderlich? (Verhältnismäßigkeit,
-     § 1814 Abs. 3 BGB)
-   - Sind weitere Aufgabenkreise erforderlich geworden?
-   - Lässt sich die Betreuung aufheben (z. B. wegen Vorsorgevollmacht
-     oder Genesung)?
+ - Sind alle Aufgabenkreise weiter erforderlich? (Verhältnismäßigkeit,
+ § 1814 Abs. 3 BGB)
+ - Sind weitere Aufgabenkreise erforderlich geworden?
+ - Lässt sich die Betreuung aufheben (z. B. wegen Vorsorgevollmacht
+ oder Genesung)?
 
 6. **Vermögensentwicklung — Eckdaten**
-   Bei Vermögenssorge: kurze Eckdaten (Anfangsbestand, Endbestand, große
-   Veränderungen). Die detaillierte **Rechnungslegung** erfolgt gesondert
-   nach § 1865 BGB (vereinfachte Rechnungslegung für Familienangehörige
-   nach § 1859 BGB ggf. möglich).
+ Bei Vermögenssorge: kurze Eckdaten (Anfangsbestand, Endbestand, große
+ Veränderungen). Die detaillierte **Rechnungslegung** erfolgt gesondert
+ nach § 1865 BGB (vereinfachte Rechnungslegung für Familienangehörige
+ nach § 1859 BGB ggf. möglich).
 
 7. **Anlagen zusammenstellen**
-   Aktuelle Arztbriefe (sofern für Bericht relevant), Heim-/Pflegebericht
-   (sofern vorhanden), gegebenenfalls Patientenverfügung, Vorsorgevollmacht,
-   Schreiben mit Wunschäußerungen der betreuten Person.
+ Aktuelle Arztbriefe (sofern für Bericht relevant), Heim-/Pflegebericht
+ (sofern vorhanden), gegebenenfalls Patientenverfügung, Vorsorgevollmacht,
+ Schreiben mit Wunschäußerungen der betreuten Person.
 
 ## Ausgabeformat
 
@@ -177,42 +177,42 @@ Aktenzeichen: [XVII … / …]
 Jahresbericht des Betreuers nach § 1863 Abs. 3 BGB
 Berichtszeitraum: [TT.MM.JJJJ – TT.MM.JJJJ]
 
-Betreute Person:    [Name, Vorname]
-Geboren:            [TT.MM.JJJJ]
-Anschrift:          [Aktueller Aufenthaltsort, Einrichtung]
-Bestellung:         [TT.MM.JJJJ]
-Aufgabenkreise:     [Aufzählung gem. § 1815 BGB]
+Betreute Person: [Name, Vorname]
+Geboren: [TT.MM.JJJJ]
+Anschrift: [Aktueller Aufenthaltsort, Einrichtung]
+Bestellung: [TT.MM.JJJJ]
+Aufgabenkreise: [Aufzählung gem. § 1815 BGB]
 
 1. Persönliche Verhältnisse der betreuten Person
-   1.1 Wohnsituation
-   1.2 Gesundheitlicher Zustand
-   1.3 Soziales Umfeld
-   1.4 Wirtschaftliche Verhältnisse (Eckdaten)
+ 1.1 Wohnsituation
+ 1.2 Gesundheitlicher Zustand
+ 1.3 Soziales Umfeld
+ 1.4 Wirtschaftliche Verhältnisse (Eckdaten)
 
 2. Persönliche Kontakte im Berichtszeitraum
-   Tabellarische Aufstellung: Datum | Ort | Dauer | Inhalt
-   Gesamtfrequenz: [n Besuche, n Telefonate]
+ Tabellarische Aufstellung: Datum | Ort | Dauer | Inhalt
+ Gesamtfrequenz: [n Besuche, n Telefonate]
 
 3. Wünsche der betreuten Person und ihre Verwirklichung
-   3.1 Geäußerte oder erschlossene Wünsche
-   3.2 Umgesetzte Maßnahmen
-   3.3 Ggf. Abweichungen und deren Begründung (§ 1821 Abs. 3 BGB)
+ 3.1 Geäußerte oder erschlossene Wünsche
+ 3.2 Umgesetzte Maßnahmen
+ 3.3 Ggf. Abweichungen und deren Begründung (§ 1821 Abs. 3 BGB)
 
 4. Anlass zur Änderung der Betreuung
-   [Aufhebung / Erweiterung / Einschränkung / kein Anlass]
+ [Aufhebung / Erweiterung / Einschränkung / kein Anlass]
 
 5. Vermögensentwicklung (Eckdaten)
-   Anfangsbestand:  [Datum, Betrag]
-   Endbestand:      [Datum, Betrag]
-   Wesentliche Veränderungen:
-   Gesonderte Rechnungslegung nach § 1865 BGB: beigefügt / folgt am …
+ Anfangsbestand: [Datum, Betrag]
+ Endbestand: [Datum, Betrag]
+ Wesentliche Veränderungen:
+ Gesonderte Rechnungslegung nach § 1865 BGB: beigefügt / folgt am …
 
 6. Anlagen
-   [Liste]
+ [Liste]
 
-Ort, Datum                              [Name, Unterschrift Betreuer/in]
-                                        Betreuer/in
-                                        ggf. Registrierungs-Nr. bei Berufsbetreuung
+Ort, Datum [Name, Unterschrift Betreuer/in]
+ Betreuer/in
+ ggf. Registrierungs-Nr. bei Berufsbetreuung
 ```
 
 ## Beispiel
@@ -221,18 +221,18 @@ Ort, Datum                              [Name, Unterschrift Betreuer/in]
 
 - Betreuung Frau Hannelore K., geb. 14.03.1942, AZ XVII 0234/24
 - Aufgabenkreise: Vermögenssorge, Gesundheitssorge, Aufenthaltsbestimmung,
-  Vertretung gegenüber Heim, Postangelegenheiten
+ Vertretung gegenüber Heim, Postangelegenheiten
 - Berichtszeitraum: 01.06.2025 – 31.05.2026
 - E-Mails: 12 mit Heimleitung Sonnenhof Berlin-Spandau, 4 mit Hausarzt
-  Dr. Petersen, 8 mit Rentenversicherung
+ Dr. Petersen, 8 mit Rentenversicherung
 - Aktenvermerke: 6 Besuche im Heim (jeweils ca. 60 Min), 14 Telefonate
 - Arztbriefe: Kardiologie Vivantes Spandau v. 12.09.2025 (Vorhofflimmern,
-  Antikoagulation eingeleitet); Allgemeinmedizin Petersen v. 02.03.2026
+ Antikoagulation eingeleitet); Allgemeinmedizin Petersen v. 02.03.2026
 - Heimrechnung: Pflegegrad 4, Eigenanteil 2.341 EUR/Monat, Sozialhilfe ergänzt
 - Kontoauszüge: Anfangsbestand 18342.12 EUR, Endbestand 16108.77 EUR
 - Wunschäußerung Frau K. (Vermerk v. 24.11.2025): "Möchte am Heiligabend
-  bei Tochter Susanne in Potsdam sein" — umgesetzt durch Abholfahrt am
-  24.12.2025
+ bei Tochter Susanne in Potsdam sein" — umgesetzt durch Abholfahrt am
+ 24.12.2025
 
 **Ausgabe (Auszug Abschnitt 2):**
 

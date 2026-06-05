@@ -1,6 +1,6 @@
 ---
 name: allgemein-kaltstart-und-routing
-description: "Allgemeiner Kaltstart und Routing: vertiefter Berufsrechts-Skill für Patentanwälte; prüft führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung."
+description: "Allgemeiner Kaltstart und Routing: vertiefter Berufsrechts-Skill für Patentanwälte; führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung."
 ---
 
 # Allgemeiner Kaltstart und Routing

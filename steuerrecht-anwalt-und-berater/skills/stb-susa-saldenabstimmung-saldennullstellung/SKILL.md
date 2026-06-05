@@ -1,13 +1,13 @@
 ---
 name: stb-susa-saldenabstimmung-saldennullstellung
-description: "Nutze dies, wenn Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso, Stb Warnschreiben Krisensignale und 2 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso, Stb Warnschreiben Krisensignale und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso, Stb Warnschreiben Krisensignale und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso, Stb Warnschreiben Krisensignale und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso, Stb Warnschreiben Krisensignale und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,10 +16,10 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `stb-susa-saldenabstimmung-bestaetigung` | Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass. Anwendungsfall Bilanzvorbereitung Stichtag Forderungen und Verbindlichkeiten Lieferanten Kunden Banken. Methodik Abstimmungsschreiben Antwortauswertung Differenzklaerung. Output Saldenbestätigungs-Mappe. |
 | `stb-susa-saldennullstellung-jahresende` | Erfolgskonten-Saldennullstellung zum Jahresende. Anwendungsfall Jahresabschluss-Vorbereitung Schluss-SuSa GuV-Überleitung Bilanzgewinn auf Konto 800 oder 2000. Methodik Abschlussbuchungen über GuV-Konto. Output Geschlossene Erfolgskonten Bilanzgewinn ueberführt. |
 | `stb-susa-vorperiode-vergleich` | SuSa-Periodenvergleich Vormonat und Vorjahr. Anwendungsfall Prüfung Salden-Konsistenz Saldenentwicklung Vergleich der einzelnen Konten über Perioden. Methodik Differenz-Tabelle Auffälligkeit Hinweis-Liste. Output SuSa mit Vergleichsspalten Auswertung Differenzen. |
-| `stb-ueberschuldungspruefung-19-inso` | Workflow-Skill zu stb ueberschuldungspruefung 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `stb-warnschreiben-krisensignale` | Workflow-Skill zu stb warnschreiben krisensignale. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `stb-ueberschuldungspruefung-19-inso` | Arbeitsmodul zu stb ueberschuldungspruefung 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `stb-warnschreiben-krisensignale` | Arbeitsmodul zu stb warnschreiben krisensignale: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `e-rechnung-umsatzsteuer-umsetzung-und-fehler` | Führt Unternehmen durch die E-Rechnungspflichten ab 2025, UStAE/BMF-Linie, Validierung, Archivierung, Rechnungseingang, Ausgangsrechnung und GoBD-Schnittstelle. |
-| `vergleichsverhandlung-strategie` | Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `vergleichsverhandlung-strategie` | Arbeitsmodul zu vergleichsverhandlung strategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -93,7 +93,7 @@ Zum Bilanzstichtag muessen die Forderungen und Verbindlichkeiten extern bestaeti
 
 ```
 ABSTIMMUNGSSCHREIBEN
-[StB-Briefkopf]                                  [Datum]
+[StB-Briefkopf] [Datum]
 
 An: [Geschaeftspartner]
 
@@ -252,14 +252,14 @@ Zum Jahresende muessen die Erfolgskonten (Klasse 4-8 SKR 03, Klasse 4-7 SKR 04) 
 
 ```
 SCHLIESSUNG ERFOLGSKONTEN GuV:
-Soll                                         Haben
-Konto 8000-8999 (Erloese, SKR 03)            Konto 9999 GuV-Sammelkonto
-Konto 4000-4999 (Aufwand, SKR 03)            Konto 9999 GuV-Sammelkonto
+Soll Haben
+Konto 8000-8999 (Erloese, SKR 03) Konto 9999 GuV-Sammelkonto
+Konto 4000-4999 (Aufwand, SKR 03) Konto 9999 GuV-Sammelkonto
 
 Nach Schliessung:
 Saldo Konto 9999 (Gewinn/Verlust) → Konto 2000 (Bilanzgewinn) [GmbH]
-                                  oder 800 (Kapital) [Einzel]
-                                  oder 3010 (Privat) [Personenges.]
+ oder 800 (Kapital) [Einzel]
+ oder 3010 (Privat) [Personenges.]
 ```
 
 ### Phase 3 — DATEV-Automatik
@@ -388,16 +388,16 @@ Eine isolierte SuSa zeigt nur den Stichtag. Erst die Gegenueberstellung mit Vorm
 
 ```
 SUSA-VERGLEICH (Auszug)
-Konto  Bezeichnung      Aktuell  Vormonat  Diff  Vorjahres-Periode  Diff
-1200   Bank             [X]      [Y]       [Z]   [A]                [B]
-1400   Forderungen      [X]      [Y]       [Z]   [A]                [B]
-1500   Verbindl. LuL    [X]      [Y]       [Z]   [A]                [B]
-1576   Vorsteuer 19     [X]      [Y]       [Z]   [A]                [B]
-1776   USt 19           [X]      [Y]       [Z]   [A]                [B]
-2000   Eigenkapital     [X]      [Y]       [Z]   [A]                [B]
-4000   Erloese 19       [X]      [Y]       [Z]   [A]                [B]
-5000   Wareneingang 19  [X]      [Y]       [Z]   [A]                [B]
-6100   Lohn             [X]      [Y]       [Z]   [A]                [B]
+Konto Bezeichnung Aktuell Vormonat Diff Vorjahres-Periode Diff
+1200 Bank [X] [Y] [Z] [A] [B]
+1400 Forderungen [X] [Y] [Z] [A] [B]
+1500 Verbindl. LuL [X] [Y] [Z] [A] [B]
+1576 Vorsteuer 19 [X] [Y] [Z] [A] [B]
+1776 USt 19 [X] [Y] [Z] [A] [B]
+2000 Eigenkapital [X] [Y] [Z] [A] [B]
+4000 Erloese 19 [X] [Y] [Z] [A] [B]
+5000 Wareneingang 19 [X] [Y] [Z] [A] [B]
+6100 Lohn [X] [Y] [Z] [A] [B]
 ...
 ```
 
@@ -421,16 +421,16 @@ Konto  Bezeichnung      Aktuell  Vormonat  Diff  Vorjahres-Periode  Diff
 ```
 AUFFAELLIGKEITS-LISTE
 1. Konto 4000 (Erloese 19): aktueller Monat [X] Soll-Saldo vs. Habensaldo Vormonat.
-   Ursache vermuten: Gutschriften nicht erfasst?
-   Klaerung: Belege durchsehen.
+ Ursache vermuten: Gutschriften nicht erfasst?
+ Klaerung: Belege durchsehen.
 
 2. Konto 1590 (Verrechnungskonto): Saldo 12.500 EUR — kein Abbau.
-   Ursache vermuten: nicht zugeordnete Bankbewegungen.
-   Klaerung: GVC-Buchungen nachverfolgen.
+ Ursache vermuten: nicht zugeordnete Bankbewegungen.
+ Klaerung: GVC-Buchungen nachverfolgen.
 
 3. Konto 6020 (Loehne): Anstieg 38 Prozent vs. Vorjahres-Monat.
-   Ursache vermuten: neue Mitarbeiter oder Sonderzahlung.
-   Klaerung: mit Lohnabrechnung abgleichen.
+ Ursache vermuten: neue Mitarbeiter oder Sonderzahlung.
+ Klaerung: mit Lohnabrechnung abgleichen.
 ```
 
 ### Phase 6 — Korrektur und Reporting
@@ -481,7 +481,7 @@ Stand: 05/2026.
 
 ## 4. `stb-ueberschuldungspruefung-19-inso`
 
-**Fokus:** Workflow-Skill zu stb ueberschuldungspruefung 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu stb ueberschuldungspruefung 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)
 
@@ -496,7 +496,7 @@ Stand: 05/2026.
 
 ## Zweck
 
-Stichtagsbezogene Prüfung, ob bei einer GmbH/UG **rechnerische Überschuldung** vorliegt und ob die **Fortbestehensprognose** positiv oder negativ ausfällt. Pflicht-Workflow für den Steuerberater bei jeder Bilanz/SuSa mit Krisensignalen aus `stb-bwa-sus-bilanz-pruefung`. Ergebnis steuert direkt das Warnschreiben an die Geschäftsführung (`stb-warnschreiben-krisensignale`) und damit die eigene Haftungsvermeidung des Steuerberaters.
+Stichtagsbezogene Prüfung, ob bei einer GmbH/UG **rechnerische Überschuldung** vorliegt und ob die **Fortbestehensprognose** positiv oder negativ ausfällt. Pflicht-für den Steuerberater bei jeder Bilanz/SuSa mit Krisensignalen aus `stb-bwa-sus-bilanz-pruefung`. Ergebnis steuert direkt das Warnschreiben an die Geschäftsführung (`stb-warnschreiben-krisensignale`) und damit die eigene Haftungsvermeidung des Steuerberaters.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -584,8 +584,8 @@ Nur erforderlich, wenn Stufe 1 negativ ist. Bilanz wird zu **Liquidationswerten*
 | Sonstige Verbindlichkeiten | Nennwert |
 
 → Differenz Aktiva − Passiva:
-  - positiv oder ausgeglichen: **rechnerisch nicht überschuldet** (auch wenn Fortbestehensprognose negativ ist, nur Liquidität § 17 InsO prüfen).
-  - negativ: **rechnerisch überschuldet** + negative Fortbestehensprognose → **Überschuldung i.S.d. § 19 Abs. 2 InsO** → § 15a InsO Insolvenzantragspflicht der Geschäftsführung.
+ - positiv oder ausgeglichen: **rechnerisch nicht überschuldet** (auch wenn Fortbestehensprognose negativ ist, nur Liquidität § 17 InsO prüfen).
+ - negativ: **rechnerisch überschuldet** + negative Fortbestehensprognose → **Überschuldung i.S.d. § 19 Abs. 2 InsO** → § 15a InsO Insolvenzantragspflicht der Geschäftsführung.
 
 ## Ampel-Klassifikation
 
@@ -651,7 +651,7 @@ Stand: 05/2026. Maßgebliche Reformen berücksichtigt: SanInsKG (24-Monats-Progn
 
 ## 5. `stb-warnschreiben-krisensignale`
 
-**Fokus:** Workflow-Skill zu stb warnschreiben krisensignale. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu stb warnschreiben krisensignale: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen
 
@@ -704,7 +704,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## Prüfschema Warnschreiben-Erstellung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -782,7 +782,7 @@ Vorab per Telefax [Fax-Nr.], dann per Einschreiben mit Rückschein
 
 Unsere Mandats-Nr.: [Nr.]
 Betreff: Hinweis auf erkennbare Krisensituation Ihrer Gesellschaft
-         Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Sehr geehrte/r Herr / Frau [GF-Name],
 
@@ -791,19 +791,19 @@ aufgestellten betriebswirtschaftlichen Auswertung zum Stichtag [Datum]
 ergeben sich folgende konkrete Krisensignale:
 
 1. Eigenkapital negativ — Bilanzentwurf zum [Datum] weist ein
-   Eigenkapital von EUR −[Betrag] aus (Vorjahr: EUR −[Betrag]).
+ Eigenkapital von EUR −[Betrag] aus (Vorjahr: EUR −[Betrag]).
 
 2. Sozialversicherungsbeiträge für [Monat 1], [Monat 2], [Monat 3]
-   nicht abgeführt: Rückstand EUR [Betrag]. Dies begründet ein Risiko
-   nach § 266a StGB und dokumentiert mögliche Zahlungsunfähigkeit.
+ nicht abgeführt: Rückstand EUR [Betrag]. Dies begründet ein Risiko
+ nach § 266a StGB und dokumentiert mögliche Zahlungsunfähigkeit.
 
 3. Liquiditätslücke nach 3-Wochen-Vorschau (§ 17 InsO):
-   Fällige Verbindlichkeiten EUR [P], verfügbare Mittel EUR [A],
-   Unterdeckung EUR [L] (Quote [X] %). Diese Lücke ist nach
-   derzeitigem Kenntnisstand nicht binnen 3 Wochen schließbar.
+ Fällige Verbindlichkeiten EUR [P], verfügbare Mittel EUR [A],
+ Unterdeckung EUR [L] (Quote [X] %). Diese Lücke ist nach
+ derzeitigem Kenntnisstand nicht binnen 3 Wochen schließbar.
 
 4. Steuerrückstände beim Finanzamt [FA-Name] über EUR [Betrag]:
-   davon EUR [y] seit über 3 Monaten überfällig.
+ davon EUR [y] seit über 3 Monaten überfällig.
 
 Diese Signale begründen den begründeten Verdacht einer Krise nach IDW S 6
 und möglicher Insolvenzreife im Sinne von §§ 17, 19 InsO.
@@ -828,12 +828,12 @@ steht uns als Steuerberater nach § 5 RDG nicht zu.
 Wir empfehlen Ihnen dringend, **binnen einer Woche**:
 
 a) einen Fachanwalt für Insolvenz-/Sanierungsrecht oder einen
-   Steueranwalt mit Sanierungserfahrung zu konsultieren;
+ Steueranwalt mit Sanierungserfahrung zu konsultieren;
 b) eine integrierte Liquiditätsvorschau und ein Sanierungskonzept
-   nach IDW S 6 erstellen zu lassen;
+ nach IDW S 6 erstellen zu lassen;
 c) die SV-Beiträge vorrangig nachzuzahlen (§ 266a StGB-Risiko);
 d) keine weiteren Zahlungen ohne anwaltlichen Rat zu leisten,
-   die die Insolvenzmasse schmälern könnten.
+ die die Insolvenzmasse schmälern könnten.
 
 Bitte bestätigen Sie den Eingang dieses Schreibens und die ergriffenen
 Maßnahmen innerhalb von 7 Tagen schriftlich. Bei Ausbleiben der Reaktion
@@ -893,22 +893,22 @@ Datum: [Datum]
 Teilnehmer: StB [Name], GF [Firma GmbH, Name], ggf. RA [Name]
 
 1. Gesprächsanlass: Erörterung Krisensignale gemäß BWA-Auswertung
-   und Hinweisschreiben vom [Datum].
+ und Hinweisschreiben vom [Datum].
 
 2. Präsentierte Daten: Liquiditätsvorschau KW [x]–[y]; Krisenmatrix;
-   Ampelstatus KW [z]: ROT.
+ Ampelstatus KW [z]: ROT.
 
 3. Reaktion GF: [dokumentieren: Zur Kenntnis genommen / bestritten /
-   eigene Maßnahmen angekündigt / kein Kommentar].
+ eigene Maßnahmen angekündigt / kein Kommentar].
 
 4. Beschlossene Maßnahmen: [z.B. Bankgespräch bis [Datum]; RA [Name]
-   beauftragt für anwaltliche Insolvenzreife-Prüfung].
+ beauftragt für anwaltliche Insolvenzreife-Prüfung].
 
 5. Nächster Besprechungstermin: [Datum].
 
 6. Eigene Haftungsabsicherung StB: Dieses Gespräch ist dokumentiert.
-   Warnschreiben vom [Datum] und Erinnerungsschreiben vom [Datum]
-   liegen in der Mandatsakte.
+ Warnschreiben vom [Datum] und Erinnerungsschreiben vom [Datum]
+ liegen in der Mandatsakte.
 
 Unterschrift StB: _________________
 Datum: ___________________________
@@ -985,7 +985,7 @@ Implementierungsplan, Fehlerampel, Verfahrensdokumentationsbaustein und E-Rechnu
 
 ## 7. `vergleichsverhandlung-strategie`
 
-**Fokus:** Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu vergleichsverhandlung strategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)
 
@@ -1000,7 +1000,7 @@ Implementierungsplan, Fehlerampel, Verfahrensdokumentationsbaustein und E-Rechnu
 
 ## Fachkern: Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)
 
-- **Spezialfrage (Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)):** Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Spezialfrage (Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)):** Arbeitsmodul zu vergleichsverhandlung strategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
 

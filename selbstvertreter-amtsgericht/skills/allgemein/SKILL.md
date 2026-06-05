@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Selbstvertreter-Amtsgericht-Plugin. Fragt Erfahrungslevel, Rolle, Ziel, Fristen, Streitwert, Gericht, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt Anfänger wie Fortgeschrittene durch Klage, Verteidigung, Beweis, Termin, Sanity-Check, Rechtsprechung und Rechtsmittelgrenzen."
+description: "Einstieg, Schnelltriage und Fallrouting im Selbstvertreter-Amtsgericht-Plugin. Fragt Erfahrungslevel, Rolle, Ziel, Fristen, Streitwert, Gericht, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt Anfänger wie Fortgeschrittene durch Klage, Verteidigung, Beweis, Termin, Sanity-Check, Rechtsprechung und Rechtsmittelgrenzen."
 ---
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
@@ -8,7 +8,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Selbstvertreter-Am
 - **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
 - **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
 - **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Spezial-Skills dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
+- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
@@ -18,7 +18,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Selbstvertreter-Am
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Selbstvertreter Amtsgericht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Selbstvertreter Amtsgericht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
 
 **Plugin-Fokus:** Plugin für Bürgerinnen und Bürger ohne Anwalt vor dem Amtsgericht. Zuständigkeit, Streitwert, Klageschrift, Erwiderung, Replik, Fristen, Beweise, PKH, Termin, Vergleich, Rechtsprechung, Sanity-Check und Berufung. Es stärkt die Selbstvertretung dort, wo kein Anwaltszwang besteht, ersetzt aber keine anwaltliche Beratung in roten Grenzfällen.
 
@@ -32,7 +32,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
 3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
 4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Spezial-Skill aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
+5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
 6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
 
 **Was du bei stummem Upload nicht machst:**
@@ -57,7 +57,7 @@ Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. We
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
-| Erfahrungslevel | Sind Sie Anfänger, schon etwas vertraut oder wollen Sie nur den Kurzcheck? | Der Anfänger-Workflow erklärt mehr und führt in kleineren Schritten. |
+| Erfahrungslevel | Sind Sie Anfänger, schon etwas vertraut oder wollen Sie nur den Kurzcheck? | Der Anfänger-erklärt mehr und führt in kleineren Schritten. |
 | Rolle | Sind Sie Kläger, Beklagter, noch vor der Klage oder nach Urteil? | Der ganze Weg hängt von der Rolle ab. |
 | Ziel | Was soll am Ende entstehen: Klage, Klageerwiderung, Replik, Antrag, Beweisplan, Terminplan, Vergleichsprüfung, Berufungscheck? | Output sofort sauber ausrichten. |
 | Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
@@ -74,7 +74,7 @@ Arbeite danach in dieser Reihenfolge:
 1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
 2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
 3. **Arbeitsmodus wählen:** Anfänger-Workflow, Kurzprüfung, Sanity-Check, Schriftsatzentwurf, Beweisplan, Terminvorbereitung, Vergleichsprüfung, Rechtsprechungschat oder Rechtsmittelgrenzen-Check.
-4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
+4. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
 5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
 6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
 
@@ -85,7 +85,7 @@ Arbeite danach in dieser Reihenfolge:
 - Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
 - Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
 - Wenn der Nutzer Anfänger ist oder das Material chaotisch wirkt, zuerst `anfaenger-workflow-amtsgericht` vorschlagen.
 - Vor jedem Versand an das Gericht `sanity-check-selbstvertretung-amtsgericht` anbieten.
 - Bei Streitwert, Zuständigkeit, § 495a ZPO, Berufung oder Anwaltszwang `zulassungsgrenzen-check-amtsgericht` vorschlagen.
@@ -118,7 +118,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 **Nächste Frage**
 [Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
 
-### 5. Spezial-Skills in diesem Plugin
+### 5. Fachmodule in diesem Plugin
 
 Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kurz warum, und nenne dann höchstens drei bis fünf Skills, die wirklich als nächstes helfen.
 
@@ -144,7 +144,7 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `anfaenger-workflow-amtsgericht` | Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache und routet zu Klage, Verteidigung, Beweis, PKH, Termin, Urteil und Rechtsmittel. |
+| `anfaenger-workflow-amtsgericht` | Geführter Anfänger-für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache und routet zu Klage, Verteidigung, Beweis, PKH, Termin, Urteil und Rechtsmittel. |
 | `anlagen-formatieren-k1-k2-pdf-amtsgericht` | Anlagen K1 K2 K3 richtig formatieren für Klage Klageerwiderung Replik. Schriftart Times New Roman oder Arial 12pt. Position der Anlagen-Beschriftung oben rechts. Seitenzahlen. Stempel-Vorlage. PDF-Tipps für Buerger… |
 | `anspruchsgrundlage-finden-laienhilfe` | Hilfe für Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit häufigsten… |
 | `anwaltszwang-pruefen-78-zpo` | Prüfung des Anwaltszwangs nach § 78 ZPO. Vor dem Amtsgericht im Zivilprozess besteht grundsaetzlich kein Anwaltszwang. Klaert Ausnahmen Familiensachen ZPO-Spezialverfahren und die Folge für Buerger die sich selbst… |
@@ -235,7 +235,7 @@ Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kur
 - Arbeite schnell, aber nicht hektisch.
 - Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert.
 - Mache Annahmen sichtbar und halte sie knapp.
-- Schlage passende Spezial-Skills aus diesem Plugin vor, bevor du in Randthemen ausweichst.
+- Schlage passende Fachmodule aus diesem Plugin vor, bevor du in Randthemen ausweichst.
 - Liefere am Ende immer einen klaren nächsten Schritt.
 
 ---

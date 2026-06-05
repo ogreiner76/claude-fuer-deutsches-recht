@@ -1,13 +1,13 @@
 ---
 name: ifg-ifggebv-gebuehren-kosten-deckeln
-description: "Nutze dies, wenn Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle im Plugin Informationsfreiheit Presseauskunft konkret bearbeitet werden soll. Auslöser: Bitte Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle prüfen.; Erstelle eine Arbeitsfassung zu Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ifg 047 Ifggebv Gebuehren Antrag Formulieren, Ifg 050 Ifggebv Gebuehren Kosten Deckeln, Ifg 051 Ifggebv Gebuehren Schwaerzung Angreife, Ifg 052 Ifggebv Gebuehren Drittanhoerung Begle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ifg 047 Ifggebv Gebühren Antrag Formulieren, Ifg 050 Ifggebv Gebühren Kosten Deckeln, Ifg 051 Ifggebv Gebühren Schwaerzung Angreife, Ifg 052 Ifggebv Gebühren Drittanhoerung Begle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

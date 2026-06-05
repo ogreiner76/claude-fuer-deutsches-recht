@@ -1,22 +1,22 @@
 ---
 name: beschlussfaehigkeit-beschlussvorschlag
-description: "Nutze dies, wenn Beschlussfaehigkeit, Beschlussvorschlag, Business Judgment Rule, Compliance Untersuchung im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Beschlussfaehigkeit, Beschlussvorschlag, Business Judgment Rule, Compliance Untersuchung prüfen.; Erstelle eine Arbeitsfassung zu Beschlussfaehigkeit, Beschlussvorschlag, Business Judgment Rule, Compliance Untersuchung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beschlussfaehigkeit, Beschlussvorschlag, Business Judgment Rule, Compliance Untersuchung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beschlussfaehigkeit, Beschlussvorschlag, Business Judgment Rule, Compliance Untersuchung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beschlussfaehigkeit, Beschlussvorschlag, Business Judgment Rule, Compliance Untersuchung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beschlussfaehigkeit` | AG/SE-Aufsichtsrat Praxis: Beschlussfaehigkeit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beschlussvorschlag` | AG/SE-Aufsichtsrat Praxis: Beschlussvorschlag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `business-judgment-rule` | AG/SE-Aufsichtsrat Praxis: Business Judgment Rule; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `compliance-untersuchung` | AG/SE-Aufsichtsrat Praxis: Compliance Untersuchung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beschlussfaehigkeit` | AG/SE-Aufsichtsrat Praxis: Beschlussfaehigkeit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beschlussvorschlag` | AG/SE-Aufsichtsrat Praxis: Beschlussvorschlag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `business-judgment-rule` | AG/SE-Aufsichtsrat Praxis: Business Judgment Rule; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `compliance-untersuchung` | AG/SE-Aufsichtsrat Praxis: Compliance Untersuchung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Beschlussfaehigkeit, Beschlussvorschlag, Business Judgment Rule, Complian
 
 ## 1. `beschlussfaehigkeit`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Beschlussfaehigkeit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Beschlussfaehigkeit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beschlussfaehigkeit
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beschlussvorschlag`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Beschlussvorschlag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Beschlussvorschlag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beschlussvorschlag
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `business-judgment-rule`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Business Judgment Rule; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Business Judgment Rule; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Business Judgment Rule
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `compliance-untersuchung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Compliance Untersuchung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Compliance Untersuchung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Compliance Untersuchung
 

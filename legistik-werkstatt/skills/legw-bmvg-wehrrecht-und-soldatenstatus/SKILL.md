@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Wehrrecht und Soldatenstatus
-Ressort:            BMVg
-Kernnormen:         SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.
-Akteure/Aufsicht:   BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.
-EU/Voelkerrecht:    PESCO; EDF; EU-Verteidigungsbeschaffung.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmvg; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Wehrrecht und Soldatenstatus
+Ressort: BMVg
+Kernnormen: SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.
+Akteure/Aufsicht: BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.
+EU/Voelkerrecht: PESCO; EDF; EU-Verteidigungsbeschaffung.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

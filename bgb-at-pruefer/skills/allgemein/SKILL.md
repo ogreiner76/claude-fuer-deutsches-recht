@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im BGB-AT-Prüfer. Fragt Fallfrage, Rolle, Anspruchsziel, Tatsachen, Fristen, Erklärungen, Beteiligte und Wunsch-Output ab, baut einen schönen Arbeitsplan und schlägt passende Spezial-Skills aus diesem Plugin vor."
+description: "Einstieg, Schnelltriage und Fallrouting im BGB-AT-Prüfer. Fragt Fallfrage, Rolle, Anspruchsziel, Tatsachen, Fristen, Erklärungen, Beteiligte und Wunsch-Output ab, baut einen schönen Arbeitsplan und schlägt passende Fachmodule aus diesem Plugin vor."
 ---
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
@@ -8,7 +8,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im BGB-AT-Prüfer. Fr
 - **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
 - **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
 - **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Spezial-Skills dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
+- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
@@ -18,7 +18,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im BGB-AT-Prüfer. Fr
 
 ## Zweck
 
-Fallfrage und Arbeitsmodus klären, Themenkarte bauen, Spezial-Skills vorschlagen.
+Fallfrage und Arbeitsmodus klären, Themenkarte bauen, Fachmodule vorschlagen.
 
 ## Normanker
 
@@ -36,7 +36,7 @@ BGB AT insgesamt. Bei tragenden Normen `amtlicher-bgb-zpo-normcheck` zuschalten 
 1. Fallziel und Anspruchsebene bestimmen
 2. Personen, Erklärungen, Zeitpunkte und Dokumente erfassen
 3. Themenkarte zu Geschäftsfähigkeit, Vertragsschluss, Zugang, Form, Anfechtung, Stellvertretung und Verjährung bauen
-4. zwei bis fünf Spezial-Skills mit Grund und erwartetem Output vorschlagen
+4. zwei bis fünf Fachmodule mit Grund und erwartetem Output vorschlagen
 5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
 6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
 

@@ -36,7 +36,7 @@ Der Debt-Equity-Swap ist die Umwandlung einer Forderung des Gläubigers in Antei
 - **§ 17 EStG** — Anteile am Kapital von Gesellschaften.
 - **§ 8b KStG** — Beteiligungserträge.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Variante 1: Außergerichtlicher d/e-swap
 
@@ -90,31 +90,31 @@ Der Debt-Equity-Swap ist die Umwandlung einer Forderung des Gläubigers in Antei
 
 ```
 Ausgangslage:
-  Forderung Gläubiger A           EUR 1.500.000
-  Forderung Gläubiger B           EUR   500.000
-  Forderung Gläubiger C           EUR   300.000
-  Verlustvortrag KSt              EUR   400.000
-  Hebesatz GewSt                  410 %
+ Forderung Gläubiger A EUR 1.500.000
+ Forderung Gläubiger B EUR 500.000
+ Forderung Gläubiger C EUR 300.000
+ Verlustvortrag KSt EUR 400.000
+ Hebesatz GewSt 410 %
 
 Szenario 1: Vollständiger Forderungsverzicht
-  Sanierungsertrag                EUR 2.300.000
-  Verlustvortrag verbraucht       EUR  -400.000
-  steuerpflichtiger Ertrag ohne Antrag EUR 1.900.000
-  KSt + SolZ                      ~ EUR  300.000
-  GewSt                           ~ EUR  273.000
-  Gesamtsteuer ohne § 3a/§ 7b     ~ EUR  573.000
-  Mit Antrag § 3a/§ 7b: EUR 0
-  Aber: Bindungswirkung, Aufwand Vier-Voraussetzungen-Doku
+ Sanierungsertrag EUR 2.300.000
+ Verlustvortrag verbraucht EUR -400.000
+ steuerpflichtiger Ertrag ohne Antrag EUR 1.900.000
+ KSt + SolZ ~ EUR 300.000
+ GewSt ~ EUR 273.000
+ Gesamtsteuer ohne § 3a/§ 7b ~ EUR 573.000
+ Mit Antrag § 3a/§ 7b: EUR 0
+ Aber: Bindungswirkung, Aufwand Vier-Voraussetzungen-Doku
 
 Szenario 2: d/e-swap nur Gläubiger A, Rest Verzicht
-  Sacheinlage A (werthaltig)      EUR 1.500.000 ► Kapitalrücklage
-  Verzicht B + C                  EUR   800.000
-  Sanierungsertrag                EUR   800.000
-  Verlustvortrag verbraucht       EUR  -400.000
-  Rest steuerpflichtig ohne Antrag EUR  400.000
-  Steuerlast ohne Antrag         ~ EUR  120.000
-  Mit Antrag § 3a/§ 7b für 400.000: EUR 0 (Bindung nur kleinere Größe)
-  Verlustvortrag geschont in Höhe d/e-swap-Teil
+ Sacheinlage A (werthaltig) EUR 1.500.000 ► Kapitalrücklage
+ Verzicht B + C EUR 800.000
+ Sanierungsertrag EUR 800.000
+ Verlustvortrag verbraucht EUR -400.000
+ Rest steuerpflichtig ohne Antrag EUR 400.000
+ Steuerlast ohne Antrag ~ EUR 120.000
+ Mit Antrag § 3a/§ 7b für 400.000: EUR 0 (Bindung nur kleinere Größe)
+ Verlustvortrag geschont in Höhe d/e-swap-Teil
 
 ► d/e-swap erspart Verlustvortrag-Verbrauch
 ► reduziert Antrags-Bindungswirkung
@@ -184,6 +184,6 @@ nerin gem. § 364 BGB durch Konfusion.
 - **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
 - **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
 
-### Querverweis Spezial-Skill
+### Querverweis Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Liquidations-Alternative zum DES, wenn Restrukturierung scheitert.

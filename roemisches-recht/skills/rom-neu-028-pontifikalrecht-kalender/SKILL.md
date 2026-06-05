@@ -1,6 +1,6 @@
 ---
 name: rom-neu-028-pontifikalrecht-kalender
-description: "Nutze dies, wenn Römisches Recht: Pontifikalrecht Kalender und Rechtszugang im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Pontifikalrecht Kalender und Rechtszugang prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Pontifikalrecht Kalender und Rechtszugang.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Pontifikalrecht Kalender und Rechtszugang: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Pontifikalrecht Kalender und Rechtszugang

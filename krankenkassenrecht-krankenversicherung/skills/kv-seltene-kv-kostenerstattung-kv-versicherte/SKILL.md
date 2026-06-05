@@ -1,13 +1,13 @@
 ---
 name: kv-seltene-kv-kostenerstattung-kv-versicherte
-description: "Nutze dies, wenn Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente prüfen.; Erstelle eine Arbeitsfassung zu Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

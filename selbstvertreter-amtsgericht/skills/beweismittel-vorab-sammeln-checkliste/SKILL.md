@@ -106,12 +106,12 @@ Eigene Aussage ist im Zivilprozess **kein** vollwertiges Beweismittel. Sie wirkt
 Erstellen Sie eine Tabelle:
 
 ```
-Tatsache                  Beweismittel
-1. Vertrag geschlossen    Anlage K1 (Email-Verkehr)
-2. Lieferung erfolgt      Anlage K2 (Lieferschein), Zeuge X
-3. Rechnung gesandt       Anlage K3 (Rechnung)
-4. Mahnung versandt       Anlage K4 (Mahnung + Einschreiben-Beleg)
-5. Keine Zahlung          Anlage K5 (Kontoauszug)
+Tatsache Beweismittel
+1. Vertrag geschlossen Anlage K1 (Email-Verkehr)
+2. Lieferung erfolgt Anlage K2 (Lieferschein), Zeuge X
+3. Rechnung gesandt Anlage K3 (Rechnung)
+4. Mahnung versandt Anlage K4 (Mahnung + Einschreiben-Beleg)
+5. Keine Zahlung Anlage K5 (Kontoauszug)
 ```
 
 Diese Tabelle ist die Grundlage Ihrer Klage. Skill `klageschrift-beweisangebote-einbauen-373-zpo`.

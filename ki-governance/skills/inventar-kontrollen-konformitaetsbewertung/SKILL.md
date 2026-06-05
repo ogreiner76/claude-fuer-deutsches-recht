@@ -1,13 +1,13 @@
 ---
 name: inventar-kontrollen-konformitaetsbewertung
-description: "Nutze dies, wenn Spezial Ki Inventar Governance Und Kontrollen, Spezial Konformitaetsbewertung Red Team Und Qualitaetskontrolle, Spezial Marketing Mandantenkommunikation Entscheidungsvorlage im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Ki Inventar Governance Und Kontrollen, Konformitaetsbewertung Red Team Und Qualitaetskontrolle, Marketing Mandantenkommunikation Entscheidungsvorlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Ki Inventar Governance Und Kontrollen, Spezial Konformitaetsbewertung Red Team Und Qualitaetskontrolle, Spezial Marketing Mandantenkommunikation Entscheidungsvorlage
+# Ki Inventar Governance Und Kontrollen, Konformitaetsbewertung Red Team Und Qualitaetskontrolle, Marketing Mandantenkommunikation Entscheidungsvorlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ki Inventar Governance Und Kontrollen, Konformitaetsbewertung Red Team Und Qualitaetskontrolle, Marketing Mandantenkommunikation Entscheidungsvorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Ki Inventar Governance Und Kontrollen, Spezial Konformitaetsbewertung Red Team Und Qualitaetskontrolle, Spezial Marketing Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ki Inventar Governance Und Kontrollen, Konformitaetsbewertung Red Team Und Qualitaetskontrolle, Marketing Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,11 +31,11 @@ Für **Spezial Ki Inventar Governance Und Kontrollen, Spezial Konformitaetsbewer
 # KI-Inventar, Governance und Kontrollen
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `ki-governance`. Kontext des Plugins: EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `ki-governance`. Kontext des Plugins: EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -93,7 +93,7 @@ Schlankes Inventar (Tabelle) ist schnell aufgesetzt, aber ohne Lebenszyklus- und
 # Konformitaetsbewertung: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Konformitaetsbewertung: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Konformitaetsbewertung: Red-Team und Qualitätskontrolle / spezial konformitaetsbewertung red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Konformitaetsbewertung: Red-Team und Qualitätskontrolle / konformitaetsbewertung red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -160,7 +160,7 @@ Interne Kontrolle (Anhang VI) ist günstiger und schneller, scheitert aber bei n
 # Marketing: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Marketing: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Marketing: Mandantenkommunikation und Entscheidungsvorlage / spezial marketing mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Marketing: Mandantenkommunikation und Entscheidungsvorlage / marketing mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -185,15 +185,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Mandantenkommunikation Marketing-KI
 - **Sachstand:** Welches Marketing-Tool nutzt KI? Welche Funktion (Personalisierung, Predictive Targeting, Lookalike, dynamische Anzeigen, Chatbot)?
 - **Rechtsrahmen:**
-  - **DSGVO**: Art. 6 Rechtsgrundlage (oft Einwilligung Art. 6 Abs. 1 lit. a oder berechtigtes Interesse Art. 6 Abs. 1 lit. f); Art. 22 bei automatisierten Entscheidungen.
-  - **TDDDG § 25**: Einwilligung bei Endgerätezugriff (Cookies, Tracking-Pixel) — zwingend vor der Verarbeitung.
-  - **KI-VO Art. 50**: Transparenzpflicht bei KI-generierten Inhalten (z. B. Deepfakes), bei Chatbots klare Information.
-  - **UWG §§ 5, 5a**: Irreführungsverbot — KI-Empfehlungen müssen als solche erkennbar sein.
+ - **DSGVO**: Art. 6 Rechtsgrundlage (oft Einwilligung Art. 6 Abs. 1 lit. a oder berechtigtes Interesse Art. 6 Abs. 1 lit. f); Art. 22 bei automatisierten Entscheidungen.
+ - **TDDDG § 25**: Einwilligung bei Endgerätezugriff (Cookies, Tracking-Pixel) — zwingend vor der Verarbeitung.
+ - **KI-VO Art. 50**: Transparenzpflicht bei KI-generierten Inhalten (z. B. Deepfakes), bei Chatbots klare Information.
+ - **UWG §§ 5, 5a**: Irreführungsverbot — KI-Empfehlungen müssen als solche erkennbar sein.
 - **Risiken:** Bußgelder DSGVO (4 %), KI-VO (3-7 %), UWG-Abmahnungen.
 - **Empfehlung:** Transparenz-First-Strategie; klare Kennzeichnung, dokumentierte LIA, Opt-Out-Mechanismus.
 
 ## Praxis-Tipp
-KI-generierte Werbung muss nach Art. 50 KI-VO als solche gekennzeichnet sein — sonst riskieren Marketingteams sowohl KI-VO-Sanktion als auch UWG-Abmahnung wegen Irreführung. Empfehlung: standardisierter Kennzeichnungs-Workflow im DAM/CMS einrichten, nicht ad hoc.
+KI-generierte Werbung muss nach Art. 50 KI-VO als solche gekennzeichnet sein — sonst riskieren Marketingteams sowohl KI-VO-Sanktion als auch UWG-Abmahnung wegen Irreführung. Empfehlung: standardisierter Kennzeichnungs-im DAM/CMS einrichten, nicht ad hoc.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

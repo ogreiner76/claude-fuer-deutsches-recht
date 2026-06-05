@@ -1,13 +1,13 @@
 ---
 name: wahrnehmung-berechtigter-zitat
-description: "Nutze dies, wenn Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme prüfen.; Erstelle eine Arbeitsfassung zu Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wahrnehmung Berechtigter Interessen 193, Zitat Und Kontextaufnahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

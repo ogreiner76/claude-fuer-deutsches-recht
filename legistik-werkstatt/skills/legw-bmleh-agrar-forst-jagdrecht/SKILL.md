@@ -1,13 +1,13 @@
 ---
 name: legw-bmleh-agrar-forst-jagdrecht
-description: "Nutze dies, wenn Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht, Legw Bmukn Abfall Und Kreislaufwirtschaftsrecht und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht, Legw Bmukn Abfall Und Kreislaufwirtschaftsrecht und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht, Legw Bmukn Abfall Und Kreislaufwirtschaftsrecht und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht, Legw Bmukn Abfall Und Kreislaufwirtschaftsrecht und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht, Legw Bmukn Abfall Und Kreislaufwirtschaftsrecht und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,16 +87,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Agrar- und Foerderungsrecht (GAK; GAP)
-Ressort:            BMLEH
-Kernnormen:         GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.
-Akteure/Aufsicht:   BLE; Laender-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.
-EU/Voelkerrecht:    GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmleh; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Agrar- und Foerderungsrecht (GAK; GAP)
+Ressort: BMLEH
+Kernnormen: GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.
+Akteure/Aufsicht: BLE; Laender-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.
+EU/Voelkerrecht: GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -169,16 +169,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Forst- und Jagdrecht
-Ressort:            BMLEH
-Kernnormen:         BWaldG; BJagdG; LJagdGes der Laender; FleischhygieneG; ForstWG.
-Akteure/Aufsicht:   BLE; Laender-Forstaemter und Jagdbehoerden; BMLEH.
-EU/Voelkerrecht:    EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmleh; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Forst- und Jagdrecht
+Ressort: BMLEH
+Kernnormen: BWaldG; BJagdG; LJagdGes der Laender; FleischhygieneG; ForstWG.
+Akteure/Aufsicht: BLE; Laender-Forstaemter und Jagdbehoerden; BMLEH.
+EU/Voelkerrecht: EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -251,16 +251,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Lebensmittel- und Futtermittelrecht
-Ressort:            BMLEH
-Kernnormen:         LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.
-Akteure/Aufsicht:   BVL; BfR; Laender-Lebensmittelueberwachung; BMLEH; EFSA (EU).
-EU/Voelkerrecht:    VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmleh; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Lebensmittel- und Futtermittelrecht
+Ressort: BMLEH
+Kernnormen: LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.
+Akteure/Aufsicht: BVL; BfR; Laender-Lebensmittelueberwachung; BMLEH; EFSA (EU).
+EU/Voelkerrecht: VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -333,16 +333,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Tierschutz- und Tiergesundheitsrecht
-Ressort:            BMLEH
-Kernnormen:         TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.
-Akteure/Aufsicht:   BVL; FLI; Laender-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.
-EU/Voelkerrecht:    EU-Tiergesundheitsrecht (AHL); Tierhaltungsrichtlinien.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmleh; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Tierschutz- und Tiergesundheitsrecht
+Ressort: BMLEH
+Kernnormen: TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.
+Akteure/Aufsicht: BVL; FLI; Laender-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.
+EU/Voelkerrecht: EU-Tiergesundheitsrecht (AHL); Tierhaltungsrichtlinien.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -415,16 +415,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Abfall- und Kreislaufwirtschaftsrecht
-Ressort:            BMUKN
-Kernnormen:         KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.
-Akteure/Aufsicht:   UBA; Laender-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.
-EU/Voelkerrecht:    EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmukn; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Abfall- und Kreislaufwirtschaftsrecht
+Ressort: BMUKN
+Kernnormen: KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.
+Akteure/Aufsicht: UBA; Laender-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.
+EU/Voelkerrecht: EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -497,16 +497,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Atom- und Strahlenschutzrecht
-Ressort:            BMUKN
-Kernnormen:         AtG; StrlSchG; StrlSchV; EndlSiUntG; StandAG; AtVfV.
-Akteure/Aufsicht:   BMUKN; BASE; BGE; BfS; Laender-Atomaufsichten; Reaktor-Sicherheitskommission.
-EU/Voelkerrecht:    Euratom-Vertrag; Grundnormen-RL; nukleare Sicherheit RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmukn; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Atom- und Strahlenschutzrecht
+Ressort: BMUKN
+Kernnormen: AtG; StrlSchG; StrlSchV; EndlSiUntG; StandAG; AtVfV.
+Akteure/Aufsicht: BMUKN; BASE; BGE; BfS; Laender-Atomaufsichten; Reaktor-Sicherheitskommission.
+EU/Voelkerrecht: Euratom-Vertrag; Grundnormen-RL; nukleare Sicherheit RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -579,16 +579,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Immissionsschutz (BImSchG)
-Ressort:            BMUKN
-Kernnormen:         BImSchG; BImSchV (1-44; TA Luft; TA Laerm); BBodSchG; UVPG; UmwRG.
-Akteure/Aufsicht:   UBA; BfS (Strahlen); Laender-Genehmigungsbehoerden; Bundesverwaltung Verkehr.
-EU/Voelkerrecht:    IED-RL; Luftqualitaets-RL; Umgebungslaerm-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmukn; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Immissionsschutz (BImSchG)
+Ressort: BMUKN
+Kernnormen: BImSchG; BImSchV (1-44; TA Luft; TA Laerm); BBodSchG; UVPG; UmwRG.
+Akteure/Aufsicht: UBA; BfS (Strahlen); Laender-Genehmigungsbehoerden; Bundesverwaltung Verkehr.
+EU/Voelkerrecht: IED-RL; Luftqualitaets-RL; Umgebungslaerm-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -661,16 +661,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Naturschutz- und Artenschutzrecht
-Ressort:            BMUKN
-Kernnormen:         BNatSchG; NatschGesetze der Laender; CITES; BJagdG (Schnittstelle).
-Akteure/Aufsicht:   BfN; UBA; Laender-Naturschutzbehoerden; Untere Naturschutzbehoerden.
-EU/Voelkerrecht:    FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Nature Restoration).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmukn; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Naturschutz- und Artenschutzrecht
+Ressort: BMUKN
+Kernnormen: BNatSchG; NatschGesetze der Laender; CITES; BJagdG (Schnittstelle).
+Akteure/Aufsicht: BfN; UBA; Laender-Naturschutzbehoerden; Untere Naturschutzbehoerden.
+EU/Voelkerrecht: FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Nature Restoration).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

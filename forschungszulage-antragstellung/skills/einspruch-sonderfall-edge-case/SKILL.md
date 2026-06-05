@@ -1,12 +1,12 @@
 ---
 name: einspruch-sonderfall-edge-case
-description: "Nutze dies, wenn Einspruch: Sonderfall und Edge-Case-Prüfung im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Einspruch: Sonderfall und Edge-Case-Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Einspruch: Sonderfall und Edge-Case-Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Einspruch: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Einspruch: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Einspruch: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Einspruch: Sonderfall und Edge-Case-Prüfung / spezial einspruch sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Einspruch: Sonderfall und Edge-Case-Prüfung / einspruch sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FZulG, BSFZ.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,22 +1,22 @@
 ---
 name: treuwidrige-anfechtung-unterlassung-mediation
-description: "Nutze dies, wenn Treuwidrige Anfechtung, Unterlassung, Vergleich Und Mediation, Vergleichskorridor im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Treuwidrige Anfechtung, Unterlassung, Vergleich Und Mediation, Vergleichskorridor prüfen.; Erstelle eine Arbeitsfassung zu Treuwidrige Anfechtung, Unterlassung, Vergleich Und Mediation, Vergleichskorridor.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Treuwidrige Anfechtung, Unterlassung, Vergleich Und Mediation, Vergleichskorridor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Treuwidrige Anfechtung, Unterlassung, Vergleich Und Mediation, Vergleichskorridor
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Treuwidrige Anfechtung, Unterlassung, Vergleich Und Mediation, Vergleichskorridor** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `treuwidrige-anfechtung` | Gesellschaftsrechtliche Treuepflicht: Treuwidrige Anfechtung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `unterlassung` | Gesellschaftsrechtliche Treuepflicht: Unterlassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vergleich-und-mediation` | Gesellschaftsrechtliche Treuepflicht: Vergleich Und Mediation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vergleichskorridor` | Gesellschaftsrechtliche Treuepflicht: Vergleichskorridor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuwidrige-anfechtung` | Gesellschaftsrechtliche Treuepflicht: Treuwidrige Anfechtung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `unterlassung` | Gesellschaftsrechtliche Treuepflicht: Unterlassung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vergleich-und-mediation` | Gesellschaftsrechtliche Treuepflicht: Vergleich Und Mediation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vergleichskorridor` | Gesellschaftsrechtliche Treuepflicht: Vergleichskorridor; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Treuwidrige Anfechtung, Unterlassung, Vergleich Und Mediation, Vergleichs
 
 ## 1. `treuwidrige-anfechtung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuwidrige Anfechtung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuwidrige Anfechtung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuwidrige Anfechtung
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `unterlassung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Unterlassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Unterlassung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Unterlassung
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `vergleich-und-mediation`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Vergleich Und Mediation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Vergleich Und Mediation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vergleich Und Mediation
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `vergleichskorridor`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Vergleichskorridor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Vergleichskorridor; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vergleichskorridor
 

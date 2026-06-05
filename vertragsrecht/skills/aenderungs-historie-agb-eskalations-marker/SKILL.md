@@ -1,13 +1,13 @@
 ---
 name: aenderungs-historie-agb-eskalations-marker
-description: "Nutze dies, wenn Aenderungs Historie, Agb Prüfung, Eskalations Marker im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Bitte Aenderungs Historie, Agb Prüfung, Eskalations Marker prüfen.; Erstelle eine Arbeitsfassung zu Aenderungs Historie, Agb Prüfung, Eskalations Marker.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aenderungs Historie, Agb Prüfung, Eskalations Marker: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aenderungs Historie, Agb Prüfung, Eskalations Marker
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aenderungs Historie, Agb Prüfung, Eskalations Marker** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -128,10 +128,10 @@ Einen internen Arbeitsindex aufbauen, bevor eine Ausgabe erstellt wird. Intern n
 
 Jeder Befund muss einen Inline-Abschnittsverweis enthalten, damit der Leser die Quelle prüfen kann, ohne zu suchen:
 
-  "Ordentliche Kündigung (§ 12 Abs. 3): Neu eingefügt. Auftraggeber kann mit 3 Monaten Frist kündigen, keine Vergütungsnachzahlung nach Ablauf der Erstlaufzeit."
+ "Ordentliche Kündigung (§ 12 Abs. 3): Neu eingefügt. Auftraggeber kann mit 3 Monaten Frist kündigen, keine Vergütungsnachzahlung nach Ablauf der Erstlaufzeit."
 
 Falls eine Bestimmung mehrere Abschnitte überspannt oder die Abschnittsnummer über Nachträge geändert wurde, alle Verweise zitieren:
-  "Haftungsbegrenzung (§ 9 Abs. 1 Basisvertrag; § 9 Abs. 1 neu gefasst in Nachtrag 3)"
+ "Haftungsbegrenzung (§ 9 Abs. 1 Basisvertrag; § 9 Abs. 1 neu gefasst in Nachtrag 3)"
 
 ### Ausgabeformat
 
@@ -285,9 +285,9 @@ Das Modell benötigt:
 1. **AGB-Text**: vollständiger Wortlaut der zu prüfenden Klauseln oder des gesamten Klauselwerks
 2. **Vertragstyp**: Kauf-, Werk-, Dienst-, Miet- oder sonstiger Vertrag
 3. **Vertragsparteien**: B2C (Verbraucher i. S. v. § 13 BGB) oder B2B (Unternehmer § 14 BGB);
-   ggf. gemischte Konstellationen
+ ggf. gemischte Konstellationen
 4. **Einbeziehungsmodalitäten**: Wie werden AGB einbezogen (Webshop, Bestellformular,
-   Rahmenvertrag)? Liegen Hinweis und Möglichkeit zur Kenntnisnahme vor?
+ Rahmenvertrag)? Liegen Hinweis und Möglichkeit zur Kenntnisnahme vor?
 5. **Besondere Branchen**: Energieversorgung, Banken, Versicherungen (Sonderregelungen)
 
 ## Rechtlicher Rahmen
@@ -300,27 +300,27 @@ Das Modell benötigt:
 - **§ 305c BGB** – überraschende und mehrdeutige Klauseln; Unklarheitenregel Abs. 2
 - **§ 306 BGB** – Rechtsfolge der Unwirksamkeit (Restgültigkeit des Vertrags, dispositivem Recht)
 - **§ 307 BGB** – Inhaltskontrolle; Abs. 1 S. 2 Transparenzgebot; Abs. 2 Nr. 1 (Abweichung
-  von Grundgedanken), Nr. 2 (Gefährdung des Vertragszwecks)
+ von Grundgedanken), Nr. 2 (Gefährdung des Vertragszwecks)
 - **§ 308 BGB** – Klauselverbote mit Wertungsmöglichkeit
 - **§ 309 BGB** – Klauselverbote ohne Wertungsmöglichkeit (absolute Verbote)
 - **§ 310 Abs. 1 BGB** – eingeschränkte Anwendung §§ 308, 309 im B2B-Verkehr; nur § 307 BGB
-  vollanwendbar
+ vollanwendbar
 
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  von AGB im Onlinehandel; der bloße Verweis auf "unsere AGB" genügt, wenn die Klauseln vor
-  Vertragsschluss klar zugänglich sind; kein Erfordernis, dass der Verbraucher die AGB
-  tatsächlich liest.
+ von AGB im Onlinehandel; der bloße Verweis auf "unsere AGB" genügt, wenn die Klauseln vor
+ Vertragsschluss klar zugänglich sind; kein Erfordernis, dass der Verbraucher die AGB
+ tatsächlich liest.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  § 307 Abs. 1 S. 2 BGB; eine Preisanpassungsklausel ist unwirksam, wenn sie dem Verwender
-  die einseitige Anpassung ermöglicht, ohne dass der Vertragspartner die Höhe vorhersehen kann.
+ § 307 Abs. 1 S. 2 BGB; eine Preisanpassungsklausel ist unwirksam, wenn sie dem Verwender
+ die einseitige Anpassung ermöglicht, ohne dass der Vertragspartner die Höhe vorhersehen kann.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Laufzeitklauseln im B2B-Bereich; auch im B2B gilt § 307 BGB; eine übermäßig lange
-  Bindungsfrist kann den Vertragspartner unangemessen benachteiligen.
+ Laufzeitklauseln im B2B-Bereich; auch im B2B gilt § 307 BGB; eine übermäßig lange
+ Bindungsfrist kann den Vertragspartner unangemessen benachteiligen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  § 305c Abs. 2 BGB; bei zwei vertretbaren Auslegungen ist die für den Verwender ungünstigere
-  maßgeblich.
+ § 305c Abs. 2 BGB; bei zwei vertretbaren Auslegungen ist die für den Verwender ungünstigere
+ maßgeblich.
 
 ### Quellenregel
 
@@ -328,28 +328,28 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Qualifikation als AGB** (§ 305 Abs. 1 BGB): Sind die Klauseln vorformuliert für eine
-   Vielzahl von Verträgen? Wurde der Inhalt vom Verwender gestellt? Cave: 3-Verträge-Regel
-   der Rspr.
+ Vielzahl von Verträgen? Wurde der Inhalt vom Verwender gestellt? Cave: 3-Verträge-Regel
+ der Rspr.
 2. **Einbeziehungsprüfung** (§§ 305 Abs. 2, 305a BGB):
-   - Deutlicher Hinweis vor Vertragsschluss?
-   - Zumutbare Möglichkeit der Kenntnisnahme (Link oder Aushang)?
-   - Bei B2B: § 305 Abs. 2 BGB gilt nicht; konkludente Einbeziehung durch Handelsbrauch
-     möglich (§ 346 HGB).
+ - Deutlicher Hinweis vor Vertragsschluss?
+ - Zumutbare Möglichkeit der Kenntnisnahme (Link oder Aushang)?
+ - Bei B2B: § 305 Abs. 2 BGB gilt nicht; konkludente Einbeziehung durch Handelsbrauch
+ möglich (§ 346 HGB).
 3. **Individualabrede** (§ 305b BGB): Vorrang prüfen; Individualabrede muss ernsthaft
-   ausgehandelt sein (BGH: blo­ßes Textmarkieren im Formular ≠ Aushandeln).
+ ausgehandelt sein (BGH: blo­ßes Textmarkieren im Formular ≠ Aushandeln).
 4. **Überraschungsklauseln** (§ 305c Abs. 1 BGB): Ungewöhnlich und nicht zu erwarten?
-   Klausel wird nicht Vertragsbestandteil.
+ Klausel wird nicht Vertragsbestandteil.
 5. **Auslegung** (§ 305c Abs. 2 BGB): Bei Unklarheit → kundenfreundlichste Auslegung.
 6. **Inhaltskontrolle** §§ 307–309 BGB in der Prüfreihenfolge:
-   a. § 309 BGB (Verbote ohne Wertungsmöglichkeit) – abschließende schwarze Liste
-   b. § 308 BGB (Verbote mit Wertungsmöglichkeit) – graue Liste
-   c. § 307 BGB (Generalklausel) – unangemessene Benachteiligung; Transparenzgebot
-   Im B2B-Verkehr: §§ 308, 309 BGB gelten nur als Indizien für § 307 BGB
-   (§ 310 Abs. 1 S. 2 BGB).
+ a. § 309 BGB (Verbote ohne Wertungsmöglichkeit) – abschließende schwarze Liste
+ b. § 308 BGB (Verbote mit Wertungsmöglichkeit) – graue Liste
+ c. § 307 BGB (Generalklausel) – unangemessene Benachteiligung; Transparenzgebot
+ Im B2B-Verkehr: §§ 308, 309 BGB gelten nur als Indizien für § 307 BGB
+ (§ 310 Abs. 1 S. 2 BGB).
 7. **Rechtsfolge** (§ 306 BGB): Unwirksame Klausel entfällt; Vertrag bleibt im Übrigen
-   wirksam; dispositives Recht tritt an die Stelle (Lückenfüllung).
+ wirksam; dispositives Recht tritt an die Stelle (Lückenfüllung).
 8. **Empfehlung**: Klausel-für-Klausel-Tabelle mit Ampelsystem (grün/gelb/rot) und
-   Überarbeitungsvorschlägen.
+ Überarbeitungsvorschlägen.
 
 ## Ausgabeformat
 
@@ -379,18 +379,18 @@ Verbraucher nicht erkennen kann, welche konkreten Änderungen gelten sollen.
 ## Risiken und typische Fehler
 
 - **Einbeziehungsfehler**: AGB werden erst nach Vertragsschluss übermittelt → nicht wirksam
-  einbezogen (§ 305 Abs. 2 BGB); besonders kritisch bei E-Commerce.
+ einbezogen (§ 305 Abs. 2 BGB); besonders kritisch bei E-Commerce.
 - **Überraschungsklauseln** (§ 305c BGB): Klauseln an unerwarteter Stelle (z. B. Haftungsaus-
-  schluss in Lieferbedingungen) → unwirksam ohne Hinweis.
+ schluss in Lieferbedingungen) → unwirksam ohne Hinweis.
 - **Unterschätzung des B2B-Risikos**: Auch B2B-AGB unterliegen § 307 BGB; übermäßige
-  Haftungsfreizeichnungen und einseitige Preisänderungsrechte werden vom BGH kassiert.
+ Haftungsfreizeichnungen und einseitige Preisänderungsrechte werden vom BGH kassiert.
 - **Transparenzgebot** § 307 Abs. 1 S. 2 BGB: Preis­nachberechnungsklauseln ohne
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Geltungserhaltende Reduktion**: Im deutschen AGB-Recht grundsätzlich nicht zulässig
-  (BGH st. Rspr.); unwirksame Klausel entfällt ersatzlos oder wird durch dispositives Recht
-  ersetzt.
+ (BGH st. Rspr.); unwirksame Klausel entfällt ersatzlos oder wird durch dispositives Recht
+ ersetzt.
 - **Berufsrecht**: Keine Klauseln entwerfen, die § 43a BRAO oder berufsrechtliche Verbote
-  umgehen; Verschwiegenheit § 203 StGB beachten.
+ umgehen; Verschwiegenheit § 203 StGB beachten.
 
 ## Quellenpflicht
 
@@ -498,10 +498,10 @@ ich bitte um Genehmigung zu folgendem Vertragspunkt:
 **Optionen:**
 
 1. **Akzeptieren** – [Bedingung oder unkonditioniert]
-   Konsequenz: [was das bedeutet, z. B. "unbegrenzte Haftung bleibt bestehen; kein Deckungsschutz D&O"]
+ Konsequenz: [was das bedeutet, z. B. "unbegrenzte Haftung bleibt bestehen; kein Deckungsschutz D&O"]
 
 2. **Verhandeln** – Redline: [konkrete Formulierung]
-   Verhandlungsspielraum: [einschätzen, ob Markt-Standard / Gegenseite wird wahrscheinlich...]
+ Verhandlungsspielraum: [einschätzen, ob Markt-Standard / Gegenseite wird wahrscheinlich...]
 
 3. **Ablehnen** – [Begründung gegenüber Gegenseite]
 

@@ -1,13 +1,13 @@
 ---
 name: organisationsverschulden-ersteinschaetzung
-description: "Nutze dies, wenn Organisationsverschulden Ersteinschaetzung, Privilege Und Mandatsgeheimnis, Profiling Und Automatisierte Entscheidungen, Public Sector Und Vergabefolgen im Plugin Datenschutz Sanktionsverfahren Verteidigung konkret bearbeitet werden soll. Auslöser: Bitte Organisationsverschulden Ersteinschaetzung, Privilege Und Mandatsgeheimnis, Profiling Und Automatisierte Entscheidungen, Public Sector Und Vergabefolgen prüfen.; Erstelle eine Arbeitsfassung zu Organisationsverschulden Ersteinschaetzung, Privilege Und Mandatsgeheimnis, Profiling Und Automatisierte Entscheidungen, Public Sector Und Vergabefolgen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Organisationsverschulden Ersteinschaetzung, Privilege Und Mandatsgeheimnis, Profiling Und Automatisierte Entscheidungen, Public Sector Und Vergabefolgen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Organisationsverschulden Ersteinschaetzung, Privilege Und Mandatsgeheimnis, Profiling Und Automatisierte Entscheidungen, Public Sector Und Vergabefolgen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Organisationsverschulden Ersteinschaetzung, Privilege Und Mandatsgeheimnis, Profiling Und Automatisierte Entscheidungen, Public Sector Und Vergabefolgen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -24,12 +24,12 @@ description: "Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die K
 
 - Grundsatz: keine Fahrkostenuebernahme.
 - Ausnahmen § 60 Abs. 2 SGB V:
-  - Rettungsfahrt.
-  - Krankentransport mit medizinischer Begleitung.
-  - Genehmigung im Voraus erforderlich!
-  - Schwerbehinderte mit Merkzeichen "aG" "Bl" oder "H".
-  - Pflegegrad 3 mit Mobilitaetsbeschraenkung Pflegegrad 4 oder 5.
-  - Dauerhaftes Erfordernis (z. B. Onkologie Dialyse Bestrahlung) — als "vergleichbar schwerwiegender Fall".
+ - Rettungsfahrt.
+ - Krankentransport mit medizinischer Begleitung.
+ - Genehmigung im Voraus erforderlich!
+ - Schwerbehinderte mit Merkzeichen "aG" "Bl" oder "H".
+ - Pflegegrad 3 mit Mobilitaetsbeschraenkung Pflegegrad 4 oder 5.
+ - Dauerhaftes Erfordernis (z. B. Onkologie Dialyse Bestrahlung) — als "vergleichbar schwerwiegender Fall".
 
 ## Genehmigungsvorbehalt
 

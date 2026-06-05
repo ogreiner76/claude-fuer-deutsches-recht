@@ -1,13 +1,13 @@
 ---
 name: lph9-gewaehrleistungsmanagement-lph8
-description: "Nutze dies, wenn Hoai Lph9 Gewaehrleistungsmanagement Fristen, Lph8 Bauueberwachung Abnahmeprotokoll Foerder Erp, Lph8 Bauueberwachung Bautagebuch Erp Import, Lph8 Bauueberwachung Bewehrung Verlegekontrolle, Lph8 Bauueberwachung Bruecke Spannbeton Vorschub im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Lph9 Gewaehrleistungsmanagement Fristen, Lph8 Bauueberwachung Abnahmeprotokoll Foerder Erp, Lph8 Bauueberwachung Bautagebuch Erp Import, Lph8 Bauueberwachung Bewehrung Verlegekontrolle, Lph8 Bauueberwachung Bruecke Spannbeton Vorschub prüfen.; Erstelle eine Arbeitsfassung zu Hoai Lph9 Gewaehrleistungsmanagement Fristen, Lph8 Bauueberwachung Abnahmeprotokoll Foerder Erp, Lph8 Bauueberwachung Bautagebuch Erp Import, Lph8 Bauueberwachung Bewehrung Verlegekontrolle, Lph8 Bauueberwachung Bruecke Spannbeton Vorschub.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Lph9 Gewaehrleistungsmanagement Fristen, Lph8 Bauueberwachung Abnahmeprotokoll Foerder Erp, Lph8 Bauueberwachung Bautagebuch Erp Import, Lph8 Bauueberwachung Bewehrung Verlegekontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Lph9 Gewaehrleistungsmanagement Fristen, Lph8 Bauueberwachung Abnahmeprotokoll Foerder Erp, Lph8 Bauueberwachung Bautagebuch Erp Import, Lph8 Bauueberwachung Bewehrung Verlegekontrolle, Lph8 Bauueberwachung Bruecke Spannbeton Vorschub
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Lph9 Gewaehrleistungsmanagement Fristen, Lph8 Bauueberwachung Abnahmeprotokoll Foerder Erp, Lph8 Bauueberwachung Bautagebuch Erp Import, Lph8 Bauueberwachung Bewehrung Verlegekontrolle, Lph8 Bauueberwachung Bruecke Spannbeton Vorschub** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -60,7 +60,7 @@ Gewährleistungsdashboard mit Gewerk, Frist, Mangel, Anspruchsgegner, nächstem 
 
 # Abnahmeprotokoll und Foerder-ERP in der Bauueberwachung LPH 8
 
-Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprotokolle: Verwendungsnachweise fuer KfW, EFRE und Bundesfoerderungen muessen lueckenlos nachweisen, dass foerderungsrelevante Baumassnahmen ordnungsgemaess ausgefuehrt wurden. Abnahmeprotokoll und ERP-Buchung sind dabei untrennbar verknuepft. Dieser Skill beschreibt den vollstaendigen Workflow von der Abnahmebegehung bis zur SAP-FI-Buchung und Foerderantrag-Konformitaetsnachweis.
+Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprotokolle: Verwendungsnachweise fuer KfW, EFRE und Bundesfoerderungen muessen lueckenlos nachweisen, dass foerderungsrelevante Baumassnahmen ordnungsgemaess ausgefuehrt wurden. Abnahmeprotokoll und ERP-Buchung sind dabei untrennbar verknuepft. Dieser Skill beschreibt den vollstaendigen von der Abnahmebegehung bis zur SAP-FI-Buchung und Foerderantrag-Konformitaetsnachweis.
 
 ## Bauwerk und Auftrag
 

@@ -1,13 +1,13 @@
 ---
 name: zag-vorstandsvorlage-gutachten-wpig
-description: "Nutze dies, wenn Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent, Zag E Geld Institut Emoney im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Bitte Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent, Zag E Geld Institut Emoney prüfen.; Erstelle eine Arbeitsfassung zu Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent, Zag E Geld Institut Emoney.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent, Zag E Geld Institut Emoney
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent, Zag E Geld Institut Emoney** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

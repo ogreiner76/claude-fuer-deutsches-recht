@@ -1,13 +1,13 @@
 ---
 name: bericht-gefahrstoffverzeichnis-gefstoffv
-description: "Nutze dies, wenn Bericht Gefahrstoffverzeichnis Gefstoffv, Bericht Geschaeftsfuehrer Dashboard, Bericht Handwerk Gefahrstoffe Asbest im Plugin Berichtspflichten Erlediger konkret bearbeitet werden soll. Auslöser: Bitte Bericht Gefahrstoffverzeichnis Gefstoffv, Bericht Geschaeftsfuehrer Dashboard, Bericht Handwerk Gefahrstoffe Asbest prüfen.; Erstelle eine Arbeitsfassung zu Bericht Gefahrstoffverzeichnis Gefstoffv, Bericht Geschaeftsfuehrer Dashboard, Bericht Handwerk Gefahrstoffe Asbest.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bericht Gefahrstoffverzeichnis Gefstoffv, Bericht Geschaeftsfuehrer Dashboard, Bericht Handwerk Gefahrstoffe Asbest: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bericht Gefahrstoffverzeichnis Gefstoffv, Bericht Geschaeftsfuehrer Dashboard, Bericht Handwerk Gefahrstoffe Asbest
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Gefahrstoffverzeichnis Gefstoffv, Bericht Geschaeftsfuehrer Dashboard, Bericht Handwerk Gefahrstoffe Asbest** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

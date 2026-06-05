@@ -1,41 +1,41 @@
 ---
 name: blaue-karte-bleiberecht-25a-chancenaufenthalt
-description: "Nutze dies, wenn Spezial Blaue Karte Eu Mobilitaet, Spezial Blaue Karte Gehalt Abschluss, Spezial Bleiberecht 25A 25B, Spezial Chancenaufenthalt, Spezial Chancenkarte Punktesystem im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Blaue Karte Eu Mobilitaet, Spezial Blaue Karte Gehalt Abschluss, Spezial Bleiberecht 25A 25B, Spezial Chancenaufenthalt, Spezial Chancenkarte Punktesystem prüfen.; Erstelle eine Arbeitsfassung zu Spezial Blaue Karte Eu Mobilitaet, Spezial Blaue Karte Gehalt Abschluss, Spezial Bleiberecht 25A 25B, Spezial Chancenaufenthalt, Spezial Chancenkarte Punktesystem.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Blaue Karte Eu Mobilitaet, Blaue Karte Gehalt Abschluss, Bleiberecht 25a 25b, Chancenaufenthalt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Blaue Karte Eu Mobilitaet, Spezial Blaue Karte Gehalt Abschluss, Spezial Bleiberecht 25A 25B, Spezial Chancenaufenthalt, Spezial Chancenkarte Punktesystem
+# Blaue Karte Eu Mobilitaet, Blaue Karte Gehalt Abschluss, Bleiberecht 25A 25B, Chancenaufenthalt, Chancenkarte Punktesystem
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Blaue Karte Eu Mobilitaet, Blaue Karte Gehalt Abschluss, Bleiberecht 25A 25B, Chancenaufenthalt, Chancenkarte Punktesystem** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-blaue-karte-eu-mobilitaet` | Blaue Karte: EU-Mobilität: Spezial-Skill im Migrationsrecht; prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-blaue-karte-gehalt-abschluss` | Blaue Karte: Gehalt und Abschluss: Spezial-Skill im Migrationsrecht; prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-bleiberecht-25a-25b` | Bleiberecht §§ 25a/25b: Spezial-Skill im Migrationsrecht; prüft Jugendlicher/Erwachsener, Integration, Schule, Lebensunterhalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-chancenaufenthalt` | Chancen-Aufenthalt: Spezial-Skill im Migrationsrecht; prüft Voraufenthalt, Bekenntnis, Straftaten, Identität und Anschluss; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-chancenkarte-punktesystem` | Chancenkarte Punktesystem: Spezial-Skill im Migrationsrecht; prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-blaue-karte-eu-mobilitaet` | Blaue Karte: EU-Mobilität: Fachmodul im Migrationsrecht; prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-blaue-karte-gehalt-abschluss` | Blaue Karte: Gehalt und Abschluss: Fachmodul im Migrationsrecht; prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-bleiberecht-25a-25b` | Bleiberecht §§ 25a/25b: Fachmodul im Migrationsrecht; prüft Jugendlicher/Erwachsener, Integration, Schule, Lebensunterhalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-chancenaufenthalt` | Chancen-Aufenthalt: Fachmodul im Migrationsrecht; prüft Voraufenthalt, Bekenntnis, Straftaten, Identität und Anschluss; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-chancenkarte-punktesystem` | Chancenkarte Punktesystem: Fachmodul im Migrationsrecht; prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
-Für **Spezial Blaue Karte Eu Mobilitaet, Spezial Blaue Karte Gehalt Abschluss, Spezial Bleiberecht 25A 25B, Spezial Chancenaufenthalt, Spezial Chancenkarte Punktesystem** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Blaue Karte Eu Mobilitaet, Blaue Karte Gehalt Abschluss, Bleiberecht 25A 25B, Chancenaufenthalt, Chancenkarte Punktesystem** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-blaue-karte-eu-mobilitaet`
 
-**Fokus:** Blaue Karte: EU-Mobilität: Spezial-Skill im Migrationsrecht; prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Blaue Karte: EU-Mobilität: Fachmodul im Migrationsrecht; prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Blaue Karte: EU-Mobilität
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Wechsel aus anderem Mitgliedstaat, Nachweise und Familienmobilität.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -64,14 +64,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Wechs
 
 ## 2. `spezial-blaue-karte-gehalt-abschluss`
 
-**Fokus:** Blaue Karte: Gehalt und Abschluss: Spezial-Skill im Migrationsrecht; prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Blaue Karte: Gehalt und Abschluss: Fachmodul im Migrationsrecht; prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Blaue Karte: Gehalt und Abschluss
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Mindestgehalt, Engpassberuf, Hochschulabschluss/tertiären Abschluss, Berufserfahrung.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -100,14 +100,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Minde
 
 ## 3. `spezial-bleiberecht-25a-25b`
 
-**Fokus:** Bleiberecht §§ 25a/25b: Spezial-Skill im Migrationsrecht; prüft Jugendlicher/Erwachsener, Integration, Schule, Lebensunterhalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Bleiberecht §§ 25a/25b: Fachmodul im Migrationsrecht; prüft Jugendlicher/Erwachsener, Integration, Schule, Lebensunterhalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Bleiberecht §§ 25a/25b
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Jugendlicher/Erwachsener, Integration, Schule, Lebensunterhalt.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Jugendlicher/Erwachsener, Integration, Schule, Lebensunterhalt.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -136,14 +136,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Jugen
 
 ## 4. `spezial-chancenaufenthalt`
 
-**Fokus:** Chancen-Aufenthalt: Spezial-Skill im Migrationsrecht; prüft Voraufenthalt, Bekenntnis, Straftaten, Identität und Anschluss; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Chancen-Aufenthalt: Fachmodul im Migrationsrecht; prüft Voraufenthalt, Bekenntnis, Straftaten, Identität und Anschluss; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Chancen-Aufenthalt
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Voraufenthalt, Bekenntnis, Straftaten, Identität und Anschluss.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Voraufenthalt, Bekenntnis, Straftaten, Identität und Anschluss.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -172,14 +172,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Vorau
 
 ## 5. `spezial-chancenkarte-punktesystem`
 
-**Fokus:** Chancenkarte Punktesystem: Spezial-Skill im Migrationsrecht; prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Chancenkarte Punktesystem: Fachmodul im Migrationsrecht; prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Chancenkarte Punktesystem
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Qualifikation, Punkte, Lebensunterhalt, Nebenbeschäftigung und Anschlussstatus.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?

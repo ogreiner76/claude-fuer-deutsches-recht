@@ -1,13 +1,13 @@
 ---
 name: fahrverbot-geschwindigkeit-handy
-description: "Nutze dies, wenn Spezial Fahrverbot Behörden Gericht Und Registerweg, Spezial Geschwindigkeit Verhandlung Vergleich Und Eskalation, Spezial Handy Zahlen Schwellen Und Berechnung im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Fahrverbot Behörden Gericht Und Registerweg, Spezial Geschwindigkeit Verhandlung Vergleich Und Eskalation, Spezial Handy Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Fahrverbot Behörden Gericht Und Registerweg, Spezial Geschwindigkeit Verhandlung Vergleich Und Eskalation, Spezial Handy Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fahrverbot Behörden Gericht Und Registerweg, Geschwindigkeit Verhandlung Vergleich Und Eskalation, Handy Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Fahrverbot Behörden Gericht Und Registerweg, Spezial Geschwindigkeit Verhandlung Vergleich Und Eskalation, Spezial Handy Zahlen Schwellen Und Berechnung
+# Fahrverbot Behörden Gericht Und Registerweg, Geschwindigkeit Verhandlung Vergleich Und Eskalation, Handy Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fahrverbot Behörden Gericht Und Registerweg, Geschwindigkeit Verhandlung Vergleich Und Eskalation, Handy Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Fahrverbot Behörden Gericht Und Registerweg, Spezial Geschwindigkeit Verhandlung Vergleich Und Eskalation, Spezial Handy Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fahrverbot Behörden Gericht Und Registerweg, Geschwindigkeit Verhandlung Vergleich Und Eskalation, Handy Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Fahrverbot Behörden Gericht Und Registerweg, Spezial Geschwindig
 # Fahrverbot: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Fahrverbot: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Fahrverbot: Behörden-, Gerichts- oder Registerweg / spezial fahrverbot behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fahrverbot: Behörden-, Gerichts- oder Registerweg / fahrverbot behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, BußgKatV, BKatV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -79,7 +79,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Geschwindigkeit: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Geschwindigkeit: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Geschwindigkeit: Verhandlung, Vergleich und Eskalation / spezial geschwindigkeit verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Geschwindigkeit: Verhandlung, Vergleich und Eskalation / geschwindigkeit verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVO, BußgKatV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -127,7 +127,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Handy: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Handy: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Handy: Zahlen, Schwellenwerte und Berechnung / spezial handy zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Handy: Zahlen, Schwellenwerte und Berechnung / handy zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

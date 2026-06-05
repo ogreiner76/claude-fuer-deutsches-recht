@@ -1,22 +1,22 @@
 ---
 name: beirat-immobilien-investitionen
-description: "Nutze dies, wenn Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte prüfen.; Erstelle eine Arbeitsfassung zu Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-immobilien-und-investitionen` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-informationsrechte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-insolvenznaehe` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-interessenkonflikte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-immobilien-und-investitionen` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-informationsrechte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-insolvenznaehe` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-interessenkonflikte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat In
 
 ## 1. `beirat-immobilien-und-investitionen`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Immobilien Und Investitionen
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-informationsrechte`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Informationsrechte
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-insolvenznaehe`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Insolvenznaehe
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-interessenkonflikte`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Interessenkonflikte
 

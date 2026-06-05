@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-verwaltungsrecht-verwaltungsakt
-description: "Nutze dies, wenn Fachanwalt Verwaltungsrecht Beamten Disziplinarverfahren, Spezial Verwaltungsakt Rechtsbehelf Vorverfahren, Spezial Vwgo Fristen Form Und Zustaendigkeit im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Verwaltungsrecht Beamten Disziplinarverfahren, Spezial Verwaltungsakt Rechtsbehelf Vorverfahren, Spezial Vwgo Fristen Form Und Zustaendigkeit prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Verwaltungsrecht Beamten Disziplinarverfahren, Spezial Verwaltungsakt Rechtsbehelf Vorverfahren, Spezial Vwgo Fristen Form Und Zustaendigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Verwaltungsrecht Beamten Disziplinarverfahren, Verwaltungsakt Rechtsbehelf Vorverfahren, Vwgo Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Fachanwalt Verwaltungsrecht Beamten Disziplinarverfahren, Spezial Verwaltungsakt Rechtsbehelf Vorverfahren, Spezial Vwgo Fristen Form Und Zustaendigkeit
+# Fachanwalt Verwaltungsrecht Beamten Disziplinarverfahren, Verwaltungsakt Rechtsbehelf Vorverfahren, Vwgo Fristen Form Und Zustaendigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Verwaltungsrecht Beamten Disziplinarverfahren, Verwaltungsakt Rechtsbehelf Vorverfahren, Vwgo Fristen Form Und Zustaendigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Fachanwalt Verwaltungsrecht Beamten Disziplinarverfahren, Spezial Verwaltungsakt Rechtsbehelf Vorverfahren, Spezial Vwgo Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verwaltungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Verwaltungsrecht Beamten Disziplinarverfahren, Verwaltungsakt Rechtsbehelf Vorverfahren, Vwgo Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verwaltungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -199,11 +199,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 # Verwaltungsakt, Rechtsbehelf und Vorverfahren
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `fachanwalt-verwaltungsrecht`. Kontext des Plugins: Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-verwaltungsrecht`. Kontext des Plugins: Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -238,7 +238,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # VwGO: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: VwGO: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** VwGO: Fristen, Form, Zuständigkeit und Rechtsweg / spezial vwgo fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** VwGO: Fristen, Form, Zuständigkeit und Rechtsweg / vwgo fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, VwVfG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

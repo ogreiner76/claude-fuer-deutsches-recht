@@ -1,12 +1,12 @@
 ---
 name: datenschutzrecht
-description: "Nutze dies, wenn Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk / spezial datenschutzrecht compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk / datenschutzrecht compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

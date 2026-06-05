@@ -1,13 +1,13 @@
 ---
 name: verkehrsowi
-description: "Nutze dies, wenn Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Verkehrsowi Rechtsprechungsrecherche im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Verkehrsowi Rechtsprechungsrecherche: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Verkehrsowi Rechtsprechungsrecherche
+# Mandantenkommunikation, Redteam Qualitygate, Verkehrsowi Rechtsprechungsrecherche
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenkommunikation, Redteam Qualitygate, Verkehrsowi Rechtsprechungsrecherche** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Verkehrsowi Rechtsprechungsrecherche** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenkommunikation, Redteam Qualitygate, Verkehrsowi Rechtsprechungsrecherche** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,10 +31,10 @@ Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Verkehrsow
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `verkehrsowi-verteidiger` Mandantenkommunikation im Plugin verkehrsowi-verteidiger: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Mandantenkommunikation im Plugin verkehrsowi-verteidiger: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -44,7 +44,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -61,15 +61,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## OWi-Mandantenkommunikation Speziallage
 - **Sofort-Aufklaerung Mandant:**
-  - Schweigerecht des Betroffenen § 55 OWiG.
-  - Halterauskunftspflicht § 31a StVZO bleibt (sonst Fahrtenbuchauflage moeglich).
-  - Anhoerungsbogen kein Bescheid - keine Einspruchsfrist; trotzdem Reaktion entscheidet ueber weiteres Verfahren.
-  - Bussgeldbescheid: 2 Wochen § 67 OWiG.
+ - Schweigerecht des Betroffenen § 55 OWiG.
+ - Halterauskunftspflicht § 31a StVZO bleibt (sonst Fahrtenbuchauflage moeglich).
+ - Anhoerungsbogen kein Bescheid - keine Einspruchsfrist; trotzdem Reaktion entscheidet ueber weiteres Verfahren.
+ - Bussgeldbescheid: 2 Wochen § 67 OWiG.
 - **Entscheidungsfragen pro Konstellation:**
-  - **Geldbusse moderat, keine Punkte:** Akzeptanz oft sinnvoller als Einspruch (Kostenrisiko Verfahren).
-  - **Punkte FAER:** Pruefen Punktestand (Abfrage moeglich); 6+ Punkte = Risikobereich; 8 Punkte = Fahrerlaubnisentzug § 4 V StVG.
-  - **Fahrverbot 1-3 Monate:** Bei Berufskraftfahrer/-Fahrerin oft existenzbedrohend; Antrag auf Wegfall Fahrverbot wegen unzumutbarer Haerte (regelmaessig restriktiv); ggf. Erhoehung Geldbusse als Kompensation moeglich (BGH-Linie).
-  - **MPU-Risiko:** ab 1,6 Promille (§ 13 FeV), bei wiederholten Verstoessen, bei Drogen einmalig.
+ - **Geldbusse moderat, keine Punkte:** Akzeptanz oft sinnvoller als Einspruch (Kostenrisiko Verfahren).
+ - **Punkte FAER:** Pruefen Punktestand (Abfrage moeglich); 6+ Punkte = Risikobereich; 8 Punkte = Fahrerlaubnisentzug § 4 V StVG.
+ - **Fahrverbot 1-3 Monate:** Bei Berufskraftfahrer/-Fahrerin oft existenzbedrohend; Antrag auf Wegfall Fahrverbot wegen unzumutbarer Haerte (regelmaessig restriktiv); ggf. Erhoehung Geldbusse als Kompensation moeglich (BGH-Linie).
+ - **MPU-Risiko:** ab 1,6 Promille (§ 13 FeV), bei wiederholten Verstoessen, bei Drogen einmalig.
 - **Berufliche Auswirkungen:** Berufskraftfahrer, Aussendienst, Aerzte/Beamte (Pflichtmeldung Disziplinarrecht), Polizei, Lehrer.
 - **Kostenhinweis:** RVG VV 5100 ff. fuer OWi; Rechtsschutzversicherung-Deckung pruefen (Selbstbeteiligung; Wartezeit 3 Monate ueblich; Strafrechtsschutz nur bei nicht vorsaetzlichem Vorwurf).
 - **Mandantenfreigabe schriftlich:** Einspruch / Einspruchsruecknahme / Beschraenkung / Antrag auf Hauptverhandlung statt schriftliches Verfahren § 72 OWiG.
@@ -82,10 +82,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `verkehrsowi-verteidiger` Red-Team Qualitygate im Plugin verkehrsowi-verteidiger: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin verkehrsowi-verteidiger: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -95,7 +95,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -114,16 +114,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - **Frist-Re-Check:** Einspruch § 67 OWiG 2 Wochen ab Zustellung; Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat; Verjaehrung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis 1. Instanz Urteil); Unterbrechung § 33 OWiG.
 - **BKatV-Re-Check:** Aktuelle Anlage zur StVO und § 26a StVG; Regelbusse, Punkte, Fahrverbote stets gegen Tatzeit pruefen; bei Aenderungen lex mitior § 4 III OWiG.
 - **Messverfahren-Check:**
-  - **Eichschein** im Tatzeitraum gueltig?
-  - **Bedienerschein** Messbeamter?
-  - **Standardisiertes Messverfahren** (BGH-Linie zur Beweiskraft)?
-  - **Toleranzwerte** zugunsten Betroffener abgezogen?
-  - **Lichtbild Identifizierung** Fahrer?
+ - **Eichschein** im Tatzeitraum gueltig?
+ - **Bedienerschein** Messbeamter?
+ - **Standardisiertes Messverfahren** (BGH-Linie zur Beweiskraft)?
+ - **Toleranzwerte** zugunsten Betroffener abgezogen?
+ - **Lichtbild Identifizierung** Fahrer?
 - **Beweisanforderungs-Check Akteneinsicht § 49 OWiG i.V.m. § 147 StPO:** Vollstaendigkeit Akte; Messprotokoll; Lebensakte Geraet; Rohdaten (BVerfG-Linie zur fair-trial-Garantie); Schulungs-/Sachkundenachweis Bediener.
 - **Toleranzwerte:**
-  - Geschwindigkeit < 100 km/h: 3 km/h, ab 100 km/h: 3 %.
-  - Abstand: 10 % der Standard-Messung.
-  - Atemalkohol: 0,1 mg/l Toleranz.
+ - Geschwindigkeit < 100 km/h: 3 km/h, ab 100 km/h: 3 %.
+ - Abstand: 10 % der Standard-Messung.
+ - Atemalkohol: 0,1 mg/l Toleranz.
 - **Konsequenzen-Re-Check:** Punkte FAER 1-3? Fahrverbot 1-3 Monate? 8-Punkte-Grenze (§ 4 V StVG = Fahrerlaubnisentzug)? Wiederholungstaeter § 4 II StVG?
 - **Berufliche Relevanz** angesprochen? Berufskraftfahrer, Aerzte, Anwaelte, Beamte - existenzielles Risiko Fahrverbot.
 - **Halluzinations-Check:** Keine erfundenen OLG-Az; "OLG-Linie" / "staendige Rspr." statt erfundener Fundstellen.

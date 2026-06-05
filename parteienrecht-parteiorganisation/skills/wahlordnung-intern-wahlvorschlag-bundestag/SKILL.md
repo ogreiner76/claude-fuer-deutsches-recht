@@ -1,13 +1,13 @@
 ---
 name: wahlordnung-intern-wahlvorschlag-bundestag
-description: "Nutze dies, wenn Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen prüfen.; Erstelle eine Arbeitsfassung zu Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -32,7 +32,7 @@ Für **Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen** zuerst das Arbei
 ## Aufgabe
 Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -73,7 +73,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erstellt Einreichungscheck für Kreiswahlvorschlag und Landesliste nach BWahlG/BWO und Bundeswahlleiter-Hinweisen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

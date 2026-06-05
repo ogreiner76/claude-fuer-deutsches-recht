@@ -73,10 +73,10 @@ Detaillierte Soll-Klauseln und rote Linien siehe
 
 1. **Vollständige Erfassung des Prüflings** — Klausel für Klausel, mit Nummerierung und Überschriften übernehmen.
 2. **Strukturschutz** — keine Klausel löschen, keine Klauseln umstellen, keine neue Nummerierung. Änderungen nur durch:
-   - Einfügung einzelner Wörter (z. B. `mindestens`, `auch mündlich`, `unwiderruflich`, `verschuldensunabhängig`)
-   - Einfügung kurzer Halbsätze (z. B. `einschließlich verbundener Unternehmen i. S. d. § 15 AktG`)
-   - Streichung einzelner kritischer Wörter (z. B. "**ausschließlich** schriftlich gekennzeichnete" → "schriftlich gekennzeichnete")
-   - Ersetzung problematischer Begriffe durch minimale sprachliche Anpassung
+ - Einfügung einzelner Wörter (z. B. `mindestens`, `auch mündlich`, `unwiderruflich`, `verschuldensunabhängig`)
+ - Einfügung kurzer Halbsätze (z. B. `einschließlich verbundener Unternehmen i. S. d. § 15 AktG`)
+ - Streichung einzelner kritischer Wörter (z. B. "**ausschließlich** schriftlich gekennzeichnete" → "schriftlich gekennzeichnete")
+ - Ersetzung problematischer Begriffe durch minimale sprachliche Anpassung
 3. **Neue Absätze nur, wenn zwingend** — und dann möglichst als Unterabsatz innerhalb der nächstgelegenen bestehenden Klausel (z. B. `(neu) Im Übrigen gilt …`).
 4. **Mindeststandards integrieren** — gegen den Katalog (Abschnitt oben + `references/mindeststandards.md`) jede Klausel matchen und nur fehlende Bestandteile minimal ergänzen.
 5. **Format und Look erhalten** — Schriftart, Aufzählungszeichen, Einrückungen, Schriftgrößen und Klauselbezeichnungen beibehalten.

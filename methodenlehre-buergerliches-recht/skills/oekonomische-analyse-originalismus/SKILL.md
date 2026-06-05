@@ -1,13 +1,13 @@
 ---
 name: oekonomische-analyse-originalismus
-description: "Nutze dies, wenn Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text, Postfaktische Argumente Red Team im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text, Postfaktische Argumente Red Team prüfen.; Erstelle eine Arbeitsfassung zu Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text, Postfaktische Argumente Red Team.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text, Postfaktische Argumente Red Team
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text, Postfaktische Argumente Red Team** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

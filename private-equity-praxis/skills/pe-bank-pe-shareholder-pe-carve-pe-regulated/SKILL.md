@@ -1,13 +1,13 @@
 ---
 name: pe-bank-pe-shareholder-pe-carve-pe-regulated
-description: "Nutze dies, wenn Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target prüfen.; Erstelle eine Arbeitsfassung zu Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

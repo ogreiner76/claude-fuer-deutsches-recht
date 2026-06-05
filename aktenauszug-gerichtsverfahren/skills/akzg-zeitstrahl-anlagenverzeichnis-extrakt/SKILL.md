@@ -1,13 +1,13 @@
 ---
 name: akzg-zeitstrahl-anlagenverzeichnis-extrakt
-description: "Nutze dies, wenn Akzg Zeitstrahl Checkliste, Anlagenverzeichnis Extrakt, Anwaltsschriftsatz Stilrichtlinie im Plugin Aktenauszug Gerichtsverfahren konkret bearbeitet werden soll. Auslöser: Bitte Akzg Zeitstrahl Checkliste, Anlagenverzeichnis Extrakt, Anwaltsschriftsatz Stilrichtlinie prüfen.; Erstelle eine Arbeitsfassung zu Akzg Zeitstrahl Checkliste, Anlagenverzeichnis Extrakt, Anwaltsschriftsatz Stilrichtlinie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Akzg Zeitstrahl Checkliste, Anlagenverzeichnis Extrakt, Anwaltsschriftsatz Stilrichtlinie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Akzg Zeitstrahl Checkliste, Anlagenverzeichnis Extrakt, Anwaltsschriftsatz Stilrichtlinie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Akzg Zeitstrahl Checkliste, Anlagenverzeichnis Extrakt, Anwaltsschriftsatz Stilrichtlinie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -151,11 +151,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Anlage ist im Schriftsatz bezeichnet aber fehlt körperlich in Akte?
-  → Handelt es sich um beweiserhebliche Urkunde? (§ 422 ZPO)
-    → Ja: Schriftsatz an Gericht: Vorlage anfordern; Eintrag: [angefordert TT.MM.JJJJ]
-    → Nein: Vermerk: [nicht in vorliegender Akte]
-  → War Anlage Gegenstand einer Vorlageanordnung (§ 142 ZPO)?
-    → Ja: Nachverfolgung ob Vorlage erfolgt — ggf. Antrag auf Ungehorsamssanktion
+ → Handelt es sich um beweiserhebliche Urkunde? (§ 422 ZPO)
+ → Ja: Schriftsatz an Gericht: Vorlage anfordern; Eintrag: [angefordert TT.MM.JJJJ]
+ → Nein: Vermerk: [nicht in vorliegender Akte]
+ → War Anlage Gegenstand einer Vorlageanordnung (§ 142 ZPO)?
+ → Ja: Nachverfolgung ob Vorlage erfolgt — ggf. Antrag auf Ungehorsamssanktion
 ```
 
 ## Beispiel (vollständig)
@@ -245,10 +245,10 @@ Keine Begriffe aus dem Bereich kommerzieller Textverarbeitungssoftware oder Assi
 ### Überschriften-Hierarchie
 
 ```
-# Aktenauszug — [Aktenzeichen]          (H1 — nur einmal)
-## Verfahrensidentifikation              (H2 — Bausteine)
-### Parteien                             (H3 — Unterabschnitte)
-#### Klägerseite                         (H4 — bei Bedarf)
+# Aktenauszug — [Aktenzeichen] (H1 — nur einmal)
+## Verfahrensidentifikation (H2 — Bausteine)
+### Parteien (H3 — Unterabschnitte)
+#### Klägerseite (H4 — bei Bedarf)
 ```
 
 ### Abschnittstrennungen

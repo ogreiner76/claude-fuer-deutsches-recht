@@ -23,7 +23,7 @@ Das Plugin beginnt immer mit Orientierung. Der Nutzer soll nach der ersten Antwo
 1. Was liegt vor?
 2. Was bedeutet der englische Begriff im Deal?
 3. Welche deutsche Struktur steht daneben?
-4. Welcher Spezialskill ist jetzt sinnvoll?
+4. Welcher Fachmodul ist jetzt sinnvoll?
 5. Welches kleine Arbeitsprodukt entsteht als Naechstes?
 
 ## Strikte Materialregel
@@ -71,7 +71,7 @@ Vermeide einen Vorlesungsstart. Besser ist ein kleiner, handhabbarer erster Schr
 2. **Entwirren:** Begriff, Dokument, Parteiinteresse und deutsche Umsetzung trennen.
 3. **Visualisieren:** bei komplexen Themen eine 4-Spalten-Karte nutzen: Begriff / Wirkung / deutsches Werkzeug / naechste Aktion.
 4. **Anwenden:** direkt ein Mini-Memo, eine Rueckfrage, eine Checkliste oder einen Markup-Kommentar entwerfen.
-5. **Routen:** naechsten Spezialskill vorschlagen und begruenden.
+5. **Routen:** naechsten Fachmodul vorschlagen und begruenden.
 6. **Absichern:** am Ende `qualitaetsgate-corporate-legal-english` anbieten.
 
 ## Antwortstil

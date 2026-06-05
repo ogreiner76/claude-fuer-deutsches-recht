@@ -1,22 +1,22 @@
 ---
 name: wohnraummiete-agb-zahlungsdienste
-description: "Nutze dies, wenn Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlungsverzug Mahnkosten im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlungsverzug Mahnkosten prüfen.; Erstelle eine Arbeitsfassung zu Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlungsverzug Mahnkosten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlungsverzug Mahnkosten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlungsverzug Mahnkosten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlungsverzug Mahnkosten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `wohnraummiete-agb` | Branchen-Spezialskill für Wohnraummiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `zahlungsdienste-agb` | Branchen-Spezialskill für Zahlungsdienste AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `zahlungsmittel-chargeback` | Klausel-Spezialskill für Zahlungsmittel Chargeback: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `zahlungsverzug-mahnkosten` | Klausel-Spezialskill für Zahlungsverzug Mahnkosten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `wohnraummiete-agb` | Branchen-Fachmodul für Wohnraummiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `zahlungsdienste-agb` | Branchen-Fachmodul für Zahlungsdienste AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `zahlungsmittel-chargeback` | Klausel-Fachmodul für Zahlungsmittel Chargeback: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `zahlungsverzug-mahnkosten` | Klausel-Fachmodul für Zahlungsverzug Mahnkosten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Wohnraummiete Agb, Zahlungsdienste Agb, Zahlungsmittel Chargeback, Zahlun
 
 ## 1. `wohnraummiete-agb`
 
-**Fokus:** Branchen-Spezialskill für Wohnraummiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Wohnraummiete AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Wohnraummiete AGB
 
@@ -82,7 +82,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `zahlungsdienste-agb`
 
-**Fokus:** Branchen-Spezialskill für Zahlungsdienste AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Zahlungsdienste AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Zahlungsdienste AGB
 
@@ -137,7 +137,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `zahlungsmittel-chargeback`
 
-**Fokus:** Klausel-Spezialskill für Zahlungsmittel Chargeback: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Zahlungsmittel Chargeback: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Zahlungsmittel Chargeback
 
@@ -192,7 +192,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `zahlungsverzug-mahnkosten`
 
-**Fokus:** Klausel-Spezialskill für Zahlungsverzug Mahnkosten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Zahlungsverzug Mahnkosten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Zahlungsverzug Mahnkosten
 

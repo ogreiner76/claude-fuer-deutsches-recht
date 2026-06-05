@@ -1,6 +1,6 @@
 ---
 name: rom-075-goa-vergleich
-description: "Römisches Recht: Goa Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Goa Vergleich. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Goa Vergleich

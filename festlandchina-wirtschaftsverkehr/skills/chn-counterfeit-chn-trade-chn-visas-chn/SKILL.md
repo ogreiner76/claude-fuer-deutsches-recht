@@ -1,13 +1,13 @@
 ---
 name: chn-counterfeit-chn-trade-chn-visas-chn
-description: "Nutze dies, wenn Chn 085 Counterfeit And Parallel Imports, Chn 087 Trade Fair China Ip Risk, Chn 088 Visas Expats And Secondment, Chn 089 Factory Lease And Land Use Rights im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 085 Counterfeit And Parallel Imports, Chn 087 Trade Fair China Ip Risk, Chn 088 Visas Expats And Secondment, Chn 089 Factory Lease And Land Use Rights prüfen.; Erstelle eine Arbeitsfassung zu Chn 085 Counterfeit And Parallel Imports, Chn 087 Trade Fair China Ip Risk, Chn 088 Visas Expats And Secondment, Chn 089 Factory Lease And Land Use Rights.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chn 085 Counterfeit And Parallel Imports, Chn 087 Trade Fair China Ip Risk, Chn 088 Visas Expats And Secondment, Chn 089 Factory Lease And Land Use Rights: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Chn 085 Counterfeit And Parallel Imports, Chn 087 Trade Fair China Ip Risk, Chn 088 Visas Expats And Secondment, Chn 089 Factory Lease And Land Use Rights
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chn 085 Counterfeit And Parallel Imports, Chn 087 Trade Fair China Ip Risk, Chn 088 Visas Expats And Secondment, Chn 089 Factory Lease And Land Use Rights** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

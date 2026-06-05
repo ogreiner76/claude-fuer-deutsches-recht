@@ -1,34 +1,34 @@
 ---
 name: zahlungsverzug-kuendigung-mietrecht
-description: "Nutze dies, wenn Spezial Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Spezial Haustiere Mietvertrag, Spezial Kleinreparaturklausel, Spezial Mietvertrag Agb Klauseln im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Spezial Haustiere Mietvertrag, Spezial Kleinreparaturklausel, Spezial Mietvertrag Agb Klauseln prüfen.; Erstelle eine Arbeitsfassung zu Spezial Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Spezial Haustiere Mietvertrag, Spezial Kleinreparaturklausel, Spezial Mietvertrag Agb Klauseln.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Haustiere Mietvertrag, Kleinreparaturklausel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Spezial Haustiere Mietvertrag, Spezial Kleinreparaturklausel, Spezial Mietvertrag Agb Klauseln
+# Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Haustiere Mietvertrag, Kleinreparaturklausel, Mietvertrag Agb Klauseln
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Haustiere Mietvertrag, Kleinreparaturklausel, Mietvertrag Agb Klauseln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-zahlungsverzug-kuendigung-schonfrist` | Zahlungsverzug, Kündigung und Schonfrist: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Rückstandshöhe, Fälligkeit, Tilgung, Schonfristzahlung, hilfsweise ordentliche Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-zahlungsverzug-kuendigung-schonfrist` | Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Rückstandshöhe, Fälligkeit, Tilgung, Schonfristzahlung, hilfsweise ordentliche Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `mietrecht-einfuehrung-vertragstypen` | Einfuehrung Vertragstypen Mietrecht: Wohnraum-, Gewerbe-, Pacht-, Untermiete, Staffel-, Index-, Zeitmiete. Pro Typ: Anwendungsbereich, Schutzvorschriften, Kuendigungsregime, typische Klauselrisiken. Entscheidungstabelle fuer Mandanten und Verweis auf passende Detail-Skills. |
-| `spezial-haustiere-mietvertrag` | Haustiere im Mietverhältnis: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft AGB-Klausel, Interessenabwägung, Störung, Erlaubnis und Widerruf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-kleinreparaturklausel` | Kleinreparaturklausel: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gegenstandsbereich, Einzelobergrenze, Jahresobergrenze und Transparenz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-mietvertrag-agb-klauseln` | Mietvertrag AGB-Klauseln: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft typische Klauseln auf Transparenz, Überraschung und unangemessene Benachteiligung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-haustiere-mietvertrag` | Haustiere im Mietverhältnis: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft AGB-Klausel, Interessenabwägung, Störung, Erlaubnis und Widerruf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-kleinreparaturklausel` | Kleinreparaturklausel: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gegenstandsbereich, Einzelobergrenze, Jahresobergrenze und Transparenz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-mietvertrag-agb-klauseln` | Mietvertrag AGB-Klauseln: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft typische Klauseln auf Transparenz, Überraschung und unangemessene Benachteiligung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Spezial Haustiere Mietvertrag, Spezial Kleinreparaturklausel, Spezial Mietvertrag Agb Klauseln** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertragstypen, Haustiere Mietvertrag, Kleinreparaturklausel, Mietvertrag Agb Klauseln** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-zahlungsverzug-kuendigung-schonfrist`
 
-**Fokus:** Zahlungsverzug, Kündigung und Schonfrist: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Rückstandshöhe, Fälligkeit, Tilgung, Schonfristzahlung, hilfsweise ordentliche Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Rückstandshöhe, Fälligkeit, Tilgung, Schonfristzahlung, hilfsweise ordentliche Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Zahlungsverzug, Kündigung und Schonfrist
 
@@ -42,9 +42,9 @@ Für **Spezial Zahlungsverzug Kündigung Schonfrist, Mietrecht Einfuehrung Vertr
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Rückstandshöhe, Fälligkeit, Tilgung, Schonfristzahlung, hilfsweise ordentliche Kündigung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Rückstandshöhe, Fälligkeit, Tilgung, Schonfristzahlung, hilfsweise ordentliche Kündigung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er erg
 
 ## 3. `spezial-haustiere-mietvertrag`
 
-**Fokus:** Haustiere im Mietverhältnis: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft AGB-Klausel, Interessenabwägung, Störung, Erlaubnis und Widerruf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Haustiere im Mietverhältnis: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft AGB-Klausel, Interessenabwägung, Störung, Erlaubnis und Widerruf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Haustiere im Mietverhältnis
 
@@ -148,9 +148,9 @@ Dieser Skill gehoert zum Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er erg
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft AGB-Klausel, Interessenabwägung, Störung, Erlaubnis und Widerruf.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft AGB-Klausel, Interessenabwägung, Störung, Erlaubnis und Widerruf.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -179,7 +179,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-kleinreparaturklausel`
 
-**Fokus:** Kleinreparaturklausel: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Gegenstandsbereich, Einzelobergrenze, Jahresobergrenze und Transparenz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Kleinreparaturklausel: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Gegenstandsbereich, Einzelobergrenze, Jahresobergrenze und Transparenz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Kleinreparaturklausel
 
@@ -193,9 +193,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Gegenstandsbereich, Einzelobergrenze, Jahresobergrenze und Transparenz.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Gegenstandsbereich, Einzelobergrenze, Jahresobergrenze und Transparenz.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -224,7 +224,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-mietvertrag-agb-klauseln`
 
-**Fokus:** Mietvertrag AGB-Klauseln: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft typische Klauseln auf Transparenz, Überraschung und unangemessene Benachteiligung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Mietvertrag AGB-Klauseln: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft typische Klauseln auf Transparenz, Überraschung und unangemessene Benachteiligung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Mietvertrag AGB-Klauseln
 
@@ -238,9 +238,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft typische Klauseln auf Transparenz, Überraschung und unangemessene Benachteiligung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft typische Klauseln auf Transparenz, Überraschung und unangemessene Benachteiligung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

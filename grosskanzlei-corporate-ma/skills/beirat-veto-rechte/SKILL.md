@@ -1,6 +1,6 @@
 ---
 name: beirat-veto-rechte
-description: "Nutze dies, wenn Beirat Veto Rechte im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Veto Rechte prüfen.; Erstelle eine Arbeitsfassung zu Beirat Veto Rechte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Veto Rechte: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Veto Rechte

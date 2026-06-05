@@ -1,13 +1,13 @@
 ---
 name: aufsichtsbeschwerde-dienstaufsicht
-description: "Nutze dies, wenn Aufsichtsbeschwerde Dienstaufsicht, Auslaenderbehoerde, Automatisierter Bescheid, Bafoeg im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Aufsichtsbeschwerde Dienstaufsicht, Auslaenderbehoerde, Automatisierter Bescheid, Bafoeg prüfen.; Erstelle eine Arbeitsfassung zu Aufsichtsbeschwerde Dienstaufsicht, Auslaenderbehoerde, Automatisierter Bescheid, Bafoeg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aufsichtsbeschwerde Dienstaufsicht, Auslaenderbehoerde, Automatisierter Bescheid, Bafoeg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aufsichtsbeschwerde Dienstaufsicht, Auslaenderbehoerde, Automatisierter Bescheid, Bafoeg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aufsichtsbeschwerde Dienstaufsicht, Auslaenderbehoerde, Automatisierter Bescheid, Bafoeg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Aufsichtsbeschwerde Dienstaufsicht, Auslaenderbehoerde, Automatisierter B
 ## Aufgabe
 Erklärt Unterschied zu Rechtsmittel, sinnvolle Einsatzfälle, Ton und erwartbare Wirkung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -81,7 +81,7 @@ Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebe
 - Achtung Mitwirkungspflicht (§ 82 AufenthG): Bei falschen oder unvollständigen Angaben drohen Versagungs- und Widerrufsgründe (§ 5 Abs. 1, § 52 AufenthG); Identitätsklärung über § 49 AufenthG kann zwangsweise erfolgen.
 - Praktiker-Tipp: Bei Ablehnung sofort anwaltliche Hilfe (Beratungshilfe BerHG, Migrationsberatung), Widerspruch oder Klage (§§ 68 ff. VwGO) plus Eilantrag § 80 Abs. 5 VwGO/§ 123 VwGO. Bei Strafverfahren parallel: aufenthaltsrechtliche Konsequenzen prüfen (§ 53 AufenthG Ausweisung).
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -121,7 +121,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt vollständig automatisierte Verwaltungsakte, Plausibilitätsfehler, Datenbasis und Widerspruch.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -168,7 +168,7 @@ Erklärt BAföG-Antrag, Leistungsnachweise, Einkommen der Eltern, Vorausleistung
 - Rückforderung: Anhörung nach § 24 SGB X, Aufhebung nach §§ 45 ff. SGB X; bei elektronischer Bewilligung auch § 32 SGB I beachten.
 - Praktiker-Tipp: Antrag formlos online stellen reicht zur Fristwahrung (Förderbeginn ab Monat der Antragstellung, § 15 Abs. 1 BAföG) — Eingangsbestätigung sichern; Widerspruchsfrist gegen Bescheid einen Monat (§ 70 VwGO).
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

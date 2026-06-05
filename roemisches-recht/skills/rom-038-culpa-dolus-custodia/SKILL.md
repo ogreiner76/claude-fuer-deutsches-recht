@@ -1,6 +1,6 @@
 ---
 name: rom-038-culpa-dolus-custodia
-description: "Römisches Recht: Culpa Dolus Custodia. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Culpa Dolus Custodia. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Culpa Dolus Custodia

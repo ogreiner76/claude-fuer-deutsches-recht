@@ -1,13 +1,13 @@
 ---
 name: e-mobilitaet-eigentuemerkommunikation
-description: "Nutze dies, wenn E Mobilitaet Steckersolar Kellerstrom, Eigentuemerkommunikation Beschwerde, Eigentuemerversammlung Vorbereiten im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte E Mobilitaet Steckersolar Kellerstrom, Eigentuemerkommunikation Beschwerde, Eigentuemerversammlung Vorbereiten prüfen.; Erstelle eine Arbeitsfassung zu E Mobilitaet Steckersolar Kellerstrom, Eigentuemerkommunikation Beschwerde, Eigentuemerversammlung Vorbereiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei E Mobilitaet Steckersolar Kellerstrom, Eigentuemerkommunikation Beschwerde, Eigentuemerversammlung Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # E Mobilitaet Steckersolar Kellerstrom, Eigentuemerkommunikation Beschwerde, Eigentuemerversammlung Vorbereiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **E Mobilitaet Steckersolar Kellerstrom, Eigentuemerkommunikation Beschwerde, Eigentuemerversammlung Vorbereiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -273,7 +273,7 @@ Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereit
 
 ## Quellenpflicht
 
-`rechtsstand-mai-2026-faktenbank` laden. § 23, § 24, § 25 WEG: https://www.gesetze-im-internet.de/woeigg/__23.html , https://www.gesetze-im-internet.de/woeigg/__24.html , https://www.gesetze-im-internet.de/woeigg/__25.html .
+`rechtsstand-mai-2026-faktenbank` laden. § 23, § 24, § 25 WEG: https://www.gesetze-im-internet.de/woeigg/__23.html, https://www.gesetze-im-internet.de/woeigg/__24.html, https://www.gesetze-im-internet.de/woeigg/__25.html .
 
 
 ## Qualitäts-Hardening

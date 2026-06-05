@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Verkehrsrecht** ein Fall noch s
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-verk-unfallregulierung-workflow-chronologie` — Allgemein Verk Unfallregulierung Workflow Chronologie
+- `allgemein-verk-unfallregulierung-workflow-chronologie` — Allgemein Verk Unfallregulierung Chronologie
 - `autonom-bezuege-fachanwalt` — Autonom Bezuege Fachanwalt
 - `bussgeld-unfall-haftungsquote-vkr-totalschaden` — Bussgeld Unfall Haftungsquote Vkr Totalschaden
 - `erstgespraech-mandatsannahme-verkehr-autonom-fahrerlaubnis` — Erstgespraech Mandatsannahme Verkehr Autonom Fahrerlaubnis

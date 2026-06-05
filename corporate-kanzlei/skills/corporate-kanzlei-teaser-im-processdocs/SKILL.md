@@ -151,37 +151,37 @@ Dieses IM enthält zukunftsgerichtete Aussagen und Prognosen. [Kanzlei/Bank] üb
 empfohlene eigenstaendige Pruefung durch den Leser. Haftungsfreizeichnung gilt nicht bei Arglist.
 
 INHALT
-I.    EXECUTIVE SUMMARY (2-3 Seiten)
-      - Investment Highlights
-      - Transaktionsueberblick
-      - Finanzielle Eckdaten
+I. EXECUTIVE SUMMARY (2-3 Seiten)
+ - Investment Highlights
+ - Transaktionsueberblick
+ - Finanzielle Eckdaten
 
-II.   UNTERNEHMENSPROFIL
-      - Geschichte und Entwicklung
-      - Geschaeftsmodell und Produktportfolio
-      - Markt und Wettbewerb
-      - Strategie und Wachstumspotenzial
+II. UNTERNEHMENSPROFIL
+ - Geschichte und Entwicklung
+ - Geschaeftsmodell und Produktportfolio
+ - Markt und Wettbewerb
+ - Strategie und Wachstumspotenzial
 
-III.  FINANZIELLE INFORMATIONEN
-      - GuV und EBITDA-Entwicklung (letzte 3 Jahre)
-      - Bilanzkennzahlen
-      - Working Capital und Net Debt
-      - Forecast laufendes Jahr und Planungshorizont
+III. FINANZIELLE INFORMATIONEN
+ - GuV und EBITDA-Entwicklung (letzte 3 Jahre)
+ - Bilanzkennzahlen
+ - Working Capital und Net Debt
+ - Forecast laufendes Jahr und Planungshorizont
 
-IV.   MANAGEMENT
-      - Fuehrungsteam und Biographien
-      - Organisationsstruktur
-      - Key Person Risiken
+IV. MANAGEMENT
+ - Fuehrungsteam und Biographien
+ - Organisationsstruktur
+ - Key Person Risiken
 
-V.    RECHTLICHE UND REGULATORISCHE INFORMATIONEN
-      - Unternehmensstruktur (Vereinfacht; kein vollstaendiges Organigramm vor Phase II)
-      - Wesentliche Vertraege und Kunden (anonymisiert)
-      - Laufende Verfahren (wenn wesentlich offenbarungspflichtig)
+V. RECHTLICHE UND REGULATORISCHE INFORMATIONEN
+ - Unternehmensstruktur (Vereinfacht; kein vollstaendiges Organigramm vor Phase II)
+ - Wesentliche Vertraege und Kunden (anonymisiert)
+ - Laufende Verfahren (wenn wesentlich offenbarungspflichtig)
 
-VI.   TRANSAKTIONSSTRUKTUR UND PROZESS
-      - Transaktionsgegenstand
-      - Angestrebte Kaufpreisstruktur
-      - Zeitplan und Prozess
+VI. TRANSAKTIONSSTRUKTUR UND PROZESS
+ - Transaktionsgegenstand
+ - Angestrebte Kaufpreisstruktur
+ - Zeitplan und Prozess
 
 ANLAGEN (Phase II)
 ```

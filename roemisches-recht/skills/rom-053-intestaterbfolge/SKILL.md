@@ -1,6 +1,6 @@
 ---
 name: rom-053-intestaterbfolge
-description: "Römisches Recht: Intestaterbfolge. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Intestaterbfolge. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Intestaterbfolge

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-022-zweiter-staendeordnung-adel
-description: "Nutze dies, wenn PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern

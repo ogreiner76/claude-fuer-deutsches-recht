@@ -1,13 +1,13 @@
 ---
 name: verl-podcast-zeitschriftenbeitrag-powerpoint
-description: "Nutze dies, wenn Verl Podcast Zu Zeitschriftenbeitrag, Verl Powerpoint Verwurstung Zu Text, Verl Pressetext Rechtsthemen, Verl Rechtschreibung Amtlich Aktuell, Verl Redaktionelle Rueckmeldung Formulieren im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Verl Podcast Zu Zeitschriftenbeitrag, Verl Powerpoint Verwurstung Zu Text, Verl Pressetext Rechtsthemen, Verl Rechtschreibung Amtlich Aktuell, Verl Redaktionelle Rueckmeldung Formulieren prüfen.; Erstelle eine Arbeitsfassung zu Verl Podcast Zu Zeitschriftenbeitrag, Verl Powerpoint Verwurstung Zu Text, Verl Pressetext Rechtsthemen, Verl Rechtschreibung Amtlich Aktuell, Verl Redaktionelle Rueckmeldung Formulieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl Podcast Zu Zeitschriftenbeitrag, Verl Powerpoint Verwurstung Zu Text, Verl Pressetext Rechtsthemen, Verl Rechtschreibung Amtlich Aktuell: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Podcast Zu Zeitschriftenbeitrag, Verl Powerpoint Verwurstung Zu Text, Verl Pressetext Rechtsthemen, Verl Rechtschreibung Amtlich Aktuell, Verl Redaktionelle Rueckmeldung Formulieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Podcast Zu Zeitschriftenbeitrag, Verl Powerpoint Verwurstung Zu Text, Verl Pressetext Rechtsthemen, Verl Rechtschreibung Amtlich Aktuell, Verl Redaktionelle Rueckmeldung Formulieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -235,8 +235,8 @@ Der Verlag bringt ein neues Buch, eine neue Auflage oder einen aktuellen Aufsatz
 1. **Kernbotschaft formulieren.** Ein Satz, der die News zusammenfasst. Wer? Was? Warum jetzt?
 2. **Pyramide bauen.** Headline - Lead (3 Saetze, fuenf W) - Vertiefung - Zitat - Hintergrund - Boilerplate.
 3. **Differenzieren nach Adressat.**
-   - Fachpresse: juristische Genauigkeit, Norm- und Az.-Angaben.
-   - Tagespresse: Alltagsbeispiel, Folgen fuer den Buerger, keine Fachsprache.
+ - Fachpresse: juristische Genauigkeit, Norm- und Az.-Angaben.
+ - Tagespresse: Alltagsbeispiel, Folgen fuer den Buerger, keine Fachsprache.
 4. **Zitat des Autors einbauen.** Ein zwei- bis dreisaetziger O-Ton; vorab mit Autor freigeben.
 5. **Sperrfrist setzen** ("Sperrfrist: [Datum], 0 Uhr"). Bei Datenbankplatzierung Embargo bei Anbietern.
 6. **Faktencheck.** Aktenzeichen, Datum, Auflagen, Preis pruefen.
@@ -388,11 +388,11 @@ Sie brauchen ihn als Endkorrekturlauf vor dem Druck und als Grundsatzlauf nach i
 
 1. **Tool-gestuetzte Vorpruefung.** Word-Rechtschreibung oder LanguageTool (lokal, datenschutzkonform). Tool-Vorschlaege niemals stillschweigend annehmen.
 2. **Manuelle Durchsicht** auf typische Stolperfallen:
-   - dass / das, der / die / das im Relativsatz.
-   - Bindestriche bei Komposita ("KI-Verordnung" vs. "KI Verordnung").
-   - Eszett (ß) vs. Doppel-s ("dass", "Verfasser", "Strafprozess" - reformierte Schreibung).
-   - Anfuehrungszeichen deutsch (unten/oben) oder englisch je nach Hausnorm.
-   - Auslassungspunkte als Sonderzeichen ".." vs. "...".
+ - dass / das, der / die / das im Relativsatz.
+ - Bindestriche bei Komposita ("KI-Verordnung" vs. "KI Verordnung").
+ - Eszett (ß) vs. Doppel-s ("dass", "Verfasser", "Strafprozess" - reformierte Schreibung).
+ - Anfuehrungszeichen deutsch (unten/oben) oder englisch je nach Hausnorm.
+ - Auslassungspunkte als Sonderzeichen ".." vs. "...".
 3. **Eigennamen.** BGH, BVerfG, FG, OVG, EuGH - immer mit Punkt? Mit Bindestrich? Mit Leerzeichen? Hausregel.
 4. **Latinismen und Anglizismen.** "in dubio pro reo" kursiv? "Compliance" mit grossem oder kleinem C im Fliesstext?
 5. **Konsistenz quer durchs Manuskript.** Wenn S. 3 "KI-Regulierung", dann nicht S. 12 "KI Regulierung".
@@ -495,14 +495,14 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 ## Praxisleitfaden / Schritt fuer Schritt
 
 1. **Sortieren** in drei Kategorien:
-   - **Stop:** muss zwingend behoben werden (z. B. fehlender Pinpoint, Mandantenname).
-   - **Wuenschenswert:** sollte behoben werden (z. B. Stoerwoerter, Synonyme).
-   - **Anregung:** kann behoben werden (z. B. zusaetzlicher Beleg).
+ - **Stop:** muss zwingend behoben werden (z. B. fehlender Pinpoint, Mandantenname).
+ - **Wuenschenswert:** sollte behoben werden (z. B. Stoerwoerter, Synonyme).
+ - **Anregung:** kann behoben werden (z. B. zusaetzlicher Beleg).
 2. **Briefaufbau:**
-   - Dank fuer das Manuskript, kurzes Statement zum Inhalt (was traegt!).
-   - Befund-Aufbau in drei Bloecken: Stops zuerst, dann Wuensche, dann Anregungen.
-   - Frist mit Datum.
-   - Angebot zur Klaerung (Telefon, Mail, Termin).
+ - Dank fuer das Manuskript, kurzes Statement zum Inhalt (was traegt!).
+ - Befund-Aufbau in drei Bloecken: Stops zuerst, dann Wuensche, dann Anregungen.
+ - Frist mit Datum.
+ - Angebot zur Klaerung (Telefon, Mail, Termin).
 3. **Tonalitaet.** Sie-Form, kollegial, kein Praedigtton. Kritik in der Sache, nicht an der Person.
 4. **Konkretheit.** Pro Befund: Stelle (Seite, Zeile, Fn.), Befund in einem Satz, Vorschlag in einem Satz.
 5. **Frist realistisch.** Bei vielen Befunden: 2-4 Wochen. Bei wenigen: 1 Woche.

@@ -1,13 +1,13 @@
 ---
 name: euipo-korrespondenz-markenarten-markenrecht
-description: "Nutze dies, wenn Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Euipo Behörden Gericht Und Registerweg, Korrespondenz Zahlen Schwellen Und Berechnung, Markenarten Compliance Dokumentation Und Akte, Markenrecht Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel
+# Euipo Behörden Gericht Und Registerweg, Korrespondenz Zahlen Schwellen Und Berechnung, Markenarten Compliance Dokumentation Und Akte, Markenrecht Erstpruefung Und Mandatsziel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Euipo Behörden Gericht Und Registerweg, Korrespondenz Zahlen Schwellen Und Berechnung, Markenarten Compliance Dokumentation Und Akte, Markenrecht Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Zahlen Schwellen Und Berechnung, Spezial Markenarten Compliance Dokumentation Und Akte, Spezial Markenrecht Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Euipo Behörden Gericht Und Registerweg, Korrespondenz Zahlen Schwellen Und Berechnung, Markenarten Compliance Dokumentation Und Akte, Markenrecht Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Spezial Euipo Behörden Gericht Und Registerweg, Spezial Korrespondenz Za
 # Euipo: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Euipo: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Euipo: Behörden-, Gerichts- oder Registerweg / spezial euipo behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Euipo: Behörden-, Gerichts- oder Registerweg / euipo behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -73,7 +73,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Korrespondenz: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Korrespondenz: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Korrespondenz: Zahlen, Schwellenwerte und Berechnung / spezial korrespondenz zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Korrespondenz: Zahlen, Schwellenwerte und Berechnung / korrespondenz zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -114,7 +114,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Markenarten: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Markenarten: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Markenarten: Compliance-Dokumentation und Aktenvermerk / spezial markenarten compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Markenarten: Compliance-Dokumentation und Aktenvermerk / markenarten compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI, EUIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -155,7 +155,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel / spezial markenrecht erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel / markenrecht erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

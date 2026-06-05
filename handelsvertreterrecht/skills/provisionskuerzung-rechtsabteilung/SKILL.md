@@ -1,22 +1,22 @@
 ---
 name: provisionskuerzung-rechtsabteilung
-description: "Nutze dies, wenn Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89B Mit Datenbeweis, Rechtsabteilung Einstandszahlung Und Agb Kontrolle, Rechtsabteilung Kündigung Aus Wichtigem Grund Im Vertrieb im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89B Mit Datenbeweis, Rechtsabteilung Einstandszahlung Und Agb Kontrolle, Rechtsabteilung Kündigung Aus Wichtigem Grund Im Vertrieb prüfen.; Erstelle eine Arbeitsfassung zu Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89B Mit Datenbeweis, Rechtsabteilung Einstandszahlung Und Agb Kontrolle, Rechtsabteilung Kündigung Aus Wichtigem Grund Im Vertrieb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89b Mit Datenbeweis, Rechtsabteilung Einstandszahlung Und Agb Kontrolle, Rechtsabteilung Kündigung Aus Wichtigem Grund Im Vertrieb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89B Mit Datenbeweis, Rechtsabteilung Einstandszahlung Und Agb Kontrolle, Rechtsabteilung Kündigung Aus Wichtigem Grund Im Vertrieb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Provisionskuerzung, Rechtsabteilung Ausgleichsanspruch 89B Mit Datenbeweis, Rechtsabteilung Einstandszahlung Und Agb Kontrolle, Rechtsabteilung Kündigung Aus Wichtigem Grund Im Vertrieb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `provisionskuerzung` | Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen. |
-| `rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis` | Rechtsabteilungs-Spezialskill für Ausgleichsanspruch § 89b mit Datenbeweis: Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-einstandszahlung-und-agb-kontrolle` | Rechtsabteilungs-Spezialskill für Einstandszahlung und AGB-Kontrolle: Eintrittsgelder und Schulungspauschalen werden auf versteckte Knebelung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-kuendigung-aus-wichtigem-grund-im-vertrieb` | Rechtsabteilungs-Spezialskill für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis` | Rechtsabteilungs-Fachmodul für Ausgleichsanspruch § 89b mit Datenbeweis: Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-einstandszahlung-und-agb-kontrolle` | Rechtsabteilungs-Fachmodul für Einstandszahlung und AGB-Kontrolle: Eintrittsgelder und Schulungspauschalen werden auf versteckte Knebelung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-kuendigung-aus-wichtigem-grund-im-vertrieb` | Rechtsabteilungs-Fachmodul für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -106,7 +106,7 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 
 ## 2. `rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Ausgleichsanspruch § 89b mit Datenbeweis: Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Ausgleichsanspruch § 89b mit Datenbeweis: Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Ausgleichsanspruch § 89b mit Datenbeweis
 
@@ -146,7 +146,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-einstandszahlung-und-agb-kontrolle`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Einstandszahlung und AGB-Kontrolle: Eintrittsgelder und Schulungspauschalen werden auf versteckte Knebelung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Einstandszahlung und AGB-Kontrolle: Eintrittsgelder und Schulungspauschalen werden auf versteckte Knebelung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Einstandszahlung und AGB-Kontrolle
 
@@ -186,7 +186,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-kuendigung-aus-wichtigem-grund-im-vertrieb`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kündigung aus wichtigem Grund im Vertrieb
 

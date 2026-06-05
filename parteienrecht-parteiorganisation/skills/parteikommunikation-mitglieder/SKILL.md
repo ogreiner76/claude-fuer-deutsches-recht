@@ -8,7 +8,7 @@ description: "Erstellt Rundmail, Einladung, Datenschutz-Hinweis, Beschlussinform
 ## Aufgabe
 Erstellt Rundmail, Einladung, Datenschutz-Hinweis, Beschlussinformation, Konfliktkommunikation und Fristenhinweis.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

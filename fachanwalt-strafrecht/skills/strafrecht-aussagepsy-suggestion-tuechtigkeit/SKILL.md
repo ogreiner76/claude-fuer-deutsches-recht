@@ -1,13 +1,13 @@
 ---
 name: strafrecht-aussagepsy-suggestion-tuechtigkeit
-description: "Nutze dies, wenn Strafrecht Spezial Aussagepsy Suggestion Falscherinnerung, Strafrecht Spezial Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Spezial Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Spezial Aussagepsychologie Bgh Grundsaetze, Strafrecht Spezial Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial Aussagepsy Suggestion Falscherinnerung, Strafrecht Spezial Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Spezial Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Spezial Aussagepsychologie Bgh Grundsaetze, Strafrecht Spezial Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial Aussagepsy Suggestion Falscherinnerung, Strafrecht Spezial Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Spezial Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Spezial Aussagepsychologie Bgh Grun..."
+description: "Nutze dies bei Strafrecht Aussagepsy Suggestion Falscherinnerung, Strafrecht Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Aussagepsychologie Bgh Grundsaetze: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafrecht Spezial Aussagepsy Suggestion Falscherinnerung, Strafrecht Spezial Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Spezial Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Spezial Aussagepsychologie Bgh Grundsaetze, Strafrecht Spezial Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen
+# Strafrecht Aussagepsy Suggestion Falscherinnerung, Strafrecht Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Aussagepsychologie Bgh Grundsaetze, Strafrecht Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Aussagepsy Suggestion Falscherinnerung, Strafrecht Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Aussagepsychologie Bgh Grundsaetze, Strafrecht Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -26,7 +26,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Aussagepsy Suggestion Falscherinnerung, Strafrecht Spezial Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Spezial Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Spezial Aussagepsychologie Bgh Grundsaetze, Strafrecht Spezial Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Aussagepsy Suggestion Falscherinnerung, Strafrecht Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Aussagepsychologie Bgh Grundsaetze, Strafrecht Aussagepsychologie Gutachten Anforderungen und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

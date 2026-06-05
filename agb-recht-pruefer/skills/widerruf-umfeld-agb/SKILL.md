@@ -1,6 +1,6 @@
 ---
 name: widerruf-umfeld-agb
-description: "Klausel-Spezialskill für Widerruf Umfeld AGB: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Widerruf Umfeld AGB: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Widerruf Umfeld AGB

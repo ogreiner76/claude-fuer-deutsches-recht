@@ -74,17 +74,17 @@ Risikoniveau: [Hoch / Mittel / Niedrig]
 BELEGKETTE
 | Nr. | Quelle | Dok-Bezeichnung | Version/Datum | Datenraum-ID | Vollständigkeitsstatus |
 |----|--------|-----------------|--------------|--------------|----------------------|
-| 1  | [Quelle] | [Bezeichnung] | [V/Datum] | [ID] | [Vollständig/Lücke] |
+| 1 | [Quelle] | [Bezeichnung] | [V/Datum] | [ID] | [Vollständig/Lücke] |
 
 KONSISTENZPRÜFUNG
 | Datenpunkt | Quelle 1 | Quelle 2 | Abweichung | Bewertung |
 |-----------|---------|---------|-----------|-----------|
-| [Punkt]   | [Wert]  | [Wert]  | [%/EUR]   | [OK/Konflikt] |
+| [Punkt] | [Wert] | [Wert] | [%/EUR] | [OK/Konflikt] |
 
 BEKANNTE DATENLÜCKEN
 | Nr. | Fehlende Information | Auswirkung auf Analyse | Owner | Frist | Eskalation |
 |----|---------------------|----------------------|-------|-------|------------|
-| 1  | [Lücke]             | [Gering/Mittel/Hoch] | [Name] | [Datum] | [Stufe] |
+| 1 | [Lücke] | [Gering/Mittel/Hoch] | [Name] | [Datum] | [Stufe] |
 
 SCHLUSSFOLGERUNG
 [Ergebnis in 2-3 Sätzen; Grad der Sicherheit; Vorbehalte]
@@ -98,7 +98,7 @@ Freigabegrad: [Vollständig / Unter Vorbehalt / Abgelehnt]
 OFFENE PUNKTE (TODO)
 | Nr. | Punkt | Owner | Frist | Eskalationsstufe |
 |----|-------|-------|-------|-----------------|
-| 1  | [Punkt] | [Name] | [Datum] | [Partner/Counsel/Associate] |
+| 1 | [Punkt] | [Name] | [Datum] | [Partner/Counsel/Associate] |
 ```
 
 ## Rote Schwellen

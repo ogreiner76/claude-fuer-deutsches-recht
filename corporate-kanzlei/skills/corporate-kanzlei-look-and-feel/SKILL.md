@@ -185,9 +185,9 @@ EXECUTIVE SUMMARY
 STATUSÜBERSICHT
 | Workstream | Status | Owner | Nächste Aktion | Deadline |
 |-----------|--------|-------|----------------|---------|
-| [WS 1]    | GRÜN   | [Name]| [Aktion]        | [Datum] |
-| [WS 2]    | GELB   | [Name]| [Aktion]        | [Datum] |
-| [WS 3]    | ROT    | [Name]| [Aktion — DRINGEND] | [Datum] |
+| [WS 1] | GRÜN | [Name]| [Aktion] | [Datum] |
+| [WS 2] | GELB | [Name]| [Aktion] | [Datum] |
+| [WS 3] | ROT | [Name]| [Aktion — DRINGEND] | [Datum] |
 
 ─────────────────────────────────────────────────────────────
 HAUPTINHALT
@@ -201,7 +201,7 @@ ROTE SCHWELLEN / ENTSCHEIDUNGSPUNKTE
 OFFENE PUNKTE (TODO)
 | Nr. | Punkt | Owner | Frist | Eskalation |
 |----|-------|-------|-------|------------|
-| 1  | [Punkt] | [Name] | [Datum] | [Stufe] |
+| 1 | [Punkt] | [Name] | [Datum] | [Stufe] |
 
 ─────────────────────────────────────────────────────────────
 Freigabegrad: [Entwurf / Freigegeben / Vertraulich]

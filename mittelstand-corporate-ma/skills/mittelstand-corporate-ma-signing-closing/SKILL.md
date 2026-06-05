@@ -1,13 +1,13 @@
 ---
 name: mittelstand-corporate-ma-signing-closing
-description: "Nutze dies, wenn Mittelstand Corporate Ma Restructuring Starug Insolvenzplan, Mittelstand Corporate Ma Signing Closing Conditions, Mittelstand Corporate Ma Simulation Bidder Process, Mittelstand Corporate Ma Steps Plan Pmo im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Mittelstand Corporate Ma Restructuring Starug Insolvenzplan, Mittelstand Corporate Ma Signing Closing Conditions, Mittelstand Corporate Ma Simulation Bidder Process, Mittelstand Corporate Ma Steps Plan Pmo prüfen.; Erstelle eine Arbeitsfassung zu Mittelstand Corporate Ma Restructuring Starug Insolvenzplan, Mittelstand Corporate Ma Signing Closing Conditions, Mittelstand Corporate Ma Simulation Bidder Process, Mittelstand Corporate Ma Steps Plan Pmo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mittelstand Corporate Ma Restructuring Starug Insolvenzplan, Mittelstand Corporate Ma Signing Closing Conditions, Mittelstand Corporate Ma Simulation Bidder Process, Mittelstand Corporate Ma Steps Plan Pmo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mittelstand Corporate Ma Restructuring Starug Insolvenzplan, Mittelstand Corporate Ma Signing Closing Conditions, Mittelstand Corporate Ma Simulation Bidder Process, Mittelstand Corporate Ma Steps Plan Pmo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mittelstand Corporate Ma Restructuring Starug Insolvenzplan, Mittelstand Corporate Ma Signing Closing Conditions, Mittelstand Corporate Ma Simulation Bidder Process, Mittelstand Corporate Ma Steps Plan Pmo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -194,9 +194,9 @@ DARSTELLENDER TEIL
 2. Insolvenztatbestand (§ 18 InsO: drohende ZU)
 3. Sanierungskonzept (IDW S 6 Grundsaetze)
 4. Glaeubiger und Forderungsklassen:
-   Klasse 1: Gesicherte Glaeubiger (Banken) — Summe: [BETRAG]
-   Klasse 2: Lieferanten und ungesicherte Glaeubiger — Summe: [BETRAG]
-   Klasse 3: Nachrangige Glaeubiger — Summe: [BETRAG]
+ Klasse 1: Gesicherte Glaeubiger (Banken) — Summe: [BETRAG]
+ Klasse 2: Lieferanten und ungesicherte Glaeubiger — Summe: [BETRAG]
+ Klasse 3: Nachrangige Glaeubiger — Summe: [BETRAG]
 5. Besserstellungsvergleich: Plan [X EUR] vs. Liquidation [Y EUR]
 
 GESTALTENDER TEIL
@@ -402,10 +402,10 @@ Deal: [DEALNAME] — Signing: [DATUM] — Longstop: [DATUM]
 
 | Nr. | CP-Bezeichnung | Owner | Faelligkeit | Nachweistyp | Status |
 |----|---------------|-------|------------|-------------|--------|
-| 1  | Kartellfreigabe (BKartA) | [KAEUFER] | [DATUM] | Behoerdenbescheid | Ausstehend |
-| 2  | FDI-Freigabe § 55 AWV | [KAEUFER] | [DATUM] | BMWi-Schreiben | Ausstehend |
-| 3  | Gesellschafterbeschluss Verkaeufer | [VERKAEUFER] | [DATUM] | Notarielles Protokoll | OK |
-| 4  | W&I Deckungszusage | [VERKAEUFER] | [DATUM] | Versicherer-Schreiben | TODO |
+| 1 | Kartellfreigabe (BKartA) | [KAEUFER] | [DATUM] | Behoerdenbescheid | Ausstehend |
+| 2 | FDI-Freigabe § 55 AWV | [KAEUFER] | [DATUM] | BMWi-Schreiben | Ausstehend |
+| 3 | Gesellschafterbeschluss Verkaeufer | [VERKAEUFER] | [DATUM] | Notarielles Protokoll | OK |
+| 4 | W&I Deckungszusage | [VERKAEUFER] | [DATUM] | Versicherer-Schreiben | TODO |
 
 AMPEL: [ ] Alle CPs gruen [ ] CPs ausstehend — Eskalation erforderlich
 ```

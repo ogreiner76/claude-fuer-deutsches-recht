@@ -1,13 +1,13 @@
 ---
 name: bfdi-vs-datenloeschung-beweissicherung
-description: "Nutze dies, wenn Bfdi Vs Landesaufsicht, Datenloeschung Vs Beweissicherung, Dokumentenmatrix Akteneinsicht Vorlage Und Luecken, Durchsuchung Beschlagnahme Und Datenzugriff im Plugin Datenschutz Sanktionsverfahren Verteidigung konkret bearbeitet werden soll. Auslöser: Bitte Bfdi Vs Landesaufsicht, Datenloeschung Vs Beweissicherung, Dokumentenmatrix Akteneinsicht Vorlage Und Luecken, Durchsuchung Beschlagnahme Und Datenzugriff prüfen.; Erstelle eine Arbeitsfassung zu Bfdi Vs Landesaufsicht, Datenloeschung Vs Beweissicherung, Dokumentenmatrix Akteneinsicht Vorlage Und Luecken, Durchsuchung Beschlagnahme Und Datenzugriff.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bfdi Vs Landesaufsicht, Datenloeschung Vs Beweissicherung, Dokumentenmatrix Akteneinsicht Vorlage Und Luecken, Durchsuchung Beschlagnahme Und Datenzugriff: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bfdi Vs Landesaufsicht, Datenloeschung Vs Beweissicherung, Dokumentenmatrix Akteneinsicht Vorlage Und Luecken, Durchsuchung Beschlagnahme Und Datenzugriff
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bfdi Vs Landesaufsicht, Datenloeschung Vs Beweissicherung, Dokumentenmatrix Akteneinsicht Vorlage Und Luecken, Durchsuchung Beschlagnahme Und Datenzugriff** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

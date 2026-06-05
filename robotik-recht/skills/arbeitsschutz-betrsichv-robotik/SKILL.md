@@ -34,7 +34,7 @@ Roboter im betrieblichen Einsatz sind Arbeitsmittel i. S. d. BetrSichV. Den Arbe
 - **ISO 10218-1/-2** Industrieroboter; **ISO/TS 15066** Cobot-Druck-/Kraftgrenzwerte.
 - **BetrVG** § 87 Abs. 1 Nr. 6 technische Überwachung, Nr. 7 Arbeits- und Gesundheitsschutz.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Gefährdungsbeurteilung** spezifisch für den Robotertyp und Arbeitsplatz; Beteiligung von Sifa, Betriebsarzt, Beschäftigten.
 2. **Risikobeurteilung des Herstellers** auswerten und auf den konkreten Einsatz übertragen; Restrisiken explizit benennen.

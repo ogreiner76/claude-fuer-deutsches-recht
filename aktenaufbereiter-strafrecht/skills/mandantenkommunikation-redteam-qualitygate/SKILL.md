@@ -1,13 +1,13 @@
 ---
 name: mandantenkommunikation-redteam-qualitygate
-description: "Nutze dies, wenn Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Chronologie Strafverfahren im Plugin Aktenaufbereiter Strafrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Chronologie Strafverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Chronologie Strafverfahren
+# Mandantenkommunikation, Redteam Qualitygate, Chronologie Strafverfahren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenkommunikation, Redteam Qualitygate, Chronologie Strafverfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Chronologie Strafverfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenkommunikation, Redteam Qualitygate, Chronologie Strafverfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,10 +31,10 @@ Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Chronologi
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `aktenaufbereiter-strafrecht` Mandantenkommunikation im Plugin aktenaufbereiter-strafrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Mandantenkommunikation im Plugin aktenaufbereiter-strafrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -44,7 +44,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -61,22 +61,22 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## Strafakte-Mandantenkommunikation Bausteine
 - **Aktenstand-Brief an Mandant** strukturiert:
-  - Stand der Ermittlungen (Anklage erhoben / Eroeffnungsbeschluss / Hauptverhandlung anberaumt / Urteil verkuendet).
-  - Tatvorwurf in Kurzfassung.
-  - Beweislage (Indizien fuer / gegen Mandant; staerkste Belastungsbeweise und Entlastungsindizien).
-  - Strafmasserwartung (Bandbreite, nicht ein Wert).
-  - Entscheidungsoffene Punkte (Verstaendigung, Gestaendnis, Beweisantraege).
+ - Stand der Ermittlungen (Anklage erhoben / Eroeffnungsbeschluss / Hauptverhandlung anberaumt / Urteil verkuendet).
+ - Tatvorwurf in Kurzfassung.
+ - Beweislage (Indizien fuer / gegen Mandant; staerkste Belastungsbeweise und Entlastungsindizien).
+ - Strafmasserwartung (Bandbreite, nicht ein Wert).
+ - Entscheidungsoffene Punkte (Verstaendigung, Gestaendnis, Beweisantraege).
 - **Pflicht-Hinweise:**
-  - **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB; § 53 I Nr. 2 StPO Verteidiger-Zeugnisverweigerung.
-  - **Schweigerecht** Mandant § 136 I 2 StPO; nie ohne Vorbereitung gegenueber Polizei aussagen.
-  - **Aussagebegrenzungen Familie** § 52 StPO Zeugnisverweigerung Angehoeriger; § 55 StPO bei drohender Selbstbelastung.
+ - **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB; § 53 I Nr. 2 StPO Verteidiger-Zeugnisverweigerung.
+ - **Schweigerecht** Mandant § 136 I 2 StPO; nie ohne Vorbereitung gegenueber Polizei aussagen.
+ - **Aussagebegrenzungen Familie** § 52 StPO Zeugnisverweigerung Angehoeriger; § 55 StPO bei drohender Selbstbelastung.
 - **Strategie-Freigabe** schriftlich:
-  - Akteneinsicht-Anmeldung.
-  - Stellungnahme zur Anklage.
-  - Beweisantraege.
-  - Verstaendigung § 257c StPO.
-  - Gestaendnisbereitschaft.
-  - Rechtsmittelverzicht / -einlegung / -ruecknahme.
+ - Akteneinsicht-Anmeldung.
+ - Stellungnahme zur Anklage.
+ - Beweisantraege.
+ - Verstaendigung § 257c StPO.
+ - Gestaendnisbereitschaft.
+ - Rechtsmittelverzicht / -einlegung / -ruecknahme.
 - **Kostenhinweis RVG:** Grundgebuehr VV 4100; Verfahrensgebuehr VV 4106 ff. je nach Verfahrensstufe; Terminsgebuehr VV 4108 ff.; Pflichtverteidigergebuehren als Verfahrenskosten zu tragen vom Mandant bei Verurteilung.
 - **Notfall-Kontakt** bei U-Haft / Polizeivernehmung Mandant: 24/7-Erreichbarkeit; Vollmacht inklusive § 138 StPO.
 - **Inhaftiert-Korrespondenz:** Verteidigerpost unueberwacht § 148 StPO (Ausnahme: §§ 129a, 129b StGB-Verdacht).
@@ -88,10 +88,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `aktenaufbereiter-strafrecht` Red-Team Qualitygate im Plugin aktenaufbereiter-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin aktenaufbereiter-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -101,7 +101,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard

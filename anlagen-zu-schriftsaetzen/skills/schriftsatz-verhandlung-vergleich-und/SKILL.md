@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-verhandlung-vergleich-und
-description: "Nutze dies, wenn Schriftsatz: Verhandlung, Vergleich und Eskalation im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Schriftsatz: Verhandlung, Vergleich und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Schriftsatz: Verhandlung, Vergleich und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schriftsatz: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Schriftsatz: Verhandlung, Vergleich und Eskalation

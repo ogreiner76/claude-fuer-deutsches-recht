@@ -1,6 +1,6 @@
 ---
 name: anw-steuerstrafverteidigung-verstaendigung
-description: "Workflow-Skill zu anw steuerstrafverteidigung verstaendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu anw steuerstrafverteidigung verstaendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung
@@ -60,7 +60,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Prüfschema Steuerstrafverteidigung
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -151,11 +151,11 @@ in Höhe von EUR [Steufa-Betrag] nicht erklärt zu haben.
 Tatsächlich beläuft sich der zutreffende Hinterziehungsbetrag
 jedoch auf EUR [niedrigerer Betrag], weil:
 1. [Betrag] entfällt auf Ausgaben die fälschlicherweise nicht
-   als Betriebsausgaben erfasst wurden;
+ als Betriebsausgaben erfasst wurden;
 2. [Betrag] betrifft den VZ [Jahr], für den Verjährung
-   (§ 376 AO) eingetreten ist;
+ (§ 376 AO) eingetreten ist;
 3. [Betrag] entstammt einer Schätzung nach § 162 AO, die
-   methodisch angreifbar ist (Begründung: ...).
+ methodisch angreifbar ist (Begründung: ...).
 
 II. Zum Steuerschaden und seiner Begleichung
 
@@ -170,13 +170,13 @@ Wir regen die Einstellung des Verfahrens gegen eine Geldauflage
 gemäß § 153a StPO an. Die Voraussetzungen liegen vor:
 
 1. Die Schuld des Beschuldigten ist, gemessen am
-   tatsächlichen Hinterziehungsbetrag von EUR [Betrag],
-   nicht schwer.
+ tatsächlichen Hinterziehungsbetrag von EUR [Betrag],
+ nicht schwer.
 2. Der Steuerschaden ist vollständig beglichen.
 3. Der Beschuldigte ist nicht vorbestraft.
 4. Das öffentliche Interesse an der Strafverfolgung ist
-   durch die vollständige Schadensbegleichung hinreichend
-   gewahrt.
+ durch die vollständige Schadensbegleichung hinreichend
+ gewahrt.
 
 Wir schlagen eine Geldauflage von EUR [Betrag] (ca. [X] %
 des Hinterziehungsbetrags; orientiert an § 398a AO-Staffel)
@@ -195,32 +195,32 @@ PROTOKOLL VERSTÄNDIGUNGSGESPRÄCH
 
 Datum: [Datum]
 Teilnehmer: RA [Name] (Verteidiger), Staatsanwalt [Name] (StA),
-            Richter [Name] (Gericht), ggf. Beschuldigter
+ Richter [Name] (Gericht), ggf. Beschuldigter
 
 1. Sachverhalt des vorgeworfenen Verhaltens: [kurze Darstellung]
 
 2. Umfang des Geständnisses:
-   Der Beschuldigte hat bereit erklärt, folgende Taten zu gestehen:
-   [VZ X: Steuerart A, Betrag EUR y]
-   [VZ Y: Steuerart B, Betrag EUR z]
+ Der Beschuldigte hat bereit erklärt, folgende Taten zu gestehen:
+ [VZ X: Steuerart A, Betrag EUR y]
+ [VZ Y: Steuerart B, Betrag EUR z]
 
 3. Strafrahmen-Vereinbarung:
-   Einigkeit über Strafrahmen von [x] bis [y] Tagessätzen bzw.
-   Freiheitsstrafe [a]–[b] Monate auf Bewährung.
-   Voraussetzung: Vollständige Zahlung Steuerschaden bis [Datum].
+ Einigkeit über Strafrahmen von [x] bis [y] Tagessätzen bzw.
+ Freiheitsstrafe [a]–[b] Monate auf Bewährung.
+ Voraussetzung: Vollständige Zahlung Steuerschaden bis [Datum].
 
 4. Belehrung nach § 257c Abs. 5 StPO:
-   Der Beschuldigte wurde belehrt, dass das Gericht nicht an die
-   Verständigung gebunden ist, wenn es bei der Urteilsfindung
-   von einer in der Verständigung zu Grunde gelegten Bewertung
-   des Sachverhalts oder der Rechtslage abweicht. Der
-   Beschuldigte hat diese Belehrung zur Kenntnis genommen und
-   auf das Gespräch-Ergebnis hingewiesen.
+ Der Beschuldigte wurde belehrt, dass das Gericht nicht an die
+ Verständigung gebunden ist, wenn es bei der Urteilsfindung
+ von einer in der Verständigung zu Grunde gelegten Bewertung
+ des Sachverhalts oder der Rechtslage abweicht. Der
+ Beschuldigte hat diese Belehrung zur Kenntnis genommen und
+ auf das Gespräch-Ergebnis hingewiesen.
 
 5. Unterschriften:
-   RA [Name]: _____________
-   Beschuldigter: _____________
-   StA [Name]: _____________
+ RA [Name]: _____________
+ Beschuldigter: _____________
+ StA [Name]: _____________
 ```
 
 ### Baustein 3: Antrag auf Akteneinsicht § 147 StPO
@@ -240,9 +240,9 @@ umfassend:
 
 1. Die vollständige Strafakte mit allen Ermittlungsunterlagen;
 2. Die vollständigen Steuerakten einschließlich Außenprüfungsbericht
-   und Kontrollmitteilungen;
+ und Kontrollmitteilungen;
 3. Alle Steufa-Datenträger (USB, CD/DVD, elektronische Dateien)
-   die zur Ermittlung des Hinterziehungsbetrags herangezogen wurden;
+ die zur Ermittlung des Hinterziehungsbetrags herangezogen wurden;
 4. Sämtliche Bankabfragen und Kontrollmitteilungen.
 
 Wir weisen darauf hin, dass ohne vollständige Akteneinsicht keine

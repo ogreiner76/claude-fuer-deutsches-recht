@@ -1,13 +1,13 @@
 ---
 name: discounter-graumarkt-dpma-bpatg-widerspruch
-description: "Nutze dies, wenn Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke prüfen.; Erstelle eine Arbeitsfassung zu Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Löschung, Dreidimensionale Marke** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -52,31 +52,31 @@ Erschöpfung ist das schwierigste Kapitel im Luxusmarkenrecht — aber es gibt l
 ## Prüfungsschritte
 
 1. **Grundfrage: Liegt Erschöpfung vor?**
-   - Wurde die Ware von klôtzzkètté SA (oder mit ihrer Zustimmung) erstmals im EWR in Verkehr gebracht?
-   - Wenn JA: Grundsatz Erschöpfung — Weitervertrieb nicht verbietbar
-   - Wenn NEIN: Keine Erschöpfung (z.B. Ware aus China-Markt ohne EU-Zulassung) → § 14 II MarkenG anwendbar
+ - Wurde die Ware von klôtzzkètté SA (oder mit ihrer Zustimmung) erstmals im EWR in Verkehr gebracht?
+ - Wenn JA: Grundsatz Erschöpfung — Weitervertrieb nicht verbietbar
+ - Wenn NEIN: Keine Erschöpfung (z.B. Ware aus China-Markt ohne EU-Zulassung) → § 14 II MarkenG anwendbar
 
 2. **Erschöpfungsausnahme § 24 II MarkenG — "Berechtigte Gründe":**
 
-   **A — Rufschädigende Präsentation (§ 24 II Alt. 2):**
-   - Brezelmann stellt klôtzzkètté-Handtasche zwischen Reinigungsmitteln und Schnäppchenware aus
-   - EuGH Dior/Evora: Händler muss Luxusimage achten; grob rufschädigende Darstellung gibt Markeninhaber Unterlassungsrecht
-   - Nachweis: Fotos der Präsentation, Kontext, Preisauszeichnung (EUR 89 statt EUR 1.200)
+ **A — Rufschädigende Präsentation (§ 24 II Alt. 2):**
+ - Brezelmann stellt klôtzzkètté-Handtasche zwischen Reinigungsmitteln und Schnäppchenware aus
+ - EuGH Dior/Evora: Händler muss Luxusimage achten; grob rufschädigende Darstellung gibt Markeninhaber Unterlassungsrecht
+ - Nachweis: Fotos der Präsentation, Kontext, Preisauszeichnung (EUR 89 statt EUR 1.200)
 
-   **B — Wesentliche Zustandsveränderung (§ 24 II Alt. 1):**
-   - Umverpacken, Umfüllen, Neuentwicklung
-   - BGH Parfümflakon II: Umfüllen in andere Flasche = Zustandsveränderung
-   - Entfernen von Echtheitscode: Zerstörung von Rückverfolgbarkeit = berechtigt
+ **B — Wesentliche Zustandsveränderung (§ 24 II Alt. 1):**
+ - Umverpacken, Umfüllen, Neuentwicklung
+ - BGH Parfümflakon II: Umfüllen in andere Flasche = Zustandsveränderung
+ - Entfernen von Echtheitscode: Zerstörung von Rückverfolgbarkeit = berechtigt
 
-   **C — Verletzung selektiver Vertriebspflichten (EuGH Copad):**
-   - Wenn Brezelmann die Ware von einem klôtzzkètté-Lizenznehmer/Händler erworben hat, der seine selektiven Vertriebspflichten verletzt hat → Erschöpfung nicht eingetreten (Copad-Grundsatz)
-   - Nachweis der Bezugsquelle: § 19 MarkenG Auskunftsklage
+ **C — Verletzung selektiver Vertriebspflichten (EuGH Copad):**
+ - Wenn Brezelmann die Ware von einem klôtzzkètté-Lizenznehmer/Händler erworben hat, der seine selektiven Vertriebspflichten verletzt hat → Erschöpfung nicht eingetreten (Copad-Grundsatz)
+ - Nachweis der Bezugsquelle: § 19 MarkenG Auskunftsklage
 
 3. **Graumarkt-Strategie — Präventiv:**
-   - Serialisierung/Serialnummern auf allen Produkten
-   - Track-and-Trace-System (QR-Code/NFC-Chip)
-   - Händlervertragsklausel: "Weiterverkauf ausschließlich an Endverbraucher; kein Verkauf an Großisten oder Händler außerhalb des Selektivvertriebs"
-   - Menge pro Händler limitieren (verhindert Aufkauf für Graumarkt-Weitervertrieb)
+ - Serialisierung/Serialnummern auf allen Produkten
+ - Track-and-Trace-System (QR-Code/NFC-Chip)
+ - Händlervertragsklausel: "Weiterverkauf ausschließlich an Endverbraucher; kein Verkauf an Großisten oder Händler außerhalb des Selektivvertriebs"
+ - Menge pro Händler limitieren (verhindert Aufkauf für Graumarkt-Weitervertrieb)
 
 ## Falltypische Konstellationen
 
@@ -101,15 +101,15 @@ Nach Brexit: UK-Ware ist nicht mehr EWR-Ware. Parallelimport UK → DE: Keine Er
 ```
 Klageanträge:
 1. Der Beklagte wird verurteilt, es zu unterlassen, Waren der
-   Marke klôtzzkètté in einer rufschädigenden Weise zu
-   präsentieren, insbesondere gemeinsam mit Waren aus dem
-   Discountsegment unter Verwendung von Preisschildern, die
-   den Luxuscharakter der Waren nicht erkennen lassen.
-   (§ 24 II MarkenG, §§ 4 Nr. 3 / 6 UWG)
+ Marke klôtzzkètté in einer rufschädigenden Weise zu
+ präsentieren, insbesondere gemeinsam mit Waren aus dem
+ Discountsegment unter Verwendung von Preisschildern, die
+ den Luxuscharakter der Waren nicht erkennen lassen.
+ (§ 24 II MarkenG, §§ 4 Nr. 3 / 6 UWG)
 
 2. Der Beklagte wird verurteilt, Auskunft zu erteilen über
-   Bezugsquellen, Mengen und Einkaufspreise der Ware
-   (§ 19 MarkenG).
+ Bezugsquellen, Mengen und Einkaufspreise der Ware
+ (§ 19 MarkenG).
 ```
 
 ## Verweise auf andere Skills
@@ -232,35 +232,35 @@ Das DPMA-Widerspruchsverfahren ist günstiger als ein EUIPO-Widerspruch, aber ni
 
 1. **Beobachtung:** DPMA-Markenblatt, Newsletter-Service (vgl. Skill `markenmonitoring-und-watchlist`)
 2. **Prüfung der Kollision:**
-   - Zeichenvergleich (§ 9 I MarkenG): visuell, klanglich, begrifflich
-   - Warenähnlichkeit (§ 9 I Nr. 2 MarkenG)
-   - Wechselwirkung: je höher Zeichenähnlichkeit, desto geringere Warenähnlichkeit nötig
-   - Bekanntheitsschutz (§ 9 I Nr. 3 MarkenG): ältere bekannte Marke, Rufausbeutung
+ - Zeichenvergleich (§ 9 I MarkenG): visuell, klanglich, begrifflich
+ - Warenähnlichkeit (§ 9 I Nr. 2 MarkenG)
+ - Wechselwirkung: je höher Zeichenähnlichkeit, desto geringere Warenähnlichkeit nötig
+ - Bekanntheitsschutz (§ 9 I Nr. 3 MarkenG): ältere bekannte Marke, Rufausbeutung
 3. **Widerspruch einlegen:**
-   - DPMA-Onlineformular, Az. der angegriffenen Marke angeben
-   - Ältere Marke(n) als Basis angeben
-   - Gebühr: EUR 120 überweisen
-   - Frist: 3 Monate ab Veröffentlichung — KEINE Verlängerung
+ - DPMA-Onlineformular, Az. der angegriffenen Marke angeben
+ - Ältere Marke(n) als Basis angeben
+ - Gebühr: EUR 120 überweisen
+ - Frist: 3 Monate ab Veröffentlichung — KEINE Verlängerung
 4. **Schriftsatzphase:**
-   - DPMA fordert Widerspruchsbegründung an
-   - Gegner kann Nichtbenutzungseinrede erheben (§ 43 MarkenG): Wir müssen Benutzung der klôtzzkètté-Basismarke für die letzten 5 Jahre belegen
+ - DPMA fordert Widerspruchsbegründung an
+ - Gegner kann Nichtbenutzungseinrede erheben (§ 43 MarkenG): Wir müssen Benutzung der klôtzzkètté-Basismarke für die letzten 5 Jahre belegen
 5. **Entscheidung durch Markenstelle**
 6. **Erinnerung (§ 64) → Beschwerde BPatG (§ 66)**
 
 ### B — Löschungsantrag wegen Verfalls (§ 49/53 MarkenG)
 
 1. **Prüfung Löschungsreife der Gegnermarke:**
-   - Ist die ältere Marke des Gegners seit > 5 Jahren eingetragen?
-   - Gibt es Anhaltspunkte für Nichtbenutzung?
-   - Recherche: Firmenregister, Website, Kataloge, Messen
+ - Ist die ältere Marke des Gegners seit > 5 Jahren eingetragen?
+ - Gibt es Anhaltspunkte für Nichtbenutzung?
+ - Recherche: Firmenregister, Website, Kataloge, Messen
 2. **Löschungsantrag beim DPMA (§ 53):**
-   - Gebühr: EUR 100
-   - DPMA teilt Antrag dem Inhaber mit: 2 Monate zur Stellungnahme
-   - Inhaber kann widersprechen → dann Klage (§ 55 MarkenG)
+ - Gebühr: EUR 100
+ - DPMA teilt Antrag dem Inhaber mit: 2 Monate zur Stellungnahme
+ - Inhaber kann widersprechen → dann Klage (§ 55 MarkenG)
 3. **Alternativ: Löschungsklage (§ 55 MarkenG):**
-   - Direkt beim Landgericht (keine DPMA-Vorschaltung nötig)
-   - Vorteil: Schneller, wenn Inhaber den Antrag erwartbar widerspricht
-   - Kostenrisiko beachten
+ - Direkt beim Landgericht (keine DPMA-Vorschaltung nötig)
+ - Vorteil: Schneller, wenn Inhaber den Antrag erwartbar widerspricht
+ - Kostenrisiko beachten
 
 ### C — Nichtigkeitsantrag (§ 50/54 MarkenG)
 
@@ -365,9 +365,9 @@ Die Hürden sind hoch: Das Zeichen darf weder ausschließlich durch die Natur de
 
 - **§ 3 I MarkenG:** Dreidimensionale Formen sind markenfähig
 - **§ 3 II MarkenG** (absolute Ausschlussgründe für Formen):
-  - Nr. 1: Form durch die Natur der Ware selbst bedingt
-  - Nr. 2: Form zur Erreichung einer technischen Wirkung notwendig
-  - Nr. 3: Form verleiht der Ware wesentlichen Wert
+ - Nr. 1: Form durch die Natur der Ware selbst bedingt
+ - Nr. 2: Form zur Erreichung einer technischen Wirkung notwendig
+ - Nr. 3: Form verleiht der Ware wesentlichen Wert
 - **Art. 7 I lit. e UMV:** Inhaltsgleich mit § 3 II MarkenG
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -376,29 +376,29 @@ Die Hürden sind hoch: Das Zeichen darf weder ausschließlich durch die Natur de
 ## Prüfungsschritte
 
 1. **Darstellung des 3D-Zeichens:**
-   - DPMA: Mindestens 6 Ansichten (Vorder-/Rück-/Seiten-/Ober-/Unterseite, Perspektive), JPG/PNG 300 dpi
-   - EUIPO: 1-7 Ansichten (MP4-Video der Form akzeptiert), optionale 3D-Beschreibung
-   - Konturstudie auf weißem Hintergrund
+ - DPMA: Mindestens 6 Ansichten (Vorder-/Rück-/Seiten-/Ober-/Unterseite, Perspektive), JPG/PNG 300 dpi
+ - EUIPO: 1-7 Ansichten (MP4-Video der Form akzeptiert), optionale 3D-Beschreibung
+ - Konturstudie auf weißem Hintergrund
 
 2. **Prüfung § 3 II MarkenG — drei Ausschlussgründe:**
-   - **Nr. 1 (Natur der Ware):** Ist die Form für die Ware typisch, unvermeidbar? (Flakon-Grundform für Parfum = kein Ausschluss; bloßer Zylinder = Ausschluss)
-   - **Nr. 2 (Technische Funktion):** Erfüllt die Form eine technische Funktion, die ohne diese Form nicht erreichbar ist? (Asymmetrischer Verschluss: Ästhetik-Funktion, nicht technisch zwingend → kein Ausschluss)
-   - **Nr. 3 (Wesentlicher Wert):** Verleiht die Form der Ware ihren Hauptwert? (Bei Luxus-Parfum: Form ist einer unter vielen Wertfaktoren → kein Ausschluss; bei reinem Design-Objekt möglicherweise Ausschluss)
+ - **Nr. 1 (Natur der Ware):** Ist die Form für die Ware typisch, unvermeidbar? (Flakon-Grundform für Parfum = kein Ausschluss; bloßer Zylinder = Ausschluss)
+ - **Nr. 2 (Technische Funktion):** Erfüllt die Form eine technische Funktion, die ohne diese Form nicht erreichbar ist? (Asymmetrischer Verschluss: Ästhetik-Funktion, nicht technisch zwingend → kein Ausschluss)
+ - **Nr. 3 (Wesentlicher Wert):** Verleiht die Form der Ware ihren Hauptwert? (Bei Luxus-Parfum: Form ist einer unter vielen Wertfaktoren → kein Ausschluss; bei reinem Design-Objekt möglicherweise Ausschluss)
 
 3. **Unterscheidungskraft (§ 8 II Nr. 2 MarkenG):**
-   - 3D-Zeichen haben nach EuGH grundsätzlich keine inhärente Unterscheidungskraft bei branchenüblichen Formen
-   - Anforderungen höher als bei Wortmarken
-   - Prüfung: Weicht die Form erheblich von der Norm und den Gewohnheiten der Branche ab?
-   - Klôtzzkètté Flakon: spiralförmige Goldprägung auf Mattglas ist unbranchenüblich → Unterscheidungskraft möglicherweise gegeben
+ - 3D-Zeichen haben nach EuGH grundsätzlich keine inhärente Unterscheidungskraft bei branchenüblichen Formen
+ - Anforderungen höher als bei Wortmarken
+ - Prüfung: Weicht die Form erheblich von der Norm und den Gewohnheiten der Branche ab?
+ - Klôtzzkètté Flakon: spiralförmige Goldprägung auf Mattglas ist unbranchenüblich → Unterscheidungskraft möglicherweise gegeben
 
 4. **Verkehrsdurchsetzung (§ 8 III MarkenG):**
-   - Bei zweifelhafter Unterscheidungskraft: Nachweis von 5+ Jahren Marktpräsenz, Verbraucherbefragung, Werbeaufwand
-   - Olfaktorik-Parallele zu Sieckmann: auch ohne grafische Darstellung eindeutig beschreibbar
+ - Bei zweifelhafter Unterscheidungskraft: Nachweis von 5+ Jahren Marktpräsenz, Verbraucherbefragung, Werbeaufwand
+ - Olfaktorik-Parallele zu Sieckmann: auch ohne grafische Darstellung eindeutig beschreibbar
 
 5. **Parallelschutz über Geschmacksmuster:**
-   - Eingetragenes Muster (DesignG / Gemeinschaftsgeschmacksmuster GGM)
-   - 25 Jahre Schutz möglich; Neuheitserfordernis
-   - Ergänzung zur 3D-Marke, nicht Ersatz
+ - Eingetragenes Muster (DesignG / Gemeinschaftsgeschmacksmuster GGM)
+ - 25 Jahre Schutz möglich; Neuheitserfordernis
+ - Ergänzung zur 3D-Marke, nicht Ersatz
 
 ## Falltypische Konstellationen
 
@@ -425,7 +425,7 @@ Die Marke ist eine dreidimensionale Marke. Sie stellt einen
 zylindrischen Parfumflakon dar mit folgenden Merkmalen:
 - Zylinderform, Höhe-Durchmesser-Verhältnis 3:1
 - Spiralförmige Mikrogravur auf der gesamten Außenfläche
-  (Steigungswinkel ca. 15°, Rillenbreite ca. 1 mm)
+ (Steigungswinkel ca. 15°, Rillenbreite ca. 1 mm)
 - Asymmetrischer Goldverschluss (ovale Kappe, seitlich versetzt)
 - Mattiertes Klarglas ohne Farbanspruch
 Farbanspruch wird nicht geltend gemacht.

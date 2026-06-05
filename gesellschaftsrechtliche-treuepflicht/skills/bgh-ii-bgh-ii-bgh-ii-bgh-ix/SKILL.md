@@ -1,22 +1,22 @@
 ---
 name: bgh-ii-bgh-ii-bgh-ii-bgh-ix
-description: "Nutze dies, wenn Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft prüfen.; Erstelle eine Arbeitsfassung zu Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht, Bgh Ii Zr 275 14 Media Saturn, Bgh Ix Zr 149 16 Kapitalgesellschaft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `bgh-ii-zr-91-21-gesellschafterliste` | Gesellschaftsrechtliche Treuepflicht: BGH II ZR 91 21 Gesellschafterliste; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `bgh-ii-zr-166-05-informationspflicht` | Gesellschaftsrechtliche Treuepflicht: BGH II ZR 166 05 Informationspflicht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `bgh-ii-zr-275-14-media-saturn` | Gesellschaftsrechtliche Treuepflicht: BGH II ZR 275 14 Media Saturn; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `bgh-ix-zr-149-16-kapitalgesellschaft` | Gesellschaftsrechtliche Treuepflicht: BGH IX ZR 149 16 Kapitalgesellschaft; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `bgh-ii-zr-91-21-gesellschafterliste` | Gesellschaftsrechtliche Treuepflicht: BGH II ZR 91 21 Gesellschafterliste; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `bgh-ii-zr-166-05-informationspflicht` | Gesellschaftsrechtliche Treuepflicht: BGH II ZR 166 05 Informationspflicht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `bgh-ii-zr-275-14-media-saturn` | Gesellschaftsrechtliche Treuepflicht: BGH II ZR 275 14 Media Saturn; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `bgh-ix-zr-149-16-kapitalgesellschaft` | Gesellschaftsrechtliche Treuepflicht: BGH IX ZR 149 16 Kapitalgesellschaft; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Bgh Ii Zr 91 21 Gesellschafterliste, Bgh Ii Zr 166 05 Informationspflicht
 
 ## 1. `bgh-ii-zr-91-21-gesellschafterliste`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: BGH II ZR 91 21 Gesellschafterliste; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: BGH II ZR 91 21 Gesellschafterliste; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # BGH II ZR 91 21 Gesellschafterliste
 
@@ -96,7 +96,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `bgh-ii-zr-166-05-informationspflicht`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: BGH II ZR 166 05 Informationspflicht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: BGH II ZR 166 05 Informationspflicht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # BGH II ZR 166 05 Informationspflicht
 
@@ -165,7 +165,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `bgh-ii-zr-275-14-media-saturn`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: BGH II ZR 275 14 Media Saturn; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: BGH II ZR 275 14 Media Saturn; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # BGH II ZR 275 14 Media Saturn
 
@@ -231,7 +231,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `bgh-ix-zr-149-16-kapitalgesellschaft`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: BGH IX ZR 149 16 Kapitalgesellschaft; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: BGH IX ZR 149 16 Kapitalgesellschaft; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # BGH IX ZR 149 16 Kapitalgesellschaft
 

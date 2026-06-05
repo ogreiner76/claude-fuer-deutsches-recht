@@ -1,13 +1,13 @@
 ---
 name: anwaelte-geldwaesche-risikoanalyse
-description: "Nutze dies, wenn Anwälte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwälte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwälte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwälte Honorarvereinbarung Und Rvg Transparenz Kammerantwort, Anwälte Honorarvereinbarung Und Rvg Transparenz Organisationsp im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwälte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwälte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwälte Honorarvereinbarung Und Rvg Transparenz Kammerantwort, Anwälte Honorarvereinbarung Und Rvg Transparenz Organisationsp prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwälte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwälte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwälte Honorarvereinbarung Und..."
+description: "Nutze dies bei Anwaelte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwaelte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwaelte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwaelte Honorarvereinbarung Und Rvg Transparenz Kammerantwort: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwälte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwälte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwälte Honorarvereinbarung Und Rvg Transparenz Kammerantwort, Anwälte Honorarvereinbarung Und Rvg Transparenz Organisationsp
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Geldwaesche Risikoanalyse Kanzlei Organisationspflicht, Anwälte Haftpflichtversicherung Deckungsluecke Kammerantwort U, Anwälte Haftpflichtversicherung Deckungsluecke Organisationspf, Anwälte Honorarvereinbarung Und Rvg Transparenz Kammerantwort, Anwälte Honorarvereinbarung Und Rvg Transparenz Organisationsp** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

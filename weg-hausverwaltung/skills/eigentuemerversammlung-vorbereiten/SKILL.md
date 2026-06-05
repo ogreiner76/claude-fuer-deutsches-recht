@@ -77,7 +77,7 @@ Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereit
 
 ## Quellenpflicht
 
-`rechtsstand-mai-2026-faktenbank` laden. § 23, § 24, § 25 WEG: https://www.gesetze-im-internet.de/woeigg/__23.html , https://www.gesetze-im-internet.de/woeigg/__24.html , https://www.gesetze-im-internet.de/woeigg/__25.html .
+`rechtsstand-mai-2026-faktenbank` laden. § 23, § 24, § 25 WEG: https://www.gesetze-im-internet.de/woeigg/__23.html, https://www.gesetze-im-internet.de/woeigg/__24.html, https://www.gesetze-im-internet.de/woeigg/__25.html .
 
 
 ## Qualitäts-Hardening

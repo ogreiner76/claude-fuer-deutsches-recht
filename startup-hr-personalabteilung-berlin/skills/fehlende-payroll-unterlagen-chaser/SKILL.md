@@ -1,6 +1,6 @@
 ---
 name: fehlende-payroll-unterlagen-chaser
-description: "Berliner Start-up-HR: Fehlende Payroll-Unterlagen nachfassen: freundlich, bestimmt, datensparsam und fristensicher. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt."
+description: "Berliner Start-up-HR: Fehlende Payroll-Unterlagen nachfassen: freundlich, bestimmt, datensparsam und fristensicher. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt."
 ---
 
 # Fehlende Payroll Unterlagen Chaser
@@ -19,7 +19,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Payroll
 **Fokus:** Fehlende Payroll-Unterlagen nachfassen: freundlich, bestimmt, datensparsam und fristensicher.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

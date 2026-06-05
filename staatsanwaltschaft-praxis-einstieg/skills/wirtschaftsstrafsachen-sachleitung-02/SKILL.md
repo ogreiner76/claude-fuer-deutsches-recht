@@ -1,13 +1,13 @@
 ---
 name: wirtschaftsstrafsachen-sachleitung-02
-description: "Nutze dies, wenn Wirtschaftsstrafsachen Sachleitung, Wohnungsdurchsuchung Gefahr Im Verzug, Zeugenmanagement Und Ladungsrisiken, Zeugenvernehmung Zeugenrechte im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftsstrafsachen Sachleitung, Wohnungsdurchsuchung Gefahr Im Verzug, Zeugenmanagement Und Ladungsrisiken, Zeugenvernehmung Zeugenrechte prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftsstrafsachen Sachleitung, Wohnungsdurchsuchung Gefahr Im Verzug, Zeugenmanagement Und Ladungsrisiken, Zeugenvernehmung Zeugenrechte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wirtschaftsstrafsachen Sachleitung, Wohnungsdurchsuchung Gefahr Im Verzug, Zeugenmanagement Und Ladungsrisiken, Zeugenvernehmung Zeugenrechte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftsstrafsachen Sachleitung, Wohnungsdurchsuchung Gefahr Im Verzug, Zeugenmanagement Und Ladungsrisiken, Zeugenvernehmung Zeugenrechte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftsstrafsachen Sachleitung, Wohnungsdurchsuchung Gefahr Im Verzug, Zeugenmanagement Und Ladungsrisiken, Zeugenvernehmung Zeugenrechte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -94,7 +94,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Richtervorbehalt, Dokumentation der Eilkompetenz, Verhältnismäßigkeit und Vollzugsprotokoll
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -143,7 +143,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Ladung, Aussagegenehmigung, Nichterscheinen, Erinnerung und sensible Zeugen
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

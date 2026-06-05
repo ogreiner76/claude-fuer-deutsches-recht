@@ -1,13 +1,13 @@
 ---
 name: chn-employee-chn-cloud-chn-wechat-chn
-description: "Nutze dies, wenn Chn 051 Employee Data China Operations, Chn 052 Cloud And Erp Rollout China, Chn 053 Wechat Business Records, Chn 054 Evidence Preservation China im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 051 Employee Data China Operations, Chn 052 Cloud And Erp Rollout China, Chn 053 Wechat Business Records, Chn 054 Evidence Preservation China prüfen.; Erstelle eine Arbeitsfassung zu Chn 051 Employee Data China Operations, Chn 052 Cloud And Erp Rollout China, Chn 053 Wechat Business Records, Chn 054 Evidence Preservation China.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chn 051 Employee Data China Operations, Chn 052 Cloud And Erp Rollout China, Chn 053 Wechat Business Records, Chn 054 Evidence Preservation China: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Chn 051 Employee Data China Operations, Chn 052 Cloud And Erp Rollout China, Chn 053 Wechat Business Records, Chn 054 Evidence Preservation China
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chn 051 Employee Data China Operations, Chn 052 Cloud And Erp Rollout China, Chn 053 Wechat Business Records, Chn 054 Evidence Preservation China** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

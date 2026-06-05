@@ -1,13 +1,13 @@
 ---
 name: bilingual-drafting-cowork-cloud
-description: "Nutze dies, wenn Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting prüfen.; Erstelle eine Arbeitsfassung zu Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -263,12 +263,12 @@ Er ist nicht nur Datenschutzbelehrung. Er gibt konkrete Drafting-Empfehlungen: W
 ### Pseudonymisierungs-Konventionen
 
 ```
-Mandant     -> "Mandant" oder "M"
-Gegenseite  -> "Gegenseite" oder "G"
+Mandant -> "Mandant" oder "M"
+Gegenseite -> "Gegenseite" oder "G"
 Aktenzeichen -> "AZ-001"
 Datum konkret -> "TT.MM.JJJJ" als Platzhalter
 Betrag konkret -> "[Betrag]" oder "X Euro"
-Adressen   -> "Anschrift M" / "Anschrift G"
+Adressen -> "Anschrift M" / "Anschrift G"
 ```
 
 ## Typische Drafting-Fehler

@@ -1,13 +1,13 @@
 ---
 name: pkh-bewilligung-pkh-ratenzahlung
-description: "Nutze dies, wenn Pkh Bewilligung Ablehnung Folgen, Pkh Ratenzahlung Bewilligung, Prozesskostenhilfe Pkh 114 Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Pkh Bewilligung Ablehnung Folgen, Pkh Ratenzahlung Bewilligung, Prozesskostenhilfe Pkh 114 Zpo prüfen.; Erstelle eine Arbeitsfassung zu Pkh Bewilligung Ablehnung Folgen, Pkh Ratenzahlung Bewilligung, Prozesskostenhilfe Pkh 114 Zpo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pkh Bewilligung Ablehnung Folgen, Pkh Ratenzahlung Bewilligung, Prozesskostenhilfe Pkh 114 Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pkh Bewilligung Ablehnung Folgen, Pkh Ratenzahlung Bewilligung, Prozesskostenhilfe Pkh 114 Zpo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pkh Bewilligung Ablehnung Folgen, Pkh Ratenzahlung Bewilligung, Prozesskostenhilfe Pkh 114 Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

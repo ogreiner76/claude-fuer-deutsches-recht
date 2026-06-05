@@ -1,13 +1,13 @@
 ---
 name: space-weltraummedizin-probandenrecht-haftung
-description: "Nutze dies, wenn Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service im Plugin Weltraumrecht konkret bearbeitet werden soll. Auslöser: Bitte Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service prüfen.; Erstelle eine Arbeitsfassung zu Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Für Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Für Space As A Service** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

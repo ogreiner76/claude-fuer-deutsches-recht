@@ -1,13 +1,13 @@
 ---
 name: db-open-db-geschaeftsgeheimnis-db-datenschutz
-description: "Nutze dies, wenn Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet prüfen.; Erstelle eine Arbeitsfassung zu Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -205,7 +205,7 @@ Für **Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Un
 ## Output
 
 - Doppelschutz-Karte: DSGVO-Rechtsgrundlage + UrhG-Datenbankschutz je Datenkategorie
-- Betroffenenrechte-Workflow ohne Preisgabe der Datenbankstruktur
+- Betroffenenrechte-ohne Preisgabe der Datenbankstruktur
 - Privacy-by-Design-Checkliste für Datenbankarchitektur
 - Auftragsverarbeitungsvertrag-Klausel zum Datenbankherstellerrecht
 - DSGVO-Datenschutz-Folgenabschätzungs-Vorlage für personenbezogene Datenbanken

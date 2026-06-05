@@ -82,7 +82,7 @@ Bekannte BKs:
 ### Schritt 4 — Widerspruch
 
 ```
-[Berufsgenossenschaft]                          [Ort, Datum]
+[Berufsgenossenschaft] [Ort, Datum]
 
 Az: [...]
 
@@ -95,15 +95,15 @@ gegen den o.g. Bescheid lege ich Widerspruch ein.
 Begruendung:
 
 1. Der Vorfall vom [Datum] erfuellt die Voraussetzungen des Arbeitsunfalls nach § 8 SGB VII:
-   - Versicherte Taetigkeit als [Beruf] bei [Arbeitgeber].
-   - Auf dem direkten Weg von [...] zu [...] (Wegeunfall).
-   - Stoss / Sturz / Aufprall durch [...].
-   - Koerperschaden: [konkrete Verletzung].
+ - Versicherte Taetigkeit als [Beruf] bei [Arbeitgeber].
+ - Auf dem direkten Weg von [...] zu [...] (Wegeunfall).
+ - Stoss / Sturz / Aufprall durch [...].
+ - Koerperschaden: [konkrete Verletzung].
 
 2. Beweise:
-   - Anlage 1: D-Arzt-Bericht vom [Datum]
-   - Anlage 2: Klinik-Bericht
-   - Anlage 3: Zeuge [Name, Adresse], Kollege
+ - Anlage 1: D-Arzt-Bericht vom [Datum]
+ - Anlage 2: Klinik-Bericht
+ - Anlage 3: Zeuge [Name, Adresse], Kollege
 
 3. Vorlaeufig MdE-Bewertung: Bei dauerhafter Funktionseinschraenkung der [...] kommt eine MdE von mindestens 20 % in Betracht.
 

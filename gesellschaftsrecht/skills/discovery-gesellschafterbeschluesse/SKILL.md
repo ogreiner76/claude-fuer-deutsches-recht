@@ -1,34 +1,34 @@
 ---
 name: discovery-gesellschafterbeschluesse
-description: "Nutze dies, wenn Spezial Discovery Risikoampel Und Gegenargumente, Spezial Gesellschafterbeschluesse Textbausteine, Spezial Gesellschafterstreit International Schnittstellen, Spezial Gesellschaftsrecht Erstpruefung Und Mandatsziel, Spezial Gmbh Tatbestand Beweis Und Belege im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Discovery Risikoampel Und Gegenargumente, Spezial Gesellschafterbeschluesse Textbausteine, Spezial Gesellschafterstreit International Schnittstellen, Spezial Gesellschaftsrecht Erstpruefung Und Mandatsziel, Spezial Gmbh Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Discovery Risikoampel Und Gegenargumente, Spezial Gesellschafterbeschluesse Textbausteine, Spezial Gesellschafterstreit International Schnittstellen, Spezial Gesellschaftsrecht Erstpruefung Und Mandatsziel, Spezial Gmbh Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Discovery Risikoampel Und Gegenargumente, Gesellschafterbeschluesse Textbausteine, Gesellschafterstreit International Schnittstellen, Gesellschaftsrecht Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Discovery Risikoampel Und Gegenargumente, Spezial Gesellschafterbeschluesse Textbausteine, Spezial Gesellschafterstreit International Schnittstellen, Spezial Gesellschaftsrecht Erstpruefung Und Mandatsziel, Spezial Gmbh Tatbestand Beweis Und Belege
+# Discovery Risikoampel Und Gegenargumente, Gesellschafterbeschluesse Textbausteine, Gesellschafterstreit International Schnittstellen, Gesellschaftsrecht Erstpruefung Und Mandatsziel, Gmbh Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Discovery Risikoampel Und Gegenargumente, Gesellschafterbeschluesse Textbausteine, Gesellschafterstreit International Schnittstellen, Gesellschaftsrecht Erstpruefung Und Mandatsziel, Gmbh Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-discovery-risikoampel-und-gegenargumente` | Discovery: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-gesellschafterbeschluesse-textbausteine` | Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-gesellschafterstreit-international-schnittstellen` | Gesellschafterstreit: Internationaler Bezug und Schnittstellen im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-gesellschaftsrecht-erstpruefung-und-mandatsziel` | Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-gmbh-tatbestand-beweis-und-belege` | GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-discovery-risikoampel-und-gegenargumente` | Discovery: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gesellschafterbeschluesse-textbausteine` | Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gesellschafterstreit-international-schnittstellen` | Gesellschafterstreit: Internationaler Bezug und Schnittstellen im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gesellschaftsrecht-erstpruefung-und-mandatsziel` | Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gmbh-tatbestand-beweis-und-belege` | GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Discovery Risikoampel Und Gegenargumente, Spezial Gesellschafterbeschluesse Textbausteine, Spezial Gesellschafterstreit International Schnittstellen, Spezial Gesellschaftsrecht Erstpruefung Und Mandatsziel, Spezial Gmbh Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Discovery Risikoampel Und Gegenargumente, Gesellschafterbeschluesse Textbausteine, Gesellschafterstreit International Schnittstellen, Gesellschaftsrecht Erstpruefung Und Mandatsziel, Gmbh Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-discovery-risikoampel-und-gegenargumente`
 
-**Fokus:** Discovery: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Discovery: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Discovery: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -42,7 +42,7 @@ Für **Spezial Discovery Risikoampel Und Gegenargumente, Spezial Gesellschafterb
 
 
 ## Spezialwissen: Discovery: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Discovery: Risikoampel, Gegenargumente und Verteidigungslinien / spezial discovery risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Discovery: Risikoampel, Gegenargumente und Verteidigungslinien / discovery risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-gesellschafterbeschluesse-textbausteine`
 
-**Fokus:** Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -92,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine / spezial gesellschafterbeschluesse textbausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine / gesellschafterbeschluesse textbausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -128,7 +128,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-gesellschafterstreit-international-schnittstellen`
 
-**Fokus:** Gesellschafterstreit: Internationaler Bezug und Schnittstellen im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschafterstreit: Internationaler Bezug und Schnittstellen im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschafterstreit: Internationaler Bezug und Schnittstellen
 
@@ -142,7 +142,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Gesellschafterstreit: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Gesellschafterstreit: Internationaler Bezug und Schnittstellen / spezial gesellschafterstreit international schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gesellschafterstreit: Internationaler Bezug und Schnittstellen / gesellschafterstreit international schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -178,7 +178,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-gesellschaftsrecht-erstpruefung-und-mandatsziel`
 
-**Fokus:** Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -192,7 +192,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel / spezial gesellschaftsrecht erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel / gesellschaftsrecht erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -228,7 +228,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-gmbh-tatbestand-beweis-und-belege`
 
-**Fokus:** GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -242,7 +242,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial gmbh tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage / gmbh tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

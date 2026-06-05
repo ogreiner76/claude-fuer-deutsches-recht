@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-kostenrisiko-portfolio-cleanup
-description: "Nutze dies, wenn Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Kammerantwort, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Organisations, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Rechtsprechun, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kalt im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Kammerantwort, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Organisations, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Rechtsprechun, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kalt prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Kammerantwort, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Organisations, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Rechtsprechun, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kalt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Kammerantwort, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Organisations, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Rechtsprechun, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kalt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Kammerantwort, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Organisations, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Rechtsprechun, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kalt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Kammerantwort, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Organisations, Patentanwaelte Kostenrisiko Bei Portfolio Cleanup Rechtsprechun, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kalt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

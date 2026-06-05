@@ -1,13 +1,13 @@
 ---
 name: aussagepsychologie-staatsanwaltschaft
-description: "Nutze dies, wenn Strafrecht Spezial Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Spezial Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Spezial Aussetzung 221 Stgb, Strafrecht Spezial Bandenbetrug 263 Stgb, Strafrecht Spezial Bankrott 283 Stgb und 5 weitere Themen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Spezial Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Spezial Aussetzung 221 Stgb, Strafrecht Spezial Bandenbetrug 263 Stgb, Strafrecht Spezial Bankrott 283 Stgb und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Spezial Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Spezial Aussetzung 221 Stgb, Strafrecht Spezial Bandenbetrug 263 Stgb, Strafrecht Spezial Bankrott 283 Stgb und 5 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafrecht Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Aussetzung 221 Stgb, Strafrecht Bandenbetrug 263 Stgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafrecht Spezial Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Spezial Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Spezial Aussetzung 221 Stgb, Strafrecht Spezial Bandenbetrug 263 Stgb, Strafrecht Spezial Bankrott 283 Stgb und 5 weitere Themen
+# Strafrecht Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Aussetzung 221 Stgb, Strafrecht Bandenbetrug 263 Stgb, Strafrecht Bankrott 283 Stgb und 5 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Aussetzung 221 Stgb, Strafrecht Bandenbetrug 263 Stgb, Strafrecht Bankrott 283 Stgb und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -26,7 +26,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Spezial Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Spezial Aussetzung 221 Stgb, Strafrecht Spezial Bandenbetrug 263 Stgb, Strafrecht Spezial Bankrott 283 Stgb und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Aussetzung 221 Stgb, Strafrecht Bandenbetrug 263 Stgb, Strafrecht Bankrott 283 Stgb und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -502,7 +502,7 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 - **Beratung des Steuerberaters oder externen Sanierungsberaters belegen.** Verbotsirrtum nach Paragraph 17 StGB, jedenfalls Indizwirkung gegen Vorsatz. BGH staendige Rspr. zur Wertung eines Beratervotums als entlastend.
 - **Tagebuch-Reaktion auf Krisensignale.** Wenn der Mandant nach Bekanntwerden der Krise sofort eine Insolvenzberatung beauftragt hat, dann ist eine Bankrotthandlung in der Zwischenzeit eher mit "Sanierungshandlung" zu erklaeren (Paragraph 17 InsO drohende Zahlungsunfaehigkeit erlaubt Sanierungsversuch).
 - **Beweisfuehrungsfalle Sequenzierung.** Insolvenzverwalter rekonstruiert oft nur Aussenwirkung (Buchhaltung verschwunden, Konto leer). Verteidigung muss aktiv Geldfluesse mitliefern; sonst Indizienlast.
-- **Strohmann-Konstellation.** Wenn der Geschaeftsfuehrer nur formal eingesetzt und der faktische Geschaeftsfuehrer (Familienangehoeriger, Hintermann) gehandelt hat, dann Paragraph 14 StGB pruefen (Vertretungsfaelle); siehe Spezialskill faktische Geschaeftsfuehrer.
+- **Strohmann-Konstellation.** Wenn der Geschaeftsfuehrer nur formal eingesetzt und der faktische Geschaeftsfuehrer (Familienangehoeriger, Hintermann) gehandelt hat, dann Paragraph 14 StGB pruefen (Vertretungsfaelle); siehe Fachmodul faktische Geschaeftsfuehrer.
 
 ## Trade-off-Matrix
 
@@ -515,7 +515,7 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 - **Paragraph 283 StGB und Paragraph 266 StGB Untreue.** Bei Eigenschaedigung der GmbH durch GF in der Krise: Untreue + Bankrott in Tateinheit moeglich (BGH staendige Rspr.). Untreue setzt Vermoegensbetreuungspflicht voraus, Bankrott schuetzt Glaeubigergesamtheit.
 - **Paragraph 283 StGB und Paragraph 15a InsO.** Insolvenzverschleppung ist eigenstaendiger Tatbestand, der oft *vor* der Bankrotthandlung liegt. Tatmehrheit Paragraph 53 StGB.
 - **Paragraph 283 StGB und Paragraph 263 StGB Betrug.** Bei Eingehungsbetrug in der Krise (Bestellung trotz Insolvenzreife) Tateinheit moeglich.
-- **Paragraph 283 StGB und Paragraph 266a StGB.** Vorenthalten von Arbeitgeberanteilen oft parallel; siehe Spezialskill 266a.
+- **Paragraph 283 StGB und Paragraph 266a StGB.** Vorenthalten von Arbeitgeberanteilen oft parallel; siehe Fachmodul 266a.
 
 ## Strafzumessung und Folgen
 
@@ -587,11 +587,11 @@ Die Insolvenzstraftaten haben drei *parallele* Belastungen:
 
 - **Bemessungsmittel**: Schuld des Taeters (Paragraph 46 Abs 1 Satz 1 StGB).
 - **Bemessungskriterien** (Paragraph 46 Abs 2 StGB):
-  - Beweggruende, Ziele der Tat,
-  - aufgewendete Energie,
-  - Vorleben und Persoenlichkeit,
-  - Verhalten nach der Tat (Wiedergutmachung, Gestaendnis),
-  - Auswirkungen der Tat (Schaden, Glaeubigerzahl).
+ - Beweggruende, Ziele der Tat,
+ - aufgewendete Energie,
+ - Vorleben und Persoenlichkeit,
+ - Verhalten nach der Tat (Wiedergutmachung, Gestaendnis),
+ - Auswirkungen der Tat (Schaden, Glaeubigerzahl).
 
 ### Wiedergutmachung als Strafzumessungs-Hebel
 
@@ -638,10 +638,10 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 - **Sachverstaendigengutachten zur Schadenshoehe.** Bei Einziehung wirkt jede Euro Schadensminderung direkt auf die Vermoegensabschoepfung. Gegen-Bilanzierung kann sechsstellige Betraege bewegen.
 - **Paragraph 73e StGB Haerteklausel.** Bei drohender Privatinsolvenz des Mandanten durch Wertersatz pruefen, ob Haerteklausel greift. Selten erfolgreich, aber moeglich.
 - **Bewaehrung-Argumente bei Insolvenzstraftaten:**
-  - Erste Verurteilung,
-  - Schadenswiedergutmachung,
-  - Persoenlich-wirtschaftliche Spitzensituation als Tatauslqueger,
-  - Stabilisierung der Lebensumstaende (neue Arbeit, Therapie).
+ - Erste Verurteilung,
+ - Schadenswiedergutmachung,
+ - Persoenlich-wirtschaftliche Spitzensituation als Tatauslqueger,
+ - Stabilisierung der Lebensumstaende (neue Arbeit, Therapie).
 - **Berufsverbot vermeiden.** Argumentieren: Tat war einmalig, Mandant hat berufliche Position aufgegeben, neue Position ohne Vermoegensverantwortung. Berufsverbot kann zeitlich begrenzt oder verneint werden.
 - **D&O-Versicherung pruefen.** Bei Vorstaenden/GF deckt D&O regelmaessig zivilrechtliche Haftung, aber nicht strafrechtliche Geldstrafen. Einziehung ist aber nicht Strafe iSv Paragraph 73a StGB - hier ist D&O-Deckung manchmal moeglich.
 

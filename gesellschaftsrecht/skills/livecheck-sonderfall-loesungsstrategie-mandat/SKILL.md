@@ -1,34 +1,34 @@
 ---
 name: livecheck-sonderfall-loesungsstrategie-mandat
-description: "Nutze dies, wenn Spezial Livecheck Sonderfall Und Edge Case, Spezial Loesungsstrategie Formular Portal Und Einreichung, Spezial Mandat Red Team Und Qualitaetskontrolle, Gesellschafterliste Registerstreit Legitimationswirkung, Vollzugs Checkliste im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Livecheck Sonderfall Und Edge Case, Loesungsstrategie Formular Portal Und Einreichung, Mandat Red Team Und Qualitaetskontrolle, Gesellschafterliste Registerstreit Legitimationswirkung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Livecheck Sonderfall Und Edge Case, Spezial Loesungsstrategie Formular Portal Und Einreichung, Spezial Mandat Red Team Und Qualitaetskontrolle, Gesellschafterliste Registerstreit Legitimationswirkung, Vollzugs Checkliste
+# Livecheck Sonderfall Und Edge Case, Loesungsstrategie Formular Portal Und Einreichung, Mandat Red Team Und Qualitaetskontrolle, Gesellschafterliste Registerstreit Legitimationswirkung, Vollzugs Checkliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Livecheck Sonderfall Und Edge Case, Loesungsstrategie Formular Portal Und Einreichung, Mandat Red Team Und Qualitaetskontrolle, Gesellschafterliste Registerstreit Legitimationswirkung, Vollzugs Checkliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-livecheck-sonderfall-und-edge-case` | Livecheck: Sonderfall und Edge-Case-Prüfung im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-loesungsstrategie-formular-portal-und-einreichung` | Loesungsstrategie: Formular, Portal und Einreichungslogik im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-mandat-red-team-und-qualitaetskontrolle` | Mandat: Red-Team und Qualitätskontrolle im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-livecheck-sonderfall-und-edge-case` | Livecheck: Sonderfall und Edge-Case-Prüfung im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-loesungsstrategie-formular-portal-und-einreichung` | Loesungsstrategie: Formular, Portal und Einreichungslogik im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-mandat-red-team-und-qualitaetskontrolle` | Mandat: Red-Team und Qualitätskontrolle im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `gesellschafterliste-registerstreit-legitimationswirkung` | Prüft § 16 und § 40 GmbHG, unrichtige Listen, Einziehung, Abtretung, Notar-/Registerrolle, einstweilige Verfügung und praktische Vollzugssperren. |
 | `vollzugs-checkliste` | Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: "Vollzugscheckliste", "Closing-Checkliste", "was fehlt noch zum Closing", "Checklisten-Status", "zur Checkliste hinzufügen". |
 
 ## Arbeitsweg
 
-Für **Spezial Livecheck Sonderfall Und Edge Case, Spezial Loesungsstrategie Formular Portal Und Einreichung, Spezial Mandat Red Team Und Qualitaetskontrolle, Gesellschafterliste Registerstreit Legitimationswirkung, Vollzugs Checkliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Livecheck Sonderfall Und Edge Case, Loesungsstrategie Formular Portal Und Einreichung, Mandat Red Team Und Qualitaetskontrolle, Gesellschafterliste Registerstreit Legitimationswirkung, Vollzugs Checkliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-livecheck-sonderfall-und-edge-case`
 
-**Fokus:** Livecheck: Sonderfall und Edge-Case-Prüfung im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Livecheck: Sonderfall und Edge-Case-Prüfung im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Livecheck: Sonderfall und Edge-Case-Prüfung
 
@@ -42,7 +42,7 @@ Für **Spezial Livecheck Sonderfall Und Edge Case, Spezial Loesungsstrategie For
 
 
 ## Spezialwissen: Livecheck: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Livecheck: Sonderfall und Edge-Case-Prüfung / spezial livecheck sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Livecheck: Sonderfall und Edge-Case-Prüfung / livecheck sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-loesungsstrategie-formular-portal-und-einreichung`
 
-**Fokus:** Loesungsstrategie: Formular, Portal und Einreichungslogik im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Loesungsstrategie: Formular, Portal und Einreichungslogik im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Loesungsstrategie: Formular, Portal und Einreichungslogik
 
@@ -92,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Loesungsstrategie: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Loesungsstrategie: Formular, Portal und Einreichungslogik / spezial loesungsstrategie formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Loesungsstrategie: Formular, Portal und Einreichungslogik / loesungsstrategie formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -128,7 +128,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-mandat-red-team-und-qualitaetskontrolle`
 
-**Fokus:** Mandat: Red-Team und Qualitätskontrolle im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mandat: Red-Team und Qualitätskontrolle im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mandat: Red-Team und Qualitätskontrolle
 
@@ -142,7 +142,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Mandat: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Mandat: Red-Team und Qualitätskontrolle / spezial mandat red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mandat: Red-Team und Qualitätskontrolle / mandat red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -286,7 +286,7 @@ In deutschen SPA-Formulierungen wird MAC häufig als "wesentliche nachteilige Ve
 ## Prüfschema: Vollzugscheckliste
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -454,56 +454,56 @@ signing_datum: "2026-03-01"
 zuletzt_aktualisiert: "2026-05-26"
 
 vollzugsbedingungen:
-  - id: VB-001
-    punkt: "Kartellrechtliche Freigabe Bundeskartellamt"
-    kategorie: "Behördliche Genehmigung"
-    verantwortlich: "Käufer-Anwalt (Kanzlei XY)"
-    faellig: "2026-06-15"
-    status: "Angemeldet 01.04.2026; Wartefrist Phase I läuft (§ 40 Abs. 1 GWB: 1 Monat)"
-    blockierend: true
-    quelle: "SPA § 7.1(a)"
-    geschaetzte_restdauer_tage: 20
+ - id: VB-001
+ punkt: "Kartellrechtliche Freigabe Bundeskartellamt"
+ kategorie: "Behördliche Genehmigung"
+ verantwortlich: "Käufer-Anwalt (Kanzlei XY)"
+ faellig: "2026-06-15"
+ status: "Angemeldet 01.04.2026; Wartefrist Phase I läuft (§ 40 Abs. 1 GWB: 1 Monat)"
+ blockierend: true
+ quelle: "SPA § 7.1(a)"
+ geschaetzte_restdauer_tage: 20
 
-  - id: VB-002
-    punkt: "Zustimmung Acme GmbH — Change-of-Control § 14 Rahmenvertrag"
-    kategorie: "Zustimmung Dritter"
-    verantwortlich: "Zielgesellschaft — Frau Schmitt"
-    faellig: "2026-06-20"
-    status: "Anfrage versandt 15.04.2026; keine Antwort — ESKALATION erforderlich"
-    blockierend: true
-    quelle: "DD-Finding VB-002; Anlage 4.3(a) Nr. 7; Rahmenvertrag § 14"
-    geschaetzte_restdauer_tage: 30
+ - id: VB-002
+ punkt: "Zustimmung Acme GmbH — Change-of-Control § 14 Rahmenvertrag"
+ kategorie: "Zustimmung Dritter"
+ verantwortlich: "Zielgesellschaft — Frau Schmitt"
+ faellig: "2026-06-20"
+ status: "Anfrage versandt 15.04.2026; keine Antwort — ESKALATION erforderlich"
+ blockierend: true
+ quelle: "DD-Finding VB-002; Anlage 4.3(a) Nr. 7; Rahmenvertrag § 14"
+ geschaetzte_restdauer_tage: 30
 
 vollzugslieferungen:
-  - id: VL-001
-    punkt: "Handelsregister-Gesellschafterliste (aktuell, § 40 GmbHG)"
-    kategorie: "Gesellschaftsrechtlich"
-    verantwortlich: "Ziel-Anwalt"
-    faellig: "2026-06-28"
-    status: "Notar beauftragt 20.05.2026; Termin 10.06.2026"
-    blockierend: true
-    quelle: "SPA § 2.3(b)(iv)"
-    geschaetzte_restdauer_tage: 15
+ - id: VL-001
+ punkt: "Handelsregister-Gesellschafterliste (aktuell, § 40 GmbHG)"
+ kategorie: "Gesellschaftsrechtlich"
+ verantwortlich: "Ziel-Anwalt"
+ faellig: "2026-06-28"
+ status: "Notar beauftragt 20.05.2026; Termin 10.06.2026"
+ blockierend: true
+ quelle: "SPA § 2.3(b)(iv)"
+ geschaetzte_restdauer_tage: 15
 
-  - id: VL-002
-    punkt: "Freigabe Gesellschafterdarlehen / Sicherheiten (§ 30 GmbHG)"
-    kategorie: "Kapital / Darlehen"
-    verantwortlich: "Ziel-Anwalt"
-    faellig: "2026-06-25"
-    status: "In Bearbeitung; Darlehensgeber zugestimmt 20.05.2026"
-    blockierend: true
-    quelle: "SPA § 5.3(c)"
-    geschaetzte_restdauer_tage: 10
+ - id: VL-002
+ punkt: "Freigabe Gesellschafterdarlehen / Sicherheiten (§ 30 GmbHG)"
+ kategorie: "Kapital / Darlehen"
+ verantwortlich: "Ziel-Anwalt"
+ faellig: "2026-06-25"
+ status: "In Bearbeitung; Darlehensgeber zugestimmt 20.05.2026"
+ blockierend: true
+ quelle: "SPA § 5.3(c)"
+ geschaetzte_restdauer_tage: 10
 
-  - id: VL-003
-    punkt: "Bestätigungsschreiben Hausbank (CoC-Darlehensvertrag)"
-    kategorie: "Fremdfinanzierung"
-    verantwortlich: "Käufer-Anwalt"
-    faellig: "2026-05-15"
-    status: "ERLEDIGT — erhalten 2026-05-15"
-    blockierend: false
-    quelle: "SPA § 7.2(c)"
-    geschaetzte_restdauer_tage: 0
+ - id: VL-003
+ punkt: "Bestätigungsschreiben Hausbank (CoC-Darlehensvertrag)"
+ kategorie: "Fremdfinanzierung"
+ verantwortlich: "Käufer-Anwalt"
+ faellig: "2026-05-15"
+ status: "ERLEDIGT — erhalten 2026-05-15"
+ blockierend: false
+ quelle: "SPA § 7.2(c)"
+ geschaetzte_restdauer_tage: 0
 ```
 
 ## Checklisten-Datei (technische Beschreibung)
@@ -533,14 +533,14 @@ Modus 2 wird ausgelöst, wenn ein vorgelagerter Skill ein Finding mit einer Voll
 
 ```yaml
 übergabe:
-  punkt: "[Gegenpartei oder Handlung]"
-  kategorie: "[Zustimmung Dritter | Gesellschafter-/Organentscheidung | Behördliche Einreichung | Ablösung | Vollzugslieferung]"
-  quelle: "[Vertragsname / Norm / VDR-Pfad]"
-  blockierend: true
-  gegenpartei: "[z.B. Acme GmbH]"
-  ankuendigungsfrist: "[z.B. 30 Tage vor Vollzug]"
-  geschaetzte_dauer: "[z.B. 30 Tage]"
-  muss_erfolgen_vor: "[Vollzug | Signing | Ende Wartepflicht]"
+ punkt: "[Gegenpartei oder Handlung]"
+ kategorie: "[Zustimmung Dritter | Gesellschafter-/Organentscheidung | Behördliche Einreichung | Ablösung | Vollzugslieferung]"
+ quelle: "[Vertragsname / Norm / VDR-Pfad]"
+ blockierend: true
+ gegenpartei: "[z.B. Acme GmbH]"
+ ankuendigungsfrist: "[z.B. 30 Tage vor Vollzug]"
+ geschaetzte_dauer: "[z.B. 30 Tage]"
+ muss_erfolgen_vor: "[Vollzug | Signing | Ende Wartepflicht]"
 ```
 
 ### Modus 3: Status-Update

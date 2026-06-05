@@ -1,13 +1,13 @@
 ---
 name: sonderfall-edge-roadmap-rolle
-description: "Nutze dies, wenn Spezial Prüfung Sonderfall Und Edge Case, Spezial Roadmap Internationaler Bezug Und Schnittstellen, Spezial Rolle Abschlussprodukt Und Übergabe im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Bitte Spezial Prüfung Sonderfall Und Edge Case, Spezial Roadmap Internationaler Bezug Und Schnittstellen, Spezial Rolle Abschlussprodukt Und Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Spezial Prüfung Sonderfall Und Edge Case, Spezial Roadmap Internationaler Bezug Und Schnittstellen, Spezial Rolle Abschlussprodukt Und Übergabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prüfung Sonderfall Und Edge Case, Roadmap Internationaler Bezug Und Schnittstellen, Rolle Abschlussprodukt Und Uebergabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Prüfung Sonderfall Und Edge Case, Spezial Roadmap Internationaler Bezug Und Schnittstellen, Spezial Rolle Abschlussprodukt Und Übergabe
+# Prüfung Sonderfall Und Edge Case, Roadmap Internationaler Bezug Und Schnittstellen, Rolle Abschlussprodukt Und Übergabe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prüfung Sonderfall Und Edge Case, Roadmap Internationaler Bezug Und Schnittstellen, Rolle Abschlussprodukt Und Übergabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Prüfung Sonderfall Und Edge Case, Spezial Roadmap Internationaler Bezug Und Schnittstellen, Spezial Rolle Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Prüfung Sonderfall Und Edge Case, Roadmap Internationaler Bezug Und Schnittstellen, Rolle Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Prüfung Sonderfall Und Edge Case, Spezial Roadmap Internationale
 # Pruefung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Pruefung: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Pruefung: Sonderfall und Edge-Case-Prüfung / spezial pruefung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pruefung: Sonderfall und Edge-Case-Prüfung / pruefung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Roadmap: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Roadmap: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Roadmap: Internationaler Bezug und Schnittstellen / spezial roadmap internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Roadmap: Internationaler Bezug und Schnittstellen / roadmap internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Rolle: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Rolle: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Rolle: Abschlussprodukt und Übergabe / spezial rolle abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rolle: Abschlussprodukt und Übergabe / rolle abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

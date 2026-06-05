@@ -49,18 +49,18 @@ Nutze diesen Skill, wenn kommerzieller Persönlichkeitswert ohne Zustimmung genu
 ## Schrankenfrei vs. zustimmungspflichtig
 
 - **§ 23 KUG-Ausnahmen** (Bildverwendung zulässig ohne Einwilligung):
-  - Bilder aus dem Bereich der Zeitgeschichte (§ 23 Abs. 1 Nr. 1 KUG) — abgestufte Wertung BVerfG/BGH.
-  - Bilder als Beiwerk (Nr. 2), Versammlungen/Aufzüge (Nr. 3), höhere Interessen der Kunst (Nr. 4).
-  - **Schranke der Schranke § 23 Abs. 2 KUG:** berechtigte Interessen des Abgebildeten dürfen nicht verletzt werden.
+ - Bilder aus dem Bereich der Zeitgeschichte (§ 23 Abs. 1 Nr. 1 KUG) — abgestufte Wertung BVerfG/BGH.
+ - Bilder als Beiwerk (Nr. 2), Versammlungen/Aufzüge (Nr. 3), höhere Interessen der Kunst (Nr. 4).
+ - **Schranke der Schranke § 23 Abs. 2 KUG:** berechtigte Interessen des Abgebildeten dürfen nicht verletzt werden.
 - **Kommerzielle Nutzung:** nahezu immer zustimmungspflichtig, da kein § 23 Abs. 1 KUG.
 
 ## Eingriffskondiktion — Berechnung
 
 - **Lizenzanalogie:** marktübliche Lizenzgebühr für vergleichbare Werbeverträge (Prominente, Kategorie, Umfang der Nutzung — Print, TV, Online, Dauer, Reichweite).
 - **Drei-fache Berechnungsmethode** (BGH-Linie zu Immaterialgüterrechten und Persönlichkeitsrechten):
-  1. Konkreter Schaden.
-  2. Verletzergewinn.
-  3. Lizenzanalogie.
+ 1. Konkreter Schaden.
+ 2. Verletzergewinn.
+ 3. Lizenzanalogie.
 - **Gewinnabschöpfung:** bei vorsätzlich-sittenwidriger Verletzung höhere Werte zulässig.
 
 ## Konkurrenz und parallele Ansprüche

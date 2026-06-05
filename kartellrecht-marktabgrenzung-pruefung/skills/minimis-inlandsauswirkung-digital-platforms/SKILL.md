@@ -1,20 +1,20 @@
 ---
 name: minimis-inlandsauswirkung-digital-platforms
-description: "Nutze dies, wenn De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33G Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33G Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht prüfen.; Erstelle eine Arbeitsfassung zu De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33G Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33g Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33G Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **De Minimis Inlandsauswirkung Fusionskontrolle, Digital Platforms Self Preferencing, Disclosure 33G Gwb Akteneinsicht, Dma Schnittstelle Kartellrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `de-minimis-inlandsauswirkung-fusionskontrolle` | De-minimis Inlandsauswirkung Fusionskontrolle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `digital-platforms-self-preferencing` | Digitale Plattformen Self-Preferencing: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Plattformmacht, Datenzugang, Interoperabilität, DMA und Missbrauchsrecht verzahnen, Evidenz, Fristen, Strategie und Quellen. |
+| `digital-platforms-self-preferencing` | Digitale Plattformen Self-Preferencing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Plattformmacht, Datenzugang, Interoperabilität, DMA und Missbrauchsrecht verzahnen, Evidenz, Fristen, Strategie und Quellen. |
 | `disclosure-33g-gwb-akteneinsicht` | Disclosure § 33g GWB Akteneinsicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `dma-schnittstelle-kartellrecht` | DMA Schnittstelle Kartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
@@ -72,7 +72,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `digital-platforms-self-preferencing`
 
-**Fokus:** Digitale Plattformen Self-Preferencing: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Plattformmacht, Datenzugang, Interoperabilität, DMA und Missbrauchsrecht verzahnen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Digitale Plattformen Self-Preferencing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Plattformmacht, Datenzugang, Interoperabilität, DMA und Missbrauchsrecht verzahnen, Evidenz, Fristen, Strategie und Quellen.
 
 # Digitale Plattformen Self-Preferencing
 

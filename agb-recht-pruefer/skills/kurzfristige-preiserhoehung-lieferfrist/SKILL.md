@@ -1,20 +1,20 @@
 ---
 name: kurzfristige-preiserhoehung-lieferfrist
-description: "Nutze dies, wenn Kurzfristige Preiserhöhung 309, Lieferfrist Teillieferung, Agb Anwaltsvertrag Und Allg Mandatsbedingungen, Agb Im Arbeitsvertrag 310 Abs 4 Vertieft im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Kurzfristige Preiserhöhung 309, Lieferfrist Teillieferung, Agb Anwaltsvertrag Und Allg Mandatsbedingungen, Agb Im Arbeitsvertrag 310 Abs 4 Vertieft prüfen.; Erstelle eine Arbeitsfassung zu Kurzfristige Preiserhöhung 309, Lieferfrist Teillieferung, Agb Anwaltsvertrag Und Allg Mandatsbedingungen, Agb Im Arbeitsvertrag 310 Abs 4 Vertieft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kurzfristige Preiserhoehung 309, Lieferfrist Teillieferung, Agb Anwaltsvertrag Und Allg Mandatsbedingungen, Agb Im Arbeitsvertrag 310 Abs 4 Vertieft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kurzfristige Preiserhöhung 309, Lieferfrist Teillieferung, Agb Anwaltsvertrag Und Allg Mandatsbedingungen, Agb Im Arbeitsvertrag 310 Abs 4 Vertieft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `kurzfristige-preiserhoehung-309` | Norm- und Dogmatik-Skill für Kurzfristige Preiserhöhung 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `lieferfrist-teillieferung` | Klausel-Spezialskill für Lieferfrist Teillieferung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `lieferfrist-teillieferung` | Klausel-Fachmodul für Lieferfrist Teillieferung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `agb-anwaltsvertrag-und-allg-mandatsbedingungen` | AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-rechtliche Pruefung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme Honorarvereinbarungen und Sondervorschriften der BRAO. Liefert Pruefraster. |
 | `agb-im-arbeitsvertrag-310-abs-4-vertieft` | Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB-Kontrolle im Arbeitsrecht: Anwendbarkeit der §§ 305 ff. BGB auf vorformulierte Arbeitsvertragsklauseln Sonderregeln fuer Tarifvertraege und Betriebsvereinbarungen. Behandelt typische problematische Klauseln Versetzungsvorbehalt Verfallklausel Rueckzahlungsklausel fuer Aus- und Fortbildung. Liefert Pruefraster und Klauselentwurf. |
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `lieferfrist-teillieferung`
 
-**Fokus:** Klausel-Spezialskill für Lieferfrist Teillieferung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Lieferfrist Teillieferung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 
 # Lieferfrist Teillieferung
@@ -210,15 +210,15 @@ Skill fuer arbeitsrechtliche AGB-Kontrolle nach § 310 Abs. 4 BGB.
 
 ### Verfallklausel / Ausschlussfrist
 - Klausel "Ansprueche aus dem Arbeitsverhaeltnis verfallen, soweit sie nicht innerhalb von 3 Monaten geltend gemacht werden" hat in der Tendenz Bestand, wenn:
-  - beide Seiten erfasst sind (gegenseitig),
-  - Mindestlohn / unabdingbare Ansprueche ausdruecklich ausgenommen sind,
-  - Frist nicht unter 3 Monaten.
+ - beide Seiten erfasst sind (gegenseitig),
+ - Mindestlohn / unabdingbare Ansprueche ausdruecklich ausgenommen sind,
+ - Frist nicht unter 3 Monaten.
 - BAG 5 AZR 545/13 (Az verifizieren): Ausschlussfristen unter 3 Monaten unwirksam.
 
 ### Rueckzahlungsklausel fuer Aus- und Fortbildung
 - Klassische BAG-Linie: nur wirksam, wenn:
-  - der Mitarbeiter einen geldwerten Vorteil aus der Fortbildung zieht,
-  - die Bindungsdauer in einem angemessenen Verhaeltnis zur Fortbildung steht (Faustregel: bis 1 Monat — kein Bindung, 1-2 Monate — bis 6 Monate, 2-4 Monate — bis 1 Jahr, 6-12 Monate — bis 3 Jahre, > 24 Monate — bis 5 Jahre).
+ - der Mitarbeiter einen geldwerten Vorteil aus der Fortbildung zieht,
+ - die Bindungsdauer in einem angemessenen Verhaeltnis zur Fortbildung steht (Faustregel: bis 1 Monat — kein Bindung, 1-2 Monate — bis 6 Monate, 2-4 Monate — bis 1 Jahr, 6-12 Monate — bis 3 Jahre, > 24 Monate — bis 5 Jahre).
 - Klausel muss differenzieren nach Kuendigungsgrund (Eigenkuendigung des Arbeitnehmers schadet, betriebsbedingte Kuendigung des Arbeitgebers nicht).
 
 ### Vertragsstrafe im Arbeitsvertrag

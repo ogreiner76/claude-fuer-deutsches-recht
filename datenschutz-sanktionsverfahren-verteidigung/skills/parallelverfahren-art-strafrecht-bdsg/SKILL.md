@@ -1,13 +1,13 @@
 ---
 name: parallelverfahren-art-strafrecht-bdsg
-description: "Nutze dies, wenn Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren im Plugin Datenschutz Sanktionsverfahren Verteidigung konkret bearbeitet werden soll. Auslöser: Bitte Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren prüfen.; Erstelle eine Arbeitsfassung zu Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Parallelverfahren Art 82 Massenklagen, Parallelverfahren Strafrecht 42 Bdsg, Rechtsweg Router Bussgeld Verwaltungsgericht Zivilverfahren, Sachverstaendige It Forensik Im Bussgeldverfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

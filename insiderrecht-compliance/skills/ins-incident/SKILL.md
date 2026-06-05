@@ -1,13 +1,13 @@
 ---
 name: ins-incident
-description: "Nutze dies, wenn Ins 055 Incident Drill im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 055 Incident Drill prüfen.; Erstelle eine Arbeitsfassung zu Ins 055 Incident Drill.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 055 Incident Drill: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 055 Incident Drill
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 055 Incident Drill** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -54,14 +54,14 @@ Dokumentation.
 
 Wähle eines der folgenden Szenarien (oder erstelle ein unternehmens-spezifisches):
 a) Profit Warning: CFO erhält Monatszahlen, die erheblich von Guidance abweichen.
-   → Entscheidung: Ad-hoc sofort oder Aufschub bis Quartalsabschluss?
+ → Entscheidung: Ad-hoc sofort oder Aufschub bis Quartalsabschluss?
 b) M&A-Leak: Medien berichten über bevorstehende Übernahme des Emittenten.
-   → Entscheidung: Sofortveröffentlichung oder Dementierung?
+ → Entscheidung: Sofortveröffentlichung oder Dementierung?
 c) PDMR-Verdacht: Compliance erhält Hinweis, dass ein Vorstandsmitglied Aktien
-   kurz vor einer Profit-Warning verkauft hat.
-   → Entscheidung: Interne Untersuchung, BaFin-Meldung, externe Kanzlei?
+ kurz vor einer Profit-Warning verkauft hat.
+ → Entscheidung: Interne Untersuchung, BaFin-Meldung, externe Kanzlei?
 d) Cyberangriff: IT meldet schwerwiegendes Datenleck in der Nacht.
-   → Entscheidung: Wann ist Insiderinformation entstanden? Ad-hoc unverzüglich?
+ → Entscheidung: Wann ist Insiderinformation entstanden? Ad-hoc unverzüglich?
 
 ### Phase 2 – Drill-Durchführung (120 Minuten)
 

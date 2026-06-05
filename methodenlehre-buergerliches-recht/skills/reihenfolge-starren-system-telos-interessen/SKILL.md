@@ -1,13 +1,13 @@
 ---
 name: reihenfolge-starren-system-telos-interessen
-description: "Nutze dies, wenn Spezial Reihenfolge Schriftsatz Brief Und Memo Bausteine, Spezial Starren Formular Portal Und Einreichung, Spezial System Zahlen Schwellen Und Berechnung, Spezial Telos Mehrparteien Konflikt Und Interessen, Spezial Unionsrechtskonforme Beweislast Und Darlegungslast im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Reihenfolge Schriftsatz Brief Und Memo Bausteine, Spezial Starren Formular Portal Und Einreichung, Spezial System Zahlen Schwellen Und Berechnung, Spezial Telos Mehrparteien Konflikt Und Interessen, Spezial Unionsrechtskonforme Beweislast Und Darlegungslast prüfen.; Erstelle eine Arbeitsfassung zu Spezial Reihenfolge Schriftsatz Brief Und Memo Bausteine, Spezial Starren Formular Portal Und Einreichung, Spezial System Zahlen Schwellen Und Berechnung, Spezial Telos Mehrparteien Konflikt Und Interessen, Spezial Unionsrechtskonforme Beweislast Und Darlegungslast.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starren Formular Portal Und Einreichung, System Zahlen Schwellen Und Berechnung, Telos Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Reihenfolge Schriftsatz Brief Und Memo Bausteine, Spezial Starren Formular Portal Und Einreichung, Spezial System Zahlen Schwellen Und Berechnung, Spezial Telos Mehrparteien Konflikt Und Interessen, Spezial Unionsrechtskonforme Beweislast Und Darlegungslast
+# Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starren Formular Portal Und Einreichung, System Zahlen Schwellen Und Berechnung, Telos Mehrparteien Konflikt Und Interessen, Unionsrechtskonforme Beweislast Und Darlegungslast
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starren Formular Portal Und Einreichung, System Zahlen Schwellen Und Berechnung, Telos Mehrparteien Konflikt Und Interessen, Unionsrechtskonforme Beweislast Und Darlegungslast** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Reihenfolge Schriftsatz Brief Und Memo Bausteine, Spezial Starren Formular Portal Und Einreichung, Spezial System Zahlen Schwellen Und Berechnung, Spezial Telos Mehrparteien Konflikt Und Interessen, Spezial Unionsrechtskonforme Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starren Formular Portal Und Einreichung, System Zahlen Schwellen Und Berechnung, Telos Mehrparteien Konflikt Und Interessen, Unionsrechtskonforme Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

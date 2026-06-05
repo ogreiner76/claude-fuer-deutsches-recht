@@ -1,13 +1,13 @@
 ---
 name: see-containerschiff-local-closing-planen
-description: "Nutze dies, wenn See 067 Containerschiff Local Counsel Instruie, See 068 Containerschiff Closing Planen, See 069 Containerschiff Klagepfad Waehlen, See 070 Containerschiff Risiko Memo Schreiben, See 071 Offshore Schiff Register Prüfen im Plugin Seerecht Schifffahrtsrecht konkret bearbeitet werden soll. Auslöser: Bitte See 067 Containerschiff Local Counsel Instruie, See 068 Containerschiff Closing Planen, See 069 Containerschiff Klagepfad Waehlen, See 070 Containerschiff Risiko Memo Schreiben, See 071 Offshore Schiff Register Prüfen prüfen.; Erstelle eine Arbeitsfassung zu See 067 Containerschiff Local Counsel Instruie, See 068 Containerschiff Closing Planen, See 069 Containerschiff Klagepfad Waehlen, See 070 Containerschiff Risiko Memo Schreiben, See 071 Offshore Schiff Register Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei See 067 Containerschiff Local Counsel Instruie, See 068 Containerschiff Closing Planen, See 069 Containerschiff Klagepfad Waehlen, See 070 Containerschiff Risiko Memo Schreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # See 067 Containerschiff Local Counsel Instruie, See 068 Containerschiff Closing Planen, See 069 Containerschiff Klagepfad Waehlen, See 070 Containerschiff Risiko Memo Schreiben, See 071 Offshore Schiff Register Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **See 067 Containerschiff Local Counsel Instruie, See 068 Containerschiff Closing Planen, See 069 Containerschiff Klagepfad Waehlen, See 070 Containerschiff Risiko Memo Schreiben, See 071 Offshore Schiff Register Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

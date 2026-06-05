@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im E-Commerce-Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Spezial-Skills aus diesem Plugin vor."
+description: "Einstieg, Schnelltriage und Fallrouting im E-Commerce-Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Fachmodule aus diesem Plugin vor."
 ---
 
 # E-Commerce-Recht — Allgemein
@@ -16,7 +16,7 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 1. **Erkannt:** Dokumentart, Absender, Datum, Aktenzeichen, Beteiligte und Lebenssachverhalt nennen.
 2. **Frist zuerst:** Zustellung, Rechtsbehelf, Behördenfrist, Zahlungsziel, Ausschlussfrist oder Verjährungsrisiko markieren.
 3. **Einordnung:** Rechtsgebiet, Normengruppe, Behörde/Gericht und Arbeitstyp bestimmen.
-4. **Primärer Pfad:** den wahrscheinlich passenden Spezial-Skill aus diesem Plugin nennen und bei eindeutigem Treffer direkt anwenden.
+4. **Primärer Pfad:** den wahrscheinlich passenden Fachmodul aus diesem Plugin nennen und bei eindeutigem Treffer direkt anwenden.
 5. **Nur eine Rückfrage:** nur wenn ohne die Antwort ein falscher nächster Schritt droht.
 
 ## Intake in 60 Sekunden
@@ -83,7 +83,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 
 | Skill | Wann einsetzen? |
 | --- | --- |
-| `abmahnung-einstweilige-verfuegung-sofortplan` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Abmahnung einstweilige Verfügung Sofortplan. |
+| `abmahnung-einstweilige-verfuegung-sofortplan` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Abmahnung einstweilige Verfügung Sofortplan. |
 | `abmahnung-uwg-unterlassungserklaerung` | Abmahnung UWG Unterlassungserklärung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informati... |
 | `abo-falle-negative-option` | Abo-Falle negative option: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichte... |
 | `accessibility-bfsg-online-shop` | Accessibility BFSG Online-Shop: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspfl... |
@@ -91,7 +91,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `altersverifikation-jugendschutz` | Altersverifikation Jugendschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspf... |
 | `app-commerce-in-app-kaeufe` | App-Commerce In-App-Käufe: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichte... |
 | `b2b-shop-und-unternehmernachweis` | B2B-Shop und Unternehmernachweis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationsp... |
-| `b2c-b2b-plattform-marktplatz-routing` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing. |
+| `b2c-b2b-plattform-marktplatz-routing` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing. |
 | `barrierefreiheitsstaerkungsgesetz-ab-2025` | Barrierefreiheitsstärkungsgesetz ab 2025: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Infor... |
 | `bewertungen-loeschen-lassen` | Bewertungen löschen lassen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflicht... |
 | `button-loesung-312j-bgb` | Button-Lösung § 312j BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten... |
@@ -101,7 +101,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `datenportabilitaet-kundenkonto` | Datenportabilität Kundenkonto: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspfli... |
 | `datenschutzerklaerung-tracking-consent-dsgvo-ttdsg-tdddg` | Datenschutzerklärung Tracking Consent DSGVO TTDSG/TDDDG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 f... |
 | `digitale-inhalte-abo-kuendigungsbutton` | Digitale Inhalte Abo Kündigungsbutton: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informat... |
-| `dokumentenintake-screenshots-agb-logs` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Dokumentenintake Screenshots AGB Logs. |
+| `dokumentenintake-screenshots-agb-logs` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Dokumentenintake Screenshots AGB Logs. |
 | `domainrecht-cybersquatting` | Domainrecht Cybersquatting: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflicht... |
 | `dropshipping-drittland-zoll-einfuhrumsatzsteuer` | Dropshipping Drittland Zoll Einfuhrumsatzsteuer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBG... |
 | `dsa-pflichten-vermittlungsdienste-online-plattformen` | DSA Pflichten Vermittlungsdienste Online-Plattformen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.;... |
@@ -116,21 +116,21 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `impressum-ddg-anbieterkennzeichnung` | Impressum DDG Anbieterkennzeichnung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informatio... |
 | `influencer-affiliate-kennzeichnung-uwg` | Influencer Affiliate Kennzeichnung UWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informa... |
 | `informationspflichten-vor-vertragsschluss-art-246a-egbgb` | Informationspflichten vor Vertragsschluss Art. 246a EGBGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434... |
-| `international-eu-verbraucherrecht-intake` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema International EU Verbraucherrecht Intake. |
-| `kaltstart-e-commerce-mandat` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart E-Commerce Mandat. |
+| `international-eu-verbraucherrecht-intake` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema International EU Verbraucherrecht Intake. |
+| `kaltstart-e-commerce-mandat` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart E-Commerce Mandat. |
 | `ki-gestuetzte-preisbildung-diskriminierung` | KI-gestützte Preisbildung Diskriminierung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Info... |
 | `klarna-paypal-plattformbedingungen-rechtlich-lesen` | Klarna PayPal Plattformbedingungen rechtlich lesen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; E... |
 | `kuendigungsbutton-312k-bgb` | Kündigungsbutton § 312k BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflich... |
 | `kundenservice-chatbot-ai-act-transparenz` | Kundenservice Chatbot AI Act Transparenz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Infor... |
 | `lieferzeiten-verfuegbarkeit-dropshipping` | Lieferzeiten Verfügbarkeit Dropshipping: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Inform... |
-| `livecheck-bgb-uwg-ddg-dsa-pangv` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BGB UWG DDG DSA PAngV. |
+| `livecheck-bgb-uwg-ddg-dsa-pangv` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BGB UWG DDG DSA PAngV. |
 | `logfiles-beweisfuehrung-checkout` | Logfiles Beweisführung Checkout: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspf... |
 | `marktplatzhaftung-haendler-plattform` | Marktplatzhaftung Händler Plattform: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informatio... |
 | `newsletter-double-opt-in-einwilligung` | Newsletter Double-Opt-In Einwilligung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informat... |
 | `odr-verbraucherstreitbeilegung-hinweis` | ODR Verbraucherstreitbeilegung Hinweis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informa... |
 | `online-marktplatz-haendlerverifikation` | Online-Marktplatz Händlerverifikation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informat... |
 | `oss-ioss-umsatzsteuer-e-commerce` | OSS/IOSS Umsatzsteuer E-Commerce: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationsp... |
-| `output-rechtstexte-risikoampel-tickets` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Rechtstexte Risikoampel Tickets. |
+| `output-rechtstexte-risikoampel-tickets` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Rechtstexte Risikoampel Tickets. |
 | `payment-psd2-sca-chargeback` | Payment PSD2 SCA Chargeback: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflich... |
 | `plattform-sperrung-haendlerrecht` | Plattform-Sperrung Händlerrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspf... |
 | `preisangaben-pangv-gesamtpreis-grundpreis` | Preisangaben PAngV Gesamtpreis Grundpreis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Info... |
@@ -141,7 +141,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `red-team-shop-vor-launch` | Red-Team Shop vor Launch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten... |
 | `retourenmanagement-wertersatz` | Retourenmanagement Wertersatz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspfli... |
 | `security-incident-shop-datenschutzmeldung` | Security Incident Shop Datenschutzmeldung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Info... |
-| `shop-check-checkout-widerruf-impressum` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Shop Check Checkout Widerruf Impressum. |
+| `shop-check-checkout-widerruf-impressum` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Shop Check Checkout Widerruf Impressum. |
 | `social-commerce-tiktok-instagram-shop` | Social Commerce TikTok Instagram Shop: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informat... |
 | `suchmaschinenwerbung-markenrecht` | Suchmaschinenwerbung Markenrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationsp... |
 | `textilkennzeichnung-lmiv-kosmetik-spielzeug` | Textilkennzeichnung LMIV Kosmetik Spielzeug: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB In... |

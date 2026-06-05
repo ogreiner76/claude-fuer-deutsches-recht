@@ -1,13 +1,13 @@
 ---
 name: retaxationsabwehr-nullretax
-description: "Nutze dies, wenn Retaxationsabwehr Nullretax Risiko, Rezeptsammelstelle Botendienst Versandhandel, Rezeptur Plausibilitaetspruefung Herstellungsanweisung im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Retaxationsabwehr Nullretax Risiko, Rezeptsammelstelle Botendienst Versandhandel, Rezeptur Plausibilitaetspruefung Herstellungsanweisung prüfen.; Erstelle eine Arbeitsfassung zu Retaxationsabwehr Nullretax Risiko, Rezeptsammelstelle Botendienst Versandhandel, Rezeptur Plausibilitaetspruefung Herstellungsanweisung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Retaxationsabwehr Nullretax Risiko, Rezeptsammelstelle Botendienst Versandhandel, Rezeptur Plausibilitaetspruefung Herstellungsanweisung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Retaxationsabwehr Nullretax Risiko, Rezeptsammelstelle Botendienst Versandhandel, Rezeptur Plausibilitaetspruefung Herstellungsanweisung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Retaxationsabwehr Nullretax Risiko, Rezeptsammelstelle Botendienst Versandhandel, Rezeptur Plausibilitaetspruefung Herstellungsanweisung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -66,15 +66,15 @@ Eingaben:
 - **BSG, staend. Rspr.:** Null-Retax bei reinen Formfehlern (rückläufige Praxis durch Reformbemühungen 2024–2026), Pharmazeutische Bedenken.
 - **§ 109 SGG:** Sozialgerichtsweg.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Eingang prüfen:** Datum, Frist Widerspruch (regelmässig vier Wochen, vom Anwender zu verifizieren).
 2. **Begründung der Krankenkasse einordnen:**
-   - Formaler Mangel (z. B. Datum, Unterschrift, Aut-idem-Kreuz-Übersehen)
-   - Substitutionsverstoss (Rabattvertrag)
-   - Mengenüberschreitung
-   - Doppelabgabe
-   - Pharmazeutische Bedenken nicht dokumentiert
+ - Formaler Mangel (z. B. Datum, Unterschrift, Aut-idem-Kreuz-Übersehen)
+ - Substitutionsverstoss (Rabattvertrag)
+ - Mengenüberschreitung
+ - Doppelabgabe
+ - Pharmazeutische Bedenken nicht dokumentiert
 3. **Original-Dokumentation zusammentragen:** Rezept-Token, Lieferschein, Plausibilitäts-Eintrag, Beratungsprotokoll, Charge.
 4. **Widerspruch verfassen:** Konkret auf den Vorhalt eingehen; Belege als Anlage; ggf. § 17 Abs. 5 ApBetrO und § 129 Abs. 1a SGB V (Pharmazeutische Bedenken).
 5. **Bei Substitution:** Substitutionsausschlussliste prüfen — war Wirkstoff nicht austauschbar?
@@ -198,7 +198,7 @@ Individualrezeptur: Apotheke stellt im Einzelfall auf ärztliche Verschreibung e
 
 ## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-- Individualrezeptur erstmals geplant, Schritt-für-Schritt-Workflow zu prüfen.
+- Individualrezeptur erstmals geplant, Schritt-für-Schritt-zu prüfen.
 - Schaden eingetreten — Patient meldet Nebenwirkung; Apotheke prüft Verantwortung.
 - Aufsicht beanstandet fehlende Plausibilitätsprüfung.
 - Schulung der pharmazeutischen Mitarbeiter zur Rezeptur.
@@ -221,15 +221,15 @@ Eingaben:
 - **NRF / DAC** als anerkannte Standards (vom Anwender zu verifizieren — Aktualität).
 - BGH, staend. Rspr. zur Apothekenhaftung bei Rezepturfehlern.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Plausibilitätsprüfung VOR Herstellung:**
-   - Wirkstoff vorhanden, geeignet, korrekt dosiert für Indikation?
-   - Konzentration plausibel für angegebene Indikation? (z. B. Cortison-Salben — Stärken)
-   - Galenik kompatibel mit Trägermedium?
-   - Kombinationen verträglich (Hilfsstoffe, pH, Hydroskopie)?
-   - Patientenfaktoren: Alter, Allergie, Schwangerschaft?
-   - Bei Bedenken: Rücksprache mit Arzt — Dokumentation.
+ - Wirkstoff vorhanden, geeignet, korrekt dosiert für Indikation?
+ - Konzentration plausibel für angegebene Indikation? (z. B. Cortison-Salben — Stärken)
+ - Galenik kompatibel mit Trägermedium?
+ - Kombinationen verträglich (Hilfsstoffe, pH, Hydroskopie)?
+ - Patientenfaktoren: Alter, Allergie, Schwangerschaft?
+ - Bei Bedenken: Rücksprache mit Arzt — Dokumentation.
 2. **Herstellungsanweisung:** Schriftlich, mit Wirkstoff, Hilfsstoffen, Gerätschaft, Reihenfolge, Endkontrolle.
 3. **Ausgangsstoffe prüfen:** Identitätsprüfung (eigene oder zertifiziert), Chargenprüfung, Verfall.
 4. **Herstellung:** Reinraum-Bedingungen, Personalhygiene, Geräte gereinigt.

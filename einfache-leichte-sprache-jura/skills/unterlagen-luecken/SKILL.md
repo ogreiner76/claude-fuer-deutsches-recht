@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Nutze dies, wenn Unterlagen und Lücken im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Unterlagen und Lücken
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Einfache Leichte Sprache Jura** ein Fall n
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-ls-bescheid-workflow-chronologie` — Allgemein Ls Bescheid Workflow Chronologie
+- `allgemein-ls-bescheid-workflow-chronologie` — Allgemein Ls Bescheid Chronologie
 - `einfache-elsj-bescheidmodus-elsj` — Einfache Elsj Bescheidmodus Elsj
 - `elsj-aufenthaltsrecht-mandant` — Elsj Aufenthaltsrecht Mandant
 - `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache` — Elsj Aufenthaltsrecht Mandant Betreuung Vormundschaft Einfache

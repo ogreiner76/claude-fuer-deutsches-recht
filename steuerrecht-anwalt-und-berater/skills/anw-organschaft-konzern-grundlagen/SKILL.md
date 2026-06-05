@@ -1,6 +1,6 @@
 ---
 name: anw-organschaft-konzern-grundlagen
-description: "Workflow-Skill zu anw organschaft konzern grundlagen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu anw organschaft konzern grundlagen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken
@@ -55,10 +55,10 @@ Anwaltliche Beratung bei Begründung, Pflege und Beendigung von Organschaftsverh
 2. **Organgesellschaft**: Inländische Kapitalgesellschaft (GmbH, AG, KGaA).
 3. **Finanzielle Eingliederung**: Organträger hat Stimmenmehrheit > 50 % (mittelbar oder unmittelbar) **ab Beginn** des Wirtschaftsjahres der Organgesellschaft.
 4. **Gewinnabführungsvertrag** nach §§ 291 ff. AktG (analog GmbHG):
-   - Vertragsdauer mindestens **5 Zeitjahre**
-   - Tatsächliche Durchführung
-   - Eintragung im Handelsregister
-   - Wirksamer Beschluss der Gesellschafterversammlungen beider Gesellschaften
+ - Vertragsdauer mindestens **5 Zeitjahre**
+ - Tatsächliche Durchführung
+ - Eintragung im Handelsregister
+ - Wirksamer Beschluss der Gesellschafterversammlungen beider Gesellschaften
 5. **Tatsächliche Verlustübernahme** durch Organträger (bei Verlustjahren).
 
 ### Wirkungen
@@ -112,7 +112,7 @@ Folgt grundsätzlich der KSt-Organschaft (Akzessorietät). Eigenständige Voraus
 - Gewinnabführungsvertrag (wie KSt)
 - **Gemeinde-Hebesatz** wird beim Organträger angesetzt (i.d.R. günstiger als verteilt).
 
-## Workflow Begründung
+## Begründung
 
 ### Phase 1 — Strukturplanung
 

@@ -1,13 +1,13 @@
 ---
 name: regr-dora-resilienz
-description: "Nutze dies, wenn Regr Dora Resilienz Spezial, Regr Finanzdienstleistungsregulierung Bauleiter, Regr Mica Kryptoassets Spezial im Plugin Regulatorisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Regr Dora Resilienz Spezial, Regr Finanzdienstleistungsregulierung Bauleiter, Regr Mica Kryptoassets Spezial prüfen.; Erstelle eine Arbeitsfassung zu Regr Dora Resilienz Spezial, Regr Finanzdienstleistungsregulierung Bauleiter, Regr Mica Kryptoassets Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Regr Dora Resilienz Spezial, Regr Finanzdienstleistungsregulierung Bauleiter, Regr Mica Kryptoassets Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Regr Dora Resilienz Spezial, Regr Finanzdienstleistungsregulierung Bauleiter, Regr Mica Kryptoassets Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Regr Dora Resilienz Spezial, Regr Finanzdienstleistungsregulierung Bauleiter, Regr Mica Kryptoassets Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -86,7 +86,7 @@ Dieser Skill gehoert zum Plugin `regulatorisches-recht`. Er ergaenzt die uebrige
 ## Aufgabe
 Bauleiter Finanzdienstleistungsregulierung: KWG, ZAG, KAGB, WpHG, BaFin-Mitteilungen.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?

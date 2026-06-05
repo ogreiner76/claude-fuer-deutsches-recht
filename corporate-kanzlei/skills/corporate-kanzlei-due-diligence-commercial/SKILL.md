@@ -156,13 +156,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Wesentlicher Vertrag mit CoC-Klausel identifiziert?
-  → Ja: Klausel loest Kuendigung aus?
-       → Ja: Wesentlich fuer Geschaeftsbetrieb?
-            → Ja: Consent vor Signing einholen → ggf. Closing Condition
-            → Nein: Disclosure Letter; SPA-Rep "kein wesentlicher Vertrag betroffen"
-       → Nein: Klausel loest nur Anpassungsrecht aus?
-            → Ja: Verhandlungsoption bewerten; Offenlegung im SPA
-  → Nein: Kein Handlungsbedarf; Dokumentation Datenraum
+ → Ja: Klausel loest Kuendigung aus?
+ → Ja: Wesentlich fuer Geschaeftsbetrieb?
+ → Ja: Consent vor Signing einholen → ggf. Closing Condition
+ → Nein: Disclosure Letter; SPA-Rep "kein wesentlicher Vertrag betroffen"
+ → Nein: Klausel loest nur Anpassungsrecht aus?
+ → Ja: Verhandlungsoption bewerten; Offenlegung im SPA
+ → Nein: Kein Handlungsbedarf; Dokumentation Datenraum
 ```
 
 ## Output-Template Contract Summary Sheet
@@ -176,13 +176,13 @@ Stand: [DATUM]
 
 | Nr. | Vertrag | Partei | Laufzeit | Vol. p.a. | CoC-Klausel | Kuendigungsrecht | Risikoklasse | SPA-Empfehlung |
 |-----|---------|--------|----------|-----------|-------------|-----------------|--------------|----------------|
-| 1   | [Name]  | [Partei] | [Bis]  | [EUR]     | [Ja/Nein]   | [§/Bedingung]   | [H/M/N]      | [Consent/Rep/Indemnity] |
+| 1 | [Name] | [Partei] | [Bis] | [EUR] | [Ja/Nein] | [§/Bedingung] | [H/M/N] | [Consent/Rep/Indemnity] |
 ```
 
 ```
 CRITICAL CONTRACT ANALYSIS — [VERTRAGSNAME]
 Parteien: [VERKAEUFER-GESELLSCHAFT] / [GEGENPARTEI]
-Datum: [DATUM]  Laufzeit: [BIS]  Jahresvolumen: [EUR]
+Datum: [DATUM] Laufzeit: [BIS] Jahresvolumen: [EUR]
 Governing Law: [Deutsches Recht / Englisch Recht]
 
 CHANGE OF CONTROL: [Ja — Klausel Abs. X; Schwelle: X% / Nein]

@@ -1,38 +1,38 @@
 ---
 name: anfaenger-amtsgericht-rechtsprechungschat
-description: "Nutze dies, wenn Anfaenger Workflow Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Anfaenger Workflow Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren prüfen.; Erstelle eine Arbeitsfassung zu Anfaenger Workflow Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anfaenger Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren, Skill: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Anfaenger Workflow Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren
+# Anfaenger Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anfaenger Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `anfaenger-workflow-amtsgericht` | Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache; routet zu Klage, Klageerwiderung, Beweis, PKH, Termin, Urteil und Rechtsmittel. |
+| `anfaenger-workflow-amtsgericht` | Geführter Anfänger-für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache; routet zu Klage, Klageerwiderung, Beweis, PKH, Termin, Urteil und Rechtsmittel. |
 | `rechtsprechungschat-amtsgericht` | Geführter Rechtsprechungschat für Selbstvertreter vor dem Amtsgericht. Hilft, passende BGH-, BVerfG-, LG- und AG-Rechtsprechung zu finden, sauber zu zitieren, auf den eigenen Sachverhalt zu übertragen und Scheinargumente zu vermeiden. |
 | `fristbeginn-zustellung-protokollieren` | Fristbeginn ab Zustellung. Wie Zustellung erfolgt gelber Umschlag Postzustellungsurkunde Empfangsbekenntnis Ersatzzustellung. Warum das genaue Datum so wichtig ist und wie Sie es dokumentieren. |
 
 ## Arbeitsweg
 
-Für **Anfaenger Workflow Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anfaenger Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-amtsgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `anfaenger-workflow-amtsgericht`
 
-**Fokus:** Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache; routet zu Klage, Klageerwiderung, Beweis, PKH, Termin, Urteil und Rechtsmittel.
+**Fokus:** Geführter Anfänger-für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache; routet zu Klage, Klageerwiderung, Beweis, PKH, Termin, Urteil und Rechtsmittel.
 
-# Anfänger-Workflow Amtsgericht
+# Anfänger-Amtsgericht
 
 ## Zweck
 
-Dieser Skill ist der sehr geführte Einstieg für Menschen, die noch nie vor Gericht waren. Er soll nicht einschüchtern, sondern ordnen: Was liegt vor? Was läuft gerade? Was muss heute passieren? Was kann später kommen? Welche Spezial-Skills aus diesem Plugin helfen als nächstes?
+Dieser Skill ist der sehr geführte Einstieg für Menschen, die noch nie vor Gericht waren. Er soll nicht einschüchtern, sondern ordnen: Was liegt vor? Was läuft gerade? Was muss heute passieren? Was kann später kommen? Welche Fachmodule aus diesem Plugin helfen als nächstes?
 
 Der Skill arbeitet in Sie-Form, mit kurzen Sätzen und ohne Juristenjargon. Fachbegriffe werden erst dann erklärt, wenn sie gebraucht werden.
 

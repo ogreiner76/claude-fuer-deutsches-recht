@@ -1,32 +1,32 @@
 ---
 name: testament-auslegung-pflichtteil-vaterschaft
-description: "Nutze dies, wenn Spezial Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft prüfen.; Erstelle eine Arbeitsfassung zu Spezial Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft
+# Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-testament-risikoampel-und-gegenargumente` | Testament: Risikoampel, Gegenargumente und Verteidigungslinien im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-testament-risikoampel-und-gegenargumente` | Testament: Risikoampel, Gegenargumente und Verteidigungslinien im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `testament-auslegung-und-andeutung` | Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.; Normanker: BGB §§ 133 und 2084 und 2065; FamFG Erbschein; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
 | `pflichtteil-vaterschaft-verjaehrung-und-auskunft` | Führt durch Pflichtteilsfälle mit später festgestellter Vaterschaft, § 1600d Abs. 5 BGB, § 2317 BGB, § 199 BGB und Auskunftsansprüchen nach § 2314 BGB. |
 
 ## Arbeitsweg
 
-Für **Spezial Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, Pflichtteil Vaterschaft Verjaehrung Und Auskunft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-testament-risikoampel-und-gegenargumente`
 
-**Fokus:** Testament: Risikoampel, Gegenargumente und Verteidigungslinien im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Testament: Risikoampel, Gegenargumente und Verteidigungslinien im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Testament: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -40,7 +40,7 @@ Für **Spezial Testament Risikoampel Und Gegenargumente, Testament Auslegung Und
 
 
 ## Spezialwissen: Testament: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Testament: Risikoampel, Gegenargumente und Verteidigungslinien / spezial testament risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Testament: Risikoampel, Gegenargumente und Verteidigungslinien / testament risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, EU, ErbVO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

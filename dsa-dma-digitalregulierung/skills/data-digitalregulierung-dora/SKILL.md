@@ -1,13 +1,13 @@
 ---
 name: data-digitalregulierung-dora
-description: "Nutze dies, wenn Spezial Data Dokumentenmatrix Und Lueckenliste, Spezial Digitalregulierung Erstpruefung Und Mandatsziel, Spezial Dora Risikoampel Und Gegenargumente im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Data Dokumentenmatrix Und Lueckenliste, Spezial Digitalregulierung Erstpruefung Und Mandatsziel, Spezial Dora Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Data Dokumentenmatrix Und Lueckenliste, Spezial Digitalregulierung Erstpruefung Und Mandatsziel, Spezial Dora Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Data Dokumentenmatrix Und Lueckenliste, Digitalregulierung Erstpruefung Und Mandatsziel, Dora Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Data Dokumentenmatrix Und Lueckenliste, Spezial Digitalregulierung Erstpruefung Und Mandatsziel, Spezial Dora Risikoampel Und Gegenargumente
+# Data Dokumentenmatrix Und Lueckenliste, Digitalregulierung Erstpruefung Und Mandatsziel, Dora Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Data Dokumentenmatrix Und Lueckenliste, Digitalregulierung Erstpruefung Und Mandatsziel, Dora Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Data Dokumentenmatrix Und Lueckenliste, Spezial Digitalregulierung Erstpruefung Und Mandatsziel, Spezial Dora Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Data Dokumentenmatrix Und Lueckenliste, Digitalregulierung Erstpruefung Und Mandatsziel, Dora Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Data Dokumentenmatrix Und Lueckenliste, Spezial Digitalregulierun
 # Data: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Data: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Data: Dokumentenmatrix, Lückenliste und Nachforderung / spezial data dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Data: Dokumentenmatrix, Lückenliste und Nachforderung / data dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -100,7 +100,7 @@ Frühe Anpassung der Cloud-Verträge erspart spätere Friktion (Wechselgebühren
 # Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel / spezial digitalregulierung erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel / digitalregulierung erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -152,7 +152,7 @@ DSA-Pflichten gestaffelt — Kleinst-/Kleinunternehmen profitieren von Erleichte
 # Dora: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Dora: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Dora: Risikoampel, Gegenargumente und Verteidigungslinien / spezial dora risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Dora: Risikoampel, Gegenargumente und Verteidigungslinien / dora risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -177,10 +177,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## DORA (VO (EU) 2022/2554) — Risikoampel
 - **Anwendungsbereich Art. 2 DORA:** Banken, Wertpapierfirmen, Zahlungsdienstleister, E-Geld-Institute, Krypto-Dienstleister, Versicherer, Pensionsfonds, ICT-Drittanbieter mit kritischer Bedeutung; Geltung **seit 17.01.2025**.
 - **Pflichten:**
-  - Kapitel II (Art. 5-16): IKT-Risikomanagement-Rahmen.
-  - Kapitel III (Art. 17-23): IKT-Vorfallmeldung.
-  - Kapitel IV (Art. 24-27): Resilienztests (TLPT — Threat-Led Penetration Testing).
-  - Kapitel V (Art. 28-44): IKT-Drittanbieter-Risikomanagement.
+ - Kapitel II (Art. 5-16): IKT-Risikomanagement-Rahmen.
+ - Kapitel III (Art. 17-23): IKT-Vorfallmeldung.
+ - Kapitel IV (Art. 24-27): Resilienztests (TLPT — Threat-Led Penetration Testing).
+ - Kapitel V (Art. 28-44): IKT-Drittanbieter-Risikomanagement.
 - **Aufsicht:** BaFin in DE; bei kritischen ICT-Drittanbietern ESA (European Supervisory Authorities) — Lead Overseer.
 
 ## Risikoampel

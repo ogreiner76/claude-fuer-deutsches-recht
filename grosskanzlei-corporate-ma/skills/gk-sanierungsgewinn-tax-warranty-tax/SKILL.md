@@ -44,7 +44,7 @@ Nicht dieser Skill ist primär, wenn die Sanierung bereits abgeschlossen ist und
 - **§§ 280, 311 Abs. 2 BGB** – Allgemeines Schuldrecht für Garantie- und Freistellungsansprüche.
 - **§§ 444, 461 BGB** – arglistige Verschweigung und vertragliche Beschaffenheitsangaben.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Risikolandkarte erstellen.** Welche steuerlichen Risikofelder sind in diesem Deal aktiv: Versagung Steuerbefreiung, Verbrauch Verlustvortrag, Versagung verbindliche Auskunft, § 8c KStG-Trigger, Mindestbesteuerung?
 2. **Locked Box vs. Closing Accounts.** Bei Sanierungs-Deals häufig Locked Box mit Effective Date vor Wirksamwerden der Sanierungsmaßnahme. Steuerliche Risiken aus der Sanierungsmaßnahme bleiben dann beim Verkäufer.
@@ -106,11 +106,11 @@ Auf Käuferseite gilt umgekehrt: Closing Condition ist die saubere Lösung, aber
 - Plugin `steuerrecht-anwalt-und-berater`: Detailberatung § 3a EStG und § 89 AO.
 - Plugin `insolvenzrecht`: SPA-Klauseln in Insolvenzplan-Transaktionen.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-spa-apa-entwurf`
-  - `grosskanzlei-corporate-ma-vertragsmarkup-key-issues`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
-  - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
+ - `grosskanzlei-corporate-ma-spa-apa-entwurf`
+ - `grosskanzlei-corporate-ma-vertragsmarkup-key-issues`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+ - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
 
 ## Quellen Stand 06/2026
 

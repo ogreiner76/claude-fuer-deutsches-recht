@@ -1,20 +1,20 @@
 ---
 name: klage-klinikakten-bescheide-klinikverbund
-description: "Nutze dies, wenn Klage Gegen Budgetbescheid Oder Schiedsstellenentscheidung, Klinikakten Und Bescheide Sortieren, Klinikverbund Fusion Kartell Vergabe Planungsrecht im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Klage Gegen Budgetbescheid Oder Schiedsstellenentscheidung, Klinikakten Und Bescheide Sortieren, Klinikverbund Fusion Kartell Vergabe Planungsrecht prüfen.; Erstelle eine Arbeitsfassung zu Klage Gegen Budgetbescheid Oder Schiedsstellenentscheidung, Klinikakten Und Bescheide Sortieren, Klinikverbund Fusion Kartell Vergabe Planungsrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klage Gegen Budgetbescheid Oder Schiedsstellenentscheidung, Klinikakten Und Bescheide Sortieren, Klinikverbund Fusion Kartell Vergabe Planungsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klage Gegen Budgetbescheid Oder Schiedsstellenentscheidung, Klinikakten Und Bescheide Sortieren, Klinikverbund Fusion Kartell Vergabe Planungsrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klage Gegen Budgetbescheid Oder Schiedsstellenentscheidung, Klinikakten Und Bescheide Sortieren, Klinikverbund Fusion Kartell Vergabe Planungsrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung` | Klage gegen Budgetbescheid (Land) oder Schiedsstellenentscheidung: Rechtsweg, Verwaltungs- vs. Sozialgericht, Klagearten, Frist, Begruendung, einstweiliger Rechtsschutz. |
-| `klinikakten-und-bescheide-sortieren` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren. |
+| `klinikakten-und-bescheide-sortieren` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren. |
 | `klinikverbund-fusion-kartell-vergabe-planungsrecht` | Klinikverbund Fusion Kartell Vergabe Planungsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
 
 ## Arbeitsweg
@@ -55,12 +55,12 @@ Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Soz
 - **SGG §§ 51, 54, 86b** Sozialgerichtsweg, einstweiliger Rechtsschutz.
 - **BSG-/BVerwG-Abgrenzung** zum Rechtsweg.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Streitgegenstand klassifizieren:** Verguetungsstreit ↔ Strukturstreit; SGB V ↔ KHG.
 2. **Rechtsweg bestimmen:**
-   - Schiedsstellenentscheidung nach KHG → Verwaltungsgericht (§ 18a Abs. 4 KHG).
-   - Verguetung im Einzelfall (Abrechnungsstreit) → Sozialgericht.
-   - Versorgungsauftrag § 109 SGB V → Sozialgericht.
+ - Schiedsstellenentscheidung nach KHG → Verwaltungsgericht (§ 18a Abs. 4 KHG).
+ - Verguetung im Einzelfall (Abrechnungsstreit) → Sozialgericht.
+ - Versorgungsauftrag § 109 SGB V → Sozialgericht.
 3. **Klageart pruefen:** Anfechtung, Feststellung, Leistung, Verpflichtung.
 4. **Frist sichern:** 1 Monat ab Zustellung (§ 70 VwGO/§ 87 SGG).
 5. **Eilbeduerftigkeit pruefen:** § 80 Abs. 5 VwGO / § 86b SGG.
@@ -115,7 +115,7 @@ Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Soz
 
 ## 2. `klinikakten-und-bescheide-sortieren`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Klinikakten und Bescheide sortieren.
 
 # Klinikakten und Bescheide sortieren
 

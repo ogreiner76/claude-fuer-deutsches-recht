@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Einfache Leichte Sprache Jura** ein Fall n
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-ls-bescheid-workflow-chronologie` — Allgemein Ls Bescheid Workflow Chronologie
+- `allgemein-ls-bescheid-workflow-chronologie` — Allgemein Ls Bescheid Chronologie
 - `einfache-elsj-bescheidmodus-elsj` — Einfache Elsj Bescheidmodus Elsj
 - `elsj-aufenthaltsrecht-mandant` — Elsj Aufenthaltsrecht Mandant
 - `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache` — Elsj Aufenthaltsrecht Mandant Betreuung Vormundschaft Einfache

@@ -1,13 +1,13 @@
 ---
 name: gewrechts-geschgehg-ki-faevvollzug-ev
-description: "Nutze dies, wenn Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Fachanwalt Gewrechts Ki Vo 50 Genai, Faevvollzug Neu 001 Ev Vollziehungscheck Dringlichkeit Titel Zus im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Fachanwalt Gewrechts Ki Vo 50 Genai, Faevvollzug Neu 001 Ev Vollziehungscheck Dringlichkeit Titel Zus prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Fachanwalt Gewrechts Ki Vo 50 Genai, Faevvollzug Neu 001 Ev Vollziehungscheck Dringlichkeit Titel Zus.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Fachanwalt Gewrechts Ki Vo 50 Genai, Faevvollzug Ev Vollziehungscheck Dringlichkeit Titel Zus: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Fachanwalt Gewrechts Ki Vo 50 Genai, Faevvollzug Neu 001 Ev Vollziehungscheck Dringlichkeit Titel Zus
+# Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Fachanwalt Gewrechts Ki Vo 50 Genai, Faevvollzug Ev Vollziehungscheck Dringlichkeit Titel Zus
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Fachanwalt Gewrechts Ki Vo 50 Genai, Faevvollzug Ev Vollziehungscheck Dringlichkeit Titel Zus** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Fachanwalt Gewrechts Ki Vo 50 Genai, Faevvollzug Neu 001 Ev Vollziehungscheck Dringlichkeit Titel Zus** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Fachanwalt Gewrechts Ki Vo 50 Genai, Faevvollzug Ev Vollziehungscheck Dringlichkeit Titel Zus** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -80,7 +80,7 @@ Für **Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Fachanwalt G
 
 ## Prüfschema Geheimhaltungsmaßnahmen (Drei-Ebenen-Modell)
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Ebene | Mindestanforderungen | Dokumentationspflicht |
@@ -148,15 +148,15 @@ An das Landgericht [Ort] – [zuständige Kammer] –
 In dem Verfahren [Az.] beantragen wir namens der Klägerin:
 
 1. Das Gericht ordnet gemäß § 16 GeschGehG an, dass folgende in der Klageschrift
-   und ihren Anlagen enthaltene Informationen als geheimhaltungsbedürftig einzustufen
-   sind: [Konkrete Bezeichnung der Geschäftsgeheimnisse, z. B. Kundenliste
-   Anlage K 3; Rezeptur Anlage K 5].
+ und ihren Anlagen enthaltene Informationen als geheimhaltungsbedürftig einzustufen
+ sind: [Konkrete Bezeichnung der Geschäftsgeheimnisse, z. B. Kundenliste
+ Anlage K 3; Rezeptur Anlage K 5].
 
 2. Zugang zu den als geheimhaltungsbedürftig eingestuften Informationen ist auf
-   folgenden Personenkreis zu beschränken:
-   a) die Prozessbevollmächtigten der Parteien,
-   b) je eine benannte Parteivertretung,
-   c) bestellte Sachverständige mit schriftlicher Vertraulichkeitspflicht.
+ folgenden Personenkreis zu beschränken:
+ a) die Prozessbevollmächtigten der Parteien,
+ b) je eine benannte Parteivertretung,
+ c) bestellte Sachverständige mit schriftlicher Vertraulichkeitspflicht.
 
 Begründung:
 Die bezeichneten Informationen erfüllen die Voraussetzungen des § 2 Nr. 1 GeschGehG
@@ -182,11 +182,11 @@ Verfügungsbeklagter: [Ehemaliger Mitarbeiter / Wettbewerber]
 Es wird beantragt:
 
 1. Der Verfügungsbeklagten wird es bei Meidung eines Ordnungsgeldes bis zu
-   EUR 250.000, ersatzweise Ordnungshaft, untersagt, die in Anlage AS 1
-   bezeichneten Informationen zu nutzen oder offenzulegen.
+ EUR 250.000, ersatzweise Ordnungshaft, untersagt, die in Anlage AS 1
+ bezeichneten Informationen zu nutzen oder offenzulegen.
 
 2. Der Verfügungsbeklagten wird aufgegeben, alle Kopien und Vervielfältigungen
-   der Informationen gemäß Anlage AS 1 unverzüglich herauszugeben.
+ der Informationen gemäß Anlage AS 1 unverzüglich herauszugeben.
 
 Dringlichkeit:
 Die Verfügungsklägerin erlangte am [Datum] durch [Umstand] Kenntnis vom
@@ -379,7 +379,7 @@ Bevor die Schutzstrategie entwickelt wird, klaere:
 
 ## Prüfschema Compliance Art. 50 KI-VO
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Maßnahme |
@@ -430,7 +430,7 @@ Sichtbare Kennzeichnung:
 ```
 KI-Anbietervertrag (SLA-Ergänzung):
 - Verpflichtung des Anbieters zur Bereitstellung maschinenlesbarer Markierung
-  gemäß Art. 50 Abs. 2 KI-VO
+ gemäß Art. 50 Abs. 2 KI-VO
 - Indemnification-Klausel bei UWG-Abmahnung durch fehlendes Wasserzeichen
 - DSGVO-Subprozessoren-Klausel Art. 28
 
@@ -628,7 +628,7 @@ Dieser Skill prüft den EV-Vollziehungscheck bei einstweiligen Verfügungen im g
 - Kein Zuwarten über die Kammergrenze hinaus (Hamburg: ca. 4 Wo; München: oft 3 Wo; Düsseldorf: teils strenger).
 - Bei grenzüberschreitendem Sachverhalt: Gerichtsstand prüfen (§ 14 UWG; Art. 7 Nr. 2 EuGVVO).
 
-## Kaltstart
+## Einstieg
 1. Wann wurde der Beschluss dem Antragsteller zugestellt? (Vollziehungsfristbeginn)
 2. Welche Vollziehungshandlung ist geplant oder bereits erfolgt?
 3. Liegt die Dringlichkeit noch vor oder droht Selbstwiderlegung?

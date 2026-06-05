@@ -1,13 +1,13 @@
 ---
 name: rookie-modus-sha-gesellschaftervereinbarung
-description: "Nutze dies, wenn Rookie Modus, Sha Gesellschaftervereinbarung im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Rookie Modus, Sha Gesellschaftervereinbarung prüfen.; Erstelle eine Arbeitsfassung zu Rookie Modus, Sha Gesellschaftervereinbarung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rookie Modus, Sha Gesellschaftervereinbarung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rookie Modus, Sha Gesellschaftervereinbarung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rookie Modus, Sha Gesellschaftervereinbarung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

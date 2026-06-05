@@ -1,12 +1,12 @@
 ---
 name: bekanntmachung-beweislast-darlegungslast
-description: "Nutze dies, wenn Bekanntmachung: Beweislast, Darlegungslast und Substantiierung im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Bekanntmachung: Beweislast, Darlegungslast und Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Bekanntmachung: Beweislast, Darlegungslast und Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bekanntmachung: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Bekanntmachung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Bekanntmachung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Bekanntmachung: Beweislast, Darlegungslast und Substantiierung / spezial bekanntmachung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bekanntmachung: Beweislast, Darlegungslast und Substantiierung / bekanntmachung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, OVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

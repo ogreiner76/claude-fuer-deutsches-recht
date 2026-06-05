@@ -1,12 +1,12 @@
 ---
 name: kaltstart-risikoampel-und-gegenargumente
-description: "Nutze dies, wenn Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Word Legal Ai Plugin And Skill For German Lawyers.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien / spezial kaltstart risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien / kaltstart risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, DE, EN, US, UK.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

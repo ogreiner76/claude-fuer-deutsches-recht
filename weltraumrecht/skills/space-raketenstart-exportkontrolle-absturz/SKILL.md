@@ -1,13 +1,13 @@
 ---
 name: space-raketenstart-exportkontrolle-absturz
-description: "Nutze dies, wenn Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen im Plugin Weltraumrecht konkret bearbeitet werden soll. Auslöser: Bitte Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen prüfen.; Erstelle eine Arbeitsfassung zu Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

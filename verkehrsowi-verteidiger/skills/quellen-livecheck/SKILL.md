@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Verkehrsowi Verteidiger** ein Fall noch so
 ## Fachlandkarte dieses Plugins
 
 - `alkohol-drogen-beweisverwertung-standardisiert-verkehrsowi` — Alkohol Drogen Beweisverwertung Standardisiert Verkehrsowi
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `amtsgericht-drogen-interessen-einspruch` — Amtsgericht Drogen Interessen Einspruch
 - `anhoerung-verkehrsowi-einspruch-messverfahren-geschwindigkeit` — Anhoerung Verkehrsowi Einspruch Messverfahren Geschwindigkeit
 - `fahrverbot-geschwindigkeit-handy` — Fahrverbot Geschwindigkeit Handy

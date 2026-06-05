@@ -1,13 +1,13 @@
 ---
 name: stvg-verkehr-fristennotiz-vkr-blitzer
-description: "Nutze dies, wenn Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stvg Fristen Form Und Zustaendigkeit, Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial
+# Stvg Fristen Form Und Zustaendigkeit, Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stvg Fristen Form Und Zustaendigkeit, Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stvg Fristen Form Und Zustaendigkeit, Verkehr Fristennotiz Und Naechster Schritt, Vkr Blitzer Messverfahren Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Stvg Fristen Form Und Zustaendigkeit, Spezial Verkehr Fristennoti
 # Stvg: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Stvg: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Stvg: Fristen, Form, Zuständigkeit und Rechtsweg / spezial stvg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Stvg: Fristen, Form, Zuständigkeit und Rechtsweg / stvg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verkehr: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Verkehr: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Verkehr: Fristennotiz und nächster Schritt / spezial verkehr fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verkehr: Fristennotiz und nächster Schritt / verkehr fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -108,35 +108,35 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Verkehrsrechts-Fristennotiz / naechster Schritt Bausteine
 - **Frist-Uebersicht pro Saeule:**
-  - **Verkehrszivilrecht:** Verjaehrung Schaden § 195 BGB 3 Jahre ab Kenntnis § 199 BGB; Verzug § 286 BGB; Zinsen § 288 BGB; KH-Versicherer Frist § 14 PflVG 4 Wochen bei klarer Haftung.
-  - **OWi:** Einspruch § 67 OWiG 2 Wochen; Verjaehrung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis Urteil 1. Instanz); Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat.
-  - **Verkehrsstrafrecht:** § 410 StPO Strafbefehl-Einspruch 2 Wochen; § 314 StPO Berufung 1 Woche; § 341 / § 345 StPO Revision 1 Woche / 1 Monat.
-  - **FeV:** Anhoerungsfrist regelmaessig 1-2 Wochen; MPU-Vorlage 2-3 Monate; Wiedererteilung § 20 FeV.
-  - **Versicherung:** § 30 VVG Anzeige unverzueglich; § 28 VVG Leistungsfreiheit; § 86 VVG Forderungsuebergang.
+ - **Verkehrszivilrecht:** Verjaehrung Schaden § 195 BGB 3 Jahre ab Kenntnis § 199 BGB; Verzug § 286 BGB; Zinsen § 288 BGB; KH-Versicherer Frist § 14 PflVG 4 Wochen bei klarer Haftung.
+ - **OWi:** Einspruch § 67 OWiG 2 Wochen; Verjaehrung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis Urteil 1. Instanz); Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat.
+ - **Verkehrsstrafrecht:** § 410 StPO Strafbefehl-Einspruch 2 Wochen; § 314 StPO Berufung 1 Woche; § 341 / § 345 StPO Revision 1 Woche / 1 Monat.
+ - **FeV:** Anhoerungsfrist regelmaessig 1-2 Wochen; MPU-Vorlage 2-3 Monate; Wiedererteilung § 20 FeV.
+ - **Versicherung:** § 30 VVG Anzeige unverzueglich; § 28 VVG Leistungsfreiheit; § 86 VVG Forderungsuebergang.
 - **Fristennotiz-Vorlage:**
-  ```
-  AZ: ...
-  Mandant: ...
-  Saeule: Zivil / OWi / Straf / FeV / Versicherung
-  Frist-Typ: ...
-  Frist-Beginn: [Datum]
-  Frist-Ende: [Datum] - [Zeit]
-  Norm: § ...
-  Vorlauf: 7 Tage / 3 Tage / 1 Tag
-  Pendenz: [Was muss bis dahin erledigt sein?]
-  Status: offen / in Bearbeitung / erledigt
-  ```
+ ```
+ AZ: ...
+ Mandant: ...
+ Saeule: Zivil / OWi / Straf / FeV / Versicherung
+ Frist-Typ: ...
+ Frist-Beginn: [Datum]
+ Frist-Ende: [Datum] - [Zeit]
+ Norm: § ...
+ Vorlauf: 7 Tage / 3 Tage / 1 Tag
+ Pendenz: [Was muss bis dahin erledigt sein?]
+ Status: offen / in Bearbeitung / erledigt
+ ```
 - **Naechster-Schritt-Matrix:**
-  - **Unfall mit Verletzten:** Sofort SV-Gutachten + Krankenakte + Krankenkasse-Anspruch § 116 SGB X; Versicherer in Anspruch nehmen.
-  - **Bussgeldbescheid:** Akteneinsicht § 49 OWiG sofort; Einspruchsentscheidung in 2 Wochen.
-  - **Vorlaeufige Entziehung Fahrerlaubnis § 111a StPO:** Beschwerde § 304 StPO sofort.
-  - **Anhoerung FeV-Behoerde:** Stellungnahme mit anwaltlicher Pruefung Befunde.
-  - **Schadenregulierung Versicherer:** Bei Streit oder Verzoegerung Klage zum AG / LG je Streitwert.
+ - **Unfall mit Verletzten:** Sofort SV-Gutachten + Krankenakte + Krankenkasse-Anspruch § 116 SGB X; Versicherer in Anspruch nehmen.
+ - **Bussgeldbescheid:** Akteneinsicht § 49 OWiG sofort; Einspruchsentscheidung in 2 Wochen.
+ - **Vorlaeufige Entziehung Fahrerlaubnis § 111a StPO:** Beschwerde § 304 StPO sofort.
+ - **Anhoerung FeV-Behoerde:** Stellungnahme mit anwaltlicher Pruefung Befunde.
+ - **Schadenregulierung Versicherer:** Bei Streit oder Verzoegerung Klage zum AG / LG je Streitwert.
 - **Live-Quellen:**
-  - gesetze-im-internet.de (Bundesnormen).
-  - BVerfG-Rechtsprechung (Akteneinsicht / fair trial).
-  - BGH-Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle; Zeitschriftenfundstellen nur bei Lizenz oder Nutzerquelle.
-  - openJUR (frei) - Sammlungen Urteile.
+ - gesetze-im-internet.de (Bundesnormen).
+ - BVerfG-Rechtsprechung (Akteneinsicht / fair trial).
+ - BGH-Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle; Zeitschriftenfundstellen nur bei Lizenz oder Nutzerquelle.
+ - openJUR (frei) - Sammlungen Urteile.
 - **Praxis-Tipp:** Bei mehreren Saeulen parallel: Mandantenuebersicht mit Frist-Matrix erstellen; Wiedervorlagesystem mit kanzleieigenem Fristenkalender.
 
 ## 3. `vkr-blitzer-messverfahren-spezial`

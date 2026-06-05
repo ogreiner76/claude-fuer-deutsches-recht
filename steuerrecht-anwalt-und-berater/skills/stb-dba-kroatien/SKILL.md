@@ -138,11 +138,11 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht Immobilie/Beteiligung, Quellensteuer, EU-MTRL ab 2013.
 3. **Kurzantwort**: DBA-Kroatien 2006 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Bei Immobilien Belegenheitsstaat (Art. 6, 13); bei Beteiligungen Dividenden Art. 10.
-   - Methodenartikel; EU-MTRL/EU-ZinsLizenzRL ab EU-Beitritt 01.07.2013.
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Bei Immobilien Belegenheitsstaat (Art. 6, 13); bei Beteiligungen Dividenden Art. 10.
+ - Methodenartikel; EU-MTRL/EU-ZinsLizenzRL ab EU-Beitritt 01.07.2013.
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: Kroatische Pauschalsteuer Vermietung, MLI ab 01.01.2025 (PPT-Klausel), Euro-Umstellung 01.01.2023.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

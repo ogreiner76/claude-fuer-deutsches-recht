@@ -1,20 +1,20 @@
 ---
 name: alkohol-drogen-beweisverwertung
-description: "Nutze dies, wenn Verkehrsowi Alkohol Drogen 24A, Verkehrsowi Beweisverwertung Standardisiert, Verkehrsowi Fahreridentifizierung im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Verkehrsowi Alkohol Drogen 24A, Verkehrsowi Beweisverwertung Standardisiert, Verkehrsowi Fahreridentifizierung prüfen.; Erstelle eine Arbeitsfassung zu Verkehrsowi Alkohol Drogen 24A, Verkehrsowi Beweisverwertung Standardisiert, Verkehrsowi Fahreridentifizierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verkehrsowi Alkohol Drogen 24a, Verkehrsowi Beweisverwertung Standardisiert, Verkehrsowi Fahreridentifizierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verkehrsowi Alkohol Drogen 24A, Verkehrsowi Beweisverwertung Standardisiert, Verkehrsowi Fahreridentifizierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verkehrsowi Alkohol Drogen 24A, Verkehrsowi Beweisverwertung Standardisiert, Verkehrsowi Fahreridentifizierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `verkehrsowi-alkohol-drogen-24a` | Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: § 24a Abs. 1 StVG (0.5-Promille-Grenze), § 24a Abs. 2 StVG (Wirkstoffnachweis THC/Kokain/Amphetamin), § 81a StPO (Blutprobe), § 316 StGB (Trunkenheit im Verkehr Abgrenzung). Prüfraster: Toleranzwerte, analytische Nachweisgrenze vs. Wirkung, Blutprobe-Anforderung ordnungsgemäß, Fahrerlaubnis-Konsequenzen § 69 StGB. Output Einspruchs-Strategie, Beweisverwertungs-Antrag. Abgrenzung: Strafrecht § 316 StGB siehe fachanwalt-strafrecht-Plugin; Fahrerlaubnisentzug VwR siehe fachanwalt-verwaltungsrecht-Plugin. |
-| `verkehrsowi-beweisverwertung-standardisiert` | Workflow-Skill zu verkehrsowi beweisverwertung standardisiert. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `verkehrsowi-beweisverwertung-standardisiert` | Arbeitsmodul zu verkehrsowi beweisverwertung standardisiert: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `verkehrsowi-fahreridentifizierung` | Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsrecht). Prüfraster: Lichtbildabgleich AG, Sachverständigen-Antrag Biometrie, kein Zwang zur Fahrernennung, Fahrtenbuchauflage-Risiko. Output Verteidigungsstrategie Fahreridentifikation, Sachverständigen-Antrag. Abgrenzung: Beweisauswertung Messbeamter siehe verkehrsowi-zeugen-polizei-strategie; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht. |
 
 ## Arbeitsweg
@@ -89,7 +89,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `verkehrsowi-beweisverwertung-standardisiert`
 
-**Fokus:** Workflow-Skill zu verkehrsowi beweisverwertung standardisiert. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu verkehrsowi beweisverwertung standardisiert: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Standardisiertes Messverfahren und Beweisverwertung
 
@@ -204,17 +204,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Messfoto vorhanden?
 ├─ Qualitaet hoch, Fahrer eindeutig erkennbar
-│   └─ Kein Angriffspunkt auf Identifikation; andere Strategie waehlen
+│ └─ Kein Angriffspunkt auf Identifikation; andere Strategie waehlen
 ├─ Qualitaet niedrig / Fahrer nicht eindeutig erkennbar
-│   ├─ Sachverstaendigenantrag (§ 77 OWiG): "Lichtbild-Identifikation nicht moeglich"
-│   └─ Bestreiten der Fahreridentitaet in der Hauptverhandlung
+│ ├─ Sachverstaendigenantrag (§ 77 OWiG): "Lichtbild-Identifikation nicht moeglich"
+│ └─ Bestreiten der Fahreridentitaet in der Hauptverhandlung
 └─ Kein Messfoto (stationaere Anlage defekt / Video)
-    └─ Fahreridentifikation durch andere Mittel pruefen (Zeugen, Protokoll)
+ └─ Fahreridentifikation durch andere Mittel pruefen (Zeugen, Protokoll)
 
 Betroffener will nicht aussagen?
 ├─ § 55 OWiG: Schweigen ausdruecklich empfehlen
 └─ Fahrtenbuchauflage-Risiko (§ 31a StVG) erklaeren
-    └─ Halter muss abwaegen: OWi mit Fahrverbot vs. Fahrtenbuch 1-2 Jahre
+ └─ Halter muss abwaegen: OWi mit Fahrverbot vs. Fahrtenbuch 1-2 Jahre
 ```
 
 ## Fotoqualitatspruefung — Checkliste

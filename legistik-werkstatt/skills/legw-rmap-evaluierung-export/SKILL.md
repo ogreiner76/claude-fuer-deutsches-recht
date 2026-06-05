@@ -1,13 +1,13 @@
 ---
 name: legw-rmap-evaluierung-export
-description: "Nutze dies, wenn Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap, Legw Rmap Tatbestand Und Rechtsfolge und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap, Legw Rmap Tatbestand Und Rechtsfolge und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap, Legw Rmap Tatbestand Und Rechtsfolge und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap, Legw Rmap Tatbestand Und Rechtsfolge und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap, Legw Rmap Tatbestand Und Rechtsfolge und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `legw-rmap-evaluierung-und-aenderung` | Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zustaendigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfaden. Abgrenzung zur reinen Gesetzgebungstechnik; hier wird die Pflege im Zeitverlauf organisiert. |
 | `legw-rmap-export-und-systemintegration` | Export der Rulemap aus dem Builder; Integration in Fachverfahren; Schnittstellen zur eAkte; OZG-Service; Registerlandschaft. Output Integrations-blueprint mit Datenflussskizze und Pruefpunkten. Anschluss legw-rmap-anschluss-an-legw fuer die Rueckbindung an die uebrige Legistik-Werkstatt. Abgrenzung zur IT-Architektur im engeren Sinn; hier liegt der Schwerpunkt auf den juristischen Folgepflichten der Integration. |
 | `legw-rmap-grundlagen` | Grundlagen der Rulemapping-Methode: Law as Code; Rulemap als visuelles Entscheidungsmodell; Wenn-Dann-Logik mit Tatbestand; Rechtsfolge; Ausnahme; Verweisung. Akteure (Rulemapping-Group; Prof. Breidenbach; SPRIN-D-Foerderung; BMJ als Anwender). Ziel: Norm parallel als Text und als Rulemap entwerfen; Bruecke zwischen Gesetz und Verwaltungsvollzug. Output: Grundbegriffsglossar und Methoden-Steckbrief. Anschluss legw-rmap-norm-zu-rulemap fuer das konkrete Vorgehen. Abgrenzung zur klassischen Begruendung und Folgenabschaetzung. |
-| `legw-rmap-norm-zu-rulemap` | Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (Workflow durchspielen); Verify (Entscheidungen pruefen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Pruefpunkten je Schritt. Anschluss legw-rmap-tatbestand-und-rechtsfolge fuer die feine Knotenmodellierung. Abgrenzung zur Textentwurfsarbeit; die Rulemap ist die parallel gepflegte Logikfassung. |
+| `legw-rmap-norm-zu-rulemap` | Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (durchspielen); Verify (Entscheidungen pruefen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Pruefpunkten je Schritt. Anschluss legw-rmap-tatbestand-und-rechtsfolge fuer die feine Knotenmodellierung. Abgrenzung zur Textentwurfsarbeit; die Rulemap ist die parallel gepflegte Logikfassung. |
 | `legw-rmap-tatbestand-und-rechtsfolge` | Knotenmodellierung in der Rulemap: jeden Tatbestand als pruefbare Bedingung; jede Rechtsfolge als Aktionsknoten. Konjunktion; Disjunktion; Negation; Schwellenwerte sauber abbilden. Output Tatbestands-Rechtsfolge-Liste mit Knoten-IDs; Datentypen und Pruefnotizen. Anschluss legw-rmap-verweisungen-und-ausnahmen fuer Sonderkonstellationen und legw-rmap-entscheidungsbaum-validierung fuer die Pruefung der Pfade. |
 | `legw-rmap-verweisungen-und-ausnahmen` | Verweisungen (statisch; dynamisch; Rueckverweisung) und Ausnahmen in der Rulemap sauber modellieren. Verkettung von Normen ueber Subrulemaps; Verweisungsketten dokumentieren; Ausnahmen als eigenstaendige Pfade. Output Verweisungs- und Ausnahmenkarte mit IDs und Pfadtiefen. Anschluss legw-rmap-entscheidungsbaum-validierung fuer die Pfadpruefung. Abgrenzung zur reinen Texterfassung; Verweisungen werden ausgerollt. |
 | `legw-rmap-vollzugstauglichkeit` | Bruecke von der Rulemap in den Verwaltungsvollzug: Antragsverfahren; Bescheidstruktur; Akteneinsicht; Widerspruch und Klage; Schnittstelle zu Fachverfahren (z.B. Genehmigungsverfahren mit mehreren Fachbehoerden). Output Vollzugskarte mit Akteuren; Schnittstellen; IT-Anforderungen. Anschluss legw-rmap-export-und-systemintegration. Abgrenzung zur reinen Gesetzgebungsarbeit; hier wird die Vollzugsperspektive zur Norm zurueckgespielt. |
@@ -62,10 +62,10 @@ Pruefen: ist jede Aenderung rueckverfolgbar? Bleibt der parlamentarische Vorbeha
 ## Output
 
 ```
-Skill:              legw-rmap-evaluierung-und-aenderung
-Thema:              Evaluierung und Aenderung von Rulemap-Normen
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-evaluierung-und-aenderung
+Thema: Evaluierung und Aenderung von Rulemap-Normen
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung
@@ -109,10 +109,10 @@ Pruefen: Zustaendigkeitsverteilung Norm und IT; Folgepflichten aus DSGVO; Anschl
 ## Output
 
 ```
-Skill:              legw-rmap-export-und-systemintegration
-Thema:              Export und Integration in Vollzugs-IT
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-export-und-systemintegration
+Thema: Export und Integration in Vollzugs-IT
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung
@@ -156,10 +156,10 @@ Pruefen: passt die Methode zum Vorhaben? Komplexitaet hoch genug fuer Rulemap? A
 ## Output
 
 ```
-Skill:              legw-rmap-grundlagen
-Thema:              Rulemapping - Grundlagen und Begriffe
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-grundlagen
+Thema: Rulemapping - Grundlagen und Begriffe
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung
@@ -172,7 +172,7 @@ Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Steph
 
 ## 4. `legw-rmap-norm-zu-rulemap`
 
-**Fokus:** Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (Workflow durchspielen); Verify (Entscheidungen pruefen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Pruefpunkten je Schritt. Anschluss legw-rmap-tatbestand-und-rechtsfolge fuer die feine Knotenmodellierung. Abgrenzung zur Textentwurfsarbeit; die Rulemap ist die parallel gepflegte Logikfassung.
+**Fokus:** Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (durchspielen); Verify (Entscheidungen pruefen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Pruefpunkten je Schritt. Anschluss legw-rmap-tatbestand-und-rechtsfolge fuer die feine Knotenmodellierung. Abgrenzung zur Textentwurfsarbeit; die Rulemap ist die parallel gepflegte Logikfassung.
 
 # Von der Norm zur Rulemap - Vorgehensmodell
 
@@ -204,10 +204,10 @@ Pruefen: ist jede Entscheidungspfad-Variante abgedeckt? Sind Ausnahmen explizit 
 ## Output
 
 ```
-Skill:              legw-rmap-norm-zu-rulemap
-Thema:              Von der Norm zur Rulemap - Vorgehensmodell
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-norm-zu-rulemap
+Thema: Von der Norm zur Rulemap - Vorgehensmodell
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung
@@ -250,10 +250,10 @@ Pruefen: ist jede Voraussetzung als eigener Knoten modelliert? Sind unbestimmte 
 ## Output
 
 ```
-Skill:              legw-rmap-tatbestand-und-rechtsfolge
-Thema:              Tatbestand und Rechtsfolge als Knoten modellieren
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-tatbestand-und-rechtsfolge
+Thema: Tatbestand und Rechtsfolge als Knoten modellieren
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung
@@ -296,10 +296,10 @@ Pruefen: gibt es zirkulaere Verweisungen? Welche EU-Vorgaben sind zu verlinken? 
 ## Output
 
 ```
-Skill:              legw-rmap-verweisungen-und-ausnahmen
-Thema:              Verweisungen und Ausnahmen in der Rulemap
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-verweisungen-und-ausnahmen
+Thema: Verweisungen und Ausnahmen in der Rulemap
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung
@@ -342,10 +342,10 @@ Pruefen: wo bleibt die Letztverantwortung beim Menschen (Art. 22 DSGVO)? Sind al
 ## Output
 
 ```
-Skill:              legw-rmap-vollzugstauglichkeit
-Thema:              Vollzugstauglichkeit der Rulemap im Verwaltungsverfahren
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-vollzugstauglichkeit
+Thema: Vollzugstauglichkeit der Rulemap im Verwaltungsverfahren
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

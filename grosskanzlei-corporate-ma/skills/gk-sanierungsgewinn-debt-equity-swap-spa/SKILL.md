@@ -46,7 +46,7 @@ Nicht dieser Skill ist primär, wenn der DES nur theoretisch erwogen wird, aber 
 - **§ 7 Abs. 4 StaRUG** – DES im Restrukturierungsplan.
 - **§ 8c KStG / § 8d KStG** – Anteilseignerwechsel durch DES.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Forderungs-Inventur.** Welche Forderungen sollen eingebracht werden? Nennwert, Werthaltigkeit, Sicherheiten, Rangverhältnis.
 2. **Werthaltigkeitsprüfung.** Gutachterliche Bewertung der Forderung. Der werthaltige Teil ist die Sacheinlage; der nicht werthaltige Teil ist Sanierungsertrag.
@@ -105,11 +105,11 @@ Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikels
 - Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung DES.
 - Plugin `insolvenzrecht`: DES im Insolvenzplan; § 225a InsO.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
-  - `grosskanzlei-corporate-ma-distressed-ma`
-  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+ - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
+ - `grosskanzlei-corporate-ma-distressed-ma`
+ - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
 
 ## Quellen Stand 06/2026
 

@@ -8,7 +8,7 @@ description: "Prüft Satzung, Identifikation, geheime elektronische Wahl, Beschl
 ## Aufgabe
 Prüft Satzung, Identifikation, geheime elektronische Wahl, Beschlussfähigkeit, Datenschutz und technische Risiken.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

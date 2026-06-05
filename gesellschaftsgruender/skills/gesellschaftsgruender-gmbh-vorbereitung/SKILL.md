@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-gmbh-vorbereitung
-description: "Nutze dies, wenn Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Gmbh Vorbereitung, Gesellschaftsgruender Golden Share Und Vetorechte, Gesellschaftsgruender Gruenderrollen Konfliktcheck, Gesellschaftsgruender Gv Einladung Tagesordnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Gmbh Vorbereitung, Gesellschaftsgründer Golden Share Und Vetorechte, Gesellschaftsgründer Gruenderrollen Konfliktcheck, Gesellschaftsgründer Gv Einladung Tagesordnung, Gesellschaftsgründer Gv Protokoll Und Versammlungsleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -125,8 +125,8 @@ NACH DER BEURKUNDUNG — nächste Schritte
 GESELLSCHAFTERSTRUKTUR
 | Gesellschafter | Quote | Anteil-EUR | Einzahlung | Bareinlage/Sacheinlage |
 |---------------|-------|-----------|-----------|----------------------|
-| [Name 1]      | [%]   | [EUR]     | [Datum]   | Bar                  |
-| [Name 2]      | [%]   | [EUR]     | [Datum]   | Bar                  |
+| [Name 1] | [%] | [EUR] | [Datum] | Bar |
+| [Name 2] | [%] | [EUR] | [Datum] | Bar |
 
 GESCHÄFTSFÜHRER
 Name: [GF-Name]
@@ -250,9 +250,9 @@ ausdruecklichen Zustimmung:
 a) Aenderung der Satzung;
 b) Wesentliche Aenderung des Unternehmensgegenstands;
 c) Veraeusserung von mehr als 20 % des
-   Bilanzvermoegens;
+ Bilanzvermoegens;
 d) Stellung eines Antrags auf Restrukturierungs-
-   verfahren nach § 31 StaRUG;
+ verfahren nach § 31 StaRUG;
 e) Aufloesung der Gesellschaft;
 f) Aufnahme neuer Gesellschafter mit Sonderrechten.
 
@@ -444,21 +444,21 @@ Ort: [ADRESSE / VIDEO-LINK falls Satzung erlaubt]
 TAGESORDNUNG:
 
 TOP 1: Eroefffnung, Feststellung der Beschlussfaehigkeit
-       und Wahl des Versammlungsleiters
+ und Wahl des Versammlungsleiters
 
 TOP 2: Feststellung des Jahresabschlusses zum
-       [DATUM JAHRESENDE]
-       Beschlussvorlage: "Der Jahresabschluss wird
-       festgestellt."
+ [DATUM JAHRESENDE]
+ Beschlussvorlage: "Der Jahresabschluss wird
+ festgestellt."
 
 TOP 3: Beschluss ueber Gewinnverwendung
-       Beschlussvorlage: "Der Jahresueberschuss von
-       [BETRAG] EUR wird [thesauriert / ausgeschuettet]."
+ Beschlussvorlage: "Der Jahresueberschuss von
+ [BETRAG] EUR wird [thesauriert / ausgeschuettet]."
 
 TOP 4: Entlastung der Geschaeftsfuehrung fuer das
-       Geschaeftsjahr [JAHR]
-       Beschlussvorlage: "Den Geschaeftsfuehrern wird
-       Entlastung erteilt."
+ Geschaeftsjahr [JAHR]
+ Beschlussvorlage: "Den Geschaeftsfuehrern wird
+ Entlastung erteilt."
 
 TOP 5: Sonstiges
 
@@ -499,7 +499,7 @@ TAGESORDNUNG:
 
 TOP 1: Feststellung Beschlussfaehigkeit; Versammlungsleiter
 TOP 2: [KONKRETER BESCHLUSSPUNKT]
-       Beschlussvorlage: "[GENAUE FORMULIERUNG]"
+ Beschlussvorlage: "[GENAUE FORMULIERUNG]"
 TOP 3: Sonstiges
 
 Anlage: [RELEVANTE DOKUMENTE]
@@ -622,8 +622,8 @@ Beschlussvorlage (im Wortlaut):
 Diskussion: [KURZE ZUSAMMENFASSUNG]
 
 Abstimmung:
-  [NAME 1] ([N] Stimmen): Ja / Nein / Enthaltung
-  [NAME 2] ([N] Stimmen): Ja / Nein / Enthaltung
+ [NAME 1] ([N] Stimmen): Ja / Nein / Enthaltung
+ [NAME 2] ([N] Stimmen): Ja / Nein / Enthaltung
 
 Ergebnis: [N] Ja-Stimmen / [N] Nein-Stimmen / [N] Enthaltungen
 Beschluss: [ANGENOMMEN / ABGELEHNT]
@@ -631,8 +631,8 @@ Erforderliche Mehrheit: [EINFACH / 75% etc.] — [ERREICHT / NICHT ERREICHT]
 
 Schluss der Versammlung: [UHRZEIT]
 
-Versammlungsleiter: ___________  [NAME]
-Schriftfuehrer:     ___________  [NAME]
+Versammlungsleiter: ___________ [NAME]
+Schriftfuehrer: ___________ [NAME]
 ```
 
 ## Rote Schwellen

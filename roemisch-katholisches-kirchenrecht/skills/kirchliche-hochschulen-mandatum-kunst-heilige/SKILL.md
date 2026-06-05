@@ -1,22 +1,22 @@
 ---
 name: kirchliche-hochschulen-mandatum-kunst-heilige
-description: "Nutze dies, wenn Kirchliche Hochschulen Und Mandatum, Kirchliche Kunst Und Heilige Orte, Kirchliche Schulen Und Religionsunterricht, Kirchliche Vereine Und Verbande im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Kirchliche Hochschulen Und Mandatum, Kirchliche Kunst Und Heilige Orte, Kirchliche Schulen Und Religionsunterricht, Kirchliche Vereine Und Verbande prüfen.; Erstelle eine Arbeitsfassung zu Kirchliche Hochschulen Und Mandatum, Kirchliche Kunst Und Heilige Orte, Kirchliche Schulen Und Religionsunterricht, Kirchliche Vereine Und Verbande.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kirchliche Hochschulen Und Mandatum, Kirchliche Kunst Und Heilige Orte, Kirchliche Schulen Und Religionsunterricht, Kirchliche Vereine Und Verbande: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kirchliche Hochschulen Und Mandatum, Kirchliche Kunst Und Heilige Orte, Kirchliche Schulen Und Religionsunterricht, Kirchliche Vereine Und Verbande
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kirchliche Hochschulen Und Mandatum, Kirchliche Kunst Und Heilige Orte, Kirchliche Schulen Und Religionsunterricht, Kirchliche Vereine Und Verbande** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `kirchliche-hochschulen-und-mandatum` | Kirchliche Hochschulen und Mandatum: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kirchliche-kunst-und-heilige-orte` | Kirchliche Kunst und heilige Orte: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kirchliche-schulen-und-religionsunterricht` | Kirchliche Schulen und Religionsunterricht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kirchliche-vereine-und-verbande` | Kirchliche Vereine und Verbände: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchliche-hochschulen-und-mandatum` | Kirchliche Hochschulen und Mandatum: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchliche-kunst-und-heilige-orte` | Kirchliche Kunst und heilige Orte: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchliche-schulen-und-religionsunterricht` | Kirchliche Schulen und Religionsunterricht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchliche-vereine-und-verbande` | Kirchliche Vereine und Verbände: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Kirchliche Hochschulen Und Mandatum, Kirchliche Kunst Und Heilige Orte, K
 
 ## 1. `kirchliche-hochschulen-und-mandatum`
 
-**Fokus:** Kirchliche Hochschulen und Mandatum: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliche Hochschulen und Mandatum: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliche Hochschulen und Mandatum
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `kirchliche-kunst-und-heilige-orte`
 
-**Fokus:** Kirchliche Kunst und heilige Orte: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliche Kunst und heilige Orte: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliche Kunst und heilige Orte
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `kirchliche-schulen-und-religionsunterricht`
 
-**Fokus:** Kirchliche Schulen und Religionsunterricht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliche Schulen und Religionsunterricht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliche Schulen und Religionsunterricht
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `kirchliche-vereine-und-verbande`
 
-**Fokus:** Kirchliche Vereine und Verbände: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliche Vereine und Verbände: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliche Vereine und Verbände
 
@@ -279,7 +279,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

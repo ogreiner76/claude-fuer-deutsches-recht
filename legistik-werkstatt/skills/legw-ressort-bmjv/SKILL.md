@@ -44,13 +44,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -66,13 +66,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -107,16 +107,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMJV - Bundesministerium der Justiz und fuer Verbraucherschutz
-Hausleitung:        Stefanie Hubig (SPD)
-Materie:            Pflege von BGB und StGB; Prozessrecht; Verbraucherschutz; Rechtsstaatlichkeit.
-Kernnormen:         BGB; HGB; StGB; StPO; ZPO; GVG; UWG; UKlaG; BDSG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmjv
+Ressort: BMJV - Bundesministerium der Justiz und fuer Verbraucherschutz
+Hausleitung: Stefanie Hubig (SPD)
+Materie: Pflege von BGB und StGB; Prozessrecht; Verbraucherschutz; Rechtsstaatlichkeit.
+Kernnormen: BGB; HGB; StGB; StPO; ZPO; GVG; UWG; UKlaG; BDSG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmjv
 ```
 
 ## Abgrenzung

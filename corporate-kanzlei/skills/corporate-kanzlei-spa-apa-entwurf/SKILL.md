@@ -90,12 +90,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Gegenstand: GmbH-Anteile?
-  → Ja: Notarielle Beurkundung zwingend (§ 15 III GmbHG)
-       → Vorkaufsrecht der Mitgesellschafter? → ja: Angebotsverfahren beachten
-  → Nein: AG-Aktien?
-       → vinkulierte Namensaktien: Zustimmungsvorbehalt pruefen (§ 68 II AktG)
-       → Inhaberaktien: kein Notar noetig; Depot-Uebertragung
-  → Asset Deal: kein Notar fuer Vertragstext, aber Grundstuecke -> notarielle Auflassung (§ 925 BGB)
+ → Ja: Notarielle Beurkundung zwingend (§ 15 III GmbHG)
+ → Vorkaufsrecht der Mitgesellschafter? → ja: Angebotsverfahren beachten
+ → Nein: AG-Aktien?
+ → vinkulierte Namensaktien: Zustimmungsvorbehalt pruefen (§ 68 II AktG)
+ → Inhaberaktien: kein Notar noetig; Depot-Uebertragung
+ → Asset Deal: kein Notar fuer Vertragstext, aber Grundstuecke -> notarielle Auflassung (§ 925 BGB)
 ```
 
 ## Output-Template Key Issues Memo
@@ -110,31 +110,31 @@ Version: [Nr.]
 Erstellt von: [NAME, FUNKTION]
 
 1. OFFENE BUSINESS-ENTSCHEIDUNGEN
-   | Nr. | Thema | Option A | Option B | Empfehlung |
-   |----|-------|----------|----------|-----------|
-   | 1  | Kaufpreismechanik | Locked Box | Closing Accounts | [Empfehlung] |
-   | 2  | W&I-Versicherung | Ja (Kaeufer-Policy) | Nein | [Empfehlung] |
+ | Nr. | Thema | Option A | Option B | Empfehlung |
+ |----|-------|----------|----------|-----------|
+ | 1 | Kaufpreismechanik | Locked Box | Closing Accounts | [Empfehlung] |
+ | 2 | W&I-Versicherung | Ja (Kaeufer-Policy) | Nein | [Empfehlung] |
 
 2. DD-FINDING-MATRIX
-   | Finding | Vertragsmechanismus | Owner | Status |
-   |---------|---------------------|-------|--------|
-   | [Finding 1] | Spezifische Indemnity | [Partei] | Offen/Geschlossen |
+ | Finding | Vertragsmechanismus | Owner | Status |
+ |---------|---------------------|-------|--------|
+ | [Finding 1] | Spezifische Indemnity | [Partei] | Offen/Geschlossen |
 
 3. HAFTUNGSREGIME
-   - De-Minimis: [Betrag EUR]
-   - Basket (Tipping/Deductible): [Betrag EUR]
-   - Cap: [% des Kaufpreises]
-   - Verjährung: [allg. 18-24 Monate; Tax 5-7 Jahre; Titel unbegrenzt]
+ - De-Minimis: [Betrag EUR]
+ - Basket (Tipping/Deductible): [Betrag EUR]
+ - Cap: [% des Kaufpreises]
+ - Verjährung: [allg. 18-24 Monate; Tax 5-7 Jahre; Titel unbegrenzt]
 
 4. CLOSING CONDITIONS
-   - Kartellrecht: [Anmeldung bei / Freigabe bis]
-   - Aussenhandel/FDI: [AWG/ATSG/SektSchV-Pruefung]
-   - Dritte Zustimmungen: [Change-of-Control-Klauseln]
+ - Kartellrecht: [Anmeldung bei / Freigabe bis]
+ - Aussenhandel/FDI: [AWG/ATSG/SektSchV-Pruefung]
+ - Dritte Zustimmungen: [Change-of-Control-Klauseln]
 
 5. NAECHSTE SCHRITTE
-   | Schritt | Owner | Frist |
-   |---------|-------|-------|
-   | [Massnahme 1] | [Name] | [Datum] |
+ | Schritt | Owner | Frist |
+ |---------|-------|-------|
+ | [Massnahme 1] | [Name] | [Datum] |
 ```
 
 ## Output-Template SPA-Struktur (Outline)
@@ -146,26 +146,26 @@ Datum: [DATUM]
 
 1. Definitionen und Auslegung
 2. Kauf und Verkauf der Anteile
-   2.1 Kaufgegenstand
-   2.2 Kaufpreis und Kaufpreismechanik (Locked Box / Closing Accounts)
-   2.3 Kaufpreisanpassung
+ 2.1 Kaufgegenstand
+ 2.2 Kaufpreis und Kaufpreismechanik (Locked Box / Closing Accounts)
+ 2.3 Kaufpreisanpassung
 3. Vollzugsbedingungen (Closing Conditions / Conditions Precedent)
-   3.1 Kartellfreigabe [§§ 35 ff. GWB / EU-Fusionskontrolle]
-   3.2 [Weitere CPs]
+ 3.1 Kartellfreigabe [§§ 35 ff. GWB / EU-Fusionskontrolle]
+ 3.2 [Weitere CPs]
 4. Vollzug (Closing)
-   4.1 Closing-Datum
-   4.2 Vollzugshandlungen (Deliverables)
+ 4.1 Closing-Datum
+ 4.2 Vollzugshandlungen (Deliverables)
 5. Representations and Warranties des Verkaefers
-   5.1 Corporate/Title
-   5.2 Financial Statements
-   5.3 [...]
+ 5.1 Corporate/Title
+ 5.2 Financial Statements
+ 5.3 [...]
 6. Representations and Warranties des Kaeufers
 7. Covenants pre-Closing (Interim Operating Covenants)
 8. Covenants post-Closing
 9. Haftung und Rechtsfolgen von Warranty-Verletzungen
-   9.1 Haftungslimite (De-Minimis, Basket, Cap)
-   9.2 Verjährung
-   9.3 Anti-Sandbagging
+ 9.1 Haftungslimite (De-Minimis, Basket, Cap)
+ 9.2 Verjährung
+ 9.3 Anti-Sandbagging
 10. Specific Indemnities (Freistellungen)
 11. MAC-Klausel / Material Adverse Change
 12. Ruecktrittsrechte

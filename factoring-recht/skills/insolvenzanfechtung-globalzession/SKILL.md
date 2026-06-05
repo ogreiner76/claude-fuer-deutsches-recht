@@ -1,13 +1,13 @@
 ---
 name: insolvenzanfechtung-globalzession
-description: "Nutze dies, wenn Insolvenzanfechtung Globalzession Deckung Bargeschaeft, Konzentrationsrisiken Debitorenlimit Und Portfolio Covenants, Kwg Erlaubnispflicht Factoring 1 Abs 1A Satz 2 Nr 9 Kwg im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Insolvenzanfechtung Globalzession Deckung Bargeschaeft, Konzentrationsrisiken Debitorenlimit Und Portfolio Covenants, Kwg Erlaubnispflicht Factoring 1 Abs 1A Satz 2 Nr 9 Kwg prüfen.; Erstelle eine Arbeitsfassung zu Insolvenzanfechtung Globalzession Deckung Bargeschaeft, Konzentrationsrisiken Debitorenlimit Und Portfolio Covenants, Kwg Erlaubnispflicht Factoring 1 Abs 1A Satz 2 Nr 9 Kwg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Insolvenzanfechtung Globalzession Deckung Bargeschaeft, Konzentrationsrisiken Debitorenlimit Und Portfolio Covenants, Kwg Erlaubnispflicht Factoring 1 Abs 1a Satz 2 Nr 9 Kwg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Insolvenzanfechtung Globalzession Deckung Bargeschaeft, Konzentrationsrisiken Debitorenlimit Und Portfolio Covenants, Kwg Erlaubnispflicht Factoring 1 Abs 1A Satz 2 Nr 9 Kwg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Insolvenzanfechtung Globalzession Deckung Bargeschaeft, Konzentrationsrisiken Debitorenlimit Und Portfolio Covenants, Kwg Erlaubnispflicht Factoring 1 Abs 1A Satz 2 Nr 9 Kwg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

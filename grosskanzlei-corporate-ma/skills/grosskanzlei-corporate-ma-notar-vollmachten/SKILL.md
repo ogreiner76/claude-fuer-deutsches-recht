@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-notar-vollmachten
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas, Grosskanzlei Corporate Ma Pension Bav Liabilities und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas, Grosskanzlei Corporate Ma Pension Bav Liabilities und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas, Grosskanzlei Corporate Ma Pension Bav Liabil..."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas, Grosskanzlei Corporate Ma Pension Bav Liabilities und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas, Grosskanzlei Corporate Ma Pension Bav Liabilities und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -729,14 +729,14 @@ POST-CLOSING OBLIGATIONS
 [ ] § 613a Information Arbeitnehmer bis [DATUM] — HR: [NAME]
 
 GARANTIEFRISTEN
-  Business Warranties: enden am [DATUM]
-  Tax Warranties: enden am [DATUM]
-  W&I-Notification-Pflicht: 7 Tage nach Kenntnis
+ Business Warranties: enden am [DATUM]
+ Tax Warranties: enden am [DATUM]
+ W&I-Notification-Pflicht: 7 Tage nach Kenntnis
 
 PMI-MEILENSTEINE
-  IT-Integration Abschluss: [DATUM]
-  HR-Harmonisierung: [DATUM]
-  Synergie-Tracking Q1: [DATUM]
+ IT-Integration Abschluss: [DATUM]
+ HR-Harmonisierung: [DATUM]
+ Synergie-Tracking Q1: [DATUM]
 ```
 
 ## Rote Schwellen
@@ -919,7 +919,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Insiderinformations-Check:** existiert eine Insiderinformation? (Art. 7 MAR) — M&A-Verhandlungen sind typischerweise Insiderinformationen ab dem Zeitpunkt konkreter Vereinbarungen
 2. **Ad-hoc-Meldung planen:** Zeitpunkt bestimmen; Aufschub nach Art. 17 Abs. 4 MAR dokumentieren; BaFin-Notifikation bei Aufschub
@@ -957,9 +957,9 @@ Erstellungsdatum: [DATUM]
 | 2 | [NAME] | CFO | [DATUM] | [DATUM] |
 
 AD-HOC-AUFSCHUB:
-  Beschlossen: [DATUM] — Verantwortlicher: [NAME]
-  Begruendung Art. 17 Abs. 4 MAR: [BEGRUENDUNG]
-  BaFin-Notifikation: [ ] Ausstehend [ ] Erfolgt am [DATUM]
+ Beschlossen: [DATUM] — Verantwortlicher: [NAME]
+ Begruendung Art. 17 Abs. 4 MAR: [BEGRUENDUNG]
+ BaFin-Notifikation: [ ] Ausstehend [ ] Erfolgt am [DATUM]
 ```
 
 --- vor Versand klaeren ---

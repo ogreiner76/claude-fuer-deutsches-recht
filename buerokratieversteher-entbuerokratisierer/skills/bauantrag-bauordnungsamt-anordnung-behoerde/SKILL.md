@@ -1,13 +1,13 @@
 ---
 name: bauantrag-bauordnungsamt-anordnung-behoerde
-description: "Nutze dies, wenn Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh prüfen.; Erstelle eine Arbeitsfassung zu Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bauantrag, Bauordnungsamt Anordnung, Behörde Oder Gericht Erkennen, Beratungshilfe Pkh** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -41,7 +41,7 @@ Erklärt Bauantrag, Bauvorbescheid, Nachbarbeteiligung, Unterlagen, Landesbauord
 - Bauvorbescheid (z. B. § 75 MBO): Schriftliche, verbindliche Vorabentscheidung zu Einzelfragen, drei Jahre bindend; günstig bei strittigem Maß der Nutzung.
 - Praktiker-Tipp: Vor Antrag formloses Bauamtsgespräch und ggf. Vorbescheid; Genehmigungsfiktion (§ 42a VwVfG, ggf. landesrechtlich) nur bei vollständigen Unterlagen — Eingangsbestätigung mit Datum sichern.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -81,7 +81,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei Nutzungsuntersagung, Beseitigungsverfügung, Baustopp, Anhörung, Sofortvollzug und Eilantrag.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -121,7 +121,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Ordnet Absender ein: Kommune, Landkreis, Landesbehörde, Bundesbehörde, Jobcenter, Jugendamt, Familiengericht, Polizei, Staatsanwaltschaft, Amtsgericht.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -168,7 +168,7 @@ Erklärt Beratungshilfe, Prozesskostenhilfe/Verfahrenskostenhilfe, Unterlagen, F
 - Ratenzahlung möglich nach § 115 Abs. 2 ZPO; Überprüfung nach vier Jahren (§ 120a ZPO), Rückforderung bei wirtschaftlicher Besserung.
 - Praktiker-Tipp: PKH-Antrag immer **zusammen** mit Klage oder rechtzeitig vor Fristablauf — bei abgelehnter PKH kann unter Umständen Wiedereinsetzung in den vorigen Stand (§ 60 VwGO, § 233 ZPO) beantragt werden. Vorab Anwaltsbesuch mit Beratungshilfeschein klären.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

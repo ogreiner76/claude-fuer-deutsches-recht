@@ -143,13 +143,13 @@ Bei AG-Urteilen i. d. R. ohne Sicherheitsleistung (§ 708 ZPO).
 Antraege:
 
 1. Der Beklagte wird verurteilt, an den Klaeger
-   1.500 EUR nebst Zinsen ... zu zahlen.
+ 1.500 EUR nebst Zinsen ... zu zahlen.
 
 2. Die Kosten des Rechtsstreits traegt der
-   Beklagte.
+ Beklagte.
 
 3. Das Urteil wird fuer vorlaeufig vollstreckbar
-   erklaert.
+ erklaert.
 ```
 
 ## Worauf Sie besonders achten muessen

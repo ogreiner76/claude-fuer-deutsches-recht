@@ -121,20 +121,20 @@ Listen Sie ALLE Beweise auf:
 IV. Beweisangebot
 
 1. Aerztliche Befundberichte
-   - Hausarzt Dr. X vom [Datum], Anlage K1
-   - Facharzt Dr. Y vom [Datum], Anlage K2
-   - Krankenhausentlassungsbericht vom [Datum], Anlage K3
-   - Reha-Entlassungsbericht vom [Datum], Anlage K4
+ - Hausarzt Dr. X vom [Datum], Anlage K1
+ - Facharzt Dr. Y vom [Datum], Anlage K2
+ - Krankenhausentlassungsbericht vom [Datum], Anlage K3
+ - Reha-Entlassungsbericht vom [Datum], Anlage K4
 
 2. Zeugen
-   - Frau [Name, Adresse] zum Pflegealltag
-   - Herr [Name, Adresse] zur Arbeitsfaehigkeit
+ - Frau [Name, Adresse] zum Pflegealltag
+ - Herr [Name, Adresse] zur Arbeitsfaehigkeit
 
 3. Antrag auf Sachverstaendigen-Gutachten nach § 103 SGG
-   Zur Frage des Leistungsvermoegens auf dem allgemeinen Arbeitsmarkt.
+ Zur Frage des Leistungsvermoegens auf dem allgemeinen Arbeitsmarkt.
 
 4. Hilfsweise: Antrag auf Sachverstaendigen-Gutachten nach § 109 SGG
-   Sachverstaendiger: Prof. Dr. [Name], [Adresse / Klinik]
+ Sachverstaendiger: Prof. Dr. [Name], [Adresse / Klinik]
 ```
 
 ### Schritt 6 — Anlagenverzeichnis

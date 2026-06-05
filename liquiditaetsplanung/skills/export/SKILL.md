@@ -1,6 +1,6 @@
 ---
 name: export
-description: "Nutze dies, wenn Export: Schriftsatz-, Brief- und Memo-Bausteine im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Export: Schriftsatz-, Brief- und Memo-Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Export: Schriftsatz-, Brief- und Memo-Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Export: Schriftsatz-, Brief- und Memo-Bausteine: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Export: Schriftsatz-, Brief- und Memo-Bausteine

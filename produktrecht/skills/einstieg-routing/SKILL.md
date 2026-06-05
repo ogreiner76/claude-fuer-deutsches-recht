@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Produktrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Produktrecht** ein Fall noch sortiert, Dok
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `bewertungen-red-team-impressumspflicht` — Bewertungen Red Team Impressumspflicht
 - `eu-produktsicherheitsverordnung-feature-risikobewertung` — Eu Produktsicherheitsverordnung Feature Risikobewertung
 - `ist-ein-ki-act-marktueberwachung-kommunikation` — Ist Ein Ki Act Marktueberwachung Kommunikation

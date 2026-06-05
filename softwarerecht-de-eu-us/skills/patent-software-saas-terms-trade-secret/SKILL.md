@@ -1,13 +1,13 @@
 ---
 name: patent-software-saas-terms-trade-secret
-description: "Nutze dies, wenn Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa prüfen.; Erstelle eine Arbeitsfassung zu Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

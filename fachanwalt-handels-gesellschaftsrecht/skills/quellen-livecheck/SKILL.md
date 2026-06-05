@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Handels Gesellschaftsrecht** ei
 ## Fachlandkarte dieses Plugins
 
 - `ag-vorstandsvertrag-hgr-aktionsbindungsvertrag-hgr` — Ag Vorstandsvertrag Hgr Aktionsbindungsvertrag Hgr
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `fachanwalt-fao-gesellschafterstreit` — Fachanwalt Fao Gesellschafterstreit
 - `geschaeftsfuehrerhaftung-holding-strukturplanung-gmbh-cash` — Geschaeftsfuehrerhaftung Holding Strukturplanung Gmbh Cash
 - `gesellschafterstreit-handelsvertreterausgleich-ma-due` — Gesellschafterstreit Handelsvertreterausgleich Ma Due

@@ -1,13 +1,13 @@
 ---
 name: beweiswuerdigung-richter-cisg-dsgvo
-description: "Nutze dies, wenn Beweiswuerdigung Mit Richter Input, Cisg Prüfen, Dsgvo Rechtswidriges Produkt im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Bitte Beweiswuerdigung Mit Richter Input, Cisg Prüfen, Dsgvo Rechtswidriges Produkt prüfen.; Erstelle eine Arbeitsfassung zu Beweiswuerdigung Mit Richter Input, Cisg Prüfen, Dsgvo Rechtswidriges Produkt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beweiswuerdigung Mit Richter Input, Cisg Prüfen, Dsgvo Rechtswidriges Produkt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beweiswuerdigung Mit Richter Input, Cisg Prüfen, Dsgvo Rechtswidriges Produkt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beweiswuerdigung Mit Richter Input, Cisg Prüfen, Dsgvo Rechtswidriges Produkt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -61,9 +61,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 1. **Beweismittel auflisten:** chronologische Liste aller erhobenen Beweismittel aus dem Protokoll.
 2. **Richter-Input einholen (MANUELL):** Richterin/Richter gibt strukturiert ein:
-   - Glaubwürdigkeit jedes Zeugen (Eigeninteresse, persönlicher Eindruck)
-   - Glaubhaftigkeit der Aussage (Konstanz, Detailreichtum, Realkennzeichen)
-   - Widersprüche zu anderen Beweismitteln
+ - Glaubwürdigkeit jedes Zeugen (Eigeninteresse, persönlicher Eindruck)
+ - Glaubhaftigkeit der Aussage (Konstanz, Detailreichtum, Realkennzeichen)
+ - Widersprüche zu anderen Beweismitteln
 3. **Würdigung formulieren:** Aus dem Input vollständige Sätze für die Entscheidungsgründe.
 4. **Bezugnahme einfügen:** Verweis auf Protokoll und Gutachten nach § 313 Abs. 2 S. 2 ZPO.
 5. **Feststellung zusammenfassen:** "Das Gericht hat sich davon überzeugt, dass ..."
@@ -93,9 +93,9 @@ Das Gericht stellt fest: [FESTGESTELLTE TATSACHE].
 
 1. **Schritt 1 (automatisierbar)**: Beweismittel sortieren - Zeuge / Sachverständiger / Augenschein / Urkunde / Parteivernehmung. Inhalte aus dem Sitzungsprotokoll übernehmen.
 2. **Schritt 2 (haendisch)**: Die Richterin / der Richter trifft die Würdigung. Das Plugin fragt strukturiert ab:
-   - **Glaubwürdigkeit des Zeugen**: persönliche Verhältnisse, Eigeninteresse, Belastungsmotivation
-   - **Glaubhaftigkeit der Aussage**: Aussagekonstanz, Detailreichtum, Realkennzeichen, raumzeitliche Verknuepfungen, ungewoehnliche Detailangaben, Selbstkorrekturen, eigene Beteiligung
-   - **Widersprüche** zu anderen Beweismitteln / Akten
+ - **Glaubwürdigkeit des Zeugen**: persönliche Verhältnisse, Eigeninteresse, Belastungsmotivation
+ - **Glaubhaftigkeit der Aussage**: Aussagekonstanz, Detailreichtum, Realkennzeichen, raumzeitliche Verknuepfungen, ungewoehnliche Detailangaben, Selbstkorrekturen, eigene Beteiligung
+ - **Widersprüche** zu anderen Beweismitteln / Akten
 3. **Schritt 3 (automatisierbar)**: Aus der Würdigung den Beweiswürdigungsteil der Entscheidungsgründe formulieren - in vollständigen Sätzen, mit Bezug auf die konkrete Beweisaufnahme.
 
 ## Form

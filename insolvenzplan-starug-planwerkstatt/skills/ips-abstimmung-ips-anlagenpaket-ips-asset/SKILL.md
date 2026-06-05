@@ -1,13 +1,13 @@
 ---
 name: ips-abstimmung-ips-anlagenpaket-ips-asset
-description: "Nutze dies, wenn Ips Abstimmung Mehrheiten, Ips Anlagenpaket, Ips Asset Deals Im Plan Grundstuecke Marken Kundendaten im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Ips Abstimmung Mehrheiten, Ips Anlagenpaket, Ips Asset Deals Im Plan Grundstuecke Marken Kundendaten prüfen.; Erstelle eine Arbeitsfassung zu Ips Abstimmung Mehrheiten, Ips Anlagenpaket, Ips Asset Deals Im Plan Grundstuecke Marken Kundendaten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ips Abstimmung Mehrheiten, Ips Anlagenpaket, Ips Asset Deals Im Plan Grundstuecke Marken Kundendaten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ips Abstimmung Mehrheiten, Ips Anlagenpaket, Ips Asset Deals Im Plan Grundstuecke Marken Kundendaten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ips Abstimmung Mehrheiten, Ips Anlagenpaket, Ips Asset Deals Im Plan Grundstuecke Marken Kundendaten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -83,7 +83,7 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 ## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde gegen Bestätigung eines StaRUG-Restrukturierungsplans unzulässig; Bedeutung für Mehrheiten: Eingriffe in Aktionärsrechte über Mehrheitsentscheidungen sind verfassungsrechtlich grundsätzlich zulässig, wenn § 66 Abs. 2 Nr. 3 StaRUG gewahrt ist.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - 75 %-Mehrheit je Gruppe nach § 25 StaRUG; in der InsO 50 % Kopf- und 50 % Summenmehrheit je Gruppe nach § 244 InsO. Konkrete LG/OLG-Entscheidungen zur Abstimmungspraxis vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
@@ -364,27 +364,27 @@ Mit rechtskräftiger Bestätigung des Insolvenzplans treten die im **gestaltende
 **Empfehlung Praxisstandard "Opt-in mit Anreiz":**
 
 1. **Information** aller Betroffenen vor Vollzug (Art. 13/14 DSGVO):
-   - Identität bisheriger und künftiger Verantwortlicher
-   - Zwecke der Verarbeitung beim Erwerber
-   - Rechtsgrundlage
-   - Empfänger / Kategorien
-   - Dauer der Speicherung
-   - Rechte der Betroffenen (Art. 15-22 DSGVO)
-   - Beschwerderecht Aufsichtsbehörde
+ - Identität bisheriger und künftiger Verantwortlicher
+ - Zwecke der Verarbeitung beim Erwerber
+ - Rechtsgrundlage
+ - Empfänger / Kategorien
+ - Dauer der Speicherung
+ - Rechte der Betroffenen (Art. 15-22 DSGVO)
+ - Beschwerderecht Aufsichtsbehörde
 
 2. **Einwilligungs-Kampagne** ("Opt-in") mit Anreiz/Goodie:
-   - Schreiben oder E-Mail an alle aktiven Kunden
-   - klare Frage: "Sind Sie damit einverstanden, dass Ihre Daten an die Erwerberin übertragen werden?"
-   - klare Abgrenzung: "Auch ohne Einwilligung haben Sie Anspruch auf [Ersatzleistung / Erstattung / vertragsabwicklung]."
-   - Anreiz (Beispiele: 10-EUR-Gutschein, Verlängerung Garantie um 12 Monate, ein zusätzliches Servicepaket, Treuepunkte-Verdopplung, etc.)
-   - Rückkanal: einfaches Antwortverfahren (Online-Formular mit DOI, postalisches Antwortkärtchen, E-Mail-Confirm-Link)
-   - **Freiwilligkeit muss gewahrt sein** — keine Kopplung an unverzichtbare Leistungen (Art. 7 Abs. 4 DSGVO)
-   - Dokumentation jeder Einwilligung mit Zeitstempel, Datenpunkt, Inhalt
+ - Schreiben oder E-Mail an alle aktiven Kunden
+ - klare Frage: "Sind Sie damit einverstanden, dass Ihre Daten an die Erwerberin übertragen werden?"
+ - klare Abgrenzung: "Auch ohne Einwilligung haben Sie Anspruch auf [Ersatzleistung / Erstattung / vertragsabwicklung]."
+ - Anreiz (Beispiele: 10-EUR-Gutschein, Verlängerung Garantie um 12 Monate, ein zusätzliches Servicepaket, Treuepunkte-Verdopplung, etc.)
+ - Rückkanal: einfaches Antwortverfahren (Online-Formular mit DOI, postalisches Antwortkärtchen, E-Mail-Confirm-Link)
+ - **Freiwilligkeit muss gewahrt sein** — keine Kopplung an unverzichtbare Leistungen (Art. 7 Abs. 4 DSGVO)
+ - Dokumentation jeder Einwilligung mit Zeitstempel, Datenpunkt, Inhalt
 
 3. **Übergangsmechanik im Plan:**
-   - **aufschiebend bedingt** auf Erreichen einer Quote x % (z.B. 60 %) zugestimmter Datensätze
-   - Daten ohne Zustimmung: bleiben bei Masse zur Restabwicklung, werden nach Restabwicklung gelöscht (Art. 17 DSGVO)
-   - alternativ: Treuhand-Daten-Custodian, der Daten nur freigibt, wenn Zustimmung nachträglich erteilt
+ - **aufschiebend bedingt** auf Erreichen einer Quote x % (z.B. 60 %) zugestimmter Datensätze
+ - Daten ohne Zustimmung: bleiben bei Masse zur Restabwicklung, werden nach Restabwicklung gelöscht (Art. 17 DSGVO)
+ - alternativ: Treuhand-Daten-Custodian, der Daten nur freigibt, wenn Zustimmung nachträglich erteilt
 
 **Wichtige Schranken:**
 

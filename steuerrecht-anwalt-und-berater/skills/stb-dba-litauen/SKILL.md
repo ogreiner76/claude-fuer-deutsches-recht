@@ -139,12 +139,12 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Fintech-Substanz, KSt 15 Prozent.
 3. **Kurzantwort**: DBA-Litauen 1997 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-LT 1997).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz; EU-MTRL/EU-ZinsLizenzRL vorrangig.
-   - Methodenartikel.
-   - § 50d Abs. 3 EStG bei Fintech-Holding-Substanz.
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-LT 1997).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+ - Methodenartikel.
+ - § 50d Abs. 3 EStG bei Fintech-Holding-Substanz.
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: Fintech-Substanztest, Pillar Two, MLI-Status.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

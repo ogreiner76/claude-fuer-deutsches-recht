@@ -1,19 +1,19 @@
 ---
 name: anspruchsformulierungen-formverstoss
-description: "Nutze dies, wenn Anspruchsformulierungen Bei Formverstoss, Buergschaft Verbraucherdarlehen Und Andere Strenge Formen, Dokumentations Und Beweisarchitektur im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Bitte Anspruchsformulierungen Bei Formverstoss, Buergschaft Verbraucherdarlehen Und Andere Strenge Formen, Dokumentations Und Beweisarchitektur prüfen.; Erstelle eine Arbeitsfassung zu Anspruchsformulierungen Bei Formverstoss, Buergschaft Verbraucherdarlehen Und Andere Strenge Formen, Dokumentations Und Beweisarchitektur.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anspruchsformulierungen Bei Formverstoss, Buergschaft Verbraucherdarlehen Und Andere Strenge Formen, Dokumentations Und Beweisarchitektur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anspruchsformulierungen Bei Formverstoss, Buergschaft Verbraucherdarlehen Und Andere Strenge Formen, Dokumentations Und Beweisarchitektur
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anspruchsformulierungen Bei Formverstoss, Buergschaft Verbraucherdarlehen Und Andere Strenge Formen, Dokumentations Und Beweisarchitektur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `anspruchsformulierungen-bei-formverstoss` | Workflow-Skill zu anspruchsformulierungen bei formverstoss. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `anspruchsformulierungen-bei-formverstoss` | Arbeitsmodul zu anspruchsformulierungen bei formverstoss: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `buergschaft-verbraucherdarlehen-und-andere-strenge-formen` | Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. §§ 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft § 766 BGB Schriftform (Ausnahme Kaufmann § 350 HGB) Verbraucherdarlehen § 492 BGB Teilzeitwohnrecht § 484 BGB Grundstücksgeschäfte § 311b BGB notarielle Beurkundung. Nichtigkeit und Heilungsmöglichkeiten. Output: Formwirksamkeits-Analyse und Handlungsempfehlung. Abgrenzung zu notarielle-beurkundung-und-öffentliche-beglaubigung (Notarfragen). |
 | `dokumentations-und-beweisarchitektur` | Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchivierung. Output: Kanzlei-Dokumentationsstandard-Checkliste für formrelevante Vorgaenge. Abgrenzung zu zugang-empfangsbedürftiger-willenserklärung-paragraph-130-bgb (Zugangsprüfung) und elektronische-form-paragraph-126a-bgb-qes. |
 
@@ -26,7 +26,7 @@ Für **Anspruchsformulierungen Bei Formverstoss, Buergschaft Verbraucherdarlehen
 
 ## 1. `anspruchsformulierungen-bei-formverstoss`
 
-**Fokus:** Workflow-Skill zu anspruchsformulierungen bei formverstoss. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu anspruchsformulierungen bei formverstoss: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Anspruchsformulierungen bei Formverstoß
 
@@ -74,21 +74,21 @@ Nach § 16 TzBfG gilt ein formwidrig befristeter Arbeitsvertrag als unbefristet.
 
 ```
 1. Hat der Anspruchsteller etwas geleistet?
-   → Provision gezahlt / Anzahlung geleistet / Leistung erbracht
+ → Provision gezahlt / Anzahlung geleistet / Leistung erbracht
 
 2. Hat der Empfänger dies ohne rechtlichen Grund erlangt?
-   → Formnorm verletzt → Vertrag nichtig (§ 125 BGB)
-   → Kein wirksamer Rechtsgrund
+ → Formnorm verletzt → Vertrag nichtig (§ 125 BGB)
+ → Kein wirksamer Rechtsgrund
 
 3. Bereicherungssperre aufgrund Schutzzweck der Formnorm?
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   → § 766 BGB (Bürgschaft): Wenn Bürge geleistet hat, Heilung (§ 766 S. 3 BGB)
-   → § 311b BGB (Grundstück): Rückzahlung vor Heilung möglich
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → § 766 BGB (Bürgschaft): Wenn Bürge geleistet hat, Heilung (§ 766 S. 3 BGB)
+ → § 311b BGB (Grundstück): Rückzahlung vor Heilung möglich
 
 4. Umfang des Bereicherungsanspruchs?
-   → § 818 Abs. 1 BGB: Herausgabe des Erlangten
-   → § 818 Abs. 2 BGB: Wertersatz wenn Herausgabe nicht möglich
-   → § 818 Abs. 3 BGB: Wegfall der Bereicherung — str. bei Formverstößen
+ → § 818 Abs. 1 BGB: Herausgabe des Erlangten
+ → § 818 Abs. 2 BGB: Wertersatz wenn Herausgabe nicht möglich
+ → § 818 Abs. 3 BGB: Wegfall der Bereicherung — str. bei Formverstößen
 ```
 
 ### Räumungsklage — Antrag
@@ -97,20 +97,20 @@ Nach § 16 TzBfG gilt ein formwidrig befristeter Arbeitsvertrag als unbefristet.
 Klageantrag:
 
 1. Die Beklagte/der Beklagte wird verurteilt, die Wohnung
-   [vollständige Adresse, Beschreibung der Wohnung] zu räumen
-   und an den Kläger herauszugeben.
+ [vollständige Adresse, Beschreibung der Wohnung] zu räumen
+ und an den Kläger herauszugeben.
 
 2. Die Beklagte/der Beklagte wird verurteilt, für jeden Kalendermonat
-   der Nutzung nach dem [Datum Kündigungsende] eine Nutzungsentschädigung
-   in Höhe von [monatliche Miete] Euro zu zahlen.
+ der Nutzung nach dem [Datum Kündigungsende] eine Nutzungsentschädigung
+ in Höhe von [monatliche Miete] Euro zu zahlen.
 
 3. Die Kosten des Rechtsstreits trägt die Beklagte/der Beklagte.
 
 Begründung:
-  - Mietverhältnis wirksam durch Kündigung vom [Datum] (Schriftform gewahrt,
-    Zugang nachgewiesen) beendet
-  - Beklagte/Beklagter ist zum Auszug verpflichtet, § 546 BGB
-  - Nutzungsentschädigung gem. § 546a BGB in Höhe der ortsüblichen Miete
+ - Mietverhältnis wirksam durch Kündigung vom [Datum] (Schriftform gewahrt,
+ Zugang nachgewiesen) beendet
+ - Beklagte/Beklagter ist zum Auszug verpflichtet, § 546 BGB
+ - Nutzungsentschädigung gem. § 546a BGB in Höhe der ortsüblichen Miete
 ```
 
 ### Entfristungsklage (Arbeitnehmer)
@@ -123,10 +123,10 @@ Arbeitsverhältnis nicht aufgrund der Befristungsabrede vom [Datum]
 zum [Datum] beendet ist, sondern auf unbestimmte Zeit fortbesteht.
 
 Begründung:
-  - Befristungsabrede formwidrig: Unterzeichnung nach Arbeitsbeginn
-    (§ 14 Abs. 4 TzBfG i.V.m. § 125 BGB)
-  - Folge: Vertrag gilt als unbefristet (§ 16 TzBfG)
-  - Klage innerhalb der Drei-Wochen-Frist (§ 17 TzBfG): fristgerecht
+ - Befristungsabrede formwidrig: Unterzeichnung nach Arbeitsbeginn
+ (§ 14 Abs. 4 TzBfG i.V.m. § 125 BGB)
+ - Folge: Vertrag gilt als unbefristet (§ 16 TzBfG)
+ - Klage innerhalb der Drei-Wochen-Frist (§ 17 TzBfG): fristgerecht
 ```
 
 ## Templates
@@ -229,8 +229,8 @@ Die Bürgschaftserklärung des Bürgen (nicht des Gläubigers) bedarf der Schrif
 Der Verbraucherdarlehensvertrag bedarf der Schriftform (§ 492 Abs. 1 BGB). Besonderheiten:
 - Pflichtangaben nach §§ 492 Abs. 2, 247 EGBGB zwingend
 - Formverstoß führt nicht zur Nichtigkeit, sondern zu Rechtsfolgen nach § 494 BGB:
-  - Fehlende Angaben werden durch gesetzliche Mindestwerte ersetzt
-  - Zinsanpassung auf gesetzlichen Zinssatz möglich
+ - Fehlende Angaben werden durch gesetzliche Mindestwerte ersetzt
+ - Zinsanpassung auf gesetzlichen Zinssatz möglich
 
 **Abgrenzung**: Nur Verbraucherdarlehen — Darlehen an Kaufleute im Handelsverkehr (§§ 343 ff. HGB) sind nicht erfasst.
 
@@ -263,22 +263,22 @@ Kaufverträge über Grundstücke, Eigentumswohnungen und grundstücksgleiche Rec
 
 ```
 1. Wer ist der Bürge?
-   → Kaufmann (§ 350 HGB): Formfreiheit
-   → Nicht-Kaufmann: Schriftform § 766 BGB zwingend
+ → Kaufmann (§ 350 HGB): Formfreiheit
+ → Nicht-Kaufmann: Schriftform § 766 BGB zwingend
 
 2. Form eingehalten?
-   → Eigenhändige Unterschrift des Bürgen auf Bürgschaftsurkunde
-   → Nicht: Fax, eingescannte Unterschrift, E-Mail ohne qES
+ → Eigenhändige Unterschrift des Bürgen auf Bürgschaftsurkunde
+ → Nicht: Fax, eingescannte Unterschrift, E-Mail ohne qES
 
 3. Bei qES: Schriftformersatz möglich?
-   → Umstritten — zur Sicherheit Papier mit Originalunterschrift
+ → Umstritten — zur Sicherheit Papier mit Originalunterschrift
 
 4. Formverstoß: Heilung?
-   → Bürge hat Hauptschuld bereits erfüllt → Heilung § 766 S. 3 BGB
-   → Sonst: Bürgschaft nichtig
+ → Bürge hat Hauptschuld bereits erfüllt → Heilung § 766 S. 3 BGB
+ → Sonst: Bürgschaft nichtig
 
 5. § 242 BGB: Treuwidrigkeitseinwand?
-   → Hohe Hürden, Einzelfall
+ → Hohe Hürden, Einzelfall
 ```
 
 ## Templates
@@ -396,21 +396,21 @@ Der Erklärende trägt die Beweislast für den Zugang seiner Willenserklärung b
 PAPIER-ERKLÄRUNGEN:
 
 □ Original-Exemplar erstellt und unterschrieben?
-   → Vermieter bei Kündigung: eine Original-Kündigung, zugestellt an Mieter
-   → Bei Vertrag: Original-Exemplar für jede Partei
+ → Vermieter bei Kündigung: eine Original-Kündigung, zugestellt an Mieter
+ → Bei Vertrag: Original-Exemplar für jede Partei
 
 □ Gegenstück-Exemplar aufbewahrt?
-   → Kopie oder zweites Originalexemplar in Mandantenakte
-   → Ggf. beglaubigte Kopie
+ → Kopie oder zweites Originalexemplar in Mandantenakte
+ → Ggf. beglaubigte Kopie
 
 □ Zugangs-Nachweis gesichert?
-   → Boten-Quittung mit Unterschrift und Datum
-   → Einschreiben-Rückschein (Sendebericht + Rückschein)
-   → GV-Zustellungsurkunde
+ → Boten-Quittung mit Unterschrift und Datum
+ → Einschreiben-Rückschein (Sendebericht + Rückschein)
+ → GV-Zustellungsurkunde
 
 □ Frist berechnet und dokumentiert?
-   → Zugangsdatum + Frist = Fristende
-   → In Akte notiert
+ → Zugangsdatum + Frist = Fristende
+ → In Akte notiert
 
 ELEKTRONISCHE ERKLÄRUNGEN (qES):
 
@@ -447,7 +447,7 @@ Wenn Papierurkunden eingescannt und die Originale vernichtet werden sollen (erse
 - Scan muss vollständig und originalgetreu sein
 - Transfervermerk auf Scan (Datum des Einscannens, Vollständigkeit)
 - Bei formrelevanten Urkunden empfiehlt sich die Aufbewahrung des Originals
-  → Insbesondere: Originalkündigung, Bürgschaftsurkunde, Originalunterschrift
+ → Insbesondere: Originalkündigung, Bürgschaftsurkunde, Originalunterschrift
 
 **Achtung**: Ersetzendes Scannen ist für formrelevante Urkunden mit Vorsicht zu behandeln. Wenn das Original vernichtet wird, kann der Nachweis der Echtheit der Unterschrift schwieriger werden.
 
@@ -458,29 +458,29 @@ Wenn Papierurkunden eingescannt und die Originale vernichtet werden sollen (erse
 ```
 FORMRELEVANTE ERKLÄRUNG — DOKUMENTATION
 
-Mandant:         [Name]
-Sache:           [Beschreibung]
-Erklärung:       [Art der Erklärung, z. B. Kündigung Wohnraummiete]
-Datum:           [Datum der Erklärung]
-Form:            [ ] Schriftform Papier
-                 [ ] qES elektronisch
-                 [ ] Textform E-Mail / WhatsApp
+Mandant: [Name]
+Sache: [Beschreibung]
+Erklärung: [Art der Erklärung, z. B. Kündigung Wohnraummiete]
+Datum: [Datum der Erklärung]
+Form: [ ] Schriftform Papier
+ [ ] qES elektronisch
+ [ ] Textform E-Mail / WhatsApp
 
 Zugang gesichert durch:
-  [ ] Boten-Quittung vom [Datum]
-  [ ] Einschreiben-Rückschein vom [Datum]
-  [ ] Eingangsbestätigung Empfänger vom [Datum]
-  [ ] Sendebericht E-Mail vom [Datum]
+ [ ] Boten-Quittung vom [Datum]
+ [ ] Einschreiben-Rückschein vom [Datum]
+ [ ] Eingangsbestätigung Empfänger vom [Datum]
+ [ ] Sendebericht E-Mail vom [Datum]
 
 Dokumente in Akte:
-  [ ] Originalurkunde / Kopie
-  [ ] Quittung / Rückschein
-  [ ] qES-Validierungsprotokoll
-  [ ] E-Mail-Export (.eml oder PDF)
-  [ ] Screenshot WhatsApp
+ [ ] Originalurkunde / Kopie
+ [ ] Quittung / Rückschein
+ [ ] qES-Validierungsprotokoll
+ [ ] E-Mail-Export (.eml oder PDF)
+ [ ] Screenshot WhatsApp
 
 Fristberechnung:
-  Zugang: [Datum]        Frist: [Anzahl Tage/Monate]        Fristende: [Datum]
+ Zugang: [Datum] Frist: [Anzahl Tage/Monate] Fristende: [Datum]
 ```
 
 ### Mandantenhinweis Beweissicherung

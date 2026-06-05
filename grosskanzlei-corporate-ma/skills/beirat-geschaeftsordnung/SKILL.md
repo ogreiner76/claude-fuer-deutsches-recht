@@ -1,6 +1,6 @@
 ---
 name: beirat-geschaeftsordnung
-description: "Nutze dies, wenn Beirat Geschaeftsordnung im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Geschaeftsordnung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Geschaeftsordnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Geschaeftsordnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Geschaeftsordnung

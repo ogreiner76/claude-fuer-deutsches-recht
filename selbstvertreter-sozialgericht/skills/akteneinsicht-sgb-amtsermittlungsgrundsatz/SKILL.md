@@ -1,13 +1,13 @@
 ---
 name: akteneinsicht-sgb-amtsermittlungsgrundsatz
-description: "Nutze dies, wenn Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung prüfen.; Erstelle eine Arbeitsfassung zu Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht, Anwaltskosten Bei Erfolg Erstattung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -287,7 +287,7 @@ Sie muessen zuerst Widerspruch eingelegt haben (§ 78 SGG). Erst nach Widerspruc
 ### Schritt 3 — Klageschrift aufsetzen
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 [Name, Geburtsdatum]
 [Adresse]
@@ -594,12 +594,12 @@ Mandant: [Name]
 Angelegenheit: SG Az [...]
 Gegenstandswert: [...] EUR
 
-Verfahrensgebuehr Nr. 3100 VV RVG     [Betrag]
-Terminsgebuehr Nr. 3104 VV RVG         [Betrag]
-Auslagenpauschale Nr. 7002 VV RVG       20,00
-Zwischensumme                            [...]
-Umsatzsteuer 19 %                        [...]
-Gesamt                                   [...]
+Verfahrensgebuehr Nr. 3100 VV RVG [Betrag]
+Terminsgebuehr Nr. 3104 VV RVG [Betrag]
+Auslagenpauschale Nr. 7002 VV RVG 20,00
+Zwischensumme [...]
+Umsatzsteuer 19 % [...]
+Gesamt [...]
 ```
 
 ### Schritt 4 — Antrag auf Festsetzung

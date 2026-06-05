@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Bav Strategie Konzern** ein Fall noch sort
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-design-workflow-chronologie` — Allgemein Design Workflow Chronologie
+- `allgemein-design-workflow-chronologie` — Allgemein Design Chronologie
 - `altersversorgung-boutique-fristennotiz-psv` — Altersversorgung Boutique Fristennotiz Psv
 - `betrieblichen-drei-duesseldorfer-sonderfall` — Betrieblichen Drei Duesseldorfer Sonderfall
 - `buyout-ma-country-by-cta-contractual` — Buyout Ma Country By Cta Contractual

@@ -1,13 +1,13 @@
 ---
 name: legw-gesetzesentwurf-kabinett-aa-voelkerrecht
-description: "Nutze dies, wenn Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen, Legw Bmf Geldwaesche Und Sanktionsrecht und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen, Legw Bmf Geldwaesche Und Sanktionsrecht und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen, Legw Bmf Geldwaesche Und Sanktionsrecht und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen, Legw Bmf Geldwaesche Und Sanktionsrecht und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen, Legw Bmf Geldwaesche Und Sanktionsrecht und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -93,7 +93,7 @@ Auswirkungen auf demografische Entwicklung.
 
 Liste der angehörten Verbände, eingegangene Stellungnahmen, Bewertung.
 
-## Workflow vom Referentenentwurf zum Kabinettsentwurf
+## vom Referentenentwurf zum Kabinettsentwurf
 
 1. Referentenentwurf erstellt (siehe `referentenentwurf-bauen`)
 2. Verbändeanhörung durchgeführt (siehe `verbaendeanhoerung-ressortabstimmung`)
@@ -181,16 +181,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Voelkerrecht und Vertragsgesetzgebung
-Ressort:            AA
-Kernnormen:         GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.
-Akteure/Aufsicht:   AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.
-EU/Voelkerrecht:    Gemischte Abkommen; ausschliessliche EU-Kompetenz; AETR-Doktrin.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Voelkerrecht und Vertragsgesetzgebung
+Ressort: AA
+Kernnormen: GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.
+Akteure/Aufsicht: AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.
+EU/Voelkerrecht: Gemischte Abkommen; ausschliessliche EU-Kompetenz; AETR-Doktrin.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-aa; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -384,16 +384,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Sanktionsumsetzung und internationale Abkommen
-Ressort:            AA
-Kernnormen:         AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.
-Akteure/Aufsicht:   AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.
-EU/Voelkerrecht:    EU-Sanktionsregime gegen Drittstaaten und Personen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Sanktionsumsetzung und internationale Abkommen
+Ressort: AA
+Kernnormen: AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.
+Akteure/Aufsicht: AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.
+EU/Voelkerrecht: EU-Sanktionsregime gegen Drittstaaten und Personen.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-aa; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -466,16 +466,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Geldwaescherecht und Sanktionsrecht
-Ressort:            BMF
-Kernnormen:         GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).
-Akteure/Aufsicht:   FIU; BaFin; Zoll; Justiz; LKA.
-EU/Voelkerrecht:    EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmf; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Geldwaescherecht und Sanktionsrecht
+Ressort: BMF
+Kernnormen: GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).
+Akteure/Aufsicht: FIU; BaFin; Zoll; Justiz; LKA.
+EU/Voelkerrecht: EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -548,16 +548,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Rente und Altersvorsorgerecht
-Ressort:            BMAS
-Kernnormen:         SGB VI; AVG (alt); FRG; ZRBG; Riester; Foerderhinweise Steuer (mit BMF).
-Akteure/Aufsicht:   DRV Bund; Aufsicht ueber Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).
-EU/Voelkerrecht:    VO 883/2004; PEPP-VO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Rente und Altersvorsorgerecht
+Ressort: BMAS
+Kernnormen: SGB VI; AVG (alt); FRG; ZRBG; Riester; Foerderhinweise Steuer (mit BMF).
+Akteure/Aufsicht: DRV Bund; Aufsicht ueber Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).
+EU/Voelkerrecht: VO 883/2004; PEPP-VO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -630,16 +630,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Steuerrecht und Fiskalnormen
-Ressort:            BMF
-Kernnormen:         AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.
-Akteure/Aufsicht:   BZSt; Finanzaemter der Laender; BFH; FG; juris-Finanzrechtsprechung.
-EU/Voelkerrecht:    MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmf; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Steuerrecht und Fiskalnormen
+Ressort: BMF
+Kernnormen: AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.
+Akteure/Aufsicht: BZSt; Finanzaemter der Laender; BFH; FG; juris-Finanzrechtsprechung.
+EU/Voelkerrecht: MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -712,16 +712,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Zollrecht und Aussenwirtschaftsrecht
-Ressort:            BMF
-Kernnormen:         AWG; AWV; ZollVG; UZK (EU); UStG (Einfuhrumsatzsteuer); KrWaffKG.
-Akteure/Aufsicht:   Generalzolldirektion; Bundeszollverwaltung; BAFA (im BMWE); BMF Z-Abteilung.
-EU/Voelkerrecht:    Unionszollkodex; Dual-Use-VO; Sanktionsverordnungen der EU; ATLAS-IT.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmf; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Zollrecht und Aussenwirtschaftsrecht
+Ressort: BMF
+Kernnormen: AWG; AWV; ZollVG; UZK (EU); UStG (Einfuhrumsatzsteuer); KrWaffKG.
+Akteure/Aufsicht: Generalzolldirektion; Bundeszollverwaltung; BAFA (im BMWE); BMF Z-Abteilung.
+EU/Voelkerrecht: Unionszollkodex; Dual-Use-VO; Sanktionsverordnungen der EU; ATLAS-IT.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

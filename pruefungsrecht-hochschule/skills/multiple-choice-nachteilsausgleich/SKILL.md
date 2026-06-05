@@ -1,13 +1,13 @@
 ---
 name: multiple-choice-nachteilsausgleich
-description: "Nutze dies, wenn Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet im Plugin Pruefungsrecht Hochschule konkret bearbeitet werden soll. Auslöser: Bitte Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet prüfen.; Erstelle eine Arbeitsfassung zu Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Prüfung Identitaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

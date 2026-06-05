@@ -1,13 +1,13 @@
 ---
 name: ehe-konsens-ehenichtigkeit-kirchlichen
-description: "Nutze dies, wenn Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo prüfen.; Erstelle eine Arbeitsfassung zu Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -104,7 +104,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -162,7 +162,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -220,7 +220,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -278,7 +278,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

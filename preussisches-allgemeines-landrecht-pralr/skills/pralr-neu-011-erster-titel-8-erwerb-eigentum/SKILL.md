@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-011-erster-titel-8-erwerb-eigentum
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen

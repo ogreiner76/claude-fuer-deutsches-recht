@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Aktenaufbereiter Strafrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Aktenaufbereiter Strafrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -13,9 +13,9 @@ Nutze diesen Skill, wenn im Bereich **Aktenaufbereiter Strafrecht** ein Fall noc
 
 - `aktenaufbereiter-strafrecht` — Aktenaufbereiter Strafrecht
 - `akteneinsicht-uebersicht-aktenvorblatt-erstellen-anklageschrift` — Akteneinsicht Uebersicht Aktenvorblatt Erstellen Anklageschrift
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `beweismittel-katalog-beweisverwertungsverbote-beziehungsmatrix` — Beweismittel Katalog Beweisverwertungsverbote Beziehungsmatrix
-- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Spezial Chronologie Ergaenzbar
+- `beziehungen-spezial-chronologie-ergaenzbar` — Beziehungen Chronologie Ergaenzbar
 - `ersatz-sonderfall-excel-faehige` — Ersatz Sonderfall Excel Faehige
 - `fortlaufend-luecken-personenverzeichnis` — Fortlaufend Luecken Personenverzeichnis
 - `fristenliste-strafverfahren-aktenlektuere-fristennotiz` — Fristenliste Strafverfahren Aktenlektuere Fristennotiz

@@ -1,13 +1,13 @@
 ---
 name: rom-cives-sine-romanisierung-provinzen
-description: "Nutze dies, wenn Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Neu 001 Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Neu 002 Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Neu 001 Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Neu 002 Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Neu 001 Fruehformen Zwoelftafelrecht Sakrale Spru..."
+description: "Nutze dies bei Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Neu 001 Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Neu 002 Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen
+# Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -24,7 +24,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Neu 001 Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Neu 002 Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und, Rom Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -191,13 +191,13 @@ Für öffentliche Bauaufträge, Steuerpacht und Versorgungsaufgaben gab es keine
 - **Römisch-rechtlicher Kern**
 - **Prüfraster**
 - **Moderne Anschlussnotiz**
-- **Empfohlene Spezialskills**
+- **Empfohlene Fachmodule**
 
 ## 4. `rom-neu-001-fruehformen-zwoelftafelrecht-sakrale-spruchform-und`
 
 **Fokus:** Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 001 Fruehformen Zwoelftafelrecht Sakrale Spruchform Und
+# Rom Fruehformen Zwoelftafelrecht Sakrale Spruchform Und
 
 ## Aufgabe
 
@@ -249,7 +249,7 @@ A ist Schuldner; nach Urteil und 30 Tagen Fristablauf darf B zugreifen.
 
 **Fokus:** Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 002 Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors
+# Rom Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors
 
 ## Aufgabe
 
@@ -259,11 +259,11 @@ Zwoelftafelgesetz: Textzeugen und Rekonstruktion.
 
 - Original verloren (425 v. Chr. zerstoert beim Brand Roms durch Gallier).
 - Rekonstruktion nur ueber:
-  - **Cicero** (insb. De re publica, De legibus).
-  - **Livius** Ab urbe condita.
-  - **Aulus Gellius** Noctes Atticae.
-  - **Pomponius** in D. 1.2.2.4 (Liber singularis enchiridii).
-  - **Festus**, Verrius Flaccus, sprachwissenschaftliche Quellen.
+ - **Cicero** (insb. De re publica, De legibus).
+ - **Livius** Ab urbe condita.
+ - **Aulus Gellius** Noctes Atticae.
+ - **Pomponius** in D. 1.2.2.4 (Liber singularis enchiridii).
+ - **Festus**, Verrius Flaccus, sprachwissenschaftliche Quellen.
 
 ## Wissenschaftliche Rekonstruktion
 
@@ -292,7 +292,7 @@ Zwoelftafelgesetz: Textzeugen und Rekonstruktion.
 
 **Fokus:** Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 003 Zwoelftafelrecht Familiengewalt Erbrecht Und Nachbar
+# Rom Zwoelftafelrecht Familiengewalt Erbrecht Und Nachbar
 
 ## Aufgabe
 
@@ -339,7 +339,7 @@ A will Vermoegen zu Lebzeiten ueber Tod hinaus verfuegen.
 
 **Fokus:** Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 004 Zwoelftafelrecht Delikt Busse Talion Und Komposition
+# Rom Zwoelftafelrecht Delikt Busse Talion Und Komposition
 
 ## Aufgabe
 
@@ -386,7 +386,7 @@ A beleidigt B oeffentlich.
 
 **Fokus:** Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 005 Zwoelftafelrecht Schuldhaft Nexum Und Soziale Ordnun
+# Rom Zwoelftafelrecht Schuldhaft Nexum Und Soziale Ordnun
 
 ## Aufgabe
 

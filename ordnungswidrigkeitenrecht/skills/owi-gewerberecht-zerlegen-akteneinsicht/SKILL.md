@@ -1,13 +1,13 @@
 ---
 name: owi-gewerberecht-zerlegen-akteneinsicht
-description: "Nutze dies, wenn Owi 031 Gewerberecht Tatbestand Zerlegen, Owi 033 Gewerberecht Akteneinsicht Schreiben, Owi 034 Gewerberecht Einspruch Begruenden, Owi 035 Gewerberecht Einstellung Anregen im Plugin Ordnungswidrigkeitenrecht konkret bearbeitet werden soll. Auslöser: Bitte Owi 031 Gewerberecht Tatbestand Zerlegen, Owi 033 Gewerberecht Akteneinsicht Schreiben, Owi 034 Gewerberecht Einspruch Begruenden, Owi 035 Gewerberecht Einstellung Anregen prüfen.; Erstelle eine Arbeitsfassung zu Owi 031 Gewerberecht Tatbestand Zerlegen, Owi 033 Gewerberecht Akteneinsicht Schreiben, Owi 034 Gewerberecht Einspruch Begruenden, Owi 035 Gewerberecht Einstellung Anregen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Owi 031 Gewerberecht Tatbestand Zerlegen, Owi 033 Gewerberecht Akteneinsicht Schreiben, Owi 034 Gewerberecht Einspruch Begruenden, Owi 035 Gewerberecht Einstellung Anregen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Owi 031 Gewerberecht Tatbestand Zerlegen, Owi 033 Gewerberecht Akteneinsicht Schreiben, Owi 034 Gewerberecht Einspruch Begruenden, Owi 035 Gewerberecht Einstellung Anregen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Owi 031 Gewerberecht Tatbestand Zerlegen, Owi 033 Gewerberecht Akteneinsicht Schreiben, Owi 034 Gewerberecht Einspruch Begruenden, Owi 035 Gewerberecht Einstellung Anregen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

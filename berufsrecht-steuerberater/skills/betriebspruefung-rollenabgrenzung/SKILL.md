@@ -1,13 +1,13 @@
 ---
 name: betriebspruefung-rollenabgrenzung
-description: "Nutze dies, wenn Steuerberater Betriebspruefung Rollenabgrenzung Kammerantwort U, Steuerberater Betriebspruefung Rollenabgrenzung Organisationspf, Steuerberater Cloud Server Drittlandtransfer Kammerantwort Und, Steuerberater Cloud Server Drittlandtransfer Organisationspflic, Steuerberater Datenschutzpanne Lohnakte Kammerantwort Und Verfa im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Betriebspruefung Rollenabgrenzung Kammerantwort U, Steuerberater Betriebspruefung Rollenabgrenzung Organisationspf, Steuerberater Cloud Server Drittlandtransfer Kammerantwort Und, Steuerberater Cloud Server Drittlandtransfer Organisationspflic, Steuerberater Datenschutzpanne Lohnakte Kammerantwort Und Verfa prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Betriebspruefung Rollenabgrenzung Kammerantwort U, Steuerberater Betriebspruefung Rollenabgrenzung Organisationspf, Steuerberater Cloud Server Drittlandtransfer Kammerantwort Und, Steuerberater C..."
+description: "Nutze dies bei Steuerberater Betriebspruefung Rollenabgrenzung Kammerantwort U, Steuerberater Betriebspruefung Rollenabgrenzung Organisationspf, Steuerberater Cloud Server Drittlandtransfer Kammerantwort Und, Steuerberater Cloud Server Drittlandtransfer Organisationspflic: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Betriebspruefung Rollenabgrenzung Kammerantwort U, Steuerberater Betriebspruefung Rollenabgrenzung Organisationspf, Steuerberater Cloud Server Drittlandtransfer Kammerantwort Und, Steuerberater Cloud Server Drittlandtransfer Organisationspflic, Steuerberater Datenschutzpanne Lohnakte Kammerantwort Und Verfa
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Betriebspruefung Rollenabgrenzung Kammerantwort U, Steuerberater Betriebspruefung Rollenabgrenzung Organisationspf, Steuerberater Cloud Server Drittlandtransfer Kammerantwort Und, Steuerberater Cloud Server Drittlandtransfer Organisationspflic, Steuerberater Datenschutzpanne Lohnakte Kammerantwort Und Verfa** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

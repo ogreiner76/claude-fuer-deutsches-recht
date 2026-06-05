@@ -1,20 +1,20 @@
 ---
 name: reverse-lieferantenfinanzierung-risikomatrix
-description: "Nutze dies, wenn Reverse Factoring Lieferantenfinanzierung Und Abgrenzung Kreditg, Risikomatrix Insolvenz Anfechtung, Sanierungskonzept Factoring Als Liquiditaetsbaustein im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Reverse Factoring Lieferantenfinanzierung Und Abgrenzung Kreditg, Risikomatrix Insolvenz Anfechtung, Sanierungskonzept Factoring Als Liquiditaetsbaustein prüfen.; Erstelle eine Arbeitsfassung zu Reverse Factoring Lieferantenfinanzierung Und Abgrenzung Kreditg, Risikomatrix Insolvenz Anfechtung, Sanierungskonzept Factoring Als Liquiditaetsbaustein.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Reverse Factoring Lieferantenfinanzierung Und Abgrenzung Kreditg, Risikomatrix Insolvenz Anfechtung, Sanierungskonzept Factoring Als Liquiditaetsbaustein: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Reverse Factoring Lieferantenfinanzierung Und Abgrenzung Kreditg, Risikomatrix Insolvenz Anfechtung, Sanierungskonzept Factoring Als Liquiditaetsbaustein
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Reverse Factoring Lieferantenfinanzierung Und Abgrenzung Kreditg, Risikomatrix Insolvenz Anfechtung, Sanierungskonzept Factoring Als Liquiditaetsbaustein** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `reverse-factoring-lieferantenfinanzierung-und-abgrenzung-kreditg` | Reverse Factoring Lieferantenfinanzierung und Abgrenzung Kreditgeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
-| `risikomatrix-insolvenz-anfechtung` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Risikomatrix Insolvenz Anfechtung. |
+| `risikomatrix-insolvenz-anfechtung` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Risikomatrix Insolvenz Anfechtung. |
 | `sanierungskonzept-factoring-als-liquiditaetsbaustein` | Sanierungskonzept Factoring als Liquiditätsbaustein: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 
 ## Arbeitsweg
@@ -71,7 +71,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `risikomatrix-insolvenz-anfechtung`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Risikomatrix Insolvenz Anfechtung.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Risikomatrix Insolvenz Anfechtung.
 
 # Risikomatrix Insolvenz Anfechtung
 

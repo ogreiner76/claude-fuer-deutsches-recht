@@ -1,32 +1,32 @@
 ---
 name: hgb-kanzlei-beweislast-mopeg
-description: "Nutze dies, wenn Spezial Hgb Risikoampel Und Gegenargumente, Spezial Kanzlei Beweislast Und Darlegungslast, Spezial Mopeg Formular Portal Und Einreichung im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Hgb Risikoampel Und Gegenargumente, Spezial Kanzlei Beweislast Und Darlegungslast, Spezial Mopeg Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Hgb Risikoampel Und Gegenargumente, Spezial Kanzlei Beweislast Und Darlegungslast, Spezial Mopeg Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hgb Risikoampel Und Gegenargumente, Kanzlei Beweislast Und Darlegungslast, Mopeg Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Hgb Risikoampel Und Gegenargumente, Spezial Kanzlei Beweislast Und Darlegungslast, Spezial Mopeg Formular Portal Und Einreichung
+# Hgb Risikoampel Und Gegenargumente, Kanzlei Beweislast Und Darlegungslast, Mopeg Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hgb Risikoampel Und Gegenargumente, Kanzlei Beweislast Und Darlegungslast, Mopeg Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-hgb-risikoampel-und-gegenargumente` | HGB: Risikoampel, Gegenargumente und Verteidigungslinien im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-kanzlei-beweislast-und-darlegungslast` | Kanzlei: Beweislast, Darlegungslast und Substantiierung im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-mopeg-formular-portal-und-einreichung` | Mopeg: Formular, Portal und Einreichungslogik im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-hgb-risikoampel-und-gegenargumente` | HGB: Risikoampel, Gegenargumente und Verteidigungslinien im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-kanzlei-beweislast-und-darlegungslast` | Kanzlei: Beweislast, Darlegungslast und Substantiierung im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-mopeg-formular-portal-und-einreichung` | Mopeg: Formular, Portal und Einreichungslogik im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Hgb Risikoampel Und Gegenargumente, Spezial Kanzlei Beweislast Und Darlegungslast, Spezial Mopeg Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hgb Risikoampel Und Gegenargumente, Kanzlei Beweislast Und Darlegungslast, Mopeg Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-hgb-risikoampel-und-gegenargumente`
 
-**Fokus:** HGB: Risikoampel, Gegenargumente und Verteidigungslinien im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** HGB: Risikoampel, Gegenargumente und Verteidigungslinien im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # HGB: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -40,7 +40,7 @@ Für **Spezial Hgb Risikoampel Und Gegenargumente, Spezial Kanzlei Beweislast Un
 
 
 ## Spezialwissen: HGB: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** HGB: Risikoampel, Gegenargumente und Verteidigungslinien / spezial hgb risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** HGB: Risikoampel, Gegenargumente und Verteidigungslinien / hgb risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HGB, FAO, AktG, GmbHG, PartGG, UmwG, MoPeG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -59,9 +59,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
 2. **HGB-Rahmen setzen:** Kaufmannseigenschaft §§ 1-7 HGB (Ist-Kaufmann, Kann-Kaufmann, Form-Kaufmann); Handelsregister-Eintragungspflicht § 29 HGB (deklaratorisch für OHG/KG außer Kommanditist konstitutiv § 162 HGB); Prokura §§ 48 ff. HGB (umfassende Vertretungsmacht, nicht Verfügung über Grundstücke ohne Sondervollmacht); Handlungsvollmacht § 54 HGB (engerer Umfang).
 3. **Risikoampel HGB-Streitfragen:**
-   - **Rot:** Bilanzfehler (§§ 264 ff. HGB) mit Vorsatzverdacht (§ 331 HGB Strafbarkeit Bilanzdelikte), Insolvenzantragspflichtverletzung § 15a InsO (3 Wochen Zahlungsunfähigkeit, 6 Wochen Überschuldung), § 89b HGB Ausgleichsanspruch mit Fristverlust nach 1 Jahr.
-   - **Gelb:** Schwellenwerte Größenklassen §§ 267 ff. HGB (Kleinst-, kleine, mittelgroße, große Gesellschaft, mit Pflichten Prüfung, Offenlegung); Handelsbrauch § 346 HGB als Auslegungshilfe.
-   - **Grün:** klare AG/GmbH-Rechtsform, vollständige Handelsregisterlage, Bilanzprüfung erfolgt, Verträge dokumentiert.
+ - **Rot:** Bilanzfehler (§§ 264 ff. HGB) mit Vorsatzverdacht (§ 331 HGB Strafbarkeit Bilanzdelikte), Insolvenzantragspflichtverletzung § 15a InsO (3 Wochen Zahlungsunfähigkeit, 6 Wochen Überschuldung), § 89b HGB Ausgleichsanspruch mit Fristverlust nach 1 Jahr.
+ - **Gelb:** Schwellenwerte Größenklassen §§ 267 ff. HGB (Kleinst-, kleine, mittelgroße, große Gesellschaft, mit Pflichten Prüfung, Offenlegung); Handelsbrauch § 346 HGB als Auslegungshilfe.
+ - **Grün:** klare AG/GmbH-Rechtsform, vollständige Handelsregisterlage, Bilanzprüfung erfolgt, Verträge dokumentiert.
 4. **Gegenargumente entwickeln:** § 25 HGB Firmenfortführung (Erwerberhaftung bei Unternehmenskauf, Ausschluss nur mit Veröffentlichung); § 28 HGB Eintritt in bestehendes Geschäft; § 130 HGB Haftung Eintretender in OHG/KG für Altverbindlichkeiten; § 161 Abs. 2 HGB Kommanditistenhaftung bis Hafteinlage.
 5. **Anschluss:** Verteidigungslinien je nach Lager (Schuldner: Haftungsbegrenzung; Gläubiger: Durchgriff); Mandantenbrief mit Risikoampel und konkretem Handlungsbedarf.
 
@@ -79,7 +79,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-kanzlei-beweislast-und-darlegungslast`
 
-**Fokus:** Kanzlei: Beweislast, Darlegungslast und Substantiierung im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Kanzlei: Beweislast, Darlegungslast und Substantiierung im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Kanzlei: Beweislast, Darlegungslast und Substantiierung
 
@@ -93,7 +93,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Kanzlei: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Kanzlei: Beweislast, Darlegungslast und Substantiierung / spezial kanzlei beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kanzlei: Beweislast, Darlegungslast und Substantiierung / kanzlei beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -129,7 +129,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-mopeg-formular-portal-und-einreichung`
 
-**Fokus:** Mopeg: Formular, Portal und Einreichungslogik im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mopeg: Formular, Portal und Einreichungslogik im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mopeg: Formular, Portal und Einreichungslogik
 
@@ -143,7 +143,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Mopeg: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Mopeg: Formular, Portal und Einreichungslogik / spezial mopeg formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mopeg: Formular, Portal und Einreichungslogik / mopeg formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

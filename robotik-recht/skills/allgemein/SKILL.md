@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Robotik-Recht-Kompass für Deutschland und EU: Einstieg, Rollenklärung, Produktklassifizierung, Maschinenverordnung, KI-VO, Produkthaftung, Datenschutz, Cybersecurity, Marktüberwachung und passende Spezialskills."
+description: "Robotik-Recht-Kompass für Deutschland und EU: Einstieg, Rollenklärung, Produktklassifizierung, Maschinenverordnung, KI-VO, Produkthaftung, Datenschutz, Cybersecurity, Marktüberwachung und passende Fachmodule."
 ---
 
 # Robotik-Recht-Kompass
@@ -14,7 +14,7 @@ description: "Robotik-Recht-Kompass für Deutschland und EU: Einstieg, Rollenkl�
 
 ## Worum geht es konkret
 
-Einstiegsskill für das Plugin `robotik-recht`. Robotik-Mandate sind regelmäßig Querschnitts-Mandate: ein einziger Roboter berührt MaschinenVO, KI-VO, CRA, ProdHaftG, DSGVO, Arbeitsschutz und je nach Einsatzgebiet Spezialrecht (MPDG, StVG, BetrSichV). Dieser Kompass klärt die Mandatsstruktur in 10 Minuten, ordnet das Produkt rechtlich ein und verweist auf die passenden Spezialskills.
+Einstiegsskill für das Plugin `robotik-recht`. Robotik-Mandate sind regelmäßig Querschnitts-Mandate: ein einziger Roboter berührt MaschinenVO, KI-VO, CRA, ProdHaftG, DSGVO, Arbeitsschutz und je nach Einsatzgebiet Spezialrecht (MPDG, StVG, BetrSichV). Dieser Kompass klärt die Mandatsstruktur in 10 Minuten, ordnet das Produkt rechtlich ein und verweist auf die passenden Fachmodule.
 
 ## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
@@ -37,7 +37,7 @@ Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 - **Sektorrecht:** MPDG/MDR bei medizinischer Robotik; StVG, AFGBV bei autonomem Fahren; LuftVG bei UAV.
 - **Arbeitsrecht/Arbeitsschutz:** ArbSchG, BetrSichV, DGUV-Vorschriften; Beteiligung Betriebsrat § 87 Abs. 1 Nr. 6 BetrVG bei Kameras/Sensorik.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Rollenmatrix erstellen.** Wer ist Hersteller, wer Importeur, wer Integrator, wer Betreiber, wer Anbieter und wer Betreiber i. S. d. KI-VO? Wer haftet im Außenverhältnis?
 2. **Produktklassifizierung.** Maschine? Teilmaschine? Sicherheitsbauteil? Hochrisiko-KI nach Anhang III? Medizinprodukt? Was alles "auf einmal"? Mehrfach-Konformitätsbewertungen möglich.
@@ -46,7 +46,7 @@ Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 5. **Sofortmaßnahmen.** Stillstand, Rückruf, Vigilanz-Meldung, Datenpannenmeldung Art. 33 DSGVO, Versicherungsmeldung.
 6. **Mittelfrist.** Konformitätsbewertung nachholen, Verträge nachverhandeln, technische Dokumentation aufarbeiten.
 7. **Ergebnisformat wählen.** Kurzvermerk, Dokumentenmatrix, Behördenentwurf, Mandantenbrief, Schriftsatz, Vorstandsvorlage.
-8. **Anschluss-Skills nennen.** Verweis auf 2-4 passende Spezialskills im Plugin.
+8. **Anschluss-Skills nennen.** Verweis auf 2-4 passende Fachmodule im Plugin.
 
 ## Trade-off-Matrix
 

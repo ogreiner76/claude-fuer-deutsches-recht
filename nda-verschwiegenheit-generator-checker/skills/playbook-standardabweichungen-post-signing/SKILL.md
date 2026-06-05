@@ -1,22 +1,22 @@
 ---
 name: playbook-standardabweichungen-post-signing
-description: "Nutze dies, wenn Playbook Standardabweichungen, Post Signing Compliance, Prozessschutz 16 20 Geschgehg, Prozessvergleich Und Mediation im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Playbook Standardabweichungen, Post Signing Compliance, Prozessschutz 16 20 Geschgehg, Prozessvergleich Und Mediation prüfen.; Erstelle eine Arbeitsfassung zu Playbook Standardabweichungen, Post Signing Compliance, Prozessschutz 16 20 Geschgehg, Prozessvergleich Und Mediation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Playbook Standardabweichungen, Post Signing Compliance, Prozessschutz 16 20 Geschgehg, Prozessvergleich Und Mediation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Playbook Standardabweichungen, Post Signing Compliance, Prozessschutz 16 20 Geschgehg, Prozessvergleich Und Mediation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Playbook Standardabweichungen, Post Signing Compliance, Prozessschutz 16 20 Geschgehg, Prozessvergleich Und Mediation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `playbook-standardabweichungen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Playbook Standardabweichungen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `post-signing-compliance` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Post Signing Compliance; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `prozessschutz-16-20-geschgehg` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessschutz 16 20 Geschgehg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `prozessvergleich-und-mediation` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessvergleich Und Mediation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `playbook-standardabweichungen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Playbook Standardabweichungen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `post-signing-compliance` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Post Signing Compliance; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `prozessschutz-16-20-geschgehg` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessschutz 16 20 Geschgehg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `prozessvergleich-und-mediation` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessvergleich Und Mediation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Playbook Standardabweichungen, Post Signing Compliance, Prozessschutz 16 
 
 ## 1. `playbook-standardabweichungen`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Playbook Standardabweichungen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Playbook Standardabweichungen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Playbook Standardabweichungen
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `post-signing-compliance`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Post Signing Compliance; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Post Signing Compliance; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Post Signing Compliance
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `prozessschutz-16-20-geschgehg`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessschutz 16 20 Geschgehg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessschutz 16 20 Geschgehg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Prozessschutz 16 20 Geschgehg
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `prozessvergleich-und-mediation`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessvergleich Und Mediation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Prozessvergleich Und Mediation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Prozessvergleich Und Mediation
 

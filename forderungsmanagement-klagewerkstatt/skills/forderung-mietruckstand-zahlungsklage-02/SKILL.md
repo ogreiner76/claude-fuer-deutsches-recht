@@ -1,13 +1,13 @@
 ---
 name: forderung-mietruckstand-zahlungsklage-02
-description: "Nutze dies, wenn Forderung Mietruckstand Zahlungsklage, Forderung Verbraucher Erleichterungen, Forderung Zwangsvollstreckung Ueberblick im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Forderung Mietruckstand Zahlungsklage, Forderung Verbraucher Erleichterungen, Forderung Zwangsvollstreckung Ueberblick prüfen.; Erstelle eine Arbeitsfassung zu Forderung Mietruckstand Zahlungsklage, Forderung Verbraucher Erleichterungen, Forderung Zwangsvollstreckung Ueberblick.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Forderung Mietruckstand Zahlungsklage, Forderung Verbraucher Erleichterungen, Forderung Zwangsvollstreckung Ueberblick: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Forderung Mietruckstand Zahlungsklage, Forderung Verbraucher Erleichterungen, Forderung Zwangsvollstreckung Ueberblick
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Forderung Mietruckstand Zahlungsklage, Forderung Verbraucher Erleichterungen, Forderung Zwangsvollstreckung Ueberblick** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

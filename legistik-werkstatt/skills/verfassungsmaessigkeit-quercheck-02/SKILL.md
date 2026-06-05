@@ -1,13 +1,13 @@
 ---
 name: verfassungsmaessigkeit-quercheck-02
-description: "Nutze dies, wenn Verfassungsmaessigkeit Quercheck, Verordnungsermaechtigung Art80, Xml Paralleldarstellung, Zirkelschluss Prüfen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Verfassungsmaessigkeit Quercheck, Verordnungsermaechtigung Art80, Xml Paralleldarstellung, Zirkelschluss Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Verfassungsmaessigkeit Quercheck, Verordnungsermaechtigung Art80, Xml Paralleldarstellung, Zirkelschluss Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verfassungsmaessigkeit Quercheck, Verordnungsermaechtigung Art80, Xml Paralleldarstellung, Zirkelschluss Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verfassungsmaessigkeit Quercheck, Verordnungsermaechtigung Art80, Xml Paralleldarstellung, Zirkelschluss Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -58,12 +58,12 @@ Prüfen pro Adressat:
 1. Schutzbereich (persönlich und sachlich)
 2. Eingriff
 3. Rechtfertigung
-   - verfassungsmaessige Schranke
-   - Schranken-Schranken (insbesondere Verhältnismaessigkeit)
-     - legitimer Zweck
-     - geeignet
-     - erforderlich (mildestes Mittel)
-     - angemessen
+ - verfassungsmaessige Schranke
+ - Schranken-Schranken (insbesondere Verhältnismaessigkeit)
+ - legitimer Zweck
+ - geeignet
+ - erforderlich (mildestes Mittel)
+ - angemessen
 
 ## Pruefstation 3 - Art. 3 GG Gleichbehandlung
 
@@ -232,30 +232,30 @@ Landesrecht-Portale verwenden teilweise eigene XML-Formate, teilweise LegalDocML
 
 ```xml
 <akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
-  <act name="entwurf-paragraf-33a-hgb">
-    <meta>
-      <identification source="#bmj">
-        <FRBRWork>
-          <FRBRthis value="/akn/de/act/2026/pflichtpostfachg"/>
-          <FRBRuri value="/akn/de/act/2026/pflichtpostfachg"/>
-          <FRBRdate date="2026-05-23" name="Auftragsdatum"/>
-          <FRBRauthor href="#bmj"/>
-          <FRBRcountry value="de"/>
-        </FRBRWork>
-      </identification>
-    </meta>
-    <body>
-      <article eId="art_1">
-        <num>Artikel 1</num>
-        <heading>Aenderung des Handelsgesetzbuchs</heading>
-        <paragraph eId="art_1__para_1">
-          <content>
-            <p>Das Handelsgesetzbuch ... wird wie folgt geaendert: ...</p>
-          </content>
-        </paragraph>
-      </article>
-    </body>
-  </act>
+ <act name="entwurf-paragraf-33a-hgb">
+ <meta>
+ <identification source="#bmj">
+ <FRBRWork>
+ <FRBRthis value="/akn/de/act/2026/pflichtpostfachg"/>
+ <FRBRuri value="/akn/de/act/2026/pflichtpostfachg"/>
+ <FRBRdate date="2026-05-23" name="Auftragsdatum"/>
+ <FRBRauthor href="#bmj"/>
+ <FRBRcountry value="de"/>
+ </FRBRWork>
+ </identification>
+ </meta>
+ <body>
+ <article eId="art_1">
+ <num>Artikel 1</num>
+ <heading>Aenderung des Handelsgesetzbuchs</heading>
+ <paragraph eId="art_1__para_1">
+ <content>
+ <p>Das Handelsgesetzbuch ... wird wie folgt geaendert: ...</p>
+ </content>
+ </paragraph>
+ </article>
+ </body>
+ </act>
 </akomaNtoso>
 ```
 

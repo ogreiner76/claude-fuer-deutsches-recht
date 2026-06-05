@@ -8,7 +8,7 @@ description: "Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ers
 ## Aufgabe
 Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

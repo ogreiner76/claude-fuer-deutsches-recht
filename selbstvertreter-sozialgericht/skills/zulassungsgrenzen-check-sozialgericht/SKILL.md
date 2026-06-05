@@ -70,12 +70,12 @@ Wenn Wertgrenze nicht erreicht und keine laufenden Leistungen über mehr als ein
 **Rechtsmittel-Check**
 | Frage | Ergebnis | Ampel |
 |---|---|---|
-| Berufung zugelassen? |  |  |
-| Beschwer über 750 EUR? |  |  |
-| Laufende Leistungen über mehr als 1 Jahr? |  |  |
-| Zulassungsgrund erkennbar? |  |  |
-| Frist gesichert? |  |  |
-| Anwalt/Sozialverband nötig? |  |  |
+| Berufung zugelassen? | | |
+| Beschwer über 750 EUR? | | |
+| Laufende Leistungen über mehr als 1 Jahr? | | |
+| Zulassungsgrund erkennbar? | | |
+| Frist gesichert? | | |
+| Anwalt/Sozialverband nötig? | | |
 
 **Konsequenz**
 [Berufung einlegen, Nichtzulassungsbeschwerde prüfen, Urteil akzeptieren, PKH/Anwalt/Sozialverband einschalten.]

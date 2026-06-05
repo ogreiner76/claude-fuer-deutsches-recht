@@ -1,13 +1,13 @@
 ---
 name: rom-roemische-rom-stadtrechte-rom
-description: "Nutze dies, wenn Rom Neu 022 Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Neu 023 Roemisches Recht Und Stadtrechte Norditalien, Rom Neu 024 Roemisches Recht Und Byzantinisches Sachenrecht, Rom Neu 025 Roemisches Recht In Griechischer Sprache Terminologi, Rom Neu 026 Epigraphische Quellen Juristisch Auswerten und 3 weitere Themen im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Rom Neu 022 Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Neu 023 Roemisches Recht Und Stadtrechte Norditalien, Rom Neu 024 Roemisches Recht Und Byzantinisches Sachenrecht, Rom Neu 025 Roemisches Recht In Griechischer Sprache Terminologi, Rom Neu 026 Epigraphische Quellen Juristisch Auswerten und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Rom Neu 022 Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Neu 023 Roemisches Recht Und Stadtrechte Norditalien, Rom Neu 024 Roemisches Recht Und Byzantinisches Sachenrecht, Rom Neu 025 Roemisches Rec..."
+description: "Nutze dies bei Rom Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Römisches Recht Und Stadtrechte Norditalien, Rom Römisches Recht Und Byzantinisches Sachenrecht, Rom Römisches Recht In Griechischer Sprache Terminologi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Rom Neu 022 Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Neu 023 Roemisches Recht Und Stadtrechte Norditalien, Rom Neu 024 Roemisches Recht Und Byzantinisches Sachenrecht, Rom Neu 025 Roemisches Recht In Griechischer Sprache Terminologi, Rom Neu 026 Epigraphische Quellen Juristisch Auswerten und 3 weitere Themen
+# Rom Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Roemisches Recht Und Stadtrechte Norditalien, Rom Roemisches Recht Und Byzantinisches Sachenrecht, Rom Roemisches Recht In Griechischer Sprache Terminologi, Rom Epigraphische Quellen Juristisch Auswerten und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rom Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Roemisches Recht Und Stadtrechte Norditalien, Rom Roemisches Recht Und Byzantinisches Sachenrecht, Rom Roemisches Recht In Griechischer Sprache Terminologi, Rom Epigraphische Quellen Juristisch Auswerten und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -24,7 +24,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Rom Neu 022 Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Neu 023 Roemisches Recht Und Stadtrechte Norditalien, Rom Neu 024 Roemisches Recht Und Byzantinisches Sachenrecht, Rom Neu 025 Roemisches Recht In Griechischer Sprache Terminologi, Rom Neu 026 Epigraphische Quellen Juristisch Auswerten und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Roemisches Recht Und Stadtrechte Norditalien, Rom Roemisches Recht Und Byzantinisches Sachenrecht, Rom Roemisches Recht In Griechischer Sprache Terminologi, Rom Epigraphische Quellen Juristisch Auswerten und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Rom Neu 022 Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Neu
 
 **Fokus:** Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 022 Roemische Obligationenlehre Im Handelsrecht Des Mitt
+# Rom Roemische Obligationenlehre Im Handelsrecht Des Mitt
 
 ## Aufgabe
 
@@ -70,7 +70,7 @@ Roemische Obligationenlehre im Handelsrecht des Mittelalters.
 
 **Fokus:** Römisches Recht: Römisches Recht und Stadtrechte Norditalien mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 023 Roemisches Recht Und Stadtrechte Norditalien
+# Rom Roemisches Recht Und Stadtrechte Norditalien
 
 ## Aufgabe
 
@@ -108,7 +108,7 @@ Roemisches Recht und Stadtrechte in Norditalien.
 
 **Fokus:** Römisches Recht: Römisches Recht und byzantinisches Sachenrecht mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 024 Roemisches Recht Und Byzantinisches Sachenrecht
+# Rom Roemisches Recht Und Byzantinisches Sachenrecht
 
 ## Aufgabe
 
@@ -146,7 +146,7 @@ Roemisches Recht und byzantinisches Sachenrecht.
 
 **Fokus:** Römisches Recht: Römisches Recht in griechischer Sprache Terminologie mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 025 Roemisches Recht In Griechischer Sprache Terminologi
+# Rom Roemisches Recht In Griechischer Sprache Terminologi
 
 ## Aufgabe
 
@@ -177,7 +177,7 @@ Roemisches Recht in griechischer Sprache — Terminologie.
 
 **Fokus:** Römisches Recht: Epigraphische Quellen juristisch auswerten mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 026 Epigraphische Quellen Juristisch Auswerten
+# Rom Epigraphische Quellen Juristisch Auswerten
 
 ## Aufgabe
 
@@ -217,7 +217,7 @@ Epigraphische Quellen juristisch auswerten.
 
 **Fokus:** Römisches Recht: Archaisches Formularrecht legis actiones vertiefen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 027 Archaisches Formularrecht Legis Actiones Vertiefen
+# Rom Archaisches Formularrecht Legis Actiones Vertiefen
 
 ## Aufgabe
 
@@ -260,7 +260,7 @@ Archaisches Formularrecht — legis actiones vertiefen.
 
 **Fokus:** Römisches Recht: Pontifikalrecht Kalender und Rechtszugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 028 Pontifikalrecht Kalender Und Rechtszugang
+# Rom Pontifikalrecht Kalender Und Rechtszugang
 
 ## Aufgabe
 
@@ -296,7 +296,7 @@ Pontifikalrecht — Kalender und Rechtszugang.
 
 **Fokus:** Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 029 Zwoelftafelrecht In Heutiger Didaktik Ohne Scheinsic
+# Rom Zwoelftafelrecht In Heutiger Didaktik Ohne Scheinsic
 
 ## Aufgabe
 

@@ -1,13 +1,13 @@
 ---
 name: aufbewahrung-beweislast-dora-it
-description: "Nutze dies, wenn Dokumentation Aufbewahrung Beweislast, Dora Und It Dienstleister Soweit Einschlaegig, Entlassmanagement 39 Abs 1A Sgb V im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Dokumentation Aufbewahrung Beweislast, Dora Und It Dienstleister Soweit Einschlaegig, Entlassmanagement 39 Abs 1A Sgb V prüfen.; Erstelle eine Arbeitsfassung zu Dokumentation Aufbewahrung Beweislast, Dora Und It Dienstleister Soweit Einschlaegig, Entlassmanagement 39 Abs 1A Sgb V.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dokumentation Aufbewahrung Beweislast, Dora Und It Dienstleister Soweit Einschlaegig, Entlassmanagement 39 Abs 1a Sgb V: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dokumentation Aufbewahrung Beweislast, Dora Und It Dienstleister Soweit Einschlaegig, Entlassmanagement 39 Abs 1A Sgb V
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dokumentation Aufbewahrung Beweislast, Dora Und It Dienstleister Soweit Einschlaegig, Entlassmanagement 39 Abs 1A Sgb V** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,7 +57,7 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 - **DSGVO Art. 5, 17, 18** Datenschutz, Speicherbegrenzung, Loeschpflicht nach Ablauf.
 - **SGB X § 84** Aufbewahrung sozialrechtliche Unterlagen.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Aktenklassen identifizieren:** Aerztlich, Pflege, Aufklaerung, Bildgebung, OP, Anaesthesie, Blut, Labor.
 2. **Aufbewahrungsfrist je Klasse:** Standard 10 Jahre, Roentgen/Strahlentherapie 30 Jahre, Blut 30 Jahre, Geburten 30 Jahre (haftungsrechtlich BGH).
 3. **Form pruefen:** Analog vs. digital, ePA-Anbindung, Manipulationssicherheit.
@@ -189,7 +189,7 @@ Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussver
 - **SGB XI** Pflegeueberleitung.
 - **PatientenrechteG / BGB §§ 630a ff.** Behandlungsvertrag, Aufklaerung.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Einwilligung einholen:** Schriftliche oder dokumentierte Einwilligung zum Entlassmanagement bei Aufnahme oder spaetestens vor Entlassung.
 2. **Bedarfsabschaetzung:** Pflegeeinstufung, Reha-Bedarf, Soziotherapie, Hilfsmittel, Heilmittel, Arzneimittel.
 3. **Entlassplan erstellen:** Konkrete Massnahmen, Ansprechpartner, Termine.

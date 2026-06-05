@@ -1,13 +1,13 @@
 ---
 name: drg-code-drg-rheinisches-drg-bremer-drg
-description: "Nutze dies, wenn Drg Neu 001 Code Civil Linksrheinische Gebiete Bis Bgb, Drg Neu 002 Rheinisches Recht Gerichtsverfassung Und Notariat, Drg Neu 003 Bremer Handelsrecht Vor Hgb, Drg Neu 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel, Drg Neu 005 Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse und 1 weitere Themen im Plugin Deutsche Rechtsgeschichte konkret bearbeitet werden soll. Auslöser: Bitte Drg Neu 001 Code Civil Linksrheinische Gebiete Bis Bgb, Drg Neu 002 Rheinisches Recht Gerichtsverfassung Und Notariat, Drg Neu 003 Bremer Handelsrecht Vor Hgb, Drg Neu 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel, Drg Neu 005 Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse und 1 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Drg Neu 001 Code Civil Linksrheinische Gebiete Bis Bgb, Drg Neu 002 Rheinisches Recht Gerichtsverfassung Und Notariat, Drg Neu 003 Bremer Handelsrecht Vor Hgb, Drg Neu 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel, Drg N..."
+description: "Nutze dies bei Deutsche Rechtsgeschichte Code Civil Linksrheinische Gebiete Bis Bgb, Deutsche Rechtsgeschichte Rheinisches Recht Gerichtsverfassung Und Notariat, Deutsche Rechtsgeschichte Bremer Handelsrecht Vor Hgb, Deutsche Rechtsgeschichte Hamburger Handelsrecht Kaufmannspraxis Und Seehandel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Drg Neu 001 Code Civil Linksrheinische Gebiete Bis Bgb, Drg Neu 002 Rheinisches Recht Gerichtsverfassung Und Notariat, Drg Neu 003 Bremer Handelsrecht Vor Hgb, Drg Neu 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel, Drg Neu 005 Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse und 1 weitere Themen
+# Deutsche Rechtsgeschichte Code Civil Linksrheinische Gebiete Bis Bgb, Deutsche Rechtsgeschichte Rheinisches Recht Gerichtsverfassung Und Notariat, Deutsche Rechtsgeschichte Bremer Handelsrecht Vor Hgb, Deutsche Rechtsgeschichte Hamburger Handelsrecht Kaufmannspraxis Und Seehandel, Deutsche Rechtsgeschichte Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse und 1 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte Code Civil Linksrheinische Gebiete Bis Bgb, Deutsche Rechtsgeschichte Rheinisches Recht Gerichtsverfassung Und Notariat, Deutsche Rechtsgeschichte Bremer Handelsrecht Vor Hgb, Deutsche Rechtsgeschichte Hamburger Handelsrecht Kaufmannspraxis Und Seehandel, Deutsche Rechtsgeschichte Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -22,7 +22,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Drg Neu 001 Code Civil Linksrheinische Gebiete Bis Bgb, Drg Neu 002 Rheinisches Recht Gerichtsverfassung Und Notariat, Drg Neu 003 Bremer Handelsrecht Vor Hgb, Drg Neu 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel, Drg Neu 005 Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte Code Civil Linksrheinische Gebiete Bis Bgb, Deutsche Rechtsgeschichte Rheinisches Recht Gerichtsverfassung Und Notariat, Deutsche Rechtsgeschichte Bremer Handelsrecht Vor Hgb, Deutsche Rechtsgeschichte Hamburger Handelsrecht Kaufmannspraxis Und Seehandel, Deutsche Rechtsgeschichte Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -337,10 +337,10 @@ Skill fuer die Paulskirchenverfassung 1848/49 und ihre Bedeutung als Vorlaeuferi
 ## Fortwirkung
 
 - Verfassungsidee bleibt — Vorbild fuer:
-  - Preussische Verfassung 1850.
-  - Reichsverfassung 1871 (nur teilweise).
-  - **Weimarer Reichsverfassung 11.08.1919** — viele Grundrechte uebernommen.
-  - **Grundgesetz 23.05.1949** — Artikel 1-19 GG sind direkter Erbe.
+ - Preussische Verfassung 1850.
+ - Reichsverfassung 1871 (nur teilweise).
+ - **Weimarer Reichsverfassung 11.08.1919** — viele Grundrechte uebernommen.
+ - **Grundgesetz 23.05.1949** — Artikel 1-19 GG sind direkter Erbe.
 
 ## Patrimonialgerichte
 

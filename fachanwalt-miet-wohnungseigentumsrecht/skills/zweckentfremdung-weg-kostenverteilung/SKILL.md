@@ -1,33 +1,33 @@
 ---
 name: zweckentfremdung-weg-kostenverteilung
-description: "Nutze dies, wenn Spezial Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse prüfen.; Erstelle eine Arbeitsfassung zu Spezial Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse
+# Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-zweckentfremdung` | Zweckentfremdung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-zweckentfremdung` | Zweckentfremdung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `weg-kostenverteilung-ruecklage-und-gewerbeprivileg` | Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach § 16 Abs. 2 Satz 2 WEG unter Berücksichtigung BGH 14.02.2025 - V ZR 128/23. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Wohnraum-, Gewerberaum- und WEG-Recht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `weg-einfuehrung-organe-beschluesse` | Wohnungseigentumsrecht-Einfuehrung: Eigentuemerversammlung, Verwalter, Verwaltungsbeirat. Beschlussarten (einfache Mehrheit, qualifizierte Mehrheit, Allstimmigkeit), Beschlussfaehigkeit nach WEMoG-Reform 2020. Ungueltige und nichtige Beschluesse abgrenzen. Routet in beschlussanfechtung-spezial. |
 
 ## Arbeitsweg
 
-Für **Spezial Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivileg, Vergleichsverhandlung Strategie, Weg Einfuehrung Organe Beschluesse** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-zweckentfremdung`
 
-**Fokus:** Zweckentfremdung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Zweckentfremdung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 
 # Zweckentfremdung
@@ -42,9 +42,9 @@ Für **Spezial Zweckentfremdung, Weg Kostenverteilung Ruecklage Und Gewerbeprivi
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

@@ -1,19 +1,19 @@
 ---
 name: abtretung-adversarial-test
-description: "Nutze dies, wenn Abtretung, Adversarial Test Agb, Aenderungsvorbehalt 308, Agb Arbeitnehmerueberlassung Aueg im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Abtretung, Adversarial Test Agb, Aenderungsvorbehalt 308, Agb Arbeitnehmerueberlassung Aueg prüfen.; Erstelle eine Arbeitsfassung zu Abtretung, Adversarial Test Agb, Aenderungsvorbehalt 308, Agb Arbeitnehmerueberlassung Aueg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Abtretung, Adversarial Test Agb, Aenderungsvorbehalt 308, Agb Arbeitnehmerueberlassung Aueg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Abtretung, Adversarial Test Agb, Aenderungsvorbehalt 308, Agb Arbeitnehmerueberlassung Aueg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `abtretung` | Klausel-Spezialskill für Abtretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `abtretung` | Klausel-Fachmodul für Abtretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `adversarial-test-agb` | Output- und Streit-Skill für Adversarial Test AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 | `aenderungsvorbehalt-308` | Norm- und Dogmatik-Skill für Änderungsvorbehalt 308: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `agb-arbeitnehmerueberlassung-aueg` | AGB bei Arbeitnehmerueberlassung (AUeG). Skill klaert die AGB-rechtliche Pruefung der Standardvertraege zwischen Verleiher Entleiher und Leiharbeitnehmer Equal-Pay-Klauseln Branchenzuschlaege Verleihbarkeitsausschluss Vertragsstrafe bei Abwerbung. Aktualisierungen AUeG 2017 und Folgejudikatur. Liefert Pruefraster. |
@@ -27,7 +27,7 @@ Für **Abtretung, Adversarial Test Agb, Aenderungsvorbehalt 308, Agb Arbeitnehme
 
 ## 1. `abtretung`
 
-**Fokus:** Klausel-Spezialskill für Abtretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Abtretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 
 # Abtretung
@@ -166,12 +166,12 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Änderungsvorbehalt (§ 308 Nr. 4 BGB):**
-   - **Voraussetzungen:** (a) Änderung der versprochenen Leistung muss vereinbart sein, (b) sie ist nur zulässig, wenn dem Vertragspartner zumutbar - was nur bei einem Sachgrund gegeben ist, der die einseitige Änderungsbefugnis rechtfertigt, und (c) bei Berücksichtigung der Interessen des Verwenders.
-   - **Notwendige Konkretisierung:** Anlass und Umfang der Änderung müssen vorab beschrieben sein. Generalklauseln ("aus sachlichem Grund", "soweit erforderlich", "zur Anpassung an neue Entwicklungen") sind regelmäßig zu unbestimmt und damit unwirksam (BGH, ständige Rechtsprechung).
-   - **Hauptpflicht vs. Nebenleistung:** Änderungsvorbehalt für die Hauptleistung (Was wird geschuldet, zu welchem Preis) ist regelmäßig unwirksam, da Vertragskern. Bei Nebenleistungen (Schnittstellen, technische Spezifikationen, Modalitäten) eher zulässig.
-   - **Praxisbeispiel digitale Produkte:** § 327r BGB (Bereitstellungsänderung digitaler Produkte) verlangt: triftiger Grund, kostenfrei, Informationspflicht, ggf. Rücktrittsrecht des Verbrauchers.
-   - **B2B:** § 308 Nr. 4 BGB greift direkt nicht (§ 310 Abs. 1 BGB), aber Wertung über § 307 BGB. Im B2B wird ein Änderungsvorbehalt häufiger zugestanden, jedoch nur bei klarer Anlassbeschreibung und Reziprozität.
-   - **Pflicht zur Information:** Über die Änderung muss in angemessener Frist vorab informiert werden (z.B. 6 Wochen). Stillschweigende Zustimmungsfiktion ist Klauselverbot nach § 308 Nr. 5 BGB (B2C).
+ - **Voraussetzungen:** (a) Änderung der versprochenen Leistung muss vereinbart sein, (b) sie ist nur zulässig, wenn dem Vertragspartner zumutbar - was nur bei einem Sachgrund gegeben ist, der die einseitige Änderungsbefugnis rechtfertigt, und (c) bei Berücksichtigung der Interessen des Verwenders.
+ - **Notwendige Konkretisierung:** Anlass und Umfang der Änderung müssen vorab beschrieben sein. Generalklauseln ("aus sachlichem Grund", "soweit erforderlich", "zur Anpassung an neue Entwicklungen") sind regelmäßig zu unbestimmt und damit unwirksam (BGH, ständige Rechtsprechung).
+ - **Hauptpflicht vs. Nebenleistung:** Änderungsvorbehalt für die Hauptleistung (Was wird geschuldet, zu welchem Preis) ist regelmäßig unwirksam, da Vertragskern. Bei Nebenleistungen (Schnittstellen, technische Spezifikationen, Modalitäten) eher zulässig.
+ - **Praxisbeispiel digitale Produkte:** § 327r BGB (Bereitstellungsänderung digitaler Produkte) verlangt: triftiger Grund, kostenfrei, Informationspflicht, ggf. Rücktrittsrecht des Verbrauchers.
+ - **B2B:** § 308 Nr. 4 BGB greift direkt nicht (§ 310 Abs. 1 BGB), aber Wertung über § 307 BGB. Im B2B wird ein Änderungsvorbehalt häufiger zugestanden, jedoch nur bei klarer Anlassbeschreibung und Reziprozität.
+ - **Pflicht zur Information:** Über die Änderung muss in angemessener Frist vorab informiert werden (z.B. 6 Wochen). Stillschweigende Zustimmungsfiktion ist Klauselverbot nach § 308 Nr. 5 BGB (B2C).
 6. **Rechtsfolge:** Unwirksamkeit; § 308 Nr. 4 BGB ist Klauselverbot mit Wertungsmöglichkeit. Ersatzregel: Änderung nur einvernehmlich.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

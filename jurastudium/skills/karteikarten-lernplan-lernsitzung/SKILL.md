@@ -1,13 +1,13 @@
 ---
 name: karteikarten-lernplan-lernsitzung
-description: "Nutze dies, wenn Karteikarten, Lernplan, Lernsitzung im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Karteikarten, Lernplan, Lernsitzung prüfen.; Erstelle eine Arbeitsfassung zu Karteikarten, Lernplan, Lernsitzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Karteikarten, Lernplan, Lernsitzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Karteikarten, Lernplan, Lernsitzung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Karteikarten, Lernplan, Lernsitzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -100,7 +100,7 @@ Karteikarten aus bereitgestellten Materialien sind vorrangig. Definitionen oder 
 ```
 F: Was ist Beleidigung im Sinne des § 185 StGB?
 A: Beleidigung ist die Kundgabe der Miss- oder Nichtachtung gegenüber einer bestimmten Person
-   durch Erklärung oder tätliches Verhalten.
+ durch Erklärung oder tätliches Verhalten.
 Norm: § 185 StGB
 ```
 
@@ -133,14 +133,14 @@ Norm: § 185 StGB
 
 ```yaml
 sitzungs_verlauf:
-  - datum: 2026-05-08
-    rechtsgebiet: Schuldrecht BT
-    typ: karteikarten
-    karten_anzahl: 10
-    gewusst: 7
-    teilweise: 2
-    nicht_gewusst: 1
-    problemthemen: [§ 823 Abs. 2 BGB Schutzgesetze]
+ - datum: 2026-05-08
+ rechtsgebiet: Schuldrecht BT
+ typ: karteikarten
+ karten_anzahl: 10
+ gewusst: 7
+ teilweise: 2
+ nicht_gewusst: 1
+ problemthemen: [§ 823 Abs. 2 BGB Schutzgesetze]
 ```
 
 ## Beispiel
@@ -245,13 +245,13 @@ Nicht alle Fragen auf einmal. Eine stellen, Antwort abwarten, dann nächste.
 - **Schwächste Rechtsgebiete**: höchste Priorität, doppelte Stunden
 - **Stunden pro Woche**: realistisch, nicht maximal. Nach Angabe:
 
-  > "Sie haben [N] Stunden pro Woche genannt. Was füllt die restliche Zeit — Nebenjob (wie viele Stunden), Familie, Pendelzeit, Repetitorium-Präsenz, Sport, Sonstiges? Der Plan soll zu Ihrem Leben passen, nicht umgekehrt."
+ > "Sie haben [N] Stunden pro Woche genannt. Was füllt die restliche Zeit — Nebenjob (wie viele Stunden), Familie, Pendelzeit, Repetitorium-Präsenz, Sport, Sonstiges? Der Plan soll zu Ihrem Leben passen, nicht umgekehrt."
 
-  Antwort abwarten. Dann Plausibilitätsprüfung:
+ Antwort abwarten. Dann Plausibilitätsprüfung:
 
-  > "Das sind rund [X] Stunden täglich an [Z] Lerntagen, neben [Job + Familie + Pendeln]. Das erscheint [realistisch / eng / kaum tragbar]. Sollen wir die Stundenzahl anpassen, oder starten wir mit dieser Vorgabe und überprüfen nach zwei Wochen?"
+ > "Das sind rund [X] Stunden täglich an [Z] Lerntagen, neben [Job + Familie + Pendeln]. Das erscheint [realistisch / eng / kaum tragbar]. Sollen wir die Stundenzahl anpassen, oder starten wir mit dieser Vorgabe und überprüfen nach zwei Wochen?"
 
-  Diesen Schritt nie überspringen — auch wenn bereits eine Stundenzahl im Profil steht.
+ Diesen Schritt nie überspringen — auch wenn bereits eine Stundenzahl im Profil steht.
 
 - **Ruhetage**: Mindestens ein Ruhetag pro Woche. Ohne Ausnahme empfehlen.
 - **Lernmethoden**: Mehrauswahl. Skripten lesen / Karteikarten / Klausuren schreiben / Drillsitzungen / Wiederholung mit Lerngruppe. Den Stundenplan nach dem ausrichten, was der Studierende tatsächlich durchhält.
@@ -296,7 +296,7 @@ Examensklassiker in jeder Phase (§§ 280 ff., 823 BGB; §§ 242, 263 StGB; Erme
 ### Schritt 4: Plan schreiben
 
 ```yaml
-plan_typ: erstes_staatsexamen   # oder referendariat / zweites_staatsexamen
+plan_typ: erstes_staatsexamen # oder referendariat / zweites_staatsexamen
 bundesland: NRW
 pruefungstermin: 2026-07-15
 erstellt: 2026-05-08
@@ -304,56 +304,56 @@ zuletzt_aktualisiert: 2026-05-08
 wochen_bis_pruefung: 10
 stunden_pro_woche: 30
 tage_pro_woche: 5
-modus: normal                    # oder cram
+modus: normal # oder cram
 repetitorium: hemmer
 repetitorium_modus: ergänzung
 phasen:
-  - name: grundlagen
-    start: 2026-05-08
-    ende: 2026-06-13
-    schwerpunkt: Skript lesen, Karteikarten, 2 Klausuren/Woche
-  - name: intensiv
-    start: 2026-06-14
-    ende: 2026-07-10
-    schwerpunkt: Klausurenvolumen, alle Gebiete rotieren
-  - name: wiederholung
-    start: 2026-07-11
-    ende: 2026-07-14
-    schwerpunkt: Schwachstellen, Simulation
+ - name: grundlagen
+ start: 2026-05-08
+ ende: 2026-06-13
+ schwerpunkt: Skript lesen, Karteikarten, 2 Klausuren/Woche
+ - name: intensiv
+ start: 2026-06-14
+ ende: 2026-07-10
+ schwerpunkt: Klausurenvolumen, alle Gebiete rotieren
+ - name: wiederholung
+ start: 2026-07-11
+ ende: 2026-07-14
+ schwerpunkt: Schwachstellen, Simulation
 rechtsgebiete:
-  bgb_at:
-    prioritaet: hoch
-    stunden_pro_woche: 6
-    methoden: [karteikarten, klausuren, drill]
-  schuldrecht_at:
-    prioritaet: mittel
-    stunden_pro_woche: 4
-    methoden: [karteikarten, klausuren]
-  stgb_at:
-    prioritaet: hoch
-    stunden_pro_woche: 5
-    methoden: [klausuren, drill]
-  verwaltungsrecht:
-    prioritaet: mittel
-    stunden_pro_woche: 4
-    methoden: [skript, klausuren]
+ bgb_at:
+ prioritaet: hoch
+ stunden_pro_woche: 6
+ methoden: [karteikarten, klausuren, drill]
+ schuldrecht_at:
+ prioritaet: mittel
+ stunden_pro_woche: 4
+ methoden: [karteikarten, klausuren]
+ stgb_at:
+ prioritaet: hoch
+ stunden_pro_woche: 5
+ methoden: [klausuren, drill]
+ verwaltungsrecht:
+ prioritaet: mittel
+ stunden_pro_woche: 4
+ methoden: [skript, klausuren]
 tagesplan:
-  - datum: 2026-05-08
-    wochentag: Freitag
-    einheiten:
-      - rechtsgebiet: BGB AT
-        methode: skript_lesen
-        dauer_min: 90
-      - rechtsgebiet: BGB AT
-        methode: karteikarten
-        dauer_min: 45
-  - datum: 2026-05-09
-    wochentag: Samstag
-    einheiten:
-      - rechtsgebiet: StGB AT
-        methode: klausur
-        dauer_min: 120
-sitzungs_verlauf: []             # wird von session, karteikarten, drill, gutachten-übung ergänzt
+ - datum: 2026-05-08
+ wochentag: Freitag
+ einheiten:
+ - rechtsgebiet: BGB AT
+ methode: skript_lesen
+ dauer_min: 90
+ - rechtsgebiet: BGB AT
+ methode: karteikarten
+ dauer_min: 45
+ - datum: 2026-05-09
+ wochentag: Samstag
+ einheiten:
+ - rechtsgebiet: StGB AT
+ methode: klausur
+ dauer_min: 120
+sitzungs_verlauf: [] # wird von session, karteikarten, drill, gutachten-übung ergänzt
 ```
 
 ### Schritt 5: Bestätigung
@@ -482,14 +482,14 @@ Sitzungsbericht schreiben:
 
 ```yaml
 sitzungs_verlauf:
-  - datum: 2026-05-08
-    rechtsgebiet: Schuldrecht AT
-    typ: karteikarten          # oder klausurfrage / mündlich
-    fragen_anzahl: 10
-    richtig: 7
-    teilweise: 1
-    falsch: 2
-    schwache_themen: [§ 275 Abs. 1 BGB Unmöglichkeit, § 286 Abs. 2 BGB Verzug ohne Mahnung]
+ - datum: 2026-05-08
+ rechtsgebiet: Schuldrecht AT
+ typ: karteikarten # oder klausurfrage / mündlich
+ fragen_anzahl: 10
+ richtig: 7
+ teilweise: 1
+ falsch: 2
+ schwache_themen: [§ 275 Abs. 1 BGB Unmöglichkeit, § 286 Abs. 2 BGB Verzug ohne Mahnung]
 ```
 
 Falls Lernplan vorhanden: Sitzungsbericht an `lernplan.yaml` → `sitzungs_verlauf` anhängen.

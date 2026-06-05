@@ -1,13 +1,13 @@
 ---
 name: immissionsschutz-laerm-mandat-erstgespraech
-description: "Nutze dies, wenn Immissionsschutz Laerm Bauleitplanung, Mandat Erstgespraech Normenkontrolle, Muendliche Verhandlung Vgh Strategie im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Immissionsschutz Laerm Bauleitplanung, Mandat Erstgespraech Normenkontrolle, Muendliche Verhandlung Vgh Strategie prüfen.; Erstelle eine Arbeitsfassung zu Immissionsschutz Laerm Bauleitplanung, Mandat Erstgespraech Normenkontrolle, Muendliche Verhandlung Vgh Strategie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Immissionsschutz Laerm Bauleitplanung, Mandat Erstgespraech Normenkontrolle, Muendliche Verhandlung Vgh Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Immissionsschutz Laerm Bauleitplanung, Mandat Erstgespraech Normenkontrolle, Muendliche Verhandlung Vgh Strategie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Immissionsschutz Laerm Bauleitplanung, Mandat Erstgespraech Normenkontrolle, Muendliche Verhandlung Vgh Strategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -37,7 +37,7 @@ Lärm ist der häufigste materielle Hebel im Normenkontrollverfahren bei Innenst
 ## Schritt 1 — DIN 18005 Schallschutz im Städtebau
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Orientierungswerte (in dB(A))
 | Gebietstyp | Tag (6-22 Uhr) | Nacht (22-6 Uhr) |
@@ -259,18 +259,18 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 IV. Verstoß gegen § 50 BImSchG und § 2 Abs. 3 BauGB — Lärmermittlung unvollständig
 
 1. Kumulation Straßen- und Schienenlärm nicht berücksichtigt
-   Das Schallschutzgutachten der [BUERO] vom [DATUM] behandelt Straßenlärm und Schienenlärm
-   separat. Eine Summenpegel-Berechnung fehlt. Dies begründet ein Ermittlungsdefizit
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Das Schallschutzgutachten der [BUERO] vom [DATUM] behandelt Straßenlärm und Schienenlärm
+ separat. Eine Summenpegel-Berechnung fehlt. Dies begründet ein Ermittlungsdefizit
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. Außenwohnbereiche ungeschützt
-   Für die auf Blatt [X] ausgewiesenen Balkone und Terrassen in den Fensterlagen [HIMMELSRICHTUNG]
-   werden Pegelwerte von [Z] dB(A) tagsüber erreicht — [N] dB(A) über DIN 18005-Orientierungswert.
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Für die auf Blatt [X] ausgewiesenen Balkone und Terrassen in den Fensterlagen [HIMMELSRICHTUNG]
+ werden Pegelwerte von [Z] dB(A) tagsüber erreicht — [N] dB(A) über DIN 18005-Orientierungswert.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. Abwägungsdisproportionalität
-   Die Überschreitung beträgt [X] dB(A). Bei mehr als 5 dB(A) ohne aktive Schutzmaßnahmen
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Die Überschreitung beträgt [X] dB(A). Bei mehr als 5 dB(A) ohne aktive Schutzmaßnahmen
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klaeren ---
@@ -548,22 +548,22 @@ Die mündliche Verhandlung ist der entscheidende Auftritt. Senatsentscheidungen 
 
 ### Empfohlener Aufbau (15-30 Minuten)
 1. **Einleitung** (1-2 Minuten)
-   - Konkrete Mandantenbetroffenheit
-   - Schlüsselsatz: warum dieser Plan unwirksam ist
+ - Konkrete Mandantenbetroffenheit
+ - Schlüsselsatz: warum dieser Plan unwirksam ist
 2. **Sachverhalt** (2-3 Minuten)
-   - Nur die für den Senat wichtigen Tatsachen
-   - Verweis auf Schriftsatz für Details
+ - Nur die für den Senat wichtigen Tatsachen
+ - Verweis auf Schriftsatz für Details
 3. **Verfahrensfehler** (5-7 Minuten)
-   - Anstoßfunktion / Auslegung / Umweltbericht
-   - Subsumtion § 214 BauGB
+ - Anstoßfunktion / Auslegung / Umweltbericht
+ - Subsumtion § 214 BauGB
 4. **Materielle Fehler** (8-12 Minuten)
-   - Erforderlichkeit (wenn vorhanden) — kurz und scharf
-   - Abwägungsausfall (Vorfestlegung) — mit Belegen
-   - Abwägungsdefizit / Fehlgewichtung — pro Belang
-   - Disproportionalität — Ergebnis
+ - Erforderlichkeit (wenn vorhanden) — kurz und scharf
+ - Abwägungsausfall (Vorfestlegung) — mit Belegen
+ - Abwägungsdefizit / Fehlgewichtung — pro Belang
+ - Disproportionalität — Ergebnis
 5. **Schluss** (1-2 Minuten)
-   - Hilfsantrag Teilunwirksamkeit
-   - Antrag
+ - Hilfsantrag Teilunwirksamkeit
+ - Antrag
 
 ### Stil
 - Frei sprechen, nicht ablesen

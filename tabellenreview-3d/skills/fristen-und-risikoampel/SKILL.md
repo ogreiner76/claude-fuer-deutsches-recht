@@ -1,12 +1,12 @@
 ---
 name: fristen-und-risikoampel
-description: "Nutze dies, wenn Fristen- und Risikoampel im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Fristen- und Risikoampel prüfen.; Erstelle eine Arbeitsfassung zu Fristen- und Risikoampel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fristen- und Risikoampel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill markiert typische Risiken in juristischen Tabellen: Summenfehler, Versionsdrift, Spalteninkonsistenz, fehlende Belegspalte, falsche Aggregation, Insolvenz-Tabellenfristen.
+Dieser Arbeitsmodul markiert typische Risiken in juristischen Tabellen: Summenfehler, Versionsdrift, Spalteninkonsistenz, fehlende Belegspalte, falsche Aggregation, Insolvenz-Tabellenfristen.
 
 ## Tabellen-Risikoampel
 - **Rot:** Summen-Diskrepanz zwischen Footer und Detailzeilen; doppelte Buchung; Falsch-Rundungen über mehrere Stellen.
@@ -26,8 +26,8 @@ Dieser Workflow-Skill markiert typische Risiken in juristischen Tabellen: Summen
 - Pivot-Tabelle ohne dokumentiertes Datenmodell -- nicht reproduzierbar.
 - Direktes Drüber-Formatieren statt Bedingter Formatierung -- führt zu visueller, nicht logischer Konsistenz.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -37,7 +37,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard

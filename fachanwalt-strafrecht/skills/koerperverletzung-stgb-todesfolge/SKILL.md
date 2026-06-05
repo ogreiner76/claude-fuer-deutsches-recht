@@ -1,13 +1,13 @@
 ---
 name: koerperverletzung-stgb-todesfolge
-description: "Nutze dies, wenn Strafrecht Spezial Koerperverletzung 223 Stgb Grund, Strafrecht Spezial Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Spezial Konkursrechtliche Anfechtungsbezuege, Strafrecht Spezial Kreditbetrug 265B Stgb, Strafrecht Spezial Kriminologie Deliktphaenomenologie und 5 weitere Themen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial Koerperverletzung 223 Stgb Grund, Strafrecht Spezial Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Spezial Konkursrechtliche Anfechtungsbezuege, Strafrecht Spezial Kreditbetrug 265B Stgb, Strafrecht Spezial Kriminologie Deliktphaenomenologie und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial Koerperverletzung 223 Stgb Grund, Strafrecht Spezial Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Spezial Konkursrechtliche Anfechtungsbezuege, Strafrecht Spezial Kreditbetrug 265B Stgb, Strafrecht Spezial Kriminologie Deliktphaenomenologie und 5 weit..."
+description: "Nutze dies bei Strafrecht Koerperverletzung 223 Stgb Grund, Strafrecht Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Konkursrechtliche Anfechtungsbezuege, Strafrecht Kreditbetrug 265b Stgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafrecht Spezial Koerperverletzung 223 Stgb Grund, Strafrecht Spezial Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Spezial Konkursrechtliche Anfechtungsbezuege, Strafrecht Spezial Kreditbetrug 265B Stgb, Strafrecht Spezial Kriminologie Deliktphaenomenologie und 5 weitere Themen
+# Strafrecht Koerperverletzung 223 Stgb Grund, Strafrecht Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Konkursrechtliche Anfechtungsbezuege, Strafrecht Kreditbetrug 265B Stgb, Strafrecht Kriminologie Deliktphaenomenologie und 5 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Koerperverletzung 223 Stgb Grund, Strafrecht Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Konkursrechtliche Anfechtungsbezuege, Strafrecht Kreditbetrug 265B Stgb, Strafrecht Kriminologie Deliktphaenomenologie und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -26,7 +26,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Koerperverletzung 223 Stgb Grund, Strafrecht Spezial Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Spezial Konkursrechtliche Anfechtungsbezuege, Strafrecht Spezial Kreditbetrug 265B Stgb, Strafrecht Spezial Kriminologie Deliktphaenomenologie und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Koerperverletzung 223 Stgb Grund, Strafrecht Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Konkursrechtliche Anfechtungsbezuege, Strafrecht Kreditbetrug 265B Stgb, Strafrecht Kriminologie Deliktphaenomenologie und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -616,7 +616,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - **Lebenslauf-kriminologisch argumentieren.** Wendepunkte im Mandantenleben identifizieren (neue Partnerschaft, neuer Job, Vaterschaft) und als Resozialisierungschance darstellen.
 - **Etikettierung adressieren.** Haftvermeidung mit dem Argument, dass Haft das Risiko erhoeht, weil sie soziale Bindungen zerstoert und ein delinquentes Lernfeld bietet.
 - **Statistik nuechtern.** Allgemeine Statistiken belegen Tendenzen, ersetzen aber keine Einzelfallpruefung. Beweise immer am Mandanten orientiert.
-- **Prognosegutachten methodisch verstehen.** Kriminologische Prognoseverfahren (PCL-R, HCR-20, FOTRES — siehe Spezialskill) sind statistisch fundiert und Standard. Wenn Gutachten ungueltig methodisiert ist, ist es angreifbar.
+- **Prognosegutachten methodisch verstehen.** Kriminologische Prognoseverfahren (PCL-R, HCR-20, FOTRES — siehe Fachmodul) sind statistisch fundiert und Standard. Wenn Gutachten ungueltig methodisiert ist, ist es angreifbar.
 - **Schnittstellen erkennen.** Aussagepsychologie ist nicht Kriminologie. Beide ergaenzen sich aber in der Beweiswuerdigung.
 
 ## Trade-off-Matrix
@@ -764,10 +764,10 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 1. **PCL-R (Hare Psychopathy Checklist — Revised).** 20-Item-Instrument zur Erfassung psychopathischer Persoenlichkeitszuege (interpersonal, affektiv, Lebensstil, antisozial). Hohe Punktwerte (in den USA ab 30) gelten als prognostisch ungunstig fuer Gewaltrueckfall. In Deutschland wird die PCL-R modifiziert verwendet; Cut-off-Werte unter US-Standards. Kritik: Persoenlichkeitskonstrukt mit kulturellem Bias.
 
 2. **HCR-20 (Historical, Clinical, Risk Management 20).** Drittes-Generationen-Instrument mit drei Skalen:
-   - Historical (H1 bis H10): zehn statische historische Faktoren (Gewalt-Vorgeschichte, junge Erstdelinquenz, Substanzmissbrauch).
-   - Clinical (C1 bis C5): fuenf klinische Faktoren (mangelnde Einsicht, Stoerung, Impulsivitaet).
-   - Risk Management (R1 bis R5): fuenf zukunftsbezogene Faktoren (Wohnsituation, Unterstuetzung, Behandlungserfolg).
-   Bewertung als Niedrig, Mittel, Hoch. Standard fuer allgemeine Gewaltprognose.
+ - Historical (H1 bis H10): zehn statische historische Faktoren (Gewalt-Vorgeschichte, junge Erstdelinquenz, Substanzmissbrauch).
+ - Clinical (C1 bis C5): fuenf klinische Faktoren (mangelnde Einsicht, Stoerung, Impulsivitaet).
+ - Risk Management (R1 bis R5): fuenf zukunftsbezogene Faktoren (Wohnsituation, Unterstuetzung, Behandlungserfolg).
+ Bewertung als Niedrig, Mittel, Hoch. Standard fuer allgemeine Gewaltprognose.
 
 3. **FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System, Urbaniok).** Differenziertes Verfahren mit Risiko- und Therapie-Bewertungsachsen. Verwendet im Massregelvollzug und Strafvollzug.
 
@@ -848,20 +848,20 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 **Phasen einer Tat (kriminologisch).**
 
 1. Vortat-Phase:
-   - Motivlage (Eifersucht, Habgier, Vergeltung, Frustration, Drogen).
-   - Selektion (Opfer, Tatort, Tatzeit).
-   - Vorbereitung (Beschaffung Tatwerkzeug, Auskundschaftung, Mitkomplotteure).
-   - Tatentschlussbildung.
+ - Motivlage (Eifersucht, Habgier, Vergeltung, Frustration, Drogen).
+ - Selektion (Opfer, Tatort, Tatzeit).
+ - Vorbereitung (Beschaffung Tatwerkzeug, Auskundschaftung, Mitkomplotteure).
+ - Tatentschlussbildung.
 
 2. Tat-Phase:
-   - Anlauf (Annaeherung an Opfer/Tatort).
-   - Hauptphase (eigentliche Tatausfuehrung).
-   - Auslauf (Verlassen des Tatorts, Beweismittelvernichtung).
+ - Anlauf (Annaeherung an Opfer/Tatort).
+ - Hauptphase (eigentliche Tatausfuehrung).
+ - Auslauf (Verlassen des Tatorts, Beweismittelvernichtung).
 
 3. Nachtat-Phase:
-   - Fluchtverhalten, Nachtatverhalten.
-   - Spurenbereinigung, Alibis, Falschverdaechtigung.
-   - Emotionale Reaktion (Reue, Verdraengung, Distanzierung).
+ - Fluchtverhalten, Nachtatverhalten.
+ - Spurenbereinigung, Alibis, Falschverdaechtigung.
+ - Emotionale Reaktion (Reue, Verdraengung, Distanzierung).
 
 **Affekttat vs. Plantat.** Kriminologisch nicht trennscharf, sondern Kontinuum. Indikatoren fuer Affekttat:
 - Hochemotionale Vortatsituation (Streit, Provokation).

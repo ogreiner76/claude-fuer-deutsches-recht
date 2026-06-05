@@ -1,13 +1,13 @@
 ---
 name: ki-virtual-kinderkleidung-besondere
-description: "Nutze dies, wenn Ki Virtual Try On Models, Kinderkleidung Und Besondere Sicherheitsrisiken im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Ki Virtual Try On Models, Kinderkleidung Und Besondere Sicherheitsrisiken prüfen.; Erstelle eine Arbeitsfassung zu Ki Virtual Try On Models, Kinderkleidung Und Besondere Sicherheitsrisiken.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ki Virtual Try On Models, Kinderkleidung Und Besondere Sicherheitsrisiken: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ki Virtual Try On Models, Kinderkleidung Und Besondere Sicherheitsrisiken
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ki Virtual Try On Models, Kinderkleidung Und Besondere Sicherheitsrisiken** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

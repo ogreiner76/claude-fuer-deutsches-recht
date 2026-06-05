@@ -1,6 +1,6 @@
 ---
 name: beirat-compliance-und-internal-investigation
-description: "Nutze dies, wenn Beirat Compliance Und Internal Investigation im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Compliance Und Internal Investigation prüfen.; Erstelle eine Arbeitsfassung zu Beirat Compliance Und Internal Investigation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Compliance Und Internal Investigation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Compliance Und Internal Investigation

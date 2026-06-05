@@ -39,7 +39,7 @@ Erzeuge nach den Startfragen eine knappe Mandatsmatrix:
 
 | Lage | Nächste Skills |
 |---|---|
-| Unklarer Auftrag | `orientierung-drafting-triage`, dann passender Spezial-Skill |
+| Unklarer Auftrag | `orientierung-drafting-triage`, dann passender Fachmodul |
 | Stil noch unklar | `deutscher-kanzleistil-kalibrieren`, `stil-und-ton-juristische-texte` |
 | Word-Dokument chaotisch | `word-dokument-finish-und-layout`, `finaler-writing-quality-gate` |
 | Partnerkommentare im Dokument | `partner-kommentar-umsetzen`, `revisions-prozess-redlines-comparison` |

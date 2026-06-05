@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Reservistenrecht und Zivilschutzrecht
-Ressort:            BMVg
-Kernnormen:         ResG; SG; ZSKG; KritisDachG; BBK-G.
-Akteure/Aufsicht:   Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.
-EU/Voelkerrecht:    EU-Katastrophenschutzmechanismus.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmvg; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Reservistenrecht und Zivilschutzrecht
+Ressort: BMVg
+Kernnormen: ResG; SG; ZSKG; KritisDachG; BBK-G.
+Akteure/Aufsicht: Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.
+EU/Voelkerrecht: EU-Katastrophenschutzmechanismus.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -20,27 +20,27 @@ wohnhaft [Adresse],
 
 bevollmaechtige hiermit
 
-  [Vor- und Nachname Vollmachtnehmer],
-  geboren am [Geburtsdatum],
-  wohnhaft [Adresse],
+ [Vor- und Nachname Vollmachtnehmer],
+ geboren am [Geburtsdatum],
+ wohnhaft [Adresse],
 
 mich in allen Angelegenheiten betreffend meine Anspruechen aus dem Flug
 
-  Buchungscode (PNR): [PNR]
-  Flugnummer:        [Flugnummer]
-  Datum:             [Datum]
-  Strecke:           [Abflughafen] nach [Zielflughafen]
-  Operating Carrier: [Airline]
+ Buchungscode (PNR): [PNR]
+ Flugnummer: [Flugnummer]
+ Datum: [Datum]
+ Strecke: [Abflughafen] nach [Zielflughafen]
+ Operating Carrier: [Airline]
 
 zu vertreten. Die Vollmacht umfasst insbesondere:
 
-  - Vorgerichtliche Geltendmachung der Ausgleichsanspruechen nach
-    VO (EG) Nr. 261/2004 gegenüber der Airline
-  - Korrespondenz mit der Airline und ihrer Kundenservice
-  - Anrufung der Schlichtungsstelle Luftverkehr SOEP
-  - Klageerhebung beim zuständigen Amtsgericht
-  - Empfangnahme von Zahlungen und Schriftverkehr
-  - Untervollmacht an einen Rechtsanwalt sowie Vertretung im Rechtsstreit
+ - Vorgerichtliche Geltendmachung der Ausgleichsanspruechen nach
+ VO (EG) Nr. 261/2004 gegenüber der Airline
+ - Korrespondenz mit der Airline und ihrer Kundenservice
+ - Anrufung der Schlichtungsstelle Luftverkehr SOEP
+ - Klageerhebung beim zuständigen Amtsgericht
+ - Empfangnahme von Zahlungen und Schriftverkehr
+ - Untervollmacht an einen Rechtsanwalt sowie Vertretung im Rechtsstreit
 
 Diese Vollmacht gilt bis zum Widerruf in Textform.
 
@@ -60,16 +60,16 @@ Vollmacht für minderjähriges Kind
 
 Wir, die Erziehungsberechtigten
 
-  [Name Mutter / Vater 1], [Geburtsdatum], [Adresse]
-  [Name Vater / Mutter 2], [Geburtsdatum], [Adresse]
+ [Name Mutter / Vater 1], [Geburtsdatum], [Adresse]
+ [Name Vater / Mutter 2], [Geburtsdatum], [Adresse]
 
 vertreten unser minderjähriges Kind
 
-  [Vor- und Nachname Kind], [Geburtsdatum]
+ [Vor- und Nachname Kind], [Geburtsdatum]
 
 und bevollmaechtigen hiermit
 
-  [Vor- und Nachname Vollmachtnehmer]
+ [Vor- und Nachname Vollmachtnehmer]
 
 in dessen Namen die Anspruechen aus dem Flug [PNR / Flugnummer / Datum]
 nach VO (EG) Nr. 261/2004 geltend zu machen — einschließlich vorgerichtlich,
@@ -78,8 +78,8 @@ SOEP und gerichtlich.
 Ort Datum
 ___________
 
-___________________________________________     ___________________________________________
-[Mutter / Vater 1]                                [Vater / Mutter 2]
+___________________________________________ ___________________________________________
+[Mutter / Vater 1] [Vater / Mutter 2]
 ```
 
 ## Datenschutzhinweis (Art. 13 DSGVO)

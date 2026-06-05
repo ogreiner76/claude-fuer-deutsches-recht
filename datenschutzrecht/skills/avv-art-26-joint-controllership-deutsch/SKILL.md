@@ -28,30 +28,30 @@ Klauselgeruest fuer eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 ## Ablauf / Checkliste
 
 1. **Konstellation klaeren.**
-   - Welche Akteure?
-   - Welche Verarbeitung ist betroffen?
-   - Welche Zwecke werden gemeinsam verfolgt?
+ - Welche Akteure?
+ - Welche Verarbeitung ist betroffen?
+ - Welche Zwecke werden gemeinsam verfolgt?
 
 2. **Aufgabenverteilung.**
-   - Informationspflichten Art. 13/14 DSGVO – wer informiert wen?
-   - Betroffenenrechte Art. 15 bis 22 DSGVO – wer bearbeitet?
-   - Sicherheitsmassnahmen Art. 32 DSGVO – wer trifft was?
-   - Meldepflichten Art. 33, 34 DSGVO – wer meldet was?
-   - DSFA Art. 35 DSGVO – wer fuehrt durch?
-   - Vorabkonsultation Art. 36 DSGVO – wer fuehrt durch?
-   - Verarbeitungsverzeichnis Art. 30 DSGVO – wer fuehrt?
+ - Informationspflichten Art. 13/14 DSGVO – wer informiert wen?
+ - Betroffenenrechte Art. 15 bis 22 DSGVO – wer bearbeitet?
+ - Sicherheitsmassnahmen Art. 32 DSGVO – wer trifft was?
+ - Meldepflichten Art. 33, 34 DSGVO – wer meldet was?
+ - DSFA Art. 35 DSGVO – wer fuehrt durch?
+ - Vorabkonsultation Art. 36 DSGVO – wer fuehrt durch?
+ - Verarbeitungsverzeichnis Art. 30 DSGVO – wer fuehrt?
 
 3. **Anlaufstelle festlegen.**
-   - Eine zentrale Anlaufstelle fuer Betroffene oder mehrere?
-   - Empfehlung: zentrale Anlaufstelle, um Art. 26 Abs. 3 DSGVO praktisch handhabbar zu machen.
+ - Eine zentrale Anlaufstelle fuer Betroffene oder mehrere?
+ - Empfehlung: zentrale Anlaufstelle, um Art. 26 Abs. 3 DSGVO praktisch handhabbar zu machen.
 
 4. **Transparenz nach Art. 26 Abs. 2 DSGVO.**
-   - "Wesentliche Aspekte" der Vereinbarung muessen den Betroffenen zugaenglich gemacht werden.
-   - Praxis: Veroeffentlichung in der Datenschutzerklaerung oder als eigenes Dokument auf der Webseite.
+ - "Wesentliche Aspekte" der Vereinbarung muessen den Betroffenen zugaenglich gemacht werden.
+ - Praxis: Veroeffentlichung in der Datenschutzerklaerung oder als eigenes Dokument auf der Webseite.
 
 5. **Innenregress.**
-   - Trotz Gesamtschuld nach Art. 82 Abs. 4 DSGVO koennen die Parteien intern den Verschuldensanteil regeln.
-   - Cap-Diskussion analog zum AVV (Querverweis: avv-haftung-risikoallokation-art-82-dsgvo).
+ - Trotz Gesamtschuld nach Art. 82 Abs. 4 DSGVO koennen die Parteien intern den Verschuldensanteil regeln.
+ - Cap-Diskussion analog zum AVV (Querverweis: avv-haftung-risikoallokation-art-82-dsgvo).
 
 ## Mustertext / Template
 

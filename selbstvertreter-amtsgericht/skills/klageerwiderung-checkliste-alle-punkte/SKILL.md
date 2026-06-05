@@ -110,7 +110,7 @@ Antraege:
 2. Die Kosten des Rechtsstreits traegt die Klaegerin.
 
 3. Das Urteil wird fuer vorlaeufig vollstreckbar erklaert
-   (auch ohne Sicherheitsleistung).
+ (auch ohne Sicherheitsleistung).
 ```
 
 ### Schritt 8 — Hilfsantraege bei Teil-Begruendetheit

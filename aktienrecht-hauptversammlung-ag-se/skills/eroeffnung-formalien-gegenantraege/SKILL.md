@@ -1,22 +1,22 @@
 ---
 name: eroeffnung-formalien-gegenantraege
-description: "Nutze dies, wenn Eroeffnung Und Formalien, Gegenantraege Und Wahlvorschlaege, Genussscheine Und Sonderrechte, Grenzueberschreitende Aktionaere im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Eroeffnung Und Formalien, Gegenantraege Und Wahlvorschlaege, Genussscheine Und Sonderrechte, Grenzueberschreitende Aktionaere prüfen.; Erstelle eine Arbeitsfassung zu Eroeffnung Und Formalien, Gegenantraege Und Wahlvorschlaege, Genussscheine Und Sonderrechte, Grenzueberschreitende Aktionaere.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eroeffnung Und Formalien, Gegenantraege Und Wahlvorschlaege, Genussscheine Und Sonderrechte, Grenzueberschreitende Aktionaere: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eroeffnung Und Formalien, Gegenantraege Und Wahlvorschlaege, Genussscheine Und Sonderrechte, Grenzueberschreitende Aktionaere
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eroeffnung Und Formalien, Gegenantraege Und Wahlvorschlaege, Genussscheine Und Sonderrechte, Grenzueberschreitende Aktionaere** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `eroeffnung-und-formalien` | Hauptversammlung AG und SE: Eroeffnung Und Formalien; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gegenantraege-und-wahlvorschlaege` | Hauptversammlung AG und SE: Gegenantraege Und Wahlvorschlaege; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `genussscheine-und-sonderrechte` | Hauptversammlung AG und SE: Genussscheine Und Sonderrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `grenzueberschreitende-aktionaere` | Hauptversammlung AG und SE: Grenzueberschreitende Aktionaere; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `eroeffnung-und-formalien` | Hauptversammlung AG und SE: Eroeffnung Und Formalien; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gegenantraege-und-wahlvorschlaege` | Hauptversammlung AG und SE: Gegenantraege Und Wahlvorschlaege; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `genussscheine-und-sonderrechte` | Hauptversammlung AG und SE: Genussscheine Und Sonderrechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `grenzueberschreitende-aktionaere` | Hauptversammlung AG und SE: Grenzueberschreitende Aktionaere; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Eroeffnung Und Formalien, Gegenantraege Und Wahlvorschlaege, Genussschein
 
 ## 1. `eroeffnung-und-formalien`
 
-**Fokus:** Hauptversammlung AG und SE: Eroeffnung Und Formalien; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Eroeffnung Und Formalien; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Eroeffnung Und Formalien
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `gegenantraege-und-wahlvorschlaege`
 
-**Fokus:** Hauptversammlung AG und SE: Gegenantraege Und Wahlvorschlaege; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Gegenantraege Und Wahlvorschlaege; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gegenantraege Und Wahlvorschlaege
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `genussscheine-und-sonderrechte`
 
-**Fokus:** Hauptversammlung AG und SE: Genussscheine Und Sonderrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Genussscheine Und Sonderrechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Genussscheine Und Sonderrechte
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `grenzueberschreitende-aktionaere`
 
-**Fokus:** Hauptversammlung AG und SE: Grenzueberschreitende Aktionaere; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Grenzueberschreitende Aktionaere; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Grenzueberschreitende Aktionaere
 

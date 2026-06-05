@@ -1,13 +1,13 @@
 ---
 name: heimversorgung-versorgungsvertrag-mietvertrag
-description: "Nutze dies, wenn Heimversorgung Versorgungsvertrag, Mietvertrag Apothekenstandort Konkurrenzschutz, Substitution Rabattvertrag Aut Idem im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Heimversorgung Versorgungsvertrag, Mietvertrag Apothekenstandort Konkurrenzschutz, Substitution Rabattvertrag Aut Idem prüfen.; Erstelle eine Arbeitsfassung zu Heimversorgung Versorgungsvertrag, Mietvertrag Apothekenstandort Konkurrenzschutz, Substitution Rabattvertrag Aut Idem.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Heimversorgung Versorgungsvertrag, Mietvertrag Apothekenstandort Konkurrenzschutz, Substitution Rabattvertrag Aut Idem: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Heimversorgung Versorgungsvertrag, Mietvertrag Apothekenstandort Konkurrenzschutz, Substitution Rabattvertrag Aut Idem
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Heimversorgung Versorgungsvertrag, Mietvertrag Apothekenstandort Konkurrenzschutz, Substitution Rabattvertrag Aut Idem** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -68,13 +68,13 @@ Eingaben:
 - **DSGVO Art. 9, 28:** Verarbeitung Gesundheitsdaten, Auftragsverarbeitung.
 - BGH staend. Rspr. zur Heimversorgung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Vertragsinhalt prüfen:**
-   - Schriftform, Unterschrift Heimleitung + Apothekenleitung.
-   - Pflichten Apotheke (Beratung, Visite, Notdienst, Verblisterung).
-   - Patientenwahlfreiheit gesondert betont.
-   - Vergütung: ausschliesslich für tatsächliche Leistungen, marktüblich.
+ - Schriftform, Unterschrift Heimleitung + Apothekenleitung.
+ - Pflichten Apotheke (Beratung, Visite, Notdienst, Verblisterung).
+ - Patientenwahlfreiheit gesondert betont.
+ - Vergütung: ausschliesslich für tatsächliche Leistungen, marktüblich.
 2. **Anzeige Landesaufsicht:** § 12a ApoG verlangt unverzügliche Anzeige.
 3. **Patientenwahlfreiheit:** Heim muss Bewohner über Freiheit informieren; Apotheke darf nicht als "Vertragsapotheke" durch Heimleitung zugewiesen werden.
 4. **Geldflüsse:** Keine "Versorgungspauschale" als verdeckte Zuweisung. Verblisterungsentgelt nur auf Patient/GKV-Seite, nicht ans Heim.
@@ -223,7 +223,7 @@ Eingaben:
 - BSG und LSG, staend. Rspr. zu Retaxation und Pharmazeutische Bedenken.
 - BGH, staend. Rspr. zur Substitution.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Aut-idem-Kreuz prüfen:** Wenn gesetzt — keine Substitution (Apotheker:in darf nicht abweichen).
 2. **Wirkstoff, Stärke, Packungsgrösse, Indikationsbereich, Galenik** identifizieren.

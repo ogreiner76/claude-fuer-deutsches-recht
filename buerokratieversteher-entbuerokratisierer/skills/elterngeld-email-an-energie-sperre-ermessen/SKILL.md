@@ -1,13 +1,13 @@
 ---
 name: elterngeld-email-an-energie-sperre-ermessen
-description: "Nutze dies, wenn Elterngeld, Email An Behörde, Energie Sperre Grundversorgung, Ermessen Verstehen im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Elterngeld, Email An Behörde, Energie Sperre Grundversorgung, Ermessen Verstehen prüfen.; Erstelle eine Arbeitsfassung zu Elterngeld, Email An Behörde, Energie Sperre Grundversorgung, Ermessen Verstehen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Elterngeld, Email An Behörde, Energie Sperre Grundversorgung, Ermessen Verstehen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Elterngeld, Email An Behörde, Energie Sperre Grundversorgung, Ermessen Verstehen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Elterngeld, Email An Behörde, Energie Sperre Grundversorgung, Ermessen Verstehen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -41,7 +41,7 @@ Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Besche
 - Antrag bei Elterngeldstelle (Land); rückwirkend nur drei Monate (§ 7 Abs. 1 BEEG) — zeitnah stellen! Bescheid nach §§ 31, 35 SGB X erlässt Verwaltungsakt.
 - Praktiker-Tipp: Steuerklassenwahl vor Geburt optimieren (Steuerklasse III für höheres Elterngeld, sechs Monate vor Geburt umstellen); bei Partnerschaftsbonus genaue Wochenstunden­tracker (zwischen 24 und 32) — bei Verstoß Rückforderung. Bei Selbstständigen Einkommensermittlung aus Steuerbescheid (§ 2d BEEG).
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -81,7 +81,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Formuliert kurze, sachliche E-Mails an Behörden mit Aktenzeichen, Anliegen, Fristwahrung, Bitte um Eingangsbestätigung und ohne unnötige Nebentatsachen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -121,7 +121,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Sperrankündigung, Sozialleistung, Ratenplan, Schlichtung, Eilbedürftigkeit und Nachweise.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -175,14 +175,14 @@ Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der N
 - **GG Art. 3 Abs. 1** Gleichbehandlung — Selbstbindung der Verwaltung durch Verwaltungspraxis.
 - **VwGO § 114 S. 2** Nachholung der Ermessensbegruendung im verwaltungsgerichtlichen Verfahren.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Norm pruefen:** "Kann" = Ermessen; "soll" = intendiertes Ermessen (Regelfall Ermessen ausgeuebt); "ist" = gebunden.
 2. **Ermessensspielraum kartieren:** Welche Belange muss die Behoerde abwaegen (privat/oeffentlich, Verhaeltnismaessigkeit)?
 3. **Begruendung pruefen:** Sind die abgewogenen Belange erkennbar? § 39 VwVfG.
 4. **Ermessensfehler suchen:**
-   - **Ermessensnichtgebrauch** (Behoerde glaubt gebunden zu sein)
-   - **Ermessensueberschreitung** (Ergebnis ausserhalb gesetzlicher Grenze)
-   - **Ermessensfehlgebrauch** (sachfremde Erwaegung, fehlende Belange)
+ - **Ermessensnichtgebrauch** (Behoerde glaubt gebunden zu sein)
+ - **Ermessensueberschreitung** (Ergebnis ausserhalb gesetzlicher Grenze)
+ - **Ermessensfehlgebrauch** (sachfremde Erwaegung, fehlende Belange)
 5. **Selbstbindung pruefen:** Gleichbehandlung mit aehnlichen Faellen (Art. 3 GG); Verwaltungsvorschriften.
 6. **Argumentation:** Ermessensfehler explizit benennen; mildere Mittel vorschlagen.
 

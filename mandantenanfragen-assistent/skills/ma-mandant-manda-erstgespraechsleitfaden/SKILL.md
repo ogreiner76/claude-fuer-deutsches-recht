@@ -1,13 +1,13 @@
 ---
 name: ma-mandant-manda-erstgespraechsleitfaden
-description: "Nutze dies, wenn Ma Mandant Mit Betreuung, Manda Erstgespraechsleitfaden Checkliste, Manda Erstkontakt Triagebogen Bauleiter im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Bitte Ma Mandant Mit Betreuung, Manda Erstgespraechsleitfaden Checkliste, Manda Erstkontakt Triagebogen Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Ma Mandant Mit Betreuung, Manda Erstgespraechsleitfaden Checkliste, Manda Erstkontakt Triagebogen Bauleiter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ma Mandant Mit Betreuung, Manda Erstgespraechsleitfaden Checkliste, Manda Erstkontakt Triagebogen Bauleiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ma Mandant Mit Betreuung, Manda Erstgespraechsleitfaden Checkliste, Manda Erstkontakt Triagebogen Bauleiter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ma Mandant Mit Betreuung, Manda Erstgespraechsleitfaden Checkliste, Manda Erstkontakt Triagebogen Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

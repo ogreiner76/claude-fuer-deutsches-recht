@@ -1,13 +1,13 @@
 ---
 name: gr-einfuehrung-gr-mitbewerberabmahnung-gr
-description: "Nutze dies, wenn Gr Einfuehrung Saeulen, Gr Mitbewerberabmahnung Aktivlegitimation Spezial, Gr Uebersetzung Marke Osterreich Schweiz Spezial im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Gr Einfuehrung Saeulen, Gr Mitbewerberabmahnung Aktivlegitimation Spezial, Gr Uebersetzung Marke Osterreich Schweiz Spezial prüfen.; Erstelle eine Arbeitsfassung zu Gr Einfuehrung Saeulen, Gr Mitbewerberabmahnung Aktivlegitimation Spezial, Gr Uebersetzung Marke Osterreich Schweiz Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gr Einfuehrung Saeulen, Gr Mitbewerberabmahnung Aktivlegitimation Spezial, Gr Uebersetzung Marke Osterreich Schweiz Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gr Einfuehrung Saeulen, Gr Mitbewerberabmahnung Aktivlegitimation Spezial, Gr Uebersetzung Marke Osterreich Schweiz Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gr Einfuehrung Saeulen, Gr Mitbewerberabmahnung Aktivlegitimation Spezial, Gr Uebersetzung Marke Osterreich Schweiz Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -31,7 +31,7 @@ Für **Gr Einfuehrung Saeulen, Gr Mitbewerberabmahnung Aktivlegitimation Spezial
 # Einführung: Die fünf Säulen des gewerblichen Rechtsschutzes
 
 ## Aufgabe
-Dieser Skill vermittelt den systematischen Überblick über den gewerblichen Rechtsschutz: Rechtsgebiete, Behörden, Schutzrechte, Verfahrensarten und Routing in die passenden Spezial-Skills.
+Dieser Skill vermittelt den systematischen Überblick über den gewerblichen Rechtsschutz: Rechtsgebiete, Behörden, Schutzrechte, Verfahrensarten und Routing in die passenden Fachmodule.
 
 ## Die fünf Säulen
 
@@ -117,7 +117,7 @@ Dieser Skill vermittelt den systematischen Überblick über den gewerblichen Rec
 
 Besondere praktische Erfahrungen in **drei der fünf Bereiche**: Markenrecht, Patentrecht, Gebrauchsmusterrecht, Designrecht, Urheberrecht, Wettbewerbsrecht – davon mind. zwei IP-Bereiche.
 
-## Routing in Spezialskills
+## Routing in Fachmodule
 
 | Falltyp | Empfohlener Skill |
 |---|---|
@@ -128,7 +128,7 @@ Besondere praktische Erfahrungen in **drei der fünf Bereiche**: Markenrecht, Pa
 | EV beantragen oder vollziehen | `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` |
 | UrhG / KI | `ki-trainingsdaten-und-urheberrecht-spezial` |
 
-## Kaltstart
+## Einstieg
 1. Welches Schutzrecht oder welcher Rechtsbereich ist betroffen?
 2. Handelt es sich um Anmeldung, Durchsetzung oder Abwehr?
 3. Welche Behörde / welches Gericht ist involviert?
@@ -144,7 +144,7 @@ Besondere praktische Erfahrungen in **drei der fünf Bereiche**: Markenrecht, Pa
 
 ## Was dieser Skill nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
-- Kein Einzel-Rechtsgebiet-Tiefgang (dafür Spezial-Skills nutzen).
+- Kein Einzel-Rechtsgebiet-Tiefgang (dafür Fachmodule nutzen).
 
 ## 2. `gr-mitbewerberabmahnung-aktivlegitimation-spezial`
 
@@ -227,7 +227,7 @@ Dieser Skill prüft die Aktivlegitimation bei UWG-Abmahnungen: konkretes Wettbew
 
 **Risiko:** Kostentragung bei Verlust. Kläger trägt das Feststellungsinteresse (§ 256 ZPO) vor.
 
-## Kaltstart
+## Einstieg
 1. Wer mahnt ab (Mitbewerber, Verband, IHK)?
 2. Besteht ein konkretes Wettbewerbsverhältnis – in welcher Branche, welchem Markt?
 3. Gibt es Hinweise auf missbräuchliche Abmahntätigkeit (§ 8c UWG)?
@@ -331,7 +331,7 @@ Die effizienteste Möglichkeit, Markenschutz in der Schweiz zu erlangen, ist die
 | WIPO Madrid Monitor | [branddb.wipo.int](https://branddb.wipo.int) |
 | EUIPO (keine Wirkung CH) | [euipo.europa.eu/eSearch](https://euipo.europa.eu/eSearch/) |
 
-## Kaltstart
+## Einstieg
 1. In welchem Land soll Markenschutz erlangt oder durchgesetzt werden (AT / CH / DACH)?
 2. Besteht bereits ein Schutzrecht (DPMA, EUIPO, IR-Marke)?
 3. Soll eine Verletzung abgemahnt oder ein neues Schutzrecht angemeldet werden?

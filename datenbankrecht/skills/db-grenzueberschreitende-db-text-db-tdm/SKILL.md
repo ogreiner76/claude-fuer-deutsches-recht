@@ -1,13 +1,13 @@
 ---
 name: db-grenzueberschreitende-db-text-db-tdm
-description: "Nutze dies, wenn Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -143,7 +143,7 @@ Für **Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht U
 - Maschinenlesbarer Opt-out-Implementierungsguide (robots.txt, HTTP-Header, meta noindex)
 - Vertragliche TDM-Verbotsklausel (§ 44b konform, § 60d konform)
 - TDM-Schranken-Abgrenzungsmatrix für Datenbankbetreiber
-- Löschpflicht-Workflow für wissenschaftliche TDM-Nutzer (§ 60d Abs. 1 S. 2 UrhG)
+- Löschpflicht-für wissenschaftliche TDM-Nutzer (§ 60d Abs. 1 S. 2 UrhG)
 
 ## Quellen
 

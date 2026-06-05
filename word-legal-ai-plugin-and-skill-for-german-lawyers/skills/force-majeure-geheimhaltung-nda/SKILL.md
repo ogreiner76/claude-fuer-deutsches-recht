@@ -1,13 +1,13 @@
 ---
 name: force-majeure-geheimhaltung-nda
-description: "Nutze dies, wenn Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit prüfen.; Erstelle eine Arbeitsfassung zu Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Force Majeure Und Erschwerung 313 Bgb, Geheimhaltung Nda Vertraulichkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

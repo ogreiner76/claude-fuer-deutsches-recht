@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Fashion-Law/Moderecht-Plugin: klärt Kollektion, Marke, Design, Lieferkette, Label, Produktsicherheit, Nachhaltigkeit, Vertrieb, Plattformen, Influencer und passende Spezialskills."
+description: "Einstieg, Schnelltriage und Fallrouting im Fashion-Law/Moderecht-Plugin: klärt Kollektion, Marke, Design, Lieferkette, Label, Produktsicherheit, Nachhaltigkeit, Vertrieb, Plattformen, Influencer und passende Fachmodule."
 ---
 
 # Allgemein

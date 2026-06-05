@@ -1,6 +1,6 @@
 ---
 name: beirat-immobilien-und-investitionen
-description: "Nutze dies, wenn Beirat Immobilien Und Investitionen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Immobilien Und Investitionen prüfen.; Erstelle eine Arbeitsfassung zu Beirat Immobilien Und Investitionen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Immobilien Und Investitionen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Immobilien Und Investitionen

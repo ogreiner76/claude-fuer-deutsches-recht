@@ -1,13 +1,13 @@
 ---
 name: drg-norddeutscher-drg-kaiserreichsverfassung
-description: "Nutze dies, wenn Drg Neu 007 Norddeutscher Bund Verfassung 1867, Drg Neu 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Drg Neu 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Drg Neu 010 November 1918 Uebergangsrecht Revolution Und Kontinu, Drg Neu 011 Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen im Plugin Deutsche Rechtsgeschichte konkret bearbeitet werden soll. Auslöser: Bitte Drg Neu 007 Norddeutscher Bund Verfassung 1867, Drg Neu 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Drg Neu 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Drg Neu 010 November 1918 Uebergangsrecht Revolution Und Kontinu, Drg Neu 011 Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Drg Neu 007 Norddeutscher Bund Verfassung 1867, Drg Neu 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Drg Neu 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Drg Neu 010..."
+description: "Nutze dies bei Deutsche Rechtsgeschichte Norddeutscher Bund Verfassung 1867, Deutsche Rechtsgeschichte Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Deutsche Rechtsgeschichte Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Deutsche Rechtsgeschichte November 1918 Uebergangsrecht Revolution Und Kontinu: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Drg Neu 007 Norddeutscher Bund Verfassung 1867, Drg Neu 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Drg Neu 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Drg Neu 010 November 1918 Uebergangsrecht Revolution Und Kontinu, Drg Neu 011 Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen
+# Deutsche Rechtsgeschichte Norddeutscher Bund Verfassung 1867, Deutsche Rechtsgeschichte Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Deutsche Rechtsgeschichte Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Deutsche Rechtsgeschichte November 1918 Uebergangsrecht Revolution Und Kontinu, Deutsche Rechtsgeschichte Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte Norddeutscher Bund Verfassung 1867, Deutsche Rechtsgeschichte Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Deutsche Rechtsgeschichte Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Deutsche Rechtsgeschichte November 1918 Uebergangsrecht Revolution Und Kontinu, Deutsche Rechtsgeschichte Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -22,7 +22,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Drg Neu 007 Norddeutscher Bund Verfassung 1867, Drg Neu 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Drg Neu 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Drg Neu 010 November 1918 Uebergangsrecht Revolution Und Kontinu, Drg Neu 011 Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte Norddeutscher Bund Verfassung 1867, Deutsche Rechtsgeschichte Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Deutsche Rechtsgeschichte Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Deutsche Rechtsgeschichte November 1918 Uebergangsrecht Revolution Und Kontinu, Deutsche Rechtsgeschichte Weimarer Reichsverfassung Grundrechte Staatsorganisa und 1 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -59,9 +59,9 @@ Skill fuer den Norddeutschen Bund 1867-1870 als Vorlaeufer des Deutschen Reiches
 ## Uebergang zum Reich
 
 - **Novembervertraege 1870** — voelkerrechtliche Beitrittsvertraege der sueddeutschen Staaten zum Norddeutschen Bund:
-  - Baden und Hessen-Darmstadt: 15. November 1870.
-  - Bayern: 23. November 1870 ("Versailler Vertrag" mit Bayern, mit Reservatrechten).
-  - Wuerttemberg: 25. November 1870.
+ - Baden und Hessen-Darmstadt: 15. November 1870.
+ - Bayern: 23. November 1870 ("Versailler Vertrag" mit Bayern, mit Reservatrechten).
+ - Wuerttemberg: 25. November 1870.
 - Ratifikationen und Inkrafttreten der Verfassung des Deutschen Bundes (umbenannt "Verfassung des Deutschen Reiches") zum **1. Januar 1871**, redaktionell neu bekannt gemacht als **Reichsverfassung vom 16. April 1871**.
 - **Kaiserproklamation in Versailles am 18. Januar 1871**: ZEREMONIELLER Akt, kein Beitrittsvertrag und keine Verfassungsgrundlage. Wilhelm I. wird Deutscher Kaiser proklamiert.
 
@@ -108,12 +108,12 @@ Skill fuer die Reichsverfassung des Deutschen Kaiserreichs 16.04.1871 (Bismarcks
 
 - Reichsrecht bricht Landesrecht im Bereich der Reichszustaendigkeit.
 - Wichtige Reichsgesetze:
-  - **Reichsstrafgesetzbuch 15.05.1871** (in Kraft 01.01.1872).
-  - **Gerichtsverfassungsgesetz 27.01.1877**.
-  - **Zivilprozessordnung 30.01.1877**.
-  - **Konkursordnung 10.02.1877**.
-  - **BGB 18.08.1896** (in Kraft 01.01.1900).
-  - **HGB 10.05.1897** (in Kraft 01.01.1900).
+ - **Reichsstrafgesetzbuch 15.05.1871** (in Kraft 01.01.1872).
+ - **Gerichtsverfassungsgesetz 27.01.1877**.
+ - **Zivilprozessordnung 30.01.1877**.
+ - **Konkursordnung 10.02.1877**.
+ - **BGB 18.08.1896** (in Kraft 01.01.1900).
+ - **HGB 10.05.1897** (in Kraft 01.01.1900).
 
 ## Sozialgesetzgebung Bismarcks
 

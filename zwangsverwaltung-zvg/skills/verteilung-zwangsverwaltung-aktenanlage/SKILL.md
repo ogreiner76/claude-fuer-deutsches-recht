@@ -1,13 +1,13 @@
 ---
 name: verteilung-zwangsverwaltung-aktenanlage
-description: "Nutze dies, wenn Spezial Verteilung Verhandlung Vergleich Und Eskalation, Spezial Zwangsverwaltung Erstpruefung Und Mandatsziel, Zvg Aktenanlage Objektcockpit im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verteilung Verhandlung Vergleich Und Eskalation, Spezial Zwangsverwaltung Erstpruefung Und Mandatsziel, Zvg Aktenanlage Objektcockpit prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verteilung Verhandlung Vergleich Und Eskalation, Spezial Zwangsverwaltung Erstpruefung Und Mandatsziel, Zvg Aktenanlage Objektcockpit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verteilung Verhandlung Vergleich Und Eskalation, Zwangsverwaltung Erstpruefung Und Mandatsziel, Zvg Aktenanlage Objektcockpit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verteilung Verhandlung Vergleich Und Eskalation, Spezial Zwangsverwaltung Erstpruefung Und Mandatsziel, Zvg Aktenanlage Objektcockpit
+# Verteilung Verhandlung Vergleich Und Eskalation, Zwangsverwaltung Erstpruefung Und Mandatsziel, Zvg Aktenanlage Objektcockpit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verteilung Verhandlung Vergleich Und Eskalation, Zwangsverwaltung Erstpruefung Und Mandatsziel, Zvg Aktenanlage Objektcockpit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verteilung Verhandlung Vergleich Und Eskalation, Spezial Zwangsverwaltung Erstpruefung Und Mandatsziel, Zvg Aktenanlage Objektcockpit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verteilung Verhandlung Vergleich Und Eskalation, Zwangsverwaltung Erstpruefung Und Mandatsziel, Zvg Aktenanlage Objektcockpit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Verteilung Verhandlung Vergleich Und Eskalation, Spezial Zwangsve
 # Verteilung: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Verteilung: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Verteilung: Verhandlung, Vergleich und Eskalation / spezial verteilung verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verteilung: Verhandlung, Vergleich und Eskalation / verteilung verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel / spezial zwangsverwaltung erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel / zwangsverwaltung erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -205,7 +205,7 @@ Zwangsverwalter: [NAME, BÜRO, TELEFON]
 
 NUTZUNGSEINHEITEN
 Nr. | Lage | Mieter | Nettomiete | NK-Vorauszahlung | Vertrag vom
-1   | ...  | ...    | ...        | ...               | ...
+1 | ... | ... | ... | ... | ...
 
 TREUHANDKONTO: [BANK, IBAN]
 LETZTER GERICHT-BERICHT: [DATUM]

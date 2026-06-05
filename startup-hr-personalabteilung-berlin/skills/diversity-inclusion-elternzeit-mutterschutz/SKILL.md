@@ -1,23 +1,23 @@
 ---
 name: diversity-inclusion-elternzeit-mutterschutz
-description: "Nutze dies, wenn Diversity Inclusion Ohne Datensammelwut, Elternzeit Mutterschutz Pflegezeit, Empfang Office Manager Hr Schnittstelle, English Speaking Employees Plain German, Entwicklungsplan Learning Budget im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Diversity Inclusion Ohne Datensammelwut, Elternzeit Mutterschutz Pflegezeit, Empfang Office Manager Hr Schnittstelle, English Speaking Employees Plain German, Entwicklungsplan Learning Budget prüfen.; Erstelle eine Arbeitsfassung zu Diversity Inclusion Ohne Datensammelwut, Elternzeit Mutterschutz Pflegezeit, Empfang Office Manager Hr Schnittstelle, English Speaking Employees Plain German, Entwicklungsplan Learning Budget.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Diversity Inclusion Ohne Datensammelwut, Elternzeit Mutterschutz Pflegezeit, Empfang Office Manager Hr Schnittstelle, English Speaking Employees Plain German: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Diversity Inclusion Ohne Datensammelwut, Elternzeit Mutterschutz Pflegezeit, Empfang Office Manager Hr Schnittstelle, English Speaking Employees Plain German, Entwicklungsplan Learning Budget
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Diversity Inclusion Ohne Datensammelwut, Elternzeit Mutterschutz Pflegezeit, Empfang Office Manager Hr Schnittstelle, English Speaking Employees Plain German, Entwicklungsplan Learning Budget** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `diversity-inclusion-ohne-datensammelwut` | Berliner Start-up-HR: Diversity & Inclusion ohne Datensammelwut: Ziele, freiwillige Angaben, Anonymisierung, AGG und Maßnahmen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `elternzeit-mutterschutz-pflegezeit` | Berliner Start-up-HR: Mutterschutz, Elternzeit, Pflegezeit und Familienzeiten: Fristen, Schutz, Vertretung, Payroll und Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `empfang-office-manager-hr-schnittstelle` | Berliner Start-up-HR: Empfang/Office-Manager und HR-Schnittstelle: Besucher, Bewerber, Post, sensible Unterlagen, Diskretion und Übergabe. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `english-speaking-employees-plain-german` | Berliner Start-up-HR: Englischsprachige Beschäftigte: deutsches Arbeitsrecht verständlich erklären, ohne Rechtsniveau zu senken. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `entwicklungsplan-learning-budget` | Berliner Start-up-HR: Entwicklungsplan und Learning Budget: Gleichbehandlung, Genehmigung, Rückzahlungsklauseln und Karrierepfade. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `diversity-inclusion-ohne-datensammelwut` | Berliner Start-up-HR: Diversity & Inclusion ohne Datensammelwut: Ziele, freiwillige Angaben, Anonymisierung, AGG und Maßnahmen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `elternzeit-mutterschutz-pflegezeit` | Berliner Start-up-HR: Mutterschutz, Elternzeit, Pflegezeit und Familienzeiten: Fristen, Schutz, Vertretung, Payroll und Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `empfang-office-manager-hr-schnittstelle` | Berliner Start-up-HR: Empfang/Office-Manager und HR-Schnittstelle: Besucher, Bewerber, Post, sensible Unterlagen, Diskretion und Übergabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `english-speaking-employees-plain-german` | Berliner Start-up-HR: Englischsprachige Beschäftigte: deutsches Arbeitsrecht verständlich erklären, ohne Rechtsniveau zu senken. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `entwicklungsplan-learning-budget` | Berliner Start-up-HR: Entwicklungsplan und Learning Budget: Gleichbehandlung, Genehmigung, Rückzahlungsklauseln und Karrierepfade. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Diversity Inclusion Ohne Datensammelwut, Elternzeit Mutterschutz Pflegeze
 
 ## 1. `diversity-inclusion-ohne-datensammelwut`
 
-**Fokus:** Berliner Start-up-HR: Diversity & Inclusion ohne Datensammelwut: Ziele, freiwillige Angaben, Anonymisierung, AGG und Maßnahmen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Diversity & Inclusion ohne Datensammelwut: Ziele, freiwillige Angaben, Anonymisierung, AGG und Maßnahmen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Diversity Inclusion Ohne Datensammelwut
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Happiness
 **Fokus:** Diversity & Inclusion ohne Datensammelwut: Ziele, freiwillige Angaben, Anonymisierung, AGG und Maßnahmen.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `elternzeit-mutterschutz-pflegezeit`
 
-**Fokus:** Berliner Start-up-HR: Mutterschutz, Elternzeit, Pflegezeit und Familienzeiten: Fristen, Schutz, Vertretung, Payroll und Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Mutterschutz, Elternzeit, Pflegezeit und Familienzeiten: Fristen, Schutz, Vertretung, Payroll und Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Elternzeit Mutterschutz Pflegezeit
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Zeit
 **Fokus:** Mutterschutz, Elternzeit, Pflegezeit und Familienzeiten: Fristen, Schutz, Vertretung, Payroll und Kommunikation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `empfang-office-manager-hr-schnittstelle`
 
-**Fokus:** Berliner Start-up-HR: Empfang/Office-Manager und HR-Schnittstelle: Besucher, Bewerber, Post, sensible Unterlagen, Diskretion und Übergabe. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Empfang/Office-Manager und HR-Schnittstelle: Besucher, Bewerber, Post, sensible Unterlagen, Diskretion und Übergabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Empfang Office Manager HR Schnittstelle
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Office
 **Fokus:** Empfang/Office-Manager und HR-Schnittstelle: Besucher, Bewerber, Post, sensible Unterlagen, Diskretion und Übergabe.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `english-speaking-employees-plain-german`
 
-**Fokus:** Berliner Start-up-HR: Englischsprachige Beschäftigte: deutsches Arbeitsrecht verständlich erklären, ohne Rechtsniveau zu senken. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Englischsprachige Beschäftigte: deutsches Arbeitsrecht verständlich erklären, ohne Rechtsniveau zu senken. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # English Speaking Employees Plain German
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Kommunikation
 **Fokus:** Englischsprachige Beschäftigte: deutsches Arbeitsrecht verständlich erklären, ohne Rechtsniveau zu senken.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `entwicklungsplan-learning-budget`
 
-**Fokus:** Berliner Start-up-HR: Entwicklungsplan und Learning Budget: Gleichbehandlung, Genehmigung, Rückzahlungsklauseln und Karrierepfade. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Entwicklungsplan und Learning Budget: Gleichbehandlung, Genehmigung, Rückzahlungsklauseln und Karrierepfade. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Entwicklungsplan Learning Budget
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Happiness
 **Fokus:** Entwicklungsplan und Learning Budget: Gleichbehandlung, Genehmigung, Rückzahlungsklauseln und Karrierepfade.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

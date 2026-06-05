@@ -1,13 +1,13 @@
 ---
 name: vdg-energiepreiserhoehung-vdg-vdg
-description: "Nutze dies, wenn Vdg 043 Energiepreiserhoehung Anspruchsgruppen, Vdg 044 Energiepreiserhoehung Registertext Sch, Vdg 045 Energiepreiserhoehung Betroffenenformu, Vdg 046 Energiepreiserhoehung Beweisplan Erste im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 043 Energiepreiserhoehung Anspruchsgruppen, Vdg 044 Energiepreiserhoehung Registertext Sch, Vdg 045 Energiepreiserhoehung Betroffenenformu, Vdg 046 Energiepreiserhoehung Beweisplan Erste prüfen.; Erstelle eine Arbeitsfassung zu Vdg 043 Energiepreiserhoehung Anspruchsgruppen, Vdg 044 Energiepreiserhoehung Registertext Sch, Vdg 045 Energiepreiserhoehung Betroffenenformu, Vdg 046 Energiepreiserhoehung Beweisplan Erste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vdg 043 Energiepreiserhoehung Anspruchsgruppen, Vdg 044 Energiepreiserhoehung Registertext Sch, Vdg 045 Energiepreiserhoehung Betroffenenformu, Vdg 046 Energiepreiserhoehung Beweisplan Erste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vdg 043 Energiepreiserhoehung Anspruchsgruppen, Vdg 044 Energiepreiserhoehung Registertext Sch, Vdg 045 Energiepreiserhoehung Betroffenenformu, Vdg 046 Energiepreiserhoehung Beweisplan Erste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 043 Energiepreiserhoehung Anspruchsgruppen, Vdg 044 Energiepreiserhoehung Registertext Sch, Vdg 045 Energiepreiserhoehung Betroffenenformu, Vdg 046 Energiepreiserhoehung Beweisplan Erste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

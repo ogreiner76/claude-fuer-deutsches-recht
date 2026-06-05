@@ -1,13 +1,13 @@
 ---
 name: mangelhafte-arbeitspapiere
-description: "Nutze dies, wenn Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, Wirtschaftspruefer Mangelhafte Arbeitspapiere Organisationspfli, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kaltst, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kammer, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Organi im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, Wirtschaftspruefer Mangelhafte Arbeitspapiere Organisationspfli, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kaltst, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kammer, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Organi prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, Wirtschaftspruefer Mangelhafte Arbeitspapiere Organisationspfli, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kaltst, Wirtsch..."
+description: "Nutze dies bei Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, Wirtschaftspruefer Mangelhafte Arbeitspapiere Organisationspfli, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kaltst, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kammer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, Wirtschaftspruefer Mangelhafte Arbeitspapiere Organisationspfli, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kaltst, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kammer, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Organi
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Mangelhafte Arbeitspapiere Kammerantwort Und, Wirtschaftspruefer Mangelhafte Arbeitspapiere Organisationspfli, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kaltst, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Kammer, Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Organi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

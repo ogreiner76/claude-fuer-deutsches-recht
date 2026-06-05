@@ -1,13 +1,13 @@
 ---
 name: anwaelte-geldwaesche-risikoanalyse-02
-description: "Nutze dies, wenn Anwälte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck, Anwälte Haftpflichtversicherung Deckungsluecke Rechtsprechungs, Anwälte Honorarvereinbarung Und Rvg Transparenz Rechtsprechung, Anwälte Kanzleinachfolge Und Aktenarchiv Rechtsprechungscheck, Anwälte Kanzleisitz Und Zweigstelle Rechtsprechungscheck Und R im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck, Anwälte Haftpflichtversicherung Deckungsluecke Rechtsprechungs, Anwälte Honorarvereinbarung Und Rvg Transparenz Rechtsprechung, Anwälte Kanzleinachfolge Und Aktenarchiv Rechtsprechungscheck, Anwälte Kanzleisitz Und Zweigstelle Rechtsprechungscheck Und R prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck, Anwälte Haftpflichtversicherung Deckungsluecke Rechtsprechungs, Anwälte Honorarvereinbarung Und Rvg Transparenz Rechtsprechung, Anwälte Kanzleinachfolge Und Akt..."
+description: "Nutze dies bei Anwaelte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck, Anwaelte Haftpflichtversicherung Deckungsluecke Rechtsprechungs, Anwaelte Honorarvereinbarung Und Rvg Transparenz Rechtsprechung, Anwaelte Kanzleinachfolge Und Aktenarchiv Rechtsprechungscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck, Anwälte Haftpflichtversicherung Deckungsluecke Rechtsprechungs, Anwälte Honorarvereinbarung Und Rvg Transparenz Rechtsprechung, Anwälte Kanzleinachfolge Und Aktenarchiv Rechtsprechungscheck, Anwälte Kanzleisitz Und Zweigstelle Rechtsprechungscheck Und R
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck, Anwälte Haftpflichtversicherung Deckungsluecke Rechtsprechungs, Anwälte Honorarvereinbarung Und Rvg Transparenz Rechtsprechung, Anwälte Kanzleinachfolge Und Aktenarchiv Rechtsprechungscheck, Anwälte Kanzleisitz Und Zweigstelle Rechtsprechungscheck Und R** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

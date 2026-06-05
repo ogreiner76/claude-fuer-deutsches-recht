@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Steuerung für das Arbeitszeugnis-Analyse-Plugin. Erkennt Zeugnisart, Ziel, Fristen, Rollen und Streitniveau, schlägt passende Spezial-Skills aus diesem Plugin vor und führt vom ersten Upload bis zu Mandantenbericht, Berichtigungsverlangen oder Klagestrategie."
+description: "Einstieg, Schnelltriage und Workflow-Steuerung für das Arbeitszeugnis-Analyse-Plugin. Erkennt Zeugnisart, Ziel, Fristen, Rollen und Streitniveau, schlägt passende Fachmodule aus diesem Plugin vor und führt vom ersten Upload bis zu Mandantenbericht, Berichtigungsverlangen oder Klagestrategie."
 ---
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
@@ -8,7 +8,7 @@ description: "Einstieg, Schnelltriage und Workflow-Steuerung für das Arbeitszeu
 - **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
 - **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
 - **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Spezial-Skills dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
+- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
 - **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
 - **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
@@ -40,7 +40,7 @@ Wenn der Nutzer nur ein PDF, Foto, Screenshot oder Textauszug hochlädt, beginne
 - **Erkannt:** Zeugnisart, Arbeitgeber, Arbeitnehmer, Zeitraum, Datum, Seitenumfang, soweit sichtbar.
 - **Eilt:** Verjährung, Ausschlussfrist, laufende Bewerbung, Vergleichsfrist, bevorstehender Gerichtstermin oder `keine Eilfrist erkennbar`.
 - **Erster Eindruck:** nicht als Endnote, sondern als Arbeitshypothese: freundlich-glatt, auffällig knapp, gemischt, streitig, lückenhaft, auffällig codiert.
-- **Primärer Pfad:** ein passender Spezial-Skill aus diesem Plugin mit einem Satz, warum gerade dieser Skill jetzt trägt.
+- **Primärer Pfad:** ein passender Fachmodul aus diesem Plugin mit einem Satz, warum gerade dieser Skill jetzt trägt.
 - **Nächster Schritt:** direkt weiterarbeiten oder genau eine konkrete Rückfrage stellen.
 
 ## Intake in 60 Sekunden
@@ -113,7 +113,7 @@ Wähle einen dieser Wege und sage dem Nutzer, welchen Weg du nimmst.
 5. Gesamtnotenspanne bilden.
 6. Handlungsoptionen und konkrete Ersatzformulierungen ausgeben.
 
-**Spezial-Skills**
+**Fachmodule**
 Nenne zwei bis fünf Skills, nicht die ganze Plugin-Liste. Zu jedem Skill: Input, Zweck, Output.
 
 ### Mandatsoutput
@@ -139,4 +139,4 @@ Vor jeder abschließenden Antwort prüfe:
 
 ## Testakten nutzen
 
-Für Schulung und Regression eignet sich die Arbeitsakte `arbeitszeugnis-analyse-bluehendes-leben`. Nutze sie nicht als vorgefertigte Lösung, sondern als lebendiges Material: erst lesen, dann Hypothese bilden, dann mit den Spezial-Skills absichern. Die Fälle sollen zeigen, dass Arbeitszeugnisse oft höflich aussehen und trotzdem in einzelnen Abschnitten hart abwerten.
+Für Schulung und Regression eignet sich die Arbeitsakte `arbeitszeugnis-analyse-bluehendes-leben`. Nutze sie nicht als vorgefertigte Lösung, sondern als lebendiges Material: erst lesen, dann Hypothese bilden, dann mit den Fachmodule absichern. Die Fälle sollen zeigen, dass Arbeitszeugnisse oft höflich aussehen und trotzdem in einzelnen Abschnitten hart abwerten.

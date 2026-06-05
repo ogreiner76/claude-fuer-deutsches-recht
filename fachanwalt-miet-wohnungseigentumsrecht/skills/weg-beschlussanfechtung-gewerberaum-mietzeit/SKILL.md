@@ -1,13 +1,13 @@
 ---
 name: weg-beschlussanfechtung-gewerberaum-mietzeit
-description: "Nutze dies, wenn Fachanwalt Miet Wohnungseigentumsrecht Weg Beschlussanfechtung, Gewerberaum Mietzeit Und Kündigung, Ki Gestuetzte Mietspiegel Rechtsfragen, Miet Betriebskostenabrechnung Checkliste, Miet Mietkaution Streit Spezial im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Miet Wohnungseigentumsrecht Weg Beschlussanfechtung, Gewerberaum Mietzeit Und Kündigung, Ki Gestuetzte Mietspiegel Rechtsfragen, Miet Betriebskostenabrechnung Checkliste, Miet Mietkaution Streit Spezial prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Miet Wohnungseigentumsrecht Weg Beschlussanfechtung, Gewerberaum Mietzeit Und Kündigung, Ki Gestuetzte Mietspiegel Rechtsfragen, Miet Betriebskostenabrechnung Checkliste, Miet Mietkaution Streit Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Miet Wohnungseigentumsrecht Weg Beschlussanfechtung, Gewerberaum Mietzeit Und Kündigung, Ki Gestuetzte Mietspiegel Rechtsfragen, Miet Betriebskostenabrechnung Checkliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Miet Wohnungseigentumsrecht Weg Beschlussanfechtung, Gewerberaum Mietzeit Und Kündigung, Ki Gestuetzte Mietspiegel Rechtsfragen, Miet Betriebskostenabrechnung Checkliste, Miet Mietkaution Streit Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Miet Wohnungseigentumsrecht Weg Beschlussanfechtung, Gewerberaum Mietzeit Und Kündigung, Ki Gestuetzte Mietspiegel Rechtsfragen, Miet Betriebskostenabrechnung Checkliste, Miet Mietkaution Streit Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -115,18 +115,18 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 An das Amtsgericht [Ort der belegenen Sache]
-— WEG-Sache —                                         [Ort, Datum]
+— WEG-Sache — [Ort, Datum]
 
 Klage
 
 der [Klägerin/Kläger, Anschrift]
-                                                    — Klägerin —
+ — Klägerin —
 
 gegen
 
 die Gemeinschaft der Wohnungseigentümer der Liegenschaft
 [Anschrift], vertreten durch den Verwalter [Name, Anschrift]
-                                                    — Beklagte —
+ — Beklagte —
 
 wegen Beschlussanfechtung § 44 WEG
 
@@ -134,15 +134,15 @@ Namens und in Vollmacht der Klägerin / des Klägers erheben wir
 Klage und beantragen:
 
 1. Der in der Wohnungseigentümerversammlung der Beklagten
-   vom [Datum] zu Tagesordnungspunkt [Nr.] gefasste Beschluss
-   mit folgendem Wortlaut:
-   "[Wortlaut des Beschlusses vollständig]"
-   wird für ungültig erklärt.
+ vom [Datum] zu Tagesordnungspunkt [Nr.] gefasste Beschluss
+ mit folgendem Wortlaut:
+ "[Wortlaut des Beschlusses vollständig]"
+ wird für ungültig erklärt.
 
 2. Die Beklagte trägt die Kosten des Rechtsstreits.
 
 3. Hilfsweise wird die Feststellung der Nichtigkeit des
-   Beschlusses nach § 23 Abs. 4 WEG beantragt.
+ Beschlusses nach § 23 Abs. 4 WEG beantragt.
 
 Begründung folgt fristgerecht binnen zwei Monaten gemäß
 § 45 Satz 2 WEG.
@@ -160,38 +160,38 @@ Klagebegründung gemäß § 45 Satz 2 WEG — Az. [Az.]
 I. Zulässigkeit
 
 1. Aktivlegitimation
-   Die Klägerin war am [Datum der Beschlussfassung] als Wohnungs-
-   eigentümerin im Grundbuch eingetragen (Anlage K 1: Grundbuchauszug).
+ Die Klägerin war am [Datum der Beschlussfassung] als Wohnungs-
+ eigentümerin im Grundbuch eingetragen (Anlage K 1: Grundbuchauszug).
 
 2. Passivlegitimation
-   Die Beklagte ist die GdWE § 9a WEG, vertreten durch Verwalter
-   [Name] gemäß § 9b WEG.
+ Die Beklagte ist die GdWE § 9a WEG, vertreten durch Verwalter
+ [Name] gemäß § 9b WEG.
 
 3. Fristwahrung § 45 WEG
-   Beschluss am [Datum] gefasst; Klage eingereicht am [Datum] —
-   innerhalb eines Monats. Begründung folgt innerhalb zwei Monate
-   ab Beschlussfassung.
+ Beschluss am [Datum] gefasst; Klage eingereicht am [Datum] —
+ innerhalb eines Monats. Begründung folgt innerhalb zwei Monate
+ ab Beschlussfassung.
 
 II. Begründetheit
 
 1. Verfahrensmangel — Ladungsfehler § 24 Abs. 4 WEG
-   Die Ladung datiert vom [Datum] und ging der Klägerin erst am
-   [Datum] zu — die Zweiwochenfrist des § 24 Abs. 4 WEG war
-   damit nicht gewahrt (Anlage K 2: Ladungsschreiben + Zugangsbeleg).
+ Die Ladung datiert vom [Datum] und ging der Klägerin erst am
+ [Datum] zu — die Zweiwochenfrist des § 24 Abs. 4 WEG war
+ damit nicht gewahrt (Anlage K 2: Ladungsschreiben + Zugangsbeleg).
 
-   Alternative: Tagesordnungspunkt [Nr.] war in der Einladung
-   vom [Datum] nicht angekündigt.
+ Alternative: Tagesordnungspunkt [Nr.] war in der Einladung
+ vom [Datum] nicht angekündigt.
 
 2. Materieller Mangel — Verstoß gegen ordnungsmäßige Verwaltung
-   § 19 WEG
-   [Konkrete Begründung: wirtschaftlich unverhältnismäßig;
-   Beschluss unbestimmt; gesetzliche Pflichtmaßnahme unterlassen;
-   sachfremde Erwägungen der Mehrheit]
+ § 19 WEG
+ [Konkrete Begründung: wirtschaftlich unverhältnismäßig;
+ Beschluss unbestimmt; gesetzliche Pflichtmaßnahme unterlassen;
+ sachfremde Erwägungen der Mehrheit]
 
 3. Nichtigkeit (hilfsweise)
-   Der Beschluss greift in das Sondereigentum der Klägerin ein
-   (§ 20 Abs. 4 WEG) und überschreitet die Beschlusskompetenz —
-   daher nichtig gemäß § 23 Abs. 4 WEG.
+ Der Beschluss greift in das Sondereigentum der Klägerin ein
+ (§ 20 Abs. 4 WEG) und überschreitet die Beschlusskompetenz —
+ daher nichtig gemäß § 23 Abs. 4 WEG.
 
 III. Rechtsfolge
 Der Beschluss ist für ungültig zu erklären; hilfsweise als
@@ -261,10 +261,10 @@ nichtig festzustellen.
 - WEG §§ 9a, 9b, 10, 19, 23–25, 44, 45
 - GKG § 49
 - Verifizierte BGH-Rechtsprechung (Stand 05/2026):
-  - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit)
-  - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
-  - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
-  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / bauliche Veraenderung)
+ - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit)
+ - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+ - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
+ - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / bauliche Veraenderung)
 - Weitere Rechtsprechung vor Verwendung live ueber dejure.org/openjur.de/bundesgerichtshof.de pruefen.
 - Bärmann WEG-Kommentar, aktuelle Aufl.
 - Hügel/Elzer WEG, aktuelle Aufl.
@@ -416,7 +416,7 @@ Nutze diesen Skill, wenn im Fachanwaltsmandat eine Betriebskostenabrechnung erst
 - WEG-/Hausverwaltungsdaten als Vorstufe,
 - Zahlung, Zurückbehaltung, Korrektur und Prozessrisiko.
 
-## Kaltstart
+## Einstieg
 
 Frage zuerst nur diese Punkte ab:
 

@@ -35,7 +35,7 @@ Service-, Pflege-, Liefer- und Empfangsroboter interagieren mit Menschen untersc
 - **MaschinenVO** VO (EU) 2023/1230 Anhang III Nr. 1.1.6 Ergonomie.
 - **UN-BRK** Art. 9 (Zugänglichkeit).
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Anwendungsbereich BFSG prüfen.** Verbraucherrobotik oder gewerblich? Übergangsregelungen für Bestandsprodukte beachten.
 2. **Wahrnehmbarkeit.** Mehrkanalige Ausgabe (visuell + akustisch + ggf. taktil); Kontraste mindestens WCAG AA; Schriftgrößen skalierbar; Sprachausgabe in Standardsprache.

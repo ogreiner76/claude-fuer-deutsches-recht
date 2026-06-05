@@ -1,13 +1,13 @@
 ---
 name: long-covid-akteneinsicht-anfordern-auswerten
-description: "Nutze dies, wenn Long Covid Krankengeld Aussteuerung Nahtlosigkeit, Akteneinsicht Anfordern, Akteneinsicht Auswerten, Anlagen Erstellen im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Long Covid Krankengeld Aussteuerung Nahtlosigkeit, Akteneinsicht Anfordern, Akteneinsicht Auswerten, Anlagen Erstellen prüfen.; Erstelle eine Arbeitsfassung zu Long Covid Krankengeld Aussteuerung Nahtlosigkeit, Akteneinsicht Anfordern, Akteneinsicht Auswerten, Anlagen Erstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Long Covid Krankengeld Aussteuerung Nahtlosigkeit, Akteneinsicht Anfordern, Akteneinsicht Auswerten, Anlagen Erstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Long Covid Krankengeld Aussteuerung Nahtlosigkeit, Akteneinsicht Anfordern, Akteneinsicht Auswerten, Anlagen Erstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Long Covid Krankengeld Aussteuerung Nahtlosigkeit, Akteneinsicht Anfordern, Akteneinsicht Auswerten, Anlagen Erstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -301,12 +301,12 @@ Vorblatt zur Klage- oder Widerspruchsakte:
 ```
 Anlagenverzeichnis
 
-K1   Bescheid des Jobcenters XYZ vom 12.03.2026
-K2   Widerspruch vom 05.04.2026
-K3   Widerspruchsbescheid vom 18.07.2026
-K4   Schwerbehindertenausweis vom 14.11.2024 (GdB 70)
-K5   Aerztliches Attest Dr. M. vom 03.02.2026
-K6   Mietvertrag mit Anlagen
+K1 Bescheid des Jobcenters XYZ vom 12.03.2026
+K2 Widerspruch vom 05.04.2026
+K3 Widerspruchsbescheid vom 18.07.2026
+K4 Schwerbehindertenausweis vom 14.11.2024 (GdB 70)
+K5 Aerztliches Attest Dr. M. vom 03.02.2026
+K6 Mietvertrag mit Anlagen
 ```
 
 ### 4. Vollständigkeitsprüfung

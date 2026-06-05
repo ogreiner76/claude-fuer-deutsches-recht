@@ -1,13 +1,13 @@
 ---
 name: entgtranspg-fachanwalt-kschg
-description: "Nutze dies, wenn Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstpruefung Und Mandatsziel, Kschg Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente
+# Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstpruefung Und Mandatsziel, Kschg Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstpruefung Und Mandatsziel, Kschg Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Kschg Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstpruefung Und Mandatsziel, Kschg Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,7 +42,7 @@ Für **Spezial Entgtranspg Verhandlung Vergleich Und Eskalation, Spezial Fachanw
 ## Zweck
 Vollständige Strategie bei Entgelttransparenz und Entgeltdiskriminierung — vom Auskunftsanspruch über die Verhandlung bis zur AGG-Klage. Besonderer Fokus auf die BAG-Linie zum Paarvergleich und die EU-Lohntransparenz-Richtlinie.
 
-## Kaltstart
+## Einstieg
 Wenn eine Entgelttransparenz-Frage vorliegt, zuerst klären:
 
 1. **Mandant:** Arbeitnehmer (Auskunftsanspruch geltend machen, Lohnlücke schließen) oder Arbeitgeber (Auskunft erteilen, Diskriminierung vermeiden)?
@@ -148,7 +148,7 @@ Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Verglei
 ## Zweck
 Strukturierte Erstprüfung bei Annahme eines Arbeitsrechtsmandats — von der Rollenklärung und Interessenkonflikt-Prüfung über die Zielformulierung bis zur ersten Risikoampel. Grundlage für alle weiteren Skill-Aktivitäten im Plugin.
 
-## Kaltstart
+## Einstieg
 Wenn ein Mandat vorliegt oder angeboten wird, folgende Punkte klären:
 
 1. **Wer ist der Mandant?** Name, Stellung (Arbeitnehmer, Arbeitgeber, Betriebsrat, Gewerkschaft)?
@@ -273,7 +273,7 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 ## Zweck
 Schnelle und strukturierte Risikobewertung einer Kündigung nach dem KSchG — als Ampel (Grün/Gelb/Rot) für die anwaltliche Erstberatung. Für jeden Prüfpunkt werden auch die typischen Gegenargumente der anderen Seite gezeigt.
 
-## Kaltstart
+## Einstieg
 Wenn eine Kündigung vorliegt, die unter das KSchG fällt:
 
 1. **Art der Kündigung:** Betriebsbedingt, personenbedingt oder verhaltensbedingt?

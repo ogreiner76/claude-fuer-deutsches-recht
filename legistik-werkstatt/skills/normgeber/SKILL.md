@@ -1,12 +1,12 @@
 ---
 name: normgeber
-description: "Nutze dies, wenn Normgeber: Verhandlung, Vergleich und Eskalation im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Normgeber: Verhandlung, Vergleich und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Normgeber: Verhandlung, Vergleich und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Normgeber: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Normgeber: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Normgeber: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Normgeber: Verhandlung, Vergleich und Eskalation / spezial normgeber verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Normgeber: Verhandlung, Vergleich und Eskalation / normgeber verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

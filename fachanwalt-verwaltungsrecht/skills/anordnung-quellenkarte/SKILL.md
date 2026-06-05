@@ -1,6 +1,6 @@
 ---
 name: anordnung-quellenkarte
-description: "Nutze dies, wenn Anordnung Quellenkarte im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Anordnung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Anordnung Quellenkarte

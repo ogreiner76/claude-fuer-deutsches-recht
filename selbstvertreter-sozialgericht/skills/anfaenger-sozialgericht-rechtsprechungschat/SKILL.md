@@ -1,19 +1,19 @@
 ---
 name: anfaenger-sozialgericht-rechtsprechungschat
-description: "Nutze dies, wenn Anfaenger Workflow Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Anfaenger Workflow Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht prüfen.; Erstelle eine Arbeitsfassung zu Anfaenger Workflow Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Anfaenger Workflow Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht
+# Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `anfaenger-workflow-sozialgericht` | Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills. |
+| `anfaenger-workflow-sozialgericht` | Geführter Anfänger-für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills. |
 | `rechtsprechungschat-sozialgericht` | Geführter Rechtsprechungschat für Selbstvertreter im Sozialgerichtsverfahren. Hilft, BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung zu finden, zu verstehen und laiengerecht zu verwenden. |
 | `anhoerung-im-sozialverwaltungsverfahren-24-sgb-x` | Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhoerungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhoerungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster. |
 | `fristen-berechnen-sgg-laien` | Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt. |
@@ -21,19 +21,19 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Anfaenger Workflow Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anfaenger Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien, Fristenbuch Fuehren Laien Sozialgericht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `selbstvertreter-sozialgericht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `anfaenger-workflow-sozialgericht`
 
-**Fokus:** Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills.
+**Fokus:** Geführter Anfänger-für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills.
 
-# Anfänger-Workflow Sozialgericht
+# Anfänger-Sozialgericht
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anfänger-Workflow Sozialgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anfänger-Sozialgericht` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
 - **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrende/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
@@ -265,10 +265,10 @@ Das ist hier relevant, weil [Tatsache].
 1. Anhoerungsschreiben aufmerksam lesen.
 2. Frist (regelmaessig 2-4 Wochen) im Fristenbuch notieren.
 3. Schriftliche Stellungnahme:
-   - Bestaetigung was richtig ist.
-   - Bestreiten was falsch ist mit Beweisangebot.
-   - Mitwirkung zur Sachaufklaerung anbieten.
-   - Antrag auf Akteneinsicht stellen (siehe Skill `akteneinsicht-25-sgb-x`).
+ - Bestaetigung was richtig ist.
+ - Bestreiten was falsch ist mit Beweisangebot.
+ - Mitwirkung zur Sachaufklaerung anbieten.
+ - Antrag auf Akteneinsicht stellen (siehe Skill `akteneinsicht-25-sgb-x`).
 4. Stellungnahme rechtzeitig per Einschreiben oder elektronisch einreichen.
 
 ## Wenn Anhoerung unterblieben ist
@@ -495,10 +495,10 @@ Nicht spezifisch geregelt, aber gute Praxis.
 ### Schritt 2 — Fristenbuch-Tabelle
 
 ```
-| Az          | Sache              | Frist        | Vorfrist     | Erledigt | Notiz                  |
+| Az | Sache | Frist | Vorfrist | Erledigt | Notiz |
 |-------------|--------------------|--------------| ------------|----------|------------------------|
-| S 1 KR 1/26 | KK-Hilfsmittel     | 15.6.2026   | 5.6.2026   | nein     | KK lehnt Hoergeraet ab |
-| W xyz JC    | Buergergeld-Sanktion| 22.5.2026   | 15.5.2026  | nein     | Sanktion 30 %          |
+| S 1 KR 1/26 | KK-Hilfsmittel | 15.6.2026 | 5.6.2026 | nein | KK lehnt Hoergeraet ab |
+| W xyz JC | Buergergeld-Sanktion| 22.5.2026 | 15.5.2026 | nein | Sanktion 30 % |
 ```
 
 ### Schritt 3 — Pro Bescheid sofort eintragen

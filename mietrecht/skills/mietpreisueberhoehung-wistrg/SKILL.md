@@ -1,13 +1,13 @@
 ---
 name: mietpreisueberhoehung-wistrg
-description: "Nutze dies, wenn Mietpreisueberhoehung Wistrg 1954 Mietwucher, Mietsenkungsverlangen, Mietspiegel Quellen im Plugin Mietrecht konkret bearbeitet werden soll. Auslöser: Bitte Mietpreisueberhoehung Wistrg 1954 Mietwucher, Mietsenkungsverlangen, Mietspiegel Quellen prüfen.; Erstelle eine Arbeitsfassung zu Mietpreisueberhoehung Wistrg 1954 Mietwucher, Mietsenkungsverlangen, Mietspiegel Quellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mietpreisueberhoehung Wistrg 1954 Mietwucher, Mietsenkungsverlangen, Mietspiegel Quellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mietpreisueberhoehung Wistrg 1954 Mietwucher, Mietsenkungsverlangen, Mietspiegel Quellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mietpreisueberhoehung Wistrg 1954 Mietwucher, Mietsenkungsverlangen, Mietspiegel Quellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -301,61 +301,61 @@ Am Ende von Schritt 6 wird ein strukturiertes Datenblatt erzeugt, das die Folges
 
 ```yaml
 mietspiegel_pruefung:
-  stand_der_pruefung: "JJJJ-MM-TT"
+ stand_der_pruefung: "JJJJ-MM-TT"
 
-  adresse:
-    strasse: ""
-    hausnummer: ""
-    plz: ""
-    stadt: ""
-    bundesland: ""
+ adresse:
+ strasse: ""
+ hausnummer: ""
+ plz: ""
+ stadt: ""
+ bundesland: ""
 
-  wohnung:
-    flaeche_qm: 0.0
-    baujahr: 0
-    wohnlage: ""        # einfach | mittel | gut
-    ausstattung:
-      bad: ""
-      kueche: ""
-      heizung: ""
-      bodenbelag: ""
-      fenster: ""
-      balkon_terrasse: ""
-      aufzug: false
-      stellplatz: false
+ wohnung:
+ flaeche_qm: 0.0
+ baujahr: 0
+ wohnlage: "" # einfach | mittel | gut
+ ausstattung:
+ bad: ""
+ kueche: ""
+ heizung: ""
+ bodenbelag: ""
+ fenster: ""
+ balkon_terrasse: ""
+ aufzug: false
+ stellplatz: false
 
-  mietspiegel:
-    quelle_url: ""
-    typ: ""             # qualifiziert | einfach
-    stand_jahr: 0
-    tabellen_zelle: ""  # z. B. "60–80 qm, BJ 1949–1977, mittlere Wohnlage"
-    spanne_von_eur_qm: 0.0
-    spanne_bis_eur_qm: 0.0
-    mittelwert_eur_qm: 0.0
-    zuschlaege_abschlaege_eur_qm: 0.0
-    ortsuebliche_vergleichsmiete_eur_qm: 0.0
+ mietspiegel:
+ quelle_url: ""
+ typ: "" # qualifiziert | einfach
+ stand_jahr: 0
+ tabellen_zelle: "" # z. B. "60–80 qm, BJ 1949–1977, mittlere Wohnlage"
+ spanne_von_eur_qm: 0.0
+ spanne_bis_eur_qm: 0.0
+ mittelwert_eur_qm: 0.0
+ zuschlaege_abschlaege_eur_qm: 0.0
+ ortsuebliche_vergleichsmiete_eur_qm: 0.0
 
-  mietverhaeltnis:
-    beginn: "JJJJ-MM-TT"
-    aktuelle_nettokaltmiete_eur_gesamt: 0.0
-    aktuelle_nettokaltmiete_eur_qm: 0.0
-    neuvermietung_oder_bestand: ""  # neuvermietung | bestand
+ mietverhaeltnis:
+ beginn: "JJJJ-MM-TT"
+ aktuelle_nettokaltmiete_eur_gesamt: 0.0
+ aktuelle_nettokaltmiete_eur_qm: 0.0
+ neuvermietung_oder_bestand: "" # neuvermietung | bestand
 
-  mietpreisbremse:                  # nur bei neuvermietung
-    landesverordnung: ""
-    angespannter_markt: false
-    hoechstmiete_eur_qm: 0.0
-    ausnahmen_geprueft: []
+ mietpreisbremse: # nur bei neuvermietung
+ landesverordnung: ""
+ angespannter_markt: false
+ hoechstmiete_eur_qm: 0.0
+ ausnahmen_geprueft: []
 
-  kappungsgrenze:                   # nur bei bestand
-    verschaerft_durch_landesverordnung: false
-    obergrenze_prozent: 0           # 20 oder 15
-    wartefrist_eingehalten: true
+ kappungsgrenze: # nur bei bestand
+ verschaerft_durch_landesverordnung: false
+ obergrenze_prozent: 0 # 20 oder 15
+ wartefrist_eingehalten: true
 
-  ergebnis:
-    bewertung: ""                   # zulaessig | unzulaessig | grenzfall
-    differenz_eur_qm: 0.0
-    naechster_schritt: ""           # uebergabe an mieterhoehung-pruefen-widersprechen, klageentwurf-amtsgericht, etc.
+ ergebnis:
+ bewertung: "" # zulaessig | unzulaessig | grenzfall
+ differenz_eur_qm: 0.0
+ naechster_schritt: "" # uebergabe an mieterhoehung-pruefen-widersprechen, klageentwurf-amtsgericht, etc.
 ```
 
 ## Gerechnetes Beispiel (zur Plausibilisierung)

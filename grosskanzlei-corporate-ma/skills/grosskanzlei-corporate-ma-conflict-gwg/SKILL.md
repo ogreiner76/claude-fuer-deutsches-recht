@@ -163,24 +163,24 @@ Deal: [DEALNAME] — Mandat-Nr.: [AKTENZEICHEN]
 Datum: [DATUM] — Bearbeiter: [NAME]
 
 PARTEIEN
-  Kaeufer: [NAME], WB: [NAME, ANTEIL %]
-  Verkaeufer: [NAME], WB: [NAME, ANTEIL %]
-  Zielgesellschaft: [NAME], WB: [NAME, ANTEIL %]
+ Kaeufer: [NAME], WB: [NAME, ANTEIL %]
+ Verkaeufer: [NAME], WB: [NAME, ANTEIL %]
+ Zielgesellschaft: [NAME], WB: [NAME, ANTEIL %]
 
 SANKTIONS-SCREENING
-  Ergebnis: [ ] Kein Treffer [ ] Treffer → Eskalation
-  Datenbank: EU, OFAC, OFSI — Datum: [DATUM]
+ Ergebnis: [ ] Kein Treffer [ ] Treffer → Eskalation
+ Datenbank: EU, OFAC, OFSI — Datum: [DATUM]
 
 CONFLICTS-CHECK
-  Ergebnis: [ ] Kein Konflikt [ ] Konflikt → Waiver / Ablehnung
-  Fruehere Mandate: [LISTE]
+ Ergebnis: [ ] Kein Konflikt [ ] Konflikt → Waiver / Ablehnung
+ Fruehere Mandate: [LISTE]
 
 PEP-STATUS
-  [ ] Nein [ ] Ja → verstaerkte Sorgfalt (§ 15 GwG)
+ [ ] Nein [ ] Ja → verstaerkte Sorgfalt (§ 15 GwG)
 
 MITTELHERKUNFT
-  [ ] Dokumentiert — Quelle: [BANK/FONDS]
-  [ ] Offen → Nachfrage bis [DATUM]
+ [ ] Dokumentiert — Quelle: [BANK/FONDS]
+ [ ] Offen → Nachfrage bis [DATUM]
 
 ERGEBNIS: [ ] Mandat annehmbar [ ] Eskalation erforderlich [ ] Ablehnung
 Freigabe: [PARTNER] am [DATUM]

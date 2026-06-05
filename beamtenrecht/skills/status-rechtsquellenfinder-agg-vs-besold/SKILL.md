@@ -1,13 +1,13 @@
 ---
 name: status-rechtsquellenfinder-agg-vs-besold
-description: "Nutze dies, wenn Status Und Rechtsquellenfinder, Agg Vs 9 Bbg Auswahlverfahren, Besold Neu 014 Dienstunfall Unfallausgleich Heilverfahren, Besold Neu 017 Musterverfahren Ruhen Verjaehrung Nachzahlung im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Status Und Rechtsquellenfinder, Agg Vs 9 Bbg Auswahlverfahren, Besoldung Dienstunfall Unfallausgleich Heilverfahren, Besoldung Musterverfahren Ruhen Verjaehrung Nachzahlung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Status Und Rechtsquellenfinder, Agg Vs 9 Bbg Auswahlverfahren, Besold Neu 014 Dienstunfall Unfallausgleich Heilverfahren, Besold Neu 017 Musterverfahren Ruhen Verjaehrung Nachzahlung
+# Status Und Rechtsquellenfinder, Agg Vs 9 Bbg Auswahlverfahren, Besold Dienstunfall Unfallausgleich Heilverfahren, Besold Musterverfahren Ruhen Verjaehrung Nachzahlung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 
 ## Arbeitsweg
 
-Für **Status Und Rechtsquellenfinder, Agg Vs 9 Bbg Auswahlverfahren, Besold Neu 014 Dienstunfall Unfallausgleich Heilverfahren, Besold Neu 017 Musterverfahren Ruhen Verjaehrung Nachzahlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Status Und Rechtsquellenfinder, Agg Vs 9 Bbg Auswahlverfahren, Besold Dienstunfall Unfallausgleich Heilverfahren, Besold Musterverfahren Ruhen Verjaehrung Nachzahlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -133,7 +133,7 @@ Bewerberin 54 Jahre, fuer Stelle "wuenschenswert junges Team" Konkurrenz mit 28-
 **Fokus:** Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 
-# Besold Neu 014 Dienstunfall Unfallausgleich Heilverfahren
+# Besold Dienstunfall Unfallausgleich Heilverfahren
 
 ## Aufgabe
 
@@ -188,7 +188,7 @@ Skill fuer Dienstunfall — § 30 ff. BeamtVG mit Heilverfahren und Unfallausgle
 **Fokus:** Beamtenrecht: Musterverfahren Ruhen Verjährung Nachzahlung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 
-# Besold Neu 017 Musterverfahren Ruhen Verjaehrung Nachzahlung
+# Besold Musterverfahren Ruhen Verjaehrung Nachzahlung
 
 ## Aufgabe
 

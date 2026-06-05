@@ -1,13 +1,13 @@
 ---
 name: pralr-erster-titel-eigentum-besitz
-description: "Nutze dies, wenn Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte, Pralr Neu 006 Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Neu 007 Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Neu 008 Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Neu 009 Erster Teil Titel 6 Unerlaubte Handlungen Und Vers im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte, Pralr Neu 006 Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Neu 007 Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Neu 008 Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Neu 009 Erster Teil Titel 6 Unerlaubte Handlungen Und Vers prüfen.; Erstelle eine Arbeitsfassung zu Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte, Pralr Neu 006 Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Neu 007 Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Neu 008 Erster Teil Titel 5 Vertraege A..."
+description: "Nutze dies bei Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte, Pralr Neu 006 Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Neu 007 Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Neu 008 Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Neu 009 Erster Teil Titel 6 Unerlaubte Handlungen Und Vers
+# Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Erster Teil Titel 6 Unerlaubte Handlungen Und Vers
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Erster Teil Titel 6 Unerlaubte Handlungen Und Vers** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte, Pralr Neu 006 Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Neu 007 Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Neu 008 Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Neu 009 Erster Teil Titel 6 Unerlaubte Handlungen Und Vers** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Erster Teil Titel 2 Sachen Und Rechte, Pralr Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A, Pralr Erster Teil Titel 6 Unerlaubte Handlungen Und Vers** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -30,7 +30,7 @@ Für **Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte, Pralr Neu 006 Erster
 
 **Fokus:** PrALR: Erster Teil Titel 2 Sachen und Rechte mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte
+# Pralr Erster Teil Titel 2 Sachen Und Rechte
 
 ## Aufgabe
 
@@ -144,7 +144,7 @@ Eigentum, Besitz und Nutzung sind ueber mehrere Titel verteilt: Sachen (I 2), Ei
 
 **Fokus:** PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 007 Erster Teil Titel 4 Willenserklaerungen Und Vertra
+# Pralr Erster Teil Titel 4 Willenserklaerungen Und Vertra
 
 ## Aufgabe
 
@@ -190,7 +190,7 @@ A unterschreibt aus Furcht vor Drohung mit Gewalt.
 
 **Fokus:** PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 008 Erster Teil Titel 5 Vertraege Allgemein Form Und A
+# Pralr Erster Teil Titel 5 Vertraege Allgemein Form Und A
 
 ## Aufgabe
 

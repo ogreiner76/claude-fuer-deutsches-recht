@@ -1,13 +1,13 @@
 ---
 name: mandantenanfrage-schnell
-description: "Nutze dies, wenn Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller im Plugin Memorandums Ersteller konkret bearbeitet werden soll. Auslöser: Bitte Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller prüfen.; Erstelle eine Arbeitsfassung zu Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -172,8 +172,8 @@ Aliasnamen je nach Kanzleikultur: Memorandumsmacher, Memorandumisierer.
 ## Inputs
 
 - Mandantenunterlagen in beliebiger Mischform: E-Mails Verträge
-  Fotos handschriftliche Notizen Chats Kontoauszüge Gutachten
-  Aktenvermerke Gesprächsnotizen
+ Fotos handschriftliche Notizen Chats Kontoauszüge Gutachten
+ Aktenvermerke Gesprächsnotizen
 - Optional: vorgegebene Prüfungsrichtung (gerichtete Prüfung)
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Optional: vorhandenes Memorandum zur Aktualisierung
@@ -217,20 +217,20 @@ alle Zitate sind anhand der Originalquellen zu verifizieren.
 ## Methodik
 
 1. Dokumenten-Inventur — pro Eingangsdokument Typ Datum Quelle
-   notieren
+ notieren
 2. Tatsachen-Extraktion — jede Tatsache erhält Quellenreferenz im
-   Format `[Anlage K1 S. 2]` `[E-Mail v. 15.03.2024]`
-   `[Telefonat lt. Vermerk v. 20.03.2024]`
+ Format `[Anlage K1 S. 2]` `[E-Mail v. 15.03.2024]`
+ `[Telefonat lt. Vermerk v. 20.03.2024]`
 3. Chronologische Sortierung
 4. Widerspruchsprüfung — abweichende Datums- oder Sachangaben
-   werden BEIDE dokumentiert und als klärungsbedürftig markiert
+ werden BEIDE dokumentiert und als klärungsbedürftig markiert
 5. Abschnitt "Noch zu klären" am Ende des Sachverhalts
 6. Identifikation der Rechtsfragen — entweder nach Vorgabe oder
-   offen mit Piercing-Questions
+ offen mit Piercing-Questions
 7. Ein-Satz-Fragen formulieren und durchnummerieren
 8. Ein-Satz-Antworten formulieren und entsprechend nummerieren
 9. Rechtliche Ausführungen — pro Frage ein eigener Block mit
-   sauberer Prüfungsstruktur
+ sauberer Prüfungsstruktur
 10. Zitate verifizieren oder mit `[Quelle zu verifizieren]` markieren
 
 ## Ein-Satz-Regel
@@ -279,12 +279,12 @@ konkret S. 1237.
 
 - Nur Quellen zitieren die existieren und verifizierbar sind
 - Bei Unsicherheit `[Quelle zu verifizieren]` einfügen ODER auf
-  Zitat verzichten
+ Zitat verzichten
 - Niemals plausibel klingende aber erfundene Aktenzeichen oder
-  Fundstellen ausgeben
+ Fundstellen ausgeben
 - Eigene Wertungen NICHT als Tatsache darstellen
 - Bei Tatsachen die nicht aus den Unterlagen folgen wird im
-  Sachverhalt eine Lücke markiert nicht ergänzt
+ Sachverhalt eine Lücke markiert nicht ergänzt
 
 ## Prüfungsmodi
 
@@ -315,9 +315,9 @@ Der pauschale Hinweis im Output ist Pflicht und nicht zu löschen.
 ## Output-Datei
 
 - `Memorandum_<Mandat>_<ISO-Datum>.docx` auf Kanzlei- oder
-  Abteilungsbriefkopf falls Vorlage beigefügt
+ Abteilungsbriefkopf falls Vorlage beigefügt
 - Optional `Memorandum_<Mandat>_<ISO-Datum>.md` als reine
-  Textversion
+ Textversion
 
 ## Fortlaufende Aktualisierung
 
@@ -329,20 +329,20 @@ werden in "Noch zu klären" sichtbar gemacht.
 ## Beispielformulierungen
 
 - "Hier sind alle Mandantenunterlagen zum Fall Mueller gegen ABC
-  GmbH. Erstelle ein Memorandum mit offener Prüfung und
-  Piercing-Questions."
+ GmbH. Erstelle ein Memorandum mit offener Prüfung und
+ Piercing-Questions."
 - "Prüfe gerichtet die Wirksamkeit der Kündigung vom fünfzehnten
-  Juni. Memorandum auf Kanzlei-Briefkopf."
+ Juni. Memorandum auf Kanzlei-Briefkopf."
 - "Hier ist das bisherige Memorandum und neue Korrespondenz vom
-  letzten Monat. Aktualisiere bitte und markiere Neuzugänge."
+ letzten Monat. Aktualisiere bitte und markiere Neuzugänge."
 - "Memorandum-Kurzversion für einfache Rechtsfrage zum
-  Gewährleistungsausschluss."
+ Gewährleistungsausschluss."
 
 ## Variationen
 
 - Kurzversion für einfache Einzelfragen
 - Ausführliche Version mit Zeitleiste und Beteiligtenliste als
-  Anhang
+ Anhang
 - Gutachten-Version mit Alternativprüfungen und Risikoanalyse
 - Prozess-Version mit Beweiswürdigung und Prozessrisikoanalyse
 - Due-Diligence-Version mit Risikoklassifizierung

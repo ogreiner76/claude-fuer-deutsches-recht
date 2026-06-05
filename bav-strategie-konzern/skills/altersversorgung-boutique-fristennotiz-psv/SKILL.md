@@ -1,13 +1,13 @@
 ---
 name: altersversorgung-boutique-fristennotiz-psv
-description: "Nutze dies, wenn Spezial Altersversorgung Fristen Form Und Zustaendigkeit, Spezial Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungsketten im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Spezial Altersversorgung Fristen Form Und Zustaendigkeit, Spezial Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungsketten prüfen.; Erstelle eine Arbeitsfassung zu Spezial Altersversorgung Fristen Form Und Zustaendigkeit, Spezial Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungsketten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Altersversorgung Fristen Form Und Zustaendigkeit, Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungsketten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Altersversorgung Fristen Form Und Zustaendigkeit, Spezial Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungsketten
+# Altersversorgung Fristen Form Und Zustaendigkeit, Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungsketten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Altersversorgung Fristen Form Und Zustaendigkeit, Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungsketten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Altersversorgung Fristen Form Und Zustaendigkeit, Spezial Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungsketten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Altersversorgung Fristen Form Und Zustaendigkeit, Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungsketten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Altersversorgung Fristen Form Und Zustaendigkeit, Spezial Boutiqu
 # Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg / spezial altersversorgung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg / altersversorgung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -97,7 +97,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Boutique: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Boutique: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Boutique: Fristennotiz und nächster Schritt / spezial boutique fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Boutique: Fristennotiz und nächster Schritt / boutique fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -212,33 +212,33 @@ Im Konzernverbund gilt: Beendet eine Konzerngesellschaft (Tochter) ihr Arbeitsve
 PSV-JAHRESMELDUNG
 gem. § 14 BetrAVG
 
-Meldepflichtiger:    [Konzern Muster AG], Düsseldorf
-Steuernummer:        [Steuernummer]
-Meldezeitraum:       1.1.JJJJ – 31.12.JJJJ
-Bearbeiter:          [Name], Tel. [Nummer]
+Meldepflichtiger: [Konzern Muster AG], Düsseldorf
+Steuernummer: [Steuernummer]
+Meldezeitraum: 1.1.JJJJ – 31.12.JJJJ
+Bearbeiter: [Name], Tel. [Nummer]
 
 A. DIREKTZUSAGEN
-   Barwert der Versorgungsverpflichtungen (Teilwert § 6a EStG):
-   Aktive Anwärter:         EUR [Betrag]
-   Rentner:                 EUR [Betrag]
-   Ausgeschiedene Unverfallbare: EUR [Betrag]
-   Gesamt Direktzusagen:    EUR [Betrag]
+ Barwert der Versorgungsverpflichtungen (Teilwert § 6a EStG):
+ Aktive Anwärter: EUR [Betrag]
+ Rentner: EUR [Betrag]
+ Ausgeschiedene Unverfallbare: EUR [Betrag]
+ Gesamt Direktzusagen: EUR [Betrag]
 
 B. UNTERSTÜTZUNGSKASSE
-   Deckungslücke (Fehlbetrag):  EUR [Betrag]
-   [sofern deckungsgleiche Rückdeckungsversicherung: Abzug EUR]
+ Deckungslücke (Fehlbetrag): EUR [Betrag]
+ [sofern deckungsgleiche Rückdeckungsversicherung: Abzug EUR]
 
 C. PENSIONSFONDS
-   Barwert ungedeckter Leistungen: EUR [Betrag]
+ Barwert ungedeckter Leistungen: EUR [Betrag]
 
-D. GESAMT-BEITRAGSBEMESSUNGSGRUNDLAGE:  EUR [Betrag]
+D. GESAMT-BEITRAGSBEMESSUNGSGRUNDLAGE: EUR [Betrag]
 
 E. BEITRAG (Beitragssatz × Bemessungsgrundlage):
-   Beitragssatz [JJJJ]:         [X]‰
-   Jahresbeitrag:               EUR [Betrag]
+ Beitragssatz [JJJJ]: [X]‰
+ Jahresbeitrag: EUR [Betrag]
 
-Unterschrift Geschäftsführung:  ________________________
-Datum:                          [Datum]
+Unterschrift Geschäftsführung: ________________________
+Datum: [Datum]
 ```
 
 ### Template 2: Checkliste PSV-Schutzlücken-Audit
@@ -249,9 +249,9 @@ bAV-Projektteam · fachliche Leitung
 
 □ Sind alle PSV-pflichtigen Durchführungswege vollständig gemeldet?
 □ Direktversicherungen: Bezugsrecht widerruflich oder unwiderruflich?
-  (Widerruflich → PSV-Pflicht prüfen)
+ (Widerruflich → PSV-Pflicht prüfen)
 □ Pensionskassen: Eigene Sicherungseinrichtung (§ 8 BetrAVG) vorhanden?
-  (Wenn Nein → PSV-Pflicht beachten)
+ (Wenn Nein → PSV-Pflicht beachten)
 □ Konzerngesellschaften außerhalb Deutschlands:
 □ § 613a BGB bei letztem Betriebsübergang: PSV-Haftung Veräußerer beachtet?
 □ Kleinstanwartschaft-Abfindungen: Zulässigkeitsgrenze § 3 Abs. 2 BetrAVG eingehalten?

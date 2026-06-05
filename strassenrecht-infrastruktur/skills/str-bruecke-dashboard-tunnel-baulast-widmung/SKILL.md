@@ -1,13 +1,13 @@
 ---
 name: str-bruecke-dashboard-tunnel-baulast-widmung
-description: "Nutze dies, wenn Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfen, Str 092 Tunnel Widmung Lesen, Str 093 Tunnel Planrecht Prüfen im Plugin Strassenrecht Infrastruktur konkret bearbeitet werden soll. Auslöser: Bitte Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfen, Str 092 Tunnel Widmung Lesen, Str 093 Tunnel Planrecht Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfen, Str 092 Tunnel Widmung Lesen, Str 093 Tunnel Planrecht Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfen, Str 092 Tunnel Widmung Lesen, Str 093 Tunnel Planrecht Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfen, Str 092 Tunnel Widmung Lesen, Str 093 Tunnel Planrecht Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Str 090 Bruecke Dashboard Erstellen, Str 091 Tunnel Baulast Prüfen, Str 092 Tunnel Widmung Lesen, Str 093 Tunnel Planrecht Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Apothekenrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Spezial-Skills aus diesem Plugin vor."
+description: "Einstieg, Schnelltriage und Fallrouting im Apothekenrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, erkennt stumme Uploads und schlägt passende Fachmodule aus diesem Plugin vor."
 ---
 
 # Apothekenrecht — Allgemein
@@ -16,7 +16,7 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 1. **Erkannt:** Dokumentart, Absender, Datum, Aktenzeichen, Beteiligte und Lebenssachverhalt nennen.
 2. **Frist zuerst:** Zustellung, Rechtsbehelf, Behördenfrist, Zahlungsziel, Ausschlussfrist oder Verjährungsrisiko markieren.
 3. **Einordnung:** Rechtsgebiet, Normengruppe, Behörde/Gericht und Arbeitstyp bestimmen.
-4. **Primärer Pfad:** den wahrscheinlich passenden Spezial-Skill aus diesem Plugin nennen und bei eindeutigem Treffer direkt anwenden.
+4. **Primärer Pfad:** den wahrscheinlich passenden Fachmodul aus diesem Plugin nennen und bei eindeutigem Treffer direkt anwenden.
 5. **Nur eine Rückfrage:** nur wenn ohne die Antwort ein falscher nächster Schritt droht.
 
 ## Intake in 60 Sekunden
@@ -84,7 +84,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | Skill | Wann einsetzen? |
 | --- | --- |
 | `amts-medikationsanalyse-beratungspflicht` | AMTS Medikationsanalyse Beratungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |
-| `apothekenbetrieb-dokumentenintake` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Apothekenbetrieb Dokumentenintake. |
+| `apothekenbetrieb-dokumentenintake` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Apothekenbetrieb Dokumentenintake. |
 | `apothekenbetriebsordnung-grundpflichten` | Apothekenbetriebsordnung Grundpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |
 | `apothekenerlaubnis-apog-persoenliche-voraussetzungen` | Apothekenerlaubnis ApoG persönliche Voraussetzungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/Bt... |
 | `apothekenrevision-vorbereitung-antwort` | Apothekenrevision Vorbereitung Antwort: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, D... |
@@ -92,12 +92,12 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `arzneimittelabgabe-verschreibungspflicht` | Arzneimittelabgabe Verschreibungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |
 | `arzneimittelpruefung-ausgangsstoffe-pruefprotokoll` | Arzneimittelprüfung Ausgangsstoffe Prüfprotokoll: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV... |
 | `arzneimittelrisiken-rueckruf-chargenrueckverfolgung` | Arzneimittelrisiken Rückruf Chargenrückverfolgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMV... |
-| `aufsicht-anhoerung-ordnungswidrigkeit` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörung Ordnungswidrigkeit. |
+| `aufsicht-anhoerung-ordnungswidrigkeit` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörung Ordnungswidrigkeit. |
 | `beanstandung-durch-aufsichtsbehoerde-anhoerung` | Beanstandung durch Aufsichtsbehörde Anhörung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SG... |
 | `beschwerdemanagement-patient-kunden` | Beschwerdemanagement Patient Kunden: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGV... |
 | `blutprodukte-haemophilie-registerpflicht` | Blutprodukte Hämophilie Registerpflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |
 | `btm-rezept-betaeubungsmittel-dokumentation` | BtM-Rezept Betäubungsmittel Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V... |
-| `btm-rezeptur-amts-schnellcheck` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema BtM Rezeptur AMTS Schnellcheck. |
+| `btm-rezeptur-amts-schnellcheck` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema BtM Rezeptur AMTS Schnellcheck. |
 | `cannabis-medizinalcannabis-abgabe-dokumentation` | Cannabis Medizinalcannabis Abgabe Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV,... |
 | `compliance-audit-apothekenverbund` | Compliance-Audit Apothekenverbund: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO,... |
 | `datenschutz-in-apotheke-gesundheitsdaten` | Datenschutz in Apotheke Gesundheitsdaten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |
@@ -105,7 +105,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `dienstbereitschaft-notdienst-schliessung` | Dienstbereitschaft Notdienst Schließung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |
 | `digitale-plattformen-marktplatz-apothekenrecht` | Digitale Plattformen Marktplatz Apothekenrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV,... |
 | `e-rezept-ti-gematik-apothekenprozess` | E-Rezept TI Gematik Apothekenprozess: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSG... |
-| `erlaubnis-filialverbund-routing` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Erlaubnis Filialverbund Routing. |
+| `erlaubnis-filialverbund-routing` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Erlaubnis Filialverbund Routing. |
 | `filialapotheke-hauptapotheke-leitung-vertretung` | Filialapotheke Hauptapotheke Leitung Vertretung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV,... |
 | `fremd-und-mehrbesitzverbot-apothekenrecht` | Fremd- und Mehrbesitzverbot Apothekenrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB... |
 | `gefahrstoffe-chemikalien-ausgangsstoffe` | Gefahrstoffe Chemikalien Ausgangsstoffe: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |
@@ -114,16 +114,16 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `impfleistungen-in-apotheken` | Impfleistungen in Apotheken: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rez... |
 | `import-einzelimport-73-amg` | Import Einzelimport § 73 AMG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Re... |
 | `inhaberwechsel-kauf-apothekenbetrieb` | Inhaberwechsel Kauf Apothekenbetrieb: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSG... |
-| `kaltstart-apothekenrecht` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart Apothekenrecht. |
+| `kaltstart-apothekenrecht` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart Apothekenrecht. |
 | `kooperation-arzt-apotheke-antikorruption` | Kooperation Arzt Apotheke Antikorruption: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V,... |
 | `krankenhausversorgung-krankenhausapotheke` | Krankenhausversorgung Krankenhausapotheke: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V... |
 | `kuehlkette-temperaturmonitoring-gdp` | Kühlkette Temperaturmonitoring GDP: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO... |
 | `lieferengpaesse-austausch-dokumentation` | Lieferengpässe Austausch Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, D... |
-| `livecheck-apog-apbetro-amg` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck ApoG ApBetrO AMG. |
+| `livecheck-apog-apbetro-amg` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck ApoG ApBetrO AMG. |
 | `mietvertrag-apothekenstandort-konkurrenzschutz` | Mietvertrag Apothekenstandort Konkurrenzschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV,... |
 | `notfallkontrazeption-beratung` | Notfallkontrazeption Beratung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-R... |
 | `onlinewerbung-hwg-apotheken` | Onlinewerbung HWG Apotheken: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rez... |
-| `output-behoerdenbrief-sop-mandantenmemo` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Behördenbrief SOP Mandantenmemo. |
+| `output-behoerdenbrief-sop-mandantenmemo` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Behördenbrief SOP Mandantenmemo. |
 | `owi-strafrisiken-apog-amg-btmg` | OWi Strafrisiken ApoG AMG BtMG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-... |
 | `personal-pharmazeutisch-nichtpharmazeutisch-vertretung` | Personal pharmazeutisch nichtpharmazeutisch Vertretung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG... |
 | `pharmazeutische-dienstleistungen-verguetung` | Pharmazeutische Dienstleistungen Vergütung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB... |
@@ -143,7 +143,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `t-rezept-besondere-arzneimittel` | T-Rezept besondere Arzneimittel: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E... |
 | `telepharmazie-grenzen-chancen` | Telepharmazie Grenzen Chancen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-R... |
 | `tierarzneimittel-apothekenabgabe-versand-ab-2026` | Tierarzneimittel Apothekenabgabe Versand ab 2026: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV... |
-| `versandhandel-und-e-rezept-intake` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel und E-Rezept Intake. |
+| `versandhandel-und-e-rezept-intake` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel und E-Rezept Intake. |
 | `versandhandelserlaubnis-eu-versandapotheke` | Versandhandelserlaubnis EU Versandapotheke: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB... |
 | `versorgung-pflegeheim-schnittstelle` | Versorgung Pflegeheim Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGV... |
 | `widerruf-ruecknahme-ruhen-apothekenerlaubnis` | Widerruf Rücknahme Ruhen Apothekenerlaubnis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB... |

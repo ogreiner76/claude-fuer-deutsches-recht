@@ -1,22 +1,22 @@
 ---
 name: verbundene-unternehmen-verhandlungsposition
-description: "Nutze dies, wenn Verbundene Unternehmen Berater Finanzierer, Verhandlungsposition Und Fallbacks, Verletzung Incident Response, Vertrauliche Information Definition im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Verbundene Unternehmen Berater Finanzierer, Verhandlungsposition Und Fallbacks, Verletzung Incident Response, Vertrauliche Information Definition prüfen.; Erstelle eine Arbeitsfassung zu Verbundene Unternehmen Berater Finanzierer, Verhandlungsposition Und Fallbacks, Verletzung Incident Response, Vertrauliche Information Definition.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verbundene Unternehmen Berater Finanzierer, Verhandlungsposition Und Fallbacks, Verletzung Incident Response, Vertrauliche Information Definition: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verbundene Unternehmen Berater Finanzierer, Verhandlungsposition Und Fallbacks, Verletzung Incident Response, Vertrauliche Information Definition
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verbundene Unternehmen Berater Finanzierer, Verhandlungsposition Und Fallbacks, Verletzung Incident Response, Vertrauliche Information Definition** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `verbundene-unternehmen-berater-finanzierer` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verbundene Unternehmen Berater Finanzierer; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `verhandlungsposition-und-fallbacks` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verhandlungsposition Und Fallbacks; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `verletzung-incident-response` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verletzung Incident Response; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vertrauliche-information-definition` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vertrauliche Information Definition; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `verbundene-unternehmen-berater-finanzierer` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verbundene Unternehmen Berater Finanzierer; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `verhandlungsposition-und-fallbacks` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verhandlungsposition Und Fallbacks; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `verletzung-incident-response` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verletzung Incident Response; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vertrauliche-information-definition` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vertrauliche Information Definition; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Verbundene Unternehmen Berater Finanzierer, Verhandlungsposition Und Fall
 
 ## 1. `verbundene-unternehmen-berater-finanzierer`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verbundene Unternehmen Berater Finanzierer; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verbundene Unternehmen Berater Finanzierer; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Verbundene Unternehmen Berater Finanzierer
 
@@ -81,7 +81,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `verhandlungsposition-und-fallbacks`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verhandlungsposition Und Fallbacks; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verhandlungsposition Und Fallbacks; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Verhandlungsposition Und Fallbacks
 
@@ -138,7 +138,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `verletzung-incident-response`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verletzung Incident Response; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verletzung Incident Response; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Verletzung Incident Response
 
@@ -195,7 +195,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `vertrauliche-information-definition`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vertrauliche Information Definition; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Vertrauliche Information Definition; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vertrauliche Information Definition
 

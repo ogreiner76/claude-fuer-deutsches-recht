@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-unabhaengigkeit-pie
-description: "Nutze dies, wenn Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kaltstart U, Wirtschaftspruefer Verschwiegenheit Und Datenraum Kaltstart Und, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kaltstart Und F, Quellen Und Rechtsprechungscheck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

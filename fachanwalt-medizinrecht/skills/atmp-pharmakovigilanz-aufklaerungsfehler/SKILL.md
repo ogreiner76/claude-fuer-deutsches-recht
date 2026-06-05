@@ -1,20 +1,20 @@
 ---
 name: atmp-pharmakovigilanz-aufklaerungsfehler
-description: "Nutze dies, wenn Atmp Pharmakovigilanz Rmp, Aufklaerungsfehler Beweisstrategie, Befundherausgabe Epa Akte, Behandlungsfehler Anspruch Prüfen im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Atmp Pharmakovigilanz Rmp, Aufklaerungsfehler Beweisstrategie, Befundherausgabe Epa Akte, Behandlungsfehler Anspruch Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Atmp Pharmakovigilanz Rmp, Aufklaerungsfehler Beweisstrategie, Befundherausgabe Epa Akte, Behandlungsfehler Anspruch Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `atmp-pharmakovigilanz-rmp` | ATMP-Pharmakovigilanz und RMP: moderner Medizinrechts-Skill für Risk-Management-Plan, Langzeit-Follow-up, Register, Safety Signals und Behördenkommunikation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `aufklaerungsfehler-beweisstrategie` | Workflow-Skill zu aufklaerungsfehler beweisstrategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `aufklaerungsfehler-beweisstrategie` | Arbeitsmodul zu aufklaerungsfehler beweisstrategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `befundherausgabe-epa-akte` | Befundherausgabe, ePA und Akte: moderner Medizinrechts-Skill für Patient verlangt Akte, ePA-Dokumente, Rohdaten, Bilddaten und Herausgabeformat. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `behandlungsfehler-anspruch-pruefen` | Strukturierte Prüfung von Ansprüchen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklärungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjährung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB. |
 
@@ -86,7 +86,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `aufklaerungsfehler-beweisstrategie`
 
-**Fokus:** Workflow-Skill zu aufklaerungsfehler beweisstrategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu aufklaerungsfehler beweisstrategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 
 # Aufklärungsfehler — Beweisstrategie
@@ -162,40 +162,40 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 Aufklaerungs-Anamnese [Name, Datum, AZ]
 
 1. Wer hat aufgeklaert?
-   [ ] Operateur selbst
-   [ ] Anderer Facharzt (Name?)
-   [ ] Assistenzarzt / Unterarzt
-   [ ] Pflegekraft (unzureichend nach § 630e Abs. 2 Nr. 1 BGB)
+ [ ] Operateur selbst
+ [ ] Anderer Facharzt (Name?)
+ [ ] Assistenzarzt / Unterarzt
+ [ ] Pflegekraft (unzureichend nach § 630e Abs. 2 Nr. 1 BGB)
 
 2. Wann?
-   [ ] Vor Eingriff: ___ Tage/Stunden
-   [ ] Ort: Sprechstunde / Bettenstation / Aufnahme / OP-Vorbereitung
+ [ ] Vor Eingriff: ___ Tage/Stunden
+ [ ] Ort: Sprechstunde / Bettenstation / Aufnahme / OP-Vorbereitung
 
 3. Wie lange dauerte das Gespraech?
-   ___ Minuten. (Kurzgespraech unter 5 Min. Indiz fuer unzureichende Aufklaerung)
+ ___ Minuten. (Kurzgespraech unter 5 Min. Indiz fuer unzureichende Aufklaerung)
 
 4. Welche Risiken wurden konkret genannt?
-   [freitextlich]
+ [freitextlich]
 
 5. Wurde ueber Alternativen gesprochen?
-   [ ] Konservative Behandlung
-   [ ] Anderes Operationsverfahren
-   [ ] Abwarten / Watchful Waiting
-   [ ] Keine Alternativen genannt
+ [ ] Konservative Behandlung
+ [ ] Anderes Operationsverfahren
+ [ ] Abwarten / Watchful Waiting
+ [ ] Keine Alternativen genannt
 
 6. Lag ein Aufklaerungsbogen vor?
-   [ ] Ja — war er beim Gespraech oder erst danach ausgehaendigt?
-   [ ] Handschriftliche Eintragungen vorhanden? Welche?
-   [ ] Nur Standardtext angekreuzt
+ [ ] Ja — war er beim Gespraech oder erst danach ausgehaendigt?
+ [ ] Handschriftliche Eintragungen vorhanden? Welche?
+ [ ] Nur Standardtext angekreuzt
 
 7. War eine Begleitperson anwesend?
-   [ ] Ja: Name, Verhaeltnis, Anschrift
-   [ ] Nein
+ [ ] Ja: Name, Verhaeltnis, Anschrift
+ [ ] Nein
 
 8. Koennte Mandant bei richtiger Aufklaerung abgelehnt haben?
-   [ ] Ja — wegen: [Familienplanung / Berufliche Gruende / Religioese Gruende /
-                     Fruehere negative Operationserfahrung]
-   [ ] Unklar
+ [ ] Ja — wegen: [Familienplanung / Berufliche Gruende / Religioese Gruende /
+ Fruehere negative Operationserfahrung]
+ [ ] Unklar
 ```
 
 ### Schriftsatz-Baustein Aufklärungsfehler Klagebegründung
@@ -204,40 +204,40 @@ Aufklaerungs-Anamnese [Name, Datum, AZ]
 II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
 
 1. Inhaltliche Maengel der Aufklaerung
-   Der behandelnde Arzt hat die Klaegerin / den Klaeger vor dem
-   Eingriff vom [Datum] nicht ordnungsgemaess aufgeklaert.
-   Insbesondere hat er es unterlassen, auf folgende Risiken
-   hinzuweisen:
-   a) [eingriffsspezifisches Risiko]
-   b) [Alternativmethode mit geringerer Morbiditat]
-   c) [Risiko aus individuellen Vorerkrankungen]
+ Der behandelnde Arzt hat die Klaegerin / den Klaeger vor dem
+ Eingriff vom [Datum] nicht ordnungsgemaess aufgeklaert.
+ Insbesondere hat er es unterlassen, auf folgende Risiken
+ hinzuweisen:
+ a) [eingriffsspezifisches Risiko]
+ b) [Alternativmethode mit geringerer Morbiditat]
+ c) [Risiko aus individuellen Vorerkrankungen]
 
-   Der verwendete Standard-Aufklaerungsbogen enthalt keine
-   handschriftlichen Eintragungen zu den persoenlichen Risiken
-   der Klaegerin / des Klaegers. Er ist damit kein Beleg fuer
-   ein individualisiertes Aufklaerungsgespraech.
+ Der verwendete Standard-Aufklaerungsbogen enthalt keine
+ handschriftlichen Eintragungen zu den persoenlichen Risiken
+ der Klaegerin / des Klaegers. Er ist damit kein Beleg fuer
+ ein individualisiertes Aufklaerungsgespraech.
 
 2. Mangelnde Rechtzeitigkeit
-   Die Aufklaerung erfolgte am [Datum, Uhrzeit], mithin nur
-   [X Stunden] vor dem Eingriff / nach Vergabe der Praemedikation.
-   Ein freier Willensentschluss war der Klaegerin / dem Klaeger
-   zu diesem Zeitpunkt nicht mehr moeglich.
+ Die Aufklaerung erfolgte am [Datum, Uhrzeit], mithin nur
+ [X Stunden] vor dem Eingriff / nach Vergabe der Praemedikation.
+ Ein freier Willensentschluss war der Klaegerin / dem Klaeger
+ zu diesem Zeitpunkt nicht mehr moeglich.
 
 3. Beweislast
-   Gemaess § 630h Abs. 2 BGB traegt die Beklagte die Beweis-
-   last fuer eine ordnungsgemaesse Aufklaerung und eine
-   wirksame Einwilligung. Diese Beweislast kann mit dem
-   vorgelegten Standard-Aufklaerungsbogen nicht erfuellt werden
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Gemaess § 630h Abs. 2 BGB traegt die Beklagte die Beweis-
+ last fuer eine ordnungsgemaesse Aufklaerung und eine
+ wirksame Einwilligung. Diese Beweislast kann mit dem
+ vorgelegten Standard-Aufklaerungsbogen nicht erfuellt werden
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 4. Keine hypothetische Einwilligung
-   Die Beklagte kann sich nicht mit Erfolg auf eine
-   hypothetische Einwilligung berufen. Die Klaegerin / der
-   Klaeger befand sich bei ordnungsgemaesser Aufklaerung in
-   einem plausiblen Entscheidungskonflikt, weil [konkret:
-   Familienplanung, weniger invasive Alternative bekannt etc.].
-   Dies ergibt sich aus [Mandantenvortrag + ggf. Zeuge].
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Die Beklagte kann sich nicht mit Erfolg auf eine
+ hypothetische Einwilligung berufen. Die Klaegerin / der
+ Klaeger befand sich bei ordnungsgemaesser Aufklaerung in
+ einem plausiblen Entscheidungskonflikt, weil [konkret:
+ Familienplanung, weniger invasive Alternative bekannt etc.].
+ Dies ergibt sich aus [Mandantenvortrag + ggf. Zeuge].
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klaeren ---
@@ -514,17 +514,17 @@ in Ihrer Einrichtung vom [Datum bis Datum] behandelt.
 
 II. Behandlungsfehler
 1. [Spezifischer Fehler]: Verstoss gegen medizinischen Standard
-   gemaess § 630a Abs. 2 BGB, naemlich [konkrete Handlung /
-   Unterlassung]. Massgeblicher Standard zum Behandlungs-
-   zeitpunkt ergibt sich aus [Leitlinie, Sachverstaendigen-
-   einschaetzung, Literatur].
+ gemaess § 630a Abs. 2 BGB, naemlich [konkrete Handlung /
+ Unterlassung]. Massgeblicher Standard zum Behandlungs-
+ zeitpunkt ergibt sich aus [Leitlinie, Sachverstaendigen-
+ einschaetzung, Literatur].
 
 2. Voll beherrschbares Risiko § 630h Abs. 1 BGB: [Hygiene-
-   mangel / Geraetedefekt] — Vermutung des Behandlungsfehlers.
+ mangel / Geraetedefekt] — Vermutung des Behandlungsfehlers.
 
 3. Befunderhebungsfehler § 630h Abs. 5 Satz 2 BGB: Unterlassen
-   der Untersuchung [X]; ein positiver Befund war hinreichend
-   wahrscheinlich; Beweislastumkehr fuer Kausalitaet.
+ der Untersuchung [X]; ein positiver Befund war hinreichend
+ wahrscheinlich; Beweislastumkehr fuer Kausalitaet.
 
 III. Schaeden
 - Schmerzensgeld EUR ____ (Begr.: [Tabellen-Referenz])

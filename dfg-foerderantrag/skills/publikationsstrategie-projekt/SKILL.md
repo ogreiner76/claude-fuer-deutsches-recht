@@ -1,13 +1,13 @@
 ---
 name: publikationsstrategie-projekt
-description: "Nutze dies, wenn Dfg Publikationsstrategie Projekt, Dfg Replikationskrise Statistik Spezial, Dfg Sachbeihilfe Elan Formalia im Plugin Dfg Foerderantrag konkret bearbeitet werden soll. Auslöser: Bitte Dfg Publikationsstrategie Projekt, Dfg Replikationskrise Statistik Spezial, Dfg Sachbeihilfe Elan Formalia prüfen.; Erstelle eine Arbeitsfassung zu Dfg Publikationsstrategie Projekt, Dfg Replikationskrise Statistik Spezial, Dfg Sachbeihilfe Elan Formalia.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dfg Publikationsstrategie Projekt, Dfg Replikationskrise Statistik Spezial, Dfg Sachbeihilfe Elan Formalia: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dfg Publikationsstrategie Projekt, Dfg Replikationskrise Statistik Spezial, Dfg Sachbeihilfe Elan Formalia
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dfg Publikationsstrategie Projekt, Dfg Replikationskrise Statistik Spezial, Dfg Sachbeihilfe Elan Formalia** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

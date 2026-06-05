@@ -1,22 +1,22 @@
 ---
 name: fitnessstudio-agb-force-majeure-formvorgaben
-description: "Nutze dies, wenn Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation prüfen.; Erstelle eine Arbeitsfassung zu Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Erklaerungen 309, Forschung Entwicklung Agb, Fragebogen Agb Automation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fitnessstudio-agb` | Branchen-Spezialskill für Fitnessstudio AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `force-majeure-hoehere-gewalt` | Klausel-Spezialskill für Force Majeure Höhere Gewalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `fitnessstudio-agb` | Branchen-Fachmodul für Fitnessstudio AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `force-majeure-hoehere-gewalt` | Klausel-Fachmodul für Force Majeure Höhere Gewalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `formvorgaben-anzeigen-erklaerungen-309` | Norm- und Dogmatik-Skill für Formvorgaben Anzeigen Erklärungen 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `forschung-entwicklung-agb` | Branchen-Spezialskill für Forschung Entwicklung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `forschung-entwicklung-agb` | Branchen-Fachmodul für Forschung Entwicklung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `fragebogen-agb-automation` | Output- und Streit-Skill für Fragebogen AGB Automation: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Fitnessstudio Agb, Force Majeure Hoehere Gewalt, Formvorgaben Anzeigen Er
 
 ## 1. `fitnessstudio-agb`
 
-**Fokus:** Branchen-Spezialskill für Fitnessstudio AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Fitnessstudio AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Fitnessstudio AGB
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `force-majeure-hoehere-gewalt`
 
-**Fokus:** Klausel-Spezialskill für Force Majeure Höhere Gewalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Force Majeure Höhere Gewalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Force Majeure Höhere Gewalt
 
@@ -164,12 +164,12 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 309 Nr. 13 BGB (Formvorgaben fuer Anzeigen und Erklaerungen des Verbrauchers):**
-   - **Verbot:** Klauseln, die den Verbraucher zu einer strengeren Form als Textform (§ 126b BGB) verpflichten, sind unwirksam (Stand seit Reform 01.10.2016).
-   - **Erfasste Erklaerungen:** Kuendigung, Widerruf, Mangelanzeige, Ruecktritt, sonstige rechtsbedeutsame Erklaerungen des Verbrauchers.
-   - **Textform ist Untergrenze:** E-Mail, SMS, Fax, Brief - alle ausreichend. Schriftformerfordernis (§ 126 BGB mit eigenhaendiger Unterschrift) im B2C in AGB unwirksam.
-   - **B2B-Wertung ueber § 307 BGB:** Im B2B kann Schriftform fuer wichtige Erklaerungen vereinbart werden, jedoch keine Beschraenkung auf qualifizierte elektronische Signatur (§ 126a BGB), wenn Textform ausreichend ist.
-   - **Gesetzliche Ausnahmen:** Wenn das Gesetz selbst strenge Form vorsieht, bleibt diese erforderlich (z.B. § 623 BGB Schriftform Arbeitsvertrag-Kuendigung, § 766 BGB Buergschaft; diese sind keine AGB-Folgen sondern gesetzliche Anforderungen).
-   - **Praktischer Konflikt mit § 312k BGB Kuendigungsbutton:** Bei B2C-Online-Vertraegen muss der Kuendigungsbutton angeboten werden; gleichzeitig muessen alle Textform-Optionen offenstehen.
+ - **Verbot:** Klauseln, die den Verbraucher zu einer strengeren Form als Textform (§ 126b BGB) verpflichten, sind unwirksam (Stand seit Reform 01.10.2016).
+ - **Erfasste Erklaerungen:** Kuendigung, Widerruf, Mangelanzeige, Ruecktritt, sonstige rechtsbedeutsame Erklaerungen des Verbrauchers.
+ - **Textform ist Untergrenze:** E-Mail, SMS, Fax, Brief - alle ausreichend. Schriftformerfordernis (§ 126 BGB mit eigenhaendiger Unterschrift) im B2C in AGB unwirksam.
+ - **B2B-Wertung ueber § 307 BGB:** Im B2B kann Schriftform fuer wichtige Erklaerungen vereinbart werden, jedoch keine Beschraenkung auf qualifizierte elektronische Signatur (§ 126a BGB), wenn Textform ausreichend ist.
+ - **Gesetzliche Ausnahmen:** Wenn das Gesetz selbst strenge Form vorsieht, bleibt diese erforderlich (z.B. § 623 BGB Schriftform Arbeitsvertrag-Kuendigung, § 766 BGB Buergschaft; diese sind keine AGB-Folgen sondern gesetzliche Anforderungen).
+ - **Praktischer Konflikt mit § 312k BGB Kuendigungsbutton:** Bei B2C-Online-Vertraegen muss der Kuendigungsbutton angeboten werden; gleichzeitig muessen alle Textform-Optionen offenstehen.
 6. **Rechtsfolge:** Unwirksamkeit; Verbraucher kann in Textform erklaeren, gesetzliche Anforderungen bleiben unberuehrt.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -203,7 +203,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `forschung-entwicklung-agb`
 
-**Fokus:** Branchen-Spezialskill für Forschung Entwicklung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Forschung Entwicklung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Forschung Entwicklung AGB
 

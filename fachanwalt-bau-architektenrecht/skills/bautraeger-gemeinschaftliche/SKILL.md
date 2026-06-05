@@ -1,13 +1,13 @@
 ---
 name: bautraeger-gemeinschaftliche
-description: "Nutze dies, wenn Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber prüfen.; Erstelle eine Arbeitsfassung zu Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

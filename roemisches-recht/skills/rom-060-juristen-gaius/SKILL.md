@@ -1,6 +1,6 @@
 ---
 name: rom-060-juristen-gaius
-description: "Römisches Recht: Juristen Gaius. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Juristen Gaius. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Juristen Gaius

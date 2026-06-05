@@ -1,13 +1,13 @@
 ---
 name: erholungsurlaub-verfall-ernennung-wirksamkeit
-description: "Nutze dies, wenn Erholungsurlaub Verfall Eugh C518 20, Ernennung Wirksamkeit Rücknahme Widerruf, Erschwerniszulage Vollzugsdienst, Eu Justizunabhaengigkeit Art 19 Euv Art 47 Grch im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Erholungsurlaub Verfall Eugh C518 20, Ernennung Wirksamkeit Rücknahme Widerruf, Erschwerniszulage Vollzugsdienst, Eu Justizunabhaengigkeit Art 19 Euv Art 47 Grch prüfen.; Erstelle eine Arbeitsfassung zu Erholungsurlaub Verfall Eugh C518 20, Ernennung Wirksamkeit Rücknahme Widerruf, Erschwerniszulage Vollzugsdienst, Eu Justizunabhaengigkeit Art 19 Euv Art 47 Grch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erholungsurlaub Verfall Eugh C518 20, Ernennung Wirksamkeit Ruecknahme Widerruf, Erschwerniszulage Vollzugsdienst, Eu Justizunabhaengigkeit Art 19 Euv Art 47 Grch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erholungsurlaub Verfall Eugh C518 20, Ernennung Wirksamkeit Rücknahme Widerruf, Erschwerniszulage Vollzugsdienst, Eu Justizunabhaengigkeit Art 19 Euv Art 47 Grch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

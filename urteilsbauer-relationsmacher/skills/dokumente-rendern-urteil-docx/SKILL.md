@@ -35,9 +35,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. **Wahlfragen stellen** (s. oben: Dokumenttyp, Format, Tenor-Variante).
 2. **Eingabeordner prüfen:** Alle 5 Dateien vorhanden? rubrum.yaml valide?
 3. **Render aufrufen:**
-   ```bash
-   python3 .../render_urteil.py eingabe/ ausgabe.docx --typ urteil --pdf
-   ```
+ ```bash
+ python3 .../render_urteil.py eingabe/ ausgabe.docx --typ urteil --pdf
+ ```
 4. **Output prüfen:** Rubrum vollständig? Tenor nummeriert? Unterschriftenzeile vorhanden?
 5. **PDF-Export:** Falls `soffice` verfügbar, PDF als zweite Datei.
 
@@ -54,7 +54,7 @@ Das gerenderte Urteil folgt dem Layout:
 
 ## Wahlfrage vor dem Render - IMMER stellen
 
-Vor dem Rendern muss der Workflow den Nutzer fragen:
+Vor dem Rendern muss der den Nutzer fragen:
 
 1. **Dokumenttyp** Urteil oder Versäumnisurteil oder Beschluss (oder Relations-Dokument im Schul-Layout)?
 2. **Ausgabeformat** DOCX oder DOCX und PDF?
@@ -66,11 +66,11 @@ Der Eingabeordner enthält:
 
 ```
 projekt/
-  rubrum.yaml         # Aktenzeichen, Gericht, Verkuendungsdatum, letzte muendliche Verhandlung, Spruchkoerper, Parteien, Anwaelte
-  tenor.md            # nummerierte Liste 1) 2) 3) ...
-  tatbestand.md
-  entscheidungsgruende.md
-  rechtsmittelbelehrung.md   # optional, wenn fehlt nimmt das Skript die Standardberufungsformel
+ rubrum.yaml # Aktenzeichen, Gericht, Verkuendungsdatum, letzte muendliche Verhandlung, Spruchkoerper, Parteien, Anwaelte
+ tenor.md # nummerierte Liste 1) 2) 3) ...
+ tatbestand.md
+ entscheidungsgruende.md
+ rechtsmittelbelehrung.md # optional, wenn fehlt nimmt das Skript die Standardberufungsformel
 ```
 
 ## Aufrufbeispiel
@@ -78,9 +78,9 @@ projekt/
 ```bash
 # Vollurteil
 python3 urteilsbauer-relationsmacher/skills/dokumente-rendern-urteil-docx/assets/render_urteil.py \
-  testakten/solis-vision-x-smartglasses/output \
-  testakten/solis-vision-x-smartglasses/output/urteil.docx \
-  --typ urteil --pdf
+ testakten/solis-vision-x-smartglasses/output \
+ testakten/solis-vision-x-smartglasses/output/urteil.docx \
+ --typ urteil --pdf
 
 # Versaeumnisurteil (ohne Tatbestand und Gruende)
 python3 .../render_urteil.py eingabe ausgabe.docx --typ versaeumnis

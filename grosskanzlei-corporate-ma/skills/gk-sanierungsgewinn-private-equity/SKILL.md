@@ -46,7 +46,7 @@ Nicht dieser Skill ist primär, wenn der PE-Investor außerhalb einer Sanierung 
 - **§§ 327a ff. AktG** – Squeeze-Out (relevant bei Sanierung börsennotierter Target).
 - **§ 1 InvStG** – Investmentsteuerrecht (relevant bei PE-Fondsstrukturierung).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Fondsstruktur prüfen:**
 
@@ -126,12 +126,12 @@ Drei Beobachtungen aus dem Distressed-PE:
 
 - Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung Managementbeteiligung.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
-  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
-  - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
-  - `grosskanzlei-corporate-ma-wi-insurance`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+ - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
+ - `grosskanzlei-corporate-ma-wi-insurance`
 
 ## Quellen Stand 06/2026
 

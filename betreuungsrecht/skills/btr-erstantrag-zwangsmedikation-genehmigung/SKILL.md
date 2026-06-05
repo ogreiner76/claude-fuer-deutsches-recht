@@ -1,13 +1,13 @@
 ---
 name: btr-erstantrag-zwangsmedikation-genehmigung
-description: "Nutze dies, wenn Btr Erstantrag Und Eilantrag, Btr Zwangsmedikation Genehmigung Spezial, Dokumentenscan Aktenablage Und Belegmappe im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Btr Erstantrag Und Eilantrag, Btr Zwangsmedikation Genehmigung Spezial, Dokumentenscan Aktenablage Und Belegmappe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Btr Erstantrag Und Eilantrag, Btr Zwangsmedikation Genehmigung Spezial, Dokumentenscan Aktenablage Und Belegmappe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Btr Erstantrag Und Eilantrag, Btr Zwangsmedikation Genehmigung Spezial, Dokumentenscan Aktenablage Und Belegmappe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `btr-erstantrag-und-eilantrag` | Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten. |
 | `btr-zwangsmedikation-genehmigung-spezial` | Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach Reform: enge Voraussetzungen, Erforderlichkeit, weniger eingreifende Mittel, gerichtliche Anhoerung Betroffener, Verfahrenspflegerbestellung. Pruefraster und Mustertexte. |
-| `dokumentenscan-aktenablage-und-belegmappe` | Scan- und Ablageworkflow für Betreuungsakten: sortiert Fotos, PDFs, E-Mails, Bescheide, Kontoauszüge, Heim- und Arztunterlagen in eine gerichtstaugliche Belegmappe mit Fristen, Belegnummern, Datenschutzmarkierung und Lückenliste. |
+| `dokumentenscan-aktenablage-und-belegmappe` | Scan- und Ablagefür Betreuungsakten: sortiert Fotos, PDFs, E-Mails, Bescheide, Kontoauszüge, Heim- und Arztunterlagen in eine gerichtstaugliche Belegmappe mit Fristen, Belegnummern, Datenschutzmarkierung und Lückenliste. |
 
 ## Arbeitsweg
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `betreuungsrecht`. Er ergaenzt die uebrigen Skil
 
 ## 3. `dokumentenscan-aktenablage-und-belegmappe`
 
-**Fokus:** Scan- und Ablageworkflow für Betreuungsakten: sortiert Fotos, PDFs, E-Mails, Bescheide, Kontoauszüge, Heim- und Arztunterlagen in eine gerichtstaugliche Belegmappe mit Fristen, Belegnummern, Datenschutzmarkierung und Lückenliste.
+**Fokus:** Scan- und Ablagefür Betreuungsakten: sortiert Fotos, PDFs, E-Mails, Bescheide, Kontoauszüge, Heim- und Arztunterlagen in eine gerichtstaugliche Belegmappe mit Fristen, Belegnummern, Datenschutzmarkierung und Lückenliste.
 
 # Dokumentenscan, Aktenablage und Belegmappe
 

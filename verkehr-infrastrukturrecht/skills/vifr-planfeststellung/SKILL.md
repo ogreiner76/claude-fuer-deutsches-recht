@@ -1,13 +1,13 @@
 ---
 name: vifr-planfeststellung
-description: "Nutze dies, wenn Vifr Planfeststellung Strasse Bauleiter im Plugin Verkehr Infrastrukturrecht konkret bearbeitet werden soll. Auslöser: Bitte Vifr Planfeststellung Strasse Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Vifr Planfeststellung Strasse Bauleiter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vifr Planfeststellung Strasse Bauleiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vifr Planfeststellung Strasse Bauleiter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vifr Planfeststellung Strasse Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -105,17 +105,17 @@ Gegenstand: Zivilrechtliche Vertretung im Verfahren gegen ABC GmbH
 
 Streitwert: 25.000 EUR
 
-Position                                              Betrag
+Position Betrag
 --------------------------------------------------------------
-Verfahrensgebuehr 1,3 Nr. 3100 VV RVG                 1.235 EUR
-Terminsgebuehr 1,2 Nr. 3104 VV RVG                    1.140 EUR
-Telekommunikationspauschale Nr. 7002 VV RVG               20 EUR
-Reisekosten Nr. 7003 VV RVG                              168 EUR
+Verfahrensgebuehr 1,3 Nr. 3100 VV RVG 1.235 EUR
+Terminsgebuehr 1,2 Nr. 3104 VV RVG 1.140 EUR
+Telekommunikationspauschale Nr. 7002 VV RVG 20 EUR
+Reisekosten Nr. 7003 VV RVG 168 EUR
 --------------------------------------------------------------
-Zwischensumme netto                                   2.563 EUR
-Umsatzsteuer 19 %                                       487 EUR
+Zwischensumme netto 2.563 EUR
+Umsatzsteuer 19 % 487 EUR
 --------------------------------------------------------------
-Gesamtbetrag brutto                                   3.050 EUR
+Gesamtbetrag brutto 3.050 EUR
 
 Zahlungsweg: Überweisung auf das Konto IBAN DE...
 Fällig binnen vierzehn Tagen nach Rechnungsdatum.

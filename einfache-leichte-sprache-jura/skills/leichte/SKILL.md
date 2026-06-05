@@ -1,12 +1,12 @@
 ---
 name: leichte
-description: "Nutze dies, wenn Leichte: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Bitte Leichte: Risikoampel, Gegenargumente und Verteidigungslinien prüfen.; Erstelle eine Arbeitsfassung zu Leichte: Risikoampel, Gegenargumente und Verteidigungslinien.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Leichte: Risikoampel, Gegenargumente und Verteidigungslinien: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Leichte: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Leichte: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Leichte: Risikoampel, Gegenargumente und Verteidigungslinien / spezial leichte risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Leichte: Risikoampel, Gegenargumente und Verteidigungslinien / leichte risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

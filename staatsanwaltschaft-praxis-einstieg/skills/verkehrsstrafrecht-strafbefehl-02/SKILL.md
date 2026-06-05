@@ -1,13 +1,13 @@
 ---
 name: verkehrsstrafrecht-strafbefehl-02
-description: "Nutze dies, wenn Verkehrsstrafrecht Strafbefehl, Vermoegensarrest Einziehung, Vermoegensarrest Einziehung Schnellcheck, Vollstreckung Und Gnadenschnittstelle, Waffenrecht Und Sprengstoff Nebenstrafrecht im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Verkehrsstrafrecht Strafbefehl, Vermoegensarrest Einziehung, Vermoegensarrest Einziehung Schnellcheck, Vollstreckung Und Gnadenschnittstelle, Waffenrecht Und Sprengstoff Nebenstrafrecht prüfen.; Erstelle eine Arbeitsfassung zu Verkehrsstrafrecht Strafbefehl, Vermoegensarrest Einziehung, Vermoegensarrest Einziehung Schnellcheck, Vollstreckung Und Gnadenschnittstelle, Waffenrecht Und Sprengstoff Nebenstrafrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verkehrsstrafrecht Strafbefehl, Vermoegensarrest Einziehung, Vermoegensarrest Einziehung Schnellcheck, Vollstreckung Und Gnadenschnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verkehrsstrafrecht Strafbefehl, Vermoegensarrest Einziehung, Vermoegensarrest Einziehung Schnellcheck, Vollstreckung Und Gnadenschnittstelle, Waffenrecht Und Sprengstoff Nebenstrafrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verkehrsstrafrecht Strafbefehl, Vermoegensarrest Einziehung, Vermoegensarrest Einziehung Schnellcheck, Vollstreckung Und Gnadenschnittstelle, Waffenrecht Und Sprengstoff Nebenstrafrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -145,7 +145,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** §§ 73 ff. StGB, §§ 111b ff. StPO, Sicherungsbedarf und Drittrechte
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -194,7 +194,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Rechtskraft, Ladung, Bewährung, Ersatzfreiheitsstrafe und Härtekommunikation
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -243,7 +243,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** WaffG, SprengG, Sicherstellung, Zuverlässigkeit und Nebenfolgen
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

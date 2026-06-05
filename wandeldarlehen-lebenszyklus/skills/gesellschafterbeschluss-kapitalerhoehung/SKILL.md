@@ -1,13 +1,13 @@
 ---
 name: gesellschafterbeschluss-kapitalerhoehung
-description: "Nutze dies, wenn Gesellschafterbeschluss Kapitalerhoehung, Gesellschafterbeschluss Vorbereiten im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Bitte Gesellschafterbeschluss Kapitalerhoehung, Gesellschafterbeschluss Vorbereiten prüfen.; Erstelle eine Arbeitsfassung zu Gesellschafterbeschluss Kapitalerhoehung, Gesellschafterbeschluss Vorbereiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschafterbeschluss Kapitalerhoehung, Gesellschafterbeschluss Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschafterbeschluss Kapitalerhoehung, Gesellschafterbeschluss Vorbereiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschafterbeschluss Kapitalerhoehung, Gesellschafterbeschluss Vorbereiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -84,16 +84,16 @@ Die Gesellschafterversammlung der Sonnenglas Solartechnologie UG (haftungsbeschr
 beschließt einstimmig:
 
 1. Das Stammkapital der Gesellschaft wird von EUR 100 um EUR 7 auf EUR 107 erhöht
-   durch Ausgabe von 7 neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00.
+ durch Ausgabe von 7 neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00.
 
 2. Die neuen Geschäftsanteile werden gegen Einbringung der Forderung der Northstar
-   Pre-Seed Partners GmbH & Co. KG aus dem Wandeldarlehensvertrag vom [Datum]
-   in Höhe von EUR 275694 als Sacheinlage ausgegeben.
+ Pre-Seed Partners GmbH & Co. KG aus dem Wandeldarlehensvertrag vom [Datum]
+ in Höhe von EUR 275694 als Sacheinlage ausgegeben.
 
 3. Die Altgesellschafterinnen verzichten auf ihr Bezugsrecht.
 
 4. Northstar Pre-Seed Partners GmbH & Co. KG wird zur Übernahme der 7 neuen
-   Geschäftsanteile zugelassen.
+ Geschäftsanteile zugelassen.
 
 [Notarielle Beurkundung durch Notar [●], [Datum]]
 ```

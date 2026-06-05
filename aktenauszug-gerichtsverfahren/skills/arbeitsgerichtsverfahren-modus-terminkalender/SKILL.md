@@ -1,13 +1,13 @@
 ---
 name: arbeitsgerichtsverfahren-modus-terminkalender
-description: "Nutze dies, wenn Arbeitsgerichtsverfahren Modus, Fristen Und Terminkalender, Sozialgerichtsverfahren Modus im Plugin Aktenauszug Gerichtsverfahren konkret bearbeitet werden soll. Auslöser: Bitte Arbeitsgerichtsverfahren Modus, Fristen Und Terminkalender, Sozialgerichtsverfahren Modus prüfen.; Erstelle eine Arbeitsfassung zu Arbeitsgerichtsverfahren Modus, Fristen Und Terminkalender, Sozialgerichtsverfahren Modus.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arbeitsgerichtsverfahren Modus, Fristen Und Terminkalender, Sozialgerichtsverfahren Modus: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arbeitsgerichtsverfahren Modus, Fristen Und Terminkalender, Sozialgerichtsverfahren Modus
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitsgerichtsverfahren Modus, Fristen Und Terminkalender, Sozialgerichtsverfahren Modus** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -200,10 +200,10 @@ Fristen, die nicht verlängerbar sind und bei denen Wiedereinsetzung nur unter e
 
 ```
 FRISTEN UND TERMINE — SOFORT PRUEFEN
-Berufungsfrist:    TT.MM.JJJJ  (§ 517 ZPO)
-Begründungsfrist:  TT.MM.JJJJ  (§ 520 ZPO)
+Berufungsfrist: TT.MM.JJJJ (§ 517 ZPO)
+Begründungsfrist: TT.MM.JJJJ (§ 520 ZPO)
 Nächste Verhandlung: TT.MM.JJJJ HH:UU Uhr
-Schriftsatzfrist:  TT.MM.JJJJ  (richterliche Anordnung)
+Schriftsatzfrist: TT.MM.JJJJ (richterliche Anordnung)
 ```
 
 Alternativ als Markdown-Tabelle:

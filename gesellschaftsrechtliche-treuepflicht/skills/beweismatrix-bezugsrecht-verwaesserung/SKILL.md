@@ -1,22 +1,22 @@
 ---
 name: beweismatrix-bezugsrecht-verwaesserung
-description: "Nutze dies, wenn Beweis Und Dokumentation, Beweismatrix, Bezugsrecht Und Verwaesserung, Bezugsrechtsausschluss im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Beweis Und Dokumentation, Beweismatrix, Bezugsrecht Und Verwaesserung, Bezugsrechtsausschluss: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beweis Und Dokumentation, Beweismatrix, Bezugsrecht Und Verwaesserung, Bezugsrechtsausschluss
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beweis Und Dokumentation, Beweismatrix, Bezugsrecht Und Verwaesserung, Bezugsrechtsausschluss** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beweis-und-dokumentation` | Gesellschaftsrechtliche Treuepflicht: Beweis Und Dokumentation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beweismatrix` | Gesellschaftsrechtliche Treuepflicht: Beweismatrix; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `bezugsrecht-und-verwaesserung` | Gesellschaftsrechtliche Treuepflicht: Bezugsrecht Und Verwaesserung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `bezugsrechtsausschluss` | Gesellschaftsrechtliche Treuepflicht: Bezugsrechtsausschluss; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beweis-und-dokumentation` | Gesellschaftsrechtliche Treuepflicht: Beweis Und Dokumentation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beweismatrix` | Gesellschaftsrechtliche Treuepflicht: Beweismatrix; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `bezugsrecht-und-verwaesserung` | Gesellschaftsrechtliche Treuepflicht: Bezugsrecht Und Verwaesserung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `bezugsrechtsausschluss` | Gesellschaftsrechtliche Treuepflicht: Bezugsrechtsausschluss; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Beweis Und Dokumentation, Beweismatrix, Bezugsrecht Und Verwaesserung, Be
 
 ## 1. `beweis-und-dokumentation`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Beweis Und Dokumentation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Beweis Und Dokumentation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beweis Und Dokumentation
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beweismatrix`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Beweismatrix; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Beweismatrix; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beweismatrix
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `bezugsrecht-und-verwaesserung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Bezugsrecht Und Verwaesserung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Bezugsrecht Und Verwaesserung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Bezugsrecht Und Verwaesserung
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `bezugsrechtsausschluss`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Bezugsrechtsausschluss; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Bezugsrechtsausschluss; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Bezugsrechtsausschluss
 

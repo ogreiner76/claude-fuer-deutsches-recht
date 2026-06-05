@@ -1,6 +1,6 @@
 ---
 name: rom-neu-013-basiliken-prochiron-epanagoge
-description: "Nutze dies, wenn Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption

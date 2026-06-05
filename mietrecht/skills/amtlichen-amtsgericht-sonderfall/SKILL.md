@@ -1,32 +1,32 @@
 ---
 name: amtlichen-amtsgericht-sonderfall
-description: "Nutze dies, wenn Spezial Amtlichen Risikoampel Und Gegenargumente, Spezial Amtsgericht Sonderfall Und Edge Case, Spezial Ausschliesslich Dokumentenmatrix Und Lueckenliste im Plugin Mietrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Amtlichen Risikoampel Und Gegenargumente, Spezial Amtsgericht Sonderfall Und Edge Case, Spezial Ausschliesslich Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Spezial Amtlichen Risikoampel Und Gegenargumente, Spezial Amtsgericht Sonderfall Und Edge Case, Spezial Ausschliesslich Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Amtlichen Risikoampel Und Gegenargumente, Amtsgericht Sonderfall Und Edge Case, Ausschliesslich Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Amtlichen Risikoampel Und Gegenargumente, Spezial Amtsgericht Sonderfall Und Edge Case, Spezial Ausschliesslich Dokumentenmatrix Und Lueckenliste
+# Amtlichen Risikoampel Und Gegenargumente, Amtsgericht Sonderfall Und Edge Case, Ausschliesslich Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Amtlichen Risikoampel Und Gegenargumente, Amtsgericht Sonderfall Und Edge Case, Ausschliesslich Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-amtlichen-risikoampel-und-gegenargumente` | Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-amtsgericht-sonderfall-und-edge-case` | Amtsgericht: Sonderfall und Edge-Case-Prüfung im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-ausschliesslich-dokumentenmatrix-und-lueckenliste` | Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-amtlichen-risikoampel-und-gegenargumente` | Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-amtsgericht-sonderfall-und-edge-case` | Amtsgericht: Sonderfall und Edge-Case-Prüfung im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-ausschliesslich-dokumentenmatrix-und-lueckenliste` | Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Amtlichen Risikoampel Und Gegenargumente, Spezial Amtsgericht Sonderfall Und Edge Case, Spezial Ausschliesslich Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Amtlichen Risikoampel Und Gegenargumente, Amtsgericht Sonderfall Und Edge Case, Ausschliesslich Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-amtlichen-risikoampel-und-gegenargumente`
 
-**Fokus:** Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -40,7 +40,7 @@ Für **Spezial Amtlichen Risikoampel Und Gegenargumente, Spezial Amtsgericht Son
 
 
 ## Spezialwissen: Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien / spezial amtlichen risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Amtlichen: Risikoampel, Gegenargumente und Verteidigungslinien / amtlichen risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-amtsgericht-sonderfall-und-edge-case`
 
-**Fokus:** Amtsgericht: Sonderfall und Edge-Case-Prüfung im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Amtsgericht: Sonderfall und Edge-Case-Prüfung im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Amtsgericht: Sonderfall und Edge-Case-Prüfung
 
@@ -90,7 +90,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Amtsgericht: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Amtsgericht: Sonderfall und Edge-Case-Prüfung / spezial amtsgericht sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Amtsgericht: Sonderfall und Edge-Case-Prüfung / amtsgericht sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -126,7 +126,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-ausschliesslich-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -140,7 +140,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung / spezial ausschliesslich dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ausschliesslich: Dokumentenmatrix, Lückenliste und Nachforderung / ausschliesslich dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

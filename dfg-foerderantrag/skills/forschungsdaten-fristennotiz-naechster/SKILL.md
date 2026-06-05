@@ -1,12 +1,12 @@
 ---
 name: forschungsdaten-fristennotiz-naechster
-description: "Nutze dies, wenn Forschungsdaten: Fristennotiz und nächster Schritt im Plugin Dfg Foerderantrag konkret bearbeitet werden soll. Auslöser: Bitte Forschungsdaten: Fristennotiz und nächster Schritt prüfen.; Erstelle eine Arbeitsfassung zu Forschungsdaten: Fristennotiz und nächster Schritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Forschungsdaten: Fristennotiz und nächster Schritt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Forschungsdaten: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Forschungsdaten: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Forschungsdaten: Fristennotiz und nächster Schritt / spezial forschungsdaten fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Forschungsdaten: Fristennotiz und nächster Schritt / forschungsdaten fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFG, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: notare-amtsenthebung-vermoegensverfall-02
-description: "Nutze dies, wenn Notare Amtsenthebung Vermoegensverfall Kammerantwort Und Verfah, Notare Amtsenthebung Vermoegensverfall Organisationspflicht Und, Notare Anderkonto Und Verwahrung Organisationspflicht Und Praev, Notare Auszahlungsanweisung Konflikt Kammerantwort Und Verfahre, Notare Auszahlungsanweisung Konflikt Organisationspflicht Und P im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Amtsenthebung Vermoegensverfall Kammerantwort Und Verfah, Notare Amtsenthebung Vermoegensverfall Organisationspflicht Und, Notare Anderkonto Und Verwahrung Organisationspflicht Und Praev, Notare Auszahlungsanweisung Konflikt Kammerantwort Und Verfahre, Notare Auszahlungsanweisung Konflikt Organisationspflicht Und P prüfen.; Erstelle eine Arbeitsfassung zu Notare Amtsenthebung Vermoegensverfall Kammerantwort Und Verfah, Notare Amtsenthebung Vermoegensverfall Organisationspflicht Und, Notare Anderkonto Und Verwahrung Organisationspflicht Und Praev, Notare Auszahlungsa..."
+description: "Nutze dies bei Notare Amtsenthebung Vermoegensverfall Kammerantwort Und Verfah, Notare Amtsenthebung Vermoegensverfall Organisationspflicht Und, Notare Anderkonto Und Verwahrung Organisationspflicht Und Praev, Notare Auszahlungsanweisung Konflikt Kammerantwort Und Verfahre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Amtsenthebung Vermoegensverfall Kammerantwort Und Verfah, Notare Amtsenthebung Vermoegensverfall Organisationspflicht Und, Notare Anderkonto Und Verwahrung Organisationspflicht Und Praev, Notare Auszahlungsanweisung Konflikt Kammerantwort Und Verfahre, Notare Auszahlungsanweisung Konflikt Organisationspflicht Und P
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Amtsenthebung Vermoegensverfall Kammerantwort Und Verfah, Notare Amtsenthebung Vermoegensverfall Organisationspflicht Und, Notare Anderkonto Und Verwahrung Organisationspflicht Und Praev, Notare Auszahlungsanweisung Konflikt Kammerantwort Und Verfahre, Notare Auszahlungsanweisung Konflikt Organisationspflicht Und P** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

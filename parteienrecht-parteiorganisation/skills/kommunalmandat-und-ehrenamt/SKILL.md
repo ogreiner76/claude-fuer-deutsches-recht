@@ -8,7 +8,7 @@ description: "Routet kommunale Mandatspflichten, Entschädigung, Transparenz und
 ## Aufgabe
 Routet kommunale Mandatspflichten, Entschädigung, Transparenz und Trennung von Partei/Fraktion/Gemeinde.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

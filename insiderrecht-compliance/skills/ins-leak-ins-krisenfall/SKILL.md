@@ -1,13 +1,13 @@
 ---
 name: ins-leak-ins-krisenfall
-description: "Nutze dies, wenn Ins 011 Leak Response, Ins 018 Krisenfall Profit Warning im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 011 Leak Response, Ins 018 Krisenfall Profit Warning prüfen.; Erstelle eine Arbeitsfassung zu Ins 011 Leak Response, Ins 018 Krisenfall Profit Warning.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 011 Leak Response, Ins 018 Krisenfall Profit Warning: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 011 Leak Response, Ins 018 Krisenfall Profit Warning
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 011 Leak Response, Ins 018 Krisenfall Profit Warning** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -63,7 +63,7 @@ Sofortmaßnahme: Compliance-Officer, CFO und General Counsel unverzüglich infor
 
 - Besteht ein laufender Aufschub? → Aufschub endet automatisch bei Leak (Art. 17 Abs. 7 MAR)
 - Ist die Insiderinformation bereits ausreichend öffentlich (breite Medienberichterstattung)?
-  → Wenn ja: Pflicht zur Klarstellung, nicht zwingend neue Ad-hoc
+ → Wenn ja: Pflicht zur Klarstellung, nicht zwingend neue Ad-hoc
 - Wenn nein: Unverzügliche Ad-hoc-Veröffentlichung (Skill ins-003)
 - Entscheidung und Begründung mit Zeitstempel festhalten
 
@@ -137,16 +137,16 @@ bis zur ordnungsgemäßen Ad-hoc-Veröffentlichung und der Konsensus-Kommunikati
 ### Schritt 1 – Zeitpunkt der Insiderinformation
 
 - Entstehungszeitpunkt: Wann war die Prognoseabweichung als präzise Information erkennbar?
-  (Nicht erst beim CFO-Monats-Bericht, sondern ggf. schon bei erstem internen Alert)
+ (Nicht erst beim CFO-Monats-Bericht, sondern ggf. schon bei erstem internen Alert)
 - Anwendung des Geltl/Daimler-Tests: Auch ein Zwischenschritt (z. B. erste 2-Monats-Zahlen
-  weichen stark ab) kann präzise und kursrelevant sein
+ weichen stark ab) kann präzise und kursrelevant sein
 - Ergebnis: Frühestmöglicher Zeitpunkt dokumentieren
 
 ### Schritt 2 – Kursrelevanz-Beurteilung
 
 - Vergleich: Veröffentlichte Prognose vs. neue Erwartung
 - Materiality-Schwelle: Es gibt keine feste prozentuale Grenze; BaFin-Emittentenleitfaden
-  gibt Indikatorenliste
+ gibt Indikatorenliste
 - Analyse: Wie stark weicht die neue Erwartung von Markterwartungen (Analystenkonsensus) ab?
 - Ex-ante-Beurteilung: Würde ein verständiger Anleger die Information berücksichtigen?
 
@@ -169,7 +169,7 @@ Verboten: Verwischende Sprache, Prognose-Widersprüche, irreführende Formulieru
 ### Schritt 5 – Nachgang und Haftungsvorsorge
 
 - Analyse: Wurden zwischen Entstehung der Insiderinformation und Ad-hoc Eigengeschäfte
-  von PDMRs getätigt? → Prüfung auf Art. 14/19 MAR-Verstoß
+ von PDMRs getätigt? → Prüfung auf Art. 14/19 MAR-Verstoß
 - § 97-WpHG-Haftungsrisiko einschätzen: Wie lange zwischen Entstehung und Veröffentlichung?
 - Compliance-Akte: Entstehungszeitpunkt der Insiderinformation belegen
 
@@ -180,7 +180,7 @@ Verboten: Verwischende Sprache, Prognose-Widersprüche, irreführende Formulieru
 - Wurde kursrelevanz ex ante beurteilt, nicht erst nach einem Kurseinbruch?
 - Enthält die Ad-hoc-Mitteilung eine konkrete neue Prognose oder nur Allgemeinplätze?
 - Ist der Zeitraum zwischen interner Erkenntnis und Veröffentlichung dokumentiert
-  (Haftungsrisiko § 97 WpHG)?
+ (Haftungsrisiko § 97 WpHG)?
 
 ## Ausgabeformat
 

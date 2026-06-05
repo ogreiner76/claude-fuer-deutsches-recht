@@ -1,22 +1,22 @@
 ---
 name: versammlungsleiter-leitfaden-vorstandsrede
-description: "Nutze dies, wenn Versammlungsleiter Leitfaden, Vorstandsrede, Vorstandsverguetung Details, Vorzugsaktien im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Versammlungsleiter Leitfaden, Vorstandsrede, Vorstandsverguetung Details, Vorzugsaktien: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Versammlungsleiter Leitfaden, Vorstandsrede, Vorstandsverguetung Details, Vorzugsaktien
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Versammlungsleiter Leitfaden, Vorstandsrede, Vorstandsverguetung Details, Vorzugsaktien** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `versammlungsleiter-leitfaden` | Hauptversammlung AG und SE: Versammlungsleiter Leitfaden; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vorstandsrede` | Hauptversammlung AG und SE: Vorstandsrede; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vorstandsverguetung-details` | Hauptversammlung AG und SE: Vorstandsverguetung Details; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `vorzugsaktien` | Hauptversammlung AG und SE: Vorzugsaktien; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `versammlungsleiter-leitfaden` | Hauptversammlung AG und SE: Versammlungsleiter Leitfaden; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorstandsrede` | Hauptversammlung AG und SE: Vorstandsrede; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorstandsverguetung-details` | Hauptversammlung AG und SE: Vorstandsverguetung Details; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorzugsaktien` | Hauptversammlung AG und SE: Vorzugsaktien; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Versammlungsleiter Leitfaden, Vorstandsrede, Vorstandsverguetung Details,
 
 ## 1. `versammlungsleiter-leitfaden`
 
-**Fokus:** Hauptversammlung AG und SE: Versammlungsleiter Leitfaden; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Versammlungsleiter Leitfaden; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Versammlungsleiter Leitfaden
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `vorstandsrede`
 
-**Fokus:** Hauptversammlung AG und SE: Vorstandsrede; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Vorstandsrede; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorstandsrede
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `vorstandsverguetung-details`
 
-**Fokus:** Hauptversammlung AG und SE: Vorstandsverguetung Details; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Vorstandsverguetung Details; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorstandsverguetung Details
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `vorzugsaktien`
 
-**Fokus:** Hauptversammlung AG und SE: Vorzugsaktien; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Vorzugsaktien; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorzugsaktien
 

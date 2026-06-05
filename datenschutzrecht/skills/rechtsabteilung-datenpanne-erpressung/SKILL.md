@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-datenpanne-erpressung
-description: "Rechtsabteilungs-Spezialskill für Datenpanne mit Erpressung und Meldelogik: 72-Stunden-Meldung, Forensik, Betroffenenkommunikation und Litigation Hold werden praktisch geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für Datenpanne mit Erpressung und Meldelogik: 72-Stunden-Meldung, Forensik, Betroffenenkommunikation und Litigation Hold werden praktisch geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
 ---
 
 # Rechtsabteilung: Datenpanne mit Erpressung und Meldelogik

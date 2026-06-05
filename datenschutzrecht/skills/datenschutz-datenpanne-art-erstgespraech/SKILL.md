@@ -1,20 +1,20 @@
 ---
 name: datenschutz-datenpanne-art-erstgespraech
-description: "Nutze dies, wenn Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde prüfen.; Erstelle eine Arbeitsfassung zu Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Datenschutz Datenpanne Art 33 34 72h Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutz Datenpanne Art 33 34 72H Incident Response, Datenschutz Erstgespraech Mandantenmatrix 7 Fragen, Datenschutz Kreditagentur Auskunft Art15 Scorelogik, Datenschutz Loeschpflicht Art 17 Und Aufbewahrung, Datenschutz Mandantenkommunikation Aufsichtsbehoerde** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `datenschutz-datenpanne-art-33-34-72h-incident-response` | Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Frist ab Kenntnis Art. 33 I DSGVO und Benachrichtigung Betroffener bei hohem Risiko Art. 34 I DSGVO. Sieben-Fragen-Diagnose: Wer hat wann was entdeckt Datenkategorien Anzahl Betroffener Vertraulichkeit Integritaet Verfuegbarkeit Risiko TOM Art. 32 DSGVO Auftragsverarbeiter beteiligt. Schritt-fuer-Schritt: Sachverhalt klaeren NICHT vorschnell handeln Risikobewertung dokumentieren Mandantenfreigabe Aufsicht melden Betroffene benachrichtigen Massnahmen Lessons Learned. Mustertexte fuer Meldebogen und Betroffenenbenachrichtigung. Abgrenzung: keine Bussgeldverteidigung (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung). |
-| `datenschutz-erstgespraech-mandantenmatrix-7-fragen` | Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO Anlass Aufsichtsbehoerde Betroffener Anwalt Gegner Fristlage Art. 12 III DSGVO Risikolage Datenkategorien Art. 9 10 DSGVO Vorgeschichte und Mandatsziel. Liefert sofort Mandatsfragebogen-Antwortpattern Risikoampel und Folge-Skill-Empfehlung. Abgrenzung: keine Subsumtion ersetzt die Spezial-Skills. |
+| `datenschutz-erstgespraech-mandantenmatrix-7-fragen` | Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO Anlass Aufsichtsbehoerde Betroffener Anwalt Gegner Fristlage Art. 12 III DSGVO Risikolage Datenkategorien Art. 9 10 DSGVO Vorgeschichte und Mandatsziel. Liefert sofort Mandatsfragebogen-Antwortpattern Risikoampel und Folge-Skill-Empfehlung. Abgrenzung: keine Subsumtion ersetzt die Fachmodule. |
 | `datenschutz-kreditagentur-auskunft-art15-scorelogik` | Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, Herkunft, Scorelogik, Kategorien, Löschfristen und Kopie. |
 | `datenschutz-loeschpflicht-art-17-und-aufbewahrung` | Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-fuer-Schritt: NICHT pauschal alles loeschen Pruefraster nach Datenkategorie. Mustertexte fuer Loeschkonzept Sperrvermerk Ablehnungsschreiben. EuGH C-129/21 Proximus C-460/20 Google Right to be Forgotten. Abgrenzung: keine reine Auskunft (datenschutz-auskunftsersuchen-art-15-praxis). |
 | `datenschutz-mandantenkommunikation-aufsichtsbehoerde` | Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zustaendig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Pruefung Anhoerung Mandant antwortbereit. Schritt-fuer-Schritt: Mandantenfreigabe zwingend NICHT vorschnell schriftliche Stellungnahme abgeben Akteneinsicht beantragen Frist nutzen. Trade-off-Matrix zwischen Kooperation und Vorsicht. Mustertexte fuer Antwortbriefe Akteneinsichtsantrag und Bevollmaechtigungsanzeige. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung). |
@@ -168,7 +168,7 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 
 ## 2. `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
 
-**Fokus:** Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO Anlass Aufsichtsbehoerde Betroffener Anwalt Gegner Fristlage Art. 12 III DSGVO Risikolage Datenkategorien Art. 9 10 DSGVO Vorgeschichte und Mandatsziel. Liefert sofort Mandatsfragebogen-Antwortpattern Risikoampel und Folge-Skill-Empfehlung. Abgrenzung: keine Subsumtion ersetzt die Spezial-Skills.
+**Fokus:** Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO Anlass Aufsichtsbehoerde Betroffener Anwalt Gegner Fristlage Art. 12 III DSGVO Risikolage Datenkategorien Art. 9 10 DSGVO Vorgeschichte und Mandatsziel. Liefert sofort Mandatsfragebogen-Antwortpattern Risikoampel und Folge-Skill-Empfehlung. Abgrenzung: keine Subsumtion ersetzt die Fachmodule.
 
 # Datenschutz Erstgespraech — Mandantenmatrix mit sieben Fragen
 
@@ -178,7 +178,7 @@ Dieser Skill fuehrt das erste Gespraech mit dem Mandanten in einem Datenschutzfa
 
 ## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-Sie brauchen diesen Skill **immer dann**, wenn ein neues Datenschutzmandat eingeht und unklar ist, welcher Spezial-Skill greift. Typische Anlaesse:
+Sie brauchen diesen Skill **immer dann**, wenn ein neues Datenschutzmandat eingeht und unklar ist, welcher Fachmodul greift. Typische Anlaesse:
 
 - Mandant erhaelt ein Auskunftsersuchen nach Art. 15 DSGVO.
 - Mandant meldet eine moegliche Datenpanne.

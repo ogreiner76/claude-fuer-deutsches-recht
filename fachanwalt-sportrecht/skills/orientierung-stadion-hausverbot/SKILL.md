@@ -1,13 +1,13 @@
 ---
 name: orientierung-stadion-hausverbot
-description: "Nutze dies, wenn Fachanwalt Sportrecht Orientierung, Fachanwalt Sportrecht Stadion Hausverbot, Fachanwalt Sportrecht Vereinsstrafrecht im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Sportrecht Orientierung, Fachanwalt Sportrecht Stadion Hausverbot, Fachanwalt Sportrecht Vereinsstrafrecht prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Sportrecht Orientierung, Fachanwalt Sportrecht Stadion Hausverbot, Fachanwalt Sportrecht Vereinsstrafrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Sportrecht Orientierung, Fachanwalt Sportrecht Stadion Hausverbot, Fachanwalt Sportrecht Vereinsstrafrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Sportrecht Orientierung, Fachanwalt Sportrecht Stadion Hausverbot, Fachanwalt Sportrecht Vereinsstrafrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Sportrecht Orientierung, Fachanwalt Sportrecht Stadion Hausverbot, Fachanwalt Sportrecht Vereinsstrafrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `fachanwalt-sportrecht-orientierung` | Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung. FAO-Voraussetzungen typische Mandate Fristen. Normen BGB §§ 21 ff. Vereinsrecht CAS Code WADA-Code DFB-Statuten. Prüfraster Normen-Überblick Mandatstypen FAO-Fallzahl-Anforderungen. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing). |
 | `fachanwalt-sportrecht-stadion-hausverbot` | Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten. AGB-Prüfung Vereinsrecht Fanrechte Datenschutz. Normen §§ 305 ff. BGB AGB-Kontrolle BGH Bundesliga-Hausverbot § 25 BGB Vereinsrecht DSGVO Polizei-Datei Gewalttaeter Sport. Prüfraster AGB-Wirksamkeit Verhältnismäßigkeit Datenschutz Widerspruch. Output Widerspruchsschreiben Klage-Entwurf. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und verbandsstrafe-anfechten (Verbands-Sanktion). |
-| `fachanwalt-sportrecht-vereinsstrafrecht` | Workflow-Skill zu fachanwalt sportrecht vereinsstrafrecht. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-sportrecht-vereinsstrafrecht` | Arbeitsmodul zu fachanwalt sportrecht vereinsstrafrecht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -195,7 +195,7 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 ## 3. `fachanwalt-sportrecht-vereinsstrafrecht`
 
-**Fokus:** Workflow-Skill zu fachanwalt sportrecht vereinsstrafrecht. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt sportrecht vereinsstrafrecht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Vereinsstrafrecht
 
@@ -294,7 +294,7 @@ Sehr geehrte Damen und Herren,
 namens und in Vollmacht unserer Mandantschaft [Name, Geburtsdatum,
 Lizenz-Nr.] legen wir form- und fristgerecht
 
-                  B e r u f u n g / E i n s p r u c h
+ B e r u f u n g / E i n s p r u c h
 
 ein.
 
@@ -307,45 +307,45 @@ B e g r ü n d u n g:
 I. Verfahrensfehler
 
 1. Anhörungsrecht verletzt (Art. 103 Abs. 1 GG analog):
-   Das Anhörungsschreiben vom [Datum] setzte eine Frist bis
-   [Datum] — das sind nur [X] Tage. Angesichts der Schwere
-   der Vorwürfe (Spielsperre [N] Spiele; Geldstrafe EUR [Betrag])
-   ist diese Frist unzumutbar kurz.
-   Belegt: Anlage B1 (Anhörungsschreiben).
+ Das Anhörungsschreiben vom [Datum] setzte eine Frist bis
+ [Datum] — das sind nur [X] Tage. Angesichts der Schwere
+ der Vorwürfe (Spielsperre [N] Spiele; Geldstrafe EUR [Betrag])
+ ist diese Frist unzumutbar kurz.
+ Belegt: Anlage B1 (Anhörungsschreiben).
 
 2. Akteneinsicht verweigert:
-   Der Antrag auf vollständige Akteneinsicht vom [Datum] (Anlage B2)
-   blieb unbeantwortet / wurde abgelehnt (Anlage B3). Ohne Kenntnis
-   aller Beweismittel war eine substantiierte Verteidigung nicht
-   möglich.
+ Der Antrag auf vollständige Akteneinsicht vom [Datum] (Anlage B2)
+ blieb unbeantwortet / wurde abgelehnt (Anlage B3). Ohne Kenntnis
+ aller Beweismittel war eine substantiierte Verteidigung nicht
+ möglich.
 
 3. Begründungsmangel:
-   Die Entscheidung vom [Datum] enthält auf Seite [X] keine
-   Subsumtion des festgestellten Sachverhalts unter § [Satzungs-
-   norm]. Es fehlt die Auseinandersetzung mit dem Verteidigungsvor-
-   trag vom [Datum] (Anlage B4).
+ Die Entscheidung vom [Datum] enthält auf Seite [X] keine
+ Subsumtion des festgestellten Sachverhalts unter § [Satzungs-
+ norm]. Es fehlt die Auseinandersetzung mit dem Verteidigungsvor-
+ trag vom [Datum] (Anlage B4).
 
 II. Materielle Fehler
 
 4. Tatbestand nicht erfüllt:
-   Der vorgeworfene Sachverhalt [Datum, Ort, Handlung] erfüllt
-   nicht den Tatbestand des § [Satzungsnorm], weil [Begründung].
-   Beweis: Anlage B5 (Videomitschnitt); Anlage B6 (Zeugenaussagen
-   [Namen]).
+ Der vorgeworfene Sachverhalt [Datum, Ort, Handlung] erfüllt
+ nicht den Tatbestand des § [Satzungsnorm], weil [Begründung].
+ Beweis: Anlage B5 (Videomitschnitt); Anlage B6 (Zeugenaussagen
+ [Namen]).
 
 5. Fehlendes Verschulden:
-   Unsere Mandantschaft handelte in der irrtümlichen Annahme,
-   dass [Handlung] nach § [Satzungsnorm] zulässig sei. Dieser
-   Irrtum war aus Sicht eines verständigen Sportlers entschuldbar
-   (Anlage B7: Regelwerks-Schulungsnachweis; Anlage B8: Verbandspost
-   zu geänderten Regelungen).
+ Unsere Mandantschaft handelte in der irrtümlichen Annahme,
+ dass [Handlung] nach § [Satzungsnorm] zulässig sei. Dieser
+ Irrtum war aus Sicht eines verständigen Sportlers entschuldbar
+ (Anlage B7: Regelwerks-Schulungsnachweis; Anlage B8: Verbandspost
+ zu geänderten Regelungen).
 
 6. Unverhältnismäßigkeit:
-   In vergleichbaren Fällen hat der Verband folgende Strafen
-   verhängt: [Auflistung aus Verbandsrechtsprechung] (Anlage B9).
-   Die hier ausgesprochene Sperre von [N] Spielen überschreitet
-   den üblichen Strafrahmen erheblich. Art. 12 GG gebietet
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ In vergleichbaren Fällen hat der Verband folgende Strafen
+ verhängt: [Auflistung aus Verbandsrechtsprechung] (Anlage B9).
+ Die hier ausgesprochene Sperre von [N] Spielen überschreitet
+ den üblichen Strafrahmen erheblich. Art. 12 GG gebietet
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Hilfsantrag
 

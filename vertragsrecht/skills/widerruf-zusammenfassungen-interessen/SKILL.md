@@ -1,13 +1,13 @@
 ---
 name: widerruf-zusammenfassungen-interessen
-description: "Nutze dies, wenn Spezial Widerruf Internationaler Bezug Und Schnittstellen, Spezial Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Widerruf Internationaler Bezug Und Schnittstellen, Spezial Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Widerruf Internationaler Bezug Und Schnittstellen, Spezial Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Widerruf Internationaler Bezug Und Schnittstellen, Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Widerruf Internationaler Bezug Und Schnittstellen, Spezial Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung
+# Widerruf Internationaler Bezug Und Schnittstellen, Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Widerruf Internationaler Bezug Und Schnittstellen, Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Widerruf Internationaler Bezug Und Schnittstellen, Spezial Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Widerruf Internationaler Bezug Und Schnittstellen, Zusammenfassungen Mehrparteien Konflikt Und Interessen, Stakeholder Zusammenfassung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `vertragsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Widerruf Internationaler Bezug Und Schnittstellen, Spezial Zusamm
 # Widerruf: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Widerruf: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Widerruf: Internationaler Bezug und Schnittstellen / spezial widerruf internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Widerruf: Internationaler Bezug und Schnittstellen / widerruf internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix / spezial zusammenfassungen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Zusammenfassungen: Mehrparteienkonflikt und Interessenmatrix / zusammenfassungen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AGB, BGB, NDA, MSA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -138,22 +138,22 @@ Vertrauen beim Empfänger und können haftungsrechtliche Folgen haben, wenn
 sie wesentliche Risiken weglassen.
 
 - § 280 Abs. 1 BGB — Pflichtverletzung durch fehlerhafte Beratung;
-  Schadensersatzpflicht des Anwalts bei falsch oder unvollständig
-  kommunizierten Risiken
+ Schadensersatzpflicht des Anwalts bei falsch oder unvollständig
+ kommunizierten Risiken
 - § 675 BGB i.V.m. §§ 611 ff. BGB — Anwaltsvertrag als Dienstvertrag
-  mit besonderer Sorgfaltspflicht; vollständige und zutreffende Aufklärung
-  des Mandanten
+ mit besonderer Sorgfaltspflicht; vollständige und zutreffende Aufklärung
+ des Mandanten
 - § 43a Abs. 2 BRAO — Mandatsgeheimnis; Weiterleitung von Zusammenfassungen
-  außerhalb des Vertrauenskreises bedarf der Prüfung (Privilegkreis)
+ außerhalb des Vertrauenskreises bedarf der Prüfung (Privilegkreis)
 - §§ 164 ff. BGB — Vollmacht; eine Zusammenfassung, die impliziert, der
-  Vertrag sei unterschriftsreif, kann als Beratungsleistung wirken, auf
-  die sich der Mandant verlässt
+ Vertrag sei unterschriftsreif, kann als Beratungsleistung wirken, auf
+ die sich der Mandant verlässt
 
 ### Sorgfaltspflicht bei Risikoangaben
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Aufklärungspflicht bei Vertragsgestaltung; Hinweis auf AGB-Unwirksamkeit
-  als Bestandteil ordnungsgemäßer Beratung)
+ (Aufklärungspflicht bei Vertragsgestaltung; Hinweis auf AGB-Unwirksamkeit
+ als Bestandteil ordnungsgemäßer Beratung)
 
 ### Quellenregel
 
@@ -173,13 +173,13 @@ Vor der Ausgabe prüfen, wohin sie geht. Wenn der Nutzer einen Empfänger
 oder Kanal genannt hat:
 
 - Interne Rechtsabteilung / unter anwaltlicher Aufsicht → privilegiertes
-  Arbeitsergebnis behalten
+ Arbeitsergebnis behalten
 - Geschäftsführung, Vorstand, Einkauf (intern) → Arbeitergebnis-Kennzeichnung
-  entfernen oder anpassen; kein Mandatsgeheimnis verletzt, aber Kennzeichnung
-  täuscht über Privilegstatus
+ entfernen oder anpassen; kein Mandatsgeheimnis verletzt, aber Kennzeichnung
+ täuscht über Privilegstatus
 - Gegenseite, externe Berater, Lieferant → ROT; privilegierte Kennzeichnung
-  entfernen; Mandant darauf hinweisen, dass die Weiterleitung den Privilegstatus
-  dieser Kommunikation beeinflussen kann
+ entfernen; Mandant darauf hinweisen, dass die Weiterleitung den Privilegstatus
+ dieser Kommunikation beeinflussen kann
 
 Angebot: (a) privilegierte Version für interne Rechtsabteilung, (b) bereinigte
 Version für Weitergabe, (c) beides.
@@ -208,20 +208,20 @@ dafür ist das Memo da.
 **Struktur (in dieser Reihenfolge):**
 
 1. **Ein Absatz** — Urteil und Vertragsinhalt in Geschäftssprache.
-   Nicht "Dienstleistungsrahmenvertrag für die Bereitstellung
-   cloudbasierter Analysedienste" — sondern "das ist der Vertrag für
-   das Dashboard-Tool, das das Marketing-Team angefragt hat."
+ Nicht "Dienstleistungsrahmenvertrag für die Bereitstellung
+ cloudbasierter Analysedienste" — sondern "das ist der Vertrag für
+ das Dashboard-Tool, das das Marketing-Team angefragt hat."
 
 2. **Ein Absatz** — Der Haken, wenn es einen gibt. Was überrascht den
-   Empfänger später, wenn es ihm jetzt keiner sagt? Beispiel: "Achtung:
-   der Vertrag verlängert sich automatisch jährlich; Kündigung muss
-   6 Wochen vorher erfolgen. Ich habe es im Fristen-Tracker eingetragen,
-   aber Sie sollten das wissen." Bei sauberem Vertrag: "Kein besonderer
-   Hinweis — alles entspricht Standard."
+ Empfänger später, wenn es ihm jetzt keiner sagt? Beispiel: "Achtung:
+ der Vertrag verlängert sich automatisch jährlich; Kündigung muss
+ 6 Wochen vorher erfolgen. Ich habe es im Fristen-Tracker eingetragen,
+ aber Sie sollten das wissen." Bei sauberem Vertrag: "Kein besonderer
+ Hinweis — alles entspricht Standard."
 
 3. **2–3 Punkte Checkliste** — Was der Empfänger konkret tun muss
-   (höchstens drei Punkte; wenn ein vierter nötig ist, sind die ersten
-   drei nicht präzise genug).
+ (höchstens drei Punkte; wenn ein vierter nötig ist, sind die ersten
+ drei nicht präzise genug).
 
 4. **Eine Zeile Abschluss** — Wer genehmigt, bis wann.
 
@@ -295,11 +295,11 @@ bei Weiterleitung an Nicht-Juristen entfernen]
 - Paragraphennummern
 - Definierte Begriffe in Anführungszeichen
 - Das Wort "Haftungsfreizeichnung" (stattdessen: "sie übernehmen keine
-  Verantwortung, wenn…")
+ Verantwortung, wenn…")
 - Das Wort "ungeachtet"
 - Risikomatrizen mit Farbpunkten (sofern nicht explizit angefordert)
 - Relativierungsfloskeln à la "Dies ist keine Rechtsauskunft" — der Empfänger
-  weiß, wer diese Zusammenfassung geschrieben hat
+ weiß, wer diese Zusammenfassung geschrieben hat
 
 ## Beispiel
 
@@ -333,22 +333,22 @@ Eskalationsstatus: kein Eskalationsbedarf nach Playbook-Prüfung.
 ## Risiken und typische Fehler
 
 - **Fristen-Tracker-Eintragung behaupten ohne Prüfung.** Nur dann schreiben
-  "im Fristen-Tracker eingetragen", wenn `/vertragsrecht:vertragsverlängerungs-monitor`
-  tatsächlich für diesen Vertrag ausgeführt wurde. Andernfalls:
-  "noch nicht eingetragen — bitte als Handlungspunkt aufnehmen."
+ "im Fristen-Tracker eingetragen", wenn `/vertragsrecht:vertragsverlängerungs-monitor`
+ tatsächlich für diesen Vertrag ausgeführt wurde. Andernfalls:
+ "noch nicht eingetragen — bitte als Handlungspunkt aufnehmen."
 - **Klauseln trunkieren.** Bedingte Klauseln vollständig paraphrasieren —
-  nie verkürzte Version, die die Bedingung weglässt.
+ nie verkürzte Version, die die Bedingung weglässt.
 - **Privilegkreis ignorieren.** Bei Weiterleitung außerhalb der
-  Rechtsabteilung Kennzeichnung anpassen; darauf hinweisen, dass die
-  Weiterleitung vertraulicher Rechtsberatung an Dritte den Schutz
-  dieser Kommunikation beeinflusst.
+ Rechtsabteilung Kennzeichnung anpassen; darauf hinweisen, dass die
+ Weiterleitung vertraulicher Rechtsberatung an Dritte den Schutz
+ dieser Kommunikation beeinflusst.
 - **Eskalationsadressen weglassen.** Auch wenn der Empfänger die Namen
-  nicht kennt, muss der Eskalationsstatus intern vollständig sein.
-  Die Zusammenfassung signalisiert dem Anwalt, ob alle Eskalationspfade
-  beschritten wurden.
+ nicht kennt, muss der Eskalationsstatus intern vollständig sein.
+ Die Zusammenfassung signalisiert dem Anwalt, ob alle Eskalationspfade
+ beschritten wurden.
 - **"Kein Risiko" bei sauberem Vertrag nicht sagen.** Stattdessen:
-  "Kein besonderer Hinweis — der Vertrag entspricht unserem Standard
-  und ist unterzeichnungsreif."
+ "Kein besonderer Hinweis — der Vertrag entspricht unserem Standard
+ und ist unterzeichnungsreif."
 
 ## Quellenpflicht
 
@@ -359,6 +359,6 @@ ist für Nicht-Juristen):
 - Gesetzesnorm (z. B. Art. 28 DSGVO, § 309 Nr. 7 BGB)
 - BGH-Entscheidung in korrekter Zitierweise
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
+ Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

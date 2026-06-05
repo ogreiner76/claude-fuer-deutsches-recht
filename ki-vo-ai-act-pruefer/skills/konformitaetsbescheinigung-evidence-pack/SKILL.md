@@ -32,7 +32,7 @@ Vor dem Output prüfen:
 7. **Registrierung/CE:** Art. 48/49/71 einschlägig?
 8. **Post-Market:** Art. 72 ff. Monitoring und Incident-Prozess vorhanden?
 
-Wenn diese Punkte nicht belegt sind, zuerst die passenden Spezial-Skills vorschlagen:
+Wenn diese Punkte nicht belegt sind, zuerst die passenden Fachmodule vorschlagen:
 
 - `liegt-ki-system-vor-art-3-nr-1`
 - `hochrisiko-art-6-abs-2-anhang-iii`

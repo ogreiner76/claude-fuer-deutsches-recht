@@ -1,13 +1,13 @@
 ---
 name: ruecktritt-kuendigung-verhandlungsplan
-description: "Nutze dies, wenn Workflow Fristen Rücktritt Kündigung, Workflow Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang im Plugin Bgb Bt Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Workflow Fristen Rücktritt Kündigung, Workflow Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang prüfen.; Erstelle eine Arbeitsfassung zu Workflow Fristen Rücktritt Kündigung, Workflow Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fristen Rücktritt Kündigung, Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Fristen Rücktritt Kündigung, Workflow Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang
+# Fristen Rücktritt Kündigung, Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fristen Rücktritt Kündigung, Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Fristen Rücktritt Kündigung, Workflow Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristen Rücktritt Kündigung, Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bgb-bt-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

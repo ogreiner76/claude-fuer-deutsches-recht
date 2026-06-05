@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-real-estate-redline
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out, Grosskanzlei Corporate Ma Real Estate Leases Sites, Grosskanzlei Corporate Ma Redline Comparison Automation, Grosskanzlei Corporate Ma Register Filings Implementation, Grosskanzlei Corporate Ma Regulatory Fdi Merger Control und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out, Grosskanzlei Corporate Ma Real Estate Leases Sites, Grosskanzlei Corporate Ma Redline Comparison Automation, Grosskanzlei Corporate Ma Register Filings Implementation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out, Grosskanzlei Corporate Ma Real Estate Leases Sites, Grosskanzlei Corporate Ma Redline Comparison Automation, Grosskanzlei Corporate Ma Register Filings Implementation, Grosskanzlei Corporate Ma Regulatory Fdi Merger Control und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out, Grosskanzlei Corporate Ma Real Estate Leases Sites, Grosskanzlei Corporate Ma Redline Comparison Automation, Grosskanzlei Corporate Ma Register Filings Implementation, Grosskanzlei Corporate Ma Regulatory Fdi Merger Control und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -770,9 +770,9 @@ DARSTELLENDER TEIL
 2. Insolvenztatbestand (§ 18 InsO: drohende ZU)
 3. Sanierungskonzept (IDW S 6 Grundsaetze)
 4. Glaeubiger und Forderungsklassen:
-   Klasse 1: Gesicherte Glaeubiger (Banken) — Summe: [BETRAG]
-   Klasse 2: Lieferanten und ungesicherte Glaeubiger — Summe: [BETRAG]
-   Klasse 3: Nachrangige Glaeubiger — Summe: [BETRAG]
+ Klasse 1: Gesicherte Glaeubiger (Banken) — Summe: [BETRAG]
+ Klasse 2: Lieferanten und ungesicherte Glaeubiger — Summe: [BETRAG]
+ Klasse 3: Nachrangige Glaeubiger — Summe: [BETRAG]
 5. Besserstellungsvergleich: Plan [X EUR] vs. Liquidation [Y EUR]
 
 GESTALTENDER TEIL

@@ -1,13 +1,13 @@
 ---
 name: ips-stabilisierung-ips-stakeholder-ips-plan
-description: "Nutze dies, wenn Ips Stabilisierung Starug, Ips Stakeholder Kommunikation, Ips Starug Plan Architektur im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Ips Stabilisierung Starug, Ips Stakeholder Kommunikation, Ips Starug Plan Architektur prüfen.; Erstelle eine Arbeitsfassung zu Ips Stabilisierung Starug, Ips Stakeholder Kommunikation, Ips Starug Plan Architektur.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ips Stabilisierung Starug, Ips Stakeholder Kommunikation, Ips Starug Plan Architektur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ips Stabilisierung Starug, Ips Stakeholder Kommunikation, Ips Starug Plan Architektur
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ips Stabilisierung Starug, Ips Stakeholder Kommunikation, Ips Starug Plan Architektur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -83,7 +83,7 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 ## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — StaRUG-Plan mit Eingriff in Aktionärsrechte verfassungsrechtlich grundsätzlich zulässig. Relevanz für Stabilisierungsanordnung (§ 49 StaRUG): Vollstreckungsschutz von bis zu drei Monaten ist verhältnismäßig, wenn die Stabilisierungsziele (Plan-Aufstellung, Verhandlung) konkret dokumentiert sind.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Restrukturierungsgerichts-Entscheidungen zu § 49 StaRUG (Stabilisierungsanordnung) und § 51 StaRUG (Voraussetzungen) vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
@@ -239,7 +239,7 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 ## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans als unzulässig zurückgewiesen. Bestätigung der grundsätzlichen Verfassungsmäßigkeit von Restrukturierungsplänen mit Eingriff in Aktionärsrechte; § 66 Abs. 2 Nr. 3 StaRUG (Schlechterstellungsprüfung) als zentrale Schutznorm.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Restrukturierungsgerichts- und OLG-Entscheidungen zu StaRUG-Plan-Architektur (§§ 7–39 StaRUG: darstellender Teil, gestaltender Teil, Gruppen, Mehrheiten, Cramdown) vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)

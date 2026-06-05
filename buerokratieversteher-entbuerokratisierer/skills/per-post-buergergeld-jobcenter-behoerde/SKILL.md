@@ -1,13 +1,13 @@
 ---
 name: per-post-buergergeld-jobcenter-behoerde
-description: "Nutze dies, wenn Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde prüfen.; Erstelle eine Arbeitsfassung zu Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Brief Per Post Und Einschreiben, Bürgergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für Behörde, Datenschutz Auskunft Behörde** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Für 
 ## Aufgabe
 Erklärt Versandwege, Zugangsnachweis, Fax-/Einschreiben-/Einwurf-Risiken, Behördenbriefkasten und Dokumentation.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -81,7 +81,7 @@ Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag
 - Aufhebung/Erstattung: §§ 45, 48 SGB X iVm § 40 SGB II; Anhörung nach § 24 SGB X zwingend, sonst Heilung im Widerspruchsverfahren.
 - Praktiker-Tipp: Widerspruch ist kostenfrei (§ 64 SGB X), Frist ein Monat; bei drohendem Leistungsstopp Eilantrag § 86b SGG zum Sozialgericht (Gerichtskostenfreiheit, § 183 SGG). Beratungshilfe nach BerHG für anwaltliche Erstberatung möglich.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -121,7 +121,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Macht aus Lebenssachverhalt eine knappe, belegbare Chronologie ohne Spekulationen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -161,7 +161,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei DSGVO-Auskunft, Berichtigung, Löschung, Akteneinsicht und Datenschutzbeschwerde gegen öffentliche Stellen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

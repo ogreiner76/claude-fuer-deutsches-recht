@@ -1,13 +1,13 @@
 ---
 name: evvollzug-zustellung-durch-bea-einstweiliger
-description: "Nutze dies, wenn Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun prüfen.; Erstelle eine Arbeitsfassung zu Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Evvollzug Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Ordnungsmittelantrag Vollstreckung Unterlassun: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun
+# Evvollzug Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Ordnungsmittelantrag Vollstreckung Unterlassun
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Evvollzug Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Ordnungsmittelantrag Vollstreckung Unterlassun** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Evvollzug Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Ordnungsmittelantrag Vollstreckung Unterlassun** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -319,10 +319,10 @@ Mandatsbezug: Markeninhaber hat Unterlassungsverfügung gegen Verletzer erwirkt 
 
 - **Datum und Uhrzeit** des Verstoßes genau festhalten (wichtig für Verschuldensfrage).
 - **Beweismittel:**
-  - Screenshot mit Datum, URL, Metadaten
-  - Testkauf mit Quittung
-  - Zeuge mit schriftlicher Erklärung
-  - eidesstattliche Versicherung des Antragstellers
+ - Screenshot mit Datum, URL, Metadaten
+ - Testkauf mit Quittung
+ - Zeuge mit schriftlicher Erklärung
+ - eidesstattliche Versicherung des Antragstellers
 - Verstoß muss **nach** Zustellung der EV an Schuldner erfolgt sein; Datum der Zustellurkunde ist Bezugspunkt.
 - Mehrere Verstöße getrennt dokumentieren; jeder Verstoß kann gesondert geahndet werden.
 

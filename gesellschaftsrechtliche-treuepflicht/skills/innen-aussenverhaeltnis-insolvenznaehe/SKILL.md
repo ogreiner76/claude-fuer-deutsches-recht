@@ -1,22 +1,22 @@
 ---
 name: innen-aussenverhaeltnis-insolvenznaehe
-description: "Nutze dies, wenn Innen Aussenverhaeltnis, Insolvenznaehe, Interessenmatrix, Kgaa Komplementaer im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Innen Aussenverhaeltnis, Insolvenznaehe, Interessenmatrix, Kgaa Komplementaer prüfen.; Erstelle eine Arbeitsfassung zu Innen Aussenverhaeltnis, Insolvenznaehe, Interessenmatrix, Kgaa Komplementaer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Innen Aussenverhaeltnis, Insolvenznaehe, Interessenmatrix, Kgaa Komplementaer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Innen Aussenverhaeltnis, Insolvenznaehe, Interessenmatrix, Kgaa Komplementaer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Innen Aussenverhaeltnis, Insolvenznaehe, Interessenmatrix, Kgaa Komplementaer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `innen-aussenverhaeltnis` | Gesellschaftsrechtliche Treuepflicht: Innen Aussenverhaeltnis; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `insolvenznaehe` | Gesellschaftsrechtliche Treuepflicht: Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `interessenmatrix` | Gesellschaftsrechtliche Treuepflicht: Interessenmatrix; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `kgaa-komplementaer` | Gesellschaftsrechtliche Treuepflicht: Kgaa Komplementaer; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `innen-aussenverhaeltnis` | Gesellschaftsrechtliche Treuepflicht: Innen Aussenverhaeltnis; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `insolvenznaehe` | Gesellschaftsrechtliche Treuepflicht: Insolvenznaehe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `interessenmatrix` | Gesellschaftsrechtliche Treuepflicht: Interessenmatrix; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `kgaa-komplementaer` | Gesellschaftsrechtliche Treuepflicht: Kgaa Komplementaer; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Innen Aussenverhaeltnis, Insolvenznaehe, Interessenmatrix, Kgaa Komplemen
 
 ## 1. `innen-aussenverhaeltnis`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Innen Aussenverhaeltnis; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Innen Aussenverhaeltnis; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Innen Aussenverhaeltnis
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `insolvenznaehe`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Insolvenznaehe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Insolvenznaehe
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `interessenmatrix`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Interessenmatrix; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Interessenmatrix; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Interessenmatrix
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `kgaa-komplementaer`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Kgaa Komplementaer; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Kgaa Komplementaer; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Kgaa Komplementaer
 

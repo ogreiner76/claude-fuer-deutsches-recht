@@ -1,13 +1,13 @@
 ---
 name: hauszitierweise-juristische-kommentar
-description: "Nutze dies, wenn Spezial Hauszitierweise Tatbestand Beweis Und Belege, Spezial Juristische Erstpruefung Und Mandatsziel, Spezial Kommentar Compliance Dokumentation Und Akte im Plugin Zitierweise Deutsches Recht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Hauszitierweise Tatbestand Beweis Und Belege, Spezial Juristische Erstpruefung Und Mandatsziel, Spezial Kommentar Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Hauszitierweise Tatbestand Beweis Und Belege, Spezial Juristische Erstpruefung Und Mandatsziel, Spezial Kommentar Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hauszitierweise Tatbestand Beweis Und Belege, Juristische Erstpruefung Und Mandatsziel, Kommentar Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Hauszitierweise Tatbestand Beweis Und Belege, Spezial Juristische Erstpruefung Und Mandatsziel, Spezial Kommentar Compliance Dokumentation Und Akte
+# Hauszitierweise Tatbestand Beweis Und Belege, Juristische Erstpruefung Und Mandatsziel, Kommentar Compliance Dokumentation Und Akte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hauszitierweise Tatbestand Beweis Und Belege, Juristische Erstpruefung Und Mandatsziel, Kommentar Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Hauszitierweise Tatbestand Beweis Und Belege, Spezial Juristische Erstpruefung Und Mandatsziel, Spezial Kommentar Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zitierweise-deutsches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hauszitierweise Tatbestand Beweis Und Belege, Juristische Erstpruefung Und Mandatsziel, Kommentar Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zitierweise-deutsches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Hauszitierweise Tatbestand Beweis Und Belege, Spezial Juristische
 # Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial hauszitierweise tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage / hauszitierweise tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -79,7 +79,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Juristische: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Juristische: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Juristische: Erstprüfung, Rollenklärung und Mandatsziel / spezial juristische erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Juristische: Erstprüfung, Rollenklärung und Mandatsziel / juristische erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -127,7 +127,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Kommentar: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Kommentar: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Kommentar: Compliance-Dokumentation und Aktenvermerk / spezial kommentar compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kommentar: Compliance-Dokumentation und Aktenvermerk / kommentar compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

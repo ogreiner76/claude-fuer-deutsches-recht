@@ -1,6 +1,6 @@
 ---
 name: benennt
-description: "Nutze dies, wenn Benennt: Compliance-Dokumentation und Aktenvermerk im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Benennt: Compliance-Dokumentation und Aktenvermerk: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Benennt: Compliance-Dokumentation und Aktenvermerk

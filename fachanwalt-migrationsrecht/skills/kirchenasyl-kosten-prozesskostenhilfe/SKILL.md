@@ -1,41 +1,41 @@
 ---
 name: kirchenasyl-kosten-prozesskostenhilfe
-description: "Nutze dies, wenn Spezial Kirchenasyl, Spezial Kosten Prozesskostenhilfe, Spezial Krankenversicherung, Spezial Lagebericht Quellenkritik, Spezial Lgbtiq Schutz im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Kirchenasyl, Spezial Kosten Prozesskostenhilfe, Spezial Krankenversicherung, Spezial Lagebericht Quellenkritik, Spezial Lgbtiq Schutz prüfen.; Erstelle eine Arbeitsfassung zu Spezial Kirchenasyl, Spezial Kosten Prozesskostenhilfe, Spezial Krankenversicherung, Spezial Lagebericht Quellenkritik, Spezial Lgbtiq Schutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kirchenasyl, Kosten Prozesskostenhilfe, Krankenversicherung, Lagebericht Quellenkritik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Kirchenasyl, Spezial Kosten Prozesskostenhilfe, Spezial Krankenversicherung, Spezial Lagebericht Quellenkritik, Spezial Lgbtiq Schutz
+# Kirchenasyl, Kosten Prozesskostenhilfe, Krankenversicherung, Lagebericht Quellenkritik, Lgbtiq Schutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kirchenasyl, Kosten Prozesskostenhilfe, Krankenversicherung, Lagebericht Quellenkritik, Lgbtiq Schutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-kirchenasyl` | Kirchenasyl: Spezial-Skill im Migrationsrecht; prüft Dublin-Praxis, Dossier, Fristen, Behördenkommunikation; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-kosten-prozesskostenhilfe` | Kosten/PKH Migration: Spezial-Skill im Migrationsrecht; prüft Beratungshilfe, PKH, Erfolgsaussicht, Eilrechtsschutzkosten; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-krankenversicherung` | Krankenversicherung: Spezial-Skill im Migrationsrecht; prüft Sicherung Lebensunterhalt, Versicherungspflicht, Familienversicherung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-lagebericht-quellenkritik` | Länderquellen-Kritik: Spezial-Skill im Migrationsrecht; prüft AA-Lagebericht, EUAA, UNHCR, NGOs, Aktualität, Widersprüche; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-lgbtiq-schutz` | LSBTIQ*-Schutzgründe: Spezial-Skill im Migrationsrecht; prüft soziale Gruppe, Verfolgung, Diskretionserwartung, Länderquellen sensibel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-kirchenasyl` | Kirchenasyl: Fachmodul im Migrationsrecht; prüft Dublin-Praxis, Dossier, Fristen, Behördenkommunikation; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-kosten-prozesskostenhilfe` | Kosten/PKH Migration: Fachmodul im Migrationsrecht; prüft Beratungshilfe, PKH, Erfolgsaussicht, Eilrechtsschutzkosten; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-krankenversicherung` | Krankenversicherung: Fachmodul im Migrationsrecht; prüft Sicherung Lebensunterhalt, Versicherungspflicht, Familienversicherung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-lagebericht-quellenkritik` | Länderquellen-Kritik: Fachmodul im Migrationsrecht; prüft AA-Lagebericht, EUAA, UNHCR, NGOs, Aktualität, Widersprüche; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-lgbtiq-schutz` | LSBTIQ*-Schutzgründe: Fachmodul im Migrationsrecht; prüft soziale Gruppe, Verfolgung, Diskretionserwartung, Länderquellen sensibel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
-Für **Spezial Kirchenasyl, Spezial Kosten Prozesskostenhilfe, Spezial Krankenversicherung, Spezial Lagebericht Quellenkritik, Spezial Lgbtiq Schutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kirchenasyl, Kosten Prozesskostenhilfe, Krankenversicherung, Lagebericht Quellenkritik, Lgbtiq Schutz** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-kirchenasyl`
 
-**Fokus:** Kirchenasyl: Spezial-Skill im Migrationsrecht; prüft Dublin-Praxis, Dossier, Fristen, Behördenkommunikation; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Kirchenasyl: Fachmodul im Migrationsrecht; prüft Dublin-Praxis, Dossier, Fristen, Behördenkommunikation; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Kirchenasyl
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Dublin-Praxis, Dossier, Fristen, Behördenkommunikation.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Dublin-Praxis, Dossier, Fristen, Behördenkommunikation.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -64,14 +64,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Dubli
 
 ## 2. `spezial-kosten-prozesskostenhilfe`
 
-**Fokus:** Kosten/PKH Migration: Spezial-Skill im Migrationsrecht; prüft Beratungshilfe, PKH, Erfolgsaussicht, Eilrechtsschutzkosten; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Kosten/PKH Migration: Fachmodul im Migrationsrecht; prüft Beratungshilfe, PKH, Erfolgsaussicht, Eilrechtsschutzkosten; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Kosten/PKH Migration
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Beratungshilfe, PKH, Erfolgsaussicht, Eilrechtsschutzkosten.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Beratungshilfe, PKH, Erfolgsaussicht, Eilrechtsschutzkosten.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -100,14 +100,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Berat
 
 ## 3. `spezial-krankenversicherung`
 
-**Fokus:** Krankenversicherung: Spezial-Skill im Migrationsrecht; prüft Sicherung Lebensunterhalt, Versicherungspflicht, Familienversicherung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Krankenversicherung: Fachmodul im Migrationsrecht; prüft Sicherung Lebensunterhalt, Versicherungspflicht, Familienversicherung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Krankenversicherung
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Sicherung Lebensunterhalt, Versicherungspflicht, Familienversicherung.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Sicherung Lebensunterhalt, Versicherungspflicht, Familienversicherung.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -136,14 +136,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Siche
 
 ## 4. `spezial-lagebericht-quellenkritik`
 
-**Fokus:** Länderquellen-Kritik: Spezial-Skill im Migrationsrecht; prüft AA-Lagebericht, EUAA, UNHCR, NGOs, Aktualität, Widersprüche; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Länderquellen-Kritik: Fachmodul im Migrationsrecht; prüft AA-Lagebericht, EUAA, UNHCR, NGOs, Aktualität, Widersprüche; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Länderquellen-Kritik
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft AA-Lagebericht, EUAA, UNHCR, NGOs, Aktualität, Widersprüche.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft AA-Lagebericht, EUAA, UNHCR, NGOs, Aktualität, Widersprüche.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -172,14 +172,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft AA-La
 
 ## 5. `spezial-lgbtiq-schutz`
 
-**Fokus:** LSBTIQ*-Schutzgründe: Spezial-Skill im Migrationsrecht; prüft soziale Gruppe, Verfolgung, Diskretionserwartung, Länderquellen sensibel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** LSBTIQ*-Schutzgründe: Fachmodul im Migrationsrecht; prüft soziale Gruppe, Verfolgung, Diskretionserwartung, Länderquellen sensibel; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # LSBTIQ*-Schutzgründe
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft soziale Gruppe, Verfolgung, Diskretionserwartung, Länderquellen sensibel.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft soziale Gruppe, Verfolgung, Diskretionserwartung, Länderquellen sensibel.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?

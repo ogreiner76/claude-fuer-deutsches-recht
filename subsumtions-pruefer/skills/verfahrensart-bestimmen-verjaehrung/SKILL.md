@@ -1,13 +1,13 @@
 ---
 name: verfahrensart-bestimmen-verjaehrung
-description: "Nutze dies, wenn Verfahrensart Bestimmen, Verjaehrung Fristen Prüfen, Generalklauseln Prüfen im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Verfahrensart Bestimmen, Verjaehrung Fristen Prüfen, Generalklauseln Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Verfahrensart Bestimmen, Verjaehrung Fristen Prüfen, Generalklauseln Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verfahrensart Bestimmen, Verjaehrung Fristen Prüfen, Generalklauseln Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verfahrensart Bestimmen, Verjaehrung Fristen Prüfen, Generalklauseln Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verfahrensart Bestimmen, Verjaehrung Fristen Prüfen, Generalklauseln Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -234,14 +234,14 @@ Der Neubeginn löscht die bisher abgelaufene Verjährungszeit:
 ```
 Anspruch entstanden wann?
 └─ Beginn: 31.12. des Entstehungsjahres
-   ├─ Regelfrist: 3 Jahre (§ 195 BGB)
-   ├─ Sonderverjährung einschlägig? → Tabelle oben
-   ├─ Hemmungstatbestand vorhanden?
-   │  ├─ Ja → Hemmungszeitraum herausrechnen
-   │  └─ Nein → weiter
-   └─ Neubeginn ausgelöst?
-      ├─ Ja → neue Frist ab Neubeginnzeitpunkt
-      └─ Nein → Ergebnis: verjährt / nicht verjährt
+ ├─ Regelfrist: 3 Jahre (§ 195 BGB)
+ ├─ Sonderverjährung einschlägig? → Tabelle oben
+ ├─ Hemmungstatbestand vorhanden?
+ │ ├─ Ja → Hemmungszeitraum herausrechnen
+ │ └─ Nein → weiter
+ └─ Neubeginn ausgelöst?
+ ├─ Ja → neue Frist ab Neubeginnzeitpunkt
+ └─ Nein → Ergebnis: verjährt / nicht verjährt
 ```
 
 ## Quellenregel
@@ -295,8 +295,8 @@ Generalklauseln entziehen sich per definitionem der rein mechanischen Subsumtion
 Zeitmoment: Ungewöhnlich lange Nichtausübung?
 ├─ Nein → keine Verwirkung
 └─ Ja → Umstandsmoment: Hat Schuldner auf Nichtgeltendmachung vertraut und disponiert?
-         ├─ Nein → keine Verwirkung
-         └─ Ja → Verwirkung prüfbar; aber: Wertungsfrage des Gerichts
+ ├─ Nein → keine Verwirkung
+ └─ Ja → Verwirkung prüfbar; aber: Wertungsfrage des Gerichts
 ```
 
 ### § 138 BGB — Sittenwidrigkeit
@@ -338,6 +338,6 @@ Das System gibt:
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 <!-- AUDIT 27.05.2026 bundle_044
-  → Vollzitat-Zeile und Fundstellen-Verweis NJW 2021, 1952 gelöscht
-  → kein Ersatz eingetragen (keine verifizierte Alternative gefunden)
+ → Vollzitat-Zeile und Fundstellen-Verweis NJW 2021, 1952 gelöscht
+ → kein Ersatz eingetragen (keine verifizierte Alternative gefunden)
 -->

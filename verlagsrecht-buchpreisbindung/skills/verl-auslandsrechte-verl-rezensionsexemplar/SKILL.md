@@ -1,13 +1,13 @@
 ---
 name: verl-auslandsrechte-verl-rezensionsexemplar
-description: "Nutze dies, wenn Verl 038 Auslandsrechte Sanktionen Exportkontrolle, Verl 030 Rezensionsexemplar Influencer Und Steuer im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 038 Auslandsrechte Sanktionen Exportkontrolle, Verl 030 Rezensionsexemplar Influencer Und Steuer prüfen.; Erstelle eine Arbeitsfassung zu Verl 038 Auslandsrechte Sanktionen Exportkontrolle, Verl 030 Rezensionsexemplar Influencer Und Steuer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 038 Auslandsrechte Sanktionen Exportkontrolle, Verl 030 Rezensionsexemplar Influencer Und Steuer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 038 Auslandsrechte Sanktionen Exportkontrolle, Verl 030 Rezensionsexemplar Influencer Und Steuer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 038 Auslandsrechte Sanktionen Exportkontrolle, Verl 030 Rezensionsexemplar Influencer Und Steuer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -54,9 +54,9 @@ Verlage, die Lizenzen an ausländische Verlage vergeben, müssen **Sanktionsrech
 ### Sind Buchlizenzen Sanktionsgegenstand?
 - Grundsatz: Kulturelle Güter (Bücher, Lizenzen) sind häufig **ausgenommen** von Sanktionen.
 - Ausnahmen:
-  - Technologietransfer (Dual-Use-Güter: Bücher mit militärischen oder nuklearen Inhalten).
-  - Lizenzen an sanktionierte Personen (SDN-Liste, EU-Sanktionsliste).
-  - Zahlungen in sanktionierten Währungen oder über sanktionierten Finanzinstitute.
+ - Technologietransfer (Dual-Use-Güter: Bücher mit militärischen oder nuklearen Inhalten).
+ - Lizenzen an sanktionierte Personen (SDN-Liste, EU-Sanktionsliste).
+ - Zahlungen in sanktionierten Währungen oder über sanktionierten Finanzinstitute.
 
 ## EU-Sanktionen: Russland (Beispiel VO 833/2014)
 
@@ -196,9 +196,9 @@ Verlage versenden **Rezensionsexemplare** an Presse, Buchblogger und Influencer.
 ### Kennzeichnungspflichten
 - **UWG § 5a, TMG § 6, MStV § 22**: Werbung im Internet muss als solche erkennbar sein.
 - Wenn Verlag Buch kostenlos (oder vergünstigt) zur Verfügung stellt und Influencer darüber postet:
-  - Hat der Influencer eine vertraglich gesicherte Pflicht zur Rezension → Werbung; **Pflicht zur Kennzeichnung** als „#Werbung" oder „#Anzeige".
-  - Verlag hat dem Influencer eine Publikation erleichtert oder empfohlen → möglicherweise Werbung.
-  - Freiwillige Rezension ohne jede Absprache → keine Kennzeichnungspflicht.
+ - Hat der Influencer eine vertraglich gesicherte Pflicht zur Rezension → Werbung; **Pflicht zur Kennzeichnung** als „#Werbung" oder „#Anzeige".
+ - Verlag hat dem Influencer eine Publikation erleichtert oder empfohlen → möglicherweise Werbung.
+ - Freiwillige Rezension ohne jede Absprache → keine Kennzeichnungspflicht.
 
 ### BGH-Rechtsprechung
 - BGH „Die Burg Schreckenstein" (I ZR 126/20): Instagram-Posts mit Produkt-Tags ohne Kennzeichnung = Schleichwerbung, auch wenn keine direkte Zahlung, wenn wirtschaftlicher Vorteil (kostenlose Übersendung) vorlag.

@@ -1,13 +1,13 @@
 ---
 name: vaf-quality-vaf-redline-vaf
-description: "Nutze dies, wenn Vaf Quality Gate, Vaf Redline Qa, Vaf Rueckfrageninterview im Plugin Vertragsausfueller konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Vaf Quality Gate, Vaf Redline Qa, Vaf Rueckfrageninterview: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vaf Quality Gate, Vaf Redline Qa, Vaf Rueckfrageninterview
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vaf Quality Gate, Vaf Redline Qa, Vaf Rueckfrageninterview** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

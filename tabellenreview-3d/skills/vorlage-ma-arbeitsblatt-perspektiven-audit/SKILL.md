@@ -1,13 +1,13 @@
 ---
 name: vorlage-ma-arbeitsblatt-perspektiven-audit
-description: "Nutze dies, wenn Vorlage Ma Due Diligence, Arbeitsblatt Perspektiven Definieren, Audit Trail Protokoll im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Vorlage Ma Due Diligence, Arbeitsblatt Perspektiven Definieren, Audit Trail Protokoll prüfen.; Erstelle eine Arbeitsfassung zu Vorlage Ma Due Diligence, Arbeitsblatt Perspektiven Definieren, Audit Trail Protokoll.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vorlage Ma Due Diligence, Arbeitsblatt Perspektiven Definieren, Audit Trail Protokoll: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vorlage Ma Due Diligence, Arbeitsblatt Perspektiven Definieren, Audit Trail Protokoll
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vorlage Ma Due Diligence, Arbeitsblatt Perspektiven Definieren, Audit Trail Protokoll** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -158,18 +158,18 @@ Excel kann mehrere Tabellenblaetter nebeneinander. Der 3D-Würfel übernimmt die
 
 ```yaml
 - id: recht
-  titel: "Rechtliche Perspektive"
-  perspektive: "anwalt"
-  pruefer-rolle: "rechtsanwalt"
-  eigene-spalten-zusaetze:
-    - id: agb-wirksamkeit
-      prompt: "Sind die AGB-Klauseln nach BGB Paragraph 305 ff. wirksam?"
-  auslassungen:
-    - umsatzsteuer  # Steuerblatt; hier nicht zuständig
-  ampel-regel:
-    rot: "Unwirksame Klausel BGB Paragraph 307"
-    gelb: "AGB-Wirksamkeit zweifelhaft"
-    gruen: "Wirksam oder Individualvereinbarung"
+ titel: "Rechtliche Perspektive"
+ perspektive: "anwalt"
+ pruefer-rolle: "rechtsanwalt"
+ eigene-spalten-zusaetze:
+ - id: agb-wirksamkeit
+ prompt: "Sind die AGB-Klauseln nach BGB Paragraph 305 ff. wirksam?"
+ auslassungen:
+ - umsatzsteuer # Steuerblatt; hier nicht zuständig
+ ampel-regel:
+ rot: "Unwirksame Klausel BGB Paragraph 307"
+ gelb: "AGB-Wirksamkeit zweifelhaft"
+ gruen: "Wirksam oder Individualvereinbarung"
 ```
 
 ## Stapelung
@@ -243,17 +243,17 @@ Wer mit KI Verträge prüft muss später erklären können wie das Ergebnis zust
 
 ```json
 {
-  "zeitstempel": "2026-05-20T14:23:11Z",
-  "aktion": "lauf.beendet",
-  "verantwortlicher": "system",
-  "würfel-version": "v3",
-  "prompt-version": "p12",
-  "modell-version": "claude-opus-4-7",
-  "eingangs-hash": "sha256:...",
-  "ausgangs-hash": "sha256:...",
-  "anzahl-zellen": 4176,
-  "anzahl-prüferflag": 87,
-  "begründung": "Standardlauf nach Schema-Änderung Spalte 'MAC'"
+ "zeitstempel": "2026-05-20T14:23:11Z",
+ "aktion": "lauf.beendet",
+ "verantwortlicher": "system",
+ "würfel-version": "v3",
+ "prompt-version": "p12",
+ "modell-version": "claude-opus-4-7",
+ "eingangs-hash": "sha256:...",
+ "ausgangs-hash": "sha256:...",
+ "anzahl-zellen": 4176,
+ "anzahl-prüferflag": 87,
+ "begründung": "Standardlauf nach Schema-Änderung Spalte 'MAC'"
 }
 ```
 

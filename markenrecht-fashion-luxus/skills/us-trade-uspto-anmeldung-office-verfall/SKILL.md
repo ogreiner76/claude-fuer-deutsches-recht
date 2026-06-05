@@ -1,13 +1,13 @@
 ---
 name: us-trade-uspto-anmeldung-office-verfall
-description: "Nutze dies, wenn Us Trade Dress Und Secondary Meaning, Uspto Anmeldung Und Lanham Act, Uspto Office Actions Und Tess Tsdr, Verfall Nichtigkeit Und Loeschungsantrag im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Us Trade Dress Und Secondary Meaning, Uspto Anmeldung Und Lanham Act, Uspto Office Actions Und Tess Tsdr, Verfall Nichtigkeit Und Loeschungsantrag prüfen.; Erstelle eine Arbeitsfassung zu Us Trade Dress Und Secondary Meaning, Uspto Anmeldung Und Lanham Act, Uspto Office Actions Und Tess Tsdr, Verfall Nichtigkeit Und Loeschungsantrag.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Us Trade Dress Und Secondary Meaning, Uspto Anmeldung Und Lanham Act, Uspto Office Actions Und Tess Tsdr, Verfall Nichtigkeit Und Loeschungsantrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Us Trade Dress Und Secondary Meaning, Uspto Anmeldung Und Lanham Act, Uspto Office Actions Und Tess Tsdr, Verfall Nichtigkeit Und Loeschungsantrag
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Us Trade Dress Und Secondary Meaning, Uspto Anmeldung Und Lanham Act, Uspto Office Actions Und Tess Tsdr, Verfall Nichtigkeit Und Loeschungsantrag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -139,12 +139,12 @@ not claimed as a feature of the mark.
 Declaration of [Name], authorized signatory of klôtzzkètté Inc.
 
 1. klôtzzkètté Inc. has used the above-described trade dress
-   exclusively and continuously since [date] in connection with
-   the sale of perfume in the United States.
+ exclusively and continuously since [date] in connection with
+ the sale of perfume in the United States.
 2. During this period, klôtzzkètté Inc. has spent approximately
-   USD [X] million annually in advertising featuring this trade dress.
+ USD [X] million annually in advertising featuring this trade dress.
 3. Annual U.S. sales of products featuring this trade dress:
-   USD [X] million.
+ USD [X] million.
 4. [Attach survey results, press clips, etc.]
 ```
 
@@ -250,8 +250,8 @@ Das US-Markenrecht unterscheidet sich in fundamentalen Punkten vom europäischen
 
 1. Zugangskonto beim USPTO anlegen (trademark.uspto.gov)
 2. Markenart: Standard Character (Wortmarke) vs. Special Form (Logo)
-   - Standard Character = breiter Schutz (alle Schriftarten/Farben)
-   - Special Form = enger Schutz, nur in dargestellter Form
+ - Standard Character = breiter Schutz (alle Schriftarten/Farben)
+ - Special Form = enger Schutz, nur in dargestellter Form
 3. Waren-/Dienstleistungen: Nizza-Klassen + US-Coordinated Classes (TEAS ordnet automatisch)
 4. Filing Basis angeben
 5. Specimen bei § 1(a): Upload JPG/PNG (max. 5 MB)
@@ -397,13 +397,13 @@ TESS und TSDR sind die primären Recherchetools; wer sie nicht kennt, ist blind 
 
 1. Zugang: tmsearch.uspto.gov
 2. Sucharten:
-   - Basic Word Mark Search: Exakte/phonetische Suche
-   - Structured Search: Kombinierte Suche nach Wort + Klasse + Inhaberstatus
-   - Design Search Code: für Bildmarken (US Design Search Code — anders als Vienna Classification)
+ - Basic Word Mark Search: Exakte/phonetische Suche
+ - Structured Search: Kombinierte Suche nach Wort + Klasse + Inhaberstatus
+ - Design Search Code: für Bildmarken (US Design Search Code — anders als Vienna Classification)
 3. Filteroptionen:
-   - Status: Live (nur aktive Marken) vs. Dead (historische Marken)
-   - IC: International Class (z.B. IC 025)
-   - GS: Goods/Services freie Textsuche
+ - Status: Live (nur aktive Marken) vs. Dead (historische Marken)
+ - IC: International Class (z.B. IC 025)
+ - GS: Goods/Services freie Textsuche
 4. Ergebnis-Export: CSV für systematische Vergleichsanalyse
 
 ### TSDR (Trademark Status and Document Retrieval)
@@ -411,9 +411,9 @@ TESS und TSDR sind die primären Recherchetools; wer sie nicht kennt, ist blind 
 1. Zugang: tsdr.uspto.gov
 2. Funktion: Vollständige Aktenansicht jeder Marke (Serial Number / Registration Number)
 3. Inhalte:
-   - Status (Live/Dead/Abandoned/Cancelled)
-   - Prosecution History: alle Office Actions, Responses, Decisions
-   - Documents: Specimens, Assignments, Renewals
+ - Status (Live/Dead/Abandoned/Cancelled)
+ - Prosecution History: alle Office Actions, Responses, Decisions
+ - Documents: Specimens, Assignments, Renewals
 4. Strategisch: Prosecution History Estoppel — frühere Argumente des Inhabers gebunden ihn
 
 ### DuPont Factors — 13-Faktoren-Analyse
@@ -482,17 +482,17 @@ Filed: [Date]
 Response to Office Action dated [Date]
 
 I. RESPONSE TO REFUSAL UNDER § 2(d)
-   A. The Marks Are Dissimilar in Appearance, Sound, and Meaning
-   B. The Goods Are Sold Through Different Trade Channels
-   C. Purchasers Are Sophisticated
-   D. No Evidence of Actual Confusion
-   [...]
+ A. The Marks Are Dissimilar in Appearance, Sound, and Meaning
+ B. The Goods Are Sold Through Different Trade Channels
+ C. Purchasers Are Sophisticated
+ D. No Evidence of Actual Confusion
+ [...]
 
 II. AMENDMENT TO IDENTIFICATION OF GOODS (if applicable)
-   [New language]
+ [New language]
 
 III. DECLARATION (37 C.F.R. § 2.20)
-   [If acquired distinctiveness is argued]
+ [If acquired distinctiveness is argued]
 
 Respectfully submitted,
 Eleanor M. Quintero, Esq.

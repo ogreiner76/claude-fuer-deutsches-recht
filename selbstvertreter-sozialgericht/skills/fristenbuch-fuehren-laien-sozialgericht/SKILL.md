@@ -57,10 +57,10 @@ Nicht spezifisch geregelt, aber gute Praxis.
 ### Schritt 2 — Fristenbuch-Tabelle
 
 ```
-| Az          | Sache              | Frist        | Vorfrist     | Erledigt | Notiz                  |
+| Az | Sache | Frist | Vorfrist | Erledigt | Notiz |
 |-------------|--------------------|--------------| ------------|----------|------------------------|
-| S 1 KR 1/26 | KK-Hilfsmittel     | 15.6.2026   | 5.6.2026   | nein     | KK lehnt Hoergeraet ab |
-| W xyz JC    | Buergergeld-Sanktion| 22.5.2026   | 15.5.2026  | nein     | Sanktion 30 %          |
+| S 1 KR 1/26 | KK-Hilfsmittel | 15.6.2026 | 5.6.2026 | nein | KK lehnt Hoergeraet ab |
+| W xyz JC | Buergergeld-Sanktion| 22.5.2026 | 15.5.2026 | nein | Sanktion 30 % |
 ```
 
 ### Schritt 3 — Pro Bescheid sofort eintragen

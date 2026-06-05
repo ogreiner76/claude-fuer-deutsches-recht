@@ -1,13 +1,13 @@
 ---
 name: verstaendigung-257c
-description: "Nutze dies, wenn Verstaendigung 257C Stpo Strafzumessung im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Verstaendigung 257C Stpo Strafzumessung prüfen.; Erstelle eine Arbeitsfassung zu Verstaendigung 257C Stpo Strafzumessung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verstaendigung 257c Stpo Strafzumessung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verstaendigung 257C Stpo Strafzumessung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verstaendigung 257C Stpo Strafzumessung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -74,20 +74,20 @@ Die Verstaendigung erlaubt eine **prozessuale Einigung** ueber den Verfahrensaus
 ## Schritt-fuer-Schritt-Anleitung (Verteidigung)
 
 1. **Verstaendigungs-Eignung pruefen**:
-   - Klare Schuldfrage oder zumindest klares Schuldgewicht?
-   - Gestaendnis fuer Mandant tragbar?
-   - Risiken einer Hauptverhandlung ohne Verstaendigung?
+ - Klare Schuldfrage oder zumindest klares Schuldgewicht?
+ - Gestaendnis fuer Mandant tragbar?
+ - Risiken einer Hauptverhandlung ohne Verstaendigung?
 2. **Sondierung** mit Gericht und Staatsanwaltschaft, in der Regel im **Rechtsgespraech** vor Hauptverhandlung (Erkundigungsgespraech).
 3. **Strafrahmen** vorschlagen: realistische Ober- und Untergrenze; idealer Strafrahmen liegt unter 1 oder 2 Jahren fuer Bewaehrungsperspektive.
 4. **Mandanten-Belehrung** schriftlich dokumentieren:
-   - Gestaendnis ist erforderlich.
-   - Strafe liegt im genannten Rahmen, **kein** Punktwert.
-   - Bei neuen Tatsachen kann das Gericht von der Verstaendigung abruecken (§ 257c Abs. 4 StPO).
-   - Rechtsmittelverzicht ist **ausgeschlossen** (§ 35a Satz 3 StPO).
+ - Gestaendnis ist erforderlich.
+ - Strafe liegt im genannten Rahmen, **kein** Punktwert.
+ - Bei neuen Tatsachen kann das Gericht von der Verstaendigung abruecken (§ 257c Abs. 4 StPO).
+ - Rechtsmittelverzicht ist **ausgeschlossen** (§ 35a Satz 3 StPO).
 5. **In der Hauptverhandlung**:
-   - Verstaendigung wird **oeffentlich** verkuendet und protokolliert (§ 273 Abs. 1a StPO).
-   - **Belehrungen** vollstaendig in das Protokoll.
-   - Gestaendnis ablegen; in der Hauptverhandlung verlesen oder erklaert.
+ - Verstaendigung wird **oeffentlich** verkuendet und protokolliert (§ 273 Abs. 1a StPO).
+ - **Belehrungen** vollstaendig in das Protokoll.
+ - Gestaendnis ablegen; in der Hauptverhandlung verlesen oder erklaert.
 6. **Nach Urteil**: Rechtsmittel pruefen; Verzicht nicht moeglich.
 
 ## Schritt-fuer-Schritt-Anleitung (Staatsanwaltschaft)

@@ -58,7 +58,7 @@ Ab Zustellung der Klageschrift: dieselben verschärften Regeln, unabhängig von 
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. Wann Kenntnis vom Mangel des Rechtsgrundes (§ 819 Abs. 1)?
 2. Gesetz-/Sittenverstoß beim Empfänger (§ 819 Abs. 2)?

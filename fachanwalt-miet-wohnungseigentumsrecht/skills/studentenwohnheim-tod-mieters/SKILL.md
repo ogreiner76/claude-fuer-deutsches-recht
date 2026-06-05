@@ -1,34 +1,34 @@
 ---
 name: studentenwohnheim-tod-mieters
-description: "Nutze dies, wenn Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschluessel, Spezial Umwandlung Kuendigungssperre, Spezial Untervermietung 553 im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschluessel, Spezial Umwandlung Kuendigungssperre, Spezial Untervermietung 553 prüfen.; Erstelle eine Arbeitsfassung zu Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschluessel, Spezial Umwandlung Kuendigungssperre, Spezial Untervermietung 553.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschluessel, Spezial Umwandlung Kuendigungssperre, Spezial Untervermietung 553
+# Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre, Untervermietung 553
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre, Untervermietung 553** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-studentenwohnheim` | Studentenwohnheim: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-tod-des-mieters` | Tod des Mieters: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-studentenwohnheim` | Studentenwohnheim: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-tod-des-mieters` | Tod des Mieters: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-umlageschluessel` | Umlageschlüssel in Miet- und WEG-Abrechnungen: Vertrag, § 556a BGB, Wohnfläche, Personen, Einheiten, Verbrauch, Miteigentumsanteile, HeizkostenV, Gewerbe-Vorwegabzug, Schlüsselwechsel, Wohnflächenabweichung und Beweisführung. |
-| `spezial-umwandlung-kuendigungssperre` | Umwandlung/Kündigungssperre: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-untervermietung-553` | Untervermietung § 553 BGB: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-umwandlung-kuendigungssperre` | Umwandlung/Kündigungssperre: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-untervermietung-553` | Untervermietung § 553 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschluessel, Spezial Umwandlung Kuendigungssperre, Spezial Untervermietung 553** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Studentenwohnheim, Tod Des Mieters, Umlageschluessel, Umwandlung Kuendigungssperre, Untervermietung 553** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-studentenwohnheim`
 
-**Fokus:** Studentenwohnheim: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Studentenwohnheim: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Studentenwohnheim
 
@@ -42,9 +42,9 @@ Für **Spezial Studentenwohnheim, Spezial Tod Des Mieters, Spezial Umlageschlues
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Sonderregeln, Rotationskonzept, Kündigung, Mieterschutz.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-tod-des-mieters`
 
-**Fokus:** Tod des Mieters: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Tod des Mieters: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Tod des Mieters
 
@@ -87,9 +87,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Eintrittsrechte, Erben, Kündigung, Räumung, Nachlass.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -175,7 +175,7 @@ Aktuelle Normtexte von § 556a BGB und HeizkostenV prüfen. Rechtsprechung nur m
 
 ## 4. `spezial-umwandlung-kuendigungssperre`
 
-**Fokus:** Umwandlung/Kündigungssperre: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Umwandlung/Kündigungssperre: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Umwandlung/Kündigungssperre
 
@@ -189,9 +189,9 @@ Aktuelle Normtexte von § 556a BGB und HeizkostenV prüfen. Rechtsprechung nur m
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft § 577a BGB, Erwerber, Gebiet, Eigenbedarfssperre.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -220,7 +220,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-untervermietung-553`
 
-**Fokus:** Untervermietung § 553 BGB: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Untervermietung § 553 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Untervermietung § 553 BGB
 
@@ -234,9 +234,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft berechtigtes Interesse, Personenangaben, Zumutbarkeit, Zuschlag und Kündigungsfolge.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

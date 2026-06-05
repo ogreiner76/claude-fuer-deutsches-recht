@@ -1,13 +1,13 @@
 ---
 name: tia-zusaetzliche-us-transfer
-description: "Nutze dies, wenn Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator prüfen.; Erstelle eine Arbeitsfassung zu Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -457,11 +457,11 @@ TOMs:
 - **Drittland bezeichnen**
 - **Empfänger nennen**
 - **Garantie nach Art. 46 DSGVO** spezifizieren:
-  - SCC (Standard-Vertrags-Klauseln)
-  - BCR (Binding Corporate Rules)
-  - Verhaltens-Regeln Art. 40
-  - Zertifizierung Art. 42
-  - Internationales Abkommen (z.B. EU-US Data Privacy Framework)
+ - SCC (Standard-Vertrags-Klauseln)
+ - BCR (Binding Corporate Rules)
+ - Verhaltens-Regeln Art. 40
+ - Zertifizierung Art. 42
+ - Internationales Abkommen (z.B. EU-US Data Privacy Framework)
 - Bei Art. 49 Ausnahme bezeichnen (Einwilligung Vertrag Lebenswichtige Interessen etc.)
 
 ### Anhang TIA (Transfer Impact Assessment)
@@ -621,7 +621,7 @@ TIA durchgeführt: ja, Skill drittlandstransfer-pruefung
 Lösch-Frist:
 - Aktive Abonnenten: Bis zum Widerruf
 - Nach Widerruf: 3 Jahre Aufbewahrung der
-  Widerrufs-Information (Beweis-Funktion)
+ Widerrufs-Information (Beweis-Funktion)
 - Click-Verhalten: 13 Monate (Statistik-Auswertung)
 
 TOMs:

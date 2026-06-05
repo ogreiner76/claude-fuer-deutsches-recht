@@ -1,13 +1,13 @@
 ---
 name: qualitaetspruefung-builder-daten-red
-description: "Nutze dies, wenn Skills Qualitaetspruefung, Spezial Builder Zahlen Schwellen Und Berechnung, Spezial Daten Red Team Und Qualitaetskontrolle im Plugin Kanzlei Builder Hub konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Skills Qualitaetspruefung, Builder Zahlen Schwellen Und Berechnung, Daten Red Team Und Qualitaetskontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Skills Qualitaetspruefung, Spezial Builder Zahlen Schwellen Und Berechnung, Spezial Daten Red Team Und Qualitaetskontrolle
+# Skills Qualitaetspruefung, Builder Zahlen Schwellen Und Berechnung, Daten Red Team Und Qualitaetskontrolle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Skills Qualitaetspruefung, Builder Zahlen Schwellen Und Berechnung, Daten Red Team Und Qualitaetskontrolle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Skills Qualitaetspruefung, Spezial Builder Zahlen Schwellen Und Berechnung, Spezial Daten Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Skills Qualitaetspruefung, Builder Zahlen Schwellen Und Berechnung, Daten Red Team Und Qualitaetskontrolle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kanzlei-builder-hub` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -178,8 +178,8 @@ Getrennt von der Parametertabelle. Eigenständige Prüfung der drei rechtsspezif
 ```
 Rechtsspezifische Fehlermodi-Prüfung:
 □ Rechtsberatung vs. Rechtsunterstützung: [Adressiert / Teilweise / Nicht adressiert]
-□ Berufsgeheimnis/Mandatsprivileg:        [Adressiert / N/A / Nicht adressiert]
-□ Verantwortlichkeitslücke:               [Adressiert / Teilweise / Nicht adressiert]
+□ Berufsgeheimnis/Mandatsprivileg: [Adressiert / N/A / Nicht adressiert]
+□ Verantwortlichkeitslücke: [Adressiert / Teilweise / Nicht adressiert]
 ```
 
 Falls einer davon "Nicht adressiert": Urteil ist unabhängig von den Parameterwerten **Wesentliche Bedenken**.
@@ -215,8 +215,8 @@ Der heuristische Scan hat Belege für Datenexfiltration, Zugangsdatendiebstahl, 
 
 ```
 ## Skills-QA — [skill-name]
-Quelle:     [Community-Registry / Erstanbieter]
-Bewertet:   [Datum]
+Quelle: [Community-Registry / Erstanbieter]
+Bewertet: [Datum]
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 URTEIL: BEREIT / EINIGE BEDENKEN / WESENTLICHE BEDENKEN / ABLEHNEN
@@ -228,35 +228,35 @@ Text für eine menschliche Prüfung — ein sauberer Scan ist keine Garantie.)
 Befunde: [nach Kategorie, Datei, Zeile, zitiertem Text — oder "keine erkannt"]
 
 ABHÄNGIGKEITSKARTE
-Vorgelagert:    [was gelesen / benötigt wird]
-Nachgelagert:   [was geschrieben / verändert wird]
-Auto-Auslöser:  [Hooks und Agenten, oder "keine"]
-Ausfallrisiko:  [was nachgelagert bricht, oder "gering"]
-Hinweis:        [falls Kartierung unvollständig, angeben was fehlt]
+Vorgelagert: [was gelesen / benötigt wird]
+Nachgelagert: [was geschrieben / verändert wird]
+Auto-Auslöser: [Hooks und Agenten, oder "keine"]
+Ausfallrisiko: [was nachgelagert bricht, oder "gering"]
+Hinweis: [falls Kartierung unvollständig, angeben was fehlt]
 
 PARAMETERBEWERTUNG
 ┌─────────────────────────────┬────────┬──────────────────────────┬────────────────────────────────┐
-│ Parameter                   │ Status │ Defizit                  │ Empfohlene Behebung            │
+│ Parameter │ Status │ Defizit │ Empfohlene Behebung │
 ├─────────────────────────────┼────────┼──────────────────────────┼────────────────────────────────┤
-│ Zielgruppe                  │ ✅/⚠️/🔴 │                          │                                │
-│ Arbeitsform                 │        │                          │                                │
-│ Delegationsschwelle         │        │                          │                                │
-│ Eingabeanforderungen        │        │                          │                                │
-│ Versionierung / Verantw.    │        │                          │                                │
-│ Konfidenzbänder             │        │                          │                                │
-│ Fehlermodi                  │        │                          │                                │
-│ Umfangsgrenzen              │        │                          │                                │
-│ Eskalationslogik            │        │                          │                                │
-│ Vertrauensoberfläche        │        │                          │                                │
-│ Aktualität                  │        │                          │                                │
-│ Schema                      │        │                          │                                │
-│ Konflikte                   │        │                          │                                │
+│ Zielgruppe │ ✅/⚠️/🔴 │ │ │
+│ Arbeitsform │ │ │ │
+│ Delegationsschwelle │ │ │ │
+│ Eingabeanforderungen │ │ │ │
+│ Versionierung / Verantw. │ │ │ │
+│ Konfidenzbänder │ │ │ │
+│ Fehlermodi │ │ │ │
+│ Umfangsgrenzen │ │ │ │
+│ Eskalationslogik │ │ │ │
+│ Vertrauensoberfläche │ │ │ │
+│ Aktualität │ │ │ │
+│ Schema │ │ │ │
+│ Konflikte │ │ │ │
 └─────────────────────────────┴────────┴──────────────────────────┴────────────────────────────────┘
 
 RECHTSSPEZIFISCHE FEHLERMODI
-□ Rechtsberatung vs. Unterstützung:  [Status]
-□ Berufsgeheimnis/Mandatsprivileg:   [Status]
-□ Verantwortlichkeitslücke:          [Status]
+□ Rechtsberatung vs. Unterstützung: [Status]
+□ Berufsgeheimnis/Mandatsprivileg: [Status]
+□ Verantwortlichkeitslücke: [Status]
 
 WICHTIGSTE BEHEBUNGSSCHRITTE
 1. [Kritischste Lücke — ein Satz]
@@ -315,7 +315,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 # Builder: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Builder: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Builder: Zahlen, Schwellenwerte und Berechnung / spezial builder zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Builder: Zahlen, Schwellenwerte und Berechnung / builder zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -356,7 +356,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Daten: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Daten: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Daten: Red-Team und Qualitätskontrolle / spezial daten red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Daten: Red-Team und Qualitätskontrolle / daten red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

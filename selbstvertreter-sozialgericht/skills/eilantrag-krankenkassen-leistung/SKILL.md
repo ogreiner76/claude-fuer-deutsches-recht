@@ -56,7 +56,7 @@ Schritte:
 ### Schritt 2 — Eilantrag-Schriftsatz
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 In dem Verfahren
 

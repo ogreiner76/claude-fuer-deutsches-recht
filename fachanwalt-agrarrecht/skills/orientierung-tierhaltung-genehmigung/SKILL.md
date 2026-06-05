@@ -1,19 +1,19 @@
 ---
 name: orientierung-tierhaltung-genehmigung
-description: "Nutze dies, wenn Fachanwalt Agrarrecht Orientierung, Fachanwalt Agrarrecht Tierhaltung Genehmigung, Fachanwalt Agrarrecht Verhandlung Landpacht Schlichtung im Plugin Fachanwalt Agrarrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Agrarrecht Orientierung, Fachanwalt Agrarrecht Tierhaltung Genehmigung, Fachanwalt Agrarrecht Verhandlung Landpacht Schlichtung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Agrarrecht Orientierung, Fachanwalt Agrarrecht Tierhaltung Genehmigung, Fachanwalt Agrarrecht Verhandlung Landpacht Schlichtung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Agrarrecht Orientierung, Fachanwalt Agrarrecht Tierhaltung Genehmigung, Fachanwalt Agrarrecht Verhandlung Landpacht Schlichtung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Agrarrecht Orientierung, Fachanwalt Agrarrecht Tierhaltung Genehmigung, Fachanwalt Agrarrecht Verhandlung Landpacht Schlichtung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Agrarrecht Orientierung, Fachanwalt Agrarrecht Tierhaltung Genehmigung, Fachanwalt Agrarrecht Verhandlung Landpacht Schlichtung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-agrarrecht-orientierung` | Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg. |
+| `fachanwalt-agrarrecht-orientierung` | Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg. |
 | `fachanwalt-agrarrecht-tierhaltung-genehmigung` | Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhoerung Buergerbeteiligung. Widerspruch Klage Eilantrag. |
 | `fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung` | Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und muessen Einigung außergerichtlich versuchen. Prüfraster Pachtvertrags-Vergleich LPachtVG Pachtanpassung § 593 BGB Landwirtschaftskammer-Schlichtung. ADR-Wege Hofuebergabe-Mediation Schlichtungsformate im Pachtgewerbe. Normen §§ 581 ff. BGB § 593 BGB Pachtanpassung LPachtVG. Output Verhandlungs-Strategie-Memo Schlichtungsantrag Vergleichs-Skript. Abgrenzung: fachanwalt-agrarrecht-pachtvertrag-streitig für streitiges Gerichtsverfahren. |
 
@@ -26,7 +26,7 @@ Für **Fachanwalt Agrarrecht Orientierung, Fachanwalt Agrarrecht Tierhaltung Gen
 
 ## 1. `fachanwalt-agrarrecht-orientierung`
 
-**Fokus:** Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg.
+**Fokus:** Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg.
 
 # Fachanwalt für Agrarrecht — Orientierung
 
@@ -200,7 +200,7 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 
 ## Prüfschema Tierhaltungs-Genehmigung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
 |---|---|---|---|
@@ -238,7 +238,7 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 | Legehenne | 750 cm² / Tier + Nest | Wintergarten ab 2025 |
 | Masthähnchen | 33 kg/m² Bestandsdichte | Tageslicht |
 
-## Workflow Genehmigungsverfahren
+## Genehmigungsverfahren
 
 ### Schritt 1 — Vorbereitung
 
@@ -301,22 +301,22 @@ Der oben genannte Bescheid wird vollständig angefochten.
 Begründung:
 
 1. BauGB-Privilegierung
-   Die Futtergrundlage des Betriebs beläuft sich auf
-   [ha], was [%] des Jahresbedarfs deckt. Damit ist
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Der Bescheid verkennt die Berechnung.
+ Die Futtergrundlage des Betriebs beläuft sich auf
+ [ha], was [%] des Jahresbedarfs deckt. Damit ist
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Der Bescheid verkennt die Berechnung.
 
 2. UVP-Vorprüfung
-   Die Vorprüfung ist fehlerhaft, weil [konkrete
-   Fehler, z.B. kumulative Wirkung falsch berechnet].
-   Ergebnis der korrekten Vorprüfung: keine UVP-Pflicht.
+ Die Vorprüfung ist fehlerhaft, weil [konkrete
+ Fehler, z.B. kumulative Wirkung falsch berechnet].
+ Ergebnis der korrekten Vorprüfung: keine UVP-Pflicht.
 
 3. Geruchsgutachten
-   Das Geruchs-Gutachten der Behörde weist Fehler auf:
-   [konkret: falsche Windstatistik, Ausgangsdaten].
-   Wir legen unser Gegengutachten [Sachverständiger]
-   bei, das an der Immissionsadresse 0,08 Jahres-
-   geruchsstunden ermittelt (GIRL-Grenze: 0,10).
+ Das Geruchs-Gutachten der Behörde weist Fehler auf:
+ [konkret: falsche Windstatistik, Ausgangsdaten].
+ Wir legen unser Gegengutachten [Sachverständiger]
+ bei, das an der Immissionsadresse 0,08 Jahres-
+ geruchsstunden ermittelt (GIRL-Grenze: 0,10).
 
 Wir beantragen,
 den Bescheid aufzuheben und die Genehmigung zu erteilen.
@@ -475,7 +475,7 @@ Kommunikations- und Verhandlungsstrategie für agrarrechtliche Mandate: Landpach
 
 ## Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 ### Phase 1 — Sachverhalts-Klärung mit Mandant
@@ -528,7 +528,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Außergerichtliches Anpassungs-Schreiben § 593 BGB
 
 ```
-[Kanzlei]                                           [Ort, Datum]
+[Kanzlei] [Ort, Datum]
 
 [Gegenseite]
 [Anschrift]

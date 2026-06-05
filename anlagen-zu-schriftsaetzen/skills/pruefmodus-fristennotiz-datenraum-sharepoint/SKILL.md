@@ -1,13 +1,13 @@
 ---
 name: pruefmodus-fristennotiz-datenraum-sharepoint
-description: "Nutze dies, wenn Spezial Pruefmodus Fristennotiz Und Naechster Schritt, Anlagen Aus Datenraum Und Sharepoint, Anlagen Aus Edv Systemen, Anlagen Aus Mandantenmaterial im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Spezial Pruefmodus Fristennotiz Und Naechster Schritt, Anlagen Aus Datenraum Und Sharepoint, Anlagen Aus Edv Systemen, Anlagen Aus Mandantenmaterial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Pruefmodus Fristennotiz Und Naechster Schritt, Anlagen Aus Datenraum Und Sharepoint, Anlagen Aus Edv Systemen, Anlagen Aus Mandantenmaterial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pruefmodus Fristennotiz Und Naechster Schritt, Anlagen Aus Datenraum Und Sharepoint, Anlagen Aus Edv Systemen, Anlagen Aus Mandantenmaterial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Pruefmodus Fristennotiz Und Naechster Schritt, Anlagen Aus Datenraum Und Sharepoint, Anlagen Aus Edv Systemen, Anlagen Aus Mandantenmaterial
+# Pruefmodus Fristennotiz Und Naechster Schritt, Anlagen Aus Datenraum Und Sharepoint, Anlagen Aus Edv Systemen, Anlagen Aus Mandantenmaterial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pruefmodus Fristennotiz Und Naechster Schritt, Anlagen Aus Datenraum Und Sharepoint, Anlagen Aus Edv Systemen, Anlagen Aus Mandantenmaterial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Pruefmodus Fristennotiz Und Naechster Schritt, Anlagen Aus Datenraum Und Sharepoint, Anlagen Aus Edv Systemen, Anlagen Aus Mandantenmaterial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `anlagen-zu-schriftsaetzen` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pruefmodus Fristennotiz Und Naechster Schritt, Anlagen Aus Datenraum Und Sharepoint, Anlagen Aus Edv Systemen, Anlagen Aus Mandantenmaterial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `anlagen-zu-schriftsaetzen` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

@@ -64,21 +64,21 @@ SUMMEN- UND SALDENLISTE
 Mandant: [Firma]
 Periode: [Monat / Quartal / YTD]
 
-Konto  Bezeichnung           Soll-Summe   Haben-Summe   Saldo Soll   Saldo Haben
-0440   GWG                   [X]          [X]           [X]          [X]
-0670   Bauten/Grundstuecke   [X]          [X]           [X]          [X]
+Konto Bezeichnung Soll-Summe Haben-Summe Saldo Soll Saldo Haben
+0440 GWG [X] [X] [X] [X]
+0670 Bauten/Grundstuecke [X] [X] [X] [X]
 ...
-1000   Kasse                 [X]          [X]           [X]          [X]
-1200   Bank                  [X]          [X]           [X]          [X]
-1400   Forderungen LuL       [X]          [X]           [X]          [X]
-1576   Vorsteuer 19 Prozent  [X]          [X]           [X]          [X]
-1700   Verb. LuL             [X]          [X]           [X]          [X]
-1776   USt 19 Prozent        [X]          [X]           [X]          [X]
-2000   Eroeffnungsbilanz     [X]          [X]           [X]          [X]
+1000 Kasse [X] [X] [X] [X]
+1200 Bank [X] [X] [X] [X]
+1400 Forderungen LuL [X] [X] [X] [X]
+1576 Vorsteuer 19 Prozent [X] [X] [X] [X]
+1700 Verb. LuL [X] [X] [X] [X]
+1776 USt 19 Prozent [X] [X] [X] [X]
+2000 Eroeffnungsbilanz [X] [X] [X] [X]
 ...
-3400   Wareneingang 19 Pr.   [X]          [X]           [X]          [X]
-4120   Loehne                [X]          [X]           [X]          [X]
-8400   Erloese 19 Prozent    [X]          [X]           [X]          [X]
+3400 Wareneingang 19 Pr. [X] [X] [X] [X]
+4120 Loehne [X] [X] [X] [X]
+8400 Erloese 19 Prozent [X] [X] [X] [X]
 ...
 ```
 

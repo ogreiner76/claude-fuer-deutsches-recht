@@ -1,13 +1,13 @@
 ---
 name: str-bruecke-widmung-planrecht-sondernutzung
-description: "Nutze dies, wenn Str 082 Bruecke Widmung Lesen, Str 083 Bruecke Planrecht Prüfen, Str 084 Bruecke Sondernutzung Formulieren, Str 085 Bruecke Einwendung Bauen im Plugin Strassenrecht Infrastruktur konkret bearbeitet werden soll. Auslöser: Bitte Str 082 Bruecke Widmung Lesen, Str 083 Bruecke Planrecht Prüfen, Str 084 Bruecke Sondernutzung Formulieren, Str 085 Bruecke Einwendung Bauen prüfen.; Erstelle eine Arbeitsfassung zu Str 082 Bruecke Widmung Lesen, Str 083 Bruecke Planrecht Prüfen, Str 084 Bruecke Sondernutzung Formulieren, Str 085 Bruecke Einwendung Bauen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Str 082 Bruecke Widmung Lesen, Str 083 Bruecke Planrecht Prüfen, Str 084 Bruecke Sondernutzung Formulieren, Str 085 Bruecke Einwendung Bauen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Str 082 Bruecke Widmung Lesen, Str 083 Bruecke Planrecht Prüfen, Str 084 Bruecke Sondernutzung Formulieren, Str 085 Bruecke Einwendung Bauen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Str 082 Bruecke Widmung Lesen, Str 083 Bruecke Planrecht Prüfen, Str 084 Bruecke Sondernutzung Formulieren, Str 085 Bruecke Einwendung Bauen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: vertrag-unterschrieben-abo-falle-abo
-description: "Nutze dies, wenn Vertrag Unterschrieben Bereut, Abo Falle Kündigung, Abo Kündigung Fitness Streaming im Plugin Verbraucher Rechtsstaat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Vertrag Unterschrieben Bereut, Abo Falle Kündigung, Abo Kündigung Fitness Streaming prüfen.; Erstelle eine Arbeitsfassung zu Vertrag Unterschrieben Bereut, Abo Falle Kündigung, Abo Kündigung Fitness Streaming.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vertrag Unterschrieben Bereut, Abo Falle Kündigung, Abo Kündigung Fitness Streaming: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vertrag Unterschrieben Bereut, Abo Falle Kündigung, Abo Kündigung Fitness Streaming
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vertrag Unterschrieben Bereut, Abo Falle Kündigung, Abo Kündigung Fitness Streaming** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

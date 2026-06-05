@@ -1,13 +1,13 @@
 ---
 name: schoeffe-verkehrsstrafrecht-sitzung-vermerk
-description: "Nutze dies, wenn Schoeffe Verkehrsstrafrecht Orientierung, Schoeffe Verkehrsstrafrecht Sitzung, Schriftsatz Vermerk Und Mustertext im Plugin Schoeffen Handelsrichter Praxis konkret bearbeitet werden soll. Auslöser: Bitte Schoeffe Verkehrsstrafrecht Orientierung, Schoeffe Verkehrsstrafrecht Sitzung, Schriftsatz Vermerk Und Mustertext prüfen.; Erstelle eine Arbeitsfassung zu Schoeffe Verkehrsstrafrecht Orientierung, Schoeffe Verkehrsstrafrecht Sitzung, Schriftsatz Vermerk Und Mustertext.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schoeffe Verkehrsstrafrecht Orientierung, Schoeffe Verkehrsstrafrecht Sitzung, Schriftsatz Vermerk Und Mustertext: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Schoeffe Verkehrsstrafrecht Orientierung, Schoeffe Verkehrsstrafrecht Sitzung, Schriftsatz Vermerk Und Mustertext
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schoeffe Verkehrsstrafrecht Orientierung, Schoeffe Verkehrsstrafrecht Sitzung, Schriftsatz Vermerk Und Mustertext** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

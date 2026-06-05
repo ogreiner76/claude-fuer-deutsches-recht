@@ -1,13 +1,13 @@
 ---
 name: sektor-sportligen-medienrechte
-description: "Nutze dies, wenn Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infrastruktur Sharing, Sektor Zahlungsverkehr Card Schemes Fintech, Selektivvertrieb Luxus Internetplattform im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infrastruktur Sharing, Sektor Zahlungsverkehr Card Schemes Fintech, Selektivvertrieb Luxus Internetplattform prüfen.; Erstelle eine Arbeitsfassung zu Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infrastruktur Sharing, Sektor Zahlungsverkehr Card Schemes Fintech, Selektivvertrieb Luxus Internetplattform.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infrastruktur Sharing, Sektor Zahlungsverkehr Card Schemes Fintech, Selektivvertrieb Luxus Internetplattform: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infrastruktur Sharing, Sektor Zahlungsverkehr Card Schemes Fintech, Selektivvertrieb Luxus Internetplattform
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sektor Sportligen Medienrechte Ticketing, Sektor Telekommunikation Infrastruktur Sharing, Sektor Zahlungsverkehr Card Schemes Fintech, Selektivvertrieb Luxus Internetplattform** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -44,7 +44,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Verbandsregeln, Medienrechte, Ticketing-Plattformen, Solidaritätsmechanismen und Zugang zu Wettbewerben
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.
@@ -87,7 +87,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Frequenzen, TowerCos, Netzzugang, Roaming, Kooperationen, Margin Squeeze und Regulierungsüberschneidung
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.
@@ -130,7 +130,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Interchange Fees, Acquiring, Wallets, Open Banking, PSD-Schnittstellen und Plattformmacht
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.

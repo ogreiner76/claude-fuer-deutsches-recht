@@ -1,13 +1,13 @@
 ---
 name: verfahrensidentifikation-02
-description: "Nutze dies, wenn Spezial Verfahrensidentifikation Dokumentenmatrix, Spezial Verfahrenszusammenfassung Rechtsweg Register, Verfahrenschronologie im Plugin Aktenauszug Gerichtsverfahren konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verfahrensidentifikation Dokumentenmatrix, Spezial Verfahrenszusammenfassung Rechtsweg Register, Verfahrenschronologie prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verfahrensidentifikation Dokumentenmatrix, Spezial Verfahrenszusammenfassung Rechtsweg Register, Verfahrenschronologie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verfahrensidentifikation Dokumentenmatrix, Verfahrenszusammenfassung Rechtsweg Register, Verfahrenschronologie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verfahrensidentifikation Dokumentenmatrix, Spezial Verfahrenszusammenfassung Rechtsweg Register, Verfahrenschronologie
+# Verfahrensidentifikation Dokumentenmatrix, Verfahrenszusammenfassung Rechtsweg Register, Verfahrenschronologie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verfahrensidentifikation Dokumentenmatrix, Verfahrenszusammenfassung Rechtsweg Register, Verfahrenschronologie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verfahrensidentifikation Dokumentenmatrix, Spezial Verfahrenszusammenfassung Rechtsweg Register, Verfahrenschronologie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verfahrensidentifikation Dokumentenmatrix, Verfahrenszusammenfassung Rechtsweg Register, Verfahrenschronologie** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Verfahrensidentifikation Dokumentenmatrix, Spezial Verfahrenszusa
 # Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung / spezial verfahrensidentifikation dokumentenmatrix. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung / verfahrensidentifikation dokumentenmatrix. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg / spezial verfahrenszusammenfassung rechtsweg register. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg / verfahrenszusammenfassung rechtsweg register. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

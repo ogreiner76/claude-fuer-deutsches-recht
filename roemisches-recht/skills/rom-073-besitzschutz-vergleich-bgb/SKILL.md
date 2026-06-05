@@ -1,6 +1,6 @@
 ---
 name: rom-073-besitzschutz-vergleich-bgb
-description: "Römisches Recht: Besitzschutz Vergleich BGB. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Besitzschutz Vergleich BGB. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Besitzschutz Vergleich BGB

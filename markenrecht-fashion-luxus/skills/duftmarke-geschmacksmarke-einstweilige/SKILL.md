@@ -1,13 +1,13 @@
 ---
 name: duftmarke-geschmacksmarke-einstweilige
-description: "Nutze dies, wenn Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke prüfen.; Erstelle eine Arbeitsfassung zu Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -56,35 +56,35 @@ Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Ni
 ## Prüfungsschritte
 
 1. **Riechmarken-Prüfung (Bestandsaufnahme):**
-   - Sieckmann-Kriterien anlegen: Kann der Duft von klôtzzkètté "Abîme Dorée" klar und eindeutig dargestellt werden?
-   - Chemische Formel: unvollständig, da Parfumkomposition aus hunderten Stoffen besteht
-   - Gaschromatogramm: technisch präzise, aber nicht "leicht zugänglich" und "verständlich" für Durchschnittskonsumenten
-   - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   - **Ergebnis:** Zurückweisung beim DPMA/EUIPO wahrscheinlich (nahezu sicher)
+ - Sieckmann-Kriterien anlegen: Kann der Duft von klôtzzkètté "Abîme Dorée" klar und eindeutig dargestellt werden?
+ - Chemische Formel: unvollständig, da Parfumkomposition aus hunderten Stoffen besteht
+ - Gaschromatogramm: technisch präzise, aber nicht "leicht zugänglich" und "verständlich" für Durchschnittskonsumenten
+ - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - **Ergebnis:** Zurückweisung beim DPMA/EUIPO wahrscheinlich (nahezu sicher)
 
 2. **Alternative Schutzstrategien entwickeln:**
 
-   **Option A — Patentschutz:**
-   - Neue chemische Verbindung oder Kompositionsformel als Stoffpatent (§ 1 PatG)
-   - Schutzdauer: 20 Jahre
-   - Offenbarungspflicht: Ja — Geheimhaltungsinteresse verletzt
-   - Empfehlung: Nur für Einzelverbindungen, nicht für Gesamtkomposition
+ **Option A — Patentschutz:**
+ - Neue chemische Verbindung oder Kompositionsformel als Stoffpatent (§ 1 PatG)
+ - Schutzdauer: 20 Jahre
+ - Offenbarungspflicht: Ja — Geheimhaltungsinteresse verletzt
+ - Empfehlung: Nur für Einzelverbindungen, nicht für Gesamtkomposition
 
-   **Option B — UWG-Schutz (§ 4 Nr. 3):**
-   - Unlautere Nachahmung erfordert: wettbewerbliche Eigenart + Nachahmung + besondere Umstände
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   - Nachweis: Unique Smell Signature, Olfaktorik-Gutachten
-   - Grenze: Nur gegen direkte Kopien, nicht gegen ähnliche Düfte
+ **Option B — UWG-Schutz (§ 4 Nr. 3):**
+ - Unlautere Nachahmung erfordert: wettbewerbliche Eigenart + Nachahmung + besondere Umstände
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Nachweis: Unique Smell Signature, Olfaktorik-Gutachten
+ - Grenze: Nur gegen direkte Kopien, nicht gegen ähnliche Düfte
 
-   **Option C — Geschäftsgeheimnisschutz (GeschGehG):**
-   - Parfumrezeptur als Geschäftsgeheimnis sichern
-   - Interne NDA mit Parfümeur, Zulieferern, Mitarbeitern
-   - Dokumentation der Geheimhaltungsmaßnahmen (§ 2 Nr. 1 GeschGehG)
+ **Option C — Geschäftsgeheimnisschutz (GeschGehG):**
+ - Parfumrezeptur als Geschäftsgeheimnis sichern
+ - Interne NDA mit Parfümeur, Zulieferern, Mitarbeitern
+ - Dokumentation der Geheimhaltungsmaßnahmen (§ 2 Nr. 1 GeschGehG)
 
-   **Option D — Markenschutz über Flakon und Verpackung:**
-   - 3D-Marke für den charakteristischen Flakon (vgl. Skill `dreidimensionale-marke`)
-   - Positionsmarke für Labelgestaltung
-   - Wortmarke "Abîme Dorée" als Produktname
+ **Option D — Markenschutz über Flakon und Verpackung:**
+ - 3D-Marke für den charakteristischen Flakon (vgl. Skill `dreidimensionale-marke`)
+ - Positionsmarke für Labelgestaltung
+ - Wortmarke "Abîme Dorée" als Produktname
 
 3. **Monitoring:** Gaschromatographische Analyse von Konkurrenzprodukten zur Nachweisvorbereitung
 

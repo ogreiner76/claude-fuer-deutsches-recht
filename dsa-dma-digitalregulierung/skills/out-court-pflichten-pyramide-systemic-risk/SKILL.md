@@ -1,13 +1,13 @@
 ---
 name: out-court-pflichten-pyramide-systemic-risk
-description: "Nutze dies, wenn Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsa Out Of Court Streitbeilegung, Dsa Pflichten Pyramide Uebersicht, Dsa Systemic Risk Assessment Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

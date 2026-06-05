@@ -1,13 +1,13 @@
 ---
 name: pushtan-schlichtung-sonderfall
-description: "Nutze dies, wenn Spezial Prüfer Dokumentenmatrix Und Lueckenliste, Spezial Pushtan Compliance Dokumentation Und Akte, Spezial Schlichtung Sonderfall Und Edge Case im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Prüfer Dokumentenmatrix Und Lueckenliste, Pushtan Compliance Dokumentation Und Akte, Schlichtung Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Prüfer Dokumentenmatrix Und Lueckenliste, Spezial Pushtan Compliance Dokumentation Und Akte, Spezial Schlichtung Sonderfall Und Edge Case
+# Prüfer Dokumentenmatrix Und Lueckenliste, Pushtan Compliance Dokumentation Und Akte, Schlichtung Sonderfall Und Edge Case
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prüfer Dokumentenmatrix Und Lueckenliste, Pushtan Compliance Dokumentation Und Akte, Schlichtung Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Prüfer Dokumentenmatrix Und Lueckenliste, Spezial Pushtan Compliance Dokumentation Und Akte, Spezial Schlichtung Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Prüfer Dokumentenmatrix Und Lueckenliste, Pushtan Compliance Dokumentation Und Akte, Schlichtung Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Prüfer Dokumentenmatrix Und Lueckenliste, Spezial Pushtan Compli
 # Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung / spezial pruefer dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung / pruefer dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Pushtan: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Pushtan: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Pushtan: Compliance-Dokumentation und Aktenvermerk / spezial pushtan compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pushtan: Compliance-Dokumentation und Aktenvermerk / pushtan compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -145,7 +145,7 @@ pushTAN ist faktisch mehrheitlich Same-Device — Banken werden in Verfahren reg
 # Schlichtung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Schlichtung: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Schlichtung: Sonderfall und Edge-Case-Prüfung / spezial schlichtung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schlichtung: Sonderfall und Edge-Case-Prüfung / schlichtung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

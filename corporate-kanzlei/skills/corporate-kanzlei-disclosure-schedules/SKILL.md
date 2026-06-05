@@ -169,15 +169,15 @@ Allgemeine Offenlegung aller Datenraum-Dokumente als Disclosure — nur wirksam 
 
 ```
 Neues Material-Finding nach Signing entdeckt?
-  → Warranty-Verletzung?
-       → Ja, wesentlich (MAC-Level)?
-            → Kaeufer kann Ruecktrittsrecht geltend machen (MAC-Klausel pruefen)
-       → Ja, nicht wesentlich?
-            → Closing-Disclosure: Kaeufer informieren; Preisanpassung oder Waiver verhandeln
-  → Kein Warranty-Thema, aber CoC-Risiko?
-       → Consent sofort einholen; Closing-Condition-Status pruefen
-  → Arglist-Risiko (§ 444 BGB)?
-       → Vollstaendige Offenbarung im Closing Disclosure Letter; ggf. Rechtsrat einholen
+ → Warranty-Verletzung?
+ → Ja, wesentlich (MAC-Level)?
+ → Kaeufer kann Ruecktrittsrecht geltend machen (MAC-Klausel pruefen)
+ → Ja, nicht wesentlich?
+ → Closing-Disclosure: Kaeufer informieren; Preisanpassung oder Waiver verhandeln
+ → Kein Warranty-Thema, aber CoC-Risiko?
+ → Consent sofort einholen; Closing-Condition-Status pruefen
+ → Arglist-Risiko (§ 444 BGB)?
+ → Vollstaendige Offenbarung im Closing Disclosure Letter; ggf. Rechtsrat einholen
 ```
 
 ## Output-Template Disclosure Letter (Auszug)

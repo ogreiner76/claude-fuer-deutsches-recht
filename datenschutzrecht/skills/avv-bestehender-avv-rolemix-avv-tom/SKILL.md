@@ -1,13 +1,13 @@
 ---
 name: avv-bestehender-avv-rolemix-avv-tom
-description: "Nutze dies, wenn Avv Prüfung Bestehender Vertraege Audit, Avv Rolemix Getrennt Vs Gemeinsam Verantwortlich, Avv Tom Art 32 Dsgvo Anlage, Datenpanne Meldung, Datenschutz Auskunftei Restschuldbefreiung Art17 im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Avv Prüfung Bestehender Vertraege Audit, Avv Rolemix Getrennt Vs Gemeinsam Verantwortlich, Avv Tom Art 32 Dsgvo Anlage, Datenpanne Meldung, Datenschutz Auskunftei Restschuldbefreiung Art17 prüfen.; Erstelle eine Arbeitsfassung zu Avv Prüfung Bestehender Vertraege Audit, Avv Rolemix Getrennt Vs Gemeinsam Verantwortlich, Avv Tom Art 32 Dsgvo Anlage, Datenpanne Meldung, Datenschutz Auskunftei Restschuldbefreiung Art17.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Avv Prüfung Bestehender Vertraege Audit, Avv Rolemix Getrennt Vs Gemeinsam Verantwortlich, Avv Tom Art 32 Dsgvo Anlage, Datenpanne Meldung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Avv Prüfung Bestehender Vertraege Audit, Avv Rolemix Getrennt Vs Gemeinsam Verantwortlich, Avv Tom Art 32 Dsgvo Anlage, Datenpanne Meldung, Datenschutz Auskunftei Restschuldbefreiung Art17
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Avv Prüfung Bestehender Vertraege Audit, Avv Rolemix Getrennt Vs Gemeinsam Verantwortlich, Avv Tom Art 32 Dsgvo Anlage, Datenpanne Meldung, Datenschutz Auskunftei Restschuldbefreiung Art17** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,44 +55,44 @@ Systematische Inventur und Pruefung bestehender Auftragsverarbeitungsvertraege a
 ## Ablauf / Checkliste
 
 1. **Inventur.**
-   - Vendor-Liste (Lieferanten mit Datenverarbeitung).
-   - AVV-Status pro Vendor: vorhanden / nicht vorhanden / unklar.
-   - Vertragsdatum, Vertragsversion.
-   - Verarbeitungsumfang, Datenkategorien, Drittlandbezug.
+ - Vendor-Liste (Lieferanten mit Datenverarbeitung).
+ - AVV-Status pro Vendor: vorhanden / nicht vorhanden / unklar.
+ - Vertragsdatum, Vertragsversion.
+ - Verarbeitungsumfang, Datenkategorien, Drittlandbezug.
 
 2. **Rollenpruefung.**
-   - Pro Vendor: ist die Rollenzuordnung korrekt (Art. 28 versus Art. 26 versus eigene Verantwortlichkeit)?
-   - Querverweis: avv-rolemix-getrennt-vs-gemeinsam-verantwortlich.
+ - Pro Vendor: ist die Rollenzuordnung korrekt (Art. 28 versus Art. 26 versus eigene Verantwortlichkeit)?
+ - Querverweis: avv-rolemix-getrennt-vs-gemeinsam-verantwortlich.
 
 3. **Pflichtinhalte-Check.**
-   - Acht Pflichtklauseln nach Art. 28 Abs. 3 lit. a bis h DSGVO vollstaendig?
-   - Rahmenangaben (Gegenstand, Dauer, Art, Zweck, Datenarten, Betroffene) konkret?
-   - TOM-Anlage aktuell und konkret?
-   - Querverweis: avv-art-28-mindestinhalte-checkliste.
+ - Acht Pflichtklauseln nach Art. 28 Abs. 3 lit. a bis h DSGVO vollstaendig?
+ - Rahmenangaben (Gegenstand, Dauer, Art, Zweck, Datenarten, Betroffene) konkret?
+ - TOM-Anlage aktuell und konkret?
+ - Querverweis: avv-art-28-mindestinhalte-checkliste.
 
 4. **Sub-AV-Pflege.**
-   - Liste vorhanden und aktuell?
-   - Wechselbenachrichtigungsverfahren funktioniert?
-   - Drittland-Sub-AV identifiziert und abgesichert?
+ - Liste vorhanden und aktuell?
+ - Wechselbenachrichtigungsverfahren funktioniert?
+ - Drittland-Sub-AV identifiziert und abgesichert?
 
 5. **Drittlandbezug.**
-   - Aktuelle SCC nach Beschluss (EU) 2021/914 oder noch Altmuster?
-   - DPF-Listing aktuell?
-   - TIA vorhanden und aktuell?
+ - Aktuelle SCC nach Beschluss (EU) 2021/914 oder noch Altmuster?
+ - DPF-Listing aktuell?
+ - TIA vorhanden und aktuell?
 
 6. **Aktualitaet der TOM-Anlage.**
-   - Letzte Pruefung?
-   - Branchenuebliche Standards (ISO 27001, BSI C5, SOC 2) referenziert?
-   - Pflichtmindestmassnahmen aus Art. 32 DSGVO abgedeckt?
+ - Letzte Pruefung?
+ - Branchenuebliche Standards (ISO 27001, BSI C5, SOC 2) referenziert?
+ - Pflichtmindestmassnahmen aus Art. 32 DSGVO abgedeckt?
 
 7. **Verarbeitungsverzeichnis Art. 30 DSGVO.**
-   - AVV-Vendoren im Verzeichnis dokumentiert?
-   - Konsistenz zwischen Verzeichnis und AVV?
+ - AVV-Vendoren im Verzeichnis dokumentiert?
+ - Konsistenz zwischen Verzeichnis und AVV?
 
 8. **Audit-Bericht.**
-   - Bewertungsmatrix pro Vendor (Ampel: rot / orange / gelb / gruen).
-   - Massnahmenplan mit Fristen.
-   - Eskalationsverfahren bei nicht behebbaren Maengeln.
+ - Bewertungsmatrix pro Vendor (Ampel: rot / orange / gelb / gruen).
+ - Massnahmenplan mit Fristen.
+ - Eskalationsverfahren bei nicht behebbaren Maengeln.
 
 ## Mustertext / Template
 
@@ -106,23 +106,23 @@ Vertragsstand: [DATUM, VERSION]
 Verarbeitungsumfang: [BESCHREIBUNG]
 Drittlandbezug: [JA/NEIN, LAND]
 
-Pruefdimension                                   | Status | Befund / Massnahme
+Pruefdimension | Status | Befund / Massnahme
 -------------------------------------------------|--------|-----------------------------
-Rollenzuordnung (Art. 28 / 26 / sep.)             | [g/y/o/r] | [...]
-Pflichtangaben Art. 28 Abs. 3 Satz 2 DSGVO         | [g/y/o/r] | [...]
-lit. a Weisungsgebundenheit                       | [g/y/o/r] | [...]
-lit. b Vertraulichkeit                            | [g/y/o/r] | [...]
-lit. c TOM Art. 32 DSGVO                          | [g/y/o/r] | [...]
-lit. d Sub-AV Art. 28 Abs. 2 und 4                 | [g/y/o/r] | [...]
-lit. e Unterstuetzung Betroffenenrechte           | [g/y/o/r] | [...]
-lit. f Unterstuetzung Art. 32-36                   | [g/y/o/r] | [...]
-lit. g Loeschung / Rueckgabe                      | [g/y/o/r] | [...]
-lit. h Audit / Inspektion                         | [g/y/o/r] | [...]
-SCC Stand Beschluss (EU) 2021/914                  | [g/y/o/r] | [...]
-DPF (sofern US-Anbieter)                          | [g/y/o/r] | [...]
-TIA (sofern Drittland)                            | [g/y/o/r] | [...]
-TOM-Anlage aktuell                                | [g/y/o/r] | [...]
-Art. 30 DSGVO-Verzeichnis konsistent              | [g/y/o/r] | [...]
+Rollenzuordnung (Art. 28 / 26 / sep.) | [g/y/o/r] | [...]
+Pflichtangaben Art. 28 Abs. 3 Satz 2 DSGVO | [g/y/o/r] | [...]
+lit. a Weisungsgebundenheit | [g/y/o/r] | [...]
+lit. b Vertraulichkeit | [g/y/o/r] | [...]
+lit. c TOM Art. 32 DSGVO | [g/y/o/r] | [...]
+lit. d Sub-AV Art. 28 Abs. 2 und 4 | [g/y/o/r] | [...]
+lit. e Unterstuetzung Betroffenenrechte | [g/y/o/r] | [...]
+lit. f Unterstuetzung Art. 32-36 | [g/y/o/r] | [...]
+lit. g Loeschung / Rueckgabe | [g/y/o/r] | [...]
+lit. h Audit / Inspektion | [g/y/o/r] | [...]
+SCC Stand Beschluss (EU) 2021/914 | [g/y/o/r] | [...]
+DPF (sofern US-Anbieter) | [g/y/o/r] | [...]
+TIA (sofern Drittland) | [g/y/o/r] | [...]
+TOM-Anlage aktuell | [g/y/o/r] | [...]
+Art. 30 DSGVO-Verzeichnis konsistent | [g/y/o/r] | [...]
 
 Gesamtbewertung Vendor: [g/y/o/r]
 Empfohlene Massnahme: [Verlaengern / Nachverhandeln / Beenden]
@@ -197,36 +197,36 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
 
 1. **Zweck- und Mittelprueung.**
 
-   | Frage | Verantwortlicher allein | Gemeinsam Verantwortlich | Auftragsverarbeiter |
-   |---|---|---|---|
-   | Wer legt Zweck fest? | Akteur A allein | Akteur A und Akteur B gemeinsam | Akteur A allein, Akteur B fuehrt aus |
-   | Wer legt Mittel fest? | Akteur A | Beide oder Akteur B als wesentlicher Mitbestimmer | Akteur A bestimmt wesentliche Mittel, Akteur B technische Detailmittel |
-   | Eigener Nutzen aus Daten? | Nur Akteur A | Beide ziehen Nutzen | Nur Akteur A |
-   | Weisungsgebundenheit? | nicht relevant | nein, kollektive Entscheidung | ja, voll |
+ | Frage | Verantwortlicher allein | Gemeinsam Verantwortlich | Auftragsverarbeiter |
+ |---|---|---|---|
+ | Wer legt Zweck fest? | Akteur A allein | Akteur A und Akteur B gemeinsam | Akteur A allein, Akteur B fuehrt aus |
+ | Wer legt Mittel fest? | Akteur A | Beide oder Akteur B als wesentlicher Mitbestimmer | Akteur A bestimmt wesentliche Mittel, Akteur B technische Detailmittel |
+ | Eigener Nutzen aus Daten? | Nur Akteur A | Beide ziehen Nutzen | Nur Akteur A |
+ | Weisungsgebundenheit? | nicht relevant | nein, kollektive Entscheidung | ja, voll |
 
 2. **EuGH-Indizienreihe.**
-   - Wer entscheidet ueber Zweck der Verarbeitung? (Kerntest)
-   - Wer bestimmt wesentliche Mittel (z. B. Tool-Auswahl, Speicherort, Loeschfristen)?
-   - Wer profitiert wirtschaftlich von der Verarbeitung?
-   - Besteht eine wechselseitige Abhaengigkeit?
-   - Wird die Verarbeitung gemeinsam beworben oder organisiert?
+ - Wer entscheidet ueber Zweck der Verarbeitung? (Kerntest)
+ - Wer bestimmt wesentliche Mittel (z. B. Tool-Auswahl, Speicherort, Loeschfristen)?
+ - Wer profitiert wirtschaftlich von der Verarbeitung?
+ - Besteht eine wechselseitige Abhaengigkeit?
+ - Wird die Verarbeitung gemeinsam beworben oder organisiert?
 
 3. **Negativindizien gegen Auftragsverarbeitung.**
-   - Eigene Verarbeitung fuer eigene Werbung, eigenes KI-Training, eigene Statistik.
-   - Eigene Anonymisierung mit nachgelagerter eigener Nutzung.
-   - Eigene Rechtsdienstleistung (Inkasso, Steuerberatung, Rechtsanwaltsleistung) im Auftrag des Mandanten – meist Funktionsuebertragung statt Art. 28 (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
-   - Schaltung von Tracking-Pixeln auf eigener Webseite (regelmaessig Art. 26 mit dem Tracking-Anbieter).
+ - Eigene Verarbeitung fuer eigene Werbung, eigenes KI-Training, eigene Statistik.
+ - Eigene Anonymisierung mit nachgelagerter eigener Nutzung.
+ - Eigene Rechtsdienstleistung (Inkasso, Steuerberatung, Rechtsanwaltsleistung) im Auftrag des Mandanten – meist Funktionsuebertragung statt Art. 28 (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
+ - Schaltung von Tracking-Pixeln auf eigener Webseite (regelmaessig Art. 26 mit dem Tracking-Anbieter).
 
 4. **Negativindizien gegen Joint Control.**
-   - Reiner Datenfluss zwischen zwei getrennten Geschaeften ohne abgestimmte Verarbeitung.
-   - Jeder Akteur hat eigene Rechtsgrundlage und eigenen Zweck.
-   - Keine gemeinsame Bewerbung oder Organisation.
+ - Reiner Datenfluss zwischen zwei getrennten Geschaeften ohne abgestimmte Verarbeitung.
+ - Jeder Akteur hat eigene Rechtsgrundlage und eigenen Zweck.
+ - Keine gemeinsame Bewerbung oder Organisation.
 
 5. **Pruefraster (Stufenmodell).**
-   - Stufe 1: Liegt eine Verarbeitung im Sinne von Art. 4 Nr. 2 DSGVO vor? (immer ja)
-   - Stufe 2: Wer entscheidet ueber Zweck? Wenn nur einer: weiter Stufe 4. Wenn mehrere: weiter Stufe 3.
-   - Stufe 3: Liegt gemeinsame Entscheidung auch ueber wesentliche Mittel oder gemeinsamer Nutzen vor? Wenn ja: Art. 26 DSGVO. Wenn nein: getrennte Verantwortliche.
-   - Stufe 4: Ist der ausfuehrende Akteur weisungsgebunden und ohne eigenen Zweck? Wenn ja: Art. 28 DSGVO. Wenn nein: getrennte Verantwortliche oder Funktionsuebertragung.
+ - Stufe 1: Liegt eine Verarbeitung im Sinne von Art. 4 Nr. 2 DSGVO vor? (immer ja)
+ - Stufe 2: Wer entscheidet ueber Zweck? Wenn nur einer: weiter Stufe 4. Wenn mehrere: weiter Stufe 3.
+ - Stufe 3: Liegt gemeinsame Entscheidung auch ueber wesentliche Mittel oder gemeinsamer Nutzen vor? Wenn ja: Art. 26 DSGVO. Wenn nein: getrennte Verantwortliche.
+ - Stufe 4: Ist der ausfuehrende Akteur weisungsgebunden und ohne eigenen Zweck? Wenn ja: Art. 28 DSGVO. Wenn nein: getrennte Verantwortliche oder Funktionsuebertragung.
 
 ## Mustertext / Template
 
@@ -242,33 +242,33 @@ Datenkategorien: [Stamm-/Verkehrs-/Inhaltsdaten/Art. 9 DSGVO]
 Betroffene: [Kategorien]
 
 1. Zweck der Verarbeitung
-   Wer entscheidet? [A allein / A und B gemeinsam / nur fuer A]
-   Begruendung: [Sachverhaltsbasis]
+ Wer entscheidet? [A allein / A und B gemeinsam / nur fuer A]
+ Begruendung: [Sachverhaltsbasis]
 
 2. Wesentliche Mittel
-   Wer entscheidet? [A allein / A und B gemeinsam / A legt fest, B fuehrt aus]
-   Indizien: [Tool-Auswahl, Speicherort, Loeschfristen, Sicherheitsmassnahmen]
+ Wer entscheidet? [A allein / A und B gemeinsam / A legt fest, B fuehrt aus]
+ Indizien: [Tool-Auswahl, Speicherort, Loeschfristen, Sicherheitsmassnahmen]
 
 3. Wirtschaftlicher Nutzen
-   [Nur A / beide / A nutzt fuer Geschaeft, B nur fuer Entgelt]
+ [Nur A / beide / A nutzt fuer Geschaeft, B nur fuer Entgelt]
 
 4. Weisungsgebundenheit B?
-   [voll / teilweise / keine]
+ [voll / teilweise / keine]
 
 5. EuGH-Linie
-   Vergleichbar mit: [C-25/17 / C-498/16 / C-40/17 / keine direkte Vergleichbarkeit]
+ Vergleichbar mit: [C-25/17 / C-498/16 / C-40/17 / keine direkte Vergleichbarkeit]
 
 6. Einordnung
-   [ ] Akteur A allein verantwortlich (Art. 4 Nr. 7 DSGVO)
-   [ ] Akteur A und B gemeinsam verantwortlich (Art. 26 DSGVO)
-   [ ] Akteur A Verantwortlicher, Akteur B Auftragsverarbeiter (Art. 28 DSGVO)
-   [ ] Getrennte Verantwortliche
+ [ ] Akteur A allein verantwortlich (Art. 4 Nr. 7 DSGVO)
+ [ ] Akteur A und B gemeinsam verantwortlich (Art. 26 DSGVO)
+ [ ] Akteur A Verantwortlicher, Akteur B Auftragsverarbeiter (Art. 28 DSGVO)
+ [ ] Getrennte Verantwortliche
 
 7. Folgevertrag
-   [ ] Joint-Controller-Vereinbarung Art. 26
-   [ ] AVV Art. 28
-   [ ] C2C-Datenuebermittlungsklausel
-   [ ] kein gesonderter Vertrag erforderlich
+ [ ] Joint-Controller-Vereinbarung Art. 26
+ [ ] AVV Art. 28
+ [ ] C2C-Datenuebermittlungsklausel
+ [ ] kein gesonderter Vertrag erforderlich
 
 Datum, Unterschrift Datenschutzbeauftragter
 ```
@@ -335,36 +335,36 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Massnahme
 ## Ablauf / Checkliste
 
 1. **Risikobewertung.**
-   - Art der Daten (Stamm-, Verkehrs-, Inhaltsdaten, Art. 9 DSGVO).
-   - Umfang und Zweck.
-   - Eintrittswahrscheinlichkeit und Schwere des Risikos fuer Betroffene.
+ - Art der Daten (Stamm-, Verkehrs-, Inhaltsdaten, Art. 9 DSGVO).
+ - Umfang und Zweck.
+ - Eintrittswahrscheinlichkeit und Schwere des Risikos fuer Betroffene.
 
 2. **Mindestkategorien (Art. 32 Abs. 1 DSGVO).**
 
-   | Kategorie | Massnahmenbeispiele |
-   |---|---|
-   | Pseudonymisierung | Pseudonymisierung in Test- und Entwicklungsumgebungen, technische Trennung der Zuordnungstabelle |
-   | Verschluesselung | TLS 1.3 in Transit; AES-256 at rest; Schluesselverwaltung HSM |
-   | Vertraulichkeit | Zutrittskontrolle, Zugangskontrolle, Zugriffskontrolle, Trennungskontrolle |
-   | Integritaet | Weitergabekontrolle, Eingabekontrolle, Logging, Hashfunktionen |
-   | Verfuegbarkeit | Backup, RPO/RTO, Notfallplan, geo-redundante Speicherung |
-   | Belastbarkeit | DDoS-Schutz, Lastverteilung, Failover-Verfahren |
-   | Wiederherstellbarkeit | Backup-Tests, dokumentierte Wiederherstellungsverfahren |
-   | Regelmaessige Pruefung | jaehrliche TOM-Audits, Penetrationstests, Vulnerability Scans |
+ | Kategorie | Massnahmenbeispiele |
+ |---|---|
+ | Pseudonymisierung | Pseudonymisierung in Test- und Entwicklungsumgebungen, technische Trennung der Zuordnungstabelle |
+ | Verschluesselung | TLS 1.3 in Transit; AES-256 at rest; Schluesselverwaltung HSM |
+ | Vertraulichkeit | Zutrittskontrolle, Zugangskontrolle, Zugriffskontrolle, Trennungskontrolle |
+ | Integritaet | Weitergabekontrolle, Eingabekontrolle, Logging, Hashfunktionen |
+ | Verfuegbarkeit | Backup, RPO/RTO, Notfallplan, geo-redundante Speicherung |
+ | Belastbarkeit | DDoS-Schutz, Lastverteilung, Failover-Verfahren |
+ | Wiederherstellbarkeit | Backup-Tests, dokumentierte Wiederherstellungsverfahren |
+ | Regelmaessige Pruefung | jaehrliche TOM-Audits, Penetrationstests, Vulnerability Scans |
 
 3. **Organisatorische Massnahmen.**
-   - Datenschutzbeauftragter, Datenschutzschulungen (jaehrlich), Vertraulichkeitsverpflichtungen, IT-Sicherheits-Richtlinie, Incident-Response-Plan, Need-to-Know-Prinzip, Berechtigungsverwaltung, Joiner-Mover-Leaver-Prozess.
+ - Datenschutzbeauftragter, Datenschutzschulungen (jaehrlich), Vertraulichkeitsverpflichtungen, IT-Sicherheits-Richtlinie, Incident-Response-Plan, Need-to-Know-Prinzip, Berechtigungsverwaltung, Joiner-Mover-Leaver-Prozess.
 
 4. **Zertifikate und Standards.**
-   - ISO/IEC 27001:2022.
-   - BSI IT-Grundschutz / BSI C5:2020 (Cloud-Spezifikum).
-   - SOC 2 Type II Trust Services Criteria.
-   - TISAX (Automotive).
-   - PCI-DSS (Zahlungsverkehr).
+ - ISO/IEC 27001:2022.
+ - BSI IT-Grundschutz / BSI C5:2020 (Cloud-Spezifikum).
+ - SOC 2 Type II Trust Services Criteria.
+ - TISAX (Automotive).
+ - PCI-DSS (Zahlungsverkehr).
 
 5. **Sub-AV-Konsistenz.**
-   - Sub-AV muessen mindestens dasselbe TOM-Niveau einhalten.
-   - Vertragliche Durchleitung (Art. 28 Abs. 4 DSGVO).
+ - Sub-AV muessen mindestens dasselbe TOM-Niveau einhalten.
+ - Vertragliche Durchleitung (Art. 28 Abs. 4 DSGVO).
 
 ## Mustertext / Template
 
@@ -379,58 +379,58 @@ Auftragsverarbeiter: [NAME]
 Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 
 1. Pseudonymisierung (Art. 32 Abs. 1 lit. a DSGVO)
-   1.1 In Entwicklungs- und Testumgebungen werden personenbezogene Daten ausschliesslich in pseudonymisierter Form verarbeitet.
-   1.2 Die Zuordnungstabelle wird getrennt gespeichert; Zugriff nur fuer den Datenschutzbeauftragten.
+ 1.1 In Entwicklungs- und Testumgebungen werden personenbezogene Daten ausschliesslich in pseudonymisierter Form verarbeitet.
+ 1.2 Die Zuordnungstabelle wird getrennt gespeichert; Zugriff nur fuer den Datenschutzbeauftragten.
 
 2. Verschluesselung (Art. 32 Abs. 1 lit. a DSGVO)
-   2.1 In Transit: TLS 1.3 mit Forward Secrecy; SSL/TLS-Konfiguration gemaess BSI TR-02102.
-   2.2 At Rest: AES-256 (CBC oder GCM) fuer alle Datenbanken und Backups.
-   2.3 Schluesselverwaltung: HSM oder gleichwertige Loesung; jaehrliche Rotation.
+ 2.1 In Transit: TLS 1.3 mit Forward Secrecy; SSL/TLS-Konfiguration gemaess BSI TR-02102.
+ 2.2 At Rest: AES-256 (CBC oder GCM) fuer alle Datenbanken und Backups.
+ 2.3 Schluesselverwaltung: HSM oder gleichwertige Loesung; jaehrliche Rotation.
 
 3. Vertraulichkeit (Art. 32 Abs. 1 lit. b DSGVO)
-   3.1 Zutrittskontrolle: physische Sicherung der Rechenzentren (24/7-Bewachung, Mehrfaktor-Zutritt).
-   3.2 Zugangskontrolle: Multi-Faktor-Authentifizierung fuer alle priviligierten Konten.
-   3.3 Zugriffskontrolle: rollenbasiertes Berechtigungsmodell, Least Privilege, periodische Rezertifizierung.
-   3.4 Trennungskontrolle: mandantenfaehige Trennung; logische Trennung mit eigener Zugriffskontrolle.
+ 3.1 Zutrittskontrolle: physische Sicherung der Rechenzentren (24/7-Bewachung, Mehrfaktor-Zutritt).
+ 3.2 Zugangskontrolle: Multi-Faktor-Authentifizierung fuer alle priviligierten Konten.
+ 3.3 Zugriffskontrolle: rollenbasiertes Berechtigungsmodell, Least Privilege, periodische Rezertifizierung.
+ 3.4 Trennungskontrolle: mandantenfaehige Trennung; logische Trennung mit eigener Zugriffskontrolle.
 
 4. Integritaet (Art. 32 Abs. 1 lit. b DSGVO)
-   4.1 Weitergabekontrolle: dokumentierte Schnittstellen, Audit-Log fuer alle Datenexporte.
-   4.2 Eingabekontrolle: nachvollziehbare Protokollierung aller Schreibvorgaenge auf personenbezogene Daten.
-   4.3 Hash-Funktionen: SHA-256 oder besser fuer Integritaetspruefungen.
+ 4.1 Weitergabekontrolle: dokumentierte Schnittstellen, Audit-Log fuer alle Datenexporte.
+ 4.2 Eingabekontrolle: nachvollziehbare Protokollierung aller Schreibvorgaenge auf personenbezogene Daten.
+ 4.3 Hash-Funktionen: SHA-256 oder besser fuer Integritaetspruefungen.
 
 5. Verfuegbarkeit und Belastbarkeit (Art. 32 Abs. 1 lit. b DSGVO)
-   5.1 Backup: taegliche inkrementelle Backups, woechentliche Vollbackups, Aufbewahrung 30 Tage.
-   5.2 RPO (Recovery Point Objective): hoechstens 24 Stunden.
-   5.3 RTO (Recovery Time Objective): hoechstens 8 Stunden fuer kritische Verarbeitungen.
-   5.4 Geo-Redundanz: synchrone Replikation in mindestens zwei EU-Rechenzentren.
-   5.5 DDoS-Schutz: vorgeschalteter Filter; SLA mit Provider.
+ 5.1 Backup: taegliche inkrementelle Backups, woechentliche Vollbackups, Aufbewahrung 30 Tage.
+ 5.2 RPO (Recovery Point Objective): hoechstens 24 Stunden.
+ 5.3 RTO (Recovery Time Objective): hoechstens 8 Stunden fuer kritische Verarbeitungen.
+ 5.4 Geo-Redundanz: synchrone Replikation in mindestens zwei EU-Rechenzentren.
+ 5.5 DDoS-Schutz: vorgeschalteter Filter; SLA mit Provider.
 
 6. Wiederherstellbarkeit (Art. 32 Abs. 1 lit. c DSGVO)
-   6.1 Notfallhandbuch; Notfalluebungen mindestens jaehrlich.
-   6.2 Dokumentierte Wiederherstellungsverfahren.
-   6.3 Verifikation der Wiederherstellbarkeit durch tatsaechlichen Wiederherstellungstest mindestens halbjaehrlich.
+ 6.1 Notfallhandbuch; Notfalluebungen mindestens jaehrlich.
+ 6.2 Dokumentierte Wiederherstellungsverfahren.
+ 6.3 Verifikation der Wiederherstellbarkeit durch tatsaechlichen Wiederherstellungstest mindestens halbjaehrlich.
 
 7. Regelmaessige Pruefung (Art. 32 Abs. 1 lit. d DSGVO)
-   7.1 Penetrationstest durch unabhaengige Dritte mindestens jaehrlich.
-   7.2 Vulnerability Scan monatlich.
-   7.3 ISMS-internes Audit jaehrlich; externes Audit nach ISO 27001 jaehrlich.
-   7.4 TOM-Anlage wird mindestens jaehrlich auf Aktualitaet geprueft.
+ 7.1 Penetrationstest durch unabhaengige Dritte mindestens jaehrlich.
+ 7.2 Vulnerability Scan monatlich.
+ 7.3 ISMS-internes Audit jaehrlich; externes Audit nach ISO 27001 jaehrlich.
+ 7.4 TOM-Anlage wird mindestens jaehrlich auf Aktualitaet geprueft.
 
 8. Organisatorische Massnahmen
-   8.1 Datenschutzbeauftragter benannt; Kontaktangabe in Anlage 4.
-   8.2 Verschwiegenheitsverpflichtung aller Mitarbeitenden (Art. 28 Abs. 3 lit. b DSGVO).
-   8.3 Jaehrliche Datenschutzschulung; Schulungsnachweise vorhanden.
-   8.4 Joiner-Mover-Leaver-Prozess; sofortiger Entzug der Zugriffsrechte bei Austritt.
-   8.5 Incident-Response-Plan mit Meldewegen an den Verantwortlichen binnen 48 Stunden nach Kenntnis einer Datenpanne (Art. 33 DSGVO).
+ 8.1 Datenschutzbeauftragter benannt; Kontaktangabe in Anlage 4.
+ 8.2 Verschwiegenheitsverpflichtung aller Mitarbeitenden (Art. 28 Abs. 3 lit. b DSGVO).
+ 8.3 Jaehrliche Datenschutzschulung; Schulungsnachweise vorhanden.
+ 8.4 Joiner-Mover-Leaver-Prozess; sofortiger Entzug der Zugriffsrechte bei Austritt.
+ 8.5 Incident-Response-Plan mit Meldewegen an den Verantwortlichen binnen 48 Stunden nach Kenntnis einer Datenpanne (Art. 33 DSGVO).
 
 9. Zertifikate und Standards
-   9.1 ISO/IEC 27001:2022 – Zertifizierungsdatum [DATUM], Zertifizierer [STELLE].
-   9.2 BSI C5:2020 Typ 2 – Stand [DATUM].
-   9.3 SOC 2 Type II – Berichtszeitraum [ZEITRAUM].
+ 9.1 ISO/IEC 27001:2022 – Zertifizierungsdatum [DATUM], Zertifizierer [STELLE].
+ 9.2 BSI C5:2020 Typ 2 – Stand [DATUM].
+ 9.3 SOC 2 Type II – Berichtszeitraum [ZEITRAUM].
 
 10. Sub-Auftragsverarbeiter
-    10.1 Sub-AV unterliegen denselben oder gleichwertigen TOM gemaess Art. 28 Abs. 4 DSGVO.
-    10.2 Sub-AV-Audits werden auf Verlangen vorgelegt.
+ 10.1 Sub-AV unterliegen denselben oder gleichwertigen TOM gemaess Art. 28 Abs. 4 DSGVO.
+ 10.2 Sub-AV-Audits werden auf Verlangen vorgelegt.
 ```
 
 ## Typische Drafting-Fehler

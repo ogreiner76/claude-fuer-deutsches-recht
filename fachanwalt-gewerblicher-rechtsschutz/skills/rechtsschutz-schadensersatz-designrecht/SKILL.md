@@ -1,13 +1,13 @@
 ---
 name: rechtsschutz-schadensersatz-designrecht
-description: "Nutze dies, wenn Spezial Rechtsschutz Fristen Form Und Zustaendigkeit, Spezial Schadensersatz Abschlussprodukt Und Übergabe, Designrecht Praxis Grundlagen im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Rechtsschutz Fristen Form Und Zustaendigkeit, Spezial Schadensersatz Abschlussprodukt Und Übergabe, Designrecht Praxis Grundlagen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Rechtsschutz Fristen Form Und Zustaendigkeit, Spezial Schadensersatz Abschlussprodukt Und Übergabe, Designrecht Praxis Grundlagen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsschutz Fristen Form Und Zustaendigkeit, Schadensersatz Abschlussprodukt Und Uebergabe, Designrecht Praxis Grundlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Rechtsschutz Fristen Form Und Zustaendigkeit, Spezial Schadensersatz Abschlussprodukt Und Übergabe, Designrecht Praxis Grundlagen
+# Rechtsschutz Fristen Form Und Zustaendigkeit, Schadensersatz Abschlussprodukt Und Übergabe, Designrecht Praxis Grundlagen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsschutz Fristen Form Und Zustaendigkeit, Schadensersatz Abschlussprodukt Und Übergabe, Designrecht Praxis Grundlagen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Rechtsschutz Fristen Form Und Zustaendigkeit, Spezial Schadensersatz Abschlussprodukt Und Übergabe, Designrecht Praxis Grundlagen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsschutz Fristen Form Und Zustaendigkeit, Schadensersatz Abschlussprodukt Und Übergabe, Designrecht Praxis Grundlagen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -124,7 +124,7 @@ Dieser Skill liefert eine systematische Übersicht der Fristen, Formvorschriften
 | Zuständiges Gericht ermittelt | ☐ |
 | ERV-Pflicht beachtet | ☐ |
 
-## Kaltstart
+## Einstieg
 1. Welches Verfahren ist betroffen (Verletzungsklage / EV / Widerspruch / Löschung)?
 2. Welche Fristen laufen und sind diese bereits berechnet?
 3. Welches Gericht / welche Behörde ist zuständig?
@@ -219,13 +219,13 @@ Az.: [Az.]
 Die Parteien einigen sich wie folgt:
 
 1. Zahlung: Die Beklagte zahlt an die Klägerin EUR [Betrag] als
-   pauschalen Schadensersatz und Abgeltung aller Ansprüche aus der
-   Verletzung des [Schutzrechts] bis einschließlich [Datum].
+ pauschalen Schadensersatz und Abgeltung aller Ansprüche aus der
+ Verletzung des [Schutzrechts] bis einschließlich [Datum].
 
 2. Zahlungsziel: Zahlung bis zum [Datum] auf das Konto [IBAN].
 
 3. Kosten: Jede Partei trägt ihre außergerichtlichen Kosten selbst.
-   Gerichtskosten werden geteilt / trägt [Partei].
+ Gerichtskosten werden geteilt / trägt [Partei].
 
 4. Erledigungserklärung: Beide Parteien erklären die Hauptsache für erledigt.
 ```
@@ -266,7 +266,7 @@ III. Übergabe an Mandant
 □ Schlussrechnung gestellt
 ```
 
-## Kaltstart
+## Einstieg
 1. In welchem Stadium steht das Schadensersatzverfahren (Auskunft / Bezifferung / Vollstreckung)?
 2. Liegt eine vollständige Auskunft der Gegenseite vor?
 3. Welche Methode der Schadensberechnung soll verwendet werden?
@@ -367,7 +367,7 @@ Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`: Designrecht nach Desig
 | Parallelschutz Urheberrecht | § 2 Abs. 1 Nr. 4 UrhG prüfen (Werke der angewandten Kunst), Schutzschwelle seit BGH „Geburtstagszug" deutlich abgesenkt |
 | Wettbewerbsrechtlicher Schutz | § 4 Nr. 3 UWG (ergänzender Leistungsschutz): Nachahmungsschutz wenn wettbewerbliche Eigenart vorhanden |
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was für den nächsten Schritt unverzichtbar ist:
 
 1. **Rolle und Ziel:** Wer fragt – Angreifer oder Verteidiger? Welcher Output (eV-Antrag, Abmahnung, Nichtigkeitsantrag, Gutachten)?

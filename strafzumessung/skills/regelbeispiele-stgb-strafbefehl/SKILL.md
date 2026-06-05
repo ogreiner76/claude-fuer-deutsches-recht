@@ -1,13 +1,13 @@
 ---
 name: regelbeispiele-stgb-strafbefehl
-description: "Nutze dies, wenn Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Regelbeispiele Internationaler Bezug Und Schnittstellen, Stgb Schriftsatz Brief Und Memo Bausteine, Strafbefehl Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste
+# Regelbeispiele Internationaler Bezug Und Schnittstellen, Stgb Schriftsatz Brief Und Memo Bausteine, Strafbefehl Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Regelbeispiele Internationaler Bezug Und Schnittstellen, Stgb Schriftsatz Brief Und Memo Bausteine, Strafbefehl Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial Stgb Schriftsatz Brief Und Memo Bausteine, Spezial Strafbefehl Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Regelbeispiele Internationaler Bezug Und Schnittstellen, Stgb Schriftsatz Brief Und Memo Bausteine, Strafbefehl Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Regelbeispiele Internationaler Bezug Und Schnittstellen, Spezial 
 # Regelbeispiele: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Regelbeispiele: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Regelbeispiele: Internationaler Bezug und Schnittstellen / spezial regelbeispiele internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Regelbeispiele: Internationaler Bezug und Schnittstellen / regelbeispiele internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -79,7 +79,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Stgb: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Stgb: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Stgb: Schriftsatz-, Brief- und Memo-Bausteine / spezial stgb schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Stgb: Schriftsatz-, Brief- und Memo-Bausteine / stgb schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -115,63 +115,63 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafzumessungs-Schriftsatz / Memo Bausteine
 - **Pladoyer-Strafzumessung Struktur:**
-  ```
-  Sehr verehrtes Schoeffengericht,
+ ```
+ Sehr verehrtes Schoeffengericht,
 
-  zu den Strafzumessungsfragen ist auszufuehren:
+ zu den Strafzumessungsfragen ist auszufuehren:
 
-  I. STRAFRAHMEN
-  Der gesetzliche Strafrahmen des § ... StGB sieht Freiheitsstrafe von ... bis ... Jahren vor.
+ I. STRAFRAHMEN
+ Der gesetzliche Strafrahmen des § ... StGB sieht Freiheitsstrafe von ... bis ... Jahren vor.
 
-  II. STRAFRAHMENVERSCHIEBUNG
-  Die Voraussetzungen einer Strafrahmenverschiebung nach § 49 StGB sind erfuellt, weil ...
-  [§§ 21, 23 II, 27 II 2 StGB pruefen]
+ II. STRAFRAHMENVERSCHIEBUNG
+ Die Voraussetzungen einer Strafrahmenverschiebung nach § 49 StGB sind erfuellt, weil ...
+ [§§ 21, 23 II, 27 II 2 StGB pruefen]
 
-  III. STRAFZUMESSUNGSTATSACHEN § 46 II StGB
+ III. STRAFZUMESSUNGSTATSACHEN § 46 II StGB
 
-  Zugunsten des Angeklagten ist zu beruecksichtigen:
-  - Gestaendnis (Datum, Umfang, Wert): ...
-  - Schadenswiedergutmachung in Hoehe von ... EUR (Beleg ...).
-  - TOA-Vereinbarung § 46a StGB (Anlage ...).
-  - Persoenliche Verhaeltnisse (Familie, Beruf, sozial integriert).
-  - Lange Verfahrensdauer von ... Jahren (Strafmilderung Vollstreckungsloesung BGH).
-  - Tatfolgen begrenzt: ...
-  - Keine einschlaegigen Vorstrafen (BZRG-Auszug Anlage ...).
+ Zugunsten des Angeklagten ist zu beruecksichtigen:
+ - Gestaendnis (Datum, Umfang, Wert): ...
+ - Schadenswiedergutmachung in Hoehe von ... EUR (Beleg ...).
+ - TOA-Vereinbarung § 46a StGB (Anlage ...).
+ - Persoenliche Verhaeltnisse (Familie, Beruf, sozial integriert).
+ - Lange Verfahrensdauer von ... Jahren (Strafmilderung Vollstreckungsloesung BGH).
+ - Tatfolgen begrenzt: ...
+ - Keine einschlaegigen Vorstrafen (BZRG-Auszug Anlage ...).
 
-  Zu Lasten des Angeklagten:
-  - [konkret und begrenzt]
+ Zu Lasten des Angeklagten:
+ - [konkret und begrenzt]
 
-  IV. STRAFAUSSETZUNG § 56 StGB
-  Die Voraussetzungen einer Strafaussetzung zur Bewaehrung liegen vor:
-  - Sozialprognose positiv: stabile Arbeitsstelle, Familie, Therapie (Belege Anlage ...).
-  - Besondere Umstaende § 56 II StGB bei Strafen ueber 1 Jahr: ...
+ IV. STRAFAUSSETZUNG § 56 StGB
+ Die Voraussetzungen einer Strafaussetzung zur Bewaehrung liegen vor:
+ - Sozialprognose positiv: stabile Arbeitsstelle, Familie, Therapie (Belege Anlage ...).
+ - Besondere Umstaende § 56 II StGB bei Strafen ueber 1 Jahr: ...
 
-  V. ANTRAG
-  Hauptantrag: Freispruch.
-  Hilfsantrag: Verurteilung zu ... Monaten Freiheitsstrafe, auf Bewaehrung ausgesetzt,
-  bei einer Bewaehrungszeit von ... Jahren.
-  ```
+ V. ANTRAG
+ Hauptantrag: Freispruch.
+ Hilfsantrag: Verurteilung zu ... Monaten Freiheitsstrafe, auf Bewaehrung ausgesetzt,
+ bei einer Bewaehrungszeit von ... Jahren.
+ ```
 - **Memo Strafmilderung intern:**
-  ```
-  Strafzumessungs-Memo
-  Mandant: ... | Az: ...
+ ```
+ Strafzumessungs-Memo
+ Mandant: ... | Az: ...
 
-  Tat: ...
-  Strafrahmen: ... bis ...
+ Tat: ...
+ Strafrahmen: ... bis ...
 
-  Best-Case (Anwalt): ... (Tagessaetze / Monate Freiheitsstrafe)
-  Wahrscheinlichster Korridor (Verstaendigung): ... bis ...
-  Worst-Case: ...
+ Best-Case (Anwalt): ... (Tagessaetze / Monate Freiheitsstrafe)
+ Wahrscheinlichster Korridor (Verstaendigung): ... bis ...
+ Worst-Case: ...
 
-  Bewaehrungsfaehig? Ja/Nein - Begruendung ...
+ Bewaehrungsfaehig? Ja/Nein - Begruendung ...
 
-  Belege fuer Strafmilderung (Status):
-  [ ] BZRG-Auszug
-  [ ] Lohnabrechnung 3 Monate (Tagessatz-Hoehe)
-  [ ] Therapiebescheinigung
-  [ ] TOA-Vereinbarung
-  [ ] Schadenswiedergutmachungs-Beleg
-  ```
+ Belege fuer Strafmilderung (Status):
+ [ ] BZRG-Auszug
+ [ ] Lohnabrechnung 3 Monate (Tagessatz-Hoehe)
+ [ ] Therapiebescheinigung
+ [ ] TOA-Vereinbarung
+ [ ] Schadenswiedergutmachungs-Beleg
+ ```
 - **Praxis-Tipp:** Strafzumessungs-Antrag stets konkret beziffern (nicht "moderate Strafe"); ggf. Korridor formulieren bei Verstaendigung; Belege als Anlagen geordnet.
 
 ## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe
@@ -188,7 +188,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung / spezial strafbefehl dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung / strafbefehl dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

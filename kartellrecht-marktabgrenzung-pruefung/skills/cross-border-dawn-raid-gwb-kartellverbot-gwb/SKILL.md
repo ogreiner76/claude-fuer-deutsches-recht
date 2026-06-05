@@ -1,20 +1,20 @@
 ---
 name: cross-border-dawn-raid-gwb-kartellverbot-gwb
-description: "Nutze dies, wenn Cross Border Evidence Sharing, Dawn Raid Global War Room, 1 Gwb Kartellverbot Nationale Prüfung, 19 Gwb Behinderungs Ausbeutungsmissbrauch im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Cross Border Evidence Sharing, Dawn Raid Global War Room, 1 Gwb Kartellverbot Nationale Prüfung, 19 Gwb Behinderungs Ausbeutungsmissbrauch prüfen.; Erstelle eine Arbeitsfassung zu Cross Border Evidence Sharing, Dawn Raid Global War Room, 1 Gwb Kartellverbot Nationale Prüfung, 19 Gwb Behinderungs Ausbeutungsmissbrauch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Cross Border Evidence Sharing, Dawn Raid Global War Room, 1 Gwb Kartellverbot Nationale Prüfung, 19 Gwb Behinderungs Ausbeutungsmissbrauch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Cross Border Evidence Sharing, Dawn Raid Global War Room, 1 Gwb Kartellverbot Nationale Prüfung, 19 Gwb Behinderungs Ausbeutungsmissbrauch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Cross Border Evidence Sharing, Dawn Raid Global War Room, 1 Gwb Kartellverbot Nationale Prüfung, 19 Gwb Behinderungs Ausbeutungsmissbrauch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `cross-border-evidence-sharing` | Cross-Border Evidence Sharing: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Rechtshilfe, Waiver, Behördenkooperation, Datenschutz und Geschäftsgeheimnisse steuern, Evidenz, Fristen, Strategie und Quellen. |
-| `dawn-raid-global-war-room` | Global Dawn Raid War Room: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Durchsuchung, Legal Privilege, Datenkopien, Interviews, Siegelung und Krisenkommunikation steuern, Evidenz, Fristen, Strategie und Quellen. |
+| `cross-border-evidence-sharing` | Cross-Border Evidence Sharing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Rechtshilfe, Waiver, Behördenkooperation, Datenschutz und Geschäftsgeheimnisse steuern, Evidenz, Fristen, Strategie und Quellen. |
+| `dawn-raid-global-war-room` | Global Dawn Raid War Room: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Durchsuchung, Legal Privilege, Datenkopien, Interviews, Siegelung und Krisenkommunikation steuern, Evidenz, Fristen, Strategie und Quellen. |
 | `1-gwb-kartellverbot-nationale-pruefung` | § 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `19-gwb-behinderungs-ausbeutungsmissbrauch` | § 19 GWB Behinderungs Ausbeutungsmissbrauch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
@@ -27,7 +27,7 @@ Für **Cross Border Evidence Sharing, Dawn Raid Global War Room, 1 Gwb Kartellve
 
 ## 1. `cross-border-evidence-sharing`
 
-**Fokus:** Cross-Border Evidence Sharing: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Rechtshilfe, Waiver, Behördenkooperation, Datenschutz und Geschäftsgeheimnisse steuern, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Cross-Border Evidence Sharing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Rechtshilfe, Waiver, Behördenkooperation, Datenschutz und Geschäftsgeheimnisse steuern, Evidenz, Fristen, Strategie und Quellen.
 
 # Cross-Border Evidence Sharing
 
@@ -77,7 +77,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `dawn-raid-global-war-room`
 
-**Fokus:** Global Dawn Raid War Room: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Durchsuchung, Legal Privilege, Datenkopien, Interviews, Siegelung und Krisenkommunikation steuern, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Global Dawn Raid War Room: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Durchsuchung, Legal Privilege, Datenkopien, Interviews, Siegelung und Krisenkommunikation steuern, Evidenz, Fristen, Strategie und Quellen.
 
 # Global Dawn Raid War Room
 

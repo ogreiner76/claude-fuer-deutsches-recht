@@ -1,6 +1,6 @@
 ---
 name: rom-027-gesellschaft-societas
-description: "Römisches Recht: Gesellschaft Societas. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Gesellschaft Societas. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Gesellschaft Societas

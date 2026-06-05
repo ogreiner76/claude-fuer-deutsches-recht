@@ -1,13 +1,13 @@
 ---
 name: rechtsmonitoring-bank-regress
-description: "Nutze dies, wenn Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper, Sepa Direct Debit Return Disputes im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Bitte Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper, Sepa Direct Debit Return Disputes prüfen.; Erstelle eine Arbeitsfassung zu Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper, Sepa Direct Debit Return Disputes.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper, Sepa Direct Debit Return Disputes
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper, Sepa Direct Debit Return Disputes** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

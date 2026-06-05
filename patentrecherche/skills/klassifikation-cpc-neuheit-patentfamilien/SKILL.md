@@ -1,13 +1,13 @@
 ---
 name: klassifikation-cpc-neuheit-patentfamilien
-description: "Nutze dies, wenn Klassifikation Cpc Ipc, Neuheit Prüfen, Patentfamilien Analyse im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Bitte Klassifikation Cpc Ipc, Neuheit Prüfen, Patentfamilien Analyse prüfen.; Erstelle eine Arbeitsfassung zu Klassifikation Cpc Ipc, Neuheit Prüfen, Patentfamilien Analyse.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klassifikation Cpc Ipc, Neuheit Prüfen, Patentfamilien Analyse: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klassifikation Cpc Ipc, Neuheit Prüfen, Patentfamilien Analyse
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klassifikation Cpc Ipc, Neuheit Prüfen, Patentfamilien Analyse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -89,11 +89,11 @@ Vorschlag formulieren:
 
 ```
 Hauptklasse CPC: H02J 3/00 — Schaltungsanordnungen oder Systeme für die Versorgung oder Verteilung elektrischer Energie
-  Entsprechende IPC: H02J 3/00
+ Entsprechende IPC: H02J 3/00
 Nebenklassen CPC:
-  - H02J 3/14 — Anpassung der Leistung an den Verbrauch (Lastmanagement)
-  - G06Q 50/06 — Energie-, Wasser- oder Gasversorgung
-  - Y02E 60/00 — Technologies für die Reduktion von Treibhausgasen (CPC-only)
+ - H02J 3/14 — Anpassung der Leistung an den Verbrauch (Lastmanagement)
+ - G06Q 50/06 — Energie-, Wasser- oder Gasversorgung
+ - Y02E 60/00 — Technologies für die Reduktion von Treibhausgasen (CPC-only)
 ```
 
 Pro Klasse zwei Sätze Begründung, **warum** sie passt — verankert in den Schlüsselbegriffen.
@@ -109,10 +109,10 @@ Die endgültige Klassenliste übergibt das Skill in maschinenlesbarer Form an `a
 
 ```yaml
 klassen:
-  cpc_haupt: H02J 3/00
-  cpc_neben: [H02J 3/14, G06Q 50/06, Y02E 60/00]
-  ipc_haupt: H02J 3/00
-  ipc_neben: [H02J 3/14, G06Q 50/06]
+ cpc_haupt: H02J 3/00
+ cpc_neben: [H02J 3/14, G06Q 50/06, Y02E 60/00]
+ ipc_haupt: H02J 3/00
+ ipc_neben: [H02J 3/14, G06Q 50/06]
 ```
 
 ## Hinweise
@@ -157,9 +157,9 @@ Prüft, ob ein konkreter Anspruch (Mandantin oder Drittpatent) gegenüber konkre
 - **§ 3 PatG.** Eine Erfindung gilt als neu, wenn sie nicht zum Stand der Technik gehört.
 - **Art. 54 EPÜ.** Wortgleich für das EPA.
 - **EPA-Beschwerdekammern-Doktrin:**
-  - **Unmittelbare und eindeutige Offenbarung** — eine Entgegenhaltung nimmt einen Anspruch nur dann vorweg, wenn alle Merkmale **direkt und unmittelbar erkennbar** sind (G 2/88, T 305/87).
-  - **Implizite Offenbarung** — ein Merkmal ist implizit offenbart, wenn der Fachmann es zwingend mitliest (G 2/10 zu Disclaimern, T 6/80).
-  - **Auswahlerfindungen** — Auswahl eines Sub-Bereichs aus einem offenbarten Bereich kann neu sein, wenn (1) der Sub-Bereich eng ist, (2) abseits des präferierten Bereichs der Entgegenhaltung liegt, (3) eine eigene technische Lehre vermittelt (T 198/84, T 279/89).
+ - **Unmittelbare und eindeutige Offenbarung** — eine Entgegenhaltung nimmt einen Anspruch nur dann vorweg, wenn alle Merkmale **direkt und unmittelbar erkennbar** sind (G 2/88, T 305/87).
+ - **Implizite Offenbarung** — ein Merkmal ist implizit offenbart, wenn der Fachmann es zwingend mitliest (G 2/10 zu Disclaimern, T 6/80).
+ - **Auswahlerfindungen** — Auswahl eines Sub-Bereichs aus einem offenbarten Bereich kann neu sein, wenn (1) der Sub-Bereich eng ist, (2) abseits des präferierten Bereichs der Entgegenhaltung liegt, (3) eine eigene technische Lehre vermittelt (T 198/84, T 279/89).
 - **Kein Mosaik** — anders als bei der erfinderischen Tätigkeit darf bei der Neuheitsprüfung **nicht** kombiniert werden. Ein Anspruch wird gegen **genau eine** Entgegenhaltung geprüft. Mehrere Entgegenhaltungen lassen sich nur kombinieren, wenn die eine ausdrücklich auf die andere verweist und der Fachmann beide unmittelbar zusammenliest (T 153/85).
 
 ## Ablauf

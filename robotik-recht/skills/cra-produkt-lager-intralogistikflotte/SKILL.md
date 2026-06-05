@@ -1,13 +1,13 @@
 ---
 name: cra-produkt-lager-intralogistikflotte
-description: "Nutze dies, wenn Cra Produkt Mit Digitalen Elementen, Lager Und Intralogistikflotte im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Cra Produkt Mit Digitalen Elementen, Lager Und Intralogistikflotte prüfen.; Erstelle eine Arbeitsfassung zu Cra Produkt Mit Digitalen Elementen, Lager Und Intralogistikflotte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Cra Produkt Mit Digitalen Elementen, Lager Und Intralogistikflotte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Cra Produkt Mit Digitalen Elementen, Lager Und Intralogistikflotte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,7 +57,7 @@ Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pfl
 - **Vorfallmeldungen** an ENISA und CSIRT Art. 14 CRA: Frühwarnung 24 h, Zwischenbericht 72 h, Abschlussbericht 1 Monat.
 - **Geldbußen** Art. 64 CRA: bis 15 Mio. EUR oder 2,5 % weltweiter Jahresumsatz für wichtigste Pflichtverstöße.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Produkt-Klassifikation.** Standardprodukt vs. "wichtige" Klasse I/II vs. "kritische" Klasse (Anhang III/IV CRA).
 2. **Secure-by-Design.** Anhang I Teil I: Standard-Konfiguration ohne bekannte Schwachstellen, Schutz vor unautorisiertem Zugriff, Vertraulichkeit, Integrität, Verfügbarkeit; Update-Mechanismus; minimal-privilege.
@@ -138,7 +138,7 @@ Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pfl
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Spezialskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+Fachmodul im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
 
 ## Start
 

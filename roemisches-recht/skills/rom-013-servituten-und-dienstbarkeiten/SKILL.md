@@ -1,6 +1,6 @@
 ---
 name: rom-013-servituten-und-dienstbarkeiten
-description: "Römisches Recht: Servituten Und Dienstbarkeiten. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Servituten Und Dienstbarkeiten. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Servituten Und Dienstbarkeiten

@@ -1,13 +1,13 @@
 ---
 name: versand-check-weihnachtskarten
-description: "Nutze dies, wenn Versand Vor Check, Weihnachtskarten im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Versand Vor Check, Weihnachtskarten prüfen.; Erstelle eine Arbeitsfassung zu Versand Vor Check, Weihnachtskarten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Versand Vor Check, Weihnachtskarten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Versand Vor Check, Weihnachtskarten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Versand Vor Check, Weihnachtskarten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -125,12 +125,12 @@ versandweg: beA
 dokument: klage-2026-0042.pdf
 unterzeichnet-von: RA Mueller
 checks-bestanden:
-  - dokumentidentitaet: ok
-  - unterschrift: ok-qes
-  - adressat: ok-bea-safe-id-bestätigt
-  - anlagen: ok-vollständig
-  - versandweg: bea
-  - quittung: gesichert
+ - dokumentidentitaet: ok
+ - unterschrift: ok-qes
+ - adressat: ok-bea-safe-id-bestätigt
+ - anlagen: ok-vollständig
+ - versandweg: bea
+ - quittung: gesichert
 freigegeben-von: RA Mueller
 versand-zeit: 2026-05-20T11:23:45
 quittung-pdf: mandate/2026-0042/03_schriftsaetze/2026-05-20-versand-quittung.pdf
@@ -186,15 +186,15 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```yaml
 - name: Mueller, Hans
-  anrede: foermlich
-  empfaenger: Mueller GmbH (zu Hd. Hans Mueller)
-  anschrift: ...
-  e-mail: hmueller@mueller-gmbh.de
-  versandweg: digital  # digital / post / beides
-  beziehung: Mandant Aktenkreis 2026/0042
-  ton: warm-foermlich
-  letzte-karte: 2025-12-15
-  widerspruch: false
+ anrede: foermlich
+ empfaenger: Mueller GmbH (zu Hd. Hans Mueller)
+ anschrift: ...
+ e-mail: hmueller@mueller-gmbh.de
+ versandweg: digital # digital / post / beides
+ beziehung: Mandant Aktenkreis 2026/0042
+ ton: warm-foermlich
+ letzte-karte: 2025-12-15
+ widerspruch: false
 ```
 
 ## Texte

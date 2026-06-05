@@ -1,13 +1,13 @@
 ---
 name: legw-aa-eu-bmi-verwaltungsverfahren
-description: "Nutze dies, wenn Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Spezial Bundestag Fristen Form Und Zustaendigkeit im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Spezial Bundestag Fristen Form Und Zustaendigkeit prüfen.; Erstelle eine Arbeitsfassung zu Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Spezial Bundestag Fristen Form Und Zustaendigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Bundestag Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Spezial Bundestag Fristen Form Und Zustaendigkeit
+# Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Bundestag Fristen Form Und Zustaendigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 
 ## Arbeitsweg
 
-Für **Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Spezial Bundestag Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Legw Aa Eu Grundlagen Und Ratsverfahren, Legw Bmi Verwaltungsverfahren Und Bundesverwaltung, Legw Gesetzgebungsverfahren Bauleiter, Bundestag Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -84,16 +84,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           EU-Grundlagen und Ratsverfahren
-Ressort:            AA
-Kernnormen:         EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.
-Akteure/Aufsicht:   AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.
-EU/Voelkerrecht:    Rat der EU; Ratsformationen; AStV; Trilog mit Parlament und Kommission.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: EU-Grundlagen und Ratsverfahren
+Ressort: AA
+Kernnormen: EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.
+Akteure/Aufsicht: AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.
+EU/Voelkerrecht: Rat der EU; Ratsformationen; AStV; Trilog mit Parlament und Kommission.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-aa; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -167,16 +167,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Verwaltungsverfahren und Bundesverwaltung
-Ressort:            BMI
-Kernnormen:         VwVfG; VwGO; IFG; UIG (mit BMUKN); BVerwGG; BBG; BeamtStG.
-Akteure/Aufsicht:   Bundesbehoerden des allgemeinen Verwaltungsrechts; BVerwG.
-EU/Voelkerrecht:    EU-Verwaltungsverfahren; Single Digital Gateway.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmi; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Verwaltungsverfahren und Bundesverwaltung
+Ressort: BMI
+Kernnormen: VwVfG; VwGO; IFG; UIG (mit BMUKN); BVerwGG; BBG; BeamtStG.
+Akteure/Aufsicht: Bundesbehoerden des allgemeinen Verwaltungsrechts; BVerwG.
+EU/Voelkerrecht: EU-Verwaltungsverfahren; Single Digital Gateway.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmi; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -201,7 +201,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ## Aufgabe
 Bauleiter Gesetzgebungsverfahren Bund: Referentenentwurf, Kabinettsbeschluss, Bundesrat, Bundestag.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -259,10 +259,10 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 - **Adressat**: federführendes Ministerium.
 - **Form**: schriftlich (Brief, E-Mail) und durchnummeriert auf Paragraphen / Sätze.
 - **Inhalt**:
-  - Konkrete Formulierungsvorschläge (statt nur Kritik).
-  - Folgenabschätzung: Erfüllungsaufwand, KMU-Belastung, Umsetzungspraxis.
-  - Rechtsförmlichkeitsprüfung (Handbuch der Rechtsförmlichkeit HdR).
-  - Vergleich zu EU-Vorgaben (Goldplating-Vermeidung).
+ - Konkrete Formulierungsvorschläge (statt nur Kritik).
+ - Folgenabschätzung: Erfüllungsaufwand, KMU-Belastung, Umsetzungspraxis.
+ - Rechtsförmlichkeitsprüfung (Handbuch der Rechtsförmlichkeit HdR).
+ - Vergleich zu EU-Vorgaben (Goldplating-Vermeidung).
 - **Eskalationspunkte** identifizieren: Welche Punkte sind politisch verhandelbar, welche nicht?
 - **Verbündete** suchen: Kontakt zu anderen Verbänden / Mitgliedsunternehmen / Bundesländern.
 
@@ -312,7 +312,7 @@ Dieser Skill gehoert zum Plugin `legistik-werkstatt`. Er ergaenzt die uebrigen S
 # Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg / spezial bundestag fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg / bundestag fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

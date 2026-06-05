@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Stadtentwicklung und Foerderprogramme
-Ressort:            BMWSB
-Kernnormen:         StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.
-Akteure/Aufsicht:   BMWSB; KfW; Laender-Stadtentwicklung; Kommunen.
-EU/Voelkerrecht:    EFRE; URBACT; Leipzig-Charta.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwsb; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Stadtentwicklung und Foerderprogramme
+Ressort: BMWSB
+Kernnormen: StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.
+Akteure/Aufsicht: BMWSB; KfW; Laender-Stadtentwicklung; Kommunen.
+EU/Voelkerrecht: EFRE; URBACT; Leipzig-Charta.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

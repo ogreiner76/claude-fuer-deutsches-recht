@@ -24,8 +24,8 @@ Skill fuer die lex Rhodia de iactu als historisches Pendant der modernen Grossen
 ## Rechtsfolge
 
 - Geschaedigter Befrachter erhaelt anteiligen Ausgleich von allen geretteten Beteiligten:
-  - Reeder (fuer das Schiff).
-  - Andere Befrachter (fuer ihre geretteten Sachen).
+ - Reeder (fuer das Schiff).
+ - Andere Befrachter (fuer ihre geretteten Sachen).
 - Quote bemisst sich nach Wert der geretteten Sachen.
 
 ## Verfahrensgang

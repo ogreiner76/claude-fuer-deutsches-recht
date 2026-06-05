@@ -1,13 +1,13 @@
 ---
 name: itr-open-itr-source-mandat-triage
-description: "Nutze dies, wenn Itr Open Source Compliance Spezial, Itr Source Code Escrow Spezial, Mandat Triage It Recht, Schriftsatzkern Substantiierung, Spezial Bdsg Schriftsatz Brief Und Memo Bausteine im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Bitte Itr Open Source Compliance Spezial, Itr Source Code Escrow Spezial, Mandat Triage It Recht, Schriftsatzkern Substantiierung, Spezial Bdsg Schriftsatz Brief Und Memo Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Itr Open Source Compliance Spezial, Itr Source Code Escrow Spezial, Mandat Triage It Recht, Schriftsatzkern Substantiierung, Spezial Bdsg Schriftsatz Brief Und Memo Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Itr Open Source Compliance Spezial, Itr Source Code Escrow Spezial, Mandat Triage It Recht, Schriftsatzkern Substantiierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Itr Open Source Compliance Spezial, Itr Source Code Escrow Spezial, Mandat Triage It Recht, Schriftsatzkern Substantiierung, Spezial Bdsg Schriftsatz Brief Und Memo Bausteine
+# Itr Open Source Compliance Spezial, Itr Source Code Escrow Spezial, Mandat Triage It Recht, Schriftsatzkern Substantiierung, Bdsg Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Itr Open Source Compliance Spezial, Itr Source Code Escrow Spezial, Mandat Triage It Recht, Schriftsatzkern Substantiierung, Bdsg Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,13 +15,13 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `itr-open-source-compliance-spezial` | Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM. Pruefraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice. |
 | `itr-source-code-escrow-spezial` | Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent. Release-Trigger (Insolvenz, Vertragsbruch, Einstellung Support), Code-Aktualisierung, Pruefung Vollstaendigkeit. Mustertexte. |
-| `mandat-triage-it-recht` | Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen Workflow zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Prüfraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h. |
+| `mandat-triage-it-recht` | Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Prüfraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h. |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Unterlassungsklage Datenschutz, Klage IT-Vertrag, DSGVO-Bußgeldwiderspruch: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
 | `spezial-bdsg-schriftsatz-brief-und-memo-bausteine` | Bdsg: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-Für **Itr Open Source Compliance Spezial, Itr Source Code Escrow Spezial, Mandat Triage It Recht, Schriftsatzkern Substantiierung, Spezial Bdsg Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Itr Open Source Compliance Spezial, Itr Source Code Escrow Spezial, Mandat Triage It Recht, Schriftsatzkern Substantiierung, Bdsg Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-it-recht`. Er ergaenzt die uebrigen 
 
 ## 3. `mandat-triage-it-recht`
 
-**Fokus:** Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen Workflow zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Prüfraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h.
+**Fokus:** Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Prüfraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h.
 
 # Mandat-Triage IT-Recht
 
@@ -322,14 +322,14 @@ TRIAGE-PROTOKOLL IT-RECHT
 1. Mandantenrolle: [Auftraggeber / Auftragnehmer / Plattform / Nutzer]
 2. Sachgebiet: [Softwareerstellung / SaaS / DSGVO / NIS-2 / AI Act / DSA / ...]
 3. Eilbeduerftigkeit:
-   - Cyber-Vorfall: [Ja / Nein] — Entdeckungszeitpunkt: [DATUM UHRZEIT]
-   - DSGVO-Meldung 72h laeuft ab: [DATUM UHRZEIT] (Art. 33 DSGVO)
-   - NIS-2-Fruehwarnung 24h laeuft ab: [DATUM UHRZEIT] (§ 32 BSIG n. F.)
+ - Cyber-Vorfall: [Ja / Nein] — Entdeckungszeitpunkt: [DATUM UHRZEIT]
+ - DSGVO-Meldung 72h laeuft ab: [DATUM UHRZEIT] (Art. 33 DSGVO)
+ - NIS-2-Fruehwarnung 24h laeuft ab: [DATUM UHRZEIT] (§ 32 BSIG n. F.)
 4. Konflikt-Check: [Durchgefuehrt — kein Konflikt / KONFLIKT: BESCHREIBUNG]
 5. Streitwert-Schaetzung: EUR [BETRAG]
 6. Naechste Schritte:
-   - [MASSNAHME 1] bis [DATUM]
-   - [MASSNAHME 2] bis [DATUM]
+ - [MASSNAHME 1] bis [DATUM]
+ - [MASSNAHME 2] bis [DATUM]
 7. Routing: [FOLGE-SKILL]
 
 Bearbeiter: [NAME RA/RAin]
@@ -623,7 +623,7 @@ Rechtsanwaeltin / Rechtsanwalt
 # Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Bdsg: Schriftsatz-, Brief- und Memo-Bausteine / spezial bdsg schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bdsg: Schriftsatz-, Brief- und Memo-Bausteine / bdsg schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -647,19 +647,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## BDSG-Schriftsatzbausteine
 - **Anfechtungsschreiben Beschäftigtendaten-Verarbeitung (§ 26 BDSG):**
-  1. Konkrete Verarbeitung benennen (Tool, Datenarten, Zweck, Dauer).
-  2. § 26 BDSG-Subsumtion: Erforderlichkeit für welchen Zweck?
-  3. Verhältnismäßigkeit (geeignet, erforderlich, angemessen)?
-  4. Mitbestimmung Betriebsrat § 87 Abs. 1 Nr. 6 BetrVG?
-  5. Unterlassungsforderung, Frist, Klagedrohung.
+ 1. Konkrete Verarbeitung benennen (Tool, Datenarten, Zweck, Dauer).
+ 2. § 26 BDSG-Subsumtion: Erforderlichkeit für welchen Zweck?
+ 3. Verhältnismäßigkeit (geeignet, erforderlich, angemessen)?
+ 4. Mitbestimmung Betriebsrat § 87 Abs. 1 Nr. 6 BetrVG?
+ 5. Unterlassungsforderung, Frist, Klagedrohung.
 - **Anfechtungsschreiben Aufdeckung Straftaten (§ 26 Abs. 1 S. 2 BDSG):**
-  1. Dokumentierter Verdacht? Konkrete Anhaltspunkte?
-  2. Verhältnismäßigkeit?
-  3. BAG 27.07.2017, 2 AZR 681/16 (Keylogger): Verwertungsverbot bei verdeckter Überwachung ohne dokumentierten Verdacht.
+ 1. Dokumentierter Verdacht? Konkrete Anhaltspunkte?
+ 2. Verhältnismäßigkeit?
+ 3. BAG 27.07.2017, 2 AZR 681/16 (Keylogger): Verwertungsverbot bei verdeckter Überwachung ohne dokumentierten Verdacht.
 - **DSB-Bestellungsanfechtung (§ 38 BDSG):**
-  1. Anzahl Personen mit ständiger pbD-Verarbeitung > 20?
-  2. Pflicht oder freiwillige Bestellung?
-  3. Bei Verstoß: § 43 BDSG Bußgeld bis 50.000 EUR.
+ 1. Anzahl Personen mit ständiger pbD-Verarbeitung > 20?
+ 2. Pflicht oder freiwillige Bestellung?
+ 3. Bei Verstoß: § 43 BDSG Bußgeld bis 50.000 EUR.
 
 ## Praxis-Tipp
 Bei BDSG-Verstoß-Vorwurf besonders sorgfältig dokumentieren: Welche Daten, welcher Zweck, welche Rechtsgrundlage (§§ 22, 24, 26 BDSG, Art. 6 DSGVO). Pauschalsubsumtion "ist DSGVO-konform" trägt nicht — § 26 BDSG ist eigenständig prüfungsbedürftig, auch wenn DSGVO § 26 als Öffnungsklausel benennt.

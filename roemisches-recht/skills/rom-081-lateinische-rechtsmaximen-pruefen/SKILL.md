@@ -1,6 +1,6 @@
 ---
 name: rom-081-lateinische-rechtsmaximen-pruefen
-description: "Römisches Recht: Lateinische Rechtsmaximen Pruefen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Lateinische Rechtsmaximen Pruefen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Lateinische Rechtsmaximen Pruefen

@@ -1,13 +1,13 @@
 ---
 name: umv-strassenbau-eilantrag-normenkontrolle
-description: "Nutze dies, wenn Umv 036 Strassenbau Eilantrag Schreiben, Umv 037 Strassenbau Normenkontrolle Skizzieren, Umv 038 Strassenbau Nebenbestimmung Fordern, Umv 039 Strassenbau Monitoring Planen im Plugin Umweltschutzverband Verbandsklage konkret bearbeitet werden soll. Auslöser: Bitte Umv 036 Strassenbau Eilantrag Schreiben, Umv 037 Strassenbau Normenkontrolle Skizzieren, Umv 038 Strassenbau Nebenbestimmung Fordern, Umv 039 Strassenbau Monitoring Planen prüfen.; Erstelle eine Arbeitsfassung zu Umv 036 Strassenbau Eilantrag Schreiben, Umv 037 Strassenbau Normenkontrolle Skizzieren, Umv 038 Strassenbau Nebenbestimmung Fordern, Umv 039 Strassenbau Monitoring Planen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umv 036 Strassenbau Eilantrag Schreiben, Umv 037 Strassenbau Normenkontrolle Skizzieren, Umv 038 Strassenbau Nebenbestimmung Fordern, Umv 039 Strassenbau Monitoring Planen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umv 036 Strassenbau Eilantrag Schreiben, Umv 037 Strassenbau Normenkontrolle Skizzieren, Umv 038 Strassenbau Nebenbestimmung Fordern, Umv 039 Strassenbau Monitoring Planen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umv 036 Strassenbau Eilantrag Schreiben, Umv 037 Strassenbau Normenkontrolle Skizzieren, Umv 038 Strassenbau Nebenbestimmung Fordern, Umv 039 Strassenbau Monitoring Planen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

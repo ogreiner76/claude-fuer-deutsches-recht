@@ -32,10 +32,10 @@ Pruefen: passt die Methode zum Vorhaben? Komplexitaet hoch genug fuer Rulemap? A
 ## Output
 
 ```
-Skill:              legw-rmap-grundlagen
-Thema:              Rulemapping - Grundlagen und Begriffe
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-grundlagen
+Thema: Rulemapping - Grundlagen und Begriffe
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

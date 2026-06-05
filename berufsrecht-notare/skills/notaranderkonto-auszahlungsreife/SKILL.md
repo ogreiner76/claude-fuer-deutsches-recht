@@ -1,13 +1,13 @@
 ---
 name: notaranderkonto-auszahlungsreife
-description: "Nutze dies, wenn Notare Notaranderkonto Auszahlungsreife Kammerantwort Und Verfa, Notare Notaranderkonto Auszahlungsreife Organisationspflicht Un, Notare Notarielle Verwahrung Von Daten Kammerantwort Und Verfah, Notare Notarielle Verwahrung Von Daten Organisationspflicht Und, Notare Notarkammer Anfrage Organisationspflicht Und Praevention und 4 weitere Themen im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Notaranderkonto Auszahlungsreife Kammerantwort Und Verfa, Notare Notaranderkonto Auszahlungsreife Organisationspflicht Un, Notare Notarielle Verwahrung Von Daten Kammerantwort Und Verfah, Notare Notarielle Verwahrung Von Daten Organisationspflicht Und, Notare Notarkammer Anfrage Organisationspflicht Und Praevention und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Notare Notaranderkonto Auszahlungsreife Kammerantwort Und Verfa, Notare Notaranderkonto Auszahlungsreife Organisationspflicht Un, Notare Notarielle Verwahrung Von Daten Kam..."
+description: "Nutze dies bei Notare Notaranderkonto Auszahlungsreife Kammerantwort Und Verfa, Notare Notaranderkonto Auszahlungsreife Organisationspflicht Un, Notare Notarielle Verwahrung Von Daten Kammerantwort Und Verfah, Notare Notarielle Verwahrung Von Daten Organisationspflicht Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Notaranderkonto Auszahlungsreife Kammerantwort Und Verfa, Notare Notaranderkonto Auszahlungsreife Organisationspflicht Un, Notare Notarielle Verwahrung Von Daten Kammerantwort Und Verfah, Notare Notarielle Verwahrung Von Daten Organisationspflicht Und, Notare Notarkammer Anfrage Organisationspflicht Und Praevention und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Notaranderkonto Auszahlungsreife Kammerantwort Und Verfa, Notare Notaranderkonto Auszahlungsreife Organisationspflicht Un, Notare Notarielle Verwahrung Von Daten Kammerantwort Und Verfah, Notare Notarielle Verwahrung Von Daten Organisationspflicht Und, Notare Notarkammer Anfrage Organisationspflicht Und Praevention und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

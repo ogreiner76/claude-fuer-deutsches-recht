@@ -1,6 +1,6 @@
 ---
 name: nkr-nachhaltigkeit-klimacheck-vereinbarkeit
-description: "Spezialskill Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten."
+description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten."
 ---
 
 # NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit

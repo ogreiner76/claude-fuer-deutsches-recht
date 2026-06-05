@@ -8,7 +8,7 @@ description: "Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsant
 ## Aufgabe
 Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsantrag, Schiedsgericht und Verhältnismäßigkeit.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

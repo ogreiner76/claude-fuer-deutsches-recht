@@ -1,32 +1,32 @@
 ---
 name: fachanwalt-arbeitsrecht-freistellungsklausel
-description: "Nutze dies, wenn Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Spezial Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Spezial Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Spezial Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Spezial Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular
+# Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` | Workflow-Skill zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` | Arbeitsmodul zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `spezial-freistellungsklausel-sonderfall-und-edge-case` | Freistellungsklausel im Arbeitsvertrag: BAG 5 AZR 108/25 (pauschale Klausel unwirksam), anlassbezogene Formulierung, Vergütungsfortzahlung, Urlaubsverfall während Freistellung, Verrechnung mit Urlaubsabgeltung, Edge Cases. |
 | `ar-abfindungs-rechner-modular` | Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG. Beispielrechnung und Mustertext für Aufhebungsvertrag und Vergleich. |
 
 ## Arbeitsweg
 
-Für **Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Spezial Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`
 
-**Fokus:** Workflow-Skill zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -157,14 +157,14 @@ in Annahmeverzug nach § 615 BGB.
 Es wird beantragt:
 
 1. Die Beklagte wird verurteilt, die Klägerin zu
-   den bisherigen Arbeitsbedingungen als [Tätigkeit]
-   tatsächlich zu beschäftigen.
+ den bisherigen Arbeitsbedingungen als [Tätigkeit]
+ tatsächlich zu beschäftigen.
 
 2. Die Beklagte wird verurteilt, an die Klägerin
-   EUR [Betrag] brutto (Vergütung für den Zeitraum
-   [Datum] bis [Datum]) nebst Zinsen in Höhe von
-   5 Prozentpunkten über dem Basiszinssatz ab
-   Fälligkeit zu zahlen.
+ EUR [Betrag] brutto (Vergütung für den Zeitraum
+ [Datum] bis [Datum]) nebst Zinsen in Höhe von
+ 5 Prozentpunkten über dem Basiszinssatz ab
+ Fälligkeit zu zahlen.
 
 Begründung:
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -186,7 +186,7 @@ berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 
 ## Prüfschema Freistellung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
@@ -252,7 +252,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Zweck
 Vertiefte Analyse der Freistellungsklausel im Arbeitsvertrag — nach dem Paradigmenwechsel durch BAG 5 AZR 108/25. Der Skill behandelt die Unwirksamkeit pauschaler Klauseln, korrekte Formulierung und die wichtigsten Edge Cases.
 
-## Kaltstart
+## Einstieg
 Wenn ein Sachverhalt mit Freistellungsklausel vorliegt, zuerst klären:
 
 1. **Vorlage der Klausel:** Liegt der genaue Klauseltext vor?
@@ -360,7 +360,7 @@ Bei Aufhebungsverträgen: explizite Freistellungsklausel vereinbaren; Urlaubsabr
 ## Zweck
 Strukturierte Berechnung und Verhandlungsvorbereitung bei Abfindungen — vom Erstgespräch bis zur Vergleichsformel. Der Skill liefert sowohl eine Rechenlogik als auch eine Strategie-Matrix für den Güte- und Kammertermin vor dem Arbeitsgericht.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorliegen, arbeite zuerst damit. Nur die Rückfragen stellen, die für die erste Weiche nötig sind:
 
 1. **Rolle und Mandat:** Vertritt der Anwalt Arbeitnehmer oder Arbeitgeber? Was ist das Ziel — Maximierung, schnelle Einigung, Sperrzeitvermeidung?
@@ -416,13 +416,13 @@ Die Bundesagentur für Arbeit (BA) prüft eigenständig: Der Arbeitnehmer muss n
 
 ### Rechenbeispiel (vereinfacht)
 ```
-Reguläres Jahreseinkommen:         60.000 €
-Abfindung:                         30.000 €
+Reguläres Jahreseinkommen: 60.000 €
+Abfindung: 30.000 €
 Steuerpflichtiges Einkommen o. §34: 90.000 €
 Mit Fünftelregelung:
-  Fiktives EK = 60.000 + (30.000 / 5) = 66.000 €
-  Steuer auf 66.000 = X
-  Mehrsteuern auf 66.000 vs. 60.000 = Y → Y × 5 = tatsächliche Steuer auf Abfindung
+ Fiktives EK = 60.000 + (30.000 / 5) = 66.000 €
+ Steuer auf 66.000 = X
+ Mehrsteuern auf 66.000 vs. 60.000 = Y → Y × 5 = tatsächliche Steuer auf Abfindung
 ```
 
 **Hinweis:** Individuelle Steuerberatung bleibt dem Steuerberater vorbehalten; die anwaltliche Aufgabe ist die Aufklärung über das Instrument und die korrekte Vertragsgestaltung (Abfindung als Entschädigung klar benennen).

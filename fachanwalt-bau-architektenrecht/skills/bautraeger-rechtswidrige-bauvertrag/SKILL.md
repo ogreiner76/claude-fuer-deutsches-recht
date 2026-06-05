@@ -1,13 +1,13 @@
 ---
 name: bautraeger-rechtswidrige-bauvertrag
-description: "Nutze dies, wenn Bautraeger Rechtswidrige Anpassungsklauseln, Spezial Bauvertrag Schriftsatz Brief Und Memo Bausteine, Spezial Vertragstypen Red Team Und Qualitaetskontrolle, Spezial Werkvertrag Dokumentenmatrix Und Lueckenliste im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Bautraeger Rechtswidrige Anpassungsklauseln, Bauvertrag Schriftsatz Brief Und Memo Bausteine, Vertragstypen Red Team Und Qualitaetskontrolle, Werkvertrag Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Bautraeger Rechtswidrige Anpassungsklauseln, Spezial Bauvertrag Schriftsatz Brief Und Memo Bausteine, Spezial Vertragstypen Red Team Und Qualitaetskontrolle, Spezial Werkvertrag Dokumentenmatrix Und Lueckenliste
+# Bautraeger Rechtswidrige Anpassungsklauseln, Bauvertrag Schriftsatz Brief Und Memo Bausteine, Vertragstypen Red Team Und Qualitaetskontrolle, Werkvertrag Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bautraeger Rechtswidrige Anpassungsklauseln, Bauvertrag Schriftsatz Brief Und Memo Bausteine, Vertragstypen Red Team Und Qualitaetskontrolle, Werkvertrag Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Bautraeger Rechtswidrige Anpassungsklauseln, Spezial Bauvertrag Schriftsatz Brief Und Memo Bausteine, Spezial Vertragstypen Red Team Und Qualitaetskontrolle, Spezial Werkvertrag Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bautraeger Rechtswidrige Anpassungsklauseln, Bauvertrag Schriftsatz Brief Und Memo Bausteine, Vertragstypen Red Team Und Qualitaetskontrolle, Werkvertrag Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -72,7 +72,7 @@ Für **Bautraeger Rechtswidrige Anpassungsklauseln, Spezial Bauvertrag Schriftsa
 # Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine / spezial bauvertrag schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine / bauvertrag schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vertragstypen: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Vertragstypen: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Vertragstypen: Red-Team und Qualitätskontrolle / spezial vertragstypen red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vertragstypen: Red-Team und Qualitätskontrolle / vertragstypen red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -154,7 +154,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung / spezial werkvertrag dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung / werkvertrag dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

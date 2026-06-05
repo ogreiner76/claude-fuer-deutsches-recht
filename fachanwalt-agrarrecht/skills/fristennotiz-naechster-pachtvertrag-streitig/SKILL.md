@@ -1,13 +1,13 @@
 ---
 name: fristennotiz-naechster-pachtvertrag-streitig
-description: "Nutze dies, wenn Spezial Übergabe Fristennotiz Und Naechster Schritt, Fachanwalt Agrarrecht Pachtvertrag Streitig, Spezial Pachtvertrag Abschlussprodukt Und Übergabe im Plugin Fachanwalt Agrarrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Übergabe Fristennotiz Und Naechster Schritt, Fachanwalt Agrarrecht Pachtvertrag Streitig, Spezial Pachtvertrag Abschlussprodukt Und Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Spezial Übergabe Fristennotiz Und Naechster Schritt, Fachanwalt Agrarrecht Pachtvertrag Streitig, Spezial Pachtvertrag Abschlussprodukt Und Übergabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Uebergabe Fristennotiz Und Naechster Schritt, Fachanwalt Agrarrecht Pachtvertrag Streitig, Pachtvertrag Abschlussprodukt Und Uebergabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Übergabe Fristennotiz Und Naechster Schritt, Fachanwalt Agrarrecht Pachtvertrag Streitig, Spezial Pachtvertrag Abschlussprodukt Und Übergabe
+# Übergabe Fristennotiz Und Naechster Schritt, Fachanwalt Agrarrecht Pachtvertrag Streitig, Pachtvertrag Abschlussprodukt Und Übergabe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Übergabe Fristennotiz Und Naechster Schritt, Fachanwalt Agrarrecht Pachtvertrag Streitig, Pachtvertrag Abschlussprodukt Und Übergabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Übergabe Fristennotiz Und Naechster Schritt, Fachanwalt Agrarrecht Pachtvertrag Streitig, Spezial Pachtvertrag Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Übergabe Fristennotiz Und Naechster Schritt, Fachanwalt Agrarrecht Pachtvertrag Streitig, Pachtvertrag Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Übergabe Fristennotiz Und Naechster Schritt, Fachanwalt Agrarrec
 # Uebergabe: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Uebergabe: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Uebergabe: Fristennotiz und nächster Schritt / spezial uebergabe fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Uebergabe: Fristennotiz und nächster Schritt / uebergabe fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -135,7 +135,7 @@ Wenn Verpaechter bereits über 2 ha verpachtet und Paechter mit deutlich juenger
 - Hoeferecht / BGB-Erbrecht Konstellation prüfen
 - BFH-Linie zu Hofnachfolge-Pacht
 
-## 7) Workflow Streit-Fall
+## 7) Streit-Fall
 
 ### Schritt 1 — Bestandsaufnahme
 
@@ -209,7 +209,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 # Pachtvertrag: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Pachtvertrag: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Pachtvertrag: Abschlussprodukt und Übergabe / spezial pachtvertrag abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pachtvertrag: Abschlussprodukt und Übergabe / pachtvertrag abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

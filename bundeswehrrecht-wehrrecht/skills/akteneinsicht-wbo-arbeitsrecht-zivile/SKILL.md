@@ -1,13 +1,13 @@
 ---
 name: akteneinsicht-wbo-arbeitsrecht-zivile
-description: "Nutze dies, wenn Akteneinsicht Wbo Wdo, Arbeitsrecht Zivile Bundeswehrbeschaeftigte, Ausbildung Studium Bundeswehr Rueckforderung Ausbildungskosten im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Akteneinsicht Wbo Wdo, Arbeitsrecht Zivile Bundeswehrbeschaeftigte, Ausbildung Studium Bundeswehr Rueckforderung Ausbildungskosten prüfen.; Erstelle eine Arbeitsfassung zu Akteneinsicht Wbo Wdo, Arbeitsrecht Zivile Bundeswehrbeschaeftigte, Ausbildung Studium Bundeswehr Rueckforderung Ausbildungskosten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Akteneinsicht Wbo Wdo, Arbeitsrecht Zivile Bundeswehrbeschaeftigte, Ausbildung Studium Bundeswehr Rueckforderung Ausbildungskosten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Akteneinsicht Wbo Wdo, Arbeitsrecht Zivile Bundeswehrbeschaeftigte, Ausbildung Studium Bundeswehr Rueckforderung Ausbildungskosten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Akteneinsicht Wbo Wdo, Arbeitsrecht Zivile Bundeswehrbeschaeftigte, Ausbildung Studium Bundeswehr Rueckforderung Ausbildungskosten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -123,7 +123,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -243,7 +243,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -362,7 +362,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

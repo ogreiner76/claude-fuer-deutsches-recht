@@ -1,6 +1,6 @@
 ---
 name: rom-018-obligationes-system
-description: "Römisches Recht: Obligationes System. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Obligationes System. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Obligationes System

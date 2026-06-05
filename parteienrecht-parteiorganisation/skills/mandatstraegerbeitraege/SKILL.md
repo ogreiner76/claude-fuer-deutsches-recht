@@ -8,7 +8,7 @@ description: "Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spen
 ## Aufgabe
 Prüft satzungsrechtliche Mandatsträgerbeiträge, Abgrenzung Spende/Beitrag und Abgeordnetenrecht.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

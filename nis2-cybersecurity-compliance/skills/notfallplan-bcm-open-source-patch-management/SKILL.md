@@ -1,13 +1,13 @@
 ---
 name: notfallplan-bcm-open-source-patch-management
-description: "Nutze dies, wenn Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec im Plugin Nis2 Cybersecurity Compliance konkret bearbeitet werden soll. Auslöser: Bitte Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec prüfen.; Erstelle eine Arbeitsfassung zu Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

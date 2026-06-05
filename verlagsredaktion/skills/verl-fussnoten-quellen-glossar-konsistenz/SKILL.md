@@ -1,13 +1,13 @@
 ---
 name: verl-fussnoten-quellen-glossar-konsistenz
-description: "Nutze dies, wenn Verl Fussnoten Quellen Konsolidierung, Verl Glossar Konsistenz Prüfung, Verl Grammatik Konsistenzcheck, Verl Handschrift Und Altdoc Digitalisieren, Verl Honorarrechnung Erstellen Prüfen im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Verl Fussnoten Quellen Konsolidierung, Verl Glossar Konsistenz Prüfung, Verl Grammatik Konsistenzcheck, Verl Handschrift Und Altdoc Digitalisieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Fussnoten Quellen Konsolidierung, Verl Glossar Konsistenz Prüfung, Verl Grammatik Konsistenzcheck, Verl Handschrift Und Altdoc Digitalisieren, Verl Honorarrechnung Erstellen Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Fussnoten Quellen Konsolidierung, Verl Glossar Konsistenz Prüfung, Verl Grammatik Konsistenzcheck, Verl Handschrift Und Altdoc Digitalisieren, Verl Honorarrechnung Erstellen Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -261,10 +261,10 @@ Sie brauchen ihn nach dem Lektorat und vor dem Endkorrekturlauf. Klaeren Sie:
 4. **Verweisketten** (siehe oben Rn. 17): Funktionieren die Verweise? Nach Lektoratsumstellungen brechen oft Verweise.
 5. **Bezuege auf Schaubilder, Tabellen.** "Abb. 2 zeigt ..." - ist Abb. 2 das richtige Schaubild nach Umstellung?
 6. **Konsistenz quer durch den Text:**
-   - Begriffsverwendung ("Plattformbetreiber" vs. "Plattformanbieter" - nicht beides).
-   - Genderform (durchgaengig "Verfasserin und Verfasser" oder "Verfasser:innen" oder generisches Maskulinum mit Hinweis).
-   - Tempus.
-   - Abkuerzungen (BGH bei Erstnennung voll, danach durchgaengig BGH).
+ - Begriffsverwendung ("Plattformbetreiber" vs. "Plattformanbieter" - nicht beides).
+ - Genderform (durchgaengig "Verfasserin und Verfasser" oder "Verfasser:innen" oder generisches Maskulinum mit Hinweis).
+ - Tempus.
+ - Abkuerzungen (BGH bei Erstnennung voll, danach durchgaengig BGH).
 7. **Saetze mit drei Nebensaetzen** als Stop markieren - oft zu lang, brauchen Aufteilung.
 8. **Befund-Tabelle** mit Korrekturvorschlaegen.
 
@@ -395,11 +395,11 @@ Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftlich
 **Transkriptionsmarkierung:**
 
 ```
-[??]      = nicht entzifferbar
-[Wort?]   = unsicher gelesen, Lesart vorgeschlagen
+[??] = nicht entzifferbar
+[Wort?] = unsicher gelesen, Lesart vorgeschlagen
 {Streichung im Original}
 <Einfuegung im Original>
-| ... |   = Seitenwechsel
+| ... | = Seitenwechsel
 ```
 
 **Editionsanmerkung-Vorlage:**

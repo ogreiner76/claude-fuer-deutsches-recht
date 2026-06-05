@@ -8,7 +8,7 @@ description: "Routet je Bundesland: Landeswahlgesetz, Landeswahlordnung, Wahllei
 ## Aufgabe
 Routet je Bundesland: Landeswahlgesetz, Landeswahlordnung, Wahlleiter, Fristen, Formulare und Aufstellungsanforderungen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-015-erster-titel-12-darlehen
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe

@@ -1,12 +1,12 @@
 ---
 name: stabilisierungsanordnung
-description: "Nutze dies, wenn Stabilisierungsanordnung: Red-Team und Qualitätskontrolle im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Stabilisierungsanordnung: Red-Team und Qualitätskontrolle: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Stabilisierungsanordnung: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Stabilisierungsanordnung: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Stabilisierungsanordnung: Red-Team und Qualitätskontrolle / spezial stabilisierungsanordnung redteam qualitygate. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Stabilisierungsanordnung: Red-Team und Qualitätskontrolle / stabilisierungsanordnung redteam qualitygate. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

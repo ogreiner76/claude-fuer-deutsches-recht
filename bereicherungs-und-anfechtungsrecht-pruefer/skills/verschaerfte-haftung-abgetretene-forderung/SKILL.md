@@ -1,13 +1,13 @@
 ---
 name: verschaerfte-haftung-abgetretene-forderung
-description: "Nutze dies, wenn Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales im Plugin Bereicherungs Und Anfechtungsrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales prüfen.; Erstelle eine Arbeitsfassung zu Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -84,7 +84,7 @@ Ab Zustellung der Klageschrift: dieselben verschärften Regeln, unabhängig von 
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. Wann Kenntnis vom Mangel des Rechtsgrundes (§ 819 Abs. 1)?
 2. Gesetz-/Sittenverstoß beim Empfänger (§ 819 Abs. 2)?
@@ -175,8 +175,8 @@ Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergeh
 - **§ 407 BGB Schutz des Schuldners:** Schuldner darf an Zedenten leisten, solange er die Abtretung nicht kennt — Zessionar trägt das Risiko der Mitteilung. Bei nichtiger Zession wirkt Zahlung an Zedenten **schuldbefreiend** gegenüber dem Schuldner.
 - **§ 404 BGB Einwendungserhalt:** Zessionar muss alle Einwendungen aus dem Schuldverhältnis gegen sich gelten lassen, die der Schuldner gegen den Zedenten hatte (z. B. Mangelhaftung, Aufrechnungslage § 406 BGB).
 - **Globalzession vs. Sicherungszession:**
-  - Sicherungszession: Zessionar (i.d.R. Bank) hält Forderung treuhänderisch; bei Tilgung Rückübertragungspflicht. Wirtschaftliche Zuordnung bleibt Zedent.
-  - Globalzession: Übertragung aller bestehenden und künftigen Forderungen — Bestimmtheits- und Bestimmbarkeitserfordernis (BGH-Linie zu § 398 BGB).
+ - Sicherungszession: Zessionar (i.d.R. Bank) hält Forderung treuhänderisch; bei Tilgung Rückübertragungspflicht. Wirtschaftliche Zuordnung bleibt Zedent.
+ - Globalzession: Übertragung aller bestehenden und künftigen Forderungen — Bestimmtheits- und Bestimmbarkeitserfordernis (BGH-Linie zu § 398 BGB).
 - **Doppelzession und Prioritätsgrundsatz:** Erste wirksame Abtretung erfasst die Forderung (§ 398 BGB), zweite geht ins Leere — außer § 405 BGB (Urkundenvorlage und Schuldnerschutz).
 - **Insolvenzanfechtung der Zession § 130 InsO:** kongruente Deckung anfechtbar binnen 3 Monaten vor Antrag; bei Globalzession Anfechtungsfrist beachten — BGH-Linie zur Vertragstreue bei revolvierenden Sicherheiten.
 
@@ -401,8 +401,8 @@ wegen Duldung der Zwangsvollstreckung (§§ 2 11 13 AnfG)
 
 Anträge:
 1. Der Beklagte wird verurteilt, die Zwangsvollstreckung in [GEGENSTAND KONKRET BEZEICHNEN]
-   zu dulden, soweit dies zur Befriedigung der vollstreckbaren Forderung des Klägers gegen
-   [SCHULDNER] aus [TITEL] in Höhe von EUR [BETRAG] erforderlich ist.
+ zu dulden, soweit dies zur Befriedigung der vollstreckbaren Forderung des Klägers gegen
+ [SCHULDNER] aus [TITEL] in Höhe von EUR [BETRAG] erforderlich ist.
 2. Hilfsweise: Der Beklagte wird verurteilt, an den Kläger EUR [BETRAG] zu zahlen.
 
 Streitwert: EUR [WERT DES GEGENSTANDS max. FORDERUNGSHÖHE]

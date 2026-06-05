@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           KI-Verordnung und Aufsichtsstruktur
-Ressort:            BMDS
-Kernnormen:         KI-VO (EU); BDSG; ProdSG; ProdHaftG; einschlaegige Sektorgesetze.
-Akteure/Aufsicht:   BMDS; BNetzA (Marktaufsicht KI; geplant); BSI; BfDI; Laenderbehoerden.
-EU/Voelkerrecht:    KI-VO; AI Office; AI Liability Directive (Entwurf).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmds; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: KI-Verordnung und Aufsichtsstruktur
+Ressort: BMDS
+Kernnormen: KI-VO (EU); BDSG; ProdSG; ProdHaftG; einschlaegige Sektorgesetze.
+Akteure/Aufsicht: BMDS; BNetzA (Marktaufsicht KI; geplant); BSI; BfDI; Laenderbehoerden.
+EU/Voelkerrecht: KI-VO; AI Office; AI Liability Directive (Entwurf).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -104,13 +104,13 @@ ein Vorsteuerabzug kann gefaehrdet sein.
 
 Wir bitten Sie, folgende Schritte zu pruefen:
 1. Empfangs-E-Mail-Adresse fuer eRechnungen festlegen
-   (z.B. rechnungen@ihre-firma.de) und Lieferanten mitteilen.
+ (z.B. rechnungen@ihre-firma.de) und Lieferanten mitteilen.
 2. Buchhaltungssoftware auf eRechnungs-Empfang konfigurieren
-   (XRechnung XML / ZUGFeRD ab Profil EN-16931).
+ (XRechnung XML / ZUGFeRD ab Profil EN-16931).
 3. GoBD-konforme Archivierung im Originalformat XML sicherstellen.
 4. Bis 31.12.2026 (bzw. 31.12.2027 fuer Mandanten mit Umsatz <= 800.000 EUR)
-   kann der Versand weiterhin als PDF mit Empfaengerzustimmung erfolgen;
-   ab 01.01.2028 ist der eRechnungs-Versand zwingend.
+ kann der Versand weiterhin als PDF mit Empfaengerzustimmung erfolgen;
+ ab 01.01.2028 ist der eRechnungs-Versand zwingend.
 
 Fuer die Einrichtung des Empfangs- und Versand-Workflows beraten wir Sie gerne.
 
@@ -130,7 +130,7 @@ Mit freundlichen Gruessen
 ## Strategie und Praxis-Tipps
 
 - Die wichtigste Stufe ist seit 01.01.2025 die **Empfangsbereitschaft** — ohne sie kann ein eRechnungs-pflichtiger Lieferant nicht ordnungsgemaess abrechnen, der Mandant verliert ggf. den Vorsteuerabzug.
-- Mindest-Empfangsweg ist ein E-Mail-Postfach, das XML-/PDF-Anhaenge bis ueblicher Groesse annimmt; ein dediziertes eRechnungs-Postfach erleichtert Workflow und GoBD-Archivierung.
+- Mindest-Empfangsweg ist ein E-Mail-Postfach, das XML-/PDF-Anhaenge bis ueblicher Groesse annimmt; ein dediziertes eRechnungs-Postfach erleichtert und GoBD-Archivierung.
 - ZUGFeRD eignet sich als Einstiegsformat fuer Mittelstand und Kleinunternehmer (PDF bleibt fuer den Anwender lesbar). XRechnung ist Pflichtformat im B2G-Verkehr mit Bundesstellen (E-Rech-VO seit 27.11.2020) und in einigen Laendern.
 - DATEV-Hinweis: In DATEV Unternehmen Online laesst sich der eRechnungs-Empfang ueber das Postfach "Eingangsrechnungen" und das ZUGFeRD-Auswertungsmodul konfigurieren; konkrete Programmpfade in DATEV-Onlinehilfe und Versionshinweisen nachschlagen.
 - StBVV: Konfigurationsberatung als Beratungsleistung gem. § 21 StBVV oder Pauschalvereinbarung gem. § 14 StBVV (Mandanten frueh per Rundschreiben informieren — Mustertext im Skill `stb-mandantenanfrage-reaktion-frist-laufend`).

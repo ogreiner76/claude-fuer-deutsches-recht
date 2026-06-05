@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Wettbewerbsrecht und Kartellrecht (GWB)
-Ressort:            BMWE
-Kernnormen:         GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.
-Akteure/Aufsicht:   Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.
-EU/Voelkerrecht:    FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Act).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwe; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Wettbewerbsrecht und Kartellrecht (GWB)
+Ressort: BMWE
+Kernnormen: GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.
+Akteure/Aufsicht: Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.
+EU/Voelkerrecht: FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Act).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

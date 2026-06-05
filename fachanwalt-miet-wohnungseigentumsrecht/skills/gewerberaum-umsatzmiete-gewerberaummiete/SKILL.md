@@ -1,34 +1,34 @@
 ---
 name: gewerberaum-umsatzmiete-gewerberaummiete
-description: "Nutze dies, wenn Spezial Gewerberaum Umsatzmiete, Spezial Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Spezial Glasfaser Kabel Tv, Spezial Haertefall 574 Bgb, Spezial Hausmeisterkosten im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gewerberaum Umsatzmiete, Spezial Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Spezial Glasfaser Kabel Tv, Spezial Haertefall 574 Bgb, Spezial Hausmeisterkosten prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gewerberaum Umsatzmiete, Spezial Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Spezial Glasfaser Kabel Tv, Spezial Haertefall 574 Bgb, Spezial Hausmeisterkosten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gewerberaum Umsatzmiete, Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Glasfaser Kabel Tv, Haertefall 574 Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Gewerberaum Umsatzmiete, Spezial Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Spezial Glasfaser Kabel Tv, Spezial Haertefall 574 Bgb, Spezial Hausmeisterkosten
+# Gewerberaum Umsatzmiete, Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Glasfaser Kabel Tv, Haertefall 574 Bgb, Hausmeisterkosten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gewerberaum Umsatzmiete, Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Glasfaser Kabel Tv, Haertefall 574 Bgb, Hausmeisterkosten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-gewerberaum-umsatzmiete` | Umsatzmiete: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Definition Umsatz, Nachweise, Mindestmiete, Prüfungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaummiete-schriftsatz-brief-und-memo-bausteine` | Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-glasfaser-kabel-tv` | Glasfaser/Kabel-TV: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Modernisierung, Telekommunikation, Betriebskostenfähigkeit, WEG-Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-haertefall-574-bgb` | Härtefall § 574 BGB: Spezial-Skill im Miet- und Wohnungseigentumsrecht; bereitet Sozialwiderspruch, Gesundheit, Ersatzwohnraum, Alter, Schule und Abwägung auf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-gewerberaum-umsatzmiete` | Umsatzmiete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Definition Umsatz, Nachweise, Mindestmiete, Prüfungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-gewerberaummiete-schriftsatz-brief-und-memo-bausteine` | Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-glasfaser-kabel-tv` | Glasfaser/Kabel-TV: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Modernisierung, Telekommunikation, Betriebskostenfähigkeit, WEG-Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-haertefall-574-bgb` | Härtefall § 574 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht; bereitet Sozialwiderspruch, Gesundheit, Ersatzwohnraum, Alter, Schule und Abwägung auf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-hausmeisterkosten` | Hausmeisterkosten in Betriebskostenabrechnungen: umlagefähige laufende Tätigkeiten von Verwaltung, Instandhaltung, Instandsetzung, Wohnungsabnahmen, Gartenpflege-Doppelerfassung und Bereitschafts-/Notdienstanteilen trennen; mit Beleg- und Stundenlistenprüfung. |
 
 ## Arbeitsweg
 
-Für **Spezial Gewerberaum Umsatzmiete, Spezial Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Spezial Glasfaser Kabel Tv, Spezial Haertefall 574 Bgb, Spezial Hausmeisterkosten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gewerberaum Umsatzmiete, Gewerberaummiete Schriftsatz Brief Und Memo Bausteine, Glasfaser Kabel Tv, Haertefall 574 Bgb, Hausmeisterkosten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-gewerberaum-umsatzmiete`
 
-**Fokus:** Umsatzmiete: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Definition Umsatz, Nachweise, Mindestmiete, Prüfungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Umsatzmiete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Definition Umsatz, Nachweise, Mindestmiete, Prüfungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Umsatzmiete
 
@@ -42,9 +42,9 @@ Für **Spezial Gewerberaum Umsatzmiete, Spezial Gewerberaummiete Schriftsatz Bri
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Definition Umsatz, Nachweise, Mindestmiete, Prüfungsklauseln.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Definition Umsatz, Nachweise, Mindestmiete, Prüfungsklauseln.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-gewerberaummiete-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -87,7 +87,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Spezialwissen: Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine / spezial gewerberaummiete schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gewerberaummiete: Schriftsatz-, Brief- und Memo-Bausteine / gewerberaummiete schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -123,7 +123,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-glasfaser-kabel-tv`
 
-**Fokus:** Glasfaser/Kabel-TV: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Modernisierung, Telekommunikation, Betriebskostenfähigkeit, WEG-Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Glasfaser/Kabel-TV: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Modernisierung, Telekommunikation, Betriebskostenfähigkeit, WEG-Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Glasfaser/Kabel-TV
 
@@ -137,9 +137,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Modernisierung, Telekommunikation, Betriebskostenfähigkeit, WEG-Beschluss.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Modernisierung, Telekommunikation, Betriebskostenfähigkeit, WEG-Beschluss.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -168,7 +168,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-haertefall-574-bgb`
 
-**Fokus:** Härtefall § 574 BGB: Spezial-Skill im Miet- und Wohnungseigentumsrecht; bereitet Sozialwiderspruch, Gesundheit, Ersatzwohnraum, Alter, Schule und Abwägung auf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Härtefall § 574 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht; bereitet Sozialwiderspruch, Gesundheit, Ersatzwohnraum, Alter, Schule und Abwägung auf; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Härtefall § 574 BGB
 
@@ -182,9 +182,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: bereitet Sozialwiderspruch, Gesundheit, Ersatzwohnraum, Alter, Schule und Abwägung auf.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: bereitet Sozialwiderspruch, Gesundheit, Ersatzwohnraum, Alter, Schule und Abwägung auf.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

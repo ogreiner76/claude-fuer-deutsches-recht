@@ -1,23 +1,23 @@
 ---
 name: spesen-reisekosten-stammdaten-qualitaetscheck
-description: "Nutze dies, wenn Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation Auslandstage, Angebotsschreiben Offer Letter, Arbeitnehmerueberlassung Aueg Risk im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation Auslandstage, Angebotsschreiben Offer Letter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation Auslandstage, Angebotsschreiben Offer Letter, Arbeitnehmerueberlassung Aueg Risk
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation Auslandstage, Angebotsschreiben Offer Letter, Arbeitnehmerueberlassung Aueg Risk** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spesen-reisekosten-policy` | Berliner Start-up-HR: Spesen- und Reisekostenpolicy: Belege, Freigaben, steuerliche Plausibilität, Workation, Bahncard, Hotel und Bewirtung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `stammdaten-qualitaetscheck` | Berliner Start-up-HR: Stammdaten-Qualitätscheck für 100 Beschäftigte: Adresse, Bank, Steuer-ID, SV-Nummer, Arbeitserlaubnis, Notfallkontakt und Änderungslog. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `workation-auslandstage` | Berliner Start-up-HR: Workation und Auslandstage: Arbeitsrecht, Sozialversicherung A1, Steuer, Datenschutz, IT-Sicherheit und Genehmigungsworkflow. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `angebotsschreiben-offer-letter` | Berliner Start-up-HR: Offer Letter und Vertragsangebot: Bindung, Bedingungen, Startdatum, Vergütung, Equity-Hinweis und Rücktrittsrisiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `arbeitnehmerueberlassung-aueg-risk` | Berliner Start-up-HR: Arbeitnehmerüberlassung und verdeckte Leihe: Dienstleister, Interim, Agentur, Remote-Teams und AÜG-Risiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `spesen-reisekosten-policy` | Berliner Start-up-HR: Spesen- und Reisekostenpolicy: Belege, Freigaben, steuerliche Plausibilität, Workation, Bahncard, Hotel und Bewirtung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `stammdaten-qualitaetscheck` | Berliner Start-up-HR: Stammdaten-Qualitätscheck für 100 Beschäftigte: Adresse, Bank, Steuer-ID, SV-Nummer, Arbeitserlaubnis, Notfallkontakt und Änderungslog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `workation-auslandstage` | Berliner Start-up-HR: Workation und Auslandstage: Arbeitsrecht, Sozialversicherung A1, Steuer, Datenschutz, IT-Sicherheit und Genehmigungsworkflow. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `angebotsschreiben-offer-letter` | Berliner Start-up-HR: Offer Letter und Vertragsangebot: Bindung, Bedingungen, Startdatum, Vergütung, Equity-Hinweis und Rücktrittsrisiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `arbeitnehmerueberlassung-aueg-risk` | Berliner Start-up-HR: Arbeitnehmerüberlassung und verdeckte Leihe: Dienstleister, Interim, Agentur, Remote-Teams und AÜG-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Spesen Reisekosten Policy, Stammdaten Qualitaetscheck, Workation Auslands
 
 ## 1. `spesen-reisekosten-policy`
 
-**Fokus:** Berliner Start-up-HR: Spesen- und Reisekostenpolicy: Belege, Freigaben, steuerliche Plausibilität, Workation, Bahncard, Hotel und Bewirtung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Spesen- und Reisekostenpolicy: Belege, Freigaben, steuerliche Plausibilität, Workation, Bahncard, Hotel und Bewirtung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Spesen Reisekosten Policy
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Policies
 **Fokus:** Spesen- und Reisekostenpolicy: Belege, Freigaben, steuerliche Plausibilität, Workation, Bahncard, Hotel und Bewirtung.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `stammdaten-qualitaetscheck`
 
-**Fokus:** Berliner Start-up-HR: Stammdaten-Qualitätscheck für 100 Beschäftigte: Adresse, Bank, Steuer-ID, SV-Nummer, Arbeitserlaubnis, Notfallkontakt und Änderungslog. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Stammdaten-Qualitätscheck für 100 Beschäftigte: Adresse, Bank, Steuer-ID, SV-Nummer, Arbeitserlaubnis, Notfallkontakt und Änderungslog. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Stammdaten Qualitaetscheck
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Personalakte
 **Fokus:** Stammdaten-Qualitätscheck für 100 Beschäftigte: Adresse, Bank, Steuer-ID, SV-Nummer, Arbeitserlaubnis, Notfallkontakt und Änderungslog.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `workation-auslandstage`
 
-**Fokus:** Berliner Start-up-HR: Workation und Auslandstage: Arbeitsrecht, Sozialversicherung A1, Steuer, Datenschutz, IT-Sicherheit und Genehmigungsworkflow. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Workation und Auslandstage: Arbeitsrecht, Sozialversicherung A1, Steuer, Datenschutz, IT-Sicherheit und Genehmigungsworkflow. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Workation Auslandstage
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Zeit
 **Fokus:** Workation und Auslandstage: Arbeitsrecht, Sozialversicherung A1, Steuer, Datenschutz, IT-Sicherheit und Genehmigungsworkflow.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `angebotsschreiben-offer-letter`
 
-**Fokus:** Berliner Start-up-HR: Offer Letter und Vertragsangebot: Bindung, Bedingungen, Startdatum, Vergütung, Equity-Hinweis und Rücktrittsrisiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Offer Letter und Vertragsangebot: Bindung, Bedingungen, Startdatum, Vergütung, Equity-Hinweis und Rücktrittsrisiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Angebotsschreiben Offer Letter
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Recruiting
 **Fokus:** Offer Letter und Vertragsangebot: Bindung, Bedingungen, Startdatum, Vergütung, Equity-Hinweis und Rücktrittsrisiko.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `arbeitnehmerueberlassung-aueg-risk`
 
-**Fokus:** Berliner Start-up-HR: Arbeitnehmerüberlassung und verdeckte Leihe: Dienstleister, Interim, Agentur, Remote-Teams und AÜG-Risiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Arbeitnehmerüberlassung und verdeckte Leihe: Dienstleister, Interim, Agentur, Remote-Teams und AÜG-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitnehmerueberlassung AÜG Risk
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Externe
 **Fokus:** Arbeitnehmerüberlassung und verdeckte Leihe: Dienstleister, Interim, Agentur, Remote-Teams und AÜG-Risiko.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

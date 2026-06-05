@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Urteilsbauer Relationsmacher** ein Fall no
 ## Fachlandkarte dieses Plugins
 
 - `aktenintake-zivil` — Aktenintake Zivil
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `amts-aktenintake-zivil-anspruchsgrundlagen` — Amts Aktenintake Zivil Anspruchsgrundlagen
 - `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen Prüfen
 - `berufungsfest-beschluss-bauen-beweisbeschluss-vorbereiten` — Berufungsfest Beschluss Bauen Beweisbeschluss Vorbereiten

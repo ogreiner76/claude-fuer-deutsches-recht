@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-screenshots-agb-logs
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Dokumentenintake Screenshots AGB Logs."
+description: "Nutze dies für Unterlagen zu Dokumentenintake Screenshots AGB Logs: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake Screenshots AGB Logs

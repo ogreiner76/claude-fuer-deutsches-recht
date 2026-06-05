@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Nutze dies, wenn Rechtsquellen-Livecheck im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen-Livecheck: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen-Livecheck
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Phishing Vorfall Prüfer** ein Fall noch s
 ## Fachlandkarte dieses Plugins
 
 - `675u-675w-banking` — 675u 675w Banking
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `arbeitnehmer-haftung-bgb-675u-phish-ceo` — Arbeitnehmer Haftung Bgb 675u Phish Ceo
 - `aufsicht-bafin-bank-strategie-banking-app` — Aufsicht Bafin Bank Strategie Banking App
 - `bankpflichten-beweislast-beweislast-bgb` — Bankpflichten Beweislast Beweislast Bgb

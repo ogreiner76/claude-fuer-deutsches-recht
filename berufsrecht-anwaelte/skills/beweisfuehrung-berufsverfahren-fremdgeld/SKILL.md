@@ -1,13 +1,13 @@
 ---
 name: beweisfuehrung-berufsverfahren-fremdgeld
-description: "Nutze dies, wenn Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaelte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwaelte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwaelte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwaelte Fristversaeumnis Und Wiedereinsetzung Organisationspfl: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Beweisfuehrung Im Berufsverfahren Organisationspflicht, Anwälte Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss, Anwälte Fristversaeumnis Und Wiedereinsetzung Kammerantwort Un, Anwälte Fristversaeumnis Und Wiedereinsetzung Organisationspfl** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

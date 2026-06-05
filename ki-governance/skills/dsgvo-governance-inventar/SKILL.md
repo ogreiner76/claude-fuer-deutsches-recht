@@ -1,13 +1,13 @@
 ---
 name: dsgvo-governance-inventar
-description: "Nutze dies, wenn Spezial Dsgvo Erstpruefung Und Mandatsziel, Spezial Governance Compliance Dokumentation Und Akte, Spezial Inventar Dokumentenmatrix Und Lueckenliste im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Bitte Spezial Dsgvo Erstpruefung Und Mandatsziel, Spezial Governance Compliance Dokumentation Und Akte, Spezial Inventar Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Spezial Dsgvo Erstpruefung Und Mandatsziel, Spezial Governance Compliance Dokumentation Und Akte, Spezial Inventar Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsgvo Erstpruefung Und Mandatsziel, Governance Compliance Dokumentation Und Akte, Inventar Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Dsgvo Erstpruefung Und Mandatsziel, Spezial Governance Compliance Dokumentation Und Akte, Spezial Inventar Dokumentenmatrix Und Lueckenliste
+# Dsgvo Erstpruefung Und Mandatsziel, Governance Compliance Dokumentation Und Akte, Inventar Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsgvo Erstpruefung Und Mandatsziel, Governance Compliance Dokumentation Und Akte, Inventar Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Dsgvo Erstpruefung Und Mandatsziel, Spezial Governance Compliance Dokumentation Und Akte, Spezial Inventar Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsgvo Erstpruefung Und Mandatsziel, Governance Compliance Dokumentation Und Akte, Inventar Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Dsgvo Erstpruefung Und Mandatsziel, Spezial Governance Compliance
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel / spezial dsgvo erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel / dsgvo erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, EU, KI, VO, AIA, DPIA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -82,7 +82,7 @@ Einwilligung als Rechtsgrundlage für KI ist verlockend (klar und einfach), aber
 # Governance: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Governance: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Governance: Compliance-Dokumentation und Aktenvermerk / spezial governance compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Governance: Compliance-Dokumentation und Aktenvermerk / governance compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -123,7 +123,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Inventar: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Inventar: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Inventar: Dokumentenmatrix, Lückenliste und Nachforderung / spezial inventar dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Inventar: Dokumentenmatrix, Lückenliste und Nachforderung / inventar dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

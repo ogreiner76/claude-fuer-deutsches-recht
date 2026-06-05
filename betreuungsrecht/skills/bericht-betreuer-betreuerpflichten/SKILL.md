@@ -1,13 +1,13 @@
 ---
 name: bericht-betreuer-betreuerpflichten
-description: "Nutze dies, wenn Spezial Bericht Mandantenkommunikation Entscheidungsvorlage, Spezial Betreuer Zahlen Schwellen Und Berechnung, Spezial Betreuerpflichten Formular Portal Und Einreichung im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Bericht Mandantenkommunikation Entscheidungsvorlage, Spezial Betreuer Zahlen Schwellen Und Berechnung, Spezial Betreuerpflichten Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Bericht Mandantenkommunikation Entscheidungsvorlage, Spezial Betreuer Zahlen Schwellen Und Berechnung, Spezial Betreuerpflichten Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bericht Mandantenkommunikation Entscheidungsvorlage, Betreuer Zahlen Schwellen Und Berechnung, Betreuerpflichten Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Bericht Mandantenkommunikation Entscheidungsvorlage, Spezial Betreuer Zahlen Schwellen Und Berechnung, Spezial Betreuerpflichten Formular Portal Und Einreichung
+# Bericht Mandantenkommunikation Entscheidungsvorlage, Betreuer Zahlen Schwellen Und Berechnung, Betreuerpflichten Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Mandantenkommunikation Entscheidungsvorlage, Betreuer Zahlen Schwellen Und Berechnung, Betreuerpflichten Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Bericht Mandantenkommunikation Entscheidungsvorlage, Spezial Betreuer Zahlen Schwellen Und Berechnung, Spezial Betreuerpflichten Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bericht Mandantenkommunikation Entscheidungsvorlage, Betreuer Zahlen Schwellen Und Berechnung, Betreuerpflichten Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `betreuungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Bericht Mandantenkommunikation Entscheidungsvorlage, Spezial Betr
 # Bericht: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Bericht: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Bericht: Mandantenkommunikation und Entscheidungsvorlage / spezial bericht mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bericht: Mandantenkommunikation und Entscheidungsvorlage / bericht mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Betreuer: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Betreuer: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Betreuer: Zahlen, Schwellenwerte und Berechnung / spezial betreuer zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Betreuer: Zahlen, Schwellenwerte und Berechnung / betreuer zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Betreuerpflichten: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Betreuerpflichten: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Betreuerpflichten: Formular, Portal und Einreichungslogik / spezial betreuerpflichten formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Betreuerpflichten: Formular, Portal und Einreichungslogik / betreuerpflichten formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

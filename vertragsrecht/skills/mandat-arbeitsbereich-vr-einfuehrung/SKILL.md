@@ -1,13 +1,13 @@
 ---
 name: mandat-arbeitsbereich-vr-einfuehrung
-description: "Nutze dies, wenn Vertragsrecht Mandat Arbeitsbereich, Vr Einfuehrung Vertragstypen Bgb, Abmahnung Uwg im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vertragsrecht Mandat Arbeitsbereich, Vr Einfuehrung Vertragstypen Bgb, Abmahnung Uwg prüfen.; Erstelle eine Arbeitsfassung zu Vertragsrecht Mandat Arbeitsbereich, Vr Einfuehrung Vertragstypen Bgb, Abmahnung Uwg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vertragsrecht Mandat Arbeitsbereich, Vr Einfuehrung Vertragstypen Bgb, Abmahnung Uwg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vertragsrecht Mandat Arbeitsbereich, Vr Einfuehrung Vertragstypen Bgb, Abmahnung Uwg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vertragsrecht Mandat Arbeitsbereich, Vr Einfuehrung Vertragstypen Bgb, Abmahnung Uwg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -49,7 +49,7 @@ Kanzleien und Berufsanwälte mit Mehrfach-Mandantenstruktur aktiviert.
 
 - Unterbefehl: `neu`, `liste`, `wechseln`, `schließen`, `keine`
 - Mandats-Kürzel (Slug): Kurzbezeichnung in Kleinbuchstaben mit Bindestrichen
-  (z. B. `mueller-kaufvertrag-2026`, `meier-agb-prüfung`, `xyz-gmbh-msa`)
+ (z. B. `mueller-kaufvertrag-2026`, `meier-agb-prüfung`, `xyz-gmbh-msa`)
 - Für `neu`: Mandantenangaben (Name, Gegenpartei, Vertragsart, Schlüsselfakten)
 
 ## Rechtlicher Rahmen
@@ -60,26 +60,26 @@ Die Mandatsverwaltung ist untrennbar mit dem anwaltlichen Berufsrecht
 und der anwaltlichen Verschwiegenheitspflicht verbunden:
 
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Rechtsanwalts;
-  Mandatsgeheimnis als Kernpflicht
+ Mandatsgeheimnis als Kernpflicht
 - § 203 StGB — Verletzung von Privatgeheimnissen; strafrechtlicher Schutz
-  des Mandatsgeheimnisses
+ des Mandatsgeheimnisses
 - § 50 BRAO — Handakten; Aufbewahrungspflicht (5 Jahre nach Abschluss
-  des Mandats)
+ des Mandats)
 - § 2 BORA — Grundpflichten; Interessenkonflikte müssen geprüft werden
-  (Mandate gegen frühere Mandanten oder gleichzeitig gegen denselben
-  Mandanten in anderem Verfahren)
+ (Mandate gegen frühere Mandanten oder gleichzeitig gegen denselben
+ Mandanten in anderem Verfahren)
 - DSGVO Art. 5, 25 — Datenschutz durch Technikgestaltung; mandatsbezogene
-  personenbezogene Daten dürfen nicht zwischen Mandaten geteilt werden
+ personenbezogene Daten dürfen nicht zwischen Mandaten geteilt werden
 
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Anwaltliche Verschwiegenheitspflicht; Schadensersatz bei
-  Geheimnisbruch durch Anwalt; § 43a BRAO)
+ (Anwaltliche Verschwiegenheitspflicht; Schadensersatz bei
+ Geheimnisbruch durch Anwalt; § 43a BRAO)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Anwaltliche Aufbewahrungspflicht von Handakten; § 50 BRAO)
+ (Anwaltliche Aufbewahrungspflicht von Handakten; § 50 BRAO)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Schutz von Verteidigungsunterlagen; Rechtsanwalt; § 97 StPO analog)
+ (Schutz von Verteidigungsunterlagen; Rechtsanwalt; § 97 StPO analog)
 
 ### Quellenregel
 
@@ -89,14 +89,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Unterbefehle
 
 - `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich neu <kuerzel>` — neuen Mandatsarbeitsbereich
-  anlegen, kurze Aufnahme durchführen, `mandat.md` schreiben
+ anlegen, kurze Aufnahme durchführen, `mandat.md` schreiben
 - `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich liste` — alle Mandate mit Status und
-  aktivem Kürzel auflisten
+ aktivem Kürzel auflisten
 - `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich wechseln <kuerzel>` — aktives Mandat setzen
 - `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich schließen <kuerzel>` — Mandat archivieren
-  (verschiebt in `_archiv/`, löscht nie)
+ (verschiebt in `_archiv/`, löscht nie)
 - `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich keine` — von aktivem Mandat trennen,
-  auf Kanzleiebene arbeiten
+ auf Kanzleiebene arbeiten
 
 ### Schritt 1 — Kanzleiprofil prüfen
 
@@ -116,12 +116,12 @@ darauf hin:
 Auflösung nach dem ersten Token von `$ARGUMENTE`:
 
 - `neu` → Aufnahme durchführen, `mandate/<kuerzel>/mandat.md` schreiben,
-  `verlauf.md` und `notizen.md` anlegen
+ `verlauf.md` und `notizen.md` anlegen
 - `liste` → `mandate/*/mandat.md` aufzählen, Tabelle ausgeben,
-  aktives Mandat markieren
+ aktives Mandat markieren
 - `wechseln` → Zeile `Aktives Mandat:` im Kanzleiprofil aktualisieren
 - `schließen` → `mandate/<kuerzel>/` nach `mandate/_archiv/<kuerzel>/`
-  verschieben, Abschlussdatum in `verlauf.md` eintragen
+ verschieben, Abschlussdatum in `verlauf.md` eintragen
 - `keine` → `Aktives Mandat:` auf `keine — Kanzleiebene` setzen
 
 ### Schritt 3 — Bestätigung vor Schreiben
@@ -132,25 +132,25 @@ Bestätigung einholen.
 ### Unterbefehl-Logik: `neu <kuerzel>`
 
 1. Prüfen, ob das Kürzel noch nicht in `mandate/<kuerzel>/` oder
-   `mandate/_archiv/<kuerzel>/` vorhanden ist. Bei Wiederverwendung:
-   anderes Kürzel vorschlagen.
+ `mandate/_archiv/<kuerzel>/` vorhanden ist. Bei Wiederverwendung:
+ anderes Kürzel vorschlagen.
 2. Kurzaufnahme durchführen:
-   - **Mandant** (vertretene Partei oder interne Geschäftseinheit bei In-house)
-   - **Gegenpartei** (andere Seite — kann mehrere sein)
-   - **Vertragsart** (Lieferantenvertrag / Dienstleistungsvertrag / NDA /
-     SaaS-Abonnement / Nachtrag / Verlängerung / Sonstiges)
-   - **Vertraulichkeitsstufe** (Standard / erhöht / Clean-Team)
-   - **Schlüsselfakten** (2–5 Sätze: Gegenstand, Beteiligte, Besonderheiten
-     gegenüber Standardplaybook)
-   - **Mandatsspezifische Abweichungen vom Playbook** (z. B. "Mandant besteht
-     auf 24 Monate Haftungsdeckel statt 12; kooperativer Ton, da strategische
-     Partnerschaft")
-   - **Verwandte Mandate** (Kürzel verbundener Mandate)
+ - **Mandant** (vertretene Partei oder interne Geschäftseinheit bei In-house)
+ - **Gegenpartei** (andere Seite — kann mehrere sein)
+ - **Vertragsart** (Lieferantenvertrag / Dienstleistungsvertrag / NDA /
+ SaaS-Abonnement / Nachtrag / Verlängerung / Sonstiges)
+ - **Vertraulichkeitsstufe** (Standard / erhöht / Clean-Team)
+ - **Schlüsselfakten** (2–5 Sätze: Gegenstand, Beteiligte, Besonderheiten
+ gegenüber Standardplaybook)
+ - **Mandatsspezifische Abweichungen vom Playbook** (z. B. "Mandant besteht
+ auf 24 Monate Haftungsdeckel statt 12; kooperativer Ton, da strategische
+ Partnerschaft")
+ - **Verwandte Mandate** (Kürzel verbundener Mandate)
 3. `mandate/<kuerzel>/mandat.md` nach Vorlage unten schreiben.
 4. `mandate/<kuerzel>/verlauf.md` mit einem "Eröffnet"-Eintrag anlegen.
 5. Leere `mandate/<kuerzel>/notizen.md` erstellen.
 6. **Nicht** automatisch zum neuen Mandat wechseln. Fragen:
-   "Möchten Sie jetzt zu `<kuerzel>` wechseln?"
+ "Möchten Sie jetzt zu `<kuerzel>` wechseln?"
 
 ### Unterbefehl-Logik: `liste`
 
@@ -166,10 +166,10 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter
 ### Unterbefehl-Logik: `wechseln <kuerzel>`
 
 1. Prüfen, ob `mandate/<kuerzel>/mandat.md` existiert. Falls nicht:
-   `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich neu <kuerzel>` anbieten.
+ `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich neu <kuerzel>` anbieten.
 2. `Aktives Mandat:`-Zeile im Kanzleiprofil auf `<kuerzel>` setzen.
 3. `mandat.md`-Zusammenfassung anzeigen, damit der Nutzer das richtige
-   Mandat bestätigt.
+ Mandat bestätigt.
 
 ### Unterbefehl-Logik: `schließen <kuerzel>`
 
@@ -177,7 +177,7 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter
 2. Abschlusseintrag mit heutigem Datum in `mandate/<kuerzel>/verlauf.md` hinzufügen.
 3. `mandate/<kuerzel>/` nach `mandate/_archiv/<kuerzel>/` verschieben.
 4. War das geschlossene Mandat das aktive, `Aktives Mandat:` auf
-   `keine — Kanzleiebene` setzen.
+ `keine — Kanzleiebene` setzen.
 
 ### Unterbefehl-Logik: `keine`
 
@@ -220,7 +220,7 @@ Besonderheiten gegenüber dem Standard-Playbook.]
 *Jede Abweichung vom kanzleiweiten Playbook, die nur dieses Mandat betrifft.*
 
 - [z. B. "Haftungsobergrenze: Mandant besteht auf 24 Monate, nicht
-  Kanzleistandard 12."]
+ Kanzleistandard 12."]
 - [z. B. "Ton: beziehungserhaltend — Gegenpartei ist strategischer Partner."]
 - [z. B. "Gerichtsstand: muss München sein."]
 
@@ -254,15 +254,15 @@ Aufnahme abgeschlossen. Kürzel: `[kürzel]`. Status: aktiv.
 
 ```
 ~/.claude/plugins/config/klotzkette/vertragsrecht/
-├── CLAUDE.md                       # Kanzleiprofil
+├── CLAUDE.md # Kanzleiprofil
 └── mandate/
-    ├── <kuerzel>/
-    │   ├── mandat.md               # Mandantenangaben, Schlüsselfakten, Abweichungen
-    │   ├── verlauf.md              # Datiertes Protokoll (Ereignisse, Entscheidungen, Entwürfe)
-    │   ├── notizen.md              # Freie Arbeitsnotizen
-    │   └── ausgaben/               # Skill-Ausgaben für dieses Mandat (optional)
-    └── _archiv/
-        └── <kuerzel>/               # Geschlossene Mandate — lesbar, nicht aktiv
+ ├── <kuerzel>/
+ │ ├── mandat.md # Mandantenangaben, Schlüsselfakten, Abweichungen
+ │ ├── verlauf.md # Datiertes Protokoll (Ereignisse, Entscheidungen, Entwürfe)
+ │ ├── notizen.md # Freie Arbeitsnotizen
+ │ └── ausgaben/ # Skill-Ausgaben für dieses Mandat (optional)
+ └── _archiv/
+ └── <kuerzel>/ # Geschlossene Mandate — lesbar, nicht aktiv
 ```
 
 Kürzel sind Kleinbuchstaben mit Bindestrichen. Beispiele:
@@ -292,7 +292,7 @@ Kurzaufnahme ergibt:
 - Gegenpartei: IT-Lieferant X GmbH
 - Vertragsart: Dienstleistungsvertrag
 - Besonderheit: Mandant besteht auf unbeschränkter Gewährleistung für
-  datenschutzkritische Komponenten
+ datenschutzkritische Komponenten
 
 Slug `mueller-it-vertrag-2026` angelegt mit Abweichung:
 "Gewährleistung: kein Verjährungsverkürzung für Datenschutz-Komponenten."
@@ -300,15 +300,15 @@ Slug `mueller-it-vertrag-2026` angelegt mit Abweichung:
 ## Risiken und typische Fehler
 
 - **Kein Interessenkonflikt-Check.** Diese Skill führt keine automatische
-  Konfliktprüfung durch — das ist Aufgabe des Anwalts. Die Aufnahme erfasst,
-  was der Nutzer erklärt; sie ersetzt keine Prüfung nach § 43a BRAO, § 3
-  BORA.
+ Konfliktprüfung durch — das ist Aufgabe des Anwalts. Die Aufnahme erfasst,
+ was der Nutzer erklärt; sie ersetzt keine Prüfung nach § 43a BRAO, § 3
+ BORA.
 - **Löschen ist verboten.** Abschließen bedeutet Archivieren. Keine
-  Mandatsakte wird gelöscht — Aufbewahrungspflicht nach § 50 BRAO (5 Jahre).
+ Mandatsakte wird gelöscht — Aufbewahrungspflicht nach § 50 BRAO (5 Jahre).
 - **Kürzel-Kollision prüfen.** Wird ein Kürzel eines archivierten Mandats
-  wiederverwendet, das archivierte Mandat unter `_archiv/<kuerzel>/` belassen.
+ wiederverwendet, das archivierte Mandat unter `_archiv/<kuerzel>/` belassen.
 - **Mandatsübergreifender Kontext bleibt aus.** Wenn nicht explizit
-  eingeschaltet, niemals Dateien eines anderen Mandats lesen.
+ eingeschaltet, niemals Dateien eines anderen Mandats lesen.
 
 ## Quellenpflicht
 
@@ -400,12 +400,12 @@ Das Modell benötigt folgende Informationen:
 1. **Wettbewerbsverstoß**: konkrete Handlung (Anzeigentext, Screenshot, URL, Beschreibung)
 2. **Verletzter und Verletzer**: vollständige Firmierung, Rechtsform, Sitz
 3. **Abmahnender**: Partei (Mitbewerber, Verband § 8 Abs. 3 Nr. 2 UWG oder qualifizierte
-   Einrichtung § 8 Abs. 3 Nr. 3 UWG) – Sachlegitimation prüfen!
+ Einrichtung § 8 Abs. 3 Nr. 3 UWG) – Sachlegitimation prüfen!
 4. **Fristsetzung**: gewünschte Unterlassungsfrist (üblicherweise 1–2 Wochen)
 5. **Vertragsstrafe**: gewünschte Höhe oder Bitte um Vorschlag (Orientierung: wettbewerbsrechtliche Praxis, nur mit verifizierten Quellen,
-   typisch EUR 5.001 bis EUR 15.000 je nach Branche und Verletzungsgewicht)
+ typisch EUR 5.001 bis EUR 15.000 je nach Branche und Verletzungsgewicht)
 6. **Schutzschrift**: liegt ein konkreter Verfügungsantrag vor oder nur eine vorbeugend
-   einzureichende Schutzschrift?
+ einzureichende Schutzschrift?
 
 ## Rechtlicher Rahmen
 
@@ -419,23 +419,23 @@ Das Modell benötigt folgende Informationen:
 - **§ 14 UWG** – Zuständigkeit (i. d. R. LG am Sitz des Verletzers oder des Verletzten)
 - **§ 11 UWG** – Verjährung (6 Monate ab Kenntnis bei Ansprüchen nach §§ 8, 9 Abs. 1, 13 Abs. 3 UWG; Höchstfristen nach § 11 Abs. 3 und 4 UWG)
 - **§ 339 BGB** – Vertragsstrafe; **§ 242 BGB** – Herabsetzungsrecht bei unverhältnismäßiger
-  Strafe (sog. Korrektivklausel)
+ Strafe (sog. Korrektivklausel)
 
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Wiederholungsgefahr und die Beseitigungswirkung einer Unterlassungserklärung; eine
-  eingeschränkt abgegebene UE beseitigt die Wiederholungsgefahr nur für den konkret bezeichneten
-  Verletzungsfall.
+ Wiederholungsgefahr und die Beseitigungswirkung einer Unterlassungserklärung; eine
+ eingeschränkt abgegebene UE beseitigt die Wiederholungsgefahr nur für den konkret bezeichneten
+ Verletzungsfall.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Reichweite einer strafbewehrten Unterlassungserklärung; der Gläubiger muss konkret
-  beschreiben, welche zukünftigen Handlungen erfasst sein sollen.
+ Reichweite einer strafbewehrten Unterlassungserklärung; der Gläubiger muss konkret
+ beschreiben, welche zukünftigen Handlungen erfasst sein sollen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Abmahnung": Die Abmahnung muss die beanstandete Verletzungshandlung so klar bezeichnen, dass
-  der Abgemahnte die Berechtigung prüfen kann; andernfalls ist die Abmahnung unbeachtlich.
+ Abmahnung": Die Abmahnung muss die beanstandete Verletzungshandlung so klar bezeichnen, dass
+ der Abgemahnte die Berechtigung prüfen kann; andernfalls ist die Abmahnung unbeachtlich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Dringlichkeitsvermutung im einstweiligen Verfügungsverfahren; selbst nach UWG-Reform 2021
-  gilt die Dringlichkeitsfrist von 1 Monat ab Kenntnis als maßgeblich.
+ Dringlichkeitsvermutung im einstweiligen Verfügungsverfahren; selbst nach UWG-Reform 2021
+ gilt die Dringlichkeitsfrist von 1 Monat ab Kenntnis als maßgeblich.
 
 ### Quellenregel
 
@@ -443,30 +443,30 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Sachverhaltsaufnahme** (Tag 0): Wettbewerbsverstoß dokumentieren (Screenshot mit
-   Zeitstempel, Notaranschrift oder eidesstattliche Versicherung).
+ Zeitstempel, Notaranschrift oder eidesstattliche Versicherung).
 2. **Prüfung der Aktivlegitimation** (§ 8 Abs. 3 UWG): Ist der Mandant Mitbewerber?
-   Wettbewerbsverhältnis konkret darlegen.
+ Wettbewerbsverhältnis konkret darlegen.
 3. **Prüfung der Dringlichkeit** (§ 12 Abs. 1 UWG): Kenntnis seit wann? 1-Monats-Frist für eV
-   wahren. Cave: eigene Werbung mit ähnlichem Inhalt = Verwirkung der Dringlichkeit.
+ wahren. Cave: eigene Werbung mit ähnlichem Inhalt = Verwirkung der Dringlichkeit.
 4. **Entwurf der Abmahnung** mit Pflichtangaben § 13 Abs. 2 UWG:
-   - Name/Firma des Abmahnenden
-   - Bezeichnung der Verletzung (Handlung, Fundort, Datum)
-   - Unterlassungsbegehren mit konkreter Beschreibung
-   - Angemessene Frist (i. d. R. 7–14 Tage)
-   - Aufforderung zur Abgabe einer strafbewehrten Unterlassungserklärung
+ - Name/Firma des Abmahnenden
+ - Bezeichnung der Verletzung (Handlung, Fundort, Datum)
+ - Unterlassungsbegehren mit konkreter Beschreibung
+ - Angemessene Frist (i. d. R. 7–14 Tage)
+ - Aufforderung zur Abgabe einer strafbewehrten Unterlassungserklärung
 5. **Entwurf der modifizierten Unterlassungserklärung** (Hamburger Brauch):
-   - Benennung der konkreten Verletzungshandlung
-   - Vertragsstrafe nach Wahl des Gläubigers oder "angemessene Strafe", Mindestbetrag EUR 5.001
-   - Korrektivklausel (Gericht kann Strafe auf EUR 2.500 reduzieren § 342 BGB analog)
-   - Reichweite: kerngleiche Verletzungshandlungen einschließen
+ - Benennung der konkreten Verletzungshandlung
+ - Vertragsstrafe nach Wahl des Gläubigers oder "angemessene Strafe", Mindestbetrag EUR 5.001
+ - Korrektivklausel (Gericht kann Strafe auf EUR 2.500 reduzieren § 342 BGB analog)
+ - Reichweite: kerngleiche Verletzungshandlungen einschließen
 6. **Prüfung einer Schutzschrift** (§ 945a ZPO): Wenn Gegenabmahnung droht oder Antrag auf
-   einstweilige Verfügung zu erwarten ist → Schutzschrift in das Schutzschriftenregister
-   (www.zssr.de) einreichen.
+ einstweilige Verfügung zu erwarten ist → Schutzschrift in das Schutzschriftenregister
+ (www.zssr.de) einreichen.
 7. **Versand**: per Telefax + Einschreiben/Rückschein oder per Boten; Fristlauf dokumentieren.
 8. **Reaktion des Gegners**: eingehende UE prüfen (ausreichend? kerngleiche Handlungen
-   erfasst?); ggf. Ablehnung mit Begründung.
+ erfasst?); ggf. Ablehnung mit Begründung.
 9. **Gerichtliche Durchsetzung** bei ausbleibender/unzureichender Reaktion: einstweilige
-   Verfügung §§ 935, 940 ZPO oder Hauptsacheklage nach §§ 8, 14 UWG.
+ Verfügung §§ 935, 940 ZPO oder Hauptsacheklage nach §§ 8, 14 UWG.
 
 ## Ausgabeformat
 
@@ -504,19 +504,19 @@ der UE sowie eine Vertragsstrafe von EUR 8.001 (Hamburger Brauch).
 ## Risiken und typische Fehler
 
 - **Fristversäumnis (Dringlichkeit)**: Kenntnis vom Verstoß länger als 1 Monat → Dringlichkeit
-  entfallen; eV nicht mehr ohne weiteres zulässig. Fristlauf intern dokumentieren.
+ entfallen; eV nicht mehr ohne weiteres zulässig. Fristlauf intern dokumentieren.
 - **Unzureichende Bezeichnung der Verletzungshandlung**: Abmahnung ist zu vage → Gegner kann
-  Kostengegenanspruch nach § 13a UWG geltend machen.
+ Kostengegenanspruch nach § 13a UWG geltend machen.
 - **Fehlende Aktivlegitimation**: Kein echtes Wettbewerbsverhältnis → Abmahnung unberechtig
-  → Schadensersatz nach § 13a UWG; Missbrauchsgefahr § 8c UWG.
+ → Schadensersatz nach § 13a UWG; Missbrauchsgefahr § 8c UWG.
 - **Missbrauch (§ 8c UWG)**: Verdacht bei Serienabmahnungen, sachfremden Motiven, überhöhten
-  Vertragsstrafen → Abmahnung unwirksam; Mandant haftet für Kosten des Gegners.
+ Vertragsstrafen → Abmahnung unwirksam; Mandant haftet für Kosten des Gegners.
 - **Unterlassungserklärung zu eng**: Kerngleiche Verletzungen nicht miterfasst → erneute Abmahnung
-  erforderlich; Gerichtsverfahren nicht vermieden.
+ erforderlich; Gerichtsverfahren nicht vermieden.
 - **Berufsrechtliche Pflichten**: Verschwiegenheit (§ 43a Abs. 2 BRAO, § 203 StGB) wahren;
-  Mandantendaten nicht ungesichert per E-Mail übermitteln.
+ Mandantendaten nicht ungesichert per E-Mail übermitteln.
 - **Verjährung § 11 UWG**: 6 Monate ab Kenntnis von Verstoß und Verletzer; absolute
-  Verjährung 3 Jahre (§§ 195, 199 BGB analog).
+ Verjährung 3 Jahre (§§ 195, 199 BGB analog).
 
 ## Quellenpflicht
 

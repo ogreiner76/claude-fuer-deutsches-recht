@@ -1,20 +1,20 @@
 ---
 name: verl-rueckruf-fehlerbeitrag-screenshot-pdf
-description: "Nutze dies, wenn Verl Rueckruf Fehlerbeitrag Spaet Erkannt, Verl Screenshot Pdf Ocr Redaktion, Verl Social Media Rechtsfachzeitschrift, Verl Statusbericht An Verlagsleitung, Verl Stilbruch Stilcheck Fachzeitschrift im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Verl Rueckruf Fehlerbeitrag Spaet Erkannt, Verl Screenshot Pdf Ocr Redaktion, Verl Social Media Rechtsfachzeitschrift, Verl Statusbericht An Verlagsleitung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Rueckruf Fehlerbeitrag Spaet Erkannt, Verl Screenshot Pdf Ocr Redaktion, Verl Social Media Rechtsfachzeitschrift, Verl Statusbericht An Verlagsleitung, Verl Stilbruch Stilcheck Fachzeitschrift
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Rueckruf Fehlerbeitrag Spaet Erkannt, Verl Screenshot Pdf Ocr Redaktion, Verl Social Media Rechtsfachzeitschrift, Verl Statusbericht An Verlagsleitung, Verl Stilbruch Stilcheck Fachzeitschrift** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-rueckruf-fehlerbeitrag-spaet-erkannt` | Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte fuer Print- und Online-Rueckruf, Kostenabwaegung. |
-| `verl-screenshot-pdf-ocr-redaktion` | Fuehrt einen sauberen OCR-Workflow fuer gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt. |
+| `verl-screenshot-pdf-ocr-redaktion` | Fuehrt einen sauberen OCR-fuer gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt. |
 | `verl-social-media-rechtsfachzeitschrift` | Social-Media-Beitrag fuer juristische Fachzeitschrift: Konzept fuer LinkedIn, Bluesky, Mastodon. Texttemplates, Bildvorgaben, Disclaimer, Werbekennzeichnung nach UWG und DDG. |
 | `verl-statusbericht-an-verlagsleitung` | Statusbericht an die Verlagsleitung: knappe Lagedarstellung zu Projekt, Frist, Kosten, Risiko und Eskalation. Mustertexte fuer monatliches Reporting und Ad-hoc-Alarm. |
 | `verl-stilbruch-stilcheck-fachzeitschrift` | Spuert Stilbrueche im Fachzeitschriften-Manuskript auf: gemischte Stilebenen Ironie Umgangssprache Floskeln Marketingsprache und KI-typische Phrasen. |
@@ -63,14 +63,14 @@ Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Anga
 
 1. **Lage erfassen.** Welches Heft / welche ISBN / welcher Online-Stand? Wer hat was wann gemeldet?
 2. **Schwellenwert pruefen.**
-   - Stufe A: Tippfehler ohne Rufwirkung - keine Massnahme, Korrektur in der naechsten Auflage.
-   - Stufe B: Sachfehler mit Praxiswirkung - Richtigstellung online und in der naechsten Heftausgabe.
-   - Stufe C: Persoenlichkeits- oder Kreditverletzung - sofortige Beseitigung online; ggf. Heftrueckruf.
-   - Stufe D: Strafrechtsrelevant (Beleidigung, Verleumdung, Volksverhetzung) - Sofortmassnahme und Justiziariatseinbindung.
+ - Stufe A: Tippfehler ohne Rufwirkung - keine Massnahme, Korrektur in der naechsten Auflage.
+ - Stufe B: Sachfehler mit Praxiswirkung - Richtigstellung online und in der naechsten Heftausgabe.
+ - Stufe C: Persoenlichkeits- oder Kreditverletzung - sofortige Beseitigung online; ggf. Heftrueckruf.
+ - Stufe D: Strafrechtsrelevant (Beleidigung, Verleumdung, Volksverhetzung) - Sofortmassnahme und Justiziariatseinbindung.
 3. **Sofortmassnahmen.**
-   - Online: Beitrag depublizieren oder mit korrigierter Fassung ersetzen; Datenbankanbieter informieren (juris, beck-online).
-   - Print: Versand stoppen, Buchhandel benachrichtigen, Remissionsangebot.
-   - Loseblatt: Austauschblatt mit Hinweis fuer Abonnenten.
+ - Online: Beitrag depublizieren oder mit korrigierter Fassung ersetzen; Datenbankanbieter informieren (juris, beck-online).
+ - Print: Versand stoppen, Buchhandel benachrichtigen, Remissionsangebot.
+ - Loseblatt: Austauschblatt mit Hinweis fuer Abonnenten.
 4. **Kommunikation.** An Betroffene, an Autor, an Abonnenten, an Pressevertreter (wenn der Fehler bereits oeffentlich ist).
 5. **Schadensabwehr.** Versicherung pruefen (Verlagshaftpflicht, Vermoegensschadenhaftpflicht); Justiziariat einbinden.
 6. **Dokumentation.** Chronologie, Beschluesse, Mailverkehr, Pressemitteilungen archivieren.
@@ -195,13 +195,13 @@ Mit freundlichen Gruessen
 
 ## 2. `verl-screenshot-pdf-ocr-redaktion`
 
-**Fokus:** Fuehrt einen sauberen OCR-Workflow fuer gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt.
+**Fokus:** Fuehrt einen sauberen OCR-fuer gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt.
 
 # Screenshot / PDF-OCR-Workflow
 
 ## Worum geht es konkret
 
-Autorinnen, Mandantinnen oder Fremdmaterial liegen oft als gescannte PDFs oder als Screenshots vor: alte Festschriftsbeitraege, Bescheidkopien, ausgedruckte und wieder eingescannte Aufsaetze. OCR ist Pflicht, aber OCR-Ergebnisse sind nie sauber. Dieser Skill fuehrt durch den vollstaendigen OCR-Workflow inklusive Fehlerquoten-Stichprobe.
+Autorinnen, Mandantinnen oder Fremdmaterial liegen oft als gescannte PDFs oder als Screenshots vor: alte Festschriftsbeitraege, Bescheidkopien, ausgedruckte und wieder eingescannte Aufsaetze. OCR ist Pflicht, aber OCR-Ergebnisse sind nie sauber. Dieser Skill fuehrt durch den vollstaendigen OCR-inklusive Fehlerquoten-Stichprobe.
 
 ## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
@@ -580,11 +580,11 @@ Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
 1. **Stilraum festlegen.** In einem Satz: welcher Ton soll im Text durchhalten.
 2. **Stichprobe lesen.** Zufaellig 3 Absaetze aus erster, mittlerer und letzter Manuskripthaelfte - faellt eine Stelle aus dem Stilraum?
 3. **Stoerwortliste durchlaufen:**
-   - Umgangssprache ("eigentlich", "irgendwie", "ja", "halt").
-   - Marketingsprache ("innovativ", "wegweisend", "bahnbrechend").
-   - KI-typische Phrasen ("in der Regel", "es ist hervorzuheben", "diesbezueglich", "im Hinblick auf", "letztendlich").
-   - Floskeln ("an dieser Stelle sei darauf hingewiesen", "wie eingangs erwaehnt").
-   - Modalitaets-Schwaeche ("man koennte sagen", "es waere denkbar").
+ - Umgangssprache ("eigentlich", "irgendwie", "ja", "halt").
+ - Marketingsprache ("innovativ", "wegweisend", "bahnbrechend").
+ - KI-typische Phrasen ("in der Regel", "es ist hervorzuheben", "diesbezueglich", "im Hinblick auf", "letztendlich").
+ - Floskeln ("an dieser Stelle sei darauf hingewiesen", "wie eingangs erwaehnt").
+ - Modalitaets-Schwaeche ("man koennte sagen", "es waere denkbar").
 4. **Ironie und Sarkasmus pruefen.** In Fachzeitschriften selten zulaessig; in Editorials oder Glossen erlaubt.
 5. **Eigene Stilbrueche durch Lektoratseingriffe.** Wo das Lektorat eingegriffen hat, kann es selber Stilbrueche verursacht haben.
 6. **KI-Verdacht.** Bei gleichfoermigen Absatzrhythmen, fehlenden Pinpoints, generischen Aussagen markieren.

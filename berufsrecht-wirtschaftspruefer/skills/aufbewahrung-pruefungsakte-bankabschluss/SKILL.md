@@ -1,13 +1,13 @@
 ---
 name: aufbewahrung-pruefungsakte-bankabschluss
-description: "Nutze dies, wenn Wirtschaftspruefer Aufbewahrung Pruefungsakte Rechtsprechungsch, Wirtschaftspruefer Bankabschluss Und Regulatorik Rechtsprechung, Wirtschaftspruefer Berufsgesellschaft Zulassung Rechtsprechungs, Wirtschaftspruefer Datenpanne Pruefungsakte Rechtsprechungschec, Wirtschaftspruefer Esg Csrd Prüfung Rechtsprechungscheck Und R im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Aufbewahrung Pruefungsakte Rechtsprechungsch, Wirtschaftspruefer Bankabschluss Und Regulatorik Rechtsprechung, Wirtschaftspruefer Berufsgesellschaft Zulassung Rechtsprechungs, Wirtschaftspruefer Datenpanne Pruefungsakte Rechtsprechungschec, Wirtschaftspruefer Esg Csrd Prüfung Rechtsprechungscheck Und R prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Aufbewahrung Pruefungsakte Rechtsprechungsch, Wirtschaftspruefer Bankabschluss Und Regulatorik Rechtsprechung, Wirtschaftspruefer Berufsgesellschaft Zulassung Rechtsprechungs, Wirtschaf..."
+description: "Nutze dies bei Wirtschaftspruefer Aufbewahrung Pruefungsakte Rechtsprechungsch, Wirtschaftspruefer Bankabschluss Und Regulatorik Rechtsprechung, Wirtschaftspruefer Berufsgesellschaft Zulassung Rechtsprechungs, Wirtschaftspruefer Datenpanne Pruefungsakte Rechtsprechungschec: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Aufbewahrung Pruefungsakte Rechtsprechungsch, Wirtschaftspruefer Bankabschluss Und Regulatorik Rechtsprechung, Wirtschaftspruefer Berufsgesellschaft Zulassung Rechtsprechungs, Wirtschaftspruefer Datenpanne Pruefungsakte Rechtsprechungschec, Wirtschaftspruefer Esg Csrd Prüfung Rechtsprechungscheck Und R
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Aufbewahrung Pruefungsakte Rechtsprechungsch, Wirtschaftspruefer Bankabschluss Und Regulatorik Rechtsprechung, Wirtschaftspruefer Berufsgesellschaft Zulassung Rechtsprechungs, Wirtschaftspruefer Datenpanne Pruefungsakte Rechtsprechungschec, Wirtschaftspruefer Esg Csrd Prüfung Rechtsprechungscheck Und R** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

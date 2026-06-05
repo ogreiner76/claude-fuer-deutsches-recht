@@ -1,13 +1,13 @@
 ---
 name: bea-passive-berufsausuebungsgesellschaft
-description: "Nutze dies, wenn Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Rechtsprech, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Kammerant, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Organisat, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Rechtspre, Anwälte Berufsrechtliche Notfallkommunikation Kammerantwort Un im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Rechtsprech, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Kammerant, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Organisat, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Rechtspre, Anwälte Berufsrechtliche Notfallkommunikation Kammerantwort Un prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Rechtsprech, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Kammerant, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Organisat, Anwälte Berufsausuebungsgesell..."
+description: "Nutze dies bei Anwaelte Bea Passive Nutzung Und Empfangsbekenntnis Rechtsprech, Anwaelte Berufsausuebungsgesellschaft Und Fremdbesitz Kammerant, Anwaelte Berufsausuebungsgesellschaft Und Fremdbesitz Organisat, Anwaelte Berufsausuebungsgesellschaft Und Fremdbesitz Rechtspre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Rechtsprech, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Kammerant, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Organisat, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Rechtspre, Anwälte Berufsrechtliche Notfallkommunikation Kammerantwort Un
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Bea Passive Nutzung Und Empfangsbekenntnis Rechtsprech, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Kammerant, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Organisat, Anwälte Berufsausuebungsgesellschaft Und Fremdbesitz Rechtspre, Anwälte Berufsrechtliche Notfallkommunikation Kammerantwort Un** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

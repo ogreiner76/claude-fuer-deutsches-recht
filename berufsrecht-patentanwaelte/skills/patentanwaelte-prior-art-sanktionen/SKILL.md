@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-prior-art-sanktionen
-description: "Nutze dies, wenn Patentanwaelte Prior Art Fehler Und Meldepflicht Rechtsprechung, Patentanwaelte Sanktionen Und Russlandbezug Rechtsprechungschec, Patentanwaelte Schutzrechtsrecherche Und Haftung Rechtsprechung, Patentanwaelte Sozietaet Mit Rechtsanwaelten Rechtsprechungsche im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Prior Art Fehler Und Meldepflicht Rechtsprechung, Patentanwaelte Sanktionen Und Russlandbezug Rechtsprechungschec, Patentanwaelte Schutzrechtsrecherche Und Haftung Rechtsprechung, Patentanwaelte Sozietaet Mit Rechtsanwaelten Rechtsprechungsche prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Prior Art Fehler Und Meldepflicht Rechtsprechung, Patentanwaelte Sanktionen Und Russlandbezug Rechtsprechungschec, Patentanwaelte Schutzrechtsrecherche Und Haftung Rechtsprechung, Patentanwaelte Sozietaet Mit Rechtsanwaelten Rechtsprechungsche.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentanwaelte Prior Art Fehler Und Meldepflicht Rechtsprechung, Patentanwaelte Sanktionen Und Russlandbezug Rechtsprechungschec, Patentanwaelte Schutzrechtsrecherche Und Haftung Rechtsprechung, Patentanwaelte Sozietaet Mit Rechtsanwaelten Rechtsprechungsche: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Prior Art Fehler Und Meldepflicht Rechtsprechung, Patentanwaelte Sanktionen Und Russlandbezug Rechtsprechungschec, Patentanwaelte Schutzrechtsrecherche Und Haftung Rechtsprechung, Patentanwaelte Sozietaet Mit Rechtsanwaelten Rechtsprechungsche
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Prior Art Fehler Und Meldepflicht Rechtsprechung, Patentanwaelte Sanktionen Und Russlandbezug Rechtsprechungschec, Patentanwaelte Schutzrechtsrecherche Und Haftung Rechtsprechung, Patentanwaelte Sozietaet Mit Rechtsanwaelten Rechtsprechungsche** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

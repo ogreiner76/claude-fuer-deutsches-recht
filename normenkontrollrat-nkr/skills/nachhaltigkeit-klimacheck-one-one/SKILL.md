@@ -1,19 +1,19 @@
 ---
 name: nachhaltigkeit-klimacheck-one-one
-description: "Nutze dies, wenn Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung prüfen.; Erstelle eine Arbeitsfassung zu Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `nkr-nachhaltigkeit-klimacheck-und-vereinbarkeit` | Spezialskill Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten. |
+| `nkr-nachhaltigkeit-klimacheck-und-vereinbarkeit` | Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten. |
 | `nkr-one-in-one-out-bilanz-und-buchung` | One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen fuer die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilan
 
 ## 1. `nkr-nachhaltigkeit-klimacheck-und-vereinbarkeit`
 
-**Fokus:** Spezialskill Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten.
+**Fokus:** Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten.
 
 # NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit
 

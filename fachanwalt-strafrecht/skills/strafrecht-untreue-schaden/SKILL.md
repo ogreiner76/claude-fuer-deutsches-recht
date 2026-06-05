@@ -1,13 +1,13 @@
 ---
 name: strafrecht-untreue-schaden
-description: "Nutze dies, wenn Strafrecht Spezial Untreue Schaden Und Bezifferbarkeit, Strafrecht Spezial Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Spezial Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Spezial Steuerstrafrecht 370A Ao Bandenmaessig im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial Untreue Schaden Und Bezifferbarkeit, Strafrecht Spezial Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Spezial Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Spezial Steuerstrafrecht 370A Ao Bandenmaessig prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial Untreue Schaden Und Bezifferbarkeit, Strafrecht Spezial Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Spezial Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Spezial Steuerstrafre..."
+description: "Nutze dies bei Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafrecht Spezial Untreue Schaden Und Bezifferbarkeit, Strafrecht Spezial Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Spezial Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Spezial Steuerstrafrecht 370A Ao Bandenmaessig
+# Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Steuerstrafrecht 370A Ao Bandenmaessig
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Steuerstrafrecht 370A Ao Bandenmaessig** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Untreue Schaden Und Bezifferbarkeit, Strafrecht Spezial Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Spezial Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Spezial Steuerstrafrecht 370A Ao Bandenmaessig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Untreue Schaden Und Bezifferbarkeit, Strafrecht Verbandssanktionengesetz Stand 2026, Strafprozess Akteneinsicht Nachlieferungen Und Sonderbaende, Strafrecht Steuerstrafrecht 370 Ao Steuerhinterziehung, Strafrecht Steuerstrafrecht 370A Ao Bandenmaessig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -361,7 +361,7 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 - **Vorsatz konsequent angreifen.** Bei komplexen Steuersachverhalten (z. B. internationale Strukturen, Umsatzsteuer-Karussell-Vorstrukturen) ist Vorsatz schwer zu beweisen. Steuerberatung dokumentieren — fuehrt regelmaessig zu Vorsatzausschluss oder Strafmilderung.
 - **Verkuerzungsbetrag bestreiten.** Selbstaendige Schaetzung der Finanzbehoerde nach Paragraph 162 AO ist nicht bindend fuer das Strafgericht. Substantiierte Gegenrechnung, ggf. mit Steuerberater. Bei Schwarzeinnahmen-Vorwuerfen: Gegenrechnungen zu Betriebsausgaben, USt-Vorsteuerabzug.
 - **Schwelle "grosses Ausmass" 50.000 Euro je Tat.** Tat im prozessualen Sinn = ein Veranlagungszeitraum, eine Steuerart. Bei mehreren Veranlagungszeitraeumen Summierung nicht zulaessig (BGH-Rspr.); Strafverfolgung muss je Tat schwelle pruefen.
-- **Selbstanzeige Paragraph 371 AO** als zentrale Verteidigungsstrategie — siehe Spezialskill. Strenge Voraussetzungen seit Reform 2015.
+- **Selbstanzeige Paragraph 371 AO** als zentrale Verteidigungsstrategie — siehe Fachmodul. Strenge Voraussetzungen seit Reform 2015.
 - **Korrekturanzeige Paragraph 153 AO.** Nachtraegliche Berichtigung pflichtwidriger Angaben ist gesetzliche Pflicht; bei rechtzeitiger Korrektur tritt Vorsatzausschluss ein.
 - **Verbotsirrtum bei internationalen Strukturen.** Mandant glaubte, auslaendische Konstruktion sei legal; Beratung durch Steuerberater oder Anwalt entlastet.
 

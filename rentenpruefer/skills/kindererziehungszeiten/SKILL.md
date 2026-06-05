@@ -1,13 +1,13 @@
 ---
 name: kindererziehungszeiten
-description: "Nutze dies, wenn Kindererziehungszeiten Und Beruecksichtigungszeiten, Kontenklaerung Drv im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Kindererziehungszeiten Und Beruecksichtigungszeiten, Kontenklaerung Drv prüfen.; Erstelle eine Arbeitsfassung zu Kindererziehungszeiten Und Beruecksichtigungszeiten, Kontenklaerung Drv.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kindererziehungszeiten Und Beruecksichtigungszeiten, Kontenklaerung Drv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kindererziehungszeiten Und Beruecksichtigungszeiten, Kontenklaerung Drv
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kindererziehungszeiten Und Beruecksichtigungszeiten, Kontenklaerung Drv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

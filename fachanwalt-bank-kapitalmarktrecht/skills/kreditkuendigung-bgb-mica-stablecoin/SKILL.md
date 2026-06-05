@@ -1,13 +1,13 @@
 ---
 name: kreditkuendigung-bgb-mica-stablecoin
-description: "Nutze dies, wenn Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung 490 Bgb, Fachanwalt Bank Kapitalmarktrecht Mica Stablecoin Art 16 Bafin, Fachanwalt Bank Kapitalmarktrecht Ombudsmann Bafin Schlichtung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -120,7 +120,7 @@ Hinweis: Für die spezifischen Anforderungen des § 490 BGB (außerordentliche K
 ### Schritt 1 — Sofortiger Widerspruch (binnen 2 Wochen)
 
 ```
-[Kanzlei]                                            [Ort, Datum]
+[Kanzlei] [Ort, Datum]
 
 [Bank]
 [Anschrift]
@@ -136,24 +136,24 @@ des oben bezeichneten Kreditvertrags ist unwirksam.
 Begründung:
 
 1. Fehlende Vorwarnung: Bei einer Kreditbeziehung von
-   [x] Jahren war eine Vorwarnung vor Kündigung nach dem
-   Grundsatz der Verhältnismäßigkeit und Vertragstreue
-   regelmäßig erforderlich (analoge Anwendung des
-   Rechtsgedankens aus § 314 Abs. 2 BGB; konkrete
-   Aktenzeichen XI. ZS / III. ZS BGH vor Versand in
-   juris.bundesgerichtshof.de oder dejure.org aufrufen
-   und mit Randnummer einsetzen). Eine solche ist nicht
-   erfolgt.
+ [x] Jahren war eine Vorwarnung vor Kündigung nach dem
+ Grundsatz der Verhältnismäßigkeit und Vertragstreue
+ regelmäßig erforderlich (analoge Anwendung des
+ Rechtsgedankens aus § 314 Abs. 2 BGB; konkrete
+ Aktenzeichen XI. ZS / III. ZS BGH vor Versand in
+ juris.bundesgerichtshof.de oder dejure.org aufrufen
+ und mit Randnummer einsetzen). Eine solche ist nicht
+ erfolgt.
 
 2. Keine wesentliche Vermögensverschlechterung: Die
-   von Ihnen genannten Umstände [konkret benennen]
-   begründen keine wesentliche Verschlechterung i.S.d.
-   § 490 Abs. 1 BGB. Unsere aktuelle BWA weist
-   [positive Indikatoren] aus (Anlage [Nr.]).
+ von Ihnen genannten Umstände [konkret benennen]
+ begründen keine wesentliche Verschlechterung i.S.d.
+ § 490 Abs. 1 BGB. Unsere aktuelle BWA weist
+ [positive Indikatoren] aus (Anlage [Nr.]).
 
 3. Liquiditätsplan: Wir legen Ihnen anbei einen
-   3-monatigen Liquiditätsplan vor, der die Fortführung
-   der Kreditbedienung belegt (Anlage [Nr.]).
+ 3-monatigen Liquiditätsplan vor, der die Fortführung
+ der Kreditbedienung belegt (Anlage [Nr.]).
 
 Wir bitten um Rücknahme der Kündigung und Fortsetzung
 des Kreditverhältnisses zu den bisherigen Konditionen.
@@ -280,7 +280,7 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 
 ## Prüfschema Lizenzierung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
@@ -296,7 +296,7 @@ Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Ref
 | 9 | Signifikant-Schwelle geprüft? | Art. 43 MiCA | Erhöhte Pflichten ab Schwellenwert |
 | 10 | Notifizierung ESMA nach Zulassung? | Art. 64 MiCA | Kein EU-Pass |
 
-## Workflow Lizenzierung
+## Lizenzierung
 
 ### Phase 1 — Token-Klassifikation (4–6 Wochen)
 
@@ -418,21 +418,21 @@ Vollziehung.
 Begründung:
 
 1. Eigenmittelprüfung:
-   Die BaFin hat EUR [Betrag] als unzureichend erachtet.
-   Die korrekte Berechnung nach Art. 35 MiCA ergibt:
-   Ø Reserve = EUR [Betrag]; 2 % = EUR [Betrag].
-   Die Eigenmittel von EUR [Betrag] genügen.
+ Die BaFin hat EUR [Betrag] als unzureichend erachtet.
+ Die korrekte Berechnung nach Art. 35 MiCA ergibt:
+ Ø Reserve = EUR [Betrag]; 2 % = EUR [Betrag].
+ Die Eigenmittel von EUR [Betrag] genügen.
 
 2. Reserve-Verwahrung:
-   Der Custodian-Vertrag mit [Bank] weist die 30 %-Quote
-   der Art. 38 MiCA nach (Anlage [Nr.]).
+ Der Custodian-Vertrag mit [Bank] weist die 30 %-Quote
+ der Art. 38 MiCA nach (Anlage [Nr.]).
 
 3. Whitepaper-Vollständigkeit:
-   Die BaFin rügt fehlende Klimafolgenabschätzung nach
-   Art. 19 Abs. 1 lit. j MiCA. Diese ist als Anlage [Nr.]
-   beigefügt und wurde im Ursprungsantrag als Anhang 12
-   eingereicht. Beleg: Antrag-Einreichungsprotokoll v.
-   [Datum], Seite [X].
+ Die BaFin rügt fehlende Klimafolgenabschätzung nach
+ Art. 19 Abs. 1 lit. j MiCA. Diese ist als Anlage [Nr.]
+ beigefügt und wurde im Ursprungsantrag als Anhang 12
+ eingereicht. Beleg: Antrag-Einreichungsprotokoll v.
+ [Datum], Seite [X].
 
 [Rechtsanwalt/-anwaeltin]
 ```
@@ -521,7 +521,7 @@ Außergerichtliche Beschwerde- und Schlichtungsverfahren im Bank-/Kapitalmarktre
 
 ## Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 ### Phase 1 — Vorgerichtliche Bank-Korrespondenz
@@ -623,10 +623,10 @@ Postfach 04 03 07
 
 Schlichtungsantrag nach VSBG
 
-Antragsteller:     [NAME MANDANT], [ADRESSE]
-Antragsgegner:     [BANK], [ANSCHRIFT]
-Kontonummer:       [NR.]
-Streitwert:        EUR [BETRAG]
+Antragsteller: [NAME MANDANT], [ADRESSE]
+Antragsgegner: [BANK], [ANSCHRIFT]
+Kontonummer: [NR.]
+Streitwert: EUR [BETRAG]
 
 Sachverhalt (kurz):
 Am [DATUM] empfahl die Bank meiner Mandantschaft das

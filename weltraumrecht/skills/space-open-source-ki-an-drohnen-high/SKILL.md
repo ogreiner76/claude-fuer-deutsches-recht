@@ -1,13 +1,13 @@
 ---
 name: space-open-source-ki-an-drohnen-high
-description: "Nutze dies, wenn Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung im Plugin Weltraumrecht konkret bearbeitet werden soll. Auslöser: Bitte Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung prüfen.; Erstelle eine Arbeitsfassung zu Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

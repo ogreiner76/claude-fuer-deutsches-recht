@@ -31,8 +31,8 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 2. Grundsatzfeststellung (Zielsetzung; NKR-Position)
 3. Methodische Bewertung der Erfuellungsaufwand-Darstellung
 4. Pruefraster-Ergebnisse (Erforderlichkeit, Alternativen,
-   Verhaeltnismaessigkeit, KMU, Praktikabilitaet, Digital, OIOO,
-   Evaluation)
+ Verhaeltnismaessigkeit, KMU, Praktikabilitaet, Digital, OIOO,
+ Evaluation)
 5. Spezialthemen (EU, Digital, Sektor)
 6. Empfehlungen
 7. Ergebnis (foermliche Schlussbewertung)
@@ -82,9 +82,9 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 ### Abschnitt 7 — Ergebnis (Schlussbewertung)
 
 - Standardformeln:
-  - "Der NKR hat im Rahmen seines gesetzlichen Auftrags keine Einwaende gegen die Darstellung der Gesetzesfolgen."
-  - "Der NKR hat Einwaende gegen die Darstellung des Erfuellungsaufwands."
-  - "Der NKR macht im Hinblick auf den Erfuellungsaufwand folgende Bemerkungen / Empfehlungen."
+ - "Der NKR hat im Rahmen seines gesetzlichen Auftrags keine Einwaende gegen die Darstellung der Gesetzesfolgen."
+ - "Der NKR hat Einwaende gegen die Darstellung des Erfuellungsaufwands."
+ - "Der NKR macht im Hinblick auf den Erfuellungsaufwand folgende Bemerkungen / Empfehlungen."
 
 ### Abschnitt 8 — Hinweise
 

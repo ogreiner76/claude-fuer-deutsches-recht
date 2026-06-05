@@ -1,13 +1,13 @@
 ---
 name: anw-grundsteuerwert-bewertung-triage
-description: "Nutze dies, wenn Anw Grundsteuerwert Bewertung Bewg 218Ff, Anw Mandat Triage Steuerrecht, Anw Minbestg Pillar2 Konzernbesteuerung, Anw Orientierung, Anw Selbstanzeige 371 und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Anw Grundsteuerwert Bewertung Bewg 218Ff, Anw Mandat Triage Steuerrecht, Anw Minbestg Pillar2 Konzernbesteuerung, Anw Orientierung, Anw Selbstanzeige 371 und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Anw Grundsteuerwert Bewertung Bewg 218Ff, Anw Mandat Triage Steuerrecht, Anw Minbestg Pillar2 Konzernbesteuerung, Anw Orientierung, Anw Selbstanzeige 371 und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anw Grundsteuerwert Bewertung Bewg 218ff, Anw Mandat Triage Steuerrecht, Anw Minbestg Pillar2 Konzernbesteuerung, Anw Orientierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anw Grundsteuerwert Bewertung Bewg 218Ff, Anw Mandat Triage Steuerrecht, Anw Minbestg Pillar2 Konzernbesteuerung, Anw Orientierung, Anw Selbstanzeige 371 und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anw Grundsteuerwert Bewertung Bewg 218Ff, Anw Mandat Triage Steuerrecht, Anw Minbestg Pillar2 Konzernbesteuerung, Anw Orientierung, Anw Selbstanzeige 371 und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,12 +16,12 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `anw-grundsteuerwert-bewertung-bewg-218ff` | Grundsteuerwert nach BewG §§ 218 ff. prüfen: Bundesmodell, Ertragswert, Sachwert, Bodenrichtwert, Grundstücksart, Steuermesszahl, Hauptfeststellung 01.01.2022, Fehlerdiagnose und Bescheidbegründung. |
 | `anw-mandat-triage-steuerrecht` | Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Aussenprüfung Selbstanzeige AdV verbindliche Auskunft Klage FG. Sofort-Fristen Einspruch § 355 AO ein Monat Jahresfrist § 356 AO Klage § 47 FGO. Eskalation Telefon-Sofort bei Selbstanzeige-Bedarf Hausdurchsuchung Steuerfahndung drohender Vollziehung. Output Triage-Ergebnis Fristenprotokoll naechste Schritte. Abgrenzung zu anw-kaltstart-interview Kanzlei-Konfiguration. |
 | `anw-minbestg-pillar2-konzernbesteuerung` | Beratung zur globalen Mindestbesteuerung Pillar Two MinBestG für Konzerne ab 750 Mio EUR Umsatz. Anwendungsfall Konzern fragt nach GloBE-Pflichten Compliance-Aufbau oder Country-by-Country Reporting ab 01.01.2024. MinBestG vom 21.12.2023. GloBE-Regeln IIR Income Inclusion Rule UTPR Undertaxed Profits Rule QDMTT Qualified Domestic Minimum Top-up Tax 15 Prozent globaler Mindeststeuersatz. Berechnung effektiver Steuersatz Top-Up Tax Steuererklärung. Output Compliance-Prüfprotokoll Reporting-Konzept Beratungsmemo. Abgrenzung zu anw-organschaft-konzern-grundlagen inlaendische Konzernstruktur. |
-| `anw-orientierung` | Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick über verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenprüfung §§ 193 ff. AO FG-Klage FGO Revision BFH Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. verifizierbare Quellen lizenzpflichtige Literaturquellen HHSp L. Schmidt EStG. Output Überblick verfuegbare Skills und Routing zu Spezial-Skills. FAO § 9 Fachanwaltsvoraussetzungen als Anhang. |
+| `anw-orientierung` | Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick über verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenprüfung §§ 193 ff. AO FG-Klage FGO Revision BFH Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. verifizierbare Quellen lizenzpflichtige Literaturquellen HHSp L. Schmidt EStG. Output Überblick verfuegbare Skills und Routing zu Fachmodule. FAO § 9 Fachanwaltsvoraussetzungen als Anhang. |
 | `anw-selbstanzeige-371` | Selbstanzeige nach § 371 AO als strafbefreiende Berichtigung bei Steuerhinterziehung vorbereiten und einreichen. Anwendungsfall Mandant hat Steuern hinterzogen und will Straffreiheit erlangen bevor Entdeckung droht. Vollständigkeit aller unverjährten Steuerstraftaten zehn Jahre § 376 AO ggf. 15 Jahre Sperrgründe § 371 Abs. 2 AO Nachentrichtung § 371 Abs. 3 AO Zinsen § 235 AO Zuschlag § 398a AO gestaffelt. Abgrenzung § 153 AO Berichtigungspflicht ohne Strafbefreiung zu § 371 AO Vorsatz und § 378 Abs. 3 AO Leichtfertigkeit. Output Berichtigungserklärung. Pflichtprüfung Hoechstrisikobereich mehrere Anwaelte. |
 | `anw-steuerbescheid-analyse` | Steuerbescheid strukturiert auswerten und Angriffspunkte für Einspruch identifizieren. Anwendungsfall Mandant hat Steuerbescheid bekommen und fragt ob und wie er sich wehren kann. Bescheidarten Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Prüfungsbescheid. Erfasst Steuerart Veranlagungsjahr Nachforderung oder Erstattung Vorlaeufigkeitsvermerk Vorbehalt der Nachprüfung § 164 AO Aenderungsvorschriften §§ 172 ff. AO Bekanntgabe § 122 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG. Output Analyse-Protokoll Angriffspunkte Fristenstatus Empfehlung Einspruch oder Akzeptanz. Nahtloser Übergang zu anw-einspruch-finanzamt. |
-| `anw-steuerstrafverteidigung-verstaendigung` | Workflow-Skill zu anw steuerstrafverteidigung verstaendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `anw-steuerstrafverteidigung-verstaendigung` | Arbeitsmodul zu anw steuerstrafverteidigung verstaendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `anw-stundung-erlass-vollstreckungsaufschub` | Anträge auf Stundung Erlass und Vollstreckungsaufschub bei Zahlungsproblemen stellen. Anwendungsfall Mandant kann fällige Steuerschulden vorueber-gehend oder dauerhaft nicht zahlen Vollstreckung droht. Stundung erhebliche Haerte § 222 AO ohne Anspruchsgefaehrdung. Erlass aus persoenlichen oder sachlichen Billigkeitsgründen § 227 AO. Vollstreckungsaufschub bei unbilligem Vollstreckungserfolg § 258 AO Verzinsung bei Stundung § 234 AO. Output Antrag mit Begründung Sicherheitsleistung Ratenzahlungsplan. Abgrenzung zu anw-aussetzung-vollziehung AdV und anw-insolvenzreife-prüfung-17-19-inso. |
-| `anw-umsatzsteuer-vorsteuerabzug-pruefen` | Workflow-Skill zu anw umsatzsteuer vorsteuerabzug pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `anw-umsatzsteuer-vorsteuerabzug-pruefen` | Arbeitsmodul zu anw umsatzsteuer vorsteuerabzug pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -340,9 +340,9 @@ Anwaltliche Beratung großer Konzerne zur globalen Mindestbesteuerung (OECD Pill
 - **§ 1 MinBestG** — Anwendungsbereich: multinationale und große inländische Unternehmensgruppen.
 - **§§ 7 ff. MinBestG** — Berechnung des effektiven Steuersatzes (ETR).
 - **§§ 11 ff. MinBestG** — Top-Up Tax (Ergänzungssteuer); drei Mechanismen:
-  - **IIR (Income Inclusion Rule)** — Mutterunternehmen versteuert niedrig besteuerte Tochter
-  - **UTPR (Undertaxed Profits Rule)** — Auffangregel bei nicht-IIR-Land
-  - **QDMTT (Qualified Domestic Minimum Top-up Tax)** — Land selbst erhebt Ergänzungssteuer
+ - **IIR (Income Inclusion Rule)** — Mutterunternehmen versteuert niedrig besteuerte Tochter
+ - **UTPR (Undertaxed Profits Rule)** — Auffangregel bei nicht-IIR-Land
+ - **QDMTT (Qualified Domestic Minimum Top-up Tax)** — Land selbst erhebt Ergänzungssteuer
 - **§§ 75–84 MinBestG** — Berichtspflichten: GloBE-Erklärung jährlich.
 - **§§ 88 ff. MinBestG** — Sanktionen bei Verstößen.
 
@@ -493,7 +493,7 @@ Stand: 05/2026. MinBestG seit 1.1.2024. OECD Administrative Guidance Stand Janua
 
 ## 4. `anw-orientierung`
 
-**Fokus:** Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick über verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenprüfung §§ 193 ff. AO FG-Klage FGO Revision BFH Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. verifizierbare Quellen lizenzpflichtige Literaturquellen HHSp L. Schmidt EStG. Output Überblick verfuegbare Skills und Routing zu Spezial-Skills. FAO § 9 Fachanwaltsvoraussetzungen als Anhang.
+**Fokus:** Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick über verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenprüfung §§ 193 ff. AO FG-Klage FGO Revision BFH Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. verifizierbare Quellen lizenzpflichtige Literaturquellen HHSp L. Schmidt EStG. Output Überblick verfuegbare Skills und Routing zu Fachmodule. FAO § 9 Fachanwaltsvoraussetzungen als Anhang.
 
 # Anwalt im Steuerrecht — Orientierung
 
@@ -666,30 +666,30 @@ Die Selbstanzeige ist **gesperrt**, wenn:
 
 ```
 1. Vollständigkeitsanalyse
-   - Alle Steuerarten und Zeiträume identifizieren.
-   - Mindestens 10 Kalenderjahre rückwärts; bei Geldbeträgen
-     prüfen ob § 376 AO greift (15 Jahre).
+ - Alle Steuerarten und Zeiträume identifizieren.
+ - Mindestens 10 Kalenderjahre rückwärts; bei Geldbeträgen
+ prüfen ob § 376 AO greift (15 Jahre).
 2. Sperrwirkungen § 371 Abs. 2 AO
-   - Liegt eine Sperrwirkung vor? Wenn ja, in welchem Umfang?
+ - Liegt eine Sperrwirkung vor? Wenn ja, in welchem Umfang?
 3. Berichtigungsumfang ermitteln
-   - Belegmäßige Aufarbeitung; Schätzung nur als ultima ratio
-     Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-     BGHSt 55, 180 Rn. 28).
+ - Belegmäßige Aufarbeitung; Schätzung nur als ultima ratio
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ BGHSt 55, 180 Rn. 28).
 4. Zahlbarkeit prüfen
-   - Hinterzogene Steuer + Hinterziehungszinsen § 235 AO + ggf.
-     Zuschlag § 398a AO. Stundung § 222 AO nur ausnahmsweise.
+ - Hinterzogene Steuer + Hinterziehungszinsen § 235 AO + ggf.
+ Zuschlag § 398a AO. Stundung § 222 AO nur ausnahmsweise.
 5. Abgrenzung § 153 AO vs. § 371 AO / § 378 Abs. 3 AO
-   - Ursprungserklärung: vorsätzlich / leichtfertig / einfach unrichtig?
-   - Bei Zweifel: Weg § 371 AO gehen.
+ - Ursprungserklärung: vorsätzlich / leichtfertig / einfach unrichtig?
+ - Bei Zweifel: Weg § 371 AO gehen.
 6. Erklärung formulieren
-   - Klare Bezeichnung als Berichtigungserklärung; Trennung
-     nach Steuerart und Veranlagungszeitraum.
+ - Klare Bezeichnung als Berichtigungserklärung; Trennung
+ nach Steuerart und Veranlagungszeitraum.
 7. Einreichung
-   - Direkt beim zuständigen Finanzamt; vorzugsweise vorab
-     telefonische Anzeige des Termins.
+ - Direkt beim zuständigen Finanzamt; vorzugsweise vorab
+ telefonische Anzeige des Termins.
 8. Begleitung Strafverfahren § 393 AO
-   - Mitwirkung im Steuerverfahren ruht, soweit Selbstbelastung
-     droht. Strafverteidigung separat sicherstellen.
+ - Mitwirkung im Steuerverfahren ruht, soweit Selbstbelastung
+ droht. Strafverteidigung separat sicherstellen.
 ```
 
 ## Aufbau der Berichtigungserklärung
@@ -725,7 +725,7 @@ Vollständige Bezugsbelege als Anlagen (Kontoauszüge Depotübersichten Belege a
 [Briefkopf]
 
 Finanzamt [Ort] — Strafsachen- und Bußgeldstelle
-[Anschrift]                                                       [Ort, Datum]
+[Anschrift] [Ort, Datum]
 
 Steuernummer: [SteuerNr]
 
@@ -737,19 +737,19 @@ namens und in Vollmacht von [Mandantin], geb. [Datum], wohnhaft [Anschrift], geb
 
 I. Berichtigte Bemessungsgrundlagen
 
-  Einkommensteuer
-  2015: Kapitaleinkünfte aus Konto Nr. […] bei […], CH, in Höhe von EUR […]
-  2016: …
-  […]
+ Einkommensteuer
+ 2015: Kapitaleinkünfte aus Konto Nr. […] bei […], CH, in Höhe von EUR […]
+ 2016: …
+ […]
 
-  Umsatzsteuer
-  […]
+ Umsatzsteuer
+ […]
 
 II. Anlagen
 
-  - Aufstellung Erträge je Veranlagungszeitraum (Anlage 1)
-  - Kontoauszüge / Depotauszüge (Anlage 2)
-  - Vollmacht (Anlage 3)
+ - Aufstellung Erträge je Veranlagungszeitraum (Anlage 1)
+ - Kontoauszüge / Depotauszüge (Anlage 2)
+ - Vollmacht (Anlage 3)
 
 III. Nachentrichtung
 
@@ -886,7 +886,7 @@ Analyseprotokoll mit:
 
 ## 7. `anw-steuerstrafverteidigung-verstaendigung`
 
-**Fokus:** Workflow-Skill zu anw steuerstrafverteidigung verstaendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu anw steuerstrafverteidigung verstaendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung
 
@@ -948,7 +948,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Prüfschema Steuerstrafverteidigung
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -1039,11 +1039,11 @@ in Höhe von EUR [Steufa-Betrag] nicht erklärt zu haben.
 Tatsächlich beläuft sich der zutreffende Hinterziehungsbetrag
 jedoch auf EUR [niedrigerer Betrag], weil:
 1. [Betrag] entfällt auf Ausgaben die fälschlicherweise nicht
-   als Betriebsausgaben erfasst wurden;
+ als Betriebsausgaben erfasst wurden;
 2. [Betrag] betrifft den VZ [Jahr], für den Verjährung
-   (§ 376 AO) eingetreten ist;
+ (§ 376 AO) eingetreten ist;
 3. [Betrag] entstammt einer Schätzung nach § 162 AO, die
-   methodisch angreifbar ist (Begründung: ...).
+ methodisch angreifbar ist (Begründung: ...).
 
 II. Zum Steuerschaden und seiner Begleichung
 
@@ -1058,13 +1058,13 @@ Wir regen die Einstellung des Verfahrens gegen eine Geldauflage
 gemäß § 153a StPO an. Die Voraussetzungen liegen vor:
 
 1. Die Schuld des Beschuldigten ist, gemessen am
-   tatsächlichen Hinterziehungsbetrag von EUR [Betrag],
-   nicht schwer.
+ tatsächlichen Hinterziehungsbetrag von EUR [Betrag],
+ nicht schwer.
 2. Der Steuerschaden ist vollständig beglichen.
 3. Der Beschuldigte ist nicht vorbestraft.
 4. Das öffentliche Interesse an der Strafverfolgung ist
-   durch die vollständige Schadensbegleichung hinreichend
-   gewahrt.
+ durch die vollständige Schadensbegleichung hinreichend
+ gewahrt.
 
 Wir schlagen eine Geldauflage von EUR [Betrag] (ca. [X] %
 des Hinterziehungsbetrags; orientiert an § 398a AO-Staffel)
@@ -1083,32 +1083,32 @@ PROTOKOLL VERSTÄNDIGUNGSGESPRÄCH
 
 Datum: [Datum]
 Teilnehmer: RA [Name] (Verteidiger), Staatsanwalt [Name] (StA),
-            Richter [Name] (Gericht), ggf. Beschuldigter
+ Richter [Name] (Gericht), ggf. Beschuldigter
 
 1. Sachverhalt des vorgeworfenen Verhaltens: [kurze Darstellung]
 
 2. Umfang des Geständnisses:
-   Der Beschuldigte hat bereit erklärt, folgende Taten zu gestehen:
-   [VZ X: Steuerart A, Betrag EUR y]
-   [VZ Y: Steuerart B, Betrag EUR z]
+ Der Beschuldigte hat bereit erklärt, folgende Taten zu gestehen:
+ [VZ X: Steuerart A, Betrag EUR y]
+ [VZ Y: Steuerart B, Betrag EUR z]
 
 3. Strafrahmen-Vereinbarung:
-   Einigkeit über Strafrahmen von [x] bis [y] Tagessätzen bzw.
-   Freiheitsstrafe [a]–[b] Monate auf Bewährung.
-   Voraussetzung: Vollständige Zahlung Steuerschaden bis [Datum].
+ Einigkeit über Strafrahmen von [x] bis [y] Tagessätzen bzw.
+ Freiheitsstrafe [a]–[b] Monate auf Bewährung.
+ Voraussetzung: Vollständige Zahlung Steuerschaden bis [Datum].
 
 4. Belehrung nach § 257c Abs. 5 StPO:
-   Der Beschuldigte wurde belehrt, dass das Gericht nicht an die
-   Verständigung gebunden ist, wenn es bei der Urteilsfindung
-   von einer in der Verständigung zu Grunde gelegten Bewertung
-   des Sachverhalts oder der Rechtslage abweicht. Der
-   Beschuldigte hat diese Belehrung zur Kenntnis genommen und
-   auf das Gespräch-Ergebnis hingewiesen.
+ Der Beschuldigte wurde belehrt, dass das Gericht nicht an die
+ Verständigung gebunden ist, wenn es bei der Urteilsfindung
+ von einer in der Verständigung zu Grunde gelegten Bewertung
+ des Sachverhalts oder der Rechtslage abweicht. Der
+ Beschuldigte hat diese Belehrung zur Kenntnis genommen und
+ auf das Gespräch-Ergebnis hingewiesen.
 
 5. Unterschriften:
-   RA [Name]: _____________
-   Beschuldigter: _____________
-   StA [Name]: _____________
+ RA [Name]: _____________
+ Beschuldigter: _____________
+ StA [Name]: _____________
 ```
 
 ### Baustein 3: Antrag auf Akteneinsicht § 147 StPO
@@ -1128,9 +1128,9 @@ umfassend:
 
 1. Die vollständige Strafakte mit allen Ermittlungsunterlagen;
 2. Die vollständigen Steuerakten einschließlich Außenprüfungsbericht
-   und Kontrollmitteilungen;
+ und Kontrollmitteilungen;
 3. Alle Steufa-Datenträger (USB, CD/DVD, elektronische Dateien)
-   die zur Ermittlung des Hinterziehungsbetrags herangezogen wurden;
+ die zur Ermittlung des Hinterziehungsbetrags herangezogen wurden;
 4. Sämtliche Bankabfragen und Kontrollmitteilungen.
 
 Wir weisen darauf hin, dass ohne vollständige Akteneinsicht keine
@@ -1268,7 +1268,7 @@ Voraussetzungen:
 ## Schreibvorlage Stundungsantrag (verkürzt)
 
 ```
-[Kanzlei-Briefkopf]                                          [Datum]
+[Kanzlei-Briefkopf] [Datum]
 
 An das
 Finanzamt [Ort]
@@ -1367,7 +1367,7 @@ Stand: 05/2026. § 234 AO Stundungszinssatz aktuell unverändert 0.5 %/Monat (ge
 
 ## 9. `anw-umsatzsteuer-vorsteuerabzug-pruefen`
 
-**Fokus:** Workflow-Skill zu anw umsatzsteuer vorsteuerabzug pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu anw umsatzsteuer vorsteuerabzug pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Umsatzsteuer-Vorsteuerabzug prüfen
 
@@ -1425,13 +1425,13 @@ Pflichtangaben § 14 Abs. 4 UStG:
 
 - **Empfangs-Pflicht**: Seit 1.1.2025 muss jeder inländische Unternehmer für inländische B2B-Umsätze eRechnungen empfangen können.
 - **Ausstellungs-Pflicht** (gestaffelt):
-  - bis 31.12.2026: Papier-/PDF-Rechnung mit Zustimmung des Empfaengers weiterhin zulaessig (Übergang)
-  - bis 31.12.2027: nur fuer Unternehmer mit Vorjahresumsatz ≤ 800 000 EUR Papier-Erleichterung
-  - ab 1.1.2028: vollständige eRechnungspflicht für alle B2B-Inlands-Umsätze
+ - bis 31.12.2026: Papier-/PDF-Rechnung mit Zustimmung des Empfaengers weiterhin zulaessig (Übergang)
+ - bis 31.12.2027: nur fuer Unternehmer mit Vorjahresumsatz ≤ 800 000 EUR Papier-Erleichterung
+ - ab 1.1.2028: vollständige eRechnungspflicht für alle B2B-Inlands-Umsätze
 - **Format**: strukturiertes, maschinenlesbares Format nach EN 16931 (z. B. **XRechnung** oder **ZUGFeRD ab Profil EN-16931**); reines PDF ohne strukturierte XML-Daten ist KEINE eRechnung.
 - **Folge fehlerhafter Rechnung**: Vorsteuerabzug nach § 15 Abs. 1 UStG kann verweigert werden, wenn Rechnungspflicht eRechnung verletzt ist. Massgebend:
-  - **BMF-Schreiben vom 15.10.2024**, GZ III C 2 - S 7287-a/23/10001 :007 (Einfuehrungsschreiben eRechnung).
-  - **BMF-Schreiben vom 15.10.2025**, GZ III C 2 - S 7287-a/00019/007/243 (Zweites Anwendungsschreiben mit Anpassung des UStAE; unterscheidet Format- und Inhaltsfehler-Klassen; Validierungsempfehlung des Senders, Pruefpflichten des Empfaengers).
+ - **BMF-Schreiben vom 15.10.2024**, GZ III C 2 - S 7287-a/23/10001 :007 (Einfuehrungsschreiben eRechnung).
+ - **BMF-Schreiben vom 15.10.2025**, GZ III C 2 - S 7287-a/00019/007/243 (Zweites Anwendungsschreiben mit Anpassung des UStAE; unterscheidet Format- und Inhaltsfehler-Klassen; Validierungsempfehlung des Senders, Pruefpflichten des Empfaengers).
 - **Ausnahmen**: Kleinbetragsrechnungen ≤ 250 EUR § 33 UStDV; Fahrausweise § 34 UStDV; Umsätze an Endverbraucher (B2C) bleiben außerhalb.
 
 ## Schritt 2 — Ausschluss § 15 Abs. 2 UStG

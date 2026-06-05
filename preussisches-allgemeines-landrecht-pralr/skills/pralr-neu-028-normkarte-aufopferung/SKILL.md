@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-028-normkarte-aufopferung
-description: "Nutze dies, wenn PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft

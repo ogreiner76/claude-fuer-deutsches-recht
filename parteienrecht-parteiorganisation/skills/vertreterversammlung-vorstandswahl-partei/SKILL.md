@@ -1,13 +1,13 @@
 ---
 name: vertreterversammlung-vorstandswahl-partei
-description: "Nutze dies, wenn Vertreterversammlung, Vorstandswahl Partei, Waehlergruppe Vs Partei im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Vertreterversammlung, Vorstandswahl Partei, Waehlergruppe Vs Partei prüfen.; Erstelle eine Arbeitsfassung zu Vertreterversammlung, Vorstandswahl Partei, Waehlergruppe Vs Partei.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vertreterversammlung, Vorstandswahl Partei, Waehlergruppe Vs Partei: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vertreterversammlung, Vorstandswahl Partei, Waehlergruppe Vs Partei
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vertreterversammlung, Vorstandswahl Partei, Waehlergruppe Vs Partei** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Vertreterversammlung, Vorstandswahl Partei, Waehlergruppe Vs Partei** zue
 ## Aufgabe
 Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Bereitet Vorstandswahl nach Satzung und PartG vor, inklusive Annahme, Protokoll, Amtszeit und Übergabe.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erklärt Abgrenzung Partei, kommunale Wählergruppe, Verein, Initiative und Folgen für Wahlrecht/Finanzen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,13 +1,13 @@
 ---
 name: ihl-incoterms-ihl-exw-ihl-cfr-ihl
-description: "Nutze dies, wenn Ihl 018 Incoterms 2020 Auswahl, Ihl 019 Exw Fca Fob Risiko, Ihl 020 Cfr Cif Cpt Cip, Ihl 026 Konnossement Und Seefrachtbrief im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 018 Incoterms 2020 Auswahl, Ihl 019 Exw Fca Fob Risiko, Ihl 020 Cfr Cif Cpt Cip, Ihl 026 Konnossement Und Seefrachtbrief prüfen.; Erstelle eine Arbeitsfassung zu Ihl 018 Incoterms 2020 Auswahl, Ihl 019 Exw Fca Fob Risiko, Ihl 020 Cfr Cif Cpt Cip, Ihl 026 Konnossement Und Seefrachtbrief.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ihl 018 Incoterms 2020 Auswahl, Ihl 019 Exw Fca Fob Risiko, Ihl 020 Cfr Cif Cpt Cip, Ihl 026 Konnossement Und Seefrachtbrief: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 018 Incoterms 2020 Auswahl, Ihl 019 Exw Fca Fob Risiko, Ihl 020 Cfr Cif Cpt Cip, Ihl 026 Konnossement Und Seefrachtbrief
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 018 Incoterms 2020 Auswahl, Ihl 019 Exw Fca Fob Risiko, Ihl 020 Cfr Cif Cpt Cip, Ihl 026 Konnossement Und Seefrachtbrief** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

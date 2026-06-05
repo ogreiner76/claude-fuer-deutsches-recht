@@ -1,12 +1,12 @@
 ---
 name: zeichenbudgets
-description: "Nutze dies, wenn Zeichenbudgets: Verhandlung, Vergleich und Eskalation im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Zeichenbudgets: Verhandlung, Vergleich und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Zeichenbudgets: Verhandlung, Vergleich und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zeichenbudgets: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Zeichenbudgets: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Zeichenbudgets: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Zeichenbudgets: Verhandlung, Vergleich und Eskalation / spezial zeichenbudgets verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Zeichenbudgets: Verhandlung, Vergleich und Eskalation / zeichenbudgets verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FZulG, BSFZ.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

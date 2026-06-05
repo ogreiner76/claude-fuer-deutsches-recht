@@ -1,13 +1,13 @@
 ---
 name: mandantenanfragen-anfrage-eingang-anrede
-description: "Nutze dies, wenn Spezial Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen
+# Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mandantenanfragen-assistent` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingang Parser, Anrede Uebernehmen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mandantenanfragen-assistent` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Mandantenanfragen Fristen Form Und Zustaendigkeit, Anfrage Eingan
 # Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg / spezial mandantenanfragen fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg / mandantenanfragen fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -143,22 +143,22 @@ Eingehende Mandantenanfragen sind oft unstrukturiert. Sie können als Fließtext
 PARSED ANFRAGE
 ==============
 
-Anrede (roh):        [Originaltext der Anrede / Grußformel]
-Name:                [Vollständiger Name mit Titeln]
-E-Mail:              [Absenderadresse]
-Telefon:             [Nummer oder "nicht genannt"]
-Weitere Kontakte:    [Adresse, Fax, etc. — oder "keine"]
+Anrede (roh): [Originaltext der Anrede / Grußformel]
+Name: [Vollständiger Name mit Titeln]
+E-Mail: [Absenderadresse]
+Telefon: [Nummer oder "nicht genannt"]
+Weitere Kontakte: [Adresse, Fax, etc. — oder "keine"]
 
-Rechtsgebiet:        [Ersteinschätzung oder "unklar"]
+Rechtsgebiet: [Ersteinschätzung oder "unklar"]
 Sachverhalt-Stichwörter:
-  - [Stichwort 1]
-  - [Stichwort 2]
-  - [...]
+ - [Stichwort 1]
+ - [Stichwort 2]
+ - [...]
 
-Beteiligte:          [Gegner/Behörde/weitere Personen oder "nicht genannt"]
+Beteiligte: [Gegner/Behörde/weitere Personen oder "nicht genannt"]
 Relevante Daten/Beträge: [oder "nicht genannt"]
 
-DRINGLICHKEIT:       [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
+DRINGLICHKEIT: [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
 Dringlichkeit-Grund: [Kurze Begründung oder "keiner erkannt"]
 ```
 

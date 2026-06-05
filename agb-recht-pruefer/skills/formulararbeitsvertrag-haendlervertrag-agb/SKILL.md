@@ -1,20 +1,20 @@
 ---
 name: formulararbeitsvertrag-haendlervertrag-agb
-description: "Nutze dies, wenn Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service, Klausel Entwerfen Aggressiv im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service, Klausel Entwerfen Aggressiv prüfen.; Erstelle eine Arbeitsfassung zu Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service, Klausel Entwerfen Aggressiv.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service, Klausel Entwerfen Aggressiv
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 Generalklausel, Klausel Checkliste Self Service, Klausel Entwerfen Aggressiv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `formulararbeitsvertrag` | Branchen-Spezialskill für Formulararbeitsvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `haendlervertrag-agb` | Branchen-Spezialskill für Haendlervertrag AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `formulararbeitsvertrag` | Branchen-Fachmodul für Formulararbeitsvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `haendlervertrag-agb` | Branchen-Fachmodul für Haendlervertrag AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `inhaltskontrolle-307-generalklausel` | Norm- und Dogmatik-Skill für Inhaltskontrolle 307 Generalklausel: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `klausel-checkliste-self-service` | Output- und Streit-Skill für Klausel Checkliste Self Service: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 | `klausel-entwerfen-aggressiv` | Output- und Streit-Skill für Klausel Entwerfen Aggressiv: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
@@ -28,7 +28,7 @@ Für **Formulararbeitsvertrag, Haendlervertrag Agb, Inhaltskontrolle 307 General
 
 ## 1. `formulararbeitsvertrag`
 
-**Fokus:** Branchen-Spezialskill für Formulararbeitsvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Formulararbeitsvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Formulararbeitsvertrag
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `haendlervertrag-agb`
 
-**Fokus:** Branchen-Spezialskill für Haendlervertrag AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Haendlervertrag AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Haendlervertrag AGB
 
@@ -164,13 +164,13 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 307 BGB als Generalklausel und Auffangtatbestand:**
-   - **Prüfungsreihenfolge:** Erst § 309 BGB (absolute Klauselverbote, B2C), dann § 308 BGB (Klauselverbote mit Wertungsmöglichkeit, B2C), dann § 307 BGB. Im B2B nur § 307 BGB unter Berücksichtigung der Klauselverbote als Wertungsmaßstab.
-   - **Tatbestand § 307 Abs. 1 S. 1 BGB:** Unangemessene Benachteiligung entgegen Treu und Glauben. Indizien: Abweichung von dispositivem Recht zulasten des Kunden, Risikoverlagerung, einseitige Bestimmungsrechte des Verwenders, fehlende Reziprozität.
-   - **Auslegungshilfen § 307 Abs. 2 BGB:**
-     - **Nr. 1:** Abweichung von wesentlichen Grundgedanken der gesetzlichen Regelung (Leitbildwiderspruch). Beispiel: Verschuldensunabhängige Schadensregeln statt § 280 Abs. 1 S. 2 BGB.
-     - **Nr. 2:** Einschränkung wesentlicher Rechte oder Pflichten, die sich aus der Natur des Vertrages ergeben, sodass Vertragszweck gefährdet wird (Kardinalpflichtenrechtsprechung).
-   - **§ 307 Abs. 3 BGB:** Klauseln, die nur die Hauptleistung oder das Entgelt regeln, unterliegen nur der Transparenzkontrolle (Abs. 1 S. 2 BGB). Aber: Nebenabreden über Hauptleistung (Preisnebenabreden, Zusatzentgelte) sind voll kontrollfähig.
-   - **B2B (§ 310 Abs. 1 BGB):** § 307 BGB gilt voll; §§ 308, 309 BGB nur als Wertungsmaßstab. BGH-Linie: Die Wertungen der §§ 308, 309 BGB strahlen ausstrahlend ins B2B aus, soweit keine Geschäftsgebräuche oder typische Risikoallokationen abweichen rechtfertigen (ständige Rechtsprechung).
+ - **Prüfungsreihenfolge:** Erst § 309 BGB (absolute Klauselverbote, B2C), dann § 308 BGB (Klauselverbote mit Wertungsmöglichkeit, B2C), dann § 307 BGB. Im B2B nur § 307 BGB unter Berücksichtigung der Klauselverbote als Wertungsmaßstab.
+ - **Tatbestand § 307 Abs. 1 S. 1 BGB:** Unangemessene Benachteiligung entgegen Treu und Glauben. Indizien: Abweichung von dispositivem Recht zulasten des Kunden, Risikoverlagerung, einseitige Bestimmungsrechte des Verwenders, fehlende Reziprozität.
+ - **Auslegungshilfen § 307 Abs. 2 BGB:**
+ - **Nr. 1:** Abweichung von wesentlichen Grundgedanken der gesetzlichen Regelung (Leitbildwiderspruch). Beispiel: Verschuldensunabhängige Schadensregeln statt § 280 Abs. 1 S. 2 BGB.
+ - **Nr. 2:** Einschränkung wesentlicher Rechte oder Pflichten, die sich aus der Natur des Vertrages ergeben, sodass Vertragszweck gefährdet wird (Kardinalpflichtenrechtsprechung).
+ - **§ 307 Abs. 3 BGB:** Klauseln, die nur die Hauptleistung oder das Entgelt regeln, unterliegen nur der Transparenzkontrolle (Abs. 1 S. 2 BGB). Aber: Nebenabreden über Hauptleistung (Preisnebenabreden, Zusatzentgelte) sind voll kontrollfähig.
+ - **B2B (§ 310 Abs. 1 BGB):** § 307 BGB gilt voll; §§ 308, 309 BGB nur als Wertungsmaßstab. BGH-Linie: Die Wertungen der §§ 308, 309 BGB strahlen ausstrahlend ins B2B aus, soweit keine Geschäftsgebräuche oder typische Risikoallokationen abweichen rechtfertigen (ständige Rechtsprechung).
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

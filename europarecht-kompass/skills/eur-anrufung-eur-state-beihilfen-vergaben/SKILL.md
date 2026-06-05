@@ -1,13 +1,13 @@
 ---
 name: eur-anrufung-eur-state-beihilfen-vergaben
-description: "Nutze dies, wenn Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben im Plugin Europarecht Kompass konkret bearbeitet werden soll. Auslöser: Bitte Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben prüfen.; Erstelle eine Arbeitsfassung zu Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, E
 ## Aufgabe
 Anrufung des Petitionsausschusses des Europaeischen Parlaments nach Art. 24 II, 227 AEUV. Voraussetzungen, Form, Sprache, Inhalt; Beispielfaelle. Strategische Alternative bzw. Ergaenzung zu Klage Art. 263/265 AEUV oder Beschwerde an Europaeischen Buergerbeauftragten (Art. 228 AEUV) bzw. Kommission als "Huetterin der Vertraege" (Art. 258 AEUV — Vertragsverletzungsverfahren).
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -45,20 +45,20 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 ## Pruefraster Petition
 
 1. **Petitionsberechtigung** Art. 24 II, 227 AEUV
-   - Jeder Buerger der Union, jede in einem Mitgliedstaat wohnhafte natuerliche Person, jede in einem Mitgliedstaat eingetragene juristische Person.
-   - Einzeln oder gemeinsam mit anderen.
+ - Jeder Buerger der Union, jede in einem Mitgliedstaat wohnhafte natuerliche Person, jede in einem Mitgliedstaat eingetragene juristische Person.
+ - Einzeln oder gemeinsam mit anderen.
 2. **Petitionsgegenstand** — Angelegenheit, die in die **Taetigkeitsbereiche der Union** faellt und den Petenten **unmittelbar betrifft**.
-   - Typisch: Verstoss eines Mitgliedstaats gegen Unionsrecht, Auslegung von Unionsrecht, Lebensbedingungen in der EU, Diskriminierung.
-   - Nicht: rein innerstaatliche Angelegenheiten ohne Unionsbezug.
+ - Typisch: Verstoss eines Mitgliedstaats gegen Unionsrecht, Auslegung von Unionsrecht, Lebensbedingungen in der EU, Diskriminierung.
+ - Nicht: rein innerstaatliche Angelegenheiten ohne Unionsbezug.
 3. **Form** Art. 226 ff. GO EP
-   - Schriftlich, mit Namen und Anschrift, jeder Amtssprache der Union.
-   - Per Post oder Online-Portal `petiport.secure.europarl.europa.eu`.
-   - Mehrere Petenten: erster Unterzeichner gilt als Sprecher.
+ - Schriftlich, mit Namen und Anschrift, jeder Amtssprache der Union.
+ - Per Post oder Online-Portal `petiport.secure.europarl.europa.eu`.
+ - Mehrere Petenten: erster Unterzeichner gilt als Sprecher.
 4. **Sprache** — alle 24 Amtssprachen der EU; Deutsch zulaessig.
 5. **Pruefungsablauf**
-   - Pruefung der Zulaessigkeit durch Petitionsausschuss (PETI).
-   - Bei Zulaessigkeit: Pruefung der Begruendetheit, ggf. Anhoerung, Stellungnahme von Kommission, Kontakte zu nationalen Behoerden.
-   - Mitteilung an Petenten ueber Ergebnis; ggf. Weiterleitung an EU-Buergerbeauftragten, SOLVIT oder andere Stellen.
+ - Pruefung der Zulaessigkeit durch Petitionsausschuss (PETI).
+ - Bei Zulaessigkeit: Pruefung der Begruendetheit, ggf. Anhoerung, Stellungnahme von Kommission, Kontakte zu nationalen Behoerden.
+ - Mitteilung an Petenten ueber Ergebnis; ggf. Weiterleitung an EU-Buergerbeauftragten, SOLVIT oder andere Stellen.
 
 ## Strategische Erwaegungen
 
@@ -235,22 +235,22 @@ Kanzlei: [KANZLEI] — Datum: [DATUM]
 Mandant: [NAME] — Maßnahme: [BESCHREIBUNG]
 
 1. STAATLICHE MITTEL (Art. 107 I AEUV): [JA / NEIN / FRAGLICH]
-   Begruendung: [...]
+ Begruendung: [...]
 
 2. WIRTSCHAFTLICHER VORTEIL: [JA / NEIN / FRAGLICH]
-   Private-Investor-Test anwendbar?: [JA / NEIN]
+ Private-Investor-Test anwendbar?: [JA / NEIN]
 
 3. SELEKTIVITAET: [JA — [Unternehmen/Sektor X] begunstigt / NEIN allgemeine Maßnahme]
 
 4. WETTBEWERBSVERFAELSCHUNG + HANDELSBEEINTRAECHTIGUNG: [JA / GERING]
 
 5. ERGEBNIS
-   [ ] Keine Beihilfe — Maßnahme zulaessig
-   [ ] Beihilfe — AGVO Freistellung Art. [X] (kein Notifizierungsbedarf)
-   [ ] Beihilfe — De-minimis (EUR [BETRAG] — Kumulierung geprueft)
-   [ ] Beihilfe — Notifizierung Art. 108 Abs. 3 AEUV erforderlich
-   [ ] Beihilfe — moeglicherweise rechtswidrig; Rueckforderungsrisiko
+ [ ] Keine Beihilfe — Maßnahme zulaessig
+ [ ] Beihilfe — AGVO Freistellung Art. [X] (kein Notifizierungsbedarf)
+ [ ] Beihilfe — De-minimis (EUR [BETRAG] — Kumulierung geprueft)
+ [ ] Beihilfe — Notifizierung Art. 108 Abs. 3 AEUV erforderlich
+ [ ] Beihilfe — moeglicherweise rechtswidrig; Rueckforderungsrisiko
 
 6. EMPFOHLENE NAECHSTE SCHRITTE
-   [...]
+ [...]
 ```

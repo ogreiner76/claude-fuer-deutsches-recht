@@ -15,10 +15,10 @@ Der Skill wird **automatisch** von den Schreiben-Skills (`forderungsschreiben-er
 
 - **Schriftsatz** (PDF oder DOCX) — das vom vorhergehenden Skill erzeugte Forderungsschreiben, die Mahnung oder die Klage.
 - **Belege-Ordner** mit den Beweisstücken in beliebigem Format:
-  - PDF (Buchungsbestätigung, Annullierungsbestätigung, Tickets)
-  - DOCX (eigene Aufzeichnungen, Mandanten-Sachverhaltsdarstellung)
-  - JPG / PNG (Boardingpass-Foto, Anzeigetafel-Foto, Quittungs-Foto)
-  - EML / MSG (E-Mail-Korrespondenz mit der Airline)
+ - PDF (Buchungsbestätigung, Annullierungsbestätigung, Tickets)
+ - DOCX (eigene Aufzeichnungen, Mandanten-Sachverhaltsdarstellung)
+ - JPG / PNG (Boardingpass-Foto, Anzeigetafel-Foto, Quittungs-Foto)
+ - EML / MSG (E-Mail-Korrespondenz mit der Airline)
 - **Zielordner** für das Ergebnis (wird angelegt).
 - **Bundle-Option** (`--bundle`): zusätzlich ein einziges PDF `Schriftsatz_mit_Anlagen.pdf` mit dem Schriftsatz vorne und allen Anlagen dahinter.
 
@@ -69,11 +69,11 @@ Regeln: keine Umlaute, kein scharfes ß, keine Leerzeichen, Nummer zweistellig, 
 Im Zielordner entstehen:
 
 ```
-konvertiert/    Zwischenstand der konvertierten Belege
-gestempelt/     Einzelanlagen mit Stempel, beA-konform benannt
-Anlagenkonvolut.pdf       alle Anlagen, mit Lesezeichen pro Anlage
-Anlagenverzeichnis.md     tabellarische Übersicht (Anlage / Beschreibung / Seiten)
-Anlagenverzeichnis.pdf    gleiche Tabelle als PDF
+konvertiert/ Zwischenstand der konvertierten Belege
+gestempelt/ Einzelanlagen mit Stempel, beA-konform benannt
+Anlagenkonvolut.pdf alle Anlagen, mit Lesezeichen pro Anlage
+Anlagenverzeichnis.md tabellarische Übersicht (Anlage / Beschreibung / Seiten)
+Anlagenverzeichnis.pdf gleiche Tabelle als PDF
 ```
 
 ### Schritt 6 — Optional: Schriftsatz-mit-Anlagen-Bundle
@@ -87,18 +87,18 @@ Mit `--bundle` legt der Skill **zusätzlich** `Schriftsatz_mit_Anlagen.pdf` an: 
 ```bash
 # Forderungsschreiben mit Belegen
 python3 werkzeuge/build_fluggast_anlagen.py \
-    --belege ./mandat-mueller/belege \
-    --schriftsatz ./mandat-mueller/forderungsschreiben.pdf \
-    --ausgang ./mandat-mueller/anlagen \
-    --titel "Forderungsschreiben Erste Stufe"
+ --belege ./mandat-mueller/belege \
+ --schriftsatz ./mandat-mueller/forderungsschreiben.pdf \
+ --ausgang ./mandat-mueller/anlagen \
+ --titel "Forderungsschreiben Erste Stufe"
 
 # Klage mit gebundeltem Schriftsatz + Anlagen
 python3 werkzeuge/build_fluggast_anlagen.py \
-    --belege ./mandat-mueller/belege \
-    --schriftsatz ./mandat-mueller/klage.pdf \
-    --ausgang ./mandat-mueller/anlagen \
-    --titel "Klage Amtsgericht Hamburg" \
-    --bundle
+ --belege ./mandat-mueller/belege \
+ --schriftsatz ./mandat-mueller/klage.pdf \
+ --ausgang ./mandat-mueller/anlagen \
+ --titel "Klage Amtsgericht Hamburg" \
+ --bundle
 ```
 
 Abhängigkeiten: `pypdf`, `reportlab`, optional `Pillow` (für Bild-Konvertierung), optional LibreOffice (für DOCX/EML).

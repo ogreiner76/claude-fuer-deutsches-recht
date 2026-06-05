@@ -1,6 +1,6 @@
 ---
 name: rom-neu-004-zwoelftafelrecht-delikt-busse
-description: "Nutze dies, wenn Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition

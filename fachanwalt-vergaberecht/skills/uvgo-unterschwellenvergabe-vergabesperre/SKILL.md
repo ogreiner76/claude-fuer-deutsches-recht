@@ -1,13 +1,13 @@
 ---
 name: uvgo-unterschwellenvergabe-vergabesperre
-description: "Nutze dies, wenn Fachanwalt Vergaberecht Uvgo Unterschwellenvergabe, Fachanwalt Vergaberecht Vergabesperre Korruption Selbstreinigung, Fachanwalt Vergaberecht Vk Aufklaerung Vergleich, Fachanwalt Vergaberecht Vob A Bauvergabe im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Vergaberecht Uvgo Unterschwellenvergabe, Fachanwalt Vergaberecht Vergabesperre Korruption Selbstreinigung, Fachanwalt Vergaberecht Vk Aufklaerung Vergleich, Fachanwalt Vergaberecht Vob A Bauvergabe prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Vergaberecht Uvgo Unterschwellenvergabe, Fachanwalt Vergaberecht Vergabesperre Korruption Selbstreinigung, Fachanwalt Vergaberecht Vk Aufklaerung Vergleich, Fachanwalt Vergaberecht Vob A Bauvergabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Vergaberecht Uvgo Unterschwellenvergabe, Fachanwalt Vergaberecht Vergabesperre Korruption Selbstreinigung, Fachanwalt Vergaberecht Vk Aufklaerung Vergleich, Fachanwalt Vergaberecht Vob A Bauvergabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Vergaberecht Uvgo Unterschwellenvergabe, Fachanwalt Vergaberecht Vergabesperre Korruption Selbstreinigung, Fachanwalt Vergaberecht Vk Aufklaerung Vergleich, Fachanwalt Vergaberecht Vob A Bauvergabe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Vergaberecht Uvgo Unterschwellenvergabe, Fachanwalt Vergaberecht Vergabesperre Korruption Selbstreinigung, Fachanwalt Vergaberecht Vk Aufklaerung Vergleich, Fachanwalt Vergaberecht Vob A Bauvergabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Fachanwalt Vergaberecht Uvgo Unterschwellenvergabe, Fachanwalt Vergaberec
 ## Aufgabe
 Vergabe unterhalb der EU-Schwellenwerte nach UVgO (Bund und mehrheitlich Laender) strukturieren oder angreifen. Rechtsschutz unterscheidet sich grundlegend vom Oberschwellenverfahren (kein VK-Verfahren).
 
-## Kaltstart
+## Einstieg
 1. Auftraggeber: Bund (UVgO direkt), Land (UVgO meist eingefuehrt, Pruefung Landeshaushaltsrecht), Kommune (Pruefung Landes- bzw. Gemeindehaushaltsrecht)?
 2. Auftragsart Liefer-/Dienstleistung? (Bau: VOB-A Abschn. 1)
 3. Geschaetzter Auftragswert (ohne USt.)?
@@ -102,7 +102,7 @@ Landesweite Umsetzungsstaende UVgO und Wertgrenzen (z. B. NRW, BY, HE) vor Berat
 ## Aufgabe
 Vergabesperre verhindern, aufheben oder durchsetzen. § 125 GWB-Selbstreinigung ist der zentrale Ausweg; Wettbewerbsregister § 8 WRegG ist die zentrale Eintragungsstelle.
 
-## Kaltstart
+## Einstieg
 1. Welche Tatbestaende sind betroffen (§ 123 zwingend, § 124 fakultativ)?
 2. Rechtskraeftige Verurteilung oder behaengender Vorwurf?
 3. Eintragung im Wettbewerbsregister geprueft?
@@ -244,7 +244,7 @@ Vergabe-Nachprüfungs-Verfahren ist verfahrensrechtlich straff und schnell (5 Wo
 
 ## Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Phase 1 — Verfahrens-Beobachtung
 
@@ -333,15 +333,15 @@ Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
 [...]
 
 1. Zu den Fragen Nr. [X] bis [Y]:
-   [Konkrete Antworten, mit Beweisanlagen]
+ [Konkrete Antworten, mit Beweisanlagen]
 
 2. Akteneinsicht:
-   Wir beantragen Akteneinsicht nach § 165 GWB in
-   [Wertungsunterlagen / Verhandlungsprotokoll] soweit
-   keine Geheimhaltungsinteressen entgegenstehen.
+ Wir beantragen Akteneinsicht nach § 165 GWB in
+ [Wertungsunterlagen / Verhandlungsprotokoll] soweit
+ keine Geheimhaltungsinteressen entgegenstehen.
 
 3. Zu einem moeglichen Vergleich:
-   [Position Mandant; Bereitschaft oder Ablehnung]
+ [Position Mandant; Bereitschaft oder Ablehnung]
 
 [Rechtsanwalt/-anwaeltin]
 ```
@@ -380,7 +380,7 @@ Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
 ## Aufgabe
 Bauvergaben nach VOB-A (Abschnitt 1 Unterschwelle, Abschnitt 2 Oberschwelle) strukturieren oder angreifen. Schnittstelle: VOB-B regelt anschliessenden Bauvertrag, ist aber nicht Gegenstand des Vergabeskills.
 
-## Kaltstart
+## Einstieg
 1. Bauleistung i. S. § 1 VOB-A?
 2. Schwellenwert oberschwellig (EUR 5404000 ab 01.01.2026)? Abschnitt 2 + VgV-Baubereich; sonst Abschnitt 1.
 3. Auftraggebertyp (oeffentlich, sektorenbezogen, privat mit Foerdermittel mit Bindungsklausel)?

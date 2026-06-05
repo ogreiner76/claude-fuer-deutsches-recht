@@ -1,13 +1,13 @@
 ---
 name: japan-jpo-kanada-cipo-loeschung-widerruf
-description: "Nutze dies, wenn Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route prüfen.; Erstelle eine Arbeitsfassung zu Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Court, Löschung Widerruf Nichtigkeit Global Route** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Japan Patentrecht Jpo Ip High Court, Kanada Patentrecht Cipo Federal Cour
 
 Japan-spezifische Prosecution- und Rechtsbestandsroute mit Übersetzungs- und Vertreterbedarf.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
@@ -92,7 +92,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 Kanadisches Patentrecht als eigener Markt, nicht als US-Anhang.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
@@ -150,7 +150,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 Globaler Rechtsbestandsangriff mit Kosten-/Timing- und Settlement-Logik.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 

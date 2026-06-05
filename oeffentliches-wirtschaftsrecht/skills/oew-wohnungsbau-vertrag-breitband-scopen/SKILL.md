@@ -1,13 +1,13 @@
 ---
 name: oew-wohnungsbau-vertrag-breitband-scopen
-description: "Nutze dies, wenn Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen prüfen.; Erstelle eine Arbeitsfassung zu Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,22 +1,22 @@
 ---
 name: know-how-kurzform-vs-liquidated-damages-ma
-description: "Nutze dies, wenn Know How Erfahrungswissen Arbeitnehmer, Kurzform Vs Langform, Liquidated Damages Us Uk Vergleich, Ma Teaser Und Cim Nda im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Know How Erfahrungswissen Arbeitnehmer, Kurzform Vs Langform, Liquidated Damages Us Uk Vergleich, Ma Teaser Und Cim Nda prüfen.; Erstelle eine Arbeitsfassung zu Know How Erfahrungswissen Arbeitnehmer, Kurzform Vs Langform, Liquidated Damages Us Uk Vergleich, Ma Teaser Und Cim Nda.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Know How Erfahrungswissen Arbeitnehmer, Kurzform Vs Langform, Liquidated Damages Us Uk Vergleich, Ma Teaser Und Cim Nda: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Know How Erfahrungswissen Arbeitnehmer, Kurzform Vs Langform, Liquidated Damages Us Uk Vergleich, Ma Teaser Und Cim Nda
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Know How Erfahrungswissen Arbeitnehmer, Kurzform Vs Langform, Liquidated Damages Us Uk Vergleich, Ma Teaser Und Cim Nda** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `know-how-erfahrungswissen-arbeitnehmer` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Know How Erfahrungswissen Arbeitnehmer; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `kurzform-vs-langform` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kurzform Vs Langform; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `liquidated-damages-us-uk-vergleich` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Liquidated Damages US Uk Vergleich; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `ma-teaser-und-cim-nda` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: M&A Teaser Und Cim NDA; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `know-how-erfahrungswissen-arbeitnehmer` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Know How Erfahrungswissen Arbeitnehmer; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `kurzform-vs-langform` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kurzform Vs Langform; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `liquidated-damages-us-uk-vergleich` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Liquidated Damages US Uk Vergleich; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ma-teaser-und-cim-nda` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: M&A Teaser Und Cim NDA; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Know How Erfahrungswissen Arbeitnehmer, Kurzform Vs Langform, Liquidated 
 
 ## 1. `know-how-erfahrungswissen-arbeitnehmer`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Know How Erfahrungswissen Arbeitnehmer; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Know How Erfahrungswissen Arbeitnehmer; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Know How Erfahrungswissen Arbeitnehmer
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `kurzform-vs-langform`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kurzform Vs Langform; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Kurzform Vs Langform; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Kurzform Vs Langform
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `liquidated-damages-us-uk-vergleich`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Liquidated Damages US Uk Vergleich; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Liquidated Damages US Uk Vergleich; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Liquidated Damages US Uk Vergleich
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `ma-teaser-und-cim-nda`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: M&A Teaser Und Cim NDA; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: M&A Teaser Und Cim NDA; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # M&A Teaser Und Cim NDA
 

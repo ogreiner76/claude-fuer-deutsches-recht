@@ -1,13 +1,13 @@
 ---
 name: chn-hong-chn-tibet-chn-free-chn-board
-description: "Nutze dies, wenn Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk prüfen.; Erstelle eine Arbeitsfassung zu Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

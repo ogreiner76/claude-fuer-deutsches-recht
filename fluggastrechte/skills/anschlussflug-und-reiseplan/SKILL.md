@@ -1,6 +1,6 @@
 ---
 name: anschlussflug-und-reiseplan
-description: "Workflow-Skill zu anschlussflug und reiseplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu anschlussflug und reiseplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Anschlussflug und Reiseplan
@@ -70,14 +70,14 @@ Wenn die Reise innerhalb der EU mit Umsteigen in einem **Drittstaat** stattfinde
 ```
 Anschlussflug-Analyse
 Buchung: eine PNR (ABC123) über Lufthansa
-Etappen: 
-  1. BER 12.05.2026 08:00 → MAD 12.05.2026 11:30 (LH 1234)
-  2. MAD 12.05.2026 13:00 → EZE 13.05.2026 06:00 (LH 5678)
+Etappen:
+ 1. BER 12.05.2026 08:00 → MAD 12.05.2026 11:30 (LH 1234)
+ 2. MAD 12.05.2026 13:00 → EZE 13.05.2026 06:00 (LH 5678)
 
 Stoerung:
-  Etappe 2 annulliert
-  Ersatz: EZE Ankunft 14.05.2026 10:00
-  
+ Etappe 2 annulliert
+ Ersatz: EZE Ankunft 14.05.2026 10:00
+
 Endzielverspätung: 28 Stunden
 Distanz BER-EZE (Endziel): 11.940 km nicht-innergemeinschaftlich
 Stufe: 3 → 600 EUR pro Passagier

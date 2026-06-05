@@ -123,7 +123,7 @@ Insgesamt heute ca. 170 Minuten Hilfe.
 ### Schritt 5 — Widerspruch mit Pflegeprotokoll
 
 ```
-[Pflegekasse]                                       [Ort, Datum]
+[Pflegekasse] [Ort, Datum]
 
 Versicherten-Nr: [...]
 

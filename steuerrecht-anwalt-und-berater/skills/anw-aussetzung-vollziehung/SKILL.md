@@ -60,7 +60,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-für-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Einspruch prüfen:** Einspruch eingelegt und Frist gewahrt? Falls nicht → zuerst Einspruch.
 2. **Begründung AdV zusammenstellen:** Ernstliche Zweifel (materielle Angriffspunkte aus Bescheidanalyse) oder unbillige Härte (Liquiditätslage, Existenzgefährdung).
@@ -123,12 +123,12 @@ Finanzamt [ORT] — Antragsgegner —
 Antrag auf Aussetzung der Vollziehung gemäß § 69 Abs. 3 FGO
 
 1. Die Vollziehung des [STEUERART]-Bescheids [JAHR] vom
-   [DATUM] in Gestalt der FA-Ablehnung vom [DATUM] wird
-   bis zum rechtskräftigen Abschluss des Klageverfahrens
-   (Az. FG [AKTENZEICHEN]) ausgesetzt.
-   Hilfsweise wird die Aufhebung der Vollziehung beantragt.
+ [DATUM] in Gestalt der FA-Ablehnung vom [DATUM] wird
+ bis zum rechtskräftigen Abschluss des Klageverfahrens
+ (Az. FG [AKTENZEICHEN]) ausgesetzt.
+ Hilfsweise wird die Aufhebung der Vollziehung beantragt.
 2. Ohne Sicherheitsleistung; hilfsweise gegen Sicherheits-
-   leistung nach richterlichem Ermessen.
+ leistung nach richterlichem Ermessen.
 
 Begründung:
 A. Verfahrensgeschichte: [...]

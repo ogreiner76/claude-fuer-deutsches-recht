@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-distressed-ma
-description: "Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu corporate kanzlei distressed ma: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Distressed M&A
@@ -13,7 +13,7 @@ description: "Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext,
 
 ## Fachkern: Distressed M&A
 
-- **Corporate-Aufgabe (Distressed M&A):** Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Corporate-Aufgabe (Distressed M&A):** Arbeitsmodul zu corporate kanzlei distressed ma: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
 - **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
 - **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
@@ -177,29 +177,29 @@ Parteien: [INSOLVENZVERWALTER als Verkaefer] / [KAEUFER]
 Datum: [DATUM]
 
 1. KAUFGEGENSTAND (INCLUDED ASSETS)
-   - Anlagevermogen: [Liste Maschinen, Fahrzeuge, Inventar]
-   - IP: [Marken, Patente, Know-how, Kundendaten]
-   - Assumed Contracts: [Vertragsliste — nur genannte Vertraege gehen ueber]
-   - Lagerbestand: [zum Stichtag]
+ - Anlagevermogen: [Liste Maschinen, Fahrzeuge, Inventar]
+ - IP: [Marken, Patente, Know-how, Kundendaten]
+ - Assumed Contracts: [Vertragsliste — nur genannte Vertraege gehen ueber]
+ - Lagerbestand: [zum Stichtag]
 
 2. AUSGESCHLOSSENE VERBINDLICHKEITEN (EXCLUDED LIABILITIES)
-   Kaeufer uebernimmt KEINE Verbindlichkeiten des Schuldners ausser den Assumed Liabilities.
+ Kaeufer uebernimmt KEINE Verbindlichkeiten des Schuldners ausser den Assumed Liabilities.
 
 3. KAUFPREIS
-   [EUR]; Zahlung: [sofort bei Closing / Ratenzahlung]
+ [EUR]; Zahlung: [sofort bei Closing / Ratenzahlung]
 
 4. ARBEITNEHMER
-   Uebernahme von [X] Arbeitnehmern gem. Anlage X.
-   § 613a BGB Hinweis an Arbeitnehmer bis [DATUM].
+ Uebernahme von [X] Arbeitnehmern gem. Anlage X.
+ § 613a BGB Hinweis an Arbeitnehmer bis [DATUM].
 
 5. REPRESENTATIONS (MINIMAL SCOPE)
-   Nur: Titel/Verfuegungsbefugnis des Verwalters; keine Business Reps
+ Nur: Titel/Verfuegungsbefugnis des Verwalters; keine Business Reps
 
 6. HAFTUNGSAUSSCHLUSS
-   Vollstaendiger Ausschluss aller Gewaehrleistungen; § 444 BGB nicht anwendbar (keine Arglist)
+ Vollstaendiger Ausschluss aller Gewaehrleistungen; § 444 BGB nicht anwendbar (keine Arglist)
 
 7. CLOSING
-   Datum: [DATUM]; Simultaneous Signing & Closing
+ Datum: [DATUM]; Simultaneous Signing & Closing
 ```
 
 ## Rote Schwellen

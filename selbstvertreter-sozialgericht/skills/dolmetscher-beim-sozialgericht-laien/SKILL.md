@@ -44,7 +44,7 @@ Sie sprechen kein gutes Deutsch. Oder Sie sind gehoerlos. Sie haben Recht auf ei
 So frueh wie moeglich beim SG:
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 

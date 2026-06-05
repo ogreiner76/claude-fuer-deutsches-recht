@@ -1,13 +1,13 @@
 ---
 name: vbr-abo-vbr-digitale-vbr-saas-vbr-smart
-description: "Nutze dies, wenn Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen im Plugin Verbraucherschutzrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen prüfen.; Erstelle eine Arbeitsfassung zu Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Für Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

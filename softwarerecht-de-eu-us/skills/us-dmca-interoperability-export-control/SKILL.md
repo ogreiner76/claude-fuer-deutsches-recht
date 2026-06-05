@@ -1,13 +1,13 @@
 ---
 name: us-dmca-interoperability-export-control
-description: "Nutze dies, wenn Us Dmca 1201 Interoperability, Us Export Control Encryption Ear, Us Independent Contractor Assignment, Us Open Source License Enforcement im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Us Dmca 1201 Interoperability, Us Export Control Encryption Ear, Us Independent Contractor Assignment, Us Open Source License Enforcement prüfen.; Erstelle eine Arbeitsfassung zu Us Dmca 1201 Interoperability, Us Export Control Encryption Ear, Us Independent Contractor Assignment, Us Open Source License Enforcement.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Us Dmca 1201 Interoperability, Us Export Control Encryption Ear, Us Independent Contractor Assignment, Us Open Source License Enforcement: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Us Dmca 1201 Interoperability, Us Export Control Encryption Ear, Us Independent Contractor Assignment, Us Open Source License Enforcement
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Us Dmca 1201 Interoperability, Us Export Control Encryption Ear, Us Independent Contractor Assignment, Us Open Source License Enforcement** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

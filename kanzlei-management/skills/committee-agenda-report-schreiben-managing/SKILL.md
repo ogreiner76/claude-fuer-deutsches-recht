@@ -1,13 +1,13 @@
 ---
 name: committee-agenda-report-schreiben-managing
-description: "Nutze dies, wenn Management Committee Agenda, Management Report Schreiben, Managing Partner Wochenbrief, Mandatsannahme Risk Committee im Plugin Kanzlei Management konkret bearbeitet werden soll. Auslöser: Bitte Management Committee Agenda, Management Report Schreiben, Managing Partner Wochenbrief, Mandatsannahme Risk Committee prüfen.; Erstelle eine Arbeitsfassung zu Management Committee Agenda, Management Report Schreiben, Managing Partner Wochenbrief, Mandatsannahme Risk Committee.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Management Committee Agenda, Management Report Schreiben, Managing Partner Wochenbrief, Mandatsannahme Risk Committee: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Management Committee Agenda, Management Report Schreiben, Managing Partner Wochenbrief, Mandatsannahme Risk Committee
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Management Committee Agenda, Management Report Schreiben, Managing Partner Wochenbrief, Mandatsannahme Risk Committee** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

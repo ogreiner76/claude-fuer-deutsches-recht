@@ -1,13 +1,13 @@
 ---
 name: vbr-fernabsatz-behoerdenmeldung-online-shop
-description: "Nutze dies, wenn Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern im Plugin Verbraucherschutzrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern prüfen.; Erstelle eine Arbeitsfassung zu Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vbr 040 Fernabsatz Behoerdenmeldung Prüfen, Vbr 041 Online Shop Anspruch Prüfen, Vbr 042 Online Shop Widerruf Formulieren, Vbr 044 Online Shop Beweise Sichern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

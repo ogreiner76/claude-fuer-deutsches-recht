@@ -1,6 +1,6 @@
 ---
 name: allgemein-kaltstart-und-routing
-description: "Allgemeiner Kaltstart und Routing: prüft führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur."
+description: "Allgemeiner Kaltstart und Routing: führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur."
 ---
 
 # Allgemeiner Kaltstart und Routing

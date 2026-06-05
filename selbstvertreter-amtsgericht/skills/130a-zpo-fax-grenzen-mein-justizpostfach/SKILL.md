@@ -1,13 +1,13 @@
 ---
 name: 130a-zpo-fax-grenzen-mein-justizpostfach
-description: "Nutze dies, wenn Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024 im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024 prüfen.; Erstelle eine Arbeitsfassung zu Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Einreichung 130a Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Einreichung 130A Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

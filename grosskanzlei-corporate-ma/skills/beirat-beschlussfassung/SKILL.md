@@ -1,6 +1,6 @@
 ---
 name: beirat-beschlussfassung
-description: "Nutze dies, wenn Beirat Beschlussfassung im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Beschlussfassung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Beschlussfassung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Beschlussfassung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Beschlussfassung

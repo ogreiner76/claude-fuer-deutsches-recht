@@ -1,6 +1,6 @@
 ---
 name: zustellung-fehlerkatalog
-description: "Nutze dies, wenn Zustellung Fehlerkatalog im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Zustellung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Zustellung Fehlerkatalog

@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-019-erster-titel-16-schaden-ersatz
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr

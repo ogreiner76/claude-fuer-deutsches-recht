@@ -1,13 +1,13 @@
 ---
 name: mieteranfragen-bearbeitung-projekt
-description: "Nutze dies, wenn Mieteranfragen Bearbeitung, Projekt Arbeitsweise, Sachverhaltsermittlung im Plugin Immobilienrechtspraxis konkret bearbeitet werden soll. Auslöser: Bitte Mieteranfragen Bearbeitung, Projekt Arbeitsweise, Sachverhaltsermittlung prüfen.; Erstelle eine Arbeitsfassung zu Mieteranfragen Bearbeitung, Projekt Arbeitsweise, Sachverhaltsermittlung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mieteranfragen Bearbeitung, Projekt Arbeitsweise, Sachverhaltsermittlung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mieteranfragen Bearbeitung, Projekt Arbeitsweise, Sachverhaltsermittlung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mieteranfragen Bearbeitung, Projekt Arbeitsweise, Sachverhaltsermittlung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -71,14 +71,14 @@ Sachverhaltselementen und ergänzt aktuelle BGH-Rechtsprechung.
 
 1. Schreiben klassifizieren (Mehrfachkategorien möglich)
 2. Sachverhalt verdichten (mittels Skill `sachverhaltsermittlung` oder
-   direkt)
+ direkt)
 3. Musterantwort auswählen, Platzhalter befuellen
 4. Rechtsprechung nur anhängen, wenn sie vor Ausgabe frei oder amtlich
-   geprüft wurde; Datum und Aktenzeichen sind Pflicht
+ geprüft wurde; Datum und Aktenzeichen sind Pflicht
 5. Argumentationslinie zweistufig: erst Rechtslage, dann konkrete
-   Subsumtion
+ Subsumtion
 6. Aktenvermerk für interne Akte mit Kurzbegründung der gewählten
-   Linie
+ Linie
 
 ## Output
 
@@ -106,11 +106,11 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 ## Beispielformulierungen
 
 - "Mieter ruegt Schimmel im Bad und mindert um 20 Prozent. Entwirf
-  Antwort und Aktenvermerk."
+ Antwort und Aktenvermerk."
 - "Mieter widerspricht Kündigung mit Härte nach § 574 BGB. Welche
-  Linie schlagen wir vor?"
+ Linie schlagen wir vor?"
 - "Mietkautionsrückforderung mit Abrechnung anbei. Prüfe und
-  antworte."
+ antworte."
 - "Mieter verlangt Zahlungsbelege zur Betriebskostenabrechnung 2025. Erstelle Antwort und Belegeinsichtsplan."
 - "WEG-Verwalterabrechnung liegt vor; welche Positionen dürfen in die Mieterabrechnung?"
 
@@ -167,25 +167,25 @@ gegen denselben Maßstab geprüft werden.
 - Optional: hauseigenes Playbook Musterverträge Klauselkatalog
 - Optional: AVV-Anforderungen der Abteilung
 - Optional: Compliance-Vorgaben (zB Geldwäschegesetz
-  Sanktionslisten)
+ Sanktionslisten)
 
 ## Projekt-Skelett
 
 ```
 <Projekt>/
-  00_Projekt-Setup/
-    vorgaben.md
-    playbook.md
-    musterklauseln.md
-    avv-anforderungen.md
-    zitierregeln.md
-  01_Verträge/
-  02_Korrespondenz/
-  03_Schriftsätze/
-  04_Recherche/
-  05_Mandantenkontakt/
-  06_Ablage/
-  audit.md
+ 00_Projekt-Setup/
+ vorgaben.md
+ playbook.md
+ musterklauseln.md
+ avv-anforderungen.md
+ zitierregeln.md
+ 01_Verträge/
+ 02_Korrespondenz/
+ 03_Schriftsätze/
+ 04_Recherche/
+ 05_Mandantenkontakt/
+ 06_Ablage/
+ audit.md
 ```
 
 `vorgaben.md` ist die zentrale Konfiguration. Sie nennt:
@@ -225,10 +225,10 @@ Falls in `vorgaben.md` hinterlegt werden zusätzlich geprüft:
 
 - Sanktionslisten und Embargo-Vorgaben
 - Geldwäschegesetz — Kenntnis des wirtschaftlich Berechtigten bei
-  Immobilien-Transaktionen § 3 GwG
+ Immobilien-Transaktionen § 3 GwG
 - Mindest-Vertragsstrafen bei Geheimhaltungsverletzung
 - Maximal akzeptierte Indexierungs-Schwellen bei
-  Gewerbemietverträgen
+ Gewerbemietverträgen
 - Schriftform-Mindestanforderungen Gewerbemiete § 550 BGB
 
 ## Auto-Routing
@@ -238,10 +238,10 @@ Dateiname und Inhalt einem Unterordner zu. Auslöser-Regeln aus
 `vorgaben.md`:
 
 - Verträge mit Begriffen Mietvertrag Kaufvertrag in
-  `01_Verträge/`
+ `01_Verträge/`
 - Schreiben Email-Exports in `02_Korrespondenz/`
 - Schriftsätze mit Begriffen Klage Erwiderung Berufung in
-  `03_Schriftsätze/`
+ `03_Schriftsätze/`
 
 Pro eingehendem Dokument wird ein Eintrag in `audit.md` gesetzt:
 Zeitpunkt Quelle Empfänger angewandte Pruefskills Ergebnis.
@@ -252,12 +252,12 @@ Der Skill ist Hub für die anderen Skills des Plugins:
 
 - Eingehender Vertrag → `vertragspruefung-playbook`
 - Eingehende Mandanten-Korrespondenz mit Mängelanzeige →
-  `mieteranfragen-bearbeitung`
+ `mieteranfragen-bearbeitung`
 - Grundbuch-PDFs → `grundbuchanalyse`
 - Fragmentarische Sachverhalts-Unterlagen →
-  `sachverhaltsermittlung`
+ `sachverhaltsermittlung`
 - Komplette Mandats-Erstaufbereitung → `memorandums-ersteller`
-  (separates Plugin)
+ (separates Plugin)
 
 ## Agenten-Workflows
 
@@ -283,14 +283,14 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 ## Beispielformulierungen
 
 - "Lege ein Projekt für das Bürogebäude Friedrichstraße 100
-  an. Playbook Gewerbemiete Standard. AVV-Prüfung Pflicht."
+ an. Playbook Gewerbemiete Standard. AVV-Prüfung Pflicht."
 - "Prüfe diesen eingehenden AVV nach Art. 28 DSGVO und unsere
-  internen Vorgaben."
+ internen Vorgaben."
 - "Routinge die letzten 30 eingehenden Mails in die richtigen
-  Projekt-Ordner."
+ Projekt-Ordner."
 - "Erzeuge audit.md für den Quartalsbericht — welche Skills
-  wurden im Projekt Erbpacht Tegel zwischen Januar und März
-  angewandt?"
+ wurden im Projekt Erbpacht Tegel zwischen Januar und März
+ angewandt?"
 
 ## Aktuelle Rechtsprechung — Projekt-relevante Normen
 
@@ -332,7 +332,7 @@ Memo, das wirklich verwertbar ist.
 
 - Eingangskorrespondenz (Mieterschreiben Anwaltsschreiben Email)
 - Vorhandene Unterlagen (Vertrag Übergabeprotokoll Mahnungen
-  Hausverwaltungsberichte)
+ Hausverwaltungsberichte)
 - Optional: interne Kommentare aus der Akte
 
 ## Methodik in vier Stufen
@@ -364,13 +364,13 @@ gesichert (Urkunde Zeuge Augenschein), bloss plausibel oder offen.
 ## Output
 
 - `SV_Memo_<Aktenzeichen>.md` mit Abschnitten:
-  - Gesicherter Sachverhalt
-  - Plausible Annahmen mit Quelle
-  - Offene Punkte mit Fragestellung
-  - Zeitleiste in Tabellenform
-  - Beweisübersicht
+ - Gesicherter Sachverhalt
+ - Plausible Annahmen mit Quelle
+ - Offene Punkte mit Fragestellung
+ - Zeitleiste in Tabellenform
+ - Beweisübersicht
 - `Fragenkatalog_<Adressat>.docx` — versendungsfertig an
-  Asset-Management oder Hausverwaltung
+ Asset-Management oder Hausverwaltung
 
 ## Anti-Halluzinations-Regel
 
@@ -381,26 +381,26 @@ sonst das Vertrauen — und das ist der teuerste Verlust.
 ## Typische Fallkonstellationen
 
 - Mietmängel — wann angezeigt, wann besichtigt, welcher Mietzins,
-  welche Minderungsquote behauptet
+ welche Minderungsquote behauptet
 - Kündigung — Form, Zugang, Begründung, Widerspruch nach
-  § 574 BGB
+ § 574 BGB
 - Eigenbedarf — Bedarfsperson Verwandtschaftsgrad konkrete
-  Nutzungsabsicht
+ Nutzungsabsicht
 - Betriebskostenabrechnung — Abrechnungszeitraum Zugang § 556
-  Abs. 3 BGB Frist Einwendungen
+ Abs. 3 BGB Frist Einwendungen
 - Schönheitsreparaturen Endrenovierung — Vertragsklausel
-  Zeitpunkt der Vertragsbegründung Renovierungszustand bei
-  Einzug
+ Zeitpunkt der Vertragsbegründung Renovierungszustand bei
+ Einzug
 - Bauschäden — Erstanzeige Sachverständiger Beweissicherung
 
 ## Beispielformulierungen
 
 - "Mieterschreiben mit Mietmängelanzeige liegt vor. Erstelle
-  Sachverhalts-Memo und Fragenkatalog an Hausverwaltung."
+ Sachverhalts-Memo und Fragenkatalog an Hausverwaltung."
 - "Kündigungsstreit gegen Mieter Schmitt. Antworten der
-  Hausverwaltung anbei. Konsolidiere zum Memo."
+ Hausverwaltung anbei. Konsolidiere zum Memo."
 - "Ich habe nur eine halbe Akte. Welche Fragen muss ich stellen,
-  bevor ich rechtlich prüfe?"
+ bevor ich rechtlich prüfe?"
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 

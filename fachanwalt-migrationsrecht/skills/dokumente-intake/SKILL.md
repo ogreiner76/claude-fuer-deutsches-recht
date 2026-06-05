@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -17,7 +17,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Migrationsrecht** ein Fall noch
 - `aufenthaltstitel-erstgespraech-mandatsannahme-fachanwalt-asyl` — Aufenthaltstitel Erstgespraech Mandatsannahme Fachanwalt Asyl
 - `ba-zustimmung-beschaeftigungsduldung` — Ba Zustimmung Beschaeftigungsduldung
 - `blaue-karte-blaue-karte-bleiberecht-25a-chancenaufenthalt` — Blaue Karte Blaue Karte Bleiberecht 25a Chancenaufenthalt
-- `botschaft-visumtermin-workflow-chronologie-dokumentenstapel` — Botschaft Visumtermin Workflow Chronologie Dokumentenstapel
+- `botschaft-visumtermin-workflow-chronologie-dokumentenstapel` — Botschaft Visumtermin Chronologie Dokumentenstapel
 - `datenschutz-sicherheit-daueraufenthalt-eu-digitalbeweise-flucht` — Datenschutz Sicherheit Daueraufenthalt Eu Digitalbeweise Flucht
 - `dublin-ueberstellung` — Dublin Ueberstellung
 - `einbuergerung-lebensunterhalt-mehrstaatigkeit-strafen-einreise` — Einbuergerung Lebensunterhalt Mehrstaatigkeit Strafen Einreise

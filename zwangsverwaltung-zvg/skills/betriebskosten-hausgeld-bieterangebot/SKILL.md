@@ -1,13 +1,13 @@
 ---
 name: betriebskosten-hausgeld-bieterangebot
-description: "Nutze dies, wenn Zvg Betriebskosten Hausgeld, Zvg Bieterangebot Bewertung, Zvg Glaeubiger Schuldner Kommunikation im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Bitte Zvg Betriebskosten Hausgeld, Zvg Bieterangebot Bewertung, Zvg Glaeubiger Schuldner Kommunikation prüfen.; Erstelle eine Arbeitsfassung zu Zvg Betriebskosten Hausgeld, Zvg Bieterangebot Bewertung, Zvg Glaeubiger Schuldner Kommunikation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zvg Betriebskosten Hausgeld, Zvg Bieterangebot Bewertung, Zvg Glaeubiger Schuldner Kommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zvg Betriebskosten Hausgeld, Zvg Bieterangebot Bewertung, Zvg Glaeubiger Schuldner Kommunikation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zvg Betriebskosten Hausgeld, Zvg Bieterangebot Bewertung, Zvg Glaeubiger Schuldner Kommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -101,7 +101,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. Welche Betriebskosten zahlt der Zwangsverwalter direkt? (Versicherung Grundsteuer Energie)
 4. Liegen Hausgeld-Rückstände aus der Zeit vor Beschlagnahme vor?
 
-## Schritt-für-Schritt-Workflow Betriebskostenabrechnung ZVG
+## Schritt-für-Schritt-Betriebskostenabrechnung ZVG
 
 1. Alle Kostenpositionen mit Belegen erfassen (Heizung Wasser Müll Hausmeister)
 2. Umlageschlüssel aus Mietverträgen und WEG-Beschlüssen prüfen
@@ -190,7 +190,7 @@ Stand: [DATUM]
 
 Vermietungsstand:
 Nr. | Mieter | Einheit | Nettomiete | NK-VZ | Vertragsende | Rückstände
-1   | [...]  | [...]   | [...]      | [...]  | [unbefristet] | [BETRAG]
+1 | [...] | [...] | [...] | [...] | [unbefristet] | [BETRAG]
 
 Sonderrechte: [Vorkaufsrechte Vormerkungen etc.]
 Technischer Zustand: [ZUSAMMENFASSUNG]

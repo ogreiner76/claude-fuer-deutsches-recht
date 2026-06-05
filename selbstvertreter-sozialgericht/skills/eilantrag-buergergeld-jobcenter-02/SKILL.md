@@ -1,13 +1,13 @@
 ---
 name: eilantrag-buergergeld-jobcenter-02
-description: "Nutze dies, wenn Eilantrag Buergergeld Jobcenter, Eilantrag Erfolgsaussichten Checkliste, Eilantrag Krankenkassen Leistung, Eilantrag Pflegekassen Pflegehilfsmittel, Einfache Sprache Tipps Für Alle Anliegen im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Eilantrag Buergergeld Jobcenter, Eilantrag Erfolgsaussichten Checkliste, Eilantrag Krankenkassen Leistung, Eilantrag Pflegekassen Pflegehilfsmittel, Einfache Sprache Tipps Für Alle Anliegen prüfen.; Erstelle eine Arbeitsfassung zu Eilantrag Buergergeld Jobcenter, Eilantrag Erfolgsaussichten Checkliste, Eilantrag Krankenkassen Leistung, Eilantrag Pflegekassen Pflegehilfsmittel, Einfache Sprache Tipps Für Alle Anliegen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eilantrag Bürgergeld Jobcenter, Eilantrag Erfolgsaussichten Checkliste, Eilantrag Krankenkassen Leistung, Eilantrag Pflegekassen Pflegehilfsmittel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eilantrag Buergergeld Jobcenter, Eilantrag Erfolgsaussichten Checkliste, Eilantrag Krankenkassen Leistung, Eilantrag Pflegekassen Pflegehilfsmittel, Einfache Sprache Tipps Für Alle Anliegen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eilantrag Buergergeld Jobcenter, Eilantrag Erfolgsaussichten Checkliste, Eilantrag Krankenkassen Leistung, Eilantrag Pflegekassen Pflegehilfsmittel, Einfache Sprache Tipps Für Alle Anliegen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -93,7 +93,7 @@ Was genau ist passiert?
 ### Schritt 3 — Eilantrag-Schriftsatz
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 In dem Verfahren
 
@@ -329,9 +329,9 @@ Auch ein erfolgreicher Eilantrag ist nur eine VORLAEUFIGE Regelung. Sie muessen 
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `eilantrag-86b-sgg-grundlagen` — Grundlagen
-- `eilantrag-buergergeld-jobcenter` — Spezial Buergergeld
-- `eilantrag-krankenkassen-leistung` — Spezial Krankenkasse
-- `eilantrag-pflegekassen-pflegehilfsmittel` — Spezial Pflege
+- `eilantrag-buergergeld-jobcenter` — Buergergeld
+- `eilantrag-krankenkassen-leistung` — Krankenkasse
+- `eilantrag-pflegekassen-pflegehilfsmittel` — Pflege
 
 ## Quellen und Aktualitaet
 
@@ -406,7 +406,7 @@ Schritte:
 ### Schritt 2 — Eilantrag-Schriftsatz
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 In dem Verfahren
 
@@ -583,7 +583,7 @@ Sammeln Sie:
 ### Schritt 3 — Eilantrag-Schriftsatz
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 In dem Verfahren
 
@@ -605,7 +605,7 @@ wegen [konkret z.B. Pflegehilfsmittel Pflegebett]; Eilantrag
 A N T R A G
 
 1. Der Antragsgegner wird im Wege der einstweiligen Anordnung gem. § 86b Abs. 2 SGG verpflichtet, mir vorlaeufig folgende Leistung zu gewaehren:
-   [z.B. Versorgung mit einem hoehenverstellbaren Pflegebett gem. § 40 SGB XI; oder Pflegegrad 3 vorlaeufig.]
+ [z.B. Versorgung mit einem hoehenverstellbaren Pflegebett gem. § 40 SGB XI; oder Pflegegrad 3 vorlaeufig.]
 
 2. Prozesskostenhilfe wird beantragt.
 
@@ -733,7 +733,7 @@ Keine direkten — aber gute Praxis hilft bei jedem Verfahren.
 ```
 [Briefkopf]
 
-[Empfaenger]                                  [Ort, Datum]
+[Empfaenger] [Ort, Datum]
 
 [Aktenzeichen]
 [Betreff]

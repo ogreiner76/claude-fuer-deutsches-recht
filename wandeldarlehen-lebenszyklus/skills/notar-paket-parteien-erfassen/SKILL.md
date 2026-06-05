@@ -1,13 +1,13 @@
 ---
 name: notar-paket-parteien-erfassen
-description: "Nutze dies, wenn Notar Paket Uebermittlung, Parteien Erfassen im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Bitte Notar Paket Uebermittlung, Parteien Erfassen prüfen.; Erstelle eine Arbeitsfassung zu Notar Paket Uebermittlung, Parteien Erfassen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notar Paket Uebermittlung, Parteien Erfassen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notar Paket Uebermittlung, Parteien Erfassen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notar Paket Uebermittlung, Parteien Erfassen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -85,9 +85,9 @@ Nach Kapitalerhöhung: Pflicht zur Aktualisierung des Transparenzregisters nach 
 
 ```
 1. Beurkundetes Protokoll der außerordentlichen Gesellschafterversammlung
-   vom [Datum], Urk.-Nr. [●] des Notars [●]
+ vom [Datum], Urk.-Nr. [●] des Notars [●]
 2. Beurkundete Übernahmeerklärung Northstar Pre-Seed Partners GmbH & Co. KG
-   vom [Datum], Urk.-Nr. [●]
+ vom [Datum], Urk.-Nr. [●]
 3. Sacheinlagebericht vom [Datum]
 4. Neue Gesellschafterliste nach § 40 GmbHG
 5. Anmeldung Kapitalerhöhung nach § 57 GmbHG
@@ -180,22 +180,22 @@ Strukturierte Textblöcke für den Vertragskopf: Gesellschaft, Gesellschafterin 
 
 ```
 (1) Sonnenglas Solartechnologie UG (haftungsbeschränkt)
-    Geschäftsanschrift: Musterstraße 12, 10115 Berlin
-    eingetragen im Handelsregister des Amtsgerichts Charlottenburg unter HRB 123456 B,
-    vertreten durch ihre alleinvertretungsberechtigte Geschäftsführerin Dr. Mira Schoeneck,
-    – nachstehend die "Gesellschaft" –
+ Geschäftsanschrift: Musterstraße 12, 10115 Berlin
+ eingetragen im Handelsregister des Amtsgerichts Charlottenburg unter HRB 123456 B,
+ vertreten durch ihre alleinvertretungsberechtigte Geschäftsführerin Dr. Mira Schoeneck,
+ – nachstehend die "Gesellschaft" –
 
 (2) Dr. Mira Schoeneck, geboren [Datum], Musterstraße 12, 10115 Berlin
-    – nachstehend die "Gesellschafterin 1" –
+ – nachstehend die "Gesellschafterin 1" –
 
 (3) Lina Habersaat, geboren [Datum], Beispielweg 5, 20095 Hamburg
-    – nachstehend die "Gesellschafterin 2" –
+ – nachstehend die "Gesellschafterin 2" –
 
 (4) Northstar Pre-Seed Partners GmbH & Co. KG
-    Geschäftsanschrift: Venture-Allee 1, 60329 Frankfurt am Main
-    eingetragen im Handelsregister des Amtsgerichts Frankfurt am Main unter HRA 99999,
-    vertreten durch ihre Komplementärin Northstar Management GmbH, diese vertreten durch [●]
-    – nachstehend der "Darlehensgeber" –
+ Geschäftsanschrift: Venture-Allee 1, 60329 Frankfurt am Main
+ eingetragen im Handelsregister des Amtsgerichts Frankfurt am Main unter HRA 99999,
+ vertreten durch ihre Komplementärin Northstar Management GmbH, diese vertreten durch [●]
+ – nachstehend der "Darlehensgeber" –
 ```
 
 ## Risiken und Red Flags

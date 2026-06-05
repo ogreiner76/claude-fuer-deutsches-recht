@@ -1,13 +1,13 @@
 ---
 name: geschaeftsordnung-vorstand-gruendung
-description: "Nutze dies, wenn Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nicht Eingetragen im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Bitte Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nicht Eingetragen prüfen.; Erstelle eine Arbeitsfassung zu Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nicht Eingetragen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nicht Eingetragen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nicht Eingetragen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nicht Eingetragen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Geschaeftsordnung Vorstand, Gruendung Eingetragener Verein, Gruendung Nic
 ## Aufgabe
 Regelt Sitzungen, Beschlüsse, Ressorts, Zeichnungsrechte, Protokolle und Eilentscheidungen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Führt zur e.-V.-Gründung: sieben Mitglieder, Satzung, Gründungsprotokoll, Vorstand, notarielle Anmeldung, Vereinsregister.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,8 +115,8 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 3. **Wahl Vorstand** (mindestens 1 Person; üblich: 1. + 2. Vorsitzender + Schatzmeister + Schriftführer).
 4. **Protokoll** der Gründungsversammlung mit Tagesordnung, Beschlüssen, Anwesenheitsliste.
 5. **Anmeldung beim Vereinsregister** (§ 59 BGB) durch Vorstand:
-   - **Notarielle Beglaubigung** der Unterschriften (§ 77 BGB).
-   - **Beilagen**: Satzung (Original), Gründungsprotokoll, Vorstandsbestellung.
+ - **Notarielle Beglaubigung** der Unterschriften (§ 77 BGB).
+ - **Beilagen**: Satzung (Original), Gründungsprotokoll, Vorstandsbestellung.
 6. **Vereinsregister-Eintragung** durch Amtsgericht (Registergericht).
 7. **Mitteilung** an Finanzamt für Steuernummer und ggf. Gemeinnützigkeit (§ 60a AO).
 
@@ -167,7 +167,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Begleitet Gründung und Grundordnung eines nicht eingetragenen Vereins mit Mindestregeln, Haftungs- und Kontofragen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

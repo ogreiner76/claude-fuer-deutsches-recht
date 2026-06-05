@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-fehlerkatalog
-description: "Nutze dies, wenn Barrierefreiheit Fehlerkatalog im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Barrierefreiheit Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Barrierefreiheit Fehlerkatalog

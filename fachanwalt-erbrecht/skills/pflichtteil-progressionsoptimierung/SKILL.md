@@ -1,32 +1,32 @@
 ---
 name: pflichtteil-progressionsoptimierung
-description: "Nutze dies, wenn Spezial Pflichtteil Dokumentenmatrix Und Lueckenliste, Spezial Progressionsoptimierung Formular Portal Und Einreichung, Spezial Schnittstellen Zahlen Schwellen Und Berechnung im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Pflichtteil Dokumentenmatrix Und Lueckenliste, Spezial Progressionsoptimierung Formular Portal Und Einreichung, Spezial Schnittstellen Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Pflichtteil Dokumentenmatrix Und Lueckenliste, Spezial Progressionsoptimierung Formular Portal Und Einreichung, Spezial Schnittstellen Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pflichtteil Dokumentenmatrix Und Lueckenliste, Progressionsoptimierung Formular Portal Und Einreichung, Schnittstellen Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Pflichtteil Dokumentenmatrix Und Lueckenliste, Spezial Progressionsoptimierung Formular Portal Und Einreichung, Spezial Schnittstellen Zahlen Schwellen Und Berechnung
+# Pflichtteil Dokumentenmatrix Und Lueckenliste, Progressionsoptimierung Formular Portal Und Einreichung, Schnittstellen Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pflichtteil Dokumentenmatrix Und Lueckenliste, Progressionsoptimierung Formular Portal Und Einreichung, Schnittstellen Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-pflichtteil-dokumentenmatrix-und-lueckenliste` | Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-progressionsoptimierung-formular-portal-und-einreichung` | Progressionsoptimierung: Formular, Portal und Einreichungslogik im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-schnittstellen-zahlen-schwellen-und-berechnung` | Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-pflichtteil-dokumentenmatrix-und-lueckenliste` | Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-progressionsoptimierung-formular-portal-und-einreichung` | Progressionsoptimierung: Formular, Portal und Einreichungslogik im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-schnittstellen-zahlen-schwellen-und-berechnung` | Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Pflichtteil Dokumentenmatrix Und Lueckenliste, Spezial Progressionsoptimierung Formular Portal Und Einreichung, Spezial Schnittstellen Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pflichtteil Dokumentenmatrix Und Lueckenliste, Progressionsoptimierung Formular Portal Und Einreichung, Schnittstellen Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-erbrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-pflichtteil-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -40,7 +40,7 @@ Für **Spezial Pflichtteil Dokumentenmatrix Und Lueckenliste, Spezial Progressio
 
 
 ## Spezialwissen: Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung / spezial pflichtteil dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung / pflichtteil dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, EU, ErbVO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-progressionsoptimierung-formular-portal-und-einreichung`
 
-**Fokus:** Progressionsoptimierung: Formular, Portal und Einreichungslogik im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Progressionsoptimierung: Formular, Portal und Einreichungslogik im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Progressionsoptimierung: Formular, Portal und Einreichungslogik
 
@@ -90,7 +90,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Progressionsoptimierung: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Progressionsoptimierung: Formular, Portal und Einreichungslogik / spezial progressionsoptimierung formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Progressionsoptimierung: Formular, Portal und Einreichungslogik / progressionsoptimierung formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, EU, ErbVO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -126,7 +126,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-schnittstellen-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Erbrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Schnittstellen: Zahlen, Schwellenwerte und Berechnung
 
@@ -140,7 +140,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Schnittstellen: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung / spezial schnittstellen zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung / schnittstellen zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, EU, ErbVO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

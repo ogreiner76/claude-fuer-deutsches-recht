@@ -46,7 +46,7 @@ Nicht dieser Skill, sondern `grosskanzlei-corporate-ma-transaktionsstruktur` ist
 - **§ 1 UmwStG** – Umwandlungssteuerrecht.
 - **§§ 433, 453 BGB** – Kaufvertrag.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Strukturanalyse:**
 
@@ -128,11 +128,11 @@ Drei Beobachtungen aus der Strukturwahl-Praxis:
 - Plugin `steuerrecht-anwalt-und-berater`: Asset vs. Share Deal Tax-Detail.
 - Plugin `insolvenzrecht`: Übertragende Sanierung.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-transaktionsstruktur`
-  - `grosskanzlei-corporate-ma-distressed-ma`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `grosskanzlei-corporate-ma-transaktionsstruktur`
+ - `grosskanzlei-corporate-ma-distressed-ma`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
 
 ## Quellen Stand 06/2026
 

@@ -1,6 +1,6 @@
 ---
 name: rom-neu-008-oskisches-tabula-bantina
-description: "Nutze dies, wenn Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht

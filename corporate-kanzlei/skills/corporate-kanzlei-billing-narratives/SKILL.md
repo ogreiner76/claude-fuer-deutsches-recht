@@ -166,24 +166,24 @@ Matter: [DEAL-CODENAME], Matter-Nr.: [NR.]
 LEISTUNGEN:
 
 Phase: Legal Due Diligence — [DATUM - DATUM]
-Partner [NAME]:           [h] x EUR [Stundensatz] = EUR [Betrag]
-   Narrative: "Leitung und Review Legal-DD-Workstreams: Corporate/Title, Wesentliche
-   Vertraege (CoC-Analyse), Litigation; Abstimmung mit Verkaefer-Kanzlei;
-   Red-Flag-Memo-Freigabe; DD-Report-Review und Signoff"
+Partner [NAME]: [h] x EUR [Stundensatz] = EUR [Betrag]
+ Narrative: "Leitung und Review Legal-DD-Workstreams: Corporate/Title, Wesentliche
+ Vertraege (CoC-Analyse), Litigation; Abstimmung mit Verkaefer-Kanzlei;
+ Red-Flag-Memo-Freigabe; DD-Report-Review und Signoff"
 
-Senior Associate [NAME]:   [h] x EUR [Stundensatz] = EUR [Betrag]
-   Narrative: "DD-Workstream Vertraege: Pruefung und Indexierung 47 Vertraege;
-   Q&A-Bearbeitung 12 Fragen; SPA-Reps-Mapping fuer Material-Contracts-Warranty"
+Senior Associate [NAME]: [h] x EUR [Stundensatz] = EUR [Betrag]
+ Narrative: "DD-Workstream Vertraege: Pruefung und Indexierung 47 Vertraege;
+ Q&A-Bearbeitung 12 Fragen; SPA-Reps-Mapping fuer Material-Contracts-Warranty"
 
-Summe Phase DD:            EUR [Betrag] netto
-Mehrwertsteuer 19 %:       EUR [Betrag]
-Gesamt Phase DD:           EUR [Betrag]
+Summe Phase DD: EUR [Betrag] netto
+Mehrwertsteuer 19 %: EUR [Betrag]
+Gesamt Phase DD: EUR [Betrag]
 
 [Weitere Phasen analogisch...]
 
-GESAMT-HONORAR:            EUR [Betrag] netto
-USt 19 %:                  EUR [Betrag]
-Rechnungsbetrag brutto:    EUR [BETRAG]
+GESAMT-HONORAR: EUR [Betrag] netto
+USt 19 %: EUR [Betrag]
+Rechnungsbetrag brutto: EUR [BETRAG]
 
 Zahlungsziel: 14 Tage nach Rechnungsdatum
 IBAN: [IBAN]

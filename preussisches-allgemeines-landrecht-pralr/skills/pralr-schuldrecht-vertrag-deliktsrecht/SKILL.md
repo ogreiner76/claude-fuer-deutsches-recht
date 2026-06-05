@@ -1,13 +1,13 @@
 ---
 name: pralr-schuldrecht-vertrag-deliktsrecht
-description: "Nutze dies, wenn Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Neu 016 Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Neu 016 Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung prüfen.; Erstelle eine Arbeitsfassung zu Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Neu 016 Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Neu 016 Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung
+# Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Neu 016 Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag, Pralr Spez Vertragsaufhebung Rücktritt Wandlung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -150,7 +150,7 @@ ALR-Loesung: ALR I 6 § — eigener Tatbestand fuer Brieftauben! Pflicht zur Rue
 
 **Fokus:** PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 016 Erster Teil Titel 13 Miete Pacht Dienstvertrag
+# Pralr Erster Teil Titel 13 Miete Pacht Dienstvertrag
 
 ## Aufgabe
 

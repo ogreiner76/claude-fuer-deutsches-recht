@@ -1,6 +1,6 @@
 ---
 name: rom-065-justinianische-kompilation
-description: "Römisches Recht: Justinianische Kompilation. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Justinianische Kompilation. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Justinianische Kompilation

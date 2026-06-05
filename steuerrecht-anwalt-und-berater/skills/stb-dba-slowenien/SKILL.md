@@ -135,11 +135,11 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Quellensteuer, EU-Recht-Anwendung.
 3. **Kurzantwort**: DBA-Slowenien 2006 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-SI 2006).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig bei verbundenen Unternehmen.
-   - Methodenartikel.
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-SI 2006).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig bei verbundenen Unternehmen.
+ - Methodenartikel.
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: § 50d Abs. 3 EStG, MLI ab VZ 2021 (PPT-Klausel).
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

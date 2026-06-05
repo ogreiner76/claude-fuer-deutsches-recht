@@ -8,7 +8,7 @@ description: "Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgem
 ## Aufgabe
 Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgemeinschaften und Zuständigkeiten.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,13 +1,13 @@
 ---
 name: konzernen-pension-pensionsmodelle
-description: "Nutze dies, wenn Spezial Konzernen Dokumentenmatrix Und Lueckenliste, Spezial Pension Verhandlung Vergleich Und Eskalation, Spezial Pensionsmodelle Risikoampel Und Gegenargumente im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Spezial Konzernen Dokumentenmatrix Und Lueckenliste, Spezial Pension Verhandlung Vergleich Und Eskalation, Spezial Pensionsmodelle Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Konzernen Dokumentenmatrix Und Lueckenliste, Spezial Pension Verhandlung Vergleich Und Eskalation, Spezial Pensionsmodelle Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Konzernen Dokumentenmatrix Und Lueckenliste, Pension Verhandlung Vergleich Und Eskalation, Pensionsmodelle Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Konzernen Dokumentenmatrix Und Lueckenliste, Spezial Pension Verhandlung Vergleich Und Eskalation, Spezial Pensionsmodelle Risikoampel Und Gegenargumente
+# Konzernen Dokumentenmatrix Und Lueckenliste, Pension Verhandlung Vergleich Und Eskalation, Pensionsmodelle Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Konzernen Dokumentenmatrix Und Lueckenliste, Pension Verhandlung Vergleich Und Eskalation, Pensionsmodelle Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Konzernen Dokumentenmatrix Und Lueckenliste, Spezial Pension Verhandlung Vergleich Und Eskalation, Spezial Pensionsmodelle Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Konzernen Dokumentenmatrix Und Lueckenliste, Pension Verhandlung Vergleich Und Eskalation, Pensionsmodelle Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Konzernen Dokumentenmatrix Und Lueckenliste, Spezial Pension Verh
 # Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung / spezial konzernen dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung / konzernen dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Pension: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Pension: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Pension: Verhandlung, Vergleich und Eskalation / spezial pension verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pension: Verhandlung, Vergleich und Eskalation / pension verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien / spezial pensionsmodelle risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien / pensionsmodelle risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

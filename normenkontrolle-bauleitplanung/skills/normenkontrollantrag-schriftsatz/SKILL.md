@@ -78,10 +78,10 @@ B. Materielle Mängel
 1. § 1 Abs. 3 BauGB Erforderlichkeit / Planrechtfertigung / Gefälligkeitsplanung
 2. § 8 Abs. 2 BauGB Anpassungsgebot
 3. § 1 Abs. 7 BauGB Abwägung
-   3.1 Abwägungsausfall (Vorfestlegung)
-   3.2 Abwägungsdefizit (übersehene Belange)
-   3.3 Abwägungsfehleinschätzung (falsche Gewichtung)
-   3.4 Abwägungsdisproportionalität (Ergebnis)
+ 3.1 Abwägungsausfall (Vorfestlegung)
+ 3.2 Abwägungsdefizit (übersehene Belange)
+ 3.3 Abwägungsfehleinschätzung (falsche Gewichtung)
+ 3.4 Abwägungsdisproportionalität (Ergebnis)
 4. § 1a Abs. 3 BauGB Eingriffsregelung
 5. § 44 BNatSchG Artenschutz
 6. § 50 BImSchG Trennungsgrundsatz / Lärm

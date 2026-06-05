@@ -1,13 +1,13 @@
 ---
 name: kueschk-annahmeverzug-lohnsteuer
-description: "Nutze dies, wenn Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Prüfung Bewerber Und Beschaeftigte im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Prüfung Bewerber Und Beschaeftigte prüfen.; Erstelle eine Arbeitsfassung zu Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Prüfung Bewerber Und Beschaeftigte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Prüfung Bewerber Und Beschaeftigte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Prüfung Bewerber Und Beschaeftigte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kündigungsschutzklage Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Prüfung Bewerber Und Beschaeftigte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -98,9 +98,9 @@ Annahmeverzugszeitraum: 8 Monate
 Zwischenverdienst: 2500 Euro brutto/Monat
 
 Berechnung:
-  Gesamt-Annahmeverzugslohn: 4000 × 8 = 32000 Euro brutto
-  Anzurechnender Zwischenverdienst: 2500 × 8 = 20000 Euro
-  Netto-Forderung: 32000 - 20000 = 12000 Euro brutto
+ Gesamt-Annahmeverzugslohn: 4000 × 8 = 32000 Euro brutto
+ Anzurechnender Zwischenverdienst: 2500 × 8 = 20000 Euro
+ Netto-Forderung: 32000 - 20000 = 12000 Euro brutto
 ```
 
 ## Strategische Bedeutung für den Vergleich
@@ -123,9 +123,9 @@ Annahmeverzugszeitraum: [DATUM] bis [DATUM] = [MONATE] Monate
 Gesamt-Annahmeverzugslohn: [MONATE] × [BETRAG] = [ERGEBNIS] Euro brutto
 
 Abzüge § 11 KSchG:
-  Zwischenverdienst: [BETRAG] Euro (Monate × neues Gehalt)
-  Böswilliges Unterlassen: [ggf. — Begründung]
-  ALG I: NICHT anzurechnen (§ 11 Nr. 3 KSchG)
+ Zwischenverdienst: [BETRAG] Euro (Monate × neues Gehalt)
+ Böswilliges Unterlassen: [ggf. — Begründung]
+ ALG I: NICHT anzurechnen (§ 11 Nr. 3 KSchG)
 
 Netto-Annahmeverzugsforderung: [ERGEBNIS] Euro brutto
 
@@ -186,16 +186,16 @@ Dieser Skill dient der Beurteilung des sozialversicherungsrechtlichen Beschäfti
 ### Leitentscheidungen (BGH-Stil)
 
 - **Abgrenzungskriterien abhängige Beschäftigung / Selbständigkeit:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Einzelfallabwägung / unternehmerisches Risiko:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Rückwirkung des Statusfeststellungsbescheids:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **§ 266a StGB / Vorsatz:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -349,16 +349,16 @@ Dieser Skill dient dem Entwurf und der rechtlichen Bewertung von Abmahnungen im 
 ### Leitentscheidungen (BGH-Stil)
 
 - **Warnfunktion / Bestimmtheit:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Entbehrlichkeit der Abmahnung:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Abmahnung als Kündigung vorbereitende Maßnahme:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Entfernung aus Personalakte:**
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -370,9 +370,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. Liegt eine **arbeitsvertragliche Pflichtverletzung** vor (Hauptleistungspflicht, Nebenpflicht nach § 241 Abs. 2 BGB)?
 2. Ist die Pflichtverletzung **schuldhaft** (Verschulden des Arbeitnehmers)?
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   - Beharrliche oder wiederholte Pflichtverletzung trotz vorangegangener Abmahnungen?
-   - Schwerwiegender Vertrauensbruch (z. B. Betrug, Diebstahl zu Lasten des Arbeitgebers)?
-   - Dann: direkte Kündigung ggf. möglich.
+ - Beharrliche oder wiederholte Pflichtverletzung trotz vorangegangener Abmahnungen?
+ - Schwerwiegender Vertrauensbruch (z. B. Betrug, Diebstahl zu Lasten des Arbeitgebers)?
+ - Dann: direkte Kündigung ggf. möglich.
 4. **Folgeziel**: Verhaltensänderung herbeiführen → Abmahnung aussprechen. Nur Dokumentation ohne Kündigung → Abmahnung möglich, aber sachlich beschränkt.
 
 ### Schritt 2 – Wirksamkeitsvoraussetzungen prüfen (Checkliste)
@@ -663,38 +663,38 @@ Ergebnis: [🟢 Kein AGG-Risiko / 🟡 Risiko – Maßnahmen erforderlich / 🔴
 
 Fristenwarnung: § 15 Abs. 4 AGG – Ablauf [Datum] – noch [X] Tage
 
-I.   Anwendungsbereich        [§§ 2, 6 AGG]
-     Persönlich: [Ergebnis]
-     Sachlich:   [Ergebnis]
-     Merkmal:    [§ 1 AGG-Merkmal oder keines identifiziert]
+I. Anwendungsbereich [§§ 2, 6 AGG]
+ Persönlich: [Ergebnis]
+ Sachlich: [Ergebnis]
+ Merkmal: [§ 1 AGG-Merkmal oder keines identifiziert]
 
-II.  Benachteiligungsform      [§ 3 AGG]
-     [Unmittelbar / Mittelbar / Belästigung / Keine]
-     Subsumtion: [Kurze Würdigung]
+II. Benachteiligungsform [§ 3 AGG]
+ [Unmittelbar / Mittelbar / Belästigung / Keine]
+ Subsumtion: [Kurze Würdigung]
 
-III. Rechtfertigung            [§§ 5, 8–10 AGG]
-     [Einschlägig / Nicht einschlägig]
-     Begründung: [Norm und Verhältnismäßigkeit]
+III. Rechtfertigung [§§ 5, 8–10 AGG]
+ [Einschlägig / Nicht einschlägig]
+ Begründung: [Norm und Verhältnismäßigkeit]
 
-IV.  Beweislage                [§ 22 AGG]
-     Indizien Bewerber/Beschäftigter: [Ja / Nein / Teilweise]
-     Gegenbeweis Arbeitgeber:         [Möglich / Schwierig / Ausgeschlossen]
+IV. Beweislage [§ 22 AGG]
+ Indizien Bewerber/Beschäftigter: [Ja / Nein / Teilweise]
+ Gegenbeweis Arbeitgeber: [Möglich / Schwierig / Ausgeschlossen]
 
-V.   Ansprüche                 [§ 15 AGG]
-     Schadensersatz (§ 15 Abs. 1): [Betrag / entfällt]
-     Entschädigung (§ 15 Abs. 2):  [Schätzung / entfällt]
-     Frist gewahrt:                 [Ja/Nein – Datum]
+V. Ansprüche [§ 15 AGG]
+ Schadensersatz (§ 15 Abs. 1): [Betrag / entfällt]
+ Entschädigung (§ 15 Abs. 2): [Schätzung / entfällt]
+ Frist gewahrt: [Ja/Nein – Datum]
 
-VI.  Risikoampel               [🟢 / 🟡 / 🔴]
+VI. Risikoampel [🟢 / 🟡 / 🔴]
 
 Handlungsempfehlungen:
-  1. ...
-  2. ...
+ 1. ...
+ 2. ...
 
 Verwandte Skills:
-  - arbeitsrecht/skills/einstellungspruefung/SKILL.md (Gesamtprüfung Einstellung inkl. AGG)
-  - arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md (AGG-Konformität bei Kündigung)
-  - arbeitsrecht/skills/mandat-triage-arbeitsrecht/SKILL.md (Fristprüfung bei Mandatseingang)
+ - arbeitsrecht/skills/einstellungspruefung/SKILL.md (Gesamtprüfung Einstellung inkl. AGG)
+ - arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md (AGG-Konformität bei Kündigung)
+ - arbeitsrecht/skills/mandat-triage-arbeitsrecht/SKILL.md (Fristprüfung bei Mandatseingang)
 ```
 
 ## Kombination AGG-Entschädigung und DSGVO-Auskunft

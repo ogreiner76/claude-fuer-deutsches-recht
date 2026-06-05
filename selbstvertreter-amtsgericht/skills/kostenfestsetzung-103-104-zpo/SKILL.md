@@ -69,19 +69,19 @@ In der Sache [Klaeger] ./. [Beklagter]
 beantrage ich Festsetzung folgender Kosten:
 
 1. Gerichtskosten-Vorschuss vom [Datum]
-   324,00 EUR
+ 324,00 EUR
 2. Sachverstaendigen-Vorschuss vom [Datum]
-   850,00 EUR
+ 850,00 EUR
 3. Reisekosten zum Termin am [Datum]
-   (250 km hin/zurueck, 0,30 EUR/km)
-   75,00 EUR
+ (250 km hin/zurueck, 0,30 EUR/km)
+ 75,00 EUR
 4. Verdienstausfall
-   1 Tag x 8 h x 17 EUR
-   136,00 EUR
+ 1 Tag x 8 h x 17 EUR
+ 136,00 EUR
 5. Porto
-   12,30 EUR
-                              -------
-Gesamt                     1.397,30 EUR
+ 12,30 EUR
+ -------
+Gesamt 1.397,30 EUR
 
 Zugunsten von:
 [Ihr Name, IBAN]

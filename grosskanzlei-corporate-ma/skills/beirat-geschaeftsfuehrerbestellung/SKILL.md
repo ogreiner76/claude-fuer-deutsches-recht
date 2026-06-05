@@ -1,6 +1,6 @@
 ---
 name: beirat-geschaeftsfuehrerbestellung
-description: "Nutze dies, wenn Beirat Geschaeftsfuehrerbestellung im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Geschaeftsfuehrerbestellung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Geschaeftsfuehrerbestellung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Geschaeftsfuehrerbestellung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Geschaeftsfuehrerbestellung

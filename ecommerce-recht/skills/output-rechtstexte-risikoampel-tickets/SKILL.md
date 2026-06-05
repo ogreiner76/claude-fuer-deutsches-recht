@@ -1,6 +1,6 @@
 ---
 name: output-rechtstexte-risikoampel-tickets
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Rechtstexte Risikoampel Tickets."
+description: "Nutze dies bei Output Rechtstexte Risikoampel Tickets: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output Rechtstexte Risikoampel Tickets

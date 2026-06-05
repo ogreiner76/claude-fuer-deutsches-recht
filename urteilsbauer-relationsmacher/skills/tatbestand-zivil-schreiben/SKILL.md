@@ -31,7 +31,7 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Einleitungssatz formulieren:** "Die Parteien streiten über [STREITGEGENSTAND] aus [VERTRAGSART/DELIKT]."
 2. **Unstreitige Tatsachen:** Chronologisch — Vertragsschluss, Lieferung, Zahlung etc.
@@ -82,12 +82,12 @@ Die Beklagte lieferte am [DATUM].
 Der Kläger behauptet, [STREITIGE TATSACHE KLÄGER].
 
 Der Kläger beantragt,
-    die Beklagte zu verurteilen, an ihn [BETRAG] EUR nebst Zinsen zu zahlen.
+ die Beklagte zu verurteilen, an ihn [BETRAG] EUR nebst Zinsen zu zahlen.
 
 Die Beklagte behauptet, [STREITIGE TATSACHE BEKLAGTE].
 
 Die Beklagte beantragt,
-    die Klage abzuweisen.
+ die Klage abzuweisen.
 
 Das Gericht hat Beweis erhoben durch Vernehmung des Zeugen [NAME] sowie durch Einholung
 eines schriftlichen Sachverständigengutachtens des Sachverständigen [NAME] vom [DATUM].

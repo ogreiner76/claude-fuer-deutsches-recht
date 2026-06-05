@@ -56,7 +56,7 @@ Zwischen Finanzamt [ORT] - Sachgebietsleiter [NAME] - und Steuerpflichtigem [NAM
 5. Bindung: Die Verstaendigung bindet beide Seiten; sie umfasst nicht die rechtliche Wuerdigung.
 6. Vorbehalt der Nachpruefung wird [aufgehoben/aufrechterhalten].
 
-Ort, Datum            [FA]                 [Mandant]              [Berater]
+Ort, Datum [FA] [Mandant] [Berater]
 ```
 
 ## Abgrenzung zu anderen Skills dieses Plugins

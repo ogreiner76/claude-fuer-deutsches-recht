@@ -1,13 +1,13 @@
 ---
 name: extremismus-verdachtsfall-geheimschutz
-description: "Nutze dies, wenn Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl prüfen.; Erstelle eine Arbeitsfassung zu Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -114,7 +114,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -225,7 +225,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -282,18 +282,18 @@ Der Soldat schuldet nach § 11 SG Gehorsam gegenüber dienstlichen Befehlen sein
 - §§ 32 ff. WDO: Disziplinarverfahren bei Ungehorsam.
 - § 22 WBO: Pflicht zur Befehlsausführung trotz Beschwerde (aufschiebende Wirkung nur ausnahmsweise).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Befehl präzise rekonstruieren.** Wortlaut, Zeitpunkt, Vorgesetzter, Zeugen, Begleitumstände dokumentieren. Schriftliche Bestätigung verlangen, wenn möglich.
 2. **Pflichtenkollision prüfen.** Ist der Befehl
-   (a) rechtmäßig und verbindlich,
-   (b) rechtswidrig, aber verbindlich (auszuführen mit Beschwerde) oder
-   (c) unverbindlich (zu verweigern: Menschenwürde, Strafrecht, fehlender dienstlicher Zweck)?
+ (a) rechtmäßig und verbindlich,
+ (b) rechtswidrig, aber verbindlich (auszuführen mit Beschwerde) oder
+ (c) unverbindlich (zu verweigern: Menschenwürde, Strafrecht, fehlender dienstlicher Zweck)?
 3. **Remonstrieren.** Bei Zweifeln: Bedenken gegenüber dem Vorgesetzten melden, Bestätigung verlangen, Rechtsgrundlage erfragen. Pflicht zur Remonstration ergibt sich aus § 11 II SG analog und der ständigen Rechtsprechung der Truppendienstkammern und Wehrdienstsenate.
 4. **Entscheidung treffen.**
-   - Bei strafrechtlicher Offensichtlichkeit: Verweigerung, schriftliche Begründung.
-   - Bei nicht offensichtlicher Strafrechtswidrigkeit: Ausführung und parallele Beschwerde.
-   - Bei Menschenwürdeverstoß: Verweigerung, sofortige Meldung an höhere Stelle.
+ - Bei strafrechtlicher Offensichtlichkeit: Verweigerung, schriftliche Begründung.
+ - Bei nicht offensichtlicher Strafrechtswidrigkeit: Ausführung und parallele Beschwerde.
+ - Bei Menschenwürdeverstoß: Verweigerung, sofortige Meldung an höhere Stelle.
 5. **Beweissicherung.** Zeugen benennen, Sprechfunkmitschnitt, Befehlsprotokoll, eigene Notiz mit Datum/Uhrzeit.
 6. **Rechtsbeistand.** Bei Strafanzeige oder WDO-Vorgang sofort Verteidiger einschalten; § 90 WDO Anwesenheitsrecht.
 

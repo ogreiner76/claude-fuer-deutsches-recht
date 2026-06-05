@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Lebensmittel- und Futtermittelrecht
-Ressort:            BMLEH
-Kernnormen:         LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.
-Akteure/Aufsicht:   BVL; BfR; Laender-Lebensmittelueberwachung; BMLEH; EFSA (EU).
-EU/Voelkerrecht:    VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmleh; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Lebensmittel- und Futtermittelrecht
+Ressort: BMLEH
+Kernnormen: LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.
+Akteure/Aufsicht: BVL; BfR; Laender-Lebensmittelueberwachung; BMLEH; EFSA (EU).
+EU/Voelkerrecht: VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -22,15 +22,15 @@ Skill fuer arbeitsrechtliche AGB-Kontrolle nach § 310 Abs. 4 BGB.
 
 ### Verfallklausel / Ausschlussfrist
 - Klausel "Ansprueche aus dem Arbeitsverhaeltnis verfallen, soweit sie nicht innerhalb von 3 Monaten geltend gemacht werden" hat in der Tendenz Bestand, wenn:
-  - beide Seiten erfasst sind (gegenseitig),
-  - Mindestlohn / unabdingbare Ansprueche ausdruecklich ausgenommen sind,
-  - Frist nicht unter 3 Monaten.
+ - beide Seiten erfasst sind (gegenseitig),
+ - Mindestlohn / unabdingbare Ansprueche ausdruecklich ausgenommen sind,
+ - Frist nicht unter 3 Monaten.
 - BAG 5 AZR 545/13 (Az verifizieren): Ausschlussfristen unter 3 Monaten unwirksam.
 
 ### Rueckzahlungsklausel fuer Aus- und Fortbildung
 - Klassische BAG-Linie: nur wirksam, wenn:
-  - der Mitarbeiter einen geldwerten Vorteil aus der Fortbildung zieht,
-  - die Bindungsdauer in einem angemessenen Verhaeltnis zur Fortbildung steht (Faustregel: bis 1 Monat — kein Bindung, 1-2 Monate — bis 6 Monate, 2-4 Monate — bis 1 Jahr, 6-12 Monate — bis 3 Jahre, > 24 Monate — bis 5 Jahre).
+ - der Mitarbeiter einen geldwerten Vorteil aus der Fortbildung zieht,
+ - die Bindungsdauer in einem angemessenen Verhaeltnis zur Fortbildung steht (Faustregel: bis 1 Monat — kein Bindung, 1-2 Monate — bis 6 Monate, 2-4 Monate — bis 1 Jahr, 6-12 Monate — bis 3 Jahre, > 24 Monate — bis 5 Jahre).
 - Klausel muss differenzieren nach Kuendigungsgrund (Eigenkuendigung des Arbeitnehmers schadet, betriebsbedingte Kuendigung des Arbeitgebers nicht).
 
 ### Vertragsstrafe im Arbeitsvertrag

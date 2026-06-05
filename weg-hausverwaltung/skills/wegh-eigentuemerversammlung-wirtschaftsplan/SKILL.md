@@ -1,13 +1,13 @@
 ---
 name: wegh-eigentuemerversammlung-wirtschaftsplan
-description: "Nutze dies, wenn Wegh Eigentuemerversammlung Bauleiter, Wegh Wirtschaftsplan Jahresabrechnung Leitfaden, Wirtschaftsplan Jahresabrechnung 28 Weg im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Wegh Eigentuemerversammlung Bauleiter, Wegh Wirtschaftsplan Jahresabrechnung Leitfaden, Wirtschaftsplan Jahresabrechnung 28 Weg prüfen.; Erstelle eine Arbeitsfassung zu Wegh Eigentuemerversammlung Bauleiter, Wegh Wirtschaftsplan Jahresabrechnung Leitfaden, Wirtschaftsplan Jahresabrechnung 28 Weg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wegh Eigentuemerversammlung Bauleiter, Wegh Wirtschaftsplan Jahresabrechnung Leitfaden, Wirtschaftsplan Jahresabrechnung 28 Weg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wegh Eigentuemerversammlung Bauleiter, Wegh Wirtschaftsplan Jahresabrechnung Leitfaden, Wirtschaftsplan Jahresabrechnung 28 Weg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wegh Eigentuemerversammlung Bauleiter, Wegh Wirtschaftsplan Jahresabrechnung Leitfaden, Wirtschaftsplan Jahresabrechnung 28 Weg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -112,7 +112,7 @@ Dieser Skill gehoert zum Plugin `weg-hausverwaltung`. Er ergaenzt die uebrigen S
 
 Dieser Skill führt Verwalter, Beirat, Eigentümer und Anwälte durch die aktuelle § 28-WEG-Logik. Er vermeidet den alten Reflex, "die Jahresabrechnung zu genehmigen". Beschlossen werden Nachschüsse und die Anpassung von Vorschüssen; der Wirtschaftsplan stützt die Vorschüsse.
 
-## Kaltstart
+## Einstieg
 
 1. Geht es um Erstellung, Beschlussvorbereitung, Beiratsprüfung, Anfechtung oder Mieterschnittstelle?
 2. Abrechnungsjahr, Zahl der Einheiten, Wohn-/Gewerbeanteile, besondere Nutzer?

@@ -1,13 +1,13 @@
 ---
 name: top-generator-verwalterpflichten-weg-wegh
-description: "Nutze dies, wenn Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial prüfen.; Erstelle eine Arbeitsfassung zu Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -116,14 +116,14 @@ Verwalterhandeln rechtssicher einordnen: Was darf der Verwalter allein, was brau
 
 - **Bestellung / Laufzeit / Abberufung** (§ 26 WEG): jederzeitige Abberufbarkeit; Bestellung höchstens 5 Jahre (3 Jahre nach erster Bestellung).
 - **Aufgaben / Befugnisse** (§ 27 WEG):
-  - Maßnahmen ordnungsmäßiger Verwaltung von untergeordneter Bedeutung (Bagatellen, keine erheblichen Folgen).
-  - Maßnahmen zur Wahrung einer Frist oder zur Abwendung eines Nachteils (Eilmaßnahmen).
-  - Vertretung der GdWE im Außenverhältnis (§ 9b WEG).
+ - Maßnahmen ordnungsmäßiger Verwaltung von untergeordneter Bedeutung (Bagatellen, keine erheblichen Folgen).
+ - Maßnahmen zur Wahrung einer Frist oder zur Abwendung eines Nachteils (Eilmaßnahmen).
+ - Vertretung der GdWE im Außenverhältnis (§ 9b WEG).
 - **Informationspflichten**: Belege, Beschlusssammlung (§ 24 Abs. 7 WEG), Vermögensbericht (§ 28 Abs. 4 WEG), Jahresabrechnung.
 - **Haftungsraster** seit WEMoG:
-  - Verwaltervertrag entfaltet **keine** Schutzwirkung für einzelne Eigentümer — Ansprüche aus Pflichtverletzungen laufen über die GdWE: BGH, Urteil vom 05.07.2024, V ZR 34/24 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.07.2024&Aktenzeichen=V+ZR+34/24).
-  - Anspruch auf Erstellung der Jahresabrechnung richtet sich gegen die GdWE, nicht persönlich gegen den Verwalter: BGH, Urteil vom 19.04.2024, V ZR 167/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.04.2024&Aktenzeichen=V+ZR+167/23).
-  - Einzeleigentümer kann dennoch die GdWE auf Schadensersatz in Anspruch nehmen; die GdWE nimmt anschließend Regress beim Verwalter.
+ - Verwaltervertrag entfaltet **keine** Schutzwirkung für einzelne Eigentümer — Ansprüche aus Pflichtverletzungen laufen über die GdWE: BGH, Urteil vom 05.07.2024, V ZR 34/24 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.07.2024&Aktenzeichen=V+ZR+34/24).
+ - Anspruch auf Erstellung der Jahresabrechnung richtet sich gegen die GdWE, nicht persönlich gegen den Verwalter: BGH, Urteil vom 19.04.2024, V ZR 167/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.04.2024&Aktenzeichen=V+ZR+167/23).
+ - Einzeleigentümer kann dennoch die GdWE auf Schadensersatz in Anspruch nehmen; die GdWE nimmt anschließend Regress beim Verwalter.
 
 ## Kompetenzmatrix (Beispiele, immer einzelfallabhängig)
 
@@ -162,7 +162,7 @@ Verwalterhandeln rechtssicher einordnen: Was darf der Verwalter allein, was brau
 
 ## Quellenpflicht
 
-`rechtsstand-mai-2026-faktenbank` laden. § 26, § 27 WEG: https://www.gesetze-im-internet.de/woeigg/__26.html , https://www.gesetze-im-internet.de/woeigg/__27.html .
+`rechtsstand-mai-2026-faktenbank` laden. § 26, § 27 WEG: https://www.gesetze-im-internet.de/woeigg/__26.html, https://www.gesetze-im-internet.de/woeigg/__27.html .
 
 
 ## Qualitäts-Hardening

@@ -1,13 +1,13 @@
 ---
 name: ihl-zahlungsbedingungen-ihl-akkreditiv-ihl
-description: "Nutze dies, wenn Ihl 036 Zahlungsbedingungen Open Account, Ihl 037 Akkreditiv Ucp 600, Ihl 038 Standby Letter Isp98, Ihl 039 Bankgarantie Urgd im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Ihl 036 Zahlungsbedingungen Open Account, Ihl 037 Akkreditiv Ucp 600, Ihl 038 Standby Letter Isp98, Ihl 039 Bankgarantie Urgd: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 036 Zahlungsbedingungen Open Account, Ihl 037 Akkreditiv Ucp 600, Ihl 038 Standby Letter Isp98, Ihl 039 Bankgarantie Urgd
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 036 Zahlungsbedingungen Open Account, Ihl 037 Akkreditiv Ucp 600, Ihl 038 Standby Letter Isp98, Ihl 039 Bankgarantie Urgd** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

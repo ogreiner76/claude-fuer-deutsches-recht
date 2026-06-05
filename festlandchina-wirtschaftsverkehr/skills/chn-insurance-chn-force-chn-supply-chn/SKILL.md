@@ -1,13 +1,13 @@
 ---
 name: chn-insurance-chn-force-chn-supply-chn
-description: "Nutze dies, wenn Chn 081 Insurance Political Risk, Chn 082 Force Majeure And Change In Law, Chn 083 Supply Disruption Playbook, Chn 084 Quality Crisis And Recall im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 081 Insurance Political Risk, Chn 082 Force Majeure And Change In Law, Chn 083 Supply Disruption Playbook, Chn 084 Quality Crisis And Recall prüfen.; Erstelle eine Arbeitsfassung zu Chn 081 Insurance Political Risk, Chn 082 Force Majeure And Change In Law, Chn 083 Supply Disruption Playbook, Chn 084 Quality Crisis And Recall.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chn 081 Insurance Political Risk, Chn 082 Force Majeure And Change In Law, Chn 083 Supply Disruption Playbook, Chn 084 Quality Crisis And Recall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Chn 081 Insurance Political Risk, Chn 082 Force Majeure And Change In Law, Chn 083 Supply Disruption Playbook, Chn 084 Quality Crisis And Recall
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chn 081 Insurance Political Risk, Chn 082 Force Majeure And Change In Law, Chn 083 Supply Disruption Playbook, Chn 084 Quality Crisis And Recall** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

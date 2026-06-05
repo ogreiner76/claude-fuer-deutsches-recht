@@ -1,13 +1,13 @@
 ---
 name: kfe-krisenstab-cross-class
-description: "Nutze dies, wenn Kfe Krisenstab Massnahmen Leitfaden, Cross Class Cram Down Und Absolute Priority, Dokumentationspflicht Und Protokollierung Geschaeftsfuehrung im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Kfe Krisenstab Massnahmen Leitfaden, Cross Class Cram Down Und Absolute Priority, Dokumentationspflicht Und Protokollierung Geschaeftsfuehrung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kfe Krisenstab Massnahmen Leitfaden, Cross Class Cram Down Und Absolute Priority, Dokumentationspflicht Und Protokollierung Geschaeftsfuehrung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kfe Krisenstab Massnahmen Leitfaden, Cross Class Cram Down Und Absolute Priority, Dokumentationspflicht Und Protokollierung Geschaeftsfuehrung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -120,20 +120,20 @@ Die Absolute Priority Rule ordnet die Befriedigungsreihenfolge streng nach Rang:
 
 ```
 RANGFOLGE (vereinfacht):
-  1. Gesicherte Gläubiger (bis zur Höhe der Besicherung)
-  2. Vorrangige ungesicherte Gläubiger (z.B. Senioranleihen)
-  3. Nachrangige ungesicherte Gläubiger
-  4. Gesellschafter/Anteilsinhaber
+ 1. Gesicherte Gläubiger (bis zur Höhe der Besicherung)
+ 2. Vorrangige ungesicherte Gläubiger (z.B. Senioranleihen)
+ 3. Nachrangige ungesicherte Gläubiger
+ 4. Gesellschafter/Anteilsinhaber
 
 CRAM-DOWN-REGEL:
-  Eine rangniedrigere Gruppe darf nichts erhalten,
-  solange eine ranghöhere Gruppe nicht voll befriedigt wurde —
-  es sei denn, alle ranghöheren Gruppen stimmen zu.
+ Eine rangniedrigere Gruppe darf nichts erhalten,
+ solange eine ranghöhere Gruppe nicht voll befriedigt wurde —
+ es sei denn, alle ranghöheren Gruppen stimmen zu.
 
 RELATIVE PRIORITY (§ 27 Abs. 2 StaRUG-Ausnahme):
-  Deutsche Ausnahmeregelung erlaubt Abweichung von der strikten
-  Absolute Priority Rule, wenn alle Beteiligten angemessen beteiligt
-  werden und die Abweichung vom Gericht gebilligt wird.
+ Deutsche Ausnahmeregelung erlaubt Abweichung von der strikten
+ Absolute Priority Rule, wenn alle Beteiligten angemessen beteiligt
+ werden und die Abweichung vom Gericht gebilligt wird.
 ```
 
 ### 3. Obstruktionsverbot — § 31 StaRUG
@@ -165,18 +165,18 @@ Die Vergleichsrechnung ist das Herzstück des Cram-Down-Verfahrens:
 VERGLEICHSRECHNUNG (ablehnende Gruppe — Beispiel):
 
 Alternativszenario (Regelinsolvenzverfahren):
-  Verwertungserlös Masse: EUR [___]
-  Verfahrenskosten (Insolvenzverwalter, Gericht): EUR [___]
-  Vorrangige Gläubiger: EUR [___]
-  = Verbleibend für ablehnende Gruppe: EUR [___]
-  = Quote: [x] %
+ Verwertungserlös Masse: EUR [___]
+ Verfahrenskosten (Insolvenzverwalter, Gericht): EUR [___]
+ Vorrangige Gläubiger: EUR [___]
+ = Verbleibend für ablehnende Gruppe: EUR [___]
+ = Quote: [x] %
 
 Planscenario:
-  Auszahlung an ablehnende Gruppe gemäß Plan: EUR [___]
-  = Quote Plan: [x] %
+ Auszahlung an ablehnende Gruppe gemäß Plan: EUR [___]
+ = Quote Plan: [x] %
 
 Ergebnis: Plan-Quote [x] % ≥ Insolvenz-Quote [x] %
-          → Schlechterstellungsverbot eingehalten
+ → Schlechterstellungsverbot eingehalten
 ```
 
 ### Schritt 3: Antrag auf Bestätigung trotz ablehnender Gruppe
@@ -211,31 +211,31 @@ Stand: [Datum]
 ALTERNATIVSZENARIO — REGELINSOLVENZVERFAHREN
 
 Aktivmasse:
-  Immaterielle Vermögenswerte (Marktwert): EUR [___]
-  Sachanlagen (Schätzwert Verwerter):      EUR [___]
-  Vorräte (abzgl. Abwertung 30 %):         EUR [___]
-  Forderungen (abzgl. Ausfälle 20 %):      EUR [___]
-  Kassenbestand:                            EUR [___]
-= BRUTTOAKTIVMASSE:                         EUR [___]
-  ./. Insolvenzkosten (ca. 10-15 %):        EUR [___]
-= NETTO-VERTEILUNGSMASSE:                   EUR [___]
+ Immaterielle Vermögenswerte (Marktwert): EUR [___]
+ Sachanlagen (Schätzwert Verwerter): EUR [___]
+ Vorräte (abzgl. Abwertung 30 %): EUR [___]
+ Forderungen (abzgl. Ausfälle 20 %): EUR [___]
+ Kassenbestand: EUR [___]
+= BRUTTOAKTIVMASSE: EUR [___]
+ ./. Insolvenzkosten (ca. 10-15 %): EUR [___]
+= NETTO-VERTEILUNGSMASSE: EUR [___]
 
 RANGVERTEILUNG (Insolvenzreihenfolge):
-  Massegläubiger (§ 55 InsO):              EUR [___]
-  Absonderungsberechtigte:                 EUR [___]
-  = Verbleibend für Insolvenzgläubiger:    EUR [___]
-  Gruppe 1 (gesichert):  Quote [x] %       EUR [___]
-  Gruppe 2 (ungesichert): Quote [x] %      EUR [___]
-  Gruppe 3 (nachrangig):  Quote [0] %      EUR [___]
+ Massegläubiger (§ 55 InsO): EUR [___]
+ Absonderungsberechtigte: EUR [___]
+ = Verbleibend für Insolvenzgläubiger: EUR [___]
+ Gruppe 1 (gesichert): Quote [x] % EUR [___]
+ Gruppe 2 (ungesichert): Quote [x] % EUR [___]
+ Gruppe 3 (nachrangig): Quote [0] % EUR [___]
 
 PLANSCENARIO:
-  Gruppe 1 erhält:  [Zahlung/Befriedigung]: EUR [___] = Quote [x] %
-  Gruppe 2 erhält:  [Zahlung/Befriedigung]: EUR [___] = Quote [x] %
-  Gruppe 3 erhält:  [Zahlung/Befriedigung]: EUR [___] = Quote [x] %
+ Gruppe 1 erhält: [Zahlung/Befriedigung]: EUR [___] = Quote [x] %
+ Gruppe 2 erhält: [Zahlung/Befriedigung]: EUR [___] = Quote [x] %
+ Gruppe 3 erhält: [Zahlung/Befriedigung]: EUR [___] = Quote [x] %
 
 ERGEBNIS:
-  Alle Gruppen: Plan-Quote ≥ Insolvenz-Quote → Schlechterstellungsverbot eingehalten
-  Absolute Priority Rule: [Eingehalten / Abweichung begründet]
+ Alle Gruppen: Plan-Quote ≥ Insolvenz-Quote → Schlechterstellungsverbot eingehalten
+ Absolute Priority Rule: [Eingehalten / Abweichung begründet]
 ```
 
 ---
@@ -266,7 +266,7 @@ ERGEBNIS:
 ## Aktuelle Leitentscheidungen — Cross-Class Cramdown (Stand Mai 2026)
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA AG): Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss) als unzulässig zurückgewiesen. Die Beschwerdeführer hatten Grundrechtsverletzungen nicht hinreichend dargelegt; die Beschwerde war nicht gegen § 66 Abs. 2 Nr. 3 StaRUG selbst gerichtet. Aus der Entscheidung folgt mittelbar: Der Cross-Class-Cramdown ist verfassungsrechtlich tragfähig, wenn die Schlechterstellungsprüfung wirksam greift.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Restrukturierungsgerichts-Entscheidungen zur Praxis des § 26 StaRUG (Bedingungen, Quoren, Schlechterstellungsprüfung) vor Ausgabe über offene Quellen verifizieren.
 
 ## Paragrafenkette Cross-Class Cramdown
@@ -409,49 +409,49 @@ Anwesend: [Name GF 1], [Name GF 2]
 Protokollführer: [Name]
 
 TAGESORDNUNG:
-  TOP 1: Wirtschaftliche Lage / KPI-Review
-  TOP 2: Maßnahmenstand
-  TOP 3: Eskalation und Information Gesellschafter
-  TOP 4: Sonstiges
+ TOP 1: Wirtschaftliche Lage / KPI-Review
+ TOP 2: Maßnahmenstand
+ TOP 3: Eskalation und Information Gesellschafter
+ TOP 4: Sonstiges
 
 PROTOKOLL:
 
 TOP 1 — Wirtschaftliche Lage / KPI-Review
-  Präsentiert von: [Name]
-  Liquiditätsreichweite: [x] Monate (Ampel: [GRÜN/GELB/ROT])
-  EBITDA-Coverage: [x,xx]x (Ampel: [GRÜN/GELB/ROT])
-  Net-Debt/EBITDA: [x,xx]x (Ampel: [GRÜN/GELB/ROT])
-  Covenant-Headroom: [x] % (Ampel: [GRÜN/GELB/ROT])
-  Gesamtampel: [GRÜN/GELB/ROT]
+ Präsentiert von: [Name]
+ Liquiditätsreichweite: [x] Monate (Ampel: [GRÜN/GELB/ROT])
+ EBITDA-Coverage: [x,xx]x (Ampel: [GRÜN/GELB/ROT])
+ Net-Debt/EBITDA: [x,xx]x (Ampel: [GRÜN/GELB/ROT])
+ Covenant-Headroom: [x] % (Ampel: [GRÜN/GELB/ROT])
+ Gesamtampel: [GRÜN/GELB/ROT]
 
-  Besondere Entwicklungen:
-  [Beschreibung von Abweichungen und Ursachen]
+ Besondere Entwicklungen:
+ [Beschreibung von Abweichungen und Ursachen]
 
 TOP 2 — Maßnahmenstand
-  Laufende Maßnahmen:
-    1. [Maßnahme] — Stand: [Beschreibung] — Verantwortlich: [Name] — Frist: [Datum]
-    2. [Maßnahme] — Stand: [Beschreibung] — Verantwortlich: [Name] — Frist: [Datum]
+ Laufende Maßnahmen:
+ 1. [Maßnahme] — Stand: [Beschreibung] — Verantwortlich: [Name] — Frist: [Datum]
+ 2. [Maßnahme] — Stand: [Beschreibung] — Verantwortlich: [Name] — Frist: [Datum]
 
-  Neu beschlossen:
-    [Maßnahmenbeschluss]
-    Einstimmig / mit [x/y] Stimmen angenommen.
+ Neu beschlossen:
+ [Maßnahmenbeschluss]
+ Einstimmig / mit [x/y] Stimmen angenommen.
 
 TOP 3 — Eskalation und Information
-  Gesellschafter informiert am: [Datum] / Nächste Info geplant: [Datum]
-  AR informiert am: [Datum] / Nicht anwendbar
-  Berater (StB/RA): [Name, Funktion] informiert am [Datum]
+ Gesellschafter informiert am: [Datum] / Nächste Info geplant: [Datum]
+ AR informiert am: [Datum] / Nicht anwendbar
+ Berater (StB/RA): [Name, Funktion] informiert am [Datum]
 
-  Beschluss: [Eskalationsmaßnahme falls erforderlich]
+ Beschluss: [Eskalationsmaßnahme falls erforderlich]
 
 TOP 4 — Sonstiges
-  [Sonstige Punkte]
+ [Sonstige Punkte]
 
 NÄCHSTE SITZUNG: [Datum, Uhrzeit]
 
 [Ort], [Datum]
 Unterschriften:
-______________________   ______________________
-[GF 1]                   [GF 2]
+______________________ ______________________
+[GF 1] [GF 2]
 ```
 
 ### Muster: Krisenprotokoll — Erstkenntnisnachweis
@@ -464,26 +464,26 @@ Datum der Ersterkenntnis: [TT.MM.JJJJ, HH:MM Uhr]
 Erstellt von: [Name, Funktion]
 
 1. ERKANNTE SITUATION
-   [Präzise Beschreibung: was wurde erkannt, auf Basis welcher Informationen?]
-   Quelle: [ ] BWA  [ ] Bankgespräch  [ ] Beraterhinweis  [ ] Eigene Analyse
+ [Präzise Beschreibung: was wurde erkannt, auf Basis welcher Informationen?]
+ Quelle: [ ] BWA [ ] Bankgespräch [ ] Beraterhinweis [ ] Eigene Analyse
 
 2. RECHTLICHE EINSCHÄTZUNG
-   [ ] Bestandsgefährdende Entwicklung (§ 1 StaRUG)
-   [ ] Drohende Zahlungsunfähigkeit (§ 18 InsO)
-   [ ] Überschuldungsrisiko (§ 19 InsO)
-   [ ] Eingetretene Zahlungsunfähigkeit (§ 17 InsO) → § 15a InsO!
-   Begründung: [___]
+ [ ] Bestandsgefährdende Entwicklung (§ 1 StaRUG)
+ [ ] Drohende Zahlungsunfähigkeit (§ 18 InsO)
+ [ ] Überschuldungsrisiko (§ 19 InsO)
+ [ ] Eingetretene Zahlungsunfähigkeit (§ 17 InsO) → § 15a InsO!
+ Begründung: [___]
 
 3. UNMITTELBARE MAßNAHMEN (innerhalb 24-72 Stunden)
-   [ ] Berater eingeschaltet: [Name, Datum]
-   [ ] Gesellschafter informiert: [Datum]
-   [ ] Liquiditätsplan aktualisiert: [Datum]
-   [ ] KPI-Ampel aktualisiert: [Datum]
-   [ ] Eskalationsprotokoll erstellt: [Datum]
+ [ ] Berater eingeschaltet: [Name, Datum]
+ [ ] Gesellschafter informiert: [Datum]
+ [ ] Liquiditätsplan aktualisiert: [Datum]
+ [ ] KPI-Ampel aktualisiert: [Datum]
+ [ ] Eskalationsprotokoll erstellt: [Datum]
 
 4. ZAHLUNGEN NACH ERKENNTNISZEITPUNKT
-   Zahlungen geleistet nach [Datum]:
-   [Beschreibung, Betrag, Empfänger, Rechtfertigungsgrund]
+ Zahlungen geleistet nach [Datum]:
+ [Beschreibung, Betrag, Empfänger, Rechtfertigungsgrund]
 
 Unterschriften aller GF: _________________________ Datum: ____________
 ```
@@ -501,18 +501,18 @@ Teilnehmer Bank: [Funktion, fiktiver Name]
 Erstellt am: [TT.MM.JJJJ] (innerhalb 24 Stunden nach Gespräch)
 
 GESPRÄCHSINHALT:
-  1. [Thema und Ergebnis]
-  2. [Thema und Ergebnis]
-  3. Covenant-Status: [besprochen / nicht besprochen]
-  4. Kreditzusagen: [gemacht / nicht gemacht / widerrufen]
+ 1. [Thema und Ergebnis]
+ 2. [Thema und Ergebnis]
+ 3. Covenant-Status: [besprochen / nicht besprochen]
+ 4. Kreditzusagen: [gemacht / nicht gemacht / widerrufen]
 
 KRITISCHE AUSSAGEN DER BANK:
-  [wörtliche oder sinngemäße Zitate mit Einschätzung der Relevanz]
+ [wörtliche oder sinngemäße Zitate mit Einschätzung der Relevanz]
 
 NÄCHSTE SCHRITTE:
-  Gesellschaft: [Maßnahme, Frist]
-  Bank: [Maßnahme, Frist]
-  Nächster Termin: [Datum]
+ Gesellschaft: [Maßnahme, Frist]
+ Bank: [Maßnahme, Frist]
+ Nächster Termin: [Datum]
 
 Erstellt von: ___________________ Datum: ___________
 ```

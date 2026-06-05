@@ -1,13 +1,13 @@
 ---
 name: pflvg-quoten-sonderfall-stgb
-description: "Nutze dies, wenn Spezial Pflvg Risikoampel Und Gegenargumente, Spezial Quoten Sonderfall Und Edge Case, Spezial Stgb Formular Portal Und Einreichung im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Pflvg Risikoampel Und Gegenargumente, Spezial Quoten Sonderfall Und Edge Case, Spezial Stgb Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Pflvg Risikoampel Und Gegenargumente, Spezial Quoten Sonderfall Und Edge Case, Spezial Stgb Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pflvg Risikoampel Und Gegenargumente, Quoten Sonderfall Und Edge Case, Stgb Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Pflvg Risikoampel Und Gegenargumente, Spezial Quoten Sonderfall Und Edge Case, Spezial Stgb Formular Portal Und Einreichung
+# Pflvg Risikoampel Und Gegenargumente, Quoten Sonderfall Und Edge Case, Stgb Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pflvg Risikoampel Und Gegenargumente, Quoten Sonderfall Und Edge Case, Stgb Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Pflvg Risikoampel Und Gegenargumente, Spezial Quoten Sonderfall Und Edge Case, Spezial Stgb Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pflvg Risikoampel Und Gegenargumente, Quoten Sonderfall Und Edge Case, Stgb Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Pflvg Risikoampel Und Gegenargumente, Spezial Quoten Sonderfall U
 # Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien / spezial pflvg risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien / pflvg risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Quoten: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Quoten: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Quoten: Sonderfall und Edge-Case-Prüfung / spezial quoten sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Quoten: Sonderfall und Edge-Case-Prüfung / quoten sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Stgb: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Stgb: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Stgb: Formular, Portal und Einreichungslogik / spezial stgb formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Stgb: Formular, Portal und Einreichungslogik / stgb formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -149,27 +149,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Verkehrsrechts-Formular / Portal Bausteine
 - **Versicherer-Portale (Unfallregulierung):**
-  - **HUK24, Allianz, AXA, Generali, R+V, DEVK** etc. - Online-Schadenmeldung mit Aktenzeichen.
-  - **GDV-Online (Gesamtverband Deutscher Versicherer):** Aktenzeichenabfrage HISP (Hinweis- und Informationssystem); Halterabfrage, Versicherungsauskunft.
-  - **TYP A / B-Anlageformular** Versicherer fuer Personen- vs. Sachschaden.
+ - **HUK24, Allianz, AXA, Generali, R+V, DEVK** etc. - Online-Schadenmeldung mit Aktenzeichen.
+ - **GDV-Online (Gesamtverband Deutscher Versicherer):** Aktenzeichenabfrage HISP (Hinweis- und Informationssystem); Halterabfrage, Versicherungsauskunft.
+ - **TYP A / B-Anlageformular** Versicherer fuer Personen- vs. Sachschaden.
 - **Behoerden / Aemter:**
-  - **KBA Flensburg (Kraftfahrt-Bundesamt):** Halterabfrage § 29 StVG; FAER-Punkte online.
-  - **Fuehrerscheinstelle (Landratsamt / Buergeramt):** Antraege MPU, Wiedererteilung Fahrerlaubnis § 20 FeV, Umtausch.
-  - **Bussgeldstelle (zentrales OWi-Verfahren des jeweiligen Bundeslands):** Einspruch § 67 OWiG.
+ - **KBA Flensburg (Kraftfahrt-Bundesamt):** Halterabfrage § 29 StVG; FAER-Punkte online.
+ - **Fuehrerscheinstelle (Landratsamt / Buergeramt):** Antraege MPU, Wiedererteilung Fahrerlaubnis § 20 FeV, Umtausch.
+ - **Bussgeldstelle (zentrales OWi-Verfahren des jeweiligen Bundeslands):** Einspruch § 67 OWiG.
 - **Gerichte:**
-  - **AG (Verkehrsstrafsachen / Bussgeld):** Strafrichter / Schoeffengericht.
-  - **LG (Verkehrszivilrecht):** ab Streitwert ueber 5.000 EUR; Berufung gegen AG-Urteile.
-  - **OLG (Rechtsbeschwerde §§ 79, 80 OWiG):** OWi-Sache.
+ - **AG (Verkehrsstrafsachen / Bussgeld):** Strafrichter / Schoeffengericht.
+ - **LG (Verkehrszivilrecht):** ab Streitwert ueber 5.000 EUR; Berufung gegen AG-Urteile.
+ - **OLG (Rechtsbeschwerde §§ 79, 80 OWiG):** OWi-Sache.
 - **eAkte / beA / MJP-Portal:**
-  - **beA (besonderes elektronisches Anwaltspostfach):** zwingend fuer Anwaltskommunikation mit Gerichten § 130d ZPO (zivilrechtlich); im Strafrecht freiwillig (§ 32a StPO).
-  - **MJP (Mein Justizpostfach):** fuer Buergerinnen und Buerger; freiwillig.
-  - **EGVP:** elektronisches Gerichts- und Verwaltungspostfach.
+ - **beA (besonderes elektronisches Anwaltspostfach):** zwingend fuer Anwaltskommunikation mit Gerichten § 130d ZPO (zivilrechtlich); im Strafrecht freiwillig (§ 32a StPO).
+ - **MJP (Mein Justizpostfach):** fuer Buergerinnen und Buerger; freiwillig.
+ - **EGVP:** elektronisches Gerichts- und Verwaltungspostfach.
 - **Anwaltliche Formulare:**
-  - Vollmacht (sicher mit Vertretungsbefugnis im Strafverfahren § 411 II StPO).
-  - PKH-Antrag § 117 ZPO mit Vermoegensverhaeltnissen.
-  - Akteneinsichtsantrag mit Aktenzeichen.
+ - Vollmacht (sicher mit Vertretungsbefugnis im Strafverfahren § 411 II StPO).
+ - PKH-Antrag § 117 ZPO mit Vermoegensverhaeltnissen.
+ - Akteneinsichtsantrag mit Aktenzeichen.
 - **Klage gegen KH-Versicherer:**
-  - Direktklage § 115 VVG.
-  - Klageantrag konkret beziffert (Hauptforderung, vorgerichtliche Kosten, Zinsen § 286 BGB).
-  - Streitwert ab Gesamtschaden.
+ - Direktklage § 115 VVG.
+ - Klageantrag konkret beziffert (Hauptforderung, vorgerichtliche Kosten, Zinsen § 286 BGB).
+ - Streitwert ab Gesamtschaden.
 - **Praxis-Tipp:** Bei Online-Schadenmeldung Versicherer immer Screenshot mit Datum / Uhrzeit anfertigen; bei eingehender Korrespondenz schriftliche Bestaetigung anfordern.

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-preisanpassung
-description: "Rechtsabteilungs-Spezialskill für Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: Preisgleitklauseln werden nach Anlass, Parameter, Transparenz, Kündigungsrecht und Mitteilungsmechanik bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: Preisgleitklauseln werden nach Anlass, Parameter, Transparenz, Kündigungsrecht und Mitteilungsmechanik bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
 ---
 
 # Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock

@@ -55,7 +55,7 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 ## Prüfschema / Anlage-Checkliste
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -143,8 +143,8 @@ Zielgesellschaft: [Name, Sitz, HRB, LEI]
 Gegenseite: [Name] — vertreten durch [Kanzlei]
 
 REGISTER
-HRB/HRA: [...]  Registergericht: [...]
-Steuernummer: [...]  ISIN: [...]  LEI: [...]
+HRB/HRA: [...] Registergericht: [...]
+Steuernummer: [...] ISIN: [...] LEI: [...]
 
 BERATER
 Notar: [Name, Ort]

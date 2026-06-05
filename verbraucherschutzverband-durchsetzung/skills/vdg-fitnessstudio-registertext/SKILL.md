@@ -1,13 +1,13 @@
 ---
 name: vdg-fitnessstudio-registertext
-description: "Nutze dies, wenn Vdg 074 Fitnessstudio Registertext Schreiben, Vdg 075 Fitnessstudio Betroffenenformular Baue, Vdg 076 Fitnessstudio Beweisplan Erstellen, Vdg 077 Fitnessstudio Vergleich Prüfen im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 074 Fitnessstudio Registertext Schreiben, Vdg 075 Fitnessstudio Betroffenenformular Baue, Vdg 076 Fitnessstudio Beweisplan Erstellen, Vdg 077 Fitnessstudio Vergleich Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Vdg 074 Fitnessstudio Registertext Schreiben, Vdg 075 Fitnessstudio Betroffenenformular Baue, Vdg 076 Fitnessstudio Beweisplan Erstellen, Vdg 077 Fitnessstudio Vergleich Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vdg 074 Fitnessstudio Registertext Schreiben, Vdg 075 Fitnessstudio Betroffenenformular Baue, Vdg 076 Fitnessstudio Beweisplan Erstellen, Vdg 077 Fitnessstudio Vergleich Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vdg 074 Fitnessstudio Registertext Schreiben, Vdg 075 Fitnessstudio Betroffenenformular Baue, Vdg 076 Fitnessstudio Beweisplan Erstellen, Vdg 077 Fitnessstudio Vergleich Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 074 Fitnessstudio Registertext Schreiben, Vdg 075 Fitnessstudio Betroffenenformular Baue, Vdg 076 Fitnessstudio Beweisplan Erstellen, Vdg 077 Fitnessstudio Vergleich Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

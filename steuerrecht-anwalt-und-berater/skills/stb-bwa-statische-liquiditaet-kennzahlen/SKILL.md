@@ -59,24 +59,24 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ```
 LIQUIDITAET 1. GRADES (Barliquiditaet, Cash Ratio):
-  Liquide Mittel (Bank+Kasse) / kurzfristige Verbindlichkeiten
+ Liquide Mittel (Bank+Kasse) / kurzfristige Verbindlichkeiten
 
 LIQUIDITAET 2. GRADES (einbeziehbare Liquiditaet, Quick Ratio):
-  (Liquide Mittel + kurzfristige Forderungen) / kurzfristige Verbindlichkeiten
+ (Liquide Mittel + kurzfristige Forderungen) / kurzfristige Verbindlichkeiten
 
 LIQUIDITAET 3. GRADES (gesamte kurzfristige Liquiditaet, Current Ratio):
-  Umlaufvermoegen / kurzfristige Verbindlichkeiten
+ Umlaufvermoegen / kurzfristige Verbindlichkeiten
 
 WORKING CAPITAL:
-  Umlaufvermoegen minus kurzfristige Verbindlichkeiten
-  (sollte positiv sein; bei negativ = kritisches Signal)
+ Umlaufvermoegen minus kurzfristige Verbindlichkeiten
+ (sollte positiv sein; bei negativ = kritisches Signal)
 
 ANLAGENDECKUNG I:
-  Eigenkapital / Anlagevermoegen
+ Eigenkapital / Anlagevermoegen
 
 ANLAGENDECKUNG II:
-  (Eigenkapital + langfristiges Fremdkapital) / Anlagevermoegen
-  (sollte ueber 100 Prozent sein, sonst Fristenkongruenz verletzt)
+ (Eigenkapital + langfristiges Fremdkapital) / Anlagevermoegen
+ (sollte ueber 100 Prozent sein, sonst Fristenkongruenz verletzt)
 ```
 
 ### Phase 3 — Schwellenwerte und Ampel (typische Daumenregeln, branchenabhaengig)

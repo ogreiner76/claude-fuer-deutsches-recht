@@ -1,13 +1,13 @@
 ---
 name: mandantenkommunikation-redteam-qualitygate
-description: "Nutze dies, wenn Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Energieanlagen Bimschg Genehmigung Verfahren im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Energieanlagen Bimschg Genehmigung Verfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Energieanlagen Bimschg Genehmigung Verfahren
+# Mandantenkommunikation, Redteam Qualitygate, Energieanlagen Bimschg Genehmigung Verfahren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenkommunikation, Redteam Qualitygate, Energieanlagen Bimschg Genehmigung Verfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Energieanlagen Bimschg Genehmigung Verfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verwaltungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenkommunikation, Redteam Qualitygate, Energieanlagen Bimschg Genehmigung Verfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verwaltungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,10 +31,10 @@ Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Energieanl
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-verwaltungsrecht` Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -44,7 +44,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -66,10 +66,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-verwaltungsrecht` Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -79,7 +79,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Red-Team-Checks für Verwaltungsrechtsfälle
@@ -152,7 +152,7 @@ Energieanlagen (Wind, Biogas, Wasserstoff, größere Solarthermie, KWK, Geotherm
 
 ## Prüfschema BImSchG-Genehmigungsverfahren
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -261,16 +261,16 @@ Das dem Bescheid zugrundeliegende Schallgutachten des Büros [Name]
 vom [Datum] weist folgende methodische Mängel auf:
 
 a) Unterschätzung der Vorbelastung — das Gutachten berücksichtigt
-   die bestehenden Windkraftanlagen [Bezeichnung] in der Umgebung
-   nicht als Vorbelastung. Nach TA Lärm Nr. 2.4 ist die
-   Vorbelastung am Immissionsort zu berücksichtigen. Ohne
-   Korrektur dieser Lücke kann die Einhaltung des Immissions-
-   richtwerts von [40/45] dB(A) nachts nicht festgestellt werden.
+ die bestehenden Windkraftanlagen [Bezeichnung] in der Umgebung
+ nicht als Vorbelastung. Nach TA Lärm Nr. 2.4 ist die
+ Vorbelastung am Immissionsort zu berücksichtigen. Ohne
+ Korrektur dieser Lücke kann die Einhaltung des Immissions-
+ richtwerts von [40/45] dB(A) nachts nicht festgestellt werden.
 
 b) Unzureichende Messung Schallleistungspegel — der verwendete
-   Schallleistungspegel des Anlagentyps basiert auf Messungen
-   unter optimalen Bedingungen. Ein Zuschlag für Amplituden-
-   modulation nach TA Lärm Nr. A.2.3.3 wurde nicht berücksichtigt.
+ Schallleistungspegel des Anlagentyps basiert auf Messungen
+ unter optimalen Bedingungen. Ein Zuschlag für Amplituden-
+ modulation nach TA Lärm Nr. A.2.3.3 wurde nicht berücksichtigt.
 
 2. Beweissicherungsantrag
 
@@ -303,23 +303,23 @@ Die ausgelegte saP des Büros [Name] vom [Datum] genügt den
 methodischen Anforderungen nicht:
 
 a) Unzureichender Erfassungszeitraum für Fledermäuse — die
-   Transekt-Kartierung umfasste lediglich [n] Termine im
-   Zeitraum [Monat – Monat]. Für eine ordnungsgemäße saP sind
-   nach den LLUR-/LfU-Hinweisen der Länder mindestens [n]
-   Detektorerhebungen über die gesamte Aktivitätssaison
-   (April bis Oktober) erforderlich.
+ Transekt-Kartierung umfasste lediglich [n] Termine im
+ Zeitraum [Monat – Monat]. Für eine ordnungsgemäße saP sind
+ nach den LLUR-/LfU-Hinweisen der Länder mindestens [n]
+ Detektorerhebungen über die gesamte Aktivitätssaison
+ (April bis Oktober) erforderlich.
 
 b) Rotmilan — im Radius von 1.500 m um den Standort wurden
-   während des Erfassungszeitraums [n] Rotmilan-Individuen
-   kartiert. Das Gutachten kommt zu dem Ergebnis, es bestehe
-   kein signifikant erhöhtes Tötungsrisiko gem. § 44 Abs. 1
-   Nr. 1 BNatSchG. Diese Bewertung ist angreifbar, da die
-   Kartierung nicht in den Hauptaktivitätsstunden
-   (08:00–12:00 Uhr) an mindestens 12 Termine erfolgte.
+ während des Erfassungszeitraums [n] Rotmilan-Individuen
+ kartiert. Das Gutachten kommt zu dem Ergebnis, es bestehe
+ kein signifikant erhöhtes Tötungsrisiko gem. § 44 Abs. 1
+ Nr. 1 BNatSchG. Diese Bewertung ist angreifbar, da die
+ Kartierung nicht in den Hauptaktivitätsstunden
+ (08:00–12:00 Uhr) an mindestens 12 Termine erfolgte.
 
 c) Fehlende CEF-Maßnahmen — für den nachgewiesenen Bestand
-   der [Art] wurden keine vorgezogenen Ausgleichsmaßnahmen
-   (CEF) benannt.
+ der [Art] wurden keine vorgezogenen Ausgleichsmaßnahmen
+ (CEF) benannt.
 
 2. Schattenwurf
 

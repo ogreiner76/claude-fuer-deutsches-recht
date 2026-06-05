@@ -1,13 +1,13 @@
 ---
 name: allgemeine-satzungsnormenkontrolle
-description: "Nutze dies, wenn Allgemeine Satzungsnormenkontrolle 47 Vwgo, Anpassungsgebot Flaechennutzungsplan, Antragsbefugnis Eigentuemer Nachbar im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Allgemeine Satzungsnormenkontrolle 47 Vwgo, Anpassungsgebot Flaechennutzungsplan, Antragsbefugnis Eigentuemer Nachbar prüfen.; Erstelle eine Arbeitsfassung zu Allgemeine Satzungsnormenkontrolle 47 Vwgo, Anpassungsgebot Flaechennutzungsplan, Antragsbefugnis Eigentuemer Nachbar.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Allgemeine Satzungsnormenkontrolle 47 Vwgo, Anpassungsgebot Flaechennutzungsplan, Antragsbefugnis Eigentuemer Nachbar: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Allgemeine Satzungsnormenkontrolle 47 Vwgo, Anpassungsgebot Flaechennutzungsplan, Antragsbefugnis Eigentuemer Nachbar
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Allgemeine Satzungsnormenkontrolle 47 Vwgo, Anpassungsgebot Flaechennutzungsplan, Antragsbefugnis Eigentuemer Nachbar** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -166,8 +166,8 @@ Das Entwicklungsgebot bindet den B-Plan an den FNP. Verletzung ist beachtlicher 
 
 ### Strategischer Hebel
 - Wenn Entwidmung nicht vorliegt — B-Plan wirft zwei Probleme auf:
-  - FNP-Konflikt
-  - Eisenbahnrechts-Konflikt
+ - FNP-Konflikt
+ - Eisenbahnrechts-Konflikt
 - Beides als Verstoß gegen Erforderlichkeit oder beachtlicher Fehler
 
 ## Schritt 8 — Rechtsfolge bei Verstoß gegen § 8 Abs. 2 BauGB

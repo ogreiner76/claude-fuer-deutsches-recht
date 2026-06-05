@@ -1,13 +1,13 @@
 ---
 name: steuerberater-betriebspruefung
-description: "Nutze dies, wenn Steuerberater Betriebspruefung Rollenabgrenzung Rechtsprechungs, Steuerberater Cloud Server Drittlandtransfer Rechtsprechungsche, Steuerberater Datenschutzpanne Lohnakte Rechtsprechungscheck Un, Steuerberater Datev Zugriff Nach Mandatsende Rechtsprechungsche im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Betriebspruefung Rollenabgrenzung Rechtsprechungs, Steuerberater Cloud Server Drittlandtransfer Rechtsprechungsche, Steuerberater Datenschutzpanne Lohnakte Rechtsprechungscheck Un, Steuerberater Datev Zugriff Nach Mandatsende Rechtsprechungsche prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Betriebspruefung Rollenabgrenzung Rechtsprechungs, Steuerberater Cloud Server Drittlandtransfer Rechtsprechungsche, Steuerberater Datenschutzpanne Lohnakte Rechtsprechungscheck Un, Steuerberater Datev Zugriff Nach Mandatsende Rechtsprechungsche.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Steuerberater Betriebspruefung Rollenabgrenzung Rechtsprechungs, Steuerberater Cloud Server Drittlandtransfer Rechtsprechungsche, Steuerberater Datenschutzpanne Lohnakte Rechtsprechungscheck Un, Steuerberater Datev Zugriff Nach Mandatsende Rechtsprechungsche: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Betriebspruefung Rollenabgrenzung Rechtsprechungs, Steuerberater Cloud Server Drittlandtransfer Rechtsprechungsche, Steuerberater Datenschutzpanne Lohnakte Rechtsprechungscheck Un, Steuerberater Datev Zugriff Nach Mandatsende Rechtsprechungsche
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Betriebspruefung Rollenabgrenzung Rechtsprechungs, Steuerberater Cloud Server Drittlandtransfer Rechtsprechungsche, Steuerberater Datenschutzpanne Lohnakte Rechtsprechungscheck Un, Steuerberater Datev Zugriff Nach Mandatsende Rechtsprechungsche** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

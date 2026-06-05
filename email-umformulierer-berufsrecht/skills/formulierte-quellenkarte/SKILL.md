@@ -1,6 +1,6 @@
 ---
 name: formulierte-quellenkarte
-description: "Nutze dies, wenn Formulierte Quellenkarte im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Formulierte Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Formulierte Quellenkarte

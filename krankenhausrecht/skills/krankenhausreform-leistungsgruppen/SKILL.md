@@ -1,13 +1,13 @@
 ---
 name: krankenhausreform-leistungsgruppen
-description: "Nutze dies, wenn Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsrecht Hausrecht, Kritis Krankenhaus Bsi Gesetz Nis2 im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsrecht Hausrecht, Kritis Krankenhaus Bsi Gesetz Nis2 prüfen.; Erstelle eine Arbeitsfassung zu Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsrecht Hausrecht, Kritis Krankenhaus Bsi Gesetz Nis2.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsrecht Hausrecht, Kritis Krankenhaus Bsi Gesetz Nis2: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsrecht Hausrecht, Kritis Krankenhaus Bsi Gesetz Nis2
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsrecht Hausrecht, Kritis Krankenhaus Bsi Gesetz Nis2** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -38,7 +38,7 @@ Für **Krankenhausreform Leistungsgruppen Routing, Krankenhausseelsorge Besuchsr
 
 
 ## Worum geht es konkret
-Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz, in Kraft 01/2025) ist der groesste Umbau der stationaeren Versorgung seit Einfuehrung des DRG-Systems. Sie aendert KHG, KHEntgG und SGB V parallel. Der Skill ordnet jedes Mandat ein und routet zum richtigen Spezial-Skill.
+Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz, in Kraft 01/2025) ist der groesste Umbau der stationaeren Versorgung seit Einfuehrung des DRG-Systems. Sie aendert KHG, KHEntgG und SGB V parallel. Der Skill ordnet jedes Mandat ein und routet zum passendes Fachmodul.
 
 ## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 - Geht es um Leistungsgruppen-Zuweisung, Vorhaltefinanzierung, Strukturqualitaet, Plankrankenhausstatus oder Reform-Uebergang?
@@ -55,13 +55,13 @@ Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz
 - **Landeskrankenhausgesetze** weisen Leistungsgruppen zu, ggf. mit Ausnahmen (Sicherstellung, Kooperation).
 - **G-BA-Beschluesse** zu Strukturmerkmalen, Mindestmengen, Personalanforderungen.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Rolle und Akteur klaeren:** Geschaeftsfuehrung, Aerztlicher Direktor, Traeger, Land, Kasse, Patient?
 2. **Reform-Schicht identifizieren:**
-   - **Plan-Ebene** (Land vergibt LG) → Skill `landeskrankenhausplan-aufnahme-herausnahme-aenderung`.
-   - **Strukturqualitaet** (Personal, Geraete, Vorhaltung) → Skill `leistungsgruppen-und-qualitaetskriterien-reformlogik`.
-   - **Vorhaltebudget** (Verguetung, Konvergenz) → Skill `vorhalteverguetung-leistungsgruppen-krankenhausreform`.
-   - **Mindestmengen, Sicherstellung, Level Ii** → entsprechende Skills.
+ - **Plan-Ebene** (Land vergibt LG) → Skill `landeskrankenhausplan-aufnahme-herausnahme-aenderung`.
+ - **Strukturqualitaet** (Personal, Geraete, Vorhaltung) → Skill `leistungsgruppen-und-qualitaetskriterien-reformlogik`.
+ - **Vorhaltebudget** (Verguetung, Konvergenz) → Skill `vorhalteverguetung-leistungsgruppen-krankenhausreform`.
+ - **Mindestmengen, Sicherstellung, Level Ii** → entsprechende Skills.
 3. **Fristen sichern:** Anhoerungen vor LG-Entscheidung, Widerspruchs-/Klagefristen 1 Monat (§ 70 VwGO).
 4. **Dokumente einsammeln:** Versorgungsauftrag (alt), LG-Bescheid (neu), Strukturnachweise, Personalmeldungen.
 5. **Risiko-Ampel:** Verlust einer LG, Vorhaltebudget-Risiko, Notfallstufenruckstufung, Sicherstellungszuschlag.

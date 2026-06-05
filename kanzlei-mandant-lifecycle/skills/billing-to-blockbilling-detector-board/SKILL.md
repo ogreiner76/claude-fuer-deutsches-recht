@@ -1,19 +1,19 @@
 ---
 name: billing-to-blockbilling-detector-board
-description: "Nutze dies, wenn Billing To Xrechnung, Blockbilling Detector, Board Reporting, Budget Baseline Und Phasen, Budget Overrun Escalation im Plugin Kanzlei Mandant Lifecycle konkret bearbeitet werden soll. Auslöser: Bitte Billing To Xrechnung, Blockbilling Detector, Board Reporting, Budget Baseline Und Phasen, Budget Overrun Escalation prüfen.; Erstelle eine Arbeitsfassung zu Billing To Xrechnung, Blockbilling Detector, Board Reporting, Budget Baseline Und Phasen, Budget Overrun Escalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Billing To Xrechnung, Blockbilling Detector, Board Reporting, Budget Baseline Und Phasen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Billing To Xrechnung, Blockbilling Detector, Board Reporting, Budget Baseline Und Phasen, Budget Overrun Escalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Billing To Xrechnung, Blockbilling Detector, Board Reporting, Budget Baseline Und Phasen, Budget Overrun Escalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `billing-to-xrechnung` | Billing to XRechnung: steuert Kanzleirechnung in E-Rechnung/XRechnung, Kostenstellen und Prüfworkflow überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
+| `billing-to-xrechnung` | Billing to XRechnung: steuert Kanzleirechnung in E-Rechnung/XRechnung, Kostenstellen und Prüfüberführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `blockbilling-detector` | Blockbilling Detector: steuert zu grobe Stundenblöcke, doppelte Arbeit, Reisezeit und interne Abstimmungen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `board-reporting` | Board Reporting: steuert Vorstand/Aufsichtsrat-Gremium bekommt knappe, belastbare Lage: Risiko, Kosten, Entscheidung, nächste Frist zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `budget-baseline-und-phasen` | Budget Baseline und Phasenplan: steuert Budget nach Phasen, Annahmen, Exclusions, Triggern und Reforecast-Regeln aufsetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -28,7 +28,7 @@ Für **Billing To Xrechnung, Blockbilling Detector, Board Reporting, Budget Base
 
 ## 1. `billing-to-xrechnung`
 
-**Fokus:** Billing to XRechnung: steuert Kanzleirechnung in E-Rechnung/XRechnung, Kostenstellen und Prüfworkflow überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Billing to XRechnung: steuert Kanzleirechnung in E-Rechnung/XRechnung, Kostenstellen und Prüfüberführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Billing to XRechnung
 
@@ -43,7 +43,7 @@ Für **Billing To Xrechnung, Blockbilling Detector, Board Reporting, Budget Base
 
 Nutze diesen Skill im Plugin **Kanzlei-Mandant Lifecycle**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
 
-**Fokus:** Kanzleirechnung in E-Rechnung/XRechnung, Kostenstellen und Prüfworkflow überführen
+**Fokus:** Kanzleirechnung in E-Rechnung/XRechnung, Kostenstellen und Prüfüberführen
 
 ## Kaltstart-Fragen
 

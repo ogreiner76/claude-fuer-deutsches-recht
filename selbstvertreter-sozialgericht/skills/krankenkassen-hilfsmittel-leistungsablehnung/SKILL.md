@@ -1,13 +1,13 @@
 ---
 name: krankenkassen-hilfsmittel-leistungsablehnung
-description: "Nutze dies, wenn Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung prüfen.; Erstelle eine Arbeitsfassung zu Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V, Krankenkassen Wahltarife Und Sonderkuendigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -159,7 +159,7 @@ Pruefen:
 ### Schritt 3 — Widerspruch einlegen
 
 ```
-[Krankenkasse]                                  [Ort, Datum]
+[Krankenkasse] [Ort, Datum]
 
 Versicherten-Nr: [...]
 

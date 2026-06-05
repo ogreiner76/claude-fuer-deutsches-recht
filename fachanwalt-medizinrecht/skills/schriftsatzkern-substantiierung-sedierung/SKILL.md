@@ -1,13 +1,13 @@
 ---
 name: schriftsatzkern-substantiierung-sedierung
-description: "Nutze dies, wenn Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, Spezial 630A Dokumentenmatrix Und Lueckenliste im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, Spezial 630A Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, Spezial 630A Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, 630a Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, Spezial 630A Dokumentenmatrix Und Lueckenliste
+# Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, 630A Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 
 ## Arbeitsweg
 
-Für **Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, Spezial 630A Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schriftsatzkern Substantiierung, Sedierung Ambulant Igel, Sepsis Diagnoseverzug, 630A Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

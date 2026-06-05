@@ -86,11 +86,11 @@ Ein Routing-Block fuer das Auftragsblatt:
 Ressort federfuehrend: <kuerzel> - <Volltitel>
 Mitzeichnende Ressorts: <Liste>
 Empfohlene Skill-Kette:
-  1. legw-ressort-<kuerzel>            (Heranfuehrung)
-  2. legw-ressortaufgaben-<kuerzel>    (Ressortaufgaben)
-  3. legw-<kuerzel>-<thema>            (Spezialfeld)
-  4. normhierarchie-routing            (Normwahl)
-  5. <weitere Spezial- und Werkstattskills>
+ 1. legw-ressort-<kuerzel> (Heranfuehrung)
+ 2. legw-ressortaufgaben-<kuerzel> (Ressortaufgaben)
+ 3. legw-<kuerzel>-<thema> (Spezialfeld)
+ 4. normhierarchie-routing (Normwahl)
+ 5. <weitere Spezial- und Werkstattskills>
 Optional RuleMapping-Anschluss: legw-rmap-grundlagen (Einstieg in 10 RuleMapping-Skills)
 ```
 

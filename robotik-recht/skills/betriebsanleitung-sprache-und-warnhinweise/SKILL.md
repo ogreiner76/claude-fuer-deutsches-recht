@@ -35,7 +35,7 @@ Die Betriebsanleitung ist ein Sicherheitsbauteil im juristischen Sinn: Fehler in
 - **GS-Zeichen / TÜV** ProdSG § 21 als ergänzendes Qualitätssignal.
 - **Sprachenregime**: Amtssprache des Mitgliedstaats; in Deutschland deutsch (zumindest für Sicherheits- und Warninhalte).
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Zielgruppenanalyse.** Fachkraft oder Endverbraucher? Sprachniveau, Vorbildung, Sinneseinschränkungen.
 2. **Inhalt nach Anhang III Nr. 1.7 MaschinenVO**: Identifikation, Beschreibung, bestimmungsgemäße Verwendung, Restrisiken, Aufstellung/Anschluss, Bedienung, Wartung, Außerbetriebnahme, Schaltpläne, Lärm-/Vibrationsemissionen.

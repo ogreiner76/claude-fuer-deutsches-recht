@@ -1,13 +1,13 @@
 ---
 name: space-weltraumdaten-datenbankrecht
-description: "Nutze dies, wenn Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur im Plugin Weltraumrecht konkret bearbeitet werden soll. Auslöser: Bitte Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur prüfen.; Erstelle eine Arbeitsfassung zu Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

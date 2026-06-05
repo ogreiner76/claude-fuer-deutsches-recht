@@ -1,19 +1,19 @@
 ---
 name: pyramide-check-dsgvo-p2b-anti-steering
-description: "Nutze dies, wenn Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design prüfen.; Erstelle eine Arbeitsfassung zu Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2b 19a Gwb, Dma Anti Steering App Store Design: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2B 19A Gwb, Dma Anti Steering App Store Design** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `digitalregulierung-pyramide-check` | Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Spezialskills. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin. |
+| `digitalregulierung-pyramide-check` | Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Fachmodule. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin. |
 | `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` | Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO (EU) 2019/1150 (Plattform-Nutzer-Beziehungen), § 19a GWB (unterhalb DMA-Schwellen). Prüfraster: Konkurrenz DSA/DMA vs. DSGVO vs. P2B-VO, § 19a GWB als Luecken-Fuelung, Mehr-Anker-Strategie für welche Rechtsfolge. Output Schnittstellen-Memo, Anspruchs-Matrix. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste. |
 | `dma-anti-steering-app-store-design` | Anti-Steering Pflichten Art. 5 Abs. 4 DMA fuer App-Stores: Entwickler duerfen ausserhalb des Stores informieren, ueber alternative Preise und Zahlwege. Pruefraster: keine Behinderung, keine Strafgebuehr, kein Linkverbot. Apple- und Google-Beispiele, EU-Verfahren. Compliance-Checkliste fuer Gatekeeper und Entwicklerschriftsatz bei Verstoss. |
 
@@ -26,7 +26,7 @@ Für **Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgv
 
 ## 1. `digitalregulierung-pyramide-check`
 
-**Fokus:** Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Spezialskills. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin.
+**Fokus:** Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Fachmodule. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin.
 
 # Digitalregulierung — Pyramiden-Check
 
@@ -85,7 +85,7 @@ Kleinunternehmen sind teilweise befreit (Art. 19 für kleine/Kleinst-Unternehmen
 - **§ 19a GWB ist enger gefasst als DMA**, kann aber Sachverhalte erfassen, die unterhalb der DMA-Schwellen liegen
 - **DDG ersetzt NetzDG und Teile des TMG** und implementiert DSA in Deutschland — Aufsicht: BNetzA als Digital Services Coordinator (DSC)
 
-## Weiterleitung an Spezialskills
+## Weiterleitung an Fachmodule
 
 | Anliegen | Skill |
 |---|---|
@@ -142,14 +142,14 @@ Akteurstyp: [NUTZER / PLATTFORM / DIENSTEANBIETER]
 Dienst-Typ: [VERMITTLUNGSDIENST / HOSTING / ONLINE-PLATTFORM / VLOP / GATEKEEPER]
 
 Einschlägige Rechtsakte:
-| Rechtsakt           | Einschlaegig | Norm            | Besonderheit |
+| Rechtsakt | Einschlaegig | Norm | Besonderheit |
 |--------------------|--------------|-----------------|--------------|
-| DSA                |              | Art. [X]         |              |
-| DMA                |              | Art. [X]         |              |
-| KI-VO              |              | Art. [X]         |              |
-| NIS-2              |              | Art. [X]         |              |
-| DSGVO              |              | Art. [X]         |              |
-| § 19a GWB          |              |                 |              |
+| DSA | | Art. [X] | |
+| DMA | | Art. [X] | |
+| KI-VO | | Art. [X] | |
+| NIS-2 | | Art. [X] | |
+| DSGVO | | Art. [X] | |
+| § 19a GWB | | | |
 
 Empfohlene Vertiefung: → Skill [SPEZIALSKILL]
 ```
@@ -277,13 +277,13 @@ Sachverhalt: [KURZBESCHREIBUNG]
 Mandant-Rolle: Nutzer / Gewerblicher Nutzer / Wettbewerber
 
 Anspruchs-Matrix:
-| Norm      | Anspruch                    | Adressat     | Rechtsfolge         | Aussichten |
+| Norm | Anspruch | Adressat | Rechtsfolge | Aussichten |
 |-----------|-----------------------------|--------------|---------------------|-----------|
-| Art. 17 DSA | Begruendungspflicht       | Plattform    | Wiederherstellung   |           |
-| Art. 20 DSA | Interne Beschwerde        | Plattform    | Reversierung        |           |
-| Art. 15 DSGVO | Auskunft               | Plattform    | Datenkopie          |           |
-| P2B-VO Art. 3 | Transparenz           | Plattform    | Korrektur           |           |
-| § 19a GWB  | Missbrauchsabstellung      | BKartA       | Untersagung         |           |
+| Art. 17 DSA | Begruendungspflicht | Plattform | Wiederherstellung | |
+| Art. 20 DSA | Interne Beschwerde | Plattform | Reversierung | |
+| Art. 15 DSGVO | Auskunft | Plattform | Datenkopie | |
+| P2B-VO Art. 3 | Transparenz | Plattform | Korrektur | |
+| § 19a GWB | Missbrauchsabstellung | BKartA | Untersagung | |
 
 Empfohlene Strategie: [BESCHREIBUNG]
 Nächste Schritte: [LISTE]

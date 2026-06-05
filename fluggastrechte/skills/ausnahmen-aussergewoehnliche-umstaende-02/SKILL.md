@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-aussergewoehnliche-umstaende-02
-description: "Workflow-Skill zu ausnahmen aussergewoehnliche umstaende pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu ausnahmen aussergewoehnliche umstaende pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)
@@ -58,25 +58,25 @@ Auch wenn ein außergewöhnlicher Umstand vorliegt, muss die Airline beweisen, d
 
 ```
 Frage 1: Welche Begründung hat die Airline angegeben?
-  - Keine Begründung → Beweislast nicht erfüllt → Anspruch erhalten
-  - Pauschale Begründung ohne Detail → Beweislast nicht erfüllt → Anspruch erhalten
+ - Keine Begründung → Beweislast nicht erfüllt → Anspruch erhalten
+ - Pauschale Begründung ohne Detail → Beweislast nicht erfüllt → Anspruch erhalten
 
 Frage 2: Faellt der angegebene Sachverhalt in den Katalog
 "regelmäßig außergewöhnlich"?
-  - Nein → Anspruch erhalten; ggf. Sachverhalt kategorisieren als
-    technischen Defekt
-  - Ja → Stufe 2
+ - Nein → Anspruch erhalten; ggf. Sachverhalt kategorisieren als
+ technischen Defekt
+ - Ja → Stufe 2
 
 Frage 3: Hat die Airline alle zumutbaren Maßnahmen ergriffen?
-  - Eckdaten: rechtzeitige Information Ersatzflugzeug Reserve-Crew
-    Umbuchung auf andere Airline Hotel
-  - Wenn nicht dargelegt: Beweislast nicht erfüllt → Anspruch erhalten
+ - Eckdaten: rechtzeitige Information Ersatzflugzeug Reserve-Crew
+ Umbuchung auf andere Airline Hotel
+ - Wenn nicht dargelegt: Beweislast nicht erfüllt → Anspruch erhalten
 
 Frage 4: Kausalitaet — beruht die Annullierung tatsächlich auf dem
 außergewöhnlichen Umstand?
-  - Folgeverspätungen aus dem Vortag werden regelmäßig nicht mehr
-    als außergewöhnlich gewertet (EuGH-Verfahren zur kettenartigen
-    Verspätung)
+ - Folgeverspätungen aus dem Vortag werden regelmäßig nicht mehr
+ als außergewöhnlich gewertet (EuGH-Verfahren zur kettenartigen
+ Verspätung)
 ```
 
 ## Gegenargumente bei typischen Airline-Standardausreden
@@ -86,11 +86,11 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
 ## Ausgabe
 
 - `aussergewoehnlich-pruefung.md` mit:
-  - Begründung der Airline (Zitat)
-  - Subsumtion unter Katalog
-  - Prüfung zumutbarer Maßnahmen
-  - Pinpoint-Zitate EuGH-Rechtsprechung
-  - Ergebnis (Anspruch erhalten / Anspruch entfaellt / weitere Sachverhaltsaufklärung noetig)
+ - Begründung der Airline (Zitat)
+ - Subsumtion unter Katalog
+ - Prüfung zumutbarer Maßnahmen
+ - Pinpoint-Zitate EuGH-Rechtsprechung
+ - Ergebnis (Anspruch erhalten / Anspruch entfaellt / weitere Sachverhaltsaufklärung noetig)
 - Hinweis: Bei strittiger Beweisfrage ist die Beweislast der Airline ein wichtiger Hebel.
 
 ---

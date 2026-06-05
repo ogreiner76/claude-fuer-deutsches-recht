@@ -1,13 +1,13 @@
 ---
 name: ropa-processor-template-ki-anwendungen
-description: "Nutze dies, wenn Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Spezial Auskunft Behörden Gericht Und Registerweg, Spezial Bdsg Tatbestand Beweis Und Belege im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Spezial Auskunft Behörden Gericht Und Registerweg, Spezial Bdsg Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Spezial Auskunft Behörden Gericht Und Registerweg, Spezial Bdsg Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Spezial Auskunft Behörden Gericht Und Registerweg, Spezial Bdsg Tatbestand Beweis Und Belege
+# Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg, Bdsg Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg, Bdsg Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Spezial Auskunft Behörden Gericht Und Registerweg, Spezial Bdsg Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ropa En Processor Template, Ropa Für Ki Anwendungen Besonderheiten, Ropa Konzernumlauf Und Multi Entity, Auskunft Behörden Gericht Und Registerweg, Bdsg Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -54,7 +54,7 @@ d) where possible, a general description of the technical and organisational mea
 
 One row per controller. Multiple processing categories can be grouped where TOMs are identical.
 
-## Workflow / Checklist
+## / Checklist
 
 1. Cover sheet with processor details.
 2. Maintain a controller list (each customer relationship).
@@ -69,13 +69,13 @@ One row per controller. Multiple processing categories can be grouped where TOMs
 ### Cover Sheet
 
 ```
-Processor:                [Company name]
-Address:                  [...]
+Processor: [Company name]
+Address: [...]
 Representative (Art. 27): [if applicable]
-Data Protection Officer:  [Name, contact]
-Created:                  [date]
-Last amended:             [date]
-Version:                  [v1.0]
+Data Protection Officer: [Name, contact]
+Created: [date]
+Last amended: [date]
+Version: [v1.0]
 ```
 
 ### Table (mandatory columns)
@@ -99,7 +99,7 @@ Version:                  [v1.0]
 
 ```
 Version 1.0 – Initial draft – [date, author]
-Version 1.1 – [change]      – [date, author]
+Version 1.1 – [change] – [date, author]
 ```
 
 ## Common mistakes
@@ -298,13 +298,13 @@ EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR 
 ### Master-RoPA-Deckblatt
 
 ```
-Konzern:                  [Mutter AG]
-Konzernweite DSB:         [Name, Kontakt]
-Geltungsbereich:          [Liste der Tochtergesellschaften, EU/EWR + Drittlaender]
-Konzerninterne Garantie:  [BCR genehmigt YYYY-MM-DD durch Lead-Behoerde XY] oder [SCC-Rahmenvertrag YYYY]
-Erstellt:                 [Datum]
-Letzte Aenderung:         [Datum]
-Version:                  [v1.0]
+Konzern: [Mutter AG]
+Konzernweite DSB: [Name, Kontakt]
+Geltungsbereich: [Liste der Tochtergesellschaften, EU/EWR + Drittlaender]
+Konzerninterne Garantie: [BCR genehmigt YYYY-MM-DD durch Lead-Behoerde XY] oder [SCC-Rahmenvertrag YYYY]
+Erstellt: [Datum]
+Letzte Aenderung: [Datum]
+Version: [v1.0]
 ```
 
 ### Master-Tabelle (gruppenuebergreifende Prozesse)
@@ -319,21 +319,21 @@ Version:                  [v1.0]
 ### Entity-Anhang (pro Tochter)
 
 ```
-Tochter:               [Name, Sitz, Rechtsform]
+Tochter: [Name, Sitz, Rechtsform]
 Lokal Verantwortlicher: [...]
-Lokal DSB:             [...]
+Lokal DSB: [...]
 Lokale Aufsichtsbehoerde: [...]
-Lokale Prozesse:       [Tabelle entsprechend Controller-Vorlage]
-Bezug zu Master-RoPA:  [Prozessnummern oben]
+Lokale Prozesse: [Tabelle entsprechend Controller-Vorlage]
+Bezug zu Master-RoPA: [Prozessnummern oben]
 ```
 
 ### Datenflussdiagramm (textuell)
 
 ```
-DE (Mutter)  <--AVV-->  IT-Service-GmbH (DE)
-DE (Mutter)  <--Joint Controllership-->  US (Tochter im DPF)
-DE (Mutter)  <--BCR-->  IN (Tochter)
-DE (Mutter)  <--SCC-->  BR (Tochter, kein Angemessenheitsbeschluss)
+DE (Mutter) <--AVV--> IT-Service-GmbH (DE)
+DE (Mutter) <--Joint Controllership--> US (Tochter im DPF)
+DE (Mutter) <--BCR--> IN (Tochter)
+DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 ```
 
 ## Typische Fehler
@@ -378,7 +378,7 @@ DE (Mutter)  <--SCC-->  BR (Tochter, kein Angemessenheitsbeschluss)
 # Auskunft: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Auskunft: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Auskunft: Behörden-, Gerichts- oder Registerweg / spezial auskunft behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Auskunft: Behörden-, Gerichts- oder Registerweg / auskunft behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -405,12 +405,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Datenkopie** Art. 15 Abs. 3 DSGVO; erste Kopie kostenlos, weitere mit Verwaltungskosten zulässig (EuGH C-307/22 zur Reichweite).
 - **Identitätsprüfung** Art. 12 Abs. 6 — bei begründeten Zweifeln; nicht überzogen handhaben.
 - **Verweigerung:**
-  - **Art. 12 Abs. 5 lit. b DSGVO:** offenkundig missbräuchlich.
-  - **§ 34 BDSG:** Ausnahmen (z. B. Datenverbleib bei Berufsgeheimnisträgern, Strafverfolgung).
+ - **Art. 12 Abs. 5 lit. b DSGVO:** offenkundig missbräuchlich.
+ - **§ 34 BDSG:** Ausnahmen (z. B. Datenverbleib bei Berufsgeheimnisträgern, Strafverfolgung).
 - **Beschwerdewege:**
-  - **Beschwerde Aufsicht Art. 77 DSGVO:** zuständige Landesdatenschutzbehörde oder BfDI.
-  - **Klage gegen Verantwortlichen Art. 79 DSGVO:** ZG mit Streitwert-Zuständigkeit; ggf. § 29c ZPO Verbraucher.
-  - **Klage gegen Aufsicht Art. 78 DSGVO:** VG-Klage.
+ - **Beschwerde Aufsicht Art. 77 DSGVO:** zuständige Landesdatenschutzbehörde oder BfDI.
+ - **Klage gegen Verantwortlichen Art. 79 DSGVO:** ZG mit Streitwert-Zuständigkeit; ggf. § 29c ZPO Verbraucher.
+ - **Klage gegen Aufsicht Art. 78 DSGVO:** VG-Klage.
 - **EuGH-Rechtsprechung:** C-487/21 (Österreichische Datenschutzbehörde): Auskunftsanspruch erstreckt sich auf konkrete Empfänger (nicht nur Empfängerkategorien), wenn diese identifiziert werden können.
 
 ## Praxis-Tipp
@@ -435,7 +435,7 @@ Bei unvollständiger Auskunft frühzeitig nachhaken und konkret benennen, was fe
 # Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial bdsg tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage / bdsg tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

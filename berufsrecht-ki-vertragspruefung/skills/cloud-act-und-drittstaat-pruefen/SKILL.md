@@ -55,7 +55,7 @@ Ob ein Anbieter solche Zusätze akzeptiert, muss am konkreten Vertragsstand live
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Punkt | Status | Ampel | Bemerkung |
@@ -107,14 +107,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Anbieter Sitz EU/EWR?
-  Ja → Auslandsbezug unproblematisch (DAV S. 15)
-  Nein → US-Konzern oder US-Tochter?
-            Ja → CLOUD Act anwendbar → Professional Secrecy Addendum erforderlich
-                  EU-Hosting-Zusicherung vorhanden?
-                    Ja → gelbe Ampel (struktureller Restzugriff bleibt)
-                    Nein → rote Ampel
-            Nein → Sonstiges Drittland (CN, IN, RU)?
-                    → Vergleichbarkeitsnachweis positiv erforderlich → i.d.R. rote Ampel
+ Ja → Auslandsbezug unproblematisch (DAV S. 15)
+ Nein → US-Konzern oder US-Tochter?
+ Ja → CLOUD Act anwendbar → Professional Secrecy Addendum erforderlich
+ EU-Hosting-Zusicherung vorhanden?
+ Ja → gelbe Ampel (struktureller Restzugriff bleibt)
+ Nein → rote Ampel
+ Nein → Sonstiges Drittland (CN, IN, RU)?
+ → Vergleichbarkeitsnachweis positiv erforderlich → i.d.R. rote Ampel
 ```
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 

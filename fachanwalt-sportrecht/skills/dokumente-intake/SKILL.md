@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Sportrecht** ein Fall noch sort
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `cas-berufung-erstgespraech-mandatsannahme-doping-cas` — Cas Berufung Erstgespraech Mandatsannahme Doping Cas
 - `dosb-fachanwalt-fifa` — Dosb Fachanwalt Fifa
 - `fachanwalt-sportrecht-athletenvertrag-fristennotiz` — Fachanwalt Sportrecht Athletenvertrag Fristennotiz

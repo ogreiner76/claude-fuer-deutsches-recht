@@ -1,6 +1,6 @@
 ---
 name: rom-084-digestenstelle-in-argumentation
-description: "Römisches Recht: Digestenstelle In Argumentation. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Digestenstelle In Argumentation. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Digestenstelle In Argumentation

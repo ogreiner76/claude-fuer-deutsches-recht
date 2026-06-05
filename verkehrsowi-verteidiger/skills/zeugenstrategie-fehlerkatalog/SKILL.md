@@ -1,6 +1,6 @@
 ---
 name: zeugenstrategie-fehlerkatalog
-description: "Nutze dies, wenn Zeugenstrategie Fehlerkatalog im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Zeugenstrategie Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Zeugenstrategie Fehlerkatalog

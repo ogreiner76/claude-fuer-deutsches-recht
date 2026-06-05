@@ -1,13 +1,13 @@
 ---
 name: treuhandkonto-versteigerung
-description: "Nutze dies, wenn Spezial Treuhandkonto Behörden Gericht Und Registerweg, Spezial Versteigerung Tatbestand Beweis Und Belege, Spezial Versteigerungsteilnahme Mehrparteienkonflikt im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Bitte Spezial Treuhandkonto Behörden Gericht Und Registerweg, Spezial Versteigerung Tatbestand Beweis Und Belege, Spezial Versteigerungsteilnahme Mehrparteienkonflikt prüfen.; Erstelle eine Arbeitsfassung zu Spezial Treuhandkonto Behörden Gericht Und Registerweg, Spezial Versteigerung Tatbestand Beweis Und Belege, Spezial Versteigerungsteilnahme Mehrparteienkonflikt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Treuhandkonto Behörden Gericht Und Registerweg, Versteigerung Tatbestand Beweis Und Belege, Versteigerungsteilnahme Mehrparteienkonflikt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Treuhandkonto Behörden Gericht Und Registerweg, Spezial Versteigerung Tatbestand Beweis Und Belege, Spezial Versteigerungsteilnahme Mehrparteienkonflikt
+# Treuhandkonto Behörden Gericht Und Registerweg, Versteigerung Tatbestand Beweis Und Belege, Versteigerungsteilnahme Mehrparteienkonflikt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Treuhandkonto Behörden Gericht Und Registerweg, Versteigerung Tatbestand Beweis Und Belege, Versteigerungsteilnahme Mehrparteienkonflikt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Treuhandkonto Behörden Gericht Und Registerweg, Spezial Versteigerung Tatbestand Beweis Und Belege, Spezial Versteigerungsteilnahme Mehrparteienkonflikt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Treuhandkonto Behörden Gericht Und Registerweg, Versteigerung Tatbestand Beweis Und Belege, Versteigerungsteilnahme Mehrparteienkonflikt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsverwaltung-zvg` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Treuhandkonto Behörden Gericht Und Registerweg, Spezial Versteig
 # Treuhandkonto: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Treuhandkonto: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Treuhandkonto: Behörden-, Gerichts- oder Registerweg / spezial treuhandkonto behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Treuhandkonto: Behörden-, Gerichts- oder Registerweg / treuhandkonto behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial versteigerung tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage / versteigerung tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -124,7 +124,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix / spezial versteigerungsteilnahme mehrparteienkonflikt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix / versteigerungsteilnahme mehrparteienkonflikt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

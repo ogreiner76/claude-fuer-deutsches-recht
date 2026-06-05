@@ -1,13 +1,13 @@
 ---
 name: see-schiffshypothek-arrest-wrackpflicht
-description: "Nutze dies, wenn See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothek Wrackpflicht Prüfen, See 026 Schiffshypothek Versicherung Melden, See 027 Schiffshypothek Local Counsel Instruie, See 028 Schiffshypothek Closing Planen im Plugin Seerecht Schifffahrtsrecht konkret bearbeitet werden soll. Auslöser: Bitte See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothek Wrackpflicht Prüfen, See 026 Schiffshypothek Versicherung Melden, See 027 Schiffshypothek Local Counsel Instruie, See 028 Schiffshypothek Closing Planen prüfen.; Erstelle eine Arbeitsfassung zu See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothek Wrackpflicht Prüfen, See 026 Schiffshypothek Versicherung Melden, See 027 Schiffshypothek Local Counsel Instruie, See 028 Schiffshypothek Closing Planen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothek Wrackpflicht Prüfen, See 026 Schiffshypothek Versicherung Melden, See 027 Schiffshypothek Local Counsel Instruie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothek Wrackpflicht Prüfen, See 026 Schiffshypothek Versicherung Melden, See 027 Schiffshypothek Local Counsel Instruie, See 028 Schiffshypothek Closing Planen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **See 024 Schiffshypothek Arrest Vorbereiten, See 025 Schiffshypothek Wrackpflicht Prüfen, See 026 Schiffshypothek Versicherung Melden, See 027 Schiffshypothek Local Counsel Instruie, See 028 Schiffshypothek Closing Planen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

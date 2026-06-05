@@ -1,13 +1,13 @@
 ---
 name: gdpr-privacy-gpl-agpl-implementation
-description: "Nutze dies, wenn Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability prüfen.; Erstelle eine Arbeitsfassung zu Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

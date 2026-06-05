@@ -85,30 +85,30 @@ Die Selbstanzeige ist **gesperrt**, wenn:
 
 ```
 1. Vollständigkeitsanalyse
-   - Alle Steuerarten und Zeiträume identifizieren.
-   - Mindestens 10 Kalenderjahre rückwärts; bei Geldbeträgen
-     prüfen ob § 376 AO greift (15 Jahre).
+ - Alle Steuerarten und Zeiträume identifizieren.
+ - Mindestens 10 Kalenderjahre rückwärts; bei Geldbeträgen
+ prüfen ob § 376 AO greift (15 Jahre).
 2. Sperrwirkungen § 371 Abs. 2 AO
-   - Liegt eine Sperrwirkung vor? Wenn ja, in welchem Umfang?
+ - Liegt eine Sperrwirkung vor? Wenn ja, in welchem Umfang?
 3. Berichtigungsumfang ermitteln
-   - Belegmäßige Aufarbeitung; Schätzung nur als ultima ratio
-     Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-     BGHSt 55, 180 Rn. 28).
+ - Belegmäßige Aufarbeitung; Schätzung nur als ultima ratio
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ BGHSt 55, 180 Rn. 28).
 4. Zahlbarkeit prüfen
-   - Hinterzogene Steuer + Hinterziehungszinsen § 235 AO + ggf.
-     Zuschlag § 398a AO. Stundung § 222 AO nur ausnahmsweise.
+ - Hinterzogene Steuer + Hinterziehungszinsen § 235 AO + ggf.
+ Zuschlag § 398a AO. Stundung § 222 AO nur ausnahmsweise.
 5. Abgrenzung § 153 AO vs. § 371 AO / § 378 Abs. 3 AO
-   - Ursprungserklärung: vorsätzlich / leichtfertig / einfach unrichtig?
-   - Bei Zweifel: Weg § 371 AO gehen.
+ - Ursprungserklärung: vorsätzlich / leichtfertig / einfach unrichtig?
+ - Bei Zweifel: Weg § 371 AO gehen.
 6. Erklärung formulieren
-   - Klare Bezeichnung als Berichtigungserklärung; Trennung
-     nach Steuerart und Veranlagungszeitraum.
+ - Klare Bezeichnung als Berichtigungserklärung; Trennung
+ nach Steuerart und Veranlagungszeitraum.
 7. Einreichung
-   - Direkt beim zuständigen Finanzamt; vorzugsweise vorab
-     telefonische Anzeige des Termins.
+ - Direkt beim zuständigen Finanzamt; vorzugsweise vorab
+ telefonische Anzeige des Termins.
 8. Begleitung Strafverfahren § 393 AO
-   - Mitwirkung im Steuerverfahren ruht, soweit Selbstbelastung
-     droht. Strafverteidigung separat sicherstellen.
+ - Mitwirkung im Steuerverfahren ruht, soweit Selbstbelastung
+ droht. Strafverteidigung separat sicherstellen.
 ```
 
 ## Aufbau der Berichtigungserklärung
@@ -144,7 +144,7 @@ Vollständige Bezugsbelege als Anlagen (Kontoauszüge Depotübersichten Belege a
 [Briefkopf]
 
 Finanzamt [Ort] — Strafsachen- und Bußgeldstelle
-[Anschrift]                                                       [Ort, Datum]
+[Anschrift] [Ort, Datum]
 
 Steuernummer: [SteuerNr]
 
@@ -156,19 +156,19 @@ namens und in Vollmacht von [Mandantin], geb. [Datum], wohnhaft [Anschrift], geb
 
 I. Berichtigte Bemessungsgrundlagen
 
-  Einkommensteuer
-  2015: Kapitaleinkünfte aus Konto Nr. […] bei […], CH, in Höhe von EUR […]
-  2016: …
-  […]
+ Einkommensteuer
+ 2015: Kapitaleinkünfte aus Konto Nr. […] bei […], CH, in Höhe von EUR […]
+ 2016: …
+ […]
 
-  Umsatzsteuer
-  […]
+ Umsatzsteuer
+ […]
 
 II. Anlagen
 
-  - Aufstellung Erträge je Veranlagungszeitraum (Anlage 1)
-  - Kontoauszüge / Depotauszüge (Anlage 2)
-  - Vollmacht (Anlage 3)
+ - Aufstellung Erträge je Veranlagungszeitraum (Anlage 1)
+ - Kontoauszüge / Depotauszüge (Anlage 2)
+ - Vollmacht (Anlage 3)
 
 III. Nachentrichtung
 

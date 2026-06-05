@@ -1,6 +1,6 @@
 ---
 name: rom-055-bonorum-possessio
-description: "Römisches Recht: Bonorum Possessio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Bonorum Possessio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Bonorum Possessio

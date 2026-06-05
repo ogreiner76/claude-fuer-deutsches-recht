@@ -1,34 +1,34 @@
 ---
 name: vermieter-intake-vermietung-ferienwohnung
-description: "Nutze dies, wenn Workflow Vermieter Intake, Workflow Vermietung Ferienwohnung Routing, Workflow Versicherungen Weg Miete, Workflow Verwalterhaftung Start, Workflow Wasserschaden Sofort im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Vermieter Intake, Vermietung Ferienwohnung Routing, Versicherungen Weg Miete, Verwalterhaftung Start: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Vermieter Intake, Workflow Vermietung Ferienwohnung Routing, Workflow Versicherungen Weg Miete, Workflow Verwalterhaftung Start, Workflow Wasserschaden Sofort
+# Vermieter Intake, Vermietung Ferienwohnung Routing, Versicherungen Weg Miete, Verwalterhaftung Start, Wasserschaden Sofort
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vermieter Intake, Vermietung Ferienwohnung Routing, Versicherungen Weg Miete, Verwalterhaftung Start, Wasserschaden Sofort** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-vermieter-intake` | Vermieter-Intake: Workflow-Skill für Miet- und WEG-Recht; sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-vermietung-ferienwohnung-routing` | Ferienwohnung/Zweckentfremdung: Workflow-Skill für Miet- und WEG-Recht; prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-versicherungen-weg-miete` | Versicherungen Miete/WEG: Workflow-Skill für Miet- und WEG-Recht; sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-verwalterhaftung-start` | Verwalterhaftung-Start: Workflow-Skill für Miet- und WEG-Recht; sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-wasserschaden-sofort` | Wasserschaden sofort: Workflow-Skill für Miet- und WEG-Recht; klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-vermieter-intake` | Vermieter-Intake: Arbeitsmodul für Miet- und WEG-Recht; sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-vermietung-ferienwohnung-routing` | Ferienwohnung/Zweckentfremdung: Arbeitsmodul für Miet- und WEG-Recht; prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-versicherungen-weg-miete` | Versicherungen Miete/WEG: Arbeitsmodul für Miet- und WEG-Recht; sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-verwalterhaftung-start` | Verwalterhaftung-Start: Arbeitsmodul für Miet- und WEG-Recht; sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-wasserschaden-sofort` | Wasserschaden sofort: Arbeitsmodul für Miet- und WEG-Recht; klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Vermieter Intake, Workflow Vermietung Ferienwohnung Routing, Workflow Versicherungen Weg Miete, Workflow Verwalterhaftung Start, Workflow Wasserschaden Sofort** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vermieter Intake, Vermietung Ferienwohnung Routing, Versicherungen Weg Miete, Verwalterhaftung Start, Wasserschaden Sofort** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-vermieter-intake`
 
-**Fokus:** Vermieter-Intake: Workflow-Skill für Miet- und WEG-Recht; sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Vermieter-Intake: Arbeitsmodul für Miet- und WEG-Recht; sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Vermieter-Intake
 
@@ -42,9 +42,9 @@ Für **Workflow Vermieter Intake, Workflow Vermietung Ferienwohnung Routing, Wor
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Ziel, Vertrag, Zahlung, Mangel, Kündigung, Modernisierung und Beweisplan.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -57,7 +57,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-vermietung-ferienwohnung-routing`
 
-**Fokus:** Ferienwohnung/Zweckentfremdung: Workflow-Skill für Miet- und WEG-Recht; prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Ferienwohnung/Zweckentfremdung: Arbeitsmodul für Miet- und WEG-Recht; prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Ferienwohnung/Zweckentfremdung
 
@@ -87,9 +87,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Vertrag, WEG, Satzung, Zweckentfremdungsrecht und Beweise.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -102,7 +102,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -118,7 +118,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-versicherungen-weg-miete`
 
-**Fokus:** Versicherungen Miete/WEG: Workflow-Skill für Miet- und WEG-Recht; sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Versicherungen Miete/WEG: Arbeitsmodul für Miet- und WEG-Recht; sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Versicherungen Miete/WEG
 
@@ -132,9 +132,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Gebäude-, Haftpflicht-, Hausrat-, Mietausfall- und Regressfragen.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -147,7 +147,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -163,7 +163,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 4. `workflow-verwalterhaftung-start`
 
-**Fokus:** Verwalterhaftung-Start: Workflow-Skill für Miet- und WEG-Recht; sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Verwalterhaftung-Start: Arbeitsmodul für Miet- und WEG-Recht; sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Verwalterhaftung-Start
 
@@ -177,9 +177,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Pflicht, Beschlusslage, Schaden, Kausalität und Entlastung.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -192,7 +192,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -208,7 +208,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-wasserschaden-sofort`
 
-**Fokus:** Wasserschaden sofort: Workflow-Skill für Miet- und WEG-Recht; klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Wasserschaden sofort: Arbeitsmodul für Miet- und WEG-Recht; klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Wasserschaden sofort
 
@@ -222,9 +222,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: klärt Sicherung, Anzeige, Versicherung, Minderung, Handwerker und Beweise.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -237,7 +237,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab

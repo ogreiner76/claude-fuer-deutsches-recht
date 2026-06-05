@@ -67,7 +67,7 @@ Beim Versorgungsamt (oder Bezirksregierung — Land je nach Bundesland):
 ### Schritt 5 — Bei Ablehnung Widerspruch
 
 ```
-Versorgungsamt / Bezirksregierung [...]            [Ort, Datum]
+Versorgungsamt / Bezirksregierung [...] [Ort, Datum]
 
 Az: [...]
 
@@ -80,20 +80,20 @@ gegen den o.g. Bescheid lege ich Widerspruch ein.
 Begruendung:
 
 1. Tatbestand der Gewalttat
-   Am [Datum] erfolgte gegen mich Gewalttat in Form von [...]. Polizei-Akte Az [...].
+ Am [Datum] erfolgte gegen mich Gewalttat in Form von [...]. Polizei-Akte Az [...].
 
 2. Gesundheitliche Folgen
-   Diagnosen:
-   - PTBS (ICD F43.1) - Diagnose-Datum [...]
-   - Depression (F33) - Diagnose-Datum [...]
-   - [koerperliche Folgen]
-   Belege: Atteste Dr. [Name], Therapeutin Dr. [Name].
+ Diagnosen:
+ - PTBS (ICD F43.1) - Diagnose-Datum [...]
+ - Depression (F33) - Diagnose-Datum [...]
+ - [koerperliche Folgen]
+ Belege: Atteste Dr. [Name], Therapeutin Dr. [Name].
 
 3. Ursaechlichkeit
-   Die psychischen Folgen sind nach aerztlicher Einschaetzung ursaechlich auf die Gewalttat zurueckzufuehren.
+ Die psychischen Folgen sind nach aerztlicher Einschaetzung ursaechlich auf die Gewalttat zurueckzufuehren.
 
 4. GdS Bewertung
-   Nach Versorgungsmedizinischen Grundsaetzen ist GdS mindestens [Wert] gegeben.
+ Nach Versorgungsmedizinischen Grundsaetzen ist GdS mindestens [Wert] gegeben.
 
 Mit freundlichen Gruessen
 ```

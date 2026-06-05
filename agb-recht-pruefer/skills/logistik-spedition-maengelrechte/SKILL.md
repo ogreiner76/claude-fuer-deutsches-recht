@@ -1,22 +1,22 @@
 ---
 name: logistik-spedition-maengelrechte
-description: "Nutze dies, wenn Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb, Mandantenmail Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb, Mandantenmail Agb prüfen.; Erstelle eine Arbeitsfassung zu Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb, Mandantenmail Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb, Mandantenmail Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb, Mandantenmail Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `logistik-spedition-agb` | Branchen-Spezialskill für Logistik Spedition AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `logistik-spedition-agb` | Branchen-Fachmodul für Logistik Spedition AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `maengelrechte-309` | Norm- und Dogmatik-Skill für Mängelrechte 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `mahngebuehren-und-zinsanpassung-agb` | Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie hoch Mahngebuehren in AGB sein duerfen Differenzierung erste zweite dritte Mahnung sowie die Wechselwirkung zum Verzugsschaden (§ 280 II 286 BGB). Behandelt automatische Zinsanpassung an Leitzins-Index BGH-Linie zu intransparenten Klauseln. |
-| `mandanteninterview-agb` | Einstiegs- und Workflow-Skill für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `mandanteninterview-agb` | Einstiegs- und Arbeitsmodul für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 | `mandantenmail-agb` | Output- und Streit-Skill für Mandantenmail AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassun
 
 ## 1. `logistik-spedition-agb`
 
-**Fokus:** Branchen-Spezialskill für Logistik Spedition AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Logistik Spedition AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Logistik Spedition AGB
 
@@ -109,14 +109,14 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Mängelrechte (§ 309 Nr. 8 BGB) - eines der dichtesten Klauselverbote:**
-   - **Nr. 8 lit. a:** Erfüllungsausschluss bei nicht oder abweichend gelieferter Sache - unwirksam.
-   - **Nr. 8 lit. b lit. aa:** Ausschluss oder Beschränkung der Mängelansprüche bei neu hergestellten Sachen oder Werkleistungen, einschließlich des Nacherfüllungsrechts - unwirksam.
-   - **Nr. 8 lit. b lit. bb:** Beschränkung des Nacherfüllungsanspruchs auf eine Nachbesserungsart ohne Wahlrecht des Kunden - unwirksam (Wahlrecht zwischen Nachbesserung und Ersatzlieferung muss erhalten bleiben, § 439 Abs. 1 BGB).
-   - **Nr. 8 lit. b lit. cc:** Verweigerung der Aufwendungen für die Nacherfüllung (Transport, Wege, Arbeit, Material, § 439 Abs. 2 BGB) - unwirksam.
-   - **Nr. 8 lit. b lit. dd:** Vorenthaltung des Nacherfüllungsanspruchs bis nach Zahlung des Kaufpreises - unwirksam.
-   - **Nr. 8 lit. b lit. ee:** Verkürzte Anzeigefrist für offensichtliche Mängel - unwirksam (§ 377 HGB betrifft nur B2B).
-   - **Nr. 8 lit. b lit. ff:** Verkürzung der Verjährungsfrist - im B2C absolut auf < 2 Jahre verboten; bei gebrauchten Sachen auf < 1 Jahr (§§ 438, 309 Nr. 8 lit. b lit. ff BGB).
-   - **B2B-Ausstrahlung:** § 307 BGB greift; insbesondere verkürzte Verjährungsfristen auf < 1 Jahr im B2B regelmäßig unwirksam (BGH, ständige Rechtsprechung).
+ - **Nr. 8 lit. a:** Erfüllungsausschluss bei nicht oder abweichend gelieferter Sache - unwirksam.
+ - **Nr. 8 lit. b lit. aa:** Ausschluss oder Beschränkung der Mängelansprüche bei neu hergestellten Sachen oder Werkleistungen, einschließlich des Nacherfüllungsrechts - unwirksam.
+ - **Nr. 8 lit. b lit. bb:** Beschränkung des Nacherfüllungsanspruchs auf eine Nachbesserungsart ohne Wahlrecht des Kunden - unwirksam (Wahlrecht zwischen Nachbesserung und Ersatzlieferung muss erhalten bleiben, § 439 Abs. 1 BGB).
+ - **Nr. 8 lit. b lit. cc:** Verweigerung der Aufwendungen für die Nacherfüllung (Transport, Wege, Arbeit, Material, § 439 Abs. 2 BGB) - unwirksam.
+ - **Nr. 8 lit. b lit. dd:** Vorenthaltung des Nacherfüllungsanspruchs bis nach Zahlung des Kaufpreises - unwirksam.
+ - **Nr. 8 lit. b lit. ee:** Verkürzte Anzeigefrist für offensichtliche Mängel - unwirksam (§ 377 HGB betrifft nur B2B).
+ - **Nr. 8 lit. b lit. ff:** Verkürzung der Verjährungsfrist - im B2C absolut auf < 2 Jahre verboten; bei gebrauchten Sachen auf < 1 Jahr (§§ 438, 309 Nr. 8 lit. b lit. ff BGB).
+ - **B2B-Ausstrahlung:** § 307 BGB greift; insbesondere verkürzte Verjährungsfristen auf < 1 Jahr im B2B regelmäßig unwirksam (BGH, ständige Rechtsprechung).
 6. **Rechtsfolge:** Vollständige Unwirksamkeit (§ 306 Abs. 1 BGB); gesetzliche Mängelrechte greifen ungeschmälert (§§ 437 ff., 633 ff. BGB).
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `mandanteninterview-agb`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Mandanteninterview AGB
 

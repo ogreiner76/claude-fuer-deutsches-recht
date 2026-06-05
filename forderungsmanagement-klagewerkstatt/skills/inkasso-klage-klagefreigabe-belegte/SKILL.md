@@ -1,13 +1,13 @@
 ---
 name: inkasso-klage-klagefreigabe-belegte
-description: "Nutze dies, wenn Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Inkasso Risikoampel Und Gegenargumente, Klage Formular Portal Und Einreichung, Klagefreigabe Belegte Forderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung
+# Inkasso Risikoampel Und Gegenargumente, Klage Formular Portal Und Einreichung, Klagefreigabe Belegte Forderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Inkasso Risikoampel Und Gegenargumente, Klage Formular Portal Und Einreichung, Klagefreigabe Belegte Forderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Inkasso Risikoampel Und Gegenargumente, Spezial Klage Formular Portal Und Einreichung, Spezial Klagefreigabe Belegte Forderung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inkasso Risikoampel Und Gegenargumente, Klage Formular Portal Und Einreichung, Klagefreigabe Belegte Forderung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -57,9 +57,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Registrierungspflicht (§ 10 Abs. 1 Nr. 1 RDG):** Inkassodienstleister benötigen Registrierung beim zuständigen Oberlandesgericht für Rechtsdienstleistung. Verstoß: Nichtigkeit der Forderungseinziehung; eingezogene Forderungen ggf. zurückzuerstatten.
 - **Inkassokostenerstattung (§ 13e RDGEG):** Geltend gemacht werden können Inkassokosten als Verzugsschaden (§§ 280, 286, 288 BGB i.V.m. § 13e RDGEG), aber nur in Höhe der gesetzlichen Anwaltsgebühren (RVG). Verbraucher- und Kleinforderungsschutz seit 01.10.2021: deutlich reduzierte Sätze in Verbrauchersachen.
 - **Höchstgrenzen RVG-Inkasso:**
-  - Forderungen bis 50 Euro: Geschäftsgebühr (Nr. 2300 VV RVG) gedeckelt auf 0,9 (statt 1,3), Erstinkasso bis 18 Euro.
-  - Forderungen bis 500 Euro: Erstinkassosatz auf 50 Euro begrenzt; Mindestgebühren reduziert.
-  - Detailliert nach RVG-VV Nrn. 2300 ff. und § 13b-d RDGEG.
+ - Forderungen bis 50 Euro: Geschäftsgebühr (Nr. 2300 VV RVG) gedeckelt auf 0,9 (statt 1,3), Erstinkasso bis 18 Euro.
+ - Forderungen bis 500 Euro: Erstinkassosatz auf 50 Euro begrenzt; Mindestgebühren reduziert.
+ - Detailliert nach RVG-VV Nrn. 2300 ff. und § 13b-d RDGEG.
 - **Informationspflichten Inkasso (§ 11a RDG):** Inkassodienstleister muss bei erstem Kontakt mitteilen: Auftraggeber, Forderungsgrund mit Bezug auf konkrete Vereinbarung (Datum, Aktenzeichen), Zinsen und Kostenrechnung detailliert.
 - **Anwaltskosten als Verzugsschaden:** Mahn- und außergerichtliche Vertretungskosten eines Rechtsanwalts sind nach Verzug erstattbar (§§ 280, 286 BGB), wenn Beauftragung erforderlich war (BGH ständige Rspr. zur Erforderlichkeit der Anwaltsbeauftragung im Inkasso).
 - **Doppelbeauftragung Inkasso + Anwalt:** Geht regelmäßig zu Lasten des Gläubigers - er bekommt nur einmal Erstattung (BGH ständige Rspr. seit Beschluss IX ZR 280/14).
@@ -134,11 +134,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `forderungsmanagement-klagewerkstatt`. Kontext des Plugins: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `forderungsmanagement-klagewerkstatt`. Kontext des Plugins: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?

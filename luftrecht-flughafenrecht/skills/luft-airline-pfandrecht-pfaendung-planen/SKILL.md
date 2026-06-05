@@ -1,13 +1,13 @@
 ---
 name: luft-airline-pfandrecht-pfaendung-planen
-description: "Nutze dies, wenn Luft 023 Airline Pfandrecht Vorbereiten, Luft 024 Airline Pfaendung Planen, Luft 025 Airline Genehmigung Prüfen, Luft 026 Airline Sicherheitsauflage Bewerten, Luft 027 Airline Insolvenzrisiko Markieren im Plugin Luftrecht Flughafenrecht konkret bearbeitet werden soll. Auslöser: Bitte Luft 023 Airline Pfandrecht Vorbereiten, Luft 024 Airline Pfaendung Planen, Luft 025 Airline Genehmigung Prüfen, Luft 026 Airline Sicherheitsauflage Bewerten, Luft 027 Airline Insolvenzrisiko Markieren prüfen.; Erstelle eine Arbeitsfassung zu Luft 023 Airline Pfandrecht Vorbereiten, Luft 024 Airline Pfaendung Planen, Luft 025 Airline Genehmigung Prüfen, Luft 026 Airline Sicherheitsauflage Bewerten, Luft 027 Airline Insolvenzrisiko Markieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Luft 023 Airline Pfandrecht Vorbereiten, Luft 024 Airline Pfaendung Planen, Luft 025 Airline Genehmigung Prüfen, Luft 026 Airline Sicherheitsauflage Bewerten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Luft 023 Airline Pfandrecht Vorbereiten, Luft 024 Airline Pfaendung Planen, Luft 025 Airline Genehmigung Prüfen, Luft 026 Airline Sicherheitsauflage Bewerten, Luft 027 Airline Insolvenzrisiko Markieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Luft 023 Airline Pfandrecht Vorbereiten, Luft 024 Airline Pfaendung Planen, Luft 025 Airline Genehmigung Prüfen, Luft 026 Airline Sicherheitsauflage Bewerten, Luft 027 Airline Insolvenzrisiko Markieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

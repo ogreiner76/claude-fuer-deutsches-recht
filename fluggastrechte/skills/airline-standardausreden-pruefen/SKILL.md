@@ -94,7 +94,7 @@ Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumut
 **Gegenargument**:
 
 > Akzeptanz einer Ersatzbeförderung schließt den Ausgleichsanspruch nach Art. 7 VO 261/2004 nicht aus. Anspruchsgrundlage Art. 7 ist eigenständig und greift parallel zur Erstattung oder Ersatzbeförderung (Art. 8 VO 261/2004).
-> 
+>
 > Voucher können Ausgleichsanspruch nur dann ersetzen wenn der Fluggast **schriftlich und ausdrücklich** auf seinen Ausgleichsanspruch verzichtet hat. Ein blosser Voucher-Erhalt ohne Verzichtserklärung ist kein Anspruchsverzicht.
 
 ### 11. "Wir sind nicht zuständig (Codeshare)"

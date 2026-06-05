@@ -1,13 +1,13 @@
 ---
 name: anwaltlicher-an-anzeige-unter
-description: "Nutze dies, wenn Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel prüfen.; Erstelle eine Arbeitsfassung zu Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwaltlicher Brief An Behörde, Anzeige Unter Freiem Himmel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

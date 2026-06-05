@@ -1,13 +1,13 @@
 ---
 name: kueschk-klageschrift-laie-kuendigungsgrund
-description: "Nutze dies, wenn Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig prüfen.; Erstelle eine Arbeitsfassung zu Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kündigungsschutzklage Klageschrift Laie Baustein, Kündigungsschutzklage Kuendigungsgrund Personen Verhalten Betrieb, Kündigungsschutzklage Muendliche Verhandlung Praxistipps Laie, Kündigungsschutzklage Paragraph 12 Kschg Neuer Job Einseitig** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

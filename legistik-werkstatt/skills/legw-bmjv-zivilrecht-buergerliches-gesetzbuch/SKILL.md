@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Zivilrecht und BGB-Pflege
-Ressort:            BMJV
-Kernnormen:         BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.
-Akteure/Aufsicht:   BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.
-EU/Voelkerrecht:    Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmjv; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Zivilrecht und BGB-Pflege
+Ressort: BMJV
+Kernnormen: BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.
+Akteure/Aufsicht: BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.
+EU/Voelkerrecht: Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

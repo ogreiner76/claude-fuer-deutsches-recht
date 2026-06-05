@@ -1,13 +1,13 @@
 ---
 name: freiheitsstrafe-strafmass-geldstrafe
-description: "Nutze dies, wenn Freiheitsstrafe Strafmass Prüfen, Geldstrafe Tagessatzanzahl Bestimmen, Geldstrafe Vs Freiheitsstrafe 47 Stgb im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Freiheitsstrafe Strafmass Prüfen, Geldstrafe Tagessatzanzahl Bestimmen, Geldstrafe Vs Freiheitsstrafe 47 Stgb prüfen.; Erstelle eine Arbeitsfassung zu Freiheitsstrafe Strafmass Prüfen, Geldstrafe Tagessatzanzahl Bestimmen, Geldstrafe Vs Freiheitsstrafe 47 Stgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Freiheitsstrafe Strafmass Prüfen, Geldstrafe Tagessatzanzahl Bestimmen, Geldstrafe Vs Freiheitsstrafe 47 Stgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Freiheitsstrafe Strafmass Prüfen, Geldstrafe Tagessatzanzahl Bestimmen, Geldstrafe Vs Freiheitsstrafe 47 Stgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Freiheitsstrafe Strafmass Prüfen, Geldstrafe Tagessatzanzahl Bestimmen, Geldstrafe Vs Freiheitsstrafe 47 Stgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,9 +55,9 @@ Sobald feststeht, dass Freiheitsstrafe verhaengt wird, ist innerhalb des konkret
 
 - **Spielraum schuldangemessener Strafe**: Ober- und Untergrenze; innerhalb davon nach Praevention bemessen.
 - **Wechselwirkung Strafhoehe und Bewaehrung**:
-  - Bis 1 Jahr: Bewaehrung Regelfall bei positiver Sozialprognose (§ 56 Abs. 1 StGB).
-  - 1 bis 2 Jahre: Bewaehrung moeglich, aber nur bei besonderen Umstaenden (§ 56 Abs. 2 StGB).
-  - Ueber 2 Jahre: keine Bewaehrung mehr.
+ - Bis 1 Jahr: Bewaehrung Regelfall bei positiver Sozialprognose (§ 56 Abs. 1 StGB).
+ - 1 bis 2 Jahre: Bewaehrung moeglich, aber nur bei besonderen Umstaenden (§ 56 Abs. 2 StGB).
+ - Ueber 2 Jahre: keine Bewaehrung mehr.
 - Verteidigung achtet darauf, ob ein Strafmass moeglichst unter 2 Jahre (und idealerweise unter 1 Jahr) liegt.
 
 ## Schritt-fuer-Schritt-Anleitung
@@ -239,11 +239,11 @@ Die Tabelle ersetzt **keine** Einzelfallbetrachtung; sie zeigt nur das Spielfeld
 
 1. **Strafrahmen pruefen**: Sieht der Tatbestand Geldstrafe vor? Wenn nein, Klappentest fuer § 47 Abs. 2 StGB.
 2. **Argumente gegen besondere Umstaende sammeln**:
-   - Erstmaliger Verstoss.
-   - Niedrige kriminelle Energie.
-   - Soziale Integration: Beruf, Familie, intakte Bindungen.
-   - Akute persoenliche Belastung (Sucht, Krise) bereits in Behandlung.
-   - Kein einschlaegiges Vorleben.
+ - Erstmaliger Verstoss.
+ - Niedrige kriminelle Energie.
+ - Soziale Integration: Beruf, Familie, intakte Bindungen.
+ - Akute persoenliche Belastung (Sucht, Krise) bereits in Behandlung.
+ - Kein einschlaegiges Vorleben.
 3. **Tagessatz-Berechnung beilegen**, damit das Gericht Geldstrafe konkret verhaengen kann; vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`.
 4. **In der Hauptverhandlung** ausdruecklich beantragen: "Wir beantragen Verhaengung einer Geldstrafe; eine Freiheitsstrafe ist nach § 47 Abs. 1 StGB nicht unerlaesslich, da [...]."
 5. **Wenn doch kurze Freiheitsstrafe**: hilfsweise Bewaehrung (§ 56 StGB) sichern; vgl. `bewaehrung-56-stgb-positive-sozialprognose`.
@@ -252,9 +252,9 @@ Die Tabelle ersetzt **keine** Einzelfallbetrachtung; sie zeigt nur das Spielfeld
 ## Schritt-fuer-Schritt-Anleitung (Anklage)
 
 - Wenn kurze Freiheitsstrafe angestrebt wird, **konkret** vortragen, welche besonderen Umstaende vorliegen:
-  - Einschlaegige Vorbelastung, mehrfache Bewaehrungsversager.
-  - Tat-Spezifika (z.B. Gewerbsmaessigkeit, Bandenstruktur, Wiederholungstat in Bewaehrung).
-  - Schwergewichtige Tatfolgen ueber Tatbestandsmerkmal hinaus.
+ - Einschlaegige Vorbelastung, mehrfache Bewaehrungsversager.
+ - Tat-Spezifika (z.B. Gewerbsmaessigkeit, Bandenstruktur, Wiederholungstat in Bewaehrung).
+ - Schwergewichtige Tatfolgen ueber Tatbestandsmerkmal hinaus.
 - Verteidigung der Rechtsordnung nur bei massiven oder oeffentlichkeitswirksamen Faellen tragfaehig.
 
 ## Strafmildernde Wirkung gegenueber Geldstrafe

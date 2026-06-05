@@ -1,13 +1,13 @@
 ---
 name: widerrufsrecht-verbraucher
-description: "Nutze dies, wenn Widerrufsrecht Verbraucher 355 312G Bgb im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Widerrufsrecht Verbraucher 355 312G Bgb prüfen.; Erstelle eine Arbeitsfassung zu Widerrufsrecht Verbraucher 355 312G Bgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Widerrufsrecht Verbraucher 355 312g Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Widerrufsrecht Verbraucher 355 312G Bgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Widerrufsrecht Verbraucher 355 312G Bgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -61,14 +61,14 @@ Bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen st
 - § 312k BGB-Verhältnis: Kündigung von Dauerschuldverhältnissen (anderer Mechanismus).
 - EuGH C-208/19 (BU), C-186/24 (in Recht zur Klage) – ggf. einschlägige Rechtsprechung verifizieren.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Vertragstyp und Status klären.** Verbraucher? Fernabsatz? Außerhalb Geschäftsräume?
 2. **Widerrufsbelehrung prüfen.** Inhalt vollständig? Muster Anlage 1 EGBGB verwendet? Konkret (Empfänger, Adresse, E-Mail)?
 3. **Fristbeginn berechnen.**
-   - Waren: Erhalt der Ware (bei mehreren Sendungen letzte).
-   - Dienstleistungen / digitale Inhalte ohne körperlichen Datenträger: Vertragsschluss.
-   - Bei fehlerhafter Belehrung: 12 Monate und 14 Tage Maximum.
+ - Waren: Erhalt der Ware (bei mehreren Sendungen letzte).
+ - Dienstleistungen / digitale Inhalte ohne körperlichen Datenträger: Vertragsschluss.
+ - Bei fehlerhafter Belehrung: 12 Monate und 14 Tage Maximum.
 4. **Ausnahmen prüfen.** § 312g II BGB – Maßanfertigung, hygienisch versiegelt etc. – im Zweifel keine Ausnahme.
 5. **Form des Widerrufs.** Eindeutige Erklärung – Brief, E-Mail, Online-Formular. Pflicht ist keine Begründung.
 6. **Rechtsfolgen.** Rückerstattung binnen 14 Tagen. Rücksendung Verbraucher trägt grundsätzlich Kosten, soweit belehrt. Wertersatz nur bei Belehrung und Prüfen der Beschaffenheit übersteigender Nutzung.

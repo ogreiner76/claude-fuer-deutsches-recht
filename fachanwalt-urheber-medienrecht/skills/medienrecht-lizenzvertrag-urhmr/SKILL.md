@@ -1,13 +1,13 @@
 ---
 name: medienrecht-lizenzvertrag-urhmr
-description: "Nutze dies, wenn Spezial Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Spezial Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter
+# Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Medienrecht Fristen Form Und Zustaendigkeit, Fachanwalt Urheber M
 # Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg / spezial medienrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg / medienrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-zustimmungsfiktion-bank-agb
-description: "Rechtsabteilungs-Spezialskill für Zustimmungsfiktion nach Bank-AGB-Urteil: Klauseln, die Schweigen oder bloße Weiternutzung als Zustimmung behandeln, werden für Preis- und Leistungsänderungen in B2C und B2B auseinandergenommen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für Zustimmungsfiktion nach Bank-AGB-Urteil: Klauseln, die Schweigen oder bloße Weiternutzung als Zustimmung behandeln, werden für Preis- und Leistungsänderungen in B2C und B2B auseinandergenommen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
 ---
 
 # Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil

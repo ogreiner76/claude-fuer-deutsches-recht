@@ -1,13 +1,13 @@
 ---
 name: kv-haushaltshilfe-kv-zahnersatz-kv
-description: "Nutze dies, wenn Kv 011 Haushaltshilfe Fahrkosten Und Besondere Lebenslagen, Kv 012 Zahnersatz Heil Und Kostenplan Bonusheft Festzuschuss, Kv 013 Kinderleistungen Sozialpaediatrie Therapie Und Schulbegle im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 011 Haushaltshilfe Fahrkosten Und Besondere Lebenslagen, Kv 012 Zahnersatz Heil Und Kostenplan Bonusheft Festzuschuss, Kv 013 Kinderleistungen Sozialpaediatrie Therapie Und Schulbegle prüfen.; Erstelle eine Arbeitsfassung zu Kv 011 Haushaltshilfe Fahrkosten Und Besondere Lebenslagen, Kv 012 Zahnersatz Heil Und Kostenplan Bonusheft Festzuschuss, Kv 013 Kinderleistungen Sozialpaediatrie Therapie Und Schulbegle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 011 Haushaltshilfe Fahrkosten Und Besondere Lebenslagen, Kv 012 Zahnersatz Heil Und Kostenplan Bonusheft Festzuschuss, Kv 013 Kinderleistungen Sozialpaediatrie Therapie Und Schulbegle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 011 Haushaltshilfe Fahrkosten Und Besondere Lebenslagen, Kv 012 Zahnersatz Heil Und Kostenplan Bonusheft Festzuschuss, Kv 013 Kinderleistungen Sozialpaediatrie Therapie Und Schulbegle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 011 Haushaltshilfe Fahrkosten Und Besondere Lebenslagen, Kv 012 Zahnersatz Heil Und Kostenplan Bonusheft Festzuschuss, Kv 013 Kinderleistungen Sozialpaediatrie Therapie Und Schulbegle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

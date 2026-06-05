@@ -1,6 +1,6 @@
 ---
 name: rom-076-deliktsrecht-vergleich
-description: "Römisches Recht: Deliktsrecht Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Deliktsrecht Vergleich. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Deliktsrecht Vergleich

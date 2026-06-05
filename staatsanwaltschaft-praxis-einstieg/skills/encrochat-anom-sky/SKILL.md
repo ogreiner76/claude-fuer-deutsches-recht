@@ -1,13 +1,13 @@
 ---
 name: encrochat-anom-sky
-description: "Nutze dies, wenn Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben, Europaeischer Haftbefehl Sta Praxis im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben, Europaeischer Haftbefehl Sta Praxis prüfen.; Erstelle eine Arbeitsfassung zu Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben, Europaeischer Haftbefehl Sta Praxis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben, Europaeischer Haftbefehl Sta Praxis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben, Europaeischer Haftbefehl Sta Praxis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -95,7 +95,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** verschlüsselte Kommunikationsdaten, Rechtshilfe, Authentizität, Übersetzung und Verwertbarkeit
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -244,7 +244,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Auslieferung, Spezialität, Haftfragen, Übersetzung und Fristen
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

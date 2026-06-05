@@ -1,6 +1,6 @@
 ---
 name: rom-054-legat-und-fideikommiss
-description: "Römisches Recht: Legat Und Fideikommiss. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Legat Und Fideikommiss. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Legat Und Fideikommiss

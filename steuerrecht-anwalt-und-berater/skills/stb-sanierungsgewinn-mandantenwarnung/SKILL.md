@@ -32,7 +32,7 @@ Der Mandantenbrief in der Frühphase ist das wichtigste Steuerungsinstrument. Er
 - **§ 89 AO** — verbindliche Auskunft.
 - **§ 43a Abs. 2 BRAO** / **§ 203 StGB** — Verschwiegenheitspflicht; Mandantenbrief vertraulich.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt |
 |---|---|
@@ -71,7 +71,7 @@ An die Geschäftsleitung der [Firma]
 - persönlich / vertraulich -
 
 Betreff: Sanierungsgewinn nach § 3a EStG — frühzeitige Warnung
-         im Zusammenhang mit Ihrer geplanten Sanierung
+ im Zusammenhang mit Ihrer geplanten Sanierung
 
 Sehr geehrte Frau / sehr geehrter Herr [Name],
 
@@ -85,37 +85,37 @@ in der Praxis häufig erst sehr spät erkannt wird — dann aber für
 Ihre Liquidität zur Katastrophe werden kann:
 
 1. Ein Forderungsverzicht der Gläubiger ist bei Ihnen
-   handels- und steuerrechtlich ein Buchgewinn. Wenn ein
-   Gläubiger auf eine Forderung von EUR 500.000 verzichtet,
-   entsteht in Ihrer GuV ein außerordentlicher Ertrag in
-   gleicher Höhe.
+ handels- und steuerrechtlich ein Buchgewinn. Wenn ein
+ Gläubiger auf eine Forderung von EUR 500.000 verzichtet,
+ entsteht in Ihrer GuV ein außerordentlicher Ertrag in
+ gleicher Höhe.
 
 2. Dieser Ertrag ist GRUNDSÄTZLICH einkommensteuer- und
-   körperschaftsteuerpflichtig sowie gewerbesteuerpflichtig.
-   Bei einem Verzicht von EUR 500.000 droht eine Steuerlast
-   in der Größenordnung von EUR 130.000 bis EUR 165.000.
-   Die Steuer ist liquide zu zahlen — der Verzicht hat Ihnen
-   aber keine liquiden Mittel zugeführt.
+ körperschaftsteuerpflichtig sowie gewerbesteuerpflichtig.
+ Bei einem Verzicht von EUR 500.000 droht eine Steuerlast
+ in der Größenordnung von EUR 130.000 bis EUR 165.000.
+ Die Steuer ist liquide zu zahlen — der Verzicht hat Ihnen
+ aber keine liquiden Mittel zugeführt.
 
 3. Eine Steuerbefreiung ist nach § 3a EStG möglich, aber
-   an strenge Voraussetzungen gebunden. Es müssen kumulativ
-   nachgewiesen werden:
-   - Sanierungsbedürftigkeit Ihres Unternehmens
-   - Sanierungsfähigkeit
-   - Sanierungseignung der Maßnahme
-   - Sanierungsabsicht der Gläubiger
-   Diese Voraussetzungen werden bei einer späteren Prüfung
-   durch das Finanzamt Punkt für Punkt zerlegt. Wer erst
-   nach Abschluss der Sanierung anfängt zu dokumentieren,
-   verliert in aller Regel.
+ an strenge Voraussetzungen gebunden. Es müssen kumulativ
+ nachgewiesen werden:
+ - Sanierungsbedürftigkeit Ihres Unternehmens
+ - Sanierungsfähigkeit
+ - Sanierungseignung der Maßnahme
+ - Sanierungsabsicht der Gläubiger
+ Diese Voraussetzungen werden bei einer späteren Prüfung
+ durch das Finanzamt Punkt für Punkt zerlegt. Wer erst
+ nach Abschluss der Sanierung anfängt zu dokumentieren,
+ verliert in aller Regel.
 
 4. Ein vorhandener steuerlicher Verlustvortrag kann den
-   Sanierungsertrag aufzehren. Wir empfehlen daher als
-   ERSTES, die Höhe Ihres Verlustvortrags zur Körperschaft-
-   bzw. Einkommensteuer und Gewerbesteuer zu prüfen.
-   Wenn er den Verzichtsbetrag deckt, wird der Antrag nach
-   § 3a Abs. 4 EStG entbehrlich, und Sie ersparen sich den
-   späteren Streit mit dem Finanzamt.
+ Sanierungsertrag aufzehren. Wir empfehlen daher als
+ ERSTES, die Höhe Ihres Verlustvortrags zur Körperschaft-
+ bzw. Einkommensteuer und Gewerbesteuer zu prüfen.
+ Wenn er den Verzichtsbetrag deckt, wird der Antrag nach
+ § 3a Abs. 4 EStG entbehrlich, und Sie ersparen sich den
+ späteren Streit mit dem Finanzamt.
 
 UNSERE EMPFEHLUNG
 
@@ -123,13 +123,13 @@ Wir empfehlen Ihnen dringend, vor jedem Verzichtsangebot
 folgende Schritte einzuleiten:
 
 a) Verlustvortrag-Sanity-Check durch uns oder Ihren
-   Steuerberater. Aufwand: rund [X] Stunden.
+ Steuerberater. Aufwand: rund [X] Stunden.
 
 b) Diagnose unternehmensbezogene oder personenbezogene
-   Sanierung. Aufwand: rund [X] Stunden.
+ Sanierung. Aufwand: rund [X] Stunden.
 
 c) Frühzeitige Dokumentation der vier Voraussetzungen
-   nach § 3a EStG durch ein Sanierungskonzept (IDW S 6).
+ nach § 3a EStG durch ein Sanierungskonzept (IDW S 6).
 
 d) Schriftliche Sanierungsabsicht der Gläubiger einholen.
 
@@ -163,9 +163,9 @@ Sehr geehrte Frau / sehr geehrter Herr [Name],
 Sie planen einen Forderungsverzicht durch Ihre Gläubiger in
 einer Größenordnung von EUR [Betrag]. Wir müssen Sie warnen:
 
-  Ein Forderungsverzicht ist steuerlich ein Gewinn.
-  Bei EUR [Betrag] Verzicht droht ohne Vorbereitung
-  rund EUR [Steuer] Steuerlast (KSt + GewSt).
+ Ein Forderungsverzicht ist steuerlich ein Gewinn.
+ Bei EUR [Betrag] Verzicht droht ohne Vorbereitung
+ rund EUR [Steuer] Steuerlast (KSt + GewSt).
 
 Befreiung nach § 3a EStG ist möglich, aber nur mit korrekter
 Vorbereitung. Wir empfehlen ein Gespräch vor jeder Verzichts-

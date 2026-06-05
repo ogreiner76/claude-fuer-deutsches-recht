@@ -1,12 +1,12 @@
 ---
 name: stellungnahme
-description: "Nutze dies, wenn Stellungnahme: Formular, Portal und Einreichungslogik im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Stellungnahme: Formular, Portal und Einreichungslogik prüfen.; Erstelle eine Arbeitsfassung zu Stellungnahme: Formular, Portal und Einreichungslogik.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stellungnahme: Formular, Portal und Einreichungslogik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Stellungnahme: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Stellungnahme: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Stellungnahme: Formular, Portal und Einreichungslogik / spezial stellungnahme formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Stellungnahme: Formular, Portal und Einreichungslogik / stellungnahme formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

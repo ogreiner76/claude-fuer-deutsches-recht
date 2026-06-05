@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Haushaltsrecht und Zuwendungen
-Ressort:            BMF
-Kernnormen:         BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.
-Akteure/Aufsicht:   BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.
-EU/Voelkerrecht:    EU-Beihilferecht; AGVO; De-minimis; Notifizierung; ETZ-Programme.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmf; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Haushaltsrecht und Zuwendungen
+Ressort: BMF
+Kernnormen: BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.
+Akteure/Aufsicht: BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.
+EU/Voelkerrecht: EU-Beihilferecht; AGVO; De-minimis; Notifizierung; ETZ-Programme.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

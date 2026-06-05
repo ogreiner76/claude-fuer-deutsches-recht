@@ -1,13 +1,13 @@
 ---
 name: it-cloud-kammeraufsicht-ruege
-description: "Nutze dies, wenn It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen prüfen.; Erstelle eine Arbeitsfassung zu It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **It Cloud Ki Und Outsourcing, Kammeraufsicht Und Ruege, Kanzleiorganisation, Kooperation Mit Anderen Berufen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

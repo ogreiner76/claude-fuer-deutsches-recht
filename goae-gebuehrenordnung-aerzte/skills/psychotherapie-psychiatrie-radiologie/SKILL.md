@@ -1,13 +1,13 @@
 ---
 name: psychotherapie-psychiatrie-radiologie
-description: "Nutze dies, wenn Psychotherapie Psychiatrie Gespraechsleistungen, Radiologie Schnittbild Zielleistung, Sachverstaendigenfragen Goae Streit im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte Psychotherapie Psychiatrie Gespraechsleistungen, Radiologie Schnittbild Zielleistung, Sachverstaendigenfragen Goae Streit prüfen.; Erstelle eine Arbeitsfassung zu Psychotherapie Psychiatrie Gespraechsleistungen, Radiologie Schnittbild Zielleistung, Sachverstaendigenfragen Goae Streit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Psychotherapie Psychiatrie Gespraechsleistungen, Radiologie Schnittbild Zielleistung, Sachverstaendigenfragen Goae Streit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Psychotherapie Psychiatrie Gespraechsleistungen, Radiologie Schnittbild Zielleistung, Sachverstaendigenfragen Goae Streit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Psychotherapie Psychiatrie Gespraechsleistungen, Radiologie Schnittbild Zielleistung, Sachverstaendigenfragen Goae Streit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

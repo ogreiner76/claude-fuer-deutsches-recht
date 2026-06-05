@@ -1,32 +1,32 @@
 ---
 name: bundesland-datenerhebung-grossstadt
-description: "Nutze dies, wenn Spezial Bundesland Verhandlung Vergleich Und Eskalation, Spezial Datenerhebung Zahlen Schwellen Und Berechnung, Spezial Grossstadt Mietspiegel Und Kappung im Plugin Mietrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Bundesland Verhandlung Vergleich Und Eskalation, Spezial Datenerhebung Zahlen Schwellen Und Berechnung, Spezial Grossstadt Mietspiegel Und Kappung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Bundesland Verhandlung Vergleich Und Eskalation, Spezial Datenerhebung Zahlen Schwellen Und Berechnung, Spezial Grossstadt Mietspiegel Und Kappung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bundesland Verhandlung Vergleich Und Eskalation, Datenerhebung Zahlen Schwellen Und Berechnung, Grossstadt Mietspiegel Und Kappung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Bundesland Verhandlung Vergleich Und Eskalation, Spezial Datenerhebung Zahlen Schwellen Und Berechnung, Spezial Grossstadt Mietspiegel Und Kappung
+# Bundesland Verhandlung Vergleich Und Eskalation, Datenerhebung Zahlen Schwellen Und Berechnung, Grossstadt Mietspiegel Und Kappung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bundesland Verhandlung Vergleich Und Eskalation, Datenerhebung Zahlen Schwellen Und Berechnung, Grossstadt Mietspiegel Und Kappung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-bundesland-verhandlung-vergleich-und-eskalation` | Bundesland: Verhandlung, Vergleich und Eskalation im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-datenerhebung-zahlen-schwellen-und-berechnung` | Datenerhebung: Zahlen, Schwellenwerte und Berechnung im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-bundesland-verhandlung-vergleich-und-eskalation` | Bundesland: Verhandlung, Vergleich und Eskalation im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-datenerhebung-zahlen-schwellen-und-berechnung` | Datenerhebung: Zahlen, Schwellenwerte und Berechnung im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-grossstadt-mietspiegel-und-kappung` | Großstadt-Mietspiegel, Kappungsgrenze und Vergleichsmiete: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 
 ## Arbeitsweg
 
-Für **Spezial Bundesland Verhandlung Vergleich Und Eskalation, Spezial Datenerhebung Zahlen Schwellen Und Berechnung, Spezial Grossstadt Mietspiegel Und Kappung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bundesland Verhandlung Vergleich Und Eskalation, Datenerhebung Zahlen Schwellen Und Berechnung, Grossstadt Mietspiegel Und Kappung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-bundesland-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Bundesland: Verhandlung, Vergleich und Eskalation im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Bundesland: Verhandlung, Vergleich und Eskalation im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Bundesland: Verhandlung, Vergleich und Eskalation
 
@@ -40,7 +40,7 @@ Für **Spezial Bundesland Verhandlung Vergleich Und Eskalation, Spezial Datenerh
 
 
 ## Spezialwissen: Bundesland: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Bundesland: Verhandlung, Vergleich und Eskalation / spezial bundesland verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bundesland: Verhandlung, Vergleich und Eskalation / bundesland verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-datenerhebung-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Datenerhebung: Zahlen, Schwellenwerte und Berechnung im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Datenerhebung: Zahlen, Schwellenwerte und Berechnung im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Datenerhebung: Zahlen, Schwellenwerte und Berechnung
 
@@ -90,7 +90,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Datenerhebung: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Datenerhebung: Zahlen, Schwellenwerte und Berechnung / spezial datenerhebung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Datenerhebung: Zahlen, Schwellenwerte und Berechnung / datenerhebung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -140,11 +140,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `mietrecht`. Kontext des Plugins: Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `mietrecht`. Kontext des Plugins: Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?

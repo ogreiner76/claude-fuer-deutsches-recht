@@ -1,9 +1,9 @@
 ---
 name: anfaenger-workflow-sozialgericht
-description: "Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills."
+description: "Nutze dies bei Anfänger-Sozialgericht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
-# Anfänger-Workflow Sozialgericht
+# Anfänger-Sozialgericht
 
 ## Fachlicher Anker
 

@@ -1,13 +1,13 @@
 ---
 name: avv-grenzpruefung-brki-anbieter-brki-eu
-description: "Nutze dies, wenn Avv Grenzpruefung Datenschutz, Brki Anbieter Due Diligence, Brki Eu Us Dpf Transferpruefung im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Avv Grenzpruefung Datenschutz, Brki Anbieter Due Diligence, Brki Eu Us Dpf Transferpruefung prüfen.; Erstelle eine Arbeitsfassung zu Avv Grenzpruefung Datenschutz, Brki Anbieter Due Diligence, Brki Eu Us Dpf Transferpruefung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Avv Grenzpruefung Datenschutz, Brki Anbieter Due Diligence, Brki Eu Us Dpf Transferpruefung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Avv Grenzpruefung Datenschutz, Brki Anbieter Due Diligence, Brki Eu Us Dpf Transferpruefung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Avv Grenzpruefung Datenschutz, Brki Anbieter Due Diligence, Brki Eu Us Dpf Transferpruefung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -96,19 +96,19 @@ Die berufsrechtliche Dienstleisterregelung (§§ 43e BRAO, 62a StBerG, 50a WPO, 
 
 ```
 AVV vorhanden?
-  Nein → DSGVO-Verstoß bei personenbezogenen Daten; separate Meldung nötig
-  Ja → Inhalt nach Art. 28 Abs. 3 DSGVO vollständig?
-         Nein → Lücken dokumentieren; Rückfragebrief
-         Ja → Berufsrechtliche Verschwiegenheitsverpflichtung separat?
-                Nein → Muss separat/zusätzlich vereinbart werden
-                Ja → Strafrechtliche Belehrung §§ 203/204 StGB enthalten?
-                       Nein → Ergänzungsklausel erforderlich
-                       Ja → GRÜN: AVV-Prüfung abgeschlossen; Berufsrecht separat OK
+ Nein → DSGVO-Verstoß bei personenbezogenen Daten; separate Meldung nötig
+ Ja → Inhalt nach Art. 28 Abs. 3 DSGVO vollständig?
+ Nein → Lücken dokumentieren; Rückfragebrief
+ Ja → Berufsrechtliche Verschwiegenheitsverpflichtung separat?
+ Nein → Muss separat/zusätzlich vereinbart werden
+ Ja → Strafrechtliche Belehrung §§ 203/204 StGB enthalten?
+ Nein → Ergänzungsklausel erforderlich
+ Ja → GRÜN: AVV-Prüfung abgeschlossen; Berufsrecht separat OK
 ```
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Punkt | Status | Bemerkung |

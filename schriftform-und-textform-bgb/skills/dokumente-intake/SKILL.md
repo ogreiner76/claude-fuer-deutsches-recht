@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Schriftform Und Textform Bgb** ein Fall no
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `anspruchsformulierungen-formverstoss-buergschaft` — Anspruchsformulierungen Formverstoss Buergschaft
 - `arbeitsrecht-befristung-schriftform-checker-vertrag` — Arbeitsrecht Befristung Schriftform Checker Vertrag
 - `elektronische-paragraph-formerfordernisse-ueberblick` — Elektronische Paragraph Formerfordernisse Ueberblick

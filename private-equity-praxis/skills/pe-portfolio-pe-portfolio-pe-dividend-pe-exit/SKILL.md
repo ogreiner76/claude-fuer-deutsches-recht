@@ -1,13 +1,13 @@
 ---
 name: pe-portfolio-pe-portfolio-pe-dividend-pe-exit
-description: "Nutze dies, wenn Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd prüfen.; Erstelle eine Arbeitsfassung zu Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

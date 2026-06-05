@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-ip-it-junior-mentor
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht, Grosskanzlei Corporate Ma Kommandocenter und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht, Grosskanzlei Corporate Ma Kommandocenter und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht, Grosskanzlei Corporate Ma Kommandocenter und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht, Grosskanzlei Corporate Ma Kommandocenter und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht, Grosskanzlei Corporate Ma Kommandocenter und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -17,7 +17,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `grosskanzlei-corporate-ma-ip-it-data-assets-dd` | IP, IT und Data Assets Due Diligence: prueft Rechteketten, Software, Open Source, Lizenzen, Datenrechte, KI-Assets, Cyberrisiken und Change-of-Control. |
 | `grosskanzlei-corporate-ma-junior-mentor-training-loop` | Junior-Mentor fuer Corporate/M&A: erklaert Begriffe, zerlegt Aufgaben in First-Year-Schritte, prueft Entwuerfe freundlich, staerkt Schwachstellen und gibt Senior-Review-taugliches Feedback. |
 | `grosskanzlei-corporate-ma-ki-governance-berufsrecht` | KI-Einsatz im Transaktionsmandat berufsrechtlich absichern: Anwendungsfall Anwalt moechte KI-Tools für Datenraumanalyse oder Vertragsentwurf nutzen und muss Mandatsgeheimnis, Datenschutz und KI-VO-Betreiberpflichten einhalten. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster Datenklassen-Kategorisierung, Need-to-know, Pseudonymisierung, AVV-Prüfung, Mandantenfreigabe, Halluzinations-Kontrolle. Output Berufsrechts-Compliance-Protokoll für KI-Nutzung im Mandat. Abgrenzung zu Datenqualitaet-XAI-Qualitaetskontrolle und zu Konflikt-GwG-Check. |
-| `grosskanzlei-corporate-ma-kommandocenter` | Deal-Kommandocenter Corporate/M&A: Schnellstart und Workflow-Routing für alle Transaktionsphasen. Anwendungsfall Anwalt gibt Kuerzel, Dokument oder Sachverhaltssatz ein und wird in richtigen Deal-Skill geleitet. SPA Share Purchase Agreement, Due Diligence Datenraum, Signing Closing. Prüfraster Deal-Phase erkennen, Workstream zuordnen, Deal-Karte mit Ampel und naechster Aktion erzeugen. Output Deal-Dashboard mit Phasenstatus, Rollen-Matrix und Eskalationshinweisen. Abgrenzung zu Kaltstart für Erst-Konfiguration und zu Deal-Intake für neue Mandate. |
+| `grosskanzlei-corporate-ma-kommandocenter` | Deal-Kommandocenter Corporate/M&A: Schnellstart und Fallrouting für alle Transaktionsphasen. Anwendungsfall Anwalt gibt Kuerzel, Dokument oder Sachverhaltssatz ein und wird in richtigen Deal-Skill geleitet. SPA Share Purchase Agreement, Due Diligence Datenraum, Signing Closing. Prüfraster Deal-Phase erkennen, Workstream zuordnen, Deal-Karte mit Ampel und naechster Aktion erzeugen. Output Deal-Dashboard mit Phasenstatus, Rollen-Matrix und Eskalationshinweisen. Abgrenzung zu Kaltstart für Erst-Konfiguration und zu Deal-Intake für neue Mandate. |
 | `grosskanzlei-corporate-ma-legal-fact-book-generator` | Legal Fact Book Generator: erstellt ein sell-side-taugliches Faktenbuch mit Corporate, Material Contracts, Litigation, Employment, IP, Regulatory, Real Estate und Compliance. |
 | `grosskanzlei-corporate-ma-lessons-learned-post-mortem` | Lessons Learned und Deal Post-Mortem Skill: analysiert abgeschlossene Deals, Fehler, Prozessbremsen, gute Klauseln, Knowledge-Management und Playbook-Updates. |
 
@@ -415,7 +415,7 @@ Prüft KI-Einsatz im Transaktionsmandat unter Mandatsgeheimnis, Need-to-know, Da
 ## Arbeitsmodus
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 - Datenklassen und erlaubte Tools erfassen.
 - Need-to-know, Pseudonymisierung, AVV/TOMs und Verschwiegenheit dokumentieren.
@@ -506,7 +506,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-kommandocenter`
 
-**Fokus:** Deal-Kommandocenter Corporate/M&A: Schnellstart und Workflow-Routing für alle Transaktionsphasen. Anwendungsfall Anwalt gibt Kuerzel, Dokument oder Sachverhaltssatz ein und wird in richtigen Deal-Skill geleitet. SPA Share Purchase Agreement, Due Diligence Datenraum, Signing Closing. Prüfraster Deal-Phase erkennen, Workstream zuordnen, Deal-Karte mit Ampel und naechster Aktion erzeugen. Output Deal-Dashboard mit Phasenstatus, Rollen-Matrix und Eskalationshinweisen. Abgrenzung zu Kaltstart für Erst-Konfiguration und zu Deal-Intake für neue Mandate.
+**Fokus:** Deal-Kommandocenter Corporate/M&A: Schnellstart und Fallrouting für alle Transaktionsphasen. Anwendungsfall Anwalt gibt Kuerzel, Dokument oder Sachverhaltssatz ein und wird in richtigen Deal-Skill geleitet. SPA Share Purchase Agreement, Due Diligence Datenraum, Signing Closing. Prüfraster Deal-Phase erkennen, Workstream zuordnen, Deal-Karte mit Ampel und naechster Aktion erzeugen. Output Deal-Dashboard mit Phasenstatus, Rollen-Matrix und Eskalationshinweisen. Abgrenzung zu Kaltstart für Erst-Konfiguration und zu Deal-Intake für neue Mandate.
 
 # Deal-Kommandocenter
 
@@ -623,7 +623,7 @@ Schnellstart für Corporate/M&A-Mandate. Der Skill erkennt aus einem Satz, Daten
 - Dealtyp und Parteiperspektive erkennen: Buy-side, Sell-side, Management, W&I-Versicherer, Public M&A oder Restrukturierung.
 - Maximal drei Rückfragen stellen, danach mit vorsichtigen Annahmen und TODOs arbeiten.
 - Deal-Phase bestimmen: Origination, Vorbereitung, Datenraum, Due Diligence, Vertrag, Signing/Closing, Integration oder Streit/Restrukturierung.
-- Den passenden internen Spezialskill routen und rote Schwellen sichtbar machen.
+- Den passenden internen Fachmodul routen und rote Schwellen sichtbar machen.
 - Anfängerfreundlich bleiben: fehlende Begriffe erklären, aber den Arbeitsfluss nicht aufhalten.
 
 ## Interne Routing-Karte

@@ -1,13 +1,13 @@
 ---
 name: look-feel-matter-file
-description: "Nutze dies, wenn Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Look And Feel, Corporate Kanzlei Matter File** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -212,9 +212,9 @@ EXECUTIVE SUMMARY
 STATUSÜBERSICHT
 | Workstream | Status | Owner | Nächste Aktion | Deadline |
 |-----------|--------|-------|----------------|---------|
-| [WS 1]    | GRÜN   | [Name]| [Aktion]        | [Datum] |
-| [WS 2]    | GELB   | [Name]| [Aktion]        | [Datum] |
-| [WS 3]    | ROT    | [Name]| [Aktion — DRINGEND] | [Datum] |
+| [WS 1] | GRÜN | [Name]| [Aktion] | [Datum] |
+| [WS 2] | GELB | [Name]| [Aktion] | [Datum] |
+| [WS 3] | ROT | [Name]| [Aktion — DRINGEND] | [Datum] |
 
 ─────────────────────────────────────────────────────────────
 HAUPTINHALT
@@ -228,7 +228,7 @@ ROTE SCHWELLEN / ENTSCHEIDUNGSPUNKTE
 OFFENE PUNKTE (TODO)
 | Nr. | Punkt | Owner | Frist | Eskalation |
 |----|-------|-------|-------|------------|
-| 1  | [Punkt] | [Name] | [Datum] | [Stufe] |
+| 1 | [Punkt] | [Name] | [Datum] | [Stufe] |
 
 ─────────────────────────────────────────────────────────────
 Freigabegrad: [Entwurf / Freigegeben / Vertraulich]
@@ -393,35 +393,35 @@ Aktenverantwortliche: [Partner Name]
 
 ROOT
 ├── 01_Mandate & Compliance
-│   ├── Mandatsvertrag
-│   ├── Conflict-Check-Protokoll
-│   ├── GwG-CDD-Bogen
-│   └── Insider-Log
+│ ├── Mandatsvertrag
+│ ├── Conflict-Check-Protokoll
+│ ├── GwG-CDD-Bogen
+│ └── Insider-Log
 ├── 02_Transaktionsdokumente
-│   ├── Term Sheet / LOI
-│   ├── NDA
-│   ├── SPA / APA (Versionen)
-│   └── Disclosure Letter
+│ ├── Term Sheet / LOI
+│ ├── NDA
+│ ├── SPA / APA (Versionen)
+│ └── Disclosure Letter
 ├── 03_Due Diligence
-│   ├── IRL
-│   ├── DD-Workstream-Reports (Legal, Tax, FIN, COM)
-│   ├── Red-Flag-Memo
-│   └── Q&A-Log
+│ ├── IRL
+│ ├── DD-Workstream-Reports (Legal, Tax, FIN, COM)
+│ ├── Red-Flag-Memo
+│ └── Q&A-Log
 ├── 04_Regulatory
-│   ├── Kartellrecht (Anmeldung, Freigabe)
-│   └── FDI (AWG/AWV-Korrespondenz)
+│ ├── Kartellrecht (Anmeldung, Freigabe)
+│ └── FDI (AWG/AWV-Korrespondenz)
 ├── 05_Closing
-│   ├── CP-Tracker
-│   ├── Closing-Checkliste
-│   ├── Closing-Bible
-│   └── Handelsregister-Anmeldungen
+│ ├── CP-Tracker
+│ ├── Closing-Checkliste
+│ ├── Closing-Bible
+│ └── Handelsregister-Anmeldungen
 ├── 06_Post-Closing
-│   ├── PMI-Plan
-│   ├── §613a-Informationsschreiben
-│   └── Organschaft-Dokumente
+│ ├── PMI-Plan
+│ ├── §613a-Informationsschreiben
+│ └── Organschaft-Dokumente
 └── 07_Korrespondenz
-    ├── E-Mail-Archive (wichtige Threads)
-    └── Externe Berater-Korrespondenz
+ ├── E-Mail-Archive (wichtige Threads)
+ └── Externe Berater-Korrespondenz
 ```
 
 ## Schritt-fuer-Schritt-Workflow

@@ -1,34 +1,34 @@
 ---
 name: zeitmietvertrag-wasserschaden-trocknung-weg
-description: "Nutze dies, wenn Spezial Zeitmietvertrag, Spezial Wasserschaden Trocknung, Spezial Weg Beirat Haftung, Spezial Betriebskosten Materiell, Spezial Grundsteuer Umlage im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Zeitmietvertrag, Spezial Wasserschaden Trocknung, Spezial Weg Beirat Haftung, Spezial Betriebskosten Materiell, Spezial Grundsteuer Umlage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Zeitmietvertrag, Spezial Wasserschaden Trocknung, Spezial Weg Beirat Haftung, Spezial Betriebskosten Materiell, Spezial Grundsteuer Umlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zeitmietvertrag, Wasserschaden Trocknung, Weg Beirat Haftung, Betriebskosten Materiell: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Zeitmietvertrag, Spezial Wasserschaden Trocknung, Spezial Weg Beirat Haftung, Spezial Betriebskosten Materiell, Spezial Grundsteuer Umlage
+# Zeitmietvertrag, Wasserschaden Trocknung, Weg Beirat Haftung, Betriebskosten Materiell, Grundsteuer Umlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zeitmietvertrag, Wasserschaden Trocknung, Weg Beirat Haftung, Betriebskosten Materiell, Grundsteuer Umlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-zeitmietvertrag` | Zeitmietvertrag: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Befristungsgrund, Mitteilung, Verlängerung, Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-wasserschaden-trocknung` | Wasserschaden/Trocknung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; klärt Ursache, Zutritt, Trocknungsgeräte, Stromkosten, Ersatzwohnraum und Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-beirat-haftung` | Verwaltungsbeirat Haftung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Kontrollpflicht, Belege, Interessenkonflikt, Entlastung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-zeitmietvertrag` | Zeitmietvertrag: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Befristungsgrund, Mitteilung, Verlängerung, Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-wasserschaden-trocknung` | Wasserschaden/Trocknung: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Ursache, Zutritt, Trocknungsgeräte, Stromkosten, Ersatzwohnraum und Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-beirat-haftung` | Verwaltungsbeirat Haftung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kontrollpflicht, Belege, Interessenkonflikt, Entlastung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-betriebskosten-materiell` | Materielle Betriebskostenprüfung: Umlagefähigkeit nach Mietvertrag und BetrKV, laufende Kosten, Wirtschaftlichkeitsgebot, Abgrenzung Wartung/Reparatur, Verwaltung/Instandhaltung, Hausmeistersplit, Versicherung, Grundsteuer, Belege und Korrekturberechnung. |
-| `spezial-grundsteuer-umlage` | Grundsteuer-Umlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Umlagevereinbarung, Veranlagung, Wirtschaftseinheit, Eigentumswechsel; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-grundsteuer-umlage` | Grundsteuer-Umlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Umlagevereinbarung, Veranlagung, Wirtschaftseinheit, Eigentumswechsel; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Zeitmietvertrag, Spezial Wasserschaden Trocknung, Spezial Weg Beirat Haftung, Spezial Betriebskosten Materiell, Spezial Grundsteuer Umlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Zeitmietvertrag, Wasserschaden Trocknung, Weg Beirat Haftung, Betriebskosten Materiell, Grundsteuer Umlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-zeitmietvertrag`
 
-**Fokus:** Zeitmietvertrag: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Befristungsgrund, Mitteilung, Verlängerung, Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Zeitmietvertrag: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Befristungsgrund, Mitteilung, Verlängerung, Kündigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Zeitmietvertrag
 
@@ -42,9 +42,9 @@ Für **Spezial Zeitmietvertrag, Spezial Wasserschaden Trocknung, Spezial Weg Bei
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Befristungsgrund, Mitteilung, Verlängerung, Kündigung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Befristungsgrund, Mitteilung, Verlängerung, Kündigung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-wasserschaden-trocknung`
 
-**Fokus:** Wasserschaden/Trocknung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; klärt Ursache, Zutritt, Trocknungsgeräte, Stromkosten, Ersatzwohnraum und Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Wasserschaden/Trocknung: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Ursache, Zutritt, Trocknungsgeräte, Stromkosten, Ersatzwohnraum und Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Wasserschaden/Trocknung
 
@@ -87,9 +87,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: klärt Ursache, Zutritt, Trocknungsgeräte, Stromkosten, Ersatzwohnraum und Versicherung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: klärt Ursache, Zutritt, Trocknungsgeräte, Stromkosten, Ersatzwohnraum und Versicherung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -118,7 +118,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-weg-beirat-haftung`
 
-**Fokus:** Verwaltungsbeirat Haftung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Kontrollpflicht, Belege, Interessenkonflikt, Entlastung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Verwaltungsbeirat Haftung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kontrollpflicht, Belege, Interessenkonflikt, Entlastung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Verwaltungsbeirat Haftung
 
@@ -132,9 +132,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Kontrollpflicht, Belege, Interessenkonflikt, Entlastung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Kontrollpflicht, Belege, Interessenkonflikt, Entlastung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -220,7 +220,7 @@ Normtexte von BetrKV, § 556 BGB, § 556a BGB, HeizkostenV und CO2KostAufG aktue
 
 ## 5. `spezial-grundsteuer-umlage`
 
-**Fokus:** Grundsteuer-Umlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Umlagevereinbarung, Veranlagung, Wirtschaftseinheit, Eigentumswechsel; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Grundsteuer-Umlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Umlagevereinbarung, Veranlagung, Wirtschaftseinheit, Eigentumswechsel; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Grundsteuer-Umlage
 
@@ -234,9 +234,9 @@ Normtexte von BetrKV, § 556 BGB, § 556a BGB, HeizkostenV und CO2KostAufG aktue
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Umlagevereinbarung, Veranlagung, Wirtschaftseinheit, Eigentumswechsel.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Umlagevereinbarung, Veranlagung, Wirtschaftseinheit, Eigentumswechsel.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

@@ -8,7 +8,7 @@ description: "Erklärt Zustimmungserklärung, Wählbarkeit, Parteimitgliedschaft
 ## Aufgabe
 Erklärt Zustimmungserklärung, Wählbarkeit, Parteimitgliedschaft, Mehrfachkandidatur und Nachweise.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

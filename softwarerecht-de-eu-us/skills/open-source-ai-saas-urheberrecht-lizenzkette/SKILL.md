@@ -1,13 +1,13 @@
 ---
 name: open-source-ai-saas-urheberrecht-lizenzkette
-description: "Nutze dies, wenn Open Source Ai Models, Open Source In Saas, Open Source Urheberrecht Und Lizenzkette, Patent Infringement Software im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Open Source Ai Models, Open Source In Saas, Open Source Urheberrecht Und Lizenzkette, Patent Infringement Software prüfen.; Erstelle eine Arbeitsfassung zu Open Source Ai Models, Open Source In Saas, Open Source Urheberrecht Und Lizenzkette, Patent Infringement Software.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Open Source Ai Models, Open Source In Saas, Open Source Urheberrecht Und Lizenzkette, Patent Infringement Software: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Open Source Ai Models, Open Source In Saas, Open Source Urheberrecht Und Lizenzkette, Patent Infringement Software
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Open Source Ai Models, Open Source In Saas, Open Source Urheberrecht Und Lizenzkette, Patent Infringement Software** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

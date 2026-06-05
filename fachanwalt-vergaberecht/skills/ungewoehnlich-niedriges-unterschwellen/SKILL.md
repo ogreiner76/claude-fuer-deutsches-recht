@@ -1,13 +1,13 @@
 ---
 name: ungewoehnlich-niedriges-unterschwellen
-description: "Nutze dies, wenn Ungewoehnlich Niedriges Angebot, Unterschwellen Rechtsschutz Zivilgericht, Verg Eignungspruefung Leitfaden, Verg Rahmenvereinbarung Konzession Spezial im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Ungewoehnlich Niedriges Angebot, Unterschwellen Rechtsschutz Zivilgericht, Verg Eignungspruefung Leitfaden, Verg Rahmenvereinbarung Konzession Spezial prüfen.; Erstelle eine Arbeitsfassung zu Ungewoehnlich Niedriges Angebot, Unterschwellen Rechtsschutz Zivilgericht, Verg Eignungspruefung Leitfaden, Verg Rahmenvereinbarung Konzession Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ungewoehnlich Niedriges Angebot, Unterschwellen Rechtsschutz Zivilgericht, Verg Eignungspruefung Leitfaden, Verg Rahmenvereinbarung Konzession Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ungewoehnlich Niedriges Angebot, Unterschwellen Rechtsschutz Zivilgericht, Verg Eignungspruefung Leitfaden, Verg Rahmenvereinbarung Konzession Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ungewoehnlich Niedriges Angebot, Unterschwellen Rechtsschutz Zivilgericht, Verg Eignungspruefung Leitfaden, Verg Rahmenvereinbarung Konzession Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -162,7 +162,7 @@ Rechtswegkarte, Eilantragsskizze, Ruge-/Anschreiben, Kosten-/Risikoampel.
 ## Aufgabe
 Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -174,10 +174,10 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 ## Pruefraster Eignungspruefung
 
 1. **Eignungsanforderungen festlegen** § 122 II GWB, §§ 42-46 VgV (oberschwellig) bzw. UVgO (unterschwellig).
-   - Befaehigung und Erlaubnis zur Berufsausuebung (§ 44 VgV).
-   - Wirtschaftliche und finanzielle Leistungsfaehigkeit (§ 45 VgV: z. B. Bilanzen, Umsatz, Berufshaftpflichtdeckung).
-   - Technische und berufliche Leistungsfaehigkeit (§ 46 VgV: Referenzen, Qualifikation, Ausruestung).
-   - Eignungsanforderungen muessen mit dem Auftragsgegenstand in Verbindung und in angemessenem Verhaeltnis stehen (§ 122 IV GWB).
+ - Befaehigung und Erlaubnis zur Berufsausuebung (§ 44 VgV).
+ - Wirtschaftliche und finanzielle Leistungsfaehigkeit (§ 45 VgV: z. B. Bilanzen, Umsatz, Berufshaftpflichtdeckung).
+ - Technische und berufliche Leistungsfaehigkeit (§ 46 VgV: Referenzen, Qualifikation, Ausruestung).
+ - Eignungsanforderungen muessen mit dem Auftragsgegenstand in Verbindung und in angemessenem Verhaeltnis stehen (§ 122 IV GWB).
 2. **Eignungsnachweise** — Vorzugsweise Eigenerklaerung (Einheitliche Europaeische Eigenerklaerung EEE, § 50 VgV); Belege erst von engerer Auswahl bzw. Zuschlagskandidat.
 3. **Pruefungszeitpunkt** — bei offenem Verfahren mit Angeboten; bei nicht offenem Verfahren mit Teilnahmeantraegen.
 4. **Eignungsleihe** § 47 VgV: Bieter darf sich auf Kapazitaeten Dritter stuetzen; Drittunternehmen muss die Leistung auch tatsaechlich erbringen (bei wirtschaftlich-finanziellen Kapazitaeten gesamtschuldnerische Haftung).

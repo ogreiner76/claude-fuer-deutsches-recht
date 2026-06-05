@@ -1,13 +1,13 @@
 ---
 name: erbschein-antrag-orientierung
-description: "Nutze dies, wenn Fachanwalt Erbrecht Erbschein Antrag, Fachanwalt Erbrecht Orientierung, Fachanwalt Erbrecht Pflichtteilsberechnung im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Erbrecht Erbschein Antrag, Fachanwalt Erbrecht Orientierung, Fachanwalt Erbrecht Pflichtteilsberechnung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Erbrecht Erbschein Antrag, Fachanwalt Erbrecht Orientierung, Fachanwalt Erbrecht Pflichtteilsberechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Erbrecht Erbschein Antrag, Fachanwalt Erbrecht Orientierung, Fachanwalt Erbrecht Pflichtteilsberechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Erbrecht Erbschein Antrag, Fachanwalt Erbrecht Orientierung, Fachanwalt Erbrecht Pflichtteilsberechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Erbrecht Erbschein Antrag, Fachanwalt Erbrecht Orientierung, Fachanwalt Erbrecht Pflichtteilsberechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -66,11 +66,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Zuständigkeit: Nachlassgericht beim Amtsgericht am letzten gewöhnlichen Aufenthalt (§ 343 Abs. 1 FamFG); bei Auslandsbezug § 343 Abs. 2 und 3 FamFG.
 - Antrag schriftlich oder zur Niederschrift mit eidesstattlicher Versicherung über die Richtigkeit der Angaben (§ 2356 Abs. 2 BGB) — Abgabe vor Notar oder Rechtspfleger.
 - Inhalt des Antrags (§ 2354 bei gesetzlicher Erbfolge, § 2355 bei gewillkürter Erbfolge):
-  - Todeszeitpunkt und letzter gewöhnlicher Aufenthalt
-  - Verhältnis des Antragstellers zum Erblasser
-  - Verfügungen von Todes wegen oder gesetzliche Erbfolge
-  - alle weiteren Erben und Pflichtteilsberechtigte
-  - keine weiteren entgegenstehenden Verfügungen bekannt
+ - Todeszeitpunkt und letzter gewöhnlicher Aufenthalt
+ - Verhältnis des Antragstellers zum Erblasser
+ - Verfügungen von Todes wegen oder gesetzliche Erbfolge
+ - alle weiteren Erben und Pflichtteilsberechtigte
+ - keine weiteren entgegenstehenden Verfügungen bekannt
 - Bei gemeinschaftlichem Erbschein Antrag durch einen Miterben für alle möglich (§ 2357 Abs. 2 BGB).
 - Gebühren nach GNotKG KV-Nr. 12210 — Wert ist der Nachlasswert; bei Eigenkostenpflicht zwei Gebühren (Erteilung Erbschein + eidesstattliche Versicherung).
 - Europäisches Nachlasszeugnis ergänzend bei Auslandsvermögen Art. 62 ff. EU-ErbVO; Antrag formularbasiert (Formblatt IV nach DurchführungsVO 1329/2014).
@@ -102,11 +102,11 @@ dass der Mandant Alleinerbe des Erblassers geworden ist.
 
 Begruendung
 1. Der Erblasser hatte seinen letzten gewoehnlichen Aufenthalt in
-   [Anschrift] — Zustaendigkeit § 343 FamFG.
+ [Anschrift] — Zustaendigkeit § 343 FamFG.
 2. Eine letztwillige Verfuegung liegt nicht vor — gesetzliche
-   Erbfolge § 1922 BGB.
+ Erbfolge § 1922 BGB.
 3. Der Mandant ist der einzige Abkoemmling — gesetzlicher Erbe
-   erster Ordnung § 1924 BGB.
+ erster Ordnung § 1924 BGB.
 4. Weitere Erben oder Pflichtteilsberechtigte sind nicht vorhanden.
 5. Eine Erbausschlagung ist nicht erfolgt.
 
@@ -263,7 +263,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Prüfschema — Stufenweise Durchsetzung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Phase | Schritt | Maßnahme | Norm |
@@ -315,43 +315,43 @@ Das Bestandsverzeichnis muss enthalten:
 PFLICHTTEILSBERECHNUNG
 
 Schritt 1: Nettonachlass
-   Aktiva zum Todestag:              EUR [A]
- - Erblasserschulden:                EUR [B]
- - Beerdigungskosten:                EUR [C]
- = Nettonachlass:                    EUR [D]
+ Aktiva zum Todestag: EUR [A]
+ - Erblasserschulden: EUR [B]
+ - Beerdigungskosten: EUR [C]
+ = Nettonachlass: EUR [D]
 
 Schritt 2: Ergänzungsmasse § 2325 BGB
-   Schenkung 1 [Datum]:
-   Nominalwert / bereinigter Wert:   EUR [X]
-   Abschmelzung [Y]%:                EUR [Z] (= Ansatz)
+ Schenkung 1 [Datum]:
+ Nominalwert / bereinigter Wert: EUR [X]
+ Abschmelzung [Y]%: EUR [Z] (= Ansatz)
 
-   Schenkung 2 [Datum]:
-   Niederstwertvergleich:
-     Bereinigter Schenkungswert:     EUR [X1]
-     Erbfall-Wert:                   EUR [X2]
-     Anzusetzender Wert:             EUR [min(X1,X2)]
-   Abschmelzung [Y]%:                EUR [Z2]
+ Schenkung 2 [Datum]:
+ Niederstwertvergleich:
+ Bereinigter Schenkungswert: EUR [X1]
+ Erbfall-Wert: EUR [X2]
+ Anzusetzender Wert: EUR [min(X1,X2)]
+ Abschmelzung [Y]%: EUR [Z2]
 
-   Summe Ergänzungsmasse:            EUR [E]
+ Summe Ergänzungsmasse: EUR [E]
 
 Schritt 3: Pflichtteilsquote
-   Gesetzlicher Erbteil:             [X/Y]
-   Pflichtteilsquote:                [X/2Y]
+ Gesetzlicher Erbteil: [X/Y]
+ Pflichtteilsquote: [X/2Y]
 
 Schritt 4: Pflichtteil
-   Nettonachlass × Quote:            EUR [F]
+ Nettonachlass × Quote: EUR [F]
 
 Schritt 5: Pflichtteilsergänzung
-   Ergänzungsmasse × Quote:          EUR [G]
+ Ergänzungsmasse × Quote: EUR [G]
 
 Schritt 6: Anrechnung § 2315 BGB
-   Vorausempfang mit Anrechnung:   - EUR [H]
+ Vorausempfang mit Anrechnung: - EUR [H]
 
 Schritt 7: Anrechnung Eigengeschenk § 2327 BGB
-   Erhaltene Schenkung vom Erblasser:- EUR [I]
+ Erhaltene Schenkung vom Erblasser:- EUR [I]
 
-GESAMT-PFLICHTTEILSANSPRUCH:         EUR [F+G-H-I]
-Zinsen § 291 BGB ab Klagezustellung:  Basiszins + 5 %
+GESAMT-PFLICHTTEILSANSPRUCH: EUR [F+G-H-I]
+Zinsen § 291 BGB ab Klagezustellung: Basiszins + 5 %
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -387,13 +387,13 @@ Satz 3 BGB vorzulegen.
 
 Das Verzeichnis muss enthalten:
 1. Sämtliche Aktiva und Passiva des Nachlasses zum Todestag
-   [Datum], bewertet nach §§ 2311, 2311a BGB
+ [Datum], bewertet nach §§ 2311, 2311a BGB
 2. Sämtliche Schenkungen des Erblassers der letzten zehn
-   Jahre nach § 2325 BGB (auch gemischte Schenkungen,
-   Schenkungen unter Nießbrauchsvorbehalt, Schenkungen
-   an den Ehegatten ohne zeitliche Begrenzung)
+ Jahre nach § 2325 BGB (auch gemischte Schenkungen,
+ Schenkungen unter Nießbrauchsvorbehalt, Schenkungen
+ an den Ehegatten ohne zeitliche Begrenzung)
 3. Ausgleichungspflichtige Zuwendungen nach §§ 2315,
-   2316 BGB
+ 2316 BGB
 
 Hinsichtlich der Bewertung von Immobilien und
 Unternehmensbeteiligungen verlangen wir bereits jetzt
@@ -422,28 +422,28 @@ Beklagte: [Namen, Adressen] — Erben
 wegen: Pflichtteil (Stufenklage § 254 ZPO)
 
 I. AUSKUNFTSSTUFE
-   Die Beklagten werden als Gesamtschuldner verurteilt,
-   durch Vorlage eines notariellen Nachlassverzeichnisses
-   Auskunft über den Bestand des Nachlasses nach
-   [Erblasser] zum Todestag [Datum] zu erteilen,
-   einschließlich aller Schenkungen der letzten zehn Jahre
-   nach § 2325 BGB.
+ Die Beklagten werden als Gesamtschuldner verurteilt,
+ durch Vorlage eines notariellen Nachlassverzeichnisses
+ Auskunft über den Bestand des Nachlasses nach
+ [Erblasser] zum Todestag [Datum] zu erteilen,
+ einschließlich aller Schenkungen der letzten zehn Jahre
+ nach § 2325 BGB.
 
 II. VERSICHERUNGSSTUFE
-   Die Beklagten werden als Gesamtschuldner verurteilt,
-   die Richtigkeit des vorgelegten Verzeichnisses
-   an Eides statt zu versichern.
+ Die Beklagten werden als Gesamtschuldner verurteilt,
+ die Richtigkeit des vorgelegten Verzeichnisses
+ an Eides statt zu versichern.
 
 III. ZAHLUNGSSTUFE
-   Die Beklagten werden als Gesamtschuldner verurteilt,
-   an den Kläger den sich aus der Auskunft ergebenden
-   Pflichtteilsanspruch nebst Zinsen in Höhe von fünf
-   Prozentpunkten über dem Basiszinssatz ab
-   Klagezustellung zu zahlen.
+ Die Beklagten werden als Gesamtschuldner verurteilt,
+ an den Kläger den sich aus der Auskunft ergebenden
+ Pflichtteilsanspruch nebst Zinsen in Höhe von fünf
+ Prozentpunkten über dem Basiszinssatz ab
+ Klagezustellung zu zahlen.
 
 IV. STREITWERT AUSKUNFTSSTUFE
-   25 % des voraussichtlichen Hauptanspruchs.
-   Vorläufiger Streitwert: EUR [Betrag].
+ 25 % des voraussichtlichen Hauptanspruchs.
+ Vorläufiger Streitwert: EUR [Betrag].
 ```
 
 ### Direktanspruch gegen Beschenkte § 2329 BGB

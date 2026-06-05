@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Nutze dies, wenn Anschluss-Routing im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Umweltrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Anschluss-Routing
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Umweltrecht** ein Fall noch sortiert, Doku
 ## Fachlandkarte dieses Plugins
 
 - `abfall-anlagen-bimschg` — Abfall Anlagen Bimschg
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `boden-csddd-csrd-sonderfall` — Boden Csddd Csrd Sonderfall
 - `diligence-greenwashing-beweislast-klimaklagen-interessen` — Diligence Greenwashing Beweislast Klimaklagen Interessen
 - `esg-greenwashing-klimaklagen-verbandsklage-lksg-csddd` — Esg Greenwashing Klimaklagen Verbandsklage Lksg Csddd
@@ -29,7 +29,7 @@ Nutze diesen Skill, wenn im Bereich **Umweltrecht** ein Fall noch sortiert, Doku
 ## Arbeitsweg
 
 - Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Spezialpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
+- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
 - Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
 - Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
 

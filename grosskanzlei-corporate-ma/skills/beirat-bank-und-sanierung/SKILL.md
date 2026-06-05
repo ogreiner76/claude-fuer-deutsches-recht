@@ -1,6 +1,6 @@
 ---
 name: beirat-bank-und-sanierung
-description: "Nutze dies, wenn Beirat Bank Und Sanierung im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Bank Und Sanierung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Bank Und Sanierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Bank Und Sanierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Bank Und Sanierung

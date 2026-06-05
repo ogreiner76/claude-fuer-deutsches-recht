@@ -1,13 +1,13 @@
 ---
 name: freiheit-privatautonomie-freund-feind
-description: "Nutze dies, wenn Freiheit Privatautonomie Paternalismus, Freund Feind Rhetorik Und Pluralismuscheck, Gerechtigkeit Verteilung Effizienz im Plugin Rechtstheorie Rechtsphilosophie konkret bearbeitet werden soll. Auslöser: Bitte Freiheit Privatautonomie Paternalismus, Freund Feind Rhetorik Und Pluralismuscheck, Gerechtigkeit Verteilung Effizienz prüfen.; Erstelle eine Arbeitsfassung zu Freiheit Privatautonomie Paternalismus, Freund Feind Rhetorik Und Pluralismuscheck, Gerechtigkeit Verteilung Effizienz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Freiheit Privatautonomie Paternalismus, Freund Feind Rhetorik Und Pluralismuscheck, Gerechtigkeit Verteilung Effizienz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Freiheit Privatautonomie Paternalismus, Freund Feind Rhetorik Und Pluralismuscheck, Gerechtigkeit Verteilung Effizienz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Freiheit Privatautonomie Paternalismus, Freund Feind Rhetorik Und Pluralismuscheck, Gerechtigkeit Verteilung Effizienz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: fmkw-verbraucherklage-forderung
-description: "Nutze dies, wenn Fmkw Verbraucherklage Cookies Rdg Spezial, Forderung Anwaltshonorar Rvg, Forderung Arzthonorar Goae im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Fmkw Verbraucherklage Cookies Rdg Spezial, Forderung Anwaltshonorar Rvg, Forderung Arzthonorar Goae prüfen.; Erstelle eine Arbeitsfassung zu Fmkw Verbraucherklage Cookies Rdg Spezial, Forderung Anwaltshonorar Rvg, Forderung Arzthonorar Goae.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fmkw Verbraucherklage Cookies Rdg Spezial, Forderung Anwaltshonorar Rvg, Forderung Arzthonorar Goae: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fmkw Verbraucherklage Cookies Rdg Spezial, Forderung Anwaltshonorar Rvg, Forderung Arzthonorar Goae
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fmkw Verbraucherklage Cookies Rdg Spezial, Forderung Anwaltshonorar Rvg, Forderung Arzthonorar Goae** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

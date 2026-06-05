@@ -1,13 +1,13 @@
 ---
 name: projektfoerderung-sperre-deckung
-description: "Nutze dies, wenn Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen, Bho 172 Projektfoerderung Risiko Markieren und 6 weitere Themen im Plugin Haushaltsrecht Bho Bund Länder konkret bearbeitet werden soll. Auslöser: Bitte Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen, Bho 172 Projektfoerderung Risiko Markieren und 6 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen, Bho 172 Projektfoerderung Risiko Markieren und 6 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen, Bho 172 Projektfoerderung Risiko Markieren und 6 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen, Bho 172 Projektfoerderung Risiko Markieren und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

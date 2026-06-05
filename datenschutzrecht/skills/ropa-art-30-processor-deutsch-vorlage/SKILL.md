@@ -42,13 +42,13 @@ Wichtig: Pro Auftraggeber eine Zeile. Mehrere Verarbeitungskategorien koennen zu
 ### Deckblatt
 
 ```
-Auftragsverarbeiter:     [Firmenname]
-Anschrift:               [...]
-Vertreter (Art. 27):     [falls anwendbar]
+Auftragsverarbeiter: [Firmenname]
+Anschrift: [...]
+Vertreter (Art. 27): [falls anwendbar]
 Datenschutzbeauftragter: [Name, Kontakt]
-Erstellt:                [Datum]
-Letzte Aenderung:        [Datum]
-Version:                 [v1.0]
+Erstellt: [Datum]
+Letzte Aenderung: [Datum]
+Version: [v1.0]
 ```
 
 ### Tabelle (Pflichtspalten)

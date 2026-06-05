@@ -1,13 +1,13 @@
 ---
 name: eingangskorb-heftplanung-interessen
-description: "Nutze dies, wenn Spezial Eingangskorb Risikoampel Und Gegenargumente, Spezial Heftplanung Mehrparteien Konflikt Und Interessen, Spezial Juristische Tatbestand Beweis Und Belege, Spezial Manuskript Behörden Gericht Und Registerweg, Spezial Rechtecheck Verhandlung Vergleich Und Eskalation im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Spezial Eingangskorb Risikoampel Und Gegenargumente, Spezial Heftplanung Mehrparteien Konflikt Und Interessen, Spezial Juristische Tatbestand Beweis Und Belege, Spezial Manuskript Behörden Gericht Und Registerweg, Spezial Rechtecheck Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Eingangskorb Risikoampel Und Gegenargumente, Spezial Heftplanung Mehrparteien Konflikt Und Interessen, Spezial Juristische Tatbestand Beweis Und Belege, Spezial Manuskript Behörden Gericht Und Registerweg, Spezial Rechtecheck Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eingangskorb Risikoampel Und Gegenargumente, Heftplanung Mehrparteien Konflikt Und Interessen, Juristische Tatbestand Beweis Und Belege, Manuskript Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Eingangskorb Risikoampel Und Gegenargumente, Spezial Heftplanung Mehrparteien Konflikt Und Interessen, Spezial Juristische Tatbestand Beweis Und Belege, Spezial Manuskript Behörden Gericht Und Registerweg, Spezial Rechtecheck Verhandlung Vergleich Und Eskalation
+# Eingangskorb Risikoampel Und Gegenargumente, Heftplanung Mehrparteien Konflikt Und Interessen, Juristische Tatbestand Beweis Und Belege, Manuskript Behörden Gericht Und Registerweg, Rechtecheck Verhandlung Vergleich Und Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eingangskorb Risikoampel Und Gegenargumente, Heftplanung Mehrparteien Konflikt Und Interessen, Juristische Tatbestand Beweis Und Belege, Manuskript Behörden Gericht Und Registerweg, Rechtecheck Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Eingangskorb Risikoampel Und Gegenargumente, Spezial Heftplanung Mehrparteien Konflikt Und Interessen, Spezial Juristische Tatbestand Beweis Und Belege, Spezial Manuskript Behörden Gericht Und Registerweg, Spezial Rechtecheck Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsredaktion` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Eingangskorb Risikoampel Und Gegenargumente, Heftplanung Mehrparteien Konflikt Und Interessen, Juristische Tatbestand Beweis Und Belege, Manuskript Behörden Gericht Und Registerweg, Rechtecheck Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsredaktion` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Eingangskorb Risikoampel Und Gegenargumente, Spezial Heftplanung 
 # Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien / spezial eingangskorb risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien / eingangskorb risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Heftplanung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Heftplanung: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Heftplanung: Mehrparteienkonflikt und Interessenmatrix / spezial heftplanung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Heftplanung: Mehrparteienkonflikt und Interessenmatrix / heftplanung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -115,7 +115,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial juristische tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage / juristische tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -156,7 +156,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Manuskript: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Manuskript: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Manuskript: Behörden-, Gerichts- oder Registerweg / spezial manuskript behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Manuskript: Behörden-, Gerichts- oder Registerweg / manuskript behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -197,7 +197,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Rechtecheck: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Rechtecheck: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Rechtecheck: Verhandlung, Vergleich und Eskalation / spezial rechtecheck verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechtecheck: Verhandlung, Vergleich und Eskalation / rechtecheck verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

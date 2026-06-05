@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-bankkonto-kyc-beirat
-description: "Nutze dies, wenn Gesellschaftsgründer Bankkonto Kyc Paket, Gesellschaftsgründer Beirat Advisory Board, Gesellschaftsgründer Bilinguale Dokumente, Gesellschaftsgründer Board Pack Erste 100 Tage, Gesellschaftsgründer Cap Table im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Bankkonto Kyc Paket, Gesellschaftsgründer Beirat Advisory Board, Gesellschaftsgründer Bilinguale Dokumente, Gesellschaftsgründer Board Pack Erste 100 Tage, Gesellschaftsgründer Cap Table prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Bankkonto Kyc Paket, Gesellschaftsgründer Beirat Advisory Board, Gesellschaftsgründer Bilinguale Dokumente, Gesellschaftsgründer Board Pack Erste 100 Tage, Gesellschaftsgründer Cap Table.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Bankkonto Kyc Paket, Gesellschaftsgruender Beirat Advisory Board, Gesellschaftsgruender Bilinguale Dokumente, Gesellschaftsgruender Board Pack Erste 100 Tage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Bankkonto Kyc Paket, Gesellschaftsgründer Beirat Advisory Board, Gesellschaftsgründer Bilinguale Dokumente, Gesellschaftsgründer Board Pack Erste 100 Tage, Gesellschaftsgründer Cap Table
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Bankkonto Kyc Paket, Gesellschaftsgründer Beirat Advisory Board, Gesellschaftsgründer Bilinguale Dokumente, Gesellschaftsgründer Board Pack Erste 100 Tage, Gesellschaftsgründer Cap Table** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -212,7 +212,7 @@ Wiederbestellung ist zulaessig.
 (3) Der Beirat hat folgende Aufgaben:
 a) Beratung der Geschaeftsfuehrung in strategischen Fragen,
 b) Pruefung des Jahresabschlusses vor Vorlage in der
-   Gesellschafterversammlung,
+ Gesellschafterversammlung,
 c) Empfehlungen zu Investitionen ueber [SCHWELLENWERT] EUR,
 d) Vorabschlichtung bei Gesellschafter-Konflikten.
 
@@ -249,13 +249,13 @@ Stand: [DATUM]
 § 3 Sitzungen
 (1) Vier regulaere Sitzungen pro Geschaeftsjahr.
 (2) Einberufung durch Vorsitzenden mit 1-Wochen-Frist,
-    Tagesordnung beifuegen.
+ Tagesordnung beifuegen.
 (3) Beschlussfaehigkeit: mindestens [N] Mitglieder anwesend.
 (4) Beschluesse mit einfacher Mehrheit.
 
 § 4 Verguetung
 (1) Jahresfestbetrag: [BETRAG] EUR fuer Mitglieder,
-    [BETRAG] EUR fuer Vorsitzenden.
+ [BETRAG] EUR fuer Vorsitzenden.
 (2) Sitzungsgeld: [BETRAG] EUR pro Sitzung.
 (3) Reisekosten gegen Beleg.
 
@@ -264,7 +264,7 @@ Stand: [DATUM]
 
 § 6 Schlichtungsfunktion
 (1) Bei Konflikten zwischen Gesellschaftern ist der Beirat
-    vor Klageerhebung anzurufen.
+ vor Klageerhebung anzurufen.
 (2) Beirat hat 4 Wochen fuer Schlichtungsvorschlag.
 (3) Schlichtungsempfehlung ist nicht bindend.
 ```
@@ -314,11 +314,11 @@ Kuendigung: 3 Monate vor Ablauf; ausserordentlich aus wichtigem Grund
 
 <!-- AUDIT 27.05.2026
 Geprueft: 3 gemeldete Halluzinationen (task_124.json)
-   Behauptetes Thema (Beirat-Vetorechte, Bestellung/Abberufung) entspricht nicht dem Urteilsinhalt.
-   Tatsaechliches Thema: Schiedsgericht als Gesellschaftsorgan (Uebertragung von Befugnissen
-   der Gesellschafterversammlung), Anfechtungsklage. Quelle: dejure.org/1965,61.
-   AZ nicht nachweisbar. Kein Handlungsbedarf in dieser Datei.
-   Kein Handlungsbedarf in dieser Datei.
+ Behauptetes Thema (Beirat-Vetorechte, Bestellung/Abberufung) entspricht nicht dem Urteilsinhalt.
+ Tatsaechliches Thema: Schiedsgericht als Gesellschaftsorgan (Uebertragung von Befugnissen
+ der Gesellschafterversammlung), Anfechtungsklage. Quelle: dejure.org/1965,61.
+ AZ nicht nachweisbar. Kein Handlungsbedarf in dieser Datei.
+ Kein Handlungsbedarf in dieser Datei.
 Frontmatter unveraendert. Keine Commit-Aktion.
 -->
 
@@ -387,7 +387,7 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 ## Prüfschema: Bilinguale Dokumente
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -503,47 +503,47 @@ Dieses Term Sheet ist nicht verbindlich, soweit nicht ausdrücklich anders verme
 This Term Sheet is non-binding, unless expressly stated otherwise.
 
 ---------------------------------------------------------------------------
-DEUTSCH                          | ENGLISCH
+DEUTSCH | ENGLISCH
 ---------------------------------|--------------------------------------------
-Gesellschaft / Company           | [Firma] GmbH, [Sitz], HRB [Nr.]
-Investor / Investor              | [Investor Name], [Adresse]
-Investitionsbetrag /             | EUR [X]
-Investment Amount                |
-Pre-Money Bewertung /            | EUR [Y]
-Pre-Money Valuation              |
-Post-Money Bewertung /           | EUR [Y+X]
-Post-Money Valuation             |
-Neue Anteile / New Shares        | [N] Class B Geschäftsanteile (Class B Shares)
-Anteil Investor /                | [Z] %
-Investor's Stake                 |
+Gesellschaft / Company | [Firma] GmbH, [Sitz], HRB [Nr.]
+Investor / Investor | [Investor Name], [Adresse]
+Investitionsbetrag / | EUR [X]
+Investment Amount |
+Pre-Money Bewertung / | EUR [Y]
+Pre-Money Valuation |
+Post-Money Bewertung / | EUR [Y+X]
+Post-Money Valuation |
+Neue Anteile / New Shares | [N] Class B Geschäftsanteile (Class B Shares)
+Anteil Investor / | [Z] %
+Investor's Stake |
 ---------------------------------|--------------------------------------------
-RECHTE DES INVESTORS             | INVESTOR RIGHTS
-Liquidationsvorrang /            | 1x non-participating Liquidation Preference
-Liquidation Preference           |
-Verwässerungsschutz /            | Weighted Average Broad-Based Anti-Dilution
-Anti-Dilution                    |
-Sondervetorechte /               | Veto rights on: [Aufzählung / List]
-Special Veto Rights              |
-Drag-Along Schwelle /            | 75 % der Stimmrechte / of voting rights
-Drag-Along Threshold             |
-Tag-Along / Co-Sale Right        | Pro rata bei Kontrollwechsel / on change of control
+RECHTE DES INVESTORS | INVESTOR RIGHTS
+Liquidationsvorrang / | 1x non-participating Liquidation Preference
+Liquidation Preference |
+Verwässerungsschutz / | Weighted Average Broad-Based Anti-Dilution
+Anti-Dilution |
+Sondervetorechte / | Veto rights on: [Aufzählung / List]
+Special Veto Rights |
+Drag-Along Schwelle / | 75 % der Stimmrechte / of voting rights
+Drag-Along Threshold |
+Tag-Along / Co-Sale Right | Pro rata bei Kontrollwechsel / on change of control
 ---------------------------------|--------------------------------------------
-GRÜNDER-RECHTE                   | FOUNDER RIGHTS
-Vesting-Periode /                | 48 Monate / months, 12 Monate Cliff / month cliff
-Vesting Period                   |
-Bad Leaver: unvested Anteile /   | Zum Nennwert / at nominal value
-Bad Leaver: unvested shares      |
-Good Leaver: unvested Anteile /  | Zum Verkehrswert / at fair market value
-Good Leaver: unvested shares     |
+GRÜNDER-RECHTE | FOUNDER RIGHTS
+Vesting-Periode / | 48 Monate / months, 12 Monate Cliff / month cliff
+Vesting Period |
+Bad Leaver: unvested Anteile / | Zum Nennwert / at nominal value
+Bad Leaver: unvested shares |
+Good Leaver: unvested Anteile / | Zum Verkehrswert / at fair market value
+Good Leaver: unvested shares |
 ---------------------------------|--------------------------------------------
-MITARBEITER-POOL / ESOP Pool     | 10 % (pre-money) reserviert / reserved
+MITARBEITER-POOL / ESOP Pool | 10 % (pre-money) reserviert / reserved
 ---------------------------------|--------------------------------------------
 SONSTIGES / OTHER
-Schiedsklausel / Arbitration     | DIS, Berlin, Deutsch / German
-Anwendbares Recht /              | Deutsches Recht / German law
-Governing Law                    |
-Exklusivität / Exclusivity       | [N] Wochen / weeks ab Unterzeichnung / from signing
-Kosten / Costs                   | Eigene Kosten / own costs
+Schiedsklausel / Arbitration | DIS, Berlin, Deutsch / German
+Anwendbares Recht / | Deutsches Recht / German law
+Governing Law |
+Exklusivität / Exclusivity | [N] Wochen / weeks ab Unterzeichnung / from signing
+Kosten / Costs | Eigene Kosten / own costs
 
 Bei Inkonsistenzen: deutsche Fassung geht vor.
 In case of inconsistencies: German version prevails.
@@ -607,35 +607,35 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 STANDARD-GLOSSAR — [Mandant] — [Datum]
 Gilt für alle Dokumente in diesem Mandat.
 
-| Deutsch                     | Englisch                         | Anmerkung |
+| Deutsch | Englisch | Anmerkung |
 |-----------------------------|----------------------------------|-----------|
-| Gesellschaft                | Company                          | |
-| Geschäftsanteile            | Shares / Share capital           | |
-| Stammkapital                | Share capital                    | Nicht "Stock capital" |
-| Stammeinlage                | Share contribution               | |
-| Gesellschafter              | Shareholder                      | Nicht "Stockholder" (US) |
-| Gesellschafterversammlung   | Shareholders' Meeting            | |
-| Geschäftsführer             | Managing Director                | Nicht "CEO" |
-| Satzung                     | Articles of Association          | Nicht "Statute" |
-| Gesellschaftervereinbarung  | Shareholders' Agreement (SHA)    | |
-| Klasse A Anteile            | Class A Shares                   | |
-| Klasse B Anteile            | Class B Shares                   | |
-| Liquidationsvorrang         | Liquidation Preference           | |
-| Verwässerungsschutz         | Anti-Dilution Protection         | |
-| Mitziehverpflichtung        | Drag-Along Obligation            | |
-| Mitveräußerungsrecht        | Co-Sale Right (Tag-Along)        | |
-| Vesting-Periode             | Vesting Period                   | |
-| Cliff-Periode               | Cliff Period                     | |
-| Schlechter Aussteiger       | Bad Leaver                       | |
-| Guter Aussteiger            | Good Leaver                      | |
-| Bezugsrecht                 | Pre-emption Right                | |
-| Beirat                      | Advisory Board                   | |
-| Jahresabschluss             | Annual Financial Statements      | |
-| Handelsregister             | Commercial Register              | |
-| Transparenzregister         | Transparency Register            | |
+| Gesellschaft | Company | |
+| Geschäftsanteile | Shares / Share capital | |
+| Stammkapital | Share capital | Nicht "Stock capital" |
+| Stammeinlage | Share contribution | |
+| Gesellschafter | Shareholder | Nicht "Stockholder" (US) |
+| Gesellschafterversammlung | Shareholders' Meeting | |
+| Geschäftsführer | Managing Director | Nicht "CEO" |
+| Satzung | Articles of Association | Nicht "Statute" |
+| Gesellschaftervereinbarung | Shareholders' Agreement (SHA) | |
+| Klasse A Anteile | Class A Shares | |
+| Klasse B Anteile | Class B Shares | |
+| Liquidationsvorrang | Liquidation Preference | |
+| Verwässerungsschutz | Anti-Dilution Protection | |
+| Mitziehverpflichtung | Drag-Along Obligation | |
+| Mitveräußerungsrecht | Co-Sale Right (Tag-Along) | |
+| Vesting-Periode | Vesting Period | |
+| Cliff-Periode | Cliff Period | |
+| Schlechter Aussteiger | Bad Leaver | |
+| Guter Aussteiger | Good Leaver | |
+| Bezugsrecht | Pre-emption Right | |
+| Beirat | Advisory Board | |
+| Jahresabschluss | Annual Financial Statements | |
+| Handelsregister | Commercial Register | |
+| Transparenzregister | Transparency Register | |
 ```
 
-## Workflow bei bilingualer Erstellung
+## bei bilingualer Erstellung
 
 ### Schritt 1: Deutsche Masterfassung
 
@@ -903,13 +903,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 CAP TABLE — [FIRMA] GmbH
 Stand: [DATUM] | Stammkapital: [BETRAG] EUR
 
-| Gesellschafter    | Klasse | Anteile | Nennwert (EUR) | %     | Stimmen | Liq.Pref. | Vesting bis |
+| Gesellschafter | Klasse | Anteile | Nennwert (EUR) | % | Stimmen | Liq.Pref. | Vesting bis |
 |-------------------|--------|---------|---------------|-------|---------|-----------|-------------|
-| [NAME GRUENDER 1] | Common | [N]     | [N]           | [X] % | [X] %   | -         | [DATUM]     |
-| [NAME GRUENDER 2] | Common | [N]     | [N]           | [X] % | [X] %   | -         | [DATUM]     |
-| [INVESTOR A]      | A      | [N]     | [N]           | [X] % | [X] %   | 1x np     | -           |
-| ESOP-Pool         | Common | [N]     | reserviert    | [X] % | -       | -         | -           |
-| Gesamt            |        | [N]     | [BETRAG]      | 100 % | 100 %   |           |             |
+| [NAME GRUENDER 1] | Common | [N] | [N] | [X] % | [X] % | - | [DATUM] |
+| [NAME GRUENDER 2] | Common | [N] | [N] | [X] % | [X] % | - | [DATUM] |
+| [INVESTOR A] | A | [N] | [N] | [X] % | [X] % | 1x np | - |
+| ESOP-Pool | Common | [N] | reserviert | [X] % | - | - | - |
+| Gesamt | | [N] | [BETRAG] | 100 % | 100 % | | |
 
 Pre-Money: [BETRAG] EUR | Investment: [BETRAG] EUR | Post-Money: [BETRAG] EUR
 ```
@@ -923,17 +923,17 @@ LIQUIDATION WATERFALL — [FIRMA] GmbH
 Exit-Preis: [BETRAG] EUR | Datum: [DATUM]
 
 Schritt 1: Liquidation Preference [INVESTOR B] ([Nx] participating)
-  Preference: [BETRAG] EUR
-  Verbleibend: [REST] EUR
+ Preference: [BETRAG] EUR
+ Verbleibend: [REST] EUR
 
 Schritt 2: Liquidation Preference [INVESTOR A] ([Nx] non-participating)
-  Preference: max([BETRAG], [X]% * [REST])
-  Gewaehlt: [anteilig/Preference] = [BETRAG] EUR
-  Verbleibend: [REST2] EUR
+ Preference: max([BETRAG], [X]% * [REST])
+ Gewaehlt: [anteilig/Preference] = [BETRAG] EUR
+ Verbleibend: [REST2] EUR
 
 Schritt 3: Restverteilung an Gruender und Beteiligte
-  [NAME GRUENDER 1]: [X]% * [REST2] = [BETRAG] EUR
-  [NAME GRUENDER 2]: [X]% * [REST2] = [BETRAG] EUR
+ [NAME GRUENDER 1]: [X]% * [REST2] = [BETRAG] EUR
+ [NAME GRUENDER 2]: [X]% * [REST2] = [BETRAG] EUR
 
 Gesamt-Checks: Summe aller Auszahlungen = [EXIT-PREIS] EUR
 ```

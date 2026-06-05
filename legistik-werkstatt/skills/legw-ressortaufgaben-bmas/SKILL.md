@@ -30,7 +30,7 @@ description: "Ressortaufgaben BMAS: typische Legistik-Aufgaben im Geschaeftsbere
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (ArbZG; TVG; ArbSchG; SGB I bis SGB XII; SGB IX; SGB VI; BetrVG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -49,28 +49,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMAS-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMAS-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -82,17 +82,17 @@ Nachgeordnete Behoerden des BMAS im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              BMAS
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMAS-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmas-<thema>; normhierarchie-routing
+Ressort: BMAS
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMAS-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmas-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung

@@ -28,32 +28,32 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 ## Ablauf / Checkliste
 
 1. **Konzernstruktur erfassen.**
-   - Mutter, Toechter, Schwestern, Gemeinschaftsunternehmen.
-   - Wer ist Vertragspartner des Dienstleisters?
-   - Wer ist tatsaechlicher Verantwortlicher fuer die Daten?
+ - Mutter, Toechter, Schwestern, Gemeinschaftsunternehmen.
+ - Wer ist Vertragspartner des Dienstleisters?
+ - Wer ist tatsaechlicher Verantwortlicher fuer die Daten?
 
 2. **Vertragsstrukturen vergleichen.**
 
-   | Struktur | Beschreibung | Anwendungsfall |
-   |---|---|---|
-   | Hauptvertrag der Mutter mit Beitrittsmechanik | Mutter unterzeichnet, Toechter treten bei | Konzernlizenz Cloud-Dienst |
-   | Rahmen-AVV mit Einzelbestellungen | Jede Gesellschaft schliesst eigenen AVV unter Rahmen ab | Multi-Country-Rollout |
-   | Multilateraler AVV | Alle Konzerngesellschaften unterzeichnen gemeinsam | Wenige Gesellschaften, hohe Datenkritikalitaet |
-   | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter fuer Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
+ | Struktur | Beschreibung | Anwendungsfall |
+ |---|---|---|
+ | Hauptvertrag der Mutter mit Beitrittsmechanik | Mutter unterzeichnet, Toechter treten bei | Konzernlizenz Cloud-Dienst |
+ | Rahmen-AVV mit Einzelbestellungen | Jede Gesellschaft schliesst eigenen AVV unter Rahmen ab | Multi-Country-Rollout |
+ | Multilateraler AVV | Alle Konzerngesellschaften unterzeichnen gemeinsam | Wenige Gesellschaften, hohe Datenkritikalitaet |
+ | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter fuer Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
 
 3. **Rollenmix klaeren.**
-   - Mutter als Auftragsverarbeiterin der Toechter setzt voraus, dass die Mutter weisungsgebunden ist.
-   - Wenn die Mutter eigenstaendige Konzernzwecke verfolgt (Konzernsteuerung, Reporting), liegt regelmaessig Art. 26 DSGVO oder eigene Verantwortlichkeit vor.
-   - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: weite Auslegung gemeinsamer Verantwortlichkeit.
+ - Mutter als Auftragsverarbeiterin der Toechter setzt voraus, dass die Mutter weisungsgebunden ist.
+ - Wenn die Mutter eigenstaendige Konzernzwecke verfolgt (Konzernsteuerung, Reporting), liegt regelmaessig Art. 26 DSGVO oder eigene Verantwortlichkeit vor.
+ - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: weite Auslegung gemeinsamer Verantwortlichkeit.
 
 4. **Drittlandbezug pruefen.**
-   - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 fuer jede Konzerngesellschaft im Drittland.
-   - DPF nur fuer US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
+ - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 fuer jede Konzerngesellschaft im Drittland.
+ - DPF nur fuer US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
 
 5. **Beitrittsmechanik (Docking Clause).**
-   - Vergleichbar dem Mechanismus in den EU-SCC nach Beschluss (EU) 2021/914.
-   - Beitritt durch Unterzeichnung einer Beitrittsanlage.
-   - Wirkung: Beitretende Gesellschaft wird Vertragspartei mit allen Rechten und Pflichten.
+ - Vergleichbar dem Mechanismus in den EU-SCC nach Beschluss (EU) 2021/914.
+ - Beitritt durch Unterzeichnung einer Beitrittsanlage.
+ - Wirkung: Beitretende Gesellschaft wird Vertragspartei mit allen Rechten und Pflichten.
 
 ## Mustertext / Template
 

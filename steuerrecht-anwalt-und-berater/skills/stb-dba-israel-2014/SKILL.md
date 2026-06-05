@@ -146,15 +146,15 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Aliyah-Status, Software-Lizenz vs. Standardware, Subject-to-Tax.
 3. **Kurzantwort**: DBA-Israel 2014 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-IL 2014; Aliyah-Status Pruefung).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Bei Software-Lizenz Art. 12 (0 Prozent IL-QSt) vs. Art. 7 Standardware.
-   - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
-   - Methodenartikel (Art. 23 — Anrechnung).
-   - § 50d Abs. 9 EStG Subject-to-Tax bei Aliyah.
-   - § 50a EStG bei Kuenstlern/Sportlern Israel.
-   - § 6 AStG bei Wegzug (Israel Drittland).
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-IL 2014; Aliyah-Status Pruefung).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Bei Software-Lizenz Art. 12 (0 Prozent IL-QSt) vs. Art. 7 Standardware.
+ - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
+ - Methodenartikel (Art. 23 — Anrechnung).
+ - § 50d Abs. 9 EStG Subject-to-Tax bei Aliyah.
+ - § 50a EStG bei Kuenstlern/Sportlern Israel.
+ - § 6 AStG bei Wegzug (Israel Drittland).
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: Aliyah-Status 10 Jahre, Preferred Enterprise-Sondersteuer, MLI-Status.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

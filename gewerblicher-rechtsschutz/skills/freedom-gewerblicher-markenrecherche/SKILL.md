@@ -1,13 +1,13 @@
 ---
 name: freedom-gewerblicher-markenrecherche
-description: "Nutze dies, wenn Spezial Freedom Schriftsatz Brief Und Memo Bausteine, Spezial Gewerblicher Erstpruefung Und Mandatsziel, Spezial Markenrecherche Risikoampel Und Gegenargumente im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Freedom Schriftsatz Brief Und Memo Bausteine, Spezial Gewerblicher Erstpruefung Und Mandatsziel, Spezial Markenrecherche Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Freedom Schriftsatz Brief Und Memo Bausteine, Spezial Gewerblicher Erstpruefung Und Mandatsziel, Spezial Markenrecherche Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Freedom Schriftsatz Brief Und Memo Bausteine, Gewerblicher Erstpruefung Und Mandatsziel, Markenrecherche Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Freedom Schriftsatz Brief Und Memo Bausteine, Spezial Gewerblicher Erstpruefung Und Mandatsziel, Spezial Markenrecherche Risikoampel Und Gegenargumente
+# Freedom Schriftsatz Brief Und Memo Bausteine, Gewerblicher Erstpruefung Und Mandatsziel, Markenrecherche Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Freedom Schriftsatz Brief Und Memo Bausteine, Gewerblicher Erstpruefung Und Mandatsziel, Markenrecherche Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Freedom Schriftsatz Brief Und Memo Bausteine, Spezial Gewerblicher Erstpruefung Und Mandatsziel, Spezial Markenrecherche Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Freedom Schriftsatz Brief Und Memo Bausteine, Gewerblicher Erstpruefung Und Mandatsziel, Markenrecherche Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -65,7 +65,7 @@ unserer Mandantin nach § 14 Abs. 2 Nr. [1/2/3] MarkenG.
 Wir fordern Sie auf,
 1. die oben beschriebene Nutzung unverzüglich und vollständig zu unterlassen,
 2. beigefügte strafbewehrte Unterlassungserklärung bis zum [Datum, 14 Tage]
-   zu unterzeichnen und uns zurückzusenden,
+ zu unterzeichnen und uns zurückzusenden,
 3. uns bis zu demselben Datum die entstanden Kosten zu erstatten (RVG: [Betrag]).
 
 Bei Fristversäumnis werden wir ohne weitere Ankündigung gerichtliche Schritte
@@ -163,18 +163,18 @@ zu unterlassen,
 BEGRÜNDUNG
 
 I. Sachverhalt
-   [Tatsachen, Beweise, eidesstattliche Versicherung]
+ [Tatsachen, Beweise, eidesstattliche Versicherung]
 
 II. Verfügungsanspruch
-   [Rechtliche Einordnung; Norm; Subsumtion]
+ [Rechtliche Einordnung; Norm; Subsumtion]
 
 III. Verfügungsgrund / Dringlichkeit
-   [Erstkenntnis Datum; keine Selbstwiderlegung; Dringlichkeit begründet]
+ [Erstkenntnis Datum; keine Selbstwiderlegung; Dringlichkeit begründet]
 
 IV. Anlagen
-   [Anlage 1: Schutzrechtsurkunde / Registerauszug]
-   [Anlage 2: Verletzungsnachweis (Screenshot, Kaufbeleg)]
-   [Anlage 3: Eidesstattliche Versicherung des Antragstellers]
+ [Anlage 1: Schutzrechtsurkunde / Registerauszug]
+ [Anlage 2: Verletzungsnachweis (Screenshot, Kaufbeleg)]
+ [Anlage 3: Eidesstattliche Versicherung des Antragstellers]
 
 [Unterschrift]
 ```
@@ -199,8 +199,8 @@ wie folgt zusammen:
 [Welches Recht gilt; kurze Erklärung für Mandanten]
 
 3. Handlungsoptionen
-   Option A: [Beschreibung] – Kosten ca. [Betrag]; Risiko: [kurz]
-   Option B: [Beschreibung] – Kosten ca. [Betrag]; Risiko: [kurz]
+ Option A: [Beschreibung] – Kosten ca. [Betrag]; Risiko: [kurz]
+ Option B: [Beschreibung] – Kosten ca. [Betrag]; Risiko: [kurz]
 
 4. Empfehlung
 Wir empfehlen [Option X], weil [kurze Begründung].
@@ -368,7 +368,7 @@ Mögliche Ziele (können kombiniert sein):
 MANDATSNOTIZ – ERSTGESPRÄCH
 Datum: _______________
 Anwalt: _______________
-Mandant: _______________  Kontakt: _______________
+Mandant: _______________ Kontakt: _______________
 
 Problem-Kategorie: _______________
 Betroffenes Schutzrecht: _______________
@@ -389,7 +389,7 @@ Nächster Termin: _______________
 
 ## Abgrenzung: Was dieser Skill nicht macht
 
-- Kein Ersatz für die Vertiefung in Spezial-Skills (EV-Antrag, Abmahnung, Anmeldung).
+- Kein Ersatz für die Vertiefung in Fachmodule (EV-Antrag, Abmahnung, Anmeldung).
 - Keine abschließende rechtliche Beurteilung ohne Normtext- und Rechtsprechungs-Prüfung.
 - Keine Festlegung auf eine Handlungsoption ohne Mandantenentscheidung.
 

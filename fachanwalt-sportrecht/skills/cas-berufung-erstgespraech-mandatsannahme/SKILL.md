@@ -1,13 +1,13 @@
 ---
 name: cas-berufung-erstgespraech-mandatsannahme
-description: "Nutze dies, wenn Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Bitte Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung prüfen.; Erstelle eine Arbeitsfassung zu Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Cas Berufung Vorbereiten, Erstgespraech Mandatsannahme, Fachanwalt Sportrecht Doping Cas Berufung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -114,14 +114,14 @@ Avenue de Beaumont 2, 1012 Lausanne, Switzerland
 
 STATEMENT OF APPEAL
 
-Filed by:    [Full name], [Nationality], [Date of Birth]
-             [Address]
-             ("Appellant")
+Filed by: [Full name], [Nationality], [Date of Birth]
+ [Address]
+ ("Appellant")
 
 Represented by: [Name, Law Firm, Address]
 
-Against:     [Federation Name], [Address]
-             ("Respondent")
+Against: [Federation Name], [Address]
+ ("Respondent")
 
 I. DECISION UNDER APPEAL
 
@@ -145,13 +145,13 @@ provision is attached as Exhibit A-3.
 III. PROCEDURAL REQUESTS
 
 3.1 The Appellant requests the Appeal to be heard by a Panel
-    of Three Arbitrators [or: a Sole Arbitrator].
+ of Three Arbitrators [or: a Sole Arbitrator].
 
 3.2 For co-arbitrator the Appellant nominates:
-    [Name, Title, Address from CAS Arbitrator List]
+ [Name, Title, Address from CAS Arbitrator List]
 
 3.3 The Appellant requests the proceedings to be conducted
-    in the English language.
+ in the English language.
 
 IV. STATEMENT OF RELIEF
 
@@ -159,7 +159,7 @@ The Appellant respectfully requests CAS to:
 a) Set aside the decision of [Federation] dated [Date];
 b) Exonerate the Appellant from all charges; or
 c) In the alternative, reduce the sanction to [specific
-   lesser sanction];
+ lesser sanction];
 d) Order the Respondent to bear the costs of the arbitration.
 
 V. FILING FEE
@@ -193,11 +193,11 @@ federation, impugned decision]
 II. APPLICABLE LAW
 
 2.1 Pursuant to Art. R58 CAS Code, the Panel shall apply
-    primarily the regulations of [Federation] and,
-    subsidiarily, Swiss law.
+ primarily the regulations of [Federation] and,
+ subsidiarily, Swiss law.
 
 2.2 In doping matters, the WADA Code 2021 and the [National
-    Anti-Doping Code] apply.
+ Anti-Doping Code] apply.
 
 III. SUBMISSIONS
 
@@ -257,19 +257,19 @@ award.
 GROUNDS:
 
 1. Irreparable Harm: The current competitive season runs
-   until [Date]. The Appellant's career will suffer irrep-
-   arable harm if the suspension is not immediately lifted.
-   The [specific competition or league participation] is
-   at stake.
+ until [Date]. The Appellant's career will suffer irrep-
+ arable harm if the suspension is not immediately lifted.
+ The [specific competition or league participation] is
+ at stake.
 
 2. Merits (Prima Facie): As detailed in the Statement of
-   Appeal and to be developed in the Appeal Brief, the
-   decision is affected by [fundamental procedural or
-   substantive errors — brief summary].
+ Appeal and to be developed in the Appeal Brief, the
+ decision is affected by [fundamental procedural or
+ substantive errors — brief summary].
 
 3. Balance of Interests: The harm to the Appellant outweighs
-   any harm to the integrity of the sport. There is no
-   evidence of intentional doping.
+ any harm to the integrity of the sport. There is no
+ evidence of intentional doping.
 
 The Appellant is available for emergency contact:
 [Phone, Email]
@@ -633,7 +633,7 @@ Verteidigung Athlet bei Doping-Vorwurf.
 - Versicherungs-Bezug
 - Karriere-Planung
 
-## 6) Spezial Kontaminations-These
+## 6) Kontaminations-These
 
 - Nahrungsergänzungsmittel-Verunreinigung
 - Beweis: identische Charge in Labor analysieren

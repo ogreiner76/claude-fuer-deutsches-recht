@@ -12,7 +12,7 @@ description: "Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Un
 ## Schritt 1 — § 214 Abs. 1 BauGB Verfahrens- und Formfehler
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Abschließende Liste beachtlicher Fehler
 - Verletzung Vorschriften über die Beteiligung (§§ 3 Abs. 2, 4 Abs. 2 BauGB) — nur wenn nach den Umständen offenkundig und Auswirkung
@@ -62,9 +62,9 @@ description: "Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Un
 
 ### Strategie Anwältin
 - Wenn Stadt während des Normenkontrollverfahrens "heilen" will:
-  - Prüfen ob das ergänzende Verfahren methodisch korrekt
-  - Prüfen ob der bestehende Mangel heilungsfähig ist (Ergebnis-Fehler nicht)
-  - Prüfen ob Rückwirkung legitim
+ - Prüfen ob das ergänzende Verfahren methodisch korrekt
+ - Prüfen ob der bestehende Mangel heilungsfähig ist (Ergebnis-Fehler nicht)
+ - Prüfen ob Rückwirkung legitim
 - Häufig bricht "Heilung" an formellen Folgemängeln
 
 ## Schritt 5 — § 215 Abs. 1 BauGB Rügefrist
@@ -222,13 +222,13 @@ im Namen unserer Mandantschaft [NAME] rügen wir gemäß § 215 Abs. 1 BauGB
 fristgerecht innerhalb der Jahresfrist ab Bekanntmachung folgende Mängel:
 
 1. Verletzung von § 3 Abs. 2 BauGB — Öffentlichkeitsbeteiligung
-   [KONKRETE BEZEICHNUNG DES MANGELS]
+ [KONKRETE BEZEICHNUNG DES MANGELS]
 
 2. Verletzung von § 4 Abs. 2 BauGB — Behördenbeteiligung
-   [KONKRETE BEZEICHNUNG]
+ [KONKRETE BEZEICHNUNG]
 
 3. Abwägungsdefizit § 1 Abs. 7 i.V.m. § 2 Abs. 3 BauGB
-   [KONKRETE BEZEICHNUNG: welcher Belang übersehen / falsch gewichtet]
+ [KONKRETE BEZEICHNUNG: welcher Belang übersehen / falsch gewichtet]
 
 Wir behalten uns weitere Rügen ausdrücklich vor, soweit uns weiteres
 Akten- und Begründungsmaterial zugänglich wird.

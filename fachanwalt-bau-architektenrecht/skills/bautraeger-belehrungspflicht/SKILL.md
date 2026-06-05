@@ -1,13 +1,13 @@
 ---
 name: bautraeger-belehrungspflicht
-description: "Nutze dies, wenn Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge prüfen.; Erstelle eine Arbeitsfassung zu Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -136,10 +136,10 @@ Verbote (Auswahl):
 
 - **Schwelle:** Trainings-Compute > 10^25 FLOPs **oder** Kommissions-Designation
 - **Zusätzliche Pflichten:**
-  - Modell-Bewertungen
-  - Risiko-Bewertung und -Minderung
-  - Schwerwiegende Vorfälle melden
-  - Cybersicherheit
+ - Modell-Bewertungen
+ - Risiko-Bewertung und -Minderung
+ - Schwerwiegende Vorfälle melden
+ - Cybersicherheit
 
 ## Schritt 5 — Zeitlicher Anwendungs-Plan
 
@@ -308,13 +308,13 @@ Anwendbarer Zeitplan:
 Erste Pflichten ab: [DATUM]
 
 Kernpflichten:
-| Pflicht                        | Norm        | Status     |
+| Pflicht | Norm | Status |
 |-------------------------------|-------------|------------|
-| Konformitaetsbewertung        | Art. 43 ff. |            |
-| Technische Dokumentation      | Art. 11     |            |
-| Menschliche Aufsicht          | Art. 14     |            |
-| Transparenz gegenueber Nutzern| Art. 13/50  |            |
-| DSGVO/DSFA (Schnittstelle)    | Art. 35 DSGVO|           |
+| Konformitaetsbewertung | Art. 43 ff. | |
+| Technische Dokumentation | Art. 11 | |
+| Menschliche Aufsicht | Art. 14 | |
+| Transparenz gegenueber Nutzern| Art. 13/50 | |
+| DSGVO/DSFA (Schnittstelle) | Art. 35 DSGVO| |
 
 Ergebnis: Konform / Anpassungsbedarf (bis [DATUM]) / Verboten
 ```

@@ -1,21 +1,21 @@
 ---
 name: rabatte-streichpreise-rechtsabteilung-cross
-description: "Nutze dies, wenn Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf prüfen.; Erstelle eine Arbeitsfassung zu Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rabatte Streichpreise Preisermaessigung Pangv, Rechtsabteilung Cross Border Shop Eu Verbraucherrecht, Rechtsabteilung Dark Patterns Und Verbraucherwiderruf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `rabatte-streichpreise-preisermaessigung-pangv` | Rabatte Streichpreise Preisermäßigung PAngV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
-| `rechtsabteilung-cross-border-shop-eu-verbraucherrecht` | Rechtsabteilungs-Spezialskill für Cross-Border-Shop EU-Verbraucherrecht: Rechtswahl, Gerichtsstand, Sprachversionen und Lieferlandrisiken werden sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-dark-patterns-und-verbraucherwiderruf` | Rechtsabteilungs-Spezialskill für Dark Patterns und Verbraucherwiderruf: Checkout, Kündigungsbutton und Abo-Fallen werden als UX-Legal-Audit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-cross-border-shop-eu-verbraucherrecht` | Rechtsabteilungs-Fachmodul für Cross-Border-Shop EU-Verbraucherrecht: Rechtswahl, Gerichtsstand, Sprachversionen und Lieferlandrisiken werden sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-dark-patterns-und-verbraucherwiderruf` | Rechtsabteilungs-Fachmodul für Dark Patterns und Verbraucherwiderruf: Checkout, Kündigungsbutton und Abo-Fallen werden als UX-Legal-Audit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -71,7 +71,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `rechtsabteilung-cross-border-shop-eu-verbraucherrecht`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Cross-Border-Shop EU-Verbraucherrecht: Rechtswahl, Gerichtsstand, Sprachversionen und Lieferlandrisiken werden sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Cross-Border-Shop EU-Verbraucherrecht: Rechtswahl, Gerichtsstand, Sprachversionen und Lieferlandrisiken werden sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht
 
@@ -118,7 +118,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-dark-patterns-und-verbraucherwiderruf`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Dark Patterns und Verbraucherwiderruf: Checkout, Kündigungsbutton und Abo-Fallen werden als UX-Legal-Audit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Dark Patterns und Verbraucherwiderruf: Checkout, Kündigungsbutton und Abo-Fallen werden als UX-Legal-Audit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Dark Patterns und Verbraucherwiderruf
 

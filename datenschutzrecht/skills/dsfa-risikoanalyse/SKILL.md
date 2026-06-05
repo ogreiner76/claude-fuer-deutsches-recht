@@ -29,14 +29,14 @@ Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGV
 1. **Verarbeitungsbeschreibung.** Datenfluss, Datenarten, Empfaenger, Aufbewahrung, Technologie — als Grundlage fuer die Bedrohungsanalyse.
 2. **Verhaeltnismaessigkeitspruefung.** Welche Schutzziele sind beruehrt (Vertraulichkeit, Integritaet, Verfuegbarkeit, Transparenz, Intervenierbarkeit, Nicht-Verkettung, Datenminimierung)?
 3. **Risikoanalyse.** Pro Schutzziel Bedrohungsszenarien definieren:
-   - Vertraulichkeit: unbefugter Zugriff, Datenleck, Insider-Zugriff
-   - Integritaet: unbemerkte Aenderung, Manipulation
-   - Verfuegbarkeit: Ausfall, Loeschung, Ransomware
-   - Transparenz: verdeckte Verarbeitung, fehlende Information
-   - Intervenierbarkeit: Loeschungs- oder Berichtigungssperre
-   - Nicht-Verkettung: ungewollte Zusammenfuehrung
-   - Datenminimierung: ueber Zweck hinausreichende Speicherung
-   Pro Szenario: Eintrittswahrscheinlichkeit (gering/mittel/hoch) und Schadenschwere fuer Betroffene (gering/mittel/hoch). Verknuepfung zur Risikostufe nach Matrix.
+ - Vertraulichkeit: unbefugter Zugriff, Datenleck, Insider-Zugriff
+ - Integritaet: unbemerkte Aenderung, Manipulation
+ - Verfuegbarkeit: Ausfall, Loeschung, Ransomware
+ - Transparenz: verdeckte Verarbeitung, fehlende Information
+ - Intervenierbarkeit: Loeschungs- oder Berichtigungssperre
+ - Nicht-Verkettung: ungewollte Zusammenfuehrung
+ - Datenminimierung: ueber Zweck hinausreichende Speicherung
+ Pro Szenario: Eintrittswahrscheinlichkeit (gering/mittel/hoch) und Schadenschwere fuer Betroffene (gering/mittel/hoch). Verknuepfung zur Risikostufe nach Matrix.
 4. **Massnahmen.** Wirkung der geplanten Massnahmen auf Wahrscheinlichkeit und Schwere; Pruefung ob die Risikostufe sinkt.
 5. **Restrisiko.** Risikostufe nach Massnahmen, dokumentiert pro Szenario. Wenn hoch verbleibend, Vorab-Konsultation nach Art. 36.
 6. **Konsultation / Genehmigung.** DSB-Stellungnahme; Risikomatrix in die DSFA als zentrales Steuerungsdokument einbetten.
@@ -44,12 +44,12 @@ Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGV
 ## Bewertungsmatrix (3x3)
 
 ```
-                  Schadenschwere
-                  gering    mittel    hoch
+ Schadenschwere
+ gering mittel hoch
 Wahrscheinlichkeit
-  hoch            GELB      ORANGE    ROT
-  mittel          GRUEN     GELB      ORANGE
-  gering          GRUEN     GRUEN     GELB
+ hoch GELB ORANGE ROT
+ mittel GRUEN GELB ORANGE
+ gering GRUEN GRUEN GELB
 ```
 
 - GRUEN — Risiko niedrig, dokumentieren
@@ -66,14 +66,14 @@ Verarbeitung: [BEZEICHNUNG]
 Verantwortlicher: [NAME]
 Methode: 3x3 Eintrittswahrscheinlichkeit x Schadenschwere
 
-Szenario                          | W | S | Risiko vor | Massnahme | W' | S' | Risiko nach
-1 Unbefugter Zugriff              | h | h | ROT        | [...]     | g  | h  | GELB
-2 Unbemerkte Datenmanipulation    | m | h | ORANGE     | [...]     | g  | m  | GRUEN
-3 Datenverlust durch Ausfall      | m | m | GELB       | [...]     | g  | m  | GRUEN
-4 Verdeckte Profilbildung         | h | h | ROT        | [...]     | m  | h  | ORANGE
-5 Loeschungssperre                | g | m | GRUEN      | [...]     | g  | m  | GRUEN
-6 Ungewollte Zusammenfuehrung     | m | h | ORANGE     | [...]     | g  | m  | GRUEN
-7 Ueberspeicherung                | h | g | GELB       | [...]     | g  | g  | GRUEN
+Szenario | W | S | Risiko vor | Massnahme | W' | S' | Risiko nach
+1 Unbefugter Zugriff | h | h | ROT | [...] | g | h | GELB
+2 Unbemerkte Datenmanipulation | m | h | ORANGE | [...] | g | m | GRUEN
+3 Datenverlust durch Ausfall | m | m | GELB | [...] | g | m | GRUEN
+4 Verdeckte Profilbildung | h | h | ROT | [...] | m | h | ORANGE
+5 Loeschungssperre | g | m | GRUEN | [...] | g | m | GRUEN
+6 Ungewollte Zusammenfuehrung | m | h | ORANGE | [...] | g | m | GRUEN
+7 Ueberspeicherung | h | g | GELB | [...] | g | g | GRUEN
 
 Begruendung Wahrscheinlichkeit: [Bedrohungsmodell, Erfahrungswerte, Statistik]
 Begruendung Schadenschwere: [Erwaegungsgrund 75 DSGVO, Schutzbeduerftigkeit]

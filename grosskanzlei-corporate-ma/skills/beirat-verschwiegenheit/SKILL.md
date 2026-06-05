@@ -1,6 +1,6 @@
 ---
 name: beirat-verschwiegenheit
-description: "Nutze dies, wenn Beirat Verschwiegenheit im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Verschwiegenheit prüfen.; Erstelle eine Arbeitsfassung zu Beirat Verschwiegenheit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Verschwiegenheit: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Verschwiegenheit

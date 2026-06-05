@@ -1,13 +1,13 @@
 ---
 name: anw-stb-sanierungsgewinn-stehengelassene
-description: "Nutze dies, wenn Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, Bmf Schreiben Radar 2026, Anw Aussenpruefung Strategien und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -18,7 +18,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `stb-sanierungsgewinn-verlustvortrag-sanity-check` | Sanity-Check für Verlustvorträge bei Sanierung. Prüft ob § 10d EStG, § 8c KStG-Mindestbesteuerung und § 10a Satz 1 GewStG den Sanierungsertrag bereits aufzehren. Wenn ja, ist der Antrag nach Paragraf 3a Absatz 4 EStG entbehrlich. |
 | `bmf-schreiben-radar-2026` | Bündelt die wichtigsten amtlichen BMF-/BZSt-Anker für laufende Steuerberatung und verteilt sie in Prüfpfade statt Blindzitate zu erzeugen. |
 | `anw-aussenpruefung-strategien` | Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsanordnung § 196 AO oder Prüfung laeuft bereits. Prüfraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsprinzip § 393 AO GoBD DSFinV-K. Schlussbesprechung § 201 AO Prüfungsbericht § 202 AO Verbindliche Zusage § 204 AO. Strategie aktive Mitwirkung dokumentierter Widerspruch tatsaechliche Verständigung. Output Strategie-Memo Widerspruchsprotokoll Vorlage Schlussbesprechung Aenderungsbescheide §§ 173 175 AO. Abgrenzung zu anw-tatsaechliche-verständigung-schlussbesprechung. |
-| `anw-betriebsausgaben-werbungskosten-pruefraster` | Workflow-Skill zu anw betriebsausgaben werbungskosten pruefraster. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `anw-betriebsausgaben-werbungskosten-pruefraster` | Arbeitsmodul zu anw betriebsausgaben werbungskosten pruefraster: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `anw-dac7-dac8-plattformen-krypto` | Beratung zu DAC7-Meldepflichten für digitale Plattformen ab 2023 PStTG und DAC8-Meldepflichten für Krypto-Dienstleister ab 2026 KryptoStG. Anwendungsfall Plattformbetreiber oder Krypto-Dienstleister fragt nach Meldepflichten oder Mandant als Anbieter erhaelt Meldung. Prüfung Meldepflicht Quartalsmeldung Jahresmeldung Datenerfassung Bußgeld § 379 AO bei Verletzung. Output Compliance-Prüfliste Meldeprozess Vermeidungsstrategie Beratungsmemo für Plattformbetreiber und Krypto-Inhaber. Abgrenzung zu anw-defi-lending-yield-farming-bmf-22-11-2024. |
 | `anw-grest-anzeige-19-closing-check` | Anzeige nach § 19 GrEStG und Closing-Checkliste: wer zeigt was wann welchem Finanzamt an, Inhalt der Anzeige, Grundstücksliste, Beteiligungswechsel, Notar, Gesellschaft, Erwerber, Fristen, Sanktionen und Nachdokumentation. |
 | `anw-grest-share-deal-90-prozent-10-jahre` | GrESt Share Deal vertieft: § 1 Abs. 2a/2b/3/3a GrEStG, 90-Prozent-Schwelle, 10-Jahres-Zeitraum, unmittelbare und mittelbare Beteiligungen, RETT-Blocker, Altgesellschafter, Kapital- und Personengesellschaften. |
@@ -66,7 +66,7 @@ Der Mandantenbrief in der Frühphase ist das wichtigste Steuerungsinstrument. Er
 - **§ 89 AO** — verbindliche Auskunft.
 - **§ 43a Abs. 2 BRAO** / **§ 203 StGB** — Verschwiegenheitspflicht; Mandantenbrief vertraulich.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt |
 |---|---|
@@ -105,7 +105,7 @@ An die Geschäftsleitung der [Firma]
 - persönlich / vertraulich -
 
 Betreff: Sanierungsgewinn nach § 3a EStG — frühzeitige Warnung
-         im Zusammenhang mit Ihrer geplanten Sanierung
+ im Zusammenhang mit Ihrer geplanten Sanierung
 
 Sehr geehrte Frau / sehr geehrter Herr [Name],
 
@@ -119,37 +119,37 @@ in der Praxis häufig erst sehr spät erkannt wird — dann aber für
 Ihre Liquidität zur Katastrophe werden kann:
 
 1. Ein Forderungsverzicht der Gläubiger ist bei Ihnen
-   handels- und steuerrechtlich ein Buchgewinn. Wenn ein
-   Gläubiger auf eine Forderung von EUR 500.000 verzichtet,
-   entsteht in Ihrer GuV ein außerordentlicher Ertrag in
-   gleicher Höhe.
+ handels- und steuerrechtlich ein Buchgewinn. Wenn ein
+ Gläubiger auf eine Forderung von EUR 500.000 verzichtet,
+ entsteht in Ihrer GuV ein außerordentlicher Ertrag in
+ gleicher Höhe.
 
 2. Dieser Ertrag ist GRUNDSÄTZLICH einkommensteuer- und
-   körperschaftsteuerpflichtig sowie gewerbesteuerpflichtig.
-   Bei einem Verzicht von EUR 500.000 droht eine Steuerlast
-   in der Größenordnung von EUR 130.000 bis EUR 165.000.
-   Die Steuer ist liquide zu zahlen — der Verzicht hat Ihnen
-   aber keine liquiden Mittel zugeführt.
+ körperschaftsteuerpflichtig sowie gewerbesteuerpflichtig.
+ Bei einem Verzicht von EUR 500.000 droht eine Steuerlast
+ in der Größenordnung von EUR 130.000 bis EUR 165.000.
+ Die Steuer ist liquide zu zahlen — der Verzicht hat Ihnen
+ aber keine liquiden Mittel zugeführt.
 
 3. Eine Steuerbefreiung ist nach § 3a EStG möglich, aber
-   an strenge Voraussetzungen gebunden. Es müssen kumulativ
-   nachgewiesen werden:
-   - Sanierungsbedürftigkeit Ihres Unternehmens
-   - Sanierungsfähigkeit
-   - Sanierungseignung der Maßnahme
-   - Sanierungsabsicht der Gläubiger
-   Diese Voraussetzungen werden bei einer späteren Prüfung
-   durch das Finanzamt Punkt für Punkt zerlegt. Wer erst
-   nach Abschluss der Sanierung anfängt zu dokumentieren,
-   verliert in aller Regel.
+ an strenge Voraussetzungen gebunden. Es müssen kumulativ
+ nachgewiesen werden:
+ - Sanierungsbedürftigkeit Ihres Unternehmens
+ - Sanierungsfähigkeit
+ - Sanierungseignung der Maßnahme
+ - Sanierungsabsicht der Gläubiger
+ Diese Voraussetzungen werden bei einer späteren Prüfung
+ durch das Finanzamt Punkt für Punkt zerlegt. Wer erst
+ nach Abschluss der Sanierung anfängt zu dokumentieren,
+ verliert in aller Regel.
 
 4. Ein vorhandener steuerlicher Verlustvortrag kann den
-   Sanierungsertrag aufzehren. Wir empfehlen daher als
-   ERSTES, die Höhe Ihres Verlustvortrags zur Körperschaft-
-   bzw. Einkommensteuer und Gewerbesteuer zu prüfen.
-   Wenn er den Verzichtsbetrag deckt, wird der Antrag nach
-   § 3a Abs. 4 EStG entbehrlich, und Sie ersparen sich den
-   späteren Streit mit dem Finanzamt.
+ Sanierungsertrag aufzehren. Wir empfehlen daher als
+ ERSTES, die Höhe Ihres Verlustvortrags zur Körperschaft-
+ bzw. Einkommensteuer und Gewerbesteuer zu prüfen.
+ Wenn er den Verzichtsbetrag deckt, wird der Antrag nach
+ § 3a Abs. 4 EStG entbehrlich, und Sie ersparen sich den
+ späteren Streit mit dem Finanzamt.
 
 UNSERE EMPFEHLUNG
 
@@ -157,13 +157,13 @@ Wir empfehlen Ihnen dringend, vor jedem Verzichtsangebot
 folgende Schritte einzuleiten:
 
 a) Verlustvortrag-Sanity-Check durch uns oder Ihren
-   Steuerberater. Aufwand: rund [X] Stunden.
+ Steuerberater. Aufwand: rund [X] Stunden.
 
 b) Diagnose unternehmensbezogene oder personenbezogene
-   Sanierung. Aufwand: rund [X] Stunden.
+ Sanierung. Aufwand: rund [X] Stunden.
 
 c) Frühzeitige Dokumentation der vier Voraussetzungen
-   nach § 3a EStG durch ein Sanierungskonzept (IDW S 6).
+ nach § 3a EStG durch ein Sanierungskonzept (IDW S 6).
 
 d) Schriftliche Sanierungsabsicht der Gläubiger einholen.
 
@@ -197,9 +197,9 @@ Sehr geehrte Frau / sehr geehrter Herr [Name],
 Sie planen einen Forderungsverzicht durch Ihre Gläubiger in
 einer Größenordnung von EUR [Betrag]. Wir müssen Sie warnen:
 
-  Ein Forderungsverzicht ist steuerlich ein Gewinn.
-  Bei EUR [Betrag] Verzicht droht ohne Vorbereitung
-  rund EUR [Steuer] Steuerlast (KSt + GewSt).
+ Ein Forderungsverzicht ist steuerlich ein Gewinn.
+ Bei EUR [Betrag] Verzicht droht ohne Vorbereitung
+ rund EUR [Steuer] Steuerlast (KSt + GewSt).
 
 Befreiung nach § 3a EStG ist möglich, aber nur mit korrekter
 Vorbereitung. Wir empfehlen ein Gespräch vor jeder Verzichts-
@@ -280,9 +280,9 @@ Die Pruefung erfolgt in drei strikt zu trennenden Phasen.
 
 - Steuerliche Gewinnermittlung gem. **§ 8 Abs. 1 KStG i.V.m. § 5 Abs. 1 EStG i.V.m. §§ 246 ff. HGB** (Maszgeblichkeitsprinzip).
 - Passivierungspflicht setzt drei Merkmale voraus (staend. Rspr.):
-  1. **bestimmter Verpflichtungsinhalt** (rechtlich oder wirtschaftlich entstanden),
-  2. **durchsetzbar** (kein faktischer Verzicht),
-  3. **wirtschaftliche Belastung** der Schuldnerin.
+ 1. **bestimmter Verpflichtungsinhalt** (rechtlich oder wirtschaftlich entstanden),
+ 2. **durchsetzbar** (kein faktischer Verzicht),
+ 3. **wirtschaftliche Belastung** der Schuldnerin.
 
 Maszgebliche Leitentscheidung: **BFH, Urteil v. 30.11.2011 — I R 100/10, DStR 2012, 450.** Dort hat der BFH klargestellt, dass eine Verbindlichkeit nur zu passivieren ist, wenn sie die Schuldnerin auch wirtschaftlich belastet. Allein die rechtliche Existenz reicht nicht; fehlt die wirtschaftliche Belastung, ist die Verbindlichkeit gewinnwirksam aufzuloesen.
 
@@ -461,29 +461,29 @@ Betrag: EUR [Nominale]
 Stichtag: [Datum]
 
 I. Phase 1 — Passivierung dem Grunde nach
-   1. Verpflichtungsinhalt: [ja/nein]
-   2. Durchsetzbarkeit: [ja/nein]
-   3. Wirtschaftliche Belastung: [BFH I R 100/10]
-   4. § 5 Abs. 2a EStG: [greift/greift nicht — Begruendung]
-   Zwischenergebnis: [passivierungspflichtig/nicht]
+ 1. Verpflichtungsinhalt: [ja/nein]
+ 2. Durchsetzbarkeit: [ja/nein]
+ 3. Wirtschaftliche Belastung: [BFH I R 100/10]
+ 4. § 5 Abs. 2a EStG: [greift/greift nicht — Begruendung]
+ Zwischenergebnis: [passivierungspflichtig/nicht]
 
 II. Phase 2 — Hoehe
-   1. Nennwert nach § 6 Abs. 1 Nr. 3 EStG / § 12 Abs. 1 BewG
-   2. Streitstand wirtschaftliche Belastung in Liquidation
-   3. Heranziehung FG Koeln 13 K 3006/11 / BFH I R 34/12
-   Zwischenergebnis: [Hoehe der Passivierung]
+ 1. Nennwert nach § 6 Abs. 1 Nr. 3 EStG / § 12 Abs. 1 BewG
+ 2. Streitstand wirtschaftliche Belastung in Liquidation
+ 3. Heranziehung FG Koeln 13 K 3006/11 / BFH I R 34/12
+ Zwischenergebnis: [Hoehe der Passivierung]
 
 III. Phase 3 — Wegfall mit Erloeschen
-   1. Loeschungsfahigkeit (§ 74 GmbHG)
-   2. Rechtstheoretischer Gewinn
-   3. Steuersubjektivitaet im Loeschungszeitpunkt
-   Ergebnis: [steuerpflichtig ja/nein]
+ 1. Loeschungsfahigkeit (§ 74 GmbHG)
+ 2. Rechtstheoretischer Gewinn
+ 3. Steuersubjektivitaet im Loeschungszeitpunkt
+ Ergebnis: [steuerpflichtig ja/nein]
 
 IV. Empfehlung
-   - Verbindliche Auskunft § 89 AO
-   - Wortlautpruefung Rangruecktritt
-   - Loeschungsverfahren mit FA abstimmen
-   - Mindestbesteuerung / Definitiveffekt — Einspruch ruhend
+ - Verbindliche Auskunft § 89 AO
+ - Wortlautpruefung Rangruecktritt
+ - Loeschungsverfahren mit FA abstimmen
+ - Mindestbesteuerung / Definitiveffekt — Einspruch ruhend
 ```
 
 ### 8.2 Verbindliche Auskunft § 89 AO — Antragsskizze
@@ -500,30 +500,30 @@ Sachverhalt:
 
 Steuerliche Fragen:
 1. Ist das Gesellschafterdarlehen i.H.v. EUR [...] in der
-   Liquidationsbilanz zum [Stichtag] weiterhin zu passivieren?
+ Liquidationsbilanz zum [Stichtag] weiterhin zu passivieren?
 2. Falls ja: Bleibt die Passivierung bis zum Loeschungs-
-   zeitpunkt im Handelsregister bestehen?
+ zeitpunkt im Handelsregister bestehen?
 3. Falls die Verbindlichkeit mit Loeschung untergeht: Ist
-   der dadurch rechtstheoretisch entstehende Gewinn mangels
-   Koerperschaftsteuersubjekt nicht festsetzbar?
+ der dadurch rechtstheoretisch entstehende Gewinn mangels
+ Koerperschaftsteuersubjekt nicht festsetzbar?
 4. Falls Hilfsweise vor Loeschung Sanierungsertrag entsteht:
-   Greift § 3a EStG (Sanierungseignung) — oder ist die
-   Liquidation kein Sanierungsfall?
+ Greift § 3a EStG (Sanierungseignung) — oder ist die
+ Liquidation kein Sanierungsfall?
 
 Rechtsauffassung der Antragstellerin:
-   - § 5 Abs. 2a EStG nicht einschlaegig (Tilgungsvorbehalt
-     aus freiem Vermoegen) — BFH XI R 32/18.
-   - Passivierungspflicht bis Loeschung — FG Koeln 13 K 3006/11
-     (vorgehend zu BFH I R 34/12).
-   - OFD Frankfurt 26.07.2021 — S 2743 A-12-St 523.
-   - Bei Loeschung: Steuerausfall mangels Subjekt.
+ - § 5 Abs. 2a EStG nicht einschlaegig (Tilgungsvorbehalt
+ aus freiem Vermoegen) — BFH XI R 32/18.
+ - Passivierungspflicht bis Loeschung — FG Koeln 13 K 3006/11
+ (vorgehend zu BFH I R 34/12).
+ - OFD Frankfurt 26.07.2021 — S 2743 A-12-St 523.
+ - Bei Loeschung: Steuerausfall mangels Subjekt.
 
 Anlagen:
-   - Aufloesungsbeschluss
-   - Liquidations-Eroeffnungsbilanz
-   - Rangruecktrittsvereinbarung
-   - Glaeubigerliste
-   - Steuerbescheide letzte drei Jahre
+ - Aufloesungsbeschluss
+ - Liquidations-Eroeffnungsbilanz
+ - Rangruecktrittsvereinbarung
+ - Glaeubigerliste
+ - Steuerbescheide letzte drei Jahre
 ```
 
 ## 9. Beispiele aus der Praxis
@@ -678,7 +678,7 @@ Vor jedem Antrag nach § 3a Abs. 4 EStG ist zu prüfen, ob die vorhandenen Verlu
 - **§ 8c KStG, § 8d KStG** — Verlustuntergang bei Anteilseignerwechsel; Verschonungsregel.
 - **§ 7b GewStG** — Gewerbesteuer-Befreiung; mit § 10a S. 1 GewStG analog gekoppelt.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt | Output |
 |---|---|---|
@@ -716,13 +716,13 @@ Vor jedem Antrag nach § 3a Abs. 4 EStG ist zu prüfen, ob die vorhandenen Verlu
 ### Berechnungsbeispiel 1: Verlustvortrag deckt vollständig
 
 ```
-Sanierungsertrag                       EUR 600.000
-KSt-Verlustvortrag                     EUR 900.000
-Gewerbeverlust-Vortrag                 EUR 700.000
+Sanierungsertrag EUR 600.000
+KSt-Verlustvortrag EUR 900.000
+Gewerbeverlust-Vortrag EUR 700.000
 
 Mindestbesteuerung KSt:
-  Sockel 1.000.000 + 60 % (600.000 - 1.000.000) → entfaellt
-  Sanierungsertrag < Sockel; voll nutzbar
+ Sockel 1.000.000 + 60 % (600.000 - 1.000.000) → entfaellt
+ Sanierungsertrag < Sockel; voll nutzbar
 
 ► Verbrauch KSt 600.000 (Verlustvortrag verbleibt 300.000)
 ► Verbrauch GewSt 600.000 (Vortrag verbleibt 100.000)
@@ -733,16 +733,16 @@ Mindestbesteuerung KSt:
 ### Berechnungsbeispiel 2: Verlustvortrag deckt teilweise
 
 ```
-Sanierungsertrag                       EUR 2.500.000
-KSt-Verlustvortrag                     EUR 1.500.000
+Sanierungsertrag EUR 2.500.000
+KSt-Verlustvortrag EUR 1.500.000
 
 Mindestbesteuerung KSt:
-  Sockel 1.000.000 + 60 % (2.500.000 - 1.000.000) = 1.900.000
-  maximal nutzbarer Vortrag             EUR 1.500.000 (limitiert durch Vortrag selbst)
+ Sockel 1.000.000 + 60 % (2.500.000 - 1.000.000) = 1.900.000
+ maximal nutzbarer Vortrag EUR 1.500.000 (limitiert durch Vortrag selbst)
 
-  ► Sanierungsertrag 2.500.000
-  ► nutzbarer Vortrag 1.500.000
-  ► verbleibend steuerpflichtig 1.000.000
+ ► Sanierungsertrag 2.500.000
+ ► nutzbarer Vortrag 1.500.000
+ ► verbleibend steuerpflichtig 1.000.000
 
 ► Antrag § 3a IV EStG: erforderlich für 1.000.000
 ► Verlustvortrag wird voll verbraucht
@@ -752,12 +752,12 @@ Mindestbesteuerung KSt:
 
 ```
 Anteilseignerwechsel 60 % im Februar Jahr X
-  ► Verlustvortrag KSt geht unter (§ 8c KStG)
-  ► sofern nicht § 8d KStG-Antrag in Steuererklärung Jahr X gestellt
+ ► Verlustvortrag KSt geht unter (§ 8c KStG)
+ ► sofern nicht § 8d KStG-Antrag in Steuererklärung Jahr X gestellt
 
 Sanierungsforderungsverzicht im November Jahr X
-  ► Sanierungsertrag voll steuerpflichtig
-  ► Antrag § 3a IV EStG zwingend
+ ► Sanierungsertrag voll steuerpflichtig
+ ► Antrag § 3a IV EStG zwingend
 
 Lehre: Vor Sanierung § 8d KStG-Antrag sichern.
 ```
@@ -805,7 +805,7 @@ Lehre: Vor Sanierung § 8d KStG-Antrag sichern.
 - **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
 - **OFD Frankfurt a. M., Rundverfügung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
 
-### Querverweis Liquidations-Spezial-Skill
+### Querverweis Liquidations-Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse: bei Liquidation Wegfall der Verbindlichkeit mit Erloeschen mangels Steuersubjekt (FG Köln 13 K 3006/11), wodurch der Definitiveffekt sich nicht materialisiert.
 
@@ -882,29 +882,29 @@ Erzeuge eine Tabelle `Thema / amtlicher Anker / Mandantenrisiko / Pflicht / To-d
 ## Prüfschema
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ```
 1. Prüfungsanordnung § 196 AO
-   - Schriftform, Bestimmtheit, Ermessen, Frist.
-   - Anfechtung mit Einspruch § 347 AO + AdV § 361 AO?
-   - Prüfungsumfang zulässig (§ 193 AO Kreis der Prüfungspflichtigen)?
+ - Schriftform, Bestimmtheit, Ermessen, Frist.
+ - Anfechtung mit Einspruch § 347 AO + AdV § 361 AO?
+ - Prüfungsumfang zulässig (§ 193 AO Kreis der Prüfungspflichtigen)?
 2. Vorgespräch mit Prüfer
-   - Prüfungsumfang, Räumlichkeiten, Datenträger nach § 147 Abs. 6 AO.
+ - Prüfungsumfang, Räumlichkeiten, Datenträger nach § 147 Abs. 6 AO.
 3. Mitwirkung § 200 AO
-   - Datenzugriff Z1/Z2/Z3 nach GoBD.
-   - Auskunftsverweigerungsrechte §§ 102 103 AO?
-   - Trennung Steuer- und Strafverfahren § 393 AO.
+ - Datenzugriff Z1/Z2/Z3 nach GoBD.
+ - Auskunftsverweigerungsrechte §§ 102 103 AO?
+ - Trennung Steuer- und Strafverfahren § 393 AO.
 4. Zwischenstand
-   - Prüfungsfeststellungen schriftlich anfordern; Stellungnahme einreichen.
+ - Prüfungsfeststellungen schriftlich anfordern; Stellungnahme einreichen.
 5. Schlussbesprechung § 201 AO
-   - Strittige Punkte protokollieren; Verständigung dokumentieren.
+ - Strittige Punkte protokollieren; Verständigung dokumentieren.
 6. Prüfungsbericht § 202 AO
-   - Stellungnahme abgeben; ggf. Anhörung beantragen.
+ - Stellungnahme abgeben; ggf. Anhörung beantragen.
 7. Geänderter Bescheid
-   - Einspruch § 347 AO + AdV § 361 AO (Skill `anw-einspruch-finanzamt`).
+ - Einspruch § 347 AO + AdV § 361 AO (Skill `anw-einspruch-finanzamt`).
 8. Verbindliche Zusage § 204 AO
-   - Beantragen, wenn dauerhafte Klärung erforderlich.
+ - Beantragen, wenn dauerhafte Klärung erforderlich.
 ```
 
 ## Phasen der Prüfungsbegleitung
@@ -991,11 +991,11 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 [Briefkopf]
 
 An das Finanzamt [Ort]
-Außenprüfungsstelle, z. Hd. Herrn/Frau [Prüfer]                  [Ort, Datum]
+Außenprüfungsstelle, z. Hd. Herrn/Frau [Prüfer] [Ort, Datum]
 
 Steuernummer: [SteuerNr]
-Prüfung:      [Bezeichnung Prüfungsanordnung]
-Az.:          [Aktenzeichen Außenprüfung]
+Prüfung: [Bezeichnung Prüfungsanordnung]
+Az.: [Aktenzeichen Außenprüfung]
 
 Stellungnahme zur Schlussbesprechung am [Datum]
 
@@ -1004,14 +1004,14 @@ Sehr geehrte/r Frau/Herr [Prüfer],
 namens und in Vollmacht der [Mandantin] nehmen wir zu den Prüfungsfeststellungen wie folgt Stellung.
 
 1. Feststellung "[Bezeichnung]"
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Antrag: Diese Feststellung wird nicht in den Prüfungsbericht aufgenommen.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Antrag: Diese Feststellung wird nicht in den Prüfungsbericht aufgenommen.
 
 2. Feststellung "[Bezeichnung]"
-   Wir treten der Feststellung sachlich nicht entgegen, regen jedoch eine Anpassung der Bemessungsgrundlage an, weil […].
+ Wir treten der Feststellung sachlich nicht entgegen, regen jedoch eine Anpassung der Bemessungsgrundlage an, weil […].
 
 3. Verbindliche Zusage § 204 AO
-   Hinsichtlich der zukünftigen Behandlung von [Sachverhalt] wird hilfsweise eine verbindliche Zusage beantragt.
+ Hinsichtlich der zukünftigen Behandlung von [Sachverhalt] wird hilfsweise eine verbindliche Zusage beantragt.
 
 Mit freundlichen Grüßen
 [Anwalt, Fachanwalt für Steuerrecht]
@@ -1069,7 +1069,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 6. `anw-betriebsausgaben-werbungskosten-pruefraster`
 
-**Fokus:** Workflow-Skill zu anw betriebsausgaben werbungskosten pruefraster. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu anw betriebsausgaben werbungskosten pruefraster: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Betriebsausgaben Werbungskosten — Prüfraster
 
@@ -1361,7 +1361,7 @@ Anwaltliche Beratung zu den EU-Meldepflichten der Plattformbetreiber (DAC7) und 
 - BMF-Schreiben vom 28.4.2023 zur Anwendung PStTG (Plattform).
 - BMF-Schreiben vom 22.11.2024 zur Anwendung KryptoStG (Krypto, voraussichtlich 1. Quartal 2026 Aktualisierung).
 
-## I. DAC7 — Workflow Plattformbetreiber
+## I. DAC7 — Plattformbetreiber
 
 ### Phase 1 — Anbieter-Erfassung
 
@@ -1385,16 +1385,16 @@ Anwaltliche Beratung zu den EU-Meldepflichten der Plattformbetreiber (DAC7) und 
 - Bußgeldverfahren BZSt (§ 13 PStTG); bis 50 000 EUR.
 - Strafrechtliche Konsequenzen bei vorsätzlicher Falschmeldung (§ 370 AO denkbar, wenn eigene Steuerverkürzung beihilft).
 
-## II. DAC7 — Workflow Anbieter auf der Plattform
+## II. DAC7 — Anbieter auf der Plattform
 
 - Anbieter ist nicht selbst meldepflichtig, aber muss:
-  - **Identifikatorische Daten** auf Anfrage der Plattform liefern (Steuer-ID, USt-IdNr. etc.).
-  - **Steuererklärung** vollständig abgeben — die DAC7-Meldungen werden automatisch an das Wohnsitz-FA übermittelt.
+ - **Identifikatorische Daten** auf Anfrage der Plattform liefern (Steuer-ID, USt-IdNr. etc.).
+ - **Steuererklärung** vollständig abgeben — die DAC7-Meldungen werden automatisch an das Wohnsitz-FA übermittelt.
 - **Strafrechtliches Risiko** für Anbieter, die bisher nicht erklärt haben:
-  - Selbstanzeige § 371 AO möglich (`anw-selbstanzeige-371`), **bevor** das FA über DAC7-Daten verfügt.
-  - Sperrwirkung tritt mit FA-Kenntnis ein.
+ - Selbstanzeige § 371 AO möglich (`anw-selbstanzeige-371`), **bevor** das FA über DAC7-Daten verfügt.
+ - Sperrwirkung tritt mit FA-Kenntnis ein.
 
-## III. DAC8 — Workflow Krypto-Dienstleister
+## III. DAC8 — Krypto-Dienstleister
 
 ### Phase 1 — Nutzer-Erfassung (Customer Due Diligence)
 
@@ -1415,7 +1415,7 @@ Erfasste Transaktionen je Nutzer pro Kalenderjahr:
 - An BZSt; Format XML.
 - Erstmeldung bis **31.1.2027** für Kalenderjahr 2026.
 
-## IV. DAC8 — Workflow Krypto-Inhaber
+## IV. DAC8 — Krypto-Inhaber
 
 - Krypto-Inhaber müssen Gewinne aus Krypto-Veräußerungen versteuern (§ 22 Nr. 2 i.V.m. § 23 EStG — privates Veräußerungsgeschäft; Spekulationsfrist 1 Jahr).
 - Mit DAC8-Daten kann das FA **rückwirkend** prüfen.

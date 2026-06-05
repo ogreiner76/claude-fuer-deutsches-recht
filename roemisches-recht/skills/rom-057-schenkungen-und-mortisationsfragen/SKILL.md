@@ -1,6 +1,6 @@
 ---
 name: rom-057-schenkungen-und-mortisationsfragen
-description: "Römisches Recht: Schenkungen Und Mortisationsfragen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Schenkungen Und Mortisationsfragen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Schenkungen Und Mortisationsfragen

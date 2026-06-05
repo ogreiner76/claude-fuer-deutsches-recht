@@ -1,13 +1,13 @@
 ---
 name: oew-inhouse-vergabe-konzession-auftrag
-description: "Nutze dies, wenn Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt prüfen.; Erstelle eine Arbeitsfassung zu Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oew 006 Inhouse Vergabe Prüfen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

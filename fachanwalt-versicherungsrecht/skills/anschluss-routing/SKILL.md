@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Nutze dies, wenn Anschluss-Routing im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Fachanwalt Versicherungsrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Anschluss-Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Versicherungsrecht** ein Fall n
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `cyber-loesegeld-versr-cyber-deckungsanfrage` — Cyber Loesegeld Versr Cyber Deckungsanfrage
 - `deckungsklage-interessen-deckungspruefung-obliegenheiten` — Deckungsklage Interessen Deckungspruefung Obliegenheiten
 - `do-deckungsabwehr-lebensversicherung-rueckkauf` — Do Deckungsabwehr Lebensversicherung Rueckkauf
@@ -20,7 +20,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Versicherungsrecht** ein Fall n
 - `klage-versicherer-triage-versicherungsrecht-schriftsatzkern` — Klage Versicherer Triage Versicherungsrecht Schriftsatzkern
 - `lebens-leistungsablehnung-international-obliegenheitsverletzung` — Lebens Leistungsablehnung International Obliegenheitsverletzung
 - `ombudsmann-gdv-orientierung-regress-abwehr` — Ombudsmann Gdv Orientierung Regress Abwehr
-- `private-spezial-pruefen-rechtsschutz-beweislast` — Private Spezial Prüfen Rechtsschutz Beweislast
+- `private-spezial-pruefen-rechtsschutz-beweislast` — Private Prüfen Rechtsschutz Beweislast
 - `rentenversicherung-sachversicherung-schnittstelle` — Rentenversicherung Sachversicherung Schnittstelle
 - `themen-fristennotiz-versr-rechtsschutz-versr` — Themen Fristennotiz Versr Rechtsschutz Versr
 - `versicherungsrecht-vergleichsverhandlung-strategie-versr-bafin` — Versicherungsrecht Vergleichsverhandlung Strategie Versr Bafin
@@ -29,7 +29,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Versicherungsrecht** ein Fall n
 ## Arbeitsweg
 
 - Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Spezialpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
+- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
 - Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
 - Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
 

@@ -1,25 +1,25 @@
 ---
 name: hgr-dis-gesellschaftsrecht-token-fristennotiz
-description: "Nutze dies, wenn Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Hgr Dis Schiedsverfahren Streit, Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Token Fristennotiz Und Naechster Schritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt
+# Fachanwalt Hgr Dis Schiedsverfahren Streit, Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Token Fristennotiz Und Naechster Schritt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Hgr Dis Schiedsverfahren Streit, Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Token Fristennotiz Und Naechster Schritt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-hgr-dis-schiedsverfahren-streit` | Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen. DIS-Schiedsverfahren Gesellschafterstreit. Prüfraster: DIS-Schiedsordnung ICC HGB GmbH-Streit Squeeze-out-Verhandlung § 327a AktG M&A Earn-Out-Streitigkeiten DIS Expedited Rules. Output: Strategie-Memo Schiedsverfahren und Einleitungskorrespondenz. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Staatsgericht-Klage) und vergleichsverhandlung-strategie. |
-| `spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit` | Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-token-fristennotiz-und-naechster-schritt` | Token: Fristennotiz und nächster Schritt im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit` | Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-token-fristennotiz-und-naechster-schritt` | Token: Fristennotiz und nächster Schritt im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Fachanwalt Hgr Dis Schiedsverfahren Streit, Spezial Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Spezial Token Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Hgr Dis Schiedsverfahren Streit, Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Token Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -58,10 +58,10 @@ Gesellschafterkonflikte (GmbH, AG, KG) lösen sich oft im Schiedsverfahren — D
 - **DIS Ergaenzende Regeln fuer beschleunigte Schiedsverfahren** und DIS-Mediationsordnung 2020: https://www.disarb.org/werkzeuge-und-tools/dis-regelwerke
 - **DIS-ERGeS** (Ergaenzende Regeln fuer gesellschaftsrechtliche Streitigkeiten 2018) — wichtig fuer Beschlussmaengelstreite in der Schiedsklausel.
 - BGH-Linie zur Schiedsfaehigkeit von Beschlussmaengelstreitigkeiten (vor Verwendung gegen offene Quelle pruefen):
-  - "Schiedsfaehigkeit II" — BGH, Urt. v. 06.04.2009 — II ZR 255/08 (GmbH; Mindestanforderungen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.04.2009&Aktenzeichen=II+ZR+255/08
-  - "Schiedsfaehigkeit III" — BGH, Beschl. v. 06.04.2017 — I ZB 23/16: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=I+ZB+23/16
-  - "Schiedsfaehigkeit IV" — BGH, Beschl. v. 23.09.2021 — I ZB 13/21 (Personenhandelsgesellschaft, Anpassungsbedarf Schiedsklauseln): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.09.2021&Aktenzeichen=I+ZB+13/21
-  - Folge: nach MoPeG/Beschlussmaengelrecht §§ 110 ff. HGB n.F. ggf. Anpassung von Schiedsklauseln in Personengesellschaftsvertraegen erforderlich.
+ - "Schiedsfaehigkeit II" — BGH, Urt. v. 06.04.2009 — II ZR 255/08 (GmbH; Mindestanforderungen): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.04.2009&Aktenzeichen=II+ZR+255/08
+ - "Schiedsfaehigkeit III" — BGH, Beschl. v. 06.04.2017 — I ZB 23/16: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Aktenzeichen=I+ZB+23/16
+ - "Schiedsfaehigkeit IV" — BGH, Beschl. v. 23.09.2021 — I ZB 13/21 (Personenhandelsgesellschaft, Anpassungsbedarf Schiedsklauseln): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.09.2021&Aktenzeichen=I+ZB+13/21
+ - Folge: nach MoPeG/Beschlussmaengelrecht §§ 110 ff. HGB n.F. ggf. Anpassung von Schiedsklauseln in Personengesellschaftsvertraegen erforderlich.
 - **ICC Rules 2021** (in Kraft seit 01.01.2021): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
 - **§ 47 GmbHG** — Beschlussanfechtung (Frist 1 Monat): https://www.gesetze-im-internet.de/gmbhg/__47.html
 - **§§ 110-115 HGB n.F. (MoPeG, in Kraft 01.01.2024)** — Beschlussmaengelrecht Personengesellschaften: https://www.gesetze-im-internet.de/hgb/__110.html
@@ -183,7 +183,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit`
 
-**Fokus:** Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -197,7 +197,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 
 ## Spezialwissen: Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg / spezial gesellschaftsrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg / gesellschaftsrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -233,7 +233,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-token-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Token: Fristennotiz und nächster Schritt im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Token: Fristennotiz und nächster Schritt im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Token: Fristennotiz und nächster Schritt
 
@@ -247,7 +247,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Token: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Token: Fristennotiz und nächster Schritt / spezial token fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Token: Fristennotiz und nächster Schritt / token fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

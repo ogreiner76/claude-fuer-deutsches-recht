@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-fehlerkatalog
-description: "Nutze dies, wenn Rechtsquellen Fehlerkatalog im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen Fehlerkatalog: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen Fehlerkatalog

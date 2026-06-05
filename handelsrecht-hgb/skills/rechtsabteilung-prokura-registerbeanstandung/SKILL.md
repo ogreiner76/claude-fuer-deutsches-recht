@@ -1,19 +1,19 @@
 ---
 name: rechtsabteilung-prokura-registerbeanstandung
-description: "Nutze dies, wenn Rechtsabteilung Prokura Und Grundstuecksgeschaeft, Registerbeanstandung Und Beschwerde im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Prokura Und Grundstuecksgeschaeft, Registerbeanstandung Und Beschwerde prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Prokura Und Grundstuecksgeschaeft, Registerbeanstandung Und Beschwerde.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Prokura Und Grundstuecksgeschaeft, Registerbeanstandung Und Beschwerde: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Prokura Und Grundstuecksgeschaeft, Registerbeanstandung Und Beschwerde
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Prokura Und Grundstuecksgeschaeft, Registerbeanstandung Und Beschwerde** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-prokura-und-grundstuecksgeschaeft` | Rechtsabteilungs-Spezialskill für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-prokura-und-grundstuecksgeschaeft` | Rechtsabteilungs-Fachmodul für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `registerbeanstandung-und-beschwerde` | Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Rechtsabteilung Prokura Und Grundstuecksgeschaeft, Registerbeanstandung U
 
 ## 1. `rechtsabteilung-prokura-und-grundstuecksgeschaeft`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Prokura und Grundstücksgeschäft
 

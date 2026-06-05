@@ -1,13 +1,13 @@
 ---
 name: landwirtschaftliche-02
-description: "Nutze dies, wenn Ein 086 Landwirtschaftliche Flaeche Grundbuch, Ein 087 Landwirtschaftliche Flaeche Behoerdenb, Ein 088 Landwirtschaftliche Flaeche Widerspruc, Ein 089 Landwirtschaftliche Flaeche Klage Skiz im Plugin Einigungsvertrag Vermoegensrecht konkret bearbeitet werden soll. Auslöser: Bitte Ein 086 Landwirtschaftliche Flaeche Grundbuch, Ein 087 Landwirtschaftliche Flaeche Behoerdenb, Ein 088 Landwirtschaftliche Flaeche Widerspruc, Ein 089 Landwirtschaftliche Flaeche Klage Skiz prüfen.; Erstelle eine Arbeitsfassung zu Ein 086 Landwirtschaftliche Flaeche Grundbuch, Ein 087 Landwirtschaftliche Flaeche Behoerdenb, Ein 088 Landwirtschaftliche Flaeche Widerspruc, Ein 089 Landwirtschaftliche Flaeche Klage Skiz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ein 086 Landwirtschaftliche Flaeche Grundbuch, Ein 087 Landwirtschaftliche Flaeche Behoerdenb, Ein 088 Landwirtschaftliche Flaeche Widerspruc, Ein 089 Landwirtschaftliche Flaeche Klage Skiz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ein 086 Landwirtschaftliche Flaeche Grundbuch, Ein 087 Landwirtschaftliche Flaeche Behoerdenb, Ein 088 Landwirtschaftliche Flaeche Widerspruc, Ein 089 Landwirtschaftliche Flaeche Klage Skiz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ein 086 Landwirtschaftliche Flaeche Grundbuch, Ein 087 Landwirtschaftliche Flaeche Behoerdenb, Ein 088 Landwirtschaftliche Flaeche Widerspruc, Ein 089 Landwirtschaftliche Flaeche Klage Skiz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: verein-dokumentenpaket-politik-social-media
-description: "Nutze dies, wenn Verein Dokumentenpaket, Verein Und Politik, Verein Und Social Media im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Verein Dokumentenpaket, Verein Und Politik, Verein Und Social Media: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verein Dokumentenpaket, Verein Und Politik, Verein Und Social Media
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verein Dokumentenpaket, Verein Und Politik, Verein Und Social Media** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Verein Dokumentenpaket, Verein Und Politik, Verein Und Social Media** zue
 ## Aufgabe
 Baut aus Auftrag komplette Dokumente: Einladung, Tagesordnung, Beschluss, Protokoll, Rundbrief und Anlagenliste.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Warnt bei politischer Betätigung, Gemeinnützigkeit, Neutralität, Veranstaltungen und Parteispendennähe.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Regelt Impressum, Bildrechte, Datenschutz, Adminrechte, Krisenpost und Löschung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

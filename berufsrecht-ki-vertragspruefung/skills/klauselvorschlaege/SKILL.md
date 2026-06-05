@@ -134,18 +134,18 @@ Anbieter: [NAME] | Produkt: [PRODUKT]
 
 Anforderung: Aufnahme folgender Klauseln bis [FRIST]:
 
-Nr. | Baustein                    | Status       | Anbieter-Antwort
+Nr. | Baustein | Status | Anbieter-Antwort
 ----|-----------------------------|--------------|------------------
- 1  | Verschwiegenheit            | offen        |
- 2  | Strafrechtl. Belehrung      | offen        |
- 3  | Erforderlichkeitsschwelle   | offen        |
- 4  | Subunternehmer-Vorbehalt    | offen        |
- 5  | No training                 | [vorhanden/offen] |
- 6  | Zero Retention              | offen        |
- 7  | EU-Hosting                  | offen        |
- 9  | Audit-Recht / ISO 27001     | offen        |
-10  | Loeschkonzept               | offen        |
-13  | Prof. Secrecy Addendum (US) | entfaellt/offen |
+ 1 | Verschwiegenheit | offen |
+ 2 | Strafrechtl. Belehrung | offen |
+ 3 | Erforderlichkeitsschwelle | offen |
+ 4 | Subunternehmer-Vorbehalt | offen |
+ 5 | No training | [vorhanden/offen] |
+ 6 | Zero Retention | offen |
+ 7 | EU-Hosting | offen |
+ 9 | Audit-Recht / ISO 27001 | offen |
+10 | Loeschkonzept | offen |
+13 | Prof. Secrecy Addendum (US) | entfaellt/offen |
 
 Bei Nichtunterzeichnung bis [FRIST]: Vertragskuendigung zum [DATUM].
 ```

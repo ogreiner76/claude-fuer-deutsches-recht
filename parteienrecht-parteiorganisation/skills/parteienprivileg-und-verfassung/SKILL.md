@@ -8,7 +8,7 @@ description: "Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatlic
 ## Aufgabe
 Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

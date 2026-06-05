@@ -1,13 +1,13 @@
 ---
 name: ag-vorbereitung-examens-prognose
-description: "Nutze dies, wenn Ag Vorbereitung, Examens Prognose, Examensvorbereitung Fragen im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Ag Vorbereitung, Examens Prognose, Examensvorbereitung Fragen prüfen.; Erstelle eine Arbeitsfassung zu Ag Vorbereitung, Examens Prognose, Examensvorbereitung Fragen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ag Vorbereitung, Examens Prognose, Examensvorbereitung Fragen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ag Vorbereitung, Examens Prognose, Examensvorbereitung Fragen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ag Vorbereitung, Examens Prognose, Examensvorbereitung Fragen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -459,15 +459,15 @@ Prüfe alle in Betracht kommenden Ansprüche des A gegen B.
 A. Ansprüche des A gegen B
 
 I. Anspruch aus § 433 Abs. 2 BGB
-   Obersatz: A könnte gegen B einen Anspruch auf Kaufpreiszahlung
-   gemäß § 433 Abs. 2 BGB haben.
-   Voraussetzungen: wirksamer Kaufvertrag, Fälligkeit, kein Einrederecht.
-   Definition Kaufvertrag: …
-   Subsumtion: …
-   Ergebnis: Der Anspruch besteht / besteht nicht.
+ Obersatz: A könnte gegen B einen Anspruch auf Kaufpreiszahlung
+ gemäß § 433 Abs. 2 BGB haben.
+ Voraussetzungen: wirksamer Kaufvertrag, Fälligkeit, kein Einrederecht.
+ Definition Kaufvertrag: …
+ Subsumtion: …
+ Ergebnis: Der Anspruch besteht / besteht nicht.
 
 II. Anspruch aus § 280 Abs. 1 BGB
-   Obersatz: …
+ Obersatz: …
 
 **Literaturnachweise:**
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

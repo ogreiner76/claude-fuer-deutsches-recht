@@ -1,13 +1,13 @@
 ---
 name: aufloesung-liquidation-beschlussvorlagen
-description: "Nutze dies, wenn Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Bitte Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste prüfen.; Erstelle eine Arbeitsfassung zu Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste** 
 ## Aufgabe
 Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -125,7 +125,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Formuliert rechtssichere Beschlussvorschläge für Versammlung, Vorstand oder Ausschuss.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -166,7 +166,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Regelt Mitgliederverwaltung, Verteiler, Fotos, WhatsApp-Gruppen, Cloud, Einwilligung und Löschung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,13 +1,13 @@
 ---
 name: integrierte-planung-kennzahlenset-ampelsystem
-description: "Nutze dies, wenn Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -67,9 +67,9 @@ Bilanz → Veränderung Working Capital ist Cashflow-Treiber
 Cashflow → Endbestand ist Kassenposition in der Bilanz
 
 KONTROLLFORMEL:
-  Kassenbestand (Bilanz) = Kassenbestand Vorjahr + Cashflow aus lfd. Geschäft
-                           + Cashflow aus Investitionstätigkeit
-                           + Cashflow aus Finanzierungstätigkeit
+ Kassenbestand (Bilanz) = Kassenbestand Vorjahr + Cashflow aus lfd. Geschäft
+ + Cashflow aus Investitionstätigkeit
+ + Cashflow aus Finanzierungstätigkeit
 ```
 
 ---
@@ -106,15 +106,15 @@ Das Working Capital ist die kritische Brücke zwischen GuV und Cashflow:
 WORKING CAPITAL = Vorräte + Forderungen L&L - Verbindlichkeiten L&L
 
 Modellierung über Umschlagstage:
-  Vorräte (DIO)       = (Vorräte / Umsatz) × 365 Tage
-  Forderungen (DSO)   = (Forderungen L&L / Umsatz) × 365 Tage
-  Verbindlichkeiten (DPO) = (Verb. L&L / Wareneinsatz) × 365 Tage
+ Vorräte (DIO) = (Vorräte / Umsatz) × 365 Tage
+ Forderungen (DSO) = (Forderungen L&L / Umsatz) × 365 Tage
+ Verbindlichkeiten (DPO) = (Verb. L&L / Wareneinsatz) × 365 Tage
 
-  Net Working Capital Days = DIO + DSO - DPO
+ Net Working Capital Days = DIO + DSO - DPO
 
-  Veränderung Working Capital = WC(t) - WC(t-1)
-  → Zunahme WC: Cashflow negativ (Liquiditätsbindung)
-  → Abnahme WC: Cashflow positiv (Liquiditätsfreisetzung)
+ Veränderung Working Capital = WC(t) - WC(t-1)
+ → Zunahme WC: Cashflow negativ (Liquiditätsbindung)
+ → Abnahme WC: Cashflow positiv (Liquiditätsfreisetzung)
 ```
 
 ### Schritt 3: Bilanzplanung
@@ -137,25 +137,25 @@ Bilanzpositionen aus GuV und Working-Capital-Modell ableiten:
 
 ```
 CASHFLOW AUS LAUFENDER GESCHÄFTSTÄTIGKEIT
-  Jahresergebnis
-  + Abschreibungen
-  +/- Veränderung Vorräte
-  +/- Veränderung Forderungen L&L
-  +/- Veränderung Verbindlichkeiten L&L
-  +/- Veränderung sonstige Aktiva/Passiva
-  = CFO (Cash Flow from Operations)
+ Jahresergebnis
+ + Abschreibungen
+ +/- Veränderung Vorräte
+ +/- Veränderung Forderungen L&L
+ +/- Veränderung Verbindlichkeiten L&L
+ +/- Veränderung sonstige Aktiva/Passiva
+ = CFO (Cash Flow from Operations)
 
 CASHFLOW AUS INVESTITIONSTÄTIGKEIT
-  - Investitionen in Sachanlagen (CAPEX)
-  + Erlöse aus Anlagenverkäufen
-  = CFI (Cash Flow from Investing)
+ - Investitionen in Sachanlagen (CAPEX)
+ + Erlöse aus Anlagenverkäufen
+ = CFI (Cash Flow from Investing)
 
 CASHFLOW AUS FINANZIERUNGSTÄTIGKEIT
-  + Kreditaufnahmen
-  - Kredittilgungen
-  - Zinszahlungen (alternativ: unter CFO)
-  - Dividenden/Ausschüttungen
-  = CFF (Cash Flow from Financing)
+ + Kreditaufnahmen
+ - Kredittilgungen
+ - Zinszahlungen (alternativ: unter CFO)
+ - Dividenden/Ausschüttungen
+ = CFF (Cash Flow from Financing)
 
 FREE CASH FLOW = CFO + CFI
 NETTO-CASH-CHANGE = CFO + CFI + CFF
@@ -197,25 +197,25 @@ Basisjahr: [JJJJ]
 Planperiode: [JJJJ+1] bis [JJJJ+2]
 
 GuV-TREIBER
-  Umsatzwachstum p.a.:       Base [x%] / Bear [-x%]
-  Materialkostenquote:        [x%] des Umsatzes
-  Personalkostensteigerung:   [x%] p.a. (Tariferhöhung + Headcount)
-  Abschreibungsquote:         [x% auf Anlagevermögen Ø]
-  Effektivzinssatz:           [x%] auf Ø Bankverbindlichkeiten
+ Umsatzwachstum p.a.: Base [x%] / Bear [-x%]
+ Materialkostenquote: [x%] des Umsatzes
+ Personalkostensteigerung: [x%] p.a. (Tariferhöhung + Headcount)
+ Abschreibungsquote: [x% auf Anlagevermögen Ø]
+ Effektivzinssatz: [x%] auf Ø Bankverbindlichkeiten
 
 WORKING CAPITAL
-  DIO (Vorräte):              [x] Tage
-  DSO (Forderungen):          [x] Tage
-  DPO (Verbindlichkeiten):    [x] Tage
+ DIO (Vorräte): [x] Tage
+ DSO (Forderungen): [x] Tage
+ DPO (Verbindlichkeiten): [x] Tage
 
 INVESTITIONEN
-  Erhaltungs-CAPEX:           EUR [x] p.a.
-  Wachstums-CAPEX:            EUR [x] (einmalig in [JJJJ])
+ Erhaltungs-CAPEX: EUR [x] p.a.
+ Wachstums-CAPEX: EUR [x] (einmalig in [JJJJ])
 
 FINANZIERUNG
-  Tilgung Bankkredit:         EUR [x] p.a.
-  Neue Kreditaufnahme:        EUR [x] in [JJJJ]
-  Ausschüttung:               EUR [x] (oder: keine Ausschüttung in der Planperiode)
+ Tilgung Bankkredit: EUR [x] p.a.
+ Neue Kreditaufnahme: EUR [x] in [JJJJ]
+ Ausschüttung: EUR [x] (oder: keine Ausschüttung in der Planperiode)
 ```
 
 ---
@@ -306,76 +306,76 @@ Die folgenden sieben KPIs bilden das Rückgrat des Ampelsystems:
 
 **KPI 1: Liquiditätsreichweite**
 ```
-Definition:  Verfügbare Liquidität (Kasse + freie Kreditlinien) ÷ durchschnittl. monatl. Auszahlungen
-Einheit:     Monate
-Grün:        ≥ 6 Monate
-Gelb:        3 bis < 6 Monate
-Rot:         < 3 Monate
-Bedeutung:   Überleben-Indikator Nr. 1 — wie lange kann das Unternehmen ohne neue Einnahmen zahlen?
+Definition: Verfügbare Liquidität (Kasse + freie Kreditlinien) ÷ durchschnittl. monatl. Auszahlungen
+Einheit: Monate
+Grün: ≥ 6 Monate
+Gelb: 3 bis < 6 Monate
+Rot: < 3 Monate
+Bedeutung: Überleben-Indikator Nr. 1 — wie lange kann das Unternehmen ohne neue Einnahmen zahlen?
 ```
 
 **KPI 2: EBITDA-Coverage (Zinsdeckungsgrad)**
 ```
-Definition:  EBITDA ÷ Zinsaufwand (rolling 12 Monate)
-Einheit:     Faktor (x)
-Grün:        ≥ 3,0x
-Gelb:        1,5x bis < 3,0x
-Rot:         < 1,5x
-Bedeutung:   Kann das Unternehmen aus dem operativen Ergebnis seine Zinsen bedienen?
+Definition: EBITDA ÷ Zinsaufwand (rolling 12 Monate)
+Einheit: Faktor (x)
+Grün: ≥ 3,0x
+Gelb: 1,5x bis < 3,0x
+Rot: < 1,5x
+Bedeutung: Kann das Unternehmen aus dem operativen Ergebnis seine Zinsen bedienen?
 ```
 
 **KPI 3: Net-Debt/EBITDA**
 ```
-Definition:  Nettofinanzverbindlichkeiten ÷ EBITDA (rolling 12 Monate)
-             Nettoverschuldung = Bankschulden + Anleihen - flüssige Mittel
-Einheit:     Faktor (x)
-Grün:        ≤ 3,0x
-Gelb:        3,0x bis 4,5x
-Rot:         > 4,5x
-Bedeutung:   Wie viele Jahre EBITDA braucht das Unternehmen, um schuldenfrei zu werden?
+Definition: Nettofinanzverbindlichkeiten ÷ EBITDA (rolling 12 Monate)
+ Nettoverschuldung = Bankschulden + Anleihen - flüssige Mittel
+Einheit: Faktor (x)
+Grün: ≤ 3,0x
+Gelb: 3,0x bis 4,5x
+Rot: > 4,5x
+Bedeutung: Wie viele Jahre EBITDA braucht das Unternehmen, um schuldenfrei zu werden?
 ```
 
 **KPI 4: Covenant-Headroom**
 ```
-Definition:  Prozentualer Abstand der tatsächlichen Finanzkennzahl zur vertraglich vereinbarten
-             Covenant-Grenze
-             Headroom (%) = (Ist-Wert - Covenant-Grenze) ÷ |Covenant-Grenze| × 100
-Einheit:     Prozent (%)
-Grün:        ≥ 25 %
-Gelb:        10 % bis < 25 %
-Rot:         < 10 % (oder Covenant bereits verletzt)
-Bedeutung:   Verletzung eines Financial Covenants löst typischerweise Kündigungsrecht der Bank aus
+Definition: Prozentualer Abstand der tatsächlichen Finanzkennzahl zur vertraglich vereinbarten
+ Covenant-Grenze
+ Headroom (%) = (Ist-Wert - Covenant-Grenze) ÷ |Covenant-Grenze| × 100
+Einheit: Prozent (%)
+Grün: ≥ 25 %
+Gelb: 10 % bis < 25 %
+Rot: < 10 % (oder Covenant bereits verletzt)
+Bedeutung: Verletzung eines Financial Covenants löst typischerweise Kündigungsrecht der Bank aus
 ```
 
 **KPI 5: DSCR (Debt Service Coverage Ratio)**
 ```
-Definition:  (EBITDA - CAPEX Erhaltung) ÷ (Zinsen + Tilgung, fällig im Planungszeitraum)
-Einheit:     Faktor (x)
-Grün:        ≥ 1,20x
-Gelb:        1,00x bis < 1,20x
-Rot:         < 1,00x (Schuldendienstunfähigkeit)
-Bedeutung:   Kann das Unternehmen Zinsen UND Tilgung aus dem operativen Cashflow bedienen?
+Definition: (EBITDA - CAPEX Erhaltung) ÷ (Zinsen + Tilgung, fällig im Planungszeitraum)
+Einheit: Faktor (x)
+Grün: ≥ 1,20x
+Gelb: 1,00x bis < 1,20x
+Rot: < 1,00x (Schuldendienstunfähigkeit)
+Bedeutung: Kann das Unternehmen Zinsen UND Tilgung aus dem operativen Cashflow bedienen?
 ```
 
 **KPI 6: Eigenkapitalquote**
 ```
-Definition:  Eigenkapital ÷ Bilanzsumme × 100
-Einheit:     Prozent (%)
-Grün:        ≥ 20 %
-Gelb:        10 % bis < 20 %
-Rot:         < 10 % (oder negatives Eigenkapital → Überschuldungsrisiko)
-Bedeutung:   Struktureller Schutzpuffer, insbes. relevant für § 19 InsO Überschuldung
+Definition: Eigenkapital ÷ Bilanzsumme × 100
+Einheit: Prozent (%)
+Grün: ≥ 20 %
+Gelb: 10 % bis < 20 %
+Rot: < 10 % (oder negatives Eigenkapital → Überschuldungsrisiko)
+Bedeutung: Struktureller Schutzpuffer, insbes. relevant für § 19 InsO Überschuldung
 ```
 
 **KPI 7: Cash-Conversion-Rate (CCR)**
 ```
-Definition:  Operativer Cashflow ÷ EBITDA × 100
-Einheit:     Prozent (%)
-Grün:        ≥ 70 %
-Gelb:        40 % bis < 70 %
-Rot:         < 40 %
-Bedeutung:   Wie viel des Ergebnisses wird tatsächlich als Cash realisiert?
-             Niedrige CCR signalisiert Working-Capital-Probleme oder Bilanzrisiken
+Definition: Operativer Cashflow ÷ EBITDA × 100
+Einheit: Prozent (%)
+Grün: ≥ 70 %
+Gelb: 40 % bis < 70 %
+Rot: < 40 %
+Bedeutung: Wie viel des Ergebnisses wird tatsächlich als Cash realisiert?
+ Niedrige CCR signalisiert Working-Capital-Probleme oder Bilanzrisiken
 ```
 
 ---
@@ -387,15 +387,15 @@ Bedeutung:   Wie viel des Ergebnisses wird tatsächlich als Cash realisiert?
 ```
 AMPELTABELLE — [Firma GmbH] — Stand: [MM/JJJJ]
 
-KPI                     | Ist-Wert | Grün       | Gelb           | Rot        | Ampel | Trend
+KPI | Ist-Wert | Grün | Gelb | Rot | Ampel | Trend
 ------------------------|----------|------------|----------------|------------|-------|------
-Liquiditätsreichweite   | [x] Mon. | ≥ 6 Mon.   | 3 bis < 6 Mon. | < 3 Mon.   | [🔴/🟡/🟢] | [↑↓→]
-EBITDA-Coverage         | [x,xx]x  | ≥ 3,0x     | 1,5x bis < 3x  | < 1,5x     | [Amp] | [↑↓→]
-Net-Debt/EBITDA         | [x,xx]x  | ≤ 3,0x     | 3,0x bis 4,5x  | > 4,5x     | [Amp] | [↑↓→]
-Covenant-Headroom       | [x] %    | ≥ 25 %     | 10 % bis < 25% | < 10 %     | [Amp] | [↑↓→]
-DSCR                    | [x,xx]x  | ≥ 1,20x    | 1,0x bis 1,2x  | < 1,0x     | [Amp] | [↑↓→]
-Eigenkapitalquote       | [x] %    | ≥ 20 %     | 10 % bis < 20% | < 10 %     | [Amp] | [↑↓→]
-Cash-Conversion-Rate    | [x] %    | ≥ 70 %     | 40 % bis < 70% | < 40 %     | [Amp] | [↑↓→]
+Liquiditätsreichweite | [x] Mon. | ≥ 6 Mon. | 3 bis < 6 Mon. | < 3 Mon. | [🔴/🟡/🟢] | [↑↓→]
+EBITDA-Coverage | [x,xx]x | ≥ 3,0x | 1,5x bis < 3x | < 1,5x | [Amp] | [↑↓→]
+Net-Debt/EBITDA | [x,xx]x | ≤ 3,0x | 3,0x bis 4,5x | > 4,5x | [Amp] | [↑↓→]
+Covenant-Headroom | [x] % | ≥ 25 % | 10 % bis < 25% | < 10 % | [Amp] | [↑↓→]
+DSCR | [x,xx]x | ≥ 1,20x | 1,0x bis 1,2x | < 1,0x | [Amp] | [↑↓→]
+Eigenkapitalquote | [x] % | ≥ 20 % | 10 % bis < 20% | < 10 % | [Amp] | [↑↓→]
+Cash-Conversion-Rate | [x] % | ≥ 70 % | 40 % bis < 70% | < 40 % | [Amp] | [↑↓→]
 
 Gesamtampel: [ROT / GELB / GRÜN]
 Eskalationsstufe: [1 / 2 / 3]
@@ -406,14 +406,14 @@ Kommentar: [___]
 
 ```
 GESAMTAMPEL-LOGIK:
-  GRÜN:   Alle KPIs im grünen Bereich
-  GELB:   Mind. 1 KPI im gelben Bereich, kein KPI im roten Bereich
-  ROT:    Mind. 1 KPI im roten Bereich
+ GRÜN: Alle KPIs im grünen Bereich
+ GELB: Mind. 1 KPI im gelben Bereich, kein KPI im roten Bereich
+ ROT: Mind. 1 KPI im roten Bereich
 
 ESKALATION:
-  GRÜN:  Routinereporting, monatlich
-  GELB:  Sofortanalyse (5 Werktage), Maßnahmenplan (10 Werktage), Info Gesellschafter (15 Werktage)
-  ROT:   Sofortmaßnahmen (72 Stunden), Berater einschalten, StaRUG prüfen
+ GRÜN: Routinereporting, monatlich
+ GELB: Sofortanalyse (5 Werktage), Maßnahmenplan (10 Werktage), Info Gesellschafter (15 Werktage)
+ ROT: Sofortmaßnahmen (72 Stunden), Berater einschalten, StaRUG prüfen
 ```
 
 ### Schritt 3: Trendanalyse und Prognostik
@@ -438,35 +438,35 @@ Erstellt: [Name, Funktion]
 Freigegeben GF: [Name, Datum]
 
 1. LIQUIDITÄTSREICHWEITE
-   Kassenbestand per Monatsende: EUR [___]
-   Freie Kreditlinien: EUR [___]
-   Verfügbare Liquidität gesamt: EUR [___]
-   Monatl. Ø Auszahlungen (letzte 3 Monate): EUR [___]
-   Reichweite: [x,x] Monate → AMPEL: [GRÜN/GELB/ROT]
+ Kassenbestand per Monatsende: EUR [___]
+ Freie Kreditlinien: EUR [___]
+ Verfügbare Liquidität gesamt: EUR [___]
+ Monatl. Ø Auszahlungen (letzte 3 Monate): EUR [___]
+ Reichweite: [x,x] Monate → AMPEL: [GRÜN/GELB/ROT]
 
 2. EBITDA-COVERAGE
-   EBITDA rolling 12 Monate: EUR [___]
-   Zinsaufwand rolling 12 Monate: EUR [___]
-   EBITDA-Coverage: [x,xx]x → AMPEL: [GRÜN/GELB/ROT]
+ EBITDA rolling 12 Monate: EUR [___]
+ Zinsaufwand rolling 12 Monate: EUR [___]
+ EBITDA-Coverage: [x,xx]x → AMPEL: [GRÜN/GELB/ROT]
 
 3. NET-DEBT/EBITDA
-   Bankschulden + Anleihen: EUR [___]
-   ./. Liquide Mittel: EUR [___]
-   Nettoverschuldung: EUR [___]
-   EBITDA rolling 12 Monate: EUR [___]
-   Net-Debt/EBITDA: [x,xx]x → AMPEL: [GRÜN/GELB/ROT]
+ Bankschulden + Anleihen: EUR [___]
+ ./. Liquide Mittel: EUR [___]
+ Nettoverschuldung: EUR [___]
+ EBITDA rolling 12 Monate: EUR [___]
+ Net-Debt/EBITDA: [x,xx]x → AMPEL: [GRÜN/GELB/ROT]
 
 4. COVENANT-HEADROOM
-   Vereinbarter Covenant: [KPI] ≤ [Wert]
-   Ist-Wert: [Wert]
-   Headroom: [x] % → AMPEL: [GRÜN/GELB/ROT]
+ Vereinbarter Covenant: [KPI] ≤ [Wert]
+ Ist-Wert: [Wert]
+ Headroom: [x] % → AMPEL: [GRÜN/GELB/ROT]
 
 5. DSCR
-   EBITDA: EUR [___]
-   ./. Erhaltungs-CAPEX: EUR [___]
-   Zinsen fällig: EUR [___]
-   Tilgung fällig: EUR [___]
-   DSCR: [x,xx]x → AMPEL: [GRÜN/GELB/ROT]
+ EBITDA: EUR [___]
+ ./. Erhaltungs-CAPEX: EUR [___]
+ Zinsen fällig: EUR [___]
+ Tilgung fällig: EUR [___]
+ DSCR: [x,xx]x → AMPEL: [GRÜN/GELB/ROT]
 
 KOMMENTAR ZU ABWEICHUNGEN:
 [___]

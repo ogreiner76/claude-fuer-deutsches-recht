@@ -1,13 +1,13 @@
 ---
 name: rettungsdienst-schnittstelle
-description: "Nutze dies, wenn Rettungsdienst Schnittstelle Aufnahme Pflicht, Sektorenuebergreifende Versorgung Level Ii Klinik, Strahlenschutz Radiologie Nuklearmedizin im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Rettungsdienst Schnittstelle Aufnahme Pflicht, Sektorenuebergreifende Versorgung Level Ii Klinik, Strahlenschutz Radiologie Nuklearmedizin prüfen.; Erstelle eine Arbeitsfassung zu Rettungsdienst Schnittstelle Aufnahme Pflicht, Sektorenuebergreifende Versorgung Level Ii Klinik, Strahlenschutz Radiologie Nuklearmedizin.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rettungsdienst Schnittstelle Aufnahme Pflicht, Sektorenuebergreifende Versorgung Level Ii Klinik, Strahlenschutz Radiologie Nuklearmedizin: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rettungsdienst Schnittstelle Aufnahme Pflicht, Sektorenuebergreifende Versorgung Level Ii Klinik, Strahlenschutz Radiologie Nuklearmedizin
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rettungsdienst Schnittstelle Aufnahme Pflicht, Sektorenuebergreifende Versorgung Level Ii Klinik, Strahlenschutz Radiologie Nuklearmedizin** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -100,7 +100,7 @@ Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenueber
 - **MVZ-Recht § 95 SGB V** Medizinische Versorgungszentren.
 - **G-BA-Beschluesse** zu sektorenuebergreifenden Versorgungsformen.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Versorgungsmodell entwerfen:** Welche Leistungen ambulant, welche kurzstationaer, welche stationaer?
 2. **Strukturmerkmale pruefen:** Personal (Aerzte/Pflege 24/7 oder erweitert), Geraete, OP, Notfallaufnahme.
 3. **Kooperationsmodelle:** MVZ-Anbindung, Praxen, Telemedizin, Rettungsdienst-Kooperation.

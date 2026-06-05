@@ -1,33 +1,33 @@
 ---
 name: glaeubigerausschuss-fristennotiz
-description: "Nutze dies, wenn Spezial Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Spezial Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Spezial Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Spezial Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3a Iv Antraege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Spezial Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege
+# Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt` | Glaeubigerausschuss: Fristennotiz und nächster Schritt im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-ueberschuldung-fristen-form-und-zustaendigkeit` | Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt` | Glaeubigerausschuss: Fristennotiz und nächster Schritt im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-ueberschuldung-fristen-form-und-zustaendigkeit` | Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `do-versicherung-manager-haftung` | Insolvenzverwalter verklagt Geschäftsführer und D&O-Versicherung soll Deckung prüfen oder Manager fragt nach Versicherungsschutz in der Krise. Prüfraster D&O-Versicherung Claims-made-Prinzip Schadensereignis vs. Anspruchserhebung. Insolvenz-spezifische Pflichten § 15a InsO Antragspflicht § 15b InsO Zahlungsverbot. Deckungs-Ausschluesse wissentliche Pflichtverletzung Vorsatz Selbstbedienung. BGH-Linie zur Insolvenz-Anfechtung Praemien-Zahlung. Output D&O-Deckungs-Memo mit Versicherungs-Lage und Pflichten des Versicherten. Abgrenzung: antragspflicht-15a-inso für die Haftung selbst. |
 | `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` | Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO fuer versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtverletzung vor. Verteidigungsstrategie und Versicherungsdeckung. Mustertext fuer Verteidigungsschriftsatz und fuer praeventive Aktendokumentation. |
 
 ## Arbeitsweg
 
-Für **Spezial Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Spezial Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Für Versaumte 3A Iv Antraege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Glaeubigerausschuss: Fristennotiz und nächster Schritt im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Glaeubigerausschuss: Fristennotiz und nächster Schritt im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Glaeubigerausschuss: Fristennotiz und nächster Schritt
 
@@ -41,7 +41,7 @@ Für **Spezial Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Spezial U
 
 
 ## Spezialwissen: Glaeubigerausschuss: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Glaeubigerausschuss: Fristennotiz und nächster Schritt / spezial glaeubigerausschuss fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Glaeubigerausschuss: Fristennotiz und nächster Schritt / glaeubigerausschuss fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -87,7 +87,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-ueberschuldung-fristen-form-und-zustaendigkeit`
 
-**Fokus:** Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -101,7 +101,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg / spezial ueberschuldung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg / ueberschuldung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -269,9 +269,9 @@ Bei Insolvenz wird der Geschäftsführer regelmäßig nach §§ 15a 15b InsO in 
 ### BGH-Rechtsprechung
 
 - **BGH IV ZR 66/25 vom 19.11.2025** — Wissentlichkeitsausschluss in D&O-Bedingungen erfordert positive Kenntnis des Versicherten von der konkreten Pflichtverletzung. Verletzung der Insolvenzantragspflicht (§ 15a InsO) indiziert nicht automatisch wissentliche Verletzung der Masseerhaltungspflicht (§ 15b InsO). Der Versicherer muss für jede einzelne verbotswidrige Zahlung gesondert darlegen und beweisen; "Aufkoppeln" verschiedener Pflichtverletzungen ist unzulässig.
-  Quelle: <https://www.noerr.com/de/insights/bgh-zum-do-versicherungsschutz-verletzung-der-insolvenzantragspflicht-durch-geschaftsleiter-indiziert-keine-wissentliche-verletzung-der-masseerhaltungspflicht> (Az.-Verifizierung über bundesgerichtshof.de)
+ Quelle: <https://www.noerr.com/de/insights/bgh-zum-do-versicherungsschutz-verletzung-der-insolvenzantragspflicht-durch-geschaftsleiter-indiziert-keine-wissentliche-verletzung-der-masseerhaltungspflicht> (Az.-Verifizierung über bundesgerichtshof.de)
 - **BGH II ZR 206/22 vom 23.07.2024** — Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden bleibt bestehen, solange die durch ihn geschaffene Gefährdungslage fortwirkt. Auswirkung auf D&O-Deckung in der Nachhaftungsphase.
-  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 
 ## Schritt 5 — Deckungs-Ausschlüsse
 
@@ -522,9 +522,9 @@ Mit freundlichen Gruessen
 - ZPO § 72
 - **BGH IV ZR 66/25 vom 19.11.2025** — Wissentlichkeitsausschluss / D&O bei verspätetem Insolvenzantrag (Verifikation über bundesgerichtshof.de / dejure.org)
 - **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle.
 
 
@@ -592,7 +592,7 @@ Kaltstart-Fragen:
 | Paragraph 7b GewStG-Parallel | Eigenstaendiger Antrag | Erklaerung GewSt |
 | Plan-Text steuerlich pruefen | Darstellender Teil enthaelt die Vier-Voraussetzungs-Belege | Plan-Entwurf |
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Pflichtverletzung qualifizieren.** Welcher Schritt wurde versaeumt? War er pflichtgemaess geschuldet?
 2. **Verschulden pruefen.** Paragraph 60 InsO verlangt Verschulden. Der Verwalter haftet **nicht** fuer jeden Fehler, sondern fuer schuldhafte Pflichtverletzung. Bei komplexen Steuerthemen ist die Hinzuziehung eines StB regelmaessig pflichtgemaess; die Auslagerung allein entlastet aber nicht.

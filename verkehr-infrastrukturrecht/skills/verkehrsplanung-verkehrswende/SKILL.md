@@ -1,13 +1,13 @@
 ---
 name: verkehrsplanung-verkehrswende
-description: "Nutze dies, wenn Verkehr Infrastrukturrecht Verkehrsplanung, Verkehr Infrastrukturrecht Verkehrswende, Verkehr Infrastrukturrecht Wirtschaftsverkehr im Plugin Verkehr Infrastrukturrecht konkret bearbeitet werden soll. Auslöser: Bitte Verkehr Infrastrukturrecht Verkehrsplanung, Verkehr Infrastrukturrecht Verkehrswende, Verkehr Infrastrukturrecht Wirtschaftsverkehr prüfen.; Erstelle eine Arbeitsfassung zu Verkehr Infrastrukturrecht Verkehrsplanung, Verkehr Infrastrukturrecht Verkehrswende, Verkehr Infrastrukturrecht Wirtschaftsverkehr.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verkehr Infrastrukturrecht Verkehrsplanung, Verkehr Infrastrukturrecht Verkehrswende, Verkehr Infrastrukturrecht Wirtschaftsverkehr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verkehr Infrastrukturrecht Verkehrsplanung, Verkehr Infrastrukturrecht Verkehrswende, Verkehr Infrastrukturrecht Wirtschaftsverkehr
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verkehr Infrastrukturrecht Verkehrsplanung, Verkehr Infrastrukturrecht Verkehrswende, Verkehr Infrastrukturrecht Wirtschaftsverkehr** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -74,21 +74,21 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Vorhaben geplant
-        |
+ |
 Raumbedeutsam? (§ 15 ROG)
-  Ja ──→ Raumordnungsverfahren ──→ Landesplanungsbehoerde
-  Nein ──→ weiter
-        |
+ Ja ──→ Raumordnungsverfahren ──→ Landesplanungsbehoerde
+ Nein ──→ weiter
+ |
 UVP-pflichtig? (Anlage 1 UVPG)
-  Ja ──→ UVP einbeziehen (§§ 18-25 UVPG)
-  Nein/Vorpruefung ──→ weiter
-        |
+ Ja ──→ UVP einbeziehen (§§ 18-25 UVPG)
+ Nein/Vorpruefung ──→ weiter
+ |
 Strassenneu- oder -ausbau?
-  Bundesfernstrasse ──→ Planfeststellung nach FStrG, Planfeststellungsbehoerde beim Fernstrassenamt
-  Landesstrasse / kommunal ──→ Planfeststellung nach LandesStrG oder B-Plan-Verfahren (BauGB)
-        |
+ Bundesfernstrasse ──→ Planfeststellung nach FStrG, Planfeststellungsbehoerde beim Fernstrassenamt
+ Landesstrasse / kommunal ──→ Planfeststellung nach LandesStrG oder B-Plan-Verfahren (BauGB)
+ |
 Planfeststellungsbeschluss ergeht
-        |
+ |
 Klagemoglichkeit: OVG (§ 48 VwGO) binnen 1 Monat
 ```
 
@@ -97,7 +97,7 @@ Klagemoglichkeit: OVG (§ 48 VwGO) binnen 1 Monat
 **Adressat:** Planfeststellungsbehoerde — Tonfall: sachlich-juristisch, rechtswahrend
 
 ```
-[KANZLEI], [ADRESSE]                              [ORT], [DATUM]
+[KANZLEI], [ADRESSE] [ORT], [DATUM]
 
 An die [PLANFESTSTELLUNGSBEHOERDE]
 [ADRESSE]
@@ -113,16 +113,16 @@ namens unseres Mandanten/unserer Mandantin erheben wir folgende Einwendungen
 gegen die ausgelegten Planunterlagen:
 
 1. Eigentumsbetroffenheit (Art. 14 GG)
-   Das Vorhaben erfordert die dauerhafte Inanspruchnahme von [X] m² Grund-
-   stuecksflaeche. Eine Enteignungsvoraussetzung (Art. 14 III GG, § 19 FStrG)
-   liegt mangels Entschaedigungsangebot noch nicht vor. [...]
+ Das Vorhaben erfordert die dauerhafte Inanspruchnahme von [X] m² Grund-
+ stuecksflaeche. Eine Enteignungsvoraussetzung (Art. 14 III GG, § 19 FStrG)
+ liegt mangels Entschaedigungsangebot noch nicht vor. [...]
 
 2. Laermbetroffenheit (16. BImSchV)
-   Die vorgelegte Laermprognose unterschreitet die Schwellenwerte der 16. BImSchV
-   nicht. Unsere Messung ergibt [X] dB(A) tags / [X] dB(A) nachts. [...]
+ Die vorgelegte Laermprognose unterschreitet die Schwellenwerte der 16. BImSchV
+ nicht. Unsere Messung ergibt [X] dB(A) tags / [X] dB(A) nachts. [...]
 
 3. Abwaegungsdefizit
-   Die Trassenvariante [X] wurde nicht ausreichend untersucht. [...]
+ Die Trassenvariante [X] wurde nicht ausreichend untersucht. [...]
 
 Wir beantragen:
 - Volle Entschaedigung nach §§ 19 ff. FStrG
@@ -189,22 +189,22 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Verkehrsberuhigung geplant
-        |
+ |
 Flaeche: oeffentliche Strasse?
-  Nein ──→ privatrechtliche Regelung (Grundstueckseigentuemer)
-  Ja ──→ weiter
-        |
+ Nein ──→ privatrechtliche Regelung (Grundstueckseigentuemer)
+ Ja ──→ weiter
+ |
 Anordnung per Verkehrszeichen (§ 45 StVO)?
-  Ja ──→ Strassenverkehrsbehoerde; keine Planfeststellung
-  Nein (Umbau Fahrbahn) ──→ ggf. StrWG-Widmungsaenderung oder B-Plan
-        |
+ Ja ──→ Strassenverkehrsbehoerde; keine Planfeststellung
+ Nein (Umbau Fahrbahn) ──→ ggf. StrWG-Widmungsaenderung oder B-Plan
+ |
 Begruendung ausreichend?
-  Laerm/Unfall nachgewiesen ──→ Anordnung tragfaehig
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-        |
+ Laerm/Unfall nachgewiesen ──→ Anordnung tragfaehig
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ |
 Ausnahmen noetig?
-  Lieferverkehr ──→ zeitliche Freigabe + Zeichen 1026-37
-  Anlieger ──→ Sondergenehmigung § 46 StVO
+ Lieferverkehr ──→ zeitliche Freigabe + Zeichen 1026-37
+ Anlieger ──→ Sondergenehmigung § 46 StVO
 ```
 
 ## Output-Template Anordnung / Bescheid
@@ -297,22 +297,22 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Lieferbedarf identifiziert
-        |
+ |
 Bestehende Lieferzone vorhanden?
-  Ja ──→ Ausnahme § 46 StVO beantragen; Zeitfenster pruefen
-  Nein ──→ neue Lieferzone einrichten
-        |
+ Ja ──→ Ausnahme § 46 StVO beantragen; Zeitfenster pruefen
+ Nein ──→ neue Lieferzone einrichten
+ |
 Einrichtung durch Behoerde (§ 45 StVO)
-  Oeffentliche Strasse ──→ Verkehrszeichen-Anordnung
-  Privateigentum ──→ Sondernutzungsvertrag (§§ 11 ff. StrWG)
-        |
+ Oeffentliche Strasse ──→ Verkehrszeichen-Anordnung
+ Privateigentum ──→ Sondernutzungsvertrag (§§ 11 ff. StrWG)
+ |
 Zeitlich beschraenkt?
-  Ja ──→ Zusatzzeichen Zeitfenster (z.B. Mo-Sa 6-10 Uhr)
-  Nein ──→ unbefristete Haltezone (selten genehmigt in Innenstadt)
-        |
+ Ja ──→ Zusatzzeichen Zeitfenster (z.B. Mo-Sa 6-10 Uhr)
+ Nein ──→ unbefristete Haltezone (selten genehmigt in Innenstadt)
+ |
 Groessere Fahrzeuge (>7,5 t)?
-  Ja ──→ zusaetzliche Ausnahmegenehmigung §§ 29 46 StVO
-  Nein ──→ Standardregelung
+ Ja ──→ zusaetzliche Ausnahmegenehmigung §§ 29 46 StVO
+ Nein ──→ Standardregelung
 ```
 
 ## Output-Template Antrag Ausnahmegenehmigung
@@ -321,7 +321,7 @@ Groessere Fahrzeuge (>7,5 t)?
 
 ```
 [KANZLEI / UNTERNEHMEN]
-[ADRESSE]                                          [ORT], [DATUM]
+[ADRESSE] [ORT], [DATUM]
 
 An die Strassenverkehrsbehoerde [ORT]
 [ADRESSE]

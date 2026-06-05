@@ -1,13 +1,13 @@
 ---
 name: vdg-fitnessstudio-vdg-reiseveranstalter-vdg
-description: "Nutze dies, wenn Vdg 079 Fitnessstudio Kommunikation Steuern, Vdg 089 Reiseveranstalter Kommunikation Steuer, Vdg 099 Flugportal Kommunikation Steuern, Vdg 002 Klageberechtigung Der Stelle Prüfen im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 079 Fitnessstudio Kommunikation Steuern, Vdg 089 Reiseveranstalter Kommunikation Steuer, Vdg 099 Flugportal Kommunikation Steuern, Vdg 002 Klageberechtigung Der Stelle Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Vdg 079 Fitnessstudio Kommunikation Steuern, Vdg 089 Reiseveranstalter Kommunikation Steuer, Vdg 099 Flugportal Kommunikation Steuern, Vdg 002 Klageberechtigung Der Stelle Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vdg 079 Fitnessstudio Kommunikation Steuern, Vdg 089 Reiseveranstalter Kommunikation Steuer, Vdg 099 Flugportal Kommunikation Steuern, Vdg 002 Klageberechtigung Der Stelle Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vdg 079 Fitnessstudio Kommunikation Steuern, Vdg 089 Reiseveranstalter Kommunikation Steuer, Vdg 099 Flugportal Kommunikation Steuern, Vdg 002 Klageberechtigung Der Stelle Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 079 Fitnessstudio Kommunikation Steuern, Vdg 089 Reiseveranstalter Kommunikation Steuer, Vdg 099 Flugportal Kommunikation Steuern, Vdg 002 Klageberechtigung Der Stelle Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

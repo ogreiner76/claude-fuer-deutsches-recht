@@ -1,13 +1,13 @@
 ---
 name: marketing-website-protokollwerkstatt-top
-description: "Nutze dies, wenn Marketing Website Impressum Tmg Und Bewertungen, Protokollwerkstatt Top Marathon, Rampe Handlauf Tuerverbreiterung Gemeinschaftsbereich im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Marketing Website Impressum Tmg Und Bewertungen, Protokollwerkstatt Top Marathon, Rampe Handlauf Tuerverbreiterung Gemeinschaftsbereich prüfen.; Erstelle eine Arbeitsfassung zu Marketing Website Impressum Tmg Und Bewertungen, Protokollwerkstatt Top Marathon, Rampe Handlauf Tuerverbreiterung Gemeinschaftsbereich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Marketing Website Impressum Tmg Und Bewertungen, Protokollwerkstatt Top Marathon, Rampe Handlauf Tuerverbreiterung Gemeinschaftsbereich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Marketing Website Impressum Tmg Und Bewertungen, Protokollwerkstatt Top Marathon, Rampe Handlauf Tuerverbreiterung Gemeinschaftsbereich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Marketing Website Impressum Tmg Und Bewertungen, Protokollwerkstatt Top Marathon, Rampe Handlauf Tuerverbreiterung Gemeinschaftsbereich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

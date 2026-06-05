@@ -1,6 +1,6 @@
 ---
 name: rom-071-romanistische-begriffe-im-bgb
-description: "Römisches Recht: Romanistische Begriffe Im BGB. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Romanistische Begriffe Im BGB. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Romanistische Begriffe Im BGB

@@ -1,13 +1,13 @@
 ---
 name: datenschutzpanne-notariat-dienstaufsicht
-description: "Nutze dies, wenn Notare Datenschutzpanne Notariat Kammerantwort Und Verfahrensst, Notare Dienstaufsicht Beschwerde Kammerantwort Und Verfahrensst, Notare Disziplinarverfahren Notar Kammerantwort Und Verfahrenss, Notare Disziplinarverfahren Notar Organisationspflicht Und Prae, Notare Dolmetscher Und Sprachrisiko Kammerantwort Und Verfahren im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Datenschutzpanne Notariat Kammerantwort Und Verfahrensst, Notare Dienstaufsicht Beschwerde Kammerantwort Und Verfahrensst, Notare Disziplinarverfahren Notar Kammerantwort Und Verfahrenss, Notare Disziplinarverfahren Notar Organisationspflicht Und Prae, Notare Dolmetscher Und Sprachrisiko Kammerantwort Und Verfahren prüfen.; Erstelle eine Arbeitsfassung zu Notare Datenschutzpanne Notariat Kammerantwort Und Verfahrensst, Notare Dienstaufsicht Beschwerde Kammerantwort Und Verfahrensst, Notare Disziplinarverfahren Notar Kammerantwort Und Verfahrenss, Notare Disziplinarv..."
+description: "Nutze dies bei Notare Datenschutzpanne Notariat Kammerantwort Und Verfahrensst, Notare Dienstaufsicht Beschwerde Kammerantwort Und Verfahrensst, Notare Disziplinarverfahren Notar Kammerantwort Und Verfahrenss, Notare Disziplinarverfahren Notar Organisationspflicht Und Prae: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Datenschutzpanne Notariat Kammerantwort Und Verfahrensst, Notare Dienstaufsicht Beschwerde Kammerantwort Und Verfahrensst, Notare Disziplinarverfahren Notar Kammerantwort Und Verfahrenss, Notare Disziplinarverfahren Notar Organisationspflicht Und Prae, Notare Dolmetscher Und Sprachrisiko Kammerantwort Und Verfahren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Datenschutzpanne Notariat Kammerantwort Und Verfahrensst, Notare Dienstaufsicht Beschwerde Kammerantwort Und Verfahrensst, Notare Disziplinarverfahren Notar Kammerantwort Und Verfahrenss, Notare Disziplinarverfahren Notar Organisationspflicht Und Prae, Notare Dolmetscher Und Sprachrisiko Kammerantwort Und Verfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

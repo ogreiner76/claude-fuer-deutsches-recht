@@ -161,23 +161,23 @@ Closing Date: [DATUM]
 Prepared by: [KANZLEI/PARTNER]
 
 TAB A — TRANSACTION DOCUMENTS
-  A-1  SPA, datiert [DATUM], Parteien: [KAEUFER] / [VERKAEUFER]
-  A-2  Disclosure Schedules
-  A-3  Signing Protocol / Notarakt Nr. [XX/XXXX]
+ A-1 SPA, datiert [DATUM], Parteien: [KAEUFER] / [VERKAEUFER]
+ A-2 Disclosure Schedules
+ A-3 Signing Protocol / Notarakt Nr. [XX/XXXX]
 
 TAB B — CORPORATE APPROVALS
-  B-1  Gesellschafterbeschluss Verkaeufer [DATUM]
-  B-2  Aufsichtsratsbeschluss [DATUM]
-  B-3  Board Resolution Erwerber
+ B-1 Gesellschafterbeschluss Verkaeufer [DATUM]
+ B-2 Aufsichtsratsbeschluss [DATUM]
+ B-3 Board Resolution Erwerber
 
 TAB C — CLOSING DELIVERABLES
-  C-1  Gesellschafterliste neu (§ 40 GmbHG), eingereicht [DATUM]
-  C-2  Transparenzregister-Meldung [DATUM]
-  C-3  Funds Flow Confirmation [DATUM]
-  C-4  Freigabe Bankpfandrecht [DATUM]
+ C-1 Gesellschafterliste neu (§ 40 GmbHG), eingereicht [DATUM]
+ C-2 Transparenzregister-Meldung [DATUM]
+ C-3 Funds Flow Confirmation [DATUM]
+ C-4 Freigabe Bankpfandrecht [DATUM]
 
 TAB D — POST-CLOSING OBLIGATIONS
-  D-1  [MASSNAHME] — Owner: [NAME] — Faellig: [DATUM]
+ D-1 [MASSNAHME] — Owner: [NAME] — Faellig: [DATUM]
 ```
 
 ## Rote Schwellen

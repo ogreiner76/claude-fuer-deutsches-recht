@@ -1,13 +1,13 @@
 ---
 name: notare-dienstaufsicht-beschwerde
-description: "Nutze dies, wenn Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und prüfen.; Erstelle eine Arbeitsfassung zu Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Dienstaufsicht Beschwerde Rechtsprechungscheck Und Red T, Notare Disziplinarverfahren Notar Rechtsprechungscheck Und Red, Notare Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re, Notare Erbvertrag Testament Belehrung Rechtsprechungscheck Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

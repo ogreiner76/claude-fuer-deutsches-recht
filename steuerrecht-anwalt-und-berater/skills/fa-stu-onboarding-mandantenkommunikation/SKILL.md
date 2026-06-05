@@ -64,7 +64,7 @@ Ausdruecklich hingewiesen wurde auf:
 
 Der Mandant entscheidet sich fuer Option [...].
 
-[ORT, DATUM]   [UNTERSCHRIFT MANDANT]   [UNTERSCHRIFT BERATER]
+[ORT, DATUM] [UNTERSCHRIFT MANDANT] [UNTERSCHRIFT BERATER]
 ```
 
 ## Abgrenzung zu anderen Skills dieses Plugins

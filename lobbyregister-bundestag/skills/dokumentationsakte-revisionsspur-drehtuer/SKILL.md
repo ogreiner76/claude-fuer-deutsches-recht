@@ -1,13 +1,13 @@
 ---
 name: dokumentationsakte-revisionsspur-drehtuer
-description: "Nutze dies, wenn Dokumentationsakte Revisionsspur, Drehtuer Angaben im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Dokumentationsakte Revisionsspur, Drehtuer Angaben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dokumentationsakte Revisionsspur, Drehtuer Angaben
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dokumentationsakte Revisionsspur, Drehtuer Angaben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -119,10 +119,10 @@ Drehtuerangaben fuer alle namentlich genannten Personen konsistent erfassen.
 1. **aktuelles Mandat** im Deutschen Bundestag oder im Europäischen Parlament,
 2. **aktuelles Amt** als Bundesminister oder Parlamentarischer Staatssekretär oder Staatsminister,
 3. **in den letzten 5 Jahren bestehende** Tätigkeit als Mitglied
-   - der Bundesregierung,
-   - des Deutschen Bundestages,
-   - als Parlamentarischer Staatssekretär,
-   - als Beamter/Soldat ab Besoldungsgruppe B 3 bzw. äquivalenter Funktion
+ - der Bundesregierung,
+ - des Deutschen Bundestages,
+ - als Parlamentarischer Staatssekretär,
+ - als Beamter/Soldat ab Besoldungsgruppe B 3 bzw. äquivalenter Funktion
 4. Für **Beschäftigte und Beauftragte** (§ 1 III LobbyRG): die zur Interessenvertretung tätigen Personen (auch bei mittelbarer Beauftragung).
 
 ## Pflicht-Datensatz im Portal

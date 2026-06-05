@@ -1,13 +1,13 @@
 ---
 name: owi-uebergang-revision-sta
-description: "Nutze dies, wenn Owi Uebergang Strafverfahren 81 82, Revision Sta Verfahrensruegen Vorpruefung, Sicherungsverfahren 413 Stpo, Wirtschaftsstrafverfahren Datenraum Aktenplan, Betrug Onlinehandel Beweis Und Schaden im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Owi Uebergang Strafverfahren 81 82, Revision Sta Verfahrensruegen Vorpruefung, Sicherungsverfahren 413 Stpo, Wirtschaftsstrafverfahren Datenraum Aktenplan, Betrug Onlinehandel Beweis Und Schaden prüfen.; Erstelle eine Arbeitsfassung zu Owi Uebergang Strafverfahren 81 82, Revision Sta Verfahrensruegen Vorpruefung, Sicherungsverfahren 413 Stpo, Wirtschaftsstrafverfahren Datenraum Aktenplan, Betrug Onlinehandel Beweis Und Schaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Owi Uebergang Strafverfahren 81 82, Revision Sta Verfahrensruegen Vorpruefung, Sicherungsverfahren 413 Stpo, Wirtschaftsstrafverfahren Datenraum Aktenplan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Owi Uebergang Strafverfahren 81 82, Revision Sta Verfahrensruegen Vorpruefung, Sicherungsverfahren 413 Stpo, Wirtschaftsstrafverfahren Datenraum Aktenplan, Betrug Onlinehandel Beweis Und Schaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Owi Uebergang Strafverfahren 81 82, Revision Sta Verfahrensruegen Vorpruefung, Sicherungsverfahren 413 Stpo, Wirtschaftsstrafverfahren Datenraum Aktenplan, Betrug Onlinehandel Beweis Und Schaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -43,7 +43,7 @@ Für **Owi Uebergang Strafverfahren 81 82, Revision Sta Verfahrensruegen Vorprue
 
 Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn eine Akte nicht als klassische Strafsache, sondern als Ordnungswidrigkeit oder gerichtliches Bußgeldverfahren läuft. Arbeite rollenrein: Verwaltungsbehörde, Staatsanwaltschaft, Gericht, Betroffener und Nebenbeteiligte nicht vermischen.
 
-## Kaltstart
+## Einstieg
 
 1. Verfahrensart klären: Strafverfahren, reine OWi-Sache, Mischfall oder Übergang zwischen beiden.
 2. Zuständigkeit klären: Verwaltungsbehörde, Staatsanwaltschaft, Amtsgericht, Jugendrichter, Landgericht bei Datenschutz-Sonderfall oder Rechtsbeschwerdegericht.
@@ -103,7 +103,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Sachrüge, Verfahrensrüge, Urteilsauswertung, Frist und Generalstaatsanwaltschaft
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -152,7 +152,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Schuldunfähigkeit, Gefährlichkeit, Sachverständige und Antragsschrift
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -201,7 +201,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Tatkomplexe, Tabellen, Vermerke, Fristen, Zuständigkeit und Abschlussverfügung
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -250,7 +250,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Onlinebetrug, Plattformdaten, Zahlungsfluss, Geschädigtenliste und Anklage-/Strafbefehlstauglichkeit
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

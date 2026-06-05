@@ -1,21 +1,21 @@
 ---
 name: fachanwalt-arbeitsrecht-bag
-description: "Nutze dies, wenn Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht, Fachanwalt Arbeitsrecht Betriebsratsanhoerung, Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht, Fachanwalt Arbeitsrecht Betriebsratsanhoerung, Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht, Fachanwalt Arbeitsrecht Betriebsratsanhoerung, Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht, Fachanwalt Arbeitsrecht Betriebsratsanhoerung, Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht, Fachanwalt Arbeitsrecht Betriebsratsanhoerung, Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht, Fachanwalt Arbeitsrecht Betriebsratsanhoerung, Fachanwalt Arbeitsrecht Betriebsratsbeschluss Heilung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | Workflow-Skill zu fachanwalt arbeitsrecht bag mindesturlaub kein verzicht. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht` | Arbeitsmodul zu fachanwalt arbeitsrecht bag mindesturlaub kein verzicht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-arbeitsrecht-betriebsratsanhoerung` | Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kündigung. Anwendungsfall Kündigung soll ausgesprochen werden und BR-Anhoerung muss korrekt durchgeführt werden. Normen § 102 BetrVG Anhoerungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhoerung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Prüfraster vollständige Mitteilung Kündigungsgründe subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage außerordentlich Widerspruchsgründe. Output Anhoerungsschreiben-Vorlage Empfangsprotokoll und Kündigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
-| `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` | Workflow-Skill zu fachanwalt arbeitsrecht betriebsratsbeschluss heilung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` | Arbeitsmodul zu fachanwalt arbeitsrecht betriebsratsbeschluss heilung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht, Fachanwalt Arbei
 
 ## 1. `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`
 
-**Fokus:** Workflow-Skill zu fachanwalt arbeitsrecht bag mindesturlaub kein verzicht. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt arbeitsrecht bag mindesturlaub kein verzicht: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -175,7 +175,7 @@ Hinweis: Aktuellere Entscheidungen (Q4/2025 - Q2/2026) zur Anhoerungs-Substantii
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema Betriebsratsanhörung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
@@ -222,7 +222,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 [Briefkopf Arbeitgeber]
 
 An den Betriebsrat — Herrn/Frau Vorsitzende/n — Im Hause
-                                               [Ort, Datum]
+ [Ort, Datum]
 
 Anhörung gemäss § 102 BetrVG zur beabsichtigten Kündigung
 
@@ -233,36 +233,36 @@ wir beabsichtigen, das Arbeitsverhältnis mit
 zu kündigen und hören Sie hierzu vor Ausspruch an.
 
 1. Persönliche Daten
-   Name: [Name]
-   Geburtsdatum: [Datum]
-   Familienstand: [verheiratet / ledig / geschieden]
-   Unterhaltspflichten: [Anzahl Kinder; Ehegatte]
-   Schwerbehinderung: [ja, GdB [Grad] / nein]
+ Name: [Name]
+ Geburtsdatum: [Datum]
+ Familienstand: [verheiratet / ledig / geschieden]
+ Unterhaltspflichten: [Anzahl Kinder; Ehegatte]
+ Schwerbehinderung: [ja, GdB [Grad] / nein]
 
 2. Beschäftigungsdaten
-   Eintritt: [Datum]
-   Tätigkeit: [Bezeichnung]
-   Abteilung: [Bezeichnung]
-   Brutto-Monatsvergütung: EUR [Betrag]
+ Eintritt: [Datum]
+ Tätigkeit: [Bezeichnung]
+ Abteilung: [Bezeichnung]
+ Brutto-Monatsvergütung: EUR [Betrag]
 
 3. Beabsichtigte Kündigung
-   Art: [ordentlich / ausserordentlich / Aenderungs-]
-   Kündigungsfrist: [Dauer]
-   Datum: [Termin]
+ Art: [ordentlich / ausserordentlich / Aenderungs-]
+ Kündigungsfrist: [Dauer]
+ Datum: [Termin]
 
 4. Kündigungsgründe
-   [Vollständige Sachverhaltsschilderung; bei verhaltens-
-   bedingt: Pflichtverletzung + Abmahnung(en) mit Daten +
-   negative Prognose; bei betriebsbedingt: Wegfall des AP,
-   Sozialauswahl Vergleichsgruppe + Ergebnis; bei personen-
-   bedingt: AU-Zeiten mit Daten, Prognose, erhebliche
-   Betriebsbeeinträchtigung]
+ [Vollständige Sachverhaltsschilderung; bei verhaltens-
+ bedingt: Pflichtverletzung + Abmahnung(en) mit Daten +
+ negative Prognose; bei betriebsbedingt: Wegfall des AP,
+ Sozialauswahl Vergleichsgruppe + Ergebnis; bei personen-
+ bedingt: AU-Zeiten mit Daten, Prognose, erhebliche
+ Betriebsbeeinträchtigung]
 
 5. Anlagen
-   [ ] Abmahnung(en) [Datum]
-   [ ] Auswertung AU-Zeiten
-   [ ] Sozialauswahlübersicht
-   [ ] [Sonstiges]
+ [ ] Abmahnung(en) [Datum]
+ [ ] Auswertung AU-Zeiten
+ [ ] Sozialauswahlübersicht
+ [ ] [Sonstiges]
 
 Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 § 102 Abs. 2 BetrVG (Frist endet am [Datum]).
@@ -328,7 +328,7 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 
 ## 3. `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung`
 
-**Fokus:** Workflow-Skill zu fachanwalt arbeitsrecht betriebsratsbeschluss heilung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt arbeitsrecht betriebsratsbeschluss heilung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung
 
@@ -383,7 +383,7 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema Beschlussmangel
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Verstoß |
 |---|---|---|---|
@@ -478,17 +478,17 @@ Umsatzsteuer gegenüber Rechtsanwalt [Name] freizustellen.
 Begründung:
 
 1. Der Betriebsrat hat in seiner Sitzung vom [Datum] die
-   Beauftragung von Rechtsanwalt [Name] beschlossen.
+ Beauftragung von Rechtsanwalt [Name] beschlossen.
 
 2. Auch wenn dieser Beschluss zunächst formell fehlerhaft
-   gewesen sein sollte, wurde er mit Beschluss vom
-   [Datum Heilung] nach § 184 Abs. 1 BGB rückwirkend
-   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ gewesen sein sollte, wurde er mit Beschluss vom
+ [Datum Heilung] nach § 184 Abs. 1 BGB rückwirkend
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. Die Beauftragung war erforderlich i.S.d. § 40 Abs. 1
-   BetrVG, weil [konkrete Begründung: Komplexität der
-   Rechtsfrage, drohende Nachteile für den Betriebsrat,
-   fehlende eigene Sachkunde].
+ BetrVG, weil [konkrete Begründung: Komplexität der
+ Rechtsfrage, drohende Nachteile für den Betriebsrat,
+ fehlende eigene Sachkunde].
 ```
 
 ## Fallstricke aus Anwaltssicht

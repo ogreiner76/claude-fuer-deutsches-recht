@@ -1,6 +1,6 @@
 ---
 name: liqui-sonderfall-edge-case
-description: "Nutze dies, wenn Liqui: Sonderfall und Edge-Case-Prüfung im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Liqui: Sonderfall und Edge-Case-Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Liqui: Sonderfall und Edge-Case-Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Liqui: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Liqui: Sonderfall und Edge-Case-Prüfung

@@ -1,13 +1,13 @@
 ---
 name: stabilisierungsanordnung-vollstreckungssperre
-description: "Nutze dies, wenn Stabilisierungsanordnung Und Vollstreckungssperre im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Stabilisierungsanordnung Und Vollstreckungssperre prüfen.; Erstelle eine Arbeitsfassung zu Stabilisierungsanordnung Und Vollstreckungssperre.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stabilisierungsanordnung Und Vollstreckungssperre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stabilisierungsanordnung Und Vollstreckungssperre
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stabilisierungsanordnung Und Vollstreckungssperre** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -93,18 +93,18 @@ Die Stabilisierungsanordnung ist eine gerichtliche Verfügung, die auf Antrag de
 ### 4. Dauer und Verlängerung
 
 ```
-GRUNDDAUER:         3 Monate (§ 55 Abs. 1 StaRUG)
-VERLÄNGERUNG:       + 3 Monate auf Antrag (§ 56 StaRUG)
-MAXIMAL:            8 Monate (§ 57 StaRUG, gesamt im Verfahren)
+GRUNDDAUER: 3 Monate (§ 55 Abs. 1 StaRUG)
+VERLÄNGERUNG: + 3 Monate auf Antrag (§ 56 StaRUG)
+MAXIMAL: 8 Monate (§ 57 StaRUG, gesamt im Verfahren)
 
 VORAUSSETZUNG DER VERLÄNGERUNG:
-  - Restrukturierungsplan liegt dem Gericht vor ODER
-  - Fortschritte bei der Planabstimmung nachgewiesen
+ - Restrukturierungsplan liegt dem Gericht vor ODER
+ - Fortschritte bei der Planabstimmung nachgewiesen
 
 AUFHEBUNG VOR FRISTABLAUF:
-  - Auf Antrag des Schuldners
-  - Von Amts wegen bei Wegfall der Voraussetzungen
-  - Auf Gläubigerantrag bei Obliegenheitsverletzung (§ 59 StaRUG)
+ - Auf Antrag des Schuldners
+ - Von Amts wegen bei Wegfall der Voraussetzungen
+ - Auf Gläubigerantrag bei Obliegenheitsverletzung (§ 59 StaRUG)
 ```
 
 ---
@@ -151,48 +151,48 @@ Restrukturierungsgericht [Ort]
 ANTRAG AUF STABILISIERUNGSANORDNUNG gemäß § 49 StaRUG
 
 Antragsteller: [Firma GmbH], vertreten durch den Geschäftsführer
-               [Name, Adresse]
+ [Name, Adresse]
 
 Verfahren: Restrukturierungssache [Firma GmbH]
-           (Anzeige vom [Datum], Az. [___])
+ (Anzeige vom [Datum], Az. [___])
 
 I. BEGEHREN
 
 Die Antragstellerin beantragt, gegen folgende(n) Gläubiger:
-  1. [Gläubiger 1, Adresse]
-  2. [Gläubiger 2, Adresse]
+ 1. [Gläubiger 1, Adresse]
+ 2. [Gläubiger 2, Adresse]
 
 eine Stabilisierungsanordnung zu erlassen, mit der
 
 a) Vollstreckungsmaßnahmen der vorgenannten Gläubiger in das
-   Vermögen der Antragstellerin für die Dauer von drei Monaten
-   untersagt werden,
+ Vermögen der Antragstellerin für die Dauer von drei Monaten
+ untersagt werden,
 
 b) die Verwertung von Sicherheiten (insb. [Sicherheit]) durch
-   [Gläubiger] für dieselbe Dauer ausgesetzt wird.
+ [Gläubiger] für dieselbe Dauer ausgesetzt wird.
 
 II. SACHVERHALT UND BEGRÜNDUNG
 
 1. Drohende Zahlungsunfähigkeit:
-   [Begründung auf Basis der Liquiditätsplanung]
+ [Begründung auf Basis der Liquiditätsplanung]
 
 2. Drohende Vollstreckungsmaßnahmen:
-   [Beschreibung: welcher Gläubiger plant was, wann?]
+ [Beschreibung: welcher Gläubiger plant was, wann?]
 
 3. Erforderlichkeit der Anordnung:
-   [Warum gefährdet die Vollstreckung den Restrukturierungserfolg?]
+ [Warum gefährdet die Vollstreckung den Restrukturierungserfolg?]
 
 4. Verhältnismäßigkeit / Zumutbarkeit:
-   [Warum ist die Anordnung verhältnismäßig?]
-   [Wie wird der Gläubiger nicht strukturell schlechtergestellt?]
+ [Warum ist die Anordnung verhältnismäßig?]
+ [Wie wird der Gläubiger nicht strukturell schlechtergestellt?]
 
 5. Status des Restrukturierungsplans:
-   [Stand der Planvorbereitung]
+ [Stand der Planvorbereitung]
 
 III. ANLAGEN
-  Anlage A: Liquiditätsplanung 24 Monate
-  Anlage B: Fortführungsprognose (kurz)
-  Anlage C: Korrespondenz mit [Gläubiger] (Vollstreckungsankündigung)
+ Anlage A: Liquiditätsplanung 24 Monate
+ Anlage B: Fortführungsprognose (kurz)
+ Anlage C: Korrespondenz mit [Gläubiger] (Vollstreckungsankündigung)
 
 [Ort], [Datum]
 ___________________________
@@ -209,7 +209,7 @@ ___________________________
 An: [Gläubiger]
 
 Betreff: Stabilisierungsanordnung gemäß § 49 StaRUG in der Sache
-         [Firma GmbH] — Aktenzeichen [___]
+ [Firma GmbH] — Aktenzeichen [___]
 
 Sehr geehrte Damen und Herren,
 

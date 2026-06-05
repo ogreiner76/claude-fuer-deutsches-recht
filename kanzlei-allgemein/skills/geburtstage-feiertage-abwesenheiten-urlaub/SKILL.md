@@ -1,13 +1,13 @@
 ---
 name: geburtstage-feiertage-abwesenheiten-urlaub
-description: "Nutze dies, wenn Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub prüfen.; Erstelle eine Arbeitsfassung zu Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geburtstage Feiertage, Kanzlei Allgemein Abwesenheiten Urlaub** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -61,14 +61,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```yaml
 - name: Mueller, Hans
-  geburtstag: 1972-08-15
-  funktion: Geschäftsführer Mueller GmbH (Mandant Aktenkreis 2026/0042)
-  ansprache: foermlich  # foermlich / vornamen / locker
-  versandweg: e-mail
-  e-mail: hmueller@mueller-gmbh.de
-  vorlauf-tage: 2
-  letzte-glueckwuensche: 2025-08-14
-  widerspruch-eingelegt: false
+ geburtstag: 1972-08-15
+ funktion: Geschäftsführer Mueller GmbH (Mandant Aktenkreis 2026/0042)
+ ansprache: foermlich # foermlich / vornamen / locker
+ versandweg: e-mail
+ e-mail: hmueller@mueller-gmbh.de
+ vorlauf-tage: 2
+ letzte-glueckwuensche: 2025-08-14
+ widerspruch-eingelegt: false
 ```
 
 ### Datenschutz
@@ -269,11 +269,11 @@ Dieser Skill verwaltet alle Formen der Abwesenheit in einer Kanzlei — von Erho
 ## 6) Abwesenheitsregister-Template
 
 ```
-| Person | Art         | Anfang     | Ende       | Vertretung      | Status   |
+| Person | Art | Anfang | Ende | Vertretung | Status |
 |--------|-------------|------------|------------|-----------------|----------|
-| RA Mueller | Urlaub  | 01.07.2026 | 14.07.2026 | RA Schmidt, RAin Weber (Mandat 312) | genehmigt |
-| RAin Weber | Krank   | 15.06.2026 | offen      | RA Mueller       | laufend  |
-| ReFa Bauer | Bildung | 03.09.2026 | 04.09.2026 | ReFa Klein       | genehmigt |
+| RA Mueller | Urlaub | 01.07.2026 | 14.07.2026 | RA Schmidt, RAin Weber (Mandat 312) | genehmigt |
+| RAin Weber | Krank | 15.06.2026 | offen | RA Mueller | laufend |
+| ReFa Bauer | Bildung | 03.09.2026 | 04.09.2026 | ReFa Klein | genehmigt |
 ```
 
 Vorlage unter `assets/templates/abwesenheiten-register.md`.

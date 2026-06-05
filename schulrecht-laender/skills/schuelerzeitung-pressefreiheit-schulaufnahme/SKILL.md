@@ -1,13 +1,13 @@
 ---
 name: schuelerzeitung-pressefreiheit-schulaufnahme
-description: "Nutze dies, wenn Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde im Plugin Schulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde prüfen.; Erstelle eine Arbeitsfassung zu Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -64,7 +64,7 @@ Für KI-Systeme, deren Parameter einschließlich der Modellgewichte, der Archite
 
 ## Ergebnis und Routing
 
-- **Ausnahme eindeutig gegeben:** KI-VO nicht anwendbar; Workflow endet. Hinweis auf möglicherweise anwendbares anderes Recht.
+- **Ausnahme eindeutig gegeben:** KI-VO nicht anwendbar; endet. Hinweis auf möglicherweise anwendbares anderes Recht.
 - **Ausnahme fraglich (z.B. Dual-Use, Forschung mit echten Nutzern):** Weiter mit Vorbehalt; Hinweis auf Klärungsbedarf; ggf. `mandatsabbruch-empfehlung-komplexe-faelle`
 - **Keine Ausnahme:** Weiter zu `persoenlicher-anwendungsbereich-rollen-art-3`
 
@@ -104,7 +104,7 @@ Gepruefte Norm(en): [Art. 2 Abs. 3 Rn. 8]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

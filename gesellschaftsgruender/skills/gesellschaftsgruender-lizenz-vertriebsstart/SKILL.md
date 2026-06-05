@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-lizenz-vertriebsstart
-description: "Nutze dies, wenn Gesellschaftsgründer Kommandocenter, Gesellschaftsgründer Lizenz Und Vertriebsstart, Gesellschaftsgründer Lohn Payroll Start, Gesellschaftsgründer Mandantenbrief Naechste Schritte, Gesellschaftsgründer Minderjaehrige Gesellschafter im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Kommandocenter, Gesellschaftsgründer Lizenz Und Vertriebsstart, Gesellschaftsgründer Lohn Payroll Start, Gesellschaftsgründer Mandantenbrief Naechste Schritte, Gesellschaftsgründer Minderjaehrige Gesellschafter prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Kommandocenter, Gesellschaftsgründer Lizenz Und Vertriebsstart, Gesellschaftsgründer Lohn Payroll Start, Gesellschaftsgründer Mandantenbrief Naechste Schritte, Gesellschaftsgründer Minderjaehrige Gesellschafter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Kommandocenter, Gesellschaftsgruender Lizenz Und Vertriebsstart, Gesellschaftsgruender Lohn Payroll Start, Gesellschaftsgruender Mandantenbrief Naechste Schritte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Kommandocenter, Gesellschaftsgründer Lizenz Und Vertriebsstart, Gesellschaftsgründer Lohn Payroll Start, Gesellschaftsgründer Mandantenbrief Naechste Schritte, Gesellschaftsgründer Minderjaehrige Gesellschafter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Kommandocenter, Gesellschaftsgründer Lizenz Und Vertriebsstart, Gesellschaftsgründer Lohn Payroll Start, Gesellschaftsgründer Mandantenbrief Naechste Schritte, Gesellschaftsgründer Minderjaehrige Gesellschafter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -69,7 +69,7 @@ Für **Gesellschaftsgründer Kommandocenter, Gesellschaftsgründer Lizenz Und Ve
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gründungsphasen-Übersicht
 
-| Phase | Inhalt | Dauer (ca.) | Spezialskill |
+| Phase | Inhalt | Dauer (ca.) | Fachmodul |
 |---|---|---|---|
 | 0 — Rechtsformwahl | GmbH, UG, GbR, KG, GmbH & Co. KG, PartGmbB, gGmbH abwägen | Woche 1 | `gesellschaftsgruender-rechtsformwahl` |
 | A — Vorbereitung | Firmencheck, Sitz, Gegenstand, Stammkapital, Gesellschafterstruktur | Woche 2-3 | `gesellschaftsgruender-gmbh-vorbereitung` |

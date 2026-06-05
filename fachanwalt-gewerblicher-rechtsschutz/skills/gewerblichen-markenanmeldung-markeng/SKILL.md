@@ -1,13 +1,13 @@
 ---
 name: gewerblichen-markenanmeldung-markeng
-description: "Nutze dies, wenn Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Compliance Dokumentation Und Akte, Markeng Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente
+# Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Compliance Dokumentation Und Akte, Markeng Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Compliance Dokumentation Und Akte, Markeng Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Gewerblichen Tatbestand Beweis Und Belege, Spezial Markenanmeldung Compliance Dokumentation Und Akte, Spezial Markeng Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Compliance Dokumentation Und Akte, Markeng Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -116,7 +116,7 @@ Dieser Skill behandelt die Beweisführung bei gewerblichen Schutzrechtsverletzun
 | Testkauf oder Muster der verletzenden Ware gesichert | ☐ |
 | Auskunftsanspruch überlegt (sofort oder nach Unterlassung) | ☐ |
 
-## Kaltstart
+## Einstieg
 1. Welche Verletzungshandlung muss bewiesen werden (Marke / Patent / Design / UWG)?
 2. Welche Beweismittel liegen bereits vor?
 3. Ist eine eidesstattliche Versicherung ausreichend (EV) oder ist Hauptsachebeweis nötig?
@@ -233,7 +233,7 @@ Dieser Skill behandelt die Compliance-Anforderungen und Aktenführung bei Marken
 | Lizenzierung | Lizenznehmer, Lizenzgebühren, Nutzungsbeschränkungen |
 | Übertragungen | Datum, Vertragsparteien, DPMA-Umschreibung |
 
-## Kaltstart
+## Einstieg
 1. Wird eine neue Marke angemeldet oder eine bestehende geprüft / verlängert?
 2. Welche Waren / Dienstleistungen sollen geschützt werden (Nizza-Klassen)?
 3. Liegt eine Vor-Recherche vor?
@@ -340,7 +340,7 @@ Dieser Skill liefert die Risikoampel und Gegenargumente für Markensachen: Verwe
 | Nichtigkeitsangriff | §§ 50–51 MarkenG | Prioritäres Recht oder absolutes Hindernis | Hoch wenn begründet |
 | Fehlende Aktivlegitimation | § 14 MarkenG | Kein Registerrecht | Klar wenn nachweisbar |
 
-## Kaltstart
+## Einstieg
 1. Liegt eine Abmahnung vor oder wird eine eigene Durchsetzungsstrategie bewertet?
 2. Welches Zeichen und welche Waren / Dienstleistungen sind betroffen?
 3. Besteht ein eingetragenes Schutzrecht (Registerauszug vorhanden)?

@@ -28,44 +28,44 @@ Systematische Inventur und Pruefung bestehender Auftragsverarbeitungsvertraege a
 ## Ablauf / Checkliste
 
 1. **Inventur.**
-   - Vendor-Liste (Lieferanten mit Datenverarbeitung).
-   - AVV-Status pro Vendor: vorhanden / nicht vorhanden / unklar.
-   - Vertragsdatum, Vertragsversion.
-   - Verarbeitungsumfang, Datenkategorien, Drittlandbezug.
+ - Vendor-Liste (Lieferanten mit Datenverarbeitung).
+ - AVV-Status pro Vendor: vorhanden / nicht vorhanden / unklar.
+ - Vertragsdatum, Vertragsversion.
+ - Verarbeitungsumfang, Datenkategorien, Drittlandbezug.
 
 2. **Rollenpruefung.**
-   - Pro Vendor: ist die Rollenzuordnung korrekt (Art. 28 versus Art. 26 versus eigene Verantwortlichkeit)?
-   - Querverweis: avv-rolemix-getrennt-vs-gemeinsam-verantwortlich.
+ - Pro Vendor: ist die Rollenzuordnung korrekt (Art. 28 versus Art. 26 versus eigene Verantwortlichkeit)?
+ - Querverweis: avv-rolemix-getrennt-vs-gemeinsam-verantwortlich.
 
 3. **Pflichtinhalte-Check.**
-   - Acht Pflichtklauseln nach Art. 28 Abs. 3 lit. a bis h DSGVO vollstaendig?
-   - Rahmenangaben (Gegenstand, Dauer, Art, Zweck, Datenarten, Betroffene) konkret?
-   - TOM-Anlage aktuell und konkret?
-   - Querverweis: avv-art-28-mindestinhalte-checkliste.
+ - Acht Pflichtklauseln nach Art. 28 Abs. 3 lit. a bis h DSGVO vollstaendig?
+ - Rahmenangaben (Gegenstand, Dauer, Art, Zweck, Datenarten, Betroffene) konkret?
+ - TOM-Anlage aktuell und konkret?
+ - Querverweis: avv-art-28-mindestinhalte-checkliste.
 
 4. **Sub-AV-Pflege.**
-   - Liste vorhanden und aktuell?
-   - Wechselbenachrichtigungsverfahren funktioniert?
-   - Drittland-Sub-AV identifiziert und abgesichert?
+ - Liste vorhanden und aktuell?
+ - Wechselbenachrichtigungsverfahren funktioniert?
+ - Drittland-Sub-AV identifiziert und abgesichert?
 
 5. **Drittlandbezug.**
-   - Aktuelle SCC nach Beschluss (EU) 2021/914 oder noch Altmuster?
-   - DPF-Listing aktuell?
-   - TIA vorhanden und aktuell?
+ - Aktuelle SCC nach Beschluss (EU) 2021/914 oder noch Altmuster?
+ - DPF-Listing aktuell?
+ - TIA vorhanden und aktuell?
 
 6. **Aktualitaet der TOM-Anlage.**
-   - Letzte Pruefung?
-   - Branchenuebliche Standards (ISO 27001, BSI C5, SOC 2) referenziert?
-   - Pflichtmindestmassnahmen aus Art. 32 DSGVO abgedeckt?
+ - Letzte Pruefung?
+ - Branchenuebliche Standards (ISO 27001, BSI C5, SOC 2) referenziert?
+ - Pflichtmindestmassnahmen aus Art. 32 DSGVO abgedeckt?
 
 7. **Verarbeitungsverzeichnis Art. 30 DSGVO.**
-   - AVV-Vendoren im Verzeichnis dokumentiert?
-   - Konsistenz zwischen Verzeichnis und AVV?
+ - AVV-Vendoren im Verzeichnis dokumentiert?
+ - Konsistenz zwischen Verzeichnis und AVV?
 
 8. **Audit-Bericht.**
-   - Bewertungsmatrix pro Vendor (Ampel: rot / orange / gelb / gruen).
-   - Massnahmenplan mit Fristen.
-   - Eskalationsverfahren bei nicht behebbaren Maengeln.
+ - Bewertungsmatrix pro Vendor (Ampel: rot / orange / gelb / gruen).
+ - Massnahmenplan mit Fristen.
+ - Eskalationsverfahren bei nicht behebbaren Maengeln.
 
 ## Mustertext / Template
 
@@ -79,23 +79,23 @@ Vertragsstand: [DATUM, VERSION]
 Verarbeitungsumfang: [BESCHREIBUNG]
 Drittlandbezug: [JA/NEIN, LAND]
 
-Pruefdimension                                   | Status | Befund / Massnahme
+Pruefdimension | Status | Befund / Massnahme
 -------------------------------------------------|--------|-----------------------------
-Rollenzuordnung (Art. 28 / 26 / sep.)             | [g/y/o/r] | [...]
-Pflichtangaben Art. 28 Abs. 3 Satz 2 DSGVO         | [g/y/o/r] | [...]
-lit. a Weisungsgebundenheit                       | [g/y/o/r] | [...]
-lit. b Vertraulichkeit                            | [g/y/o/r] | [...]
-lit. c TOM Art. 32 DSGVO                          | [g/y/o/r] | [...]
-lit. d Sub-AV Art. 28 Abs. 2 und 4                 | [g/y/o/r] | [...]
-lit. e Unterstuetzung Betroffenenrechte           | [g/y/o/r] | [...]
-lit. f Unterstuetzung Art. 32-36                   | [g/y/o/r] | [...]
-lit. g Loeschung / Rueckgabe                      | [g/y/o/r] | [...]
-lit. h Audit / Inspektion                         | [g/y/o/r] | [...]
-SCC Stand Beschluss (EU) 2021/914                  | [g/y/o/r] | [...]
-DPF (sofern US-Anbieter)                          | [g/y/o/r] | [...]
-TIA (sofern Drittland)                            | [g/y/o/r] | [...]
-TOM-Anlage aktuell                                | [g/y/o/r] | [...]
-Art. 30 DSGVO-Verzeichnis konsistent              | [g/y/o/r] | [...]
+Rollenzuordnung (Art. 28 / 26 / sep.) | [g/y/o/r] | [...]
+Pflichtangaben Art. 28 Abs. 3 Satz 2 DSGVO | [g/y/o/r] | [...]
+lit. a Weisungsgebundenheit | [g/y/o/r] | [...]
+lit. b Vertraulichkeit | [g/y/o/r] | [...]
+lit. c TOM Art. 32 DSGVO | [g/y/o/r] | [...]
+lit. d Sub-AV Art. 28 Abs. 2 und 4 | [g/y/o/r] | [...]
+lit. e Unterstuetzung Betroffenenrechte | [g/y/o/r] | [...]
+lit. f Unterstuetzung Art. 32-36 | [g/y/o/r] | [...]
+lit. g Loeschung / Rueckgabe | [g/y/o/r] | [...]
+lit. h Audit / Inspektion | [g/y/o/r] | [...]
+SCC Stand Beschluss (EU) 2021/914 | [g/y/o/r] | [...]
+DPF (sofern US-Anbieter) | [g/y/o/r] | [...]
+TIA (sofern Drittland) | [g/y/o/r] | [...]
+TOM-Anlage aktuell | [g/y/o/r] | [...]
+Art. 30 DSGVO-Verzeichnis konsistent | [g/y/o/r] | [...]
 
 Gesamtbewertung Vendor: [g/y/o/r]
 Empfohlene Massnahme: [Verlaengern / Nachverhandeln / Beenden]

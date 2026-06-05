@@ -1,6 +1,6 @@
 ---
 name: entscheidungsbaum-ki-vo-gesamt-workflow
-description: "Master-Workflow fuer die vollstaendige KI-VO-Pruefung. Fuehrt von Art. 3 KI-System-Definition ueber Anwendungsbereich, Rollen, Art. 6 Abs. 2/Anhang III-Hochrisiko, Rueckausnahme, GPAI/Chatbot-Abgrenzung, Betreiber-Fehlgebrauch, Pflichten, Standards und Output-Dokumentation. Schwerpunkt: allgemeine Chatbots sind nicht automatisch Hochrisiko; Zweckbestimmung und tatsaechlicher Einsatz entscheiden. Output: strukturierter Pruefpfad mit Folge-Skills."
+description: "Nutze dies bei Master-Workflow: KI-VO-Gesamtprüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Master-Workflow: KI-VO-Gesamtprüfung
@@ -105,7 +105,7 @@ Skills:
 
 Leitsatz:
 - Allgemeiner Chatbot: typischerweise Art. 50/GPAI prüfen, nicht automatisch Hochrisiko.
-- Konkreter Fachworkflow in Anhang III: Hochrisiko-Prüfung aktivieren.
+- Konkreter Fachin Anhang III: Hochrisiko-Prüfung aktivieren.
 
 ## Schritt 9 — Pflichten und Standards
 

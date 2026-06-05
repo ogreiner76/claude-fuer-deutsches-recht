@@ -22,7 +22,7 @@ description: "Wahlkampfrecht Praxis: Kaltstart fuer jede Wahlkampflage mit Routi
 
 ## Arbeitsfokus
 
-Sortiert Wahlart, Rolle, Druck, Unterlagen und gewuenschtes Ergebnis; schlaegt dann hoechstens fuenf Spezialskills vor.
+Sortiert Wahlart, Rolle, Druck, Unterlagen und gewuenschtes Ergebnis; schlaegt dann hoechstens fuenf Fachmodule vor.
 
 ## Spezifischer Prüfpfad
 

@@ -1,12 +1,12 @@
 ---
 name: beckrs
-description: "Nutze dies, wenn Beckrs: Zahlen, Schwellenwerte und Berechnung im Plugin Zitierweise Deutsches Recht konkret bearbeitet werden soll. Auslöser: Bitte Beckrs: Zahlen, Schwellenwerte und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Beckrs: Zahlen, Schwellenwerte und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beckrs: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beckrs: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Beckrs: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Beckrs: Zahlen, Schwellenwerte und Berechnung / spezial beckrs zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Beckrs: Zahlen, Schwellenwerte und Berechnung / beckrs zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

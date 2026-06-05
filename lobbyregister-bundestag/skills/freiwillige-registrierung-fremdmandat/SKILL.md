@@ -1,20 +1,20 @@
 ---
 name: freiwillige-registrierung-fremdmandat
-description: "Nutze dies, wenn Freiwillige Registrierung, Fremdmandat Agenturfall im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte Freiwillige Registrierung, Fremdmandat Agenturfall prüfen.; Erstelle eine Arbeitsfassung zu Freiwillige Registrierung, Fremdmandat Agenturfall.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Freiwillige Registrierung, Fremdmandat Agenturfall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Freiwillige Registrierung, Fremdmandat Agenturfall
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Freiwillige Registrierung, Fremdmandat Agenturfall** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `freiwillige-registrierung` | Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bußgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk. |
-| `fremdmandat-agenturfall` | Spezialworkflow für Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt. |
+| `fremdmandat-agenturfall` | Spezialfür Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt. |
 
 ## Arbeitsweg
 
@@ -84,7 +84,7 @@ Entscheidungsvorlage mit Vorteilen, Pflichten, Aufwand, Risiken und Go/No-Go.
 
 ## 2. `fremdmandat-agenturfall`
 
-**Fokus:** Spezialworkflow für Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt.
+**Fokus:** Spezialfür Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt.
 
 # Fremdmandat und Agenturfall
 

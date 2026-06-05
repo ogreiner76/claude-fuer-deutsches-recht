@@ -1,22 +1,22 @@
 ---
 name: holle-umkehr-italienische-kurienkommunikation
-description: "Nutze dies, wenn Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht prüfen.; Erstelle eine Arbeitsfassung zu Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation, Kanonisches Risiko Dashboard, Katechese Und Glaubensunterricht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `holle-gericht-umkehr-und-barmherzigkeit` | Hölle, Gericht, Umkehr und Barmherzigkeit: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `italienische-kurienkommunikation` | Italienische Kurienkommunikation: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kanonisches-risiko-dashboard` | Kanonisches Risiko-Dashboard: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `katechese-und-glaubensunterricht` | Katechese und Glaubensunterricht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `holle-gericht-umkehr-und-barmherzigkeit` | Hölle, Gericht, Umkehr und Barmherzigkeit: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `italienische-kurienkommunikation` | Italienische Kurienkommunikation: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kanonisches-risiko-dashboard` | Kanonisches Risiko-Dashboard: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `katechese-und-glaubensunterricht` | Katechese und Glaubensunterricht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Holle Gericht Umkehr Und Barmherzigkeit, Italienische Kurienkommunikation
 
 ## 1. `holle-gericht-umkehr-und-barmherzigkeit`
 
-**Fokus:** Hölle, Gericht, Umkehr und Barmherzigkeit: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Hölle, Gericht, Umkehr und Barmherzigkeit: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Hölle, Gericht, Umkehr und Barmherzigkeit
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `italienische-kurienkommunikation`
 
-**Fokus:** Italienische Kurienkommunikation: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Italienische Kurienkommunikation: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Italienische Kurienkommunikation
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `kanonisches-risiko-dashboard`
 
-**Fokus:** Kanonisches Risiko-Dashboard: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kanonisches Risiko-Dashboard: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kanonisches Risiko-Dashboard
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `katechese-und-glaubensunterricht`
 
-**Fokus:** Katechese und Glaubensunterricht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Katechese und Glaubensunterricht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Katechese und Glaubensunterricht
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

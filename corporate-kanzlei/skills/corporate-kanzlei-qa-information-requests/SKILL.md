@@ -171,8 +171,8 @@ Stand: [DATUM] / [VERSION]
 
 | Nr. | Datum Frage | Bieter | Frage | Workstream | Antwort-Owner | Antwortdatum | Status | Antwort-Kurzfassung |
 |-----|------------|--------|-------|------------|---------------|--------------|--------|---------------------|
-| 1   | [Datum]    | [Bieter A] | [Frage] | Legal | [Name] | [Datum] | Beantwortet | [Kurz] |
-| 2   | [Datum]    | [Bieter B] | [Frage] | Tax | [Steuerberater] | Ausstehend | Offen | — |
+| 1 | [Datum] | [Bieter A] | [Frage] | Legal | [Name] | [Datum] | Beantwortet | [Kurz] |
+| 2 | [Datum] | [Bieter B] | [Frage] | Tax | [Steuerberater] | Ausstehend | Offen | — |
 
 OFFENE FRAGEN: [Anzahl]
 BEANTWORTET: [Anzahl]

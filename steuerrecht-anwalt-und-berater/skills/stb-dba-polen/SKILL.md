@@ -141,12 +141,12 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: konkrete Mandantenfragen — Besteuerungsrecht, Quellensteuer, Erstattung.
 3. **Kurzantwort** (1 Satz): DBA-Polen 2003 Art. X regelt das Besteuerungsrecht; Anrechnungs-/Freistellungsmethode wird in DE angewendet.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-PL i.V.m. § 1 EStG).
-   - Sachliche Anwendbarkeit (Art. 2 DBA-PL).
-   - Einkunftsart (Art. 6-21 DBA-PL).
-   - Verteilungsartikel mit konkretem Quellensteuersatz.
-   - Methodenartikel (Art. 24 DBA-PL).
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG bei MTRL).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-PL i.V.m. § 1 EStG).
+ - Sachliche Anwendbarkeit (Art. 2 DBA-PL).
+ - Einkunftsart (Art. 6-21 DBA-PL).
+ - Verteilungsartikel mit konkretem Quellensteuersatz.
+ - Methodenartikel (Art. 24 DBA-PL).
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG bei MTRL).
 5. **Gesamtergebnis**: konkrete Steuerbelastung mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: § 50d Abs. 3 EStG, § 50d Abs. 9 EStG, MLI-Anwendung, Aktualitaet.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md): DBA-PL Fundstelle, BMF-Schreiben, ggf. BFH-Rechtsprechung.

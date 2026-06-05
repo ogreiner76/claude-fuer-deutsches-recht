@@ -8,7 +8,7 @@ description: "Prüft Mitgliedsbeiträge, Mandatsträgerbeiträge, Ermäßigung, 
 ## Aufgabe
 Prüft Mitgliedsbeiträge, Mandatsträgerbeiträge, Ermäßigung, Mahnung, Transparenz und Satzungsgrundlage.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

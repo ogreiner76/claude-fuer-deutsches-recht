@@ -1,13 +1,13 @@
 ---
 name: dokumentarchitektur-vertrag-englischer
-description: "Nutze dies, wenn Dokumentarchitektur Vertrag Und Schriftsatz, Englischer Vertrag Deutsches Recht im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Dokumentarchitektur Vertrag Und Schriftsatz, Englischer Vertrag Deutsches Recht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dokumentarchitektur Vertrag Und Schriftsatz, Englischer Vertrag Deutsches Recht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dokumentarchitektur Vertrag Und Schriftsatz, Englischer Vertrag Deutsches Recht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -35,7 +35,7 @@ Juristisches Drafting beginnt mit der Architektur, nicht mit dem Klauseltext. We
 
 Die Struktur ist Konvention, keine Mode. Gerichte erwarten sie. Geschaeftsleitung erwartet sie. Wer abweicht, soll wissen warum.
 
-Der Skill liefert je Dokument einen Strukturbaum als Tabelle und ein Skelett. Klauseltext entsteht in den Spezial-Skills.
+Der Skill liefert je Dokument einen Strukturbaum als Tabelle und ein Skelett. Klauseltext entsteht in den Fachmodule.
 
 ## Eingaben
 
@@ -128,7 +128,7 @@ Der Skill liefert je Dokument einen Strukturbaum als Tabelle und ein Skelett. Kl
 
 - Strukturbaum als Tabelle.
 - Skelett-Dokument mit Ueberschriften und Platzhaltern in eckigen Klammern.
-- Hinweis auf einschlaegige Spezial-Skills je Block.
+- Hinweis auf einschlaegige Fachmodule je Block.
 
 ## Beispiel
 

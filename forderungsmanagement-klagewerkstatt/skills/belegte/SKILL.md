@@ -1,6 +1,6 @@
 ---
 name: belegte
-description: "Nutze dies, wenn Belegte: Compliance-Dokumentation und Aktenvermerk im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Belegte: Compliance-Dokumentation und Aktenvermerk: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Belegte: Compliance-Dokumentation und Aktenvermerk

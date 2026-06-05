@@ -1,13 +1,13 @@
 ---
 name: wandlungsausschluss-wandlungsmechanik
-description: "Nutze dies, wenn Wandlungsausschluss Prüfung, Wandlungsmechanik Konzipieren im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Bitte Wandlungsausschluss Prüfung, Wandlungsmechanik Konzipieren prüfen.; Erstelle eine Arbeitsfassung zu Wandlungsausschluss Prüfung, Wandlungsmechanik Konzipieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wandlungsausschluss Prüfung, Wandlungsmechanik Konzipieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wandlungsausschluss Prüfung, Wandlungsmechanik Konzipieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wandlungsausschluss Prüfung, Wandlungsmechanik Konzipieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -158,9 +158,9 @@ c) Liquidation Event: Share Deal >50 %, Asset Deal >50 % Aktivvermögen, Fusion,
 
 ### 2. Wandlungspreis-Formel bestimmen
 Wandlungspreis je Anteil (€/Anteil) = MIN(
-  Pre-Money-Bewertung Runde / vollverwässerte Anteile vor Runde,
-  (1 − Discount) × Pre-Money-Bewertung Runde / vollverwässerte Anteile vor Runde,
-  Cap / vollverwässerte Anteile vor Runde
+ Pre-Money-Bewertung Runde / vollverwässerte Anteile vor Runde,
+ (1 − Discount) × Pre-Money-Bewertung Runde / vollverwässerte Anteile vor Runde,
+ Cap / vollverwässerte Anteile vor Runde
 )
 Anzahl neue Anteile = (Darlehen + aufgelaufene Zinsen) / Wandlungspreis (auf nächsten ganzen EUR aufrunden, § 5 Abs. 1 GmbHG).
 

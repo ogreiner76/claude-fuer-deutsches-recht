@@ -1,13 +1,13 @@
 ---
 name: bewaehrung-auflagen-bewaehrungswiderruf-56f
-description: "Nutze dies, wenn Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung prüfen.; Erstelle eine Arbeitsfassung zu Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bewaehrung Auflagen Und Weisungen 56b C Stgb, Bewaehrungswiderruf 56f Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bewaehrung Auflagen Und Weisungen 56B C Stgb, Bewaehrungswiderruf 56F Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -77,16 +77,16 @@ Das Gericht **kann** einen Bewaehrungshelfer bestellen. Bei Strafe ueber 9 Monat
 ## Schritt-fuer-Schritt-Anleitung (Verteidigung)
 
 1. **Vor der Hauptverhandlung**: Auflagenpaket mit dem Mandanten abstimmen — was kann er tragen?
-   - Schadenswiedergutmachung an den Geschaedigten (auch Ratenangebot).
-   - Geldbetrag an eine konkrete gemeinnuetzige Einrichtung in einer wirtschaftlich tragbaren Hoehe.
-   - Stundenangebot fuer gemeinnuetzige Arbeit (z.B. 60 oder 100 Stunden).
+ - Schadenswiedergutmachung an den Geschaedigten (auch Ratenangebot).
+ - Geldbetrag an eine konkrete gemeinnuetzige Einrichtung in einer wirtschaftlich tragbaren Hoehe.
+ - Stundenangebot fuer gemeinnuetzige Arbeit (z.B. 60 oder 100 Stunden).
 2. **Im Plaedoyer** ausdruecklich anbieten:
-   - "Mein Mandant ist bereit, zur Genugtuung [...] zu zahlen."
-   - "Mein Mandant ist bereit, [X] Stunden gemeinnuetzige Arbeit zu leisten."
+ - "Mein Mandant ist bereit, zur Genugtuung [...] zu zahlen."
+ - "Mein Mandant ist bereit, [X] Stunden gemeinnuetzige Arbeit zu leisten."
 3. **Weisungen** nur akzeptieren oder anregen, wenn sie zumutbar sind und das Mandanteninteresse nicht verletzen:
-   - Therapie nur mit Einwilligung.
-   - Aufenthaltsweisungen, die Arbeitsstelle gefaehrden, ablehnen.
-   - Kontaktverbote nur, wenn der Mandant einverstanden ist.
+ - Therapie nur mit Einwilligung.
+ - Aufenthaltsweisungen, die Arbeitsstelle gefaehrden, ablehnen.
+ - Kontaktverbote nur, wenn der Mandant einverstanden ist.
 4. **Nach Verkuendung**: Auflagen-/Weisungs-Beschluss pruefen, ggf. **sofortige Beschwerde** nach § 305a StPO oder § 311 StPO innerhalb einer Woche.
 
 ## Standardauflagen (Praxis)
@@ -103,14 +103,14 @@ Das Gericht **kann** einen Bewaehrungshelfer bestellen. Bei Strafe ueber 9 Monat
 Beschluss (§ 268a StPO)
 
 I. Die Vollstreckung der Freiheitsstrafe von [X] Monaten wird
-   zur Bewaehrung ausgesetzt.
+ zur Bewaehrung ausgesetzt.
 II. Die Bewaehrungszeit wird auf [X] Jahre festgesetzt.
 III. Auflagen (§ 56b StGB):
-     - [Wiedergutmachung]
-     - [Geldzahlung]
-     - [gemeinnuetzige Arbeit]
+ - [Wiedergutmachung]
+ - [Geldzahlung]
+ - [gemeinnuetzige Arbeit]
 IV. Weisungen (§ 56c StGB):
-     - [Aufenthalt / Beruf / Therapie / Meldepflicht / Kontaktverbot]
+ - [Aufenthalt / Beruf / Therapie / Meldepflicht / Kontaktverbot]
 V. [Bestellung Bewaehrungshelfer nach § 56d StGB]
 VI. Belehrung nach § 268a Abs. 3 StPO.
 ```
@@ -208,14 +208,14 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
 1. **Akteneinsicht** § 147 StPO in die Bewaehrungsakte (Bewaehrungshelfer-Berichte, vorhaltliche Schreiben).
 2. **Tatsachenstand klaeren**: Welche konkreten Verstoesse werden vorgeworfen? Gibt es Belege?
 3. **Mildere Massnahmen** offensiv anbieten:
-   - Auflagenerfuellung nachholen.
-   - Bewaehrungszeit-Verlaengerung.
-   - Therapieteilnahme aufnehmen.
-   - Schadenswiedergutmachung nachholen.
+ - Auflagenerfuellung nachholen.
+ - Bewaehrungszeit-Verlaengerung.
+ - Therapieteilnahme aufnehmen.
+ - Schadenswiedergutmachung nachholen.
 4. **Anhoerungstermin** (§ 453 StPO) gut vorbereiten:
-   - Mandant praesentieren: stabilisiert, lernfaehig.
-   - Schriftliche Stellungnahme einreichen.
-   - Beleg fuer aktuelle Lebenssituation.
+ - Mandant praesentieren: stabilisiert, lernfaehig.
+ - Schriftliche Stellungnahme einreichen.
+ - Beleg fuer aktuelle Lebenssituation.
 5. **Sofortige Beschwerde** nach § 453 Abs. 2 StPO i.V.m. § 311 StPO innerhalb einer **Woche** ab Zustellung.
 6. **Bei zweiter Verurteilung** in der Bewaehrungszeit: Pruefung, ob Gesamtstrafenbildung (§ 55 StGB) anstelle eines Widerrufs sinnvoll ist; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
 
@@ -298,8 +298,8 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 
 - Pruefung nur bei besonderen Umstaenden.
 - Voraussetzungen:
-  - Erstvollverbuesser ohne einschlaegige Vorbelastung, **oder**
-  - besondere Umstaende der Tat, der Persoenlichkeit oder der Entwicklung im Vollzug.
+ - Erstvollverbuesser ohne einschlaegige Vorbelastung, **oder**
+ - besondere Umstaende der Tat, der Persoenlichkeit oder der Entwicklung im Vollzug.
 - Frueheste Pruefung nach Verbuessung von 1/2 der Strafe, jedoch mindestens 6 Monate.
 
 ### Lebenslang (§ 57a StGB)
@@ -327,8 +327,8 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 2. **§ 35 BtMG** pruefen, wenn Tat im BtM-Zusammenhang.
 3. **Strafaufschub / -unterbrechung** pruefen, wenn persoenliche Lage es erfordert.
 4. **Reststrafenaussetzung** rechtzeitig vorbereiten:
-   - Sozialprognose mit Schulungs-/Therapie-/Arbeitsangebot fuer die Bewaehrungszeit.
-   - Anhoerungsschriftsatz bei der Strafvollstreckungskammer.
+ - Sozialprognose mit Schulungs-/Therapie-/Arbeitsangebot fuer die Bewaehrungszeit.
+ - Anhoerungsschriftsatz bei der Strafvollstreckungskammer.
 5. **Vollstreckungsplan** mit dem Mandanten besprechen: realistische Erwartung, JVA-Standort, Familienkontakt, Bildungs- und Therapieangebote im Vollzug.
 
 ## Typische Fehler

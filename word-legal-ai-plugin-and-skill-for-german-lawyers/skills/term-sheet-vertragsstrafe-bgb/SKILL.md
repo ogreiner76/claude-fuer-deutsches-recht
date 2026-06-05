@@ -1,13 +1,13 @@
 ---
 name: term-sheet-vertragsstrafe-bgb
-description: "Nutze dies, wenn Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb prüfen.; Erstelle eine Arbeitsfassung zu Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

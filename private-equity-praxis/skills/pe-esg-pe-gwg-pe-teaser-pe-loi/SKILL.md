@@ -1,13 +1,13 @@
 ---
 name: pe-esg-pe-gwg-pe-teaser-pe-loi
-description: "Nutze dies, wenn Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer prüfen.; Erstelle eine Arbeitsfassung zu Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,7 +57,7 @@ Der Skill baut keine Marketingfolie, sondern eine beweisbare ESG-Arbeitsmatrix. 
 
 SFDR (VO (EU) 2019/2088), insb. Art. 6 (alle Fonds), Art. 8 ("light green", ESG-Promotion), Art. 9 ("dark green", Sustainable Investment Objective); SFDR Delegated Regulation (EU) 2022/1288 (Templates, PAI); EU-Taxonomie-VO (EU) 2020/852; CSRD (RL (EU) 2022/2464) mit gestuftem Anwendungsbereich seit 2024; ESRS Reporting Standards; LkSG (Lieferkettensorgfaltspflichtengesetz, seit 01.01.2024 für Unternehmen ab 1.000 Beschäftigte); CSDDD (RL (EU) 2024/1760, Umsetzungsfrist 26.07.2027); UWG/Greenwashing (BGH-Rechtsprechung zu "klimaneutral", ständige Rechtsprechung mit konkreten Aktenzeichen vom Anwender zu verifizieren).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. SFDR-Kategorie pro Fonds dokumentiert festlegen — basis für Pre-Contractual Disclosure, Website und PPM.
 2. PAI-Statement: 14 obligatorische plus mindestens 2 optionale Indikatoren; Datenerhebung aus Portfoliogesellschaften.
@@ -154,7 +154,7 @@ Pflicht vor Mandatsannahme, Zeichnung, Closing, Portfolio-Add-on und NPL-Kauf. D
 
 GwG (Geldwäschegesetz, neueste Fassung), insb. §§ 10–15 (Sorgfaltspflichten), § 11 (Identifizierung), §§ 18–24 (UBO und Transparenzregister), § 43 (Verdachtsmeldung); Transparenzregister-Pflicht für alle deutschen Gesellschaften (TPLG); EU-Geldwäscheregeln: AMLD VI (RL (EU) 2024/1640), AMLR (VO (EU) 2024/1624 anwendbar ab Juli 2027, mit Übergangsregelungen); AWG/AWV; EU-Russland-Sanktionen (VO (EU) 833/2014 mit zahlreichen Amendments, vom Anwender mit aktuellem Stand zu prüfen); EU-Iran (VO 267/2012), EU-Belarus (VO 765/2006); US OFAC SDN List; UK Sanctions OFSI; Dual-Use-VO (EU) 2021/821; HRR § 6 Abs. 1 GmbHG für Konzernlisten.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Customer Due Diligence Level bestimmen: Standard, Simplified (§ 14 GwG) oder Enhanced (§ 15 GwG bei PEP, High Risk Country, komplexe Strukturen).
 2. UBO-Kette aufrollen: Direkter/indirekter Halt > 25 Prozent oder Kontrolle? Stiftungen, Trusts, Holding-Strukturen detailliert.

@@ -1,13 +1,13 @@
 ---
 name: lease-sale-back-mietkauf-abgrenzung
-description: "Nutze dies, wenn Lease 010 Sale And Lease Back Liquiditaet Und Insolvenzanfechtun, Lease 011 Mietkauf Abgrenzung Eigentumsuebergang, Lease 020 Bilanzierung Hgb Ifrs Und Wirtschaftliches Eigentum im Plugin Leasingrecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Lease 010 Sale And Lease Back Liquiditaet Und Insolvenzanfechtun, Lease 011 Mietkauf Abgrenzung Eigentumsuebergang, Lease 020 Bilanzierung Hgb Ifrs Und Wirtschaftliches Eigentum prüfen.; Erstelle eine Arbeitsfassung zu Lease 010 Sale And Lease Back Liquiditaet Und Insolvenzanfechtun, Lease 011 Mietkauf Abgrenzung Eigentumsuebergang, Lease 020 Bilanzierung Hgb Ifrs Und Wirtschaftliches Eigentum.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lease 010 Sale And Lease Back Liquiditaet Und Insolvenzanfechtun, Lease 011 Mietkauf Abgrenzung Eigentumsuebergang, Lease 020 Bilanzierung Hgb Ifrs Und Wirtschaftliches Eigentum: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lease 010 Sale And Lease Back Liquiditaet Und Insolvenzanfechtun, Lease 011 Mietkauf Abgrenzung Eigentumsuebergang, Lease 020 Bilanzierung Hgb Ifrs Und Wirtschaftliches Eigentum
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lease 010 Sale And Lease Back Liquiditaet Und Insolvenzanfechtun, Lease 011 Mietkauf Abgrenzung Eigentumsuebergang, Lease 020 Bilanzierung Hgb Ifrs Und Wirtschaftliches Eigentum** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -243,17 +243,17 @@ Wirtschaftsgüter sind demjenigen zuzurechnen, der die tatsächliche Herrschaft 
 
 **Erlass 19.04.1971 (Vollamortisation)**:
 - Zurechnung beim **LG** (Regelfall) wenn:
-  - Grundmietzeit 40–90 % der betriebsgewöhnlichen Nutzungsdauer UND
-  - Kein Anzeichen für wirtschaftliches Eigentum des LN
+ - Grundmietzeit 40–90 % der betriebsgewöhnlichen Nutzungsdauer UND
+ - Kein Anzeichen für wirtschaftliches Eigentum des LN
 - Zurechnung beim **LN** wenn:
-  - Grundmietzeit < 40 % oder > 90 % der Nutzungsdauer ODER
-  - Kaufoption zu Preis erheblich unter Buchwert
+ - Grundmietzeit < 40 % oder > 90 % der Nutzungsdauer ODER
+ - Kaufoption zu Preis erheblich unter Buchwert
 
 **Erlass 22.12.1975 (Teilamortisation)**:
 - Grundsatz: Zurechnung beim LG
 - Ausnahme (Zurechnung beim LN):
-  - Andienungsrecht führt zu Erwerbspflicht des LN
-  - Kündigung und Restwert führen wirtschaftlich zu Eigentumsübergang
+ - Andienungsrecht führt zu Erwerbspflicht des LN
+ - Kündigung und Restwert führen wirtschaftlich zu Eigentumsübergang
 
 ### Bilanzausweis HGB
 

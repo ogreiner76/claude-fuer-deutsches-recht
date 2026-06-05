@@ -1,13 +1,13 @@
 ---
 name: verl-fachbuch-verl-verlagsinsolvenz
-description: "Nutze dies, wenn Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand prüfen.; Erstelle eine Arbeitsfassung zu Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -176,8 +176,8 @@ Die **Insolvenz eines Verlags** ist für Autoren ein Worst-Case-Szenario: Honora
 ## Das Wahlrecht des Insolvenzverwalters (§ 103 InsO)
 
 - IV kann für jeden Verlagsvertrag wählen:
-  - **Erfüllung wählen**: IV zahlt ausstehende Honorare aus Insolvenzmasse und kann Nutzungsrechte weiterhin ausüben.
-  - **Nichterfüllung wählen / schweigen**: Der Verlagsvertrag gilt als nicht erfüllt; Autor hat Schadensersatzanspruch; Nutzungsrechte fallen zurück.
+ - **Erfüllung wählen**: IV zahlt ausstehende Honorare aus Insolvenzmasse und kann Nutzungsrechte weiterhin ausüben.
+ - **Nichterfüllung wählen / schweigen**: Der Verlagsvertrag gilt als nicht erfüllt; Autor hat Schadensersatzanspruch; Nutzungsrechte fallen zurück.
 - **Wichtig**: Schweigen des IV = Nichterfüllung nach Fristsetzung durch den Autor (§ 103 Abs. 2 InsO).
 - **Fristsetzung durch Autor**: Autor schreibt IV an und fordert ihn auf, binnen angemessener Frist (2–4 Wochen) zu wählen.
 

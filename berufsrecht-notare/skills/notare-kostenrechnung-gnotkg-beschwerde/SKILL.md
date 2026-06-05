@@ -1,13 +1,13 @@
 ---
 name: notare-kostenrechnung-gnotkg-beschwerde
-description: "Nutze dies, wenn Notare Kostenrechnung Gnotkg Beschwerde Kammerantwort Und Verfa, Notare Kostenrechnung Gnotkg Beschwerde Organisationspflicht Un, Notare Nebentaetigkeit Und Interessenkollision Kammerantwort Un, Notare Nebentaetigkeit Und Interessenkollision Organisationspfl im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Kostenrechnung Gnotkg Beschwerde Kammerantwort Und Verfa, Notare Kostenrechnung Gnotkg Beschwerde Organisationspflicht Un, Notare Nebentaetigkeit Und Interessenkollision Kammerantwort Un, Notare Nebentaetigkeit Und Interessenkollision Organisationspfl prüfen.; Erstelle eine Arbeitsfassung zu Notare Kostenrechnung Gnotkg Beschwerde Kammerantwort Und Verfa, Notare Kostenrechnung Gnotkg Beschwerde Organisationspflicht Un, Notare Nebentaetigkeit Und Interessenkollision Kammerantwort Un, Notare Nebentaetigkeit Und Interessenkollision Organisationspfl.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notare Kostenrechnung Gnotkg Beschwerde Kammerantwort Und Verfa, Notare Kostenrechnung Gnotkg Beschwerde Organisationspflicht Un, Notare Nebentaetigkeit Und Interessenkollision Kammerantwort Un, Notare Nebentaetigkeit Und Interessenkollision Organisationspfl: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Kostenrechnung Gnotkg Beschwerde Kammerantwort Und Verfa, Notare Kostenrechnung Gnotkg Beschwerde Organisationspflicht Un, Notare Nebentaetigkeit Und Interessenkollision Kammerantwort Un, Notare Nebentaetigkeit Und Interessenkollision Organisationspfl
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Kostenrechnung Gnotkg Beschwerde Kammerantwort Und Verfa, Notare Kostenrechnung Gnotkg Beschwerde Organisationspflicht Un, Notare Nebentaetigkeit Und Interessenkollision Kammerantwort Un, Notare Nebentaetigkeit Und Interessenkollision Organisationspfl** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

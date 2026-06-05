@@ -1,13 +1,13 @@
 ---
 name: modehaeuser-uspto-wort-interessen-ttab
-description: "Nutze dies, wenn Spezial Modehaeuser Dokumentenmatrix Und Lueckenliste, Spezial Uspto Verhandlung Vergleich Und Eskalation, Spezial Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Spezial Modehaeuser Dokumentenmatrix Und Lueckenliste, Spezial Uspto Verhandlung Vergleich Und Eskalation, Spezial Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Modehaeuser Dokumentenmatrix Und Lueckenliste, Spezial Uspto Verhandlung Vergleich Und Eskalation, Spezial Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Modehaeuser Dokumentenmatrix Und Lueckenliste, Spezial Uspto Verhandlung Vergleich Und Eskalation, Spezial Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation
+# Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Modehaeuser Dokumentenmatrix Und Lueckenliste, Spezial Uspto Verhandlung Vergleich Und Eskalation, Spezial Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Modehaeuser Dokumentenmatrix Und Lueckenliste, Uspto Verhandlung Vergleich Und Eskalation, Wort Mehrparteien Konflikt Und Interessen, Ttab Opposition Und Cancellation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Spezial Modehaeuser Dokumentenmatrix Und Lueckenliste, Spezial Uspto Verh
 # Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung / spezial modehaeuser dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung / modehaeuser dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -73,7 +73,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # USPTO: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: USPTO: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** USPTO: Verhandlung, Vergleich und Eskalation / spezial uspto verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** USPTO: Verhandlung, Vergleich und Eskalation / uspto verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** USPTO, DPMA, EUIPO, NYC, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -114,7 +114,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Wort: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Wort: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Wort: Mehrparteienkonflikt und Interessenmatrix / spezial wort mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Wort: Mehrparteienkonflikt und Interessenmatrix / wort mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -182,51 +182,51 @@ Opposition und Cancellation beim TTAB sind vollständige adversarielle Verfahren
 ### Opposition (Angriff auf neu veröffentlichte Marke)
 
 1. **Beobachtung des Official Gazette:**
-   - USPTO Official Gazette (wöchentlich, dienstags): Alle zur Eintragung veröffentlichten Marken
-   - TTAB-Watch-Dienste: Alert-System (z.B. docket.justia.com, Thomson CompuMark)
-   - Frist: 30 Tage ab Publication; Verlängerungen möglich (Request for Extension)
+ - USPTO Official Gazette (wöchentlich, dienstags): Alle zur Eintragung veröffentlichten Marken
+ - TTAB-Watch-Dienste: Alert-System (z.B. docket.justia.com, Thomson CompuMark)
+ - Frist: 30 Tage ab Publication; Verlängerungen möglich (Request for Extension)
 
 2. **Extension of Time to Oppose:**
-   - First Extension: 30 Tage (automatisch auf Antrag, kostenlos)
-   - Further Extensions: Bis 90 Tage mit Good Cause; bis 120 Tage mit Written Consent des Applicants
-   - Gesamtmaximum: 180 Tage
+ - First Extension: 30 Tage (automatisch auf Antrag, kostenlos)
+ - Further Extensions: Bis 90 Tage mit Good Cause; bis 120 Tage mit Written Consent des Applicants
+ - Gesamtmaximum: 180 Tage
 
 3. **Notice of Opposition einreichen (37 C.F.R. § 2.101):**
-   - Electronic filing via ESTTA (Electronic System for Trademark Trials and Appeals)
-   - Pflichtangaben: (a) Opposer's name and address, (b) Grounds of Opposition, (c) Prior rights, (d) Fee: USD 600/class
-   - Grounds: Likelihood of Confusion (§ 2(d)); Dilution (§ 1125(c)); Descriptiveness; Fraud; Priority
+ - Electronic filing via ESTTA (Electronic System for Trademark Trials and Appeals)
+ - Pflichtangaben: (a) Opposer's name and address, (b) Grounds of Opposition, (c) Prior rights, (d) Fee: USD 600/class
+ - Grounds: Likelihood of Confusion (§ 2(d)); Dilution (§ 1125(c)); Descriptiveness; Fraud; Priority
 
 4. **Verfahrensablauf:**
-   - Service of Notice on Applicant
-   - **Answer:** 40 Tage; Applicant antwortet auf jeden Vorwurf
-   - **Discovery Period:** 3 Monate; Interrogatories, Document Requests, Depositions
-   - **Trial Period:** Testimonial Depositions, Declarations, Exhibits
-   - **Briefs:** Opening Brief (Opposer), Answering Brief (Applicant), Reply Brief (Opposer)
-   - **Oral Hearing** (optional, auf Antrag)
-   - **Decision:** Board entscheidet; keine feste Frist (oft 18-36 Monate gesamt)
+ - Service of Notice on Applicant
+ - **Answer:** 40 Tage; Applicant antwortet auf jeden Vorwurf
+ - **Discovery Period:** 3 Monate; Interrogatories, Document Requests, Depositions
+ - **Trial Period:** Testimonial Depositions, Declarations, Exhibits
+ - **Briefs:** Opening Brief (Opposer), Answering Brief (Applicant), Reply Brief (Opposer)
+ - **Oral Hearing** (optional, auf Antrag)
+ - **Decision:** Board entscheidet; keine feste Frist (oft 18-36 Monate gesamt)
 
 ### Cancellation (Angriff auf eingetragene Marke)
 
 5. **Petition for Cancellation (37 C.F.R. § 2.111):**
-   - Petitioner: Jede Person mit Standing (echtem Interesse / belief of damage)
-   - Frist: Grundsätzlich jederzeit; aber:
-     - Incontestability nach § 15 Lanham Act (5 Jahre ununterbrochene Benutzung + keine Challenges) — Grounds beschränkt auf Genericness, Fraud, abandonment
-   - Fee: USD 600/class
-   - Grounds: identisch wie Opposition + Priority + Genericness
+ - Petitioner: Jede Person mit Standing (echtem Interesse / belief of damage)
+ - Frist: Grundsätzlich jederzeit; aber:
+ - Incontestability nach § 15 Lanham Act (5 Jahre ununterbrochene Benutzung + keine Challenges) — Grounds beschränkt auf Genericness, Fraud, abandonment
+ - Fee: USD 600/class
+ - Grounds: identisch wie Opposition + Priority + Genericness
 
 6. **Strategische Grounds bei Cancellation:**
-   - **Priority + Likelihood of Confusion:** Klassischer Klôtzzkètté-Angriff gegen US-Copycat
-   - **Fraud (In re Bose):** Nur bei bewusstem Täuschen über Use in Commerce — hohe Beweislast; Risiko backfire
-   - **Dilution (§ 1125(c)):** klôtzzkètté als famous mark in USA? Nachweis erforderlich (Marktanteil, Medienberichterstattung, Sales figures)
-   - **Abandonment:** Gegnermarke 3+ Jahre nicht benutzt ohne Intent to Resume
+ - **Priority + Likelihood of Confusion:** Klassischer Klôtzzkètté-Angriff gegen US-Copycat
+ - **Fraud (In re Bose):** Nur bei bewusstem Täuschen über Use in Commerce — hohe Beweislast; Risiko backfire
+ - **Dilution (§ 1125(c)):** klôtzzkètté als famous mark in USA? Nachweis erforderlich (Marktanteil, Medienberichterstattung, Sales figures)
+ - **Abandonment:** Gegnermarke 3+ Jahre nicht benutzt ohne Intent to Resume
 
 ### Dilution-Anspruch (TDRA 2006)
 
 7. **Anforderungen § 1125(c) TDRA:**
-   - Mark muss "famous" sein (widely recognized by the general consuming public)
-   - Dilution by Blurring: Ähnlichkeit die Einzigartigkeit schwächt (Senior Mark association vermindert)
-   - Dilution by Tarnishment: Rufschädigung durch negative Assoziation
-   - klôtzzkètté-Famousness in USA: Ab wann? Meinungsumfrage + Sales Data + Media Coverage nötig
+ - Mark muss "famous" sein (widely recognized by the general consuming public)
+ - Dilution by Blurring: Ähnlichkeit die Einzigartigkeit schwächt (Senior Mark association vermindert)
+ - Dilution by Tarnishment: Rufschädigung durch negative Assoziation
+ - klôtzzkètté-Famousness in USA: Ab wann? Meinungsumfrage + Sales Data + Media Coverage nötig
 
 ## Falltypische Konstellationen
 
@@ -260,16 +260,16 @@ Opposition No. [...]
 NOTICE OF OPPOSITION
 
 1. Opposer klôtzzkètté Inc. (712 Fifth Avenue, New York, NY 10019) is
-   the owner of U.S. Registration No. [...] and/or has been using the
-   mark KLÔTZZKÈTTÉ in commerce since [date].
+ the owner of U.S. Registration No. [...] and/or has been using the
+ mark KLÔTZZKÈTTÉ in commerce since [date].
 
 2. On [date], Applicant filed Application Serial No. [...] to register
-   [MARK] for [goods/services].
+ [MARK] for [goods/services].
 
 3. Grounds for Opposition:
-   Ground 1: Likelihood of confusion under § 2(d) Lanham Act
-   Ground 2: Priority (Opposer has prior use since [year])
-   [...]
+ Ground 1: Likelihood of confusion under § 2(d) Lanham Act
+ Ground 2: Priority (Opposer has prior use since [year])
+ [...]
 
 WHEREFORE, Opposer requests that registration be refused.
 

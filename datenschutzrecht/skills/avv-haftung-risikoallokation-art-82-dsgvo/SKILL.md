@@ -29,28 +29,28 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 ## Ablauf / Checkliste
 
 1. **Aussenhaftung mappen.**
-   - Wer ist gegenueber Betroffenen Anspruchsgegner? Verantwortlicher allein, Auftragsverarbeiter, beide?
-   - Gesamtschuld nach Art. 82 Abs. 4 DSGVO bei gemeinsamer Beteiligung am Verarbeitungsvorgang.
+ - Wer ist gegenueber Betroffenen Anspruchsgegner? Verantwortlicher allein, Auftragsverarbeiter, beide?
+ - Gesamtschuld nach Art. 82 Abs. 4 DSGVO bei gemeinsamer Beteiligung am Verarbeitungsvorgang.
 
 2. **Innenregress regeln.**
-   - Mass nach Art. 82 Abs. 5 DSGVO: anteilige Verantwortung.
-   - Beweislast: jede Partei muss ihren Pflichtenkreis dokumentieren.
-   - Vertragliche Vereinbarung darf den gesetzlichen Innenregress nicht ausschliessen, aber konkretisieren (Pauschalierung, Schadensobergrenzen).
+ - Mass nach Art. 82 Abs. 5 DSGVO: anteilige Verantwortung.
+ - Beweislast: jede Partei muss ihren Pflichtenkreis dokumentieren.
+ - Vertragliche Vereinbarung darf den gesetzlichen Innenregress nicht ausschliessen, aber konkretisieren (Pauschalierung, Schadensobergrenzen).
 
 3. **Cap-Diskussion.**
-   - Aussenhaftung kann nicht durch Vertrag zwischen Verantwortlichem und Auftragsverarbeiter zu Lasten des Betroffenen begrenzt werden.
-   - Innenregress-Cap zulaessig, soweit nicht gegen § 307 BGB (AGB), Vorsatz und grobe Fahrlaessigkeit nicht ausschliessbar.
-   - Branchenuebliche Caps: 12-Monats-Honorar, oft mit Sub-Cap fuer Datenschutzverletzungen.
+ - Aussenhaftung kann nicht durch Vertrag zwischen Verantwortlichem und Auftragsverarbeiter zu Lasten des Betroffenen begrenzt werden.
+ - Innenregress-Cap zulaessig, soweit nicht gegen § 307 BGB (AGB), Vorsatz und grobe Fahrlaessigkeit nicht ausschliessbar.
+ - Branchenuebliche Caps: 12-Monats-Honorar, oft mit Sub-Cap fuer Datenschutzverletzungen.
 
 4. **Versicherung.**
-   - Cyber-Versicherung des Auftragsverarbeiters: Deckungssumme, Selbstbehalt, Geltungsbereich.
-   - Pflicht zur Vorlage des Versicherungsnachweises (Versicherungsbestaetigung).
-   - DSGVO-Bussgelder regelmaessig versicherungsausschluss.
+ - Cyber-Versicherung des Auftragsverarbeiters: Deckungssumme, Selbstbehalt, Geltungsbereich.
+ - Pflicht zur Vorlage des Versicherungsnachweises (Versicherungsbestaetigung).
+ - DSGVO-Bussgelder regelmaessig versicherungsausschluss.
 
 5. **Sub-AV-Kette.**
-   - Haftung in der Kette wird durch Art. 28 Abs. 4 DSGVO durchgereicht.
-   - Primaerer Auftragsverarbeiter haftet weiter fuer Sub-AV.
-   - Regress des primaeren Auftragsverarbeiters gegen Sub-AV vertraglich zu sichern.
+ - Haftung in der Kette wird durch Art. 28 Abs. 4 DSGVO durchgereicht.
+ - Primaerer Auftragsverarbeiter haftet weiter fuer Sub-AV.
+ - Regress des primaeren Auftragsverarbeiters gegen Sub-AV vertraglich zu sichern.
 
 ## Mustertext / Template
 

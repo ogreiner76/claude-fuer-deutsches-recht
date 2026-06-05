@@ -1,13 +1,13 @@
 ---
 name: rollen-rasci-hochrisiko-anhang-incident
-description: "Nutze dies, wenn Ki Governance Rollen Rasci, Ki Hochrisiko Anhang Iii Prüfen, Ki Incident Management Art 73 im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Bitte Ki Governance Rollen Rasci, Ki Hochrisiko Anhang Iii Prüfen, Ki Incident Management Art 73 prüfen.; Erstelle eine Arbeitsfassung zu Ki Governance Rollen Rasci, Ki Hochrisiko Anhang Iii Prüfen, Ki Incident Management Art 73.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ki Governance Rollen Rasci, Ki Hochrisiko Anhang Iii Prüfen, Ki Incident Management Art 73: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ki Governance Rollen Rasci, Ki Hochrisiko Anhang Iii Prüfen, Ki Incident Management Art 73
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ki Governance Rollen Rasci, Ki Hochrisiko Anhang Iii Prüfen, Ki Incident Management Art 73** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

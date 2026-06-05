@@ -1,13 +1,13 @@
 ---
 name: biometrie-emotion-ce-zeichen-chirurgie-op
-description: "Nutze dies, wenn Biometrie Emotion Und Personenerkennung, Ce Zeichen Fehlgebrauch Und Abmahnung, Chirurgie Und Op Robotik, Data Act Roboterdaten im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Biometrie Emotion Und Personenerkennung, Ce Zeichen Fehlgebrauch Und Abmahnung, Chirurgie Und Op Robotik, Data Act Roboterdaten prüfen.; Erstelle eine Arbeitsfassung zu Biometrie Emotion Und Personenerkennung, Ce Zeichen Fehlgebrauch Und Abmahnung, Chirurgie Und Op Robotik, Data Act Roboterdaten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Biometrie Emotion Und Personenerkennung, Ce Zeichen Fehlgebrauch Und Abmahnung, Chirurgie Und Op Robotik, Data Act Roboterdaten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Biometrie Emotion Und Personenerkennung, Ce Zeichen Fehlgebrauch Und Abmahnung, Chirurgie Und Op Robotik, Data Act Roboterdaten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -62,7 +62,7 @@ Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit 
 - **BDSG** § 22 öffentlicher Bereich; § 26 BDSG Beschäftigte.
 - **EuGH** Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija (Anschluss zur weiten Auslegung biometrischer Daten).
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Funktion exakt benennen.** "Personenerkennung" ist nicht gleich "Identifikation". Detection ≠ Recognition ≠ Identification ≠ Verifikation.
 2. **Verbots-Check Art. 5 KI-VO.** Arbeitsplatz/Bildung + Emotion? Social Scoring? Massensammlung? Echtzeit-Biometrie in öffentlichem Raum?
@@ -161,7 +161,7 @@ Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Wer
 - **UWG** §§ 3, 3a (Rechtsbruch), § 5 (Irreführung), § 13 (Abmahnung), § 8c (Missbrauch).
 - **ProdSG** § 7 ff. Wirtschaftsakteure.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Anwendbare Rechtsakte** abschließend bestimmen; multiple CE-Bewertungen sind Standard.
 2. **Bewertungsmodul** prüfen: Selbsterklärung, Stichprobenprüfung, Typprüfung, vollständiges QM – pro Rechtsakt.
@@ -263,7 +263,7 @@ OP- und Chirurgieroboter sind regelmäßig Medizinprodukte hoher Risikoklasse (M
 - **DSGVO** Art. 9 Patientendaten; § 22 BDSG.
 - **VO (EU) 2024/2853** Produkthaftung.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **MDR-Klassifizierung.** Klasse IIb/III? Software als Medizinprodukt (SaMD) gesondert? Kombiprodukt?
 2. **Konformitätsbewertung.** Modul nach Anhang IX/X MDR; Benannte Stelle eingebunden.
@@ -365,7 +365,7 @@ Der Data Act (VO (EU) 2023/2854) ist seit 11.01.2024 in Kraft und gilt überwieg
 - **GeschGehG** §§ 1, 17 GeschGehG / VO Trade Secrets (RL (EU) 2016/943).
 - **VO (EU) 2024/1689 (KI-VO)** Art. 10 zur Datenqualität.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Klassifizierung.** Ist der Roboter "connected product"? Sind Daten "produktgenerierte Daten" oder rein abgeleitete?
 2. **Datenkatalog.** Welche Datenarten entstehen? Welche sind schon heute Bestandteil des Datenmodells?

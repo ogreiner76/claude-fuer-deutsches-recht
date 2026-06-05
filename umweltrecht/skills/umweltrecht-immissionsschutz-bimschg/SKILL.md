@@ -1,13 +1,13 @@
 ---
 name: umweltrecht-immissionsschutz-bimschg
-description: "Nutze dies, wenn Umweltrecht Immissionsschutz Bimschg, Umweltrecht Kommandocenter, Umweltrecht Naturschutz Artenschutz im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Umweltrecht Immissionsschutz Bimschg, Umweltrecht Kommandocenter, Umweltrecht Naturschutz Artenschutz prüfen.; Erstelle eine Arbeitsfassung zu Umweltrecht Immissionsschutz Bimschg, Umweltrecht Kommandocenter, Umweltrecht Naturschutz Artenschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umweltrecht Immissionsschutz Bimschg, Umweltrecht Kommandocenter, Umweltrecht Naturschutz Artenschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umweltrecht Immissionsschutz Bimschg, Umweltrecht Kommandocenter, Umweltrecht Naturschutz Artenschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umweltrecht Immissionsschutz Bimschg, Umweltrecht Kommandocenter, Umweltrecht Naturschutz Artenschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -70,7 +70,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### A) Betreiber-Perspektive: Genehmigungsantrag
 
@@ -95,13 +95,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Liegt ein BImSchG-Bescheid vor?
-  JA → Bin ich Adressat (Betreiber)?
-         JA → Nebenbestimmungsanfechtung oder Aufhebungsklage
-         NEIN → Dritter (Nachbar/Verband)?
-                JA → Drittschutz § 5 Abs. 1 Nr. 1? TA-Laerm-Grenzwert ueberschritten?
-                       JA → Anfechtungsklage VG + ggf. § 80a Eilantrag
-                       NEIN → Zulassungsklage aussichtsarm
-  NEIN → Antragsverfahren laueft → Beteiligungsrechte wahren, Einwendungen erheben
+ JA → Bin ich Adressat (Betreiber)?
+ JA → Nebenbestimmungsanfechtung oder Aufhebungsklage
+ NEIN → Dritter (Nachbar/Verband)?
+ JA → Drittschutz § 5 Abs. 1 Nr. 1? TA-Laerm-Grenzwert ueberschritten?
+ JA → Anfechtungsklage VG + ggf. § 80a Eilantrag
+ NEIN → Zulassungsklage aussichtsarm
+ NEIN → Antragsverfahren laueft → Beteiligungsrechte wahren, Einwendungen erheben
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -143,7 +143,7 @@ II. Begruendung
 Der/die Klaeger/in ist Eigentuemerinn des Grundstuecks [FLUR].
 Die Genehmigung verletzt drittschuetzende Normen (§ 5 Abs. 1 Nr. 1 BImSchG):
 - Schallpegel: Prognostizierter Nachtwert [X] dB(A) ueberschreitet TA-Laerm-Richtwert
-  von 40 dB(A) im Reinen Wohngebiet / 45 dB(A) im Allgemeinen Wohngebiet.
+ von 40 dB(A) im Reinen Wohngebiet / 45 dB(A) im Allgemeinen Wohngebiet.
 - Gutachten-Maengel: [Konkrete Maengel benennen — Messpunkt, Methodik, Kumulation]
 - UVP-Verfahrensfehler: [Falls UVP-pflichtig — Oeffentlichkeitsbeteiligung unterblieben]
 
@@ -183,7 +183,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt` — Drittanfechtungs-Strategie
 - `umweltrecht-verfahren` — Klageverfahren Geruestvorbereitung
-- `energieanlagen-bimschg-genehmigung-verfahren` — Spezial-Workflow Energieanlagen
+- `energieanlagen-bimschg-genehmigung-verfahren` — Spezial-Energieanlagen
 - `eilantrag-80-abs-5-vwgo` — Eilrechtsschutz nach Genehmigung
 
 ## 2. `umweltrecht-kommandocenter`
@@ -192,9 +192,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 # Umweltrecht-Kommandocenter
 
-## Triage-Matrix — welcher Spezial-Skill?
+## Triage-Matrix — welcher Fachmodul?
 
-| Sachverhalt | Spezial-Skill |
+| Sachverhalt | Fachmodul |
 |---|---|
 | BImSchG-Genehmigung beantragen oder anfechten | `umweltrecht-immissionsschutz-bimschg` |
 | Emissionshandel TEHG, BEHG, DEHSt | `umweltrecht-emissionshandel-tehg` |
@@ -347,12 +347,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Ist streng geschuetzte Art betroffen (§ 44 Abs. 1 BNatSchG)?
-  JA → Vermeidung technisch moeglich?
-         JA → Vermeidungsmafsnahme festlegen und dokumentieren
-         NEIN → Ausnahme § 45 BNatSchG:
-                   Oeffentliches Interesse? JA → CEF-Mafsnahmen + Behoerdenentscheidung
-                   NEIN → Vorhaben in dieser Form nicht genehmigungsfaehig
-  NEIN → Eingriffs-Ausgleichs-Regelung § 15 BNatSchG genuegt
+ JA → Vermeidung technisch moeglich?
+ JA → Vermeidungsmafsnahme festlegen und dokumentieren
+ NEIN → Ausnahme § 45 BNatSchG:
+ Oeffentliches Interesse? JA → CEF-Mafsnahmen + Behoerdenentscheidung
+ NEIN → Vorhaben in dieser Form nicht genehmigungsfaehig
+ NEIN → Eingriffs-Ausgleichs-Regelung § 15 BNatSchG genuegt
 ```
 
 ## Output-Template: Einwendung im Genehmigungsverfahren (Verband)
@@ -376,7 +376,7 @@ Die saP vom [DATUM] genuegt nicht den Anforderungen:
 1. Kartierung Fledermaeuse: Nur [X] Begehungen, keine Auswertung Horchboxen.
 2. Brutvoegel: Brutvogel-Kartierung fehlt fuer Bereich [X] vollstaendig.
 3. Stoerungsverbot § 44 Abs. 1 Nr. 2 BNatSchG: Laermimmission waehrend Brutzeit
-   nicht bewertet.
+ nicht bewertet.
 
 III. FFH-Vertraeglichkeit § 34 BNatSchG
 Das FFH-Gebiet [NAME] liegt [X] m entfernt. Eine FFH-VS liegt nicht vor,

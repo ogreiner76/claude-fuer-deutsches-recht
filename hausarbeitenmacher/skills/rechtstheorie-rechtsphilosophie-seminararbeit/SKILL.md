@@ -1,13 +1,13 @@
 ---
 name: rechtstheorie-rechtsphilosophie-seminararbeit
-description: "Nutze dies, wenn Rechtstheorie Rechtsphilosophie Anbindung, Seminararbeit Modus, Spezial Adressaten Formular Portal Und Einreichung im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Bitte Rechtstheorie Rechtsphilosophie Anbindung, Seminararbeit Modus, Spezial Adressaten Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Rechtstheorie Rechtsphilosophie Anbindung, Seminararbeit Modus, Spezial Adressaten Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtstheorie Rechtsphilosophie Anbindung, Seminararbeit Modus, Adressaten Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Rechtstheorie Rechtsphilosophie Anbindung, Seminararbeit Modus, Spezial Adressaten Formular Portal Und Einreichung
+# Rechtstheorie Rechtsphilosophie Anbindung, Seminararbeit Modus, Adressaten Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtstheorie Rechtsphilosophie Anbindung, Seminararbeit Modus, Adressaten Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Rechtstheorie Rechtsphilosophie Anbindung, Seminararbeit Modus, Spezial Adressaten Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hausarbeitenmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtstheorie Rechtsphilosophie Anbindung, Seminararbeit Modus, Adressaten Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hausarbeitenmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -324,19 +324,19 @@ Wenn die Lehrkraft Auffassung A vertritt:
 
 ```
 A. Einleitung
-   I. Problemstellung
-   II. Forschungsfrage
-   III. Gang der Untersuchung
+ I. Problemstellung
+ II. Forschungsfrage
+ III. Gang der Untersuchung
 
 B. Hauptteil
-   I. Grundlagen / Definitionen
-   II. Streit-Stand (h.M., a.A., Differenzierungen)
-   III. Eigene These und Begründung
-   IV. Anwendung auf praktische Fragen
+ I. Grundlagen / Definitionen
+ II. Streit-Stand (h.M., a.A., Differenzierungen)
+ III. Eigene These und Begründung
+ IV. Anwendung auf praktische Fragen
 
 C. Schluss
-   I. Zusammenfassung der Ergebnisse
-   II. Ausblick / offene Fragen
+ I. Zusammenfassung der Ergebnisse
+ II. Ausblick / offene Fragen
 ```
 
 ### Charakteristisch für Seminararbeit
@@ -488,7 +488,7 @@ Die Lehrkraft wird Deinen Vortrag und Deine Arbeit hören — und manche werden 
 # Adressaten: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Adressaten: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Adressaten: Formular, Portal und Einreichungslogik / spezial adressaten formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Adressaten: Formular, Portal und Einreichungslogik / adressaten formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-nachzahlung-zinsen-pflegegrad-md
-description: "Nutze dies, wenn Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtung, Laienhilfe Pflegegrad Widerspruch Module, Laienhilfe Reha Antrag im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtung, Laienhilfe Pflegegrad Widerspruch Module, Laienhilfe Reha Antrag prüfen.; Erstelle eine Arbeitsfassung zu Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtung, Laienhilfe Pflegegrad Widerspruch Module, Laienhilfe Reha Antrag.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtung, Laienhilfe Pflegegrad Widerspruch Module, Laienhilfe Reha Antrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtung, Laienhilfe Pflegegrad Widerspruch Module, Laienhilfe Reha Antrag
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Nachzahlung Zinsen, Laienhilfe Pflegegrad Md Begutachtung, Laienhilfe Pflegegrad Widerspruch Module, Laienhilfe Reha Antrag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -161,12 +161,12 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 ## Pflegegrad / MD-Begutachtung - Themenspezifika
 - **Rechtsgrundlage:** §§ 14, 15 SGB XI (Pflegebeduerftigkeit, Pflegegrad-Ermittlung), § 18 SGB XI (Verfahren MD), §§ 36-45c SGB XI (Leistungsarten); Begutachtungsrichtlinien (BRi) des GKV-Spitzenverbands.
 - **Module § 15 SGB XI - 6 Bereiche** mit unterschiedlicher Gewichtung:
-  - **Modul 1: Mobilitaet** (10 %).
-  - **Modul 2: kognitive und kommunikative Faehigkeiten** (15 % - im Pflegegrad-Score gemeinsam mit Modul 3, jeweils einzeln Maximum).
-  - **Modul 3: Verhaltensweisen und psychische Problemlagen** (15 %).
-  - **Modul 4: Selbstversorgung** (40 % - hoechstes Gewicht!).
-  - **Modul 5: Bewaeltigung von und selbststaendiger Umgang mit krankheits-/therapiebedingten Anforderungen** (20 %).
-  - **Modul 6: Gestaltung des Alltagslebens und sozialer Kontakte** (15 %).
+ - **Modul 1: Mobilitaet** (10 %).
+ - **Modul 2: kognitive und kommunikative Faehigkeiten** (15 % - im Pflegegrad-Score gemeinsam mit Modul 3, jeweils einzeln Maximum).
+ - **Modul 3: Verhaltensweisen und psychische Problemlagen** (15 %).
+ - **Modul 4: Selbstversorgung** (40 % - hoechstes Gewicht!).
+ - **Modul 5: Bewaeltigung von und selbststaendiger Umgang mit krankheits-/therapiebedingten Anforderungen** (20 %).
+ - **Modul 6: Gestaltung des Alltagslebens und sozialer Kontakte** (15 %).
 - **Pflegegrade § 15 SGB XI:** PG 1 (12,5-26,99 Pkt), PG 2 (27-47,49), PG 3 (47,5-69,99), PG 4 (70-89,99), PG 5 (90-100).
 - **Wichtiger Pruefansatz:** **Selbststaendigkeit-Skala** (selbststaendig / ueberwiegend selbststaendig / ueberwiegend unselbststaendig / unselbststaendig); MD-Gutachter neigen zu Unterbewertung - **Pflegetagebuch ueber 14 Tage** als Beleg.
 - **Antragsdatum entscheidend** § 33 SGB XI: Leistung ab Antragsmonat; Begutachtung soll regelmaessig binnen 25 Arbeitstagen § 18 III SGB XI (sonst 70 EUR pro Woche Saeumnis-Zuschlag).
@@ -248,19 +248,19 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 ## Pflegegrad-Widerspruch / Module - Themenspezifika
 - **Rechtsgrundlage:** §§ 14, 15 SGB XI (Pflegebeduerftigkeit, Module); § 18 SGB XI (Begutachtung MD); § 84 SGG (Widerspruchsfrist 1 Monat); Begutachtungsrichtlinien (BRi) des GKV-Spitzenverbands.
 - **Modul-Detailpruefung beim Widerspruch:**
-  - **Modul 1 Mobilitaet (10 %):** Positionswechsel im Bett, Halten stabiler Sitzposition, Umsetzen, Fortbewegen, Treppensteigen.
-  - **Modul 2 kognitive und kommunikative Faehigkeiten (15 % gemeinsam mit M3):** Erkennen Personen / Orientierung, Steuerung mehrschrittiger Alltagshandlungen, Entscheidungen treffen, Verstehen Aufforderungen.
-  - **Modul 3 Verhaltensweisen / psychische Problemlagen (15 % gemeinsam mit M2):** motorische Verhaltensweisen, Naechtliche Unruhe, Aengste, Wahnvorstellungen, Aggression.
-  - **Modul 4 Selbstversorgung (40 % - hoechstes Gewicht!):** Waschen, Koerperpflege, Kleiden, Ernaehrung, Toilette.
-  - **Modul 5 Bewaeltigung krankheits-/therapiebedingter Anforderungen (20 %):** Medikamentengabe, Injektionen, Wundpflege, Arztbesuche, Therapien.
-  - **Modul 6 Gestaltung Alltagsleben und sozialer Kontakte (15 %):** Tagesablauf, freie Zeit, ausgewaehlte Kontakte, Ausflug.
+ - **Modul 1 Mobilitaet (10 %):** Positionswechsel im Bett, Halten stabiler Sitzposition, Umsetzen, Fortbewegen, Treppensteigen.
+ - **Modul 2 kognitive und kommunikative Faehigkeiten (15 % gemeinsam mit M3):** Erkennen Personen / Orientierung, Steuerung mehrschrittiger Alltagshandlungen, Entscheidungen treffen, Verstehen Aufforderungen.
+ - **Modul 3 Verhaltensweisen / psychische Problemlagen (15 % gemeinsam mit M2):** motorische Verhaltensweisen, Naechtliche Unruhe, Aengste, Wahnvorstellungen, Aggression.
+ - **Modul 4 Selbstversorgung (40 % - hoechstes Gewicht!):** Waschen, Koerperpflege, Kleiden, Ernaehrung, Toilette.
+ - **Modul 5 Bewaeltigung krankheits-/therapiebedingter Anforderungen (20 %):** Medikamentengabe, Injektionen, Wundpflege, Arztbesuche, Therapien.
+ - **Modul 6 Gestaltung Alltagsleben und sozialer Kontakte (15 %):** Tagesablauf, freie Zeit, ausgewaehlte Kontakte, Ausflug.
 - **Pflegegrade-Punkteschwellen § 15 SGB XI:** PG 1 (12,5-26,99), PG 2 (27-47,49), PG 3 (47,5-69,99), PG 4 (70-89,99), PG 5 (90-100).
 - **Widerspruchsstrategie:**
-  - **MD-Gutachten anfordern (Akteneinsicht § 25 SGB X)** und Modul fuer Modul kritisch lesen.
-  - **Pflegetagebuch** ueber 14 Tage detailliert (Zeitangaben fuer jede Hilfeleistung).
-  - **Stellungnahmen** Bezugspersonen / Pflegekraefte / Hausarzt; Schweigepflichtentbindung.
-  - **Konkrete Beispiele** aus Alltag - Diagnosen allein reichen nicht; Funktionsbeeintraechtigung beschreiben.
-  - **Selbststaendigkeit-Skala** (selbststaendig / ueberwiegend selbststaendig / ueberwiegend unselbststaendig / unselbststaendig) je Modulkriterium konkret durchgehen.
+ - **MD-Gutachten anfordern (Akteneinsicht § 25 SGB X)** und Modul fuer Modul kritisch lesen.
+ - **Pflegetagebuch** ueber 14 Tage detailliert (Zeitangaben fuer jede Hilfeleistung).
+ - **Stellungnahmen** Bezugspersonen / Pflegekraefte / Hausarzt; Schweigepflichtentbindung.
+ - **Konkrete Beispiele** aus Alltag - Diagnosen allein reichen nicht; Funktionsbeeintraechtigung beschreiben.
+ - **Selbststaendigkeit-Skala** (selbststaendig / ueberwiegend selbststaendig / ueberwiegend unselbststaendig / unselbststaendig) je Modulkriterium konkret durchgehen.
 - **Klage SG** nach erfolglosem Widerspruch (1 Monat § 87 SGG); **§ 109 SGG** Wahl-Sachverstaendiger.
 - **Praxis-Tipp:** Bei demenzkranken Personen Module 2, 3, 5, 6 detailliert dokumentieren; bei orthopaedischen / neurologischen Erkrankungen Module 1 und 4; objektivierende Hilfsmittel zur Beweisstaerkung (Bewegungsmessungen, Verbrauchsdokumentation Inkontinenz).
 

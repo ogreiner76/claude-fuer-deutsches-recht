@@ -1,13 +1,13 @@
 ---
 name: besitzdogmatik-historische-daseinsvorsorge
-description: "Nutze dies, wenn Besitzdogmatik Historische Schule Und Systemdenken, Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck, Demokratie Gesetzgeber Gericht im Plugin Rechtstheorie Rechtsphilosophie konkret bearbeitet werden soll. Auslöser: Bitte Besitzdogmatik Historische Schule Und Systemdenken, Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck, Demokratie Gesetzgeber Gericht prüfen.; Erstelle eine Arbeitsfassung zu Besitzdogmatik Historische Schule Und Systemdenken, Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck, Demokratie Gesetzgeber Gericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Besitzdogmatik Historische Schule Und Systemdenken, Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck, Demokratie Gesetzgeber Gericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Besitzdogmatik Historische Schule Und Systemdenken, Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck, Demokratie Gesetzgeber Gericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Besitzdogmatik Historische Schule Und Systemdenken, Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck, Demokratie Gesetzgeber Gericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

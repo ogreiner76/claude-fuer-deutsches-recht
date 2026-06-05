@@ -1,13 +1,13 @@
 ---
 name: bho-landeshaushalt-bremen-hamburg-lesen
-description: "Nutze dies, wenn Bho 025 Landeshaushalt Bremen Lesen, Bho 026 Landeshaushalt Hamburg Lesen, Bho 027 Landeshaushalt Hessen Lesen, Bho 028 Landeshaushalt Mecklenburg Vorpommern, Bho 029 Landeshaushalt Niedersachsen Lesen und 6 weitere Themen im Plugin Haushaltsrecht Bho Bund Länder konkret bearbeitet werden soll. Auslöser: Bitte Bho 025 Landeshaushalt Bremen Lesen, Bho 026 Landeshaushalt Hamburg Lesen, Bho 027 Landeshaushalt Hessen Lesen, Bho 028 Landeshaushalt Mecklenburg Vorpommern, Bho 029 Landeshaushalt Niedersachsen Lesen und 6 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Bho 025 Landeshaushalt Bremen Lesen, Bho 026 Landeshaushalt Hamburg Lesen, Bho 027 Landeshaushalt Hessen Lesen, Bho 028 Landeshaushalt Mecklenburg Vorpommern, Bho 029 Landeshaushalt Niedersachsen Lesen und 6 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bho 025 Landeshaushalt Bremen Lesen, Bho 026 Landeshaushalt Hamburg Lesen, Bho 027 Landeshaushalt Hessen Lesen, Bho 028 Landeshaushalt Mecklenburg Vorpommern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bho 025 Landeshaushalt Bremen Lesen, Bho 026 Landeshaushalt Hamburg Lesen, Bho 027 Landeshaushalt Hessen Lesen, Bho 028 Landeshaushalt Mecklenburg Vorpommern, Bho 029 Landeshaushalt Niedersachsen Lesen und 6 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bho 025 Landeshaushalt Bremen Lesen, Bho 026 Landeshaushalt Hamburg Lesen, Bho 027 Landeshaushalt Hessen Lesen, Bho 028 Landeshaushalt Mecklenburg Vorpommern, Bho 029 Landeshaushalt Niedersachsen Lesen und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

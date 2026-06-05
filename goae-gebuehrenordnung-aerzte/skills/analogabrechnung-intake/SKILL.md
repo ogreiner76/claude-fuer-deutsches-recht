@@ -1,19 +1,19 @@
 ---
 name: analogabrechnung-intake
-description: "Nutze dies, wenn Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbescheinigung Privatpatient, Arztbrief Begründung Nachfordern im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbescheinigung Privatpatient, Arztbrief Begruendung Nachfordern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbescheinigung Privatpatient, Arztbrief Begründung Nachfordern
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbescheinigung Privatpatient, Arztbrief Begründung Nachfordern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `analogabrechnung-intake-6-goae` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Analogabrechnung Intake § 6 GOÄ. |
+| `analogabrechnung-intake-6-goae` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Analogabrechnung Intake § 6 GOÄ. |
 | `arbeitsunfaehigkeitsbescheinigung-privatpatient` | Arbeitsunfähigkeitsbescheinigung Privatpatient: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 | `arztbrief-begruendung-nachfordern` | Arztbrief Begründung nachfordern: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 
@@ -26,7 +26,7 @@ Für **Analogabrechnung Intake 6 Goae, Arbeitsunfaehigkeitsbescheinigung Privatp
 
 ## 1. `analogabrechnung-intake-6-goae`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Analogabrechnung Intake § 6 GOÄ.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Analogabrechnung Intake § 6 GOÄ.
 
 # Analogabrechnung Intake § 6 GOÄ
 

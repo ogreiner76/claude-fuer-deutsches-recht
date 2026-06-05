@@ -1,13 +1,13 @@
 ---
 name: methodenlehre-auslegung-oeffentliches
-description: "Nutze dies, wenn Methodenlehre Auslegung, Oeffentliches Recht Statthaft Zulaessig Begruendet, Professor Erkennen Und Strategie im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Bitte Methodenlehre Auslegung, Oeffentliches Recht Statthaft Zulaessig Begruendet, Professor Erkennen Und Strategie prüfen.; Erstelle eine Arbeitsfassung zu Methodenlehre Auslegung, Oeffentliches Recht Statthaft Zulaessig Begruendet, Professor Erkennen Und Strategie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Methodenlehre Auslegung, Oeffentliches Recht Statthaft Zulaessig Begruendet, Professor Erkennen Und Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Methodenlehre Auslegung, Oeffentliches Recht Statthaft Zulaessig Begruendet, Professor Erkennen Und Strategie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Methodenlehre Auslegung, Oeffentliches Recht Statthaft Zulaessig Begruendet, Professor Erkennen Und Strategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -253,18 +253,18 @@ Im Öffentlichen Recht ist das Drei-Stufen-Schema (Statthaftigkeit – Zulässig
 
 ```
 A. Zulässigkeit (oder "Zulässigkeit der Klage")
-   I. Verwaltungsrechtsweg § 40 VwGO
-   II. Statthafte Klageart
-   III. Klagebefugnis
-   IV. Vorverfahren / Klagefrist
-   V. Beteiligten- und Prozess-Fähigkeit
-   VI. Allgemeines Rechtsschutz-Interesse
+ I. Verwaltungsrechtsweg § 40 VwGO
+ II. Statthafte Klageart
+ III. Klagebefugnis
+ IV. Vorverfahren / Klagefrist
+ V. Beteiligten- und Prozess-Fähigkeit
+ VI. Allgemeines Rechtsschutz-Interesse
 
 B. Begründetheit
-   I. Anspruchsgrundlage / Rechtsgrundlage
-   II. Formelle Rechtmäßigkeit
-   III. Materielle Rechtmäßigkeit
-   IV. Rechts-Verletzung Kläger
+ I. Anspruchsgrundlage / Rechtsgrundlage
+ II. Formelle Rechtmäßigkeit
+ III. Materielle Rechtmäßigkeit
+ IV. Rechts-Verletzung Kläger
 ```
 
 ## Schritt 2 — Verwaltungsrechtsweg § 40 VwGO
@@ -364,8 +364,8 @@ Möglichkeit, dass der Kläger in eigenen Rechten verletzt ist.
 1. Anspruchsgrundlage / Ermächtigungs-Grundlage für VA
 2. Formelle Rechtmäßigkeit (Zuständigkeit, Verfahren, Form)
 3. Materielle Rechtmäßigkeit
-   a) Tatbestand erfüllt
-   b) Rechtsfolge / Ermessen ausgeübt
+ a) Tatbestand erfüllt
+ b) Rechtsfolge / Ermessen ausgeübt
 4. Rechts-Verletzung Kläger
 ```
 
@@ -452,36 +452,36 @@ Möglichkeit, dass der Kläger in eigenen Rechten verletzt ist.
 
 ```
 A. Zulässigkeit Verpflichtungsklage
-   I. Verwaltungsrechtsweg § 40 VwGO (öffentlich-rechtlich)
-   II. Statthafte Klageart § 42 I VwGO (Verpflichtungsklage)
-   III. Klagebefugnis § 42 II VwGO (Bauherr)
-   IV. Vorverfahren §§ 68 ff. VwGO (Widerspruch erfolgt)
-   V. Frist § 74 VwGO (Klage rechtzeitig)
+ I. Verwaltungsrechtsweg § 40 VwGO (öffentlich-rechtlich)
+ II. Statthafte Klageart § 42 I VwGO (Verpflichtungsklage)
+ III. Klagebefugnis § 42 II VwGO (Bauherr)
+ IV. Vorverfahren §§ 68 ff. VwGO (Widerspruch erfolgt)
+ V. Frist § 74 VwGO (Klage rechtzeitig)
 
 B. Begründetheit
-   I. Anspruchsgrundlage § 70 BauO Bauerlaubnis
-   II. Voraussetzungen erfüllt (Vorhaben planungs-rechtlich zulässig)
-   III. Kein Versagungs-Grund
-   IV. Ermessens-Reduktion auf null (bei gebundener Entscheidung) oder günstige Ermessens-Entscheidung
+ I. Anspruchsgrundlage § 70 BauO Bauerlaubnis
+ II. Voraussetzungen erfüllt (Vorhaben planungs-rechtlich zulässig)
+ III. Kein Versagungs-Grund
+ IV. Ermessens-Reduktion auf null (bei gebundener Entscheidung) oder günstige Ermessens-Entscheidung
 ```
 
 ### Beispiel: Polizei-Anordnung anfechten
 
 ```
 A. Zulässigkeit Anfechtungsklage
-   I. § 40 VwGO
-   II. § 42 I VwGO
-   III. § 42 II VwGO
-   IV. Vorverfahren entbehrlich (§ 68 VwGO Sonderregel)
-   V. § 74 VwGO
+ I. § 40 VwGO
+ II. § 42 I VwGO
+ III. § 42 II VwGO
+ IV. Vorverfahren entbehrlich (§ 68 VwGO Sonderregel)
+ V. § 74 VwGO
 
 B. Begründetheit
-   I. Ermächtigungs-Grundlage § X PolG
-   II. Formelle Rechtmäßigkeit (Zuständigkeit, Verfahren, Form)
-   III. Materielle Rechtmäßigkeit
-      1. Tatbestand
-      2. Rechtsfolge / Ermessen
-   IV. Rechts-Verletzung Kläger
+ I. Ermächtigungs-Grundlage § X PolG
+ II. Formelle Rechtmäßigkeit (Zuständigkeit, Verfahren, Form)
+ III. Materielle Rechtmäßigkeit
+ 1. Tatbestand
+ 2. Rechtsfolge / Ermessen
+ IV. Rechts-Verletzung Kläger
 ```
 
 ## Hilfsfragen für Deine Reflexion

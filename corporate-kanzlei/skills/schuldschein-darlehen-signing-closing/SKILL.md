@@ -1,13 +1,13 @@
 ---
 name: schuldschein-darlehen-signing-closing
-description: "Nutze dies, wenn Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -247,17 +247,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 CP-Erfullung verzoegert sich?
-  → Regulatorisch (Kartell/FDI)?
-       → Kurze Verzoegerung: Long Stop Date verlaengern (Amendment); Behoerde aktiv unterstuetzen
-       → Untersagung droht: Abhilfemassnahmen (Remedies/Divestitures) verhandeln
-  → Dritte Consent nicht eingeholt?
-       → Wesentlich fuer Business: nachverhandeln; ggf. Kaufpreisabschlag
-       → Unwesentlich: Waiver durch Kaeufer einholen
-  → Bring-Down nicht clean (Rep-Verletzung)?
-       → MAC-Schwelle erreicht: Ruecktrittsrecht pruefen (§ 162 BGB)
-       → Nicht wesentlich: Waiver oder Abschlag
-  → Long Stop Date erreicht?
-       → Automatischer Ruecktritt per SPA-Klausel; Schadensersatz pruefen
+ → Regulatorisch (Kartell/FDI)?
+ → Kurze Verzoegerung: Long Stop Date verlaengern (Amendment); Behoerde aktiv unterstuetzen
+ → Untersagung droht: Abhilfemassnahmen (Remedies/Divestitures) verhandeln
+ → Dritte Consent nicht eingeholt?
+ → Wesentlich fuer Business: nachverhandeln; ggf. Kaufpreisabschlag
+ → Unwesentlich: Waiver durch Kaeufer einholen
+ → Bring-Down nicht clean (Rep-Verletzung)?
+ → MAC-Schwelle erreicht: Ruecktrittsrecht pruefen (§ 162 BGB)
+ → Nicht wesentlich: Waiver oder Abschlag
+ → Long Stop Date erreicht?
+ → Automatischer Ruecktritt per SPA-Klausel; Schadensersatz pruefen
 ```
 
 ## Output-Template CP-Tracker
@@ -272,11 +272,11 @@ Long Stop Date: [DATUM]
 
 | Nr. | CP-Beschreibung | Owner | Status | Frist | Naechste Aktion | Eskalation |
 |-----|----------------|-------|--------|-------|----------------|------------|
-| 1   | Kartellfreigabe GWB | Kaeufer | In Pruefung | [Datum] | Follow-up Bundeskartellamt | Partner |
-| 2   | FDI-Nichtuntersagung BMWK | Kaeufer | Angemeldet | [Datum] | Antwort abwarten | Partner |
-| 3   | CoC-Consent Kunden-A | Verkaefer | Offen | [Datum] | Gespraeche laufend | Managing Partner |
-| 4   | Bring-Down Certificate | Verkaefer | Vorbereitet | Closing Day | Am Closing-Tag ausstellen | — |
-| 5   | Kaufpreiszahlung | Kaeufer | Bereit | Closing Day | SWIFT-Bestaetigung vorbereiten | — |
+| 1 | Kartellfreigabe GWB | Kaeufer | In Pruefung | [Datum] | Follow-up Bundeskartellamt | Partner |
+| 2 | FDI-Nichtuntersagung BMWK | Kaeufer | Angemeldet | [Datum] | Antwort abwarten | Partner |
+| 3 | CoC-Consent Kunden-A | Verkaefer | Offen | [Datum] | Gespraeche laufend | Managing Partner |
+| 4 | Bring-Down Certificate | Verkaefer | Vorbereitet | Closing Day | Am Closing-Tag ausstellen | — |
+| 5 | Kaufpreiszahlung | Kaeufer | Bereit | Closing Day | SWIFT-Bestaetigung vorbereiten | — |
 
 AMPELSTATUS: [GRUEN / GELB / ROT]
 VORAUSSICHTLICHES CLOSING: [DATUM]

@@ -1,19 +1,19 @@
 ---
 name: anlageberatungsfehler-bankrecht-akkreditiv
-description: "Nutze dies, wenn Anlageberatungsfehler Prüfen, Bankrecht Akkreditiv Standby Lc Dokumentenstreit, Bankrecht Buergschaft Auf Erste Anforderung im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Anlageberatungsfehler Prüfen, Bankrecht Akkreditiv Standby Lc Dokumentenstreit, Bankrecht Buergschaft Auf Erste Anforderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anlageberatungsfehler Prüfen, Bankrecht Akkreditiv Standby Lc Dokumentenstreit, Bankrecht Buergschaft Auf Erste Anforderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anlageberatungsfehler Prüfen, Bankrecht Akkreditiv Standby Lc Dokumentenstreit, Bankrecht Buergschaft Auf Erste Anforderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `anlageberatungsfehler-pruefen` | Workflow-Skill zu anlageberatungsfehler pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `anlageberatungsfehler-pruefen` | Arbeitsmodul zu anlageberatungsfehler pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `bankrecht-akkreditiv-standby-lc-dokumentenstreit` | Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat prüfen: Dokumentenstrenge, Discrepancies, Fraud, Sanktionen, Zahlungsstopp, Begünstigtenrechte und Bankhaftung. |
 | `bankrecht-buergschaft-auf-erste-anforderung` | Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Zahlungsmechanik, Einwendungen, offensichtlicher Missbrauch, einstweiliger Rechtsschutz, Rückforderung und Regress. |
 
@@ -26,7 +26,7 @@ Für **Anlageberatungsfehler Prüfen, Bankrecht Akkreditiv Standby Lc Dokumenten
 
 ## 1. `anlageberatungsfehler-pruefen`
 
-**Fokus:** Workflow-Skill zu anlageberatungsfehler pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu anlageberatungsfehler pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Anlageberatungsfehler prüfen
 
@@ -129,14 +129,14 @@ Hinweis: Es gibt keine Praejudizienbindung im deutschen Recht (Ausnahme § 31 BV
 
 ```
 Schaden = Vermögenslage mit Pflichtverletzung
-        ./. Vermögenslage ohne Pflichtverletzung
+ ./. Vermögenslage ohne Pflichtverletzung
 
 Konkret:
-Eingesetztes Kapital inkl. Ausgabeaufschlag:  EUR [Betrag]
-Aktueller Rücknahme-/Verkaufswert:       ./. EUR [Betrag]
-Entgangene Alternativrendite:             ./. EUR [4% × Betrag × Jahre]
-Gezahlter Ausgabeaufschlag / Kosten:       + EUR [Betrag]
-Schadensumme:                              EUR [Netto]
+Eingesetztes Kapital inkl. Ausgabeaufschlag: EUR [Betrag]
+Aktueller Rücknahme-/Verkaufswert: ./. EUR [Betrag]
+Entgangene Alternativrendite: ./. EUR [4% × Betrag × Jahre]
+Gezahlter Ausgabeaufschlag / Kosten: + EUR [Betrag]
+Schadensumme: EUR [Netto]
 ```
 
 ### Methode 2 — Negatives Interesse (Rückabwicklung)
@@ -146,8 +146,8 @@ Anleger gibt Anlage-Gegenstand zurück
 und erhält:
 - Eingesetztes Kapital zurück
 - Entgangene Alternativrendite (typisch 4 % p.a. — konkret darzulegen
-  durch alternative Anlageform; nicht aus Modellwissen pauschalisieren,
-  sondern Vergleichsanlage nachvollziehbar belegen)
+ durch alternative Anlageform; nicht aus Modellwissen pauschalisieren,
+ sondern Vergleichsanlage nachvollziehbar belegen)
 - Anwaltskosten aus Verzug
 ```
 
@@ -188,7 +188,7 @@ und erhält:
 ### Schritt 1 — Außergerichtliches Schreiben
 
 ```
-[Kanzlei]                                            [Ort, Datum]
+[Kanzlei] [Ort, Datum]
 
 [Bank / Vermögensverwalter]
 [Anschrift]
@@ -203,16 +203,16 @@ pflichten aus dem Beratungsgespräch vom [Datum] geltend.
 
 Beratungsfehler:
 1. [Keine anlegergerechte Beratung: Risikoprofil
-   konservativ, empfohlenes Produkt hochriskant]
+ konservativ, empfohlenes Produkt hochriskant]
 2. [Keine Aufklärung über Rückvergütungen in Höhe von
-   EUR [Betrag] (ca. [x] % des Anlagevolumens)]
+ EUR [Betrag] (ca. [x] % des Anlagevolumens)]
 3. [Unzureichende Risikoaufklärung bzgl. Totalverlust]
 
 Schadenshöhe:
-Investiertes Kapital:    EUR [Betrag]
-Aktueller Wert:     ./. EUR [Betrag]
-Entgangene Rendite:  ./. EUR [4% × Betrag × Jahre]
-Gesamtschaden:           EUR [Summe]
+Investiertes Kapital: EUR [Betrag]
+Aktueller Wert: ./. EUR [Betrag]
+Entgangene Rendite: ./. EUR [4% × Betrag × Jahre]
+Gesamtschaden: EUR [Summe]
 
 Ich fordere Sie auf, den Schaden bis zum [Datum + 4 Wochen]
 zu erstatten. Anderenfalls erhebe ich Klage.
@@ -253,9 +253,9 @@ Kapitalmarktrecht]
 - MiFID-II Richtlinie 2014/65/EU
 - PRIIPs-VO (EU) Nr. 1286/2014 — KID-Pflicht für verpackte Anlageprodukte
 - Aktuelle Aktenzeichen (Volltext jeweils vor Versand prüfen in juris.bundesgerichtshof.de, dejure.org, openjur.de, curia.europa.eu):
-  - BGH XI ZR 22/24, Urt. v. 20.5.2025 — Vorfälligkeitsentschädigung intransparente AGB
-  - BGH XI ZR 133/24, Urt. v. 21.10.2025 — Referenzzins Prämiensparvertrag
-  - LG Nürnberg-Fürth, Urt. v. 21.2.2025 — PRIIPs-KID Gesamtrisikoindikator bei offenem Immobilienfonds (nicht rechtskräftig; instanzgerichtlich)
+ - BGH XI ZR 22/24, Urt. v. 20.5.2025 — Vorfälligkeitsentschädigung intransparente AGB
+ - BGH XI ZR 133/24, Urt. v. 21.10.2025 — Referenzzins Prämiensparvertrag
+ - LG Nürnberg-Fürth, Urt. v. 21.2.2025 — PRIIPs-KID Gesamtrisikoindikator bei offenem Immobilienfonds (nicht rechtskräftig; instanzgerichtlich)
 - Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; nicht aus Modellwissen.
 
 <!-- AUDIT 27.05.2026 bundle_021

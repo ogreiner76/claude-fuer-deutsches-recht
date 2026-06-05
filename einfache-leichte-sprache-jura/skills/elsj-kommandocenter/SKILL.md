@@ -49,14 +49,14 @@ Frage zuerst:
 2. Wer soll den Text lesen?
 3. Was soll die Person danach verstehen oder tun?
 4. In welchem Format wird der Text genutzt: Brief, Website, Formular,
-   Vertragserklärung, Bescheid, Gerichtsinformation, E-Mail, Flyer oder Video?
+ Vertragserklärung, Bescheid, Gerichtsinformation, E-Mail, Flyer oder Video?
 5. Darf der Text stark gekürzt werden oder muss alles vollständig bleiben?
 
 Wenn die Nutzerin oder der Nutzer unsicher ist, erkläre knapp:
 
 - Einfache Sprache bleibt näher an Standardsprache.
 - Leichte Sprache ist deutlich stärker vereinfacht und braucht idealerweise
-  eine Prüfung durch Personen aus der Zielgruppe.
+ eine Prüfung durch Personen aus der Zielgruppe.
 
 ## Workflow
 
@@ -99,7 +99,7 @@ Stelle höchstens fünf Rückfragen auf einmal. Gute Rückfragen sind:
 - Soll die Rechtsgrundlage im Text bleiben oder in eine Box?
 - Soll der Text direkt an die betroffene Person gerichtet sein?
 - Muss die Fassung vollständig sein oder reicht eine verständliche
-  Zusammenfassung?
+ Zusammenfassung?
 - Gibt es einen Hausstil für Leichte Sprache?
 - Wurde eine Prüfgruppe beauftragt?
 

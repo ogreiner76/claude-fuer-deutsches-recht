@@ -1,13 +1,13 @@
 ---
 name: persoenlichen-angriff-sachlichkeitsgebot
-description: "Nutze dies, wenn Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen prüfen.; Erstelle eine Arbeitsfassung zu Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Persoenlichen Angriff Entschaerfen, Sachlichkeitsgebot Anwendung, Sachverhalt Neutral Darstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

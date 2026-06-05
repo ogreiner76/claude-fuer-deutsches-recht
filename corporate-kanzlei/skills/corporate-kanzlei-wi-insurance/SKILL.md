@@ -179,12 +179,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Transaktionsvolumen > 15 Mio. EUR EV?
-  → Ja: Verkaefer = PE-Fonds oder Insolvenzmasse?
-       → Ja: W&I fast immer sinnvoll (PE will Clean Exit)
-       → Nein: DD-Ergebnis: Erhebliche bekannte Risiken?
-            → Ja: W&I fuer unbekannte Risiken; Indemnities fuer bekannte
-            → Nein: W&I als kosteneffizienter Ersatz fuer Haeftungsrisiko
-  → Nein: W&I wirtschaftlich meist nicht sinnvoll (Mindestpraemie)
+ → Ja: Verkaefer = PE-Fonds oder Insolvenzmasse?
+ → Ja: W&I fast immer sinnvoll (PE will Clean Exit)
+ → Nein: DD-Ergebnis: Erhebliche bekannte Risiken?
+ → Ja: W&I fuer unbekannte Risiken; Indemnities fuer bekannte
+ → Nein: W&I als kosteneffizienter Ersatz fuer Haeftungsrisiko
+ → Nein: W&I wirtschaftlich meist nicht sinnvoll (Mindestpraemie)
 ```
 
 ## Output-Template W&I-Praemienvergleich

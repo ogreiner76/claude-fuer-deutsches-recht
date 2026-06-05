@@ -42,15 +42,15 @@ Nutze diesen Skill, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen 
 ## Beweislastverteilung im Bereicherungsrecht
 
 - **Kläger trägt Beweislast für:**
-  - Bereicherung des Beklagten (Vermögensvorteil).
-  - Eigene Leistung an Beklagten oder Eingriff in eigenen Zuweisungsgehalt.
-  - Fehlen des Rechtsgrunds (anspruchsbegründende Tatsache).
+ - Bereicherung des Beklagten (Vermögensvorteil).
+ - Eigene Leistung an Beklagten oder Eingriff in eigenen Zuweisungsgehalt.
+ - Fehlen des Rechtsgrunds (anspruchsbegründende Tatsache).
 - **Beklagter trägt Beweislast für:**
-  - Bestehen eines Rechtsgrunds (rechtsvernichtende Einwendung) — h.M. dreht insoweit die Beweislast.
-  - § 814 BGB Kenntnis der Nichtschuld.
-  - § 817 S. 2 BGB Gesetzes-/Sittenverstoß auf Seiten des Leistenden.
-  - § 818 Abs. 3 BGB Entreicherung mit konkretem Vermögensweg (substantiiert).
-  - § 818 Abs. 4 i.V.m. § 819 BGB Wegfall der Entreicherungseinrede bei Bösgläubigkeit.
+ - Bestehen eines Rechtsgrunds (rechtsvernichtende Einwendung) — h.M. dreht insoweit die Beweislast.
+ - § 814 BGB Kenntnis der Nichtschuld.
+ - § 817 S. 2 BGB Gesetzes-/Sittenverstoß auf Seiten des Leistenden.
+ - § 818 Abs. 3 BGB Entreicherung mit konkretem Vermögensweg (substantiiert).
+ - § 818 Abs. 4 i.V.m. § 819 BGB Wegfall der Entreicherungseinrede bei Bösgläubigkeit.
 
 ## Substantiierungspflicht § 138 ZPO
 

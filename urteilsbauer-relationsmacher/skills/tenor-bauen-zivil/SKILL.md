@@ -48,14 +48,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Tenor
 
 1. Die Beklagte wird verurteilt, an den Kläger [BETRAG] EUR nebst Zinsen in Höhe von
-   fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem [DATUM] zu zahlen.
-   [Im Übrigen wird die Klage abgewiesen.]
+ fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem [DATUM] zu zahlen.
+ [Im Übrigen wird die Klage abgewiesen.]
 
 2. Die [Beklagte / Kosten werden gequotelt: Kläger X von Hundert, Beklagte Y von Hundert]
-   trägt die Kosten des Rechtsstreits.
+ trägt die Kosten des Rechtsstreits.
 
 3. Das Urteil ist vorläufig vollstreckbar [gegen Sicherheitsleistung in Höhe von
-   einhundertzehn Prozent des jeweils zu vollstreckenden Betrages].
+ einhundertzehn Prozent des jeweils zu vollstreckenden Betrages].
 
 4. Der Streitwert wird auf [BETRAG] EUR festgesetzt.
 ```
@@ -63,16 +63,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Aufbau
 
 1. **Hauptsache** (Verurteilung / Klageabweisung)
-   - bezifferter Zahlungsantrag mit Zinsen "ab" Datum / "seit" Datum
-   - bei Mehrforderungen: Reihenfolge wie im Antrag, mit Hilfsanträgen kenntlich machen
+ - bezifferter Zahlungsantrag mit Zinsen "ab" Datum / "seit" Datum
+ - bei Mehrforderungen: Reihenfolge wie im Antrag, mit Hilfsanträgen kenntlich machen
 2. **Kosten** (Paragraf 91 ff ZPO)
-   - bei vollem Obsiegen: "Der Beklagte traegt die Kosten des Rechtsstreits."
-   - bei teilweisem Obsiegen: Quote nach Paragraf 92 ZPO
-   - bei mehreren Beklagten: Paragraf 100 ZPO
+ - bei vollem Obsiegen: "Der Beklagte traegt die Kosten des Rechtsstreits."
+ - bei teilweisem Obsiegen: Quote nach Paragraf 92 ZPO
+ - bei mehreren Beklagten: Paragraf 100 ZPO
 3. **Vorläufige Vollstreckbarkeit** (Paragraf 708 ff ZPO)
-   - Standardformel: "Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages."
-   - Bei Beschwer unter 600 EUR: Paragraf 713 ZPO - ohne Sicherheit
-   - Bei Versäumnisurteil: Paragraf 708 Nr. 2 ZPO
+ - Standardformel: "Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages."
+ - Bei Beschwer unter 600 EUR: Paragraf 713 ZPO - ohne Sicherheit
+ - Bei Versäumnisurteil: Paragraf 708 Nr. 2 ZPO
 4. **Streitwert** (gesonderter Beschluss oder im Tenor)
 5. **Berufungszulassung** (Paragraf 511 Abs. 4 ZPO bei AG-Urteilen mit Beschwer unter 600 EUR)
 

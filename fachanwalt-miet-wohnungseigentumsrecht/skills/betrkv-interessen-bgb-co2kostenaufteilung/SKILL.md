@@ -1,34 +1,34 @@
 ---
 name: betrkv-interessen-bgb-co2kostenaufteilung
-description: "Nutze dies, wenn Spezial Betrkv Mehrparteien Konflikt Und Interessen, Spezial Bgb Risikoampel Und Gegenargumente, Spezial Co2Kostenaufteilung, Spezial Diskriminierung Agg Vermietung, Spezial Ehe Trennung Mietwohnung im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Betrkv Mehrparteien Konflikt Und Interessen, Spezial Bgb Risikoampel Und Gegenargumente, Spezial Co2Kostenaufteilung, Spezial Diskriminierung Agg Vermietung, Spezial Ehe Trennung Mietwohnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Betrkv Mehrparteien Konflikt Und Interessen, Spezial Bgb Risikoampel Und Gegenargumente, Spezial Co2Kostenaufteilung, Spezial Diskriminierung Agg Vermietung, Spezial Ehe Trennung Mietwohnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2kostenaufteilung, Diskriminierung Agg Vermietung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Betrkv Mehrparteien Konflikt Und Interessen, Spezial Bgb Risikoampel Und Gegenargumente, Spezial Co2Kostenaufteilung, Spezial Diskriminierung Agg Vermietung, Spezial Ehe Trennung Mietwohnung
+# Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2Kostenaufteilung, Diskriminierung Agg Vermietung, Ehe Trennung Mietwohnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2Kostenaufteilung, Diskriminierung Agg Vermietung, Ehe Trennung Mietwohnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-betrkv-mehrparteien-konflikt-und-interessen` | Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-bgb-risikoampel-und-gegenargumente` | BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-betrkv-mehrparteien-konflikt-und-interessen` | Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-bgb-risikoampel-und-gegenargumente` | BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-co2kostenaufteilung` | CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen: CO2KostAufG, Wohngebäude-Stufenmodell, Nichtwohngebäude-50/50-Regel, Brennstoffdaten, Emissionsfaktor, Vermieteranteil, Mieterentlastung und Abrechnungsbaustein. |
-| `spezial-diskriminierung-agg-vermietung` | AGG bei Vermietung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Massengeschäft, Auswahl, Indizien, Schadensersatz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-ehe-trennung-mietwohnung` | Trennung/Ehewohnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Besitz, Vertrag, Zuweisung, Kündigung, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-diskriminierung-agg-vermietung` | AGG bei Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Massengeschäft, Auswahl, Indizien, Schadensersatz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-ehe-trennung-mietwohnung` | Trennung/Ehewohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Besitz, Vertrag, Zuweisung, Kündigung, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Betrkv Mehrparteien Konflikt Und Interessen, Spezial Bgb Risikoampel Und Gegenargumente, Spezial Co2Kostenaufteilung, Spezial Diskriminierung Agg Vermietung, Spezial Ehe Trennung Mietwohnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Betrkv Mehrparteien Konflikt Und Interessen, Bgb Risikoampel Und Gegenargumente, Co2Kostenaufteilung, Diskriminierung Agg Vermietung, Ehe Trennung Mietwohnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-betrkv-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Betrkv: Mehrparteienkonflikt und Interessenmatrix im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Betrkv: Mehrparteienkonflikt und Interessenmatrix
 
@@ -42,7 +42,7 @@ Für **Spezial Betrkv Mehrparteien Konflikt Und Interessen, Spezial Bgb Risikoam
 
 
 ## Spezialwissen: Betrkv: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Betrkv: Mehrparteienkonflikt und Interessenmatrix / spezial betrkv mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Betrkv: Mehrparteienkonflikt und Interessenmatrix / betrkv mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -87,7 +87,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-bgb-risikoampel-und-gegenargumente`
 
-**Fokus:** BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # BGB: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -101,7 +101,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: BGB: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** BGB: Risikoampel, Gegenargumente und Verteidigungslinien / spezial bgb risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** BGB: Risikoampel, Gegenargumente und Verteidigungslinien / bgb risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, FAO, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -185,7 +185,7 @@ CO2KostAufG aktuell prüfen. Besonders bei Nichtwohngebäuden keine erfundene St
 
 ## 4. `spezial-diskriminierung-agg-vermietung`
 
-**Fokus:** AGG bei Vermietung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Massengeschäft, Auswahl, Indizien, Schadensersatz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** AGG bei Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Massengeschäft, Auswahl, Indizien, Schadensersatz; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # AGG bei Vermietung
 
@@ -199,9 +199,9 @@ CO2KostAufG aktuell prüfen. Besonders bei Nichtwohngebäuden keine erfundene St
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Massengeschäft, Auswahl, Indizien, Schadensersatz.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Massengeschäft, Auswahl, Indizien, Schadensersatz.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -230,7 +230,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-ehe-trennung-mietwohnung`
 
-**Fokus:** Trennung/Ehewohnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Besitz, Vertrag, Zuweisung, Kündigung, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Trennung/Ehewohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Besitz, Vertrag, Zuweisung, Kündigung, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Trennung/Ehewohnung
 
@@ -244,9 +244,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Besitz, Vertrag, Zuweisung, Kündigung, Gesamtschuld.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Besitz, Vertrag, Zuweisung, Kündigung, Gesamtschuld.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

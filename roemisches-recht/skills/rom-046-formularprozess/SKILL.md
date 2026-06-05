@@ -1,6 +1,6 @@
 ---
 name: rom-046-formularprozess
-description: "Römisches Recht: Formularprozess. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Formularprozess. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Formularprozess

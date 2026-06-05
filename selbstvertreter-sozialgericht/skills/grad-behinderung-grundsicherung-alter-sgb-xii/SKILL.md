@@ -1,13 +1,13 @@
 ---
 name: grad-behinderung-grundsicherung-alter-sgb-xii
-description: "Nutze dies, wenn Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii, Kindergeld Familienkasse Einspruch im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii, Kindergeld Familienkasse Einspruch prüfen.; Erstelle eine Arbeitsfassung zu Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii, Kindergeld Familienkasse Einspruch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii, Kindergeld Familienkasse Einspruch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii, Kindergeld Familienkasse Einspruch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -110,7 +110,7 @@ Pro Diagnose ein aktuelles Attest:
 ### Schritt 4 — Widerspruch
 
 ```
-Versorgungsamt / Bezirksregierung [...]            [Ort, Datum]
+Versorgungsamt / Bezirksregierung [...] [Ort, Datum]
 
 Az: [...]
 
@@ -123,16 +123,16 @@ gegen den o.g. Bescheid lege ich Widerspruch ein.
 Begruendung:
 
 1. Diagnosen und GdB-Werte
-   a) [Diagnose 1, ICD] — Einzel-GdB nach VMG: [Wert]. Beleg: [Attest]
-   b) [Diagnose 2, ICD] — Einzel-GdB: [Wert]. Beleg: [Attest]
-   c) [Diagnose 3, ICD] — Einzel-GdB: [Wert]. Beleg: [Attest]
+ a) [Diagnose 1, ICD] — Einzel-GdB nach VMG: [Wert]. Beleg: [Attest]
+ b) [Diagnose 2, ICD] — Einzel-GdB: [Wert]. Beleg: [Attest]
+ c) [Diagnose 3, ICD] — Einzel-GdB: [Wert]. Beleg: [Attest]
 
 2. Gesamt-GdB
-   Die Einzelbewertungen ergeben unter Beruecksichtigung der Wechselwirkungen einen Gesamt-GdB von mindestens [Wert].
+ Die Einzelbewertungen ergeben unter Beruecksichtigung der Wechselwirkungen einen Gesamt-GdB von mindestens [Wert].
 
 3. Merkzeichen
-   a) Merkzeichen [G/B/H/...] liegen vor, weil [...]
-   b) Beleg: [Attest, Befund]
+ a) Merkzeichen [G/B/H/...] liegen vor, weil [...]
+ b) Beleg: [Attest, Befund]
 
 Anlagen:
 - Aerztliche Atteste [Liste]
@@ -315,13 +315,13 @@ Beachten: bei SGB XII strenger als bei Buergergeld in Karenzzeit.
 ### Schritt 4 — Berechnung
 
 ```
-Regelbedarf (Stufe 1 fuer Alleinstehende)        563 EUR
-+ KdU (Miete und Heizung)                         ... EUR
-+ Mehrbedarf bei Schwerbehinderung                ... EUR (§ 30 SGB XII)
-+ einmalige Bedarfe                                 ... EUR
-= Gesamtbedarf                                       ... EUR
-- Einkommen (Rente, ALG, sonstiges)                  ... EUR
-= Anspruch                                            ... EUR
+Regelbedarf (Stufe 1 fuer Alleinstehende) 563 EUR
++ KdU (Miete und Heizung) ... EUR
++ Mehrbedarf bei Schwerbehinderung ... EUR (§ 30 SGB XII)
++ einmalige Bedarfe ... EUR
+= Gesamtbedarf ... EUR
+- Einkommen (Rente, ALG, sonstiges) ... EUR
+= Anspruch ... EUR
 ```
 
 ### Schritt 5 — Antrag stellen
@@ -336,7 +336,7 @@ Im Sozialamt:
 ### Schritt 6 — Bei Ablehnung Widerspruch
 
 ```
-Sozialamt [Stadt]                                   [Ort, Datum]
+Sozialamt [Stadt] [Ort, Datum]
 
 Az: [...]
 
@@ -351,17 +351,17 @@ Begruendung:
 Die Voraussetzungen fuer Grundsicherung nach § 41 SGB XII liegen vor:
 
 1. Anspruchsberechtigung
-   - Renten-Eintritt am [Datum]
-   - Volle EM seit [Datum]
+ - Renten-Eintritt am [Datum]
+ - Volle EM seit [Datum]
 
 2. Bedarf liegt vor:
-   - Regelbedarf [Stufe]: [Betrag]
-   - KdU: [Betrag] (Mietvertrag anbei)
-   - Mehrbedarf wegen Schwerbehinderung G (anerkannt)
+ - Regelbedarf [Stufe]: [Betrag]
+ - KdU: [Betrag] (Mietvertrag anbei)
+ - Mehrbedarf wegen Schwerbehinderung G (anerkannt)
 
 3. Vermoegen liegt unter Schongrenze:
-   - Konto: [Betrag]
-   - Sonstiges: [...]
+ - Konto: [Betrag]
+ - Sonstiges: [...]
 
 Mit freundlichen Gruessen
 ```

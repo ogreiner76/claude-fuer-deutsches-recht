@@ -1,6 +1,6 @@
 ---
 name: compliance-sanktionen
-description: "Klausel-Spezialskill für Compliance Sanktionen: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Compliance Sanktionen: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Compliance Sanktionen

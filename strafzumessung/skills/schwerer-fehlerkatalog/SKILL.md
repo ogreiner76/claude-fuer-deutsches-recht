@@ -1,6 +1,6 @@
 ---
 name: schwerer-fehlerkatalog
-description: "Nutze dies, wenn Schwerer Fehlerkatalog im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Schwerer Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Schwerer Fehlerkatalog

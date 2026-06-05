@@ -1,34 +1,34 @@
 ---
 name: heizkostenverordnung-heizung-warmwasser
-description: "Nutze dies, wenn Spezial Heizkostenverordnung, Spezial Heizung Warmwasser, Spezial Indexmiete Anpassung, Spezial Insolvenz Mieter Vermieter, Spezial Kanzlei Formular Portal Und Einreichung im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Heizkostenverordnung, Spezial Heizung Warmwasser, Spezial Indexmiete Anpassung, Spezial Insolvenz Mieter Vermieter, Spezial Kanzlei Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Heizkostenverordnung, Spezial Heizung Warmwasser, Spezial Indexmiete Anpassung, Spezial Insolvenz Mieter Vermieter, Spezial Kanzlei Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Heizkostenverordnung, Heizung Warmwasser, Indexmiete Anpassung, Insolvenz Mieter Vermieter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Heizkostenverordnung, Spezial Heizung Warmwasser, Spezial Indexmiete Anpassung, Spezial Insolvenz Mieter Vermieter, Spezial Kanzlei Formular Portal Und Einreichung
+# Heizkostenverordnung, Heizung Warmwasser, Indexmiete Anpassung, Insolvenz Mieter Vermieter, Kanzlei Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Heizkostenverordnung, Heizung Warmwasser, Indexmiete Anpassung, Insolvenz Mieter Vermieter, Kanzlei Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-heizkostenverordnung` | Heizkostenverordnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Verbrauchserfassung, Umlageschlüssel, Kürzungsrecht, Nutzergruppen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-heizung-warmwasser` | Heizung und Warmwasser: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Mindesttemperatur, Ausfallzeit, Notmaßnahmen, Minderung, einstweilige Verfügung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-indexmiete-anpassung` | Indexmiete Anpassung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Indexbezug, Erklärung, Sperrfrist, Rechenweg, Mietpreisbremse-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-insolvenz-mieter-vermieter` | Insolvenz Mieter/Vermieter: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Kündigungssperren, Masseverbindlichkeit, Kaution, Aussonderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-heizkostenverordnung` | Heizkostenverordnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Verbrauchserfassung, Umlageschlüssel, Kürzungsrecht, Nutzergruppen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-heizung-warmwasser` | Heizung und Warmwasser: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Mindesttemperatur, Ausfallzeit, Notmaßnahmen, Minderung, einstweilige Verfügung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-indexmiete-anpassung` | Indexmiete Anpassung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Indexbezug, Erklärung, Sperrfrist, Rechenweg, Mietpreisbremse-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-insolvenz-mieter-vermieter` | Insolvenz Mieter/Vermieter: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kündigungssperren, Masseverbindlichkeit, Kaution, Aussonderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Heizkostenverordnung, Spezial Heizung Warmwasser, Spezial Indexmiete Anpassung, Spezial Insolvenz Mieter Vermieter, Spezial Kanzlei Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Heizkostenverordnung, Heizung Warmwasser, Indexmiete Anpassung, Insolvenz Mieter Vermieter, Kanzlei Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-heizkostenverordnung`
 
-**Fokus:** Heizkostenverordnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Verbrauchserfassung, Umlageschlüssel, Kürzungsrecht, Nutzergruppen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Heizkostenverordnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Verbrauchserfassung, Umlageschlüssel, Kürzungsrecht, Nutzergruppen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Heizkostenverordnung
 
@@ -42,9 +42,9 @@ Für **Spezial Heizkostenverordnung, Spezial Heizung Warmwasser, Spezial Indexmi
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Verbrauchserfassung, Umlageschlüssel, Kürzungsrecht, Nutzergruppen.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Verbrauchserfassung, Umlageschlüssel, Kürzungsrecht, Nutzergruppen.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-heizung-warmwasser`
 
-**Fokus:** Heizung und Warmwasser: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Mindesttemperatur, Ausfallzeit, Notmaßnahmen, Minderung, einstweilige Verfügung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Heizung und Warmwasser: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Mindesttemperatur, Ausfallzeit, Notmaßnahmen, Minderung, einstweilige Verfügung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Heizung und Warmwasser
 
@@ -87,9 +87,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Mindesttemperatur, Ausfallzeit, Notmaßnahmen, Minderung, einstweilige Verfügung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Mindesttemperatur, Ausfallzeit, Notmaßnahmen, Minderung, einstweilige Verfügung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -118,7 +118,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-indexmiete-anpassung`
 
-**Fokus:** Indexmiete Anpassung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Indexbezug, Erklärung, Sperrfrist, Rechenweg, Mietpreisbremse-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Indexmiete Anpassung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Indexbezug, Erklärung, Sperrfrist, Rechenweg, Mietpreisbremse-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Indexmiete Anpassung
 
@@ -132,9 +132,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Indexbezug, Erklärung, Sperrfrist, Rechenweg, Mietpreisbremse-Schnittstelle.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Indexbezug, Erklärung, Sperrfrist, Rechenweg, Mietpreisbremse-Schnittstelle.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -163,7 +163,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-insolvenz-mieter-vermieter`
 
-**Fokus:** Insolvenz Mieter/Vermieter: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Kündigungssperren, Masseverbindlichkeit, Kaution, Aussonderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Insolvenz Mieter/Vermieter: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Kündigungssperren, Masseverbindlichkeit, Kaution, Aussonderung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Insolvenz Mieter/Vermieter
 
@@ -177,9 +177,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Kündigungssperren, Masseverbindlichkeit, Kaution, Aussonderung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Kündigungssperren, Masseverbindlichkeit, Kaution, Aussonderung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -208,7 +208,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-kanzlei-formular-portal-und-einreichung`
 
-**Fokus:** Kanzlei: Formular, Portal und Einreichungslogik im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Kanzlei: Formular, Portal und Einreichungslogik im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Kanzlei: Formular, Portal und Einreichungslogik
 
@@ -222,7 +222,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Spezialwissen: Kanzlei: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Kanzlei: Formular, Portal und Einreichungslogik / spezial kanzlei formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kanzlei: Formular, Portal und Einreichungslogik / kanzlei formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

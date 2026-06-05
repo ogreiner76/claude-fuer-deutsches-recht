@@ -1,13 +1,13 @@
 ---
 name: owi-tierschutz-akteneinsicht-einspruch
-description: "Nutze dies, wenn Owi 063 Tierschutz Owi Akteneinsicht Schreiben, Owi 064 Tierschutz Owi Einspruch Begruenden, Owi 065 Tierschutz Owi Einstellung Anregen, Owi 066 Tierschutz Owi Beweis Ruegen im Plugin Ordnungswidrigkeitenrecht konkret bearbeitet werden soll. Auslöser: Bitte Owi 063 Tierschutz Owi Akteneinsicht Schreiben, Owi 064 Tierschutz Owi Einspruch Begruenden, Owi 065 Tierschutz Owi Einstellung Anregen, Owi 066 Tierschutz Owi Beweis Ruegen prüfen.; Erstelle eine Arbeitsfassung zu Owi 063 Tierschutz Owi Akteneinsicht Schreiben, Owi 064 Tierschutz Owi Einspruch Begruenden, Owi 065 Tierschutz Owi Einstellung Anregen, Owi 066 Tierschutz Owi Beweis Ruegen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Owi 063 Tierschutz Owi Akteneinsicht Schreiben, Owi 064 Tierschutz Owi Einspruch Begruenden, Owi 065 Tierschutz Owi Einstellung Anregen, Owi 066 Tierschutz Owi Beweis Ruegen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Owi 063 Tierschutz Owi Akteneinsicht Schreiben, Owi 064 Tierschutz Owi Einspruch Begruenden, Owi 065 Tierschutz Owi Einstellung Anregen, Owi 066 Tierschutz Owi Beweis Ruegen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Owi 063 Tierschutz Owi Akteneinsicht Schreiben, Owi 064 Tierschutz Owi Einspruch Begruenden, Owi 065 Tierschutz Owi Einstellung Anregen, Owi 066 Tierschutz Owi Beweis Ruegen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

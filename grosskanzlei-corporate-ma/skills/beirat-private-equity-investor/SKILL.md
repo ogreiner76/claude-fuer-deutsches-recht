@@ -1,6 +1,6 @@
 ---
 name: beirat-private-equity-investor
-description: "Nutze dies, wenn Beirat Private Equity Investor im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Private Equity Investor prüfen.; Erstelle eine Arbeitsfassung zu Beirat Private Equity Investor.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Private Equity Investor: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Private Equity Investor

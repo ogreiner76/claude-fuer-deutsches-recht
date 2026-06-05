@@ -1,13 +1,13 @@
 ---
 name: geldstrafe-grossen-rechtsmittel
-description: "Nutze dies, wenn Spezial Geldstrafe Zahlen Schwellen Und Berechnung, Spezial Grossen Risikoampel Und Gegenargumente, Spezial Rechtsmittel Und Gesamtstrafenfolgen im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Geldstrafe Zahlen Schwellen Und Berechnung, Spezial Grossen Risikoampel Und Gegenargumente, Spezial Rechtsmittel Und Gesamtstrafenfolgen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Geldstrafe Zahlen Schwellen Und Berechnung, Spezial Grossen Risikoampel Und Gegenargumente, Spezial Rechtsmittel Und Gesamtstrafenfolgen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geldstrafe Zahlen Schwellen Und Berechnung, Grossen Risikoampel Und Gegenargumente, Rechtsmittel Und Gesamtstrafenfolgen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Geldstrafe Zahlen Schwellen Und Berechnung, Spezial Grossen Risikoampel Und Gegenargumente, Spezial Rechtsmittel Und Gesamtstrafenfolgen
+# Geldstrafe Zahlen Schwellen Und Berechnung, Grossen Risikoampel Und Gegenargumente, Rechtsmittel Und Gesamtstrafenfolgen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geldstrafe Zahlen Schwellen Und Berechnung, Grossen Risikoampel Und Gegenargumente, Rechtsmittel Und Gesamtstrafenfolgen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Geldstrafe Zahlen Schwellen Und Berechnung, Spezial Grossen Risikoampel Und Gegenargumente, Spezial Rechtsmittel Und Gesamtstrafenfolgen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Geldstrafe Zahlen Schwellen Und Berechnung, Grossen Risikoampel Und Gegenargumente, Rechtsmittel Und Gesamtstrafenfolgen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Geldstrafe Zahlen Schwellen Und Berechnung, Spezial Grossen Risik
 # Geldstrafe: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Geldstrafe: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Geldstrafe: Zahlen, Schwellenwerte und Berechnung / spezial geldstrafe zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Geldstrafe: Zahlen, Schwellenwerte und Berechnung / geldstrafe zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -79,7 +79,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Grossen: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Grossen: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Grossen: Risikoampel, Gegenargumente und Verteidigungslinien / spezial grossen risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Grossen: Risikoampel, Gegenargumente und Verteidigungslinien / grossen risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -115,36 +115,36 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafzumessung-Risikoampel / Gegenargumente Bausteine
 - **Risikoampel Strafmass:**
-  - **Rot:**
-    - Mindeststrafe nach Strafrahmen droht; keine Bewaehrung moeglich.
-    - Einschlaegige Vorstrafen (insb. einschlaegiges Vergehen ueber 6 Monate).
-    - Tat in Bewaehrungszeit (Widerrufsrisiko § 56f StGB).
-    - Schadenshoehe Regelbeispiel-Schwelle.
-    - Mehrfachverurteilung -> Gesamtstrafe § 55 StGB.
-  - **Gelb:**
-    - Erstverurteilung mit moeglicher Bewaehrung § 56 StGB.
-    - Schadenswiedergutmachung teilweise.
-    - Therapie / TOA § 46a StGB im Gang.
-    - Sozialprognose grundsaetzlich positiv aber unklare Akteurslage.
-  - **Gruen:**
-    - Erstverurteilung mit Bewaehrung.
-    - TOA / Wiedergutmachung erfolgt.
-    - Verstaendigung § 257c StPO mit Korridor abgesichert.
-    - Einstellungs-Aussicht §§ 153, 153a StPO.
+ - **Rot:**
+ - Mindeststrafe nach Strafrahmen droht; keine Bewaehrung moeglich.
+ - Einschlaegige Vorstrafen (insb. einschlaegiges Vergehen ueber 6 Monate).
+ - Tat in Bewaehrungszeit (Widerrufsrisiko § 56f StGB).
+ - Schadenshoehe Regelbeispiel-Schwelle.
+ - Mehrfachverurteilung -> Gesamtstrafe § 55 StGB.
+ - **Gelb:**
+ - Erstverurteilung mit moeglicher Bewaehrung § 56 StGB.
+ - Schadenswiedergutmachung teilweise.
+ - Therapie / TOA § 46a StGB im Gang.
+ - Sozialprognose grundsaetzlich positiv aber unklare Akteurslage.
+ - **Gruen:**
+ - Erstverurteilung mit Bewaehrung.
+ - TOA / Wiedergutmachung erfolgt.
+ - Verstaendigung § 257c StPO mit Korridor abgesichert.
+ - Einstellungs-Aussicht §§ 153, 153a StPO.
 - **Gegenargumente zu typischen Strafzumessungs-Argumenten der StA:**
-  - **"einschlaegige Vorstrafen":** Tilgungsreife pruefen § 51 BZRG (Verwertungsverbot); zeitlich abgegrenzt; nicht-einschlaegig?
-  - **"hoher Schaden":** Realquote pruefen (z. B. bei Versicherungsbetrug Schaden = Versicherungsleistung, nicht behaupteter Wert).
-  - **"professioneller Vorgehen":** Subsumtion Regelbeispiel pruefen; oft nur Indizwirkung.
-  - **"Tatfolgen": Konkrete Schaedenhoehe ermitteln; immaterielle Folgen objektivieren.
-  - **"keine Schadenswiedergutmachung":** Versuche dokumentieren; TOA-Anbieten; ggf. Schadensregulierung in Aussicht stellen.
+ - **"einschlaegige Vorstrafen":** Tilgungsreife pruefen § 51 BZRG (Verwertungsverbot); zeitlich abgegrenzt; nicht-einschlaegig?
+ - **"hoher Schaden":** Realquote pruefen (z. B. bei Versicherungsbetrug Schaden = Versicherungsleistung, nicht behaupteter Wert).
+ - **"professioneller Vorgehen":** Subsumtion Regelbeispiel pruefen; oft nur Indizwirkung.
+ - **"Tatfolgen": Konkrete Schaedenhoehe ermitteln; immaterielle Folgen objektivieren.
+ - **"keine Schadenswiedergutmachung":** Versuche dokumentieren; TOA-Anbieten; ggf. Schadensregulierung in Aussicht stellen.
 - **Verteidigungslinien Strafmilderung:**
-  - § 46 II StGB-Bilanz vollstaendig durchgehen.
-  - § 49 StGB-Verschiebung (§§ 21, 23 II, 27 II 2, 13 II StGB).
-  - § 46a StGB TOA / Schadenswiedergutmachung.
-  - § 47 StGB Vermeidung kurzer Freiheitsstrafe.
-  - § 56 StGB Bewaehrungspraxis.
-  - § 60 StGB Absehen von Strafe (klein-Schaden, Reue, gesundheitliche Folgen).
-  - Verfahrensdauer-Kompensation (BGH-Vollstreckungsloesung).
+ - § 46 II StGB-Bilanz vollstaendig durchgehen.
+ - § 49 StGB-Verschiebung (§§ 21, 23 II, 27 II 2, 13 II StGB).
+ - § 46a StGB TOA / Schadenswiedergutmachung.
+ - § 47 StGB Vermeidung kurzer Freiheitsstrafe.
+ - § 56 StGB Bewaehrungspraxis.
+ - § 60 StGB Absehen von Strafe (klein-Schaden, Reue, gesundheitliche Folgen).
+ - Verfahrensdauer-Kompensation (BGH-Vollstreckungsloesung).
 - **Massregeln pruefen:** § 44 StGB Fahrverbot, § 69 StGB Entziehung Fahrerlaubnis, § 70 StGB Berufsverbot, §§ 63, 64 StGB Unterbringung Psychiatrie / Entziehungsanstalt.
 
 ## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe
@@ -161,11 +161,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `strafzumessung`. Kontext des Plugins: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `strafzumessung`. Kontext des Plugins: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -195,19 +195,19 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## Rechtsmittel / Bewaehrung / Gesamtstrafe - Bausteine
 - **Rechtsmittelpruefung nach Verkuendung:**
-  - Beschwer pruefen (Strafmass-Differenz zum Antrag StA/Verteidigung).
-  - Erfolgsaussicht Sachruege (Strafzumessungsruege selten erfolgreich; Aufhebung idR bei Lueckenhaftigkeit, Wertungsfehler, falschem Strafrahmen, Doppelverwertung § 46 III StGB) - staendige Rspr.
-  - Verfahrensruege fuer Verstaendigungsmaengel § 257c StPO (Belehrung § 257c V StPO!).
-  - Berufung § 314 StPO 1 Woche, Revision § 341 StPO 1 Woche, § 345 StPO Begruendung 1 Monat.
+ - Beschwer pruefen (Strafmass-Differenz zum Antrag StA/Verteidigung).
+ - Erfolgsaussicht Sachruege (Strafzumessungsruege selten erfolgreich; Aufhebung idR bei Lueckenhaftigkeit, Wertungsfehler, falschem Strafrahmen, Doppelverwertung § 46 III StGB) - staendige Rspr.
+ - Verfahrensruege fuer Verstaendigungsmaengel § 257c StPO (Belehrung § 257c V StPO!).
+ - Berufung § 314 StPO 1 Woche, Revision § 341 StPO 1 Woche, § 345 StPO Begruendung 1 Monat.
 - **Bewaehrungsentscheidung § 56 StGB:**
-  - Bis 6 Mon. = Sollvorschrift; 6-12 Mon. = Kannvorschrift; 12-24 Mon. = "besondere Umstaende" § 56 II StGB.
-  - Sozialprognose § 56 I 1 StGB; Verteidigungsverhalten in Hauptverhandlung relevant.
-  - Bewaehrungsauflagen § 56b StGB (Wiedergutmachung, Geldbusse, gemeinnuetzige Arbeit), -weisungen § 56c StGB (Therapie, Bewaehrungshilfe, Kontaktverbote).
-  - Bewaehrungsdauer 2-5 Jahre § 56a StGB.
+ - Bis 6 Mon. = Sollvorschrift; 6-12 Mon. = Kannvorschrift; 12-24 Mon. = "besondere Umstaende" § 56 II StGB.
+ - Sozialprognose § 56 I 1 StGB; Verteidigungsverhalten in Hauptverhandlung relevant.
+ - Bewaehrungsauflagen § 56b StGB (Wiedergutmachung, Geldbusse, gemeinnuetzige Arbeit), -weisungen § 56c StGB (Therapie, Bewaehrungshilfe, Kontaktverbote).
+ - Bewaehrungsdauer 2-5 Jahre § 56a StGB.
 - **Gesamtstrafe § 55 StGB (nachtraegliche):**
-  - Voraussetzung: weitere Verurteilung vor Vollstreckung erster Tat erfolgt.
-  - Bildung: Einsatzstrafe + Erhoehung; § 54 II StGB Hoechstmass.
-  - Antrag auf nachtraegliche Gesamtstrafenbildung gegen Vollstreckungsbehoerde / Gericht § 460 StPO.
+ - Voraussetzung: weitere Verurteilung vor Vollstreckung erster Tat erfolgt.
+ - Bildung: Einsatzstrafe + Erhoehung; § 54 II StGB Hoechstmass.
+ - Antrag auf nachtraegliche Gesamtstrafenbildung gegen Vollstreckungsbehoerde / Gericht § 460 StPO.
 - **Bewaehrungswiderruf § 56f StGB:** bei neuer Straftat in Bewaehrungszeit; § 56g Erlass nach Bewaehrungsende.
 - **Anrechnung U-Haft § 51 StGB:** zwingend; Ausnahme bei Doppelvollstreckung.
 - **Hinweispflicht Verteidiger:** Rechtsmittelverzicht und -Ruecknahme schriftliche Mandantenfreigabe.

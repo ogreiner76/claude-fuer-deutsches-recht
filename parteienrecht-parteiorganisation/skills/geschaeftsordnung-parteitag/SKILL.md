@@ -8,7 +8,7 @@ description: "Entwirft Geschäftsordnung, Redezeiten, Antragsberatung, Änderung
 ## Aufgabe
 Entwirft Geschäftsordnung, Redezeiten, Antragsberatung, Änderungsanträge, Abstimmungen und Ordnungsrufe.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

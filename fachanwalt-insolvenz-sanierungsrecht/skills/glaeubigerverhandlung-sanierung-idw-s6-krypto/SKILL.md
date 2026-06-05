@@ -1,13 +1,13 @@
 ---
 name: glaeubigerverhandlung-sanierung-idw-s6-krypto
-description: "Nutze dies, wenn Fachanwalt Insolvenz Glaeubigerverhandlung Sanierung, Fachanwalt Insolvenz Idw S6 Sanierungskonzept, Fachanwalt Insolvenz Krypto Verwertung, Fachanwalt Insolvenz Sanierung Starug Plan, Fachanwalt Insolvenz Sanierungsrecht Anfechtungsklage Verwalter im Plugin Fachanwalt Insolvenz Sanierungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Insolvenz Glaeubigerverhandlung Sanierung, Fachanwalt Insolvenz Idw S6 Sanierungskonzept, Fachanwalt Insolvenz Krypto Verwertung, Fachanwalt Insolvenz Sanierung Starug Plan, Fachanwalt Insolvenz Sanierungsrecht Anfechtungsklage Verwalter prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Insolvenz Glaeubigerverhandlung Sanierung, Fachanwalt Insolvenz Idw S6 Sanierungskonzept, Fachanwalt Insolvenz Krypto Verwertung, Fachanwalt Insolvenz Sanierung Starug Plan, Fachanwalt Insolvenz Sanierungsrecht Anfechtungsklage Verwalter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Insolvenz Glaeubigerverhandlung Sanierung, Fachanwalt Insolvenz Idw S6 Sanierungskonzept, Fachanwalt Insolvenz Krypto Verwertung, Fachanwalt Insolvenz Sanierung Starug Plan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Insolvenz Glaeubigerverhandlung Sanierung, Fachanwalt Insolvenz Idw S6 Sanierungskonzept, Fachanwalt Insolvenz Krypto Verwertung, Fachanwalt Insolvenz Sanierung Starug Plan, Fachanwalt Insolvenz Sanierungsrecht Anfechtungsklage Verwalter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Insolvenz Glaeubigerverhandlung Sanierung, Fachanwalt Insolvenz Idw S6 Sanierungskonzept, Fachanwalt Insolvenz Krypto Verwertung, Fachanwalt Insolvenz Sanierung Starug Plan, Fachanwalt Insolvenz Sanierungsrecht Anfechtungsklage Verwalter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,8 +15,8 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `fachanwalt-insolvenz-glaeubigerverhandlung-sanierung` | Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO. Anwendungsfall Schuldner will außergerichtlichen Vergleich oder InsO-Plan mit Gläubigern verhandeln. Normen § 270d InsO Schutzschirm §§ 4-65 StaRUG Restrukturierungsplan §§ 112 113 BetrVG Sozialplan § 125 InsO. Prüfraster Gläubigerausschuss-Zusammensetzung Verhandlungsposition Masseverbindlichkeiten Plan-Annahme 75-Prozent-Mehrheit Cross-class Cramdown. Output Verhandlungsstrategie-Memo mit Gläubigerkorrespondenz Vergleichsangebot Plan-Grobentwurf und Zeitplan. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan. |
 | `fachanwalt-insolvenz-idw-s6-sanierungskonzept` | Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau aus anwaltlicher Sicht. Führt durch Fortbestehensprognose, Sanierungsfähigkeit, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpakete, integrierte Planung, kleinere Unternehmen, Dokumentation, Haftungs- und Verhandlungsrisiken. Output: Mandantenmemo, Bank-/Gläubigerunterlage, Datenanforderung, Red-Team-Liste und Entscheidungsampel. |
-| `fachanwalt-insolvenz-krypto-verwertung` | Workflow-Skill zu fachanwalt insolvenz krypto verwertung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-insolvenz-sanierung-starug-plan` | StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Voraussetzung drohende Zahlungsunfähigkeit § 18 InsO. Plan-Struktur Gruppen Mehrheiten 75 Prozent je Klasse. Cross-class cramdown. Stabilisierungsanordnung § 49 StaRUG. Restrukturierungsbeauftragter. Workflow Anzeige Plan-Aufstellung Abstimmung Bestätigung. |
+| `fachanwalt-insolvenz-krypto-verwertung` | Arbeitsmodul zu fachanwalt insolvenz krypto verwertung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-insolvenz-sanierung-starug-plan` | StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Voraussetzung drohende Zahlungsunfähigkeit § 18 InsO. Plan-Struktur Gruppen Mehrheiten 75 Prozent je Klasse. Cross-class cramdown. Stabilisierungsanordnung § 49 StaRUG. Restrukturierungsbeauftragter. Anzeige Plan-Aufstellung Abstimmung Bestätigung. |
 | `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter` | Anfechtungsklage des Insolvenzverwalters nach §§ 129-147 InsO vorbereiten: Tatbestand je Rechtshandlung, § 130/131/133/134/135, Bargeschäft § 142, Rückgewähr § 143, Gegenleistung § 144, Verjährung § 146, Beweislast, KI-Kandidatenmatrix und Gegnerverteidigung. Output: Klagegerüst mit Beleg- und Risikoplan. |
 
 ## Arbeitsweg
@@ -167,11 +167,11 @@ Bevor losgelegt wird, klaere:
 ## Aktuelle Leitentscheidungen (Stand Mai 2026)
 
 - **BGH IX ZR 122/23 vom 05.12.2024** — Bargeschäft / Unlauterkeit (§ 142 InsO). Relevanz: in Sanierungsverhandlungen vereinbarte Zahlungsmodelle (Cash-on-Delivery, Vorkasse) bleiben grundsätzlich anfechtungsfest, wenn sie gleichwertig, unmittelbar und nicht gezielt schädigend für übrige Gläubiger sind.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 - **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung; Stundungs- und Ratenzahlungsvereinbarungen sind günstiger zu beurteilen, wenn keine konkrete Erwartung dauerhafter Liquiditätsunterdeckung dokumentiert ist.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA) — Eingriffe in Aktionärsrechte über StaRUG-Plan verfassungsrechtlich grundsätzlich zulässig (Schlechterstellungsprüfung beachten).
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Konkrete BGH-Linien zur Sanierungsmoderation (§§ 94 ff. StaRUG) und zum Sanierungsprivileg (§ 39 Abs. 4 InsO) vor Ausgabe über offene Quellen verifizieren.
 
 ## Paragrafenkette Glaeubigerverhandlung
@@ -181,7 +181,7 @@ Bevor losgelegt wird, klaere:
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Workflow — 5-Phasen-Glaeubigerverhandlung
+## — 5-Phasen-Glaeubigerverhandlung
 
 1. **Lageanalyse:** Liquiditaetsstatus 3-Wochen und 13-Wochen-Forecast; Fortbestehensprognose § 19 Abs. 2 InsO; Sanierungskonzept auf IDW-S-6-Niveau vorbereiten, wenn Banken, Warenkreditversicherer oder Schluesselglaeubiger mittragen sollen.
 2. **Glaeubigerstruktur:** Rangtabelle erstellen: gesichert (§§ 49-51 InsO) → Masseforderungen → unsecured → Nachrang § 39 InsO; BATNA je Glaeubiger errechnen.
@@ -233,7 +233,7 @@ Dieser Skill macht aus einer unsortierten Krisenakte ein anwaltlich belastbares 
 
 Der Skill erstellt keine Prüfungsbescheinigung. Er unterstützt die anwaltliche Strukturierung, Plausibilisierung, Dokumentation und Verhandlungsfähigkeit.
 
-## Kaltstart
+## Einstieg
 
 Wenn der Nutzer nur "Sanierungskonzept", "IDW S 6", "Bank will Konzept" oder "Schutzschirm" schreibt, starte so:
 
@@ -389,10 +389,10 @@ Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprec
 
 ## 3. `fachanwalt-insolvenz-krypto-verwertung`
 
-**Fokus:** Workflow-Skill zu fachanwalt insolvenz krypto verwertung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt insolvenz krypto verwertung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt insolvenz krypto verwertung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechts` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsmodul zu fachanwalt insolvenz krypto verwertung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechts` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
@@ -436,7 +436,7 @@ Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprec
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -481,9 +481,9 @@ Gemäß § 97 Abs. 1 InsO sind Sie verpflichtet, mir alle Informationen zu offen
 die für das Insolvenzverfahren von Bedeutung sind. Dies umfasst ausdrücklich:
 
 1. Alle Kryptowährungs-Wallets (Bitcoin, Ethereum, sonstige Token/NFTs), die Sie oder
-   die Schuldnerin halten oder gehalten haben (ab [24 Monate vor Antrag]);
+ die Schuldnerin halten oder gehalten haben (ab [24 Monate vor Antrag]);
 2. Sämtliche Private Keys, Seed-Phrases (12/24 Wörter), Hardware-Wallet-PINs sowie
-   alle Zugangsdaten zu Custodial-Exchanges und Brokern;
+ alle Zugangsdaten zu Custodial-Exchanges und Brokern;
 3. Alle Multi-Sig-Arrangements einschließlich der Identität der weiteren Co-Signatäre;
 4. Alle Transaktionen der letzten [4 Jahre] (Anfechtungsfrist § 133 InsO).
 
@@ -522,22 +522,22 @@ Verfahren: [XX IN YY/ZZ], Schuldnerin: [Firma]
 Stand: [Datum], Verwalter: [Name]
 
 I. Inventar (Stand Eröffnung [Datum]):
-   - Bitcoin: [X BTC] @ [Kurs EUR] = [EUR]
-   - Ethereum: [X ETH] @ [Kurs EUR] = [EUR]
-   - Sonstige Token: [Details]
+ - Bitcoin: [X BTC] @ [Kurs EUR] = [EUR]
+ - Ethereum: [X ETH] @ [Kurs EUR] = [EUR]
+ - Sonstige Token: [Details]
 
 II. Bewertung Eröffnungsstichtag:
-   Gewichteter Börsenkurs Coinbase/Kraken/Binance (24h-VWAP): [Datum, Kurs]
+ Gewichteter Börsenkurs Coinbase/Kraken/Binance (24h-VWAP): [Datum, Kurs]
 
 III. Empfohlene Verwertungsstrategie:
-   Option A – Börsenverkauf: Sofortliquidation; Marktrisiko bei Großmengen
-   Option B – OTC-Block-Trade: für Volumina >50 BTC; reduziert Slippage
-   Option C – Auktion (Bieterverfahren): geeignet für NFTs und illiquide Altcoins
-   Option D – Sachausschüttung an Gläubiger: nur wenn Gläubigerausschuss zustimmt
+ Option A – Börsenverkauf: Sofortliquidation; Marktrisiko bei Großmengen
+ Option B – OTC-Block-Trade: für Volumina >50 BTC; reduziert Slippage
+ Option C – Auktion (Bieterverfahren): geeignet für NFTs und illiquide Altcoins
+ Option D – Sachausschüttung an Gläubiger: nur wenn Gläubigerausschuss zustimmt
 
 IV. Steuerliche Folgen:
-   Veräußerung innerhalb 1 Jahresfrist → Masseverbindlichkeit (§ 23 EStG, § 55 InsO)
-   Steuerberater [Name] einbinden; Vorauszahlung reservieren.
+ Veräußerung innerhalb 1 Jahresfrist → Masseverbindlichkeit (§ 23 EStG, § 55 InsO)
+ Steuerberater [Name] einbinden; Vorauszahlung reservieren.
 ```
 
 --- vor Versand klaeren ---
@@ -636,7 +636,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `fachanwalt-insolvenz-sanierung-starug-plan`
 
-**Fokus:** StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Voraussetzung drohende Zahlungsunfähigkeit § 18 InsO. Plan-Struktur Gruppen Mehrheiten 75 Prozent je Klasse. Cross-class cramdown. Stabilisierungsanordnung § 49 StaRUG. Restrukturierungsbeauftragter. Workflow Anzeige Plan-Aufstellung Abstimmung Bestätigung.
+**Fokus:** StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Voraussetzung drohende Zahlungsunfähigkeit § 18 InsO. Plan-Struktur Gruppen Mehrheiten 75 Prozent je Klasse. Cross-class cramdown. Stabilisierungsanordnung § 49 StaRUG. Restrukturierungsbeauftragter. Anzeige Plan-Aufstellung Abstimmung Bestätigung.
 
 # StaRUG-Restrukturierungsplan
 
@@ -697,9 +697,9 @@ Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfähigkeit. Kei
 ### Cross-class cramdown § 26 StaRUG
 
 - Bei Verweigerung einer Klasse: Plan kann trotzdem bestätigt werden, wenn:
-  - Plan-Verhältnis-Prüfung erfüllt
-  - Keine Klasse schlechter gestellt als ohne Plan
-  - Mehrheit der Klassen zustimmt
+ - Plan-Verhältnis-Prüfung erfüllt
+ - Keine Klasse schlechter gestellt als ohne Plan
+ - Mehrheit der Klassen zustimmt
 
 ## 4) Stabilisierungsanordnung § 49 StaRUG
 
@@ -807,7 +807,7 @@ Wenn ein Gate rot ist, kein StaRUG-Versprechen ausgeben, sondern zuerst `fachanw
 ## 10) BVerfG- und Restrukturierungsgerichts-Linien (Stand Mai 2026)
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA AG) — Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss; Ausschluss von 49,9 % Minderheitsaktionären ohne Kompensation) als unzulässig zurückgewiesen. Bedeutung: Eingriffe in Aktionärsrechte über StaRUG sind verfassungsrechtlich nicht generell ausgeschlossen, solange § 66 Abs. 2 Nr. 3 StaRUG (Schlechterstellungsprüfung) eingehalten wird.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Restrukturierungsgerichts-Entscheidungen (insb. AG Köln, AG Düsseldorf) zur Bestätigung von Restrukturierungsplänen vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
 
 ## 11) Praxis-Hinweise
@@ -836,7 +836,7 @@ Bevor losgelegt wird, klaere:
 ## Aktuelle Leitentscheidungen StaRUG
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG / Bezugsrechtsausschluss; unzulässig)
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Weitere LG/OLG-Entscheidungen zur Praxis der gerichtlichen Bestätigung (§§ 60–66 StaRUG), zum Cross-Class-Cramdown (§ 26 StaRUG) und zur Stabilisierungsanordnung (§ 49 StaRUG) vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
 
 ## Paragrafenkette StaRUG-Plan
@@ -846,7 +846,7 @@ Bevor losgelegt wird, klaere:
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Workflow — 7 Schritte StaRUG-Restrukturierungsplan
+## — 7 Schritte StaRUG-Restrukturierungsplan
 
 1. **Krisenstadium verifizieren:** 24-Monats-Forecast § 29 Abs. 2 StaRUG; bei ZU § 17 InsO Notfallwechsel → InsO.
 2. **Plan-Scope bestimmen:** Welche Glaeubiger werden einbezogen (§ 9 StaRUG)? Finanzglaeubiger, Lieferanten, Pensionsansprueche, FA?
@@ -885,7 +885,7 @@ IV. Planbetroffene Glaeubiger (§ 9 Abs. 2 StaRUG)
 2. [KLASSE II — Lieferantenglaeubiger]: [BETRAG EUR]
 
 V. Begleitende Massnahmen
-[ ] Stabilisierungsanordnung § 49 StaRUG    [ ] Restrukturierungsbeauftragter § 73 StaRUG
+[ ] Stabilisierungsanordnung § 49 StaRUG [ ] Restrukturierungsbeauftragter § 73 StaRUG
 ```
 
 ## 5. `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter`
@@ -903,7 +903,7 @@ V. Begleitende Massnahmen
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Kaltstart
+## Einstieg
 
 1. Welche Rechtshandlungen sollen eingeklagt werden, einzeln mit Datum, Betrag und Empfänger?
 2. Ist der Zeitpunkt nach § 140 InsO geklärt oder nur das Buchungsdatum bekannt?
@@ -1009,11 +1009,11 @@ V. Rechtsfolge
 
 - **BGH IX ZR 72/20 vom 06.05.2021** — Aus der bloßen Zahlungsunfähigkeit allein kein Schluss auf Vorsatz iSd § 133 Abs. 1 InsO.
 - **BGH IX ZR 129/22 vom 18.04.2024** — Bestätigung der Neuausrichtung der Vorsatzanfechtung; konkrete Bedrohungslage und Erwartung dauerhafter Unterdeckung darzulegen; einfaches Bestreiten des außenstehenden Anfechtungsgegners zur Liquidität kann ausreichen.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - **BGH IX ZR 239/22 vom 18.04.2024** — Verschärfung der Anforderungen an die Anfechtung wegen gesellschafterähnlicher Stellung (§ 135 InsO).
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - **BGH IX ZR 122/23 vom 05.12.2024** — Konkretisierung der Unlauterkeit nach § 142 Abs. 1 Hs. 2 InsO; bei Bargeschäft im Rahmen der Vorsatzanfechtung muss gezielt schädigendes Verhalten konkret nachgewiesen werden.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 - Weitere BGH-Entscheidungen vor Klageeinreichung über dejure.org / openjur.de / bundesgerichtshof.de mit Datum, Aktenzeichen und Randnummer verifizieren.
 
 ## Output

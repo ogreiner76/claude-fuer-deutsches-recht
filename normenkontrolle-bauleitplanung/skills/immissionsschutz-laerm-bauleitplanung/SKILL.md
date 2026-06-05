@@ -12,7 +12,7 @@ Lärm ist der häufigste materielle Hebel im Normenkontrollverfahren bei Innenst
 ## Schritt 1 — DIN 18005 Schallschutz im Städtebau
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Orientierungswerte (in dB(A))
 | Gebietstyp | Tag (6-22 Uhr) | Nacht (22-6 Uhr) |
@@ -234,18 +234,18 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 IV. Verstoß gegen § 50 BImSchG und § 2 Abs. 3 BauGB — Lärmermittlung unvollständig
 
 1. Kumulation Straßen- und Schienenlärm nicht berücksichtigt
-   Das Schallschutzgutachten der [BUERO] vom [DATUM] behandelt Straßenlärm und Schienenlärm
-   separat. Eine Summenpegel-Berechnung fehlt. Dies begründet ein Ermittlungsdefizit
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Das Schallschutzgutachten der [BUERO] vom [DATUM] behandelt Straßenlärm und Schienenlärm
+ separat. Eine Summenpegel-Berechnung fehlt. Dies begründet ein Ermittlungsdefizit
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. Außenwohnbereiche ungeschützt
-   Für die auf Blatt [X] ausgewiesenen Balkone und Terrassen in den Fensterlagen [HIMMELSRICHTUNG]
-   werden Pegelwerte von [Z] dB(A) tagsüber erreicht — [N] dB(A) über DIN 18005-Orientierungswert.
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Für die auf Blatt [X] ausgewiesenen Balkone und Terrassen in den Fensterlagen [HIMMELSRICHTUNG]
+ werden Pegelwerte von [Z] dB(A) tagsüber erreicht — [N] dB(A) über DIN 18005-Orientierungswert.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. Abwägungsdisproportionalität
-   Die Überschreitung beträgt [X] dB(A). Bei mehr als 5 dB(A) ohne aktive Schutzmaßnahmen
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Die Überschreitung beträgt [X] dB(A). Bei mehr als 5 dB(A) ohne aktive Schutzmaßnahmen
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klaeren ---

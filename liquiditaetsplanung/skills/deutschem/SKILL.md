@@ -1,6 +1,6 @@
 ---
 name: deutschem
-description: "Nutze dies, wenn Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage prüfen.; Erstelle eine Arbeitsfassung zu Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage

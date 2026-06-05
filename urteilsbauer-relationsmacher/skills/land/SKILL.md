@@ -1,12 +1,12 @@
 ---
 name: land
-description: "Nutze dies, wenn Land: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Land: Dokumentenmatrix, Lückenliste und Nachforderung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Land: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Land: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Land: Dokumentenmatrix, Lückenliste und Nachforderung / spezial land dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Land: Dokumentenmatrix, Lückenliste und Nachforderung / land dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DOCX, ZPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

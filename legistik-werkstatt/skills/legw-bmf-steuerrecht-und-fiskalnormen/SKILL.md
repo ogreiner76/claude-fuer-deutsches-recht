@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Steuerrecht und Fiskalnormen
-Ressort:            BMF
-Kernnormen:         AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.
-Akteure/Aufsicht:   BZSt; Finanzaemter der Laender; BFH; FG; juris-Finanzrechtsprechung.
-EU/Voelkerrecht:    MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmf; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Steuerrecht und Fiskalnormen
+Ressort: BMF
+Kernnormen: AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.
+Akteure/Aufsicht: BZSt; Finanzaemter der Laender; BFH; FG; juris-Finanzrechtsprechung.
+EU/Voelkerrecht: MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

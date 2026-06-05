@@ -1,6 +1,6 @@
 ---
 name: berufliche-fristennotiz-naechster-schritt
-description: "Nutze dies, wenn Berufliche: Fristennotiz und nächster Schritt im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Berufliche: Fristennotiz und nächster Schritt prüfen.; Erstelle eine Arbeitsfassung zu Berufliche: Fristennotiz und nächster Schritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Berufliche: Fristennotiz und nächster Schritt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Berufliche: Fristennotiz und nächster Schritt

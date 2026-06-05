@@ -1,19 +1,19 @@
 ---
 name: elektronische-paragraph-formerfordernisse
-description: "Nutze dies, wenn Elektronische Form Paragraph 126A Bgb Qes, Formerfordernisse Im Bgb Ueberblick, Gewerberaummiete Paragraph 550 Bgb Langzeitform im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Bitte Elektronische Form Paragraph 126A Bgb Qes, Formerfordernisse Im Bgb Ueberblick, Gewerberaummiete Paragraph 550 Bgb Langzeitform prüfen.; Erstelle eine Arbeitsfassung zu Elektronische Form Paragraph 126A Bgb Qes, Formerfordernisse Im Bgb Ueberblick, Gewerberaummiete Paragraph 550 Bgb Langzeitform.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Elektronische Form Paragraph 126a Bgb Qes, Formerfordernisse Im Bgb Ueberblick, Gewerberaummiete Paragraph 550 Bgb Langzeitform: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Elektronische Form Paragraph 126A Bgb Qes, Formerfordernisse Im Bgb Ueberblick, Gewerberaummiete Paragraph 550 Bgb Langzeitform
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Elektronische Form Paragraph 126A Bgb Qes, Formerfordernisse Im Bgb Ueberblick, Gewerberaummiete Paragraph 550 Bgb Langzeitform** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `elektronische-form-paragraph-126a-bgb-qes` | Workflow-Skill zu elektronische form paragraph 126a bgb qes. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `elektronische-form-paragraph-126a-bgb-qes` | Arbeitsmodul zu elektronische form paragraph 126a bgb qes: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `formerfordernisse-im-bgb-ueberblick` | Systematik der Formerfordernisse im BGB: gesetzliche vs. gewillkürte Form, §§ 125-129 BGB, Nichtigkeitsfolge § 125 BGB, Heilungsmöglichkeiten, Formhierarchie von Textform bis notarielle Beurkundung — Einstieg und Überblick für die Kanzleipraxis. |
 | `gewerberaummiete-paragraph-550-bgb-langzeitform` | Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kündigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kündigung-paragraph-568-bgb (Wohnraum) und kündigung-per-schriftsatz-zustellung-formfragen. |
 
@@ -26,7 +26,7 @@ Für **Elektronische Form Paragraph 126A Bgb Qes, Formerfordernisse Im Bgb Ueber
 
 ## 1. `elektronische-form-paragraph-126a-bgb-qes`
 
-**Fokus:** Workflow-Skill zu elektronische form paragraph 126a bgb qes. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu elektronische form paragraph 126a bgb qes: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Elektronische Form § 126a BGB — Qualifizierte elektronische Signatur
 
@@ -85,17 +85,17 @@ Das macht die direkte elektronische Kündigung per E-Mail oder Signaturplattform
 
 ```
 qES = qualifizierte elektronische Signatur im Sinne von Art. 3 Nr. 12 eIDAS-VO:
-  ├── qualifiziertes Zertifikat
-  ├── qualifizierter Vertrauensdiensteanbieter
-  ├── qualifizierte Signaturerstellungseinheit
-  └── prüfbare Integrität des konkreten Dokuments
+ ├── qualifiziertes Zertifikat
+ ├── qualifizierter Vertrauensdiensteanbieter
+ ├── qualifizierte Signaturerstellungseinheit
+ └── prüfbare Integrität des konkreten Dokuments
 
 Nicht ausreichend:
-  - eingescannte Unterschrift
-  - Bild einer Unterschrift im PDF
-  - einfache elektronische Signatur
-  - fortgeschrittene elektronische Signatur ohne qES
-  - beA-Versand ohne qES, wenn keine Formfiktion trägt
+ - eingescannte Unterschrift
+ - Bild einer Unterschrift im PDF
+ - einfache elektronische Signatur
+ - fortgeschrittene elektronische Signatur ohne qES
+ - beA-Versand ohne qES, wenn keine Formfiktion trägt
 ```
 
 ### Zugangs-Checkliste
@@ -222,17 +222,17 @@ Die Berufung auf einen Formmangel kann nach § 242 BGB treuwidrig sein, wenn:
 
 ```
 1. Liegt ein gesetzliches Formerfordernis vor?
-   → Welche Norm? (§ 126, § 126a, § 126b, § 128, § 129 BGB oder Sondergesetz)
-   → Schutzzweck: Warn-, Beweis-, Beratungs-, Identitätsfunktion?
+ → Welche Norm? (§ 126, § 126a, § 126b, § 128, § 129 BGB oder Sondergesetz)
+ → Schutzzweck: Warn-, Beweis-, Beratungs-, Identitätsfunktion?
 
 2. Wurde die Form eingehalten?
-   → Eigenhändige Unterschrift vorhanden?
-   → qES technisch korrekt und zugegangen?
-   → Textform: dauerhafter Datenträger, Person erkennbar, Abschluss erkennbar?
+ → Eigenhändige Unterschrift vorhanden?
+ → qES technisch korrekt und zugegangen?
+ → Textform: dauerhafter Datenträger, Person erkennbar, Abschluss erkennbar?
 
 3. Wenn Formmangel: Heilung möglich?
-   → Gesetzliche Heilungsnorm?
-   → § 242 BGB Treuwidrigkeitseinwand vertretbar?
+ → Gesetzliche Heilungsnorm?
+ → § 242 BGB Treuwidrigkeitseinwand vertretbar?
 
 4. Konsequenz: Nichtigkeit (§ 125 S. 1) oder Zweifelsregel (§ 125 S. 2)?
 ```
@@ -295,22 +295,22 @@ Es gibt seit Jahren Bestrebungen, § 550 BGB zu reformieren oder die strenge Sch
 
 ```
 □ Mietvertrag über Räume für länger als ein Jahr?
-   → § 550 BGB: Schriftform des § 126 BGB zwingend
+ → § 550 BGB: Schriftform des § 126 BGB zwingend
 
 □ Unterschriften beider Parteien auf Urkunde?
-   → Eigenhändig auf dem Vertragstext
-   → Räumlich unter dem gesamten Inhalt
+ → Eigenhändig auf dem Vertragstext
+ → Räumlich unter dem gesamten Inhalt
 
 □ Alle wesentlichen Vertragsbestandteile in der Urkunde?
-   → Mietzins, Mietdauer, Mietsache, Nebenkosten
-   → Anlagen (Grundrisse, Ausbaustandards) in Bezug genommen und verbunden?
+ → Mietzins, Mietdauer, Mietsache, Nebenkosten
+ → Anlagen (Grundrisse, Ausbaustandards) in Bezug genommen und verbunden?
 
 □ Nachtragsvereinbarungen schriftlich dokumentiert?
-   → Jeder Nachtrag muss ebenfalls Schriftform wahren
-   → Mündliche Nebenabreden können § 550 BGB-Problem auslösen
+ → Jeder Nachtrag muss ebenfalls Schriftform wahren
+ → Mündliche Nebenabreden können § 550 BGB-Problem auslösen
 
 □ Schriftformklausel (qualifiziert) im Vertrag enthalten?
-   → Schützt vor Schriftformverlust durch nachträgliche Absprachen
+ → Schützt vor Schriftformverlust durch nachträgliche Absprachen
 ```
 
 ### Konsequenzen bei Schriftformverstoß
@@ -356,11 +356,11 @@ Nachtrag Nr. [X] zum Mietvertrag vom [Datum] über [Adresse]
 
 zwischen
 
-[Vermieter-Name, Adresse]                — nachfolgend "Vermieter" —
+[Vermieter-Name, Adresse] — nachfolgend "Vermieter" —
 
 und
 
-[Mieter-Name, Adresse]                   — nachfolgend "Mieter" —
+[Mieter-Name, Adresse] — nachfolgend "Mieter" —
 
 Die Parteien vereinbaren folgende Änderung des oben genannten Mietvertrages:
 
@@ -370,8 +370,8 @@ Im Übrigen bleibt der Mietvertrag vom [Datum] unverändert bestehen.
 
 [Ort], [Datum]
 
-________________________              ________________________
-[Unterschrift Vermieter]              [Unterschrift Mieter]
+________________________ ________________________
+[Unterschrift Vermieter] [Unterschrift Mieter]
 ```
 
 ## Fallstricke

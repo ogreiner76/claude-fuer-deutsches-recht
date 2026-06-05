@@ -1,6 +1,6 @@
 ---
 name: livequellen-g-ba-bmg-land-pruefen
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livequellen G-BA BMG Land prüfen."
+description: "Nutze dies zur Quellenprüfung bei Livequellen G-BA BMG Land prüfen: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Livequellen G-BA BMG Land prüfen

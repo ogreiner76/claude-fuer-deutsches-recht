@@ -1,6 +1,6 @@
 ---
 name: mahnvorlauf
-description: "Nutze dies, wenn Mahnvorlauf: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Mahnvorlauf: Dokumentenmatrix, Lückenliste und Nachforderung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Mahnvorlauf: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: insolvenzverkauf-agb
-description: "Branchen-Spezialskill für Insolvenzverkauf AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Insolvenzverkauf AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Insolvenzverkauf AGB

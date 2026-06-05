@@ -42,7 +42,7 @@ Nicht dieser Skill, sondern `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkau
 - **§ 10a GewStG** – Parallelregelung Gewerbesteuer.
 - **§ 89 AO** – verbindliche Auskunft.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Teil A – § 8c Abs. 4 KStG (Stille-Reserven-Klausel):**
 
@@ -110,10 +110,10 @@ Der Schutz des Verlustvortrags ist Detailarbeit. Drei Beobachtungen:
 - Plugin `steuerrecht-anwalt-und-berater`: § 8c und § 8d KStG im Detail.
 - Plugin `insolvenzrecht`: Anteilseignerwechsel im Insolvenzplan.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
 
 ## Quellen Stand 06/2026
 

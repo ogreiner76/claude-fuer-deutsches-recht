@@ -1,13 +1,13 @@
 ---
 name: kammerbeschwerde-organisationspflic-ki
-description: "Nutze dies, wenn Steuerberater Kammerbeschwerde Steuerberater Organisationspflic, Steuerberater Ki In Der Steuerkanzlei Kammerantwort Und Verfahr, Steuerberater Ki In Der Steuerkanzlei Organisationspflicht Und, Steuerberater Kooperation Mit Rechtsanwalt Kammerantwort Und Ve, Steuerberater Kooperation Mit Rechtsanwalt Organisationspflicht im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Kammerbeschwerde Steuerberater Organisationspflic, Steuerberater Ki In Der Steuerkanzlei Kammerantwort Und Verfahr, Steuerberater Ki In Der Steuerkanzlei Organisationspflicht Und, Steuerberater Kooperation Mit Rechtsanwalt Kammerantwort Und Ve, Steuerberater Kooperation Mit Rechtsanwalt Organisationspflicht prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Kammerbeschwerde Steuerberater Organisationspflic, Steuerberater Ki In Der Steuerkanzlei Kammerantwort Und Verfahr, Steuerberater Ki In Der Steuerkanzlei Organisationspflicht Und, Steuerberater K..."
+description: "Nutze dies bei Steuerberater Kammerbeschwerde Steuerberater Organisationspflic, Steuerberater Ki In Der Steuerkanzlei Kammerantwort Und Verfahr, Steuerberater Ki In Der Steuerkanzlei Organisationspflicht Und, Steuerberater Kooperation Mit Rechtsanwalt Kammerantwort Und Ve: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Kammerbeschwerde Steuerberater Organisationspflic, Steuerberater Ki In Der Steuerkanzlei Kammerantwort Und Verfahr, Steuerberater Ki In Der Steuerkanzlei Organisationspflicht Und, Steuerberater Kooperation Mit Rechtsanwalt Kammerantwort Und Ve, Steuerberater Kooperation Mit Rechtsanwalt Organisationspflicht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Kammerbeschwerde Steuerberater Organisationspflic, Steuerberater Ki In Der Steuerkanzlei Kammerantwort Und Verfahr, Steuerberater Ki In Der Steuerkanzlei Organisationspflicht Und, Steuerberater Kooperation Mit Rechtsanwalt Kammerantwort Und Ve, Steuerberater Kooperation Mit Rechtsanwalt Organisationspflicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

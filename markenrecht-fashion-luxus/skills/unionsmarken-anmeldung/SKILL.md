@@ -1,13 +1,13 @@
 ---
 name: unionsmarken-anmeldung
-description: "Nutze dies, wenn Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco prüfen.; Erstelle eine Arbeitsfassung zu Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -58,45 +58,45 @@ Ich begleite klôtzzkètté von der Konzeption über e-Filing bis zur Eintragung
 ## Prüfungsschritte
 
 1. **Vorrecherche (obligatorisch vor e-Filing):**
-   - EUIPO eSearch plus: Suche nach identischen und ähnlichen älteren Marken
-   - EUIPO TMview: internationale Datenbank
-   - Attention: EUIPO prüft keine relativen Schutzhindernisse von Amts wegen — Widerspruch ist Sache der Inhaber älterer Marken
+ - EUIPO eSearch plus: Suche nach identischen und ähnlichen älteren Marken
+ - EUIPO TMview: internationale Datenbank
+ - Attention: EUIPO prüft keine relativen Schutzhindernisse von Amts wegen — Widerspruch ist Sache der Inhaber älterer Marken
 
 2. **e-Filing — Anmeldeformular:**
-   - Zugang via: euipo.europa.eu/eSearch/ → Online Filing
-   - Markenart wählen: Wortmarke / Bildmarke / 3D-Marke / Hörmarke / Positionsmarke / Bewegungsmarke / Multimediamarke / Hologrammmarke / Farbmarke / Mustermarke
-   - Markenwiedergabe hochladen (je nach Markenart: Text / JPG / MP3 / MP4)
-   - Nizza-Klassen und Warenverzeichnis (ID-Manual EUIPO nutzen)
-   - Inhaberangaben
-   - Prioritätsanspruch (falls vorhanden): DPMA-Aktenzeichen, Anmeldedatum
-   - Sprache: 1. Sprache (Anmeldesprache); 2. Sprache (muss offizielle EUIPO-Sprache sein: DE/EN/FR/ES/IT)
+ - Zugang via: euipo.europa.eu/eSearch/ → Online Filing
+ - Markenart wählen: Wortmarke / Bildmarke / 3D-Marke / Hörmarke / Positionsmarke / Bewegungsmarke / Multimediamarke / Hologrammmarke / Farbmarke / Mustermarke
+ - Markenwiedergabe hochladen (je nach Markenart: Text / JPG / MP3 / MP4)
+ - Nizza-Klassen und Warenverzeichnis (ID-Manual EUIPO nutzen)
+ - Inhaberangaben
+ - Prioritätsanspruch (falls vorhanden): DPMA-Aktenzeichen, Anmeldedatum
+ - Sprache: 1. Sprache (Anmeldesprache); 2. Sprache (muss offizielle EUIPO-Sprache sein: DE/EN/FR/ES/IT)
 
 3. **Gebühren (Stand 2024):**
-   - Elektronische Anmeldung: EUR 850 für Klasse 1; EUR 50 für Klasse 2; EUR 150 je weitere Klasse
-   - Papier-Anmeldung: EUR 1.000 (Aufschlag — immer e-Filing bevorzugen)
+ - Elektronische Anmeldung: EUR 850 für Klasse 1; EUR 50 für Klasse 2; EUR 150 je weitere Klasse
+ - Papier-Anmeldung: EUR 1.000 (Aufschlag — immer e-Filing bevorzugen)
 
 4. **Formprüfung durch EUIPO:**
-   - Ca. 1-2 Wochen Prüfung nach Eingang
-   - Bei Mängeln: Fristsetzung zur Behebung (1 Monat, verlängerbar)
+ - Ca. 1-2 Wochen Prüfung nach Eingang
+ - Bei Mängeln: Fristsetzung zur Behebung (1 Monat, verlängerbar)
 
 5. **Inhaltliche Prüfung:**
-   - Absolute Schutzhindernisse Art. 7 UMV (entspricht § 8 MarkenG)
-   - Kein Prüfen relativer Hindernisse
-   - Bei Beanstandung: Office Action mit Erwiderungsfrist 2 Monate (verlängerbar)
+ - Absolute Schutzhindernisse Art. 7 UMV (entspricht § 8 MarkenG)
+ - Kein Prüfen relativer Hindernisse
+ - Bei Beanstandung: Office Action mit Erwiderungsfrist 2 Monate (verlängerbar)
 
 6. **Veröffentlichung:**
-   - Nach Prüfung: Veröffentlichung im EUIPO-Markenblatt (EUTM Bulletin)
-   - Beginn der 3-monatigen Widerspruchsfrist (Art. 46 UMV)
+ - Nach Prüfung: Veröffentlichung im EUIPO-Markenblatt (EUTM Bulletin)
+ - Beginn der 3-monatigen Widerspruchsfrist (Art. 46 UMV)
 
 7. **Widerspruchsphase:**
-   - 3 Monate ab Veröffentlichung für Widersprüche Dritter
-   - Cooldown-Periode: 2 Monate friendly-settlement, dann Schriftsatzphase
-   - Vgl. Skill `euipo-widerspruchsverfahren`
+ - 3 Monate ab Veröffentlichung für Widersprüche Dritter
+ - Cooldown-Periode: 2 Monate friendly-settlement, dann Schriftsatzphase
+ - Vgl. Skill `euipo-widerspruchsverfahren`
 
 8. **Eintragung:**
-   - Nach widerspruchsfreiem Ablauf der 3-Monatsfrist oder nach Abschluss der Widerspruchsverfahren
-   - Eintragungsbeschluss, Eintragung im EUIPO-Register
-   - Eintragungsurkunde (digital, keine physische Urkunde mehr)
+ - Nach widerspruchsfreiem Ablauf der 3-Monatsfrist oder nach Abschluss der Widerspruchsverfahren
+ - Eintragungsbeschluss, Eintragung im EUIPO-Register
+ - Eintragungsurkunde (digital, keine physische Urkunde mehr)
 
 ## Falltypische Konstellationen
 
@@ -224,11 +224,11 @@ Das US-System kombiniert zivile und strafrechtliche Instrumente zu einem der sch
 - **15 U.S.C. § 1114 (Lanham Act § 32):** Zivilrechtlicher Infringement Claim (gegen Verwendung eingetragener Marke)
 - **15 U.S.C. § 1116 (Lanham Act § 34):** Injunctive Relief — federal courts dürfen Unterlassungsverfügungen erlassen; ex parte Seizure möglich bei Counterfeiting
 - **15 U.S.C. § 1117 (Lanham Act § 35):** Damages:
-  - Defendant's Profits (Herausgabe des Verletzergewinns)
-  - Actual Damages (nachgewiesener Schaden klôtzzkètté)
-  - Treble Damages: bis 3x bei willful infringement
-  - Statutory Damages bei Counterfeiting: USD 1.000-200.000 je Mark/Goods-Kombination; USD 2.000.000 bei willful counterfeiting
-  - Attorney Fees in "exceptional cases" (§ 1117(a))
+ - Defendant's Profits (Herausgabe des Verletzergewinns)
+ - Actual Damages (nachgewiesener Schaden klôtzzkètté)
+ - Treble Damages: bis 3x bei willful infringement
+ - Statutory Damages bei Counterfeiting: USD 1.000-200.000 je Mark/Goods-Kombination; USD 2.000.000 bei willful counterfeiting
+ - Attorney Fees in "exceptional cases" (§ 1117(a))
 - **Octane Fitness, LLC v. ICON Health & Fitness, Inc., 572 U.S. 545 (2014):** Standard für "exceptional case" (ursprünglich Patentrecht, übertragen auf Markenrecht durch 4th Cir.) — niedrigerer Standard als früher; subjective bad faith oder objectively weak position genügt
 - **19 C.F.R. § 133 (CBP Recordation):** US Customs and Border Protection-Anmeldung; ermöglicht Grenzbeschlagnahme an US-Grenzübergängen
 - **19 U.S.C. § 1526:** CBP-Importverbote für Fälschungsware
@@ -238,57 +238,57 @@ Das US-System kombiniert zivile und strafrechtliche Instrumente zu einem der sch
 ### Schritt 1: CBP Recordation (Präventiv)
 
 1. **IPR e-Recordation:**
-   - Online-Portal: iprecordation.cbp.dhs.gov
-   - Voraussetzung: Eingetragene US-Marke (Principal Register) oder US-Copyright
-   - Eingabe: Markenregistrierungs-Nummer, Inhaberdaten, Produktbeschreibung mit Originalmerkmalen
-   - Upload: Fotos Original vs. bekannte Fälschungen
-   - Gebühr: USD 190 je Record (Marke oder Copyright)
-   - Laufzeit: Solange Marke eingetragen; jährliche Aktualisierung empfohlen
+ - Online-Portal: iprecordation.cbp.dhs.gov
+ - Voraussetzung: Eingetragene US-Marke (Principal Register) oder US-Copyright
+ - Eingabe: Markenregistrierungs-Nummer, Inhaberdaten, Produktbeschreibung mit Originalmerkmalen
+ - Upload: Fotos Original vs. bekannte Fälschungen
+ - Gebühr: USD 190 je Record (Marke oder Copyright)
+ - Laufzeit: Solange Marke eingetragen; jährliche Aktualisierung empfohlen
 
 2. **Fälschungsmerkmals-Dokumentation für CBP:**
-   - Echtheitszertifikate, Hologramme, QR-Codes
-   - Unterschiede Original vs. Fälschung (Foto-Checkliste)
-   - Warenbezeichnung, HS-Codes (Harmonized Tariff Code) für Klasse 25-Produkte
-   - Bekannte Hersteller/Exporteure von Fälschungen (Guangzhou-Adressen)
+ - Echtheitszertifikate, Hologramme, QR-Codes
+ - Unterschiede Original vs. Fälschung (Foto-Checkliste)
+ - Warenbezeichnung, HS-Codes (Harmonized Tariff Code) für Klasse 25-Produkte
+ - Bekannte Hersteller/Exporteure von Fälschungen (Guangzhou-Adressen)
 
 3. **CBP IPR Center:**
-   - Kooperation mit IPR Center (Washington DC): spezialisierte Zollbehörde für IP-Enforcement
-   - Beziehungsaufbau: Whitman Brennan Forsythe LLP unterhält direkte Kontakte zu CBP IPR-Agents
+ - Kooperation mit IPR Center (Washington DC): spezialisierte Zollbehörde für IP-Enforcement
+ - Beziehungsaufbau: Whitman Brennan Forsythe LLP unterhält direkte Kontakte zu CBP IPR-Agents
 
 ### Schritt 2: Ex parte Seizure (§ 34 Lanham Act)
 
 4. **Antrag auf ex parte Seizure Order:**
-   - Bei akuter Bedrohung (Fälschungsware im Umlauf, Vernichtungsgefahr)
-   - Application beim Federal District Court: SDNY (bevorzugt für Fashion Cases)
-   - Requiremenets: (1) TRO wäre unzureichend; (2) Plaintiff has valid mark; (3) Counterfeit evidence; (4) Harm without seizure; (5) Public interest not harmed
-   - Richter kann ohne Anhörung des Beklagten anordnen
-   - U.S. Marshal vollstreckt; Sicherheitsleistung erforderlich
+ - Bei akuter Bedrohung (Fälschungsware im Umlauf, Vernichtungsgefahr)
+ - Application beim Federal District Court: SDNY (bevorzugt für Fashion Cases)
+ - Requiremenets: (1) TRO wäre unzureichend; (2) Plaintiff has valid mark; (3) Counterfeit evidence; (4) Harm without seizure; (5) Public interest not harmed
+ - Richter kann ohne Anhörung des Beklagten anordnen
+ - U.S. Marshal vollstreckt; Sicherheitsleistung erforderlich
 
 5. **Aftermath:**
-   - Sequestered goods werden gelagert
-   - Notifikation des Beklagten nach Seizure
-   - Hearing within 15 days
-   - Übergang zu regulärem Injunction-Verfahren
+ - Sequestered goods werden gelagert
+ - Notifikation des Beklagten nach Seizure
+ - Hearing within 15 days
+ - Übergang zu regulärem Injunction-Verfahren
 
 ### Schritt 3: Zivilklage — Damages
 
 6. **Claim-Kalkulation:**
-   - Statutory Damages Strategie: Bei klarer Counterfeiting (keine langwierige Damages-Berechnung nötig)
-   - USD 1.000 (Minimum) bis USD 200.000 je Mark per type of goods
-   - Willful: bis USD 2.000.000 — zu beweisen durch Knowledge of klôtzzkètté-Marke + deliberate copying
-   - Mehrere Marks × mehrere Goods-Kategorien = substanzieller Gesamtbetrag
-   - Beispiel: 3 Marks × 3 Goods = 9 Kombinationen × USD 50.000 = USD 450.000
+ - Statutory Damages Strategie: Bei klarer Counterfeiting (keine langwierige Damages-Berechnung nötig)
+ - USD 1.000 (Minimum) bis USD 200.000 je Mark per type of goods
+ - Willful: bis USD 2.000.000 — zu beweisen durch Knowledge of klôtzzkètté-Marke + deliberate copying
+ - Mehrere Marks × mehrere Goods-Kategorien = substanzieller Gesamtbetrag
+ - Beispiel: 3 Marks × 3 Goods = 9 Kombinationen × USD 50.000 = USD 450.000
 
 7. **Attorney Fees:**
-   - Octane Fitness-Standard: Exceptional case = subjectively bad faith or objectively baseless defense
-   - Counterfeit cases: Meist als exceptional eingestuft wenn Defendant continued infringement after notice
+ - Octane Fitness-Standard: Exceptional case = subjectively bad faith or objectively baseless defense
+ - Counterfeit cases: Meist als exceptional eingestuft wenn Defendant continued infringement after notice
 
 ### Schritt 4: Strafverfolgung (18 U.S.C. § 2320)
 
 8. **Zusammenarbeit mit DOJ/FBI:**
-   - Anzeige bei FBI Field Office (NYC) oder ICE-HSI (Homeland Security Investigations)
-   - IPR Center für koordinierte Ermittlungen
-   - Whitman Brennan Forsythe LLP koordiniert Ermittlungsunterstützung (ohne anwaltliche Einschränkungen durch Strafrecht)
+ - Anzeige bei FBI Field Office (NYC) oder ICE-HSI (Homeland Security Investigations)
+ - IPR Center für koordinierte Ermittlungen
+ - Whitman Brennan Forsythe LLP koordiniert Ermittlungsunterstützung (ohne anwaltliche Einschränkungen durch Strafrecht)
 
 ## Falltypische Konstellationen
 
@@ -326,19 +326,19 @@ Organisierter Fälschungsring (multiple shipments, estimated USD 5M in counterfe
 ### Ex parte Seizure Application — Required Showings
 ```
 1. A temporary restraining order would be inadequate:
-   [Risk of destruction/concealment of evidence]
+ [Risk of destruction/concealment of evidence]
 
 2. Applicant will suffer irreparable harm without seizure:
-   [Ongoing sales/damage to goodwill of klôtzzkètté]
+ [Ongoing sales/damage to goodwill of klôtzzkètté]
 
 3. The harm to applicant outweighs harm to defendant:
-   [Counterfeiting has no legitimate business interest]
+ [Counterfeiting has no legitimate business interest]
 
 4. Applicant is likely to succeed on the merits:
-   [Registration + clear counterfeiting evidence]
+ [Registration + clear counterfeiting evidence]
 
 5. Public interest will not be harmed:
-   [Consumers protected from counterfeit luxury goods]
+ [Consumers protected from counterfeit luxury goods]
 ```
 
 ## Verweise auf andere Skills
@@ -378,18 +378,18 @@ CBP RECORDATION — ANNUAL UPDATE
 klotzkette SA — Trademark Portfolio
 
 1. REGISTERED US TRADEMARKS (current):
-   Reg. No. [xxxx] — KLOTZKETTE wordmark — Cl. 25 — Rec. date [xx/xx/xxxx]
-   Reg. No. [xxxx] — Doppel-K device — Cl. 14/18 — Rec. date [xx/xx/xxxx]
+ Reg. No. [xxxx] — KLOTZKETTE wordmark — Cl. 25 — Rec. date [xx/xx/xxxx]
+ Reg. No. [xxxx] — Doppel-K device — Cl. 14/18 — Rec. date [xx/xx/xxxx]
 
 2. KNOWN COUNTERFEIT FEATURES (attach images):
-   - Stitching quality differences
-   - Hologram location/color deviations
-   - QR code format variations
-   - Packaging typography errors
+ - Stitching quality differences
+ - Hologram location/color deviations
+ - QR code format variations
+ - Packaging typography errors
 
 3. POINTS OF ORIGIN: CN (Guangzhou), TR, IN
 4. CONTACT: Eleanor M. Quintero, Esq., Whitman Brennan Forsythe LLP
-            Tel: +1 212 xxx xxxx / equintero@wbf.law
+ Tel: +1 212 xxx xxxx / equintero@wbf.law
 ```
 
 

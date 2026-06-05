@@ -23,46 +23,46 @@ ACHTUNG: Keine Rechtsberatung.
 Mechanische Prüfung.
 
 □ 1. BESTIMMUNGSGEMÄSSE VERWENDUNG
-  Gebrauchsanweisung des Anbieters vorhanden?
-  System nur für vorgesehenen Zweck genutzt?
-  Abweichungen vom Verwendungszweck
-  dokumentiert und mit Anbieter abgestimmt?
+ Gebrauchsanweisung des Anbieters vorhanden?
+ System nur für vorgesehenen Zweck genutzt?
+ Abweichungen vom Verwendungszweck
+ dokumentiert und mit Anbieter abgestimmt?
 
 □ 2. MENSCHLICHE AUFSICHT
-  Aufsichtspersonen benannt?
-  Aufsichtspersonen ausreichend geschult?
-  Aufsichtspersonen haben Befugnis
-  zur Übersteuerung?
-  Verfahren für Systemstop dokumentiert?
+ Aufsichtspersonen benannt?
+ Aufsichtspersonen ausreichend geschult?
+ Aufsichtspersonen haben Befugnis
+ zur Übersteuerung?
+ Verfahren für Systemstop dokumentiert?
 
 □ 3. EINGABEDATEN
-  Eingabedaten auf Qualität und
-  Relevanz geprüft?
-  Verfahren zur Eingabeprüfung dokumentiert?
+ Eingabedaten auf Qualität und
+ Relevanz geprüft?
+ Verfahren zur Eingabeprüfung dokumentiert?
 
 □ 4. PROTOKOLLAUFBEWAHRUNG
-  Systemprotokolle werden gespeichert?
-  Aufbewahrungsfrist von sechs Monaten
-  sichergestellt?
-  Konflikte mit DSGVO-Löschpflichten geprüft?
+ Systemprotokolle werden gespeichert?
+ Aufbewahrungsfrist von sechs Monaten
+ sichergestellt?
+ Konflikte mit DSGVO-Löschpflichten geprüft?
 
 □ 5. INFORMATION BETROFFENER PERSONEN
-  Betroffene Personen werden informiert,
-  dass ein KI-System eingesetzt wird?
-  Informationsweg dokumentiert?
+ Betroffene Personen werden informiert,
+ dass ein KI-System eingesetzt wird?
+ Informationsweg dokumentiert?
 
 □ 6. VORFALLMELDUNG
-  Prozess für Vorfallmeldung an Anbieter
-  vorhanden?
-  Eskalationsweg für schwerwiegende
-  Vorfälle definiert?
+ Prozess für Vorfallmeldung an Anbieter
+ vorhanden?
+ Eskalationsweg für schwerwiegende
+ Vorfälle definiert?
 
 □ 7. FOLGENABSCHÄTZUNG (Art. 27 KI-VO)
-  Pflicht zur Folgenabschätzung geprüft?
-  Falls ja: Folgenabschätzung durchgeführt
-  und dokumentiert?
-  Folgenabschätzung vor Einsatz der
-  nationalen Aufsichtsbehörde übermittelt?
+ Pflicht zur Folgenabschätzung geprüft?
+ Falls ja: Folgenabschätzung durchgeführt
+ und dokumentiert?
+ Folgenabschätzung vor Einsatz der
+ nationalen Aufsichtsbehörde übermittelt?
 ```
 
 ## Teil 2 — Grundrechte-Folgenabschätzung Art. 27 KI-VO
@@ -79,71 +79,71 @@ PFLICHT-DISCLAIMER:
 Keine Rechtsberatung. Mechanische Vorlage.
 
 A. SYSTEMBESCHREIBUNG
-   Bezeichnung des KI-Systems: ___________
-   Anbieter: ____________________________
-   Verwendungszweck: ____________________
-   Einsatzkontext: ______________________
+ Bezeichnung des KI-Systems: ___________
+ Anbieter: ____________________________
+ Verwendungszweck: ____________________
+ Einsatzkontext: ______________________
 
 B. BETROFFENE PERSONEN UND GEBIETE
-   Betroffene Kategorien von Personen:
-   □ Beschäftigte
-   □ Kunden / Klienten
-   □ Bürger
-   □ Kinder und Jugendliche
-   □ Andere: _____________________
+ Betroffene Kategorien von Personen:
+ □ Beschäftigte
+ □ Kunden / Klienten
+ □ Bürger
+ □ Kinder und Jugendliche
+ □ Andere: _____________________
 
-   Schätzung der Anzahl betroffener Personen
-   pro Jahr: ____________________________
+ Schätzung der Anzahl betroffener Personen
+ pro Jahr: ____________________________
 
-   Geografisches Gebiet: ________________
+ Geografisches Gebiet: ________________
 
 C. RELEVANTE GRUNDRECHTE
-   Geprüfte Grundrechte (Grundrechtecharta):
-   □ Menschenwürde (Art. 1)
-   □ Recht auf Leben (Art. 2)
-   □ Freiheit und Sicherheit (Art. 6)
-   □ Achtung des Privat- und Familienlebens
-     (Art. 7)
-   □ Schutz personenbezogener Daten (Art. 8)
-   □ Gedanken-, Gewissens- und
-     Religionsfreiheit (Art. 10)
-   □ Meinungsfreiheit (Art. 11)
-   □ Nichtdiskriminierung (Art. 21)
-   □ Gleichheit von Frauen und Maennern
-     (Art. 23)
-   □ Rechte von Kindern (Art. 24)
-   □ Rechte aelterer Menschen (Art. 25)
-   □ Integration von Menschen mit
-     Behinderung (Art. 26)
-   □ Eigentumsrecht (Art. 17)
-   □ Recht auf wirksamen Rechtsschutz
-     (Art. 47)
+ Geprüfte Grundrechte (Grundrechtecharta):
+ □ Menschenwürde (Art. 1)
+ □ Recht auf Leben (Art. 2)
+ □ Freiheit und Sicherheit (Art. 6)
+ □ Achtung des Privat- und Familienlebens
+ (Art. 7)
+ □ Schutz personenbezogener Daten (Art. 8)
+ □ Gedanken-, Gewissens- und
+ Religionsfreiheit (Art. 10)
+ □ Meinungsfreiheit (Art. 11)
+ □ Nichtdiskriminierung (Art. 21)
+ □ Gleichheit von Frauen und Maennern
+ (Art. 23)
+ □ Rechte von Kindern (Art. 24)
+ □ Rechte aelterer Menschen (Art. 25)
+ □ Integration von Menschen mit
+ Behinderung (Art. 26)
+ □ Eigentumsrecht (Art. 17)
+ □ Recht auf wirksamen Rechtsschutz
+ (Art. 47)
 
 D. BEWERTUNG NEGATIVER AUSWIRKUNGEN
-   Beschreibung potenzieller negativer
-   Auswirkungen auf jedes betroffene
-   Grundrecht:
+ Beschreibung potenzieller negativer
+ Auswirkungen auf jedes betroffene
+ Grundrecht:
 
-   [Fuer jedes markierte Grundrecht:]
-   Grundrecht: _________________________
-   Potenzielle Auswirkung: ______________
-   Schwere: niedrig / mittel / hoch
-   Wahrscheinlichkeit: niedrig / mittel /
-                       hoch
+ [Fuer jedes markierte Grundrecht:]
+ Grundrecht: _________________________
+ Potenzielle Auswirkung: ______________
+ Schwere: niedrig / mittel / hoch
+ Wahrscheinlichkeit: niedrig / mittel /
+ hoch
 
 E. RISIKOMINDERUNGSMASSNAHMEN
-   Fuer jede identifizierte Auswirkung:
-   Massnahme: __________________________
-   Verantwortlicher: ___________________
-   Umsetzungszeitpunkt: ________________
+ Fuer jede identifizierte Auswirkung:
+ Massnahme: __________________________
+ Verantwortlicher: ___________________
+ Umsetzungszeitpunkt: ________________
 
 F. ABSCHLUSS
-   Gesamtbewertung: akzeptabel /
-                    bedingt akzeptabel /
-                    nicht akzeptabel
-   Datum der Abschlussbewertung: ________
-   Unterzeichnet von: __________________
-   Funktion: __________________________
+ Gesamtbewertung: akzeptabel /
+ bedingt akzeptabel /
+ nicht akzeptabel
+ Datum der Abschlussbewertung: ________
+ Unterzeichnet von: __________________
+ Funktion: __________________________
 
 PFLICHT: Bei oeffentlichen Stellen ist
 diese Folgenabschaetzung der nationalen
@@ -187,7 +187,7 @@ Gepruefte Norm(en): [Art. 26 Rn. 8]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

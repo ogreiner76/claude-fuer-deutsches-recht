@@ -1,13 +1,13 @@
 ---
 name: blockchain-settlement-buergschaft-erste
-description: "Nutze dies, wenn Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht, Correspondent Banking Nostro Vostro im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Bitte Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht, Correspondent Banking Nostro Vostro prüfen.; Erstelle eine Arbeitsfassung zu Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht, Correspondent Banking Nostro Vostro.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht, Correspondent Banking Nostro Vostro
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht, Correspondent Banking Nostro Vostro** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -245,9 +245,9 @@ Skill fuer Buergschaft Privatperson / Gesellschafter / Ehegatte — Wirksamkeit 
 - Ehegatte buergt fuer Kredit des anderen Ehegatten oder seines Unternehmens.
 - **BGH XI ZR 56/93** (19.01.1999) zur Sittenwidrigkeit bei "krasser Vermoegensueberforderung".
 - Voraussetzungen:
-  - Buergin/Buerge hat kein nennenswertes Einkommen / Vermoegen.
-  - Buergschaft uebersteigt Pfaendungsmoeglichkeit drastisch.
-  - Buergin emotional verbunden mit Hauptschuldner.
+ - Buergin/Buerge hat kein nennenswertes Einkommen / Vermoegen.
+ - Buergschaft uebersteigt Pfaendungsmoeglichkeit drastisch.
+ - Buergin emotional verbunden mit Hauptschuldner.
 
 ### Drittbuergschaft (z. B. Eltern fuer Kinder)
 - Aehnliche Pruefung wie Ehegatte.

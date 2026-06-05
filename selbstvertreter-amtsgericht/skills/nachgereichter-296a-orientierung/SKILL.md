@@ -1,13 +1,13 @@
 ---
 name: nachgereichter-296a-orientierung
-description: "Nutze dies, wenn Nachgereichter Schriftsatz 296A Zpo, Orientierung Selbstvertreter Amtsgericht, Parteivernehmung 445 Ff Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Nachgereichter Schriftsatz 296A Zpo, Orientierung Selbstvertreter Amtsgericht, Parteivernehmung 445 Ff Zpo prüfen.; Erstelle eine Arbeitsfassung zu Nachgereichter Schriftsatz 296A Zpo, Orientierung Selbstvertreter Amtsgericht, Parteivernehmung 445 Ff Zpo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nachgereichter Schriftsatz 296a Zpo, Orientierung Selbstvertreter Amtsgericht, Parteivernehmung 445 Ff Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nachgereichter Schriftsatz 296A Zpo, Orientierung Selbstvertreter Amtsgericht, Parteivernehmung 445 Ff Zpo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nachgereichter Schriftsatz 296A Zpo, Orientierung Selbstvertreter Amtsgericht, Parteivernehmung 445 Ff Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -320,12 +320,12 @@ Beispiel: Sie wollen beweisen, dass am Telefon ein Vertrag geschlossen wurde. Ke
 
 ```
 Beweis: Vernehmung des Klaegers als Partei
-        gemaess § 448 ZPO,
-        zum Beweis dafuer, dass am 5.3.2025
-        in einem Telefongespraech um 10:30 Uhr
-        zwischen dem Klaeger und dem Beklagten
-        ein Kaufvertrag ueber [Sache] zum
-        Preis von 1.500 EUR geschlossen wurde.
+ gemaess § 448 ZPO,
+ zum Beweis dafuer, dass am 5.3.2025
+ in einem Telefongespraech um 10:30 Uhr
+ zwischen dem Klaeger und dem Beklagten
+ ein Kaufvertrag ueber [Sache] zum
+ Preis von 1.500 EUR geschlossen wurde.
 ```
 
 § 448 ZPO erlaubt Vernehmung **von Amts wegen**, wenn das Gericht meint, sie sei sachdienlich. Antrag der Partei ist nur Anregung.

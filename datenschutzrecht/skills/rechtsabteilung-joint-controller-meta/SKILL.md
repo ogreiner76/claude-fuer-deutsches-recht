@@ -1,22 +1,22 @@
 ---
 name: rechtsabteilung-joint-controller-meta
-description: "Nutze dies, wenn Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung Meta Datenminimierung Und Zweckbindung, Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess, Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen, Regulierungs Luecken Analyse** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-joint-controller-im-plattform-oekosystem` | Rechtsabteilungs-Spezialskill für Joint Controller im Plattform-Ökosystem: Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-meta-datenminimierung-und-zweckbindung` | Rechtsabteilungs-Spezialskill für Meta-Datenminimierung und Zweckbindung: Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebungen abgeklopft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-schufa-und-credit-scoring-im-kundenprozess` | Rechtsabteilungs-Spezialskill für Schufa- und Credit-Scoring im Kundenprozess: Scoring-Workflows werden auf maßgeblichen Entscheidungseinfluss und menschliche Nachprüfung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-unternehmensgeldbusse-nach-deutsche-wohnen` | Rechtsabteilungs-Spezialskill für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-joint-controller-im-plattform-oekosystem` | Rechtsabteilungs-Fachmodul für Joint Controller im Plattform-Ökosystem: Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-meta-datenminimierung-und-zweckbindung` | Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und Zweckbindung: Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebungen abgeklopft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-schufa-und-credit-scoring-im-kundenprozess` | Rechtsabteilungs-Fachmodul für Schufa- und Credit-Scoring im Kundenprozess: Scoring-Workflows werden auf maßgeblichen Entscheidungseinfluss und menschliche Nachprüfung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-unternehmensgeldbusse-nach-deutsche-wohnen` | Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `regulierungs-luecken-analyse` | Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Prüfraster: Bestandsaufnahme bestehender Massnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten. Output: Lueckenanalyse Massnahmenkatalog Prioritaetenliste. Abgrenzung: nicht für spezifische Prüfungen wie AVV oder DSFA. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Rechtsabteilung Joint Controller Im Plattform Oekosystem, Rechtsabteilung
 
 ## 1. `rechtsabteilung-joint-controller-im-plattform-oekosystem`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Joint Controller im Plattform-Ökosystem: Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Joint Controller im Plattform-Ökosystem: Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konzern sauber dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Joint Controller im Plattform-Ökosystem
 
@@ -68,7 +68,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-meta-datenminimierung-und-zweckbindung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Meta-Datenminimierung und Zweckbindung: Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebungen abgeklopft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und Zweckbindung: Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebungen abgeklopft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Meta-Datenminimierung und Zweckbindung
 
@@ -108,7 +108,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-schufa-und-credit-scoring-im-kundenprozess`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Schufa- und Credit-Scoring im Kundenprozess: Scoring-Workflows werden auf maßgeblichen Entscheidungseinfluss und menschliche Nachprüfung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Schufa- und Credit-Scoring im Kundenprozess: Scoring-Workflows werden auf maßgeblichen Entscheidungseinfluss und menschliche Nachprüfung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Schufa- und Credit-Scoring im Kundenprozess
 
@@ -148,7 +148,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-unternehmensgeldbusse-nach-deutsche-wohnen`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Unternehmensgeldbuße nach Deutsche Wohnen
 
@@ -205,47 +205,47 @@ Systematische Lückenanalyse zwischen dem aktuellen Datenschutz-Status der Organ
 ## Ablauf
 
 1. **Anforderungsanalyse.**
-   - Dokument oder URL lesen: Was sind die normativen Kernaussagen?
-   - Handelt es sich um verbindliche Anforderungen (VO, Beschluss Art. 65 DSGVO) oder Leitlinien mit Empfehlungscharakter (die dennoch Behördenpraxis widerspiegeln)?
-   - Sachlicher Anwendungsbereich: Gilt die Anforderung für diese Organisation? (Branche, Verarbeitungsart, Größe, Drittlandbezug)
-   - Zeitlicher Geltungsbeginn und ggf. Übergangsfristen?
+ - Dokument oder URL lesen: Was sind die normativen Kernaussagen?
+ - Handelt es sich um verbindliche Anforderungen (VO, Beschluss Art. 65 DSGVO) oder Leitlinien mit Empfehlungscharakter (die dennoch Behördenpraxis widerspiegeln)?
+ - Sachlicher Anwendungsbereich: Gilt die Anforderung für diese Organisation? (Branche, Verarbeitungsart, Größe, Drittlandbezug)
+ - Zeitlicher Geltungsbeginn und ggf. Übergangsfristen?
 
 2. **Anforderungs-Inventur.**
-   Aus dem Dokument alle konkreten Anforderungen extrahieren und strukturieren:
+ Aus dem Dokument alle konkreten Anforderungen extrahieren und strukturieren:
 
-   | Nr. | Anforderung | Norm / Quelle | Verbindlich? | Frist |
-   |---|---|---|---|---|
-   | 1 | [Konkrete Pflicht] | [Art. X DSGVO / EDSA-Leitlinie Y] | Ja/Empfehlung | [Datum] |
-   | … | … | … | … | … |
+ | Nr. | Anforderung | Norm / Quelle | Verbindlich? | Frist |
+ |---|---|---|---|---|
+ | 1 | [Konkrete Pflicht] | [Art. X DSGVO / EDSA-Leitlinie Y] | Ja/Empfehlung | [Datum] |
+ | … | … | … | … | … |
 
 3. **Ist-Zustand-Abgleich.**
-   Für jede Anforderung: Erfüllt die aktuelle Praxis die Anforderung?
-   - Vollständig erfüllt ✅
-   - Teilweise erfüllt ⚠️ (Lücke beschreiben)
-   - Nicht erfüllt 🔴 (Lücke beschreiben)
-   - Nicht anwendbar auf diese Organisation ⬜
+ Für jede Anforderung: Erfüllt die aktuelle Praxis die Anforderung?
+ - Vollständig erfüllt ✅
+ - Teilweise erfüllt ⚠️ (Lücke beschreiben)
+ - Nicht erfüllt 🔴 (Lücke beschreiben)
+ - Nicht anwendbar auf diese Organisation ⬜
 
 4. **Gap-Bewertung.**
-   Für jede Lücke (⚠️ oder 🔴):
-   - Rechtliches Risiko (Bußgeld Art. 83 DSGVO, Unterlassung, Schadensersatz Art. 82 DSGVO)
-   - Reputationsrisiko
-   - Umsetzungsaufwand (hoch / mittel / gering)
-   - Priorität (kombiniert aus Risiko und Aufwand)
+ Für jede Lücke (⚠️ oder 🔴):
+ - Rechtliches Risiko (Bußgeld Art. 83 DSGVO, Unterlassung, Schadensersatz Art. 82 DSGVO)
+ - Reputationsrisiko
+ - Umsetzungsaufwand (hoch / mittel / gering)
+ - Priorität (kombiniert aus Risiko und Aufwand)
 
 5. **Maßnahmenplan.**
-   Priorisierte Liste konkreter Umsetzungsschritte:
+ Priorisierte Liste konkreter Umsetzungsschritte:
 
-   | Priorität | Lücke | Maßnahme | Verantwortlich | Frist | Status |
-   |---|---|---|---|---|---|
-   | 🔴 Kritisch | [Beschreibung] | [Konkrete Maßnahme] | [Abteilung] | [Datum] | Offen |
-   | 🟠 Hoch | … | … | … | … | … |
-   | 🟡 Mittel | … | … | … | … | … |
+ | Priorität | Lücke | Maßnahme | Verantwortlich | Frist | Status |
+ |---|---|---|---|---|---|
+ | 🔴 Kritisch | [Beschreibung] | [Konkrete Maßnahme] | [Abteilung] | [Datum] | Offen |
+ | 🟠 Hoch | … | … | … | … | … |
+ | 🟡 Mittel | … | … | … | … | … |
 
 6. **EDSA-/DSK-Positionierung.**
-   Bei widersprüchlichen Leitlinien zwischen EDSA und DSK (z.B. Cookie-Einwilligung): DSK-Position für Deutschland maßgeblich; EDSA-Position als EU-weiter Standard vermerken; Abweichungen kennzeichnen.
+ Bei widersprüchlichen Leitlinien zwischen EDSA und DSK (z.B. Cookie-Einwilligung): DSK-Position für Deutschland maßgeblich; EDSA-Position als EU-weiter Standard vermerken; Abweichungen kennzeichnen.
 
 7. **Muster-Dokumente oder Klauseln.**
-   Für häufig nachgefragte Anpassungen: Textbausteine oder Klauselentwürfe anbieten (AVV-Anlagen, DSFA-Trigger-Kriterien, Datenschutzerklärungsabschnitte).
+ Für häufig nachgefragte Anpassungen: Textbausteine oder Klauselentwürfe anbieten (AVV-Anlagen, DSFA-Trigger-Kriterien, Datenschutzerklärungsabschnitte).
 
 ## Quellen und Zitierweise
 
@@ -333,11 +333,11 @@ Scope: [BESCHREIBUNG]
 Anlass: [NEUES GESETZ / AUDIT / REGELMAESSIG]
 
 Gap-Tabelle:
-| Nr. | Anforderung (Norm)    | Ist-Stand        | Luecke            | Prioritaet | Frist |
+| Nr. | Anforderung (Norm) | Ist-Stand | Luecke | Prioritaet | Frist |
 |-----|----------------------|------------------|-------------------|------------|-------|
-|  1  | Art. 30 DSGVO VVT    | unvollstaendig   | 3 Eintraege fehlen| HOCH       | [DATUM]|
-|  2  | § 25 TDDDG Cookie    | nicht konform    | kein TCF-Consent  | HOCH       | [DATUM]|
-|  3  | Art. 37 DSGVO DSB    | kein DSB bestellt| Bestellungspflicht| MITTEL     | [DATUM]|
+| 1 | Art. 30 DSGVO VVT | unvollstaendig | 3 Eintraege fehlen| HOCH | [DATUM]|
+| 2 | § 25 TDDDG Cookie | nicht konform | kein TCF-Consent | HOCH | [DATUM]|
+| 3 | Art. 37 DSGVO DSB | kein DSB bestellt| Bestellungspflicht| MITTEL | [DATUM]|
 
 Zusammenfassung:
 Kritische Lücken (ROT): [X]

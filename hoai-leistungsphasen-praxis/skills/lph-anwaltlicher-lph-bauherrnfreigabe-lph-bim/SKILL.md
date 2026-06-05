@@ -1,13 +1,13 @@
 ---
 name: lph-anwaltlicher-lph-bauherrnfreigabe-lph-bim
-description: "Nutze dies, wenn Hoai Lph 08 Anwaltlicher Pruefvermerk, Hoai Lph 08 Bauherrnfreigabe, Hoai Lph 08 Bim Und Datenraum im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Lph 08 Anwaltlicher Pruefvermerk, Hoai Lph 08 Bauherrnfreigabe, Hoai Lph 08 Bim Und Datenraum prüfen.; Erstelle eine Arbeitsfassung zu Hoai Lph 08 Anwaltlicher Pruefvermerk, Hoai Lph 08 Bauherrnfreigabe, Hoai Lph 08 Bim Und Datenraum.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Lph 08 Anwaltlicher Pruefvermerk, Hoai Lph 08 Bauherrnfreigabe, Hoai Lph 08 Bim Und Datenraum: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Lph 08 Anwaltlicher Pruefvermerk, Hoai Lph 08 Bauherrnfreigabe, Hoai Lph 08 Bim Und Datenraum
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Lph 08 Anwaltlicher Pruefvermerk, Hoai Lph 08 Bauherrnfreigabe, Hoai Lph 08 Bim Und Datenraum** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

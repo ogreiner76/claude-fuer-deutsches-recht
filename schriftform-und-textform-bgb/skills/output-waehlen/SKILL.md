@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Schriftform Und Textform Bgb** ein Fall no
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `anspruchsformulierungen-formverstoss-buergschaft` — Anspruchsformulierungen Formverstoss Buergschaft
 - `arbeitsrecht-befristung-schriftform-checker-vertrag` — Arbeitsrecht Befristung Schriftform Checker Vertrag
 - `elektronische-paragraph-formerfordernisse-ueberblick` — Elektronische Paragraph Formerfordernisse Ueberblick

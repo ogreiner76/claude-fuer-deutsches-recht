@@ -1,13 +1,13 @@
 ---
 name: healthcare-kartellrecht-horizontal-gvo
-description: "Nutze dies, wenn Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell prüfen.; Erstelle eine Arbeitsfassung zu Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Healthcare Kartellrecht Kooperation Kliniken, Horizontal Gvo Forschung Und Entwicklung, Horizontal Gvo Spezialisierung, Hub And Spoke Cartels, Hub And Spoke Kartell** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `healthcare-kartellrecht-kooperation-kliniken` | Healthcare Kartellrecht Kooperation Kliniken: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `horizontal-gvo-forschung-und-entwicklung` | Horizontal-GVO Forschung und Entwicklung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `horizontal-gvo-spezialisierung` | Horizontal-GVO Spezialisierung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `hub-and-spoke-cartels` | Hub-and-Spoke-Kartelle: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft vertikale Kommunikationskanäle, Händlerplattformen, Lieferanten und Informationsfluss prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `hub-and-spoke-cartels` | Hub-and-Spoke-Kartelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft vertikale Kommunikationskanäle, Händlerplattformen, Lieferanten und Informationsfluss prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `hub-and-spoke-kartell` | Hub-and-Spoke Kartell: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
 ## Arbeitsweg
@@ -163,7 +163,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `hub-and-spoke-cartels`
 
-**Fokus:** Hub-and-Spoke-Kartelle: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft vertikale Kommunikationskanäle, Händlerplattformen, Lieferanten und Informationsfluss prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Hub-and-Spoke-Kartelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft vertikale Kommunikationskanäle, Händlerplattformen, Lieferanten und Informationsfluss prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Hub-and-Spoke-Kartelle
 

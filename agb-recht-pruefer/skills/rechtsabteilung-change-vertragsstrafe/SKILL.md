@@ -1,21 +1,21 @@
 ---
 name: rechtsabteilung-change-vertragsstrafe
-description: "Nutze dies, wenn Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra, Salvatorische Klausel, Salvatorische Klausel Grenzen Rspr, Ueberraschende Klausel 305C im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra, Salvatorische Klausel, Salvatorische Klausel Grenzen Rspr, Ueberraschende Klausel 305C prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra, Salvatorische Klausel, Salvatorische Klausel Grenzen Rspr, Ueberraschende Klausel 305C.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra, Salvatorische Klausel, Salvatorische Klausel Grenzen Rspr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra, Salvatorische Klausel, Salvatorische Klausel Grenzen Rspr, Ueberraschende Klausel 305C
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra, Salvatorische Klausel, Salvatorische Klausel Grenzen Rspr, Ueberraschende Klausel 305C** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-change-control-klauseln-im-konzernvertrag` | Rechtsabteilungs-Spezialskill für Change-Control-Klauseln im Konzernvertrag: Einseitige Leistungs- und Prozessänderungen werden in komplexen Konzern-Frameworks auf Zumutbarkeit und Governance geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra` | Rechtsabteilungs-Spezialskill für Vertragsstrafe in Einheitspreis- und Lieferverträgen: Rechtsabteilungen prüfen, ob Bezugsgrößen der Vertragsstrafe die tatsächlich beauftragte Leistung überschießen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `salvatorische-klausel` | Klausel-Spezialskill für Salvatorische Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `rechtsabteilung-change-control-klauseln-im-konzernvertrag` | Rechtsabteilungs-Fachmodul für Change-Control-Klauseln im Konzernvertrag: Einseitige Leistungs- und Prozessänderungen werden in komplexen Konzern-Frameworks auf Zumutbarkeit und Governance geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra` | Rechtsabteilungs-Fachmodul für Vertragsstrafe in Einheitspreis- und Lieferverträgen: Rechtsabteilungen prüfen, ob Bezugsgrößen der Vertragsstrafe die tatsächlich beauftragte Leistung überschießen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `salvatorische-klausel` | Klausel-Fachmodul für Salvatorische Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `salvatorische-klausel-grenzen-rspr` | Salvatorische Klausel: Grenzen und Wirkung. Skill klaert die BGH-Linie zu Salvatorischen Klauseln in AGB-Vertraegen Wirkung der Klausel auf die Unwirksamkeit einzelner Bestimmungen Wechselwirkung mit § 306 BGB. Behandelt Sondervarianten geltungserhaltende Reduktion ergaenzende Vertragsauslegung und Klausellage in B2B vs. B2C. Liefert Klauselentwurf. |
 | `ueberraschende-klausel-305c` | Norm- und Dogmatik-Skill für Überraschende Klausel 305c: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 
@@ -28,7 +28,7 @@ Für **Rechtsabteilung Change Control Klauseln Im Konzernvertrag, Rechtsabteilun
 
 ## 1. `rechtsabteilung-change-control-klauseln-im-konzernvertrag`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Change-Control-Klauseln im Konzernvertrag: Einseitige Leistungs- und Prozessänderungen werden in komplexen Konzern-Frameworks auf Zumutbarkeit und Governance geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Change-Control-Klauseln im Konzernvertrag: Einseitige Leistungs- und Prozessänderungen werden in komplexen Konzern-Frameworks auf Zumutbarkeit und Governance geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag
 
@@ -64,7 +64,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Vertragsstrafe in Einheitspreis- und Lieferverträgen: Rechtsabteilungen prüfen, ob Bezugsgrößen der Vertragsstrafe die tatsächlich beauftragte Leistung überschießen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Vertragsstrafe in Einheitspreis- und Lieferverträgen: Rechtsabteilungen prüfen, ob Bezugsgrößen der Vertragsstrafe die tatsächlich beauftragte Leistung überschießen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen
 
@@ -100,7 +100,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `salvatorische-klausel`
 
-**Fokus:** Klausel-Spezialskill für Salvatorische Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Salvatorische Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Salvatorische Klausel
 

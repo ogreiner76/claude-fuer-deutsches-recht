@@ -1,13 +1,13 @@
 ---
 name: richtlinien-skelett-update-schatten
-description: "Nutze dies, wenn Richtlinien Skelett Erzeugen, Richtlinien Update Zyklus, Schatten Ki Aufdeckung im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Richtlinien Skelett Erzeugen, Richtlinien Update Zyklus, Schatten Ki Aufdeckung prüfen.; Erstelle eine Arbeitsfassung zu Richtlinien Skelett Erzeugen, Richtlinien Update Zyklus, Schatten Ki Aufdeckung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Richtlinien Skelett Erzeugen, Richtlinien Update Zyklus, Schatten Ki Aufdeckung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Richtlinien Skelett Erzeugen, Richtlinien Update Zyklus, Schatten Ki Aufdeckung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Richtlinien Skelett Erzeugen, Richtlinien Update Zyklus, Schatten Ki Aufdeckung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -39,7 +39,7 @@ Eine vollständige KI-Nutzungsrichtlinie muss die relevanten Rechtsquellen kohä
 ## Vorgehen
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Kanzlei-Kontext abfragen**: Ergebnis des Skills `kanzlei-kontext-analyse` als Grundlage nutzen.
 2. **13 Kapitel anlegen**: Alle Kapitel mit Überschrift und Kurzbeschreibung vorstrukturieren.
@@ -77,16 +77,16 @@ Verantwortlich: [Name Geschäftsführung/Partnerkreis]
 4. Rechtlicher Begriff des KI-Systems (Art. 3 Nr. 1 KI-VO, OECD-Definition)
 5. Rechtliche Rahmenbedingungen (DSGVO, BRAO, UrhG, GeschGehG)
 6. Generelle Handlungsempfehlungen
-   6.1 Datenschutz (DSGVO)
-   6.2 Berufsrecht (BRAO/BORA/StGB)
-   6.3 Urheberrecht (UrhG)
-   6.4 Geheimnisschutz (GeschGehG)
-   6.5 Technisch-vertragliche Absicherung
-   6.6 Ausländische Dienstleister (§ 43e Abs. 4 BRAO)
+ 6.1 Datenschutz (DSGVO)
+ 6.2 Berufsrecht (BRAO/BORA/StGB)
+ 6.3 Urheberrecht (UrhG)
+ 6.4 Geheimnisschutz (GeschGehG)
+ 6.5 Technisch-vertragliche Absicherung
+ 6.6 Ausländische Dienstleister (§ 43e Abs. 4 BRAO)
 7. Spezifische Vorgaben
-   7.1 Schatten-KI
-   7.2 Compliance-Regelsatz
-   7.3 Organisatorische Maßnahmen
+ 7.1 Schatten-KI
+ 7.2 Compliance-Regelsatz
+ 7.3 Organisatorische Maßnahmen
 8. Exkurs: Rechtsberatung und RDG
 9. KI-Kompetenz als Pflicht (Art. 4 KI-VO)
 10. Exkurs: KI-Verordnung (KI-VO)
@@ -139,34 +139,34 @@ RICHTLINIEN-SKELETT KI-NUTZUNG
 VOR EINSATZ ANWALTLICHE PRUEFUNG UND BETRIEBSRATSEINBINDUNG ERFORDERLICH
 
 I. VORBEMERKUNG UND GELTUNGSBEREICH
-   § 1 Zweck und Geltung
-   § 2 Begriffsbestimmungen (KI-System, Anbieter, Betreiber)
+ § 1 Zweck und Geltung
+ § 2 Begriffsbestimmungen (KI-System, Anbieter, Betreiber)
 
 II. ERLAUBTE UND VERBOTENE KI-NUTZUNG
-   § 3 Freigegebene KI-Systeme (Freigabeliste)
-   § 4 Verbotene Praktiken (Art. 5 KI-VO)
-   § 5 Hochrisiko-KI (Anhang III KI-VO)
+ § 3 Freigegebene KI-Systeme (Freigabeliste)
+ § 4 Verbotene Praktiken (Art. 5 KI-VO)
+ § 5 Hochrisiko-KI (Anhang III KI-VO)
 
 III. DATENSCHUTZ UND BERUFSRECHT
-   § 6 Anonymisierungspflicht
-   § 7 Auftragsverarbeitungsvertrag (Art. 28 DSGVO)
-   § 8 Verschwiegenheit (§ 43a Abs. 2 BRAO / § 203 StGB)
-   § 9 GeschGehG-Schutz
+ § 6 Anonymisierungspflicht
+ § 7 Auftragsverarbeitungsvertrag (Art. 28 DSGVO)
+ § 8 Verschwiegenheit (§ 43a Abs. 2 BRAO / § 203 StGB)
+ § 9 GeschGehG-Schutz
 
 IV. QUALITAETSSICHERUNG
-   § 10 Menschliche Pruefung und Vier-Augen-Prinzip
-   § 11 Halluzinations-Pruefung und Quellenverifizierung
-   § 12 Dokumentationspflichten
+ § 10 Menschliche Pruefung und Vier-Augen-Prinzip
+ § 11 Halluzinations-Pruefung und Quellenverifizierung
+ § 12 Dokumentationspflichten
 
 V. SCHULUNG UND KOMPETENZ
-   § 13 KI-Schulungspflicht (Art. 4 KI-VO)
-   § 14 Fortbildungspflicht Fachanwaelte
+ § 13 KI-Schulungspflicht (Art. 4 KI-VO)
+ § 14 Fortbildungspflicht Fachanwaelte
 
 VI. GOVERNANCE UND VERANTWORTUNG
-   § 15 KI-Beauftragter
-   § 16 Meldepflichten bei Sicherheitsvorfaellen
-   § 17 Betriebsratsrechte (§ 87 Abs. 1 Nr. 6 BetrVG)
-   § 18 Aenderung und Aktualisierung der Richtlinie
+ § 15 KI-Beauftragter
+ § 16 Meldepflichten bei Sicherheitsvorfaellen
+ § 17 Betriebsratsrechte (§ 87 Abs. 1 Nr. 6 BetrVG)
+ § 18 Aenderung und Aktualisierung der Richtlinie
 
 Genehmigt von: [UNTERSCHRIFT], [DATUM]
 ```
@@ -186,7 +186,7 @@ Art. 4 KI-VO: KI-Kompetenz muss auf dem aktuellen Stand gehalten werden — was 
 ## Vorgehen
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Reguläres Halbjahres-Review**: Alle sechs Monate überprüfen, ob neue Entwicklungen (neue Rechtsprechung, neue BRAK/DAV-Stellungnahmen, neue KI-VO-Akte) eine Anpassung erfordern.
 2. **Event-getriggerte Updates**: Bei bestimmten Ereignissen (Trigger-Liste) wird die Richtlinie unmittelbar angepasst, ohne das nächste reguläre Review abzuwarten.

@@ -1,22 +1,22 @@
 ---
 name: aufsichtsrat-nis2-cybersecurity-rollen-ziel
-description: "Nutze dies, wenn Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo prüfen.; Erstelle eine Arbeitsfassung zu Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsrat Und Hv, Aufsichtsratsmemo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `aufsichtsrat-nis2-cybersecurity` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat NIS2 Cybersecurity; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsrat-rollen-und-ziel` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Rollen Und Ziel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsrat-und-hv` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Und HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsratsmemo` | AG/SE-Aufsichtsrat Praxis: Aufsichtsratsmemo; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsrat-nis2-cybersecurity` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat NIS2 Cybersecurity; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsrat-rollen-und-ziel` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Rollen Und Ziel; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsrat-und-hv` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Und HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsratsmemo` | AG/SE-Aufsichtsrat Praxis: Aufsichtsratsmemo; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Aufsichtsrat Nis2 Cybersecurity, Aufsichtsrat Rollen Und Ziel, Aufsichtsr
 
 ## 1. `aufsichtsrat-nis2-cybersecurity`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat NIS2 Cybersecurity; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat NIS2 Cybersecurity; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat NIS2 Cybersecurity
 
@@ -87,7 +87,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `aufsichtsrat-rollen-und-ziel`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Rollen Und Ziel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Rollen Und Ziel; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat Rollen Und Ziel
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `aufsichtsrat-und-hv`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Und HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Und HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat Und HV
 
@@ -201,7 +201,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `aufsichtsratsmemo`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsratsmemo; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsratsmemo; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsratsmemo
 

@@ -1,13 +1,13 @@
 ---
 name: anwaelte-ruege-gegenvorstellung-sanktionen
-description: "Nutze dies, wenn Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung, Anwälte Steuerliche Probleme Kanzlei Rechtsprechungscheck Und im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung, Anwälte Steuerliche Probleme Kanzlei Rechtsprechungscheck Und prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Ma..."
+description: "Nutze dies bei Anwaelte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwaelte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwaelte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwaelte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung, Anwälte Steuerliche Probleme Kanzlei Rechtsprechungscheck Und
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Ruege Und Gegenvorstellung Rechtsprechungscheck Und Re, Anwälte Sanktionen Und Mandatsannahme Rechtsprechungscheck Und, Anwälte Social Media Kanzleimarketing Rechtsprechungscheck Und, Anwälte Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung, Anwälte Steuerliche Probleme Kanzlei Rechtsprechungscheck Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

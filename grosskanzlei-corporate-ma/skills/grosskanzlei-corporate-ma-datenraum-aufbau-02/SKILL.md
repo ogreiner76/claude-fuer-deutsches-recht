@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-datenraum-aufbau-02
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Datenqualitaet Xai Qualitaetskontrolle, Grosskanzlei Corporate Ma Datenraum Aufbau, Grosskanzlei Corporate Ma Datenraum Gap Clean Room, Grosskanzlei Corporate Ma Deal Intake, Grosskanzlei Corporate Ma Deal Team Staffing und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Datenqualitaet Xai Qualitaetskontrolle, Grosskanzlei Corporate Ma Datenraum Aufbau, Grosskanzlei Corporate Ma Datenraum Gap Clean Room, Grosskanzlei Corporate Ma Deal Intake: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Datenqualitaet Xai Qualitaetskontrolle, Grosskanzlei Corporate Ma Datenraum Aufbau, Grosskanzlei Corporate Ma Datenraum Gap Clean Room, Grosskanzlei Corporate Ma Deal Intake, Grosskanzlei Corporate Ma Deal Team Staffing und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Corporate Ma Datenqualitaet Xai Qualitaetskontrolle, Grosskanzlei Corporate Ma Datenraum Aufbau, Grosskanzlei Corporate Ma Datenraum Gap Clean Room, Grosskanzlei Corporate Ma Deal Intake, Grosskanzlei Corporate Ma Deal Team Staffing und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -1168,20 +1168,20 @@ bezugnehmend auf den Share Purchase Agreement vom [DATUM]
 Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 
 1. DEFINITIONEN UND AUSLEGUNG
-   1.1 "Disclosure Letter" bedeutet dieses Schreiben einschliesslich aller Anlagen
-   1.2 "Datenraum" bedeutet der virtuelle Datenraum [PLATTFORM], Index-Stand [DATUM]
+ 1.1 "Disclosure Letter" bedeutet dieses Schreiben einschliesslich aller Anlagen
+ 1.2 "Datenraum" bedeutet der virtuelle Datenraum [PLATTFORM], Index-Stand [DATUM]
 
 2. GENERAL DISCLOSURES
-   2.1 Alle im Datenraum enthaltenen Dokumente gelten als disclosed
-   2.2 Vendor Due Diligence Report vom [DATUM] (Anlage GD-1)
-   2.3 Registerdokumente gemaess HR-Auszug [DATUM] (Anlage GD-2)
+ 2.1 Alle im Datenraum enthaltenen Dokumente gelten als disclosed
+ 2.2 Vendor Due Diligence Report vom [DATUM] (Anlage GD-1)
+ 2.3 Registerdokumente gemaess HR-Auszug [DATUM] (Anlage GD-2)
 
 3. SPECIFIC DISCLOSURES
-   Zu Garantie 7.1 (Title): [BESCHREIBUNG] — Dokument: [ID]
-   Zu Garantie 8.3 (Material Contracts): Change-of-Control-Klausel in Vertrag [ID]
-   Zu Garantie 11.2 (Employment): Betriebsvereinbarung Bonusregelung [ID]
-   Zu Garantie 14.1 (Litigation): Laufendes Verfahren [GERICHT, AZ] — [BETRAG]
-   Earn-Out-Disclosure: [UMSTANDE, die Earn-Out beeinflussen]
+ Zu Garantie 7.1 (Title): [BESCHREIBUNG] — Dokument: [ID]
+ Zu Garantie 8.3 (Material Contracts): Change-of-Control-Klausel in Vertrag [ID]
+ Zu Garantie 11.2 (Employment): Betriebsvereinbarung Bonusregelung [ID]
+ Zu Garantie 14.1 (Litigation): Laufendes Verfahren [GERICHT, AZ] — [BETRAG]
+ Earn-Out-Disclosure: [UMSTANDE, die Earn-Out beeinflussen]
 ```
 
 ## Rote Schwellen
@@ -1391,23 +1391,23 @@ DISTRESSED M&A TIMELINE
 Deal: [DEALNAME] — Status: [Krisenphase]
 
 PHASE 1: Krisencheck und Strukturentscheidung bis [DATUM]
-  - Liquiditaetsvorschau 13 Wochen
-  - Insolvenzreife-Pruefung: §§ 17-19 InsO
-  - Strukturentscheidung: Asset Deal / StaRUG / Insolvenzplan
+ - Liquiditaetsvorschau 13 Wochen
+ - Insolvenzreife-Pruefung: §§ 17-19 InsO
+ - Strukturentscheidung: Asset Deal / StaRUG / Insolvenzplan
 
 PHASE 2: Due Diligence und SPA-Verhandlung bis [DATUM]
-  - Datenraum: eingeschraenkt
-  - Anfechtungsrisiko-Analyse §§ 129-147 InsO
-  - § 613a BGB — Arbeitnehmer-Mapping
+ - Datenraum: eingeschraenkt
+ - Anfechtungsrisiko-Analyse §§ 129-147 InsO
+ - § 613a BGB — Arbeitnehmer-Mapping
 
 PHASE 3: Signing und Genehmigungen bis [DATUM]
-  - Insolvenzgericht-Genehmigung (§§ 160, 163 InsO)
-  - Glaeubigerzustimmung (§§ 157, 244 InsO)
+ - Insolvenzgericht-Genehmigung (§§ 160, 163 InsO)
+ - Glaeubigerzustimmung (§§ 157, 244 InsO)
 
 PHASE 4: Closing bis [DATUM]
-  - Funds Flow, Freigabe Sicherheiten
-  - Anmeldung HR, Transparenzregister
-  - § 613a BGB Information Arbeitnehmer
+ - Funds Flow, Freigabe Sicherheiten
+ - Anmeldung HR, Transparenzregister
+ - § 613a BGB Information Arbeitnehmer
 
 OFFENE PUNKTE: [TODO Owner Datum]
 ```

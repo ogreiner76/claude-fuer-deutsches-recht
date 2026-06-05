@@ -1,13 +1,13 @@
 ---
 name: dringlichkeitsmarker-einwilligung-hinweis
-description: "Nutze dies, wenn Dringlichkeitsmarker, Einwilligung Hinweis Datenschutz, Erstantwort Generator im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Bitte Dringlichkeitsmarker, Einwilligung Hinweis Datenschutz, Erstantwort Generator prüfen.; Erstelle eine Arbeitsfassung zu Dringlichkeitsmarker, Einwilligung Hinweis Datenschutz, Erstantwort Generator.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dringlichkeitsmarker, Einwilligung Hinweis Datenschutz, Erstantwort Generator: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dringlichkeitsmarker, Einwilligung Hinweis Datenschutz, Erstantwort Generator
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dringlichkeitsmarker, Einwilligung Hinweis Datenschutz, Erstantwort Generator** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -122,16 +122,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 DRINGLICHKEIT
 =============
-Stufe:        [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
+Stufe: [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
 Frist/Termin: [Datum und Art oder "nicht erkannt"]
-Signal:       [Zitat des Eile-Signals aus der Anfrage oder "keins"]
-Begründung:   [Kurze Erklärung der Bewertung]
+Signal: [Zitat des Eile-Signals aus der Anfrage oder "keins"]
+Begründung: [Kurze Erklärung der Bewertung]
 
 MASSNAHMEN:
-  [x] Sofortiger Anwaltsrückruf erforderlich — NICHT auf E-Mail warten
-  [ ] Rückmeldung innerhalb 24 Stunden
-  [ ] Normale Bearbeitung
-  [ ] Frist im Kalender eintragen: [Datum]
+ [x] Sofortiger Anwaltsrückruf erforderlich — NICHT auf E-Mail warten
+ [ ] Rückmeldung innerhalb 24 Stunden
+ [ ] Normale Bearbeitung
+ [ ] Frist im Kalender eintragen: [Datum]
 ```
 
 ## Hinweis-Text für die Erstantwort-Mail (bei HOCH)
@@ -347,16 +347,16 @@ nächsten Schritte zu finden. Bitte beachten Sie, dass [MANDATSVERHAELTNIS-DISCL
 
 Für eine erste Terminabsprache stehen wir Ihnen telefonisch zur Verfügung:
 
-  Sekretariat: [SEKRETARIATS-TELEFON]
-  Erreichbarkeit: [ERREICHBARKEITSZEITEN]
+ Sekretariat: [SEKRETARIATS-TELEFON]
+ Erreichbarkeit: [ERREICHBARKEITSZEITEN]
 
 Um Ihren Fall bestmöglich vorzubereiten, bitten wir Sie, uns vorab Ihren
 Sachverhalt in einer kurzen E-Mail zusammenzufassen:
 
-  — Was ist der Kern Ihres Anliegens?
-  — Wann hat das zugrunde liegende Ereignis stattgefunden?
-  — Gibt es Fristen, Termine oder Bescheide, die wir kennen sollten?
-  — Wer ist die Gegenseite (Person, Unternehmen, Behörde)?
+ — Was ist der Kern Ihres Anliegens?
+ — Wann hat das zugrunde liegende Ereignis stattgefunden?
+ — Gibt es Fristen, Termine oder Bescheide, die wir kennen sollten?
+ — Wer ist die Gegenseite (Person, Unternehmen, Behörde)?
 
 [TRANSKRIPTIONS-ABSCHNITT — nur wenn Anfragende nicht schreiben kann/mag:]
 

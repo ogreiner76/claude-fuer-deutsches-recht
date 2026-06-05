@@ -44,14 +44,14 @@ g) wenn moeglich, allgemeine Beschreibung der TOMs gemaess Art. 32 Abs. 1 DSGVO.
 ### Deckblatt
 
 ```
-Verantwortlicher:        [Firmenname / Kanzleiname]
-Anschrift:               [...]
-Vertreter (Art. 27):     [falls anwendbar]
+Verantwortlicher: [Firmenname / Kanzleiname]
+Anschrift: [...]
+Vertreter (Art. 27): [falls anwendbar]
 Datenschutzbeauftragter: [Name, Kontakt]
-Aufsichtsbehoerde:       [zustaendige LDI / BfDI]
-Erstellt:                [Datum]
-Letzte Aenderung:        [Datum]
-Version:                 [v1.0]
+Aufsichtsbehoerde: [zustaendige LDI / BfDI]
+Erstellt: [Datum]
+Letzte Aenderung: [Datum]
+Version: [v1.0]
 ```
 
 ### Tabelle (Pflichtspalten)
@@ -66,8 +66,8 @@ Version:                 [v1.0]
 ### Versionierungs-Footer
 
 ```
-Version 1.0  – Erstanlage   – [Datum, Bearbeiter]
-Version 1.1  – [Aenderung]  – [Datum, Bearbeiter]
+Version 1.0 – Erstanlage – [Datum, Bearbeiter]
+Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 ```
 
 ## Typische Fehler

@@ -1,34 +1,34 @@
 ---
 name: eigenbedarf-personenkreis-energieausweis
-description: "Nutze dies, wenn Spezial Eigenbedarf Personenkreis, Spezial Energieausweis Mietrecht, Spezial Erhaltung Vs Modernisierung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Eigenbedarf Personenkreis, Spezial Energieausweis Mietrecht, Spezial Erhaltung Vs Modernisierung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Spezial Eigenbedarf Personenkreis, Spezial Energieausweis Mietrecht, Spezial Erhaltung Vs Modernisierung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eigenbedarf Personenkreis, Energieausweis Mietrecht, Erhaltung Vs Modernisierung, Fachanwalt Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Eigenbedarf Personenkreis, Spezial Energieausweis Mietrecht, Spezial Erhaltung Vs Modernisierung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste
+# Eigenbedarf Personenkreis, Energieausweis Mietrecht, Erhaltung Vs Modernisierung, Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eigenbedarf Personenkreis, Energieausweis Mietrecht, Erhaltung Vs Modernisierung, Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-eigenbedarf-personenkreis` | Eigenbedarf Personenkreis: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bedarfsperson, Nutzungswunsch, Vorratskündigung, Alternativwohnung und Widerspruch; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-energieausweis-mietrecht` | Energieausweis: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Vorlage, Inserat, Pflichtverletzung, GEG-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-erhaltung-vs-modernisierung` | Erhaltung vs. Modernisierung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; trennt Instandsetzung, Verbesserung, Energieeinsparung, Kostenumlage und Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-fao-dokumentenmatrix-und-lueckenliste` | FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-eigenbedarf-personenkreis` | Eigenbedarf Personenkreis: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bedarfsperson, Nutzungswunsch, Vorratskündigung, Alternativwohnung und Widerspruch; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-energieausweis-mietrecht` | Energieausweis: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Vorlage, Inserat, Pflichtverletzung, GEG-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-erhaltung-vs-modernisierung` | Erhaltung vs. Modernisierung: Fachmodul im Miet- und Wohnungseigentumsrecht; trennt Instandsetzung, Verbesserung, Energieeinsparung, Kostenumlage und Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-fao-dokumentenmatrix-und-lueckenliste` | FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Eigenbedarf Personenkreis, Spezial Energieausweis Mietrecht, Spezial Erhaltung Vs Modernisierung, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Eigenbedarf Personenkreis, Energieausweis Mietrecht, Erhaltung Vs Modernisierung, Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-eigenbedarf-personenkreis`
 
-**Fokus:** Eigenbedarf Personenkreis: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bedarfsperson, Nutzungswunsch, Vorratskündigung, Alternativwohnung und Widerspruch; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Eigenbedarf Personenkreis: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bedarfsperson, Nutzungswunsch, Vorratskündigung, Alternativwohnung und Widerspruch; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Eigenbedarf Personenkreis
 
@@ -42,9 +42,9 @@ Für **Spezial Eigenbedarf Personenkreis, Spezial Energieausweis Mietrecht, Spez
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Bedarfsperson, Nutzungswunsch, Vorratskündigung, Alternativwohnung und Widerspruch.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Bedarfsperson, Nutzungswunsch, Vorratskündigung, Alternativwohnung und Widerspruch.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-energieausweis-mietrecht`
 
-**Fokus:** Energieausweis: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Vorlage, Inserat, Pflichtverletzung, GEG-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Energieausweis: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Vorlage, Inserat, Pflichtverletzung, GEG-Schnittstelle; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Energieausweis
 
@@ -87,9 +87,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Vorlage, Inserat, Pflichtverletzung, GEG-Schnittstelle.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Vorlage, Inserat, Pflichtverletzung, GEG-Schnittstelle.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -118,7 +118,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-erhaltung-vs-modernisierung`
 
-**Fokus:** Erhaltung vs. Modernisierung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; trennt Instandsetzung, Verbesserung, Energieeinsparung, Kostenumlage und Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Erhaltung vs. Modernisierung: Fachmodul im Miet- und Wohnungseigentumsrecht; trennt Instandsetzung, Verbesserung, Energieeinsparung, Kostenumlage und Beweis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Erhaltung vs. Modernisierung
 
@@ -132,9 +132,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: trennt Instandsetzung, Verbesserung, Energieeinsparung, Kostenumlage und Beweis.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: trennt Instandsetzung, Verbesserung, Energieeinsparung, Kostenumlage und Beweis.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -163,7 +163,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -177,7 +177,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel / spezial fachanwalt erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel / fachanwalt erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -213,7 +213,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-fao-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # FAO: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -227,7 +227,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: FAO: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** FAO: Dokumentenmatrix, Lückenliste und Nachforderung / spezial fao dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** FAO: Dokumentenmatrix, Lückenliste und Nachforderung / fao dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,23 +1,23 @@
 ---
 name: change-request-clickwrap-beweisakte-cloud
-description: "Nutze dies, wenn Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb, Crowdfunding Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb, Crowdfunding Agb prüfen.; Erstelle eine Arbeitsfassung zu Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb, Crowdfunding Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb, Crowdfunding Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb, Crowdfunding Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `change-request` | Klausel-Spezialskill für Change Reqüst: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `change-request` | Klausel-Fachmodul für Change Reqüst: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `clickwrap-beweisakte` | Output- und Streit-Skill für Clickwrap Beweisakte: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `cloud-hosting-agb` | Branchen-Spezialskill für Cloud Hosting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `consulting-agb` | Branchen-Spezialskill für Consulting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `crowdfunding-agb` | Branchen-Spezialskill für Crowdfunding AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `cloud-hosting-agb` | Branchen-Fachmodul für Cloud Hosting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `consulting-agb` | Branchen-Fachmodul für Consulting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `crowdfunding-agb` | Branchen-Fachmodul für Crowdfunding AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Change Request, Clickwrap Beweisakte, Cloud Hosting Agb, Consulting Agb, 
 
 ## 1. `change-request`
 
-**Fokus:** Klausel-Spezialskill für Change Reqüst: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Change Reqüst: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Change Reqüst
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `cloud-hosting-agb`
 
-**Fokus:** Branchen-Spezialskill für Cloud Hosting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Cloud Hosting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Cloud Hosting AGB
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `consulting-agb`
 
-**Fokus:** Branchen-Spezialskill für Consulting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Consulting AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Consulting AGB
 
@@ -248,7 +248,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `crowdfunding-agb`
 
-**Fokus:** Branchen-Spezialskill für Crowdfunding AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Crowdfunding AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Crowdfunding AGB
 

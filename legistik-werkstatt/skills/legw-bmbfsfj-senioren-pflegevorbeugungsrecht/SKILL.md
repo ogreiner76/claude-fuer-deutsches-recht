@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Seniorenrecht und Pflegevorbeugung
-Ressort:            BMBFSFJ
-Kernnormen:         SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Laender; HGB-Bezuege.
-Akteure/Aufsicht:   BMBFSFJ; BMG (Schnittstelle Pflege); Laender-Heimaufsichten.
-EU/Voelkerrecht:    Care-Strategy der EU.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmbfsfj; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Seniorenrecht und Pflegevorbeugung
+Ressort: BMBFSFJ
+Kernnormen: SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Laender; HGB-Bezuege.
+Akteure/Aufsicht: BMBFSFJ; BMG (Schnittstelle Pflege); Laender-Heimaufsichten.
+EU/Voelkerrecht: Care-Strategy der EU.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

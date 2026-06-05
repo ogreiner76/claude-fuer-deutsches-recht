@@ -1,6 +1,6 @@
 ---
 name: user-content-moderation
-description: "Klausel-Spezialskill für User Content Moderation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für User Content Moderation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # User Content Moderation

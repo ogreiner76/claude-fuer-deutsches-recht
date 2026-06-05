@@ -1,13 +1,13 @@
 ---
 name: schnittmuster-tech-secondhand-resale
-description: "Nutze dies, wenn Schnittmuster Und Tech Pack, Secondhand Resale Vintage im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Schnittmuster Und Tech Pack, Secondhand Resale Vintage prüfen.; Erstelle eine Arbeitsfassung zu Schnittmuster Und Tech Pack, Secondhand Resale Vintage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schnittmuster Und Tech Pack, Secondhand Resale Vintage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Schnittmuster Und Tech Pack, Secondhand Resale Vintage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schnittmuster Und Tech Pack, Secondhand Resale Vintage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

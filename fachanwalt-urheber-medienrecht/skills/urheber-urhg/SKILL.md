@@ -1,13 +1,13 @@
 ---
 name: urheber-urhg
-description: "Nutze dies, wenn Spezial Schnittstellen Zahlen Schwellen Und Berechnung, Spezial Urheber Tatbestand Beweis Und Belege, Spezial Urhg Dokumentenmatrix Und Lueckenliste im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Schnittstellen Zahlen Schwellen Und Berechnung, Spezial Urheber Tatbestand Beweis Und Belege, Spezial Urhg Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Spezial Schnittstellen Zahlen Schwellen Und Berechnung, Spezial Urheber Tatbestand Beweis Und Belege, Spezial Urhg Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schnittstellen Zahlen Schwellen Und Berechnung, Urheber Tatbestand Beweis Und Belege, Urhg Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Schnittstellen Zahlen Schwellen Und Berechnung, Spezial Urheber Tatbestand Beweis Und Belege, Spezial Urhg Dokumentenmatrix Und Lueckenliste
+# Schnittstellen Zahlen Schwellen Und Berechnung, Urheber Tatbestand Beweis Und Belege, Urhg Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schnittstellen Zahlen Schwellen Und Berechnung, Urheber Tatbestand Beweis Und Belege, Urhg Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Schnittstellen Zahlen Schwellen Und Berechnung, Spezial Urheber Tatbestand Beweis Und Belege, Spezial Urhg Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schnittstellen Zahlen Schwellen Und Berechnung, Urheber Tatbestand Beweis Und Belege, Urhg Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Schnittstellen Zahlen Schwellen Und Berechnung, Spezial Urheber T
 # Schnittstellen: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Schnittstellen: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung / spezial schnittstellen zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung / schnittstellen zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial urheber tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage / urheber tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Urhg: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Urhg: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Urhg: Dokumentenmatrix, Lückenliste und Nachforderung / spezial urhg dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Urhg: Dokumentenmatrix, Lückenliste und Nachforderung / urhg dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: pacht-leihe-schnittstelle-at
-description: "Nutze dies, wenn Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis im Plugin Bgb Bt Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis prüfen.; Erstelle eine Arbeitsfassung zu Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

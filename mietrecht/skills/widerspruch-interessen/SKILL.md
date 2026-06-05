@@ -1,32 +1,32 @@
 ---
 name: widerspruch-interessen
-description: "Nutze dies, wenn Spezial Widerspruch Mehrparteien Konflikt Und Interessen, Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten im Plugin Mietrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Widerspruch Mehrparteien Konflikt Und Interessen, Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten prüfen.; Erstelle eine Arbeitsfassung zu Spezial Widerspruch Mehrparteien Konflikt Und Interessen, Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Widerspruch Mehrparteien Konflikt Und Interessen, Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Widerspruch Mehrparteien Konflikt Und Interessen, Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten
+# Widerspruch Mehrparteien Konflikt Und Interessen, Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Widerspruch Mehrparteien Konflikt Und Interessen, Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-widerspruch-mehrparteien-konflikt-und-interessen` | Widerspruch: Mehrparteienkonflikt und Interessenmatrix im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-widerspruch-mehrparteien-konflikt-und-interessen` | Widerspruch: Mehrparteienkonflikt und Interessenmatrix im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `betriebskostenabrechnung-belege-und-formelpruefer` | Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu formeller Ordnungsgemäßheit, Belegeinsicht, Umlageschlüsseln, Vorwegabzug, HeizkostenV und Einwendungsfristen. |
 | `weg-beschluss-anfechten` | Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft nach §§ 44 ff. WEG-Reform 2020. Beschlussklage Anfechtungsklage Nichtigkeitsklage Feststellungsklage. Prüfung formelle Maengel (Ladung Tagesordnung Beschlussfähigkeit Mehrheit Stimmrechtsausschluesse) und materielle Maengel (kein Beschlusszustand ordnungsmäßige Verwaltung Treu und Glauben). Klagefrist ein Monat ab Beschluss § 45 WEG. Verwaltungsbeirats-Prüfung Verwaltervertrag Sondereigentum vs. Gemeinschaftseigentum Bauliche Veraenderung § 20 WEG Hausgeld § 16 Abs. 2 WEG. |
 
 ## Arbeitsweg
 
-Für **Spezial Widerspruch Mehrparteien Konflikt Und Interessen, Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Widerspruch Mehrparteien Konflikt Und Interessen, Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-widerspruch-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Widerspruch: Mehrparteienkonflikt und Interessenmatrix im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Widerspruch: Mehrparteienkonflikt und Interessenmatrix im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Widerspruch: Mehrparteienkonflikt und Interessenmatrix
 
@@ -40,7 +40,7 @@ Für **Spezial Widerspruch Mehrparteien Konflikt Und Interessen, Betriebskostena
 
 
 ## Spezialwissen: Widerspruch: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Widerspruch: Mehrparteienkonflikt und Interessenmatrix / spezial widerspruch mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Widerspruch: Mehrparteienkonflikt und Interessenmatrix / widerspruch mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

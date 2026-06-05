@@ -1,6 +1,6 @@
 ---
 name: rom-neu-022-roemische-obligationenlehre
-description: "Nutze dies, wenn Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters

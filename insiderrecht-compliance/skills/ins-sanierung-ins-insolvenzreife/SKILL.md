@@ -1,13 +1,13 @@
 ---
 name: ins-sanierung-ins-insolvenzreife
-description: "Nutze dies, wenn Ins 049 Sanierung Und Starug, Ins 050 Insolvenzreife im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 049 Sanierung Und Starug, Ins 050 Insolvenzreife prüfen.; Erstelle eine Arbeitsfassung zu Ins 049 Sanierung Und Starug, Ins 050 Insolvenzreife.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 049 Sanierung Und Starug, Ins 050 Insolvenzreife: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 049 Sanierung Und Starug, Ins 050 Insolvenzreife
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 049 Sanierung Und Starug, Ins 050 Insolvenzreife** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -53,31 +53,31 @@ ersten Restrukturierungsüberlegung bis zum abgeschlossenen Sanierungsplan.
 ### Schritt 1 – Frühe Restrukturierungsphase (Erste Analyse)
 
 - Geltl/Daimler-Test: Wann ist Restrukturierungsbedarf als präzise Information erkennbar?
-  (Erste konservative Finanzprognose, die Covenant-Verletzung prognostiziert?)
+ (Erste konservative Finanzprognose, die Covenant-Verletzung prognostiziert?)
 - Kursrelevanz: Restrukturierungsbedarf ist für börsennotierte Unternehmen regelmäßig
-  kursrelevant
+ kursrelevant
 - Aufschub: Legitimes Interesse (laufende Verhandlungen mit Gläubigern) möglich, aber:
-  Öffentliche Aussagen des Vorstands dürfen nicht widersprüchlich sein
+ Öffentliche Aussagen des Vorstands dürfen nicht widersprüchlich sein
 
 ### Schritt 2 – Gläubiger-Kommunikation und Insiderlisten
 
 - Banken/Anleihegläubiger, die in den Restrukturierungsprozess eingebunden sind, werden
-  Insider (Art. 18 MAR: Insiderliste)
+ Insider (Art. 18 MAR: Insiderliste)
 - NDA und Insiderbelehrung für alle eingebundenen Gläubiger
 - Kreditverträge und NDA müssen Insiderrecht-Klauseln enthalten
 
 ### Schritt 3 – StaRUG-Anzeige und Ad-hoc-Pflicht
 
 - Anzeige des Restrukturierungsvorhabens beim Restrukturierungsgericht: In der Praxis
-  Insiderinformation (kursrelevant)
+ Insiderinformation (kursrelevant)
 - Abstimmung: Muss die Anzeige ad-hoc veröffentlicht werden?
-  → Ja, wenn der Markt die Restrukturierungsnotwendigkeit noch nicht kennt
+ → Ja, wenn der Markt die Restrukturierungsnotwendigkeit noch nicht kennt
 - StaRUG-Verfahren ist grundsätzlich vertraulich (§ 84 StaRUG), aber MAR-Pflicht geht vor
 
 ### Schritt 4 – Plan-Abstimmung und Ad-hoc-Kaskade
 
 - Jeweils neue Insiderinformation bei: Planeinreichung, Abstimmungsergebnis,
-  Gericht-Bestätigung, Planvollzug
+ Gericht-Bestätigung, Planvollzug
 - Ad-hoc nach jeder wesentlichen Stufe
 - Insiderliste: Wer kennt welche Stufe?
 
@@ -136,16 +136,16 @@ eingetretener Insolvenzreife und verhindert die typischen Haftungsfallen.
 
 - Präzision: Bestätigung durch WP, Steuerberater oder Controller, dass Insolvenzgründe vorliegen
 - Kursrelevanz: Nahezu immer kursrelevant; drohende Insolvenz schon bei erheblicher
-  Wahrscheinlichkeit
+ Wahrscheinlichkeit
 - Nichtöffentlichkeit: Bis zur Ad-hoc-Veröffentlichung nicht bekannt
 
 ### Schritt 2 – Parallele Fristen
 
 - InsO § 15a: Antragspflicht innerhalb von 6 Wochen bei Zahlungsunfähigkeit oder
-  Überschuldung (Schnittstelle zum Strafrecht: § 15a Abs. 6 InsO)
+ Überschuldung (Schnittstelle zum Strafrecht: § 15a Abs. 6 InsO)
 - MAR Art. 17: Veröffentlichung „so bald wie möglich" = unverzüglich
 - Praxis: Ad-hoc-Pflicht entsteht i.d.R. früher als InsO-Antrag (schon bei drohender
-  Zahlungsunfähigkeit), InsO-Antrag kann später folgen
+ Zahlungsunfähigkeit), InsO-Antrag kann später folgen
 
 ### Schritt 3 – Aufschub bei Sanierungsverhandlungen
 
@@ -157,7 +157,7 @@ eingetretener Insolvenzreife und verhindert die typischen Haftungsfallen.
 
 - PDMRs, die von der Insolvenzreife wissen: Sofortiges Handelsverbot (Art. 14 MAR)
 - Typische Fehlkonstellation: CFO verkauft Aktien kurz bevor Insolvenzreife ad-hoc
-  kommuniziert wird → Strafbarkeit nach § 119 WpHG
+ kommuniziert wird → Strafbarkeit nach § 119 WpHG
 - Compliance muss PDMR-Transaktionen im kritischen Zeitraum sofort überprüfen
 
 ### Schritt 5 – Ad-hoc-Inhalt bei Insolvenzreife

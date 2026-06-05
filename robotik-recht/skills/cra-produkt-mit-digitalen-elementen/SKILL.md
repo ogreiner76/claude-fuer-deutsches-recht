@@ -32,7 +32,7 @@ Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pfl
 - **Vorfallmeldungen** an ENISA und CSIRT Art. 14 CRA: Frühwarnung 24 h, Zwischenbericht 72 h, Abschlussbericht 1 Monat.
 - **Geldbußen** Art. 64 CRA: bis 15 Mio. EUR oder 2,5 % weltweiter Jahresumsatz für wichtigste Pflichtverstöße.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Produkt-Klassifikation.** Standardprodukt vs. "wichtige" Klasse I/II vs. "kritische" Klasse (Anhang III/IV CRA).
 2. **Secure-by-Design.** Anhang I Teil I: Standard-Konfiguration ohne bekannte Schwachstellen, Schutz vor unautorisiertem Zugriff, Vertraulichkeit, Integrität, Verfügbarkeit; Update-Mechanismus; minimal-privilege.

@@ -1,13 +1,13 @@
 ---
 name: mitarbeiter-need-non-solicit-permitted
-description: "Nutze dies, wenn Nda Mitarbeiter Need To Know, Nda Non Solicit Kartellrechtlich, Nda Permitted Disclosure im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Bitte Nda Mitarbeiter Need To Know, Nda Non Solicit Kartellrechtlich, Nda Permitted Disclosure prüfen.; Erstelle eine Arbeitsfassung zu Nda Mitarbeiter Need To Know, Nda Non Solicit Kartellrechtlich, Nda Permitted Disclosure.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nda Mitarbeiter Need To Know, Nda Non Solicit Kartellrechtlich, Nda Permitted Disclosure: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nda Mitarbeiter Need To Know, Nda Non Solicit Kartellrechtlich, Nda Permitted Disclosure
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nda Mitarbeiter Need To Know, Nda Non Solicit Kartellrechtlich, Nda Permitted Disclosure** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

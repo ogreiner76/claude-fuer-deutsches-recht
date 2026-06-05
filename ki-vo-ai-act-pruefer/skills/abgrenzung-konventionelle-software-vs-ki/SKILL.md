@@ -96,7 +96,7 @@ Datum: [DATUM]
 System / Komponente: [NAME]
 
 1. Technischer Befund
-[Regelwerk / Workflow / Statistik / ML-Modell / LLM / API / RAG / Hybrid]
+[Regelwerk / / Statistik / ML-Modell / LLM / API / RAG / Hybrid]
 
 2. Automation und Autonomie
 [Was läuft automatisch? Wo greift ein Mensch ein? Ist die Ausgabe menschlich vorbestimmt?]

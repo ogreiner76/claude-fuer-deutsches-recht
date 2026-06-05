@@ -1,6 +1,6 @@
 ---
 name: energieversorgung-agb
-description: "Branchen-Spezialskill für Energieversorgung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Energieversorgung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Energieversorgung AGB

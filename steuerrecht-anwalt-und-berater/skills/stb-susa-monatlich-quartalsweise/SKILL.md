@@ -65,20 +65,20 @@ Wie haeufig die SuSa erstellt wird, haengt von Belegvolumen, Mandantengroesse un
 ### Phase 3 — Monatsrhythmus
 
 ```
-Tag 5 des Folgemonats:    Belegannahme abgeschlossen
-Tag 15:                   Buchung abgeschlossen
-Tag 20:                   Periodenabgrenzung gebucht
-Tag 22:                   SuSa-Vorabauswertung
-Tag 25:                   SuSa final, BWA versandfertig
-Tag 30:                   USt-VA uebermittelt
+Tag 5 des Folgemonats: Belegannahme abgeschlossen
+Tag 15: Buchung abgeschlossen
+Tag 20: Periodenabgrenzung gebucht
+Tag 22: SuSa-Vorabauswertung
+Tag 25: SuSa final, BWA versandfertig
+Tag 30: USt-VA uebermittelt
 ```
 
 ### Phase 4 — Quartalsrhythmus
 
 ```
-Tag 5 nach Quartalsende:  Belegannahme letzter Monat abgeschlossen
-Tag 25:                   SuSa Quartal final
-Tag 30:                   BWA Quartal versandt
+Tag 5 nach Quartalsende: Belegannahme letzter Monat abgeschlossen
+Tag 25: SuSa Quartal final
+Tag 30: BWA Quartal versandt
 ```
 
 ### Phase 5 — Sondersituationen

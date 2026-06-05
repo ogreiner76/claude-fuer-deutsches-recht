@@ -1,13 +1,13 @@
 ---
 name: strafbefehl
-description: "Nutze dies, wenn Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Strafbefehl Rechtsprechungsrecherche im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Strafbefehl Rechtsprechungsrecherche: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Strafbefehl Rechtsprechungsrecherche
+# Mandantenkommunikation, Redteam Qualitygate, Strafbefehl Rechtsprechungsrecherche
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenkommunikation, Redteam Qualitygate, Strafbefehl Rechtsprechungsrecherche** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,11 +15,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin strafbefehl-verteidiger: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin strafbefehl-verteidiger: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `strafbefehl-rechtsprechungsrecherche` | Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder Argumentation in der Hauptverhandlung. Prüfraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Workflow Datenbankrecherche juris beck-online OpenJur Suchstrategien Normenkette. Output aufbereitete Kernzitate für Schriftsaetze mit Aktenzeichen und Leitsatz. Abgrenzung: strafbefehl-beweis-und-einlassung für die inhaltliche Verteidigungsstrategie. |
+| `strafbefehl-rechtsprechungsrecherche` | Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder Argumentation in der Hauptverhandlung. Prüfraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Datenbankrecherche juris beck-online OpenJur Suchstrategien Normenkette. Output aufbereitete Kernzitate für Schriftsaetze mit Aktenzeichen und Leitsatz. Abgrenzung: strafbefehl-beweis-und-einlassung für die inhaltliche Verteidigungsstrategie. |
 
 ## Arbeitsweg
 
-Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Strafbefehl Rechtsprechungsrecherche** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenkommunikation, Redteam Qualitygate, Strafbefehl Rechtsprechungsrecherche** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,10 +31,10 @@ Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Strafbefeh
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `strafbefehl-verteidiger` Mandantenkommunikation im Plugin strafbefehl-verteidiger: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Mandantenkommunikation im Plugin strafbefehl-verteidiger: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -44,7 +44,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -61,19 +61,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## Strafbefehl-Mandantenkommunikation Speziallage
 - **Pflicht-Aufklaerung sofort:**
-  - **Verteidigerbestellung** § 137 StPO; Schweigerecht § 136 StPO.
-  - **Frist § 410 StPO: 2 Wochen** ab Zustellung - bei Versaeumnis Rechtskraft und Vollstreckung; Wiedereinsetzung § 44 StPO oft nicht moeglich.
-  - **Rechtsfolgen Akzeptanz Strafbefehl:** wird **rechtskraeftig wie Urteil** (§ 410 III StPO); BZRG-Eintrag; FAER-Punkte bei Verkehrsdelikten; berufsrechtliche Folgen.
+ - **Verteidigerbestellung** § 137 StPO; Schweigerecht § 136 StPO.
+ - **Frist § 410 StPO: 2 Wochen** ab Zustellung - bei Versaeumnis Rechtskraft und Vollstreckung; Wiedereinsetzung § 44 StPO oft nicht moeglich.
+ - **Rechtsfolgen Akzeptanz Strafbefehl:** wird **rechtskraeftig wie Urteil** (§ 410 III StPO); BZRG-Eintrag; FAER-Punkte bei Verkehrsdelikten; berufsrechtliche Folgen.
 - **Entscheidungsmatrix Einspruch ja/nein:**
-  - **Tatsachenstreit:** wenn Mandant die Tat bestreitet oder erhebliche Beweisluecken bestehen - Einspruch sinnvoll, ggf. Beweisaufnahme in Hauptverhandlung.
-  - **Strafmass-Streit:** Einspruch beschraenkt auf Rechtsfolgenausspruch § 410 II StPO; nur Tagessatzhoehe / Fahrverbot streitig.
-  - **Einstellung anstreben:** §§ 153, 153a StPO im Strafbefehlsverfahren noch moeglich - Verhandlung mit StA / Gericht.
-  - **Akzeptanz:** wenn Strafmass im Rahmen, keine erheblichen Nebenfolgen, Hauptverhandlung wuerde Beweise gegen Mandant erbringen.
+ - **Tatsachenstreit:** wenn Mandant die Tat bestreitet oder erhebliche Beweisluecken bestehen - Einspruch sinnvoll, ggf. Beweisaufnahme in Hauptverhandlung.
+ - **Strafmass-Streit:** Einspruch beschraenkt auf Rechtsfolgenausspruch § 410 II StPO; nur Tagessatzhoehe / Fahrverbot streitig.
+ - **Einstellung anstreben:** §§ 153, 153a StPO im Strafbefehlsverfahren noch moeglich - Verhandlung mit StA / Gericht.
+ - **Akzeptanz:** wenn Strafmass im Rahmen, keine erheblichen Nebenfolgen, Hauptverhandlung wuerde Beweise gegen Mandant erbringen.
 - **Berufsspezifische Konsequenzen** stets ansprechen:
-  - **Beamte/Soldaten:** Disziplinarrecht, Anzeigepflicht; ab Geldstrafe oft Verfahren.
-  - **Aerzte/Anwaelte/Steuerberater/Apotheker:** Berufsaufsicht.
-  - **Lehrer:** Schulaufsicht.
-  - **Fuehrungsfunktionen Wirtschaft:** Reputation.
+ - **Beamte/Soldaten:** Disziplinarrecht, Anzeigepflicht; ab Geldstrafe oft Verfahren.
+ - **Aerzte/Anwaelte/Steuerberater/Apotheker:** Berufsaufsicht.
+ - **Lehrer:** Schulaufsicht.
+ - **Fuehrungsfunktionen Wirtschaft:** Reputation.
 - **Kostenhinweis RVG:** VV 4100 (Grundgebuehr), 4106 (Verfahrensgebuehr Strafbefehlsverfahren), 4108 (Verfahrensgebuehr Einspruch), 4112 ff. (Terminsgebuehr); Pflichtverteidigergebuehren bei Verurteilung als Verfahrenskosten dem Mandant.
 - **Mandantenfreigabe schriftlich** fuer: Einspruch, Einspruchsruecknahme, Beschraenkung, Annahme Auflagen § 153a StPO, Verstaendigung § 257c StPO.
 
@@ -84,10 +84,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `strafbefehl-verteidiger` Red-Team Qualitygate im Plugin strafbefehl-verteidiger: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin strafbefehl-verteidiger: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -97,7 +97,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -124,7 +124,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 3. `strafbefehl-rechtsprechungsrecherche`
 
-**Fokus:** Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder Argumentation in der Hauptverhandlung. Prüfraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Workflow Datenbankrecherche juris beck-online OpenJur Suchstrategien Normenkette. Output aufbereitete Kernzitate für Schriftsaetze mit Aktenzeichen und Leitsatz. Abgrenzung: strafbefehl-beweis-und-einlassung für die inhaltliche Verteidigungsstrategie.
+**Fokus:** Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder Argumentation in der Hauptverhandlung. Prüfraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Datenbankrecherche juris beck-online OpenJur Suchstrategien Normenkette. Output aufbereitete Kernzitate für Schriftsaetze mit Aktenzeichen und Leitsatz. Abgrenzung: strafbefehl-beweis-und-einlassung für die inhaltliche Verteidigungsstrategie.
 
 # Rechtsprechungsrecherche im Strafbefehlsverfahren
 

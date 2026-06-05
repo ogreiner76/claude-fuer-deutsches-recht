@@ -1,13 +1,13 @@
 ---
 name: vc-investment-vc-task-vc-relationship-vc
-description: "Nutze dies, wenn Vc 079 Investment Committee Minutes, Vc 080 Task Reminder System, Vc 081 Relationship Map, Vc 082 Founder Reference Calls im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 079 Investment Committee Minutes, Vc 080 Task Reminder System, Vc 081 Relationship Map, Vc 082 Founder Reference Calls prüfen.; Erstelle eine Arbeitsfassung zu Vc 079 Investment Committee Minutes, Vc 080 Task Reminder System, Vc 081 Relationship Map, Vc 082 Founder Reference Calls.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vc 079 Investment Committee Minutes, Vc 080 Task Reminder System, Vc 081 Relationship Map, Vc 082 Founder Reference Calls: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vc 079 Investment Committee Minutes, Vc 080 Task Reminder System, Vc 081 Relationship Map, Vc 082 Founder Reference Calls
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vc 079 Investment Committee Minutes, Vc 080 Task Reminder System, Vc 081 Relationship Map, Vc 082 Founder Reference Calls** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

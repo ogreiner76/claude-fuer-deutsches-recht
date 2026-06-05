@@ -1,6 +1,6 @@
 ---
 name: rdg-quellenkarte
-description: "Nutze dies, wenn Rdg Quellenkarte im Plugin Regulatorisches Recht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rdg Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rdg Quellenkarte

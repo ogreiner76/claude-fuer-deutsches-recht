@@ -1,21 +1,21 @@
 ---
 name: orientierung-iwr-embargo-iwr-eu
-description: "Nutze dies, wenn Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Internationales Wirtschaftsrecht Orientierung, Fachanwalt Iwr Embargo Prüfung Russland, Fachanwalt Iwr Eu Us Dpf Data Privacy Framework** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-internationales-wirtschaftsrecht-orientierung` | Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC. Investitionsschutzrecht ICSID Welthandelsrecht WTO. Sanktionen EU-Russland USA-OFAC LkSG. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-iwr (konkrete Falltriage) und sanktions-compliance-prüfung. |
-| `fachanwalt-iwr-embargo-pruefung-russland` | Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung. |
-| `fachanwalt-iwr-eu-us-dpf-data-privacy-framework` | EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzüberschreitende Vertragsklauseln Updates. |
+| `fachanwalt-iwr-embargo-pruefung-russland` | Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung. |
+| `fachanwalt-iwr-eu-us-dpf-data-privacy-framework` | EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. grenzüberschreitende Vertragsklauseln Updates. |
 
 ## Arbeitsweg
 
@@ -125,7 +125,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-iwr-embargo-pruefung-russland`
 
-**Fokus:** Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung.
+**Fokus:** Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung.
 
 # Embargo-Prüfung Russland-Sanktionen
 
@@ -410,13 +410,13 @@ Abgelegt unter: [ARCHIVPFAD / AKTENZEICHEN]
 
 ## 3. `fachanwalt-iwr-eu-us-dpf-data-privacy-framework`
 
-**Fokus:** EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzüberschreitende Vertragsklauseln Updates.
+**Fokus:** EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. grenzüberschreitende Vertragsklauseln Updates.
 
 # EU-US Data Privacy Framework — Folgen für Verträge
 
 ## Fachkern: EU-US Data Privacy Framework — Folgen für Verträge
 
-- **Spezialfrage (EU-US Data Privacy Framework — Folgen für Verträge):** EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzüberschreitende Vertragsklauseln Updates.
+- **Spezialfrage (EU-US Data Privacy Framework — Folgen für Verträge):** EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. grenzüberschreitende Vertragsklauseln Updates.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
 
@@ -443,7 +443,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Hinweis Stand 05/2026: Schrems III-Verfahren vor EuGH gegen den DPF-Angemessenheitsbeschluss anhaengig; aktuellen Stand pruefen, da Aufhebung Folgen fuer Datentransfers haette.
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Workflow Vertragsklauseln-Update
+## Vertragsklauseln-Update
 
 ### Phase 1 — DPF-Zertifizierungs-Check
 

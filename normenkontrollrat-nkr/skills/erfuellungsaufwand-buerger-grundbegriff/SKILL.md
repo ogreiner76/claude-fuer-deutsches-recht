@@ -1,13 +1,13 @@
 ---
 name: erfuellungsaufwand-buerger-grundbegriff
-description: "Nutze dies, wenn Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff prüfen.; Erstelle eine Arbeitsfassung zu Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Erfuellungsaufwand Buerger Wirtschaft Verwaltung, Nkr Erfuellungsaufwand Grundbegriff** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -186,9 +186,9 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 1. **Pflichtinhalt identifizieren** — welche konkrete Handlung wird angeordnet?
 2. **Adressaten bestimmen** — Buerger / Wirtschaft / Verwaltung
 3. **Aufwandskomponenten zerlegen**:
-   - Zeit (Personalstunden)
-   - Sachmittel (Material, IT)
-   - Externe Dienstleistungen
+ - Zeit (Personalstunden)
+ - Sachmittel (Material, IT)
+ - Externe Dienstleistungen
 4. **Einmalig vs. laufend** trennen
 5. **Pro-Fall-Aufwand** ermitteln
 6. **Fallzahl** ermitteln (jaehrlich)

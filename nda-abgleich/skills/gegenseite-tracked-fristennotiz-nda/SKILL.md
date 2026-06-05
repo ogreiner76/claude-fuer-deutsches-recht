@@ -1,13 +1,13 @@
 ---
 name: gegenseite-tracked-fristennotiz-nda
-description: "Nutze dies, wenn Spezial Gegenseite Fristen Form Und Zustaendigkeit, Spezial Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gegenseite Fristen Form Und Zustaendigkeit, Spezial Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gegenseite Fristen Form Und Zustaendigkeit, Spezial Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Gegenseite Fristen Form Und Zustaendigkeit, Spezial Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen
+# Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Gegenseite Fristen Form Und Zustaendigkeit, Spezial Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gegenseite Fristen Form Und Zustaendigkeit, Tracked Fristennotiz Und Naechster Schritt, Nda Definitionsklausel Abgleichen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `nda-abgleich` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Gegenseite Fristen Form Und Zustaendigkeit, Spezial Tracked Frist
 # Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg / spezial gegenseite fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg / gegenseite fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Tracked: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Tracked: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Tracked: Fristennotiz und nächster Schritt / spezial tracked fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Tracked: Fristennotiz und nächster Schritt / tracked fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

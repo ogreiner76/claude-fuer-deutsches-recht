@@ -1,13 +1,13 @@
 ---
 name: entfristung-kueschk-anwendbarkeit
-description: "Nutze dies, wenn Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel prüfen.; Erstelle eine Arbeitsfassung zu Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kündigungsschutzklage Anwendbarkeit Kschg Prüfen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -79,8 +79,8 @@ Das KSchG gilt nur bei Arbeitsverhältnis **länger als 6 Monate** ohne Unterbre
 Arbeitsverhältnis ab: [DATUM]
 Kündigung zugegangen: [DATUM]
 Dauer: [MONATE]
-  ≤ 6 Monate → KSchG nicht anwendbar
-  > 6 Monate → weiter zu Schritt 2
+ ≤ 6 Monate → KSchG nicht anwendbar
+ > 6 Monate → weiter zu Schritt 2
 ```
 
 ### Schritt 2: Betriebsgröße § 23 Abs. 1 KSchG
@@ -182,24 +182,24 @@ In der Praxis werden Arbeitsverträge immer häufiger digital unterzeichnet. Die
 **Typische Merkmale eines digital unterzeichneten Vertrags:**
 
 1. **Plattform-Hinweise im Dokument:**
-   - "This document was signed via DocuSign"
-   - "Powered by Adobe Acrobat Sign"
-   - "Signiert mit HelloSign / Dropbox Sign"
-   - Signatur-ID oder Zertifikat am Ende des Dokuments
+ - "This document was signed via DocuSign"
+ - "Powered by Adobe Acrobat Sign"
+ - "Signiert mit HelloSign / Dropbox Sign"
+ - Signatur-ID oder Zertifikat am Ende des Dokuments
 
 2. **Unterschrift-Optik:**
-   - Maschinenschriftliche oder stilisierte Unterschrift
-   - Unterschrift in anderem Font als handschriftlich
-   - Farbige Signatur-Felder (DocuSign-typisch: blaue Kästchen)
+ - Maschinenschriftliche oder stilisierte Unterschrift
+ - Unterschrift in anderem Font als handschriftlich
+ - Farbige Signatur-Felder (DocuSign-typisch: blaue Kästchen)
 
 3. **Empfang:**
-   - Vertrag per E-Mail erhalten und "online unterschrieben"
-   - Per Link in Browser-Portal unterzeichnet
-   - E-Mail mit "Dokument ist unterschrieben"-Zertifikat erhalten
+ - Vertrag per E-Mail erhalten und "online unterschrieben"
+ - Per Link in Browser-Portal unterzeichnet
+ - E-Mail mit "Dokument ist unterschrieben"-Zertifikat erhalten
 
 4. **Kein physisches Original:**
-   - Nie eine Originalurkunde mit echter Tinte erhalten
-   - Vertrag liegt nur als PDF vor
+ - Nie eine Originalurkunde mit echter Tinte erhalten
+ - Vertrag liegt nur als PDF vor
 
 ## Unterschied: Einfache vs. qualifizierte elektronische Signatur
 
@@ -294,9 +294,9 @@ Arbeitnehmer wird nach dem 31.03.2025 noch weiterbeschäftigt → Frist läuft t
 Fristende = Vereinbartes Vertragsende + 1 Tag (§ 187 Abs. 1 BGB) + 21 Tage
 
 Beispiel:
-  Vereinbartes Ende: 31.03.2025
-  Fristbeginn:       01.04.2025
-  Fristende:         21.04.2025 (Montag) → letzter Tag für Klageeingang beim ArbG
+ Vereinbartes Ende: 31.03.2025
+ Fristbeginn: 01.04.2025
+ Fristende: 21.04.2025 (Montag) → letzter Tag für Klageeingang beim ArbG
 ```
 
 ### Schritt 3: Versäumnis feststellen?
@@ -319,8 +319,8 @@ Falls Frist versäumt:
 Ist Frist noch nicht abgelaufen?
 ├── Ja → Klage sofort einreichen → entfristung-klageschrift-laie/anwalt-baustein
 └── Nein → War Versäumnis unverschuldet?
-    ├── Ja → Antrag auf nachträgliche Zulassung (§ 5 KSchG) + Klage gleichzeitig
-    └── Nein → Befristung gilt als wirksam (§ 7 KSchG) — kein Rechtsmittel mehr
+ ├── Ja → Antrag auf nachträgliche Zulassung (§ 5 KSchG) + Klage gleichzeitig
+ └── Nein → Befristung gilt als wirksam (§ 7 KSchG) — kein Rechtsmittel mehr
 ```
 
 ## Sofortprüfungs-Checkliste (Abfrage an Nutzer)

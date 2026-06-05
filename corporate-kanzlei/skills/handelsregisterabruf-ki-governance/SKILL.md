@@ -1,13 +1,13 @@
 ---
 name: handelsregisterabruf-ki-governance
-description: "Nutze dies, wenn Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -204,34 +204,34 @@ Abruf-Datum: [DATUM]
 Chronologischer Ausdruck: [Ja / Nein]
 
 1. BASISINFORMATIONEN
-   Rechtsform: [GmbH / AG]
-   Gruendungsdatum: [DATUM]
-   Sitz: [ADRESSE]
-   Stammkapital/Grundkapital: EUR [BETRAG]
+ Rechtsform: [GmbH / AG]
+ Gruendungsdatum: [DATUM]
+ Sitz: [ADRESSE]
+ Stammkapital/Grundkapital: EUR [BETRAG]
 
 2. AKTUELLE ORGANE
-   Geschaeftsfuehrer / Vorstand:
-   - [NAME, Geburtsdatum, Vertretungsbefugnis, Befreiung § 181 BGB]
-   Aufsichtsrat (falls vorhanden):
-   - [NAMEN]
+ Geschaeftsfuehrer / Vorstand:
+ - [NAME, Geburtsdatum, Vertretungsbefugnis, Befreiung § 181 BGB]
+ Aufsichtsrat (falls vorhanden):
+ - [NAMEN]
 
 3. GESELLSCHAFTERSTRUKTUR
-   [QUELLE: Gesellschafterliste; Stand: Datum]
-   - [Gesellschafter 1]: [Anteile, %]
-   - [Gesellschafter 2]: [Anteile, %]
+ [QUELLE: Gesellschafterliste; Stand: Datum]
+ - [Gesellschafter 1]: [Anteile, %]
+ - [Gesellschafter 2]: [Anteile, %]
 
 4. JAHRESABSCHLUESSE (BUNDESANZEIGER)
-   Veroeffentlicht: [Jahre]
-   Nicht veroeffentlicht: [Jahren] — RISIKO: § 335 HGB Ordnungsgeld
+ Veroeffentlicht: [Jahre]
+ Nicht veroeffentlicht: [Jahren] — RISIKO: § 335 HGB Ordnungsgeld
 
 5. RED FLAGS
-   [Liste; Keine wenn keine vorhanden]
+ [Liste; Keine wenn keine vorhanden]
 
 6. TRANSPARENZREGISTER
-   UBO: [NAME, Nationalitaet, %-Anteil oder Fiktionswirkung]
+ UBO: [NAME, Nationalitaet, %-Anteil oder Fiktionswirkung]
 
 7. EMPFEHLUNG
-   [Ggf. Nachforschung; GwG-Enhanced Sorgfalt; Korrekte Gesellschafterliste einfordern]
+ [Ggf. Nachforschung; GwG-Enhanced Sorgfalt; Korrekte Gesellschafterliste einfordern]
 ```
 
 ## Rote Schwellen
@@ -403,7 +403,7 @@ Kanzlei-Anwendungen (Dokumentenanalyse, Rechercheassistenz): meist minimales bis
 
 ## Schritt-fuer-Schritt-Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 1. **KI-Werkzeug evaluieren** — Anbieter; Rechenzentrum; Daten-Policies; EU-KI-VO-Einordnung

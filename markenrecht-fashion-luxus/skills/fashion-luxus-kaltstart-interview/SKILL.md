@@ -1,6 +1,6 @@
 ---
 name: fashion-luxus-kaltstart-interview
-description: "Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus-Mode-Mandat beginnt, Portfolio-Inventur und Prioritaeten-Matrix sind zu erstellen. Normen: BRAO § 43a, § 32 MarkenG, Art. 32 UMV. Prüfraster: IP-Audit-Fragenkatalog (Marken, Design, Urheberrecht, Patente), Portfolio-Inventur, Verletzungs-Risiko-Matrix, laufende Verfahren. Output Mandatsprofil, IP-Inventur-Tabelle, Prioritaeten-Matrix, naechste Schritte. Abgrenzung: Detailarbeiten in Spezialskills dieses Plugins; für USPTO siehe nyc-korrespondenz-und-conflict-check."
+description: "Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus-Mode-Mandat beginnt, Portfolio-Inventur und Prioritaeten-Matrix sind zu erstellen. Normen: BRAO § 43a, § 32 MarkenG, Art. 32 UMV. Prüfraster: IP-Audit-Fragenkatalog (Marken, Design, Urheberrecht, Patente), Portfolio-Inventur, Verletzungs-Risiko-Matrix, laufende Verfahren. Output Mandatsprofil, IP-Inventur-Tabelle, Prioritaeten-Matrix, naechste Schritte. Abgrenzung: Detailarbeiten in Fachmodule dieses Plugins; für USPTO siehe nyc-korrespondenz-und-conflict-check."
 ---
 
 # Kaltstart-Interview und IP-Audit für Luxus-Modehäuser
@@ -33,101 +33,101 @@ Dieser strukturierte Fragenkatalog und die IP-Audit-Checkliste sind das Handwerk
 
 ```
 1.1 Vollständige Firmenbezeichnung (DE/EU/INT)?
-    → klôtzzkètté SA, RCS Paris / klôtzzkètté Inc. New York
+ → klôtzzkètté SA, RCS Paris / klôtzzkètté Inc. New York
 
 1.2 Gesellschaftsform und Sitz?
-    → SA (Société Anonyme) Paris; Tochter Inc. New York
+ → SA (Société Anonyme) Paris; Tochter Inc. New York
 
 1.3 Geschäftsführung / IP-Verantwortliche?
-    → Comtesse Beatrice de Klotzzkettie (CEO); Legal Counsel?
+ → Comtesse Beatrice de Klotzzkettie (CEO); Legal Counsel?
 
 1.4 Jahresumsatz (Größenklasse)?
-    → Relevant für Marktanteilsberechnung (Vertikal-GVO), Gebührenprognose
+ → Relevant für Marktanteilsberechnung (Vertikal-GVO), Gebührenprognose
 
 1.5 Hauptmärkte (Länder)?
-    → DE/FR/IT/CH/UK/US/JP → Prioritäten für IP-Schutz
+ → DE/FR/IT/CH/UK/US/JP → Prioritäten für IP-Schutz
 ```
 
 ### Abschnitt 2: Bestehende IP-Rechte
 
 ```
 2.1 Welche Marken sind eingetragen? Wo? (DE/EU/INT)
-    Bitte DPMA- und EUIPO-Registernummern, Klassen, Ablaufdaten
+ Bitte DPMA- und EUIPO-Registernummern, Klassen, Ablaufdaten
 
 2.2 Welche Marken sind angemeldet (noch nicht eingetragen)?
-    Status, Fristen, ausstehende Entscheidungen?
+ Status, Fristen, ausstehende Entscheidungen?
 
 2.3 Gibt es ältere nicht eingetragene Marken (Benutzungsmarken)?
-    Nachweise der Benutzung (§ 4 Nr. 2 MarkenG)?
+ Nachweise der Benutzung (§ 4 Nr. 2 MarkenG)?
 
 2.4 Domains / Social-Media-Handles?
-    Konsistenz mit Markenregistrierungen?
+ Konsistenz mit Markenregistrierungen?
 
 2.5 Eingetragene Designs/Geschmacksmuster (DesignG/GGM)?
-    Produktformen, Prints, Verpackungen
+ Produktformen, Prints, Verpackungen
 
 2.6 Patente / Gebrauchsmuster?
-    Produktionsverfahren, technische Innovationen
+ Produktionsverfahren, technische Innovationen
 
 2.7 Urheberrechtliche Werke?
-    Kollektionen, Werbefotos, Webseiten-Design — Urheber dokumentiert?
+ Kollektionen, Werbefotos, Webseiten-Design — Urheber dokumentiert?
 
 2.8 Know-how / Geschäftsgeheimnisse?
-    Parfumrezepturen, Webtechniken, Lieferantenlisten (GeschGehG-Schutz?)
+ Parfumrezepturen, Webtechniken, Lieferantenlisten (GeschGehG-Schutz?)
 ```
 
 ### Abschnitt 3: Lücken-Analyse
 
 ```
 3.1 Sind Schlüsselmärkte ohne Markenschutz?
-    → Prioritätenliste für Nachregistrierungen
+ → Prioritätenliste für Nachregistrierungen
 
 3.2 Gibt es Waren-/Dienstleistungsklassen ohne Abdeckung?
-    → Nizza-Klassen-Check (3/14/18/25/35/40/41/42)
+ → Nizza-Klassen-Check (3/14/18/25/35/40/41/42)
 
 3.3 Wurden Marken verlängert?
-    → Ablauf-Monitor (10 Jahre DPMA/EUIPO)
+ → Ablauf-Monitor (10 Jahre DPMA/EUIPO)
 
 3.4 Benutzungsnachweis für alle Marken vorhanden?
-    → 5-Jahres-Benutzungspflicht; Belege sammeln
+ → 5-Jahres-Benutzungspflicht; Belege sammeln
 ```
 
 ### Abschnitt 4: Verletzungen und laufende Konflikte
 
 ```
 4.1 Bekannte Markenverletzungen / Produktfälschungen?
-    → Aktuelle Fälle, bisherige Maßnahmen
+ → Aktuelle Fälle, bisherige Maßnahmen
 
 4.2 Laufende Widerspruchs-/Löschungsverfahren (DE/EU/INT)?
-    → Aktenzeichen, Fristen, Verfahrensstand
+ → Aktenzeichen, Fristen, Verfahrensstand
 
 4.3 Abmahnungen erhalten oder ausgesprochen?
-    → Dokumentation, Reaktion, Unterlassungserklärungen
+ → Dokumentation, Reaktion, Unterlassungserklärungen
 
 4.4 Plattform-Beschwerden (Donauzon, Amazon)?
-    → DSA-Meldungen, Account-Sperren
+ → DSA-Meldungen, Account-Sperren
 
 4.5 Zoll-AWA-Antrag aktiv?
-    → Welche Behörden, Gültigkeitsdauer
+ → Welche Behörden, Gültigkeitsdauer
 ```
 
 ### Abschnitt 5: Vertrieb und Verträge
 
 ```
 5.1 Selektives Vertriebssystem vorhanden?
-    → Händlerverträge vorhanden/aktuell/coty-konform?
+ → Händlerverträge vorhanden/aktuell/coty-konform?
 
 5.2 Lizenzverträge?
-    → Lizenznehmer, Territorien, Kontrolle
+ → Lizenznehmer, Territorien, Kontrolle
 
 5.3 Agenturverträge (Marketing, PR)?
-    → IP-Klauseln in Verträgen (Urheberrecht-Übertragung?)
+ → IP-Klauseln in Verträgen (Urheberrecht-Übertragung?)
 
 5.4 Designer-Arbeitsverträge?
-    → Urheberrechtsübertragung/-einräumung geregelt?
+ → Urheberrechtsübertragung/-einräumung geregelt?
 
 5.5 US-Handelsaktivitäten?
-    → klôtzzkètté Inc. NYC: USPTO-Marken, CBP-Recordation
+ → klôtzzkètté Inc. NYC: USPTO-Marken, CBP-Recordation
 ```
 
 ### Abschnitt 6: Prioritäten-Matrix (Ergebnis des Interviews)

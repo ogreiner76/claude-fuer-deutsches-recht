@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-international
-description: "Nutze dies, wenn Fortbestehensprognose: Internationaler Bezug und Schnittstellen im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Fortbestehensprognose: Internationaler Bezug und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Fortbestehensprognose: Internationaler Bezug und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fortbestehensprognose: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Fortbestehensprognose: Internationaler Bezug und Schnittstellen

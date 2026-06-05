@@ -1,13 +1,13 @@
 ---
 name: harmonisierung-migration-historisch
-description: "Nutze dies, wenn Harmonisierung Und Migration Rechtssicher, Historisch Gewachsene Altsysteme Due Diligence, Internationale Buyout Datenflows Und Datenschutz im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Harmonisierung Und Migration Rechtssicher, Historisch Gewachsene Altsysteme Due Diligence, Internationale Buyout Datenflows Und Datenschutz prüfen.; Erstelle eine Arbeitsfassung zu Harmonisierung Und Migration Rechtssicher, Historisch Gewachsene Altsysteme Due Diligence, Internationale Buyout Datenflows Und Datenschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Harmonisierung Und Migration Rechtssicher, Historisch Gewachsene Altsysteme Due Diligence, Internationale Buyout Datenflows Und Datenschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Harmonisierung Und Migration Rechtssicher, Historisch Gewachsene Altsysteme Due Diligence, Internationale Buyout Datenflows Und Datenschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Harmonisierung Und Migration Rechtssicher, Historisch Gewachsene Altsysteme Due Diligence, Internationale Buyout Datenflows Und Datenschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -124,11 +124,11 @@ Projektleitung: fachliche Leitung + Group HR Director
 Arbeitsgruppen: Recht / Aktuariat / HR-Operations / Kommunikation
 
 PHASENPLAN:
-Phase 0 — Inventory          [Monat 1 bis 6]
-Phase 1 — Konzept/Recht       [Monat 4 bis 8]
-Phase 2 — Mitbestimmung       [Monat 7 bis 15]
-Phase 3 — Implementierung     [Monat 14 bis 24]
-Phase 4 — Monitoring          [ab Monat 24, laufend]
+Phase 0 — Inventory [Monat 1 bis 6]
+Phase 1 — Konzept/Recht [Monat 4 bis 8]
+Phase 2 — Mitbestimmung [Monat 7 bis 15]
+Phase 3 — Implementierung [Monat 14 bis 24]
+Phase 4 — Monitoring [ab Monat 24, laufend]
 
 MEILENSTEINE:
 M1: Inventory vollständig — alle Versorgungswerke erfasst und bewertet
@@ -155,25 +155,25 @@ Ihre Rechte beim Systemwechsel.
 
 1. IHR BISHERIGER VERSORGUNGSANSPRUCH (ERDIENTE ANWARTSCHAFT — BESITZSTAND)
 
-   Versorgungsordnung:          [VO-Bezeichnung, Datum]
-   Eintrittsdatum:              [Datum]
-   Zusagedatum:                 [Datum]
-   Bezugsalter:                 67. Lebensjahr (Regelaltersgrenze)
-   Erwartete Vollrente:         EUR [Betrag] p.m. (ohne Indexierung)
-   Unverfallbare Anwartschaft
-   zum [Stichtag] (m/n-tel):   EUR [Betrag] p.m.
+ Versorgungsordnung: [VO-Bezeichnung, Datum]
+ Eintrittsdatum: [Datum]
+ Zusagedatum: [Datum]
+ Bezugsalter: 67. Lebensjahr (Regelaltersgrenze)
+ Erwartete Vollrente: EUR [Betrag] p.m. (ohne Indexierung)
+ Unverfallbare Anwartschaft
+ zum [Stichtag] (m/n-tel): EUR [Betrag] p.m.
 
-   Ihre erdiente Anwartschaft ist durch die Harmonisierung vollständig geschützt.
+ Ihre erdiente Anwartschaft ist durch die Harmonisierung vollständig geschützt.
 
 2. DAS NEUE VERSORGUNGSSYSTEM
 
-   Ab dem [Stichtag] gilt für neue Versorgungszuwächse (Future Service):
-   [Kurzbeschreibung neues System]
-   Ihr Beitrag (Entgeltumwandlung): EUR [Betrag] p.m.
-   Arbeitgeberzuschuss:             EUR [Betrag] p.m.
+ Ab dem [Stichtag] gilt für neue Versorgungszuwächse (Future Service):
+ [Kurzbeschreibung neues System]
+ Ihr Beitrag (Entgeltumwandlung): EUR [Betrag] p.m.
+ Arbeitgeberzuschuss: EUR [Betrag] p.m.
 
 3. WAHLRECHT (sofern angeboten)
-   Sie haben bis zum [Datum] die Wahl, ob Sie [...]
+ Sie haben bis zum [Datum] die Wahl, ob Sie [...]
 
 Für Rückfragen steht Ihnen [Name HR] zur Verfügung.
 
@@ -238,29 +238,29 @@ fachliche Leitung entwickelt für jeden Mandanten ein strukturiertes Inventory-S
 **Inventory-Dimensionen:**
 
 1. **Zusage-Ebene:**
-   - Zusagegeber (Gesellschaft, ggf. Muttergesellschaft als Schuldbeitrittspartnerin)
-   - Zusagedatum (entscheidet über anwendbare Unverfallbarkeitsfristen)
-   - Zusageart (Leistungs-, beitragsorientierte Leistungs-, Beitragszusage mit Mindestleistung)
-   - Durchführungsweg
-   - Kollektiv- oder Einzelzusage; Gesamtzusage; Betriebsvereinbarung
+ - Zusagegeber (Gesellschaft, ggf. Muttergesellschaft als Schuldbeitrittspartnerin)
+ - Zusagedatum (entscheidet über anwendbare Unverfallbarkeitsfristen)
+ - Zusageart (Leistungs-, beitragsorientierte Leistungs-, Beitragszusage mit Mindestleistung)
+ - Durchführungsweg
+ - Kollektiv- oder Einzelzusage; Gesamtzusage; Betriebsvereinbarung
 
 2. **Personenkreis:**
-   - Aktive Anwärter (mit Zusagedatum, Eintrittsdatum, Geburtsdatum)
-   - Rentner (Beginn, Leistungsart, monatliche Rente)
-   - Unverfallbar Ausgeschiedene (Berechnungsdatum, Anwartschaftshöhe)
-   - Sonderfälle: Vorstandsmitglieder, Geschäftsführer (außerhalb BetrAVG — eigenes Register)
+ - Aktive Anwärter (mit Zusagedatum, Eintrittsdatum, Geburtsdatum)
+ - Rentner (Beginn, Leistungsart, monatliche Rente)
+ - Unverfallbar Ausgeschiedene (Berechnungsdatum, Anwartschaftshöhe)
+ - Sonderfälle: Vorstandsmitglieder, Geschäftsführer (außerhalb BetrAVG — eigenes Register)
 
 3. **Leistungsarten:**
-   - Altersrente (Regelaltersrente, vorgezogene Rente)
-   - Invalidenrente (volle/teilweise Erwerbsminderung)
-   - Hinterbliebenenversorgung (Witwenrente, Waisenrente)
-   - Einmalleistungen (Kapitalabfindungen, Sterbegeld)
+ - Altersrente (Regelaltersrente, vorgezogene Rente)
+ - Invalidenrente (volle/teilweise Erwerbsminderung)
+ - Hinterbliebenenversorgung (Witwenrente, Waisenrente)
+ - Einmalleistungen (Kapitalabfindungen, Sterbegeld)
 
 4. **Besonderheiten Altzusagen (1970er/1980er):**
-   - Gesamtversorgungszusagen (Bruttolohn- oder Nettolohnabhängig) — besonders risikoreich bei Rentenreformen
-   - Dynamische Rentenformeln (endgehaltsbezogen, Karrierekurven-Berechnungen)
-   - Anrechnungsklauseln auf gesetzliche Rente: Wie werden Rentenreformen (Absenkung Rentenniveau) berücksichtigt?
-   - Vorstandsversorgungsordnungen (Dienstvertrag-basiert) — steuerliche Pensionsrückstellungen nach § 6a EStG besonders prüfen
+ - Gesamtversorgungszusagen (Bruttolohn- oder Nettolohnabhängig) — besonders risikoreich bei Rentenreformen
+ - Dynamische Rentenformeln (endgehaltsbezogen, Karrierekurven-Berechnungen)
+ - Anrechnungsklauseln auf gesetzliche Rente: Wie werden Rentenreformen (Absenkung Rentenniveau) berücksichtigt?
+ - Vorstandsversorgungsordnungen (Dienstvertrag-basiert) — steuerliche Pensionsrückstellungen nach § 6a EStG besonders prüfen
 
 ### Schritt 2: Altzusagen-Spezifika (1970er/1980er)
 
@@ -319,9 +319,9 @@ Federführung: fachliche Leitung, bAV-Projektteam
 [Tabellenstruktur:]
 Nr. | Gesellschaft | Zusagetyp | Datum | Durchführungsweg | Anwärter | Rentner | DBO-IAS19 EUR | Risikoeinstufung
 ----|-------------|-----------|-------|-----------------|---------|---------|--------------|---------------
-1   | [Gesellschaft A] | Direktzusage VO 1978 Gesamtversorgung | 1.1.1978 | Direktzusage | [X] | [X] | [X] Mio. | 4 (Hoch)
-2   | [Gesellschaft B] | Pensionskasse Branchenkonzern | 1.4.1985 | Pensionskasse | [X] | [X] | [X] Mio. | 3 (Mittel)
-3   | [Gesellschaft C] | Direktversicherung Einzelzusage FK | 1.6.1990 | Direktversicherung | [X] | — | [X] Mio. | 2 (Gering)
+1 | [Gesellschaft A] | Direktzusage VO 1978 Gesamtversorgung | 1.1.1978 | Direktzusage | [X] | [X] | [X] Mio. | 4 (Hoch)
+2 | [Gesellschaft B] | Pensionskasse Branchenkonzern | 1.4.1985 | Pensionskasse | [X] | [X] | [X] Mio. | 3 (Mittel)
+3 | [Gesellschaft C] | Direktversicherung Einzelzusage FK | 1.6.1990 | Direktversicherung | [X] | — | [X] Mio. | 2 (Gering)
 ```
 
 ### Template 2: Checkliste Altzusagen-Audit (Due Diligence)
@@ -533,8 +533,8 @@ bAV-Projektteam · fachliche Leitung
 
 Empfängerland USA:
 □ Empfänger im EU-US DPF-Register eingetragen? (www.dataprivacyframework.gov)
-  Wenn Ja: Kein SCC erforderlich; TIA trotzdem empfohlen für Gesundheitsdaten
-  Wenn Nein: EU-SCC (Standard Contractual Clauses 2021) verwenden
+ Wenn Ja: Kein SCC erforderlich; TIA trotzdem empfohlen für Gesundheitsdaten
+ Wenn Nein: EU-SCC (Standard Contractual Clauses 2021) verwenden
 □ Transfer Impact Assessment (TIA) für Gesundheitsdaten (Art. 9 DSGVO) durchgeführt?
 □ Schrems-II-Zusatzklauseln im AV-Vertrag aufgenommen?
 
@@ -545,7 +545,7 @@ Empfängerland Japan:
 
 UK:
 □ UK GDPR Angemessenheitsbeschluss gültig?
-  (Überprüfung empfohlen — Laufzeit bis Mitte 2025)
+ (Überprüfung empfohlen — Laufzeit bis Mitte 2025)
 
 Allgemein:
 □ Datenschutz-Folgenabschätzung (DSFA Art. 35 DSGVO) durchgeführt?

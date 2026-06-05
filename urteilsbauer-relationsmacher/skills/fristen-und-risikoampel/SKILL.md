@@ -1,12 +1,12 @@
 ---
 name: fristen-und-risikoampel
-description: "Nutze dies, wenn Fristen- und Risikoampel im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Bitte Fristen- und Risikoampel prüfen.; Erstelle eine Arbeitsfassung zu Fristen- und Risikoampel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fristen- und Risikoampel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill markiert für Richter/innen und Referendar/innen im Zivilprozess die zentralen Fristen und prozessualen Risiken bei der Urteilsabsetzung und Relation.
+Dieser Arbeitsmodul markiert für Richter/innen und Referendar/innen im Zivilprozess die zentralen Fristen und prozessualen Risiken bei der Urteilsabsetzung und Relation.
 
 ## Fristen Urteilsabsetzung (Zivilprozess)
 - **Urteilsfrist § 315 ZPO:** Urteil ist binnen 3 Wochen nach Verkündung zur Geschäftsstelle zu übergeben (Aktenlauf); ohne vollständige Niederschrift kann Berufung erfolgreich rügen.
@@ -24,8 +24,8 @@ Dieser Workflow-Skill markiert für Richter/innen und Referendar/innen im Zivilp
 - **Gelb:** Kostenentscheidung ohne § 92 Abs. 2 ZPO bei nur geringer Zuvielforderung.
 - **Gelb:** Vorläufige Vollstreckbarkeit nach § 709 vs. § 711 ZPO falsch gewählt.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -35,7 +35,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard

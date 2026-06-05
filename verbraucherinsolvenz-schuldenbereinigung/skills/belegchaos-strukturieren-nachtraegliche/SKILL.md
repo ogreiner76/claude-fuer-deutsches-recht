@@ -1,19 +1,19 @@
 ---
 name: belegchaos-strukturieren-nachtraegliche
-description: "Nutze dies, wenn Verbraucherinsolvenz Belegchaos Strukturieren, Verbraucherinsolvenz Nachtraegliche Glaeubiger, Verbraucherinsolvenz Pfaendungsschutzkonto im Plugin Verbraucherinsolvenz Schuldenbereinigung konkret bearbeitet werden soll. Auslöser: Bitte Verbraucherinsolvenz Belegchaos Strukturieren, Verbraucherinsolvenz Nachtraegliche Glaeubiger, Verbraucherinsolvenz Pfaendungsschutzkonto prüfen.; Erstelle eine Arbeitsfassung zu Verbraucherinsolvenz Belegchaos Strukturieren, Verbraucherinsolvenz Nachtraegliche Glaeubiger, Verbraucherinsolvenz Pfaendungsschutzkonto.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verbraucherinsolvenz Belegchaos Strukturieren, Verbraucherinsolvenz Nachtraegliche Glaeubiger, Verbraucherinsolvenz Pfaendungsschutzkonto: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verbraucherinsolvenz Belegchaos Strukturieren, Verbraucherinsolvenz Nachtraegliche Glaeubiger, Verbraucherinsolvenz Pfaendungsschutzkonto
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verbraucherinsolvenz Belegchaos Strukturieren, Verbraucherinsolvenz Nachtraegliche Glaeubiger, Verbraucherinsolvenz Pfaendungsschutzkonto** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `verbraucherinsolvenz-belegchaos-strukturieren` | Schuldnerberatungsstelle: Strukturierung des Belegchaos. Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Schuldners in eine geordnete Glaeubiger- und Forderungsliste ueberfuehren. Liefert Workflow Checkliste und Vorlagenstruktur. |
+| `verbraucherinsolvenz-belegchaos-strukturieren` | Schuldnerberatungsstelle: Strukturierung des Belegchaos. Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Schuldners in eine geordnete Glaeubiger- und Forderungsliste ueberfuehren. Liefert Checkliste und Vorlagenstruktur. |
 | `verbraucherinsolvenz-nachtraegliche-glaeubiger` | Verbraucherinsolvenz: Nachtraegliche Glaeubiger nach Restschuldbefreiung. Skill klaert ob nicht angemeldete Glaeubiger nach Erteilung der Restschuldbefreiung noch Anspruch geltend machen koennen § 301 InsO und Ausnahmen § 302 InsO. Liefert Pruefraster. |
 | `verbraucherinsolvenz-pfaendungsschutzkonto` | Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto. Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrung sowie Wechselwirkung mit Insolvenzverfahren. Liefert Pruefraster. |
 
@@ -26,7 +26,7 @@ Für **Verbraucherinsolvenz Belegchaos Strukturieren, Verbraucherinsolvenz Nacht
 
 ## 1. `verbraucherinsolvenz-belegchaos-strukturieren`
 
-**Fokus:** Schuldnerberatungsstelle: Strukturierung des Belegchaos. Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Schuldners in eine geordnete Glaeubiger- und Forderungsliste ueberfuehren. Liefert Workflow Checkliste und Vorlagenstruktur.
+**Fokus:** Schuldnerberatungsstelle: Strukturierung des Belegchaos. Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Schuldners in eine geordnete Glaeubiger- und Forderungsliste ueberfuehren. Liefert Checkliste und Vorlagenstruktur.
 
 # Verbraucherinsolvenz Belegchaos Strukturieren
 

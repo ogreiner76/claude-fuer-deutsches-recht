@@ -1,6 +1,6 @@
 ---
 name: rom-033-ungerechtfertigte-bereicherung
-description: "Römisches Recht: Ungerechtfertigte Bereicherung Condictiones. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Ungerechtfertigte Bereicherung Condictiones. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Ungerechtfertigte Bereicherung Condictiones

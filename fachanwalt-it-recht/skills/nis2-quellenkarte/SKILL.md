@@ -1,6 +1,6 @@
 ---
 name: nis2-quellenkarte
-description: "Nutze dies, wenn Nis2 Quellenkarte im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Nis2 Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Nis2 Quellenkarte

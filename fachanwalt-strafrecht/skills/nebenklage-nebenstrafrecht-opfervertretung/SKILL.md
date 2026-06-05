@@ -1,13 +1,13 @@
 ---
 name: nebenklage-nebenstrafrecht-opfervertretung
-description: "Nutze dies, wenn Spezial Nebenklage Compliance Dokumentation Und Akte, Spezial Nebenstrafrecht Behörden Gericht Und Registerweg, Spezial Opfervertretung Mehrparteien Konflikt Und Interessen, Spezial Revision Zahlen Schwellen Und Berechnung, Spezial Stgb Risikoampel Und Gegenargumente im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Nebenklage Compliance Dokumentation Und Akte, Spezial Nebenstrafrecht Behörden Gericht Und Registerweg, Spezial Opfervertretung Mehrparteien Konflikt Und Interessen, Spezial Revision Zahlen Schwellen Und Berechnung, Spezial Stgb Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Nebenklage Compliance Dokumentation Und Akte, Spezial Nebenstrafrecht Behörden Gericht Und Registerweg, Spezial Opfervertretung Mehrparteien Konflikt Und Interessen, Spezial Revision Zahlen Schwellen Und Berechnung, Spezial Stgb Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nebenklage Compliance Dokumentation Und Akte, Nebenstrafrecht Behörden Gericht Und Registerweg, Opfervertretung Mehrparteien Konflikt Und Interessen, Revision Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Nebenklage Compliance Dokumentation Und Akte, Spezial Nebenstrafrecht Behörden Gericht Und Registerweg, Spezial Opfervertretung Mehrparteien Konflikt Und Interessen, Spezial Revision Zahlen Schwellen Und Berechnung, Spezial Stgb Risikoampel Und Gegenargumente
+# Nebenklage Compliance Dokumentation Und Akte, Nebenstrafrecht Behörden Gericht Und Registerweg, Opfervertretung Mehrparteien Konflikt Und Interessen, Revision Zahlen Schwellen Und Berechnung, Stgb Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nebenklage Compliance Dokumentation Und Akte, Nebenstrafrecht Behörden Gericht Und Registerweg, Opfervertretung Mehrparteien Konflikt Und Interessen, Revision Zahlen Schwellen Und Berechnung, Stgb Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Nebenklage Compliance Dokumentation Und Akte, Spezial Nebenstrafrecht Behörden Gericht Und Registerweg, Spezial Opfervertretung Mehrparteien Konflikt Und Interessen, Spezial Revision Zahlen Schwellen Und Berechnung, Spezial Stgb Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nebenklage Compliance Dokumentation Und Akte, Nebenstrafrecht Behörden Gericht Und Registerweg, Opfervertretung Mehrparteien Konflikt Und Interessen, Revision Zahlen Schwellen Und Berechnung, Stgb Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Nebenklage Compliance Dokumentation Und Akte, Spezial Nebenstrafr
 # Nebenklage: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Nebenklage: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Nebenklage: Compliance-Dokumentation und Aktenvermerk / spezial nebenklage compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Nebenklage: Compliance-Dokumentation und Aktenvermerk / nebenklage compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg / spezial nebenstrafrecht behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg / nebenstrafrecht behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -115,7 +115,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Opfervertretung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Opfervertretung: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Opfervertretung: Mehrparteienkonflikt und Interessenmatrix / spezial opfervertretung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Opfervertretung: Mehrparteienkonflikt und Interessenmatrix / opfervertretung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -156,7 +156,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Revision: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Revision: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Revision: Zahlen, Schwellenwerte und Berechnung / spezial revision zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Revision: Zahlen, Schwellenwerte und Berechnung / revision zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, LG, GVG, OLG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -197,7 +197,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Stgb: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Stgb: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Stgb: Risikoampel, Gegenargumente und Verteidigungslinien / spezial stgb risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Stgb: Risikoampel, Gegenargumente und Verteidigungslinien / stgb risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -233,21 +233,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## StGB-Risikoampel / Gegenargumente Bausteine
 - **Pruefungsstruktur jedes Tatbestands** (objektiver / subjektiver TB / Rechtswidrigkeit / Schuld):
-  - **Objektiver Tatbestand:** Erfolg, Handlung, Kausalitaet (Aequivalenztheorie / objektive Zurechnung), Tatobjekt, ggf. Taeterqualifikation (Sonderdelikt).
-  - **Subjektiver Tatbestand:** Vorsatz (§ 15 StGB - dolus directus 1./2./eventualis); Tatbestandsirrtum § 16 StGB; ggf. besondere Absichtsmerkmale.
-  - **Rechtswidrigkeit:** Rechtfertigungsgruende - § 32 (Notwehr), § 34 (Notstand), § 228 BGB / § 229 BGB Selbsthilfe, mutmasse Einwilligung.
-  - **Schuld:** Schuldfaehigkeit § 19/20 StGB; Verbotsirrtum § 17 StGB; entschuldigender Notstand § 35 StGB; Schulduebernahmehandlung.
+ - **Objektiver Tatbestand:** Erfolg, Handlung, Kausalitaet (Aequivalenztheorie / objektive Zurechnung), Tatobjekt, ggf. Taeterqualifikation (Sonderdelikt).
+ - **Subjektiver Tatbestand:** Vorsatz (§ 15 StGB - dolus directus 1./2./eventualis); Tatbestandsirrtum § 16 StGB; ggf. besondere Absichtsmerkmale.
+ - **Rechtswidrigkeit:** Rechtfertigungsgruende - § 32 (Notwehr), § 34 (Notstand), § 228 BGB / § 229 BGB Selbsthilfe, mutmasse Einwilligung.
+ - **Schuld:** Schuldfaehigkeit § 19/20 StGB; Verbotsirrtum § 17 StGB; entschuldigender Notstand § 35 StGB; Schulduebernahmehandlung.
 - **Verteidigungslinien:**
-  - **Schuldspruch-Verteidigung:** Tatbestand nicht erfuellt (Vollendung vs. Versuch; Tatobjekt-/Zurechnungsproblem); Rechtswidrigkeit (Notwehr, Notstand); Schuld (§§ 20, 21 StGB, Verbotsirrtum).
-  - **Strafmilderung:** § 49 StGB-Verschiebung; Regelbeispiel-Wiederlegung; minderschwerer Fall (z. B. § 213 StGB).
-  - **Verfahrenseinstellung:** §§ 153, 153a StPO; § 154 StPO (Teil-Einstellung); § 170 II StPO.
-  - **TOA § 46a StGB:** Strafmilderung oder Absehen von Strafe.
+ - **Schuldspruch-Verteidigung:** Tatbestand nicht erfuellt (Vollendung vs. Versuch; Tatobjekt-/Zurechnungsproblem); Rechtswidrigkeit (Notwehr, Notstand); Schuld (§§ 20, 21 StGB, Verbotsirrtum).
+ - **Strafmilderung:** § 49 StGB-Verschiebung; Regelbeispiel-Wiederlegung; minderschwerer Fall (z. B. § 213 StGB).
+ - **Verfahrenseinstellung:** §§ 153, 153a StPO; § 154 StPO (Teil-Einstellung); § 170 II StPO.
+ - **TOA § 46a StGB:** Strafmilderung oder Absehen von Strafe.
 - **Risikoampel-Triage:**
-  - **Rot:** Verbrechen mit Mindeststrafe; Beweislage erdrueckend; Vorstrafenlage; Untersuchungshaftrisiko.
-  - **Gelb:** Beweislage uneindeutig; Strafrahmen mittlere Bandbreite; Bewaehrungsfaehigkeit moeglich.
-  - **Gruen:** Einstellung absehbar; Tat geringfuegig; Erfolg dokumentiert (TOA, Wiedergutmachung).
+ - **Rot:** Verbrechen mit Mindeststrafe; Beweislage erdrueckend; Vorstrafenlage; Untersuchungshaftrisiko.
+ - **Gelb:** Beweislage uneindeutig; Strafrahmen mittlere Bandbreite; Bewaehrungsfaehigkeit moeglich.
+ - **Gruen:** Einstellung absehbar; Tat geringfuegig; Erfolg dokumentiert (TOA, Wiedergutmachung).
 - **Gegenargumente staendiger Praxis:**
-  - "Tatzeuge eindeutig" -> Aussagepsychologische Pruefung; Erinnerungsverlust; Beeinflussung.
-  - "Gestaendnis am Tatort" -> Schweigerecht § 136 StPO; Belehrungsmangel; Beweisverwertungsverbot.
-  - "DNA / Fingerabdruck" -> Untersuchung Probekette / Asservatenhandhabung; Sekundärtransfer.
-  - "Bestaetigte Identitaet" -> Lichtbildvergleich; Aehnlichkeitsfehler bei Zwillingen / Familien.
+ - "Tatzeuge eindeutig" -> Aussagepsychologische Pruefung; Erinnerungsverlust; Beeinflussung.
+ - "Gestaendnis am Tatort" -> Schweigerecht § 136 StPO; Belehrungsmangel; Beweisverwertungsverbot.
+ - "DNA / Fingerabdruck" -> Untersuchung Probekette / Asservatenhandhabung; Sekundärtransfer.
+ - "Bestaetigte Identitaet" -> Lichtbildvergleich; Aehnlichkeitsfehler bei Zwillingen / Familien.

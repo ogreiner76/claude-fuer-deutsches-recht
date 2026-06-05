@@ -1,13 +1,13 @@
 ---
 name: owi-baurecht-owi-strassenverkehr-owi-owi
-description: "Nutze dies, wenn Owi 080 Baurecht Mandantenbrief Schreiben, Owi 081 Strassenverkehr Tatbestand Zerlegen, Owi 083 Strassenverkehr Akteneinsicht Schreibe, Owi 084 Strassenverkehr Einspruch Begruenden im Plugin Ordnungswidrigkeitenrecht konkret bearbeitet werden soll. Auslöser: Bitte Owi 080 Baurecht Mandantenbrief Schreiben, Owi 081 Strassenverkehr Tatbestand Zerlegen, Owi 083 Strassenverkehr Akteneinsicht Schreibe, Owi 084 Strassenverkehr Einspruch Begruenden prüfen.; Erstelle eine Arbeitsfassung zu Owi 080 Baurecht Mandantenbrief Schreiben, Owi 081 Strassenverkehr Tatbestand Zerlegen, Owi 083 Strassenverkehr Akteneinsicht Schreibe, Owi 084 Strassenverkehr Einspruch Begruenden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Owi 080 Baurecht Mandantenbrief Schreiben, Owi 081 Strassenverkehr Tatbestand Zerlegen, Owi 083 Strassenverkehr Akteneinsicht Schreibe, Owi 084 Strassenverkehr Einspruch Begruenden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Owi 080 Baurecht Mandantenbrief Schreiben, Owi 081 Strassenverkehr Tatbestand Zerlegen, Owi 083 Strassenverkehr Akteneinsicht Schreibe, Owi 084 Strassenverkehr Einspruch Begruenden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Owi 080 Baurecht Mandantenbrief Schreiben, Owi 081 Strassenverkehr Tatbestand Zerlegen, Owi 083 Strassenverkehr Akteneinsicht Schreibe, Owi 084 Strassenverkehr Einspruch Begruenden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

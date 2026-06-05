@@ -1,13 +1,13 @@
 ---
 name: lease-diebstahl-totalschaden
-description: "Nutze dies, wenn Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle im Plugin Leasingrecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle prüfen.; Erstelle eine Arbeitsfassung zu Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

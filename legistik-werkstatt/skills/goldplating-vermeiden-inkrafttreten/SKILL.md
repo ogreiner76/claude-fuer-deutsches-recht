@@ -1,13 +1,13 @@
 ---
 name: goldplating-vermeiden-inkrafttreten
-description: "Nutze dies, wenn Goldplating Vermeiden, Inkrafttreten Uebergangsrecht, Legistik Auftragsaufnahme, Legw Aa Ausfuhrkontrolle Und Aussenwirtschaftsdimension im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Goldplating Vermeiden, Inkrafttreten Uebergangsrecht, Legistik Auftragsaufnahme, Legw Aa Ausfuhrkontrolle Und Aussenwirtschaftsdimension prüfen.; Erstelle eine Arbeitsfassung zu Goldplating Vermeiden, Inkrafttreten Uebergangsrecht, Legistik Auftragsaufnahme, Legw Aa Ausfuhrkontrolle Und Aussenwirtschaftsdimension.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Goldplating Vermeiden, Inkrafttreten Uebergangsrecht, Legistik Auftragsaufnahme, Legw Aa Ausfuhrkontrolle Und Aussenwirtschaftsdimension: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Goldplating Vermeiden, Inkrafttreten Uebergangsrecht, Legistik Auftragsaufnahme, Legw Aa Ausfuhrkontrolle Und Aussenwirtschaftsdimension
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -367,16 +367,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Ausfuhrkontrolle und Aussenwirtschaftsdimension
-Ressort:            AA
-Kernnormen:         AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.
-Akteure/Aufsicht:   BAFA; AA Politische Abteilung; BMWE.
-EU/Voelkerrecht:    Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Ausfuhrkontrolle und Aussenwirtschaftsdimension
+Ressort: AA
+Kernnormen: AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.
+Akteure/Aufsicht: BAFA; AA Politische Abteilung; BMWE.
+EU/Voelkerrecht: Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-aa; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

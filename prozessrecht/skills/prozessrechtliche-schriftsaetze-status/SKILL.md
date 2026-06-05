@@ -1,13 +1,13 @@
 ---
 name: prozessrechtliche-schriftsaetze-status
-description: "Nutze dies, wenn Spezial Prozessrechtliche Erstpruefung Und Mandatsziel, Spezial Schriftsaetze Schriftsatz Brief Und Memo Bausteine, Spezial Status Internationaler Bezug Und Schnittstellen im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Prozessrechtliche Erstpruefung Und Mandatsziel, Spezial Schriftsaetze Schriftsatz Brief Und Memo Bausteine, Spezial Status Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Prozessrechtliche Erstpruefung Und Mandatsziel, Spezial Schriftsaetze Schriftsatz Brief Und Memo Bausteine, Spezial Status Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prozessrechtliche Erstpruefung Und Mandatsziel, Schriftsaetze Schriftsatz Brief Und Memo Bausteine, Status Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Prozessrechtliche Erstpruefung Und Mandatsziel, Spezial Schriftsaetze Schriftsatz Brief Und Memo Bausteine, Spezial Status Internationaler Bezug Und Schnittstellen
+# Prozessrechtliche Erstpruefung Und Mandatsziel, Schriftsaetze Schriftsatz Brief Und Memo Bausteine, Status Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prozessrechtliche Erstpruefung Und Mandatsziel, Schriftsaetze Schriftsatz Brief Und Memo Bausteine, Status Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Prozessrechtliche Erstpruefung Und Mandatsziel, Spezial Schriftsaetze Schriftsatz Brief Und Memo Bausteine, Spezial Status Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `prozessrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Prozessrechtliche Erstpruefung Und Mandatsziel, Schriftsaetze Schriftsatz Brief Und Memo Bausteine, Status Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `prozessrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Prozessrechtliche Erstpruefung Und Mandatsziel, Spezial Schriftsa
 # Prozessrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Prozessrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Prozessrechtliche: Erstprüfung, Rollenklärung und Mandatsziel / spezial prozessrechtliche erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Prozessrechtliche: Erstprüfung, Rollenklärung und Mandatsziel / prozessrechtliche erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine / spezial schriftsaetze schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine / schriftsaetze schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Status: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Status: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Status: Internationaler Bezug und Schnittstellen / spezial status internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Status: Internationaler Bezug und Schnittstellen / status internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

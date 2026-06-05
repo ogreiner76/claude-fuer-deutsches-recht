@@ -1,13 +1,13 @@
 ---
 name: verlagsredaktion-international-urheber
-description: "Nutze dies, wenn Spezial Verlagsredaktion International Schnittstellen, Urheber Abmahnung Prüfen, Urhmr Deepfake Persoenlichkeitsrecht Spezial im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Verlagsredaktion International Schnittstellen, Urheber Abmahnung Prüfen, Urhmr Deepfake Persoenlichkeitsrecht Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verlagsredaktion International Schnittstellen, Urheber Abmahnung Prüfen, Urhmr Deepfake Persoenlichkeitsrecht Spezial
+# Verlagsredaktion International Schnittstellen, Urheber Abmahnung Prüfen, Urhmr Deepfake Persoenlichkeitsrecht Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verlagsredaktion International Schnittstellen, Urheber Abmahnung Prüfen, Urhmr Deepfake Persoenlichkeitsrecht Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verlagsredaktion International Schnittstellen, Urheber Abmahnung Prüfen, Urhmr Deepfake Persoenlichkeitsrecht Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verlagsredaktion International Schnittstellen, Urheber Abmahnung Prüfen, Urhmr Deepfake Persoenlichkeitsrecht Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Verlagsredaktion International Schnittstellen, Urheber Abmahnung 
 # Verlagsredaktion: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Verlagsredaktion: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Verlagsredaktion: Internationaler Bezug und Schnittstellen / spezial verlagsredaktion international schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verlagsredaktion: Internationaler Bezug und Schnittstellen / verlagsredaktion international schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -189,11 +189,11 @@ ohne Einwilligung der Rechteinhaberin zu vervielfältigen
 
 Diese Erklärung:
 1. gilt ausschließlich für die benannte konkrete Verletzungsform
-   und kerngleiche Handlungen
+ und kerngleiche Handlungen
 2. enthält kein Anerkenntnis bzgl. Schadensersatz, Auskunft
-   oder Kostenforderungen
+ oder Kostenforderungen
 3. begrenzt die Kostenforderung auf § 97a Abs. 3 UrhG soweit
-   der Mandant als Verbraucher ohne gewerbliche Tätigkeit gehandelt hat
+ der Mandant als Verbraucher ohne gewerbliche Tätigkeit gehandelt hat
 
 [Datum]
 [Unterschrift Mandant]

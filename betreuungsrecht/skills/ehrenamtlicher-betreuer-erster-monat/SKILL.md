@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-betreuer-erster-monat
-description: "Start-Workflow für ehrenamtliche und familiäre Betreuer in den ersten 30 Tagen: Bestellungsbeschluss verstehen, Aufgabenkreise lesen, Betreuungsgericht kontaktieren, Betreuungsverein/Behörde anbinden, Vermögens- und Gesundheitsunterlagen sichern, Fristenkalender anlegen und Überforderung vermeiden."
+description: "Nutze dies bei Ehrenamtlicher Betreuer: erster Monat: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Ehrenamtlicher Betreuer: erster Monat
@@ -9,7 +9,7 @@ description: "Start-Workflow für ehrenamtliche und familiäre Betreuer in den e
 
 Dieser Skill führt nicht berufliche Betreuer Schritt für Schritt durch die ersten vier Wochen nach Bestellung. Er arbeitet beruhigend, praktisch und gerichtstauglich: Was muss sofort passieren, was darf warten, was darf der Betreuer überhaupt, und wann wird Hilfe geholt?
 
-## Kaltstart
+## Einstieg
 
 Frage nur diese Punkte ab:
 
@@ -27,7 +27,7 @@ Frage nur diese Punkte ab:
 - Bestellungsurkunde als Arbeitsdokument sichern; nur vorzeigen, nicht unnötig kopieren lassen.
 - Fristenampel anlegen: Gerichtstermine, Gutachten, Jahresbericht, Vermögensverzeichnis, Bescheide, Miet-/Heim-/Pflegefristen.
 - Die betreute Person sprechen, sofern möglich: Was will sie? Was soll auf keinen Fall passieren?
-- Bei Gefahr für Gesundheit, Wohnung, Konto oder Pflege sofort passende Spezial-Skills routen.
+- Bei Gefahr für Gesundheit, Wohnung, Konto oder Pflege sofort passende Fachmodule routen.
 
 ### Woche 1: Hilfe-System aktivieren
 

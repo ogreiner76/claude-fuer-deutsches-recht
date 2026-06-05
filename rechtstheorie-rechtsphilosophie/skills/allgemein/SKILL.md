@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Workflow-Routing fuer rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl."
+description: "Einstieg und Fallrouting fuer rechtstheoretische und rechtsphilosophische Fragen: Rechtsbegriff, Methode, Abwaegung, Demokratie, Moral, Sprache, Machtkritik und Outputwahl."
 ---
 
 # Allgemeiner Einstieg
@@ -29,7 +29,7 @@ Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in 
 
 1. Ordne die Frage einem Theoriecluster zu.
 2. Kläre, ob die Theorie eine praktische Rechtsfrage löst oder nur den Hintergrund erklärt.
-3. Schlage zwei bis fünf Spezialskills vor.
+3. Schlage zwei bis fünf Fachmodule vor.
 4. Liefere eine knappe Arbeitskarte.
 
 ## Qualitätsregeln

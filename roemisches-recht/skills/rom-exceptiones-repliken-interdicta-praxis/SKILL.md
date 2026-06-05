@@ -1,13 +1,13 @@
 ---
 name: rom-exceptiones-repliken-interdicta-praxis
-description: "Nutze dies, wenn Rom 050 Exceptiones Und Repliken, Rom 051 Interdicta Praxis, Rom 052 Erbrecht Testament, Rom 053 Intestaterbfolge, Rom 054 Legat Und Fideikommiss und 3 weitere Themen im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Rom 050 Exceptiones Und Repliken, Rom 051 Interdicta Praxis, Rom 052 Erbrecht Testament, Rom 053 Intestaterbfolge, Rom 054 Legat Und Fideikommiss und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Rom 050 Exceptiones Und Repliken, Rom 051 Interdicta Praxis, Rom 052 Erbrecht Testament, Rom 053 Intestaterbfolge, Rom 054 Legat Und Fideikommiss und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rom 050 Exceptiones Und Repliken, Rom 051 Interdicta Praxis, Rom 052 Erbrecht Testament, Rom 053 Intestaterbfolge: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rom 050 Exceptiones Und Repliken, Rom 051 Interdicta Praxis, Rom 052 Erbrecht Testament, Rom 053 Intestaterbfolge, Rom 054 Legat Und Fideikommiss und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rom 050 Exceptiones Und Repliken, Rom 051 Interdicta Praxis, Rom 052 Erbrecht Testament, Rom 053 Intestaterbfolge, Rom 054 Legat Und Fideikommiss und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

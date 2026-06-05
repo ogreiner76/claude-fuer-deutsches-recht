@@ -1,13 +1,13 @@
 ---
 name: nebentaetigkeit-genehmigung-pension
-description: "Nutze dies, wenn Nebentaetigkeit Genehmigung Und Untersagung, Pension Und Gesetzliche Rente 55 Beamtvg, Pensionierung Gesamtcheck Ruhegehalt Beihilfe Pkv im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Nebentaetigkeit Genehmigung Und Untersagung, Pension Und Gesetzliche Rente 55 Beamtvg, Pensionierung Gesamtcheck Ruhegehalt Beihilfe Pkv prüfen.; Erstelle eine Arbeitsfassung zu Nebentaetigkeit Genehmigung Und Untersagung, Pension Und Gesetzliche Rente 55 Beamtvg, Pensionierung Gesamtcheck Ruhegehalt Beihilfe Pkv.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nebentaetigkeit Genehmigung Und Untersagung, Pension Und Gesetzliche Rente 55 Beamtvg, Pensionierung Gesamtcheck Ruhegehalt Beihilfe Pkv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nebentaetigkeit Genehmigung Und Untersagung, Pension Und Gesetzliche Rente 55 Beamtvg, Pensionierung Gesamtcheck Ruhegehalt Beihilfe Pkv
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

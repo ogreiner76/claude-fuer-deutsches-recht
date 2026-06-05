@@ -1,13 +1,13 @@
 ---
 name: legw-bmftr-kuenstliche-raumfahrt
-description: "Nutze dies, wenn Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation, Legw Bmg Infektionsschutz Und Pandemierecht und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation, Legw Bmg Infektionsschutz Und Pandemierecht und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation, Legw Bmg Infektionsschutz Und Pandemierecht und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation, Legw Bmg Infektionsschutz Und Pandemierecht und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation, Legw Bmg Infektionsschutz Und Pandemierecht und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,16 +87,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Kuenstliche Intelligenz und Technikregulierung
-Ressort:            BMFTR
-Kernnormen:         KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.
-Akteure/Aufsicht:   BSI; Marktueberwachung der Laender; BNetzA; ggf. KI-Marktaufsicht.
-EU/Voelkerrecht:    KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmftr; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Kuenstliche Intelligenz und Technikregulierung
+Ressort: BMFTR
+Kernnormen: KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.
+Akteure/Aufsicht: BSI; Marktueberwachung der Laender; BNetzA; ggf. KI-Marktaufsicht.
+EU/Voelkerrecht: KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -169,16 +169,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Raumfahrt- und Weltraumrecht
-Ressort:            BMFTR
-Kernnormen:         WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.
-Akteure/Aufsicht:   BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.
-EU/Voelkerrecht:    EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmftr; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Raumfahrt- und Weltraumrecht
+Ressort: BMFTR
+Kernnormen: WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.
+Akteure/Aufsicht: BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.
+EU/Voelkerrecht: EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -251,16 +251,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Arzneimittel- und Medizinprodukterecht
-Ressort:            BMG
-Kernnormen:         AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.
-Akteure/Aufsicht:   BfArM; PEI; G-BA; DIMDI/BfArM; Laender-Aufsichten.
-EU/Voelkerrecht:    VO 726/2004; MDR; IVDR; EMA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmg; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Arzneimittel- und Medizinprodukterecht
+Ressort: BMG
+Kernnormen: AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.
+Akteure/Aufsicht: BfArM; PEI; G-BA; DIMDI/BfArM; Laender-Aufsichten.
+EU/Voelkerrecht: VO 726/2004; MDR; IVDR; EMA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -333,16 +333,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Berufsrecht der Heilberufe und Approbation
-Ressort:            BMG
-Kernnormen:         BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO.
-Akteure/Aufsicht:   Approbationsbehoerden der Laender; Aerzte- und Zahnaerztekammern; BMG.
-EU/Voelkerrecht:    Berufsanerkennungs-RL; EU-Patientenrechte.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmg; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Berufsrecht der Heilberufe und Approbation
+Ressort: BMG
+Kernnormen: BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO.
+Akteure/Aufsicht: Approbationsbehoerden der Laender; Aerzte- und Zahnaerztekammern; BMG.
+EU/Voelkerrecht: Berufsanerkennungs-RL; EU-Patientenrechte.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -415,16 +415,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Infektionsschutz und Pandemierecht
-Ressort:            BMG
-Kernnormen:         IfSG; IGV-AusfG; ImpfschadenAnerkennung; SGB V (Tests und Impfen).
-Akteure/Aufsicht:   RKI; PEI; BMG; Laender-Gesundheitsbehoerden; Gesundheitsaemter; STIKO.
-EU/Voelkerrecht:    ECDC; HERA; EU-Health Union; IGV der WHO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmg; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Infektionsschutz und Pandemierecht
+Ressort: BMG
+Kernnormen: IfSG; IGV-AusfG; ImpfschadenAnerkennung; SGB V (Tests und Impfen).
+Akteure/Aufsicht: RKI; PEI; BMG; Laender-Gesundheitsbehoerden; Gesundheitsaemter; STIKO.
+EU/Voelkerrecht: ECDC; HERA; EU-Health Union; IGV der WHO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -497,16 +497,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Krankenhaus- und Versorgungsstrukturrecht
-Ressort:            BMG
-Kernnormen:         KHG; KHEntgG; BPflV; KHGes der Laender; KHVVG (Krankenhausreform).
-Akteure/Aufsicht:   BMG; G-BA; InEK; Laender (Krankenhausplanung); KVen.
-EU/Voelkerrecht:    EU-Beihilferecht; HTA-VO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmg; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Krankenhaus- und Versorgungsstrukturrecht
+Ressort: BMG
+Kernnormen: KHG; KHEntgG; BPflV; KHGes der Laender; KHVVG (Krankenhausreform).
+Akteure/Aufsicht: BMG; G-BA; InEK; Laender (Krankenhausplanung); KVen.
+EU/Voelkerrecht: EU-Beihilferecht; HTA-VO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -579,16 +579,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Krankenversicherungs- und Leistungsrecht (SGB V)
-Ressort:            BMG
-Kernnormen:         SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.
-Akteure/Aufsicht:   GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.
-EU/Voelkerrecht:    EU-Patientenrechte-RL; HTA-VO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmg; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Krankenversicherungs- und Leistungsrecht (SGB V)
+Ressort: BMG
+Kernnormen: SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.
+Akteure/Aufsicht: GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.
+EU/Voelkerrecht: EU-Patientenrechte-RL; HTA-VO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -661,16 +661,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Auslaender- und Staatsangehoerigkeitsrecht
-Ressort:            BMI
-Kernnormen:         AufenthG; AsylG; StAG; FreizuegG/EU; AZRG; AsylbLG (mit BMAS).
-Akteure/Aufsicht:   BAMF; Auslaenderbehoerden; Bundespolizei.
-EU/Voelkerrecht:    GEAS; Dublin-VO; Rueckfuehrungs-RL; Visa-Kodex; Schengen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmi; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Auslaender- und Staatsangehoerigkeitsrecht
+Ressort: BMI
+Kernnormen: AufenthG; AsylG; StAG; FreizuegG/EU; AZRG; AsylbLG (mit BMAS).
+Akteure/Aufsicht: BAMF; Auslaenderbehoerden; Bundespolizei.
+EU/Voelkerrecht: GEAS; Dublin-VO; Rueckfuehrungs-RL; Visa-Kodex; Schengen.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmi; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

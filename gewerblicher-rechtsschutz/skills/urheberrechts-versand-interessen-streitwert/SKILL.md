@@ -1,13 +1,13 @@
 ---
 name: urheberrechts-versand-interessen-streitwert
-description: "Nutze dies, wenn Spezial Urheberrechts Zahlen Schwellen Und Berechnung, Spezial Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Urheberrechts Zahlen Schwellen Und Berechnung, Spezial Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Urheberrechts Zahlen Schwellen Und Berechnung, Spezial Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Urheberrechts Zahlen Schwellen Und Berechnung, Spezial Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen
+# Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Urheberrechts Zahlen Schwellen Und Berechnung, Spezial Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -249,9 +249,9 @@ Mandatsbezug: Lizenzgeber und Lizenznehmer streiten über Verletzung durch Dritt
 - Verschwiegenheitspflicht (§ 43a BRAO): Informationen aus dem Mandat dürfen nicht gegen Mandanten verwendet werden.
 - Parallelmandate im selben Verfahren (§ 356 StGB – Parteiverrat): Strafbar.
 - Checkliste bei Mandatsannahme:
-  - [ ] Steht neuer Mandant in einem IP-Streit mit bestehendem Mandant?
-  - [ ] Hat Kanzlei vertrauliche Informationen der Gegenseite?
-  - [ ] Bestehen persönliche oder geschäftliche Beziehungen der Anwälte zur Gegenseite?
+ - [ ] Steht neuer Mandant in einem IP-Streit mit bestehendem Mandant?
+ - [ ] Hat Kanzlei vertrauliche Informationen der Gegenseite?
+ - [ ] Bestehen persönliche oder geschäftliche Beziehungen der Anwälte zur Gegenseite?
 
 ## Koordination bei Mehrparteienkonstellationen
 

@@ -1,22 +1,22 @@
 ---
 name: bag-equal-mindesturlaub-kein-betriebsrat
-description: "Nutze dies, wenn Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich prüfen.; Erstelle eine Arbeitsfassung zu Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bag Equal Pay Paarvergleich 8azr30024, Bag Mindesturlaub Kein Verzicht 9azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9Azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `bag-equal-pay-paarvergleich-8azr30024` | Workflow-Skill zu bag equal pay paarvergleich 8azr30024. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `bag-mindesturlaub-kein-verzicht-9azr10424` | Workflow-Skill zu bag mindesturlaub kein verzicht 9azr10424. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `bag-equal-pay-paarvergleich-8azr30024` | Arbeitsmodul zu bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `bag-mindesturlaub-kein-verzicht-9azr10424` | Arbeitsmodul zu bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `betriebsrat-anhoerung` | Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach § 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein Anhörungsschreiben erstellt werden soll. |
-| `betriebsrat-beschluss-heilung-nachtraeglich` | Workflow-Skill zu betriebsrat beschluss heilung nachtraeglich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `betriebsrat-beschluss-heilung-nachtraeglich` | Arbeitsmodul zu betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9A
 
 ## 1. `bag-equal-pay-paarvergleich-8azr30024`
 
-**Fokus:** Workflow-Skill zu bag equal pay paarvergleich 8azr30024. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu bag equal pay paarvergleich 8azr30024: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -42,7 +42,7 @@ Für **Bag Equal Pay Paarvergleich 8Azr30024, Bag Mindesturlaub Kein Verzicht 9A
 
 ## Worum es geht
 
-Dieser Skill ist ein Live-Research-Workflow für Equal-Pay-Fälle mit Paarvergleich. Er darf eine konkrete BAG-Entscheidung erst ausgeben, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, freie oder amtliche Quelle und tragende Aussage verifiziert sind.
+Dieser Skill ist ein Live-Research-für Equal-Pay-Fälle mit Paarvergleich. Er darf eine konkrete BAG-Entscheidung erst ausgeben, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, freie oder amtliche Quelle und tragende Aussage verifiziert sind.
 
 ## Leitentscheidung
 
@@ -104,7 +104,7 @@ In Kombination mit `agg-pruefung-bewerber-und-beschaeftigte` für die generelle 
 
 ## 2. `bag-mindesturlaub-kein-verzicht-9azr10424`
 
-**Fokus:** Workflow-Skill zu bag mindesturlaub kein verzicht 9azr10424. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu bag mindesturlaub kein verzicht 9azr10424: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 
@@ -210,17 +210,17 @@ Dieser Skill dient der Prüfung und Durchführung der Betriebsratsanhörung nach
 ### Leitentscheidungen (BGH-Stil)
 
 - **Inhalt der Anhörungsmitteilung / subjektive Determinierung:**
-  BAG, Urteil vom 27.02.1997 - 2 AZR 302/96: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; auch dem AG bekannte, fuer den AN guenstige Umstaende sind grundsaetzlich mitzuteilen. Quelle: dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96.
-  BAG, Urteil vom 05.02.1998 - 2 AZR 227/97: Praezisierung der subjektiven Determinierung; objektiv relevante Umstaende duerfen nicht zurueckgehalten werden. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 27.02.1997 - 2 AZR 302/96: Der Arbeitgeber muss dem Betriebsrat die Umstaende mitteilen, die seine Kuendigungsentscheidung tatsaechlich bestimmt haben; auch dem AG bekannte, fuer den AN guenstige Umstaende sind grundsaetzlich mitzuteilen. Quelle: dejure.org-Vernetzung BAG 27.02.1997 - 2 AZR 302/96.
+ BAG, Urteil vom 05.02.1998 - 2 AZR 227/97: Praezisierung der subjektiven Determinierung; objektiv relevante Umstaende duerfen nicht zurueckgehalten werden. Quelle: dejure.org-Vernetzung.
 
 - **Fristbeginn / Vollstaendigkeit der Unterlagen:**
-  BAG, Urteil vom 10.10.2002 - 2 AZR 472/01: Bei Nachreichung relevanter Informationen beginnt die Stellungnahmefrist neu. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 10.10.2002 - 2 AZR 472/01: Bei Nachreichung relevanter Informationen beginnt die Stellungnahmefrist neu. Quelle: dejure.org-Vernetzung.
 
 - **Widerspruch des BR / Weiterbeschaeftigung:**
-  Hier weitere Rechtsprechung zur § 102 Abs. 5 BetrVG-Weiterbeschaeftigung vor Schriftsatzverwendung in dejure.org / openjur.de / bundesarbeitsgericht.de verifizieren.
+ Hier weitere Rechtsprechung zur § 102 Abs. 5 BetrVG-Weiterbeschaeftigung vor Schriftsatzverwendung in dejure.org / openjur.de / bundesarbeitsgericht.de verifizieren.
 
 - **Nachschieben von Kuendigungsgruenden:**
-  Standardrechtsprechung: Nachschieben grundsaetzlich nur fuer Kuendigungsgruende, die im Zeitpunkt der Anhoerung bereits objektiv vorlagen und dem Arbeitgeber bekannt waren - vor Zitat konkretes BAG-Aktenzeichen in dejure.org verifizieren.
+ Standardrechtsprechung: Nachschieben grundsaetzlich nur fuer Kuendigungsgruende, die im Zeitpunkt der Anhoerung bereits objektiv vorlagen und dem Arbeitgeber bekannt waren - vor Zitat konkretes BAG-Aktenzeichen in dejure.org verifizieren.
 
 ### Quellenregel
 
@@ -334,7 +334,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 ## 4. `betriebsrat-beschluss-heilung-nachtraeglich`
 
-**Fokus:** Workflow-Skill zu betriebsrat beschluss heilung nachtraeglich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu betriebsrat beschluss heilung nachtraeglich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Betriebsratsbeschluss — Heilung nachträglich
 
@@ -354,8 +354,8 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - **§ 40 Abs. 1 BetrVG** — Kostentragungspflicht des Arbeitgebers für erforderliche Betriebsratstätigkeit (Anwaltskosten)
 - **§ 25 Abs. 2, § 29 Abs. 2, § 33 BetrVG** — Verfahrensvorschriften der Beschlussfassung
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  - Leitsatz 1: § 25 Abs. 2 BetrVG ist wesentliche Verfahrensvorschrift
-  - Leitsatz 2: Betriebsrat kann Freistellung von Anwaltskosten auch dann verlangen, wenn er einer zunächst auf einem unwirksamen Beschluss beruhenden Beauftragung durch späteren ordnungsgemäßen Beschluss zustimmt
+ - Leitsatz 1: § 25 Abs. 2 BetrVG ist wesentliche Verfahrensvorschrift
+ - Leitsatz 2: Betriebsrat kann Freistellung von Anwaltskosten auch dann verlangen, wenn er einer zunächst auf einem unwirksamen Beschluss beruhenden Beauftragung durch späteren ordnungsgemäßen Beschluss zustimmt
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -381,29 +381,29 @@ Ein Betriebsratsbeschluss, der wegen Verstoßes gegen wesentliche Verfahrensvors
 
 ```
 □ Tagesordnung der Heilungssitzung
-   → muss die zu heilende Beschlussfassung ausdrücklich benennen
-   → "Nachträgliche Genehmigung des Beschlusses vom [Datum] zur
-     Beauftragung von Rechtsanwalt [Name] in Sachen [Gegenstand]"
+ → muss die zu heilende Beschlussfassung ausdrücklich benennen
+ → "Nachträgliche Genehmigung des Beschlusses vom [Datum] zur
+ Beauftragung von Rechtsanwalt [Name] in Sachen [Gegenstand]"
 
 □ Ordnungsgemäße Ladung (§ 29 Abs. 2 BetrVG)
-   → rechtzeitig
-   → an alle ordentlichen Mitglieder und ggf. Ersatzmitglieder
-   → mit Tagesordnung
+ → rechtzeitig
+ → an alle ordentlichen Mitglieder und ggf. Ersatzmitglieder
+ → mit Tagesordnung
 
 □ Korrekte Besetzung (§ 25 Abs. 2 BetrVG)
-   → die ursprünglich fehlerhafte Besetzung darf sich nicht
-     wiederholen
-   → Nachrückreihenfolge sauber abgearbeitet
+ → die ursprünglich fehlerhafte Besetzung darf sich nicht
+ wiederholen
+ → Nachrückreihenfolge sauber abgearbeitet
 
 □ Beschlussfähigkeit (§ 33 Abs. 2 BetrVG)
-   → mehr als die Hälfte der Mitglieder anwesend
+ → mehr als die Hälfte der Mitglieder anwesend
 
 □ Beschluss mit Mehrheit der abgegebenen Stimmen
 
 □ Protokoll der Heilungssitzung
-   → ausdrückliche Bezugnahme auf den zu heilenden Beschluss
-   → Wortlaut der Genehmigung
-   → Abstimmungsergebnis dokumentiert
+ → ausdrückliche Bezugnahme auf den zu heilenden Beschluss
+ → Wortlaut der Genehmigung
+ → Abstimmungsergebnis dokumentiert
 
 □ Bekanntgabe an Arbeitgeber (bei Anwaltskostenfreistellung)
 ```

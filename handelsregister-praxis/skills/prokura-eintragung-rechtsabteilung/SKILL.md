@@ -1,21 +1,21 @@
 ---
 name: prokura-eintragung-rechtsabteilung
-description: "Nutze dies, wenn Prokura Eintragung Und Widerruf, Rechtsabteilung Geschaeftsfuehrerbestellung Mit Auslandsbezug, Rechtsabteilung Gesellschafterliste Nach Streit Und Ev im Plugin Handelsregister Praxis konkret bearbeitet werden soll. Auslöser: Bitte Prokura Eintragung Und Widerruf, Rechtsabteilung Geschaeftsfuehrerbestellung Mit Auslandsbezug, Rechtsabteilung Gesellschafterliste Nach Streit Und Ev prüfen.; Erstelle eine Arbeitsfassung zu Prokura Eintragung Und Widerruf, Rechtsabteilung Geschaeftsfuehrerbestellung Mit Auslandsbezug, Rechtsabteilung Gesellschafterliste Nach Streit Und Ev.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prokura Eintragung Und Widerruf, Rechtsabteilung Geschaeftsfuehrerbestellung Mit Auslandsbezug, Rechtsabteilung Gesellschafterliste Nach Streit Und Ev: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Prokura Eintragung Und Widerruf, Rechtsabteilung Geschaeftsfuehrerbestellung Mit Auslandsbezug, Rechtsabteilung Gesellschafterliste Nach Streit Und Ev
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prokura Eintragung Und Widerruf, Rechtsabteilung Geschaeftsfuehrerbestellung Mit Auslandsbezug, Rechtsabteilung Gesellschafterliste Nach Streit Und Ev** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `prokura-eintragung-und-widerruf` | Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster. |
-| `rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug` | Rechtsabteilungs-Spezialskill für Geschäftsführerbestellung mit Auslandsbezug: Identität, Versicherung, Unterschrift und Übersetzung werden sauber vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-gesellschafterliste-nach-streit-und-ev` | Rechtsabteilungs-Spezialskill für Gesellschafterliste nach Streit und EV: Rechtsabteilungen bauen registertaugliche Listenpakete und Widerspruchsstrategien. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug` | Rechtsabteilungs-Fachmodul für Geschäftsführerbestellung mit Auslandsbezug: Identität, Versicherung, Unterschrift und Übersetzung werden sauber vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-gesellschafterliste-nach-streit-und-ev` | Rechtsabteilungs-Fachmodul für Gesellschafterliste nach Streit und EV: Rechtsabteilungen bauen registertaugliche Listenpakete und Widerspruchsstrategien. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -60,7 +60,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Geschäftsführerbestellung mit Auslandsbezug: Identität, Versicherung, Unterschrift und Übersetzung werden sauber vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Geschäftsführerbestellung mit Auslandsbezug: Identität, Versicherung, Unterschrift und Übersetzung werden sauber vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug
 
@@ -100,7 +100,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-gesellschafterliste-nach-streit-und-ev`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Gesellschafterliste nach Streit und EV: Rechtsabteilungen bauen registertaugliche Listenpakete und Widerspruchsstrategien. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Gesellschafterliste nach Streit und EV: Rechtsabteilungen bauen registertaugliche Listenpakete und Widerspruchsstrategien. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Gesellschafterliste nach Streit und EV
 

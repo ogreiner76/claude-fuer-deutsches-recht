@@ -1,13 +1,13 @@
 ---
 name: beistand-kirchlichen-urkunden-zeitrechnung
-description: "Nutze dies, wenn Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses prüfen.; Erstelle eine Arbeitsfassung zu Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

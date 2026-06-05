@@ -1,19 +1,19 @@
 ---
 name: gerichtsstand-rechtswahl-intwr-cisg-intwr-rom
-description: "Nutze dies, wenn Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I Ii Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `gerichtsstand-und-rechtswahl-pruefen` | Workflow-Skill zu gerichtsstand und rechtswahl pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `gerichtsstand-und-rechtswahl-pruefen` | Arbeitsmodul zu gerichtsstand und rechtswahl pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `intwr-cisg-pruefraster` | Pruefraster CISG / UN-Kaufrecht: sachlicher und persoenlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht. |
 | `intwr-rom-i-ii-leitfaden` | Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Pruefraster fuer Rechtswahl und gewoehnlicher Aufenthalt. |
 
@@ -26,7 +26,7 @@ Für **Gerichtsstand Und Rechtswahl Prüfen, Intwr Cisg Pruefraster, Intwr Rom I
 
 ## 1. `gerichtsstand-und-rechtswahl-pruefen`
 
-**Fokus:** Workflow-Skill zu gerichtsstand und rechtswahl pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu gerichtsstand und rechtswahl pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Mandantenfragen beim Kaltstart
 
@@ -108,13 +108,13 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 Gerichtsstand und anwendbares Recht
 
 1. Für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag,
-   einschließlich Streitigkeiten über dessen Gültigkeit, Auslegung oder
-   Beendigung, sind ausschließlich die Gerichte in [München/Frankfurt/Hamburg]
-   zuständig (§ 38 ZPO; Art. 25 Brüssel Ia VO).
+ einschließlich Streitigkeiten über dessen Gültigkeit, Auslegung oder
+ Beendigung, sind ausschließlich die Gerichte in [München/Frankfurt/Hamburg]
+ zuständig (§ 38 ZPO; Art. 25 Brüssel Ia VO).
 
 2. Dieser Vertrag unterliegt dem Recht der Bundesrepublik Deutschland
-   unter Ausschluss der Kollisionsnormen des Internationalen Privatrechts
-   und unter ausdrücklichem Ausschluss des UN-Kaufrechts (CISG).
+ unter Ausschluss der Kollisionsnormen des Internationalen Privatrechts
+ und unter ausdrücklichem Ausschluss des UN-Kaufrechts (CISG).
 ```
 
 ### Schiedsklausel (ICC)
@@ -140,14 +140,14 @@ Klageerwiderung – Unzuständigkeitsrüge
 Die Beklagte rügt die internationale Zuständigkeit des angerufenen Gerichts.
 
 I. Der Vertrag vom [Datum] (Anlage B1) enthält in Ziffer [X] eine wirksame
-   Schiedsvereinbarung i.S.v. § 1029 Abs. 1 ZPO zugunsten der ICC (Paris),
-   Schiedsort [Ort].
+ Schiedsvereinbarung i.S.v. § 1029 Abs. 1 ZPO zugunsten der ICC (Paris),
+ Schiedsort [Ort].
 
 II. Die Schiedsvereinbarung ist formwirksam gemäß § 1031 ZPO (unterzeichnetes
-    Vertragsdokument; alternativ per E-Mail dokumentiert Anlage B2).
+ Vertragsdokument; alternativ per E-Mail dokumentiert Anlage B2).
 
 III. Gemäß § 1032 Abs. 1 ZPO ist das staatliche Gericht auf Rüge der Beklagten
-     für unzuständig zu erklären.
+ für unzuständig zu erklären.
 
 Antrag: Das Gericht möge die Klage als unzulässig abweisen.
 ```
@@ -270,26 +270,26 @@ GERICHTSSTAND- UND RECHTSWAHLGUTACHTEN
 ======================================
 Vertrag: [BEZEICHNUNG] / [DATUM]
 Parteien:
-  Klaeger: [NAME, SITZ: EU / NICHT-EU]
-  Beklagter: [NAME, SITZ: EU / NICHT-EU]
+ Klaeger: [NAME, SITZ: EU / NICHT-EU]
+ Beklagter: [NAME, SITZ: EU / NICHT-EU]
 
 I. INTERNATIONALE ZUSTAENDIGKEIT
 ---------------------------------
 1. Gerichtsstandsklausel (Art. 25 Bruessel Ia):
-   [JA — [GERICHT, ORT] / NEIN]
+ [JA — [GERICHT, ORT] / NEIN]
 2. Beklagter in EU: [JA: Art. 4 Bruessel Ia / NEIN: nationales Recht]
 3. Besonderer Gerichtsstand (Art. 7):
-   Vertrag: Erfuellungsort = [ORT] → Gerichtsstand [GERICHT]
-   Delikt: Schadensort = [ORT] → Gerichtsstand [GERICHT]
+ Vertrag: Erfuellungsort = [ORT] → Gerichtsstand [GERICHT]
+ Delikt: Schadensort = [ORT] → Gerichtsstand [GERICHT]
 4. Empfehlung Gerichtsstand: [GERICHT, ORT]
 
 II. ANWENDBARES RECHT
 ----------------------
 1. Rechtswahl (Art. 3 Rom I):
-   [JA — [RECHTSORDNUNG] / NEIN]
+ [JA — [RECHTSORDNUNG] / NEIN]
 2. Objektive Anknuepfung (Art. 4 Rom I):
-   Charakteristische Leistung: [VERKAEUFER/DIENSTLEISTER, SITZ: LAND]
-   → Anwendbares Recht: [RECHTSORDNUNG]
+ Charakteristische Leistung: [VERKAEUFER/DIENSTLEISTER, SITZ: LAND]
+ → Anwendbares Recht: [RECHTSORDNUNG]
 3. CISG: [ANWENDBAR / AUSGESCHLOSSEN]
 4. Ergebnis: Anwendbares Recht: [RECHTSORDNUNG]
 ======================================
@@ -304,7 +304,7 @@ II. ANWENDBARES RECHT
 ## Aufgabe
 Pruefraster CISG / UN-Kaufrecht: sachlicher und persoenlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -318,10 +318,10 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 ### 1. Anwendungsbereich
 
 - **Sachlich** Art. 1-5 CISG
-  - Kaufvertraege ueber Waren zwischen Parteien mit Niederlassung in verschiedenen Staaten (Art. 1 I lit. a CISG: beide Vertragsstaaten; lit. b: Verweisung des IPR auf Recht eines Vertragsstaats).
-  - Ausnahmen Art. 2 CISG: Konsumgueterkauf, Auktion, Zwangsvollstreckung, Wertpapiere, Geld, Schiffe/Luftfahrzeuge, Strom.
-  - Werklieferungsvertrag Art. 3 CISG: erfasst, wenn nicht wesentlicher Teil aus vom Besteller zu liefernden Stoffen.
-  - Keine Anwendung auf Wirksamkeit/Vertragsschlusserforderlichkeit Art. 4 CISG.
+ - Kaufvertraege ueber Waren zwischen Parteien mit Niederlassung in verschiedenen Staaten (Art. 1 I lit. a CISG: beide Vertragsstaaten; lit. b: Verweisung des IPR auf Recht eines Vertragsstaats).
+ - Ausnahmen Art. 2 CISG: Konsumgueterkauf, Auktion, Zwangsvollstreckung, Wertpapiere, Geld, Schiffe/Luftfahrzeuge, Strom.
+ - Werklieferungsvertrag Art. 3 CISG: erfasst, wenn nicht wesentlicher Teil aus vom Besteller zu liefernden Stoffen.
+ - Keine Anwendung auf Wirksamkeit/Vertragsschlusserforderlichkeit Art. 4 CISG.
 - **Persoenlich** Art. 1, 10 CISG — Niederlassung; Sitz des engsten Zusammenhangs.
 - **Opt-out** Art. 6 CISG — vollstaendiger oder teilweiser Ausschluss durch Parteivereinbarung moeglich (typische Praxis: "Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts").
 
@@ -391,7 +391,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-internationales-wirtschaftsrecht`. E
 ## Aufgabe
 Leitfaden Rom I-VO (593/2008) und Rom II-VO (864/2007): Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public Art. 21 Rom I / Art. 26 Rom II. Pruefraster fuer Rechtswahl und gewoehnlichen Aufenthalt.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?

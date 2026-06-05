@@ -1,13 +1,13 @@
 ---
 name: vorlaeufige-dienstenthebung
-description: "Nutze dies, wenn Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung prüfen.; Erstelle eine Arbeitsfassung zu Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

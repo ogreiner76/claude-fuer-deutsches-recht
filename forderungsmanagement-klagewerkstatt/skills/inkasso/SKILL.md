@@ -1,6 +1,6 @@
 ---
 name: inkasso
-description: "Nutze dies, wenn Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien prüfen.; Erstelle eine Arbeitsfassung zu Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -32,9 +32,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Registrierungspflicht (§ 10 Abs. 1 Nr. 1 RDG):** Inkassodienstleister benötigen Registrierung beim zuständigen Oberlandesgericht für Rechtsdienstleistung. Verstoß: Nichtigkeit der Forderungseinziehung; eingezogene Forderungen ggf. zurückzuerstatten.
 - **Inkassokostenerstattung (§ 13e RDGEG):** Geltend gemacht werden können Inkassokosten als Verzugsschaden (§§ 280, 286, 288 BGB i.V.m. § 13e RDGEG), aber nur in Höhe der gesetzlichen Anwaltsgebühren (RVG). Verbraucher- und Kleinforderungsschutz seit 01.10.2021: deutlich reduzierte Sätze in Verbrauchersachen.
 - **Höchstgrenzen RVG-Inkasso:**
-  - Forderungen bis 50 Euro: Geschäftsgebühr (Nr. 2300 VV RVG) gedeckelt auf 0,9 (statt 1,3), Erstinkasso bis 18 Euro.
-  - Forderungen bis 500 Euro: Erstinkassosatz auf 50 Euro begrenzt; Mindestgebühren reduziert.
-  - Detailliert nach RVG-VV Nrn. 2300 ff. und § 13b-d RDGEG.
+ - Forderungen bis 50 Euro: Geschäftsgebühr (Nr. 2300 VV RVG) gedeckelt auf 0,9 (statt 1,3), Erstinkasso bis 18 Euro.
+ - Forderungen bis 500 Euro: Erstinkassosatz auf 50 Euro begrenzt; Mindestgebühren reduziert.
+ - Detailliert nach RVG-VV Nrn. 2300 ff. und § 13b-d RDGEG.
 - **Informationspflichten Inkasso (§ 11a RDG):** Inkassodienstleister muss bei erstem Kontakt mitteilen: Auftraggeber, Forderungsgrund mit Bezug auf konkrete Vereinbarung (Datum, Aktenzeichen), Zinsen und Kostenrechnung detailliert.
 - **Anwaltskosten als Verzugsschaden:** Mahn- und außergerichtliche Vertretungskosten eines Rechtsanwalts sind nach Verzug erstattbar (§§ 280, 286 BGB), wenn Beauftragung erforderlich war (BGH ständige Rspr. zur Erforderlichkeit der Anwaltsbeauftragung im Inkasso).
 - **Doppelbeauftragung Inkasso + Anwalt:** Geht regelmäßig zu Lasten des Gläubigers - er bekommt nur einmal Erstattung (BGH ständige Rspr. seit Beschluss IX ZR 280/14).

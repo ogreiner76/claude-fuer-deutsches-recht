@@ -1,13 +1,13 @@
 ---
 name: tr3d-pruefkategorien-vorlage-vendor-wuerfel
-description: "Nutze dies, wenn Tr3D Pruefkategorien Bauleiter, Vorlage Vendor Onboarding 3D, Wuerfel Aufbauen im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Tr3D Pruefkategorien Bauleiter, Vorlage Vendor Onboarding 3D, Wuerfel Aufbauen prüfen.; Erstelle eine Arbeitsfassung zu Tr3D Pruefkategorien Bauleiter, Vorlage Vendor Onboarding 3D, Wuerfel Aufbauen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tr3d Pruefkategorien Bauleiter, Vorlage Vendor Onboarding 3d, Wuerfel Aufbauen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tr3D Pruefkategorien Bauleiter, Vorlage Vendor Onboarding 3D, Wuerfel Aufbauen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tr3D Pruefkategorien Bauleiter, Vorlage Vendor Onboarding 3D, Wuerfel Aufbauen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -216,15 +216,15 @@ Bevor ein Reviewlauf startet, muss die Würfel-Struktur stehen. Dieser Skill fra
 ## Methodik
 
 1. **Achse 1 — Spalten (Datenpunkte) definieren**
-   - Jede Spalte ist ein Spaltenprompt: eine einzige präzise Frage, die für ALLE Dokumente gleich beantwortet wird.
-   - Pflichtfelder pro Spalte: `id`, `titel`, `prompt`, `antworttyp` (Freitext / Zitat-mit-Fundstelle / ja-nein / Datum / Geldbetrag / Aufzählung), `pflichtfeld` (ja / nein), `ampel-regel` (wann rot / gelb / grün).
+ - Jede Spalte ist ein Spaltenprompt: eine einzige präzise Frage, die für ALLE Dokumente gleich beantwortet wird.
+ - Pflichtfelder pro Spalte: `id`, `titel`, `prompt`, `antworttyp` (Freitext / Zitat-mit-Fundstelle / ja-nein / Datum / Geldbetrag / Aufzählung), `pflichtfeld` (ja / nein), `ampel-regel` (wann rot / gelb / grün).
 2. **Achse 2 — Zeilen (Dokumente) definieren**
-   - Jede Zeile ist ein Dokument mit Quellpfad Hash und optionalem Zeilenprompt.
-   - Pflichtfelder pro Zeile: `id`, `pfad`, `hash`, `dokumenttyp`, optional `zeilenprompt` für dokumentspezifische Sonderanweisungen.
+ - Jede Zeile ist ein Dokument mit Quellpfad Hash und optionalem Zeilenprompt.
+ - Pflichtfelder pro Zeile: `id`, `pfad`, `hash`, `dokumenttyp`, optional `zeilenprompt` für dokumentspezifische Sonderanweisungen.
 3. **Achse 3 — Arbeitsblätter (Perspektiven) definieren**
-   - Jedes Arbeitsblatt ist eine eigene Pruefperspektive die über denselben Dokumentenstapel läuft.
-   - Beispiele: Recht (Anwaltsperspektive) / Steuer (Steuerberater) / Wirtschaft (Buyside) / Datenschutz (DSGVO) / IT (Architektur) / Betrieb (Operations)
-   - Pflichtfelder pro Arbeitsblatt: `id`, `titel`, `perspektive`, `eigene-spalten-zusätze` (Arbeitsblatt-spezifische Zusatzspalten) und `auslassungen` (Spalten die für dieses Blatt nicht gelten).
+ - Jedes Arbeitsblatt ist eine eigene Pruefperspektive die über denselben Dokumentenstapel läuft.
+ - Beispiele: Recht (Anwaltsperspektive) / Steuer (Steuerberater) / Wirtschaft (Buyside) / Datenschutz (DSGVO) / IT (Architektur) / Betrieb (Operations)
+ - Pflichtfelder pro Arbeitsblatt: `id`, `titel`, `perspektive`, `eigene-spalten-zusätze` (Arbeitsblatt-spezifische Zusatzspalten) und `auslassungen` (Spalten die für dieses Blatt nicht gelten).
 4. **Risikoampel-Konsolidierung** je Achse festlegen: Wann ist eine Zelle rot? Wann eine ganze Zeile rot? Wann ein ganzes Arbeitsblatt rot?
 5. **Belegkette-Konvention:** jedes Zitat in einer Zelle muss zurückverfolgbar sein auf Datei-Hash und Stelle (Seite Absatz Ziffer).
 6. **Audit-Trail:** Prompt-Versionen Reviewlauf-Zeitstempel Prüfer-Abnahmen werden separat protokolliert.

@@ -1,6 +1,6 @@
 ---
 name: beirat-haftung
-description: "Nutze dies, wenn Beirat Haftung im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Haftung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Haftung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Haftung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Haftung

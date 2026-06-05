@@ -1,13 +1,13 @@
 ---
 name: gesamtstrafenbildung-stgb-gestaendnis
-description: "Nutze dies, wenn Gesamtstrafenbildung 53 54 Stgb Erste Instanz, Gestaendnis Und Strafmilderung, Haerteausgleich Bei Nachtraeglicher Gesamtstrafenbildung im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Gesamtstrafenbildung 53 54 Stgb Erste Instanz, Gestaendnis Und Strafmilderung, Haerteausgleich Bei Nachtraeglicher Gesamtstrafenbildung prüfen.; Erstelle eine Arbeitsfassung zu Gesamtstrafenbildung 53 54 Stgb Erste Instanz, Gestaendnis Und Strafmilderung, Haerteausgleich Bei Nachtraeglicher Gesamtstrafenbildung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesamtstrafenbildung 53 54 Stgb Erste Instanz, Gestaendnis Und Strafmilderung, Haerteausgleich Bei Nachtraeglicher Gesamtstrafenbildung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesamtstrafenbildung 53 54 Stgb Erste Instanz, Gestaendnis Und Strafmilderung, Haerteausgleich Bei Nachtraeglicher Gesamtstrafenbildung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesamtstrafenbildung 53 54 Stgb Erste Instanz, Gestaendnis Und Strafmilderung, Haerteausgleich Bei Nachtraeglicher Gesamtstrafenbildung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -46,10 +46,10 @@ Bei **Realkonkurrenz** (mehrere selbststaendige Taten in einem Verfahren) sind n
 - **§ 53 Abs. 1 StGB** — Realkonkurrenz: Mehrere Taten in einem Verfahren; auf eine **Gesamtstrafe** ist zu erkennen.
 - **§ 53 Abs. 2 StGB** — Trifft Freiheitsstrafe mit Geldstrafe zusammen, ist auf Gesamtstrafe zu erkennen. Geldstrafe kann nach pflichtgemaessem Ermessen gesondert verhaengt werden.
 - **§ 54 StGB** — Bildung der Gesamtstrafe:
-  - **Abs. 1**: Einsatzstrafe ist die hoechste Einzelstrafe; diese wird unter Beruecksichtigung der Person des Taeters und der einzelnen Straftaten erhoeht. Die Gesamtstrafe darf die Summe der Einzelstrafen nicht erreichen.
-  - **Abs. 2 Satz 1**: Bei Freiheitsstrafe Hoechstgrenze 15 Jahre; bei lebenslang Hoechstgrenze lebenslang.
-  - **Abs. 2 Satz 2**: Bei Geldstrafe Hoechstgrenze 720 Tagessaetze.
-  - **Abs. 3**: Trifft Freiheitsstrafe und Geldstrafe zusammen, ist je 1 EUR Geldstrafe = 1 Tag Freiheitsstrafe umrechenbar (oder Geldstrafe gesondert).
+ - **Abs. 1**: Einsatzstrafe ist die hoechste Einzelstrafe; diese wird unter Beruecksichtigung der Person des Taeters und der einzelnen Straftaten erhoeht. Die Gesamtstrafe darf die Summe der Einzelstrafen nicht erreichen.
+ - **Abs. 2 Satz 1**: Bei Freiheitsstrafe Hoechstgrenze 15 Jahre; bei lebenslang Hoechstgrenze lebenslang.
+ - **Abs. 2 Satz 2**: Bei Geldstrafe Hoechstgrenze 720 Tagessaetze.
+ - **Abs. 3**: Trifft Freiheitsstrafe und Geldstrafe zusammen, ist je 1 EUR Geldstrafe = 1 Tag Freiheitsstrafe umrechenbar (oder Geldstrafe gesondert).
 
 ## Strafzumessungs-Grundsatz
 
@@ -89,9 +89,9 @@ Schritt-fuer-Schritt:
 2. **Einsatzstrafe** = hoechste Einzelstrafe.
 3. **Gesamtstrafen-Spielraum** bestimmen: Einsatzstrafe + 1 Monat (Mindest) bis Summe (Maximum, nicht erreichend).
 4. **Wuerdigung**:
-   - Person des Taeters: Vorleben, soziale Lage.
-   - Tatbild: aehnliche Taten, neue Schaden, gleiches Opfer.
-   - Inneres Tatbild: zeigt sich kriminelle Karriere oder Spontantat?
+ - Person des Taeters: Vorleben, soziale Lage.
+ - Tatbild: aehnliche Taten, neue Schaden, gleiches Opfer.
+ - Inneres Tatbild: zeigt sich kriminelle Karriere oder Spontantat?
 5. **Gesamtstrafe** im Spielraum festlegen.
 6. **§ 54 Abs. 2 StGB Hoechstgrenzen**: zeitige Freiheitsstrafe max. 15 Jahre; Geldstrafe max. 720 Tagessaetze.
 7. **Begruendung** im Urteil: Einzelstrafen, Einsatzstrafe, Erhoehungsbruchteil, Spielraum, finale Gesamtstrafe (§ 267 Abs. 3 StPO).
@@ -171,9 +171,9 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
 
 - **Schweigen ist kein Schuldzugestaendnis** und darf nicht strafschaerfend gewertet werden (st. Rspr. seit BGHSt 25, 365 ff.; Aktenzeichen vor Zitat verifizieren).
 - **Gestaendnis** ist ein klassischer Strafmilderungsgrund, weil es:
-  - Reue und Einsicht zeigt;
-  - die Beweisaufnahme verkuerzt (prozessoekonomischer Wert);
-  - das Opfer entlastet (keine ueberlange Vernehmung).
+ - Reue und Einsicht zeigt;
+ - die Beweisaufnahme verkuerzt (prozessoekonomischer Wert);
+ - das Opfer entlastet (keine ueberlange Vernehmung).
 - **Tat-Verschleierung** in der Hauptverhandlung darf nicht **schaerfend** gewertet werden, soweit sie sich im Rahmen zulaessiger Verteidigung bewegt.
 
 ## Arten von Gestaendnissen
@@ -224,13 +224,13 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
 
 1. **Mandantengespraech**: Beweislage und Risiko ohne Gestaendnis besprechen.
 2. **Beweislage** pruefen:
-   - Belastungszeugen, Geschaedigtenaussage, Sachbeweise.
-   - Eigene Verteidigungs-Hebel (Aussagepsychologie, Aussage gegen Aussage).
+ - Belastungszeugen, Geschaedigtenaussage, Sachbeweise.
+ - Eigene Verteidigungs-Hebel (Aussagepsychologie, Aussage gegen Aussage).
 3. **Entscheidung**: Schweigen, Bestreiten, Teil-Gestaendnis, vollstaendiges Gestaendnis.
 4. **Zeitpunkt**: Frueher meist besser; in komplexen Faellen erst nach Akteneinsicht.
 5. **Form**:
-   - Schriftliche Einlassung verlesen.
-   - Verbindung mit Reue, Schadenswiedergutmachung, TOA.
+ - Schriftliche Einlassung verlesen.
+ - Verbindung mit Reue, Schadenswiedergutmachung, TOA.
 6. **In der Hauptverhandlung**: Gestaendnis als zentrales Strafmilderungselement im Plaedoyer aufgreifen.
 
 ## Schritt-fuer-Schritt-Anleitung (Anklage)
@@ -333,24 +333,24 @@ Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
 1. **Vorverurteilungen** und Status pruefen: BZRG-Auszug, Vollstreckungsakte, Bewaehrungsentscheidungen.
 2. **Zaesur-Pruefung**: Wurde die abzuurteilende Tat **vor** der frueheren Verurteilung begangen?
 3. **Einbeziehung pruefen** (§ 55 StGB):
-   - Ist die fruehere Strafe noch offen? Dann § 55 StGB; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
-   - Ist sie schon vollstreckt / erlassen / verjaehrt? Dann **Haerteausgleich**.
+ - Ist die fruehere Strafe noch offen? Dann § 55 StGB; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
+ - Ist sie schon vollstreckt / erlassen / verjaehrt? Dann **Haerteausgleich**.
 4. **Antrag** in der Hauptverhandlung oder im Schriftsatz:
 
-   ```
-   Wir beantragen, bei der Strafzumessung einen Haerteausgleich
-   zu gewaehren, da die Tat vom [Datum] vor der Verurteilung
-   vom [Datum] begangen wurde und eine Einbeziehung in eine
-   Gesamtstrafe nach § 55 StGB allein deshalb ausscheidet,
-   weil die damals verhaengte Strafe inzwischen [vollstreckt /
-   erlassen / verjaehrt] ist. Eine gemeinsame Aburteilung haette
-   zu einer wesentlich niedrigeren Gesamtstrafe gefuehrt.
-   ```
+ ```
+ Wir beantragen, bei der Strafzumessung einen Haerteausgleich
+ zu gewaehren, da die Tat vom [Datum] vor der Verurteilung
+ vom [Datum] begangen wurde und eine Einbeziehung in eine
+ Gesamtstrafe nach § 55 StGB allein deshalb ausscheidet,
+ weil die damals verhaengte Strafe inzwischen [vollstreckt /
+ erlassen / verjaehrt] ist. Eine gemeinsame Aburteilung haette
+ zu einer wesentlich niedrigeren Gesamtstrafe gefuehrt.
+ ```
 
 5. **Hoehe** des Haerteausgleichs vortragen:
-   - Hypothetische Gesamtstrafe bei gemeinsamer Aburteilung berechnen.
-   - Differenz zwischen dieser hypothetischen Gesamtstrafe und der jetzt zu erwartenden kumulierten Strafenlast.
-   - Strafabschlag konkret beantragen (z.B. "Strafabschlag von [X] Monaten" oder "Reduktion der zu verhaengenden Strafe um etwa [X] %").
+ - Hypothetische Gesamtstrafe bei gemeinsamer Aburteilung berechnen.
+ - Differenz zwischen dieser hypothetischen Gesamtstrafe und der jetzt zu erwartenden kumulierten Strafenlast.
+ - Strafabschlag konkret beantragen (z.B. "Strafabschlag von [X] Monaten" oder "Reduktion der zu verhaengenden Strafe um etwa [X] %").
 6. **Begruendungspflicht** im Urteil: Das Gericht muss den Haerteausgleich als bestimmenden Strafzumessungsgrund angeben (§ 267 Abs. 3 StPO).
 
 ## Verhaeltnis zu § 55 StGB

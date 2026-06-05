@@ -1,13 +1,13 @@
 ---
 name: pe-anfaenger-pe-investorprofil-pe-fund-pe-aif
-description: "Nutze dies, wenn Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger prüfen.; Erstelle eine Arbeitsfassung zu Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Aif Und Professionelle Anleger: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger
+# Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Aif Und Professionelle Anleger
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Aif Und Professionelle Anleger** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Aif Und Professionelle Anleger** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `private-equity-praxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -56,14 +56,14 @@ Der Skill übersetzt Deal-Sprache in deutsche Rechts- und Arbeitsschritte, ohne 
 
 BGB-Gesellschaftsrecht, GmbHG, HGB-Personengesellschaftsrecht (insb. §§ 161 ff. HGB Kommanditgesellschaft), KAGB-Begriffe (§ 1 KAGB AIF-Definition, § 1 Abs. 19 Nr. 31 ff. KAGB Anlegerkategorien), § 1 Abs. 1 InvStG zur Investmentvermögensbesteuerung, § 18 EStG für Carry-Besteuerung in Personengesellschaftsstruktur, BFH-Rechtsprechung zur Carry-Qualifikation (BFH ständige Rechtsprechung; Az. vom Anwender zu verifizieren); MiFID-II-Begriffe für professionelle Anleger.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Rolle und Verständnisbedarf in zwei Sätzen klären.
 2. Begriffe in drei Säulen sortieren: Vehikel/Struktur, Wirtschaft/Wasserfall, Governance/Reporting.
 3. Pro Säule die englische Vokabel mit deutscher Funktionsentsprechung und maßgeblicher Norm verknüpfen.
 4. Konkretes Zahlenbeispiel anhängen (Standard-Waterfall: 8 Prozent Pref, 100 Prozent Catch-Up, 20 Prozent Carry).
 5. Onepager mit den fünf wichtigsten Begriffen für den konkreten Use-Case erzeugen.
-6. Verweis auf Spezialskills für tiefere Einzelthemen.
+6. Verweis auf Fachmodule für tiefere Einzelthemen.
 
 ## Trade-off-Matrix
 
@@ -174,7 +174,7 @@ Der Skill liefert ein präzises Investorprofil als Arbeitsgrundlage für Mandats
 
 KAGB-Anlegerkategorien: professionell (Annex II MiFID II), semiprofessionell (§ 1 Abs. 19 Nr. 33 KAGB, Mindestticket 200 000 EUR plus Eignungsprüfung), Privatanleger; VAG §§ 124, 215 für Versicherer mit Bezug auf AnlV-Quoten (typisch 35 Prozent Risikokapitalquote, 7.5 Prozent Beteiligungsquote, jeweils vom Anwender mit aktueller AnlV-Fassung zu prüfen); SGB IV § 80 für Versorgungswerke; BGB §§ 80 ff. Stiftungsrecht (seit Reform 2023 bundeseinheitlich); GwG §§ 10 ff.; FATCA-Selbstauskunft Form W-8/W-9; CRS-Meldung nach FKAustG; Sanktionsscreening (EU 833/2014 Russland, EU 269/2014 Belarus, OFAC SDN).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Anlegerstatus nach KAGB definitiv einordnen — semiprofessionell erfordert dokumentierte Eignungsprüfung.
 2. Aufsichtsregime mappen (VAG, IORP-II, Stiftung) und resultierende Quotengrenzen abfragen.
@@ -267,7 +267,7 @@ Der Skill trennt echte Fondsverwaltung von Holding-, Club-Deal- und SPV-Struktur
 
 KAGB § 1 Abs. 1 (Investmentvermögen-Definition: Pooling + Anlagepolitik + nicht operative Tätigkeit), § 2 Abs. 4/5 (Schwellenregister-AIFM unter 100 Mio. EUR mit Hebel bzw. 500 Mio. EUR ohne Hebel und Lock-up >= 5 Jahre), §§ 17 ff. (KVG-Erlaubnis), §§ 273 ff. (geschlossene Spezial-AIF/Investmentkommanditgesellschaft), §§ 281 ff. (Personenkreis Spezial-AIF); AIFMD (RL 2011/61/EU) und Level-2-Verordnung (EU) 231/2013; BaFin-Auslegungshinweise zur "Anwendungsbereich des KAGB" (vom Anwender mit jeweils aktuellem Stand zu prüfen); EuVECA-VO 345/2013; ELTIF-VO 2015/760 in der Fassung 2023/606 (ELTIF 2.0 seit 10.01.2024).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. KAGB-Scope-Test: Pooling? Externe Anleger? Definierte Anlagepolitik? Nicht-operative Tätigkeit?
 2. Wenn KAGB greift: Vollerlaubnis (§§ 17 ff.) oder Registrierung (§ 2 Abs. 4/5)?
@@ -362,7 +362,7 @@ Der Skill liefert die Strukturlogik und Dokumentenmatrix für Spezial-AIF nach �
 
 KAGB §§ 281–292 (Spezial-AIF-Regime), § 282 (offene Spezial-AIF), § 285 (geschlossene Spezial-Investment-KG), § 1 Abs. 19 Nr. 32 KAGB (professioneller Anleger), Nr. 33 (semiprofessioneller Anleger, Mindestticket 200 000 EUR plus Eignungsprüfung); §§ 80 ff. KAGB Verwahrstelle; § 67 KAGB Anlagebedingungen; § 101 KAGB Jahresbericht; § 300 KAGB Vertrieb an semiprofessionelle Anleger; AIFMD-Reporting (Annex IV); InvStG für die steuerliche Behandlung (in der Regel Investmentfonds nach § 1 InvStG oder Investment-KG als Personengesellschaft).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Anlegeruniversum scharf definieren (professionell, semiprofessionell, Ausschluss Retail).
 2. Vehikel wählen: Investment-KG (§ 124 KAGB) ist Standard für Closed-End; offener Spezial-AIF für Direct Lending oder Real Estate.

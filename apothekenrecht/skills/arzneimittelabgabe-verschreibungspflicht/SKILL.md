@@ -1,13 +1,13 @@
 ---
 name: arzneimittelabgabe-verschreibungspflicht
-description: "Nutze dies, wenn Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026 im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026 prüfen.; Erstelle eine Arbeitsfassung zu Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arzneimittelabgabe Verschreibungspflicht, Cannabis Medizinalcannabis Abgabe Dokumentation, Tierarzneimittel Apothekenabgabe Versand Ab 2026** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -67,7 +67,7 @@ Eingaben:
 - **SGB V § 360:** E-Rezept-Pflicht seit 01.01.2024.
 - BGH/OLG, staend. Rspr. zu Heilmittelwerbung und Apothekenabgabe.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Identität prüfen:** Bei E-Rezept Token/Code; bei Papierrezept Plausibilität der Verordnerangaben (Arzt, Praxis, BSNR/LANR).
 2. **Formelle Prüfung:** Datum, Name Patient, Name Arzneimittel, Stärke, Menge, Dosierung, Unterschrift Arzt (bei Papier) / qualifizierte elektronische Signatur (E-Rezept).
@@ -172,7 +172,7 @@ Eingaben:
 - Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) — Bezugsweg, Cannabisagentur-Erbe.
 - BSG, staend. Rspr. zur Erstattung Cannabinoid-Therapie.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Rezeptform prüfen:** Aktueller Stand — Cannabis-Rezept (mit besonderem Formular) oder weiterhin BtM-Rezept je nach Wirkstoff/Form (Blüte, Extrakt, Fertigarzneimittel wie Sativex, Epidyolex). Vom Anwender Stand 2026 zu verifizieren.
 2. **Verschreibungsangaben:** Wirkstoff (THC- und CBD-Gehalt bei Blüten zwingend), Sorte (genaue Bezeichnung), Menge, Dosierung, Anwendungsform.

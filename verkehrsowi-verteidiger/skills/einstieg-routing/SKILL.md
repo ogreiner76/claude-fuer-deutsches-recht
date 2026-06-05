@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Verkehrsowi Verteidiger.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Verkehrsowi Verteidiger** ein Fall noch so
 ## Fachlandkarte dieses Plugins
 
 - `alkohol-drogen-beweisverwertung-standardisiert-verkehrsowi` — Alkohol Drogen Beweisverwertung Standardisiert Verkehrsowi
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `amtsgericht-drogen-interessen-einspruch` — Amtsgericht Drogen Interessen Einspruch
 - `anhoerung-verkehrsowi-einspruch-messverfahren-geschwindigkeit` — Anhoerung Verkehrsowi Einspruch Messverfahren Geschwindigkeit
 - `fahrverbot-geschwindigkeit-handy` — Fahrverbot Geschwindigkeit Handy

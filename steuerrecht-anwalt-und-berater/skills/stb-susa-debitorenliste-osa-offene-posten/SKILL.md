@@ -61,12 +61,12 @@ Die Debitoren-Saldenliste zeigt alle Forderungen gegen Kunden mit Saldo, Faellig
 DEBITOREN-OPOS-LISTE
 Stichtag: [Datum]
 
-Konto    Name             Saldo EUR   Faelligkeit   Mahnstand   Bemerkung
-10001    [Kunde A]        5.500       30 Tage       1. Mahnung  Brief am [Datum]
-10002    [Kunde B]        12.000      90 Tage       3. Mahnung  Anwalt eingeschaltet
-10003    [Kunde C]        850         15 Tage       —           im Plan
+Konto Name Saldo EUR Faelligkeit Mahnstand Bemerkung
+10001 [Kunde A] 5.500 30 Tage 1. Mahnung Brief am [Datum]
+10002 [Kunde B] 12.000 90 Tage 3. Mahnung Anwalt eingeschaltet
+10003 [Kunde C] 850 15 Tage — im Plan
 ...
-SUMME                     [X]
+SUMME [X]
 ```
 
 ### Phase 3 — Faelligkeitsstaffel

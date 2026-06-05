@@ -1,13 +1,13 @@
 ---
 name: abmahnung-sonderfall-bild-eigenen
-description: "Nutze dies, wenn Spezial Abmahnung Sonderfall Und Edge Case, Spezial Bild Behörden Gericht Und Registerweg, Spezial Eigenen Risikoampel Und Gegenargumente im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Abmahnung Sonderfall Und Edge Case, Spezial Bild Behörden Gericht Und Registerweg, Spezial Eigenen Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Abmahnung Sonderfall Und Edge Case, Spezial Bild Behörden Gericht Und Registerweg, Spezial Eigenen Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Abmahnung Sonderfall Und Edge Case, Bild Behörden Gericht Und Registerweg, Eigenen Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Abmahnung Sonderfall Und Edge Case, Spezial Bild Behörden Gericht Und Registerweg, Spezial Eigenen Risikoampel Und Gegenargumente
+# Abmahnung Sonderfall Und Edge Case, Bild Behörden Gericht Und Registerweg, Eigenen Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Abmahnung Sonderfall Und Edge Case, Bild Behörden Gericht Und Registerweg, Eigenen Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Abmahnung Sonderfall Und Edge Case, Spezial Bild Behörden Gericht Und Registerweg, Spezial Eigenen Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abmahnung Sonderfall Und Edge Case, Bild Behörden Gericht Und Registerweg, Eigenen Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-urheber-medienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Abmahnung Sonderfall Und Edge Case, Spezial Bild Behörden Gerich
 # Abmahnung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Abmahnung: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Abmahnung: Sonderfall und Edge-Case-Prüfung / spezial abmahnung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Abmahnung: Sonderfall und Edge-Case-Prüfung / abmahnung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Bild: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Bild: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Bild: Behörden-, Gerichts- oder Registerweg / spezial bild behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bild: Behörden-, Gerichts- oder Registerweg / bild behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien / spezial eigenen risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien / eigenen risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

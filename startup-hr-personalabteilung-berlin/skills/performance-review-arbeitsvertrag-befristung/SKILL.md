@@ -1,23 +1,23 @@
 ---
 name: performance-review-arbeitsvertrag-befristung
-description: "Nutze dies, wenn Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb prüfen.; Erstelle eine Arbeitsfassung zu Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa, Fristlose Kündigung 626 Bgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `performance-review-und-feedback` | Berliner Start-up-HR: Performance Reviews: faire Kriterien, Bias-Check, Dokumentation, Gehaltsbezug, Entwicklungsplan und Low-Performer-Risiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `arbeitsvertrag-befristung-tzbfg` | Berliner Start-up-HR: Befristete Arbeitsverträge nach TzBfG: Sachgrund, sachgrundlos, Verlängerung, Schriftform, Risikoampel und Reminder. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `arbeitsvertrag-standard-unbefristet` | Berliner Start-up-HR: Unbefristeten Arbeitsvertrag für Start-up-Rollen prüfen und entwerfen: NachwG, Probezeit, Vergütung, Remote, IP, Vertraulichkeit. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `fristentracker-befristung-probezeit-visa` | Berliner Start-up-HR: Fristentracker für Befristung, Probezeit, Visa, Mutterschutz, BEM, Kündigungsschutzklage und Payroll-Deadlines. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `fristlose-kuendigung-626-bgb` | Berliner Start-up-HR: Fristlose Kündigung nach § 626 BGB: Zwei-Wochen-Frist, wichtiger Grund, Anhörung, Beweise und Alternativen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `performance-review-und-feedback` | Berliner Start-up-HR: Performance Reviews: faire Kriterien, Bias-Check, Dokumentation, Gehaltsbezug, Entwicklungsplan und Low-Performer-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `arbeitsvertrag-befristung-tzbfg` | Berliner Start-up-HR: Befristete Arbeitsverträge nach TzBfG: Sachgrund, sachgrundlos, Verlängerung, Schriftform, Risikoampel und Reminder. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `arbeitsvertrag-standard-unbefristet` | Berliner Start-up-HR: Unbefristeten Arbeitsvertrag für Start-up-Rollen prüfen und entwerfen: NachwG, Probezeit, Vergütung, Remote, IP, Vertraulichkeit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `fristentracker-befristung-probezeit-visa` | Berliner Start-up-HR: Fristentracker für Befristung, Probezeit, Visa, Mutterschutz, BEM, Kündigungsschutzklage und Payroll-Deadlines. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `fristlose-kuendigung-626-bgb` | Berliner Start-up-HR: Fristlose Kündigung nach § 626 BGB: Zwei-Wochen-Frist, wichtiger Grund, Anhörung, Beweise und Alternativen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeits
 
 ## 1. `performance-review-und-feedback`
 
-**Fokus:** Berliner Start-up-HR: Performance Reviews: faire Kriterien, Bias-Check, Dokumentation, Gehaltsbezug, Entwicklungsplan und Low-Performer-Risiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Performance Reviews: faire Kriterien, Bias-Check, Dokumentation, Gehaltsbezug, Entwicklungsplan und Low-Performer-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Performance Review Und Feedback
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Happiness
 **Fokus:** Performance Reviews: faire Kriterien, Bias-Check, Dokumentation, Gehaltsbezug, Entwicklungsplan und Low-Performer-Risiko.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `arbeitsvertrag-befristung-tzbfg`
 
-**Fokus:** Berliner Start-up-HR: Befristete Arbeitsverträge nach TzBfG: Sachgrund, sachgrundlos, Verlängerung, Schriftform, Risikoampel und Reminder. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Befristete Arbeitsverträge nach TzBfG: Sachgrund, sachgrundlos, Verlängerung, Schriftform, Risikoampel und Reminder. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitsvertrag Befristung TzBfG
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Arbeitsverträge
 **Fokus:** Befristete Arbeitsverträge nach TzBfG: Sachgrund, sachgrundlos, Verlängerung, Schriftform, Risikoampel und Reminder.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `arbeitsvertrag-standard-unbefristet`
 
-**Fokus:** Berliner Start-up-HR: Unbefristeten Arbeitsvertrag für Start-up-Rollen prüfen und entwerfen: NachwG, Probezeit, Vergütung, Remote, IP, Vertraulichkeit. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Unbefristeten Arbeitsvertrag für Start-up-Rollen prüfen und entwerfen: NachwG, Probezeit, Vergütung, Remote, IP, Vertraulichkeit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitsvertrag Standard Unbefristet
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Arbeitsverträge
 **Fokus:** Unbefristeten Arbeitsvertrag für Start-up-Rollen prüfen und entwerfen: NachwG, Probezeit, Vergütung, Remote, IP, Vertraulichkeit.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `fristentracker-befristung-probezeit-visa`
 
-**Fokus:** Berliner Start-up-HR: Fristentracker für Befristung, Probezeit, Visa, Mutterschutz, BEM, Kündigungsschutzklage und Payroll-Deadlines. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Fristentracker für Befristung, Probezeit, Visa, Mutterschutz, BEM, Kündigungsschutzklage und Payroll-Deadlines. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Fristentracker Befristung Probezeit Visa
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Governance
 **Fokus:** Fristentracker für Befristung, Probezeit, Visa, Mutterschutz, BEM, Kündigungsschutzklage und Payroll-Deadlines.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `fristlose-kuendigung-626-bgb`
 
-**Fokus:** Berliner Start-up-HR: Fristlose Kündigung nach § 626 BGB: Zwei-Wochen-Frist, wichtiger Grund, Anhörung, Beweise und Alternativen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Fristlose Kündigung nach § 626 BGB: Zwei-Wochen-Frist, wichtiger Grund, Anhörung, Beweise und Alternativen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Fristlose Kuendigung 626 BGB
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Disziplin
 **Fokus:** Fristlose Kündigung nach § 626 BGB: Zwei-Wochen-Frist, wichtiger Grund, Anhörung, Beweise und Alternativen.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

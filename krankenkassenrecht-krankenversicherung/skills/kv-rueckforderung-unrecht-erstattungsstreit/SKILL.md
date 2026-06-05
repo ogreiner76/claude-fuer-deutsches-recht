@@ -1,13 +1,13 @@
 ---
 name: kv-rueckforderung-unrecht-erstattungsstreit
-description: "Nutze dies, wenn Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz prüfen.; Erstelle eine Arbeitsfassung zu Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

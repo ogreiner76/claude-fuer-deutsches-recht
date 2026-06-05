@@ -283,7 +283,7 @@ Die wesentlichen Inhalte dieser Vereinbarung werden
 den Betroffenen wie folgt zur Verfügung gestellt:
 
 - Veröffentlichung in der Datenschutz-Erklärung
-  V1 und V2
+ V1 und V2
 - Hinweis im Vertrags-Schluss
 - Auf Verlangen Vorlage in Volltext
 
@@ -419,12 +419,12 @@ Parteien:
 [BEIDE PARTEIEN ENTSCHEIDEN ÜBER: ZWECKE / MITTEL]
 
 § 3 Aufgabenverteilung
-| Aufgabe                        | Partei A | Partei B |
+| Aufgabe | Partei A | Partei B |
 |--------------------------------|----------|----------|
-| Rechtsgrundlagen sicherstellen |          |          |
-| Betroffenenrechte wahrnehmen   |          |          |
-| Datenpannen melden Art. 33     |          |          |
-| Technische Sicherheit Art. 32  |          |          |
+| Rechtsgrundlagen sicherstellen | | |
+| Betroffenenrechte wahrnehmen | | |
+| Datenpannen melden Art. 33 | | |
+| Technische Sicherheit Art. 32 | | |
 
 § 4 Kontaktstelle für Betroffene (Art. 26 Abs. 1 Satz 3 DSGVO)
 Kontaktstelle: [PARTEI X, ADRESSE, E-MAIL]

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-warranty-indemnity
-description: "Rechtsabteilungs-Spezialskill für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als Workflow geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
 ---
 
 # Rechtsabteilung: Warranty-and-Indemnity-Versicherung im Claimfall
@@ -20,7 +20,7 @@ description: "Rechtsabteilungs-Spezialskill für Warranty-and-Indemnity-Versiche
 
 ## Spezialkern: Rechtsabteilung: Warranty-and-Indemnity-Versicherung im Claimfall
 
-- **Konkretes Problem:** Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als Workflow geführt.
+- **Konkretes Problem:** Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt.
 - **Norm-/Quellenanker:** einschlägige Spezialnormen des Plugin-Fachgebiets, amtliche Gesetzesfassungen, Behördenpraxis und verifizierte Rechtsprechung mit Datum und Aktenzeichen.
 - **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
 - **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
@@ -39,7 +39,7 @@ VVG, BGB Gewährleistung, SPA-Notice-Klauseln
 
 ## Fachlicher Zuschnitt
 
-Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als Workflow geführt.
+Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt.
 
 ## Output für die Rechtsabteilung
 

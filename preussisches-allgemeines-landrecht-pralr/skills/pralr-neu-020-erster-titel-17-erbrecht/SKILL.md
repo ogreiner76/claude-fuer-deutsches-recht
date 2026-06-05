@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-020-erster-titel-17-erbrecht
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge

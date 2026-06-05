@@ -1,13 +1,13 @@
 ---
 name: redaktion-satzfahnen-verlage-verlagsdesk
-description: "Nutze dies, wenn Spezial Redaktion Schriftsatz Brief Und Memo Bausteine, Spezial Satzfahnen Formular Portal Und Einreichung, Spezial Verlage Dokumentenmatrix Und Lueckenliste, Spezial Verlagsdesk Erstpruefung Und Mandatsziel, Sprachlektorat Stil Tonalitaet im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Redaktion Schriftsatz Brief Und Memo Bausteine, Satzfahnen Formular Portal Und Einreichung, Verlage Dokumentenmatrix Und Lueckenliste, Verlagsdesk Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Redaktion Schriftsatz Brief Und Memo Bausteine, Spezial Satzfahnen Formular Portal Und Einreichung, Spezial Verlage Dokumentenmatrix Und Lueckenliste, Spezial Verlagsdesk Erstpruefung Und Mandatsziel, Sprachlektorat Stil Tonalitaet
+# Redaktion Schriftsatz Brief Und Memo Bausteine, Satzfahnen Formular Portal Und Einreichung, Verlage Dokumentenmatrix Und Lueckenliste, Verlagsdesk Erstpruefung Und Mandatsziel, Sprachlektorat Stil Tonalitaet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Redaktion Schriftsatz Brief Und Memo Bausteine, Satzfahnen Formular Portal Und Einreichung, Verlage Dokumentenmatrix Und Lueckenliste, Verlagsdesk Erstpruefung Und Mandatsziel, Sprachlektorat Stil Tonalitaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Redaktion Schriftsatz Brief Und Memo Bausteine, Spezial Satzfahnen Formular Portal Und Einreichung, Spezial Verlage Dokumentenmatrix Und Lueckenliste, Spezial Verlagsdesk Erstpruefung Und Mandatsziel, Sprachlektorat Stil Tonalitaet** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsredaktion` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Redaktion Schriftsatz Brief Und Memo Bausteine, Satzfahnen Formular Portal Und Einreichung, Verlage Dokumentenmatrix Und Lueckenliste, Verlagsdesk Erstpruefung Und Mandatsziel, Sprachlektorat Stil Tonalitaet** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verlagsredaktion` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Redaktion Schriftsatz Brief Und Memo Bausteine, Spezial Satzfahne
 # Redaktion: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Redaktion: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Redaktion: Schriftsatz-, Brief- und Memo-Bausteine / spezial redaktion schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Redaktion: Schriftsatz-, Brief- und Memo-Bausteine / redaktion schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Satzfahnen: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Satzfahnen: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Satzfahnen: Formular, Portal und Einreichungslogik / spezial satzfahnen formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Satzfahnen: Formular, Portal und Einreichungslogik / satzfahnen formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -115,7 +115,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verlage: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Verlage: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Verlage: Dokumentenmatrix, Lückenliste und Nachforderung / spezial verlage dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verlage: Dokumentenmatrix, Lückenliste und Nachforderung / verlage dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -156,7 +156,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel / spezial verlagsdesk erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel / verlagsdesk erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

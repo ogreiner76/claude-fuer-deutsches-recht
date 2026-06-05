@@ -79,13 +79,13 @@ Das Massgeblichkeitsprinzip (§ 5 EStG) verbindet Handels- und Steuerbilanz: die
 ### Phase 4 — Ueberleitungsrechnung
 
 ```
-JAHRESERGEBNIS HANDELSBILANZ                [X]
-+ Drohende-Verluste-Rueckstellungen          [+Y]
-+ Steuerliche Sonder-AfA Mehrabschreibung    [-Z]
-+ Anpassung Pensionsrueckstellung            [+/-]
-+ IAB (Ruecklage)                            [-Y]
-- Andere Wahlrechte                          [+/-]
-= JAHRESERGEBNIS STEUERBILANZ                [W]
+JAHRESERGEBNIS HANDELSBILANZ [X]
++ Drohende-Verluste-Rueckstellungen [+Y]
++ Steuerliche Sonder-AfA Mehrabschreibung [-Z]
++ Anpassung Pensionsrueckstellung [+/-]
++ IAB (Ruecklage) [-Y]
+- Andere Wahlrechte [+/-]
+= JAHRESERGEBNIS STEUERBILANZ [W]
 ```
 
 ### Phase 5 — E-Bilanz-Uebermittlung

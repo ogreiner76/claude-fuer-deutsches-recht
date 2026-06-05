@@ -1,6 +1,6 @@
 ---
 name: rom-neu-005-zwoelftafelrecht-schuldhaft-nexum
-description: "Nutze dies, wenn Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung

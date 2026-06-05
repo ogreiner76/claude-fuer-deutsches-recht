@@ -1,13 +1,13 @@
 ---
 name: leistungsgruppen-qualitaetskriterien
-description: "Nutze dies, wenn Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterecht Betreiberpflichten Mdr Mpbetreibv, Mindestmengen G Ba Qualitaetssicherung im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterecht Betreiberpflichten Mdr Mpbetreibv, Mindestmengen G Ba Qualitaetssicherung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterecht Betreiberpflichten Mdr Mpbetreibv, Mindestmengen G Ba Qualitaetssicherung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterecht Betreiberpflichten Mdr Mpbetreibv, Mindestmengen G Ba Qualitaetssicherung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,7 +55,7 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 - **Landeskrankenhausgesetze** Ausnahmen aus Sicherstellungsgruenden, Kooperationsregelungen.
 - **OPS- und ICD-Klassifikation** zur Zuordnung Fall → LG (BfArM/InEK).
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **LG identifizieren:** Welche LG ist betroffen? Anlage KHG nutzen, ggf. Vorgaben des Landes.
 2. **Strukturqualitaetsmerkmale auflisten:** Personal (Aerzte, Pflege, qualifiziert), Geraete, 24/7-Bereitschaft, intensivmed. Anbindung.
 3. **Erfuellungsgrad messen:** Nachweise (Dienstplaene, Geraeteliste, Personalmeldung) auswerten.
@@ -182,7 +182,7 @@ Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Frue
 - **G-BA-Beschluesse** zu Aufnahme/Streichung von Mindestmengen-Tatbestaenden.
 - **BVerfG** zu Berufsausuebungsfreiheit und Mindestmengen (Verhaeltnismaessigkeit).
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Mindestmengen-Tatbestand identifizieren:** OPS-Liste Mm-R Anlage.
 2. **Vorjahresmengen ausweisen:** § 137 SGB V-Meldung.
 3. **Prognose fuer Folgejahr erstellen:** Plausibilitaet, Versorgungsbedarf, Personalplanung.

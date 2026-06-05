@@ -1,13 +1,13 @@
 ---
 name: streitwert-verkehrsunfall-vollstreckung
-description: "Nutze dies, wenn Streitwert, Verkehrsunfall, Vollstreckung im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Streitwert, Verkehrsunfall, Vollstreckung prüfen.; Erstelle eine Arbeitsfassung zu Streitwert, Verkehrsunfall, Vollstreckung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Streitwert, Verkehrsunfall, Vollstreckung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Streitwert, Verkehrsunfall, Vollstreckung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Streitwert, Verkehrsunfall, Vollstreckung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -47,19 +47,19 @@ Gebührennote im Außerverhältnis.
 Das Modell benötigt folgende Informationen:
 
 1. **Streitgegenstand** – Leistungsklage (§ 3 ZPO), Feststellungsklage (§ 256 ZPO;
-   Abschlag i. d. R. 20–25 % vom Leistungsantrag), einstweilige Verfügung
-   (i. d. R. 1/3 bis 1/2 des Hauptsachewerts).
+ Abschlag i. d. R. 20–25 % vom Leistungsantrag), einstweilige Verfügung
+ (i. d. R. 1/3 bis 1/2 des Hauptsachewerts).
 2. **Gericht und Instanz** – Landgericht (Kammer für Handelssachen), Oberlandesgericht,
-   BGH; Instanz bestimmt Gerichtsgebühr (Anlage 1 GKG).
+ BGH; Instanz bestimmt Gerichtsgebühr (Anlage 1 GKG).
 3. **Hauptantrag und Hilfsantrag** – Wert der Hilfsanträge bleibt außer Betracht,
-   solange sie nicht beschieden werden (§ 45 Abs. 1 Satz 2 GKG; Mehrwert nur bei
-   Entscheidung, § 45 Abs. 1 Satz 3 GKG).
+ solange sie nicht beschieden werden (§ 45 Abs. 1 Satz 2 GKG; Mehrwert nur bei
+ Entscheidung, § 45 Abs. 1 Satz 3 GKG).
 4. **Nebenforderungen** – Zinsen und Früchte nach § 43 Abs. 1 GKG nicht streitwerterhöhend
-   (außer wenn sie Hauptgegenstand sind).
+ (außer wenn sie Hauptgegenstand sind).
 5. **Aufrechnung** – § 45 Abs. 3 GKG: Aufrechnung erhöht den Streitwert bis zur
-   Höhe des Klageanspruchs, nicht darüber hinaus.
+ Höhe des Klageanspruchs, nicht darüber hinaus.
 6. **Anwaltsgebühren** – Gegenstandswert nach § 23 Abs. 1 Satz 1 RVG entspricht
-   dem Streitwert; § 23 Abs. 3 RVG bei Sonderregeln (z. B. Wohnraum).
+ dem Streitwert; § 23 Abs. 3 RVG bei Sonderregeln (z. B. Wohnraum).
 
 ## Rechtlicher Rahmen
 
@@ -100,42 +100,42 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Hauptforderung bestimmen** – Nennwert bei Leistungsklage; bei Feststellungsklage
-   Abschlag von i. d. R. 20 % (Ermessen, vgl. § 3 ZPO).
+ Abschlag von i. d. R. 20 % (Ermessen, vgl. § 3 ZPO).
 
 2. **Nebenforderungen ausscheiden** – Zinsen, Früchte, Kosten des Verfahrens nach
-   § 43 Abs. 1 GKG nicht mitrechnen, sofern Nebenforderungen.
+ § 43 Abs. 1 GKG nicht mitrechnen, sofern Nebenforderungen.
 
 3. **Hilfsanträge prüfen** – Kein Ansatz im Ausgangsverfahren (§ 45 Abs. 1 Satz 2
-   GKG); bei Stattgabe des Hilfsantrags Mehrwert nach § 45 Abs. 1 Satz 3 GKG
-   nachträglich festsetzen.
+ GKG); bei Stattgabe des Hilfsantrags Mehrwert nach § 45 Abs. 1 Satz 3 GKG
+ nachträglich festsetzen.
 
 4. **Aufrechnung einbeziehen** – Widerklageforderung oder Aufrechnungsforderung erhöht
-   Streitwert nach § 45 Abs. 3 GKG nur bis zur Klageforderungshöhe.
+ Streitwert nach § 45 Abs. 3 GKG nur bis zur Klageforderungshöhe.
 
 5. **Gerichtsgebühren berechnen** – Aus dem festgesetzten Streitwert die Gerichtsgebühr
-   nach GKG Anlage 1 und 2 ermitteln (Tabelle §§ 34, 35 GKG).
+ nach GKG Anlage 1 und 2 ermitteln (Tabelle §§ 34, 35 GKG).
 
 6. **Anwaltsgebühren berechnen** – Gegenstandswert für Verfahrensgebühr (Nr. 3100 VV
-   RVG), Terminsgebühr (Nr. 3104 VV RVG), Einigungsgebühr (Nr. 1000 VV RVG)
-   aus der Vergütungstabelle (Anlage 2 RVG) ableiten.
+ RVG), Terminsgebühr (Nr. 3104 VV RVG), Einigungsgebühr (Nr. 1000 VV RVG)
+ aus der Vergütungstabelle (Anlage 2 RVG) ableiten.
 
 7. **Kostenfestsetzungsantrag stellen** – Nach Vorliegen eines zur Zwangsvollstreckung
-   geeigneten Kostentitels (§ 103 ZPO) Antrag nach § 104 ZPO beim Urkundsbeamten;
-   Glaubhaftmachung der Auslagen durch Kostenrechnung und Belege.
+ geeigneten Kostentitels (§ 103 ZPO) Antrag nach § 104 ZPO beim Urkundsbeamten;
+ Glaubhaftmachung der Auslagen durch Kostenrechnung und Belege.
 
 8. **Streitwertbeschwerde** – Binnen 6 Monaten nach Rechtskraft (§ 68 Abs. 1 Satz 3
-   GKG); beschwerdeberechtigt: Parteien und Staatskasse; Gericht, das die
-   angegriffene Entscheidung erlassen hat, entscheidet zuerst (§ 68 Abs. 1
-   Satz 1 GKG); dann ggf. Beschwerdegericht.
+ GKG); beschwerdeberechtigt: Parteien und Staatskasse; Gericht, das die
+ angegriffene Entscheidung erlassen hat, entscheidet zuerst (§ 68 Abs. 1
+ Satz 1 GKG); dann ggf. Beschwerdegericht.
 
 ## Ausgabeformat
 
 - **Streitwert-Memo** (Gutachtenstil): Struktur Hauptantrag → Hilfsanträge →
-  Nebenforderungen → Ergebniswert; mit Norm- und Rspr.-Nachweisen.
+ Nebenforderungen → Ergebniswert; mit Norm- und Rspr.-Nachweisen.
 - **Kostennote** (Tabelle): Gebührenart | Gegenstandswert | Gebührensatz
-  (VV-Nr.) | Betrag | USt.; Gesamt.
+ (VV-Nr.) | Betrag | USt.; Gesamt.
 - **Kostenfestsetzungsantrag** (Schriftsatz): Adressat Urkundsbeamter; Bezugnahme
-  auf Kostentitel; Auflistung erstattungsfähiger Kosten; Unterschrift.
+ auf Kostentitel; Auflistung erstattungsfähiger Kosten; Unterschrift.
 
 ## Beispiel
 
@@ -164,21 +164,21 @@ in: Hartmann, KostenG, 54. Aufl. 2024, § 45 GKG Rn. 18.)*
 ## Risiken und typische Fehler
 
 - **Frist Streitwertbeschwerde:** § 68 Abs. 1 Satz 3 GKG – 6 Monate nach
-  Rechtskraft der Hauptsacheentscheidung; Versäumnis führt zum Verlust des
-  Rechtsbehelfs.
+ Rechtskraft der Hauptsacheentscheidung; Versäumnis führt zum Verlust des
+ Rechtsbehelfs.
 - **Hilfsantragsmehrwert:** Wird irrtümlich sofort angesetzt, obwohl das Gericht
-  über ihn nicht entschieden hat – Fehler mit Kostennachforderungsrisiko.
+ über ihn nicht entschieden hat – Fehler mit Kostennachforderungsrisiko.
 - **Aufrechnung überschreitet Klageforderung:** § 45 Abs. 3 GKG begrenzt den
-  Mehrwert auf die Klageforderungshöhe; Überschreitung wird nicht berücksichtigt.
+ Mehrwert auf die Klageforderungshöhe; Überschreitung wird nicht berücksichtigt.
 - **Zinsen als Hauptforderung:** Sind Zinsen ausnahmsweise selbst Streitgegenstand
-  (z. B. Zinsklage), sind sie streitwertrelevant – § 43 Abs. 1 GKG greift dann
-  nicht.
+ (z. B. Zinsklage), sind sie streitwertrelevant – § 43 Abs. 1 GKG greift dann
+ nicht.
 - **Berufsrecht:** Fehlerhafte Gebührennoten können eine Pflichtverletzung
-  (§ 43a BRAO) darstellen; Vergütungsvereinbarungen müssen § 3a RVG entsprechen.
+ (§ 43a BRAO) darstellen; Vergütungsvereinbarungen müssen § 3a RVG entsprechen.
 - **Datenschutz:** Mandantenunterlagen dürfen nicht ohne Einwilligung in externe
-  KI-Tools eingegeben werden (§ 43a Abs. 2 BRAO, § 203 StGB).
+ KI-Tools eingegeben werden (§ 43a Abs. 2 BRAO, § 203 StGB).
 - **Keine KI-Garantie:** Gebührentabellen und Gegenstandswerte sind anhand der
-  aktuellen GKG-Anlage und RVG-Anlage 2 manuell zu prüfen.
+ aktuellen GKG-Anlage und RVG-Anlage 2 manuell zu prüfen.
 
 ## Quellenpflicht
 
@@ -208,29 +208,29 @@ nach Unfall über die Regulierung mit dem Versicherer bis zur Klage.
 Das Modell benötigt:
 
 1. **Unfallhergang**: Datum, Ort, beteiligte Fahrzeuge, Unfallablauf (eigene Darstellung;
-   Polizeiprotokoll, soweit vorhanden)
+ Polizeiprotokoll, soweit vorhanden)
 2. **Fahrzeugdaten**: Hersteller, Typ, Erstzulassung, Laufleistung; aktueller Zeitwert
 3. **Schäden**: Reparaturkostenvoranschlag oder Gutachten; Totalschadensfeststellung;
-   Wertminderung; Abschlepp-, Gutachterkosten; Mietwagen oder Nutzungsausfallbegehren
+ Wertminderung; Abschlepp-, Gutachterkosten; Mietwagen oder Nutzungsausfallbegehren
 4. **Personenschäden**: Verletzungsart, Behandlungsdauer, Attest; Arbeitsfähigkeitsverlust
 5. **Versicherungsdaten**: Haftpflichtversicherer des Gegners; Schadennummer
 6. **Mitverschulden**: Gibt es Hinweise auf ein Mitverschulden des Mandanten (Vorfahrt,
-   Geschwindigkeit, Sicherheitsgurt)?
+ Geschwindigkeit, Sicherheitsgurt)?
 
 ## Rechtlicher Rahmen
 
 ### Normen
 
 - **§ 7 StVG** – Halterhaftung (Gefährdungshaftung; kein Verschuldensnachweis erforderlich;
-  Entlastung nur bei höherer Gewalt § 7 Abs. 2 StVG oder unabwendbarem Ereignis § 17 Abs. 3 StVG)
+ Entlastung nur bei höherer Gewalt § 7 Abs. 2 StVG oder unabwendbarem Ereignis § 17 Abs. 3 StVG)
 - **§ 17 StVG** – Gesamtschuldnerausgleich zwischen Fahrzeughaltern; Abwägung der Verursachungs-
-  und Verschuldensbeiträge (Betriebsgefahr + konkretes Verschulden)
+ und Verschuldensbeiträge (Betriebsgefahr + konkretes Verschulden)
 - **§ 18 StVG** – Fahrerhaftung (Verschuldenshaftung; Beweislastumkehr: Fahrer muss fehlende
-  Fahrlässigkeit beweisen)
+ Fahrlässigkeit beweisen)
 - **§ 823 Abs. 1 BGB** – Deliktische Haftung (Leben, Körper, Gesundheit, Eigentum)
 - **§ 253 Abs. 2 BGB** – Schmerzensgeld bei Körper- oder Gesundheitsverletzung
 - **§ 115 Abs. 1 S. 1 Nr. 1 VVG** – Direktanspruch des Geschädigten gegen den KFZ-
-  Haftpflichtversicherer (ohne Umweg über den Versicherungsnehmer)
+ Haftpflichtversicherer (ohne Umweg über den Versicherungsnehmer)
 - **§ 3 PflVG** – Pflichtversicherung; Bindungswirkung des Versicherungsschutzes
 - **§ 249 BGB** – Naturalrestitution; Recht auf Reparatur oder Geldersatz
 - **§ 251 BGB** – Wertersatz bei Unverhältnismäßigkeit der Herstellung
@@ -239,16 +239,16 @@ Das Modell benötigt:
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Der Geschädigte kann Reparaturkosten bis zu 130 % des Wiederbeschaffungswerts verlangen,
-  wenn er das Fahrzeug tatsächlich repariert und es mindestens 6 Monate weiternutzt; maßgeblich
-  ist das Integritätsinteresse.
+ Der Geschädigte kann Reparaturkosten bis zu 130 % des Wiederbeschaffungswerts verlangen,
+ wenn er das Fahrzeug tatsächlich repariert und es mindestens 6 Monate weiternutzt; maßgeblich
+ ist das Integritätsinteresse.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  entschädigung; der Geschädigte hat Anspruch auf Nutzungsausfallentschädigung (nach Tabelle
-  Sanden/Danner/Küppersbusch), sofern er auf das Fahrzeug angewiesen war; bloße Freizeitnutzung
-  genügt nicht für Nutzungsausfall, wohl aber gewerbliche und Alltagsnutzung.
+ entschädigung; der Geschädigte hat Anspruch auf Nutzungsausfallentschädigung (nach Tabelle
+ Sanden/Danner/Küppersbusch), sofern er auf das Fahrzeug angewiesen war; bloße Freizeitnutzung
+ genügt nicht für Nutzungsausfall, wohl aber gewerbliche und Alltagsnutzung.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  eine merkantile Wertminderung entsteht durch das Bekanntwerden eines Unfallschadens auch bei
-  fachgerechter Reparatur; Berechnungsmethode Ruhkopf/Sahm.
+ eine merkantile Wertminderung entsteht durch das Bekanntwerden eines Unfallschadens auch bei
+ fachgerechter Reparatur; Berechnungsmethode Ruhkopf/Sahm.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
@@ -257,29 +257,29 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Sicherung der Beweise** (unmittelbar nach Unfall): Fotos, Polizeiprotokoll, Zeugenangaben,
-   Skizze; Sachverständigengutachten beauftragen (§ 249 BGB: Gutachterkosten erstattungsfähig).
+ Skizze; Sachverständigengutachten beauftragen (§ 249 BGB: Gutachterkosten erstattungsfähig).
 2. **Haftungsanalyse** (§§ 7, 17, 18 StVG):
-   - Grundhaftung aus § 7 StVG (Gefährdungshaftung, kein Verschulden nötig)
-   - Mitverschuldensprüfung § 17 StVG + § 254 BGB: Betriebsgefahr + konkretes Fehlverhalten
-   - Quotenbildung: z. B. Auffahrunfall ohne erkennbaren Grund → volle Haftung des Auffahrenden;
-     mit Mitverschulden (Abruptes Bremsen ohne Grund) → Quote.
+ - Grundhaftung aus § 7 StVG (Gefährdungshaftung, kein Verschulden nötig)
+ - Mitverschuldensprüfung § 17 StVG + § 254 BGB: Betriebsgefahr + konkretes Fehlverhalten
+ - Quotenbildung: z. B. Auffahrunfall ohne erkennbaren Grund → volle Haftung des Auffahrenden;
+ mit Mitverschulden (Abruptes Bremsen ohne Grund) → Quote.
 3. **Direktanspruch** (§ 115 VVG): Schreiben an gegnerischen Versicherer mit Schadensnummer;
-   Frist 3 Monate für Stellungnahme (§ 17 Abs. 1 PflVG).
+ Frist 3 Monate für Stellungnahme (§ 17 Abs. 1 PflVG).
 4. **Schadensaufstellung**:
-   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-      bei Totalschaden: Wiederbeschaffungswert abzügl. Restwert
-   b. *Wertminderung*: Methode Ruhkopf/Sahm; merkantil nur bei jungen Fahrzeugen sinnvoll
-   c. *Nutzungsausfall oder Mietwagen*: Tabelle Sanden/Danner/Küppersbusch; oder konkrete
-      Mietwagenkosten (erforderliche Klasse)
-   d. *Abschleppkosten, Gutachterkosten, Unkostenpauschale* (EUR 25–30, h. M.)
-   e. *Personenschaden*: Behandlungskosten, Verdienstausfall, Haushaltsführungsschaden
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ bei Totalschaden: Wiederbeschaffungswert abzügl. Restwert
+ b. *Wertminderung*: Methode Ruhkopf/Sahm; merkantil nur bei jungen Fahrzeugen sinnvoll
+ c. *Nutzungsausfall oder Mietwagen*: Tabelle Sanden/Danner/Küppersbusch; oder konkrete
+ Mietwagenkosten (erforderliche Klasse)
+ d. *Abschleppkosten, Gutachterkosten, Unkostenpauschale* (EUR 25–30, h. M.)
+ e. *Personenschaden*: Behandlungskosten, Verdienstausfall, Haushaltsführungsschaden
 5. **Schmerzensgeld** (§ 253 Abs. 2 BGB): Verletzungsdokumentation; Orientierung an
-   Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-   Genugtuungsfunktion.
+ Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+ Genugtuungsfunktion.
 6. **Verhandlung mit Versicherer**: Anspruchsschreiben mit vollständiger Aufstellung; Fristsetzung
-   2–4 Wochen; ggf. Mahnung (§ 286 BGB) für Verzugszinsen.
+ 2–4 Wochen; ggf. Mahnung (§ 286 BGB) für Verzugszinsen.
 7. **Klage** beim zuständigen AG/LG: bei Ablehnung oder unzureichendem Angebot; Prozesskostenhilfe
-   für einkommenschwache Mandanten prüfen.
+ für einkommenschwache Mandanten prüfen.
 
 ## Ausgabeformat
 
@@ -312,18 +312,18 @@ Attest.
 ## Risiken und typische Fehler
 
 - **130%-Grenze nicht beachtet**: Mandant lässt Fahrzeug für EUR 10.000 reparieren bei WBW
-  EUR 7.000 (143 %) → nur WBW minus Restwert erstattungsfähig; Mandant trägt Differenz.
+ EUR 7.000 (143 %) → nur WBW minus Restwert erstattungsfähig; Mandant trägt Differenz.
 - **Restwert zu niedrig ausgewiesen**: Gegnerversicherer kann höheren Restwert durch Aufkäufer
-  nachweisen; Beweislast bei Versicherer, aber Mandant kann sich nicht blind auf Gutachten
-  verlassen.
+ nachweisen; Beweislast bei Versicherer, aber Mandant kann sich nicht blind auf Gutachten
+ verlassen.
 - **Mitverschulden übersehen** (§ 254 BGB): Mandant nicht angeschnallt, Mitschuld an Verletzung;
-  Schmerzensgeld- und Schadensersatzkürzung.
+ Schmerzensgeld- und Schadensersatzkürzung.
 - **Nutzungsausfall ohne Nahraumnahme**: Kein Anspruch, wenn Mandant kein Bedürfnis nach
-  Nutzung hatte (Zweitfahrzeug vorhanden).
+ Nutzung hatte (Zweitfahrzeug vorhanden).
 - **Verjährung**: 3 Jahre ab Kenntnis (§ 195, § 199 BGB); spätestens 10 Jahre absolut; kein
-  Hemmungstatbestand → Klage oder Mahnbescheid rechtzeitig.
+ Hemmungstatbestand → Klage oder Mahnbescheid rechtzeitig.
 - **Berufsrecht**: Medizinische Unterlagen (Atteste) unterliegen § 203 StGB; nur in gesicherter
-  Umgebung bearbeiten; Honorarrecht RVG beachten.
+ Umgebung bearbeiten; Honorarrecht RVG beachten.
 
 ## Quellenpflicht
 
@@ -371,7 +371,7 @@ Vollstreckungsgegenklage, Drittwiderspruchsklage.
 Das Modell benötigt:
 
 1. **Vollstreckungstitel**: Art (Urteil, Beschluss, VB, notarielle Urkunde, Vergleich),
-   Datum, Gericht/Notar, Rechtskraft/Vollstreckbarkeit
+ Datum, Gericht/Notar, Rechtskraft/Vollstreckbarkeit
 2. **Vollstreckungsklausel**: Liegt eine vollstreckbare Ausfertigung vor? (§ 724 ZPO)
 3. **Zustellung**: Wurde der Titel dem Schuldner zugestellt? (§ 750 ZPO – Voraussetzung!)
 4. **Vollstreckungsgegenstand**: Geld/Mobilien/Forderungen/Immobilie/Herausgabe/Räumung
@@ -383,26 +383,26 @@ Das Modell benötigt:
 ### Normen
 
 - **§§ 704–707 ZPO** – Vollstreckungstitel und allgemeine Voraussetzungen (Titel, Klausel,
-  Zustellung = "drei Säulen")
+ Zustellung = "drei Säulen")
 - **§ 724 ZPO** – vollstreckbare Ausfertigung (Klausel); § 725 ZPO – Klauselerteilung durch
-  Urkundsbeamten; § 732 ZPO – Erinnerung gegen Klauselerteilung
+ Urkundsbeamten; § 732 ZPO – Erinnerung gegen Klauselerteilung
 - **§ 750 ZPO** – Zustellungserfordernis vor Beginn der Vollstreckung
 - **§ 767 ZPO** – Vollstreckungsgegenklage (materielle Einwendungen gegen den Anspruch selbst)
 - **§ 771 ZPO** – Drittwiderspruchsklage (Eigentum oder Recht eines Dritten an Vollstreckungs-
-  gegenstand)
+ gegenstand)
 - **§ 802a–802l ZPO** – Vermögensauskunft (§ 802c: Abgabe durch Schuldner; § 802d: Sperrfrist
-  2 Jahre; § 802l: Abruf beim Gerichtsvollzieher aus Schuldnerverzeichnis)
+ 2 Jahre; § 802l: Abruf beim Gerichtsvollzieher aus Schuldnerverzeichnis)
 - **§ 808 ZPO** – Pfändung körperlicher Sachen (Mobiliarpfändung durch GV; Gewahrsam des
-  Schuldners; Pfändungsprotokoll)
+ Schuldners; Pfändungsprotokoll)
 - **§§ 811, 811c ZPO** – Unpfändbare Sachen (Hausrat, Arbeitsgeräte, Sozialgeräte)
 - **§ 829 ZPO** – Forderungspfändung (Pfändungs- und Überweisungsbeschluss = PfÜB; Beschluss
-  durch Vollstreckungsgericht; Zustellung an Drittschuldner und Schuldner)
+ durch Vollstreckungsgericht; Zustellung an Drittschuldner und Schuldner)
 - **§§ 850–850k ZPO** – Pfändungsschutz für Arbeitseinkommen und P-Konto (§ 850c ZPO –
-  Pfändungstabelle; § 850k ZPO – Pfändungsschutzkonto)
+ Pfändungstabelle; § 850k ZPO – Pfändungsschutzkonto)
 - **§ 883 ZPO** – Herausgabevollstreckung beweglicher Sachen
 - **§ 885 ZPO** – Räumungsvollstreckung (durch GV; Androhung 3 Wochen vor Termin)
 - **ZVG** – Zwangsversteigerung und Zwangsverwaltung von Grundstücken (§§ 15 ff. ZVG
-  Antrag beim AG; §§ 35 ff. ZVG Versteigerungstermin)
+ Antrag beim AG; §§ 35 ff. ZVG Versteigerungstermin)
 - **§§ 900–915h ZPO** – Insolvenzantrag als ultima ratio; § 17 InsO – Zahlungsunfähigkeit
 
 ### Leitentscheidungen und Normfassungen
@@ -424,16 +424,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### A. Geldvollstreckung – Mobiliarpfändung (§ 808 ZPO)
 
 1. **Voraussetzungen prüfen**: Titel + Klausel + Zustellung; Wartefrist § 750 Abs. 1 ZPO
-   (i. d. R. 2 Wochen nach Zustellung)
+ (i. d. R. 2 Wochen nach Zustellung)
 2. **GV beauftragen**: Vollstreckungsauftrag an Gerichtsvollzieher; Angabe bekannter Vermögens-
-   werte; ggf. Auftrag zur Vermögensauskunft kombinieren
+ werte; ggf. Auftrag zur Vermögensauskunft kombinieren
 3. **Pfändung**: GV pfändet körperliche Sachen im Gewahrsam des Schuldners; Unpfändbarkeit
-   §§ 811 ff. ZPO beachten; Pfändungsprotokoll ausstellen
+ §§ 811 ff. ZPO beachten; Pfändungsprotokoll ausstellen
 
 ### B. Forderungspfändung – PfÜB (§§ 829, 835 ZPO)
 
 1. **Antrag beim Vollstreckungsgericht** (AG am Wohnsitz des Schuldners): Bezeichnung von
-   Forderung und Drittschuldner (Bank, Arbeitgeber, Mieter)
+ Forderung und Drittschuldner (Bank, Arbeitgeber, Mieter)
 2. **Erlass des PfÜB**: Gericht prüft nur formal → PfÜB wird erlassen
 3. **Zustellung**: Zunächst an Drittschuldner (Pfändungswirkung), dann an Schuldner
 4. **Drittschuldnererklärung** § 840 ZPO: Drittschuldner muss binnen 2 Wochen Auskunft geben
@@ -448,10 +448,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### D. Räumungsvollstreckung (§ 885 ZPO)
 
 1. **Titel**: rechtskräftiges Räumungsurteil oder vorläufig vollstreckbares Urteil mit
-   Sicherheitsleistung
+ Sicherheitsleistung
 2. **Androhung**: GV setzt Termin (mind. 3 Wochen Vorlauf, § 885 Abs. 1 ZPO)
 3. **Durchführung**: GV räumt; Hab und Gut des Schuldners wird eingelagert oder bei Wertlosigkeit
-   vernichtet
+ vernichtet
 
 ## Ausgabeformat
 
@@ -481,17 +481,17 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Risiken und typische Fehler
 
 - **Fehlende Zustellung** (§ 750 ZPO): Vollstreckung rechtswidrig; Erinnerung § 766 ZPO
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **P-Konto übersehen**: Pfändung auf Girokonto leer, wenn Schuldner P-Konto führt;
-  Freibeträge sind automatisch geschützt (§ 850k ZPO).
+ Freibeträge sind automatisch geschützt (§ 850k ZPO).
 - **Falsche Pfändungsfreigrenze**: Bei Unterhaltspflichten des Schuldners erhöhte Freigrenze
-  (§ 850c Abs. 2 ZPO); Überpfändung macht Gläubiger schadensersatzpflichtig.
+ (§ 850c Abs. 2 ZPO); Überpfändung macht Gläubiger schadensersatzpflichtig.
 - **Drittwiderspruchsklage** § 771 ZPO: Gepfändeter Gegenstand gehört Dritten → Klage suspendiert
-  Vollstreckung; materiell-rechtliches Eigentum des Dritten prüfen.
+ Vollstreckung; materiell-rechtliches Eigentum des Dritten prüfen.
 - **Vollstreckungsgegenklage** § 767 ZPO: Schuldner hat nach Titelerlass erfüllenden Umstand
-  (Zahlung, Aufrechnung, Stundung) → Klage beim Prozessgericht.
+ (Zahlung, Aufrechnung, Stundung) → Klage beim Prozessgericht.
 - **Berufsrecht**: Vollstreckungsaufträge mit Vermögensdaten des Schuldners unterliegen
-  § 43a Abs. 2 BRAO, § 203 StGB.
+ § 43a Abs. 2 BRAO, § 203 StGB.
 
 ## Quellenpflicht
 

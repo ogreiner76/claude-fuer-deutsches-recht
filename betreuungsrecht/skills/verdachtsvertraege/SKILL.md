@@ -1,12 +1,12 @@
 ---
 name: verdachtsvertraege
-description: "Nutze dies, wenn Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg / spezial verdachtsvertraege behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg / verdachtsvertraege behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

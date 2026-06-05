@@ -1,6 +1,6 @@
 ---
 name: zuordnung
-description: "Nutze dies, wenn Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Zuordnung: Erstprüfung, Rollenklärung und Mandatsziel

@@ -8,7 +8,7 @@ description: "Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne poli
 ## Aufgabe
 Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,13 +1,13 @@
 ---
 name: verl-webinar-vorbereitung
-description: "Nutze dies, wenn Verl Webinar Vorbereitung Fachbeitrag, Verl Zeitschriftenartikel Leitfaden, Verl Zitierweise Prüfung Zeitschrift Jus Njw, Verl Zweitverwertungsrechte Pauschal, Verlagsredaktion im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Verl Webinar Vorbereitung Fachbeitrag, Verl Zeitschriftenartikel Leitfaden, Verl Zitierweise Prüfung Zeitschrift Jus Njw, Verl Zweitverwertungsrechte Pauschal, Verlagsredaktion prüfen.; Erstelle eine Arbeitsfassung zu Verl Webinar Vorbereitung Fachbeitrag, Verl Zeitschriftenartikel Leitfaden, Verl Zitierweise Prüfung Zeitschrift Jus Njw, Verl Zweitverwertungsrechte Pauschal, Verlagsredaktion.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl Webinar Vorbereitung Fachbeitrag, Verl Zeitschriftenartikel Leitfaden, Verl Zitierweise Prüfung Zeitschrift Jus Njw, Verl Zweitverwertungsrechte Pauschal: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Webinar Vorbereitung Fachbeitrag, Verl Zeitschriftenartikel Leitfaden, Verl Zitierweise Prüfung Zeitschrift Jus Njw, Verl Zweitverwertungsrechte Pauschal, Verlagsredaktion
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Webinar Vorbereitung Fachbeitrag, Verl Zeitschriftenartikel Leitfaden, Verl Zitierweise Prüfung Zeitschrift Jus Njw, Verl Zweitverwertungsrechte Pauschal, Verlagsredaktion** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -108,9 +108,9 @@ Teilnahmegebuehr: EUR [...] inkl. USt.
 [ ] Rechnungsanschrift
 [ ] Ich habe die Datenschutzhinweise gelesen [Link].
 [ ] Ich willige in die Aufzeichnung des Webinars ein (Wortmeldungen
-    im Q&A werden aufgezeichnet, sofern ich mich melde).
+ im Q&A werden aufgezeichnet, sofern ich mich melde).
 [ ] (optional) Ich willige in den Empfang weiterer Newsletter und
-    Veranstaltungshinweise des Verlags ein.
+ Veranstaltungshinweise des Verlags ein.
 
 [Anmelden]
 ```
@@ -414,23 +414,23 @@ Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinste
 § [n] Nebenrechte und Zweitverwertung
 
 (1) Der Verlag ist berechtigt, die ihm eingeraeumten Nutzungsrechte
-    ganz oder teilweise an Dritte zu lizenzieren, insbesondere zur
-    Aufnahme in juristische Datenbanken (juris, beck-online, dejure-
-    plus) und vergleichbare Plattformen.
+ ganz oder teilweise an Dritte zu lizenzieren, insbesondere zur
+ Aufnahme in juristische Datenbanken (juris, beck-online, dejure-
+ plus) und vergleichbare Plattformen.
 
 (2) Von den hieraus erzielten Nettoerloesen erhaelt der Autor [50] Prozent.
-    Direkte Lizenzkosten werden vorab abgezogen.
+ Direkte Lizenzkosten werden vorab abgezogen.
 
 (3) Die Auskehr erfolgt im Rahmen der jaehrlichen Tantiemenabrechnung
-    gemaess § [n].
+ gemaess § [n].
 
 (4) Das gesetzliche Zweitverwertungsrecht des Autors gemaess UrhG § 38
-    Abs. 4 bleibt unberuehrt. Der Autor teilt dem Verlag die Ausuebung
-    schriftlich mit.
+ Abs. 4 bleibt unberuehrt. Der Autor teilt dem Verlag die Ausuebung
+ schriftlich mit.
 
 (5) Sonderdrucke des Beitrags stellt der Verlag dem Autor zum
-    Selbstkostenpreis zur Verfuegung, einmal jaehrlich bis zu 25 Stueck
-    kostenfrei.
+ Selbstkostenpreis zur Verfuegung, einmal jaehrlich bis zu 25 Stueck
+ kostenfrei.
 ```
 
 **Anschreiben Auskehr Sublizenz**

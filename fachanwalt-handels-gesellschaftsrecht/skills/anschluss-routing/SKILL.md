@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Nutze dies, wenn Anschluss-Routing im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Fachanwalt Handels Gesellschaftsrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Anschluss-Routing
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Handels Gesellschaftsrecht** ei
 ## Fachlandkarte dieses Plugins
 
 - `ag-vorstandsvertrag-hgr-aktionsbindungsvertrag-hgr` — Ag Vorstandsvertrag Hgr Aktionsbindungsvertrag Hgr
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `fachanwalt-fao-gesellschafterstreit` — Fachanwalt Fao Gesellschafterstreit
 - `geschaeftsfuehrerhaftung-holding-strukturplanung-gmbh-cash` — Geschaeftsfuehrerhaftung Holding Strukturplanung Gmbh Cash
 - `gesellschafterstreit-handelsvertreterausgleich-ma-due` — Gesellschafterstreit Handelsvertreterausgleich Ma Due
@@ -29,7 +29,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Handels Gesellschaftsrecht** ei
 ## Arbeitsweg
 
 - Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Spezialpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
+- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
 - Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
 - Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
 

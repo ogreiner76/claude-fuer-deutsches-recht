@@ -1,6 +1,6 @@
 ---
 name: rom-045-prozess-legisaktionen
-description: "Römisches Recht: Prozess Legisaktionen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Prozess Legisaktionen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Prozess Legisaktionen

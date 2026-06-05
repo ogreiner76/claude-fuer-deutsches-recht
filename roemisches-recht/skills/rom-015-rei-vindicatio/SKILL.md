@@ -1,6 +1,6 @@
 ---
 name: rom-015-rei-vindicatio
-description: "Römisches Recht: Rei Vindicatio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Rei Vindicatio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Rei Vindicatio

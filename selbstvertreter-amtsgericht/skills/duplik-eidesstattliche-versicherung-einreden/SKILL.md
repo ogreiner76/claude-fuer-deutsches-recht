@@ -1,13 +1,13 @@
 ---
 name: duplik-eidesstattliche-versicherung-einreden
-description: "Nutze dies, wenn Duplik Nach Replik, Eidesstattliche Versicherung 294 Zpo, Einreden Aktiv Geltend Machen im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Duplik Nach Replik, Eidesstattliche Versicherung 294 Zpo, Einreden Aktiv Geltend Machen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Duplik Nach Replik, Eidesstattliche Versicherung 294 Zpo, Einreden Aktiv Geltend Machen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Duplik Nach Replik, Eidesstattliche Versicherung 294 Zpo, Einreden Aktiv Geltend Machen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -233,9 +233,9 @@ wohnhaft [Adresse], versichere hiermit
 an Eides statt:
 
 1. Ich war vom 1.5.2026 bis 10.5.2026 wegen
-   eines Verkehrsunfalls im Krankenhaus [Name].
+ eines Verkehrsunfalls im Krankenhaus [Name].
 2. Mir war es in diesem Zeitraum nicht moeglich,
-   Schriftsaetze zu erstellen oder einzureichen.
+ Schriftsaetze zu erstellen oder einzureichen.
 
 Ich versichere die Wahrheit dieser Erklaerung an
 Eides statt.
@@ -458,14 +458,14 @@ Eigener Abschnitt in der Klageerwiderung:
 III. Einreden
 
 1. Verjaehrung.
-   [Begruendung]
+ [Begruendung]
 
 2. Hilfsweise: Aufrechnung mit Forderung in Hoehe
-   von 800 EUR aus [Grund].
-   [Begruendung]
+ von 800 EUR aus [Grund].
+ [Begruendung]
 
 3. Hoechsthilfsweise: Zurueckbehaltungsrecht.
-   [Begruendung]
+ [Begruendung]
 ```
 
 Rangfolge: Erst Hauptangriff (Verjaehrung, weil sie Klage komplett zu Fall bringt), dann Aufrechnung (Teilreduktion), dann Zurueckbehaltung (Zug-um-Zug).

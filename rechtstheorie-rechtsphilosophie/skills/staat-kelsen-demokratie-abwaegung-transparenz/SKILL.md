@@ -1,13 +1,13 @@
 ---
 name: staat-kelsen-demokratie-abwaegung-transparenz
-description: "Nutze dies, wenn Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie Verfahren Minderheitenschutz, Abwaegung Transparenz Rationalitaet im Plugin Rechtstheorie Rechtsphilosophie konkret bearbeitet werden soll. Auslöser: Bitte Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie Verfahren Minderheitenschutz, Abwaegung Transparenz Rationalitaet prüfen.; Erstelle eine Arbeitsfassung zu Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie Verfahren Minderheitenschutz, Abwaegung Transparenz Rationalitaet.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie Verfahren Minderheitenschutz, Abwaegung Transparenz Rationalitaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie Verfahren Minderheitenschutz, Abwaegung Transparenz Rationalitaet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Staat Als Ordnungsmacht Anti Autoritaerer Check, Kelsen Demokratie Verfahren Minderheitenschutz, Abwaegung Transparenz Rationalitaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

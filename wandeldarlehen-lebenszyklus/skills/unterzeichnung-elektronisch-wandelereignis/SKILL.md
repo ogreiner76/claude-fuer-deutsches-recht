@@ -1,13 +1,13 @@
 ---
 name: unterzeichnung-elektronisch-wandelereignis
-description: "Nutze dies, wenn Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Bitte Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang prüfen.; Erstelle eine Arbeitsfassung zu Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Unterzeichnung Elektronisch Docusign, Wandelereignis Eingang** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -129,7 +129,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Zweck
 
-Dieser Skill strukturiert den Workflow nach Eingang der Wandlungserklärung des Lenders. Er prüft formelle Voraussetzungen, dokumentiert den Eingang und leitet den Prozess weiter. Phase C des Lebenszyklus.
+Dieser Skill strukturiert den nach Eingang der Wandlungserklärung des Lenders. Er prüft formelle Voraussetzungen, dokumentiert den Eingang und leitet den Prozess weiter. Phase C des Lebenszyklus.
 
 ## Eingaben
 

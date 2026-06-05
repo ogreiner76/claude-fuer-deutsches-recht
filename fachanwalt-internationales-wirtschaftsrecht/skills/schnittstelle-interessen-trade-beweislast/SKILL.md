@@ -1,13 +1,13 @@
 ---
 name: schnittstelle-interessen-trade-beweislast
-description: "Nutze dies, wenn Spezial Schnittstelle Mehrparteien Konflikt Und Interessen, Spezial Trade Beweislast Und Darlegungslast, Spezial Uncitral Schriftsatz Brief Und Memo Bausteine im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Schnittstelle Mehrparteien Konflikt Und Interessen, Spezial Trade Beweislast Und Darlegungslast, Spezial Uncitral Schriftsatz Brief Und Memo Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Spezial Schnittstelle Mehrparteien Konflikt Und Interessen, Spezial Trade Beweislast Und Darlegungslast, Spezial Uncitral Schriftsatz Brief Und Memo Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schnittstelle Mehrparteien Konflikt Und Interessen, Trade Beweislast Und Darlegungslast, Uncitral Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Schnittstelle Mehrparteien Konflikt Und Interessen, Spezial Trade Beweislast Und Darlegungslast, Spezial Uncitral Schriftsatz Brief Und Memo Bausteine
+# Schnittstelle Mehrparteien Konflikt Und Interessen, Trade Beweislast Und Darlegungslast, Uncitral Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schnittstelle Mehrparteien Konflikt Und Interessen, Trade Beweislast Und Darlegungslast, Uncitral Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Schnittstelle Mehrparteien Konflikt Und Interessen, Spezial Trade Beweislast Und Darlegungslast, Spezial Uncitral Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schnittstelle Mehrparteien Konflikt Und Interessen, Trade Beweislast Und Darlegungslast, Uncitral Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Schnittstelle Mehrparteien Konflikt Und Interessen, Spezial Trade
 # Schnittstelle: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Schnittstelle: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Schnittstelle: Mehrparteienkonflikt und Interessenmatrix / spezial schnittstelle mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schnittstelle: Mehrparteienkonflikt und Interessenmatrix / schnittstelle mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Trade: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Trade: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Trade: Beweislast, Darlegungslast und Substantiierung / spezial trade beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Trade: Beweislast, Darlegungslast und Substantiierung / trade beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Uncitral: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Uncitral: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Uncitral: Schriftsatz-, Brief- und Memo-Bausteine / spezial uncitral schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Uncitral: Schriftsatz-, Brief- und Memo-Bausteine / uncitral schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

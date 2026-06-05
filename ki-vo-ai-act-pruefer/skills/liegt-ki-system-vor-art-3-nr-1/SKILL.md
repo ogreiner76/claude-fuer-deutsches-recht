@@ -130,7 +130,7 @@ Wenn eine Ausgabe nur testweise erzeugt und nie verwendet wird, dokumentiere das
 | Befund | Ergebnisrichtung |
 |---|---|
 | Maschinenbasiert + Inferenz + Output mit möglichem Einfluss | starkes Indiz für KI-System |
-| Generatives Modell oder LLM/API im Workflow | regelmäßig KI-System-Komponente |
+| Generatives Modell oder LLM/API im | regelmäßig KI-System-Komponente |
 | Nur feste Wenn-Dann-Regeln ohne gelernte Parameter und ohne Inferenz | regelmäßig kein KI-System |
 | Nur Suche, Filterung, Formatierung, Kopieren, Validieren | regelmäßig kein KI-System |
 | Automation ohne Inferenz | nicht genug, aber genauer prüfen |

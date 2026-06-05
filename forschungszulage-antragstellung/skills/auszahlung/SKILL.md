@@ -1,12 +1,12 @@
 ---
 name: auszahlung
-description: "Nutze dies, wenn Auszahlung: Internationaler Bezug und Schnittstellen im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Auszahlung: Internationaler Bezug und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Auszahlung: Internationaler Bezug und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Auszahlung: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Auszahlung: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Auszahlung: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Auszahlung: Internationaler Bezug und Schnittstellen / spezial auszahlung internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Auszahlung: Internationaler Bezug und Schnittstellen / auszahlung internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FZulG, BSFZ.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -8,7 +8,7 @@ description: "Erzeugt komplette Pakete: Einladung, TO, Wahlordnung, Stimmzettel,
 ## Aufgabe
 Erzeugt komplette Pakete: Einladung, TO, Wahlordnung, Stimmzettel, Niederschrift, Versicherungen, Wahlleiteranschreiben.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

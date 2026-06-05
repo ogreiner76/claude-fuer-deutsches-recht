@@ -1,13 +1,13 @@
 ---
 name: db-agb-db-auskunft-db-datenqualitaet
-description: "Nutze dies, wenn Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewährleistung im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewaehrleistung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewährleistung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewährleistung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -205,7 +205,7 @@ Für **Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Sc
 ## Output
 
 - Haftungsrisikoanalyse für Datenbankbetreiber (Vertrag + Delikt + DSGVO)
-- DSGVO-Berichtigungsworkflow (Art. 16 DSGVO) für personenbezogene Datenbanken
+- DSGVO-Berichtigungs(Art. 16 DSGVO) für personenbezogene Datenbanken
 - Haftungsbegrenzungs-AGB-Klausel (§§ 307-309 BGB-konform)
 - Datenbankqualitäts-Sorgfaltspflichten-Katalog
 - Schadensberechnung für Falschauskunft-Fälle (Lizenzanalogie / konkreter Schaden)

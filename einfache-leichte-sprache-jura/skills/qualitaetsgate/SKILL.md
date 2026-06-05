@@ -1,12 +1,12 @@
 ---
 name: qualitaetsgate
-description: "Nutze dies, wenn Qualitaetsgate: Formular, Portal und Einreichungslogik im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Qualitaetsgate: Formular, Portal und Einreichungslogik: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Qualitaetsgate: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Qualitaetsgate: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Qualitaetsgate: Formular, Portal und Einreichungslogik / spezial qualitaetsgate formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Qualitaetsgate: Formular, Portal und Einreichungslogik / qualitaetsgate formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

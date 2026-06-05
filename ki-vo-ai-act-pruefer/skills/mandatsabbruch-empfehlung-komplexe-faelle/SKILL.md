@@ -1,17 +1,17 @@
 ---
 name: mandatsabbruch-empfehlung-komplexe-faelle
-description: "Mechanik-Workflow erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren für Komplexitaet jenseits des KI-VO-Prüfers: multijurisdiktionelle Lieferketten marktbeherrschende Stellung KI und Waettbewerb hochspezialisierte Zertifizierungen Auslegungsstreit. Prüfraster: Schwellenwerte Mehrfachrollen kombinierte Hochrisiko-GPAI-Systeme laufende Vertragsprüfung. Output: Eskalationsempfehlung mit Begründung und Verweis auf IT-Recht Datenschutz Produktsicherheit. Abgrenzung zu triage-ki-vo-vorprüfung (Eingangs-Triage)."
+description: "Nutze dies bei Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen
 
 ## Zweck
 
-Dieser Skill erkennt Situationen, in denen ein Mechanik-Workflow nicht mehr ausreicht und professionelle juristische Beratung zwingend erforderlich ist. Er gibt klare Indikatoren und benennt die relevanten Fachrichtungen.
+Dieser Skill erkennt Situationen, in denen ein Mechanik-nicht mehr ausreicht und professionelle juristische Beratung zwingend erforderlich ist. Er gibt klare Indikatoren und benennt die relevanten Fachrichtungen.
 
 ## Grundprinzip
 
-Der vorliegende Workflow ist ein mechanisches Prüfinstrument. Er kann prüfen, ob bestimmte Tatbestandsmerkmale nach Maßgabe der vom Nutzer geschilderten Tatsachen erfüllt sind. Er kann nicht:
+Der vorliegende ist ein mechanisches Prüfinstrument. Er kann prüfen, ob bestimmte Tatbestandsmerkmale nach Maßgabe der vom Nutzer geschilderten Tatsachen erfüllt sind. Er kann nicht:
 - Sachverhalte würdigen, die rechtlich komplex oder widersprüchlich sind
 - Ermessen ausüben, das Rechtsanwendung erfordert
 - Strategische Compliance-Beratung leisten
@@ -67,13 +67,13 @@ Wenn der Nutzer eine öffentliche Stelle oder ein im öffentlichen Auftrag hande
 
 Wenn ein oder mehrere dieser Indikatoren vorliegen, empfiehlt dieses System:
 
-1. Den Mechanik-Workflow für orientierende Selbsteinschätzung weiter nutzen — aber keine abschließenden Compliance-Entscheidungen darauf stützen.
+1. Den Mechanik-für orientierende Selbsteinschätzung weiter nutzen — aber keine abschließenden Compliance-Entscheidungen darauf stützen.
 2. Einen auf IT-Recht, Datenschutz oder Produktsicherheit spezialisierten Anwalt hinzuziehen.
 3. Die Fachkenntnisse einer benannten Stelle oder akkreditierten Prüfeinrichtung in Betracht ziehen.
 
 ## Keine Einschränkung des Workflows
 
-Die Empfehlung eines Fachanwalts schließt die weitere Nutzung dieses Workflows nicht aus. Der Workflow kann als strukturierte Vorbereitung für ein Beratungsgespräch dienen.
+Die Empfehlung eines Fachanwalts schließt die weitere Nutzung dieses Workflows nicht aus. Der kann als strukturierte Vorbereitung für ein Beratungsgespräch dienen.
 
 ---
 
@@ -111,7 +111,7 @@ Gepruefte Norm(en): [Art. 9 Rn. 1]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

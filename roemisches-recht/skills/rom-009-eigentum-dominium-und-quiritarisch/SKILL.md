@@ -1,6 +1,6 @@
 ---
 name: rom-009-eigentum-dominium-und-quiritarisch
-description: "Römisches Recht: Eigentum Dominium Und Quiritarisch. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Eigentum Dominium Und Quiritarisch. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Eigentum Dominium Und Quiritarisch

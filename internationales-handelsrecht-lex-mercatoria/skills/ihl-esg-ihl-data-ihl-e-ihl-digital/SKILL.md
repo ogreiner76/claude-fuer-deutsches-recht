@@ -1,13 +1,13 @@
 ---
 name: ihl-esg-ihl-data-ihl-e-ihl-digital
-description: "Nutze dies, wenn Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International prüfen.; Erstelle eine Arbeitsfassung zu Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2b, Ihl 060 Digital Products International: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2B, Ihl 060 Digital Products International** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

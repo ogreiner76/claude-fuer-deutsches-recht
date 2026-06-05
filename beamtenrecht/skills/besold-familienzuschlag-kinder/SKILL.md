@@ -1,13 +1,13 @@
 ---
 name: besold-familienzuschlag-kinder
-description: "Nutze dies, wenn Besold Neu 010 Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Neu 011 Professorenbesoldung W Besoldung Leistungsbezuege, Besold Neu 012 Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Neu 013 Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei, Besold Neu 015 Beihilfe Pkv Restkosten Und Kostendaempfung und 2 weitere Themen im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Besold Neu 010 Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Neu 011 Professorenbesoldung W Besoldung Leistungsbezuege, Besold Neu 012 Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Neu 013 Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei, Besold Neu 015 Beihilfe Pkv Restkosten Und Kostendaempfung und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Besold Neu 010 Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Neu 011 Professorenbesoldung W Besoldung Leistungsbezuege, Besold Neu 012 Richterbesoldung R Besoldung Und Unabhaen..."
+description: "Nutze dies bei Besoldung Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besoldung Professorenbesoldung W Besoldung Leistungsbezuege, Besoldung Richterbesoldung R Besoldung Und Unabhaengigkeit, Besoldung Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Besold Neu 010 Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Neu 011 Professorenbesoldung W Besoldung Leistungsbezuege, Besold Neu 012 Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Neu 013 Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei, Besold Neu 015 Beihilfe Pkv Restkosten Und Kostendaempfung und 2 weitere Themen
+# Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Professorenbesoldung W Besoldung Leistungsbezuege, Besold Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei, Besold Beihilfe Pkv Restkosten Und Kostendaempfung und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Professorenbesoldung W Besoldung Leistungsbezuege, Besold Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei, Besold Beihilfe Pkv Restkosten Und Kostendaempfung und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -23,7 +23,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Besold Neu 010 Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Neu 011 Professorenbesoldung W Besoldung Leistungsbezuege, Besold Neu 012 Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Neu 013 Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei, Besold Neu 015 Beihilfe Pkv Restkosten Und Kostendaempfung und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Professorenbesoldung W Besoldung Leistungsbezuege, Besold Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei, Besold Beihilfe Pkv Restkosten Und Kostendaempfung und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Besold Neu 010 Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Ne
 
 **Fokus:** Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 010 Familienzuschlag Kinder Ehe Lebenspartnerschaft
+# Besold Familienzuschlag Kinder Ehe Lebenspartnerschaft
 
 ## Aufgabe
 
@@ -85,7 +85,7 @@ Skill fuer Familienzuschlag — Stufen, Berechnung, eingetragene Lebenspartnersc
 
 **Fokus:** Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 011 Professorenbesoldung W Besoldung Leistungsbezuege
+# Besold Professorenbesoldung W Besoldung Leistungsbezuege
 
 ## Aufgabe
 
@@ -100,9 +100,9 @@ Skill fuer Professorenbesoldung — W-Besoldung und Leistungsbezuege.
 
 - **Grundgehalt** (festes Gehalt).
 - **Leistungsbezuege** (variabel):
-  - Berufungs- und Bleibebezuege.
-  - Besondere Leistungen in Forschung und Lehre.
-  - Funktionsleistungsbezuege (Dekanat, Rektorat).
+ - Berufungs- und Bleibebezuege.
+ - Besondere Leistungen in Forschung und Lehre.
+ - Funktionsleistungsbezuege (Dekanat, Rektorat).
 
 ## BVerfG-Linie
 
@@ -124,7 +124,7 @@ Skill fuer Professorenbesoldung — W-Besoldung und Leistungsbezuege.
 
 **Fokus:** Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 012 Richterbesoldung R Besoldung Und Unabhaengigkeit
+# Besold Richterbesoldung R Besoldung Und Unabhaengigkeit
 
 ## Aufgabe
 
@@ -167,7 +167,7 @@ Skill fuer Richterbesoldung — R-Besoldung und richterliche Unabhaengigkeit Art
 
 **Fokus:** Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 013 Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei
+# Besold Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei
 
 ## Aufgabe
 
@@ -217,7 +217,7 @@ Skill fuer Versorgung im Ruhestand — Ruhegehalt nach BeamtVG.
 
 **Fokus:** Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 015 Beihilfe Pkv Restkosten Und Kostendaempfung
+# Besold Beihilfe Pkv Restkosten Und Kostendaempfung
 
 ## Aufgabe
 
@@ -269,7 +269,7 @@ Skill fuer Beihilfe und PKV-Erstattung bei Beamten — Restkosten und Kostendaem
 
 **Fokus:** Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 016 Besoldungswiderspruch Zeitnahe Geltendmachung
+# Besold Besoldungswiderspruch Zeitnahe Geltendmachung
 
 ## Aufgabe
 
@@ -314,7 +314,7 @@ Skill fuer Besoldungswiderspruch und zeitnahe Geltendmachung.
 
 **Fokus:** Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 018 Konkurrentenschutz Eilrechtsschutz Ernennungssper
+# Besold Konkurrentenschutz Eilrechtsschutz Ernennungssper
 
 ## Aufgabe
 

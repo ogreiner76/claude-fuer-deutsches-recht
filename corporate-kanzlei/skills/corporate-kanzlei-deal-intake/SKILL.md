@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-deal-intake
-description: "Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Spezialskills (SPA, DD, Regulatory); für laufendes Mandat siehe kommandocenter."
+description: "Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Fachmodule (SPA, DD, Regulatory); für laufendes Mandat siehe kommandocenter."
 ---
 
 # Deal-Intake
@@ -167,12 +167,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Zielgesellschaft borsennotiert oder Konzernteil einer Boersengesellschaft?
-  → Ja: Insiderinformation vorhanden?
-       → Ja: Insider-Log anlegen (Art. 18 MAR); Ad-Hoc ggf. erforderlich
-              → Vertraulichkeit von Mandant einfordern (NDA/MAR-Pflicht)
-       → Nein: laufend pruefen; Transaktionsbekanntgabe kann Insiderinformation werden
-  → Nein: GwG-Standard-CDD; keine MAR-Pflichten im engeren Sinne
-          → aber: Marktmanipulation (Art. 12 MAR) auch bei nicht-borsennotierten moeglich
+ → Ja: Insiderinformation vorhanden?
+ → Ja: Insider-Log anlegen (Art. 18 MAR); Ad-Hoc ggf. erforderlich
+ → Vertraulichkeit von Mandant einfordern (NDA/MAR-Pflicht)
+ → Nein: laufend pruefen; Transaktionsbekanntgabe kann Insiderinformation werden
+ → Nein: GwG-Standard-CDD; keine MAR-Pflichten im engeren Sinne
+ → aber: Marktmanipulation (Art. 12 MAR) auch bei nicht-borsennotierten moeglich
 ```
 
 ## Output-Template Deal-Karte

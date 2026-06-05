@@ -1,13 +1,13 @@
 ---
 name: paragraf-quelle-beweislast-tzbfg
-description: "Nutze dies, wenn Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Paragraf Dokumentenmatrix Und Lueckenliste, Quelle Beweislast Und Darlegungslast, Tzbfg Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine
+# Paragraf Dokumentenmatrix Und Lueckenliste, Quelle Beweislast Und Darlegungslast, Tzbfg Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Paragraf Dokumentenmatrix Und Lueckenliste, Quelle Beweislast Und Darlegungslast, Tzbfg Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweislast Und Darlegungslast, Spezial Tzbfg Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Paragraf Dokumentenmatrix Und Lueckenliste, Quelle Beweislast Und Darlegungslast, Tzbfg Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,7 +42,7 @@ Für **Spezial Paragraf Dokumentenmatrix Und Lueckenliste, Spezial Quelle Beweis
 ## Zweck
 Schnelle Zuordnung von Normen zu Dokumenten und Belegen für die häufigsten arbeitsrechtlichen Streitgegenstände. Das Ergebnis ist eine Matrix mit (a) erforderlichem Dokument, (b) vorhandenem Dokument, (c) fehlendem Dokument und (d) Beschaffungsweg.
 
-## Kaltstart
+## Einstieg
 Wenn ein Sachverhalt vorliegt, zuerst bestimmen:
 
 1. **Streitgegenstand:** Kündigung, Befristung, Abfindung, Vergütung, Betriebsrat, AGG, Betriebsübergang?
@@ -157,7 +157,7 @@ Nach Ausfüllen der Matrix:
 ## Zweck
 Systematische Aufbereitung der Quellen- und Beweislastregeln für arbeitsrechtliche Schriftsätze — von der Darlegungslastverteilung über die abgestufte BAG-Linie bis zum Quellenprotokoll für jeden zitierten Rechtssatz.
 
-## Kaltstart
+## Einstieg
 Wenn ein Schriftsatz, eine Prüfmatrix oder eine Antwort auf eine Rechtsfrage zu erstellen ist:
 
 1. **Welcher Rechtssatz soll bewiesen werden?** (Normenanwendung, Tatsache, Bewertung)
@@ -242,8 +242,8 @@ Normzitate:
 
 Rechtsprechung:
 1. BAG, [Datum], Az. [X] — abgerufen von bundesarbeitsgericht.de am [Datum]
-   URL: [URL]
-   Kernsatz: [...]
+ URL: [URL]
+ Kernsatz: [...]
 2. ...
 
 Unsichere Punkte (Live-Check erforderlich):
@@ -289,7 +289,7 @@ Unsichere Punkte (Live-Check erforderlich):
 ## Zweck
 Fertige und anpassbare Textbausteine für die häufigsten TzBfG-Konstellationen — Entfristungsklage, Mandantenbrief und Vergleichsformeln. Alle Bausteine sind Vorlage; anwaltliche Einzelfallprüfung bleibt erforderlich.
 
-## Kaltstart
+## Einstieg
 Wenn eine TzBfG-Konstellation vorliegt, zuerst klären:
 
 1. **Was ist der Sachverhalt?** Sachgrundbefristung oder sachgrundlose Befristung? Verlängerungen?
@@ -320,7 +320,7 @@ welcher Sachgrund behauptet wird / ob sachgrundlose Befristung]
 III. Fehlende Schriftform / fehlender Sachgrund / Anschlussverbot
 [Konkrete Angriffspunkte:]
 - Schriftform § 14 Abs. 4 TzBfG: [Vertrag wurde nach Dienstantritt unterzeichnet /
-  keine Originalunterschrift / etc.]
+ keine Originalunterschrift / etc.]
 - Kein Sachgrund § 14 Abs. 1 TzBfG: [konkret warum der behauptete Sachgrund nicht vorliegt]
 - Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG: [wenn Vorbeschäftigung vorhanden]
 

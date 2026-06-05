@@ -1,13 +1,13 @@
 ---
 name: neuheit-erfinderische-patentprozess
-description: "Nutze dies, wenn Neuheit Und Erfinderische Taetigkeit, Patentprozess Besichtigung Beweissicherung, Patentprozess Claim Construction De En im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Neuheit Und Erfinderische Taetigkeit, Patentprozess Besichtigung Beweissicherung, Patentprozess Claim Construction De En prüfen.; Erstelle eine Arbeitsfassung zu Neuheit Und Erfinderische Taetigkeit, Patentprozess Besichtigung Beweissicherung, Patentprozess Claim Construction De En.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Neuheit Und Erfinderische Taetigkeit, Patentprozess Besichtigung Beweissicherung, Patentprozess Claim Construction De En: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Neuheit Und Erfinderische Taetigkeit, Patentprozess Besichtigung Beweissicherung, Patentprozess Claim Construction De En
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Neuheit Und Erfinderische Taetigkeit, Patentprozess Besichtigung Beweissicherung, Patentprozess Claim Construction De En** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -82,7 +82,7 @@ Wenn die Entgegenhaltung nur aus Zusammenfassung, Maschinenübersetzung oder Bil
 
 Beweissicherung bei komplexen technischen Produkten und Verfahren.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
@@ -140,7 +140,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 Bilinguale Anspruchsauslegung für deutsche, UPC- und Common-Law-nahe Verfahren.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 

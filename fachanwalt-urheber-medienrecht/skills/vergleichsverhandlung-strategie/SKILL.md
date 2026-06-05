@@ -1,13 +1,13 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Nutze dies, wenn Vergleichsverhandlung Strategie im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Bitte Vergleichsverhandlung Strategie prüfen.; Erstelle eine Arbeitsfassung zu Vergleichsverhandlung Strategie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vergleichsverhandlung Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vergleichsverhandlung Strategie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vergleichsverhandlung Strategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -71,26 +71,26 @@ Für **Vergleichsverhandlung Strategie** zuerst das Arbeitsmodul wählen, dessen
 
 ```
 Schritt 1: Schadensposition berechnen
-  → MFM-Lizenzwert als Ausgangspunkt
-  → Ggf. Verdoppelung wegen fehlender Urheberbenennung
-  → Anwaltskosten aus Streitwert
+ → MFM-Lizenzwert als Ausgangspunkt
+ → Ggf. Verdoppelung wegen fehlender Urheberbenennung
+ → Anwaltskosten aus Streitwert
 
 Schritt 2: Vergleichsrahmen bestimmen
-  → Untere Grenze: MFM ohne Verdoppelung
-  → Ziel: MFM + Verdoppelung + Anwaltskosten
-  → Anker: volle Klageforderung
+ → Untere Grenze: MFM ohne Verdoppelung
+ → Ziel: MFM + Verdoppelung + Anwaltskosten
+ → Anker: volle Klageforderung
 
 Schritt 3: Angebot unterbreiten
-  → Schriftlich "ohne Praejudiz und unter Widerrufsvorbehalt"
-  → Antwortfrist setzen (5-7 Werktage)
+ → Schriftlich "ohne Praejudiz und unter Widerrufsvorbehalt"
+ → Antwortfrist setzen (5-7 Werktage)
 
 Schritt 4: Gegenentwurf verhandeln
-  → Anti-Hammer-Klausel pruefen
-  → Abgeltungsklausel-Reichweite abstimmen
+ → Anti-Hammer-Klausel pruefen
+ → Abgeltungsklausel-Reichweite abstimmen
 
 Schritt 5: Vergleichsvertrag abschliessen
-  → Anwaltsvergleich § 796a ZPO
-  → Mandantenfreigabe vor Unterzeichnung
+ → Anwaltsvergleich § 796a ZPO
+ → Mandantenfreigabe vor Unterzeichnung
 ```
 
 ## Quellenregel
@@ -112,14 +112,14 @@ Sehr geehrte Damen und Herren,
 zur guetlichen Beilegung des Streitwerts unterbreiten wir folgendes Angebot:
 
 1. Zahlung eines Pauschalbetrags von [BETRAG] EUR zur Abgeltung aller
-   Schadensersatz- und Kostenerstattungsansprueche aus der Verletzung des
-   Werks [BESCHREIBUNG].
+ Schadensersatz- und Kostenerstattungsansprueche aus der Verletzung des
+ Werks [BESCHREIBUNG].
 
 2. Unterzeichnung der beigefuegten strafbewehrten Unterlassungserklaerung
-   mit einer Vertragsstrafe von [BETRAG] EUR je Verstoß.
+ mit einer Vertragsstrafe von [BETRAG] EUR je Verstoß.
 
 3. Mit Zahlung und UE-Abgabe sind alle gegenseitigen Ansprueche aus dem
-   Sachverhalt abgegolten.
+ Sachverhalt abgegolten.
 
 Dieses Angebot gilt bis [DATUM].
 

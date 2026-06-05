@@ -1,13 +1,13 @@
 ---
 name: pe-eltif-pe-euveca-pe-kvg-pe-verwahrstelle
-description: "Nutze dies, wenn Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen prüfen.; Erstelle eine Arbeitsfassung zu Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,7 +57,7 @@ Der Skill stellt EU-Pass, Retail-Zugang, Anlagegrenzen, Liquidität und Vertrieb
 
 ELTIF-VO (EU) 2015/760 in der Fassung (EU) 2023/606 (ELTIF 2.0, anwendbar seit 10.01.2024); RTS-Verordnungen der ESMA zu ELTIF 2.0 (vom Anwender mit jeweils aktuellem Stand zu prüfen); KAGB §§ 261, 320 i.V.m. § 230 KAGB; KAGB-Vertriebsregime §§ 293 ff. mit EU-Pass; MiFID-II-Zielmarkt-Konzept; PRIIPs-KID (VO (EU) 1286/2014) für Retail-Vertrieb; SFDR; KAGB-Verwahrstelle § 80; Geeignetheitsprüfung beim Vertrieb an Retail (§ 64 WpHG, jetzt § 87 WpHG vom Anwender zu prüfen).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Anlegeruniversum klären: ausschließlich institutionell (dann Spezial-AIF oft besser), oder gemischt mit Retail-Zugang (dann ELTIF).
 2. Asset-Mix prüfen: ELTIF 2.0 verlangt 55 Prozent in "qualifying assets" (Equity/Debt von KMU, Real Assets, andere ELTIF/EuVECA/EuSEF, Fund-of-ELTIF).
@@ -153,7 +153,7 @@ Der Skill liefert die Strukturentscheidung zwischen EuVECA-Label (VO 345/2013), 
 
 EuVECA-VO (EU) 345/2013, geändert durch VO (EU) 2017/1991; ESMA-Q&A zu EuVECA (vom Anwender mit aktuellem Stand zu prüfen); KAGB § 2 Abs. 4 (Sub-Threshold-AIFM für VC < 500 Mio. EUR Lock-up >= 5 Jahre); § 337 KAGB (Vertriebsregime EuVECA); Wirtschaftlich Berechtigte i.S.d. GwG bei Start-up-Targets; Beteiligungsverträge nach BGB, GmbHG/AktG; INVEST-Zuschuss als steuerliche Spielwiese; § 8c, § 8d KStG für Mantel-/Forschungs-Verlustvorträge; Wachstumschancengesetz und Zukunftsfinanzierungsgesetz 2023/2024 (Mitarbeiterbeteiligung in Start-ups, § 19a EStG).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Geplantes Anlegeruniversum und Asset-Allokation klären.
 2. EuVECA-Test: 70 Prozent Qualifying Portfolio Undertakings (KMU, max. 499 Beschäftigte, nicht börsennotiert, Umsatz <= 50 Mio. EUR), Restquote in Cash/Equivalents.
@@ -247,7 +247,7 @@ Der Skill baut die BaFin-Kommunikations- und Dokumentenmatrix für Fondsmanager.
 
 KAGB §§ 17 ff. (Vollerlaubnis-Voraussetzungen), § 18 (Geschäftsleiter), § 19 (Kapitalanforderungen: 125 000 EUR + 0.02 Prozent AuM, Cap 10 Mio. EUR; Eigenmittelaufschlag bei höheren AuM), § 20 (Eigenmittel-Pufferanforderung), § 21 (Erlaubnisantrag), § 22 (Versagungsgründe), § 26 (Auslagerung); § 2 Abs. 4/5 (Sub-Threshold-AIFM, Registrierung); AIFMD-Delegated-Regulation (EU) 231/2013 Art. 76 ff. (Auslagerung); BaFin-MaRisk-VA, MaComp; BaFin-Auslegungshilfe zu Auslagerungen (vom Anwender mit aktuellem Stand zu prüfen).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. AuM-Plan und Wachstumsperspektive klären — bestimmt, ob Sub-Threshold-Pfad realistisch ist.
 2. Vertriebsperspektive: nur DE oder paneuropäisch (EU-Pass → Vollerlaubnis).
@@ -341,7 +341,7 @@ Der Skill ordnet die Funktionstrennung zwischen Verwahrstelle (§ 80 KAGB), Fond
 
 KAGB § 80 (Verwahrstellenpflicht für AIF), §§ 81–90 (Aufgaben der Verwahrstelle: Verwahrung, Zahlungsstrom-Überwachung, Kontrollfunktionen), § 84 (Haftung der Verwahrstelle), § 36 (Auslagerung Administration); AIFMD Art. 21 (Depositary); VO (EU) 231/2013 Art. 88 ff. (Depositary-Pflichten); Joint Audit der KVG-Jahresberichte (§ 105 KAGB); ILPA Standardized Reporting Templates (Stand 2.1 oder aktueller, vom Anwender zu prüfen); CRR/CRD für Verwahrstellen die Banken sind; DORA (VO (EU) 2022/2554) für ICT-Outsourcing seit 17.01.2025.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Funktionsmatrix erstellen: Wer entscheidet (KVG), wer kontrolliert (Verwahrstelle), wer rechnet (Administrator)?
 2. Verwahrstellenvertrag verhandeln: Haftungs-Caps, Sub-Custodian-Genehmigung, Notfallplan, Kündigungsfrist (typisch 6–12 Monate).

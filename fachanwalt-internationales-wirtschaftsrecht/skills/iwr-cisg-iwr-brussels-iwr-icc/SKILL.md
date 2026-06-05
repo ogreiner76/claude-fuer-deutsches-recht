@@ -1,13 +1,13 @@
 ---
 name: iwr-cisg-iwr-brussels-iwr-icc
-description: "Nutze dies, wenn Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Iwr Cisg Anwendbarkeit, Fachanwalt Iwr Brussels Ia Zustaendigkeit, Fachanwalt Iwr Icc Uncitral Schiedsverfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -96,7 +96,7 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 
 - 2 Jahre ab Übergabe der Ware
 
-## 6) Workflow CISG-Prüfung
+## 6) CISG-Prüfung
 
 ### Schritt 1 — Parteien-Sitze
 
@@ -357,8 +357,8 @@ Streitgegenstand: [VERTRAG / DELIKT]
 1. Beklagter hat Sitz in EU: JA → Art. 4 Bruessel Ia gilt
 2. Gerichtsstandsvereinbarung (Art. 25): [JA: [GERICHT] / NEIN]
 3. Besonderer Gerichtsstand (Art. 7):
-   Vertrag Art. 7 Nr. 1: Erfuellungsort = [LAND/GERICHT]
-   Delikt Art. 7 Nr. 2: Schadensort = [LAND/GERICHT]
+ Vertrag Art. 7 Nr. 1: Erfuellungsort = [LAND/GERICHT]
+ Delikt Art. 7 Nr. 2: Schadensort = [LAND/GERICHT]
 4. Verbraucher (Art. 17-19): [JA → Wohnsitz Verbraucher / NEIN]
 5. Empfohlenes Gericht: [GERICHT, ORT, ZUSTAENDIGKEIT]
 ```
@@ -435,7 +435,7 @@ Internationale Wirtschaftsstreitigkeiten werden überwiegend schiedsgerichtlich 
 
 ## Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Phase 1 — Schiedsklausel-Analyse
 
@@ -546,26 +546,26 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 Statement of Claim / Klageschrift
 
-Klaeger:      [NAME/FIRMA], vertreten d. [Kanzlei]
-Beklagter:    [NAME/FIRMA], [ANSCHRIFT]
-Schiedssitz:  [ORT]
+Klaeger: [NAME/FIRMA], vertreten d. [Kanzlei]
+Beklagter: [NAME/FIRMA], [ANSCHRIFT]
+Schiedssitz: [ORT]
 Anwendb. Recht: [DE-RECHT / CISG / SONSTIGES]
-Sprache:      [DEUTSCH / ENGLISCH]
-Streitwert:   EUR [BETRAG]
+Sprache: [DEUTSCH / ENGLISCH]
+Streitwert: EUR [BETRAG]
 
 1. Sachverhalt (Summary):
-   [...]
+ [...]
 
 2. Anspruchsgrundlagen:
-   [§§ BGB / CISG Art. / Vertragsklausel]
+ [§§ BGB / CISG Art. / Vertragsklausel]
 
 3. Antrag:
-   Wir beantragen, den Beklagten zu verurteilen:
-   a) EUR [BETRAG] nebst Zinsen [x%] p.a. ab [DATUM] zu zahlen
-   b) [Weitere Antraege]
+ Wir beantragen, den Beklagten zu verurteilen:
+ a) EUR [BETRAG] nebst Zinsen [x%] p.a. ab [DATUM] zu zahlen
+ b) [Weitere Antraege]
 
 4. Beweismittel:
-   [Anlage C-1 ff.]
+ [Anlage C-1 ff.]
 
 [Anwalt Klaeger]
 ```

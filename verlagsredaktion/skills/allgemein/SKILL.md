@@ -30,7 +30,7 @@ Wenn nur Dateien kommen:
 2. Fristen erkennen: Druck, Onlinegang, Autor:innenfreigabe, Anzeigen-/Marketingtermin, Korrekturschluss.
 3. Rechteampel setzen: Fremdtext, Bildrechte, Tabellen, Screenshots, KI-Herkunft, personenbezogene Daten.
 4. Materialinventar starten.
-5. Passenden Spezialskill vorschlagen oder direkt losarbeiten.
+5. Passenden Fachmodul vorschlagen oder direkt losarbeiten.
 
 ## Routing
 

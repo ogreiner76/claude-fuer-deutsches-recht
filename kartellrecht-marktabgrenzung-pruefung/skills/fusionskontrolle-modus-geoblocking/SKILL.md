@@ -1,13 +1,13 @@
 ---
 name: fusionskontrolle-modus-geoblocking
-description: "Nutze dies, wenn Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle, Gesamtbewertung Tragfaehigkeit, Gun Jumping Global, Handelsvertreterprivileg Echtes Unechtes Agenturmodell im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle, Gesamtbewertung Tragfaehigkeit, Gun Jumping Global, Handelsvertreterprivileg Echtes Unechtes Agenturmodell prüfen.; Erstelle eine Arbeitsfassung zu Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle, Gesamtbewertung Tragfaehigkeit, Gun Jumping Global, Handelsvertreterprivileg Echtes Unechtes Agenturmodell.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle, Gesamtbewertung Tragfaehigkeit, Gun Jumping Global: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle, Gesamtbewertung Tragfaehigkeit, Gun Jumping Global, Handelsvertreterprivileg Echtes Unechtes Agenturmodell
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fusionskontrolle Modus, Geoblocking Und Kartellrecht Schnittstelle, Gesamtbewertung Tragfaehigkeit, Gun Jumping Global, Handelsvertreterprivileg Echtes Unechtes Agenturmodell** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `fusionskontrolle-modus` | Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 139/2004): Phase I und Phase II SIEC-Test (Significant Impediment to Effective Competition) horizontale und nicht-horizontale Fusionen Effizienzeinrede und Koordinierungseffekte. Schwellenwerte und nationale Zuständigkeit BKartA. |
 | `geoblocking-und-kartellrecht-schnittstelle` | Geoblocking und Kartellrecht Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `gesamtbewertung-tragfaehigkeit` | Gesamturteil zur Tragfähigkeit einer Marktabgrenzung: hoch mittel oder gering. Fasst zentrale Schwachstellen in 3 bis 5 scharfen Punkten zusammen. Bewertet Angreifbarkeit vor Gericht oder Behoerde und empfiehlt prozesstaktische Konsequenzen für das eigene Team. |
-| `gun-jumping-global` | Gun Jumping und Closing Control: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vollzugsverbot, Clean Teams, Integration Planning und Informationsaustausch vor Closing prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `gun-jumping-global` | Gun Jumping und Closing Control: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vollzugsverbot, Clean Teams, Integration Planning und Informationsaustausch vor Closing prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `handelsvertreterprivileg-echtes-unechtes-agenturmodell` | Handelsvertreterprivileg echtes unechtes Agenturmodell: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
 ## Arbeitsweg
@@ -200,18 +200,18 @@ GESAMTURTEIL: [HOCH / MITTEL / GERING]
 ZENTRALE SCHWACHSTELLEN:
 
 1. [Schwachstelle — konkret und scharf formuliert, z.B.:
-   "SSNIP-Test-Ergebnis beruht auf veralteten Daten aus 2019 und
-   wurde nicht auf Cellophane-Fallacy-Risiko geprüft."]
+ "SSNIP-Test-Ergebnis beruht auf veralteten Daten aus 2019 und
+ wurde nicht auf Cellophane-Fallacy-Risiko geprüft."]
 
 2. [Schwachstelle — z.B.:
-   "Angebotsseitige Substitution durch Anbieter Z wird behauptet,
-   aber der Umstellungszeitraum von 18 Monaten überschreitet
-   den EU-Standard von 12 Monaten."]
+ "Angebotsseitige Substitution durch Anbieter Z wird behauptet,
+ aber der Umstellungszeitraum von 18 Monaten überschreitet
+ den EU-Standard von 12 Monaten."]
 
 3. [Schwachstelle — z.B.:
-   "Interne Marktberichte des Unternehmens aus 2022 bezeichnen
-   Produkt X als 'direkten Konkurrenten', der in der vorgelegten
-   Abgrenzung aber ausgeschlossen wird."]
+ "Interne Marktberichte des Unternehmens aus 2022 bezeichnen
+ Produkt X als 'direkten Konkurrenten', der in der vorgelegten
+ Abgrenzung aber ausgeschlossen wird."]
 
 4. [optional]
 
@@ -251,7 +251,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `gun-jumping-global`
 
-**Fokus:** Gun Jumping und Closing Control: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vollzugsverbot, Clean Teams, Integration Planning und Informationsaustausch vor Closing prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Gun Jumping und Closing Control: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Vollzugsverbot, Clean Teams, Integration Planning und Informationsaustausch vor Closing prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Gun Jumping und Closing Control
 

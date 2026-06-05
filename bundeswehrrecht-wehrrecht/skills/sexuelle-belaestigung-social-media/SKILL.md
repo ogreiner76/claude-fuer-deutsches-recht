@@ -1,13 +1,13 @@
 ---
 name: sexuelle-belaestigung-social-media
-description: "Nutze dies, wenn Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg prüfen.; Erstelle eine Arbeitsfassung zu Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -112,7 +112,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -221,7 +221,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -279,13 +279,13 @@ Das Soldatenbeteiligungsgesetz (SBG) regelt die Mitbestimmung und Mitwirkung der
 - Schnittstelle Gesamtvertrauenspersonenausschuss beim BMVg.
 - SBG/Frauenförderung: Gleichstellungsbeauftragte (§ 19 SoldGleiG).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Beteiligungsebene zuordnen.** Welche Vertrauensperson ist zuständig (Kompanie/Bataillon/höhere Ebene)?
 2. **Maßnahme einordnen.**
-   - Anhörung (§ 23 SBG)?
-   - Mitwirkung (§ 24 SBG)?
-   - Mitbestimmung mit Einigungsstellenverfahren?
+ - Anhörung (§ 23 SBG)?
+ - Mitwirkung (§ 24 SBG)?
+ - Mitbestimmung mit Einigungsstellenverfahren?
 3. **Verfahrensgang dokumentieren.** Wann wurde die Vertrauensperson informiert, gehört, ggf. zugestimmt oder widersprochen?
 4. **Beteiligungsfehler rügen.** Fehlende oder verspätete Beteiligung führt zur Aufhebung der Maßnahme im WBO-Verfahren.
 5. **Schutz der Vertrauensperson.** § 9 SBG i.V.m. § 8 BetrVG entsprechend – kein Benachteiligungsverbot.

@@ -1,34 +1,34 @@
 ---
 name: insolvenz-insolvenzanfechtung-insolvenzrecht
-description: "Nutze dies, wenn Spezial Insolvenz Tatbestand Beweis Und Belege, Spezial Insolvenzanfechtung Compliance Dokumentation Und Akte, Spezial Insolvenzrecht Internationaler Bezug Und Schnittstellen, Spezial Krypto Mandantenkommunikation Entscheidungsvorlage, Spezial Restrukturierungsplan Zahlen Schwellen Und Berechnung im Plugin Fachanwalt Insolvenz Sanierungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Insolvenz Tatbestand Beweis Und Belege, Spezial Insolvenzanfechtung Compliance Dokumentation Und Akte, Spezial Insolvenzrecht Internationaler Bezug Und Schnittstellen, Spezial Krypto Mandantenkommunikation Entscheidungsvorlage, Spezial Restrukturierungsplan Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Insolvenz Tatbestand Beweis Und Belege, Spezial Insolvenzanfechtung Compliance Dokumentation Und Akte, Spezial Insolvenzrecht Internationaler Bezug Und Schnittstellen, Spezial Krypto Mandantenkommunikation Entscheidungsvorlage, Spezial Rest..."
+description: "Nutze dies bei Insolvenz Tatbestand Beweis Und Belege, Insolvenzanfechtung Compliance Dokumentation Und Akte, Insolvenzrecht Internationaler Bezug Und Schnittstellen, Krypto Mandantenkommunikation Entscheidungsvorlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Insolvenz Tatbestand Beweis Und Belege, Spezial Insolvenzanfechtung Compliance Dokumentation Und Akte, Spezial Insolvenzrecht Internationaler Bezug Und Schnittstellen, Spezial Krypto Mandantenkommunikation Entscheidungsvorlage, Spezial Restrukturierungsplan Zahlen Schwellen Und Berechnung
+# Insolvenz Tatbestand Beweis Und Belege, Insolvenzanfechtung Compliance Dokumentation Und Akte, Insolvenzrecht Internationaler Bezug Und Schnittstellen, Krypto Mandantenkommunikation Entscheidungsvorlage, Restrukturierungsplan Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Insolvenz Tatbestand Beweis Und Belege, Insolvenzanfechtung Compliance Dokumentation Und Akte, Insolvenzrecht Internationaler Bezug Und Schnittstellen, Krypto Mandantenkommunikation Entscheidungsvorlage, Restrukturierungsplan Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-insolvenz-tatbestand-beweis-und-belege` | Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-insolvenzanfechtung-compliance-dokumentation-und-akte` | Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-insolvenzrecht-internationaler-bezug-und-schnittstellen` | Insolvenzrecht: Internationaler Bezug und Schnittstellen im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-krypto-mandantenkommunikation-entscheidungsvorlage` | Krypto: Mandantenkommunikation und Entscheidungsvorlage im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-restrukturierungsplan-zahlen-schwellen-und-berechnung` | Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-insolvenz-tatbestand-beweis-und-belege` | Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-insolvenzanfechtung-compliance-dokumentation-und-akte` | Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-insolvenzrecht-internationaler-bezug-und-schnittstellen` | Insolvenzrecht: Internationaler Bezug und Schnittstellen im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-krypto-mandantenkommunikation-entscheidungsvorlage` | Krypto: Mandantenkommunikation und Entscheidungsvorlage im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-restrukturierungsplan-zahlen-schwellen-und-berechnung` | Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Insolvenz Tatbestand Beweis Und Belege, Spezial Insolvenzanfechtung Compliance Dokumentation Und Akte, Spezial Insolvenzrecht Internationaler Bezug Und Schnittstellen, Spezial Krypto Mandantenkommunikation Entscheidungsvorlage, Spezial Restrukturierungsplan Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insolvenz Tatbestand Beweis Und Belege, Insolvenzanfechtung Compliance Dokumentation Und Akte, Insolvenzrecht Internationaler Bezug Und Schnittstellen, Krypto Mandantenkommunikation Entscheidungsvorlage, Restrukturierungsplan Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-insolvenz-tatbestand-beweis-und-belege`
 
-**Fokus:** Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -42,7 +42,7 @@ Für **Spezial Insolvenz Tatbestand Beweis Und Belege, Spezial Insolvenzanfechtu
 
 
 ## Spezialwissen: Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial insolvenz tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage / insolvenz tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, InsO, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-insolvenzanfechtung-compliance-dokumentation-und-akte`
 
-**Fokus:** Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk
 
@@ -92,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk / spezial insolvenzanfechtung compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk / insolvenzanfechtung compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, InsO, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -128,7 +128,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-insolvenzrecht-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Insolvenzrecht: Internationaler Bezug und Schnittstellen im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Insolvenzrecht: Internationaler Bezug und Schnittstellen im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Insolvenzrecht: Internationaler Bezug und Schnittstellen
 
@@ -142,7 +142,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Insolvenzrecht: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Insolvenzrecht: Internationaler Bezug und Schnittstellen / spezial insolvenzrecht internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Insolvenzrecht: Internationaler Bezug und Schnittstellen / insolvenzrecht internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, InsO, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -178,7 +178,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-krypto-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Krypto: Mandantenkommunikation und Entscheidungsvorlage im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Krypto: Mandantenkommunikation und Entscheidungsvorlage im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Krypto: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -192,7 +192,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Krypto: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Krypto: Mandantenkommunikation und Entscheidungsvorlage / spezial krypto mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Krypto: Mandantenkommunikation und Entscheidungsvorlage / krypto mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, InsO, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -228,7 +228,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-restrukturierungsplan-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung
 
@@ -242,7 +242,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung / spezial restrukturierungsplan zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung / restrukturierungsplan zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, InsO, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

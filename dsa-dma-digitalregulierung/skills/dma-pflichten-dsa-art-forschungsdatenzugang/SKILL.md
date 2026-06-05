@@ -1,13 +1,13 @@
 ---
 name: dma-pflichten-dsa-art-forschungsdatenzugang
-description: "Nutze dies, wenn Dma Pflichten Uebersicht, Dsa Art 34 Systemische Risikobewertung, Dsa Art 40 Forschungsdatenzugang Algorithmen im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Dma Pflichten Uebersicht, Dsa Art 34 Systemische Risikobewertung, Dsa Art 40 Forschungsdatenzugang Algorithmen prüfen.; Erstelle eine Arbeitsfassung zu Dma Pflichten Uebersicht, Dsa Art 34 Systemische Risikobewertung, Dsa Art 40 Forschungsdatenzugang Algorithmen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dma Pflichten Uebersicht, Dsa Art 34 Systemische Risikobewertung, Dsa Art 40 Forschungsdatenzugang Algorithmen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dma Pflichten Uebersicht, Dsa Art 34 Systemische Risikobewertung, Dsa Art 40 Forschungsdatenzugang Algorithmen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dma Pflichten Uebersicht, Dsa Art 34 Systemische Risikobewertung, Dsa Art 40 Forschungsdatenzugang Algorithmen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -90,13 +90,13 @@ Nur VLOPs und VLOSEs (Art. 33 DSA). Reguläre Online-Plattformen führen keine A
 
 1. **Verbreitung illegaler Inhalte** über den Dienst
 2. **Tatsächliche oder vorhersehbare nachteilige Auswirkungen auf Grundrechte**, insbesondere:
-   - Würde (Art. 1 GRCh)
-   - Achtung des Privatlebens und Familienlebens (Art. 7)
-   - Schutz personenbezogener Daten (Art. 8)
-   - Meinungs- und Informationsfreiheit, Medienfreiheit und -pluralismus (Art. 11)
-   - Diskriminierungsverbot (Art. 21)
-   - Rechte des Kindes (Art. 24)
-   - Verbraucherschutz (Art. 38)
+ - Würde (Art. 1 GRCh)
+ - Achtung des Privatlebens und Familienlebens (Art. 7)
+ - Schutz personenbezogener Daten (Art. 8)
+ - Meinungs- und Informationsfreiheit, Medienfreiheit und -pluralismus (Art. 11)
+ - Diskriminierungsverbot (Art. 21)
+ - Rechte des Kindes (Art. 24)
+ - Verbraucherschutz (Art. 38)
 3. **Auswirkungen auf zivilgesellschaftlichen Diskurs, Wahlprozesse, öffentliche Sicherheit**
 4. **Geschlechtsspezifische Gewalt, Schutz der öffentlichen Gesundheit, Minderjährigenschutz, ernsthafte negative Auswirkungen auf physisches und psychisches Wohlbefinden**
 
@@ -116,11 +116,11 @@ Nur VLOPs und VLOSEs (Art. 33 DSA). Reguläre Online-Plattformen führen keine A
 - Dokumentation für **mindestens drei Jahre** aufbewahren
 - Bewertung wird der Kommission und dem zuständigen DSC vorgelegt
 - Methodisch erwartet werden:
-  - Risikoidentifikation (qualitativ und quantitativ)
-  - Wahrscheinlichkeits- und Schwerebewertung
-  - Ursachenanalyse — auch eigene Designentscheidungen
-  - Maßnahmenkatalog mit Wirkungserwartung
-  - Wirksamkeitsprüfung im Folgejahr (Closed-Loop)
+ - Risikoidentifikation (qualitativ und quantitativ)
+ - Wahrscheinlichkeits- und Schwerebewertung
+ - Ursachenanalyse — auch eigene Designentscheidungen
+ - Maßnahmenkatalog mit Wirkungserwartung
+ - Wirksamkeitsprüfung im Folgejahr (Closed-Loop)
 
 ## Risikominderung (Art. 35 DSA)
 

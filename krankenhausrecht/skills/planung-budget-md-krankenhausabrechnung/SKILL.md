@@ -1,19 +1,19 @@
 ---
 name: planung-budget-md-krankenhausabrechnung
-description: "Nutze dies, wenn Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt prüfen.; Erstelle eine Arbeitsfassung zu Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung, Schiedsstellenverfahren Krankenhausentgelt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fristen-planung-budget-md-schiedsstelle` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fristen Planung Budget MD Schiedsstelle. |
+| `fristen-planung-budget-md-schiedsstelle` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fristen Planung Budget MD Schiedsstelle. |
 | `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung` | MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquoten, PrueferV, Aufwandspauschalen, Beanstandungen, Strukturpruefung und Klage gegen Pruefberichte. |
 | `schiedsstellenverfahren-krankenhausentgelt` | Schiedsstellenverfahren nach § 18a KHG / § 13 KHEntgG: Antragstellung, Verfahrensablauf, Beweisfragen, Entscheidungsmassstab, Beurteilungsspielraum, Rechtsschutz vor VG. |
 
@@ -26,7 +26,7 @@ Für **Fristen Planung Budget Md Schiedsstelle, Md Prüfung Krankenhausabrechnun
 
 ## 1. `fristen-planung-budget-md-schiedsstelle`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fristen Planung Budget MD Schiedsstelle.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fristen Planung Budget MD Schiedsstelle.
 
 # Fristen Planung Budget MD Schiedsstelle
 
@@ -99,7 +99,7 @@ Der Medizinische Dienst (MD) prueft im Auftrag der Krankenkassen die Abrechnung 
 - **DKR (Deutsche Kodierrichtlinien)** als Auslegungsgrundlage.
 - **SGB V § 109 Abs. 5** Versorgungsauftrag bei Strukturmerkmalen.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Pruefanzeige eingangsdatieren:** Frist § 275c: MD muss innerhalb von 6 Wochen pruefen, Klinik antwortet innerhalb 8 Wochen.
 2. **Pruefthema identifizieren:** Hauptdiagnose, Nebendiagnose, Verweildauer (untere Grenzverweildauer), OPS, Strukturmerkmal?
 3. **Akte komplettieren:** Pflegebericht, Aerztliche Doku, OP-Bericht, Befunde, Anaesthesieprotokoll.
@@ -183,7 +183,7 @@ Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostent
 - **VwGO §§ 42 ff.** Rechtsschutz gegen Entscheidung.
 - **VwVfG §§ 28, 35, 39** Anhoerung, VA, Begruendung.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Scheitern dokumentieren:** Schriftliche Erklaerung Kasse oder Klinik, Datum.
 2. **Schiedsantrag einreichen:** An die Schiedsstelle nach § 18a KHG; Form-/Inhaltsvorgaben Schiedsordnung.
 3. **Sachverhalt aufbereiten:** AEB, L-Datensatz, Pflegebudget, Vorhalteanteil, Vergleichsdaten, MD-Beanstandungen.

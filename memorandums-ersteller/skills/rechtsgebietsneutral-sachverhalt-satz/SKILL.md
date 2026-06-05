@@ -1,13 +1,13 @@
 ---
 name: rechtsgebietsneutral-sachverhalt-satz
-description: "Nutze dies, wenn Spezial Rechtsgebietsneutral Abschlussprodukt Und Übergabe, Spezial Sachverhalt Verhandlung Vergleich Und Eskalation, Spezial Satz Zahlen Schwellen Und Berechnung im Plugin Memorandums Ersteller konkret bearbeitet werden soll. Auslöser: Bitte Spezial Rechtsgebietsneutral Abschlussprodukt Und Übergabe, Spezial Sachverhalt Verhandlung Vergleich Und Eskalation, Spezial Satz Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Rechtsgebietsneutral Abschlussprodukt Und Übergabe, Spezial Sachverhalt Verhandlung Vergleich Und Eskalation, Spezial Satz Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsgebietsneutral Abschlussprodukt Und Uebergabe, Sachverhalt Verhandlung Vergleich Und Eskalation, Satz Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Rechtsgebietsneutral Abschlussprodukt Und Übergabe, Spezial Sachverhalt Verhandlung Vergleich Und Eskalation, Spezial Satz Zahlen Schwellen Und Berechnung
+# Rechtsgebietsneutral Abschlussprodukt Und Übergabe, Sachverhalt Verhandlung Vergleich Und Eskalation, Satz Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsgebietsneutral Abschlussprodukt Und Übergabe, Sachverhalt Verhandlung Vergleich Und Eskalation, Satz Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Rechtsgebietsneutral Abschlussprodukt Und Übergabe, Spezial Sachverhalt Verhandlung Vergleich Und Eskalation, Spezial Satz Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `memorandums-ersteller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsgebietsneutral Abschlussprodukt Und Übergabe, Sachverhalt Verhandlung Vergleich Und Eskalation, Satz Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `memorandums-ersteller` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Rechtsgebietsneutral Abschlussprodukt Und Übergabe, Spezial Sach
 # Rechtsgebietsneutral: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Rechtsgebietsneutral: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Rechtsgebietsneutral: Abschlussprodukt und Übergabe / spezial rechtsgebietsneutral abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechtsgebietsneutral: Abschlussprodukt und Übergabe / rechtsgebietsneutral abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Sachverhalt: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Sachverhalt: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Sachverhalt: Verhandlung, Vergleich und Eskalation / spezial sachverhalt verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Sachverhalt: Verhandlung, Vergleich und Eskalation / sachverhalt verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Satz: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Satz: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Satz: Zahlen, Schwellenwerte und Berechnung / spezial satz zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Satz: Zahlen, Schwellenwerte und Berechnung / satz zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

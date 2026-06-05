@@ -1,13 +1,13 @@
 ---
 name: vollstreckung-stpo-biometrischer
-description: "Nutze dies, wenn Spezial Vollstreckung Behörden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Vollstreckung Behörden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin prüfen.; Erstelle eine Arbeitsfassung zu Spezial Vollstreckung Behörden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vollstreckung Behörden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Vollstreckung Behörden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin
+# Vollstreckung Behörden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vollstreckung Behörden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Vollstreckung Behörden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `prozessrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vollstreckung Behörden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `prozessrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Vollstreckung Behörden Gericht Und Registerweg, Stpo Biometrisch
 # Vollstreckung: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Vollstreckung: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Vollstreckung: Behörden-, Gerichts- oder Registerweg / spezial vollstreckung behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vollstreckung: Behörden-, Gerichts- oder Registerweg / vollstreckung behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -252,23 +252,23 @@ Das Modell benötigt:
 ### Normen
 
 - **§ 137 StPO** – Recht auf Beistand eines Verteidigers (jederzeit, auch ohne richterliche
-  Genehmigung)
+ Genehmigung)
 - **§ 140 StPO** – Notwendige Verteidigung (Pflichtverteidigerbestellung):
-  Abs. 1: gesetzliche Fälle (z. B. Verbrechen, Untersuchungshaft, Hauptverhandlung beim LG,
-  drohende Unterbringung); Abs. 2: sonstige Fälle schwieriger Sach-/Rechtslage oder wenn
-  Beschuldigter sich nicht selbst verteidigen kann
+ Abs. 1: gesetzliche Fälle (z. B. Verbrechen, Untersuchungshaft, Hauptverhandlung beim LG,
+ drohende Unterbringung); Abs. 2: sonstige Fälle schwieriger Sach-/Rechtslage oder wenn
+ Beschuldigter sich nicht selbst verteidigen kann
 - **§ 141 StPO** – Bestellung des Pflichtverteidigers (auf Antrag des Beschuldigten oder von
-  Amts wegen)
+ Amts wegen)
 - **§ 143a StPO** – Wahlverteidigervorrang; Rücknahme der Pflichtverteidigerbestellung bei
-  Mandatsübernahme durch Wahlverteidiger
+ Mandatsübernahme durch Wahlverteidiger
 - **§ 147 StPO** – Akteneinsicht: Abs. 1: Verteidiger hat Recht auf Einsicht in die dem
-  Gericht vorliegenden und die dem Gericht vorzulegenden Akten; Abs. 2: Einschränkung im
-  Ermittlungsverfahren bei Gefährdung des Untersuchungszwecks
+ Gericht vorliegenden und die dem Gericht vorzulegenden Akten; Abs. 2: Einschränkung im
+ Ermittlungsverfahren bei Gefährdung des Untersuchungszwecks
 - **§ 136 Abs. 1 StPO** – Belehrungspflicht bei erster Vernehmung: Tatvorwurf, Schweigerecht,
-  Recht auf Verteidigerkonsultation; Beweisverwertungsverbot bei fehlender Belehrung
+ Recht auf Verteidigerkonsultation; Beweisverwertungsverbot bei fehlender Belehrung
 - **§ 136a StPO** – Verbotene Vernehmungsmethoden (absolute Beweisverwertungsverbote)
 - **§§ 226–275 StPO** – Hauptverhandlung: § 226 (Unmittelbarkeit), § 229 (Unterbrechungsfristen),
-  § 240 (Fragerecht), § 244 Abs. 3–6 (Beweisantrag; Ablehnungsgründe), § 257c (Verständigung)
+ § 240 (Fragerecht), § 244 Abs. 3–6 (Beweisantrag; Ablehnungsgründe), § 257c (Verständigung)
 - **§ 243 Abs. 5 StPO** – Belehrung in der Hauptverhandlung (Schweigerecht)
 - **§ 257 StPO** – Erklärungsrecht nach jeder Beweiserhebung
 - **§ 344 StPO** – Revisionsbegründung (formelle/materielle Revisionsrügen)
@@ -276,20 +276,20 @@ Das Modell benötigt:
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Beschuldigten auf Beistand eines Verteidigers (§ 137 StPO) ist Ausfluss des Grundrechts auf
-  ein faires Verfahren (Art. 2 Abs. 1 i. V. m. Art. 20 Abs. 3 GG) und des Grundsatzes der
-  Waffengleichheit; der Staat darf die Verteidigung nicht strukturell erschweren.
+ Beschuldigten auf Beistand eines Verteidigers (§ 137 StPO) ist Ausfluss des Grundrechts auf
+ ein faires Verfahren (Art. 2 Abs. 1 i. V. m. Art. 20 Abs. 3 GG) und des Grundsatzes der
+ Waffengleichheit; der Staat darf die Verteidigung nicht strukturell erschweren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  bei unterlassener Belehrung nach § 136 StPO; eine ohne ordnungsgemäße Belehrung über das
-  Schweigerecht gewonnene Aussage des Beschuldigten ist unverwertbar, wenn der Fehler nicht
-  geheilt wurde; Heilung durch späteres Einverständnis des Beschuldigten möglich (str.).
+ bei unterlassener Belehrung nach § 136 StPO; eine ohne ordnungsgemäße Belehrung über das
+ Schweigerecht gewonnene Aussage des Beschuldigten ist unverwertbar, wenn der Fehler nicht
+ geheilt wurde; Heilung durch späteres Einverständnis des Beschuldigten möglich (str.).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  an einen förmlichen Beweisantrag (§ 244 Abs. 3 StPO); Beweisbehauptung muss bestimmt sein;
-  bloße Beweisermittlungsanträge sind nach anderen Regeln zu bescheiden.
+ an einen förmlichen Beweisantrag (§ 244 Abs. 3 StPO); Beweisbehauptung muss bestimmt sein;
+ bloße Beweisermittlungsanträge sind nach anderen Regeln zu bescheiden.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  des Verteidigers § 147 StPO; der Verteidiger hat Anspruch auf vollständige Akteneinsicht
-  sobald die Anklageschrift beim Gericht eingereicht wurde; Ausnahmen nur nach § 147 Abs. 2
-  StPO im laufenden Ermittlungsverfahren.
+ des Verteidigers § 147 StPO; der Verteidiger hat Anspruch auf vollständige Akteneinsicht
+ sobald die Anklageschrift beim Gericht eingereicht wurde; Ausnahmen nur nach § 147 Abs. 2
+ StPO im laufenden Ermittlungsverfahren.
 
 ### Quellenregel
 
@@ -299,33 +299,33 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Ersttermin – Checkliste
 
 1. **Mandantenbelehrung** (bevor Mandant schildert):
-   - Vertraulichkeit (§ 43a Abs. 2 BRAO, § 203 StGB)
-   - Schweigerecht auch gegenüber Anwalt; keine Lügenpflicht
-   - Was Mandant mitteilt, bleibt im Mandat; keine eigene Zeugenpflicht des Verteidigers
+ - Vertraulichkeit (§ 43a Abs. 2 BRAO, § 203 StGB)
+ - Schweigerecht auch gegenüber Anwalt; keine Lügenpflicht
+ - Was Mandant mitteilt, bleibt im Mandat; keine eigene Zeugenpflicht des Verteidigers
 2. **Sachverhaltsaufnahme**: Mandant schildert Tatvorwurf aus seiner Sicht; kein Unterbrechen;
-   danach gezielte Nachfragen (Alibis, Zeugen, Beweise)
+ danach gezielte Nachfragen (Alibis, Zeugen, Beweise)
 3. **Pflichtverteidigerprüfung** (§ 140 StPO):
-   - Liegt ein gesetzlicher Pflichtverteidigerfall vor? (Abs. 1 Nr. 1–11)
-   - Ermessensfall Abs. 2? (schwierige Sach-/Rechtslage, Unfähigkeit zur Selbstverteidigung)
-   - Ggf. sofort Antrag auf Beiordnung stellen (§ 141 StPO)
+ - Liegt ein gesetzlicher Pflichtverteidigerfall vor? (Abs. 1 Nr. 1–11)
+ - Ermessensfall Abs. 2? (schwierige Sach-/Rechtslage, Unfähigkeit zur Selbstverteidigung)
+ - Ggf. sofort Antrag auf Beiordnung stellen (§ 141 StPO)
 4. **Akteneinsicht** (§ 147 StPO):
-   - Ist Anklage bereits erhoben? → sofortiger Anspruch auf vollständige Akteneinsicht
-   - Im Ermittlungsverfahren: Einsicht ggf. eingeschränkt (§ 147 Abs. 2 StPO); Beschwerde
-     bei Verweigerung (§ 304 StPO); ggf. Antrag auf gerichtliche Entscheidung (§ 147 Abs. 5 StPO)
+ - Ist Anklage bereits erhoben? → sofortiger Anspruch auf vollständige Akteneinsicht
+ - Im Ermittlungsverfahren: Einsicht ggf. eingeschränkt (§ 147 Abs. 2 StPO); Beschwerde
+ bei Verweigerung (§ 304 StPO); ggf. Antrag auf gerichtliche Entscheidung (§ 147 Abs. 5 StPO)
 5. **Sofortmaßnahmen bei U-Haft**:
-   - Haftprüfungsantrag § 117 StPO oder Haftbeschwerde § 304 StPO
-   - Haftgründe prüfen (§§ 112, 112a StPO): Flucht-/Verdunkelungsgefahr, Wiederholungsgefahr
-   - Untersuchungshaftprüfung alle 3 Monate von Amts wegen (§ 122 StPO)
+ - Haftprüfungsantrag § 117 StPO oder Haftbeschwerde § 304 StPO
+ - Haftgründe prüfen (§§ 112, 112a StPO): Flucht-/Verdunkelungsgefahr, Wiederholungsgefahr
+ - Untersuchungshaftprüfung alle 3 Monate von Amts wegen (§ 122 StPO)
 6. **Strategie festlegen**:
-   - Schweigen bis zur vollständigen Akteneinsicht (Regelempfehlung)
-   - Teilgeständnis? Kooperation? (nur nach vollständiger Aktenkenntnis)
-   - Beweissicherung: Zeugenaussagen, Lichtbilder, digitale Daten (cave: §§ 94 ff. StPO –
-     Beschlagnahme)
+ - Schweigen bis zur vollständigen Akteneinsicht (Regelempfehlung)
+ - Teilgeständnis? Kooperation? (nur nach vollständiger Aktenkenntnis)
+ - Beweissicherung: Zeugenaussagen, Lichtbilder, digitale Daten (cave: §§ 94 ff. StPO –
+ Beschlagnahme)
 7. **Vorbereitung Hauptverhandlung** (§§ 226 ff. StPO):
-   - Mandant über Ablauf informieren: Verlesung Anklage, Belehrung § 243 Abs. 5 StPO,
-     Zeugenvernehmung, Plädoyers, letztes Wort § 258 Abs. 2 StPO
-   - Beweisanträge (§ 244 StPO) vorbereiten; schriftlich formulieren; rechtzeitig einreichen
-   - Verständigung (§ 257c StPO) als Option erwägen
+ - Mandant über Ablauf informieren: Verlesung Anklage, Belehrung § 243 Abs. 5 StPO,
+ Zeugenvernehmung, Plädoyers, letztes Wort § 258 Abs. 2 StPO
+ - Beweisanträge (§ 244 StPO) vorbereiten; schriftlich formulieren; rechtzeitig einreichen
+ - Verständigung (§ 257c StPO) als Option erwägen
 
 ### Hauptverhandlung – Ablauf (§§ 226–275 StPO)
 
@@ -356,35 +356,35 @@ sich nicht in Haft; die Anklageschrift wurde zugestellt; HV-Termin ist in 4 Woch
 **Ersttermin-Ablauf (Urteilsstil)**:
 
 1. *Belehrung*: M wird über Vertraulichkeit und Schweigerecht belehrt; es wird empfohlen, in
-   der Hauptverhandlung zunächst zu schweigen bis zur vollständigen Akteneinsicht.
+ der Hauptverhandlung zunächst zu schweigen bis zur vollständigen Akteneinsicht.
 2. *Pflichtverteidigerprüfung*: § 223 StGB ist eine Tat mittlerer Kriminalität; gesetzlicher
-   Pflichtverteidigerfall nach § 140 Abs. 1 StPO liegt nur bei Verbrechen vor (§ 12 Abs. 1 StGB –
-   Körperverletzung ist Vergehen). Pflichtverteidigerfall nach § 140 Abs. 2 StPO wäre zu prüfen,
-   wenn M sich nicht selbst verteidigen kann. Ggf. Wahlverteidigermandat.
+ Pflichtverteidigerfall nach § 140 Abs. 1 StPO liegt nur bei Verbrechen vor (§ 12 Abs. 1 StGB –
+ Körperverletzung ist Vergehen). Pflichtverteidigerfall nach § 140 Abs. 2 StPO wäre zu prüfen,
+ wenn M sich nicht selbst verteidigen kann. Ggf. Wahlverteidigermandat.
 3. *Akteneinsicht* (§ 147 Abs. 1 StPO): Da Anklage erhoben, sofortiger Anspruch; Antrag
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Rn. 10).
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rn. 10).
 4. *Strategie*: Schweigen bis nach Akteneinsicht; danach Entscheidung über Einlassung.
 
 ## Risiken und typische Fehler
 
 - **Fehlende Belehrung § 136 StPO**: Aussagen des Mandanten bei Polizei ohne Belehrung sind
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  in der Hauptverhandlung erklären (§ 257 StPO).
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ in der Hauptverhandlung erklären (§ 257 StPO).
 - **Zu frühe Einlassung**: Ohne vollständige Akteneinsicht einlassen → Selbstbelastung durch
-  Detailwissen, das Ermittler noch nicht hatten.
+ Detailwissen, das Ermittler noch nicht hatten.
 - **Versäumte Haftprüfungsfrist**: Bei U-Haft sind Fristen (§§ 117, 122 StPO) absolute
-  Priorität; Fristenkontrolle täglich.
+ Priorität; Fristenkontrolle täglich.
 - **Unzulässiger Beweisantrag** (§ 244 Abs. 3 StPO): Beweisbehauptung zu unbestimmt →
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  BGHSt 53, 112 Rn. 12).
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ BGHSt 53, 112 Rn. 12).
 - **Interessenkonflikt** (§ 43a Abs. 4 BRAO, § 3 BORA): Darf nicht gleichzeitig Mitbeschuldigten
-  oder Verletzten vertreten.
+ oder Verletzten vertreten.
 - **Verschwiegenheit** (§ 43a Abs. 2 BRAO, § 203 StGB): Mandantendaten aus Strafakten dürfen
-  nicht ungesichert weitergegeben werden; digitale Kommunikation nur über Ende-zu-Ende-
-  verschlüsselte Kanäle.
+ nicht ungesichert weitergegeben werden; digitale Kommunikation nur über Ende-zu-Ende-
+ verschlüsselte Kanäle.
 - **Verständigung § 257c StPO**: Nur mit expliziter Mandantenanweisung; Gericht und StA dürfen
-  in bestimmten Fällen kein Schuldbekenntnis als Verständigungsvoraussetzung fordern.
+ in bestimmten Fällen kein Schuldbekenntnis als Verständigungsvoraussetzung fordern.
 
 ## Quellenpflicht
 

@@ -1,25 +1,25 @@
 ---
 name: beirat-datenschutz-ki-deadlock-mechanik
-description: "Nutze dies, wenn Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg, Beirat Familiengesellschaft und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg, Beirat Familiengesellschaft und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg, Beirat Familiengesellschaft und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg, Beirat Familiengesellschaft und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg, Beirat Familiengesellschaft und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-datenschutz-und-ki` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Datenschutz Und KI; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-deadlock-mechanik` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Deadlock Mechanik; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-entscheidungsbefugnisse` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-fakultativer-aufsichtsrat-52-gmbhg` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-familiengesellschaft` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Familiengesellschaft; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-geschaeftsfuehrerabberufung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-geschaeftsfuehrerbestellung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-datenschutz-und-ki` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Datenschutz Und KI; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-deadlock-mechanik` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Deadlock Mechanik; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-entscheidungsbefugnisse` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-fakultativer-aufsichtsrat-52-gmbhg` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-familiengesellschaft` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Familiengesellschaft; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-geschaeftsfuehrerabberufung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-geschaeftsfuehrerbestellung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -30,7 +30,7 @@ Für **Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungs
 
 ## 1. `beirat-datenschutz-und-ki`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Datenschutz Und KI; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Datenschutz Und KI; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Datenschutz Und KI
 
@@ -96,7 +96,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-deadlock-mechanik`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Deadlock Mechanik; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Deadlock Mechanik; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Deadlock Mechanik
 
@@ -162,7 +162,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-entscheidungsbefugnisse`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Entscheidungsbefugnisse
 
@@ -228,7 +228,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-fakultativer-aufsichtsrat-52-gmbhg`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Fakultativer Aufsichtsrat 52 Gmbhg
 
@@ -294,7 +294,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-familiengesellschaft`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Familiengesellschaft; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Familiengesellschaft; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Familiengesellschaft
 
@@ -360,7 +360,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 6. `beirat-geschaeftsfuehrerabberufung`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Geschaeftsfuehrerabberufung
 
@@ -426,7 +426,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 7. `beirat-geschaeftsfuehrerbestellung`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Geschaeftsfuehrerbestellung
 

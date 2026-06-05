@@ -1,22 +1,22 @@
 ---
 name: kapitalerhoehung-genehmigtes-kleine-ag
-description: "Nutze dies, wenn Kapitalerhoehung Genehmigtes Kapital, Kleine Ag Familienkreis, Konzern Hv, Mehrstimmrechte Aktienrecht im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Kapitalerhoehung Genehmigtes Kapital, Kleine Ag Familienkreis, Konzern Hv, Mehrstimmrechte Aktienrecht prüfen.; Erstelle eine Arbeitsfassung zu Kapitalerhoehung Genehmigtes Kapital, Kleine Ag Familienkreis, Konzern Hv, Mehrstimmrechte Aktienrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kapitalerhoehung Genehmigtes Kapital, Kleine Ag Familienkreis, Konzern Hv, Mehrstimmrechte Aktienrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kapitalerhoehung Genehmigtes Kapital, Kleine Ag Familienkreis, Konzern Hv, Mehrstimmrechte Aktienrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kapitalerhoehung Genehmigtes Kapital, Kleine Ag Familienkreis, Konzern Hv, Mehrstimmrechte Aktienrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `kapitalerhoehung-genehmigtes-kapital` | Hauptversammlung AG und SE: Kapitalerhoehung Genehmigtes Kapital; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `kleine-ag-familienkreis` | Hauptversammlung AG und SE: Kleine AG Familienkreis; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `konzern-hv` | Hauptversammlung AG und SE: Konzern HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `mehrstimmrechte-aktienrecht` | Hauptversammlung AG und SE: Mehrstimmrechte Aktienrecht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `kapitalerhoehung-genehmigtes-kapital` | Hauptversammlung AG und SE: Kapitalerhoehung Genehmigtes Kapital; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `kleine-ag-familienkreis` | Hauptversammlung AG und SE: Kleine AG Familienkreis; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `konzern-hv` | Hauptversammlung AG und SE: Konzern HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `mehrstimmrechte-aktienrecht` | Hauptversammlung AG und SE: Mehrstimmrechte Aktienrecht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Kapitalerhoehung Genehmigtes Kapital, Kleine Ag Familienkreis, Konzern Hv
 
 ## 1. `kapitalerhoehung-genehmigtes-kapital`
 
-**Fokus:** Hauptversammlung AG und SE: Kapitalerhoehung Genehmigtes Kapital; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Kapitalerhoehung Genehmigtes Kapital; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Kapitalerhoehung Genehmigtes Kapital
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `kleine-ag-familienkreis`
 
-**Fokus:** Hauptversammlung AG und SE: Kleine AG Familienkreis; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Kleine AG Familienkreis; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Kleine AG Familienkreis
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `konzern-hv`
 
-**Fokus:** Hauptversammlung AG und SE: Konzern HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Konzern HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Konzern HV
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `mehrstimmrechte-aktienrecht`
 
-**Fokus:** Hauptversammlung AG und SE: Mehrstimmrechte Aktienrecht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Mehrstimmrechte Aktienrecht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Mehrstimmrechte Aktienrecht
 

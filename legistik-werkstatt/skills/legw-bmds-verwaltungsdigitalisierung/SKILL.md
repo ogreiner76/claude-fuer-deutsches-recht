@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Verwaltungsdigitalisierung und Registermodernisierung
-Ressort:            BMDS
-Kernnormen:         RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.
-Akteure/Aufsicht:   BMDS; BMI (Personenstand); Bundesverwaltungsamt; Laender.
-EU/Voelkerrecht:    Single Digital Gateway; Once-Only-Prinzip.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmds; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Verwaltungsdigitalisierung und Registermodernisierung
+Ressort: BMDS
+Kernnormen: RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.
+Akteure/Aufsicht: BMDS; BMI (Personenstand); Bundesverwaltungsamt; Laender.
+EU/Voelkerrecht: Single Digital Gateway; Once-Only-Prinzip.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

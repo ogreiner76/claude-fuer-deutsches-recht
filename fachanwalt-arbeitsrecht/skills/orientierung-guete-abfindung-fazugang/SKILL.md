@@ -1,13 +1,13 @@
 ---
 name: orientierung-guete-abfindung-fazugang
-description: "Nutze dies, wenn Fachanwalt Arbeitsrecht Orientierung, Fachanwalt Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Neu 001 Kündigung Durch Boten Beweisvermerk Und Prozes im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Arbeitsrecht Orientierung, Fachanwalt Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Neu 001 Kündigung Durch Boten Beweisvermerk Und Prozes prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Arbeitsrecht Orientierung, Fachanwalt Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Neu 001 Kündigung Durch Boten Beweisvermerk Und Prozes.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Arbeitsrecht Orientierung, Fachanwalt Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Kündigung Durch Boten Beweisvermerk Und Prozes: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Fachanwalt Arbeitsrecht Orientierung, Fachanwalt Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Neu 001 Kündigung Durch Boten Beweisvermerk Und Prozes
+# Fachanwalt Arbeitsrecht Orientierung, Fachanwalt Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Kündigung Durch Boten Beweisvermerk Und Prozes
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Arbeitsrecht Orientierung, Fachanwalt Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Kündigung Durch Boten Beweisvermerk Und Prozes** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Fachanwalt Arbeitsrecht Orientierung, Fachanwalt Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Neu 001 Kündigung Durch Boten Beweisvermerk Und Prozes** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Arbeitsrecht Orientierung, Fachanwalt Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Kündigung Durch Boten Beweisvermerk Und Prozes** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -174,7 +174,7 @@ Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 %
 
 ## Kommunikations-/Verhandlungs-Pfade
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Pfad 1 — Vorgerichtliche Anwaltskorrespondenz
 
@@ -235,8 +235,8 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 5. Erledigungs-Klausel: saemtliche Anspruche aus Arbeitsverhaeltnis erledigt
 6. Kuendigungsschutzklage zuruecknehmen / Klage als erledigt erklaeren
 7. Sperrzeit-Verzicht-Erklaerung (formaler Hinweis nicht moeglich, aber:
-   "betriebsbedingte Kuendigung waere ausgesprochen worden")
-   [ggf. weglassen wenn keine Sperrzeit-Relevanz]
+ "betriebsbedingte Kuendigung waere ausgesprochen worden")
+ [ggf. weglassen wenn keine Sperrzeit-Relevanz]
 
 Schlussabsatz Variante A (kooperativ):
 Wir regen an, diesen Vergleich noch vor dem Gütetermin zu unterzeichnen und
@@ -314,7 +314,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Zweck
 Vollständige Begleitung bei Zugangsfragen zur Kündigung durch Boten — von der Dokumentation bei Ausspruch bis zur Prozessstrategie bei bestrienem Zugang im Kündigungsschutzprozess. Beweislastverteilung, taktische Optionen und Fallstricke.
 
-## Kaltstart
+## Einstieg
 Wenn ein Sachverhaltsbericht oder Schriftstücke vorliegen, diese zuerst auswerten. Minimalfragen:
 
 1. **Wer ist der Mandant?** Arbeitgeber (Zustellung sichern, Beweis dokumentieren) oder Arbeitnehmer (Zugang bestreiten, Fristverteidigung)?
@@ -362,7 +362,7 @@ Art der Zustellung:
 
 Besondere Umstände: [z.B. Zeugen anwesend: Name; Reaktion des Empfängers]
 
-Unterschrift Bote: _______________    Datum: _______________
+Unterschrift Bote: _______________ Datum: _______________
 Unterschrift Zeuge (falls vorhanden): _______________
 ```
 

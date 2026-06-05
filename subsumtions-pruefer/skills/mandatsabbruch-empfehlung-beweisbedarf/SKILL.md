@@ -1,13 +1,13 @@
 ---
 name: mandatsabbruch-empfehlung-beweisbedarf
-description: "Nutze dies, wenn Mandatsabbruch Empfehlung An Fachanwalt, Beweisbedarf Und Belege Erfassen, Darlegungs Und Beweislast Verteilen im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Mandatsabbruch Empfehlung An Fachanwalt, Beweisbedarf Und Belege Erfassen, Darlegungs Und Beweislast Verteilen prüfen.; Erstelle eine Arbeitsfassung zu Mandatsabbruch Empfehlung An Fachanwalt, Beweisbedarf Und Belege Erfassen, Darlegungs Und Beweislast Verteilen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandatsabbruch Empfehlung An Fachanwalt, Beweisbedarf Und Belege Erfassen, Darlegungs Und Beweislast Verteilen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mandatsabbruch Empfehlung An Fachanwalt, Beweisbedarf Und Belege Erfassen, Darlegungs Und Beweislast Verteilen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandatsabbruch Empfehlung An Fachanwalt, Beweisbedarf Und Belege Erfassen, Darlegungs Und Beweislast Verteilen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -174,10 +174,10 @@ Das System geht jedes TBM der Reihe nach durch und fragt:
 1. **Tatsachenbehauptung:** Was behauptet der Nutzer für dieses TBM? (Freitext-Eingabe)
 2. **Beweislast:** Wer muss beweisen? — Grundsatz: Wer einen Anspruch geltend macht, trägt die Beweislast für dessen Voraussetzungen; Gegenseite für Einwendungen/Einreden.
 3. **Beleg vorhanden?** Der Nutzer kann angeben:
-   - (A) Beleg liegt vor (Dokument, Foto, Screenshot) → Hochladen oder Benennen
-   - (B) Zeuge bekannt → Name und Erreichbarkeit notieren
-   - (C) Tatsache behaupte ich; Beleg beschaffe ich später → Markierung "offen"
-   - (D) Keine Tatsache vorhanden für dieses TBM → TBM als nicht erfüllt markieren
+ - (A) Beleg liegt vor (Dokument, Foto, Screenshot) → Hochladen oder Benennen
+ - (B) Zeuge bekannt → Name und Erreichbarkeit notieren
+ - (C) Tatsache behaupte ich; Beleg beschaffe ich später → Markierung "offen"
+ - (D) Keine Tatsache vorhanden für dieses TBM → TBM als nicht erfüllt markieren
 4. **Sekundäre Darlegungslast:** Liegt ein Fall vor, in dem der Gegner näherliegende Informationen hat? → Verweis auf BGH-Rechtsprechung zur sekundären Darlegungslast
 5. **Beweiswert-Hinweis:** Das System gibt einen groben Hinweis auf den typischen Beweiswert des genannten Beweismittels (z.B. öffentliche Urkunde: voller Beweis § 415 ZPO; Privaturkunde: § 416 ZPO begrenzt).
 
@@ -187,12 +187,12 @@ Das System geht jedes TBM der Reihe nach durch und fragt:
 Ist die Tatsache streitig?
 ├─ Nein → unstreitig oder offenkundig → kein Beweismittel nötig
 └─ Ja → Beweislast bestimmen
-        ├─ Kläger trägt Last → Beweismittel aus Katalog wählen
-        │   ├─ Urkunde verfügbar? → Urkundsbeweis §§ 415 ff. ZPO
-        │   ├─ Zeuge vorhanden? → Zeugenbeweis §§ 373 ff. ZPO
-        │   ├─ Technische Frage? → Sachverständiger §§ 402 ff. ZPO
-        │   └─ Kein direktes Beweismittel? → Anscheinsbeweis prüfen
-        └─ Beklagter trägt Last → Einwand/Einrede belegen
+ ├─ Kläger trägt Last → Beweismittel aus Katalog wählen
+ │ ├─ Urkunde verfügbar? → Urkundsbeweis §§ 415 ff. ZPO
+ │ ├─ Zeuge vorhanden? → Zeugenbeweis §§ 373 ff. ZPO
+ │ ├─ Technische Frage? → Sachverständiger §§ 402 ff. ZPO
+ │ └─ Kein direktes Beweismittel? → Anscheinsbeweis prüfen
+ └─ Beklagter trägt Last → Einwand/Einrede belegen
 ```
 
 ## Besondere Konstellationen

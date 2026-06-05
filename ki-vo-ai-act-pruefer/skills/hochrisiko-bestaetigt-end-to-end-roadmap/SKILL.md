@@ -9,7 +9,7 @@ description: "Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestäti
 
 Sie haben festgestellt: das System ist Hochrisiko nach Art. 6 Abs. 1 oder Abs. 2 i.V.m. Anhang I/III KI-VO. Die Rückausnahme nach Art. 6 Abs. 3 KI-VO greift nicht. **Was jetzt?**
 
-Dieser Skill liefert den vollständigen Mandanten-Workflow von "Hochrisiko-Diagnose" bis "Marktreife mit CE-Kennzeichnung". Ziel ist Entdramatisierung: jeder Schritt ist mechanisch abarbeitbar.
+Dieser Skill liefert den vollständigen Mandanten-von "Hochrisiko-Diagnose" bis "Marktreife mit CE-Kennzeichnung". Ziel ist Entdramatisierung: jeder Schritt ist mechanisch abarbeitbar.
 
 ---
 
@@ -251,7 +251,7 @@ Dieser Skill liefert den vollständigen Mandanten-Workflow von "Hochrisiko-Diagn
 
 ---
 
-## Ergänzungs-Workflow für Betreiber
+## Ergänzungs-für Betreiber
 
 Wer das System **einsetzt** (Art. 3 Nr. 4 KI-VO), durchläuft einen kürzeren Workflow:
 
@@ -340,7 +340,7 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 
 ## Querverweise
 
-- `entscheidungsbaum-ki-vo-gesamt-workflow` — Master-Workflow vorgelagert
+- `entscheidungsbaum-ki-vo-gesamt-workflow` — Master-vorgelagert
 - `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` — alternative Pfade
 - `rueckausnahme-art-6-abs-3` — falls Diagnose noch unsicher
 - `sanktionen-art-99-bis-101` — was passiert, wenn nichts unternommen wird
@@ -382,7 +382,7 @@ Gepruefte Norm(en): [Art. 9 Rn. 1]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

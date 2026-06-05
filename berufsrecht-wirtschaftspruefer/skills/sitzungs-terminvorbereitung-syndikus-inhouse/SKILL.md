@@ -1,13 +1,13 @@
 ---
 name: sitzungs-terminvorbereitung-syndikus-inhouse
-description: "Nutze dies, wenn Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld, Verschwiegenheit Und Geheimnisschutz im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld, Verschwiegenheit Und Geheimnisschutz prüfen.; Erstelle eine Arbeitsfassung zu Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld, Verschwiegenheit Und Geheimnisschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld, Verschwiegenheit Und Geheimnisschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld, Verschwiegenheit Und Geheimnisschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld, Verschwiegenheit Und Geheimnisschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

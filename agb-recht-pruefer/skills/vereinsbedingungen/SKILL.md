@@ -1,6 +1,6 @@
 ---
 name: vereinsbedingungen
-description: "Branchen-Spezialskill für Vereinsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Vereinsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Vereinsbedingungen

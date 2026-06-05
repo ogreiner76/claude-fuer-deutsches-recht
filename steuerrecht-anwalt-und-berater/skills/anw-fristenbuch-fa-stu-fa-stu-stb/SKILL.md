@@ -1,13 +1,13 @@
 ---
 name: anw-fristenbuch-fa-stu-fa-stu-stb
-description: "Nutze dies, wenn Anw Fristenbuch Steuerrecht, Fa Stu Onboarding Fristen Uebersicht, Fa Stu Schenkung Zehnjahresfrist, Stb Mandantenanfrage Reaktion Frist Laufend, Stb Sanierungsgewinn Zustaendigkeiten Fa Betriebspruefung und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Anw Fristenbuch Steuerrecht, Fa Stu Onboarding Fristen Uebersicht, Fa Stu Schenkung Zehnjahresfrist, Stb Mandantenanfrage Reaktion Frist Laufend, Stb Sanierungsgewinn Zustaendigkeiten Fa Betriebspruefung und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Anw Fristenbuch Steuerrecht, Fa Stu Onboarding Fristen Uebersicht, Fa Stu Schenkung Zehnjahresfrist, Stb Mandantenanfrage Reaktion Frist Laufend, Stb Sanierungsgewinn Zustaendigkeiten Fa Betriebspruefung und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anw Fristenbuch Steuerrecht, Fa Stu Onboarding Fristen Uebersicht, Fa Stu Schenkung Zehnjahresfrist, Stb Mandantenanfrage Reaktion Frist Laufend: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anw Fristenbuch Steuerrecht, Fa Stu Onboarding Fristen Uebersicht, Fa Stu Schenkung Zehnjahresfrist, Stb Mandantenanfrage Reaktion Frist Laufend, Stb Sanierungsgewinn Zustaendigkeiten Fa Betriebspruefung und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anw Fristenbuch Steuerrecht, Fa Stu Onboarding Fristen Uebersicht, Fa Stu Schenkung Zehnjahresfrist, Stb Mandantenanfrage Reaktion Frist Laufend, Stb Sanierungsgewinn Zustaendigkeiten Fa Betriebspruefung und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -66,17 +66,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```yaml
 - mandat-az: ST-2026-0042
-  mandant: Mueller GmbH
-  vorgang: USt-Bescheid 2024 vom 12.03.2026
-  fristart: einspruchsfrist
-  rechtsgrundlage: "§ 355 Abs. 1 AO"
-  fristbeginn: 2026-03-15
-  hauptfrist: 2026-04-15
-  vorfrist-tage: 5
-  vorfrist: 2026-04-10
-  zustaendig: RA Mueller
-  status: offen
-  bemerkung: AdV-Antrag separat einreichen
+ mandant: Mueller GmbH
+ vorgang: USt-Bescheid 2024 vom 12.03.2026
+ fristart: einspruchsfrist
+ rechtsgrundlage: "§ 355 Abs. 1 AO"
+ fristbeginn: 2026-03-15
+ hauptfrist: 2026-04-15
+ vorfrist-tage: 5
+ vorfrist: 2026-04-10
+ zustaendig: RA Mueller
+ status: offen
+ bemerkung: AdV-Antrag separat einreichen
 ```
 
 ## Standardfristen
@@ -326,7 +326,7 @@ Mandantenanfragen kommen taeglich: telefonisch, per E-Mail, via DUO-Portal. Ohne
 ```
 SERVICE-STANDARD MANDANTENKOMMUNIKATION
 
-Anfrage-Typ         | Reaktionsfrist | Bearbeitungsfrist
+Anfrage-Typ | Reaktionsfrist | Bearbeitungsfrist
 ------------------- | -------------- | -----------------
 Telefonische Anfrage einfach | Innerhalb Tag | -
 Telefonische Anfrage komplex | Innerhalb Tag | 3 Tage
@@ -446,7 +446,7 @@ Der Antrag § 3a Abs. 4 EStG wandert nicht durch die Verwaltung wie eine normale
 - **§§ 40 ff. FGO** — Klage Finanzgericht.
 - **§ 3a EStG** — Sanierungsbefreiung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Phase 1: Vorbereitung des Antrags
 
@@ -507,7 +507,7 @@ An das Finanzamt [Ort]
 - Sachgebietsleiter Körperschaft / Personengesellschaften -
 
 Betreff: Vorabinformation zur Sanierung [Firma] —
-         Antrag § 3a Abs. 4 EStG geplant
+ Antrag § 3a Abs. 4 EStG geplant
 
 Sehr geehrte Frau / sehr geehrter Herr [Name],
 
@@ -515,13 +515,13 @@ namens unserer Mandantin, der [Firma], möchten wir Sie
 informieren, dass eine außergerichtliche / planmäßige
 (StaRUG / Insolvenzplan) Sanierung in Vorbereitung ist.
 
-Voraussichtliches Sanierungsjahr:     [Wirtschaftsjahr]
-Verzichtsvolumen (insgesamt):         EUR [Betrag]
+Voraussichtliches Sanierungsjahr: [Wirtschaftsjahr]
+Verzichtsvolumen (insgesamt): EUR [Betrag]
 Vier Voraussetzungen § 3a EStG:
-  - Sanierungsbedürftigkeit dokumentiert (Liquiditätsplan)
-  - Sanierungsfähigkeit (IDW S 6-Konzept in Vorbereitung)
-  - Sanierungsabsicht der Gläubiger (in Verhandlung)
-  - Sanierungseignung (Maßnahmenkatalog quantifiziert)
+ - Sanierungsbedürftigkeit dokumentiert (Liquiditätsplan)
+ - Sanierungsfähigkeit (IDW S 6-Konzept in Vorbereitung)
+ - Sanierungsabsicht der Gläubiger (in Verhandlung)
+ - Sanierungseignung (Maßnahmenkatalog quantifiziert)
 
 Wir würden uns über ein orientierendes Gespräch freuen,
 in dem wir die geplanten Maßnahmen und die Antragsstruktur
@@ -556,19 +556,19 @@ Vorgaben des BMF-Schreibens vom 27.04.2017 ab.
 
 III. Rechtliche Würdigung
 1. Sanierungsbedürftigkeit
-   Nach BMF-Schreiben 27.04.2017 Abschnitt [...] ist
-   Sanierungsbedürftigkeit anzunehmen, wenn [...].
-   Die Mandantin erfüllt dieses Kriterium, weil [...].
-   Anlage [...] belegt dies durch [...].
+ Nach BMF-Schreiben 27.04.2017 Abschnitt [...] ist
+ Sanierungsbedürftigkeit anzunehmen, wenn [...].
+ Die Mandantin erfüllt dieses Kriterium, weil [...].
+ Anlage [...] belegt dies durch [...].
 
 2. Sanierungsfähigkeit
-   [...]
+ [...]
 
 3. Sanierungsabsicht
-   [...]
+ [...]
 
 4. Sanierungseignung
-   [...]
+ [...]
 
 IV. Beweisanträge
 [Zeugen, Sachverständiger Sanierungsberater]

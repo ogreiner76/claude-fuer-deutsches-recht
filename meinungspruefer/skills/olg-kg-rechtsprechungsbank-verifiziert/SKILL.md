@@ -1,13 +1,13 @@
 ---
 name: olg-kg-rechtsprechungsbank-verifiziert
-description: "Nutze dies, wenn Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert prüfen.; Erstelle eine Arbeitsfassung zu Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Olg Kg Praxis Rechtsprechung, Rechtsprechungsbank Verifiziert** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -100,7 +100,7 @@ Nutze diese Rechtsprechung als geprüfte Startbank. Zitiere sie nur mit Gericht,
 
 ### BVerfG und deutsche Verfassungsleitlinien
 
-| Thema | Entscheidung | Aussage für den Workflow | Freie Quelle |
+| Thema | Entscheidung | Aussage für den | Freie Quelle |
 |---|---|---|---|
 | Normalabwägung und enge Ausnahmen | BVerfG, Beschluss vom 19.05.2020 - 1 BvR 362/18 | Auch grobe Kritik an Amtsträgern verlangt regelmäßig Abwägung; Schmähkritik, Formalbeleidigung und Menschenwürde sind eng zu begründen. | https://www.hrr-strafrecht.de/hrr/bverfg/18/1-bvr-362-18.php |
 | Online-Pranger und Richterkritik | BVerfG, Beschluss vom 19.05.2020 - 1 BvR 2397/19 | Reichweite, Anprangerung und Integritätsangriffe können Ehrschutz deutlich stärken. | https://www.hrr-strafrecht.de/hrr/bverfg/19/1-bvr-2397-19.php |
@@ -115,7 +115,7 @@ Nutze diese Rechtsprechung als geprüfte Startbank. Zitiere sie nur mit Gericht,
 
 ### EGMR zu Art. 10 EMRK
 
-| Thema | Entscheidung | Aussage für den Workflow | Freie Quelle |
+| Thema | Entscheidung | Aussage für den | Freie Quelle |
 |---|---|---|---|
 | demokratische Grundlinie | EGMR, Urteil vom 07.12.1976 - 5493/72, Handyside/Vereinigtes Königreich | Art. 10 schützt auch störende, schockierende und verletzende Äußerungen; Einschränkungen brauchen demokratische Notwendigkeit. | https://hudoc.echr.coe.int/eng?i=001-57499 |
 | Politikerkritik und Werturteil | EGMR, Urteil vom 08.07.1986 - 9815/82, Lingens/Österreich | Politiker müssen weitergehende Kritik hinnehmen; Werturteile dürfen nicht wie Tatsachen bewiesen werden müssen. | https://hudoc.echr.coe.int/eng?i=001-57523 |
@@ -128,7 +128,7 @@ Nutze diese Rechtsprechung als geprüfte Startbank. Zitiere sie nur mit Gericht,
 
 ### EuGH und Art. 11 GRCh
 
-| Thema | Entscheidung | Aussage für den Workflow | Freie Quelle |
+| Thema | Entscheidung | Aussage für den | Freie Quelle |
 |---|---|---|---|
 | Datenschutz und journalistische Zwecke | EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi und Satamedia | Journalistische Zwecke sind funktional zu verstehen; Datenschutz und Informationsfreiheit müssen praktisch ausgeglichen werden. | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0073 |
 | Video und journalistische Zwecke | EuGH, Urteil vom 14.02.2019 - C-345/17, Buivids | Auch private Veröffentlichungen können journalistische Zwecke verfolgen; Veröffentlichung staatlicher Vorgänge braucht Datenschutzabwägung. | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0345 |
@@ -139,7 +139,7 @@ Nutze diese Rechtsprechung als geprüfte Startbank. Zitiere sie nur mit Gericht,
 
 ### Obergerichte: OLG/KG-Praxis
 
-| Thema | Entscheidung | Aussage für den Workflow | Freie Quelle |
+| Thema | Entscheidung | Aussage für den | Freie Quelle |
 |---|---|---|---|
 | Kontext bei strafbarer Beleidigung | OLG Düsseldorf, Beschluss vom 10.07.2006 - III-5 Ss 101/05 - 53/05 I | Auszugsweise Wortlautwiedergabe reicht nicht; Beleidigungsprüfung braucht Einbettung und Abwägung. | https://nrwe.justiz.nrw.de/olgs/duesseldorf/j2006/III_5_Ss_101_05___53_05_Ibeschluss20060710.html |
 | Gutachten und fachliche Kritik | OLG Frankfurt am Main, Urteil vom 30.11.2023 - 16 U 206/21 | Fachliche Bewertung und gutachterliche Kritik sind kontextbezogen zu prüfen; nicht jede rufschädigende Bewertung ist unzulässig. | https://ordentliche-gerichtsbarkeit.hessen.de/presse/ehemaliger-dfb-schiedsrichter-kann-nicht-unterlassen-gutachterlicher-aeusserungen-ueber-ihn |
@@ -151,7 +151,7 @@ Nutze diese Rechtsprechung als geprüfte Startbank. Zitiere sie nur mit Gericht,
 
 ### USA-Vergleich: Supreme Court
 
-| Thema | Entscheidung | Aussage für den Workflow | Freie Quelle |
+| Thema | Entscheidung | Aussage für den | Freie Quelle |
 |---|---|---|---|
 | public official und actual malice | Supreme Court of the United States, 09.03.1964 - New York Times Co. v. Sullivan, 376 U.S. 254 | Amtsträger müssen bei defamation falsity und actual malice zeigen; nicht auf deutsche §§ 185 ff. StGB übertragbar. | https://cdn.loc.gov/service/ll/usrep/usrep376/usrep376254/usrep376254.pdf |
 | private Kläger | Supreme Court of the United States, 25.06.1974 - Gertz v. Robert Welch, Inc., 418 U.S. 323 | Private plaintiffs genießen stärkeren Schutz; gleichwohl First-Amendment-Grenzen bei fault und damages. | https://cdn.loc.gov/service/ll/usrep/usrep418/usrep418323/usrep418323.pdf |

@@ -1,13 +1,13 @@
 ---
 name: luxus-agb-haendlervertrag-rechtsabteilung
-description: "Nutze dies, wenn Spezial Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Spezial Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft prüfen.; Erstelle eine Arbeitsfassung zu Spezial Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft
+# Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,12 +15,12 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spezial-luxus-fristen-form-und-zustaendigkeit` | Luxus: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `agb-haendlervertrag-luxus` | AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control. |
-| `rechtsabteilung-plattformhaftung-nach-louboutin-amazon` | Rechtsabteilungs-Spezialskill für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-plattformhaftung-nach-louboutin-amazon` | Rechtsabteilungs-Fachmodul für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `schadensersatz-drei-methoden-auskunft` | Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert. |
 
 ## Arbeitsweg
 
-Für **Spezial Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Rechtsabteilung Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Spezial Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus,
 # Luxus: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Luxus: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Luxus: Fristen, Form, Zuständigkeit und Rechtsweg / spezial luxus fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Luxus: Fristen, Form, Zuständigkeit und Rechtsweg / luxus fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -97,50 +97,50 @@ Auch im B2B-Verhältnis gilt AGB-Kontrolle nach §§ 305 ff. BGB — aber mit de
 ## Prüfungsschritte
 
 1. **AGB-Einbeziehung (§§ 305/305a BGB):**
-   - Ausdrücklicher Hinweis auf AGB im Vertragsschluss-Moment
-   - Möglichkeit der Kenntnisnahme gewähren (Übergabe oder Verweis auf Abrufmöglichkeit)
-   - Im B2B: § 305a (vereinfachte Einbeziehung im Handelsverkehr); Bestätigungsschreiben mit AGB-Verweis
-   - Besonderheit: Individuelle Absprache geht AGB vor (§ 305b BGB) — wichtige Grenze bei Händlerverhandlungen
+ - Ausdrücklicher Hinweis auf AGB im Vertragsschluss-Moment
+ - Möglichkeit der Kenntnisnahme gewähren (Übergabe oder Verweis auf Abrufmöglichkeit)
+ - Im B2B: § 305a (vereinfachte Einbeziehung im Handelsverkehr); Bestätigungsschreiben mit AGB-Verweis
+ - Besonderheit: Individuelle Absprache geht AGB vor (§ 305b BGB) — wichtige Grenze bei Händlerverhandlungen
 
 2. **Inhaltskontrolle (§ 307 BGB im B2B-Maßstab):**
-   - Unangemessene Benachteiligung: weicht von wesentlichen Grundgedanken des dispositiven Rechts ab, und widerspricht vernünftigen Parteiinteressen?
-   - B2B-Maßstab: Branchenüblichkeit, Größe und Verhandlungsstärke der Parteien
-   - Klôtzzkètté vs. Müller Parfümerie: mittleres Unternehmen; hohe Verhandlungsmacht klôtzzkètté → strengere Kontrolle als bei echten Verhandlungs-Partnern auf Augenhöhe
+ - Unangemessene Benachteiligung: weicht von wesentlichen Grundgedanken des dispositiven Rechts ab, und widerspricht vernünftigen Parteiinteressen?
+ - B2B-Maßstab: Branchenüblichkeit, Größe und Verhandlungsstärke der Parteien
+ - Klôtzzkètté vs. Müller Parfümerie: mittleres Unternehmen; hohe Verhandlungsmacht klôtzzkètté → strengere Kontrolle als bei echten Verhandlungs-Partnern auf Augenhöhe
 
 3. **Kerninhalte Händlervertrag klôtzzkètté:**
 
-   **A — Qualitäts-Selektionskriterien (Anlage 1):**
-   - Store-Design-Standards (Lichtkonzept, Möblierung, Display-Material nach Brand Manual)
-   - Schulungsanforderungen (8 h/Jahr klôtzzkètté-Akademie)
-   - Sortimentsanforderungen (kein Mischsortiment mit Discountware)
-   - Online-Auftritt (eigene Domain, konforme Produktdarstellung)
+ **A — Qualitäts-Selektionskriterien (Anlage 1):**
+ - Store-Design-Standards (Lichtkonzept, Möblierung, Display-Material nach Brand Manual)
+ - Schulungsanforderungen (8 h/Jahr klôtzzkètté-Akademie)
+ - Sortimentsanforderungen (kein Mischsortiment mit Discountware)
+ - Online-Auftritt (eigene Domain, konforme Produktdarstellung)
 
-   **B — Plattformverbot (Coty-Klausel):**
-   - Verbot Drittmarktplätze (Donauzon, Amazon, eBay) ohne Zustimmung
-   - Zulässig nach Coty bei Luxusgütern (vgl. Skill `selektiver-vertrieb-coty`)
+ **B — Plattformverbot (Coty-Klausel):**
+ - Verbot Drittmarktplätze (Donauzon, Amazon, eBay) ohne Zustimmung
+ - Zulässig nach Coty bei Luxusgütern (vgl. Skill `selektiver-vertrieb-coty`)
 
-   **C — Preisklauseln:**
-   - UPE-Klausel (ausdrücklich unverbindlich)
-   - Kein Mindestpreisgebot
-   - MAP nur für Werbung, nicht für VK-Preis
+ **C — Preisklauseln:**
+ - UPE-Klausel (ausdrücklich unverbindlich)
+ - Kein Mindestpreisgebot
+ - MAP nur für Werbung, nicht für VK-Preis
 
-   **D — Weiterverkaufsverbot:**
-   - Weiterverkauf nur an Endverbraucher; kein Verkauf an Wiederverkäufer
-   - Mengenlimitierung je Bestellung
+ **D — Weiterverkaufsverbot:**
+ - Weiterverkauf nur an Endverbraucher; kein Verkauf an Wiederverkäufer
+ - Mengenlimitierung je Bestellung
 
-   **E — MFN-Klauseln:**
-   - Enge MFN: Händler darf klôtzzkètté-Produkte nicht günstiger als auf eigenem klôtzzkètté.com anbieten
-   - Kartellrechtlich: Enge MFN grundsätzlich weniger problematisch als breite MFN (Vertikalleitlinien 2022 Rn. 340)
+ **E — MFN-Klauseln:**
+ - Enge MFN: Händler darf klôtzzkètté-Produkte nicht günstiger als auf eigenem klôtzzkètté.com anbieten
+ - Kartellrechtlich: Enge MFN grundsätzlich weniger problematisch als breite MFN (Vertikalleitlinien 2022 Rn. 340)
 
-   **F — Vertragsstrafe:**
-   - EUR 10.000 je Verstoß gegen Plattformverbot
-   - EUR 5.000 je Verstoß gegen Weiterverkaufsverbot
-   - Hamburger Brauch für schwer quantifizierbare Verstöße (Image-Schäden)
+ **F — Vertragsstrafe:**
+ - EUR 10.000 je Verstoß gegen Plattformverbot
+ - EUR 5.000 je Verstoß gegen Weiterverkaufsverbot
+ - Hamburger Brauch für schwer quantifizierbare Verstöße (Image-Schäden)
 
 4. **AGB-Kontrolle der eigenen Klauseln:**
-   - Vertragsstrafe-Höhe: AGB-Vertragsstrafe im B2B muss angemessen sein (BGH) — EUR 10.000 bei Umsatz von EUR 500.000/Jahr ist angemessen
-   - Automatische Vertragsverlängerung: § 309 Nr. 9 BGB analog — im B2B zulässig, aber Kündigungsfrist max. 3 Monate
-   - Änderungsklausel: Einseitige Änderungsrechte von klôtzzkètté müssen sachlich begründet sein
+ - Vertragsstrafe-Höhe: AGB-Vertragsstrafe im B2B muss angemessen sein (BGH) — EUR 10.000 bei Umsatz von EUR 500.000/Jahr ist angemessen
+ - Automatische Vertragsverlängerung: § 309 Nr. 9 BGB analog — im B2B zulässig, aber Kündigungsfrist max. 3 Monate
+ - Änderungsklausel: Einseitige Änderungsrechte von klôtzzkètté müssen sachlich begründet sein
 
 ## Falltypische Konstellationen
 
@@ -166,17 +166,17 @@ Nach Abmahnung wegen Plattformverkauf unterzeichnet Händler Unterlassungserklä
 § [X] Verbot des Vertriebs über Drittmarktplätze
 
 1. Der Händler darf Vertragsprodukte nicht über Marktplätze Dritter
-   (insbesondere Donauzon, Amazon, eBay und vergleichbare Plattformen)
-   anbieten oder verkaufen, ohne vorherige schriftliche Zustimmung
-   von klôtzzkètté SA.
+ (insbesondere Donauzon, Amazon, eBay und vergleichbare Plattformen)
+ anbieten oder verkaufen, ohne vorherige schriftliche Zustimmung
+ von klôtzzkètté SA.
 
 2. Der Händler darf Vertragsprodukte über seine eigene Website
-   (mit eigenständiger Domain) vertreiben, soweit er die
-   Qualitätskriterien (Anlage 1) für den Online-Vertrieb erfüllt.
+ (mit eigenständiger Domain) vertreiben, soweit er die
+ Qualitätskriterien (Anlage 1) für den Online-Vertrieb erfüllt.
 
 3. Bei Verstoß gegen Abs. 1 ist der Händler verpflichtet, eine
-   Vertragsstrafe von EUR 10.000 je Verletzungshandlung zu zahlen.
-   Weitergehende Schadensersatzansprüche bleiben vorbehalten.
+ Vertragsstrafe von EUR 10.000 je Verletzungshandlung zu zahlen.
+ Weitergehende Schadensersatzansprüche bleiben vorbehalten.
 ```
 
 ## Verweise auf andere Skills
@@ -214,7 +214,7 @@ Quelle: dejure.org. Prufer: Bundle-005-Audit.
 
 ## 3. `rechtsabteilung-plattformhaftung-nach-louboutin-amazon`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon
 

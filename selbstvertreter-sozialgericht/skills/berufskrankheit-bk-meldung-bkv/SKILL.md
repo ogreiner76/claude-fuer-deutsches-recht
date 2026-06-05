@@ -19,11 +19,11 @@ description: "Berufskrankheit: Meldung und Anerkennung. Skill klaert die BK-List
 
 - Aktuell ca. 80 Berufskrankheiten.
 - Typische BK:
-  - BK 2108: Bandscheibenbedingte Erkrankungen LWS durch Heben/Tragen.
-  - BK 2301: Larmschwerhoerigkeit.
-  - BK 4103: Asbestose.
-  - BK 4104: Lungenkrebs durch Asbest.
-  - BK 5101: Hauterkrankungen.
+ - BK 2108: Bandscheibenbedingte Erkrankungen LWS durch Heben/Tragen.
+ - BK 2301: Larmschwerhoerigkeit.
+ - BK 4103: Asbestose.
+ - BK 4104: Lungenkrebs durch Asbest.
+ - BK 5101: Hauterkrankungen.
 
 ## Wie-Tatbestand § 9 Abs. 2 SGB VII
 

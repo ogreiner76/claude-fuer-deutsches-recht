@@ -1,13 +1,13 @@
 ---
 name: mandat-triage-schriftsatzkern-substantiierung
-description: "Nutze dies, wenn Mandat Triage Sportrecht, Schriftsatzkern Substantiierung, Spezial Code Compliance Dokumentation Und Akte im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Bitte Mandat Triage Sportrecht, Schriftsatzkern Substantiierung, Spezial Code Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Mandat Triage Sportrecht, Schriftsatzkern Substantiierung, Spezial Code Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandat Triage Sportrecht, Schriftsatzkern Substantiierung, Code Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Mandat Triage Sportrecht, Schriftsatzkern Substantiierung, Spezial Code Compliance Dokumentation Und Akte
+# Mandat Triage Sportrecht, Schriftsatzkern Substantiierung, Code Compliance Dokumentation Und Akte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandat Triage Sportrecht, Schriftsatzkern Substantiierung, Code Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Mandat Triage Sportrecht, Schriftsatzkern Substantiierung, Spezial Code Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sportrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandat Triage Sportrecht, Schriftsatzkern Substantiierung, Code Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sportrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -129,15 +129,15 @@ Sportrechts-Mandate sind oft saison- und turnierbezogen — eine Sperre vor eine
 ## Eilmodus
 
 - **Sperre vor wichtigem Spiel:**
-  1. Verbandsberufung
-  2. Antrag aufschiebende Wirkung
-  3. Parallel staatliches Eilverfahren § 935 ZPO
-  4. Pressekommunikation strategisch
+ 1. Verbandsberufung
+ 2. Antrag aufschiebende Wirkung
+ 3. Parallel staatliches Eilverfahren § 935 ZPO
+ 4. Pressekommunikation strategisch
 - **Doping-Verdacht:**
-  1. Beratung vor B-Probe
-  2. B-Probe-Anfechtung Termin organisieren
-  3. NADA-Verfahren steuern
-  4. Verteidigungs-Strategie WADA Code
+ 1. Beratung vor B-Probe
+ 2. B-Probe-Anfechtung Termin organisieren
+ 3. NADA-Verfahren steuern
+ 4. Verteidigungs-Strategie WADA Code
 
 ## Eskalation
 
@@ -388,7 +388,7 @@ Vor Versand:
 # Code: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Code: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Code: Compliance-Dokumentation und Aktenvermerk / spezial code compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Code: Compliance-Dokumentation und Aktenvermerk / code compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

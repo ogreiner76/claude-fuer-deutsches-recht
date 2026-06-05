@@ -1,13 +1,13 @@
 ---
 name: tod-erbe-vorlage-originale-aktenzeichen
-description: "Nutze dies, wenn Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid prüfen.; Erstelle eine Arbeitsfassung zu Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Tod Erbe Behörde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnum
 ## Aufgabe
 Erklärt Sterbefall, Erbschein, Nachlassgericht, Renten-/Kassen-/Steuerstellen und vorsichtige Erklärungen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -169,7 +169,7 @@ Vor jedem belastenden Verwaltungsakt muss die Behoerde grundsaetzlich anhoeren �
 - **Landes-VwVfG** weitgehend bundesgleich.
 - **DSGVO Art. 13/14** Information ueber Datenverarbeitung — kein Anhoerungsersatz.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Schreiben lesen:** Welche Tatsachen behauptet die Behoerde? Welche Rechtsfolge wird angekuendigt?
 2. **Sachverhalt korrigieren:** Falsche Annahmen widerlegen, fehlende Tatsachen ergaenzen, Beweismittel beilegen.
 3. **Rechtsargumente nennen:** Auch ohne Anwalt — z. B. Vertrauensschutz, atypische Lage, mildere Mittel.

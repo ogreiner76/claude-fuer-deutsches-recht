@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Naturschutz- und Artenschutzrecht
-Ressort:            BMUKN
-Kernnormen:         BNatSchG; NatschGesetze der Laender; CITES; BJagdG (Schnittstelle).
-Akteure/Aufsicht:   BfN; UBA; Laender-Naturschutzbehoerden; Untere Naturschutzbehoerden.
-EU/Voelkerrecht:    FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Nature Restoration).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmukn; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Naturschutz- und Artenschutzrecht
+Ressort: BMUKN
+Kernnormen: BNatSchG; NatschGesetze der Laender; CITES; BJagdG (Schnittstelle).
+Akteure/Aufsicht: BfN; UBA; Laender-Naturschutzbehoerden; Untere Naturschutzbehoerden.
+EU/Voelkerrecht: FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Nature Restoration).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

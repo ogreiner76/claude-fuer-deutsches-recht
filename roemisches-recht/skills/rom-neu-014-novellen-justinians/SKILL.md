@@ -1,6 +1,6 @@
 ---
 name: rom-neu-014-novellen-justinians
-description: "Nutze dies, wenn Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche

@@ -1,6 +1,6 @@
 ---
 name: backup-datenverlust
-description: "Klausel-Spezialskill für Backup Datenverlust: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Backup Datenverlust: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Backup Datenverlust

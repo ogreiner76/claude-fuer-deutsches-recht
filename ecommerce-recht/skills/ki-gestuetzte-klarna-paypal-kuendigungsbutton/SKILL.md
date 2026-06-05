@@ -1,13 +1,13 @@
 ---
 name: ki-gestuetzte-klarna-paypal-kuendigungsbutton
-description: "Nutze dies, wenn Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb prüfen.; Erstelle eine Arbeitsfassung zu Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312k Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ki Gestuetzte Preisbildung Diskriminierung, Klarna Paypal Plattformbedingungen Rechtlich Lesen, Kuendigungsbutton 312K Bgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -152,14 +152,14 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 - UKlaG: Unterlassungsklage Verbraucherverbände.
 - EU-Schnittstellen: Verbraucherrechte-RL 2011/83 (Art. 8 Klarheit Bestellprozess) – nicht deckungsgleich, aber Hintergrund.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Anwendungsbereich prüfen.** Verbraucher? Ermöglicht der Unternehmer den Abschluss des Vertragstyps über eine Webseite (es kommt nicht darauf an, ob der konkrete Kundenvertrag online geschlossen wurde — § 312k Abs. 1 BGB stellt auf die generelle Verfügbarkeit des Abschlussweges ab)? Entgeltliches Dauerschuldverhältnis?
 2. **Buttontext prüfen.** "Verträge hier kündigen" oder gleichwertig, gut lesbar, ohne weitere Login-Hürde direkt nach Klick erreichbar.
 3. **Bestätigungsseite prüfen.** Vollständige Angaben: Identifizierung des Vertrags, Art der Kündigung, Datum/Uhrzeit, eindeutiger Bestätigungs-Button.
 4. **Bestätigung per E-Mail.** Unmittelbar nach Klick, mit Zeitstempel.
 5. **Bestandskunden.** Pflicht gilt auch für Altverträge und für offline geschlossene Verträge des gleichen Typs, sobald der Unternehmer den Abschluss über die Webseite anbietet (§ 312k Abs. 1 BGB stellt auf den angebotenen Abschlussweg ab, nicht auf den konkreten Vertragsschluss).
-   - Konkret: Wer Online-Neuabschluss anbietet, muss den Kündigungsbutton auch für offline geworbene Kunden und für im Laden/per Post geschlossene Verträge bereitstellen, wenn es derselbe Vertragstyp ist.
+ - Konkret: Wer Online-Neuabschluss anbietet, muss den Kündigungsbutton auch für offline geworbene Kunden und für im Laden/per Post geschlossene Verträge bereitstellen, wenn es derselbe Vertragstyp ist.
 6. **Login-Hürde unzulässig.** OLG Düsseldorf und andere haben Login-Pflicht zwischen Button und Bestätigung als unzulässig eingestuft.
 7. **Beweissicherung.** Screenshots, Versionierung der Seite, Log-Files.
 8. **Abmahnung.** Modifizierte Unterlassungserklärung mit Vertragsstrafenklausel.

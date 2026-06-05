@@ -1,6 +1,6 @@
 ---
 name: werden
-description: "Nutze dies, wenn Werden: Internationaler Bezug und Schnittstellen im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Werden: Internationaler Bezug und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Werden: Internationaler Bezug und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Werden: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Werden: Internationaler Bezug und Schnittstellen

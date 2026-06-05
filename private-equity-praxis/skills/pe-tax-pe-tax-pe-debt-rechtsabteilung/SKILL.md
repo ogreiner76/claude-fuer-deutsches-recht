@@ -1,13 +1,13 @@
 ---
 name: pe-tax-pe-tax-pe-debt-rechtsabteilung
-description: "Nutze dies, wenn Pe 020 Tax Structuring Pe Deutschland, Pe 068 Tax Audit Post Closing, Pe 090 Debt Equity Swap Pe, Rechtsabteilung Management Participation Sweet Equity im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 020 Tax Structuring Pe Deutschland, Pe 068 Tax Audit Post Closing, Pe 090 Debt Equity Swap Pe, Rechtsabteilung Management Participation Sweet Equity prüfen.; Erstelle eine Arbeitsfassung zu Pe 020 Tax Structuring Pe Deutschland, Pe 068 Tax Audit Post Closing, Pe 090 Debt Equity Swap Pe, Rechtsabteilung Management Participation Sweet Equity.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pe 020 Tax Structuring Pe Deutschland, Pe 068 Tax Audit Post Closing, Pe 090 Debt Equity Swap Pe, Rechtsabteilung Management Participation Sweet Equity: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pe 020 Tax Structuring Pe Deutschland, Pe 068 Tax Audit Post Closing, Pe 090 Debt Equity Swap Pe, Rechtsabteilung Management Participation Sweet Equity
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pe 020 Tax Structuring Pe Deutschland, Pe 068 Tax Audit Post Closing, Pe 090 Debt Equity Swap Pe, Rechtsabteilung Management Participation Sweet Equity** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `pe-020-tax-structuring-pe-deutschland` | Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit. |
 | `pe-068-tax-audit-post-closing` | Prüft Betriebsprüfung, Steuerfreistellung, Escrow, Limitation, Cooperation Covenant und Claims-Prozess. |
 | `pe-090-debt-equity-swap-pe` | Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance. |
-| `rechtsabteilung-management-participation-sweet-equity` | Rechtsabteilungs-Spezialskill für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-management-participation-sweet-equity` | Rechtsabteilungs-Fachmodul für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -57,7 +57,7 @@ Der Skill ersetzt keine Steuerberatung, macht aber die präzise Arbeitsteilung m
 
 KStG §§ 8b (Schachtelprivileg, 95 Prozent steuerfrei bei Beteiligung >= 10 Prozent zum Jahresanfang), 8c (Verlustabzug bei schädlichem Beteiligungserwerb), 8d (Stille-Reserven-Klausel und fortführungsgebundener Verlust); EStG § 4h (Zinsschranke, 30 Prozent EBITDA, Freigrenze 3 Mio. EUR), § 4k (ATAD-Hybridregel), § 18 Abs. 1 Nr. 4 (Carried Interest in Personengesellschaft), § 19a (Mitarbeiterbeteiligung Start-ups, ab 2024 erweitert), § 3 Nr. 40a (Teileinkünfteverfahren); GrEStG §§ 1 Abs. 2a (Personengesellschaft, 90 Prozent in 10 Jahren), 1 Abs. 2b (Kapitalgesellschaft seit 01.07.2021), 1 Abs. 3, 3a (Anteilsvereinigung); UmwStG §§ 20, 21, 24 (steuerneutrale Einbringung); InvStG §§ 1 ff. (Fondssphäre); MinStG (Pillar Two seit 01.01.2024); AO §§ 42 (Gestaltungsmissbrauch), 90 ff. (Mitwirkungspflichten).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Erwerbsstruktur skizzieren: SPV-Stack mit klaren Funktionen (Holding, Akquisitions-Finanzierung, Tax-Optimierung).
 2. Zinsschranken-Modell: EBITDA-basiertes Limit prüfen; § 4h EStG-Befreiung (Stand-Alone, Eigenkapitalvergleich); ATAD-Vereinbarkeit.
@@ -208,7 +208,7 @@ InsO/StaRUG, GmbHG/AktG, Steuer, BGB Abtretung, Gläubigerrechte.
 
 ## 4. `rechtsabteilung-management-participation-sweet-equity`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Management Participation Sweet Equity
 

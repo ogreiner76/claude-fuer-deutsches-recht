@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Digitale Verwaltung (OZG; EGovG)
-Ressort:            BMDS
-Kernnormen:         OZG; OZG-AeG; EGovG; EGovG-Laender; eIDAS-DurchG; XOeV.
-Akteure/Aufsicht:   BMDS; ITZBund; FITKO; Laender-CIOs; Bundesdruckerei.
-EU/Voelkerrecht:    Single Digital Gateway; eIDAS 2.0; EU Digital Wallet.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmds; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Digitale Verwaltung (OZG; EGovG)
+Ressort: BMDS
+Kernnormen: OZG; OZG-AeG; EGovG; EGovG-Laender; eIDAS-DurchG; XOeV.
+Akteure/Aufsicht: BMDS; ITZBund; FITKO; Laender-CIOs; Bundesdruckerei.
+EU/Voelkerrecht: Single Digital Gateway; eIDAS 2.0; EU Digital Wallet.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

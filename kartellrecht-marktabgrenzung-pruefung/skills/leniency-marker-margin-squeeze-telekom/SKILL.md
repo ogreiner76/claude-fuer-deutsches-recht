@@ -1,22 +1,22 @@
 ---
 name: leniency-marker-margin-squeeze-telekom
-description: "Nutze dies, wenn Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice prüfen.; Erstelle eine Arbeitsfassung zu Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom Energie Plattform, Market Definition 2024 Eu Notice** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `leniency-marker-global` | Leniency und Marker global: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kronzeugenprogramme, Marker, interne Untersuchung und Mehrjurisdiktionsstrategie koordinieren, Evidenz, Fristen, Strategie und Quellen. |
-| `margin-squeeze-predation` | Margin Squeeze und Predatory Pricing: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kostenmaßstab, Preis-Kosten-Schere, Verdrängungsabsicht und Effizienzverteidigung prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `leniency-marker-global` | Leniency und Marker global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kronzeugenprogramme, Marker, interne Untersuchung und Mehrjurisdiktionsstrategie koordinieren, Evidenz, Fristen, Strategie und Quellen. |
+| `margin-squeeze-predation` | Margin Squeeze und Predatory Pricing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kostenmaßstab, Preis-Kosten-Schere, Verdrängungsabsicht und Effizienzverteidigung prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `margin-squeeze-telekom-energie-plattform` | Margin Squeeze Telekom Energie Plattform: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `market-definition-2024-eu-notice` | EU Marktdefinitionsbekanntmachung 2024: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Produktmarkt, räumlicher Markt, Innovation, Plattformen und Evidenz nach Kommissionslogik prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `market-definition-2024-eu-notice` | EU Marktdefinitionsbekanntmachung 2024: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Produktmarkt, räumlicher Markt, Innovation, Plattformen und Evidenz nach Kommissionslogik prüfen, Evidenz, Fristen, Strategie und Quellen. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Leniency Marker Global, Margin Squeeze Predation, Margin Squeeze Telekom 
 
 ## 1. `leniency-marker-global`
 
-**Fokus:** Leniency und Marker global: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kronzeugenprogramme, Marker, interne Untersuchung und Mehrjurisdiktionsstrategie koordinieren, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Leniency und Marker global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kronzeugenprogramme, Marker, interne Untersuchung und Mehrjurisdiktionsstrategie koordinieren, Evidenz, Fristen, Strategie und Quellen.
 
 # Leniency und Marker global
 
@@ -77,7 +77,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `margin-squeeze-predation`
 
-**Fokus:** Margin Squeeze und Predatory Pricing: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kostenmaßstab, Preis-Kosten-Schere, Verdrängungsabsicht und Effizienzverteidigung prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Margin Squeeze und Predatory Pricing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kostenmaßstab, Preis-Kosten-Schere, Verdrängungsabsicht und Effizienzverteidigung prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Margin Squeeze und Predatory Pricing
 
@@ -172,7 +172,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `market-definition-2024-eu-notice`
 
-**Fokus:** EU Marktdefinitionsbekanntmachung 2024: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Produktmarkt, räumlicher Markt, Innovation, Plattformen und Evidenz nach Kommissionslogik prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** EU Marktdefinitionsbekanntmachung 2024: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Produktmarkt, räumlicher Markt, Innovation, Plattformen und Evidenz nach Kommissionslogik prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # EU Marktdefinitionsbekanntmachung 2024
 

@@ -51,7 +51,7 @@ Erst nach Ablauf koennen Sie klagen.
 Vor der Klage ist es gut (nicht zwingend), nochmal zu erinnern. Mustertext:
 
 ```
-[Behoerde]                                          [Ort, Datum]
+[Behoerde] [Ort, Datum]
 
 Az: [...]
 
@@ -69,7 +69,7 @@ Mit freundlichen Gruessen
 ### Schritt 3 — Klageschrift
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 [Name]
 [Adresse]

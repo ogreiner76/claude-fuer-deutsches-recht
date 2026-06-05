@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-aktenanlage
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau, Grosskanzlei Ma Schreibcanvas und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau, Grosskanzlei Ma Schreibcanvas und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau, Grosskanzlei Ma Schreibcanvas und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau, Grosskanzlei Ma Schreibcanvas und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau, Grosskanzlei Ma Schreibcanvas und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -308,7 +308,7 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 ## Prüfschema / Anlage-Checkliste
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -396,8 +396,8 @@ Zielgesellschaft: [Name, Sitz, HRB, LEI]
 Gegenseite: [Name] — vertreten durch [Kanzlei]
 
 REGISTER
-HRB/HRA: [...]  Registergericht: [...]
-Steuernummer: [...]  ISIN: [...]  LEI: [...]
+HRB/HRA: [...] Registergericht: [...]
+Steuernummer: [...] ISIN: [...] LEI: [...]
 
 BERATER
 Notar: [Name, Ort]
@@ -568,7 +568,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 ## Prüfschema
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -693,23 +693,23 @@ Insolvenzreife-Status: § 17 InsO — Zahlungsunfähigkeit MÖGLICH
 DEAL-AUSWIRKUNGEN:
 
 1. MAC-Klausel (SPA Ziffer [X]):
-   Definition: "[MAC-Definition aus SPA]".
-   Einschätzung: Der festgestellte Liquiditätsrückgang von EUR [X] innerhalb von
-   [Y] Wochen könnte als MAC-Ereignis zu werten sein. Endgültige Entscheidung
-   erfordert Vergleich mit Ausgangszustand bei Signing (Anlage [X]).
-   TODO [Partner] bis [Datum]: MAC-Analyse abschließen.
+ Definition: "[MAC-Definition aus SPA]".
+ Einschätzung: Der festgestellte Liquiditätsrückgang von EUR [X] innerhalb von
+ [Y] Wochen könnte als MAC-Ereignis zu werten sein. Endgültige Entscheidung
+ erfordert Vergleich mit Ausgangszustand bei Signing (Anlage [X]).
+ TODO [Partner] bis [Datum]: MAC-Analyse abschließen.
 
 2. Closing Condition (SPA Ziffer [X]):
-   Garantie der Zahlungsfähigkeit bei Closing. Bei Zahlungsunfähigkeit ist Closing
-   Condition nicht erfüllt. Käufer kann Vollzug verweigern.
+ Garantie der Zahlungsfähigkeit bei Closing. Bei Zahlungsunfähigkeit ist Closing
+ Condition nicht erfüllt. Käufer kann Vollzug verweigern.
 
 3. W&I-Versicherung:
-   Police Ziffer [X] schließt Schäden aus, die auf Insolvenzreife beruhen.
-   TODO [W&I-Owner] bis [Datum]: W&I-Broker über Situation informieren.
+ Police Ziffer [X] schließt Schäden aus, die auf Insolvenzreife beruhen.
+ TODO [W&I-Owner] bis [Datum]: W&I-Broker über Situation informieren.
 
 4. Ordinary-Course-Covenant:
-   Geschäftsleitung darf ohne Käufer-Zustimmung keine außerordentlichen Zahlungen
-   > EUR [X] leisten. § 15b InsO-Risiko ist unabhängig davon zu beachten.
+ Geschäftsleitung darf ohne Käufer-Zustimmung keine außerordentlichen Zahlungen
+ > EUR [X] leisten. § 15b InsO-Risiko ist unabhängig davon zu beachten.
 ```
 
 --- vor Versand klaeren ---
@@ -837,7 +837,7 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 ## Prüfschema Liquiditätsvorschau
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -904,22 +904,22 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 LIQUIDITÄTSVORSCHAU — VERTRAULICH — Projekt [Deal-Code]
-Stichtag: [TT.MM.JJJJ]   Erstellt von: [Name]
+Stichtag: [TT.MM.JJJJ] Erstellt von: [Name]
 
-| Position           | Woche 1     | Woche 2     | Woche 3     |
+| Position | Woche 1 | Woche 2 | Woche 3 |
 |--------------------|-------------|-------------|-------------|
-| Anfangsbestand     | EUR [X]     | EUR [Y]     | EUR [Z]     |
-| + Einzahlungen     | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon Debitoren  | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon sonstige   | EUR [...]   | EUR [...]   | EUR [...]   |
-| - Auszahlungen     | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon Löhne/GH   | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon Lieferant. | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon Steuern/SV | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon Debt Serv. | EUR [...]   | EUR [...]   | EUR [...]   |
-| Endbestand         | EUR [Y]     | EUR [Z]     | EUR [A]     |
-| Deckungslücke      | EUR 0       | EUR 0       | EUR [B]     |
-| AMPEL              | GRÜN        | GRÜN        | ROT         |
+| Anfangsbestand | EUR [X] | EUR [Y] | EUR [Z] |
+| + Einzahlungen | EUR [...] | EUR [...] | EUR [...] |
+| davon Debitoren | EUR [...] | EUR [...] | EUR [...] |
+| davon sonstige | EUR [...] | EUR [...] | EUR [...] |
+| - Auszahlungen | EUR [...] | EUR [...] | EUR [...] |
+| davon Löhne/GH | EUR [...] | EUR [...] | EUR [...] |
+| davon Lieferant. | EUR [...] | EUR [...] | EUR [...] |
+| davon Steuern/SV | EUR [...] | EUR [...] | EUR [...] |
+| davon Debt Serv. | EUR [...] | EUR [...] | EUR [...] |
+| Endbestand | EUR [Y] | EUR [Z] | EUR [A] |
+| Deckungslücke | EUR 0 | EUR 0 | EUR [B] |
+| AMPEL | GRÜN | GRÜN | ROT |
 
 HINWEIS: Woche 3 zeigt Deckungslücke EUR [B]. Prüfung § 17 InsO erforderlich.
 TODO [Owner] bis [Datum]: Brückenfinanzierung sicherstellen oder StaRUG-Anzeige prüfen.
@@ -933,20 +933,20 @@ Stand: [Datum]
 
 A. EINZAHLUNGEN
 1. Debitoren-OPOS: EUR [X] fällig in Woche [X]. Ausfallwahrscheinlichkeit [Y] %.
-   Quelle: OPOS-Liste vom [Datum]. NICHT BELEGBAR: [Posten] — TODO [Owner].
+ Quelle: OPOS-Liste vom [Datum]. NICHT BELEGBAR: [Posten] — TODO [Owner].
 2. Anzahlungen Auftrag [Nr.]: EUR [X], Zahlungseingang [Datum] lt. Auftragsbestätigung.
-   Quelle: Auftragsbestätigung Anlage [X].
+ Quelle: Auftragsbestätigung Anlage [X].
 
 B. AUSZAHLUNGEN
 1. Löhne: EUR [X], Fälligkeit [Datum]. Quelle: Lohnliste [Datum].
 2. Steuerrückstand: EUR [X], Fälligkeit [Datum] lt. Bescheid [AZ].
-   Risiko: Vollstreckung bei Nichtzahlung. TODO [Owner] bis [Datum]: Ratenzahlungsantrag.
+ Risiko: Vollstreckung bei Nichtzahlung. TODO [Owner] bis [Datum]: Ratenzahlungsantrag.
 
 C. KRITISCHE ANNAHMEN
 - Kreditlinie Bank [Name]: EUR [X] verfügbar. Covenant-Verletzung ab [Datum] möglich.
-  TODO: Bankgespräch bis [Datum].
+ TODO: Bankgespräch bis [Datum].
 - Management-Forecast-Umsatz Q2 +15 %: NICHT PLAUSIBEL auf Basis OPOS.
-  Korrektur: -8 % angesetzt.
+ Korrektur: -8 % angesetzt.
 ```
 
 --- vor Versand klaeren ---
@@ -1241,7 +1241,7 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 ## Prüfschema / Review-Würfel
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -1313,12 +1313,12 @@ TABELLENREVIEW — Projekt [Deal-Code] — Workstream [Finance]
 Stand: [Datum]
 Erstellt von: [Name]
 
-| Dok.-Nr. | Dokument        | Stichtag   | Umsatz   | EBITDA   | Net Debt | Status      | Kommentar |
+| Dok.-Nr. | Dokument | Stichtag | Umsatz | EBITDA | Net Debt | Status | Kommentar |
 |----------|-----------------|------------|----------|----------|----------|-------------|-----------|
-| DR-001   | JA 2023 (HGB)   | 31.12.2023 | EUR 50M  | EUR 7M   | EUR 12M  | belegt      | OK        |
-| DR-002   | Forecast 2024   | 31.12.2024 | EUR 55M  | EUR 8M   | n.v.     | prüfen      | Net Debt fehlt — TODO Finance bis [Datum] |
-| DR-003   | Interim Q1 2024 | 31.03.2024 | EUR 13M  | EUR 2M   | EUR 11M  | widersprüchl.| Umsatz Q1 2024 vs. Forecast-Ableitung: EUR 0,5M Differenz — Q&A stellen |
-| DR-004   | Tax Return 2022 | 31.12.2022 | nicht v. | nicht v. | nicht v. | leer        | Nicht in DR hochgeladen — Q&A: Steuerbescheid 2022 anfordern |
+| DR-001 | JA 2023 (HGB) | 31.12.2023 | EUR 50M | EUR 7M | EUR 12M | belegt | OK |
+| DR-002 | Forecast 2024 | 31.12.2024 | EUR 55M | EUR 8M | n.v. | prüfen | Net Debt fehlt — TODO Finance bis [Datum] |
+| DR-003 | Interim Q1 2024 | 31.03.2024 | EUR 13M | EUR 2M | EUR 11M | widersprüchl.| Umsatz Q1 2024 vs. Forecast-Ableitung: EUR 0,5M Differenz — Q&A stellen |
+| DR-004 | Tax Return 2022 | 31.12.2022 | nicht v. | nicht v. | nicht v. | leer | Nicht in DR hochgeladen — Q&A: Steuerbescheid 2022 anfordern |
 ```
 
 ### Baustein 2 — Q&A-Fragen aus Tabellenreview
@@ -1482,7 +1482,7 @@ Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -1560,12 +1560,12 @@ Das Gutachten enthält in den nachfolgend bezeichneten Teilen methodische Mänge
 die einer ausdrücklichen Stellungnahme bedürfen:
 
 1. Seite [X]: Die behauptete Schlussfolgerung [Schlussfolgerung] wird nicht aus den
-   Anknüpfungstatsachen hergeleitet. Der Sachverständige zitiert lediglich
-   [generische Aussage], ohne auf die Messprotokolle vom [Datum] (Anlage K [X])
-   einzugehen.
+ Anknüpfungstatsachen hergeleitet. Der Sachverständige zitiert lediglich
+ [generische Aussage], ohne auf die Messprotokolle vom [Datum] (Anlage K [X])
+ einzugehen.
 
 2. Seite [Y]: Die Methodik zur Berechnung von [Parameter] ist nicht dargestellt.
-   Es fehlt jeder Beleg dafür, welche Datengrundlage zugrunde lag.
+ Es fehlt jeder Beleg dafür, welche Datengrundlage zugrunde lag.
 
 II. Auffälligkeiten in der Erstellungsweise
 
@@ -1573,9 +1573,9 @@ Ergänzend bemerkt die [Partei], dass das Gutachten folgende formale Auffälligk
 aufweist, die Anlass zur Nachfrage geben:
 
 - Auf den Seiten [X], [Y], [Z] wiederholen sich identische Einleitungsformeln
-  ("Zusammenfassend ist festzustellen, dass ...").
+ ("Zusammenfassend ist festzustellen, dass ...").
 - Zwischen Kapitel [A] und Kapitel [B] besteht ein erkennbarer Stilwechsel, der
-  auf unterschiedliche Erstellungsstränge hindeuten kann.
+ auf unterschiedliche Erstellungsstränge hindeuten kann.
 
 Die [Partei] erhebt keinen pauschalen Vorwurf des KI-Einsatzes. Sie beantragt
 jedoch gemäß § 411 Abs. 3 ZPO die mündliche Anhörung des Sachverständigen und
@@ -1583,7 +1583,7 @@ insbesondere Aufklärung über folgende Punkte:
 
 (a) Welche Erstellungsschritte hat der Sachverständige persönlich durchgeführt?
 (b) Wurden technische Hilfsmittel oder Hilfskräfte eingesetzt? Wenn ja: in
-    welchem Umfang und mit welcher Kontrolle?
+ welchem Umfang und mit welcher Kontrolle?
 (c) Wie erklärt sich der Stilwechsel zwischen Kapitel [A] und Kapitel [B]?
 
 [Kanzlei, Datum, Unterschrift]
@@ -1601,18 +1601,18 @@ vom [Datum] gemäß § 8a Abs. 2 S. 1 Nr. 1 JVEG auf null festzusetzen.
 Begründung:
 
 1. Der Sachverständige hat in der Anhörung vom [Datum] eingeräumt, dass die
-   Abschnitte [X] des Gutachtens nicht von ihm persönlich, sondern mit Hilfe eines
-   generativen Sprachmodells erstellt wurden, ohne dass er eine eigenständige
-   inhaltliche Prüfung der Ausgaben vorgenommen hat.
+ Abschnitte [X] des Gutachtens nicht von ihm persönlich, sondern mit Hilfe eines
+ generativen Sprachmodells erstellt wurden, ohne dass er eine eigenständige
+ inhaltliche Prüfung der Ausgaben vorgenommen hat.
 
 2. Damit liegt eine Verletzung der höchstpersönlichen Erstellungspflicht nach
-   § 407a Abs. 1 ZPO vor. Diese Pflicht ist nicht disponibel und gilt für alle
-   wesentlichen Teile des Gutachtens.
+ § 407a Abs. 1 ZPO vor. Diese Pflicht ist nicht disponibel und gilt für alle
+ wesentlichen Teile des Gutachtens.
 
 3. Gemäß § 8a Abs. 2 S. 1 Nr. 1 JVEG ist die Vergütung auf null festzusetzen,
-   wenn der Sachverständige grob gegen die Pflicht aus § 407a Abs. 1 ZPO verstoßen
-   hat. Die von der höchstrichterlichen Rechtsprechung geforderten Voraussetzungen
-   sind im vorliegenden Fall erfüllt.
+ wenn der Sachverständige grob gegen die Pflicht aus § 407a Abs. 1 ZPO verstoßen
+ hat. Die von der höchstrichterlichen Rechtsprechung geforderten Voraussetzungen
+ sind im vorliegenden Fall erfüllt.
 
 Die [Partei] beantragt ferner die Einholung eines neuen Gutachtens gemäß § 412 ZPO.
 
@@ -1625,19 +1625,19 @@ Die [Partei] beantragt ferner die Einholung eines neuen Gutachtens gemäß § 41
 DRAFT — Procedural Order No. [X] — AI Disclosure
 
 1. AI Disclosure by Experts. Each party-appointed expert and each tribunal-appointed
-   expert shall, in a cover statement attached to any written report, disclose:
-   (a) whether generative AI tools were used in drafting or analysing any portion
-       of the report;
-   (b) which tools were used and for which tasks;
-   (c) the expert's confirmation that all substantive conclusions in the report
-       reflect the expert's own independent professional judgment.
+ expert shall, in a cover statement attached to any written report, disclose:
+ (a) whether generative AI tools were used in drafting or analysing any portion
+ of the report;
+ (b) which tools were used and for which tasks;
+ (c) the expert's confirmation that all substantive conclusions in the report
+ reflect the expert's own independent professional judgment.
 
 2. Consequences. Non-disclosure may be taken into account by the Tribunal in
-   assessing the weight to be accorded to the expert's report.
+ assessing the weight to be accorded to the expert's report.
 
 3. Counsel. Nothing in this Order requires counsel to disclose use of AI tools in
-   drafting submissions, provided counsel takes full professional responsibility
-   for all submissions filed.
+ drafting submissions, provided counsel takes full professional responsibility
+ for all submissions filed.
 
 [Schiedsgericht, Verfahren, Datum]
 ```

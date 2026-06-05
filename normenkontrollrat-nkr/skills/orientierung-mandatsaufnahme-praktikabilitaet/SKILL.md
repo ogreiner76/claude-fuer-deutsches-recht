@@ -1,19 +1,19 @@
 ---
 name: orientierung-mandatsaufnahme-praktikabilitaet
-description: "Nutze dies, wenn Nkr Orientierung Und Mandatsaufnahme, Nkr Praktikabilitaet Vollzug Test im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Orientierung Und Mandatsaufnahme, Nkr Praktikabilitaet Vollzug Test prüfen.; Erstelle eine Arbeitsfassung zu Nkr Orientierung Und Mandatsaufnahme, Nkr Praktikabilitaet Vollzug Test.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Orientierung Und Mandatsaufnahme, Nkr Praktikabilitaet Vollzug Test: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Orientierung Und Mandatsaufnahme, Nkr Praktikabilitaet Vollzug Test
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Orientierung Und Mandatsaufnahme, Nkr Praktikabilitaet Vollzug Test** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `nkr-orientierung-und-mandatsaufnahme` | Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Spezial-Skills im Plugin. |
+| `nkr-orientierung-und-mandatsaufnahme` | Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Fachmodulen. |
 | `nkr-praktikabilitaet-vollzug-test` | Praktikabilitaetstest fuer den Vollzug. Prueft ob die Regelung von Behoerden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik und Standardfragen an das federfuehrende Ressort. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Nkr Orientierung Und Mandatsaufnahme, Nkr Praktikabilitaet Vollzug Test**
 
 ## 1. `nkr-orientierung-und-mandatsaufnahme`
 
-**Fokus:** Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Spezial-Skills im Plugin.
+**Fokus:** Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Fachmodulen.
 
 # NKR-Orientierung und Mandatsaufnahme
 
@@ -57,16 +57,16 @@ Sind die drei Angaben vorhanden, sofort die Pruefskizze (siehe Ausgabeformat).
 1. **Eingang triagieren**: Welcher Vorhabenstyp? Was ist die NKR-Befassungspflicht (§ 4 NKRG)?
 2. **Federfuehrendes Ressort identifizieren**: BMJ / BMI / BMF / BMWK etc.
 3. **Pruefumfang bestimmen** (Skill `nkr-pruefumfang-was-prueft-der-nkr-nicht`):
-   - Pruefen: Methodik und Vollstaendigkeit der Erfuellungsaufwand-Darstellung, Nachvollziehbarkeit, Praktikabilitaet, Digitaltauglichkeit
-   - **Nicht** pruefen: politische Zweckmaessigkeit oder Zielwahl
+ - Pruefen: Methodik und Vollstaendigkeit der Erfuellungsaufwand-Darstellung, Nachvollziehbarkeit, Praktikabilitaet, Digitaltauglichkeit
+ - **Nicht** pruefen: politische Zweckmaessigkeit oder Zielwahl
 4. **Phase im Verfahrensgang** (Skill `nkr-verfahrensgang-referentenentwurf-bis-bundestag`):
-   - Referentenentwurf vor Ressortabstimmung / vor Kabinett / Formulierungshilfe / parlamentarische Aenderung
+ - Referentenentwurf vor Ressortabstimmung / vor Kabinett / Formulierungshilfe / parlamentarische Aenderung
 5. **Frist klaeren**: Standardfrist nach NKRG / GGO; bei Eilbeduerftigkeit gekuerzte Frist
 6. **Cluster waehlen**:
-   - Erfuellungsaufwand-Berechnung -> Cluster B
-   - Pruefraster anwenden -> Cluster C
-   - Stellungnahme entwerfen -> Cluster D
-   - Spezialthema (Digital, EU, KMU) -> Cluster E
+ - Erfuellungsaufwand-Berechnung -> Cluster B
+ - Pruefraster anwenden -> Cluster C
+ - Stellungnahme entwerfen -> Cluster D
+ - Spezialthema (Digital, EU, KMU) -> Cluster E
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 

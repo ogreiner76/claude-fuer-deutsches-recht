@@ -1,6 +1,6 @@
 ---
 name: norm-live-check-gesetze-im-internet
-description: "Einstiegs- und Workflow-Skill für Norm Live Check Gesetze Im Internet: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Arbeitsmodul für Norm Live Check Gesetze Im Internet: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Norm Live Check Gesetze Im Internet

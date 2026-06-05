@@ -1,13 +1,13 @@
 ---
 name: anonymisierung-pseudonymisierung
-description: "Nutze dies, wenn Anonymisierung Pseudonymisierung, Automatisierte Entscheidungen Art 22 Dsgvo, Berufsrecht Bausteine im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Anonymisierung Pseudonymisierung, Automatisierte Entscheidungen Art 22 Dsgvo, Berufsrecht Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Anonymisierung Pseudonymisierung, Automatisierte Entscheidungen Art 22 Dsgvo, Berufsrecht Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anonymisierung Pseudonymisierung, Automatisierte Entscheidungen Art 22 Dsgvo, Berufsrecht Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anonymisierung Pseudonymisierung, Automatisierte Entscheidungen Art 22 Dsgvo, Berufsrecht Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anonymisierung Pseudonymisierung, Automatisierte Entscheidungen Art 22 Dsgvo, Berufsrecht Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -202,7 +202,7 @@ Das anwaltliche Berufsrecht setzt dem Einsatz von KI-Systemen in Kanzleien spezi
 ## Vorgehen
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Grundsatz der Eigenverantwortung verankern**: Kein KI-Output darf ungeprüft übernommen werden; § 43 BRAO verlangt anwaltliche Endkontrolle.
 2. **Verschwiegenheitspflicht operationalisieren**: Für jeden KI-Dienstleister einen § 43e-BRAO-Vertrag abschließen (vgl. Musterklauseln im Plugin `musterklauseln-it-vertrag`).

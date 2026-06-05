@@ -1,6 +1,6 @@
 ---
 name: output-vorstandsvorlage-behoerdenbrief-klage
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Vorstandsvorlage Behördenbrief Klage."
+description: "Nutze dies bei Output Vorstandsvorlage Behördenbrief Klage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output Vorstandsvorlage Behördenbrief Klage

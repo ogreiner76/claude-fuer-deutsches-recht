@@ -1,13 +1,13 @@
 ---
 name: verteidiger-beweislast-verkehrsowi
-description: "Nutze dies, wenn Spezial Verteidiger Beweislast Und Darlegungslast, Verkehrsowi Aktenanlage, Verkehrsowi Akteneinsicht Messakte im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verteidiger Beweislast Und Darlegungslast, Verkehrsowi Aktenanlage, Verkehrsowi Akteneinsicht Messakte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verteidiger Beweislast Und Darlegungslast, Verkehrsowi Aktenanlage, Verkehrsowi Akteneinsicht Messakte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verteidiger Beweislast Und Darlegungslast, Verkehrsowi Aktenanlage, Verkehrsowi Akteneinsicht Messakte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verteidiger Beweislast Und Darlegungslast, Verkehrsowi Aktenanlage, Verkehrsowi Akteneinsicht Messakte
+# Verteidiger Beweislast Und Darlegungslast, Verkehrsowi Aktenanlage, Verkehrsowi Akteneinsicht Messakte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verteidiger Beweislast Und Darlegungslast, Verkehrsowi Aktenanlage, Verkehrsowi Akteneinsicht Messakte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,11 +15,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spezial-verteidiger-beweislast-und-darlegungslast` | Verteidiger: Beweislast, Darlegungslast und Substantiierung im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `verkehrsowi-aktenanlage` | Akte im Verkehrs-OWi-Mandat anlegen und strukturieren: Neues Mandat Bußgeldbescheid oder Fahrverbot-Drohung. Normen: § 46 OWiG i.V.m. StPO, § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67 OWiG (Einspruch). Prüfraster: Bußgeldbescheid, Messakte, Korrespondenz, Fristen, HV-Termin, Beweismittelverzeichnis (Messgerät, Eichschein). Output Aktenstruktur, Fristen-Übersicht-Tabelle, Beweismittelverzeichnis. Abgrenzung: Akteneinsicht Messakte siehe verkehrsowi-akteneinsicht-messakte; Einspruchsfrist siehe verkehrsowi-fristen-einspruch. |
-| `verkehrsowi-akteneinsicht-messakte` | Workflow-Skill zu verkehrsowi akteneinsicht messakte. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `verkehrsowi-akteneinsicht-messakte` | Arbeitsmodul zu verkehrsowi akteneinsicht messakte: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Spezial Verteidiger Beweislast Und Darlegungslast, Verkehrsowi Aktenanlage, Verkehrsowi Akteneinsicht Messakte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verteidiger Beweislast Und Darlegungslast, Verkehrsowi Aktenanlage, Verkehrsowi Akteneinsicht Messakte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Verteidiger Beweislast Und Darlegungslast, Verkehrsowi Aktenanlag
 # Verteidiger: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Verteidiger: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Verteidiger: Beweislast, Darlegungslast und Substantiierung / spezial verteidiger beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verteidiger: Beweislast, Darlegungslast und Substantiierung / verteidiger beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -90,46 +90,46 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ```
 01_MANDANT
-   - Vollmacht Original
-   - Personalien, Kontakt
-   - Mandantenziel schriftlich
+ - Vollmacht Original
+ - Personalien, Kontakt
+ - Mandantenziel schriftlich
 
 02_BUSSGELDBESCHEID
-   - Bussgeldbescheid Original/Kopie
-   - Zustellungsurkunde
-   - § 66 OWiG-Pruefungsnotiz
+ - Bussgeldbescheid Original/Kopie
+ - Zustellungsurkunde
+ - § 66 OWiG-Pruefungsnotiz
 
 03_FRISTEN
-   - Einspruchsfrist: Zustellungsdatum + 14 Tage
-   - Rechtsbeschwerde-Frist (wenn noetig): Urteil + 7 Tage
-   - Verjaehrungs-Check
+ - Einspruchsfrist: Zustellungsdatum + 14 Tage
+ - Rechtsbeschwerde-Frist (wenn noetig): Urteil + 7 Tage
+ - Verjaehrungs-Check
 
 04_SCHRIFTSAETZE_AUSGEHEND
-   - Einspruch (mit Eingangsbestaetigung)
-   - Akteneinsichtsantrag (mit Messakte-Aufzaehlung)
+ - Einspruch (mit Eingangsbestaetigung)
+ - Akteneinsichtsantrag (mit Messakte-Aufzaehlung)
 
 05_MESSAKTE
-   - Eichschein (Gueltigkeit geprueft: Datum markiert)
-   - Messprotokoll
-   - Schulungsnachweis
-   - Rohmessdaten (falls vorhanden)
-   - Messfoto hochaufloesend
+ - Eichschein (Gueltigkeit geprueft: Datum markiert)
+ - Messprotokoll
+ - Schulungsnachweis
+ - Rohmessdaten (falls vorhanden)
+ - Messfoto hochaufloesend
 
 06_BEWEISMITTELVERZEICHNIS
-   (s. Vorlage unten)
+ (s. Vorlage unten)
 
 07_KORRESPONDENZ
-   - Bussgeldbehoerde, Amtsgericht, StA
-   - Chronologisch
+ - Bussgeldbehoerde, Amtsgericht, StA
+ - Chronologisch
 
 08_HAUPTVERHANDLUNG
-   - Einlassung oder Schweigen-Notiz
-   - Beweisantraege
-   - Plaedoyer
+ - Einlassung oder Schweigen-Notiz
+ - Beweisantraege
+ - Plaedoyer
 
 09_URTEIL_RECHTSBEHELFE
-   - Urteil Original
-   - Rechtsbeschwerde
+ - Urteil Original
+ - Rechtsbeschwerde
 ```
 
 ## Fristen-Uebersicht OWi
@@ -171,7 +171,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `verkehrsowi-akteneinsicht-messakte`
 
-**Fokus:** Workflow-Skill zu verkehrsowi akteneinsicht messakte. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu verkehrsowi akteneinsicht messakte: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Akteneinsicht und Messakte im OWi-Verfahren
 

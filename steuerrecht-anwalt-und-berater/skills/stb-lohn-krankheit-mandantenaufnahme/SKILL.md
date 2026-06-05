@@ -1,13 +1,13 @@
 ---
 name: stb-lohn-krankheit-mandantenaufnahme
-description: "Nutze dies, wenn Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39B Estg, Stb Lohn Meldungen Sv Elstam Zugang, Stb Lohn Midi Job Uebergangsbereich 2000 Euro und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39B Estg, Stb Lohn Meldungen Sv Elstam Zugang, Stb Lohn Midi Job Uebergangsbereich 2000 Euro und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39B Estg, Stb Lohn Meldungen Sv Elstam Zugang, Stb Lohn Midi Job Uebergangsbereich 2000 Euro und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39b Estg, Stb Lohn Meldungen Sv Elstam Zugang: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39B Estg, Stb Lohn Meldungen Sv Elstam Zugang, Stb Lohn Midi Job Uebergangsbereich 2000 Euro und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39B Estg, Stb Lohn Meldungen Sv Elstam Zugang, Stb Lohn Midi Job Uebergangsbereich 2000 Euro und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

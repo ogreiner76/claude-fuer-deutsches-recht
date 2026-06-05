@@ -67,15 +67,15 @@ Erster, systematischer Pruefschritt nach dem Eingang einer neuen Sache — sei e
 ## 3) Aktenübersicht — Tabellen-Template
 
 ```
-| Nr. | Datum     | Stueck                          | Verfasser     | Bezugnahme | Bewertung |
+| Nr. | Datum | Stueck | Verfasser | Bezugnahme | Bewertung |
 | --- | --------- | ------------------------------- | ------------- | ---------- | --------- |
-| 1   | 01.03.2025| Klagschrift                     | RA Mueller    | -          | schluessig vorgetragen |
-| 2   | 01.03.2025| Anlagen K1-K5                   | RA Mueller    | KS S. 3-7  | Lesbar, vollstaendig |
-| 3   | 12.03.2025| EB Zustellung Klagschrift       | -             | -          | Zustellung 10.03.2025 |
-| 4   | 31.03.2025| Klageerwiderung mit Widerklage  | RA Schmidt    | KS S.2     | Substanziiert; Widerklage zulaessig |
-| 5   | 14.04.2025| Replik                          | RA Mueller    | KE S.4-6   | neue Tatsache S.3 -> Paragraf 296 ZPO pruefen |
-| 6   | 15.05.2025| Hinweisbeschluss Paragraf 139   | Gericht       | -          | Hinweis zur Substanziierung der Hoehe |
-| 7   | 14.06.2025| Schriftsatznachreichung Klaeger | RA Mueller    | HinwB      | Hinweise befolgt; Frist gewahrt |
+| 1 | 01.03.2025| Klagschrift | RA Mueller | - | schluessig vorgetragen |
+| 2 | 01.03.2025| Anlagen K1-K5 | RA Mueller | KS S. 3-7 | Lesbar, vollstaendig |
+| 3 | 12.03.2025| EB Zustellung Klagschrift | - | - | Zustellung 10.03.2025 |
+| 4 | 31.03.2025| Klageerwiderung mit Widerklage | RA Schmidt | KS S.2 | Substanziiert; Widerklage zulaessig |
+| 5 | 14.04.2025| Replik | RA Mueller | KE S.4-6 | neue Tatsache S.3 -> Paragraf 296 ZPO pruefen |
+| 6 | 15.05.2025| Hinweisbeschluss Paragraf 139 | Gericht | - | Hinweis zur Substanziierung der Hoehe |
+| 7 | 14.06.2025| Schriftsatznachreichung Klaeger | RA Mueller | HinwB | Hinweise befolgt; Frist gewahrt |
 ```
 
 ## 4) Prüfliste für gerichtliche Pflichten

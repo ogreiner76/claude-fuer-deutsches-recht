@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Adaptiver Einstieg, Schnelltriage und Workflow-Routing im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Spezialskills."
+description: "Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Fachmodule."
 ---
 
 # DFG-Förderantrag — Allgemein
 
 ## Worum geht es
 
-Dieser Skill ist die Eingangstür für jedes DFG-Mandat. Er klärt in wenigen Schritten, welche Programmschiene tatsächlich passt, welche Spezialskills nacheinander aufzurufen sind und wo der Antrag formal scheitern könnte, bevor inhaltlich gearbeitet wird. Ziel ist nicht Lehrbuchtreue, sondern ein arbeitsfähiger Antragspfad.
+Dieser Skill ist die Eingangstür für jedes DFG-Mandat. Er klärt in wenigen Schritten, welche Programmschiene tatsächlich passt, welche Fachmodule nacheinander aufzurufen sind und wo der Antrag formal scheitern könnte, bevor inhaltlich gearbeitet wird. Ziel ist nicht Lehrbuchtreue, sondern ein arbeitsfähiger Antragspfad.
 
 Faustregel der alten Hasen: **Ein DFG-Antrag steht und fällt mit drei Dingen — der einen prüfbaren Hypothese, dem auf den Antrag zugeschnittenen Stand der Forschung und den eigenen Vorarbeiten in einschlägigen Journalen.** Wenn auch nur eines davon wackelt, hilft kein noch so schöner Finanzplan.
 
@@ -148,7 +148,7 @@ Wenn nur eine Idee vorliegt, trotzdem arbeiten. Nicht sagen "Bitte reichen Sie e
 | Skill | Warum jetzt? | Output |
 | --- | --- | --- |
 | `dfg-foerderstrategie-schnell-oder-gross` | Programmroute unklar | Routing-Empfehlung |
-| `dfg-sachbeihilfe-elan-formalia` | Standardroute Sachbeihilfe | elan-Workflow |
+| `dfg-sachbeihilfe-elan-formalia` | Standardroute Sachbeihilfe | elan-|
 | `dfg-bis-200k-begutachtung-light` | Schlanker Antrag, schneller Bescheid | Kompaktantrag |
 | `dfg-koselleck-500k-125m` | Etabliert, Risiko-Vision | Koselleck-Skizze |
 | `dfg-projektbeschreibung-arbeitsprogramm` | Textarbeit Projektbeschreibung | Vollgliederung |

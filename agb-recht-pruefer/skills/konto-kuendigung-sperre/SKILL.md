@@ -1,6 +1,6 @@
 ---
 name: konto-kuendigung-sperre
-description: "Klausel-Spezialskill für Konto Kündigung Sperre: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Konto Kündigung Sperre: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Konto Kündigung Sperre

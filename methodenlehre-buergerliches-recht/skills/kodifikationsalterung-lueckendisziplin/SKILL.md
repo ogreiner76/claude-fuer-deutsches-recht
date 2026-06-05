@@ -1,13 +1,13 @@
 ---
 name: kodifikationsalterung-lueckendisziplin
-description: "Nutze dies, wenn Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung prüfen.; Erstelle eine Arbeitsfassung zu Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies, Legalitaetsqualitaet Der Auslegung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -465,12 +465,12 @@ Nutze diesen Skill, wenn eine Auslegung dogmatisch elegant wirkt, aber für Bür
 1. **Normkern bestimmen:** Welche Vorschrift, Klausel oder Rechtsfigur soll ausgelegt werden?
 2. **Auslegungspfad offenlegen:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion oder offene Fortbildung.
 3. **Legalitätsqualität prüfen:**
-   - Ist das Ergebnis aus dem veröffentlichten Normmaterial erkennbar?
-   - Gilt der Maßstab allgemein oder nur für das gewünschte Ergebnis?
-   - Wirkt die Deutung rückwirkend überraschend?
-   - Entstehen Widersprüche zu Nachbarnormen oder gefestigter Praxis?
-   - Kann der Adressat die Rechtsfolge praktisch beachten?
-   - Bleibt die Anwendung durch Behörden und Gerichte kongruent?
+ - Ist das Ergebnis aus dem veröffentlichten Normmaterial erkennbar?
+ - Gilt der Maßstab allgemein oder nur für das gewünschte Ergebnis?
+ - Wirkt die Deutung rückwirkend überraschend?
+ - Entstehen Widersprüche zu Nachbarnormen oder gefestigter Praxis?
+ - Kann der Adressat die Rechtsfolge praktisch beachten?
+ - Bleibt die Anwendung durch Behörden und Gerichte kongruent?
 4. **Einzelfallgerechtigkeit kontrollieren:** § 242 BGB, § 138 BGB, ergänzende Vertragsauslegung oder Schutzpflichten dürfen nicht zum Ersatz für fehlende Normarbeit werden.
 5. **Reparatur wählen:** enge Fallgruppenbildung, Übergangsargument, Vertrauensschutz, Beweislastkorrektur, offengelegte Rechtsfortbildung oder Hinweis an den Gesetzgeber.
 

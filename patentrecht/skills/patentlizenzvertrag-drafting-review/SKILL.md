@@ -1,13 +1,13 @@
 ---
 name: patentlizenzvertrag-drafting-review
-description: "Nutze dies, wenn Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Spezial Anspruchsentwurf Dokumentenmatrix Und Lueckenliste im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Spezial Anspruchsentwurf Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Spezial Anspruchsentwurf Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Anspruchsentwurf Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Spezial Anspruchsentwurf Dokumentenmatrix Und Lueckenliste
+# Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Anspruchsentwurf Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Anspruchsentwurf Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Spezial Anspruchsentwurf Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Anspruchsentwurf Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -62,14 +62,14 @@ Begriffe wie "best efforts", "reasonable efforts", "affiliate", "change of contr
 - **Rechtswahl / Gerichtsstand:** Rom-I-VO (EU 593/2008) für Vertragspflichten; bei Lizenzgeber-Sitz DE typischerweise deutsches Recht und Gerichtsstand DE; ICC-/DIS-Schiedsklausel als Alternative für grenzüberschreitende Lizenzen.
 - **Kartellrechtskonformität:** Vertikal-GVO (EU 2022/720) und TT-GVO (EU 316/2014, Auflauf 30.04.2026, danach Folgeregelung prüfen!) für vertikale F&E- und Lizenzvereinbarungen.
 - **Kernklauseln zwingend formulieren:**
-  - Lizenzgegenstand (Patente / Patentfamilie konkret listen mit Az.).
-  - Lizenzart (ausschließlich/nicht ausschließlich/Sublizenz).
-  - Räumlicher Umfang (Territory).
-  - Sachlicher Umfang (Field of Use).
-  - Zeitliche Dauer (idR an Patentablauf gekoppelt).
-  - Lizenzgebühr (running royalty Prozentsatz, Pauschallizenz, Mindestlizenz).
-  - Auditrecht, Berichtspflicht (§ 259 BGB Rechenschaftspflicht).
-  - Verbesserungen / Improvements (Eigentum, Cross-License?).
+ - Lizenzgegenstand (Patente / Patentfamilie konkret listen mit Az.).
+ - Lizenzart (ausschließlich/nicht ausschließlich/Sublizenz).
+ - Räumlicher Umfang (Territory).
+ - Sachlicher Umfang (Field of Use).
+ - Zeitliche Dauer (idR an Patentablauf gekoppelt).
+ - Lizenzgebühr (running royalty Prozentsatz, Pauschallizenz, Mindestlizenz).
+ - Auditrecht, Berichtspflicht (§ 259 BGB Rechenschaftspflicht).
+ - Verbesserungen / Improvements (Eigentum, Cross-License?).
 - **Mängelhaftung Patente:** § 311a BGB iVm § 437 BGB analog; § 312i BGB nicht anwendbar (kein Verbrauchergeschäft typischer Weise).
 - **Nichtigkeit oder Beschränkung:** Anpassungsklausel (Pacta sunt servanda + Wegfall der Geschäftsgrundlage § 313 BGB).
 - **Steuerklauseln:** Withholding Tax bei grenzüberschreitenden Lizenzen; § 50a EStG bei Vergütung an ausländische Lizenzgeber (Steuerabzug 15 %); DBA-Reduktion möglich.
@@ -149,7 +149,7 @@ Begriffe wie "best efforts", "reasonable efforts", "affiliate", "change of contr
 # Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung / spezial anspruchsentwurf dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung / anspruchsentwurf dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FTO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

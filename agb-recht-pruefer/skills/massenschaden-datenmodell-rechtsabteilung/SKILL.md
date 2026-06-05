@@ -1,23 +1,23 @@
 ---
 name: massenschaden-datenmodell-rechtsabteilung
-description: "Nutze dies, wenn Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Daten Und Ki Schaeden, Schadenspauschale 309, Abmahnung Reagieren, Abnahme Testing im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Daten Und Ki Schaeden, Schadenspauschale 309, Abmahnung Reagieren, Abnahme Testing prüfen.; Erstelle eine Arbeitsfassung zu Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Daten Und Ki Schaeden, Schadenspauschale 309, Abmahnung Reagieren, Abnahme Testing.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Daten Und Ki Schaeden, Schadenspauschale 309, Abmahnung Reagieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Daten Und Ki Schaeden, Schadenspauschale 309, Abmahnung Reagieren, Abnahme Testing
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Massenschaden Datenmodell, Rechtsabteilung Haftungsdeckel Für Daten Und Ki Schaeden, Schadenspauschale 309, Abmahnung Reagieren, Abnahme Testing** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `massenschaden-datenmodell` | Output- und Streit-Skill für Massenschaden Datenmodell: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden` | Rechtsabteilungs-Spezialskill für Haftungsdeckel für Daten- und KI-Schäden: Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden` | Rechtsabteilungs-Fachmodul für Haftungsdeckel für Daten- und KI-Schäden: Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `schadenspauschale-309` | Norm- und Dogmatik-Skill für Schadenspauschale 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `abmahnung-reagieren` | Output- und Streit-Skill für Abmahnung Reagieren: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `abnahme-testing` | Klausel-Spezialskill für Abnahme Testing: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `abnahme-testing` | Klausel-Fachmodul für Abnahme Testing: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Haftungsdeckel für Daten- und KI-Schäden: Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Haftungsdeckel für Daten- und KI-Schäden: Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden
 
@@ -145,10 +145,10 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Schadenspauschale (§ 309 Nr. 5 BGB):**
-   - Beide Tatbestandsmerkmale müssen erfüllt sein: (a) Pauschale übersteigt nicht den nach gewöhnlichem Lauf der Dinge zu erwartenden Schaden (lit. a), und (b) dem Kunden wird ausdrücklich der Nachweis gestattet, dass ein Schaden überhaupt nicht oder wesentlich niedriger entstanden ist (lit. b). Fehlt der Nachweisvorbehalt, ist die Klausel allein deshalb unwirksam.
-   - **B2B:** § 309 Nr. 5 BGB wirkt über § 307 Abs. 2 Nr. 1 BGB; die Wertung wird im unternehmerischen Verkehr regelmäßig herangezogen (BGH, ständige Rechtsprechung). Der Nachweisvorbehalt ist auch im B2B nahezu zwingend.
-   - **Praktiker-Tipp:** Häufig in Mahnpauschalen ("EUR 5 pro Mahnung") und Rücklastschriftgebühren (B2C: nur tatsächliche Bankgebühr, nicht Bearbeitungsanteil) anzutreffen. Pauschalen über EUR 2,50 für Mahnungen im Verbrauchergeschäft sind regelmäßig zu hoch.
-   - **Abgrenzung:** Schadenspauschale (§ 309 Nr. 5 BGB) gleicht Schaden aus; Vertragsstrafe (§ 309 Nr. 6 BGB) sanktioniert. Doppelte Pauschalierung beider Funktionen in einer Klausel ist regelmäßig unwirksam.
+ - Beide Tatbestandsmerkmale müssen erfüllt sein: (a) Pauschale übersteigt nicht den nach gewöhnlichem Lauf der Dinge zu erwartenden Schaden (lit. a), und (b) dem Kunden wird ausdrücklich der Nachweis gestattet, dass ein Schaden überhaupt nicht oder wesentlich niedriger entstanden ist (lit. b). Fehlt der Nachweisvorbehalt, ist die Klausel allein deshalb unwirksam.
+ - **B2B:** § 309 Nr. 5 BGB wirkt über § 307 Abs. 2 Nr. 1 BGB; die Wertung wird im unternehmerischen Verkehr regelmäßig herangezogen (BGH, ständige Rechtsprechung). Der Nachweisvorbehalt ist auch im B2B nahezu zwingend.
+ - **Praktiker-Tipp:** Häufig in Mahnpauschalen ("EUR 5 pro Mahnung") und Rücklastschriftgebühren (B2C: nur tatsächliche Bankgebühr, nicht Bearbeitungsanteil) anzutreffen. Pauschalen über EUR 2,50 für Mahnungen im Verbrauchergeschäft sind regelmäßig zu hoch.
+ - **Abgrenzung:** Schadenspauschale (§ 309 Nr. 5 BGB) gleicht Schaden aus; Vertragsstrafe (§ 309 Nr. 6 BGB) sanktioniert. Doppelte Pauschalierung beider Funktionen in einer Klausel ist regelmäßig unwirksam.
 6. **Rechtsfolge:** Vollständige Unwirksamkeit (§ 306 Abs. 1 BGB); keine geltungserhaltende Reduktion. Ersatz: konkreter Schadensnachweis nach §§ 280, 249 BGB.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -273,7 +273,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `abnahme-testing`
 
-**Fokus:** Klausel-Spezialskill für Abnahme Testing: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Abnahme Testing: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Abnahme Testing
 

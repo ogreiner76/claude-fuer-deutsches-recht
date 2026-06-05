@@ -1,13 +1,13 @@
 ---
 name: unterlagenherausgabe-zurueckbehaltung
-description: "Nutze dies, wenn Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Kammera, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Organis, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Rechtsp, Steuerberater Vermoegensverfall Steuerberater Kammerantwort Und, Steuerberater Vermoegensverfall Steuerberater Organisationspfli im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Kammera, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Organis, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Rechtsp, Steuerberater Vermoegensverfall Steuerberater Kammerantwort Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Kammera, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Organis, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Rechtsp, Steuerberater Vermoegensverfall Steuerberater Kammerantwort Und, Steuerberater Vermoegensverfall Steuerberater Organisationspfli
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Kammera, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Organis, Steuerberater Unterlagenherausgabe Und Zurueckbehaltung Rechtsp, Steuerberater Vermoegensverfall Steuerberater Kammerantwort Und, Steuerberater Vermoegensverfall Steuerberater Organisationspfli** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

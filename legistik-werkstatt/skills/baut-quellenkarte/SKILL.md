@@ -1,6 +1,6 @@
 ---
 name: baut-quellenkarte
-description: "Nutze dies, wenn Baut Quellenkarte im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Baut Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Baut Quellenkarte

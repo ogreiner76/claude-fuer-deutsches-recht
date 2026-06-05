@@ -1,13 +1,13 @@
 ---
 name: space-weltraumrecht-kommunen-bergung-fremder
-description: "Nutze dies, wenn Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit im Plugin Weltraumrecht konkret bearbeitet werden soll. Auslöser: Bitte Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit prüfen.; Erstelle eine Arbeitsfassung zu Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Space 068 Weltraumrecht Für Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

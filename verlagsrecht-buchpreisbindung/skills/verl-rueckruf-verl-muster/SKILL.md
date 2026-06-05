@@ -1,13 +1,13 @@
 ---
 name: verl-rueckruf-verl-muster
-description: "Nutze dies, wenn Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation prüfen.; Erstelle eine Arbeitsfassung zu Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -89,10 +89,10 @@ Ein weiterhin lieferbares E-Book verhindert grundsätzlich nicht den Rückruf de
 
 ```
 Formerfordernis: Schriftform empfohlen (str. str., keine gesetzliche Form vorgeschrieben)
-Adressat:        Verlagsleitung (Geschäftsführer/Vorstand)
-Inhalt:          Bezeichnung des Werkes, konkreter Verstoß (Vergriffenheit seit [Datum]),
-                 Nachfrist (§ 41 Abs. 3: angemessen, i.d.R. 6 Monate),
-                 Ankündigung des Rückrufs nach Fristablauf
+Adressat: Verlagsleitung (Geschäftsführer/Vorstand)
+Inhalt: Bezeichnung des Werkes, konkreter Verstoß (Vergriffenheit seit [Datum]),
+ Nachfrist (§ 41 Abs. 3: angemessen, i.d.R. 6 Monate),
+ Ankündigung des Rückrufs nach Fristablauf
 ```
 
 ## VerlG § 17: Spezifisches Verlagsrecht
@@ -267,14 +267,14 @@ Schritt 5: Sicherungskopie der Preismeldung in Verlagsakte
 #### Mängelexemplar-Dokumentation (§ 6 Abs. 1 Nr. 2 BuchPrG)
 
 ```
-Datum:              [TT.MM.JJJJ]
-ISBN:               [978-3-XXXXX-XXX-X]
-Exemplar-Anzahl:    [Anzahl]
-Art des Mangels:    □ Druckfehler (Seite ___) □ Beschädigung □ Vergilbung □ Sonstiges: ___
-Mängelpreis:        EUR [X,XX] (entspricht [XX] % Nachlass auf Ladenpreis)
-Gültig ab:          [Datum]
-Verantwortlicher:   [Name, Funktion]
-Unterschrift:       ___________________
+Datum: [TT.MM.JJJJ]
+ISBN: [978-3-XXXXX-XXX-X]
+Exemplar-Anzahl: [Anzahl]
+Art des Mangels: □ Druckfehler (Seite ___) □ Beschädigung □ Vergilbung □ Sonstiges: ___
+Mängelpreis: EUR [X,XX] (entspricht [XX] % Nachlass auf Ladenpreis)
+Gültig ab: [Datum]
+Verantwortlicher: [Name, Funktion]
+Unterschrift: ___________________
 ```
 
 ### Phase 3: Ausnahmen nach § 6 BuchPrG
@@ -297,21 +297,21 @@ Unterschrift:       ___________________
 ```
 BUCHPREISFREIGABE-DOKUMENT
 ==========================
-Datum der Aufhebung:    [TT.MM.JJJJ]
-ISBN-13:                [978-3-XXXXX-XXX-X]
-Titel:                  [Werktitel]
-Bisheriger Ladenpreis:  EUR [X,XX] (brutto, 7 % MwSt.)
-Grund der Aufhebung:    □ Vergriffenheit (§ 17 VerlG / keine Lieferbarkeit mehr)
-                        □ Ablauf der geplanten Lieferbarkeit
-                        □ Verlagsauflösung/-verkauf
-                        □ Sonstiger Grund: ___________________________
-Lagerbestand bei Aufhebung:  [Anzahl] Exemplare
-Verbleib Restbestand:   □ Veräußerung ohne Preisbindung □ Einmakulierung □ Weitergabe an Restbuchhandlung
-VLB-Abmeldung:         □ Erfolgt am [Datum] □ Bestätigung Nr. [___]
+Datum der Aufhebung: [TT.MM.JJJJ]
+ISBN-13: [978-3-XXXXX-XXX-X]
+Titel: [Werktitel]
+Bisheriger Ladenpreis: EUR [X,XX] (brutto, 7 % MwSt.)
+Grund der Aufhebung: □ Vergriffenheit (§ 17 VerlG / keine Lieferbarkeit mehr)
+ □ Ablauf der geplanten Lieferbarkeit
+ □ Verlagsauflösung/-verkauf
+ □ Sonstiger Grund: ___________________________
+Lagerbestand bei Aufhebung: [Anzahl] Exemplare
+Verbleib Restbestand: □ Veräußerung ohne Preisbindung □ Einmakulierung □ Weitergabe an Restbuchhandlung
+VLB-Abmeldung: □ Erfolgt am [Datum] □ Bestätigung Nr. [___]
 Auslieferungs-Information: □ Informiert am [Datum] per [E-Mail/Schreiben]
-Buchhandels-Information:   □ Informiert am [Datum] per [E-Mail/Schreiben]
-Verantwortlicher:       [Name, Funktion]
-Unterschrift:           ___________________
+Buchhandels-Information: □ Informiert am [Datum] per [E-Mail/Schreiben]
+Verantwortlicher: [Name, Funktion]
+Unterschrift: ___________________
 ```
 
 #### Fristen und Pflichten bei Aufhebung
@@ -338,8 +338,8 @@ E-Books unterliegen nach deutschem Recht ebenfalls der **Buchpreisbindung** (BGH
 ### Plattform-Preisbindungs-Protokoll (E-Book)
 
 ```
-Plattform:        [Amazon KDP / Tolino / Apple Books / ...]
-ASIN/EAN:         [Kennung auf Plattform]
+Plattform: [Amazon KDP / Tolino / Apple Books / ...]
+ASIN/EAN: [Kennung auf Plattform]
 Festgesetzter Preis: EUR [X,XX] (inkl. 7 % MwSt.)
 Plattform-Rabatt: [XX] % (nach Plattformvertrag)
 Nettoerlös Verlag: EUR [X,XX]

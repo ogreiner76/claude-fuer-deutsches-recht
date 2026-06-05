@@ -1,13 +1,13 @@
 ---
 name: verl-bildrechte-verl-ki
-description: "Nutze dies, wenn Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag prüfen.; Erstelle eine Arbeitsfassung zu Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 018 Bildrechte Karten Tabellen Und Drittmaterial, Verl 019 Ki Generierte Inhalte Im Verlag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

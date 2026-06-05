@@ -1,13 +1,13 @@
 ---
 name: abmahnung-markenrecht-euipo-beschwerdekammer
-description: "Nutze dies, wenn Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio prüfen.; Erstelle eine Arbeitsfassung zu Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -58,31 +58,31 @@ Eine rechtssichere Abmahnung spart Gerichtskosten und schafft vollstreckbare Unt
 ## Prüfungsschritte
 
 1. **Vorprüfung:**
-   - Ist die klôtzzkètté-Marke eingetragen und in Kraft? (DPMA/EUIPO-Auszug)
-   - Liegt eine schützbare Verletzungshandlung vor? (§ 14 II Nr. 1/2/3 MarkenG)
-   - Wer ist der Verletzer (natürl./jurist. Person)? Identifizierung Impressum/Handelsregister
-   - Zuständiges Gericht im Streitfall (Markenrechtliche Spezialspruchkörper: LG Berlin, LG Hamburg, LG München I, LG Frankfurt, LG Köln, LG Düsseldorf)
+ - Ist die klôtzzkètté-Marke eingetragen und in Kraft? (DPMA/EUIPO-Auszug)
+ - Liegt eine schützbare Verletzungshandlung vor? (§ 14 II Nr. 1/2/3 MarkenG)
+ - Wer ist der Verletzer (natürl./jurist. Person)? Identifizierung Impressum/Handelsregister
+ - Zuständiges Gericht im Streitfall (Markenrechtliche Spezialspruchkörper: LG Berlin, LG Hamburg, LG München I, LG Frankfurt, LG Köln, LG Düsseldorf)
 
 2. **Abmahnschreiben formulieren:**
-   - Genaue Beschreibung der Verletzungshandlung (Datum, URL/Ort, Verletzungszeichen)
-   - Markenrechtliche Grundlage: § 14 II Nr. [1/2/3] MarkenG
-   - Forderungen: (a) Unterlassung + Unterlassungserklärung mit Vertragsstrafe, (b) Auskunft (§ 19 MarkenG), (c) Schadensersatz dem Grunde nach, (d) Kostenersatz
-   - Fristsetzung: in der Regel 7-14 Tage (bei offensichtlicher Verletzung kürzer möglich)
+ - Genaue Beschreibung der Verletzungshandlung (Datum, URL/Ort, Verletzungszeichen)
+ - Markenrechtliche Grundlage: § 14 II Nr. [1/2/3] MarkenG
+ - Forderungen: (a) Unterlassung + Unterlassungserklärung mit Vertragsstrafe, (b) Auskunft (§ 19 MarkenG), (c) Schadensersatz dem Grunde nach, (d) Kostenersatz
+ - Fristsetzung: in der Regel 7-14 Tage (bei offensichtlicher Verletzung kürzer möglich)
 
 3. **Unterlassungserklärung — Vertragsstrafe:**
-   - Hamburger Brauch: "…bei jeder schuldhaften Zuwiderhandlung eine von der klôtzzkètté SA nach billigem Ermessen festzusetzende, im Streitfall durch das zuständige Gericht zu überprüfende Vertragsstrafe zu zahlen."
-   - Alternative: Feste Vertragsstrafe EUR 10.000 je Verletzungshandlung (für Serienverletzer empfehlenswert)
-   - Klausel: Kein Abstrich (kein "mindestens EUR 1") — Erstunterwerfung muss Wiederholungsgefahr beseitigen
+ - Hamburger Brauch: "…bei jeder schuldhaften Zuwiderhandlung eine von der klôtzzkètté SA nach billigem Ermessen festzusetzende, im Streitfall durch das zuständige Gericht zu überprüfende Vertragsstrafe zu zahlen."
+ - Alternative: Feste Vertragsstrafe EUR 10.000 je Verletzungshandlung (für Serienverletzer empfehlenswert)
+ - Klausel: Kein Abstrich (kein "mindestens EUR 1") — Erstunterwerfung muss Wiederholungsgefahr beseitigen
 
 4. **Reaktionsmöglichkeiten des Verletzers:**
-   - Unterlassungserklärung abgegeben: Wiederholungsgefahr entfallen → kein Eilantrag mehr nötig
-   - Modifizierte Unterlassungserklärung: Prüfen ob ausreichend (meist nicht)
-   - Keine Reaktion: Eilantrag §§ 935/940 ZPO
+ - Unterlassungserklärung abgegeben: Wiederholungsgefahr entfallen → kein Eilantrag mehr nötig
+ - Modifizierte Unterlassungserklärung: Prüfen ob ausreichend (meist nicht)
+ - Keine Reaktion: Eilantrag §§ 935/940 ZPO
 
 5. **Kostenrechnung:**
-   - Anwaltsgebühren nach RVG, Gegenstandswert (GW) bei Markenabmahnung: EUR 50.000-250.000 (je nach Bedeutung und Verletzungsumfang)
-   - GW EUR 100.000: 1,3 Geschäftsgebühr = EUR 2.019,50 + USt = ca. EUR 2.403
-   - Kostenerstattungspflicht des Verletzers: § 14 VI MarkenG (Ersatz der erforderlichen Kosten)
+ - Anwaltsgebühren nach RVG, Gegenstandswert (GW) bei Markenabmahnung: EUR 50.000-250.000 (je nach Bedeutung und Verletzungsumfang)
+ - GW EUR 100.000: 1,3 Geschäftsgebühr = EUR 2.019,50 + USt = ca. EUR 2.403
+ - Kostenerstattungspflicht des Verletzers: § 14 VI MarkenG (Ersatz der erforderlichen Kosten)
 
 ## Falltypische Konstellationen
 
@@ -279,26 +279,26 @@ Das Portfolio von klôtzzkètté umfasst Wortmarken, Bild- und Wort-Bild-Marken,
 
 1. **Bestandsaufnahme:** Vollständige IP-Inventur aller bestehenden Zeichen, Verfallsdaten, Klassenbelegungen — vgl. Skill `fashion-luxus-kaltstart-interview`
 2. **Territoriale Schutzstrategie:**
-   - DE-Basismarke beim DPMA als Anker (schneller, günstiger, solide Basis)
-   - EU-Unionsmarke (UM) für einheitlichen EU-Schutz via EUIPO
-   - Internationale Registrierung via Madrid-Protokoll für Drittstaaten (CH, UK, US, JP, CN, AE)
+ - DE-Basismarke beim DPMA als Anker (schneller, günstiger, solide Basis)
+ - EU-Unionsmarke (UM) für einheitlichen EU-Schutz via EUIPO
+ - Internationale Registrierung via Madrid-Protokoll für Drittstaaten (CH, UK, US, JP, CN, AE)
 3. **Klassenstrategie für Mode-Luxus:**
-   - Klasse 3: Parfums, Kosmetika, Pflegeprodukte (klôtzzkètté Parfum "Abîme Dorée")
-   - Klasse 14: Schmuck, Uhren, Edelmetalle (klôtzzkètté Bijou)
-   - Klasse 18: Leder, Reiseartikel, Handtaschen (klôtzzkètté Sac)
-   - Klasse 25: Bekleidung, Schuhwerk, Kopfbedeckungen (Kernklasse)
-   - Klasse 35: Einzelhandelsdienstleistungen, Online-Shops (klôtzzkètté.com)
-   - Klasse 40: Schneiderarbeiten, Maßanfertigung (optional, Couture-Atelier)
-   - Klasse 41: Mode-Events, Schauen (Paris Fashion Week)
+ - Klasse 3: Parfums, Kosmetika, Pflegeprodukte (klôtzzkètté Parfum "Abîme Dorée")
+ - Klasse 14: Schmuck, Uhren, Edelmetalle (klôtzzkètté Bijou)
+ - Klasse 18: Leder, Reiseartikel, Handtaschen (klôtzzkètté Sac)
+ - Klasse 25: Bekleidung, Schuhwerk, Kopfbedeckungen (Kernklasse)
+ - Klasse 35: Einzelhandelsdienstleistungen, Online-Shops (klôtzzkètté.com)
+ - Klasse 40: Schneiderarbeiten, Maßanfertigung (optional, Couture-Atelier)
+ - Klasse 41: Mode-Events, Schauen (Paris Fashion Week)
 4. **Kollisionsrecherche:** DPMA-Markenrecherche, EUIPO eSearch plus, WIPO Global Brand Database — vor jeder Anmeldung obligatorisch
 5. **Prioritätskaskade:**
-   - Tag 0: DPMA-Anmeldung Wortmarke + Wort-Bild-Marke
-   - Tag +30: EUIPO-Anmeldung mit Prioritätsanspruch auf DE-Anmeldung (Art. 35 UMV)
-   - Tag +150: Madrid-Protokoll-Anmeldung mit Priorität aus DE- oder EU-Basismarke
+ - Tag 0: DPMA-Anmeldung Wortmarke + Wort-Bild-Marke
+ - Tag +30: EUIPO-Anmeldung mit Prioritätsanspruch auf DE-Anmeldung (Art. 35 UMV)
+ - Tag +150: Madrid-Protokoll-Anmeldung mit Priorität aus DE- oder EU-Basismarke
 6. **Kostenoptimierung:**
-   - Multi-Class-Bundles beim EUIPO (1. Klasse: EUR 850; 2. Klasse: EUR 50 Zuschlag; ab 3. Klasse: EUR 150 je Klasse)
-   - DPMA: EUR 300 für 3 Klassen, je weitere Klasse EUR 100
-   - Vermeidung unnötiger Klassen (Benutzungsnachweis nach 5 Jahren!)
+ - Multi-Class-Bundles beim EUIPO (1. Klasse: EUR 850; 2. Klasse: EUR 50 Zuschlag; ab 3. Klasse: EUR 150 je Klasse)
+ - DPMA: EUR 300 für 3 Klassen, je weitere Klasse EUR 100
+ - Vermeidung unnötiger Klassen (Benutzungsnachweis nach 5 Jahren!)
 
 ## Falltypische Konstellationen
 

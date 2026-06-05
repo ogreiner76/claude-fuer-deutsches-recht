@@ -18,7 +18,7 @@ die Folgenabschätzung nicht, sondern bestimmt, ob sie geboten ist.
 - **DSA ERFORDERLICH** — Datenschutzprüfung vor oder begleitend zum Einsatz.
 - **DSFA PFLICHT** — Art. 35 DSGVO zwingend; DSB-Einbindung erforderlich.
 - **STOPP** — Verarbeitung widerspricht Datenschutzrichtlinie oder entbehrt jeder
-  Rechtsgrundlage; Neugestaltung vor Fortführung zwingend.
+ Rechtsgrundlage; Neugestaltung vor Fortführung zwingend.
 
 ## Eingaben
 
@@ -34,41 +34,41 @@ die Folgenabschätzung nicht, sondern bestimmt, ob sie geboten ist.
 ### Kernvorschriften
 
 - **DSGVO:** Art. 5 (Grundsätze), Art. 6 (Rechtsgrundlagen), Art. 9 (besondere
-  Kategorien), Art. 13/14 (Informationspflichten), Art. 17 (Löschrecht), Art. 22
-  (automatisierte Entscheidungen), Art. 25 (Privacy by Design/Default), Art. 28 (AVV),
-  Art. 30 (Verarbeitungsverzeichnis), Art. 32 (TOM), Art. 35 (DSFA), Art. 44 ff.
-  (Drittlandtransfer).
+ Kategorien), Art. 13/14 (Informationspflichten), Art. 17 (Löschrecht), Art. 22
+ (automatisierte Entscheidungen), Art. 25 (Privacy by Design/Default), Art. 28 (AVV),
+ Art. 30 (Verarbeitungsverzeichnis), Art. 32 (TOM), Art. 35 (DSFA), Art. 44 ff.
+ (Drittlandtransfer).
 - **BDSG:** § 22 (Gesundheits-/Sozialdaten), § 26 (Beschäftigtendatenschutz), § 38
-  (betrieblicher DSB).
+ (betrieblicher DSB).
 - **TDDDG (ehem. TTDSG):** §§ 24 ff. — Einwilligung für Cookies/Endgerätezugriffe.
 - **Art. 35 Abs. 4 DSGVO** i. V. m. DSK-Positivliste — nationale Pflichttatbestände.
 
 ### Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  — Ungültigkeit EU-US-Privacy-Shield; Standardvertragsklauseln erfordern Transfer
-  Impact Assessment; maßgeblich für Art. 44 ff. DSGVO.
+ — Ungültigkeit EU-US-Privacy-Shield; Standardvertragsklauseln erfordern Transfer
+ Impact Assessment; maßgeblich für Art. 44 ff. DSGVO.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  — Automatisiertes Scoring als Entscheidung i. S. d. Art. 22 DSGVO, wenn Dritte
-  maßgeblich darauf abstellen; zentral für Triage von KI-/Scoring-Vorhaben.
+ — Automatisiertes Scoring als Entscheidung i. S. d. Art. 22 DSGVO, wenn Dritte
+ maßgeblich darauf abstellen; zentral für Triage von KI-/Scoring-Vorhaben.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  — Datenschutzrechtliche Haftung Art. 82 DSGVO; Beweislastverteilung.
+ — Datenschutzrechtliche Haftung Art. 82 DSGVO; Beweislastverteilung.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  *(Recht auf Vergessen I)* — Datenschutz als Teil des allgemeinen Persönlichkeitsrechts
-  (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG); Abwägung mit Kommunikationsfreiheiten.
+ *(Recht auf Vergessen I)* — Datenschutz als Teil des allgemeinen Persönlichkeitsrechts
+ (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG); Abwägung mit Kommunikationsfreiheiten.
 
 ### Kommentare
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-  — DSFA-Pflicht, Schwellenwerte, Verhältnis zu nationalen Listen.
+ — DSFA-Pflicht, Schwellenwerte, Verhältnis zu nationalen Listen.
 - `Simitis/Hornung/Spiecker (Hrsg.), DSGVO, 2. Aufl. 2022, Art. 6 Rn. 30 ff.`
-  — Rechtsgrundlagen; berechtigtes Interesse als Auffangtatbestand.
+ — Rechtsgrundlagen; berechtigtes Interesse als Auffangtatbestand.
 - `Gola (Hrsg.), DSGVO, 3. Aufl. 2022, Art. 22 Rn. 5 ff.`
-  — Automatisierte Entscheidungsfindung; Abgrenzung zu Profiling.
+ — Automatisierte Entscheidungsfindung; Abgrenzung zu Profiling.
 - `Paal/Pauly (Hrsg.), DS-GVO BDSG, 3. Aufl. 2021, Art. 25 DSGVO Rn. 7 ff.`
-  — Privacy by Design und Privacy by Default als Entwurfspflicht.
+ — Privacy by Design und Privacy by Default als Entwurfspflicht.
 - `Ehmann/Selmayr (Hrsg.), DS-GVO, 2. Aufl. 2018, Art. 35 Rn. 25 ff.`
-  — Anwendungsbereich der DSFA; Verhältnis zu Art. 5, 25 DSGVO.
+ — Anwendungsbereich der DSFA; Verhältnis zu Art. 5, 25 DSGVO.
 
 ## Ablauf
 
@@ -87,7 +87,7 @@ Konfiguriertes Prüfraster aus CLAUDE.md lesen. Trigger erfüllt → mindestens
 
 **Pflichttatbestände (Art. 35 Abs. 3, DSK-Positivliste):**
 - Systematische automatisierte Bewertung persönlicher Aspekte inkl. Profiling mit
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Umfangreiche Verarbeitung besonderer Datenkategorien (Art. 9 DSGVO).
 - Systematische umfangreiche Überwachung öffentlich zugänglicher Bereiche.
 
@@ -135,16 +135,16 @@ lit. c rechtliche Verpflichtung / lit. f berechtigte Interessen — oder "unklar
 
 Nach Klassifikation immer anbieten: "Soll ich jetzt direkt mit der DSFA beginnen?"
 
-*Bei STOPP:*  
+*Bei STOPP:*
 Konflikt benennen. Optionen: (A) Vorhaben umgestalten, (B) Richtlinie aktualisieren
 (Vereinbarkeit mit Rechtsgrundlage prüfen). Keinen Weg vorschlagen, wenn keiner besteht.
 
 ### Schritt 6: Weiterleitung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  KI-Folgenabschätzung erwägen.
+ KI-Folgenabschätzung erwägen.
 - **Beschäftigtendatenschutz:** § 26 BDSG und Mitbestimmung (§§ 87 Abs. 1 Nr. 6,
-  94 BetrVG) prüfen.
+ 94 BetrVG) prüfen.
 
 ## Ausgabeformat
 
@@ -174,12 +174,12 @@ DSB-Konsultation und Verarbeitungsverzeichnis-Eintrag (Art. 30) zwingend.
 ## Risiken und typische Fehler
 
 - **"Anonymisiert" = FREIGABE:** Pseudonymisierte Daten bleiben personenbezogen
-  (Art. 4 Nr. 1 DSGVO). Re-Identifikationsrisiko konkret prüfen.
+ (Art. 4 Nr. 1 DSGVO). Re-Identifikationsrisiko konkret prüfen.
 - **"Wir machen das ähnlich":** Bestehende, nie geprüfte Verarbeitungen legitimieren
-  keine neue. Bei anderem Umfang/Zweck/Kategorie: neu triagen.
+ keine neue. Bei anderem Umfang/Zweck/Kategorie: neu triagen.
 - **"Nur ein Pilot":** Pilot mit echten Personendaten unterliegt denselben Anforderungen.
 - **"Der Anbieter regelt Datenschutz":** AVV nach Art. 28 zwingend; Triage bleibt beim
-  Verantwortlichen (Art. 4 Nr. 7 DSGVO).
+ Verantwortlichen (Art. 4 Nr. 7 DSGVO).
 - **Inferred Data übersehen:** Score, Risikoklasse, Präferenz = personenbezogenes Datum.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

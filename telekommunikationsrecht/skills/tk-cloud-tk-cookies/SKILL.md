@@ -1,13 +1,13 @@
 ---
 name: tk-cloud-tk-cookies
-description: "Nutze dies, wenn Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg prüfen.; Erstelle eine Arbeitsfassung zu Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tk Cloud Telefonie Voip Compliance, Tk Cookies Telemedien Ttdsg Tdddg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

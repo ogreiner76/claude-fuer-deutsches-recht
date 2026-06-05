@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-vga-geschaeftsfuehrer
-description: "Rechtsabteilungs-Spezialskill für vGA bei Geschäftsführer- und Beiratsvergütung: Vergütung, Rückwirkung, Dokumentation und Fremdvergleich werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für vGA bei Geschäftsführer- und Beiratsvergütung: Vergütung, Rückwirkung, Dokumentation und Fremdvergleich werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
 ---
 
 # Rechtsabteilung: vGA bei Geschäftsführer- und Beiratsvergütung

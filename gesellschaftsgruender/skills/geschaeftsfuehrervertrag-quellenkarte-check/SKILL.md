@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrervertrag-quellenkarte-check
-description: "Nutze dies, wenn Geschaeftsfuehrervertrag Quellenkarte Check im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Geschaeftsfuehrervertrag Quellenkarte Check: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Geschaeftsfuehrervertrag Quellenkarte Check

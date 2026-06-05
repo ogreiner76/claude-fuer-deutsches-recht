@@ -93,16 +93,16 @@ FEHLERPROTOKOLL SUSA-PRUEFUNG
 Datum: [Datum] Bearbeiter: [Name]
 
 1. Verrechnungskonto (z. B. SKR 03 1590) Saldo 12.500 EUR — nicht abgebaut.
-   Ursache: unzugeordnete Bankbuchung 28.04.2026.
-   Korrektur: Buchungsaufloesung gegen Forderungssammelkonto (SKR 03 1400), GVC-Zuordnung 71.
+ Ursache: unzugeordnete Bankbuchung 28.04.2026.
+ Korrektur: Buchungsaufloesung gegen Forderungssammelkonto (SKR 03 1400), GVC-Zuordnung 71.
 
 2. Erloeskonto Habensaldo wider Erwarten gering, Sollsaldo 850 EUR.
-   Ursache: Gutschrift Kunde 10002 wurde gegen Erloeskonto gebucht statt Erloesschmaelerung.
-   Korrektur: Umbuchung auf Erloesschmaelerungs-Konto im 8730er-Bereich (SKR 03; typisch Konto 8736 oder 8739 je nach Steuerklasse; konkrete Kontonummer in DATEV-Kontenrahmen-Dokumentation nachschlagen).
+ Ursache: Gutschrift Kunde 10002 wurde gegen Erloeskonto gebucht statt Erloesschmaelerung.
+ Korrektur: Umbuchung auf Erloesschmaelerungs-Konto im 8730er-Bereich (SKR 03; typisch Konto 8736 oder 8739 je nach Steuerklasse; konkrete Kontonummer in DATEV-Kontenrahmen-Dokumentation nachschlagen).
 
 3. Differenz USt-Konto (z. B. SKR 03 1776) vs. USt-Voranmeldung 240 EUR.
-   Ursache: vergessene Buchung am 30.04.2026.
-   Korrektur: Nachbuchung mit Steuerschluessel 3 (Umsatz 19 Prozent).
+ Ursache: vergessene Buchung am 30.04.2026.
+ Korrektur: Nachbuchung mit Steuerschluessel 3 (Umsatz 19 Prozent).
 ```
 
 ## Output

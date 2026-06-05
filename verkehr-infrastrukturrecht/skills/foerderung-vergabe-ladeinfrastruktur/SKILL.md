@@ -1,13 +1,13 @@
 ---
 name: foerderung-vergabe-ladeinfrastruktur
-description: "Nutze dies, wenn Verkehr Infrastrukturrecht Foerderung Vergabe, Verkehr Infrastrukturrecht Ladeinfrastruktur, Verkehr Infrastrukturrecht Planfeststellung im Plugin Verkehr Infrastrukturrecht konkret bearbeitet werden soll. Auslöser: Bitte Verkehr Infrastrukturrecht Foerderung Vergabe, Verkehr Infrastrukturrecht Ladeinfrastruktur, Verkehr Infrastrukturrecht Planfeststellung prüfen.; Erstelle eine Arbeitsfassung zu Verkehr Infrastrukturrecht Foerderung Vergabe, Verkehr Infrastrukturrecht Ladeinfrastruktur, Verkehr Infrastrukturrecht Planfeststellung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verkehr Infrastrukturrecht Foerderung Vergabe, Verkehr Infrastrukturrecht Ladeinfrastruktur, Verkehr Infrastrukturrecht Planfeststellung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verkehr Infrastrukturrecht Foerderung Vergabe, Verkehr Infrastrukturrecht Ladeinfrastruktur, Verkehr Infrastrukturrecht Planfeststellung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verkehr Infrastrukturrecht Foerderung Vergabe, Verkehr Infrastrukturrecht Ladeinfrastruktur, Verkehr Infrastrukturrecht Planfeststellung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -56,7 +56,7 @@ Für **Verkehr Infrastrukturrecht Foerderung Vergabe, Verkehr Infrastrukturrecht
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Schritt-fuer-Schritt-Workflow Vergabe
+## Schritt-fuer-Schritt-Vergabe
 
 1. **Schwellenwert pruefen:** EU-weite Ausschreibung oder national?
 2. **Vergabebekanntmachung analysieren:** Eignungskriterien, Zuschlagskriterien, Fristen.
@@ -65,7 +65,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 5. **Nachpruefungsantrag:** Vergabekammer beim Bundeskartellamt (EU-Schwellenwert) oder Landesvergabebehoerde.
 6. **Beschwerde OLG:** gegen Entscheidung der Vergabekammer.
 
-## Schritt-fuer-Schritt-Workflow Foerderung
+## Schritt-fuer-Schritt-Foerderung
 
 1. **Foerderantrag pruefen:** Vollstaendigkeit, Fristen, Nachweise.
 2. **Zuwendungsbescheid erhalten:** Nebenbestimmungen pruefen (Auflagen, Bedingungen, Widerrufsvorbehalt).
@@ -117,16 +117,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Standort der Ladeinfrastruktur?
 ├─ Privates Einzelhausgrundstuck
-│   ├─ Eigentuemerfall → direkt anschliessen (nur Netzanschluss § 8 EnWG)
-│   └─ Mieterfall → § 554 BGB-Antrag an Vermieter
+│ ├─ Eigentuemerfall → direkt anschliessen (nur Netzanschluss § 8 EnWG)
+│ └─ Mieterfall → § 554 BGB-Antrag an Vermieter
 ├─ WEG-Gemeinschaftseigentum
-│   └─ § 20 WEG-Antrag auf Beschluss oder Zustimmung aller
+│ └─ § 20 WEG-Antrag auf Beschluss oder Zustimmung aller
 ├─ Oeffentliche Strassenflaeche
-│   └─ Sondernutzungserlaubnis (§ 13 FStrG / LStrG)
+│ └─ Sondernutzungserlaubnis (§ 13 FStrG / LStrG)
 └─ Gewerbliche Anlage (Parkhaus, Shopping-Center)
-    ├─ Baurecht pruefen (LBO-Genehmigungspflicht?)
-    ├─ AFIR-Pflichten (oeffentlich zugaenglich?)
-    └─ Foerderung BAFA/KfW beantragen
+ ├─ Baurecht pruefen (LBO-Genehmigungspflicht?)
+ ├─ AFIR-Pflichten (oeffentlich zugaenglich?)
+ └─ Foerderung BAFA/KfW beantragen
 ```
 
 ## Harte Leitplanken
@@ -179,7 +179,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Mandantenrolle klaeren:** Vorhabentraeger, Betroffener, Verband — unterschiedliche Rechte und Pflichten.
 2. **Fristen pruefen:** Auslegungsfrist (§ 73 Abs. 2 VwVfG); Einwendungsfrist 6 Wochen (§ 73 Abs. 4 VwVfG).
@@ -193,14 +193,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Planfeststellungsbeschluss erlassen?
 ├─ Eigentuemerin/Eigentuemer unmittelbar betroffen?
-│   ├─ § 14 GG-Verletzung geltend machen
-│   └─ Anfechtungsklage beim OVG / BVerwG
+│ ├─ § 14 GG-Verletzung geltend machen
+│ └─ Anfechtungsklage beim OVG / BVerwG
 ├─ Kommunale Koerperschaft?
-│   └─ Art. 28 Abs. 2 GG (Gemeindeautonomie) als Klagebefugnis
+│ └─ Art. 28 Abs. 2 GG (Gemeindeautonomie) als Klagebefugnis
 ├─ Anerkannter Umweltverband (§ 3 UmwRG)?
-│   └─ § 2 UmwRG-Klage ohne subjektive Rechtsverletzung
+│ └─ § 2 UmwRG-Klage ohne subjektive Rechtsverletzung
 └─ Sonstiger Betroffener?
-    └─ Klagebefugnis nach § 42 Abs. 2 VwGO; subjektive Rechtsverletzung geltend machen
+ └─ Klagebefugnis nach § 42 Abs. 2 VwGO; subjektive Rechtsverletzung geltend machen
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -229,11 +229,11 @@ Einwendung gegen den Planfeststellungsantrag
 Ich/Wir [Name, Adresse] erheben folgende Einwendungen:
 
 1. Eigentumseingriff: Das Vorhabenflaeche [FlSt. Nr.] tangiert
-   unser Eigentumsrecht nach Art. 14 GG. [Begruendung]
+ unser Eigentumsrecht nach Art. 14 GG. [Begruendung]
 
 2. Laermbeeintraechtigung: Die prognostizierten Laermwerte
-   ueberschreiten [X] dB(A) und liegen ueber den zulaeassigen
-   Grenzwerten der 16. BImSchV.
+ ueberschreiten [X] dB(A) und liegen ueber den zulaeassigen
+ Grenzwerten der 16. BImSchV.
 
 3. [Weiterer Aspekt]
 

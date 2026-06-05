@@ -1,6 +1,6 @@
 ---
 name: grundrechte-fehlerkatalog
-description: "Nutze dies, wenn Grundrechte Fehlerkatalog im Plugin Verfassungsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Grundrechte Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Grundrechte Fehlerkatalog

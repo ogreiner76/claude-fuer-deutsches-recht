@@ -1,13 +1,13 @@
 ---
 name: erklaerung-interessen-formulare-pdfs
-description: "Nutze dies, wenn Spezial Erklaerung Mehrparteien Konflikt Und Interessen, Spezial Formulare Zahlen Schwellen Und Berechnung, Spezial Pdfs Compliance Dokumentation Und Akte im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Bitte Spezial Erklaerung Mehrparteien Konflikt Und Interessen, Spezial Formulare Zahlen Schwellen Und Berechnung, Spezial Pdfs Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Erklaerung Mehrparteien Konflikt Und Interessen, Spezial Formulare Zahlen Schwellen Und Berechnung, Spezial Pdfs Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erklaerung Mehrparteien Konflikt Und Interessen, Formulare Zahlen Schwellen Und Berechnung, Pdfs Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Erklaerung Mehrparteien Konflikt Und Interessen, Spezial Formulare Zahlen Schwellen Und Berechnung, Spezial Pdfs Compliance Dokumentation Und Akte
+# Erklaerung Mehrparteien Konflikt Und Interessen, Formulare Zahlen Schwellen Und Berechnung, Pdfs Compliance Dokumentation Und Akte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erklaerung Mehrparteien Konflikt Und Interessen, Formulare Zahlen Schwellen Und Berechnung, Pdfs Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Erklaerung Mehrparteien Konflikt Und Interessen, Spezial Formulare Zahlen Schwellen Und Berechnung, Spezial Pdfs Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Erklaerung Mehrparteien Konflikt Und Interessen, Formulare Zahlen Schwellen Und Berechnung, Pdfs Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `barrierefreiheit-web-checker` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Erklaerung Mehrparteien Konflikt Und Interessen, Spezial Formular
 # Erklaerung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Erklaerung: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Erklaerung: Mehrparteienkonflikt und Interessenmatrix / spezial erklaerung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Erklaerung: Mehrparteienkonflikt und Interessenmatrix / erklaerung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Formulare: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Formulare: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Formulare: Zahlen, Schwellenwerte und Berechnung / spezial formulare zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Formulare: Zahlen, Schwellenwerte und Berechnung / formulare zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -96,14 +96,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Barrierefreie Formulare — Zahlen und Schwellen
 - **WCAG 2.1 AA — relevante Erfolgskriterien für Formulare:**
-  - **1.3.1 Info and Relationships (A):** Label semantisch verknüpft (`<label for>`).
-  - **1.3.5 Identify Input Purpose (AA):** `autocomplete`-Attribut bei häufigen Feldern.
-  - **2.4.6 Headings and Labels (AA):** beschreibend.
-  - **3.3.1 Error Identification (A):** Fehler werden identifiziert und beschrieben.
-  - **3.3.2 Labels or Instructions (A):** Hinweis bei Eingabefeldern.
-  - **3.3.3 Error Suggestion (AA):** Vorschläge zur Korrektur.
-  - **3.3.4 Error Prevention (Legal, Financial, Data) (AA):** Bestätigungsschritt, Korrekturmöglichkeit, Stornierung.
-  - **4.1.3 Status Messages (AA):** dynamische Statusmeldungen für Screenreader.
+ - **1.3.1 Info and Relationships (A):** Label semantisch verknüpft (`<label for>`).
+ - **1.3.5 Identify Input Purpose (AA):** `autocomplete`-Attribut bei häufigen Feldern.
+ - **2.4.6 Headings and Labels (AA):** beschreibend.
+ - **3.3.1 Error Identification (A):** Fehler werden identifiziert und beschrieben.
+ - **3.3.2 Labels or Instructions (A):** Hinweis bei Eingabefeldern.
+ - **3.3.3 Error Suggestion (AA):** Vorschläge zur Korrektur.
+ - **3.3.4 Error Prevention (Legal, Financial, Data) (AA):** Bestätigungsschritt, Korrekturmöglichkeit, Stornierung.
+ - **4.1.3 Status Messages (AA):** dynamische Statusmeldungen für Screenreader.
 - **Kontrast** (1.4.3): mindestens 4,5:1 für normalen Text, 3:1 für großen Text (>= 18pt oder 14pt fett).
 - **Tastatur-Bedienbarkeit** (2.1.1): jede Funktion ohne Maus.
 - **Captcha**: Audio-Alternative oder andere Modalität (4.1.2 i.V.m. 1.1.1).
@@ -131,7 +131,7 @@ Bei Formularen ist die häufigste Barriere kein Tastatur-Mangel, sondern fehlend
 # Pdfs: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Pdfs: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Pdfs: Compliance-Dokumentation und Aktenvermerk / spezial pdfs compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pdfs: Compliance-Dokumentation und Aktenvermerk / pdfs compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

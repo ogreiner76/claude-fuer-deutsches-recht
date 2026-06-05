@@ -22,7 +22,7 @@ description: "WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach § 28 WEG:
 
 Dieser Skill führt Verwalter, Beirat, Eigentümer und Anwälte durch die aktuelle § 28-WEG-Logik. Er vermeidet den alten Reflex, "die Jahresabrechnung zu genehmigen". Beschlossen werden Nachschüsse und die Anpassung von Vorschüssen; der Wirtschaftsplan stützt die Vorschüsse.
 
-## Kaltstart
+## Einstieg
 
 1. Geht es um Erstellung, Beschlussvorbereitung, Beiratsprüfung, Anfechtung oder Mieterschnittstelle?
 2. Abrechnungsjahr, Zahl der Einheiten, Wohn-/Gewerbeanteile, besondere Nutzer?

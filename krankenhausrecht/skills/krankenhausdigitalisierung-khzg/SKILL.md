@@ -1,13 +1,13 @@
 ---
 name: krankenhausdigitalisierung-khzg
-description: "Nutze dies, wenn Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsgesetz Khg Grundstruktur, Krankenhaushygiene Ifsg Landesrecht im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsgesetz Khg Grundstruktur, Krankenhaushygiene Ifsg Landesrecht prüfen.; Erstelle eine Arbeitsfassung zu Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsgesetz Khg Grundstruktur, Krankenhaushygiene Ifsg Landesrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsgesetz Khg Grundstruktur, Krankenhaushygiene Ifsg Landesrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsgesetz Khg Grundstruktur, Krankenhaushygiene Ifsg Landesrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Krankenhausdigitalisierung Khzg It Sicherheit, Krankenhausfinanzierungsgesetz Khg Grundstruktur, Krankenhaushygiene Ifsg Landesrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -102,7 +102,7 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 - **Landeskrankenhausgesetze** konkretisieren Foerderung, Aufnahme, Versorgungsauftrag.
 - **SGB V § 108, 109** Zulassung von Krankenhaeusern als GKV-Versorger.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Status klaeren:** Plan, Hochschul, Vertrag (§ 108 SGB V), Sicherstellung?
 2. **Relevante KHG-Norm identifizieren:** Plan/§ 6, Foerderung/§ 9, Verguetung/§ 17 ff.
 3. **Bund-/Landesebene trennen:** KHG Bundesrecht; Landeskrankenhausgesetze konkretisieren.
@@ -179,7 +179,7 @@ Krankenhaushygiene wird in mehreren Ebenen geregelt: IfSG (Bund), KRINKO-/RKI-Em
 - **TRBA, TRGS** (Technische Regeln) fuer Beruflichen Biostoff- und Gefahrstoffschutz.
 - **MD-Strukturpruefung** kann Hygienenachweise pruefen.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Hygieneorganisation pruefen:** Hygienefachkraft, Hygienebeauftragter Arzt, Hygienekommission, KRINKO-konformer Hygieneplan.
 2. **Surveillance dokumentieren:** Nosokomiale Infektionen, MRE-Befunde, KISS-Module.
 3. **Ausbruchsmanagement:** Frueherkennung, Meldung Gesundheitsamt § 6 IfSG, Massnahmen (Isolation, Kohortenpflege, Sanierung).

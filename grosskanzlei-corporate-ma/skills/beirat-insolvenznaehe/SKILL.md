@@ -1,6 +1,6 @@
 ---
 name: beirat-insolvenznaehe
-description: "Nutze dies, wenn Beirat Insolvenznaehe im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Insolvenznaehe prüfen.; Erstelle eine Arbeitsfassung zu Beirat Insolvenznaehe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Insolvenznaehe: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Insolvenznaehe

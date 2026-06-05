@@ -1,19 +1,19 @@
 ---
 name: rechtsabteilung-lookalike-relative
-description: "Nutze dies, wenn Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-lookalike-produkte-und-rufausbeutung` | Rechtsabteilungs-Spezialskill für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-lookalike-produkte-und-rufausbeutung` | Rechtsabteilungs-Fachmodul für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `relative-schutzhindernisse-verwechslungsgefahr` | Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie. |
 | `selektiver-vertrieb-coty` | Selektiven Vertrieb für Luxusgüter und Markenware prüfen und gestalten: qualitative Kriterien, Plattformverbot, Diskriminierungsfreiheit, Vertikal-GVO, Marktanteile, Händleraufnahme und Vertragsdurchsetzung. |
 | `slogan-marke` | Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort. |
@@ -27,7 +27,7 @@ Für **Rechtsabteilung Lookalike Produkte Und Rufausbeutung, Relative Schutzhind
 
 ## 1. `rechtsabteilung-lookalike-produkte-und-rufausbeutung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Lookalike-Produkte und Rufausbeutung
 
@@ -146,32 +146,32 @@ Als Anwältin entwerfe ich selektive Vertriebsverträge, die Coty-konform sind, 
 
 1. **Selektionskriterien formulieren — Zulässigkeitstest nach Coty:**
 
-   **Pflicht-Voraussetzungen (Metro-Kriterien, bestätigt durch Coty):**
-   - Kriterium muss durch die Natur der Ware gerechtfertigt sein (qualitative Begründung)
-   - Kriterium muss einheitlich und nicht-diskriminierend angewendet werden
-   - Kriterium muss verhältnismäßig sein (kein Übermaß)
+ **Pflicht-Voraussetzungen (Metro-Kriterien, bestätigt durch Coty):**
+ - Kriterium muss durch die Natur der Ware gerechtfertigt sein (qualitative Begründung)
+ - Kriterium muss einheitlich und nicht-diskriminierend angewendet werden
+ - Kriterium muss verhältnismäßig sein (kein Übermaß)
 
-   **Typische qualitative Kriterien für klôtzzkètté:**
-   - Flagship-Store oder Shop-in-Shop mit definiertem Design-Standard (Lichtkonzept, Bodenbelag, Display-Materialien nach Brand-Manual)
-   - Ausgebildetes Verkaufspersonal (Mindest-Schulungsstunden: 8 h/Jahr bei klôtzzkètté-Akademie)
-   - Keine Mischung mit Discount-Waren in unmittelbarer Präsenz
-   - Kein Verkauf über Drittmarktplätze ohne Zustimmung klôtzzkètté (Coty-Plattformverbot)
-   - Geheimhaltung von Einkaufspreisen (MFN-Klausel — vgl. Skill `agb-haendlervertrag-luxus`)
+ **Typische qualitative Kriterien für klôtzzkètté:**
+ - Flagship-Store oder Shop-in-Shop mit definiertem Design-Standard (Lichtkonzept, Bodenbelag, Display-Materialien nach Brand-Manual)
+ - Ausgebildetes Verkaufspersonal (Mindest-Schulungsstunden: 8 h/Jahr bei klôtzzkètté-Akademie)
+ - Keine Mischung mit Discount-Waren in unmittelbarer Präsenz
+ - Kein Verkauf über Drittmarktplätze ohne Zustimmung klôtzzkètté (Coty-Plattformverbot)
+ - Geheimhaltung von Einkaufspreisen (MFN-Klausel — vgl. Skill `agb-haendlervertrag-luxus`)
 
 2. **Plattformverbot formulieren:**
-   - Klausel: "Händler darf Vertragsware nicht über Online-Marktplätze Dritter (insbesondere Donauzon, [weitere]) anbieten, es sei denn, klôtzzkètté SA stimmt vorher schriftlich zu."
-   - Begründung: Marktplätze entsprechen nicht den Qualitätsstandards des Selektivvertriebssystems; fehlende Kontrolle über Markenpräsentation
-   - Coty-Linie: Luxusimage-Argument genügt; kein generelles Internet-Verbot (eigener Online-Shop des Händlers erlaubt)
+ - Klausel: "Händler darf Vertragsware nicht über Online-Marktplätze Dritter (insbesondere Donauzon, [weitere]) anbieten, es sei denn, klôtzzkètté SA stimmt vorher schriftlich zu."
+ - Begründung: Marktplätze entsprechen nicht den Qualitätsstandards des Selektivvertriebssystems; fehlende Kontrolle über Markenpräsentation
+ - Coty-Linie: Luxusimage-Argument genügt; kein generelles Internet-Verbot (eigener Online-Shop des Händlers erlaubt)
 
 3. **Kartellrechtliche Freistellung prüfen:**
-   - Marktanteil klôtzzkètté < 30 %? → Vertikal-GVO-Freistellung greift automatisch
-   - Marktanteil > 30 %? → Einzelfallprüfung nach Art. 101 III AEUV / § 2 GWB
+ - Marktanteil klôtzzkètté < 30 %? → Vertikal-GVO-Freistellung greift automatisch
+ - Marktanteil > 30 %? → Einzelfallprüfung nach Art. 101 III AEUV / § 2 GWB
 
 4. **Vertragsdokumentation:**
-   - Selektiver Händlervertrag mit vollständigen Kriterien-Katalog (Anlage)
-   - Schulungsnachweispflicht (jährlich)
-   - Revisionspflicht (klôtzzkètté darf unangekündigt oder mit 24h-Vorankündigung prüfen)
-   - Laufzeit: 2-3 Jahre, Kündigung mit 6 Monaten Frist
+ - Selektiver Händlervertrag mit vollständigen Kriterien-Katalog (Anlage)
+ - Schulungsnachweispflicht (jährlich)
+ - Revisionspflicht (klôtzzkètté darf unangekündigt oder mit 24h-Vorankündigung prüfen)
+ - Laufzeit: 2-3 Jahre, Kündigung mit 6 Monaten Frist
 
 ## Falltypische Konstellationen
 
@@ -267,27 +267,27 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 ## Prüfungsschritte
 
 1. **Semantische Analyse:**
-   - Beschreibt der Slogan Waren/Dienstleistungen direkt? → § 8 II Nr. 3 MarkenG
-   - Hat der Slogan ausschließlich anpreisende Funktion? → § 8 II Nr. 2 MarkenG
-   - Weist der Slogan auf eine konkrete betriebliche Herkunft hin? → Schutzfähig
+ - Beschreibt der Slogan Waren/Dienstleistungen direkt? → § 8 II Nr. 3 MarkenG
+ - Hat der Slogan ausschließlich anpreisende Funktion? → § 8 II Nr. 2 MarkenG
+ - Weist der Slogan auf eine konkrete betriebliche Herkunft hin? → Schutzfähig
 
 2. **Sprachliche Originalität:**
-   - Kreative Wortschöpfung, ungewöhnliche Grammatik, Fremdsprachenmix
-   - Einprägsamkeit und Eigenartigkeit (nicht austauschbar mit anderen Marken)
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Kreative Wortschöpfung, ungewöhnliche Grammatik, Fremdsprachenmix
+ - Einprägsamkeit und Eigenartigkeit (nicht austauschbar mit anderen Marken)
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. **Marktrecherche:**
-   - Wird der Slogan als Markenzeichen oder als allgemeine Werbephrase wahrgenommen?
-   - Einsatz in Verbindung mit anderen Marken (Wort-Bild-Marke)?
+ - Wird der Slogan als Markenzeichen oder als allgemeine Werbephrase wahrgenommen?
+ - Einsatz in Verbindung mit anderen Marken (Wort-Bild-Marke)?
 
 4. **Verkehrsdurchsetzung prüfen (§ 8 III MarkenG):**
-   - Voraussetzung: erhebliche Bekanntheit (je nach Kategorie 50-70 % Verkehrskreis)
-   - Belege: Marktanteile, Werbeaufwand, Verbraucherbefragungen, Presseberichte
+ - Voraussetzung: erhebliche Bekanntheit (je nach Kategorie 50-70 % Verkehrskreis)
+ - Belege: Marktanteile, Werbeaufwand, Verbraucherbefragungen, Presseberichte
 
 5. **Taktische Entscheidung:**
-   - Slogan als eigenständige Wortmarke anmelden
-   - Oder: Slogan als Bestandteil einer Wort-Bild-Marke (sicherer)
-   - Oder: Hashtag-Version parallel anmelden (#klotzkette — separates Zeichen)
+ - Slogan als eigenständige Wortmarke anmelden
+ - Oder: Slogan als Bestandteil einer Wort-Bild-Marke (sicherer)
+ - Oder: Hashtag-Version parallel anmelden (#klotzkette — separates Zeichen)
 
 ## Falltypische Konstellationen
 
@@ -368,6 +368,6 @@ Bevor der Slogan als Marke angemeldet wird, klaere:
 <!-- AUDIT 27.05.2026 | bundle_037 | task 3/5
 BGH I ZB 22/20 (WRONG_TOPIC / NOT_FOUND): Aktenzeichen auf dejure.org nicht auffindbar.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->

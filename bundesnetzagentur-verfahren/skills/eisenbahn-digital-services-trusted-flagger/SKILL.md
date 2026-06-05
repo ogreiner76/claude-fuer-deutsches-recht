@@ -1,26 +1,26 @@
 ---
 name: eisenbahn-digital-services-trusted-flagger
-description: "Nutze dies, wenn Digital Services Transparenzberichte Online Plattformen, Digital Services Trusted Flagger Anerkennung, Digital Services Vlop Vlose Koordination Eu Kommission, Eisenbahn Anreizsetzung Schiene, Eisenbahn Baumassnahmen Und Sperrpausen und 3 weitere Themen im Plugin Bundesnetzagentur Verfahren konkret bearbeitet werden soll. Auslöser: Bitte Digital Services Transparenzberichte Online Plattformen, Digital Services Trusted Flagger Anerkennung, Digital Services Vlop Vlose Koordination Eu Kommission, Eisenbahn Anreizsetzung Schiene, Eisenbahn Baumassnahmen Und Sperrpausen und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Digital Services Transparenzberichte Online Plattformen, Digital Services Trusted Flagger Anerkennung, Digital Services Vlop Vlose Koordination Eu Kommission, Eisenbahn Anreizsetzung Schiene, Eisenbahn Baumassnahmen Und Sperrpausen und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Digital Services Transparenzberichte Online Plattformen, Digital Services Trusted Flagger Anerkennung, Digital Services Vlop Vlose Koordination Eu Kommission, Eisenbahn Anreizsetzung Schiene: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Digital Services Transparenzberichte Online Plattformen, Digital Services Trusted Flagger Anerkennung, Digital Services Vlop Vlose Koordination Eu Kommission, Eisenbahn Anreizsetzung Schiene, Eisenbahn Baumassnahmen Und Sperrpausen und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Digital Services Transparenzberichte Online Plattformen, Digital Services Trusted Flagger Anerkennung, Digital Services Vlop Vlose Koordination Eu Kommission, Eisenbahn Anreizsetzung Schiene, Eisenbahn Baumassnahmen Und Sperrpausen und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `digital-services-transparenzberichte-online-plattformen` | Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
-| `digital-services-trusted-flagger-anerkennung` | Digital Services / Trusted Flagger Anerkennung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
-| `digital-services-vlop-vlose-koordination-eu-kommission` | Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
-| `eisenbahn-anreizsetzung-schiene` | Eisenbahn / Anreizsetzung Schiene: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `eisenbahn-baumassnahmen-und-sperrpausen` | Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber` | Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `eisenbahn-eisenbahnregulierung-eregg` | Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
-| `eisenbahn-entgeltregulierung-schiene` | Eisenbahn / Entgeltregulierung Schiene: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `digital-services-transparenzberichte-online-plattformen` | Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
+| `digital-services-trusted-flagger-anerkennung` | Digital Services / Trusted Flagger Anerkennung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
+| `digital-services-vlop-vlose-koordination-eu-kommission` | Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
+| `eisenbahn-anreizsetzung-schiene` | Eisenbahn / Anreizsetzung Schiene: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `eisenbahn-baumassnahmen-und-sperrpausen` | Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber` | Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `eisenbahn-eisenbahnregulierung-eregg` | Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
+| `eisenbahn-entgeltregulierung-schiene` | Eisenbahn / Entgeltregulierung Schiene: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. |
 
 ## Arbeitsweg
 
@@ -31,7 +31,7 @@ Für **Digital Services Transparenzberichte Online Plattformen, Digital Services
 
 ## 1. `digital-services-transparenzberichte-online-plattformen`
 
-**Fokus:** Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Transparenzberichte nach DSA: Art. 15, 24, 42
 
@@ -90,7 +90,7 @@ Klassifizierung verifiziert? Datenquellen vollständig? Schwellenwerte korrekt b
 
 ## 2. `digital-services-trusted-flagger-anerkennung`
 
-**Fokus:** Digital Services / Trusted Flagger Anerkennung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Trusted Flagger Anerkennung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Trusted Flagger: Anerkennung nach Art. 22 DSA
 
@@ -150,7 +150,7 @@ Sachkundenachweis konkret (nicht nur abstrakt)? Unabhängigkeit von Plattformen 
 
 ## 3. `digital-services-vlop-vlose-koordination-eu-kommission`
 
-**Fokus:** Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA
 
@@ -209,7 +209,7 @@ VLOP/VLOSE-Status verifiziert? Zuständigkeitskaskade (Kommission vs. DSC) korre
 
 ## 4. `eisenbahn-anreizsetzung-schiene`
 
-**Fokus:** Eisenbahn / Anreizsetzung Schiene: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Anreizsetzung Schiene: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach § 39 ERegG
 
@@ -270,7 +270,7 @@ ASS-Definition und Verspätungs-Schwellen klar? Datenbasis vor Streitwert genau 
 
 ## 5. `eisenbahn-baumassnahmen-und-sperrpausen`
 
-**Fokus:** Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Baumaßnahmen und Sperrpausen im Schienennetz
 
@@ -332,7 +332,7 @@ TCR-Anmeldung fristgemäß? Vorrangkriterien § 51 ERegG bewertet? Eilbedürftig
 
 ## 6. `eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber`
 
-**Fokus:** Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Beschwerde eines EVU gegen den Infrastrukturbetreiber nach § 66 ERegG
 
@@ -396,12 +396,12 @@ Aktivlegitimation tragfähig? Streitgegenstand präzise eingegrenzt? Diskriminie
 
 ## 7. `eisenbahn-eisenbahnregulierung-eregg`
 
-**Fokus:** Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg
 
 ## Zweck und Anwendungsfall
-Anwaltlicher Allgemein-Skill für Mandate nach dem Eisenbahnregulierungsgesetz (ERegG). Das ERegG setzt die SERA-Richtlinie (RL 2012/34/EU) um und ordnet die regulatorische Aufsicht der Bundesnetzagentur über die Eisenbahninfrastruktur, das Trassen- und Entgeltsystem und die Wettbewerbsneutralität zwischen integrierten und nicht-integrierten EVU. Der Skill steuert die Erfassung des Mandats, die Wahl des passenden Spezialskills (Trassenzugang, Entgelte, Serviceeinrichtungen, Beschwerde EVU gegen EIU usw.) und die Sicherung der Fristen.
+Anwaltlicher Allgemein-Skill für Mandate nach dem Eisenbahnregulierungsgesetz (ERegG). Das ERegG setzt die SERA-Richtlinie (RL 2012/34/EU) um und ordnet die regulatorische Aufsicht der Bundesnetzagentur über die Eisenbahninfrastruktur, das Trassen- und Entgeltsystem und die Wettbewerbsneutralität zwischen integrierten und nicht-integrierten EVU. Der Skill steuert die Erfassung des Mandats, die Wahl des passenden Fachmodule (Trassenzugang, Entgelte, Serviceeinrichtungen, Beschwerde EVU gegen EIU usw.) und die Sicherung der Fristen.
 
 ## Eingaben
 - Mandantenrolle (EVU, EIU, Halter, Trassenbörse, Verband, Aufgabenträger ÖPNV, Speditions-Kunde).
@@ -429,7 +429,7 @@ Anwaltlicher Allgemein-Skill für Mandate nach dem Eisenbahnregulierungsgesetz (
 8. **Rechtsschutz.** Klage VG Köln gegen BNetzA-Entscheidungen; § 80 Abs. 5 VwGO gegen § 79 ERegG-Vollziehbarkeit; Vorlage EuGH bei unklarer SERA-Auslegung.
 
 ## Mustertexte
-- Mandats-Triage-Memo: Rolle, Sachverhalt, Spezialskill-Routing, Frist, erste Maßnahmen.
+- Mandats-Triage-Memo: Rolle, Sachverhalt, Fachmodul-Routing, Frist, erste Maßnahmen.
 - Beschwerde § 66 ERegG (Grobgliederung).
 - Stellungnahme im Konsultationsverfahren §§ 26, 56 ERegG.
 
@@ -442,20 +442,20 @@ Anwaltlicher Allgemein-Skill für Mandate nach dem Eisenbahnregulierungsgesetz (
 
 ## Ausgabeformat
 - Triage-Memo (1–3 Seiten).
-- Routing-Empfehlung in den Spezialskill des Plugins (Trassenzugang, Entgelte, Serviceeinrichtungen, Stationszugang, Beschwerde EVU gegen EIU, Sperrpausen, Netznutzungsbedingungen, Anreizsetzung, Kapazitätskonflikt).
+- Routing-Empfehlung in den Fachmodul des Plugins (Trassenzugang, Entgelte, Serviceeinrichtungen, Stationszugang, Beschwerde EVU gegen EIU, Sperrpausen, Netznutzungsbedingungen, Anreizsetzung, Kapazitätskonflikt).
 - Erste Maßnahmenliste (Fristen, Beweissicherung, Konsultations-Stellungnahme).
 
 ## Beispiele
-- Personenfern-EVU bittet um Erstkontakt zur Streitlage Trassen 2026. Triage: Routing in Spezialskill eisenbahn-trassenzugang.
+- Personenfern-EVU bittet um Erstkontakt zur Streitlage Trassen 2026. Triage: Routing in Fachmodul eisenbahn-trassenzugang.
 - Aufgabenträger SPNV bittet um Memo zu Stationsentgelten. Triage: Routing in eisenbahn-stationszugang.
 - Schienengüter-EVU bittet um Erstkontakt wegen Bonus-Malus. Triage: Routing in eisenbahn-anreizsetzung-schiene.
 
 ## Qualitätsgate
-Mandantenrolle eindeutig? Spezialskill-Routing klar? Frist sofort kalendarisiert? Konsultations- und Konflikt-Statuspunkt erfasst? EuGH-Vorlagerisiko reflektiert?
+Mandantenrolle eindeutig? Fachmodul-Routing klar? Frist sofort kalendarisiert? Konsultations- und Konflikt-Statuspunkt erfasst? EuGH-Vorlagerisiko reflektiert?
 
 ## 8. `eisenbahn-entgeltregulierung-schiene`
 
-**Fokus:** Eisenbahn / Entgeltregulierung Schiene: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Entgeltregulierung Schiene: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahn: Entgeltregulierung Schiene
 

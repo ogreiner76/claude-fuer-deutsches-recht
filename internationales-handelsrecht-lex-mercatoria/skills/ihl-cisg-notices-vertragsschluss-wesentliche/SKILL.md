@@ -1,13 +1,13 @@
 ---
 name: ihl-cisg-notices-vertragsschluss-wesentliche
-description: "Nutze dies, wenn Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis prüfen.; Erstelle eine Arbeitsfassung zu Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

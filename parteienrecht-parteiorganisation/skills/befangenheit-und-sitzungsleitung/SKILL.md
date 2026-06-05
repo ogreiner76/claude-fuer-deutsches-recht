@@ -8,7 +8,7 @@ description: "Hilft bei Leitung, Interessenkonflikten, Ordnungsmaßnahmen, Redel
 ## Aufgabe
 Hilft bei Leitung, Interessenkonflikten, Ordnungsmaßnahmen, Redeliste und Abstimmungsleitung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

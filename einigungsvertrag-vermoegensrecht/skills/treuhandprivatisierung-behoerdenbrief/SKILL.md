@@ -1,13 +1,13 @@
 ---
 name: treuhandprivatisierung-behoerdenbrief
-description: "Nutze dies, wenn Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer im Plugin Einigungsvertrag Vermoegensrecht konkret bearbeitet werden soll. Auslöser: Bitte Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer prüfen.; Erstelle eine Arbeitsfassung zu Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

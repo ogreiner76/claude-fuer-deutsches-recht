@@ -1,13 +1,13 @@
 ---
 name: internationales-drittstaaten-konzerninsolvenz
-description: "Nutze dies, wenn Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Rechtsabteilung Auslaendischer Insolvenzverwalter In Deutschland im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Rechtsabteilung Auslaendischer Insolvenzverwalter In Deutschland prüfen.; Erstelle eine Arbeitsfassung zu Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Rechtsabteilung Auslaendischer Insolvenzverwalter In Deutschland.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Rechtsabteilung Auslaendischer Insolvenzverwalter In Deutschland: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Rechtsabteilung Auslaendischer Insolvenzverwalter In Deutschland
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Rechtsabteilung Auslaendischer Insolvenzverwalter In Deutschland** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `internationales-insolvenzrecht-drittstaaten-inzidentpruefung` | Drittstaatliche Insolvenzverfahren in Deutschland prüfen: keine Chapter-15-Logik, sondern Anerkennung nach §§ 335 ff., 343 InsO und praktische Inzidentprüfung durch Notar, Grundbuchamt, Registergericht, Bank oder Vertragspartner. |
 | `konzerninsolvenz-koordination` | Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr. |
 | `mandat-triage-insolvenzrecht` | Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant ist Geschäftsführer mit Antragspflicht Gläubiger der Forderung anmelden will oder Arbeitnehmer der Insolvenzgeld beantragt. Klaert Mandantenrolle und Vorgang (Eroeffnungsantrag Eigenverwaltung Schutzschirm StaRUG Restschuldbefreiung). Sofort-Fristen Antragspflicht § 15a InsO drei Wochen Anmeldefristen Insolvenzgeld § 165 SGB III zwei Monate. Normen §§ 13 17 18 19 InsO Eroeffnungsantrag Insolvenzgründe. Eskalation Telefon-Sofort bei Antragspflicht-Verletzung Geschäftsführer-Haftung. Output Triage-Memo Fristen-Ampel Routing zu anfechtungsrechte-prüfen und anderen Skills. Abgrenzung zu insolvenzrecht-kaltstart-interview (Plugin-Profil-Befuellung). |
-| `rechtsabteilung-auslaendischer-insolvenzverwalter-in-deutschland` | Rechtsabteilungs-Spezialskill für Ausländischer Insolvenzverwalter in Deutschland: Inzidente Anerkennung, Vertretungsmacht und Nachweisform werden als Checkliste geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-auslaendischer-insolvenzverwalter-in-deutschland` | Rechtsabteilungs-Fachmodul für Ausländischer Insolvenzverwalter in Deutschland: Inzidente Anerkennung, Vertretungsmacht und Nachweisform werden als Checkliste geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -644,14 +644,14 @@ Insolvenz-Mandate sind hochzeitkritisch — die Drei-Wochen-Frist § 15a InsO is
 ## Weitere Leitentscheidungen — Mandats-Triage (Stand Mai 2026)
 
 - **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers; bei Wechsel der Geschäftsleitung Mandantenrolle und Verantwortlichkeit präzise abklären.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer; bei Hinweisen auf Strohmann-/Firmenbestattungs-Konstellation Mandantenrolle besonders sorgfältig prüfen.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
 - **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung; bei Geschäftsführerhaftung Deckung gesondert prüfen.
 
 ## 4. `rechtsabteilung-auslaendischer-insolvenzverwalter-in-deutschland`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Ausländischer Insolvenzverwalter in Deutschland: Inzidente Anerkennung, Vertretungsmacht und Nachweisform werden als Checkliste geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Ausländischer Insolvenzverwalter in Deutschland: Inzidente Anerkennung, Vertretungsmacht und Nachweisform werden als Checkliste geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland
 

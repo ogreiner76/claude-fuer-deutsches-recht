@@ -1,13 +1,13 @@
 ---
 name: gesundheitsdatenpanne-klinik-goae-analog
-description: "Nutze dies, wenn Gesundheitsdatenpanne Klinik, Goae Analog Innovativ, Grenzueberschreitende Behandlung Eu, Haemovigilanz Blutprodukt im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Gesundheitsdatenpanne Klinik, Goae Analog Innovativ, Grenzueberschreitende Behandlung Eu, Haemovigilanz Blutprodukt prüfen.; Erstelle eine Arbeitsfassung zu Gesundheitsdatenpanne Klinik, Goae Analog Innovativ, Grenzueberschreitende Behandlung Eu, Haemovigilanz Blutprodukt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesundheitsdatenpanne Klinik, Goae Analog Innovativ, Grenzueberschreitende Behandlung Eu, Haemovigilanz Blutprodukt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesundheitsdatenpanne Klinik, Goae Analog Innovativ, Grenzueberschreitende Behandlung Eu, Haemovigilanz Blutprodukt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

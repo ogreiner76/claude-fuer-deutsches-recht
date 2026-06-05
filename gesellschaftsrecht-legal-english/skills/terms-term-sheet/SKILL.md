@@ -1,31 +1,31 @@
 ---
 name: terms-term-sheet
-description: "Nutze dies, wenn Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement prüfen.; Erstelle eine Arbeitsfassung zu Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement
+# Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-terms-risikoampel-und-gegenargumente` | Terms: Risikoampel, Gegenargumente und Verteidigungslinien im Corporate Legal English: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-terms-risikoampel-und-gegenargumente` | Terms: Risikoampel, Gegenargumente und Verteidigungslinien im Corporate Legal English: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `term-sheet-investment-agreement` | Fuehrt durch Term Sheet, Investment Agreement, Bindungswirkung, Conditions, Exclusivity, Confidentiality, Kosten und deutsche Vollzugsmechanik. |
 
 ## Arbeitsweg
 
-Für **Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agreement** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-terms-risikoampel-und-gegenargumente`
 
-**Fokus:** Terms: Risikoampel, Gegenargumente und Verteidigungslinien im Corporate Legal English: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Terms: Risikoampel, Gegenargumente und Verteidigungslinien im Corporate Legal English: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Terms: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -39,7 +39,7 @@ Für **Spezial Terms Risikoampel Und Gegenargumente, Term Sheet Investment Agree
 
 
 ## Spezialwissen: Terms: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Terms: Risikoampel, Gegenargumente und Verteidigungslinien / spezial terms risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Terms: Risikoampel, Gegenargumente und Verteidigungslinien / terms risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** SHA, SPA, DD, HR.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: fristenliste-strafverfahren-aktenlektuere
-description: "Nutze dies, wenn Fristenliste Strafverfahren, Spezial Aktenlektuere Fristennotiz Und Naechster Schritt, Spezial Fristen Mehrparteien Konflikt Und Interessen im Plugin Aktenaufbereiter Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Fristenliste Strafverfahren, Spezial Aktenlektuere Fristennotiz Und Naechster Schritt, Spezial Fristen Mehrparteien Konflikt Und Interessen prüfen.; Erstelle eine Arbeitsfassung zu Fristenliste Strafverfahren, Spezial Aktenlektuere Fristennotiz Und Naechster Schritt, Spezial Fristen Mehrparteien Konflikt Und Interessen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fristenliste Strafverfahren, Aktenlektuere Fristennotiz Und Naechster Schritt, Fristen Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Fristenliste Strafverfahren, Spezial Aktenlektuere Fristennotiz Und Naechster Schritt, Spezial Fristen Mehrparteien Konflikt Und Interessen
+# Fristenliste Strafverfahren, Aktenlektuere Fristennotiz Und Naechster Schritt, Fristen Mehrparteien Konflikt Und Interessen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fristenliste Strafverfahren, Aktenlektuere Fristennotiz Und Naechster Schritt, Fristen Mehrparteien Konflikt Und Interessen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Fristenliste Strafverfahren, Spezial Aktenlektuere Fristennotiz Und Naechster Schritt, Spezial Fristen Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristenliste Strafverfahren, Aktenlektuere Fristennotiz Und Naechster Schritt, Fristen Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -83,7 +83,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 # Aktenlektuere: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Aktenlektuere: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Aktenlektuere: Fristennotiz und nächster Schritt / spezial aktenlektuere fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aktenlektuere: Fristennotiz und nächster Schritt / aktenlektuere fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -124,7 +124,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Fristen: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Fristen: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Fristen: Mehrparteienkonflikt und Interessenmatrix / spezial fristen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fristen: Mehrparteienkonflikt und Interessenmatrix / fristen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, ZPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

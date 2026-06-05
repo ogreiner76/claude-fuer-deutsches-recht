@@ -1,13 +1,13 @@
 ---
 name: iv-cross-iv-eigenverwaltung
-description: "Nutze dies, wenn Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung prüfen.; Erstelle eine Arbeitsfassung zu Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Iv Cross Border Assets Trustee Registervollzug, Iv Eigenverwaltung Sachwaltung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -178,7 +178,7 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA) — Eingriffe in Aktionärsrechte durch StaRUG-Plan im Restrukturierungsverfahren verfassungsrechtlich nicht generell ausgeschlossen; Schlechterstellungsprüfung (§ 66 Abs. 2 Nr. 3 StaRUG) entscheidend.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Zur Verzahnung Eigenverwaltung / Anfechtung: **BGH IX ZR 122/23 vom 05.12.2024** (Bargeschäft / Unlauterkeit) und **BGH IX ZR 129/22 vom 18.04.2024** (Vorsatzanfechtung).
 - Konkrete BGH-Linien zu §§ 270b, 270d InsO (vorläufige Eigenverwaltung, Schutzschirm) und zur Sachwalter-Haftung vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
 

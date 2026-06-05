@@ -1,6 +1,6 @@
 ---
 name: analyse
-description: "Analyse: Erstprüfung, Rollenklärung und Mandatsziel im Arbeitszeugnisrecht: fachlich vertiefter Spezialskill mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Analyse: Erstprüfung, Rollenklärung und Mandatsziel im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
 ---
 
 # Analyse: Erstprüfung, Rollenklärung und Mandatsziel
@@ -12,7 +12,7 @@ description: "Analyse: Erstprüfung, Rollenklärung und Mandatsziel im Arbeitsze
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Spezialwissen: Analyse: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Analyse: Erstprüfung, Rollenklärung und Mandatsziel / spezial analyse erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Analyse: Erstprüfung, Rollenklärung und Mandatsziel / analyse erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

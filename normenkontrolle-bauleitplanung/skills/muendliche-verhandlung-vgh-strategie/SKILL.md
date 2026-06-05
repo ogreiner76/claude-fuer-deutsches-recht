@@ -92,22 +92,22 @@ Die mündliche Verhandlung ist der entscheidende Auftritt. Senatsentscheidungen 
 
 ### Empfohlener Aufbau (15-30 Minuten)
 1. **Einleitung** (1-2 Minuten)
-   - Konkrete Mandantenbetroffenheit
-   - Schlüsselsatz: warum dieser Plan unwirksam ist
+ - Konkrete Mandantenbetroffenheit
+ - Schlüsselsatz: warum dieser Plan unwirksam ist
 2. **Sachverhalt** (2-3 Minuten)
-   - Nur die für den Senat wichtigen Tatsachen
-   - Verweis auf Schriftsatz für Details
+ - Nur die für den Senat wichtigen Tatsachen
+ - Verweis auf Schriftsatz für Details
 3. **Verfahrensfehler** (5-7 Minuten)
-   - Anstoßfunktion / Auslegung / Umweltbericht
-   - Subsumtion § 214 BauGB
+ - Anstoßfunktion / Auslegung / Umweltbericht
+ - Subsumtion § 214 BauGB
 4. **Materielle Fehler** (8-12 Minuten)
-   - Erforderlichkeit (wenn vorhanden) — kurz und scharf
-   - Abwägungsausfall (Vorfestlegung) — mit Belegen
-   - Abwägungsdefizit / Fehlgewichtung — pro Belang
-   - Disproportionalität — Ergebnis
+ - Erforderlichkeit (wenn vorhanden) — kurz und scharf
+ - Abwägungsausfall (Vorfestlegung) — mit Belegen
+ - Abwägungsdefizit / Fehlgewichtung — pro Belang
+ - Disproportionalität — Ergebnis
 5. **Schluss** (1-2 Minuten)
-   - Hilfsantrag Teilunwirksamkeit
-   - Antrag
+ - Hilfsantrag Teilunwirksamkeit
+ - Antrag
 
 ### Stil
 - Frei sprechen, nicht ablesen

@@ -1,6 +1,6 @@
 ---
 name: texte
-description: "Nutze dies, wenn Texte: Zahlen, Schwellenwerte und Berechnung im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Texte: Zahlen, Schwellenwerte und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Texte: Zahlen, Schwellenwerte und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Texte: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Texte: Zahlen, Schwellenwerte und Berechnung

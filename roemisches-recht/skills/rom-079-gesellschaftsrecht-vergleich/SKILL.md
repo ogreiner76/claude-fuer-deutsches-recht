@@ -1,6 +1,6 @@
 ---
 name: rom-079-gesellschaftsrecht-vergleich
-description: "Römisches Recht: Gesellschaftsrecht Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Gesellschaftsrecht Vergleich. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Gesellschaftsrecht Vergleich

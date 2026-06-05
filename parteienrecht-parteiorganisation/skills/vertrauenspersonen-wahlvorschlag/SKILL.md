@@ -8,7 +8,7 @@ description: "Regelt Vertrauenspersonen, Rücknahme/Änderung des Wahlvorschlags
 ## Aufgabe
 Regelt Vertrauenspersonen, Rücknahme/Änderung des Wahlvorschlags, Kommunikation und Risiko interner Konflikte.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

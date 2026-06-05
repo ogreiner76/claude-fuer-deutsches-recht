@@ -1,6 +1,6 @@
 ---
 name: notare-beweislast-darlegungslast
-description: "Nutze dies, wenn Notare: Beweislast, Darlegungslast und Substantiierung im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Notare: Beweislast, Darlegungslast und Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Notare: Beweislast, Darlegungslast und Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notare: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Notare: Beweislast, Darlegungslast und Substantiierung

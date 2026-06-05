@@ -1,13 +1,13 @@
 ---
 name: lease-restrukturierung-stundung-leasing
-description: "Nutze dies, wenn Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung im Plugin Leasingrecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung prüfen.; Erstelle eine Arbeitsfassung zu Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

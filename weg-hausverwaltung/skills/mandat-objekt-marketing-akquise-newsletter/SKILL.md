@@ -1,13 +1,13 @@
 ---
 name: mandat-objekt-marketing-akquise-newsletter
-description: "Nutze dies, wenn Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation prüfen.; Erstelle eine Arbeitsfassung zu Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -69,11 +69,11 @@ Aus einer ungeordneten Verwaltungsakte entsteht ein arbeitsfähiges Objektprofil
 
 1. **Dokumente benennen und Lücken markieren.** (Liste: vorhanden / fehlt / unklar)
 2. **Fristen und irreversible Risiken nach oben ziehen.**
-   - § 45 WEG: 1 Monat Klage, 2 Monate Begründung (BGH V ZR 33/23).
-   - 1 Jahr Erkundigungsobliegenheit bei Zustellungsverzug (BGH V ZR 17/24).
-   - § 556 Abs. 3 BGB: 12 Monate Betriebskostenabrechnung Mieter.
-   - Gewährleistung Werkvertrag 5 J. / VOB 4 J.
-   - GEG § 71 Übergangsfristen für Heizungstausch (Großstädte 30.06.2026, sonst 30.06.2028).
+ - § 45 WEG: 1 Monat Klage, 2 Monate Begründung (BGH V ZR 33/23).
+ - 1 Jahr Erkundigungsobliegenheit bei Zustellungsverzug (BGH V ZR 17/24).
+ - § 556 Abs. 3 BGB: 12 Monate Betriebskostenabrechnung Mieter.
+ - Gewährleistung Werkvertrag 5 J. / VOB 4 J.
+ - GEG § 71 Übergangsfristen für Heizungstausch (Großstädte 30.06.2026, sonst 30.06.2028).
 3. **Vorgänge in Körbe sortieren**: Versammlung, Beschluss, Abrechnung, Bau, Hausgeld, Kommunikation, Datenschutz, Gericht.
 4. **Primären Folge-Skill vorschlagen**.
 

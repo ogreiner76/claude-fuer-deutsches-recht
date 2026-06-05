@@ -1,13 +1,13 @@
 ---
 name: ustva-buchhaltung-ustva-simulation
-description: "Nutze dies, wenn Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Allgemein Ustva Buchhaltung, Kanzlei Allgemein Ustva Simulation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

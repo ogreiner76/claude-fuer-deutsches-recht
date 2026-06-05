@@ -32,10 +32,10 @@ Pruefen: Zustaendigkeitsverteilung Norm und IT; Folgepflichten aus DSGVO; Anschl
 ## Output
 
 ```
-Skill:              legw-rmap-export-und-systemintegration
-Thema:              Export und Integration in Vollzugs-IT
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-export-und-systemintegration
+Thema: Export und Integration in Vollzugs-IT
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

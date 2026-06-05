@@ -8,7 +8,7 @@ description: "Letzte Prüfung vor Einreichung von Wahlvorschlag, Liste, Niedersc
 ## Aufgabe
 Letzte Prüfung vor Einreichung von Wahlvorschlag, Liste, Niederschrift, Zustimmung, Versicherungen und Unterstützungsunterschriften.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

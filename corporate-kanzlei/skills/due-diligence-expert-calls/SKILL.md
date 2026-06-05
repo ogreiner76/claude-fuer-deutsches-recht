@@ -1,13 +1,13 @@
 ---
 name: due-diligence-expert-calls
-description: "Nutze dies, wenn Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -177,12 +177,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Adressat: W&I-Underwriter?
-  → Ja: Full Legal DD Report + No-Claims Declaration + Kopie Q&A-Log beifuegen
-  → Nein: Nur Management-Summary?
-       → Ja: Executive Summary (3-5 Seiten) mit Risk Rating
-       → Nein: Deal-Team intern?
-            → Ja: Red Flag Memo (laufend aktualisiert bis Signing)
-            → Nein: Aufsichtsrat/Financing Bank: Separates Board Paper mit DD-Summary
+ → Ja: Full Legal DD Report + No-Claims Declaration + Kopie Q&A-Log beifuegen
+ → Nein: Nur Management-Summary?
+ → Ja: Executive Summary (3-5 Seiten) mit Risk Rating
+ → Nein: Deal-Team intern?
+ → Ja: Red Flag Memo (laufend aktualisiert bis Signing)
+ → Nein: Aufsichtsrat/Financing Bank: Separates Board Paper mit DD-Summary
 ```
 
 ## Output-Template Integrierter DD-Report
@@ -199,50 +199,50 @@ Erstellt von: [KANZLEI / BERATER]
 VERTRAULICH — NUR FUER BESTIMMUNGSEMPFAENGER
 
 1. EXECUTIVE SUMMARY
-   Gesamtrisikoeinschaetzung: [Hoch / Mittel / Niedrig]
-   Deal-Empfehlung: [Weiterverhandeln / Kaufpreisanpassung / Abbruch pruefen]
-   Wesentliche Befunde: [Top 3-5 Findings in je 1-2 Saetzen]
+ Gesamtrisikoeinschaetzung: [Hoch / Mittel / Niedrig]
+ Deal-Empfehlung: [Weiterverhandeln / Kaufpreisanpassung / Abbruch pruefen]
+ Wesentliche Befunde: [Top 3-5 Findings in je 1-2 Saetzen]
 
 2. SCOPE UND METHODIK
-   Zeitraum: [Von - Bis]
-   Datenraum: [Plattform, Dokumentenzahl, Stand]
-   Workstreams: [Liste]
-   Nicht geprueft: [Ausgeschlossene Bereiche]
+ Zeitraum: [Von - Bis]
+ Datenraum: [Plattform, Dokumentenzahl, Stand]
+ Workstreams: [Liste]
+ Nicht geprueft: [Ausgeschlossene Bereiche]
 
 3. LEGAL DUE DILIGENCE
-   3.1 Corporate / Anteilsstruktur
-   3.2 Wesentliche Vertraege
-   3.3 HR und Arbeitsrecht
-   3.4 IP und IT
-   3.5 Litigation und Behoerdenverfahren
-   3.6 Compliance (GwG, Kartell, Export-Control)
+ 3.1 Corporate / Anteilsstruktur
+ 3.2 Wesentliche Vertraege
+ 3.3 HR und Arbeitsrecht
+ 3.4 IP und IT
+ 3.5 Litigation und Behoerdenverfahren
+ 3.6 Compliance (GwG, Kartell, Export-Control)
 
 4. TAX DUE DILIGENCE (Zusammenfassung)
-   4.1 Koerperschaftsteuer / GewSt
-   4.2 Umsatzsteuer
-   4.3 Verrechnungspreise
-   4.4 Offene Betriebspruefungen
+ 4.1 Koerperschaftsteuer / GewSt
+ 4.2 Umsatzsteuer
+ 4.3 Verrechnungspreise
+ 4.4 Offene Betriebspruefungen
 
 5. FINANCIAL DUE DILIGENCE (Zusammenfassung)
-   5.1 EBITDA-Qualitaet und Normalisierungen
-   5.2 Working Capital und Net Debt
-   5.3 Finanzielle Risiken
+ 5.1 EBITDA-Qualitaet und Normalisierungen
+ 5.2 Working Capital und Net Debt
+ 5.3 Finanzielle Risiken
 
 6. COMMERCIAL DUE DILIGENCE (Zusammenfassung)
-   6.1 Marktposition und Wettbewerb
-   6.2 Kundenkonzentration und Vertragsrisiken
-   6.3 Pipeline und Synergien
+ 6.1 Marktposition und Wettbewerb
+ 6.2 Kundenkonzentration und Vertragsrisiken
+ 6.3 Pipeline und Synergien
 
 7. KONSOLIDIERTE RISIKOMATRIX
-   | Nr. | Workstream | Befund | Risiko | SPA-Empfehlung |
-   |-----|-----------|--------|--------|----------------|
-   | 1   | [WS] | [Befund] | [H/M/N] | [Klausel/Indemnity] |
+ | Nr. | Workstream | Befund | Risiko | SPA-Empfehlung |
+ |-----|-----------|--------|--------|----------------|
+ | 1 | [WS] | [Befund] | [H/M/N] | [Klausel/Indemnity] |
 
 8. SPA-EMPFEHLUNGEN GESAMT
-   [Klauselliste mit Bezug auf Findings]
+ [Klauselliste mit Bezug auf Findings]
 
 9. OFFENE PUNKTE
-   [Q&A-Rueckstaende, fehlende Dokumente]
+ [Q&A-Rueckstaende, fehlende Dokumente]
 
 ANLAGEN:
 - Anlage 1: Legal DD Workstream-Report (vollstaendig)

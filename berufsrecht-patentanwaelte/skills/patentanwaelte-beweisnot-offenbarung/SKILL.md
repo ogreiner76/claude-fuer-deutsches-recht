@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-beweisnot-offenbarung
-description: "Nutze dies, wenn Patentanwaelte Beweisnot Bei Offenbarung Kammerantwort Und Verf, Patentanwaelte Beweisnot Bei Offenbarung Organisationspflicht U, Patentanwaelte Datenraum Und Trade Secrets Kammerantwort Und Ve, Patentanwaelte Datenraum Und Trade Secrets Organisationspflicht im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Beweisnot Bei Offenbarung Kammerantwort Und Verf, Patentanwaelte Beweisnot Bei Offenbarung Organisationspflicht U, Patentanwaelte Datenraum Und Trade Secrets Kammerantwort Und Ve, Patentanwaelte Datenraum Und Trade Secrets Organisationspflicht prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Beweisnot Bei Offenbarung Kammerantwort Und Verf, Patentanwaelte Beweisnot Bei Offenbarung Organisationspflicht U, Patentanwaelte Datenraum Und Trade Secrets Kammerantwort Und Ve, Patentanwaelte Datenraum Und Trade Secrets Organisationspflicht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentanwaelte Beweisnot Bei Offenbarung Kammerantwort Und Verf, Patentanwaelte Beweisnot Bei Offenbarung Organisationspflicht U, Patentanwaelte Datenraum Und Trade Secrets Kammerantwort Und Ve, Patentanwaelte Datenraum Und Trade Secrets Organisationspflicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Beweisnot Bei Offenbarung Kammerantwort Und Verf, Patentanwaelte Beweisnot Bei Offenbarung Organisationspflicht U, Patentanwaelte Datenraum Und Trade Secrets Kammerantwort Und Ve, Patentanwaelte Datenraum Und Trade Secrets Organisationspflicht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Beweisnot Bei Offenbarung Kammerantwort Und Verf, Patentanwaelte Beweisnot Bei Offenbarung Organisationspflicht U, Patentanwaelte Datenraum Und Trade Secrets Kammerantwort Und Ve, Patentanwaelte Datenraum Und Trade Secrets Organisationspflicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

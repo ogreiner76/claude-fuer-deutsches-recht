@@ -1,13 +1,13 @@
 ---
 name: strafbefehl-einspruch-aktenanlage
-description: "Nutze dies, wenn Spezial Gegen Fristen Form Und Zustaendigkeit, Strafbefehl Fristen Einspruch, Strafbefehl Aktenanlage im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gegen Fristen Form Und Zustaendigkeit, Strafbefehl Fristen Einspruch, Strafbefehl Aktenanlage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gegen Fristen Form Und Zustaendigkeit, Strafbefehl Fristen Einspruch, Strafbefehl Aktenanlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gegen Fristen Form Und Zustaendigkeit, Strafbefehl Fristen Einspruch, Strafbefehl Aktenanlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Gegen Fristen Form Und Zustaendigkeit, Strafbefehl Fristen Einspruch, Strafbefehl Aktenanlage
+# Gegen Fristen Form Und Zustaendigkeit, Strafbefehl Fristen Einspruch, Strafbefehl Aktenanlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gegen Fristen Form Und Zustaendigkeit, Strafbefehl Fristen Einspruch, Strafbefehl Aktenanlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Gegen Fristen Form Und Zustaendigkeit, Strafbefehl Fristen Einspruch, Strafbefehl Aktenanlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gegen Fristen Form Und Zustaendigkeit, Strafbefehl Fristen Einspruch, Strafbefehl Aktenanlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -113,19 +113,19 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Mandanteninteresse?
 ├─ Freispruch / Einstellung angestrebt
-│   └─ Unbeschraenkter Einspruch → Hauptverhandlung voll
+│ └─ Unbeschraenkter Einspruch → Hauptverhandlung voll
 ├─ Schuld anerkannt, nur Strafe verringern
-│   └─ Beschraenkter Einspruch § 410 Abs. 2 StPO auf Rechtsfolgen
-│       ├─ Geldstrafe zu hoch? → Nettoeinkommen belegen
-│       └─ Fahrverbot angreifbar? → Haertefallargument pruefen
+│ └─ Beschraenkter Einspruch § 410 Abs. 2 StPO auf Rechtsfolgen
+│ ├─ Geldstrafe zu hoch? → Nettoeinkommen belegen
+│ └─ Fahrverbot angreifbar? → Haertefallargument pruefen
 └─ Einstellung wuenschenswert
-    └─ Vor Hauptverhandlung § 153a-Antrag bei Staatsanwaltschaft
+ └─ Vor Hauptverhandlung § 153a-Antrag bei Staatsanwaltschaft
 
 Zustellungsdatum klar?
 ├─ Ja → Frist berechnen, Einspruch formulieren
 └─ Nein
-    ├─ Mandant erinnert sich an Datum → Frist berechnen + Sicherheitspuffer
-    └─ Datum unklar → Wiedereinsetzungsantrag nach § 44 StPO parallel vorbereiten
+ ├─ Mandant erinnert sich an Datum → Frist berechnen + Sicherheitspuffer
+ └─ Datum unklar → Wiedereinsetzungsantrag nach § 44 StPO parallel vorbereiten
 ```
 
 ## Output-Template Einspruchsschreiben
@@ -210,43 +210,43 @@ Mit freundlichen Gruessen
 
 ```
 01_MANDANT
-   - Vollmacht Original
-   - Personalien, Kontakt
-   - Mandantenziel (schriftlich)
+ - Vollmacht Original
+ - Personalien, Kontakt
+ - Mandantenziel (schriftlich)
 
 02_STRAFBEFEHL
-   - Strafbefehl Original / Kopie
-   - Zustellungsurkunde
-   - § 409-Pruefungs-Notiz
+ - Strafbefehl Original / Kopie
+ - Zustellungsurkunde
+ - § 409-Pruefungs-Notiz
 
 03_FRISTEN
-   - Fristen-Uebersicht (Excel oder Tabelle)
-   - Einspruchsfrist: [DATUM]
-   - Revisionsbegründungsfrist (falls noetig): [DATUM]
+ - Fristen-Uebersicht (Excel oder Tabelle)
+ - Einspruchsfrist: [DATUM]
+ - Revisionsbegründungsfrist (falls noetig): [DATUM]
 
 04_SCHRIFTSAETZE_AUSGEHEND
-   - Einspruch (mit Eingangsbestaetigung)
-   - Akteneinsichtsantrag
-   - Weitere Antraege
+ - Einspruch (mit Eingangsbestaetigung)
+ - Akteneinsichtsantrag
+ - Weitere Antraege
 
 05_AKTENEINSICHT
-   - Ermittlungsakte vollstaendig
-   - Messakte (bei Verkehrsdelikten)
-   - Beweismittelverzeichnis
+ - Ermittlungsakte vollstaendig
+ - Messakte (bei Verkehrsdelikten)
+ - Beweismittelverzeichnis
 
 06_KORRESPONDENZ
-   - Behörden, Gericht, StA
-   - E-Mails chronologisch
+ - Behörden, Gericht, StA
+ - E-Mails chronologisch
 
 07_HAUPTVERHANDLUNG
-   - Einlassung (Endfassung)
-   - Beweisantraege
-   - Plaedoyer
+ - Einlassung (Endfassung)
+ - Beweisantraege
+ - Plaedoyer
 
 08_URTEIL_RECHTSMITTEL
-   - Urteil Original
-   - Rechtsmittelschrift
-   - Revisionsbegründung
+ - Urteil Original
+ - Rechtsmittelschrift
+ - Revisionsbegründung
 ```
 
 ## Fristen-Uebersicht — Template

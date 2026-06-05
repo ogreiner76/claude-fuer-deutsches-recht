@@ -1,22 +1,22 @@
 ---
 name: beirat-startup-investor-streit-gesellschafter
-description: "Nutze dies, wenn Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Verguetung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Transaktionen Ma, Beirat Vergütung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-startup-investor-director` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Startup Investor Director; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-streit-gesellschafter` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-transaktionen-ma` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-verguetung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Verguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-startup-investor-director` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Startup Investor Director; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-streit-gesellschafter` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-transaktionen-ma` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-verguetung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Verguetung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Beirat Startup Investor Director, Beirat Streit Gesellschafter, Beirat Tr
 
 ## 1. `beirat-startup-investor-director`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Startup Investor Director; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Startup Investor Director; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Startup Investor Director
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-streit-gesellschafter`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Streit Gesellschafter
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-transaktionen-ma`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Transaktionen M&A
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-verguetung`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Verguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Verguetung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Verguetung
 

@@ -1,13 +1,13 @@
 ---
 name: behutsame-frech-haeufige-fehler
-description: "Nutze dies, wenn Behutsame Frech Wertschaetzende Rueckfragen, Haeufige Fehler Vermeiden, Selbstkontrolle Vor Abgabe im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Behutsame Frech Wertschaetzende Rueckfragen, Haeufige Fehler Vermeiden, Selbstkontrolle Vor Abgabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Behutsame Frech Wertschaetzende Rueckfragen, Haeufige Fehler Vermeiden, Selbstkontrolle Vor Abgabe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Behutsame Frech Wertschaetzende Rueckfragen, Haeufige Fehler Vermeiden, Selbstkontrolle Vor Abgabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -785,5 +785,5 @@ Wenn nicht — überarbeite noch eine Stunde.
 - Ggf. zurück zu einem früheren Skill, wenn Lücken erkannt.
 
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  nicht "Formale Korrektheit als Bestandteil professioneller Leistung". Kein geeigneter Ersatz gefunden; Zeile gelöscht.
+ nicht "Formale Korrektheit als Bestandteil professioneller Leistung". Kein geeigneter Ersatz gefunden; Zeile gelöscht.
 -->

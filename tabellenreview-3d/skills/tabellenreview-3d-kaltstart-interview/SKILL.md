@@ -89,11 +89,11 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/t
 
 - Was eingerichtet wurde
 - Welche Skills jetzt sinnvoll als nächstes laufen können:
-  - `/tabellenreview-3d:würfel-aufbauen` — Würfel-Struktur für ein neues Projekt anlegen
-  - `/tabellenreview-3d:vorlage-ma-due-diligence` — bei M&A-DD direkt mit Vorlage starten
-  - `/tabellenreview-3d:vorlage-immobilien-portfolio` — bei Immobilienportfolio
-  - `/tabellenreview-3d:vorlage-arbeitsvertrag-portfolio` — bei Massenprüfung Arbeitsverträge
-  - `/tabellenreview-3d:vorlage-vendor-onboarding-3d` — bei Lieferanten-Anbindung
+ - `/tabellenreview-3d:würfel-aufbauen` — Würfel-Struktur für ein neues Projekt anlegen
+ - `/tabellenreview-3d:vorlage-ma-due-diligence` — bei M&A-DD direkt mit Vorlage starten
+ - `/tabellenreview-3d:vorlage-immobilien-portfolio` — bei Immobilienportfolio
+ - `/tabellenreview-3d:vorlage-arbeitsvertrag-portfolio` — bei Massenprüfung Arbeitsverträge
+ - `/tabellenreview-3d:vorlage-vendor-onboarding-3d` — bei Lieferanten-Anbindung
 - Hinweis auf Mandatsgeheimnis (Paragraph 43a Absatz 2 BRAO, Paragraph 203 StGB) und Notwendigkeit anwaltlicher Endabnahme
 
 ## Rechtlicher Rahmen

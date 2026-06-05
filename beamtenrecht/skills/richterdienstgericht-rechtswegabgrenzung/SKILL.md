@@ -1,13 +1,13 @@
 ---
 name: richterdienstgericht-rechtswegabgrenzung
-description: "Nutze dies, wenn Richterdienstgericht Und Rechtswegabgrenzung, Richterliche Unabhaengigkeit Dienstaufsicht, Richterwahl Art 33 Ii Und Praesidialrat, Ruhensregelung 53 Beamtvg im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Richterdienstgericht Und Rechtswegabgrenzung, Richterliche Unabhaengigkeit Dienstaufsicht, Richterwahl Art 33 Ii Und Praesidialrat, Ruhensregelung 53 Beamtvg prüfen.; Erstelle eine Arbeitsfassung zu Richterdienstgericht Und Rechtswegabgrenzung, Richterliche Unabhaengigkeit Dienstaufsicht, Richterwahl Art 33 Ii Und Praesidialrat, Ruhensregelung 53 Beamtvg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Richterdienstgericht Und Rechtswegabgrenzung, Richterliche Unabhaengigkeit Dienstaufsicht, Richterwahl Art 33 Ii Und Praesidialrat, Ruhensregelung 53 Beamtvg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Richterdienstgericht Und Rechtswegabgrenzung, Richterliche Unabhaengigkeit Dienstaufsicht, Richterwahl Art 33 Ii Und Praesidialrat, Ruhensregelung 53 Beamtvg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -39,15 +39,15 @@ Nicht jeder Streit eines Richters gehört zum Richterdienstgericht. Nicht jeder 
 ## Entscheidungsbaum
 
 1. Geht es um einen Eingriff in richterliche Unabhängigkeit?
-   - Dann Richterdienstgericht prüfen.
+ - Dann Richterdienstgericht prüfen.
 2. Geht es um Status, Ernennung, Versetzung, Entlassung, Disziplinarrecht?
-   - Spezialzuständigkeiten nach DRiG/Landesrichtergesetz prüfen.
+ - Spezialzuständigkeiten nach DRiG/Landesrichtergesetz prüfen.
 3. Geht es um Beihilfe, Besoldung, Versorgung, Reisekosten?
-   - Häufig Verwaltungsgerichtsbarkeit, aber Landesrecht prüfen.
+ - Häufig Verwaltungsgerichtsbarkeit, aber Landesrecht prüfen.
 4. Geht es um Geschäftsverteilung?
-   - Präsidialverfassung, gesetzlicher Richter, konkretes Verfahren und Rechtsschutzlage trennen.
+ - Präsidialverfassung, gesetzlicher Richter, konkretes Verfahren und Rechtsschutzlage trennen.
 5. Geht es um Beurteilung/Beförderung?
-   - Art. 33 Abs. 2 GG, Präsidialrat/Richterwahlausschuss und Rechtsweg prüfen.
+ - Art. 33 Abs. 2 GG, Präsidialrat/Richterwahlausschuss und Rechtsweg prüfen.
 
 ## Intake
 

@@ -1,13 +1,13 @@
 ---
 name: strafverfolgung-beweisbewertung-territorialer
-description: "Nutze dies, wenn Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50 im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50 prüfen.; Erstelle eine Arbeitsfassung zu Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

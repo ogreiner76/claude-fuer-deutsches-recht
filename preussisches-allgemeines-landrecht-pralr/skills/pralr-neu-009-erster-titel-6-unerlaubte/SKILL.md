@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-009-erster-titel-6-unerlaubte
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen

@@ -1,13 +1,13 @@
 ---
 name: schulung-urteilsbauer-aktenintake-beschluss
-description: "Nutze dies, wenn Schulung Urteilsbauer, Spezial Aktenintake Schriftsatz Brief Und Memo Bausteine, Spezial Beschluss Tatbestand Beweis Und Belege im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Schulung Urteilsbauer, Spezial Aktenintake Schriftsatz Brief Und Memo Bausteine, Spezial Beschluss Tatbestand Beweis Und Belege
+# Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Schulung Urteilsbauer, Spezial Aktenintake Schriftsatz Brief Und Memo Bausteine, Spezial Beschluss Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urteilsbauer-relationsmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `urteilsbauer-relationsmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -155,7 +155,7 @@ Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnac
 # Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine / spezial aktenintake schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine / aktenintake schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DOCX, ZPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -196,7 +196,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial beschluss tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage / beschluss tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DOCX, ZPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

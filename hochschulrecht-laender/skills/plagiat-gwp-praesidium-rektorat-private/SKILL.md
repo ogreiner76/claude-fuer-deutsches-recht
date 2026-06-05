@@ -1,13 +1,13 @@
 ---
 name: plagiat-gwp-praesidium-rektorat-private
-description: "Nutze dies, wenn Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung im Plugin Hochschulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung prüfen.; Erstelle eine Arbeitsfassung zu Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

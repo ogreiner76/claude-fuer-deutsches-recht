@@ -1,13 +1,13 @@
 ---
 name: kv-familienversicherung-kv-statusfeststellung
-description: "Nutze dies, wenn Kv 062 Familienversicherung Einkommensgrenze Minijob, Kv 063 Statusfeststellung Und Krankenversicherung, Kv 064 Sperrzeit Arbeitslosengeld Und Krankenversicherung im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 062 Familienversicherung Einkommensgrenze Minijob, Kv 063 Statusfeststellung Und Krankenversicherung, Kv 064 Sperrzeit Arbeitslosengeld Und Krankenversicherung prüfen.; Erstelle eine Arbeitsfassung zu Kv 062 Familienversicherung Einkommensgrenze Minijob, Kv 063 Statusfeststellung Und Krankenversicherung, Kv 064 Sperrzeit Arbeitslosengeld Und Krankenversicherung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 062 Familienversicherung Einkommensgrenze Minijob, Kv 063 Statusfeststellung Und Krankenversicherung, Kv 064 Sperrzeit Arbeitslosengeld Und Krankenversicherung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 062 Familienversicherung Einkommensgrenze Minijob, Kv 063 Statusfeststellung Und Krankenversicherung, Kv 064 Sperrzeit Arbeitslosengeld Und Krankenversicherung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 062 Familienversicherung Einkommensgrenze Minijob, Kv 063 Statusfeststellung Und Krankenversicherung, Kv 064 Sperrzeit Arbeitslosengeld Und Krankenversicherung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

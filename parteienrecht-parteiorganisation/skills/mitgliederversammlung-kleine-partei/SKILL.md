@@ -1,14 +1,14 @@
 ---
 name: mitgliederversammlung-kleine-partei
-description: "Niedrigschwelliger Workflow für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte."
+description: "Nutze dies bei Kleine Partei Praxis: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Kleine Partei Praxis
 
 ## Aufgabe
-Niedrigschwelliger Workflow für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte.
+Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

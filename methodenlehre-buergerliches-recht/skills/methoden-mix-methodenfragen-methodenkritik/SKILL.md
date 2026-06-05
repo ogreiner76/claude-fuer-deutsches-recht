@@ -1,13 +1,13 @@
 ---
 name: methoden-mix-methodenfragen-methodenkritik
-description: "Nutze dies, wenn Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit prüfen.; Erstelle eine Arbeitsfassung zu Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden, Methodenwahl Ergebnisoffenheit Audit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -448,10 +448,10 @@ Die Konkretisierung einer Generalklausel ist an Grundrechten, Verfassungsprinzip
 2. **Frage(n)**
 3. **Ergebnis in einem Satz** (Kurzantwort)
 4. **Rechtliche Bewertung**
-   - Anspruchsgrundlage / Prüfungsmaßstab
-   - Tatbestandsmerkmale, jeweils mit Subsumtion
-   - Streitstand bei umstrittenen Fragen
-   - Ergebnis je Tatbestandsmerkmal
+ - Anspruchsgrundlage / Prüfungsmaßstab
+ - Tatbestandsmerkmale, jeweils mit Subsumtion
+ - Streitstand bei umstrittenen Fragen
+ - Ergebnis je Tatbestandsmerkmal
 5. **Gesamtergebnis**
 6. **Risiken / offene Punkte**
 7. **Quellenverzeichnis** (nach Hauszitierweise — siehe Plugin `zitierweise-deutsches-recht`)

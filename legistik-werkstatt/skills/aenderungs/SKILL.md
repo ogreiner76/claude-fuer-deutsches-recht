@@ -1,12 +1,12 @@
 ---
 name: aenderungs
-description: "Nutze dies, wenn Aenderungs: Formular, Portal und Einreichungslogik im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Aenderungs: Formular, Portal und Einreichungslogik prüfen.; Erstelle eine Arbeitsfassung zu Aenderungs: Formular, Portal und Einreichungslogik.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aenderungs: Formular, Portal und Einreichungslogik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Aenderungs: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Aenderungs: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Aenderungs: Formular, Portal und Einreichungslogik / spezial aenderungs formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aenderungs: Formular, Portal und Einreichungslogik / aenderungs formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

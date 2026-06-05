@@ -1,6 +1,6 @@
 ---
 name: rom-074-bereicherungsrecht-vergleich
-description: "Römisches Recht: Bereicherungsrecht Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Bereicherungsrecht Vergleich. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Bereicherungsrecht Vergleich

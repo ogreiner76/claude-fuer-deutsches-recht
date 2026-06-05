@@ -1,22 +1,22 @@
 ---
 name: rechtsabteilung-pe-closing-continuation-fund
-description: "Nutze dies, wenn Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise prüfen.; Erstelle eine Arbeitsfassung zu Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pe 103 Closing Bible Pe, Rechtsabteilung Continuation Fund Und Conflict Governance, Rechtsabteilung Debt Push Down Und Financial Assistance, Rechtsabteilung Sanierungsgutachten Bei Add On Krise** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-103-closing-bible-pe` | Erstellt Closing Bible, Signaturketten, Registerbelege, Funds Flow, CP-Erfüllung und Post-Closing-Ablage. |
-| `rechtsabteilung-continuation-fund-und-conflict-governance` | Rechtsabteilungs-Spezialskill für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-debt-push-down-und-financial-assistance` | Rechtsabteilungs-Spezialskill für Debt Push-down und Financial Assistance: Akquisitionsfinanzierung wird auf Upstream-Security- und Cashflow-Fallen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-sanierungsgutachten-bei-add-on-krise` | Rechtsabteilungs-Spezialskill für Sanierungsgutachten bei Add-on-Krise: PE-Haus und Portfoliogeschäftsführung erhalten ein Distress-Decision-Memo. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-continuation-fund-und-conflict-governance` | Rechtsabteilungs-Fachmodul für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-debt-push-down-und-financial-assistance` | Rechtsabteilungs-Fachmodul für Debt Push-down und Financial Assistance: Akquisitionsfinanzierung wird auf Upstream-Security- und Cashflow-Fallen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-sanierungsgutachten-bei-add-on-krise` | Rechtsabteilungs-Fachmodul für Sanierungsgutachten bei Add-on-Krise: PE-Haus und Portfoliogeschäftsführung erhalten ein Distress-Decision-Memo. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -68,7 +68,7 @@ SPA, Kreditvertrag, Notar/Register, KYC, Fonds-Approvals.
 
 ## 2. `rechtsabteilung-continuation-fund-und-conflict-governance`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Continuation Fund und Conflict Governance
 
@@ -115,7 +115,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-debt-push-down-und-financial-assistance`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Debt Push-down und Financial Assistance: Akquisitionsfinanzierung wird auf Upstream-Security- und Cashflow-Fallen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Debt Push-down und Financial Assistance: Akquisitionsfinanzierung wird auf Upstream-Security- und Cashflow-Fallen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Debt Push-down und Financial Assistance
 
@@ -162,7 +162,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-sanierungsgutachten-bei-add-on-krise`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Sanierungsgutachten bei Add-on-Krise: PE-Haus und Portfoliogeschäftsführung erhalten ein Distress-Decision-Memo. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Sanierungsgutachten bei Add-on-Krise: PE-Haus und Portfoliogeschäftsführung erhalten ein Distress-Decision-Memo. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Sanierungsgutachten bei Add-on-Krise
 

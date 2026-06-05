@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Konsularrecht und Passrecht
-Ressort:            AA
-Kernnormen:         KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).
-Akteure/Aufsicht:   Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).
-EU/Voelkerrecht:    Visa-Kodex; Schengen; ETIAS.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Konsularrecht und Passrecht
+Ressort: AA
+Kernnormen: KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).
+Akteure/Aufsicht: Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).
+EU/Voelkerrecht: Visa-Kodex; Schengen; ETIAS.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-aa; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

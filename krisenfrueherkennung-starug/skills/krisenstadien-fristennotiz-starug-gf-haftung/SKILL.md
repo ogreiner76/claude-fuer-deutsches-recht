@@ -1,13 +1,13 @@
 ---
 name: krisenstadien-fristennotiz-starug-gf-haftung
-description: "Nutze dies, wenn Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg prüfen.; Erstelle eine Arbeitsfassung zu Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Krisenstadien Fristennotiz Und Naechster Schritt, Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg
+# Krisenstadien Fristennotiz Und Naechster Schritt, Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Krisenstadien Fristennotiz Und Naechster Schritt, Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Krisenstadien Fristennotiz Und Naechster Schritt, Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Krisenstadien Fristennotiz Und Naechster Schritt, Spezial Starug 
 # Krisenstadien: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Krisenstadien: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Krisenstadien: Fristennotiz und nächster Schritt / spezial krisenstadien fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Krisenstadien: Fristennotiz und nächster Schritt / krisenstadien fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg / spezial starug fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg / starug fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -172,8 +172,8 @@ Seit dem 1. Januar 2021 (SanInsFoG) gilt das Zahlungsverbot des § 15b InsO: Nac
 Das StaRUG ist ein vorinsolvenzliches Instrument. Es schützt denjenigen, der rechtzeitig handelt — also bei drohender Zahlungsunfähigkeit (§ 18 InsO), nicht bei eingetretener. Das Verhältnis:
 
 ```
-StaRUG-Zugang:    Drohende Zahlungsunfähigkeit (§ 18 InsO) — 24-Monats-Horizont
-InsO-Pflicht:     Eingetretene Zahlungsunfähigkeit (§ 17 InsO) ODER Überschuldung (§ 19 InsO)
+StaRUG-Zugang: Drohende Zahlungsunfähigkeit (§ 18 InsO) — 24-Monats-Horizont
+InsO-Pflicht: Eingetretene Zahlungsunfähigkeit (§ 17 InsO) ODER Überschuldung (§ 19 InsO)
 Drei-Wochen-Frist: Ab Kenntnis des Insolvenzgrundes
 ```
 
@@ -225,30 +225,30 @@ Monat: [MM/JJJJ]
 Erstellt von: [Name GF]
 
 1. LIQUIDITÄTSLAGE
-   Liquiditätsreichweite aktuell: [x] Monate
-   Vormonat: [x] Monate
-   Trend: [Verbesserung / stabil / Verschlechterung]
+ Liquiditätsreichweite aktuell: [x] Monate
+ Vormonat: [x] Monate
+ Trend: [Verbesserung / stabil / Verschlechterung]
 
 2. FRÜHWARNINDIKATOREN
-   EBITDA lfd. Jahr: EUR [___] (Plan: EUR [___])
-   Net-Debt/EBITDA: [x,xx]x
-   Covenant-Headroom: [x] %
+ EBITDA lfd. Jahr: EUR [___] (Plan: EUR [___])
+ Net-Debt/EBITDA: [x,xx]x
+ Covenant-Headroom: [x] %
 
 3. MASSNAHMEN
-   Laufende Maßnahmen: [Beschreibung]
-   Neu beschlossen: [Beschreibung]
-   Verantwortlich: [Name]
-   Frist: [Datum]
+ Laufende Maßnahmen: [Beschreibung]
+ Neu beschlossen: [Beschreibung]
+ Verantwortlich: [Name]
+ Frist: [Datum]
 
 4. ESKALATION
-   Gesellschafter informiert am: [Datum / noch nicht]
-   AR informiert am: [Datum / nicht anwendbar]
-   Berater (StB/WP/RA) informiert am: [Datum]
+ Gesellschafter informiert am: [Datum / noch nicht]
+ AR informiert am: [Datum / nicht anwendbar]
+ Berater (StB/WP/RA) informiert am: [Datum]
 
 5. INSOLVENZREIFE-PRÜFUNG
-   Zahlungsunfähigkeit eingetreten? [ ] Ja [ ] Nein
-   Überschuldung eingetreten? [ ] Ja [ ] Nein
-   Grundlage der Einschätzung: [eigene Analyse / Beratertestat / IDW S 11 Gutachten]
+ Zahlungsunfähigkeit eingetreten? [ ] Ja [ ] Nein
+ Überschuldung eingetreten? [ ] Ja [ ] Nein
+ Grundlage der Einschätzung: [eigene Analyse / Beratertestat / IDW S 11 Gutachten]
 
 Unterschrift: _________________________ Datum: _____________
 ```
@@ -265,11 +265,11 @@ Anwesend: alle Gesellschafter / [x von y Anteilen]
 Die Gesellschafterversammlung beschließt einstimmig / mit [x/y-Mehrheit]:
 
 1. Die Geschäftsführung wird beauftragt, ein Krisenfrüherkennungssystem
-   nach § 1 StaRUG und IDW PS 340 n.F. zu implementieren.
+ nach § 1 StaRUG und IDW PS 340 n.F. zu implementieren.
 2. Es wird eine rollierende 24-Monats-Liquiditätsplanung eingeführt
-   mit monatlicher Berichterstattung an die Gesellschafter.
+ mit monatlicher Berichterstattung an die Gesellschafter.
 3. Die Geschäftsführung wird ermächtigt, externe Restrukturierungsberater
-   zu beauftragen.
+ zu beauftragen.
 4. Sanierungsmaßnahmen gemäß Anlage 1 werden genehmigt.
 
 [Ort], [Datum]

@@ -1,13 +1,13 @@
 ---
 name: annahmen-sammeln-bilanzieller-status
-description: "Nutze dies, wenn Annahmen Sammeln Fortfuehrung, Bilanzieller Status Aufnehmen, Comfortletter Weich Erzeugen im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Bitte Annahmen Sammeln Fortfuehrung, Bilanzieller Status Aufnehmen, Comfortletter Weich Erzeugen prüfen.; Erstelle eine Arbeitsfassung zu Annahmen Sammeln Fortfuehrung, Bilanzieller Status Aufnehmen, Comfortletter Weich Erzeugen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Annahmen Sammeln Fortfuehrung, Bilanzieller Status Aufnehmen, Comfortletter Weich Erzeugen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Annahmen Sammeln Fortfuehrung, Bilanzieller Status Aufnehmen, Comfortletter Weich Erzeugen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Annahmen Sammeln Fortfuehrung, Bilanzieller Status Aufnehmen, Comfortletter Weich Erzeugen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -40,25 +40,25 @@ IDW S 11 (Beurteilung von Insolvenzeröffnungsgründen) und IDW S 6 (Sanierungsk
 
 ```yaml
 annahmen:
-  - bezeichnung: Umsatzentwicklung Hauptgeschaeft
-    art: umsatz
-    horizont-monate: 12
-    werte:
-      - monat: 2026-06
-        wert: 195000
-      - monat: 2026-07
-        wert: 180000
-      # ...
-    begruendung: |
-      Vorjahreswerte plus 3% Wachstum bei stabiler Auftragslage.
-      Auftragsbestand zum 20.05.2026 deckt bis September 2026.
-    belege:
-      - auftragsbestand-2026-05-20.xlsx
-      - kundenbestätigung-grossauftrag-X.pdf
-    risiko: mittel  # niedrig / mittel / hoch
-    sensitivitaet:
-      negativ-szenario: -15% Umsatz waehrend zweier Monate
-      positiv-szenario: +10% Umsatz
+ - bezeichnung: Umsatzentwicklung Hauptgeschaeft
+ art: umsatz
+ horizont-monate: 12
+ werte:
+ - monat: 2026-06
+ wert: 195000
+ - monat: 2026-07
+ wert: 180000
+ # ...
+ begruendung: |
+ Vorjahreswerte plus 3% Wachstum bei stabiler Auftragslage.
+ Auftragsbestand zum 20.05.2026 deckt bis September 2026.
+ belege:
+ - auftragsbestand-2026-05-20.xlsx
+ - kundenbestätigung-grossauftrag-X.pdf
+ risiko: mittel # niedrig / mittel / hoch
+ sensitivitaet:
+ negativ-szenario: -15% Umsatz waehrend zweier Monate
+ positiv-szenario: +10% Umsatz
 ```
 
 ## Annahmebereiche
@@ -123,56 +123,56 @@ Jede Annahme braucht:
 ```yaml
 prognose-id: FP-2026-0001
 stichtag: 2026-05-20
-horizont-monate: 12  # gesetzlicher Maßstab seit SanInsFoG 2021
+horizont-monate: 12 # gesetzlicher Maßstab seit SanInsFoG 2021
 
 annahmen:
-  umsatz:
-    - bezeichnung: Hauptsegment Produktion
-      monatswerte: [195000, 180000, 220000, 240000, 230000, 200000, 190000, 195000, 210000, 220000, 215000, 225000]
-      begruendung: Auftragsbestand bis September 2026; Mai-Oktober historisch +10% über Schnitt
-      belege: [auftragsbestand-2026-05-20.xlsx]
-      risiko: mittel
+ umsatz:
+ - bezeichnung: Hauptsegment Produktion
+ monatswerte: [195000, 180000, 220000, 240000, 230000, 200000, 190000, 195000, 210000, 220000, 215000, 225000]
+ begruendung: Auftragsbestand bis September 2026; Mai-Oktober historisch +10% über Schnitt
+ belege: [auftragsbestand-2026-05-20.xlsx]
+ risiko: mittel
 
-  kosten:
-    - bezeichnung: Material und Energie
-      basismonats-wert: 95000
-      jahressteigerung: 3%
-      begruendung: Lieferantenverträge bis 06/2027 Indexbindung 3%
-      belege: [lieferantenverträge-übersicht.xlsx]
-      risiko: niedrig
-    - bezeichnung: Personalkosten
-      basismonats-wert: 78000
-      jahressteigerung: 4%
-      begruendung: Tarifabschluss Metall 04/2026 4% per 01.07.2026
-      belege: [tarifabschluss-04-2026.pdf]
-      risiko: niedrig
+ kosten:
+ - bezeichnung: Material und Energie
+ basismonats-wert: 95000
+ jahressteigerung: 3%
+ begruendung: Lieferantenverträge bis 06/2027 Indexbindung 3%
+ belege: [lieferantenverträge-übersicht.xlsx]
+ risiko: niedrig
+ - bezeichnung: Personalkosten
+ basismonats-wert: 78000
+ jahressteigerung: 4%
+ begruendung: Tarifabschluss Metall 04/2026 4% per 01.07.2026
+ belege: [tarifabschluss-04-2026.pdf]
+ risiko: niedrig
 
-  working-capital:
-    forderungstage-soll: 30
-    forderungstage-ist: 42
-    vorratsreichweite-soll: 60
-    vorratsreichweite-ist: 75
-    begruendung-abweichung: kundenseits verzoegerte Zahlungen seit Q1 2026
-    massnahmen: Mahnwesen verschärft
+ working-capital:
+ forderungstage-soll: 30
+ forderungstage-ist: 42
+ vorratsreichweite-soll: 60
+ vorratsreichweite-ist: 75
+ begruendung-abweichung: kundenseits verzoegerte Zahlungen seit Q1 2026
+ massnahmen: Mahnwesen verschärft
 
-  investitionen:
-    - bezeichnung: Ersatzinvestition CNC
-      betrag: 80000
-      monat: 2026-09
-      finanzierung: Sale-and-Lease-back
+ investitionen:
+ - bezeichnung: Ersatzinvestition CNC
+ betrag: 80000
+ monat: 2026-09
+ finanzierung: Sale-and-Lease-back
 
-  finanzierung:
-    bank-kreditlinie: 150000
-    ausnutzung-ist: 92%
-    gesellschafterdarlehen-mit-rangruecktritt: 120000
-    weitere-massnahmen: keine
+ finanzierung:
+ bank-kreditlinie: 150000
+ ausnutzung-ist: 92%
+ gesellschafterdarlehen-mit-rangruecktritt: 120000
+ weitere-massnahmen: keine
 
-  sanierungsmassnahmen:
-    - bezeichnung: Standortschliessung Nebenwerk
-      effekt-monatlich: 12000
-      ab-monat: 2026-08
-      einmalkosten: 60000
-      einmalkosten-monat: 2026-07
+ sanierungsmassnahmen:
+ - bezeichnung: Standortschliessung Nebenwerk
+ effekt-monatlich: 12000
+ ab-monat: 2026-08
+ einmalkosten: 60000
+ einmalkosten-monat: 2026-07
 ```
 
 ## Ausgabe
@@ -218,42 +218,42 @@ Der **bilanzielle** Überschuldungsstatus ist die Voraussetzung um in die Prüfu
 ## Stichtagsbilanz
 
 ```yaml
-stichtag: 2026-05-20  # oder Bilanzstichtag des letzten Jahresabschlusses
-bilanzansatz: hgb  # hgb / ifrs / mischung
+stichtag: 2026-05-20 # oder Bilanzstichtag des letzten Jahresabschlusses
+bilanzansatz: hgb # hgb / ifrs / mischung
 
 aktiva:
-  a-anlagevermoegen:
-    immaterielle: 50000
-    sachanlagen: 320000
-    finanzanlagen: 0
-  b-umlaufvermoegen:
-    vorraete: 180000
-    forderungen-laul: 120000
-    sonstige-forderungen: 15000
-    fluessige-mittel: 18000
-  c-rechnungsabgrenzung: 5000
-  aktiva-summe: 708000
+ a-anlagevermoegen:
+ immaterielle: 50000
+ sachanlagen: 320000
+ finanzanlagen: 0
+ b-umlaufvermoegen:
+ vorraete: 180000
+ forderungen-laul: 120000
+ sonstige-forderungen: 15000
+ fluessige-mittel: 18000
+ c-rechnungsabgrenzung: 5000
+ aktiva-summe: 708000
 
 passiva:
-  a-eigenkapital:
-    gezeichnetes-kapital: 25000
-    kapitalruecklage: 0
-    gewinnruecklagen: 0
-    bilanzergebnis: -107000  # negativ
-    eigenkapital-summe: -82000  # negativ
-  b-rueckstellungen:
-    pensionen: 0
-    sonstige: 22000
-  c-verbindlichkeiten:
-    banken: 250000
-    lieferanten: 410000
-    sonstige: 38000
-    steuern: 25000
-    sozialversicherung: 45000
-  d-rechnungsabgrenzung: 0
-  passiva-summe: 708000
+ a-eigenkapital:
+ gezeichnetes-kapital: 25000
+ kapitalruecklage: 0
+ gewinnruecklagen: 0
+ bilanzergebnis: -107000 # negativ
+ eigenkapital-summe: -82000 # negativ
+ b-rueckstellungen:
+ pensionen: 0
+ sonstige: 22000
+ c-verbindlichkeiten:
+ banken: 250000
+ lieferanten: 410000
+ sonstige: 38000
+ steuern: 25000
+ sozialversicherung: 45000
+ d-rechnungsabgrenzung: 0
+ passiva-summe: 708000
 
-bilanzielle-ueberschuldung: ja  # Aktiva = Passiva aber EK negativ = bilanzielle Überschuldung
+bilanzielle-ueberschuldung: ja # Aktiva = Passiva aber EK negativ = bilanzielle Überschuldung
 hoehe-bilanzielle-ueberschuldung: 82000
 ```
 
@@ -263,14 +263,14 @@ Vermögenswerte deren Buchwert geringer ist als der Verkehrswert. Im Status zu a
 
 ```yaml
 stille-reserven:
-  - position: CNC-Anlage
-    buchwert: 95000
-    verkehrswert: 180000
-    stille-reserve: 85000
-  - position: Betriebsgrundstueck
-    buchwert: 120000
-    verkehrswert: 210000
-    stille-reserve: 90000
+ - position: CNC-Anlage
+ buchwert: 95000
+ verkehrswert: 180000
+ stille-reserve: 85000
+ - position: Betriebsgrundstueck
+ buchwert: 120000
+ verkehrswert: 210000
+ stille-reserve: 90000
 summe-stille-reserven: 175000
 ```
 
@@ -280,12 +280,12 @@ Verpflichtungen die in der Handelsbilanz nicht oder zu niedrig passiviert sind. 
 
 ```yaml
 stille-lasten:
-  - position: Drohende Inanspruchnahme aus Bürgschaft
-    bilanziell: 0
-    insolvenzrechtlich: 50000
-  - position: Pensionsrückstellung Erfüllungsbetrag versus Bilanzwert
-    bilanziell: 0
-    insolvenzrechtlich: 30000
+ - position: Drohende Inanspruchnahme aus Bürgschaft
+ bilanziell: 0
+ insolvenzrechtlich: 50000
+ - position: Pensionsrückstellung Erfüllungsbetrag versus Bilanzwert
+ bilanziell: 0
+ insolvenzrechtlich: 30000
 summe-stille-lasten: 80000
 ```
 
@@ -295,27 +295,27 @@ Forderungen mit qualifiziertem Rangrücktritt (§ 19 Abs. 2 S. 2 InsO) werden im
 
 ```yaml
 qualifizierter-rangruecktritt:
-  - glaeubiger: Hauptgesellschafter Karl Mueller
-    forderung: Gesellschafterdarlehen vom 15.03.2024
-    nennbetrag: 120000
-    rangruecktritt-erklaert-am: 2026-05-22
-    rangruecktritt-form: notarielle Urkunde  # idealtypisch
-    bgh-konform: ja  # siehe Skill gesellschafterdarlehen-rangrücktritt
+ - glaeubiger: Hauptgesellschafter Karl Mueller
+ forderung: Gesellschafterdarlehen vom 15.03.2024
+ nennbetrag: 120000
+ rangruecktritt-erklaert-am: 2026-05-22
+ rangruecktritt-form: notarielle Urkunde # idealtypisch
+ bgh-konform: ja # siehe Skill gesellschafterdarlehen-rangrücktritt
 ```
 
 ## Insolvenzrechtlicher Überschuldungsstatus
 
 ```
-Aktiva (Handelsbilanz)          708.000 EUR
-+ stille Reserven               175.000 EUR
-- stille Lasten                 -80.000 EUR
-= Insolvenzrechtliche Aktiva    803.000 EUR
+Aktiva (Handelsbilanz) 708.000 EUR
++ stille Reserven 175.000 EUR
+- stille Lasten -80.000 EUR
+= Insolvenzrechtliche Aktiva 803.000 EUR
 
-Passiva (Handelsbilanz)         790.000 EUR  (Aktiva minus EK)
+Passiva (Handelsbilanz) 790.000 EUR (Aktiva minus EK)
 - qualifizierter Rangrücktritt -120.000 EUR
-= Insolvenzrechtliche Passiva   670.000 EUR
+= Insolvenzrechtliche Passiva 670.000 EUR
 
-Differenz                       133.000 EUR positiv
+Differenz 133.000 EUR positiv
 ```
 
 Ergebnis: trotz **bilanzieller Überschuldung von 82.000 EUR** ist die **insolvenzrechtliche Bilanzbasis positiv** weil stille Reserven und Rangrücktritt dies neutralisieren. Reine Vermögensbilanz **ist nicht ausreichend** — die Fortbestehensprognose ist zusätzlich erforderlich (Skill `annahmen-sammeln-fortfuehrung`).

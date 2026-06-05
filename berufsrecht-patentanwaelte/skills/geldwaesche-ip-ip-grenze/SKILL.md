@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-ip-ip-grenze
-description: "Nutze dies, wenn Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Organisationspf, Patentanwaelte Hochschul Erfindung Und Ip Policy Kammerantwort im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Organisationspf, Patentanwaelte Hochschul Erfindung Und Ip Policy Kammerantwort prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelt..."
+description: "Nutze dies bei Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Organisationspf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Organisationspf, Patentanwaelte Hochschul Erfindung Und Ip Policy Kammerantwort
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Geldwaesche Bei Ip Transaktionen Kammerantwort U, Patentanwaelte Geldwaesche Bei Ip Transaktionen Organisationspf, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Kammerantwort U, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Organisationspf, Patentanwaelte Hochschul Erfindung Und Ip Policy Kammerantwort** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -8,7 +8,7 @@ description: "Sammelt aktuelle amtliche Quellen zu BGB, AO, Registergericht, Fin
 ## Aufgabe
 Sammelt aktuelle amtliche Quellen zu BGB, AO, Registergericht, Finanzamt, Landesrecht und Satzung vor Ausgabe.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

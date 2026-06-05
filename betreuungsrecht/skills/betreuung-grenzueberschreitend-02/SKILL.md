@@ -1,13 +1,13 @@
 ---
 name: betreuung-grenzueberschreitend-02
-description: "Nutze dies, wenn Betreuung Grenzueberschreitend, Betreuungsantrag Erstellen, Betreuungsgericht Kommunikation Für Angehoerige im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Betreuung Grenzueberschreitend, Betreuungsantrag Erstellen, Betreuungsgericht Kommunikation Für Angehoerige prüfen.; Erstelle eine Arbeitsfassung zu Betreuung Grenzueberschreitend, Betreuungsantrag Erstellen, Betreuungsgericht Kommunikation Für Angehoerige.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betreuung Grenzueberschreitend, Betreuungsantrag Erstellen, Betreuungsgericht Kommunikation Für Angehoerige: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Betreuung Grenzueberschreitend, Betreuungsantrag Erstellen, Betreuungsgericht Kommunikation Für Angehoerige
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Betreuung Grenzueberschreitend, Betreuungsantrag Erstellen, Betreuungsgericht Kommunikation Für Angehoerige** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

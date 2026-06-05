@@ -1,13 +1,13 @@
 ---
 name: lieferverzug-orientierung-mandat-triage
-description: "Nutze dies, wenn Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht im Plugin Fachanwalt Transport Speditionsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport Speditionsrecht Orientierung, Mandat Triage Transport Speditionsrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -67,8 +67,8 @@ Für **Fachanwalt Transport Speditionsrecht Lieferverzug, Fachanwalt Transport S
 4. Schadensanzeige 21 Tage gewahrt?
 5. Entlastungsbeweis Frachtfuehrer
 6. Schadenshoehe
-   - HGB: dreifache Fracht § 431 Abs. 3 HGB
-   - CMR: Frachtbetrag Art. 23 Abs. 5 CMR
+ - HGB: dreifache Fracht § 431 Abs. 3 HGB
+ - CMR: Frachtbetrag Art. 23 Abs. 5 CMR
 7. Wertdeklaration § 449 HGB / Art. 26 CMR pruefen
 8. Qualifiziertes Verschulden § 435 HGB / Art. 29 CMR
 9. Wegfall Lieferinteresse § 423 HGB — Schadensersatz statt Erfuellung
@@ -87,17 +87,17 @@ ersatz wegen Lieferverzugs aus dem Frachtvertrag vom [Datum]
 
 Sachverhalt:
 - Vereinbarte Lieferfrist: Ankunft beim Empfaenger spaetestens [Datum/
-  Uhrzeit] gemaess Frachtauftrag Ziffer [X] (Anlage K1)
+ Uhrzeit] gemaess Frachtauftrag Ziffer [X] (Anlage K1)
 - Tatsaechliche Ablieferung: [Datum/Uhrzeit] = [N] Stunden / Tage
-  Verzug
+ Verzug
 - Schadensanzeige § 438 Abs. 3 HGB / Art. 30 Abs. 3 CMR mit Schreiben
-  vom [Datum] (innerhalb 21 Tage)
+ vom [Datum] (innerhalb 21 Tage)
 
 Haftung:
 - Lieferfrist nicht eingehalten § 423 HGB / Art. 19 CMR
 - Entlastung § 426 HGB / Art. 17 Abs. 2 CMR nicht ersichtlich
 - Hilfsweise Qualifiziertes Verschulden § 435 HGB / Art. 29 CMR durch
-  [Pflichtverletzung]
+ [Pflichtverletzung]
 
 Schaden:
 - Vertragsstrafe an Endkunde EUR [Betrag] (Anlage K2)
@@ -162,9 +162,9 @@ Mit freundlichen Gruessen
 ## Fristen
 
 - **Reklamationsfrist** HGB / CMR / Montrealer:
-  - HGB § 438 — sieben Tage bei äußerlich erkennbarem Schaden binnen drei Tagen.
-  - CMR Art. 30 — sofort bei Annahme Verluste / Beschädigung; sieben Tage bei nicht erkennbaren.
-  - Montrealer Art. 31 — 14 Tage Beschädigung 21 Tage Verspätung.
+ - HGB § 438 — sieben Tage bei äußerlich erkennbarem Schaden binnen drei Tagen.
+ - CMR Art. 30 — sofort bei Annahme Verluste / Beschädigung; sieben Tage bei nicht erkennbaren.
+ - Montrealer Art. 31 — 14 Tage Beschädigung 21 Tage Verspätung.
 - **Verjährung Frachtschaden** § 439 HGB — ein Jahr (drei Jahre bei Vorsatz / grob fahrlaessig).
 - **CMR Art. 32** — ein Jahr (drei Jahre bei Vorsatz).
 - **Klagefrist Fluggast** keine Frist im Montrealer; Verjährung zwei Jahre Art. 35 MontU.
@@ -278,7 +278,7 @@ Transportmandate sind zeitkritisch — Reklamationsfristen sind kurz und können
 | Frachtforderung-Klage | (Skill frachtforderung — perspektivisch) |
 | Multimodal-Vertrag | (Skill multimodal — perspektivisch) |
 | Gefahrgut ADR | (Skill gefahrgut-adr — perspektivisch) |
-| Zollrecht | weiter an `mandat-triage-verwaltungsrecht` plus Spezial |
+| Zollrecht | weiter an `mandat-triage-verwaltungsrecht` plus |
 | Versicherungs-Streit | weiter an `mandat-triage-versicherungsrecht` |
 
 ## Mandatsannahme

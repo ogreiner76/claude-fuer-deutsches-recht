@@ -41,9 +41,9 @@ Die Pruefung erfolgt in drei strikt zu trennenden Phasen.
 
 - Steuerliche Gewinnermittlung gem. **§ 8 Abs. 1 KStG i.V.m. § 5 Abs. 1 EStG i.V.m. §§ 246 ff. HGB** (Maszgeblichkeitsprinzip).
 - Passivierungspflicht setzt drei Merkmale voraus (staend. Rspr.):
-  1. **bestimmter Verpflichtungsinhalt** (rechtlich oder wirtschaftlich entstanden),
-  2. **durchsetzbar** (kein faktischer Verzicht),
-  3. **wirtschaftliche Belastung** der Schuldnerin.
+ 1. **bestimmter Verpflichtungsinhalt** (rechtlich oder wirtschaftlich entstanden),
+ 2. **durchsetzbar** (kein faktischer Verzicht),
+ 3. **wirtschaftliche Belastung** der Schuldnerin.
 
 Maszgebliche Leitentscheidung: **BFH, Urteil v. 30.11.2011 — I R 100/10, DStR 2012, 450.** Dort hat der BFH klargestellt, dass eine Verbindlichkeit nur zu passivieren ist, wenn sie die Schuldnerin auch wirtschaftlich belastet. Allein die rechtliche Existenz reicht nicht; fehlt die wirtschaftliche Belastung, ist die Verbindlichkeit gewinnwirksam aufzuloesen.
 
@@ -222,29 +222,29 @@ Betrag: EUR [Nominale]
 Stichtag: [Datum]
 
 I. Phase 1 — Passivierung dem Grunde nach
-   1. Verpflichtungsinhalt: [ja/nein]
-   2. Durchsetzbarkeit: [ja/nein]
-   3. Wirtschaftliche Belastung: [BFH I R 100/10]
-   4. § 5 Abs. 2a EStG: [greift/greift nicht — Begruendung]
-   Zwischenergebnis: [passivierungspflichtig/nicht]
+ 1. Verpflichtungsinhalt: [ja/nein]
+ 2. Durchsetzbarkeit: [ja/nein]
+ 3. Wirtschaftliche Belastung: [BFH I R 100/10]
+ 4. § 5 Abs. 2a EStG: [greift/greift nicht — Begruendung]
+ Zwischenergebnis: [passivierungspflichtig/nicht]
 
 II. Phase 2 — Hoehe
-   1. Nennwert nach § 6 Abs. 1 Nr. 3 EStG / § 12 Abs. 1 BewG
-   2. Streitstand wirtschaftliche Belastung in Liquidation
-   3. Heranziehung FG Koeln 13 K 3006/11 / BFH I R 34/12
-   Zwischenergebnis: [Hoehe der Passivierung]
+ 1. Nennwert nach § 6 Abs. 1 Nr. 3 EStG / § 12 Abs. 1 BewG
+ 2. Streitstand wirtschaftliche Belastung in Liquidation
+ 3. Heranziehung FG Koeln 13 K 3006/11 / BFH I R 34/12
+ Zwischenergebnis: [Hoehe der Passivierung]
 
 III. Phase 3 — Wegfall mit Erloeschen
-   1. Loeschungsfahigkeit (§ 74 GmbHG)
-   2. Rechtstheoretischer Gewinn
-   3. Steuersubjektivitaet im Loeschungszeitpunkt
-   Ergebnis: [steuerpflichtig ja/nein]
+ 1. Loeschungsfahigkeit (§ 74 GmbHG)
+ 2. Rechtstheoretischer Gewinn
+ 3. Steuersubjektivitaet im Loeschungszeitpunkt
+ Ergebnis: [steuerpflichtig ja/nein]
 
 IV. Empfehlung
-   - Verbindliche Auskunft § 89 AO
-   - Wortlautpruefung Rangruecktritt
-   - Loeschungsverfahren mit FA abstimmen
-   - Mindestbesteuerung / Definitiveffekt — Einspruch ruhend
+ - Verbindliche Auskunft § 89 AO
+ - Wortlautpruefung Rangruecktritt
+ - Loeschungsverfahren mit FA abstimmen
+ - Mindestbesteuerung / Definitiveffekt — Einspruch ruhend
 ```
 
 ### 8.2 Verbindliche Auskunft § 89 AO — Antragsskizze
@@ -261,30 +261,30 @@ Sachverhalt:
 
 Steuerliche Fragen:
 1. Ist das Gesellschafterdarlehen i.H.v. EUR [...] in der
-   Liquidationsbilanz zum [Stichtag] weiterhin zu passivieren?
+ Liquidationsbilanz zum [Stichtag] weiterhin zu passivieren?
 2. Falls ja: Bleibt die Passivierung bis zum Loeschungs-
-   zeitpunkt im Handelsregister bestehen?
+ zeitpunkt im Handelsregister bestehen?
 3. Falls die Verbindlichkeit mit Loeschung untergeht: Ist
-   der dadurch rechtstheoretisch entstehende Gewinn mangels
-   Koerperschaftsteuersubjekt nicht festsetzbar?
+ der dadurch rechtstheoretisch entstehende Gewinn mangels
+ Koerperschaftsteuersubjekt nicht festsetzbar?
 4. Falls Hilfsweise vor Loeschung Sanierungsertrag entsteht:
-   Greift § 3a EStG (Sanierungseignung) — oder ist die
-   Liquidation kein Sanierungsfall?
+ Greift § 3a EStG (Sanierungseignung) — oder ist die
+ Liquidation kein Sanierungsfall?
 
 Rechtsauffassung der Antragstellerin:
-   - § 5 Abs. 2a EStG nicht einschlaegig (Tilgungsvorbehalt
-     aus freiem Vermoegen) — BFH XI R 32/18.
-   - Passivierungspflicht bis Loeschung — FG Koeln 13 K 3006/11
-     (vorgehend zu BFH I R 34/12).
-   - OFD Frankfurt 26.07.2021 — S 2743 A-12-St 523.
-   - Bei Loeschung: Steuerausfall mangels Subjekt.
+ - § 5 Abs. 2a EStG nicht einschlaegig (Tilgungsvorbehalt
+ aus freiem Vermoegen) — BFH XI R 32/18.
+ - Passivierungspflicht bis Loeschung — FG Koeln 13 K 3006/11
+ (vorgehend zu BFH I R 34/12).
+ - OFD Frankfurt 26.07.2021 — S 2743 A-12-St 523.
+ - Bei Loeschung: Steuerausfall mangels Subjekt.
 
 Anlagen:
-   - Aufloesungsbeschluss
-   - Liquidations-Eroeffnungsbilanz
-   - Rangruecktrittsvereinbarung
-   - Glaeubigerliste
-   - Steuerbescheide letzte drei Jahre
+ - Aufloesungsbeschluss
+ - Liquidations-Eroeffnungsbilanz
+ - Rangruecktrittsvereinbarung
+ - Glaeubigerliste
+ - Steuerbescheide letzte drei Jahre
 ```
 
 ## 9. Beispiele aus der Praxis

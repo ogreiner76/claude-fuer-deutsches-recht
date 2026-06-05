@@ -1,6 +1,6 @@
 ---
 name: 675v-quellenkarte
-description: "Nutze dies, wenn 675v Quellenkarte im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei 675v Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # 675v Quellenkarte

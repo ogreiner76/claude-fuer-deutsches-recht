@@ -1,13 +1,13 @@
 ---
 name: belegarzt-honorar-patientenrechte
-description: "Nutze dies, wenn Belegarzt Honorar Und Krankenhausvertrag, Patientenrechte Behandlungsvertrag Aufklaerung, Geburtshilfe Haftung Hebammen Schnittstelle im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Belegarzt Honorar Und Krankenhausvertrag, Patientenrechte Behandlungsvertrag Aufklaerung, Geburtshilfe Haftung Hebammen Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Belegarzt Honorar Und Krankenhausvertrag, Patientenrechte Behandlungsvertrag Aufklaerung, Geburtshilfe Haftung Hebammen Schnittstelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Belegarzt Honorar Und Krankenhausvertrag, Patientenrechte Behandlungsvertrag Aufklaerung, Geburtshilfe Haftung Hebammen Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Belegarzt Honorar Und Krankenhausvertrag, Patientenrechte Behandlungsvertrag Aufklaerung, Geburtshilfe Haftung Hebammen Schnittstelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Belegarzt Honorar Und Krankenhausvertrag, Patientenrechte Behandlungsvertrag Aufklaerung, Geburtshilfe Haftung Hebammen Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -100,7 +100,7 @@ Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltn
 - **MBO-Aerzte** (Berufsordnung) — Aufklaerungsstandards.
 - **StGB §§ 223 ff., 203** Strafbarkeit Koerperverletzung ohne wirksame Einwilligung; Schweigepflicht.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Behandlungsvertrag klaeren:** Wer ist Vertragspartner (Krankenhaus, Wahlarzt, Belegarzt)?
 2. **Aufklaerungspflicht pruefen:** Diagnose, Risiken, Alternativen, wirtschaftliche Aufklaerung; Zeitpunkt (ausreichender Vorlauf).
 3. **Einwilligung verifizieren:** Schriftform empfohlen, dokumentierte Eigenentscheidung, Einwilligungsfaehigkeit.

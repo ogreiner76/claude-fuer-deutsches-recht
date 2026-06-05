@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Gebrauchsmusterrecht: klärt technische Lehre, Offenbarung, Anmeldung, Abzweigung, Recherche, Registerstand, Verletzung, Löschung und passende Spezialskills."
+description: "Einstieg, Schnelltriage und Fallrouting im Gebrauchsmusterrecht: klärt technische Lehre, Offenbarung, Anmeldung, Abzweigung, Recherche, Registerstand, Verletzung, Löschung und passende Fachmodule."
 ---
 
 # Allgemein

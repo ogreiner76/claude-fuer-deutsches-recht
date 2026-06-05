@@ -1,13 +1,13 @@
 ---
 name: bautraeger-leistungsbeschreibung
-description: "Nutze dies, wenn Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv Buchfuehrungspflicht 10, Bautraeger Mabv Erweiterte Sicherheit 7, Bautraeger Mabv Gewerberechtliche Folgen im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv Buchfuehrungspflicht 10, Bautraeger Mabv Erweiterte Sicherheit 7, Bautraeger Mabv Gewerberechtliche Folgen prüfen.; Erstelle eine Arbeitsfassung zu Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv Buchfuehrungspflicht 10, Bautraeger Mabv Erweiterte Sicherheit 7, Bautraeger Mabv Gewerberechtliche Folgen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv Buchfuehrungspflicht 10, Bautraeger Mabv Erweiterte Sicherheit 7, Bautraeger Mabv Gewerberechtliche Folgen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv Buchfuehrungspflicht 10, Bautraeger Mabv Erweiterte Sicherheit 7, Bautraeger Mabv Gewerberechtliche Folgen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bautraeger Leistungsbeschreibung Baubeschreibung, Bautraeger Mabv Buchfuehrungspflicht 10, Bautraeger Mabv Erweiterte Sicherheit 7, Bautraeger Mabv Gewerberechtliche Folgen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -157,10 +157,10 @@ Seit 01.01.2018: Bautraegervertraege mit Verbrauchern sind Verbraucherbauvertrae
 ## Praxis
 
 - Erwerber kann bei Verstoss:
-  - Ratenzahlung verweigern.
-  - Vertragsanpassung verlangen.
-  - Schadensersatz fordern.
-  - Anzeige bei Gewerbeaufsicht erstatten.
+ - Ratenzahlung verweigern.
+ - Vertragsanpassung verlangen.
+ - Schadensersatz fordern.
+ - Anzeige bei Gewerbeaufsicht erstatten.
 
 ## Pruefraster
 

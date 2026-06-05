@@ -36,7 +36,7 @@ description: "Unterschiede in der Sanierungsertragsbehandlung zwischen Körpersc
 - **§ 15 EStG** — Einkünfte aus Gewerbebetrieb (Personengesellschaft).
 - **§ 17 EStG** — Anteile an Kapitalgesellschaften.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### KSt-Pfad
 
@@ -88,27 +88,27 @@ description: "Unterschiede in der Sanierungsertragsbehandlung zwischen Körpersc
 ### Vergleich KSt vs. ESt — gleiche Sanierung
 
 ```
-Sanierungsertrag in beiden Fällen     EUR 1.500.000
+Sanierungsertrag in beiden Fällen EUR 1.500.000
 
 Variante A: GmbH (KSt-Pfad)
-  KSt-Verlustvortrag                  EUR 1.000.000
-  Mindestbesteuerung: Sockel + 60 %   
-  voll nutzbar bis 1.000.000
-  
-  Sanierungsertrag - Vortrag           EUR   500.000
-  Antrag § 3a Abs. 4 EStG für 500.000 ► steuerfrei
-  KSt + SolZ ohne Antrag: ~ EUR    79.000
-  GewSt (410 % Hebesatz): ~ EUR     72.000
+ KSt-Verlustvortrag EUR 1.000.000
+ Mindestbesteuerung: Sockel + 60 %
+ voll nutzbar bis 1.000.000
+
+ Sanierungsertrag - Vortrag EUR 500.000
+ Antrag § 3a Abs. 4 EStG für 500.000 ► steuerfrei
+ KSt + SolZ ohne Antrag: ~ EUR 79.000
+ GewSt (410 % Hebesatz): ~ EUR 72.000
 
 Variante B: Einzelunternehmer (ESt-Pfad)
-  ESt-Verlustvortrag                  EUR 1.000.000
-  Mindestbesteuerung gleich
-  Sanierungsertrag - Vortrag           EUR   500.000
-  
-  Antrag § 3a Abs. 4 EStG für 500.000 ► steuerfrei
-  ESt-Spitzensteuersatz 42 % + SolZ
-  ESt ohne Antrag: ~ EUR             220.000
-  GewSt mit Anrechnung § 35 EStG: ~ EUR  72.000 (anrechenbar)
+ ESt-Verlustvortrag EUR 1.000.000
+ Mindestbesteuerung gleich
+ Sanierungsertrag - Vortrag EUR 500.000
+
+ Antrag § 3a Abs. 4 EStG für 500.000 ► steuerfrei
+ ESt-Spitzensteuersatz 42 % + SolZ
+ ESt ohne Antrag: ~ EUR 220.000
+ GewSt mit Anrechnung § 35 EStG: ~ EUR 72.000 (anrechenbar)
 
 ► ESt-Last ohne Antrag drastisch höher
 ► Antrag § 3a EStG bei ESt besonders wichtig

@@ -1,6 +1,6 @@
 ---
 name: eingehenden-quellenkarte
-description: "Nutze dies, wenn Eingehenden Quellenkarte im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Eingehenden Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Eingehenden Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: mehrsprachige-antwort-muster-erstantwort-spam
-description: "Nutze dies, wenn Mehrsprachige Antwort, Muster Erstantwort, Spam Und Massen Anfrage Filter im Plugin Mandantenanfragen Assistent konkret bearbeitet werden soll. Auslöser: Bitte Mehrsprachige Antwort, Muster Erstantwort, Spam Und Massen Anfrage Filter prüfen.; Erstelle eine Arbeitsfassung zu Mehrsprachige Antwort, Muster Erstantwort, Spam Und Massen Anfrage Filter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mehrsprachige Antwort, Muster Erstantwort, Spam Und Massen Anfrage Filter, [kanzlei Name]: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mehrsprachige Antwort, Muster Erstantwort, Spam Und Massen Anfrage Filter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mehrsprachige Antwort, Muster Erstantwort, Spam Und Massen Anfrage Filter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -232,17 +232,17 @@ begründet und keine Rechtsberatung darstellt.
 Für ein erstes Beratungsgespräch vergeben wir Termine ausschließlich
 telefonisch. Unser Sekretariat erreichen Sie unter:
 
-  [SEKRETARIATS-TELEFON]
-  [ERREICHBARKEITSZEITEN]
+ [SEKRETARIATS-TELEFON]
+ [ERREICHBARKEITSZEITEN]
 
 Um Ihr Anliegen bestmöglich vorzubereiten, bitten wir Sie herzlich,
 uns Ihren Sachverhalt vorab kurz per E-Mail zu schildern. Folgende
 Angaben helfen uns dabei:
 
-  — Worum geht es in Ihrem Fall (in einigen Sätzen)?
-  — Wann hat das zugrunde liegende Ereignis stattgefunden?
-  — Gibt es Fristen, Termine oder behördliche Bescheide?
-  — Wer ist die Gegenseite (Person, Unternehmen, Behörde)?
+ — Worum geht es in Ihrem Fall (in einigen Sätzen)?
+ — Wann hat das zugrunde liegende Ereignis stattgefunden?
+ — Gibt es Fristen, Termine oder behördliche Bescheide?
+ — Wer ist die Gegenseite (Person, Unternehmen, Behörde)?
 
 Mit freundlichen Grüßen
 
@@ -290,22 +290,22 @@ begründet und keine Rechtsberatung darstellt.
 Für ein erstes Beratungsgespräch vergeben wir Termine ausschließlich
 telefonisch. Unser Sekretariat erreichen Sie unter:
 
-  [SEKRETARIATS-TELEFON]
-  [ERREICHBARKEITSZEITEN]
+ [SEKRETARIATS-TELEFON]
+ [ERREICHBARKEITSZEITEN]
 
 Da Ihnen eine schriftliche Schilderung schwerfällt, bieten wir Ihnen
 einen automatisierten Transkriptionsservice an. Sie rufen unter der
 folgenden Nummer an und schildern Ihr Anliegen mündlich — es wird
 automatisch verschriftlicht und uns vertraulich übermittelt:
 
-  Transkriptionsservice: [TRANSKRIPTIONS-TELEFON]
+ Transkriptionsservice: [TRANSKRIPTIONS-TELEFON]
 
 Ablauf des Anrufs:
-  1. Automatische Ansage mit Datenschutzhinweis
-  2. Bestätigung Ihres Einverständnisses (Tastendruck oder "Ja")
-     — Ohne Bestätigung keine Aufnahme.
-  3. Freie Schilderung Ihres Anliegens
-  4. Automatische Verschriftung und vertrauliche Weiterleitung an uns
+ 1. Automatische Ansage mit Datenschutzhinweis
+ 2. Bestätigung Ihres Einverständnisses (Tastendruck oder "Ja")
+ — Ohne Bestätigung keine Aufnahme.
+ 3. Freie Schilderung Ihres Anliegens
+ 4. Automatische Verschriftung und vertrauliche Weiterleitung an uns
 
 Wichtiger Datenschutzhinweis: Da zwischen uns noch kein Mandatsverhältnis
 besteht, erfolgt die Verarbeitung Ihrer Sprachdaten ausschließlich auf
@@ -449,10 +449,10 @@ Die folgenden Merkmale sprechen gegen Spam:
 ```
 SPAM-CHECK ERGEBNIS
 ===================
-Status:      [KLAR / VERDÄCHTIG / SPAM — TYP]
-Konfidenz:   [HOCH / MITTEL / NIEDRIG]
+Status: [KLAR / VERDÄCHTIG / SPAM — TYP]
+Konfidenz: [HOCH / MITTEL / NIEDRIG]
 Erkannte Muster: [Liste der erkannten Muster oder "keine"]
-Empfehlung:  [Normale Bearbeitung / Manuelle Prüfung / Aussortieren / IT-Meldung]
+Empfehlung: [Normale Bearbeitung / Manuelle Prüfung / Aussortieren / IT-Meldung]
 ```
 
 ## Verhalten bei SPAM-Erkennung

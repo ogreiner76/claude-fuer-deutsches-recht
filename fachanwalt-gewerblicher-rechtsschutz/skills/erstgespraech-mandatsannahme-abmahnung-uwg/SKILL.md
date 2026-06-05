@@ -1,13 +1,13 @@
 ---
 name: erstgespraech-mandatsannahme-abmahnung-uwg
-description: "Nutze dies, wenn Erstgespraech Mandatsannahme, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Uwg, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Vergleich Wipo im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Erstgespraech Mandatsannahme, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Uwg, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Vergleich Wipo prüfen.; Erstelle eine Arbeitsfassung zu Erstgespraech Mandatsannahme, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Uwg, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Vergleich Wipo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erstgespraech Mandatsannahme, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Uwg, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Vergleich Wipo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erstgespraech Mandatsannahme, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Uwg, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Vergleich Wipo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erstgespraech Mandatsannahme, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Uwg, Fachanwalt Gewerblicher Rechtsschutz Abmahnung Vergleich Wipo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -111,20 +111,20 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 MANDATSBOGEN — MARKEN-/PATENT-/DESIGN-/WETTBEWERBSRECHT
 
-Datum:            [TT.MM.JJJJ]
-Aktenzeichen:     [INTERN]
-Mandant:          [NAME, Geburtsdatum, Adresse, Telefon, E-Mail]
-Gegner:           [NAME, Adresse, ggf. anwaltliche Vertretung]
-Sachverhalt:      [5-10 Saetze]
+Datum: [TT.MM.JJJJ]
+Aktenzeichen: [INTERN]
+Mandant: [NAME, Geburtsdatum, Adresse, Telefon, E-Mail]
+Gegner: [NAME, Adresse, ggf. anwaltliche Vertretung]
+Sachverhalt: [5-10 Saetze]
 Ziel des Mandats: [Eine Zeile]
-Schutzrecht:      [ ] Marke  [ ] Design  [ ] Patent  [ ] UWG  [ ] Sonstiges
-Frist:            [DATUM] — Bereich: [Widerspruch/Abmahnung/Klage/Einspruch]
-Konflikt-Check:   [ ] geprueft, kein Konflikt  [ ] Einwilligung liegt vor
-GwG:              [ ] Identifizierung erfolgt  [ ] Risiko: [niedrig/mittel/hoch]
-Vollmacht:        [ ] unterschrieben am [DATUM]
-Streitwert:       ca. [BETRAG] EUR (Schaetzung)
-Honorar:          [ ] RVG  [ ] Stundenhonorar [BETRAG EUR/h]  [ ] Pauschale
-Vorschuss:        [BETRAG] EUR, faellig [DATUM]
+Schutzrecht: [ ] Marke [ ] Design [ ] Patent [ ] UWG [ ] Sonstiges
+Frist: [DATUM] — Bereich: [Widerspruch/Abmahnung/Klage/Einspruch]
+Konflikt-Check: [ ] geprueft, kein Konflikt [ ] Einwilligung liegt vor
+GwG: [ ] Identifizierung erfolgt [ ] Risiko: [niedrig/mittel/hoch]
+Vollmacht: [ ] unterschrieben am [DATUM]
+Streitwert: ca. [BETRAG] EUR (Schaetzung)
+Honorar: [ ] RVG [ ] Stundenhonorar [BETRAG EUR/h] [ ] Pauschale
+Vorschuss: [BETRAG] EUR, faellig [DATUM]
 Naechste Schritte: 1. [MASSNAHME] bis [DATUM] — 2. [MASSNAHME] bis [DATUM]
 ```
 
@@ -141,7 +141,7 @@ vielen Dank fuer unser heutiges Gespraech. Ich fasse die wesentlichen Punkte zus
 2. Handlungsbedarf: [Welche Schritte eingeleitet werden]
 3. Naechste Frist: [DATUM] — [Was bis dahin geschieht]
 4. Kosten: Auf Basis des Streitwerts von ca. [BETRAG] EUR fallen Anwaltsgebuehren
-   nach RVG von ca. [BETRAG] EUR an. [Ggf. Stundenhonorar erlaeutern.]
+ nach RVG von ca. [BETRAG] EUR an. [Ggf. Stundenhonorar erlaeutern.]
 5. Bitte senden Sie mir bis [DATUM] folgende Unterlagen: [Liste]
 
 Mit freundlichen Gruessen
@@ -152,29 +152,29 @@ Mit freundlichen Gruessen
 
 ```
 Schritt 1: Frist identifizieren
-  → Jedes mitgebrachte Schreiben auf Fristen scannen
-  → Kalender-Alarm mit 3-Tage-Vorlauf
+ → Jedes mitgebrachte Schreiben auf Fristen scannen
+ → Kalender-Alarm mit 3-Tage-Vorlauf
 
 Schritt 2: Konflikt-Check
-  → Mandantensystem abfragen: Gegner, Sachzusammenhang
-  → Bei Konflikt: ablehnen und schriftlich mitteilen
+ → Mandantensystem abfragen: Gegner, Sachzusammenhang
+ → Bei Konflikt: ablehnen und schriftlich mitteilen
 
 Schritt 3: GwG-Pruefung
-  → Ausweis kopieren und im Akt ablegen
-  → Risikoklasse vermerken
+ → Ausweis kopieren und im Akt ablegen
+ → Risikoklasse vermerken
 
 Schritt 4: Vollmacht unterschreiben lassen
-  → Allgemeine Vollmacht + ggf. Sondervollmacht
+ → Allgemeine Vollmacht + ggf. Sondervollmacht
 
 Schritt 5: Streitwert und Honorar festlegen
-  → Ersten Schriftsatz / erste Leistung bepreisen
-  → Vorschuss anfordern § 9 RVG
+ → Ersten Schriftsatz / erste Leistung bepreisen
+ → Vorschuss anfordern § 9 RVG
 
 Schritt 6: Mandatsbogen ausfuellen
-  → Vollstaendig, datiert, abgelegt
+ → Vollstaendig, datiert, abgelegt
 
 Schritt 7: E-Mail-Zusammenfassung binnen 48 h
-  → Bestaetigung Strategie, Fristen, Kosten
+ → Bestaetigung Strategie, Fristen, Kosten
 ```
 
 ## Typische Fehler im Erstgespraech
@@ -289,7 +289,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang:
 
 ## Prüfschema UWG-Abmahnung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
@@ -321,14 +321,14 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Abmahnung (vollständiges Muster)
 
 ```
-[Briefkopf Kanzlei]                                          [Ort, Datum]
+[Briefkopf Kanzlei] [Ort, Datum]
 
-An [Name der Wettbewerberin]                     - Per Einschreiben/Rückschein -
+An [Name der Wettbewerberin] - Per Einschreiben/Rückschein -
 
 Wettbewerbsrechtliche Abmahnung gemäß § 13 UWG
 
-Unsere Mandantin:      [Unternehmensname]
-Ihre Referenz:         [Beschreibung des Verstoßes]
+Unsere Mandantin: [Unternehmensname]
+Ihre Referenz: [Beschreibung des Verstoßes]
 
 Sehr geehrte Damen und Herren,
 
@@ -352,12 +352,12 @@ Wir fordern Sie auf:
 1. Die beanstandete Werbung / Handlung unverzüglich einzustellen;
 
 2. bis spätestens [Datum] (Frist: 10 Werktage) die anliegende strafbewehrte
-   Unterlassungserklärung (Anlage 3) unterzeichnet zurückzusenden;
+ Unterlassungserklärung (Anlage 3) unterzeichnet zurückzusenden;
 
 3. die der Mandantin entstandenen Abmahnkosten gemäß § 13 Abs. 3 UWG
-   in Höhe von EUR [Betrag nach RVG; Streitwert EUR [X]; 1.3-Gebühr zzgl.
-   Auslagen zzgl. 19 % MwSt.] auf folgendes Konto zu zahlen:
-   IBAN: [DE XX XXXX ...]
+ in Höhe von EUR [Betrag nach RVG; Streitwert EUR [X]; 1.3-Gebühr zzgl.
+ Auslagen zzgl. 19 % MwSt.] auf folgendes Konto zu zahlen:
+ IBAN: [DE XX XXXX ...]
 
 Bei fruchtlosem Ablauf der Frist werden wir ohne weitere Ankündigung
 Antrag auf Erlass einer einstweiligen Verfügung stellen.
@@ -411,7 +411,7 @@ Streitwert: EUR [X].
 ### Widerspruch gegen missbräuchliche Abmahnung (§ 8c UWG)
 
 ```
-An [Kanzlei der Abmahnenden]                                 [Ort, Datum]
+An [Kanzlei der Abmahnenden] [Ort, Datum]
 
 In Sachen [Abgemahnte] / [Abmahnende]
 Az. Ihrer Kanzlei: [Ref.]
@@ -587,35 +587,35 @@ und auf Ersatz unserer Abwehrkosten zu erheben.
 
 ```
 Schritt 1: Abmahnung formal pruefen
-  → Aktivlegitimation des Abmahnenden (§ 8 Abs. 3 UWG)?
-  → Verletzungshandlung konkret bezeichnet?
-  → Frist gesetzt (ueblicherweise 7-14 Tage)?
-  → Streitwertangabe vorhanden?
-  → Wenn Formmangel: Zurueckweisung ohne UE erwaegen
+ → Aktivlegitimation des Abmahnenden (§ 8 Abs. 3 UWG)?
+ → Verletzungshandlung konkret bezeichnet?
+ → Frist gesetzt (ueblicherweise 7-14 Tage)?
+ → Streitwertangabe vorhanden?
+ → Wenn Formmangel: Zurueckweisung ohne UE erwaegen
 
 Schritt 2: Missbrauchspruefung § 8c UWG
-  → Serienabmahner bekannt?
-  → Eigeninteresse des Abmahnenden erkennbar?
-  → Kosten unverhältnismässig hoch?
-  → Wenn Missbrauch: Gegenabmahnung/Negativ-Feststellungsklage
+ → Serienabmahner bekannt?
+ → Eigeninteresse des Abmahnenden erkennbar?
+ → Kosten unverhältnismässig hoch?
+ → Wenn Missbrauch: Gegenabmahnung/Negativ-Feststellungsklage
 
 Schritt 3: Verletzungspruefung
-  → Tatsachlich Verletzung des Schutzrechts?
-  → Ja: UE erwaegen (ggf. modifiziert)
-  → Nein: Zurueckweisung mit Begruendung
+ → Tatsachlich Verletzung des Schutzrechts?
+ → Ja: UE erwaegen (ggf. modifiziert)
+ → Nein: Zurueckweisung mit Begruendung
 
 Schritt 4: Vergleichsstrategie festlegen
-  → Modifizierte UE oder volle Anerkennung?
-  → Lizenzanaloger Schadensersatz verhandeln?
-  → WIPO-Mediation bei internationalem Bezug?
+ → Modifizierte UE oder volle Anerkennung?
+ → Lizenzanaloger Schadensersatz verhandeln?
+ → WIPO-Mediation bei internationalem Bezug?
 
 Schritt 5: Reaktion fristgerecht versenden
-  → Schriftlich, per Fax oder E-Mail (Empfangsbekenntnis!)
-  → Modifizierte UE mit Anti-Hammer-Klausel
+ → Schriftlich, per Fax oder E-Mail (Empfangsbekenntnis!)
+ → Modifizierte UE mit Anti-Hammer-Klausel
 
 Schritt 6: Bei Scheitern
-  → einstweilige Verfuegung nach § 12 UWG (Abmahner)
-  → Negative Feststellungsklage (Abgemahnter)
+ → einstweilige Verfuegung nach § 12 UWG (Abmahner)
+ → Negative Feststellungsklage (Abgemahnter)
 ```
 
 ## Quellenregel
@@ -675,14 +675,14 @@ ohne Praejudiz und unter dem Vorbehalt des Widerrufs unterbreiten wir folgendes
 Vergleichsangebot:
 
 1. [MANDANT] zahlt an [ABMAHNER] einen Gesamtbetrag von [BETRAG] EUR zur
-   endgueltigen Erledigung aller Ansprueche aus der Verletzungshandlung
-   [KURZBESCHREIBUNG].
+ endgueltigen Erledigung aller Ansprueche aus der Verletzungshandlung
+ [KURZBESCHREIBUNG].
 
 2. [MANDANT] gibt die modifizierte Unterlassungserklaerung gem. beigefuegtem
-   Entwurf ab.
+ Entwurf ab.
 
 3. Mit Zahlung und UE-Abgabe sind saemtliche wechselseitigen Ansprueche aus
-   dem zugrundeliegenden Sachverhalt erledigt.
+ dem zugrundeliegenden Sachverhalt erledigt.
 
 Dieses Angebot gilt bis [DATUM, ueblicherweise 5 Werktage].
 

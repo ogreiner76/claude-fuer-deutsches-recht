@@ -1,13 +1,13 @@
 ---
 name: e-mail-fernabsatzvertrag-312c
-description: "Nutze dies, wenn E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312C Bgb, Grenzueberschreitender Verbrauchervertrag Rom I Bruessel Ia im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312C Bgb, Grenzueberschreitender Verbrauchervertrag Rom I Bruessel Ia prüfen.; Erstelle eine Arbeitsfassung zu E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312C Bgb, Grenzueberschreitender Verbrauchervertrag Rom I Bruessel Ia.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312c Bgb, Grenzueberschreitender Verbrauchervertrag Rom I Bruessel Ia: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312C Bgb, Grenzueberschreitender Verbrauchervertrag Rom I Bruessel Ia
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **E Mail Bestellbestaetigung Vertragsschluss, Fernabsatzvertrag 312C Bgb, Grenzueberschreitender Verbrauchervertrag Rom I Bruessel Ia** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -108,7 +108,7 @@ Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der 
 - Verbraucherrechte-RL 2011/83/EU; Modernisierungsrichtlinie 2019/2161.
 - DDG (seit 14.05.2024 Nachfolge TMG): Anbieterkennzeichnung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Anwendungsbereich klären.** Verbraucher? Fernkommunikationsmittel ausschließlich? Organisierter Vertrieb?
 2. **Informationspflichten Art. 246a EGBGB prüfen.** Hauptmerkmale, Identität, Anschrift, Gesamtpreis, Versandkosten, Zahlung, Lieferung, Widerrufsrecht, Garantie, Gewährleistung etc.

@@ -1,19 +1,19 @@
 ---
 name: pflichtenkollision-shift-restructuring-lounge
-description: "Nutze dies, wenn Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter prüfen.; Erstelle eine Arbeitsfassung zu Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Impulsvortrag Toolkit, Restrukturierungsbeauftragter Und Sachwalter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `pflichtenkollision-und-shift-of-fiduciary-duties` | Workflow-Skill zu pflichtenkollision und shift of fiduciary duties. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `pflichtenkollision-und-shift-of-fiduciary-duties` | Arbeitsmodul zu pflichtenkollision und shift of fiduciary duties: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `restructuring-lounge-impulsvortrag-toolkit` | Toolkit für Impulsvorträge zu Krisenfrüherkennung und StaRUG: Foliensatz-Gliederung, Talking-Points, juristische Kernbotschaften, Q-und-A-Fallnetz, Formathinweise für Veranstaltungen wie Branchenlounge-Formate. |
 | `restrukturierungsbeauftragter-und-sachwalter` | Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Prüfraster: Bestellung (freiwillig vs. Pflicht), Aufgaben, Auswahlkriterien, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle. Output Bestellungs-Memo, Auswahlkriterien-Checkliste. Abgrenzung: Insolvenzverwalter InsO siehe insolvenzverwaltung-Plugin; Planarchitektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug. |
 
@@ -26,7 +26,7 @@ Für **Pflichtenkollision Und Shift Of Fiduciary Duties, Restructuring Lounge Im
 
 ## 1. `pflichtenkollision-und-shift-of-fiduciary-duties`
 
-**Fokus:** Workflow-Skill zu pflichtenkollision und shift of fiduciary duties. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu pflichtenkollision und shift of fiduciary duties: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Pflichtenkollision und Shift of Fiduciary Duties in der Krise
 
@@ -150,23 +150,23 @@ Von: [Name GF]
 Betreff: Pflichtenstatus-Analyse gem. § 1 StaRUG / Shift of Fiduciary Duties
 
 1. AKTUELLES KRISENSTADIUM
-   Einschätzung: [Strategiekrise / Ertragskrise / Liquiditätskrise / drohende ZU]
-   Grundlage: [eigene Analyse / Beratereinschätzung / Gutachten]
+ Einschätzung: [Strategiekrise / Ertragskrise / Liquiditätskrise / drohende ZU]
+ Grundlage: [eigene Analyse / Beratereinschätzung / Gutachten]
 
 2. PFLICHTENBINDUNG
-   Primäre Pflichtenbindung aktuell: [Gesellschafter / Gläubiger / beides]
-   Begründung:
+ Primäre Pflichtenbindung aktuell: [Gesellschafter / Gläubiger / beides]
+ Begründung:
 
 3. GESELLSCHAFTERWEISUNGEN
-   Laufende Weisungen: [Beschreibung]
-   Befolgbarkeit: [ja / eingeschränkt / nein — Begründung]
+ Laufende Weisungen: [Beschreibung]
+ Befolgbarkeit: [ja / eingeschränkt / nein — Begründung]
 
 4. INTERCOMPANY-MASSNAHMEN
-   Laufende Intercompany-Zahlungen: [ja / nein]
-   Überprüfung der Marktüblichkeit: [ja / nein / in Bearbeitung]
+ Laufende Intercompany-Zahlungen: [ja / nein]
+ Überprüfung der Marktüblichkeit: [ja / nein / in Bearbeitung]
 
 5. NÄCHSTE SCHRITTE
-   [Maßnahmenplan]
+ [Maßnahmenplan]
 
 Erstellt von: ___________________
 ```
@@ -245,73 +245,73 @@ Ein 20-Minuten-Impulsvortrag zu StaRUG und Krisenfrüherkennung muss:
 
 ```
 FOLIE 1 — TITELFOLIE (0:00 — 0:30)
-  "Krisenfrüherkennung ist Pflicht, nicht Kür — § 1 StaRUG"
-  [Name des Vortragenden, Datum, Veranstaltungsname]
+ "Krisenfrüherkennung ist Pflicht, nicht Kür — § 1 StaRUG"
+ [Name des Vortragenden, Datum, Veranstaltungsname]
 
 FOLIE 2 — KERNBOTSCHAFT (0:30 — 1:30)
-  "§ 1 StaRUG verlangt den 24-Monats-Horizont.
-   Wer die Datenlage nicht im Griff hat, verliert das Heft des Handelns."
-  [Visuell: Timeline — 24 Monate, 12 Monate, 3 Monate, Insolvenzantrag]
+ "§ 1 StaRUG verlangt den 24-Monats-Horizont.
+ Wer die Datenlage nicht im Griff hat, verliert das Heft des Handelns."
+ [Visuell: Timeline — 24 Monate, 12 Monate, 3 Monate, Insolvenzantrag]
 
 FOLIE 3 — DAS PROBLEM (1:30 — 3:00)
-  "Wie Unternehmen in die Insolvenz gehen — fünf Stadien."
-  Visuell: IDW S 6 Stufenpyramide
-  Talking Point: "Stakeholderkrise bis Liquiditätskrise — der Weg dauert Jahre,
-  aber die letzten Monate laufen im Eilzugtempo."
+ "Wie Unternehmen in die Insolvenz gehen — fünf Stadien."
+ Visuell: IDW S 6 Stufenpyramide
+ Talking Point: "Stakeholderkrise bis Liquiditätskrise — der Weg dauert Jahre,
+ aber die letzten Monate laufen im Eilzugtempo."
 
 FOLIE 4 — § 1 StaRUG — WAS DAS GESETZ VERLANGT (3:00 — 5:00)
-  Kerninhalt:
-  - Haftungsbeschränkte Rechtsträger = Normadressaten
-  - Fortlaufende Überwachung + Gegenmaßnahmen + Unterrichtung
-  - 24-Monate-Liquiditätsplanung als Standard
-  Talking Point: "Das ist kein Wunsch. Das ist Gesetz seit 2021."
+ Kerninhalt:
+ - Haftungsbeschränkte Rechtsträger = Normadressaten
+ - Fortlaufende Überwachung + Gegenmaßnahmen + Unterrichtung
+ - 24-Monate-Liquiditätsplanung als Standard
+ Talking Point: "Das ist kein Wunsch. Das ist Gesetz seit 2021."
 
 FOLIE 5 — DER 24-MONATS-HORIZONT (5:00 — 7:00)
-  Visuell: Planungsstruktur
-  Woche 1-13: wöchentlich / Monat 14-24: monatlich
-  KPI-Ampel (Liquiditätsreichweite, Net-Debt/EBITDA, DSCR)
-  Talking Point: "Ohne diese Sicht können Sie bei drohender
-  Zahlungsunfähigkeit keinen StaRUG-Antrag stellen."
+ Visuell: Planungsstruktur
+ Woche 1-13: wöchentlich / Monat 14-24: monatlich
+ KPI-Ampel (Liquiditätsreichweite, Net-Debt/EBITDA, DSCR)
+ Talking Point: "Ohne diese Sicht können Sie bei drohender
+ Zahlungsunfähigkeit keinen StaRUG-Antrag stellen."
 
 FOLIE 6 — DIE HAFTUNG (7:00 — 9:30)
-  § 43 GmbHG + § 93 Abs. 2 S. 2 AktG
-  Business Judgment Rule — in der Krise eingeschränkt
-  Beweislastumkehr: GF muss beweisen, dass er richtig gehandelt hat
-  Kernbotschaft: "Ohne Protokoll kein Beweis. Ohne Beweis: Haftung."
+ § 43 GmbHG + § 93 Abs. 2 S. 2 AktG
+ Business Judgment Rule — in der Krise eingeschränkt
+ Beweislastumkehr: GF muss beweisen, dass er richtig gehandelt hat
+ Kernbotschaft: "Ohne Protokoll kein Beweis. Ohne Beweis: Haftung."
 
 FOLIE 7 — § 102 StaRUG — DIE BERATER-PFLICHT (9:30 — 11:00)
-  Steuerberater, WP, RA: unaufgeforderter Warnhinweis bei Krisensignalen
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Dokumentationspflicht beider Seiten
-  Talking Point: "Jede BWA, die der StB ausliest und schweigt — potenzielle Haftung."
+ Steuerberater, WP, RA: unaufgeforderter Warnhinweis bei Krisensignalen
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Dokumentationspflicht beider Seiten
+ Talking Point: "Jede BWA, die der StB ausliest und schweigt — potenzielle Haftung."
 
 FOLIE 8 — StaRUG-WERKZEUGKASTEN (11:00 — 13:00)
-  Restrukturierungsplan §§ 7 ff.
-  Stabilisierungsanordnung §§ 49-59 (drei Monate Schutz)
-  Cross-Class-Cram-Down § 26 (Mehrheit gegen ablehnende Gruppen)
-  Talking Point: "Das StaRUG ist das modernste Sanierungsgesetz Europas —
-  aber es ist nur für den zugänglich, der rechtzeitig handelt."
+ Restrukturierungsplan §§ 7 ff.
+ Stabilisierungsanordnung §§ 49-59 (drei Monate Schutz)
+ Cross-Class-Cram-Down § 26 (Mehrheit gegen ablehnende Gruppen)
+ Talking Point: "Das StaRUG ist das modernste Sanierungsgesetz Europas —
+ aber es ist nur für den zugänglich, der rechtzeitig handelt."
 
 FOLIE 9 — DIE ZEITKRITISCHE ENTSCHEIDUNG (13:00 — 15:00)
-  Visuell: Entscheidungsbaum
-  Drohende ZU (§ 18 InsO) → StaRUG oder freie Sanierung
-  Eingetretene ZU (§ 17 InsO) → § 15a InsO, drei Wochen
-  Überschuldung (§ 19 InsO) → negative FBP → § 15a InsO
-  Talking Point: "Der Zug zum StaRUG fährt ab. Wer den verpasst,
-  steht am Insolvenzbahnhof."
+ Visuell: Entscheidungsbaum
+ Drohende ZU (§ 18 InsO) → StaRUG oder freie Sanierung
+ Eingetretene ZU (§ 17 InsO) → § 15a InsO, drei Wochen
+ Überschuldung (§ 19 InsO) → negative FBP → § 15a InsO
+ Talking Point: "Der Zug zum StaRUG fährt ab. Wer den verpasst,
+ steht am Insolvenzbahnhof."
 
 FOLIE 10 — PRAXIS-CHECKLISTE (15:00 — 17:00)
-  "Was Sie diese Woche in Ihrem Unternehmen prüfen sollten:"
-  1. Gibt es eine 24-Monats-Liquiditätsplanung?
-  2. Gibt es ein dokumentiertes KPI-Ampelsystem?
-  3. Wann wurde der Gesellschafter zuletzt über die wirtschaftliche
-     Lage informiert?
-  4. Wann hat Ihr StB zuletzt die Krisenthematik angesprochen?
-  Talking Point: "Nicht drei von vier — alle vier."
+ "Was Sie diese Woche in Ihrem Unternehmen prüfen sollten:"
+ 1. Gibt es eine 24-Monats-Liquiditätsplanung?
+ 2. Gibt es ein dokumentiertes KPI-Ampelsystem?
+ 3. Wann wurde der Gesellschafter zuletzt über die wirtschaftliche
+ Lage informiert?
+ 4. Wann hat Ihr StB zuletzt die Krisenthematik angesprochen?
+ Talking Point: "Nicht drei von vier — alle vier."
 
 FOLIE 11 — Q&A VORBEREITUNG (17:00 — 20:00)
-  "Ihre Fragen — meine Antworten."
-  [Moderiertes Gespräch]
+ "Ihre Fragen — meine Antworten."
+ [Moderiertes Gespräch]
 ```
 
 ---
@@ -541,25 +541,25 @@ Erstellt von: [GF-Name]
 DOKUMENTE (übergeben am [Datum]):
 
 Rechtliche Grundlagen:
-  [ ] Gesellschaftsvertrag, letzte Fassung
-  [ ] Handelsregisterauszug (aktuell)
-  [ ] GF-Bestellungsurkunde
+ [ ] Gesellschaftsvertrag, letzte Fassung
+ [ ] Handelsregisterauszug (aktuell)
+ [ ] GF-Bestellungsurkunde
 
 Wirtschaftliche Unterlagen:
-  [ ] Letzte drei Jahresabschlüsse
-  [ ] Aktuelle BWA ([Monat/Jahr])
-  [ ] Liquiditätsplanung 24 Monate
-  [ ] Integrierter Finanzplan
+ [ ] Letzte drei Jahresabschlüsse
+ [ ] Aktuelle BWA ([Monat/Jahr])
+ [ ] Liquiditätsplanung 24 Monate
+ [ ] Integrierter Finanzplan
 
 Verfahrensunterlagen:
-  [ ] Restrukturierungsplan (aktueller Entwurf)
-  [ ] Gläubigerliste mit Forderungshöhen
-  [ ] Korrespondenz mit Gläubigern
-  [ ] Stabilisierungsanordnung (falls erteilt)
+ [ ] Restrukturierungsplan (aktueller Entwurf)
+ [ ] Gläubigerliste mit Forderungshöhen
+ [ ] Korrespondenz mit Gläubigern
+ [ ] Stabilisierungsanordnung (falls erteilt)
 
 Sonstiges:
-  [ ] IDW S 11 / IDW S 6 Gutachten
-  [ ] Protokolle GF-Sitzungen (letzte 12 Monate)
+ [ ] IDW S 11 / IDW S 6 Gutachten
+ [ ] Protokolle GF-Sitzungen (letzte 12 Monate)
 ```
 
 ---

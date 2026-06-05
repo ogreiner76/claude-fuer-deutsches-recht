@@ -1,12 +1,12 @@
 ---
 name: btog
-description: "Nutze dies, wenn Btog: Schriftsatz-, Brief- und Memo-Bausteine im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Btog: Schriftsatz-, Brief- und Memo-Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Btog: Schriftsatz-, Brief- und Memo-Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Btog: Schriftsatz-, Brief- und Memo-Bausteine: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Btog: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Btog: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Btog: Schriftsatz-, Brief- und Memo-Bausteine / spezial btog schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Btog: Schriftsatz-, Brief- und Memo-Bausteine / btog schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

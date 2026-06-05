@@ -1,13 +1,13 @@
 ---
 name: restrukturierungsplan-architektur-rollierende
-description: "Nutze dies, wenn Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast prüfen.; Erstelle eine Arbeitsfassung zu Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Restrukturierungsplan Architektur Paragraph 7ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Ampelsystem Beweislast Und Darlegungslast: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast
+# Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Ampelsystem Beweislast Und Darlegungslast
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Ampelsystem Beweislast Und Darlegungslast** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Spezial Ampelsystem Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Restrukturierungsplan Architektur Paragraph 7Ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Ampelsystem Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -97,13 +97,13 @@ In jeder Gruppe muss die Abstimmung eine **Dreiviertelmehrheit der Stimmrechte**
 
 ```
 ABSTIMMUNGSQUORUM:
-  Erforderlich: ≥ 75 % der Stimmrechte in jeder Gruppe
-  Stimmrechte: i.d.R. nach Forderungshöhe
-  Anwesende: Kein Quorum für Anwesenheit (anders als § 76 InsO)
+ Erforderlich: ≥ 75 % der Stimmrechte in jeder Gruppe
+ Stimmrechte: i.d.R. nach Forderungshöhe
+ Anwesende: Kein Quorum für Anwesenheit (anders als § 76 InsO)
 
 MEHRHEIT NICHT ERREICHT:
-  → Gruppe gilt als ablehnend
-  → Cross-Class-Cram-Down prüfen (§ 26 StaRUG)
+ → Gruppe gilt als ablehnend
+ → Cross-Class-Cram-Down prüfen (§ 26 StaRUG)
 ```
 
 ### 4. Schlechterstellungsverbot — § 30 StaRUG
@@ -112,12 +112,12 @@ Kein Planbetroffener darf durch den Plan schlechter gestellt werden als im näch
 
 ```
 VERGLEICHSRECHNUNG (Plananlagen):
-  Spalte A: Stellung im Plan (Zahlungen, Quoten, Besicherungen)
-  Spalte B: Stellung im hypothetischen Insolvenzverfahren
-  Ergebnis: Plan darf Spalte B nicht unterschreiten
+ Spalte A: Stellung im Plan (Zahlungen, Quoten, Besicherungen)
+ Spalte B: Stellung im hypothetischen Insolvenzverfahren
+ Ergebnis: Plan darf Spalte B nicht unterschreiten
 
-  Ausnahme: Einzelner Gläubiger stimmt freiwillig zu trotz Schlechterstellung
-             (§ 26 Abs. 1 S. 2 StaRUG)
+ Ausnahme: Einzelner Gläubiger stimmt freiwillig zu trotz Schlechterstellung
+ (§ 26 Abs. 1 S. 2 StaRUG)
 ```
 
 ---
@@ -178,25 +178,25 @@ Voraussetzungen für Bestätigung (§ 29 StaRUG):
 RESTRUKTURIERUNGSPLAN — [FIRMA GMBH]
 
 DARSTELLENDER TEIL
-  § 1  Wirtschaftliche Lage und Krisenursachen
-  § 2  Bisherige Sanierungsmaßnahmen
-  § 3  Restrukturierungskonzept und Maßnahmen
-  § 4  Auswirkungen auf Planbetroffene
-  § 5  Finanzierung des Plans
+ § 1 Wirtschaftliche Lage und Krisenursachen
+ § 2 Bisherige Sanierungsmaßnahmen
+ § 3 Restrukturierungskonzept und Maßnahmen
+ § 4 Auswirkungen auf Planbetroffene
+ § 5 Finanzierung des Plans
 
 GESTALTENDER TEIL
-  § 6  Planbetroffene Gläubiger und Gruppenbildung
-  § 7  Gestaltung der Rechte Gruppe 1 — Gesicherte Gläubiger
-  § 8  Gestaltung der Rechte Gruppe 2 — Ungesicherte Gläubiger
-  § 9  Gestaltung der Rechte Gruppe 3 — Gesellschafter
-  § 10 Planbedingungen und Inkrafttreten
+ § 6 Planbetroffene Gläubiger und Gruppenbildung
+ § 7 Gestaltung der Rechte Gruppe 1 — Gesicherte Gläubiger
+ § 8 Gestaltung der Rechte Gruppe 2 — Ungesicherte Gläubiger
+ § 9 Gestaltung der Rechte Gruppe 3 — Gesellschafter
+ § 10 Planbedingungen und Inkrafttreten
 
 ANLAGEN
-  Anlage 1: Vergleichsrechnung (Insolvenz vs. Plan)
-  Anlage 2: Integrierter Finanzplan (24 Monate)
-  Anlage 3: Fortführungsprognose
-  Anlage 4: Gläubigerliste
-  Anlage 5: Sanierungsgutachten [IDW S 6]
+ Anlage 1: Vergleichsrechnung (Insolvenz vs. Plan)
+ Anlage 2: Integrierter Finanzplan (24 Monate)
+ Anlage 3: Fortführungsprognose
+ Anlage 4: Gläubigerliste
+ Anlage 5: Sanierungsgutachten [IDW S 6]
 ```
 
 ---
@@ -310,35 +310,35 @@ PLANSTRUKTUR — ÜBERBLICK
 Spalten: [Datum / Woche / Monat]
 
 ZUFLÜSSE
-  + Umsatzerlöse brutto
-  - USt-Abführung (auf Umsatz)
-  + Anzahlungen Kunden
-  + Kreditziehungen
-  + Sonstige Zuflüsse
-  = ZUFLÜSSE GESAMT
+ + Umsatzerlöse brutto
+ - USt-Abführung (auf Umsatz)
+ + Anzahlungen Kunden
+ + Kreditziehungen
+ + Sonstige Zuflüsse
+ = ZUFLÜSSE GESAMT
 
 ABFLÜSSE
-  - Materialeinkauf
-  - Personal (netto + AG-Anteile SV)
-  - Miete / Leasing
-  - Zinsen
-  - Tilgung
-  - USt-Voranmeldung
-  - Investitionen
-  - Sonstige Abflüsse
-  = ABFLÜSSE GESAMT
+ - Materialeinkauf
+ - Personal (netto + AG-Anteile SV)
+ - Miete / Leasing
+ - Zinsen
+ - Tilgung
+ - USt-Voranmeldung
+ - Investitionen
+ - Sonstige Abflüsse
+ = ABFLÜSSE GESAMT
 
 NETTO-CASHFLOW = Zuflüsse - Abflüsse
 
 KASSENBESTAND
-  + Anfangsbestand
-  + Netto-Cashflow
-  = Endbestand
+ + Anfangsbestand
+ + Netto-Cashflow
+ = Endbestand
 
 KREDITLINIE
-  + Verfügbarer Rahmen
-  - Inanspruchnahme
-  = Freie Kreditlinie
+ + Verfügbarer Rahmen
+ - Inanspruchnahme
+ = Freie Kreditlinie
 
 GESAMTLIQUIDITÄT = Endbestand + Freie Kreditlinie
 ```
@@ -398,29 +398,29 @@ Ohne diese Brücke ist die Planung ein Liquiditätsforecast, aber noch kein Sani
 ### Muster: Excel-Spaltenstruktur (Auszug Wochen 1-4 + Monat 14)
 
 ```
-Kategorie                 | KW01  | KW02  | KW03  | KW04  | ... | M14   | M15
+Kategorie | KW01 | KW02 | KW03 | KW04 | ... | M14 | M15
 --------------------------|-------|-------|-------|-------|-----|-------|------
-ZUFLÜSSE                  |       |       |       |       |     |       |
-  Umsatzerlöse (netto)    | [tsd] | [tsd] | [tsd] | [tsd] |     | [tsd] | [tsd]
-  Anzahlungen             | [tsd] | [tsd] | [tsd] | [tsd] |     | [tsd] | [tsd]
-  Kreditziehung           |       |       |       |       |     |       |
-= ZUFLÜSSE GESAMT         | [Sum] | [Sum] | [Sum] | [Sum] |     | [Sum] | [Sum]
-                          |       |       |       |       |     |       |
-ABFLÜSSE                  |       |       |       |       |     |       |
-  Material                | [tsd] | [tsd] | [tsd] | [tsd] |     | [tsd] | [tsd]
-  Personal                | [tsd] |       |       | [tsd] |     | [tsd] | [tsd]
-  Miete / Leasing         | [tsd] |       |       |       |     | [tsd] | [tsd]
-  Zinsen                  |       |       |       |       |     | [tsd] | [tsd]
-  Tilgung                 |       |       |       |       |     | [tsd] | [tsd]
-  USt-Voranmeldung        | [tsd] |       |       |       |     | [tsd] | [tsd]
-  Sonstiges               | [tsd] | [tsd] | [tsd] | [tsd] |     | [tsd] | [tsd]
-= ABFLÜSSE GESAMT         | [Sum] | [Sum] | [Sum] | [Sum] |     | [Sum] | [Sum]
-                          |       |       |       |       |     |       |
-NETTO-CASHFLOW            | [Net] | [Net] | [Net] | [Net] |     | [Net] | [Net]
-KASSENBESTAND (Anfang)    | [K]   | [K]   | [K]   | [K]   |     | [K]   | [K]
-KASSENBESTAND (Ende)      | [K]   | [K]   | [K]   | [K]   |     | [K]   | [K]
-FREIE KREDITLINIE         | [L]   | [L]   | [L]   | [L]   |     | [L]   | [L]
-GESAMTLIQUIDITÄT          | [G]   | [G]   | [G]   | [G]   |     | [G]   | [G]
+ZUFLÜSSE | | | | | | |
+ Umsatzerlöse (netto) | [tsd] | [tsd] | [tsd] | [tsd] | | [tsd] | [tsd]
+ Anzahlungen | [tsd] | [tsd] | [tsd] | [tsd] | | [tsd] | [tsd]
+ Kreditziehung | | | | | | |
+= ZUFLÜSSE GESAMT | [Sum] | [Sum] | [Sum] | [Sum] | | [Sum] | [Sum]
+ | | | | | | |
+ABFLÜSSE | | | | | | |
+ Material | [tsd] | [tsd] | [tsd] | [tsd] | | [tsd] | [tsd]
+ Personal | [tsd] | | | [tsd] | | [tsd] | [tsd]
+ Miete / Leasing | [tsd] | | | | | [tsd] | [tsd]
+ Zinsen | | | | | | [tsd] | [tsd]
+ Tilgung | | | | | | [tsd] | [tsd]
+ USt-Voranmeldung | [tsd] | | | | | [tsd] | [tsd]
+ Sonstiges | [tsd] | [tsd] | [tsd] | [tsd] | | [tsd] | [tsd]
+= ABFLÜSSE GESAMT | [Sum] | [Sum] | [Sum] | [Sum] | | [Sum] | [Sum]
+ | | | | | | |
+NETTO-CASHFLOW | [Net] | [Net] | [Net] | [Net] | | [Net] | [Net]
+KASSENBESTAND (Anfang) | [K] | [K] | [K] | [K] | | [K] | [K]
+KASSENBESTAND (Ende) | [K] | [K] | [K] | [K] | | [K] | [K]
+FREIE KREDITLINIE | [L] | [L] | [L] | [L] | | [L] | [L]
+GESAMTLIQUIDITÄT | [G] | [G] | [G] | [G] | | [G] | [G]
 ```
 
 ### Muster: Planprämissen-Dokumentation
@@ -432,28 +432,28 @@ Erstellt: [Datum]
 Freigegeben: [GF-Name], [Datum]
 
 UMSATZ
-  Basis: [EUR Vorjahresumsatz]
-  Annahme Base Case: [+/- x% p.a.]
-  Annahme Bear Case: [+/- x% p.a.]
-  Begründung: [___]
+ Basis: [EUR Vorjahresumsatz]
+ Annahme Base Case: [+/- x% p.a.]
+ Annahme Bear Case: [+/- x% p.a.]
+ Begründung: [___]
 
 DEBITORENLAUFZEIT (DSO)
-  Historisch (Ø letzte 12 Monate): [x] Tage
-  Annahme Planung: [x] Tage
-  Begründung: [___]
+ Historisch (Ø letzte 12 Monate): [x] Tage
+ Annahme Planung: [x] Tage
+ Begründung: [___]
 
 KREDITORENLAUFZEIT (DPO)
-  Historisch: [x] Tage
-  Annahme: [x] Tage
+ Historisch: [x] Tage
+ Annahme: [x] Tage
 
 KREDITLINIEN
-  Hausbankkredit: EUR [Betrag], läuft bis [Datum]
-  Kontokorrentlinie: EUR [Betrag]
-  Verlängerungsannahme: [ja/nein/in Verhandlung]
+ Hausbankkredit: EUR [Betrag], läuft bis [Datum]
+ Kontokorrentlinie: EUR [Betrag]
+ Verlängerungsannahme: [ja/nein/in Verhandlung]
 
 INVESTITIONEN
-  Geplante Investitionen: EUR [Betrag] in [Zeitraum]
-  Finanzierung: [Eigenmittel / Fremdfinanzierung]
+ Geplante Investitionen: EUR [Betrag] in [Zeitraum]
+ Finanzierung: [Eigenmittel / Fremdfinanzierung]
 ```
 
 ---
@@ -503,7 +503,7 @@ Bevor losgelegt wird, klaere:
 # Ampelsystem: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Ampelsystem: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Ampelsystem: Beweislast, Darlegungslast und Substantiierung / spezial ampelsystem beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ampelsystem: Beweislast, Darlegungslast und Substantiierung / ampelsystem beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -539,16 +539,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Frühwarn-Ampelsystem (§ 1 StaRUG)
 - **GRÜN (Normalbetrieb):**
-  - Liquiditätsplan 24 Monate zeigt durchgehend Deckung > 110 Prozent.
-  - Kovenanten mit > 20-Prozent-Spielraum.
-  - Cash-Reichweite > 6 Monate.
+ - Liquiditätsplan 24 Monate zeigt durchgehend Deckung > 110 Prozent.
+ - Kovenanten mit > 20-Prozent-Spielraum.
+ - Cash-Reichweite > 6 Monate.
 - **GELB (Beobachtungspflicht erhöht):**
-  - Liquiditätsdeckung 100–110 Prozent oder Kovenanten unter 20-Prozent-Spielraum.
-  - Externer Schock (Großkunde verliert Bonität, Auftragseinbruch > 20 Prozent).
-  - Reaktion: Maßnahmenplan mit Verantwortlichen und Fristen, Information Gesellschafter und ggf. Aufsichtsrat.
+ - Liquiditätsdeckung 100–110 Prozent oder Kovenanten unter 20-Prozent-Spielraum.
+ - Externer Schock (Großkunde verliert Bonität, Auftragseinbruch > 20 Prozent).
+ - Reaktion: Maßnahmenplan mit Verantwortlichen und Fristen, Information Gesellschafter und ggf. Aufsichtsrat.
 - **ROT (drohende ZU § 18 InsO):**
-  - Liquiditätsdeckung in einzelnen Perioden < 100 Prozent im 24-Monats-Horizont.
-  - Reaktion: StaRUG-Anzeige § 31 StaRUG erwägen, Sanierungskonzept IDW S6 starten, Restrukturierungsbeauftragter § 73 StaRUG.
+ - Liquiditätsdeckung in einzelnen Perioden < 100 Prozent im 24-Monats-Horizont.
+ - Reaktion: StaRUG-Anzeige § 31 StaRUG erwägen, Sanierungskonzept IDW S6 starten, Restrukturierungsbeauftragter § 73 StaRUG.
 
 ## Beweislast und Darlegungslast
 - **Im Innenverhältnis (§ 43 GmbHG / § 93 AktG):** Geschäftsführer trägt Darlegungs- und Beweislast für Sorgfaltspflicht-Erfüllung (Beweislastumkehr) — d. h. Geschäftsführer muss zeigen, dass er ein **Frühwarnsystem** eingerichtet, **Indikatoren überwacht** und **angemessen reagiert** hat.

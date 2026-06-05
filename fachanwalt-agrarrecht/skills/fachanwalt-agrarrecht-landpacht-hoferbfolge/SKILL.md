@@ -1,19 +1,19 @@
 ---
 name: fachanwalt-agrarrecht-landpacht-hoferbfolge
-description: "Nutze dies, wenn Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg, Landpacht Und Hoferbfolge Prüfen, Mandat Triage Agrarrecht im Plugin Fachanwalt Agrarrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg, Landpacht Und Hoferbfolge Prüfen, Mandat Triage Agrarrecht prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg, Landpacht Und Hoferbfolge Prüfen, Mandat Triage Agrarrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg, Landpacht Und Hoferbfolge Prüfen, Mandat Triage Agrarrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg, Landpacht Und Hoferbfolge Prüfen, Mandat Triage Agrarrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg, Landpacht Und Hoferbfolge Prüfen, Mandat Triage Agrarrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` | Workflow-Skill zu fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` | Arbeitsmodul zu fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `landpacht-und-hoferbfolge-pruefen` | Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO. Prüfraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige § 2 LPachtVG Pachtpreisanpassung § 593 BGB. Hoefeerbrecht HoefeO Anerbenrecht Hofeszession Abfindungsanspruch weichender Erben § 12 HoefeO Hofeswert. GAP-Foerderrecht Direktzahlungen Cross-Compliance Agrarumweltmassnahmen als Schnittstelle. Output Prüf-Memo Pacht-Vertrag oder Erb-Abfindungs-Berechnung mit Hofeswert-Ermittlung. Abgrenzung: fachanwalt-agrarrecht-hoefe-uebergabe für Hofuebergabe zu Lebzeiten. |
 | `mandat-triage-agrarrecht` | Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Foerderung Tierhaltungs-Genehmigung Duenge-Bußgeld oder Direktzahlungen-Kuerzung. Klaert Sachgebiet (Landpacht HoefeO GAP ELER Tierhaltung Pflanzenschutz Duenge-VO Hofnachfolge) und Mandantenrolle (Landwirt Verpaechter Paechter Erbe Genossenschaft). Sofort-Fristen Sammelantrag 15. Mai Pachtvertragsanzeige § 2 LPachtVG OWiG-Einspruch zwei Wochen. Normen §§ 581 ff. BGB HoefeO GAP-VO 2021/2115 DueV. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuche. Output Triage-Memo Fristen-Ampel Routing zu landpacht-und-hoferbfolge-prüfen. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden). |
 
@@ -26,7 +26,7 @@ Für **Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg, Landpacht Und H
 
 ## 1. `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg`
 
-**Fokus:** Workflow-Skill zu fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Wolfsentnahme — Schnellabschuss-Verfahren § 45 BNatSchG
 
@@ -316,7 +316,7 @@ Zwei zentrale Instrumente des Agrarrechts: Landpachtvertrag und Höfeerbfolge. B
 
 ## Prüfschema Landpachtvertrag
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
@@ -357,7 +357,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Schriftsatzbaustein — Anpassungs-Verlangen § 593 BGB
 
 ```
-[Kanzlei]                                           [Ort, Datum]
+[Kanzlei] [Ort, Datum]
 
 [Verpächter / Pächter — je nach Partei]
 [Anschrift]
@@ -377,11 +377,11 @@ Seit Vertragsschluss haben sich die wirtschaftlichen
 Verhältnisse wesentlich geändert:
 
 a) Der Bodenrichtpreis in [Region] ist von [Wert EUR/ha]
-   auf [Wert EUR/ha] gestiegen (Quelle: LWK-Pachtstatistik
-   [Jahr], Gutachterausschuss Beschluss [Nr.]).
+ auf [Wert EUR/ha] gestiegen (Quelle: LWK-Pachtstatistik
+ [Jahr], Gutachterausschuss Beschluss [Nr.]).
 b) Die ortsübliche Pacht für vergleichbare Flächen beträgt
-   nach LWK-Auswertung [Betrag EUR/ha]; der vereinbarte
-   Pacht liegt bei [Betrag EUR/ha].
+ nach LWK-Auswertung [Betrag EUR/ha]; der vereinbarte
+ Pacht liegt bei [Betrag EUR/ha].
 
 Wir schlagen daher Anpassung auf EUR [neuer Pacht/ha]
 ab dem [Datum = nächstmöglicher Termin, mind. 3 Monate]
@@ -405,20 +405,20 @@ Erbfall: [Name Erblasser], gestorben [Datum]
 Hof: [Grundbuchbezeichnung], Wirtschaftswert [EUR]
 
 1. Einheitlicher Hofeswert (§ 48 BewG):
-   Landwirtschaftlicher Ertragswert × Vervielfältiger = [EUR]
+ Landwirtschaftlicher Ertragswert × Vervielfältiger = [EUR]
 
 2. Abzug Hofeschulden (gesicherte Grundpfandrechte, Verbindlichkeiten
-   des Hofbetriebs laut Inventar):                   ./. [EUR]
+ des Hofbetriebs laut Inventar): ./. [EUR]
 
-3. Netto-Hofeswert:                                      [EUR]
+3. Netto-Hofeswert: [EUR]
 
 4. Abfindungsanspruch weichender Erbe (je nach Zahl):
-   [Anzahl weichende Erben]: je 1/[n] × Netto-Hofeswert / 2
-   = EUR [Betrag] je Person
+ [Anzahl weichende Erben]: je 1/[n] × Netto-Hofeswert / 2
+ = EUR [Betrag] je Person
 
 5. Bei Verkauf innerhalb 20 Jahre — Nachabfindung § 13 HöfeO:
-   Verkaufserlös [EUR] ./. damaliger Hofeswert [EUR]
-   × Anteil weichender Erbe = Nachzahlungspflicht EUR [Betrag]
+ Verkaufserlös [EUR] ./. damaliger Hofeswert [EUR]
+ × Anteil weichender Erbe = Nachzahlungspflicht EUR [Betrag]
 
 Hinweis: Ertragswert und Vervielfältiger sind mit aktuell
 zertifiziertem Sachverständigen zu ermitteln; länderspezifische

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Fachanwalt Bau Architektenrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Bau Architektenrecht** ein Fall
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-bau-abnahme-nachtrag-workflow-chronologie` — Allgemein Bau Abnahme Nachtrag Workflow Chronologie
+- `allgemein-bau-abnahme-nachtrag-workflow-chronologie` — Allgemein Bau Abnahme Nachtrag Chronologie
 - `bauordnungsrecht-einfuehrung-fachanwalt-hoai` — Bauordnungsrecht Einfuehrung Fachanwalt Hoai
 - `bautraeger-abnahme-formgerecht-abnahmefiktion-clause-anlagen` — Bautraeger Abnahme Formgerecht Abnahmefiktion Clause Anlagen
 - `bautraeger-belehrungspflicht-bautraeger-bonitaetspruefung` — Bautraeger Belehrungspflicht Bautraeger Bonitaetspruefung

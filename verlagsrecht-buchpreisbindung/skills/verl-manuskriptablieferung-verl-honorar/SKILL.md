@@ -1,13 +1,13 @@
 ---
 name: verl-manuskriptablieferung-verl-honorar
-description: "Nutze dies, wenn Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung prüfen.; Erstelle eine Arbeitsfassung zu Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -58,18 +58,18 @@ Dieser Skill behandelt den **Ablieferungsprozess** im Verlagsvertrag: Was der Au
 - **Kalendarische Frist im Vertrag**: Autor gerät ohne Mahnung in Verzug (§ 286 Abs. 2 Nr. 1 BGB).
 - **Keine Frist vereinbart**: Angemessene Frist; Verlag muss mahnen.
 - **Rechtsfolgen des Autorenverzugs**:
-  - Schadensersatzanspruch des Verlags (§ 280 BGB)
-  - Fristsetzung mit Rücktrittsdrohung
-  - Rücktritt nach fruchtlosem Ablauf (§ 7/8 VerlG i.V.m. §§ 346 ff. BGB)
-  - Rückzahlung des Vorschusses (streitig, je nach Vertragsgestaltung)
+ - Schadensersatzanspruch des Verlags (§ 280 BGB)
+ - Fristsetzung mit Rücktrittsdrohung
+ - Rücktritt nach fruchtlosem Ablauf (§ 7/8 VerlG i.V.m. §§ 346 ff. BGB)
+ - Rückzahlung des Vorschusses (streitig, je nach Vertragsgestaltung)
 
 ## Lektorat und Manuskript-Mängel
 
 ### § 3 VerlG — Mängelrecht des Verlags
 - Weist das abgelieferte Manuskript Mängel auf (unvollständig, fehlerhaft, nicht druckfertig), darf der Verlag:
-  - Nacherfüllung verlangen (Nachlieferung des fehlenden Teils)
-  - Nachbesserungsfrist setzen
-  - Bei erheblichem Mangel: Rücktritt und Schadensersatz (§ 8 VerlG)
+ - Nacherfüllung verlangen (Nachlieferung des fehlenden Teils)
+ - Nachbesserungsfrist setzen
+ - Bei erheblichem Mangel: Rücktritt und Schadensersatz (§ 8 VerlG)
 - **Kein stilistisches Änderungsrecht**: Der Verlag darf inhaltliche und sprachliche Entscheidungen des Autors nicht eigenmächtig ändern (§ 14 UrhG — Entstellungsverbot).
 
 ### § 4 VerlG — Änderungen durch den Verlag
@@ -87,9 +87,9 @@ Dieser Skill behandelt den **Ablieferungsprozess** im Verlagsvertrag: Was der Au
 - Nach ordnungsgemäßer Ablieferung muss der Verlag das Werk **binnen angemessener Frist** erscheinen lassen.
 - Angemessen: je nach Werktyp 6–18 Monate üblich; Fachbücher und Lehrbücher mit Saisonbindung kürzer.
 - **Verzug des Verlags**:
-  - Autor setzt Nachfrist (3–6 Monate; schriftlich).
-  - Nach fruchtlosem Ablauf: Rücktritt nach § 7 VerlG; Rechte fallen zurück.
-  - Schadensersatzanspruch bei Verschulden (§ 8 VerlG i.V.m. § 280 BGB).
+ - Autor setzt Nachfrist (3–6 Monate; schriftlich).
+ - Nach fruchtlosem Ablauf: Rücktritt nach § 7 VerlG; Rechte fallen zurück.
+ - Schadensersatzanspruch bei Verschulden (§ 8 VerlG i.V.m. § 280 BGB).
 
 ## Druckfahnen und Korrektur
 
@@ -165,9 +165,9 @@ Dieser Skill klärt alle vergütungsrechtlichen Fragen im Verlagsvertrag: Wie wi
 ### 2. Absatzhonorar (Tantieme)
 - Prozentualer Anteil am **Nettoladenpreis** (NLP) jedes verkauften Exemplars.
 - Übliche Sätze nach gemeinsamen Vergütungsregeln (VS/Verleger):
-  - Hardcover: 10–15 % NLP
-  - Taschenbuch: 6–10 % NLP
-  - E-Book: 20–25 % NLP (abhängig von Plattformgebühren)
+ - Hardcover: 10–15 % NLP
+ - Taschenbuch: 6–10 % NLP
+ - E-Book: 20–25 % NLP (abhängig von Plattformgebühren)
 - Berechnung: Menge × NLP × Prozentsatz = Honorar je Abrechnung.
 
 ### 3. Auflagenhonorar

@@ -1,13 +1,13 @@
 ---
 name: qualitaetsmanagement-robotikhersteller-02
-description: "Nutze dies, wenn Qualitaetsmanagement Robotikhersteller, Accuracy Robustness Cybersecurity Ai, Agile Entwicklung Und Compliance Gates, Anwaltliche Quellenhygiene Robotik im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Qualitaetsmanagement Robotikhersteller, Accuracy Robustness Cybersecurity Ai, Agile Entwicklung Und Compliance Gates, Anwaltliche Quellenhygiene Robotik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Qualitaetsmanagement Robotikhersteller, Accuracy Robustness Cybersecurity Ai, Agile Entwicklung Und Compliance Gates, Anwaltliche Quellenhygiene Robotik
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -39,7 +39,7 @@ Für **Qualitaetsmanagement Robotikhersteller, Accuracy Robustness Cybersecurity
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Spezialskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+Fachmodul im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
 
 ## Start
 
@@ -112,7 +112,7 @@ Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskompon
 - **NIS-2** Umsetzung im BSIG, OT-Sicherheit bei Robotik in kritischen Sektoren.
 - **§ 1 ProdHaftG / VO (EU) 2024/2853** neue Produkthaftungs-RL (Inkrafttreten 09.12.2026): Software und KI sind Produkte, Beweiserleichterungen.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Use-case-Schärfung.** Definieren Sie den Einsatzkontext exakt: Umgebung, Beleuchtung, Geschwindigkeitsbereich, Personenkreis, Lastfälle. Performance-Aussagen ohne Kontext sind irreführend.
 2. **Metriken festlegen.** Accuracy nicht nur als Single-Number-Wert: Precision, Recall, F1 je Klasse; bei Wahrnehmungsfunktionen mAP, IoU; bei Steuerung Erfolgsquote und Time-to-Stop. Mindestschwellen schriftlich.
@@ -246,7 +246,7 @@ Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- u
 - **DSGVO** Art. 25 (Privacy by Design), Art. 35 DSFA.
 - **ISO/IEC** ISO 12100 (Risikobeurteilung), ISO 13849-1, IEC 61508/62061, ISO 10218 / ISO/TS 15066 für Cobots, ISO/IEC 27001, ISO/IEC 42001 (AI-MS).
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **DoR (Definition of Ready) erweitern.** Jede Story mit Sicherheits-, KI- und Datenschutzrelevanz erhält Pflichtfelder: Risikoeinordnung, betroffene Schutzziele, erforderliche Tests, betroffene technische Dokumentation.
 2. **DoD je Story.** Code-Review, statische Analyse, Unit-Tests, ggf. Hardware-in-the-Loop-Tests; Risiko-Snippet in der Story aktualisiert.
@@ -372,7 +372,7 @@ Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeich
 - Berufshaftung § 280 BGB i. V. m. Anwaltsvertrag.
 - Im Schriftsatz: keine "ständige Rspr."-Floskeln ohne mindestens 2 belegte Entscheidungen.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **EU-Rechtsakte stets über eur-lex.europa.eu** verifizieren. Stand der konsolidierten Fassung dokumentieren (CELEX-Nummer + Datum der Konsolidierung).
 2. **Geltungsstaffelung KI-VO** unbedingt prüfen: Verbote Art. 5 ab 02.02.2025; GPAI-Pflichten ab 02.08.2025; Hochrisiko Art. 6 ff. ab 02.08.2026; volle Anwendung 02.08.2027 (Art. 113 KI-VO).
@@ -426,7 +426,7 @@ Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeich
 ## Querverweise
 
 - `allgemein`
-- alle Spezialskills mit Quellenangabe
+- alle Fachmodule mit Quellenangabe
 - `references/zitierweise.md` im Repository
 
 ## Checkliste pro Memo/Schriftsatz

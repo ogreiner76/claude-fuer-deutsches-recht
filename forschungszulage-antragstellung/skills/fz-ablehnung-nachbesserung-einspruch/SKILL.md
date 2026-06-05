@@ -69,9 +69,9 @@ Einspruchsfrist beim Finanzamt grundsätzlich **ein Monat** ab Bekanntgabe (§ 3
 3. Frist eintragen, Mahnung im Kalender setzen.
 4. Konkret rugierte Punkte auflisten.
 5. Reparatur planen:
-   a. Welche Tatsachen sind ergänzungsfähig?
-   b. Welche Belege fehlen?
-   c. Welche Formulierungen sind missverständlich?
+ a. Welche Tatsachen sind ergänzungsfähig?
+ b. Welche Belege fehlen?
+ c. Welche Formulierungen sind missverständlich?
 6. Bei BSFZ: ergänzende Stellungnahme oder neuer Antrag.
 7. Bei Finanzamt: Einspruch fristwahrend einlegen, Begründung folgt.
 8. Verhandlungsgespräch mit Sachbearbeiter prüfen.

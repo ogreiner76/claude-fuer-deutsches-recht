@@ -24,9 +24,9 @@ Skill fuer die cura annonae.
 
 - Privatreedereien mit staatlich genehmigtem Getreidetransport.
 - Privilegien:
-  - Steuerbefreiung.
-  - Befreiung von munera (kommunale Lasten).
-  - Verminderte Strafen bei Schiffshavarien.
+ - Steuerbefreiung.
+ - Befreiung von munera (kommunale Lasten).
+ - Verminderte Strafen bei Schiffshavarien.
 
 ## Annona civica
 

@@ -1,6 +1,6 @@
 ---
 name: rom-031-innominatkontrakte
-description: "Römisches Recht: Innominatkontrakte. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Innominatkontrakte. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Innominatkontrakte

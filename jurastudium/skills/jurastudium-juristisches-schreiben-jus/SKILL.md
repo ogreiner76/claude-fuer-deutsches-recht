@@ -1,13 +1,13 @@
 ---
 name: jurastudium-juristisches-schreiben-jus
-description: "Nutze dies, wenn Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Jurastudium Anpassen, Juristisches Schreiben, Jus Klausurtraining Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -185,7 +185,7 @@ Juristische Schreibkompetenz entsteht durch eigenes Schreiben, Feedback und Übe
 - **Entwurf** (als Text einfügen oder Pfad angeben)
 - **Textsorte** (Hausarbeit, Seminararbeit, Dissertation, Aufsatz, Klausur im Urteilsstil)
 - **Rechtsgebiet und Problemstellung** (kurze Angabe)
-- **Prüfungsmaßstab** (Examensarbeit / Seminarnote / Einreichung bei JuS, JA, NJW-Spezial etc.)
+- **Prüfungsmaßstab** (Examensarbeit / Seminarnote / Einreichung bei JuS, JA, NJW-etc.)
 - Optional: **Aufgabenstellung** oder Bewertungsrichtlinien des Betreuers
 
 ## Rechtlicher Rahmen

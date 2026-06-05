@@ -1,13 +1,13 @@
 ---
 name: cl-mandantenuebersicht-cl-prozesskostenrisiko
-description: "Nutze dies, wenn Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Spezial Precedent Vs Statute im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Bitte Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Spezial Precedent Vs Statute prüfen.; Erstelle eine Arbeitsfassung zu Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Spezial Precedent Vs Statute.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Precedent Vs Statute: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Spezial Precedent Vs Statute
+# Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Precedent Vs Statute
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Precedent Vs Statute** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Spezial Precedent Vs Statute** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `common-law-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Precedent Vs Statute** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `common-law-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears 
 ## Aufgabe
 Mandantenuebersicht englischsprachig vorbereiten: typische Mandantenfragen zu Common-Law-Unterschieden, Vertragsverhandlung mit US-/UK-Counterparties, Litigation in DE gegenueber Common-Law-Gerichtsbarkeit.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -108,7 +108,7 @@ Dieser Skill gehoert zum Plugin `common-law-kompass`. Er ergaenzt die uebrigen S
 ## Aufgabe
 Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -172,7 +172,7 @@ Dieser Skill gehoert zum Plugin `common-law-kompass`. Er ergaenzt die uebrigen S
 # Common Law: Precedent gegen Statute
 
 ## Spezialwissen: Common Law: Precedent gegen Statute
-- **Spezialgegenstand:** Common Law: Precedent gegen Statute / cl spezial precedent vs statute. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Common Law: Precedent gegen Statute / cl precedent vs statute. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** USA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

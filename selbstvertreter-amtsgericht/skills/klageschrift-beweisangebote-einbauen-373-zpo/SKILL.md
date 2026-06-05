@@ -55,7 +55,7 @@ oder
 
 ```
 Beweis: Urkunde — Kaufvertrag vom 5.3.2025
-        (Anlage K1)
+ (Anlage K1)
 ```
 
 - Anlage fuegen Sie der Klage bei.
@@ -70,7 +70,7 @@ Muster:
 
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
-        Musterstrasse 1, 12345 Musterstadt
+ Musterstrasse 1, 12345 Musterstadt
 ```
 
 Pflichtangaben:
@@ -83,11 +83,11 @@ Beispiel mit Beweisthema:
 
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
-        Musterstrasse 1, 12345 Musterstadt,
-        zum Beweis dafuer, dass der Beklagte
-        bei der Lieferung am 12.3.2025 anwesend
-        war und persoenlich den Lieferschein
-        unterzeichnete.
+ Musterstrasse 1, 12345 Musterstadt,
+ zum Beweis dafuer, dass der Beklagte
+ bei der Lieferung am 12.3.2025 anwesend
+ war und persoenlich den Lieferschein
+ unterzeichnete.
 ```
 
 Skill `zeugenbeweis-373-ff-zpo`.
@@ -98,8 +98,8 @@ Muster:
 
 ```
 Beweis: Einholung eines Sachverstaendigen-Gutachtens
-        zum Beweis dafuer, dass die Reparaturkosten
-        des Fahrzeugs 4.250 EUR betragen.
+ zum Beweis dafuer, dass die Reparaturkosten
+ des Fahrzeugs 4.250 EUR betragen.
 ```
 
 - Sie muessen das **Beweisthema** klar formulieren.
@@ -113,9 +113,9 @@ Muster:
 
 ```
 Beweis: Inaugenscheinnahme des beschaedigten
-        Sofas durch das Gericht;
-        ergaenzend Anlage K6 (Fotos des Sofas
-        nach Beschaedigung).
+ Sofas durch das Gericht;
+ ergaenzend Anlage K6 (Fotos des Sofas
+ nach Beschaedigung).
 ```
 
 - Bei groesseren Objekten (Auto, Wohnung): Augenschein vor Ort, durch beauftragten Richter / Gerichtsvollzieher.
@@ -129,7 +129,7 @@ Muster:
 
 ```
 Beweis: Parteivernehmung des Klaegers gemaess
-        §§ 445, 448 ZPO
+ §§ 445, 448 ZPO
 ```
 
 - Nur subsidiaer (wenn keine anderen Beweismittel).
@@ -143,8 +143,8 @@ Sie koennen kumulativ mehrere benennen:
 
 ```
 Beweis: Anlage K2 (Lieferschein),
-        sowie Zeugnis des Herrn Mustermann,
-        Musterstrasse 1, 12345 Musterstadt.
+ sowie Zeugnis des Herrn Mustermann,
+ Musterstrasse 1, 12345 Musterstadt.
 ```
 
 Vorteil: Wenn ein Beweismittel scheitert, traegt das andere.

@@ -1,13 +1,13 @@
 ---
 name: anbietern-belehrung-sonderfall-edge
-description: "Nutze dies, wenn Spezial Anbietern Schriftsatz Brief Und Memo Bausteine, Spezial Belehrung Abschlussprodukt Und Übergabe, Spezial Berufsrecht Sonderfall Und Edge Case im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Anbietern Schriftsatz Brief Und Memo Bausteine, Spezial Belehrung Abschlussprodukt Und Übergabe, Spezial Berufsrecht Sonderfall Und Edge Case prüfen.; Erstelle eine Arbeitsfassung zu Spezial Anbietern Schriftsatz Brief Und Memo Bausteine, Spezial Belehrung Abschlussprodukt Und Übergabe, Spezial Berufsrecht Sonderfall Und Edge Case.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anbietern Schriftsatz Brief Und Memo Bausteine, Belehrung Abschlussprodukt Und Uebergabe, Berufsrecht Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Anbietern Schriftsatz Brief Und Memo Bausteine, Spezial Belehrung Abschlussprodukt Und Übergabe, Spezial Berufsrecht Sonderfall Und Edge Case
+# Anbietern Schriftsatz Brief Und Memo Bausteine, Belehrung Abschlussprodukt Und Übergabe, Berufsrecht Sonderfall Und Edge Case
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anbietern Schriftsatz Brief Und Memo Bausteine, Belehrung Abschlussprodukt Und Übergabe, Berufsrecht Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Anbietern Schriftsatz Brief Und Memo Bausteine, Spezial Belehrung Abschlussprodukt Und Übergabe, Spezial Berufsrecht Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-ki-vertragspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anbietern Schriftsatz Brief Und Memo Bausteine, Belehrung Abschlussprodukt Und Übergabe, Berufsrecht Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-ki-vertragspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Anbietern Schriftsatz Brief Und Memo Bausteine, Spezial Belehrung
 # Anbietern: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Anbietern: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Anbietern: Schriftsatz-, Brief- und Memo-Bausteine / spezial anbietern schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Anbietern: Schriftsatz-, Brief- und Memo-Bausteine / anbietern schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -90,7 +90,7 @@ Standardisierte Anfragen ohne Anpassung an den konkreten Use Case wirken oft anm
 # Belehrung: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Belehrung: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Belehrung: Abschlussprodukt und Übergabe / spezial belehrung abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Belehrung: Abschlussprodukt und Übergabe / belehrung abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -131,7 +131,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Berufsrecht: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Berufsrecht: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Berufsrecht: Sonderfall und Edge-Case-Prüfung / spezial berufsrecht sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Berufsrecht: Sonderfall und Edge-Case-Prüfung / berufsrecht sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: gymnasialempfehlung-uebergang-handyverbot
-description: "Nutze dies, wenn Gymnasialempfehlung Und Uebergang, Handyverbot Und Digitalgeraete, Hausaufgaben Und Betreuungspflichten, Inklusion Sgb Schnittstelle im Plugin Schulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Gymnasialempfehlung Und Uebergang, Handyverbot Und Digitalgeraete, Hausaufgaben Und Betreuungspflichten, Inklusion Sgb Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Gymnasialempfehlung Und Uebergang, Handyverbot Und Digitalgeraete, Hausaufgaben Und Betreuungspflichten, Inklusion Sgb Schnittstelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gymnasialempfehlung Und Uebergang, Handyverbot Und Digitalgeraete, Hausaufgaben Und Betreuungspflichten, Inklusion Sgb Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gymnasialempfehlung Und Uebergang, Handyverbot Und Digitalgeraete, Hausaufgaben Und Betreuungspflichten, Inklusion Sgb Schnittstelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gymnasialempfehlung Und Uebergang, Handyverbot Und Digitalgeraete, Hausaufgaben Und Betreuungspflichten, Inklusion Sgb Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

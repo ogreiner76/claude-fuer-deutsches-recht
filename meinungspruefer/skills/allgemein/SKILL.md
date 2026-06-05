@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Meinungsprüfer. Fragt Wortlaut, Kontext, Medium, Publikum, Tatsachenkern, Belege, betroffene Person, Anlass, Vorgeschichte, gewünschtes Ziel und Risiko ab; schlägt passende Spezial-Skills zu Beleidigung, Tatsachenbehauptung, Art 5 GG, Europarecht, OLG-Praxis, US-Vergleich, Zivilrecht, Plattformen, Schule, Arbeit und kommunaler Machtkritik vor."
+description: "Einstieg, Schnelltriage und Fallrouting im Meinungsprüfer. Fragt Wortlaut, Kontext, Medium, Publikum, Tatsachenkern, Belege, betroffene Person, Anlass, Vorgeschichte, gewünschtes Ziel und Risiko ab; schlägt passende Fachmodule zu Beleidigung, Tatsachenbehauptung, Art 5 GG, Europarecht, OLG-Praxis, US-Vergleich, Zivilrecht, Plattformen, Schule, Arbeit und kommunaler Machtkritik vor."
 ---
 
 # Meinungsprüfer - Allgemein
@@ -31,7 +31,7 @@ Wenn der Nutzer nur Screenshots, Mails oder Chatverläufe hochlädt, arbeite sof
 - Ordne Medium und Adressatenkreis ein.
 - Markiere die wahrscheinlichsten Normpfade.
 - Stelle höchstens eine Rückfrage, wenn ohne sie die Richtung kippt.
-- Schlage zwei bis fünf passende Spezialskills vor.
+- Schlage zwei bis fünf passende Fachmodule vor.
 
 ## Routing
 

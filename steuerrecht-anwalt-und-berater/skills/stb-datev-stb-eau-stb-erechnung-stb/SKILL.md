@@ -1,13 +1,13 @@
 ---
 name: stb-datev-stb-eau-stb-erechnung-stb
-description: "Nutze dies, wenn Stb Datev Lohn Modul Lodas Luh, Stb Eau Elektronische Arbeitsunfaehigkeit 2023, Stb Erechnung Pflicht B2B 2025 2026, Stb Jahresabschluss Anlagenverzeichnis Afa, Stb Jahresabschluss Bestandskonten Abstimmung und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Datev Lohn Modul Lodas Luh, Stb Eau Elektronische Arbeitsunfaehigkeit 2023, Stb Erechnung Pflicht B2B 2025 2026, Stb Jahresabschluss Anlagenverzeichnis Afa, Stb Jahresabschluss Bestandskonten Abstimmung und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Datev Lohn Modul Lodas Luh, Stb Eau Elektronische Arbeitsunfaehigkeit 2023, Stb Erechnung Pflicht B2B 2025 2026, Stb Jahresabschluss Anlagenverzeichnis Afa, Stb Jahresabschluss Bestandskonten Abstimmung und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Datev Lohn Modul Lodas Luh, Stb Eau Elektronische Arbeitsunfaehigkeit 2023, Stb Erechnung Pflicht B2b 2025 2026, Stb Jahresabschluss Anlagenverzeichnis Afa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Datev Lohn Modul Lodas Luh, Stb Eau Elektronische Arbeitsunfaehigkeit 2023, Stb Erechnung Pflicht B2B 2025 2026, Stb Jahresabschluss Anlagenverzeichnis Afa, Stb Jahresabschluss Bestandskonten Abstimmung und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Datev Lohn Modul Lodas Luh, Stb Eau Elektronische Arbeitsunfaehigkeit 2023, Stb Erechnung Pflicht B2B 2025 2026, Stb Jahresabschluss Anlagenverzeichnis Afa, Stb Jahresabschluss Bestandskonten Abstimmung und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -205,13 +205,13 @@ Seit 01.01.2023 (mit Uebergangsphase) ist die elektronische Arbeitsunfaehigkeits
 
 ```
 AN meldet sich krank (Telefon, Mail)
-   ↓
+ ↓
 AG erfaesst Krankheitsbeginn in Lohnprogramm
-   ↓
+ ↓
 AG-System ruft automatisch eAU-Daten ab
-   ↓
+ ↓
 Krankenkasse liefert Diagnose-Codes und Dauer
-   ↓
+ ↓
 Lohnabrechnung mit Entgeltfortzahlung-Anteil
 ```
 
@@ -384,13 +384,13 @@ ein Vorsteuerabzug kann gefaehrdet sein.
 
 Wir bitten Sie, folgende Schritte zu pruefen:
 1. Empfangs-E-Mail-Adresse fuer eRechnungen festlegen
-   (z.B. rechnungen@ihre-firma.de) und Lieferanten mitteilen.
+ (z.B. rechnungen@ihre-firma.de) und Lieferanten mitteilen.
 2. Buchhaltungssoftware auf eRechnungs-Empfang konfigurieren
-   (XRechnung XML / ZUGFeRD ab Profil EN-16931).
+ (XRechnung XML / ZUGFeRD ab Profil EN-16931).
 3. GoBD-konforme Archivierung im Originalformat XML sicherstellen.
 4. Bis 31.12.2026 (bzw. 31.12.2027 fuer Mandanten mit Umsatz <= 800.000 EUR)
-   kann der Versand weiterhin als PDF mit Empfaengerzustimmung erfolgen;
-   ab 01.01.2028 ist der eRechnungs-Versand zwingend.
+ kann der Versand weiterhin als PDF mit Empfaengerzustimmung erfolgen;
+ ab 01.01.2028 ist der eRechnungs-Versand zwingend.
 
 Fuer die Einrichtung des Empfangs- und Versand-Workflows beraten wir Sie gerne.
 
@@ -410,7 +410,7 @@ Mit freundlichen Gruessen
 ## Strategie und Praxis-Tipps
 
 - Die wichtigste Stufe ist seit 01.01.2025 die **Empfangsbereitschaft** — ohne sie kann ein eRechnungs-pflichtiger Lieferant nicht ordnungsgemaess abrechnen, der Mandant verliert ggf. den Vorsteuerabzug.
-- Mindest-Empfangsweg ist ein E-Mail-Postfach, das XML-/PDF-Anhaenge bis ueblicher Groesse annimmt; ein dediziertes eRechnungs-Postfach erleichtert Workflow und GoBD-Archivierung.
+- Mindest-Empfangsweg ist ein E-Mail-Postfach, das XML-/PDF-Anhaenge bis ueblicher Groesse annimmt; ein dediziertes eRechnungs-Postfach erleichtert und GoBD-Archivierung.
 - ZUGFeRD eignet sich als Einstiegsformat fuer Mittelstand und Kleinunternehmer (PDF bleibt fuer den Anwender lesbar). XRechnung ist Pflichtformat im B2G-Verkehr mit Bundesstellen (E-Rech-VO seit 27.11.2020) und in einigen Laendern.
 - DATEV-Hinweis: In DATEV Unternehmen Online laesst sich der eRechnungs-Empfang ueber das Postfach "Eingangsrechnungen" und das ZUGFeRD-Auswertungsmodul konfigurieren; konkrete Programmpfade in DATEV-Onlinehilfe und Versionshinweisen nachschlagen.
 - StBVV: Konfigurationsberatung als Beratungsleistung gem. § 21 StBVV oder Pauschalvereinbarung gem. § 14 StBVV (Mandanten frueh per Rundschreiben informieren — Mustertext im Skill `stb-mandantenanfrage-reaktion-frist-laufend`).
@@ -509,10 +509,10 @@ Der Anlagenspiegel (Anlagenverzeichnis) bildet die Bestandsentwicklung des Anlag
 
 ```
 ANLAGENSPIEGEL [Geschaeftsjahr]
-Position           | AHK Anfang | Zugang | Abgang | Umgliederung | Endbestand AHK | Kum. AfA Anfang | AfA des Jahres | Abgang AfA | Kum. AfA Ende | Buchwert Anfang | Buchwert Ende
-Immaterielle WG    | [X]        | [Y]    | [Z]    | -            | [A]            | [B]             | [C]            | [Z]        | [D]           | [E]             | [F]
-Sachanlagen        | ...
-Finanzanlagen      | ...
+Position | AHK Anfang | Zugang | Abgang | Umgliederung | Endbestand AHK | Kum. AfA Anfang | AfA des Jahres | Abgang AfA | Kum. AfA Ende | Buchwert Anfang | Buchwert Ende
+Immaterielle WG | [X] | [Y] | [Z] | - | [A] | [B] | [C] | [Z] | [D] | [E] | [F]
+Sachanlagen | ...
+Finanzanlagen | ...
 ```
 
 ### Phase 2 — Zugaenge

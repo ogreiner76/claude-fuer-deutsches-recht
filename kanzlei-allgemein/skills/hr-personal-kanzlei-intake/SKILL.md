@@ -1,13 +1,13 @@
 ---
 name: hr-personal-kanzlei-intake
-description: "Nutze dies, wenn Kanzlei Allgemein Hr Personal, Kanzlei Allgemein Intake im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Kanzlei Allgemein Hr Personal, Kanzlei Allgemein Intake: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kanzlei Allgemein Hr Personal, Kanzlei Allgemein Intake
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Allgemein Hr Personal, Kanzlei Allgemein Intake** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -152,7 +152,7 @@ Dieser Skill nimmt beliebige Eingänge entgegen und macht daraus eine geordnete 
 - Empfangsbekenntnis nie ohne Freigabe abgeben.
 - Keine beA-PIN, Zertifikate oder Token speichern.
 - Bei beA-Connect immer `kanzlei-allgemein-bea-journal` verwenden: Nachrichtenjournal einsehen, Screenshot sichern, jede eingegangene Nachricht als ZIP exportieren oder herunterladen, ZIP entpacken und der Akte zuordnen.
-- Wenn ein elektronisches Empfangsbekenntnis verlangt wird, EB-Workflow anbieten und vor Abgabe ausdrücklich warnen.
+- Wenn ein elektronisches Empfangsbekenntnis verlangt wird, EB-anbieten und vor Abgabe ausdrücklich warnen.
 
 ### Fax und Brief
 

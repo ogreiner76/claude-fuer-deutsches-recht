@@ -1,19 +1,19 @@
 ---
 name: debitorenkommunikation-abtretungsanzeige
-description: "Nutze dies, wenn Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme prüfen.; Erstelle eine Arbeitsfassung zu Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `debitorenkommunikation-und-abtretungsanzeige` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Debitorenkommunikation und Abtretungsanzeige. |
+| `debitorenkommunikation-und-abtretungsanzeige` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Debitorenkommunikation und Abtretungsanzeige. |
 | `debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb` | Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `doppelabtretung-prioritaet-und-gutglaubensprobleme` | Doppelabtretung Priorität und Gutglaubensprobleme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 
@@ -26,7 +26,7 @@ Für **Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendunge
 
 ## 1. `debitorenkommunikation-und-abtretungsanzeige`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Debitorenkommunikation und Abtretungsanzeige.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Debitorenkommunikation und Abtretungsanzeige.
 
 # Debitorenkommunikation und Abtretungsanzeige
 
@@ -67,7 +67,7 @@ Fragen zum Einstieg:
 - **DSGVO Art. 14**: Information bei Erhebung personenbezogener Daten aus dritter Quelle.
 - **§ 286 BGB**: Verzug – die Mahnung muss vom richtigen Gläubiger ausgehen.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Zessionsmodell festlegen**: Offen, still, gestuft.
 2. **Anzeigetext erstellen**: Identifikation der Forderung, Identifikation des Neugläubigers, Bankverbindung, Datum der Abtretung.
@@ -184,7 +184,7 @@ Fragen zum Einstieg:
 - **§ 320 BGB**: Einrede des nicht erfüllten Vertrags.
 - **§ 354 BGB**: Bestimmung der Leistung durch eine Partei – relevant bei Boni.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Einwendung klassifizieren**: Einrede gegen Bestand (Verjährung, Erfüllung), Einrede gegen Höhe (Mängel, Boni), Aufrechnung mit Gegenforderung.
 2. **Zeitpunkt prüfen**: Ist die Einwendung vor oder nach der Abtretung entstanden?
@@ -294,7 +294,7 @@ Fragen zum Einstieg:
 - **§ 161 InsO**: Insolvenzanfechtung – nachträglicher Konkurrenzangriff.
 - **BGH zur Reichweite des "verlängerten" EV** (st. Rspr.): Forderung aus Weiterverkauf von Vorbehaltsware geht dem Lieferanten zu.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Zeitstrahl erstellen**: Welche Abtretung wurde wann vereinbart? Datum, Vertragspartner, Reichweite.
 2. **Bestimmbarkeit prüfen**: Ist jede Abtretung hinreichend bestimmt formuliert?

@@ -84,9 +84,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - `Lücke_3W = Summe aller offen bleibenden fälligen Verbindlichkeiten in t, t+1, t+2 abzüglich erwarteter Zugänge in t+1, t+2`
 - `Quote = Lücke_3W / fällige Verbindlichkeiten in t`
 - **Ampel**:
-  - 🟢 **Grün**: Quote < 10 % (Zahlungsfähigkeit gegeben).
-  - 🟡 **Gelb (Zahlungsstockung)**: Quote ≥ 10 %, aber Lücke_3W am Ende von *t+2* gleich null (binnen 3 Wochen schließbar).
-  - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - 🟢 **Grün**: Quote < 10 % (Zahlungsfähigkeit gegeben).
+ - 🟡 **Gelb (Zahlungsstockung)**: Quote ≥ 10 %, aber Lücke_3W am Ende von *t+2* gleich null (binnen 3 Wochen schließbar).
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Hinweise auf Zahlungsunfähigkeit auch bei 🟡: SV-Rückstände, Lastschriftrückläufer, Stundungsanfragen, eingestellte Zahlungen an Finanzamt/Krankenkasse. Falls ≥ 2 Indizien → Eskalation wie 🔴.

@@ -77,7 +77,7 @@ Schauen Sie sich an, welche B-Anlagen der Beklagte vorgelegt hat. Notieren Sie: 
 
 ### Schritt 3 — Eigene neue K-Anlagen festlegen
 
-Wenn Sie neue Beweisstuecke brauchen, fangen Sie bei K9 an (nicht bei K1!). 
+Wenn Sie neue Beweisstuecke brauchen, fangen Sie bei K9 an (nicht bei K1!).
 
 ### Schritt 4 — Im Text verweisen
 

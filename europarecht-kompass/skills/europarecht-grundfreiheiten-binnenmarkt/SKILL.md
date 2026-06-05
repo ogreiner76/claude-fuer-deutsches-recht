@@ -1,13 +1,13 @@
 ---
 name: europarecht-grundfreiheiten-binnenmarkt
-description: "Nutze dies, wenn Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh im Plugin Europarecht Kompass konkret bearbeitet werden soll. Auslöser: Bitte Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh prüfen.; Erstelle eine Arbeitsfassung zu Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -117,13 +117,13 @@ Sachverhalt: [KURZBESCHREIBUNG]
 2. GRENZUEBERSCHREITENDER BEZUG: [JA / NEIN]
 
 3. BESCHRAENKUNG: [Beschreibung]
-   Diskriminierung: [offene / versteckte / keine]
-   Marktzugangshemmnis: [JA / NEIN — Begruendung]
+ Diskriminierung: [offene / versteckte / keine]
+ Marktzugangshemmnis: [JA / NEIN — Begruendung]
 
 4. RECHTFERTIGUNG
-   Art. [36 / 45 Abs. 3 / 52] AEUV: [Sicherheit / Gesundheit / oeffentl. Ordnung]
-   Zwingende Erfordernisse (Cassis): [Verbraucherschutz / Umwelt / ...]
-   Verhaeltnismaessigkeit: [geeignet / erforderlich / angemessen — je JA/NEIN]
+ Art. [36 / 45 Abs. 3 / 52] AEUV: [Sicherheit / Gesundheit / oeffentl. Ordnung]
+ Zwingende Erfordernisse (Cassis): [Verbraucherschutz / Umwelt / ...]
+ Verhaeltnismaessigkeit: [geeignet / erforderlich / angemessen — je JA/NEIN]
 
 5. ERGEBNIS
 [ ] Keine Beschraenkung

@@ -1,13 +1,13 @@
 ---
 name: datenschutzpanne-notariat-dienstaufsicht-02
-description: "Nutze dies, wenn Notare Datenschutzpanne Notariat Kaltstart Und Faktenmatrix, Notare Dienstaufsicht Beschwerde Kaltstart Und Faktenmatrix, Notare Disziplinarverfahren Notar Kaltstart Und Faktenmatrix, Notare Dolmetscher Und Sprachrisiko Kaltstart Und Faktenmatrix, Notare Erbvertrag Testament Belehrung Kaltstart Und Faktenmatri im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Datenschutzpanne Notariat Kaltstart Und Faktenmatrix, Notare Dienstaufsicht Beschwerde Kaltstart Und Faktenmatrix, Notare Disziplinarverfahren Notar Kaltstart Und Faktenmatrix, Notare Dolmetscher Und Sprachrisiko Kaltstart Und Faktenmatrix, Notare Erbvertrag Testament Belehrung Kaltstart Und Faktenmatri prüfen.; Erstelle eine Arbeitsfassung zu Notare Datenschutzpanne Notariat Kaltstart Und Faktenmatrix, Notare Dienstaufsicht Beschwerde Kaltstart Und Faktenmatrix, Notare Disziplinarverfahren Notar Kaltstart Und Faktenmatrix, Notare Dolmetscher Und Sprachrisiko Kaltstart Und Fakt..."
+description: "Nutze dies bei Notare Datenschutzpanne Notariat Kaltstart Und Faktenmatrix, Notare Dienstaufsicht Beschwerde Kaltstart Und Faktenmatrix, Notare Disziplinarverfahren Notar Kaltstart Und Faktenmatrix, Notare Dolmetscher Und Sprachrisiko Kaltstart Und Faktenmatrix: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Datenschutzpanne Notariat Kaltstart Und Faktenmatrix, Notare Dienstaufsicht Beschwerde Kaltstart Und Faktenmatrix, Notare Disziplinarverfahren Notar Kaltstart Und Faktenmatrix, Notare Dolmetscher Und Sprachrisiko Kaltstart Und Faktenmatrix, Notare Erbvertrag Testament Belehrung Kaltstart Und Faktenmatri
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Datenschutzpanne Notariat Kaltstart Und Faktenmatrix, Notare Dienstaufsicht Beschwerde Kaltstart Und Faktenmatrix, Notare Disziplinarverfahren Notar Kaltstart Und Faktenmatrix, Notare Dolmetscher Und Sprachrisiko Kaltstart Und Faktenmatrix, Notare Erbvertrag Testament Belehrung Kaltstart Und Faktenmatri** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: kueschk-formfehler-guetetermin-strategie
-description: "Nutze dies, wenn Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kündigungsschutzklage Formfehler Prüfen, Kündigungsschutzklage Guetetermin Strategie Und Sprechzettel, Kündigungsschutzklage Kammertermin Sprechzettel, Kündigungsschutzklage Klageschrift Anwalt Baustein** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -121,25 +121,25 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ```
 Kündigung erhalten?
 └─ Schriftform § 623 BGB?
-    ├─ E-Mail/Fax/Scan → NICHTIG nach § 125 BGB; sofort rügen
-    └─ Original mit Unterschrift → weiter prüfen
+ ├─ E-Mail/Fax/Scan → NICHTIG nach § 125 BGB; sofort rügen
+ └─ Original mit Unterschrift → weiter prüfen
 
 Wer hat unterschrieben?
 ├─ Arbeitgeber selbst → kein Problem
 └─ Vertreter → Vollmacht beigefügt?
-    ├─ Ja → OK
-    └─ Nein → SOFORT unverzüglich zurückweisen (§ 174 BGB)!
-               → Bevollmächtigter dem AN bekannt gemacht? → Ja: kein Rügerecht
+ ├─ Ja → OK
+ └─ Nein → SOFORT unverzüglich zurückweisen (§ 174 BGB)!
+ → Bevollmächtigter dem AN bekannt gemacht? → Ja: kein Rügerecht
 
 Gibt es BR?
 ├─ Nein → kein BetrVG-Fehler
 └─ Ja → BR ordnungsgemäß angehört?
-    ├─ Ja → OK
-    └─ Nein/unvollständig → Kündigung unwirksam (§ 102 BetrVG)
+ ├─ Ja → OK
+ └─ Nein/unvollständig → Kündigung unwirksam (§ 102 BetrVG)
 
 Massenentlassung?
 └─ Schwellenwerte § 17 KSchG erfüllt?
-    └─ Ja → Anzeige vor Zugang der Kündigung eingegangen? → Nein: unwirksam
+ └─ Ja → Anzeige vor Zugang der Kündigung eingegangen? → Nein: unwirksam
 ```
 
 ## Zusammenfassung Formfehler-Matrix

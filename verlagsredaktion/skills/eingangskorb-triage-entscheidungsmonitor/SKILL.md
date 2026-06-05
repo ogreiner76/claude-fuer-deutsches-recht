@@ -1,13 +1,13 @@
 ---
 name: eingangskorb-triage-entscheidungsmonitor
-description: "Nutze dies, wenn Eingangskorb Triage, Entscheidungsmonitor Rechtsstand, Fremdtext Plagiat Uebernahmecheck, Knowledge Base Faq Kundenservice, Kommentar Aktualisierung Randnummern im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Eingangskorb Triage, Entscheidungsmonitor Rechtsstand, Fremdtext Plagiat Uebernahmecheck, Knowledge Base Faq Kundenservice, Kommentar Aktualisierung Randnummern prüfen.; Erstelle eine Arbeitsfassung zu Eingangskorb Triage, Entscheidungsmonitor Rechtsstand, Fremdtext Plagiat Uebernahmecheck, Knowledge Base Faq Kundenservice, Kommentar Aktualisierung Randnummern.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eingangskorb Triage, Entscheidungsmonitor Rechtsstand, Fremdtext Plagiat Uebernahmecheck, Knowledge Base Faq Kundenservice: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eingangskorb Triage, Entscheidungsmonitor Rechtsstand, Fremdtext Plagiat Uebernahmecheck, Knowledge Base Faq Kundenservice, Kommentar Aktualisierung Randnummern
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eingangskorb Triage, Entscheidungsmonitor Rechtsstand, Fremdtext Plagiat Uebernahmecheck, Knowledge Base Faq Kundenservice, Kommentar Aktualisierung Randnummern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -52,7 +52,7 @@ Für **Eingangskorb Triage, Entscheidungsmonitor Rechtsstand, Fremdtext Plagiat 
 - Eingangskorb-Tabelle.
 - Tagesprioritäten.
 - E-Mail-Entwürfe für Nachforderungen.
-- Übergabe an passende Spezialskills.
+- Übergabe an passende Fachmodule.
 
 ## Schneller Arbeitsmodus
 

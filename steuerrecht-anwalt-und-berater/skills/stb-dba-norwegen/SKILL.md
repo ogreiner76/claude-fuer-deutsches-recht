@@ -146,13 +146,13 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Petroleum-Sondersteuer, EWR-Status, Wegzugsbesteuerung.
 3. **Kurzantwort**: DBA-Norwegen 1991 Art. X regelt das Besteuerungsrecht; Freistellung mit Progressionsvorbehalt aktive Einkuenfte.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-NO 1991).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Bei Offshore: gesonderte Klausel; 30-Tage-Schwelle.
-   - Einkunftsart und Verteilungsartikel.
-   - Methodenartikel (Freistellung aktive Einkuenfte / Anrechnung passive).
-   - § 6 AStG bei Wegzug (EWR-erleichtert).
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-NO 1991).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Bei Offshore: gesonderte Klausel; 30-Tage-Schwelle.
+ - Einkunftsart und Verteilungsartikel.
+ - Methodenartikel (Freistellung aktive Einkuenfte / Anrechnung passive).
+ - § 6 AStG bei Wegzug (EWR-erleichtert).
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: Petroleum-Sondersteuer-Anrechnungsverlust, EWR-vs-EU-Recht, MLI-Anwendung.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

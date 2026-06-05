@@ -15,7 +15,7 @@ description: "Brueckenskill: Wie verzahnt sich die Rulemap-Arbeit mit der uebrig
 
 ## Kern der Methode
 
-Die Rulemap-Skills bilden eine eigene Subkette; sie werden nach der Ressort- und Sachfeld-Klaerung in das Werkstatt-Workflow eingehaengt. Die Quercheckskills (verfassungsmaessigkeit; europarechtskonformitaet) wirken weiter; die rmap-Skills liefern zusaetzlich die maschinenlesbare Fassung.
+Die Rulemap-Skills bilden eine eigene Subkette; sie werden nach der Ressort- und Sachfeld-Klaerung in das Werkstatt-eingehaengt. Die Quercheckskills (verfassungsmaessigkeit; europarechtskonformitaet) wirken weiter; die rmap-Skills liefern zusaetzlich die maschinenlesbare Fassung.
 
 ## Vorgehen
 
@@ -33,10 +33,10 @@ Pruefen: ist die Werkstattkette vollstaendig durchlaufen? Sind Querprueferei und
 ## Output
 
 ```
-Skill:              legw-rmap-anschluss-an-legw
-Thema:              Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-anschluss-an-legw
+Thema: Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

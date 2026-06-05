@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-012-erster-titel-9-grundstuecke
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn

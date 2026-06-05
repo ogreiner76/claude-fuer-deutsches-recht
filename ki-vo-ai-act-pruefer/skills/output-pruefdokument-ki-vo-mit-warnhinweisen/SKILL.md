@@ -34,13 +34,13 @@ Aus `liegt-ki-system-vor-art-3-nr-1` übernehmen:
 
 | Element | Ergebnis | Begründung |
 |---|---|---|
-| maschinenbasiertes System | Ja/Nein/Unklar |  |
-| Autonomiegrad | Ja/Nein/Unklar |  |
-| Adaptivität | Ja/Nein/Unklar/Nicht erforderlich |  |
-| explizite/implizite Ziele | Ja/Nein/Unklar |  |
-| Inferenz aus Eingaben | Ja/Nein/Unklar |  |
-| Output-Typ | Vorhersage/Inhalt/Empfehlung/Entscheidung |  |
-| Einfluss auf Umgebung | Ja/Nein/Unklar |  |
+| maschinenbasiertes System | Ja/Nein/Unklar | |
+| Autonomiegrad | Ja/Nein/Unklar | |
+| Adaptivität | Ja/Nein/Unklar/Nicht erforderlich | |
+| explizite/implizite Ziele | Ja/Nein/Unklar | |
+| Inferenz aus Eingaben | Ja/Nein/Unklar | |
+| Output-Typ | Vorhersage/Inhalt/Empfehlung/Entscheidung | |
+| Einfluss auf Umgebung | Ja/Nein/Unklar | |
 
 Pflichttext:
 ```text
@@ -69,12 +69,12 @@ Die allgemeine technische Nutzbarkeit eines GPAI-Systems oder Chatbots in Hochri
 
 | Prüfpunkt | Ergebnis | Fundstelle | Folge |
 |---|---|---|---|
-| Verbotene Praktik | Ja/Nein/Unklar | Art. 5 |  |
-| Hochrisiko Sicherheitsbauteil | Ja/Nein/Unklar | Art. 6 Abs. 1, Anhang I |  |
-| Hochrisiko Anhang III | Ja/Nein/Unklar | Art. 6 Abs. 2, Anhang III |  |
-| Rückausnahme | Greift/Greift nicht/Unklar | Art. 6 Abs. 3/4 |  |
-| Begrenztes Risiko | Ja/Nein/Unklar | Art. 50 |  |
-| GPAI-Modell/System | Ja/Nein/Unklar | Art. 3 Nr. 63/66, Art. 51 ff. |  |
+| Verbotene Praktik | Ja/Nein/Unklar | Art. 5 | |
+| Hochrisiko Sicherheitsbauteil | Ja/Nein/Unklar | Art. 6 Abs. 1, Anhang I | |
+| Hochrisiko Anhang III | Ja/Nein/Unklar | Art. 6 Abs. 2, Anhang III | |
+| Rückausnahme | Greift/Greift nicht/Unklar | Art. 6 Abs. 3/4 | |
+| Begrenztes Risiko | Ja/Nein/Unklar | Art. 50 | |
+| GPAI-Modell/System | Ja/Nein/Unklar | Art. 3 Nr. 63/66, Art. 51 ff. | |
 
 ### 6. Anhang-III-Matrix
 
@@ -82,14 +82,14 @@ Auch bei negativem Ergebnis kurz dokumentieren:
 
 | Nr. | Bereich | Ergebnis | Kurze Begründung |
 |---|---|---|---|
-| 1 | Biometrie | Ja/Nein/Unklar |  |
-| 2 | Kritische Infrastruktur | Ja/Nein/Unklar |  |
-| 3 | Bildung/Berufsausbildung | Ja/Nein/Unklar |  |
-| 4 | Beschäftigung/Arbeit | Ja/Nein/Unklar |  |
-| 5 | Wesentliche private/öffentliche Dienste | Ja/Nein/Unklar |  |
-| 6 | Strafverfolgung | Ja/Nein/Unklar |  |
-| 7 | Migration/Asyl/Grenze | Ja/Nein/Unklar |  |
-| 8 | Rechtspflege/demokratische Prozesse | Ja/Nein/Unklar |  |
+| 1 | Biometrie | Ja/Nein/Unklar | |
+| 2 | Kritische Infrastruktur | Ja/Nein/Unklar | |
+| 3 | Bildung/Berufsausbildung | Ja/Nein/Unklar | |
+| 4 | Beschäftigung/Arbeit | Ja/Nein/Unklar | |
+| 5 | Wesentliche private/öffentliche Dienste | Ja/Nein/Unklar | |
+| 6 | Strafverfolgung | Ja/Nein/Unklar | |
+| 7 | Migration/Asyl/Grenze | Ja/Nein/Unklar | |
+| 8 | Rechtspflege/demokratische Prozesse | Ja/Nein/Unklar | |
 
 ### 7. Betreiber- und Governance-Vermerk
 

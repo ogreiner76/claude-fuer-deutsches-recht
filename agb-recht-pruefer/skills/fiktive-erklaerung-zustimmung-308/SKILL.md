@@ -27,11 +27,11 @@ description: "Norm- und Dogmatik-Skill für Fiktive Erklärung Zustimmung 308: p
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 308 Nr. 5 BGB (fingierte Zustimmung):**
-   - Eine Klausel, nach der das Schweigen des Vertragspartners als Annahme oder Zustimmung gilt, ist nur wirksam, wenn (a) dem Vertragspartner eine angemessene Frist zur ausdrücklichen Erklärung gewährt wird und (b) der Verwender den Kunden bei Fristbeginn auf die vorgesehene Bedeutung seines Verhaltens (Zustimmungsfiktion) besonders hinweist.
-   - **Beide Anforderungen müssen kumulativ erfüllt sein.** Hinweispflicht muss in der Klausel selbst und im konkreten Mitteilungsschreiben erfolgen.
-   - **EuGH-Rechtsprechung Banken-AGB:** Pauschale Zustimmungsfiktion bei wesentlichen Vertragsänderungen (Preise, Hauptleistung) im B2C bei Zahlungsdiensten unwirksam (EuGH, Urteil vom 11.11.2020, C-287/19 - DenizBank); ständige Rechtsprechung in nationalen Banken-AGB-Fällen entsprechend (BGH, Urteil vom 27.04.2021, XI ZR 26/20 - Sparkassen). Beschränkung auf rein technische oder rechtlich gebotene Änderungen denkbar.
-   - **Frist:** Mindestens 6 Wochen sind im Banken- und Versicherungsbereich Praxis, im Allgemeinen 4-6 Wochen angemessen; kürzere Fristen nur ausnahmsweise tragfähig.
-   - **B2B-Ausstrahlung:** § 308 Nr. 5 BGB strahlt über § 307 BGB ins B2B aus. Im B2B sind allerdings Fiktionsklauseln eher noch zumutbar, jedoch nicht ohne Frist und ohne Hinweis.
+ - Eine Klausel, nach der das Schweigen des Vertragspartners als Annahme oder Zustimmung gilt, ist nur wirksam, wenn (a) dem Vertragspartner eine angemessene Frist zur ausdrücklichen Erklärung gewährt wird und (b) der Verwender den Kunden bei Fristbeginn auf die vorgesehene Bedeutung seines Verhaltens (Zustimmungsfiktion) besonders hinweist.
+ - **Beide Anforderungen müssen kumulativ erfüllt sein.** Hinweispflicht muss in der Klausel selbst und im konkreten Mitteilungsschreiben erfolgen.
+ - **EuGH-Rechtsprechung Banken-AGB:** Pauschale Zustimmungsfiktion bei wesentlichen Vertragsänderungen (Preise, Hauptleistung) im B2C bei Zahlungsdiensten unwirksam (EuGH, Urteil vom 11.11.2020, C-287/19 - DenizBank); ständige Rechtsprechung in nationalen Banken-AGB-Fällen entsprechend (BGH, Urteil vom 27.04.2021, XI ZR 26/20 - Sparkassen). Beschränkung auf rein technische oder rechtlich gebotene Änderungen denkbar.
+ - **Frist:** Mindestens 6 Wochen sind im Banken- und Versicherungsbereich Praxis, im Allgemeinen 4-6 Wochen angemessen; kürzere Fristen nur ausnahmsweise tragfähig.
+ - **B2B-Ausstrahlung:** § 308 Nr. 5 BGB strahlt über § 307 BGB ins B2B aus. Im B2B sind allerdings Fiktionsklauseln eher noch zumutbar, jedoch nicht ohne Frist und ohne Hinweis.
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel (Schweigen ist grundsätzlich keine Erklärung, § 147 BGB; Ausnahme: kaufmännisches Bestätigungsschreiben im B2B).
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

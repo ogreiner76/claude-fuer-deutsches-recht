@@ -38,7 +38,7 @@ Kaltstart Verbandsfall Aufnehmen wird nicht als abstraktes Schema beantwortet, s
 - Abmahnung/Unterlassungsantrag
 - Sammelklage-Fahrplan mit Kommunikationsregeln
 
-## Neue Spezialpfade mit Rechtsprechungsankern
+## Neue Fachpfade mit Rechtsprechungsankern
 
 - **Bankentgelte:** BGH XI ZR 26/20, XI ZR 139/23 und XI ZR 45/24 nicht nur zitieren, sondern in Anspruchsgruppen, Rückzahlungsmatrix und Verjährungsampel übersetzen.
 - **Inkasso:** Nach BGH VIII ZR 138/23 Konzerninkasso nicht pauschal verwerfen, sondern über Hauptforderung, Verzug, Erforderlichkeit, Höhe und Transparenz angreifen.

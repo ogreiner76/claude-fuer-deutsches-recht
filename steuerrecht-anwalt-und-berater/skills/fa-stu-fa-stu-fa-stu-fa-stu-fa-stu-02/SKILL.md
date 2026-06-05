@@ -1,13 +1,13 @@
 ---
 name: fa-stu-fa-stu-fa-stu-fa-stu-fa-stu-02
-description: "Nutze dies, wenn Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation, Fa Stu Onboarding Mandatsannahme und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -269,7 +269,7 @@ Ausdruecklich hingewiesen wurde auf:
 
 Der Mandant entscheidet sich fuer Option [...].
 
-[ORT, DATUM]   [UNTERSCHRIFT MANDANT]   [UNTERSCHRIFT BERATER]
+[ORT, DATUM] [UNTERSCHRIFT MANDANT] [UNTERSCHRIFT BERATER]
 ```
 
 ## Abgrenzung zu anderen Skills dieses Plugins
@@ -341,7 +341,7 @@ umfassend zur Vertretung, insbesondere zur:
 - Entgegennahme von Bescheiden und Schriftstuecken (§ 122 Abs. 1 S. 4 AO)
 - Verhandlungsfuehrung mit dem Finanzamt und Vereinbarungen tatsaechlicher Verstaendigung
 
-[ORT, DATUM]                          [UNTERSCHRIFT]
+[ORT, DATUM] [UNTERSCHRIFT]
 ```
 
 ## Abgrenzung zu anderen Skills dieses Plugins

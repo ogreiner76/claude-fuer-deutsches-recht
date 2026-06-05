@@ -1,13 +1,13 @@
 ---
 name: elsj-sozialgerichtsverfahren-strafverfahren
-description: "Nutze dies, wenn Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Spezial Bauen Fristennotiz Und Naechster Schritt im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Bitte Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Spezial Bauen Fristennotiz Und Naechster Schritt prüfen.; Erstelle eine Arbeitsfassung zu Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Spezial Bauen Fristennotiz Und Naechster Schritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Bauen Fristennotiz Und Naechster Schritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Spezial Bauen Fristennotiz Und Naechster Schritt
+# Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Bauen Fristennotiz Und Naechster Schritt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Bauen Fristennotiz Und Naechster Schritt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Spezial Bauen Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einfache-leichte-sprache-jura` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Bauen Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einfache-leichte-sprache-jura` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -135,7 +135,7 @@ Dieser Skill gehoert zum Plugin `einfache-leichte-sprache-jura`. Er ergaenzt die
 # Bauen: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Bauen: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Bauen: Fristennotiz und nächster Schritt / spezial bauen fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bauen: Fristennotiz und nächster Schritt / bauen fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

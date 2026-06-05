@@ -1,13 +1,13 @@
 ---
 name: egbr-mopeg-gesellschaftsgruender
-description: "Nutze dies, wenn Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Egbr Mopeg, Gesellschaftsgruender Familiengesellschaft, Gesellschaftsgruender Finanzierungsrunde Seed, Gesellschaftsgruender Firmenname Prüfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Egbr Mopeg, Gesellschaftsgründer Familiengesellschaft, Gesellschaftsgründer Finanzierungsrunde Seed, Gesellschaftsgründer Firmenname Prüfung, Gesellschaftsgründer Founder Vesting** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -111,10 +111,10 @@ Rechts, melden zur Eintragung in das Gesellschaftsregister an:
 2. Sitz: [ADRESSE]
 3. Gegenstand: [GEGENSTAND]
 4. Gesellschafter:
-   a) [NAME 1], geb. [DATUM], [ADRESSE]
-   b) [NAME 2], geb. [DATUM], [ADRESSE]
+ a) [NAME 1], geb. [DATUM], [ADRESSE]
+ b) [NAME 2], geb. [DATUM], [ADRESSE]
 5. Vertretungsbefugnis: [Gesamtvertretung / Einzelvertretung gemaess
-   Gesellschaftsvertrag § X]
+ Gesellschaftsvertrag § X]
 
 Anlagen:
 - Gesellschaftsvertrag vom [DATUM]
@@ -140,9 +140,9 @@ Unterschriften aller Gesellschafter (notariell beglaubigt)
 - MoPeG (BGBl. I 2021, 3436): https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id=%27bgbl121s3436.pdf%27]
 - BGH, Beschl. v. 03.07.2025 — V ZB 17/24 (Voreintragung der GbR im Gesellschaftsregister vor Grundbuchaenderung; ECLI:DE:BGH:2025:030725BVZB17.24.0): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=142513
 - Weitere obergerichtliche Linien zur Firmierung "eGbR" und identitaetswahrenden Umwandlung GbR -> KG/OHG (Beispiele aus 2024, vor Verwendung Aktenzeichen pruefen):
-  - OLG Hamburg, Beschl. v. 22.04.2024 — 11 W 19/24
-  - OLG Koeln, Beschl. v. 22.04.2024 — 4 Wx 4/24
-  - OLG Muenchen, Beschl. v. 2024 — 34 Wx 71/24 e
+ - OLG Hamburg, Beschl. v. 22.04.2024 — 11 W 19/24
+ - OLG Koeln, Beschl. v. 22.04.2024 — 4 Wx 4/24
+ - OLG Muenchen, Beschl. v. 2024 — 34 Wx 71/24 e
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
@@ -364,16 +364,16 @@ Gewuenschte Firmennamen (Prioritaetsreihenfolge):
 
 Pruef-Ergebnisse:
 
-| Pruefung                  | Name 1      | Name 2      | Name 3      |
+| Pruefung | Name 1 | Name 2 | Name 3 |
 |---------------------------|-------------|-------------|-------------|
-| HR-Suche (HR-Bezirk)      | OK / Konflikt| OK / Konflikt| OK / Konflikt|
-| IHK-Vorpruefung           | Bestätigt   | Ausstehend  | -           |
-| DPMA Marken               | OK          | Konflikt    | OK          |
-| EUIPO Marken              | OK          | OK          | OK          |
-| Domain .de                | Gesichert   | Vergeben    | Verfuegbar  |
-| Domain .com               | Verfuegbar  | Vergeben    | Verfuegbar  |
-| Irrefuehrungs-Check       | OK          | -           | -           |
-| Branchenbezeichnung-Zulass.| n/a        | -           | -           |
+| HR-Suche (HR-Bezirk) | OK / Konflikt| OK / Konflikt| OK / Konflikt|
+| IHK-Vorpruefung | Bestätigt | Ausstehend | - |
+| DPMA Marken | OK | Konflikt | OK |
+| EUIPO Marken | OK | OK | OK |
+| Domain .de | Gesichert | Vergeben | Verfuegbar |
+| Domain .com | Verfuegbar | Vergeben | Verfuegbar |
+| Irrefuehrungs-Check | OK | - | - |
+| Branchenbezeichnung-Zulass.| n/a | - | - |
 
 Empfehlung: [NAME 1] GmbH (keine Konflikte, Domain gesichert)
 Fallback: [NAME 3] GmbH

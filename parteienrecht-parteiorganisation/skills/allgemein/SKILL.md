@@ -8,7 +8,7 @@ description: "Einstieg und Routing für formale Parteiorganisation: Satzung, Mit
 ## Aufgabe
 Einstieg und Routing für formale Parteiorganisation: Satzung, Mitgliederrechte, Versammlungen, Wahlen, Wahlvorschläge, Parteigericht, Spenden und Rechenschaft.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

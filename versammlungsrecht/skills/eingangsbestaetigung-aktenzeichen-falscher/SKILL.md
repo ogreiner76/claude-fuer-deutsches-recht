@@ -1,13 +1,13 @@
 ---
 name: eingangsbestaetigung-aktenzeichen-falscher
-description: "Nutze dies, wenn Eingangsbestaetigung Und Aktenzeichen, Falscher Tag Falscher Ort Einwand im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Eingangsbestaetigung Und Aktenzeichen, Falscher Tag Falscher Ort Einwand prüfen.; Erstelle eine Arbeitsfassung zu Eingangsbestaetigung Und Aktenzeichen, Falscher Tag Falscher Ort Einwand.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eingangsbestaetigung Und Aktenzeichen, Falscher Tag Falscher Ort Einwand: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eingangsbestaetigung Und Aktenzeichen, Falscher Tag Falscher Ort Einwand
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eingangsbestaetigung Und Aktenzeichen, Falscher Tag Falscher Ort Einwand** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

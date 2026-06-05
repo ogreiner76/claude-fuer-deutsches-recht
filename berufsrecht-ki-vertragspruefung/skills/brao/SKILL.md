@@ -1,12 +1,12 @@
 ---
 name: brao
-description: "Nutze dies, wenn Brao: Zahlen, Schwellenwerte und Berechnung im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Brao: Zahlen, Schwellenwerte und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Brao: Zahlen, Schwellenwerte und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Brao: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Brao: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Brao: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Brao: Zahlen, Schwellenwerte und Berechnung / spezial brao zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Brao: Zahlen, Schwellenwerte und Berechnung / brao zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

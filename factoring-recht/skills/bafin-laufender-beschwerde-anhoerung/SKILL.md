@@ -1,13 +1,13 @@
 ---
 name: bafin-laufender-beschwerde-anhoerung
-description: "Nutze dies, wenn Bafin Tatbestand Factoring Laufender Forderungsankauf Rahmenvert, Beschwerde Und Anhoerung Bafin Factoring, Bilanzierung True Sale Ausbuchung Wirtschaftliches Risiko im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Bafin Tatbestand Factoring Laufender Forderungsankauf Rahmenvert, Beschwerde Und Anhoerung Bafin Factoring, Bilanzierung True Sale Ausbuchung Wirtschaftliches Risiko prüfen.; Erstelle eine Arbeitsfassung zu Bafin Tatbestand Factoring Laufender Forderungsankauf Rahmenvert, Beschwerde Und Anhoerung Bafin Factoring, Bilanzierung True Sale Ausbuchung Wirtschaftliches Risiko.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bafin Tatbestand Factoring Laufender Forderungsankauf Rahmenvert, Beschwerde Und Anhoerung Bafin Factoring, Bilanzierung True Sale Ausbuchung Wirtschaftliches Risiko: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bafin Tatbestand Factoring Laufender Forderungsankauf Rahmenvert, Beschwerde Und Anhoerung Bafin Factoring, Bilanzierung True Sale Ausbuchung Wirtschaftliches Risiko
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bafin Tatbestand Factoring Laufender Forderungsankauf Rahmenvert, Beschwerde Und Anhoerung Bafin Factoring, Bilanzierung True Sale Ausbuchung Wirtschaftliches Risiko** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -74,7 +74,7 @@ Fragen zum Einstieg:
 - **§ 54 KWG**: Strafvorschrift bei erlaubnislosem Betrieb.
 - **§ 2 Abs. 6 KWG**: Bereichsausnahmen.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Verkäuferkreis bestimmen**: Wer verkauft die Forderungen an den Factor (eine Person, mehrere, Konzern)?
 2. **Rahmenvertrag identifizieren**: Liegt ein schriftlicher Rahmenvertrag mit laufender Verpflichtung vor? Oder nur einzelne, ungebundene Ankäufe?
@@ -195,7 +195,7 @@ Fragen zum Einstieg:
 - **GG Art. 19 Abs. 4**: Rechtsschutzgarantie.
 - **§ 29 VwVfG**: Akteneinsicht.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Fristen sichern**: Anhörungsfrist notieren, gegebenenfalls Fristverlängerung beantragen (begründet).
 2. **Akteneinsicht beantragen**: § 29 VwVfG – Einsicht in alle Akten der BaFin zum Vorgang.
@@ -320,7 +320,7 @@ Fragen zum Einstieg:
 - **§ 290 HGB**: Konsolidierungspflicht.
 - **§§ 4, 5 EStG**: Steuerliches Maßgeblichkeitsprinzip.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Vertragstyp festlegen**: Echtes Factoring (Bonitätsrisiko übergeht) versus unechtes Factoring (Rückgriff bleibt).
 2. **Risikoinventur**: Welche Risiken (Bonität, Verität, Reklamation, Zinsänderung, Wechselkurs) bleiben beim Verkäufer?

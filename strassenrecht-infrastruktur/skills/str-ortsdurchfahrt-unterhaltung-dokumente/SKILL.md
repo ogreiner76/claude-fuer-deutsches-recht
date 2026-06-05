@@ -1,13 +1,13 @@
 ---
 name: str-ortsdurchfahrt-unterhaltung-dokumente
-description: "Nutze dies, wenn Str 078 Ortsdurchfahrt Unterhaltung Ruegen, Str 079 Ortsdurchfahrt Dokumente Sortieren, Str 080 Ortsdurchfahrt Dashboard Erstellen, Str 081 Bruecke Baulast Prüfen im Plugin Strassenrecht Infrastruktur konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Str 078 Ortsdurchfahrt Unterhaltung Ruegen, Str 079 Ortsdurchfahrt Dokumente Sortieren, Str 080 Ortsdurchfahrt Dashboard Erstellen, Str 081 Bruecke Baulast Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Str 078 Ortsdurchfahrt Unterhaltung Ruegen, Str 079 Ortsdurchfahrt Dokumente Sortieren, Str 080 Ortsdurchfahrt Dashboard Erstellen, Str 081 Bruecke Baulast Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Str 078 Ortsdurchfahrt Unterhaltung Ruegen, Str 079 Ortsdurchfahrt Dokumente Sortieren, Str 080 Ortsdurchfahrt Dashboard Erstellen, Str 081 Bruecke Baulast Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

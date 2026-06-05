@@ -1,6 +1,6 @@
 ---
 name: rom-030-konsensualvertraege-system
-description: "Römisches Recht: Konsensualvertraege System. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Konsensualvertraege System. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Konsensualvertraege System

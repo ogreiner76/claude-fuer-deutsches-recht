@@ -1,6 +1,6 @@
 ---
 name: rom-048-praetorisches-edikt
-description: "Römisches Recht: Praetorisches Edikt. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Praetorisches Edikt. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Praetorisches Edikt

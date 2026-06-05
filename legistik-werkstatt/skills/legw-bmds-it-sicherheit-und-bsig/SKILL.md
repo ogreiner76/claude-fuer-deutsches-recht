@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           IT-Sicherheit (BSIG)
-Ressort:            BMDS
-Kernnormen:         BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.
-Akteure/Aufsicht:   BSI; Bundesnetzagentur; BBK; Laender-Aufsichten.
-EU/Voelkerrecht:    NIS2-RL; CER-RL; Cyber Resilience Act.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmds; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: IT-Sicherheit (BSIG)
+Ressort: BMDS
+Kernnormen: BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.
+Akteure/Aufsicht: BSI; Bundesnetzagentur; BBK; Laender-Aufsichten.
+EU/Voelkerrecht: NIS2-RL; CER-RL; Cyber Resilience Act.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,23 +1,23 @@
 ---
 name: marktabgrenzung-kontextanalyse-mehrseitige
-description: "Nutze dies, wenn Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb, Minority Shareholdings Competition im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb, Minority Shareholdings Competition prüfen.; Erstelle eine Arbeitsfassung zu Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb, Minority Shareholdings Competition.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb, Minority Shareholdings Competition
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Marktabgrenzung Kontextanalyse, Mehrseitige Maerkte Plattformen, Merger Remedies Global, Ministererlaubnis 42 Gwb, Minority Shareholdings Competition** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `marktabgrenzung-kontextanalyse` | Verfahren beginnt und Verfahrensart und Parteistellung muessen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Missbrauchsverfahren und Zielrichtung der Marktabgrenzung. Normen FKVO 139/2004 Art. 101 102 AEUV §§ 1 18 19 35 GWB. Prüfraster ergebnisgetriebene Argumentation Parteistellung methodische Vorentscheidungen prozessualer Kontext. Output Kontext-Analysememo mit Verfahrensart Parteiposition und Routing-Empfehlung für Folge-Skills. Abgrenzung: gesamtbewertung-tragfähigkeit für Gesamturteil nach der Analyse. |
-| `mehrseitige-maerkte-plattformen` | Workflow-Skill zu mehrseitige maerkte plattformen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `merger-remedies-global` | Merger Remedies global: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Divestiture, Behavioural Remedies, Monitoring Trustee und Hold-Separate planen, Evidenz, Fristen, Strategie und Quellen. |
+| `mehrseitige-maerkte-plattformen` | Arbeitsmodul zu mehrseitige maerkte plattformen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `merger-remedies-global` | Merger Remedies global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Divestiture, Behavioural Remedies, Monitoring Trustee und Hold-Separate planen, Evidenz, Fristen, Strategie und Quellen. |
 | `ministererlaubnis-42-gwb` | Ministererlaubnis § 42 GWB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `minority-shareholdings-competition` | Minderheitsbeteiligungen und Competition: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kontrolle, Einfluss, Informationsrechte, Common Ownership und Fusionskontrolle prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `minority-shareholdings-competition` | Minderheitsbeteiligungen und Competition: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kontrolle, Einfluss, Informationsrechte, Common Ownership und Fusionskontrolle prüfen, Evidenz, Fristen, Strategie und Quellen. |
 
 ## Arbeitsweg
 
@@ -95,7 +95,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `mehrseitige-maerkte-plattformen`
 
-**Fokus:** Workflow-Skill zu mehrseitige maerkte plattformen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu mehrseitige maerkte plattformen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mehrseitige Märkte und Plattformen
 
@@ -172,7 +172,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `merger-remedies-global`
 
-**Fokus:** Merger Remedies global: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Divestiture, Behavioural Remedies, Monitoring Trustee und Hold-Separate planen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Merger Remedies global: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Divestiture, Behavioural Remedies, Monitoring Trustee und Hold-Separate planen, Evidenz, Fristen, Strategie und Quellen.
 
 # Merger Remedies global
 
@@ -267,7 +267,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `minority-shareholdings-competition`
 
-**Fokus:** Minderheitsbeteiligungen und Competition: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kontrolle, Einfluss, Informationsrechte, Common Ownership und Fusionskontrolle prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Minderheitsbeteiligungen und Competition: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Kontrolle, Einfluss, Informationsrechte, Common Ownership und Fusionskontrolle prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Minderheitsbeteiligungen und Competition
 

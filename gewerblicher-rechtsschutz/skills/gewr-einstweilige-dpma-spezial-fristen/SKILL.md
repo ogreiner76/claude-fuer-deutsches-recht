@@ -1,32 +1,32 @@
 ---
 name: gewr-einstweilige-dpma-spezial-fristen
-description: "Nutze dies, wenn Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Form Und Zustaendigkeit, Fristen Abschlussprodukt Und Uebergabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe
+# Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Form Und Zustaendigkeit, Fristen Abschlussprodukt Und Übergabe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Form Und Zustaendigkeit, Fristen Abschlussprodukt Und Übergabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `gewr-einstweilige-verfuegung-eilverfahren-spezial` | Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisworkflow für Antragsteller und Antragsgegner. |
+| `gewr-einstweilige-verfuegung-eilverfahren-spezial` | Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisfür Antragsteller und Antragsgegner. |
 | `spezial-dpma-fristen-form-und-zustaendigkeit` | DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen. |
 | `spezial-fristen-abschlussprodukt-und-uebergabe` | Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen. |
 
 ## Arbeitsweg
 
-Für **Gewr Einstweilige Verfuegung Eilverfahren Spezial, Spezial Dpma Fristen Form Und Zustaendigkeit, Spezial Fristen Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Form Und Zustaendigkeit, Fristen Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `gewr-einstweilige-verfuegung-eilverfahren-spezial`
 
-**Fokus:** Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisworkflow für Antragsteller und Antragsgegner.
+**Fokus:** Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisfür Antragsteller und Antragsgegner.
 
 # GewR: Einstweilige Verfügung – Eilverfahren Spezial
 

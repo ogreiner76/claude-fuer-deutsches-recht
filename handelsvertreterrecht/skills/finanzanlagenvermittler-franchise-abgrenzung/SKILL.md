@@ -1,13 +1,13 @@
 ---
 name: finanzanlagenvermittler-franchise-abgrenzung
-description: "Nutze dies, wenn Finanzanlagenvermittler, Franchise Abgrenzung, Gebietsschutz, Gerichtsstand im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Finanzanlagenvermittler, Franchise Abgrenzung, Gebietsschutz, Gerichtsstand prüfen.; Erstelle eine Arbeitsfassung zu Finanzanlagenvermittler, Franchise Abgrenzung, Gebietsschutz, Gerichtsstand.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Finanzanlagenvermittler, Franchise Abgrenzung, Gebietsschutz, Gerichtsstand: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Finanzanlagenvermittler, Franchise Abgrenzung, Gebietsschutz, Gerichtsstand
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Finanzanlagenvermittler, Franchise Abgrenzung, Gebietsschutz, Gerichtsstand** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

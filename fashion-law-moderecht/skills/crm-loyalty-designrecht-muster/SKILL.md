@@ -1,13 +1,13 @@
 ---
 name: crm-loyalty-designrecht-muster
-description: "Nutze dies, wenn Crm Loyalty Datenschutz, Designrecht Und Muster im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Crm Loyalty Datenschutz, Designrecht Und Muster prüfen.; Erstelle eine Arbeitsfassung zu Crm Loyalty Datenschutz, Designrecht Und Muster.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Crm Loyalty Datenschutz, Designrecht Und Muster: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Crm Loyalty Datenschutz, Designrecht Und Muster
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Crm Loyalty Datenschutz, Designrecht Und Muster** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,32 +1,32 @@
 ---
 name: sanierungskonzept-starug-spezial-teil
-description: "Nutze dies, wenn Spezial Sanierungskonzept Risikoampel Und Gegenargumente, Spezial Starug Tatbestand Beweis Und Belege, Spezial Teil Compliance Dokumentation Und Akte im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Spezial Sanierungskonzept Risikoampel Und Gegenargumente, Spezial Starug Tatbestand Beweis Und Belege, Spezial Teil Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Sanierungskonzept Risikoampel Und Gegenargumente, Spezial Starug Tatbestand Beweis Und Belege, Spezial Teil Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sanierungskonzept Risikoampel Und Gegenargumente, Starug Tatbestand Beweis Und Belege, Teil Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Sanierungskonzept Risikoampel Und Gegenargumente, Spezial Starug Tatbestand Beweis Und Belege, Spezial Teil Compliance Dokumentation Und Akte
+# Sanierungskonzept Risikoampel Und Gegenargumente, Starug Tatbestand Beweis Und Belege, Teil Compliance Dokumentation Und Akte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sanierungskonzept Risikoampel Und Gegenargumente, Starug Tatbestand Beweis Und Belege, Teil Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-sanierungskonzept-risikoampel-und-gegenargumente` | Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-starug-tatbestand-beweis-und-belege` | StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-teil-compliance-dokumentation-und-akte` | Teil: Compliance-Dokumentation und Aktenvermerk im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-sanierungskonzept-risikoampel-und-gegenargumente` | Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-starug-tatbestand-beweis-und-belege` | StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-teil-compliance-dokumentation-und-akte` | Teil: Compliance-Dokumentation und Aktenvermerk im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Sanierungskonzept Risikoampel Und Gegenargumente, Spezial Starug Tatbestand Beweis Und Belege, Spezial Teil Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sanierungskonzept Risikoampel Und Gegenargumente, Starug Tatbestand Beweis Und Belege, Teil Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-sanierungskonzept-risikoampel-und-gegenargumente`
 
-**Fokus:** Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -40,7 +40,7 @@ Für **Spezial Sanierungskonzept Risikoampel Und Gegenargumente, Spezial Starug 
 
 
 ## Spezialwissen: Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien / spezial sanierungskonzept risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien / sanierungskonzept risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-starug-tatbestand-beweis-und-belege`
 
-**Fokus:** StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -90,7 +90,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial starug tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage / starug tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -127,23 +127,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## StaRUG-Voraussetzungen — Tatbestandsmerkmale
 
 - **Restrukturierungsfähigkeit § 30 StaRUG:**
-  - Drohende Zahlungsunfähigkeit § 18 InsO **muss** vorliegen — 24-Monats-Prognose.
-  - Eintritt Zahlungsunfähigkeit § 17 InsO oder Überschuldung § 19 InsO **schließt StaRUG aus** (§ 33 Abs. 2 Nr. 1 StaRUG, Aufhebungspflicht).
+ - Drohende Zahlungsunfähigkeit § 18 InsO **muss** vorliegen — 24-Monats-Prognose.
+ - Eintritt Zahlungsunfähigkeit § 17 InsO oder Überschuldung § 19 InsO **schließt StaRUG aus** (§ 33 Abs. 2 Nr. 1 StaRUG, Aufhebungspflicht).
 - **StaRUG-Anzeige § 31 StaRUG:**
-  - Adressat: Restrukturierungsgericht (LG am OLG-Sitz, § 34 StaRUG).
-  - Form: schriftlich oder elektronisch; § 32 StaRUG verlangt Plan-Konzept, Krisenursachen, Sanierungsschritte, Liste der betroffenen Forderungen.
-  - Wirkung: Aufnahme als Restrukturierungssache, Voraussetzung für Stabilisierungsanordnung § 49 StaRUG und Restrukturierungsbeauftragten § 73 StaRUG.
+ - Adressat: Restrukturierungsgericht (LG am OLG-Sitz, § 34 StaRUG).
+ - Form: schriftlich oder elektronisch; § 32 StaRUG verlangt Plan-Konzept, Krisenursachen, Sanierungsschritte, Liste der betroffenen Forderungen.
+ - Wirkung: Aufnahme als Restrukturierungssache, Voraussetzung für Stabilisierungsanordnung § 49 StaRUG und Restrukturierungsbeauftragten § 73 StaRUG.
 
 ## Plansubstanz nach StaRUG
 
 - **Gestaltbare Forderungen § 4 StaRUG:**
-  - Geldforderungen und sonstige Forderungen, soweit nicht ausdrücklich ausgeschlossen.
-  - **Ausgeschlossen:** Arbeitnehmerforderungen aus Arbeitsverhältnis (§ 4 S. 2 Nr. 1 StaRUG), Versorgungsanwartschaften (Nr. 2), deliktsbezogene Forderungen (Nr. 3, vorsätzliche unerlaubte Handlung), Sozialversicherungs- und Steuerforderungen sind im Streit, aber praktisch ausgeschlossen.
+ - Geldforderungen und sonstige Forderungen, soweit nicht ausdrücklich ausgeschlossen.
+ - **Ausgeschlossen:** Arbeitnehmerforderungen aus Arbeitsverhältnis (§ 4 S. 2 Nr. 1 StaRUG), Versorgungsanwartschaften (Nr. 2), deliktsbezogene Forderungen (Nr. 3, vorsätzliche unerlaubte Handlung), Sozialversicherungs- und Steuerforderungen sind im Streit, aber praktisch ausgeschlossen.
 - **Klassenbildung § 9 StaRUG:** ähnlich Insolvenzplan §§ 222 ff. InsO — sachgerechte Differenzierung nach Rang, Sicherheiten, Forderungstyp.
 - **Mehrheiten § 25 StaRUG:** 75 Prozent **Summenmehrheit je Klasse** (anders als Insolvenzplan: 50/50).
 - **Cross-Class Cram-Down §§ 26–28 StaRUG:**
-  - § 27 StaRUG **absolute Vorrangregel** (priority rule) — keine Bevorzugung nachrangiger Klassen ohne Vollbedienung höherrangiger.
-  - § 28 StaRUG Schlechterstellungstest gegenüber „Best-Alternative-to-Negotiated-Agreement".
+ - § 27 StaRUG **absolute Vorrangregel** (priority rule) — keine Bevorzugung nachrangiger Klassen ohne Vollbedienung höherrangiger.
+ - § 28 StaRUG Schlechterstellungstest gegenüber „Best-Alternative-to-Negotiated-Agreement".
 
 ## Beweis- und Belegbedarf
 
@@ -160,7 +160,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-teil-compliance-dokumentation-und-akte`
 
-**Fokus:** Teil: Compliance-Dokumentation und Aktenvermerk im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Teil: Compliance-Dokumentation und Aktenvermerk im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Teil: Compliance-Dokumentation und Aktenvermerk
 
@@ -174,7 +174,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Teil: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Teil: Compliance-Dokumentation und Aktenvermerk / spezial teil compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Teil: Compliance-Dokumentation und Aktenvermerk / teil compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

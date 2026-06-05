@@ -1,13 +1,13 @@
 ---
 name: strafrecht-strafprozess-ermittlungsverfahren
-description: "Nutze dies, wenn Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Spezial Btmg Strafverfahren Praxis, Strafrecht Spezial Haeusliche Gewalt Im Strafverfahren, Strafrecht Spezial Markenrecht 144 Markeng Strafverfahren im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Spezial Btmg Strafverfahren Praxis, Strafrecht Spezial Haeusliche Gewalt Im Strafverfahren, Strafrecht Spezial Markenrecht 144 Markeng Strafverfahren prüfen.; Erstelle eine Arbeitsfassung zu Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Spezial Btmg Strafverfahren Praxis, Strafrecht Spezial Haeusliche Gewalt Im Strafverfahren, Strafrecht Spezial Markenrecht 144 Markeng Strafverfahren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Btmg Strafverfahren Praxis, Strafrecht Haeusliche Gewalt Im Strafverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Spezial Btmg Strafverfahren Praxis, Strafrecht Spezial Haeusliche Gewalt Im Strafverfahren, Strafrecht Spezial Markenrecht 144 Markeng Strafverfahren
+# Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Btmg Strafverfahren Praxis, Strafrecht Haeusliche Gewalt Im Strafverfahren, Strafrecht Markenrecht 144 Markeng Strafverfahren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Btmg Strafverfahren Praxis, Strafrecht Haeusliche Gewalt Im Strafverfahren, Strafrecht Markenrecht 144 Markeng Strafverfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Spezial Btmg Strafverfahren Praxis, Strafrecht Spezial Haeusliche Gewalt Im Strafverfahren, Strafrecht Spezial Markenrecht 144 Markeng Strafverfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafprozess Ermittlungsverfahren Sofortmassnahmen, Strafprozess Rechtsmittel Und Notfristencockpit, Strafrecht Btmg Strafverfahren Praxis, Strafrecht Haeusliche Gewalt Im Strafverfahren, Strafrecht Markenrecht 144 Markeng Strafverfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

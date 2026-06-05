@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Atom- und Strahlenschutzrecht
-Ressort:            BMUKN
-Kernnormen:         AtG; StrlSchG; StrlSchV; EndlSiUntG; StandAG; AtVfV.
-Akteure/Aufsicht:   BMUKN; BASE; BGE; BfS; Laender-Atomaufsichten; Reaktor-Sicherheitskommission.
-EU/Voelkerrecht:    Euratom-Vertrag; Grundnormen-RL; nukleare Sicherheit RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmukn; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Atom- und Strahlenschutzrecht
+Ressort: BMUKN
+Kernnormen: AtG; StrlSchG; StrlSchV; EndlSiUntG; StandAG; AtVfV.
+Akteure/Aufsicht: BMUKN; BASE; BGE; BfS; Laender-Atomaufsichten; Reaktor-Sicherheitskommission.
+EU/Voelkerrecht: Euratom-Vertrag; Grundnormen-RL; nukleare Sicherheit RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

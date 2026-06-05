@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-familienrecht-unterhaltsberechnung
-description: "Nutze dies, wenn Fachanwalt Familienrecht Unterhaltsberechnung, Fachanwalt Familienrecht Versorgungsausgleich, Fachanwalt Familienrecht Zugewinnausgleich Berechnen, Famr Einfuehrung Themen, Famr Kindeswohlgefaehrdung Eilantrag Spezial im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Familienrecht Unterhaltsberechnung, Fachanwalt Familienrecht Versorgungsausgleich, Fachanwalt Familienrecht Zugewinnausgleich Berechnen, Famr Einfuehrung Themen, Famr Kindeswohlgefaehrdung Eilantrag Spezial prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Familienrecht Unterhaltsberechnung, Fachanwalt Familienrecht Versorgungsausgleich, Fachanwalt Familienrecht Zugewinnausgleich Berechnen, Famr Einfuehrung Themen, Famr Kindeswohlgefaehrdung Eilantrag Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Familienrecht Unterhaltsberechnung, Fachanwalt Familienrecht Versorgungsausgleich, Fachanwalt Familienrecht Zugewinnausgleich Berechnen, Famr Einfuehrung Themen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Familienrecht Unterhaltsberechnung, Fachanwalt Familienrecht Versorgungsausgleich, Fachanwalt Familienrecht Zugewinnausgleich Berechnen, Famr Einfuehrung Themen, Famr Kindeswohlgefaehrdung Eilantrag Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Familienrecht Unterhaltsberechnung, Fachanwalt Familienrecht Versorgungsausgleich, Fachanwalt Familienrecht Zugewinnausgleich Berechnen, Famr Einfuehrung Themen, Famr Kindeswohlgefaehrdung Eilantrag Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -372,17 +372,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Berechnungsschema
 
 ```
-                              Ehegatte A     Ehegatte B
-Endvermoegen (Stichtag § 1384)   X1            X2
-+ illoyale Minderungen § 1375    +a1           +a2
-- Schulden                       -b1           -b2
-= Endvermoegen bereinigt         E_A           E_B
+ Ehegatte A Ehegatte B
+Endvermoegen (Stichtag § 1384) X1 X2
++ illoyale Minderungen § 1375 +a1 +a2
+- Schulden -b1 -b2
+= Endvermoegen bereinigt E_A E_B
 
-Anfangsvermoegen indexiert       Y1            Y2
-+ privilegierter Erwerb § 1374   +p1           +p2
-= Anfangsvermoegen bereinigt     A_A           A_B
+Anfangsvermoegen indexiert Y1 Y2
++ privilegierter Erwerb § 1374 +p1 +p2
+= Anfangsvermoegen bereinigt A_A A_B
 
-Zugewinn = max(E - A; 0)         Z_A           Z_B
+Zugewinn = max(E - A; 0) Z_A Z_B
 
 Ausgleichsforderung = (Z_max - Z_min) / 2
 Schuldner ist der Ehegatte mit groesserem Zugewinn

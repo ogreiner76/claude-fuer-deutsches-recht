@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-003-einleitung-normkarte-allgemeine
-description: "Nutze dies, wenn PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze

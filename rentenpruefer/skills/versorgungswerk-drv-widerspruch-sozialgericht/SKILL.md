@@ -1,13 +1,13 @@
 ---
 name: versorgungswerk-drv-widerspruch-sozialgericht
-description: "Nutze dies, wenn Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage prüfen.; Erstelle eine Arbeitsfassung zu Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

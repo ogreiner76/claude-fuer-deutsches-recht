@@ -1,13 +1,13 @@
 ---
 name: kirchliche-datenschutzaufsicht-massnahmenplan
-description: "Nutze dies, wenn Kirchliche Datenschutzaufsicht Sanktionen, Massnahmenplan Als Sanktionsminderung, Oeffentliche Stellen Bussgeldprivilegien, Sanktionsmandat Schlussprodukt Planen im Plugin Datenschutz Sanktionsverfahren Verteidigung konkret bearbeitet werden soll. Auslöser: Bitte Kirchliche Datenschutzaufsicht Sanktionen, Massnahmenplan Als Sanktionsminderung, Oeffentliche Stellen Bussgeldprivilegien, Sanktionsmandat Schlussprodukt Planen prüfen.; Erstelle eine Arbeitsfassung zu Kirchliche Datenschutzaufsicht Sanktionen, Massnahmenplan Als Sanktionsminderung, Oeffentliche Stellen Bussgeldprivilegien, Sanktionsmandat Schlussprodukt Planen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kirchliche Datenschutzaufsicht Sanktionen, Massnahmenplan Als Sanktionsminderung, Oeffentliche Stellen Bussgeldprivilegien, Sanktionsmandat Schlussprodukt Planen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kirchliche Datenschutzaufsicht Sanktionen, Massnahmenplan Als Sanktionsminderung, Oeffentliche Stellen Bussgeldprivilegien, Sanktionsmandat Schlussprodukt Planen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kirchliche Datenschutzaufsicht Sanktionen, Massnahmenplan Als Sanktionsminderung, Oeffentliche Stellen Bussgeldprivilegien, Sanktionsmandat Schlussprodukt Planen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

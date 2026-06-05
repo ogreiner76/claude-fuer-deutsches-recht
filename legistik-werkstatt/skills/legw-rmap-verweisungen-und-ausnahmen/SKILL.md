@@ -31,10 +31,10 @@ Pruefen: gibt es zirkulaere Verweisungen? Welche EU-Vorgaben sind zu verlinken? 
 ## Output
 
 ```
-Skill:              legw-rmap-verweisungen-und-ausnahmen
-Thema:              Verweisungen und Ausnahmen in der Rulemap
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-verweisungen-und-ausnahmen
+Thema: Verweisungen und Ausnahmen in der Rulemap
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

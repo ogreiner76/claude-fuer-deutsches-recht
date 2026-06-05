@@ -1,6 +1,6 @@
 ---
 name: klauselbibliothek-aufbau
-description: "Einstiegs- und Workflow-Skill für Klauselbibliothek Aufbau: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Arbeitsmodul für Klauselbibliothek Aufbau: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Klauselbibliothek Aufbau

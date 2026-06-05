@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Gleichstellungs- und Antidiskriminierungsrecht
-Ressort:            BMBFSFJ
-Kernnormen:         AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.
-Akteure/Aufsicht:   Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.
-EU/Voelkerrecht:    Gleichbehandlungs-RL; Pay-Transparency-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmbfsfj; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Gleichstellungs- und Antidiskriminierungsrecht
+Ressort: BMBFSFJ
+Kernnormen: AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.
+Akteure/Aufsicht: Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.
+EU/Voelkerrecht: Gleichbehandlungs-RL; Pay-Transparency-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

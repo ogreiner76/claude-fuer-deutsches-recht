@@ -1,13 +1,13 @@
 ---
 name: handwerker-beauftragung-hausgeld-sonderumlage
-description: "Nutze dies, wenn Handwerker Beauftragung Vergabe, Hausgeld Sonderumlage Liquiditaet, Hausordnung Tauben Fahrrad Kinder Weihnachtsbaum im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Handwerker Beauftragung Vergabe, Hausgeld Sonderumlage Liquiditaet, Hausordnung Tauben Fahrrad Kinder Weihnachtsbaum prüfen.; Erstelle eine Arbeitsfassung zu Handwerker Beauftragung Vergabe, Hausgeld Sonderumlage Liquiditaet, Hausordnung Tauben Fahrrad Kinder Weihnachtsbaum.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Handwerker Beauftragung Vergabe, Hausgeld Sonderumlage Liquiditaet, Hausordnung Tauben Fahrrad Kinder Weihnachtsbaum: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Handwerker Beauftragung Vergabe, Hausgeld Sonderumlage Liquiditaet, Hausordnung Tauben Fahrrad Kinder Weihnachtsbaum
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Handwerker Beauftragung Vergabe, Hausgeld Sonderumlage Liquiditaet, Hausordnung Tauben Fahrrad Kinder Weihnachtsbaum** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,8 +57,8 @@ Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Be
 1. **Schaden/Maßnahme beschreiben**: Fotos, Ort, Dringlichkeit, Fachgewerk, betroffene Eigentumsteile, Sicherungsmaßnahmen.
 2. **Leistungsbeschreibung** erstellen: gewünschtes Ergebnis, vorhandene Bausubstanz, Ausführungszeitfenster, einzuhaltende Normen.
 3. **Angebote vergleichbar machen**:
-   - **Mindestens 2–3 Vergleichsangebote** bei substantiellen Maßnahmen (Schwellwerte im Verwaltervertrag/GO oder Beschluss verankert).
-   - Vergleichstabelle: Preis (Netto/Brutto), Leistungsumfang, Material, Ausführungszeit, Gewährleistungsfrist (abhängig von Werkart und VOB/B-Vereinbarung — siehe Mustertabelle), Pauschal-/Stundenanteil, Nebenkosten, Ausschlüsse, Referenzen, Versicherung, Bonität.
+ - **Mindestens 2–3 Vergleichsangebote** bei substantiellen Maßnahmen (Schwellwerte im Verwaltervertrag/GO oder Beschluss verankert).
+ - Vergleichstabelle: Preis (Netto/Brutto), Leistungsumfang, Material, Ausführungszeit, Gewährleistungsfrist (abhängig von Werkart und VOB/B-Vereinbarung — siehe Mustertabelle), Pauschal-/Stundenanteil, Nebenkosten, Ausschlüsse, Referenzen, Versicherung, Bonität.
 4. **Beschlussbedarf prüfen** (siehe Tabelle).
 5. **Beauftragung** mit klarer Vollmacht, Auftragsbestätigung, ggf. VOB/B-Vereinbarung, Versicherungsnachweis.
 6. **Nachträge** schriftlich vereinbaren (Mehrkostenrisiko sichtbar machen), Beirat ggf. einbinden.

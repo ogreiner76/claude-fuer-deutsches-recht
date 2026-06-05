@@ -1,13 +1,13 @@
 ---
 name: marktaufsicht-behoerdenkommunikation
-description: "Nutze dies, wenn Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit prüfen.; Erstelle eine Arbeitsfassung zu Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -181,7 +181,7 @@ Gepruefte Norm(en): [Art. 72 Rn. 3]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -375,7 +375,7 @@ Negativ-Diagnose ist nicht "für immer". **Re-Evaluation bei:**
 
 ## Querverweise
 
-- `entscheidungsbaum-ki-vo-gesamt-workflow` — Master-Workflow vorgelagert
+- `entscheidungsbaum-ki-vo-gesamt-workflow` — Master-vorgelagert
 - `hochrisiko-bestaetigt-end-to-end-roadmap` — alternative Pfade
 - `risikoklassen-uebersicht-und-triage` — Klassenüberblick
 - `falsche-wiese-warnung-ki-vo` — was ist KI-VO nicht
@@ -420,7 +420,7 @@ Gepruefte Norm(en): [Art. 6 Rn. 5]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

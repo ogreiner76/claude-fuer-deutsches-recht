@@ -1,13 +1,13 @@
 ---
 name: verl-rabatte-verl-maengelexemplar
-description: "Nutze dies, wenn Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung prüfen.; Erstelle eine Arbeitsfassung zu Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -162,10 +162,10 @@ Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** v
 
 ### Definition
 - Ein Mängelexemplar ist ein Exemplar, das durch einen **physischen Mangel** wertgemindert ist:
-  - Druckfehler (Fehldrucke, Fehlfarben, fehlende Seiten)
-  - Beschädigter Einband (Knicke, Risse, Feuchteschäden, Lagerungsschäden)
-  - Alterungsbedingte Wertminderung (Gilbung, Verblassung)
-  - Produktionsfehler (Seiten falsch gebunden, Text abgeschnitten)
+ - Druckfehler (Fehldrucke, Fehlfarben, fehlende Seiten)
+ - Beschädigter Einband (Knicke, Risse, Feuchteschäden, Lagerungsschäden)
+ - Alterungsbedingte Wertminderung (Gilbung, Verblassung)
+ - Produktionsfehler (Seiten falsch gebunden, Text abgeschnitten)
 
 ### Ausschluss: keine inhaltlichen Mängel
 - Veralteter Inhalt, überholte Rechtslage, sachliche Fehler im Text begründen **keinen** Preisbindungsausnahme-Mangel.
@@ -173,9 +173,9 @@ Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** v
 
 ### Kennzeichnungspflicht
 - Das Exemplar muss **deutlich und dauerhaft als Mängelexemplar** kenntlich gemacht sein:
-  - Aufkleber „Mängelexemplar" auf dem Einband
-  - Stempel auf Schnitt oder Einband
-  - Strich durch den aufgedruckten Preis
+ - Aufkleber „Mängelexemplar" auf dem Einband
+ - Stempel auf Schnitt oder Einband
+ - Strich durch den aufgedruckten Preis
 - Bloß verbales Angebot als Mängelexemplar ohne Kennzeichnung ist unzureichend.
 - Online-Verkauf: Hinweis in der Produktbeschreibung allein reicht nicht; Exemplar selbst muss gekennzeichnet sein.
 
@@ -204,9 +204,9 @@ Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** v
 
 ### 1. Eingang und Klassifizierung
 - Eingehende Remittenden werden nach Zustand sortiert:
-  - Einwandfrei → Neueinlagerung und Wiederverkauf als Neuware (zum vollen Ladenpreis)
-  - Leicht beschädigt → als Mängelexemplar kennzeichnen
-  - Stark beschädigt → Makulatur (Vernichtung) oder Veräußerung als Makulatur-Papier
+ - Einwandfrei → Neueinlagerung und Wiederverkauf als Neuware (zum vollen Ladenpreis)
+ - Leicht beschädigt → als Mängelexemplar kennzeichnen
+ - Stark beschädigt → Makulatur (Vernichtung) oder Veräußerung als Makulatur-Papier
 
 ### 2. Dokumentation
 - Verlag sollte Eingang, Zustand und Verbleib aller Remittenden dokumentieren.

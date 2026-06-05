@@ -1,6 +1,6 @@
 ---
 name: garantie-beschaffenheit
-description: "Klausel-Spezialskill für Garantie Beschaffenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Garantie Beschaffenheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Garantie Beschaffenheit

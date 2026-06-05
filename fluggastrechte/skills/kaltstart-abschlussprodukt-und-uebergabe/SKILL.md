@@ -1,12 +1,12 @@
 ---
 name: kaltstart-abschlussprodukt-und-uebergabe
-description: "Nutze dies, wenn Kaltstart: Abschlussprodukt und Übergabe im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Fluggastrechte.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Kaltstart: Abschlussprodukt und Übergabe: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Kaltstart: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Kaltstart: Abschlussprodukt und Übergabe / spezial kaltstart abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kaltstart: Abschlussprodukt und Übergabe / kaltstart abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

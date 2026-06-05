@@ -1,22 +1,22 @@
 ---
 name: voruntersuchung-wallfahrt-pilgerpastoral
-description: "Nutze dies, wenn Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt prüfen.; Erstelle eine Arbeitsfassung zu Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Und Vollmacht, Wiederaufnahme Nach Kirchenaustritt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `voruntersuchung-nach-can-1717` | Voruntersuchung nach can. 1717: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `wallfahrt-und-pilgerpastoral` | Wallfahrt und Pilgerpastoral: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `weihe-amt-und-vollmacht` | Weihe, Amt und Vollmacht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `wiederaufnahme-nach-kirchenaustritt` | Wiederaufnahme nach Kirchenaustritt: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `voruntersuchung-nach-can-1717` | Voruntersuchung nach can. 1717: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `wallfahrt-und-pilgerpastoral` | Wallfahrt und Pilgerpastoral: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `weihe-amt-und-vollmacht` | Weihe, Amt und Vollmacht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `wiederaufnahme-nach-kirchenaustritt` | Wiederaufnahme nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Voruntersuchung Nach Can 1717, Wallfahrt Und Pilgerpastoral, Weihe Amt Un
 
 ## 1. `voruntersuchung-nach-can-1717`
 
-**Fokus:** Voruntersuchung nach can. 1717: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Voruntersuchung nach can. 1717: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Voruntersuchung nach can. 1717
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `wallfahrt-und-pilgerpastoral`
 
-**Fokus:** Wallfahrt und Pilgerpastoral: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Wallfahrt und Pilgerpastoral: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Wallfahrt und Pilgerpastoral
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `weihe-amt-und-vollmacht`
 
-**Fokus:** Weihe, Amt und Vollmacht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Weihe, Amt und Vollmacht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Weihe, Amt und Vollmacht
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `wiederaufnahme-nach-kirchenaustritt`
 
-**Fokus:** Wiederaufnahme nach Kirchenaustritt: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Wiederaufnahme nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Wiederaufnahme nach Kirchenaustritt
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

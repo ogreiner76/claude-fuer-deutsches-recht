@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-cap-table-carve-out
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack, Grosskanzlei Corporate Ma Closing Bible Archiv und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack, Grosskanzlei Corporate Ma Closing Bible Archiv und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack, Grosskanzlei Corporate Ma Closing Bible Archiv und 2 weitere Themen.; Welche Normen und Nachwei..."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack, Grosskanzlei Corporate Ma Closing Bible Archiv und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack, Grosskanzlei Corporate Ma Closing Bible Archiv und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -659,23 +659,23 @@ Closing Date: [DATUM]
 Prepared by: [KANZLEI/PARTNER]
 
 TAB A — TRANSACTION DOCUMENTS
-  A-1  SPA, datiert [DATUM], Parteien: [KAEUFER] / [VERKAEUFER]
-  A-2  Disclosure Schedules
-  A-3  Signing Protocol / Notarakt Nr. [XX/XXXX]
+ A-1 SPA, datiert [DATUM], Parteien: [KAEUFER] / [VERKAEUFER]
+ A-2 Disclosure Schedules
+ A-3 Signing Protocol / Notarakt Nr. [XX/XXXX]
 
 TAB B — CORPORATE APPROVALS
-  B-1  Gesellschafterbeschluss Verkaeufer [DATUM]
-  B-2  Aufsichtsratsbeschluss [DATUM]
-  B-3  Board Resolution Erwerber
+ B-1 Gesellschafterbeschluss Verkaeufer [DATUM]
+ B-2 Aufsichtsratsbeschluss [DATUM]
+ B-3 Board Resolution Erwerber
 
 TAB C — CLOSING DELIVERABLES
-  C-1  Gesellschafterliste neu (§ 40 GmbHG), eingereicht [DATUM]
-  C-2  Transparenzregister-Meldung [DATUM]
-  C-3  Funds Flow Confirmation [DATUM]
-  C-4  Freigabe Bankpfandrecht [DATUM]
+ C-1 Gesellschafterliste neu (§ 40 GmbHG), eingereicht [DATUM]
+ C-2 Transparenzregister-Meldung [DATUM]
+ C-3 Funds Flow Confirmation [DATUM]
+ C-4 Freigabe Bankpfandrecht [DATUM]
 
 TAB D — POST-CLOSING OBLIGATIONS
-  D-1  [MASSNAHME] — Owner: [NAME] — Faellig: [DATUM]
+ D-1 [MASSNAHME] — Owner: [NAME] — Faellig: [DATUM]
 ```
 
 ## Rote Schwellen
@@ -884,24 +884,24 @@ Deal: [DEALNAME] — Mandat-Nr.: [AKTENZEICHEN]
 Datum: [DATUM] — Bearbeiter: [NAME]
 
 PARTEIEN
-  Kaeufer: [NAME], WB: [NAME, ANTEIL %]
-  Verkaeufer: [NAME], WB: [NAME, ANTEIL %]
-  Zielgesellschaft: [NAME], WB: [NAME, ANTEIL %]
+ Kaeufer: [NAME], WB: [NAME, ANTEIL %]
+ Verkaeufer: [NAME], WB: [NAME, ANTEIL %]
+ Zielgesellschaft: [NAME], WB: [NAME, ANTEIL %]
 
 SANKTIONS-SCREENING
-  Ergebnis: [ ] Kein Treffer [ ] Treffer → Eskalation
-  Datenbank: EU, OFAC, OFSI — Datum: [DATUM]
+ Ergebnis: [ ] Kein Treffer [ ] Treffer → Eskalation
+ Datenbank: EU, OFAC, OFSI — Datum: [DATUM]
 
 CONFLICTS-CHECK
-  Ergebnis: [ ] Kein Konflikt [ ] Konflikt → Waiver / Ablehnung
-  Fruehere Mandate: [LISTE]
+ Ergebnis: [ ] Kein Konflikt [ ] Konflikt → Waiver / Ablehnung
+ Fruehere Mandate: [LISTE]
 
 PEP-STATUS
-  [ ] Nein [ ] Ja → verstaerkte Sorgfalt (§ 15 GwG)
+ [ ] Nein [ ] Ja → verstaerkte Sorgfalt (§ 15 GwG)
 
 MITTELHERKUNFT
-  [ ] Dokumentiert — Quelle: [BANK/FONDS]
-  [ ] Offen → Nachfrage bis [DATUM]
+ [ ] Dokumentiert — Quelle: [BANK/FONDS]
+ [ ] Offen → Nachfrage bis [DATUM]
 
 ERGEBNIS: [ ] Mandat annehmbar [ ] Eskalation erforderlich [ ] Ablehnung
 Freigabe: [PARTNER] am [DATUM]

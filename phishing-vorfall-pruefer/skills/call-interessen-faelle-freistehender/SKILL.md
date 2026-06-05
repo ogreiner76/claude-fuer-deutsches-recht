@@ -1,13 +1,13 @@
 ---
 name: call-interessen-faelle-freistehender
-description: "Nutze dies, wenn Spezial Call Mehrparteien Konflikt Und Interessen, Spezial Faelle Abschlussprodukt Und Übergabe, Spezial Freistehender Erstpruefung Und Mandatsziel im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Spezial Call Mehrparteien Konflikt Und Interessen, Spezial Faelle Abschlussprodukt Und Übergabe, Spezial Freistehender Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Call Mehrparteien Konflikt Und Interessen, Spezial Faelle Abschlussprodukt Und Übergabe, Spezial Freistehender Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Call Mehrparteien Konflikt Und Interessen, Faelle Abschlussprodukt Und Uebergabe, Freistehender Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Call Mehrparteien Konflikt Und Interessen, Spezial Faelle Abschlussprodukt Und Übergabe, Spezial Freistehender Erstpruefung Und Mandatsziel
+# Call Mehrparteien Konflikt Und Interessen, Faelle Abschlussprodukt Und Übergabe, Freistehender Erstpruefung Und Mandatsziel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Call Mehrparteien Konflikt Und Interessen, Faelle Abschlussprodukt Und Übergabe, Freistehender Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Call Mehrparteien Konflikt Und Interessen, Spezial Faelle Abschlussprodukt Und Übergabe, Spezial Freistehender Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Call Mehrparteien Konflikt Und Interessen, Faelle Abschlussprodukt Und Übergabe, Freistehender Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `phishing-vorfall-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Call Mehrparteien Konflikt Und Interessen, Spezial Faelle Abschlu
 # Call: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Call: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Call: Mehrparteienkonflikt und Interessenmatrix / spezial call mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Call: Mehrparteienkonflikt und Interessenmatrix / call mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Faelle: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Faelle: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Faelle: Abschlussprodukt und Übergabe / spezial faelle abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Faelle: Abschlussprodukt und Übergabe / faelle abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Freistehender: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Freistehender: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Freistehender: Erstprüfung, Rollenklärung und Mandatsziel / spezial freistehender erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Freistehender: Erstprüfung, Rollenklärung und Mandatsziel / freistehender erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, ID.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,6 +1,6 @@
 ---
 name: universitaetsstaedte-quellenkarte-check
-description: "Nutze dies, wenn Universitaetsstaedte Quellenkarte Check im Plugin Mietrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Universitaetsstaedte Quellenkarte Check: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Universitaetsstaedte Quellenkarte Check

@@ -1,6 +1,6 @@
 ---
 name: rom-077-servituten-vergleich
-description: "Römisches Recht: Servituten Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Servituten Vergleich. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Servituten Vergleich

@@ -1,13 +1,13 @@
 ---
 name: versicherungsbetrug-stgb-vorenthalten
-description: "Nutze dies, wenn Strafrecht Spezial Versicherungsbetrug 265 Stgb, Strafrecht Spezial Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Spezial Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Spezial Waffg Strafvorschriften 51 52, Strafrecht Spezial Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial Versicherungsbetrug 265 Stgb, Strafrecht Spezial Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Spezial Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Spezial Waffg Strafvorschriften 51 52, Strafrecht Spezial Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial Versicherungsbetrug 265 Stgb, Strafrecht Spezial Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Spezial Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Spezial Waffg Strafvorschriften 51 52, Strafrecht Spezial Wirtschaftl..."
+description: "Nutze dies bei Strafrecht Versicherungsbetrug 265 Stgb, Strafrecht Vorenthalten Arbeitgeberanteile 266a Stgb, Strafrecht Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Waffg Strafvorschriften 51 52: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafrecht Spezial Versicherungsbetrug 265 Stgb, Strafrecht Spezial Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Spezial Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Spezial Waffg Strafvorschriften 51 52, Strafrecht Spezial Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen
+# Strafrecht Versicherungsbetrug 265 Stgb, Strafrecht Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Waffg Strafvorschriften 51 52, Strafrecht Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Versicherungsbetrug 265 Stgb, Strafrecht Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Waffg Strafvorschriften 51 52, Strafrecht Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -24,7 +24,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Versicherungsbetrug 265 Stgb, Strafrecht Spezial Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Spezial Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Spezial Waffg Strafvorschriften 51 52, Strafrecht Spezial Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Versicherungsbetrug 265 Stgb, Strafrecht Vorenthalten Arbeitgeberanteile 266A Stgb, Strafrecht Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Waffg Strafvorschriften 51 52, Strafrecht Wirtschaftliche Bestechung Amtsverhaeltnis und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -461,7 +461,7 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 
 ## Querverweise
 
-- `strafrecht-spezial-bandendiebstahl-244-stgb` (sofern vorhanden — alternativ Spezialskill Diebstahl)
+- `strafrecht-spezial-bandendiebstahl-244-stgb` (sofern vorhanden — alternativ Fachmodul Diebstahl)
 - `strafrecht-spezial-bedrohung-241-stgb`
 - `strafrecht-spezial-koerperverletzung-223-stgb-grund`
 
@@ -519,9 +519,9 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 ### Schritt 1: Amtstraegereigenschaft
 
 - **§ 11 Abs. 1 Nr. 2 StGB Amtstraeger:**
-  - lit. a Beamter / Richter.
-  - lit. b sonstige Person in oeffentlich-rechtlichem Amtsverhaeltnis.
-  - lit. c Person, die sonst dazu bestellt ist, bei einer Behoerde oder bei einer sonstigen Stelle oder in deren Auftrag **Aufgaben der oeffentlichen Verwaltung** wahrzunehmen.
+ - lit. a Beamter / Richter.
+ - lit. b sonstige Person in oeffentlich-rechtlichem Amtsverhaeltnis.
+ - lit. c Person, die sonst dazu bestellt ist, bei einer Behoerde oder bei einer sonstigen Stelle oder in deren Auftrag **Aufgaben der oeffentlichen Verwaltung** wahrzunehmen.
 - **§ 11 Abs. 1 Nr. 4 StGB Soldat.**
 - **Beauftragter oeffentlicher Aufgaben.** TUEV-Pruefer (Verkehrssicherheit), Bezirksschornsteinfeger; BGH staendige Rspr. — Aktenzeichen vor Verwendung verifizieren.
 - **GmbH-Geschaeftsfuehrer der oeffentlichen Hand.** Pruefkriterien BGH: Funktionsgehalt, kommunale Aufgabenerfuellung, Mitfinanzierung. Bei Daseinsvorsorge (Wasser, Stadtwerke, Abfall) eher Amtstraeger; bei rein wirtschaftlicher Taetigkeit eher nicht.
@@ -754,9 +754,9 @@ Wer **die Zwangslage, die Unerfahrenheit, den Mangel an Urteilsvermoegen oder di
 - **Zwangslage.** Wirtschaftliche, persönliche oder psychische Notlage. Bei Wohnraum: drohende Obdachlosigkeit, Aufenthaltssicherung; ein bloß angespannter Wohnungsmarkt reicht nicht (klare Abgrenzung zu § 5 WiStrG 1954).
 - **Unerfahrenheit / Mangel an Urteilsvermoegen / Willensschwaeche.** Bildung, Alter, Sprache, Suchtdruck.
 - **Auffaelliges Missverhaeltnis.**
-  - Mietwucher: in der Praxis deutlich oberhalb der §-5-WiStrG-1954-Schwelle; häufig wird eine Größenordnung um **50 Prozent** über Vergleichsmiete als starkes Indiz diskutiert, aber vor Verwendung immer mit aktueller Rechtsprechung und konkretem Mietspiegel verifizieren.
-  - Zinswucher: **doppelter** marktueblicher Effektivzins oder zwoelf Prozentpunkte ueber dem Markt (BGH zur Sittenwidrigkeit § 138 BGB; im Strafrecht restriktiver, aber Indizwirkung).
-  - Lohnwucher: ca. **zwei Drittel** des Tariflohns als Untergrenze (BGH staendige Rspr.).
+ - Mietwucher: in der Praxis deutlich oberhalb der §-5-WiStrG-1954-Schwelle; häufig wird eine Größenordnung um **50 Prozent** über Vergleichsmiete als starkes Indiz diskutiert, aber vor Verwendung immer mit aktueller Rechtsprechung und konkretem Mietspiegel verifizieren.
+ - Zinswucher: **doppelter** marktueblicher Effektivzins oder zwoelf Prozentpunkte ueber dem Markt (BGH zur Sittenwidrigkeit § 138 BGB; im Strafrecht restriktiver, aber Indizwirkung).
+ - Lohnwucher: ca. **zwei Drittel** des Tariflohns als Untergrenze (BGH staendige Rspr.).
 - **Ausbeuten.** Bewusste Ausnutzung in subjektiver Hinsicht. Vorsatz erforderlich (Eventualvorsatz reicht).
 
 ### Qualifikationen § 291 Abs. 2 StGB

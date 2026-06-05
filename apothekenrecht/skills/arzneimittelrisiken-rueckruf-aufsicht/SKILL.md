@@ -1,20 +1,20 @@
 ---
 name: arzneimittelrisiken-rueckruf-aufsicht
-description: "Nutze dies, wenn Arzneimittelrisiken Rueckruf Chargenrueckverfolgung, Aufsicht Anhoerung Ordnungswidrigkeit, Beanstandung Durch Aufsichtsbehoerde Anhoerung im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Arzneimittelrisiken Rueckruf Chargenrueckverfolgung, Aufsicht Anhoerung Ordnungswidrigkeit, Beanstandung Durch Aufsichtsbehoerde Anhoerung prüfen.; Erstelle eine Arbeitsfassung zu Arzneimittelrisiken Rueckruf Chargenrueckverfolgung, Aufsicht Anhoerung Ordnungswidrigkeit, Beanstandung Durch Aufsichtsbehoerde Anhoerung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arzneimittelrisiken Rueckruf Chargenrueckverfolgung, Aufsicht Anhoerung Ordnungswidrigkeit, Beanstandung Durch Aufsichtsbehoerde Anhoerung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arzneimittelrisiken Rueckruf Chargenrueckverfolgung, Aufsicht Anhoerung Ordnungswidrigkeit, Beanstandung Durch Aufsichtsbehoerde Anhoerung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arzneimittelrisiken Rueckruf Chargenrueckverfolgung, Aufsicht Anhoerung Ordnungswidrigkeit, Beanstandung Durch Aufsichtsbehoerde Anhoerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `arzneimittelrisiken-rueckruf-chargenrueckverfolgung` | Arzneimittelrisiken Rückruf Chargenrückverfolgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
-| `aufsicht-anhoerung-ordnungswidrigkeit` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörung Ordnungswidrigkeit. |
+| `aufsicht-anhoerung-ordnungswidrigkeit` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörung Ordnungswidrigkeit. |
 | `beanstandung-durch-aufsichtsbehoerde-anhoerung` | Beanstandung durch Aufsichtsbehörde Anhörung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 
 ## Arbeitsweg
@@ -71,7 +71,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `aufsicht-anhoerung-ordnungswidrigkeit`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörung Ordnungswidrigkeit.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörung Ordnungswidrigkeit.
 
 # Aufsicht Anhörung Ordnungswidrigkeit
 
@@ -113,20 +113,20 @@ Eingaben:
 - **OWiG** §§ 17, 47, 65 — Bussgeldverfahren.
 - BVerwG, OVG, VGH staend. Rspr. zur Apothekenaufsicht.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Frist ermitteln:** Anhörungsfrist regelmässig zwei Wochen; bei OWi-Bescheid Einspruchsfrist zwei Wochen (§ 67 OWiG).
 2. **Akteneinsicht beantragen:** § 29 VwVfG / § 49 OWiG. Verzögernde Wirkung — Antragstellung sofort.
 3. **Vorhalte konkret prüfen:**
-   - Rechtsgrundlage (Norm korrekt?)
-   - Tatsachenstand (was ist gesichert, was ist Behauptung?)
-   - Verschuldensform (Vorsatz/Fahrlässigkeit)
-   - Wiederholungsrisiko
+ - Rechtsgrundlage (Norm korrekt?)
+ - Tatsachenstand (was ist gesichert, was ist Behauptung?)
+ - Verschuldensform (Vorsatz/Fahrlässigkeit)
+ - Wiederholungsrisiko
 4. **Stellungnahme strukturieren:**
-   - Sachverhalt aus eigener Sicht klarstellen.
-   - Rechtliche Würdigung (Tatbestand erfüllt? Rechtfertigung? Schuld?)
-   - Verhältnismässigkeit der angedrohten Massnahme.
-   - Kooperationsbereitschaft und Abhilfemassnahmen darlegen.
+ - Sachverhalt aus eigener Sicht klarstellen.
+ - Rechtliche Würdigung (Tatbestand erfüllt? Rechtfertigung? Schuld?)
+ - Verhältnismässigkeit der angedrohten Massnahme.
+ - Kooperationsbereitschaft und Abhilfemassnahmen darlegen.
 5. **Beweisangebote:** Zeugen (Mitarbeiter), Urkunden (SOP, QM-Handbuch), ggf. Sachverständige.
 6. **Sofortvollzug:** Sofort Antrag auf Wiederherstellung der aufschiebenden Wirkung nach § 80 Abs. 5 VwGO ans VG.
 7. **OWi-Einspruch:** Form- und fristgerecht bei zuständiger Behörde.

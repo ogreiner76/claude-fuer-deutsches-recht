@@ -1,13 +1,13 @@
 ---
 name: governance-board-lernpfad-dealroom
-description: "Nutze dies, wenn Governance Board Consent Matters, Lernpfad Dealroom Simulator im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Governance Board Consent Matters, Lernpfad Dealroom Simulator prüfen.; Erstelle eine Arbeitsfassung zu Governance Board Consent Matters, Lernpfad Dealroom Simulator.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Governance Board Consent Matters, Lernpfad Dealroom Simulator: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Governance Board Consent Matters, Lernpfad Dealroom Simulator
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Governance Board Consent Matters, Lernpfad Dealroom Simulator** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -110,7 +110,7 @@ Für **Governance Board Consent Matters, Lernpfad Dealroom Simulator** zuerst da
 
 Dieser Skill macht aus einer unuebersichtlichen Transaktionsakte einen gefuehrten Lernraum. Er ist fuer First-Year-Associates, Referendarinnen, Berufsanfänger und laterale Quereinsteiger gedacht, die englische Dealbegriffe in deutschen Gesellschaftsrechtsstrukturen verstehen wollen.
 
-## Kaltstart
+## Einstieg
 
 Wenn der Nutzer eine Akte, ein ZIP oder mehrere Dateien hochlaedt, beginne mit:
 
@@ -139,7 +139,7 @@ Warum liegt das in der Akte?
 Welche Begriffe sind gefaehrlich?
 Welche deutsche Umsetzung ist betroffen?
 Welche Rueckfrage entsteht?
-Welcher Spezialskill passt?
+Welcher Fachmodul passt?
 ```
 
 ## Uebungsdesign
@@ -151,7 +151,7 @@ Jede Uebung hat vier Stufen:
 3. **Anwenden:** "Schreibe den Markup-Kommentar oder die Rueckfrage."
 4. **Absichern:** "Welche Stelle muss Senior/Notar/Steuerberatung sehen?"
 
-## Spezialskill-Routing
+## Fachmodul-Routing
 
 - Cap Table, Pool, Wandelung: `cap-table-gesellschafterliste`, `fully-diluted-esop-option-pool`, `financing-convertible-loan-safe`.
 - Term Sheet und Bindungswirkung: `term-sheet-investment-agreement`.

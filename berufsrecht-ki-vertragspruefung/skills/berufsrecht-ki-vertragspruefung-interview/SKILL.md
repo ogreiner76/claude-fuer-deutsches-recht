@@ -122,14 +122,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Beruf bestimmt?
-  Nein → Pflichtfrage 1 stellen
-  Ja → Norm-Adapter anwenden (BRAO / StBerG / WPO / PAO / BNotO)
-       → Kanzleiinfrastruktur oder Einzelmandats-Tool?
-           Einzelmandats-Tool → Einwilligungspflicht § 26a Abs. 4 BNotO prüfen
-           Kanzleiinfrastruktur → Einwilligung i.d.R. nicht erforderlich (DAV S. 15)
-       → Auslandsbezug (US-Anbieter)?
-           Ja → Cloud-Act-Prüfung erforderlich → Skill cloud-act-und-drittstaat-pruefen
-           Nein → Weiter mit Verschwiegenheitsprüfung
+ Nein → Pflichtfrage 1 stellen
+ Ja → Norm-Adapter anwenden (BRAO / StBerG / WPO / PAO / BNotO)
+ → Kanzleiinfrastruktur oder Einzelmandats-Tool?
+ Einzelmandats-Tool → Einwilligungspflicht § 26a Abs. 4 BNotO prüfen
+ Kanzleiinfrastruktur → Einwilligung i.d.R. nicht erforderlich (DAV S. 15)
+ → Auslandsbezug (US-Anbieter)?
+ Ja → Cloud-Act-Prüfung erforderlich → Skill cloud-act-und-drittstaat-pruefen
+ Nein → Weiter mit Verschwiegenheitsprüfung
 ```
 
 ## Output-Template — Eingangsdatensatz

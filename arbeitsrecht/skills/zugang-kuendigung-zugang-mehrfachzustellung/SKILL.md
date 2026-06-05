@@ -1,13 +1,13 @@
 ---
 name: zugang-kuendigung-zugang-mehrfachzustellung
-description: "Nutze dies, wenn Zugang Neu 006 Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Neu 007 Mehrfachzustellung Kündigung Sicherheitskonzept konkret bearbeitet werden soll: Unterlagen sortieren, Normen und Fristen prüfen, typische Fehler vermeiden und einen verwertbaren nächsten Schritt formulieren."
+description: "Nutze dies bei Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
 ---
 
-# Zugang Neu 006 Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Neu 007 Mehrfachzustellung Kündigung Sicherheitskonzept
+# Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -18,7 +18,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Zugang Neu 006 Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Neu 007 Mehrfachzustellung Kündigung Sicherheitskonzept** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Zugang Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang Mehrfachzustellung Kündigung Sicherheitskonzept** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -27,7 +27,7 @@ Für **Zugang Neu 006 Kündigung Per Bea E Mail Fax Und Schriftformfall, Zugang 
 
 **Fokus:** Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Neu 006 Kuendigung Per Bea E Mail Fax Und Schriftformfall
+# Zugang Kuendigung Per Bea E Mail Fax Und Schriftformfall
 
 ## Aufgabe
 
@@ -82,7 +82,7 @@ Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623
 
 **Fokus:** Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Zugang Neu 007 Mehrfachzustellung Kuendigung Sicherheitskonzept
+# Zugang Mehrfachzustellung Kuendigung Sicherheitskonzept
 
 ## Aufgabe
 

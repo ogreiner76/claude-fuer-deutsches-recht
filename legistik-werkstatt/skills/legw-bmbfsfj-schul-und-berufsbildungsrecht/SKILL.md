@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Schul- und Berufsbildungsrecht
-Ressort:            BMBFSFJ
-Kernnormen:         BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Laender; AufstFoeG.
-Akteure/Aufsicht:   BMBFSFJ; Laender-Kultusministerien; KMK; BIBB; Berufsverbaende.
-EU/Voelkerrecht:    Berufsanerkennungs-RL; Europass; Erasmus+.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmbfsfj; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Schul- und Berufsbildungsrecht
+Ressort: BMBFSFJ
+Kernnormen: BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Laender; AufstFoeG.
+Akteure/Aufsicht: BMBFSFJ; Laender-Kultusministerien; KMK; BIBB; Berufsverbaende.
+EU/Voelkerrecht: Berufsanerkennungs-RL; Europass; Erasmus+.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

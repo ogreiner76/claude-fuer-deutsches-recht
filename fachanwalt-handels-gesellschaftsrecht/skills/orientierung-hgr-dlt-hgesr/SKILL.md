@@ -1,13 +1,13 @@
 ---
 name: orientierung-hgr-dlt-hgesr
-description: "Nutze dies, wenn Fachanwalt Handels Gesellschaftsrecht Orientierung, Fachanwalt Hgr Dlt Pilotregime Token, Hgesr Grenzueberschreitende Formwechsel im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Handels Gesellschaftsrecht Orientierung, Fachanwalt Hgr Dlt Pilotregime Token, Hgesr Grenzueberschreitende Formwechsel prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Handels Gesellschaftsrecht Orientierung, Fachanwalt Hgr Dlt Pilotregime Token, Hgesr Grenzueberschreitende Formwechsel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Handels Gesellschaftsrecht Orientierung, Fachanwalt Hgr Dlt Pilotregime Token, Hgesr Grenzueberschreitende Formwechsel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Handels Gesellschaftsrecht Orientierung, Fachanwalt Hgr Dlt Pilotregime Token, Hgesr Grenzueberschreitende Formwechsel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Handels Gesellschaftsrecht Orientierung, Fachanwalt Hgr Dlt Pilotregime Token, Hgesr Grenzueberschreitende Formwechsel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -165,20 +165,20 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | DLT-SS | Nur Abwicklung | Keine Schwelle | CSDR-Lockerungen | Clearing und Settlement für DLT-Wertpapiere |
 | DLT-TSS | Handel + Abwicklung | 6 Mrd. EUR Gesamtvolumen | MiFID II + CSDR kombiniert | Vollständiger DLT-Marktplatz |
 
-## Workflow Tokenisierung einer Aktiengesellschaft
+## Tokenisierung einer Aktiengesellschaft
 
 ### Phase 1 — Strukturentscheidung und Satzungsänderung
 
 ```
 1. Rechtsformprüfung: AG, SE oder GmbH?
-   - AG bevorzugt (§ 67c AktG digitales Aktienregister)
-   - GmbH: Krypto-Wertpapier-Regelung über § 4 eWpG möglich
+ - AG bevorzugt (§ 67c AktG digitales Aktienregister)
+ - GmbH: Krypto-Wertpapier-Regelung über § 4 eWpG möglich
 
 2. Satzungsanpassung (HV-Beschluss):
-   - Aufnahme Klausel: "Die Gesellschaft kann Aktien als elektronische
-     Wertpapiere gemäß eWpG begeben."
-   - Namens- oder Inhaberaktie: Entscheidung dokumentieren
-   - Form der HV-Einberufung und Stimmrechtsausübung digital (§ 118a AktG)
+ - Aufnahme Klausel: "Die Gesellschaft kann Aktien als elektronische
+ Wertpapiere gemäß eWpG begeben."
+ - Namens- oder Inhaberaktie: Entscheidung dokumentieren
+ - Form der HV-Einberufung und Stimmrechtsausübung digital (§ 118a AktG)
 
 3. Notarielle Beurkundung der Satzungsänderung (§ 130 AktG)
 4. Eintragung im Handelsregister
@@ -188,27 +188,27 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ```
 1. Wahl Register-Führer:
-   - Bank mit § 1 KWG-Lizenz oder FinTech mit
-     Kryptoverwahrerlaubnis (§ 1 Abs. 1a Nr. 8 KWG)
-   - Due Diligence: DORA-Compliance, IT-Sicherheitszertifizierung,
-     BaFin-Aufsicht aktiv
+ - Bank mit § 1 KWG-Lizenz oder FinTech mit
+ Kryptoverwahrerlaubnis (§ 1 Abs. 1a Nr. 8 KWG)
+ - Due Diligence: DORA-Compliance, IT-Sicherheitszertifizierung,
+ BaFin-Aufsicht aktiv
 
 2. DLT-Plattform:
-   - Permissioned (Ethereum Enterprise, Polygon, Stellar, Hyperledger):
-     bevorzugt für regulierte Emissionen
-   - Permissionless: KYC/AML-Anforderungen schwerer einhaltbar
+ - Permissioned (Ethereum Enterprise, Polygon, Stellar, Hyperledger):
+ bevorzugt für regulierte Emissionen
+ - Permissionless: KYC/AML-Anforderungen schwerer einhaltbar
 
 3. Krypto-Wertpapierregister § 11 eWpG-Anforderungen:
-   - Identifier der Token (ISIN digital)
-   - Stückelung und Gesamtzahl
-   - Inhaber-Verzeichnis (für Namensaktien)
-   - Übertragungshistorie (unveränderlich / immutable)
+ - Identifier der Token (ISIN digital)
+ - Stückelung und Gesamtzahl
+ - Inhaber-Verzeichnis (für Namensaktien)
+ - Übertragungshistorie (unveränderlich / immutable)
 
 4. Smart Contract-Pflichtfelder:
-   - Transferrestriktionen (Whitelist KYC-verifizierter Adressen)
-   - Compliance-Layer (AML/CFT nach GwG)
-   - Dividendenausschüttungs-Funktion
-   - Voting-Integration (§ 118a AktG)
+ - Transferrestriktionen (Whitelist KYC-verifizierter Adressen)
+ - Compliance-Layer (AML/CFT nach GwG)
+ - Dividendenausschüttungs-Funktion
+ - Voting-Integration (§ 118a AktG)
 ```
 
 ### Phase 3 — BaFin-Lizenzantrag (für Plattformbetreiber)
@@ -219,23 +219,23 @@ Antrag an BaFin für DLT-MTF / DLT-SS / DLT-TSS:
 Pflichtinhalte nach VO (EU) 2022/858 Art. 7:
 
 1. Beschreibung der DLT-Infrastruktur:
-   - Blockchain-Typ, Konsens-Mechanismus, Nodes
-   - Governance-Struktur der Plattform
+ - Blockchain-Typ, Konsens-Mechanismus, Nodes
+ - Governance-Struktur der Plattform
 
 2. Cybersecurity-Konzept (BaFin BAIT/MaRisk):
-   - Penetrationstest-Berichte (monatlich / jährlich)
-   - Business Continuity Plan (BCP)
-   - DORA-Konformitätsbescheinigung (seit 17.1.2025 Pflicht)
+ - Penetrationstest-Berichte (monatlich / jährlich)
+ - Business Continuity Plan (BCP)
+ - DORA-Konformitätsbescheinigung (seit 17.1.2025 Pflicht)
 
 3. Marktintegrität:
-   - MAR-Compliance (Insiderhandel, Marktmanipulation)
-   - Ad-hoc-Mitteilungspflicht § 17 MAR
+ - MAR-Compliance (Insiderhandel, Marktmanipulation)
+ - Ad-hoc-Mitteilungspflicht § 17 MAR
 
 4. Transparenzberichte:
-   - Halbjährlich an ESMA (Art. 16 VO 2022/858)
+ - Halbjährlich an ESMA (Art. 16 VO 2022/858)
 
 5. Übergangsplan nach Ende Pilotregime:
-   - Roadmap Übergang zu vollem MiFID II / CSDR oder Schließung
+ - Roadmap Übergang zu vollem MiFID II / CSDR oder Schließung
 
 Verfahrensdauer: 6 Monate (BaFin) + ggf. Verlängerung
 ```
@@ -244,40 +244,40 @@ Verfahrensdauer: 6 Monate (BaFin) + ggf. Verlängerung
 
 ```
 1. Prospektpflicht (§ 6 WpPG):
-   - Bei öffentlichem Angebot > EUR 8 Mio. in 12 Monaten: Prospektpflicht
-   - Ausnahmen: nicht-öffentliche Platzierung, qualifizierte Anleger
+ - Bei öffentlichem Angebot > EUR 8 Mio. in 12 Monaten: Prospektpflicht
+ - Ausnahmen: nicht-öffentliche Platzierung, qualifizierte Anleger
 
 2. KYC/AML der Token-Inhaber (GwG):
-   - Identifizierungspflicht bei Erwerb
-   - Whitelist im Smart Contract
+ - Identifizierungspflicht bei Erwerb
+ - Whitelist im Smart Contract
 
 3. Kapitalmarktrecht:
-   - Insider-Liste § 26 MAR
-   - Ad-hoc-Mitteilung § 17 MAR bei kursrelevanten Informationen
-   - Stimmrechtsmitteilungen §§ 33 ff. WpHG bei Schwellenüberschreitung
+ - Insider-Liste § 26 MAR
+ - Ad-hoc-Mitteilung § 17 MAR bei kursrelevanten Informationen
+ - Stimmrechtsmitteilungen §§ 33 ff. WpHG bei Schwellenüberschreitung
 
 4. Steuer:
-   - Kapitalertragsteuer § 43 EStG auf Token-Dividenden
-   - Veräußerungsgewinn: § 17 EStG (> 1 % Beteiligung) oder § 23 EStG
-   - BMF-Schreiben 17.11.2022
+ - Kapitalertragsteuer § 43 EStG auf Token-Dividenden
+ - Veräußerungsgewinn: § 17 EStG (> 1 % Beteiligung) oder § 23 EStG
+ - BMF-Schreiben 17.11.2022
 ```
 
 ### Phase 5 — Übertragung und Stimmrecht
 
 ```
 1. Übertragung § 17 eWpG:
-   - Umbuchung im Krypto-Wertpapierregister = Eigentumsübergang
-   - Gutglaubensschutz für Erwerber
+ - Umbuchung im Krypto-Wertpapierregister = Eigentumsübergang
+ - Gutglaubensschutz für Erwerber
 
 2. Hauptversammlung:
-   - Token-Identifikation für Online-HV (§ 118a AktG)
-   - Stimmenzählung via Smart Contract
-   - Stimmrechtsnachweis per Blockchain-Snapshot zum Stichtag
+ - Token-Identifikation für Online-HV (§ 118a AktG)
+ - Stimmenzählung via Smart Contract
+ - Stimmrechtsnachweis per Blockchain-Snapshot zum Stichtag
 
 3. Dividende:
-   - Snapshot zum Ausschüttungsstichtag
-   - Auszahlung an Token-Adressen (automatisch oder manuell)
-   - KapESt-Einbehalt obligatorisch
+ - Snapshot zum Ausschüttungsstichtag
+ - Auszahlung an Token-Adressen (automatisch oder manuell)
+ - KapESt-Einbehalt obligatorisch
 ```
 
 ## Risikomatrix

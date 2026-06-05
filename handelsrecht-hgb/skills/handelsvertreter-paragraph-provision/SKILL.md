@@ -1,13 +1,13 @@
 ---
 name: handelsvertreter-paragraph-provision
-description: "Nutze dies, wenn Handelsvertreter Paragraph 84 Hgb, Handelsvertreter Provision im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Handelsvertreter Paragraph 84 Hgb, Handelsvertreter Provision prüfen.; Erstelle eine Arbeitsfassung zu Handelsvertreter Paragraph 84 Hgb, Handelsvertreter Provision.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Handelsvertreter Paragraph 84 Hgb, Handelsvertreter Provision: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Handelsvertreter Paragraph 84 Hgb, Handelsvertreter Provision
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Handelsvertreter Paragraph 84 Hgb, Handelsvertreter Provision** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -67,7 +67,7 @@ Pruefen:
 ### Schritt 3 — Widerspruch einlegen
 
 ```
-[Krankenkasse]                                  [Ort, Datum]
+[Krankenkasse] [Ort, Datum]
 
 Versicherten-Nr: [...]
 

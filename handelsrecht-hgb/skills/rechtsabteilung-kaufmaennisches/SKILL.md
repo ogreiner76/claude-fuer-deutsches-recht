@@ -1,20 +1,20 @@
 ---
 name: rechtsabteilung-kaufmaennisches
-description: "Nutze dies, wenn Rechtsabteilung Kaufmaennisches Bestaetigungsschreiben Im Konzer, Rechtsabteilung Kommissionsgeschaeft Und Plattformhaendler im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Kaufmaennisches Bestaetigungsschreiben Im Konzer, Rechtsabteilung Kommissionsgeschaeft Und Plattformhaendler prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Kaufmaennisches Bestaetigungsschreiben Im Konzer, Rechtsabteilung Kommissionsgeschaeft Und Plattformhaendler.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Kaufmaennisches Bestaetigungsschreiben Im Konzer, Rechtsabteilung Kommissionsgeschaeft Und Plattformhaendler: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Kaufmaennisches Bestaetigungsschreiben Im Konzer, Rechtsabteilung Kommissionsgeschaeft Und Plattformhaendler
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Kaufmaennisches Bestaetigungsschreiben Im Konzer, Rechtsabteilung Kommissionsgeschaeft Und Plattformhaendler** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-kaufmaennisches-bestaetigungsschreiben-im-konzer` | Rechtsabteilungs-Spezialskill für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler` | Rechtsabteilungs-Spezialskill für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-kaufmaennisches-bestaetigungsschreiben-im-konzer` | Rechtsabteilungs-Fachmodul für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler` | Rechtsabteilungs-Fachmodul für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -25,7 +25,7 @@ Für **Rechtsabteilung Kaufmaennisches Bestaetigungsschreiben Im Konzer, Rechtsa
 
 ## 1. `rechtsabteilung-kaufmaennisches-bestaetigungsschreiben-im-konzer`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag
 
@@ -72,7 +72,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kommissionsgeschäft und Plattformhändler
 

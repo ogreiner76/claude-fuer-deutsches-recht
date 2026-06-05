@@ -1,22 +1,22 @@
 ---
 name: pfarrbrief-katechetisch-pfarrei-pfarrer
-description: "Nutze dies, wenn Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang prüfen.; Erstelle eine Arbeitsfassung zu Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `pfarrbrief-katechetisch-und-lehrtreu` | Pfarrbrief katechetisch und lehrtreu: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `pfarrei-pfarrer-und-gremien` | Pfarrei, Pfarrer und Gremien: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `pfarrer-versetzung-und-amtsenthebung` | Pfarrer: Versetzung und Amtsenthebung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `pfarrfusion-und-vermogensubergang` | Pfarrfusion und Vermögensübergang: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `pfarrbrief-katechetisch-und-lehrtreu` | Pfarrbrief katechetisch und lehrtreu: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `pfarrei-pfarrer-und-gremien` | Pfarrei, Pfarrer und Gremien: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `pfarrer-versetzung-und-amtsenthebung` | Pfarrer: Versetzung und Amtsenthebung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `pfarrfusion-und-vermogensubergang` | Pfarrfusion und Vermögensübergang: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarre
 
 ## 1. `pfarrbrief-katechetisch-und-lehrtreu`
 
-**Fokus:** Pfarrbrief katechetisch und lehrtreu: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Pfarrbrief katechetisch und lehrtreu: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Pfarrbrief katechetisch und lehrtreu
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `pfarrei-pfarrer-und-gremien`
 
-**Fokus:** Pfarrei, Pfarrer und Gremien: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Pfarrei, Pfarrer und Gremien: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Pfarrei, Pfarrer und Gremien
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `pfarrer-versetzung-und-amtsenthebung`
 
-**Fokus:** Pfarrer: Versetzung und Amtsenthebung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Pfarrer: Versetzung und Amtsenthebung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Pfarrer: Versetzung und Amtsenthebung
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `pfarrfusion-und-vermogensubergang`
 
-**Fokus:** Pfarrfusion und Vermögensübergang: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Pfarrfusion und Vermögensübergang: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Pfarrfusion und Vermögensübergang
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

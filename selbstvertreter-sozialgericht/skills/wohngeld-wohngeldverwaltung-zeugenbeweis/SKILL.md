@@ -1,13 +1,13 @@
 ---
 name: wohngeld-wohngeldverwaltung-zeugenbeweis
-description: "Nutze dies, wenn Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht prüfen.; Erstelle eine Arbeitsfassung zu Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -341,12 +341,12 @@ Wenn Wertgrenze nicht erreicht und keine laufenden Leistungen über mehr als ein
 **Rechtsmittel-Check**
 | Frage | Ergebnis | Ampel |
 |---|---|---|
-| Berufung zugelassen? |  |  |
-| Beschwer über 750 EUR? |  |  |
-| Laufende Leistungen über mehr als 1 Jahr? |  |  |
-| Zulassungsgrund erkennbar? |  |  |
-| Frist gesichert? |  |  |
-| Anwalt/Sozialverband nötig? |  |  |
+| Berufung zugelassen? | | |
+| Beschwer über 750 EUR? | | |
+| Laufende Leistungen über mehr als 1 Jahr? | | |
+| Zulassungsgrund erkennbar? | | |
+| Frist gesichert? | | |
+| Anwalt/Sozialverband nötig? | | |
 
 **Konsequenz**
 [Berufung einlegen, Nichtzulassungsbeschwerde prüfen, Urteil akzeptieren, PKH/Anwalt/Sozialverband einschalten.]

@@ -1,6 +1,6 @@
 ---
 name: konform-interessen
-description: "Nutze dies, wenn Konform: Mehrparteienkonflikt und Interessenmatrix im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Konform: Mehrparteienkonflikt und Interessenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Konform: Mehrparteienkonflikt und Interessenmatrix.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Konform: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Konform: Mehrparteienkonflikt und Interessenmatrix

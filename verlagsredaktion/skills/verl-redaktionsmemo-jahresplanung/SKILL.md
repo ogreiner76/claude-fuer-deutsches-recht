@@ -1,13 +1,13 @@
 ---
 name: verl-redaktionsmemo-jahresplanung
-description: "Nutze dies, wenn Verl Redaktionsmemo Jahresplanung, Verl Redaktionssitzung Vorbereiten, Verl Relationslinien Prüfung Im Aufsatz, Verl Richtigstellung Online Print, Verl Roh Research Zu Essay im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Verl Redaktionsmemo Jahresplanung, Verl Redaktionssitzung Vorbereiten, Verl Relationslinien Prüfung Im Aufsatz, Verl Richtigstellung Online Print: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Redaktionsmemo Jahresplanung, Verl Redaktionssitzung Vorbereiten, Verl Relationslinien Prüfung Im Aufsatz, Verl Richtigstellung Online Print, Verl Roh Research Zu Essay
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Redaktionsmemo Jahresplanung, Verl Redaktionssitzung Vorbereiten, Verl Relationslinien Prüfung Im Aufsatz, Verl Richtigstellung Online Print, Verl Roh Research Zu Essay** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,9 +57,9 @@ Sie brauchen ihn jaehrlich (typisch September/Oktober fuer das Folgejahr) oder b
 
 1. **Strategiekern definieren.** Was ist die Identitaet des Heftes im kommenden Jahr (3-5 Saetze)?
 2. **Themen-Architektur in 3 Ebenen:**
-   - **Ebene 1 (Konstanten):** Reihen, die jedes Heft fortsetzen.
-   - **Ebene 2 (Quartalsschwerpunkte):** Eine fokussierte Reihe pro Quartal.
-   - **Ebene 3 (Ad hoc):** Reserve fuer Rspr.-Hits.
+ - **Ebene 1 (Konstanten):** Reihen, die jedes Heft fortsetzen.
+ - **Ebene 2 (Quartalsschwerpunkte):** Eine fokussierte Reihe pro Quartal.
+ - **Ebene 3 (Ad hoc):** Reserve fuer Rspr.-Hits.
 3. **Aufmacherliste fuer das Jahr.** Pro Heft (oder Quartal) ein Aufmacher mit Arbeitstitel, vorgesehener Autorin und Frist. 30 % Reserve.
 4. **Autorenmatrix.** Wer wird wann angefragt, wann kommt Manuskript, wann Druck.
 5. **Rspr.-Reserve.** 15-20 % der Heftflaeche pro Jahr fuer ueberraschende BGH-/EuGH-/BVerfG-Entscheidungen freihalten.
@@ -372,17 +372,17 @@ Nach Erscheinen eines Beitrags wird eine inhaltliche Korrektur erforderlich: Tip
 
 1. **Sachverhalt fixieren.** Was wurde behauptet? Was ist Tatsache? Welche Quelle?
 2. **Stufenwahl.**
-   - Erratum (freiwillig): minor mistakes, Tippfehler, Verwechslung ohne Persoenlichkeitsverletzung.
-   - Berichtigung (verpflichtet): unwahre Tatsachenbehauptung mit Rufschaden, Aufforderung des Betroffenen.
-   - Gegendarstellung (Pflicht): foermliches Verlangen erfuellt, Pflicht zur Veroeffentlichung in gleicher Aufmachung.
+ - Erratum (freiwillig): minor mistakes, Tippfehler, Verwechslung ohne Persoenlichkeitsverletzung.
+ - Berichtigung (verpflichtet): unwahre Tatsachenbehauptung mit Rufschaden, Aufforderung des Betroffenen.
+ - Gegendarstellung (Pflicht): foermliches Verlangen erfuellt, Pflicht zur Veroeffentlichung in gleicher Aufmachung.
 3. **Form.**
-   - Print: gleiche Heftrubrik, gleiche Schriftgroesse, gleicher Umfang (bei Gegendarstellung).
-   - Online: am gleichen URL-Ort, mit Datum der Aktualisierung; bei Datenbank Korrekturhinweis vor dem Text.
-   - Loseblatt: Austauschseite mit Hinweis.
+ - Print: gleiche Heftrubrik, gleiche Schriftgroesse, gleicher Umfang (bei Gegendarstellung).
+ - Online: am gleichen URL-Ort, mit Datum der Aktualisierung; bei Datenbank Korrekturhinweis vor dem Text.
+ - Loseblatt: Austauschseite mit Hinweis.
 4. **Wortlaut.**
-   - Erratum: knapp, sachlich, keine Schuldzuweisung.
-   - Berichtigung: Bezug auf die unwahre Aussage, korrekte Tatsache, Datum.
-   - Gegendarstellung: Tatsachenbehauptungen des Betroffenen, ohne Wertung; redaktionelle Anmerkung nur als Distanzierung zulaessig.
+ - Erratum: knapp, sachlich, keine Schuldzuweisung.
+ - Berichtigung: Bezug auf die unwahre Aussage, korrekte Tatsache, Datum.
+ - Gegendarstellung: Tatsachenbehauptungen des Betroffenen, ohne Wertung; redaktionelle Anmerkung nur als Distanzierung zulaessig.
 5. **Justiziariat einbinden** bei Gegendarstellung und Berichtigung.
 6. **Onlineversion versioniert speichern** (vorher/nachher), Hinweisseite mit Quellenangabe.
 7. **Folgemassnahmen.** Lektoratsfehleranalyse; Eintrag in CRM zur Autorinformation.

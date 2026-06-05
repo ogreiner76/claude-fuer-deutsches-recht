@@ -1,13 +1,13 @@
 ---
 name: zivilprozess-modus
-description: "Nutze dies, wenn Zivilprozess Modus im Plugin Aktenauszug Gerichtsverfahren konkret bearbeitet werden soll. Auslöser: Bitte Zivilprozess Modus prüfen.; Erstelle eine Arbeitsfassung zu Zivilprozess Modus.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zivilprozess Modus: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zivilprozess Modus
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zivilprozess Modus** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -30,7 +30,7 @@ Für **Zivilprozess Modus** zuerst das Arbeitsmodul wählen, dessen Tatsachen im
 
 ## Zweck
 
-Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für ordentliche Zivilverfahren nach der Zivilprozessordnung (ZPO). Er ergänzt den allgemeinen Aktenauszug-Workflow um ZPO-spezifische Fristen, Verfahrensschritte und Besonderheiten.
+Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für ordentliche Zivilverfahren nach der Zivilprozessordnung (ZPO). Er ergänzt den allgemeinen Aktenauszug-um ZPO-spezifische Fristen, Verfahrensschritte und Besonderheiten.
 
 ## Triage — kläre vor Aktivierung des Modus
 

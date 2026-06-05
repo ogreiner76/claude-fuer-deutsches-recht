@@ -12,7 +12,7 @@ Artenschutz ist materieller Pflichtprogramm-Punkt jedes B-Plans, der bauliche Ve
 ## Schritt 1 — Zugriffsverbote § 44 BNatSchG
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Drei Verbote
 - **Tötungsverbot** § 44 Abs. 1 Nr. 1 BNatSchG: Verbot, wildlebenden Tieren der besonders geschützten Arten nachzustellen, sie zu fangen, zu verletzen oder zu töten
@@ -218,18 +218,18 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 III. Verstoß gegen § 44 Abs. 1 Nr. 3 BNatSchG — Lebensstättenschutz [NAME ART]
 
 1. Bestandsaufnahme methodisch unzureichend (§ 2 Abs. 3 BauGB)
-   Die saP der [BUERO] vom [DATUM] enthält zur Art [NAME] lediglich [SATZ AUS GUTACHTEN].
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Insbesondere wurde die [KONKRETER MANGEL: Begehung im Maerz statt im Hochsommer / Kartierung nur Kerngebiet ohne Puffer].
+ Die saP der [BUERO] vom [DATUM] enthält zur Art [NAME] lediglich [SATZ AUS GUTACHTEN].
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Insbesondere wurde die [KONKRETER MANGEL: Begehung im Maerz statt im Hochsommer / Kartierung nur Kerngebiet ohne Puffer].
 
 2. CEF-Maßnahme nicht verbindlich festgesetzt
-   Die Maßnahme [BEZEICHNUNG] ist nur in Begründung Seite X erwähnt, aber nicht in den textlichen
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Die Maßnahme [BEZEICHNUNG] ist nur in Begründung Seite X erwähnt, aber nicht in den textlichen
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. FCS-Nachweis fehlt
-   Der Erhaltungszustand der Lokalpopulation von [ART] wird nicht bewertet.
-   Ohne diesen Nachweis ist die Ausnahme nach § 45 Abs. 7 BNatSchG nicht erfüllt
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Der Erhaltungszustand der Lokalpopulation von [ART] wird nicht bewertet.
+ Ohne diesen Nachweis ist die Ausnahme nach § 45 Abs. 7 BNatSchG nicht erfüllt
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klaeren ---

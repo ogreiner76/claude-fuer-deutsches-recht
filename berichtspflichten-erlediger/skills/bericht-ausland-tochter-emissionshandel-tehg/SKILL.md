@@ -1,13 +1,13 @@
 ---
 name: bericht-ausland-tochter-emissionshandel-tehg
-description: "Nutze dies, wenn Bericht Ausland Tochter De Pflichten, Bericht Emissionshandel Tehg Dehst, Bericht Fuhrpark Telemetrie Datenschutz im Plugin Berichtspflichten Erlediger konkret bearbeitet werden soll. Auslöser: Bitte Bericht Ausland Tochter De Pflichten, Bericht Emissionshandel Tehg Dehst, Bericht Fuhrpark Telemetrie Datenschutz prüfen.; Erstelle eine Arbeitsfassung zu Bericht Ausland Tochter De Pflichten, Bericht Emissionshandel Tehg Dehst, Bericht Fuhrpark Telemetrie Datenschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bericht Ausland Tochter De Pflichten, Bericht Emissionshandel Tehg Dehst, Bericht Fuhrpark Telemetrie Datenschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bericht Ausland Tochter De Pflichten, Bericht Emissionshandel Tehg Dehst, Bericht Fuhrpark Telemetrie Datenschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bericht Ausland Tochter De Pflichten, Bericht Emissionshandel Tehg Dehst, Bericht Fuhrpark Telemetrie Datenschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

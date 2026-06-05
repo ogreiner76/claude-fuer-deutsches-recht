@@ -1,13 +1,13 @@
 ---
 name: migr-asylverfahren-aufenthaltsstatus-frist
-description: "Nutze dies, wenn Migr Asylverfahren Anhoerung Leitfaden, Spezial Aufenthaltsstatus Frist Und Rechtsmittel, Spezial Aufenthaltstitel Fristennotiz Und Naechster Schritt, Spezial Aufenthg Fristen Form Und Zustaendigkeit im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Migr Asylverfahren Anhoerung Leitfaden, Spezial Aufenthaltsstatus Frist Und Rechtsmittel, Spezial Aufenthaltstitel Fristennotiz Und Naechster Schritt, Spezial Aufenthg Fristen Form Und Zustaendigkeit prüfen.; Erstelle eine Arbeitsfassung zu Migr Asylverfahren Anhoerung Leitfaden, Spezial Aufenthaltsstatus Frist Und Rechtsmittel, Spezial Aufenthaltstitel Fristennotiz Und Naechster Schritt, Spezial Aufenthg Fristen Form Und Zustaendigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Migr Asylverfahren Anhoerung Leitfaden, Aufenthaltsstatus Frist Und Rechtsmittel, Aufenthaltstitel Fristennotiz Und Naechster Schritt, Aufenthg Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Migr Asylverfahren Anhoerung Leitfaden, Spezial Aufenthaltsstatus Frist Und Rechtsmittel, Spezial Aufenthaltstitel Fristennotiz Und Naechster Schritt, Spezial Aufenthg Fristen Form Und Zustaendigkeit
+# Migr Asylverfahren Anhoerung Leitfaden, Aufenthaltsstatus Frist Und Rechtsmittel, Aufenthaltstitel Fristennotiz Und Naechster Schritt, Aufenthg Fristen Form Und Zustaendigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 
 ## Arbeitsweg
 
-Für **Migr Asylverfahren Anhoerung Leitfaden, Spezial Aufenthaltsstatus Frist Und Rechtsmittel, Spezial Aufenthaltstitel Fristennotiz Und Naechster Schritt, Spezial Aufenthg Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Migr Asylverfahren Anhoerung Leitfaden, Aufenthaltsstatus Frist Und Rechtsmittel, Aufenthaltstitel Fristennotiz Und Naechster Schritt, Aufenthg Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -35,7 +35,7 @@ Für **Migr Asylverfahren Anhoerung Leitfaden, Spezial Aufenthaltsstatus Frist U
 ## Aufgabe
 Leitfaden Asylverfahren und Anhoerung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -124,11 +124,11 @@ Dieser Skill gehoert zum Plugin `fachanwalt-migrationsrecht`. Er ergaenzt die ue
 # Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `fachanwalt-migrationsrecht`. Kontext des Plugins: Plugin Fachanwalt für Migrationsrecht. AufenthG AsylG GFK Dublin-VO Verfahrens-RL Qualifikations-RL StAG. Einbürgerung Familiennachzug Notfrist § 36 AsylG eine Woche. Schnittstellen Plugin rechtsberatungsstelle.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-migrationsrecht`. Kontext des Plugins: Plugin Fachanwalt für Migrationsrecht. AufenthG AsylG GFK Dublin-VO Verfahrens-RL Qualifikations-RL StAG. Einbürgerung Familiennachzug Notfrist § 36 AsylG eine Woche. Schnittstellen Plugin rechtsberatungsstelle.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -164,7 +164,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # Aufenthaltstitel: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Aufenthaltstitel: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Aufenthaltstitel: Fristennotiz und nächster Schritt / spezial aufenthaltstitel fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aufenthaltstitel: Fristennotiz und nächster Schritt / aufenthaltstitel fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -213,7 +213,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg / spezial aufenthg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg / aufenthg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

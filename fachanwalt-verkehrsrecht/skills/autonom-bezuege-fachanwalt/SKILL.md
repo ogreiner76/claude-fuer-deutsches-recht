@@ -1,13 +1,13 @@
 ---
 name: autonom-bezuege-fachanwalt
-description: "Nutze dies, wenn Spezial Autonom Abschlussprodukt Und Übergabe, Spezial Bezuege Behörden Gericht Und Registerweg, Spezial Fachanwalt Erstpruefung Und Mandatsziel im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Autonom Abschlussprodukt Und Übergabe, Spezial Bezuege Behörden Gericht Und Registerweg, Spezial Fachanwalt Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Autonom Abschlussprodukt Und Übergabe, Spezial Bezuege Behörden Gericht Und Registerweg, Spezial Fachanwalt Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Autonom Abschlussprodukt Und Uebergabe, Bezuege Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Autonom Abschlussprodukt Und Übergabe, Spezial Bezuege Behörden Gericht Und Registerweg, Spezial Fachanwalt Erstpruefung Und Mandatsziel
+# Autonom Abschlussprodukt Und Übergabe, Bezuege Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Autonom Abschlussprodukt Und Übergabe, Bezuege Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Autonom Abschlussprodukt Und Übergabe, Spezial Bezuege Behörden Gericht Und Registerweg, Spezial Fachanwalt Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Autonom Abschlussprodukt Und Übergabe, Bezuege Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Autonom Abschlussprodukt Und Übergabe, Spezial Bezuege Behörden
 # Autonom: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Autonom: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Autonom: Abschlussprodukt und Übergabe / spezial autonom abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Autonom: Abschlussprodukt und Übergabe / autonom abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Bezuege: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Bezuege: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Bezuege: Behörden-, Gerichts- oder Registerweg / spezial bezuege behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bezuege: Behörden-, Gerichts- oder Registerweg / bezuege behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -108,22 +108,22 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Verkehrsrechts-Behoerden / Gerichts / Register Bausteine
 - **Behoerden-Triade:**
-  - **Bussgeldstelle (zentrale OWi-Verfahrensbehoerde des Bundeslands):** § 65 OWiG; Bescheidserlass; Einspruchsbearbeitung; Abgabe an StA bei Strafbefehl-Antrag.
-  - **Staatsanwaltschaft:** Verkehrsstrafsachen; § 152 StPO Anklageerhebung.
-  - **Fahrerlaubnisstelle (Landratsamt / Buergeramt):** §§ 3 StVG, 46 FeV Entziehung; Wiedererteilung § 20 FeV; MPU-Anordnung §§ 11, 13, 14 FeV.
-  - **KBA Flensburg (Kraftfahrt-Bundesamt):** § 29 StVG Halterabfrage; FAER (Fahreignungsregister) § 30 StVG mit Punktestand-Abfrage online (kostenfrei).
+ - **Bussgeldstelle (zentrale OWi-Verfahrensbehoerde des Bundeslands):** § 65 OWiG; Bescheidserlass; Einspruchsbearbeitung; Abgabe an StA bei Strafbefehl-Antrag.
+ - **Staatsanwaltschaft:** Verkehrsstrafsachen; § 152 StPO Anklageerhebung.
+ - **Fahrerlaubnisstelle (Landratsamt / Buergeramt):** §§ 3 StVG, 46 FeV Entziehung; Wiedererteilung § 20 FeV; MPU-Anordnung §§ 11, 13, 14 FeV.
+ - **KBA Flensburg (Kraftfahrt-Bundesamt):** § 29 StVG Halterabfrage; FAER (Fahreignungsregister) § 30 StVG mit Punktestand-Abfrage online (kostenfrei).
 - **Gerichtsweg:**
-  - **AG Strafrichter (§ 25 GVG):** Bussgeldverfahren §§ 65 ff. OWiG; Verkehrsstrafsachen bis 2 Jahre Freiheitsstrafe.
-  - **AG Schoeffengericht (§ 28 GVG):** Verkehrsstrafsachen bis 4 Jahre.
-  - **AG Zivilrichter:** Unfall-Zivilrecht bis Streitwert 5.000 EUR (§ 23 GVG).
-  - **LG:** Berufung gegen AG-Urteile (Strafrecht); Zivilrechtszuständigkeit ab 5.000 EUR; Berufung Zivilrecht zum OLG.
-  - **OLG:** Rechtsbeschwerde §§ 79, 80 OWiG; Revision Strafrecht; Berufung Zivilrecht.
+ - **AG Strafrichter (§ 25 GVG):** Bussgeldverfahren §§ 65 ff. OWiG; Verkehrsstrafsachen bis 2 Jahre Freiheitsstrafe.
+ - **AG Schoeffengericht (§ 28 GVG):** Verkehrsstrafsachen bis 4 Jahre.
+ - **AG Zivilrichter:** Unfall-Zivilrecht bis Streitwert 5.000 EUR (§ 23 GVG).
+ - **LG:** Berufung gegen AG-Urteile (Strafrecht); Zivilrechtszuständigkeit ab 5.000 EUR; Berufung Zivilrecht zum OLG.
+ - **OLG:** Rechtsbeschwerde §§ 79, 80 OWiG; Revision Strafrecht; Berufung Zivilrecht.
 - **Register-Wege:**
-  - **FAER (Fahreignungsregister) § 30 StVG:** Punktestand-Abfrage online unter kba.de; Selbstauskunft kostenfrei.
-  - **BZR / Fuehrungszeugnis:** Bundeszentralregister § 30 BZRG; Auskunft Buergerinnen ueber online-Antrag.
-  - **VZR (Verkehrszentralregister):** in FAER aufgegangen (seit Reform 2014).
-  - **ZFER (Zentrales Fahrerlaubnisregister):** § 33 StVG.
-  - **ZBV (Zentralregister Bauartzulassungen):** PTB - Messgeraete-Zulassungen verifizierbar.
+ - **FAER (Fahreignungsregister) § 30 StVG:** Punktestand-Abfrage online unter kba.de; Selbstauskunft kostenfrei.
+ - **BZR / Fuehrungszeugnis:** Bundeszentralregister § 30 BZRG; Auskunft Buergerinnen ueber online-Antrag.
+ - **VZR (Verkehrszentralregister):** in FAER aufgegangen (seit Reform 2014).
+ - **ZFER (Zentrales Fahrerlaubnisregister):** § 33 StVG.
+ - **ZBV (Zentralregister Bauartzulassungen):** PTB - Messgeraete-Zulassungen verifizierbar.
 - **Praxis-Tipp:** Vor jedem Mandantentermin Halterauskunft KBA und Punktestand-Abfrage; bei Verkehrsstrafsachen BZRG-Auszug; bei Unfall Halter-/Versicherungsauskunft ueber GDV-Online-System (HISP).
 
 ## 3. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
@@ -133,7 +133,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel / spezial fachanwalt erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel / fachanwalt erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -169,23 +169,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Fachanwalt-Verkehr Erstpruefung Mandatsziel Bausteine
 - **Saeule-Identifikation in der Triage:**
-  - (a) Verkehrszivilrecht (Unfall, Schadenersatz, Versicherer-Streit).
-  - (b) Verkehrs-OWi (Bussgeldbescheid, Punkte, Fahrverbot).
-  - (c) Verkehrsstrafrecht (§§ 142, 222, 229, 315 ff., 316 StGB).
-  - (d) Verkehrsverwaltungsrecht (FeV-Entziehung, MPU, Wiedererteilung).
-  - (e) Versicherungsrecht (Kasko-Ablehnung, Insassenversicherung).
+ - (a) Verkehrszivilrecht (Unfall, Schadenersatz, Versicherer-Streit).
+ - (b) Verkehrs-OWi (Bussgeldbescheid, Punkte, Fahrverbot).
+ - (c) Verkehrsstrafrecht (§§ 142, 222, 229, 315 ff., 316 StGB).
+ - (d) Verkehrsverwaltungsrecht (FeV-Entziehung, MPU, Wiedererteilung).
+ - (e) Versicherungsrecht (Kasko-Ablehnung, Insassenversicherung).
 - **Rolle-Klaerung:** Geschaedigter, Schaediger, Halter, Fahrer, Versicherungsnehmer, Beschuldigter, Antragsteller FE-Wiedererteilung; ggf. mehrere Rollen parallel.
 - **Mandatsziel-Hierarchie nach Saeule:**
-  - **Zivil:** Schaden vollumfaenglich; Mietwagen / Nutzungsausfall; Wertminderung; Personenschaden Schmerzensgeld § 253 BGB.
-  - **OWi:** Fahrverbot abwenden, Punkte vermeiden, Geldbusse reduzieren.
-  - **Strafrecht:** Schuldspruch vermeiden, Strafmilderung, Fahrerlaubnis erhalten / wiedererlangen.
-  - **Verwaltungsrecht:** MPU-Vorbereitung, Sperrenkürzung, Wiedererteilung.
-  - **Versicherung:** Kostenerstattung, Leistungserschwerden, Schadenfreiheitsrabatt.
+ - **Zivil:** Schaden vollumfaenglich; Mietwagen / Nutzungsausfall; Wertminderung; Personenschaden Schmerzensgeld § 253 BGB.
+ - **OWi:** Fahrverbot abwenden, Punkte vermeiden, Geldbusse reduzieren.
+ - **Strafrecht:** Schuldspruch vermeiden, Strafmilderung, Fahrerlaubnis erhalten / wiedererlangen.
+ - **Verwaltungsrecht:** MPU-Vorbereitung, Sperrenkürzung, Wiedererteilung.
+ - **Versicherung:** Kostenerstattung, Leistungserschwerden, Schadenfreiheitsrabatt.
 - **Sofort-Massnahmen:**
-  - Unfallregulierung: Schadenanzeige, SV-Gutachten beauftragen (eigener SV bei klarer Haftung), Werkstatt einleiten.
-  - OWi: Akteneinsicht § 49 OWiG; Schweigerecht § 55 OWiG.
-  - Strafrecht: Verteidigerbestellung § 137 StPO; Schweigerecht § 136 StPO; bei vorlaeufiger Entziehung Fuehrerschein § 111a StPO Beschwerde.
-  - FeV: Anhoerungstermin wahrnehmen; ggf. Stellungnahme einreichen.
+ - Unfallregulierung: Schadenanzeige, SV-Gutachten beauftragen (eigener SV bei klarer Haftung), Werkstatt einleiten.
+ - OWi: Akteneinsicht § 49 OWiG; Schweigerecht § 55 OWiG.
+ - Strafrecht: Verteidigerbestellung § 137 StPO; Schweigerecht § 136 StPO; bei vorlaeufiger Entziehung Fuehrerschein § 111a StPO Beschwerde.
+ - FeV: Anhoerungstermin wahrnehmen; ggf. Stellungnahme einreichen.
 - **Frist-Re-Check:** § 195 BGB / § 199 BGB Schaden; § 67 OWiG 2 Wochen; § 410 StPO 2 Wochen; § 314 StPO 1 Woche; § 30 VVG unverzueglich; § 25 IIa StVG 4-Monatsfrist Fahrverbot.
 - **Rechtsschutzversicherungs-Deckungsanfrage** sofort (RS-Versicherer informieren; Wartezeit pruefen).
 - **Mandatsmatrix erstellen:** mit Mandantenfreigabe schriftlich fuer alle weiteren Schritte (Strategie, Vergleich, Klage, Einspruch, Verzicht).

@@ -1,6 +1,6 @@
 ---
 name: rom-021-miete-pacht-locatio-conductio
-description: "Römisches Recht: Miete Pacht Locatio Conductio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Miete Pacht Locatio Conductio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Miete Pacht Locatio Conductio

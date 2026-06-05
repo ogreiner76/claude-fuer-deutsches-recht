@@ -1,13 +1,13 @@
 ---
 name: landesaufsicht-krankenhausaufsicht
-description: "Nutze dies, wenn Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Aufnahme Herausnahme Aenderung, Landesrecht Und Bundesrecht Trennen im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Aufnahme Herausnahme Aenderung, Landesrecht Und Bundesrecht Trennen prüfen.; Erstelle eine Arbeitsfassung zu Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Aufnahme Herausnahme Aenderung, Landesrecht Und Bundesrecht Trennen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Aufnahme Herausnahme Aenderung, Landesrecht Und Bundesrecht Trennen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Aufnahme Herausnahme Aenderung, Landesrecht Und Bundesrecht Trennen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Landesaufsicht Krankenhausaufsicht Beanstandung, Landeskrankenhausplan Aufnahme Herausnahme Aenderung, Landesrecht Und Bundesrecht Trennen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `landesaufsicht-krankenhausaufsicht-beanstandung` | Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz. |
 | `landeskrankenhausplan-aufnahme-herausnahme-aenderung` | Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhoerungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen. |
-| `landesrecht-und-bundesrecht-trennen` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Landesrecht und Bundesrecht trennen. |
+| `landesrecht-und-bundesrecht-trennen` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Landesrecht und Bundesrecht trennen. |
 
 ## Arbeitsweg
 
@@ -55,7 +55,7 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 - **KHG § 8** Versorgungsauftrag und Foerderungsvoraussetzungen.
 - **VwGO §§ 42, 80** Klagen und einstweiliger Rechtsschutz.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Aufsichtsbehoerde und Anlass identifizieren:** Routineprueung, Beschwerde, MD-Bericht, Vorfall?
 2. **Anhoerung wahrnehmen:** Sachverhaltsdarstellung, Gegendarstellung, Sachverstaendigenstellungnahme.
 3. **Bescheid pruefen:** Auflage, Anordnung, Bussgeld, Schliessungsdrohung; Ermessen und Verhaeltnismaessigkeit.
@@ -139,7 +139,7 @@ Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versor
 - **VwVfG §§ 28 (Anhoerung), 39 (Begruendung), 48/49 (Aufhebung)**.
 - **EU-Beihilfenrecht** bei oeffentlich gefoerderten Kliniken.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Verfahrensstand klaeren:** Anhoerung, Bescheid-Entwurf, Bescheid, Widerspruchsverfahren, Klage?
 2. **Bedarfslage darlegen:** Versorgungsbedarf, demographische Entwicklung, Erreichbarkeit, Krankheitsspektrum.
 3. **Eigene Strukturqualitaet beweisen:** Personal, Geraete, Notfallstufe, LG-Profil.
@@ -195,7 +195,7 @@ Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versor
 
 ## 3. `landesrecht-und-bundesrecht-trennen`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Landesrecht und Bundesrecht trennen.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Landesrecht und Bundesrecht trennen.
 
 # Landesrecht und Bundesrecht trennen
 

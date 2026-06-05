@@ -1,6 +1,6 @@
 ---
 name: rom-052-erbrecht-testament
-description: "Römisches Recht: Erbrecht Testament. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Erbrecht Testament. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Erbrecht Testament

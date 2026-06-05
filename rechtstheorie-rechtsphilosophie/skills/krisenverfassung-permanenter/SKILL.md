@@ -1,13 +1,13 @@
 ---
 name: krisenverfassung-permanenter
-description: "Nutze dies, wenn Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung im Plugin Rechtstheorie Rechtsphilosophie konkret bearbeitet werden soll. Auslöser: Bitte Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung prüfen.; Erstelle eine Arbeitsfassung zu Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

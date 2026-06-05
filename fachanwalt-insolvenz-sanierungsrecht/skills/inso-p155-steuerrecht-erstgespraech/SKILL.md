@@ -1,27 +1,27 @@
 ---
 name: inso-p155-steuerrecht-erstgespraech
-description: "Nutze dies, wenn Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Spezial Steuerrecht Formular Portal Und Einreichung, Erstgespraech Mandatsannahme, Fa Inso Drittstaaten Anerkennung Registervollzug, Fa Insolvenz Npl Und Distressed Debt im Plugin Fachanwalt Insolvenz Sanierungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Spezial Steuerrecht Formular Portal Und Einreichung, Erstgespraech Mandatsannahme, Fa Inso Drittstaaten Anerkennung Registervollzug, Fa Insolvenz Npl Und Distressed Debt prüfen.; Erstelle eine Arbeitsfassung zu Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Spezial Steuerrecht Formular Portal Und Einreichung, Erstgespraech Mandatsannahme, Fa Inso Drittstaaten Anerkennung Registervollzug, Fa Insolvenz Npl Und Distressed Debt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Steuerrecht Formular Portal Und Einreichung, Erstgespraech Mandatsannahme, Fa Inso Drittstaaten Anerkennung Registervollzug: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Spezial Steuerrecht Formular Portal Und Einreichung, Erstgespraech Mandatsannahme, Fa Inso Drittstaaten Anerkennung Registervollzug, Fa Insolvenz Npl Und Distressed Debt
+# Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Steuerrecht Formular Portal Und Einreichung, Erstgespraech Mandatsannahme, Fa Inso Drittstaaten Anerkennung Registervollzug, Fa Insolvenz Npl Und Distressed Debt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Steuerrecht Formular Portal Und Einreichung, Erstgespraech Mandatsannahme, Fa Inso Drittstaaten Anerkennung Registervollzug, Fa Insolvenz Npl Und Distressed Debt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p155-handels-und-steuerrechtliche-rechnungslegung` | § 155 InsO (Handels- und steuerrechtliche Rechnungslegung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `spezial-steuerrecht-formular-portal-und-einreichung` | Steuerrecht: Formular, Portal und Einreichungslogik im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-steuerrecht-formular-portal-und-einreichung` | Steuerrecht: Formular, Portal und Einreichungslogik im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Insolvenz- und Restrukturierungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fa-inso-drittstaaten-anerkennung-registervollzug` | Fachanwaltlicher Spezialskill für Drittstaateninsolvenz in Deutschland: Anerkennung nach §§ 335 ff., 343 InsO, Inzidentprüfung, office holder, debtor in possession, GmbH-Anteile, Grundbuch, Handelsregister und Nachweispaket. |
+| `fa-inso-drittstaaten-anerkennung-registervollzug` | Fachanwaltlicher Fachmodul für Drittstaateninsolvenz in Deutschland: Anerkennung nach §§ 335 ff., 343 InsO, Inzidentprüfung, office holder, debtor in possession, GmbH-Anteile, Grundbuch, Handelsregister und Nachweispaket. |
 | `fa-insolvenz-npl-und-distressed-debt` | Prüft NPL-Kauf, distressed debt, Kreditdienstleister, Gläubigerstellung, Planmehrheiten, Anfechtung und Loan-to-own. |
 
 ## Arbeitsweg
 
-Für **Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Spezial Steuerrecht Formular Portal Und Einreichung, Erstgespraech Mandatsannahme, Fa Inso Drittstaaten Anerkennung Registervollzug, Fa Insolvenz Npl Und Distressed Debt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Steuerrecht Formular Portal Und Einreichung, Erstgespraech Mandatsannahme, Fa Inso Drittstaaten Anerkennung Registervollzug, Fa Insolvenz Npl Und Distressed Debt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,7 +42,7 @@ Für **Inso P155 Handels Und Steuerrechtliche Rechnungslegung, Spezial Steuerrec
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsworkflow an **§ 155 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 155 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 155 InsO**
@@ -83,7 +83,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `spezial-steuerrecht-formular-portal-und-einreichung`
 
-**Fokus:** Steuerrecht: Formular, Portal und Einreichungslogik im Insolvenz- und Sanierungsrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Steuerrecht: Formular, Portal und Einreichungslogik im Insolvenz- und Sanierungsrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Steuerrecht: Formular, Portal und Einreichungslogik
 
@@ -97,7 +97,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Spezialwissen: Steuerrecht: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Steuerrecht: Formular, Portal und Einreichungslogik / spezial steuerrecht formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Steuerrecht: Formular, Portal und Einreichungslogik / steuerrecht formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, InsO, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -295,7 +295,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 ## Aktuelle Leitentscheidungen — Insolvenz-Erstmandat (Stand Mai 2026)
 
 - **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers (§ 823 II BGB iVm § 15a InsO); für die Mandantenwarnung bei Wechsel der Geschäftsleitung.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung bei verspätetem Insolvenzantrag; Hinweis auf Deckungschancen.
 - **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung; Strafbarkeit auch ohne formale Bestellung.
 - Im Anfechtungsmandat: **BGH IX ZR 122/23 (05.12.2024)** zur Unlauterkeit Bargeschäft; **BGH IX ZR 129/22 (18.04.2024)** zur Neuausrichtung Vorsatzanfechtung.
@@ -314,7 +314,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## 4. `fa-inso-drittstaaten-anerkennung-registervollzug`
 
-**Fokus:** Fachanwaltlicher Spezialskill für Drittstaateninsolvenz in Deutschland: Anerkennung nach §§ 335 ff., 343 InsO, Inzidentprüfung, office holder, debtor in possession, GmbH-Anteile, Grundbuch, Handelsregister und Nachweispaket.
+**Fokus:** Fachanwaltlicher Fachmodul für Drittstaateninsolvenz in Deutschland: Anerkennung nach §§ 335 ff., 343 InsO, Inzidentprüfung, office holder, debtor in possession, GmbH-Anteile, Grundbuch, Handelsregister und Nachweispaket.
 
 # Drittstaateninsolvenz in Deutschland — Anerkennung, Register, Vollzug
 

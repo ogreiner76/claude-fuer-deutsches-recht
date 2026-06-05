@@ -1,13 +1,13 @@
 ---
 name: ins-aktienr-ins-anleiheemission
-description: "Nutze dies, wenn Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission prüfen.; Erstelle eine Arbeitsfassung zu Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -58,18 +58,18 @@ angekündigt und durchgeführt werden, und prüft laufend Safe-Harbour-Konformit
 ### Schritt 2 – Ad-hoc-Ankündigung
 
 - Bekanntgabe des Programms ist typischerweise ad-hoc-pflichtig, sobald Board-Beschluss
-  vorliegt (nicht erst bei Start der Käufe)
+ vorliegt (nicht erst bei Start der Käufe)
 - Inhalt: Volumen, Preisspanne, Zweck, Laufzeit, beauftragtes Institut
 
 ### Schritt 3 – Safe-Harbour-Bedingungen (DVO 2016/1052)
 
 Tageskauf-Limit: max. 25 % des durchschnittlichen Tagesvolumens der letzten 20 Handelstage
 Preislimit: Höchstkurs = letzter unabhängiger Abschlusskurs oder höchstes aktuelles unabhängiges
-  Gebot (je nachdem, welches höher ist)
+ Gebot (je nachdem, welches höher ist)
 Keine Käufe:
-  - Während eines Aufschubs nach Art. 17 Abs. 4 MAR (außer im Rahmen eines vorgefassten Plans)
-  - In Closed Periods (Art. 19 Abs. 11 MAR, aber nur für PDMR, nicht für Emittenten-Programm direkt)
-  - An Tagen, an denen Ad-hoc-Veröffentlichungen geplant sind
+ - Während eines Aufschubs nach Art. 17 Abs. 4 MAR (außer im Rahmen eines vorgefassten Plans)
+ - In Closed Periods (Art. 19 Abs. 11 MAR, aber nur für PDMR, nicht für Emittenten-Programm direkt)
+ - An Tagen, an denen Ad-hoc-Veröffentlichungen geplant sind
 
 ### Schritt 4 – Handelsverbote für PDMRs
 
@@ -144,10 +144,10 @@ die Compliance für Emittenten und Arrangeure.
 ### Schritt 1 – Anwendungsbereich MAR prüfen
 
 - Ist die Anleihe an einem regulierten Markt (Frankfurter Wertpapierbörse, Euronext, etc.)
-  oder einem MTF (Freiverkehr) zum Handel zugelassen?
+ oder einem MTF (Freiverkehr) zum Handel zugelassen?
 - Falls ja: MAR gilt vollumfänglich für den Emittenten
 - Falls nein (Schuldscheindarlehen, privat platziert): MAR gilt nicht direkt für die Anleihe,
-  aber prüfe ob Aktien oder Derivate des Emittenten betroffen sind
+ aber prüfe ob Aktien oder Derivate des Emittenten betroffen sind
 
 ### Schritt 2 – Insiderinformationen vor der Emission
 
@@ -160,7 +160,7 @@ die Compliance für Emittenten und Arrangeure.
 
 - Sondierung von institutionellen Investoren vor der Emission: Art. 11 MAR-Verfahren
 - Welche Informationen im Sounding sind UPSI? (Typisch: Emissionsvolumen, Verwendungszweck,
-  finanzielle Kennzahlen, die noch nicht öffentlich sind)
+ finanzielle Kennzahlen, die noch nicht öffentlich sind)
 - Wall-Crossing-Dokumentation für alle gesoundeten Investoren
 
 ### Schritt 4 – Arrangeur-Pflichten
@@ -173,7 +173,7 @@ die Compliance für Emittenten und Arrangeure.
 ### Schritt 5 – Ad-hoc und Prospekt
 
 - Anleihe-Emission: Kein automatischer Ad-hoc-Auslöser, aber alle wesentlichen Umstände
-  der Emission (Kondiktionen, Ergebnis) sind im Rahmen der allgemeinen Pflichten zu melden
+ der Emission (Kondiktionen, Ergebnis) sind im Rahmen der allgemeinen Pflichten zu melden
 - Prospektpflicht nach EU-Prospektverordnung: Parallel zu MAR-Compliance prüfen
 - Ongoing-Disclosure: Kupon-Änderungen, Covenant Breaches → ggf. ad-hoc-pflichtig
 

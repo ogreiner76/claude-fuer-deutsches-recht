@@ -177,17 +177,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 CP-Erfullung verzoegert sich?
-  → Regulatorisch (Kartell/FDI)?
-       → Kurze Verzoegerung: Long Stop Date verlaengern (Amendment); Behoerde aktiv unterstuetzen
-       → Untersagung droht: Abhilfemassnahmen (Remedies/Divestitures) verhandeln
-  → Dritte Consent nicht eingeholt?
-       → Wesentlich fuer Business: nachverhandeln; ggf. Kaufpreisabschlag
-       → Unwesentlich: Waiver durch Kaeufer einholen
-  → Bring-Down nicht clean (Rep-Verletzung)?
-       → MAC-Schwelle erreicht: Ruecktrittsrecht pruefen (§ 162 BGB)
-       → Nicht wesentlich: Waiver oder Abschlag
-  → Long Stop Date erreicht?
-       → Automatischer Ruecktritt per SPA-Klausel; Schadensersatz pruefen
+ → Regulatorisch (Kartell/FDI)?
+ → Kurze Verzoegerung: Long Stop Date verlaengern (Amendment); Behoerde aktiv unterstuetzen
+ → Untersagung droht: Abhilfemassnahmen (Remedies/Divestitures) verhandeln
+ → Dritte Consent nicht eingeholt?
+ → Wesentlich fuer Business: nachverhandeln; ggf. Kaufpreisabschlag
+ → Unwesentlich: Waiver durch Kaeufer einholen
+ → Bring-Down nicht clean (Rep-Verletzung)?
+ → MAC-Schwelle erreicht: Ruecktrittsrecht pruefen (§ 162 BGB)
+ → Nicht wesentlich: Waiver oder Abschlag
+ → Long Stop Date erreicht?
+ → Automatischer Ruecktritt per SPA-Klausel; Schadensersatz pruefen
 ```
 
 ## Output-Template CP-Tracker
@@ -202,11 +202,11 @@ Long Stop Date: [DATUM]
 
 | Nr. | CP-Beschreibung | Owner | Status | Frist | Naechste Aktion | Eskalation |
 |-----|----------------|-------|--------|-------|----------------|------------|
-| 1   | Kartellfreigabe GWB | Kaeufer | In Pruefung | [Datum] | Follow-up Bundeskartellamt | Partner |
-| 2   | FDI-Nichtuntersagung BMWK | Kaeufer | Angemeldet | [Datum] | Antwort abwarten | Partner |
-| 3   | CoC-Consent Kunden-A | Verkaefer | Offen | [Datum] | Gespraeche laufend | Managing Partner |
-| 4   | Bring-Down Certificate | Verkaefer | Vorbereitet | Closing Day | Am Closing-Tag ausstellen | — |
-| 5   | Kaufpreiszahlung | Kaeufer | Bereit | Closing Day | SWIFT-Bestaetigung vorbereiten | — |
+| 1 | Kartellfreigabe GWB | Kaeufer | In Pruefung | [Datum] | Follow-up Bundeskartellamt | Partner |
+| 2 | FDI-Nichtuntersagung BMWK | Kaeufer | Angemeldet | [Datum] | Antwort abwarten | Partner |
+| 3 | CoC-Consent Kunden-A | Verkaefer | Offen | [Datum] | Gespraeche laufend | Managing Partner |
+| 4 | Bring-Down Certificate | Verkaefer | Vorbereitet | Closing Day | Am Closing-Tag ausstellen | — |
+| 5 | Kaufpreiszahlung | Kaeufer | Bereit | Closing Day | SWIFT-Bestaetigung vorbereiten | — |
 
 AMPELSTATUS: [GRUEN / GELB / ROT]
 VORAUSSICHTLICHES CLOSING: [DATUM]

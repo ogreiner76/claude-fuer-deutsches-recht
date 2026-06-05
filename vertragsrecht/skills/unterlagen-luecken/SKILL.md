@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Nutze dies, wenn Unterlagen und Lücken im Plugin Vertragsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Unterlagen und Lücken
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Vertragsrecht** ein Fall noch sortiert, Do
 ## Fachlandkarte dieses Plugins
 
 - `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie Agb Eskalations Marker
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `bgb-business-einzelabrufe-sonderfall` — Bgb Business Einzelabrufe Sonderfall
 - `fernabsatz-lieferanten-red-team` — Fernabsatz Lieferanten Red Team
 - `fristennotiz-naechster-vertriebsvertraege-lieferantenvertrag` — Fristennotiz Naechster Vertriebsvertraege Lieferantenvertrag

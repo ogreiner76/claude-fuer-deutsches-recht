@@ -1,13 +1,13 @@
 ---
 name: foerderverein-schule-fusion-vereine
-description: "Nutze dies, wenn Foerderverein Schule Kita, Fusion Vereine, Gemeinnuetzigkeit Antrag im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Bitte Foerderverein Schule Kita, Fusion Vereine, Gemeinnuetzigkeit Antrag prüfen.; Erstelle eine Arbeitsfassung zu Foerderverein Schule Kita, Fusion Vereine, Gemeinnuetzigkeit Antrag.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Foerderverein Schule Kita, Fusion Vereine, Gemeinnuetzigkeit Antrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Foerderverein Schule Kita, Fusion Vereine, Gemeinnuetzigkeit Antrag
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Foerderverein Schule Kita, Fusion Vereine, Gemeinnuetzigkeit Antrag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Foerderverein Schule Kita, Fusion Vereine, Gemeinnuetzigkeit Antrag** zue
 ## Aufgabe
 Regelt Gemeinnützigkeit, Schulförderung, Kita-Nähe, Mittelverwendung, Datenschutz und Interessenkonflikte.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft Zusammenschluss, Vermögensübertragung, Mitgliederzustimmung, Satzungen und Registerpfad.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Bereitet Satzungsprüfung, Feststellung nach AO, Finanzamt-Kommunikation und Zuwendungsbestätigungen vor.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

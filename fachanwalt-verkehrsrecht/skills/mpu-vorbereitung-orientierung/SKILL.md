@@ -1,13 +1,13 @@
 ---
 name: mpu-vorbereitung-orientierung
-description: "Nutze dies, wenn Fachanwalt Verkehrsrecht Mpu Vorbereitung, Fachanwalt Verkehrsrecht Orientierung, Fachanwalt Verkehrsrecht Regulierungsanforderung im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Verkehrsrecht Mpu Vorbereitung, Fachanwalt Verkehrsrecht Orientierung, Fachanwalt Verkehrsrecht Regulierungsanforderung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Verkehrsrecht Mpu Vorbereitung, Fachanwalt Verkehrsrecht Orientierung, Fachanwalt Verkehrsrecht Regulierungsanforderung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Verkehrsrecht Mpu Vorbereitung, Fachanwalt Verkehrsrecht Orientierung, Fachanwalt Verkehrsrecht Regulierungsanforderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Verkehrsrecht Mpu Vorbereitung, Fachanwalt Verkehrsrecht Orientierung, Fachanwalt Verkehrsrecht Regulierungsanforderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Verkehrsrecht Mpu Vorbereitung, Fachanwalt Verkehrsrecht Orientierung, Fachanwalt Verkehrsrecht Regulierungsanforderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -298,7 +298,7 @@ Hinweis: Reihenfolge Rspr. vor Lit.; neueste zuerst. Keine Aufsatz- oder Komment
 ## Prüfschema in Tabellenform
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Ergebnis |
 |---|---|---|---|
@@ -348,7 +348,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 Schadensnummer: [falls bekannt]
 
 Betreff: Verkehrsunfall vom [Datum], [Uhrzeit], [Unfallort]
-         Ihr Versicherungsnehmer: [Name], Kfz-Kennzeichen: [Kz]
+ Ihr Versicherungsnehmer: [Name], Kfz-Kennzeichen: [Kz]
 
 Sehr geehrte Damen und Herren,
 
@@ -385,27 +385,27 @@ gegeben, da [Begründung].
 
 III. Schadensaufstellung
 
-Position                                            EUR
--------------------------------------------------  --------
-1. Reparaturkosten netto lt. SV-Gutachten          ______
-   (oder: WBW EUR ___ - Restwert EUR ___ = _____)
-2. Merkantile Wertminderung lt. SV-Gutachten       ______
-3. Sachverständigenkosten lt. Rechnung             ______
-4. Abschleppkosten lt. Rechnung                    ______
+Position EUR
+------------------------------------------------- --------
+1. Reparaturkosten netto lt. SV-Gutachten ______
+ (oder: WBW EUR ___ - Restwert EUR ___ = _____)
+2. Merkantile Wertminderung lt. SV-Gutachten ______
+3. Sachverständigenkosten lt. Rechnung ______
+4. Abschleppkosten lt. Rechnung ______
 5. Mietwagenkosten lt. Rechnung / Nutzungsausfall
-   [X] Tage × EUR [Y] (Sanden/Danner/Klass)       ______
-6. Schmerzensgeld § 253 Abs. 2 BGB                 ______
-   [Verletzungen benennen; Arztatteste beigefügt]
-7. Unkostenpauschale                                  30,00
--------------------------------------------------  --------
-Gesamt                                             ______
+ [X] Tage × EUR [Y] (Sanden/Danner/Klass) ______
+6. Schmerzensgeld § 253 Abs. 2 BGB ______
+ [Verletzungen benennen; Arztatteste beigefügt]
+7. Unkostenpauschale 30,00
+------------------------------------------------- --------
+Gesamt ______
 
 Anwaltskosten: 1,3 Geschäftsgebühr Nr. 2300 VV RVG
 aus EUR [Gesamtschaden] = EUR [Berechnung]
 + Auslagenpauschale Nr. 7002 VV EUR 20,00
-+ USt 19 % = EUR [Betrag]                           ______
--------------------------------------------------  --------
-Gesamtforderung                                    ______
++ USt 19 % = EUR [Betrag] ______
+------------------------------------------------- --------
+Gesamtforderung ______
 
 IV. Frist
 
@@ -446,24 +446,24 @@ Ihre Zahlung vom [Datum] in Höhe von EUR [X] nehmen wir zur Kenntnis.
 Die Regulierung ist aus folgenden Gründen unvollständig:
 
 1. Reparaturkosten: Sie haben EUR [X] gekürzt mit der Begründung
-   [Begründung Versicherer]. Diese Kürzung ist nicht berechtigt, weil
-   das Werkstattrisiko grundsätzlich beim Schädiger liegt
-   (BGH, Urt. v. 16.1.2024, VI ZR 253/22; BGH, Urt. v. 16.1.2024,
-   VI ZR 239/22 — Quelle vor Versand in juris.bundesgerichtshof.de
-   bzw. dejure.org verifizieren und Randnummer einfügen).
+ [Begründung Versicherer]. Diese Kürzung ist nicht berechtigt, weil
+ das Werkstattrisiko grundsätzlich beim Schädiger liegt
+ (BGH, Urt. v. 16.1.2024, VI ZR 253/22; BGH, Urt. v. 16.1.2024,
+ VI ZR 239/22 — Quelle vor Versand in juris.bundesgerichtshof.de
+ bzw. dejure.org verifizieren und Randnummer einfügen).
 
 2. Nutzungsausfall: Sie haben [X] Tage anerkannt; tatsächlich waren
-   [Y] Tage Ausfallzeit erforderlich (SV-Gutachten, Seite [X]).
-   Schätzgrundlage Schwacke- und/oder Fraunhofer-Tabelle in
-   tatrichterlicher Würdigung (§ 287 ZPO).
+ [Y] Tage Ausfallzeit erforderlich (SV-Gutachten, Seite [X]).
+ Schätzgrundlage Schwacke- und/oder Fraunhofer-Tabelle in
+ tatrichterlicher Würdigung (§ 287 ZPO).
 
 3. Sachverständigenkosten: Sie haben EUR [X] gekürzt. Der
-   Sachverständige [Name] hat marktübliche Sätze berechnet. Auch
-   überhöhte Sachverstaendigenkosten sind dem Geschädigten zu
-   ersetzen; das Sachverstaendigenrisiko liegt im Regelfall beim
-   Schädiger (BGH, Urt. v. 12.3.2024, VI ZR 280/22 — vor Versand
-   Volltext in juris.bundesgerichtshof.de aufrufen und Randnummer
-   einsetzen).
+ Sachverständige [Name] hat marktübliche Sätze berechnet. Auch
+ überhöhte Sachverstaendigenkosten sind dem Geschädigten zu
+ ersetzen; das Sachverstaendigenrisiko liegt im Regelfall beim
+ Schädiger (BGH, Urt. v. 12.3.2024, VI ZR 280/22 — vor Versand
+ Volltext in juris.bundesgerichtshof.de aufrufen und Randnummer
+ einsetzen).
 
 Wir halten unsere Restforderung in Höhe von EUR [Differenz] aufrecht
 und setzen Ihnen letzte Frist bis [Datum]. Danach erheben wir Klage.

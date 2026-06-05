@@ -62,19 +62,19 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 1. Statthaftigkeit § 347 AO
-   - Verwaltungsakt in Abgabenangelegenheit?
+ - Verwaltungsakt in Abgabenangelegenheit?
 2. Form § 357 AO
-   - Schriftlich oder elektronisch über § 87a AO?
+ - Schriftlich oder elektronisch über § 87a AO?
 3. Frist § 355 AO + Bekanntgabefiktion § 122 Abs. 2 AO (vier Tage seit 01.01.2025)
-   - Bekanntgabedatum + 1 Monat (Wochenend-/Feiertagsregel beachten).
+ - Bekanntgabedatum + 1 Monat (Wochenend-/Feiertagsregel beachten).
 4. Beschwer
-   - Steuerpflichtiger durch Bescheid in seinen Rechten beeinträchtigt?
+ - Steuerpflichtiger durch Bescheid in seinen Rechten beeinträchtigt?
 5. AdV § 361 AO erforderlich?
-   - Ernstliche Zweifel an Rechtmäßigkeit oder unbillige Härte?
+ - Ernstliche Zweifel an Rechtmäßigkeit oder unbillige Härte?
 6. Begründung
-   - Streitige Punkte einzeln; Tatsachen, Beweismittel, Rechtsgrundlagen.
+ - Streitige Punkte einzeln; Tatsachen, Beweismittel, Rechtsgrundlagen.
 7. Rechtsschutz nach Einspruchsentscheidung
-   - Klage FG § 47 FGO (1 Monat).
+ - Klage FG § 47 FGO (1 Monat).
 ```
 
 ## Struktur des Einspruchsschreibens
@@ -99,9 +99,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Formale Mängel zuerst (Bekanntgabe Begründung Adressat).
 - Materielle Mängel:
-  - Sachverhaltsfehler (Einkünftezuordnung Werbungskosten Sonderausgaben Außergewöhnliche Belastungen).
-  - Rechtsanwendungsfehler.
-  - Schätzung unrealistisch (§ 162 AO).
+ - Sachverhaltsfehler (Einkünftezuordnung Werbungskosten Sonderausgaben Außergewöhnliche Belastungen).
+ - Rechtsanwendungsfehler.
+ - Schätzung unrealistisch (§ 162 AO).
 - BFH-Rechtsprechung mit Pinpoint.
 - Verweis auf BMF-Schreiben falls einschlägig.
 - Bei Schätzungsbescheid: bestreitete Schätzungsgrundlagen plus eigene plausible Berechnung.
@@ -120,11 +120,11 @@ Finanzamt [Ort]
 [Anschrift]
 
 vorab per Telefax oder ELSTER (beA an Finanzamt seit 6.12.2024 unzulässig, § 87a Abs. 1 S. 2 AO n.F.)
-                                                                [Ort], [Datum]
+ [Ort], [Datum]
 
 Steuernummer: [SteuerNr]
-Bescheid:     [Bescheidart, z. B. Einkommensteuerbescheid 2024]
-Datum:        [Bescheiddatum]
+Bescheid: [Bescheidart, z. B. Einkommensteuerbescheid 2024]
+Datum: [Bescheiddatum]
 
 Einspruch und Antrag auf Aussetzung der Vollziehung
 
@@ -132,11 +132,11 @@ Sehr geehrte Damen und Herren,
 
 namens und in Vollmacht unserer Mandantschaft, [Name], [Anschrift], legen wir gegen den oben bezeichneten Bescheid
 
-                            Einspruch (§ 347 AO)
+ Einspruch (§ 347 AO)
 
 ein und beantragen die
 
-                            Aussetzung der Vollziehung gemäß § 361 AO
+ Aussetzung der Vollziehung gemäß § 361 AO
 
 in Höhe des streitigen Steuerbetrags von EUR [Betrag].
 

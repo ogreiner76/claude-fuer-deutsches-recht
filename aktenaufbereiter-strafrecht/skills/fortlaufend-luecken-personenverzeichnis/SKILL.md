@@ -1,13 +1,13 @@
 ---
 name: fortlaufend-luecken-personenverzeichnis
-description: "Nutze dies, wenn Spezial Fortlaufend Internationaler Bezug Und Schnittstellen, Spezial Luecken Mandantenkommunikation Entscheidungsvorlage, Spezial Personenverzeichnis Verhandlung Vergleich Und Eskalation im Plugin Aktenaufbereiter Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Fortlaufend Internationaler Bezug Und Schnittstellen, Spezial Luecken Mandantenkommunikation Entscheidungsvorlage, Spezial Personenverzeichnis Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Fortlaufend Internationaler Bezug Und Schnittstellen, Spezial Luecken Mandantenkommunikation Entscheidungsvorlage, Spezial Personenverzeichnis Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fortlaufend Internationaler Bezug Und Schnittstellen, Luecken Mandantenkommunikation Entscheidungsvorlage, Personenverzeichnis Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Fortlaufend Internationaler Bezug Und Schnittstellen, Spezial Luecken Mandantenkommunikation Entscheidungsvorlage, Spezial Personenverzeichnis Verhandlung Vergleich Und Eskalation
+# Fortlaufend Internationaler Bezug Und Schnittstellen, Luecken Mandantenkommunikation Entscheidungsvorlage, Personenverzeichnis Verhandlung Vergleich Und Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fortlaufend Internationaler Bezug Und Schnittstellen, Luecken Mandantenkommunikation Entscheidungsvorlage, Personenverzeichnis Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Fortlaufend Internationaler Bezug Und Schnittstellen, Spezial Luecken Mandantenkommunikation Entscheidungsvorlage, Spezial Personenverzeichnis Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fortlaufend Internationaler Bezug Und Schnittstellen, Luecken Mandantenkommunikation Entscheidungsvorlage, Personenverzeichnis Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Fortlaufend Internationaler Bezug Und Schnittstellen, Spezial Lue
 # Fortlaufend: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Fortlaufend: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Fortlaufend: Internationaler Bezug und Schnittstellen / spezial fortlaufend internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fortlaufend: Internationaler Bezug und Schnittstellen / fortlaufend internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -68,26 +68,26 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Strafakte-Internationaler Bezug Bausteine
 - **EuStA (Europaeische Staatsanwaltschaft - VO 2017/1939):** zustaendig fuer Straftaten gegen EU-Finanzinteressen (Mehrwertsteuerbetrug, EU-Subventionsbetrug, Korruption, Geldwaesche bei EU-Bezug); deutsches Recht anwendbar mit EU-Verfahrensanpassungen.
 - **Europaeische Ermittlungsanordnung (EEA) RL 2014/41/EU:**
-  - Vereinfachte Beweiserhebung in anderen EU-Mitgliedstaaten.
-  - Anwendung statt klassische Rechtshilfe gemaess EuRhuebkAG.
-  - Akteneinsicht in EU-Bezug-Verfahren auch bezueglich EEA-Aufnahmen.
+ - Vereinfachte Beweiserhebung in anderen EU-Mitgliedstaaten.
+ - Anwendung statt klassische Rechtshilfe gemaess EuRhuebkAG.
+ - Akteneinsicht in EU-Bezug-Verfahren auch bezueglich EEA-Aufnahmen.
 - **Klassische Rechtshilfe (EuRhuebk, MLA-Abkommen):**
-  - Vernehmungen im Ausland, Beweismittelbeschaffung.
-  - DE-Behoerden ueber Justizministerium / GenStA.
+ - Vernehmungen im Ausland, Beweismittelbeschaffung.
+ - DE-Behoerden ueber Justizministerium / GenStA.
 - **Auslieferungsverfahren:**
-  - **Europaeischer Haftbefehl (EuHbG / RB 2002/584/JI):** schneller Verfahren in EU.
-  - **IRG fuer Drittstaaten:** klassische Auslieferung.
+ - **Europaeischer Haftbefehl (EuHbG / RB 2002/584/JI):** schneller Verfahren in EU.
+ - **IRG fuer Drittstaaten:** klassische Auslieferung.
 - **Schengen-Informationssystem (SIS II):** Ausschreibung zur Festnahme; deutsche Ermittlungsbehoerden haben direkten Zugriff.
 - **EU-Strafrechtspflege-Verfahren:** RB 2008/675/JI (Beruecksichtigung Vorverurteilungen anderer EU-Mitgliedstaaten); RB 2008/909/JI (Vollstreckungsuebernahme freiheitsentziehender Sanktionen).
 - **DSGVO im Strafverfahren:**
-  - Art. 6, 9, 23 DSGVO; spezialgesetzliche Bestimmungen StPO als lex specialis.
-  - Akteneinsichtsanspruch Geschaedigter nach DSGVO ggf. erweitert.
+ - Art. 6, 9, 23 DSGVO; spezialgesetzliche Bestimmungen StPO als lex specialis.
+ - Akteneinsichtsanspruch Geschaedigter nach DSGVO ggf. erweitert.
 - **EuGH Rsp. zu RL 2012/13/EU (Belehrungsrecht), RL 2013/48/EU (Anwaltszugang), RL 2016/343/EU (Unschuldsvermutung):** direkt anwendbar bei nationaler Lueckenfuellung; staendige Rspr.
 - **Schnittstellen-Checkliste:**
-  - Gehoert Beschuldigter / Geschaedigter zu EU-Mitgliedstaat?
-  - Wurden Beweismittel ueber EEA / Rechtshilfe beschafft?
-  - Liegen Auslandsvorstrafen vor? (Auslandsvorstrafenbruecke RB 2008/675/JI).
-  - Internationale Vorermittlungen Europol / Eurojust?
+ - Gehoert Beschuldigter / Geschaedigter zu EU-Mitgliedstaat?
+ - Wurden Beweismittel ueber EEA / Rechtshilfe beschafft?
+ - Liegen Auslandsvorstrafen vor? (Auslandsvorstrafenbruecke RB 2008/675/JI).
+ - Internationale Vorermittlungen Europol / Eurojust?
 - **Praxis-Tipp:** Bei Auslandsvorstrafen Auszug aus dem Ausland anfordern ueber Verbindungsbeamte; bei Drittstaaten ggf. Notwendigkeit Uebersetzung beglaubigter Form.
 
 ## 2. `spezial-luecken-mandantenkommunikation-entscheidungsvorlage`
@@ -97,7 +97,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Luecken: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Luecken: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Luecken: Mandantenkommunikation und Entscheidungsvorlage / spezial luecken mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Luecken: Mandantenkommunikation und Entscheidungsvorlage / luecken mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -133,54 +133,54 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafakte-Lueckenliste / Mandantenentscheidung Bausteine
 - **Standard-Lueckenliste Strafakte:**
-  - Akteneinsicht § 147 StPO komplett erhalten (alle Beiakten)?
-  - BZRG-Auszug Beschuldigter aktuell?
-  - Beweismittelverzeichnis Anklage § 200 StPO vollstaendig?
-  - Belehrungs-Vermerk in Vernehmungsprotokollen § 136 StPO?
-  - TKUe-Beschluesse § 100a StPO mit Begruendung?
-  - Durchsuchungsbeschluesse § 105 StPO?
-  - Sachverstaendigengutachten beigezogen?
-  - Asservaten-Verzeichnis mit chain-of-custody?
-  - Mitbeschuldigte-Akten (bei verbundenen Verfahren § 4 StPO)?
+ - Akteneinsicht § 147 StPO komplett erhalten (alle Beiakten)?
+ - BZRG-Auszug Beschuldigter aktuell?
+ - Beweismittelverzeichnis Anklage § 200 StPO vollstaendig?
+ - Belehrungs-Vermerk in Vernehmungsprotokollen § 136 StPO?
+ - TKUe-Beschluesse § 100a StPO mit Begruendung?
+ - Durchsuchungsbeschluesse § 105 StPO?
+ - Sachverstaendigengutachten beigezogen?
+ - Asservaten-Verzeichnis mit chain-of-custody?
+ - Mitbeschuldigte-Akten (bei verbundenen Verfahren § 4 StPO)?
 - **Entscheidungsvorlage Mandant - Format:**
-  ```
-  ENTSCHEIDUNGSVORLAGE STRAFSACHE [Name]
-  Az: ... | Datum: ...
+ ```
+ ENTSCHEIDUNGSVORLAGE STRAFSACHE [Name]
+ Az: ... | Datum: ...
 
-  AUSGANGSLAGE
-  - Tatvorwurf: § ... StGB ...
-  - Verfahrensstand: ...
-  - Strafrahmen: ... bis ...
+ AUSGANGSLAGE
+ - Tatvorwurf: § ... StGB ...
+ - Verfahrensstand: ...
+ - Strafrahmen: ... bis ...
 
-  AKTUELLE FRAGE
-  [Was soll heute entschieden werden? Z. B. Einspruch? Verstaendigung? Schweigen?]
+ AKTUELLE FRAGE
+ [Was soll heute entschieden werden? Z. B. Einspruch? Verstaendigung? Schweigen?]
 
-  OPTIONEN
-  Option A: ... | Risiken: ... | Chancen: ...
-  Option B: ... | Risiken: ... | Chancen: ...
-  Option C: ... | Risiken: ... | Chancen: ...
+ OPTIONEN
+ Option A: ... | Risiken: ... | Chancen: ...
+ Option B: ... | Risiken: ... | Chancen: ...
+ Option C: ... | Risiken: ... | Chancen: ...
 
-  ANWALTSEMPFEHLUNG
-  Option [A/B/C] mit Begruendung ...
+ ANWALTSEMPFEHLUNG
+ Option [A/B/C] mit Begruendung ...
 
-  FRIST
-  Bis ... ist die Entscheidung zu treffen.
+ FRIST
+ Bis ... ist die Entscheidung zu treffen.
 
-  IHRE ENTSCHEIDUNG
-  [ ] Option A [ ] Option B [ ] Option C
-  Bemerkung: ...
+ IHRE ENTSCHEIDUNG
+ [ ] Option A [ ] Option B [ ] Option C
+ Bemerkung: ...
 
-  Datum: ... | Unterschrift Mandant: ___________________
-  ```
+ Datum: ... | Unterschrift Mandant: ___________________
+ ```
 - **Standard-Entscheidungspunkte im Strafverfahren:**
-  - Aussagebereitschaft (Schweigen vs. Aussage; § 136 StPO Schweigerecht).
-  - Akteneinsicht-Antrag § 147 StPO Form / Inhalt.
-  - Einwaende gegen Eroeffnungsbeschluss § 201 StPO.
-  - Beweisantraege § 244 StPO.
-  - Verstaendigung § 257c StPO mit Korridor.
-  - Gestaendnisbereitschaft.
-  - Rechtsmittel-Einlegung / -Ruecknahme / -Verzicht (§ 302 StPO).
-  - Wiedereinsetzung § 44 StPO.
+ - Aussagebereitschaft (Schweigen vs. Aussage; § 136 StPO Schweigerecht).
+ - Akteneinsicht-Antrag § 147 StPO Form / Inhalt.
+ - Einwaende gegen Eroeffnungsbeschluss § 201 StPO.
+ - Beweisantraege § 244 StPO.
+ - Verstaendigung § 257c StPO mit Korridor.
+ - Gestaendnisbereitschaft.
+ - Rechtsmittel-Einlegung / -Ruecknahme / -Verzicht (§ 302 StPO).
+ - Wiedereinsetzung § 44 StPO.
 - **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB: Mandanten-relevante Informationen nicht ohne Freigabe weitergeben.
 
 ## 3. `spezial-personenverzeichnis-verhandlung-vergleich-und-eskalation`
@@ -190,7 +190,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Personenverzeichnis: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Personenverzeichnis: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Personenverzeichnis: Verhandlung, Vergleich und Eskalation / spezial personenverzeichnis verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Personenverzeichnis: Verhandlung, Vergleich und Eskalation / personenverzeichnis verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

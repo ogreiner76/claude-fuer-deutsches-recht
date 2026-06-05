@@ -8,7 +8,7 @@ description: "Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläu
 ## Aufgabe
 Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläuterung, Gebietsverbände und Aufbewahrung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -31,13 +31,13 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 2. Bestandteile § 24 PartG
 1. **Einnahmen-Ausgaben-Rechnung** mit Mindestposten:
-   - Mitgliedsbeiträge,
-   - Mandatsträgerbeiträge,
-   - Spenden natürlicher Personen / juristischer Personen,
-   - staatliche Mittel,
-   - Einnahmen aus Vermögen / Unternehmen,
-   - Veranstaltungen und Sonstiges,
-   - Personal- / Verwaltungs- / Wahlkampf- / Öffentlichkeitsausgaben.
+ - Mitgliedsbeiträge,
+ - Mandatsträgerbeiträge,
+ - Spenden natürlicher Personen / juristischer Personen,
+ - staatliche Mittel,
+ - Einnahmen aus Vermögen / Unternehmen,
+ - Veranstaltungen und Sonstiges,
+ - Personal- / Verwaltungs- / Wahlkampf- / Öffentlichkeitsausgaben.
 2. **Vermögensrechnung** § 24 V PartG (Aktiva, Passiva).
 3. **Erläuterungen** zu wesentlichen Posten.
 4. **Bericht über Gebietsverbände** (Bundespartei + Landesverbände + Kreisverbände gemäß § 28 PartG).

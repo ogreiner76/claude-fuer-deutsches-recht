@@ -1,13 +1,13 @@
 ---
 name: beziehungen-spezial-chronologie-ergaenzbar
-description: "Nutze dies, wenn Spezial Beziehungen Zahlen Schwellen Und Berechnung, Spezial Chronologie Compliance Dokumentation Und Akte, Spezial Ergaenzbar Formular Portal Und Einreichung im Plugin Aktenaufbereiter Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Beziehungen Zahlen Schwellen Und Berechnung, Spezial Chronologie Compliance Dokumentation Und Akte, Spezial Ergaenzbar Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Beziehungen Zahlen Schwellen Und Berechnung, Spezial Chronologie Compliance Dokumentation Und Akte, Spezial Ergaenzbar Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beziehungen Zahlen Schwellen Und Berechnung, Chronologie Compliance Dokumentation Und Akte, Ergaenzbar Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Beziehungen Zahlen Schwellen Und Berechnung, Spezial Chronologie Compliance Dokumentation Und Akte, Spezial Ergaenzbar Formular Portal Und Einreichung
+# Beziehungen Zahlen Schwellen Und Berechnung, Chronologie Compliance Dokumentation Und Akte, Ergaenzbar Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beziehungen Zahlen Schwellen Und Berechnung, Chronologie Compliance Dokumentation Und Akte, Ergaenzbar Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Beziehungen Zahlen Schwellen Und Berechnung, Spezial Chronologie Compliance Dokumentation Und Akte, Spezial Ergaenzbar Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Beziehungen Zahlen Schwellen Und Berechnung, Chronologie Compliance Dokumentation Und Akte, Ergaenzbar Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Beziehungen Zahlen Schwellen Und Berechnung, Spezial Chronologie 
 # Beziehungen: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Beziehungen: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Beziehungen: Zahlen, Schwellenwerte und Berechnung / spezial beziehungen zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Beziehungen: Zahlen, Schwellenwerte und Berechnung / beziehungen zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -67,29 +67,29 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafakte-Beziehungen-Matrix Bausteine
 - **Beziehungsmatrix-Typen pro Strafsache:**
-  - **Beschuldigter <-> Geschaedigte:** Beziehungsart (Bekannte, Familie, Geschaeftspartner, fremd); Bedeutung fuer Vorsatz / Motiv / Strafzumessung § 46 StGB.
-  - **Mitbeschuldigte untereinander:** Mittaeterschaft § 25 II StGB vs. Beihilfe § 27 StGB vs. mittelbare Taeterschaft § 25 I 2 StGB.
-  - **Beschuldigter <-> Zeugen:** Verwandtschaft (§ 52 StPO Zeugnisverweigerung), Bekanntschaft (Beeinflussungsrisiko).
-  - **Mitwirkende Bandenmitglieder § 244 I Nr. 2 StGB (Bandendiebstahl) / § 244a StGB (schwerer Bandendiebstahl) / § 263 V StGB (Bandenbetrug):** Bandentatbestand erfuellt? Mindestens 3 Personen + auf fortgesetzte Begehung gerichtete Vereinbarung.
+ - **Beschuldigter <-> Geschaedigte:** Beziehungsart (Bekannte, Familie, Geschaeftspartner, fremd); Bedeutung fuer Vorsatz / Motiv / Strafzumessung § 46 StGB.
+ - **Mitbeschuldigte untereinander:** Mittaeterschaft § 25 II StGB vs. Beihilfe § 27 StGB vs. mittelbare Taeterschaft § 25 I 2 StGB.
+ - **Beschuldigter <-> Zeugen:** Verwandtschaft (§ 52 StPO Zeugnisverweigerung), Bekanntschaft (Beeinflussungsrisiko).
+ - **Mitwirkende Bandenmitglieder § 244 I Nr. 2 StGB (Bandendiebstahl) / § 244a StGB (schwerer Bandendiebstahl) / § 263 V StGB (Bandenbetrug):** Bandentatbestand erfuellt? Mindestens 3 Personen + auf fortgesetzte Begehung gerichtete Vereinbarung.
 - **Bandentatbestand-Schwellenwerte (BGH-Linie):**
-  - Mindestens 3 Personen (Bandengruppe).
-  - Vereinbarung auf fortgesetzte Begehung mehrerer selbstaendiger Taten.
-  - Tat muss Bandentat sein (kein blosser Gelegenheitsverstoss).
-  - Strafrahmen-Schwerpunkt: § 244 I Nr. 2 StGB (Bandendiebstahl) 6 Monate bis 10 Jahre Freiheitsstrafe; § 244a StGB (schwerer Bandendiebstahl) 1 bis 10 Jahre Freiheitsstrafe; § 263 V StGB (Bandenbetrug) 1 bis 10 Jahre. § 244 Abs. 4 StGB ist demgegenueber Wohnungseinbruchsdiebstahl in dauerhaft genutzter Privatwohnung mit Strafrahmen 1 bis 10 Jahre und nicht Bandendelikt.
+ - Mindestens 3 Personen (Bandengruppe).
+ - Vereinbarung auf fortgesetzte Begehung mehrerer selbstaendiger Taten.
+ - Tat muss Bandentat sein (kein blosser Gelegenheitsverstoss).
+ - Strafrahmen-Schwerpunkt: § 244 I Nr. 2 StGB (Bandendiebstahl) 6 Monate bis 10 Jahre Freiheitsstrafe; § 244a StGB (schwerer Bandendiebstahl) 1 bis 10 Jahre Freiheitsstrafe; § 263 V StGB (Bandenbetrug) 1 bis 10 Jahre. § 244 Abs. 4 StGB ist demgegenueber Wohnungseinbruchsdiebstahl in dauerhaft genutzter Privatwohnung mit Strafrahmen 1 bis 10 Jahre und nicht Bandendelikt.
 - **Mittaeterschafts-/Beihilfe-Abgrenzung:**
-  - Tatherrschaft + gemeinsamer Tatplan -> Mittaeter § 25 II.
-  - Untergeordneter Tatbeitrag, Foerderungswille -> Beihilfe § 27 StGB (Strafmilderung § 27 II 2 StGB).
-  - Anstifter § 26 StGB: Bestimmen des Haupttaeters; Strafrahmen wie Haupttaeter.
+ - Tatherrschaft + gemeinsamer Tatplan -> Mittaeter § 25 II.
+ - Untergeordneter Tatbeitrag, Foerderungswille -> Beihilfe § 27 StGB (Strafmilderung § 27 II 2 StGB).
+ - Anstifter § 26 StGB: Bestimmen des Haupttaeters; Strafrahmen wie Haupttaeter.
 - **Personenmatrix Vorlage:**
-  | Nr | Name | Rolle | Beziehung zu Bekl. | Tatbeitrag | Beweismittel | Verteidigungsrelevanz |
-  |---|---|---|---|---|---|---|
-  | 1 | A | Beschuldigter | - | - | Vernehmung | - |
-  | 2 | B | Mitbeschuldigter | Bekannter | Tatherrschaft | TKUe | Mittaeter |
-  | 3 | C | Geschaedigte | Geschaeftsbeziehung | - | Aussage | belastend |
+ | Nr | Name | Rolle | Beziehung zu Bekl. | Tatbeitrag | Beweismittel | Verteidigungsrelevanz |
+ |---|---|---|---|---|---|---|
+ | 1 | A | Beschuldigter | - | - | Vernehmung | - |
+ | 2 | B | Mitbeschuldigter | Bekannter | Tatherrschaft | TKUe | Mittaeter |
+ | 3 | C | Geschaedigte | Geschaeftsbeziehung | - | Aussage | belastend |
 - **Tatumfang-/Schadens-Schwellen (Regelbeispiele):**
-  - § 243 StGB schwerer Diebstahl: insbes. gewerbsmaessig (regelmaessige Tat) + § 243 I Nr. 3 StGB Wohnungseinbruchsdiebstahl.
-  - § 263 III StGB Betrug: insbesondere gewerbsmaessig / Vermoegensverlust grosseren Ausmasses (regelmaessig ab 50.000 EUR; BGH-Linie).
-  - § 244 I Nr. 2 StGB: bandenmaessiger Diebstahl.
+ - § 243 StGB schwerer Diebstahl: insbes. gewerbsmaessig (regelmaessige Tat) + § 243 I Nr. 3 StGB Wohnungseinbruchsdiebstahl.
+ - § 263 III StGB Betrug: insbesondere gewerbsmaessig / Vermoegensverlust grosseren Ausmasses (regelmaessig ab 50.000 EUR; BGH-Linie).
+ - § 244 I Nr. 2 StGB: bandenmaessiger Diebstahl.
 - **Verbundene Verfahren** § 4 StPO: gemeinsame Tat, gemeinsame Verhandlung; Trennung § 4 II StPO bei Interessenkollision.
 
 ## 2. `spezial-chronologie-compliance-dokumentation-und-akte`
@@ -99,7 +99,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Chronologie: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Chronologie: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Chronologie: Compliance-Dokumentation und Aktenvermerk / spezial chronologie compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Chronologie: Compliance-Dokumentation und Aktenvermerk / chronologie compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -140,7 +140,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Ergaenzbar: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Ergaenzbar: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Ergaenzbar: Formular, Portal und Einreichungslogik / spezial ergaenzbar formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ergaenzbar: Formular, Portal und Einreichungslogik / ergaenzbar formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

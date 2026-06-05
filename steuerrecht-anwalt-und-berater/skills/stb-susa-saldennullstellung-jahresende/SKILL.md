@@ -62,14 +62,14 @@ Zum Jahresende muessen die Erfolgskonten (Klasse 4-8 SKR 03, Klasse 4-7 SKR 04) 
 
 ```
 SCHLIESSUNG ERFOLGSKONTEN GuV:
-Soll                                         Haben
-Konto 8000-8999 (Erloese, SKR 03)            Konto 9999 GuV-Sammelkonto
-Konto 4000-4999 (Aufwand, SKR 03)            Konto 9999 GuV-Sammelkonto
+Soll Haben
+Konto 8000-8999 (Erloese, SKR 03) Konto 9999 GuV-Sammelkonto
+Konto 4000-4999 (Aufwand, SKR 03) Konto 9999 GuV-Sammelkonto
 
 Nach Schliessung:
 Saldo Konto 9999 (Gewinn/Verlust) → Konto 2000 (Bilanzgewinn) [GmbH]
-                                  oder 800 (Kapital) [Einzel]
-                                  oder 3010 (Privat) [Personenges.]
+ oder 800 (Kapital) [Einzel]
+ oder 3010 (Privat) [Personenges.]
 ```
 
 ### Phase 3 — DATEV-Automatik

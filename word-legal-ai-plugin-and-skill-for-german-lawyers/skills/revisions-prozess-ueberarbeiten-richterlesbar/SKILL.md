@@ -1,19 +1,19 @@
 ---
 name: revisions-prozess-ueberarbeiten-richterlesbar
-description: "Nutze dies, wenn Revisions Prozess Redlines Comparison, Schriftsatz Ueberarbeiten Richterlesbar im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Revisions Prozess Redlines Comparison, Schriftsatz Ueberarbeiten Richterlesbar prüfen.; Erstelle eine Arbeitsfassung zu Revisions Prozess Redlines Comparison, Schriftsatz Ueberarbeiten Richterlesbar.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Revisions Prozess Redlines Comparison, Schriftsatz Ueberarbeiten Richterlesbar: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Revisions Prozess Redlines Comparison, Schriftsatz Ueberarbeiten Richterlesbar
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Revisions Prozess Redlines Comparison, Schriftsatz Ueberarbeiten Richterlesbar** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `revisions-prozess-redlines-comparison` | Markup-Workflow zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation. |
+| `revisions-prozess-redlines-comparison` | Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation. |
 | `schriftsatz-ueberarbeiten-richterlesbar` | Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen können. Prüft Antrag, Streitgegenstand, Ergebnisüberschriften, Sachverhaltschronologie, Beweisangebote, Substantiierung, Anlagenverweise, Ton und Länge. Liefert eine richterlesbare Fassung ohne Polemik. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Revisions Prozess Redlines Comparison, Schriftsatz Ueberarbeiten Richterl
 
 ## 1. `revisions-prozess-redlines-comparison`
 
-**Fokus:** Markup-Workflow zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation.
+**Fokus:** Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation.
 
 # Revisions-Prozess: Redlines und Compare-Workflow
 
@@ -77,13 +77,13 @@ Der Skill richtet sich an Drafter, die Verhandlungen führen oder Schriftsätze 
 ### Versionsverlauf-Beispiel
 
 ```
-v0   2026-05-15   intern   Erstentwurf Kanzlei Stern
-v1   2026-05-20   Versand  an Gegenseite (Clean)
-v2   2026-05-27   Eingang  von Gegenseite (mit Tracked Changes)
-v3   2026-05-30   intern   Bewertung und Gegenvorschlag in Tracked Changes
-v3a  2026-06-02   Versand  an Gegenseite (Tracked Changes sichtbar)
-v4   2026-06-10   Eingang  von Gegenseite (Reaktion)
-v5   2026-06-14   final    Clean Version für Unterschrift
+v0 2026-05-15 intern Erstentwurf Kanzlei Stern
+v1 2026-05-20 Versand an Gegenseite (Clean)
+v2 2026-05-27 Eingang von Gegenseite (mit Tracked Changes)
+v3 2026-05-30 intern Bewertung und Gegenvorschlag in Tracked Changes
+v3a 2026-06-02 Versand an Gegenseite (Tracked Changes sichtbar)
+v4 2026-06-10 Eingang von Gegenseite (Reaktion)
+v5 2026-06-14 final Clean Version für Unterschrift
 ```
 
 ## Typische Drafting-Fehler
@@ -116,16 +116,16 @@ anbei in Tracked Changes unsere Reaktion auf Ihre Version vom 20. Mai 2026
 (v2). Wir senden zwei Dateien:
 
 1. Liefervertrag_XY100_v3_2026-05-30_redline.docx mit unseren Änderungen
-   in roter Farbe; Tracked Changes sind eingeschaltet.
+ in roter Farbe; Tracked Changes sind eingeschaltet.
 
 2. Liefervertrag_XY100_v3_2026-05-30_clean.docx als Lesefassung.
 
 Die wichtigsten Punkte unserer Version v3:
 
 - § 7 Mängelhaftung: Die Verjährungsfrist von zwölf Monaten haben wir auf
-  24 Monate erweitert (Verhandlungspriorität A).
+ 24 Monate erweitert (Verhandlungspriorität A).
 - § 11 Haftungsbegrenzung: Den Ausschluss für mittlere Fahrlässigkeit
-  haben wir gestrichen. Mit § 309 Nr. 7 BGB nicht vereinbar.
+ haben wir gestrichen. Mit § 309 Nr. 7 BGB nicht vereinbar.
 - § 15 Gerichtsstand: Hamburg statt München. Verhandelbar.
 - § 20 Salvatorische Klausel: redaktionelle Anpassung.
 

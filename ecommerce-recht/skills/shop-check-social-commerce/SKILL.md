@@ -1,19 +1,19 @@
 ---
 name: shop-check-social-commerce
-description: "Nutze dies, wenn Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht prüfen.; Erstelle eine Arbeitsfassung zu Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram Shop, Suchmaschinenwerbung Markenrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `shop-check-checkout-widerruf-impressum` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Shop Check Checkout Widerruf Impressum. |
+| `shop-check-checkout-widerruf-impressum` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Shop Check Checkout Widerruf Impressum. |
 | `social-commerce-tiktok-instagram-shop` | Social Commerce TikTok Instagram Shop: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `suchmaschinenwerbung-markenrecht` | Suchmaschinenwerbung Markenrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 
@@ -26,7 +26,7 @@ Für **Shop Check Checkout Widerruf Impressum, Social Commerce Tiktok Instagram 
 
 ## 1. `shop-check-checkout-widerruf-impressum`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Shop Check Checkout Widerruf Impressum.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Shop Check Checkout Widerruf Impressum.
 
 # Shop Check Checkout Widerruf Impressum
 

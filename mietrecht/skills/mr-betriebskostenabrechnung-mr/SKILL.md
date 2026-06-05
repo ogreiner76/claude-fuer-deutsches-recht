@@ -1,13 +1,13 @@
 ---
 name: mr-betriebskostenabrechnung-mr
-description: "Nutze dies, wenn Mr Betriebskostenabrechnung Fehler Spezial, Mr Kuendigungsschutz Praxis, Mr Modernisierung Und Rolling Rent Spezial im Plugin Mietrecht konkret bearbeitet werden soll. Auslöser: Bitte Mr Betriebskostenabrechnung Fehler Spezial, Mr Kuendigungsschutz Praxis, Mr Modernisierung Und Rolling Rent Spezial prüfen.; Erstelle eine Arbeitsfassung zu Mr Betriebskostenabrechnung Fehler Spezial, Mr Kuendigungsschutz Praxis, Mr Modernisierung Und Rolling Rent Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mr Betriebskostenabrechnung Fehler Spezial, Mr Kuendigungsschutz Praxis, Mr Modernisierung Und Rolling Rent Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mr Betriebskostenabrechnung Fehler Spezial, Mr Kuendigungsschutz Praxis, Mr Modernisierung Und Rolling Rent Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mr Betriebskostenabrechnung Fehler Spezial, Mr Kuendigungsschutz Praxis, Mr Modernisierung Und Rolling Rent Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -43,7 +43,7 @@ Für **Mr Betriebskostenabrechnung Fehler Spezial, Mr Kuendigungsschutz Praxis, 
 
 Dieser Skill ist der Streitfall-Skill: Er hilft, wenn die Abrechnung schon auf dem Tisch liegt, der Mieter nicht zahlen will, der Vermieter eine Nachforderung durchsetzen möchte oder bereits Mahnung, Klage oder Rückzahlung im Raum stehen.
 
-## Kaltstart
+## Einstieg
 
 1. Welche Seite: Mieter, Vermieter, Verwaltung, Anwalt?
 2. Abrechnungsjahr, Datum der Abrechnung, tatsächlicher Zugang, Zahlungs-/Mahnlage?

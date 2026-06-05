@@ -129,9 +129,9 @@ Sachverhalt: DE-Tochter (BG: 100k EUR Gewinn) bezieht Management-Fee 200k EUR vo
 ```
 [Briefkopf Kanzlei]
 An: Bundesministerium der Finanzen
-    Wilhelmstrasse 97
-    10117 Berlin
-    z.Hd. [Referat fuer Internationales Steuerrecht — aktuelles Referat aus BMF-Internet]
+ Wilhelmstrasse 97
+ 10117 Berlin
+ z.Hd. [Referat fuer Internationales Steuerrecht — aktuelles Referat aus BMF-Internet]
 
 Betreff: Antrag auf Einleitung eines Verstaendigungsverfahrens nach Art. 25 DBA-[Land]
 

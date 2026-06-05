@@ -1,13 +1,13 @@
 ---
 name: verfassungsbeschwerde-entwurf-formelle
-description: "Nutze dies, wenn Verfassungsbeschwerde Entwurf, Formelle Verfassungsmaessigkeit, Gesetzgebungskompetenz Prüfen im Plugin Verfassungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Verfassungsbeschwerde Entwurf, Formelle Verfassungsmaessigkeit, Gesetzgebungskompetenz Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Verfassungsbeschwerde Entwurf, Formelle Verfassungsmaessigkeit, Gesetzgebungskompetenz Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verfassungsbeschwerde Entwurf, Formelle Verfassungsmaessigkeit, Gesetzgebungskompetenz Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verfassungsbeschwerde Entwurf, Formelle Verfassungsmaessigkeit, Gesetzgebungskompetenz Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verfassungsbeschwerde Entwurf, Formelle Verfassungsmaessigkeit, Gesetzgebungskompetenz Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -147,7 +147,7 @@ VERFASSUNGSBESCHWERDE
 und beantrage,
 1. festzustellen, dass [angegriffener Akt] den Beschwerdeführer / die Beschwerdeführerin in seinen / ihren Grundrechten aus Art. ___ GG verletzt;
 2. den angegriffenen Akt aufzuheben und die Sache zur erneuten Entscheidung zurückzuverweisen [bei Gerichtsentscheidungen];
-   bzw. die angegriffene Norm für nichtig zu erklären [bei Rechtssatzverfassungsbeschwerde];
+ bzw. die angegriffene Norm für nichtig zu erklären [bei Rechtssatzverfassungsbeschwerde];
 3. die Kosten des Verfahrens und die notwendigen Auslagen des Beschwerdeführers / der Beschwerdeführerin der Staatskasse aufzuerlegen.
 
 A. Sachverhalt
@@ -158,9 +158,9 @@ I. Zuständigkeit
 II. Beschwerdefähigkeit
 III. Beschwerdegegenstand
 IV. Beschwerdebefugnis
-   1. Selbst
-   2. Gegenwärtig
-   3. Unmittelbar
+ 1. Selbst
+ 2. Gegenwärtig
+ 3. Unmittelbar
 V. Rechtswegerschöpfung (§ 90 Abs. 2 BVerfGG)
 VI. Subsidiarität
 VII. Frist (§ 93 BVerfGG)
@@ -176,10 +176,10 @@ I. Schutzbereich
 II. Eingriff
 
 III. Verfassungsrechtliche Rechtfertigung
-   1. Schranke
-   2. Verhältnismäßigkeit
-      [Aufruf Skill verhältnismäßigkeit]
-   3. Sonstige Schranken-Schranken
+ 1. Schranke
+ 2. Verhältnismäßigkeit
+ [Aufruf Skill verhältnismäßigkeit]
+ 3. Sonstige Schranken-Schranken
 
 IV. Spezifische verfassungsrechtliche Verstöße
 [BVerfG-Pinpoints konkret]
@@ -349,22 +349,22 @@ FORMELLE VERFASSUNGSMÄSSIGKEIT
 Prüfungsgegenstand: <Gesetz / Norm>
 
 1. Verfahren
-   - Initiativrecht (Art. 76 GG): ___
-   - Erste Lesung: ___
-   - Ausschussüberweisung: ___
-   - Zweite Lesung: ___
-   - Dritte Lesung / Schlussabstimmung: ___
-   - Bundesrat (Art. 77, 78 GG): [Zustimmung / Einspruch] — Ergebnis: ___
-   - Vermittlungsausschuss: ___
-   - Ausfertigung (Art. 82 GG): ___
-   - Verkündung BGBl.: ___
+ - Initiativrecht (Art. 76 GG): ___
+ - Erste Lesung: ___
+ - Ausschussüberweisung: ___
+ - Zweite Lesung: ___
+ - Dritte Lesung / Schlussabstimmung: ___
+ - Bundesrat (Art. 77, 78 GG): [Zustimmung / Einspruch] — Ergebnis: ___
+ - Vermittlungsausschuss: ___
+ - Ausfertigung (Art. 82 GG): ___
+ - Verkündung BGBl.: ___
 
 2. Form
-   - Bestimmtheitsgebot: ___
-   - Zitiergebot (Art. 19 Abs. 1 S. 2 GG): ___
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   - Einzelfallverbot (Art. 19 Abs. 1 S. 1 GG): ___
-   - Wesensgehalt (Art. 19 Abs. 2 GG): ___
+ - Bestimmtheitsgebot: ___
+ - Zitiergebot (Art. 19 Abs. 1 S. 2 GG): ___
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Einzelfallverbot (Art. 19 Abs. 1 S. 1 GG): ___
+ - Wesensgehalt (Art. 19 Abs. 2 GG): ___
 
 BVerfG-Pinpoints
 - ___
@@ -511,13 +511,13 @@ Prüfungsgegenstand: <Gesetz / Norm>
 
 1. Materiebestimmung (Schwerpunkt): ___
 2. Einschlägige Norm:
-   - [ ] Art. 73 GG Nr. ___ (ausschließlich Bund)
-   - [ ] Art. 74 GG Nr. ___ (konkurrierend)
-       - [ ] Kernbereich Art. 72 Abs. 1 GG
-       - [ ] Erforderlichkeitsklausel Art. 72 Abs. 2 GG — Prüfung: ___
-       - [ ] Abweichungsgesetzgebung Art. 72 Abs. 3 GG
-   - [ ] Ungeschriebene Kompetenz: ___
-   - [ ] Art. 70 GG (Landeskompetenz)
+ - [ ] Art. 73 GG Nr. ___ (ausschließlich Bund)
+ - [ ] Art. 74 GG Nr. ___ (konkurrierend)
+ - [ ] Kernbereich Art. 72 Abs. 1 GG
+ - [ ] Erforderlichkeitsklausel Art. 72 Abs. 2 GG — Prüfung: ___
+ - [ ] Abweichungsgesetzgebung Art. 72 Abs. 3 GG
+ - [ ] Ungeschriebene Kompetenz: ___
+ - [ ] Art. 70 GG (Landeskompetenz)
 3. BVerfG-Pinpoint zur Materie: ___
 4. Ergebnis: [kompetenzgemäß / kompetenzwidrig / teilkompetenzwidrig]
 ```

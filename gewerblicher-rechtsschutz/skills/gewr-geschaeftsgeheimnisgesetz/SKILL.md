@@ -1,20 +1,20 @@
 ---
 name: gewr-geschaeftsgeheimnisgesetz
-description: "Nutze dies, wenn Gewr Geschaeftsgeheimnisgesetz Spezial, Gewr Markenanmeldung Bauleiter, Gewr Uwg Abmahnung Checkliste im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Gewr Geschaeftsgeheimnisgesetz Spezial, Gewr Markenanmeldung Bauleiter, Gewr Uwg Abmahnung Checkliste prüfen.; Erstelle eine Arbeitsfassung zu Gewr Geschaeftsgeheimnisgesetz Spezial, Gewr Markenanmeldung Bauleiter, Gewr Uwg Abmahnung Checkliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gewr Geschaeftsgeheimnisgesetz Spezial, Gewr Markenanmeldung Bauleiter, Gewr Uwg Abmahnung Checkliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gewr Geschaeftsgeheimnisgesetz Spezial, Gewr Markenanmeldung Bauleiter, Gewr Uwg Abmahnung Checkliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gewr Geschaeftsgeheimnisgesetz Spezial, Gewr Markenanmeldung Bauleiter, Gewr Uwg Abmahnung Checkliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `gewr-geschaeftsgeheimnisgesetz-spezial` | Geschäftsgeheimnisschutz nach GeschGehG: Schutzvoraussetzungen, angemessene Geheimhaltungsmaßnahmen, Verletzungshandlungen, Unterlassung, Schadensersatz und einstweiliger Rechtsschutz. Abgrenzung zu UWG und Strafrecht. |
-| `gewr-markenanmeldung-bauleiter` | Markenanmeldung als strukturierter Bauleiter: Recherche, Klassenwahl, Anmeldeweg (DPMA/EUIPO/Madrid), Formvoraussetzungen, Fristen und Nachverfolgung. Praxisworkflow für Anwälte und Unternehmen, die eine Marke anmelden oder betreuen wollen. |
+| `gewr-markenanmeldung-bauleiter` | Markenanmeldung als strukturierter Bauleiter: Recherche, Klassenwahl, Anmeldeweg (DPMA/EUIPO/Madrid), Formvoraussetzungen, Fristen und Nachverfolgung. Praxisfür Anwälte und Unternehmen, die eine Marke anmelden oder betreuen wollen. |
 | `gewr-uwg-abmahnung-checkliste` | UWG-Abmahnung: vollständige Prüfcheckliste für Versand und Empfang. Voraussetzungen §§ 3 und 8 UWG, Mitbewerbereigenschaft, Spürbarkeit, Wiederholungsgefahr, Unterlassungserklärung, Streitwert, Abmahnmissbrauch § 8c UWG und typische Verteidigungsargumente. |
 
 ## Arbeitsweg
@@ -154,7 +154,7 @@ Mandatsbezug: Mitarbeiter verlässt Unternehmen und nimmt Kundendaten mit; Wettb
 
 ## 2. `gewr-markenanmeldung-bauleiter`
 
-**Fokus:** Markenanmeldung als strukturierter Bauleiter: Recherche, Klassenwahl, Anmeldeweg (DPMA/EUIPO/Madrid), Formvoraussetzungen, Fristen und Nachverfolgung. Praxisworkflow für Anwälte und Unternehmen, die eine Marke anmelden oder betreuen wollen.
+**Fokus:** Markenanmeldung als strukturierter Bauleiter: Recherche, Klassenwahl, Anmeldeweg (DPMA/EUIPO/Madrid), Formvoraussetzungen, Fristen und Nachverfolgung. Praxisfür Anwälte und Unternehmen, die eine Marke anmelden oder betreuen wollen.
 
 # GewR: Markenanmeldung – Strukturierter Bauleiter
 
@@ -209,10 +209,10 @@ Mandatsbezug: Startup möchte Produktname schützen; etabliertes Unternehmen wil
 
 - Nizza-Klassifikation: 45 Klassen (1–34 Waren, 35–45 Dienstleistungen).
 - Relevante Klassen für typische Mandate:
-  - Software: Klasse 42 (SaaS) + ggf. 9 (Hardware)
-  - Kleidung: Klassen 25 (Bekleidung), 35 (Einzelhandel)
-  - Lebensmittel: Klassen 29, 30, 43
-  - Beratungsdienstleistungen: Klasse 45 (Rechtsberatung), 35 (Unternehmensberatung)
+ - Software: Klasse 42 (SaaS) + ggf. 9 (Hardware)
+ - Kleidung: Klassen 25 (Bekleidung), 35 (Einzelhandel)
+ - Lebensmittel: Klassen 29, 30, 43
+ - Beratungsdienstleistungen: Klasse 45 (Rechtsberatung), 35 (Unternehmensberatung)
 - Warenbeschreibung: Präzise, aber nicht zu eng; DPMA-Klassifikationsdatenbank nutzen.
 - Kosten: Erste Klasse im Grundbetrag; jede weitere Klasse zusätzlich.
 

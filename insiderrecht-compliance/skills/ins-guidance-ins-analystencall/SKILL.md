@@ -1,13 +1,13 @@
 ---
 name: ins-guidance-ins-analystencall
-description: "Nutze dies, wenn Ins 031 Guidance Update, Ins 032 Analystencall im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 031 Guidance Update, Ins 032 Analystencall prüfen.; Erstelle eine Arbeitsfassung zu Ins 031 Guidance Update, Ins 032 Analystencall.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 031 Guidance Update, Ins 032 Analystencall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 031 Guidance Update, Ins 032 Analystencall
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 031 Guidance Update, Ins 032 Analystencall** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -60,18 +60,18 @@ wird, und steuert die Ad-hoc-Veröffentlichung oder deren Koordination mit dem Q
 ### Schritt 2 – Präzisions- und Kursrelevanzprüfung
 
 - Ist die Prognoseabweichung auf einer hinreichend sicheren Datenbasis?
-  (Monats-Abschlüsse bestätigt vs. frühe Indikationen aus KPIs)
+ (Monats-Abschlüsse bestätigt vs. frühe Indikationen aus KPIs)
 - Gilt die Information als präzise, wenn: Ergebnis des abgeschlossenen Quartals vorliegt
-  oder durch belastbare Hochrechnung erhebliche Abweichung erkennbar ist
+ oder durch belastbare Hochrechnung erhebliche Abweichung erkennbar ist
 - Kursrelevanz ex ante: Vergleich mit Markterwartungen
 
 ### Schritt 3 – Koordination mit Berichtskalender
 
 - Liegt der nächste Quartalsbericht in weniger als 10 Handelstagen?
-  → Dann ggf. Bekanntgabe im Quartalsbericht möglich (restriktiv: nur wenn kein
-  schuldhaftes Zögern)
+ → Dann ggf. Bekanntgabe im Quartalsbericht möglich (restriktiv: nur wenn kein
+ schuldhaftes Zögern)
 - Liegt nächster Bericht in mehr als 10 Handelstagen?
-  → Separate Ad-hoc-Pflicht, wenn wesentliche Abweichung vorliegt
+ → Separate Ad-hoc-Pflicht, wenn wesentliche Abweichung vorliegt
 - Praxis: Profit Warnings zeitnah mit eigenständiger Ad-hoc; keine Verzögerung
 
 ### Schritt 4 – Inhalt der Ad-hoc bei Prognoseänderung
@@ -90,7 +90,7 @@ wird, und steuert die Ad-hoc-Veröffentlichung oder deren Koordination mit dem Q
 ## Red-Team-Fragen
 
 - Wurde der frühestmögliche Zeitpunkt identifiziert, ab dem die Prognoseabweichung
-  präzise war?
+ präzise war?
 - Wurde die Wartezeit bis zum Quartalsbericht sachlich begründet oder war sie Verzögerung?
 - Wurden PDMR-Eigengeschäfte im Zeitraum der Insiderinformation geprüft?
 - Enthält die Ad-hoc eine konkrete neue Prognose (nicht nur „wesentliche Abweichung")?
@@ -142,7 +142,7 @@ Vor jedem Analysten-Call, Investorengespräch oder Roadshow-Termin:
 ### Schritt 2 – Sprechregeln (Speaker-Guidelines)
 
 - IR-Team und Vorstand: Nur auf Basis von veröffentlichten Informationen (Jahresbericht,
-  Quartalsberichte, Ad-hoc-Mitteilungen) antworten
+ Quartalsberichte, Ad-hoc-Mitteilungen) antworten
 - Verboten: Kommentierung von Marktgerüchten zu nicht-öffentlichen Transaktionen
 - Erlaubt: Erläuterung öffentlicher Informationen, Branchentrends, allgemeiner Strategie
 - „No-Comment" ist erlaubt und besser als eine Selective Disclosure
@@ -151,7 +151,7 @@ Vor jedem Analysten-Call, Investorengespräch oder Roadshow-Termin:
 
 - Erstelle vor dem Call eine Liste erwarteter Fragen und Standard-Antworten
 - Screening: Welche Antworten könnten als Konfirmation von Insiderinformationen
-  verstanden werden?
+ verstanden werden?
 - Klärung: Bestätigt eine Antwort eine bestehende Insiderinformation? → Nicht beantworten
 
 ### Schritt 4 – Protokollierung
@@ -167,13 +167,13 @@ Wenn im Call versehentlich eine Insiderinformation offengelegt wurde:
 - Sofortige Einschaltung von Compliance
 - Prüfung: Ad-hoc-Pflicht nach Art. 17 MAR (Öffentlichkeit herstellen)
 - Prüfung: Hat der informierte Analyst Transaktionen auf Basis dieser Information getätigt?
-  → Meldung an BaFin erforderlich
+ → Meldung an BaFin erforderlich
 
 ## Red-Team-Fragen
 
 - Wurde vor dem Call geprüft, ob eine aktuelle Insiderinformation vorliegt?
 - Haben IR-Mitarbeiter Sprechregeln und den Umgang mit heiklen Fragen schriftlich
-  dokumentiert?
+ dokumentiert?
 - Wurde der Call vollständig aufgezeichnet und archiviert?
 - Gibt es einen Post-Call-Review-Prozess für Compliance?
 - Werden Einzelgespräche mit Investoren (One-on-Ones) genauso behandelt wie öffentliche Calls?

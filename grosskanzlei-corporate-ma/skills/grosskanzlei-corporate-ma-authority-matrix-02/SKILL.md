@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-authority-matrix-02
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Auction Process Letter, Grosskanzlei Corporate Ma Authority Matrix Approvals, Grosskanzlei Corporate Ma Automation Monitoring, Grosskanzlei Corporate Ma Bank Consents Change Control, Grosskanzlei Corporate Ma Bidder Instructions Vdr Rules und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Corporate Ma Auction Process Letter, Grosskanzlei Corporate Ma Authority Matrix Approvals, Grosskanzlei Corporate Ma Automation Monitoring, Grosskanzlei Corporate Ma Bank Consents Change Control, Grosskanzlei Corporate Ma Bidder Instructions Vdr Rules und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Corporate Ma Auction Process Letter, Grosskanzlei Corporate Ma Authority Matrix Approvals, Grosskanzlei Corporate Ma Automation Monitoring, Grosskanzlei Corporate Ma Bank Consents Change Control, Grosskanzlei Corporate Ma Bidder Instructions Vdr Rules und 2 weitere Them..."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Auction Process Letter, Grosskanzlei Corporate Ma Authority Matrix Approvals, Grosskanzlei Corporate Ma Automation Monitoring, Grosskanzlei Corporate Ma Bank Consents Change Control: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Auction Process Letter, Grosskanzlei Corporate Ma Authority Matrix Approvals, Grosskanzlei Corporate Ma Automation Monitoring, Grosskanzlei Corporate Ma Bank Consents Change Control, Grosskanzlei Corporate Ma Bidder Instructions Vdr Rules und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Corporate Ma Auction Process Letter, Grosskanzlei Corporate Ma Authority Matrix Approvals, Grosskanzlei Corporate Ma Automation Monitoring, Grosskanzlei Corporate Ma Bank Consents Change Control, Grosskanzlei Corporate Ma Bidder Instructions Vdr Rules und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -656,7 +656,7 @@ Verhandlungssitzung [DATUM] mit Gegenseite.
 
 ## Schritt-fuer-Schritt-Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Time Entries importieren:** Alle Zeiteintragungen fuer den Abrechnungszeitraum nach Phase und Workstream sortieren.
 2. **Budget-Abgleich:** WIP gegen vereinbartes Budget halten; Abweichungen > 10 % markieren und begruenden.

@@ -1,13 +1,13 @@
 ---
 name: pflichtteilsergaenzung
-description: "Nutze dies, wenn Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrecht Testamentsvollstreckung, Fachanwalt Erbrecht Verhandlung Mediation Erbengemeinschaft im Plugin Fachanwalt Erbrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrecht Testamentsvollstreckung, Fachanwalt Erbrecht Verhandlung Mediation Erbengemeinschaft prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrecht Testamentsvollstreckung, Fachanwalt Erbrecht Verhandlung Mediation Erbengemeinschaft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrecht Testamentsvollstreckung, Fachanwalt Erbrecht Verhandlung Mediation Erbengemeinschaft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrecht Testamentsvollstreckung, Fachanwalt Erbrecht Verhandlung Mediation Erbengemeinschaft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Erbrecht Pflichtteilsergaenzung 2325, Fachanwalt Erbrecht Testamentsvollstreckung, Fachanwalt Erbrecht Verhandlung Mediation Erbengemeinschaft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -89,8 +89,8 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 ### Schritt 3 — Niederstwertprinzip § 2325 II BGB
 
 - Schenkungs-Wert: **niedrigster** der beiden:
-  - Wert zum Schenkungs-Zeitpunkt (mit Indexierung)
-  - Wert zum Erbfalls-Zeitpunkt
+ - Wert zum Schenkungs-Zeitpunkt (mit Indexierung)
+ - Wert zum Erbfalls-Zeitpunkt
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 4) Beispiel
@@ -220,7 +220,7 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 
 ## Prüfschema — TV-Amtsführung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
@@ -409,32 +409,32 @@ TESTAMENTSVOLLSTRECKUNG [Name Erblasser]
 Rechnungslegung für den Zeitraum [Datum] bis [Datum]
 
 I. EINNAHMEN
-   Mieteinnahmen [Objekt]:           EUR [Summe]
-   Kapitalerträge Wertpapierdepot:   EUR [Summe]
-   Sonstige Einnahmen:               EUR [Summe]
-   GESAMT EINNAHMEN:                 EUR [A]
+ Mieteinnahmen [Objekt]: EUR [Summe]
+ Kapitalerträge Wertpapierdepot: EUR [Summe]
+ Sonstige Einnahmen: EUR [Summe]
+ GESAMT EINNAHMEN: EUR [A]
 
 II. AUSGABEN
-   Verwaltungskosten [Objekt]:       EUR [Summe]
-   Steuervorauszahlungen:            EUR [Summe]
-   Anwalt/Steuerberater:             EUR [Summe]
-   TV-Vergütung:                     EUR [Summe]
-   Sonstige Ausgaben:                EUR [Summe]
-   GESAMT AUSGABEN:                  EUR [B]
+ Verwaltungskosten [Objekt]: EUR [Summe]
+ Steuervorauszahlungen: EUR [Summe]
+ Anwalt/Steuerberater: EUR [Summe]
+ TV-Vergütung: EUR [Summe]
+ Sonstige Ausgaben: EUR [Summe]
+ GESAMT AUSGABEN: EUR [B]
 
 III. ERGEBNIS
-   Überschuss / Unterdeckung:        EUR [A-B]
+ Überschuss / Unterdeckung: EUR [A-B]
 
 IV. VERMÖGENSSTATUS
-   Bankguthaben:                     EUR [Summe]
-   Immobilienwert (Schätzung):       EUR [Summe]
-   Wertpapierdepot:                  EUR [Summe]
-   Offene Forderungen:               EUR [Summe]
-   Verbindlichkeiten:                EUR [Summe]
-   REINVERMÖGEN:                     EUR [Summe]
+ Bankguthaben: EUR [Summe]
+ Immobilienwert (Schätzung): EUR [Summe]
+ Wertpapierdepot: EUR [Summe]
+ Offene Forderungen: EUR [Summe]
+ Verbindlichkeiten: EUR [Summe]
+ REINVERMÖGEN: EUR [Summe]
 
 V. OFFENE POSITIONEN
-   [Beschreibung laufender Angelegenheiten]
+ [Beschreibung laufender Angelegenheiten]
 ```
 
 ### Entlassungsantrag § 2227 BGB

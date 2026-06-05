@@ -1,13 +1,13 @@
 ---
 name: deal-beweislast-einspruch
-description: "Nutze dies, wenn Spezial Deal Beweislast Und Darlegungslast, Spezial Einspruch Risikoampel Und Gegenargumente, Spezial Einspruchsentscheidung Und Folgen im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Deal Beweislast Und Darlegungslast, Spezial Einspruch Risikoampel Und Gegenargumente, Spezial Einspruchsentscheidung Und Folgen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Deal Beweislast Und Darlegungslast, Spezial Einspruch Risikoampel Und Gegenargumente, Spezial Einspruchsentscheidung Und Folgen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Deal Beweislast Und Darlegungslast, Einspruch Risikoampel Und Gegenargumente, Einspruchsentscheidung Und Folgen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Deal Beweislast Und Darlegungslast, Spezial Einspruch Risikoampel Und Gegenargumente, Spezial Einspruchsentscheidung Und Folgen
+# Deal Beweislast Und Darlegungslast, Einspruch Risikoampel Und Gegenargumente, Einspruchsentscheidung Und Folgen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Deal Beweislast Und Darlegungslast, Einspruch Risikoampel Und Gegenargumente, Einspruchsentscheidung Und Folgen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Deal Beweislast Und Darlegungslast, Spezial Einspruch Risikoampel Und Gegenargumente, Spezial Einspruchsentscheidung Und Folgen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deal Beweislast Und Darlegungslast, Einspruch Risikoampel Und Gegenargumente, Einspruchsentscheidung Und Folgen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -69,27 +69,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Deal / Verstaendigung im Strafbefehlsverfahren Bausteine
 - **Rechtsgrundlage Verstaendigung § 257c StPO:** auch im Verfahren nach Strafbefehl mit Einspruch grundsaetzlich anwendbar (analog).
 - **Inhaltsschranken § 257c II StPO:**
-  - **Zulaessig:** Strafrahmen-Korridor (Unter- und Obergrenze); konkreter Tatsachenfeststellungen.
-  - **Unzulaessig:** Verzicht auf Schuldspruch; Massregeln § 257c II 3 StPO; Strafvollstreckungsfragen.
+ - **Zulaessig:** Strafrahmen-Korridor (Unter- und Obergrenze); konkreter Tatsachenfeststellungen.
+ - **Unzulaessig:** Verzicht auf Schuldspruch; Massregeln § 257c II 3 StPO; Strafvollstreckungsfragen.
 - **Belehrung § 257c V StPO** als Wirksamkeitsvoraussetzung:
-  - Mandant ueber alle moeglichen Konsequenzen unterrichten.
-  - Bei Verstoss Beweisverwertungsverbot des Gestaendnisses.
+ - Mandant ueber alle moeglichen Konsequenzen unterrichten.
+ - Bei Verstoss Beweisverwertungsverbot des Gestaendnisses.
 - **Geschaeftsgrundlage Verstaendigung:**
-  - Gestaendnis Angeklagter (regelmaessig vollumfaenglich).
-  - Beweisaufnahme aber nicht ersparbar - Pruefung Glaubhaftigkeit.
-  - Wegfall der Bindung § 257c IV StPO bei neuen erheblichen Umstaenden oder unrichtigen Voraussetzungen.
+ - Gestaendnis Angeklagter (regelmaessig vollumfaenglich).
+ - Beweisaufnahme aber nicht ersparbar - Pruefung Glaubhaftigkeit.
+ - Wegfall der Bindung § 257c IV StPO bei neuen erheblichen Umstaenden oder unrichtigen Voraussetzungen.
 - **Vorgehensweise:**
-  - Vorgespraech mit StA / Gericht ausserhalb Hauptverhandlung.
-  - Korridor sondieren (Min - Max Strafmass).
-  - Sondierung schriftliche Zusammenfassung an Mandant fuer Freigabe.
-  - In Hauptverhandlung formell § 257c StPO einbringen.
+ - Vorgespraech mit StA / Gericht ausserhalb Hauptverhandlung.
+ - Korridor sondieren (Min - Max Strafmass).
+ - Sondierung schriftliche Zusammenfassung an Mandant fuer Freigabe.
+ - In Hauptverhandlung formell § 257c StPO einbringen.
 - **Beweislast und Beweismittel beim Deal:**
-  - StA traegt weiterhin Beweislast Schuld; Verstaendigung **nicht** Schuldspruch-Ersatz.
-  - Bei Verstaendigung-Bruch (z. B. neue Erkenntnisse) faellt Bindung weg; Gericht muss neu pruefen.
+ - StA traegt weiterhin Beweislast Schuld; Verstaendigung **nicht** Schuldspruch-Ersatz.
+ - Bei Verstaendigung-Bruch (z. B. neue Erkenntnisse) faellt Bindung weg; Gericht muss neu pruefen.
 - **Alternativen zur Verstaendigung:**
-  - **§ 153 StPO Einstellung** wegen Geringfuegigkeit (ohne Auflagen).
-  - **§ 153a StPO Einstellung gegen Auflagen** (Geldbusse, gemeinnuetzige Arbeit, Schadenswiedergutmachung) - **oft strategisch besser** als Verstaendigung, weil keine Verurteilung.
-  - **§ 154 StPO Teilstellung** bei Tatmehrheit.
+ - **§ 153 StPO Einstellung** wegen Geringfuegigkeit (ohne Auflagen).
+ - **§ 153a StPO Einstellung gegen Auflagen** (Geldbusse, gemeinnuetzige Arbeit, Schadenswiedergutmachung) - **oft strategisch besser** als Verstaendigung, weil keine Verurteilung.
+ - **§ 154 StPO Teilstellung** bei Tatmehrheit.
 - **Rechtsmittelverzicht** nach Verstaendigung idR nicht moeglich (§ 302 I 2 StPO); freier Wille bei Verzicht (BGH-Linie).
 - **Praxis-Tipp:** Verstaendigung schriftlich vorbereiten; im Protokoll Korridor exakt dokumentieren; Belehrung § 257c V StPO als Pflichtbestandteil checken.
 
@@ -142,11 +142,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `strafbefehl-verteidiger`. Kontext des Plugins: Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `strafbefehl-verteidiger`. Kontext des Plugins: Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -176,18 +176,18 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## Einspruchsentscheidung / Beschraenkung / Nebenfolgen Bausteine
 - **Drei Einspruchsmodi nach § 410 StPO:**
-  - **Vollumfaenglicher Einspruch:** Schuld- und Strafausspruch werden komplett aufgehoben; Hauptverhandlung mit Beweisaufnahme; voller Untersuchungsgrundsatz.
-  - **Beschraenkung auf Rechtsfolgenausspruch § 410 II StPO:** Schuldspruch bleibt; nur Strafmass, Tagessatzhoehe, Fahrverbot, Nebenfolgen werden neu verhandelt. **Strategisch oft sinnvoll** bei eingestaendiger Tat aber unangemessenem Strafmass.
-  - **Beschraenkung auf bestimmte Punkte:** z. B. nur Fahrverbot (BGH-Linie zur Teilbarkeit).
+ - **Vollumfaenglicher Einspruch:** Schuld- und Strafausspruch werden komplett aufgehoben; Hauptverhandlung mit Beweisaufnahme; voller Untersuchungsgrundsatz.
+ - **Beschraenkung auf Rechtsfolgenausspruch § 410 II StPO:** Schuldspruch bleibt; nur Strafmass, Tagessatzhoehe, Fahrverbot, Nebenfolgen werden neu verhandelt. **Strategisch oft sinnvoll** bei eingestaendiger Tat aber unangemessenem Strafmass.
+ - **Beschraenkung auf bestimmte Punkte:** z. B. nur Fahrverbot (BGH-Linie zur Teilbarkeit).
 - **Hauptverhandlung nach Einspruch §§ 411-412 StPO:**
-  - **Erscheinungspflicht** Angeklagter § 411 II StPO; **Vertretungsvollmacht** Verteidiger moeglich.
-  - Bei Nichterscheinen ohne genuegende Entschuldigung: Verwerfungsurteil § 412 StPO; Wiedereinsetzung § 44 StPO ggf. moeglich.
-  - **Schlechterstellungsverbot bei Beschraenkung Rechtsfolgenausspruch:** Verschlechterungsverbot reformatio in peius gilt nicht im Strafbefehlsverfahren absolut; aber zumindest darf die Verteidigung darauf vertrauen, dass innerhalb der Schuldspruch-Bindung das Strafmass nicht drastisch steigt.
+ - **Erscheinungspflicht** Angeklagter § 411 II StPO; **Vertretungsvollmacht** Verteidiger moeglich.
+ - Bei Nichterscheinen ohne genuegende Entschuldigung: Verwerfungsurteil § 412 StPO; Wiedereinsetzung § 44 StPO ggf. moeglich.
+ - **Schlechterstellungsverbot bei Beschraenkung Rechtsfolgenausspruch:** Verschlechterungsverbot reformatio in peius gilt nicht im Strafbefehlsverfahren absolut; aber zumindest darf die Verteidigung darauf vertrauen, dass innerhalb der Schuldspruch-Bindung das Strafmass nicht drastisch steigt.
 - **Nebenfolgen pruefen:**
-  - **Fahrverbot § 44 StGB:** bis 6 Monate; Mandantenbedeutung Beruf, Familie.
-  - **Entziehung Fahrerlaubnis § 69 StGB:** im Strafbefehl regelmaessig nicht (komplexe Pruefung); ggf. vorlaeufige Entziehung § 111a StPO im laufenden Verfahren.
-  - **Einziehung § 73 ff. StGB:** Wertersatz bei Vermoegensvorteilen aus Tat.
-  - **BZRG-Eintragspflicht** § 32 BZRG: 90+ TS / Freiheitsstrafe.
+ - **Fahrverbot § 44 StGB:** bis 6 Monate; Mandantenbedeutung Beruf, Familie.
+ - **Entziehung Fahrerlaubnis § 69 StGB:** im Strafbefehl regelmaessig nicht (komplexe Pruefung); ggf. vorlaeufige Entziehung § 111a StPO im laufenden Verfahren.
+ - **Einziehung § 73 ff. StGB:** Wertersatz bei Vermoegensvorteilen aus Tat.
+ - **BZRG-Eintragspflicht** § 32 BZRG: 90+ TS / Freiheitsstrafe.
 - **Wiedereinsetzung § 44 StPO bei verspaetetem Einspruch:** unverschuldete Versaeumung; 1 Woche ab Wegfall Hindernis; restriktive BGH-Linie.
 - **Einspruchsruecknahme § 411 III StPO:** bis Urteilsverkuendung moeglich; Strafbefehl wird rechtskraeftig.
 - **Praxis-Tipp:** Bei beschraenktem Einspruch im Antrag prazise formulieren (z. B. "Der Einspruch beschraenkt sich auf den Rechtsfolgenausspruch, insbesondere die Hoehe der Tagessaetze und das Fahrverbot"); Akteneinsicht vor Festlegung Strategie zwingend.

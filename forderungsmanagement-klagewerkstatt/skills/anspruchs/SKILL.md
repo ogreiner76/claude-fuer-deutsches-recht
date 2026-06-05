@@ -1,6 +1,6 @@
 ---
 name: anspruchs
-description: "Nutze dies, wenn Anspruchs: Schriftsatz-, Brief- und Memo-Bausteine im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Anspruchs: Schriftsatz-, Brief- und Memo-Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Anspruchs: Schriftsatz-, Brief- und Memo-Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anspruchs: Schriftsatz-, Brief- und Memo-Bausteine: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Anspruchs: Schriftsatz-, Brief- und Memo-Bausteine

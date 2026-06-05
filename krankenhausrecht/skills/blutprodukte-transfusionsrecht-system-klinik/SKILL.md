@@ -1,13 +1,13 @@
 ---
 name: blutprodukte-transfusionsrecht-system-klinik
-description: "Nutze dies, wenn Blutprodukte Transfusionsrecht Dokumentation, Compliance System Klinik Einkauf Forschung Spenden, Datenschutz Krankenhaus Patientenakte Forschung im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Blutprodukte Transfusionsrecht Dokumentation, Compliance System Klinik Einkauf Forschung Spenden, Datenschutz Krankenhaus Patientenakte Forschung prüfen.; Erstelle eine Arbeitsfassung zu Blutprodukte Transfusionsrecht Dokumentation, Compliance System Klinik Einkauf Forschung Spenden, Datenschutz Krankenhaus Patientenakte Forschung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Blutprodukte Transfusionsrecht Dokumentation, Compliance System Klinik Einkauf Forschung Spenden, Datenschutz Krankenhaus Patientenakte Forschung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Blutprodukte Transfusionsrecht Dokumentation, Compliance System Klinik Einkauf Forschung Spenden, Datenschutz Krankenhaus Patientenakte Forschung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Blutprodukte Transfusionsrecht Dokumentation, Compliance System Klinik Einkauf Forschung Spenden, Datenschutz Krankenhaus Patientenakte Forschung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -146,7 +146,7 @@ Patientendaten sind besonders schutzwuerdig (Art. 9 DSGVO Gesundheitsdaten). Im 
 - **MBO-Aerzte § 9** aerztliche Schweigepflicht.
 - **PatientendatenSchutzG (PDSG)** ePA-Anbindung.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Rechtsgrundlage je Verarbeitung:** Art. 6/9 DSGVO; Behandlung Art. 9 Abs. 2 lit. h; Forschung Art. 9 Abs. 2 lit. j + § 27 BDSG; Abrechnung gesetzliche Pflicht.
 2. **Patienteninformation Art. 13/14 DSGVO:** Verstaendlich, schriftlich, fuer jeden Hauptzweck.
 3. **Einwilligungen separat:** Behandlung (gesetzlich nicht erforderlich), Forschung (i. d. R. erforderlich), Werbung/Sekundaerzweck.

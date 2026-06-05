@@ -1,13 +1,13 @@
 ---
 name: widerspruchsschrift-mandat-triage
-description: "Nutze dies, wenn Fachanwalt Verwaltungsrecht Widerspruchsschrift, Mandat Triage Verwaltungsrecht, Schriftsatzkern Substantiierung im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Verwaltungsrecht Widerspruchsschrift, Mandat Triage Verwaltungsrecht, Schriftsatzkern Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Verwaltungsrecht Widerspruchsschrift, Mandat Triage Verwaltungsrecht, Schriftsatzkern Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Verwaltungsrecht Widerspruchsschrift, Mandat Triage Verwaltungsrecht, Schriftsatzkern Substantiierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Verwaltungsrecht Widerspruchsschrift, Mandat Triage Verwaltungsrecht, Schriftsatzkern Substantiierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Verwaltungsrecht Widerspruchsschrift, Mandat Triage Verwaltungsrecht, Schriftsatzkern Substantiierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -79,7 +79,7 @@ Gegen einen belastenden Verwaltungsakt ist als Vorverfahren — sofern nicht dur
 ## Prüfschema Widerspruch
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Norm | Inhalt |
 |---|---|---|---|
@@ -181,7 +181,7 @@ ein und beantragen:
 2. [Hilfsweise: Bescheid mit folgendem Inhalt zu erlassen: ...]
 
 3. Die Hinzuziehung des Bevollmächtigten für das Vorverfahren
-   gemäß § 80 Abs. 2 VwVfG für notwendig zu erklären.
+ gemäß § 80 Abs. 2 VwVfG für notwendig zu erklären.
 
 Begründung
 
@@ -218,17 +218,17 @@ Tatsächlich ist jedoch [zutreffender Sachverhalt]. Dies belegen
 Soweit der Bescheid auf Ermessen gestützt ist, wurde es nicht
 oder fehlerhaft ausgeübt:
 a) Ermessensnichtgebrauch: aus der Begründung ergibt sich, dass
-   die Behörde keine Ermessenserwägungen angestellt hat.
+ die Behörde keine Ermessenserwägungen angestellt hat.
 b) Ermessensfehlgebrauch: relevante Belange wie [Belang] wurden
-   nicht berücksichtigt.
+ nicht berücksichtigt.
 
 3. Unverhältnismäßigkeit
 Der Eingriff ist nicht verhältnismäßig:
 — Geeignetheit: [ggf. bestreiten].
 — Erforderlichkeit: Das mildere Mittel [Bezeichnung] wäre ebenso
-   wirksam und weniger belastend.
+ wirksam und weniger belastend.
 — Angemessenheit: die Schwere des Eingriffs [Beschreibung] überwiegt
-   das verfolgte Ziel.
+ das verfolgte Ziel.
 
 IV. Eilrechtsschutz
 Parallel hierzu wird beim Verwaltungsgericht [Ort] ein Antrag nach
@@ -282,14 +282,14 @@ wir nehmen Stellung zu Ihrem Schreiben vom [Datum], mit dem Sie
 nach Einlegung des Widerspruchs eine Anhörung nachgeholt haben.
 
 1. Wir machen geltend, dass die nachgeholte Anhörung die formelle
-   Rechtswidrigkeit des Bescheids im Kern nicht beseitigt, da
-   [Begründung: z.B. Ermessenserwägungen grundlegend neu bewertet
-   werden müssten / Sachverhalt nicht hinreichend aufgeklärt].
+ Rechtswidrigkeit des Bescheids im Kern nicht beseitigt, da
+ [Begründung: z.B. Ermessenserwägungen grundlegend neu bewertet
+ werden müssten / Sachverhalt nicht hinreichend aufgeklärt].
 
 2. Wir halten an dem Widerspruch vollumfänglich fest.
 
 3. Unabhängig von der Frage der Heilung bleibt der Bescheid aus
-   den materiellen Gründen (s.o.) rechtswidrig.
+ den materiellen Gründen (s.o.) rechtswidrig.
 ```
 
 --- vor Versand klaeren ---

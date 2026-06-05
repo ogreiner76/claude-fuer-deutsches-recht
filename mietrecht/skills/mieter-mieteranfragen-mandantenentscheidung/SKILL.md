@@ -1,32 +1,32 @@
 ---
 name: mieter-mieteranfragen-mandantenentscheidung
-description: "Nutze dies, wenn Spezial Mieter Tatbestand Beweis Und Belege, Spezial Mieteranfragen Mandantenentscheidung, Spezial Mieterhoehungs Compliance Dokumentation Und Akte im Plugin Mietrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Mieter Tatbestand Beweis Und Belege, Spezial Mieteranfragen Mandantenentscheidung, Spezial Mieterhoehungs Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Mieter Tatbestand Beweis Und Belege, Spezial Mieteranfragen Mandantenentscheidung, Spezial Mieterhoehungs Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mieter Tatbestand Beweis Und Belege, Mieteranfragen Mandantenentscheidung, Mieterhoehungs Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Mieter Tatbestand Beweis Und Belege, Spezial Mieteranfragen Mandantenentscheidung, Spezial Mieterhoehungs Compliance Dokumentation Und Akte
+# Mieter Tatbestand Beweis Und Belege, Mieteranfragen Mandantenentscheidung, Mieterhoehungs Compliance Dokumentation Und Akte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mieter Tatbestand Beweis Und Belege, Mieteranfragen Mandantenentscheidung, Mieterhoehungs Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-mieter-tatbestand-beweis-und-belege` | Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-mieteranfragen-mandantenentscheidung` | Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-mieterhoehungs-compliance-dokumentation-und-akte` | Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-mieter-tatbestand-beweis-und-belege` | Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-mieteranfragen-mandantenentscheidung` | Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-mieterhoehungs-compliance-dokumentation-und-akte` | Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Mieter Tatbestand Beweis Und Belege, Spezial Mieteranfragen Mandantenentscheidung, Spezial Mieterhoehungs Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mieter Tatbestand Beweis Und Belege, Mieteranfragen Mandantenentscheidung, Mieterhoehungs Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-mieter-tatbestand-beweis-und-belege`
 
-**Fokus:** Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -40,7 +40,7 @@ Für **Spezial Mieter Tatbestand Beweis Und Belege, Spezial Mieteranfragen Manda
 
 
 ## Spezialwissen: Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial mieter tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage / mieter tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-mieteranfragen-mandantenentscheidung`
 
-**Fokus:** Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -90,7 +90,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage / spezial mieteranfragen mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage / mieteranfragen mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -126,7 +126,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-mieterhoehungs-compliance-dokumentation-und-akte`
 
-**Fokus:** Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk
 
@@ -140,7 +140,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk / spezial mieterhoehungs compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk / mieterhoehungs compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

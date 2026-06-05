@@ -1,6 +1,6 @@
 ---
 name: gate-fehlerkatalog
-description: "Nutze dies, wenn Gate Fehlerkatalog im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Gate Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Gate Fehlerkatalog

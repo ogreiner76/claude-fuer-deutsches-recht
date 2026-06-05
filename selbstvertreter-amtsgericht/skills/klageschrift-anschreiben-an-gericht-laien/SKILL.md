@@ -68,16 +68,16 @@ Bei Bekanntem Aktenzeichen: konkrete Abteilung angeben, z. B. "Abt. C 5".
 
 ```
 Betreff: Aktenzeichen [AZ]
-         Rechtsstreit Mustermann ./. Beispielmann
-         wegen [Streitgegenstand]
+ Rechtsstreit Mustermann ./. Beispielmann
+ wegen [Streitgegenstand]
 ```
 
 Bei erster Klage (noch kein Aktenzeichen):
 
 ```
 Betreff: Klage
-         Mustermann ./. Beispielmann
-         wegen [Streitgegenstand]
+ Mustermann ./. Beispielmann
+ wegen [Streitgegenstand]
 ```
 
 Praxis-Hinweis: "./." (Punkt-Strich-Punkt) bedeutet "gegen".

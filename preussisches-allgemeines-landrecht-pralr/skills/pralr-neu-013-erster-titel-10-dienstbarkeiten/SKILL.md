@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-013-erster-titel-10-dienstbarkeiten
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen

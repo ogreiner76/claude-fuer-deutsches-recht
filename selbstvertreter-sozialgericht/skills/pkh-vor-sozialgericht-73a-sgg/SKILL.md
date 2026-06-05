@@ -58,7 +58,7 @@ Sicherheitsformel: Wer Buergergeld bekommt oder kurz drueber liegt, hat in der R
 ### Schritt 3 — PKH-Antrag stellen
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 In dem Verfahren
 

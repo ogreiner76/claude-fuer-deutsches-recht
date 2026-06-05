@@ -1,13 +1,13 @@
 ---
 name: berufsrechtliche-notfallkommunikation-02
-description: "Nutze dies, wenn Anwälte Berufsrechtliche Notfallkommunikation Rechtsprechungsc, Anwälte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec, Anwälte Beweisfuehrung Im Berufsverfahren Rechtsprechungscheck, Anwälte Datenschutzpanne In Der Kanzlei Rechtsprechungscheck U, Anwälte Erfolgshonorar Und Prozessfinanzierung Rechtsprechungs im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Berufsrechtliche Notfallkommunikation Rechtsprechungsc, Anwälte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec, Anwälte Beweisfuehrung Im Berufsverfahren Rechtsprechungscheck, Anwälte Datenschutzpanne In Der Kanzlei Rechtsprechungscheck U, Anwälte Erfolgshonorar Und Prozessfinanzierung Rechtsprechungs prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Berufsrechtliche Notfallkommunikation Rechtsprechungsc, Anwälte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec, Anwälte Beweisfuehrung Im Berufsverfahren Rechtsprechungscheck, Anwälte Datenschutzpanne In De..."
+description: "Nutze dies bei Anwaelte Berufsrechtliche Notfallkommunikation Rechtsprechungsc, Anwaelte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec, Anwaelte Beweisfuehrung Im Berufsverfahren Rechtsprechungscheck, Anwaelte Datenschutzpanne In Der Kanzlei Rechtsprechungscheck U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Berufsrechtliche Notfallkommunikation Rechtsprechungsc, Anwälte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec, Anwälte Beweisfuehrung Im Berufsverfahren Rechtsprechungscheck, Anwälte Datenschutzpanne In Der Kanzlei Rechtsprechungscheck U, Anwälte Erfolgshonorar Und Prozessfinanzierung Rechtsprechungs
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Berufsrechtliche Notfallkommunikation Rechtsprechungsc, Anwälte Beschwerde Bei Rechtsanwaltskammer Rechtsprechungschec, Anwälte Beweisfuehrung Im Berufsverfahren Rechtsprechungscheck, Anwälte Datenschutzpanne In Der Kanzlei Rechtsprechungscheck U, Anwälte Erfolgshonorar Und Prozessfinanzierung Rechtsprechungs** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

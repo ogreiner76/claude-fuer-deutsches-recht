@@ -1,21 +1,21 @@
 ---
 name: competition-litigation-programm-mittelstand
-description: "Nutze dies, wenn Competition Litigation Strategy, Compliance Programm Kartellrecht Mittelstand, Compliance Schulung Kartellrisiken, Datenzugang Und Interoperabilitaet, Dawn Raid Kartellbehoerde Sofortplan im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Competition Litigation Strategy, Compliance Programm Kartellrecht Mittelstand, Compliance Schulung Kartellrisiken, Datenzugang Und Interoperabilitaet, Dawn Raid Kartellbehoerde Sofortplan prüfen.; Erstelle eine Arbeitsfassung zu Competition Litigation Strategy, Compliance Programm Kartellrecht Mittelstand, Compliance Schulung Kartellrisiken, Datenzugang Und Interoperabilitaet, Dawn Raid Kartellbehoerde Sofortplan.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Competition Litigation Strategy, Compliance Programm Kartellrecht Mittelstand, Compliance Schulung Kartellrisiken, Datenzugang Und Interoperabilitaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Competition Litigation Strategy, Compliance Programm Kartellrecht Mittelstand, Compliance Schulung Kartellrisiken, Datenzugang Und Interoperabilitaet, Dawn Raid Kartellbehoerde Sofortplan
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Competition Litigation Strategy, Compliance Programm Kartellrecht Mittelstand, Compliance Schulung Kartellrisiken, Datenzugang Und Interoperabilitaet, Dawn Raid Kartellbehoerde Sofortplan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `competition-litigation-strategy` | Kartellprozess Strategie: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Behördenverfahren, Beschwerde, Nichtigkeitsklage, Schadensersatz und Vergleich koordinieren, Evidenz, Fristen, Strategie und Quellen. |
+| `competition-litigation-strategy` | Kartellprozess Strategie: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Behördenverfahren, Beschwerde, Nichtigkeitsklage, Schadensersatz und Vergleich koordinieren, Evidenz, Fristen, Strategie und Quellen. |
 | `compliance-programm-kartellrecht-mittelstand` | Compliance-Programm Kartellrecht Mittelstand: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `compliance-schulung-kartellrisiken` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Compliance-Schulung Kartellrisiken. |
+| `compliance-schulung-kartellrisiken` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Compliance-Schulung Kartellrisiken. |
 | `datenzugang-und-interoperabilitaet` | Datenzugang und Interoperabilität: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `dawn-raid-kartellbehoerde-sofortplan` | Dawn Raid Kartellbehörde Sofortplan: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
@@ -28,7 +28,7 @@ Für **Competition Litigation Strategy, Compliance Programm Kartellrecht Mittels
 
 ## 1. `competition-litigation-strategy`
 
-**Fokus:** Kartellprozess Strategie: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Behördenverfahren, Beschwerde, Nichtigkeitsklage, Schadensersatz und Vergleich koordinieren, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Kartellprozess Strategie: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Behördenverfahren, Beschwerde, Nichtigkeitsklage, Schadensersatz und Vergleich koordinieren, Evidenz, Fristen, Strategie und Quellen.
 
 # Kartellprozess Strategie
 
@@ -123,7 +123,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `compliance-schulung-kartellrisiken`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Compliance-Schulung Kartellrisiken.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Compliance-Schulung Kartellrisiken.
 
 # Compliance-Schulung Kartellrisiken
 

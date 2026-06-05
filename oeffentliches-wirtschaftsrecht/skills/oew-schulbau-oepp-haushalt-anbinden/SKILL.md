@@ -1,13 +1,13 @@
 ---
 name: oew-schulbau-oepp-haushalt-anbinden
-description: "Nutze dies, wenn Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Haushalt Anbinden, Oew 029 Schulbau Oepp Kommunikation Schreiben, Oew 030 Schulbau Oepp Red Flags Listen im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Haushalt Anbinden, Oew 029 Schulbau Oepp Kommunikation Schreiben, Oew 030 Schulbau Oepp Red Flags Listen prüfen.; Erstelle eine Arbeitsfassung zu Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Haushalt Anbinden, Oew 029 Schulbau Oepp Kommunikation Schreiben, Oew 030 Schulbau Oepp Red Flags Listen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Haushalt Anbinden, Oew 029 Schulbau Oepp Kommunikation Schreiben, Oew 030 Schulbau Oepp Red Flags Listen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Haushalt Anbinden, Oew 029 Schulbau Oepp Kommunikation Schreiben, Oew 030 Schulbau Oepp Red Flags Listen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oew 027 Schulbau Oepp Kontrolle Sichern, Oew 028 Schulbau Oepp Haushalt Anbinden, Oew 029 Schulbau Oepp Kommunikation Schreiben, Oew 030 Schulbau Oepp Red Flags Listen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

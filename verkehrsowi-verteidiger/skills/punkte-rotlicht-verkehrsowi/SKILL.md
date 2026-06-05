@@ -1,13 +1,13 @@
 ---
 name: punkte-rotlicht-verkehrsowi
-description: "Nutze dies, wenn Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Punkte Risikoampel Und Gegenargumente, Rotlicht Schriftsatz Brief Und Memo Bausteine, Verkehrsowi Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel
+# Punkte Risikoampel Und Gegenargumente, Rotlicht Schriftsatz Brief Und Memo Bausteine, Verkehrsowi Erstpruefung Und Mandatsziel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Punkte Risikoampel Und Gegenargumente, Rotlicht Schriftsatz Brief Und Memo Bausteine, Verkehrsowi Erstpruefung Und Mandatsziel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsatz Brief Und Memo Bausteine, Spezial Verkehrsowi Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Punkte Risikoampel Und Gegenargumente, Rotlicht Schriftsatz Brief Und Memo Bausteine, Verkehrsowi Erstpruefung Und Mandatsziel** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Punkte Risikoampel Und Gegenargumente, Spezial Rotlicht Schriftsa
 # Punkte: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Punkte: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Punkte: Risikoampel, Gegenargumente und Verteidigungslinien / spezial punkte risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Punkte: Risikoampel, Gegenargumente und Verteidigungslinien / punkte risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -79,7 +79,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine / spezial rotlicht schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine / rotlicht schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVO, StVG, BußgKatV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -127,7 +127,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel / spezial verkehrsowi erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel / verkehrsowi erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -163,30 +163,30 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## OWi-Erstpruefung Mandatsziel Bausteine
 - **Sofort-Triage in 5 Punkten:**
-  - **(1) Zustellungsdatum** Bussgeldbescheid? § 67 OWiG 2 Wochen Einspruchsfrist.
-  - **(2) Tatvorwurf-Typ** (Geschwindigkeit, Abstand, Rotlicht, Handy, Alkohol, Drogen)?
-  - **(3) Sanktionsumfang** (Geldbusse, Punkte, Fahrverbot)?
-  - **(4) Beruflich existenzbedrohend** (Berufskraftfahrer, Pendler, Aussendienst)?
-  - **(5) Vorbelastung** (Punktestand FAER, Wiederholungstaeter § 4 II StVG, MPU-Risiko)?
+ - **(1) Zustellungsdatum** Bussgeldbescheid? § 67 OWiG 2 Wochen Einspruchsfrist.
+ - **(2) Tatvorwurf-Typ** (Geschwindigkeit, Abstand, Rotlicht, Handy, Alkohol, Drogen)?
+ - **(3) Sanktionsumfang** (Geldbusse, Punkte, Fahrverbot)?
+ - **(4) Beruflich existenzbedrohend** (Berufskraftfahrer, Pendler, Aussendienst)?
+ - **(5) Vorbelastung** (Punktestand FAER, Wiederholungstaeter § 4 II StVG, MPU-Risiko)?
 - **Mandatsziele-Hierarchie:**
-  - **Verfahren einstellen** § 47 OWiG (Geringfuegigkeit, oeffentliches Interesse).
-  - **Fahrverbot abwenden** (auch ueber Erhoehung Geldbusse als Kompensation, BGH-Linie).
-  - **Punkte abwenden** (insb. bei drohender 8-Punkte-Grenze).
-  - **Geldbusse senken** (oft realistisch ueber Beschraenkung).
-  - **Schuldspruch beseitigen** (Messfehler, Identitaetszweifel).
+ - **Verfahren einstellen** § 47 OWiG (Geringfuegigkeit, oeffentliches Interesse).
+ - **Fahrverbot abwenden** (auch ueber Erhoehung Geldbusse als Kompensation, BGH-Linie).
+ - **Punkte abwenden** (insb. bei drohender 8-Punkte-Grenze).
+ - **Geldbusse senken** (oft realistisch ueber Beschraenkung).
+ - **Schuldspruch beseitigen** (Messfehler, Identitaetszweifel).
 - **Akteneinsicht § 49 OWiG i.V.m. § 147 StPO sofort:**
-  - Messprotokoll, Lichtbild, Eichschein, Bedienerschein, Lebensakte Geraet.
-  - Rohdaten (.case / .esa / etc.) - BVerfG-Linie zur fair-trial-Garantie.
-  - Schulungsnachweis Messbeamter.
+ - Messprotokoll, Lichtbild, Eichschein, Bedienerschein, Lebensakte Geraet.
+ - Rohdaten (.case / .esa / etc.) - BVerfG-Linie zur fair-trial-Garantie.
+ - Schulungsnachweis Messbeamter.
 - **Verteidigungsstrategie-Optionen:**
-  - **Messfehler** (Standardisierungsfrage, Toleranzunterschreitung, Bedienfehler).
-  - **Identitaetszweifel** (Lichtbild zeigt nicht Halter; Halterauskunft § 31a StVZO trotzdem zulaessig).
-  - **Verfahrensfehler** (Verjaehrung § 26 III StVG, Zustellungsmaengel, Anhoerungspflicht § 55 OWiG).
-  - **Rechtsfolgenmilderung** (Tagessatzhoehe; Fahrverbot Haerte).
+ - **Messfehler** (Standardisierungsfrage, Toleranzunterschreitung, Bedienfehler).
+ - **Identitaetszweifel** (Lichtbild zeigt nicht Halter; Halterauskunft § 31a StVZO trotzdem zulaessig).
+ - **Verfahrensfehler** (Verjaehrung § 26 III StVG, Zustellungsmaengel, Anhoerungspflicht § 55 OWiG).
+ - **Rechtsfolgenmilderung** (Tagessatzhoehe; Fahrverbot Haerte).
 - **Risikoampel:**
-  - **Rot:** Fristablauf droht, Fahrverbot bei Berufskraftfahrer, drohende 8-Punkte-Grenze, MPU-Anordnung.
-  - **Gelb:** Beweislage unklar, Messverfahren angreifbar.
-  - **Gruen:** dokumentierte Mandantenfreigabe, Strategie klar.
+ - **Rot:** Fristablauf droht, Fahrverbot bei Berufskraftfahrer, drohende 8-Punkte-Grenze, MPU-Anordnung.
+ - **Gelb:** Beweislage unklar, Messverfahren angreifbar.
+ - **Gruen:** dokumentierte Mandantenfreigabe, Strategie klar.
 
 ## Qualitätsanker: Messdaten, Messakte und faires Verfahren
 

@@ -1,13 +1,13 @@
 ---
 name: betriebsrat-betrvg-datum
-description: "Nutze dies, wenn Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behörden Gericht Und Registerweg, Datum Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung
+# Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behörden Gericht Und Registerweg, Datum Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behörden Gericht Und Registerweg, Datum Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behörden Gericht Und Registerweg, Spezial Datum Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behörden Gericht Und Registerweg, Datum Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,7 +42,7 @@ Für **Spezial Betriebsrat Zahlen Schwellen Und Berechnung, Spezial Betrvg Behö
 ## Zweck
 Präzise Berechnung und Prüfung der betriebsverfassungsrechtlichen Schwellenwerte: BR-Größe, Freistellungen, Wahlberechtigung, Betriebsbegriff. Grundlage für die Erstprüfung bei jedem Mandat mit BR-Bezug.
 
-## Kaltstart
+## Einstieg
 Wenn ein betriebsverfassungsrechtlicher Sachverhalt vorliegt, zuerst klären:
 
 1. **Betriebsgröße:** Wie viele Arbeitnehmer sind im Betrieb beschäftigt? (Zählung nach § 9 BetrVG)
@@ -181,7 +181,7 @@ Räumlich weit entfernte Betriebsteile oder organisatorisch selbständige Betrie
 ## Zweck
 Vollständiger Überblick über Verfahrenswege bei betriebsverfassungsrechtlichen Streitigkeiten — welches Verfahren vor welchem Gericht, wer ist Beteiligter, welche Fristen gelten.
 
-## Kaltstart
+## Einstieg
 Wenn eine betriebsverfassungsrechtliche Frage vorliegt, zuerst bestimmen:
 
 1. **Streitgegenstand:** Mitbestimmungsrecht, Betriebsratswahl, Zustimmung zu personeller Maßnahme, Unterlassungsanspruch, Einigungsstelle?
@@ -313,7 +313,7 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 ## Zweck
 Praktischer Leitfaden für die fristgerechte und formkorrekte Einreichung von Schriftsätzen, Klagen und Formularen im arbeitsrechtlichen Verfahren — von der Fristberechnung über das beA bis zu den BA-Portalen.
 
-## Kaltstart
+## Einstieg
 Wenn eine Einreichung ansteht, zuerst klären:
 
 1. **Was ist einzureichen?** Klageschrift, Schriftsatz, Berufung, Massenentlassungsanzeige, SGB-Formular?

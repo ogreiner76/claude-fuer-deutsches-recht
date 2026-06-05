@@ -1,13 +1,13 @@
 ---
 name: kv-selbststaendige-kv-kuenstlersozialkasse-kv
-description: "Nutze dies, wenn Kv 043 Selbststaendige Mindestbeitrag Und Einkommensteuerbeschei, Kv 044 Kuenstlersozialkasse Und Krankenversicherung, Kv 045 Studentische Krankenversicherung Altersgrenzen im Plugin Krankenkassenrecht Krankenversicherung konkret bearbeitet werden soll. Auslöser: Bitte Kv 043 Selbststaendige Mindestbeitrag Und Einkommensteuerbeschei, Kv 044 Kuenstlersozialkasse Und Krankenversicherung, Kv 045 Studentische Krankenversicherung Altersgrenzen prüfen.; Erstelle eine Arbeitsfassung zu Kv 043 Selbststaendige Mindestbeitrag Und Einkommensteuerbeschei, Kv 044 Kuenstlersozialkasse Und Krankenversicherung, Kv 045 Studentische Krankenversicherung Altersgrenzen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kv 043 Selbststaendige Mindestbeitrag Und Einkommensteuerbeschei, Kv 044 Kuenstlersozialkasse Und Krankenversicherung, Kv 045 Studentische Krankenversicherung Altersgrenzen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kv 043 Selbststaendige Mindestbeitrag Und Einkommensteuerbeschei, Kv 044 Kuenstlersozialkasse Und Krankenversicherung, Kv 045 Studentische Krankenversicherung Altersgrenzen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kv 043 Selbststaendige Mindestbeitrag Und Einkommensteuerbeschei, Kv 044 Kuenstlersozialkasse Und Krankenversicherung, Kv 045 Studentische Krankenversicherung Altersgrenzen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-litigation-dispu-02
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Liability Limitations Basket Cap, Grosskanzlei Corporate Ma Litigation Disputes Dd, Grosskanzlei Corporate Ma Locked Box Completion Accounts, Grosskanzlei Corporate Ma Look And Feel, Grosskanzlei Corporate Ma Mac Ordinary Course Covenants und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Corporate Ma Liability Limitations Basket Cap, Grosskanzlei Corporate Ma Litigation Disputes Dd, Grosskanzlei Corporate Ma Locked Box Completion Accounts, Grosskanzlei Corporate Ma Look And Feel, Grosskanzlei Corporate Ma Mac Ordinary Course Covenants und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Corporate Ma Liability Limitations Basket Cap, Grosskanzlei Corporate Ma Litigation Disputes Dd, Grosskanzlei Corporate Ma Locked Box Completion Accounts, Grosskanzlei Corporate Ma Look And Feel, Grosskanzlei Corporate Ma Mac Ordinary Course Covenants und 2 weitere Them..."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Liability Limitations Basket Cap, Grosskanzlei Corporate Ma Litigation Disputes Dd, Grosskanzlei Corporate Ma Locked Box Completion Accounts, Grosskanzlei Corporate Ma Look And Feel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Liability Limitations Basket Cap, Grosskanzlei Corporate Ma Litigation Disputes Dd, Grosskanzlei Corporate Ma Locked Box Completion Accounts, Grosskanzlei Corporate Ma Look And Feel, Grosskanzlei Corporate Ma Mac Ordinary Course Covenants und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Corporate Ma Liability Limitations Basket Cap, Grosskanzlei Corporate Ma Litigation Disputes Dd, Grosskanzlei Corporate Ma Locked Box Completion Accounts, Grosskanzlei Corporate Ma Look And Feel, Grosskanzlei Corporate Ma Mac Ordinary Course Covenants und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

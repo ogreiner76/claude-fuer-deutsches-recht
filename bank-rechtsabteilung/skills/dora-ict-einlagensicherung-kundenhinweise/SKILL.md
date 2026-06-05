@@ -1,13 +1,13 @@
 ---
 name: dora-ict-einlagensicherung-kundenhinweise
-description: "Nutze dies, wenn Dora Ict Vertraege Vorfall, Einlagensicherung Kundenhinweise, Embedded Finance Kooperation, Esg Sustainable Finance, Ewpg Emission Elektronische Wertpapiere im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Bitte Dora Ict Vertraege Vorfall, Einlagensicherung Kundenhinweise, Embedded Finance Kooperation, Esg Sustainable Finance, Ewpg Emission Elektronische Wertpapiere prüfen.; Erstelle eine Arbeitsfassung zu Dora Ict Vertraege Vorfall, Einlagensicherung Kundenhinweise, Embedded Finance Kooperation, Esg Sustainable Finance, Ewpg Emission Elektronische Wertpapiere.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dora Ict Vertraege Vorfall, Einlagensicherung Kundenhinweise, Embedded Finance Kooperation, Esg Sustainable Finance: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dora Ict Vertraege Vorfall, Einlagensicherung Kundenhinweise, Embedded Finance Kooperation, Esg Sustainable Finance, Ewpg Emission Elektronische Wertpapiere
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dora Ict Vertraege Vorfall, Einlagensicherung Kundenhinweise, Embedded Finance Kooperation, Esg Sustainable Finance, Ewpg Emission Elektronische Wertpapiere** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

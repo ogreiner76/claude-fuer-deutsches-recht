@@ -1,13 +1,13 @@
 ---
 name: versicherer-cyber-phishing-vorfall-zivilklage
-description: "Nutze dies, wenn Phishing Versicherer Cyber, Phishing Vorfall Prüfen, Phishing Zivilklage Bank im Plugin Phishing Vorfall Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Phishing Versicherer Cyber, Phishing Vorfall Prüfen, Phishing Zivilklage Bank prüfen.; Erstelle eine Arbeitsfassung zu Phishing Versicherer Cyber, Phishing Vorfall Prüfen, Phishing Zivilklage Bank.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Phishing Versicherer Cyber, Phishing Vorfall Prüfen, Phishing Zivilklage Bank: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Phishing Versicherer Cyber, Phishing Vorfall Prüfen, Phishing Zivilklage Bank
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Phishing Versicherer Cyber, Phishing Vorfall Prüfen, Phishing Zivilklage Bank** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -104,53 +104,53 @@ Danach sagst du knapp, welche drei Belege zuerst fehlen oder kritisch sind.
 Arbeite in dieser Reihenfolge:
 
 1. **Sachverhalt strippen**
-   - Datum/Uhrzeit jedes Kontakts.
-   - Kanal: Telefon, SMS, E-Mail, Messenger, App, Online-Banking, Filiale.
-   - Wer hat was gesagt oder angezeigt?
-   - Welche Handlung hat der Kunde vorgenommen?
-   - Welche Zahlungsvorgänge wurden tatsächlich ausgeführt?
-   - Wann wurde gesperrt, angezeigt und reklamiert?
+ - Datum/Uhrzeit jedes Kontakts.
+ - Kanal: Telefon, SMS, E-Mail, Messenger, App, Online-Banking, Filiale.
+ - Wer hat was gesagt oder angezeigt?
+ - Welche Handlung hat der Kunde vorgenommen?
+ - Welche Zahlungsvorgänge wurden tatsächlich ausgeführt?
+ - Wann wurde gesperrt, angezeigt und reklamiert?
 
 2. **Transaktionen normalisieren**
-   - Erstelle eine Tabelle mit Betrag, Empfänger, IBAN oder Händler, Zeitpunkt, Authentifizierungsmethode, Endgerät, IP, Status und Schaden.
-   - Trenne Überweisung, Lastschrift, Kartenzahlung, Apple Pay/Google Pay, Echtzeitüberweisung und interne Umbuchung.
-   - Markiere Rückgaben oder Doppelzählungen.
+ - Erstelle eine Tabelle mit Betrag, Empfänger, IBAN oder Händler, Zeitpunkt, Authentifizierungsmethode, Endgerät, IP, Status und Schaden.
+ - Trenne Überweisung, Lastschrift, Kartenzahlung, Apple Pay/Google Pay, Echtzeitüberweisung und interne Umbuchung.
+ - Markiere Rückgaben oder Doppelzählungen.
 
 3. **§ 675u BGB prüfen**
-   - War der Zahlungsvorgang autorisiert?
-   - Wurde nur ein angeblicher Sicherheitsvorgang bestätigt oder konkret die Zahlung?
-   - Passten App-Text und Bankdialog zur späteren Transaktion?
-   - Liegt eine wirksame Zustimmung zu genau diesem Zahlungsvorgang vor?
-   - Ergebnis: Erstattung dem Grunde nach grün/gelb/rot.
+ - War der Zahlungsvorgang autorisiert?
+ - Wurde nur ein angeblicher Sicherheitsvorgang bestätigt oder konkret die Zahlung?
+ - Passten App-Text und Bankdialog zur späteren Transaktion?
+ - Liegt eine wirksame Zustimmung zu genau diesem Zahlungsvorgang vor?
+ - Ergebnis: Erstattung dem Grunde nach grün/gelb/rot.
 
 4. **§ 675v BGB prüfen**
-   - Einwand des Zahlungsdienstleisters: Vorsatz oder grobe Fahrlässigkeit.
-   - Faktoren zugunsten Bank: TAN am Telefon weitergegeben, Warnhinweise, Berufserfahrung, klare App-Anzeige, ungewöhnliche Sorglosigkeit.
-   - Faktoren zugunsten Kunde: Call-ID-Spoofing, psychischer Druck, plausibler Sicherheitsvorwand, mehrdeutige Anzeige, unmittelbare Sperre, keine Weitergabe von Zugangsdaten, atypische Banklogs.
-   - Ergebnis: Einwand grün/gelb/rot aus Sicht der Bank, nicht aus Bauchgefühl.
+ - Einwand des Zahlungsdienstleisters: Vorsatz oder grobe Fahrlässigkeit.
+ - Faktoren zugunsten Bank: TAN am Telefon weitergegeben, Warnhinweise, Berufserfahrung, klare App-Anzeige, ungewöhnliche Sorglosigkeit.
+ - Faktoren zugunsten Kunde: Call-ID-Spoofing, psychischer Druck, plausibler Sicherheitsvorwand, mehrdeutige Anzeige, unmittelbare Sperre, keine Weitergabe von Zugangsdaten, atypische Banklogs.
+ - Ergebnis: Einwand grün/gelb/rot aus Sicht der Bank, nicht aus Bauchgefühl.
 
 5. **§ 675w BGB und Beweislast**
-   - Authentifizierungsprotokoll allein genügt nicht automatisch.
-   - Verlange nachvollziehbare Logs: Login, Device-Binding, TAN-Dialog, App-Screenshot-Text, IP, User-Agent, Empfängeranlage, Risikoscore, Monitoringentscheidung.
-   - Trenne technische Authentifizierung von rechtlicher Autorisierung und von grober Fahrlässigkeit.
+ - Authentifizierungsprotokoll allein genügt nicht automatisch.
+ - Verlange nachvollziehbare Logs: Login, Device-Binding, TAN-Dialog, App-Screenshot-Text, IP, User-Agent, Empfängeranlage, Risikoscore, Monitoringentscheidung.
+ - Trenne technische Authentifizierung von rechtlicher Autorisierung und von grober Fahrlässigkeit.
 
 6. **Bankpflichten und Monitoring**
-   - Prüfe starke Kundenauthentifizierung, Transaktionsbindung, Warnhinweise, Anomalien, Empfängerneuanlage, IP-Wechsel, Tor/VPN, neue Geräte, Batch-TAN, Echtzeitdruck.
-   - Prüfe, ob die Bank bei auffälligen Mustern hätte sperren, rückfragen oder risikobasiert eskalieren müssen.
-   - Formuliere Beweisanträge und Auskunftsverlangen konkret.
+ - Prüfe starke Kundenauthentifizierung, Transaktionsbindung, Warnhinweise, Anomalien, Empfängerneuanlage, IP-Wechsel, Tor/VPN, neue Geräte, Batch-TAN, Echtzeitdruck.
+ - Prüfe, ob die Bank bei auffälligen Mustern hätte sperren, rückfragen oder risikobasiert eskalieren müssen.
+ - Formuliere Beweisanträge und Auskunftsverlangen konkret.
 
 7. **Fristen und Verfahrensweg**
-   - Unverzügliche Anzeige und Sperre prüfen.
-   - Ombudsmann, BaFin-Beschwerde, Strafanzeige und Zivilklage trennen.
-   - Gerichtliche Zuständigkeit nach aktuellem Streitwert und Gerichtsstand prüfen.
+ - Unverzügliche Anzeige und Sperre prüfen.
+ - Ombudsmann, BaFin-Beschwerde, Strafanzeige und Zivilklage trennen.
+ - Gerichtliche Zuständigkeit nach aktuellem Streitwert und Gerichtsstand prüfen.
 
 8. **Output wählen**
-   - Erstvermerk.
-   - Aufforderungsschreiben an Bank.
-   - Ombudsmann-Antrag.
-   - Klagegerüst.
-   - Erwiderung auf Bankablehnung.
-   - Beweis- und Loganforderung.
+ - Erstvermerk.
+ - Aufforderungsschreiben an Bank.
+ - Ombudsmann-Antrag.
+ - Klagegerüst.
+ - Erwiderung auf Bankablehnung.
+ - Beweis- und Loganforderung.
 
 ## Bewertungsampel
 
@@ -233,7 +233,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 [AKTENZEICHEN]
 
 Betreff: Erstattung nicht autorisierter Zahlungsvorgaenge gemaess § 675u BGB
-         Kundennummer: [KUNDENNUMMER] — Betrag: EUR [SCHADENSBETRAG]
+ Kundennummer: [KUNDENNUMMER] — Betrag: EUR [SCHADENSBETRAG]
 
 Sehr geehrte Damen und Herren,
 

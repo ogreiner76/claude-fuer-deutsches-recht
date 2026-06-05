@@ -1,13 +1,13 @@
 ---
 name: einstweilige-anordnung-eugh-vorlage
-description: "Nutze dies, wenn Einstweilige Anordnung 123 Vwgo Datenschutz, Eugh Vorlage Art 267, Gerichtstermin Sprechzettel, Gewinnabschoepfung Und Finanzieller Vorteil im Plugin Datenschutz Sanktionsverfahren Verteidigung konkret bearbeitet werden soll. Auslöser: Bitte Einstweilige Anordnung 123 Vwgo Datenschutz, Eugh Vorlage Art 267, Gerichtstermin Sprechzettel, Gewinnabschoepfung Und Finanzieller Vorteil prüfen.; Erstelle eine Arbeitsfassung zu Einstweilige Anordnung 123 Vwgo Datenschutz, Eugh Vorlage Art 267, Gerichtstermin Sprechzettel, Gewinnabschoepfung Und Finanzieller Vorteil.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Einstweilige Anordnung 123 Vwgo Datenschutz, Eugh Vorlage Art 267, Gerichtstermin Sprechzettel, Gewinnabschoepfung Und Finanzieller Vorteil: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Einstweilige Anordnung 123 Vwgo Datenschutz, Eugh Vorlage Art 267, Gerichtstermin Sprechzettel, Gewinnabschoepfung Und Finanzieller Vorteil
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Einstweilige Anordnung 123 Vwgo Datenschutz, Eugh Vorlage Art 267, Gerichtstermin Sprechzettel, Gewinnabschoepfung Und Finanzieller Vorteil** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

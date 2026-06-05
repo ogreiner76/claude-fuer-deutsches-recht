@@ -1,13 +1,13 @@
 ---
 name: gegenueberstellung-parteivortraege
-description: "Nutze dies, wenn Spezial Gegenueberstellung Zahlen Schwellen Und Berechnung, Spezial Parteivortraege Compliance Dokumentation Und Akte, Spezial Rechtsargumente Internationaler Bezug Und Schnittstellen im Plugin Aktenauszug Gerichtsverfahren konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gegenueberstellung Zahlen Schwellen Und Berechnung, Spezial Parteivortraege Compliance Dokumentation Und Akte, Spezial Rechtsargumente Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gegenueberstellung Zahlen Schwellen Und Berechnung, Spezial Parteivortraege Compliance Dokumentation Und Akte, Spezial Rechtsargumente Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gegenueberstellung Zahlen Schwellen Und Berechnung, Parteivortraege Compliance Dokumentation Und Akte, Rechtsargumente Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Gegenueberstellung Zahlen Schwellen Und Berechnung, Spezial Parteivortraege Compliance Dokumentation Und Akte, Spezial Rechtsargumente Internationaler Bezug Und Schnittstellen
+# Gegenueberstellung Zahlen Schwellen Und Berechnung, Parteivortraege Compliance Dokumentation Und Akte, Rechtsargumente Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gegenueberstellung Zahlen Schwellen Und Berechnung, Parteivortraege Compliance Dokumentation Und Akte, Rechtsargumente Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Gegenueberstellung Zahlen Schwellen Und Berechnung, Spezial Parteivortraege Compliance Dokumentation Und Akte, Spezial Rechtsargumente Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gegenueberstellung Zahlen Schwellen Und Berechnung, Parteivortraege Compliance Dokumentation Und Akte, Rechtsargumente Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Gegenueberstellung Zahlen Schwellen Und Berechnung, Spezial Parte
 # Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung / spezial gegenueberstellung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung / gegenueberstellung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Parteivortraege: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Parteivortraege: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Parteivortraege: Compliance-Dokumentation und Aktenvermerk / spezial parteivortraege compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Parteivortraege: Compliance-Dokumentation und Aktenvermerk / parteivortraege compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Rechtsargumente: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Rechtsargumente: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Rechtsargumente: Internationaler Bezug und Schnittstellen / spezial rechtsargumente internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechtsargumente: Internationaler Bezug und Schnittstellen / rechtsargumente internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

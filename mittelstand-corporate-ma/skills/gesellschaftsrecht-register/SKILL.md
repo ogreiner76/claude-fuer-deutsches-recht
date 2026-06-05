@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsrecht-register
-description: "Nutze dies, wenn Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand Corporate Ma Handelsregisterabruf, Mittelstand Corporate Ma Kg Personengesellschaften, Mittelstand Corporate Ma Ki Governance Berufsrecht im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand Corporate Ma Handelsregisterabruf, Mittelstand Corporate Ma Kg Personengesellschaften, Mittelstand Corporate Ma Ki Governance Berufsrecht prüfen.; Erstelle eine Arbeitsfassung zu Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand Corporate Ma Handelsregisterabruf, Mittelstand Corporate Ma Kg Personengesellschaften, Mittelstand Corporate Ma Ki Governance Berufsrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand Corporate Ma Handelsregisterabruf, Mittelstand Corporate Ma Kg Personengesellschaften, Mittelstand Corporate Ma Ki Governance Berufsrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand Corporate Ma Handelsregisterabruf, Mittelstand Corporate Ma Kg Personengesellschaften, Mittelstand Corporate Ma Ki Governance Berufsrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mittelstand Corporate Ma Gesellschaftsrecht Register, Mittelstand Corporate Ma Handelsregisterabruf, Mittelstand Corporate Ma Kg Personengesellschaften, Mittelstand Corporate Ma Ki Governance Berufsrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -519,7 +519,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zweck
 
-Spezialworkflow fuer KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Haftsumme und Register nach MoPeG und HGB.
+Spezialfuer KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Einlagen, Haftsumme und Register nach MoPeG und HGB.
 
 ## Triage — klaere vor Beginn
 
@@ -573,21 +573,21 @@ KG-CHECKLISTE
 Gesellschaft: [NAME] — HR-Nr.: [HRA XXXX]
 
 EINLAGEN
-  Hafteinlage Kommanditist [NAME]: [BETRAG] EUR
-  Geleistete Einlage: [BETRAG] EUR
-  Einlagenrueckgewaehr geprueft: [ ] JA [ ] NEIN → § 172 IV HGB
+ Hafteinlage Kommanditist [NAME]: [BETRAG] EUR
+ Geleistete Einlage: [BETRAG] EUR
+ Einlagenrueckgewaehr geprueft: [ ] JA [ ] NEIN → § 172 IV HGB
 
 VERTRETUNG
-  Komplementaer: [NAME] — Einzelvertretungsbefugnis: [ ] JA [ ] NEIN
-  Prokura: [NAME]
+ Komplementaer: [NAME] — Einzelvertretungsbefugnis: [ ] JA [ ] NEIN
+ Prokura: [NAME]
 
 ANTEILSUEBERTRAGUNG
-  Zustimmung GV erforderlich: [ ] JA [ ] NEIN
-  Abtretungsvertrag formfrei: [ ] JA — Notarpflicht: [ ] NEIN
+ Zustimmung GV erforderlich: [ ] JA [ ] NEIN
+ Abtretungsvertrag formfrei: [ ] JA — Notarpflicht: [ ] NEIN
 
 REGISTER
-  HR-Eintrag Kommanditistenwechsel: [ ] OK [ ] TODO
-  MoPeG eGbR: [ ] nicht relevant [ ] Eintragung erforderlich bis [DATUM]
+ HR-Eintrag Kommanditistenwechsel: [ ] OK [ ] TODO
+ MoPeG eGbR: [ ] nicht relevant [ ] Eintragung erforderlich bis [DATUM]
 ```
 
 ## Rote Schwellen

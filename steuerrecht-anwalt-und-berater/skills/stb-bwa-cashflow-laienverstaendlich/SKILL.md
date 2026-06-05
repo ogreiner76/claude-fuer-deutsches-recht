@@ -54,29 +54,29 @@ Mandant: [Firma]
 Zeitraum: [Quartal X / 2026]
 
 WAS WURDE LAUFEND VERDIENT?
-+ Jahresueberschuss/-fehlbetrag                [X]
-+ Abschreibungen (kein Cash-Ausfluss)          [X]
-+/- Veraenderung Vorraete und Forderungen     [X]
++ Jahresueberschuss/-fehlbetrag [X]
++ Abschreibungen (kein Cash-Ausfluss) [X]
++/- Veraenderung Vorraete und Forderungen [X]
 +/- Veraenderung Lieferantenverbindlichkeiten [X]
-= LAUFENDER CASHFLOW                          [Y]
+= LAUFENDER CASHFLOW [Y]
 
 WAS WURDE INVESTIERT?
-- Neue Maschinen, Fahrzeuge, IT               [X]
-- Beteiligungen                                [X]
-+ Verkauf Alt-Anlagen                          [X]
-= INVESTITIONS-CASHFLOW                       [-Z]
+- Neue Maschinen, Fahrzeuge, IT [X]
+- Beteiligungen [X]
++ Verkauf Alt-Anlagen [X]
+= INVESTITIONS-CASHFLOW [-Z]
 
 WIE HAT SICH DIE FINANZIERUNG VERAENDERT?
-+ Neue Bankdarlehen                            [X]
-- Tilgung Bankdarlehen                         [X]
-- Ausschuettung Gesellschafter                 [X]
-+ Privateinlage Gesellschafter                 [X]
-= FINANZIERUNGS-CASHFLOW                      [+/- A]
++ Neue Bankdarlehen [X]
+- Tilgung Bankdarlehen [X]
+- Ausschuettung Gesellschafter [X]
++ Privateinlage Gesellschafter [X]
+= FINANZIERUNGS-CASHFLOW [+/- A]
 
-NETTO-CASH-VERAENDERUNG                       [Y - Z +/- A]
+NETTO-CASH-VERAENDERUNG [Y - Z +/- A]
 
-BANK-/KASSE-BESTAND ANFANG                    [X]
-BANK-/KASSE-BESTAND ENDE                      [X]
+BANK-/KASSE-BESTAND ANFANG [X]
+BANK-/KASSE-BESTAND ENDE [X]
 ```
 
 ### Phase 2 — Erklaerung fuer den Mandanten

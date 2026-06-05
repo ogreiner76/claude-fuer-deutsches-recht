@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-026-zweiter-strafrecht-20-titel
-description: "Nutze dies, wenn PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch

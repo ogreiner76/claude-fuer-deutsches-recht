@@ -1,6 +1,6 @@
 ---
 name: unterlagen-luecken
-description: "Nutze dies, wenn Unterlagen und Lücken im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Unterlagen und Lücken: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Unterlagen und Lücken
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Subsumtions Prüfer** ein Fall noch sortie
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `eu-abgrenzung-einschlaegige-normen-einschlaegige-normen` — Eu Abgrenzung Einschlaegige Normen Einschlaegige Normen
 - `eu-vorabentscheidung-falsche-wiese-fehlerklasse-bgb` — Eu Vorabentscheidung Falsche Wiese Fehlerklasse Bgb
 - `gegen-tbm-grundrechte-grch-kandidatenloesung-subsumtion` — Gegen Tbm Grundrechte Grch Kandidatenloesung Subsumtion

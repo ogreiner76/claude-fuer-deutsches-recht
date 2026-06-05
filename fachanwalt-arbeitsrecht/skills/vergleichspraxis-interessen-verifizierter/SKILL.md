@@ -1,13 +1,13 @@
 ---
 name: vergleichspraxis-interessen-verifizierter
-description: "Nutze dies, wenn Spezial Vergleichspraxis Mehrparteien Konflikt Und Interessen, Spezial Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Vergleichspraxis Mehrparteien Konflikt Und Interessen, Spezial Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg prüfen.; Erstelle eine Arbeitsfassung zu Spezial Vergleichspraxis Mehrparteien Konflikt Und Interessen, Spezial Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vergleichspraxis Mehrparteien Konflikt Und Interessen, Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Vergleichspraxis Mehrparteien Konflikt Und Interessen, Spezial Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg
+# Vergleichspraxis Mehrparteien Konflikt Und Interessen, Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vergleichspraxis Mehrparteien Konflikt Und Interessen, Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,11 +15,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen` | Vergleichspraxis bei Mehrparteienkonstellationen und komplexen Interessenlagen: Dreiparteienvergleich (AG, AN, BR), Sozialplanverhandlung, Interessenausgleich § 111 BetrVG, Vergleich mit Namensliste § 1 Abs. 5 KSchG, kollektive und individuelle Vergleichsstrategie. |
 | `spezial-verifizierter-mandantenentscheidung` | Verifizierte Mandantenentscheidung: strukturierter Entscheidungsprozess für Mandanten vor rechtlich verbindlichen Schritten — Klage, Aufhebungsvertrag, Vergleich, Widerspruch. Aufklärungspflicht des Anwalts, Dokumentation der Entscheidung, Informed Consent. |
-| `entgeltgleichheit-paarvergleich-agg-entgtranspg` | Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüfworkflow für Equal Pay, variable Vergütung, Vergleichsperson, § 22 AGG, EntgTranspG und Dokumentationsstrategie um. |
+| `entgeltgleichheit-paarvergleich-agg-entgtranspg` | Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, § 22 AGG, EntgTranspG und Dokumentationsstrategie um. |
 
 ## Arbeitsweg
 
-Für **Spezial Vergleichspraxis Mehrparteien Konflikt Und Interessen, Spezial Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vergleichspraxis Mehrparteien Konflikt Und Interessen, Verifizierter Mandantenentscheidung, Entgeltgleichheit Paarvergleich Agg Entgtranspg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,7 +42,7 @@ Für **Spezial Vergleichspraxis Mehrparteien Konflikt Und Interessen, Spezial Ve
 ## Zweck
 Strategische Begleitung bei Vergleichen mit mehreren Beteiligten oder komplexen Interessenlagen — insbesondere bei Restrukturierungen, Sozialplan-Verhandlungen und kollektivrechtlichen Einigungen mit individualrechtlichen Folgen.
 
-## Kaltstart
+## Einstieg
 Wenn eine Mehrparteien- oder komplexe Vergleichskonstellation vorliegt, zuerst klären:
 
 1. **Wer sind die Beteiligten?** AG, AN(e), BR, Gewerkschaft, Insolvenzverwalter?
@@ -150,7 +150,7 @@ In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich
 ## Zweck
 Sicherstellung, dass der Mandant eine informierte, eigenverantwortliche Entscheidung trifft, bevor der Anwalt rechtsverbindliche Schritte unternimmt. Dieser Skill schützt vor Haftungsrisiken und stärkt die Vertrauensbasis.
 
-## Kaltstart
+## Einstieg
 Wenn eine wichtige rechtliche Entscheidung ansteht (Klageerhebung, Aufhebungsvertrag, Widerspruch), zuerst klären:
 
 1. **Welche Entscheidung steht an?** (Klage, Vergleich, Aufhebungsvertrag, Widerspruch Betriebsübergang?)
@@ -241,7 +241,7 @@ Wenn der Mandant eine Entscheidung treffen will, die nach Einschätzung des Anwa
 
 ## 3. `entgeltgleichheit-paarvergleich-agg-entgtranspg`
 
-**Fokus:** Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüfworkflow für Equal Pay, variable Vergütung, Vergleichsperson, § 22 AGG, EntgTranspG und Dokumentationsstrategie um.
+**Fokus:** Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen arbeitsrechtlichen Prüffür Equal Pay, variable Vergütung, Vergleichsperson, § 22 AGG, EntgTranspG und Dokumentationsstrategie um.
 
 # Entgeltgleichheit: Paarvergleich, Bonus, Phantom Shares und Beweislast
 

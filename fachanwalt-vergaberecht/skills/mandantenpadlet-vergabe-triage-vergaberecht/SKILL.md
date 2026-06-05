@@ -1,13 +1,13 @@
 ---
 name: mandantenpadlet-vergabe-triage-vergaberecht
-description: "Nutze dies, wenn Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft prüfen.; Erstelle eine Arbeitsfassung zu Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -244,21 +244,21 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ```
 TRIAGE-PROTOKOLL Vergaberecht
 =========================================
-Eingangsdatum:              [TT.MM.JJJJ]
-Mandant:                    [NAME / UNTERNEHMEN]
-Vergabeverfahren:           [BEZEICHNUNG, TED-NR.]
-Auftragsgegenstand:         [LIEFERUNG / DIENSTLEISTUNG / BAU]
-Auftragswert (geschaetzt):  EUR [BETRAG]
-EU-Schwellenwert:           UEBERSCHRITTEN / NICHT UEBERSCHRITTEN
-Mandantenrolle:             [Bieter / Auftraggeber / Beigeladene]
-Verstoss:                   [WERTUNG / EIGNUNG / DISKRIMINIERUNG ...]
-Kenntnisdatum:              [TT.MM.JJJJ]
-Ruegeobliegenheit-Frist:    [TT.MM.JJJJ]
+Eingangsdatum: [TT.MM.JJJJ]
+Mandant: [NAME / UNTERNEHMEN]
+Vergabeverfahren: [BEZEICHNUNG, TED-NR.]
+Auftragsgegenstand: [LIEFERUNG / DIENSTLEISTUNG / BAU]
+Auftragswert (geschaetzt): EUR [BETRAG]
+EU-Schwellenwert: UEBERSCHRITTEN / NICHT UEBERSCHRITTEN
+Mandantenrolle: [Bieter / Auftraggeber / Beigeladene]
+Verstoss: [WERTUNG / EIGNUNG / DISKRIMINIERUNG ...]
+Kenntnisdatum: [TT.MM.JJJJ]
+Ruegeobliegenheit-Frist: [TT.MM.JJJJ]
 Informationsschreiben §134: [JA vom DATUM / NEIN]
-Stillhaltefrist bis:        [DATUM]
-Zuschlag erteilt:           JA / NEIN
-Prioritaet:                 ROT (Sofort) / GELB / GRUEN
-Naechster Schritt:          [Ruege / NPA / §181-Klage]
+Stillhaltefrist bis: [DATUM]
+Zuschlag erteilt: JA / NEIN
+Prioritaet: ROT (Sofort) / GELB / GRUEN
+Naechster Schritt: [Ruege / NPA / §181-Klage]
 =========================================
 ```
 

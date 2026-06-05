@@ -1,13 +1,13 @@
 ---
 name: persoenlichkeitsrechte-schnittstelle
-description: "Nutze dies, wenn Spezial Persoenlichkeitsrechte Formular Portal Und Einreichung, Spezial Schnittstelle Mandantenentscheidung, Spezial Spielervertraege Verhandlung Vergleich Und Eskalation im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Persoenlichkeitsrechte Formular Portal Und Einreichung, Spezial Schnittstelle Mandantenentscheidung, Spezial Spielervertraege Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Persoenlichkeitsrechte Formular Portal Und Einreichung, Spezial Schnittstelle Mandantenentscheidung, Spezial Spielervertraege Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Persoenlichkeitsrechte Formular Portal Und Einreichung, Schnittstelle Mandantenentscheidung, Spielervertraege Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Persoenlichkeitsrechte Formular Portal Und Einreichung, Spezial Schnittstelle Mandantenentscheidung, Spezial Spielervertraege Verhandlung Vergleich Und Eskalation
+# Persoenlichkeitsrechte Formular Portal Und Einreichung, Schnittstelle Mandantenentscheidung, Spielervertraege Verhandlung Vergleich Und Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Persoenlichkeitsrechte Formular Portal Und Einreichung, Schnittstelle Mandantenentscheidung, Spielervertraege Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Persoenlichkeitsrechte Formular Portal Und Einreichung, Spezial Schnittstelle Mandantenentscheidung, Spezial Spielervertraege Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sportrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Persoenlichkeitsrechte Formular Portal Und Einreichung, Schnittstelle Mandantenentscheidung, Spielervertraege Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sportrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Persoenlichkeitsrechte Formular Portal Und Einreichung, Spezial S
 # Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik / spezial persoenlichkeitsrechte formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik / persoenlichkeitsrechte formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage / spezial schnittstelle mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage / schnittstelle mandantenentscheidung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Spielervertraege: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Spielervertraege: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Spielervertraege: Verhandlung, Vergleich und Eskalation / spezial spielervertraege verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Spielervertraege: Verhandlung, Vergleich und Eskalation / spielervertraege verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

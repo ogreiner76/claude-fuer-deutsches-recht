@@ -1,13 +1,13 @@
 ---
 name: mandat-triage-nachtragsmanagement-650b
-description: "Nutze dies, wenn Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Spezial Architektenrecht Tatbestand Beweis Und Belege im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Spezial Architektenrecht Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Spezial Architektenrecht Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650b, Schriftsatzkern Substantiierung, Architektenrecht Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Spezial Architektenrecht Tatbestand Beweis Und Belege
+# Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Architektenrecht Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Architektenrecht Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Spezial Architektenrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650B, Schriftsatzkern Substantiierung, Architektenrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -215,7 +215,7 @@ Live-Verifikation Pflicht ueber dejure.org / bundesgerichtshof.de / olg-...nrw.d
 
 ## Prüfschema — Nachtragsanspruch im Überblick
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Folge |
@@ -272,37 +272,37 @@ Live-Verifikation Pflicht ueber dejure.org / bundesgerichtshof.de / olg-...nrw.d
 Nachtragsposition — Selbstkostenkalkulation
 
 I. Lohnkosten
-   Stundenanzahl:        [X] h
-   Stundensatz brutto:   EUR [Y]/h (inkl. SV-Anteile + Zulagen)
-   Gesamt:               EUR [A]
+ Stundenanzahl: [X] h
+ Stundensatz brutto: EUR [Y]/h (inkl. SV-Anteile + Zulagen)
+ Gesamt: EUR [A]
 
 II. Materialkosten
-   Einkaufspreise:       EUR [B] netto
-   Lager-/Handlingszuschlag [5–10 %]: EUR [C]
-   Gesamt:               EUR [D]
+ Einkaufspreise: EUR [B] netto
+ Lager-/Handlingszuschlag [5–10 %]: EUR [C]
+ Gesamt: EUR [D]
 
 III. Gerätekosten
-   Mietkosten/AfA:       EUR [E] (Geräteliste)
-   Betriebskosten:       EUR [F]
-   Gesamt:               EUR [G]
+ Mietkosten/AfA: EUR [E] (Geräteliste)
+ Betriebskosten: EUR [F]
+ Gesamt: EUR [G]
 
 IV. Nachunternehmerkosten
-   NU-Angebot netto:     EUR [H]
-   Verwaltungszuschlag [5 %]: EUR [I]
-   Gesamt:               EUR [J]
+ NU-Angebot netto: EUR [H]
+ Verwaltungszuschlag [5 %]: EUR [I]
+ Gesamt: EUR [J]
 
 V. Allgemeine Geschäftskosten (AGK)
-   Prozentsatz aus Ursprungsangebot: [X]%
-   Basis: I+II+III+IV =  EUR [K]
-   AGK [X]%:             EUR [L]
+ Prozentsatz aus Ursprungsangebot: [X]%
+ Basis: I+II+III+IV = EUR [K]
+ AGK [X]%: EUR [L]
 
 VI. Wagnis und Gewinn (WuG)
-   Prozentsatz aus Ursprungsangebot: [X]%
-   WuG:                  EUR [M]
+ Prozentsatz aus Ursprungsangebot: [X]%
+ WuG: EUR [M]
 
-GESAMTNETTO:              EUR [Summe]
-USt 19%:                  EUR [Summe]
-GESAMTBRUTTO:             EUR [Summe]
+GESAMTNETTO: EUR [Summe]
+USt 19%: EUR [Summe]
+GESAMTBRUTTO: EUR [Summe]
 ```
 
 ### Massenänderung VOB/B § 2 Abs. 7
@@ -392,12 +392,12 @@ folgende Behinderung der Bauausführung an:
 
 I. Sachverhalt
 Beginn der Behinderung: [Datum, Uhrzeit]
-Ursache:                [konkrete Beschreibung — z.B. fehlende
-                         Planlieferung Ausführungsplan Nr. XX,
-                         nicht fertiggestelltes Vorgewerk Gewerk Y,
-                         Anordnung Auftraggeber vom [Datum]]
-Betroffenes Gewerk:     [Bezeichnung]
-Auswirkung:             Vollständiger Stillstand / Teilstillstand
+Ursache: [konkrete Beschreibung — z.B. fehlende
+ Planlieferung Ausführungsplan Nr. XX,
+ nicht fertiggestelltes Vorgewerk Gewerk Y,
+ Anordnung Auftraggeber vom [Datum]]
+Betroffenes Gewerk: [Bezeichnung]
+Auswirkung: Vollständiger Stillstand / Teilstillstand
 
 II. Voraussichtliche Folgen
 1. Bauzeitverlängerung voraussichtlich [Anzahl] Werktage (§ 6 Abs. 2 VOB/B)
@@ -431,15 +431,15 @@ Anlass:
 Kalkulationsgrundlage: Selbstkosten nach § 650c Abs. 1 BGB
 [alternativ: Kalkulationsgrundlage Ursprungsangebot nach § 2 Abs. 5 VOB/B]
 
-Pos. | Leistungsbeschreibung        | Menge  | Einheit | EP (EUR) | GP (EUR)
+Pos. | Leistungsbeschreibung | Menge | Einheit | EP (EUR) | GP (EUR)
 -----|------------------------------|--------|---------|----------|----------
-001  | [Beschreibung Mehrleistung]  | [X]    | [m²/h]  | [Y]      | [Z]
-002  | [Beschreibung Mehrleistung]  | [X]    | [Stk]   | [Y]      | [Z]
+001 | [Beschreibung Mehrleistung] | [X] | [m²/h] | [Y] | [Z]
+002 | [Beschreibung Mehrleistung] | [X] | [Stk] | [Y] | [Z]
 ...
 
-Gesamtnetto:         EUR [Summe]
-Umsatzsteuer 19%:    EUR [Summe]
-Gesamtbrutto:        EUR [Summe]
+Gesamtnetto: EUR [Summe]
+Umsatzsteuer 19%: EUR [Summe]
+Gesamtbrutto: EUR [Summe]
 
 Bauzeitverlängerung: [Anzahl] Werktage gemäß anliegender Bauablaufanalyse.
 
@@ -766,18 +766,18 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 III. Mangelhaftigkeit des Werks — § 633 Abs. 2 BGB
 
 1. Vertragswidriger Zustand
-   Am [DATUM] stellte unsere Mandantschaft folgende Mängel fest:
-   a) [MANGEL 1]: [KONKRETE BESCHREIBUNG], Fotos als Anlage K[X]
-   b) [MANGEL 2]: [BESCHREIBUNG], Privatgutachten SV [NAME] als Anlage K[Y]
+ Am [DATUM] stellte unsere Mandantschaft folgende Mängel fest:
+ a) [MANGEL 1]: [KONKRETE BESCHREIBUNG], Fotos als Anlage K[X]
+ b) [MANGEL 2]: [BESCHREIBUNG], Privatgutachten SV [NAME] als Anlage K[Y]
 
 2. Nacherfüllungsverlangen und Fristsetzung
-   Mit Schreiben vom [DATUM] (Anlage K[Z]) forderte unsere Mandantschaft zur Nacherfüllung
-   auf und setzte Frist bis zum [DATUM]. Die Frist verstrich ergebnislos.
+ Mit Schreiben vom [DATUM] (Anlage K[Z]) forderte unsere Mandantschaft zur Nacherfüllung
+ auf und setzte Frist bis zum [DATUM]. Die Frist verstrich ergebnislos.
 
 3. Kostenvorschuss § 637 Abs. 3 BGB
-   Der Kostenvorschuss berechnet sich wie folgt: [BERECHNUNG NACH PRIVATGUTACHTEN].
-   Beweis: Sachverständigengutachten [NAME] (Anlage K[Y]); Zeugin [NAME] (Adresse) zum
-   Beweisthema: Fristsetzung und fruchtloser Ablauf.
+ Der Kostenvorschuss berechnet sich wie folgt: [BERECHNUNG NACH PRIVATGUTACHTEN].
+ Beweis: Sachverständigengutachten [NAME] (Anlage K[Y]); Zeugin [NAME] (Adresse) zum
+ Beweisthema: Fristsetzung und fruchtloser Ablauf.
 ```
 
 --- vor Versand klaeren ---
@@ -798,7 +798,7 @@ Aktenzeichen geprueft und korrigiert:
 # Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial architektenrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / architektenrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

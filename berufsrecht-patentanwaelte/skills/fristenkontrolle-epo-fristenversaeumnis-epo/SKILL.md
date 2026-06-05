@@ -1,13 +1,13 @@
 ---
 name: fristenkontrolle-epo-fristenversaeumnis-epo
-description: "Nutze dies, wenn Patentanwaelte Fristenkontrolle Epo Dpma Rechtsprechungscheck U, Patentanwaelte Fristenversaeumnis Epo Restitutio Rechtsprechung, Patentanwaelte Gebühren Und Kostentransparenz Rechtsprechungsc, Patentanwaelte Geldwaesche Bei Ip Transaktionen Rechtsprechungs, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Rechtsprechungs im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Fristenkontrolle Epo Dpma Rechtsprechungscheck U, Patentanwaelte Fristenversaeumnis Epo Restitutio Rechtsprechung, Patentanwaelte Gebühren Und Kostentransparenz Rechtsprechungsc, Patentanwaelte Geldwaesche Bei Ip Transaktionen Rechtsprechungs, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Rechtsprechungs prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Fristenkontrolle Epo Dpma Rechtsprechungscheck U, Patentanwaelte Fristenversaeumnis Epo Restitutio Rechtsprechung, Patentanwaelte Gebühren Und Kostentransparenz Rechtsprechungsc, Patentanwaelte..."
+description: "Nutze dies bei Patentanwaelte Fristenkontrolle Epo Dpma Rechtsprechungscheck U, Patentanwaelte Fristenversaeumnis Epo Restitutio Rechtsprechung, Patentanwaelte Gebuehren Und Kostentransparenz Rechtsprechungsc, Patentanwaelte Geldwaesche Bei Ip Transaktionen Rechtsprechungs: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Fristenkontrolle Epo Dpma Rechtsprechungscheck U, Patentanwaelte Fristenversaeumnis Epo Restitutio Rechtsprechung, Patentanwaelte Gebühren Und Kostentransparenz Rechtsprechungsc, Patentanwaelte Geldwaesche Bei Ip Transaktionen Rechtsprechungs, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Rechtsprechungs
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Fristenkontrolle Epo Dpma Rechtsprechungscheck U, Patentanwaelte Fristenversaeumnis Epo Restitutio Rechtsprechung, Patentanwaelte Gebühren Und Kostentransparenz Rechtsprechungsc, Patentanwaelte Geldwaesche Bei Ip Transaktionen Rechtsprechungs, Patentanwaelte Grenze Zur Rechtsanwaltsberatung Rechtsprechungs** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

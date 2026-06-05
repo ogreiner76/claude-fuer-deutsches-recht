@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Europarecht Kompass konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Europarecht Kompass** ein Fall noch sortie
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `beihilfen-drafting-europarecht` — Beihilfen Drafting Europarecht
 - `er-vorlageverfahren-eur-kommissionsverfahren-eur-mandant` — Er Vorlageverfahren Eur Kommissionsverfahren Eur Mandant
 - `eur-anrufung-eur-state-beihilfen-vergaben` — Eur Anrufung Eur State Beihilfen Vergaben

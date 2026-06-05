@@ -1,6 +1,6 @@
 ---
 name: klagewerkstatt
-description: "Nutze dies, wenn Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel

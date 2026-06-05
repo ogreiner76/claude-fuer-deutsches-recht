@@ -1,21 +1,21 @@
 ---
 name: unternehmerverkehr-abs1-schnellcheck-user
-description: "Nutze dies, wenn Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User Content Moderation, Vdug Abhilfeklage Agb Schnittstelle, Verbraucherbesonderheiten 310 Abs3 im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User Content Moderation, Vdug Abhilfeklage Agb Schnittstelle, Verbraucherbesonderheiten 310 Abs3 prüfen.; Erstelle eine Arbeitsfassung zu Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User Content Moderation, Vdug Abhilfeklage Agb Schnittstelle, Verbraucherbesonderheiten 310 Abs3.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User Content Moderation, Vdug Abhilfeklage Agb Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User Content Moderation, Vdug Abhilfeklage Agb Schnittstelle, Verbraucherbesonderheiten 310 Abs3
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Unternehmerverkehr 310 Abs1, Unternehmerverkehr Schnellcheck, User Content Moderation, Vdug Abhilfeklage Agb Schnittstelle, Verbraucherbesonderheiten 310 Abs3** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `unternehmerverkehr-310-abs1` | Norm- und Dogmatik-Skill für Unternehmerverkehr 310 Abs. 1: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `unternehmerverkehr-schnellcheck` | Einstiegs- und Workflow-Skill für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
-| `user-content-moderation` | Klausel-Spezialskill für User Content Moderation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `unternehmerverkehr-schnellcheck` | Einstiegs- und Arbeitsmodul für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `user-content-moderation` | Klausel-Fachmodul für User Content Moderation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `vdug-abhilfeklage-agb-schnittstelle` | Norm- und Dogmatik-Skill für VDuG Abhilfeklage AGB Schnittstelle: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `verbraucherbesonderheiten-310-abs3` | Norm- und Dogmatik-Skill für Verbraucherbesonderheiten 310 Abs. 3: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `unternehmerverkehr-schnellcheck`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Unternehmerverkehr Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Unternehmerverkehr Schnellcheck
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `user-content-moderation`
 
-**Fokus:** Klausel-Spezialskill für User Content Moderation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für User Content Moderation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # User Content Moderation
 

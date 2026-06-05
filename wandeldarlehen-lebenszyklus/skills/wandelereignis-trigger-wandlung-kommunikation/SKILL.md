@@ -1,13 +1,13 @@
 ---
 name: wandelereignis-trigger-wandlung-kommunikation
-description: "Nutze dies, wenn Wandelereignis Trigger Dispatcher, Wandlung Kommunikation Paketverteilung im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Bitte Wandelereignis Trigger Dispatcher, Wandlung Kommunikation Paketverteilung prüfen.; Erstelle eine Arbeitsfassung zu Wandelereignis Trigger Dispatcher, Wandlung Kommunikation Paketverteilung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wandelereignis Trigger Dispatcher, Wandlung Kommunikation Paketverteilung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wandelereignis Trigger Dispatcher, Wandlung Kommunikation Paketverteilung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wandelereignis Trigger Dispatcher, Wandlung Kommunikation Paketverteilung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -231,28 +231,28 @@ Eingangs-Pruefung:
 2. Vertrags-Klausel zur Prioritaet existent?
 
 Wenn nur ein Trigger:
-   Weiterleitung an einzelnen Trigger-Skill
+ Weiterleitung an einzelnen Trigger-Skill
 
 Wenn mehrere Trigger parallel:
-   Vertrags-Klausel Prioritaet:
-     "First to Close"      → naechster abschliessender Trigger
-     "Lender Option"       → MIN-Preis-Berechnung pro Trigger
-                              + Lender-Wahl
-     "MIN-Preis-Formel"    → Vergleichs-Berechnung
-                              + automatische Wahl
-     Vertragsluecke         → Auslegungs-Empfehlung
-                              + Klage-Risiko-Warnung
+ Vertrags-Klausel Prioritaet:
+ "First to Close" → naechster abschliessender Trigger
+ "Lender Option" → MIN-Preis-Berechnung pro Trigger
+ + Lender-Wahl
+ "MIN-Preis-Formel" → Vergleichs-Berechnung
+ + automatische Wahl
+ Vertragsluecke → Auslegungs-Empfehlung
+ + Klage-Risiko-Warnung
 
 Wenn Maturity + Insolvenz:
-   Sonderpruefung Rangruecktritt
-   + Anfechtungs-Risiko
-   + Skill Schnittstelle zu Insolvenz
+ Sonderpruefung Rangruecktritt
+ + Anfechtungs-Risiko
+ + Skill Schnittstelle zu Insolvenz
 
 Cap-Table-Simulation pro Option:
-   - Pre-Money / Post-Money
-   - Lender-Anteils-Quote
-   - Verwaesserungs-Effekt Gruender
-   - Vergleichs-Tabelle aller Optionen
+ - Pre-Money / Post-Money
+ - Lender-Anteils-Quote
+ - Verwaesserungs-Effekt Gruender
+ - Vergleichs-Tabelle aller Optionen
 ```
 
 ## Schritt 8 — Output-Empfehlung an Mandant
@@ -264,7 +264,7 @@ Cap-Table-Simulation pro Option:
 2. Vertrags-Klausel-Pruefung: Prioritaets-Regelung?
 3. Cap-Table-Simulation alle Trigger-Optionen
 4. Empfehlung guenstigste Option (Lender-Sicht)
-   oder strategischste Option (Gesellschaft-Sicht)
+ oder strategischste Option (Gesellschaft-Sicht)
 5. Form-Anforderungen § 15 GmbHG iVm zu Wandlung
 6. Zeit-Plan und naechste Schritte
 7. Risiko-Hinweise (Anfechtung Insolvenz Steuer)
@@ -283,13 +283,13 @@ Cap-Table-Simulation pro Option:
 ```
 Tag -30: Qualified Financing Term Sheet
 Tag -14: Maturity Frist beginnt Zwei-Wochen-Mahnung
-Tag 0:   Maturity-Zeitpunkt
+Tag 0: Maturity-Zeitpunkt
 
 Strategie Lender:
 - Vor Tag -14 entscheiden ob Maturity-Wandlung guenstiger
 - Sonst auf Qualified Financing warten
 - Beachten: bei Cap unter Qualified Financing
-  Pre-Money → Qualified Financing automatisch besser
+ Pre-Money → Qualified Financing automatisch besser
 
 Strategie Gesellschaft:
 - Maturity nicht unnoetig durch Verzoegerung gefaehrden
@@ -412,11 +412,11 @@ Alle Schreiben mit Sendenachweis archivieren (Textform-Anforderung). Kommunikati
 Buchungstag: [Eintragungsdatum Handelsregister]
 
 Soll:
-  Verbindlichkeit Wandeldarlehen Northstar:     EUR 275694
+ Verbindlichkeit Wandeldarlehen Northstar: EUR 275694
 
 Haben:
-  Gezeichnetes Kapital (§ 272 Abs. 1 HGB):     EUR 7
-  Kapitalrücklage (§ 272 Abs. 2 Nr. 4 HGB):    EUR 275687
+ Gezeichnetes Kapital (§ 272 Abs. 1 HGB): EUR 7
+ Kapitalrücklage (§ 272 Abs. 2 Nr. 4 HGB): EUR 275687
 ```
 
 ## Risiken und Red Flags

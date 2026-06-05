@@ -1,6 +1,6 @@
 ---
 name: lagerbedingungen
-description: "Branchen-Spezialskill für Lagerbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Lagerbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Lagerbedingungen

@@ -1,13 +1,13 @@
 ---
 name: spenden-zuwendungsbestaetigung-sportverein
-description: "Nutze dies, wenn Spenden Zuwendungsbestaetigung, Sportverein, Tagesordnung Erstellen im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Bitte Spenden Zuwendungsbestaetigung, Sportverein, Tagesordnung Erstellen prüfen.; Erstelle eine Arbeitsfassung zu Spenden Zuwendungsbestaetigung, Sportverein, Tagesordnung Erstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Spenden Zuwendungsbestaetigung, Sportverein, Tagesordnung Erstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Spenden Zuwendungsbestaetigung, Sportverein, Tagesordnung Erstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Spenden Zuwendungsbestaetigung, Sportverein, Tagesordnung Erstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Spenden Zuwendungsbestaetigung, Sportverein, Tagesordnung Erstellen** zue
 ## Aufgabe
 Prüft Geld-/Sachspenden, Spendenquittung, Aufwandsspende, Sponsoring-Abgrenzung und Haftung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Spezialfragen Sportverein: Abteilungen, Trainer, Minderjährige, Schutzkonzept, Hallenzeiten, Verbandsrecht, Beiträge.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Baut klare Tagesordnung mit Beschlussgegenständen, Wahlen, Berichten, Entlastung, Satzungsänderungen und Anträgen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,13 +1,13 @@
 ---
 name: angestellter-nebentaetigkeit
-description: "Nutze dies, wenn Steuerberater Angestellter Steuerberater Nebentaetigkeit Organi, Steuerberater Angestellter Steuerberater Nebentaetigkeit Rechts, Steuerberater Auslagerung An Freie Mitarbeiter Kammerantwort Un, Steuerberater Auslagerung An Freie Mitarbeiter Organisationspfl im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Angestellter Steuerberater Nebentaetigkeit Organi, Steuerberater Angestellter Steuerberater Nebentaetigkeit Rechts, Steuerberater Auslagerung An Freie Mitarbeiter Kammerantwort Un, Steuerberater Auslagerung An Freie Mitarbeiter Organisationspfl prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Angestellter Steuerberater Nebentaetigkeit Organi, Steuerberater Angestellter Steuerberater Nebentaetigkeit Rechts, Steuerberater Auslagerung An Freie Mitarbeiter Kammerantwort Un, Steuerberater Auslagerung An Freie Mitarbeiter Organisationspfl.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Steuerberater Angestellter Steuerberater Nebentaetigkeit Organi, Steuerberater Angestellter Steuerberater Nebentaetigkeit Rechts, Steuerberater Auslagerung An Freie Mitarbeiter Kammerantwort Un, Steuerberater Auslagerung An Freie Mitarbeiter Organisationspfl: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Angestellter Steuerberater Nebentaetigkeit Organi, Steuerberater Angestellter Steuerberater Nebentaetigkeit Rechts, Steuerberater Auslagerung An Freie Mitarbeiter Kammerantwort Un, Steuerberater Auslagerung An Freie Mitarbeiter Organisationspfl
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Angestellter Steuerberater Nebentaetigkeit Organi, Steuerberater Angestellter Steuerberater Nebentaetigkeit Rechts, Steuerberater Auslagerung An Freie Mitarbeiter Kammerantwort Un, Steuerberater Auslagerung An Freie Mitarbeiter Organisationspfl** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

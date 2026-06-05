@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Email Umformulierer Berufsrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Email Umformulierer Berufsrecht** ein Fall
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `allgemeine-berufliche-korrespondenz` — Allgemeine Berufliche Korrespondenz
 - `allgemeine-sonderfall-berufsrechtskonform-bora` — Allgemeine Sonderfall Berufsrechtskonform Bora
 - `anrede-und-grussformeln` — Anrede Und Grussformeln

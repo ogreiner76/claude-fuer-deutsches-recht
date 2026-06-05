@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-musterprotokoll-vs
-description: "Nutze dies, wenn Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Musterprotokoll Vs Satzung, Gesellschaftsgruender Notar Vorbereitung, Gesellschaftsgruender Notarbriefing Onepager, Gesellschaftsgruender One Page Roadmap: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Musterprotokoll Vs Satzung, Gesellschaftsgründer Notar Vorbereitung, Gesellschaftsgründer Notarbriefing Onepager, Gesellschaftsgründer One Page Roadmap, Gesellschaftsgründer Online Gruendung Dirug** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -191,11 +191,11 @@ ZU ORGANISIEREN VOR TERMIN
 
 ZEITPLAN
 T-14: Notar gebucht
-T-7:  Satzungsentwurf finalisiert
-T-3:  Vorabentwurf Notar geprüft
-T-2:  Stammkapital überwiesen
-T-0:  Beurkundung
-T+1:  Notar meldet beim HR an (Einzahlungsbeleg vorab senden)
+T-7: Satzungsentwurf finalisiert
+T-3: Vorabentwurf Notar geprüft
+T-2: Stammkapital überwiesen
+T-0: Beurkundung
+T+1: Notar meldet beim HR an (Einzahlungsbeleg vorab senden)
 T+14: HR-Eintragung erwartet (Gesellschaft entsteht)
 T+14: Gewerbeanmeldung + Finanzamt-Fragebogen
 ```

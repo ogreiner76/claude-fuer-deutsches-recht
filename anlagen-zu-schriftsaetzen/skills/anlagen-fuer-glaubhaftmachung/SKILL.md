@@ -1,6 +1,6 @@
 ---
 name: anlagen-fuer-glaubhaftmachung
-description: "Spezialworkflow für Eilverfahren: Anlagen, eidesstattliche Versicherung, Screenshots, E-Mails, Fotos und Glaubhaftmachungsdichte nach § 294 ZPO ordnen."
+description: "Spezialfür Eilverfahren: Anlagen, eidesstattliche Versicherung, Screenshots, E-Mails, Fotos und Glaubhaftmachungsdichte nach § 294 ZPO ordnen."
 ---
 
 # Anlagen für Glaubhaftmachung

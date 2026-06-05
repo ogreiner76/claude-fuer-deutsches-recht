@@ -1,23 +1,23 @@
 ---
 name: arbeitsrecht-agb-architekten-ingenieur
-description: "Nutze dies, wenn Arbeitsrecht Agb 310 Abs4, Architekten Ingenieur Agb, Auditrechte, Aufrechnung Zurueckbehaltung 309, Automatische Verlaengerung im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Arbeitsrecht Agb 310 Abs4, Architekten Ingenieur Agb, Auditrechte, Aufrechnung Zurueckbehaltung 309, Automatische Verlaengerung prüfen.; Erstelle eine Arbeitsfassung zu Arbeitsrecht Agb 310 Abs4, Architekten Ingenieur Agb, Auditrechte, Aufrechnung Zurueckbehaltung 309, Automatische Verlaengerung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arbeitsrecht Agb 310 Abs4, Architekten Ingenieur Agb, Auditrechte, Aufrechnung Zurueckbehaltung 309: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arbeitsrecht Agb 310 Abs4, Architekten Ingenieur Agb, Auditrechte, Aufrechnung Zurueckbehaltung 309, Automatische Verlaengerung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitsrecht Agb 310 Abs4, Architekten Ingenieur Agb, Auditrechte, Aufrechnung Zurueckbehaltung 309, Automatische Verlaengerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitsrecht-agb-310-abs4` | Norm- und Dogmatik-Skill für Arbeitsrecht AGB 310 Abs. 4: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `architekten-ingenieur-agb` | Branchen-Spezialskill für Architekten Ingenieur AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `auditrechte` | Klausel-Spezialskill für Auditrechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `architekten-ingenieur-agb` | Branchen-Fachmodul für Architekten Ingenieur AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `auditrechte` | Klausel-Fachmodul für Auditrechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `aufrechnung-zurueckbehaltung-309` | Norm- und Dogmatik-Skill für Aufrechnung Zurückbehaltung 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `automatische-verlaengerung` | Klausel-Spezialskill für Automatische Verlängerung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `automatische-verlaengerung` | Klausel-Fachmodul für Automatische Verlängerung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `architekten-ingenieur-agb`
 
-**Fokus:** Branchen-Spezialskill für Architekten Ingenieur AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Architekten Ingenieur AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Architekten Ingenieur AGB
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `auditrechte`
 
-**Fokus:** Klausel-Spezialskill für Auditrechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Auditrechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Auditrechte
 
@@ -219,10 +219,10 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 309 Nr. 3 BGB (Aufrechnungsverbot) und Zurückbehaltungsrecht:**
-   - **§ 309 Nr. 3 BGB:** Im B2C ist Aufrechnungsverbot für unbestrittene oder rechtskräftig festgestellte Forderungen unwirksam. Nicht erfasst: Klausel, die nur "unstreitige oder rechtskräftig festgestellte" Gegenforderungen zulässt.
-   - **B2B-Ausstrahlung:** § 309 Nr. 3 BGB strahlt über § 307 BGB ins B2B aus. Auch im B2B muss die Aufrechnung mit unbestrittenen oder rechtskräftig festgestellten Forderungen möglich bleiben (BGH, ständige Rechtsprechung).
-   - **Zurückbehaltungsrecht § 273 BGB:** Vollständiger Ausschluss bei B2C unwirksam (§ 309 Nr. 2 BGB; § 307 BGB). Beschränkung auf Gegenrechte aus demselben Vertragsverhältnis kann angemessen sein (umgekehrt: Beschränkung des Zurückbehaltungsrechts aus § 320 BGB beim gegenseitigen Vertrag stets unwirksam).
-   - **Häufiger Fehler:** "Eine Aufrechnung ist ausgeschlossen, es sei denn, die Gegenforderung ist unbestritten oder rechtskräftig festgestellt" - im Ergebnis zulässig, weil sie das Mindestmaß einhält. Komplettausschluss dagegen unwirksam.
+ - **§ 309 Nr. 3 BGB:** Im B2C ist Aufrechnungsverbot für unbestrittene oder rechtskräftig festgestellte Forderungen unwirksam. Nicht erfasst: Klausel, die nur "unstreitige oder rechtskräftig festgestellte" Gegenforderungen zulässt.
+ - **B2B-Ausstrahlung:** § 309 Nr. 3 BGB strahlt über § 307 BGB ins B2B aus. Auch im B2B muss die Aufrechnung mit unbestrittenen oder rechtskräftig festgestellten Forderungen möglich bleiben (BGH, ständige Rechtsprechung).
+ - **Zurückbehaltungsrecht § 273 BGB:** Vollständiger Ausschluss bei B2C unwirksam (§ 309 Nr. 2 BGB; § 307 BGB). Beschränkung auf Gegenrechte aus demselben Vertragsverhältnis kann angemessen sein (umgekehrt: Beschränkung des Zurückbehaltungsrechts aus § 320 BGB beim gegenseitigen Vertrag stets unwirksam).
+ - **Häufiger Fehler:** "Eine Aufrechnung ist ausgeschlossen, es sei denn, die Gegenforderung ist unbestritten oder rechtskräftig festgestellt" - im Ergebnis zulässig, weil sie das Mindestmaß einhält. Komplettausschluss dagegen unwirksam.
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel (§§ 387 ff. BGB volle Aufrechnungsmöglichkeit, § 273 BGB Zurückbehaltungsrecht).
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -276,7 +276,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `automatische-verlaengerung`
 
-**Fokus:** Klausel-Spezialskill für Automatische Verlängerung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Automatische Verlängerung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Automatische Verlängerung
 
@@ -302,14 +302,14 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Automatische Verlaengerung (§ 309 Nr. 9 BGB n.F. seit 01.03.2022):**
-   - **Verbrauchervertraege ueber wiederkehrende Lieferung von Waren/Dienstleistungen:** Maximal 2 Jahre Erstlaufzeit; danach nur Verlaengerung auf unbestimmte Zeit mit Kuendigung jederzeit mit Frist max. 1 Monat.
-   - **§ 309 Nr. 9 lit. a:** Vertragslaufzeit > 2 Jahre - im B2C unwirksam.
-   - **§ 309 Nr. 9 lit. b BGB n.F.:** Stillschweigende Verlaengerung um eine bestimmte Dauer ist in B2C-Vertraegen ueber wiederkehrende Lieferung/Dienste generell unwirksam. Zulaessig ist nur die Verlaengerung auf unbestimmte Zeit, sofern der Verbraucher jederzeit mit einer Frist von hoechstens einem Monat kuendigen kann. Achtung: Die alte Schwelle "Verlaengerung > 1 Jahr unwirksam" gilt seit dem 01.03.2022 nicht mehr - auch eine 12-Monats-Verlaengerung ist im B2C unwirksam.
-   - **§ 309 Nr. 9 lit. c BGB n.F.:** Kuendigungsfrist von mehr als einem Monat zum Ablauf der zunaechst vorgesehenen Vertragsdauer - unwirksam (B2C). Hinweis: Der frueher hier ebenfalls erfasste Verlaengerungszeitraum ist mit der Reform entfallen, weil lit. b nur noch die Verlaengerung auf unbestimmte Zeit mit jederzeitiger Kuendbarkeit (max. 1 Monat) zulaesst; Fragen zur Kuendigungsfrist nach Verlaengerung beurteilen sich daher ueber lit. b bzw. § 307 BGB, nicht ueber lit. c.
-   - **§ 312k BGB (Kuendigungsbutton fuer Online-Vertraege):** Verbrauchervertraege im elektronischen Geschaeftsverkehr ueber entgeltliche Leistungen muessen einen Kuendigungsbutton aufweisen, der ohne Login erreichbar ist. Verstoss: jederzeit kuendbar.
-   - **B2B-Wertung ueber § 307 BGB:** Erstlaufzeiten > 2 Jahre und Verlaengerungen > 1 Jahr im B2B kritisch, insbesondere bei branchenuntypisch langen Bindungen. Ausnahme: substantielle Investitionsamortisation (Server-Hosting, Lieferketten mit Vorlaufzeiten) sachlich begruendbar.
-   - **EU-Verbraucherrechtsrichtlinie 2011/83/EU Art. 27:** Verbot unaufgeforderter Lieferungen mit Bindungswirkung; durch Stillschweigen keine Verlaengerung herbeifuehrbar.
-   - **Praxis-Tipp Auslandsbezug:** Frankreich, Belgien, Niederlande haben aehnlich restriktive Regelungen; in UK/USA evergreen-Klauseln verbreiteter, aber bei deutschem Verbraucher unbeachtlich.
+ - **Verbrauchervertraege ueber wiederkehrende Lieferung von Waren/Dienstleistungen:** Maximal 2 Jahre Erstlaufzeit; danach nur Verlaengerung auf unbestimmte Zeit mit Kuendigung jederzeit mit Frist max. 1 Monat.
+ - **§ 309 Nr. 9 lit. a:** Vertragslaufzeit > 2 Jahre - im B2C unwirksam.
+ - **§ 309 Nr. 9 lit. b BGB n.F.:** Stillschweigende Verlaengerung um eine bestimmte Dauer ist in B2C-Vertraegen ueber wiederkehrende Lieferung/Dienste generell unwirksam. Zulaessig ist nur die Verlaengerung auf unbestimmte Zeit, sofern der Verbraucher jederzeit mit einer Frist von hoechstens einem Monat kuendigen kann. Achtung: Die alte Schwelle "Verlaengerung > 1 Jahr unwirksam" gilt seit dem 01.03.2022 nicht mehr - auch eine 12-Monats-Verlaengerung ist im B2C unwirksam.
+ - **§ 309 Nr. 9 lit. c BGB n.F.:** Kuendigungsfrist von mehr als einem Monat zum Ablauf der zunaechst vorgesehenen Vertragsdauer - unwirksam (B2C). Hinweis: Der frueher hier ebenfalls erfasste Verlaengerungszeitraum ist mit der Reform entfallen, weil lit. b nur noch die Verlaengerung auf unbestimmte Zeit mit jederzeitiger Kuendbarkeit (max. 1 Monat) zulaesst; Fragen zur Kuendigungsfrist nach Verlaengerung beurteilen sich daher ueber lit. b bzw. § 307 BGB, nicht ueber lit. c.
+ - **§ 312k BGB (Kuendigungsbutton fuer Online-Vertraege):** Verbrauchervertraege im elektronischen Geschaeftsverkehr ueber entgeltliche Leistungen muessen einen Kuendigungsbutton aufweisen, der ohne Login erreichbar ist. Verstoss: jederzeit kuendbar.
+ - **B2B-Wertung ueber § 307 BGB:** Erstlaufzeiten > 2 Jahre und Verlaengerungen > 1 Jahr im B2B kritisch, insbesondere bei branchenuntypisch langen Bindungen. Ausnahme: substantielle Investitionsamortisation (Server-Hosting, Lieferketten mit Vorlaufzeiten) sachlich begruendbar.
+ - **EU-Verbraucherrechtsrichtlinie 2011/83/EU Art. 27:** Verbot unaufgeforderter Lieferungen mit Bindungswirkung; durch Stillschweigen keine Verlaengerung herbeifuehrbar.
+ - **Praxis-Tipp Auslandsbezug:** Frankreich, Belgien, Niederlande haben aehnlich restriktive Regelungen; in UK/USA evergreen-Klauseln verbreiteter, aber bei deutschem Verbraucher unbeachtlich.
 6. **Rechtsfolge:** Unwirksamkeit; Vertrag endet zum urspruenglichen Endtermin oder ist jederzeit kuendbar (je nach Klauselart).
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

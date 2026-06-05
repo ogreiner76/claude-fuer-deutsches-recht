@@ -1,13 +1,13 @@
 ---
 name: tempo-messung-unfallregulierung-quoten
-description: "Nutze dies, wenn Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Verkehrsrecht Tempo Messung Beweis, Fachanwalt Verkehrsrecht Unfallregulierung Quoten, Fachanwalt Verkehrsrecht Versicherer Quotenverhandlung Vergleich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -116,7 +116,7 @@ Verteidigung bei OWi wegen Geschwindigkeitsüberschreitung.
 - LeivTec XV-3: laufende Diskussion
 - ES 3.0: bekannte Schwachstellen bei niedrigen Geschwindigkeiten
 
-## 6) Workflow Einspruch
+## 6) Einspruch
 
 ### Phase 1 — Bußgeldbescheid
 
@@ -226,8 +226,8 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 
 - Reparatur zulaessig, wenn Reparaturkosten **bis 130 %** des Wiederbeschaffungswerts
 - Verifizierte Entscheidungen vor Ausgabe in offener Quelle prüfen (BGH-Datenbank, dejure.org, openjur.de):
-  - BGH, Urt. v. 12.3.2024, VI ZR 280/22 — Werkstatt- bzw. Sachverstaendigenrisiko (Übertragung auf überhöhte Sachverstaendigenkosten); offene Quelle: https://juris.bundesgerichtshof.de
-  - BGH, Urt. v. 5.11.2024, VI ZR 12/24 — fiktive Berechnung Haushaltsfuehrungsschaden (Mindestlohn als Untergrenze, nachvollziehbare Begründung erforderlich)
+ - BGH, Urt. v. 12.3.2024, VI ZR 280/22 — Werkstatt- bzw. Sachverstaendigenrisiko (Übertragung auf überhöhte Sachverstaendigenkosten); offene Quelle: https://juris.bundesgerichtshof.de
+ - BGH, Urt. v. 5.11.2024, VI ZR 12/24 — fiktive Berechnung Haushaltsfuehrungsschaden (Mindestlohn als Untergrenze, nachvollziehbare Begründung erforderlich)
 - Über 130 %: nur Wiederbeschaffungswert (Totalschaden)
 
 ### Fiktive Abrechnung
@@ -279,9 +279,9 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 
 - Tabelle nach Verletzungsschwere
 - Beispiele:
-  - HWS-Schleudertrauma leicht: 500-1.500 EUR
-  - Knochenbruch ohne Folgen: 2.000-5.000 EUR
-  - Bleibender Schaden / Querschnitt: 100.000+ EUR
+ - HWS-Schleudertrauma leicht: 500-1.500 EUR
+ - Knochenbruch ohne Folgen: 2.000-5.000 EUR
+ - Bleibender Schaden / Querschnitt: 100.000+ EUR
 
 ### Praxis
 

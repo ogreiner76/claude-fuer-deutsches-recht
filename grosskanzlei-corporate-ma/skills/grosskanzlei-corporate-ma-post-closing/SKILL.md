@@ -160,14 +160,14 @@ POST-CLOSING OBLIGATIONS
 [ ] § 613a Information Arbeitnehmer bis [DATUM] — HR: [NAME]
 
 GARANTIEFRISTEN
-  Business Warranties: enden am [DATUM]
-  Tax Warranties: enden am [DATUM]
-  W&I-Notification-Pflicht: 7 Tage nach Kenntnis
+ Business Warranties: enden am [DATUM]
+ Tax Warranties: enden am [DATUM]
+ W&I-Notification-Pflicht: 7 Tage nach Kenntnis
 
 PMI-MEILENSTEINE
-  IT-Integration Abschluss: [DATUM]
-  HR-Harmonisierung: [DATUM]
-  Synergie-Tracking Q1: [DATUM]
+ IT-Integration Abschluss: [DATUM]
+ HR-Harmonisierung: [DATUM]
+ Synergie-Tracking Q1: [DATUM]
 ```
 
 ## Rote Schwellen

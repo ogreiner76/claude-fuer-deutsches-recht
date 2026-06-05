@@ -1,6 +1,6 @@
 ---
 name: gatekeeper
-description: "Nutze dies, wenn Gatekeeper: Verhandlung, Vergleich und Eskalation im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Gatekeeper: Verhandlung, Vergleich und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Gatekeeper: Verhandlung, Vergleich und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gatekeeper: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Gatekeeper: Verhandlung, Vergleich und Eskalation

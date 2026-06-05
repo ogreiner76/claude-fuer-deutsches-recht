@@ -1,13 +1,13 @@
 ---
 name: kooperation-anderen-mandanten
-description: "Nutze dies, wenn Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter prüfen.; Erstelle eine Arbeitsfassung zu Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kooperation Mit Anderen Berufen, Mandanten Oder Beteiligtenkommunikation, Mandatsannahme, Mandatsbeendigung, Mitarbeiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

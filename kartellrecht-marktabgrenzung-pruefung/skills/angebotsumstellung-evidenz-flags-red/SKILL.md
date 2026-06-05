@@ -1,13 +1,13 @@
 ---
 name: angebotsumstellung-evidenz-flags-red
-description: "Nutze dies, wenn Spezial Angebotsumstellung Zahlen Schwellen Und Berechnung, Spezial Evidenz Internationaler Bezug Und Schnittstellen, Spezial Flags Red Team Und Qualitaetskontrolle, Spezial Kartellrechtliche Tatbestand Beweis Und Belege, Spezial Konsistenz Formular Portal Und Einreichung im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Angebotsumstellung Zahlen Schwellen Und Berechnung, Evidenz Internationaler Bezug Und Schnittstellen, Flags Red Team Und Qualitaetskontrolle, Kartellrechtliche Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Angebotsumstellung Zahlen Schwellen Und Berechnung, Spezial Evidenz Internationaler Bezug Und Schnittstellen, Spezial Flags Red Team Und Qualitaetskontrolle, Spezial Kartellrechtliche Tatbestand Beweis Und Belege, Spezial Konsistenz Formular Portal Und Einreichung
+# Angebotsumstellung Zahlen Schwellen Und Berechnung, Evidenz Internationaler Bezug Und Schnittstellen, Flags Red Team Und Qualitaetskontrolle, Kartellrechtliche Tatbestand Beweis Und Belege, Konsistenz Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Angebotsumstellung Zahlen Schwellen Und Berechnung, Evidenz Internationaler Bezug Und Schnittstellen, Flags Red Team Und Qualitaetskontrolle, Kartellrechtliche Tatbestand Beweis Und Belege, Konsistenz Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Angebotsumstellung Zahlen Schwellen Und Berechnung, Spezial Evidenz Internationaler Bezug Und Schnittstellen, Spezial Flags Red Team Und Qualitaetskontrolle, Spezial Kartellrechtliche Tatbestand Beweis Und Belege, Spezial Konsistenz Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Angebotsumstellung Zahlen Schwellen Und Berechnung, Evidenz Internationaler Bezug Und Schnittstellen, Flags Red Team Und Qualitaetskontrolle, Kartellrechtliche Tatbestand Beweis Und Belege, Konsistenz Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Angebotsumstellung Zahlen Schwellen Und Berechnung, Spezial Evide
 # Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung / spezial angebotsumstellung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung / angebotsumstellung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Evidenz: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Evidenz: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Evidenz: Internationaler Bezug und Schnittstellen / spezial evidenz internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Evidenz: Internationaler Bezug und Schnittstellen / evidenz internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -115,7 +115,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Flags: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Flags: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Flags: Red-Team und Qualitätskontrolle / spezial flags red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Flags: Red-Team und Qualitätskontrolle / flags red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -156,7 +156,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial kartellrechtliche tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage / kartellrechtliche tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -197,7 +197,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Konsistenz: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Konsistenz: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Konsistenz: Formular, Portal und Einreichungslogik / spezial konsistenz formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Konsistenz: Formular, Portal und Einreichungslogik / konsistenz formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

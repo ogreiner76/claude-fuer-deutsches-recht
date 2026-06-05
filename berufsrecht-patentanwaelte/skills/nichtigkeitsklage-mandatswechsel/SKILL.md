@@ -1,13 +1,13 @@
 ---
 name: nichtigkeitsklage-mandatswechsel
-description: "Nutze dies, wenn Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwae..."
+description: "Nutze dies bei Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Nichtigkeitsklage Mandatswechsel Kammerantwort U, Patentanwaelte Nichtigkeitsklage Mandatswechsel Organisationspf, Patentanwaelte Outsourcing Von Zeichnungen Kammerantwort Und Ve, Patentanwaelte Outsourcing Von Zeichnungen Organisationspflicht, Patentanwaelte Patent Agent Title Und Werbung Kammerantwort Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

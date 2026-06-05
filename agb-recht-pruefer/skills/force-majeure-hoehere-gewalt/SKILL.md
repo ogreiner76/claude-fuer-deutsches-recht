@@ -1,6 +1,6 @@
 ---
 name: force-majeure-hoehere-gewalt
-description: "Klausel-Spezialskill für Force Majeure Höhere Gewalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Force Majeure Höhere Gewalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Force Majeure Höhere Gewalt

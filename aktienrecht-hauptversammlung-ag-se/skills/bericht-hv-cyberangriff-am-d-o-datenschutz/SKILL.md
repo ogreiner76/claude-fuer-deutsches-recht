@@ -1,22 +1,22 @@
 ---
 name: bericht-hv-cyberangriff-am-d-o-datenschutz
-description: "Nutze dies, wenn Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming prüfen.; Erstelle eine Arbeitsfassung zu Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datenschutz Und Streaming** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `compliance-bericht-hv` | Hauptversammlung AG und SE: Compliance Bericht HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `cyberangriff-am-hv-tag` | Hauptversammlung AG und SE: Cyberangriff Am HV Tag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `d-and-o-hv-fragen` | Hauptversammlung AG und SE: D And O HV Fragen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `datenschutz-und-streaming` | Hauptversammlung AG und SE: Datenschutz Und Streaming; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `compliance-bericht-hv` | Hauptversammlung AG und SE: Compliance Bericht HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `cyberangriff-am-hv-tag` | Hauptversammlung AG und SE: Cyberangriff Am HV Tag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `d-and-o-hv-fragen` | Hauptversammlung AG und SE: D And O HV Fragen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `datenschutz-und-streaming` | Hauptversammlung AG und SE: Datenschutz Und Streaming; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Compliance Bericht Hv, Cyberangriff Am Hv Tag, D And O Hv Fragen, Datensc
 
 ## 1. `compliance-bericht-hv`
 
-**Fokus:** Hauptversammlung AG und SE: Compliance Bericht HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Compliance Bericht HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Compliance Bericht HV
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `cyberangriff-am-hv-tag`
 
-**Fokus:** Hauptversammlung AG und SE: Cyberangriff Am HV Tag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Cyberangriff Am HV Tag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Cyberangriff Am HV Tag
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `d-and-o-hv-fragen`
 
-**Fokus:** Hauptversammlung AG und SE: D And O HV Fragen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: D And O HV Fragen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # D And O HV Fragen
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `datenschutz-und-streaming`
 
-**Fokus:** Hauptversammlung AG und SE: Datenschutz Und Streaming; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Datenschutz Und Streaming; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Datenschutz Und Streaming
 

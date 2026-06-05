@@ -34,7 +34,7 @@ Der Forderungsverzicht durch Gläubiger ist beim Schuldner ein Buchgewinn. Wie e
 - **§ 8 Abs. 3 KStG** — Verdeckte Einlage durch Gesellschafter.
 - **§ 3a Abs. 3 EStG** — Berechnung Sanierungsertrag.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Buchungslogik beim Schuldner
 
@@ -77,46 +77,46 @@ Der Forderungsverzicht durch Gläubiger ist beim Schuldner ein Buchgewinn. Wie e
 ### Plan-Bilanz vor und nach Verzicht
 
 ```
-Aktiva                        vor Sanierung  nach Sanierung
-Anlagevermögen                EUR 2.500.000  EUR 2.500.000
-Umlaufvermögen                EUR 1.200.000  EUR 1.200.000
-Summe Aktiva                  EUR 3.700.000  EUR 3.700.000
+Aktiva vor Sanierung nach Sanierung
+Anlagevermögen EUR 2.500.000 EUR 2.500.000
+Umlaufvermögen EUR 1.200.000 EUR 1.200.000
+Summe Aktiva EUR 3.700.000 EUR 3.700.000
 
-Passiva                       vor Sanierung  nach Sanierung
-Eigenkapital                  EUR  -800.000  EUR  -300.000
-  davon Bilanzverlust         EUR -2.500.000 EUR -2.000.000
-Rückstellungen                EUR   400.000  EUR   400.000
-Verbindlichkeiten ggü. Kreditinst. EUR 2.500.000  EUR 1.700.000
-  (Bankverzicht 800.000)
-Verbindlichkeiten ggü. Lieferanten EUR 1.600.000  EUR 1.400.000
-  (Lieferantenverzicht 200.000)
-Summe Passiva                 EUR 3.700.000  EUR 3.200.000
+Passiva vor Sanierung nach Sanierung
+Eigenkapital EUR -800.000 EUR -300.000
+ davon Bilanzverlust EUR -2.500.000 EUR -2.000.000
+Rückstellungen EUR 400.000 EUR 400.000
+Verbindlichkeiten ggü. Kreditinst. EUR 2.500.000 EUR 1.700.000
+ (Bankverzicht 800.000)
+Verbindlichkeiten ggü. Lieferanten EUR 1.600.000 EUR 1.400.000
+ (Lieferantenverzicht 200.000)
+Summe Passiva EUR 3.700.000 EUR 3.200.000
 
-Sanierungsertrag GuV          EUR        0    EUR 1.000.000
+Sanierungsertrag GuV EUR 0 EUR 1.000.000
 ```
 
 ### Buchungssätze (Beispiel)
 
 ```
 Variante A — Drittgläubiger (Bank) verzichtet auf 800.000:
-  Verbindlichkeiten Kreditinstitut 800.000
-    an sonstiger betrieblicher Ertrag 800.000
+ Verbindlichkeiten Kreditinstitut 800.000
+ an sonstiger betrieblicher Ertrag 800.000
 
 Variante B — Gesellschafter verzichtet auf werthaltige 200.000:
-  Verbindlichkeiten Gesellschafter 200.000
-    an Kapitalrücklage 200.000
+ Verbindlichkeiten Gesellschafter 200.000
+ an Kapitalrücklage 200.000
 
 Variante C — Gesellschafter verzichtet auf nicht werthaltige
 500.000 (Teilwert 100.000, Restbetrag 400.000 zum Ertrag):
-  Verbindlichkeiten Gesellschafter 500.000
-    an Kapitalrücklage 100.000
-    an sonstiger betrieblicher Ertrag 400.000
+ Verbindlichkeiten Gesellschafter 500.000
+ an Kapitalrücklage 100.000
+ an sonstiger betrieblicher Ertrag 400.000
 
 Variante D — Verzicht mit Besserungsabrede:
-  bei Eintritt der Besserung (z. B. Gewinn 300.000 in
-  Folgejahr):
-    Verbindlichkeit / Wegfall  300.000
-      an sonstiger betrieblicher Ertrag 300.000
+ bei Eintritt der Besserung (z. B. Gewinn 300.000 in
+ Folgejahr):
+ Verbindlichkeit / Wegfall 300.000
+ an sonstiger betrieblicher Ertrag 300.000
 ```
 
 ### Anhangs-Erläuterung
@@ -185,6 +185,6 @@ führung erfüllt.
 - Stalbold, in: Gosch, KStG, § 11 Rn. 72.
 - Micker, in: Herrmann/Heuer/Raupach, EStG/KStG, § 11 KStG Rn. 44.
 
-### Querverweis Spezial-Skill
+### Querverweis Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse für stehen gelassene Verbindlichkeiten in der Liquidation.

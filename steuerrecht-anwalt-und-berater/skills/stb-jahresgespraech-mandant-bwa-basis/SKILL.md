@@ -58,40 +58,40 @@ Termin: [Datum]
 Dauer: 2-3 Stunden
 
 1. JAHR IN ZAHLEN (30 Min)
-   - Umsatz, EBIT, Jahresueberschuss
-   - Vorjahresvergleich
-   - Mehrjahres-Trend
-   - Branchenvergleich
+ - Umsatz, EBIT, Jahresueberschuss
+ - Vorjahresvergleich
+ - Mehrjahres-Trend
+ - Branchenvergleich
 
 2. BILANZ (20 Min)
-   - Eigenkapital-Entwicklung
-   - Liquiditaet
-   - Anlagendeckung
-   - Sondervorgaenge
+ - Eigenkapital-Entwicklung
+ - Liquiditaet
+ - Anlagendeckung
+ - Sondervorgaenge
 
 3. STEUERN (30 Min)
-   - Steuerbelastung im Jahr
-   - Vorauszahlungen Folgejahr
-   - Steuerliche Optimierungen
-   - Investitionsabzugsbetrag § 7g EStG
-   - Sonder-AfA-Optionen
+ - Steuerbelastung im Jahr
+ - Vorauszahlungen Folgejahr
+ - Steuerliche Optimierungen
+ - Investitionsabzugsbetrag § 7g EStG
+ - Sonder-AfA-Optionen
 
 4. PERSONAL (15 Min)
-   - Personalentwicklung
-   - Lohnkostenquote
-   - Sondervergueteungs-Planung
-   - SV-Themen
+ - Personalentwicklung
+ - Lohnkostenquote
+ - Sondervergueteungs-Planung
+ - SV-Themen
 
 5. STRATEGIE FOLGEJAHR (30 Min)
-   - Umsatz- und Ergebnis-Plan
-   - Investitionsplan
-   - Finanzierung
-   - Eigenkapital-Verstaerkung
+ - Umsatz- und Ergebnis-Plan
+ - Investitionsplan
+ - Finanzierung
+ - Eigenkapital-Verstaerkung
 
 6. RISIKEN UND ESKALATIONEN (10 Min)
-   - Krisensignale
-   - § 102 StaRUG-Hinweise
-   - Anhaengige Pruefungen
+ - Krisensignale
+ - § 102 StaRUG-Hinweise
+ - Anhaengige Pruefungen
 ```
 
 ### Phase 3 — Gespraechsfuehrung

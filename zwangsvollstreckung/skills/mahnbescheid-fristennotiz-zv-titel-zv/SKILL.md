@@ -1,13 +1,13 @@
 ---
 name: mahnbescheid-fristennotiz-zv-titel-zv
-description: "Nutze dies, wenn Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner prüfen.; Erstelle eine Arbeitsfassung zu Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner
+# Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel
 # Mahnbescheid: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Mahnbescheid: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Mahnbescheid: Fristennotiz und nächster Schritt / spezial mahnbescheid fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mahnbescheid: Fristennotiz und nächster Schritt / mahnbescheid fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -106,11 +106,11 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 1. **Titel sichten**: Original, Ausfertigung oder Abschrift? Nur Ausfertigung ist tauglich.
 2. **Klausel suchen**: Auf der Rückseite des Titels oder als gesonderter Vermerk. Klauselformel: "Vorstehende Ausfertigung wird dem [Gläubiger] zum Zwecke der Zwangsvollstreckung erteilt. [Ort], [Datum], [Unterschrift Urkundsbeamter/Rechtspfleger/Notar]".
 3. **Klausel beschaffen**, wenn sie fehlt:
-   - Bei Gerichtsurteilen: Antrag an Urkundsbeamten der Geschäftsstelle des ausgangs Gerichts § 725 ZPO.
-   - Bei notariellen Urkunden: Antrag an den Notar selbst § 797 Abs. 2 ZPO.
-   - Bei Vollstreckungsbescheid: keine gesonderte Klausel nötig.
-   - Bei qualifizierter Klausel (§§ 726, 730 ZPO): Antrag an Rechtspfleger mit Beweis der Bedingung (Urkundenbeweis oder öffentliche Urkunde).
-   - Bei Rechtsnachfolge (§§ 727 ff. ZPO): Erbschein, Abtretungsurkunde, Insolvenzgerichtsbeschluss als Beweismittel.
+ - Bei Gerichtsurteilen: Antrag an Urkundsbeamten der Geschäftsstelle des ausgangs Gerichts § 725 ZPO.
+ - Bei notariellen Urkunden: Antrag an den Notar selbst § 797 Abs. 2 ZPO.
+ - Bei Vollstreckungsbescheid: keine gesonderte Klausel nötig.
+ - Bei qualifizierter Klausel (§§ 726, 730 ZPO): Antrag an Rechtspfleger mit Beweis der Bedingung (Urkundenbeweis oder öffentliche Urkunde).
+ - Bei Rechtsnachfolge (§§ 727 ff. ZPO): Erbschein, Abtretungsurkunde, Insolvenzgerichtsbeschluss als Beweismittel.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 5. **Wartefrist beachten**: bei qualifizierter Klausel 2 Wochen ab Zustellung § 750 Abs. 2 ZPO.
 6. **Ampel setzen**: Säulen grün → weiter; Säulen gelb/rot → fehlende Säule beschaffen, dann erneut prüfen.
@@ -133,23 +133,23 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 DREI-SÄULEN-CHECK [Mandant] [Az]
 
 Titel:
-  Art:           [Endurteil / VB / Vergleich / notarielle Urkunde / ...]
-  Datum:         [DD.MM.JJJJ]
-  Aussteller:    [Gericht / Notar / Verwalter]
-  Ausfertigung:  [vorhanden / nur Abschrift – nachfordern]
+ Art: [Endurteil / VB / Vergleich / notarielle Urkunde / ...]
+ Datum: [DD.MM.JJJJ]
+ Aussteller: [Gericht / Notar / Verwalter]
+ Ausfertigung: [vorhanden / nur Abschrift – nachfordern]
 
 Klausel:
-  Vorhanden:     [JA / NEIN]
-  Art:           [einfach § 725 / qualifiziert §§ 726, 730 / umgeschrieben §§ 727 ff.]
-  Erteilung am:  [DD.MM.JJJJ durch ...]
-  Falls fehlt:   [Antrag an ... mit Anlagen ...]
+ Vorhanden: [JA / NEIN]
+ Art: [einfach § 725 / qualifiziert §§ 726, 730 / umgeschrieben §§ 727 ff.]
+ Erteilung am: [DD.MM.JJJJ durch ...]
+ Falls fehlt: [Antrag an ... mit Anlagen ...]
 
 Zustellung:
-  Erfolgt am:    [DD.MM.JJJJ – Urkunde Nr. ...]
-  An wen:        [Schuldner / gesetzl. Vertreter / Zustellungsbevollmächtigter]
-  Wartefrist:    [2 Wochen § 750 Abs. 2 ZPO eingehalten / läuft bis DD.MM.JJJJ]
+ Erfolgt am: [DD.MM.JJJJ – Urkunde Nr. ...]
+ An wen: [Schuldner / gesetzl. Vertreter / Zustellungsbevollmächtigter]
+ Wartefrist: [2 Wochen § 750 Abs. 2 ZPO eingehalten / läuft bis DD.MM.JJJJ]
 
-Ampel:           [GRÜN: vollstreckbar / GELB: 1 Baustein offen / ROT: Stopp]
+Ampel: [GRÜN: vollstreckbar / GELB: 1 Baustein offen / ROT: Stopp]
 
 Nächster Schritt: [...]
 ```
@@ -229,9 +229,9 @@ Bevor eine Forderungspfändung Sinn ergibt, muss der Drittschuldner bekannt sein
 1. **Schuldnerverzeichnis abfragen** über das zentrale Vollstreckungsportal der Länder (`vollstreckungsportal.de`). Kostenpflichtig.
 2. **Vorhandene Vermögensauskunft einsehen**, falls noch nicht zwei Jahre alt.
 3. **Drittauskunft § 802l ZPO** durch den Gerichtsvollzieher beantragen, sobald Forderung mindestens 500 EUR und Vermögensauskunft erfolglos oder Schuldner nicht erreichbar:
-   - **Deutsche Rentenversicherung Bund**: aktueller Arbeitgeber oder Rentenzahlstelle
-   - **Bundeszentralamt für Steuern (BZSt)**: Kontostammdaten nach § 24c KWG, alle deutschen Kreditinstitute mit Konten des Schuldners
-   - **Kraftfahrt-Bundesamt**: KFZ-Halterauskunft
+ - **Deutsche Rentenversicherung Bund**: aktueller Arbeitgeber oder Rentenzahlstelle
+ - **Bundeszentralamt für Steuern (BZSt)**: Kontostammdaten nach § 24c KWG, alle deutschen Kreditinstitute mit Konten des Schuldners
+ - **Kraftfahrt-Bundesamt**: KFZ-Halterauskunft
 4. **Ausländische Konten**: nicht über § 802l erreichbar, aber EU-Kontenpfändungsbeschluss (EuKtPVO) ist Alternative über `zv-pfueb-bank`.
 5. **Plausibilitätsprüfung**: Auskunft veraltet sich. Konten existieren ggf. nicht mehr, Arbeitgeber gewechselt.
 6. **Anschluss**: bekannte Bank → `zv-pfueb-bank`, bekannter Arbeitgeber → `zv-pfueb-arbeitsentgelt`.
@@ -253,14 +253,14 @@ Bevor eine Forderungspfändung Sinn ergibt, muss der Drittschuldner bekannt sein
 ```
 DRITTSCHULDNERSUCHE [Mandant] gegen [Schuldner]
 
-Titel:                 [Art, Datum]
-Forderungshöhe:        EUR x (≥ 500 EUR? ja/nein)
-VA-Stand:              [vorhanden, Datum / fehlt / unergiebig]
-Beantragte Auskünfte:  [DRV / BZSt / KBA]
-Geschätzte Dauer:      4-8 Wochen ab GV-Antrag
-Folgeskill:            [zv-pfueb-bank / -arbeitsentgelt / ...]
+Titel: [Art, Datum]
+Forderungshöhe: EUR x (≥ 500 EUR? ja/nein)
+VA-Stand: [vorhanden, Datum / fehlt / unergiebig]
+Beantragte Auskünfte: [DRV / BZSt / KBA]
+Geschätzte Dauer: 4-8 Wochen ab GV-Antrag
+Folgeskill: [zv-pfueb-bank / -arbeitsentgelt / ...]
 
-WIEDERVORLAGE:         DD.MM.JJJJ
+WIEDERVORLAGE: DD.MM.JJJJ
 ```
 
 ## Qualitätsgates
@@ -272,8 +272,8 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 
 <!-- AUDIT 27.05.2026
 Problem : BGH VII ZB 14/20 vom 15.07.2021, NJW 2021, 3046 – Beschluss auf dejure.org nicht auffindbar (NOT_FOUND). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=15.07.2021&Aktenzeichen=VII+ZB+14%2F20
-Ersatz   : BGH, Beschl. v. 22.01.2015 – I ZB 77/14, NJW 2015, 2509 (§ 802l ZPO, Drittauskünfte). Verifiziert: https://dejure.org/2015,17779
-Aktion   : Zeile ersetzt
+Ersatz : BGH, Beschl. v. 22.01.2015 – I ZB 77/14, NJW 2015, 2509 (§ 802l ZPO, Drittauskünfte). Verifiziert: https://dejure.org/2015,17779
+Aktion : Zeile ersetzt
 -->
 
 ## Querverweise

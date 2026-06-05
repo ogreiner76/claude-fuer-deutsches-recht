@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Schifffahrts- und Seeverkehrsrecht
-Ressort:            BMV
-Kernnormen:         SeeAufgG; SchSG; BinSchG; SeeFischG; Marpol-Ausfuehrungsgesetze.
-Akteure/Aufsicht:   BSH; BG Verkehr; Wasser- und Schifffahrtsverwaltung des Bundes; HavarieKommando.
-EU/Voelkerrecht:    EMSA; IMO-Umsetzung; Hafenstaatkontrolle.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmv; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Schifffahrts- und Seeverkehrsrecht
+Ressort: BMV
+Kernnormen: SeeAufgG; SchSG; BinSchG; SeeFischG; Marpol-Ausfuehrungsgesetze.
+Akteure/Aufsicht: BSH; BG Verkehr; Wasser- und Schifffahrtsverwaltung des Bundes; HavarieKommando.
+EU/Voelkerrecht: EMSA; IMO-Umsetzung; Hafenstaatkontrolle.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

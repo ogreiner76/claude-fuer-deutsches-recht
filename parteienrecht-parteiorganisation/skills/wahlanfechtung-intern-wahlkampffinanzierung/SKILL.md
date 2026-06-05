@@ -1,13 +1,13 @@
 ---
 name: wahlanfechtung-intern-wahlkampffinanzierung
-description: "Nutze dies, wenn Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage prüfen.; Erstelle eine Arbeitsfassung zu Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Wahlanfechtung Intern, Wahlkampffinanzierung, Wahlleiter Rueckfrage** zue
 ## Aufgabe
 Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufstellung nach Satzung, Frist, Zuständigkeit und Beweisen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -83,7 +83,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft Wahlkampfkonto, Spenden, Sachleistungen, Rechnungen, Plakate, Anzeigen und Nachweisführung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -124,7 +124,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Beantwortet Beanstandungen von Kreis-, Landes- oder Bundeswahlleitung mit Korrekturpfad und Unterlagenliste.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

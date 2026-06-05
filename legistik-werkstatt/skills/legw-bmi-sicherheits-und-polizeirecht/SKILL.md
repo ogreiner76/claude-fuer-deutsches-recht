@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Sicherheits- und Polizeirecht
-Ressort:            BMI
-Kernnormen:         BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.
-Akteure/Aufsicht:   BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.
-EU/Voelkerrecht:    Schengen; Europol; Eurodac; Frontex; PNR-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmi; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Sicherheits- und Polizeirecht
+Ressort: BMI
+Kernnormen: BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.
+Akteure/Aufsicht: BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.
+EU/Voelkerrecht: Schengen; Europol; Eurodac; Frontex; PNR-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmi; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

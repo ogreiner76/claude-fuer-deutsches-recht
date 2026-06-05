@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilung-fa-stu-tatsaechliche
-description: "Nutze dies, wenn Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Rechtsabteilung Dac7 Und Plattformreporting, Rechtsabteilung Organschaft Nach Eugh Bfh Update, Rechtsabteilung Transfer Pricing Bei Ip Und Softwarelizenzen und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Rechtsabteilung Dac7 Und Plattformreporting, Rechtsabteilung Organschaft Nach Eugh Bfh Update, Rechtsabteilung Transfer Pricing Bei Ip Und Softwarelizenzen und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Rechtsabteilung Dac7 Und Plattformreporting, Rechtsabteilung Organschaft Nach Eugh Bfh Update, Rechtsabteilung Transfer Pricing Bei Ip Und Softwarelizenzen und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Rechtsabteilung Dac7 Und Plattformreporting, Rechtsabteilung Organschaft Nach Eugh Bfh Update: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Rechtsabteilung Dac7 Und Plattformreporting, Rechtsabteilung Organschaft Nach Eugh Bfh Update, Rechtsabteilung Transfer Pricing Bei Ip Und Softwarelizenzen und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Rechtsabteilung Dac7 Und Plattformreporting, Rechtsabteilung Organschaft Nach Eugh Bfh Update, Rechtsabteilung Transfer Pricing Bei Ip Und Softwarelizenzen und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,13 +15,13 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `fa-stu-finanzgerichtsklage-78-fgo` | Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster fuer Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe). |
 | `fa-stu-tatsaechliche-verstaendigung` | Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Finanzamt — wann ist sie zulaessig wie wird sie verhandelt und wie bindet sie. Anwendungsfall Aussenpruefung oder Veranlagung erreicht eine Sachverhaltsfrage die im Schaetzungswege nicht weiter aufklaerbar ist. Behandelt zulaessige Gegenstaende (Tatsachen nicht Recht) Beteiligte Mitwirkungspflicht und Bindungswirkung. Output Mustererklaerung Tatsaechliche Verstaendigung mit Protokoll. Abgrenzung zu fa-stu-onboarding-bescheid-lesen. |
-| `rechtsabteilung-dac7-und-plattformreporting` | Rechtsabteilungs-Spezialskill für DAC7 und Plattformreporting: Plattformbetreiber prüfen Meldepflicht, Verkäuferdaten und Korrekturprozesse. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-organschaft-nach-eugh-bfh-update` | Rechtsabteilungs-Spezialskill für Organschaft nach EuGH/BFH-Update: Organträger, Eingliederung und Haftung werden für Konzernrechtsabteilungen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-transfer-pricing-bei-ip-und-softwarelizenzen` | Rechtsabteilungs-Spezialskill für Transfer Pricing bei IP- und Softwarelizenzen: Intercompany-Lizenzen werden mit DEMPE, Benchmark und Dokumentation geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-vga-bei-geschaeftsfuehrer-und-beiratsverguetung` | Rechtsabteilungs-Spezialskill für vGA bei Geschäftsführer- und Beiratsvergütung: Vergütung, Rückwirkung, Dokumentation und Fremdvergleich werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-dac7-und-plattformreporting` | Rechtsabteilungs-Fachmodul für DAC7 und Plattformreporting: Plattformbetreiber prüfen Meldepflicht, Verkäuferdaten und Korrekturprozesse. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-organschaft-nach-eugh-bfh-update` | Rechtsabteilungs-Fachmodul für Organschaft nach EuGH/BFH-Update: Organträger, Eingliederung und Haftung werden für Konzernrechtsabteilungen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-transfer-pricing-bei-ip-und-softwarelizenzen` | Rechtsabteilungs-Fachmodul für Transfer Pricing bei IP- und Softwarelizenzen: Intercompany-Lizenzen werden mit DEMPE, Benchmark und Dokumentation geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-vga-bei-geschaeftsfuehrer-und-beiratsverguetung` | Rechtsabteilungs-Fachmodul für vGA bei Geschäftsführer- und Beiratsvergütung: Vergütung, Rückwirkung, Dokumentation und Fremdvergleich werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `stb-addison-bwa-konfiguration-tipps` | Addison BWA-Konfiguration. Anwendungsfall Kanzleien mit Wolters Kluwer Addison statt DATEV. Methodik Unterschiede zu DATEV Konten-Konfiguration Branchenanpassung. Output BWA in Addison. |
 | `stb-belegtransfer-datev-unternehmen-online` | Belegtransfer DATEV Unternehmen Online. Anwendungsfall systematischer Belegfluss Mandant zu StB Beleg-Scan App Mailpostfach Bank-Anbindung. Methodik Konfiguration Workflow. Output Belegfluss-Standard. |
-| `stb-buchhaltungsbutler-mandantencloud` | BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV. Methodik Konfiguration Belegworkflow GoBD-Risiken Honoraranpassung. Output eingerichtete Cloud-Schnittstelle und Prüfroutine. |
+| `stb-buchhaltungsbutler-mandantencloud` | BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV. Methodik Konfiguration BelegGoBD-Risiken Honoraranpassung. Output eingerichtete Cloud-Schnittstelle und Prüfroutine. |
 
 ## Arbeitsweg
 
@@ -87,9 +87,9 @@ An das Finanzgericht [BUNDESLAND]
 
 Klage
 des [MANDANT], vertreten durch [KANZLEI],
-  - Klaeger -
+ - Klaeger -
 gegen das Land [BUNDESLAND], vertreten durch das Finanzamt [ORT],
-  - Beklagter -
+ - Beklagter -
 
 wegen [STEUERART] [JAHR] (Einspruchsentscheidung vom [DATUM], Az. [NR])
 
@@ -105,7 +105,7 @@ III. Rechtliche Wuerdigung: [...]
 Antrag auf Akteneinsicht § 78 FGO wird gestellt.
 Antrag auf Aussetzung der Vollziehung § 69 FGO wird gestellt.
 
-[ORT, DATUM]    [UNTERSCHRIFT RA]
+[ORT, DATUM] [UNTERSCHRIFT RA]
 ```
 
 ## Abgrenzung zu anderen Skills dieses Plugins
@@ -174,7 +174,7 @@ Zwischen Finanzamt [ORT] - Sachgebietsleiter [NAME] - und Steuerpflichtigem [NAM
 5. Bindung: Die Verstaendigung bindet beide Seiten; sie umfasst nicht die rechtliche Wuerdigung.
 6. Vorbehalt der Nachpruefung wird [aufgehoben/aufrechterhalten].
 
-Ort, Datum            [FA]                 [Mandant]              [Berater]
+Ort, Datum [FA] [Mandant] [Berater]
 ```
 
 ## Abgrenzung zu anderen Skills dieses Plugins
@@ -185,7 +185,7 @@ Ort, Datum            [FA]                 [Mandant]              [Berater]
 
 ## 3. `rechtsabteilung-dac7-und-plattformreporting`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für DAC7 und Plattformreporting: Plattformbetreiber prüfen Meldepflicht, Verkäuferdaten und Korrekturprozesse. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für DAC7 und Plattformreporting: Plattformbetreiber prüfen Meldepflicht, Verkäuferdaten und Korrekturprozesse. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: DAC7 und Plattformreporting
 
@@ -234,7 +234,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-organschaft-nach-eugh-bfh-update`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Organschaft nach EuGH/BFH-Update: Organträger, Eingliederung und Haftung werden für Konzernrechtsabteilungen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Organschaft nach EuGH/BFH-Update: Organträger, Eingliederung und Haftung werden für Konzernrechtsabteilungen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Organschaft nach EuGH/BFH-Update
 
@@ -283,7 +283,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 5. `rechtsabteilung-transfer-pricing-bei-ip-und-softwarelizenzen`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Transfer Pricing bei IP- und Softwarelizenzen: Intercompany-Lizenzen werden mit DEMPE, Benchmark und Dokumentation geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Transfer Pricing bei IP- und Softwarelizenzen: Intercompany-Lizenzen werden mit DEMPE, Benchmark und Dokumentation geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Transfer Pricing bei IP- und Softwarelizenzen
 
@@ -332,7 +332,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 6. `rechtsabteilung-vga-bei-geschaeftsfuehrer-und-beiratsverguetung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für vGA bei Geschäftsführer- und Beiratsvergütung: Vergütung, Rückwirkung, Dokumentation und Fremdvergleich werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für vGA bei Geschäftsführer- und Beiratsvergütung: Vergütung, Rückwirkung, Dokumentation und Fremdvergleich werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: vGA bei Geschäftsführer- und Beiratsvergütung
 
@@ -602,7 +602,7 @@ Stand: 05/2026.
 
 ## 9. `stb-buchhaltungsbutler-mandantencloud`
 
-**Fokus:** BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV. Methodik Konfiguration Belegworkflow GoBD-Risiken Honoraranpassung. Output eingerichtete Cloud-Schnittstelle und Prüfroutine.
+**Fokus:** BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV. Methodik Konfiguration BelegGoBD-Risiken Honoraranpassung. Output eingerichtete Cloud-Schnittstelle und Prüfroutine.
 
 # BuchhaltungsButler — Mandanten-Cloud-Loesung
 
@@ -639,7 +639,7 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 | BuchhaltungsButler | KMU mit hohem Belegaufkommen |
 | sevDesk | Solo-Selbstaendige, Kleinunternehmer |
 | Lexware-Office | Kleinmandanten, Klein-GmbH |
-| Candis | Mittelstand mit Beleg-Workflow |
+| Candis | Mittelstand mit Beleg-|
 | Datev DUO | StB-Mandanten (Standard) |
 
 ### Phase 2 — Schnittstelle zu DATEV
@@ -652,7 +652,7 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 
 - Mandant erhaelt Cloud-Konto.
 - StB-Lese-Zugang.
-- Belegworkflow festlegen.
+- Belegfestlegen.
 
 ### Phase 4 — Buchungsfreigabe
 

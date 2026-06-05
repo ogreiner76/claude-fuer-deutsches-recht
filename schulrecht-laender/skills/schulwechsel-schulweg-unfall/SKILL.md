@@ -1,13 +1,13 @@
 ---
 name: schulwechsel-schulweg-unfall
-description: "Nutze dies, wenn Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation im Plugin Schulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation prüfen.; Erstelle eine Arbeitsfassung zu Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schulwechsel, Schulweg Unfall Versicherung, Schwimmunterricht Befreiung, Sexualerziehung Und Elterninformation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

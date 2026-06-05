@@ -1,13 +1,13 @@
 ---
 name: verordnungen-vorrang-vorrang-unmittelbare
-description: "Nutze dies, wenn Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile im Plugin Europarecht Kompass konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verordnungen Verhandlung Vergleich Und Eskalation, Vorrang Dokumentenmatrix Und Lueckenliste, Vorrang Unmittelbare Wirkung Effet Utile: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile
+# Verordnungen Verhandlung Vergleich Und Eskalation, Vorrang Dokumentenmatrix Und Lueckenliste, Vorrang Unmittelbare Wirkung Effet Utile
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verordnungen Verhandlung Vergleich Und Eskalation, Vorrang Dokumentenmatrix Und Lueckenliste, Vorrang Unmittelbare Wirkung Effet Utile** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorrang Dokumentenmatrix Und Lueckenliste, Spezial Vorrang Unmittelbare Wirkung Effet Utile** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `europarecht-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verordnungen Verhandlung Vergleich Und Eskalation, Vorrang Dokumentenmatrix Und Lueckenliste, Vorrang Unmittelbare Wirkung Effet Utile** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `europarecht-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Verordnungen Verhandlung Vergleich Und Eskalation, Spezial Vorran
 # Verordnungen: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Verordnungen: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Verordnungen: Verhandlung, Vergleich und Eskalation / spezial verordnungen verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verordnungen: Verhandlung, Vergleich und Eskalation / verordnungen verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung / spezial vorrang dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung / vorrang dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,11 +113,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `europarecht-kompass`. Kontext des Plugins: Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `europarecht-kompass`. Kontext des Plugins: Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?

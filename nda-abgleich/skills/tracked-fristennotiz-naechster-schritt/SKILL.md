@@ -1,12 +1,12 @@
 ---
 name: tracked-fristennotiz-naechster-schritt
-description: "Nutze dies, wenn Tracked: Fristennotiz und nächster Schritt im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Bitte Tracked: Fristennotiz und nächster Schritt prüfen.; Erstelle eine Arbeitsfassung zu Tracked: Fristennotiz und nächster Schritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tracked: Fristennotiz und nächster Schritt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Tracked: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Tracked: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Tracked: Fristennotiz und nächster Schritt / spezial tracked fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Tracked: Fristennotiz und nächster Schritt / tracked fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

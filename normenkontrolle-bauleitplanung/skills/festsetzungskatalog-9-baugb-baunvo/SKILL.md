@@ -212,9 +212,9 @@ Drei Faktoren nach § 16 ff. BauNVO:
 
 - Art. 47 Abs. 2 Satz 2 BayBO: B-Plan kann abweichend festsetzen
 - Voraussetzungen:
-  - städtebauliche Rechtfertigung
-  - anderweitige Bedarfsdeckung (z.B. ÖPNV-Nähe, Mobilitätskonzept)
-  - Verhältnismäßigkeit
+ - städtebauliche Rechtfertigung
+ - anderweitige Bedarfsdeckung (z.B. ÖPNV-Nähe, Mobilitätskonzept)
+ - Verhältnismäßigkeit
 
 ### Praktische Höchstgrenze
 
@@ -237,10 +237,10 @@ Drei Faktoren nach § 16 ff. BauNVO:
 ### DIN 18005
 
 - Orientierungswerte:
-  - Reines Wohngebiet 50 dB(A) Tag / 35 dB(A) Nacht
-  - Allgemeines Wohngebiet 55 / 40 dB(A)
-  - Mischgebiet 60 / 45 dB(A)
-  - Urbanes Gebiet 63 / 48 dB(A)
+ - Reines Wohngebiet 50 dB(A) Tag / 35 dB(A) Nacht
+ - Allgemeines Wohngebiet 55 / 40 dB(A)
+ - Mischgebiet 60 / 45 dB(A)
+ - Urbanes Gebiet 63 / 48 dB(A)
 - Statische Bezugnahme zulässig
 
 ### TA Lärm

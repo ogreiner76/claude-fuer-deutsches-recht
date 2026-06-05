@@ -1,13 +1,13 @@
 ---
 name: ins-gerichtsverfahren-ins-sanktionen
-description: "Nutze dies, wenn Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg prüfen.; Erstelle eine Arbeitsfassung zu Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -59,18 +59,18 @@ darstellen, wann die Ad-hoc-Pflicht entsteht, und ob ein Aufschub zulässig ist.
 ### Schritt 2 – Insiderinformations-Prüfung (Art. 7 MAR)
 
 - Präzision: Ist das Verfahren und sein potenzieller Ausgang präzise genug?
-  (Laufendes Verfahren mit konkreten Klageanträgen ist präzise)
+ (Laufendes Verfahren mit konkreten Klageanträgen ist präzise)
 - Kursrelevanz: Würde ein verständiger Anleger das Verfahren bei der
-  Investitionsentscheidung berücksichtigen?
+ Investitionsentscheidung berücksichtigen?
 - Nichtöffentlichkeit: Ist das Verfahren noch nicht öffentlich bekannt?
-  (Viele Gerichtsverfahren werden öffentlich durch Pressemitteilungen oder Registereintragungen)
+ (Viele Gerichtsverfahren werden öffentlich durch Pressemitteilungen oder Registereintragungen)
 
 ### Schritt 3 – Aufschub wegen Verteidigungsinteressen
 
 - Legitimes Interesse: Beeinträchtigung der Verfahrensstrategie durch frühzeitige
-  Offenlegung der Streitwerte, Beweislage oder Vergleichsbereitschaft
+ Offenlegung der Streitwerte, Beweislage oder Vergleichsbereitschaft
 - Praxis: BaFin-Emittentenleitfaden erkennt dieses Interesse an, aber nur für die
-  Information über die Verfahrensstrategie, nicht für das Verfahren selbst, wenn bereits bekannt
+ Information über die Verfahrensstrategie, nicht für das Verfahren selbst, wenn bereits bekannt
 - Grenzen: Wenn Verfahren durch Kläger oder Gericht öffentlich gemacht wird → kein Aufschub
 
 ### Schritt 4 – Eskalationspunkte: Neue kursrelevante Entwicklungen
@@ -85,7 +85,7 @@ Neue Insiderinformationen entstehen ggf. bei:
 
 - Rechtsabteilung / externe Prozessanwälte: in Insiderliste aufnehmen
 - Regelmäßiger Update-Mechanismus: Quartalsbericht der Rechtsabteilung an Compliance
-  über wesentliche neue Entwicklungen in Verfahren mit Ad-hoc-Relevanz
+ über wesentliche neue Entwicklungen in Verfahren mit Ad-hoc-Relevanz
 
 ## Red-Team-Fragen
 
@@ -137,7 +137,7 @@ für jede Sanktionsebene eine Risikomatrix mit Tatbestand, Rechtsfolge und Verte
 § 97 WpHG (unterlassene oder verspätete Ad-hoc-Mitteilung):
 - Tatbestand: Emittent hat Insiderinformation nicht oder nicht rechtzeitig veröffentlicht
 - Anspruchsberechtigte: Anleger, die Finanzinstrumente nach Entstehung der Pflicht erworben
-  und nach Veröffentlichung mit Verlust veräußert haben (oder nach der Pflicht veräußert haben)
+ und nach Veröffentlichung mit Verlust veräußert haben (oder nach der Pflicht veräußert haben)
 - Verschulden: Vorsatz oder grobe Fahrlässigkeit des Emittenten
 - Schaden: Kursdifferenz zwischen fairem Wert (ohne Pflichtverletzung) und Kaufpreis
 
@@ -150,7 +150,7 @@ für jede Sanktionsebene eine Risikomatrix mit Tatbestand, Rechtsfolge und Verte
 Ordnungswidrigkeiten nach § 120 WpHG:
 - Verstöße gegen Art. 14 MAR (Insiderhandel, leichtfertig): bis zu 5 Mio. EUR
 - Verstöße gegen Art. 17 MAR (Ad-hoc-Pflicht): bis zu 2,5 Mio. EUR (natürliche Person)
-  oder 2 % des Jahresumsatzes (juristische Person), max. 5 Mio. EUR oder 15 Mio. EUR
+ oder 2 % des Jahresumsatzes (juristische Person), max. 5 Mio. EUR oder 15 Mio. EUR
 - Verstöße gegen Art. 18 MAR (Insiderliste): bis zu 1 Mio. EUR
 - Verstöße gegen Art. 19 MAR (Directors' Dealings): bis zu 1 Mio. EUR
 

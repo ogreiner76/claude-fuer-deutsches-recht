@@ -1,13 +1,13 @@
 ---
 name: notare-urkundensammlung-verwahrung-02
-description: "Nutze dies, wenn Notare Urkundensammlung Und Verwahrung Organisationspflicht Und, Notare Verbraucherwiderruf Und Beurkundung Kammerantwort Und Ve, Notare Verbraucherwiderruf Und Beurkundung Organisationspflicht, Notare Verschwiegenheit Und Datenraum Kammerantwort Und Verfahr, Notare Verschwiegenheit Und Datenraum Organisationspflicht Und im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Urkundensammlung Und Verwahrung Organisationspflicht Und, Notare Verbraucherwiderruf Und Beurkundung Kammerantwort Und Ve, Notare Verbraucherwiderruf Und Beurkundung Organisationspflicht, Notare Verschwiegenheit Und Datenraum Kammerantwort Und Verfahr, Notare Verschwiegenheit Und Datenraum Organisationspflicht Und prüfen.; Erstelle eine Arbeitsfassung zu Notare Urkundensammlung Und Verwahrung Organisationspflicht Und, Notare Verbraucherwiderruf Und Beurkundung Kammerantwort Und Ve, Notare Verbraucherwiderruf Und Beurkundung Organisationspflicht, Notare Verschwiegenhe..."
+description: "Nutze dies bei Notare Urkundensammlung Und Verwahrung Organisationspflicht Und, Notare Verbraucherwiderruf Und Beurkundung Kammerantwort Und Ve, Notare Verbraucherwiderruf Und Beurkundung Organisationspflicht, Notare Verschwiegenheit Und Datenraum Kammerantwort Und Verfahr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Urkundensammlung Und Verwahrung Organisationspflicht Und, Notare Verbraucherwiderruf Und Beurkundung Kammerantwort Und Ve, Notare Verbraucherwiderruf Und Beurkundung Organisationspflicht, Notare Verschwiegenheit Und Datenraum Kammerantwort Und Verfahr, Notare Verschwiegenheit Und Datenraum Organisationspflicht Und
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Urkundensammlung Und Verwahrung Organisationspflicht Und, Notare Verbraucherwiderruf Und Beurkundung Kammerantwort Und Ve, Notare Verbraucherwiderruf Und Beurkundung Organisationspflicht, Notare Verschwiegenheit Und Datenraum Kammerantwort Und Verfahr, Notare Verschwiegenheit Und Datenraum Organisationspflicht Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

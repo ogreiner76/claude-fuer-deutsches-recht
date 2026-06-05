@@ -1,13 +1,13 @@
 ---
 name: mehrsprachige-erklaerung-meldebehoerde
-description: "Nutze dies, wenn Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern prüfen.; Erstelle eine Arbeitsfassung zu Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachr
 ## Aufgabe
 Erzeugt zweisprachige Erklärung: einfacher deutscher Kerntext plus Übersetzung/Glossar in gewünschter Arbeitssprache.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei Anmeldung, Ummeldung, Auskunftssperre, Meldebescheinigung, Bußgeldandrohung und Nachweisen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Elternrolle, Sorgeberechtigung, Vertretung, Anhörung Kind, Schule/Jugendamt/Familiengericht.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Formuliert Nachreichungsankündigung und verhindert spontane unvollständige Antworten bei unklarer Aktenlage.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

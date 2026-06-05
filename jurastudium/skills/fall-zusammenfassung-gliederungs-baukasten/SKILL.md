@@ -1,13 +1,13 @@
 ---
 name: fall-zusammenfassung-gliederungs-baukasten
-description: "Nutze dies, wenn Fall Zusammenfassung, Gliederungs Baukasten, Gutachten Uebung im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Fall Zusammenfassung, Gliederungs Baukasten, Gutachten Uebung prüfen.; Erstelle eine Arbeitsfassung zu Fall Zusammenfassung, Gliederungs Baukasten, Gutachten Uebung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fall Zusammenfassung, Gliederungs Baukasten, Gutachten Uebung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fall Zusammenfassung, Gliederungs Baukasten, Gutachten Uebung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fall Zusammenfassung, Gliederungs Baukasten, Gutachten Uebung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -73,25 +73,25 @@ Das Plugin verwendet **ausschließlich** das deutsche Vier-Schritte-Schema. IRAC
 
 ```
 1. OBERSATZ
-   Formulierung: "[Person] könnte gegen [Person] einen Anspruch auf
-   [Rechtsfolge] gemäß § X BGB/StGB/VwGO haben."
-   Pflicht: hypothetisch, nicht assertorisch. "A hat …" ist Urteilsstil → falsch
-   für Klausuren.
+ Formulierung: "[Person] könnte gegen [Person] einen Anspruch auf
+ [Rechtsfolge] gemäß § X BGB/StGB/VwGO haben."
+ Pflicht: hypothetisch, nicht assertorisch. "A hat …" ist Urteilsstil → falsch
+ für Klausuren.
 
 2. DEFINITION
-   Abstrakte Tatbestandsmerkmale der Norm (wörtlich oder paraphrasiert).
-   Pflicht: Kommentarzitat oder Lehrbuchbeleg einfügen.
-   Beispiel: "Besitz i. S. d. § 854 BGB ist die tatsächliche Sachherrschaft,
-   lizenzpflichtige Literaturquelle/Herrler, BGB, 84. Aufl. 2025, § 854 Rn. 1."
+ Abstrakte Tatbestandsmerkmale der Norm (wörtlich oder paraphrasiert).
+ Pflicht: Kommentarzitat oder Lehrbuchbeleg einfügen.
+ Beispiel: "Besitz i. S. d. § 854 BGB ist die tatsächliche Sachherrschaft,
+ lizenzpflichtige Literaturquelle/Herrler, BGB, 84. Aufl. 2025, § 854 Rn. 1."
 
 3. SUBSUMTION
-   Anwendung der abstrakten Merkmale auf die konkreten Sachverhaltsfakten.
-   Pflicht: jeden Sachverhaltsaspekt explizit subsumieren, keine stillschweigen-
-   de Übernahme. Streitstände auflösen (h.M. mit Beleg, Gegenauffassung benennen).
+ Anwendung der abstrakten Merkmale auf die konkreten Sachverhaltsfakten.
+ Pflicht: jeden Sachverhaltsaspekt explizit subsumieren, keine stillschweigen-
+ de Übernahme. Streitstände auflösen (h.M. mit Beleg, Gegenauffassung benennen).
 
 4. ERGEBNIS
-   Kurze, eindeutige Aussage: "Damit hat A gegen B einen Anspruch auf X
-   gemäß § Y BGB. / Der Anspruch besteht nicht."
+ Kurze, eindeutige Aussage: "Damit hat A gegen B einen Anspruch auf X
+ gemäß § Y BGB. / Der Anspruch besteht nicht."
 ```
 
 ## Anspruchsgrundlagen-Reihenfolge
@@ -169,16 +169,16 @@ Beispiel-Korrektur:
 **Lösungsskizze – Gliederung**
 
 A. Ansprüche des A gegen B
-   I.   § X BGB – [Kurzbezeichnung]
-        Obersatz: [leer – deine Formulierung]
-        Definition: [Hinweis auf Tatbestandsmerkmale; Kommentarstelle]
-        Subsumtion: [leer – deine Subsumtion]
-        Ergebnis: [leer]
-   II.  § Y BGB – [Kurzbezeichnung]
-        [...]
+ I. § X BGB – [Kurzbezeichnung]
+ Obersatz: [leer – deine Formulierung]
+ Definition: [Hinweis auf Tatbestandsmerkmale; Kommentarstelle]
+ Subsumtion: [leer – deine Subsumtion]
+ Ergebnis: [leer]
+ II. § Y BGB – [Kurzbezeichnung]
+ [...]
 
 B. Ansprüche des B gegen A
-   [...]
+ [...]
 
 **Offene Streitstände:** [Liste mit Kommentarstellen, ohne Lösung]
 **Zitierhinweise:** [Formatvorgaben für die in der Lösung benötigten Quellen]
@@ -326,33 +326,33 @@ Nach Fertigstellung eines Abschnitts: "Gliederung schließen. Frage: [konkreter 
 **Klassische Gliederung (Standard für Hausarbeiten und Lernblätter):**
 ```
 A. [Rechtsgebiet / Oberthema]
-   I. [Hauptproblem]
-      1. [Tatbestandsmerkmal / Fallgruppe]
-         a) Definition: [LÜCKE — aus Skript ergänzen]
-         b) Leitfall: [LÜCKE — Leitentscheidung eintragen]
-         c) Ausnahme: [LÜCKE]
-      2. [Nächstes Merkmal]
+ I. [Hauptproblem]
+ 1. [Tatbestandsmerkmal / Fallgruppe]
+ a) Definition: [LÜCKE — aus Skript ergänzen]
+ b) Leitfall: [LÜCKE — Leitentscheidung eintragen]
+ c) Ausnahme: [LÜCKE]
+ 2. [Nächstes Merkmal]
 ```
 
 **Paragraphenübersicht (für Schnellorientierung):**
 ```
 § 119 BGB — Anfechtung wegen Irrtums
-  - Tatbestand: Inhalts-/Erklärungsirrtum; Eigenschaftsirrtum (Abs. 2)
-  - Rechtsfolge: Anfechtbarkeit, Ersatz des Vertrauensschadens § 122 BGB
-  - Abgrenzung: § 123 BGB (arglistige Täuschung)
-  - Leitfall: [LÜCKE]
+ - Tatbestand: Inhalts-/Erklärungsirrtum; Eigenschaftsirrtum (Abs. 2)
+ - Rechtsfolge: Anfechtbarkeit, Ersatz des Vertrauensschadens § 122 BGB
+ - Abgrenzung: § 123 BGB (arglistige Täuschung)
+ - Leitfall: [LÜCKE]
 ```
 
 **Flussdiagramm-Skizze:**
 ```
 Anspruch aus § 280 Abs. 1 BGB?
-  → Schuldverhältnis? (§§ 241 ff. BGB)
-    JA → Pflichtverletzung? (§ 241 Abs. 2 BGB)
-      JA → Vertretenmüssen? (§ 276 BGB, Vermutung)
-        JA → Schaden? (§§ 249 ff. BGB)
-          JA → Anspruch (+)
-          NEIN → (-)
-        NEIN → (-)
+ → Schuldverhältnis? (§§ 241 ff. BGB)
+ JA → Pflichtverletzung? (§ 241 Abs. 2 BGB)
+ JA → Vertretenmüssen? (§ 276 BGB, Vermutung)
+ JA → Schaden? (§§ 249 ff. BGB)
+ JA → Anspruch (+)
+ NEIN → (-)
+ NEIN → (-)
 ```
 
 ## Beispiel
@@ -363,14 +363,14 @@ Anspruch aus § 280 Abs. 1 BGB?
 ```
 A. Grundlagen des Schuldverhältnisses (§§ 241–243 BGB)
 B. Leistungsstörungsrecht
-   I.   Unmöglichkeit (§§ 275, 283, 311a BGB)
-         1. Arten der Unmöglichkeit [LÜCKE]
-         2. Rechtsfolgen [LÜCKE]
-   II.  Verzug (§§ 280 Abs. 2, 286 ff. BGB)
-         1. Schuldnerverzug [LÜCKE]
-         2. Gläubigerverzug [LÜCKE]
-   III. Schadensersatz statt der Leistung (§§ 280 Abs. 3, 281, 283, 311a BGB)
-         [LÜCKE — Prüfungsreihenfolge nach Hemmer SchuldR AT, Rn. 150 ff.]
+ I. Unmöglichkeit (§§ 275, 283, 311a BGB)
+ 1. Arten der Unmöglichkeit [LÜCKE]
+ 2. Rechtsfolgen [LÜCKE]
+ II. Verzug (§§ 280 Abs. 2, 286 ff. BGB)
+ 1. Schuldnerverzug [LÜCKE]
+ 2. Gläubigerverzug [LÜCKE]
+ III. Schadensersatz statt der Leistung (§§ 280 Abs. 3, 281, 283, 311a BGB)
+ [LÜCKE — Prüfungsreihenfolge nach Hemmer SchuldR AT, Rn. 150 ff.]
 C. Besondere Leistungspflichten (§ 241 Abs. 2 BGB)
 D. Rücktritt (§§ 323 ff. BGB) [LÜCKE]
 ```

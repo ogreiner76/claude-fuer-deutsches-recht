@@ -1,33 +1,33 @@
 ---
 name: eugh-rechtsprechung-beweislast-jurisdiktion
-description: "Nutze dies, wenn Eugh Rechtsprechung Leitentscheidungen, Spezial Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Eugh Rechtsprechung Leitentscheidungen, Spezial Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority prüfen.; Erstelle eine Arbeitsfassung zu Eugh Rechtsprechung Leitentscheidungen, Spezial Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eugh Rechtsprechung Leitentscheidungen, Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Eugh Rechtsprechung Leitentscheidungen, Spezial Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority
+# Eugh Rechtsprechung Leitentscheidungen, Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `eugh-rechtsprechung-leitentscheidungen` | Workflow-Skill zu eugh rechtsprechung leitentscheidungen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `eugh-rechtsprechung-leitentscheidungen` | Arbeitsmodul zu eugh rechtsprechung leitentscheidungen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `spezial-rechtsprechung-beweislast-und-darlegungslast` | Rechtsprechung: Beweislast, Darlegungslast und Substantiierung im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `jurisdiktion-aegypten-competition-authority` | Jurisdiktionsskill Ägypten: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
 | `jurisdiktion-albanien-competition-authority` | Jurisdiktionsskill Albanien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
 
 ## Arbeitsweg
 
-Für **Eugh Rechtsprechung Leitentscheidungen, Spezial Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Eugh Rechtsprechung Leitentscheidungen, Rechtsprechung Beweislast Und Darlegungslast, Jurisdiktion Aegypten Competition Authority, Jurisdiktion Albanien Competition Authority** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `eugh-rechtsprechung-leitentscheidungen`
 
-**Fokus:** Workflow-Skill zu eugh rechtsprechung leitentscheidungen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu eugh rechtsprechung leitentscheidungen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 
 # EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition
@@ -110,7 +110,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 # Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Rechtsprechung: Beweislast, Darlegungslast und Substantiierung / spezial rechtsprechung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechtsprechung: Beweislast, Darlegungslast und Substantiierung / rechtsprechung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

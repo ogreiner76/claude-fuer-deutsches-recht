@@ -1,13 +1,13 @@
 ---
 name: spendenrecht-partei-sponsoring-staatliche
-description: "Nutze dies, wenn Spendenrecht Partei, Sponsoring Partei, Staatliche Parteienfinanzierung im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Spendenrecht Partei, Sponsoring Partei, Staatliche Parteienfinanzierung prüfen.; Erstelle eine Arbeitsfassung zu Spendenrecht Partei, Sponsoring Partei, Staatliche Parteienfinanzierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Spendenrecht Partei, Sponsoring Partei, Staatliche Parteienfinanzierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Spendenrecht Partei, Sponsoring Partei, Staatliche Parteienfinanzierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Spendenrecht Partei, Sponsoring Partei, Staatliche Parteienfinanzierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Spendenrecht Partei, Sponsoring Partei, Staatliche Parteienfinanzierung**
 ## Aufgabe
 Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -118,7 +118,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Trennt Spende, Sponsoring, Eintritt, Tombola, Sachleistung, geldwerter Vorteil und Veröffentlichung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -159,7 +159,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erklärt Anspruchslogik, Stimmen, Zuwendungen, absolute Obergrenze, Antrag und Rechenschaftsbezug.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -177,8 +177,8 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 1. Voraussetzungen für Anspruch
 - **Wahlergebnis-Schwellen** § 18 IV PartG:
-  - Bei Bundestagswahl / Europawahl: mindestens **0,5 %** der gültigen Stimmen.
-  - Bei Landtagswahl: mindestens **1,0 %** der gültigen Stimmen (Land).
+ - Bei Bundestagswahl / Europawahl: mindestens **0,5 %** der gültigen Stimmen.
+ - Bei Landtagswahl: mindestens **1,0 %** der gültigen Stimmen (Land).
 - **Antragstellung** durch Bundes- bzw. Landesvorsitzende.
 - **Rechenschaftsbericht** § 23 PartG fristgerecht eingereicht (sonst Verlust der Mittel, § 19a PartG).
 
@@ -187,12 +187,12 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 Drei Komponenten zur jährlichen Mittelzuteilung:
 
 1. **Wählerstimmenanteil**:
-   - **1 Euro** pro Stimme bis 4 Mio. Stimmen,
-   - **0,83 Euro** pro Stimme ab 4 Mio. (degressiv).
+ - **1 Euro** pro Stimme bis 4 Mio. Stimmen,
+ - **0,83 Euro** pro Stimme ab 4 Mio. (degressiv).
 2. **Mitgliedsbeiträge und Mandatsträgerbeiträge**:
-   - **0,45 Euro** pro Euro selbst eingenommener Beiträge.
+ - **0,45 Euro** pro Euro selbst eingenommener Beiträge.
 3. **Spenden natürlicher Personen** (nicht jur. Personen):
-   - **0,45 Euro** pro Euro Spende natürlicher Person, gedeckelt auf maximal 3.300 Euro Spende pro Spender / Jahr (für die Zuwendung).
+ - **0,45 Euro** pro Euro Spende natürlicher Person, gedeckelt auf maximal 3.300 Euro Spende pro Spender / Jahr (für die Zuwendung).
 
 ### 3. Absolute Obergrenze (Gesamtbetrag § 18 II PartG)
 - **Gesamtsumme** für alle Parteien: durch Gesetz festgelegt; jährlich indexiert (Preisindexkopplung); aktuelle Größenordnung 2024: ca. **200 Mio. Euro** (Live-Prüfung über www.bundestag.de/parlament/praesidium/parteienfinanzierung).

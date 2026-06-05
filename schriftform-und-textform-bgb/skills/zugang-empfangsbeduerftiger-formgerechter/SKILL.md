@@ -1,20 +1,20 @@
 ---
 name: zugang-empfangsbeduerftiger-formgerechter
-description: "Nutze dies, wenn Zugang Empfangsbeduerftiger Willenserklaerung Paragraph 130 Bgb, Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23 im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Bitte Zugang Empfangsbeduerftiger Willenserklaerung Paragraph 130 Bgb, Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23 prüfen.; Erstelle eine Arbeitsfassung zu Zugang Empfangsbeduerftiger Willenserklaerung Paragraph 130 Bgb, Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zugang Empfangsbeduerftiger Willenserklaerung Paragraph 130 Bgb, Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zugang Empfangsbeduerftiger Willenserklaerung Paragraph 130 Bgb, Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zugang Empfangsbeduerftiger Willenserklaerung Paragraph 130 Bgb, Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb` | Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb. |
-| `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23` | Workflow-Skill zu zugang formgerechter erklaerung bgh viii zr 159 23. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23` | Arbeitsmodul zu zugang formgerechter erklaerung bgh viii zr 159 23: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -100,16 +100,16 @@ Empfehlung zur Zugangssicherung bei wichtigen Erklärungen:
 Für rechtserhebliche Erklärungen (Kündigung, Widerruf, Mahnung) empfehlen wir:
 
 Option A — Papier:
-  Bote mit Übergabe gegen Quittung oder Einwurf mit Attest
-  Alternativ: Einschreiben/Rückschein (beweist Übermittlung, nicht Inhalt)
+ Bote mit Übergabe gegen Quittung oder Einwurf mit Attest
+ Alternativ: Einschreiben/Rückschein (beweist Übermittlung, nicht Inhalt)
 
 Option B — Elektronisch (qES):
-  qES-Dokument per E-Mail an Empfänger; Eingangsbestätigung anfordern.
-  Achtung: Ausdruck durch Gericht oder Dritte wahrt keine Formwirksamkeit
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ qES-Dokument per E-Mail an Empfänger; Eingangsbestätigung anfordern.
+ Achtung: Ausdruck durch Gericht oder Dritte wahrt keine Formwirksamkeit
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Option C — Gerichtliche Zustellung:
-  Bei streitigem Verhältnis: Antrag auf Zustellung nach § 132 BGB möglich.
+ Bei streitigem Verhältnis: Antrag auf Zustellung nach § 132 BGB möglich.
 ```
 
 ### Checkliste Zugangsnachweis
@@ -144,7 +144,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=0
 
 ## 2. `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`
 
-**Fokus:** Workflow-Skill zu zugang formgerechter erklaerung bgh viii zr 159 23. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu zugang formgerechter erklaerung bgh viii zr 159 23: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -186,23 +186,23 @@ Der BGH stützt die Entscheidung auf folgende Überlegungen:
 
 ```
 Schritt 1: Dokument erstellen und qES anbringen
-  → Kündigungsschreiben als PDF/A erstellen
-  → qES über qualifizierten Vertrauensdiensteanbieter (z. B. D-Trust) anbringen
-  → Zertifikats-Gültigkeit prüfen
+ → Kündigungsschreiben als PDF/A erstellen
+ → qES über qualifizierten Vertrauensdiensteanbieter (z. B. D-Trust) anbringen
+ → Zertifikats-Gültigkeit prüfen
 
 Schritt 2: Dokument elektronisch übermitteln
-  → PDF mit eingebetteter Signatur als E-Mail-Anhang an Mieter senden
-  → NICHT ausdrucken und physisch zustellen (dann ist qES nicht mehr prüfbar)
-  → Alternativ: über gesicherte Plattform zustellen (De-Mail, EGVP wenn zulässig)
+ → PDF mit eingebetteter Signatur als E-Mail-Anhang an Mieter senden
+ → NICHT ausdrucken und physisch zustellen (dann ist qES nicht mehr prüfbar)
+ → Alternativ: über gesicherte Plattform zustellen (De-Mail, EGVP wenn zulässig)
 
 Schritt 3: Zugang sichern
-  → Eingangsbestätigung des Mieters anfordern
-  → Sendebericht der E-Mail aufbewahren
-  → Alternativ: Bote übergibt USB-Stick mit der Datei gegen Quittung
+ → Eingangsbestätigung des Mieters anfordern
+ → Sendebericht der E-Mail aufbewahren
+ → Alternativ: Bote übergibt USB-Stick mit der Datei gegen Quittung
 
 Schritt 4: Empfänger muss Signatur prüfen können
-  → Sicherstellen, dass Mieter Software hat oder einfach erhalten kann
-  → Adobe Acrobat Reader (kostenlos) oder validator.bund.de reichen
+ → Sicherstellen, dass Mieter Software hat oder einfach erhalten kann
+ → Adobe Acrobat Reader (kostenlos) oder validator.bund.de reichen
 ```
 
 ### Konsequenzen der Entscheidung für verschiedene Akteure

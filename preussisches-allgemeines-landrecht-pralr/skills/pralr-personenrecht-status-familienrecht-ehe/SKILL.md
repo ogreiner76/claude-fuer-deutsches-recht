@@ -1,13 +1,13 @@
 ---
 name: pralr-personenrecht-status-familienrecht-ehe
-description: "Nutze dies, wenn Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz, Pralr 014 Nachbarrecht Und Pommern Fortwirkung im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz, Pralr 014 Nachbarrecht Und Pommern Fortwirkung prüfen.; Erstelle eine Arbeitsfassung zu Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz, Pralr 014 Nachbarrecht Und Pommern Fortwirkung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz, Pralr 014 Nachbarrecht Und Pommern Fortwirkung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz, Pralr 014 Nachbarrecht Und Pommern Fortwirkung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

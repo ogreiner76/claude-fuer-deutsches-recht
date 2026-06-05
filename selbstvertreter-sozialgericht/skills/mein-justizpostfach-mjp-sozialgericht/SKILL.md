@@ -46,9 +46,9 @@ Sie brauchen:
 
 - **Computer** oder Smartphone mit Internet
 - Eine **Identifikation**, eine der drei:
-  - Personalausweis mit Online-Funktion (eID) + PIN + Lesegeraet oder Smartphone-App "AusweisApp"
-  - ELSTER-Zertifikat (von Ihrer Steuererklaerung)
-  - DE-Mail-Account (auslaufend, lieber andere Wege)
+ - Personalausweis mit Online-Funktion (eID) + PIN + Lesegeraet oder Smartphone-App "AusweisApp"
+ - ELSTER-Zertifikat (von Ihrer Steuererklaerung)
+ - DE-Mail-Account (auslaufend, lieber andere Wege)
 
 ### Schritt 2 — Konto anlegen
 

@@ -1,13 +1,13 @@
 ---
 name: jugendamt-anschreiben-kindergeld-antrag
-description: "Nutze dies, wenn Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 8A im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 8A prüfen.; Erstelle eine Arbeitsfassung zu Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 8A.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 8a: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 8A
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 8A** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Jugendamt Anschreiben, Kindergeld Antrag, Kinderzuschlag, Kindeswohl Und 
 ## Aufgabe
 Ordnet Schreiben des Jugendamts, Hilfeangebot, Gefährdungseinschätzung, Mitwirkung und Grenzen freiwilliger Angaben.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Familienkasse, Antrag, Nachweise, Studium/Ausbildung, Rückforderung, Einspruch und Fristen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei KiZ-Antrag, Einkommen, Wohnkosten, Nachweisen, Ablehnung und Schnittstelle Wohngeld/Bürgergeld.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Kinderschutzverfahren, Hausbesuch, Gespräch, Schutzplan, Familiengericht und Dokumentation.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

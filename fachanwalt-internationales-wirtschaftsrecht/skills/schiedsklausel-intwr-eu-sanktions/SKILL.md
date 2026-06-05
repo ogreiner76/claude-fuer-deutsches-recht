@@ -1,13 +1,13 @@
 ---
 name: schiedsklausel-intwr-eu-sanktions
-description: "Nutze dies, wenn Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung
+# Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktionen Trade Compliance Spezial, Sanktions Compliance Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Schiedsklausel Formular Portal Und Einreichung, Intwr Eu Sanktion
 # Schiedsklausel: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Schiedsklausel: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Schiedsklausel: Formular, Portal und Einreichungslogik / spezial schiedsklausel formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schiedsklausel: Formular, Portal und Einreichungslogik / schiedsklausel formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -196,25 +196,25 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 Article [X] – Sanctions Compliance and Re-Export Restriction
 
 1. The Buyer represents and warrants that neither the Buyer nor, to its
-   knowledge, any of its ultimate beneficial owners appear on any
-   applicable sanctions list, including the EU Consolidated Sanctions
-   List, the OFAC SDN List, or the UK HMT Sanctions List.
+ knowledge, any of its ultimate beneficial owners appear on any
+ applicable sanctions list, including the EU Consolidated Sanctions
+ List, the OFAC SDN List, or the UK HMT Sanctions List.
 
 2. The Buyer undertakes not to (re-)export, transfer, sell, supply or
-   otherwise make available the Goods or any products derived therefrom,
-   directly or indirectly, to or for use in or by:
-   (a) the Russian Federation, the Republic of Belarus, or any other
-       country subject to comprehensive sanctions; or
-   (b) any person or entity listed on any applicable sanctions list.
+ otherwise make available the Goods or any products derived therefrom,
+ directly or indirectly, to or for use in or by:
+ (a) the Russian Federation, the Republic of Belarus, or any other
+ country subject to comprehensive sanctions; or
+ (b) any person or entity listed on any applicable sanctions list.
 
 3. The Buyer shall ensure that this obligation is binding on all
-   subsequent purchasers, distributors and end-users by incorporating
-   a provision equivalent to this Article in all subsequent contracts.
+ subsequent purchasers, distributors and end-users by incorporating
+ a provision equivalent to this Article in all subsequent contracts.
 
 4. Breach of this Article entitles the Seller to terminate the contract
-   immediately without notice and to claim all damages resulting therefrom.
-   The Buyer shall indemnify the Seller against any fines or penalties
-   imposed on the Seller due to the Buyer's non-compliance.
+ immediately without notice and to claim all damages resulting therefrom.
+ The Buyer shall indemnify the Seller against any fines or penalties
+ imposed on the Seller due to the Buyer's non-compliance.
 ```
 
 ### BAFA-Anfrage bei zweifelhaftem Exportgeschäft
@@ -257,10 +257,10 @@ Erstellt durch: [Compliance-Officer Name]
 2. Betroffenes Geschäft: [Vertrags-Nr., Beschreibung, Wert EUR X]
 3. Gelistete Person/Unternehmen: [Name, Listenposition]
 4. Sofortmaßnahmen:
-   a) Transaktion gestoppt: [Datum, durch wen]
-   b) Zahlung storniert/gesperrt: [Bankname, Referenz]
-   c) Geschäftsleitung informiert: [Name, Datum]
-   d) Anwalt kontaktiert: [Kanzlei, Datum]
+ a) Transaktion gestoppt: [Datum, durch wen]
+ b) Zahlung storniert/gesperrt: [Bankname, Referenz]
+ c) Geschäftsleitung informiert: [Name, Datum]
+ d) Anwalt kontaktiert: [Kanzlei, Datum]
 5. Nächste Schritte: [BAFA-Anfrage / Selbstanzeige prüfen / Vertragsauflösung]
 6. Archivierungspflicht: 10 Jahre (§ 18 AWG Verjährung)
 ```
@@ -378,8 +378,8 @@ A. GEPRUEFTE REGIME
 
 B. SCREENINGERGEBNISSE
 1. Personenscreening (Geschaeftspartner + UBO):
-   - [PARTNER NAME]: [Kein Treffer / Treffer AZ LISTUNG]
-   - UBO [NAME]: [Kein Treffer / Treffer]
+ - [PARTNER NAME]: [Kein Treffer / Treffer AZ LISTUNG]
+ - UBO [NAME]: [Kein Treffer / Treffer]
 2. Laender-Embargo-Check: Bestimmungsland [LAND] — [Totalemb. / Teilemb. / Kein Emb.]
 3. Dual-Use-Pruefung Gueter [CN-CODE]: [Genehmigungspflichtig Pos. X / Frei]
 4. Dienstleistungsverbot Art. 5n VO 833/2014: [Betroffen / Nicht betroffen]

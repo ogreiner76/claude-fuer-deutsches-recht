@@ -1,13 +1,13 @@
 ---
 name: kandidatenaufstellung-bundestag
-description: "Nutze dies, wenn Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband prüfen.; Erstelle eine Arbeitsfassung zu Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassen
 ## Aufgabe
 Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Checkt Wählbarkeit, Mitgliedschaft, Zustimmung, Wohnsitzfragen soweit relevant, Unvereinbarkeiten und Unterlagen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Hilft Schatzmeisterei bei Belegen, Kasse, Konto, Vier-Augen-Prinzip, Quittungen, Jahresabschluss und Prüfung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

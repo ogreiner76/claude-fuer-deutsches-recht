@@ -1,13 +1,13 @@
 ---
 name: kommunikationstagebuch-krankenkasse-bescheid
-description: "Nutze dies, wenn Kommunikationstagebuch, Krankenkasse Bescheid, Laien Sanity Check, Leichte Einfache Sprache im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Kommunikationstagebuch, Krankenkasse Bescheid, Laien Sanity Check, Leichte Einfache Sprache prüfen.; Erstelle eine Arbeitsfassung zu Kommunikationstagebuch, Krankenkasse Bescheid, Laien Sanity Check, Leichte Einfache Sprache.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kommunikationstagebuch, Krankenkasse Bescheid, Laien Sanity Check, Leichte Einfache Sprache: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kommunikationstagebuch, Krankenkasse Bescheid, Laien Sanity Check, Leichte Einfache Sprache
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kommunikationstagebuch, Krankenkasse Bescheid, Laien Sanity Check, Leichte Einfache Sprache** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Kommunikationstagebuch, Krankenkasse Bescheid, Laien Sanity Check, Leicht
 ## Aufgabe
 Erstellt Behörden-Kommunikationsjournal mit Datum, Person, Inhalt, Zusage, Frist und nächster Aktion.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Routet Krankengeld, Hilfsmittel, Reha, Beitragsbescheid, Widerspruch und Sozialgericht.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Letzte Prüfung: Habe ich verstanden, was passiert, welche Frist läuft, was ich sende und was ich nicht sende?
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

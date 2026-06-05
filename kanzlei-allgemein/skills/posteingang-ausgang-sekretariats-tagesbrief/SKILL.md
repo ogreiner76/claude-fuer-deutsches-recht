@@ -1,13 +1,13 @@
 ---
 name: posteingang-ausgang-sekretariats-tagesbrief
-description: "Nutze dies, wenn Posteingang Ausgang, Sekretariats Tagesbrief im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Posteingang Ausgang, Sekretariats Tagesbrief prüfen.; Erstelle eine Arbeitsfassung zu Posteingang Ausgang, Sekretariats Tagesbrief.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Posteingang Ausgang, Sekretariats Tagesbrief: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Posteingang Ausgang, Sekretariats Tagesbrief
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Posteingang Ausgang, Sekretariats Tagesbrief** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -54,17 +54,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```yaml
 - eingang-id: PE-2026-04223
-  empfangsdatum: 2026-05-20
-  eingangsweg: post  # post / bea / egvp / e-mail / fax / persoenlich
-  absender: Amtsgericht München
-  art: urteil  # urteil / beschluss / verfügung / mandantenbrief / behörden-bescheid / sonstiges
-  mandat-az: 2026/0042
-  betreff: Klage gg. ABC GmbH
-  zustaendigkeit: RA Mueller
-  fristfolge: berufungsfrist
-  fristtermin: 2026-06-20
-  aktion: an-fristenbuch
-  ablage: mandate/2026-0042/02_bescheide/2026-05-20-urteil-ag-muenchen.pdf
+ empfangsdatum: 2026-05-20
+ eingangsweg: post # post / bea / egvp / e-mail / fax / persoenlich
+ absender: Amtsgericht München
+ art: urteil # urteil / beschluss / verfügung / mandantenbrief / behörden-bescheid / sonstiges
+ mandat-az: 2026/0042
+ betreff: Klage gg. ABC GmbH
+ zustaendigkeit: RA Mueller
+ fristfolge: berufungsfrist
+ fristtermin: 2026-06-20
+ aktion: an-fristenbuch
+ ablage: mandate/2026-0042/02_bescheide/2026-05-20-urteil-ag-muenchen.pdf
 ```
 
 ### Pflichtschritte
@@ -84,18 +84,18 @@ Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Vier-Tages-Fikti
 
 ```yaml
 - ausgang-id: PA-2026-09817
-  versanddatum: 2026-05-21
-  versandweg: bea
-  empfaenger: Amtsgericht München
-  empfaenger-safe-id: 1234567890ABCDEF
-  art: schriftsatz
-  mandat-az: 2026/0042
-  betreff: Berufung in Sachen Mueller gg. ABC GmbH
-  unterzeichnet-von: RA Mueller
-  versandnummer: V-2026-00123  # Verweis auf versand-vor-check
-  quittung-pdf: mandate/2026-0042/03_schriftsaetze/2026-05-21-bea-quittung.pdf
-  zugehoerige-frist: berufungsfrist 20.06.2026
-  fristerledigung: ja
+ versanddatum: 2026-05-21
+ versandweg: bea
+ empfaenger: Amtsgericht München
+ empfaenger-safe-id: 1234567890ABCDEF
+ art: schriftsatz
+ mandat-az: 2026/0042
+ betreff: Berufung in Sachen Mueller gg. ABC GmbH
+ unterzeichnet-von: RA Mueller
+ versandnummer: V-2026-00123 # Verweis auf versand-vor-check
+ quittung-pdf: mandate/2026-0042/03_schriftsaetze/2026-05-21-bea-quittung.pdf
+ zugehoerige-frist: berufungsfrist 20.06.2026
+ fristerledigung: ja
 ```
 
 ### Pflichtschritte
@@ -181,10 +181,10 @@ Empfänger: alle Anwälte und Sekretariat
 ==========================================
 
 Az 2025/0234 — Berufungsfrist heute 24:00 Uhr (Notfrist)
-  Mandant Schmidt GmbH
-  Berufung gegen Urteil LG München vom 21.04.2026 (Zustellung 21.04.2026)
-  Status: Entwurf fertig — qeS-Signatur und beA-Versand bis spaetestens 17:00 Uhr
-  Verantwortlich: RA Mueller
+ Mandant Schmidt GmbH
+ Berufung gegen Urteil LG München vom 21.04.2026 (Zustellung 21.04.2026)
+ Status: Entwurf fertig — qeS-Signatur und beA-Versand bis spaetestens 17:00 Uhr
+ Verantwortlich: RA Mueller
 
 ==========================================
 2. VORFRISTEN IN DEN NAECHSTEN SIEBEN TAGEN
@@ -199,14 +199,14 @@ Az 2026/0103 — Einspruchsfrist Sozialleistungsbescheid 30.05.2026
 ==========================================
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  zur Akte und Prüfung durch RA Mueller bis (Datum)
+ zur Akte und Prüfung durch RA Mueller bis (Datum)
 
 PE-2026-04221 — Mandant Schmidt — Rückfrage zur Berufung
-  Antwort durch RA Mueller bis heute Mittag
+ Antwort durch RA Mueller bis heute Mittag
 
 PE-2026-04222 — Steuerberater des Mandanten Mueller GmbH
-  Belege zur Außenprüfung Az 2026/0067
-  zur Akte
+ Belege zur Außenprüfung Az 2026/0067
+ zur Akte
 
 ==========================================
 4. TERMINE HEUTE
@@ -243,10 +243,10 @@ Dr. Schulz (Kollege) — Karte gestern verschickt
 ==========================================
 
 Az 2026/0017 — Rechnung 2026/00098 vom 12.03.2026 über 3.200 EUR
-  Letzte Mahnung 28.04.2026 — Stufe 2 erreicht — Entscheidung Klage durch RA Mueller
+ Letzte Mahnung 28.04.2026 — Stufe 2 erreicht — Entscheidung Klage durch RA Mueller
 
 Az 2025/0188 — Rechnung 2025/00451 vom 14.11.2025 über 1.850 EUR
-  Stufe 3 — Inkasso oder Klage
+ Stufe 3 — Inkasso oder Klage
 
 ==========================================
 9. NACHRICHTEN UND HINWEISE
@@ -259,12 +259,12 @@ Az 2025/0188 — Rechnung 2025/00451 vom 14.11.2025 über 1.850 EUR
 ## Erstellung
 
 1. **Datenquellen** zusammenführen:
-   - Fristenbuch (`fristenbuch-fuehren`)
-   - Posteingang (`posteingang-ausgang`)
-   - Termine (Kalendersystem)
-   - Honorar-Tracker (`mahnwesen-honorar`)
-   - Geburtstagsverteiler (`geburtstage-feiertage`)
-   - Aktenbestand (`aktenbestand-pflege`)
+ - Fristenbuch (`fristenbuch-fuehren`)
+ - Posteingang (`posteingang-ausgang`)
+ - Termine (Kalendersystem)
+ - Honorar-Tracker (`mahnwesen-honorar`)
+ - Geburtstagsverteiler (`geburtstage-feiertage`)
+ - Aktenbestand (`aktenbestand-pflege`)
 2. **Filterung** auf relevant für heute und nächste sieben Tage.
 3. **Erstellung** als Markdown plus PDF zur Verteilung.
 4. **Versand** als interne E-Mail oder zentral im Kanzleisystem.

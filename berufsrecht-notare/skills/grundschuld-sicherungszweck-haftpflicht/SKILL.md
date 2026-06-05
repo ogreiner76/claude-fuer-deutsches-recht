@@ -1,13 +1,13 @@
 ---
 name: grundschuld-sicherungszweck-haftpflicht
-description: "Nutze dies, wenn Notare Grundschuld Und Sicherungszweck Kaltstart Und Faktenmatr, Notare Haftpflicht Und Schadenmeldung Kaltstart Und Faktenmatri, Notare Handelsregisteranmeldung Fehler Kaltstart Und Faktenmatr, Notare Identitaetspruefung Ausweis Kaltstart Und Faktenmatrix, Notare Ki Im Notariat Grenzen Kaltstart Und Faktenmatrix im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Grundschuld Und Sicherungszweck Kaltstart Und Faktenmatr, Notare Haftpflicht Und Schadenmeldung Kaltstart Und Faktenmatri, Notare Handelsregisteranmeldung Fehler Kaltstart Und Faktenmatr, Notare Identitaetspruefung Ausweis Kaltstart Und Faktenmatrix, Notare Ki Im Notariat Grenzen Kaltstart Und Faktenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Notare Grundschuld Und Sicherungszweck Kaltstart Und Faktenmatr, Notare Haftpflicht Und Schadenmeldung Kaltstart Und Faktenmatri, Notare Handelsregisteranmeldung Fehler Kaltstart Und Faktenmatr, Notare Identitaetspruefung Ausweis Ka..."
+description: "Nutze dies bei Notare Grundschuld Und Sicherungszweck Kaltstart Und Faktenmatr, Notare Haftpflicht Und Schadenmeldung Kaltstart Und Faktenmatri, Notare Handelsregisteranmeldung Fehler Kaltstart Und Faktenmatr, Notare Identitaetspruefung Ausweis Kaltstart Und Faktenmatrix: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Grundschuld Und Sicherungszweck Kaltstart Und Faktenmatr, Notare Haftpflicht Und Schadenmeldung Kaltstart Und Faktenmatri, Notare Handelsregisteranmeldung Fehler Kaltstart Und Faktenmatr, Notare Identitaetspruefung Ausweis Kaltstart Und Faktenmatrix, Notare Ki Im Notariat Grenzen Kaltstart Und Faktenmatrix
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Grundschuld Und Sicherungszweck Kaltstart Und Faktenmatr, Notare Haftpflicht Und Schadenmeldung Kaltstart Und Faktenmatri, Notare Handelsregisteranmeldung Fehler Kaltstart Und Faktenmatr, Notare Identitaetspruefung Ausweis Kaltstart Und Faktenmatrix, Notare Ki Im Notariat Grenzen Kaltstart Und Faktenmatrix** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

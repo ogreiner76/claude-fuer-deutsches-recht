@@ -32,7 +32,7 @@ Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeich
 - Berufshaftung § 280 BGB i. V. m. Anwaltsvertrag.
 - Im Schriftsatz: keine "ständige Rspr."-Floskeln ohne mindestens 2 belegte Entscheidungen.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **EU-Rechtsakte stets über eur-lex.europa.eu** verifizieren. Stand der konsolidierten Fassung dokumentieren (CELEX-Nummer + Datum der Konsolidierung).
 2. **Geltungsstaffelung KI-VO** unbedingt prüfen: Verbote Art. 5 ab 02.02.2025; GPAI-Pflichten ab 02.08.2025; Hochrisiko Art. 6 ff. ab 02.08.2026; volle Anwendung 02.08.2027 (Art. 113 KI-VO).
@@ -86,7 +86,7 @@ Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeich
 ## Querverweise
 
 - `allgemein`
-- alle Spezialskills mit Quellenangabe
+- alle Fachmodule mit Quellenangabe
 - `references/zitierweise.md` im Repository
 
 ## Checkliste pro Memo/Schriftsatz

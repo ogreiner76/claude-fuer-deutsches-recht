@@ -52,7 +52,7 @@ Sie muessen zuerst Widerspruch eingelegt haben (§ 78 SGG). Erst nach Widerspruc
 ### Schritt 3 — Klageschrift aufsetzen
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 [Name, Geburtsdatum]
 [Adresse]

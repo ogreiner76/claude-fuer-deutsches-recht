@@ -139,11 +139,11 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Wechsel Methodenartikel.
 3. **Kurzantwort**: DBA-Finnland 2016 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-FI 2016).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
-   - Methodenartikel (Art. 22 — Anrechnung; Wechsel zur Freistellung in Altzeitraeumen).
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG bei MTRL).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-FI 2016).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
+ - Methodenartikel (Art. 22 — Anrechnung; Wechsel zur Freistellung in Altzeitraeumen).
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG bei MTRL).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: Wechsel DBA 1979 → 2016, TyEL-Pension Sonderfall, MLI-Anwendung.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

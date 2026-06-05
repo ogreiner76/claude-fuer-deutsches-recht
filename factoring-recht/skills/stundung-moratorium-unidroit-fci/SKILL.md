@@ -1,13 +1,13 @@
 ---
 name: stundung-moratorium-unidroit-fci
-description: "Nutze dies, wenn Stundung Moratorium Factoring Und Sanierung, Unidroit Fci Logik Und Rechtswahl Internationale Forderungen, Verbraucherforderungen Und Besondere Schutzvorschriften im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Stundung Moratorium Factoring Und Sanierung, Unidroit Fci Logik Und Rechtswahl Internationale Forderungen, Verbraucherforderungen Und Besondere Schutzvorschriften prüfen.; Erstelle eine Arbeitsfassung zu Stundung Moratorium Factoring Und Sanierung, Unidroit Fci Logik Und Rechtswahl Internationale Forderungen, Verbraucherforderungen Und Besondere Schutzvorschriften.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stundung Moratorium Factoring Und Sanierung, Unidroit Fci Logik Und Rechtswahl Internationale Forderungen, Verbraucherforderungen Und Besondere Schutzvorschriften: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stundung Moratorium Factoring Und Sanierung, Unidroit Fci Logik Und Rechtswahl Internationale Forderungen, Verbraucherforderungen Und Besondere Schutzvorschriften
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stundung Moratorium Factoring Und Sanierung, Unidroit Fci Logik Und Rechtswahl Internationale Forderungen, Verbraucherforderungen Und Besondere Schutzvorschriften** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

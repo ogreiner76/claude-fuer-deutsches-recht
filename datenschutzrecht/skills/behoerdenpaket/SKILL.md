@@ -1,12 +1,12 @@
 ---
 name: behoerdenpaket
-description: "Nutze dies, wenn Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung / spezial behoerdenpaket zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung / behoerdenpaket zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

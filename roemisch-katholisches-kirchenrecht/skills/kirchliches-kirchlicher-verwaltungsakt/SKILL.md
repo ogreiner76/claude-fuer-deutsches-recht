@@ -1,22 +1,22 @@
 ---
 name: kirchliches-kirchlicher-verwaltungsakt
-description: "Nutze dies, wenn Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung prüfen.; Erstelle eine Arbeitsfassung zu Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `kirchlicher-verwaltungsakt-und-dekret` | Kirchlicher Verwaltungsakt und Dekret: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kirchliches-begrabnis-nach-kirchenaustritt` | Kirchliches Begräbnis nach Kirchenaustritt: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kirchliches-strafrecht-nach-buch-vi` | Kirchliches Strafrecht nach Buch VI: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `kirchliches-vermogen-und-pfarrverwaltung` | Kirchliches Vermögen und Pfarrverwaltung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchlicher-verwaltungsakt-und-dekret` | Kirchlicher Verwaltungsakt und Dekret: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchliches-begrabnis-nach-kirchenaustritt` | Kirchliches Begräbnis nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchliches-strafrecht-nach-buch-vi` | Kirchliches Strafrecht nach Buch VI: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchliches-vermogen-und-pfarrverwaltung` | Kirchliches Vermögen und Pfarrverwaltung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchen
 
 ## 1. `kirchlicher-verwaltungsakt-und-dekret`
 
-**Fokus:** Kirchlicher Verwaltungsakt und Dekret: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchlicher Verwaltungsakt und Dekret: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchlicher Verwaltungsakt und Dekret
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `kirchliches-begrabnis-nach-kirchenaustritt`
 
-**Fokus:** Kirchliches Begräbnis nach Kirchenaustritt: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliches Begräbnis nach Kirchenaustritt: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliches Begräbnis nach Kirchenaustritt
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `kirchliches-strafrecht-nach-buch-vi`
 
-**Fokus:** Kirchliches Strafrecht nach Buch VI: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliches Strafrecht nach Buch VI: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliches Strafrecht nach Buch VI
 
@@ -222,7 +222,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -233,7 +233,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `kirchliches-vermogen-und-pfarrverwaltung`
 
-**Fokus:** Kirchliches Vermögen und Pfarrverwaltung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliches Vermögen und Pfarrverwaltung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliches Vermögen und Pfarrverwaltung
 
@@ -280,7 +280,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

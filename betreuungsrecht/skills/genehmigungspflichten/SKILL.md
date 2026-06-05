@@ -1,12 +1,12 @@
 ---
 name: genehmigungspflichten
-description: "Nutze dies, wenn Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung / spezial genehmigungspflichten dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung / genehmigungspflichten dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

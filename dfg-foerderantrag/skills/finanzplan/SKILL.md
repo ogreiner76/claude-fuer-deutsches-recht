@@ -1,12 +1,12 @@
 ---
 name: finanzplan
-description: "Nutze dies, wenn Finanzplan: Mandantenkommunikation und Entscheidungsvorlage im Plugin Dfg Foerderantrag konkret bearbeitet werden soll. Auslöser: Bitte Finanzplan: Mandantenkommunikation und Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Finanzplan: Mandantenkommunikation und Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Finanzplan: Mandantenkommunikation und Entscheidungsvorlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Finanzplan: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Finanzplan: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Finanzplan: Mandantenkommunikation und Entscheidungsvorlage / spezial finanzplan mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Finanzplan: Mandantenkommunikation und Entscheidungsvorlage / finanzplan mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFG, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: wesentliche-vertraege
-description: "Nutze dies, wenn Wesentliche Vertraege Anlage im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Wesentliche Vertraege Anlage prüfen.; Erstelle eine Arbeitsfassung zu Wesentliche Vertraege Anlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wesentliche Vertraege Anlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wesentliche Vertraege Anlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wesentliche Vertraege Anlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -144,8 +144,8 @@ Die folgenden Verträge sind wesentliche Verträge im Sinne des Kaufvertrags:
 ### (a) Kundenverträge
 
 1. [Vertragsbezeichnung], datiert [Datum], zwischen [Zielgesellschaft] und [Gegenpartei].
-   [Kurzbeschreibung, falls das Format eine solche vorsieht.]
-   [Datenraum: Pfad]
+ [Kurzbeschreibung, falls das Format eine solche vorsieht.]
+ [Datenraum: Pfad]
 
 2. [...]
 
@@ -207,11 +207,11 @@ in § [N] des Kaufvertrages vom [DATUM] ([KURZBEZEICHNUNG SPA]):
 ### (a) Kundenvertraege
 
 1. [VERTRAGSBEZEICHNUNG], datiert [TT.MM.JJJJ], zwischen [ZIELGESELLSCHAFT GmbH]
-   und [GEGENPARTEI].
-   [KURZBESCHREIBUNG, falls SPA-Format eine solche vorschreibt.]
-   Erfuelltes SPA-Kriterium: [JAHRESWERT > EUR / CoC-Klausel / etc.]
-   [INTERN: Datenraum-Referenz: VDR/[PFAD]/[DATEINAME]]
-   [INTERN: Zustimmungserfordernis: [JA / NEIN]; Status: [ANGEFRAGT / ERHALTEN / VERWEIGERT]]
+ und [GEGENPARTEI].
+ [KURZBESCHREIBUNG, falls SPA-Format eine solche vorschreibt.]
+ Erfuelltes SPA-Kriterium: [JAHRESWERT > EUR / CoC-Klausel / etc.]
+ [INTERN: Datenraum-Referenz: VDR/[PFAD]/[DATEINAME]]
+ [INTERN: Zustimmungserfordernis: [JA / NEIN]; Status: [ANGEFRAGT / ERHALTEN / VERWEIGERT]]
 
 2. [Weitere Eintraege analog]
 
@@ -244,9 +244,9 @@ in § [N] des Kaufvertrages vom [DATUM] ([KURZBEZEICHNUNG SPA]):
 ## Flaggenliste — Grenzfaelle (menschliche Entscheidung erforderlich)
 
 1. **[VERTRAGSNAME]**: Jahreswert [BETRAG EUR] — knapp unter SPA-Schwelle, aber geschaeftlich bedeutsam.
-   Empfehlung: [AUFNEHMEN / WEGLASSEN] — Entscheidung erbeten bis: [DATUM]
+ Empfehlung: [AUFNEHMEN / WEGLASSEN] — Entscheidung erbeten bis: [DATUM]
 2. **[VERTRAGSNAME]**: Erfuellt Kriterium, wird aber beendet zum [DATUM].
-   Empfehlung: [MIT HINWEIS AUF BEENDIGUNG AUFNEHMEN / WEGLASSEN]
+ Empfehlung: [MIT HINWEIS AUF BEENDIGUNG AUFNEHMEN / WEGLASSEN]
 ```
 
 ## Rote Schwellen

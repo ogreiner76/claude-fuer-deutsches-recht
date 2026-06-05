@@ -1,13 +1,13 @@
 ---
 name: rechtsabteilungen-syndikus-verordnung
-description: "Nutze dies, wenn Spezial Rechtsabteilungen Risikoampel Und Gegenargumente, Spezial Syndikus Schriftsatz Brief Und Memo Bausteine, Spezial Verordnung Mehrparteien Konflikt Und Interessen im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Spezial Rechtsabteilungen Risikoampel Und Gegenargumente, Spezial Syndikus Schriftsatz Brief Und Memo Bausteine, Spezial Verordnung Mehrparteien Konflikt Und Interessen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Rechtsabteilungen Risikoampel Und Gegenargumente, Spezial Syndikus Schriftsatz Brief Und Memo Bausteine, Spezial Verordnung Mehrparteien Konflikt Und Interessen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilungen Risikoampel Und Gegenargumente, Syndikus Schriftsatz Brief Und Memo Bausteine, Verordnung Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Rechtsabteilungen Risikoampel Und Gegenargumente, Spezial Syndikus Schriftsatz Brief Und Memo Bausteine, Spezial Verordnung Mehrparteien Konflikt Und Interessen
+# Rechtsabteilungen Risikoampel Und Gegenargumente, Syndikus Schriftsatz Brief Und Memo Bausteine, Verordnung Mehrparteien Konflikt Und Interessen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilungen Risikoampel Und Gegenargumente, Syndikus Schriftsatz Brief Und Memo Bausteine, Verordnung Mehrparteien Konflikt Und Interessen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Rechtsabteilungen Risikoampel Und Gegenargumente, Spezial Syndikus Schriftsatz Brief Und Memo Bausteine, Spezial Verordnung Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilungen Risikoampel Und Gegenargumente, Syndikus Schriftsatz Brief Und Memo Bausteine, Verordnung Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-richtlinie-kanzleien` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Rechtsabteilungen Risikoampel Und Gegenargumente, Spezial Syndiku
 # Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien / spezial rechtsabteilungen risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien / rechtsabteilungen risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** KI, BRAO, BORA, DSGVO, BRAK, DAV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -87,7 +87,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Syndikus: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Syndikus: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Syndikus: Schriftsatz-, Brief- und Memo-Bausteine / spezial syndikus schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Syndikus: Schriftsatz-, Brief- und Memo-Bausteine / syndikus schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** KI, BRAO, BORA, DSGVO, BRAK, DAV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -111,24 +111,24 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Memo-Bausteine Syndikus-KI-Richtlinie
 - **Memo "Tool-Freigabe an Unternehmensleitung"** mit Aufbau:
-  1. Anlass + Hintergrund
-  2. Geprüfte Tools mit Klassifizierung KI-VO/DSGVO
-  3. Vertragsprüfung (AVV, SCC, DPF, TIA)
-  4. Empfehlung mit Risikoampel
-  5. Vorgeschlagene Auflagen (z. B. "ohne Mandantendaten in Strafrecht-Mandaten")
-  6. Inkrafttreten
+ 1. Anlass + Hintergrund
+ 2. Geprüfte Tools mit Klassifizierung KI-VO/DSGVO
+ 3. Vertragsprüfung (AVV, SCC, DPF, TIA)
+ 4. Empfehlung mit Risikoampel
+ 5. Vorgeschlagene Auflagen (z. B. "ohne Mandantendaten in Strafrecht-Mandaten")
+ 6. Inkrafttreten
 - **Brief "Aufklärung Mandant über KI-Nutzung"** mit:
-  1. Transparenz über Tool-Nutzung
-  2. Datenarten und -fluss
-  3. Sicherheitsmaßnahmen (TOM)
-  4. ggf. Einwilligungs-Option
-  5. Widerspruchsmöglichkeit
+ 1. Transparenz über Tool-Nutzung
+ 2. Datenarten und -fluss
+ 3. Sicherheitsmaßnahmen (TOM)
+ 4. ggf. Einwilligungs-Option
+ 5. Widerspruchsmöglichkeit
 - **Schriftsatz "Verteidigung gegen Aufsichtsbeschwerde"** mit:
-  1. Sachverhalt aus Mandantenperspektive
-  2. Eigene Risikomatrix
-  3. Konformitätsnachweis (Whitelist, Schulung, AVV)
-  4. Hinweis auf DAV/BRAK-Hinweise
-  5. Bitte um Einstellung
+ 1. Sachverhalt aus Mandantenperspektive
+ 2. Eigene Risikomatrix
+ 3. Konformitätsnachweis (Whitelist, Schulung, AVV)
+ 4. Hinweis auf DAV/BRAK-Hinweise
+ 5. Bitte um Einstellung
 
 ## Praxis-Tipp
 Memo an Unternehmensleitung: zuerst eine Seite mit Executive Summary + Risikoampel + Empfehlung; erst auf den Folgeseiten die Detailbegründung. Geschäftsleitung entscheidet auf Basis des ersten Absatzes — wer alle Details auf Seite 1 packt, verliert die Entscheidung im Rauschen.
@@ -152,7 +152,7 @@ Memo an Unternehmensleitung: zuerst eine Seite mit Executive Summary + Risikoamp
 # Verordnung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Verordnung: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Verordnung: Mehrparteienkonflikt und Interessenmatrix / spezial verordnung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verordnung: Mehrparteienkonflikt und Interessenmatrix / verordnung mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** KI, BRAO, BORA, DSGVO, BRAK, DAV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

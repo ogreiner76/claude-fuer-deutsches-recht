@@ -1,6 +1,6 @@
 ---
 name: legw-rmap-norm-zu-rulemap
-description: "Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (Workflow durchspielen); Verify (Entscheidungen pruefen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Pruefpunkten je Schritt. Anschluss legw-rmap-tatbestand-und-rechtsfolge fuer die feine Knotenmodellierung. Abgrenzung zur Textentwurfsarbeit; die Rulemap ist die parallel gepflegte Logikfassung."
+description: "Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (durchspielen); Verify (Entscheidungen pruefen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Pruefpunkten je Schritt. Anschluss legw-rmap-tatbestand-und-rechtsfolge fuer die feine Knotenmodellierung. Abgrenzung zur Textentwurfsarbeit; die Rulemap ist die parallel gepflegte Logikfassung."
 ---
 
 # Von der Norm zur Rulemap - Vorgehensmodell
@@ -33,10 +33,10 @@ Pruefen: ist jede Entscheidungspfad-Variante abgedeckt? Sind Ausnahmen explizit 
 ## Output
 
 ```
-Skill:              legw-rmap-norm-zu-rulemap
-Thema:              Von der Norm zur Rulemap - Vorgehensmodell
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-norm-zu-rulemap
+Thema: Von der Norm zur Rulemap - Vorgehensmodell
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

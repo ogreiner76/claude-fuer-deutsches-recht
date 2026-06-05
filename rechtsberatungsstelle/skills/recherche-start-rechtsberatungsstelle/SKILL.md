@@ -1,13 +1,13 @@
 ---
 name: recherche-start-rechtsberatungsstelle
-description: "Nutze dies, wenn Recherche Start, Rechtsberatungsstelle Anpassen, Semester Übergabe im Plugin Rechtsberatungsstelle konkret bearbeitet werden soll. Auslöser: Bitte Recherche Start, Rechtsberatungsstelle Anpassen, Semester Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Recherche Start, Rechtsberatungsstelle Anpassen, Semester Übergabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Recherche Start, Rechtsberatungsstelle Anpassen, Semester Uebergabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Recherche Start, Rechtsberatungsstelle Anpassen, Semester Übergabe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Recherche Start, Rechtsberatungsstelle Anpassen, Semester Übergabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -133,12 +133,12 @@ Wenn der Studierende bereits Recherchematerial hochgeladen hat: lesen, was abged
 
 ```markdown
 ═══════════════════════════════════════════════════════════════════════
-  RECHERCHEFAHRPLAN — HINWEISE, KEINE QUELLEN
-  Nichts unten ist ein geprüfter Beleg. Jede Norm, jeder Rspr.-Bereich,
-  jeder Suchbegriff ist ein Startpunkt für IHRE Recherche. Sie verifizieren
-  Aktualität, Einschlägigkeit und Richtigkeit. Sie finden die tatsächlichen
-  Entscheidungen. Wenn etwas unten unzutreffend oder veraltet ist, liegt
-  das in der Natur des Instruments — es ist eine Karte, kein Ergebnis.
+ RECHERCHEFAHRPLAN — HINWEISE, KEINE QUELLEN
+ Nichts unten ist ein geprüfter Beleg. Jede Norm, jeder Rspr.-Bereich,
+ jeder Suchbegriff ist ein Startpunkt für IHRE Recherche. Sie verifizieren
+ Aktualität, Einschlägigkeit und Richtigkeit. Sie finden die tatsächlichen
+ Entscheidungen. Wenn etwas unten unzutreffend oder veraltet ist, liegt
+ das in der Natur des Instruments — es ist eine Karte, kein Ergebnis.
 ═══════════════════════════════════════════════════════════════════════
 
 # Recherchefahrplan: [Rechtsfrage]

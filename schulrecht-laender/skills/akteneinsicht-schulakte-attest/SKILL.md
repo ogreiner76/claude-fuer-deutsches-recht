@@ -1,13 +1,13 @@
 ---
 name: akteneinsicht-schulakte-attest
-description: "Nutze dies, wenn Akteneinsicht Schulakte, Attest Und Pruefungsunfaehigkeit Schule, Aufsichtspflicht Und Unfall, Auslandsschule Rueckkehr im Plugin Schulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Akteneinsicht Schulakte, Attest Und Pruefungsunfaehigkeit Schule, Aufsichtspflicht Und Unfall, Auslandsschule Rueckkehr prüfen.; Erstelle eine Arbeitsfassung zu Akteneinsicht Schulakte, Attest Und Pruefungsunfaehigkeit Schule, Aufsichtspflicht Und Unfall, Auslandsschule Rueckkehr.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Akteneinsicht Schulakte, Attest Und Pruefungsunfaehigkeit Schule, Aufsichtspflicht Und Unfall, Auslandsschule Rueckkehr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Akteneinsicht Schulakte, Attest Und Pruefungsunfaehigkeit Schule, Aufsichtspflicht Und Unfall, Auslandsschule Rueckkehr
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Akteneinsicht Schulakte, Attest Und Pruefungsunfaehigkeit Schule, Aufsichtspflicht Und Unfall, Auslandsschule Rueckkehr** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

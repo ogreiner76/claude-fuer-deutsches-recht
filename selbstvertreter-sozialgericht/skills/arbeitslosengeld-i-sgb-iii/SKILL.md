@@ -70,7 +70,7 @@ Bei Eigenkuendigung "wichtiger Grund":
 ### Schritt 4 — Widerspruch
 
 ```
-Agentur fuer Arbeit [Ort]                          [Ort, Datum]
+Agentur fuer Arbeit [Ort] [Ort, Datum]
 
 Az: [...]
 
@@ -83,9 +83,9 @@ gegen den o.g. Bescheid mit Sperrzeit von 12 Wochen lege ich Widerspruch ein.
 Begruendung:
 
 1. Wichtiger Grund fuer Eigenkuendigung lag vor:
-   - Mobbing durch Vorgesetzten (siehe Aufzeichnungen Anlage 1)
-   - Aerztliches Attest zur psychischen Belastung (Anlage 2)
-   - Beschwerde beim Betriebsrat (Anlage 3)
+ - Mobbing durch Vorgesetzten (siehe Aufzeichnungen Anlage 1)
+ - Aerztliches Attest zur psychischen Belastung (Anlage 2)
+ - Beschwerde beim Betriebsrat (Anlage 3)
 
 2. Hilfsweise: Sperrzeit ist unverhaeltnismaessig hoch.
 

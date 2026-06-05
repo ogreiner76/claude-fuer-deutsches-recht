@@ -1,12 +1,12 @@
 ---
 name: gelb
-description: "Nutze dies, wenn Gelb: Formular, Portal und Einreichungslogik im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Bitte Gelb: Formular, Portal und Einreichungslogik prüfen.; Erstelle eine Arbeitsfassung zu Gelb: Formular, Portal und Einreichungslogik.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gelb: Formular, Portal und Einreichungslogik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Gelb: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Gelb: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Gelb: Formular, Portal und Einreichungslogik / spezial gelb formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gelb: Formular, Portal und Einreichungslogik / gelb formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

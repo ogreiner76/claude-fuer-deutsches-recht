@@ -1,13 +1,13 @@
 ---
 name: owi-baurecht-owi-strassenverkehr-owi
-description: "Nutze dies, wenn Owi 072 Baurecht Frist Prüfen, Owi 082 Strassenverkehr Frist Prüfen, Owi 092 Aussenwirtschaft Frist Prüfen, Owi 004 Bussgeldbescheid Prüfen im Plugin Ordnungswidrigkeitenrecht konkret bearbeitet werden soll. Auslöser: Bitte Owi 072 Baurecht Frist Prüfen, Owi 082 Strassenverkehr Frist Prüfen, Owi 092 Aussenwirtschaft Frist Prüfen, Owi 004 Bussgeldbescheid Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Owi 072 Baurecht Frist Prüfen, Owi 082 Strassenverkehr Frist Prüfen, Owi 092 Aussenwirtschaft Frist Prüfen, Owi 004 Bussgeldbescheid Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Owi 072 Baurecht Frist Prüfen, Owi 082 Strassenverkehr Frist Prüfen, Owi 092 Aussenwirtschaft Frist Prüfen, Owi 004 Bussgeldbescheid Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Owi 072 Baurecht Frist Prüfen, Owi 082 Strassenverkehr Frist Prüfen, Owi 092 Aussenwirtschaft Frist Prüfen, Owi 004 Bussgeldbescheid Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Owi 072 Baurecht Frist Prüfen, Owi 082 Strassenverkehr Frist Prüfen, Owi 092 Aussenwirtschaft Frist Prüfen, Owi 004 Bussgeldbescheid Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

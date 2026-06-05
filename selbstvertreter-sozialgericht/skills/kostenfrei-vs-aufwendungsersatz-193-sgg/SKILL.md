@@ -62,7 +62,7 @@ NICHT erstattungsfaehig:
 Das Gericht kann im Urteil ueber die Erstattung entscheiden. Oder Sie stellen nach dem Urteil:
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 
@@ -71,13 +71,13 @@ Antrag auf Kostenfestsetzung nach § 197 SGG
 Ich beantrage, die mir zu erstattenden Auslagen wie folgt festzusetzen:
 
 1. Anwaltskosten: [Betrag] EUR
-   - Geschaeftsgebuehr [...]
-   - Verfahrensgebuehr [...]
-   - Terminsgebuehr [...]
+ - Geschaeftsgebuehr [...]
+ - Verfahrensgebuehr [...]
+ - Terminsgebuehr [...]
 
 2. Fahrtkosten: [Betrag] EUR
-   - 2 Fahrten je 50 km zum Termin am [Datum] = 100 km * 0,30 EUR = 30 EUR
-   - 2 Fahrten je 50 km zur Untersuchung am [Datum] = 30 EUR
+ - 2 Fahrten je 50 km zum Termin am [Datum] = 100 km * 0,30 EUR = 30 EUR
+ - 2 Fahrten je 50 km zur Untersuchung am [Datum] = 30 EUR
 
 3. Auslagenpauschale: 20 EUR
 

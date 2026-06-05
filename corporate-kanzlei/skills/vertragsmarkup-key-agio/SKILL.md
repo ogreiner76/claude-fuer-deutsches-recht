@@ -1,13 +1,13 @@
 ---
 name: vertragsmarkup-key-agio
-description: "Nutze dies, wenn Corporate Kanzlei Vertragsmarkup Key Issues, Corporate Kanzlei Agio Und Kapitalerhoehungsstruktur im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Vertragsmarkup Key Issues, Corporate Kanzlei Agio Und Kapitalerhoehungsstruktur prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Vertragsmarkup Key Issues, Corporate Kanzlei Agio Und Kapitalerhoehungsstruktur.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Vertragsmarkup Key Issues, Corporate Kanzlei Agio Und Kapitalerhoehungsstruktur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Vertragsmarkup Key Issues, Corporate Kanzlei Agio Und Kapitalerhoehungsstruktur
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Vertragsmarkup Key Issues, Corporate Kanzlei Agio Und Kapitalerhoehungsstruktur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -220,18 +220,18 @@ EXECUTIVE SUMMARY
 PRIORITAET 1 — DEAL-BREAKER/ENTSCHEIDUNGSBEDARF
 
 1.1 Haftungs-Cap: § X des SPA sieht Cap von [X %] des Kaufpreises vor.
-    Marktstandard: 20-30 %; unsere Position: mindestens 25 %.
-    Markup: "[NEUE FORMULIERUNG]"
-    Empfehlung: Harte Verhandlungsposition.
+ Marktstandard: 20-30 %; unsere Position: mindestens 25 %.
+ Markup: "[NEUE FORMULIERUNG]"
+ Empfehlung: Harte Verhandlungsposition.
 
 1.2 Verjährung Tax Indemnity: Nur 3 Jahre vorgesehen; bei steuerlichen Nachhaftungsrisiken aus Betriebspruefungen zu kurz.
-    Empfehlung: 7 Jahre fuer Tax-Themen; unbegrenzt fuer Steuerhinterziehung.
+ Empfehlung: 7 Jahre fuer Tax-Themen; unbegrenzt fuer Steuerhinterziehung.
 
 PRIORITAET 2 — HOHE PRIORITAET
 
 2.1 [Klausel]
-    Problem: [Beschreibung]
-    Markup: [Vorschlag]
+ Problem: [Beschreibung]
+ Markup: [Vorschlag]
 
 PRIORITAET 3 — VERHANDLUNGSPOSITION
 

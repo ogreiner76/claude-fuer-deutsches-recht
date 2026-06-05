@@ -1,13 +1,13 @@
 ---
 name: informationstechnologierecht-kanzlei
-description: "Nutze dies, wenn Spezial Informationstechnologierecht Tatbestand Beweis, Spezial Kanzlei Beweislast Und Darlegungslast, Spezial Lizenz Risikoampel Und Gegenargumente, Spezial Open Mehrparteien Konflikt Und Interessen, Spezial Orientierung Sonderfall Und Edge Case im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Informationstechnologierecht Tatbestand Beweis, Spezial Kanzlei Beweislast Und Darlegungslast, Spezial Lizenz Risikoampel Und Gegenargumente, Spezial Open Mehrparteien Konflikt Und Interessen, Spezial Orientierung Sonderfall Und Edge Case prüfen.; Erstelle eine Arbeitsfassung zu Spezial Informationstechnologierecht Tatbestand Beweis, Spezial Kanzlei Beweislast Und Darlegungslast, Spezial Lizenz Risikoampel Und Gegenargumente, Spezial Open Mehrparteien Konflikt Und Interessen, Spezial Orientierung Sonderfall Und Edge Case.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Informationstechnologierecht Tatbestand Beweis, Kanzlei Beweislast Und Darlegungslast, Lizenz Risikoampel Und Gegenargumente, Open Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Informationstechnologierecht Tatbestand Beweis, Spezial Kanzlei Beweislast Und Darlegungslast, Spezial Lizenz Risikoampel Und Gegenargumente, Spezial Open Mehrparteien Konflikt Und Interessen, Spezial Orientierung Sonderfall Und Edge Case
+# Informationstechnologierecht Tatbestand Beweis, Kanzlei Beweislast Und Darlegungslast, Lizenz Risikoampel Und Gegenargumente, Open Mehrparteien Konflikt Und Interessen, Orientierung Sonderfall Und Edge Case
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Informationstechnologierecht Tatbestand Beweis, Kanzlei Beweislast Und Darlegungslast, Lizenz Risikoampel Und Gegenargumente, Open Mehrparteien Konflikt Und Interessen, Orientierung Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Informationstechnologierecht Tatbestand Beweis, Spezial Kanzlei Beweislast Und Darlegungslast, Spezial Lizenz Risikoampel Und Gegenargumente, Spezial Open Mehrparteien Konflikt Und Interessen, Spezial Orientierung Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Informationstechnologierecht Tatbestand Beweis, Kanzlei Beweislast Und Darlegungslast, Lizenz Risikoampel Und Gegenargumente, Open Mehrparteien Konflikt Und Interessen, Orientierung Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Informationstechnologierecht Tatbestand Beweis, Spezial Kanzlei B
 # Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial informationstechnologierecht tatbestand beweis. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / informationstechnologierecht tatbestand beweis. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -57,7 +57,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## IT-Recht Tatbestände und Beweisfragen
 - **§ 631 BGB Werkvertrag (Software):** Erfolg = mangelfreies Werk gemäß Pflichtenheft; Abnahme § 640 BGB; Verjährung 2 Jahre § 634a Abs. 1 Nr. 1.
-  - **Beweislast bis Abnahme:** Unternehmer (auf Mangelfreiheit); **nach Abnahme:** Besteller (auf Mangel).
+ - **Beweislast bis Abnahme:** Unternehmer (auf Mangelfreiheit); **nach Abnahme:** Besteller (auf Mangel).
 - **§§ 535 ff. BGB analog SaaS:** Dauerhafte Bereitstellung; Mietminderung bei Mängeln; Pflichtmaßstab Verfügbarkeit aus SLA.
 - **§ 433 BGB Standard-Software:** Kauf; Mängelhaftung §§ 434 ff., Beschränkung in B2B-AGB möglich, aber § 309 Nr. 7 BGB-Grenzen.
 - **§§ 305 ff. BGB AGB-Kontrolle:** Einbeziehung (§ 305 Abs. 2/3), Inhaltskontrolle (§ 307 ff.), Klauselverbote § 308 (mit Wertungsmöglichkeit), § 309 (ohne).
@@ -86,7 +86,7 @@ Bei Software-Werkverträgen ist die Abnahme (§ 640 BGB) der entscheidende Wende
 # Kanzlei: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Kanzlei: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Kanzlei: Beweislast, Darlegungslast und Substantiierung / spezial kanzlei beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kanzlei: Beweislast, Darlegungslast und Substantiierung / kanzlei beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -110,12 +110,12 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Beweislast und Substanziierung IT-Recht
 - **Werkvertrag § 631 BGB**:
-  - **Vor Abnahme**: Unternehmer trägt Mangelfreiheits-Beweis (BGH-Linie zur Beweislast vor Abnahme; vor Ausgabe mit Datum/Az. und freier Quelle verifizieren).
-  - **Nach Abnahme**: Besteller trägt Mangel-Beweis und Beweis zum Zeitpunkt der Abnahme.
+ - **Vor Abnahme**: Unternehmer trägt Mangelfreiheits-Beweis (BGH-Linie zur Beweislast vor Abnahme; vor Ausgabe mit Datum/Az. und freier Quelle verifizieren).
+ - **Nach Abnahme**: Besteller trägt Mangel-Beweis und Beweis zum Zeitpunkt der Abnahme.
 - **SaaS § 535 BGB analog**: Mietminderung — Besteller darlegt konkrete Verfügbarkeitsmängel; Bemessung anhand SLA-Klauseln.
 - **AGB-Inhaltskontrolle §§ 305 ff.**:
-  - **Verwender trägt Einbeziehungs- und Klarheits-Beweis**.
-  - **Klauselverbote §§ 308/309** sind objektiv; Verwender muss konkret Geschäftserfordernis darlegen.
+ - **Verwender trägt Einbeziehungs- und Klarheits-Beweis**.
+ - **Klauselverbote §§ 308/309** sind objektiv; Verwender muss konkret Geschäftserfordernis darlegen.
 - **DSGVO Rechenschaftspflicht Art. 5 Abs. 2**: Verantwortlicher trägt Beweislast für Konformität — Verzeichnis Art. 30, AVV, DSFA, Schulungsnachweise.
 - **Vorlagepflichten § 142 ZPO**: Gericht kann Urkundenvorlage anordnen — auch außerhalb der Beweislastverteilung.
 
@@ -147,7 +147,7 @@ Bei SLA-Mängeln häufiger Fehler: Verfügbarkeit als Quartalsdurchschnitt verei
 # Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien / spezial lizenz risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien / lizenz risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -217,7 +217,7 @@ Sofortige Anerkennung eines Audit-Defizits beendet Konflikt, kann aber zu Ketten
 # Open: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Open: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Open: Mehrparteienkonflikt und Interessenmatrix / spezial open mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Open: Mehrparteienkonflikt und Interessenmatrix / open mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -258,7 +258,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Orientierung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Orientierung: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Orientierung: Sonderfall und Edge-Case-Prüfung / spezial orientierung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Orientierung: Sonderfall und Edge-Case-Prüfung / orientierung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: see-schiffbauwerk-risiko-yachtkauf-register
-description: "Nutze dies, wenn See 040 Schiffbauwerk Risiko Memo Schreiben, See 051 Yachtkauf Register Prüfen, See 052 Yachtkauf Hypothek Bestellen, See 054 Yachtkauf Arrest Vorbereiten, See 055 Yachtkauf Wrackpflicht Prüfen im Plugin Seerecht Schifffahrtsrecht konkret bearbeitet werden soll. Auslöser: Bitte See 040 Schiffbauwerk Risiko Memo Schreiben, See 051 Yachtkauf Register Prüfen, See 052 Yachtkauf Hypothek Bestellen, See 054 Yachtkauf Arrest Vorbereiten, See 055 Yachtkauf Wrackpflicht Prüfen prüfen.; Erstelle eine Arbeitsfassung zu See 040 Schiffbauwerk Risiko Memo Schreiben, See 051 Yachtkauf Register Prüfen, See 052 Yachtkauf Hypothek Bestellen, See 054 Yachtkauf Arrest Vorbereiten, See 055 Yachtkauf Wrackpflicht Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei See 040 Schiffbauwerk Risiko Memo Schreiben, See 051 Yachtkauf Register Prüfen, See 052 Yachtkauf Hypothek Bestellen, See 054 Yachtkauf Arrest Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # See 040 Schiffbauwerk Risiko Memo Schreiben, See 051 Yachtkauf Register Prüfen, See 052 Yachtkauf Hypothek Bestellen, See 054 Yachtkauf Arrest Vorbereiten, See 055 Yachtkauf Wrackpflicht Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **See 040 Schiffbauwerk Risiko Memo Schreiben, See 051 Yachtkauf Register Prüfen, See 052 Yachtkauf Hypothek Bestellen, See 054 Yachtkauf Arrest Vorbereiten, See 055 Yachtkauf Wrackpflicht Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

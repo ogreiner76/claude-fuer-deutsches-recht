@@ -1,22 +1,22 @@
 ---
 name: gesellschafter-geschaeftsfuehrer
-description: "Nutze dies, wenn Gesellschafter Geschaeftsfuehrer, Gesellschafterdarlehen, Gesellschafterversammlungsstrategie, Gesellschaftsform Und Rollen im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Gesellschafter Geschaeftsfuehrer, Gesellschafterdarlehen, Gesellschafterversammlungsstrategie, Gesellschaftsform Und Rollen prüfen.; Erstelle eine Arbeitsfassung zu Gesellschafter Geschaeftsfuehrer, Gesellschafterdarlehen, Gesellschafterversammlungsstrategie, Gesellschaftsform Und Rollen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschafter Geschaeftsfuehrer, Gesellschafterdarlehen, Gesellschafterversammlungsstrategie, Gesellschaftsform Und Rollen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschafter Geschaeftsfuehrer, Gesellschafterdarlehen, Gesellschafterversammlungsstrategie, Gesellschaftsform Und Rollen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschafter Geschaeftsfuehrer, Gesellschafterdarlehen, Gesellschafterversammlungsstrategie, Gesellschaftsform Und Rollen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `gesellschafter-geschaeftsfuehrer` | Gesellschaftsrechtliche Treuepflicht: Gesellschafter Geschaeftsfuehrer; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gesellschafterdarlehen` | Gesellschaftsrechtliche Treuepflicht: Gesellschafterdarlehen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gesellschafterversammlungsstrategie` | Gesellschaftsrechtliche Treuepflicht: Gesellschafterversammlungsstrategie; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gesellschaftsform-und-rollen` | Gesellschaftsrechtliche Treuepflicht: Gesellschaftsform Und Rollen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gesellschafter-geschaeftsfuehrer` | Gesellschaftsrechtliche Treuepflicht: Gesellschafter Geschaeftsfuehrer; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gesellschafterdarlehen` | Gesellschaftsrechtliche Treuepflicht: Gesellschafterdarlehen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gesellschafterversammlungsstrategie` | Gesellschaftsrechtliche Treuepflicht: Gesellschafterversammlungsstrategie; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gesellschaftsform-und-rollen` | Gesellschaftsrechtliche Treuepflicht: Gesellschaftsform Und Rollen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Gesellschafter Geschaeftsfuehrer, Gesellschafterdarlehen, Gesellschafterv
 
 ## 1. `gesellschafter-geschaeftsfuehrer`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gesellschafter Geschaeftsfuehrer; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gesellschafter Geschaeftsfuehrer; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gesellschafter Geschaeftsfuehrer
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `gesellschafterdarlehen`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gesellschafterdarlehen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gesellschafterdarlehen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gesellschafterdarlehen
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `gesellschafterversammlungsstrategie`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gesellschafterversammlungsstrategie; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gesellschafterversammlungsstrategie; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gesellschafterversammlungsstrategie
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `gesellschaftsform-und-rollen`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gesellschaftsform Und Rollen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gesellschaftsform Und Rollen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gesellschaftsform Und Rollen
 

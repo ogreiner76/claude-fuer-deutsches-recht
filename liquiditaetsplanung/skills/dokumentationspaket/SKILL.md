@@ -1,6 +1,6 @@
 ---
 name: dokumentationspaket
-description: "Nutze dies, wenn Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk

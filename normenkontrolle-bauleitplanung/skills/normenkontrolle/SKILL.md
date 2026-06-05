@@ -1,12 +1,12 @@
 ---
 name: normenkontrolle
-description: "Nutze dies, wenn Normenkontrolle: Compliance-Dokumentation und Aktenvermerk im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Normenkontrolle: Compliance-Dokumentation und Aktenvermerk: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Normenkontrolle: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Normenkontrolle: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Normenkontrolle: Compliance-Dokumentation und Aktenvermerk / spezial normenkontrolle compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Normenkontrolle: Compliance-Dokumentation und Aktenvermerk / normenkontrolle compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, OVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

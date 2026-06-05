@@ -1,22 +1,22 @@
 ---
 name: beirat-beschlussmaengel-bestellung-abberufung
-description: "Nutze dies, wenn Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan, Beirat Compliance Und Internal Investigation im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan, Beirat Compliance Und Internal Investigation prüfen.; Erstelle eine Arbeitsfassung zu Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan, Beirat Compliance Und Internal Investigation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan, Beirat Compliance Und Internal Investigation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan, Beirat Compliance Und Internal Investigation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan, Beirat Compliance Und Internal Investigation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-beschlussmaengel` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beschlussmaengel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-bestellung-und-abberufung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Bestellung Und Abberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-budget-und-businessplan` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Budget Und Businessplan; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-compliance-und-internal-investigation` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-beschlussmaengel` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beschlussmaengel; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-bestellung-und-abberufung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Bestellung Und Abberufung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-budget-und-businessplan` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Budget Und Businessplan; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-compliance-und-internal-investigation` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget 
 
 ## 1. `beirat-beschlussmaengel`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beschlussmaengel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beschlussmaengel; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beschlussmaengel
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-bestellung-und-abberufung`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Bestellung Und Abberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Bestellung Und Abberufung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Bestellung Und Abberufung
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-budget-und-businessplan`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Budget Und Businessplan; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Budget Und Businessplan; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Budget Und Businessplan
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-compliance-und-internal-investigation`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Compliance Und Internal Investigation
 

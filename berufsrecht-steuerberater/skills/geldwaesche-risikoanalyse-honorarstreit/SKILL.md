@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-risikoanalyse-honorarstreit
-description: "Nutze dies, wenn Steuerberater Geldwaesche Risikoanalyse Steuerkanzlei Kaltstart, Steuerberater Honorarstreit Und Schlichtung Kaltstart Und Fakte, Steuerberater Jahresabschluss Verantwortung Kaltstart Und Fakte, Steuerberater Kammerbeschwerde Steuerberater Kaltstart Und Fakt im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Geldwaesche Risikoanalyse Steuerkanzlei Kaltstart, Steuerberater Honorarstreit Und Schlichtung Kaltstart Und Fakte, Steuerberater Jahresabschluss Verantwortung Kaltstart Und Fakte, Steuerberater Kammerbeschwerde Steuerberater Kaltstart Und Fakt prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Geldwaesche Risikoanalyse Steuerkanzlei Kaltstart, Steuerberater Honorarstreit Und Schlichtung Kaltstart Und Fakte, Steuerberater Jahresabschluss Verantwortung Kaltstart Und Fakte, Steuerberater Kammerbeschwerde Steuerberater Kaltstart Und Fakt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Steuerberater Geldwaesche Risikoanalyse Steuerkanzlei Kaltstart, Steuerberater Honorarstreit Und Schlichtung Kaltstart Und Fakte, Steuerberater Jahresabschluss Verantwortung Kaltstart Und Fakte, Steuerberater Kammerbeschwerde Steuerberater Kaltstart Und Fakt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Geldwaesche Risikoanalyse Steuerkanzlei Kaltstart, Steuerberater Honorarstreit Und Schlichtung Kaltstart Und Fakte, Steuerberater Jahresabschluss Verantwortung Kaltstart Und Fakte, Steuerberater Kammerbeschwerde Steuerberater Kaltstart Und Fakt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Geldwaesche Risikoanalyse Steuerkanzlei Kaltstart, Steuerberater Honorarstreit Und Schlichtung Kaltstart Und Fakte, Steuerberater Jahresabschluss Verantwortung Kaltstart Und Fakte, Steuerberater Kammerbeschwerde Steuerberater Kaltstart Und Fakt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

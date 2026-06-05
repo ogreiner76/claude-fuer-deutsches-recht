@@ -1,13 +1,13 @@
 ---
 name: kart-innovationswettbewerb
-description: "Nutze dies, wenn Kart Innovationswettbewerb Spezial, Kart Marktanteilsanalyse Leitfaden, Kart Marktdefinition Bauleiter, Kart Zweiseitige Plattformen Spezial, Kartellverbot Modus im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Kart Innovationswettbewerb Spezial, Kart Marktanteilsanalyse Leitfaden, Kart Marktdefinition Bauleiter, Kart Zweiseitige Plattformen Spezial, Kartellverbot Modus prüfen.; Erstelle eine Arbeitsfassung zu Kart Innovationswettbewerb Spezial, Kart Marktanteilsanalyse Leitfaden, Kart Marktdefinition Bauleiter, Kart Zweiseitige Plattformen Spezial, Kartellverbot Modus.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kart Innovationswettbewerb Spezial, Kart Marktanteilsanalyse Leitfaden, Kart Marktdefinition Bauleiter, Kart Zweiseitige Plattformen Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kart Innovationswettbewerb Spezial, Kart Marktanteilsanalyse Leitfaden, Kart Marktdefinition Bauleiter, Kart Zweiseitige Plattformen Spezial, Kartellverbot Modus
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kart Innovationswettbewerb Spezial, Kart Marktanteilsanalyse Leitfaden, Kart Marktdefinition Bauleiter, Kart Zweiseitige Plattformen Spezial, Kartellverbot Modus** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -17,7 +17,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kart-marktanteilsanalyse-leitfaden` | Leitfaden Marktanteilsanalyse: Umsatz- und Mengenmarktanteile, HHI, Marktstrukturmerkmale. Pruefraster fuer Fusionskontrollmeldung. |
 | `kart-marktdefinition-bauleiter` | Bauleiter Marktdefinition: sachlich, raeumlich, zeitlich. SSNIP-Test, Hypothetischer Monopolist, Mehrproduktmaerkte. Pruefraster fuer typische Branchen. |
 | `kart-zweiseitige-plattformen-spezial` | Spezialfall zweiseitige Plattformen / Mehrseitige Maerkte: Netzwerkeffekte, Tipping, DMA-Gatekeeper. Pruefraster fuer Digitalplattformen. |
-| `kartellverbot-modus` | Workflow-Skill zu kartellverbot modus. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `kartellverbot-modus` | Arbeitsmodul zu kartellverbot modus: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -240,7 +240,7 @@ Dieser Skill gehoert zum Plugin `kartellrecht-marktabgrenzung-pruefung`. Er erga
 
 ## 5. `kartellverbot-modus`
 
-**Fokus:** Workflow-Skill zu kartellverbot modus. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu kartellverbot modus: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Kartellverbot — Modus
 

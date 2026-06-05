@@ -1,13 +1,13 @@
 ---
 name: glaeubigerliste-richtig-hausrat
-description: "Nutze dies, wenn Glaeubigerliste Richtig Bauen, Hausrat Und Wertgegenstaende, Inkasso Und Titulierte Forderungen im Plugin Verbraucherinsolvenz Schuldenbereinigung konkret bearbeitet werden soll. Auslöser: Bitte Glaeubigerliste Richtig Bauen, Hausrat Und Wertgegenstaende, Inkasso Und Titulierte Forderungen prüfen.; Erstelle eine Arbeitsfassung zu Glaeubigerliste Richtig Bauen, Hausrat Und Wertgegenstaende, Inkasso Und Titulierte Forderungen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Glaeubigerliste Richtig Bauen, Hausrat Und Wertgegenstaende, Inkasso Und Titulierte Forderungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Glaeubigerliste Richtig Bauen, Hausrat Und Wertgegenstaende, Inkasso Und Titulierte Forderungen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Glaeubigerliste Richtig Bauen, Hausrat Und Wertgegenstaende, Inkasso Und Titulierte Forderungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

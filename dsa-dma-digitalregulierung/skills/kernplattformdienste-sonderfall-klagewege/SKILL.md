@@ -1,13 +1,13 @@
 ---
 name: kernplattformdienste-sonderfall-klagewege
-description: "Nutze dies, wenn Spezial Kernplattformdienste Sonderfall Und Edge Case, Spezial Klagewege Mandantenkommunikation Entscheidungsvorlage, Spezial Risikobewertung Compliance Dokumentation Und Akte im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Kernplattformdienste Sonderfall Und Edge Case, Spezial Klagewege Mandantenkommunikation Entscheidungsvorlage, Spezial Risikobewertung Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Kernplattformdienste Sonderfall Und Edge Case, Spezial Klagewege Mandantenkommunikation Entscheidungsvorlage, Spezial Risikobewertung Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kernplattformdienste Sonderfall Und Edge Case, Klagewege Mandantenkommunikation Entscheidungsvorlage, Risikobewertung Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Kernplattformdienste Sonderfall Und Edge Case, Spezial Klagewege Mandantenkommunikation Entscheidungsvorlage, Spezial Risikobewertung Compliance Dokumentation Und Akte
+# Kernplattformdienste Sonderfall Und Edge Case, Klagewege Mandantenkommunikation Entscheidungsvorlage, Risikobewertung Compliance Dokumentation Und Akte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kernplattformdienste Sonderfall Und Edge Case, Klagewege Mandantenkommunikation Entscheidungsvorlage, Risikobewertung Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Kernplattformdienste Sonderfall Und Edge Case, Spezial Klagewege Mandantenkommunikation Entscheidungsvorlage, Spezial Risikobewertung Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kernplattformdienste Sonderfall Und Edge Case, Klagewege Mandantenkommunikation Entscheidungsvorlage, Risikobewertung Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Kernplattformdienste Sonderfall Und Edge Case, Spezial Klagewege 
 # Kernplattformdienste: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Kernplattformdienste: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Kernplattformdienste: Sonderfall und Edge-Case-Prüfung / spezial kernplattformdienste sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kernplattformdienste: Sonderfall und Edge-Case-Prüfung / kernplattformdienste sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Klagewege: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Klagewege: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Klagewege: Mandantenkommunikation und Entscheidungsvorlage / spezial klagewege mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Klagewege: Mandantenkommunikation und Entscheidungsvorlage / klagewege mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -124,7 +124,7 @@ Erstwahl: oft Art. 20 DSA (internes Beschwerdeverfahren) + Art. 21 DSA (ADR) —
 # Risikobewertung: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Risikobewertung: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Risikobewertung: Compliance-Dokumentation und Aktenvermerk / spezial risikobewertung compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Risikobewertung: Compliance-Dokumentation und Aktenvermerk / risikobewertung compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

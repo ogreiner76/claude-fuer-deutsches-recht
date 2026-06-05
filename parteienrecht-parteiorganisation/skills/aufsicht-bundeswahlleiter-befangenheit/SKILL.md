@@ -1,13 +1,13 @@
 ---
 name: aufsicht-bundeswahlleiter-befangenheit
-description: "Nutze dies, wenn Aufsicht Und Bundeswahlleiter, Befangenheit Und Sitzungsleitung, Beitragsordnung im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Aufsicht Und Bundeswahlleiter, Befangenheit Und Sitzungsleitung, Beitragsordnung prüfen.; Erstelle eine Arbeitsfassung zu Aufsicht Und Bundeswahlleiter, Befangenheit Und Sitzungsleitung, Beitragsordnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aufsicht Und Bundeswahlleiter, Befangenheit Und Sitzungsleitung, Beitragsordnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aufsicht Und Bundeswahlleiter, Befangenheit Und Sitzungsleitung, Beitragsordnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aufsicht Und Bundeswahlleiter, Befangenheit Und Sitzungsleitung, Beitragsordnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Aufsicht Und Bundeswahlleiter, Befangenheit Und Sitzungsleitung, Beitrags
 ## Aufgabe
 Erstellt Schreiben an Bundeswahlleiterin/Landeswahlleitung zu Anzeigen, Wahlvorschlägen, Fristen, Beanstandungen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -117,7 +117,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Hilft bei Leitung, Interessenkonflikten, Ordnungsmaßnahmen, Redeliste und Abstimmungsleitung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -168,7 +168,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft Mitgliedsbeiträge, Mandatsträgerbeiträge, Ermäßigung, Mahnung, Transparenz und Satzungsgrundlage.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

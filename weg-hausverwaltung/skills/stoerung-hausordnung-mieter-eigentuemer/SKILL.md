@@ -31,11 +31,11 @@ Störungen geordnet aufnehmen, Beweise sichern und die richtige Adressatenkette 
 3. **Störer**: Eigentümer, Mieter, Besucher, Handwerker? Bei Mietern auch vermietender Eigentümer prüfen.
 4. **Regelwerk**: Teilungserklärung, Gemeinschaftsordnung, Hausordnung, Beschlüsse der GdWE, Mietvertrag.
 5. **Anspruchsgrundlage**:
-   - § 14 Abs. 2 Nr. 1 WEG (Pflichten des Wohnungseigentümers gegenüber den anderen Eigentümern).
-   - § 1004 BGB (Beseitigung / Unterlassung).
-   - § 906 BGB (Immissionen).
-   - Hausordnung als Vertrags- und Beschlussregel.
-   - Mietrechtliche Pflichten (§§ 535 ff. BGB) bei Mietern.
+ - § 14 Abs. 2 Nr. 1 WEG (Pflichten des Wohnungseigentümers gegenüber den anderen Eigentümern).
+ - § 1004 BGB (Beseitigung / Unterlassung).
+ - § 906 BGB (Immissionen).
+ - Hausordnung als Vertrags- und Beschlussregel.
+ - Mietrechtliche Pflichten (§§ 535 ff. BGB) bei Mietern.
 6. **Reaktion**: freundlicher Hinweis → Abmahnung → Klage; Beweissicherung kontinuierlich.
 
 ## Adressatenkette

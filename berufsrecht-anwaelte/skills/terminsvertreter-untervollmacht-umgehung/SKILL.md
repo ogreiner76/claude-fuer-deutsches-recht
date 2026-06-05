@@ -1,13 +1,13 @@
 ---
 name: terminsvertreter-untervollmacht-umgehung
-description: "Nutze dies, wenn Anwälte Terminsvertreter Und Untervollmacht Organisationspflic, Anwälte Umgehung Des Gegenanwalts Organisationspflicht Und Pra, Anwälte Unsachlichkeit Kollegenstreit Kammerantwort Und Verfah, Anwälte Unsachlichkeit Kollegenstreit Organisationspflicht Und im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Terminsvertreter Und Untervollmacht Organisationspflic, Anwälte Umgehung Des Gegenanwalts Organisationspflicht Und Pra, Anwälte Unsachlichkeit Kollegenstreit Kammerantwort Und Verfah, Anwälte Unsachlichkeit Kollegenstreit Organisationspflicht Und prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Terminsvertreter Und Untervollmacht Organisationspflic, Anwälte Umgehung Des Gegenanwalts Organisationspflicht Und Pra, Anwälte Unsachlichkeit Kollegenstreit Kammerantwort Und Verfah, Anwälte Unsachlichkeit Kollegenstreit Organisationspflicht Und.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaelte Terminsvertreter Und Untervollmacht Organisationspflic, Anwaelte Umgehung Des Gegenanwalts Organisationspflicht Und Pra, Anwaelte Unsachlichkeit Kollegenstreit Kammerantwort Und Verfah, Anwaelte Unsachlichkeit Kollegenstreit Organisationspflicht Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Terminsvertreter Und Untervollmacht Organisationspflic, Anwälte Umgehung Des Gegenanwalts Organisationspflicht Und Pra, Anwälte Unsachlichkeit Kollegenstreit Kammerantwort Und Verfah, Anwälte Unsachlichkeit Kollegenstreit Organisationspflicht Und
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Terminsvertreter Und Untervollmacht Organisationspflic, Anwälte Umgehung Des Gegenanwalts Organisationspflicht Und Pra, Anwälte Unsachlichkeit Kollegenstreit Kammerantwort Und Verfah, Anwälte Unsachlichkeit Kollegenstreit Organisationspflicht Und** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

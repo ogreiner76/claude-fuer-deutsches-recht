@@ -1,13 +1,13 @@
 ---
 name: inso-pl
-description: "Nutze dies, wenn Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren
+# Mandantenkommunikation, Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenkommunikation, Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenkommunikation, Redteam Qualitygate, Inso Pl Einfuehrung Verfahrenstypen, Insol Sanierungsgewinn Finanzamt Im Insolvenzverfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -41,10 +41,10 @@ Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Inso Pl Ei
 
 
 ## Aufgabe
-Dieser Workflow-Skill für `insolvenzrecht` Mandantenkommunikation im Plugin insolvenzrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Mandantenkommunikation im Plugin insolvenzrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -54,7 +54,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -73,10 +73,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - **Adressat:** Geschäftsführer / Vorstand persönlich (Hinweis auf persönliche Haftung), in CC keine Vertraulichkeitsbedenken (§ 43a Abs. 2 BRAO, § 203 StGB).
 - **Eröffnung:** "In dem Mandat … / In Sachen Insolvenzantrag/Sanierung … senden wir Ihnen folgende Einschätzung."
 - **Inhalt nach Triage-Ergebnis:**
-  - Status: liegt eine materielle Insolvenz vor (§§ 17, 18, 19 InsO)?
-  - Frist: Antragspflicht § 15a InsO — 3 Wochen ab Zahlungsunfähigkeit, 6 Wochen ab Überschuldung; bei Aussichtslosigkeit der Sanierung kürzer.
-  - Haftung: persönliche Haftung Geschäftsführer für verspäteten Antrag (§ 15a Abs. 4 InsO Strafbarkeit; § 15b InsO Zahlungsverbot und Erstattungspflicht für nach Insolvenzreife erfolgte Zahlungen, ehemals § 64 GmbHG).
-  - Alternativen: Eigenverwaltung § 270 InsO, Schutzschirm § 270d InsO, StaRUG (nur drohende ZU § 18 InsO).
+ - Status: liegt eine materielle Insolvenz vor (§§ 17, 18, 19 InsO)?
+ - Frist: Antragspflicht § 15a InsO — 3 Wochen ab Zahlungsunfähigkeit, 6 Wochen ab Überschuldung; bei Aussichtslosigkeit der Sanierung kürzer.
+ - Haftung: persönliche Haftung Geschäftsführer für verspäteten Antrag (§ 15a Abs. 4 InsO Strafbarkeit; § 15b InsO Zahlungsverbot und Erstattungspflicht für nach Insolvenzreife erfolgte Zahlungen, ehemals § 64 GmbHG).
+ - Alternativen: Eigenverwaltung § 270 InsO, Schutzschirm § 270d InsO, StaRUG (nur drohende ZU § 18 InsO).
 - **Empfehlung:** klare Handlungsoption — antragstellen, Sanierungskonzept, Beraterhinzuziehung.
 - **Nächste Schritte mit konkreter Frist:** Tag der nächsten Besprechung, Liste der benötigten Unterlagen.
 - **Kostenhinweis:** Hinweis auf RVG / Honorarvereinbarung; bei Insolvenz Gerichtsverfahren-Wertgebühr nach RVG, vorinsolvenzliche Beratung nach Honorarvereinbarung.
@@ -102,10 +102,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 
 ## Aufgabe
-Dieser Workflow-Skill für `insolvenzrecht` Red-Team Qualitygate im Plugin insolvenzrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin insolvenzrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -115,7 +115,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -133,12 +133,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Insolvenzrecht-Red-Team-Checks
 - **Fristen:** § 15a InsO (3 Wochen bei ZU, 6 Wochen bei Überschuldung) korrekt berechnet ab Eintritt der materiellen Insolvenz (nicht ab Erkenntnis)?
 - **Eröffnungsgrund-Schwellen:**
-  - § 17 InsO Zahlungsunfähigkeit: 10-Prozent-Schwelle und 3-Wochen-Liquiditätslücke (BGH-Linie) explizit geprüft?
-  - § 19 InsO Überschuldung: zweistufige Prüfung (rechnerische Überschuldung + negative Fortbestehensprognose) sauber getrennt?
-  - § 18 InsO drohende Zahlungsunfähigkeit: Prognosezeitraum 24 Monate (seit SanInsFoG 2021) genannt?
+ - § 17 InsO Zahlungsunfähigkeit: 10-Prozent-Schwelle und 3-Wochen-Liquiditätslücke (BGH-Linie) explizit geprüft?
+ - § 19 InsO Überschuldung: zweistufige Prüfung (rechnerische Überschuldung + negative Fortbestehensprognose) sauber getrennt?
+ - § 18 InsO drohende Zahlungsunfähigkeit: Prognosezeitraum 24 Monate (seit SanInsFoG 2021) genannt?
 - **Verwechslungsgefahr:**
-  - Überschuldung ≠ bilanzielle Unterdeckung — Fortbestehensprognose entscheidet.
-  - Zahlungsstockung ≠ Zahlungsunfähigkeit — Drei-Wochen-Grenze.
+ - Überschuldung ≠ bilanzielle Unterdeckung — Fortbestehensprognose entscheidet.
+ - Zahlungsstockung ≠ Zahlungsunfähigkeit — Drei-Wochen-Grenze.
 - **Anfechtung:** Bei § 133 InsO 4-Jahres-Zeitraum (seit Reform 2017 für kongruente Deckungen), bei §§ 130, 131 InsO 3 Monate, bei § 134 InsO 4 Jahre.
 - **Strafbarkeit erkannt?** § 15a Abs. 4 InsO, §§ 283 ff. StGB, § 266a StGB Sozialversicherungsbeiträge.
 - **EU-Bezug:** COMI-Prüfung (Art. 3 EuInsVO) erfolgt bei grenzüberschreitendem Sachverhalt?
@@ -256,12 +256,12 @@ Kaltstart-Fragen:
 - Paragraph 226 AO — Aufrechnung mit Steuerforderungen.
 - Paragraph 3a EStG, Paragraph 7b GewStG.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Steuerforderungen klassifizieren.**
-   - Vor Eroeffnung entstanden -> Insolvenzforderung Paragraph 38 InsO, zur Tabelle.
-   - Nach Eroeffnung aus Verwaltung -> Masseverbindlichkeit Paragraph 55 InsO.
-   - Nicht erfuellt verbliebene Anmeldungen -> Pruefung Paragraph 175 InsO.
+ - Vor Eroeffnung entstanden -> Insolvenzforderung Paragraph 38 InsO, zur Tabelle.
+ - Nach Eroeffnung aus Verwaltung -> Masseverbindlichkeit Paragraph 55 InsO.
+ - Nicht erfuellt verbliebene Anmeldungen -> Pruefung Paragraph 175 InsO.
 2. **Aufrechnung pruefen.** Wenn das FA bereits aufgerechnet hat, Paragraph 96 InsO pruefen — Aufrechnungsverbote.
 3. **Vollstreckungsverbot Paragraph 89 InsO** beachten — auch FA darf nicht in die Masse vollstrecken.
 4. **Sanierungs-Antraege rechtzeitig stellen.** Vorabauskunft Paragraph 89 AO; mit Steuererklaerung Antrag Paragraph 3a EStG.

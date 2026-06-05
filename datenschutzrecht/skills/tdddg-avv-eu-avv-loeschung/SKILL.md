@@ -1,13 +1,13 @@
 ---
 name: tdddg-avv-eu-avv-loeschung
-description: "Nutze dies, wenn Spezial Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Spezial Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Spezial Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket prüfen.; Erstelle eine Arbeitsfassung zu Spezial Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Spezial Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Standardvertragsklauseln Mehrparteienkonflikt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Spezial Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket
+# Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Spezial Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterklauseln 2021 915, Avv Löschung Rueckgabe Nach Vertragsende, Standardvertragsklauseln Mehrparteienkonflikt, Standardvertragsklauseln Scc Paket** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Tdddg Fristen Form Und Zustaendigkeit, Avv Eu Kommission Musterkl
 # Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg / spezial tdddg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg / tdddg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -102,32 +102,32 @@ Anwendung und Aufbau der EU-Kommissions-Standardvertragsklauseln zwischen Verant
 ## Ablauf / Checkliste
 
 1. **Abgrenzung pruefen.**
-   - Beschluss (EU) 2021/915 = AVV Verantwortlicher zu Auftragsverarbeiter im EWR-Binnenkontext.
-   - Beschluss (EU) 2021/914 = Drittlandtransfer-SCC (vier Module: C2C, C2P, P2P, P2C); in Kraft seit 27.06.2021.
-   - Beide koennen nebeneinander verwendet werden, wenn Auftragsverarbeiter im Drittland sitzt.
+ - Beschluss (EU) 2021/915 = AVV Verantwortlicher zu Auftragsverarbeiter im EWR-Binnenkontext.
+ - Beschluss (EU) 2021/914 = Drittlandtransfer-SCC (vier Module: C2C, C2P, P2P, P2C); in Kraft seit 27.06.2021.
+ - Beide koennen nebeneinander verwendet werden, wenn Auftragsverarbeiter im Drittland sitzt.
 
 2. **Struktur des Beschluss (EU) 2021/915.**
-   - Klausel 1 Zweck und Anwendungsbereich.
-   - Klausel 2 Unveraenderlichkeit (Klauseln nicht abaendern, aber ergaenzen).
-   - Klausel 3 Auslegung.
-   - Klausel 4 Hierarchie (Vorrang vor anderen vertraglichen Bestimmungen).
-   - Klausel 5 Verarbeitungstaetigkeiten (Anhang I).
-   - Klausel 6 Beschreibung der Verarbeitung (Anhang I).
-   - Klausel 7 Pflichten der Parteien (Art. 28 Abs. 3 lit. a bis h DSGVO).
-   - Klausel 8 Sub-Auftragsverarbeiter (Anhang IV).
-   - Klausel 9 Internationale Datenuebermittlung (Verweis auf SCC Beschluss (EU) 2021/914).
-   - Klausel 10 Unterstuetzung des Verantwortlichen.
-   - Klausel 11 Beendigung.
-   - Anhang II TOM, Anhang III Liste Sub-AV, Anhang IV Liste der Verarbeitungstaetigkeiten.
+ - Klausel 1 Zweck und Anwendungsbereich.
+ - Klausel 2 Unveraenderlichkeit (Klauseln nicht abaendern, aber ergaenzen).
+ - Klausel 3 Auslegung.
+ - Klausel 4 Hierarchie (Vorrang vor anderen vertraglichen Bestimmungen).
+ - Klausel 5 Verarbeitungstaetigkeiten (Anhang I).
+ - Klausel 6 Beschreibung der Verarbeitung (Anhang I).
+ - Klausel 7 Pflichten der Parteien (Art. 28 Abs. 3 lit. a bis h DSGVO).
+ - Klausel 8 Sub-Auftragsverarbeiter (Anhang IV).
+ - Klausel 9 Internationale Datenuebermittlung (Verweis auf SCC Beschluss (EU) 2021/914).
+ - Klausel 10 Unterstuetzung des Verantwortlichen.
+ - Klausel 11 Beendigung.
+ - Anhang II TOM, Anhang III Liste Sub-AV, Anhang IV Liste der Verarbeitungstaetigkeiten.
 
 3. **Auswahl und Ausfuellung.**
-   - Klauseln 1 bis 11 unveraendert uebernehmen.
-   - Anhaenge konkret befuellen: keine Pauschalformulierungen.
-   - Bei Konzern-/Multi-Party-Konstellationen ggf. Beitrittsmechanik (Docking Clause analog Beschluss 2021/914).
+ - Klauseln 1 bis 11 unveraendert uebernehmen.
+ - Anhaenge konkret befuellen: keine Pauschalformulierungen.
+ - Bei Konzern-/Multi-Party-Konstellationen ggf. Beitrittsmechanik (Docking Clause analog Beschluss 2021/914).
 
 4. **Begrenzung.**
-   - Die Klauseln decken Art. 28 DSGVO ab, nicht Art. 26 (Joint Control) und nicht Art. 13/14 (Informationspflichten).
-   - Sie ersetzen keine Drittland-SCC; wenn Daten aus dem EWR herausfliessen, muessen zusaetzlich die SCC nach Beschluss (EU) 2021/914 abgeschlossen werden.
+ - Die Klauseln decken Art. 28 DSGVO ab, nicht Art. 26 (Joint Control) und nicht Art. 13/14 (Informationspflichten).
+ - Sie ersetzen keine Drittland-SCC; wenn Daten aus dem EWR herausfliessen, muessen zusaetzlich die SCC nach Beschluss (EU) 2021/914 abgeschlossen werden.
 
 ## Mustertext / Template
 
@@ -193,29 +193,29 @@ Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, 
 ## Ablauf / Checkliste
 
 1. **Wahlrecht ausueben.**
-   - Verantwortlicher entscheidet: Loeschung, Rueckgabe oder eine Kombination (z. B. Rueckgabe aktiver Daten, Loeschung der Kopien).
-   - Wahl muss vor Ende der Verarbeitungsleistungen kommuniziert werden – Vertrag sieht typischerweise 30 Kalendertage vor.
+ - Verantwortlicher entscheidet: Loeschung, Rueckgabe oder eine Kombination (z. B. Rueckgabe aktiver Daten, Loeschung der Kopien).
+ - Wahl muss vor Ende der Verarbeitungsleistungen kommuniziert werden – Vertrag sieht typischerweise 30 Kalendertage vor.
 
 2. **Format definieren.**
-   - Strukturierte, gaengige und maschinenlesbare Formate (CSV, JSON, XML) analog Art. 20 DSGVO.
-   - Verschluesselter Transport.
-   - Datentraegerformat oder API-Endpunkt definieren.
+ - Strukturierte, gaengige und maschinenlesbare Formate (CSV, JSON, XML) analog Art. 20 DSGVO.
+ - Verschluesselter Transport.
+ - Datentraegerformat oder API-Endpunkt definieren.
 
 3. **Loeschmethodik.**
-   - Loeschstandards: DIN 66399, NIST SP 800-88 Rev. 1.
-   - Backups: Loeschung in der naechsten regulaeren Backup-Rotation oder gezielte Loeschung.
-   - Logfiles: Aufbewahrungspflicht versus Datensparsamkeit abwaegen.
+ - Loeschstandards: DIN 66399, NIST SP 800-88 Rev. 1.
+ - Backups: Loeschung in der naechsten regulaeren Backup-Rotation oder gezielte Loeschung.
+ - Logfiles: Aufbewahrungspflicht versus Datensparsamkeit abwaegen.
 
 4. **Aufbewahrungsausnahmen.**
-   - § 257 HGB, § 147 AO: 10 Jahre, 6 Jahre.
-   - § 50 BDSG: bis Zweckerreichung beendet.
-   - § 195 BGB i.V.m. § 199 BGB: Verjaehrungsablauf abwarten.
-   - Sicherstellen: Aufbewahrungsdaten sind separiert, zugriffsbeschraenkt und nicht weiter verarbeitet (Sperrung).
+ - § 257 HGB, § 147 AO: 10 Jahre, 6 Jahre.
+ - § 50 BDSG: bis Zweckerreichung beendet.
+ - § 195 BGB i.V.m. § 199 BGB: Verjaehrungsablauf abwarten.
+ - Sicherstellen: Aufbewahrungsdaten sind separiert, zugriffsbeschraenkt und nicht weiter verarbeitet (Sperrung).
 
 5. **Nachweis.**
-   - Loeschprotokoll mit Datum, Bestand, Methode, verantwortlicher Person.
-   - Unterschrift durch den Auftragsverarbeiter.
-   - Bei Sub-AV: Loeschnachweise aller Sub-AV in der Kette.
+ - Loeschprotokoll mit Datum, Bestand, Methode, verantwortlicher Person.
+ - Unterschrift durch den Auftragsverarbeiter.
+ - Bei Sub-AV: Loeschnachweise aller Sub-AV in der Kette.
 
 ## Mustertext / Template
 
@@ -274,7 +274,7 @@ Klausel zu Loeschung und Rueckgabe:
 # Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix / spezial standardvertragsklauseln mehrparteienkonflikt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Standardvertragsklauseln: Mehrparteienkonflikt und Interessenmatrix / standardvertragsklauseln mehrparteienkonflikt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

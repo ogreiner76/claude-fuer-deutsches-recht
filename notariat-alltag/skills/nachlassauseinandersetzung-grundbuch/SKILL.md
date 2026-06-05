@@ -1,13 +1,13 @@
 ---
 name: nachlassauseinandersetzung-grundbuch
-description: "Nutze dies, wenn Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf im Plugin Notariat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf prüfen.; Erstelle eine Arbeitsfassung zu Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

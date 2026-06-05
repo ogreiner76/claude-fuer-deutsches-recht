@@ -1,6 +1,6 @@
 ---
 name: allgemein-kaltstart
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Allgemein Kaltstart; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Allgemein Kaltstart; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
 ---
 
 # Allgemein Kaltstart

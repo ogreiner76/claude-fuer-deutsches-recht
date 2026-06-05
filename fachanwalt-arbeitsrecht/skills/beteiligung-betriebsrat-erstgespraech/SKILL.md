@@ -1,13 +1,13 @@
 ---
 name: beteiligung-betriebsrat-erstgespraech
-description: "Nutze dies, wenn Beteiligung Betriebsrat 102 Betrvg, Erstgespraech Mandatsannahme, Fachanwalt Arbeitsrecht Bag Equal Pay Paarvergleich im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Beteiligung Betriebsrat 102 Betrvg, Erstgespraech Mandatsannahme, Fachanwalt Arbeitsrecht Bag Equal Pay Paarvergleich prüfen.; Erstelle eine Arbeitsfassung zu Beteiligung Betriebsrat 102 Betrvg, Erstgespraech Mandatsannahme, Fachanwalt Arbeitsrecht Bag Equal Pay Paarvergleich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beteiligung Betriebsrat 102 Betrvg, Erstgespraech Mandatsannahme, Fachanwalt Arbeitsrecht Bag Equal Pay Paarvergleich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beteiligung Betriebsrat 102 Betrvg, Erstgespraech Mandatsannahme, Fachanwalt Arbeitsrecht Bag Equal Pay Paarvergleich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beteiligung Betriebsrat 102 Betrvg, Erstgespraech Mandatsannahme, Fachanwalt Arbeitsrecht Bag Equal Pay Paarvergleich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `beteiligung-betriebsrat-102-betrvg` | Betriebsratsanhörung vor Kündigung: Sachverhalt, Sozialdaten, Kündigungsgrund, Nachschieben und Fehlerfolgen.; Normanker: BetrVG § 102; KSchG; BAG live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich` | Workflow-Skill zu fachanwalt arbeitsrecht bag equal pay paarvergleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich` | Arbeitsmodul zu fachanwalt arbeitsrecht bag equal pay paarvergleich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -41,7 +41,7 @@ Für **Beteiligung Betriebsrat 102 Betrvg, Erstgespraech Mandatsannahme, Fachanw
 
 ## Auftrag
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
 
 ## Normanker
 
@@ -254,7 +254,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich`
 
-**Fokus:** Workflow-Skill zu fachanwalt arbeitsrecht bag equal pay paarvergleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt arbeitsrecht bag equal pay paarvergleich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsprechung live prüfen
 

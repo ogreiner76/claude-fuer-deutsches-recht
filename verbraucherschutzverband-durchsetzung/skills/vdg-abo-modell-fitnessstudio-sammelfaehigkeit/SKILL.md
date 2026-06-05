@@ -1,13 +1,13 @@
 ---
 name: vdg-abo-modell-fitnessstudio-sammelfaehigkeit
-description: "Nutze dies, wenn Vdg 070 Abo Modell Risiko Rot Markieren, Vdg 071 Fitnessstudio Sammelfaehigkeit Prüfen, Vdg 072 Fitnessstudio Klageschrift Strukturier, Vdg 073 Fitnessstudio Anspruchsgruppen Bilden im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 070 Abo Modell Risiko Rot Markieren, Vdg 071 Fitnessstudio Sammelfaehigkeit Prüfen, Vdg 072 Fitnessstudio Klageschrift Strukturier, Vdg 073 Fitnessstudio Anspruchsgruppen Bilden prüfen.; Erstelle eine Arbeitsfassung zu Vdg 070 Abo Modell Risiko Rot Markieren, Vdg 071 Fitnessstudio Sammelfaehigkeit Prüfen, Vdg 072 Fitnessstudio Klageschrift Strukturier, Vdg 073 Fitnessstudio Anspruchsgruppen Bilden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vdg 070 Abo Modell Risiko Rot Markieren, Vdg 071 Fitnessstudio Sammelfaehigkeit Prüfen, Vdg 072 Fitnessstudio Klageschrift Strukturier, Vdg 073 Fitnessstudio Anspruchsgruppen Bilden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vdg 070 Abo Modell Risiko Rot Markieren, Vdg 071 Fitnessstudio Sammelfaehigkeit Prüfen, Vdg 072 Fitnessstudio Klageschrift Strukturier, Vdg 073 Fitnessstudio Anspruchsgruppen Bilden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 070 Abo Modell Risiko Rot Markieren, Vdg 071 Fitnessstudio Sammelfaehigkeit Prüfen, Vdg 072 Fitnessstudio Klageschrift Strukturier, Vdg 073 Fitnessstudio Anspruchsgruppen Bilden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

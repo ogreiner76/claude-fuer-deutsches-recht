@@ -1,13 +1,13 @@
 ---
 name: kriegsdienstverweigerung-verfahren
-description: "Nutze dies, wenn Kriegsdienstverweigerung Verfahren, Rechtsbeistand Im Disziplinarverfahren, Truppendienstgericht Zustaendigkeit Verfahren im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Kriegsdienstverweigerung Verfahren, Rechtsbeistand Im Disziplinarverfahren, Truppendienstgericht Zustaendigkeit Verfahren prüfen.; Erstelle eine Arbeitsfassung zu Kriegsdienstverweigerung Verfahren, Rechtsbeistand Im Disziplinarverfahren, Truppendienstgericht Zustaendigkeit Verfahren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kriegsdienstverweigerung Verfahren, Rechtsbeistand Im Disziplinarverfahren, Truppendienstgericht Zustaendigkeit Verfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kriegsdienstverweigerung Verfahren, Rechtsbeistand Im Disziplinarverfahren, Truppendienstgericht Zustaendigkeit Verfahren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kriegsdienstverweigerung Verfahren, Rechtsbeistand Im Disziplinarverfahren, Truppendienstgericht Zustaendigkeit Verfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -62,7 +62,7 @@ Das Recht auf Kriegsdienstverweigerung aus Gewissensgründen ist in Art. 4 III G
 - § 1 WPflG i.V.m. KDVG: Wehrpflichtige.
 - § 1 SG i.V.m. KDVG: Soldaten und Reservisten.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Statusbestimmung.** Antragsweg differenziert je nach Status. Soldat: Antrag beim Vorgesetzten, weiter ans BAFzA / Wehrdienstrechtsamt. Reservist: vor Heranziehung. Wehrpflichtiger: bei Musterung oder im Wehrdienst.
 2. **Antragsschrift.** Schriftlich, persönlich verfasst, Begründung der Gewissensentscheidung. Lebensgeschichte, prägende Erfahrungen, ethische/religiöse Grundlagen, Folgen für eigene Lebensführung.
@@ -216,7 +216,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -274,7 +274,7 @@ Die Truppendienstgerichte (Süd in München, Nord in Münster) sind erstinstanzl
 - § 22a WDO: Vorläufige Dienstenthebung und Einbehaltung von Bezügen durch das TDG.
 - § 23a WDO: Rechtsmittel – Berufung/Revision zum BVerwG (Wehrdienstsenat).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Zuständigkeit prüfen.** Truppendienstgericht Süd (Standorte südlich der Mainlinie) bzw. Nord. Bei Auslandsverwendung – Standort des Stammteils.
 2. **Antrag/Schriftsatz vorbereiten.** Beim Antrag auf gerichtliche Entscheidung nach § 17 WBO: Beschwer, Tatsachenvortrag, Beweismittel, Anträge. Beim gerichtlichen Disziplinarverfahren: Verteidigungsschrift nach Anklage durch Einleitungsbehörde.

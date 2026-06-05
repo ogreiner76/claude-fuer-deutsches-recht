@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-030-normkarte-polizeirecht-ohne
-description: "Nutze dies, wenn PrALR: Normkarte Polizeirecht ohne Anachronismus im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Normkarte Polizeirecht ohne Anachronismus prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Normkarte Polizeirecht ohne Anachronismus.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Normkarte Polizeirecht ohne Anachronismus: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Normkarte Polizeirecht ohne Anachronismus

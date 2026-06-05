@@ -1,13 +1,13 @@
 ---
 name: vbr-digitale-inhalte-widerruf-formulieren
-description: "Nutze dies, wenn Vbr 071 Digitale Inhalte Anspruch Prüfen, Vbr 072 Digitale Inhalte Widerruf Formulieren, Vbr 074 Digitale Inhalte Beweise Sichern, Vbr 075 Digitale Inhalte Agb Redlinen im Plugin Verbraucherschutzrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vbr 071 Digitale Inhalte Anspruch Prüfen, Vbr 072 Digitale Inhalte Widerruf Formulieren, Vbr 074 Digitale Inhalte Beweise Sichern, Vbr 075 Digitale Inhalte Agb Redlinen prüfen.; Erstelle eine Arbeitsfassung zu Vbr 071 Digitale Inhalte Anspruch Prüfen, Vbr 072 Digitale Inhalte Widerruf Formulieren, Vbr 074 Digitale Inhalte Beweise Sichern, Vbr 075 Digitale Inhalte Agb Redlinen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vbr 071 Digitale Inhalte Anspruch Prüfen, Vbr 072 Digitale Inhalte Widerruf Formulieren, Vbr 074 Digitale Inhalte Beweise Sichern, Vbr 075 Digitale Inhalte Agb Redlinen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vbr 071 Digitale Inhalte Anspruch Prüfen, Vbr 072 Digitale Inhalte Widerruf Formulieren, Vbr 074 Digitale Inhalte Beweise Sichern, Vbr 075 Digitale Inhalte Agb Redlinen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vbr 071 Digitale Inhalte Anspruch Prüfen, Vbr 072 Digitale Inhalte Widerruf Formulieren, Vbr 074 Digitale Inhalte Beweise Sichern, Vbr 075 Digitale Inhalte Agb Redlinen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

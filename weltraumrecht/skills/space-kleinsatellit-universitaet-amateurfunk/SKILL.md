@@ -1,13 +1,13 @@
 ---
 name: space-kleinsatellit-universitaet-amateurfunk
-description: "Nutze dies, wenn Space 039 Kleinsatellit Universitaet Cubesat Genehmigung Und Ver, Space 040 Amateurfunk Satellit Und Frequenznutzung, Space 041 Remote Sensing Lizenz Rohdaten Und Sensible Orte, Space 043 Weltraumwetter Solarsturm Und Betreiberpflichten im Plugin Weltraumrecht konkret bearbeitet werden soll. Auslöser: Bitte Space 039 Kleinsatellit Universitaet Cubesat Genehmigung Und Ver, Space 040 Amateurfunk Satellit Und Frequenznutzung, Space 041 Remote Sensing Lizenz Rohdaten Und Sensible Orte, Space 043 Weltraumwetter Solarsturm Und Betreiberpflichten prüfen.; Erstelle eine Arbeitsfassung zu Space 039 Kleinsatellit Universitaet Cubesat Genehmigung Und Ver, Space 040 Amateurfunk Satellit Und Frequenznutzung, Space 041 Remote Sensing Lizenz Rohdaten Und Sensible Orte, Space 043 Weltraumwetter Solarsturm Und Betreiberpflichten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Space 039 Kleinsatellit Universitaet Cubesat Genehmigung Und Ver, Space 040 Amateurfunk Satellit Und Frequenznutzung, Space 041 Remote Sensing Lizenz Rohdaten Und Sensible Orte, Space 043 Weltraumwetter Solarsturm Und Betreiberpflichten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Space 039 Kleinsatellit Universitaet Cubesat Genehmigung Und Ver, Space 040 Amateurfunk Satellit Und Frequenznutzung, Space 041 Remote Sensing Lizenz Rohdaten Und Sensible Orte, Space 043 Weltraumwetter Solarsturm Und Betreiberpflichten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Space 039 Kleinsatellit Universitaet Cubesat Genehmigung Und Ver, Space 040 Amateurfunk Satellit Und Frequenznutzung, Space 041 Remote Sensing Lizenz Rohdaten Und Sensible Orte, Space 043 Weltraumwetter Solarsturm Und Betreiberpflichten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

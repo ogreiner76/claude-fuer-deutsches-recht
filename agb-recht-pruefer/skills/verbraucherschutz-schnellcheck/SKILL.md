@@ -1,6 +1,6 @@
 ---
 name: verbraucherschutz-schnellcheck
-description: "Einstiegs- und Workflow-Skill für Verbraucherschutz Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Arbeitsmodul für Verbraucherschutz Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # Verbraucherschutz Schnellcheck

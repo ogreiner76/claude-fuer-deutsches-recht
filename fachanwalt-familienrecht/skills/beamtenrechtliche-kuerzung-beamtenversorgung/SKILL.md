@@ -1,13 +1,13 @@
 ---
 name: beamtenrechtliche-kuerzung-beamtenversorgung
-description: "Nutze dies, wenn Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg prüfen.; Erstelle eine Arbeitsfassung zu Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beamtenrechtliche Kuerzung Und Rueckausnahme, Beamtenversorgung Versorgungsausgleich, Beschwerde Gegen Va Beschluss Famfg, Betriebliche Altersversorgung Direktzusage Pensionskasse Fonds, Ehezeit Bestimmen 3 Versausglg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

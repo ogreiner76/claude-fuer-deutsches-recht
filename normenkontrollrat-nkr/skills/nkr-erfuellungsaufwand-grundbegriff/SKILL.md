@@ -42,9 +42,9 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 1. **Pflichtinhalt identifizieren** — welche konkrete Handlung wird angeordnet?
 2. **Adressaten bestimmen** — Buerger / Wirtschaft / Verwaltung
 3. **Aufwandskomponenten zerlegen**:
-   - Zeit (Personalstunden)
-   - Sachmittel (Material, IT)
-   - Externe Dienstleistungen
+ - Zeit (Personalstunden)
+ - Sachmittel (Material, IT)
+ - Externe Dienstleistungen
 4. **Einmalig vs. laufend** trennen
 5. **Pro-Fall-Aufwand** ermitteln
 6. **Fallzahl** ermitteln (jaehrlich)

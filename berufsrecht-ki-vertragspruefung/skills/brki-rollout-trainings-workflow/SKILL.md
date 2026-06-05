@@ -1,6 +1,6 @@
 ---
 name: brki-rollout-trainings-workflow
-description: "Workflow fuer KI-Rollout in der Kanzlei: Pilotgruppe, Trainings (Halbtages-Workshop), Approval-Prozess fuer eingesetzte Tools, Reviewer-Liste, Dokumentation, KPIs. Routet in berufsrecht-ki-vertragspruefung-kaltstart-interview."
+description: "Nutze dies bei BRKI: Rollout-Trainings: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # BRKI: Rollout-Trainings

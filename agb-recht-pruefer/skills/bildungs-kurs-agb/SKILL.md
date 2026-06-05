@@ -1,6 +1,6 @@
 ---
 name: bildungs-kurs-agb
-description: "Branchen-Spezialskill für Bildungs Kurs AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Bildungs Kurs AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Bildungs Kurs AGB

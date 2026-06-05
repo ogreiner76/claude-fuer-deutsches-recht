@@ -1,6 +1,6 @@
 ---
 name: apothekenbetrieb-dokumentenintake
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Apothekenbetrieb Dokumentenintake."
+description: "Nutze dies für Unterlagen zu Apothekenbetrieb Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Apothekenbetrieb Dokumentenintake

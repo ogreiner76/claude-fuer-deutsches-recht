@@ -77,8 +77,8 @@ wegen Duldung der Zwangsvollstreckung (§§ 2 11 13 AnfG)
 
 Anträge:
 1. Der Beklagte wird verurteilt, die Zwangsvollstreckung in [GEGENSTAND KONKRET BEZEICHNEN]
-   zu dulden, soweit dies zur Befriedigung der vollstreckbaren Forderung des Klägers gegen
-   [SCHULDNER] aus [TITEL] in Höhe von EUR [BETRAG] erforderlich ist.
+ zu dulden, soweit dies zur Befriedigung der vollstreckbaren Forderung des Klägers gegen
+ [SCHULDNER] aus [TITEL] in Höhe von EUR [BETRAG] erforderlich ist.
 2. Hilfsweise: Der Beklagte wird verurteilt, an den Kläger EUR [BETRAG] zu zahlen.
 
 Streitwert: EUR [WERT DES GEGENSTANDS max. FORDERUNGSHÖHE]

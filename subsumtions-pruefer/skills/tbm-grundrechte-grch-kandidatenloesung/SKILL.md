@@ -1,13 +1,13 @@
 ---
 name: tbm-grundrechte-grch-kandidatenloesung
-description: "Nutze dies, wenn Gegen Tbm Und Einreden Prüfen, Grundrechte Prüfung De Und Grch, Kandidatenloesung Subsumtion Prüfen im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Gegen Tbm Und Einreden Prüfen, Grundrechte Prüfung De Und Grch, Kandidatenloesung Subsumtion Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Gegen Tbm Und Einreden Prüfen, Grundrechte Prüfung De Und Grch, Kandidatenloesung Subsumtion Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gegen Tbm Und Einreden Prüfen, Grundrechte Prüfung De Und Grch, Kandidatenloesung Subsumtion Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gegen Tbm Und Einreden Prüfen, Grundrechte Prüfung De Und Grch, Kandidatenloesung Subsumtion Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gegen Tbm Und Einreden Prüfen, Grundrechte Prüfung De Und Grch, Kandidatenloesung Subsumtion Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -100,10 +100,10 @@ Kein vollständiger Ausschluss, aber Kürzung des Anspruchs. Das System fragt: H
 Ist ein Nichtigkeitsgrund vorhanden?
 ├─ Ja → rechtshindernde Einwendung → Anspruch nicht entstanden
 └─ Nein → Ist ein Erlöschensgrund vorhanden?
-          ├─ Ja → rechtsvernichtende Einwendung → Anspruch erloschen
-          └─ Nein → Liegt eine Einrede vor (Verjährung, ZBR, § 320)?
-                    ├─ Ja (und erhoben) → Anspruch nicht durchsetzbar
-                    └─ Nein → Mitverschulden § 254 BGB prüfen → Quote
+ ├─ Ja → rechtsvernichtende Einwendung → Anspruch erloschen
+ └─ Nein → Liegt eine Einrede vor (Verjährung, ZBR, § 320)?
+ ├─ Ja (und erhoben) → Anspruch nicht durchsetzbar
+ └─ Nein → Mitverschulden § 254 BGB prüfen → Quote
 ```
 
 ## Quellenregel

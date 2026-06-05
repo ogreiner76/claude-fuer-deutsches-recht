@@ -1,19 +1,19 @@
 ---
 name: versandhandel-e-versandhandelserlaubnis-eu
-description: "Nutze dies, wenn Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapotheke, Versorgung Pflegeheim Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `versandhandel-und-e-rezept-intake` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel und E-Rezept Intake. |
+| `versandhandel-und-e-rezept-intake` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel und E-Rezept Intake. |
 | `versandhandelserlaubnis-eu-versandapotheke` | Versandhandelserlaubnis EU Versandapotheke: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 | `versorgung-pflegeheim-schnittstelle` | Versorgung Pflegeheim Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 
@@ -26,7 +26,7 @@ Für **Versandhandel Und E Rezept Intake, Versandhandelserlaubnis Eu Versandapot
 
 ## 1. `versandhandel-und-e-rezept-intake`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel und E-Rezept Intake.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel und E-Rezept Intake.
 
 # Versandhandel und E-Rezept Intake
 
@@ -65,13 +65,13 @@ Eingaben:
 - **§ 7 HWG**, Werbeverbote.
 - BGH und EuGH, staend. Rspr. zur grenzüberschreitenden Versand-Apotheke (DocMorris).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Bestelleingang erfassen:** Datum, Patient, Arzneimittel, Lieferadresse, ggf. Rezept-Token.
 2. **Verbots-Sortiment prüfen:**
-   - BtM: kein Versand erlaubt (§ 11a Abs. 2 ApoG i.V.m. BtMG, ständige Praxis).
-   - T-Rezept-Arzneimittel: kein Versand (vom Anwender zu verifizieren).
-   - Bestimmte Kühlware bei nicht gesicherter Kühlkette: kein Versand.
+ - BtM: kein Versand erlaubt (§ 11a Abs. 2 ApoG i.V.m. BtMG, ständige Praxis).
+ - T-Rezept-Arzneimittel: kein Versand (vom Anwender zu verifizieren).
+ - Bestimmte Kühlware bei nicht gesicherter Kühlkette: kein Versand.
 3. **E-Rezept einlösen:** Token-Verarbeitung über TI-Anbindung (siehe Skill `e-rezept-ti-gematik-apothekenprozess`).
 4. **Plausibilitätsprüfung:** Apotheker prüft Indikation, Dosierung, Kontraindikation.
 5. **Beratung anbieten:** Bei jedem Versand muss Beratung erreichbar sein — Telefon, Chat, E-Mail; bei Rx Pflicht, bei OTC Angebot. Dokumentation muss revisionsfest sein.
@@ -175,19 +175,19 @@ Eingaben:
 - BGH und EuGH staend. Rspr. (DocMorris, Apothekenpreisbindung, Versandhandelsverbot).
 - **§ 7 HWG** und § 11 HWG zur Werbebeschränkung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Inländische Apotheke:**
-   a. Antrag bei der Landesaufsicht (§ 11a Abs. 1 ApoG).
-   b. Vorlage QM-Handbuch, SOPs Versand, Beratungskonzept, Transportverträge.
-   c. Inspektion durch Aufsicht (möglich).
-   d. Bescheidserteilung, Eintragung im Sicherheitslogo-Register beim BfArM.
+ a. Antrag bei der Landesaufsicht (§ 11a Abs. 1 ApoG).
+ b. Vorlage QM-Handbuch, SOPs Versand, Beratungskonzept, Transportverträge.
+ c. Inspektion durch Aufsicht (möglich).
+ d. Bescheidserteilung, Eintragung im Sicherheitslogo-Register beim BfArM.
 
 2. **EU-Apotheke:**
-   a. Apothekenerlaubnis nach Heimatlandrecht muss bestehen und Versand erlauben.
-   b. Anmeldung beim BfArM zum Sicherheitslogo-Register (DIMDI-Verfahren).
-   c. Anerkennungserklärung; ggf. Vorlage Übersetzungen.
-   d. Eintragung — erst danach legaler Versand nach D.
+ a. Apothekenerlaubnis nach Heimatlandrecht muss bestehen und Versand erlauben.
+ b. Anmeldung beim BfArM zum Sicherheitslogo-Register (DIMDI-Verfahren).
+ c. Anerkennungserklärung; ggf. Vorlage Übersetzungen.
+ d. Eintragung — erst danach legaler Versand nach D.
 
 3. **Sortimentsgrenzen:** BtM und T-Rezept-Arzneimittel sind nicht versandfähig. Bestimmte Kühlware nur mit lückenloser Kühlkette. Apothekenpflichtige Arzneimittel — ja. Apothekenexklusive Waren (z. B. bestimmte Diagnostika) — vom Anwender zu verifizieren.
 

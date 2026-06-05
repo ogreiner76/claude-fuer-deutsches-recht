@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-arbeitsrecht-hinschg
-description: "Nutze dies, wenn Fachanwalt Arbeitsrecht Hinschg Whistleblower Repressalie, Fachanwalt Arbeitsrecht Kuendigungsschutzklage, Fachanwalt Arbeitsrecht Massenentlassung 17 Kschg im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Arbeitsrecht Hinschg Whistleblower Repressalie, Fachanwalt Arbeitsrecht Kuendigungsschutzklage, Fachanwalt Arbeitsrecht Massenentlassung 17 Kschg prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Arbeitsrecht Hinschg Whistleblower Repressalie, Fachanwalt Arbeitsrecht Kuendigungsschutzklage, Fachanwalt Arbeitsrecht Massenentlassung 17 Kschg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Arbeitsrecht Hinschg Whistleblower Repressalie, Fachanwalt Arbeitsrecht Kuendigungsschutzklage, Fachanwalt Arbeitsrecht Massenentlassung 17 Kschg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Arbeitsrecht Hinschg Whistleblower Repressalie, Fachanwalt Arbeitsrecht Kuendigungsschutzklage, Fachanwalt Arbeitsrecht Massenentlassung 17 Kschg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Arbeitsrecht Hinschg Whistleblower Repressalie, Fachanwalt Arbeitsrecht Kuendigungsschutzklage, Fachanwalt Arbeitsrecht Massenentlassung 17 Kschg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` | Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekündigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Prüfraster Hinweisgebertatbestand geschützte Meldung Repressalie-Kausalität Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Ansprüchen Eilantrag bei Kündigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren. |
 | `fachanwalt-arbeitsrecht-kuendigungsschutzklage` | Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
-| `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` | Workflow-Skill zu fachanwalt arbeitsrecht massenentlassung 17 kschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` | Arbeitsmodul zu fachanwalt arbeitsrecht massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -113,7 +113,7 @@ Hinweis: Erstinstanzliche Entscheidungen und Aufsatzliteratur sind nicht bindend
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Bedeutung |
@@ -128,7 +128,7 @@ Hinweis: Erstinstanzliche Entscheidungen und Aufsatzliteratur sind nicht bindend
 | 8 | Schadenshöhe berechnet? | § 37 HinSchG | Materiell + immateriell |
 | 9 | Bußgeld-Meldung an Behörde erwogen? | § 40 HinSchG | Paralleler Druck auf Arbeitgeber |
 
-## Workflow Hinweisgeber-Verteidigung
+## Hinweisgeber-Verteidigung
 
 ### Phase 1 — Klärung HinSchG-Tatbestand
 
@@ -186,7 +186,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Schreibvorlage — Außergerichtlich
 
 ```
-[Kanzlei]                                               [Ort, Datum]
+[Kanzlei] [Ort, Datum]
 
 [Arbeitgeber / Personalleitung]
 [Anschrift]
@@ -212,9 +212,9 @@ fuer die Massnahme liegt nicht vor.
 Ich fordere Sie namens und in Vollmacht meines Mandanten auf:
 
 1. [Kuendigung zurueckzunehmen / Versetzung aufzuheben /
-   Abmahnung aus Personalakte zu entfernen.]
+ Abmahnung aus Personalakte zu entfernen.]
 2. Den entgangenen Verdienst gemaess § 37 Abs. 1 HinSchG
-   bis [Datum] zu zahlen (EUR [Betrag]).
+ bis [Datum] zu zahlen (EUR [Betrag]).
 3. Die bisherige berufliche Stellung wiederherzustellen.
 
 Frist zur Stellungnahme: [Datum + 14 Tage].
@@ -384,7 +384,7 @@ Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema Kündigung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
@@ -428,43 +428,43 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 An das Arbeitsgericht [Ort]
-[Anschrift]                                        [Ort, Datum]
+[Anschrift] [Ort, Datum]
 
 In dem Rechtsstreit
 
 [Name, Anschrift Klagepartei]
-                        — Klagepartei —
+ — Klagepartei —
 Prozessbevollmächtigte: [Kanzlei]
 
 gegen
 
 [Name, Anschrift Beklagte]
-                        — Beklagte —
+ — Beklagte —
 
 wegen Kündigungsschutz
 
 erheben wir namens und in Vollmacht der Klagepartei
 
-                    Kündigungsschutzklage
+ Kündigungsschutzklage
 
 und beantragen:
 
 1. Es wird festgestellt, dass das Arbeitsverhältnis durch
-   die Kündigung vom [Datum], zugestellt am [Datum],
-   nicht aufgelöst worden ist.
+ die Kündigung vom [Datum], zugestellt am [Datum],
+ nicht aufgelöst worden ist.
 
 2. Die Beklagte wird verurteilt, die Klagepartei zu
-   unveränderten Bedingungen als [Tätigkeit] weiterzu-
-   beschäftigen, hilfsweise bis zur rechtskräftigen
-   Entscheidung.
-   [ggf. Antrag 2 weglassen wenn Mandant Aufhebung statt
-   Weiterbeschäftigung wünscht]
+ unveränderten Bedingungen als [Tätigkeit] weiterzu-
+ beschäftigen, hilfsweise bis zur rechtskräftigen
+ Entscheidung.
+ [ggf. Antrag 2 weglassen wenn Mandant Aufhebung statt
+ Weiterbeschäftigung wünscht]
 
 3. Hilfsweise wird das Arbeitsverhältnis nach § 9 KSchG
-   gegen Zahlung einer Abfindung aufgelöst, deren Höhe
-   in das gerichtliche Ermessen gestellt wird.
-   [Hilfsantrag § 9 KSchG entfällt wenn Mandant ausdrücklich
-   Weiterbeschäftigung will]
+ gegen Zahlung einer Abfindung aufgelöst, deren Höhe
+ in das gerichtliche Ermessen gestellt wird.
+ [Hilfsantrag § 9 KSchG entfällt wenn Mandant ausdrücklich
+ Weiterbeschäftigung will]
 
 4. Die Kosten trägt die Beklagte.
 
@@ -558,7 +558,7 @@ rechtlichen Möglichkeiten konsequent ausgeschöpft.
 
 ## 3. `fachanwalt-arbeitsrecht-massenentlassung-17-kschg`
 
-**Fokus:** Workflow-Skill zu fachanwalt arbeitsrecht massenentlassung 17 kschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt arbeitsrecht massenentlassung 17 kschg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Massenentlassung § 17 KSchG
 
@@ -720,7 +720,7 @@ Anlagen:
 
 ## Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
  Arbeitgeber-Strategie
 
 ### Phase 1 — Planung (4-6 Wochen vor erstem Kuendigungsausspruch)
@@ -754,7 +754,7 @@ Anlagen:
 15. Sozialplan-Umsetzung: Abfindungen, Outplacement, Transfergesellschaft
 16. Kuendigungsschutz-Klagen AN beobachten: ggf. Sammelvergleich anstreben
 
-## Workflow Arbeitnehmer-Strategie bei Massenentlassung
+## Arbeitnehmer-Strategie bei Massenentlassung
 
 ### Schritt 1 — Frist sichern
 
@@ -773,11 +773,11 @@ Anlagen:
 Klageantrag:
 
 1. Es wird festgestellt, dass das Arbeitsverhaeltnis durch die
-   Kuendigung vom [Datum] nicht aufgeloest worden ist.
+ Kuendigung vom [Datum] nicht aufgeloest worden ist.
 
 Begruendung (kumulativ):
 a) Verletzung § 17 KSchG: Anzeige bei BA fehlerhaft oder
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 b) BR-Anhoerung nach § 102 BetrVG mangelhaft;
 c) Soziale Rechtfertigung fehlt nach § 1 II KSchG.
 ```
@@ -859,16 +859,16 @@ Ihre Kuendigung vom [Datum] koennte aus folgenden Gruenden
 unwirksam sein:
 
 1. Massenentlassung ohne ordnungsgemaesse Anzeige:
-   Ihr Arbeitgeber muss eine Anzeige bei der Bundesagentur
-   fuer Arbeit erstatten, bevor Kuendigungen ausgesprochen
-   werden duerfen. Ein Verstoss hiergegen macht alle
-   Kuendigungen unwirksam.
+ Ihr Arbeitgeber muss eine Anzeige bei der Bundesagentur
+ fuer Arbeit erstatten, bevor Kuendigungen ausgesprochen
+ werden duerfen. Ein Verstoss hiergegen macht alle
+ Kuendigungen unwirksam.
 
 2. Fehler im Betriebsrats-Konsultationsverfahren:
-   [Wenn BR vorhanden: Details einfuegen]
+ [Wenn BR vorhanden: Details einfuegen]
 
 3. Fehlende Betriebsrats-Anhoerung:
-   Vor jeder Kuendigung muss der BR einzeln angehoert werden.
+ Vor jeder Kuendigung muss der BR einzeln angehoert werden.
 
 Klagefrist: Die Kuendigungsschutzklage muss bis zum
 [DATUM — 3 Wochen ab Zugang] eingereicht werden.

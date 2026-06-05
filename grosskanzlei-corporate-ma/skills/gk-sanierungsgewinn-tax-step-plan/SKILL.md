@@ -45,7 +45,7 @@ Nicht dieser Skill, sondern `grosskanzlei-corporate-ma-steps-plan-pmo` ist prim�
 - **§ 42 AO** – Missbrauch von Gestaltungsmöglichkeiten; relevant bei Reihenfolge-Optimierung.
 - **§ 89 AO** – verbindliche Auskunft.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Schritt 0 – Ist-Aufnahme (Tax Position vor Restrukturierung):**
 
@@ -55,9 +55,9 @@ Nicht dieser Skill, sondern `grosskanzlei-corporate-ma-steps-plan-pmo` ist prim�
 
 2. Wann tritt der Sanierungsertrag ein? Was wird vor, was nach dem Sanierungsertrag wirksam?
 3. Frage: Anteilseignerwechsel vor oder nach Forderungsverzicht?
-   - Vor: § 8c KStG zerstört Verlustvorträge; § 3a Abs. 3 EStG verbraucht nichts mehr; Sanierungsertrag voll besteuert.
-   - Nach: § 3a Abs. 3 EStG verbraucht Verlustvorträge; § 8c KStG-Effekt trifft den Rest-Verlustvortrag, der schon klein ist.
-   - Praxis: Forderungsverzicht **vor** Anteilseignerwechsel.
+ - Vor: § 8c KStG zerstört Verlustvorträge; § 3a Abs. 3 EStG verbraucht nichts mehr; Sanierungsertrag voll besteuert.
+ - Nach: § 3a Abs. 3 EStG verbraucht Verlustvorträge; § 8c KStG-Effekt trifft den Rest-Verlustvortrag, der schon klein ist.
+ - Praxis: Forderungsverzicht **vor** Anteilseignerwechsel.
 
 **Schritt 2 – Schutzmaßnahmen einbauen:**
 
@@ -129,10 +129,10 @@ In einem Tax Step Plan einer Großkanzlei sieht ein Senior Counsel auf drei Feld
 - Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung Tax Step Plan.
 - Plugin `insolvenzrecht`: Reihenfolge im Insolvenzplan.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-steps-plan-pmo`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+ - `grosskanzlei-corporate-ma-steps-plan-pmo`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
 
 ## Quellen Stand 06/2026
 

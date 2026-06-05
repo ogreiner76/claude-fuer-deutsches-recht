@@ -48,9 +48,9 @@ Stellplatzfragen sind ein Hauptkampffeld bei Innenstadt-Verdichtungen. Reduziert
 ### Verbindlichkeit
 - Mobilitätskonzept muss in textlichen Festsetzungen abgesichert sein, sonst leeres Versprechen
 - Häufige Treffer:
-  - Konzept nicht in Festsetzungen übernommen
-  - Konzept verweist nur auf "Bemühungen"
-  - Vermieter-/Bauträger-Konzepte ohne rechtliche Bindung
+ - Konzept nicht in Festsetzungen übernommen
+ - Konzept verweist nur auf "Bemühungen"
+ - Vermieter-/Bauträger-Konzepte ohne rechtliche Bindung
 
 ## Schritt 4 — Verkehrsmodellierung
 

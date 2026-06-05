@@ -1,34 +1,34 @@
 ---
 name: rechtsabteilung-gesellschafterliste
-description: "Nutze dies, wenn Rechtsabteilung Gesellschafterliste Und Registerstreit, Rechtsabteilung Kapitalerhoehung Mit Bezugsrechtsausschluss, Rechtsabteilung Stimmbindung Und Beschlussmangel Nach Hannover 9, Schriftliche Beschlussfassung, Spezial Anmeldungen Verhandlung Vergleich Und Eskalation im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Gesellschafterliste Und Registerstreit, Rechtsabteilung Kapitalerhoehung Mit Bezugsrechtsausschluss, Rechtsabteilung Stimmbindung Und Beschlussmangel Nach Hannover 9, Schriftliche Beschlussfassung, Spezial Anmeldungen Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Gesellschafterliste Und Registerstreit, Rechtsabteilung Kapitalerhoehung Mit Bezugsrechtsausschluss, Rechtsabteilung Stimmbindung Und Beschlussmangel Nach Hannover 9, Schriftliche Beschlussfassung, Spezial Anmeldungen Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Gesellschafterliste Und Registerstreit, Rechtsabteilung Kapitalerhoehung Mit Bezugsrechtsausschluss, Rechtsabteilung Stimmbindung Und Beschlussmangel Nach Hannover 9, Schriftliche Beschlussfassung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Rechtsabteilung Gesellschafterliste Und Registerstreit, Rechtsabteilung Kapitalerhoehung Mit Bezugsrechtsausschluss, Rechtsabteilung Stimmbindung Und Beschlussmangel Nach Hannover 9, Schriftliche Beschlussfassung, Spezial Anmeldungen Verhandlung Vergleich Und Eskalation
+# Rechtsabteilung Gesellschafterliste Und Registerstreit, Rechtsabteilung Kapitalerhoehung Mit Bezugsrechtsausschluss, Rechtsabteilung Stimmbindung Und Beschlussmangel Nach Hannover 9, Schriftliche Beschlussfassung, Anmeldungen Verhandlung Vergleich Und Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Gesellschafterliste Und Registerstreit, Rechtsabteilung Kapitalerhoehung Mit Bezugsrechtsausschluss, Rechtsabteilung Stimmbindung Und Beschlussmangel Nach Hannover 9, Schriftliche Beschlussfassung, Anmeldungen Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-gesellschafterliste-und-registerstreit` | Rechtsabteilungs-Spezialskill für Gesellschafterliste und Registerstreit: Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-kapitalerhoehung-mit-bezugsrechtsausschluss` | Rechtsabteilungs-Spezialskill für Kapitalerhöhung mit Bezugsrechtsausschluss: Minderheitenschutz, Verwässerung, Bewertungsunterlagen und Eilrechtsschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9` | Rechtsabteilungs-Spezialskill für Stimmbindung und Beschlussmangel nach Hannover-96-Linie: Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-gesellschafterliste-und-registerstreit` | Rechtsabteilungs-Fachmodul für Gesellschafterliste und Registerstreit: Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-kapitalerhoehung-mit-bezugsrechtsausschluss` | Rechtsabteilungs-Fachmodul für Kapitalerhöhung mit Bezugsrechtsausschluss: Minderheitenschutz, Verwässerung, Bewertungsunterlagen und Eilrechtsschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9` | Rechtsabteilungs-Fachmodul für Stimmbindung und Beschlussmangel nach Hannover-96-Linie: Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `schriftliche-beschlussfassung` | Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und notariell beurkundet werden (§ 130 AktG); Umlaufverfahren bei AG nur für Aufsichtsrat (§ 108 Abs. 4 AktG) und Vorstand (§ 77 AktG). Behandelt Stimmverbote (§ 47 Abs. 4 GmbHG), Mehrheitserfordernisse und Unterzeichner-Tracking. Lädt bei "Umlaufbeschluss", "schriftlicher Beschluss", "Gesellschafterbeschluss" oder Beschreibung einer zustimmungspflichtigen Maßnahme ohne Versammlung. |
-| `spezial-anmeldungen-verhandlung-vergleich-und-eskalation` | Anmeldungen: Verhandlung, Vergleich und Eskalation im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-anmeldungen-verhandlung-vergleich-und-eskalation` | Anmeldungen: Verhandlung, Vergleich und Eskalation im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Gesellschafterliste Und Registerstreit, Rechtsabteilung Kapitalerhoehung Mit Bezugsrechtsausschluss, Rechtsabteilung Stimmbindung Und Beschlussmangel Nach Hannover 9, Schriftliche Beschlussfassung, Spezial Anmeldungen Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Gesellschafterliste Und Registerstreit, Rechtsabteilung Kapitalerhoehung Mit Bezugsrechtsausschluss, Rechtsabteilung Stimmbindung Und Beschlussmangel Nach Hannover 9, Schriftliche Beschlussfassung, Anmeldungen Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-gesellschafterliste-und-registerstreit`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Gesellschafterliste und Registerstreit: Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Gesellschafterliste und Registerstreit: Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Gesellschafterliste und Registerstreit
 
@@ -84,7 +84,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-kapitalerhoehung-mit-bezugsrechtsausschluss`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Kapitalerhöhung mit Bezugsrechtsausschluss: Minderheitenschutz, Verwässerung, Bewertungsunterlagen und Eilrechtsschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Kapitalerhöhung mit Bezugsrechtsausschluss: Minderheitenschutz, Verwässerung, Bewertungsunterlagen und Eilrechtsschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kapitalerhöhung mit Bezugsrechtsausschluss
 
@@ -140,7 +140,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Stimmbindung und Beschlussmangel nach Hannover-96-Linie: Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Stimmbindung und Beschlussmangel nach Hannover-96-Linie: Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie
 
@@ -313,7 +313,7 @@ Dieser Beschluss wird wirksam mit Eingang der Zustimmungserklärungen aller
 Gesellschafter [oder der satzungsmäßig erforderlichen Mehrheit].
 
 _______________________________
-[Gesellschaftername]  |  [Anteil %]  |  Datum: _______________
+[Gesellschaftername] | [Anteil %] | Datum: _______________
 [Für jeden weiteren Gesellschafter wiederholen]
 ```
 
@@ -419,7 +419,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 5. `spezial-anmeldungen-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Anmeldungen: Verhandlung, Vergleich und Eskalation im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Anmeldungen: Verhandlung, Vergleich und Eskalation im Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Anmeldungen: Verhandlung, Vergleich und Eskalation
 
@@ -433,7 +433,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 
 ## Spezialwissen: Anmeldungen: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Anmeldungen: Verhandlung, Vergleich und Eskalation / spezial anmeldungen verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Anmeldungen: Verhandlung, Vergleich und Eskalation / anmeldungen verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG, HRB, HRA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

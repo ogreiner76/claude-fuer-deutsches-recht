@@ -1,12 +1,12 @@
 ---
 name: betreuungsrechtliche
-description: "Nutze dies, wenn Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel / spezial betreuungsrechtliche erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel / betreuungsrechtliche erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB, BtO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

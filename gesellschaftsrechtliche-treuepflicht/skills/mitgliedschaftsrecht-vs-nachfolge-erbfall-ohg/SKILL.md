@@ -1,22 +1,22 @@
 ---
 name: mitgliedschaftsrecht-vs-nachfolge-erbfall-ohg
-description: "Nutze dies, wenn Mitgliedschaftsrecht Vs Sonderrecht, Nachfolge Und Erbfall, Ohg Kg Gesellschafter, Olg Boykott Beschlussfaehigkeit im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Mitgliedschaftsrecht Vs Sonderrecht, Nachfolge Und Erbfall, Ohg Kg Gesellschafter, Olg Boykott Beschlussfaehigkeit prüfen.; Erstelle eine Arbeitsfassung zu Mitgliedschaftsrecht Vs Sonderrecht, Nachfolge Und Erbfall, Ohg Kg Gesellschafter, Olg Boykott Beschlussfaehigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mitgliedschaftsrecht Vs Sonderrecht, Nachfolge Und Erbfall, Ohg Kg Gesellschafter, Olg Boykott Beschlussfaehigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mitgliedschaftsrecht Vs Sonderrecht, Nachfolge Und Erbfall, Ohg Kg Gesellschafter, Olg Boykott Beschlussfaehigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mitgliedschaftsrecht Vs Sonderrecht, Nachfolge Und Erbfall, Ohg Kg Gesellschafter, Olg Boykott Beschlussfaehigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `mitgliedschaftsrecht-vs-sonderrecht` | Gesellschaftsrechtliche Treuepflicht: Mitgliedschaftsrecht Vs Sonderrecht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nachfolge-und-erbfall` | Gesellschaftsrechtliche Treuepflicht: Nachfolge Und Erbfall; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `ohg-kg-gesellschafter` | Gesellschaftsrechtliche Treuepflicht: Ohg Kg Gesellschafter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `olg-boykott-beschlussfaehigkeit` | Gesellschaftsrechtliche Treuepflicht: Olg Boykott Beschlussfaehigkeit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `mitgliedschaftsrecht-vs-sonderrecht` | Gesellschaftsrechtliche Treuepflicht: Mitgliedschaftsrecht Vs Sonderrecht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nachfolge-und-erbfall` | Gesellschaftsrechtliche Treuepflicht: Nachfolge Und Erbfall; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ohg-kg-gesellschafter` | Gesellschaftsrechtliche Treuepflicht: Ohg Kg Gesellschafter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `olg-boykott-beschlussfaehigkeit` | Gesellschaftsrechtliche Treuepflicht: Olg Boykott Beschlussfaehigkeit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Mitgliedschaftsrecht Vs Sonderrecht, Nachfolge Und Erbfall, Ohg Kg Gesell
 
 ## 1. `mitgliedschaftsrecht-vs-sonderrecht`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Mitgliedschaftsrecht Vs Sonderrecht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Mitgliedschaftsrecht Vs Sonderrecht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Mitgliedschaftsrecht Vs Sonderrecht
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `nachfolge-und-erbfall`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Nachfolge Und Erbfall; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Nachfolge Und Erbfall; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Nachfolge Und Erbfall
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `ohg-kg-gesellschafter`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Ohg Kg Gesellschafter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Ohg Kg Gesellschafter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Ohg Kg Gesellschafter
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `olg-boykott-beschlussfaehigkeit`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Olg Boykott Beschlussfaehigkeit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Olg Boykott Beschlussfaehigkeit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Olg Boykott Beschlussfaehigkeit
 

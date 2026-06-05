@@ -1,13 +1,13 @@
 ---
 name: pflegebudget-vereinbarung
-description: "Nutze dies, wenn Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbescheid Rechtsbehelf Und Eilrechtsschutz, Privatisierung Betriebsuebergang Traegerwechsel im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbescheid Rechtsbehelf Und Eilrechtsschutz, Privatisierung Betriebsuebergang Traegerwechsel prüfen.; Erstelle eine Arbeitsfassung zu Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbescheid Rechtsbehelf Und Eilrechtsschutz, Privatisierung Betriebsuebergang Traegerwechsel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbescheid Rechtsbehelf Und Eilrechtsschutz, Privatisierung Betriebsuebergang Traegerwechsel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbescheid Rechtsbehelf Und Eilrechtsschutz, Privatisierung Betriebsuebergang Traegerwechsel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pflegebudget Vereinbarung Nachweis Risiken, Planfeststellungsbescheid Rechtsbehelf Und Eilrechtsschutz, Privatisierung Betriebsuebergang Traegerwechsel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,7 +55,7 @@ Das Pflegebudget ist seit 2020 aus den DRG ausgegliedert (frueher § 6a KHEntgG,
 - **InEK-Datenlieferung** Pflegepersonalkostennachweis.
 - **KHG § 18a** Schiedsstelle bei Dissens.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Pflegepersonalkostennachweis (PpUKN) erstellen:** Beruecksichtigte Berufsgruppen, Tarifgruppen, Kosten je Vollkraft.
 2. **Bereinigung:** Was zaehlt zum Pflegebudget (bettenbezogene Pflege), was nicht (OP-Pflege, Intensivpflege je nach Vorgabe).
 3. **Pflegeentgeltwert berechnen:** Pflegebudget / Pflegetage (DRG-Pflegetage als Verteilungsbasis).

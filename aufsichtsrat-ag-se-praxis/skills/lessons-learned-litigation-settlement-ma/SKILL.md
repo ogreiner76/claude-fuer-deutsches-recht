@@ -1,22 +1,22 @@
 ---
 name: lessons-learned-litigation-settlement-ma
-description: "Nutze dies, wenn Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback prüfen.; Erstelle eine Arbeitsfassung zu Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus Clawback** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `lessons-learned` | AG/SE-Aufsichtsrat Praxis: Lessons Learned; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `litigation-settlement` | AG/SE-Aufsichtsrat Praxis: Litigation Settlement; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `ma-transaktion-board-paper` | AG/SE-Aufsichtsrat Praxis: M&A Transaktion Board Paper; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `malus-clawback` | AG/SE-Aufsichtsrat Praxis: Malus Clawback; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `lessons-learned` | AG/SE-Aufsichtsrat Praxis: Lessons Learned; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `litigation-settlement` | AG/SE-Aufsichtsrat Praxis: Litigation Settlement; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ma-transaktion-board-paper` | AG/SE-Aufsichtsrat Praxis: M&A Transaktion Board Paper; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `malus-clawback` | AG/SE-Aufsichtsrat Praxis: Malus Clawback; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Lessons Learned, Litigation Settlement, Ma Transaktion Board Paper, Malus
 
 ## 1. `lessons-learned`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Lessons Learned; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Lessons Learned; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Lessons Learned
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `litigation-settlement`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Litigation Settlement; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Litigation Settlement; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Litigation Settlement
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `ma-transaktion-board-paper`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: M&A Transaktion Board Paper; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: M&A Transaktion Board Paper; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # M&A Transaktion Board Paper
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `malus-clawback`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Malus Clawback; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Malus Clawback; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Malus Clawback
 

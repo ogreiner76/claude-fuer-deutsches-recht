@@ -1,22 +1,22 @@
 ---
 name: sanierungsbeitrag-sanierungsbeschluss-satzung
-description: "Nutze dies, wenn Sanierungsbeitrag, Sanierungsbeschluss, Satzung Und Stimmbindung, Se Schnittstellen im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Sanierungsbeitrag, Sanierungsbeschluss, Satzung Und Stimmbindung, Se Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Sanierungsbeitrag, Sanierungsbeschluss, Satzung Und Stimmbindung, Se Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sanierungsbeitrag, Sanierungsbeschluss, Satzung Und Stimmbindung, Se Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sanierungsbeitrag, Sanierungsbeschluss, Satzung Und Stimmbindung, Se Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sanierungsbeitrag, Sanierungsbeschluss, Satzung Und Stimmbindung, Se Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `sanierungsbeitrag` | Gesellschaftsrechtliche Treuepflicht: Sanierungsbeitrag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `sanierungsbeschluss` | Gesellschaftsrechtliche Treuepflicht: Sanierungsbeschluss; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `satzung-und-stimmbindung` | Gesellschaftsrechtliche Treuepflicht: Satzung Und Stimmbindung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `se-schnittstellen` | Gesellschaftsrechtliche Treuepflicht: SE Schnittstellen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `sanierungsbeitrag` | Gesellschaftsrechtliche Treuepflicht: Sanierungsbeitrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `sanierungsbeschluss` | Gesellschaftsrechtliche Treuepflicht: Sanierungsbeschluss; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `satzung-und-stimmbindung` | Gesellschaftsrechtliche Treuepflicht: Satzung Und Stimmbindung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `se-schnittstellen` | Gesellschaftsrechtliche Treuepflicht: SE Schnittstellen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Sanierungsbeitrag, Sanierungsbeschluss, Satzung Und Stimmbindung, Se Schn
 
 ## 1. `sanierungsbeitrag`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Sanierungsbeitrag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Sanierungsbeitrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Sanierungsbeitrag
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `sanierungsbeschluss`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Sanierungsbeschluss; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Sanierungsbeschluss; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Sanierungsbeschluss
 
@@ -162,7 +162,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `satzung-und-stimmbindung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Satzung Und Stimmbindung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Satzung Und Stimmbindung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Satzung Und Stimmbindung
 
@@ -228,7 +228,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `se-schnittstellen`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: SE Schnittstellen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: SE Schnittstellen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # SE Schnittstellen
 

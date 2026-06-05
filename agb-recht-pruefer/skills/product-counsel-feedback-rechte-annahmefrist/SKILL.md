@@ -1,20 +1,20 @@
 ---
 name: product-counsel-feedback-rechte-annahmefrist
-description: "Nutze dies, wenn Product Counsel Workflow, Feedback Rechte, Annahmefrist Leistungsfrist 308, Kuendigungsfiktion Und Nachfrist 308 im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Product Counsel Workflow, Feedback Rechte, Annahmefrist Leistungsfrist 308, Kuendigungsfiktion Und Nachfrist 308 prüfen.; Erstelle eine Arbeitsfassung zu Product Counsel Workflow, Feedback Rechte, Annahmefrist Leistungsfrist 308, Kuendigungsfiktion Und Nachfrist 308.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Product Counsel Workflow, Feedback Rechte, Annahmefrist Leistungsfrist 308, Kuendigungsfiktion Und Nachfrist 308: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Product Counsel Workflow, Feedback Rechte, Annahmefrist Leistungsfrist 308, Kuendigungsfiktion Und Nachfrist 308
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `product-counsel-workflow` | Output- und Streit-Skill für Product Counsel Workflow: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `feedback-rechte` | Klausel-Spezialskill für Feedback Rechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `feedback-rechte` | Klausel-Fachmodul für Feedback Rechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `annahmefrist-leistungsfrist-308` | Norm- und Dogmatik-Skill für Annahmefrist Leistungsfrist 308: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `kuendigungsfiktion-und-nachfrist-308` | Norm- und Dogmatik-Skill für Kündigungsfiktion und Nachfrist 308: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 
@@ -53,7 +53,7 @@ Für **Product Counsel Workflow, Feedback Rechte, Annahmefrist Leistungsfrist 30
 2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Product Counsel Workflow besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
+5. **Spezialfokus:** Bei Product Counsel besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `feedback-rechte`
 
-**Fokus:** Klausel-Spezialskill für Feedback Rechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Feedback Rechte: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 
 # Feedback Rechte

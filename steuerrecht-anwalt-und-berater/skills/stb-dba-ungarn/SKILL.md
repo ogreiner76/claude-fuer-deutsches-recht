@@ -140,12 +140,12 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, niedrige HU-KSt 9 Prozent, CFC-Pruefung, Pillar Two.
 3. **Kurzantwort**: DBA-Ungarn 2011 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-HU 2011).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
-   - Methodenartikel (Art. 22 — Anrechnung).
-   - § 7 ff. AStG-CFC bei passiven Einkuenften und 9 Prozent HU-KSt.
-   - Pillar Two (Top-Up bei Konzern ueber 750 Mio EUR Umsatz).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-HU 2011).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+ - Methodenartikel (Art. 22 — Anrechnung).
+ - § 7 ff. AStG-CFC bei passiven Einkuenften und 9 Prozent HU-KSt.
+ - Pillar Two (Top-Up bei Konzern ueber 750 Mio EUR Umsatz).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: § 50d Abs. 3 EStG-Substanztest, CFC, Pillar Two, Sozialversicherungs-Sondersteuern, MLI als Covered Tax Agreement.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

@@ -1,13 +1,13 @@
 ---
 name: mandantenkommunikation-redteam
-description: "Nutze dies, wenn Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Insolvenzantragspflicht Paragraph 15A Inso Und Drei Wochen Frist im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Insolvenzantragspflicht Paragraph 15a Inso Und Drei Wochen Frist: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Insolvenzantragspflicht Paragraph 15A Inso Und Drei Wochen Frist
+# Mandantenkommunikation, Redteam Qualitygate, Insolvenzantragspflicht Paragraph 15A Inso Und Drei Wochen Frist
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenkommunikation, Redteam Qualitygate, Insolvenzantragspflicht Paragraph 15A Inso Und Drei Wochen Frist** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Insolvenzantragspflicht Paragraph 15A Inso Und Drei Wochen Frist** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenkommunikation, Redteam Qualitygate, Insolvenzantragspflicht Paragraph 15A Inso Und Drei Wochen Frist** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,10 +31,10 @@ Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Insolvenza
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `krisenfrueherkennung-starug` Mandantenkommunikation im Plugin krisenfrueherkennung-starug: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Mandantenkommunikation im Plugin krisenfrueherkennung-starug: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -44,7 +44,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -74,10 +74,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `krisenfrueherkennung-starug` Red-Team Qualitygate im Plugin krisenfrueherkennung-starug: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin krisenfrueherkennung-starug: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -87,7 +87,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -166,8 +166,8 @@ Drei-Wochen-Frist nach § 15a Abs. 1 S. 1 InsO bei Zahlungsunfähigkeit (§ 17 I
 
 **Berechnung:**
 ```
-Tag 0:  Kenntnis des Insolvenzgrundes (Datum + Uhrzeit protokollieren!)
-Tag 1:  Beginn der Drei-Wochen-Frist
+Tag 0: Kenntnis des Insolvenzgrundes (Datum + Uhrzeit protokollieren!)
+Tag 1: Beginn der Drei-Wochen-Frist
 Tag 21: Ablauf der Frist — Antragstellung muss erfolgt sein
 
 Achtung: Drei Wochen = 21 Tage, nicht drei Kalenderwochen mit flexiblem Ende.
@@ -229,18 +229,18 @@ PROTOKOLL — ERKENNTNIS INSOLVENZREIFE
 
 Gesellschaft: [Firma GmbH]
 Datum und Uhrzeit der Erkenntnis: [TT.MM.JJJJ, HH:MM Uhr]
-Art des Insolvenzgrundes: [ ] § 17 InsO  [ ] § 19 InsO  [ ] beide
+Art des Insolvenzgrundes: [ ] § 17 InsO [ ] § 19 InsO [ ] beide
 Grundlage der Erkenntnis:
-  [ ] Eigene Analyse der Liquiditätsplanung
-  [ ] Beratereinschätzung von [fiktive Kanzlei], [Datum]
-  [ ] Ergebnis IDW S 11-Gutachten
+ [ ] Eigene Analyse der Liquiditätsplanung
+ [ ] Beratereinschätzung von [fiktive Kanzlei], [Datum]
+ [ ] Ergebnis IDW S 11-Gutachten
 
 Fristablauf (21 Tage): [TT.MM.JJJJ]
 
 Sofortmaßnahmen eingeleitet:
-  [ ] Insolvenzrechtsberater beauftragt am [Datum]
-  [ ] Sanierungsverhandlungen begonnen am [Datum]
-  [ ] Insolvenzantrag beim AG [Ort] gestellt am [Datum]
+ [ ] Insolvenzrechtsberater beauftragt am [Datum]
+ [ ] Sanierungsverhandlungen begonnen am [Datum]
+ [ ] Insolvenzantrag beim AG [Ort] gestellt am [Datum]
 
 Unterschrift GF: ___________________
 ```
@@ -267,25 +267,25 @@ Gesellschaft: [Firma GmbH]
 Zuständiges AG: [Insolvenzgericht — i.d.R. am Sitz der Hauptniederlassung]
 
 DOKUMENTE FÜR DEN ANTRAG:
-  [ ] Aktueller Jahresabschluss (letzter testierter)
-  [ ] Aktuelle BWA mit Kommentar
-  [ ] Liquiditätsplan (kurzfristig, 13 Wochen)
-  [ ] Gläubigerliste mit Forderungshöhen
-  [ ] Handelsregisterauszug (nicht älter als drei Monate)
-  [ ] Gesellschafterliste
-  [ ] IDW S 11-Gutachten (sofern vorhanden)
+ [ ] Aktueller Jahresabschluss (letzter testierter)
+ [ ] Aktuelle BWA mit Kommentar
+ [ ] Liquiditätsplan (kurzfristig, 13 Wochen)
+ [ ] Gläubigerliste mit Forderungshöhen
+ [ ] Handelsregisterauszug (nicht älter als drei Monate)
+ [ ] Gesellschafterliste
+ [ ] IDW S 11-Gutachten (sofern vorhanden)
 
 INFORMATIONEN ZUM ANTRAG:
-  [ ] Insolvenzgrund benennen (§ 17 / § 18 / § 19 InsO)
-  [ ] Antragsberechtigung nachweisen (GF-Bestellungsurkunde)
-  [ ] Insolvenzmasse schätzen (Aktiva, verwertbar)
-  [ ] Verfahrenskosten vorfinanzieren oder glaubhaft machen
+ [ ] Insolvenzgrund benennen (§ 17 / § 18 / § 19 InsO)
+ [ ] Antragsberechtigung nachweisen (GF-Bestellungsurkunde)
+ [ ] Insolvenzmasse schätzen (Aktiva, verwertbar)
+ [ ] Verfahrenskosten vorfinanzieren oder glaubhaft machen
 
 NACH ANTRAGSTELLUNG:
-  [ ] Mitarbeiter informieren
-  [ ] Banken benachrichtigen
-  [ ] Wichtige Vertragspartner informieren
-  [ ] Buchhaltung sichern
+ [ ] Mitarbeiter informieren
+ [ ] Banken benachrichtigen
+ [ ] Wichtige Vertragspartner informieren
+ [ ] Buchhaltung sichern
 ```
 
 ---

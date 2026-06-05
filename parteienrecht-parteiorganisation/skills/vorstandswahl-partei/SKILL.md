@@ -8,7 +8,7 @@ description: "Bereitet Vorstandswahl nach Satzung und PartG vor, inklusive Annah
 ## Aufgabe
 Bereitet Vorstandswahl nach Satzung und PartG vor, inklusive Annahme, Protokoll, Amtszeit und Übergabe.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

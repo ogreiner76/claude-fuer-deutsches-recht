@@ -188,17 +188,17 @@ hiermit informieren wir Sie gemass § 613a Abs. 5 BGB ueber den Uebergang Ihres 
 2. GRUND DES UEBERGANGS: Erwerb der [FIRMA] durch [KAEUFER] gemaess Share Purchase Agreement vom [DATUM].
 
 3. RECHTLICHE, WIRTSCHAFTLICHE UND SOZIALE FOLGEN:
-   - Ihr Arbeitsverhaeltnis geht mit allen Rechten und Pflichten auf [KAEUFER/NEUE GESELLSCHAFT] ueber.
-   - Ihr Gehalt, Ihre Taetigkeit und Ihre Arbeitsbedingungen bleiben unveraendert.
-   - Bestehende Betriebsvereinbarungen gelten fuer ein Jahr fort (§ 613a I 2 BGB), sofern keine abweichende Regelung getroffen wird.
+ - Ihr Arbeitsverhaeltnis geht mit allen Rechten und Pflichten auf [KAEUFER/NEUE GESELLSCHAFT] ueber.
+ - Ihr Gehalt, Ihre Taetigkeit und Ihre Arbeitsbedingungen bleiben unveraendert.
+ - Bestehende Betriebsvereinbarungen gelten fuer ein Jahr fort (§ 613a I 2 BGB), sofern keine abweichende Regelung getroffen wird.
 
 4. GEPLANTE MASSNAHMEN: [Kurzbeschreibung der Integrationsplane, soweit bekannt]
 
 5. WIDERSPRUCHSRECHT: Sie koennen dem Uebergang Ihres Arbeitsverhaeltnisses widersprechen.
-   - Frist: 1 Monat ab Zugang dieses Schreibens.
-   - Adressat: [Alte Gesellschaft] und/oder [Neue Gesellschaft]
-   - Folge des Widerspruchs: Ihr Arbeitsverhaeltnis verbleibt bei [Alte Gesellschaft];
-     jedoch koennte eine betriebsbedingte Kuendigung folgen.
+ - Frist: 1 Monat ab Zugang dieses Schreibens.
+ - Adressat: [Alte Gesellschaft] und/oder [Neue Gesellschaft]
+ - Folge des Widerspruchs: Ihr Arbeitsverhaeltnis verbleibt bei [Alte Gesellschaft];
+ jedoch koennte eine betriebsbedingte Kuendigung folgen.
 
 Mit freundlichen Gruessen
 [FIRMA]

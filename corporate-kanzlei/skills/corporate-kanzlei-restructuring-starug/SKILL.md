@@ -51,7 +51,7 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -170,11 +170,11 @@ Zur Begründung wird ausgeführt:
 planbetroffenen Gläubigern gemäß § 17 StaRUG zugeleitet.
 
 2. Die Abstimmung hat folgendes Ergebnis ergeben:
-   Klasse 1 (Banken): [X] % Zustimmung — Mehrheit erreicht
-   Klasse 2 (Anleihegläubiger): [X] % Zustimmung — Mehrheit erreicht
-   [ggf.] Klasse 3 (Nachrangige): Mehrheit verfehlt — Obstruktionsverbot gemäß
-   § 26 StaRUG beantragt (Nichtschlechterstellung nachgewiesen durch Vergleichsrechnung
-   Anlage [X]).
+ Klasse 1 (Banken): [X] % Zustimmung — Mehrheit erreicht
+ Klasse 2 (Anleihegläubiger): [X] % Zustimmung — Mehrheit erreicht
+ [ggf.] Klasse 3 (Nachrangige): Mehrheit verfehlt — Obstruktionsverbot gemäß
+ § 26 StaRUG beantragt (Nichtschlechterstellung nachgewiesen durch Vergleichsrechnung
+ Anlage [X]).
 
 3. Versagungsgründe nach § 63 StaRUG liegen nicht vor.
 

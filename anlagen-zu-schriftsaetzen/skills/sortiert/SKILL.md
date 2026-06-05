@@ -1,6 +1,6 @@
 ---
 name: sortiert
-description: "Nutze dies, wenn Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien prüfen.; Erstelle eine Arbeitsfassung zu Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien

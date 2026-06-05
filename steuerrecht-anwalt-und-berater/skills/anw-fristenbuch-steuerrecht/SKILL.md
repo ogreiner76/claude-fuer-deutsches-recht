@@ -32,17 +32,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```yaml
 - mandat-az: ST-2026-0042
-  mandant: Mueller GmbH
-  vorgang: USt-Bescheid 2024 vom 12.03.2026
-  fristart: einspruchsfrist
-  rechtsgrundlage: "§ 355 Abs. 1 AO"
-  fristbeginn: 2026-03-15
-  hauptfrist: 2026-04-15
-  vorfrist-tage: 5
-  vorfrist: 2026-04-10
-  zustaendig: RA Mueller
-  status: offen
-  bemerkung: AdV-Antrag separat einreichen
+ mandant: Mueller GmbH
+ vorgang: USt-Bescheid 2024 vom 12.03.2026
+ fristart: einspruchsfrist
+ rechtsgrundlage: "§ 355 Abs. 1 AO"
+ fristbeginn: 2026-03-15
+ hauptfrist: 2026-04-15
+ vorfrist-tage: 5
+ vorfrist: 2026-04-10
+ zustaendig: RA Mueller
+ status: offen
+ bemerkung: AdV-Antrag separat einreichen
 ```
 
 ## Standardfristen

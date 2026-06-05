@@ -1,23 +1,23 @@
 ---
 name: arbeitsvertrag-abmahnung-entwurf-englisch
-description: "Nutze dies, wenn Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin, Aufhebungsvertrag Und Sperrzeit im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin, Aufhebungsvertrag Und Sperrzeit prüfen.; Erstelle eine Arbeitsfassung zu Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin, Aufhebungsvertrag Und Sperrzeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin, Aufhebungsvertrag Und Sperrzeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, Arbeitsvertrag Founder Nahe Schluesselrolle, Arbeitsvertrag Remote Hybrid Berlin, Aufhebungsvertrag Und Sperrzeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `abmahnung-entwurf-und-risiko` | Berliner Start-up-HR: Abmahnung entwerfen und prüfen: Pflichtverstoß, Beweis, Rüge, Warnung, Verhältnismäßigkeit und Ton. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `arbeitsvertrag-englisch-deutsch-bilingual` | Berliner Start-up-HR: Bilinguale deutsch/englische Arbeitsverträge: maßgebliche Sprache, deutsche Schutzstandards und verständliche HR-Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `arbeitsvertrag-founder-nahe-schluesselrolle` | Berliner Start-up-HR: Schlüsselrollen nah an Foundern: VP, Head of, C-Level minus Organstellung, Bonus, Vesting, Geheimnisse und Exit. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `arbeitsvertrag-remote-hybrid-berlin` | Berliner Start-up-HR: Remote-/Hybrid-Vertragsbausteine für Berlin: Arbeitsort, Ausstattung, Kosten, Datenschutz, Arbeitszeit, Auslandstage. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `aufhebungsvertrag-und-sperrzeit` | Berliner Start-up-HR: Aufhebungsvertrag: Freiwilligkeit, Bedenkzeit, Sperrzeitrisiko, Abfindung, Zeugnis, Freistellung und Rückgabe. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `abmahnung-entwurf-und-risiko` | Berliner Start-up-HR: Abmahnung entwerfen und prüfen: Pflichtverstoß, Beweis, Rüge, Warnung, Verhältnismäßigkeit und Ton. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `arbeitsvertrag-englisch-deutsch-bilingual` | Berliner Start-up-HR: Bilinguale deutsch/englische Arbeitsverträge: maßgebliche Sprache, deutsche Schutzstandards und verständliche HR-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `arbeitsvertrag-founder-nahe-schluesselrolle` | Berliner Start-up-HR: Schlüsselrollen nah an Foundern: VP, Head of, C-Level minus Organstellung, Bonus, Vesting, Geheimnisse und Exit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `arbeitsvertrag-remote-hybrid-berlin` | Berliner Start-up-HR: Remote-/Hybrid-Vertragsbausteine für Berlin: Arbeitsort, Ausstattung, Kosten, Datenschutz, Arbeitszeit, Auslandstage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `aufhebungsvertrag-und-sperrzeit` | Berliner Start-up-HR: Aufhebungsvertrag: Freiwilligkeit, Bedenkzeit, Sperrzeitrisiko, Abfindung, Zeugnis, Freistellung und Rückgabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Abmahnung Entwurf Und Risiko, Arbeitsvertrag Englisch Deutsch Bilingual, 
 
 ## 1. `abmahnung-entwurf-und-risiko`
 
-**Fokus:** Berliner Start-up-HR: Abmahnung entwerfen und prüfen: Pflichtverstoß, Beweis, Rüge, Warnung, Verhältnismäßigkeit und Ton. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Abmahnung entwerfen und prüfen: Pflichtverstoß, Beweis, Rüge, Warnung, Verhältnismäßigkeit und Ton. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Abmahnung Entwurf Und Risiko
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Disziplin
 **Fokus:** Abmahnung entwerfen und prüfen: Pflichtverstoß, Beweis, Rüge, Warnung, Verhältnismäßigkeit und Ton.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `arbeitsvertrag-englisch-deutsch-bilingual`
 
-**Fokus:** Berliner Start-up-HR: Bilinguale deutsch/englische Arbeitsverträge: maßgebliche Sprache, deutsche Schutzstandards und verständliche HR-Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Bilinguale deutsch/englische Arbeitsverträge: maßgebliche Sprache, deutsche Schutzstandards und verständliche HR-Kommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitsvertrag Englisch Deutsch Bilingual
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Arbeitsverträge
 **Fokus:** Bilinguale deutsch/englische Arbeitsverträge: maßgebliche Sprache, deutsche Schutzstandards und verständliche HR-Kommunikation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `arbeitsvertrag-founder-nahe-schluesselrolle`
 
-**Fokus:** Berliner Start-up-HR: Schlüsselrollen nah an Foundern: VP, Head of, C-Level minus Organstellung, Bonus, Vesting, Geheimnisse und Exit. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Schlüsselrollen nah an Foundern: VP, Head of, C-Level minus Organstellung, Bonus, Vesting, Geheimnisse und Exit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitsvertrag Founder Nahe Schluesselrolle
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Arbeitsverträge
 **Fokus:** Schlüsselrollen nah an Foundern: VP, Head of, C-Level minus Organstellung, Bonus, Vesting, Geheimnisse und Exit.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `arbeitsvertrag-remote-hybrid-berlin`
 
-**Fokus:** Berliner Start-up-HR: Remote-/Hybrid-Vertragsbausteine für Berlin: Arbeitsort, Ausstattung, Kosten, Datenschutz, Arbeitszeit, Auslandstage. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Remote-/Hybrid-Vertragsbausteine für Berlin: Arbeitsort, Ausstattung, Kosten, Datenschutz, Arbeitszeit, Auslandstage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitsvertrag Remote Hybrid Berlin
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Arbeitsverträge
 **Fokus:** Remote-/Hybrid-Vertragsbausteine für Berlin: Arbeitsort, Ausstattung, Kosten, Datenschutz, Arbeitszeit, Auslandstage.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `aufhebungsvertrag-und-sperrzeit`
 
-**Fokus:** Berliner Start-up-HR: Aufhebungsvertrag: Freiwilligkeit, Bedenkzeit, Sperrzeitrisiko, Abfindung, Zeugnis, Freistellung und Rückgabe. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Aufhebungsvertrag: Freiwilligkeit, Bedenkzeit, Sperrzeitrisiko, Abfindung, Zeugnis, Freistellung und Rückgabe. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Aufhebungsvertrag Und Sperrzeit
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Disziplin
 **Fokus:** Aufhebungsvertrag: Freiwilligkeit, Bedenkzeit, Sperrzeitrisiko, Abfindung, Zeugnis, Freistellung und Rückgabe.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

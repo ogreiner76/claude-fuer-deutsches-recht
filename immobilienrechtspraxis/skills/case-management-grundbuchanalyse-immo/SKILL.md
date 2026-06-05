@@ -1,13 +1,13 @@
 ---
 name: case-management-grundbuchanalyse-immo
-description: "Nutze dies, wenn Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg im Plugin Immobilienrechtspraxis konkret bearbeitet werden soll. Auslöser: Bitte Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg prüfen.; Erstelle eine Arbeitsfassung zu Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Case Management, Grundbuchanalyse, Immo Aufteilungsplan Weg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -48,39 +48,39 @@ beides bei jedem neuen Eingang fort.
 ## Inputs
 
 - Aktenbestandteile in beliebiger Form: Verträge Schriftsätze
-  Korrespondenz Gutachten Fotos Hausverwaltungs-Berichte
+ Korrespondenz Gutachten Fotos Hausverwaltungs-Berichte
 - Optional: bestehende Fallübersicht zur Fortschreibung
 - Optional: Recherche-Auftrag für aktuelle Rechtsprechung
 
 ## Output je Fall
 
 - `Fall_<Aktenzeichen>.md` — eine Seite Fallübersicht mit
-  - Beteiligte (Mandant Gegenseite Vertreter Gericht)
-  - Streitgegenstand und Streitwert
-  - Aktueller Verfahrensstand
-  - Nächste Schritte mit Verantwortlichem
-  - Risiko-Ampel
+ - Beteiligte (Mandant Gegenseite Vertreter Gericht)
+ - Streitgegenstand und Streitwert
+ - Aktueller Verfahrensstand
+ - Nächste Schritte mit Verantwortlichem
+ - Risiko-Ampel
 - `Fristen_<Aktenzeichen>.md` — Tabelle Frist — Datum —
-  Rechtsgrundlage — Status
+ Rechtsgrundlage — Status
 - `Ereignisse_<Aktenzeichen>.md` — chronologische Tabelle aller
-  Vorgänge mit Quellenverweis auf Aktenstelle
+ Vorgänge mit Quellenverweis auf Aktenstelle
 - Optional `Rechtsprechung_<Aktenzeichen>.md` — kuratierte
-  BGH-Entscheidungen zum Fall mit Pinpoint-Zitat und
-  Risiko-Einordnung
+ BGH-Entscheidungen zum Fall mit Pinpoint-Zitat und
+ Risiko-Einordnung
 
 ## Methodik
 
 1. Eingangsdokument klassifizieren (Schreiben Vertrag Schriftsatz
-   Urteil Gutachten Foto)
+ Urteil Gutachten Foto)
 2. Tatsachen extrahieren mit Quellenangabe in eckigen Klammern
 3. Fristen und Termine berechnen — gesetzliche Fristen aus
-   Vorschrift abgeleitet, gerichtliche aus Verfügung
+ Vorschrift abgeleitet, gerichtliche aus Verfügung
 4. Risiko-Ampel pro Fall: GRUEN beherrschbar, GELB beobachten,
-   ROT Eskalation
+ ROT Eskalation
 5. Bei Nachlieferung: bestehende Markdown-Dateien werden ergänzt,
-   neue Einträge mit `[NEU]` markiert
+ neue Einträge mit `[NEU]` markiert
 6. Auf Wunsch: aktuelle Rechtsprechung recherchieren und mit
-   Pinpoint-Zitierung anhängen (juengere zuerst Randnummer)
+ Pinpoint-Zitierung anhängen (juengere zuerst Randnummer)
 
 ## Zusammenfassung umfangreicher Dokumente
 
@@ -104,7 +104,7 @@ Streitgegenstand. Format pro Entscheidung:
 - Sachverhalts-Kern in zwei Sätzen
 - Rechtssatz wortgetreu mit Anführungszeichen und Randnummer
 - Bezug zum eigenen Fall — staerkt oder schwaecht die eigene
-  Position
+ Position
 - Ampel ROT GELB GRUEN aus Sicht des Mandanten
 
 Halluzinations-Regel: nur Entscheidungen die existieren und mit
@@ -114,29 +114,29 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 ## Typische Fristen im Immobilienrecht
 
 - Widerspruch Eigenbedarfskündigung § 574b BGB — spätestens zwei
-  Monate vor Beendigung
+ Monate vor Beendigung
 - Mieterhöhungsverlangen § 558b BGB — Zustimmungsfrist zwei
-  Monate
+ Monate
 - Schönheitsreparaturen-Endabrechnung — Abrechnung der
-  Betriebskosten § 556 Abs. 3 BGB binnen zwölf Monaten
+ Betriebskosten § 556 Abs. 3 BGB binnen zwölf Monaten
 - Mietkautionsrückforderung — angemessene Prüfungsfrist nach
-  Auszug
+ Auszug
 - Anfechtung WEG-Beschluss § 45 WEG — ein Monat ab Beschlussfassung
 - Schriftform Gewerbemietvertrag § 550 BGB bei Nachtraegen
 - Verjährung Mietminderung § 548 BGB — sechs Monate nach
-  Rückgabe der Mietsache
+ Rückgabe der Mietsache
 - Auskunftsverlangen Mietpreisbremse § 556g Abs. 3 BGB
 
 ## Beispielformulierungen
 
 - "Lege Fall Mueller gegen Hausverwaltung Berlin an. Hier sind
-  alle Unterlagen."
+ alle Unterlagen."
 - "Schreibe Fall ABC GmbH gegen XY fort. Hier ist die neue
-  Klageerwiderung."
+ Klageerwiderung."
 - "Recherchiere aktuelle BGH-Rechtsprechung zu Schimmel und
-  Beweislast. Ordne jede Entscheidung mit Ampel ein."
+ Beweislast. Ordne jede Entscheidung mit Ampel ein."
 - "Fasse das 80-Seiten-Gutachten in einer Seite zusammen mit
-  Bezug zum Fall."
+ Bezug zum Fall."
 
 ## Aktuelle Rechtsprechung — Leitsaetze fuer Case-Management
 
@@ -155,7 +155,7 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 | Verjaehrung Mietforderung | §§ 195, 199 BGB | 3 Jahre ab Jahresende |
 
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
 
 ## 2. `grundbuchanalyse`
@@ -191,33 +191,33 @@ Objekttabelle und ein einheitliches Risikoschema.
 1. OCR auf gescannten PDFs
 2. Pro Auszug Identifikation Bestandsverzeichnis Abteilung I II III
 3. Strukturierte Extraktion:
-   - Bestandsverzeichnis: Gemarkung Flur Flurstück Wirtschaftsart
-     Größe
-   - Abteilung I: Eigentümerkette mit Erwerbsgrund
-   - Abteilung II: Lasten und Beschraenkungen (Dienstbarkeiten
-     Reallasten Vorkaufsrechte Nacherbenvermerk Sanierungsvermerk)
-   - Abteilung III: Grundpfandrechte mit Rang Betrag Gläubiger
-     Löschungserleichterung Brieftyp
+ - Bestandsverzeichnis: Gemarkung Flur Flurstück Wirtschaftsart
+ Größe
+ - Abteilung I: Eigentümerkette mit Erwerbsgrund
+ - Abteilung II: Lasten und Beschraenkungen (Dienstbarkeiten
+ Reallasten Vorkaufsrechte Nacherbenvermerk Sanierungsvermerk)
+ - Abteilung III: Grundpfandrechte mit Rang Betrag Gläubiger
+ Löschungserleichterung Brieftyp
 4. Querverweis mit Baulastenverzeichnis (Baulasten existieren NICHT
-   im Grundbuch)
+ im Grundbuch)
 5. Risikobewertung pro Objekt und Aggregation auf Portfolio
 6. Generierung Risikomatrix Excel-Tabelle und Memo
 
 ## Output
 
 - `Grundbuch_Portfolio.xlsx` — eine Zeile pro Flurstück, Spalten je
-  Risikofeld
+ Risikofeld
 - `Risikomatrix.md` mit Ampel pro Objekt und Aggregat-Statistik
 - `Auffaelligkeiten.md` — Objekte mit ungewöhnlichen Vermerken
-  (Insolvenzvermerk Zwangsversteigerungsvermerk Nacherbenvermerk
-  Sanierungsvermerk § 144 BauGB Vorkaufsrecht nach BauGB)
+ (Insolvenzvermerk Zwangsversteigerungsvermerk Nacherbenvermerk
+ Sanierungsvermerk § 144 BauGB Vorkaufsrecht nach BauGB)
 
 ## Typische Risikofelder
 
 - Briefgrundschuld ohne Löschungsbewilligung
 - Rangverhältnis Abteilung III nicht eindeutig
 - Dienstbarkeit zugunsten unbekannter Dritter (Leitungsrechte
-  Wegerechte)
+ Wegerechte)
 - Vorkaufsrecht der Gemeinde nach §§ 24 ff. BauGB
 - Sanierungsvermerk § 144 BauGB — Genehmigung erforderlich
 - Nacherbenvermerk § 2113 BGB
@@ -228,11 +228,11 @@ Objekttabelle und ein einheitliches Risikoschema.
 ## Beispielformulierungen
 
 - "Werte alle Grundbuchauszüge aus diesem Ordner aus. Erzeuge
-  Portfoliosicht und markiere Objekte mit Sanierungsvermerk."
+ Portfoliosicht und markiere Objekte mit Sanierungsvermerk."
 - "Ich habe 87 PDF-Auszüge. Zeig mir Objekte mit offenen
-  Briefgrundschulden und Baulasten."
+ Briefgrundschulden und Baulasten."
 - "Prüfe diese 15 Objekte auf Vorkaufsrechte der Gemeinde nach
-  Paragraph 24 BauGB."
+ Paragraph 24 BauGB."
 
 ## Relevante Normen
 
@@ -260,7 +260,7 @@ Konkrete Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifi
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Workflow — Schritt fuer Schritt
+## — Schritt fuer Schritt
 
 1. **Grundbuchauszuege anfordern** — aktuell (ggf. amtliches Datumsstempel pruefen); bei Portfolio: Grundbuchamts-CSV abrufen
 2. **Abt. I — Eigentuemerkette** — Luecken im Eigentumsuebergang? Erbfolgenachweis (Erbschein/Erbvertrag) aktuell?
@@ -283,7 +283,7 @@ Er liefert Vorstrukturierung und Risiko-Heatmap, damit der Mensch
 seine Zeit dort einsetzt, wo es wirklich brennt.
 
 <!-- AUDIT 27.05.2026 — Bundle 033 —
-  Kein gesicherter Ersatz verfügbar; Eintrag gelöscht. § 892 BGB bleibt als Normverweis erhalten.
+ Kein gesicherter Ersatz verfügbar; Eintrag gelöscht. § 892 BGB bleibt als Normverweis erhalten.
 -->
 
 ## 3. `immo-aufteilungsplan-weg`

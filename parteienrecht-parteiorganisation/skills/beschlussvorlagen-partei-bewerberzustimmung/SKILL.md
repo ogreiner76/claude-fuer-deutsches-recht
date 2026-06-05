@@ -1,13 +1,13 @@
 ---
 name: beschlussvorlagen-partei-bewerberzustimmung
-description: "Nutze dies, wenn Beschlussvorlagen Partei, Bewerberzustimmung, Datenexport Bei Parteiwechsel im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Beschlussvorlagen Partei, Bewerberzustimmung, Datenexport Bei Parteiwechsel prüfen.; Erstelle eine Arbeitsfassung zu Beschlussvorlagen Partei, Bewerberzustimmung, Datenexport Bei Parteiwechsel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beschlussvorlagen Partei, Bewerberzustimmung, Datenexport Bei Parteiwechsel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beschlussvorlagen Partei, Bewerberzustimmung, Datenexport Bei Parteiwechsel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beschlussvorlagen Partei, Bewerberzustimmung, Datenexport Bei Parteiwechsel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Beschlussvorlagen Partei, Bewerberzustimmung, Datenexport Bei Parteiwechs
 ## Aufgabe
 Formuliert Beschlüsse, Anträge, Satzungsänderungen, Geschäftsordnungsanträge und Verfahrensbeschlüsse.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -84,7 +84,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erklärt Zustimmungserklärung, Wählbarkeit, Parteimitgliedschaft, Mehrfachkandidatur und Nachweise.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -135,7 +135,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft Austritt, Wechsel, Listenbewerberstatus, Datenlöschung und Nachrückerfragen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

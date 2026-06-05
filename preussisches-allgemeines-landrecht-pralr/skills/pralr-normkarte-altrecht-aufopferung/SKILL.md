@@ -1,13 +1,13 @@
 ---
 name: pralr-normkarte-altrecht-aufopferung
-description: "Nutze dies, wenn Pralr Neu 027 Normkarte Altrecht In Heutiger Akte, Pralr Neu 028 Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Neu 029 Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Neu 030 Normkarte Polizeirecht Ohne Anachronismus, Pralr Neu 031 Normkarte Zitat Mit Link Zum Digitalisat im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr Neu 027 Normkarte Altrecht In Heutiger Akte, Pralr Neu 028 Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Neu 029 Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Neu 030 Normkarte Polizeirecht Ohne Anachronismus, Pralr Neu 031 Normkarte Zitat Mit Link Zum Digitalisat prüfen.; Erstelle eine Arbeitsfassung zu Pralr Neu 027 Normkarte Altrecht In Heutiger Akte, Pralr Neu 028 Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Neu 029 Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Neu 030 Normkarte Polizeirecht Ohne Anachronismus, Pralr Neu 031 Normkarte..."
+description: "Nutze dies bei Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Pralr Neu 027 Normkarte Altrecht In Heutiger Akte, Pralr Neu 028 Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Neu 029 Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Neu 030 Normkarte Polizeirecht Ohne Anachronismus, Pralr Neu 031 Normkarte Zitat Mit Link Zum Digitalisat
+# Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus, Pralr Normkarte Zitat Mit Link Zum Digitalisat
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus, Pralr Normkarte Zitat Mit Link Zum Digitalisat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Pralr Neu 027 Normkarte Altrecht In Heutiger Akte, Pralr Neu 028 Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Neu 029 Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Neu 030 Normkarte Polizeirecht Ohne Anachronismus, Pralr Neu 031 Normkarte Zitat Mit Link Zum Digitalisat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Normkarte Altrecht In Heutiger Akte, Pralr Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Normkarte Polizeirecht Ohne Anachronismus, Pralr Normkarte Zitat Mit Link Zum Digitalisat** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -30,7 +30,7 @@ Für **Pralr Neu 027 Normkarte Altrecht In Heutiger Akte, Pralr Neu 028 Normkart
 
 **Fokus:** PrALR: Normkarte Altrecht in heutiger Akte mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 027 Normkarte Altrecht In Heutiger Akte
+# Pralr Normkarte Altrecht In Heutiger Akte
 
 ## Aufgabe
 
@@ -154,7 +154,7 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 
 **Fokus:** PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 029 Normkarte Nachbarrecht Heutiger Fortwirkungscheck
+# Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck
 
 ## Aufgabe
 
@@ -200,7 +200,7 @@ ALR-Nachbarrecht und heutiger Fortwirkungscheck.
 
 **Fokus:** PrALR: Normkarte Polizeirecht ohne Anachronismus mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 030 Normkarte Polizeirecht Ohne Anachronismus
+# Pralr Normkarte Polizeirecht Ohne Anachronismus
 
 ## Aufgabe
 
@@ -245,7 +245,7 @@ ALR-Polizeirecht ohne Anachronismus — historische Lektuere statt moderne Proje
 
 **Fokus:** PrALR: Normkarte Zitat mit Link zum Digitalisat mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 031 Normkarte Zitat Mit Link Zum Digitalisat
+# Pralr Normkarte Zitat Mit Link Zum Digitalisat
 
 ## Aufgabe
 

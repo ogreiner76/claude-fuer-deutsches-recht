@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-kammerbeschwerde-patentanwalt
-description: "Nutze dies, wenn Patentanwaelte Kammerbeschwerde Patentanwalt Kammerantwort Und, Patentanwaelte Kammerbeschwerde Patentanwalt Organisationspflic, Patentanwaelte Ki Erfindung Und Erfinderbenennung Kammerantwort, Patentanwaelte Ki Erfindung Und Erfinderbenennung Organisations, Patentanwaelte Ki Erfindung Und Erfinderbenennung Rechtsprechun im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Kammerbeschwerde Patentanwalt Kammerantwort Und, Patentanwaelte Kammerbeschwerde Patentanwalt Organisationspflic, Patentanwaelte Ki Erfindung Und Erfinderbenennung Kammerantwort, Patentanwaelte Ki Erfindung Und Erfinderbenennung Organisations, Patentanwaelte Ki Erfindung Und Erfinderbenennung Rechtsprechun prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Kammerbeschwerde Patentanwalt Kammerantwort Und, Patentanwaelte Kammerbeschwerde Patentanwalt Organisationspflic, Patentanwaelte Ki Erfindung Und Erfinderbenennung Kammerantwort, Patentanwaelte..."
+description: "Nutze dies bei Patentanwaelte Kammerbeschwerde Patentanwalt Kammerantwort Und, Patentanwaelte Kammerbeschwerde Patentanwalt Organisationspflic, Patentanwaelte Ki Erfindung Und Erfinderbenennung Kammerantwort, Patentanwaelte Ki Erfindung Und Erfinderbenennung Organisations: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Kammerbeschwerde Patentanwalt Kammerantwort Und, Patentanwaelte Kammerbeschwerde Patentanwalt Organisationspflic, Patentanwaelte Ki Erfindung Und Erfinderbenennung Kammerantwort, Patentanwaelte Ki Erfindung Und Erfinderbenennung Organisations, Patentanwaelte Ki Erfindung Und Erfinderbenennung Rechtsprechun
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Kammerbeschwerde Patentanwalt Kammerantwort Und, Patentanwaelte Kammerbeschwerde Patentanwalt Organisationspflic, Patentanwaelte Ki Erfindung Und Erfinderbenennung Kammerantwort, Patentanwaelte Ki Erfindung Und Erfinderbenennung Organisations, Patentanwaelte Ki Erfindung Und Erfinderbenennung Rechtsprechun** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

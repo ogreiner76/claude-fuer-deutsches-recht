@@ -1,13 +1,13 @@
 ---
 name: volkseigener-betrieb-berechtigte-ermit
-description: "Nutze dies, wenn Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc im Plugin Einigungsvertrag Vermoegensrecht konkret bearbeitet werden soll. Auslöser: Bitte Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc prüfen.; Erstelle eine Arbeitsfassung zu Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

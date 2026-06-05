@@ -1,13 +1,13 @@
 ---
 name: drittschuldneranzeige-stille-echtes-unechtes
-description: "Nutze dies, wenn Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto prüfen.; Erstelle eine Arbeitsfassung zu Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Drittschuldneranzeige Und Stille Zession, Echtes Und Unechtes Factoring Risikoverteilung, Einziehungsbefugnis Debitoren Zahlungskanaele Treuhandkonto** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -68,7 +68,7 @@ Fragen zum Einstieg:
 - **DSGVO Art. 14**: Informationspflicht bei Erhebung aus dritter Hand – Art. 14 Abs. 5 lit. b kennt Ausnahmen.
 - **§ 91 InsO**: Erwerb in der Insolvenz unwirksam.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Modell wählen**: Stille Zession, halboffene Zession, offene Zession.
 2. **Zahlungskanal definieren**: Bei stiller Zession leitet der Kunde weiter, idealerweise über Treuhandkonto.
@@ -177,7 +177,7 @@ Fragen zum Einstieg:
 - **§ 51 InsO**: Absonderungsrecht beim unechten Factoring.
 - **HGB § 246**: Bilanzielle Behandlung (Vermögensgegenstand).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Vertragstyp festlegen**: Echtes oder unechtes Factoring?
 2. **Rückgriffsklauseln formulieren**: Veritätshaftung ja, Bonitätshaftung nein (echt) oder ja (unecht).
@@ -290,7 +290,7 @@ Fragen zum Einstieg:
 - **§ 21 KWG**: Schutz von Kundengeldern bei Finanzdienstleistern.
 - **§ 1 Abs. 22 ZAG**: Zahlungskonto – ZAG-Relevanz bei Drittgelderverwaltung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Setup wählen**: Eigenes Factor-Konto, Treuhandkonto, Kundenkonto mit Weiterleitung.
 2. **Vertragstrennung**: Treuhandvertrag, Vollmacht, Weiterleitungspflicht.

@@ -1,12 +1,12 @@
 ---
 name: demenz
-description: "Nutze dies, wenn Demenz: Internationaler Bezug und Schnittstellen im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Demenz: Internationaler Bezug und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Demenz: Internationaler Bezug und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Demenz: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Demenz: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Demenz: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Demenz: Internationaler Bezug und Schnittstellen / spezial demenz internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Demenz: Internationaler Bezug und Schnittstellen / demenz internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

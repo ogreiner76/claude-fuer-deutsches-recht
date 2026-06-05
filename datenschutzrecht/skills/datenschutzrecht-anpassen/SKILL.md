@@ -18,18 +18,18 @@ Gezieltes Aktualisieren einzelner Abschnitte von `CLAUDE.md`, ohne das gesamte K
 ## Ablauf
 
 1. **Abschnitt identifizieren.** Nutzer nennt, was geändert werden soll. Bei Unklarheit eine strukturierte Liste der änderbaren Bereiche anzeigen:
-   - Organisationsdaten (Name, Rechtsform, Standort)
-   - Zuständige Aufsichtsbehörde
-   - Rolle (Verantwortlicher / Auftragsverarbeiter)
-   - Datenschutzbeauftragte·r (Name, intern/extern)
-   - Rechtsgrundlagen-Übersicht (Art. 6/9 DSGVO)
-   - AVV-Playbook (Klausel-Positionen, Deal-Breaker)
-   - Drittlandtransfer-Mechanismen (SCC, DPF, BCR)
-   - Systemliste für Betroffenenanfragen
-   - DSFA-Format und Auslöser
-   - Datenschutzerklärungsangaben
-   - Ausgaben-Konfiguration (Ordner, Namenskonvention)
-   - Integrations-Einstellungen
+ - Organisationsdaten (Name, Rechtsform, Standort)
+ - Zuständige Aufsichtsbehörde
+ - Rolle (Verantwortlicher / Auftragsverarbeiter)
+ - Datenschutzbeauftragte·r (Name, intern/extern)
+ - Rechtsgrundlagen-Übersicht (Art. 6/9 DSGVO)
+ - AVV-Playbook (Klausel-Positionen, Deal-Breaker)
+ - Drittlandtransfer-Mechanismen (SCC, DPF, BCR)
+ - Systemliste für Betroffenenanfragen
+ - DSFA-Format und Auslöser
+ - Datenschutzerklärungsangaben
+ - Ausgaben-Konfiguration (Ordner, Namenskonvention)
+ - Integrations-Einstellungen
 
 2. **Aktuellen Wert zeigen.** Den aktuellen Wert aus `CLAUDE.md` lesen und ausgeben, damit der Nutzer die Änderung klar gegen den Ist-Zustand vergleichen kann.
 

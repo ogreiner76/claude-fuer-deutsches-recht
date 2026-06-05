@@ -1,13 +1,13 @@
 ---
 name: autonomous-driving-interessen-grossprojekt
-description: "Nutze dies, wenn Spezial Autonomous Compliance Dokumentation Und Akte, Spezial Driving Mehrparteien Konflikt Und Interessen, Spezial Grossprojekt Zahlen Schwellen Und Berechnung im Plugin Verkehr Infrastrukturrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Autonomous Compliance Dokumentation Und Akte, Spezial Driving Mehrparteien Konflikt Und Interessen, Spezial Grossprojekt Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Autonomous Compliance Dokumentation Und Akte, Spezial Driving Mehrparteien Konflikt Und Interessen, Spezial Grossprojekt Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Autonomous Compliance Dokumentation Und Akte, Driving Mehrparteien Konflikt Und Interessen, Grossprojekt Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Autonomous Compliance Dokumentation Und Akte, Spezial Driving Mehrparteien Konflikt Und Interessen, Spezial Grossprojekt Zahlen Schwellen Und Berechnung
+# Autonomous Compliance Dokumentation Und Akte, Driving Mehrparteien Konflikt Und Interessen, Grossprojekt Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Autonomous Compliance Dokumentation Und Akte, Driving Mehrparteien Konflikt Und Interessen, Grossprojekt Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Autonomous Compliance Dokumentation Und Akte, Spezial Driving Mehrparteien Konflikt Und Interessen, Spezial Grossprojekt Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehr-infrastrukturrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Autonomous Compliance Dokumentation Und Akte, Driving Mehrparteien Konflikt Und Interessen, Grossprojekt Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehr-infrastrukturrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Autonomous Compliance Dokumentation Und Akte, Spezial Driving Meh
 # Autonomous: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Autonomous: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Autonomous: Compliance-Dokumentation und Aktenvermerk / spezial autonomous compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Autonomous: Compliance-Dokumentation und Aktenvermerk / autonomous compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Driving: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Driving: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Driving: Mehrparteienkonflikt und Interessenmatrix / spezial driving mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Driving: Mehrparteienkonflikt und Interessenmatrix / driving mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Grossprojekt: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Grossprojekt: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Grossprojekt: Zahlen, Schwellenwerte und Berechnung / spezial grossprojekt zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Grossprojekt: Zahlen, Schwellenwerte und Berechnung / grossprojekt zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

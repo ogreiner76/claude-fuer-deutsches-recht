@@ -1,13 +1,13 @@
 ---
 name: wettbewerb-flaschenhaelse
-description: "Nutze dies, wenn Wettbewerb Ki Flaschenhaelse Big Tech im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Wettbewerb Ki Flaschenhaelse Big Tech prüfen.; Erstelle eine Arbeitsfassung zu Wettbewerb Ki Flaschenhaelse Big Tech.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wettbewerb Ki Flaschenhaelse Big Tech: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wettbewerb Ki Flaschenhaelse Big Tech
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wettbewerb Ki Flaschenhaelse Big Tech** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

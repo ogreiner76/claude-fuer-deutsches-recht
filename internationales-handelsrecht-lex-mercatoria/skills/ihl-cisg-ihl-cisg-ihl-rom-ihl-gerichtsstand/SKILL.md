@@ -1,13 +1,13 @@
 ---
 name: ihl-cisg-ihl-cisg-ihl-rom-ihl-gerichtsstand
-description: "Nutze dies, wenn Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague prüfen.; Erstelle eine Arbeitsfassung zu Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

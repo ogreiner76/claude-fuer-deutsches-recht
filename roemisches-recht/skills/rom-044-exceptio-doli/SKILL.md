@@ -1,6 +1,6 @@
 ---
 name: rom-044-exceptio-doli
-description: "Römisches Recht: Exceptio Doli. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Exceptio Doli. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Exceptio Doli

@@ -1,13 +1,13 @@
 ---
 name: personen-politisches-presserecht-plattformen
-description: "Nutze dies, wenn Personen Politisches Leben 188, Presserecht Plattformen Löschung Dsa im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Personen Politisches Leben 188, Presserecht Plattformen Löschung Dsa prüfen.; Erstelle eine Arbeitsfassung zu Personen Politisches Leben 188, Presserecht Plattformen Löschung Dsa.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Personen Politisches Leben 188, Presserecht Plattformen Löschung Dsa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Personen Politisches Leben 188, Presserecht Plattformen Löschung Dsa
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Personen Politisches Leben 188, Presserecht Plattformen Löschung Dsa** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -116,7 +116,7 @@ Nutze diesen Skill bei Onlineveröffentlichungen, Plattformmeldungen, Account-Sp
 - Entwurf Meldung/Antwort:
 - Risiken bei Overclaiming:
 
-## Spezialskills
+## Fachmodule
 
 - `eugh-grch-art-11-rechtsprechung` bei Suchmaschinen, DSGVO, DSA, Uploadfiltern oder Art.-11-GRCh-Bezug.
 - `egmr-art-10-rechtsprechung` bei journalistischem Kontext, Hyperlinks, Kommentarspalten oder Art.-8-/Art.-10-Abwägung.

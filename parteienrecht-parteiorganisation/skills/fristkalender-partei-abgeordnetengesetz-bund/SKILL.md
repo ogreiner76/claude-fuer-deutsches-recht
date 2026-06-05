@@ -1,13 +1,13 @@
 ---
 name: fristkalender-partei-abgeordnetengesetz-bund
-description: "Nutze dies, wenn Fristkalender Partei, Abgeordnetengesetz Bund, Abgeordnetengesetze Länder im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Fristkalender Partei, Abgeordnetengesetz Bund, Abgeordnetengesetze Länder prüfen.; Erstelle eine Arbeitsfassung zu Fristkalender Partei, Abgeordnetengesetz Bund, Abgeordnetengesetze Länder.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fristkalender Partei, Abgeordnetengesetz Bund, Abgeordnetengesetze Länder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fristkalender Partei, Abgeordnetengesetz Bund, Abgeordnetengesetze Länder
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fristkalender Partei, Abgeordnetengesetz Bund, Abgeordnetengesetze Länder** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Fristkalender Partei, Abgeordnetengesetz Bund, Abgeordnetengesetze Lände
 ## Aufgabe
 Erstellt Fristenkalender für Versammlungen, Wahlvorschläge, Rechenschaft, Spendenmeldungen, Satzungsfristen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Routet Transparenz, Zuwendungen, Spenden an Abgeordnete, Nebentätigkeiten und Verhaltensregeln.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Live-Check für Landesabgeordnetengesetze, Transparenzregeln, Spenden, Nebentätigkeiten und Fristen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

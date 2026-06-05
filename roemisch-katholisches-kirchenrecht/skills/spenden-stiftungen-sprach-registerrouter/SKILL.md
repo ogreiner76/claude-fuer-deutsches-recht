@@ -1,22 +1,22 @@
 ---
 name: spenden-stiftungen-sprach-registerrouter
-description: "Nutze dies, wenn Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register prüfen.; Erstelle eine Arbeitsfassung zu Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben Katholische Arbeitssprachen, Synodalitat Und Gehorsame Communio, Taufe Taufstatus Und Register** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spenden-stiftungen-und-zweckbindung` | Spenden, Stiftungen und Zweckbindung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `sprach-und-registerrouter-fur-sieben-katholische-arbeitssprachen` | Sprach- und Registerrouter für sieben katholische Arbeitssprachen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `synodalitat-und-gehorsame-communio` | Synodalität und gehorsame Communio: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `taufe-taufstatus-und-register` | Taufe, Taufstatus und Register: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `spenden-stiftungen-und-zweckbindung` | Spenden, Stiftungen und Zweckbindung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `sprach-und-registerrouter-fur-sieben-katholische-arbeitssprachen` | Sprach- und Registerrouter für sieben katholische Arbeitssprachen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `synodalitat-und-gehorsame-communio` | Synodalität und gehorsame Communio: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `taufe-taufstatus-und-register` | Taufe, Taufstatus und Register: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Spenden Stiftungen Und Zweckbindung, Sprach Und Registerrouter Fur Sieben
 
 ## 1. `spenden-stiftungen-und-zweckbindung`
 
-**Fokus:** Spenden, Stiftungen und Zweckbindung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Spenden, Stiftungen und Zweckbindung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Spenden, Stiftungen und Zweckbindung
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `sprach-und-registerrouter-fur-sieben-katholische-arbeitssprachen`
 
-**Fokus:** Sprach- und Registerrouter für sieben katholische Arbeitssprachen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Sprach- und Registerrouter für sieben katholische Arbeitssprachen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Sprach- und Registerrouter für sieben katholische Arbeitssprachen
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `synodalitat-und-gehorsame-communio`
 
-**Fokus:** Synodalität und gehorsame Communio: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Synodalität und gehorsame Communio: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Synodalität und gehorsame Communio
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `taufe-taufstatus-und-register`
 
-**Fokus:** Taufe, Taufstatus und Register: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Taufe, Taufstatus und Register: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Taufe, Taufstatus und Register
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

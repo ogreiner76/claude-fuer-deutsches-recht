@@ -1,13 +1,13 @@
 ---
 name: laender-landtage-legistik-ministerien
-description: "Nutze dies, wenn Spezial Länder Behörden Gericht Und Registerweg, Spezial Landtage Schriftsatz Brief Und Memo Bausteine, Spezial Legistik Erstpruefung Und Mandatsziel, Spezial Ministerien Tatbestand Beweis Und Belege, Spezial Mitte Internationaler Bezug Und Schnittstellen und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Spezial Länder Behörden Gericht Und Registerweg, Spezial Landtage Schriftsatz Brief Und Memo Bausteine, Spezial Legistik Erstpruefung Und Mandatsziel, Spezial Ministerien Tatbestand Beweis Und Belege, Spezial Mitte Internationaler Bezug Und Schnittstellen und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Länder Behörden Gericht Und Registerweg, Spezial Landtage Schriftsatz Brief Und Memo Bausteine, Spezial Legistik Erstpruefung Und Mandatsziel, Spezial Ministerien Tatbestand Beweis Und Belege, Spezial Mitte Internationaler Bezug Und Schnittstellen und 3 weitere Themen.; Welche Normen und Nachweise b..."
+description: "Nutze dies bei Länder Behörden Gericht Und Registerweg, Landtage Schriftsatz Brief Und Memo Bausteine, Legistik Erstpruefung Und Mandatsziel, Ministerien Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Länder Behörden Gericht Und Registerweg, Spezial Landtage Schriftsatz Brief Und Memo Bausteine, Spezial Legistik Erstpruefung Und Mandatsziel, Spezial Ministerien Tatbestand Beweis Und Belege, Spezial Mitte Internationaler Bezug Und Schnittstellen und 3 weitere Themen
+# Länder Behörden Gericht Und Registerweg, Landtage Schriftsatz Brief Und Memo Bausteine, Legistik Erstpruefung Und Mandatsziel, Ministerien Tatbestand Beweis Und Belege, Mitte Internationaler Bezug Und Schnittstellen und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Länder Behörden Gericht Und Registerweg, Landtage Schriftsatz Brief Und Memo Bausteine, Legistik Erstpruefung Und Mandatsziel, Ministerien Tatbestand Beweis Und Belege, Mitte Internationaler Bezug Und Schnittstellen und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -24,7 +24,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Länder Behörden Gericht Und Registerweg, Spezial Landtage Schriftsatz Brief Und Memo Bausteine, Spezial Legistik Erstpruefung Und Mandatsziel, Spezial Ministerien Tatbestand Beweis Und Belege, Spezial Mitte Internationaler Bezug Und Schnittstellen und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Länder Behörden Gericht Und Registerweg, Landtage Schriftsatz Brief Und Memo Bausteine, Legistik Erstpruefung Und Mandatsziel, Ministerien Tatbestand Beweis Und Belege, Mitte Internationaler Bezug Und Schnittstellen und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -36,7 +36,7 @@ Für **Spezial Länder Behörden Gericht Und Registerweg, Spezial Landtage Schri
 # Laender: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Laender: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Laender: Behörden-, Gerichts- oder Registerweg / spezial laender behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Laender: Behörden-, Gerichts- oder Registerweg / laender behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -77,7 +77,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Landtage: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Landtage: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Landtage: Schriftsatz-, Brief- und Memo-Bausteine / spezial landtage schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Landtage: Schriftsatz-, Brief- und Memo-Bausteine / landtage schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -118,7 +118,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Legistik: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Legistik: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Legistik: Erstprüfung, Rollenklärung und Mandatsziel / spezial legistik erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Legistik: Erstprüfung, Rollenklärung und Mandatsziel / legistik erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -159,7 +159,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial ministerien tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage / ministerien tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -200,7 +200,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Mitte: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Mitte: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Mitte: Internationaler Bezug und Schnittstellen / spezial mitte internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mitte: Internationaler Bezug und Schnittstellen / mitte internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -241,7 +241,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Normgeber: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Normgeber: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Normgeber: Verhandlung, Vergleich und Eskalation / spezial normgeber verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Normgeber: Verhandlung, Vergleich und Eskalation / normgeber verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -282,11 +282,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Normtext, Begründung und Synopse als Gesetzgebungswerkstatt
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `legistik-werkstatt`. Kontext des Plugins: Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse, XML und Prüfpfaden.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `legistik-werkstatt`. Kontext des Plugins: Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse, XML und Prüfpfaden.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -321,7 +321,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # Opposition: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Opposition: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Opposition: Risikoampel, Gegenargumente und Verteidigungslinien / spezial opposition risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Opposition: Risikoampel, Gegenargumente und Verteidigungslinien / opposition risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: kueschk-allgemeiner-besonderer
-description: "Nutze dies, wenn Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsantrag, Kündigungsschutzklage Aufloesungsantrag Arbeitnehmer 9 Kschg, Kündigungsschutzklage Berufung Und Revision Lag Bag, Kündigungsschutzklage Erwiderung Arbeitgeber Strategien Typisch im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsantrag, Kündigungsschutzklage Aufloesungsantrag Arbeitnehmer 9 Kschg, Kündigungsschutzklage Berufung Und Revision Lag Bag, Kündigungsschutzklage Erwiderung Arbeitgeber Strategien Typisch prüfen.; Erstelle eine Arbeitsfassung zu Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsantrag, Kündigungsschutzklage Aufloesungsantrag Arbeitnehmer 9 Kschg, Kündigungsschutzklage Berufung Und Revision Lag Bag, Kündigungsschutzklage Erwiderung Arbeitgeber Strategien Typisch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsantrag, Kündigungsschutzklage Aufloesungsantrag Arbeitnehmer 9 Kschg, Kündigungsschutzklage Berufung Und Revision Lag Bag, Kündigungsschutzklage Erwiderung Arbeitgeber Strategien Typisch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsantrag, Kündigungsschutzklage Aufloesungsantrag Arbeitnehmer 9 Kschg, Kündigungsschutzklage Berufung Und Revision Lag Bag, Kündigungsschutzklage Erwiderung Arbeitgeber Strategien Typisch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kündigungsschutzklage Allgemeiner Und Besonderer Feststellungsantrag, Kündigungsschutzklage Aufloesungsantrag Arbeitnehmer 9 Kschg, Kündigungsschutzklage Berufung Und Revision Lag Bag, Kündigungsschutzklage Erwiderung Arbeitgeber Strategien Typisch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -181,13 +181,13 @@ Das Gericht hat Ermessen bei der Bemessung. Es berücksichtigt Betriebszugehöri
 ```
 Kündigung erhalten?
 └─ Ja → KSchG anwendbar?
-         └─ Ja → Kündigung unwirksam oder wahrscheinlich unwirksam?
-                  └─ Ja → Mandant will zurück in Betrieb?
-                            ├─ Ja → KEIN § 9-Antrag; Feststellungsantrag + ggf. Weiterbeschäftigung
-                            └─ Nein → § 9-Auflösungsantrag stellen (hilfsweise oder hauptsächlich)
-                                      → Hat Mandant neuen Job?
-                                          ├─ Ja → Auch § 12 KSchG prüfen (kein neuer Job nach Urteil erforderlich)
-                                          └─ Nein → § 9-Antrag ist der richtige Weg
+ └─ Ja → Kündigung unwirksam oder wahrscheinlich unwirksam?
+ └─ Ja → Mandant will zurück in Betrieb?
+ ├─ Ja → KEIN § 9-Antrag; Feststellungsantrag + ggf. Weiterbeschäftigung
+ └─ Nein → § 9-Auflösungsantrag stellen (hilfsweise oder hauptsächlich)
+ → Hat Mandant neuen Job?
+ ├─ Ja → Auch § 12 KSchG prüfen (kein neuer Job nach Urteil erforderlich)
+ └─ Nein → § 9-Antrag ist der richtige Weg
 ```
 
 ## Zeitpunkt des Auflösungsantrags
@@ -333,19 +333,19 @@ Lässt das LAG die Revision nicht zu, kann **Nichtzulassungsbeschwerde** eingele
 ```
 Erstinstanzliches Urteil des ArbG erhalten?
 └─ Ja → Berufung prüfen:
-         ├─ Beschwerdewert > 600 EUR? → Ja: Berufung statthaft
-         ├─ Kündigung streitig (§ 4 KSchG)? → Ja: immer statthaft
-         └─ Arbeitsgericht hat Berufung zugelassen? → Ja: statthaft
+ ├─ Beschwerdewert > 600 EUR? → Ja: Berufung statthaft
+ ├─ Kündigung streitig (§ 4 KSchG)? → Ja: immer statthaft
+ └─ Arbeitsgericht hat Berufung zugelassen? → Ja: statthaft
 
-         Frist läuft: 1 Monat Einlegung, 2 Monate Begründung
-         Anwalt mandatieren (Anwaltszwang § 11 Abs. 4 ArbGG)!
+ Frist läuft: 1 Monat Einlegung, 2 Monate Begründung
+ Anwalt mandatieren (Anwaltszwang § 11 Abs. 4 ArbGG)!
 
 LAG-Urteil erhalten?
 └─ Revision prüfen:
-         ├─ LAG hat Revision zugelassen? → § 72 ArbGG
-         └─ Nein: Nichtzulassungsbeschwerde (§ 72a ArbGG) prüfen
-            → Grundsatz, Divergenz oder Verfahrensrüge?
-            → Frist: 1 Monat ab Zustellung
+ ├─ LAG hat Revision zugelassen? → § 72 ArbGG
+ └─ Nein: Nichtzulassungsbeschwerde (§ 72a ArbGG) prüfen
+ → Grundsatz, Divergenz oder Verfahrensrüge?
+ → Frist: 1 Monat ab Zustellung
 ```
 
 ## Praktische Hinweise
@@ -459,8 +459,8 @@ Ein umgangssprachlicher Begriff für eine bestimmte Prozessstrategie: Der Arbeit
 ```
 Klageerwiderung eingegangen?
 └─ Neue Tatsachen vorgetragen?
-    ├─ Ja → Schriftsatzfrist beantragen; Replik vorbereiten
-    └─ Nein → Erwidern oder ruhen lassen
+ ├─ Ja → Schriftsatzfrist beantragen; Replik vorbereiten
+ └─ Nein → Erwidern oder ruhen lassen
 
 Betriebsgröße bestritten?
 └─ Ja → Beweismittel zur Betriebsgröße sammeln; Arbeitgeber trägt Beweislast

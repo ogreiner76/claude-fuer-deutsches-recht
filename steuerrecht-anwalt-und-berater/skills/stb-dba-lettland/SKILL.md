@@ -135,12 +135,12 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Distribution-Tax-System (seit 2018), CFC, Pillar Two.
 3. **Kurzantwort**: DBA-Lettland 1997 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-LV 1997).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
-   - Methodenartikel.
-   - § 7 ff. AStG-CFC bei Distribution-Tax-System; § 50d Abs. 3 EStG.
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-LV 1997).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+ - Methodenartikel.
+ - § 7 ff. AStG-CFC bei Distribution-Tax-System; § 50d Abs. 3 EStG.
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: Distribution-Tax-System seit 2018, CFC, Pillar Two, MLI-Status.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

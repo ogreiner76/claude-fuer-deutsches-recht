@@ -1,13 +1,13 @@
 ---
 name: anti-dilution-articles-association
-description: "Nutze dies, wenn Anti Dilution Protection, Articles Association Satzung im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Anti Dilution Protection, Articles Association Satzung prüfen.; Erstelle eine Arbeitsfassung zu Anti Dilution Protection, Articles Association Satzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anti Dilution Protection, Articles Association Satzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anti Dilution Protection, Articles Association Satzung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anti Dilution Protection, Articles Association Satzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

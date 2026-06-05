@@ -1,13 +1,13 @@
 ---
 name: chn-dual-chn-us-chn-china-chn-rare
-description: "Nutze dies, wenn Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials prüfen.; Erstelle eine Arbeitsfassung zu Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

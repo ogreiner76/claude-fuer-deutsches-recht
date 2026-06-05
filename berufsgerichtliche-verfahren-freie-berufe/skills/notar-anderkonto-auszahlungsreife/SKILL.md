@@ -1,13 +1,13 @@
 ---
 name: notar-anderkonto-auszahlungsreife
-description: "Nutze dies, wenn Notar Anderkonto Auszahlungsreife Praevention, Notar Anderkonto Auszahlungsreife Verteidigung, Notar Geldwaesche Immobilie Praevention, Notar Geldwaesche Immobilie Verteidigung im Plugin Berufsgerichtliche Verfahren Freie Berufe konkret bearbeitet werden soll. Auslöser: Bitte Notar Anderkonto Auszahlungsreife Praevention, Notar Anderkonto Auszahlungsreife Verteidigung, Notar Geldwaesche Immobilie Praevention, Notar Geldwaesche Immobilie Verteidigung prüfen.; Erstelle eine Arbeitsfassung zu Notar Anderkonto Auszahlungsreife Praevention, Notar Anderkonto Auszahlungsreife Verteidigung, Notar Geldwaesche Immobilie Praevention, Notar Geldwaesche Immobilie Verteidigung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notar Anderkonto Auszahlungsreife Praevention, Notar Anderkonto Auszahlungsreife Verteidigung, Notar Geldwaesche Immobilie Praevention, Notar Geldwaesche Immobilie Verteidigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notar Anderkonto Auszahlungsreife Praevention, Notar Anderkonto Auszahlungsreife Verteidigung, Notar Geldwaesche Immobilie Praevention, Notar Geldwaesche Immobilie Verteidigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notar Anderkonto Auszahlungsreife Praevention, Notar Anderkonto Auszahlungsreife Verteidigung, Notar Geldwaesche Immobilie Praevention, Notar Geldwaesche Immobilie Verteidigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: anlage-fehlerkatalog
-description: "Nutze dies, wenn Anlage Fehlerkatalog im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Anlage Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Anlage Fehlerkatalog

@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu vergleichsverhandlung strategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)
@@ -13,7 +13,7 @@ description: "Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext,
 
 ## Fachkern: Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)
 
-- **Spezialfrage (Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)):** Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Spezialfrage (Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)):** Arbeitsmodul zu vergleichsverhandlung strategie: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
 

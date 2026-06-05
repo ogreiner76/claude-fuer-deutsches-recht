@@ -1,13 +1,13 @@
 ---
 name: vertrieb-regulierte-vertriebsumstellung
-description: "Nutze dies, wenn Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

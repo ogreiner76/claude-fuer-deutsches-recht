@@ -1,34 +1,34 @@
 ---
 name: kanzlei-fristennotiz-orientierung-ehevertrag
-description: "Nutze dies, wenn Spezial Kanzlei Fristennotiz Und Naechster Schritt, Spezial Orientierung Fristen Form Und Zustaendigkeit, Ehevertrag Scheidungsfolgenkontrolle, Spezial Ehevertrag Red Team Und Qualitaetskontrolle, Famr Trennungsjahr Praxis im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Kanzlei Fristennotiz Und Naechster Schritt, Spezial Orientierung Fristen Form Und Zustaendigkeit, Ehevertrag Scheidungsfolgenkontrolle, Spezial Ehevertrag Red Team Und Qualitaetskontrolle, Famr Trennungsjahr Praxis prüfen.; Erstelle eine Arbeitsfassung zu Spezial Kanzlei Fristennotiz Und Naechster Schritt, Spezial Orientierung Fristen Form Und Zustaendigkeit, Ehevertrag Scheidungsfolgenkontrolle, Spezial Ehevertrag Red Team Und Qualitaetskontrolle, Famr Trennungsjahr Praxis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kanzlei Fristennotiz Und Naechster Schritt, Orientierung Fristen Form Und Zustaendigkeit, Ehevertrag Scheidungsfolgenkontrolle, Ehevertrag Red Team Und Qualitaetskontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Kanzlei Fristennotiz Und Naechster Schritt, Spezial Orientierung Fristen Form Und Zustaendigkeit, Ehevertrag Scheidungsfolgenkontrolle, Spezial Ehevertrag Red Team Und Qualitaetskontrolle, Famr Trennungsjahr Praxis
+# Kanzlei Fristennotiz Und Naechster Schritt, Orientierung Fristen Form Und Zustaendigkeit, Ehevertrag Scheidungsfolgenkontrolle, Ehevertrag Red Team Und Qualitaetskontrolle, Famr Trennungsjahr Praxis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Fristennotiz Und Naechster Schritt, Orientierung Fristen Form Und Zustaendigkeit, Ehevertrag Scheidungsfolgenkontrolle, Ehevertrag Red Team Und Qualitaetskontrolle, Famr Trennungsjahr Praxis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-kanzlei-fristennotiz-und-naechster-schritt` | Kanzlei: Fristennotiz und nächster Schritt im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-orientierung-fristen-form-und-zustaendigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-kanzlei-fristennotiz-und-naechster-schritt` | Kanzlei: Fristennotiz und nächster Schritt im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-orientierung-fristen-form-und-zustaendigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `ehevertrag-scheidungsfolgenkontrolle` | Ehevertrag und Scheidungsfolgenkontrolle: Wirksamkeit, Ausübungskontrolle, Kernbereichslehre und Verhandlungsdokumentation.; Normanker: BGB §§ 138 und 242; Versorgungsausgleich, Unterhalt, Zugewinn; BGH live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
-| `spezial-ehevertrag-red-team-und-qualitaetskontrolle` | Ehevertrag: Red-Team und Qualitätskontrolle im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-ehevertrag-red-team-und-qualitaetskontrolle` | Ehevertrag: Red-Team und Qualitätskontrolle im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `famr-trennungsjahr-praxis` | Trennungsjahr in der Praxis § 1565 BGB: Voraussetzungen, Beleg, Trennung innerhalb der Ehewohnung, Ausnahmen Haertefall. Praxistipps fuer Beweissicherung, Schriftverkehr, Mandantenleitfaden. Schnittstelle Steuerrecht (Steuerklassenwechsel). |
 
 ## Arbeitsweg
 
-Für **Spezial Kanzlei Fristennotiz Und Naechster Schritt, Spezial Orientierung Fristen Form Und Zustaendigkeit, Ehevertrag Scheidungsfolgenkontrolle, Spezial Ehevertrag Red Team Und Qualitaetskontrolle, Famr Trennungsjahr Praxis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kanzlei Fristennotiz Und Naechster Schritt, Orientierung Fristen Form Und Zustaendigkeit, Ehevertrag Scheidungsfolgenkontrolle, Ehevertrag Red Team Und Qualitaetskontrolle, Famr Trennungsjahr Praxis** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-kanzlei-fristennotiz-und-naechster-schritt`
 
-**Fokus:** Kanzlei: Fristennotiz und nächster Schritt im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Kanzlei: Fristennotiz und nächster Schritt im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Kanzlei: Fristennotiz und nächster Schritt
 
@@ -42,7 +42,7 @@ Für **Spezial Kanzlei Fristennotiz Und Naechster Schritt, Spezial Orientierung 
 
 
 ## Spezialwissen: Kanzlei: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Kanzlei: Fristennotiz und nächster Schritt / spezial kanzlei fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kanzlei: Fristennotiz und nächster Schritt / kanzlei fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FamFG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-orientierung-fristen-form-und-zustaendigkeit`
 
-**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -92,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg / spezial orientierung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg / orientierung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FamFG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -150,7 +150,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Auftrag
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
 
 ## Normanker
 
@@ -166,7 +166,7 @@ BGB §§ 138, 242; Versorgungsausgleich, Unterhalt, Zugewinn; BGH live prüfen. 
 
 ## 4. `spezial-ehevertrag-red-team-und-qualitaetskontrolle`
 
-**Fokus:** Ehevertrag: Red-Team und Qualitätskontrolle im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Ehevertrag: Red-Team und Qualitätskontrolle im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Ehevertrag: Red-Team und Qualitätskontrolle
 
@@ -180,7 +180,7 @@ BGB §§ 138, 242; Versorgungsausgleich, Unterhalt, Zugewinn; BGH live prüfen. 
 
 
 ## Spezialwissen: Ehevertrag: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Ehevertrag: Red-Team und Qualitätskontrolle / spezial ehevertrag red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ehevertrag: Red-Team und Qualitätskontrolle / ehevertrag red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FamFG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

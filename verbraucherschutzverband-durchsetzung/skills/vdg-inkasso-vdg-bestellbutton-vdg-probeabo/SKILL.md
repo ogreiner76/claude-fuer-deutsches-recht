@@ -1,13 +1,13 @@
 ---
 name: vdg-inkasso-vdg-bestellbutton-vdg-probeabo
-description: "Nutze dies, wenn Vdg 102 Inkasso Konzerninkasso Musterfeststellung, Vdg 103 Bestellbutton Uklag Uwg Abmahnung, Vdg 104 Probeabo Widerruf Verbandsstrategie, Vdg 105 Schufa Scoring Dsgvo Verbandsfall im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 102 Inkasso Konzerninkasso Musterfeststellung, Vdg 103 Bestellbutton Uklag Uwg Abmahnung, Vdg 104 Probeabo Widerruf Verbandsstrategie, Vdg 105 Schufa Scoring Dsgvo Verbandsfall prüfen.; Erstelle eine Arbeitsfassung zu Vdg 102 Inkasso Konzerninkasso Musterfeststellung, Vdg 103 Bestellbutton Uklag Uwg Abmahnung, Vdg 104 Probeabo Widerruf Verbandsstrategie, Vdg 105 Schufa Scoring Dsgvo Verbandsfall.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vdg 102 Inkasso Konzerninkasso Musterfeststellung, Vdg 103 Bestellbutton Uklag Uwg Abmahnung, Vdg 104 Probeabo Widerruf Verbandsstrategie, Vdg 105 Schufa Scoring Dsgvo Verbandsfall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vdg 102 Inkasso Konzerninkasso Musterfeststellung, Vdg 103 Bestellbutton Uklag Uwg Abmahnung, Vdg 104 Probeabo Widerruf Verbandsstrategie, Vdg 105 Schufa Scoring Dsgvo Verbandsfall
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 102 Inkasso Konzerninkasso Musterfeststellung, Vdg 103 Bestellbutton Uklag Uwg Abmahnung, Vdg 104 Probeabo Widerruf Verbandsstrategie, Vdg 105 Schufa Scoring Dsgvo Verbandsfall** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -29,10 +29,10 @@ Rueckfrage nur wenn unklar: *"Welche Methodik liegt der Ressortdarstellung zugru
 
 ```
 Erfuellungsaufwand (jaehrlich)
-   = Σ (Aufwand pro Fall × Fallzahl pro Jahr)
+ = Σ (Aufwand pro Fall × Fallzahl pro Jahr)
 
 Aufwand pro Fall
-   = Zeitaufwand × Lohnsatz + Sachkosten + externe Dienstleistungskosten
+ = Zeitaufwand × Lohnsatz + Sachkosten + externe Dienstleistungskosten
 ```
 
 ## Pruefraster / Schritt fuer Schritt

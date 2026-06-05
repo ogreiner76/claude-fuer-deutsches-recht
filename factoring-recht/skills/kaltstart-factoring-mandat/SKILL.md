@@ -1,6 +1,6 @@
 ---
 name: kaltstart-factoring-mandat
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart Factoring-Mandat."
+description: "Nutze dies zum Einstieg in Kaltstart Factoring-Mandat: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart Factoring-Mandat

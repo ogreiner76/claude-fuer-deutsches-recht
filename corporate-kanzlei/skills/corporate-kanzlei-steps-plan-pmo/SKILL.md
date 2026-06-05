@@ -154,37 +154,37 @@ KW: [Nr.] / Datum: [DATUM]
 Erstellt von: [PMO-Lead]
 
 1. AMPELSTATUS: [GRUEN / GELB / ROT]
-   GRUEN: Alle Workstreams planmaessig
-   GELB: [Beschreibung des Problems / Risikos]
-   ROT: [Kritisches Problem; sofortige Eskalation]
+ GRUEN: Alle Workstreams planmaessig
+ GELB: [Beschreibung des Problems / Risikos]
+ ROT: [Kritisches Problem; sofortige Eskalation]
 
 2. MILESTONE-STATUS
-   | Milestone | Faellig | Status | Naechste Aktion |
-   |-----------|---------|--------|----------------|
-   | Signing | [Datum] | [On track / Delayed] | [Massnahme] |
-   | Kartellfreigabe | [Datum] | [Angemeldet / Phase I] | [Follow-up] |
-   | FDI-Nichtuntersagung | [Datum] | [Angemeldet] | [...] |
-   | Closing | [Datum] | [Auf Kurs] | [...] |
+ | Milestone | Faellig | Status | Naechste Aktion |
+ |-----------|---------|--------|----------------|
+ | Signing | [Datum] | [On track / Delayed] | [Massnahme] |
+ | Kartellfreigabe | [Datum] | [Angemeldet / Phase I] | [Follow-up] |
+ | FDI-Nichtuntersagung | [Datum] | [Angemeldet] | [...] |
+ | Closing | [Datum] | [Auf Kurs] | [...] |
 
 3. WORKSTREAM-STATUS
-   | Workstream | Lead | Status | Offene Punkte |
-   |-----------|------|--------|---------------|
-   | Legal DD | [Name] | Abgeschlossen | Litigation-Frage offen |
-   | Tax DD | [Name] | 90 % | Betriebspruefungs-Details ausstehend |
-   | Regulatory | [Name] | Phase I | BKartA-Rueckfrage am [Datum] |
+ | Workstream | Lead | Status | Offene Punkte |
+ |-----------|------|--------|---------------|
+ | Legal DD | [Name] | Abgeschlossen | Litigation-Frage offen |
+ | Tax DD | [Name] | 90 % | Betriebspruefungs-Details ausstehend |
+ | Regulatory | [Name] | Phase I | BKartA-Rueckfrage am [Datum] |
 
 4. RISIKEN
-   | Risiko | Eintrittswahr. | Auswirkung | Massnahme |
-   |--------|----------------|-----------|-----------|
-   | [Risiko 1] | [%] | [Hoch] | [Massnahme] |
+ | Risiko | Eintrittswahr. | Auswirkung | Massnahme |
+ |--------|----------------|-----------|-----------|
+ | [Risiko 1] | [%] | [Hoch] | [Massnahme] |
 
 5. ENTSCHEIDUNGSBEDARF
-   - [Offener Punkt] → Entscheidung durch [NAME] bis [DATUM]
+ - [Offener Punkt] → Entscheidung durch [NAME] bis [DATUM]
 
 6. NAECHSTE WOCHE
-   | Aktion | Owner | Datum |
-   |--------|-------|-------|
-   | [Aktion 1] | [Name] | [Datum] |
+ | Aktion | Owner | Datum |
+ |--------|-------|-------|
+ | [Aktion 1] | [Name] | [Datum] |
 ```
 
 ## Schritt-fuer-Schritt-Workflow

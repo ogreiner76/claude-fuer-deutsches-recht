@@ -1,13 +1,13 @@
 ---
 name: ihl-joint-ihl-manufacturing-ihl-oem-ihl
-description: "Nutze dies, wenn Ihl 065 Joint Venture Trade, Ihl 066 Manufacturing Agreement, Ihl 067 Oem Odm Private Label, Ihl 068 Tooling And Molds im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 065 Joint Venture Trade, Ihl 066 Manufacturing Agreement, Ihl 067 Oem Odm Private Label, Ihl 068 Tooling And Molds prüfen.; Erstelle eine Arbeitsfassung zu Ihl 065 Joint Venture Trade, Ihl 066 Manufacturing Agreement, Ihl 067 Oem Odm Private Label, Ihl 068 Tooling And Molds.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ihl 065 Joint Venture Trade, Ihl 066 Manufacturing Agreement, Ihl 067 Oem Odm Private Label, Ihl 068 Tooling And Molds: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 065 Joint Venture Trade, Ihl 066 Manufacturing Agreement, Ihl 067 Oem Odm Private Label, Ihl 068 Tooling And Molds
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 065 Joint Venture Trade, Ihl 066 Manufacturing Agreement, Ihl 067 Oem Odm Private Label, Ihl 068 Tooling And Molds** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

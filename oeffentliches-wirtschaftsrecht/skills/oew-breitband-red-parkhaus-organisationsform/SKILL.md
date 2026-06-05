@@ -1,13 +1,13 @@
 ---
 name: oew-breitband-red-parkhaus-organisationsform
-description: "Nutze dies, wenn Oew 080 Breitband Red Flags Listen, Oew 081 Parkhaus Organisationsform Prüfen, Oew 082 Parkhaus Vergabeweg Waehlen, Oew 083 Parkhaus Beihilfe Markieren im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Oew 080 Breitband Red Flags Listen, Oew 081 Parkhaus Organisationsform Prüfen, Oew 082 Parkhaus Vergabeweg Waehlen, Oew 083 Parkhaus Beihilfe Markieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oew 080 Breitband Red Flags Listen, Oew 081 Parkhaus Organisationsform Prüfen, Oew 082 Parkhaus Vergabeweg Waehlen, Oew 083 Parkhaus Beihilfe Markieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oew 080 Breitband Red Flags Listen, Oew 081 Parkhaus Organisationsform Prüfen, Oew 082 Parkhaus Vergabeweg Waehlen, Oew 083 Parkhaus Beihilfe Markieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-aufhebung-rueckforderung
-description: "Nutze dies, wenn Laienhilfe Aufhebung Rueckforderung, Laienhilfe Beitragsbescheid Krankenkasse, Laienhilfe Berufskrankheit, Laienhilfe Berufung Beschwerde im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Laienhilfe Aufhebung Rueckforderung, Laienhilfe Beitragsbescheid Krankenkasse, Laienhilfe Berufskrankheit, Laienhilfe Berufung Beschwerde prüfen.; Erstelle eine Arbeitsfassung zu Laienhilfe Aufhebung Rueckforderung, Laienhilfe Beitragsbescheid Krankenkasse, Laienhilfe Berufskrankheit, Laienhilfe Berufung Beschwerde.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Laienhilfe Aufhebung Rueckforderung, Laienhilfe Beitragsbescheid Krankenkasse, Laienhilfe Berufskrankheit, Laienhilfe Berufung Beschwerde: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Laienhilfe Aufhebung Rueckforderung, Laienhilfe Beitragsbescheid Krankenkasse, Laienhilfe Berufskrankheit, Laienhilfe Berufung Beschwerde
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Aufhebung Rueckforderung, Laienhilfe Beitragsbescheid Krankenkasse, Laienhilfe Berufskrankheit, Laienhilfe Berufung Beschwerde** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -254,9 +254,9 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Rechtsgrundlage:** § 9 SGB VII (Berufskrankheit), Berufskrankheitenverordnung (BKV) mit Anlage 1 (BK-Liste); §§ 26 ff. SGB VII (Leistungen); §§ 56 ff. SGB VII (Renten bei Minderung der Erwerbsfaehigkeit, MdE).
 - **Zustaendigkeit:** zustaendige Berufsgenossenschaft (gewerblich) bzw. Unfallkasse (oeffentlicher Dienst, Schule, Studium); BG-Liste DGUV.
 - **Drei Anerkennungsstufen** § 9 SGB VII:
-  - (a) Listen-Berufskrankheit (Anlage 1 BKV, z. B. BK 2108 Lendenwirbelsaeule, BK 4101 Asbestose, BK 5101 Hauterkrankungen).
-  - (b) Quasi-Listen-Berufskrankheit nach § 9 II SGB VII bei neuen Erkenntnissen.
-  - (c) Schon-erkrankungs-Anerkennung extrem selten.
+ - (a) Listen-Berufskrankheit (Anlage 1 BKV, z. B. BK 2108 Lendenwirbelsaeule, BK 4101 Asbestose, BK 5101 Hauterkrankungen).
+ - (b) Quasi-Listen-Berufskrankheit nach § 9 II SGB VII bei neuen Erkenntnissen.
+ - (c) Schon-erkrankungs-Anerkennung extrem selten.
 - **Beweis Doppelkausalitaet:** (i) berufliche Exposition / Belastung in haftungsbegruendender Kausalitaet; (ii) Krankheitsbild typisch durch Beruf - Wahrscheinlichkeit reicht (nicht Vollbeweis), BSG-staendige Rspr.
 - **Anzeige BK:** Arbeitgeber (§ 193 SGB VII) und Arzt (§ 202 SGB VII) sind verpflichtet; Patient kann selbst Anzeige machen.
 - **Leistungen:** Heilbehandlung (§ 27 SGB VII), Krankengeld, Verletztenrente bei MdE ab 20 % (§ 56 SGB VII), Pflege, Reha, ggf. Sterbegeld.

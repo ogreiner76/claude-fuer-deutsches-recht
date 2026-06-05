@@ -1,23 +1,23 @@
 ---
 name: ipr-art-versionierung-aenderungshistorie
-description: "Nutze dies, wenn Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie, Agb Werkleistung Vob B Aktuell, Agentur Marketing Agb, App Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie, Agb Werkleistung Vob B Aktuell, Agentur Marketing Agb, App Agb prüfen.; Erstelle eine Arbeitsfassung zu Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie, Agb Werkleistung Vob B Aktuell, Agentur Marketing Agb, App Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie, Agb Werkleistung Vob B Aktuell, Agentur Marketing Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie, Agb Werkleistung Vob B Aktuell, Agentur Marketing Agb, App Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie, Agb Werkleistung Vob B Aktuell, Agentur Marketing Agb, App Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `agb-und-ipr-art-6-rom-i-verbraucher` | AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswahl und Schiedsabrede. |
-| `agb-versionierung-aenderungshistorie` | Einstiegs- und Workflow-Skill für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `agb-versionierung-aenderungshistorie` | Einstiegs- und Arbeitsmodul für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 | `agb-werkleistung-vob-b-aktuell` | AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Aenderungsanordnung Klausel-fuer-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Aenderungen zum Bauvertragsrecht (§§ 650a ff. BGB). Liefert Pruefraster. |
-| `agentur-marketing-agb` | Branchen-Spezialskill für Agentur Marketing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `app-agb` | Branchen-Spezialskill für App AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `agentur-marketing-agb` | Branchen-Fachmodul für Agentur Marketing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `app-agb` | Branchen-Fachmodul für App AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 
 ## Arbeitsweg
 
@@ -77,7 +77,7 @@ Für **Agb Und Ipr Art 6 Rom I Verbraucher, Agb Versionierung Aenderungshistorie
 
 ## 2. `agb-versionierung-aenderungshistorie`
 
-**Fokus:** Einstiegs- und Workflow-Skill für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # AGB Versionierung Änderungshistorie
 
@@ -182,7 +182,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `agentur-marketing-agb`
 
-**Fokus:** Branchen-Spezialskill für Agentur Marketing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Agentur Marketing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Agentur Marketing AGB
 
@@ -237,7 +237,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `app-agb`
 
-**Fokus:** Branchen-Spezialskill für App AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für App AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # App AGB
 

@@ -1,6 +1,6 @@
 ---
 name: factoring-agb
-description: "Branchen-Spezialskill für Factoring AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Factoring AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Factoring AGB

@@ -1,6 +1,6 @@
 ---
 name: rom-007-res-sachen-und-einteilungen
-description: "Römisches Recht: Res Sachen Und Einteilungen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Res Sachen Und Einteilungen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Res Sachen Und Einteilungen

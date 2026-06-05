@@ -1,13 +1,13 @@
 ---
 name: berufspflicht-verhaeltnismaessigkeit
-description: "Nutze dies, wenn Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflicht Und Verhaeltnismaessigkeit Verteidigung, Berufsrecht Ki Nutzung Praevention, Berufsrecht Ki Nutzung Verteidigung im Plugin Berufsgerichtliche Verfahren Freie Berufe konkret bearbeitet werden soll. Auslöser: Bitte Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflicht Und Verhaeltnismaessigkeit Verteidigung, Berufsrecht Ki Nutzung Praevention, Berufsrecht Ki Nutzung Verteidigung prüfen.; Erstelle eine Arbeitsfassung zu Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflicht Und Verhaeltnismaessigkeit Verteidigung, Berufsrecht Ki Nutzung Praevention, Berufsrecht Ki Nutzung Verteidigung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflicht Und Verhaeltnismaessigkeit Verteidigung, Berufsrecht Ki Nutzung Praevention, Berufsrecht Ki Nutzung Verteidigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflicht Und Verhaeltnismaessigkeit Verteidigung, Berufsrecht Ki Nutzung Praevention, Berufsrecht Ki Nutzung Verteidigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Berufspflicht Und Verhaeltnismaessigkeit Praevention, Berufspflicht Und Verhaeltnismaessigkeit Verteidigung, Berufsrecht Ki Nutzung Praevention, Berufsrecht Ki Nutzung Verteidigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

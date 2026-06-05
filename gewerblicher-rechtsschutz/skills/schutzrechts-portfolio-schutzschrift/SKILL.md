@@ -1,13 +1,13 @@
 ---
 name: schutzrechts-portfolio-schutzschrift
-description: "Nutze dies, wenn Schutzrechts Portfolio, Schutzschrift Eilverfuegung, Spezial Abmahnung Compliance Dokumentation Und Akte im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Schutzrechts Portfolio, Schutzschrift Eilverfuegung, Spezial Abmahnung Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Schutzrechts Portfolio, Schutzschrift Eilverfuegung, Spezial Abmahnung Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schutzrechts Portfolio, Schutzschrift Eilverfuegung, Abmahnung Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Schutzrechts Portfolio, Schutzschrift Eilverfuegung, Spezial Abmahnung Compliance Dokumentation Und Akte
+# Schutzrechts Portfolio, Schutzschrift Eilverfuegung, Abmahnung Compliance Dokumentation Und Akte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schutzrechts Portfolio, Schutzschrift Eilverfuegung, Abmahnung Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Schutzrechts Portfolio, Schutzschrift Eilverfuegung, Spezial Abmahnung Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schutzrechts Portfolio, Schutzschrift Eilverfuegung, Abmahnung Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -96,10 +96,10 @@ Befehlsargument:
 Portfolio-Register initialisiert.
 
 Schutzrechte: [N]
-  Marken: [N]   ([N eingetragen] / [N angemeldet])
-  Patente: [N]  ([N erteilt] / [N angemeldet])
-  Designs: [N]
-  Domains: [N]
+ Marken: [N] ([N eingetragen] / [N angemeldet])
+ Patente: [N] ([N erteilt] / [N angemeldet])
+ Designs: [N]
+ Domains: [N]
 
 Fristen berechnet: [N]
 Anwaltlich verwaltet / Zuständigkeit TBD: [N] — mit Korrespondenzanwalt bestätigen
@@ -119,31 +119,31 @@ IP-PORTFOLIO-FRISTENBERICHT — [Datum]
 [Unternehmensname] — Fenster: nächste [N] Tage
 
 🔴 ERLOSCHEN / IN SCHONFRIST ([N])
-  [ID] / [Behörde] / [Typ] / [Bezeichnung]
-    [Handlung] — ursprünglich fällig [Datum], Schonfrist endet [Datum]
-    Status: [schonfrist / erloschen]
+ [ID] / [Behörde] / [Typ] / [Bezeichnung]
+ [Handlung] — ursprünglich fällig [Datum], Schonfrist endet [Datum]
+ Status: [schonfrist / erloschen]
 
 ⏰ FÄLLIG INNERHALB [N] TAGE ([N])
-  [ID] / [Behörde] / [Typ] / [Bezeichnung]
-    [Handlung] — fällig [Datum]
-    Grundlage: [z. B. "10. Jahrestag der Anmeldung, § 47 Abs. 1 MarkenG"]
-    [Anwalt: Kanzlei / Aktenzeichen — falls vorhanden]
+ [ID] / [Behörde] / [Typ] / [Bezeichnung]
+ [Handlung] — fällig [Datum]
+ Grundlage: [z. B. "10. Jahrestag der Anmeldung, § 47 Abs. 1 MarkenG"]
+ [Anwalt: Kanzlei / Aktenzeichen — falls vorhanden]
 
 🟡 BEVORSTEHEND (über 30 Tage, innerhalb [N] Tage)
-  [Liste]
+ [Liste]
 
 🌐 ANWALTLICH VERWALTET ([N])
-  [ID] / [Behörde] — verwaltet von [Korrespondenzanwalt]; direkt bestätigen
-  [ID] / [Behörde] — kein Korrespondenzanwalt eingetragen; mit --aktualisieren ergänzen
+ [ID] / [Behörde] — verwaltet von [Korrespondenzanwalt]; direkt bestätigen
+ [ID] / [Behörde] — kein Korrespondenzanwalt eingetragen; mit --aktualisieren ergänzen
 
 ❓ UNBEKANNT ([N])
-  [ID] — fehlendes [Feld]; Frist nicht berechenbar
-  Vor Verlassen auf diesen Bericht mit [DPMA / EUIPO / WIPO] abgleichen.
+ [ID] — fehlendes [Feld]; Frist nicht berechenbar
+ Vor Verlassen auf diesen Bericht mit [DPMA / EUIPO / WIPO] abgleichen.
 
 ZUSAMMENFASSUNG
-  Schutzrechte gesamt: [N]
-  Fristen im Fenster: [N]
-  Letzte Portfolioprüfung: [Datum]
+ Schutzrechte gesamt: [N]
+ Fristen im Fenster: [N]
+ Letzte Portfolioprüfung: [Datum]
 ```
 
 Schlusssatz: *"Aus Portfolio-Register berechnet. Jede Frist vor Handlung gegen DPMA DPMAdirektplus, EUIPO eSearch, WIPO Madrid Monitor oder das jeweilige Behördenregister verifizieren."*
@@ -225,30 +225,30 @@ Ausgabeformat:
 IP-PORTFOLIOPRÜFUNG — [Datum]
 
 FRISTENHYGIENE
-  In Schonfrist: [N] — sofortige Handlung vermeidet Erlöschen
-  Erloschen (nicht als aufgegeben markiert): [N] — Status bestätigen
-  Fehlende Fristenberechnung: [N] — Daten ergänzen oder anwaltlich verwalten markieren
+ In Schonfrist: [N] — sofortige Handlung vermeidet Erlöschen
+ Erloschen (nicht als aufgegeben markiert): [N] — Status bestätigen
+ Fehlende Fristenberechnung: [N] — Daten ergänzen oder anwaltlich verwalten markieren
 
 EINTRAGUNGSLÜCKEN
-  Markenanmeldungen > 18 Monate anhängig: [Liste]
-  Patentanmeldungen > 4 Jahre anhängig: [Liste]
+ Markenanmeldungen > 18 Monate anhängig: [Liste]
+ Patentanmeldungen > 4 Jahre anhängig: [Liste]
 
 BENUTZUNG (MARKEN)
-  § 49 MarkenG — Löschungsrisiko bei anhängenden Verlängerungen und unklarer Benutzung: [Liste]
+ § 49 MarkenG — Löschungsrisiko bei anhängenden Verlängerungen und unklarer Benutzung: [Liste]
 
 INHABER
-  Schutzrechte mit nicht aktiver/unklarer Inhaberbezeichnung: [N]
-  Inhaber-Bezeichnungsinkonsistenzen: [Liste]
+ Schutzrechte mit nicht aktiver/unklarer Inhaberbezeichnung: [N]
+ Inhaber-Bezeichnungsinkonsistenzen: [Liste]
 
 ABLAUFHORIZONT (24 MONATE)
-  Ablaufende Patente: [Liste]
+ Ablaufende Patente: [Liste]
 
 MARKEN-WATCH
-  Eingetragene Marken nicht im Watch-Service: [Liste]
+ Eingetragene Marken nicht im Watch-Service: [Liste]
 
 EMPFOHLENE MASSNAHMEN
-  1. [höchste Priorität]
-  2. [etc.]
+ 1. [höchste Priorität]
+ 2. [etc.]
 ```
 
 ## Ausgabeformat
@@ -265,13 +265,13 @@ Fristen-Bericht, Prüfbericht oder Erfassungsbestätigung je nach Modus. Immer m
 > Fenster: nächste 90 Tage
 >
 > ⏰ FÄLLIG INNERHALB 90 TAGE (2)
->   TM-DPMA-012 / DPMA / Marke / ALPHAWAVE
->     Verlängerung § 47 Abs. 1 MarkenG — fällig 2025-08-20
->     Grundlage: 10. Jahrestag der Eintragung
+> TM-DPMA-012 / DPMA / Marke / ALPHAWAVE
+> Verlängerung § 47 Abs. 1 MarkenG — fällig 2025-08-20
+> Grundlage: 10. Jahrestag der Eintragung
 >
->   PAT-EP-003 / EPO / Patent / Verfahren zur Datenübertragung
->     Jahresgebühr Jahr 5 — fällig 2025-09-01
->     Grundlage: Art. 86 EPÜ; Zahlung beim nationalen Amt (DPMA)
+> PAT-EP-003 / EPO / Patent / Verfahren zur Datenübertragung
+> Jahresgebühr Jahr 5 — fällig 2025-09-01
+> Grundlage: Art. 86 EPÜ; Zahlung beim nationalen Amt (DPMA)
 >
 > *Berechnungen aus Portfolio-Register. Vor Handlung gegen DPMA DPMAdirektplus / EUIPO eSearch / WIPO Madrid Monitor verifizieren.*
 
@@ -379,12 +379,12 @@ Es wird beantragt:
 1. Der Antrag der [potenzielle Antragstellerin] wird abgelehnt.
 
 2. Hilfsweise: Über den Antrag wird mündlich verhandelt
-   und der Anhörung der Schutzschrift-Einreicherin
-   Gelegenheit gegeben.
+ und der Anhörung der Schutzschrift-Einreicherin
+ Gelegenheit gegeben.
 
 3. Höchst hilfsweise: Bei Erlass einer einstweiligen
-   Verfügung wird Sicherheit Leistung in angemessener
-   Höhe angeordnet.
+ Verfügung wird Sicherheit Leistung in angemessener
+ Höhe angeordnet.
 ```
 
 ## Schritt 4 — Glaubhaftmachung
@@ -554,37 +554,37 @@ Mandatsbezug: Kanzlei versendet im Auftrag einer Mandantin monatlich Dutzende Ab
 Abmahnakte [Mandant] ./. [Gegner] – [Datum]
 │
 ├── 1. Basisdokumente
-│   ├── Sachverhaltsprotokoll (Erstgespräch)
-│   ├── Vollmacht des Mandanten
-│   └── Mandate-Acceptance-Check (Interessenkonflikt, Honorarvereinbarung)
+│ ├── Sachverhaltsprotokoll (Erstgespräch)
+│ ├── Vollmacht des Mandanten
+│ └── Mandate-Acceptance-Check (Interessenkonflikt, Honorarvereinbarung)
 │
 ├── 2. Schutzrechtsnachweis
-│   ├── Registerauszug (DPMA/EUIPO/Patentrolle)
-│   └── Schutzrechtsübersicht (Klassen, Laufzeit, Lizenzsituation)
+│ ├── Registerauszug (DPMA/EUIPO/Patentrolle)
+│ └── Schutzrechtsübersicht (Klassen, Laufzeit, Lizenzsituation)
 │
 ├── 3. Verletzungsnachweis
-│   ├── Screenshot mit Datum, URL, Metadaten
-│   ├── Kaufbeleg oder Liefernachweis
-│   └── Eidesstattliche Versicherung des Mandanten
+│ ├── Screenshot mit Datum, URL, Metadaten
+│ ├── Kaufbeleg oder Liefernachweis
+│ └── Eidesstattliche Versicherung des Mandanten
 │
 ├── 4. Abmahnschreiben
-│   ├── Entwurf v1 mit Revisionsverlauf
-│   ├── Freigegebene Fassung
-│   └── Zustellungsnachweis (Einschreiben, GV-Urkunde, beA-Protokoll)
+│ ├── Entwurf v1 mit Revisionsverlauf
+│ ├── Freigegebene Fassung
+│ └── Zustellungsnachweis (Einschreiben, GV-Urkunde, beA-Protokoll)
 │
 ├── 5. Reaktion der Gegenseite
-│   ├── Eingehende Unterlassungserklärung
-│   ├── Modifizierte UE oder Ablehnungsschreiben
-│   └── Korrespondenz
+│ ├── Eingehende Unterlassungserklärung
+│ ├── Modifizierte UE oder Ablehnungsschreiben
+│ └── Korrespondenz
 │
 ├── 6. Folgeentscheidungen
-│   ├── Entscheidungsvorlage (UE angenommen / abgelehnt / EV)
-│   └── EV-Antrag (falls gestellt)
+│ ├── Entscheidungsvorlage (UE angenommen / abgelehnt / EV)
+│ └── EV-Antrag (falls gestellt)
 │
 └── 7. Fristendokumentation
-    ├── Reaktionsfrist an Gegner
-    ├── Dringlichkeitsfrist (EV)
-    └── Verjährungsfrist (Schadensersatz)
+ ├── Reaktionsfrist an Gegner
+ ├── Dringlichkeitsfrist (EV)
+ └── Verjährungsfrist (Schadensersatz)
 ```
 
 ## Compliance-Checkliste Abmahnung VERSAND

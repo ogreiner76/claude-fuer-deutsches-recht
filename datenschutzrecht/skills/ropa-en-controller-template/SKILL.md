@@ -31,7 +31,7 @@ g) where possible, a general description of the technical and organisational mea
 
 Article 30(3) requires written or electronic form; Article 30(4) makes the RoPA available to the supervisory authority on request; Article 30(5) provides a narrow SME exemption that rarely applies in practice.
 
-## Workflow / Checklist
+## / Checklist
 
 1. Fill in the cover sheet with controller details, representative (if applicable), and DPO.
 2. One row per processing activity (one business process = one row).
@@ -47,14 +47,14 @@ Article 30(3) requires written or electronic form; Article 30(4) makes the RoPA 
 ### Cover Sheet
 
 ```
-Controller:               [Company / Firm Name]
-Address:                  [...]
+Controller: [Company / Firm Name]
+Address: [...]
 Representative (Art. 27): [if applicable]
-Data Protection Officer:  [Name, contact]
-Supervisory Authority:    [competent DPA]
-Created:                  [date]
-Last amended:             [date]
-Version:                  [v1.0]
+Data Protection Officer: [Name, contact]
+Supervisory Authority: [competent DPA]
+Created: [date]
+Last amended: [date]
+Version: [v1.0]
 ```
 
 ### Table (mandatory columns)
@@ -70,7 +70,7 @@ Version:                  [v1.0]
 
 ```
 Version 1.0 – Initial draft – [date, author]
-Version 1.1 – [change]      – [date, author]
+Version 1.1 – [change] – [date, author]
 ```
 
 ## Common mistakes

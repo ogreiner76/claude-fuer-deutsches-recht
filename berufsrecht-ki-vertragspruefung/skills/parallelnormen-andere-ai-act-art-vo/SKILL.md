@@ -1,13 +1,13 @@
 ---
 name: parallelnormen-andere-ai-act-art-vo
-description: "Nutze dies, wenn Parallelnormen Andere Berufe, Ai Act Rollen Kanzlei Provider Deployer Api, Art 50 Ki Vo Schriftsatz Marketing Chatbot im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Parallelnormen Andere Berufe, Ai Act Rollen Kanzlei Provider Deployer Api, Art 50 Ki Vo Schriftsatz Marketing Chatbot prüfen.; Erstelle eine Arbeitsfassung zu Parallelnormen Andere Berufe, Ai Act Rollen Kanzlei Provider Deployer Api, Art 50 Ki Vo Schriftsatz Marketing Chatbot.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Parallelnormen Andere Berufe, Ai Act Rollen Kanzlei Provider Deployer Api, Art 50 Ki Vo Schriftsatz Marketing Chatbot: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Parallelnormen Andere Berufe, Ai Act Rollen Kanzlei Provider Deployer Api, Art 50 Ki Vo Schriftsatz Marketing Chatbot
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Parallelnormen Andere Berufe, Ai Act Rollen Kanzlei Provider Deployer Api, Art 50 Ki Vo Schriftsatz Marketing Chatbot** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -147,13 +147,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Norm-Adapter-Tabelle [DATUM]
 Beteiligte Berufsgruppen: [LISTE]
 
-| Beruf              | Verschwiegenheit      | Dienstleisterregelung | § 203 StGB Abs. |
+| Beruf | Verschwiegenheit | Dienstleisterregelung | § 203 StGB Abs. |
 |--------------------|-----------------------|-----------------------|-----------------|
-| Rechtsanwalt       | § 43a Abs. 2 BRAO     | § 43e BRAO            | Abs. 1 Nr. 3    |
-| Steuerberater      | § 57 Abs. 1 StBerG    | § 62a StBerG          | Abs. 1 Nr. 3    |
-| Wirtschaftsprüfer | § 43 Abs. 1 WPO       | § 50a WPO             | Abs. 1 Nr. 3    |
-| Patentanwalt       | § 39a Abs. 2 PAO      | § 39c PAO             | Abs. 1 Nr. 3    |
-| Notar              | § 18 BNotO            | § 26a BNotO           | Abs. 1 Nr. 1    |
+| Rechtsanwalt | § 43a Abs. 2 BRAO | § 43e BRAO | Abs. 1 Nr. 3 |
+| Steuerberater | § 57 Abs. 1 StBerG | § 62a StBerG | Abs. 1 Nr. 3 |
+| Wirtschaftsprüfer | § 43 Abs. 1 WPO | § 50a WPO | Abs. 1 Nr. 3 |
+| Patentanwalt | § 39a Abs. 2 PAO | § 39c PAO | Abs. 1 Nr. 3 |
+| Notar | § 18 BNotO | § 26a BNotO | Abs. 1 Nr. 1 |
 
 Anzuwendende Norm (strengste bei gemischter Sozietät): § [NORM]
 Besonderheiten: [SONDERREGELN]

@@ -1,19 +1,19 @@
 ---
 name: ifap-pruefentscheidung-vbuh
-description: "Nutze dies, wenn Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung im Plugin Insolvenzforderungsanmeldungspruefung konkret bearbeitet werden soll. Auslöser: Bitte Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `ifap-kommandocenter` | Kommandocenter Insolvenzforderungsanmeldungsprüfung: Steuerung des gesamten Prüfpfads von Eingang bis Tabelle. Anwendungsfall Insolvenzverwalter oder Kanzlei erhält neuen Forderungsstapel und muss schnell den richtigen Prüfschritt finden. §§ 174-189 InsO Forderungsanmeldung und Prüfung. Prüfraster Verfahrensstand und Rolle erkennen, naechsten sicheren Schritt bestimmen, Fristen und Risiken anzeigen. Output Deal-Ampel mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Quality-Gate für Endkontrolle. |
+| `ifap-kommandocenter` | Kommandocenter Insolvenzforderungsanmeldungsprüfung: Steuerung des gesamten Prüfpfads von Eingang bis Tabelle. Anwendungsfall Insolvenzverwalter oder Kanzlei erhält neuen Forderungsstapel und muss schnell den richtigen Prüfschritt finden. §§ 174-189 InsO Forderungsanmeldung und Prüfung. Prüfraster Verfahrensstand und Rolle erkennen, naechsten sicheren Schritt bestimmen, Fristen und Risiken anzeigen. Output Deal-Ampel mit Weiterleitung zum passendes Fachmodul. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Quality-Gate für Endkontrolle. |
 | `ifap-pruefentscheidung` | Prüfentscheidung Forderung festzustellen oder zu bestreiten: Anwendungsfall nach abgeschlossener Prüfung trifft Insolvenzverwalter Entscheidung über Feststellung Teilfeststellung Bestreiten oder Rückstellung. § 176 InsO Prüfungstermin, § 178 InsO Feststellungswirkung Bestreiten Tabelle. Prüfraster alle Belege verarbeitet, Besteuerungsgrundlage, Rang, vbuH, plausible Bestreitungsgründe. Output Prüfentscheidungsprotokoll mit Begründung und tabellenreifer Status. Abgrenzung zu Quality-Gate für Vollständigkeitsprüfung und zu Prüfungstermin-176. |
 | `ifap-vbuh-pruefung` | Vorsätzlich begangene unerlaubte Handlung und Steuerstraftat in Insolvenzanmeldung prüfen: Anwendungsfall Gläubiger meldet Forderung mit Kennzeichnung als vbuH vorsaetzliche unerlaubte Handlung Unterhaltspflichtverletzung oder Steuerstraftat an was Restschuldbefreiung blockiert. §§ 302 Nr. 1 InsO vbuH, § 850f Abs. 2 ZPO, §§ 174 InsO. Prüfraster Tatsachengrundlage vbuH prüfen, Streitigkeit vorbereiten, Restschuldbefreiungsrelevanz einordnen, Schuldnerwiderspruch antizipieren. Output vbuH-Prüfungsprotokoll mit Begründungsanforderungen. Abgrenzung zu Rang-Nachrang und zu Prüfentscheidung. |
 
@@ -26,7 +26,7 @@ Für **Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Prüfung** zuerst 
 
 ## 1. `ifap-kommandocenter`
 
-**Fokus:** Kommandocenter Insolvenzforderungsanmeldungsprüfung: Steuerung des gesamten Prüfpfads von Eingang bis Tabelle. Anwendungsfall Insolvenzverwalter oder Kanzlei erhält neuen Forderungsstapel und muss schnell den richtigen Prüfschritt finden. §§ 174-189 InsO Forderungsanmeldung und Prüfung. Prüfraster Verfahrensstand und Rolle erkennen, naechsten sicheren Schritt bestimmen, Fristen und Risiken anzeigen. Output Deal-Ampel mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Quality-Gate für Endkontrolle.
+**Fokus:** Kommandocenter Insolvenzforderungsanmeldungsprüfung: Steuerung des gesamten Prüfpfads von Eingang bis Tabelle. Anwendungsfall Insolvenzverwalter oder Kanzlei erhält neuen Forderungsstapel und muss schnell den richtigen Prüfschritt finden. §§ 174-189 InsO Forderungsanmeldung und Prüfung. Prüfraster Verfahrensstand und Rolle erkennen, naechsten sicheren Schritt bestimmen, Fristen und Risiken anzeigen. Output Deal-Ampel mit Weiterleitung zum passendes Fachmodul. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Quality-Gate für Endkontrolle.
 
 # Kommandocenter für die Forderungsprüfung
 

@@ -67,7 +67,7 @@ Wenn das Hindernis (z.B. die Krankheit) endet, haben Sie nur 2 Wochen Zeit fuer 
 ### Schritt 3 — Antrag schreiben
 
 ```
-[Behoerde / SG]                                    [Ort, Datum]
+[Behoerde / SG] [Ort, Datum]
 
 Az: [aus dem Bescheid]
 

@@ -1,6 +1,6 @@
 ---
 name: unterlagen-zugaenglichmachen
-description: "Hauptversammlung AG und SE: Unterlagen Zugaenglichmachen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
+description: "Hauptversammlung AG und SE: Unterlagen Zugaenglichmachen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output."
 ---
 
 # Unterlagen Zugaenglichmachen

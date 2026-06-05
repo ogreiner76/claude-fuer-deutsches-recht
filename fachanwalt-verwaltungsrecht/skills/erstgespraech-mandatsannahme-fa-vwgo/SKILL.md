@@ -1,20 +1,20 @@
 ---
 name: erstgespraech-mandatsannahme-fa-vwgo
-description: "Nutze dies, wenn Erstgespraech Mandatsannahme, Fa Vwgo Widerspruchsbescheid Abschleppen Oepnv, Fachanwalt Verwaltungsrecht Anfechtungsklage im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Erstgespraech Mandatsannahme, Fa Vwgo Widerspruchsbescheid Abschleppen Oepnv, Fachanwalt Verwaltungsrecht Anfechtungsklage prüfen.; Erstelle eine Arbeitsfassung zu Erstgespraech Mandatsannahme, Fa Vwgo Widerspruchsbescheid Abschleppen Oepnv, Fachanwalt Verwaltungsrecht Anfechtungsklage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erstgespraech Mandatsannahme, Fa Vwgo Widerspruchsbescheid Abschleppen Oepnv, Fachanwalt Verwaltungsrecht Anfechtungsklage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erstgespraech Mandatsannahme, Fa Vwgo Widerspruchsbescheid Abschleppen Oepnv, Fachanwalt Verwaltungsrecht Anfechtungsklage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erstgespraech Mandatsannahme, Fa Vwgo Widerspruchsbescheid Abschleppen Oepnv, Fachanwalt Verwaltungsrecht Anfechtungsklage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` | Workflow-Skill zu fa vwgo widerspruchsbescheid abschleppen oepnv. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` | Arbeitsmodul zu fa vwgo widerspruchsbescheid abschleppen oepnv: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-verwaltungsrecht-anfechtungsklage` | Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: § 42 Abs. 1 VwGO (Statthaftigkeit), § 42 Abs. 2 VwGO (Klagebefugnis mögliche Rechtsverletzung), § 74 VwGO (Klagefrist 1 Monat), § 45 VwGO (Zuständigkeit). Prüfraster: Statthaftigkeit, Klagebefugnis, Frist, Vorverfahren, Streitwert § 52 GKG. Output Klageschrift-Entwurf. Abgrenzung: Verpflichtungsklage (Ablehnung) siehe schriftsatzkern-substantiierung; Eilantrag siehe eilantrag-80-abs-5-vwgo. |
 
 ## Arbeitsweg
@@ -186,7 +186,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv`
 
-**Fokus:** Workflow-Skill zu fa vwgo widerspruchsbescheid abschleppen oepnv. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fa vwgo widerspruchsbescheid abschleppen oepnv: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Widerspruchsbescheid Abschleppkosten ÖPNV-Verkehrsbetrieb
 
@@ -288,9 +288,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Bezeichnung als Widerspruchsbescheid.
 - Anrede und Bezugnahme auf Widerspruch des Adressaten vom Datum.
 - Tenor:
-  - **Zurückweisung:** "Der Widerspruch wird zurückgewiesen. Die Kosten des Widerspruchsverfahrens trägt der Widerspruchsführer. Eine Gebühr für das Widerspruchsverfahren wird nicht erhoben."
-  - **Teilabhilfe:** "Der Gebührenbescheid vom Datum wird in Höhe von Betrag aufgehoben. Im Übrigen wird der Widerspruch zurückgewiesen. Kosten Verhältnis."
-  - **Vollabhilfe:** "Der Gebührenbescheid vom Datum wird aufgehoben. Die Berliner Verkehrsbetriebe tragen die notwendigen Aufwendungen des Widerspruchsführers. Eine Kostenfestsetzung erfolgt auf Antrag."
+ - **Zurückweisung:** "Der Widerspruch wird zurückgewiesen. Die Kosten des Widerspruchsverfahrens trägt der Widerspruchsführer. Eine Gebühr für das Widerspruchsverfahren wird nicht erhoben."
+ - **Teilabhilfe:** "Der Gebührenbescheid vom Datum wird in Höhe von Betrag aufgehoben. Im Übrigen wird der Widerspruch zurückgewiesen. Kosten Verhältnis."
+ - **Vollabhilfe:** "Der Gebührenbescheid vom Datum wird aufgehoben. Die Berliner Verkehrsbetriebe tragen die notwendigen Aufwendungen des Widerspruchsführers. Eine Kostenfestsetzung erfolgt auf Antrag."
 
 ### Sachverhalt
 
@@ -300,10 +300,10 @@ Chronologische Schilderung in nüchternem Verwaltungsstil — Tatzeit, Tatort, B
 
 - **Zulässigkeit** des Widerspruchs: Statthaftigkeit, Form, Frist, Beschwer.
 - **Begründetheit:**
-  - Ermächtigungsgrundlage benennen (§ 23 Abs. 2, 5 MobG BE iVm § 6 GebBtrG BE iVm BVGBenGebO).
-  - Subsumtion: ÖPNV-Fläche, verkehrswidrige Nutzung, Verhältnismäßigkeit.
-  - Auseinandersetzung mit jedem Einwand des Widerspruchsführers — auch wenn der Einwand am Ende verworfen wird.
-  - Bei (Teil-)Abhilfe: tragende Erwägungen für das Absehen oder die Reduzierung.
+ - Ermächtigungsgrundlage benennen (§ 23 Abs. 2, 5 MobG BE iVm § 6 GebBtrG BE iVm BVGBenGebO).
+ - Subsumtion: ÖPNV-Fläche, verkehrswidrige Nutzung, Verhältnismäßigkeit.
+ - Auseinandersetzung mit jedem Einwand des Widerspruchsführers — auch wenn der Einwand am Ende verworfen wird.
+ - Bei (Teil-)Abhilfe: tragende Erwägungen für das Absehen oder die Reduzierung.
 - **Kostenentscheidung** nach § 80 VwVfG oder landesrechtlichem Pendant.
 
 ### Rechtsbehelfsbelehrung
@@ -327,10 +327,10 @@ Holzmarktstraße 15-17, 10179 Berlin
 
 [Name und Anschrift Widerspruchsführer]
 
-                              Aktenzeichen Widerspruch: V-R 25/[...]
-                              Aktenzeichen Ausgangsbescheid: [...]
-                              Bearbeitung: [Name]
-                              Datum: [...]
+ Aktenzeichen Widerspruch: V-R 25/[...]
+ Aktenzeichen Ausgangsbescheid: [...]
+ Bearbeitung: [Name]
+ Datum: [...]
 
 WIDERSPRUCHSBESCHEID
 
@@ -346,10 +346,10 @@ Sachverhalt:
 Gründe:
 I. Zulässigkeit
 II. Begründetheit
-   1. Ermächtigungsgrundlage
-   2. Formelle Rechtmäßigkeit
-   3. Materielle Rechtmäßigkeit
-   4. Auseinandersetzung mit den Einwänden
+ 1. Ermächtigungsgrundlage
+ 2. Formelle Rechtmäßigkeit
+ 3. Materielle Rechtmäßigkeit
+ 4. Auseinandersetzung mit den Einwänden
 III. Kosten
 
 Rechtsbehelfsbelehrung:
@@ -443,14 +443,14 @@ An das Verwaltungsgericht [Ort]
 In dem Verwaltungsrechtsstreit
 
 [Name Klaeger] [Anschrift]
-                                    — Klaeger —
-              Prozessbevollmaechtigte
-              Rechtsanwaeltinnen und Rechtsanwaelte [Kanzlei]
+ — Klaeger —
+ Prozessbevollmaechtigte
+ Rechtsanwaeltinnen und Rechtsanwaelte [Kanzlei]
 
 gegen
 
 [Behoerde] vertreten durch [Behoerdenleiter]
-                                    — Beklagte —
+ — Beklagte —
 
 wegen [Sachgebiet z.B. Bauordnungsrecht Gewerberecht
 Aufenthaltsrecht]
@@ -463,13 +463,13 @@ Anfechtungsklage
 und stellen folgende Antraege
 
 1. Der Bescheid der Beklagten vom [Datum] Aktenzeichen [Az] in
-   Gestalt des Widerspruchsbescheids vom [Datum] Aktenzeichen [Az]
-   wird aufgehoben.
+ Gestalt des Widerspruchsbescheids vom [Datum] Aktenzeichen [Az]
+ wird aufgehoben.
 
 2. Die Beklagte traegt die Kosten des Verfahrens.
 
 3. Die Hinzuziehung des Bevollmaechtigten im Vorverfahren wird fuer
-   notwendig erklaert.
+ notwendig erklaert.
 
 4. Das Urteil ist hinsichtlich der Kosten vorlaeufig vollstreckbar.
 
@@ -481,11 +481,11 @@ I. Sachverhalt
 II. Zulaessigkeit
 1. Statthaftigkeit § 42 Abs. 1 Var. 1 VwGO — belastender VA.
 2. Klagebefugnis § 42 Abs. 2 VwGO — Adressat / Drittbetroffener
-   mit moeglicher Verletzung in [Recht].
+ mit moeglicher Verletzung in [Recht].
 3. Vorverfahren § 68 VwGO durchgefuehrt — Widerspruchsbescheid
-   vom [Datum].
+ vom [Datum].
 4. Klagefrist § 74 VwGO gewahrt — Zustellung am [Datum] Klageeingang
-   am [Datum] — innerhalb Monatsfrist.
+ am [Datum] — innerhalb Monatsfrist.
 5. Zustaendigkeit § 45 § 52 VwGO.
 
 III. Begruendetheit
@@ -493,15 +493,15 @@ Der Bescheid ist rechtswidrig und verletzt den Klaeger in seinen
 Rechten § 113 Abs. 1 Satz 1 VwGO.
 
 1. Formelle Rechtswidrigkeit
-   a) Unzustaendige Behoerde § 3 VwVfG
-   b) Anhoerung § 28 VwVfG unterblieben (Heilung scheidet aus weil
-      [Begruendung])
-   c) Begruendungsmangel § 39 VwVfG
+ a) Unzustaendige Behoerde § 3 VwVfG
+ b) Anhoerung § 28 VwVfG unterblieben (Heilung scheidet aus weil
+ [Begruendung])
+ c) Begruendungsmangel § 39 VwVfG
 
 2. Materielle Rechtswidrigkeit
-   a) Tatbestand der Rechtsgrundlage [Norm] nicht erfuellt
-   b) Ermessen § 40 VwVfG — Ermessensfehler [konkrete Beanstandung]
-   c) Verhaeltnismaessigkeit verletzt
+ a) Tatbestand der Rechtsgrundlage [Norm] nicht erfuellt
+ b) Ermessen § 40 VwVfG — Ermessensfehler [konkrete Beanstandung]
+ c) Verhaeltnismaessigkeit verletzt
 
 IV. Beweisangebot
 1. Beiziehung der Verwaltungsakten § 99 VwGO

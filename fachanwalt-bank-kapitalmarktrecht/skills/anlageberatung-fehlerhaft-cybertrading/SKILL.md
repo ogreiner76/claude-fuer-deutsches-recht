@@ -1,21 +1,21 @@
 ---
 name: anlageberatung-fehlerhaft-cybertrading
-description: "Nutze dies, wenn Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft, Fachanwalt Bank Kapitalmarktrecht Cybertrading Anlagebetrug, Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft, Fachanwalt Bank Kapitalmarktrecht Cybertrading Anlagebetrug, Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft, Fachanwalt Bank Kapitalmarktrecht Cybertrading Anlagebetrug, Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft, Fachanwalt Bank Kapitalmarktrecht Cybertrading Anlagebetrug, Fachanwalt Bank Kapitalmarktrecht Kreditkuendigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft` | Arbeitsmodul zu fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` | Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung). |
-| `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht kreditkuendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung` | Arbeitsmodul zu fachanwalt bank kapitalmarktrecht kreditkuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft, Fachanwalt B
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft`
 
-**Fokus:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Anlageberatung fehlerhaft
 
@@ -57,17 +57,17 @@ Für **Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft, Fachanwalt B
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 ```
 1. Beratungssituation (Beratungsvertrag konkludent?)
 2. Pflicht zu anleger- und anlagegerechter Beratung
 3. Aufklaerungsmaengel identifizieren
-   - Risikoaufklaerung
-   - Rueckverguetung/Kick-back
-   - Innenprovision >= 15%
-   - Totalverlustrisiko (geschlossene Fonds)
+ - Risikoaufklaerung
+ - Rueckverguetung/Kick-back
+ - Innenprovision >= 15%
+ - Totalverlustrisiko (geschlossene Fonds)
 4. Geeignetheitserklaerung § 64 Abs. 4 WpHG analysieren (bzw. § 34 Abs. 2a WpHG aF bis 02.01.2018)
 5. Schaden berechnen (Erwerbsschaden + entgangener Gewinn)
 6. Verjaehrung pruefen (3 Jahre Kenntnis / 10 Jahre Hoechstfrist)
@@ -103,9 +103,9 @@ EUR [Betrag].
 
 Beratungsfehler liegen in folgenden Punkten:
 1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   510/07 Beschl. v. 20.01.2009 Rn. 12 ff.)
+ 510/07 Beschl. v. 20.01.2009 Rn. 12 ff.)
 2. unterlassene Aufklaerung ueber Innenprovision von [...] Prozent
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. anlegerunabhaengige Empfehlung trotz Risikoklasse [...]
 
 Wir fordern Sie auf bis [Datum vier Wochen] Zug um Zug gegen Rueckgabe
@@ -142,7 +142,7 @@ Mit freundlichen Gruessen
 ### Ergaenzende Leitsaetze
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Schritt-fuer-Schritt-Workflow Anlageberatungsfehler
+### Schritt-fuer-Schritt-Anlageberatungsfehler
 1. **Mandantengespräch:** Produkt, Datum Beratung, Risikoprofil, Verlusthoehe dokumentieren.
 2. **Beratungsprotokoll anfordern** (§ 83 WpHG, § 64 Abs. 4 WpHG): 3-Tage-Frist auf Herausgabe.
 3. **Pruefung Kickbacks:** Bank-interne Vertriebsprovision vom Emittenten = aufklaerungspflichtig.
@@ -275,7 +275,7 @@ AGB-Banken Nr. 11
 
 Voraussetzungen:
 - Auffällige Transaktion (Höhe, erstmaliger Empfänger,
-  Auslands-IBAN in Risikoland)
+ Auslands-IBAN in Risikoland)
 - Bank hat keine Risikowarnung gegeben
 - Mandant hätte bei Warnung nicht überwiesen
 
@@ -325,7 +325,7 @@ Chancen: Sehr gering — hohe Beweishürden
 
 ```
 An: Staatsanwaltschaft [Sitz des Geschädigten]
-    / Landeskriminalamt – Abt. Cybercrime
+ / Landeskriminalamt – Abt. Cybercrime
 
 Anzeige gegen Unbekannt (und gegen [namentlich bekannte
 Vermittler])
@@ -346,7 +346,7 @@ Beweismittel:
 - Anlage 4: WHOIS-Auszug Domain
 
 Antrag: Strafverfolgung + Beschlagnahme der Konten
-         beim Ziel-Kreditinstitut [IBAN-Land]
+ beim Ziel-Kreditinstitut [IBAN-Land]
 
 [Rechtsanwalt/-anwaeltin]
 ```
@@ -421,7 +421,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 
 ## 3. `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung`
 
-**Fokus:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht kreditkuendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt bank kapitalmarktrecht kreditkuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Kreditkündigung
 
@@ -456,10 +456,10 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 1. Kuendigungstyp identifizieren
 2. Formelle Wirksamkeit (Schriftform § 492 BGB bei Verbraucherdarlehen)
 3. Materielle Voraussetzungen
-   - § 488 Abs. 3 BGB Frist
-   - § 490 BGB Vermoegensverschlechterung
-   - § 314 BGB wichtiger Grund + Abmahnung
-   - § 498 BGB qualifizierter Verzug + Heilungsfrist
+ - § 488 Abs. 3 BGB Frist
+ - § 490 BGB Vermoegensverschlechterung
+ - § 314 BGB wichtiger Grund + Abmahnung
+ - § 498 BGB qualifizierter Verzug + Heilungsfrist
 4. AGB-Kontrolle bei Kuendigungsklausel
 5. Treu und Glauben § 242 BGB
 6. Vorfaelligkeitsentschaedigung pruefen § 502 BGB
@@ -480,15 +480,15 @@ Kuendigung vom [Datum] hinsichtlich des Darlehensvertrages Konto-Nr.
 Die Kuendigung ist aus folgenden Gruenden unwirksam:
 
 1. Es liegt kein qualifizierter Verzug nach § 498 BGB vor — die
-   ausstehenden Betraege erreichen die gesetzliche Schwelle von
-   [10/5] Prozent des Nennbetrags nicht.
+ ausstehenden Betraege erreichen die gesetzliche Schwelle von
+ [10/5] Prozent des Nennbetrags nicht.
 
 2. Eine ordnungsgemaesse Mahnung mit Heilungsfrist von zwei Wochen und
-   Hinweis auf die Kuendigungsdrohung wurde nicht ausgesprochen.
+ Hinweis auf die Kuendigungsdrohung wurde nicht ausgesprochen.
 
 3. Hilfsweise: Die Kuendigung verstoesst gegen § 242 BGB — unsere
-   Mandantschaft hat fristgerecht den Rueckstand am [Datum] beglichen
-   und die Vermoegenslage hat sich nicht wesentlich verschlechtert.
+ Mandantschaft hat fristgerecht den Rueckstand am [Datum] beglichen
+ und die Vermoegenslage hat sich nicht wesentlich verschlechtert.
 
 Wir fordern Sie auf binnen einer Woche schriftlich zu bestaetigen dass
 die Kuendigung zurueckgenommen wird und das Darlehen unveraendert

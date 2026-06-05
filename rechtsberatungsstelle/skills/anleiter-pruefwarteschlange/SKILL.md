@@ -55,15 +55,15 @@ Liegt in `references/review-queue.yaml`. Jeder Eintrag:
 
 ```yaml
 - id: P-001
-  typ: "entwurf"  # aufnahme | entwurf | memo | status | mandantenbrief
-  mandant: "[Name oder ID]"
-  studierender: "[Name]"
-  eingereicht: [Zeitstempel]
-  flags:
-    - regel: "Gerichtliche Einreichung"
-      detail: "Klageschrift AG — immer in Warteschlange"
-  inhaltspfad: "[Pfad zum Dokument]"
-  status: "ausstehend"  # ausstehend | freigegeben | bearbeitet-freigegeben | zurückgeschickt
+ typ: "entwurf" # aufnahme | entwurf | memo | status | mandantenbrief
+ mandant: "[Name oder ID]"
+ studierender: "[Name]"
+ eingereicht: [Zeitstempel]
+ flags:
+ - regel: "Gerichtliche Einreichung"
+ detail: "Klageschrift AG — immer in Warteschlange"
+ inhaltspfad: "[Pfad zum Dokument]"
+ status: "ausstehend" # ausstehend | freigegeben | bearbeitet-freigegeben | zurückgeschickt
 ```
 
 ### Was wartet (Standard-Anzeige)

@@ -1,13 +1,13 @@
 ---
 name: verl-e-verl-uebersetzungsrechte
-description: "Nutze dies, wenn Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition prüfen.; Erstelle eine Arbeitsfassung zu Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -197,8 +197,8 @@ Dieser Skill behandelt die **Internationalisierung** von Verlagswerken: Vergabe 
 
 ### Vergütung des Übersetzers
 - **Gemeinsame Vergütungsregeln** für literarische Übersetzer (VdÜ/Verleger-Verbände):
-  - Worthonorar: mind. 21,00 € / 1.000 Zeichen (Stand: VS-Richtsätze, regelmäßig aktualisiert)
-  - Absatzhonorar ab bestimmtem Absatz (Folgebeteiligung)
+ - Worthonorar: mind. 21,00 € / 1.000 Zeichen (Stand: VS-Richtsätze, regelmäßig aktualisiert)
+ - Absatzhonorar ab bestimmtem Absatz (Folgebeteiligung)
 - **Angemessenheit** (§ 32 UrhG): Gemeinsame Vergütungsregeln schaffen Vermutungswirkung.
 - **Nachvergütung** (§ 32a UrhG): Bei Bestseller-Erfolg des übersetzten Werks.
 - **Auskunft** (§ 32d UrhG): Jahresabrechnung mit Absatzzahlen und Erlösen.

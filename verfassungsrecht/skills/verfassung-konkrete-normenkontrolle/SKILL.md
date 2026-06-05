@@ -1,13 +1,13 @@
 ---
 name: verfassung-konkrete-normenkontrolle
-description: "Nutze dies, wenn Verfassung Konkrete Normenkontrolle, Verfassung Parteiverbot, Verfassung Petition Und Verfassungsschutz im Plugin Verfassungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Verfassung Konkrete Normenkontrolle, Verfassung Parteiverbot, Verfassung Petition Und Verfassungsschutz prüfen.; Erstelle eine Arbeitsfassung zu Verfassung Konkrete Normenkontrolle, Verfassung Parteiverbot, Verfassung Petition Und Verfassungsschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verfassung Konkrete Normenkontrolle, Verfassung Parteiverbot, Verfassung Petition Und Verfassungsschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verfassung Konkrete Normenkontrolle, Verfassung Parteiverbot, Verfassung Petition Und Verfassungsschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verfassung Konkrete Normenkontrolle, Verfassung Parteiverbot, Verfassung Petition Und Verfassungsschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -107,7 +107,7 @@ Arbeite deshalb fallnah:
 
 Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -126,11 +126,11 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 ### 2. Begruendetheit — materielle Voraussetzungen
 - Partei muss
-  - **nach ihren Zielen** (Programm, Satzung, Wahlprogramm) oder
-  - **dem Verhalten ihrer Anhaenger** (organisierte Aktionen, nicht Einzelfaelle)
+ - **nach ihren Zielen** (Programm, Satzung, Wahlprogramm) oder
+ - **dem Verhalten ihrer Anhaenger** (organisierte Aktionen, nicht Einzelfaelle)
 - darauf **ausgehen**, dass sie
-  - die **freiheitliche demokratische Grundordnung beeintraechtigt oder beseitigt** oder
-  - den **Bestand der BRD gefaehrdet**.
+ - die **freiheitliche demokratische Grundordnung beeintraechtigt oder beseitigt** oder
+ - den **Bestand der BRD gefaehrdet**.
 
 ### 3. Potentialitaet (BVerfG, Urteil v. 17.01.2017, 2 BvB 1/13 — NPD II)
 - "Darauf ausgehen" verlangt **aktives, planvolles Handeln** mit dem **Potenzial, das Ziel zu erreichen**.

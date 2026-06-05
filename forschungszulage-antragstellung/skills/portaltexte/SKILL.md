@@ -1,12 +1,12 @@
 ---
 name: portaltexte
-description: "Nutze dies, wenn Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine
 
 ## Spezialwissen: Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine
-- **Spezialgegenstand:** Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine / spezial portaltexte schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine / portaltexte schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FZulG, BSFZ.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

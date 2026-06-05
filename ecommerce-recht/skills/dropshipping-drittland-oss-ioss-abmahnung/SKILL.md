@@ -1,13 +1,13 @@
 ---
 name: dropshipping-drittland-oss-ioss-abmahnung
-description: "Nutze dies, wenn Dropshipping Drittland Zoll Einfuhrumsatzsteuer, Oss Ioss Umsatzsteuer E Commerce, Abmahnung Einstweilige Verfuegung Sofortplan im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Dropshipping Drittland Zoll Einfuhrumsatzsteuer, Oss Ioss Umsatzsteuer E Commerce, Abmahnung Einstweilige Verfuegung Sofortplan prüfen.; Erstelle eine Arbeitsfassung zu Dropshipping Drittland Zoll Einfuhrumsatzsteuer, Oss Ioss Umsatzsteuer E Commerce, Abmahnung Einstweilige Verfuegung Sofortplan.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dropshipping Drittland Zoll Einfuhrumsatzsteuer, Oss Ioss Umsatzsteuer E Commerce, Abmahnung Einstweilige Verfuegung Sofortplan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dropshipping Drittland Zoll Einfuhrumsatzsteuer, Oss Ioss Umsatzsteuer E Commerce, Abmahnung Einstweilige Verfuegung Sofortplan
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dropshipping Drittland Zoll Einfuhrumsatzsteuer, Oss Ioss Umsatzsteuer E Commerce, Abmahnung Einstweilige Verfuegung Sofortplan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `dropshipping-drittland-zoll-einfuhrumsatzsteuer` | Dropshipping Drittland Zoll Einfuhrumsatzsteuer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `oss-ioss-umsatzsteuer-e-commerce` | OSS/IOSS Umsatzsteuer E-Commerce: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
-| `abmahnung-einstweilige-verfuegung-sofortplan` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Abmahnung einstweilige Verfügung Sofortplan. |
+| `abmahnung-einstweilige-verfuegung-sofortplan` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Abmahnung einstweilige Verfügung Sofortplan. |
 
 ## Arbeitsweg
 
@@ -116,7 +116,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `abmahnung-einstweilige-verfuegung-sofortplan`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Abmahnung einstweilige Verfügung Sofortplan.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Abmahnung einstweilige Verfügung Sofortplan.
 
 # Abmahnung einstweilige Verfügung Sofortplan
 

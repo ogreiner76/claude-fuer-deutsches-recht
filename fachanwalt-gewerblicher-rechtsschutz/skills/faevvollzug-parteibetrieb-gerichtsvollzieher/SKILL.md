@@ -1,13 +1,13 @@
 ---
 name: faevvollzug-parteibetrieb-gerichtsvollzieher
-description: "Nutze dies, wenn Faevvollzug Neu 002 Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Neu 003 Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzug Neu 004 Vollstreckung Aus Unterlassungsverfuegung Or im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Faevvollzug Neu 002 Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Neu 003 Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzug Neu 004 Vollstreckung Aus Unterlassungsverfuegung Or prüfen.; Erstelle eine Arbeitsfassung zu Faevvollzug Neu 002 Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Neu 003 Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzug Neu 004 Vollstreckung Aus Unterlassungsverfuegung Or.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Faevvollzug Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzug Vollstreckung Aus Unterlassungsverfuegung Or: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Faevvollzug Neu 002 Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Neu 003 Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzug Neu 004 Vollstreckung Aus Unterlassungsverfuegung Or
+# Faevvollzug Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzug Vollstreckung Aus Unterlassungsverfuegung Or
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Faevvollzug Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzug Vollstreckung Aus Unterlassungsverfuegung Or** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Faevvollzug Neu 002 Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Neu 003 Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzug Neu 004 Vollstreckung Aus Unterlassungsverfuegung Or** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Faevvollzug Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzug Vollstreckung Aus Unterlassungsverfuegung Or** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -50,18 +50,18 @@ Dieser Skill steuert den Parteibetrieb bei der Vollziehung einstweiliger Verfüg
 
 ```
 Beschluss erhalten
-       ↓
+ ↓
 Vollstreckbare Ausfertigung beantragen (§ 724 ZPO)
-       ↓
+ ↓
 GV beim zuständigen Amtsgericht beauftragen
-       ↓
+ ↓
 Zustellungsauftrag mit Titel und Empfängeradresse übergeben
-       ↓
+ ↓
 GV stellt zu, fertigt Zustellungsurkunde (§ 182 ZPO) oder
 Postzustellungsurkunde (§ 180 ZPO)
-       ↓
+ ↓
 Zustellungsurkunde zu den Akten nehmen
-       ↓
+ ↓
 Vollziehungsfrist gewahrt? Dokumentieren.
 ```
 
@@ -122,7 +122,7 @@ Die Vollziehungsfrist läuft bis [Datum]. Bitte vorrangige Bearbeitung.
 | Kosten für GV-Gebühren (GvKostG) vorgeschossen / bereitgestellt | ☐ |
 | Zustellungsurkunde-Eingang überwachen (Fristnotiz) | ☐ |
 
-## Kaltstart
+## Einstieg
 1. Welcher Titel liegt vor (Beschluss/Urteil, Gericht, Az.)?
 2. Wurde bereits vollstreckbare Ausfertigung beantragt?
 3. Ist die Vollziehungsfrist noch offen?
@@ -172,12 +172,12 @@ Dieser Skill behandelt den elektronischen Rechtsverkehr (ERV) beim Einreichen un
 ### Pflicht und Technik
 - **Nutzungspflicht:** Anwälte sind seit 1.1.2022 verpflichtet, Schriftsätze über sichere Übermittlungswege einzureichen (§ 130d ZPO).
 - **Sichere Übermittlungswege (§ 130a Abs. 4 ZPO):**
-  - beA (besonderes elektronisches Anwaltspostfach) – Standard für Anwälte.
-  - beBPo (besonderes elektronisches Behördenpostfach).
-  - EGVP-Client mit Zertifikat.
+ - beA (besonderes elektronisches Anwaltspostfach) – Standard für Anwälte.
+ - beBPo (besonderes elektronisches Behördenpostfach).
+ - EGVP-Client mit Zertifikat.
 - **Signaturpflichten:**
-  - Qualifizierte elektronische Signatur (QES) des Verfassers, oder
-  - Einfache Signatur + sicherer Übermittlungsweg (§ 130a Abs. 3 ZPO: „einfache Signatur" = Name im Dokument).
+ - Qualifizierte elektronische Signatur (QES) des Verfassers, oder
+ - Einfache Signatur + sicherer Übermittlungsweg (§ 130a Abs. 3 ZPO: „einfache Signatur" = Name im Dokument).
 
 ### EV-Antrag über beA einreichen
 1. PDF-Datei erstellen (Schriftsatz + Anlagen als Anhänge).
@@ -221,7 +221,7 @@ Datum des Empfangs (= Zustellungsdatum): [Datum]
 3. Unverzüglich Notfalleinreichung der Ersatzform beim Gericht nachweisen (§ 130d Satz 2 ZPO: nur bei technischer Unmöglichkeit).
 4. Glaubhaftmachung der Unmöglichkeit in separatem Schriftsatz.
 
-## Kaltstart
+## Einstieg
 1. Ist der Schriftsatz bereits fertig und liegt als PDF vor?
 2. Welches Gericht (SAFE-ID des Spruchkörpers bekannt)?
 3. Soll die Zustellung über beA an gegnerischen Anwalt erfolgen?
@@ -334,7 +334,7 @@ Wiederholungsgefahr].
 
 Gerichtsübliche Ausgangsbeiträge: 500 – 5.000 € (gering); 5.000 – 25.000 € (mittel); über 25.000 € (schwer/wiederholt).
 
-## Kaltstart
+## Einstieg
 1. Liegt ein Unterlassungstitel mit Androhung vor (§ 890 Abs. 2 ZPO)? Wenn nein: erst Androhungsbeschluss beantragen.
 2. Wann wurde der Titel mit Androhung zugestellt?
 3. Welche konkrete Zuwiderhandlung ist dokumentiert (Datum, Ort, Beweise)?

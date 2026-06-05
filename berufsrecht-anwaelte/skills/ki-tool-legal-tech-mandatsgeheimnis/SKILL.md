@@ -1,13 +1,13 @@
 ---
 name: ki-tool-legal-tech-mandatsgeheimnis
-description: "Nutze dies, wenn Anwälte Ki Tool In Der Kanzlei Kammerantwort Und Verfahrensstr, Anwälte Legal Tech Rdg Grenze Kammerantwort Und Verfahrensstra, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kammerantwor, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Organisation, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Rechtsprechu im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Ki Tool In Der Kanzlei Kammerantwort Und Verfahrensstr, Anwälte Legal Tech Rdg Grenze Kammerantwort Und Verfahrensstra, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kammerantwor, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Organisation, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Rechtsprechu prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Ki Tool In Der Kanzlei Kammerantwort Und Verfahrensstr, Anwälte Legal Tech Rdg Grenze Kammerantwort Und Verfahrensstra, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kammerantwor, Anwälte Mandatsgeheimnis Bei E..."
+description: "Nutze dies bei Anwaelte Ki Tool In Der Kanzlei Kammerantwort Und Verfahrensstr, Anwaelte Legal Tech Rdg Grenze Kammerantwort Und Verfahrensstra, Anwaelte Mandatsgeheimnis Bei Ermittlungsverfahren Kammerantwor, Anwaelte Mandatsgeheimnis Bei Ermittlungsverfahren Organisation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Ki Tool In Der Kanzlei Kammerantwort Und Verfahrensstr, Anwälte Legal Tech Rdg Grenze Kammerantwort Und Verfahrensstra, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kammerantwor, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Organisation, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Rechtsprechu
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Ki Tool In Der Kanzlei Kammerantwort Und Verfahrensstr, Anwälte Legal Tech Rdg Grenze Kammerantwort Und Verfahrensstra, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kammerantwor, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Organisation, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Rechtsprechu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

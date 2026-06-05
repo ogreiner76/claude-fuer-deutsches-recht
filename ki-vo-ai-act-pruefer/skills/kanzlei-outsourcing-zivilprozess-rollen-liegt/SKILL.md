@@ -1,13 +1,13 @@
 ---
 name: kanzlei-outsourcing-zivilprozess-rollen-liegt
-description: "Nutze dies, wenn Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `kanzlei-ki-outsourcing-berufsgeheimnis` | KI-Outsourcing fuer Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe. |
 | `ki-im-zivilprozess-rollen-und-grenzen` | KI im Zivilprozess: Einsatz durch Partei, Anwalt, Gericht, Sachverstaendige und Justizverwaltung. Prueft KI-VO, ZPO, Berufsrecht, Beweisrecht, richterliche Verantwortung, rechtliches Gehoer und Grenzen automatisierter Entscheidungsunterstuetzung. |
 | `liegt-ki-system-vor-art-3-nr-1` | Erster Schritt jeder KI-VO-Pruefung: Ist die Software, API, App, Automatisierung oder Modellkette ein KI-System nach Art. 3 Nr. 1 KI-VO? Prueft maschinenbasiertes System, Autonomie, optionale Adaptivitaet, Ziele, Inferenz, Output-Typen und Umweltbeeinflussung nach den Kommissionsleitlinien. Problematisiert Automation und Autonomie statt schematisch abzuhaken. Output: dokumentierbarer KI-System-Einordnungsvermerk mit Tatsachenbasis, Unsicherheiten und Folge-Skills. |
-| `mandatsabbruch-empfehlung-komplexe-faelle` | Mechanik-Workflow erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren für Komplexitaet jenseits des KI-VO-Prüfers: multijurisdiktionelle Lieferketten marktbeherrschende Stellung KI und Waettbewerb hochspezialisierte Zertifizierungen Auslegungsstreit. Prüfraster: Schwellenwerte Mehrfachrollen kombinierte Hochrisiko-GPAI-Systeme laufende Vertragsprüfung. Output: Eskalationsempfehlung mit Begründung und Verweis auf IT-Recht Datenschutz Produktsicherheit. Abgrenzung zu triage-ki-vo-vorprüfung (Eingangs-Triage). |
+| `mandatsabbruch-empfehlung-komplexe-faelle` | Mechanik-erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren für Komplexitaet jenseits des KI-VO-Prüfers: multijurisdiktionelle Lieferketten marktbeherrschende Stellung KI und Waettbewerb hochspezialisierte Zertifizierungen Auslegungsstreit. Prüfraster: Schwellenwerte Mehrfachrollen kombinierte Hochrisiko-GPAI-Systeme laufende Vertragsprüfung. Output: Eskalationsempfehlung mit Begründung und Verweis auf IT-Recht Datenschutz Produktsicherheit. Abgrenzung zu triage-ki-vo-vorprüfung (Eingangs-Triage). |
 
 ## Arbeitsweg
 
@@ -240,7 +240,7 @@ Wenn eine Ausgabe nur testweise erzeugt und nie verwendet wird, dokumentiere das
 | Befund | Ergebnisrichtung |
 |---|---|
 | Maschinenbasiert + Inferenz + Output mit möglichem Einfluss | starkes Indiz für KI-System |
-| Generatives Modell oder LLM/API im Workflow | regelmäßig KI-System-Komponente |
+| Generatives Modell oder LLM/API im | regelmäßig KI-System-Komponente |
 | Nur feste Wenn-Dann-Regeln ohne gelernte Parameter und ohne Inferenz | regelmäßig kein KI-System |
 | Nur Suche, Filterung, Formatierung, Kopieren, Validieren | regelmäßig kein KI-System |
 | Automation ohne Inferenz | nicht genug, aber genauer prüfen |
@@ -327,17 +327,17 @@ Stand: 05/2026. Zu berücksichtigen sind Art. 3 Nr. 1, Nr. 12, Nr. 13 und Nr. 23
 
 ## 4. `mandatsabbruch-empfehlung-komplexe-faelle`
 
-**Fokus:** Mechanik-Workflow erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren für Komplexitaet jenseits des KI-VO-Prüfers: multijurisdiktionelle Lieferketten marktbeherrschende Stellung KI und Waettbewerb hochspezialisierte Zertifizierungen Auslegungsstreit. Prüfraster: Schwellenwerte Mehrfachrollen kombinierte Hochrisiko-GPAI-Systeme laufende Vertragsprüfung. Output: Eskalationsempfehlung mit Begründung und Verweis auf IT-Recht Datenschutz Produktsicherheit. Abgrenzung zu triage-ki-vo-vorprüfung (Eingangs-Triage).
+**Fokus:** Mechanik-erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren für Komplexitaet jenseits des KI-VO-Prüfers: multijurisdiktionelle Lieferketten marktbeherrschende Stellung KI und Waettbewerb hochspezialisierte Zertifizierungen Auslegungsstreit. Prüfraster: Schwellenwerte Mehrfachrollen kombinierte Hochrisiko-GPAI-Systeme laufende Vertragsprüfung. Output: Eskalationsempfehlung mit Begründung und Verweis auf IT-Recht Datenschutz Produktsicherheit. Abgrenzung zu triage-ki-vo-vorprüfung (Eingangs-Triage).
 
 # Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen
 
 ## Zweck
 
-Dieser Skill erkennt Situationen, in denen ein Mechanik-Workflow nicht mehr ausreicht und professionelle juristische Beratung zwingend erforderlich ist. Er gibt klare Indikatoren und benennt die relevanten Fachrichtungen.
+Dieser Skill erkennt Situationen, in denen ein Mechanik-nicht mehr ausreicht und professionelle juristische Beratung zwingend erforderlich ist. Er gibt klare Indikatoren und benennt die relevanten Fachrichtungen.
 
 ## Grundprinzip
 
-Der vorliegende Workflow ist ein mechanisches Prüfinstrument. Er kann prüfen, ob bestimmte Tatbestandsmerkmale nach Maßgabe der vom Nutzer geschilderten Tatsachen erfüllt sind. Er kann nicht:
+Der vorliegende ist ein mechanisches Prüfinstrument. Er kann prüfen, ob bestimmte Tatbestandsmerkmale nach Maßgabe der vom Nutzer geschilderten Tatsachen erfüllt sind. Er kann nicht:
 - Sachverhalte würdigen, die rechtlich komplex oder widersprüchlich sind
 - Ermessen ausüben, das Rechtsanwendung erfordert
 - Strategische Compliance-Beratung leisten
@@ -393,13 +393,13 @@ Wenn der Nutzer eine öffentliche Stelle oder ein im öffentlichen Auftrag hande
 
 Wenn ein oder mehrere dieser Indikatoren vorliegen, empfiehlt dieses System:
 
-1. Den Mechanik-Workflow für orientierende Selbsteinschätzung weiter nutzen — aber keine abschließenden Compliance-Entscheidungen darauf stützen.
+1. Den Mechanik-für orientierende Selbsteinschätzung weiter nutzen — aber keine abschließenden Compliance-Entscheidungen darauf stützen.
 2. Einen auf IT-Recht, Datenschutz oder Produktsicherheit spezialisierten Anwalt hinzuziehen.
 3. Die Fachkenntnisse einer benannten Stelle oder akkreditierten Prüfeinrichtung in Betracht ziehen.
 
 ## Keine Einschränkung des Workflows
 
-Die Empfehlung eines Fachanwalts schließt die weitere Nutzung dieses Workflows nicht aus. Der Workflow kann als strukturierte Vorbereitung für ein Beratungsgespräch dienen.
+Die Empfehlung eines Fachanwalts schließt die weitere Nutzung dieses Workflows nicht aus. Der kann als strukturierte Vorbereitung für ein Beratungsgespräch dienen.
 
 ---
 
@@ -437,7 +437,7 @@ Gepruefte Norm(en): [Art. 9 Rn. 1]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

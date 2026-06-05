@@ -1,19 +1,19 @@
 ---
 name: aufsichtsrechtliche-schnellampel
-description: "Nutze dies, wenn Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2B Lieferketten Forderungsbestand Und Reklamationsrisiko im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2B Lieferketten Forderungsbestand Und Reklamationsrisiko prüfen.; Erstelle eine Arbeitsfassung zu Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2B Lieferketten Forderungsbestand Und Reklamationsrisiko.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2b Lieferketten Forderungsbestand Und Reklamationsrisiko: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2B Lieferketten Forderungsbestand Und Reklamationsrisiko
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2B Lieferketten Forderungsbestand Und Reklamationsrisiko** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `aufsichtsrechtliche-schnellampel-kwg-zag` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG. |
+| `aufsichtsrechtliche-schnellampel-kwg-zag` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG. |
 | `auslandsfactoring-import-export-two-factor-system` | Auslandsfactoring Import Export Two-Factor-System: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `b2b-lieferketten-forderungsbestand-und-reklamationsrisiko` | B2B Lieferketten Forderungsbestand und Reklamationsrisiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 
@@ -26,7 +26,7 @@ Für **Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export
 
 ## 1. `aufsichtsrechtliche-schnellampel-kwg-zag`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG.
 
 # Aufsichtsrechtliche Schnellampel KWG ZAG
 
@@ -68,7 +68,7 @@ Fragen zum Einstieg:
 - **§ 10 ZAG**: Erlaubnispflicht Zahlungsinstitut.
 - **GwG**: Geldwäscherechtliche Verpflichtungen, da Factor Verpflichteter ist (§ 2 Abs. 1 Nr. 6 GwG).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Geschäftsmodell skizzieren**: Welche Forderungen werden gekauft, von wem, mit welchem Volumen, in welcher Frequenz?
 2. **Rahmenvertrag prüfen**: Gibt es einen Rahmenvertrag mit laufender Verpflichtung oder nur Einzelankäufe?
@@ -189,7 +189,7 @@ Fragen zum Einstieg:
 - **AWG / AWV**: Außenwirtschaftsrecht, Genehmigungs- und Meldepflichten.
 - **EU-Sanktionsregime**: VO (EU) 833/2014, 269/2014 etc. – Russland, Iran, Belarus.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Länder und Vertragstyp klären**: Sitz Verkäufer, Debitor, Factor. Lieferkette skizzieren.
 2. **Rechtswahl im Liefervertrag prüfen**: Welches Recht regelt die zugrundeliegende Forderung?
@@ -307,7 +307,7 @@ Fragen zum Einstieg:
 - **Incoterms**: International Commercial Terms, regeln Gefahrübergang.
 - **EU-Richtlinie 2011/7/EU** zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr (Umsetzung in § 271a BGB).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Branchen- und Risikoprofil aufnehmen**: Reklamationsquote, durchschnittlicher Abzug, Lieferkettenstabilität.
 2. **Belegkette definieren**: Welche Dokumente pro Forderung notwendig (Bestellung, AB, LS, Abnahme, Rechnung)?

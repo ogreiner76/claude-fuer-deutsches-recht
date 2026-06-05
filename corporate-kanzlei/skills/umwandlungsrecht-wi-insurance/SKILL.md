@@ -1,13 +1,13 @@
 ---
 name: umwandlungsrecht-wi-insurance
-description: "Nutze dies, wenn Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -91,7 +91,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Schritt-fuer-Schritt-Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 1. **Umwandlungsart und Zielstruktur bestimmen** — Verschmelzung, Spaltung, Formwechsel; Steuerberatung einbeziehen (UmwStG)
@@ -132,19 +132,19 @@ Notar: [NAME, ADRESSE]
 PRAEMBEL
 
 1. VERTRAGSPARTEIEN
-   Uebertragende Gesellschaft (1): [FIRMA, Sitz, HRB-Nr.]
-   Aufnehmende Gesellschaft: [FIRMA, Sitz, HRB-Nr.]
+ Uebertragende Gesellschaft (1): [FIRMA, Sitz, HRB-Nr.]
+ Aufnehmende Gesellschaft: [FIRMA, Sitz, HRB-Nr.]
 
 2. GEGENSTAND DER VERSCHMELZUNG
-   Die uebertragende Gesellschaft uebertraegt ihr Vermoegen einschliesslich aller Verbindlichkeiten
-   im Wege der Verschmelzung durch Aufnahme auf die aufnehmende Gesellschaft.
+ Die uebertragende Gesellschaft uebertraegt ihr Vermoegen einschliesslich aller Verbindlichkeiten
+ im Wege der Verschmelzung durch Aufnahme auf die aufnehmende Gesellschaft.
 
 3. GEWAEHRUNG VON ANTEILEN (§ 5 UmwG)
-   Umtauschverhaeltnis: [X Anteile an aufnehmender Gesellschaft fuer Y Anteile an uebertragender]
-   Zuzahlung: [keine / [Betrag EUR]]
+ Umtauschverhaeltnis: [X Anteile an aufnehmender Gesellschaft fuer Y Anteile an uebertragender]
+ Zuzahlung: [keine / [Betrag EUR]]
 
 4. BEWERTUNGSSTICHTAG UND BUCHWERT
-   Stichtag: [DATUM]; Buchwertfortfuehrung nach § 11 UmwStG: [Ja / Nein]
+ Stichtag: [DATUM]; Buchwertfortfuehrung nach § 11 UmwStG: [Ja / Nein]
 
 5. RECHTE DER INHABER BESONDERER RECHTE
 
@@ -366,12 +366,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Transaktionsvolumen > 15 Mio. EUR EV?
-  → Ja: Verkaefer = PE-Fonds oder Insolvenzmasse?
-       → Ja: W&I fast immer sinnvoll (PE will Clean Exit)
-       → Nein: DD-Ergebnis: Erhebliche bekannte Risiken?
-            → Ja: W&I fuer unbekannte Risiken; Indemnities fuer bekannte
-            → Nein: W&I als kosteneffizienter Ersatz fuer Haeftungsrisiko
-  → Nein: W&I wirtschaftlich meist nicht sinnvoll (Mindestpraemie)
+ → Ja: Verkaefer = PE-Fonds oder Insolvenzmasse?
+ → Ja: W&I fast immer sinnvoll (PE will Clean Exit)
+ → Nein: DD-Ergebnis: Erhebliche bekannte Risiken?
+ → Ja: W&I fuer unbekannte Risiken; Indemnities fuer bekannte
+ → Nein: W&I als kosteneffizienter Ersatz fuer Haeftungsrisiko
+ → Nein: W&I wirtschaftlich meist nicht sinnvoll (Mindestpraemie)
 ```
 
 ## Output-Template W&I-Praemienvergleich

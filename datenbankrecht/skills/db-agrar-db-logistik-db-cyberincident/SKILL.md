@@ -1,13 +1,13 @@
 ---
 name: db-agrar-db-logistik-db-cyberincident
-description: "Nutze dies, wenn Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident prüfen.; Erstelle eine Arbeitsfassung zu Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

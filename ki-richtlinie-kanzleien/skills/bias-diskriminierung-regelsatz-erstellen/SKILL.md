@@ -1,13 +1,13 @@
 ---
 name: bias-diskriminierung-regelsatz-erstellen
-description: "Nutze dies, wenn Bias Und Diskriminierung Prüfung, Compliance Regelsatz Erstellen, Dienstleister Due Diligence im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Bias Und Diskriminierung Prüfung, Compliance Regelsatz Erstellen, Dienstleister Due Diligence prüfen.; Erstelle eine Arbeitsfassung zu Bias Und Diskriminierung Prüfung, Compliance Regelsatz Erstellen, Dienstleister Due Diligence.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bias Und Diskriminierung Prüfung, Compliance Regelsatz Erstellen, Dienstleister Due Diligence: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bias Und Diskriminierung Prüfung, Compliance Regelsatz Erstellen, Dienstleister Due Diligence
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bias Und Diskriminierung Prüfung, Compliance Regelsatz Erstellen, Dienstleister Due Diligence** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -119,7 +119,7 @@ Der Regelsatz operationalisiert die zentralen Rechtspflichten: § 43a Abs. 2 BRA
 ## Vorgehen
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Zielgruppe definieren**: Unterschiedliche Regeln für anwaltliche und nicht-anwaltliche Mitarbeitende oder einheitlicher Regelsatz für alle?
 2. **Zehn Gebote formulieren**: Aus den rechtlichen Anforderungen konkrete Handlungsregeln ableiten.

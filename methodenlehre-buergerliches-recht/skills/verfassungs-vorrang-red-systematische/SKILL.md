@@ -1,13 +1,13 @@
 ---
 name: verfassungs-vorrang-red-systematische
-description: "Nutze dies, wenn Spezial Verfassungs Mandantenkommunikation Entscheidungsvorlage, Spezial Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen, Systemtheorie Luhmann Rechtssystem Autopoiese im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Verfassungs Mandantenkommunikation Entscheidungsvorlage, Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verfassungs Mandantenkommunikation Entscheidungsvorlage, Spezial Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen, Systemtheorie Luhmann Rechtssystem Autopoiese
+# Verfassungs Mandantenkommunikation Entscheidungsvorlage, Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen, Systemtheorie Luhmann Rechtssystem Autopoiese
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verfassungs Mandantenkommunikation Entscheidungsvorlage, Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen, Systemtheorie Luhmann Rechtssystem Autopoiese** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verfassungs Mandantenkommunikation Entscheidungsvorlage, Spezial Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen, Systemtheorie Luhmann Rechtssystem Autopoiese** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verfassungs Mandantenkommunikation Entscheidungsvorlage, Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen, Systemtheorie Luhmann Rechtssystem Autopoiese** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

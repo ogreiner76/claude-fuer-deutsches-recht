@@ -1,34 +1,34 @@
 ---
 name: rechtsmittel-weg-miet-weg-restaurant-weg
-description: "Nutze dies, wenn Workflow Rechtsmittel Miet Weg, Workflow Redteam Miet Weg, Workflow Redteam Qualitygate, Workflow Restaurant In Weg Anlage, Workflow Risikoampel Raeumung im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Rechtsmittel Miet Weg, Redteam Miet Weg, Redteam Qualitygate, Restaurant In Weg Anlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Rechtsmittel Miet Weg, Workflow Redteam Miet Weg, Workflow Redteam Qualitygate, Workflow Restaurant In Weg Anlage, Workflow Risikoampel Raeumung
+# Rechtsmittel Miet Weg, Redteam Miet Weg, Redteam Qualitygate, Restaurant In Weg Anlage, Risikoampel Raeumung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsmittel Miet Weg, Redteam Miet Weg, Redteam Qualitygate, Restaurant In Weg Anlage, Risikoampel Raeumung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-rechtsmittel-miet-weg` | Rechtsmittel Miet/WEG: Workflow-Skill für Miet- und WEG-Recht; prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-redteam-miet-weg` | Red-Team Miet/WEG: Workflow-Skill für Miet- und WEG-Recht; findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-rechtsmittel-miet-weg` | Rechtsmittel Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-redteam-miet-weg` | Red-Team Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-miet-wohnungseigentumsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `workflow-restaurant-in-weg-anlage` | Restaurant in WEG-Anlage: Workflow-Skill für Miet- und WEG-Recht; sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-risikoampel-raeumung` | Räumungsrisiko-Ampel: Workflow-Skill für Miet- und WEG-Recht; prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-restaurant-in-weg-anlage` | Restaurant in WEG-Anlage: Arbeitsmodul für Miet- und WEG-Recht; sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-risikoampel-raeumung` | Räumungsrisiko-Ampel: Arbeitsmodul für Miet- und WEG-Recht; prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Rechtsmittel Miet Weg, Workflow Redteam Miet Weg, Workflow Redteam Qualitygate, Workflow Restaurant In Weg Anlage, Workflow Risikoampel Raeumung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsmittel Miet Weg, Redteam Miet Weg, Redteam Qualitygate, Restaurant In Weg Anlage, Risikoampel Raeumung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-rechtsmittel-miet-weg`
 
-**Fokus:** Rechtsmittel Miet/WEG: Workflow-Skill für Miet- und WEG-Recht; prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Rechtsmittel Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Rechtsmittel Miet/WEG
 
@@ -42,9 +42,9 @@ Für **Workflow Rechtsmittel Miet Weg, Workflow Redteam Miet Weg, Workflow Redte
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Berufung, Beschwer, Zulassung, Frist, Vollstreckungsschutz.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -57,7 +57,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -73,7 +73,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 2. `workflow-redteam-miet-weg`
 
-**Fokus:** Red-Team Miet/WEG: Workflow-Skill für Miet- und WEG-Recht; findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Red-Team Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Red-Team Miet/WEG
 
@@ -87,9 +87,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: findet Fristenfehler, falsche Normen, Beweislücken und unklare Anträge.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -102,7 +102,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -132,10 +132,10 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-miet-wohnungseigentumsrecht` Red-Team Qualitygate im Plugin fachanwalt-miet-wohnungseigentumsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-miet-wohnungseigentumsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -145,7 +145,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -162,7 +162,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 4. `workflow-restaurant-in-weg-anlage`
 
-**Fokus:** Restaurant in WEG-Anlage: Workflow-Skill für Miet- und WEG-Recht; sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Restaurant in WEG-Anlage: Arbeitsmodul für Miet- und WEG-Recht; sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Restaurant in WEG-Anlage
 
@@ -176,9 +176,9 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Geruch, Lärm, Sondernutzung, Bauordnungsrecht und Beschlusskompetenz.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -191,7 +191,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -207,7 +207,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-risikoampel-raeumung`
 
-**Fokus:** Räumungsrisiko-Ampel: Workflow-Skill für Miet- und WEG-Recht; prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Räumungsrisiko-Ampel: Arbeitsmodul für Miet- und WEG-Recht; prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Räumungsrisiko-Ampel
 
@@ -221,9 +221,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Titelrisiko, Schonfrist, Härtefall, Vollstreckung und Vergleich.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -236,7 +236,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab

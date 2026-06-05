@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Immissionsschutz (BImSchG)
-Ressort:            BMUKN
-Kernnormen:         BImSchG; BImSchV (1-44; TA Luft; TA Laerm); BBodSchG; UVPG; UmwRG.
-Akteure/Aufsicht:   UBA; BfS (Strahlen); Laender-Genehmigungsbehoerden; Bundesverwaltung Verkehr.
-EU/Voelkerrecht:    IED-RL; Luftqualitaets-RL; Umgebungslaerm-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmukn; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Immissionsschutz (BImSchG)
+Ressort: BMUKN
+Kernnormen: BImSchG; BImSchV (1-44; TA Luft; TA Laerm); BBodSchG; UVPG; UmwRG.
+Akteure/Aufsicht: UBA; BfS (Strahlen); Laender-Genehmigungsbehoerden; Bundesverwaltung Verkehr.
+EU/Voelkerrecht: IED-RL; Luftqualitaets-RL; Umgebungslaerm-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

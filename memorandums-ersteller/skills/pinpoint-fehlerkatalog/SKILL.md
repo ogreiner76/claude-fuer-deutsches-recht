@@ -1,6 +1,6 @@
 ---
 name: pinpoint-fehlerkatalog
-description: "Nutze dies, wenn Pinpoint Fehlerkatalog im Plugin Memorandums Ersteller konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Pinpoint Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Pinpoint Fehlerkatalog

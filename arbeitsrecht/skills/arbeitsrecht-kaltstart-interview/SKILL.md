@@ -31,13 +31,13 @@ Arbeitsrecht ist standort- und betriebsgebunden. Die richtige Antwort in einem t
 ### Vorabprüfung
 
 1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` prüfen.
-   - `--check-integrations`: Nur den Integrationsabschnitt neu ermitteln, Interview überspringen.
-   - `--redo`: Vollständiges Interview neu ausführen, auch wenn Konfiguration vorhanden.
-   - Kein Flag: Falls Konfiguration vorhanden und vollständig (keine `[PLATZHALTER]`), melden: "Plugin bereits eingerichtet. Änderung mit `--redo` oder gezielt mit `/arbeitsrecht:arbeitsrecht-anpassen`."
-   - Falls Konfiguration aus altem Cache-Pfad vorhanden: Dorthin migrieren und mitteilen.
+ - `--check-integrations`: Nur den Integrationsabschnitt neu ermitteln, Interview überspringen.
+ - `--redo`: Vollständiges Interview neu ausführen, auch wenn Konfiguration vorhanden.
+ - Kein Flag: Falls Konfiguration vorhanden und vollständig (keine `[PLATZHALTER]`), melden: "Plugin bereits eingerichtet. Änderung mit `--redo` oder gezielt mit `/arbeitsrecht:arbeitsrecht-anpassen`."
+ - Falls Konfiguration aus altem Cache-Pfad vorhanden: Dorthin migrieren und mitteilen.
 
 2. **Teil 0 – Was ist verbunden?**
-   Alle konfigurierten Integrationen aktiv testen (nicht nur deklariert). Nur `✓` melden, wenn ein Tool-Aufruf in dieser Sitzung erfolgreich war. Nicht getestete Integrationen: `⚪` mit kurzem Hinweis zur Prüfung.
+ Alle konfigurierten Integrationen aktiv testen (nicht nur deklariert). Nur `✓` melden, wenn ein Tool-Aufruf in dieser Sitzung erfolgreich war. Nicht getestete Integrationen: `⚪` mit kurzem Hinweis zur Prüfung.
 
 ### Interview (Teile 1–5)
 
@@ -120,23 +120,23 @@ Abschlussbericht des Interviews:
 Arbeitsrecht-Plugin: Einrichtung abgeschlossen
 =============================================
 
-Praxisumfeld:    [Kanzlei/in-house/Syndikus]
-Nutzerrolle:     [Anwalt / HR mit Zugang / HR ohne Zugang]
+Praxisumfeld: [Kanzlei/in-house/Syndikus]
+Nutzerrolle: [Anwalt / HR mit Zugang / HR ohne Zugang]
 KSchG anwendbar: [ja/nein – Begründung]
-Tarifbindung:    [ja: Tarif / nein]
-Betriebsrat:     [ja / nein / unklar]
+Tarifbindung: [ja: Tarif / nein]
+Betriebsrat: [ja / nein / unklar]
 
 Standorte:
-  DE-BY: N Mitarbeiter
-  DE-NW: N Mitarbeiter
-  [...]
+ DE-BY: N Mitarbeiter
+ DE-NW: N Mitarbeiter
+ [...]
 
 Eskalationstabelle:
-  Betriebsbedingte Kündigung   → immer GC + Außenberater
-  Kündigung Schwerbehinderte   → immer Inklusionsamt § 168 SGB IX
-  Kündigung BR-Mitglied        → immer § 15 KSchG prüfen, GC
-  Kündigung Schwangerschaft     → § 17 MuSchG Zustimmung Behörde
-  [...]
+ Betriebsbedingte Kündigung → immer GC + Außenberater
+ Kündigung Schwerbehinderte → immer Inklusionsamt § 168 SGB IX
+ Kündigung BR-Mitglied → immer § 15 KSchG prüfen, GC
+ Kündigung Schwangerschaft → § 17 MuSchG Zustimmung Behörde
+ [...]
 
 Seed-Dokumente gelesen: [N]
 ⚪ Integrationen: [Liste mit Status]

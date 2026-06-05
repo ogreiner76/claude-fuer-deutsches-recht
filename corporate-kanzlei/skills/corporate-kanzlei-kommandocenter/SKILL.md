@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-kommandocenter
-description: "Deal-Kommandocenter Corporate/M&A: Schnellstart für Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Spezialskill (SPA, DD, StaRUG, Kapitalmarkt, Register)."
+description: "Deal-Kommandocenter Corporate/M&A: Schnellstart für Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Fachmodul (SPA, DD, StaRUG, Kapitalmarkt, Register)."
 ---
 
 # Deal-Kommandocenter — Corporate/M&A
@@ -13,7 +13,7 @@ description: "Deal-Kommandocenter Corporate/M&A: Schnellstart für Mandate. Erke
 
 ## Fachkern: Deal-Kommandocenter — Corporate/M&A
 
-- **Corporate-Aufgabe (Deal-Kommandocenter — Corporate/M&A):** Schnellstart für Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Spezialskill (SPA, DD, StaRUG, Kapitalmarkt, Register).
+- **Corporate-Aufgabe (Deal-Kommandocenter — Corporate/M&A):** Schnellstart für Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Fachmodul (SPA, DD, StaRUG, Kapitalmarkt, Register).
 - **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
 - **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
 - **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
@@ -128,7 +128,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Deal-Routing-Matrix
 
-| Dealtyp / Thema | Primärer Spezialskill | Sekundärer Spezialskill |
+| Dealtyp / Thema | Primärer Fachmodul | Sekundärer Fachmodul |
 |---|---|---|
 | SPA / APA Entwurf und Verhandlung | `corporate-kanzlei-spa-apa-entwurf` | `corporate-kanzlei-vertragsmarkup-key-issues` |
 | Legal Due Diligence | `corporate-kanzlei-due-diligence-legal` | `corporate-kanzlei-due-diligence-reporting` |
@@ -151,10 +151,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. **Parteiperspektive klären** — Buy-side oder Sell-side; Target-Management, Aufsichtsrat oder Finanzierungspartei?
 3. **Deal-Phase bestimmen** — welche Phase ist aktiv; was ist die unmittelbare nächste Aktion?
 4. **Zeitkritische Elemente identifizieren** — Signing/Closing-Datum, behördliche Fristläufe, Insolvenzantragspflicht?
-5. **Routing-Entscheidung** — passenden Spezialskill aus Deal-Routing-Matrix auswählen.
+5. **Routing-Entscheidung** — passenden Fachmodul aus Deal-Routing-Matrix auswählen.
 6. **Deal-Karte erstellen** — Standardausgabe mit Ampel, Rollen, Owner, Deadline, Risiko, Freigabegrad.
 7. **Rote Schwellen prüfen** — Stop bei Insiderinformation, Clean-Room-Problem, unklarem Closing-Datum oder Insolvenzantragspflicht.
-8. **An Spezialskill übergeben** — Deal-Karte und Sachverhalt weitergeben; offene Punkte als TODO mit Owner und Frist.
+8. **An Fachmodul übergeben** — Deal-Karte und Sachverhalt weitergeben; offene Punkte als TODO mit Owner und Frist.
 
 ## Output-Template Deal-Karte
 
@@ -166,20 +166,20 @@ Datum: [Datum]
 Ersteller: [Name, Funktion]
 
 ÜBERSICHT
-Dealtyp:          [Share Deal / Asset Deal / Umwandlung / Distressed / Kapitalerhöhung]
+Dealtyp: [Share Deal / Asset Deal / Umwandlung / Distressed / Kapitalerhöhung]
 Parteiperspektive:[Buy-side / Sell-side / Target-Management / W&I / Financing]
-Deal-Phase:       [Origination / Vorbereitung / DD / Verhandlung / Signing / Closing / PMI]
-Signing:          [Datum oder "ausstehend"]
-Closing:          [Datum oder "ausstehend — Bedingungen offen"]
+Deal-Phase: [Origination / Vorbereitung / DD / Verhandlung / Signing / Closing / PMI]
+Signing: [Datum oder "ausstehend"]
+Closing: [Datum oder "ausstehend — Bedingungen offen"]
 
 AMPELSTATUS
 | Workstream | Status | Owner | Nächste Aktion | Deadline |
 |-----------|--------|-------|----------------|---------|
-| Legal DD  | 🟢/🟡/🔴 | [Name] | [Aktion] | [Datum] |
+| Legal DD | 🟢/🟡/🔴 | [Name] | [Aktion] | [Datum] |
 | SPA Verh. | 🟢/🟡/🔴 | [Name] | [Aktion] | [Datum] |
 | Regulatory| 🟢/🟡/🔴 | [Name] | [Aktion] | [Datum] |
-| Closing   | 🟢/🟡/🔴 | [Name] | [Aktion] | [Datum] |
-| PMI       | 🟢/🟡/🔴 | [Name] | [Aktion] | [Datum] |
+| Closing | 🟢/🟡/🔴 | [Name] | [Aktion] | [Datum] |
+| PMI | 🟢/🟡/🔴 | [Name] | [Aktion] | [Datum] |
 
 ROTE SCHWELLEN (aktiv)
 [ ] Frist oder Closing-Datum unklar
@@ -188,13 +188,13 @@ ROTE SCHWELLEN (aktiv)
 [ ] Fusionskontrolle / FDI-Freigabe ausstehend
 
 ROUTING
-Primärer Spezialskill: [Skill-Name]
-Sekundärer Skill:      [Skill-Name oder —]
+Primärer Fachmodul: [Skill-Name]
+Sekundärer Skill: [Skill-Name oder —]
 
 OFFENE PUNKTE (TODO)
 | Nr. | Punkt | Owner | Frist | Eskalation |
 |----|-------|-------|-------|------------|
-| 1  | [Punkt] | [Name] | [Datum] | [Stufe] |
+| 1 | [Punkt] | [Name] | [Datum] | [Stufe] |
 
 FREIGABEGRAD: [Entwurf / Freigegeben durch Partner / Vertraulich — nur intern]
 ```

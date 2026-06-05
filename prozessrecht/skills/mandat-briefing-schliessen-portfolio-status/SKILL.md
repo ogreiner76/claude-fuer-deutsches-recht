@@ -1,13 +1,13 @@
 ---
 name: mandat-briefing-schliessen-portfolio-status
-description: "Nutze dies, wenn Mandat Briefing, Mandat Schliessen, Portfolio Status im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Mandat Briefing, Mandat Schliessen, Portfolio Status prüfen.; Erstelle eine Arbeitsfassung zu Mandat Briefing, Mandat Schliessen, Portfolio Status.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandat Briefing, Mandat Schliessen, Portfolio Status: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mandat Briefing, Mandat Schliessen, Portfolio Status
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandat Briefing, Mandat Schliessen, Portfolio Status** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,28 +45,28 @@ Erzeugung eines strukturierten Tiefenbriefings zu einem einzelnen Mandat auf Bas
 1. **Mandatsdaten laden:** `mandate/[slug]/mandat.md` und `mandate/[slug]/verlauf.md` einlesen.
 
 2. **Verfahrensstand zusammenfassen:**
-   - Parteien, Gericht, Aktenzeichen
-   - Verfahrensstadium (Klagezustellung, Schriftsatzphase, Beweisaufnahme, Urteil, Rechtsmittel, Vollstreckung)
-   - Ansprüche / Streitgegenstand (§ 264 ZPO)
-   - Bisheriger Verfahrensverlauf (Chronologie der Verfahrenshandlungen)
+ - Parteien, Gericht, Aktenzeichen
+ - Verfahrensstadium (Klagezustellung, Schriftsatzphase, Beweisaufnahme, Urteil, Rechtsmittel, Vollstreckung)
+ - Ansprüche / Streitgegenstand (§ 264 ZPO)
+ - Bisheriger Verfahrensverlauf (Chronologie der Verfahrenshandlungen)
 
 3. **Entwicklungen seit letztem Update:**
-   - Letzte Eintrag in verlauf.md identifizieren
-   - Neue Schriftsätze, Gerichtsentscheidungen, Vergleichsgespräche
+ - Letzte Eintrag in verlauf.md identifizieren
+ - Neue Schriftsätze, Gerichtsentscheidungen, Vergleichsgespräche
 
 4. **Fristen-Check:**
-   - Nächste Frist (Schriftsatzfrist, Berufungsfrist, Urteilsfrist, Vollstreckungsverjährung)
-   - Risiko-Frist (in roter Zone wenn < 14 Tage)
+ - Nächste Frist (Schriftsatzfrist, Berufungsfrist, Urteilsfrist, Vollstreckungsverjährung)
+ - Risiko-Frist (in roter Zone wenn < 14 Tage)
 
 5. **Offene Handlungspunkte:**
-   - Was muss der Anwalt noch erledigen?
-   - Was ist von der Gegenseite / dem Gericht ausstehend?
-   - Welche Beweise fehlen noch?
+ - Was muss der Anwalt noch erledigen?
+ - Was ist von der Gegenseite / dem Gericht ausstehend?
+ - Welche Beweise fehlen noch?
 
 6. **Risikoneueinschätzung:**
-   - Änderung der Risikoeinschätzung seit letztem Intake? (BGH-Rechtsprechung, neue Sachverhalte)
-   - Expositionsschätzung (untere / mittlere / obere Schadenswert-Bandbreite)
-   - Vergleichspotential (§ 278 Abs. 1 ZPO: Gericht soll in jeder Lage des Verfahrens auf Vergleich hinwirken)
+ - Änderung der Risikoeinschätzung seit letztem Intake? (BGH-Rechtsprechung, neue Sachverhalte)
+ - Expositionsschätzung (untere / mittlere / obere Schadenswert-Bandbreite)
+ - Vergleichspotential (§ 278 Abs. 1 ZPO: Gericht soll in jeder Lage des Verfahrens auf Vergleich hinwirken)
 
 7. **Ausgabe:** Strukturiertes Briefing-Memo im Urteilsstil oder als Executive Summary.
 
@@ -83,11 +83,11 @@ Verbindlich: `../references/zitierweise.md`.
 ```
 MANDAT-BRIEFING
 ──────────────────────────────────────
-Mandat:         [Slug]
-Parteien:       [Kläger] ./. [Beklagter]
-Gericht / Az.:  [Gericht], Az. [JJJJ] [Aktenzeichen]
+Mandat: [Slug]
+Parteien: [Kläger] ./. [Beklagter]
+Gericht / Az.: [Gericht], Az. [JJJJ] [Aktenzeichen]
 Verfahrensstufe: [z. B. Berufung – OLG Frankfurt]
-Stand:          TT.MM.JJJJ
+Stand: TT.MM.JJJJ
 MANDATSGEHEIMNIS – § 43a Abs. 2 BRAO
 
 ──────────────────────────────────────
@@ -149,36 +149,36 @@ Strukturierter Abschluss eines Mandats im Portfolio: Ergebnis dokumentieren, Kos
 
 1. **Abschlusstype und Ergebnis erfassen:**
 
-   | Typ | Relevante Normen |
-   |---|---|
-   | Urteil (Endurteil) | §§ 300 ff. ZPO; Rechtskraft § 322 ZPO |
-   | Anerkenntnisurteil | § 307 ZPO |
-   | Versäumnisurteil | §§ 330 ff. ZPO |
-   | Vergleich | §§ 794 Abs. 1 Nr. 1, 278 ZPO; vollstreckbar |
-   | Klagerücknahme | §§ 269, 270 ZPO; Kostenfolge § 269 Abs. 3 ZPO |
-   | Erledigungserklärung | § 91a ZPO; Kostenbeschluss |
-   | Einstellung (Strafrecht) | §§ 153, 153a, 170 Abs. 2, 204 StPO |
-   | Verfahrensvergleich (Verwaltungsrecht) | § 106 VwGO |
+ | Typ | Relevante Normen |
+ |---|---|
+ | Urteil (Endurteil) | §§ 300 ff. ZPO; Rechtskraft § 322 ZPO |
+ | Anerkenntnisurteil | § 307 ZPO |
+ | Versäumnisurteil | §§ 330 ff. ZPO |
+ | Vergleich | §§ 794 Abs. 1 Nr. 1, 278 ZPO; vollstreckbar |
+ | Klagerücknahme | §§ 269, 270 ZPO; Kostenfolge § 269 Abs. 3 ZPO |
+ | Erledigungserklärung | § 91a ZPO; Kostenbeschluss |
+ | Einstellung (Strafrecht) | §§ 153, 153a, 170 Abs. 2, 204 StPO |
+ | Verfahrensvergleich (Verwaltungsrecht) | § 106 VwGO |
 
 2. **Endexposition berechnen:**
-   - Gezahlter Betrag / auferlegte Leistung
-   - Kostenfestsetzung (§§ 103 ff. ZPO): eigene Kosten + erstattete / zu erstattende Kosten
-   - Vergleich mit ursprünglicher Risikoschätzung (Intake-Wert)
+ - Gezahlter Betrag / auferlegte Leistung
+ - Kostenfestsetzung (§§ 103 ff. ZPO): eigene Kosten + erstattete / zu erstattende Kosten
+ - Vergleich mit ursprünglicher Risikoschätzung (Intake-Wert)
 
 3. **Honorar und Gebühren:**
-   - Letzte Abrechnung nach RVG (§ 8 RVG: Fälligkeit mit Mandatsbeendigung)
-   - Offene Vorschüsse (§ 9 RVG) zurückerstatten oder verrechnen
-   - Fremdgelder abwickeln (§ 43a Abs. 5 BRAO: unverzügliche Weiterleitung)
+ - Letzte Abrechnung nach RVG (§ 8 RVG: Fälligkeit mit Mandatsbeendigung)
+ - Offene Vorschüsse (§ 9 RVG) zurückerstatten oder verrechnen
+ - Fremdgelder abwickeln (§ 43a Abs. 5 BRAO: unverzügliche Weiterleitung)
 
 4. **Lessons Learned:**
-   - Was lief gut / schlecht?
-   - Prozessführungsempfehlung für künftige vergleichbare Mandate?
-   - BGH- oder OLG-Urteile, die im Mandat relevant waren und für spätere Mandate zu merken sind?
+ - Was lief gut / schlecht?
+ - Prozessführungsempfehlung für künftige vergleichbare Mandate?
+ - BGH- oder OLG-Urteile, die im Mandat relevant waren und für spätere Mandate zu merken sind?
 
 5. **Handakte archivieren (§ 50 BRAO):**
-   - Handakte für mind. 6 Jahre nach Mandatsende aufbewahren
-   - Elektronische Akte: gleichwertige Sicherung (§ 50 Abs. 2 BRAO)
-   - Herausgabepflicht auf Verlangen (§ 50 Abs. 3 BRAO)
+ - Handakte für mind. 6 Jahre nach Mandatsende aufbewahren
+ - Elektronische Akte: gleichwertige Sicherung (§ 50 Abs. 2 BRAO)
+ - Herausgabepflicht auf Verlangen (§ 50 Abs. 3 BRAO)
 
 6. **Portfolio-Log aktualisieren:** Status in `_log.yaml` auf `archiv` setzen; Abschlussdatum, Ergebnis, Endexposition eintragen.
 
@@ -196,9 +196,9 @@ Verbindlich: `../references/zitierweise.md`.
 ```
 MANDAT-ABSCHLUSS
 ──────────────────────────────────────
-Mandat-Slug:    [slug]
+Mandat-Slug: [slug]
 Schließungsdatum: TT.MM.JJJJ
-Typ:            [z. B. Vergleich]
+Typ: [z. B. Vergleich]
 MANDATSGEHEIMNIS – § 43a Abs. 2 BRAO
 
 ──────────────────────────────────────
@@ -209,10 +209,10 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 ──────────────────────────────────────
 ENDEXPOSITION
 ──────────────────────────────────────
-Eingeklagter Betrag:       EUR XX.XXX
-Vergleichszahlung:         EUR XX.XXX
-Kostenerstattung:          EUR X.XXX (§§ 103 ff. ZPO)
-Ursprüngliche Schätzung:   EUR XX.XXX – EUR XX.XXX
+Eingeklagter Betrag: EUR XX.XXX
+Vergleichszahlung: EUR XX.XXX
+Kostenerstattung: EUR X.XXX (§§ 103 ff. ZPO)
+Ursprüngliche Schätzung: EUR XX.XXX – EUR XX.XXX
 
 ──────────────────────────────────────
 LESSONS LEARNED
@@ -398,7 +398,7 @@ Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `
 - Überfällige Fristen: keine
 - Veraltet (>30 Tage): bauer-ag-revision-2024 (45 Tage)
 - Kritisches Risiko ohne externe Bevollmächtigte: mueller-gmbh-strafverfolgung-2025
-  → Empfehlung: unverzüglich externe Strafverteidigung mandatieren
+ → Empfehlung: unverzüglich externe Strafverteidigung mandatieren
 ```
 
 ## Auffälligkeitsregeln

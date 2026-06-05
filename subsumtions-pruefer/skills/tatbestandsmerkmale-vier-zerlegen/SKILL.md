@@ -1,13 +1,13 @@
 ---
 name: tatbestandsmerkmale-vier-zerlegen
-description: "Nutze dies, wenn Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behörden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente
+# Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behörden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behörden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Spezial Vier Behörden Gericht Und Registerweg, Spezial Zerlegen Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behörden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -87,7 +87,7 @@ Für die Durchsetzung Ihres Anspruchs aus § [Norm] benötigen wir noch folgende
 Ohne Dokument A ist eine Klageerhebung nicht empfehlenswert.
 ```
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
@@ -184,7 +184,7 @@ Dieser Skill bestimmt den richtigen Weg zu Behörde, Gericht oder Register. Er u
 | Gewerbeamt | Gewerbeanmeldung, -abmeldung | Kommunale Behörde |
 | Finanzamt | Steuerrecht, Umsatzsteuer | Elektronisch via ELSTER |
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
@@ -295,7 +295,7 @@ Für jedes vom Nutzer beanspruchte TBM: Was wird die Gegenseite einwenden?
 **Sekundäre Verteidigungslinie:** TBM erfüllt, aber Einrede erhoben (Verjährung, § 320, Aufrechnung).
 **Tertiäre Verteidigungslinie:** TBM und Einreden überwunden, aber Schaden / Kausalität bestritten.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

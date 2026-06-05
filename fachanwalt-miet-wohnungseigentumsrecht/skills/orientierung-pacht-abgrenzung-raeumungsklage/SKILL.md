@@ -1,34 +1,34 @@
 ---
 name: orientierung-pacht-abgrenzung-raeumungsklage
-description: "Nutze dies, wenn Spezial Orientierung Mandantenkommunikation Entscheidungsvorlage, Spezial Pacht Abgrenzung, Spezial Raeumungsklage Aufbau, Spezial Rauchwarnmelder, Spezial Schimmel Beweis Gutachten im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Orientierung Mandantenkommunikation Entscheidungsvorlage, Spezial Pacht Abgrenzung, Spezial Raeumungsklage Aufbau, Spezial Rauchwarnmelder, Spezial Schimmel Beweis Gutachten prüfen.; Erstelle eine Arbeitsfassung zu Spezial Orientierung Mandantenkommunikation Entscheidungsvorlage, Spezial Pacht Abgrenzung, Spezial Raeumungsklage Aufbau, Spezial Rauchwarnmelder, Spezial Schimmel Beweis Gutachten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Orientierung Mandantenkommunikation Entscheidungsvorlage, Pacht Abgrenzung, Raeumungsklage Aufbau, Rauchwarnmelder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Orientierung Mandantenkommunikation Entscheidungsvorlage, Spezial Pacht Abgrenzung, Spezial Raeumungsklage Aufbau, Spezial Rauchwarnmelder, Spezial Schimmel Beweis Gutachten
+# Orientierung Mandantenkommunikation Entscheidungsvorlage, Pacht Abgrenzung, Raeumungsklage Aufbau, Rauchwarnmelder, Schimmel Beweis Gutachten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Orientierung Mandantenkommunikation Entscheidungsvorlage, Pacht Abgrenzung, Raeumungsklage Aufbau, Rauchwarnmelder, Schimmel Beweis Gutachten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage` | Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-pacht-abgrenzung` | Pacht vs. Miete: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Fruchtziehung, Inventar, Betrieb, Kündigungsregime und Vertragsauslegung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-raeumungsklage-aufbau` | Räumungsklage Aufbau: Spezial-Skill im Miet- und Wohnungseigentumsrecht; erstellt Antrag, Tatsachenvortrag, Anlagen, Beweise, Nutzungsentschädigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-rauchwarnmelder` | Rauchwarnmelder: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Einbau, Wartung, Umlage, Zutritt, WEG-Zuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-schimmel-beweis-gutachten` | Schimmel Beweis/Gutachten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; trennt Baumangel, Nutzerverhalten, Messwerte, Lüftungsprotokoll, Sachverständigenfragen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage` | Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-pacht-abgrenzung` | Pacht vs. Miete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Fruchtziehung, Inventar, Betrieb, Kündigungsregime und Vertragsauslegung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-raeumungsklage-aufbau` | Räumungsklage Aufbau: Fachmodul im Miet- und Wohnungseigentumsrecht; erstellt Antrag, Tatsachenvortrag, Anlagen, Beweise, Nutzungsentschädigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-rauchwarnmelder` | Rauchwarnmelder: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Einbau, Wartung, Umlage, Zutritt, WEG-Zuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-schimmel-beweis-gutachten` | Schimmel Beweis/Gutachten: Fachmodul im Miet- und Wohnungseigentumsrecht; trennt Baumangel, Nutzerverhalten, Messwerte, Lüftungsprotokoll, Sachverständigenfragen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Orientierung Mandantenkommunikation Entscheidungsvorlage, Spezial Pacht Abgrenzung, Spezial Raeumungsklage Aufbau, Spezial Rauchwarnmelder, Spezial Schimmel Beweis Gutachten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Orientierung Mandantenkommunikation Entscheidungsvorlage, Pacht Abgrenzung, Raeumungsklage Aufbau, Rauchwarnmelder, Schimmel Beweis Gutachten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-orientierung-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Orientierung: Mandantenkommunikation und Entscheidungsvorlage im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Orientierung: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -42,7 +42,7 @@ Für **Spezial Orientierung Mandantenkommunikation Entscheidungsvorlage, Spezial
 
 
 ## Spezialwissen: Orientierung: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Orientierung: Mandantenkommunikation und Entscheidungsvorlage / spezial orientierung mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Orientierung: Mandantenkommunikation und Entscheidungsvorlage / orientierung mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-pacht-abgrenzung`
 
-**Fokus:** Pacht vs. Miete: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Fruchtziehung, Inventar, Betrieb, Kündigungsregime und Vertragsauslegung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Pacht vs. Miete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Fruchtziehung, Inventar, Betrieb, Kündigungsregime und Vertragsauslegung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Pacht vs. Miete
 
@@ -92,9 +92,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Fruchtziehung, Inventar, Betrieb, Kündigungsregime und Vertragsauslegung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Fruchtziehung, Inventar, Betrieb, Kündigungsregime und Vertragsauslegung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -123,7 +123,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-raeumungsklage-aufbau`
 
-**Fokus:** Räumungsklage Aufbau: Spezial-Skill im Miet- und Wohnungseigentumsrecht; erstellt Antrag, Tatsachenvortrag, Anlagen, Beweise, Nutzungsentschädigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Räumungsklage Aufbau: Fachmodul im Miet- und Wohnungseigentumsrecht; erstellt Antrag, Tatsachenvortrag, Anlagen, Beweise, Nutzungsentschädigung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Räumungsklage Aufbau
 
@@ -137,9 +137,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erstellt Antrag, Tatsachenvortrag, Anlagen, Beweise, Nutzungsentschädigung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erstellt Antrag, Tatsachenvortrag, Anlagen, Beweise, Nutzungsentschädigung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -168,7 +168,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-rauchwarnmelder`
 
-**Fokus:** Rauchwarnmelder: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Einbau, Wartung, Umlage, Zutritt, WEG-Zuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Rauchwarnmelder: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Einbau, Wartung, Umlage, Zutritt, WEG-Zuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Rauchwarnmelder
 
@@ -182,9 +182,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Einbau, Wartung, Umlage, Zutritt, WEG-Zuständigkeit.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Einbau, Wartung, Umlage, Zutritt, WEG-Zuständigkeit.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -213,7 +213,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-schimmel-beweis-gutachten`
 
-**Fokus:** Schimmel Beweis/Gutachten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; trennt Baumangel, Nutzerverhalten, Messwerte, Lüftungsprotokoll, Sachverständigenfragen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Schimmel Beweis/Gutachten: Fachmodul im Miet- und Wohnungseigentumsrecht; trennt Baumangel, Nutzerverhalten, Messwerte, Lüftungsprotokoll, Sachverständigenfragen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Schimmel Beweis/Gutachten
 
@@ -227,9 +227,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: trennt Baumangel, Nutzerverhalten, Messwerte, Lüftungsprotokoll, Sachverständigenfragen.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: trennt Baumangel, Nutzerverhalten, Messwerte, Lüftungsprotokoll, Sachverständigenfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

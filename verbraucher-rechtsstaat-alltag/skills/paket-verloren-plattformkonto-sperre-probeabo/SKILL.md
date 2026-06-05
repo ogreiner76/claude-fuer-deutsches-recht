@@ -1,13 +1,13 @@
 ---
 name: paket-verloren-plattformkonto-sperre-probeabo
-description: "Nutze dies, wenn Paket Verloren Nachbar Abgestellt, Plattformkonto Sperre, Probeabo Widerruf Kündigung im Plugin Verbraucher Rechtsstaat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Paket Verloren Nachbar Abgestellt, Plattformkonto Sperre, Probeabo Widerruf Kündigung prüfen.; Erstelle eine Arbeitsfassung zu Paket Verloren Nachbar Abgestellt, Plattformkonto Sperre, Probeabo Widerruf Kündigung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Paket Verloren Nachbar Abgestellt, Plattformkonto Sperre, Probeabo Widerruf Kündigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Paket Verloren Nachbar Abgestellt, Plattformkonto Sperre, Probeabo Widerruf Kündigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Paket Verloren Nachbar Abgestellt, Plattformkonto Sperre, Probeabo Widerruf Kündigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -180,4 +180,4 @@ Erzeuge:
 
 ## Red Flags
 
-Bei Minderjährigen, Identitätsmissbrauch, wiederkehrenden Abbuchungen oder gerichtlichem Mahnbescheid sofort zusätzliche Spezialskills nutzen.
+Bei Minderjährigen, Identitätsmissbrauch, wiederkehrenden Abbuchungen oder gerichtlichem Mahnbescheid sofort zusätzliche Fachmodule nutzen.

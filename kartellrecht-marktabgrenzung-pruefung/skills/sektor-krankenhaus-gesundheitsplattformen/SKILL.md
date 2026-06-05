@@ -1,13 +1,13 @@
 ---
 name: sektor-krankenhaus-gesundheitsplattformen
-description: "Nutze dies, wenn Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte, Sektor Pharma Generika Und Biotech im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte, Sektor Pharma Generika Und Biotech prüfen.; Erstelle eine Arbeitsfassung zu Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte, Sektor Pharma Generika Und Biotech.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte, Sektor Pharma Generika Und Biotech
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sektor Krankenhaus Und Gesundheitsplattformen, Sektor Lebensmittelhandel Einkaufsallianzen, Sektor Logistik Haefen Schiene Luftfracht, Sektor Oeffentliche Beschaffung Bietermaerkte, Sektor Pharma Generika Und Biotech** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Krankenhausfusionen, regionale Versorgungsmärkte, Qualität, Kostenträger, Telemedizin und Plattformzugang
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.
@@ -88,7 +88,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Nachfragemacht, Einkaufskooperationen, Lieferantenabhängigkeit, Handelsmarken und Konditionenaustausch
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.
@@ -131,7 +131,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Hub-Strukturen, Slot-/Terminalzugang, Ausschreibungen, Kapazitäten, Allianzen und internationale Zuständigkeit
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.
@@ -174,7 +174,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Bid Rigging, Bietergemeinschaften, Losbildung, Informationsaustausch, Vergabeschnittstelle und Schadensersatz
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.
@@ -217,7 +217,7 @@ Nutze diesen Skill, wenn der Fall in genau diesem Sektor spielt oder wenn eine M
 
 **Fokus:** Pay-for-delay, Patentsettlements, Biosimilars, Pipeline-Produkte, Innovationsmärkte und Lieferengpässe
 
-## Kaltstart
+## Einstieg
 
 1. Produkt, Kundengruppe, geografische Reichweite und Wertschöpfungsstufe bestimmen.
 2. Marktstruktur erfassen: Wettbewerber, Kunden, Gatekeeper, Inputfaktoren, Daten, Infrastruktur und Wechselkosten.

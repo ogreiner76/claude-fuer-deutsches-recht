@@ -1,13 +1,13 @@
 ---
 name: plakate-sondernutzung-presse-richtigstellung
-description: "Nutze dies, wenn Plakate Sondernutzung, Presse Und Richtigstellung, Protokoll Parteiversammlung im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Plakate Sondernutzung, Presse Und Richtigstellung, Protokoll Parteiversammlung prüfen.; Erstelle eine Arbeitsfassung zu Plakate Sondernutzung, Presse Und Richtigstellung, Protokoll Parteiversammlung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Plakate Sondernutzung, Presse Und Richtigstellung, Protokoll Parteiversammlung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Plakate Sondernutzung, Presse Und Richtigstellung, Protokoll Parteiversammlung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Plakate Sondernutzung, Presse Und Richtigstellung, Protokoll Parteiversammlung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Plakate Sondernutzung, Presse Und Richtigstellung, Protokoll Parteiversam
 ## Aufgabe
 Routet Plakatierung, Sondernutzung, kommunale Satzung, Gleichbehandlung, Fristen und Entfernung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Bereitet formal saubere Pressekorrespondenz, Richtigstellung und Trennung von Partei/Fraktion/Kandidat vor.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erstellt formal belastbares Protokoll für Parteitag, Kreisversammlung, Aufstellung, Vorstand und Schiedsgericht.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

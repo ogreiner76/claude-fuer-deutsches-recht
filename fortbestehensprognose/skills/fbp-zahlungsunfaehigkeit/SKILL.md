@@ -1,13 +1,13 @@
 ---
 name: fbp-zahlungsunfaehigkeit
-description: "Nutze dies, wenn Fbp Zahlungsunfaehigkeit Ueberschuldungsabgrenzung Spezial, Fortbestehensprognose Zusammenfuehren, Fp Cash Flow Modell Spezial im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Bitte Fbp Zahlungsunfaehigkeit Ueberschuldungsabgrenzung Spezial, Fortbestehensprognose Zusammenfuehren, Fp Cash Flow Modell Spezial prüfen.; Erstelle eine Arbeitsfassung zu Fbp Zahlungsunfaehigkeit Ueberschuldungsabgrenzung Spezial, Fortbestehensprognose Zusammenfuehren, Fp Cash Flow Modell Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fbp Zahlungsunfaehigkeit Ueberschuldungsabgrenzung Spezial, Fortbestehensprognose Zusammenfuehren, Fp Cash Flow Modell Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fbp Zahlungsunfaehigkeit Ueberschuldungsabgrenzung Spezial, Fortbestehensprognose Zusammenfuehren, Fp Cash Flow Modell Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fbp Zahlungsunfaehigkeit Ueberschuldungsabgrenzung Spezial, Fortbestehensprognose Zusammenfuehren, Fp Cash Flow Modell Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -182,40 +182,40 @@ Die Prognose ist immer auf den **Stichtag des Tages** zu beziehen an dem sie ers
 
 ```yaml
 prognose-zusammenfassung:
-  prognose-id: FP-2026-0001
-  stichtag: 2026-05-20
-  geschaeftsleiter: Mueller, Hans (GF GmbH XYZ)
-  prognose-horizont: 2026-06 bis 2027-05
+ prognose-id: FP-2026-0001
+ stichtag: 2026-05-20
+ geschaeftsleiter: Mueller, Hans (GF GmbH XYZ)
+ prognose-horizont: 2026-06 bis 2027-05
 
-  bilanzbild:
-    bilanzielle-ueberschuldung: ja (Höhe 82000 EUR)
-    insolvenzrechtliche-bilanzbasis: positiv (133000 EUR)
-    rangruecktritt: Gesellschafterdarlehen 120000 EUR
-    stille-reserven: 175000 EUR
+ bilanzbild:
+ bilanzielle-ueberschuldung: ja (Höhe 82000 EUR)
+ insolvenzrechtliche-bilanzbasis: positiv (133000 EUR)
+ rangruecktritt: Gesellschafterdarlehen 120000 EUR
+ stille-reserven: 175000 EUR
 
-  liquiditaet:
-    basis-szenario: positiv
-    negativ-szenario: positiv knapp (Endbestand Monat 11 bei 8000 EUR)
-    stress-szenario: negativ ohne Patronatserklärung positiv mit
+ liquiditaet:
+ basis-szenario: positiv
+ negativ-szenario: positiv knapp (Endbestand Monat 11 bei 8000 EUR)
+ stress-szenario: negativ ohne Patronatserklärung positiv mit
 
-  annahmen-belastbarkeit:
-    realistisch: 7
-    konservativ: 2
-    ambitioniert: 1 (Kostensenkung Standortschliessung)
-    nicht-belastbar: 0
+ annahmen-belastbarkeit:
+ realistisch: 7
+ konservativ: 2
+ ambitioniert: 1 (Kostensenkung Standortschliessung)
+ nicht-belastbar: 0
 
-  sanierungsmassnahmen-erforderlich: ja
-  konkret-belegt:
-    - Patronatserklärung Hauptgesellschafter 200000 EUR (unterzeichnet)
-    - Gesellschafterdarlehen 120000 EUR mit Rangrücktritt (notariell)
-    - Stundungsvereinbarungen Lieferanten (schriftlich von 5 Lieferanten)
-  noch-offen:
-    - Stundung Bank Tilgung (in Verhandlung — noch nicht schriftlich)
+ sanierungsmassnahmen-erforderlich: ja
+ konkret-belegt:
+ - Patronatserklärung Hauptgesellschafter 200000 EUR (unterzeichnet)
+ - Gesellschafterdarlehen 120000 EUR mit Rangrücktritt (notariell)
+ - Stundungsvereinbarungen Lieferanten (schriftlich von 5 Lieferanten)
+ noch-offen:
+ - Stundung Bank Tilgung (in Verhandlung — noch nicht schriftlich)
 
-  ergebnis: positiv-mit-maßnahmen
-  bewertung-wahrscheinlichkeit: überwiegend (mehr als 50 Prozent)
+ ergebnis: positiv-mit-maßnahmen
+ bewertung-wahrscheinlichkeit: überwiegend (mehr als 50 Prozent)
 
-  pflicht-ueberpruefung: vierteljaehrlich oder bei wesentlicher Änderung
+ pflicht-ueberpruefung: vierteljaehrlich oder bei wesentlicher Änderung
 ```
 
 ## Sonderfall — der konkrete Tag der Erstellung zählt
@@ -228,9 +228,9 @@ prognose-zusammenfassung:
 
 - `prognose-zusammenfassung.md` mit Stichtag Bewertung Beleg-Status.
 - Weiterleitung an:
-  - `sanierungsbausteine-vorschlagen` wenn Maßnahmen erforderlich.
-  - `wenn-prognose-negativ-naechste-schritte` wenn Ergebnis negativ.
-  - `prognose-dokumentation-stichtag` zur abschließenden Dokumentation.
+ - `sanierungsbausteine-vorschlagen` wenn Maßnahmen erforderlich.
+ - `wenn-prognose-negativ-naechste-schritte` wenn Ergebnis negativ.
+ - `prognose-dokumentation-stichtag` zur abschließenden Dokumentation.
 
 
 ## Aktuelle Leitentscheidungen — Zusammenfuehren der Prognose (Stand Mai 2026)

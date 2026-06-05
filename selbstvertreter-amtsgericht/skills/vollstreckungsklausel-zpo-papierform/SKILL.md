@@ -1,13 +1,13 @@
 ---
 name: vollstreckungsklausel-zpo-papierform
-description: "Nutze dies, wenn Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht prüfen.; Erstelle eine Arbeitsfassung zu Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -302,17 +302,17 @@ Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese **einheitlich beschri
 
 ## Empfohlene Formatierung (Konvention)
 
-| Element                | Empfehlung                                                |
+| Element | Empfehlung |
 |------------------------|-----------------------------------------------------------|
-| Schriftart Klageschrift| Times New Roman, Arial oder Calibri                       |
-| Schriftgroesse Text    | 12 Punkt                                                  |
-| Zeilenabstand          | 1,5-fach                                                  |
-| Rand oben/unten        | rd. 2,5 cm                                                |
-| Rand links             | rd. 3 cm (Platz fuer Heftung)                             |
-| Rand rechts            | rd. 2 cm                                                  |
-| Anlage-Beschriftung    | oben rechts, Schriftgroesse 14 Punkt, fett                |
-| Position Anlage K1     | etwa 2 cm vom oberen Rand, etwa 2 cm vom rechten Rand     |
-| Seitenzahlen           | unten zentriert oder unten rechts, fortlaufend            |
+| Schriftart Klageschrift| Times New Roman, Arial oder Calibri |
+| Schriftgroesse Text | 12 Punkt |
+| Zeilenabstand | 1,5-fach |
+| Rand oben/unten | rd. 2,5 cm |
+| Rand links | rd. 3 cm (Platz fuer Heftung) |
+| Rand rechts | rd. 2 cm |
+| Anlage-Beschriftung | oben rechts, Schriftgroesse 14 Punkt, fett |
+| Position Anlage K1 | etwa 2 cm vom oberen Rand, etwa 2 cm vom rechten Rand |
+| Seitenzahlen | unten zentriert oder unten rechts, fortlaufend |
 
 **Wichtig:** Das ist eine **Konvention der Praxis**, kein Gesetz. Wenn Sie davon abweichen, ist die Klage nicht unwirksam. Aber: Eine saubere Formatierung wirkt sich positiv aus.
 
@@ -399,18 +399,18 @@ So sollte eine fertige Anlage K1 aussehen:
 
 ```
 +----------------------------------------------+
-|                                  Anlage K1   |  <-- 14pt fett, oben rechts
-|                                              |
-|              Kaufvertrag                     |  <-- Original-Inhalt
-|                                              |
-|     Zwischen Herrn ABC und Frau XYZ          |
-|     ueber den Verkauf eines Gebrauchtwagens  |
-|     (Marke, Modell, FIN)                     |
-|                                              |
-|     ...                                      |
-|                                              |
-|                                              |
-|              Seite 1 von 3                   |  <-- unten zentriert
+| Anlage K1 | <-- 14pt fett, oben rechts
+| |
+| Kaufvertrag | <-- Original-Inhalt
+| |
+| Zwischen Herrn ABC und Frau XYZ |
+| ueber den Verkauf eines Gebrauchtwagens |
+| (Marke, Modell, FIN) |
+| |
+| ... |
+| |
+| |
+| Seite 1 von 3 | <-- unten zentriert
 +----------------------------------------------+
 ```
 

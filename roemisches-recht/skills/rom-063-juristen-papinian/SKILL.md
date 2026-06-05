@@ -1,6 +1,6 @@
 ---
 name: rom-063-juristen-papinian
-description: "Römisches Recht: Juristen Papinian. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Juristen Papinian. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Juristen Papinian

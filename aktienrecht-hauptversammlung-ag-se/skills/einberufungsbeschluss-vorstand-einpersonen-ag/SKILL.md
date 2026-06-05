@@ -1,22 +1,22 @@
 ---
 name: einberufungsbeschluss-vorstand-einpersonen-ag
-description: "Nutze dies, wenn Einberufungsbeschluss Vorstand, Einpersonen Ag, Entlastung Vorstand Aufsichtsrat, Ergaenzungsverlangen Minderheit im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Einberufungsbeschluss Vorstand, Einpersonen Ag, Entlastung Vorstand Aufsichtsrat, Ergaenzungsverlangen Minderheit prüfen.; Erstelle eine Arbeitsfassung zu Einberufungsbeschluss Vorstand, Einpersonen Ag, Entlastung Vorstand Aufsichtsrat, Ergaenzungsverlangen Minderheit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Einberufungsbeschluss Vorstand, Einpersonen Ag, Entlastung Vorstand Aufsichtsrat, Ergaenzungsverlangen Minderheit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Einberufungsbeschluss Vorstand, Einpersonen Ag, Entlastung Vorstand Aufsichtsrat, Ergaenzungsverlangen Minderheit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Einberufungsbeschluss Vorstand, Einpersonen Ag, Entlastung Vorstand Aufsichtsrat, Ergaenzungsverlangen Minderheit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `einberufungsbeschluss-vorstand` | Hauptversammlung AG und SE: Einberufungsbeschluss Vorstand; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `einpersonen-ag` | Hauptversammlung AG und SE: Einpersonen AG; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `entlastung-vorstand-aufsichtsrat` | Hauptversammlung AG und SE: Entlastung Vorstand Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `ergaenzungsverlangen-minderheit` | Hauptversammlung AG und SE: Ergaenzungsverlangen Minderheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `einberufungsbeschluss-vorstand` | Hauptversammlung AG und SE: Einberufungsbeschluss Vorstand; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `einpersonen-ag` | Hauptversammlung AG und SE: Einpersonen AG; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `entlastung-vorstand-aufsichtsrat` | Hauptversammlung AG und SE: Entlastung Vorstand Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ergaenzungsverlangen-minderheit` | Hauptversammlung AG und SE: Ergaenzungsverlangen Minderheit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Einberufungsbeschluss Vorstand, Einpersonen Ag, Entlastung Vorstand Aufsi
 
 ## 1. `einberufungsbeschluss-vorstand`
 
-**Fokus:** Hauptversammlung AG und SE: Einberufungsbeschluss Vorstand; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Einberufungsbeschluss Vorstand; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Einberufungsbeschluss Vorstand
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `einpersonen-ag`
 
-**Fokus:** Hauptversammlung AG und SE: Einpersonen AG; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Einpersonen AG; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Einpersonen AG
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `entlastung-vorstand-aufsichtsrat`
 
-**Fokus:** Hauptversammlung AG und SE: Entlastung Vorstand Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Entlastung Vorstand Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Entlastung Vorstand Aufsichtsrat
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `ergaenzungsverlangen-minderheit`
 
-**Fokus:** Hauptversammlung AG und SE: Ergaenzungsverlangen Minderheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Ergaenzungsverlangen Minderheit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Ergaenzungsverlangen Minderheit
 

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Designrecht/Geschmacksmusterrecht: klärt Produkt, Wiedergaben, Offenbarung, Fristen, Register, Verletzung, Nichtigkeit, DPMA/EUIPO/WIPO und passende Spezialskills."
+description: "Einstieg, Schnelltriage und Fallrouting im Designrecht/Geschmacksmusterrecht: klärt Produkt, Wiedergaben, Offenbarung, Fristen, Register, Verletzung, Nichtigkeit, DPMA/EUIPO/WIPO und passende Fachmodule."
 ---
 
 # Allgemein

@@ -1,13 +1,13 @@
 ---
 name: tagessaetze-verstaendigung-sonderfall
-description: "Nutze dies, wenn Spezial Tagessaetze Schriftsatz Brief Und Memo Bausteine, Spezial Verstaendigung Sonderfall Und Edge Case, Spezial Verteidiger Formular Portal Und Einreichung im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Tagessaetze Schriftsatz Brief Und Memo Bausteine, Spezial Verstaendigung Sonderfall Und Edge Case, Spezial Verteidiger Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Tagessaetze Schriftsatz Brief Und Memo Bausteine, Spezial Verstaendigung Sonderfall Und Edge Case, Spezial Verteidiger Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tagessaetze Schriftsatz Brief Und Memo Bausteine, Verstaendigung Sonderfall Und Edge Case, Verteidiger Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Tagessaetze Schriftsatz Brief Und Memo Bausteine, Spezial Verstaendigung Sonderfall Und Edge Case, Spezial Verteidiger Formular Portal Und Einreichung
+# Tagessaetze Schriftsatz Brief Und Memo Bausteine, Verstaendigung Sonderfall Und Edge Case, Verteidiger Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tagessaetze Schriftsatz Brief Und Memo Bausteine, Verstaendigung Sonderfall Und Edge Case, Verteidiger Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Tagessaetze Schriftsatz Brief Und Memo Bausteine, Spezial Verstaendigung Sonderfall Und Edge Case, Spezial Verteidiger Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tagessaetze Schriftsatz Brief Und Memo Bausteine, Verstaendigung Sonderfall Und Edge Case, Verteidiger Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafbefehl-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -69,27 +69,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Tagessatz-Bausteine Schriftsatz
 - **Tagessatzanzahl § 40 I StGB:** Schuld-Indikator; Mindesthoechst 5-360; Hoechststrafe 360 TS bei Geldstrafe-Einzeltat; 720 TS bei Gesamtstrafe § 54 StGB.
 - **Tagessatzhoehe § 40 II StGB:** Min 1 EUR, Max 30000 EUR; **Regel: 1/30 des monatlichen Nettoeinkommens** (BGH-Linie staendige Rspr.).
-  - Bruttoeinkommen abzueglich Steuern, Sozialabgaben, Werbungskosten, Versicherung.
-  - Bei Unterhaltspflichten: 1/30 Nettoeinkommen minus Unterhaltslast (BGH-Linie).
-  - Bei Selbststaendigen: Gewinn aus letzter abgeschlossener BWA / Steuerbescheid; ggf. Schaetzung § 40 III StGB.
-  - Bei Buergergeld-Empfaenger: Regelbedarf zzgl. KdU = monatliches "Einkommen"; oft 1/30 = ~30-50 EUR/TS.
+ - Bruttoeinkommen abzueglich Steuern, Sozialabgaben, Werbungskosten, Versicherung.
+ - Bei Unterhaltspflichten: 1/30 Nettoeinkommen minus Unterhaltslast (BGH-Linie).
+ - Bei Selbststaendigen: Gewinn aus letzter abgeschlossener BWA / Steuerbescheid; ggf. Schaetzung § 40 III StGB.
+ - Bei Buergergeld-Empfaenger: Regelbedarf zzgl. KdU = monatliches "Einkommen"; oft 1/30 = ~30-50 EUR/TS.
 - **Reduktions-Bausteine (Schriftsatz):**
-  ```
-  Sehr geehrte Damen und Herren,
-  zum Strafbefehl vom ... (Az ...) lege ich namens des Mandanten ... Einspruch ein,
-  beschraenkt auf den Rechtsfolgenausspruch, insbesondere die Hoehe der Tagessaetze.
+ ```
+ Sehr geehrte Damen und Herren,
+ zum Strafbefehl vom ... (Az ...) lege ich namens des Mandanten ... Einspruch ein,
+ beschraenkt auf den Rechtsfolgenausspruch, insbesondere die Hoehe der Tagessaetze.
 
-  Begruendung:
-  Der Mandant verfuegt ueber ein monatliches Nettoeinkommen von ... EUR (Anlage 1: Lohnabrechnungen 3 Monate).
-  Er ist zwei minderjaehrigen Kindern unterhaltspflichtig (Anlage 2).
-  Nach Abzug der Unterhaltsverpflichtung verbleibt ein bereinigtes Nettoeinkommen von ... EUR.
-  Daraus ergibt sich nach § 40 II StGB eine Tagessatzhoehe von 1/30 = ... EUR pro Tag.
-  Der Strafbefehl setzt jedoch ... EUR pro Tagessatz an, was nicht den wirtschaftlichen Verhaeltnissen entspricht.
+ Begruendung:
+ Der Mandant verfuegt ueber ein monatliches Nettoeinkommen von ... EUR (Anlage 1: Lohnabrechnungen 3 Monate).
+ Er ist zwei minderjaehrigen Kindern unterhaltspflichtig (Anlage 2).
+ Nach Abzug der Unterhaltsverpflichtung verbleibt ein bereinigtes Nettoeinkommen von ... EUR.
+ Daraus ergibt sich nach § 40 II StGB eine Tagessatzhoehe von 1/30 = ... EUR pro Tag.
+ Der Strafbefehl setzt jedoch ... EUR pro Tagessatz an, was nicht den wirtschaftlichen Verhaeltnissen entspricht.
 
-  Beweis: Lohnabrechnungen (Anlage 1), Unterhaltstitel (Anlage 2), Mietvertrag (Anlage 3).
+ Beweis: Lohnabrechnungen (Anlage 1), Unterhaltstitel (Anlage 2), Mietvertrag (Anlage 3).
 
-  Ich beantrage daher, die Tagessatzhoehe entsprechend auf ... EUR zu reduzieren.
-  ```
+ Ich beantrage daher, die Tagessatzhoehe entsprechend auf ... EUR zu reduzieren.
+ ```
 - **Belege fuer Tagessatz:** Lohnabrechnungen 3 Monate, Steuerbescheid, Kontoauszuege, Unterhaltstitel, Mietvertrag, Buergergeld-Bescheid.
 - **Praxis-Tipp:** Antrag auf Ratenzahlung § 42 StGB parallel stellen (bis 5 Jahre Ratenzahlung moeglich); ggf. Tilgung durch gemeinnuetzige Arbeit § 43 StGB / Tilgungsplan.
 

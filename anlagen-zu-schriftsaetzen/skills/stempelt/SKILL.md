@@ -1,6 +1,6 @@
 ---
 name: stempelt
-description: "Nutze dies, wenn Stempelt: Internationaler Bezug und Schnittstellen im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Stempelt: Internationaler Bezug und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Stempelt: Internationaler Bezug und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stempelt: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Stempelt: Internationaler Bezug und Schnittstellen

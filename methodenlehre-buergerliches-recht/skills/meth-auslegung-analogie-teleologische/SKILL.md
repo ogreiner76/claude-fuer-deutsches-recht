@@ -1,13 +1,13 @@
 ---
 name: meth-auslegung-analogie-teleologische
-description: "Nutze dies, wenn Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik, Abwaegung Gewichtung Intensitaet im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik, Abwaegung Gewichtung Intensitaet prüfen.; Erstelle eine Arbeitsfassung zu Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik, Abwaegung Gewichtung Intensitaet.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik, Abwaegung Gewichtung Intensitaet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik, Abwaegung Gewichtung Intensitaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

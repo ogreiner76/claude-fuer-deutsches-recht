@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Sozialversicherungsrecht (SGB)
-Ressort:            BMAS
-Kernnormen:         SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).
-Akteure/Aufsicht:   DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt fuer Soziale Sicherung); SGericht.
-EU/Voelkerrecht:    VO 883/2004 (Koordinierung); EFTA; bilaterale Abkommen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Sozialversicherungsrecht (SGB)
+Ressort: BMAS
+Kernnormen: SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).
+Akteure/Aufsicht: DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt fuer Soziale Sicherung); SGericht.
+EU/Voelkerrecht: VO 883/2004 (Koordinierung); EFTA; bilaterale Abkommen.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

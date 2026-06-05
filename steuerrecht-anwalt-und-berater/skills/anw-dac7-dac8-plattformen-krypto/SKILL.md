@@ -79,7 +79,7 @@ Anwaltliche Beratung zu den EU-Meldepflichten der Plattformbetreiber (DAC7) und 
 - BMF-Schreiben vom 28.4.2023 zur Anwendung PStTG (Plattform).
 - BMF-Schreiben vom 22.11.2024 zur Anwendung KryptoStG (Krypto, voraussichtlich 1. Quartal 2026 Aktualisierung).
 
-## I. DAC7 — Workflow Plattformbetreiber
+## I. DAC7 — Plattformbetreiber
 
 ### Phase 1 — Anbieter-Erfassung
 
@@ -103,16 +103,16 @@ Anwaltliche Beratung zu den EU-Meldepflichten der Plattformbetreiber (DAC7) und 
 - Bußgeldverfahren BZSt (§ 13 PStTG); bis 50 000 EUR.
 - Strafrechtliche Konsequenzen bei vorsätzlicher Falschmeldung (§ 370 AO denkbar, wenn eigene Steuerverkürzung beihilft).
 
-## II. DAC7 — Workflow Anbieter auf der Plattform
+## II. DAC7 — Anbieter auf der Plattform
 
 - Anbieter ist nicht selbst meldepflichtig, aber muss:
-  - **Identifikatorische Daten** auf Anfrage der Plattform liefern (Steuer-ID, USt-IdNr. etc.).
-  - **Steuererklärung** vollständig abgeben — die DAC7-Meldungen werden automatisch an das Wohnsitz-FA übermittelt.
+ - **Identifikatorische Daten** auf Anfrage der Plattform liefern (Steuer-ID, USt-IdNr. etc.).
+ - **Steuererklärung** vollständig abgeben — die DAC7-Meldungen werden automatisch an das Wohnsitz-FA übermittelt.
 - **Strafrechtliches Risiko** für Anbieter, die bisher nicht erklärt haben:
-  - Selbstanzeige § 371 AO möglich (`anw-selbstanzeige-371`), **bevor** das FA über DAC7-Daten verfügt.
-  - Sperrwirkung tritt mit FA-Kenntnis ein.
+ - Selbstanzeige § 371 AO möglich (`anw-selbstanzeige-371`), **bevor** das FA über DAC7-Daten verfügt.
+ - Sperrwirkung tritt mit FA-Kenntnis ein.
 
-## III. DAC8 — Workflow Krypto-Dienstleister
+## III. DAC8 — Krypto-Dienstleister
 
 ### Phase 1 — Nutzer-Erfassung (Customer Due Diligence)
 
@@ -133,7 +133,7 @@ Erfasste Transaktionen je Nutzer pro Kalenderjahr:
 - An BZSt; Format XML.
 - Erstmeldung bis **31.1.2027** für Kalenderjahr 2026.
 
-## IV. DAC8 — Workflow Krypto-Inhaber
+## IV. DAC8 — Krypto-Inhaber
 
 - Krypto-Inhaber müssen Gewinne aus Krypto-Veräußerungen versteuern (§ 22 Nr. 2 i.V.m. § 23 EStG — privates Veräußerungsgeschäft; Spekulationsfrist 1 Jahr).
 - Mit DAC8-Daten kann das FA **rückwirkend** prüfen.

@@ -1,13 +1,13 @@
 ---
 name: jus-referendariat-jus-staatsexamen-jus
-description: "Nutze dies, wenn Jus Referendariat Stationen Spezial, Jus Staatsexamen Vorbereitung Spezial, Jus Studienplan Bauleiter im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Jus Referendariat Stationen Spezial, Jus Staatsexamen Vorbereitung Spezial, Jus Studienplan Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Jus Referendariat Stationen Spezial, Jus Staatsexamen Vorbereitung Spezial, Jus Studienplan Bauleiter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Jus Referendariat Stationen Spezial, Jus Staatsexamen Vorbereitung Spezial, Jus Studienplan Bauleiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Jus Referendariat Stationen Spezial, Jus Staatsexamen Vorbereitung Spezial, Jus Studienplan Bauleiter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Jus Referendariat Stationen Spezial, Jus Staatsexamen Vorbereitung Spezial, Jus Studienplan Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

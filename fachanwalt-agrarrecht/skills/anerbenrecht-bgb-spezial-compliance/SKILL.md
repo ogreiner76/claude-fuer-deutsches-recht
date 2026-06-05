@@ -1,13 +1,13 @@
 ---
 name: anerbenrecht-bgb-spezial-compliance
-description: "Nutze dies, wenn Spezial Anerbenrecht Risikoampel Und Gegenargumente, Spezial Bgb Verhandlung Vergleich Und Eskalation, Spezial Compliance Compliance Dokumentation Und Akte im Plugin Fachanwalt Agrarrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Anerbenrecht Risikoampel Und Gegenargumente, Spezial Bgb Verhandlung Vergleich Und Eskalation, Spezial Compliance Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Anerbenrecht Risikoampel Und Gegenargumente, Spezial Bgb Verhandlung Vergleich Und Eskalation, Spezial Compliance Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Anerbenrecht Risikoampel Und Gegenargumente, Spezial Bgb Verhandlung Vergleich Und Eskalation, Spezial Compliance Compliance Dokumentation Und Akte
+# Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Anerbenrecht Risikoampel Und Gegenargumente, Spezial Bgb Verhandlung Vergleich Und Eskalation, Spezial Compliance Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anerbenrecht Risikoampel Und Gegenargumente, Bgb Verhandlung Vergleich Und Eskalation, Compliance Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Anerbenrecht Risikoampel Und Gegenargumente, Spezial Bgb Verhandl
 # Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien / spezial anerbenrecht risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien / anerbenrecht risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # BGB: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: BGB: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** BGB: Verhandlung, Vergleich und Eskalation / spezial bgb verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** BGB: Verhandlung, Vergleich und Eskalation / bgb verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, HöfeO, GAP, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Compliance: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Compliance: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Compliance: Compliance-Dokumentation und Aktenvermerk / spezial compliance compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Compliance: Compliance-Dokumentation und Aktenvermerk / compliance compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

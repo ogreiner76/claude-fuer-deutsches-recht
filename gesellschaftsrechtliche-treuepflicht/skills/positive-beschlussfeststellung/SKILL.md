@@ -1,22 +1,22 @@
 ---
 name: positive-beschlussfeststellung
-description: "Nutze dies, wenn Positive Beschlussfeststellung, Rechtsmissbrauchsfilter, Registersperre, Related Party im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Positive Beschlussfeststellung, Rechtsmissbrauchsfilter, Registersperre, Related Party prüfen.; Erstelle eine Arbeitsfassung zu Positive Beschlussfeststellung, Rechtsmissbrauchsfilter, Registersperre, Related Party.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Positive Beschlussfeststellung, Rechtsmissbrauchsfilter, Registersperre, Related Party: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Positive Beschlussfeststellung, Rechtsmissbrauchsfilter, Registersperre, Related Party
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Positive Beschlussfeststellung, Rechtsmissbrauchsfilter, Registersperre, Related Party** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `positive-beschlussfeststellung` | Gesellschaftsrechtliche Treuepflicht: Positive Beschlussfeststellung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `rechtsmissbrauchsfilter` | Gesellschaftsrechtliche Treuepflicht: Rechtsmissbrauchsfilter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `registersperre` | Gesellschaftsrechtliche Treuepflicht: Registersperre; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `related-party` | Gesellschaftsrechtliche Treuepflicht: Related Party; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `positive-beschlussfeststellung` | Gesellschaftsrechtliche Treuepflicht: Positive Beschlussfeststellung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `rechtsmissbrauchsfilter` | Gesellschaftsrechtliche Treuepflicht: Rechtsmissbrauchsfilter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `registersperre` | Gesellschaftsrechtliche Treuepflicht: Registersperre; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `related-party` | Gesellschaftsrechtliche Treuepflicht: Related Party; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Positive Beschlussfeststellung, Rechtsmissbrauchsfilter, Registersperre, 
 
 ## 1. `positive-beschlussfeststellung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Positive Beschlussfeststellung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Positive Beschlussfeststellung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Positive Beschlussfeststellung
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `rechtsmissbrauchsfilter`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Rechtsmissbrauchsfilter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Rechtsmissbrauchsfilter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Rechtsmissbrauchsfilter
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `registersperre`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Registersperre; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Registersperre; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Registersperre
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `related-party`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Related Party; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Related Party; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Related Party
 

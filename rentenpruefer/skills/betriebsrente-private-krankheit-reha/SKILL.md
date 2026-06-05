@@ -1,13 +1,13 @@
 ---
 name: betriebsrente-private-krankheit-reha
-description: "Nutze dies, wenn Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld im Plugin Rentenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld prüfen.; Erstelle eine Arbeitsfassung zu Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Betriebsrente Und Private Vorsorge Schnittstelle, Krankheit Reha Uebergangsgeld** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

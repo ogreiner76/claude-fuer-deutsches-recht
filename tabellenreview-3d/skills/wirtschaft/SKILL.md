@@ -1,12 +1,12 @@
 ---
 name: wirtschaft
-description: "Nutze dies, wenn Wirtschaft: Zahlen, Schwellenwerte und Berechnung im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaft: Zahlen, Schwellenwerte und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaft: Zahlen, Schwellenwerte und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wirtschaft: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Wirtschaft: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Wirtschaft: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Wirtschaft: Zahlen, Schwellenwerte und Berechnung / spezial wirtschaft zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Wirtschaft: Zahlen, Schwellenwerte und Berechnung / wirtschaft zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DD.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

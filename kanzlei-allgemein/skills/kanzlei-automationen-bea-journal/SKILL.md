@@ -1,13 +1,13 @@
 ---
 name: kanzlei-automationen-bea-journal
-description: "Nutze dies, wenn Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Allgemein Automationen, Kanzlei Allgemein Bea Journal** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -207,11 +207,11 @@ Wenn eine Nachricht ein EB verlangt oder nahelegt:
 2. Zustellungsdatum, Fristbeginn, Dokumentumfang und Akte prüfen.
 3. Berufsträger fragen:
 
-   > Soll ich für diese beA-Nachricht ein elektronisches Empfangsbekenntnis vorbereiten oder abgeben?
+ > Soll ich für diese beA-Nachricht ein elektronisches Empfangsbekenntnis vorbereiten oder abgeben?
 
 4. Vor Abgabe zusätzlich warnen:
 
-   > EB-Abgabe bestätigt den Empfang und kann Fristen auslösen. Bitte erst nach Prüfung von Akte, Nachricht, Anlagen, Zustellungsdatum, Fristfolgen und Berufsträgerzuständigkeit freigeben.
+ > EB-Abgabe bestätigt den Empfang und kann Fristen auslösen. Bitte erst nach Prüfung von Akte, Nachricht, Anlagen, Zustellungsdatum, Fristfolgen und Berufsträgerzuständigkeit freigeben.
 
 5. Ohne ausdrückliche Einzelbestätigung kein EB abgeben.
 6. Nach EB-Abgabe Journal erneut öffnen, Screenshot erstellen, EB-Nachweis speichern, ZIP-Export sichern und Fristenmonitor aktualisieren.

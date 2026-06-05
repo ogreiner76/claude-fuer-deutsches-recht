@@ -1,6 +1,6 @@
 ---
 name: handelsvertreter-agb
-description: "Branchen-Spezialskill für Handelsvertreter AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Handelsvertreter AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Handelsvertreter AGB

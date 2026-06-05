@@ -1,13 +1,13 @@
 ---
 name: drv-selbstcheck-eigene-betriebsstaette
-description: "Nutze dies, wenn Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation im Plugin Sozialversicherungsstatus Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation prüfen.; Erstelle eine Arbeitsfassung zu Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

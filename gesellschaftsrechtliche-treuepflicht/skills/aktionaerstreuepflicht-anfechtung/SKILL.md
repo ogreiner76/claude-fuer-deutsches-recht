@@ -1,22 +1,22 @@
 ---
 name: aktionaerstreuepflicht-anfechtung
-description: "Nutze dies, wenn Aktionaerstreuepflicht, Anfechtung Und Rechtsmissbrauch, Anspruchsziele, Auskunft Und Rechnungslegung im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Aktionaerstreuepflicht, Anfechtung Und Rechtsmissbrauch, Anspruchsziele, Auskunft Und Rechnungslegung prüfen.; Erstelle eine Arbeitsfassung zu Aktionaerstreuepflicht, Anfechtung Und Rechtsmissbrauch, Anspruchsziele, Auskunft Und Rechnungslegung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aktionaerstreuepflicht, Anfechtung Und Rechtsmissbrauch, Anspruchsziele, Auskunft Und Rechnungslegung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aktionaerstreuepflicht, Anfechtung Und Rechtsmissbrauch, Anspruchsziele, Auskunft Und Rechnungslegung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aktionaerstreuepflicht, Anfechtung Und Rechtsmissbrauch, Anspruchsziele, Auskunft Und Rechnungslegung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `aktionaerstreuepflicht` | Gesellschaftsrechtliche Treuepflicht: Aktionaerstreuepflicht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `anfechtung-und-rechtsmissbrauch` | Gesellschaftsrechtliche Treuepflicht: Anfechtung Und Rechtsmissbrauch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `anspruchsziele` | Gesellschaftsrechtliche Treuepflicht: Anspruchsziele; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `auskunft-und-rechnungslegung` | Gesellschaftsrechtliche Treuepflicht: Auskunft Und Rechnungslegung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aktionaerstreuepflicht` | Gesellschaftsrechtliche Treuepflicht: Aktionaerstreuepflicht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `anfechtung-und-rechtsmissbrauch` | Gesellschaftsrechtliche Treuepflicht: Anfechtung Und Rechtsmissbrauch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `anspruchsziele` | Gesellschaftsrechtliche Treuepflicht: Anspruchsziele; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `auskunft-und-rechnungslegung` | Gesellschaftsrechtliche Treuepflicht: Auskunft Und Rechnungslegung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Aktionaerstreuepflicht, Anfechtung Und Rechtsmissbrauch, Anspruchsziele, 
 
 ## 1. `aktionaerstreuepflicht`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Aktionaerstreuepflicht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Aktionaerstreuepflicht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aktionaerstreuepflicht
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `anfechtung-und-rechtsmissbrauch`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Anfechtung Und Rechtsmissbrauch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Anfechtung Und Rechtsmissbrauch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Anfechtung Und Rechtsmissbrauch
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `anspruchsziele`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Anspruchsziele; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Anspruchsziele; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Anspruchsziele
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `auskunft-und-rechnungslegung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Auskunft Und Rechnungslegung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Auskunft Und Rechnungslegung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Auskunft Und Rechnungslegung
 

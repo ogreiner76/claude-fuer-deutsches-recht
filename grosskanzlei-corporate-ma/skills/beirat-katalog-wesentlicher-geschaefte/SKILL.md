@@ -1,6 +1,6 @@
 ---
 name: beirat-katalog-wesentlicher-geschaefte
-description: "Nutze dies, wenn Beirat Katalog Wesentlicher Geschaefte im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Katalog Wesentlicher Geschaefte prüfen.; Erstelle eine Arbeitsfassung zu Beirat Katalog Wesentlicher Geschaefte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Katalog Wesentlicher Geschaefte: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Katalog Wesentlicher Geschaefte

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüfung, Spezialskill-Routing und erste verwertbare Ausgabe."
+description: "Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe."
 ---
 
 # Deutsche Rechtsgeschichte - Allgemeiner Einstieg
@@ -9,7 +9,7 @@ description: "Deutsche Rechtsgeschichte: Kaltstart, Aktenlandkarte, Quellenprüf
 
 Rechtsgeschichte als Werkzeug, nicht als Museum: Quellen lesen, Epochen trennen, Kontinuitäten prüfen und Gegenwartsargumente sauber historisieren.
 
-Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Spezialskills dieses Plugins vor.
+Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Fachmodule dieses Plugins vor.
 
 ## Startfragen
 

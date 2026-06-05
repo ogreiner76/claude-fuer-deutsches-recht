@@ -1,15 +1,15 @@
 ---
 name: fristen-und-risikoampel
-description: "Nutze dies, wenn Fristen- und Risikoampel im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Fristen- und Risikoampel prüfen.; Erstelle eine Arbeitsfassung zu Fristen- und Risikoampel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fristen- und Risikoampel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill für `liquiditaetsplanung` Fristen- und Risikoampel im Plugin liquiditaetsplanung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin liquiditaetsplanung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -19,7 +19,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -36,15 +36,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## Liquiditätsplanungs-Ampel
 - **ROT — akute ZU-Gefahr (§ 17 InsO):**
-  - Liquiditätsstatus zeigt **Liquiditätslücke ≥ 10 Prozent** der fälligen Verbindlichkeiten über **3 Wochen** (BGH-Linie zu § 17 Abs. 1 S. 2 InsO).
-  - Drei-Wochen-Frist § 15a InsO läuft → Antragspflicht, Beraterhinzuziehung sofort.
-  - Cash-Reichweite < 4 Wochen.
+ - Liquiditätsstatus zeigt **Liquiditätslücke ≥ 10 Prozent** der fälligen Verbindlichkeiten über **3 Wochen** (BGH-Linie zu § 17 Abs. 1 S. 2 InsO).
+ - Drei-Wochen-Frist § 15a InsO läuft → Antragspflicht, Beraterhinzuziehung sofort.
+ - Cash-Reichweite < 4 Wochen.
 - **GELB — drohende ZU (§ 18 InsO):**
-  - Im 24-Monats-Plan Liquiditätsdeckung < 100 Prozent.
-  - Sensitivitätsanalyse zeigt: bei moderaten Negativ-Annahmen Lücke.
-  - StaRUG-Anzeige § 31 StaRUG erwägen; Stabilisierungsanordnung § 49 StaRUG bei akutem Vollstreckungsdruck.
+ - Im 24-Monats-Plan Liquiditätsdeckung < 100 Prozent.
+ - Sensitivitätsanalyse zeigt: bei moderaten Negativ-Annahmen Lücke.
+ - StaRUG-Anzeige § 31 StaRUG erwägen; Stabilisierungsanordnung § 49 StaRUG bei akutem Vollstreckungsdruck.
 - **GRÜN — Vorsorge:**
-  - Liquiditätsplan rollierend, Sensitivität geprüft, Cash-Reichweite > 3 Monate, Kovenanten eingehalten.
+ - Liquiditätsplan rollierend, Sensitivität geprüft, Cash-Reichweite > 3 Monate, Kovenanten eingehalten.
 
 ## Fristenkalender Liquidität in der Krise
 - 13-Wochen-Liquidität: wöchentliche Aktualisierung in der Krise, monatliche Aktualisierung in der Vorkrise.

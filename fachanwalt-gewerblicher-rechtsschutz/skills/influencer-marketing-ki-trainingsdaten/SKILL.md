@@ -1,13 +1,13 @@
 ---
 name: influencer-marketing-ki-trainingsdaten
-description: "Nutze dies, wenn Influencer Marketing Uwg Spezial, Ki Trainingsdaten Und Urheberrecht Spezial, Schriftsatzkern Substantiierung im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Influencer Marketing Uwg Spezial, Ki Trainingsdaten Und Urheberrecht Spezial, Schriftsatzkern Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Influencer Marketing Uwg Spezial, Ki Trainingsdaten Und Urheberrecht Spezial, Schriftsatzkern Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Influencer Marketing Uwg Spezial, Ki Trainingsdaten Und Urheberrecht Spezial, Schriftsatzkern Substantiierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Influencer Marketing Uwg Spezial, Ki Trainingsdaten Und Urheberrecht Spezial, Schriftsatzkern Substantiierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Influencer Marketing Uwg Spezial, Ki Trainingsdaten Und Urheberrecht Spezial, Schriftsatzkern Substantiierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -110,7 +110,7 @@ Dieser Skill behandelt die lauterkeitsrechtlichen Anforderungen an Influencer-Ma
 - Lizenzrechte an Content (§§ 31 ff. UrhG) klären.
 - DS-GVO-Konformität des Datensatzes von Followern.
 
-## Kaltstart
+## Einstieg
 1. Wer ist Mandant: Influencer, Marke / Auftraggeber oder Wettbewerber / Verband?
 2. Welche Posts oder Inhalte sind konkret betroffen?
 3. Liegt eine Abmahnung vor oder soll eine ausgesprochen werden?
@@ -209,7 +209,7 @@ Dieser Skill behandelt die urheberrechtlichen Fragen rund um KI-Trainingsdaten, 
 2. Datenbankherstellerrecht § 87b UrhG beachten (erhebliche Investition).
 3. Lizenzierung von Trainingsdaten vereinbaren.
 
-## Kaltstart
+## Einstieg
 1. Wessen Rechte sind betroffen: Rechteinhaber (Schutz) oder KI-Anbieter / Nutzer (Compliance)?
 2. Geht es um Trainingsdaten-Nutzung oder KI-generierten Output?
 3. Besteht ein Opt-out-Vorbehalt des Rechteinhabers?
@@ -348,16 +348,16 @@ mit den folgenden Antraegen:
 I. ANTRAEGE
 
 1. Die Beklagte wird verurteilt, es bei Meidung eines fuer jeden Fall der
-   Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu 250.000 EUR, ersatzweise
-   Ordnungshaft, zu unterlassen, im geschaeftlichen Verkehr das Zeichen [ZEICHEN]
-   fuer Waren/Dienstleistungen der Klasse [X] zu benutzen.
+ Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu 250.000 EUR, ersatzweise
+ Ordnungshaft, zu unterlassen, im geschaeftlichen Verkehr das Zeichen [ZEICHEN]
+ fuer Waren/Dienstleistungen der Klasse [X] zu benutzen.
 
 2. Die Beklagte wird verurteilt, der Klaegerin Auskunft zu erteilen ueber
-   [UMFANG AUSKUNFTSANSPRUCH § 19 MarkenG].
+ [UMFANG AUSKUNFTSANSPRUCH § 19 MarkenG].
 
 3. Die Beklagte wird verurteilt, an die Klaegerin Schadensersatz in Hoehe
-   von [BETRAG] EUR nebst Zinsen zu zahlen (hilfsweise: Schadensersatz nach
-   Lizenzanalogie in einer durch das Gericht nach § 287 ZPO zu schaetzenden Hoehe).
+ von [BETRAG] EUR nebst Zinsen zu zahlen (hilfsweise: Schadensersatz nach
+ Lizenzanalogie in einer durch das Gericht nach § 287 ZPO zu schaetzenden Hoehe).
 
 II. BEGRUENDUNG
 
@@ -366,13 +366,13 @@ A. Sachverhalt
 [CHRONOLOGISCHE SACHVERHALTSDARSTELLUNG mit konkreten Daten, Orten, Personen]
 
 Beweis: [ANLAGE K1 — Registrierungsnachweis Marke]
-        [ANLAGE K2 — Verwendungsbeispiel der Beklagten vom TT.MM.JJJJ]
-        [ANLAGE K3 — Eidesstattliche Versicherung]
+ [ANLAGE K2 — Verwendungsbeispiel der Beklagten vom TT.MM.JJJJ]
+ [ANLAGE K3 — Eidesstattliche Versicherung]
 
 B. Rechtliche Wuerdigung
 
 1. Verwechslungsgefahr § 9 Abs. 1 Nr. 2 i.V.m. § 14 Abs. 2 Nr. 2 MarkenG
-   [...]
+ [...]
 
 [ORT, DATUM]
 [KANZLEI / NAME, UNTERSCHRIFT]

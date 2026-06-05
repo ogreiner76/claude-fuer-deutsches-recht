@@ -1,13 +1,13 @@
 ---
 name: luft-ersatzteillager-drohne-luftfracht-acc3
-description: "Nutze dies, wenn Luft 061 Ersatzteillager Zustaendigkeit Prüfen, Luft 071 Drohne Zustaendigkeit Prüfen, Luft 081 Luftfracht Zustaendigkeit Prüfen, Luft 091 Acc3 Zustaendigkeit Prüfen, Luft 101 Slot Zustaendigkeit Prüfen im Plugin Luftrecht Flughafenrecht konkret bearbeitet werden soll. Auslöser: Bitte Luft 061 Ersatzteillager Zustaendigkeit Prüfen, Luft 071 Drohne Zustaendigkeit Prüfen, Luft 081 Luftfracht Zustaendigkeit Prüfen, Luft 091 Acc3 Zustaendigkeit Prüfen, Luft 101 Slot Zustaendigkeit Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Luft 061 Ersatzteillager Zustaendigkeit Prüfen, Luft 071 Drohne Zustaendigkeit Prüfen, Luft 081 Luftfracht Zustaendigkeit Prüfen, Luft 091 Acc3 Zustaendigkeit Prüfen, Luft 101 Slot Zustaendigkeit Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Luft 061 Ersatzteillager Zustaendigkeit Prüfen, Luft 071 Drohne Zustaendigkeit Prüfen, Luft 081 Luftfracht Zustaendigkeit Prüfen, Luft 091 Acc3 Zustaendigkeit Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Luft 061 Ersatzteillager Zustaendigkeit Prüfen, Luft 071 Drohne Zustaendigkeit Prüfen, Luft 081 Luftfracht Zustaendigkeit Prüfen, Luft 091 Acc3 Zustaendigkeit Prüfen, Luft 101 Slot Zustaendigkeit Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Luft 061 Ersatzteillager Zustaendigkeit Prüfen, Luft 071 Drohne Zustaendigkeit Prüfen, Luft 081 Luftfracht Zustaendigkeit Prüfen, Luft 091 Acc3 Zustaendigkeit Prüfen, Luft 101 Slot Zustaendigkeit Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

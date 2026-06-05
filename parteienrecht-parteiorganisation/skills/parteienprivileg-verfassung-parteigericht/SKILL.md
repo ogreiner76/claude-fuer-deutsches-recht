@@ -1,13 +1,13 @@
 ---
 name: parteienprivileg-verfassung-parteigericht
-description: "Nutze dies, wenn Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau prüfen.; Erstelle eine Arbeitsfassung zu Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufbau** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Parteienprivileg Und Verfassung, Parteigericht Antrag, Parteigericht Aufb
 ## Aufgabe
 Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erstellt Antrag an Parteischiedsgericht: Rubrum, Anträge, Sachverhalt, Satzung, Beweise, Eilbedürftigkeit.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -133,7 +133,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft Schiedsgerichtsordnung, Besetzung, Unabhängigkeit, Zuständigkeit und Verfahrensgrundsätze.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

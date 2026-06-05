@@ -1,13 +1,13 @@
 ---
 name: klage-drafting-mandantenmemo-partner
-description: "Nutze dies, wenn Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update prüfen.; Erstelle eine Arbeitsfassung zu Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -99,22 +99,22 @@ Der Skill richtet sich an Drafter, die eine erste Fassung erzeugen oder einen En
 ### Mustertext Zahlungsklage (Auszug)
 
 ```
-Landgericht Berlin                                       Berlin, den 30. Mai 2026
+Landgericht Berlin Berlin, den 30. Mai 2026
 Tegeler Weg 17-21
 10589 Berlin
 
-                              Klage
+ Klage
 
 der Frau Anna Muster, Beispielstraße 1, 12345 Beispielstadt
-                                                            - Klägerin -
+ - Klägerin -
 Prozessbevollmächtigte: Rechtsanwältin Marta Stern,
 Musterallee 4, 12345 Musterstadt
 
-                                gegen
+ gegen
 
 die Firma Beklagt GmbH, vertreten durch den Geschäftsführer Hans Schmidt,
 Industrieweg 5, 12345 Beispielstadt
-                                                            - Beklagte -
+ - Beklagte -
 
 wegen Kaufpreisforderung
 
@@ -126,7 +126,7 @@ Die Beklagte wird verurteilt, an die Klägerin 25.000,00 Euro nebst Zinsen
 in Höhe von neun Prozentpunkten über dem Basiszinssatz seit dem 1. März 2026
 zu zahlen.
 
-                            Begründung
+ Begründung
 
 I. Sachverhalt
 
@@ -150,8 +150,8 @@ Zahlungsfrist am 28. Februar 2026 fällig. Verzug ist mit dem 1. März 2026
 eingetreten (§ 286 Abs. 2 Nr. 1 BGB).
 
 Anlagenverzeichnis:
-K1   Kaufvertrag vom 15. Januar 2026
-K2   Lieferschein vom 1. Februar 2026
+K1 Kaufvertrag vom 15. Januar 2026
+K2 Lieferschein vom 1. Februar 2026
 
 Marta Stern
 Rechtsanwältin

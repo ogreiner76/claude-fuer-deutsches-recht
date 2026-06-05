@@ -1,41 +1,41 @@
 ---
 name: rechtsmittel-vg-migration-schreiben-einfache
-description: "Nutze dies, wenn Workflow Rechtsmittel Vg, Workflow Redteam Migration, Workflow Redteam Qualitygate, Workflow Schreiben Einfache Sprache, Workflow Sozialrecht Schnittstelle im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Rechtsmittel Vg, Redteam Migration, Redteam Qualitygate, Schreiben Einfache Sprache: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Rechtsmittel Vg, Workflow Redteam Migration, Workflow Redteam Qualitygate, Workflow Schreiben Einfache Sprache, Workflow Sozialrecht Schnittstelle
+# Rechtsmittel Vg, Redteam Migration, Redteam Qualitygate, Schreiben Einfache Sprache, Sozialrecht Schnittstelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsmittel Vg, Redteam Migration, Redteam Qualitygate, Schreiben Einfache Sprache, Sozialrecht Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-rechtsmittel-vg` | Rechtsmittel VG: Workflow-Skill für Migrationsrecht; prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-redteam-migration` | Red-Team Migration: Workflow-Skill für Migrationsrecht; findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-rechtsmittel-vg` | Rechtsmittel VG: Arbeitsmodul für Migrationsrecht; prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-redteam-migration` | Red-Team Migration: Arbeitsmodul für Migrationsrecht; findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
-| `workflow-schreiben-einfache-sprache` | Schreiben einfache Sprache: Workflow-Skill für Migrationsrecht; übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-sozialrecht-schnittstelle` | Sozialrecht-Schnittstelle: Workflow-Skill für Migrationsrecht; prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-schreiben-einfache-sprache` | Schreiben einfache Sprache: Arbeitsmodul für Migrationsrecht; übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-sozialrecht-schnittstelle` | Sozialrecht-Schnittstelle: Arbeitsmodul für Migrationsrecht; prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Rechtsmittel Vg, Workflow Redteam Migration, Workflow Redteam Qualitygate, Workflow Schreiben Einfache Sprache, Workflow Sozialrecht Schnittstelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsmittel Vg, Redteam Migration, Redteam Qualitygate, Schreiben Einfache Sprache, Sozialrecht Schnittstelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-rechtsmittel-vg`
 
-**Fokus:** Rechtsmittel VG: Workflow-Skill für Migrationsrecht; prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Rechtsmittel VG: Arbeitsmodul für Migrationsrecht; prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Rechtsmittel VG
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Klage, Eilantrag, Berufungszulassung, Beschwerde und Begründung.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -62,14 +62,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 2. `workflow-redteam-migration`
 
-**Fokus:** Red-Team Migration: Workflow-Skill für Migrationsrecht; findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Red-Team Migration: Arbeitsmodul für Migrationsrecht; findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Red-Team Migration
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: findet Fristenfehler, fehlende Belege, falsche Normen und riskante Aussagen.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -101,10 +101,10 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-migrationsrecht` Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-migrationsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -114,7 +114,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -131,14 +131,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 4. `workflow-schreiben-einfache-sprache`
 
-**Fokus:** Schreiben einfache Sprache: Workflow-Skill für Migrationsrecht; übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Schreiben einfache Sprache: Arbeitsmodul für Migrationsrecht; übersetzt Ergebnisse in klare, nicht einschüchternde Sprache; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Schreiben einfache Sprache
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: übersetzt Ergebnisse in klare, nicht einschüchternde Sprache.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: übersetzt Ergebnisse in klare, nicht einschüchternde Sprache.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -165,14 +165,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 5. `workflow-sozialrecht-schnittstelle`
 
-**Fokus:** Sozialrecht-Schnittstelle: Workflow-Skill für Migrationsrecht; prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Sozialrecht-Schnittstelle: Arbeitsmodul für Migrationsrecht; prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Sozialrecht-Schnittstelle
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Lebensunterhalt, Leistungen, Krankenversicherung, Wohnen und Meldung.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.

@@ -1,23 +1,23 @@
 ---
 name: beirat-familiengesellschaft
-description: "Nutze dies, wenn Beirat Familiengesellschaft, Beirat Geschaeftsfuehrerabberufung, Beirat Geschaeftsfuehrerbestellung, Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Beirat Familiengesellschaft, Beirat Geschaeftsfuehrerabberufung, Beirat Geschaeftsfuehrerbestellung, Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen prüfen.; Erstelle eine Arbeitsfassung zu Beirat Familiengesellschaft, Beirat Geschaeftsfuehrerabberufung, Beirat Geschaeftsfuehrerbestellung, Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Familiengesellschaft, Beirat Geschaeftsfuehrerabberufung, Beirat Geschaeftsfuehrerbestellung, Beirat Geschaeftsordnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Familiengesellschaft, Beirat Geschaeftsfuehrerabberufung, Beirat Geschaeftsfuehrerbestellung, Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Familiengesellschaft, Beirat Geschaeftsfuehrerabberufung, Beirat Geschaeftsfuehrerbestellung, Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-familiengesellschaft` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Familiengesellschaft; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-geschaeftsfuehrerabberufung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-geschaeftsfuehrerbestellung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-geschaeftsordnung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsordnung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-immobilien-und-investitionen` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Immobilien Und Investitionen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-familiengesellschaft` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Familiengesellschaft; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-geschaeftsfuehrerabberufung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-geschaeftsfuehrerbestellung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-geschaeftsordnung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsordnung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-immobilien-und-investitionen` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Immobilien Und Investitionen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Beirat Familiengesellschaft, Beirat Geschaeftsfuehrerabberufung, Beirat G
 
 ## 1. `beirat-familiengesellschaft`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Familiengesellschaft; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Familiengesellschaft; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Familiengesellschaft
 
@@ -94,7 +94,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-geschaeftsfuehrerabberufung`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Geschaeftsfuehrerabberufung
 
@@ -160,7 +160,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-geschaeftsfuehrerbestellung`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Geschaeftsfuehrerbestellung
 
@@ -226,7 +226,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-geschaeftsordnung`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsordnung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Geschaeftsordnung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Geschaeftsordnung
 
@@ -292,7 +292,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-immobilien-und-investitionen`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Immobilien Und Investitionen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Immobilien Und Investitionen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Immobilien Und Investitionen
 

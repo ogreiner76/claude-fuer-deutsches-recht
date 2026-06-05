@@ -1,19 +1,19 @@
 ---
 name: rechtsabteilung-safe-vc-rookie-vc-kagb-vc
-description: "Nutze dies, wenn Rechtsabteilung Safe Und Wandeldarlehen Nach Deutschem Recht, Vc 002 Rookie Modus Vc Begriffe, Vc 004 Kagb Aif Bafin Grenzcheck, Vc 005 Direktinvestment Spv Club Deal im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Safe Und Wandeldarlehen Nach Deutschem Recht, Vc 002 Rookie Modus Vc Begriffe, Vc 004 Kagb Aif Bafin Grenzcheck, Vc 005 Direktinvestment Spv Club Deal prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Safe Und Wandeldarlehen Nach Deutschem Recht, Vc 002 Rookie Modus Vc Begriffe, Vc 004 Kagb Aif Bafin Grenzcheck, Vc 005 Direktinvestment Spv Club Deal.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Safe Und Wandeldarlehen Nach Deutschem Recht, Vc 002 Rookie Modus Vc Begriffe, Vc 004 Kagb Aif Bafin Grenzcheck, Vc 005 Direktinvestment Spv Club Deal: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Safe Und Wandeldarlehen Nach Deutschem Recht, Vc 002 Rookie Modus Vc Begriffe, Vc 004 Kagb Aif Bafin Grenzcheck, Vc 005 Direktinvestment Spv Club Deal
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Safe Und Wandeldarlehen Nach Deutschem Recht, Vc 002 Rookie Modus Vc Begriffe, Vc 004 Kagb Aif Bafin Grenzcheck, Vc 005 Direktinvestment Spv Club Deal** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-safe-und-wandeldarlehen-nach-deutschem-recht` | Rechtsabteilungs-Spezialskill für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-safe-und-wandeldarlehen-nach-deutschem-recht` | Rechtsabteilungs-Fachmodul für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `vc-002-rookie-modus-vc-begriffe` | Erklärt Pre-Seed, Seed, Series A/B, bridge, runway, lead, follow-on, pro rata, SAFE, cap table und liquidation preference auf Deutsch. |
 | `vc-004-kagb-aif-bafin-grenzcheck` | Prüft, ob gemeinsames Einsammeln und Investieren in Startups in Richtung Investmentvermögen, AIF, KVG, Vertrieb oder Pre-Marketing kippt. |
 | `vc-005-direktinvestment-spv-club-deal` | Vergleicht Direktbeteiligung, Treuhand, Pooling-SPV, Club Deal, Angel-Syndikat und Fondsvehikel aus Sicht eines deutschen VC-Gebers. |
@@ -27,7 +27,7 @@ Für **Rechtsabteilung Safe Und Wandeldarlehen Nach Deutschem Recht, Vc 002 Rook
 
 ## 1. `rechtsabteilung-safe-und-wandeldarlehen-nach-deutschem-recht`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht
 

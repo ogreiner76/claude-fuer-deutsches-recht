@@ -1,13 +1,13 @@
 ---
 name: oew-transparenz-oew-haushaltsrechtliche-oew
-description: "Nutze dies, wenn Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat prüfen.; Erstelle eine Arbeitsfassung zu Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Prüfen, Oew 017 Buergschaft Und Patronat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

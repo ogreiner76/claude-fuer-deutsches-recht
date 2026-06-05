@@ -1,13 +1,13 @@
 ---
 name: buyout-ma-country-by-cta-contractual
-description: "Nutze dies, wenn Buyout Im Ma Deal Asset Vs Share, Country By Country Benefits Matrix Konzern, Cta Contractual Trust Arrangement Strukturierung im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Buyout Im Ma Deal Asset Vs Share, Country By Country Benefits Matrix Konzern, Cta Contractual Trust Arrangement Strukturierung prüfen.; Erstelle eine Arbeitsfassung zu Buyout Im Ma Deal Asset Vs Share, Country By Country Benefits Matrix Konzern, Cta Contractual Trust Arrangement Strukturierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Buyout Im Ma Deal Asset Vs Share, Country By Country Benefits Matrix Konzern, Cta Contractual Trust Arrangement Strukturierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Buyout Im Ma Deal Asset Vs Share, Country By Country Benefits Matrix Konzern, Cta Contractual Trust Arrangement Strukturierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Buyout Im Ma Deal Asset Vs Share, Country By Country Benefits Matrix Konzern, Cta Contractual Trust Arrangement Strukturierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -185,19 +185,19 @@ sorgfältig durchzuführen.
 PENSION DUE DILIGENCE REPORT
 Vertraulich — Nur für Empfänger bestimmt
 
-Mandant (Käufer):    [Konzern Käufer AG]
-Zielgesellschaft:    [Zielgesellschaft GmbH]
-Datum:               [Datum]
-Federführung:        fachliche Leitung, LL.M. (Oxford)
-                     bAV-Projektteam
+Mandant (Käufer): [Konzern Käufer AG]
+Zielgesellschaft: [Zielgesellschaft GmbH]
+Datum: [Datum]
+Federführung: fachliche Leitung, LL.M. (Oxford)
+ bAV-Projektteam
 
 EXECUTIVE SUMMARY
 
-Gesamte IAS 19-DBO (Stichtag):      EUR [Betrag] Mio.
-Planvermögen (Stichtag):            EUR [Betrag] Mio.
-Net Pension Liability:              EUR [Betrag] Mio.
-HGB-Rückstellungen (Stichtag):      EUR [Betrag] Mio.
-PSV-Beiträge p.a. (letztes Jahr):  EUR [Betrag]
+Gesamte IAS 19-DBO (Stichtag): EUR [Betrag] Mio.
+Planvermögen (Stichtag): EUR [Betrag] Mio.
+Net Pension Liability: EUR [Betrag] Mio.
+HGB-Rückstellungen (Stichtag): EUR [Betrag] Mio.
+PSV-Beiträge p.a. (letztes Jahr): EUR [Betrag]
 
 RISIKOEINSTUFUNG:
 □ Gering (keine wesentlichen Befunde)
@@ -586,17 +586,17 @@ Treuhandzweck zuwiderlaufen, sind unwirksam.
 Statement (IPS, Anlage 3) an.
 (2) Das IPS wird vom Treuhandausschuss (§ 8) jährlich überprüft und ggf. angepasst.
 (3) Grundsätze:
-    a) Sicherheit und Kapitalerhalt haben Vorrang vor Renditeoptimierung;
-    b) Anlagediversifikation nach dem Prudent-Investor-Standard;
-    c) ESG-Kriterien werden berücksichtigt soweit sie die Rendite nicht beeinträchtigen;
-    d) Maximale Aktienquote: [X]% des Treuhandvermögens;
-    e) Fremdwährungs-Exposure wird auf [X]% begrenzt und abgesichert.
+ a) Sicherheit und Kapitalerhalt haben Vorrang vor Renditeoptimierung;
+ b) Anlagediversifikation nach dem Prudent-Investor-Standard;
+ c) ESG-Kriterien werden berücksichtigt soweit sie die Rendite nicht beeinträchtigen;
+ d) Maximale Aktienquote: [X]% des Treuhandvermögens;
+ e) Fremdwährungs-Exposure wird auf [X]% begrenzt und abgesichert.
 
 § 6 Rückübertragung
 (1) Der Treugeber kann eine Rückübertragung von Treuhandvermögen verlangen, soweit
-    a) das Treuhandvermögen den Barwert der gedeckten Versorgungsverpflichtungen
-       (HGB-Rückstellungswert) übersteigt (Überschussrückübertragung) und
-    b) die Versorgungsberechtigten durch die Rückübertragung nicht benachteiligt werden.
+ a) das Treuhandvermögen den Barwert der gedeckten Versorgungsverpflichtungen
+ (HGB-Rückstellungswert) übersteigt (Überschussrückübertragung) und
+ b) die Versorgungsberechtigten durch die Rückübertragung nicht benachteiligt werden.
 (2) Die Rückübertragung bedarf der Zustimmung des Treuhandausschusses.
 (3) Eine Rückübertragung im Insolvenzfall des Treugebers ist ausgeschlossen.
 
@@ -608,9 +608,9 @@ Der Treuhänder erhält für seine Tätigkeit eine jährliche Verwaltungsgebühr
 (1) Zur Überwachung des Treuhänders wird ein Treuhandausschuss gebildet
 (→ Governance-Regelung: Skill `governance-und-anpassungsmechanismen`).
 (2) Dem Treuhandausschuss gehören an:
-    a) zwei Vertreter des Treugebers,
-    b) zwei von den Versorgungsberechtigten gewählte Vertreter,
-    c) ein unabhängiger Sachverständiger.
+ a) zwei Vertreter des Treugebers,
+ b) zwei von den Versorgungsberechtigten gewählte Vertreter,
+ c) ein unabhängiger Sachverständiger.
 (3) Der Treuhandausschuss ist zu informieren über alle wesentlichen Änderungen
 der Kapitalanlage, des IPS sowie etwaige Interessenkonflikte des Treuhänders.
 
@@ -629,8 +629,8 @@ Dieser Vertrag unterliegt deutschem Recht. Gerichtsstand ist Düsseldorf.
 
 Düsseldorf, den [Datum]
 
-[Konzern Muster AG]                    [Konzern Pension Treuhand GmbH]
-[Geschäftsführung]                     [Geschäftsführung]
+[Konzern Muster AG] [Konzern Pension Treuhand GmbH]
+[Geschäftsführung] [Geschäftsführung]
 ```
 
 ### Template 2: Bilanzielle Checkliste CTA-Anerkennung

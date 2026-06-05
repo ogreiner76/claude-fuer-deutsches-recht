@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-024-zweiter-kirchen-schule
-description: "Nutze dies, wenn PrALR: Zweiter Teil Kirchen Schule Armenwesen im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Zweiter Teil Kirchen Schule Armenwesen prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Zweiter Teil Kirchen Schule Armenwesen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Zweiter Teil Kirchen Schule Armenwesen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Kirchen Schule Armenwesen

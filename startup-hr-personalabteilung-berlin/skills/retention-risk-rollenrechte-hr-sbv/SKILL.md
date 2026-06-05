@@ -1,23 +1,23 @@
 ---
 name: retention-risk-rollenrechte-hr-sbv
-description: "Nutze dies, wenn Retention Risk Map, Rollenrechte Hr Team Und Founder, Sbv Und Integrationsamt Kuendigungsschutz, Slack Teams Kommunikationsregeln, Teilzeit Brueckenteilzeit im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Retention Risk Map, Rollenrechte Hr Team Und Founder, Sbv Und Integrationsamt Kuendigungsschutz, Slack Teams Kommunikationsregeln, Teilzeit Brueckenteilzeit prüfen.; Erstelle eine Arbeitsfassung zu Retention Risk Map, Rollenrechte Hr Team Und Founder, Sbv Und Integrationsamt Kuendigungsschutz, Slack Teams Kommunikationsregeln, Teilzeit Brueckenteilzeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Retention Risk Map, Rollenrechte Hr Team Und Founder, Sbv Und Integrationsamt Kuendigungsschutz, Slack Teams Kommunikationsregeln: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Retention Risk Map, Rollenrechte Hr Team Und Founder, Sbv Und Integrationsamt Kuendigungsschutz, Slack Teams Kommunikationsregeln, Teilzeit Brueckenteilzeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Retention Risk Map, Rollenrechte Hr Team Und Founder, Sbv Und Integrationsamt Kuendigungsschutz, Slack Teams Kommunikationsregeln, Teilzeit Brueckenteilzeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `retention-risk-map` | Berliner Start-up-HR: Retention-Risk-Map: Kündigungsrisiko, Schlüsselpersonen, Gehaltsband, Konflikte, Entwicklung und zulässige Datengrundlage. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `rollenrechte-hr-team-und-founder` | Berliner Start-up-HR: Rollenrechte im HR-Team und bei Foundern: wer darf welche Daten sehen, ändern, exportieren oder berichten. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `sbv-und-integrationsamt-kuendigungsschutz` | Berliner Start-up-HR: Schwerbehindertenvertretung, Integrationsamt und besonderer Kündigungsschutz: HR-Fristen und Eskalation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `slack-teams-kommunikationsregeln` | Berliner Start-up-HR: Slack/Teams-Regeln: Arbeitszeit, respektvolle Kommunikation, Screenshots, personenbezogene Daten, Betriebsrat und Discovery-Risiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `teilzeit-brueckenteilzeit` | Berliner Start-up-HR: Teilzeit und Brückenteilzeit: Anspruch, Antrag, betriebliche Gründe, Rückkehr, Dokumentation und Teamplanung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `retention-risk-map` | Berliner Start-up-HR: Retention-Risk-Map: Kündigungsrisiko, Schlüsselpersonen, Gehaltsband, Konflikte, Entwicklung und zulässige Datengrundlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `rollenrechte-hr-team-und-founder` | Berliner Start-up-HR: Rollenrechte im HR-Team und bei Foundern: wer darf welche Daten sehen, ändern, exportieren oder berichten. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `sbv-und-integrationsamt-kuendigungsschutz` | Berliner Start-up-HR: Schwerbehindertenvertretung, Integrationsamt und besonderer Kündigungsschutz: HR-Fristen und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `slack-teams-kommunikationsregeln` | Berliner Start-up-HR: Slack/Teams-Regeln: Arbeitszeit, respektvolle Kommunikation, Screenshots, personenbezogene Daten, Betriebsrat und Discovery-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `teilzeit-brueckenteilzeit` | Berliner Start-up-HR: Teilzeit und Brückenteilzeit: Anspruch, Antrag, betriebliche Gründe, Rückkehr, Dokumentation und Teamplanung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Retention Risk Map, Rollenrechte Hr Team Und Founder, Sbv Und Integration
 
 ## 1. `retention-risk-map`
 
-**Fokus:** Berliner Start-up-HR: Retention-Risk-Map: Kündigungsrisiko, Schlüsselpersonen, Gehaltsband, Konflikte, Entwicklung und zulässige Datengrundlage. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Retention-Risk-Map: Kündigungsrisiko, Schlüsselpersonen, Gehaltsband, Konflikte, Entwicklung und zulässige Datengrundlage. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Retention Risk Map
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Happiness
 **Fokus:** Retention-Risk-Map: Kündigungsrisiko, Schlüsselpersonen, Gehaltsband, Konflikte, Entwicklung und zulässige Datengrundlage.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `rollenrechte-hr-team-und-founder`
 
-**Fokus:** Berliner Start-up-HR: Rollenrechte im HR-Team und bei Foundern: wer darf welche Daten sehen, ändern, exportieren oder berichten. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Rollenrechte im HR-Team und bei Foundern: wer darf welche Daten sehen, ändern, exportieren oder berichten. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Rollenrechte HR Team Und Founder
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Governance
 **Fokus:** Rollenrechte im HR-Team und bei Foundern: wer darf welche Daten sehen, ändern, exportieren oder berichten.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `sbv-und-integrationsamt-kuendigungsschutz`
 
-**Fokus:** Berliner Start-up-HR: Schwerbehindertenvertretung, Integrationsamt und besonderer Kündigungsschutz: HR-Fristen und Eskalation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Schwerbehindertenvertretung, Integrationsamt und besonderer Kündigungsschutz: HR-Fristen und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # SBV Und Integrationsamt Kuendigungsschutz
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** SGB IX
 **Fokus:** Schwerbehindertenvertretung, Integrationsamt und besonderer Kündigungsschutz: HR-Fristen und Eskalation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `slack-teams-kommunikationsregeln`
 
-**Fokus:** Berliner Start-up-HR: Slack/Teams-Regeln: Arbeitszeit, respektvolle Kommunikation, Screenshots, personenbezogene Daten, Betriebsrat und Discovery-Risiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Slack/Teams-Regeln: Arbeitszeit, respektvolle Kommunikation, Screenshots, personenbezogene Daten, Betriebsrat und Discovery-Risiko. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Slack Teams Kommunikationsregeln
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Policies
 **Fokus:** Slack/Teams-Regeln: Arbeitszeit, respektvolle Kommunikation, Screenshots, personenbezogene Daten, Betriebsrat und Discovery-Risiko.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `teilzeit-brueckenteilzeit`
 
-**Fokus:** Berliner Start-up-HR: Teilzeit und Brückenteilzeit: Anspruch, Antrag, betriebliche Gründe, Rückkehr, Dokumentation und Teamplanung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Teilzeit und Brückenteilzeit: Anspruch, Antrag, betriebliche Gründe, Rückkehr, Dokumentation und Teamplanung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Teilzeit Brueckenteilzeit
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Zeit
 **Fokus:** Teilzeit und Brückenteilzeit: Anspruch, Antrag, betriebliche Gründe, Rückkehr, Dokumentation und Teamplanung.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

@@ -1,13 +1,13 @@
 ---
 name: kontaminierter-baugrund-orientierung-vob
-description: "Nutze dies, wenn Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Fachanwalt Bau Architektenrecht Orientierung, Fachanwalt Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Fachanwalt Bau Architektenrecht Werkmangel Prüfen im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Fachanwalt Bau Architektenrecht Orientierung, Fachanwalt Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Fachanwalt Bau Architektenrecht Werkmangel Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Fachanwalt Bau Architektenrecht Orientierung, Fachanwalt Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Fachanwalt Bau Architektenrecht Werkmangel Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Fachanwalt Bau Architektenrecht Orientierung, Fachanwalt Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Fachanwalt Bau Architektenrecht Werkmangel Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Fachanwalt Bau Architektenrecht Orientierung, Fachanwalt Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Fachanwalt Bau Architektenrecht Werkmangel Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Fachanwalt Bau Architektenrecht Orientierung, Fachanwalt Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Fachanwalt Bau Architektenrecht Werkmangel Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -124,7 +124,7 @@ Pflichten des Bauunternehmers:
 
 ## Prüfschema — Stufenweise Anspruchsprüfung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Bejahung |
@@ -139,7 +139,7 @@ Pflichten des Bauunternehmers:
 | 8 | Kostenausgleichanspruch gegen Verursacher prüfen | § 24 BBodSchG | Rückgriff auf Vorbesitzer/frühere Betreiber |
 | 9 | Versicherungsleistungen vorhanden? | UmweltHG, Bauherren-Haftpflicht | Schadensminderung |
 
-## Workflow — Phasen der Krisenbewältigung
+## — Phasen der Krisenbewältigung
 
 ### Phase 1 — Sofortmaßnahmen bei Aushub-Befund (Tag 1–3)
 
@@ -243,22 +243,22 @@ Bauvorhaben: [Bezeichnung], Auftraggeber: [Name]
 Anlass: Bodenkontamination (§ 642 BGB / § 6 Abs. 6 VOB/B)
 
 Position 1: Sonderaushub kontaminiertes Erdreich
-  [X] m³ à EUR [Einheitspreis] netto = EUR [Summe]
+ [X] m³ à EUR [Einheitspreis] netto = EUR [Summe]
 
 Position 2: Deponierung als Gefahrenabfall (AVV [Schlüssel])
-  [X] t à EUR [Preis/t] netto = EUR [Summe]
+ [X] t à EUR [Preis/t] netto = EUR [Summe]
 
 Position 3: Gefahrguttransport nach GGVSEB
-  [X] Fuhren à EUR [Preis] netto = EUR [Summe]
+ [X] Fuhren à EUR [Preis] netto = EUR [Summe]
 
 Position 4: Sachverständigenkosten Probenentnahme und Analytik
-  EUR [Betrag] netto (Kostenvoranschlag Anlage)
+ EUR [Betrag] netto (Kostenvoranschlag Anlage)
 
 Position 5: Stillstandskosten Personal [X] Tage à [Y] Personen
-  Tagessatz EUR [Satz] = EUR [Summe]
+ Tagessatz EUR [Satz] = EUR [Summe]
 
 Position 6: Vorhaltekosten Geräte [X] Tage
-  EUR [Summe]
+ EUR [Summe]
 
 Gesamtnetto: EUR [Summe]
 USt 19 %: EUR [Summe]
@@ -627,7 +627,7 @@ Weitere Entscheidungen vor Ausgabe ueber dejure.org / bundesgerichtshof.de mit A
 
 ## Prüfschema — Mängelrecht (Schritt für Schritt)
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
@@ -749,10 +749,10 @@ Werktage ab Zugang):
 
 MÄNGELLISTE (Anlage K 1 — Lichtbilder; Anlage K 2 — SV-Gutachten)
 
-Lfd. | Lokalisation         | Mangelbeschreibung           | Sollvorgabe
-1.   | [Raum/Bauteil]      | [Beschreibung Istabweichung]  | [LV-Pos./DIN/aRdT]
-2.   | [Raum/Bauteil]      | [Beschreibung Istabweichung]  | [LV-Pos./DIN/aRdT]
-3.   | [Raum/Bauteil]      | [Beschreibung Istabweichung]  | [LV-Pos./DIN/aRdT]
+Lfd. | Lokalisation | Mangelbeschreibung | Sollvorgabe
+1. | [Raum/Bauteil] | [Beschreibung Istabweichung] | [LV-Pos./DIN/aRdT]
+2. | [Raum/Bauteil] | [Beschreibung Istabweichung] | [LV-Pos./DIN/aRdT]
+3. | [Raum/Bauteil] | [Beschreibung Istabweichung] | [LV-Pos./DIN/aRdT]
 
 Sämtliche Mängel sind durch das Sachverständigengutachten des
 [NAME SV] vom [DATUM] (Anlage K 2) belegt.

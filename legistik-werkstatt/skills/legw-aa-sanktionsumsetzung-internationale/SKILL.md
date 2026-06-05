@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Sanktionsumsetzung und internationale Abkommen
-Ressort:            AA
-Kernnormen:         AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.
-Akteure/Aufsicht:   AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.
-EU/Voelkerrecht:    EU-Sanktionsregime gegen Drittstaaten und Personen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Sanktionsumsetzung und internationale Abkommen
+Ressort: AA
+Kernnormen: AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.
+Akteure/Aufsicht: AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.
+EU/Voelkerrecht: EU-Sanktionsregime gegen Drittstaaten und Personen.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-aa; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

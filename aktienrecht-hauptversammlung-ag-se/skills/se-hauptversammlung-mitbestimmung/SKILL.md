@@ -1,22 +1,22 @@
 ---
 name: se-hauptversammlung-mitbestimmung
-description: "Nutze dies, wenn Se Hauptversammlung, Se Mitbestimmung, Sonderpruefung, Squeeze Out im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Se Hauptversammlung, Se Mitbestimmung, Sonderpruefung, Squeeze Out prüfen.; Erstelle eine Arbeitsfassung zu Se Hauptversammlung, Se Mitbestimmung, Sonderpruefung, Squeeze Out.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Se Hauptversammlung, Se Mitbestimmung, Sonderpruefung, Squeeze Out: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Se Hauptversammlung, Se Mitbestimmung, Sonderpruefung, Squeeze Out
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Se Hauptversammlung, Se Mitbestimmung, Sonderpruefung, Squeeze Out** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `se-hauptversammlung` | Hauptversammlung AG und SE: SE Hauptversammlung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `se-mitbestimmung` | Hauptversammlung AG und SE: SE Mitbestimmung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `sonderpruefung` | Hauptversammlung AG und SE: Sonderpruefung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `squeeze-out` | Hauptversammlung AG und SE: Squeeze Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `se-hauptversammlung` | Hauptversammlung AG und SE: SE Hauptversammlung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `se-mitbestimmung` | Hauptversammlung AG und SE: SE Mitbestimmung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `sonderpruefung` | Hauptversammlung AG und SE: Sonderpruefung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `squeeze-out` | Hauptversammlung AG und SE: Squeeze Out; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Se Hauptversammlung, Se Mitbestimmung, Sonderpruefung, Squeeze Out** zuer
 
 ## 1. `se-hauptversammlung`
 
-**Fokus:** Hauptversammlung AG und SE: SE Hauptversammlung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: SE Hauptversammlung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # SE Hauptversammlung
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `se-mitbestimmung`
 
-**Fokus:** Hauptversammlung AG und SE: SE Mitbestimmung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: SE Mitbestimmung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # SE Mitbestimmung
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `sonderpruefung`
 
-**Fokus:** Hauptversammlung AG und SE: Sonderpruefung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Sonderpruefung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Sonderpruefung
 
@@ -201,7 +201,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `squeeze-out`
 
-**Fokus:** Hauptversammlung AG und SE: Squeeze Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Squeeze Out; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Squeeze Out
 

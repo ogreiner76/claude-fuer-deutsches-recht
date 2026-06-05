@@ -1,13 +1,13 @@
 ---
 name: tehg-verfahren-umweltrecht-verfahren
-description: "Nutze dies, wenn Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren prüfen.; Erstelle eine Arbeitsfassung zu Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren
+# Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Tehg Fristen Form Und Zustaendigkeit, Spezial Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -149,7 +149,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### A) Anfechtungsklage (Dritter gegen Genehmigung)
 
@@ -171,14 +171,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Liegt ein belastender VA vor?
-  JA → Anfechtungsklage § 42 Abs. 1 VwGO
-       Dritter (nicht Adressat)?
-         JA → Drittschutz pruefen; § 80a Eilantrag
-         NEIN → Standard-Anfechtungsklage
-  NEIN → Ist eine Handlung (Genehmigung) abgelehnt?
-           JA → Verpflichtungsklage § 42 Abs. 1 Alt. 2 VwGO
-           NEIN → Feststellungsklage § 43 VwGO (Rechtsverhaeltnis)
-                  Norm angreifbar? → Normenkontrolle § 47 VwGO (OVG)
+ JA → Anfechtungsklage § 42 Abs. 1 VwGO
+ Dritter (nicht Adressat)?
+ JA → Drittschutz pruefen; § 80a Eilantrag
+ NEIN → Standard-Anfechtungsklage
+ NEIN → Ist eine Handlung (Genehmigung) abgelehnt?
+ JA → Verpflichtungsklage § 42 Abs. 1 Alt. 2 VwGO
+ NEIN → Feststellungsklage § 43 VwGO (Rechtsverhaeltnis)
+ Norm angreifbar? → Normenkontrolle § 47 VwGO (OVG)
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -235,7 +235,7 @@ TA-Laerm-Richtwert Nacht 40 dB(A) wird prognostiziert ueberschritten.
 III. Begruendung
 1. Schallgutachten fehlerhaft: [Konkrete Maengel]
 2. UVP-Pflicht (UVPG Anlage 1 Nr. [X]) verletzt; Verfahren nicht durchgefuehrt.
-   § 4 UmwRG: Verfahrensfehler fuehrt ohne Kausalitaetspruefung zur Aufhebung.
+ § 4 UmwRG: Verfahrensfehler fuehrt ohne Kausalitaetspruefung zur Aufhebung.
 3. Materieller Fehler: Nebenbestimmung Betriebszeit unzureichend.
 
 Anlagen: Eigentumsnachweise, Schall-Gegengutachten, Lageplan

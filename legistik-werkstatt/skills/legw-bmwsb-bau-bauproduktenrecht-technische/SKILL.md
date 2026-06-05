@@ -1,13 +1,13 @@
 ---
 name: legw-bmwsb-bau-bauproduktenrecht-technische
-description: "Nutze dies, wenn Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik, Legw Bmwsb Stadtentwicklung Und Foerderprogramme und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik, Legw Bmwsb Stadtentwicklung Und Foerderprogramme und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik, Legw Bmwsb Stadtentwicklung Und Foerderprogramme und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik, Legw Bmwsb Stadtentwicklung Und Foerderprogramme und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik, Legw Bmwsb Stadtentwicklung Und Foerderprogramme und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,16 +87,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Bau- und Planungsrecht (BauGB; BauNVO)
-Ressort:            BMWSB
-Kernnormen:         BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.
-Akteure/Aufsicht:   BMWSB; Laender-Bauaufsicht; Kommunen; OVG.
-EU/Voelkerrecht:    UVP-RL; SUP-RL; FFH-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwsb; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Bau- und Planungsrecht (BauGB; BauNVO)
+Ressort: BMWSB
+Kernnormen: BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.
+Akteure/Aufsicht: BMWSB; Laender-Bauaufsicht; Kommunen; OVG.
+EU/Voelkerrecht: UVP-RL; SUP-RL; FFH-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -169,16 +169,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Bauproduktenrecht und technische Normen
-Ressort:            BMWSB
-Kernnormen:         BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.
-Akteure/Aufsicht:   DIBt; BMWSB; Notified Bodies; Laender-Bauaufsicht.
-EU/Voelkerrecht:    BauPVO 305/2011; Aenderung BauPVO (CRR-Update).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwsb; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Bauproduktenrecht und technische Normen
+Ressort: BMWSB
+Kernnormen: BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.
+Akteure/Aufsicht: DIBt; BMWSB; Notified Bodies; Laender-Bauaufsicht.
+EU/Voelkerrecht: BauPVO 305/2011; Aenderung BauPVO (CRR-Update).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -251,16 +251,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Energetische Sanierung (GEG)
-Ressort:            BMWSB
-Kernnormen:         GEG; EnEV (alt); BAFA-Foerderrichtlinien; KfW-Foerderbedingungen.
-Akteure/Aufsicht:   BAFA; KfW; BMWSB; Bezirksregierungen; Schornsteinfeger.
-EU/Voelkerrecht:    EPBD; EU-Energieeffizienz-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwsb; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Energetische Sanierung (GEG)
+Ressort: BMWSB
+Kernnormen: GEG; EnEV (alt); BAFA-Foerderrichtlinien; KfW-Foerderbedingungen.
+Akteure/Aufsicht: BAFA; KfW; BMWSB; Bezirksregierungen; Schornsteinfeger.
+EU/Voelkerrecht: EPBD; EU-Energieeffizienz-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -333,16 +333,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Mietrecht und Wohnungspolitik
-Ressort:            BMWSB
-Kernnormen:         BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.
-Akteure/Aufsicht:   BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.
-EU/Voelkerrecht:    EnergieefffizienzRL (EPBD) Schnittstelle.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwsb; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Mietrecht und Wohnungspolitik
+Ressort: BMWSB
+Kernnormen: BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.
+Akteure/Aufsicht: BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.
+EU/Voelkerrecht: EnergieefffizienzRL (EPBD) Schnittstelle.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -415,16 +415,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Stadtentwicklung und Foerderprogramme
-Ressort:            BMWSB
-Kernnormen:         StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.
-Akteure/Aufsicht:   BMWSB; KfW; Laender-Stadtentwicklung; Kommunen.
-EU/Voelkerrecht:    EFRE; URBACT; Leipzig-Charta.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwsb; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Stadtentwicklung und Foerderprogramme
+Ressort: BMWSB
+Kernnormen: StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.
+Akteure/Aufsicht: BMWSB; KfW; Laender-Stadtentwicklung; Kommunen.
+EU/Voelkerrecht: EFRE; URBACT; Leipzig-Charta.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -497,16 +497,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Entwicklungszusammenarbeit und bilaterale Abkommen
-Ressort:            BMZ
-Kernnormen:         Verwaltungsvereinbarungen; HG; BHO; Vertragsgesetze (BGBl II).
-Akteure/Aufsicht:   BMZ; GIZ; KfW; Auslandshandelskammern; AA-Schnittstelle.
-EU/Voelkerrecht:    Team Europe Initiatives; EU-Treuhandfonds; NDICI.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmz; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Entwicklungszusammenarbeit und bilaterale Abkommen
+Ressort: BMZ
+Kernnormen: Verwaltungsvereinbarungen; HG; BHO; Vertragsgesetze (BGBl II).
+Akteure/Aufsicht: BMZ; GIZ; KfW; Auslandshandelskammern; AA-Schnittstelle.
+EU/Voelkerrecht: Team Europe Initiatives; EU-Treuhandfonds; NDICI.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -579,16 +579,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Humanitaere Hilfe und Krisenpraevention
-Ressort:            BMZ
-Kernnormen:         Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.
-Akteure/Aufsicht:   BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.
-EU/Voelkerrecht:    DG ECHO; HumDS-Pakt; Sphere-Standards.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmz; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Humanitaere Hilfe und Krisenpraevention
+Ressort: BMZ
+Kernnormen: Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.
+Akteure/Aufsicht: BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.
+EU/Voelkerrecht: DG ECHO; HumDS-Pakt; Sphere-Standards.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -661,16 +661,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Internationale Klimafinanzierung
-Ressort:            BMZ
-Kernnormen:         Pariser Abkommen; KSG; HG; bilaterale Klimavereinbarungen.
-Akteure/Aufsicht:   BMZ; BMUKN; KfW; Green Climate Fund; AWB.
-EU/Voelkerrecht:    EU-Klimafinanzierungsziele; Green Deal; CBAM (Schnittstelle).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmz; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Internationale Klimafinanzierung
+Ressort: BMZ
+Kernnormen: Pariser Abkommen; KSG; HG; bilaterale Klimavereinbarungen.
+Akteure/Aufsicht: BMZ; BMUKN; KfW; Green Climate Fund; AWB.
+EU/Voelkerrecht: EU-Klimafinanzierungsziele; Green Deal; CBAM (Schnittstelle).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

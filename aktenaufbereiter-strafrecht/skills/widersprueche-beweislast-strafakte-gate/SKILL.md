@@ -1,13 +1,13 @@
 ---
 name: widersprueche-beweislast-strafakte-gate
-description: "Nutze dies, wenn Spezial Widersprueche Beweislast Und Darlegungslast, Strafakte Quality Gate, Strafakte Übergabe Vorbereiten im Plugin Aktenaufbereiter Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Widersprueche Beweislast Und Darlegungslast, Strafakte Quality Gate, Strafakte Übergabe Vorbereiten prüfen.; Erstelle eine Arbeitsfassung zu Spezial Widersprueche Beweislast Und Darlegungslast, Strafakte Quality Gate, Strafakte Übergabe Vorbereiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Widersprueche Beweislast Und Darlegungslast, Strafakte Quality Gate, Strafakte Uebergabe Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Widersprueche Beweislast Und Darlegungslast, Strafakte Quality Gate, Strafakte Übergabe Vorbereiten
+# Widersprueche Beweislast Und Darlegungslast, Strafakte Quality Gate, Strafakte Übergabe Vorbereiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Widersprueche Beweislast Und Darlegungslast, Strafakte Quality Gate, Strafakte Übergabe Vorbereiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Widersprueche Beweislast Und Darlegungslast, Strafakte Quality Gate, Strafakte Übergabe Vorbereiten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Widersprueche Beweislast Und Darlegungslast, Strafakte Quality Gate, Strafakte Übergabe Vorbereiten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Widersprueche Beweislast Und Darlegungslast, Strafakte Quality Ga
 # Widersprueche: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Widersprueche: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Widersprueche: Beweislast, Darlegungslast und Substantiierung / spezial widersprueche beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Widersprueche: Beweislast, Darlegungslast und Substantiierung / widersprueche beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -67,29 +67,29 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Widersprueche / Beweislast Bausteine (Strafrecht)
 - **Beweisgrundsatz im Strafverfahren - Unschuldsvermutung:**
-  - Art. 6 II EMRK, RL 2016/343/EU; Art. 20 III GG.
-  - Beweislast vollstaendig bei StA: jeder Tatbestandsmerkmal, jede Schuldfaehigkeit, jede Rechtswidrigkeit (im Zweifel: in dubio pro reo).
-  - **Keine** Darlegungs- oder Beweislast des Beschuldigten - er kann schweigen (§ 136 I 2 StPO).
+ - Art. 6 II EMRK, RL 2016/343/EU; Art. 20 III GG.
+ - Beweislast vollstaendig bei StA: jeder Tatbestandsmerkmal, jede Schuldfaehigkeit, jede Rechtswidrigkeit (im Zweifel: in dubio pro reo).
+ - **Keine** Darlegungs- oder Beweislast des Beschuldigten - er kann schweigen (§ 136 I 2 StPO).
 - **Substantiierungspflicht der Anklage § 200 StPO:**
-  - Anklageschrift muss Tatvorwurf konkret bezeichnen (Tatzeit, Tatort, Geschehensablauf).
-  - Bei mangelnder Substantiierung Einwendungen § 201 StPO; Ablehnung Eroeffnungsbeschluss.
+ - Anklageschrift muss Tatvorwurf konkret bezeichnen (Tatzeit, Tatort, Geschehensablauf).
+ - Bei mangelnder Substantiierung Einwendungen § 201 StPO; Ablehnung Eroeffnungsbeschluss.
 - **Beweiswuerdigung § 261 StPO** (freie richterliche Ueberzeugung):
-  - Voraussetzung: persoenliche, vorbehaltlose Ueberzeugung des Gerichts.
-  - In dubio pro reo: bei Restzweifeln Freispruch.
-  - Beweiswuerdigungsmaengel sind Revisionsgrund § 337 StPO.
+ - Voraussetzung: persoenliche, vorbehaltlose Ueberzeugung des Gerichts.
+ - In dubio pro reo: bei Restzweifeln Freispruch.
+ - Beweiswuerdigungsmaengel sind Revisionsgrund § 337 StPO.
 - **Widerspruchspruefung Aussagen:**
-  - **Aussagepsychologische Analyse** (Realkennzeichen vs. Phantasie-Indikatoren).
-  - **Konstanz** ueber mehrere Vernehmungen.
-  - **Detailtiefe** (Quantum / Qualitaet konkreter Wahrnehmungselemente).
-  - **Aussageentstehung** (suggestive Befragung, Sekundaer-Erinnerung).
+ - **Aussagepsychologische Analyse** (Realkennzeichen vs. Phantasie-Indikatoren).
+ - **Konstanz** ueber mehrere Vernehmungen.
+ - **Detailtiefe** (Quantum / Qualitaet konkreter Wahrnehmungselemente).
+ - **Aussageentstehung** (suggestive Befragung, Sekundaer-Erinnerung).
 - **Beweisantraege § 244 StPO** zur Widerlegung:
-  - Beweisantragsteller-Pflicht Konkretisierung Beweismittel + Beweisthema.
-  - Ablehnung nur aus engen Gruenden § 244 III StPO.
+ - Beweisantragsteller-Pflicht Konkretisierung Beweismittel + Beweisthema.
+ - Ablehnung nur aus engen Gruenden § 244 III StPO.
 - **Hilfsbeweisantraege:** fuer Eventualfall Verurteilung.
 - **Praxis-Tipp:**
-  - Widerspruchsmatrix mit Aussage 1 | Aussage 2 | objektiv beweise | Widerspruch | Verteidigungsansatz.
-  - Pruefung ob Beweisverwertungsverbote auch ohne Widerspruch zu beruecksichtigen sind (rechtsstaatliche Eingriffsintensitaet; BGH-Linie).
-  - **§ 257 StPO Widerspruch** in Hauptverhandlung gegen Beweisverwertung Belehrungsmaengel-Beweise.
+ - Widerspruchsmatrix mit Aussage 1 | Aussage 2 | objektiv beweise | Widerspruch | Verteidigungsansatz.
+ - Pruefung ob Beweisverwertungsverbote auch ohne Widerspruch zu beruecksichtigen sind (rechtsstaatliche Eingriffsintensitaet; BGH-Linie).
+ - **§ 257 StPO Widerspruch** in Hauptverhandlung gegen Beweisverwertung Belehrungsmaengel-Beweise.
 
 ## 2. `strafakte-quality-gate`
 

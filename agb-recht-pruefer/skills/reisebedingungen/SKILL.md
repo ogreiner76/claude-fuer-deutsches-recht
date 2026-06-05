@@ -1,6 +1,6 @@
 ---
 name: reisebedingungen
-description: "Branchen-Spezialskill für Reisebedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Reisebedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Reisebedingungen

@@ -1,13 +1,13 @@
 ---
 name: tabellenreview-3d-teaser-processdocs
-description: "Nutze dies, wenn Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Tabellenreview 3d Datenraum, Corporate Kanzlei Teaser Im Processdocs: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Tabellenreview 3D Datenraum, Corporate Kanzlei Teaser Im Processdocs** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -224,13 +224,13 @@ Abweichungen: [Beschreibung / Keine]
 RED FLAGS:
 | Nr. | Eintrag | Problem | Risikostufe | Empfehlung |
 |-----|---------|---------|-------------|-----------|
-| 1   | [Vertrag X] | [Kein Enddatum] | Mittel | IRL-Frage |
-| 2   | [Litigation Y] | [Keine Rueckstellung] | Hoch | Klärung Jahresabschluss |
+| 1 | [Vertrag X] | [Kein Enddatum] | Mittel | IRL-Frage |
+| 2 | [Litigation Y] | [Keine Rueckstellung] | Hoch | Klärung Jahresabschluss |
 
 OFFENE IRL-ANFRAGEN (ausgeloest durch Tabellen-Review):
 | Nr. | Anfrage | An Verkaefer seit | Frist |
 |-----|---------|-------------------|-------|
-| 1   | [Anfrage] | [Datum] | [Datum] |
+| 1 | [Anfrage] | [Datum] | [Datum] |
 
 GESAMTBEWERTUNG: [Gut / Akzeptabel mit Einschraenkungen / Erhebliche Luecken]
 ```
@@ -404,37 +404,37 @@ Dieses IM enthält zukunftsgerichtete Aussagen und Prognosen. [Kanzlei/Bank] üb
 empfohlene eigenstaendige Pruefung durch den Leser. Haftungsfreizeichnung gilt nicht bei Arglist.
 
 INHALT
-I.    EXECUTIVE SUMMARY (2-3 Seiten)
-      - Investment Highlights
-      - Transaktionsueberblick
-      - Finanzielle Eckdaten
+I. EXECUTIVE SUMMARY (2-3 Seiten)
+ - Investment Highlights
+ - Transaktionsueberblick
+ - Finanzielle Eckdaten
 
-II.   UNTERNEHMENSPROFIL
-      - Geschichte und Entwicklung
-      - Geschaeftsmodell und Produktportfolio
-      - Markt und Wettbewerb
-      - Strategie und Wachstumspotenzial
+II. UNTERNEHMENSPROFIL
+ - Geschichte und Entwicklung
+ - Geschaeftsmodell und Produktportfolio
+ - Markt und Wettbewerb
+ - Strategie und Wachstumspotenzial
 
-III.  FINANZIELLE INFORMATIONEN
-      - GuV und EBITDA-Entwicklung (letzte 3 Jahre)
-      - Bilanzkennzahlen
-      - Working Capital und Net Debt
-      - Forecast laufendes Jahr und Planungshorizont
+III. FINANZIELLE INFORMATIONEN
+ - GuV und EBITDA-Entwicklung (letzte 3 Jahre)
+ - Bilanzkennzahlen
+ - Working Capital und Net Debt
+ - Forecast laufendes Jahr und Planungshorizont
 
-IV.   MANAGEMENT
-      - Fuehrungsteam und Biographien
-      - Organisationsstruktur
-      - Key Person Risiken
+IV. MANAGEMENT
+ - Fuehrungsteam und Biographien
+ - Organisationsstruktur
+ - Key Person Risiken
 
-V.    RECHTLICHE UND REGULATORISCHE INFORMATIONEN
-      - Unternehmensstruktur (Vereinfacht; kein vollstaendiges Organigramm vor Phase II)
-      - Wesentliche Vertraege und Kunden (anonymisiert)
-      - Laufende Verfahren (wenn wesentlich offenbarungspflichtig)
+V. RECHTLICHE UND REGULATORISCHE INFORMATIONEN
+ - Unternehmensstruktur (Vereinfacht; kein vollstaendiges Organigramm vor Phase II)
+ - Wesentliche Vertraege und Kunden (anonymisiert)
+ - Laufende Verfahren (wenn wesentlich offenbarungspflichtig)
 
-VI.   TRANSAKTIONSSTRUKTUR UND PROZESS
-      - Transaktionsgegenstand
-      - Angestrebte Kaufpreisstruktur
-      - Zeitplan und Prozess
+VI. TRANSAKTIONSSTRUKTUR UND PROZESS
+ - Transaktionsgegenstand
+ - Angestrebte Kaufpreisstruktur
+ - Zeitplan und Prozess
 
 ANLAGEN (Phase II)
 ```

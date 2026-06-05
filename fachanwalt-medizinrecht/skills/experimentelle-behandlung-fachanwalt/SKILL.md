@@ -1,13 +1,13 @@
 ---
 name: experimentelle-behandlung-fachanwalt
-description: "Nutze dies, wenn Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630A, Fachanwalt Medizinrecht Honorarvertrag Kv, Spezial Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630A, Fachanwalt Medizinrecht Honorarvertrag Kv, Spezial Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630A, Fachanwalt Medizinrecht Honorarvertrag Kv, Spezial Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630a, Fachanwalt Medizinrecht Honorarvertrag Kv, Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630A, Fachanwalt Medizinrecht Honorarvertrag Kv, Spezial Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine
+# Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630A, Fachanwalt Medizinrecht Honorarvertrag Kv, Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 
 ## Arbeitsweg
 
-Für **Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630A, Fachanwalt Medizinrecht Honorarvertrag Kv, Spezial Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630A, Fachanwalt Medizinrecht Honorarvertrag Kv, Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-medizinrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -175,7 +175,7 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 - Strafrechtliche Pflicht
 - Ausnahmen: Einwilligung, gesetzliche Pflicht (Infektionsschutz)
 
-## 5) Workflow Behandlungsfehler-Mandat
+## 5) Behandlungsfehler-Mandat
 
 ### Schritt 1 — Sachverhaltsaufnahme
 
@@ -286,7 +286,7 @@ zum Mandat fest:
 Sachverhalt: [Behandlung Datum Einrichtung Fehler]
 Naechste Schritte:
 1. Anforderung der vollstaendigen Patientenakte bei [EINRICHTUNG] § 630g BGB
-   Frist: 14 Tage — wir schreiben heute noch.
+ Frist: 14 Tage — wir schreiben heute noch.
 2. Schlichtungsantrag bei der [AERZTEKAMMER] — kostenlos; hemmt Verjaehrung.
 3. Verjaehrungsfrist beachten: Aktuell laeuft sie bis [DATUM].
 Kosten: [STREITWERT] — Ihre Rechtsschutzversicherung pruefe ich.
@@ -364,7 +364,7 @@ Mandate für Vertragsärzte bei Honorar-Streitigkeiten mit Kassenärztlicher Ver
 - Vergleich Eigen-Berechnung
 - Beweis-Anbringen
 
-## 4) Workflow Widerspruch
+## 4) Widerspruch
 
 ### Schritt 1 — Bescheid-Prüfung
 
@@ -517,7 +517,7 @@ Praxisbesonderheiten das Regelleistungsvolumen ueberschritten:
 
 II. Rechtsfehler
 1. Die Berechnung des RLV nach § 87b SGB V weicht von der
-   Fachgruppenentwicklung ab; unsere Gegenberechnung ergibt EUR [Differenz].
+ Fachgruppenentwicklung ab; unsere Gegenberechnung ergibt EUR [Differenz].
 2. Praxisbesonderheiten wurden nicht beruecksichtigt (Belege Anlagen K1-K3).
 
 III. Antrag

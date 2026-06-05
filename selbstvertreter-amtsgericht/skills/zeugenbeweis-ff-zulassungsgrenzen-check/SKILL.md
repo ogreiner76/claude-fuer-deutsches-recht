@@ -1,13 +1,13 @@
 ---
 name: zeugenbeweis-ff-zulassungsgrenzen-check
-description: "Nutze dies, wenn Zeugenbeweis 373 Ff Zpo, Zulassungsgrenzen Check Amtsgericht, Zurechnungsproblem Versand Durch Dritte im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Zeugenbeweis 373 Ff Zpo, Zulassungsgrenzen Check Amtsgericht, Zurechnungsproblem Versand Durch Dritte prüfen.; Erstelle eine Arbeitsfassung zu Zeugenbeweis 373 Ff Zpo, Zulassungsgrenzen Check Amtsgericht, Zurechnungsproblem Versand Durch Dritte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zeugenbeweis 373 Ff Zpo, Zulassungsgrenzen Check Amtsgericht, Zurechnungsproblem Versand Durch Dritte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zeugenbeweis 373 Ff Zpo, Zulassungsgrenzen Check Amtsgericht, Zurechnungsproblem Versand Durch Dritte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zeugenbeweis 373 Ff Zpo, Zulassungsgrenzen Check Amtsgericht, Zurechnungsproblem Versand Durch Dritte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -80,12 +80,12 @@ Im Beweisantrag konkret:
 
 ```
 Beweis: Zeugnis des Herrn Hans Mustermann,
-        Musterstrasse 1, 12345 Musterstadt,
-        zum Beweis dafuer, dass der Beklagte
-        am 12.3.2025 zwischen 10 und 11 Uhr
-        die Lieferung an der Adresse des
-        Klaegers entgegen genommen und
-        persoenlich quittiert hat.
+ Musterstrasse 1, 12345 Musterstadt,
+ zum Beweis dafuer, dass der Beklagte
+ am 12.3.2025 zwischen 10 und 11 Uhr
+ die Lieferung an der Adresse des
+ Klaegers entgegen genommen und
+ persoenlich quittiert hat.
 ```
 
 Ein vages Beweisthema "zum Sachverhalt" ist unzulaessig (Ausforschungs-Beweis-Verbot).
@@ -250,11 +250,11 @@ Nach Urteil:
 **Grenzen-Check**
 | Frage | Ergebnis | Ampel |
 |---|---|---|
-| Streitwert |  |  |
-| Amtsgericht zuständig? |  |  |
-| Selbstvertretung möglich? |  |  |
-| Vereinfachtes Verfahren möglich? |  |  |
-| Berufung später realistisch? |  |  |
+| Streitwert | | |
+| Amtsgericht zuständig? | | |
+| Selbstvertretung möglich? | | |
+| Vereinfachtes Verfahren möglich? | | |
+| Berufung später realistisch? | | |
 
 **Konsequenz**
 [Klare Handlungsempfehlung: AG, LG/Anwalt, Rechtsantragsstelle, PKH, Streitwert nacharbeiten.]
@@ -311,10 +311,10 @@ Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben da
 - **BGH-Linie zur Wiedereinsetzung bei Bote/Drittversand** — Aktuelles Aktenzeichen mit konkretem Sachverhalt in amtliche/freie Quellen oder lizenzierte Datenbanken recherchieren, bevor Sie sich darauf berufen.
 
 <!-- AUDIT 27.05.2026 | welle 4 | selbstvertreter-amtsgericht
-     Geprueft und korrigiert:
-     - BVerfG 1 BvR 2310/14: NOT_FOUND auf dejure.org -> konkretes AZ entfernt, allgemeine Linie erhalten
-     - BGH VI ZR 67/15: WRONG_TOPIC (echtes Thema Arzthaftung/Behandlungsfehler, NJW 2016, 713;
-       der Skill behauptete NJW 2016, 1305 und Bote/Drittversand) -> AZ und Fundstelle entfernt -->
+ Geprueft und korrigiert:
+ - BVerfG 1 BvR 2310/14: NOT_FOUND auf dejure.org -> konkretes AZ entfernt, allgemeine Linie erhalten
+ - BGH VI ZR 67/15: WRONG_TOPIC (echtes Thema Arzthaftung/Behandlungsfehler, NJW 2016, 713;
+ der Skill behauptete NJW 2016, 1305 und Bote/Drittversand) -> AZ und Fundstelle entfernt -->
 
 ## Schritt-fuer-Schritt-Anleitung
 

@@ -1,13 +1,13 @@
 ---
 name: schiedsstellen-krankenkassen-schweigepflicht
-description: "Nutze dies, wenn Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz prüfen.; Erstelle eine Arbeitsfassung zu Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schiedsstellen Krankenkassen Apotheke, Schweigepflicht Berufsrecht Pta Approbation, Securpharm Faelschungsschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -156,18 +156,18 @@ Eingaben:
 - **§ 95 AMG:** Strafbarkeit Inverkehrbringen gefälschter Arzneimittel.
 - BfArM-Bekanntmachungen zu konkreten Fälschungsfunden.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Wareneingang:** Tamper-Evident-Verschluss Sichtkontrolle. Verdächtige Packungen sofort isolieren.
 2. **Vor Abgabe:** 2D-Code scannen. NMVS-System gibt eine von drei Antworten:
-   - **OK / Aktiv:** Packung verifiziert; mit Abgabe wird der Code deaktiviert.
-   - **Alarm:** Code bereits deaktiviert (Doppelausgabe), unbekannt, oder anderweitig verdächtig. Packung darf nicht abgegeben werden, bis Alarm geklärt ist.
-   - **Fehler:** Technischer Fehler — manueller Workflow nach Securpharm-SOP.
+ - **OK / Aktiv:** Packung verifiziert; mit Abgabe wird der Code deaktiviert.
+ - **Alarm:** Code bereits deaktiviert (Doppelausgabe), unbekannt, oder anderweitig verdächtig. Packung darf nicht abgegeben werden, bis Alarm geklärt ist.
+ - **Fehler:** Technischer Fehler — manueller nach Securpharm-SOP.
 3. **Bei Alarm:** Packung mit Quarantäne-Etikett versehen, Lieferanten/Grosshandel kontaktieren, Aufsicht informieren falls Fälschungsverdacht.
 4. **Beim Retournieren:** Zurückgesendete Ware vor erneuter Verifikation reaktivieren (sofern innerhalb des Zeitfensters möglich, regelmässig 10 Tage).
 5. **Lagerumlagerung:** Innerhalb der Apotheke kein erneutes Scannen erforderlich, nur bei Eingang und Ausgang.
 6. **BtM-Packungen** und einige andere haben spezielle Anforderungen (gesonderte Securpharm-Logik bzw. Ausnahme).
-7. **Schulung Personal:** alle Apothekenmitarbeiter müssen Alarmworkflow kennen.
+7. **Schulung Personal:** alle Apothekenmitarbeiter müssen Alarmkennen.
 
 ## Trade-off-Matrix
 
@@ -198,7 +198,7 @@ Eingaben:
 
 ## Typische Fehler
 
-- Code wird erst bei Abgabe gescannt; bei Alarm sind Patient und Apotheker schon im Übergabe-Workflow — Stress, fehlerhafte Reaktion.
+- Code wird erst bei Abgabe gescannt; bei Alarm sind Patient und Apotheker schon im Übergabe-— Stress, fehlerhafte Reaktion.
 - Tamper-Verschluss wird nicht geprüft; gefälschte Inhalte in Originalpackung übersehen.
 - Bei Alarm wird "trotzdem abgegeben" — strafrechtliches Risiko (§ 95 AMG).
 - Retoure ohne Re-Aktivierung — Packung im Lager gesperrt, Verlust für Apotheke.

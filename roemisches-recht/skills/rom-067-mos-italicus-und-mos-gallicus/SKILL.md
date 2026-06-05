@@ -1,6 +1,6 @@
 ---
 name: rom-067-mos-italicus-und-mos-gallicus
-description: "Römisches Recht: Mos Italicus Und Mos Gallicus. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Mos Italicus Und Mos Gallicus. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Mos Italicus Und Mos Gallicus

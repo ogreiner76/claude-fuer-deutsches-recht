@@ -1,13 +1,13 @@
 ---
 name: oeffentliche-auftraggeber
-description: "Nutze dies, wenn Oeffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht, Organisationspflichten Marisk Bait Dora Schnittstellen, Pricing Gebühren Zins Marge Transparenz im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Oeffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht, Organisationspflichten Marisk Bait Dora Schnittstellen, Pricing Gebühren Zins Marge Transparenz prüfen.; Erstelle eine Arbeitsfassung zu Oeffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht, Organisationspflichten Marisk Bait Dora Schnittstellen, Pricing Gebühren Zins Marge Transparenz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oeffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht, Organisationspflichten Marisk Bait Dora Schnittstellen, Pricing Gebuehren Zins Marge Transparenz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oeffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht, Organisationspflichten Marisk Bait Dora Schnittstellen, Pricing Gebühren Zins Marge Transparenz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oeffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht, Organisationspflichten Marisk Bait Dora Schnittstellen, Pricing Gebühren Zins Marge Transparenz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `oeffentliche-auftraggeber-abtretung-zustimmung-haushaltsrecht` | Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `organisationspflichten-marisk-bait-dora-schnittstellen` | Organisationspflichten MaRisk BAIT DORA Schnittstellen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
-| `pricing-gebuehren-zins-marge-transparenz` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz. |
+| `pricing-gebuehren-zins-marge-transparenz` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz. |
 
 ## Arbeitsweg
 
@@ -116,7 +116,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `pricing-gebuehren-zins-marge-transparenz`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Pricing Gebühren Zins Marge Transparenz.
 
 # Pricing Gebühren Zins Marge Transparenz
 

@@ -1,22 +1,22 @@
 ---
 name: europaeische-gruppe-exkulpationsakte
-description: "Nutze dies, wenn Europaeische Gruppe, Exkulpationsakte, Finanzierung Und Covenant Waiver, Fit And Proper Bank im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Europaeische Gruppe, Exkulpationsakte, Finanzierung Und Covenant Waiver, Fit And Proper Bank prüfen.; Erstelle eine Arbeitsfassung zu Europaeische Gruppe, Exkulpationsakte, Finanzierung Und Covenant Waiver, Fit And Proper Bank.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Europaeische Gruppe, Exkulpationsakte, Finanzierung Und Covenant Waiver, Fit And Proper Bank: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Europaeische Gruppe, Exkulpationsakte, Finanzierung Und Covenant Waiver, Fit And Proper Bank
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Europaeische Gruppe, Exkulpationsakte, Finanzierung Und Covenant Waiver, Fit And Proper Bank** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `europaeische-gruppe` | AG/SE-Aufsichtsrat Praxis: Europaeische Gruppe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `exkulpationsakte` | AG/SE-Aufsichtsrat Praxis: Exkulpationsakte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `finanzierung-und-covenant-waiver` | AG/SE-Aufsichtsrat Praxis: Finanzierung Und Covenant Waiver; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `fit-and-proper-bank` | AG/SE-Aufsichtsrat Praxis: Fit And Proper Bank; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `europaeische-gruppe` | AG/SE-Aufsichtsrat Praxis: Europaeische Gruppe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `exkulpationsakte` | AG/SE-Aufsichtsrat Praxis: Exkulpationsakte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `finanzierung-und-covenant-waiver` | AG/SE-Aufsichtsrat Praxis: Finanzierung Und Covenant Waiver; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `fit-and-proper-bank` | AG/SE-Aufsichtsrat Praxis: Fit And Proper Bank; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Europaeische Gruppe, Exkulpationsakte, Finanzierung Und Covenant Waiver, 
 
 ## 1. `europaeische-gruppe`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Europaeische Gruppe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Europaeische Gruppe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Europaeische Gruppe
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `exkulpationsakte`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Exkulpationsakte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Exkulpationsakte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Exkulpationsakte
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `finanzierung-und-covenant-waiver`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Finanzierung Und Covenant Waiver; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Finanzierung Und Covenant Waiver; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Finanzierung Und Covenant Waiver
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `fit-and-proper-bank`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Fit And Proper Bank; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Fit And Proper Bank; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Fit And Proper Bank
 

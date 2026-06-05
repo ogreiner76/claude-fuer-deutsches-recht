@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Luftrecht und Flughafenrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Spezialskill-Routing und erste Ausgabe."
+description: "Luftrecht und Flughafenrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
 ---
 
 # Luftrecht und Flughafenrecht - Allgemeiner Einstieg
 
 ## Aufgabe
 
-Führt in Luftrecht und Flughafenrecht ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Spezialskills dieses Plugins vor.
+Führt in Luftrecht und Flughafenrecht ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.
 
 ## Startfragen
 

@@ -87,25 +87,25 @@ Version: [Nr.]
 Bearbeiter: [NAMEN]
 
 1. EXECUTIVE SUMMARY
-   Gesamtrisikoeinschaetzung: [Hoch / Mittel / Niedrig]
-   Deal-Breaker identifiziert: [Ja/Nein — wenn Ja: Beschreibung]
-   Empfehlung: [Weiterverhandeln / Kaufpreisanpassung erforderlich / Abbruch pruefen]
+ Gesamtrisikoeinschaetzung: [Hoch / Mittel / Niedrig]
+ Deal-Breaker identifiziert: [Ja/Nein — wenn Ja: Beschreibung]
+ Empfehlung: [Weiterverhandeln / Kaufpreisanpassung erforderlich / Abbruch pruefen]
 
 2. RED FLAGS (nach Schweregrad)
-   | Nr. | Workstream | Befund | Schweregrad | Vertragsmechanismus |
-   |-----|-----------|--------|-------------|---------------------|
-   | 1   | [Workstream] | [Befund] | [Red Flag] | [Indemnity / KP-Abschlag] |
+ | Nr. | Workstream | Befund | Schweregrad | Vertragsmechanismus |
+ |-----|-----------|--------|-------------|---------------------|
+ | 1 | [Workstream] | [Befund] | [Red Flag] | [Indemnity / KP-Abschlag] |
 
 3. HIGH-RISK-FINDINGS
-   [Strukturierter Ueberblick]
+ [Strukturierter Ueberblick]
 
 4. OFFENE PUNKTE / Q&A-AUSSTEHEND
-   | Nr. | Frage | An Verkaefer seit | Frist |
-   |-----|-------|-------------------|-------|
-   | 1   | [Frage] | [Datum] | [Datum] |
+ | Nr. | Frage | An Verkaefer seit | Frist |
+ |-----|-------|-------------------|-------|
+ | 1 | [Frage] | [Datum] | [Datum] |
 
 5. EMPFEHLUNGEN SPA-ADJUSTMENTS
-   [Konkrete Klausel-Anpassungen, Indemnity-Empfehlungen]
+ [Konkrete Klausel-Anpassungen, Indemnity-Empfehlungen]
 ```
 
 ## Output-Template DD-Report Struktur
@@ -116,17 +116,17 @@ Transaktion: [DEAL-NAME]
 Zielgesellschaft: [NAME]
 Datum: [DATUM]
 
-I.   EXECUTIVE SUMMARY
-II.  SCOPE AND METHODOLOGY
+I. EXECUTIVE SUMMARY
+II. SCOPE AND METHODOLOGY
 III. CORPORATE / ANTEILSSTRUKTUR
-IV.  WESENTLICHE VERTRAEGE
-V.   HR UND ARBEITSRECHT
-VI.  IP UND IT
+IV. WESENTLICHE VERTRAEGE
+V. HR UND ARBEITSRECHT
+VI. IP UND IT
 VII. LITIGATION UND BESCHWERDEN
 VIII.COMPLIANCE UND REGULIERUNG
-IX.  IMMOBILIEN UND UMWELT
-X.   STEUERN (Ueberblick; Details im Tax DD Report)
-XI.  RISIKOMATRIX (konsolidiert)
+IX. IMMOBILIEN UND UMWELT
+X. STEUERN (Ueberblick; Details im Tax DD Report)
+XI. RISIKOMATRIX (konsolidiert)
 XII. SPA-EMPFEHLUNGEN
 ANLAGEN: Dokumentenindex, Q&A-Log, Organigramm
 ```

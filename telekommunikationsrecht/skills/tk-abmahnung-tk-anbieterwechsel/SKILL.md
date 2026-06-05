@@ -1,13 +1,13 @@
 ---
 name: tk-abmahnung-tk-anbieterwechsel
-description: "Nutze dies, wenn Tk Abmahnung Uwg Tkg, Tk Anbieterwechsel Rufnummernmitnahme im Plugin Telekommunikationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Tk Abmahnung Uwg Tkg, Tk Anbieterwechsel Rufnummernmitnahme prüfen.; Erstelle eine Arbeitsfassung zu Tk Abmahnung Uwg Tkg, Tk Anbieterwechsel Rufnummernmitnahme.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tk Abmahnung Uwg Tkg, Tk Anbieterwechsel Rufnummernmitnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tk Abmahnung Uwg Tkg, Tk Anbieterwechsel Rufnummernmitnahme
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tk Abmahnung Uwg Tkg, Tk Anbieterwechsel Rufnummernmitnahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

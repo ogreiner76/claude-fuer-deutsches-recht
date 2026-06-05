@@ -1,13 +1,13 @@
 ---
 name: zivilrecht-anspruchsgrundlagen
-description: "Nutze dies, wenn Zivilrecht Anspruchsgrundlagen Prüfung im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Bitte Zivilrecht Anspruchsgrundlagen Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Zivilrecht Anspruchsgrundlagen Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zivilrecht Anspruchsgrundlagen Prüfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zivilrecht Anspruchsgrundlagen Prüfung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zivilrecht Anspruchsgrundlagen Prüfung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -76,18 +76,18 @@ Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durc
 #### Schema
 
 1. Wirksamer Kaufvertrag
-   - Angebot
-   - Annahme
-   - Wirksamkeit (Geschäftsfähigkeit, AGB, Sittenwidrigkeit, Form)
+ - Angebot
+ - Annahme
+ - Wirksamkeit (Geschäftsfähigkeit, AGB, Sittenwidrigkeit, Form)
 2. Anspruch nicht erloschen
-   - Erfüllung § 362 BGB
-   - Aufrechnung § 387 BGB
-   - Erlass § 397 BGB
-   - Rücktritt § 346 BGB
+ - Erfüllung § 362 BGB
+ - Aufrechnung § 387 BGB
+ - Erlass § 397 BGB
+ - Rücktritt § 346 BGB
 3. Anspruch durchsetzbar
-   - Verjährung §§ 195 und 199 und 214 BGB
-   - § 320 BGB (Synallagma)
-   - § 273 BGB (Zurückbehaltung)
+ - Verjährung §§ 195 und 199 und 214 BGB
+ - § 320 BGB (Synallagma)
+ - § 273 BGB (Zurückbehaltung)
 
 ### § 280 I BGB — Schadensersatz wegen Pflichtverletzung
 

@@ -42,12 +42,12 @@ Beispiel: Sie wollen beweisen, dass am Telefon ein Vertrag geschlossen wurde. Ke
 
 ```
 Beweis: Vernehmung des Klaegers als Partei
-        gemaess § 448 ZPO,
-        zum Beweis dafuer, dass am 5.3.2025
-        in einem Telefongespraech um 10:30 Uhr
-        zwischen dem Klaeger und dem Beklagten
-        ein Kaufvertrag ueber [Sache] zum
-        Preis von 1.500 EUR geschlossen wurde.
+ gemaess § 448 ZPO,
+ zum Beweis dafuer, dass am 5.3.2025
+ in einem Telefongespraech um 10:30 Uhr
+ zwischen dem Klaeger und dem Beklagten
+ ein Kaufvertrag ueber [Sache] zum
+ Preis von 1.500 EUR geschlossen wurde.
 ```
 
 § 448 ZPO erlaubt Vernehmung **von Amts wegen**, wenn das Gericht meint, sie sei sachdienlich. Antrag der Partei ist nur Anregung.

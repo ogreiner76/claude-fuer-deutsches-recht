@@ -1,13 +1,13 @@
 ---
 name: nebenberuflicher-handelsvertreter
-description: "Nutze dies, wenn Nebenberuflicher Handelsvertreter, Scheinselbststaendigkeit, Spesen Kosten, Steuer Umsatzsteuer im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Nebenberuflicher Handelsvertreter, Scheinselbststaendigkeit, Spesen Kosten, Steuer Umsatzsteuer prüfen.; Erstelle eine Arbeitsfassung zu Nebenberuflicher Handelsvertreter, Scheinselbststaendigkeit, Spesen Kosten, Steuer Umsatzsteuer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nebenberuflicher Handelsvertreter, Scheinselbststaendigkeit, Spesen Kosten, Steuer Umsatzsteuer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nebenberuflicher Handelsvertreter, Scheinselbststaendigkeit, Spesen Kosten, Steuer Umsatzsteuer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nebenberuflicher Handelsvertreter, Scheinselbststaendigkeit, Spesen Kosten, Steuer Umsatzsteuer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

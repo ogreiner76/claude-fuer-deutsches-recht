@@ -1,13 +1,13 @@
 ---
 name: dpma-interessen-einstweilige-euipo
-description: "Nutze dies, wenn Spezial Dpma Mehrparteien Konflikt Und Interessen, Spezial Einstweilige Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Internationaler Bezug Und Schnittstellen im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Dpma Mehrparteien Konflikt Und Interessen, Spezial Einstweilige Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Dpma Mehrparteien Konflikt Und Interessen, Spezial Einstweilige Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dpma Mehrparteien Konflikt Und Interessen, Einstweilige Mandantenkommunikation Entscheidungsvorlage, Euipo Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Dpma Mehrparteien Konflikt Und Interessen, Spezial Einstweilige Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Internationaler Bezug Und Schnittstellen
+# Dpma Mehrparteien Konflikt Und Interessen, Einstweilige Mandantenkommunikation Entscheidungsvorlage, Euipo Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dpma Mehrparteien Konflikt Und Interessen, Einstweilige Mandantenkommunikation Entscheidungsvorlage, Euipo Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Dpma Mehrparteien Konflikt Und Interessen, Spezial Einstweilige Mandantenkommunikation Entscheidungsvorlage, Spezial Euipo Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dpma Mehrparteien Konflikt Und Interessen, Einstweilige Mandantenkommunikation Entscheidungsvorlage, Euipo Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -53,19 +53,19 @@ Dieser Skill behandelt DPMA-Verfahren mit mehreren Beteiligten: Widerspruchsverf
 
 ```
 Markeneintragung wird im Markenblatt bekannt gemacht
-       ↓
+ ↓
 Widerspruchsfrist: 3 Monate ab Bekanntmachung (§ 42 Abs. 1 MarkenG)
-       ↓
+ ↓
 Widerspruch einlegen (§ 41 MarkenG):
-  - Schriftlich beim DPMA; Gebühr 250 €
-  - Älteres Recht bezeichnen (Marke, Unternehmenskennzeichen, etc.)
-       ↓
+ - Schriftlich beim DPMA; Gebühr 250 €
+ - Älteres Recht bezeichnen (Marke, Unternehmenskennzeichen, etc.)
+ ↓
 DPMA gibt Widerspruch dem Markeninhaber bekannt
-       ↓
+ ↓
 Nichtbenutzungseinrede möglich (§ 43 Abs. 1 MarkenG) nach Fristablauf
-       ↓
+ ↓
 Verhandlung / Entscheidung durch DPMA
-       ↓
+ ↓
 Beschwerde beim BPatG (§ 66 MarkenG) → Rechtsbeschwerde BGH
 ```
 
@@ -128,7 +128,7 @@ Beschwerde beim BPatG (§ 66 MarkenG) → Rechtsbeschwerde BGH
 | Abgrenzungsvereinbarung geprüft (Möglichkeit, Risiken) | ☐ |
 | Beschwerdestrategie bei DPMA-Niederlage vorbereitet | ☐ |
 
-## Kaltstart
+## Einstieg
 1. Welches Verfahren ist konkret anstehend (Widerspruch, Löschung, Nichtigkeit)?
 2. Welche älteren Rechte stehen zur Verfügung?
 3. Gibt es mehrere Widersprecher oder kollidierenden Interessen?
@@ -193,9 +193,9 @@ Dieser Skill unterstützt die Mandantenkommunikation in Eilsituationen: struktur
 
 **4. Kostenaufklärung (§ 49b BRAO)**
 - Konkrete Kostenschätzung:
-  - Anwaltsgebühren (Streitwert × Gebührenfaktor).
-  - Gerichtsgebühren GKG.
-  - Ggf. Sicherheitsleistung.
+ - Anwaltsgebühren (Streitwert × Gebührenfaktor).
+ - Gerichtsgebühren GKG.
+ - Ggf. Sicherheitsleistung.
 - Kostenrisiko bei Unterliegen (gegnerische Anwaltskosten).
 
 **5. Freigabe / Zustimmung Mandant**
@@ -205,9 +205,9 @@ Dieser Skill unterstützt die Mandantenkommunikation in Eilsituationen: struktur
 ## Muster-Mandantenbrief: EV-Antrag (kurz)
 
 ```
-[Briefkopf Kanzlei]                             [Ort, Datum]
+[Briefkopf Kanzlei] [Ort, Datum]
 
-An [Mandant Name]                          - vertraulich -
+An [Mandant Name] - vertraulich -
 
 Beratungsschreiben: Einstweilige Verfügung [Ihr Sachverhalt]
 
@@ -268,7 +268,7 @@ Wir empfehlen [Option] weil [Begründung].
 | Kostenaufklärung | Aktennotiz mit Datum, Betrag, Mandantenkenntnis |
 | Entscheidung gegen EV | Aktennotiz mit Mandantenwunsch |
 
-## Kaltstart
+## Einstieg
 1. Ist der Mandant Angreifer (EV beantragen) oder Verteidiger (auf EV reagieren)?
 2. Wie viel Zeit bleibt bis zum Fristablauf?
 3. Soll eine Entscheidungsvorlage oder ein Mandantenbrief erstellt werden?
@@ -317,17 +317,17 @@ Dieser Skill behandelt EUIPO-Verfahren mit internationalem Bezug: Unionsmarken, 
 
 ```
 Online-Einreichung bei EUIPO (euipo.europa.eu)
-       ↓
+ ↓
 Formelle Prüfung (Klassen, Abbildung, Beschreibung)
-       ↓
+ ↓
 Absolute Schutzhindernisse prüfen (Art. 7 UMV)
-       ↓
+ ↓
 Bekanntmachung im EUIPO-Amtsblatt
-       ↓
+ ↓
 Widerspruchsfrist: 3 Monate ab Bekanntmachung
-       ↓
+ ↓
 Eintragung oder Widerspruchsverfahren
-       ↓
+ ↓
 Gültig in allen 27 EU-Mitgliedstaaten
 ```
 
@@ -392,7 +392,7 @@ Gültig in allen 27 EU-Mitgliedstaaten
 
 *Alle Entscheidungen live prüfen: [curia.europa.eu](https://curia.europa.eu)*
 
-## Kaltstart
+## Einstieg
 1. Welches Schutzrecht ist betroffen (Unionsmarke / GGM / IR-Marke)?
 2. In welchem Verfahrensstadium steht die Sache (Anmeldung / Widerspruch / Nichtigkeit / Beschwerde)?
 3. Gibt es eine internationale Komponente (IR-Marke, Hague System)?

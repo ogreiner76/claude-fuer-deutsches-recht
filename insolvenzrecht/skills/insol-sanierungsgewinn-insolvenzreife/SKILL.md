@@ -1,13 +1,13 @@
 ---
 name: insol-sanierungsgewinn-insolvenzreife
-description: "Nutze dies, wenn Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Spezial Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Spezial Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan prüfen.; Erstelle eine Arbeitsfassung zu Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Spezial Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3a Estg Im Insolvenzplan, Insol Sanierungsgewinn 3a Estg Im Starug Plan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Spezial Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan
+# Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Spezial Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3A Estg Im Insolvenzplan, Insol Sanierungsgewinn 3A Estg Im Starug Plan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -74,7 +74,7 @@ Kaltstart-Fragen:
 - Paragraph 60 InsO — Haftung IV.
 - Paragraph 55 InsO — Masseverbindlichkeiten.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Bestandsaufnahme** aller im Plan adressierten Verbindlichkeiten.
 2. **Buchungssystematik festlegen** je Verzichtsart (siehe `insol-sanierungsgewinn-verzicht-bilanz-im-plan`).
@@ -115,12 +115,12 @@ Mandant: [Schuldnerin]
 Buchungstext: Sanierungsertrag aus Forderungsverzicht laut bestaetigtem
 Plan Aktenzeichen [...]
 
-Soll: Verbindlichkeiten 1700 ff. (Aufstellung Anlage 1)       EUR x
-Haben: Ausserordentlicher Ertrag 5750 (Sanierungsertrag)      EUR x
+Soll: Verbindlichkeiten 1700 ff. (Aufstellung Anlage 1) EUR x
+Haben: Ausserordentlicher Ertrag 5750 (Sanierungsertrag) EUR x
 
 Davon Gesellschafter-Verzicht werthaltig (Einlage):
-Soll: Verbindlichkeiten Gesellschafter                        EUR y
-Haben: Kapitalruecklage 2110                                  EUR y
+Soll: Verbindlichkeiten Gesellschafter EUR y
+Haben: Kapitalruecklage 2110 EUR y
 
 Beleg Anlagen: Bestaetigungsbeschluss, Plan, Werthaltigkeits-
 gutachten WP [Name].
@@ -139,19 +139,19 @@ rechtskraeftig. Das Plan-Volumen Forderungsverzicht: EUR [Betrag].
 
 2. Bilanz-Erfassung
 2.1 Drittglaeubiger-Verzicht endgueltig:
-    EUR x als ausserordentlicher Ertrag (Sanierungsertrag).
+ EUR x als ausserordentlicher Ertrag (Sanierungsertrag).
 2.2 Gesellschafter-Verzicht werthaltig:
-    EUR y als Kapitalruecklage.
+ EUR y als Kapitalruecklage.
 2.3 Gesellschafter-Verzicht nicht werthaltig:
-    EUR z als ausserordentlicher Ertrag (Sanierungsertrag).
+ EUR z als ausserordentlicher Ertrag (Sanierungsertrag).
 2.4 Stille Reserven Aktiva:
-    Tabelle in Anlage S1; keine Aufdeckung (Buchwertfortfuehrung).
+ Tabelle in Anlage S1; keine Aufdeckung (Buchwertfortfuehrung).
 
 3. Steuerliche Behandlung
 3.1 Paragraph 3a EStG-Antrag laeuft, Restsanierungsertrag EUR [...].
 3.2 Paragraph 7b GewStG-Antrag laeuft, Restbetrag EUR [...].
 3.3 Latente Steuern: Aufloesung aktiver latenter Steuern EUR [...] als
-    Steueraufwand.
+ Steueraufwand.
 
 4. Massehaftungsbefreiung
 Buchung erfolgt auf Basis Plan, WP-Gutachten und StB-Pruefung. Aktenstand:
@@ -209,11 +209,11 @@ In anderen Plugins:
 
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `insolvenzrecht`. Kontext des Plugins: Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `insolvenzrecht`. Kontext des Plugins: Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -286,7 +286,7 @@ Kaltstart-Fragen:
 - Paragraph 251 AO — Steuern im Insolvenzverfahren.
 - BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich ueber die Liquidation hinaus bestehen; blosse Vermoegenslosigkeit begruendet keine Ausbuchung — zur Abgrenzung Sanierungsertrag vs. Ausbuchung mangels Schuldner.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Forderungsverzicht erfassen.** Welche Forderungen entfallen im Plan in welcher Hoehe? Trennung Drittglaeubiger vs. Gesellschafter (Gesellschafter-Verzicht kann verdeckte Einlage sein).
 2. **Werthaltigkeit der Forderungen pruefen.** Nur werthaltige Forderungen erzeugen einen vollwertigen Sanierungsertrag; nicht werthaltige Forderungen erhoehen den Sanierungsertrag rechnerisch, fuehren aber zugleich zu einer abweichenden bilanziellen Behandlung.
@@ -456,7 +456,7 @@ In anderen Plugins:
 
 ### Plan-B-Pfad Liquidation
 
-- Siehe Spezial-Skill `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` (Drei-Phasen-Analyse) im Plugin `steuerrecht-anwalt-und-berater`.
+- Siehe Fachmodul `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` (Drei-Phasen-Analyse) im Plugin `steuerrecht-anwalt-und-berater`.
 
 Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
 
@@ -505,7 +505,7 @@ Kaltstart-Fragen:
 - Paragraph 7b GewStG — Gewerbesteuer-Parallel.
 - Paragraph 89 AO — verbindliche Auskunft.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **StaRUG-Variante einordnen.** Die Steuerwirkung haengt nicht von der Variante ab, aber die Dokumentation der Sanierungsabsicht ist unterschiedlich schwer.
 2. **Planbetroffene erfassen.** Nur die im StaRUG-Plan benannten Glaeubiger sind betroffen; andere bleiben unverzichtbar.
@@ -606,9 +606,9 @@ resultierenden Sanierungsertrag die Anwendung von Paragraph 3a EStG.
 3. Konkrete Rechtsfrage
 Wir bitten um verbindliche Auskunft, ob die Finanzbehoerde
 a) die Voraussetzungen Paragraph 3a Absatz 2 EStG bei dem im Entwurf
-   beigefuegten StaRUG-Plan als erfuellt ansieht und
+ beigefuegten StaRUG-Plan als erfuellt ansieht und
 b) die Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG gemaess der
-   beigefuegten Tabelle anerkennt.
+ beigefuegten Tabelle anerkennt.
 
 4. Eigene Rechtsauffassung
 [...]

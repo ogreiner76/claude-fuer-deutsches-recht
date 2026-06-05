@@ -54,7 +54,7 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 - Wohnsitzstaat-Besteuerung.
 - Kein Lohnsteuerabzug Taetigkeitsstaat bei Vorlage Grenzgaengerbescheinigung.
 
-## Workflow / Output
+## / Output
 
 - Reisekalender Mandant.
 - Arbeitgeberbescheinigung.

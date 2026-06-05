@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Berufsrecht der Heilberufe und Approbation
-Ressort:            BMG
-Kernnormen:         BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO.
-Akteure/Aufsicht:   Approbationsbehoerden der Laender; Aerzte- und Zahnaerztekammern; BMG.
-EU/Voelkerrecht:    Berufsanerkennungs-RL; EU-Patientenrechte.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmg; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Berufsrecht der Heilberufe und Approbation
+Ressort: BMG
+Kernnormen: BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO.
+Akteure/Aufsicht: Approbationsbehoerden der Laender; Aerzte- und Zahnaerztekammern; BMG.
+EU/Voelkerrecht: Berufsanerkennungs-RL; EU-Patientenrechte.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

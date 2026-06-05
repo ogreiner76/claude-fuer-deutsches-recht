@@ -1,13 +1,13 @@
 ---
 name: hinschg-whistleblower-interne-untersuchung
-description: "Nutze dies, wenn Hinschg Whistleblower Antwort, Interne Untersuchung, Kuendigungs Prüfung, Kuendigungsschutzklage im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Hinschg Whistleblower Antwort, Interne Untersuchung, Kuendigungs Prüfung, Kuendigungsschutzklage prüfen.; Erstelle eine Arbeitsfassung zu Hinschg Whistleblower Antwort, Interne Untersuchung, Kuendigungs Prüfung, Kuendigungsschutzklage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hinschg Whistleblower Antwort, Interne Untersuchung, Kuendigungs Prüfung, Kuendigungsschutzklage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hinschg Whistleblower Antwort, Interne Untersuchung, Kuendigungs Prüfung, Kuendigungsschutzklage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hinschg Whistleblower Antwort, Interne Untersuchung, Kuendigungs Prüfung, Kuendigungsschutzklage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -94,18 +94,18 @@ Seit 2.7.2023 ist das HinSchG in Kraft (Umsetzung EU-RL 2019/1937). Dieses Skill
 
 - **Straftaten** und **bestimmte Ordnungswidrigkeiten** (bei Schutz Leben Gesundheit oder Mitarbeiter-Rechte)
 - **Verstöße gegen direkt anwendbares Unionsrecht** in bezeichneten Bereichen:
-  - Finanzdienstleistungen
-  - Geldwäsche
-  - Produkt-Sicherheit
-  - Verkehr
-  - Umwelt
-  - Strahlenschutz
-  - Lebensmittel- und Futtermittel-Sicherheit
-  - Tiergesundheit
-  - Verbraucherschutz
-  - Datenschutz und IT-Sicherheit
-  - öffentliche Vergabe
-  - bestimmte Steuer-Vorschriften
+ - Finanzdienstleistungen
+ - Geldwäsche
+ - Produkt-Sicherheit
+ - Verkehr
+ - Umwelt
+ - Strahlenschutz
+ - Lebensmittel- und Futtermittel-Sicherheit
+ - Tiergesundheit
+ - Verbraucherschutz
+ - Datenschutz und IT-Sicherheit
+ - öffentliche Vergabe
+ - bestimmte Steuer-Vorschriften
 - **Verstösse die finanzielle EU-Interessen schädigen**
 - **Verstösse gegen Wettbewerbs- und Beihilferecht**
 
@@ -393,35 +393,35 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 **Kernvorschriften:**
 
 - § 26 BDSG: Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses;
-  Verarbeitung zur Aufdeckung von Straftaten; Verhältnismäßigkeit
+ Verarbeitung zur Aufdeckung von Straftaten; Verhältnismäßigkeit
 - Art. 5, 6 DSGVO: Rechtmäßigkeit der Verarbeitung; berechtigtes Interesse
-  als Verarbeitungsgrundlage
+ als Verarbeitungsgrundlage
 - § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen
-  Überwachungseinrichtungen
+ Überwachungseinrichtungen
 - § 32 BDSG a.F. / § 26 BDSG n.F.: Kontinuität der Rspr. zur
-  Beschäftigtendatenverarbeitung
+ Beschäftigtendatenverarbeitung
 - § 611a BGB: Arbeitnehmereigenschaft; Mitwirkungspflichten im
-  Arbeitsverhältnis
+ Arbeitsverhältnis
 - § 241 Abs. 2 BGB: Nebenpflichten, insbesondere Auskunftspflicht des
-  Arbeitnehmers im Rahmen des Arbeitsverhältnisses
+ Arbeitnehmers im Rahmen des Arbeitsverhältnisses
 - §§ 626, 314 BGB: Außerordentliche Kündigung bei schwerwiegenden
-  Pflichtverletzungen; Verdachtskündigung
+ Pflichtverletzungen; Verdachtskündigung
 
 **Leitentscheidungen:**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Verdachtskündigung — Voraussetzungen: dringender Tatverdacht auf Basis
-  objektiver Umstände, Verhältnismäßigkeit, vorherige Anhörung des
-  Arbeitnehmers als zwingende Wirksamkeitsvoraussetzung
+ Verdachtskündigung — Voraussetzungen: dringender Tatverdacht auf Basis
+ objektiver Umstände, Verhältnismäßigkeit, vorherige Anhörung des
+ Arbeitnehmers als zwingende Wirksamkeitsvoraussetzung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Erstattungsfähigkeit von Detektivkosten — nur soweit konkrete Verdachtslage
-  bei Beauftragung bestand und Verhältnismäßigkeit gewahrt ist
+ Erstattungsfähigkeit von Detektivkosten — nur soweit konkrete Verdachtslage
+ bei Beauftragung bestand und Verhältnismäßigkeit gewahrt ist
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Verwertungsverbot rechtswidrig erlangter Erkenntnisse — heimliche
-  Videoüberwachung ohne Mitbestimmung des Betriebsrats; Beweisverwertungsverbot
+ Verwertungsverbot rechtswidrig erlangter Erkenntnisse — heimliche
+ Videoüberwachung ohne Mitbestimmung des Betriebsrats; Beweisverwertungsverbot
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Anhörung vor Verdachtskündigung — inhaltliche Mindestanforderungen und
-  Fehlerfolgen bei fehlerhafter Anhörung
+ Anhörung vor Verdachtskündigung — inhaltliche Mindestanforderungen und
+ Fehlerfolgen bei fehlerhafter Anhörung
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
@@ -446,30 +446,30 @@ Frage folgende Punkte in einem einzigen Block ab:
 > **Die Sache**
 > - Was ist der Vorwurf oder die Besorgnis in eigenen Worten?
 > - Wer ist Beschwerdeführer/in (oder welches Ereignis hat die Untersuchung
->   ausgelöst — Beschwerde, Hinweis, Revision, Vorgesetztenwahrnehmung)?
+> ausgelöst — Beschwerde, Hinweis, Revision, Vorgesetztenwahrnehmung)?
 > - Wer ist die beschuldigte oder in Frage stehende Person?
 > - Welcher ungefähre Zeitraum soll untersucht werden?
 > - Ist die Untersuchung anwaltsgeleitet? (Wenn ja: erhöhter Schutz
->   der Arbeitsergebnisse. Wenn nein: Schutzstatus vor Beginn klären.)
+> der Arbeitsergebnisse. Wenn nein: Schutzstatus vor Beginn klären.)
 >
 > **Art der Untersuchung** (bestimmt die passende Quellencheckliste)
 > - HR: Belästigung / Diskriminierung / Benachteiligung (AGG)
 > - Finanzen: Spesenmanipulation / Beschaffungsunregelmäßigkeiten / Untreue
 > - Führungskraft: Interessenkonflikt / unzulässige Beziehungen /
->   Governance-Verstöße
+> Governance-Verstöße
 > - Hinweisgeber: Vergeltung gegen geschützte Tätigkeit (§§ 34, 36 HinSchG)
 > - Sonstiges: kurz beschreiben
 >
 > **Vertretung und Betriebsrat**
 > - Ist die beschuldigte Person, die beschwerdeführende Person oder ein
->   erwarteter Zeuge durch einen Betriebsrat vertreten oder durch Tarifvertrag
->   erfasst? (Wenn ja: Informationsrecht des Betriebsrats nach § 102 BetrVG
->   bei etwaiger Kündigung beachten; kein eigenständiges Teilnahmerecht an
->   Investigativgesprächen, aber § 82 Abs. 2 BetrVG: Arbeitnehmer darf
->   Betriebsratsmitglied zur Besprechung über Beschwerde hinzuziehen)
+> erwarteter Zeuge durch einen Betriebsrat vertreten oder durch Tarifvertrag
+> erfasst? (Wenn ja: Informationsrecht des Betriebsrats nach § 102 BetrVG
+> bei etwaiger Kündigung beachten; kein eigenständiges Teilnahmerecht an
+> Investigativgesprächen, aber § 82 Abs. 2 BetrVG: Arbeitnehmer darf
+> Betriebsratsmitglied zur Besprechung über Beschwerde hinzuziehen)
 > - Ist die Gesellschaft ein öffentlich-rechtlicher Arbeitgeber (Behörde,
->   Hochschule, Staatsunternehmen)? (Wenn ja: Besonderheiten des öffentlichen
->   Dienstrechts, ggf. Personalvertretungsgesetz statt BetrVG prüfen)
+> Hochschule, Staatsunternehmen)? (Wenn ja: Besonderheiten des öffentlichen
+> Dienstrechts, ggf. Personalvertretungsgesetz statt BetrVG prüfen)
 
 Wenn Betriebsratsteilnahme-Frage aufgeworfen wird: § 82 Abs. 2 BetrVG,
 § 84 BetrVG (Beschwerderecht), § 85 BetrVG (Behandlung von Beschwerden)
@@ -496,9 +496,9 @@ status: offen
 zuletzt_aktualisiert: "[ISO-Datum]"
 
 fragen:
-  - "[Frage 1 — aus dem Vorwurf abgeleitet, z. B. 'Liegt eine unzulässige
-     Benachteiligung nach § 3 AGG vor?']"
-  - "[Frage 2 falls zutreffend]"
+ - "[Frage 1 — aus dem Vorwurf abgeleitet, z. B. 'Liegt eine unzulässige
+ Benachteiligung nach § 3 AGG vor?']"
+ - "[Frage 2 falls zutreffend]"
 
 eintraege: []
 
@@ -529,194 +529,194 @@ Quellen hinzukommen."
 **HR-Untersuchung (Belästigung/Diskriminierung/Benachteiligung AGG):**
 ```yaml
 quellen:
-  - id: 1
-    quelle: "Anhörung Beschwerdeführer/in"
-    status: offen
-    notizen: ""
-  - id: 2
-    quelle: "Anhörung Beschuldigte/r"
-    status: offen
-    notizen: ""
-  - id: 3
-    quelle: "Zeugenbefragungen — identifizieren aus Schilderungen beider Seiten"
-    status: offen
-    notizen: ""
-  - id: 4
-    quelle: "E-Mail-/Kommunikationsauswertung — Beteiligte, relevanter Zeitraum
-             (§ 87 Abs. 1 Nr. 6 BetrVG beachten: Mitbestimmung Betriebsrat)"
-    status: offen
-    notizen: ""
-  - id: 5
-    quelle: "Personalakte Beschuldigte/r — Leistungsbeurteilungen, frühere
-             Beschwerden, Disziplinarmaßnahmen"
-    status: offen
-    notizen: ""
-  - id: 6
-    quelle: "Frühere Beschwerden gegen Beschuldigte/n im HR-System"
-    status: offen
-    notizen: ""
-  - id: 7
-    quelle: "Vergleichspersonenanalyse — wie wurden ähnliche Fälle behandelt"
-    status: offen
-    notizen: ""
-  - id: 8
-    quelle: "Einschlägige Richtlinien — AGG-Richtlinie, Verhaltenskodex,
-             Beschwerdeverfahren (Version zum Tatzeitpunkt)"
-    status: offen
-    notizen: ""
-  - id: 9
-    quelle: "Organigramm und Berichtslinien zum Tatzeitpunkt"
-    status: offen
-    notizen: ""
-  - id: 10
-    quelle: "Kalender / Terminvermerke — Besprechungen oder Ereignisse,
-             die in Schilderungen erwähnt wurden"
-    status: offen
-    notizen: ""
-  - id: 11
-    quelle: "Dokumentation der Anhörungshinweise (§ 82 Abs. 2 BetrVG /
-             Hinweis auf Recht zur Hinzuziehung eines BR-Mitglieds)"
-    status: offen
-    notizen: ""
+ - id: 1
+ quelle: "Anhörung Beschwerdeführer/in"
+ status: offen
+ notizen: ""
+ - id: 2
+ quelle: "Anhörung Beschuldigte/r"
+ status: offen
+ notizen: ""
+ - id: 3
+ quelle: "Zeugenbefragungen — identifizieren aus Schilderungen beider Seiten"
+ status: offen
+ notizen: ""
+ - id: 4
+ quelle: "E-Mail-/Kommunikationsauswertung — Beteiligte, relevanter Zeitraum
+ (§ 87 Abs. 1 Nr. 6 BetrVG beachten: Mitbestimmung Betriebsrat)"
+ status: offen
+ notizen: ""
+ - id: 5
+ quelle: "Personalakte Beschuldigte/r — Leistungsbeurteilungen, frühere
+ Beschwerden, Disziplinarmaßnahmen"
+ status: offen
+ notizen: ""
+ - id: 6
+ quelle: "Frühere Beschwerden gegen Beschuldigte/n im HR-System"
+ status: offen
+ notizen: ""
+ - id: 7
+ quelle: "Vergleichspersonenanalyse — wie wurden ähnliche Fälle behandelt"
+ status: offen
+ notizen: ""
+ - id: 8
+ quelle: "Einschlägige Richtlinien — AGG-Richtlinie, Verhaltenskodex,
+ Beschwerdeverfahren (Version zum Tatzeitpunkt)"
+ status: offen
+ notizen: ""
+ - id: 9
+ quelle: "Organigramm und Berichtslinien zum Tatzeitpunkt"
+ status: offen
+ notizen: ""
+ - id: 10
+ quelle: "Kalender / Terminvermerke — Besprechungen oder Ereignisse,
+ die in Schilderungen erwähnt wurden"
+ status: offen
+ notizen: ""
+ - id: 11
+ quelle: "Dokumentation der Anhörungshinweise (§ 82 Abs. 2 BetrVG /
+ Hinweis auf Recht zur Hinzuziehung eines BR-Mitglieds)"
+ status: offen
+ notizen: ""
 ```
 
 **Finanzuntersuchung:**
 ```yaml
 quellen:
-  - id: 1
-    quelle: "Spesenabrechnungen — betroffene Person, relevanter Zeitraum"
-    status: offen
-    notizen: ""
-  - id: 2
-    quelle: "Genehmigungsunterlagen — wer hat Ausgaben oder Transaktionen
-             genehmigt"
-    status: offen
-    notizen: ""
-  - id: 3
-    quelle: "Lieferanten-/Auftragnehmerakte — Verträge, Rechnungen, Zahlungsbelege"
-    status: offen
-    notizen: ""
-  - id: 4
-    quelle: "Finanzsystem-Auswertungen — Kreditoren, Hauptbuch, relevante Konten"
-    status: offen
-    notizen: ""
-  - id: 5
-    quelle: "E-Mail-/Kommunikationsauswertung — betroffene Person, Genehmiger,
-             Gegenparteien (§ 87 Abs. 1 Nr. 6 BetrVG beachten)"
-    status: offen
-    notizen: ""
-  - id: 6
-    quelle: "Anhörung der betroffenen Person"
-    status: offen
-    notizen: ""
-  - id: 7
-    quelle: "Anhörung Genehmiger"
-    status: offen
-    notizen: ""
-  - id: 8
-    quelle: "Anhörung Lieferanten / Auftragnehmer (soweit zugänglich)"
-    status: offen
-    notizen: ""
-  - id: 9
-    quelle: "Audit-Logs — Systemzugriffe für relevante Konten/Systeme"
-    status: offen
-    notizen: ""
-  - id: 10
-    quelle: "Frühere Prüfungen oder Reviews für den relevanten Zeitraum"
-    status: offen
-    notizen: ""
+ - id: 1
+ quelle: "Spesenabrechnungen — betroffene Person, relevanter Zeitraum"
+ status: offen
+ notizen: ""
+ - id: 2
+ quelle: "Genehmigungsunterlagen — wer hat Ausgaben oder Transaktionen
+ genehmigt"
+ status: offen
+ notizen: ""
+ - id: 3
+ quelle: "Lieferanten-/Auftragnehmerakte — Verträge, Rechnungen, Zahlungsbelege"
+ status: offen
+ notizen: ""
+ - id: 4
+ quelle: "Finanzsystem-Auswertungen — Kreditoren, Hauptbuch, relevante Konten"
+ status: offen
+ notizen: ""
+ - id: 5
+ quelle: "E-Mail-/Kommunikationsauswertung — betroffene Person, Genehmiger,
+ Gegenparteien (§ 87 Abs. 1 Nr. 6 BetrVG beachten)"
+ status: offen
+ notizen: ""
+ - id: 6
+ quelle: "Anhörung der betroffenen Person"
+ status: offen
+ notizen: ""
+ - id: 7
+ quelle: "Anhörung Genehmiger"
+ status: offen
+ notizen: ""
+ - id: 8
+ quelle: "Anhörung Lieferanten / Auftragnehmer (soweit zugänglich)"
+ status: offen
+ notizen: ""
+ - id: 9
+ quelle: "Audit-Logs — Systemzugriffe für relevante Konten/Systeme"
+ status: offen
+ notizen: ""
+ - id: 10
+ quelle: "Frühere Prüfungen oder Reviews für den relevanten Zeitraum"
+ status: offen
+ notizen: ""
 ```
 
 **Untersuchung Führungskraft (Interessenkonflikt/Governance):**
 ```yaml
 quellen:
-  - id: 1
-    quelle: "Anhörung betroffene Führungskraft"
-    status: offen
-    notizen: ""
-  - id: 2
-    quelle: "Aufsichtsrats-/Gesellschafterbeschlüsse — relevante Resolutionen,
-             Protokolle, Genehmigungen"
-    status: offen
-    notizen: ""
-  - id: 3
-    quelle: "Anstellungsvertrag und Änderungen / Nachträge"
-    status: offen
-    notizen: ""
-  - id: 4
-    quelle: "Beteiligungsunterlagen — Optionen, Übertragungen, Unverfallbarkeit"
-    status: offen
-    notizen: ""
-  - id: 5
-    quelle: "Spesenabrechnungen und Genehmigungsunterlagen"
-    status: offen
-    notizen: ""
-  - id: 6
-    quelle: "E-Mail-/Kommunikationsauswertung — betroffene Person, relevante
-             Gegenparteien (§ 87 Abs. 1 Nr. 6 BetrVG beachten)"
-    status: offen
-    notizen: ""
-  - id: 7
-    quelle: "Interessenkonflikt-Erklärungen (oder Fehlen davon)"
-    status: offen
-    notizen: ""
-  - id: 8
-    quelle: "Unterlagen zu Nebentätigkeiten"
-    status: offen
-    notizen: ""
-  - id: 9
-    quelle: "Zeugenbefragungen — direkte Mitarbeiter, Kollegen, AR-Mitglieder"
-    status: offen
-    notizen: ""
-  - id: 10
-    quelle: "Frühere Beschwerden oder Hinweise auf betroffene Person"
-    status: offen
-    notizen: ""
+ - id: 1
+ quelle: "Anhörung betroffene Führungskraft"
+ status: offen
+ notizen: ""
+ - id: 2
+ quelle: "Aufsichtsrats-/Gesellschafterbeschlüsse — relevante Resolutionen,
+ Protokolle, Genehmigungen"
+ status: offen
+ notizen: ""
+ - id: 3
+ quelle: "Anstellungsvertrag und Änderungen / Nachträge"
+ status: offen
+ notizen: ""
+ - id: 4
+ quelle: "Beteiligungsunterlagen — Optionen, Übertragungen, Unverfallbarkeit"
+ status: offen
+ notizen: ""
+ - id: 5
+ quelle: "Spesenabrechnungen und Genehmigungsunterlagen"
+ status: offen
+ notizen: ""
+ - id: 6
+ quelle: "E-Mail-/Kommunikationsauswertung — betroffene Person, relevante
+ Gegenparteien (§ 87 Abs. 1 Nr. 6 BetrVG beachten)"
+ status: offen
+ notizen: ""
+ - id: 7
+ quelle: "Interessenkonflikt-Erklärungen (oder Fehlen davon)"
+ status: offen
+ notizen: ""
+ - id: 8
+ quelle: "Unterlagen zu Nebentätigkeiten"
+ status: offen
+ notizen: ""
+ - id: 9
+ quelle: "Zeugenbefragungen — direkte Mitarbeiter, Kollegen, AR-Mitglieder"
+ status: offen
+ notizen: ""
+ - id: 10
+ quelle: "Frühere Beschwerden oder Hinweise auf betroffene Person"
+ status: offen
+ notizen: ""
 ```
 
 **Hinweisgeberuntersuchung (HinSchG / Retaliation):**
 ```yaml
 quellen:
-  - id: 1
-    quelle: "Anhörung hinweisgebende Person"
-    status: offen
-    notizen: ""
-  - id: 2
-    quelle: "Ursprüngliche Meldung oder Hinweis — schriftlich, soweit vorhanden"
-    status: offen
-    notizen: ""
-  - id: 3
-    quelle: "Unterlagen zum gemeldeten Sachverhalt (der eigentliche Hinweis)"
-    status: offen
-    notizen: ""
-  - id: 4
-    quelle: "Unterlagen zu nachteiligen Maßnahmen gegenüber hinweisgebender
-             Person nach der Meldung (§§ 36, 37 HinSchG)"
-    status: offen
-    notizen: ""
-  - id: 5
-    quelle: "Anhörung Entscheidungsträger der nachteiligen Maßnahme"
-    status: offen
-    notizen: ""
-  - id: 6
-    quelle: "Vergleichspersonenanalyse — Behandlung vergleichbarer Personen
-             ohne Meldetätigkeit"
-    status: offen
-    notizen: ""
-  - id: 7
-    quelle: "E-Mail-/Kommunikationsauswertung — Entscheidungsträger,
-             relevanter Zeitraum"
-    status: offen
-    notizen: ""
-  - id: 8
-    quelle: "Zeitliche Nähe: Meldetätigkeit zu nachteiliger Maßnahme
-             (§ 36 Abs. 2 HinSchG: Beweislastumkehr)"
-    status: offen
-    notizen: ""
-  - id: 9
-    quelle: "Anhörung Beschuldigte/r / Entscheidungsträger"
-    status: offen
-    notizen: ""
+ - id: 1
+ quelle: "Anhörung hinweisgebende Person"
+ status: offen
+ notizen: ""
+ - id: 2
+ quelle: "Ursprüngliche Meldung oder Hinweis — schriftlich, soweit vorhanden"
+ status: offen
+ notizen: ""
+ - id: 3
+ quelle: "Unterlagen zum gemeldeten Sachverhalt (der eigentliche Hinweis)"
+ status: offen
+ notizen: ""
+ - id: 4
+ quelle: "Unterlagen zu nachteiligen Maßnahmen gegenüber hinweisgebender
+ Person nach der Meldung (§§ 36, 37 HinSchG)"
+ status: offen
+ notizen: ""
+ - id: 5
+ quelle: "Anhörung Entscheidungsträger der nachteiligen Maßnahme"
+ status: offen
+ notizen: ""
+ - id: 6
+ quelle: "Vergleichspersonenanalyse — Behandlung vergleichbarer Personen
+ ohne Meldetätigkeit"
+ status: offen
+ notizen: ""
+ - id: 7
+ quelle: "E-Mail-/Kommunikationsauswertung — Entscheidungsträger,
+ relevanter Zeitraum"
+ status: offen
+ notizen: ""
+ - id: 8
+ quelle: "Zeitliche Nähe: Meldetätigkeit zu nachteiliger Maßnahme
+ (§ 36 Abs. 2 HinSchG: Beweislastumkehr)"
+ status: offen
+ notizen: ""
+ - id: 9
+ quelle: "Anhörung Beschuldigte/r / Entscheidungsträger"
+ status: offen
+ notizen: ""
 ```
 
 ---
@@ -751,27 +751,27 @@ relevanter Fund.
 
 **Auswahlkriterien:**
 1. Enthält den Namen einer Untersuchungsbeteiligten (Beschwerdeführer/in,
-   Beschuldigte/r, benannte Zeugen)
+ Beschuldigte/r, benannte Zeugen)
 2. Wurde von einer Beteiligten verfasst oder empfangen und datiert auf den
-   relevanten Tatzeitraum
+ relevanten Tatzeitraum
 3. Enthält Schlüsselwörter zum Vorwurfstyp (aus der Sachverhaltserfassung
-   und aus früheren Protokolleinträgen — Stichwortliste laufend ergänzen)
+ und aus früheren Protokolleinträgen — Stichwortliste laufend ergänzen)
 4. Enthält explizite oder implizite Selbstbelastungen (z. B. "das hätte ich
-   nicht tun sollen", "ich weiß, wie das aussieht", "schreib das nicht auf",
-   "lösch das")
+ nicht tun sollen", "ich weiß, wie das aussieht", "schreib das nicht auf",
+ "lösch das")
 5. Enthält Aussagen, die einem bereits protokollierten Zeugenbericht
-   widersprechen — Widerspruch und den betroffenen Protokolleintrag benennen
+ widersprechen — Widerspruch und den betroffenen Protokolleintrag benennen
 6. Enthält sprach- oder inhaltlich sensibles Material: diskriminierende
-   Ausdrücke, Drohungen, Bezugnahmen auf geschützte Merkmale (§ 1 AGG),
-   Unregelmäßigkeiten, die dem Vorwurfsmuster entsprechen
+ Ausdrücke, Drohungen, Bezugnahmen auf geschützte Merkmale (§ 1 AGG),
+ Unregelmäßigkeiten, die dem Vorwurfsmuster entsprechen
 7. Ist ein Dokumententyp, der in früheren Schilderungen erwähnt, aber noch
-   nicht im Dokumentensatz aufgetaucht ist → als Beweislücke protokollieren,
-   nicht als Treffer
+ nicht im Dokumentensatz aufgetaucht ist → als Beweislücke protokollieren,
+ nicht als Treffer
 
 **Disposition für jedes geprüfte Dokument:**
 - `relevant`: erfüllt eines oder mehrere Auswahlkriterien — als Protokolleintrag hinzufügen
 - `geprueft-nicht-relevant`: geprüft, kein Auswahlkriterium erfüllt —
-  in dokumente-geprueft.yaml mit einem Satz beschreiben
+ in dokumente-geprueft.yaml mit einem Satz beschreiben
 
 **Nach Bearbeitung eines Dokumentenpakets melden:**
 
@@ -792,31 +792,31 @@ Für jeden relevanten Fund, Anhang an log.yaml:
 
 ```yaml
 - eintrag_id: [fortlaufend]
-  eintrag_typ: [befragung / dokument / anwaltsnotiz / beweislücke]
-  ereignis_datum: "[Datum des Ereignisses — nicht das Protokolldatum]"
-  protokoll_datum: "[ISO-Datetime]"
-  quelle: "[Name/Funktion der befragten Person oder Dokumentenbeschreibung]"
-  quellen_typ: [beschwerdefuehrer / beschuldigter / zeuge / dokument / anwaltsnotiz]
-  fragen: ["[welcher Untersuchungsfrage/-n ist dieser Eintrag zuzuordnen]"]
-  bedeutung: [hoch / mittel / hintergrund]
-  zusammenfassung: "[was dieser Eintrag zum Erkenntnisstand beiträgt — 2–5 Sätze]"
-  zitat: "[wörtliches Zitat wenn bedeutsam — sonst leer]"
-  widerspricht_eintrag: [eintrag_id oder null]
-  bestaetigt_eintrag: [eintrag_id oder null]
-  glaubwuerdigkeitsnotiz: ""
-  auswahlkriterium: "[welches Kriterium hat angesprochen — für Dokumente]"
-  vertraulich: arbeitsrechtlich-intern
+ eintrag_typ: [befragung / dokument / anwaltsnotiz / beweislücke]
+ ereignis_datum: "[Datum des Ereignisses — nicht das Protokolldatum]"
+ protokoll_datum: "[ISO-Datetime]"
+ quelle: "[Name/Funktion der befragten Person oder Dokumentenbeschreibung]"
+ quellen_typ: [beschwerdefuehrer / beschuldigter / zeuge / dokument / anwaltsnotiz]
+ fragen: ["[welcher Untersuchungsfrage/-n ist dieser Eintrag zuzuordnen]"]
+ bedeutung: [hoch / mittel / hintergrund]
+ zusammenfassung: "[was dieser Eintrag zum Erkenntnisstand beiträgt — 2–5 Sätze]"
+ zitat: "[wörtliches Zitat wenn bedeutsam — sonst leer]"
+ widerspricht_eintrag: [eintrag_id oder null]
+ bestaetigt_eintrag: [eintrag_id oder null]
+ glaubwuerdigkeitsnotiz: ""
+ auswahlkriterium: "[welches Kriterium hat angesprochen — für Dokumente]"
+ vertraulich: arbeitsrechtlich-intern
 ```
 
 Für Beweislücken:
 
 ```yaml
 - luecke_id: [fortlaufend]
-  beschreibung: "[welches Dokument/welche Quelle sollte existieren, fehlt aber]"
-  identifiziert_aus: "[welcher Protokolleintrag oder Bericht hat darauf hingewiesen]"
-  beschaffungsweg: "[wo es zu bekommen wäre]"
-  prioritaet: [hoch / mittel / gering]
-  status: offen
+ beschreibung: "[welches Dokument/welche Quelle sollte existieren, fehlt aber]"
+ identifiziert_aus: "[welcher Protokolleintrag oder Bericht hat darauf hingewiesen]"
+ beschaffungsweg: "[wo es zu bekommen wäre]"
+ prioritaet: [hoch / mittel / gering]
+ status: offen
 ```
 
 ---
@@ -1011,7 +1011,7 @@ soll sie unterstützen?
 - Ergebnis zu jedem Vorwurf (Bestätigt / Nicht bestätigt / Unklar)
 - Empfohlene Maßnahme
 - Nicht enthalten: Glaubwürdigkeitsmethodik, Rechtsrisikoanalyse,
-  anwaltliche Eindrücke
+ anwaltliche Eindrücke
 - Kopfzeile: "Vertraulich — Nur für HR — Keine Weitergabe"
 - Keine Eintrags-IDs oder Dokumentenverweise
 
@@ -1033,15 +1033,15 @@ soll sie unterstützen?
 ## Was diese Skill nicht tut
 
 - Disziplinarische Entscheidungen treffen — sie unterstützt die anwaltlichen
-  Feststellungen, nicht die HR-Entscheidung
+ Feststellungen, nicht die HR-Entscheidung
 - Vertraulichkeitsschutz garantieren — Schutz hängt davon ab, wie die
-  Untersuchung strukturiert und wie Materialien verteilt wurden
+ Untersuchung strukturiert und wie Materialien verteilt wurden
 - Dokumente lesen, die technisch nicht verarbeitbar sind — solche Dateien
-  für manuelle Prüfung flaggen
+ für manuelle Prüfung flaggen
 - Befragungen durchführen — Befragungsnotizen werden protokolliert,
-  nicht selbst geführt
+ nicht selbst geführt
 - Anhörungshinweise ersetzen — sie verfolgt, ob sie erteilt wurden,
-  erteilt sie nicht selbst
+ erteilt sie nicht selbst
 
 ## Quellenpflicht
 
@@ -1218,17 +1218,17 @@ Ergebnis: [🟢 Kündigung rechtlich möglich / 🟡 Kündigung möglich mit Auf
 
 ⚠️ Prüfhinweis: [Quellen, Flags, Aktualität]
 
-I.   KSchG-Anwendungsbereich         [🟢 / 🟡 / N/A]
-II.  Sonderkündigungsschutz-Check    [🟢 / 🔴 Flag: ...]
-III. Betriebsratsanhörung            [🟢 / 🔴 ausstehend]
-IV.  Kündigungsgrund (§ 1 KSchG)     [🟢 / 🟡 / 🔴]
-     Typ: [betriebsbedingt / verhaltensbedingt / personenbedingt]
-     Begründung: ...
-V.   Sozialauswahl (falls bb.)       [🟢 / 🟡 / 🔴]
-     Vergleichsgruppe: [N AN]
-     Sozialpunkte: [Tabelle]
-VI.  Kündigungsfrist                 [Frist]
-VII. Abfindungsangebot (optional)    [§ 1a KSchG Betrag]
+I. KSchG-Anwendungsbereich [🟢 / 🟡 / N/A]
+II. Sonderkündigungsschutz-Check [🟢 / 🔴 Flag: ...]
+III. Betriebsratsanhörung [🟢 / 🔴 ausstehend]
+IV. Kündigungsgrund (§ 1 KSchG) [🟢 / 🟡 / 🔴]
+ Typ: [betriebsbedingt / verhaltensbedingt / personenbedingt]
+ Begründung: ...
+V. Sozialauswahl (falls bb.) [🟢 / 🟡 / 🔴]
+ Vergleichsgruppe: [N AN]
+ Sozialpunkte: [Tabelle]
+VI. Kündigungsfrist [Frist]
+VII. Abfindungsangebot (optional) [§ 1a KSchG Betrag]
 
 Offene Flaggen: [Liste mit [prüfen]-Markierungen]
 Eskalation: [ja/nein – Begründung]
@@ -1308,28 +1308,28 @@ Für eine vollständige Bearbeitung werden benötigt:
 ### Leitentscheidungen (BGH-Stil, Stand Mai 2026)
 
 - **Massenentlassung - Fehler im Anzeigeverfahren:**
-  BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22: Fehlende oder verfruehte (vor Abschluss der BR-Konsultation eingereichte) Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller davon erfassten Kuendigungen; keine Heilung nach Kuendigungsausspruch. Quelle: dejure.org-Vernetzung; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren". Zugehoeriger EuGH: 30.10.2025 - C-134/24 und C-402/24.
+ BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22: Fehlende oder verfruehte (vor Abschluss der BR-Konsultation eingereichte) Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller davon erfassten Kuendigungen; keine Heilung nach Kuendigungsausspruch. Quelle: dejure.org-Vernetzung; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren". Zugehoeriger EuGH: 30.10.2025 - C-134/24 und C-402/24.
 
 - **Freistellungsklausel im Arbeitsvertrag:**
-  BAG, Urteil vom 25.03.2026 - 5 AZR 108/25: Pauschale formularmaessige Freistellungsklausel benachteiligt den Arbeitnehmer unangemessen (§ 307 Abs. 1 Satz 1 BGB); der Beschaeftigungsanspruch ueberwiegt das pauschale Freistellungsinteresse. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 25.03.2026 - 5 AZR 108/25: Pauschale formularmaessige Freistellungsklausel benachteiligt den Arbeitnehmer unangemessen (§ 307 Abs. 1 Satz 1 BGB); der Beschaeftigungsanspruch ueberwiegt das pauschale Freistellungsinteresse. Quelle: dejure.org-Vernetzung.
 
 - **Mindesturlaubsverzicht im Prozessvergleich:**
-  BAG, Urteil vom 03.06.2025 - 9 AZR 104/24: Pauschale Erledigungsklausel erfasst den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis nicht wirksam; § 13 Abs. 1 Satz 3 BUrlG i.V.m. RL 2003/88/EG. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 03.06.2025 - 9 AZR 104/24: Pauschale Erledigungsklausel erfasst den gesetzlichen Mindesturlaub im laufenden Arbeitsverhaeltnis nicht wirksam; § 13 Abs. 1 Satz 3 BUrlG i.V.m. RL 2003/88/EG. Quelle: dejure.org-Vernetzung.
 
 - **Equal Pay / Paarvergleich:**
-  BAG, Urteil vom 23.10.2025 - 8 AZR 300/24: Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts genuegt fuer die Vermutung nach § 22 AGG; Mediane oder Vergleichsgruppengroessen sind irrelevant. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 23.10.2025 - 8 AZR 300/24: Paarvergleich mit einem einzelnen Vergleichskollegen des anderen Geschlechts genuegt fuer die Vermutung nach § 22 AGG; Mediane oder Vergleichsgruppengroessen sind irrelevant. Quelle: dejure.org-Vernetzung.
 
 - **DSGVO-Schadensersatz bei verspaeteter Auskunft:**
-  BAG, Urteil vom 20.02.2025 - 8 AZR 61/24: "Stoergefuehl" allein begruendet keinen Schadensersatzanspruch nach Art. 82 DSGVO; konkrete Kontrollverlust-Furcht oder tatsaechlicher Schaden erforderlich. Quelle: dejure.org-Vernetzung; Volltext-PDF auf bundesarbeitsgericht.de.
+ BAG, Urteil vom 20.02.2025 - 8 AZR 61/24: "Stoergefuehl" allein begruendet keinen Schadensersatzanspruch nach Art. 82 DSGVO; konkrete Kontrollverlust-Furcht oder tatsaechlicher Schaden erforderlich. Quelle: dejure.org-Vernetzung; Volltext-PDF auf bundesarbeitsgericht.de.
 
 - **Arbeitszeiterfassung:**
-  BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21: Pflicht des Arbeitgebers zur Erfassung der gesamten Arbeitszeit aus § 3 Abs. 2 Nr. 1 ArbSchG. Quelle: dejure.org-Vernetzung.
+ BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21: Pflicht des Arbeitgebers zur Erfassung der gesamten Arbeitszeit aus § 3 Abs. 2 Nr. 1 ArbSchG. Quelle: dejure.org-Vernetzung.
 
 - **NachweisG-Schadensersatz:**
-  BAG, Urteil vom 22.09.2022 - 8 AZR 4/21: Bei Verstoss gegen NachwG kann der Arbeitnehmer Schadensersatz verlangen, soweit die Pflichtverletzung kausal fuer den Schaden war; Anspruch nicht auf Bussgeldhoehe begrenzt. Quelle: dejure.org-Vernetzung.
+ BAG, Urteil vom 22.09.2022 - 8 AZR 4/21: Bei Verstoss gegen NachwG kann der Arbeitnehmer Schadensersatz verlangen, soweit die Pflichtverletzung kausal fuer den Schaden war; Anspruch nicht auf Bussgeldhoehe begrenzt. Quelle: dejure.org-Vernetzung.
 
 - **Subjektive Determinationstheorie BR-Anhoerung:**
-  BAG, 27.02.1997 - 2 AZR 302/96 (Standardlinie); BAG, 05.02.1998 - 2 AZR 227/97. Quelle: dejure.org-Vernetzung.
+ BAG, 27.02.1997 - 2 AZR 302/96 (Standardlinie); BAG, 05.02.1998 - 2 AZR 227/97. Quelle: dejure.org-Vernetzung.
 
 Allgemein: Weitere Entscheidungen zu Sozialauswahl, betriebsbedingter Kuendigung, wichtigem Grund usw. vor Schriftsatzverwendung in offenen Quellen (dejure.org / openjur.de / bundesarbeitsgericht.de) verifizieren.
 
@@ -1386,13 +1386,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Klageanträge (Feststellungsklage):**
 ```
 1. Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung
-   der Beklagten vom [Datum], zugegangen am [Datum], nicht aufgelöst worden ist.
+ der Beklagten vom [Datum], zugegangen am [Datum], nicht aufgelöst worden ist.
 
 2. [Hilfsweise: Es wird festgestellt, dass das Arbeitsverhältnis auch nicht durch
-   andere Beendigungsgründe endet, sondern über den [Datum] hinaus fortbesteht.]
+ andere Beendigungsgründe endet, sondern über den [Datum] hinaus fortbesteht.]
 
 3. [Weiterbeschäftigungsantrag nach § 102 Abs. 5 BetrVG / allg. Weiterbeschäftigung
-   bis Rechtskraft des Urteils, soweit Widerspruch des BR oder schutzwürdiges Interesse.]
+ bis Rechtskraft des Urteils, soweit Widerspruch des BR oder schutzwürdiges Interesse.]
 ```
 
 **Begründung (Struktur):**

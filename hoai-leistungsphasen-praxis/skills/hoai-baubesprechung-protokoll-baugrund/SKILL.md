@@ -1,13 +1,13 @@
 ---
 name: hoai-baubesprechung-protokoll-baugrund
-description: "Nutze dies, wenn Hoai Baubesprechung Protokoll, Hoai Baugrund Altlasten Untersuchungsbedarf, Hoai Bauherrnentscheidung Matrix, Hoai Bauunternehmen Perspektive, Hoai Bim Cde Planmanagement im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Baubesprechung Protokoll, Hoai Baugrund Altlasten Untersuchungsbedarf, Hoai Bauherrnentscheidung Matrix, Hoai Bauunternehmen Perspektive, Hoai Bim Cde Planmanagement prüfen.; Erstelle eine Arbeitsfassung zu Hoai Baubesprechung Protokoll, Hoai Baugrund Altlasten Untersuchungsbedarf, Hoai Bauherrnentscheidung Matrix, Hoai Bauunternehmen Perspektive, Hoai Bim Cde Planmanagement.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Baubesprechung Protokoll, Hoai Baugrund Altlasten Untersuchungsbedarf, Hoai Bauherrnentscheidung Matrix, Hoai Bauunternehmen Perspektive: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Baubesprechung Protokoll, Hoai Baugrund Altlasten Untersuchungsbedarf, Hoai Bauherrnentscheidung Matrix, Hoai Bauunternehmen Perspektive, Hoai Bim Cde Planmanagement
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Baubesprechung Protokoll, Hoai Baugrund Altlasten Untersuchungsbedarf, Hoai Bauherrnentscheidung Matrix, Hoai Bauunternehmen Perspektive, Hoai Bim Cde Planmanagement** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Hoai Baubesprechung Protokoll, Hoai Baugrund Altlasten Untersuchungsbedar
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **erstellt präzises Protokoll mit Verantwortlichen, Fristen und Beweiswert** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **erstellt präzises Protokoll mit Verantwortlichen, Fristen und Beweiswert** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -92,7 +92,7 @@ Untersuchungsbedarf-Vermerk mit Warnpflicht, Fachgutachterauftrag, Kostenfolge u
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **macht Entscheidungen beweisbar, datiert und kostenbewusst** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **macht Entscheidungen beweisbar, datiert und kostenbewusst** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -122,7 +122,7 @@ Dieser Querschnitts-Skill bearbeitet **macht Entscheidungen beweisbar, datiert u
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **übersetzt HOAI-Planungsstand in Ausführungsrisiko und Nachtragschance** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **übersetzt HOAI-Planungsstand in Ausführungsrisiko und Nachtragschance** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -152,7 +152,7 @@ Dieser Querschnitts-Skill bearbeitet **übersetzt HOAI-Planungsstand in Ausführ
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **ordnet BIM, CDE, Modellstände, Planfreigabe und Datenhoheit** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **ordnet BIM, CDE, Modellstände, Planfreigabe und Datenhoheit** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 

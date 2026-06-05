@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing für das Gesellschaftsgründer-Plugin; besonders anfängerfreundlich, mit Rollenklärung, Dokumentenintake, Rechtsformwahl und Anschluss-Skills."
+description: "Einstieg, Schnelltriage und Fallrouting für das Gesellschaftsgründer-Plugin; besonders anfängerfreundlich, mit Rollenklärung, Dokumentenintake, Rechtsformwahl und Anschluss-Skills."
 ---
 
 # Gesellschaftsgründer Allgemein — leichter Kaltstart
@@ -62,4 +62,4 @@ Arbeite grundsätzlich in dieser Reihenfolge:
 2. **Risikoampel:** grün, gelb, rot, mit knapper Begründung.
 3. **Fragen nur dort, wo nötig:** maximal sieben, nach Priorität.
 4. **Konkretes Arbeitsergebnis:** Fahrplan, Matrix, Liste, Vermerk, Notarbriefing oder Entwurf.
-5. **Skill-Routing:** passende Spezial-Skills nennen und erklären, wofür sie als Nächstes gut sind.
+5. **Skill-Routing:** passende Fachmodule nennen und erklären, wofür sie als Nächstes gut sind.

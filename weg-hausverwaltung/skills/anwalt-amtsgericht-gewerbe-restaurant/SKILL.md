@@ -1,13 +1,13 @@
 ---
 name: anwalt-amtsgericht-gewerbe-restaurant
-description: "Nutze dies, wenn Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch Laerm Hof, Grossakte Konfliktlandkarte im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch Laerm Hof, Grossakte Konfliktlandkarte prüfen.; Erstelle eine Arbeitsfassung zu Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch Laerm Hof, Grossakte Konfliktlandkarte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch Laerm Hof, Grossakte Konfliktlandkarte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch Laerm Hof, Grossakte Konfliktlandkarte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eskalation Anwalt Amtsgericht, Gewerbe Restaurant Geruch Laerm Hof, Grossakte Konfliktlandkarte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -110,7 +110,7 @@ Rechtzeitig markieren, wann die Verwaltung nicht weiter allein handeln sollte. F
 
 ## Quellenpflicht
 
-`rechtsstand-mai-2026-faktenbank` laden. §§ 43, 44, 45 WEG: https://www.gesetze-im-internet.de/woeigg/__43.html , https://www.gesetze-im-internet.de/woeigg/__44.html , https://www.gesetze-im-internet.de/woeigg/__45.html .
+`rechtsstand-mai-2026-faktenbank` laden. §§ 43, 44, 45 WEG: https://www.gesetze-im-internet.de/woeigg/__43.html, https://www.gesetze-im-internet.de/woeigg/__44.html, https://www.gesetze-im-internet.de/woeigg/__45.html .
 
 
 ## Qualitäts-Hardening
@@ -217,7 +217,7 @@ Nutze diesen Skill, wenn eine WEG-Akte aus vielen kleinen Konflikten besteht und
 3. **Fristen zuerst:** Beschlussklage § 45 WEG, Einladungsfristen, Abrechnungsfristen, Angebotsbindungen, Gewährleistung, Versicherungsanzeige.
 4. **Eigentümer-/Mieterrollen klären:** GdWE, Sondereigentümer, vermietender Eigentümer, Mieter, Gewerbemieter, Verwalter, Beirat.
 5. **Beschlussfähigkeit prüfen:** Was braucht Beschluss, was darf Verwaltung laufend erledigen, was ist Notmaßnahme?
-6. **Skill-Routing:** Pro Konflikt einen passenden Spezial-Skill vorschlagen.
+6. **Skill-Routing:** Pro Konflikt einen passenden Fachmodul vorschlagen.
 
 ## Output
 

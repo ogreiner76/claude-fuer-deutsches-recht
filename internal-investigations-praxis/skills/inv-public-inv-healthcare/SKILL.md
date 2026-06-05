@@ -1,13 +1,13 @@
 ---
 name: inv-public-inv-healthcare
-description: "Nutze dies, wenn Inv 038 Public Procurement, Inv 039 Healthcare Compliance im Plugin Internal Investigations Praxis konkret bearbeitet werden soll. Auslöser: Bitte Inv 038 Public Procurement, Inv 039 Healthcare Compliance prüfen.; Erstelle eine Arbeitsfassung zu Inv 038 Public Procurement, Inv 039 Healthcare Compliance.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Inv 038 Public Procurement, Inv 039 Healthcare Compliance: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Inv 038 Public Procurement, Inv 039 Healthcare Compliance
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Inv 038 Public Procurement, Inv 039 Healthcare Compliance** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

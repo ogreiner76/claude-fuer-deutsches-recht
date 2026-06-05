@@ -1,13 +1,13 @@
 ---
 name: durchfuehrungswege-fuenf-harmonisierung
-description: "Nutze dies, wenn Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Fuenf Behörden Gericht Und Registerweg, Harmonisierung Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung
+# Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Fuenf Behörden Gericht Und Registerweg, Harmonisierung Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Fuenf Behörden Gericht Und Registerweg, Harmonisierung Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial Fuenf Behörden Gericht Und Registerweg, Spezial Harmonisierung Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Fuenf Behörden Gericht Und Registerweg, Harmonisierung Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bav-strategie-konzern` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Durchfuehrungswege Schriftsatz Brief Und Memo Bausteine, Spezial 
 # Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine / spezial durchfuehrungswege schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine / durchfuehrungswege schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -116,7 +116,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Fuenf: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Fuenf: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Fuenf: Behörden-, Gerichts- oder Registerweg / spezial fuenf behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fuenf: Behörden-, Gerichts- oder Registerweg / fuenf behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -157,7 +157,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Harmonisierung: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Harmonisierung: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Harmonisierung: Formular, Portal und Einreichungslogik / spezial harmonisierung formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Harmonisierung: Formular, Portal und Einreichungslogik / harmonisierung formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CTA, DB, DC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

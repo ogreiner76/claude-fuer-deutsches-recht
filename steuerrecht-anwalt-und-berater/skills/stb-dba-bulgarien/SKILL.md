@@ -142,12 +142,12 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, niedrige BG-KSt 10 Prozent, CFC, Pillar Two.
 3. **Kurzantwort**: DBA-Bulgarien 2010 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-BG 2010).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
-   - Methodenartikel (Art. 22 — Anrechnung ueberwiegend).
-   - § 7 ff. AStG-CFC; Pillar Two bei Konzern ueber 750 Mio EUR.
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-BG 2010).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+ - Methodenartikel (Art. 22 — Anrechnung ueberwiegend).
+ - § 7 ff. AStG-CFC; Pillar Two bei Konzern ueber 750 Mio EUR.
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: Aenderungsprotokoll 2022/2023, § 50d Abs. 3 EStG, Pillar Two, MLI-Status.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

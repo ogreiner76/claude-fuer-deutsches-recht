@@ -1,13 +1,13 @@
 ---
 name: patg-verfuegung-beweislast-verletzungsklage
-description: "Nutze dies, wenn Spezial Patg Schriftsatz Brief Und Memo Bausteine, Spezial Verfuegung Beweislast Und Darlegungslast, Spezial Verletzungsklage Sonderfall Und Edge Case im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Patg Schriftsatz Brief Und Memo Bausteine, Spezial Verfuegung Beweislast Und Darlegungslast, Spezial Verletzungsklage Sonderfall Und Edge Case prüfen.; Erstelle eine Arbeitsfassung zu Spezial Patg Schriftsatz Brief Und Memo Bausteine, Spezial Verfuegung Beweislast Und Darlegungslast, Spezial Verletzungsklage Sonderfall Und Edge Case.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast Und Darlegungslast, Verletzungsklage Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Patg Schriftsatz Brief Und Memo Bausteine, Spezial Verfuegung Beweislast Und Darlegungslast, Spezial Verletzungsklage Sonderfall Und Edge Case
+# Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast Und Darlegungslast, Verletzungsklage Sonderfall Und Edge Case
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast Und Darlegungslast, Verletzungsklage Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Patg Schriftsatz Brief Und Memo Bausteine, Spezial Verfuegung Beweislast Und Darlegungslast, Spezial Verletzungsklage Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast Und Darlegungslast, Verletzungsklage Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -166,7 +166,7 @@ VI. Empfehlung
 | Vergütung (falls Inanspruchnahme) | § 9 ArbnErfG | Nach Richtlinien (Einzelerfindung) |
 | Freigabe (falls keine Inanspruchnahme) | § 8 ArbnErfG | Automatisch nach 4 Monaten |
 
-## Kaltstart
+## Einstieg
 1. Geht es um eine Verletzungsklage, Nichtigkeitsklage, Berechtigungsanfrage oder ArbnErfG?
 2. Welches Patent ist betroffen (Nummer, Ansprüche, relevante Merkmale)?
 3. Welche konkrete Verletzungshandlung wurde festgestellt?
@@ -255,10 +255,10 @@ und erkläre folgendes:
 1. [Mandant] betreibt [Unternehmen / Schutzrecht].
 
 2. Am [Datum] habe ich auf der Website [URL] / in [Medium] folgende
-   Verletzungshandlung festgestellt: [Beschreibung].
+ Verletzungshandlung festgestellt: [Beschreibung].
 
 3. [Screenshot / Testkauf / Muster] ist als Anlage [X] beigefügt und
-   gibt den Sachverhalt zutreffend wieder.
+ gibt den Sachverhalt zutreffend wieder.
 
 4. Von diesem Sachverhalt hatte ich erstmals am [Datum] Kenntnis.
 
@@ -299,7 +299,7 @@ Bei bestimmten Sachverhalten (Verletzungsumfang, Herstellungsprozesse, Lieferket
 | Dringlichkeit dargelegt (UWG: Vermutung; sonst: positiv) | ☐ |
 | Gegenglaubhaftmachung der Gegenseite antizipiert | ☐ |
 
-## Kaltstart
+## Einstieg
 1. Liegt eine eigene eV vor oder muss sie noch aufgesetzt werden?
 2. Ist das Kenntnisdatum dokumentiert?
 3. Welche weiteren Glaubhaftmachungsmittel liegen vor (Testkauf, Screenshots)?
@@ -420,7 +420,7 @@ Handlungen, die **ausschließlich** Versuchszwecken dienen, sind keine Verletzun
 | Ergänzender Leistungsschutz: Begleitumstände? | ☐ |
 | Aktivlegitimation: Registerübertragung vollständig? | ☐ |
 
-## Kaltstart
+## Einstieg
 1. Welche Verletzungsklage oder welcher Einwand ist konkret?
 2. Liegt einer der Edge Cases vor (mittelbare Verletzung / Erschöpfung / Vorbenutzung)?
 3. Sind die relevanten Unterlagen vorhanden (Patent, Register, Testkauf)?

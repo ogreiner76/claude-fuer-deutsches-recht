@@ -1,22 +1,22 @@
 ---
 name: rechtsabteilung-gun-informationsaustausch
-description: "Nutze dies, wenn Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilung Informationsaustausch Im Branchenverband, Rechtsabteilung Meta Plattformdaten Als Kartell Und Datenschutzs, Rechtsabteilung Rpm Alarm Bei Haendler Und Franchise Kanaelen, Red Flags Checkliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-gun-jumping-im-signing-to-closing-fenster` | Rechtsabteilungs-Spezialskill für Gun-Jumping im Signing-to-Closing-Fenster: Clean-Team, Interim Covenants und Closing-Operations werden gegen Vollzugsverbot geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-informationsaustausch-im-branchenverband` | Rechtsabteilungs-Spezialskill für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs` | Rechtsabteilungs-Spezialskill für Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsnotiz zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-rpm-alarm-bei-haendler-und-franchise-kanaelen` | Rechtsabteilungs-Spezialskill für RPM-Alarm bei Händler- und Franchise-Kanälen: Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen rekonstruiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-gun-jumping-im-signing-to-closing-fenster` | Rechtsabteilungs-Fachmodul für Gun-Jumping im Signing-to-Closing-Fenster: Clean-Team, Interim Covenants und Closing-Operations werden gegen Vollzugsverbot geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-informationsaustausch-im-branchenverband` | Rechtsabteilungs-Fachmodul für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs` | Rechtsabteilungs-Fachmodul für Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsnotiz zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-rpm-alarm-bei-haendler-und-franchise-kanaelen` | Rechtsabteilungs-Fachmodul für RPM-Alarm bei Händler- und Franchise-Kanälen: Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen rekonstruiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `red-flags-checkliste` | Strukturierte Checkliste problematischer Muster in Marktabgrenzungen: ergebnisgetriebene Argumentation Zirkelschluesse fehlende oekonomische Fundierung selektive Datenwahl kuenstliche Marktverengung oder -erweiterung und Präzedenzfall-Missbrauch. Ausgabe als priorisierte Mängelliste. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Rechtsabteilung Gun Jumping Im Signing To Closing Fenster, Rechtsabteilun
 
 ## 1. `rechtsabteilung-gun-jumping-im-signing-to-closing-fenster`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Gun-Jumping im Signing-to-Closing-Fenster: Clean-Team, Interim Covenants und Closing-Operations werden gegen Vollzugsverbot geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Gun-Jumping im Signing-to-Closing-Fenster: Clean-Team, Interim Covenants und Closing-Operations werden gegen Vollzugsverbot geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Gun-Jumping im Signing-to-Closing-Fenster
 
@@ -75,7 +75,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-informationsaustausch-im-branchenverband`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Informationsaustausch im Branchenverband: Meetings, Benchmarks und Statistikmeldungen werden auf Zukunftspreise, Kosten und Kapazitäten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Informationsaustausch im Branchenverband
 
@@ -122,7 +122,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsnotiz zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsnotiz zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle
 
@@ -169,7 +169,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-rpm-alarm-bei-haendler-und-franchise-kanaelen`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für RPM-Alarm bei Händler- und Franchise-Kanälen: Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen rekonstruiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für RPM-Alarm bei Händler- und Franchise-Kanälen: Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen rekonstruiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen
 

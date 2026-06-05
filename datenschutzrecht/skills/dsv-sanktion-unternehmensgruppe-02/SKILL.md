@@ -1,21 +1,21 @@
 ---
 name: dsv-sanktion-unternehmensgruppe-02
-description: "Nutze dies, wenn Dsv Sanktion Unternehmensgruppe Und Federfuehrende Aufsicht, Dsv Sanktion Veroeffentlichung Von Bussgeldentscheidungen, Dsv Sanktion Verteidigerrolle Dsb Gf Und Externe Berater, Dsv Schadensersatz Art 82, Datenschutz Livecheck Bfdi Länder Aufsichtsbehoerden im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Dsv Sanktion Unternehmensgruppe Und Federfuehrende Aufsicht, Dsv Sanktion Veroeffentlichung Von Bussgeldentscheidungen, Dsv Sanktion Verteidigerrolle Dsb Gf Und Externe Berater, Dsv Schadensersatz Art 82, Datenschutz Livecheck Bfdi Länder Aufsichtsbehoerden prüfen.; Erstelle eine Arbeitsfassung zu Dsv Sanktion Unternehmensgruppe Und Federfuehrende Aufsicht, Dsv Sanktion Veroeffentlichung Von Bussgeldentscheidungen, Dsv Sanktion Verteidigerrolle Dsb Gf Und Externe Berater, Dsv Schadensersatz Art 82, Datenschutz Livecheck Bfdi Länder Aufsichtsbehoerden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsv Sanktion Unternehmensgruppe Und Federfuehrende Aufsicht, Dsv Sanktion Veroeffentlichung Von Bussgeldentscheidungen, Dsv Sanktion Verteidigerrolle Dsb Gf Und Externe Berater, Dsv Schadensersatz Art 82: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsv Sanktion Unternehmensgruppe Und Federfuehrende Aufsicht, Dsv Sanktion Veroeffentlichung Von Bussgeldentscheidungen, Dsv Sanktion Verteidigerrolle Dsb Gf Und Externe Berater, Dsv Schadensersatz Art 82, Datenschutz Livecheck Bfdi Länder Aufsichtsbehoerden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Sanktion Unternehmensgruppe Und Federfuehrende Aufsicht, Dsv Sanktion Veroeffentlichung Von Bussgeldentscheidungen, Dsv Sanktion Verteidigerrolle Dsb Gf Und Externe Berater, Dsv Schadensersatz Art 82, Datenschutz Livecheck Bfdi Länder Aufsichtsbehoerden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `dsv-sanktion-unternehmensgruppe-und-federfuehrende-aufsicht` | Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
-| `dsv-sanktion-veroeffentlichung-von-bussgeldentscheidungen` | Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
-| `dsv-sanktion-verteidigerrolle-dsb-gf-und-externe-berater` | Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-unternehmensgruppe-und-federfuehrende-aufsicht` | Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-veroeffentlichung-von-bussgeldentscheidungen` | Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-verteidigerrolle-dsb-gf-und-externe-berater` | Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
 | `dsv-schadensersatz-art-82` | Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterieller Schaden; EuGH-Rechtsprechung (insbesondere Österreichische Post C-300/21; Saturn C-687/21); Substantiierungsanforderungen; Bagatellschwelle; Kausalität; Exkulpation nach Art. 82 Abs. 3 DSGVO; gesamtschuldnerische Haftung. Output: Verteidigungsraster mit Schriftsatzgliederung. Abgrenzung: keine Bußgeldverteidigung. |
 | `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden` | Livecheck-Skill fuer aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zustaendige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-fuer-Schritt: NICHT aus Modellwissen zitieren immer Live-Quellen. Mustertexte fuer Live-Quellen-Notiz und Aktualisierungsvermerk. Liste der offiziellen Quellen ohne erfundene Datums. Abgrenzung: keine Subsumtion (datenschutz-erstgespraech-mandantenmatrix-7-fragen). |
 
@@ -28,7 +28,7 @@ Für **Dsv Sanktion Unternehmensgruppe Und Federfuehrende Aufsicht, Dsv Sanktion
 
 ## 1. `dsv-sanktion-unternehmensgruppe-und-federfuehrende-aufsicht`
 
-**Fokus:** Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+**Fokus:** Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 # Unternehmensgruppe und federführende Aufsicht
 
@@ -90,7 +90,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 ## 2. `dsv-sanktion-veroeffentlichung-von-bussgeldentscheidungen`
 
-**Fokus:** Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+**Fokus:** Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 # Veröffentlichung von Bußgeldentscheidungen
 
@@ -152,7 +152,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 ## 3. `dsv-sanktion-verteidigerrolle-dsb-gf-und-externe-berater`
 
-**Fokus:** Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+**Fokus:** Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 # Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater
 
@@ -313,16 +313,16 @@ Sieben-Fragen-Diagnose:
 ## Mandantenfuehrung Schritt-fuer-Schritt
 
 1. **Zuerst: Quellenliste pruefen.** Die folgenden offiziellen Quellen sind massgeblich:
-   - BfDI: bfdi.bund.de (Taetigkeitsberichte, Konsultationen, FAQ).
-   - EDSA: edpb.europa.eu (Leitlinien, Stellungnahmen, koordinierte Aktionen).
-   - EuGH: curia.europa.eu (Rechtsprechungsdatenbank).
-   - Bayerisches Landesamt fuer Datenschutzaufsicht: lda.bayern.de (privater Bereich, Bayern).
-   - LfDI BW: baden-wuerttemberg.datenschutz.de.
-   - Berliner Datenschutzbeauftragte: datenschutz-berlin.de.
-   - Hessischer Datenschutzbeauftragter: datenschutz.hessen.de.
-   - LfDI Niedersachsen: lfd.niedersachsen.de.
-   - LfDI NRW: ldi.nrw.de.
-   - Hamburgischer Datenschutzbeauftragter: datenschutz-hamburg.de.
+ - BfDI: bfdi.bund.de (Taetigkeitsberichte, Konsultationen, FAQ).
+ - EDSA: edpb.europa.eu (Leitlinien, Stellungnahmen, koordinierte Aktionen).
+ - EuGH: curia.europa.eu (Rechtsprechungsdatenbank).
+ - Bayerisches Landesamt fuer Datenschutzaufsicht: lda.bayern.de (privater Bereich, Bayern).
+ - LfDI BW: baden-wuerttemberg.datenschutz.de.
+ - Berliner Datenschutzbeauftragte: datenschutz-berlin.de.
+ - Hessischer Datenschutzbeauftragter: datenschutz.hessen.de.
+ - LfDI Niedersachsen: lfd.niedersachsen.de.
+ - LfDI NRW: ldi.nrw.de.
+ - Hamburgischer Datenschutzbeauftragter: datenschutz-hamburg.de.
 2. **Als zweites: Suche konkret.** Stichworte mit Norm (Art. 33 DSGVO, Art. 82 DSGVO) und Aktualitaet (2024, 2025, 2026).
 3. **Als drittes: NICHT aus Modellwissen zitieren.** Insbesondere keine Daten "BfDI Taetigkeitsbericht 2024" ohne Verifizierung.
 4. **Als viertes: Aktualisierungsvermerk in Akte.** Datum Recherche, Quelle, Ergebnis.

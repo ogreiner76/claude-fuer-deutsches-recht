@@ -1,13 +1,13 @@
 ---
 name: ruecklagen-mittelverwendung-rundbrief
-description: "Nutze dies, wenn Ruecklagen Mittelverwendung, Rundbrief Mitglieder, Satzung Grundstruktur im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Bitte Ruecklagen Mittelverwendung, Rundbrief Mitglieder, Satzung Grundstruktur prüfen.; Erstelle eine Arbeitsfassung zu Ruecklagen Mittelverwendung, Rundbrief Mitglieder, Satzung Grundstruktur.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ruecklagen Mittelverwendung, Rundbrief Mitglieder, Satzung Grundstruktur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ruecklagen Mittelverwendung, Rundbrief Mitglieder, Satzung Grundstruktur
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ruecklagen Mittelverwendung, Rundbrief Mitglieder, Satzung Grundstruktur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Ruecklagen Mittelverwendung, Rundbrief Mitglieder, Satzung Grundstruktur*
 ## Aufgabe
 Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erstellt klare Rundbriefe zu Versammlung, Beiträgen, Konflikten, Satzungsänderungen und Projekten.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Entwirft oder prüft Vereinszweck, Name, Sitz, Mitgliedschaft, Beiträge, Organe, Vorstand, Versammlung, Beschlüsse, Auflösung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

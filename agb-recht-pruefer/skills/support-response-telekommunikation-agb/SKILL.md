@@ -1,20 +1,20 @@
 ---
 name: support-response-telekommunikation-agb
-description: "Nutze dies, wenn Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren prüfen.; Erstelle eine Arbeitsfassung zu Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Uklag Unterlassung Verbandsklage, Unterlassungserklaerung Modifizieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `support-response-times` | Klausel-Spezialskill für Support Response Times: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `telekommunikation-agb` | Branchen-Spezialskill für Telekommunikation AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `support-response-times` | Klausel-Fachmodul für Support Response Times: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `telekommunikation-agb` | Branchen-Fachmodul für Telekommunikation AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `transparenzgebot-307` | Norm- und Dogmatik-Skill für Transparenzgebot 307: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `uklag-unterlassung-verbandsklage` | Norm- und Dogmatik-Skill für UKlaG Unterlassung Verbandsklage: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `unterlassungserklaerung-modifizieren` | Output- und Streit-Skill für Unterlassungserklärung Modifizieren: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
@@ -28,7 +28,7 @@ Für **Support Response Times, Telekommunikation Agb, Transparenzgebot 307, Ukla
 
 ## 1. `support-response-times`
 
-**Fokus:** Klausel-Spezialskill für Support Response Times: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Support Response Times: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Support Response Times
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `telekommunikation-agb`
 
-**Fokus:** Branchen-Spezialskill für Telekommunikation AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Telekommunikation AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Telekommunikation AGB
 
@@ -164,11 +164,11 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Transparenzgebot (§ 307 Abs. 1 S. 2 BGB):**
-   - **Vier Säulen:** (1) Bestimmtheit (kein Beurteilungsspielraum für Verwender), (2) Klarheit (durchschnittlicher Kunde versteht ohne fremde Hilfe), (3) Verständlichkeit (keine Fachsprache, keine Schachtelsätze), (4) Vollständigkeit (alle wesentlichen Folgen werden benannt, keine "Doppeldeutigkeit nach hinten").
-   - **§ 307 Abs. 1 S. 2 BGB gilt eigenständig:** Transparenzmangel macht die Klausel unwirksam, auch wenn die Klausel inhaltlich an sich vertretbar wäre - das ist eine Besonderheit gegenüber Abs. 1 S. 1, Abs. 2 BGB.
-   - **B2B:** Volle Geltung auch im B2B. Erleichterungen nur dort, wo der unternehmerische Verkehr typischerweise Klauselinhalt selbständig erschließt; bei Belastungsklauseln bleibt strenger Maßstab (BGH, ständige Rechtsprechung).
-   - **Verbraucherrichtlinienkonforme Auslegung:** Richtlinie 93/13/EWG Art. 5 verlangt klare und verständliche Abfassung; nach EuGH ist die Transparenzkontrolle materiell und nicht nur grammatikalisch zu führen.
-   - **Häufige Transparenzfehler:** "soweit gesetzlich zulässig", "im Wesentlichen", undefinierte Verweisketten zu Anlagen, Verweis auf "geltende Preisliste" ohne Bezugspunkt, dynamische Verweise ohne Trigger-Definition.
+ - **Vier Säulen:** (1) Bestimmtheit (kein Beurteilungsspielraum für Verwender), (2) Klarheit (durchschnittlicher Kunde versteht ohne fremde Hilfe), (3) Verständlichkeit (keine Fachsprache, keine Schachtelsätze), (4) Vollständigkeit (alle wesentlichen Folgen werden benannt, keine "Doppeldeutigkeit nach hinten").
+ - **§ 307 Abs. 1 S. 2 BGB gilt eigenständig:** Transparenzmangel macht die Klausel unwirksam, auch wenn die Klausel inhaltlich an sich vertretbar wäre - das ist eine Besonderheit gegenüber Abs. 1 S. 1, Abs. 2 BGB.
+ - **B2B:** Volle Geltung auch im B2B. Erleichterungen nur dort, wo der unternehmerische Verkehr typischerweise Klauselinhalt selbständig erschließt; bei Belastungsklauseln bleibt strenger Maßstab (BGH, ständige Rechtsprechung).
+ - **Verbraucherrichtlinienkonforme Auslegung:** Richtlinie 93/13/EWG Art. 5 verlangt klare und verständliche Abfassung; nach EuGH ist die Transparenzkontrolle materiell und nicht nur grammatikalisch zu führen.
+ - **Häufige Transparenzfehler:** "soweit gesetzlich zulässig", "im Wesentlichen", undefinierte Verweisketten zu Anlagen, Verweis auf "geltende Preisliste" ohne Bezugspunkt, dynamische Verweise ohne Trigger-Definition.
 6. **Rechtsfolge:** Unwirksamkeit nach § 306 Abs. 1 BGB, gesetzliches Recht greift; keine geltungserhaltende Reduktion auf "transparente" Teile.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

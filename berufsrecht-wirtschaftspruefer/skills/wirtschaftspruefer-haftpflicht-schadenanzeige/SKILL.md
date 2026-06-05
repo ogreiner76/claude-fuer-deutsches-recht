@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-haftpflicht-schadenanzeige
-description: "Nutze dies, wenn Wirtschaftspruefer Haftpflicht Und Schadenanzeige Rechtsprechun, Wirtschaftspruefer Sanktionen Russia Belarus Kammerantwort Und, Wirtschaftspruefer Sanktionen Russia Belarus Organisationspflic, Aktenfuehrung, Berufsausuebungsgesellschaft im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Haftpflicht Und Schadenanzeige Rechtsprechun, Wirtschaftspruefer Sanktionen Russia Belarus Kammerantwort Und, Wirtschaftspruefer Sanktionen Russia Belarus Organisationspflic, Aktenfuehrung, Berufsausuebungsgesellschaft prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Haftpflicht Und Schadenanzeige Rechtsprechun, Wirtschaftspruefer Sanktionen Russia Belarus Kammerantwort Und, Wirtschaftspruefer Sanktionen Russia Belarus Organisationspflic, Aktenfuehrung, Berufsausuebungsgesellschaft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wirtschaftspruefer Haftpflicht Und Schadenanzeige Rechtsprechun, Wirtschaftspruefer Sanktionen Russia Belarus Kammerantwort Und, Wirtschaftspruefer Sanktionen Russia Belarus Organisationspflic, Aktenfuehrung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Haftpflicht Und Schadenanzeige Rechtsprechun, Wirtschaftspruefer Sanktionen Russia Belarus Kammerantwort Und, Wirtschaftspruefer Sanktionen Russia Belarus Organisationspflic, Aktenfuehrung, Berufsausuebungsgesellschaft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Haftpflicht Und Schadenanzeige Rechtsprechun, Wirtschaftspruefer Sanktionen Russia Belarus Kammerantwort Und, Wirtschaftspruefer Sanktionen Russia Belarus Organisationspflic, Aktenfuehrung, Berufsausuebungsgesellschaft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

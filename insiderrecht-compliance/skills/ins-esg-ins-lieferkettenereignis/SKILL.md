@@ -1,13 +1,13 @@
 ---
 name: ins-esg-ins-lieferkettenereignis
-description: "Nutze dies, wenn Ins 051 Esg Schock, Ins 052 Lieferkettenereignis im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 051 Esg Schock, Ins 052 Lieferkettenereignis prüfen.; Erstelle eine Arbeitsfassung zu Ins 051 Esg Schock, Ins 052 Lieferkettenereignis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 051 Esg Schock, Ins 052 Lieferkettenereignis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 051 Esg Schock, Ins 052 Lieferkettenereignis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 051 Esg Schock, Ins 052 Lieferkettenereignis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -53,19 +53,19 @@ die Ad-hoc-Entscheidung sowie die Koordination mit Nachhaltigkeits- und Kommunik
 ### Schritt 1 – ESG-Ereignis-Klassifizierung
 
 - Environmental: Umweltunfall, Chemikalien-Austritt, CO₂-Bilanzskandale, Greenwashing-
-  Ermittlung, Verlust von Umweltzertifizierungen
+ Ermittlung, Verlust von Umweltzertifizierungen
 - Social: Arbeitnehmerrechtsverletzungen, Lieferkettenskandale, Diskriminierungsvorwürfe,
-  schwere Arbeitsunfälle
+ schwere Arbeitsunfälle
 - Governance: Korruptionsvorwürfe, Vorstandsabgang aus ethischen Gründen, Aufsichtsrats-
-  Interessenkonflikte, Whistleblower-Berichte über Fehlverhalten
+ Interessenkonflikte, Whistleblower-Berichte über Fehlverhalten
 
 ### Schritt 2 – Kursrelevanz-Beurteilung
 
 - Institutionelle Anleger: Viele haben ESG-Ausschlusslisten → ESG-Ereignis kann zur Erzwungenen
-  Abgabe von Anteilen durch ESG-Fonds führen
+ Abgabe von Anteilen durch ESG-Fonds führen
 - Regulatorisch: Drohende Bußgelder (CSRD-Verletzungen, Lieferkettensorgfaltspflichtengesetz)
 - Reputationsschaden: Quantifizierung schwierig, aber kursrelevant bei breiter
-  Medienberichterstattung
+ Medienberichterstattung
 - Vergleich mit Marktreaktionen auf ähnliche ESG-Ereignisse in der Branche
 
 ### Schritt 3 – Insiderinformations-Zeitpunkt
@@ -84,7 +84,7 @@ die Ad-hoc-Entscheidung sowie die Koordination mit Nachhaltigkeits- und Kommunik
 
 - PDMRs, die vom ESG-Ereignis wissen: Handelsverbot
 - Sustainability-Manager: Falls sie Zugang zu kursrelevanten ESG-Informationen haben,
-  müssen sie auf der Insiderliste stehen
+ müssen sie auf der Insiderliste stehen
 
 ## Red-Team-Fragen
 
@@ -131,7 +131,7 @@ den Entstehungszeitpunkt und koordiniert die Ad-hoc-Entscheidung mit dem Krisenm
 ### Schritt 1 – Lieferkettenereignis bewerten
 
 - Art des Ereignisses: Lieferanteninsolvenz, Naturkatastrophe, Geopolitik (Embargo, Krieg),
-  Qualitätsproblem, Transportunterbrechung
+ Qualitätsproblem, Transportunterbrechung
 - Betroffene Waren: Wie kritisch sind die betroffenen Materialien / Komponenten?
 - Substitute: Gibt es kurzfristig verfügbare Alternativen?
 - Zeitlicher Horizont: Kurze Unterbrechung (< 4 Wochen) vs. struktureller Ausfall
@@ -142,26 +142,26 @@ den Entstehungszeitpunkt und koordiniert die Ad-hoc-Entscheidung mit dem Krisenm
 - Vergleich mit Prognose: Wird die aktuelle Guidance noch haltbar sein?
 - Abweichung vom Analystenkonsensus
 - Lafonta-Test: Kursrichtung muss nicht vorhersagbar sein; verständiger Anleger würde die
-  Information dennoch berücksichtigen
+ Information dennoch berücksichtigen
 
 ### Schritt 3 – Insiderinformations-Zeitpunkt
 
 - Wann wurde die Beeinträchtigung intern erstmals als wesentlich eingeschätzt?
 - Interne Alerts (Supply-Chain-Management-System), Lieferanten-Meldungen
 - Frühestmöglicher Zeitpunkt: Erste konservative Schadensprognose, nicht erst beim
-  vollständigen Überblick
+ vollständigen Überblick
 
 ### Schritt 4 – Aufschub-Prüfung
 
 - Laufende Verhandlungen mit Alternativlieferanten: Legitimes Interesse möglich
 - Aber: Wenn Lieferkettenproblem zu Prognoseabweichung führt → kein Aufschub mehr zulässig
-  (keine laufenden Verhandlungen über das Kernproblem)
+ (keine laufenden Verhandlungen über das Kernproblem)
 
 ### Schritt 5 – Koordination mit Krisenmanagement
 
 - Compliance und Krisenmanagement-Team gleichzeitig informieren
 - Kommunikationsfreiheit: Nach Ad-hoc können Details mit Journalisten und Analysten
-  besprochen werden
+ besprochen werden
 - LkSG-Meldepflichten: Parallel prüfen (Lieferkettensorgfaltspflichtengesetz)
 
 ## Red-Team-Fragen

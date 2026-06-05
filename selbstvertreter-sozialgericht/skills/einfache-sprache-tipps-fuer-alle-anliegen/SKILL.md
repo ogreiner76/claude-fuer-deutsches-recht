@@ -42,7 +42,7 @@ Keine direkten — aber gute Praxis hilft bei jedem Verfahren.
 ```
 [Briefkopf]
 
-[Empfaenger]                                  [Ort, Datum]
+[Empfaenger] [Ort, Datum]
 
 [Aktenzeichen]
 [Betreff]

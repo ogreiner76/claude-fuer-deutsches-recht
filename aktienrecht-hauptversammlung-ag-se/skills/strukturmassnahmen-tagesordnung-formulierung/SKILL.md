@@ -1,22 +1,22 @@
 ---
 name: strukturmassnahmen-tagesordnung-formulierung
-description: "Nutze dies, wenn Strukturmassnahmen, Tagesordnung Formulierung, Technische Stoerung Virtuelle Hv, Technisches Drehbuch im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Strukturmassnahmen, Tagesordnung Formulierung, Technische Stoerung Virtuelle Hv, Technisches Drehbuch prüfen.; Erstelle eine Arbeitsfassung zu Strukturmassnahmen, Tagesordnung Formulierung, Technische Stoerung Virtuelle Hv, Technisches Drehbuch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strukturmassnahmen, Tagesordnung Formulierung, Technische Stoerung Virtuelle Hv, Technisches Drehbuch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Strukturmassnahmen, Tagesordnung Formulierung, Technische Stoerung Virtuelle Hv, Technisches Drehbuch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strukturmassnahmen, Tagesordnung Formulierung, Technische Stoerung Virtuelle Hv, Technisches Drehbuch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `strukturmassnahmen` | Hauptversammlung AG und SE: Strukturmassnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `tagesordnung-formulierung` | Hauptversammlung AG und SE: Tagesordnung Formulierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `technische-stoerung-virtuelle-hv` | Hauptversammlung AG und SE: Technische Stoerung Virtuelle HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `technisches-drehbuch` | Hauptversammlung AG und SE: Technisches Drehbuch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `strukturmassnahmen` | Hauptversammlung AG und SE: Strukturmassnahmen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `tagesordnung-formulierung` | Hauptversammlung AG und SE: Tagesordnung Formulierung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `technische-stoerung-virtuelle-hv` | Hauptversammlung AG und SE: Technische Stoerung Virtuelle HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `technisches-drehbuch` | Hauptversammlung AG und SE: Technisches Drehbuch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Strukturmassnahmen, Tagesordnung Formulierung, Technische Stoerung Virtue
 
 ## 1. `strukturmassnahmen`
 
-**Fokus:** Hauptversammlung AG und SE: Strukturmassnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Strukturmassnahmen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Strukturmassnahmen
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `tagesordnung-formulierung`
 
-**Fokus:** Hauptversammlung AG und SE: Tagesordnung Formulierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Tagesordnung Formulierung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Tagesordnung Formulierung
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `technische-stoerung-virtuelle-hv`
 
-**Fokus:** Hauptversammlung AG und SE: Technische Stoerung Virtuelle HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Technische Stoerung Virtuelle HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Technische Stoerung Virtuelle HV
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `technisches-drehbuch`
 
-**Fokus:** Hauptversammlung AG und SE: Technisches Drehbuch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Technisches Drehbuch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Technisches Drehbuch
 

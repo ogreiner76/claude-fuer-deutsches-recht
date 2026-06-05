@@ -1,13 +1,13 @@
 ---
 name: kirk-leitfaden-kirk-prompts-kr-executive
-description: "Nutze dies, wenn Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template prüfen.; Erstelle eine Arbeitsfassung zu Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -177,7 +177,7 @@ Dieser Skill erzeugt einen Ein-Seiten-Executive-Summary der KI-Nutzungsrichtlini
 
 ```
 KI-NUTZUNG IN [KANZLEI/RECHTSABTEILUNG] — EXECUTIVE SUMMARY
-Stand: [MONAT/JAHR]  |  Version [X.Y]  |  Naechste Revision: [DATUM]
+Stand: [MONAT/JAHR] | Version [X.Y] | Naechste Revision: [DATUM]
 
 WAS IST ERLAUBT
 - Nutzung der freigegebenen KI-Tools laut Anlage Tool-Katalog
@@ -206,10 +206,10 @@ ANLAUFSTELLEN
 NAECHSTE REVISION
 - Plantermin: [DATUM]
 - Anlass-Revisionen sofort: KI-VO-Durchfuehrungsrechtsakte, neue BRAK-Hinweise,
-  Schrems-III, neue Anbieter-Risiken
+ Schrems-III, neue Anbieter-Risiken
 - Diese Seite ersetzt nicht die Vollrichtlinie (Anlage 1)
 
-[UNTERSCHRIFT GESCHAEFTSFUEHRUNG]   [UNTERSCHRIFT KI-BEAUFTRAGTER]
+[UNTERSCHRIFT GESCHAEFTSFUEHRUNG] [UNTERSCHRIFT KI-BEAUFTRAGTER]
 ```
 
 Pro Block maximal 50 Worte, gesamt unter 300 Worte. Schriftgrad 11 Punkt.

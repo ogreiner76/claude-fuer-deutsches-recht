@@ -1,13 +1,13 @@
 ---
 name: urteil-rechtskraft-urteilsverkuendung-zpo
-description: "Nutze dies, wenn Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo prüfen.; Erstelle eine Arbeitsfassung zu Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29c Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29C Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -182,14 +182,14 @@ Manchmal verkuendet das Gericht direkt am Termin. Vorsitzender liest den **Tenor
 "Es wird verkuendet:
 
 1. Der Beklagte wird verurteilt, an die
-   Klaegerin 1.500 EUR nebst Zinsen seit
-   5.4.2025 zu zahlen.
+ Klaegerin 1.500 EUR nebst Zinsen seit
+ 5.4.2025 zu zahlen.
 
 2. Im Uebrigen wird die Klage abgewiesen.
 
 3. Die Kosten des Rechtsstreits tragen
-   die Klaegerin zu 20 % und der Beklagte
-   zu 80 %.
+ die Klaegerin zu 20 % und der Beklagte
+ zu 80 %.
 
 4. Das Urteil ist vorlaeufig vollstreckbar."
 ```

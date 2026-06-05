@@ -1,22 +1,22 @@
 ---
 name: ausschlussklage-austritt-kuendigung-bank
-description: "Nutze dies, wenn Ausschlussklage, Austritt Kündigung, Bank Und Finanziererrolle, Beschlussanfechtung im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Ausschlussklage, Austritt Kündigung, Bank Und Finanziererrolle, Beschlussanfechtung prüfen.; Erstelle eine Arbeitsfassung zu Ausschlussklage, Austritt Kündigung, Bank Und Finanziererrolle, Beschlussanfechtung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ausschlussklage, Austritt Kündigung, Bank Und Finanziererrolle, Beschlussanfechtung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ausschlussklage, Austritt Kündigung, Bank Und Finanziererrolle, Beschlussanfechtung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ausschlussklage, Austritt Kündigung, Bank Und Finanziererrolle, Beschlussanfechtung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `ausschlussklage` | Gesellschaftsrechtliche Treuepflicht: Ausschlussklage; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `austritt-kuendigung` | Gesellschaftsrechtliche Treuepflicht: Austritt Kuendigung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `bank-und-finanziererrolle` | Gesellschaftsrechtliche Treuepflicht: Bank Und Finanziererrolle; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beschlussanfechtung` | Gesellschaftsrechtliche Treuepflicht: Beschlussanfechtung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ausschlussklage` | Gesellschaftsrechtliche Treuepflicht: Ausschlussklage; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `austritt-kuendigung` | Gesellschaftsrechtliche Treuepflicht: Austritt Kuendigung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `bank-und-finanziererrolle` | Gesellschaftsrechtliche Treuepflicht: Bank Und Finanziererrolle; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beschlussanfechtung` | Gesellschaftsrechtliche Treuepflicht: Beschlussanfechtung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Ausschlussklage, Austritt Kündigung, Bank Und Finanziererrolle, Beschlus
 
 ## 1. `ausschlussklage`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Ausschlussklage; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Ausschlussklage; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Ausschlussklage
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `austritt-kuendigung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Austritt Kuendigung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Austritt Kuendigung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Austritt Kuendigung
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `bank-und-finanziererrolle`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Bank Und Finanziererrolle; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Bank Und Finanziererrolle; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Bank Und Finanziererrolle
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beschlussanfechtung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Beschlussanfechtung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Beschlussanfechtung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beschlussanfechtung
 

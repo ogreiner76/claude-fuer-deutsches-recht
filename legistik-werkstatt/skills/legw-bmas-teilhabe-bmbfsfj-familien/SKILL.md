@@ -1,13 +1,13 @@
 ---
 name: legw-bmas-teilhabe-bmbfsfj-familien
-description: "Nutze dies, wenn Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii, Legw Bmbfsfj Schul Und Berufsbildungsrecht und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii, Legw Bmbfsfj Schul Und Berufsbildungsrecht und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii, Legw Bmbfsfj Schul Und Berufsbildungsrecht und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii, Legw Bmbfsfj Schul Und Berufsbildungsrecht und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii, Legw Bmbfsfj Schul Und Berufsbildungsrecht und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,16 +87,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Teilhaberecht (SGB IX)
-Ressort:            BMAS
-Kernnormen:         SGB IX; SchwbAV; BTHG; SGB XII; AGG.
-Akteure/Aufsicht:   Integrationsaemter; Reha-Traeger; Bundesagentur fuer Arbeit; Sozialgerichte.
-EU/Voelkerrecht:    UN-BRK; EU-Beschaeftigungsrichtlinien.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Teilhaberecht (SGB IX)
+Ressort: BMAS
+Kernnormen: SGB IX; SchwbAV; BTHG; SGB XII; AGG.
+Akteure/Aufsicht: Integrationsaemter; Reha-Traeger; Bundesagentur fuer Arbeit; Sozialgerichte.
+EU/Voelkerrecht: UN-BRK; EU-Beschaeftigungsrichtlinien.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -169,16 +169,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Familien- und Elterngeldrecht
-Ressort:            BMBFSFJ
-Kernnormen:         BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.
-Akteure/Aufsicht:   Elterngeldstellen der Laender; BMBFSFJ; Familiengerichte.
-EU/Voelkerrecht:    Work-Life-Balance-RL; Mutterschutz-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Familien- und Elterngeldrecht
+Ressort: BMBFSFJ
+Kernnormen: BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.
+Akteure/Aufsicht: Elterngeldstellen der Laender; BMBFSFJ; Familiengerichte.
+EU/Voelkerrecht: Work-Life-Balance-RL; Mutterschutz-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -251,16 +251,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Gleichstellungs- und Antidiskriminierungsrecht
-Ressort:            BMBFSFJ
-Kernnormen:         AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.
-Akteure/Aufsicht:   Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.
-EU/Voelkerrecht:    Gleichbehandlungs-RL; Pay-Transparency-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Gleichstellungs- und Antidiskriminierungsrecht
+Ressort: BMBFSFJ
+Kernnormen: AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.
+Akteure/Aufsicht: Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.
+EU/Voelkerrecht: Gleichbehandlungs-RL; Pay-Transparency-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -333,16 +333,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Kinder- und Jugendhilferecht (SGB VIII)
-Ressort:            BMBFSFJ
-Kernnormen:         SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.
-Akteure/Aufsicht:   Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale fuer Kinder- und Jugend-medienschutz (BzKJ).
-EU/Voelkerrecht:    Kinderschutz-Strategie EU; UN-KRK.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Kinder- und Jugendhilferecht (SGB VIII)
+Ressort: BMBFSFJ
+Kernnormen: SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.
+Akteure/Aufsicht: Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale fuer Kinder- und Jugend-medienschutz (BzKJ).
+EU/Voelkerrecht: Kinderschutz-Strategie EU; UN-KRK.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -415,16 +415,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Schul- und Berufsbildungsrecht
-Ressort:            BMBFSFJ
-Kernnormen:         BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Laender; AufstFoeG.
-Akteure/Aufsicht:   BMBFSFJ; Laender-Kultusministerien; KMK; BIBB; Berufsverbaende.
-EU/Voelkerrecht:    Berufsanerkennungs-RL; Europass; Erasmus+.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Schul- und Berufsbildungsrecht
+Ressort: BMBFSFJ
+Kernnormen: BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Laender; AufstFoeG.
+Akteure/Aufsicht: BMBFSFJ; Laender-Kultusministerien; KMK; BIBB; Berufsverbaende.
+EU/Voelkerrecht: Berufsanerkennungs-RL; Europass; Erasmus+.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -497,16 +497,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Seniorenrecht und Pflegevorbeugung
-Ressort:            BMBFSFJ
-Kernnormen:         SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Laender; HGB-Bezuege.
-Akteure/Aufsicht:   BMBFSFJ; BMG (Schnittstelle Pflege); Laender-Heimaufsichten.
-EU/Voelkerrecht:    Care-Strategy der EU.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Seniorenrecht und Pflegevorbeugung
+Ressort: BMBFSFJ
+Kernnormen: SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Laender; HGB-Bezuege.
+Akteure/Aufsicht: BMBFSFJ; BMG (Schnittstelle Pflege); Laender-Heimaufsichten.
+EU/Voelkerrecht: Care-Strategy der EU.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -579,16 +579,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Datenrecht und Data Act
-Ressort:            BMDS
-Kernnormen:         Data Act (EU); Data Governance Act (EU); BDSG; IFG; UIG.
-Akteure/Aufsicht:   BMDS; BfDI; ggf. Datenmittlerdienste-Aufsicht; BNetzA.
-EU/Voelkerrecht:    Data Act; Data Governance Act; Open Data RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmds; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Datenrecht und Data Act
+Ressort: BMDS
+Kernnormen: Data Act (EU); Data Governance Act (EU); BDSG; IFG; UIG.
+Akteure/Aufsicht: BMDS; BfDI; ggf. Datenmittlerdienste-Aufsicht; BNetzA.
+EU/Voelkerrecht: Data Act; Data Governance Act; Open Data RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -661,16 +661,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Digitale Verwaltung (OZG; EGovG)
-Ressort:            BMDS
-Kernnormen:         OZG; OZG-AeG; EGovG; EGovG-Laender; eIDAS-DurchG; XOeV.
-Akteure/Aufsicht:   BMDS; ITZBund; FITKO; Laender-CIOs; Bundesdruckerei.
-EU/Voelkerrecht:    Single Digital Gateway; eIDAS 2.0; EU Digital Wallet.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmds; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Digitale Verwaltung (OZG; EGovG)
+Ressort: BMDS
+Kernnormen: OZG; OZG-AeG; EGovG; EGovG-Laender; eIDAS-DurchG; XOeV.
+Akteure/Aufsicht: BMDS; ITZBund; FITKO; Laender-CIOs; Bundesdruckerei.
+EU/Voelkerrecht: Single Digital Gateway; eIDAS 2.0; EU Digital Wallet.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

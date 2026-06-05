@@ -1,6 +1,6 @@
 ---
 name: kuendigung-aus-wichtigem-grund
-description: "Klausel-Spezialskill für Kündigung Aus Wichtigem Grund: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Kündigung Aus Wichtigem Grund: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Kündigung Aus Wichtigem Grund

@@ -1,13 +1,13 @@
 ---
 name: stv-haltverbot-eilrechtsschutz-behoerde
-description: "Nutze dies, wenn Stv 027 Haltverbot Eilrechtsschutz Planen, Stv 028 Haltverbot Behörde Anschreiben, Stv 029 Haltverbot Karte Bauen, Stv 030 Haltverbot Risiko Erklaeren im Plugin Strassenverkehrsrecht Stvo konkret bearbeitet werden soll. Auslöser: Bitte Stv 027 Haltverbot Eilrechtsschutz Planen, Stv 028 Haltverbot Behörde Anschreiben, Stv 029 Haltverbot Karte Bauen, Stv 030 Haltverbot Risiko Erklaeren prüfen.; Erstelle eine Arbeitsfassung zu Stv 027 Haltverbot Eilrechtsschutz Planen, Stv 028 Haltverbot Behörde Anschreiben, Stv 029 Haltverbot Karte Bauen, Stv 030 Haltverbot Risiko Erklaeren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stv 027 Haltverbot Eilrechtsschutz Planen, Stv 028 Haltverbot Behörde Anschreiben, Stv 029 Haltverbot Karte Bauen, Stv 030 Haltverbot Risiko Erklaeren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stv 027 Haltverbot Eilrechtsschutz Planen, Stv 028 Haltverbot Behörde Anschreiben, Stv 029 Haltverbot Karte Bauen, Stv 030 Haltverbot Risiko Erklaeren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stv 027 Haltverbot Eilrechtsschutz Planen, Stv 028 Haltverbot Behörde Anschreiben, Stv 029 Haltverbot Karte Bauen, Stv 030 Haltverbot Risiko Erklaeren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

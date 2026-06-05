@@ -1,13 +1,13 @@
 ---
 name: produktfreigabe-new-restrukturierung
-description: "Nutze dies, wenn Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien, Anzv Kwg Anzeigenkalender Bafin Bundesbank im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien, Anzv Kwg Anzeigenkalender Bafin Bundesbank
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien, Anzv Kwg Anzeigenkalender Bafin Bundesbank** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -17,7 +17,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `restrukturierung-kreditengagement` | Restrukturierung eines Kreditengagements steuern: Strategie, Sicherheiten, Pool, StaRUG-/InsO-Schnittstelle, Sanierungsbeiträge, Kommunikation und interne Kreditakte ordnen. |
 | `anwaltliche-rechnungen-review` | Anwaltliche Rechnungen und Kanzlei-Budgets reviewen: Scope-Abgleich, RVG oder Honorarvereinbarung, Zeitpositionen, Auslagen, USt, Doppelarbeit, Erfolg, Billing Guidelines und Kürzungsvorschlag. |
 | `anzahlungs-gewaehrleistungs-und-erfuellungsgarantien` | Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien für Bankkunden prüfen: Sicherungszweck, Abruftext, Laufzeit, Projekt-/Baurisiko, Rückgabe, Reduzierung, Avalrahmen und Liquiditätseffekt. |
-| `anzv-kwg-anzeigenkalender-bafin-bundesbank` | AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-Workflow bringen. |
+| `anzv-kwg-anzeigenkalender-bafin-bundesbank` | AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-bringen. |
 
 ## Arbeitsweg
 
@@ -446,7 +446,7 @@ Ergänze:
 
 ## 5. `anzv-kwg-anzeigenkalender-bafin-bundesbank`
 
-**Fokus:** AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-Workflow bringen.
+**Fokus:** AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-bringen.
 
 # AnzV/KWG-Anzeigenkalender BaFin und Bundesbank
 

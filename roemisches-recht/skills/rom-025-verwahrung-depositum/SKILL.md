@@ -1,6 +1,6 @@
 ---
 name: rom-025-verwahrung-depositum
-description: "Römisches Recht: Verwahrung Depositum. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Verwahrung Depositum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Verwahrung Depositum

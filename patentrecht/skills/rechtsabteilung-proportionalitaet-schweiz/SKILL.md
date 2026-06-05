@@ -1,32 +1,32 @@
 ---
 name: rechtsabteilung-proportionalitaet-schweiz
-description: "Nutze dies, wenn Rechtsabteilung Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Spezial Erfindungsaufnahme Tatbestand Beweis Und Belege im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Spezial Erfindungsaufnahme Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Spezial Erfindungsaufnahme Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Erfindungsaufnahme Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Rechtsabteilung Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Spezial Erfindungsaufnahme Tatbestand Beweis Und Belege
+# Rechtsabteilung Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Erfindungsaufnahme Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Erfindungsaufnahme Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-proportionalitaet-der-unterlassung-139-patg` | Rechtsabteilungs-Spezialskill für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-proportionalitaet-der-unterlassung-139-patg` | Rechtsabteilungs-Fachmodul für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `schweiz-patentrecht-bundespatentgericht` | Prüft Schweizer Patentrecht: Swissreg/IGE, nationale Patente, EP-Validierung, Bundespatentgericht, Verletzung, Nichtigkeit, vorsorgliche Maßnahmen und DACH-Abgrenzung. |
 | `spezial-erfindungsaufnahme-tatbestand-beweis-und-belege` | Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin patentrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-Für **Rechtsabteilung Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Spezial Erfindungsaufnahme Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsabteilung Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Erfindungsaufnahme Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-proportionalitaet-der-unterlassung-139-patg`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Proportionalität der Unterlassung § 139 PatG
 
@@ -74,7 +74,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 Schweizer Register-, Verletzungs- und Nichtigkeitsroute mit Bundespatentgericht.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 
@@ -129,7 +129,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 # Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial erfindungsaufnahme tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage / erfindungsaufnahme tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FTO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

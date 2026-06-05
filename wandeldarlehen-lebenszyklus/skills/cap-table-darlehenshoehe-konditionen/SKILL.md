@@ -1,13 +1,13 @@
 ---
 name: cap-table-darlehenshoehe-konditionen
-description: "Nutze dies, wenn Cap Table Update Pre Post, Darlehenshoehe Konditionen im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Bitte Cap Table Update Pre Post, Darlehenshoehe Konditionen prüfen.; Erstelle eine Arbeitsfassung zu Cap Table Update Pre Post, Darlehenshoehe Konditionen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Cap Table Update Pre Post, Darlehenshoehe Konditionen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Cap Table Update Pre Post, Darlehenshoehe Konditionen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Cap Table Update Pre Post, Darlehenshoehe Konditionen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

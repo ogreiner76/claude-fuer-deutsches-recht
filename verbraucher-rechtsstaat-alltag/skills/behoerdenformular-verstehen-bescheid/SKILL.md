@@ -1,13 +1,13 @@
 ---
 name: behoerdenformular-verstehen-bescheid
-description: "Nutze dies, wenn Behoerdenformular Verstehen, Bescheid Brief Verstehen, Datenschutz Auskunft Löschung im Plugin Verbraucher Rechtsstaat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Behoerdenformular Verstehen, Bescheid Brief Verstehen, Datenschutz Auskunft Löschung prüfen.; Erstelle eine Arbeitsfassung zu Behoerdenformular Verstehen, Bescheid Brief Verstehen, Datenschutz Auskunft Löschung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Behoerdenformular Verstehen, Bescheid Brief Verstehen, Datenschutz Auskunft Löschung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Behoerdenformular Verstehen, Bescheid Brief Verstehen, Datenschutz Auskunft Löschung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Behoerdenformular Verstehen, Bescheid Brief Verstehen, Datenschutz Auskunft Löschung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

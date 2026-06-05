@@ -1,21 +1,21 @@
 ---
 name: textform-paragraph-verteidigungsstrategie
-description: "Nutze dies, wenn Textform Paragraph 126B Bgb Dauerhafter Datentraeger, Verteidigungsstrategie Bei Formangriff, Wohnraummiete Kündigung Paragraph 568 Bgb im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Bitte Textform Paragraph 126B Bgb Dauerhafter Datentraeger, Verteidigungsstrategie Bei Formangriff, Wohnraummiete Kündigung Paragraph 568 Bgb prüfen.; Erstelle eine Arbeitsfassung zu Textform Paragraph 126B Bgb Dauerhafter Datentraeger, Verteidigungsstrategie Bei Formangriff, Wohnraummiete Kündigung Paragraph 568 Bgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Textform Paragraph 126b Bgb Dauerhafter Datentraeger, Verteidigungsstrategie Bei Formangriff, Wohnraummiete Kündigung Paragraph 568 Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Textform Paragraph 126B Bgb Dauerhafter Datentraeger, Verteidigungsstrategie Bei Formangriff, Wohnraummiete Kündigung Paragraph 568 Bgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Textform Paragraph 126B Bgb Dauerhafter Datentraeger, Verteidigungsstrategie Bei Formangriff, Wohnraummiete Kündigung Paragraph 568 Bgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `textform-paragraph-126b-bgb-dauerhafter-datentraeger` | Workflow-Skill zu textform paragraph 126b bgb dauerhafter datentraeger. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `textform-paragraph-126b-bgb-dauerhafter-datentraeger` | Arbeitsmodul zu textform paragraph 126b bgb dauerhafter datentraeger: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `verteidigungsstrategie-bei-formangriff` | Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB) Nachholung der Form § 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst arglistig handelte) Beweislastverteilung. Output: Verteidigungsstrategie-Memo und Klausel-Aenderungsvorschlaege. Abgrenzung zu anspruchsformulierungen-bei-formverstoss (Angreifer-Seite) und form-checker-fuer-vertrag-oder-willenserklärung. |
-| `wohnraummiete-kuendigung-paragraph-568-bgb` | Workflow-Skill zu wohnraummiete kuendigung paragraph 568 bgb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `wohnraummiete-kuendigung-paragraph-568-bgb` | Arbeitsmodul zu wohnraummiete kuendigung paragraph 568 bgb: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -26,17 +26,17 @@ Für **Textform Paragraph 126B Bgb Dauerhafter Datentraeger, Verteidigungsstrate
 
 ## 1. `textform-paragraph-126b-bgb-dauerhafter-datentraeger`
 
-**Fokus:** Workflow-Skill zu textform paragraph 126b bgb dauerhafter datentraeger. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu textform paragraph 126b bgb dauerhafter datentraeger: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Textform § 126b BGB — Dauerhafter Datenträger
 
 ## Rechtsgrundlagen
 
 - **§ 126b BGB** — Textform: Erklärung in Textform muss
-  - in einer lesbaren Schrift abgegeben sein
-  - die Person des Erklärenden nennen
-  - den Abschluss der Erklärung erkennbar machen (z. B. durch Wiedergabe des Namens oder Signatur)
-  - auf einem dauerhaften Datenträger abgegeben oder zugegangen sein
+ - in einer lesbaren Schrift abgegeben sein
+ - die Person des Erklärenden nennen
+ - den Abschluss der Erklärung erkennbar machen (z. B. durch Wiedergabe des Namens oder Signatur)
+ - auf einem dauerhaften Datenträger abgegeben oder zugegangen sein
 
 - **§ 126b S. 2 BGB** — Dauerhafter Datenträger: Mittel, das es dem Empfänger ermöglicht, eine inhaltlich unveränderte Erklärung für einen angemessenen Zeitraum zu speichern und zu reproduzieren
 
@@ -195,31 +195,31 @@ Wenn keine gesetzliche Heilungsnorm existiert, können die Parteien das Rechtsge
 
 ```
 SCHRITT 1: Liegt tatsächlich ein Formmangel vor?
-  → Welche Form war vorgeschrieben? (Gesetzliche oder gewillkürte Form?)
-  → Wurde die Form eingehalten? (Unterschrift? qES? Textform?)
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → Welche Form war vorgeschrieben? (Gesetzliche oder gewillkürte Form?)
+ → Wurde die Form eingehalten? (Unterschrift? qES? Textform?)
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 SCHRITT 2: Ist Heilung möglich?
-  → § 311b Abs. 1 S. 2 BGB (Grundstück): Auflassung + Eintragung?
-  → § 766 S. 3 BGB (Bürgschaft): Hauptschuld erfüllt?
-  → § 518 Abs. 2 BGB (Schenkung): Leistung vollzogen?
-  → Sonstige gesetzliche Heilungsnorm?
+ → § 311b Abs. 1 S. 2 BGB (Grundstück): Auflassung + Eintragung?
+ → § 766 S. 3 BGB (Bürgschaft): Hauptschuld erfüllt?
+ → § 518 Abs. 2 BGB (Schenkung): Leistung vollzogen?
+ → Sonstige gesetzliche Heilungsnorm?
 
 SCHRITT 3: Nachholung der Form möglich?
-  → Neuerklärung in der gesetzlich vorgeschriebenen Form
-  → Sind alle Voraussetzungen für eine wirksame Neuerklärung erfüllbar?
-  → Frist: Liegt noch Zeit für formwirksame Neuerklärung vor Verjährung / Fristablauf?
+ → Neuerklärung in der gesetzlich vorgeschriebenen Form
+ → Sind alle Voraussetzungen für eine wirksame Neuerklärung erfüllbar?
+ → Frist: Liegt noch Zeit für formwirksame Neuerklärung vor Verjährung / Fristablauf?
 
 SCHRITT 4: § 242 BGB — Treuwidrigkeitseinwand?
-  → Hat die andere Partei den Formmangel selbst veranlasst?
-  → Liegt schützenswertes Vertrauen oder Vollzug vor?
-  → Ist die Berufung auf den Formmangel schlechthin unerträglich?
-  → Ist Spekulationsabsicht der anderen Partei erkennbar?
+ → Hat die andere Partei den Formmangel selbst veranlasst?
+ → Liegt schützenswertes Vertrauen oder Vollzug vor?
+ → Ist die Berufung auf den Formmangel schlechthin unerträglich?
+ → Ist Spekulationsabsicht der anderen Partei erkennbar?
 
 SCHRITT 5: Beweislast
-  → Wer behauptet den Formmangel?
-  → Wer trägt die Beweislast für die Formwahrung?
-  → Welche Beweismittel stehen zur Verfügung?
+ → Wer behauptet den Formmangel?
+ → Wer trägt die Beweislast für die Formwahrung?
+ → Welche Beweismittel stehen zur Verfügung?
 ```
 
 ### Einwand gegen Räumungsklage nach formwidriger Kündigung
@@ -257,17 +257,17 @@ die Unwirksamkeit im Rechtsstreit geltend zu machen.
 § 242 BGB — Treuwidrigkeitseinwand gegen Berufung auf Formmangel
 
 I. Die Gegenpartei hat den Formmangel selbst veranlasst:
-   [Sachverhaltsdarstellung: Wer hat warum die Schriftform nicht eingehalten?]
+ [Sachverhaltsdarstellung: Wer hat warum die Schriftform nicht eingehalten?]
 
 II. Schützenswertes Vertrauen / Vollzug:
-   [Darstellung: Partei hat auf Wirksamkeit des Vertrags vertraut, Leistungen erbracht]
+ [Darstellung: Partei hat auf Wirksamkeit des Vertrags vertraut, Leistungen erbracht]
 
 III. Unzumutbarkeit der Formmangel-Berufung:
-   [Darstellung: welche konkreten Nachteile entstehen bei Nichtigkeitserklärung?]
+ [Darstellung: welche konkreten Nachteile entstehen bei Nichtigkeitserklärung?]
 
 IV. Kein Schutzzweck der Formnorm verletzt:
-   [Prüfung: Schutzzweck der verletzten Formnorm — verlangt der Schutzzweck hier
-    wirklich Nichtigkeit oder schützt § 242 BGB die schutzwürdigere Partei?]
+ [Prüfung: Schutzzweck der verletzten Formnorm — verlangt der Schutzzweck hier
+ wirklich Nichtigkeit oder schützt § 242 BGB die schutzwürdigere Partei?]
 
 Ergebnis: Die Berufung auf den Formmangel ist im konkreten Fall nach
 § 242 BGB ausgeschlossen.
@@ -295,7 +295,7 @@ Quelle: https://www.otto-schmidt.de/blog/zivil-und-zivilverfahrensrecht-blog/mon
 
 ## 3. `wohnraummiete-kuendigung-paragraph-568-bgb`
 
-**Fokus:** Workflow-Skill zu wohnraummiete kuendigung paragraph 568 bgb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu wohnraummiete kuendigung paragraph 568 bgb: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Wohnraummiete-Kündigung — § 568 BGB und Formfragen
 
@@ -333,42 +333,42 @@ Der BGH hat entschieden, dass eine formwirksame qES-Kündigung dem Mieter so zug
 
 ```
 □ Berechtigtes Interesse vorhanden? (§ 573 BGB)
-   → Eigenbedarf? Pflichtverletzung? Wirtschaftliche Verwertung?
+ → Eigenbedarf? Pflichtverletzung? Wirtschaftliche Verwertung?
 
 □ Kündigungsfrist berechnet? (§ 573c BGB)
-   → bis 5 Jahre Mietdauer: 3 Monate
-   → bis 8 Jahre: 6 Monate
-   → über 8 Jahre: 9 Monate
+ → bis 5 Jahre Mietdauer: 3 Monate
+ → bis 8 Jahre: 6 Monate
+ → über 8 Jahre: 9 Monate
 
 □ Formwahl:
-   Option A (empfohlen): Papierkündigung mit eigenhändiger Unterschrift
-     → Bote mit Übergabequittung oder Einschreiben/Rückschein
+ Option A (empfohlen): Papierkündigung mit eigenhändiger Unterschrift
+ → Bote mit Übergabequittung oder Einschreiben/Rückschein
 
-   Option B (zulässig, aber risikobehaftet): qES-Kündigung per E-Mail
-     → PDF mit qES als Anhang an Mieter
-     → Eingangsbestätigung anfordern
-     → Sendebericht sichern
-     → Hinweis in E-Mail: rechtliches Dokument mit qES
+ Option B (zulässig, aber risikobehaftet): qES-Kündigung per E-Mail
+ → PDF mit qES als Anhang an Mieter
+ → Eingangsbestätigung anfordern
+ → Sendebericht sichern
+ → Hinweis in E-Mail: rechtliches Dokument mit qES
 
 □ Begründung in der Kündigung enthalten? (§ 573 Abs. 3 BGB)
 
 □ Zugang des Mieters sichergestellt?
-   → Boten-Quittung / Einschreiben-Rückschein / Empfangsbestätigung
+ → Boten-Quittung / Einschreiben-Rückschein / Empfangsbestätigung
 ```
 
 ### Kündigung durch Mieter — Checkliste
 
 ```
 □ Schriftform gewahrt (§ 568 Abs. 1 BGB)?
-   → Eigenhändige Unterschrift auf Papier?
-   → Oder qES-Dokument digital an Vermieter zugegangen?
+ → Eigenhändige Unterschrift auf Papier?
+ → Oder qES-Dokument digital an Vermieter zugegangen?
 
 □ Kündigungsfrist: 3 Monate zum Monatsende (§ 573c Abs. 1 S. 1 BGB)
-   → Zugang der Kündigung bis spätestens dritten Werktag des Monats?
-   → Wenn später: Kündigung wirkt erst zum übernächsten Monatsende
+ → Zugang der Kündigung bis spätestens dritten Werktag des Monats?
+ → Wenn später: Kündigung wirkt erst zum übernächsten Monatsende
 
 □ Zugang beim Vermieter sichergestellt?
-   → Boten-Übergabe gegen Quittung oder Einwurf mit Attest
+ → Boten-Übergabe gegen Quittung oder Einwurf mit Attest
 ```
 
 ### Risikomatrix Formwahl

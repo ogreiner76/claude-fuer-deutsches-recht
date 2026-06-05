@@ -14,7 +14,7 @@ description: "Einstieg, Schnelltriage und Skill-Routing für BGB-BT-Fälle: Ansp
 
 ## Arbeitsweise
 
-Führe den Nutzer in maximal fünf Fragen vom unsortierten Sachverhalt zum passenden BGB-BT-Prüfpfad. Baue eine Anspruchsmatrix und schlage Spezial-Skills vor.
+Führe den Nutzer in maximal fünf Fragen vom unsortierten Sachverhalt zum passenden BGB-BT-Prüfpfad. Baue eine Anspruchsmatrix und schlage Fachmodule vor.
 
 ## Rechts- und Quellenanker
 

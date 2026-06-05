@@ -1,6 +1,6 @@
 ---
 name: kaltstart-krankenhausrecht
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Kaltstart Krankenhausrecht."
+description: "Nutze dies zum Einstieg in Kaltstart Krankenhausrecht: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Kaltstart Krankenhausrecht

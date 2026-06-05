@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-insolvenzrechtlich
-description: "Workflow-Skill zu liquiditaetsvorschau insolvenzrechtlich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu liquiditaetsvorschau insolvenzrechtlich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
@@ -53,16 +53,16 @@ Detailregeln siehe Schwester-Skill `liquiditaetsvorschau-3wochen`, Abschnitt "Be
 **Schritt 3 — Aufstellung der Liquiditätsbilanz**
 
 ```
-Aktiva I  (am Stichtag sofort verfügbar)          €
-+ Aktiva II (binnen 3 Wochen flüssig)             €
-= Σ Liquide Mittel                                €
+Aktiva I (am Stichtag sofort verfügbar) €
++ Aktiva II (binnen 3 Wochen flüssig) €
+= Σ Liquide Mittel €
 
-Passiva I (am Stichtag fällig & eingefordert)     €
-+ Passiva II (binnen 3 Wochen fällig)             €
-= Σ Fällige Verbindlichkeiten                     €
+Passiva I (am Stichtag fällig & eingefordert) €
++ Passiva II (binnen 3 Wochen fällig) €
+= Σ Fällige Verbindlichkeiten €
 
 Liquiditätslücke (absolut) = Σ Fällig − Σ Liquide
-Liquiditätsquote          = Liquiditätslücke ÷ Σ Fällig
+Liquiditätsquote = Liquiditätslücke ÷ Σ Fällig
 ```
 
 Maßstab: BGH-Linie zur Liquiditätsbilanz; konkrete Aktenzeichen und Randnummern vor Ausgabe über dejure.org / openjur.de verifizieren.
@@ -162,12 +162,12 @@ Bevor losgelegt wird, klaere:
 
 ```
 13-WOCHEN-LIQUIDITAETSVORSCHAU (direkte Methode)
-Gesellschaft: [FIRMA]    Erstellt: [DATUM]    Ersteller: [NAME]
+Gesellschaft: [FIRMA] Erstellt: [DATUM] Ersteller: [NAME]
 
 Woche | Anfangsbestand | Einzahlungen | Auszahlungen | Endbestand | Kreditlinie | Freie Liqui
-  1   |   EUR [XXX]    |  EUR [YYY]   |  EUR [ZZZ]   |  EUR [AAA] |  EUR [BBB]  |  EUR [CCC]
-  2   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
- 13   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
+ 1 | EUR [XXX] | EUR [YYY] | EUR [ZZZ] | EUR [AAA] | EUR [BBB] | EUR [CCC]
+ 2 | ... | ... | ... | ... | ... | ...
+ 13 | ... | ... | ... | ... | ... | ...
 
 AMPEL-STATUS:
 Wochen 1-4 (kurzfristig): [GRUEN / GELB / ROT]

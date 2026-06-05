@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-kita-integration-klage
-description: "Nutze dies, wenn Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf prüfen.; Erstelle eine Arbeitsfassung zu Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -313,22 +313,22 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 ## Krankengeld / Ablauf - Themenspezifika
 - **Rechtsgrundlage:** §§ 44-51 SGB V; §§ 46 (Beginn / Ende), 47 (Hoehe), 48 (Hoechstdauer 78 Wochen wegen derselben Krankheit binnen 3 Jahre), 51 (Reha-/Rentenantragsaufforderung).
 - **Beginn Krankengeld § 46 SGB V:**
-  - Bei Krankenhausaufenthalt: ab Aufnahme.
-  - Bei AU: ab Tag nach Feststellung AU (Achtung Aenderung seit 2020 - rueckwirkender Tag möglich); seit 2023 elektronische AU (eAU).
-  - **Lueckenlose Krankschreibung** zwingend - **Verlust Krankengeldanspruch** bei Lueckentag (BSG-Linie staendige Rspr; bei Aerztewechsel insbesondere kritisch).
-  - **Lueckenfueller-Frist:** AU-Folgebescheinigung muss spaetestens am Werktag nach Ende der vorherigen AU erfolgen.
+ - Bei Krankenhausaufenthalt: ab Aufnahme.
+ - Bei AU: ab Tag nach Feststellung AU (Achtung Aenderung seit 2020 - rueckwirkender Tag möglich); seit 2023 elektronische AU (eAU).
+ - **Lueckenlose Krankschreibung** zwingend - **Verlust Krankengeldanspruch** bei Lueckentag (BSG-Linie staendige Rspr; bei Aerztewechsel insbesondere kritisch).
+ - **Lueckenfueller-Frist:** AU-Folgebescheinigung muss spaetestens am Werktag nach Ende der vorherigen AU erfolgen.
 - **Hoehe Krankengeld § 47 SGB V:**
-  - 70 % des Bruttoarbeitsentgelts, max. 90 % des Nettoarbeitsentgelts.
-  - Hoechstrenze § 47 VI SGB V (Beitragsbemessungsgrenze).
-  - Einmalzahlungen anrechnen § 23a SGB IV.
+ - 70 % des Bruttoarbeitsentgelts, max. 90 % des Nettoarbeitsentgelts.
+ - Hoechstrenze § 47 VI SGB V (Beitragsbemessungsgrenze).
+ - Einmalzahlungen anrechnen § 23a SGB IV.
 - **Hoechstbezugsdauer § 48 SGB V:** 78 Wochen (546 Tage) wegen derselben Krankheit binnen 3 Jahre ("Blockfrist").
 - **Aussteuerung Krankenkasse § 51 SGB V:**
-  - Aufforderung Reha-/Rentenantrag innerhalb 10 Wochen ab Aufforderung; bei Nichtantrag Wegfall Krankengeld.
-  - Sehr kritisch: rechtzeitige Anwaltsberatung; ggf. Widerspruch gegen Aufforderung; Beratung DRV vor Rentenantrag.
+ - Aufforderung Reha-/Rentenantrag innerhalb 10 Wochen ab Aufforderung; bei Nichtantrag Wegfall Krankengeld.
+ - Sehr kritisch: rechtzeitige Anwaltsberatung; ggf. Widerspruch gegen Aufforderung; Beratung DRV vor Rentenantrag.
 - **Anschlussleistungen:**
-  - **Nahtlosigkeitsregelung § 145 SGB III:** ALG bei Restleistungsfaehigkeit unter 15 h/Woche bis Rentenbescheid.
-  - **EM-Rente § 43 SGB VI** bei dauerhafter Erwerbsminderung.
-  - **Buergergeld** subsidiaer.
+ - **Nahtlosigkeitsregelung § 145 SGB III:** ALG bei Restleistungsfaehigkeit unter 15 h/Woche bis Rentenbescheid.
+ - **EM-Rente § 43 SGB VI** bei dauerhafter Erwerbsminderung.
+ - **Buergergeld** subsidiaer.
 - **Praxis-Tipp:** AU-Bescheinigungen immer am letzten Tag der AU verlaengern (besser einen Tag vorher); nie auf den Postweg verlassen; eAU bei Kasse pruefen lassen; Aerztewechsel mit aktueller Information vermeiden Lueckentage.
 
 

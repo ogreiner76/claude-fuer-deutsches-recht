@@ -1,13 +1,13 @@
 ---
 name: patentprozess-auskunft-patentportfolio
-description: "Nutze dies, wenn Patentprozess Auskunft Rechnungslegung Schadensersatz, Patentportfolio Und Technikstrategie, Abmahnung Patentverletzung Verteidigung im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Patentprozess Auskunft Rechnungslegung Schadensersatz, Patentportfolio Und Technikstrategie, Abmahnung Patentverletzung Verteidigung prüfen.; Erstelle eine Arbeitsfassung zu Patentprozess Auskunft Rechnungslegung Schadensersatz, Patentportfolio Und Technikstrategie, Abmahnung Patentverletzung Verteidigung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentprozess Auskunft Rechnungslegung Schadensersatz, Patentportfolio Und Technikstrategie, Abmahnung Patentverletzung Verteidigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentprozess Auskunft Rechnungslegung Schadensersatz, Patentportfolio Und Technikstrategie, Abmahnung Patentverletzung Verteidigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentprozess Auskunft Rechnungslegung Schadensersatz, Patentportfolio Und Technikstrategie, Abmahnung Patentverletzung Verteidigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Patentprozess Auskunft Rechnungslegung Schadensersatz, Patentportfolio Un
 
 Remedies nach Verletzungsfeststellung oder Vergleichsverhandlung.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 

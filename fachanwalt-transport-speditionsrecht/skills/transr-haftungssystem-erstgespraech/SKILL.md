@@ -1,13 +1,13 @@
 ---
 name: transr-haftungssystem-erstgespraech
-description: "Nutze dies, wenn Transr Haftungssystem Grundzuege, Erstgespraech Mandatsannahme, Fachanwalt Transport Adr Gefahrgut im Plugin Fachanwalt Transport Speditionsrecht konkret bearbeitet werden soll. Auslöser: Bitte Transr Haftungssystem Grundzuege, Erstgespraech Mandatsannahme, Fachanwalt Transport Adr Gefahrgut prüfen.; Erstelle eine Arbeitsfassung zu Transr Haftungssystem Grundzuege, Erstgespraech Mandatsannahme, Fachanwalt Transport Adr Gefahrgut.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Transr Haftungssystem Grundzuege, Erstgespraech Mandatsannahme, Fachanwalt Transport Adr Gefahrgut: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Transr Haftungssystem Grundzuege, Erstgespraech Mandatsannahme, Fachanwalt Transport Adr Gefahrgut
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Transr Haftungssystem Grundzuege, Erstgespraech Mandatsannahme, Fachanwalt Transport Adr Gefahrgut** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -316,7 +316,7 @@ Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoß.
 - Schwerer Vorfall: unverzueglich
 - Standardvorfall: Jahresbericht
 
-## 6) Workflow Compliance
+## 6) Compliance
 
 ### Phase 1 — Audit
 

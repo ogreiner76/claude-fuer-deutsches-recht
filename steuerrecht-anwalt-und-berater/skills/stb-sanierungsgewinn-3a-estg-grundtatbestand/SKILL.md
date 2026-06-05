@@ -33,7 +33,7 @@ description: "Tatbestandsmerkmale des § 3a EStG: Sanierungsertrag, unternehmens
 - **§ 7b GewStG** — Gewerbesteuer-Befreiung parallel.
 - **§ 3c Abs. 4 EStG** — Verlustreihenfolge.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Die vier Voraussetzungen kumulativ
 
@@ -104,14 +104,14 @@ gegenüber dem Finanzamt.
 ### Berechnungsschema § 3a Abs. 3 EStG
 
 ```
-Sanierungsertrag brutto (Verzichtsbetrag)             EUR [A]
+Sanierungsertrag brutto (Verzichtsbetrag) EUR [A]
 abzgl. mit dem Sanierungsertrag wirtschaftlich
-       zusammenhängende Aufwendungen (Berater,
-       Rechtskosten — § 3c Abs. 1, Abs. 4 EStG)        EUR [B]
-Sanierungsertrag netto                                EUR [A-B]
-abzgl. zu verrechnender Verlustvortrag § 3c IV EStG   EUR [C]
+ zusammenhängende Aufwendungen (Berater,
+ Rechtskosten — § 3c Abs. 1, Abs. 4 EStG) EUR [B]
+Sanierungsertrag netto EUR [A-B]
+abzgl. zu verrechnender Verlustvortrag § 3c IV EStG EUR [C]
 verbleibender Sanierungsertrag (steuerbefreit gem.
-§ 3a Abs. 1 EStG bei Antrag § 3a Abs. 4 EStG)         EUR [A-B-C]
+§ 3a Abs. 1 EStG bei Antrag § 3a Abs. 4 EStG) EUR [A-B-C]
 ```
 
 ### Subsumtionsmuster Vier Voraussetzungen — Gutachtenformat
@@ -196,6 +196,6 @@ beachtet; parallel § 7b GewStG-Antrag.
 - **OFD Frankfurt, Verfügung v. 27.12.2018, BeckVerw 447487** — Einsprüche zur Mindestbesteuerung ruhend zu stellen.
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
 
-### Querverweis Liquidations-Spezial-Skill
+### Querverweis Liquidations-Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse zur Behandlung stehen gelassener Verbindlichkeiten in der Liquidation.

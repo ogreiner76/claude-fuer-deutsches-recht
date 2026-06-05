@@ -1,19 +1,19 @@
 ---
 name: aufklaerungsfehler-behandlungsfehler
-description: "Nutze dies, wenn Fachanwalt Medizinrecht Aufklaerungsfehler, Fachanwalt Medizinrecht Behandlungsfehler Prüfen im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Fachanwalt Medizinrecht Aufklaerungsfehler, Fachanwalt Medizinrecht Behandlungsfehler Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Medizinrecht Aufklaerungsfehler, Fachanwalt Medizinrecht Behandlungsfehler Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-medizinrecht-aufklaerungsfehler` | Workflow-Skill zu fachanwalt medizinrecht aufklaerungsfehler. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-medizinrecht-aufklaerungsfehler` | Arbeitsmodul zu fachanwalt medizinrecht aufklaerungsfehler: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-medizinrecht-behandlungsfehler-pruefen` | Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard. Diagnosefehler Therapiefehler Befunderhebungsfehler Hygienefehler. Beweisregeln § 630h BGB Vermutung Kausalität bei grobem Behandlungsfehler § 630h Abs. 5 BGB Befunderhebungsfehler Dokumentationsmangel. Schadensersatzanspruch §§ 280 823 BGB Schmerzensgeld § 253 BGB. Verjährung drei Jahre § 195 BGB ab Kenntnis 30 Jahre Hoechstfrist. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Fachanwalt Medizinrecht Aufklaerungsfehler, Fachanwalt Medizinrecht Behan
 
 ## 1. `fachanwalt-medizinrecht-aufklaerungsfehler`
 
-**Fokus:** Workflow-Skill zu fachanwalt medizinrecht aufklaerungsfehler. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt medizinrecht aufklaerungsfehler: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 
 # Aufklärungsfehler
@@ -138,9 +138,9 @@ sich in einen plausiblen Entscheidungskonflikt befunden, weil
 beruflicher Termin, religioese Ueberzeugungen].
 
 IV. Schaden
-- Primaerschaden:   [Folge des Risikos das eingetreten ist]
-- Schmerzensgeld:   EUR ____
-- Heilbehandlung:   EUR ____
+- Primaerschaden: [Folge des Risikos das eingetreten ist]
+- Schmerzensgeld: EUR ____
+- Heilbehandlung: EUR ____
 - Verdienstausfall: EUR ____
 
 V. Forderung
@@ -235,11 +235,11 @@ betrifft Aufklaerungspflicht bei Neulandmethode (Robodoc-Operation), inhaltlich 
 - Pflichtverletzung — Behandlungsfehler liegt bei Abweichung vom medizinischen Standard zum Behandlungszeitpunkt vor (ex-ante-Maßstab).
 - Schadensersatz § 280 Abs. 1 BGB i. V. m. § 630a BGB; deliktisch § 823 Abs. 1 BGB (Körper, Gesundheit); Schmerzensgeld § 253 Abs. 2 BGB.
 - Beweislastregeln § 630h BGB:
-  - § 630h Abs. 1: Voll beherrschbares Risiko (Hygiene, Geräte) — Vermutung des Behandlungsfehlers bei Schadenseintritt.
-  - § 630h Abs. 3: Fehlende Dokumentation pflichtgemäßer Maßnahmen — Vermutung des Nichtdurchführens.
-  - § 630h Abs. 4: Fehlende Befähigung (Anfänger-Operateur ohne ausreichende Erfahrung) — Vermutung Behandlungsfehler.
-  - § 630h Abs. 5 Satz 1: Bei grobem Behandlungsfehler Kausalitätsvermutung für Primärschaden.
-  - § 630h Abs. 5 Satz 2: Bei Befunderhebungsmangel mit hinreichend wahrscheinlichem positivem Befund Beweislastumkehr für Kausalität.
+ - § 630h Abs. 1: Voll beherrschbares Risiko (Hygiene, Geräte) — Vermutung des Behandlungsfehlers bei Schadenseintritt.
+ - § 630h Abs. 3: Fehlende Dokumentation pflichtgemäßer Maßnahmen — Vermutung des Nichtdurchführens.
+ - § 630h Abs. 4: Fehlende Befähigung (Anfänger-Operateur ohne ausreichende Erfahrung) — Vermutung Behandlungsfehler.
+ - § 630h Abs. 5 Satz 1: Bei grobem Behandlungsfehler Kausalitätsvermutung für Primärschaden.
+ - § 630h Abs. 5 Satz 2: Bei Befunderhebungsmangel mit hinreichend wahrscheinlichem positivem Befund Beweislastumkehr für Kausalität.
 - Verjährung § 195 BGB drei Jahre ab Schluss des Jahres mit Kenntnis von Schaden und Schädiger (§ 199 Abs. 1 BGB); absolut 30 Jahre § 199 Abs. 2 BGB bei Verletzung Körper Gesundheit Leben Freiheit.
 
 ### Schlüsselentscheidungen BGH (Stand Mai 2026)
@@ -329,25 +329,25 @@ bis [Datum] in stationaerer / ambulanter Behandlung.
 
 II. Behandlungsfehler
 1. Verstoss gegen medizinischen Standard § 630a Abs. 2 BGB:
-   [Konkrete Massnahme / Unterlassung, Abweichung vom Standard]
+ [Konkrete Massnahme / Unterlassung, Abweichung vom Standard]
 
 2. Befunderhebungsfehler § 630h Abs. 5 Satz 2 BGB:
-   Unterlassen der Untersuchung [X]; ein positiver Befund war
-   hinreichend wahrscheinlich; Beweislastumkehr greift.
+ Unterlassen der Untersuchung [X]; ein positiver Befund war
+ hinreichend wahrscheinlich; Beweislastumkehr greift.
 
 3. Voll beherrschbares Risiko § 630h Abs. 1 BGB (falls anwendbar):
-   [Hygienemangel / Geraetedefekt] — Vermutung des Fehlers.
+ [Hygienemangel / Geraetedefekt] — Vermutung des Fehlers.
 
 III. Schaeden
-- Primaerschaden:      [Verletzung / Gesundheitsschaden]
-- Folgeschaeden:       [Funktionseinschraenkung dauerhaft]
-- Schmerzensgeld:      EUR ____ (Tabellen-Referenz)
-- Heilbehandlung:      EUR ____
-- Verdienstausfall:    EUR ____
-- Haushaltsfuehrung:   EUR ____ / Monat
+- Primaerschaden: [Verletzung / Gesundheitsschaden]
+- Folgeschaeden: [Funktionseinschraenkung dauerhaft]
+- Schmerzensgeld: EUR ____ (Tabellen-Referenz)
+- Heilbehandlung: EUR ____
+- Verdienstausfall: EUR ____
+- Haushaltsfuehrung: EUR ____ / Monat
 - Vermehrte Beduerfn.: EUR ____ / Monat (§ 843 BGB)
-- Beerdigungskosten:   EUR ____ (§ 844 Abs. 1 BGB bei Tod)
-- Unterhaltsschaden:   EUR ____ / Monat (§ 844 Abs. 2 BGB)
+- Beerdigungskosten: EUR ____ (§ 844 Abs. 1 BGB bei Tod)
+- Unterhaltsschaden: EUR ____ / Monat (§ 844 Abs. 2 BGB)
 
 IV. Forderung
 Anerkennung dem Grunde nach und Vorschuss EUR ____

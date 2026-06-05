@@ -1,13 +1,13 @@
 ---
 name: firma-paragraphen-firmenfortfuehrung
-description: "Nutze dies, wenn Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb prüfen.; Erstelle eine Arbeitsfassung zu Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Firma Paragraphen 17 37a Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Firma Paragraphen 17 37A Hgb, Firmenfortfuehrung Paragraphen 21 25 Hgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

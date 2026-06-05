@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich-kaltstart
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsausgleich Kaltstart."
+description: "Nutze dies zum Einstieg in Versorgungsausgleich Kaltstart: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Versorgungsausgleich Kaltstart

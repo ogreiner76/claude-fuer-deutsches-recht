@@ -40,15 +40,15 @@ Gesprächsorientiert, ein Thema nach dem anderen:
 
 **Block B – Portfolio**
 - Haben Sie ein bestehendes Schutzrechtsverzeichnis? (IP-Verwaltungssystem, Tabellenkalkulation, keines)
-  - Falls ja: Können Sie es als CSV/XLSX/PDF teilen? → Wenn geteilt, Extraktion anbieten
-  - Falls nein: Gemeinsam ein Basis-Portfolio aufbauen (Name, Typ, Reg.-Nr., Klassen, Ablaufdaten)
+ - Falls ja: Können Sie es als CSV/XLSX/PDF teilen? → Wenn geteilt, Extraktion anbieten
+ - Falls nein: Gemeinsam ein Basis-Portfolio aufbauen (Name, Typ, Reg.-Nr., Klassen, Ablaufdaten)
 - Jurisdiktionen, in denen Sie Schutzrechte halten oder verwalten (DE/DPMA, EU/EUIPO, INT/WIPO-Madrid, EP/EPA, PCT)
 
 **Block C – Durchsetzungsstrategie**
 - Wo ordnen Sie Ihre Durchsetzungsstrategie ein?
-  - **Offensiv:** Abmahnungen früh bei augenfälliger Verletzung; Klage bereit
-  - **Ausgewogen:** Informelle Kontaktaufnahme zuerst; Abmahnung/Klage bei kommerziellem Schaden
-  - **Defensiv:** Nur durchsetzen wenn Klage wahrscheinlich und Mandant/Kanzlei bereit sind
+ - **Offensiv:** Abmahnungen früh bei augenfälliger Verletzung; Klage bereit
+ - **Ausgewogen:** Informelle Kontaktaufnahme zuerst; Abmahnung/Klage bei kommerziellem Schaden
+ - **Defensiv:** Nur durchsetzen wenn Klage wahrscheinlich und Mandant/Kanzlei bereit sind
 - Gibt es Ausnahmen von dieser Standardhaltung? (z. B. bei bestimmten Branchen, Verletzungsarten, Wiederholungstätern)
 
 **Block D – Genehmigungsmatrix**

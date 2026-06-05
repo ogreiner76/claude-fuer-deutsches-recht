@@ -1,13 +1,13 @@
 ---
 name: anwaelte-honorarvereinbarung-rvg
-description: "Nutze dies, wenn Anwälte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwälte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwälte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwälte Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm, Anwälte Kanzleisitz Und Zweigstelle Kaltstart Und Faktenmatrix im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwälte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwälte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwälte Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm, Anwälte Kanzleisitz Und Zweigstelle Kaltstart Und Faktenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwälte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwälte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwälte Kanzleinachfolge Und Akte..."
+description: "Nutze dies bei Anwaelte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwaelte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwaelte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwaelte Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwälte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwälte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwälte Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm, Anwälte Kanzleisitz Und Zweigstelle Kaltstart Und Faktenmatrix
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Honorarvereinbarung Und Rvg Transparenz Kaltstart Und, Anwälte Interessenkollision Bei Mehrfachvertretung Kaltstart U, Anwälte Internationales Mandat Und Geheimnisschutz Kaltstart U, Anwälte Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm, Anwälte Kanzleisitz Und Zweigstelle Kaltstart Und Faktenmatrix** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: konformitaet
-description: "Nutze dies, wenn Konformitaet: Formular, Portal und Einreichungslogik im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Konformitaet: Formular, Portal und Einreichungslogik prüfen.; Erstelle eine Arbeitsfassung zu Konformitaet: Formular, Portal und Einreichungslogik.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Konformitaet: Formular, Portal und Einreichungslogik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Konformitaet: Formular, Portal und Einreichungslogik

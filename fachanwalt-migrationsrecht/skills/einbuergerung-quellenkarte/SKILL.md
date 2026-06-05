@@ -1,6 +1,6 @@
 ---
 name: einbuergerung-quellenkarte
-description: "Nutze dies, wenn Einbuergerung Quellenkarte im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Einbuergerung Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Einbuergerung Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: gutachtenstil-vs-haus-fussnotenstil
-description: "Nutze dies, wenn Gutachtenstil Vs Urteilsstil, Haus Fussnotenstil Spezial, Haus Literaturrecherche Leitfaden im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Bitte Gutachtenstil Vs Urteilsstil, Haus Fussnotenstil Spezial, Haus Literaturrecherche Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Gutachtenstil Vs Urteilsstil, Haus Fussnotenstil Spezial, Haus Literaturrecherche Leitfaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gutachtenstil Vs Urteilsstil, Haus Fussnotenstil Spezial, Haus Literaturrecherche Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gutachtenstil Vs Urteilsstil, Haus Fussnotenstil Spezial, Haus Literaturrecherche Leitfaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gutachtenstil Vs Urteilsstil, Haus Fussnotenstil Spezial, Haus Literaturrecherche Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

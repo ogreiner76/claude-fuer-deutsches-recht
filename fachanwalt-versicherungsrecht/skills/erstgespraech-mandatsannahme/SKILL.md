@@ -1,13 +1,13 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Nutze dies, wenn Erstgespraech Mandatsannahme, Fachanwalt Versicherungsrecht Berufsunfaehigkeit Klage, Fachanwalt Versicherungsrecht Deckungsklage im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Erstgespraech Mandatsannahme, Fachanwalt Versicherungsrecht Berufsunfaehigkeit Klage, Fachanwalt Versicherungsrecht Deckungsklage prüfen.; Erstelle eine Arbeitsfassung zu Erstgespraech Mandatsannahme, Fachanwalt Versicherungsrecht Berufsunfaehigkeit Klage, Fachanwalt Versicherungsrecht Deckungsklage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erstgespraech Mandatsannahme, Fachanwalt Versicherungsrecht Berufsunfaehigkeit Klage, Fachanwalt Versicherungsrecht Deckungsklage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erstgespraech Mandatsannahme, Fachanwalt Versicherungsrecht Berufsunfaehigkeit Klage, Fachanwalt Versicherungsrecht Deckungsklage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erstgespraech Mandatsannahme, Fachanwalt Versicherungsrecht Berufsunfaehigkeit Klage, Fachanwalt Versicherungsrecht Deckungsklage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -252,7 +252,7 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 ## 4) Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Phase 1 — Beratung Vers.-Nehmer
 
@@ -399,15 +399,15 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Ablehnung Versicherer?
 ├─ Verweisung → konkret oder abstrakt?
-│   └─ Abstrakt → unzulässig nach st. Rspr. BGH IV. ZS
-│       (konkrete Entscheidung in juris.bundesgerichtshof.de
-│        verifizieren und Randnummer einsetzen)
-│   └─ Konkret → übt Mandant Verweisungstätigkeit tatsächlich aus?
+│ └─ Abstrakt → unzulässig nach st. Rspr. BGH IV. ZS
+│ (konkrete Entscheidung in juris.bundesgerichtshof.de
+│ verifizieren und Randnummer einsetzen)
+│ └─ Konkret → übt Mandant Verweisungstätigkeit tatsächlich aus?
 ├─ Bestreiten BU-Grad → 50-%-Schwelle ärztlich belegen
-│   └─ Privatgutachten + gerichtliches Gutachten beantragen
+│ └─ Privatgutachten + gerichtliches Gutachten beantragen
 ├─ Anzeigepflichtverletzung → Belehrung erfolgt nach § 19 Abs. 5 VVG?
-│   └─ Nein → Rücktritt / Anfechtung des Versicherers unwirksam
-│   └─ Ja → Kausalität zwischen Vorerkrankung und BU?
+│ └─ Nein → Rücktritt / Anfechtung des Versicherers unwirksam
+│ └─ Ja → Kausalität zwischen Vorerkrankung und BU?
 └─ Verjährung → Verhandlungen dokumentieren (§ 203 BGB Hemmung)
 ```
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -434,29 +434,29 @@ Az.: [AZ LG]
 
 ANTRÄGE
 1. Die Beklagte wird verurteilt, an den Kläger rückständige BU-Rente
-   für den Zeitraum [MONAT/JAHR] bis [MONAT/JAHR] von EUR [BETRAG]
-   nebst Zinsen 5 Prozentpunkte über Basiszins seit [DATUM] zu zahlen.
+ für den Zeitraum [MONAT/JAHR] bis [MONAT/JAHR] von EUR [BETRAG]
+ nebst Zinsen 5 Prozentpunkte über Basiszins seit [DATUM] zu zahlen.
 2. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem Kläger
-   ab [DATUM] eine monatliche BU-Rente von EUR [MONATSBETRAG] zu zahlen
-   und die Prämien zu erlassen (§ __ AVB), solange Berufsunfähigkeit
-   im Sinne der AVB vorliegt.
+ ab [DATUM] eine monatliche BU-Rente von EUR [MONATSBETRAG] zu zahlen
+ und die Prämien zu erlassen (§ __ AVB), solange Berufsunfähigkeit
+ im Sinne der AVB vorliegt.
 
 BEGRÜNDUNG
 1. BU-Definition (§ __ AVB): Kläger übte zuletzt die Tätigkeit
-   [BERUFSBEZEICHNUNG konkret] aus. Tätigkeitsprofil: [Liste mit %].
+ [BERUFSBEZEICHNUNG konkret] aus. Tätigkeitsprofil: [Liste mit %].
 2. 50-%-Schwelle: Laut Privatgutachten Dr. [NAME] vom [DATUM]
-   (Anlage K3) ist Kläger zu [X]% beeinträchtigt.
+ (Anlage K3) ist Kläger zu [X]% beeinträchtigt.
 3. Verweisung verfehlt: Versicherer verweist auf [Beruf] — nicht
-   konkret ausgeübt vom Kläger; abstrakte Verweisung nach st. Rspr.
-   des BGH IV. ZS unzulässig (konkrete Entscheidung mit Aktenzeichen
-   und Datum vor Versand in juris.bundesgerichtshof.de oder
-   dejure.org verifizieren und Randnummer einfügen).
+ konkret ausgeübt vom Kläger; abstrakte Verweisung nach st. Rspr.
+ des BGH IV. ZS unzulässig (konkrete Entscheidung mit Aktenzeichen
+ und Datum vor Versand in juris.bundesgerichtshof.de oder
+ dejure.org verifizieren und Randnummer einfügen).
 4. Anzeigepflicht: Keine Belehrung § 19 Abs. 5 VVG (Anlage K5);
-   Rücktrittsrecht des Versicherers ausgeschlossen.
+ Rücktrittsrecht des Versicherers ausgeschlossen.
 5. Verjährung: Durch Verhandlungen bis [DATUM] gehemmt (§ 203 BGB).
 
 Beweis: K1 Police + AVB, K2 Tätigkeitsbeschreibung, K3 Privatgutachten,
-        K4 Ablehnungsschreiben, K5 Antragsformular, K6 Vollmacht
+ K4 Ablehnungsschreiben, K5 Antragsformular, K6 Vollmacht
 ```
 
 --- vor Versand klaeren ---
@@ -515,7 +515,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Prüfschema in Tabellenform
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
@@ -560,7 +560,7 @@ An das Landgericht [Ort]
 KLAGESCHRIFT
 
 [Vorname Nachname], geb. [Datum], [Adresse]
-                                        — Kläger —
+ — Kläger —
 Prozessbevollmächtigte:
 Rechtsanwältinnen/Rechtsanwälte [Kanzlei, Adresse]
 
@@ -568,7 +568,7 @@ gegen
 
 [Versicherungs-AG], vertreten durch den Vorstand,
 [Adresse]
-                                        — Beklagte —
+ — Beklagte —
 
 wegen Berufsunfähigkeitsleistung
 Streitwert: vorläufig EUR ____ (3,5 × [Jahresrente])
@@ -576,25 +576,25 @@ Streitwert: vorläufig EUR ____ (3,5 × [Jahresrente])
 I. ANTRÄGE
 
 1. Es wird festgestellt, dass die Beklagte verpflichtet ist,
-   dem Kläger aus dem Berufsunfähigkeitsversicherungsvertrag,
-   Police Nr. [Nr.], Anlage K1, ab dem [Datum] eine monatliche
-   Berufsunfähigkeitsrente von EUR [Betrag] sowie Befreiung von
-   der Beitragszahlungspflicht zu leisten, solange und soweit
-   beim Kläger Berufsunfähigkeit von mindestens 50 % in seiner
-   zuletzt ausgeübten Tätigkeit als [Beruf] besteht.
+ dem Kläger aus dem Berufsunfähigkeitsversicherungsvertrag,
+ Police Nr. [Nr.], Anlage K1, ab dem [Datum] eine monatliche
+ Berufsunfähigkeitsrente von EUR [Betrag] sowie Befreiung von
+ der Beitragszahlungspflicht zu leisten, solange und soweit
+ beim Kläger Berufsunfähigkeit von mindestens 50 % in seiner
+ zuletzt ausgeübten Tätigkeit als [Beruf] besteht.
 
 2. Die Beklagte wird verurteilt, an den Kläger für den Zeitraum
-   [Beginn] bis [aktuell] rückständige Renten in Höhe von
-   EUR [Summe] nebst Zinsen in Höhe von 5 Prozentpunkten über
-   dem Basiszinssatz seit [Datum] zu zahlen.
+ [Beginn] bis [aktuell] rückständige Renten in Höhe von
+ EUR [Summe] nebst Zinsen in Höhe von 5 Prozentpunkten über
+ dem Basiszinssatz seit [Datum] zu zahlen.
 
 3. Die Beklagte wird verurteilt, an den Kläger vorgerichtliche
-   Anwaltskosten in Höhe von EUR [Berechnung nach RVG] zu zahlen.
+ Anwaltskosten in Höhe von EUR [Berechnung nach RVG] zu zahlen.
 
 4. Die Kosten des Rechtsstreits trägt die Beklagte.
 
 5. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 %
-   vorläufig vollstreckbar.
+ vorläufig vollstreckbar.
 
 II. SACHVERHALT
 
@@ -626,16 +626,16 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 IV. RECHTLICHE WÜRDIGUNG
 
 1. Versicherungsfall — Berufsunfähigkeit liegt vor
-   Der Kläger ist nach ärztlichen Attesten (Anlagen K5–K8)
-   und nach dem SV-Gutachten [Name] vom [Datum] (Anlage K9)
-   seit [Datum] zu mindestens 50 % berufsunfähig bezogen
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Der Kläger ist nach ärztlichen Attesten (Anlagen K5–K8)
+ und nach dem SV-Gutachten [Name] vom [Datum] (Anlage K9)
+ seit [Datum] zu mindestens 50 % berufsunfähig bezogen
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. Keine Obliegenheitsverletzung
-   [Ablehnungsgrund Versicherer + Widerlegung]
+ [Ablehnungsgrund Versicherer + Widerlegung]
 
 3. Kein Risikoausschluss einschlägig
-   [AVB-Ausschluss-Klausel prüfen + ggf. Transparenzrüge]
+ [AVB-Ausschluss-Klausel prüfen + ggf. Transparenzrüge]
 
 V. BEWEISANGEBOTE
 
@@ -645,11 +645,11 @@ V. BEWEISANGEBOTE
 - Anlage K4: Ablehnungsschreiben
 - Anlage K5–K8: Ärztliche Atteste/Befundberichte
 - Anlage K9: SV-Gutachten (ggf. gerichtliche Bestellung
-  beantragt: Medizinischer SV des Fachgebiets [X])
+ beantragt: Medizinischer SV des Fachgebiets [X])
 - Zeuge: Behandelnder Arzt [Name, Adresse] zum Beweis der
-  Diagnose und des Verlaufs
+ Diagnose und des Verlaufs
 - Parteivernehmung Kläger § 448 ZPO zur Berufstätigkeit
-  (hilfsweise)
+ (hilfsweise)
 
 [Kanzlei]
 ```

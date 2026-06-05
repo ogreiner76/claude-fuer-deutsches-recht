@@ -1,13 +1,13 @@
 ---
 name: vfgr-bundestreue-foederalismus
-description: "Nutze dies, wenn Vfgr Bundestreue Foederalismus Spezial, Vfgr Grundrechtspruefung Bauleiter, Vfgr Organstreit Leitfaden im Plugin Verfassungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vfgr Bundestreue Foederalismus Spezial, Vfgr Grundrechtspruefung Bauleiter, Vfgr Organstreit Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Vfgr Bundestreue Foederalismus Spezial, Vfgr Grundrechtspruefung Bauleiter, Vfgr Organstreit Leitfaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vfgr Bundestreue Foederalismus Spezial, Vfgr Grundrechtspruefung Bauleiter, Vfgr Organstreit Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vfgr Bundestreue Foederalismus Spezial, Vfgr Grundrechtspruefung Bauleiter, Vfgr Organstreit Leitfaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vfgr Bundestreue Foederalismus Spezial, Vfgr Grundrechtspruefung Bauleiter, Vfgr Organstreit Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -93,7 +93,7 @@ Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Ski
 ## Aufgabe
 Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -107,8 +107,8 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 1. **Schutzbereich** — sachlich und persoenlich. Welches Grundrecht ist einschlaegig (Art. 1-19 GG)? Persoenlicher Schutzbereich (Deutsche/jedermann/juristische Personen Art. 19 III GG)? Sachlicher Schutzbereich nach BVerfG-Definition? Konkurrenzen pruefen (Spezialitaet, Idealkonkurrenz).
 2. **Eingriff** — klassisch (final, unmittelbar, rechtsfoermig, mit Befehl und Zwang) oder modern (jede dem Staat zurechenbare nicht nur unwesentliche Beeintraechtigung). Schutzbereichsverkuerzung oder mittelbar-faktischer Eingriff?
 3. **Verfassungsrechtliche Rechtfertigung**
-   - Schranke: Vorbehalt des Gesetzes, einfacher/qualifizierter Gesetzesvorbehalt, verfassungsimmanente Schranken bei vorbehaltlosen Grundrechten (Art. 4, 5 III GG).
-   - Schranken-Schranke: Verhaeltnismaessigkeit (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit), Wesensgehalt Art. 19 II GG, Zitiergebot Art. 19 I 2 GG, Einzelfallverbot Art. 19 I 1 GG, Bestimmtheitsgebot.
+ - Schranke: Vorbehalt des Gesetzes, einfacher/qualifizierter Gesetzesvorbehalt, verfassungsimmanente Schranken bei vorbehaltlosen Grundrechten (Art. 4, 5 III GG).
+ - Schranken-Schranke: Verhaeltnismaessigkeit (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit), Wesensgehalt Art. 19 II GG, Zitiergebot Art. 19 I 2 GG, Einzelfallverbot Art. 19 I 1 GG, Bestimmtheitsgebot.
 
 ## Praxisfallen
 
@@ -157,7 +157,7 @@ Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Ski
 ## Aufgabe
 Leitfaden Organstreit nach Art. 93 I Nr. 1 GG, §§ 13 Nr. 5, 63 ff. BVerfGG. Pruefung von Beteiligtenfaehigkeit, Antragsgegenstand, Antragsbefugnis und Frist.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?

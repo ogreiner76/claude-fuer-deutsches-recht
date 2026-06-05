@@ -34,7 +34,7 @@ Der Antrag § 3a Abs. 4 EStG wandert nicht durch die Verwaltung wie eine normale
 - **§§ 40 ff. FGO** — Klage Finanzgericht.
 - **§ 3a EStG** — Sanierungsbefreiung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Phase 1: Vorbereitung des Antrags
 
@@ -95,7 +95,7 @@ An das Finanzamt [Ort]
 - Sachgebietsleiter Körperschaft / Personengesellschaften -
 
 Betreff: Vorabinformation zur Sanierung [Firma] —
-         Antrag § 3a Abs. 4 EStG geplant
+ Antrag § 3a Abs. 4 EStG geplant
 
 Sehr geehrte Frau / sehr geehrter Herr [Name],
 
@@ -103,13 +103,13 @@ namens unserer Mandantin, der [Firma], möchten wir Sie
 informieren, dass eine außergerichtliche / planmäßige
 (StaRUG / Insolvenzplan) Sanierung in Vorbereitung ist.
 
-Voraussichtliches Sanierungsjahr:     [Wirtschaftsjahr]
-Verzichtsvolumen (insgesamt):         EUR [Betrag]
+Voraussichtliches Sanierungsjahr: [Wirtschaftsjahr]
+Verzichtsvolumen (insgesamt): EUR [Betrag]
 Vier Voraussetzungen § 3a EStG:
-  - Sanierungsbedürftigkeit dokumentiert (Liquiditätsplan)
-  - Sanierungsfähigkeit (IDW S 6-Konzept in Vorbereitung)
-  - Sanierungsabsicht der Gläubiger (in Verhandlung)
-  - Sanierungseignung (Maßnahmenkatalog quantifiziert)
+ - Sanierungsbedürftigkeit dokumentiert (Liquiditätsplan)
+ - Sanierungsfähigkeit (IDW S 6-Konzept in Vorbereitung)
+ - Sanierungsabsicht der Gläubiger (in Verhandlung)
+ - Sanierungseignung (Maßnahmenkatalog quantifiziert)
 
 Wir würden uns über ein orientierendes Gespräch freuen,
 in dem wir die geplanten Maßnahmen und die Antragsstruktur
@@ -144,19 +144,19 @@ Vorgaben des BMF-Schreibens vom 27.04.2017 ab.
 
 III. Rechtliche Würdigung
 1. Sanierungsbedürftigkeit
-   Nach BMF-Schreiben 27.04.2017 Abschnitt [...] ist
-   Sanierungsbedürftigkeit anzunehmen, wenn [...].
-   Die Mandantin erfüllt dieses Kriterium, weil [...].
-   Anlage [...] belegt dies durch [...].
+ Nach BMF-Schreiben 27.04.2017 Abschnitt [...] ist
+ Sanierungsbedürftigkeit anzunehmen, wenn [...].
+ Die Mandantin erfüllt dieses Kriterium, weil [...].
+ Anlage [...] belegt dies durch [...].
 
 2. Sanierungsfähigkeit
-   [...]
+ [...]
 
 3. Sanierungsabsicht
-   [...]
+ [...]
 
 4. Sanierungseignung
-   [...]
+ [...]
 
 IV. Beweisanträge
 [Zeugen, Sachverständiger Sanierungsberater]

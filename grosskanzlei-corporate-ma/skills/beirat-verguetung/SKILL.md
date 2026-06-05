@@ -1,6 +1,6 @@
 ---
 name: beirat-verguetung
-description: "Nutze dies, wenn Beirat Verguetung im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Verguetung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Verguetung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Verguetung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Verguetung

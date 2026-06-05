@@ -1,19 +1,19 @@
 ---
 name: rechtsabteilung-produkthaftungsrichtlinie-ce
-description: "Nutze dies, wenn Rechtsabteilung Neue Produkthaftungsrichtlinie Und Softwareprodu, Ce Kennzeichnung Routenplan, Dual Use Produktrecht im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Neue Produkthaftungsrichtlinie Und Softwareprodu, Ce Kennzeichnung Routenplan, Dual Use Produktrecht prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Neue Produkthaftungsrichtlinie Und Softwareprodu, Ce Kennzeichnung Routenplan, Dual Use Produktrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Neue Produkthaftungsrichtlinie Und Softwareprodu, Ce Kennzeichnung Routenplan, Dual Use Produktrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Neue Produkthaftungsrichtlinie Und Softwareprodu, Ce Kennzeichnung Routenplan, Dual Use Produktrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Neue Produkthaftungsrichtlinie Und Softwareprodu, Ce Kennzeichnung Routenplan, Dual Use Produktrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-neue-produkthaftungsrichtlinie-und-softwareprodu` | Rechtsabteilungs-Spezialskill für Neue Produkthaftungsrichtlinie und Softwareprodukt: Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-neue-produkthaftungsrichtlinie-und-softwareprodu` | Rechtsabteilungs-Fachmodul für Neue Produkthaftungsrichtlinie und Softwareprodukt: Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `ce-kennzeichnung-routenplan` | CE-Kennzeichnung systematisch planen: Identifikation einschlaegiger Richtlinien (Maschinen, Niederspannung, EMV, RED, Medizinprodukte, Spielzeug, PSA), Konformitaetsbewertungsverfahren wie Modul A bis H, technische Dokumentation, EU-Konformitaetserklaerung, Notified Body. Checkliste vom Markteintritt bis zur Marktueberwachung. |
 | `dual-use-produktrecht` | Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Pruefraster, ab wann ein technisches Produkt der Genehmigungspflicht unterliegt. |
 
@@ -26,7 +26,7 @@ Für **Rechtsabteilung Neue Produkthaftungsrichtlinie Und Softwareprodu, Ce Kenn
 
 ## 1. `rechtsabteilung-neue-produkthaftungsrichtlinie-und-softwareprodu`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Neue Produkthaftungsrichtlinie und Softwareprodukt: Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Neue Produkthaftungsrichtlinie und Softwareprodukt: Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt
 

@@ -1,13 +1,13 @@
 ---
 name: drei-stufen-expatriate-pensionsplanung
-description: "Nutze dies, wenn Drei Stufen Theorie Eingriffsanalyse, Expatriate Pensionsplanung Und Totalization, Governance Und Anpassungsmechanismen im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Drei Stufen Theorie Eingriffsanalyse, Expatriate Pensionsplanung Und Totalization, Governance Und Anpassungsmechanismen prüfen.; Erstelle eine Arbeitsfassung zu Drei Stufen Theorie Eingriffsanalyse, Expatriate Pensionsplanung Und Totalization, Governance Und Anpassungsmechanismen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Drei Stufen Theorie Eingriffsanalyse, Expatriate Pensionsplanung Und Totalization, Governance Und Anpassungsmechanismen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Drei Stufen Theorie Eingriffsanalyse, Expatriate Pensionsplanung Und Totalization, Governance Und Anpassungsmechanismen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Drei Stufen Theorie Eingriffsanalyse, Expatriate Pensionsplanung Und Totalization, Governance Und Anpassungsmechanismen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -108,55 +108,55 @@ EINGRIFFSANALYSE DREI-STUFEN-THEORIE
 bAV-Projektteam
 Federführung: fachliche Leitung
 
-Mandant:      [Konzern Muster AG]
-Maßnahme:     [Beschreibung der geplanten Änderung]
-Datum:        [Datum]
+Mandant: [Konzern Muster AG]
+Maßnahme: [Beschreibung der geplanten Änderung]
+Datum: [Datum]
 
 A. BESCHREIBUNG DER GEPLANTEN MASSNAHME
-   [Detaillierte Beschreibung der Eingriffs-Maßnahme]
+ [Detaillierte Beschreibung der Eingriffs-Maßnahme]
 
 B. ZUORDNUNG ZU DEN DREI STUFEN
 
-   B.1 Betroffene Stufe-1-Positionen (erdiente Ansprüche):
-       Unverfallbare Anwartschaft zum Stichtag [Datum]:
-       - Berechnung § 2 BetrAVG: [m]/[n] × Vollleistung = EUR [Betrag] p.a.
-       - Sind diese Positionen betroffen? JA / NEIN
-       → Wenn JA: Maßnahme unzulässig — unverzügliche Anpassung notwendig.
+ B.1 Betroffene Stufe-1-Positionen (erdiente Ansprüche):
+ Unverfallbare Anwartschaft zum Stichtag [Datum]:
+ - Berechnung § 2 BetrAVG: [m]/[n] × Vollleistung = EUR [Betrag] p.a.
+ - Sind diese Positionen betroffen? JA / NEIN
+ → Wenn JA: Maßnahme unzulässig — unverzügliche Anpassung notwendig.
 
-   B.2 Betroffene Stufe-2-Positionen (erdiente Dynamik):
-       Dynamische Komponenten der Anwartschaft:
-       - Gehaltsabhängige Formel? JA / NEIN
-       - Gesamtversorgungsformel mit variabler Gesamtversorgungsobergrenze? JA / NEIN
-       - Vertragliche Anpassungsgarantie über § 16 BetrAVG hinaus? JA / NEIN
-       Sind diese Positionen betroffen? JA / NEIN
-       → Wenn JA: Rechtfertigung durch triftige Gründe erforderlich (→ B.4)
+ B.2 Betroffene Stufe-2-Positionen (erdiente Dynamik):
+ Dynamische Komponenten der Anwartschaft:
+ - Gehaltsabhängige Formel? JA / NEIN
+ - Gesamtversorgungsformel mit variabler Gesamtversorgungsobergrenze? JA / NEIN
+ - Vertragliche Anpassungsgarantie über § 16 BetrAVG hinaus? JA / NEIN
+ Sind diese Positionen betroffen? JA / NEIN
+ → Wenn JA: Rechtfertigung durch triftige Gründe erforderlich (→ B.4)
 
-   B.3 Betroffene Stufe-3-Positionen (künftige Zuwächse):
-       - Betrifft die Maßnahme ausschließlich noch nicht erdiente künftige
-         Anwartschaftszuwächse? JA / NEIN
-       → Wenn JA: Rechtfertigung durch sachliche Gründe ausreichend (→ B.4)
+ B.3 Betroffene Stufe-3-Positionen (künftige Zuwächse):
+ - Betrifft die Maßnahme ausschließlich noch nicht erdiente künftige
+ Anwartschaftszuwächse? JA / NEIN
+ → Wenn JA: Rechtfertigung durch sachliche Gründe ausreichend (→ B.4)
 
-   B.4 RECHTFERTIGUNGSGRÜNDE:
-       Triftige Gründe (für Stufe 2):
-       - [Wirtschaftliche Kennzahlen: Verluste in EUR; EK-Rendite; Eigenkapital]
-       - [Sanierungsbedarf; externe Gutachten; Beratungsberichte]
-       - [Verhältnismäßigkeit: Wurden mildere Mittel geprüft?]
-       - [Proportionalität: Steht Eingriff in angemessenem Verhältnis zum Einsparziel?]
+ B.4 RECHTFERTIGUNGSGRÜNDE:
+ Triftige Gründe (für Stufe 2):
+ - [Wirtschaftliche Kennzahlen: Verluste in EUR; EK-Rendite; Eigenkapital]
+ - [Sanierungsbedarf; externe Gutachten; Beratungsberichte]
+ - [Verhältnismäßigkeit: Wurden mildere Mittel geprüft?]
+ - [Proportionalität: Steht Eingriff in angemessenem Verhältnis zum Einsparziel?]
 
-       Sachliche Gründe (für Stufe 3):
-       - [Strategische Entscheidung: Systemwechsel DB → DC; Kostenoptimierung]
-       - [Unterlagen zur wirtschaftlichen Lage]
+ Sachliche Gründe (für Stufe 3):
+ - [Strategische Entscheidung: Systemwechsel DB → DC; Kostenoptimierung]
+ - [Unterlagen zur wirtschaftlichen Lage]
 
 C. ERGEBNIS
-   □ Maßnahme ist rechtmäßig (Begründung: [...])
-   □ Maßnahme ist teilweise unzulässig — Stufen-1-Eingriff eliminieren
-   □ Maßnahme ist unzulässig — vollständige Überarbeitung erforderlich
+ □ Maßnahme ist rechtmäßig (Begründung: [...])
+ □ Maßnahme ist teilweise unzulässig — Stufen-1-Eingriff eliminieren
+ □ Maßnahme ist unzulässig — vollständige Überarbeitung erforderlich
 
 D. EMPFEHLUNG
-   [Konkrete Handlungsempfehlung; ggf. Alternativgestaltung]
+ [Konkrete Handlungsempfehlung; ggf. Alternativgestaltung]
 
 Erstellt von: fachliche Leitung, LL.M. (Oxford)
-Datum:        [Datum]
+Datum: [Datum]
 ```
 
 ### Template 2: Besitzstandsklausel (für alle Änderungsvereinbarungen)
@@ -189,7 +189,7 @@ Für Stufe-2-Eingriffe (triftige Gründe):
 □ Unternehmensplanung / Budget für drei Folgejahre
 □ Aktuarielle Kostenstudie (Einsparpotenzial durch Maßnahme)
 □ Dokumentation bereits ergriffener milderer Mittel
-  (Gehaltseinfrierung, Dividendenverzicht, Investitionskürzungen)
+ (Gehaltseinfrierung, Dividendenverzicht, Investitionskürzungen)
 □ Stellungnahme Wirtschaftsprüfer zur wirtschaftlichen Lage
 □ Externe Beratungsberichte (Sanierungskonzept)
 □ Verhältnismäßigkeitsabwägung schriftlich dokumentiert
@@ -343,38 +343,38 @@ Expats, die in mehreren Ländern BAV-Anwartschaften aufgebaut haben, erhalten im
 EXPAT-BAV-CHECKLISTE
 bAV-Projektteam
 
-Mitarbeiter:         [Name]
-Entsendungsland:     [Land]
-Entsendungsdauer:    [Monate]
-Beginn:              [Datum]
+Mitarbeiter: [Name]
+Entsendungsland: [Land]
+Entsendungsdauer: [Monate]
+Beginn: [Datum]
 
 A. SOZIALVERSICHERUNG
-   □ A1-Bescheinigung beantragt? (Frist: vor Entsendung)
-   □ Heimatland-SV-Abkommen vorhanden? (EU: ja; [Land]: prüfen)
-   □ Beiträge im Gastland aufzunehmen (bei Abkommens-Lücke)?
-   □ Medicare/Krankenversicherung für Gastland organisiert?
-   □ Rentenversicherungs-Nachweis (Versicherungskonto DE) bei Auslandsabkommensprüfung vorlegen?
+ □ A1-Bescheinigung beantragt? (Frist: vor Entsendung)
+ □ Heimatland-SV-Abkommen vorhanden? (EU: ja; [Land]: prüfen)
+ □ Beiträge im Gastland aufzunehmen (bei Abkommens-Lücke)?
+ □ Medicare/Krankenversicherung für Gastland organisiert?
+ □ Rentenversicherungs-Nachweis (Versicherungskonto DE) bei Auslandsabkommensprüfung vorlegen?
 
 B. BETRIEBLICHE BAV
-   □ Heimatland-Versorgungsordnung — weiter anwendbar?
-     (Ja, solange Arbeitsverhältnis zum deutschen Arbeitgeber besteht)
-   □ Gehaltserhöhungen durch Entsendungszulagen: Auswirkung auf endgehaltsbezogene Formel?
-   □ Unverfallbarkeitsfristen korrekt laufen?
-   □ Lokaler Gastland-Plan einzuführen (bei Local Hire)?
-   □ Rückkehrbedingungen: Rückführung auf deutschen Plan; Portabilitäts-Klausel?
+ □ Heimatland-Versorgungsordnung — weiter anwendbar?
+ (Ja, solange Arbeitsverhältnis zum deutschen Arbeitgeber besteht)
+ □ Gehaltserhöhungen durch Entsendungszulagen: Auswirkung auf endgehaltsbezogene Formel?
+ □ Unverfallbarkeitsfristen korrekt laufen?
+ □ Lokaler Gastland-Plan einzuführen (bei Local Hire)?
+ □ Rückkehrbedingungen: Rückführung auf deutschen Plan; Portabilitäts-Klausel?
 
 C. BESTEUERUNG
-   □ DBA anwendbar? (Welches Abkommen? Art. 18 OECD-Muster?)
-   □ Ansässigkeit im Gastland (für Steuerzwecke) begründet?
-   □ Wohnort in Deutschland beibehalten? (Doppelansässigkeit vermeiden oder DBA Tiebreaker-Regel prüfen)
-   □ Pensionsleistungen: In welchem Land zu versteuern?
-   □ AStG § 2 (erweiterte beschränkte Steuerpflicht bei Wegzug aus DE): relevant?
-   □ Rückkehr: Steuerliche Entstrickung bei Rückkehr nach DE geprüft?
+ □ DBA anwendbar? (Welches Abkommen? Art. 18 OECD-Muster?)
+ □ Ansässigkeit im Gastland (für Steuerzwecke) begründet?
+ □ Wohnort in Deutschland beibehalten? (Doppelansässigkeit vermeiden oder DBA Tiebreaker-Regel prüfen)
+ □ Pensionsleistungen: In welchem Land zu versteuern?
+ □ AStG § 2 (erweiterte beschränkte Steuerpflicht bei Wegzug aus DE): relevant?
+ □ Rückkehr: Steuerliche Entstrickung bei Rückkehr nach DE geprüft?
 
 D. BESONDERES: STRANDED PENSIONS
-   □ Frühzeitige Pensionsplanung-Übersicht erstellt?
-   □ Alle BAV-Anwartschaften (DE und international) dokumentiert?
-   □ Konsolidierungsmöglichkeiten (§ 4 BetrAVG-Transfer) geprüft?
+ □ Frühzeitige Pensionsplanung-Übersicht erstellt?
+ □ Alle BAV-Anwartschaften (DE und international) dokumentiert?
+ □ Konsolidierungsmöglichkeiten (§ 4 BetrAVG-Transfer) geprüft?
 ```
 
 ### Template 2: Entsendungsvereinbarung BAV-Klausel (Muster-Einschub)
@@ -383,24 +383,24 @@ D. BESONDERES: STRANDED PENSIONS
 § [X] BETRIEBLICHE ALTERSVERSORGUNG WÄHREND DER ENTSENDUNG
 
 (1) Das Arbeitsverhältnis mit der [Konzern Muster AG] (Deutschland) bleibt
-    während der Entsendung bestehen. Die Versorgungsordnung [Bezeichnung] gilt
-    weiter, soweit nicht nachfolgend abweichendes vereinbart.
+ während der Entsendung bestehen. Die Versorgungsordnung [Bezeichnung] gilt
+ weiter, soweit nicht nachfolgend abweichendes vereinbart.
 
 (2) Entsendungszulagen und sonstige Zulagen, die über das Grundgehalt hinaus-
-    gehen, werden für die Berechnung der Versorgungsanwartschaft nach [Variante A:
-    nicht berücksichtigt / Variante B: zu [X]% berücksichtigt].
+ gehen, werden für die Berechnung der Versorgungsanwartschaft nach [Variante A:
+ nicht berücksichtigt / Variante B: zu [X]% berücksichtigt].
 
 (3) Sozialversicherung: A1-Bescheinigung gem. VO (EG) 883/2004 wird beantragt;
-    GRV-Beiträge werden weiter in Deutschland abgeführt.
+ GRV-Beiträge werden weiter in Deutschland abgeführt.
 
 (4) Gastland-Plan: Sofern im Gastland ein lokaler betrieblicher Rentenplan
-    angeboten wird, besteht kein Anspruch des Arbeitnehmers auf Teilnahme, es sei
-    denn, dies ist nach lokalem Recht zwingend vorgeschrieben.
+ angeboten wird, besteht kein Anspruch des Arbeitnehmers auf Teilnahme, es sei
+ denn, dies ist nach lokalem Recht zwingend vorgeschrieben.
 
 (5) Bei vorzeitiger Beendigung der Entsendung (Rückkehr nach Deutschland):
-    Alle während der Entsendung aufgebauten Anwartschaften im Gastland-System
-    werden, soweit nach lokalem Recht zulässig, auf ein deutsches Versorgungswerk
-    übertragen oder eine Abfindungsregelung gem. lokalem Recht angeboten.
+ Alle während der Entsendung aufgebauten Anwartschaften im Gastland-System
+ werden, soweit nach lokalem Recht zulässig, auf ein deutsches Versorgungswerk
+ übertragen oder eine Abfindungsregelung gem. lokalem Recht angeboten.
 ```
 
 ---
@@ -518,64 +518,64 @@ PENSION COMMITTEE CHARTER
 in der Fassung vom [Datum]
 
 1. EINRICHTUNG UND ZWECK
-   Der Vorstand der [Konzern Muster AG] richtet hiermit das Pension Committee
-   als beratenden Unterausschuss auf Vorstandsebene ein. Das Pension Committee
-   überwacht und steuert sämtliche Aspekte der betrieblichen Altersversorgung
-   (BAV) des Konzerns weltweit.
+ Der Vorstand der [Konzern Muster AG] richtet hiermit das Pension Committee
+ als beratenden Unterausschuss auf Vorstandsebene ein. Das Pension Committee
+ überwacht und steuert sämtliche Aspekte der betrieblichen Altersversorgung
+ (BAV) des Konzerns weltweit.
 
 2. ZUSAMMENSETZUNG
-   2.1 Mitglieder (stimmberechtigte Mitglieder):
-       - CFO (Vorsitz)
-       - CHRO
-       - Group Treasurer
-       - Leiter Recht und Compliance
-   2.2 Ständige Berater (beratend, ohne Stimmrecht):
-       - Externer Aktuarielle Berater
-       - Rechtsberater (bAV-Projektteam,
-         vertreten durch fachliche Leitung)
-       - Externer Vermögensverwalter (Kapitalanlage)
-   2.3 Der Vorsitzende kann weitere Personen situativ hinzuziehen.
+ 2.1 Mitglieder (stimmberechtigte Mitglieder):
+ - CFO (Vorsitz)
+ - CHRO
+ - Group Treasurer
+ - Leiter Recht und Compliance
+ 2.2 Ständige Berater (beratend, ohne Stimmrecht):
+ - Externer Aktuarielle Berater
+ - Rechtsberater (bAV-Projektteam,
+ vertreten durch fachliche Leitung)
+ - Externer Vermögensverwalter (Kapitalanlage)
+ 2.3 Der Vorsitzende kann weitere Personen situativ hinzuziehen.
 
 3. AUFGABEN UND ZUSTÄNDIGKEITEN
-   Das Pension Committee ist zuständig für:
-   a) Überwachung der Erfüllung der Anpassungsprüfungspflicht gem. § 16 BetrAVG
-      und Vorbereitung der Anpassungsentscheidung zur Vorlage beim Vorstand;
-   b) Strategische Steuerung der Pensionsfinanzierung (Finanzierungsstatus,
-      Funding Level, ALM-Analyse);
-   c) Überwachung der externen Versorgungseinrichtungen (Pensionskassen,
-      Pensionsfonds, CTA-Treuhänder);
-   d) Steuerung von De-Risking-Maßnahmen (Buyout, Buy-in, Longevity Swap);
-   e) Überprüfung der Compliance mit aufsichtsrechtlichen Anforderungen
-      (VAG, IORP II, BaFin-Rundschreiben);
-   f) Genehmigung wesentlicher Änderungen der Versorgungsordnungen
-      (vorbehaltlich Betriebsratsrechte gem. § 87 BetrVG);
-   g) Reporting an Vorstand, Aufsichtsrat und externe Abschlussprüfer.
+ Das Pension Committee ist zuständig für:
+ a) Überwachung der Erfüllung der Anpassungsprüfungspflicht gem. § 16 BetrAVG
+ und Vorbereitung der Anpassungsentscheidung zur Vorlage beim Vorstand;
+ b) Strategische Steuerung der Pensionsfinanzierung (Finanzierungsstatus,
+ Funding Level, ALM-Analyse);
+ c) Überwachung der externen Versorgungseinrichtungen (Pensionskassen,
+ Pensionsfonds, CTA-Treuhänder);
+ d) Steuerung von De-Risking-Maßnahmen (Buyout, Buy-in, Longevity Swap);
+ e) Überprüfung der Compliance mit aufsichtsrechtlichen Anforderungen
+ (VAG, IORP II, BaFin-Rundschreiben);
+ f) Genehmigung wesentlicher Änderungen der Versorgungsordnungen
+ (vorbehaltlich Betriebsratsrechte gem. § 87 BetrVG);
+ g) Reporting an Vorstand, Aufsichtsrat und externe Abschlussprüfer.
 
 4. ENTSCHEIDUNGSVERFAHREN
-   4.1 Das Pension Committee ist beschlussfähig, wenn mindestens drei
-       stimmberechtigte Mitglieder anwesend sind.
-   4.2 Beschlüsse werden mit einfacher Mehrheit gefasst; bei Stimmengleichheit
-       entscheidet der Vorsitzende.
-   4.3 Umlaufbeschlüsse sind zulässig, sofern kein Mitglied widerspricht.
+ 4.1 Das Pension Committee ist beschlussfähig, wenn mindestens drei
+ stimmberechtigte Mitglieder anwesend sind.
+ 4.2 Beschlüsse werden mit einfacher Mehrheit gefasst; bei Stimmengleichheit
+ entscheidet der Vorsitzende.
+ 4.3 Umlaufbeschlüsse sind zulässig, sofern kein Mitglied widerspricht.
 
 5. DOKUMENTATION UND REPORTING
-   5.1 Über jede Sitzung ist ein Protokoll zu fertigen (Aufbewahrung: zehn Jahre).
-   5.2 Quartalsberichte an Vorstand und Aufsichtsrats-Prüfungsausschuss.
-   5.3 Jährlicher Pension-Governance-Bericht für IAS 19-Offenlegung.
+ 5.1 Über jede Sitzung ist ein Protokoll zu fertigen (Aufbewahrung: zehn Jahre).
+ 5.2 Quartalsberichte an Vorstand und Aufsichtsrats-Prüfungsausschuss.
+ 5.3 Jährlicher Pension-Governance-Bericht für IAS 19-Offenlegung.
 
 6. ANPASSUNGSENTSCHEIDUNG § 16 BetrAVG — VERFAHREN
-   6.1 Das Pension Committee stellt zu jedem dreijährlichen Prüfstichtag einen
-       Anpassungsbericht auf Basis folgender Unterlagen zusammen:
-       - Verbraucherpreisindex-Entwicklung der letzten drei Jahre (Statistisches Bundesamt)
-       - HGB-Jahresabschlüsse der letzten drei Jahre des versorgungsverpflichteten
-         Unternehmens
-       - Aktuarielle Berechnung der Anpassungskosten
-       - Dreijahres-Finanzplanung des Unternehmens (Prognose)
-   6.2 Der Anpassungsbericht dient als Grundlage für die Vorstandsentscheidung.
-   6.3 Die Entscheidung wird schriftlich dokumentiert und den betroffenen Rentnern
-       mitgeteilt.
-   6.4 Bei Ablehnung der Anpassung sind die Gründe vollständig zu dokumentieren
-       (Beweissicherung für etwaige Klageverfahren).
+ 6.1 Das Pension Committee stellt zu jedem dreijährlichen Prüfstichtag einen
+ Anpassungsbericht auf Basis folgender Unterlagen zusammen:
+ - Verbraucherpreisindex-Entwicklung der letzten drei Jahre (Statistisches Bundesamt)
+ - HGB-Jahresabschlüsse der letzten drei Jahre des versorgungsverpflichteten
+ Unternehmens
+ - Aktuarielle Berechnung der Anpassungskosten
+ - Dreijahres-Finanzplanung des Unternehmens (Prognose)
+ 6.2 Der Anpassungsbericht dient als Grundlage für die Vorstandsentscheidung.
+ 6.3 Die Entscheidung wird schriftlich dokumentiert und den betroffenen Rentnern
+ mitgeteilt.
+ 6.4 Bei Ablehnung der Anpassung sind die Gründe vollständig zu dokumentieren
+ (Beweissicherung für etwaige Klageverfahren).
 ```
 
 ### Template 2: Anpassungsentscheidung § 16 BetrAVG — Muster-Vorstandsbeschluss
@@ -587,32 +587,32 @@ Prüfzeitraum: [1.1.JJJJ bis 31.12.JJJJ]
 Stichtag: [1.1.JJJJ]
 
 A. ERMITTLUNG DES ANPASSUNGSBEDARFS (STUFE 1)
-   Teuerungsrate laut Statistischem Bundesamt (VPI) im Dreijahreszeitraum:
-   [JJJJ]: + [X]%
-   [JJJJ]: + [X]%
-   [JJJJ]: + [X]%
-   Kumulierte Teuerungsrate: [X]%
-   Anpassungsbedarf: [X]%
+ Teuerungsrate laut Statistischem Bundesamt (VPI) im Dreijahreszeitraum:
+ [JJJJ]: + [X]%
+ [JJJJ]: + [X]%
+ [JJJJ]: + [X]%
+ Kumulierte Teuerungsrate: [X]%
+ Anpassungsbedarf: [X]%
 
 B. WIRTSCHAFTLICHE LEISTUNGSFÄHIGKEIT (STUFE 2)
-   Eigenkapital (HGB, Einzelabschluss, Durchschnitt drei Jahre):  EUR [Betrag]
-   Jahresüberschuss (HGB, Einzelabschluss, Durchschnitt):         EUR [Betrag]
-   Eigenkapitalrendite nach Steuern:                              [X]%
-   Vergleichsmaßstab (öffentliche Anleihen, dreijährig):          [X]%
-   Ergebnis: Eigenkapitalrendite [übersteigt / unterschreitet] Vergleichsmaßstab.
+ Eigenkapital (HGB, Einzelabschluss, Durchschnitt drei Jahre): EUR [Betrag]
+ Jahresüberschuss (HGB, Einzelabschluss, Durchschnitt): EUR [Betrag]
+ Eigenkapitalrendite nach Steuern: [X]%
+ Vergleichsmaßstab (öffentliche Anleihen, dreijährig): [X]%
+ Ergebnis: Eigenkapitalrendite [übersteigt / unterschreitet] Vergleichsmaßstab.
 
 C. PROGNOSE
-   Dreijahres-Finanzplanung ergibt [ausreichende / nicht ausreichende]
-   wirtschaftliche Leistungsfähigkeit für Anpassung.
-   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Dreijahres-Finanzplanung ergibt [ausreichende / nicht ausreichende]
+ wirtschaftliche Leistungsfähigkeit für Anpassung.
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 D. BESCHLUSS
-   Der Vorstand beschließt:
-   Die laufenden Versorgungsleistungen werden zum [Stichtag] um [X]% angehoben.
-   / Die Anpassung unterbleibt aus folgenden Gründen: [...]
+ Der Vorstand beschließt:
+ Die laufenden Versorgungsleistungen werden zum [Stichtag] um [X]% angehoben.
+ / Die Anpassung unterbleibt aus folgenden Gründen: [...]
 
-   [Unterschriften Vorstand]
-   [Datum]
+ [Unterschriften Vorstand]
+ [Datum]
 ```
 
 ### Template 3: Trustee-Board-Satzung (Kurzfassung — für CTA-Treuhand)
@@ -629,9 +629,9 @@ gemäß Treuhandvertrag und wahrt die Interessen der begünstigten Versorgungsbe
 Der Treuhandausschuss besteht aus:
 a) zwei Vertretern des Arbeitgebers (als Treugeber)
 b) zwei Vertretern der Versorgungsberechtigten (gewählt durch Betriebsrat /
-   Arbeitnehmer-Interessenvertretung)
+ Arbeitnehmer-Interessenvertretung)
 c) einem unabhängigen Sachverständigen (benannt durch Arbeitgeber und Betriebsrat
-   gemeinsam)
+ gemeinsam)
 
 § 3 Aufgaben
 a) Überwachung der Anlagerichtlinien (Investment Policy Statement)

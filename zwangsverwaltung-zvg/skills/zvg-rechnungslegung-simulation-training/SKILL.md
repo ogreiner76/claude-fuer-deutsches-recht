@@ -1,13 +1,13 @@
 ---
 name: zvg-rechnungslegung-simulation-training
-description: "Nutze dies, wenn Zvg Rechnungslegung, Zvg Simulation Training, Zvg Verkauf Versteigerung Schnittstelle im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Bitte Zvg Rechnungslegung, Zvg Simulation Training, Zvg Verkauf Versteigerung Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Zvg Rechnungslegung, Zvg Simulation Training, Zvg Verkauf Versteigerung Schnittstelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zvg Rechnungslegung, Zvg Simulation Training, Zvg Verkauf Versteigerung Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zvg Rechnungslegung, Zvg Simulation Training, Zvg Verkauf Versteigerung Schnittstelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zvg Rechnungslegung, Zvg Simulation Training, Zvg Verkauf Versteigerung Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -301,7 +301,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. Liegen alle Mietvertragsdaten für die Bieterinformation vor?
 4. Sind Mietkautions-Guthaben der Mieter dokumentiert? (Übertragung auf Ersteher)
 
-## Workflow bei Zuschlag
+## bei Zuschlag
 
 1. Zuschlagsdatum und Ersteher festhalten
 2. Nutzungen bis Zuschlagsdatum verbuchen

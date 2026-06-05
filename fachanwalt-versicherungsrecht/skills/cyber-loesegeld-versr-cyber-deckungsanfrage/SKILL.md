@@ -1,13 +1,13 @@
 ---
 name: cyber-loesegeld-versr-cyber-deckungsanfrage
-description: "Nutze dies, wenn Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Versicherungsrecht Cyber Loesegeld Sanktionsrecht, Versr Cyber Ransomware Dora Sanktionen, Deckungsanfrage Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,7 +87,7 @@ Konkrete BGH-Rechtsprechung zu Cyber-AVB ist bisher dünn; OLG-Entscheidungen vo
 ## Prüfschema in Tabellenform
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
@@ -131,7 +131,7 @@ Versicherungsnummer: [Nr]
 Schadenummer: [neu]
 
 Betr.: Ransomware-Vorfall vom [Datum]
-       Deckungsanforderung und Compliance-Memo
+ Deckungsanforderung und Compliance-Memo
 
 Sehr geehrte Damen und Herren,
 
@@ -152,9 +152,9 @@ II. Sanctions-Compliance
 Vor jeder Lösegeld-Entscheidung hat unsere Mandantin ein
 Sanctions Screening durchgeführt:
 - Wallet-Analyse durch Chainalysis Reactor am [Datum]:
-  Kein direkter OFAC SDN-Match; Risikostufe [X] (Anlage K2).
+ Kein direkter OFAC SDN-Match; Risikostufe [X] (Anlage K2).
 - Keine Übereinstimmung mit EU-Sanktionslisten
-  (VO (EU) 833/2014; VO (EU) 269/2014) (Anlage K3).
+ (VO (EU) 833/2014; VO (EU) 269/2014) (Anlage K3).
 - Compliance-Memo der Rechtsabteilung vom [Datum] (Anlage K4).
 
 Die Zahlung war daher rechtlich zulässig. Ihre Sanctions
@@ -187,11 +187,11 @@ Diese Klausel ist unwirksam gemäß § 307 Abs. 1 Satz 2 BGB
 (Transparenzgebot), weil ein durchschnittlicher Versicherungsnehmer
 nicht erkennen kann,
 a) welche Sanktionslisten konkret gemeint sind (US-OFAC, EU, UN,
-   Bundesbank?),
+ Bundesbank?),
 b) welcher Standard für eine "Sanktionierung" gilt (SDN-Direkteintrag,
-   50-%-Regel, Sektorsanktion?), und
+ 50-%-Regel, Sektorsanktion?), und
 c) ab welchem Grad der Verbindung zwischen Angreifer und Sanctions-Liste
-   die Klausel auslöst.
+ die Klausel auslöst.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 klar und verständlich formuliert sein; bei Unklarheit gilt
@@ -352,11 +352,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Ransomware-Angriff + Lösegeld-Forderung?
 ├─ Angreifer auf OFAC-SDN-Liste? → Zahlung ohne US-Lizenz verboten
-│   └─ Versicherer: Deckungsausschluss prüfen (§ 134 BGB + AVB)
+│ └─ Versicherer: Deckungsausschluss prüfen (§ 134 BGB + AVB)
 ├─ Angreifer auf EU-Sanktionsliste? → § 16 AWG + VO 269/2014
-│   └─ Behördliche Genehmigung (BAW) erforderlich?
+│ └─ Behördliche Genehmigung (BAW) erforderlich?
 ├─ Angreifer nicht gelistet → Geldwäsche-Risiko § 261 StGB prüfen
-│   └─ AML-Prüfung dokumentieren; Meldepflicht § 43 GwG?
+│ └─ AML-Prüfung dokumentieren; Meldepflicht § 43 GwG?
 └─ Cyber-AVB analysieren → Lösegeld gedeckt? Sanktions-Klausel?
 ```
 
@@ -447,7 +447,7 @@ Hinweis: Reihenfolge neueste zuerst. Vor Versand jedes Aktenzeichen in offener Q
 ## Prüfschema in Tabellenform
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Ergebnis / Konsequenz |
 |---|---|---|---|

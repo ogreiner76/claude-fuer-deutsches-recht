@@ -61,7 +61,7 @@ Manche Fristen koennen Sie verlaengern. Andere nicht. Wir zeigen Ihnen, welche u
 ### Schritt 2 — Antrag stellen
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 

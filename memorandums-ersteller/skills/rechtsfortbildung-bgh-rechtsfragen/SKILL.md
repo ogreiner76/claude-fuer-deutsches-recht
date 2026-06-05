@@ -1,13 +1,13 @@
 ---
 name: rechtsfortbildung-bgh-rechtsfragen
-description: "Nutze dies, wenn Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden im Plugin Memorandums Ersteller konkret bearbeitet werden soll. Auslöser: Bitte Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

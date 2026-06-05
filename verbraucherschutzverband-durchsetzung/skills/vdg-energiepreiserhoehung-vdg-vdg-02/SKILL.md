@@ -1,13 +1,13 @@
 ---
 name: vdg-energiepreiserhoehung-vdg-vdg-02
-description: "Nutze dies, wenn Vdg 047 Energiepreiserhoehung Vergleich Pruefe, Vdg 048 Energiepreiserhoehung Umsetzung Ueberw, Vdg 050 Energiepreiserhoehung Risiko Rot Marki, Vdg 051 Plattform Sperre Sammelfaehigkeit Prue im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 047 Energiepreiserhoehung Vergleich Pruefe, Vdg 048 Energiepreiserhoehung Umsetzung Ueberw, Vdg 050 Energiepreiserhoehung Risiko Rot Marki, Vdg 051 Plattform Sperre Sammelfaehigkeit Prue prüfen.; Erstelle eine Arbeitsfassung zu Vdg 047 Energiepreiserhoehung Vergleich Pruefe, Vdg 048 Energiepreiserhoehung Umsetzung Ueberw, Vdg 050 Energiepreiserhoehung Risiko Rot Marki, Vdg 051 Plattform Sperre Sammelfaehigkeit Prue.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vdg 047 Energiepreiserhoehung Vergleich Pruefe, Vdg 048 Energiepreiserhoehung Umsetzung Ueberw, Vdg 050 Energiepreiserhoehung Risiko Rot Marki, Vdg 051 Plattform Sperre Sammelfaehigkeit Prue: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vdg 047 Energiepreiserhoehung Vergleich Pruefe, Vdg 048 Energiepreiserhoehung Umsetzung Ueberw, Vdg 050 Energiepreiserhoehung Risiko Rot Marki, Vdg 051 Plattform Sperre Sammelfaehigkeit Prue
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 047 Energiepreiserhoehung Vergleich Pruefe, Vdg 048 Energiepreiserhoehung Umsetzung Ueberw, Vdg 050 Energiepreiserhoehung Risiko Rot Marki, Vdg 051 Plattform Sperre Sammelfaehigkeit Prue** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

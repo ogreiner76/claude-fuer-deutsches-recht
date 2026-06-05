@@ -1,13 +1,13 @@
 ---
 name: ins-krypto-ins-warenderivate
-description: "Nutze dies, wenn Ins 035 Krypto Token, Ins 036 Warenderivate im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 035 Krypto Token, Ins 036 Warenderivate prüfen.; Erstelle eine Arbeitsfassung zu Ins 035 Krypto Token, Ins 036 Warenderivate.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 035 Krypto Token, Ins 036 Warenderivate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 035 Krypto Token, Ins 036 Warenderivate
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 035 Krypto Token, Ins 036 Warenderivate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -53,11 +53,11 @@ fällt, und entwickelt die entsprechende Compliance-Strategie.
 ### Schritt 1 – Klassifizierung des Tokens
 
 - Ist der Token ein Finanzinstrument nach MiFID II (Security Token)?
-  → Wenn ja: MAR gilt unmittelbar (wie für Aktien oder Anleihen)
+ → Wenn ja: MAR gilt unmittelbar (wie für Aktien oder Anleihen)
 - Ist der Token ein Utility Token, Asset-Referenced Token oder E-Money Token?
-  → Wenn ja: MiCA gilt (nicht MAR), spezifisch Art. 87–92 MiCA
+ → Wenn ja: MiCA gilt (nicht MAR), spezifisch Art. 87–92 MiCA
 - Ist der Token ein reiner Nutzungstoken ohne Anlagecharakter?
-  → Ggf. weder MAR noch MiCA; rechtliche Qualifikation im Einzelfall erforderlich
+ → Ggf. weder MAR noch MiCA; rechtliche Qualifikation im Einzelfall erforderlich
 
 ### Schritt 2 – MAR-Pflichten für Security Tokens
 
@@ -75,7 +75,7 @@ Art. 87 MiCA (Insiderhandel):
 - Verbot der Weitergabe (Art. 88 MiCA)
 - Verbot der Marktmanipulation (Art. 89 MiCA)
 Art. 90 MiCA: Verpflichtung zur Veröffentlichung von Insiderinformationen für
-  Krypto-Asset-Dienstleister und Emittenten von ARTs/EMTs
+ Krypto-Asset-Dienstleister und Emittenten von ARTs/EMTs
 
 ### Schritt 4 – Marktmanipulation im Krypto-Bereich
 
@@ -138,23 +138,23 @@ entwickelt die Compliance-Strategie für Commodity-Trader und Energieunternehmen
 
 - MAR: Warenderivate an regulierten Märkten oder MTF (z. B. EEX, ICE)
 - REMIT: Großhandels-Energieprodukte (Strom, Gas, LNG, Kapazitätsprodukte) –
-  auch OTC-Handel fällt unter REMIT
+ auch OTC-Handel fällt unter REMIT
 - Überschneidung: Energie-Derivate an regulierten Märkten können sowohl MAR als auch
-  REMIT unterliegen (kumulative Anwendung möglich)
+ REMIT unterliegen (kumulative Anwendung möglich)
 
 ### Schritt 2 – Insiderinformation im Warenderivate-Kontext (Art. 7 MAR)
 
 - Information über Lieferbedingungen, Verfügbarkeit (z. B. Pipeline-Ausfall), Lagerbestände,
-  Produktionsdaten – wenn kursrelevant für den Derivatepreis
+ Produktionsdaten – wenn kursrelevant für den Derivatepreis
 - Besonderheit: Information kann auch aus dem Spotmarkt stammen (Art. 7 Abs. 1 lit. b MAR)
 - REMIT: Insiderinformation = „privileged information" zu Kapazitäten, Angebot/Nachfrage,
-  Infrastrukturausfällen
+ Infrastrukturausfällen
 
 ### Schritt 3 – Marktmanipulation
 
 - MAR Art. 12: Verboten sind künstliche Preisgestaltung durch Cornering, Squeezing, Wash Trading
 - REMIT: Eigenes Marktmanipulationsverbot (Art. 5 REMIT), deckt auch Verhaltensweisen ab,
-  die den Erwartungen von Marktteilnehmern widersprechen
+ die den Erwartungen von Marktteilnehmern widersprechen
 - Capacity Withholding: Zurückhalten von Energiekapazitäten zur Preisbeeinflussung = REMIT-Verstoß
 
 ### Schritt 4 – Meldepflichten
@@ -166,7 +166,7 @@ entwickelt die Compliance-Strategie für Commodity-Trader und Energieunternehmen
 ### Schritt 5 – Compliance-Empfehlungen für Energie-Trader
 
 - Klare Trennung zwischen Informationen aus kommerzieller Tätigkeit (Spot-Markt) und
-  Derivate-Handelsabteilung (Chinese Walls)
+ Derivate-Handelsabteilung (Chinese Walls)
 - REMIT-Compliance-Programm: Meldewege, Schulungen, Handelssystem-Monitoring
 - Regelmäßiges Review: ACER-Guidance und REMIT II-Umsetzung verfolgen
 

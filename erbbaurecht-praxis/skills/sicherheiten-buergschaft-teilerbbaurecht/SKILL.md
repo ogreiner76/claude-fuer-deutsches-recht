@@ -1,13 +1,13 @@
 ---
 name: sicherheiten-buergschaft-teilerbbaurecht
-description: "Nutze dies, wenn Erbbaurecht Sicherheiten Buergschaft Depot Lastschrift, Erbbaurecht Teilerbbaurecht Und Aufteilung im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Erbbaurecht Sicherheiten Buergschaft Depot Lastschrift, Erbbaurecht Teilerbbaurecht Und Aufteilung prüfen.; Erstelle eine Arbeitsfassung zu Erbbaurecht Sicherheiten Buergschaft Depot Lastschrift, Erbbaurecht Teilerbbaurecht Und Aufteilung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erbbaurecht Sicherheiten Buergschaft Depot Lastschrift, Erbbaurecht Teilerbbaurecht Und Aufteilung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erbbaurecht Sicherheiten Buergschaft Depot Lastschrift, Erbbaurecht Teilerbbaurecht Und Aufteilung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erbbaurecht Sicherheiten Buergschaft Depot Lastschrift, Erbbaurecht Teilerbbaurecht Und Aufteilung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

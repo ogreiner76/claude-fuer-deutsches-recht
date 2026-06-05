@@ -1,13 +1,13 @@
 ---
 name: beleglage-tatsachenbehauptung-beweissicherung
-description: "Nutze dies, wenn Beleglage Tatsachenbehauptung, Beweissicherung Screenshots im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Beleglage Tatsachenbehauptung, Beweissicherung Screenshots prüfen.; Erstelle eine Arbeitsfassung zu Beleglage Tatsachenbehauptung, Beweissicherung Screenshots.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beleglage Tatsachenbehauptung, Beweissicherung Screenshots: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beleglage Tatsachenbehauptung, Beweissicherung Screenshots
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beleglage Tatsachenbehauptung, Beweissicherung Screenshots** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -37,7 +37,7 @@ Sobald eine Äußerung einen Tatsachenkern hat, muss dieser gesondert geprüft w
 
 | Tatsachenkern | Quelle | Qualität | Gegenbeleg | Risiko |
 |---|---|---|---|---|
-|  | eigene Wahrnehmung / Dokument / Zeuge / öffentlich / Hörensagen | stark / mittel / schwach |  | grün / gelb / rot |
+| | eigene Wahrnehmung / Dokument / Zeuge / öffentlich / Hörensagen | stark / mittel / schwach | | grün / gelb / rot |
 
 ## Prüfpunkte
 

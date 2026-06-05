@@ -1,22 +1,22 @@
 ---
 name: freistellung-indemnity-geheimniskategorien
-description: "Nutze dies, wenn Freistellung Und Indemnity, Geheimniskategorien Crown Jewels, Gerichtsstand Schiedsgericht, Geschaeftsgeheimnis Definition 2 Geschgehg im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Freistellung Und Indemnity, Geheimniskategorien Crown Jewels, Gerichtsstand Schiedsgericht, Geschaeftsgeheimnis Definition 2 Geschgehg prüfen.; Erstelle eine Arbeitsfassung zu Freistellung Und Indemnity, Geheimniskategorien Crown Jewels, Gerichtsstand Schiedsgericht, Geschaeftsgeheimnis Definition 2 Geschgehg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Freistellung Und Indemnity, Geheimniskategorien Crown Jewels, Gerichtsstand Schiedsgericht, Geschaeftsgeheimnis Definition 2 Geschgehg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Freistellung Und Indemnity, Geheimniskategorien Crown Jewels, Gerichtsstand Schiedsgericht, Geschaeftsgeheimnis Definition 2 Geschgehg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Freistellung Und Indemnity, Geheimniskategorien Crown Jewels, Gerichtsstand Schiedsgericht, Geschaeftsgeheimnis Definition 2 Geschgehg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `freistellung-und-indemnity` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Freistellung Und Indemnity; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `geheimniskategorien-crown-jewels` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geheimniskategorien Crown Jewels; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gerichtsstand-schiedsgericht` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gerichtsstand Schiedsgericht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `geschaeftsgeheimnis-definition-2-geschgehg` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschaeftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `freistellung-und-indemnity` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Freistellung Und Indemnity; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `geheimniskategorien-crown-jewels` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geheimniskategorien Crown Jewels; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gerichtsstand-schiedsgericht` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gerichtsstand Schiedsgericht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `geschaeftsgeheimnis-definition-2-geschgehg` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschaeftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Freistellung Und Indemnity, Geheimniskategorien Crown Jewels, Gerichtssta
 
 ## 1. `freistellung-und-indemnity`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Freistellung Und Indemnity; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Freistellung Und Indemnity; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Freistellung Und Indemnity
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `geheimniskategorien-crown-jewels`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geheimniskategorien Crown Jewels; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geheimniskategorien Crown Jewels; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Geheimniskategorien Crown Jewels
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `gerichtsstand-schiedsgericht`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gerichtsstand Schiedsgericht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gerichtsstand Schiedsgericht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gerichtsstand Schiedsgericht
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `geschaeftsgeheimnis-definition-2-geschgehg`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschaeftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschaeftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Geschaeftsgeheimnis Definition 2 Geschgehg
 

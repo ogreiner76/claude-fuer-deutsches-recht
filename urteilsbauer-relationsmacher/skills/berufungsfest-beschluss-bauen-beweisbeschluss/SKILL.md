@@ -1,13 +1,13 @@
 ---
 name: berufungsfest-beschluss-bauen-beweisbeschluss
-description: "Nutze dies, wenn Berufungsfest Prüfen, Beschluss Bauen Zpo, Beweisbeschluss Vorbereiten im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Bitte Berufungsfest Prüfen, Beschluss Bauen Zpo, Beweisbeschluss Vorbereiten prüfen.; Erstelle eine Arbeitsfassung zu Berufungsfest Prüfen, Beschluss Bauen Zpo, Beweisbeschluss Vorbereiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Berufungsfest Prüfen, Beschluss Bauen Zpo, Beweisbeschluss Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Berufungsfest Prüfen, Beschluss Bauen Zpo, Beweisbeschluss Vorbereiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Berufungsfest Prüfen, Beschluss Bauen Zpo, Beweisbeschluss Vorbereiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -186,8 +186,8 @@ Hoehe des am Fahrzeug entstandenen Schadens.
 Die Parteien werden auf folgende rechtliche Gesichtspunkte hingewiesen
 (Paragraf 139 II ZPO):
 1. Es bestehen Bedenken gegen die Schluessigkeit der Klage hinsichtlich
-   des Vortrags zur Hoehe des Schmerzensgeldes. Der Klaeger wird
-   gebeten, [...] naeher darzulegen.
+ des Vortrags zur Hoehe des Schmerzensgeldes. Der Klaeger wird
+ gebeten, [...] naeher darzulegen.
 2. [...]
 Den Parteien wird Gelegenheit gegeben, hierzu binnen drei Wochen
 schriftsaetzlich Stellung zu nehmen.
@@ -248,8 +248,8 @@ durch Beschluss zurueckzuweisen, da
 1. die Berufung keine Aussicht auf Erfolg hat (Paragraf 522 II 1 Nr. 1 ZPO),
 2. die Rechtssache keine grundsaetzliche Bedeutung hat (Nr. 2),
 3. die Fortbildung des Rechts oder die Sicherung einer einheitlichen
-   Rechtsprechung eine Entscheidung des Berufungsgerichts nicht erfordert
-   (Nr. 3) und
+ Rechtsprechung eine Entscheidung des Berufungsgerichts nicht erfordert
+ (Nr. 3) und
 4. eine muendliche Verhandlung nicht geboten ist (Nr. 4).
 
 Im einzelnen: [...]

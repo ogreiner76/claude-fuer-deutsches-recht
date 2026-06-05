@@ -1,13 +1,13 @@
 ---
 name: nebenkostenabrechnung-erstellen-faktenbank
-description: "Nutze dies, wenn Nebenkostenabrechnung Erstellen, Nebenkostenabrechnung Prüfen, Rechtsstand Mai 2026 Faktenbank im Plugin Mietrecht konkret bearbeitet werden soll. Auslöser: Bitte Nebenkostenabrechnung Erstellen, Nebenkostenabrechnung Prüfen, Rechtsstand Mai 2026 Faktenbank prüfen.; Erstelle eine Arbeitsfassung zu Nebenkostenabrechnung Erstellen, Nebenkostenabrechnung Prüfen, Rechtsstand Mai 2026 Faktenbank.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nebenkostenabrechnung Erstellen, Nebenkostenabrechnung Prüfen, Rechtsstand Mai 2026 Faktenbank: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nebenkostenabrechnung Erstellen, Nebenkostenabrechnung Prüfen, Rechtsstand Mai 2026 Faktenbank
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nebenkostenabrechnung Erstellen, Nebenkostenabrechnung Prüfen, Rechtsstand Mai 2026 Faktenbank** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -51,7 +51,7 @@ Dieser Skill erstellt keine pauschale Nebenkostenliste, sondern eine belastbare,
 - CO2-Kostenaufteilung nach CO2KostAufG,
 - Vorauszahlungen und Saldo.
 
-## Kaltstart
+## Einstieg
 
 Nur diese Punkte abfragen, wenn sie nicht aus der Akte hervorgehen:
 
@@ -163,7 +163,7 @@ Normen live auf gesetze-im-internet.de prüfen. Rechtsprechung nur mit Gericht, 
 
 Dieser Skill prüft eine konkrete Betriebskostenabrechnung so, dass daraus sofort ein Rückfrageschreiben, eine Zahlungsempfehlung, eine Einwendung oder eine Klage-/Verteidigungsnotiz entstehen kann. Er unterscheidet konsequent zwischen formellen Fehlern, materiellen Fehlern und bloßen Erläuterungslücken.
 
-## Kaltstart
+## Einstieg
 
 Wenn die Abrechnung vorliegt, nicht lange fragen: zuerst auswerten. Nur diese Weichen klären:
 

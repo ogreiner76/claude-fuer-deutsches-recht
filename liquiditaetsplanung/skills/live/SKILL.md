@@ -1,6 +1,6 @@
 ---
 name: live
-description: "Nutze dies, wenn Live: Mandantenkommunikation und Entscheidungsvorlage im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Live: Mandantenkommunikation und Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Live: Mandantenkommunikation und Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Live: Mandantenkommunikation und Entscheidungsvorlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Live: Mandantenkommunikation und Entscheidungsvorlage

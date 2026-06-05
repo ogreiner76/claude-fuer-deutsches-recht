@@ -1,13 +1,13 @@
 ---
 name: schmaehkritik-formalbeleidigung-schnelltriage
-description: "Nutze dies, wenn Schmaehkritik Formalbeleidigung Menschenwuerde, Schnelltriage Aeusserung im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Schmaehkritik Formalbeleidigung Menschenwuerde, Schnelltriage Aeusserung prüfen.; Erstelle eine Arbeitsfassung zu Schmaehkritik Formalbeleidigung Menschenwuerde, Schnelltriage Aeusserung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schmaehkritik Formalbeleidigung Menschenwuerde, Schnelltriage Aeusserung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Schmaehkritik Formalbeleidigung Menschenwuerde, Schnelltriage Aeusserung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schmaehkritik Formalbeleidigung Menschenwuerde, Schnelltriage Aeusserung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

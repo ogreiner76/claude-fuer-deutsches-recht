@@ -1,13 +1,13 @@
 ---
 name: iv-idw-iv
-description: "Nutze dies, wenn Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter im Plugin Insolvenzverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter prüfen.; Erstelle eine Arbeitsfassung zu Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

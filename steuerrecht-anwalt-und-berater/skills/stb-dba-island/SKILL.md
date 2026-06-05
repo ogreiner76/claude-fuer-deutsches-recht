@@ -140,13 +140,13 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, EWR-Status, Wegzugsbesteuerung.
 3. **Kurzantwort**: DBA-Island 1971 (mit Protokoll 1996) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-IS 1971).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Bei Fischerei Art. 8 (Schifffahrt).
-   - Einkunftsart und Verteilungsartikel.
-   - Methodenartikel.
-   - § 6 AStG bei Wegzug (EWR-erleichtert).
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-IS 1971).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Bei Fischerei Art. 8 (Schifffahrt).
+ - Einkunftsart und Verteilungsartikel.
+ - Methodenartikel.
+ - § 6 AStG bei Wegzug (EWR-erleichtert).
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: aelteres DBA 1971, EWR-vs-EU, MLI-Anwendung.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

@@ -1,20 +1,20 @@
 ---
 name: fran-rs-fran-rs-franchise-kontext
-description: "Nutze dies, wenn Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext prüfen.; Erstelle eine Arbeitsfassung zu Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fran-rs-systemhandbuch-aenderungen-ohne-agb-absturz` | Spezialskill Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
-| `fran-rs-vertikale-preisbindung-im-franchisesystem` | Spezialskill Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-systemhandbuch-aenderungen-ohne-agb-absturz` | Fachmodul Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-vertikale-preisbindung-im-franchisesystem` | Fachmodul Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `franchise-internationaler-kontext` | Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster fuer Cross-Border-Franchise. |
 
 ## Arbeitsweg
@@ -26,7 +26,7 @@ Für **Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Pr
 
 ## 1. `fran-rs-systemhandbuch-aenderungen-ohne-agb-absturz`
 
-**Fokus:** Spezialskill Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Systemhandbuch-Änderungen ohne AGB-Absturz
 
@@ -70,7 +70,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `fran-rs-vertikale-preisbindung-im-franchisesystem`
 
-**Fokus:** Spezialskill Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Vertikale Preisbindung im Franchisesystem
 

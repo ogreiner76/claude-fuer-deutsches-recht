@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Familien- und Elterngeldrecht
-Ressort:            BMBFSFJ
-Kernnormen:         BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.
-Akteure/Aufsicht:   Elterngeldstellen der Laender; BMBFSFJ; Familiengerichte.
-EU/Voelkerrecht:    Work-Life-Balance-RL; Mutterschutz-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmbfsfj; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Familien- und Elterngeldrecht
+Ressort: BMBFSFJ
+Kernnormen: BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.
+Akteure/Aufsicht: Elterngeldstellen der Laender; BMBFSFJ; Familiengerichte.
+EU/Voelkerrecht: Work-Life-Balance-RL; Mutterschutz-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

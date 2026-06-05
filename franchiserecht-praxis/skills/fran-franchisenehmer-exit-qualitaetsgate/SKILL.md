@@ -1,13 +1,13 @@
 ---
 name: fran-franchisenehmer-exit-qualitaetsgate
-description: "Nutze dies, wenn Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franchiseakte, Fran Rs Crm Daten Und Gemeinsame Verantwortlichkeit im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franchiseakte, Fran Rs Crm Daten Und Gemeinsame Verantwortlichkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franchiseakte, Fran Rs Crm Daten Und Gemeinsame Verantwortlichkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franchiseakte, Fran Rs Crm Daten Und Gemeinsame Verantwortlichkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `fran-050-franchisenehmer-exit-plan` | Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkaufsoptionen. |
 | `fran-051-qualitaetsgate-franchiseakte` | Qualitätsgate-Prüfung der vollständigen Franchiseakte: Vollständigkeit der Systemunterlagen, Kohärenz von Vertrag und Systemhandbuch, Schutzrechtebestand, offene Fristen und finale Plausibilitätsprüfung aller wesentlichen Franchise-Rechtspositionen. |
-| `fran-rs-crm-daten-und-gemeinsame-verantwortlichkeit` | Spezialskill Franchiserecht für CRM-Daten und gemeinsame Verantwortlichkeit: Zentrales CRM, Loyalty-Programme und Marketingdaten werden zwischen Franchisegeber und Nehmer auf Verantwortlichkeit und Bußgeldrisiko sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
+| `fran-rs-crm-daten-und-gemeinsame-verantwortlichkeit` | Fachmodul Franchiserecht für CRM-Daten und gemeinsame Verantwortlichkeit: Zentrales CRM, Loyalty-Programme und Marketingdaten werden zwischen Franchisegeber und Nehmer auf Verantwortlichkeit und Bußgeldrisiko sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 
 ## Arbeitsweg
 
@@ -184,7 +184,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-rs-crm-daten-und-gemeinsame-verantwortlichkeit`
 
-**Fokus:** Spezialskill Franchiserecht für CRM-Daten und gemeinsame Verantwortlichkeit: Zentrales CRM, Loyalty-Programme und Marketingdaten werden zwischen Franchisegeber und Nehmer auf Verantwortlichkeit und Bußgeldrisiko sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Fachmodul Franchiserecht für CRM-Daten und gemeinsame Verantwortlichkeit: Zentrales CRM, Loyalty-Programme und Marketingdaten werden zwischen Franchisegeber und Nehmer auf Verantwortlichkeit und Bußgeldrisiko sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: CRM-Daten und gemeinsame Verantwortlichkeit
 

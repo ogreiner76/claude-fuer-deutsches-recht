@@ -1,13 +1,13 @@
 ---
 name: aufenthaltstitel-erstgespraech-mandatsannahme
-description: "Nutze dies, wenn Aufenthaltstitel Prüfung, Erstgespraech Mandatsannahme, Fachanwalt Migrationsrecht Abschiebungsabwehr, Fachanwalt Migrationsrecht Asyl Folgeantrag 71 im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Aufenthaltstitel Prüfung, Erstgespraech Mandatsannahme, Fachanwalt Migrationsrecht Abschiebungsabwehr, Fachanwalt Migrationsrecht Asyl Folgeantrag 71 prüfen.; Erstelle eine Arbeitsfassung zu Aufenthaltstitel Prüfung, Erstgespraech Mandatsannahme, Fachanwalt Migrationsrecht Abschiebungsabwehr, Fachanwalt Migrationsrecht Asyl Folgeantrag 71.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aufenthaltstitel Prüfung, Erstgespraech Mandatsannahme, Fachanwalt Migrationsrecht Abschiebungsabwehr, Fachanwalt Migrationsrecht Asyl Folgeantrag 71: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aufenthaltstitel Prüfung, Erstgespraech Mandatsannahme, Fachanwalt Migrationsrecht Abschiebungsabwehr, Fachanwalt Migrationsrecht Asyl Folgeantrag 71
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -137,7 +137,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 An die Ausländerbehörde [Ort]
 
 Betreff: Antrag auf Aufenthaltserlaubnis nach § 25b AufenthG
-         (nachhaltige Integration) für [Name, Geburtsdatum]
+ (nachhaltige Integration) für [Name, Geburtsdatum]
 
 Sehr geehrte Damen und Herren,
 
@@ -147,23 +147,23 @@ Aufenthaltserlaubnis nach § 25b AufenthG.
 Voraussetzungen nach § 25b Abs. 1 AufenthG sind erfüllt:
 
 1. Mindestaufenthalt: Ununterbrochener rechtmäßiger oder geduldeter
-   Aufenthalt seit [Datum] — mindestens acht Jahre
-   (sechs Jahre bei Kindern/Alleinerziehenden). Belegt durch
-   Anlage A1 (Ausländerbehördennachweis).
+ Aufenthalt seit [Datum] — mindestens acht Jahre
+ (sechs Jahre bei Kindern/Alleinerziehenden). Belegt durch
+ Anlage A1 (Ausländerbehördennachweis).
 
 2. Lebensunterhaltssicherung: Monatliches Nettoeinkommen
-   EUR [Betrag] aus Beschäftigung bei [Arbeitgeber]. Überschreitet
-   SGB-II-Regelbedarf für [Personen] (EUR [Betrag]) deutlich.
-   Anlage A2: Lohnabrechnungen.
+ EUR [Betrag] aus Beschäftigung bei [Arbeitgeber]. Überschreitet
+ SGB-II-Regelbedarf für [Personen] (EUR [Betrag]) deutlich.
+ Anlage A2: Lohnabrechnungen.
 
 3. Mündliche Deutschkenntnisse A2: [Sprachzertifikat, Datum]
-   Anlage A3.
+ Anlage A3.
 
 4. Kein Bezug von SGB-II-/SGB-XII-Leistungen seit [Datum]:
-   Bescheinigung Jobcenter Anlage A4.
+ Bescheinigung Jobcenter Anlage A4.
 
 5. Keine Ausweisungsinteressen § 54 AufenthG: Führungszeugnis
-   ohne Eintrag Anlage A5.
+ ohne Eintrag Anlage A5.
 
 Wir bitten um Ausstellung einer Fiktionsbescheinigung und
 Terminbestätigung.
@@ -225,20 +225,20 @@ Karte EU nach § 18b Abs. 2 AufenthG.
 Voraussetzungen sind erfüllt:
 
 1. Hochschulabschluss: [Universität, Land, Jahr, Fach].
-   Abschluss-Zeugnis mit Übersetzung: Anlage B1.
-   Anabin-Datenbank-Prüfung: Anlage B2 (Gleichwertigkeitsnachweis).
+ Abschluss-Zeugnis mit Übersetzung: Anlage B1.
+ Anabin-Datenbank-Prüfung: Anlage B2 (Gleichwertigkeitsnachweis).
 
 2. Konkreter Arbeitsplatz: Arbeitsvertrag mit [Arbeitgeber] vom
-   [Datum] (Anlage B3). Bruttojahresgehalt EUR [Betrag].
-   Aktueller Schwellenwert 2025 (§ 18b Abs. 2 Satz 1 Nr. 2 AufenthG):
-   EUR 45300 (Regelberuf) / EUR 41041 (Mangelberuf) —
-   bitte aktuellen Wert aus BMAS-Bekanntmachung prüfen.
+ [Datum] (Anlage B3). Bruttojahresgehalt EUR [Betrag].
+ Aktueller Schwellenwert 2025 (§ 18b Abs. 2 Satz 1 Nr. 2 AufenthG):
+ EUR 45300 (Regelberuf) / EUR 41041 (Mangelberuf) —
+ bitte aktuellen Wert aus BMAS-Bekanntmachung prüfen.
 
 3. Zustimmungsfreiheit: Blaue Karte EU ist nach § 2 Abs. 1 Nr. 2
-   BeschV zustimmungsfrei.
+ BeschV zustimmungsfrei.
 
 4. Allgemeine Voraussetzungen § 5 AufenthG: Pass Anlage B4,
-   Krankenversicherung Anlage B5, Führungszeugnis Anlage B6.
+ Krankenversicherung Anlage B5, Führungszeugnis Anlage B6.
 
 Mit freundlichen Grüßen
 [Rechtsanwalt/-anwältin]
@@ -623,29 +623,29 @@ Antrag auf Erlass einer einstweiligen Anordnung gemaess § 123 VwGO
 
 Antragsteller: [Name Geburtsdatum Staatsangehoerigkeit]
 Antragsgegner: Bundesrepublik Deutschland vertreten durch die
-   Auslaenderbehoerde [Ort]
+ Auslaenderbehoerde [Ort]
 
 Wir beantragen:
 1. dem Antragsgegner im Wege der einstweiligen Anordnung aufzugeben dem
-   Antragsteller bis zur Entscheidung in der Hauptsache eine Duldung
-   nach § 60a AufenthG zu erteilen
+ Antragsteller bis zur Entscheidung in der Hauptsache eine Duldung
+ nach § 60a AufenthG zu erteilen
 2. hilfsweise dem Antragsgegner zu untersagen den Antragsteller
-   abzuschieben
+ abzuschieben
 
 Begruendung:
 
 Anordnungsanspruch:
 - Es liegen inlandsbezogene Vollstreckungshindernisse vor. Der
-  Antragsteller lebt seit [Datum] in familiaerer Lebensgemeinschaft mit
-  seinen [zwei] minderjaehrigen deutschen Kindern (Geburtsurkunden
-  Anlage K1-K2). Eine Abschiebung verletzt Art. 6 GG und Art. 8 EMRK.
+ Antragsteller lebt seit [Datum] in familiaerer Lebensgemeinschaft mit
+ seinen [zwei] minderjaehrigen deutschen Kindern (Geburtsurkunden
+ Anlage K1-K2). Eine Abschiebung verletzt Art. 6 GG und Art. 8 EMRK.
 - Hilfsweise: Reiseunfaehigkeit nach § 60a Abs. 2c AufenthG —
-  qualifiziertes fachaerztliches Attest des [Facharzt] vom [Datum]
-  (Anlage K3).
+ qualifiziertes fachaerztliches Attest des [Facharzt] vom [Datum]
+ (Anlage K3).
 
 Anordnungsgrund:
 - Abschiebung ist fuer [Datum] angekuendigt — irreparable Verletzung
-  von Grundrechten droht.
+ von Grundrechten droht.
 
 Glaubhaftmachung: § 920 Abs. 2 ZPO durch beigefuegte Anlagen.
 
@@ -697,12 +697,12 @@ vertreten durch Auslaenderbehoerde [ORT], [ADRESSE]
 
 ANTRAG:
 1. Dem Antragsgegner wird im Wege der einstweiligen Anordnung
-   gem. § 123 VwGO aufgegeben, dem Antragsteller unverzueglich
-   eine Duldung gem. § 60a Abs. 2 AufenthG zu erteilen.
+ gem. § 123 VwGO aufgegeben, dem Antragsteller unverzueglich
+ eine Duldung gem. § 60a Abs. 2 AufenthG zu erteilen.
 2. Hilfsweise: Dem Antragsgegner wird untersagt, den Antragsteller
-   bis zur Entscheidung in der Hauptsache abzuschieben.
+ bis zur Entscheidung in der Hauptsache abzuschieben.
 3. Dem Antragsteller wird Prozesskostenhilfe unter Beiordnung der
-   unterzeichnenden Rechtsanwaeltin bewilligt.
+ unterzeichnenden Rechtsanwaeltin bewilligt.
 
 BEGRUENDUNG:
 
@@ -906,8 +906,8 @@ Bundesamt fuer Migration und Fluechtlinge
 [ADRESSE]
 
 Re: Asyl-Folgeantrag gemaess § 71 AsylG
-    Antragsteller: [NAME, geb. DATUM, Staatsang.]
-    BAMF-Aktenzeichen (Erstantrag): [AZ]
+ Antragsteller: [NAME, geb. DATUM, Staatsang.]
+ BAMF-Aktenzeichen (Erstantrag): [AZ]
 
 Sehr geehrte Damen und Herren,
 

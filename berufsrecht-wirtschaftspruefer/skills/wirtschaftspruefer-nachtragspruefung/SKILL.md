@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-nachtragspruefung
-description: "Nutze dies, wenn Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Rechts, Wirtschaftspruefer Netzwerkunternehmen Und Brand Kammerantwort, Wirtschaftspruefer Netzwerkunternehmen Und Brand Organisationsp, Wirtschaftspruefer Praesentation Im Aufsichtsrat Kammerantwort im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Rechts, Wirtschaftspruefer Netzwerkunternehmen Und Brand Kammerantwort, Wirtschaftspruefer Netzwerkunternehmen Und Brand Organisationsp, Wirtschaftspruefer Praesentation Im Aufsichtsrat Kammerantwort: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Rechts, Wirtschaftspruefer Netzwerkunternehmen Und Brand Kammerantwort, Wirtschaftspruefer Netzwerkunternehmen Und Brand Organisationsp, Wirtschaftspruefer Praesentation Im Aufsichtsrat Kammerantwort
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Nachtragspruefung Und Fehlerkorrektur Rechts, Wirtschaftspruefer Netzwerkunternehmen Und Brand Kammerantwort, Wirtschaftspruefer Netzwerkunternehmen Und Brand Organisationsp, Wirtschaftspruefer Praesentation Im Aufsichtsrat Kammerantwort** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

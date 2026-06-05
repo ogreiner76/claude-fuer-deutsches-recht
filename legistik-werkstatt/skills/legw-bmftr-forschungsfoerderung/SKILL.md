@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Forschungsfoerderung und Ressortforschung
-Ressort:            BMFTR
-Kernnormen:         BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.
-Akteure/Aufsicht:   BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.
-EU/Voelkerrecht:    Horizon Europe; ERC; EIC; AGVO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmftr; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Forschungsfoerderung und Ressortforschung
+Ressort: BMFTR
+Kernnormen: BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.
+Akteure/Aufsicht: BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.
+EU/Voelkerrecht: Horizon Europe; ERC; EIC; AGVO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

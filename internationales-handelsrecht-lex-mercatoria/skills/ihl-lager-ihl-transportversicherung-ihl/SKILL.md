@@ -1,13 +1,13 @@
 ---
 name: ihl-lager-ihl-transportversicherung-ihl
-description: "Nutze dies, wenn Ihl 027 Lager Und Zolllager, Ihl 028 Transportversicherung, Ihl 029 Warentransit Und Gefahruebergang, Ihl 030 Zolltarif Und Ursprung im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 027 Lager Und Zolllager, Ihl 028 Transportversicherung, Ihl 029 Warentransit Und Gefahruebergang, Ihl 030 Zolltarif Und Ursprung prüfen.; Erstelle eine Arbeitsfassung zu Ihl 027 Lager Und Zolllager, Ihl 028 Transportversicherung, Ihl 029 Warentransit Und Gefahruebergang, Ihl 030 Zolltarif Und Ursprung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ihl 027 Lager Und Zolllager, Ihl 028 Transportversicherung, Ihl 029 Warentransit Und Gefahruebergang, Ihl 030 Zolltarif Und Ursprung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 027 Lager Und Zolllager, Ihl 028 Transportversicherung, Ihl 029 Warentransit Und Gefahruebergang, Ihl 030 Zolltarif Und Ursprung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 027 Lager Und Zolllager, Ihl 028 Transportversicherung, Ihl 029 Warentransit Und Gefahruebergang, Ihl 030 Zolltarif Und Ursprung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

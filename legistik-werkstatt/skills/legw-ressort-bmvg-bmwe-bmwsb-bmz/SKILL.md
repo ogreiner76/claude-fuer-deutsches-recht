@@ -1,13 +1,13 @@
 ---
 name: legw-ressort-bmvg-bmwe-bmwsb-bmz
-description: "Nutze dies, wenn Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz, Legw Ressort Router und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz, Legw Ressort Router und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz, Legw Ressort Router und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz, Legw Ressort Router und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz, Legw Ressort Router und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -74,13 +74,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -96,13 +96,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -137,16 +137,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMVg - Bundesministerium der Verteidigung
-Hausleitung:        Boris Pistorius (SPD)
-Materie:            Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve.
-Kernnormen:         SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmvg
+Ressort: BMVg - Bundesministerium der Verteidigung
+Hausleitung: Boris Pistorius (SPD)
+Materie: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve.
+Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmvg
 ```
 
 ## Abgrenzung
@@ -202,13 +202,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -224,13 +224,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -265,16 +265,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMWE - Bundesministerium fuer Wirtschaft und Energie
-Hausleitung:        Katherina Reiche (CDU)
-Materie:            Energie und Netze; Erneuerbare; Industriepolitik; Aussenwirtschaft; Wettbewerb.
-Kernnormen:         EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmwe
+Ressort: BMWE - Bundesministerium fuer Wirtschaft und Energie
+Hausleitung: Katherina Reiche (CDU)
+Materie: Energie und Netze; Erneuerbare; Industriepolitik; Aussenwirtschaft; Wettbewerb.
+Kernnormen: EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmwe
 ```
 
 ## Abgrenzung
@@ -330,13 +330,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -352,13 +352,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -393,16 +393,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMWSB - Bundesministerium fuer Wohnen; Stadtentwicklung und Bauwesen
-Hausleitung:        Verena Hubertz (SPD)
-Materie:            Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung.
-Kernnormen:         BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmwsb
+Ressort: BMWSB - Bundesministerium fuer Wohnen; Stadtentwicklung und Bauwesen
+Hausleitung: Verena Hubertz (SPD)
+Materie: Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung.
+Kernnormen: BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmwsb
 ```
 
 ## Abgrenzung
@@ -458,13 +458,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -480,13 +480,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -521,16 +521,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMZ - Bundesministerium fuer wirtschaftliche Zusammenarbeit und Entwicklung
-Hausleitung:        Reem Alabali Radovan (SPD)
-Materie:            Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales.
-Kernnormen:         Bilaterale Abkommen; LkSG; KSG; Pariser Abkommen (BGBl); EUZBLG; HBKG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmz
+Ressort: BMZ - Bundesministerium fuer wirtschaftliche Zusammenarbeit und Entwicklung
+Hausleitung: Reem Alabali Radovan (SPD)
+Materie: Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales.
+Kernnormen: Bilaterale Abkommen; LkSG; KSG; Pariser Abkommen (BGBl); EUZBLG; HBKG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmz
 ```
 
 ## Abgrenzung
@@ -628,11 +628,11 @@ Ein Routing-Block fuer das Auftragsblatt:
 Ressort federfuehrend: <kuerzel> - <Volltitel>
 Mitzeichnende Ressorts: <Liste>
 Empfohlene Skill-Kette:
-  1. legw-ressort-<kuerzel>            (Heranfuehrung)
-  2. legw-ressortaufgaben-<kuerzel>    (Ressortaufgaben)
-  3. legw-<kuerzel>-<thema>            (Spezialfeld)
-  4. normhierarchie-routing            (Normwahl)
-  5. <weitere Spezial- und Werkstattskills>
+ 1. legw-ressort-<kuerzel> (Heranfuehrung)
+ 2. legw-ressortaufgaben-<kuerzel> (Ressortaufgaben)
+ 3. legw-<kuerzel>-<thema> (Spezialfeld)
+ 4. normhierarchie-routing (Normwahl)
+ 5. <weitere Spezial- und Werkstattskills>
 Optional RuleMapping-Anschluss: legw-rmap-grundlagen (Einstieg in 10 RuleMapping-Skills)
 ```
 
@@ -671,7 +671,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (GG Art. 32 und Art. 59; WVK; KonsG; PassG; AWG; AWV; EUZBLG; IntZG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -690,28 +690,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer AA-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (AA-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -723,17 +723,17 @@ Nachgeordnete Behoerden des AA im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              AA
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     AA-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-aa-<thema>; normhierarchie-routing
+Ressort: AA
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: AA-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-aa-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung
@@ -775,7 +775,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (ArbZG; TVG; ArbSchG; SGB I bis SGB XII; SGB IX; SGB VI; BetrVG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -794,28 +794,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMAS-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMAS-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -827,17 +827,17 @@ Nachgeordnete Behoerden des BMAS im Vollzug einbinden. Vollzugsfolgen pruefen.
 Aufgabenmatrix:
 
 ```
-Ressort:              BMAS
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMAS-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmas-<thema>; normhierarchie-routing
+Ressort: BMAS
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMAS-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmas-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung
@@ -879,7 +879,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 ### Schritt 2 - Begruendungspflichten klaeren
 
 - **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
-  (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
+ (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
 - **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (BAfoeG; BBiG; KJHG (SGB VIII); BEEG; UnterhVG; AGG; LFGB; LPartG.).
 - Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
 
@@ -898,28 +898,28 @@ Anhoerungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 ### Schritt 4 - Ressortabstimmung und Mitzeichnung
 
 - **Mitzeichnende Ressorts** typisch fuer BMBFSFJ-Vorhaben: BMI (Verwaltung), BMF
-  (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
-  weitere ressortabhaengig.
+ (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
+ weitere ressortabhaengig.
 - **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
 - Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
 
 ### Schritt 5 - NKR und Erfuellungsaufwand
 
 - **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
-  Berechnung des Erfuellungsaufwands auf Plausibilitaet.
+ Berechnung des Erfuellungsaufwands auf Plausibilitaet.
 - Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
 
 ### Schritt 6 - Kabinettsweg
 
 - Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
-  abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
+ abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
 - Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
 
 ### Schritt 7 - Bundestag und Bundesrat
 
 - **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
 - **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
-  `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
+ `spezial-bundestag-fristen-form-und-zustaendigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMBFSFJ-Spiegel).
 
 ### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
@@ -931,17 +931,17 @@ Nachgeordnete Behoerden des BMBFSFJ im Vollzug einbinden. Vollzugsfolgen pruefen
 Aufgabenmatrix:
 
 ```
-Ressort:              BMBFSFJ
-Vorhabenart:          <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht:  allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende:            <Liste>; Frist 4 Wochen
-Mitzeichner:          <BMF;BMI;BMJV;...>
-NKR-Vorlage:          ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett:             ja|nein; Vorlage-Schwerpunkt
-Bundesrat:            Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT:     BMBFSFJ-Spiegel
-Aufsicht/Vollzug:     <Behoerde>; Vollzugsfolgen
-Naechste Skills:      legw-bmbfsfj-<thema>; normhierarchie-routing
+Ressort: BMBFSFJ
+Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
+Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
+Verbaende: <Liste>; Frist 4 Wochen
+Mitzeichner: <BMF;BMI;BMJV;...>
+NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
+Kabinett: ja|nein; Vorlage-Schwerpunkt
+Bundesrat: Zustimmung|Einspruch|nicht erforderlich
+Fachausschuss BT: BMBFSFJ-Spiegel
+Aufsicht/Vollzug: <Behoerde>; Vollzugsfolgen
+Naechste Skills: legw-bmbfsfj-<thema>; normhierarchie-routing
 ```
 
 ## Abgrenzung

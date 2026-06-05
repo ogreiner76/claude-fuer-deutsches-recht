@@ -1,13 +1,13 @@
 ---
 name: technische-begriffe-teleologische-auslegung
-description: "Nutze dies, wenn Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check, Verfassungs Und Unionsrechtskonforme Auslegung im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check, Verfassungs Und Unionsrechtskonforme Auslegung prüfen.; Erstelle eine Arbeitsfassung zu Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check, Verfassungs Und Unionsrechtskonforme Auslegung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check, Verfassungs Und Unionsrechtskonforme Auslegung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check, Verfassungs Und Unionsrechtskonforme Auslegung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

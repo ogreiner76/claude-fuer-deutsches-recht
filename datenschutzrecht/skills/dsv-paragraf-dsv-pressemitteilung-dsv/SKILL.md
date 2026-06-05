@@ -1,13 +1,13 @@
 ---
 name: dsv-paragraf-dsv-pressemitteilung-dsv
-description: "Nutze dies, wenn Dsv Paragraf 203 Stgb Berufsgeheimnis, Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Funktionsuebertragung Vs Auftragsverarbeitung im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Dsv Paragraf 203 Stgb Berufsgeheimnis, Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Funktionsuebertragung Vs Auftragsverarbeitung prüfen.; Erstelle eine Arbeitsfassung zu Dsv Paragraf 203 Stgb Berufsgeheimnis, Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Funktionsuebertragung Vs Auftragsverarbeitung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsv Paragraf 203 Stgb Berufsgeheimnis, Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsv Paragraf 203 Stgb Berufsgeheimnis, Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Funktionsuebertragung Vs Auftragsverarbeitung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Paragraf 203 Stgb Berufsgeheimnis, Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Funktionsuebertragung Vs Auftragsverarbeitung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -285,38 +285,38 @@ Abgrenzung zwischen Funktionsuebertragung (eigene Verantwortlichkeit des Dritten
 ## Ablauf / Checkliste
 
 1. **Berufstraegerstellung erkennen.**
-   - Hat der Dritte eine eigene Berufstraegerstellung mit gesetzlicher Verschwiegenheitspflicht?
-   - Erbringt er eine Berufsleistung, die der Mandant nicht selbst erbringen koennte?
-   - Beispiele: Steuerberatung, Rechtsdienstleistung, Wirtschaftspruefung, aerztliche Behandlung, Inkasso (RDG).
+ - Hat der Dritte eine eigene Berufstraegerstellung mit gesetzlicher Verschwiegenheitspflicht?
+ - Erbringt er eine Berufsleistung, die der Mandant nicht selbst erbringen koennte?
+ - Beispiele: Steuerberatung, Rechtsdienstleistung, Wirtschaftspruefung, aerztliche Behandlung, Inkasso (RDG).
 
 2. **Eigene Zweck-Mittel-Entscheidung pruefen.**
-   - Entscheidet der Dritte ueber Methode und Inhalt seiner Berufsleistung autonom?
-   - Steuerberater entscheidet ueber Buchungsmethode, Rechtsanwalt ueber Argumentationsstrategie, Arzt ueber Diagnoseverfahren.
-   - Dann: Eigene Verantwortlichkeit, Funktionsuebertragung.
+ - Entscheidet der Dritte ueber Methode und Inhalt seiner Berufsleistung autonom?
+ - Steuerberater entscheidet ueber Buchungsmethode, Rechtsanwalt ueber Argumentationsstrategie, Arzt ueber Diagnoseverfahren.
+ - Dann: Eigene Verantwortlichkeit, Funktionsuebertragung.
 
 3. **Konstellationen.**
 
-   | Konstellation | Einordnung | Vertragstyp |
-   |---|---|---|
-   | Steuerberater erstellt Buchhaltung fuer Mandant | Funktionsuebertragung | Steuerberatungsvertrag, ggf. C2C-Datenuebermittlungsregelung |
-   | Rechtsanwalt vertritt Mandant | Funktionsuebertragung | Mandatsvertrag |
-   | Wirtschaftspruefer prueft Jahresabschluss | Funktionsuebertragung | Pruefungsvertrag |
-   | Inkassodienstleister treibt Forderungen ein | Funktionsuebertragung (typisch) | Inkassovertrag |
-   | Arzt behandelt Patient | Funktionsuebertragung | Behandlungsvertrag § 630a BGB |
-   | Externe IT betreut Kanzlei-IT mit Datenzugang | regelmaessig Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
-   | Externes Schreibbuero schreibt Diktate | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
-   | Cloud-Speicher fuer Mandantenakten | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
+ | Konstellation | Einordnung | Vertragstyp |
+ |---|---|---|
+ | Steuerberater erstellt Buchhaltung fuer Mandant | Funktionsuebertragung | Steuerberatungsvertrag, ggf. C2C-Datenuebermittlungsregelung |
+ | Rechtsanwalt vertritt Mandant | Funktionsuebertragung | Mandatsvertrag |
+ | Wirtschaftspruefer prueft Jahresabschluss | Funktionsuebertragung | Pruefungsvertrag |
+ | Inkassodienstleister treibt Forderungen ein | Funktionsuebertragung (typisch) | Inkassovertrag |
+ | Arzt behandelt Patient | Funktionsuebertragung | Behandlungsvertrag § 630a BGB |
+ | Externe IT betreut Kanzlei-IT mit Datenzugang | regelmaessig Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
+ | Externes Schreibbuero schreibt Diktate | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
+ | Cloud-Speicher fuer Mandantenakten | Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
 
 4. **§ 203 Abs. 3 StGB beachten (nur bei Auftragsverarbeitung erforderlich).**
-   - Mitwirkende Personen muessen zur Verschwiegenheit verpflichtet sein.
-   - Berufstraeger muss "im erforderlichen Umfang" offenbaren duerfen.
-   - Schriftliche Verpflichtung der mitwirkenden Personen ratsam.
-   - § 11 BORA fuer Rechtsanwaelte; entsprechende Regeln fuer Steuerberater und Aerzte.
+ - Mitwirkende Personen muessen zur Verschwiegenheit verpflichtet sein.
+ - Berufstraeger muss "im erforderlichen Umfang" offenbaren duerfen.
+ - Schriftliche Verpflichtung der mitwirkenden Personen ratsam.
+ - § 11 BORA fuer Rechtsanwaelte; entsprechende Regeln fuer Steuerberater und Aerzte.
 
 5. **Datenfluss-Vertrag bei Funktionsuebertragung.**
-   - Kein AVV erforderlich (Dritter ist eigener Verantwortlicher).
-   - Aber Datenuebermittlungsklausel im Mandatsvertrag empfohlen (Rechtsgrundlage Art. 6 Abs. 1 lit. b DSGVO und ggf. Art. 9 Abs. 2 lit. f DSGVO).
-   - Informationspflichten Art. 13/14 DSGVO bei beiden Akteuren.
+ - Kein AVV erforderlich (Dritter ist eigener Verantwortlicher).
+ - Aber Datenuebermittlungsklausel im Mandatsvertrag empfohlen (Rechtsgrundlage Art. 6 Abs. 1 lit. b DSGVO und ggf. Art. 9 Abs. 2 lit. f DSGVO).
+ - Informationspflichten Art. 13/14 DSGVO bei beiden Akteuren.
 
 ## Mustertext / Template
 

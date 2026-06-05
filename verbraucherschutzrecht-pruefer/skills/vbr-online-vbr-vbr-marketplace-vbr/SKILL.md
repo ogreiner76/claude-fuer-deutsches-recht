@@ -1,13 +1,13 @@
 ---
 name: vbr-online-vbr-vbr-marketplace-vbr
-description: "Nutze dies, wenn Vbr 049 Online Shop Vergleich Vorschlagen, Vbr 050 Online Shop Behoerdenmeldung Prüfen, Vbr 051 Marketplace Anspruch Prüfen, Vbr 052 Marketplace Widerruf Formulieren im Plugin Verbraucherschutzrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vbr 049 Online Shop Vergleich Vorschlagen, Vbr 050 Online Shop Behoerdenmeldung Prüfen, Vbr 051 Marketplace Anspruch Prüfen, Vbr 052 Marketplace Widerruf Formulieren prüfen.; Erstelle eine Arbeitsfassung zu Vbr 049 Online Shop Vergleich Vorschlagen, Vbr 050 Online Shop Behoerdenmeldung Prüfen, Vbr 051 Marketplace Anspruch Prüfen, Vbr 052 Marketplace Widerruf Formulieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vbr 049 Online Shop Vergleich Vorschlagen, Vbr 050 Online Shop Behoerdenmeldung Prüfen, Vbr 051 Marketplace Anspruch Prüfen, Vbr 052 Marketplace Widerruf Formulieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vbr 049 Online Shop Vergleich Vorschlagen, Vbr 050 Online Shop Behoerdenmeldung Prüfen, Vbr 051 Marketplace Anspruch Prüfen, Vbr 052 Marketplace Widerruf Formulieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vbr 049 Online Shop Vergleich Vorschlagen, Vbr 050 Online Shop Behoerdenmeldung Prüfen, Vbr 051 Marketplace Anspruch Prüfen, Vbr 052 Marketplace Widerruf Formulieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

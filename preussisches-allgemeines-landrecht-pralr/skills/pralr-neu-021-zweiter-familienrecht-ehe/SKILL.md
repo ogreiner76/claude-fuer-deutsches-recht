@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-021-zweiter-familienrecht-ehe
-description: "Nutze dies, wenn PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft

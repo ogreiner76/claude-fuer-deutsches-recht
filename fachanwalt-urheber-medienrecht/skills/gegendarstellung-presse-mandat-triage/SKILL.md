@@ -1,13 +1,13 @@
 ---
 name: gegendarstellung-presse-mandat-triage
-description: "Nutze dies, wenn Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Bitte Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -356,19 +356,19 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Schritt 1: Sachgebiet bestimmen (s. Routing-Matrix)
 
 Schritt 2: Frist pruefen
-  → Abmahnung: Datum + uebl. 7-14 Tage Reaktionsfrist
-  → Gegendarstellung: Datum Veroeffentlichung + LPG-Frist
-  → einstweilige Verfuegung: Zustellungsdatum + 14 Tage Widerspruch § 924 ZPO
+ → Abmahnung: Datum + uebl. 7-14 Tage Reaktionsfrist
+ → Gegendarstellung: Datum Veroeffentlichung + LPG-Frist
+ → einstweilige Verfuegung: Zustellungsdatum + 14 Tage Widerspruch § 924 ZPO
 
 Schritt 3: Eilcharakter klassifizieren
-  → Heute: eV zugestellt, Berichterstattung morgen
-  → 48h: Abmahnfrist laeult
-  → Diese Woche: regulaere Bearbeitung
+ → Heute: eV zugestellt, Berichterstattung morgen
+ → 48h: Abmahnfrist laeult
+ → Diese Woche: regulaere Bearbeitung
 
 Schritt 4: Mandatsannahme-Pruefung
-  → Konflikt-Check
-  → GwG-Identifizierung
-  → Streitwert schaetzen, Honorar vereinbaren
+ → Konflikt-Check
+ → GwG-Identifizierung
+ → Streitwert schaetzen, Honorar vereinbaren
 
 Schritt 5: Routing zum Folge-Skill
 ```
@@ -378,17 +378,17 @@ Schritt 5: Routing zum Folge-Skill
 ```
 TRIAGE-PROTOKOLL — URHEBER-/MEDIENRECHT
 
-Datum:           [TT.MM.JJJJ]
-Mandant:         [NAME, ROLLE]
-Sachgebiet:      [BESCHREIBUNG]
+Datum: [TT.MM.JJJJ]
+Mandant: [NAME, ROLLE]
+Sachgebiet: [BESCHREIBUNG]
 Verletzungsobjekt:[WERK/BILD/AEUSSERUNG]
-Gegner:          [NAME, ADRESSE]
-Frist:           [DATUM] — Art: [ABMAHNUNG/EV/GEGENDARSTELLUNG]
-Eilcharakter:    [HEUTE / 48H / DIESE WOCHE / KEINE EILE]
-Folge-Skill:     [SKILL-NAME]
-Streitwert:      ca. [BETRAG] EUR
+Gegner: [NAME, ADRESSE]
+Frist: [DATUM] — Art: [ABMAHNUNG/EV/GEGENDARSTELLUNG]
+Eilcharakter: [HEUTE / 48H / DIESE WOCHE / KEINE EILE]
+Folge-Skill: [SKILL-NAME]
+Streitwert: ca. [BETRAG] EUR
 Naechste Schritte:[MASSNAHME 1] bis [DATUM]
-                  [MASSNAHME 2] bis [DATUM]
+ [MASSNAHME 2] bis [DATUM]
 ```
 
 ## Eskalation
@@ -448,17 +448,17 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 1. Die Beklagte wird verurteilt, es bei Meidung eines Ordnungsgeldes bis
-   EUR 250.000 zu unterlassen, [WERK GENAU BEZEICHNEN] zu vervielfaeltigen,
-   zu verbreiten oder oeffentlich zugaenglich zu machen.
+ EUR 250.000 zu unterlassen, [WERK GENAU BEZEICHNEN] zu vervielfaeltigen,
+ zu verbreiten oder oeffentlich zugaenglich zu machen.
 
 2. Die Beklagte wird verurteilt, der Klaegerin Auskunft zu erteilen ueber
-   [UMFANG: Art der Nutzung, Zeitraum, Nutzungsumfang, erzielte Erlöse].
+ [UMFANG: Art der Nutzung, Zeitraum, Nutzungsumfang, erzielte Erlöse].
 
 3. Die Beklagte wird verurteilt, an die Klaegerin Schadensersatz zu zahlen
-   (hilfsweise: Schadensersatz nach Lizenzanalogie gemaess § 287 ZPO).
+ (hilfsweise: Schadensersatz nach Lizenzanalogie gemaess § 287 ZPO).
 
 4. Es wird festgestellt, dass die Beklagte der Klaegerin saemtliche
-   weiteren Schaeden zu ersetzen hat.
+ weiteren Schaeden zu ersetzen hat.
 ```
 
 ### C. Tatsachenvortrag

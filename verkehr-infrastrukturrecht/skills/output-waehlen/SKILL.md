@@ -1,6 +1,6 @@
 ---
 name: output-waehlen
-description: "Nutze dies, wenn Output wählen im Plugin Verkehr Infrastrukturrecht konkret bearbeitet werden soll. Auslöser: Bitte Output wählen prüfen.; Erstelle eine Arbeitsfassung zu Output wählen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output wählen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output wählen
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Verkehr Infrastrukturrecht** ein Fall noch
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `autonomous-driving-interessen-grossprojekt` — Autonomous Driving Interessen Grossprojekt
 - `foerderung-vergabe-ladeinfrastruktur-planfeststellung` — Foerderung Vergabe Ladeinfrastruktur Planfeststellung
 - `infrastruktur-foerderung-nachhaltige-bahninfrastruktur` — Infrastruktur Foerderung Nachhaltige Bahninfrastruktur

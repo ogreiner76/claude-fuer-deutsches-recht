@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Barrierefreiheit Web Checker** ein Fall no
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `audit-barrierefreiheits-bfsg` — Audit Barrierefreiheits Bfsg
 - `bf-kiosk-bf-mediendienste-bf-pdf` — Bf Kiosk Bf Mediendienste Bf Pdf
 - `bfsg-zeitleiste-ecommerce-checkout-en301549-wcag` — Bfsg Zeitleiste Ecommerce Checkout En301549 Wcag

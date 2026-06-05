@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Kuenstliche Intelligenz und Technikregulierung
-Ressort:            BMFTR
-Kernnormen:         KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.
-Akteure/Aufsicht:   BSI; Marktueberwachung der Laender; BNetzA; ggf. KI-Marktaufsicht.
-EU/Voelkerrecht:    KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmftr; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Kuenstliche Intelligenz und Technikregulierung
+Ressort: BMFTR
+Kernnormen: KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.
+Akteure/Aufsicht: BSI; Marktueberwachung der Laender; BNetzA; ggf. KI-Marktaufsicht.
+EU/Voelkerrecht: KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

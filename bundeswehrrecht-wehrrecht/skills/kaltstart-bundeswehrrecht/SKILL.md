@@ -1,6 +1,6 @@
 ---
 name: kaltstart-bundeswehrrecht
-description: "Kaltstart Bundeswehrrecht: schneller Einstieg und Routing zu den richtigen Spezial-Skills bei unbekanntem Sachverhalt. Norm-/Quellenanker: SG, WBO, WDO, SVG."
+description: "Kaltstart Bundeswehrrecht: schneller Einstieg und Routing zu den passendes Fachmoduls bei unbekanntem Sachverhalt. Norm-/Quellenanker: SG, WBO, WDO, SVG."
 ---
 
 # Kaltstart Bundeswehrrecht
@@ -87,7 +87,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

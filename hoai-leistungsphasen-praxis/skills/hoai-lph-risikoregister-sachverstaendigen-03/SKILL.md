@@ -1,13 +1,13 @@
 ---
 name: hoai-lph-risikoregister-sachverstaendigen-03
-description: "Nutze dies, wenn Hoai Lph 07 Risikoregister, Hoai Lph 07 Sachverstaendigen Prüfung, Hoai Lph 07 Schnittstelle Vob Bgb, Hoai Lph 07 Streitfall Vorbereitung, Hoai Lph 07 Terminsteuerung im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Lph 07 Risikoregister, Hoai Lph 07 Sachverstaendigen Prüfung, Hoai Lph 07 Schnittstelle Vob Bgb, Hoai Lph 07 Streitfall Vorbereitung, Hoai Lph 07 Terminsteuerung prüfen.; Erstelle eine Arbeitsfassung zu Hoai Lph 07 Risikoregister, Hoai Lph 07 Sachverstaendigen Prüfung, Hoai Lph 07 Schnittstelle Vob Bgb, Hoai Lph 07 Streitfall Vorbereitung, Hoai Lph 07 Terminsteuerung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Lph 07 Risikoregister, Hoai Lph 07 Sachverstaendigen Prüfung, Hoai Lph 07 Schnittstelle Vob Bgb, Hoai Lph 07 Streitfall Vorbereitung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Lph 07 Risikoregister, Hoai Lph 07 Sachverstaendigen Prüfung, Hoai Lph 07 Schnittstelle Vob Bgb, Hoai Lph 07 Streitfall Vorbereitung, Hoai Lph 07 Terminsteuerung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Lph 07 Risikoregister, Hoai Lph 07 Sachverstaendigen Prüfung, Hoai Lph 07 Schnittstelle Vob Bgb, Hoai Lph 07 Streitfall Vorbereitung, Hoai Lph 07 Terminsteuerung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

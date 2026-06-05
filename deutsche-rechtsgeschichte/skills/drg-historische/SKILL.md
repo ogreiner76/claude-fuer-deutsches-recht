@@ -1,13 +1,13 @@
 ---
 name: drg-historische
-description: "Nutze dies, wenn Drg Neu 020 Historische Verfassungsvergleiche Als Argumentations konkret bearbeitet werden soll: Unterlagen sortieren, Normen und Fristen prüfen, typische Fehler vermeiden und einen verwertbaren nächsten Schritt formulieren."
+description: "Nutze dies bei Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations: ordnet Unterlagen, Normen, Fristen, Beweisfragen und den nächsten verwertbaren Schritt."
 ---
 
-# Drg Neu 020 Historische Verfassungsvergleiche Als Argumentations
+# Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -17,7 +17,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Drg Neu 020 Historische Verfassungsvergleiche Als Argumentations** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Deutsche Rechtsgeschichte Historische Verfassungsvergleiche Als Argumentations** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `deutsche-rechtsgeschichte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

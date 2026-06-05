@@ -1,22 +1,22 @@
 ---
 name: vorstandsvertrag-managerhaftung-regress
-description: "Nutze dies, wenn Vorstandsvertrag, Aufsichtsrat Managerhaftung Regress, Eigenhaftung Aufsichtsrat, Haftungsradar im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Vorstandsvertrag, Aufsichtsrat Managerhaftung Regress, Eigenhaftung Aufsichtsrat, Haftungsradar prüfen.; Erstelle eine Arbeitsfassung zu Vorstandsvertrag, Aufsichtsrat Managerhaftung Regress, Eigenhaftung Aufsichtsrat, Haftungsradar.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vorstandsvertrag, Aufsichtsrat Managerhaftung Regress, Eigenhaftung Aufsichtsrat, Haftungsradar: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vorstandsvertrag, Aufsichtsrat Managerhaftung Regress, Eigenhaftung Aufsichtsrat, Haftungsradar
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vorstandsvertrag, Aufsichtsrat Managerhaftung Regress, Eigenhaftung Aufsichtsrat, Haftungsradar** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `vorstandsvertrag` | AG/SE-Aufsichtsrat Praxis: Vorstandsvertrag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsrat-managerhaftung-regress` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Managerhaftung Regress; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `eigenhaftung-aufsichtsrat` | AG/SE-Aufsichtsrat Praxis: Eigenhaftung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `haftungsradar` | AG/SE-Aufsichtsrat Praxis: Haftungsradar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `vorstandsvertrag` | AG/SE-Aufsichtsrat Praxis: Vorstandsvertrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsrat-managerhaftung-regress` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Managerhaftung Regress; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `eigenhaftung-aufsichtsrat` | AG/SE-Aufsichtsrat Praxis: Eigenhaftung Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `haftungsradar` | AG/SE-Aufsichtsrat Praxis: Haftungsradar; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Vorstandsvertrag, Aufsichtsrat Managerhaftung Regress, Eigenhaftung Aufsi
 
 ## 1. `vorstandsvertrag`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsvertrag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Vorstandsvertrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vorstandsvertrag
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `aufsichtsrat-managerhaftung-regress`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Managerhaftung Regress; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Managerhaftung Regress; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat Managerhaftung Regress
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `eigenhaftung-aufsichtsrat`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Eigenhaftung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Eigenhaftung Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Eigenhaftung Aufsichtsrat
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `haftungsradar`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Haftungsradar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Haftungsradar; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Haftungsradar
 

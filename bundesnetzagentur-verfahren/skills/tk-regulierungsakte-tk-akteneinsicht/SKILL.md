@@ -1,13 +1,13 @@
 ---
 name: tk-regulierungsakte-tk-akteneinsicht
-description: "Nutze dies, wenn Tk Regulierungsakte Nummernverwaltung Fristen Und Bescheidanalys, Tk Regulierungsakte Rufnummernmissbrauch Fristen Und Bescheidana, Verfahren Akteneinsicht Drittbeteiligte, Verfahren Auskunftsersuchen Bnetza Beantworten, Verfahren Beschlusskammertermin Muendliche Verhandlung und 3 weitere Themen im Plugin Bundesnetzagentur Verfahren konkret bearbeitet werden soll. Auslöser: Bitte Tk Regulierungsakte Nummernverwaltung Fristen Und Bescheidanalys, Tk Regulierungsakte Rufnummernmissbrauch Fristen Und Bescheidana, Verfahren Akteneinsicht Drittbeteiligte, Verfahren Auskunftsersuchen Bnetza Beantworten, Verfahren Beschlusskammertermin Muendliche Verhandlung und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Tk Regulierungsakte Nummernverwaltung Fristen Und Bescheidanalys, Tk Regulierungsakte Rufnummernmissbrauch Fristen Und Bescheidana, Verfahren Akteneinsicht Drittbeteiligte, Verfahren Auskunftsersuchen Bnetza Beantworten, Verfahren Beschlusskammertermin Muendl..."
+description: "Nutze dies bei Tk Regulierungsakte Nummernverwaltung Fristen Und Bescheidanalys, Tk Regulierungsakte Rufnummernmissbrauch Fristen Und Bescheidana, Verfahren Akteneinsicht Drittbeteiligte, Verfahren Auskunftsersuchen Bnetza Beantworten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tk Regulierungsakte Nummernverwaltung Fristen Und Bescheidanalys, Tk Regulierungsakte Rufnummernmissbrauch Fristen Und Bescheidana, Verfahren Akteneinsicht Drittbeteiligte, Verfahren Auskunftsersuchen Bnetza Beantworten, Verfahren Beschlusskammertermin Muendliche Verhandlung und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tk Regulierungsakte Nummernverwaltung Fristen Und Bescheidanalys, Tk Regulierungsakte Rufnummernmissbrauch Fristen Und Bescheidana, Verfahren Akteneinsicht Drittbeteiligte, Verfahren Auskunftsersuchen Bnetza Beantworten, Verfahren Beschlusskammertermin Muendliche Verhandlung und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,12 +15,12 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `tk-regulierungsakte-nummernverwaltung-fristen-und-bescheidanalys` | Nummernverwaltung: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. |
 | `tk-regulierungsakte-rufnummernmissbrauch-fristen-und-bescheidana` | Rufnummernmissbrauch: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. |
-| `verfahren-akteneinsicht-drittbeteiligte` | Verfahren / Akteneinsicht Drittbeteiligte: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
-| `verfahren-auskunftsersuchen-bnetza-beantworten` | Verfahren / Auskunftsersuchen BNetzA beantworten: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
-| `verfahren-beschlusskammertermin-muendliche-verhandlung` | Verfahren / Beschlusskammertermin mündliche Verhandlung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
-| `verfahren-bussgeldverfahren-bnetza` | Verfahren / Bußgeldverfahren BNetzA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
-| `verfahren-compliance-monitoring-nach-entscheidung` | Verfahren / Compliance-Monitoring nach Entscheidung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
-| `verfahren-durchsuchung-nachpruefung-dawn-raid` | Verfahren / Durchsuchung Nachprüfung Dawn Raid: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
+| `verfahren-akteneinsicht-drittbeteiligte` | Verfahren / Akteneinsicht Drittbeteiligte: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
+| `verfahren-auskunftsersuchen-bnetza-beantworten` | Verfahren / Auskunftsersuchen BNetzA beantworten: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
+| `verfahren-beschlusskammertermin-muendliche-verhandlung` | Verfahren / Beschlusskammertermin mündliche Verhandlung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
+| `verfahren-bussgeldverfahren-bnetza` | Verfahren / Bußgeldverfahren BNetzA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
+| `verfahren-compliance-monitoring-nach-entscheidung` | Verfahren / Compliance-Monitoring nach Entscheidung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
+| `verfahren-durchsuchung-nachpruefung-dawn-raid` | Verfahren / Durchsuchung Nachprüfung Dawn Raid: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
 
 ## Arbeitsweg
 
@@ -111,7 +111,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `verfahren-akteneinsicht-drittbeteiligte`
 
-**Fokus:** Verfahren / Akteneinsicht Drittbeteiligte: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Akteneinsicht Drittbeteiligte: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Akteneinsicht Drittbeteiligte
 
@@ -151,7 +151,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `verfahren-auskunftsersuchen-bnetza-beantworten`
 
-**Fokus:** Verfahren / Auskunftsersuchen BNetzA beantworten: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Auskunftsersuchen BNetzA beantworten: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Auskunftsersuchen BNetzA beantworten
 
@@ -191,7 +191,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `verfahren-beschlusskammertermin-muendliche-verhandlung`
 
-**Fokus:** Verfahren / Beschlusskammertermin mündliche Verhandlung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Beschlusskammertermin mündliche Verhandlung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Beschlusskammertermin mündliche Verhandlung
 
@@ -231,7 +231,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `verfahren-bussgeldverfahren-bnetza`
 
-**Fokus:** Verfahren / Bußgeldverfahren BNetzA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Bußgeldverfahren BNetzA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Bußgeldverfahren BNetzA
 
@@ -271,7 +271,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `verfahren-compliance-monitoring-nach-entscheidung`
 
-**Fokus:** Verfahren / Compliance-Monitoring nach Entscheidung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Compliance-Monitoring nach Entscheidung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Compliance-Monitoring nach Entscheidung
 
@@ -311,7 +311,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `verfahren-durchsuchung-nachpruefung-dawn-raid`
 
-**Fokus:** Verfahren / Durchsuchung Nachprüfung Dawn Raid: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Durchsuchung Nachprüfung Dawn Raid: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Durchsuchung Nachprüfung Dawn Raid
 

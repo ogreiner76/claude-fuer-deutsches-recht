@@ -77,7 +77,7 @@ Voraussetzungen:
 ## Schreibvorlage Stundungsantrag (verkürzt)
 
 ```
-[Kanzlei-Briefkopf]                                          [Datum]
+[Kanzlei-Briefkopf] [Datum]
 
 An das
 Finanzamt [Ort]

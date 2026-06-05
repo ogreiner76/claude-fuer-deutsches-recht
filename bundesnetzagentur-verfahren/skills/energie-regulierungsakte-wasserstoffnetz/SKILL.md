@@ -1,13 +1,13 @@
 ---
 name: energie-regulierungsakte-wasserstoffnetz
-description: "Nutze dies, wenn Energie Regulierungsakte Wasserstoffnetz Regulierung Rechtsmitte, Energie Regulierungsakte Wasserstoffnetz Regulierung Stellungnah, Energie Regulierungsakte Wasserstoffnetz Regulierung Unterlagena, Energie Remit Marktmissbrauch Energie, Energie Unbundling Entflechtung und 3 weitere Themen im Plugin Bundesnetzagentur Verfahren konkret bearbeitet werden soll. Auslöser: Bitte Energie Regulierungsakte Wasserstoffnetz Regulierung Rechtsmitte, Energie Regulierungsakte Wasserstoffnetz Regulierung Stellungnah, Energie Regulierungsakte Wasserstoffnetz Regulierung Unterlagena, Energie Remit Marktmissbrauch Energie, Energie Unbundling Entflechtung und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Energie Regulierungsakte Wasserstoffnetz Regulierung Rechtsmitte, Energie Regulierungsakte Wasserstoffnetz Regulierung Stellungnah, Energie Regulierungsakte Wasserstoffnetz Regulierung Unterlagena, Energie Remit Marktmissbrauch Energie, Energie Unbundling Entflechtung und..."
+description: "Nutze dies bei Energie Regulierungsakte Wasserstoffnetz Regulierung Rechtsmitte, Energie Regulierungsakte Wasserstoffnetz Regulierung Stellungnah, Energie Regulierungsakte Wasserstoffnetz Regulierung Unterlagena, Energie Remit Marktmissbrauch Energie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Energie Regulierungsakte Wasserstoffnetz Regulierung Rechtsmitte, Energie Regulierungsakte Wasserstoffnetz Regulierung Stellungnah, Energie Regulierungsakte Wasserstoffnetz Regulierung Unterlagena, Energie Remit Marktmissbrauch Energie, Energie Unbundling Entflechtung und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Energie Regulierungsakte Wasserstoffnetz Regulierung Rechtsmitte, Energie Regulierungsakte Wasserstoffnetz Regulierung Stellungnah, Energie Regulierungsakte Wasserstoffnetz Regulierung Unterlagena, Energie Remit Marktmissbrauch Energie, Energie Unbundling Entflechtung und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,11 +16,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `energie-regulierungsakte-wasserstoffnetz-regulierung-rechtsmitte` | Wasserstoffnetz Regulierung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 | `energie-regulierungsakte-wasserstoffnetz-regulierung-stellungnah` | Wasserstoffnetz Regulierung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 | `energie-regulierungsakte-wasserstoffnetz-regulierung-unterlagena` | Wasserstoffnetz Regulierung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
-| `energie-remit-marktmissbrauch-energie` | Energie / REMIT Marktmissbrauch Energie: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
-| `energie-unbundling-entflechtung` | Energie / Unbundling Entflechtung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
-| `energie-versorgungssicherheit-monitoring` | Energie / Versorgungssicherheit Monitoring: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
-| `energie-wasserstoffnetz-regulierung` | Energie / Wasserstoffnetz Regulierung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
-| `livecheck-bnetza-konsultation-formular` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BNetzA Konsultation Formular. |
+| `energie-remit-marktmissbrauch-energie` | Energie / REMIT Marktmissbrauch Energie: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
+| `energie-unbundling-entflechtung` | Energie / Unbundling Entflechtung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
+| `energie-versorgungssicherheit-monitoring` | Energie / Versorgungssicherheit Monitoring: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
+| `energie-wasserstoffnetz-regulierung` | Energie / Wasserstoffnetz Regulierung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
+| `livecheck-bnetza-konsultation-formular` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BNetzA Konsultation Formular. |
 
 ## Arbeitsweg
 
@@ -151,7 +151,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `energie-remit-marktmissbrauch-energie`
 
-**Fokus:** Energie / REMIT Marktmissbrauch Energie: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
+**Fokus:** Energie / REMIT Marktmissbrauch Energie: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
 
 # Energie: REMIT Marktmissbrauch Energie
 
@@ -191,7 +191,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `energie-unbundling-entflechtung`
 
-**Fokus:** Energie / Unbundling Entflechtung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
+**Fokus:** Energie / Unbundling Entflechtung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
 
 # Energie: Unbundling Entflechtung
 
@@ -231,7 +231,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `energie-versorgungssicherheit-monitoring`
 
-**Fokus:** Energie / Versorgungssicherheit Monitoring: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
+**Fokus:** Energie / Versorgungssicherheit Monitoring: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
 
 # Energie: Versorgungssicherheit Monitoring
 
@@ -271,7 +271,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `energie-wasserstoffnetz-regulierung`
 
-**Fokus:** Energie / Wasserstoffnetz Regulierung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
+**Fokus:** Energie / Wasserstoffnetz Regulierung: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
 
 # Energie: Wasserstoffnetz Regulierung
 
@@ -311,7 +311,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `livecheck-bnetza-konsultation-formular`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BNetzA Konsultation Formular.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BNetzA Konsultation Formular.
 
 # Livecheck BNetzA Konsultation Formular
 

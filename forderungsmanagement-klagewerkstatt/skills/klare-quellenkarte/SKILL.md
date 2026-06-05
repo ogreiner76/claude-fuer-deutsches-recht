@@ -1,6 +1,6 @@
 ---
 name: klare-quellenkarte
-description: "Nutze dies, wenn Klare Quellenkarte im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Klare Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Klare Quellenkarte

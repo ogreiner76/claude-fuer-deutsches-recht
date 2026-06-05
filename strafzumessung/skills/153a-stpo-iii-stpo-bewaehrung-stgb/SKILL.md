@@ -1,13 +1,13 @@
 ---
 name: 153a-stpo-iii-stpo-bewaehrung-stgb
-description: "Nutze dies, wenn 153A Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte 153A Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose prüfen.; Erstelle eine Arbeitsfassung zu 153A Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei 153a Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # 153A Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **153A Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,13 +45,13 @@ Für **153A Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderung
 - **§ 153a Abs. 1 StPO** — Vorlaeufige Einstellung mit Auflagen durch die Staatsanwaltschaft (mit Zustimmung des Gerichts, ab dem Zwischenverfahren bereits Gerichts-Zustimmung).
 - **§ 153a Abs. 2 StPO** — Einstellung durch das Gericht in jedem Stadium.
 - **§ 153a Abs. 3 StPO** — Auflagenkatalog:
-  - Nr. 1: Wiedergutmachung des Schadens.
-  - Nr. 2: Geldbetrag an gemeinnuetzige Einrichtung oder Staatskasse.
-  - Nr. 3: Sonstige gemeinnuetzige Leistung.
-  - Nr. 4: Unterhaltsleistung.
-  - Nr. 5: Taeter-Opfer-Ausgleich, § 46a StGB.
-  - Nr. 6: Verkehrserziehungsmassnahme.
-  - Nr. 7: Beratungs-/Therapiemassnahme.
+ - Nr. 1: Wiedergutmachung des Schadens.
+ - Nr. 2: Geldbetrag an gemeinnuetzige Einrichtung oder Staatskasse.
+ - Nr. 3: Sonstige gemeinnuetzige Leistung.
+ - Nr. 4: Unterhaltsleistung.
+ - Nr. 5: Taeter-Opfer-Ausgleich, § 46a StGB.
+ - Nr. 6: Verkehrserziehungsmassnahme.
+ - Nr. 7: Beratungs-/Therapiemassnahme.
 - **§ 153 StPO** — Einstellung **ohne** Auflage bei Geringfuegigkeit (Bagatelle).
 
 ## Strafzumessungs-Grundsatz
@@ -72,17 +72,17 @@ Für **153A Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderung
 ## Schritt-fuer-Schritt-Anleitung (Verteidigung)
 
 1. **Eignung pruefen**:
-   - Vergehen? Strafdrohung max. 5 Jahre Freiheitsstrafe oder Geldstrafe (allgemein).
-   - Schwere der Schuld vertretbar? Bei einschlaegigen Vorbelastungen oft schwierig.
+ - Vergehen? Strafdrohung max. 5 Jahre Freiheitsstrafe oder Geldstrafe (allgemein).
+ - Schwere der Schuld vertretbar? Bei einschlaegigen Vorbelastungen oft schwierig.
 2. **Auflagenpaket** mit Mandant abstimmen:
-   - Schadenswiedergutmachung: vorrangig.
-   - Geldauflage: Hoehe realistisch (i.d.R. 500-15 000 EUR; bei Wirtschaftsstrafsachen hoeher).
-   - Gemeinnuetzige Arbeit als Alternative.
-   - TOA wenn moeglich.
+ - Schadenswiedergutmachung: vorrangig.
+ - Geldauflage: Hoehe realistisch (i.d.R. 500-15 000 EUR; bei Wirtschaftsstrafsachen hoeher).
+ - Gemeinnuetzige Arbeit als Alternative.
+ - TOA wenn moeglich.
 3. **Verhandlung** mit Staatsanwaltschaft / Gericht:
-   - Schriftlicher Vorschlag mit konkretem Auflagenpaket.
-   - Begruendung: warum oeffentliches Interesse beseitigt ist.
-   - Kompensation gegenueber drohender Strafe darstellen.
+ - Schriftlicher Vorschlag mit konkretem Auflagenpaket.
+ - Begruendung: warum oeffentliches Interesse beseitigt ist.
+ - Kompensation gegenueber drohender Strafe darstellen.
 4. **Belehrung** des Mandanten: Zustimmung wird mit Verbrauch der Strafklage ueber den **abgegrenzten Tatvorwurf** wirksam; keine spaetere Strafverfolgung dieses Vorwurfs.
 5. **Erfuellungsnachweis** sichern: Zahlungsbeleg, Stundenkarte gemeinnuetzige Arbeit, TOA-Bestaetigung. Erfuellung innerhalb der gesetzten Frist (verlaengerbar nach § 153a Abs. 1 Satz 4 StPO).
 
@@ -174,37 +174,37 @@ Die Begruendung muss:
 III. Strafzumessung
 
 1. Strafrahmen
-   Der Strafrahmen ergibt sich aus § ... StGB
-   ([Strafrahmen]). [Ggf. Regelbeispiel / minder schwerer Fall
-   / § 49 StGB-Milderung]. Daraus ergibt sich der konkrete
-   Strafrahmen von [...] bis [...].
+ Der Strafrahmen ergibt sich aus § ... StGB
+ ([Strafrahmen]). [Ggf. Regelbeispiel / minder schwerer Fall
+ / § 49 StGB-Milderung]. Daraus ergibt sich der konkrete
+ Strafrahmen von [...] bis [...].
 
 2. Strafzumessungstatsachen (§ 46 Abs. 2 StGB)
 
-   a) Zugunsten des Angeklagten
+ a) Zugunsten des Angeklagten
 
-      [Konkrete Tatsachen, z.B. Gestaendnis, Reue, TOA,
-      Schadenswiedergutmachung, Erstverstoss, lange Verfahrens-
-      dauer (Art. 6 EMRK), persoenliche Verhaeltnisse].
+ [Konkrete Tatsachen, z.B. Gestaendnis, Reue, TOA,
+ Schadenswiedergutmachung, Erstverstoss, lange Verfahrens-
+ dauer (Art. 6 EMRK), persoenliche Verhaeltnisse].
 
-   b) Zulasten des Angeklagten
+ b) Zulasten des Angeklagten
 
-      [Konkrete Tatsachen, z.B. Vorstrafen einschlaegig,
-      Tatfolgen ueberdurchschnittlich, Tatbeteiligung mehrerer].
+ [Konkrete Tatsachen, z.B. Vorstrafen einschlaegig,
+ Tatfolgen ueberdurchschnittlich, Tatbeteiligung mehrerer].
 
 3. Gesamtabwaegung
-   Unter Wuerdigung der genannten Umstaende hat das Gericht
-   eine [Strafart] von [Strafmass] verhaengt.
+ Unter Wuerdigung der genannten Umstaende hat das Gericht
+ eine [Strafart] von [Strafmass] verhaengt.
 
 4. Strafaussetzung zur Bewaehrung [oder: keine Aussetzung]
-   [Sozialprognose und Begruendung].
+ [Sozialprognose und Begruendung].
 
 5. Anrechnung U-Haft (§ 51 StGB)
-   [Tage].
+ [Tage].
 
 6. [Bei Verstaendigung]
-   Hinweis nach § 257c Abs. 5 StPO erfolgte am [Datum].
-   Inhalt der Verstaendigung: [...].
+ Hinweis nach § 257c Abs. 5 StPO erfolgte am [Datum].
+ Inhalt der Verstaendigung: [...].
 ```
 
 ## Typische revisionsrechtliche Pruefpunkte

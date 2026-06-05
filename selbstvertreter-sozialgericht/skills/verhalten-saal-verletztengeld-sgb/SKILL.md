@@ -1,13 +1,13 @@
 ---
 name: verhalten-saal-verletztengeld-sgb
-description: "Nutze dies, wenn Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht, Video Verhandlung 110A Sgg im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht, Video Verhandlung 110A Sgg prüfen.; Erstelle eine Arbeitsfassung zu Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht, Video Verhandlung 110A Sgg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht, Video Verhandlung 110A Sgg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht, Video Verhandlung 110A Sgg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -280,7 +280,7 @@ Beispiele:
 In der Praxis ist es fast immer kombinierte Anfechtungs- und Verpflichtungsklage:
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 [Name, Geburtsdatum, Versicherungsnummer]
 [Adresse]
@@ -314,16 +314,16 @@ I. Sachverhalt
 
 II. Rechtliche Wuerdigung
 1. Versicherungsrechtliche Voraussetzungen
-   - Wartezeit § 50 SGB VI erfuellt: [Beleg]
-   - 3 Jahre Pflichtbeitraege in den letzten 5 Jahren: [Beleg]
+ - Wartezeit § 50 SGB VI erfuellt: [Beleg]
+ - 3 Jahre Pflichtbeitraege in den letzten 5 Jahren: [Beleg]
 
 2. Medizinische Voraussetzungen
-   - Ich kann auf dem allgemeinen Arbeitsmarkt taeglich weniger als 3 Stunden arbeiten (§ 43 Abs. 2 SGB VI).
-   - Diagnose: [Diagnosen]
-   - Belege: [Atteste, Berichte]
+ - Ich kann auf dem allgemeinen Arbeitsmarkt taeglich weniger als 3 Stunden arbeiten (§ 43 Abs. 2 SGB VI).
+ - Diagnose: [Diagnosen]
+ - Belege: [Atteste, Berichte]
 
 3. Verschlossener Teilzeitarbeitsmarkt (bei 3 bis 6 h)
-   - Der Arbeitsmarkt fuer Teilzeit-Stellen ist fuer mich nicht verfuegbar.
+ - Der Arbeitsmarkt fuer Teilzeit-Stellen ist fuer mich nicht verfuegbar.
 
 III. Beweismittel
 - Befundberichte Hausarzt vom [Datum]
@@ -578,7 +578,7 @@ Sie muessen nicht immer ins Gericht fahren. Sie koennen auch per Video teilnehme
 ### Schritt 1 — Antrag stellen
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 

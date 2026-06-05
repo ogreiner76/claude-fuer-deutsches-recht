@@ -1,13 +1,13 @@
 ---
 name: versetzung-kommandierung-vorlaeufige
-description: "Nutze dies, wenn Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme prüfen.; Erstelle eine Arbeitsfassung zu Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -115,7 +115,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -226,7 +226,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -284,16 +284,16 @@ Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (d
 - § 42 WDO: Antrag auf gerichtliche Entscheidung beim Truppendienstgericht.
 - § 17 SG, §§ 7 ff. SG: Dienstpflichten als materielle Grundlage.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Vorwurf konkretisieren.** Welche Dienstpflicht aus dem SG soll verletzt worden sein? Tatzeit, -ort, Zeugen.
 2. **Anhörungstermin prüfen.** Anhörung nach § 32 WDO ist Pflicht. Recht zur schriftlichen Stellungnahme. Schweigerecht (Verbot des Selbstbezichtigungszwangs).
 3. **Akteneinsicht.** Disziplinarvorgang vollständig anfordern; Beweismittel sichten.
 4. **Verteidigungsstrategie.**
-   - Bestreiten der Tat.
-   - Bestreiten des Dienstvergehenscharakters.
-   - Verfahrensfehler (fehlende Anhörung, sachlich falsche Zuständigkeit).
-   - Bemessung (Verhältnismäßigkeit, Vorbelastungen, Tatschwere).
+ - Bestreiten der Tat.
+ - Bestreiten des Dienstvergehenscharakters.
+ - Verfahrensfehler (fehlende Anhörung, sachlich falsche Zuständigkeit).
+ - Bemessung (Verhältnismäßigkeit, Vorbelastungen, Tatschwere).
 5. **Maßnahme prüfen.** § 23 WDO – formal richtige Maßnahmeart? § 24 WDO – Ermessensfehler bei Bemessung?
 6. **Beschwerde.** § 39 WDO – 2 Wochen ab Zustellung der Disziplinarverfügung. Gerichtlicher Antrag § 42 WDO – 2 Wochen ab Beschwerdebescheid.
 7. **Truppendienstgericht.** § 91 WDO – mündliche Verhandlung, Beweisaufnahme. Anwesenheitsrecht des Verteidigers § 90 WDO.

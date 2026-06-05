@@ -41,16 +41,16 @@ Sieben-Fragen-Diagnose:
 ## Mandantenfuehrung Schritt-fuer-Schritt
 
 1. **Zuerst: Quellenliste pruefen.** Die folgenden offiziellen Quellen sind massgeblich:
-   - BfDI: bfdi.bund.de (Taetigkeitsberichte, Konsultationen, FAQ).
-   - EDSA: edpb.europa.eu (Leitlinien, Stellungnahmen, koordinierte Aktionen).
-   - EuGH: curia.europa.eu (Rechtsprechungsdatenbank).
-   - Bayerisches Landesamt fuer Datenschutzaufsicht: lda.bayern.de (privater Bereich, Bayern).
-   - LfDI BW: baden-wuerttemberg.datenschutz.de.
-   - Berliner Datenschutzbeauftragte: datenschutz-berlin.de.
-   - Hessischer Datenschutzbeauftragter: datenschutz.hessen.de.
-   - LfDI Niedersachsen: lfd.niedersachsen.de.
-   - LfDI NRW: ldi.nrw.de.
-   - Hamburgischer Datenschutzbeauftragter: datenschutz-hamburg.de.
+ - BfDI: bfdi.bund.de (Taetigkeitsberichte, Konsultationen, FAQ).
+ - EDSA: edpb.europa.eu (Leitlinien, Stellungnahmen, koordinierte Aktionen).
+ - EuGH: curia.europa.eu (Rechtsprechungsdatenbank).
+ - Bayerisches Landesamt fuer Datenschutzaufsicht: lda.bayern.de (privater Bereich, Bayern).
+ - LfDI BW: baden-wuerttemberg.datenschutz.de.
+ - Berliner Datenschutzbeauftragte: datenschutz-berlin.de.
+ - Hessischer Datenschutzbeauftragter: datenschutz.hessen.de.
+ - LfDI Niedersachsen: lfd.niedersachsen.de.
+ - LfDI NRW: ldi.nrw.de.
+ - Hamburgischer Datenschutzbeauftragter: datenschutz-hamburg.de.
 2. **Als zweites: Suche konkret.** Stichworte mit Norm (Art. 33 DSGVO, Art. 82 DSGVO) und Aktualitaet (2024, 2025, 2026).
 3. **Als drittes: NICHT aus Modellwissen zitieren.** Insbesondere keine Daten "BfDI Taetigkeitsbericht 2024" ohne Verifizierung.
 4. **Als viertes: Aktualisierungsvermerk in Akte.** Datum Recherche, Quelle, Ergebnis.

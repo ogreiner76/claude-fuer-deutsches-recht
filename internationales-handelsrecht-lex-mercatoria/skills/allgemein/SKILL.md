@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Internationales Handelsrecht und Lex Mercatoria: Kaltstart, Aktenlandkarte, Quellenprüfung, Spezialskill-Routing und erste verwertbare Ausgabe."
+description: "Internationales Handelsrecht und Lex Mercatoria: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe."
 ---
 
 # Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg
@@ -9,7 +9,7 @@ description: "Internationales Handelsrecht und Lex Mercatoria: Kaltstart, Aktenl
 
 Internationaler Handel als Vertrags- und Risikomaschine: anwendbares Recht, Lieferbedingungen, Zahlung, Transport, Sanktionen und Streitbeilegung von Anfang an zusammen denken.
 
-Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Spezialskills dieses Plugins vor.
+Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Fachmodule dieses Plugins vor.
 
 ## Startfragen
 

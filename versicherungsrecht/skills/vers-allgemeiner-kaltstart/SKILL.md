@@ -1,6 +1,6 @@
 ---
 name: vers-allgemeiner-kaltstart
-description: "Allgemeiner Einstieg ins Versicherungsrecht: Police, Bedingungen, Schadenereignis, Ablehnung, Fristen, Aufsicht, Ombudsmann und Klageweg strukturiert erfassen und passende Spezial-Skills vorschlagen."
+description: "Allgemeiner Einstieg ins Versicherungsrecht: Police, Bedingungen, Schadenereignis, Ablehnung, Fristen, Aufsicht, Ombudsmann und Klageweg strukturiert erfassen und passende Fachmodule vorschlagen."
 ---
 
 # Versicherungsrecht: Kaltstart, Rollenklärung und Triage
@@ -23,7 +23,7 @@ VVG §§ 1, 6, 14, 15, 19, 28, 86, 115, 125–129, 150 ff., 172 ff., 192 ff., 21
 
 ## Output
 
-Triage-Memo mit Dokumentenliste, Fristenampel, Deckungshypothese, Beweisplan, Eskalationsweg und vorgeschlagenen Spezial-Skills.
+Triage-Memo mit Dokumentenliste, Fristenampel, Deckungshypothese, Beweisplan, Eskalationsweg und vorgeschlagenen Fachmodule.
 
 ## Red Flags
 

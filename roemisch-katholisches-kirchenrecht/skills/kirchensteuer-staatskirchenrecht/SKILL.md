@@ -1,19 +1,19 @@
 ---
 name: kirchensteuer-staatskirchenrecht
-description: "Nutze dies, wenn Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten prüfen.; Erstelle eine Arbeitsfassung zu Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `kirchensteuer-und-staatskirchenrecht` | Kirchensteuer und Staatskirchenrecht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `kirchensteuer-und-staatskirchenrecht` | Kirchensteuer und Staatskirchenrecht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `aktenaufnahme-in-pfarrei-ordinariat-und-offizialat` | Aktenaufnahme in Pfarrei, Ordinariat und Offizialat: Register, Urkunden, Gesprächsnotizen, E-Mails, Bescheide und Seelsorgegeschichte; CIC can. 486-491 und 535 und 537; KKK 871-945; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `allgemeiner-einstieg-cic-katechismus-und-pastorale-lage` | Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: Sprache, Rolle, Status, Normspur, Lehrspur, Zuständigkeit und Ausgabeformat; CIC can. 1-22 und 96-112 und 204-223; KKK Prolog, 748-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `arabische-pastoralantworten` | Arabische Pastoralantworten: arabische Antworten zu Sakrament, Communio und Rückkehr; CIC can. 747-755 und 843; KKK 748-856 und 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -27,7 +27,7 @@ Für **Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat
 
 ## 1. `kirchensteuer-und-staatskirchenrecht`
 
-**Fokus:** Kirchensteuer und Staatskirchenrecht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchensteuer und Staatskirchenrecht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchensteuer und Staatskirchenrecht
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

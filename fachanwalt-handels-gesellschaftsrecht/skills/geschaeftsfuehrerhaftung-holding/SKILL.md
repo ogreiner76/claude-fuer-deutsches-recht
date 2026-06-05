@@ -1,32 +1,32 @@
 ---
 name: geschaeftsfuehrerhaftung-holding
-description: "Nutze dies, wenn Spezial Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter prüfen.; Erstelle eine Arbeitsfassung zu Spezial Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter
+# Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` | Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` | Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` | Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuerfreier Exit), Varianten Einzel-Holding, Vermögens-Holding, Doppel-Holding mit Familienstiftung. Gewerbesteuerkürzung § 9 Nr. 1 S. 2 GewStG Immobilien-Holding. Zeitreihenfolge Holding vor Gründung der Tochter. Wegzugsbesteuerung § 6 AStG. Pflichtteilsschutz § 2325 BGB. Praktische Rechenbeispiele Exit-Vorteil. GmbH-Gründungsaufwand, Notarkosten. Schriftsatzvorlagen Anteilsübertragungsvertrag, Holding-GmbH-Gründung. |
 | `gmbh-cash-flow-und-darlehen-gesellschafter` | Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs. 1 Nr. 5 InsO Subordination, § 135 InsO Anfechtbarkeit Rueckzahlung in der Krise, Stehenlassen als Eigenkapitalersatz alter Rechtslage gegenueber neuer Lage. Steuerliche Behandlung. Pruefraster fuer Cash-Pool-Strukturen und Konzernfinanzierung. |
 
 ## Arbeitsweg
 
-Für **Spezial Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung`
 
-**Fokus:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung
 
@@ -40,7 +40,7 @@ Für **Spezial Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Fachanw
 
 
 ## Spezialwissen: Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung / spezial geschaeftsfuehrerhaftung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung / geschaeftsfuehrerhaftung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -139,35 +139,35 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ### Ohne Holding (Direktverkauf GmbH-Anteile)
 
 ```
-Kaufpreis Anteile:                      EUR 10.000.000
-Anschaffungskosten:                   ./. EUR  1.000.000
-Veräußerungsgewinn:                     EUR  9.000.000
+Kaufpreis Anteile: EUR 10.000.000
+Anschaffungskosten: ./. EUR 1.000.000
+Veräußerungsgewinn: EUR 9.000.000
 
 Teileinkünfteverfahren § 3 Nr. 40 EStG: 60 % steuerpflichtig = EUR 5.400.000
-Einkommensteuer ca. 42 %:             ./. EUR  2.268.000
-Solidaritätszuschlag 5,5 %:          ./. EUR    124.740
+Einkommensteuer ca. 42 %: ./. EUR 2.268.000
+Solidaritätszuschlag 5,5 %: ./. EUR 124.740
 
-Netto-Erlös:                            EUR  7.607.260
+Netto-Erlös: EUR 7.607.260
 ```
 
 ### Mit Holding (§ 8b KStG)
 
 ```
-Holding-GmbH verkauft Anteile:          EUR 10.000.000
-Anschaffungskosten:                   ./. EUR  1.000.000
-Veräußerungsgewinn:                     EUR  9.000.000
+Holding-GmbH verkauft Anteile: EUR 10.000.000
+Anschaffungskosten: ./. EUR 1.000.000
+Veräußerungsgewinn: EUR 9.000.000
 
-§ 8b Abs. 2 KStG: 95 % steuerfrei       EUR  8.550.000
-5 % Schein-Betriebsausgabe:             EUR    450.000 steuerpflichtig
-KSt 15 % + Soli + GewSt ca. 30 %:    ./. EUR    135.000
+§ 8b Abs. 2 KStG: 95 % steuerfrei EUR 8.550.000
+5 % Schein-Betriebsausgabe: EUR 450.000 steuerpflichtig
+KSt 15 % + Soli + GewSt ca. 30 %: ./. EUR 135.000
 
-Netto-Holding-Vermögen:                 EUR  9.865.000
+Netto-Holding-Vermögen: EUR 9.865.000
 
-Vorteil gegenüber Direktverkauf:        EUR  2.257.740 (Steueraufschub)
+Vorteil gegenüber Direktverkauf: EUR 2.257.740 (Steueraufschub)
 
 Bei späterer Ausschüttung Holding → Privat:
-§ 20 EStG Abgeltungssteuer 25 %:      ./. EUR  2.221.250 (auf Netto-9.865.000)
-Tatsächlicher Nettoerlös Privat:        EUR  7.393.750
+§ 20 EStG Abgeltungssteuer 25 %: ./. EUR 2.221.250 (auf Netto-9.865.000)
+Tatsächlicher Nettoerlös Privat: EUR 7.393.750
 
 Steueraufschub-Vorteil (Reinvestition): Erheblich bei mehrjährigem
 Aufschub; Zinseffekt auf EUR 2.258.000 über 5–10 Jahre
@@ -175,7 +175,7 @@ Aufschub; Zinseffekt auf EUR 2.258.000 über 5–10 Jahre
 
 ## Prüfschema Holding-Aufbau
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
@@ -252,12 +252,12 @@ Schritt 1: Vorab
 
 Schritt 2: Notartermin
 [ ] Gesellschaftsvertrag (Satzung) vorbereiten:
-    - Firma: [Name] Holding GmbH
-    - Stammkapital: mind. EUR 25.000 (§ 5 GmbHG)
-    - Gesellschafterzweck: "Erwerb, Verwaltung und Veräußerung von
-      Unternehmensbeteiligungen"
-    - Geschäftsführer(-in) benennen
-    - Stammeinlagen aufteilen
+ - Firma: [Name] Holding GmbH
+ - Stammkapital: mind. EUR 25.000 (§ 5 GmbHG)
+ - Gesellschafterzweck: "Erwerb, Verwaltung und Veräußerung von
+ Unternehmensbeteiligungen"
+ - Geschäftsführer(-in) benennen
+ - Stammeinlagen aufteilen
 [ ] Notarielle Beurkundung Gesellschaftsvertrag + Geschäftsführerbestellung
 [ ] Gründungsprotokoll
 

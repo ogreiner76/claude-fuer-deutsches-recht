@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Barrierefreiheit Web Checker konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Barrierefreiheit Web Checker.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Barrierefreiheit Web Checker** ein Fall no
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `audit-barrierefreiheits-bfsg` — Audit Barrierefreiheits Bfsg
 - `bf-kiosk-bf-mediendienste-bf-pdf` — Bf Kiosk Bf Mediendienste Bf Pdf
 - `bfsg-zeitleiste-ecommerce-checkout-en301549-wcag` — Bfsg Zeitleiste Ecommerce Checkout En301549 Wcag

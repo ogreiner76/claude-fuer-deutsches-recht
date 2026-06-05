@@ -1,6 +1,6 @@
 ---
 name: vorschau
-description: "Nutze dies, wenn Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung

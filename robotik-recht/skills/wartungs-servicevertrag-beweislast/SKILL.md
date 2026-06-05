@@ -1,13 +1,13 @@
 ---
 name: wartungs-servicevertrag-beweislast
-description: "Nutze dies, wenn Wartungs Und Servicevertrag Robotik, Beweislast Und Offenlegung Produkthaftung im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Wartungs Und Servicevertrag Robotik, Beweislast Und Offenlegung Produkthaftung prüfen.; Erstelle eine Arbeitsfassung zu Wartungs Und Servicevertrag Robotik, Beweislast Und Offenlegung Produkthaftung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wartungs Und Servicevertrag Robotik, Beweislast Und Offenlegung Produkthaftung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wartungs Und Servicevertrag Robotik, Beweislast Und Offenlegung Produkthaftung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -37,7 +37,7 @@ Für **Wartungs Und Servicevertrag Robotik, Beweislast Und Offenlegung Produktha
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
 
 
-Spezialskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+Fachmodul im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
 
 ## Start
 
@@ -113,7 +113,7 @@ Die neue Produkthaftungs-RL VO (EU) 2024/2853 reagiert auf die Beweisnot von Ges
 - **DSGVO** Art. 15 Auskunftsrecht.
 - **§ 99 PatG / § 145a MarkenG** für Geschäftsgeheimnisschutz im Disclosure-Verfahren (GeschGehG).
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Beweissicherung vor Klage.** Logs, Fotos, Zeugenaussagen, Sachverständigengutachten privat; Hash-Sicherung.
 2. **Disclosure-Antrag** nach neuer ProdHaftRL (für Schäden ab 09.12.2026): Antrag auf Vorlage konkret bezeichneter Unterlagen, "necessary and proportionate"; Schutz von Geschäftsgeheimnissen Art. 9 Abs. 4 RL i. V. m. GeschGehG.

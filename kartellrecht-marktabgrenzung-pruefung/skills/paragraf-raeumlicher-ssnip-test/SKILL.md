@@ -1,13 +1,13 @@
 ---
 name: paragraf-raeumlicher-ssnip-test
-description: "Nutze dies, wenn Spezial Paragraf Risikoampel Und Gegenargumente, Spezial Raeumlicher Compliance Dokumentation Und Akte, Spezial Ssnip Schriftsatz Brief Und Memo Bausteine, Spezial Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Paragraf Risikoampel Und Gegenargumente, Spezial Raeumlicher Compliance Dokumentation Und Akte, Spezial Ssnip Schriftsatz Brief Und Memo Bausteine, Spezial Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln prüfen.; Erstelle eine Arbeitsfassung zu Spezial Paragraf Risikoampel Und Gegenargumente, Spezial Raeumlicher Compliance Dokumentation Und Akte, Spezial Ssnip Schriftsatz Brief Und Memo Bausteine, Spezial Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Paragraf Risikoampel Und Gegenargumente, Raeumlicher Compliance Dokumentation Und Akte, Ssnip Schriftsatz Brief Und Memo Bausteine, Test Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Paragraf Risikoampel Und Gegenargumente, Spezial Raeumlicher Compliance Dokumentation Und Akte, Spezial Ssnip Schriftsatz Brief Und Memo Bausteine, Spezial Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln
+# Paragraf Risikoampel Und Gegenargumente, Raeumlicher Compliance Dokumentation Und Akte, Ssnip Schriftsatz Brief Und Memo Bausteine, Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Paragraf Risikoampel Und Gegenargumente, Raeumlicher Compliance Dokumentation Und Akte, Ssnip Schriftsatz Brief Und Memo Bausteine, Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Paragraf Risikoampel Und Gegenargumente, Spezial Raeumlicher Compliance Dokumentation Und Akte, Spezial Ssnip Schriftsatz Brief Und Memo Bausteine, Spezial Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Paragraf Risikoampel Und Gegenargumente, Raeumlicher Compliance Dokumentation Und Akte, Ssnip Schriftsatz Brief Und Memo Bausteine, Test Verhandlung Vergleich Und Eskalation, Sportkartellrecht Verbandsregeln** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Paragraf Risikoampel Und Gegenargumente, Spezial Raeumlicher Comp
 # Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien / spezial paragraf risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien / paragraf risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Raeumlicher: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Raeumlicher: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Raeumlicher: Compliance-Dokumentation und Aktenvermerk / spezial raeumlicher compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Raeumlicher: Compliance-Dokumentation und Aktenvermerk / raeumlicher compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -115,7 +115,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Ssnip: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Ssnip: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Ssnip: Schriftsatz-, Brief- und Memo-Bausteine / spezial ssnip schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ssnip: Schriftsatz-, Brief- und Memo-Bausteine / ssnip schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -156,7 +156,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Test: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Test: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Test: Verhandlung, Vergleich und Eskalation / spezial test verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Test: Verhandlung, Vergleich und Eskalation / test verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

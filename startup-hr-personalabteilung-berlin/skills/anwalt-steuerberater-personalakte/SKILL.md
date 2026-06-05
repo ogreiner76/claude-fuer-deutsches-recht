@@ -1,23 +1,23 @@
 ---
 name: anwalt-steuerberater-personalakte
-description: "Nutze dies, wenn Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe prüfen.; Erstelle eine Arbeitsfassung zu Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding, Remote Work Policy, Sachbezuege Benefits Steuer Sv, Schwerbehindertenquote Ausgleichsabgabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `anwalt-und-steuerberater-briefing` | Berliner Start-up-HR: Externe Anwälte, Steuerberater und Lohnbüro briefen: Sachverhalt, Dokumente, Fragen, Frist und Datenschutzfilter. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `personalakte-loeschkonzept-offboarding` | Berliner Start-up-HR: Lösch- und Aufbewahrungskonzept nach Offboarding: Steuer, Sozialversicherung, Vertragsansprüche, Litigation Hold und Datenschutz. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `remote-work-policy` | Berliner Start-up-HR: Remote-Work-Policy: Deutschland, EU-Ausland, Drittstaat, Arbeitszeit, Datenschutz, Steuer/SV-Routing und Genehmigungsprozess. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `sachbezuege-benefits-steuer-sv` | Berliner Start-up-HR: Sachbezüge und Benefits: Jobticket, Essenszuschuss, Internet, Diensthandy, Fahrrad, Homeoffice und steuer-/SV-nahe Prüfpunkte. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `schwerbehindertenquote-ausgleichsabgabe` | Berliner Start-up-HR: Schwerbehindertenquote und Ausgleichsabgabe bei 100 Beschäftigten: Pflichtplätze, Meldung, Zusatzurlaub und Datenschutz. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `anwalt-und-steuerberater-briefing` | Berliner Start-up-HR: Externe Anwälte, Steuerberater und Lohnbüro briefen: Sachverhalt, Dokumente, Fragen, Frist und Datenschutzfilter. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `personalakte-loeschkonzept-offboarding` | Berliner Start-up-HR: Lösch- und Aufbewahrungskonzept nach Offboarding: Steuer, Sozialversicherung, Vertragsansprüche, Litigation Hold und Datenschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `remote-work-policy` | Berliner Start-up-HR: Remote-Work-Policy: Deutschland, EU-Ausland, Drittstaat, Arbeitszeit, Datenschutz, Steuer/SV-Routing und Genehmigungsprozess. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `sachbezuege-benefits-steuer-sv` | Berliner Start-up-HR: Sachbezüge und Benefits: Jobticket, Essenszuschuss, Internet, Diensthandy, Fahrrad, Homeoffice und steuer-/SV-nahe Prüfpunkte. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `schwerbehindertenquote-ausgleichsabgabe` | Berliner Start-up-HR: Schwerbehindertenquote und Ausgleichsabgabe bei 100 Beschäftigten: Pflichtplätze, Meldung, Zusatzurlaub und Datenschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Anwalt Und Steuerberater Briefing, Personalakte Loeschkonzept Offboarding
 
 ## 1. `anwalt-und-steuerberater-briefing`
 
-**Fokus:** Berliner Start-up-HR: Externe Anwälte, Steuerberater und Lohnbüro briefen: Sachverhalt, Dokumente, Fragen, Frist und Datenschutzfilter. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Externe Anwälte, Steuerberater und Lohnbüro briefen: Sachverhalt, Dokumente, Fragen, Frist und Datenschutzfilter. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Anwalt Und Steuerberater Briefing
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Kommunikation
 **Fokus:** Externe Anwälte, Steuerberater und Lohnbüro briefen: Sachverhalt, Dokumente, Fragen, Frist und Datenschutzfilter.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `personalakte-loeschkonzept-offboarding`
 
-**Fokus:** Berliner Start-up-HR: Lösch- und Aufbewahrungskonzept nach Offboarding: Steuer, Sozialversicherung, Vertragsansprüche, Litigation Hold und Datenschutz. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Lösch- und Aufbewahrungskonzept nach Offboarding: Steuer, Sozialversicherung, Vertragsansprüche, Litigation Hold und Datenschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Personalakte Loeschkonzept Offboarding
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Personalakte
 **Fokus:** Lösch- und Aufbewahrungskonzept nach Offboarding: Steuer, Sozialversicherung, Vertragsansprüche, Litigation Hold und Datenschutz.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `remote-work-policy`
 
-**Fokus:** Berliner Start-up-HR: Remote-Work-Policy: Deutschland, EU-Ausland, Drittstaat, Arbeitszeit, Datenschutz, Steuer/SV-Routing und Genehmigungsprozess. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Remote-Work-Policy: Deutschland, EU-Ausland, Drittstaat, Arbeitszeit, Datenschutz, Steuer/SV-Routing und Genehmigungsprozess. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Remote Work Policy
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Policies
 **Fokus:** Remote-Work-Policy: Deutschland, EU-Ausland, Drittstaat, Arbeitszeit, Datenschutz, Steuer/SV-Routing und Genehmigungsprozess.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `sachbezuege-benefits-steuer-sv`
 
-**Fokus:** Berliner Start-up-HR: Sachbezüge und Benefits: Jobticket, Essenszuschuss, Internet, Diensthandy, Fahrrad, Homeoffice und steuer-/SV-nahe Prüfpunkte. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Sachbezüge und Benefits: Jobticket, Essenszuschuss, Internet, Diensthandy, Fahrrad, Homeoffice und steuer-/SV-nahe Prüfpunkte. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Sachbezuege Benefits Steuer SV
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Payroll
 **Fokus:** Sachbezüge und Benefits: Jobticket, Essenszuschuss, Internet, Diensthandy, Fahrrad, Homeoffice und steuer-/SV-nahe Prüfpunkte.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `schwerbehindertenquote-ausgleichsabgabe`
 
-**Fokus:** Berliner Start-up-HR: Schwerbehindertenquote und Ausgleichsabgabe bei 100 Beschäftigten: Pflichtplätze, Meldung, Zusatzurlaub und Datenschutz. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Schwerbehindertenquote und Ausgleichsabgabe bei 100 Beschäftigten: Pflichtplätze, Meldung, Zusatzurlaub und Datenschutz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Schwerbehindertenquote Ausgleichsabgabe
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** SGB IX
 **Fokus:** Schwerbehindertenquote und Ausgleichsabgabe bei 100 Beschäftigten: Pflichtplätze, Meldung, Zusatzurlaub und Datenschutz.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

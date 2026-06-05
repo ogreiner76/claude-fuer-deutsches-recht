@@ -7,7 +7,7 @@ description: "TIA-Laenderbewertung jenseits der USA: Vereinigtes Koenigreich (An
 
 ## Zweck
 
-Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-USA-Ziellaender: das Vereinigte Koenigreich (UK), die Volksrepublik China, Indien und Brasilien. Er ergaenzt die US-Spezial-Skills um die haeufigsten weiteren Cluster und liefert Pruefraster und Empfehlung fuer das Transferinstrument.
+Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-USA-Ziellaender: das Vereinigte Koenigreich (UK), die Volksrepublik China, Indien und Brasilien. Er ergaenzt die US-Fachmodule um die haeufigsten weiteren Cluster und liefert Pruefraster und Empfehlung fuer das Transferinstrument.
 
 ## Wann brauchen Sie diesen Skill
 

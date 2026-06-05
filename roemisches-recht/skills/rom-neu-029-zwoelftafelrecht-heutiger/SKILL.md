@@ -1,6 +1,6 @@
 ---
 name: rom-neu-029-zwoelftafelrecht-heutiger
-description: "Nutze dies, wenn Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit

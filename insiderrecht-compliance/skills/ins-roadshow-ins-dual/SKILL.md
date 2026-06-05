@@ -1,13 +1,13 @@
 ---
 name: ins-roadshow-ins-dual
-description: "Nutze dies, wenn Ins 033 Roadshow, Ins 034 Dual Listed Issuer im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 033 Roadshow, Ins 034 Dual Listed Issuer prüfen.; Erstelle eine Arbeitsfassung zu Ins 033 Roadshow, Ins 034 Dual Listed Issuer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 033 Roadshow, Ins 034 Dual Listed Issuer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 033 Roadshow, Ins 034 Dual Listed Issuer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 033 Roadshow, Ins 034 Dual Listed Issuer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -52,13 +52,13 @@ Präsentationsfreigabe bis zum Post-Roadshow-Compliance-Report.
 
 - Alle Präsentationsinhalte müssen vor der Roadshow von Compliance freigegeben werden
 - Screening: Enthält die Präsentation Insiderinformationen, die noch nicht veröffentlicht sind?
-  Wenn ja: Ad-hoc vor Roadshow-Beginn oder Entfernung der Information
+ Wenn ja: Ad-hoc vor Roadshow-Beginn oder Entfernung der Information
 - Nur auf Basis öffentlicher Informationen (Jahresbericht, Ad-hoc, Prospekt) kommunizieren
 
 ### Schritt 2 – Roadshow-Teilnehmer und Insiderstatus
 
 - Investoren, die im Rahmen von Market Sounding (Art. 11 MAR) Insiderinformationen erhalten:
-  Wall-Crossing-Prozess nach Skill ins-008 einleiten
+ Wall-Crossing-Prozess nach Skill ins-008 einleiten
 - Investoren in reiner Roadshow (auf Basis öffentlicher Informationen): Kein Insiderstatus
 - Trenne klar zwischen Market Sounding und Roadshow
 
@@ -66,7 +66,7 @@ Präsentationsfreigabe bis zum Post-Roadshow-Compliance-Report.
 
 - Liegt die Roadshow in einer Closed Period? → Keine Eigengeschäfte der PDMRs
 - Liegt eine aktuelle Insiderinformation vor? → Roadshow absagen oder auf rein
-  öffentliche Informationen beschränken
+ öffentliche Informationen beschränken
 
 ### Schritt 4 – Q&A-Management
 
@@ -141,7 +141,7 @@ veröffentlicht werden.
 ### Schritt 1 – Home Member State und Primärregulator
 
 - Bestimme den Home Member State (i.d.R. Staat des Gesellschaftssitzes oder Staat der
-  ersten Notierung in der EU)
+ ersten Notierung in der EU)
 - BaFin als Primärregulator für deutsche Emittenten (§ 4 WpHG)
 - Identifiziere sekundäre Regulatoren für jedes weitere Listing (FCA, AMF, SEC, etc.)
 
@@ -169,7 +169,7 @@ veröffentlicht werden.
 
 - DVO (EU) 2016/347 gilt für EU-Seite; andere Länder haben ggf. eigene Formate
 - Directors' Dealings: Meldung nach Art. 19 MAR an BaFin; in UK nach DTR 3; in USA nach
-  Section 16 Exchange Act (Form 4)
+ Section 16 Exchange Act (Form 4)
 - Abstimmung der Meldefristen (Deutschland: 3 Geschäftstage; USA: 2 Werktage)
 
 ## Red-Team-Fragen

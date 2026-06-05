@@ -1,6 +1,6 @@
 ---
 name: bora
-description: "Nutze dies, wenn Bora: Internationaler Bezug und Schnittstellen im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Bora: Internationaler Bezug und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Bora: Internationaler Bezug und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bora: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Bora: Internationaler Bezug und Schnittstellen

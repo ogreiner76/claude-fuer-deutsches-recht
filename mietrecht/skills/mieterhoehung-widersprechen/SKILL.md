@@ -1,13 +1,13 @@
 ---
 name: mieterhoehung-widersprechen
-description: "Nutze dies, wenn Mieterhoehung Prüfen Widersprechen, Mieterhoehungsverlangen Erstellen, Mietkaution Rueckforderung im Plugin Mietrecht konkret bearbeitet werden soll. Auslöser: Bitte Mieterhoehung Prüfen Widersprechen, Mieterhoehungsverlangen Erstellen, Mietkaution Rueckforderung prüfen.; Erstelle eine Arbeitsfassung zu Mieterhoehung Prüfen Widersprechen, Mieterhoehungsverlangen Erstellen, Mietkaution Rueckforderung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mieterhoehung Prüfen Widersprechen, Mieterhoehungsverlangen Erstellen, Mietkaution Rueckforderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mieterhoehung Prüfen Widersprechen, Mieterhoehungsverlangen Erstellen, Mietkaution Rueckforderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mieterhoehung Prüfen Widersprechen, Mieterhoehungsverlangen Erstellen, Mietkaution Rueckforderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `mieterhoehung-pruefen-widersprechen` | Mietersicht — prüfe ein Mieterhoehungsverlangen nach ortsueblicher Vergleichsmiete (§§ 558 ff. BGB) auf Form Frist Kappungsgrenze Begründung und entwirf bei Bedarf eine Zustimmungsverweigerung oder Teilzustimmung. Prüfroutine deckt Textform Wartefrist Kappungsgrenze (zwanzig Prozent oder fuenfzehn Prozent in Spannungsgebieten) und Begründungsmittel (Mietspiegel Sachverständigengutachten Vergleichswohnungen) ab. Erzeugt Entwurf mit Disclaimer. |
 | `mieterhoehungsverlangen-erstellen` | Vermietersicht — verfasse ein Mieterhoehungsverlangen auf ortsuebliche Vergleichsmiete (§ 558a BGB) in Textform mit ordnungsgemäßer Begründung (Mietspiegel Sachverständigengutachten oder drei Vergleichswohnungen). Prüfroutine deckt Textform Wartefrist (fuenfzehn Monate seit Einzug oder letzter Erhoehung) Kappungsgrenze (zwanzig Prozent oder fuenfzehn Prozent in Spannungsgebieten) Zustimmungsfrist (zwei Monate plus Ablauf des Kalendermonats) und Begründungsmittel ab. Spiegelt den Prüf-Skill `mieterhoehung-prüfen-widersprechen` aus der Mietersicht. Erzeugt fertiges Schreiben mit Disclaimer. |
-| `mietkaution-rueckforderung` | Workflow-Skill zu mietkaution rueckforderung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `mietkaution-rueckforderung` | Arbeitsmodul zu mietkaution rueckforderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -221,7 +221,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `mietkaution-rueckforderung`
 
-**Fokus:** Workflow-Skill zu mietkaution rueckforderung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu mietkaution rueckforderung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mietkaution-Rückforderung
 

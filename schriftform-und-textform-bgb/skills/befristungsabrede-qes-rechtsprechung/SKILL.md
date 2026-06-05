@@ -1,13 +1,13 @@
 ---
 name: befristungsabrede-qes-rechtsprechung
-description: "Nutze dies, wenn Workflow Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Spezial Rechtsprechung Livecheck Formfragen im Plugin Schriftform Und Textform Bgb konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Rechtsprechung Livecheck Formfragen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Spezial Rechtsprechung Livecheck Formfragen
+# Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Rechtsprechung Livecheck Formfragen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Rechtsprechung Livecheck Formfragen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Spezial Rechtsprechung Livecheck Formfragen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schriftform-und-textform-bgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 2026, Rechtsprechung Livecheck Formfragen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `schriftform-und-textform-bgb` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Workflow Redteam Qualitygate, Befristungsabrede Qes Rechtsprechung Stand 
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill stresst formrechtliche Ergebnisse gegen typische Fehler: Verwechslung Schrift-/Text-/elektronische Form, falsche Bewertung qualifizierter Signaturen, Übersehen von Heilungstatbeständen.
+Dieser Arbeitsmodul stresst formrechtliche Ergebnisse gegen typische Fehler: Verwechslung Schrift-/Text-/elektronische Form, falsche Bewertung qualifizierter Signaturen, Übersehen von Heilungstatbeständen.
 
 ## Formenkanon prüfen
 - **Schriftform (§ 126 BGB):** eigenhändige Namensunterschrift unter der Urkunde; gewillkürte Schriftform (§ 127 BGB) lässt Telekommunikationsformen zu, soweit nicht anders bestimmt.
@@ -48,8 +48,8 @@ Dieser Workflow-Skill stresst formrechtliche Ergebnisse gegen typische Fehler: V
 - Frist Mietrecht § 550 BGB: nur Verträge mit Laufzeit > 1 Jahr.
 - Falle: Bei zustimmungspflichtigem Geschäft Form des Hauptgeschäfts auch für Vollmacht? § 167 Abs. 2 BGB -- Sondertatbestände (Bürgschaft, Grundstück) beachten.
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -59,7 +59,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -135,33 +135,33 @@ Mit dem Vierten Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.202
 
 ```
 □ Welche Form schreibt das Gesetz vor?
-   → § 14 Abs. 4 TzBfG → Schriftform (§ 126 BGB)
-   → § 623 BGB → Schriftform mit Sperre der elektronischen Form
-   → Andere Spezialnormen prüfen
+ → § 14 Abs. 4 TzBfG → Schriftform (§ 126 BGB)
+ → § 623 BGB → Schriftform mit Sperre der elektronischen Form
+ → Andere Spezialnormen prüfen
 
 □ Welche Signatur wurde verwendet?
-   → Eigenhändig auf Papier? → wirksam
-   → Eingescannte Unterschrift? → unwirksam (LAG Berlin-Brandenburg)
-   → Einfache elektronische Signatur? → unwirksam (ArbG Berlin)
-   → qES nach § 126a BGB? → wirksam bei § 14 Abs. 4 TzBfG
-                          → unwirksam bei § 623 BGB (Kündigung/Aufhebung)
+ → Eigenhändig auf Papier? → wirksam
+ → Eingescannte Unterschrift? → unwirksam (LAG Berlin-Brandenburg)
+ → Einfache elektronische Signatur? → unwirksam (ArbG Berlin)
+ → qES nach § 126a BGB? → wirksam bei § 14 Abs. 4 TzBfG
+ → unwirksam bei § 623 BGB (Kündigung/Aufhebung)
 
 □ Bei qES — technische Prüfung:
-   → Anbieter zertifiziert nach eIDAS-VO?
-   → Signatur enthält qualifiziertes Zertifikat?
-   → Zertifikat zum Zeitpunkt der Signatur gültig?
-   → Bei Vertrag: beide Seiten haben jeweils ein qES-signiertes
-     Dokument? (§ 126a Abs. 2 BGB)
+ → Anbieter zertifiziert nach eIDAS-VO?
+ → Signatur enthält qualifiziertes Zertifikat?
+ → Zertifikat zum Zeitpunkt der Signatur gültig?
+ → Bei Vertrag: beide Seiten haben jeweils ein qES-signiertes
+ Dokument? (§ 126a Abs. 2 BGB)
 
 □ Zeitpunkt:
-   → Dokument vor Arbeitsaufnahme zugegangen?
-   → Bei nachträglicher Unterzeichnung: Befristung unwirksam
+ → Dokument vor Arbeitsaufnahme zugegangen?
+ → Bei nachträglicher Unterzeichnung: Befristung unwirksam
 
 □ Folgenfeststellung:
-   → Wirksam → Befristung greift
-   → Unwirksam → Vertrag gilt nach § 16 TzBfG als unbefristet
-                → Möglichkeit der Entfristungsklage (3-Wochen-Frist
-                  ab vereinbartem Befristungsende, § 17 TzBfG)
+ → Wirksam → Befristung greift
+ → Unwirksam → Vertrag gilt nach § 16 TzBfG als unbefristet
+ → Möglichkeit der Entfristungsklage (3-Wochen-Frist
+ ab vereinbartem Befristungsende, § 17 TzBfG)
 ```
 
 ## Wichtige Abgrenzung: § 623 BGB
@@ -189,13 +189,13 @@ der Arbeit vorliegt.
 Wirksame Varianten:
 1. Papier mit eigenhändiger Unterschrift beider Parteien
 2. Qualifizierte elektronische Signatur (qES) beider Parteien
-   über einen nach eIDAS-VO zertifizierten Anbieter
-   (z. B. DocuSign mit qES-Zertifikat, bestätigt durch
-   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ über einen nach eIDAS-VO zertifizierten Anbieter
+ (z. B. DocuSign mit qES-Zertifikat, bestätigt durch
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 NICHT ausreichend (Befristung unwirksam, Vertrag unbefristet):
 - eingescannte Unterschrift im PDF
-  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - einfache elektronische Signatur ohne qES-Zertifikat
 - Maus- oder Touch-Signatur ohne Zertifikat
 - E-Mail-Bestätigung ohne qES
@@ -217,11 +217,11 @@ PDF mit eingescannter Unterschrift übermittelt?
 
 Prüfen Sie:
 - War eine qualifizierte elektronische Signatur (qES) im Einsatz?
-  (Erkennbar am eIDAS-zertifizierten Anbieter wie DocuSign-qES,
-   Bundesdruckerei, D-Trust, GlobalSign-qES o.ä. — nicht
-   identisch mit "einfacher" DocuSign-Signatur ohne qES)
+ (Erkennbar am eIDAS-zertifizierten Anbieter wie DocuSign-qES,
+ Bundesdruckerei, D-Trust, GlobalSign-qES o.ä. — nicht
+ identisch mit "einfacher" DocuSign-Signatur ohne qES)
 - Oder nur eine eingescannte Unterschrift / einfache elektronische
-  Signatur?
+ Signatur?
 
 Wenn nur eingescannt oder einfach signiert:
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -242,7 +242,7 @@ Befristungsende Klage erheben (§ 17 TzBfG — Entfristungsklage).
 □ Bei Vertrag: jeweils ein qES-signiertes Dokument beider Seiten
 □ Prüfprotokoll des Signaturdienstes herunterladen
 □ Aufbewahrungsdauer mindestens bis 3 Monate nach Vertragsende
-  plus 3-Wochen-Klagefrist Puffer
+ plus 3-Wochen-Klagefrist Puffer
 ```
 
 ## Strategische Hinweise
@@ -270,11 +270,11 @@ Befristungsende Klage erheben (§ 17 TzBfG — Entfristungsklage).
 # Livecheck verifizierter Rechtsprechung zu Schriftform, qES und beA
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `schriftform-und-textform-bgb`. Kontext des Plugins: Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `schriftform-und-textform-bgb`. Kontext des Plugins: Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?

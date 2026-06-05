@@ -52,7 +52,7 @@ Stand dieser Faktenbank: **29.05.2026**. Vor streitentscheidenden Ausgaben immer
 4. **Kein Datenbank-Blendwerk:** keine BeckRS-/juris-/Kommentarzitate ohne geöffneten Nutzerzugang.
 5. **Output dokumentierbar machen:** Quellenblock, Annahmenblock, Beleganforderung, nächster Verfahrensschritt.
 
-## Typische Spezial-Skills
+## Typische Fachmodule
 
 | Wenn das Problem ist ... | Lade danach ... |
 |---|---|

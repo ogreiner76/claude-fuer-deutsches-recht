@@ -1,13 +1,13 @@
 ---
 name: versicherungen-gefahren-zvg
-description: "Nutze dies, wenn Zvg Versicherungen Gefahren, Zvg Versteigerungsteilnahme, Zvg Verteilungsplan 155 im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Bitte Zvg Versicherungen Gefahren, Zvg Versteigerungsteilnahme, Zvg Verteilungsplan 155 prüfen.; Erstelle eine Arbeitsfassung zu Zvg Versicherungen Gefahren, Zvg Versteigerungsteilnahme, Zvg Verteilungsplan 155.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zvg Versicherungen Gefahren, Zvg Versteigerungsteilnahme, Zvg Verteilungsplan 155: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zvg Versicherungen Gefahren, Zvg Versteigerungsteilnahme, Zvg Verteilungsplan 155
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zvg Versicherungen Gefahren, Zvg Versteigerungsteilnahme, Zvg Verteilungsplan 155** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -137,11 +137,11 @@ Führt Bieter oder Berater durch die Vorbereitung, Teilnahme und Nachbereitung e
 2. **Legitimation vorbereiten**: Ausweis, Vollmacht, Registerauszug, Gesellschafter-/GF-Nachweis, wirtschaftlich Berechtigter bei Gesellschaft.
 3. **Sicherheitsleistung organisieren**: Regelmäßig 10 Prozent des Verkehrswerts; zulässige Form und Frist beim Gericht prüfen.
 4. **Begriffe erklären**:
-   - geringstes Gebot: rechtliche Untergrenze für zugelassene Gebote, nicht automatisch wirtschaftlich sinnvoll.
-   - Bargebot: tatsächlich bar zu zahlender Teil.
-   - bestehenbleibende Rechte: wirtschaftlich zusätzlich einzupreisen.
-   - 5/10-Grenze: Zuschlagsversagung von Amts wegen in relevanten Terminen.
-   - 7/10-Grenze: Zuschlagsversagung auf Antrag in relevanten Terminen.
+ - geringstes Gebot: rechtliche Untergrenze für zugelassene Gebote, nicht automatisch wirtschaftlich sinnvoll.
+ - Bargebot: tatsächlich bar zu zahlender Teil.
+ - bestehenbleibende Rechte: wirtschaftlich zusätzlich einzupreisen.
+ - 5/10-Grenze: Zuschlagsversagung von Amts wegen in relevanten Terminen.
+ - 7/10-Grenze: Zuschlagsversagung auf Antrag in relevanten Terminen.
 5. **Bietlimit festlegen**: harte Obergrenze schriftlich vor dem Termin fixieren; Neben- und Risikokosten einrechnen.
 6. **Terminverhalten planen**: ruhig bleiben, Gebote protokollieren, keine spontane Limit-Erhöhung ohne vorher definierte Freigabe.
 7. **Nachbereitung**: Zuschlag, Zahlung, Zinsen, Verteilungstermin, Räumung/Nutzung, Versicherung und Übergabe prüfen.
@@ -191,7 +191,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. Was geschieht mit laufenden Mieteinnahmen bis zum Zuschlag?
 4. Sind alle Mieter über den bevorstehenden Eigentümerwechsel informiert?
 
-## Workflow Versteigerungstermin-Vorbereitung
+## Versteigerungstermin-Vorbereitung
 
 1. Versteigerungsdatum aus Gerichtspost festhalten
 2. Aktuellen Mieterliste-Ausdruck vorbereiten (Einheit Mieter Miethöhe Rückstände)
@@ -302,7 +302,7 @@ Nr. 5 Weitere Hypotheken: [ggf.]
 
 AUSZAHLUNGSLISTE
 Empfänger | Betrag | Bankverbindung | Datum
-[...]     | [...]  | [...]          | [...]
+[...] | [...] | [...] | [...]
 
 [ORT, DATUM, UNTERSCHRIFT ZWANGSVERWALTER]
 ```

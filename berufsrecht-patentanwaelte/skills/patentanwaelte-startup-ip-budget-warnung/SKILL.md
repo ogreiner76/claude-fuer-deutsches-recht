@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-startup-ip-budget-warnung
-description: "Nutze dies, wenn Patentanwaelte Startup Ip Budget Warnung Kammerantwort Und Verf, Patentanwaelte Startup Ip Budget Warnung Organisationspflicht U, Patentanwaelte Uebersetzung Und Verantwortung Kammerantwort Und, Patentanwaelte Uebersetzung Und Verantwortung Organisationspfli im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Startup Ip Budget Warnung Kammerantwort Und Verf, Patentanwaelte Startup Ip Budget Warnung Organisationspflicht U, Patentanwaelte Uebersetzung Und Verantwortung Kammerantwort Und, Patentanwaelte Uebersetzung Und Verantwortung Organisationspfli prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Startup Ip Budget Warnung Kammerantwort Und Verf, Patentanwaelte Startup Ip Budget Warnung Organisationspflicht U, Patentanwaelte Uebersetzung Und Verantwortung Kammerantwort Und, Patentanwaelte Uebersetzung Und Verantwortung Organisationspfli.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentanwaelte Startup Ip Budget Warnung Kammerantwort Und Verf, Patentanwaelte Startup Ip Budget Warnung Organisationspflicht U, Patentanwaelte Uebersetzung Und Verantwortung Kammerantwort Und, Patentanwaelte Uebersetzung Und Verantwortung Organisationspfli: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Startup Ip Budget Warnung Kammerantwort Und Verf, Patentanwaelte Startup Ip Budget Warnung Organisationspflicht U, Patentanwaelte Uebersetzung Und Verantwortung Kammerantwort Und, Patentanwaelte Uebersetzung Und Verantwortung Organisationspfli
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Startup Ip Budget Warnung Kammerantwort Und Verf, Patentanwaelte Startup Ip Budget Warnung Organisationspflicht U, Patentanwaelte Uebersetzung Und Verantwortung Kammerantwort Und, Patentanwaelte Uebersetzung Und Verantwortung Organisationspfli** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

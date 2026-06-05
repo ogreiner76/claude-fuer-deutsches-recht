@@ -1,13 +1,13 @@
 ---
 name: anwaelte-ki-tool-legal-tech-mandatsgeheimnis
-description: "Nutze dies, wenn Anwälte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwälte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwälte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwälte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwälte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwälte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwälte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaelte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwaelte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwaelte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwaelte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwälte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwälte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Ki Tool In Der Kanzlei Kaltstart Und Faktenmatrix, Anwälte Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix, Anwälte Mandatsgeheimnis Bei Ermittlungsverfahren Kaltstart Un, Anwälte Mandatskuendigung Zur Unzeit Kaltstart Und Faktenmatri** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: erkennt-fehlerkatalog
-description: "Nutze dies, wenn Erkennt Fehlerkatalog im Plugin Aktenaufbereiter Strafrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Erkennt Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Erkennt Fehlerkatalog

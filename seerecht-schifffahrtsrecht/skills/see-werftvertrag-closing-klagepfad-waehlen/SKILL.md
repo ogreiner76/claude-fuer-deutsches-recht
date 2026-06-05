@@ -1,13 +1,13 @@
 ---
 name: see-werftvertrag-closing-klagepfad-waehlen
-description: "Nutze dies, wenn See 048 Werftvertrag Closing Planen, See 049 Werftvertrag Klagepfad Waehlen, See 050 Werftvertrag Risiko Memo Schreiben, See 053 Yachtkauf Kaufvertrag Scopen, See 063 Containerschiff Kaufvertrag Scopen im Plugin Seerecht Schifffahrtsrecht konkret bearbeitet werden soll. Auslöser: Bitte See 048 Werftvertrag Closing Planen, See 049 Werftvertrag Klagepfad Waehlen, See 050 Werftvertrag Risiko Memo Schreiben, See 053 Yachtkauf Kaufvertrag Scopen, See 063 Containerschiff Kaufvertrag Scopen prüfen.; Erstelle eine Arbeitsfassung zu See 048 Werftvertrag Closing Planen, See 049 Werftvertrag Klagepfad Waehlen, See 050 Werftvertrag Risiko Memo Schreiben, See 053 Yachtkauf Kaufvertrag Scopen, See 063 Containerschiff Kaufvertrag Scopen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei See 048 Werftvertrag Closing Planen, See 049 Werftvertrag Klagepfad Waehlen, See 050 Werftvertrag Risiko Memo Schreiben, See 053 Yachtkauf Kaufvertrag Scopen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # See 048 Werftvertrag Closing Planen, See 049 Werftvertrag Klagepfad Waehlen, See 050 Werftvertrag Risiko Memo Schreiben, See 053 Yachtkauf Kaufvertrag Scopen, See 063 Containerschiff Kaufvertrag Scopen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **See 048 Werftvertrag Closing Planen, See 049 Werftvertrag Klagepfad Waehlen, See 050 Werftvertrag Risiko Memo Schreiben, See 053 Yachtkauf Kaufvertrag Scopen, See 063 Containerschiff Kaufvertrag Scopen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

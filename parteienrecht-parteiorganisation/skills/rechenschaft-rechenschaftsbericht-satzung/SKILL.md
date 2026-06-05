@@ -1,13 +1,13 @@
 ---
 name: rechenschaft-rechenschaftsbericht-satzung
-description: "Nutze dies, wenn Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei prüfen.; Erstelle eine Arbeitsfassung zu Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Prüfung Rechenschaft, Rechenschaftsbericht, Satzung Partei** zuerst das 
 ## Aufgabe
 Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläuterung, Gebietsverbände und Aufbewahrung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -97,13 +97,13 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 2. Bestandteile § 24 PartG
 1. **Einnahmen-Ausgaben-Rechnung** mit Mindestposten:
-   - Mitgliedsbeiträge,
-   - Mandatsträgerbeiträge,
-   - Spenden natürlicher Personen / juristischer Personen,
-   - staatliche Mittel,
-   - Einnahmen aus Vermögen / Unternehmen,
-   - Veranstaltungen und Sonstiges,
-   - Personal- / Verwaltungs- / Wahlkampf- / Öffentlichkeitsausgaben.
+ - Mitgliedsbeiträge,
+ - Mandatsträgerbeiträge,
+ - Spenden natürlicher Personen / juristischer Personen,
+ - staatliche Mittel,
+ - Einnahmen aus Vermögen / Unternehmen,
+ - Veranstaltungen und Sonstiges,
+ - Personal- / Verwaltungs- / Wahlkampf- / Öffentlichkeitsausgaben.
 2. **Vermögensrechnung** § 24 V PartG (Aktiva, Passiva).
 3. **Erläuterungen** zu wesentlichen Posten.
 4. **Bericht über Gebietsverbände** (Bundespartei + Landesverbände + Kreisverbände gemäß § 28 PartG).
@@ -173,7 +173,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft Satzung gegen Parteiengesetz: Organe, Gebietsverbände, Mitgliedschaft, Beitragsordnung, Schiedsgericht, Kandidatenaufstellung, Finanzen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

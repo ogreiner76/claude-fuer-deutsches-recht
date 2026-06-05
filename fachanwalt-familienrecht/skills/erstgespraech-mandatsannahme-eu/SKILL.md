@@ -1,13 +1,13 @@
 ---
 name: erstgespraech-mandatsannahme-eu
-description: "Nutze dies, wenn Erstgespraech Mandatsannahme, Eu Auslandsrenten Und Scheidung, Excel Pruefmatrix Anrechte, Externe Teilung 14 Versausglg, Fachanwalt Familienrecht Duesseldorfer Tabelle Unterhalt im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Erstgespraech Mandatsannahme, Eu Auslandsrenten Und Scheidung, Excel Pruefmatrix Anrechte, Externe Teilung 14 Versausglg, Fachanwalt Familienrecht Duesseldorfer Tabelle Unterhalt prüfen.; Erstelle eine Arbeitsfassung zu Erstgespraech Mandatsannahme, Eu Auslandsrenten Und Scheidung, Excel Pruefmatrix Anrechte, Externe Teilung 14 Versausglg, Fachanwalt Familienrecht Duesseldorfer Tabelle Unterhalt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erstgespraech Mandatsannahme, Eu Auslandsrenten Und Scheidung, Excel Pruefmatrix Anrechte, Externe Teilung 14 Versausglg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erstgespraech Mandatsannahme, Eu Auslandsrenten Und Scheidung, Excel Pruefmatrix Anrechte, Externe Teilung 14 Versausglg, Fachanwalt Familienrecht Duesseldorfer Tabelle Unterhalt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erstgespraech Mandatsannahme, Eu Auslandsrenten Und Scheidung, Excel Pruefmatrix Anrechte, Externe Teilung 14 Versausglg, Fachanwalt Familienrecht Duesseldorfer Tabelle Unterhalt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -17,7 +17,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `eu-auslandsrenten-und-scheidung` | EU-Auslandsrenten und Scheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `excel-pruefmatrix-anrechte` | Excel-Prüfmatrix Anrechte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `externe-teilung-14-versausglg` | Externe Teilung § 14 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` | Workflow-Skill zu fachanwalt familienrecht duesseldorfer tabelle unterhalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` | Arbeitsmodul zu fachanwalt familienrecht duesseldorfer tabelle unterhalt: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -366,7 +366,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt`
 
-**Fokus:** Workflow-Skill zu fachanwalt familienrecht duesseldorfer tabelle unterhalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt familienrecht duesseldorfer tabelle unterhalt: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Unterhaltsberechnung Düsseldorfer Tabelle
 
@@ -527,9 +527,9 @@ Ausgleich = Anteil Besserverdiener - Anteil Minderverdienender
 ### Berechnung
 
 ```
-Bereinigtes Netto Pflichtiger:         EUR [A]
-Bereinigtes Netto Berechtigter:        EUR [B]
-Differenz:                             EUR [A-B]
+Bereinigtes Netto Pflichtiger: EUR [A]
+Bereinigtes Netto Berechtigter: EUR [B]
+Differenz: EUR [A-B]
 Trennungsunterhalt (3/7 der Differenz): EUR [(A-B) × 3/7]
 (Bei Kinderbetreuung: 4/7 ggf.)
 ```
@@ -598,22 +598,22 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Berechnungsschema Mangelfall
 
 ```
-Bereinigtes Netto Pflichtiger:     EUR [A]
-- Selbstbehalt (EUR 1.600):      - EUR 1.600
-= Verteilmasse:                    EUR [A-1.600]
+Bereinigtes Netto Pflichtiger: EUR [A]
+- Selbstbehalt (EUR 1.600): - EUR 1.600
+= Verteilmasse: EUR [A-1.600]
 
 Erstrang (Kinder, 2 Kinder je EUR 500):
-  Bedarf gesamt:                   EUR 1.000
-  Deckung:                         EUR [min(1.000, Verteilmasse)]
+ Bedarf gesamt: EUR 1.000
+ Deckung: EUR [min(1.000, Verteilmasse)]
 
 Falls Verteilmasse > EUR 1.000:
-  Restmasse für Zweitrang:         EUR [Verteilmasse - 1.000]
-  Ehegatte (Quote aus Restmasse)
+ Restmasse für Zweitrang: EUR [Verteilmasse - 1.000]
+ Ehegatte (Quote aus Restmasse)
 
 Falls Verteilmasse < EUR 1.000:
-  Mangelfall Erstrang: Quotelung
-  Jedes Kind erhält: EUR [Verteilmasse/2]
-  (Mindestunterhalt prüfen!)
+ Mangelfall Erstrang: Quotelung
+ Jedes Kind erhält: EUR [Verteilmasse/2]
+ (Mindestunterhalt prüfen!)
 ```
 
 **Sonderfall:** Mindestunterhalt nach § 1612a BGB gilt als Untergrenze — wenn selbst im Mangelfall nicht erreichbar, erhöhte Erwerbsobliegenheit des Pflichtigen prüfen.
@@ -665,16 +665,16 @@ namens und in Vollmacht [Mandant] fordern wir Sie auf,
 ab dem [Datum] monatlichen Unterhalt in folgender Höhe
 zu zahlen:
 
-Kindesunterhalt für [Kind 1], [Alter]:  EUR [Betrag]
-Kindesunterhalt für [Kind 2], [Alter]:  EUR [Betrag]
-Trennungsunterhalt:                     EUR [Betrag]
-Gesamt monatlich:                       EUR [Betrag]
+Kindesunterhalt für [Kind 1], [Alter]: EUR [Betrag]
+Kindesunterhalt für [Kind 2], [Alter]: EUR [Betrag]
+Trennungsunterhalt: EUR [Betrag]
+Gesamt monatlich: EUR [Betrag]
 
 Die Berechnung basiert auf dem bereinigten Nettoeinkommen
 von EUR [Betrag] (Einkommensstufe [X] Düsseldorfer Tabelle
 [Jahr]).
 
-Rückstand [Datum bis Datum]:            EUR [Betrag]
+Rückstand [Datum bis Datum]: EUR [Betrag]
 
 Wir fordern Sie auf, den Rückstand bis [Datum] zu zahlen
 und den laufenden Unterhalt ab [Datum] pünktlich am 1.

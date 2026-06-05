@@ -1,13 +1,13 @@
 ---
 name: eu-behoerde-familiengericht-vorladung
-description: "Nutze dies, wenn Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen prüfen.; Erstelle eine Arbeitsfassung zu Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Eu Behörde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid
 ## Aufgabe
 Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erklärt Zuwendungsbescheid, Nebenbestimmungen, Verwendungsnachweis, Rückforderung und Widerruf.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft beim Ausfüllen von Papier- oder Onlineformularen, ohne unbeabsichtigte Rechtsbehauptungen oder unnötige Angaben zu machen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

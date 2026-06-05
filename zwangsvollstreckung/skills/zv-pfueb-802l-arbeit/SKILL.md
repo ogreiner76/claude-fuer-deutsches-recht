@@ -1,13 +1,13 @@
 ---
 name: zv-pfueb-802l-arbeit
-description: "Nutze dies, wenn Zv Pfueb Mieter Finanzamt, Spezial 802L Verhandlung Vergleich Und Eskalation, Spezial Arbeit Schriftsatz Brief Und Memo Bausteine im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Pfueb Mieter Finanzamt, Spezial 802L Verhandlung Vergleich Und Eskalation, Spezial Arbeit Schriftsatz Brief Und Memo Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Zv Pfueb Mieter Finanzamt, Spezial 802L Verhandlung Vergleich Und Eskalation, Spezial Arbeit Schriftsatz Brief Und Memo Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zv Pfueb Mieter Finanzamt, 802l Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Zv Pfueb Mieter Finanzamt, Spezial 802L Verhandlung Vergleich Und Eskalation, Spezial Arbeit Schriftsatz Brief Und Memo Bausteine
+# Zv Pfueb Mieter Finanzamt, 802L Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zv Pfueb Mieter Finanzamt, 802L Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Zv Pfueb Mieter Finanzamt, Spezial 802L Verhandlung Vergleich Und Eskalation, Spezial Arbeit Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Zv Pfueb Mieter Finanzamt, 802L Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -56,13 +56,13 @@ Pfändung beweglicher Forderungen jenseits von Bank und Arbeitgeber. Häufigste 
 1. **Drei-Säulen-Prüfung**.
 2. **Drittschuldner exakt bezeichnen**: Mieter (Vor- und Nachname), Finanzamt mit zuständiger Behörde, Versicherungs-AG mit Sitz.
 3. **Forderung definieren**:
-   - Mietzins: laufender Anspruch des Vermieters gegen den Mieter aus Mietvertrag vom DD.MM.JJJJ, einschließlich Nebenkostennachzahlungen, einschließlich künftiger Mieten.
-   - Finanzamt: alle Einkommensteuer-Erstattungsansprüche des Schuldners für VZ x ff., einschließlich Solidaritätszuschlag.
-   - Versicherung: Rückkaufswert oder fällige Leistungen aus Police Nr. x.
+ - Mietzins: laufender Anspruch des Vermieters gegen den Mieter aus Mietvertrag vom DD.MM.JJJJ, einschließlich Nebenkostennachzahlungen, einschließlich künftiger Mieten.
+ - Finanzamt: alle Einkommensteuer-Erstattungsansprüche des Schuldners für VZ x ff., einschließlich Solidaritätszuschlag.
+ - Versicherung: Rückkaufswert oder fällige Leistungen aus Police Nr. x.
 4. **Pfändungsverbote prüfen**:
-   - § 851 ZPO: unübertragbare Forderungen
-   - § 850b ZPO: Sterbegeld, Schmerzensgeld – nur eingeschränkt pfändbar
-   - § 54 SGB I: Kindergeld nur für Unterhalt des Kindes pfändbar
+ - § 851 ZPO: unübertragbare Forderungen
+ - § 850b ZPO: Sterbegeld, Schmerzensgeld – nur eingeschränkt pfändbar
+ - § 54 SGB I: Kindergeld nur für Unterhalt des Kindes pfändbar
 5. **Vollstreckungsgericht**: Wohnsitz Schuldner (§ 828 Abs. 2 ZPO).
 6. **Antrag** auf ZVFV-Formular, ab 1.10.2026 XML-Antrag.
 7. **Zustellung** an Drittschuldner durch GV oder ab 1.10.2027 elektronisch (sofern Behörde/Unternehmen Postfach eröffnet).
@@ -97,15 +97,15 @@ Pfändung der Mietforderung. Wichtige Punkte:
 ```
 PFÜB SONSTIGER DRITTSCHULDNER [Mandant] / [Schuldner]
 
-Titel:                 [Art, Datum, Aussteller]
-Forderung Schuldner:   EUR Haupt + EUR Zinsen + EUR Kosten
-Drittschuldner:        [Mieter / Finanzamt / Versicherung / Geschäftspartner]
-Gepfändete Forderung:  [genaue Bezeichnung mit Rechtsgrund und Zeitraum]
-Pfändungsverbote:      [§ 851 / § 850b / § 54 SGB I geprüft]
-Zustellungsweg:        GV Papier / eBO / ab 1.10.2027 ggf. elektronisch
+Titel: [Art, Datum, Aussteller]
+Forderung Schuldner: EUR Haupt + EUR Zinsen + EUR Kosten
+Drittschuldner: [Mieter / Finanzamt / Versicherung / Geschäftspartner]
+Gepfändete Forderung: [genaue Bezeichnung mit Rechtsgrund und Zeitraum]
+Pfändungsverbote: [§ 851 / § 850b / § 54 SGB I geprüft]
+Zustellungsweg: GV Papier / eBO / ab 1.10.2027 ggf. elektronisch
 
-NÄCHSTER SCHRITT:      Drittschuldnererklärung
-WIEDERVORLAGE:         DD.MM.JJJJ
+NÄCHSTER SCHRITT: Drittschuldnererklärung
+WIEDERVORLAGE: DD.MM.JJJJ
 ```
 
 ## Qualitätsgates
@@ -130,7 +130,7 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 # 802L: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: 802L: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** 802L: Verhandlung, Vergleich und Eskalation / spezial 802l verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** 802L: Verhandlung, Vergleich und Eskalation / 802l verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -171,7 +171,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Arbeit: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Arbeit: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Arbeit: Schriftsatz-, Brief- und Memo-Bausteine / spezial arbeit schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Arbeit: Schriftsatz-, Brief- und Memo-Bausteine / arbeit schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

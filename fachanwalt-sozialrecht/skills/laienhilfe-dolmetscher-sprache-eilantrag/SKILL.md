@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-dolmetscher-sprache-eilantrag
-description: "Nutze dies, wenn Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii prüfen.; Erstelle eine Arbeitsfassung zu Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -95,10 +95,10 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **EuGH Rsp. zu Recht auf Dolmetscher** (RL 2010/64/EU primaer fuer Strafverfahren, indirekte Wirkung).
 - **Recht auf Uebersetzung schriftlicher Bescheide:** Vorrang grundsaetzlich deutsch; aber Behoerde muss verstaendliche Kommunikation gewaehrleisten; ggf. Anhoerungsfehler bei Missverstehen.
 - **Praxis-Tipp:**
-  - Vor Termin: schriftliche Anfrage bei Sozialgericht / Behoerde, dass Dolmetscher fuer Sprache X bestellt wird.
-  - Bei eigenem Dolmetscher: ggf. Kostenuebernahme nach JVEG analog.
-  - Dolmetscher sollte beeidigt / oeffentlich bestellt sein (Landesgerichte gefuhrte Listen).
-  - Behoerden / Gerichte duerfen nicht auf Angehoerige als Dolmetscher verweisen (Befangenheit, Schweigepflicht-Konflikt).
+ - Vor Termin: schriftliche Anfrage bei Sozialgericht / Behoerde, dass Dolmetscher fuer Sprache X bestellt wird.
+ - Bei eigenem Dolmetscher: ggf. Kostenuebernahme nach JVEG analog.
+ - Dolmetscher sollte beeidigt / oeffentlich bestellt sein (Landesgerichte gefuhrte Listen).
+ - Behoerden / Gerichte duerfen nicht auf Angehoerige als Dolmetscher verweisen (Befangenheit, Schweigepflicht-Konflikt).
 - **Begutachtungstermine MD / DRV** mit Dolmetscher: Recht aus § 19 SGB X; ggf. Beweisproblem bei Missverstaendnissen (Stellungnahme nach Termin moeglich).
 - **Beratungsstellen bei Sprachbarrieren:** Migrationsberatung MBE (Diakonie, Caritas), Jugendmigrationsdienst, kommunale Auslaender-Beratungsstellen.
 
@@ -256,10 +256,10 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Rechtsgrundlage:** SGB IX Teil 2 (§§ 90-150 SGB IX); seit BTHG-Reform 2020 nicht mehr im SGB XII. Zustaendig regelmaessig **Traeger der Eingliederungshilfe** (Bezirk in Bayern, Landschaftsverband in NRW, Land in anderen Bundeslaendern).
 - **Personenkreis § 99 SGB IX:** Menschen mit (drohender) wesentlicher Behinderung; "wesentlich" = erhebliche Beeintraechtigung der Teilhabe in mindestens 5 von 9 Lebensbereichen (ICF-Bereiche).
 - **Leistungsformen:**
-  - **Soziale Teilhabe § 113 SGB IX** (Assistenz § 78 SGB IX, Hilfsmittel, Mobilitaet, betreutes Wohnen).
-  - **Teilhabe Bildung § 112 SGB IX** (Studienassistenz, Schulbegleitung).
-  - **Teilhabe Arbeitsleben § 111 SGB IX** (WfbM, BBE, Andere Anbieter, Budget fuer Arbeit § 61 SGB IX).
-  - **Medizinische Reha** wenn kein vorrangiger Traeger (§ 109 SGB IX).
+ - **Soziale Teilhabe § 113 SGB IX** (Assistenz § 78 SGB IX, Hilfsmittel, Mobilitaet, betreutes Wohnen).
+ - **Teilhabe Bildung § 112 SGB IX** (Studienassistenz, Schulbegleitung).
+ - **Teilhabe Arbeitsleben § 111 SGB IX** (WfbM, BBE, Andere Anbieter, Budget fuer Arbeit § 61 SGB IX).
+ - **Medizinische Reha** wenn kein vorrangiger Traeger (§ 109 SGB IX).
 - **Persoenliches Budget § 29 SGB IX:** Wahlrecht; Kostenobergrenze gleich Sachleistung; Zielvereinbarung verpflichtend.
 - **Einkommens- und Vermoegensanrechnung § 135 ff. SGB IX:** seit BTHG erheblich entschaerft - Arbeitseinkommen Werkstattbeschaeftigter frei; Vermoegen bis 65.880 EUR (Stand 2024, jaehrlich Anpassung) geschuetzt; ggf. Beitrag aus Einkommen oberhalb Grenzen.
 - **Gesamtplanverfahren § 117 SGB IX:** Bedarfsermittlung mit ICF; Beteiligung des Leistungsberechtigten verpflichtend; Verfahrensfehler ist Bescheidmangel.

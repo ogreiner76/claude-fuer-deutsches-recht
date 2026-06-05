@@ -1,6 +1,6 @@
 ---
 name: versr-fehlerkatalog
-description: "Nutze dies, wenn Versr Fehlerkatalog im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Versr Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Versr Fehlerkatalog

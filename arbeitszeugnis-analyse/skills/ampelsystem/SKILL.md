@@ -1,6 +1,6 @@
 ---
 name: ampelsystem
-description: "Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung im Arbeitszeugnisrecht: fachlich vertiefter Spezialskill mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
 ---
 
 # Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -12,7 +12,7 @@ description: "Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung im A
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Spezialwissen: Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung / spezial ampelsystem dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung / ampelsystem dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: legw-bmz-menschenrechte-multilaterale
-description: "Nutze dies, wenn Legw Bmz Menschenrechte In Lieferketten Lksg, Legw Bmz Multilaterale Zusammenarbeit Und Eu, Legw Eu Richtlinienumsetzung Spezial, Legw Rechtsbereinigung Spezial, Legw Rechtsfolgenabschaetzung Leitfaden und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Bmz Menschenrechte In Lieferketten Lksg, Legw Bmz Multilaterale Zusammenarbeit Und Eu, Legw Eu Richtlinienumsetzung Spezial, Legw Rechtsbereinigung Spezial, Legw Rechtsfolgenabschaetzung Leitfaden und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Bmz Menschenrechte In Lieferketten Lksg, Legw Bmz Multilaterale Zusammenarbeit Und Eu, Legw Eu Richtlinienumsetzung Spezial, Legw Rechtsbereinigung Spezial, Legw Rechtsfolgenabschaetzung Leitfaden und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Bmz Menschenrechte In Lieferketten Lksg, Legw Bmz Multilaterale Zusammenarbeit Und Eu, Legw Eu Richtlinienumsetzung Spezial, Legw Rechtsbereinigung Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Bmz Menschenrechte In Lieferketten Lksg, Legw Bmz Multilaterale Zusammenarbeit Und Eu, Legw Eu Richtlinienumsetzung Spezial, Legw Rechtsbereinigung Spezial, Legw Rechtsfolgenabschaetzung Leitfaden und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Bmz Menschenrechte In Lieferketten Lksg, Legw Bmz Multilaterale Zusammenarbeit Und Eu, Legw Eu Richtlinienumsetzung Spezial, Legw Rechtsbereinigung Spezial, Legw Rechtsfolgenabschaetzung Leitfaden und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,16 +87,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Menschenrechte in Lieferketten (LkSG)
-Ressort:            BMZ
-Kernnormen:         LkSG; HinSchG; ProdHaftG; ggf. EU-CSDDD Umsetzung; AWG-Schnittstellen.
-Akteure/Aufsicht:   BAFA; BMZ; BMWE; BMJV.
-EU/Voelkerrecht:    EU-CSDDD; UNGP; OECD-Leitsaetze.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmz; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Menschenrechte in Lieferketten (LkSG)
+Ressort: BMZ
+Kernnormen: LkSG; HinSchG; ProdHaftG; ggf. EU-CSDDD Umsetzung; AWG-Schnittstellen.
+Akteure/Aufsicht: BAFA; BMZ; BMWE; BMJV.
+EU/Voelkerrecht: EU-CSDDD; UNGP; OECD-Leitsaetze.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -169,16 +169,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Multilaterale Zusammenarbeit und EU
-Ressort:            BMZ
-Kernnormen:         UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.
-Akteure/Aufsicht:   BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.
-EU/Voelkerrecht:    NDICI; EFAD-Architektur; Team Europe; Pakt fuer die Zukunft.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmz; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Multilaterale Zusammenarbeit und EU
+Ressort: BMZ
+Kernnormen: UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.
+Akteure/Aufsicht: BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.
+EU/Voelkerrecht: NDICI; EFAD-Architektur; Team Europe; Pakt fuer die Zukunft.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -308,7 +308,7 @@ Dieser Skill gehoert zum Plugin `legistik-werkstatt`. Er ergaenzt die uebrigen S
 ## Aufgabe
 Leitfaden Gesetzesfolgenabschaetzung GFA: monetaer, nicht monetaer, KMU-Test, Nachhaltigkeitspruefung.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -444,13 +444,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -466,13 +466,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -507,16 +507,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            AA - Auswaertiges Amt
-Hausleitung:        Johann Wadephul (CDU)
-Materie:            Voelkerrecht; konsularische Aufgaben; Aussenwirtschaftsdimension; EU-Verfahren; Sanktionsumsetzung.
-Kernnormen:         GG Art. 32 und Art. 59; WVK; KonsG; PassG; AWG; AWV; EUZBLG; IntZG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-aa
+Ressort: AA - Auswaertiges Amt
+Hausleitung: Johann Wadephul (CDU)
+Materie: Voelkerrecht; konsularische Aufgaben; Aussenwirtschaftsdimension; EU-Verfahren; Sanktionsumsetzung.
+Kernnormen: GG Art. 32 und Art. 59; WVK; KonsG; PassG; AWG; AWV; EUZBLG; IntZG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-aa
 ```
 
 ## Abgrenzung
@@ -572,13 +572,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -594,13 +594,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -635,16 +635,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMAS - Bundesministerium fuer Arbeit und Soziales
-Hausleitung:        Baerbel Bas (SPD)
-Materie:            Arbeit und Tarif; Sozialversicherung; Rente; Arbeitsschutz; Teilhabe.
-Kernnormen:         ArbZG; TVG; ArbSchG; SGB I bis SGB XII; SGB IX; SGB VI; BetrVG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmas
+Ressort: BMAS - Bundesministerium fuer Arbeit und Soziales
+Hausleitung: Baerbel Bas (SPD)
+Materie: Arbeit und Tarif; Sozialversicherung; Rente; Arbeitsschutz; Teilhabe.
+Kernnormen: ArbZG; TVG; ArbSchG; SGB I bis SGB XII; SGB IX; SGB VI; BetrVG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmas
 ```
 
 ## Abgrenzung
@@ -700,13 +700,13 @@ gerichts-Linie und BVerwG-Linie.
 ## Was an diesem Ressort besonders ist
 
 - **Sprache der Materie** - Begriffe sind oft technisch und unionsrechtlich vorgepraegt; Terminologie
-  konsistent halten (siehe `terminologie-konsistenz`).
+ konsistent halten (siehe `terminologie-konsistenz`).
 - **Vollzugskette** - Bund setzt Norm; Vollzug oft bei Laendern oder nachgeordneten Behoerden;
-  Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
+ Vollzugsfolgen muessen mitgedacht werden (siehe `folgenabschaetzung-erfuellungsaufwand`).
 - **Anpassung an EU-Recht** - viele Materien sind EU-getrieben; Goldplating vermeiden
-  (siehe `goldplating-vermeiden`).
+ (siehe `goldplating-vermeiden`).
 - **Verfassungsrechtliche Empfindlichkeiten** - Eingriff in Grundrechte oder Foederalismus
-  pruefen (siehe `verfassungsmaessigkeit-quercheck`).
+ pruefen (siehe `verfassungsmaessigkeit-quercheck`).
 
 ## Fuenf Spezialfelder im Ressort
 
@@ -722,13 +722,13 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
 ## Stolpersteine - die fuenf haeufigsten
 
 1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
-   abstimmung.
+ abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
-   personell gedeckt; Erfuellungsaufwand falsch berechnet.
+ personell gedeckt; Erfuellungsaufwand falsch berechnet.
 3. **EU-Vorgaben nicht passgenau** - Umsetzungsfrist verschlafen oder Mindestharmonisierung
-   ueberschritten (Goldplating).
+ ueberschritten (Goldplating).
 4. **Verbaendeanhoerung zu spaet** - GGO Paragraf 47 verlangt rechtzeitige Beteiligung; spaete
-   Beteiligung kostet politisches Kapital.
+ Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
 ## Vorgehen
@@ -763,16 +763,16 @@ Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einst
 Ressort-Kompass im Auftragsblatt:
 
 ```
-Ressort:            BMBFSFJ - Bundesministerium fuer Bildung; Familie; Senioren; Frauen und Jugend
-Hausleitung:        Karin Prien (CDU)
-Materie:            Bildung; Familienleistungen; Jugendhilfe; Gleichstellung; Senioren.
-Kernnormen:         BAfoeG; BBiG; KJHG (SGB VIII); BEEG; UnterhVG; AGG; LFGB; LPartG.
-Spezialfeld:        <gewaehlter Slug>
-Mitzeichner:        <Liste>
-Spiegelausschuss:   <Bundestags-Ausschuss>
-Verbaendekreis:     <Listen-Liste>
-EU-Bezug:           <Generaldirektion und Rechtsakt>
-Naechster Skill:    legw-ressortaufgaben-bmbfsfj
+Ressort: BMBFSFJ - Bundesministerium fuer Bildung; Familie; Senioren; Frauen und Jugend
+Hausleitung: Karin Prien (CDU)
+Materie: Bildung; Familienleistungen; Jugendhilfe; Gleichstellung; Senioren.
+Kernnormen: BAfoeG; BBiG; KJHG (SGB VIII); BEEG; UnterhVG; AGG; LFGB; LPartG.
+Spezialfeld: <gewaehlter Slug>
+Mitzeichner: <Liste>
+Spiegelausschuss: <Bundestags-Ausschuss>
+Verbaendekreis: <Listen-Liste>
+EU-Bezug: <Generaldirektion und Rechtsakt>
+Naechster Skill: legw-ressortaufgaben-bmbfsfj
 ```
 
 ## Abgrenzung

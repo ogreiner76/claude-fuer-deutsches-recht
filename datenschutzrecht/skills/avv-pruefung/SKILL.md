@@ -22,42 +22,42 @@ Strukturierte Prüfung eingehender oder ausgehender Auftragsverarbeitungsverträ
 
 2. **Art. 28 DSGVO Pflichtklausel-Check.** Jede gesetzlich vorgeschriebene Klausel prüfen:
 
-   | Art. 28 Abs. 3 DSGVO | Pflichtinhalt | Status |
-   |---|---|---|
-   | lit. a | Weisungsgebundenheit + Weisungsregister | ✓ / ⚠️ / ✗ |
-   | lit. b | Vertraulichkeitsverpflichtung verarbeitendes Personal | ✓ / ⚠️ / ✗ |
-   | lit. c | Technisch-organisatorische Maßnahmen (TOM) nach Art. 32 DSGVO | ✓ / ⚠️ / ✗ |
-   | lit. d | Sub-Auftragsverarbeiter-Regelung (allgemeine oder spezifische Genehmigung) | ✓ / ⚠️ / ✗ |
-   | lit. e | Unterstützung bei Betroffenenrechten | ✓ / ⚠️ / ✗ |
-   | lit. f | Unterstützung bei Art. 32–36 DSGVO (DSFA, Datenpanne, Vorab-Konsultation) | ✓ / ⚠️ / ✗ |
-   | lit. g | Löschung oder Rückgabe nach Vertragsende | ✓ / ⚠️ / ✗ |
-   | lit. h | Audit-Recht und Nachweispflichten | ✓ / ⚠️ / ✗ |
+ | Art. 28 Abs. 3 DSGVO | Pflichtinhalt | Status |
+ |---|---|---|
+ | lit. a | Weisungsgebundenheit + Weisungsregister | ✓ / ⚠️ / ✗ |
+ | lit. b | Vertraulichkeitsverpflichtung verarbeitendes Personal | ✓ / ⚠️ / ✗ |
+ | lit. c | Technisch-organisatorische Maßnahmen (TOM) nach Art. 32 DSGVO | ✓ / ⚠️ / ✗ |
+ | lit. d | Sub-Auftragsverarbeiter-Regelung (allgemeine oder spezifische Genehmigung) | ✓ / ⚠️ / ✗ |
+ | lit. e | Unterstützung bei Betroffenenrechten | ✓ / ⚠️ / ✗ |
+ | lit. f | Unterstützung bei Art. 32–36 DSGVO (DSFA, Datenpanne, Vorab-Konsultation) | ✓ / ⚠️ / ✗ |
+ | lit. g | Löschung oder Rückgabe nach Vertragsende | ✓ / ⚠️ / ✗ |
+ | lit. h | Audit-Recht und Nachweispflichten | ✓ / ⚠️ / ✗ |
 
 3. **Playbook-Abgleich.** Jede Klausel mit der eigenen Standardposition aus `CLAUDE.md` vergleichen:
-   - ✅ Standardposition = akzeptabel
-   - ⚠️ Fallback-Position = bedingt akzeptabel, mit Bedingungen
-   - 🔴 Unter Playbook-Minimum = nicht akzeptabel, Redline-Vorschlag
+ - ✅ Standardposition = akzeptabel
+ - ⚠️ Fallback-Position = bedingt akzeptabel, mit Bedingungen
+ - 🔴 Unter Playbook-Minimum = nicht akzeptabel, Redline-Vorschlag
 
 4. **Sub-Auftragsverarbeiter-Prüfung.**
-   - Allgemeine vs. spezifische Genehmigung (Art. 28 Abs. 2 DSGVO)?
-   - Wechselbenachrichtigungsfrist vorhanden? (Praxis: 4 Wochen; kürzer = Einspruchsrecht faktisch ausgehöhlt)
-   - Haftungsüberleitung auf Sub-AV in gleichem Umfang (Art. 28 Abs. 4 DSGVO)?
-   - Liste der Sub-AVs verfügbar / aktuell?
-   - Sub-AVs in Drittländern? → Weiterleitung zu Schritt 5 (TIA).
+ - Allgemeine vs. spezifische Genehmigung (Art. 28 Abs. 2 DSGVO)?
+ - Wechselbenachrichtigungsfrist vorhanden? (Praxis: 4 Wochen; kürzer = Einspruchsrecht faktisch ausgehöhlt)
+ - Haftungsüberleitung auf Sub-AV in gleichem Umfang (Art. 28 Abs. 4 DSGVO)?
+ - Liste der Sub-AVs verfügbar / aktuell?
+ - Sub-AVs in Drittländern? → Weiterleitung zu Schritt 5 (TIA).
 
 5. **Drittlandtransfer-Check (TIA).**
-   - Werden Daten außerhalb EU/EWR verarbeitet oder zugänglich gemacht?
-   - Welcher Transfermechanismus: EU-SCC (Beschluss 2021/914), DPF, BCR, Art. 49 Abs. 1 DSGVO Ausnahmen?
-   - EU-SCC: Modul korrekt (AV-zu-AV, Verantwortlicher-zu-AV)? Technische Anlage befüllt?
-   - DPF: Anbieter auf DPF-Liste eingetragen (data.privacyframework.gov)? `[Modellwissen – prüfen, da DPF ggf. geändert]`
-   - TIA nach EDSA-Empfehlungen 01/2020 erforderlich? (Ja, wenn SCC ohne zusätzliche Schutzmaßnahmen nicht ausreichen)
-   - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Werden Daten außerhalb EU/EWR verarbeitet oder zugänglich gemacht?
+ - Welcher Transfermechanismus: EU-SCC (Beschluss 2021/914), DPF, BCR, Art. 49 Abs. 1 DSGVO Ausnahmen?
+ - EU-SCC: Modul korrekt (AV-zu-AV, Verantwortlicher-zu-AV)? Technische Anlage befüllt?
+ - DPF: Anbieter auf DPF-Liste eingetragen (data.privacyframework.gov)? `[Modellwissen – prüfen, da DPF ggf. geändert]`
+ - TIA nach EDSA-Empfehlungen 01/2020 erforderlich? (Ja, wenn SCC ohne zusätzliche Schutzmaßnahmen nicht ausreichen)
+ - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 6. **Redline-Vorschläge.** Für jede 🔴-Klausel konkreten Änderungsvorschlag formulieren – in Vertragssprache, nicht als Memo-Kommentar.
 
 7. **Bewertungstabelle und Empfehlung.**
-   - Gesamt-Risikobewertung: 🔴 Blockend / 🟠 Hoch / 🟡 Mittel / 🟢 Gering
-   - Empfehlung: Unterzeichnen / Mit Redlines unterzeichnen / Ablehnen / Eskalieren
+ - Gesamt-Risikobewertung: 🔴 Blockend / 🟠 Hoch / 🟡 Mittel / 🟢 Gering
+ - Empfehlung: Unterzeichnen / Mit Redlines unterzeichnen / Ablehnen / Eskalieren
 
 ## Quellen und Zitierweise
 
@@ -153,17 +153,17 @@ Stand: 05/2026. Aktualität prüfen bei neuen EDSA-Leitlinien zur Auftragsverarb
 
 ```
 Prüfungsrichtung?
-  Eingehender AVV (wir sind Verantwortlicher) → Prüfe: Weisungsrecht vollständig?
-  Ausgehender AVV (wir sind Auftragsverarbeiter) → Prüfe: Pflichten Art. 28 Abs. 3 vollständig?
-  Unklar → Richtungserkennung über Parteienbezeichnung und Weisungsklausel
+ Eingehender AVV (wir sind Verantwortlicher) → Prüfe: Weisungsrecht vollständig?
+ Ausgehender AVV (wir sind Auftragsverarbeiter) → Prüfe: Pflichten Art. 28 Abs. 3 vollständig?
+ Unklar → Richtungserkennung über Parteienbezeichnung und Weisungsklausel
 
 Drittlandbezug?
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Nein → kein TIA erforderlich
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Nein → kein TIA erforderlich
 
 Sub-AVs mit Drittlandexposure?
-  Ja → Art. 28 Abs. 4 DSGVO: Pflichten vollständig übergeleitet?
-  Nein → nur Listenpflicht und Wechselbenachrichtigung prüfen
+ Ja → Art. 28 Abs. 4 DSGVO: Pflichten vollständig übergeleitet?
+ Nein → nur Listenpflicht und Wechselbenachrichtigung prüfen
 ```
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -179,16 +179,16 @@ Richtung: Verantwortlicher / Auftragsverarbeiter
 Gesamt-Risiko: ROT / ORANGE / GELB / GRUEN
 
 Pflichtklausel-Status (Art. 28 Abs. 3 DSGVO):
-| Buchstabe | Inhalt                     | Status | Kommentar |
+| Buchstabe | Inhalt | Status | Kommentar |
 |-----------|----------------------------|--------|-----------|
-| lit. a    | Weisungsgebundenheit       |        |           |
-| lit. b    | Vertraulichkeit            |        |           |
-| lit. c    | TOM Art. 32 DSGVO          |        |           |
-| lit. d    | Sub-AV-Regelung            |        |           |
-| lit. e    | Unterstuetzung Betr.-R.    |        |           |
-| lit. f    | Unterstuetzung Art. 32-36  |        |           |
-| lit. g    | Loeschung/Rueckgabe        |        |           |
-| lit. h    | Audit-Recht                |        |           |
+| lit. a | Weisungsgebundenheit | | |
+| lit. b | Vertraulichkeit | | |
+| lit. c | TOM Art. 32 DSGVO | | |
+| lit. d | Sub-AV-Regelung | | |
+| lit. e | Unterstuetzung Betr.-R. | | |
+| lit. f | Unterstuetzung Art. 32-36 | | |
+| lit. g | Loeschung/Rueckgabe | | |
+| lit. h | Audit-Recht | | |
 
 Drittlandtransfer: ja / nein
 TIA erforderlich: ja / nein

@@ -1,13 +1,13 @@
 ---
 name: buergergeld-ueberbrueckungsgeld-dokumenten
-description: "Nutze dies, wenn Buergergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pdf Laien Sozialgericht, Dolmetscher Beim Sozialgericht Laien, Dsgvo Art 15 Auskunft Sozialakte, Eilantrag 86B Sgg Grundlagen im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Bürgergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pdf Laien Sozialgericht, Dolmetscher Beim Sozialgericht Laien, Dsgvo Art 15 Auskunft Sozialakte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Buergergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pdf Laien Sozialgericht, Dolmetscher Beim Sozialgericht Laien, Dsgvo Art 15 Auskunft Sozialakte, Eilantrag 86B Sgg Grundlagen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Buergergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pdf Laien Sozialgericht, Dolmetscher Beim Sozialgericht Laien, Dsgvo Art 15 Auskunft Sozialakte, Eilantrag 86B Sgg Grundlagen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -275,7 +275,7 @@ Sie sprechen kein gutes Deutsch. Oder Sie sind gehoerlos. Sie haben Recht auf ei
 So frueh wie moeglich beim SG:
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 
@@ -481,7 +481,7 @@ Wichtig: nicht beweisen, nur glaubhaft machen (eidesstattliche Versicherung reic
 Beispiel fuer Buergergeld-Eilantrag:
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 In dem Verfahren
 

@@ -1,6 +1,6 @@
 ---
 name: wochen
-description: "Nutze dies, wenn Wochen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Wochen: Fristen, Form, Zuständigkeit und Rechtsweg prüfen.; Erstelle eine Arbeitsfassung zu Wochen: Fristen, Form, Zuständigkeit und Rechtsweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wochen: Fristen, Form, Zuständigkeit und Rechtsweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Wochen: Fristen, Form, Zuständigkeit und Rechtsweg

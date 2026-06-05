@@ -1,13 +1,13 @@
 ---
 name: anwendungsbereich-berufliche-abweichende
-description: "Nutze dies, wenn Goae 1 Anwendungsbereich Berufliche Leistungen, Goae 2 Abweichende Vereinbarung Honorarvereinbarung, Goae 3 Verguetungen Gebühren Entschaedigungen Auslagen im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte Goae 1 Anwendungsbereich Berufliche Leistungen, Goae 2 Abweichende Vereinbarung Honorarvereinbarung, Goae 3 Verguetungen Gebühren Entschaedigungen Auslagen prüfen.; Erstelle eine Arbeitsfassung zu Goae 1 Anwendungsbereich Berufliche Leistungen, Goae 2 Abweichende Vereinbarung Honorarvereinbarung, Goae 3 Verguetungen Gebühren Entschaedigungen Auslagen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Goae 1 Anwendungsbereich Berufliche Leistungen, Goae 2 Abweichende Vereinbarung Honorarvereinbarung, Goae 3 Verguetungen Gebuehren Entschaedigungen Auslagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Goae 1 Anwendungsbereich Berufliche Leistungen, Goae 2 Abweichende Vereinbarung Honorarvereinbarung, Goae 3 Verguetungen Gebühren Entschaedigungen Auslagen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Goae 1 Anwendungsbereich Berufliche Leistungen, Goae 2 Abweichende Vereinbarung Honorarvereinbarung, Goae 3 Verguetungen Gebühren Entschaedigungen Auslagen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -66,20 +66,20 @@ Eingaben:
 - **Berufsordnung der Ärztekammern** (§ 12 MBO-Ä) — Verbot ungerechtfertigt hoher Liquidationen.
 - BGH staend. Rspr. zur Abgrenzung Heilbehandlung / Begutachtung / IGel.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Approbation prüfen:** Approbationsurkunde Ärztin/Arzt vorhanden? Ohne Approbation kein GOÄ-Anwendungsbereich (Berufserlaubnis genügt im Einzelfall).
 2. **Patientenstatus klären:**
-   - PKV-Privatpatient: GOÄ-Anwendung vollumfänglich.
-   - Beihilfeberechtigter: GOÄ + Beihilfeverordnung des Dienstherrn (Bund/Land).
-   - GKV-Patient mit Privatbehandlung (z. B. IGel): GOÄ-Anwendung mit Hinweispflicht.
-   - Selbstzahler: GOÄ-Anwendung.
-   - Auslandsbehandlung: GOÄ-Anwendung nach deutschem Recht.
+ - PKV-Privatpatient: GOÄ-Anwendung vollumfänglich.
+ - Beihilfeberechtigter: GOÄ + Beihilfeverordnung des Dienstherrn (Bund/Land).
+ - GKV-Patient mit Privatbehandlung (z. B. IGel): GOÄ-Anwendung mit Hinweispflicht.
+ - Selbstzahler: GOÄ-Anwendung.
+ - Auslandsbehandlung: GOÄ-Anwendung nach deutschem Recht.
 3. **Leistung klassifizieren:**
-   - Heilbehandlung im engeren Sinn: GOÄ direkt.
-   - Gutachten/Bescheinigung: GOÄ Abschnitt L (Sonderleistungen).
-   - Wahlleistung Krankenhaus: GOÄ § 6a + Wahlleistungsvereinbarung.
-   - Telemedizin: GOÄ + spezielle GOÄ-Ziffern (vom Anwender zu verifizieren — laufende Anpassungen).
+ - Heilbehandlung im engeren Sinn: GOÄ direkt.
+ - Gutachten/Bescheinigung: GOÄ Abschnitt L (Sonderleistungen).
+ - Wahlleistung Krankenhaus: GOÄ § 6a + Wahlleistungsvereinbarung.
+ - Telemedizin: GOÄ + spezielle GOÄ-Ziffern (vom Anwender zu verifizieren — laufende Anpassungen).
 4. **Abweichende Honorarvereinbarung:** § 2 GOÄ — nur in engen Grenzen zulässig.
 5. **Schwellenwert/Höchstsatz:** § 5 GOÄ — Bemessung.
 6. **Rechnungserstellung:** § 12 GOÄ — Fälligkeit erst nach formgerechter Rechnung.
@@ -181,17 +181,17 @@ Eingaben:
 - **§ 5 GOÄ:** Bemessung — Regelfall innerhalb Schwellenwert.
 - BGH staend. Rspr. zur Wirksamkeit § 2-Vereinbarungen, insb. Schriftform und vorheriger Abschluss.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Geplanter Steigerungsfaktor:** Über oder unter Schwellenwert (2,3; 1,8; 1,15)?
 2. **Falls darüber — § 2 GOÄ-Vereinbarung nötig.**
 3. **Form:** Schriftlich, persönlich unterzeichnet — keine elektronische Signatur ohne qualifizierte Signatur des Patienten (vom Anwender zu verifizieren).
 4. **Zeitpunkt:** Vor Erbringung der Leistung. Spätere Vereinbarung ist regelmässig unwirksam.
 5. **Inhalt:**
-   - Konkrete Leistung (Ziffer, Bezeichnung).
-   - Steigerungsfaktor und resultierender Betrag.
-   - Hinweis "Diese Vereinbarung weicht von den Gebührensätzen der GOÄ ab".
-   - Hinweis auf voraussichtliche fehlende Erstattung durch PKV/Beihilfe oberhalb des Schwellenwerts.
+ - Konkrete Leistung (Ziffer, Bezeichnung).
+ - Steigerungsfaktor und resultierender Betrag.
+ - Hinweis "Diese Vereinbarung weicht von den Gebührensätzen der GOÄ ab".
+ - Hinweis auf voraussichtliche fehlende Erstattung durch PKV/Beihilfe oberhalb des Schwellenwerts.
 6. **Individualität:** Keine Massentechnik — Patient muss konkret zustimmen.
 7. **Erstattungsfähigkeit:** PKV/Beihilfe erstatten regelmässig nur bis Schwellenwert ohne Bedingung; Mehrbetrag oft nicht.
 8. **Dokumentation:** Original in Patientenakte.

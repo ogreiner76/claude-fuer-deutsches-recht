@@ -1,6 +1,6 @@
 ---
 name: beirat-kontrollfunktion
-description: "Nutze dies, wenn Beirat Kontrollfunktion im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Kontrollfunktion prüfen.; Erstelle eine Arbeitsfassung zu Beirat Kontrollfunktion.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Kontrollfunktion: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Kontrollfunktion

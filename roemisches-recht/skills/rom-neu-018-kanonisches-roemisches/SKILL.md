@@ -1,6 +1,6 @@
 ---
 name: rom-neu-018-kanonisches-roemisches
-description: "Nutze dies, wenn Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung

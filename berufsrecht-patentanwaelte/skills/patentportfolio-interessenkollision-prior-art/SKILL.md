@@ -1,13 +1,13 @@
 ---
 name: patentportfolio-interessenkollision-prior-art
-description: "Nutze dies, wenn Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, Patentanwaelte Prior Art Fehler Und Meldepflicht Kammerantwort, Patentanwaelte Prior Art Fehler Und Meldepflicht Organisationsp, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kammerantwort Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Organisationspflic im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, Patentanwaelte Prior Art Fehler Und Meldepflicht Kammerantwort, Patentanwaelte Prior Art Fehler Und Meldepflicht Organisationsp, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kammerantwort Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Organisationspflic prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, Patentanwaelte Prior Art Fehler Und Meldepflicht Kammerantwort, Patentanwaelte Prior Art Fehler Und Meldepflicht Organisationsp, Patentanwaelte S..."
+description: "Nutze dies bei Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, Patentanwaelte Prior Art Fehler Und Meldepflicht Kammerantwort, Patentanwaelte Prior Art Fehler Und Meldepflicht Organisationsp, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kammerantwort Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, Patentanwaelte Prior Art Fehler Und Meldepflicht Kammerantwort, Patentanwaelte Prior Art Fehler Und Meldepflicht Organisationsp, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kammerantwort Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Organisationspflic
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Patentportfolio Und Interessenkollision Rechtspr, Patentanwaelte Prior Art Fehler Und Meldepflicht Kammerantwort, Patentanwaelte Prior Art Fehler Und Meldepflicht Organisationsp, Patentanwaelte Sozietaet Mit Rechtsanwaelten Kammerantwort Und, Patentanwaelte Sozietaet Mit Rechtsanwaelten Organisationspflic** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

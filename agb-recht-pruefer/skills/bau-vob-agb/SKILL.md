@@ -1,6 +1,6 @@
 ---
 name: bau-vob-agb
-description: "Branchen-Spezialskill für Bau VOB/B AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Bau VOB/B AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Bau VOB/B AGB

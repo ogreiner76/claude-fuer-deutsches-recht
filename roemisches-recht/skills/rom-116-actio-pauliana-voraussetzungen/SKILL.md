@@ -12,9 +12,9 @@ Skill fuer die Beweislastfragen bei der actio Pauliana.
 ## Beweislast
 
 - Glaeubiger traegt die Beweislast fuer:
-  - eventus damni
-  - consilium fraudis des Schuldners
-  - scientia oder conscientia des Dritten (bei entgeltlich)
+ - eventus damni
+ - consilium fraudis des Schuldners
+ - scientia oder conscientia des Dritten (bei entgeltlich)
 
 ## Indizienbeweis
 

@@ -1,6 +1,6 @@
 ---
 name: parking-mobility-agb
-description: "Branchen-Spezialskill für Parking Mobility AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Parking Mobility AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Parking Mobility AGB

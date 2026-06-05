@@ -1,6 +1,6 @@
 ---
 name: rom-072-abstraktionsprinzip-vergleich
-description: "Römisches Recht: Abstraktionsprinzip Vergleich. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Abstraktionsprinzip Vergleich. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Abstraktionsprinzip Vergleich

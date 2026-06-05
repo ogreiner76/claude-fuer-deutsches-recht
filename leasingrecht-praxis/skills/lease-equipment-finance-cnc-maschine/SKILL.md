@@ -1,13 +1,13 @@
 ---
 name: lease-equipment-finance-cnc-maschine
-description: "Nutze dies, wenn Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik im Plugin Leasingrecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik prüfen.; Erstelle eine Arbeitsfassung zu Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Maengel, Lease 054 Fahrzeugflotte Telematik: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Mängel, Lease 054 Fahrzeugflotte Telematik** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

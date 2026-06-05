@@ -18,13 +18,13 @@ Verwaltung mündelsicher angelegten Vermögens nach § 1839 BGB sowie der
 - Datum der Bestellung (Beginn der Vermögenssorge)
 - Bisheriger Betreuer (falls Wechsel) — dessen Schlussrechnung als Eingabe
 - Liste aller Konten der betreuten Person (Girokonto, Sparkonten,
-  Tagesgeld, Festgeld, Depots) mit IBAN, Stand zum Bestellungstag
+ Tagesgeld, Festgeld, Depots) mit IBAN, Stand zum Bestellungstag
 - Immobilieneigentum (Grundbuchauszug)
 - Bewegliche Sachen von Wert (Schmuck, Kunst, Fahrzeug)
 - Forderungen und Verbindlichkeiten (offene Rechnungen, Darlehen,
-  Bürgschaften, Erbansprüche)
+ Bürgschaften, Erbansprüche)
 - Sozialleistungsbescheide (Rente, Grundsicherung, Pflegekasse,
-  Hilfe zur Pflege § 61 SGB XII)
+ Hilfe zur Pflege § 61 SGB XII)
 - Versicherungspolicen (Lebensversicherung, Sterbegeld, Rechtsschutz)
 - Wiederkehrende Einnahmen und Ausgaben (Renten, Mieten, Heimkosten)
 
@@ -95,36 +95,36 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Bestandsaufnahme zum Stichtag der Bestellung**
-   Bankauskünfte einholen (Vorlage Bestellungsurkunde), Grundbuchauszug
-   beantragen, vorhandene Verträge und Versicherungspolicen sichten.
+ Bankauskünfte einholen (Vorlage Bestellungsurkunde), Grundbuchauszug
+ beantragen, vorhandene Verträge und Versicherungspolicen sichten.
 
 2. **Vermögensverzeichnis strukturieren**
-   - A. Geldvermögen (Konten, Depots, Bargeld)
-   - B. Immobilien (Anschrift, Grundbuchblatt, Verkehrswert)
-   - C. Bewegliche Sachen von Wert
-   - D. Forderungen
-   - E. Verbindlichkeiten
-   - F. Wiederkehrende Einnahmen und Ausgaben
+ - A. Geldvermögen (Konten, Depots, Bargeld)
+ - B. Immobilien (Anschrift, Grundbuchblatt, Verkehrswert)
+ - C. Bewegliche Sachen von Wert
+ - D. Forderungen
+ - E. Verbindlichkeiten
+ - F. Wiederkehrende Einnahmen und Ausgaben
 
 3. **Mündelsichere Anlage prüfen (§ 1839 BGB)**
-   Beträge, die nicht binnen 12 Monaten für laufende Ausgaben benötigt
-   werden, sind verzinslich anzulegen. Tagesgeld bei
-   einlagengesichertem Institut genügt. Bei Sperrvermerk-Anordnung:
-   Konto in "Mündelkonto mit Sperrvermerk" umwandeln.
+ Beträge, die nicht binnen 12 Monaten für laufende Ausgaben benötigt
+ werden, sind verzinslich anzulegen. Tagesgeld bei
+ einlagengesichertem Institut genügt. Bei Sperrvermerk-Anordnung:
+ Konto in "Mündelkonto mit Sperrvermerk" umwandeln.
 
 4. **Sperrvermerk einrichten**
-   Antrag beim Betreuungsgericht; nach Genehmigung Sperrvermerk-Vereinbarung
-   mit Bank schließen. Verfügungen nur noch mit Genehmigung nach
-   § 1848 BGB.
+ Antrag beim Betreuungsgericht; nach Genehmigung Sperrvermerk-Vereinbarung
+ mit Bank schließen. Verfügungen nur noch mit Genehmigung nach
+ § 1848 BGB.
 
 5. **Laufende Buchführung**
-   Jede Einnahme und Ausgabe zeitnah erfassen. Empfehlung: Excel-Tabelle
-   oder spezielle Betreuersoftware. Belege chronologisch sammeln.
+ Jede Einnahme und Ausgabe zeitnah erfassen. Empfehlung: Excel-Tabelle
+ oder spezielle Betreuersoftware. Belege chronologisch sammeln.
 
 6. **Jährliche Rechnungslegung (§ 1865 BGB)**
-   Geordnete Aufstellung Einnahmen/Ausgaben mit Belegen, Endsaldo, Abgleich
-   mit Kontoauszug. Bei Heimkosten: Hilfe zur Pflege (§ 61 SGB XII)
-   beantragen und prüfen.
+ Geordnete Aufstellung Einnahmen/Ausgaben mit Belegen, Endsaldo, Abgleich
+ mit Kontoauszug. Bei Heimkosten: Hilfe zur Pflege (§ 61 SGB XII)
+ beantragen und prüfen.
 
 ## Ausgabeformat
 
@@ -132,41 +132,41 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Vermögensverzeichnis nach § 1835 BGB
 Stichtag: [TT.MM.JJJJ — Tag der Bestellung]
 
-Betreute Person:    [Name, Geburtsdatum]
-Aktenzeichen:       [XVII … / …]
-Betreuer:           [Name, BtOG-Reg.-Nr.]
+Betreute Person: [Name, Geburtsdatum]
+Aktenzeichen: [XVII … / …]
+Betreuer: [Name, BtOG-Reg.-Nr.]
 
 A. Geldvermögen
-   | Konto                 | IBAN              | Saldo     | Sperrvermerk |
-   |----------------------|-------------------|-----------|--------------|
-   | Sparkasse Berlin Giro | DE.. .. .. ..    | 1.234 EUR | nein         |
-   | Sparkasse Spar       | DE.. .. .. ..    | 12.000 EUR| ja           |
+ | Konto | IBAN | Saldo | Sperrvermerk |
+ |----------------------|-------------------|-----------|--------------|
+ | Sparkasse Berlin Giro | DE.. .. .. .. | 1.234 EUR | nein |
+ | Sparkasse Spar | DE.. .. .. .. | 12.000 EUR| ja |
 
 B. Immobilien
-   [Anschrift, Grundbuchblatt, geschätzter Verkehrswert]
+ [Anschrift, Grundbuchblatt, geschätzter Verkehrswert]
 
 C. Bewegliche Sachen von Wert
-   [Position, Schätzwert]
+ [Position, Schätzwert]
 
 D. Forderungen
-   [Forderung gegen wen, Betrag, Fälligkeit]
+ [Forderung gegen wen, Betrag, Fälligkeit]
 
 E. Verbindlichkeiten
-   [Gläubiger, Betrag, monatliche Rate]
+ [Gläubiger, Betrag, monatliche Rate]
 
 F. Wiederkehrende Einnahmen und Ausgaben
-   Einnahmen:  Altersrente DRV   1.213 EUR/Mon
-               Grundsicherung    [Antrag/Bescheid]
-   Ausgaben:   Heimkosten        2.341 EUR/Mon
-               Telekom            29 EUR/Mon
+ Einnahmen: Altersrente DRV 1.213 EUR/Mon
+ Grundsicherung [Antrag/Bescheid]
+ Ausgaben: Heimkosten 2.341 EUR/Mon
+ Telekom 29 EUR/Mon
 
-Gesamtvermögen zum Stichtag:    [Betrag]
+Gesamtvermögen zum Stichtag: [Betrag]
 
 Versicherung:
 Ich versichere die Richtigkeit und Vollständigkeit dieses Verzeichnisses
 (§ 1835 Abs. 2 BGB).
 
-Ort, Datum                              [Unterschrift Betreuer/in]
+Ort, Datum [Unterschrift Betreuer/in]
 ```
 
 Bei der jährlichen Rechnungslegung zusätzlich tabellarische

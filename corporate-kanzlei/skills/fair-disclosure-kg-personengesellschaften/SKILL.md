@@ -1,13 +1,13 @@
 ---
 name: fair-disclosure-kg-personengesellschaften
-description: "Nutze dies, wenn Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -406,22 +406,22 @@ Parteien: [VERAEUSSERER] / [ERWERBER]
 Datum: [DATUM]
 
 1. GEGENSTAND
-   Der Veraeusserer uebertraegt hiermit seinen Kommanditanteil an der [FIRMA KG]
-   (HRA-Nummer: [Nr.], Amtsgericht [Ort])
-   im Nominalwert von EUR [BETRAG] an den Erwerber.
+ Der Veraeusserer uebertraegt hiermit seinen Kommanditanteil an der [FIRMA KG]
+ (HRA-Nummer: [Nr.], Amtsgericht [Ort])
+ im Nominalwert von EUR [BETRAG] an den Erwerber.
 
 2. KAUFPREIS
-   EUR [BETRAG]; zahlbar bis [DATUM].
+ EUR [BETRAG]; zahlbar bis [DATUM].
 
 3. ZUSTIMMUNGEN
-   Die uebrigen Gesellschafter haben der Abtretung am [Datum] zugestimmt.
-   [Gesellschaftsvertrag § X: Vinkulierungsklausel beachtet]
+ Die uebrigen Gesellschafter haben der Abtretung am [Datum] zugestimmt.
+ [Gesellschaftsvertrag § X: Vinkulierungsklausel beachtet]
 
 4. STEUERLICHE REGELUNGEN
-   [Buchwertfortfuehrung nach § 6 III EStG; oder § 24 UmwStG]
+ [Buchwertfortfuehrung nach § 6 III EStG; oder § 24 UmwStG]
 
 5. HANDELSREGISTERANMELDUNG
-   Der Erwerber verpflichtet sich, die Aenderung unverzueglich beim Handelsregister anzumelden.
+ Der Erwerber verpflichtet sich, die Aenderung unverzueglich beim Handelsregister anzumelden.
 ```
 
 ## Rote Schwellen

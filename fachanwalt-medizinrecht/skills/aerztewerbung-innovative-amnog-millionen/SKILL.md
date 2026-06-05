@@ -1,13 +1,13 @@
 ---
 name: aerztewerbung-innovative-amnog-millionen
-description: "Nutze dies, wenn Aerztewerbung Innovative Therapie, Amnog Millionen Therapie im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Aerztewerbung Innovative Therapie, Amnog Millionen Therapie prüfen.; Erstelle eine Arbeitsfassung zu Aerztewerbung Innovative Therapie, Amnog Millionen Therapie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aerztewerbung Innovative Therapie, Amnog Millionen Therapie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aerztewerbung Innovative Therapie, Amnog Millionen Therapie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

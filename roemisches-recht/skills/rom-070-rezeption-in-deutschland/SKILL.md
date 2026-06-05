@@ -1,6 +1,6 @@
 ---
 name: rom-070-rezeption-in-deutschland
-description: "Römisches Recht: Rezeption In Deutschland. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Rezeption In Deutschland. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Rezeption In Deutschland

@@ -1,13 +1,13 @@
 ---
 name: interessen-rechtsberatung-rechtsfolgen
-description: "Nutze dies, wenn Spezial Prüfen Mehrparteien Konflikt Und Interessen, Spezial Rechtsberatung Internationaler Bezug Und Schnittstellen, Spezial Rechtsfolgen Zahlen Schwellen Und Berechnung im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Spezial Prüfen Mehrparteien Konflikt Und Interessen, Spezial Rechtsberatung Internationaler Bezug Und Schnittstellen, Spezial Rechtsfolgen Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Prüfen Mehrparteien Konflikt Und Interessen, Spezial Rechtsberatung Internationaler Bezug Und Schnittstellen, Spezial Rechtsfolgen Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prüfen Mehrparteien Konflikt Und Interessen, Rechtsberatung Internationaler Bezug Und Schnittstellen, Rechtsfolgen Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Prüfen Mehrparteien Konflikt Und Interessen, Spezial Rechtsberatung Internationaler Bezug Und Schnittstellen, Spezial Rechtsfolgen Zahlen Schwellen Und Berechnung
+# Prüfen Mehrparteien Konflikt Und Interessen, Rechtsberatung Internationaler Bezug Und Schnittstellen, Rechtsfolgen Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prüfen Mehrparteien Konflikt Und Interessen, Rechtsberatung Internationaler Bezug Und Schnittstellen, Rechtsfolgen Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Prüfen Mehrparteien Konflikt Und Interessen, Spezial Rechtsberatung Internationaler Bezug Und Schnittstellen, Spezial Rechtsfolgen Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Prüfen Mehrparteien Konflikt Und Interessen, Rechtsberatung Internationaler Bezug Und Schnittstellen, Rechtsfolgen Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -80,7 +80,7 @@ Bei mehrstöckigen Sachverhalten (z. B. Haupt- und Subunternehmer, Konzerngesell
 - BRAO § 356: Parteiverrat (Strafrecht)
 - Checkliste: Ist die fragende Person Anwalt einer bestimmten Partei? Gibt es Mandate auf der Gegenseite?
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
@@ -184,7 +184,7 @@ Wenn kein EU-Kollisionsrecht greift: EGBGB (Art. 3 ff.) für Personen- und Famil
 - Art. 44 ff. DSGVO: Drittstaatenübermittlung; Angemessenheitsbeschluss, SCC (Standardvertragsklauseln)
 - Live-Check: Aktuellen Angemessenheitsbeschluss für das Zielland prüfen (edpb.europa.eu; datenschutz.de)
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
@@ -251,12 +251,12 @@ Dieser Skill quantifiziert die Rechtsfolgen einer Subsumtion: Schadensersatz, Ve
 ### Schema 1 — Verzugszinsen
 
 ```
-Hauptforderung:      EUR X
-Fälligkeit:          TT.MM.JJJJ (bei Mahnung oder vertraglicher Bestimmung)
-Verzugsbeginn:       Mahnung (§ 286 Abs. 1 BGB) oder 30 Tage nach Fälligkeit (§ 286 Abs. 3 BGB)
-Zinssatz:            Basiszinssatz (Bundesbank.de, aktuell prüfen) + 5 PP (B2C) / + 9 PP (B2B)
-Zinsen pro Tag:      Hauptforderung × Zinssatz / 365
-Gesamtzinsen:        Zinsen pro Tag × Anzahl Tage Verzug
+Hauptforderung: EUR X
+Fälligkeit: TT.MM.JJJJ (bei Mahnung oder vertraglicher Bestimmung)
+Verzugsbeginn: Mahnung (§ 286 Abs. 1 BGB) oder 30 Tage nach Fälligkeit (§ 286 Abs. 3 BGB)
+Zinssatz: Basiszinssatz (Bundesbank.de, aktuell prüfen) + 5 PP (B2C) / + 9 PP (B2B)
+Zinsen pro Tag: Hauptforderung × Zinssatz / 365
+Gesamtzinsen: Zinsen pro Tag × Anzahl Tage Verzug
 ```
 
 ### Schema 2 — Schadensersatz § 249 BGB
@@ -287,7 +287,7 @@ Hinweis: RVG-Tabellen und Gebührensätze live prüfen unter gesetze-im-internet
 - Räumungsklage: Jahresmiete (§ 9 ZPO)
 - Unterlassungsklage: Gesamtinteresse des Klägers; kein starrer Schematismus
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

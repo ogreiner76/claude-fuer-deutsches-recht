@@ -1,13 +1,13 @@
 ---
 name: wohnungsrecht-dienstbarkeit-vollzug
-description: "Nutze dies, wenn Notariat 051 Wohnungsrecht Dienstbarkeit Baulast Abgrenzung, Notariat 052 Vollzug Mit Behörden Genehmigungen Vorkaufsrechtsz, Notariat 053 Immobilienfinanzierung Bankauflagen Und Treuhandauf im Plugin Notariat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Notariat 051 Wohnungsrecht Dienstbarkeit Baulast Abgrenzung, Notariat 052 Vollzug Mit Behörden Genehmigungen Vorkaufsrechtsz, Notariat 053 Immobilienfinanzierung Bankauflagen Und Treuhandauf prüfen.; Erstelle eine Arbeitsfassung zu Notariat 051 Wohnungsrecht Dienstbarkeit Baulast Abgrenzung, Notariat 052 Vollzug Mit Behörden Genehmigungen Vorkaufsrechtsz, Notariat 053 Immobilienfinanzierung Bankauflagen Und Treuhandauf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notariat 051 Wohnungsrecht Dienstbarkeit Baulast Abgrenzung, Notariat 052 Vollzug Mit Behörden Genehmigungen Vorkaufsrechtsz, Notariat 053 Immobilienfinanzierung Bankauflagen Und Treuhandauf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notariat 051 Wohnungsrecht Dienstbarkeit Baulast Abgrenzung, Notariat 052 Vollzug Mit Behörden Genehmigungen Vorkaufsrechtsz, Notariat 053 Immobilienfinanzierung Bankauflagen Und Treuhandauf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 051 Wohnungsrecht Dienstbarkeit Baulast Abgrenzung, Notariat 052 Vollzug Mit Behörden Genehmigungen Vorkaufsrechtsz, Notariat 053 Immobilienfinanzierung Bankauflagen Und Treuhandauf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

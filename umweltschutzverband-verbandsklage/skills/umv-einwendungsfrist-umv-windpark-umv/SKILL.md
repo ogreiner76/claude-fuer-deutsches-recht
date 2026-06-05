@@ -1,13 +1,13 @@
 ---
 name: umv-einwendungsfrist-umv-windpark-umv
-description: "Nutze dies, wenn Umv 007 Einwendungsfrist Und Praeklusion, Umv 025 Windpark Klagefrist Sichern, Umv 035 Strassenbau Klagefrist Sichern, Umv 045 Bebauungsplan Klagefrist Sichern im Plugin Umweltschutzverband Verbandsklage konkret bearbeitet werden soll. Auslöser: Bitte Umv 007 Einwendungsfrist Und Praeklusion, Umv 025 Windpark Klagefrist Sichern, Umv 035 Strassenbau Klagefrist Sichern, Umv 045 Bebauungsplan Klagefrist Sichern prüfen.; Erstelle eine Arbeitsfassung zu Umv 007 Einwendungsfrist Und Praeklusion, Umv 025 Windpark Klagefrist Sichern, Umv 035 Strassenbau Klagefrist Sichern, Umv 045 Bebauungsplan Klagefrist Sichern.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umv 007 Einwendungsfrist Und Praeklusion, Umv 025 Windpark Klagefrist Sichern, Umv 035 Strassenbau Klagefrist Sichern, Umv 045 Bebauungsplan Klagefrist Sichern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umv 007 Einwendungsfrist Und Praeklusion, Umv 025 Windpark Klagefrist Sichern, Umv 035 Strassenbau Klagefrist Sichern, Umv 045 Bebauungsplan Klagefrist Sichern
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umv 007 Einwendungsfrist Und Praeklusion, Umv 025 Windpark Klagefrist Sichern, Umv 035 Strassenbau Klagefrist Sichern, Umv 045 Bebauungsplan Klagefrist Sichern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

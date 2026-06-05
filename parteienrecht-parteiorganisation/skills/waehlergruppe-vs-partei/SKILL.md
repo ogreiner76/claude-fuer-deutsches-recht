@@ -8,7 +8,7 @@ description: "Erklärt Abgrenzung Partei, kommunale Wählergruppe, Verein, Initi
 ## Aufgabe
 Erklärt Abgrenzung Partei, kommunale Wählergruppe, Verein, Initiative und Folgen für Wahlrecht/Finanzen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

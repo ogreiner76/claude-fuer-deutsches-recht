@@ -1,13 +1,13 @@
 ---
 name: verl-verlagsgesetz-verl-kuendigung
-description: "Nutze dies, wenn Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung prüfen.; Erstelle eine Arbeitsfassung zu Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kündigung Wegen Nichtausuebung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -198,10 +198,10 @@ Der **Rückruf wegen Nichtausübung** nach UrhG § 41 ist das wichtigste gesetzl
 ### 2. Nichtausübung des Rechts
 - **Nichtausübung**: Verlag nutzt das eingeräumte Recht nicht.
 - Beispiele:
-  - Buch erscheint nicht (keine Erstveröffentlichung).
-  - Buch vergriffen; keine Neuauflage geplant.
-  - E-Book-Recht eingeräumt, aber E-Book nie erschienen.
-  - Übersetzungsrecht vergeben, aber keine Übersetzung erschienen.
+ - Buch erscheint nicht (keine Erstveröffentlichung).
+ - Buch vergriffen; keine Neuauflage geplant.
+ - E-Book-Recht eingeräumt, aber E-Book nie erschienen.
+ - Übersetzungsrecht vergeben, aber keine Übersetzung erschienen.
 
 ### 3. Erhebliche Beeinträchtigung der Interessen des Urhebers
 - Automatische Nichtausübung allein reicht nicht; Urheber muss erheblich beeinträchtigt sein.

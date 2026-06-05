@@ -1,12 +1,12 @@
 ---
 name: bayvgh
-description: "Nutze dies, wenn Bayvgh: Verhandlung, Vergleich und Eskalation im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Bayvgh: Verhandlung, Vergleich und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Bayvgh: Verhandlung, Vergleich und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bayvgh: Verhandlung, Vergleich und Eskalation: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Bayvgh: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Bayvgh: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Bayvgh: Verhandlung, Vergleich und Eskalation / spezial bayvgh verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bayvgh: Verhandlung, Vergleich und Eskalation / bayvgh verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, OVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

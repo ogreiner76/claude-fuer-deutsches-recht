@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Geldwaescherecht und Sanktionsrecht
-Ressort:            BMF
-Kernnormen:         GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).
-Akteure/Aufsicht:   FIU; BaFin; Zoll; Justiz; LKA.
-EU/Voelkerrecht:    EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmf; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Geldwaescherecht und Sanktionsrecht
+Ressort: BMF
+Kernnormen: GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).
+Akteure/Aufsicht: FIU; BaFin; Zoll; Justiz; LKA.
+EU/Voelkerrecht: EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

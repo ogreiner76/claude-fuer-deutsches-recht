@@ -1,13 +1,13 @@
 ---
 name: produkthaftung-medizinprodukt-schmerzensgeld
-description: "Nutze dies, wenn Produkthaftung Medizinprodukt Pld, Schmerzensgeld Hightech Schaden im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Produkthaftung Medizinprodukt Pld, Schmerzensgeld Hightech Schaden prüfen.; Erstelle eine Arbeitsfassung zu Produkthaftung Medizinprodukt Pld, Schmerzensgeld Hightech Schaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Produkthaftung Medizinprodukt Pld, Schmerzensgeld Hightech Schaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Produkthaftung Medizinprodukt Pld, Schmerzensgeld Hightech Schaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

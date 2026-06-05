@@ -1,13 +1,13 @@
 ---
 name: bk-bankenfehlberatung-bk-einfuehrung-bk
-description: "Nutze dies, wenn Bk Bankenfehlberatung Grundzuege, Bk Einfuehrung Aufsichtsstruktur, Bk Mandantenrouting Anlegeranspruch im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Fachanwalt Bank Kapitalmarktrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies bei Bk Bankenfehlberatung Grundzuege, Bk Einfuehrung Aufsichtsstruktur, Bk Mandantenrouting Anlegeranspruch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bk Bankenfehlberatung Grundzuege, Bk Einfuehrung Aufsichtsstruktur, Bk Mandantenrouting Anlegeranspruch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bk Bankenfehlberatung Grundzuege, Bk Einfuehrung Aufsichtsstruktur, Bk Mandantenrouting Anlegeranspruch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

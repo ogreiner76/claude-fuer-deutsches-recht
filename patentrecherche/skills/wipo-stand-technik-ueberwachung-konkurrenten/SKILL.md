@@ -1,13 +1,13 @@
 ---
 name: wipo-stand-technik-ueberwachung-konkurrenten
-description: "Nutze dies, wenn Spezial Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Bitte Spezial Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten prüfen.; Erstelle eine Arbeitsfassung zu Spezial Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten
+# Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecherche` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherc
 # Wipo: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Wipo: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Wipo: Compliance-Dokumentation und Aktenvermerk / spezial wipo compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Wipo: Compliance-Dokumentation und Aktenvermerk / wipo compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EPO, WIPO, USPTO, PatG, Art. 54, Art. 56, FTO, CPC, IPC, INPADOC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -85,11 +85,11 @@ Vor einer eigenen Patentanmeldung der Mandantin (oder zur Beratung der Mandantin
 
 1. **Aus `agentische-datenbank-recherche`** — die strukturierte Treffertabelle aus Patentdatenbanken.
 2. **NPL-Recherche** ergänzend:
-   - **Google Scholar** (`https://scholar.google.com`) — Aufsätze, Dissertationen, Konferenz-Proceedings.
-   - **Crossref / Lens.org** (`https://www.lens.org`) — DOI-basierte Recherche; Lens kombiniert Patente und NPL.
-   - **arXiv** (`https://arxiv.org`) — bei Informatik, Mathematik, Physik wichtig.
-   - **PubMed** (`https://pubmed.ncbi.nlm.nih.gov`) — Life Sciences / Biotech.
-   - **IEEE Xplore**, **ACM Digital Library**, **SpringerLink**, **ScienceDirect** — wenn die Kanzlei Zugänge hat.
+ - **Google Scholar** (`https://scholar.google.com`) — Aufsätze, Dissertationen, Konferenz-Proceedings.
+ - **Crossref / Lens.org** (`https://www.lens.org`) — DOI-basierte Recherche; Lens kombiniert Patente und NPL.
+ - **arXiv** (`https://arxiv.org`) — bei Informatik, Mathematik, Physik wichtig.
+ - **PubMed** (`https://pubmed.ncbi.nlm.nih.gov`) — Life Sciences / Biotech.
+ - **IEEE Xplore**, **ACM Digital Library**, **SpringerLink**, **ScienceDirect** — wenn die Kanzlei Zugänge hat.
 3. **Öffentliche Vorbenutzungen** — Produkt-Datenblätter, Konferenzvorträge, Messeauftritte, frühere Patente derselben Mandantin (Selbstbeschwerde). **Internet Archive Wayback Machine** (`https://web.archive.org`) ist hilfreich, um Vorveröffentlichungstage zu sichern.
 
 ## Ablauf
@@ -118,16 +118,16 @@ Pro Treffer eine kurze Dossierseite:
 
 ```
 Treffer: EP 3 456 789 A1
-  Anmelder: Siemens AG
-  Anmeldetag: 15.03.2019  Prio: 14.03.2018
-  Klassifikation: CPC H02J 3/14
-  Recherchezeichen: X
-  Relevanter Pinpoint:
-    Anspruch 1, Merkmale a)-d) decken sich mit Anspruch 1 der Mandantenerfindung;
-    Absatz [0023]-[0027] (Bezugszeichen 12, 14) beschreibt baugleiches Verfahren.
-  Bewertung: Hauptanspruch der Mandantenerfindung ist gegen diesen Treffer nicht neuheitsfähig.
-  Empfehlung: Anspruchsformulierung anpassen oder Erfindung in Richtung verbleibender Merkmale eingrenzen.
-  Link: https://worldwide.espacenet.com/patent/search/family/.../publication/EP3456789A1
+ Anmelder: Siemens AG
+ Anmeldetag: 15.03.2019 Prio: 14.03.2018
+ Klassifikation: CPC H02J 3/14
+ Recherchezeichen: X
+ Relevanter Pinpoint:
+ Anspruch 1, Merkmale a)-d) decken sich mit Anspruch 1 der Mandantenerfindung;
+ Absatz [0023]-[0027] (Bezugszeichen 12, 14) beschreibt baugleiches Verfahren.
+ Bewertung: Hauptanspruch der Mandantenerfindung ist gegen diesen Treffer nicht neuheitsfähig.
+ Empfehlung: Anspruchsformulierung anpassen oder Erfindung in Richtung verbleibender Merkmale eingrenzen.
+ Link: https://worldwide.espacenet.com/patent/search/family/.../publication/EP3456789A1
 ```
 
 ### Schritt 4: NPL-Treffer parallel dokumentieren
@@ -199,21 +199,21 @@ Pro Mandant ein Watch-Profil. Felder:
 mandant: Beispiel GmbH
 profil_name: Watch_Beispiel_2026
 anmelder:
-  - "Siemens AG"
-  - "Siemens Aktiengesellschaft"  # alte Schreibweise
-  - "Siemens Energy AG"  # ehemalige Tochter, ggf. relevant
-  - "Siemens Mobility GmbH"
-  - "Siemens Healthineers AG"
+ - "Siemens AG"
+ - "Siemens Aktiengesellschaft" # alte Schreibweise
+ - "Siemens Energy AG" # ehemalige Tochter, ggf. relevant
+ - "Siemens Mobility GmbH"
+ - "Siemens Healthineers AG"
 klassen_cpc:
-  - H02J 3/14
-  - H02J 3/00
-  - Y02E 60/00
+ - H02J 3/14
+ - H02J 3/00
+ - Y02E 60/00
 schlagworte_und:
-  - "lastmanagement"
-  - "demand response"
+ - "lastmanagement"
+ - "demand response"
 schlagworte_oder:
-  - "smart grid"
-  - "intelligentes Netz"
+ - "smart grid"
+ - "intelligentes Netz"
 territorien: [DE, EP, US, JP, CN, KR, WO]
 zeitfenster: ab Anmeldetag 01.01.2024
 publikationsstatus: [Anmeldung, Erteilung]

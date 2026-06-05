@@ -1,13 +1,13 @@
 ---
 name: dienstunfaehigkeit-entlassung-dienstzeit
-description: "Nutze dies, wenn Dienstunfaehigkeit Entlassung Zurruhesetzung, Dienstzeit Soldat Auf Zeit Berufssoldat Fwdl, Einsatz Unfall Versorgung Dokumentenplan im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Dienstunfaehigkeit Entlassung Zurruhesetzung, Dienstzeit Soldat Auf Zeit Berufssoldat Fwdl, Einsatz Unfall Versorgung Dokumentenplan prüfen.; Erstelle eine Arbeitsfassung zu Dienstunfaehigkeit Entlassung Zurruhesetzung, Dienstzeit Soldat Auf Zeit Berufssoldat Fwdl, Einsatz Unfall Versorgung Dokumentenplan.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dienstunfaehigkeit Entlassung Zurruhesetzung, Dienstzeit Soldat Auf Zeit Berufssoldat Fwdl, Einsatz Unfall Versorgung Dokumentenplan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dienstunfaehigkeit Entlassung Zurruhesetzung, Dienstzeit Soldat Auf Zeit Berufssoldat Fwdl, Einsatz Unfall Versorgung Dokumentenplan
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dienstunfaehigkeit Entlassung Zurruhesetzung, Dienstzeit Soldat Auf Zeit Berufssoldat Fwdl, Einsatz Unfall Versorgung Dokumentenplan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -61,14 +61,14 @@ Verliert der Soldat seine Dienstfähigkeit, führt dies zu unterschiedlichen Fol
 - Tauglichkeitsgrade T1–T5 nach Wehrmedizinischer Dienstvorschrift.
 - WBO-Beschwerderecht und § 17 WBO Verfahren.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Sachstand klären.** Diagnose, Behandlungsplan, Verlauf, Prognose.
 2. **Begutachtung.** Truppenarzt - BwKrhs - Spezialist. Eigenes Gutachten möglich.
 3. **Statusfolge prüfen.**
-   - Berufssoldat: Zurruhesetzung § 44 III SG plus Ruhegehalt.
-   - Soldat auf Zeit: Entlassung § 55 II SG plus ggf. Übergangsgebührnisse.
-   - Begrenzte Dienstfähigkeit: § 47 SG analog – Weiterverwendung mit reduzierter Belastung.
+ - Berufssoldat: Zurruhesetzung § 44 III SG plus Ruhegehalt.
+ - Soldat auf Zeit: Entlassung § 55 II SG plus ggf. Übergangsgebührnisse.
+ - Begrenzte Dienstfähigkeit: § 47 SG analog – Weiterverwendung mit reduzierter Belastung.
 4. **WDB-Frage.** Ist die Dienstunfähigkeit Folge einer Wehrdienstbeschädigung / eines Einsatzunfalls? Wenn ja: § 81 ff. SVG-Versorgung zusätzlich.
 5. **Verfahrensgang.** Anhörung des Soldaten, Stellungnahme, ärztliche Kontrolluntersuchung, Verfügung mit Rechtsbehelfsbelehrung.
 6. **Beschwerde** § 1 WBO – 1 Monat. Eilantrag bei vorläufiger Maßnahme.
@@ -212,7 +212,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -322,7 +322,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

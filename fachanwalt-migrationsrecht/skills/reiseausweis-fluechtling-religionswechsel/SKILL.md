@@ -1,41 +1,41 @@
 ---
 name: reiseausweis-fluechtling-religionswechsel
-description: "Nutze dies, wenn Spezial Reiseausweis Fluechtling, Spezial Religionswechsel, Spezial Remonstration Visum, Spezial Schengenvisum Abgrenzung, Spezial Schnittstellen Internationaler Bezug Und Schnittstellen im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Reiseausweis Fluechtling, Spezial Religionswechsel, Spezial Remonstration Visum, Spezial Schengenvisum Abgrenzung, Spezial Schnittstellen Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Reiseausweis Fluechtling, Spezial Religionswechsel, Spezial Remonstration Visum, Spezial Schengenvisum Abgrenzung, Spezial Schnittstellen Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Reiseausweis Fluechtling, Religionswechsel, Remonstration Visum, Schengenvisum Abgrenzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Reiseausweis Fluechtling, Spezial Religionswechsel, Spezial Remonstration Visum, Spezial Schengenvisum Abgrenzung, Spezial Schnittstellen Internationaler Bezug Und Schnittstellen
+# Reiseausweis Fluechtling, Religionswechsel, Remonstration Visum, Schengenvisum Abgrenzung, Schnittstellen Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Reiseausweis Fluechtling, Religionswechsel, Remonstration Visum, Schengenvisum Abgrenzung, Schnittstellen Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-reiseausweis-fluechtling` | Reiseausweis Flüchtling: Spezial-Skill im Migrationsrecht; prüft Anspruch, Passbeschaffung, Zumutbarkeit, Reise-/Heimatstaatrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-religionswechsel` | Religionswechsel: Spezial-Skill im Migrationsrecht; prüft Ernsthaftigkeit, Nachweise, Herkunftslandrisiko, Anhörung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-remonstration-visum` | Remonstration/Visumklage: Spezial-Skill im Migrationsrecht; prüft Begründung, Frist, Akteneinsicht, Botschaft, VG Berlin; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-schengenvisum-abgrenzung` | Schengenvisum Abgrenzung: Spezial-Skill im Migrationsrecht; prüft Kurzaufenthalt, Rückkehrbereitschaft, Zweckwechsel, Missbrauchsrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-reiseausweis-fluechtling` | Reiseausweis Flüchtling: Fachmodul im Migrationsrecht; prüft Anspruch, Passbeschaffung, Zumutbarkeit, Reise-/Heimatstaatrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-religionswechsel` | Religionswechsel: Fachmodul im Migrationsrecht; prüft Ernsthaftigkeit, Nachweise, Herkunftslandrisiko, Anhörung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-remonstration-visum` | Remonstration/Visumklage: Fachmodul im Migrationsrecht; prüft Begründung, Frist, Akteneinsicht, Botschaft, VG Berlin; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-schengenvisum-abgrenzung` | Schengenvisum Abgrenzung: Fachmodul im Migrationsrecht; prüft Kurzaufenthalt, Rückkehrbereitschaft, Zweckwechsel, Missbrauchsrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `spezial-schnittstellen-internationaler-bezug-und-schnittstellen` | Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-Für **Spezial Reiseausweis Fluechtling, Spezial Religionswechsel, Spezial Remonstration Visum, Spezial Schengenvisum Abgrenzung, Spezial Schnittstellen Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Reiseausweis Fluechtling, Religionswechsel, Remonstration Visum, Schengenvisum Abgrenzung, Schnittstellen Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-reiseausweis-fluechtling`
 
-**Fokus:** Reiseausweis Flüchtling: Spezial-Skill im Migrationsrecht; prüft Anspruch, Passbeschaffung, Zumutbarkeit, Reise-/Heimatstaatrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Reiseausweis Flüchtling: Fachmodul im Migrationsrecht; prüft Anspruch, Passbeschaffung, Zumutbarkeit, Reise-/Heimatstaatrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Reiseausweis Flüchtling
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Anspruch, Passbeschaffung, Zumutbarkeit, Reise-/Heimatstaatrisiko.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Anspruch, Passbeschaffung, Zumutbarkeit, Reise-/Heimatstaatrisiko.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -64,14 +64,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Anspr
 
 ## 2. `spezial-religionswechsel`
 
-**Fokus:** Religionswechsel: Spezial-Skill im Migrationsrecht; prüft Ernsthaftigkeit, Nachweise, Herkunftslandrisiko, Anhörung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Religionswechsel: Fachmodul im Migrationsrecht; prüft Ernsthaftigkeit, Nachweise, Herkunftslandrisiko, Anhörung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Religionswechsel
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Ernsthaftigkeit, Nachweise, Herkunftslandrisiko, Anhörung.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Ernsthaftigkeit, Nachweise, Herkunftslandrisiko, Anhörung.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -100,14 +100,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Ernst
 
 ## 3. `spezial-remonstration-visum`
 
-**Fokus:** Remonstration/Visumklage: Spezial-Skill im Migrationsrecht; prüft Begründung, Frist, Akteneinsicht, Botschaft, VG Berlin; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Remonstration/Visumklage: Fachmodul im Migrationsrecht; prüft Begründung, Frist, Akteneinsicht, Botschaft, VG Berlin; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Remonstration/Visumklage
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Begründung, Frist, Akteneinsicht, Botschaft, VG Berlin.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Begründung, Frist, Akteneinsicht, Botschaft, VG Berlin.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -136,14 +136,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Begr�
 
 ## 4. `spezial-schengenvisum-abgrenzung`
 
-**Fokus:** Schengenvisum Abgrenzung: Spezial-Skill im Migrationsrecht; prüft Kurzaufenthalt, Rückkehrbereitschaft, Zweckwechsel, Missbrauchsrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Schengenvisum Abgrenzung: Fachmodul im Migrationsrecht; prüft Kurzaufenthalt, Rückkehrbereitschaft, Zweckwechsel, Missbrauchsrisiko; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Schengenvisum Abgrenzung
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Kurzaufenthalt, Rückkehrbereitschaft, Zweckwechsel, Missbrauchsrisiko.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Kurzaufenthalt, Rückkehrbereitschaft, Zweckwechsel, Missbrauchsrisiko.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -177,7 +177,7 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Kurza
 # Schnittstellen: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Schnittstellen: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Schnittstellen: Internationaler Bezug und Schnittstellen / spezial schnittstellen internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schnittstellen: Internationaler Bezug und Schnittstellen / schnittstellen internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

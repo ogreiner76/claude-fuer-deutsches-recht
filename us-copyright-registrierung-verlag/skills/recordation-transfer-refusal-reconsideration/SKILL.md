@@ -1,13 +1,13 @@
 ---
 name: recordation-transfer-refusal-reconsideration
-description: "Nutze dies, wenn Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record im Plugin Us Copyright Registrierung Verlag konkret bearbeitet werden soll. Auslöser: Bitte Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record prüfen.; Erstelle eine Arbeitsfassung zu Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -128,7 +128,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## Zweck
 
-Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsworkflow ab, sondern als Praxiswerkzeug fuer Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
+Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug fuer Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
 
 Dieser Skill macht aus dem Thema **Repeat Infringer Policy** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 
@@ -171,7 +171,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Ist die Notice spezifisch genug und enthält sie keine Überdehnung fremder Rechte oder falsche Claimant-Angaben?
 - Welche Eskalation droht: restoration, subpoena, repeat-infringer issue, lawsuit hold oder platform suspension?
 
-**Mindest-Output:** DMCA-Workflow mit Notice-Check, Safe-Harbor-Gap, Counter-Notice-Risiko und Evidence Hold.
+**Mindest-Output:** DMCA-mit Notice-Check, Safe-Harbor-Gap, Counter-Notice-Risiko und Evidence Hold.
 
 ## Qualitäts- und Risikofilter
 

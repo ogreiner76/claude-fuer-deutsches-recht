@@ -1,13 +1,13 @@
 ---
 name: strafrecht-urheberrecht-urhg-108a-gewerblich
-description: "Nutze dies, wenn Strafrecht Spezial Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Spezial Urheberrecht 108A Urhg Gewerblich, Strafrecht Spezial Urheberrecht 108B Urhg Tpm, Strafrecht Spezial Vergewaltigung 177 Stgb, Strafrecht Spezial Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Spezial Urheberrecht 108A Urhg Gewerblich, Strafrecht Spezial Urheberrecht 108B Urhg Tpm, Strafrecht Spezial Vergewaltigung 177 Stgb, Strafrecht Spezial Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Spezial Urheberrecht 108A Urhg Gewerblich, Strafrecht Spezial Urheberrecht 108B Urhg Tpm, Strafrecht Spezial Vergewaltigung 177 Stgb, Strafrecht Spezial Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere..."
+description: "Nutze dies bei Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108a Urhg Gewerblich, Strafrecht Urheberrecht 108b Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafrecht Spezial Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Spezial Urheberrecht 108A Urhg Gewerblich, Strafrecht Spezial Urheberrecht 108B Urhg Tpm, Strafrecht Spezial Vergewaltigung 177 Stgb, Strafrecht Spezial Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen
+# Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108A Urhg Gewerblich, Strafrecht Urheberrecht 108B Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb, Strafrecht Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108A Urhg Gewerblich, Strafrecht Urheberrecht 108B Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb, Strafrecht Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -26,7 +26,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Spezial Urheberrecht 108A Urhg Gewerblich, Strafrecht Spezial Urheberrecht 108B Urhg Tpm, Strafrecht Spezial Vergewaltigung 177 Stgb, Strafrecht Spezial Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Urheberrecht 108 Urhg Unerlaubte Eingriffe, Strafrecht Urheberrecht 108A Urhg Gewerblich, Strafrecht Urheberrecht 108B Urhg Tpm, Strafrecht Vergewaltigung 177 Stgb, Strafrecht Verkehrsstrafrecht 142 Stgb Unfallflucht und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -880,7 +880,7 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 - Paragraph 69 StGB Entziehung; Paragraph 69a StGB Sperre.
 - Paragraph 111a StPO vorlaeufige Entziehung.
 - Paragraph 24a StVG OWi-Tatbestand bei Alkohol ab 0.5 Promille.
-- KCanG Cannabisgesetz mit aktuellem THC-Grenzwert (siehe Spezialskill).
+- KCanG Cannabisgesetz mit aktuellem THC-Grenzwert (siehe Fachmodul).
 - Fahrerlaubnis-Verordnung (FeV) zur Eignungsbegutachtung.
 - BVerfG staendige Linie zur Bestimmtheit von Strafgesetzen.
 

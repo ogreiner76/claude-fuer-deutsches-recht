@@ -1,13 +1,13 @@
 ---
 name: berater-consultant-berufsstaendische
-description: "Nutze dies, wenn Berater Consultant, Berufsstaendische Versorgung Anwälte, Bescheid Analyse, Betriebspruefung 28P im Plugin Sozialversicherungsstatus Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Berater Consultant, Berufsstaendische Versorgung Anwälte, Bescheid Analyse, Betriebspruefung 28P prüfen.; Erstelle eine Arbeitsfassung zu Berater Consultant, Berufsstaendische Versorgung Anwälte, Bescheid Analyse, Betriebspruefung 28P.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Berater Consultant, Berufsstaendische Versorgung Anwaelte, Bescheid Analyse, Betriebspruefung 28p: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Berater Consultant, Berufsstaendische Versorgung Anwälte, Bescheid Analyse, Betriebspruefung 28P
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Berater Consultant, Berufsstaendische Versorgung Anwälte, Bescheid Analyse, Betriebspruefung 28P** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

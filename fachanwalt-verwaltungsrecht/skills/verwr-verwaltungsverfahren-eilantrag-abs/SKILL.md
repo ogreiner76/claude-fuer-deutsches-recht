@@ -1,13 +1,13 @@
 ---
 name: verwr-verwaltungsverfahren-eilantrag-abs
-description: "Nutze dies, wenn Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietrassen Planfeststellung Rechtsschutz im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietrassen Planfeststellung Rechtsschutz prüfen.; Erstelle eine Arbeitsfassung zu Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietrassen Planfeststellung Rechtsschutz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietrassen Planfeststellung Rechtsschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietrassen Planfeststellung Rechtsschutz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietrassen Planfeststellung Rechtsschutz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Verwr Verwaltungsverfahren Checkliste, Eilantrag 80 Abs 5 Vwgo, Energietr
 ## Aufgabe
 Checkliste Verwaltungsverfahren VwVfG: Anhoerung § 28, Begruendung § 39, Bekanntgabe § 41, Anhoerung bei Ermessensentscheidungen.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -46,15 +46,15 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 1. **Zustaendigkeit** — sachlich, oertlich, instanziell (§§ 3, 4 VwVfG). Auch funktionelle Zustaendigkeit pruefen.
 2. **Verfahren**
-   - **Anhoerung Beteiligter** § 28 VwVfG vor Erlass eines belastenden VA; Heilung nach § 45 I Nr. 3, II VwVfG bis Abschluss letzte Tatsacheninstanz.
-   - **Mitwirkung** Drittbetroffener (§ 13 VwVfG).
-   - **Akteneinsicht** § 29 VwVfG; **Geheimhaltung** § 30 VwVfG.
-   - **Befangenheit** §§ 20, 21 VwVfG (Mitwirkungsverbot, Besorgnis der Befangenheit).
-   - Bei Massenverfahren / Planfeststellung: §§ 72 ff. VwVfG.
+ - **Anhoerung Beteiligter** § 28 VwVfG vor Erlass eines belastenden VA; Heilung nach § 45 I Nr. 3, II VwVfG bis Abschluss letzte Tatsacheninstanz.
+ - **Mitwirkung** Drittbetroffener (§ 13 VwVfG).
+ - **Akteneinsicht** § 29 VwVfG; **Geheimhaltung** § 30 VwVfG.
+ - **Befangenheit** §§ 20, 21 VwVfG (Mitwirkungsverbot, Besorgnis der Befangenheit).
+ - Bei Massenverfahren / Planfeststellung: §§ 72 ff. VwVfG.
 3. **Form**
-   - Schriftform, elektronische Form, muendlich (§ 37 II VwVfG). Bei elektronischem VA: § 37 III, IV VwVfG.
-   - **Begruendung** § 39 VwVfG (Ausnahmen § 39 II); fehlende/unzureichende Begruendung heilbar nach § 45 I Nr. 2 VwVfG.
-   - **Rechtsbehelfsbelehrung** § 37 VI VwVfG; Folge fehlerhafter Belehrung: Jahresfrist (§ 58 II VwGO).
+ - Schriftform, elektronische Form, muendlich (§ 37 II VwVfG). Bei elektronischem VA: § 37 III, IV VwVfG.
+ - **Begruendung** § 39 VwVfG (Ausnahmen § 39 II); fehlende/unzureichende Begruendung heilbar nach § 45 I Nr. 2 VwVfG.
+ - **Rechtsbehelfsbelehrung** § 37 VI VwVfG; Folge fehlerhafter Belehrung: Jahresfrist (§ 58 II VwGO).
 4. **Bekanntgabe** § 41 VwVfG — Zugang, Drei-Tages-Fiktion (§ 41 II VwVfG), oeffentliche Bekanntgabe (§ 41 III, IV VwVfG); elektronische Bekanntgabe § 41 IIa VwVfG.
 
 ## Fehlerfolgen
@@ -142,7 +142,7 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 ## Prüfschema § 80 Abs. 5 VwGO
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -237,13 +237,13 @@ Namens und in Vollmacht stellen wir folgenden
 Antrag
 
 1. Die aufschiebende Wirkung des Widerspruchs [/ der Klage] des
-   Antragstellers vom [Datum] gegen den Bescheid der
-   Antragsgegnerin vom [Datum], Az. [Az.], wird wiederhergestellt.
+ Antragstellers vom [Datum] gegen den Bescheid der
+ Antragsgegnerin vom [Datum], Az. [Az.], wird wiederhergestellt.
 
 2. Die Antragsgegnerin trägt die Kosten des Verfahrens.
 
 3. Der Streitwert wird auf EUR [Betrag] (Hälfte des Hauptsache-
-   Streitwerts von EUR [x]) festgesetzt.
+ Streitwerts von EUR [x]) festgesetzt.
 
 Begründung
 
@@ -286,33 +286,33 @@ Unabhängig vom Begründungsmangel hat der Widerspruch
 1. [Formeller Fehler: Anhörung unterblieben / Begründung mangelhaft]
 
 2. Materieller Fehler: Die Tatbestandsvoraussetzungen des
-   § [X] [Spezialgesetz] sind nicht erfüllt, weil [Subsumtion].
+ § [X] [Spezialgesetz] sind nicht erfüllt, weil [Subsumtion].
 
 3. Ermessensfehler: Die Behörde hat relevante Belange wie
-   [Belang] nicht berücksichtigt (§ 40 VwVfG).
+ [Belang] nicht berücksichtigt (§ 40 VwVfG).
 
 IV. Interessenabwägung
 
 Für das Aussetzungsinteresse des Antragstellers spricht:
 
 — Die sofortige Vollziehung des Widerrufs der Gaststättenerlaubnis
-   [/ Baugenehmigung / Berufserlaubnis] führt zur unmittelbaren
-   Einstellung des Geschäftsbetriebs. [n] Arbeitnehmer verlieren
-   ihren Arbeitsplatz. Die laufenden Verbindlichkeiten von
-   EUR [x] monatlich können nicht mehr bedient werden.
+ [/ Baugenehmigung / Berufserlaubnis] führt zur unmittelbaren
+ Einstellung des Geschäftsbetriebs. [n] Arbeitnehmer verlieren
+ ihren Arbeitsplatz. Die laufenden Verbindlichkeiten von
+ EUR [x] monatlich können nicht mehr bedient werden.
 
 — Der Schaden ist irreversibel: Auch bei späterem Klageerfolg
-   kann der Betrieb nicht ohne Weiteres fortgeführt werden,
-   da [Kundenstamm verloren / Verträge gekündigt / Vermögen
-   liquidiert].
+ kann der Betrieb nicht ohne Weiteres fortgeführt werden,
+ da [Kundenstamm verloren / Verträge gekündigt / Vermögen
+ liquidiert].
 
 Das Vollzugsinteresse der Antragsgegnerin tritt zurück, weil:
 
 — Keine unmittelbare Gefahr für Leib, Leben oder erhebliche
-   öffentliche Güter besteht.
+ öffentliche Güter besteht.
 
 — Der Vollzug kann ohne wesentlichen Nachteil um die Dauer des
-   Eilverfahrens (typisch 4–8 Wochen) verschoben werden.
+ Eilverfahrens (typisch 4–8 Wochen) verschoben werden.
 
 Anlagen:
 1. Bescheid vom [Datum] mit Vollziehungsanordnung
@@ -494,7 +494,7 @@ Bei Stromtrassen, Erdgas-Pipelines, LNG-Terminals, Wasserstoff-Stammnetz und Off
 ## Prüfschema Planfeststellungs-Rechtsschutz
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -587,8 +587,8 @@ beigeladen: [Vorhabenträger]
 Klageziel
 
 1. Der Planfeststellungsbeschluss der Bundesnetzagentur vom [Datum]
-   Az. [Az.] für das Vorhaben [Bezeichnung] wird aufgehoben,
-   hilfsweise für rechtswidrig und nicht vollziehbar erklärt.
+ Az. [Az.] für das Vorhaben [Bezeichnung] wird aufgehoben,
+ hilfsweise für rechtswidrig und nicht vollziehbar erklärt.
 
 2. Die Beklagte trägt die Kosten des Verfahrens.
 
@@ -607,11 +607,11 @@ B. Begründetheit (vorläufig)
 I. UVP-Defizite
 Der UVP-Bericht weist folgende materielle Lücken auf:
 — Alternativenprüfung unvollständig: Die Erdkabel-Variante
-   entlang der Bestandsautobahn A[x] wurde nicht ernsthaft
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ entlang der Bestandsautobahn A[x] wurde nicht ernsthaft
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 — Artenschutzrechtliche Prüfung (saP) fehlerhaft: Rotmilan-
-   Kartierung nur an [n] Terminen außerhalb der Hauptaktivitäts-
-   zeiten.
+ Kartierung nur an [n] Terminen außerhalb der Hauptaktivitäts-
+ zeiten.
 
 II. Klimaschluss
 Das Vorhaben [LNG-Terminal / Erdgas-Pipeline] erhöht die

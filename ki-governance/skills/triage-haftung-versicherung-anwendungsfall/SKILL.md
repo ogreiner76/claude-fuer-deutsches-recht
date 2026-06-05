@@ -1,13 +1,13 @@
 ---
 name: triage-haftung-versicherung-anwendungsfall
-description: "Nutze dies, wenn Spezial Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Bitte Spezial Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage
+# Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `ki-governance` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicheru
 # Triage: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Triage: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Triage: Fristen, Form, Zuständigkeit und Rechtsweg / spezial triage fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Triage: Fristen, Form, Zuständigkeit und Rechtsweg / triage fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -137,33 +137,33 @@ Praktiken, ab 02.02.2025) und DSGVO Art. 22 (automatisierte Einzelentscheidung).
 ## Eingaben
 
 - Beschreibung des KI-Anwendungsfalls: was tut die KI, wer ist betroffen,
-  gibt es menschliche Überprüfung, welcher Anbieter?
+ gibt es menschliche Überprüfung, welcher Anbieter?
 - Praxisprofil aus `CLAUDE.md` (Anwendungsfall-Register, Rote Linien,
-  Governance-Stufen, regulatorischer Fußabdruck)
+ Governance-Stufen, regulatorischer Fußabdruck)
 
 ## Rechtlicher Rahmen
 
 **Kernvorschriften**
 
 - **AI Act Art. 5 KI-VO (verbotene Praktiken)**: Social Scoring durch
-  öffentliche oder private Stellen (Art. 5 Abs. 1 lit. c); subliminale
-  Manipulation (Art. 5 Abs. 1 lit. a/b); Ausnutzung von Vulnerabilität
-  (Art. 5 Abs. 1 lit. b); biometrische Kategorisierung nach geschützten
-  Merkmalen (Art. 5 Abs. 1 lit. g); Echtzeitfernidentifizierung in
-  öffentlichen Räumen (Art. 5 Abs. 1 lit. h); Emotionserkennung am
-  Arbeitsplatz/Bildung (Art. 5 Abs. 1 lit. f). Ab 02.02.2025 anwendbar.
+ öffentliche oder private Stellen (Art. 5 Abs. 1 lit. c); subliminale
+ Manipulation (Art. 5 Abs. 1 lit. a/b); Ausnutzung von Vulnerabilität
+ (Art. 5 Abs. 1 lit. b); biometrische Kategorisierung nach geschützten
+ Merkmalen (Art. 5 Abs. 1 lit. g); Echtzeitfernidentifizierung in
+ öffentlichen Räumen (Art. 5 Abs. 1 lit. h); Emotionserkennung am
+ Arbeitsplatz/Bildung (Art. 5 Abs. 1 lit. f). Ab 02.02.2025 anwendbar.
 - **AI Act Art. 6 i.V.m. Anhang III KI-VO**: Hochrisiko-Kategorien —
-  Nr. 1 Biometrie; Nr. 2 Beschäftigung (Bewerbungs-Screening, Leistungs-
-  bewertung); Nr. 3 Wesentliche Dienstleistungen (Kredit, Versicherung);
-  Nr. 4 Bildung; Nr. 5 Kritische Infrastruktur; Nr. 6 Strafverfolgung;
-  Nr. 7 Migration; Nr. 8 Rechtspflege. Hochrisiko: Art. 9–15 (Anbieter),
-  Art. 26/29 (Betreiber).
+ Nr. 1 Biometrie; Nr. 2 Beschäftigung (Bewerbungs-Screening, Leistungs-
+ bewertung); Nr. 3 Wesentliche Dienstleistungen (Kredit, Versicherung);
+ Nr. 4 Bildung; Nr. 5 Kritische Infrastruktur; Nr. 6 Strafverfolgung;
+ Nr. 7 Migration; Nr. 8 Rechtspflege. Hochrisiko: Art. 9–15 (Anbieter),
+ Art. 26/29 (Betreiber).
 - **DSGVO Art. 22**: Vollautomatisierte Einzelentscheidungen mit Rechtswirkung
-  oder erheblicher Beeinträchtigung nur nach Art. 22 Abs. 2 lit. a–c
-  (Vertrag, gesetzliche Pflicht, ausdrückliche Einwilligung). Widerspruchs-
-  und Transparenzpflichten.
+ oder erheblicher Beeinträchtigung nur nach Art. 22 Abs. 2 lit. a–c
+ (Vertrag, gesetzliche Pflicht, ausdrückliche Einwilligung). Widerspruchs-
+ und Transparenzpflichten.
 - **§ 87 Abs. 1 Nr. 6 BetrVG**: Mitbestimmungsrecht des Betriebsrats bei
-  KI-Tools zur Mitarbeiterüberwachung/-bewertung.
+ KI-Tools zur Mitarbeiterüberwachung/-bewertung.
 
 **Leitentscheidungen**
 
@@ -175,7 +175,7 @@ Praktiken, ab 02.02.2025) und DSGVO Art. 22 (automatisierte Einzelentscheidung).
 - Ehmann/Selmayr, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10.
 - Müller-Glöge, in: Erfurter Kommentar, 25. Aufl. 2025, § 87 BetrVG Rn. 32.
 - Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
-  Teil IV Rn. 88.
+ Teil IV Rn. 88.
 
 *Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im Einzelfall.*
 
@@ -263,14 +263,14 @@ Betriebsrat einbeziehen; Offenlegung ggü. Bewerber:innen (Art. 13 DSGVO).
 
 - Art. 5 KI-VO ist Pflichtprüfung — immer zuerst, vor dem Register.
 - "Nur intern" reduziert das Risiko nicht: Mitarbeiter-KI oft höheres
-  Risiko als kundenseitige KI.
+ Risiko als kundenseitige KI.
 - "Wir testen nur" ist keine Ausnahme bei echten Personen-Daten.
 - "Der Anbieter sagt, es ist sicher" ersetzt nicht die eigene Folgenabschätzung.
 
 ## Quellenpflicht
 
 - **AI Act Art. 5** und **Art. 6 i.V.m. Anhang III** (mit konkreter Nr.) bei
-  jeder Klassifikation.
+ jeder Klassifikation.
 - **DSGVO Art. 22** bei automatisierten Entscheidungen.
 - **§ 87 Abs. 1 Nr. 6 BetrVG** bei Mitarbeiter-Überwachungs-/Bewertungstools.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

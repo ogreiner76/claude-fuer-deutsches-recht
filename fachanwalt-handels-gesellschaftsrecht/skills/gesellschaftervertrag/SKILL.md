@@ -1,32 +1,32 @@
 ---
 name: gesellschaftervertrag
-description: "Nutze dies, wenn Spezial Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftervertrag Abschlussprodukt Und Uebergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial
+# Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe` | Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung` | Workflow-Skill zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe` | Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung` | Arbeitsmodul zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `hgr-kollektivverteidigung-direktorenhaftung-spezial` | Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung. Pruefraster fuer einheitliche Strategie und Pflichtenkollision. |
 
 ## Arbeitsweg
 
-Für **Spezial Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-handels-gesellschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe`
 
-**Fokus:** Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertiefter Fachmodul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschaftervertrag: Abschlussprodukt und Übergabe
 
@@ -40,7 +40,7 @@ Für **Spezial Gesellschaftervertrag Abschlussprodukt Und Übergabe, Fachanwalt 
 
 
 ## Spezialwissen: Gesellschaftervertrag: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Gesellschaftervertrag: Abschlussprodukt und Übergabe / spezial gesellschaftervertrag abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gesellschaftervertrag: Abschlussprodukt und Übergabe / gesellschaftervertrag abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -76,10 +76,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung`
 
-**Fokus:** Workflow-Skill zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und veri` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsmodul zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und veri` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
 - **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
@@ -130,7 +130,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Prüfschema Geschäftsführerhaftung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
@@ -162,8 +162,8 @@ Voraussetzungen § 69 AO:
 1. GF ist steuerlicher Vertreter (§ 34 AO) der Gesellschaft
 2. Steuerverbindlichkeit der Gesellschaft entstanden
 3. GF hat vorsätzlich oder grob fahrlässig:
-   - Steuern nicht rechtzeitig abgeführt (Lohnsteuer, USt, KSt)
-   - oder die Steuer hinterzogen (§ 370 AO)
+ - Steuern nicht rechtzeitig abgeführt (Lohnsteuer, USt, KSt)
+ - oder die Steuer hinterzogen (§ 370 AO)
 4. Kausalität: bei pflichtgemäßem Handeln wäre Steuer abgeführt worden
 5. Schaden = nicht beglichene Steuerschuld
 
@@ -179,7 +179,7 @@ Haftungslage:
 - Zivilhaftung: § 823 Abs. 2 BGB iVm § 266a StGB
 - Persönliche Haftung des GF auch nach Insolvenzantrag
 - Priorität der SV-Beiträge: § 55 InsO (Masseforderung) greift nicht
-  für Vergangenheitsansprüche; GF haftet persönlich
+ für Vergangenheitsansprüche; GF haftet persönlich
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -200,23 +200,23 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Klage Innenhaftung GmbH gegen Geschäftsführer
 
 ```
-An das Landgericht [Sitz der GmbH]                          [Ort, Datum]
+An das Landgericht [Sitz der GmbH] [Ort, Datum]
 
 Klage
 
 der [GmbH], gesetzlich vertreten durch [Liquidator / Insolvenzverwalter /
-neuer Geschäftsführer], [Anschrift]              – Klägerin –
+neuer Geschäftsführer], [Anschrift] – Klägerin –
 
 gegen
 
-den [ehemaligen Geschäftsführer], [Anschrift]    – Beklagter –
+den [ehemaligen Geschäftsführer], [Anschrift] – Beklagter –
 
 wegen Schadensersatz § 43 Abs. 2 GmbHG
 
 Anträge:
 
 1. Der Beklagte wird verurteilt, an die Klägerin EUR [Betrag] nebst Zinsen
-   in Höhe von fünf Prozentpunkten über dem Basiszinssatz ab [Datum] zu zahlen.
+ in Höhe von fünf Prozentpunkten über dem Basiszinssatz ab [Datum] zu zahlen.
 2. Der Beklagte trägt die Kosten des Rechtsstreits.
 
 Streitwert: EUR [Betrag].
@@ -271,11 +271,11 @@ ehemaligen Geschäftsführer [Name] gemäß § 46 Nr. 8 GmbHG
 Die Gesellschafterversammlung beschließt mit [Stimmen für/gegen]:
 
 1. Die [GmbH] macht Schadensersatzansprüche gemäß § 43 Abs. 2 GmbHG
-   gegen den ehemaligen Geschäftsführer [Name] geltend.
+ gegen den ehemaligen Geschäftsführer [Name] geltend.
 
 2. [Neuer Geschäftsführer / Bevollmächtigte/r] wird ermächtigt, die
-   Ansprüche außergerichtlich und gerichtlich geltend zu machen, einen
-   Rechtsanwalt zu beauftragen und Prozesskostenhilfe zu beantragen.
+ Ansprüche außergerichtlich und gerichtlich geltend zu machen, einen
+ Rechtsanwalt zu beauftragen und Prozesskostenhilfe zu beantragen.
 
 3. Streitgegenstand: [Kurzbeschreibung der Pflichtverletzung und Schadenshöhe].
 

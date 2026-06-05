@@ -1,13 +1,13 @@
 ---
 name: stellungnahmen-gutachten-suche-open
-description: "Nutze dies, wenn Stellungnahmen Gutachten Upload, Suche Open Data Monitor im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte Stellungnahmen Gutachten Upload, Suche Open Data Monitor prüfen.; Erstelle eine Arbeitsfassung zu Stellungnahmen Gutachten Upload, Suche Open Data Monitor.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stellungnahmen Gutachten Upload, Suche Open Data Monitor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stellungnahmen Gutachten Upload, Suche Open Data Monitor
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stellungnahmen Gutachten Upload, Suche Open Data Monitor** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,20 +1,20 @@
 ---
 name: prozessuale-beweisfragen-rechtsabteilung
-description: "Nutze dies, wenn Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb prüfen.; Erstelle eine Arbeitsfassung zu Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prozessuale Hgb Beweisfragen, Rechtsabteilung Handelskauf Maengelruege Nach 377 Hgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `prozessuale-hgb-beweisfragen` | Prüft Handelsbücher, Bestätigungsschreiben, Registerauszug, Zeugen aus Organisation und Urkundenbeweis. |
-| `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb` | Rechtsabteilungs-Spezialskill für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisworkflow geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb` | Rechtsabteilungs-Fachmodul für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -77,7 +77,7 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema auß
 
 ## 2. `rechtsabteilung-handelskauf-maengelruege-nach-377-hgb`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisworkflow geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Handelskauf-Mängelrüge nach § 377 HGB: Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB
 
@@ -90,7 +90,7 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema auß
 
 ## Spezialkern: Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB
 
-- **Konkretes Problem:** Rügefristen, Wareneingang und Serienfehler werden als Beweisworkflow geführt.
+- **Konkretes Problem:** Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt.
 - **Norm-/Quellenanker:** HGB Handelsstand, Prokura, Handelskauf § 377 HGB, Kommission, Lager/Spedition/Fracht, kaufmännische Bestätigung und BGB-Schnittstellen.
 - **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
 - **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
@@ -109,7 +109,7 @@ HGB § 377; CISG-Schnittstelle; BGB Kaufrecht
 
 ## Fachlicher Zuschnitt
 
-Rügefristen, Wareneingang und Serienfehler werden als Beweisworkflow geführt.
+Rügefristen, Wareneingang und Serienfehler werden als Beweisgeführt.
 
 ## Output für die Rechtsabteilung
 

@@ -1,13 +1,13 @@
 ---
 name: europarecht-richtlinie-umsetzung-simulation
-description: "Nutze dies, wenn Europarecht Richtlinie Umsetzung, Europarecht Simulation Behörde Gericht, Europarecht Verordnung Beschluss Soft Law im Plugin Europarecht Kompass konkret bearbeitet werden soll. Auslöser: Bitte Europarecht Richtlinie Umsetzung, Europarecht Simulation Behörde Gericht, Europarecht Verordnung Beschluss Soft Law prüfen.; Erstelle eine Arbeitsfassung zu Europarecht Richtlinie Umsetzung, Europarecht Simulation Behörde Gericht, Europarecht Verordnung Beschluss Soft Law.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Europarecht Richtlinie Umsetzung, Europarecht Simulation Behörde Gericht, Europarecht Verordnung Beschluss Soft Law: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Europarecht Richtlinie Umsetzung, Europarecht Simulation Behörde Gericht, Europarecht Verordnung Beschluss Soft Law
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Europarecht Richtlinie Umsetzung, Europarecht Simulation Behörde Gericht, Europarecht Verordnung Beschluss Soft Law** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -279,7 +279,7 @@ Bevor losgelegt wird, klaere:
 ```
 RECHTSAKT-EINORDNUNG
 Rechtsakt: [CELEX-Nr. / Titel]
-Kategorie: [ ] VO  [ ] RL  [ ] Beschluss  [ ] Empfehlung  [ ] Mitteilung
+Kategorie: [ ] VO [ ] RL [ ] Beschluss [ ] Empfehlung [ ] Mitteilung
 Verbindlichkeit: [allgemein / adressatenbezogen / keine]
 Unmittelbare Anwendung: [JA / nein — Umsetzung bis DATUM]
 Anfechtbarkeit Art. 263: [JA — faktische Rechtswirkung / NEIN]

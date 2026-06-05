@@ -1,13 +1,13 @@
 ---
 name: beschwerdemanagement-patient-blutprodukte
-description: "Nutze dies, wenn Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation prüfen.; Erstelle eine Arbeitsfassung zu Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beschwerdemanagement Patient Kunden, Blutprodukte Haemophilie Registerpflicht, Btm Rezept Betaeubungsmittel Dokumentation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -155,7 +155,7 @@ Eingaben:
 - **§ 14 BtMVV:** Aufbewahrung — Rezeptteil I drei Jahre, BtM-Belege zehn Jahre (§ 16 BtMG).
 - **ApBetrO § 4:** abschliessbarer BtM-Schrank Pflicht.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Rezeptannahme:** Original (kein Fax!), dreifarbig (T1 Apotheke, T2 Krankenkasse, T3 Arzt).
 2. **Formalprüfung:** Arztangaben vollständig, BtM-Nummer des Arztes, Patient, Arzneimittelname, Menge in Wort und Ziffer, Dosierungsanweisung oder "Gemäss schriftlicher Anweisung", Unterschrift.

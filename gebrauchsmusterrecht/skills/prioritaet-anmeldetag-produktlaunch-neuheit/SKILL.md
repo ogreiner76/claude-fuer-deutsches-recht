@@ -1,13 +1,13 @@
 ---
 name: prioritaet-anmeldetag-produktlaunch-neuheit
-description: "Nutze dies, wenn Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit prüfen.; Erstelle eine Arbeitsfassung zu Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prioritaet Und Anmeldetag, Produktlaunch Und Neuheit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

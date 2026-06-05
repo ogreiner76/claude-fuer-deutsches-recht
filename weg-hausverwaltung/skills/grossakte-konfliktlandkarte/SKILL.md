@@ -27,7 +27,7 @@ Nutze diesen Skill, wenn eine WEG-Akte aus vielen kleinen Konflikten besteht und
 3. **Fristen zuerst:** Beschlussklage § 45 WEG, Einladungsfristen, Abrechnungsfristen, Angebotsbindungen, Gewährleistung, Versicherungsanzeige.
 4. **Eigentümer-/Mieterrollen klären:** GdWE, Sondereigentümer, vermietender Eigentümer, Mieter, Gewerbemieter, Verwalter, Beirat.
 5. **Beschlussfähigkeit prüfen:** Was braucht Beschluss, was darf Verwaltung laufend erledigen, was ist Notmaßnahme?
-6. **Skill-Routing:** Pro Konflikt einen passenden Spezial-Skill vorschlagen.
+6. **Skill-Routing:** Pro Konflikt einen passenden Fachmodul vorschlagen.
 
 ## Output
 

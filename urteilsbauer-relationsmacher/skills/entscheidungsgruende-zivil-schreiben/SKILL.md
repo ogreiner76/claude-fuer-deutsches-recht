@@ -35,14 +35,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 1. **Obersatz:** "Die Klage ist [zulässig und] begründet / [zulässig, aber] unbegründet / teilweise begründet."
 2. **Zulässigkeit** (kurz, nur problematische Punkte ausführen):
-   - Rechtsweg, Zuständigkeit, Partei- und Prozessfähigkeit, Rechtsschutzbedürfnis.
+ - Rechtsweg, Zuständigkeit, Partei- und Prozessfähigkeit, Rechtsschutzbedürfnis.
 3. **Begründetheit** — für jede Anspruchsgrundlage:
-   - AG benennen → Tatbestandsmerkmale subsumieren → Ergebnis.
-   - Einwendungen/Einreden des Beklagten prüfen.
-   - Verjährung prüfen.
+ - AG benennen → Tatbestandsmerkmale subsumieren → Ergebnis.
+ - Einwendungen/Einreden des Beklagten prüfen.
+ - Verjährung prüfen.
 4. **Beweiswürdigung** einfügen (§ 286 ZPO), soweit Tatsachen streitig waren.
 5. **Nebenentscheidungen formulieren:**
-   - Zinsen (§ 286, 288, 291 BGB), Kosten (§ 91, 92 ZPO), Vollstreckbarkeit (§ 708, 709 ZPO).
+ - Zinsen (§ 286, 288, 291 BGB), Kosten (§ 91, 92 ZPO), Vollstreckbarkeit (§ 708, 709 ZPO).
 
 ## Output-Template
 
@@ -79,19 +79,19 @@ Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
 1. **Obersatz**: "Die Klage ist zulaessig, aber nur teilweise begründet."
 2. **Zulässigkeit**: kurz; nur die problematischen Punkte ausführlich.
 3. **Begründetheit** - pro Anspruchsgrundlage:
-   - Anspruchsgrundlage benennen
-   - Tatbestandsmerkmale subsumieren
-   - Rechtsfolge
-   - Einwendungen / Einreden
-   - Verjaehrung
-   - Bei mehreren Anspruchsgrundlagen: nur die durchgreifende ausführen oder Anspruchskonkurrenzen knapp behandeln
+ - Anspruchsgrundlage benennen
+ - Tatbestandsmerkmale subsumieren
+ - Rechtsfolge
+ - Einwendungen / Einreden
+ - Verjaehrung
+ - Bei mehreren Anspruchsgrundlagen: nur die durchgreifende ausführen oder Anspruchskonkurrenzen knapp behandeln
 4. **Beweiswürdigung** (separater Abschnitt vor der konkreten Subsumtion oder integriert)
 5. **Nebenentscheidungen**:
-   - Zinsen Paragraf 286 BGB, Paragraf 288 BGB, Paragraf 291 BGB
-   - Kosten Paragraf 91 ff ZPO
-   - Vorläufige Vollstreckbarkeit Paragraf 708 ff ZPO
-   - Streitwertbeschluss separat oder im Tenor
-   - Berufungszulassung Paragraf 511 Abs. 4 ZPO
+ - Zinsen Paragraf 286 BGB, Paragraf 288 BGB, Paragraf 291 BGB
+ - Kosten Paragraf 91 ff ZPO
+ - Vorläufige Vollstreckbarkeit Paragraf 708 ff ZPO
+ - Streitwertbeschluss separat oder im Tenor
+ - Berufungszulassung Paragraf 511 Abs. 4 ZPO
 
 ## Urteilsstil vs Gutachtenstil
 

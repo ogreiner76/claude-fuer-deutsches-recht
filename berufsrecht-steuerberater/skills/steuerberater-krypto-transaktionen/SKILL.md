@@ -1,13 +1,13 @@
 ---
 name: steuerberater-krypto-transaktionen
-description: "Nutze dies, wenn Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor, Steuerberater Rechnungskorrektur Und Dokumentation Organisation im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor, Steuerberater Rechnungskorrektur Und Dokumentation Organisation prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater R..."
+description: "Nutze dies bei Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor, Steuerberater Rechnungskorrektur Und Dokumentation Organisation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Mandat Aus Krypto Transaktionen Organisationspfli, Steuerberater Personalakten Lohnsteuer Geheimnis Kammerantwort, Steuerberater Personalakten Lohnsteuer Geheimnis Organisationsp, Steuerberater Rechnungskorrektur Und Dokumentation Kammerantwor, Steuerberater Rechnungskorrektur Und Dokumentation Organisation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

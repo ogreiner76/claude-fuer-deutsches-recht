@@ -30,34 +30,34 @@ Strukturierte Pruefung, ob ein Vertragsverhaeltnis dem Grundtatbestand der Auftr
 ## Ablauf / Checkliste
 
 1. **Sachverhalt erfassen.**
-   - Welche personenbezogenen Daten werden verarbeitet?
-   - Welcher Akteur entscheidet ueber Zweck (Wozu?) und Mittel (Wie?)?
-   - Gibt es Weisungsmoeglichkeiten und Weisungsrechte?
-   - Welchen wirtschaftlichen Vorteil zieht jeder Akteur aus der Verarbeitung?
+ - Welche personenbezogenen Daten werden verarbeitet?
+ - Welcher Akteur entscheidet ueber Zweck (Wozu?) und Mittel (Wie?)?
+ - Gibt es Weisungsmoeglichkeiten und Weisungsrechte?
+ - Welchen wirtschaftlichen Vorteil zieht jeder Akteur aus der Verarbeitung?
 
 2. **Drei-Stufen-Test fuer Rollenzuordnung.**
 
-   | Frage | Indiz fuer Auftragsverarbeitung | Indiz gegen Auftragsverarbeitung |
-   |---|---|---|
-   | Wer legt Zweck fest? | Verantwortlicher allein | Dienstleister mitbestimmend |
-   | Wer legt wesentliche Mittel fest? | Verantwortlicher | Dienstleister bestimmt Architektur und Datenlogik |
-   | Eigene Datennutzung des Dienstleisters? | Nein, nur weisungsgebunden | Ja, fuer eigene Zwecke (Werbung, KI-Training, Statistik) |
-   | Wirtschaftliches Interesse | Verantwortlicher | Dienstleister hat eigenes Interesse an Daten |
-   | Berufsbild | Reiner Auftragnehmer | Eigene Rechtsdienstleistung, Berufstraegerstellung |
+ | Frage | Indiz fuer Auftragsverarbeitung | Indiz gegen Auftragsverarbeitung |
+ |---|---|---|
+ | Wer legt Zweck fest? | Verantwortlicher allein | Dienstleister mitbestimmend |
+ | Wer legt wesentliche Mittel fest? | Verantwortlicher | Dienstleister bestimmt Architektur und Datenlogik |
+ | Eigene Datennutzung des Dienstleisters? | Nein, nur weisungsgebunden | Ja, fuer eigene Zwecke (Werbung, KI-Training, Statistik) |
+ | Wirtschaftliches Interesse | Verantwortlicher | Dienstleister hat eigenes Interesse an Daten |
+ | Berufsbild | Reiner Auftragnehmer | Eigene Rechtsdienstleistung, Berufstraegerstellung |
 
 3. **Negativabgrenzung.**
-   - **Funktionsuebertragung:** Bei Berufsgeheimnistraegern (Steuerberater, Rechtsanwaelte, Aerzte), Inkassodienstleistern und Wirtschaftspruefern ist die Rollenzuordnung wegen § 203 StGB und § 43a Abs. 2 BRAO besonders kritisch (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
-   - **Gemeinsame Verantwortlichkeit (Art. 26 DSGVO):** Wenn beide Akteure gemeinsam ueber Zwecke und Mittel entscheiden – EuGH C-210/16 Wirtschaftsakademie, EuGH C-40/17 Fashion ID, EuGH C-25/17 Zeugen Jehovas.
-   - **Getrennte Verantwortlichkeit:** Wenn jeder Akteur dieselben Daten fuer eigene Zwecke mit eigener Rechtsgrundlage verarbeitet.
+ - **Funktionsuebertragung:** Bei Berufsgeheimnistraegern (Steuerberater, Rechtsanwaelte, Aerzte), Inkassodienstleistern und Wirtschaftspruefern ist die Rollenzuordnung wegen § 203 StGB und § 43a Abs. 2 BRAO besonders kritisch (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
+ - **Gemeinsame Verantwortlichkeit (Art. 26 DSGVO):** Wenn beide Akteure gemeinsam ueber Zwecke und Mittel entscheiden – EuGH C-210/16 Wirtschaftsakademie, EuGH C-40/17 Fashion ID, EuGH C-25/17 Zeugen Jehovas.
+ - **Getrennte Verantwortlichkeit:** Wenn jeder Akteur dieselben Daten fuer eigene Zwecke mit eigener Rechtsgrundlage verarbeitet.
 
 4. **Rechtsfolge feststellen.**
-   - Auftragsverarbeitung bejaht: AVV-Pflicht nach Art. 28 Abs. 3 DSGVO.
-   - Keine Verarbeitung im Auftrag, sondern Art. 26 DSGVO: Joint-Controller-Vereinbarung (Querverweis: avv-art-26-joint-controllership-deutsch).
-   - Funktionsuebertragung: Eigener Vertragstyp, ggf. Datenuebermittlungsklausel und Geheimhaltungsvereinbarung statt AVV.
+ - Auftragsverarbeitung bejaht: AVV-Pflicht nach Art. 28 Abs. 3 DSGVO.
+ - Keine Verarbeitung im Auftrag, sondern Art. 26 DSGVO: Joint-Controller-Vereinbarung (Querverweis: avv-art-26-joint-controllership-deutsch).
+ - Funktionsuebertragung: Eigener Vertragstyp, ggf. Datenuebermittlungsklausel und Geheimhaltungsvereinbarung statt AVV.
 
 5. **Dokumentation.**
-   - Im Verarbeitungsverzeichnis Art. 30 DSGVO: Rolle eintragen.
-   - AVV als Anlage zum Hauptvertrag oder eigenstaendig.
+ - Im Verarbeitungsverzeichnis Art. 30 DSGVO: Rolle eintragen.
+ - AVV als Anlage zum Hauptvertrag oder eigenstaendig.
 
 ## Mustertext / Template
 

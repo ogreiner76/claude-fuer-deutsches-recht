@@ -1,13 +1,13 @@
 ---
 name: ins-employee-ins-schulung
-description: "Nutze dies, wenn Ins 014 Employee Stock Plan, Ins 016 Schulung Policy im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 014 Employee Stock Plan, Ins 016 Schulung Policy prüfen.; Erstelle eine Arbeitsfassung zu Ins 014 Employee Stock Plan, Ins 016 Schulung Policy.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 014 Employee Stock Plan, Ins 016 Schulung Policy: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 014 Employee Stock Plan, Ins 016 Schulung Policy
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 014 Employee Stock Plan, Ins 016 Schulung Policy** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -53,31 +53,31 @@ Safe Harbour oder eine Befreiung greift.
 ### Schritt 1 – Programmstruktur analysieren
 
 - Welche Art von Instrument: Option (Ausübungsrecht), RSU (automatische Zuteilung),
-  LTIP (leistungsabhängige Zuteilung)?
+ LTIP (leistungsabhängige Zuteilung)?
 - Gibt es Ermessensspielraum bei der Ausübung (→ dann: MAR-Prüfung notwendig)?
 - Ist die Zuteilung oder Ausübung automatisch und nach Plan ohne individuelle Entscheidung
-  des Mitarbeiters?
+ des Mitarbeiters?
 
 ### Schritt 2 – Closed-Period-Prüfung (Art. 19 Abs. 11 MAR)
 
 - Liegt der Ausübungs-/Zuteilungstermin in einer Closed Period (30 Tage vor Jahres-/
-  Halbjahresabschluss-Veröffentlichung)?
+ Halbjahresabschluss-Veröffentlichung)?
 - Für PDMRs: Handelsverbot gilt auch für Ausübung von Optionen in Closed Period
 - Für reguläre Mitarbeiter: Kein gesetzliches Closed-Period-Verbot, aber Insiderhandelsverbot
-  nach Art. 14 MAR bei Vorliegen von Insiderinformation
+ nach Art. 14 MAR bei Vorliegen von Insiderinformation
 
 ### Schritt 3 – Insiderhandels-Prüfung (Art. 8, 14 MAR)
 
 - Hat der Mitarbeiter zum Zeitpunkt der Ausübung Zugang zu einer Insiderinformation?
 - Gilt für alle Mitarbeiter, nicht nur PDMRs
 - Bei automatischen Plans ohne Mitarbeiter-Ermessen: Kausalitätselement des Art. 8 MAR
-  fehlt i.d.R. → kein Verstoß
+ fehlt i.d.R. → kein Verstoß
 
 ### Schritt 4 – Safe Harbour für vorgefasste Pläne (Art. 9 Abs. 3 MAR)
 
 Safe Harbour greift, wenn:
 a) Mitarbeiter hatte vor Erlangen der Insiderinformation einen schriftlichen Plan zur
-   Ausübung abgeschlossen (z. B. automatischer Ausübungsplan nach Vesting-Datum)
+ Ausübung abgeschlossen (z. B. automatischer Ausübungsplan nach Vesting-Datum)
 b) Plan sieht keine Änderungsmöglichkeit für den Mitarbeiter vor
 c) Keine diskretionären Handlungen nach Beginn der Insiderphasee
 → Plan-Dokumentation vor Beginn der Insiderphase muss vorliegen.
@@ -95,7 +95,7 @@ c) Keine diskretionären Handlungen nach Beginn der Insiderphasee
 - Wurden Mitarbeiter mit Insiderkenntnissen auf das Ausübungsverbot hingewiesen?
 - Gibt es vorgefasste Pläne, die den Safe Harbour nach Art. 9 Abs. 3 MAR begründen?
 - Ist die Unterscheidung zwischen PDMRs (Closed-Period-Verbot) und sonstigen Mitarbeitern
-  (nur Insiderhandelsverbot) sauber implementiert?
+ (nur Insiderhandelsverbot) sauber implementiert?
 - Wird das Programm regelmäßig auf insiderrechtliche Risiken überprüft?
 
 ## Ausgabeformat
@@ -139,11 +139,11 @@ die lückenlose Dokumentation aller Schulungsmaßnahmen sicher.
 ### Schritt 1 – Zielgruppenbestimmung
 
 Stufe 1 (alle Mitarbeiter mit Marktzugang): Grundlagen MAR, Handelsverbote, Was ist eine
-  Insiderinformation, Meldepflichten
+ Insiderinformation, Meldepflichten
 Stufe 2 (PDMRs, IR, Legal, Finance): Vollständige MAR-Pflichten, Directors' Dealings,
-  Aufschub, Ad-hoc, Insiderliste
+ Aufschub, Ad-hoc, Insiderliste
 Stufe 3 (Compliance, CFO, General Counsel): Vollständig inkl. Sanktionen, BaFin-Verfahren,
-  Strafrecht, Verteidigung
+ Strafrecht, Verteidigung
 
 ### Schritt 2 – Schulungsinhalte (Kern-Curriculum)
 

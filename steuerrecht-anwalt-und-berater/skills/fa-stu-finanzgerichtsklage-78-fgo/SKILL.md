@@ -53,9 +53,9 @@ An das Finanzgericht [BUNDESLAND]
 
 Klage
 des [MANDANT], vertreten durch [KANZLEI],
-  - Klaeger -
+ - Klaeger -
 gegen das Land [BUNDESLAND], vertreten durch das Finanzamt [ORT],
-  - Beklagter -
+ - Beklagter -
 
 wegen [STEUERART] [JAHR] (Einspruchsentscheidung vom [DATUM], Az. [NR])
 
@@ -71,7 +71,7 @@ III. Rechtliche Wuerdigung: [...]
 Antrag auf Akteneinsicht § 78 FGO wird gestellt.
 Antrag auf Aussetzung der Vollziehung § 69 FGO wird gestellt.
 
-[ORT, DATUM]    [UNTERSCHRIFT RA]
+[ORT, DATUM] [UNTERSCHRIFT RA]
 ```
 
 ## Abgrenzung zu anderen Skills dieses Plugins

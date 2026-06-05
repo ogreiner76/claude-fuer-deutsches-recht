@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Betäubungsmittelrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Spezialskill-Routing und erste Ausgabe."
+description: "Betäubungsmittelrecht: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
 ---
 
 # Betäubungsmittelrecht - Allgemeiner Einstieg
 
 ## Aufgabe
 
-Führt in Betäubungsmittelrecht ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Spezialskills dieses Plugins vor.
+Führt in Betäubungsmittelrecht ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.
 
 ## Startfragen
 

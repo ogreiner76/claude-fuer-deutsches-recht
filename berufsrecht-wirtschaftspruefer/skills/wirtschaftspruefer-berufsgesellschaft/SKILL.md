@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-berufsgesellschaft
-description: "Nutze dies, wenn Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Rechtsprech, Wirtschaftspruefer Bestaetigungsvermerk Risikofall Kammerantwor im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Rechtsprech, Wirtschaftspruefer Bestaetigungsvermerk Risikofall Kammerantwor prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtsch..."
+description: "Nutze dies bei Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Rechtsprech: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Rechtsprech, Wirtschaftspruefer Bestaetigungsvermerk Risikofall Kammerantwor
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Berufsgesellschaft Zulassung Organisationspf, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Kammerantwo, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Organisatio, Wirtschaftspruefer Bescheinigung Vs Pruefungsurteil Rechtsprech, Wirtschaftspruefer Bestaetigungsvermerk Risikofall Kammerantwor** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

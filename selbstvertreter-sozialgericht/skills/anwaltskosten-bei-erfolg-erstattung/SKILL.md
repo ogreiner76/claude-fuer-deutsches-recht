@@ -70,12 +70,12 @@ Mandant: [Name]
 Angelegenheit: SG Az [...]
 Gegenstandswert: [...] EUR
 
-Verfahrensgebuehr Nr. 3100 VV RVG     [Betrag]
-Terminsgebuehr Nr. 3104 VV RVG         [Betrag]
-Auslagenpauschale Nr. 7002 VV RVG       20,00
-Zwischensumme                            [...]
-Umsatzsteuer 19 %                        [...]
-Gesamt                                   [...]
+Verfahrensgebuehr Nr. 3100 VV RVG [Betrag]
+Terminsgebuehr Nr. 3104 VV RVG [Betrag]
+Auslagenpauschale Nr. 7002 VV RVG 20,00
+Zwischensumme [...]
+Umsatzsteuer 19 % [...]
+Gesamt [...]
 ```
 
 ### Schritt 4 — Antrag auf Festsetzung

@@ -1,19 +1,19 @@
 ---
 name: ausnahmen-aussergewoehnliche-umstaende
-description: "Nutze dies, wenn Ausnahmen Aussergewoehnliche Umstaende Prüfen, Aussergewoehnliche Umstaende Strikt, Distanz Und Ausgleich Berechnen im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Ausnahmen Aussergewoehnliche Umstaende Prüfen, Aussergewoehnliche Umstaende Strikt, Distanz Und Ausgleich Berechnen prüfen.; Erstelle eine Arbeitsfassung zu Ausnahmen Aussergewoehnliche Umstaende Prüfen, Aussergewoehnliche Umstaende Strikt, Distanz Und Ausgleich Berechnen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ausnahmen Aussergewoehnliche Umstaende Prüfen, Aussergewoehnliche Umstaende Strikt, Distanz Und Ausgleich Berechnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ausnahmen Aussergewoehnliche Umstaende Prüfen, Aussergewoehnliche Umstaende Strikt, Distanz Und Ausgleich Berechnen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ausnahmen Aussergewoehnliche Umstaende Prüfen, Aussergewoehnliche Umstaende Strikt, Distanz Und Ausgleich Berechnen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `ausnahmen-aussergewoehnliche-umstaende-pruefen` | Workflow-Skill zu ausnahmen aussergewoehnliche umstaende pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `ausnahmen-aussergewoehnliche-umstaende-pruefen` | Arbeitsmodul zu ausnahmen aussergewoehnliche umstaende pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `aussergewoehnliche-umstaende-strikt` | Streng auszulegende aussergewoehnliche Umstaende Art. 5 Abs. 3 VO 261: Wetter, Streik nicht eigener Mitarbeiter, gerichtlich verfuegte Flugverbote, Wildschlag in Triebwerk. Keine aussergewoehnlichen Umstaende: technische Defekte (EuGH Wallentin-Hermann), Krankheit Crew, ATC-Engpaesse mit Routine. Pruefraster mit Belegen. |
 | `distanz-und-ausgleich-berechnen` | Berechnet die Ausgleichszahlung nach Art. 7 VO 261/2004. Distanzbestimmung nach Grosskreisrechnung zwischen Abflug- und Zielflughafen. Drei Stufen 250 EUR bis 1500 km / 400 EUR mehr als 1500 km innergemeinschaftlich oder 1500 bis 3500 km nicht-innergemeinschaftlich / 600 EUR mehr als 3500 km nicht-innergemeinschaftlich. Halbierung des Ausgleichs bei kurzer Verspaetungs-Beifoerderung. Bei mehreren Passagieren pro Person eigenständig. Pro Anspruchsfall ein Berechnungsdokument. |
 
@@ -26,7 +26,7 @@ Für **Ausnahmen Aussergewoehnliche Umstaende Prüfen, Aussergewoehnliche Umstae
 
 ## 1. `ausnahmen-aussergewoehnliche-umstaende-pruefen`
 
-**Fokus:** Workflow-Skill zu ausnahmen aussergewoehnliche umstaende pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu ausnahmen aussergewoehnliche umstaende pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)
 
@@ -83,25 +83,25 @@ Auch wenn ein außergewöhnlicher Umstand vorliegt, muss die Airline beweisen, d
 
 ```
 Frage 1: Welche Begründung hat die Airline angegeben?
-  - Keine Begründung → Beweislast nicht erfüllt → Anspruch erhalten
-  - Pauschale Begründung ohne Detail → Beweislast nicht erfüllt → Anspruch erhalten
+ - Keine Begründung → Beweislast nicht erfüllt → Anspruch erhalten
+ - Pauschale Begründung ohne Detail → Beweislast nicht erfüllt → Anspruch erhalten
 
 Frage 2: Faellt der angegebene Sachverhalt in den Katalog
 "regelmäßig außergewöhnlich"?
-  - Nein → Anspruch erhalten; ggf. Sachverhalt kategorisieren als
-    technischen Defekt
-  - Ja → Stufe 2
+ - Nein → Anspruch erhalten; ggf. Sachverhalt kategorisieren als
+ technischen Defekt
+ - Ja → Stufe 2
 
 Frage 3: Hat die Airline alle zumutbaren Maßnahmen ergriffen?
-  - Eckdaten: rechtzeitige Information Ersatzflugzeug Reserve-Crew
-    Umbuchung auf andere Airline Hotel
-  - Wenn nicht dargelegt: Beweislast nicht erfüllt → Anspruch erhalten
+ - Eckdaten: rechtzeitige Information Ersatzflugzeug Reserve-Crew
+ Umbuchung auf andere Airline Hotel
+ - Wenn nicht dargelegt: Beweislast nicht erfüllt → Anspruch erhalten
 
 Frage 4: Kausalitaet — beruht die Annullierung tatsächlich auf dem
 außergewöhnlichen Umstand?
-  - Folgeverspätungen aus dem Vortag werden regelmäßig nicht mehr
-    als außergewöhnlich gewertet (EuGH-Verfahren zur kettenartigen
-    Verspätung)
+ - Folgeverspätungen aus dem Vortag werden regelmäßig nicht mehr
+ als außergewöhnlich gewertet (EuGH-Verfahren zur kettenartigen
+ Verspätung)
 ```
 
 ## Gegenargumente bei typischen Airline-Standardausreden
@@ -111,11 +111,11 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
 ## Ausgabe
 
 - `aussergewoehnlich-pruefung.md` mit:
-  - Begründung der Airline (Zitat)
-  - Subsumtion unter Katalog
-  - Prüfung zumutbarer Maßnahmen
-  - Pinpoint-Zitate EuGH-Rechtsprechung
-  - Ergebnis (Anspruch erhalten / Anspruch entfaellt / weitere Sachverhaltsaufklärung noetig)
+ - Begründung der Airline (Zitat)
+ - Subsumtion unter Katalog
+ - Prüfung zumutbarer Maßnahmen
+ - Pinpoint-Zitate EuGH-Rechtsprechung
+ - Ergebnis (Anspruch erhalten / Anspruch entfaellt / weitere Sachverhaltsaufklärung noetig)
 - Hinweis: Bei strittiger Beweisfrage ist die Beweislast der Airline ein wichtiger Hebel.
 
 ---

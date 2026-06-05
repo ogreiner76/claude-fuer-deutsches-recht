@@ -1,13 +1,13 @@
 ---
 name: dsfa-drittlandtransfer-behoerdenpaket-dsb
-description: "Nutze dies, wenn Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Prüfung, Dsfa Art 35 Dsgvo Trigger Und Anwendungsbereich, Dsfa Bfdi Und Länder Blacklist, Dsfa Dokumentation Und Rechenschaftspflicht Art 5 Ii im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Prüfung, Dsfa Art 35 Dsgvo Trigger Und Anwendungsbereich, Dsfa Bfdi Und Länder Blacklist, Dsfa Dokumentation Und Rechenschaftspflicht Art 5 Ii prüfen.; Erstelle eine Arbeitsfassung zu Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Prüfung, Dsfa Art 35 Dsgvo Trigger Und Anwendungsbereich, Dsfa Bfdi Und Länder Blacklist, Dsfa Dokumentation Und Rechenschaftspflicht Art 5 Ii.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Prüfung, Dsfa Art 35 Dsgvo Trigger Und Anwendungsbereich, Dsfa Bfdi Und Länder Blacklist: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Prüfung, Dsfa Art 35 Dsgvo Trigger Und Anwendungsbereich, Dsfa Bfdi Und Länder Blacklist, Dsfa Dokumentation Und Rechenschaftspflicht Art 5 Ii
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Drittlandtransfer Behoerdenpaket Output, Dsb Bestellungspflicht Prüfung, Dsfa Art 35 Dsgvo Trigger Und Anwendungsbereich, Dsfa Bfdi Und Länder Blacklist, Dsfa Dokumentation Und Rechenschaftspflicht Art 5 Ii** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -545,9 +545,9 @@ Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob fuer eine kon
 
 - Art. 35 Abs. 1 DSGVO Generalklausel: DSFA verpflichtend wenn eine Form der Verarbeitung, insbesondere bei Verwendung neuer Technologien, aufgrund Art, Umfang, Umstaenden und Zwecken voraussichtlich ein hohes Risiko fuer die Rechte und Freiheiten natuerlicher Personen zur Folge hat.
 - Art. 35 Abs. 3 DSGVO Regelbeispiele:
-  - lit. a systematische und umfassende Bewertung persoenlicher Aspekte einschliesslich Profiling und darauf gestuetzter automatisierter Entscheidung mit Rechtswirkung
-  - lit. b umfangreiche Verarbeitung besonderer Kategorien nach Art. 9 Abs. 1 oder von Daten ueber strafrechtliche Verurteilungen nach Art. 10
-  - lit. c systematische umfangreiche Ueberwachung oeffentlich zugaenglicher Bereiche
+ - lit. a systematische und umfassende Bewertung persoenlicher Aspekte einschliesslich Profiling und darauf gestuetzter automatisierter Entscheidung mit Rechtswirkung
+ - lit. b umfangreiche Verarbeitung besonderer Kategorien nach Art. 9 Abs. 1 oder von Daten ueber strafrechtliche Verurteilungen nach Art. 10
+ - lit. c systematische umfangreiche Ueberwachung oeffentlich zugaenglicher Bereiche
 - Art. 35 Abs. 4 DSGVO Pflichtliste der Aufsichtsbehoerde (BfDI bzw. zustaendige Landesbehoerde) — sogenannte Blacklist.
 - Art. 35 Abs. 5 DSGVO optionale Whitelist der Aufsichtsbehoerde.
 - Art. 35 Abs. 10 DSGVO Ausnahme bei gesetzlicher Grundlage mit bereits durchgefuehrter allgemeiner DSFA durch den Gesetzgeber.
@@ -558,20 +558,20 @@ Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob fuer eine kon
 1. **Verarbeitungsbeschreibung.** Kurzbeschreibung der Verarbeitung in maximal 10 Saetzen: Zweck, Datenarten, Betroffenenkreise, Technologie, Drittlandbezug, Aufbewahrung. Ohne diese Beschreibung ist die Trigger-Pruefung nicht moeglich.
 2. **Verhaeltnismaessigkeitspruefung.** In dieser Stufe nur grobe Plausibilitaet: Liegt ein offensichtliches Missverhaeltnis von Zweck und Eingriff vor? Falls ja, ist die DSFA bereits aus diesem Grund angezeigt.
 3. **Risikoanalyse Trigger-Ebene.** Pruefen der 9 EDSA-Kriterien:
-   - Bewertung oder Scoring
-   - automatisierte Entscheidung mit Rechtswirkung
-   - systematische Ueberwachung
-   - besondere Kategorien Art. 9 oder Art. 10
-   - umfangreiche Verarbeitung
-   - Zusammenfuehrung oder Abgleich von Datensaetzen
-   - schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte)
-   - neue Technologien (KI, Biometrie, IoT)
-   - Verhinderung der Ausuebung von Betroffenenrechten
+ - Bewertung oder Scoring
+ - automatisierte Entscheidung mit Rechtswirkung
+ - systematische Ueberwachung
+ - besondere Kategorien Art. 9 oder Art. 10
+ - umfangreiche Verarbeitung
+ - Zusammenfuehrung oder Abgleich von Datensaetzen
+ - schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte)
+ - neue Technologien (KI, Biometrie, IoT)
+ - Verhinderung der Ausuebung von Betroffenenrechten
 4. **Massnahmen.** Pruefen ob bereits getroffene risikomindernde Massnahmen den Schwellwert unter hohes Risiko druecken (Pseudonymisierung, Anonymisierung, technische Beschraenkung). Ergebnis dokumentieren.
 5. **Restrisiko / Schwellwertergebnis.** Drei moegliche Ergebnisse:
-   - DSFA-PFLICHTIG (Art. 35 Abs. 3, Abs. 4 oder mindestens 2 EDSA-Kriterien)
-   - DSFA-EMPFOHLEN (1 EDSA-Kriterium, Grenzfall)
-   - DSFA-ENTBEHRLICH (kein Kriterium erfuellt, Blacklist nicht einschlaegig)
+ - DSFA-PFLICHTIG (Art. 35 Abs. 3, Abs. 4 oder mindestens 2 EDSA-Kriterien)
+ - DSFA-EMPFOHLEN (1 EDSA-Kriterium, Grenzfall)
+ - DSFA-ENTBEHRLICH (kein Kriterium erfuellt, Blacklist nicht einschlaegig)
 6. **Konsultation / Genehmigung.** DSB nach Art. 35 Abs. 2 DSGVO anhoeren. Triage-Vermerk gegenzeichnen lassen und in Verarbeitungsverzeichnis nach Art. 30 verlinken.
 
 ## Mustertext / Template

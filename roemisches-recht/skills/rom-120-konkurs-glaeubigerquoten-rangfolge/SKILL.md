@@ -18,10 +18,10 @@ Skill fuer die roemisch-rechtliche Glaeubigerrangordnung.
 ## Bevorrechtigte Glaeubiger (privilegium personae)
 
 - Krasse Beispiele:
-  - Beerdigungskosten ("funeris causa").
-  - Ehevermoegen der Witwe (dos).
-  - Pflegevormundschaft fuer Muendelvermoegen.
-  - Steuerforderungen des Fiscus.
+ - Beerdigungskosten ("funeris causa").
+ - Ehevermoegen der Witwe (dos).
+ - Pflegevormundschaft fuer Muendelvermoegen.
+ - Steuerforderungen des Fiscus.
 
 ## Quotale Verteilung
 

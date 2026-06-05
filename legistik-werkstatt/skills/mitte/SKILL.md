@@ -1,12 +1,12 @@
 ---
 name: mitte
-description: "Nutze dies, wenn Mitte: Internationaler Bezug und Schnittstellen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Mitte: Internationaler Bezug und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Mitte: Internationaler Bezug und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mitte: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Mitte: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Mitte: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Mitte: Internationaler Bezug und Schnittstellen / spezial mitte internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mitte: Internationaler Bezug und Schnittstellen / mitte internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

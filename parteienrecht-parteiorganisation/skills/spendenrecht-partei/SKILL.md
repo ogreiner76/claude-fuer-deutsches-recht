@@ -8,7 +8,7 @@ description: "Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländ
 ## Aufgabe
 Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

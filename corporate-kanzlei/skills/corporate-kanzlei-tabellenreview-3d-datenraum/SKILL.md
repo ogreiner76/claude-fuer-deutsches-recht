@@ -197,13 +197,13 @@ Abweichungen: [Beschreibung / Keine]
 RED FLAGS:
 | Nr. | Eintrag | Problem | Risikostufe | Empfehlung |
 |-----|---------|---------|-------------|-----------|
-| 1   | [Vertrag X] | [Kein Enddatum] | Mittel | IRL-Frage |
-| 2   | [Litigation Y] | [Keine Rueckstellung] | Hoch | Klärung Jahresabschluss |
+| 1 | [Vertrag X] | [Kein Enddatum] | Mittel | IRL-Frage |
+| 2 | [Litigation Y] | [Keine Rueckstellung] | Hoch | Klärung Jahresabschluss |
 
 OFFENE IRL-ANFRAGEN (ausgeloest durch Tabellen-Review):
 | Nr. | Anfrage | An Verkaefer seit | Frist |
 |-----|---------|-------------------|-------|
-| 1   | [Anfrage] | [Datum] | [Datum] |
+| 1 | [Anfrage] | [Datum] | [Datum] |
 
 GESAMTBEWERTUNG: [Gut / Akzeptabel mit Einschraenkungen / Erhebliche Luecken]
 ```

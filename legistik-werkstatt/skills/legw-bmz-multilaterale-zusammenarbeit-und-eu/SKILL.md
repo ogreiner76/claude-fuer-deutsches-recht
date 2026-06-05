@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Multilaterale Zusammenarbeit und EU
-Ressort:            BMZ
-Kernnormen:         UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.
-Akteure/Aufsicht:   BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.
-EU/Voelkerrecht:    NDICI; EFAD-Architektur; Team Europe; Pakt fuer die Zukunft.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmz; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Multilaterale Zusammenarbeit und EU
+Ressort: BMZ
+Kernnormen: UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.
+Akteure/Aufsicht: BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.
+EU/Voelkerrecht: NDICI; EFAD-Architektur; Team Europe; Pakt fuer die Zukunft.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

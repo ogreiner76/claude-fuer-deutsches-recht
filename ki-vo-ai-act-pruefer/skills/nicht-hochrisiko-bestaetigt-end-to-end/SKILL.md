@@ -185,7 +185,7 @@ Negativ-Diagnose ist nicht "für immer". **Re-Evaluation bei:**
 
 ## Querverweise
 
-- `entscheidungsbaum-ki-vo-gesamt-workflow` — Master-Workflow vorgelagert
+- `entscheidungsbaum-ki-vo-gesamt-workflow` — Master-vorgelagert
 - `hochrisiko-bestaetigt-end-to-end-roadmap` — alternative Pfade
 - `risikoklassen-uebersicht-und-triage` — Klassenüberblick
 - `falsche-wiese-warnung-ki-vo` — was ist KI-VO nicht
@@ -230,7 +230,7 @@ Gepruefte Norm(en): [Art. 6 Rn. 5]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

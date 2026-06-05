@@ -1,6 +1,6 @@
 ---
 name: verfahren-quellenkarte
-description: "Nutze dies, wenn Verfahren Quellenkarte im Plugin Energierecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Verfahren Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Verfahren Quellenkarte

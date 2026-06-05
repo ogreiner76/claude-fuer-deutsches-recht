@@ -1,20 +1,20 @@
 ---
 name: gesellschafterstreit
-description: "Nutze dies, wenn Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit, Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich, Fachanwalt Handels Gesellschaftsrecht Ma Due Diligence Findings im Plugin Fachanwalt Handels Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit, Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich, Fachanwalt Handels Gesellschaftsrecht Ma Due Diligence Findings prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit, Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich, Fachanwalt Handels Gesellschaftsrecht Ma Due Diligence Findings.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit, Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich, Fachanwalt Handels Gesellschaftsrecht Ma Due Diligence Findings: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit, Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich, Fachanwalt Handels Gesellschaftsrecht Ma Due Diligence Findings
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit, Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich, Fachanwalt Handels Gesellschaftsrecht Ma Due Diligence Findings** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit` | Workflow-Skill zu fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich` | Workflow-Skill zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit` | Arbeitsmodul zu fachanwalt handels gesellschaftsrecht gesellschafterstreit: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich` | Arbeitsmodul zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings` | Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht für M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Prüfraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie. |
 
 ## Arbeitsweg
@@ -26,10 +26,10 @@ Für **Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit, Fachanwalt Ha
 
 ## 1. `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit`
 
-**Fokus:** Workflow-Skill zu fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt handels gesellschaftsrecht gesellschafterstreit: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsmodul zu fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
 - **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
@@ -78,7 +78,7 @@ Für **Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit, Fachanwalt Ha
 
 ## Prüfschema Beschlussanfechtungsklage GmbH
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
@@ -121,20 +121,20 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Anfechtungsklage GmbH (vollständig)
 
 ```
-An das Landgericht [Sitz der GmbH]                          [Ort, Datum]
+An das Landgericht [Sitz der GmbH] [Ort, Datum]
 
 Klage
 
-des/der [Gesellschafter/in], [Anschrift]         – Kläger/in –
+des/der [Gesellschafter/in], [Anschrift] – Kläger/in –
 gegen
-die [GmbH], vertreten durch Geschäftsführer [Name]  – Beklagte –
+die [GmbH], vertreten durch Geschäftsführer [Name] – Beklagte –
 
 wegen Anfechtung Gesellschafterbeschluss vom [Datum]
 
 Anträge:
 
 1. Der Beschluss der Gesellschafterversammlung der Beklagten vom [Datum]
-   zu Tagesordnungspunkt [Nr.] — Wortlaut: "[...]" — wird für nichtig erklärt.
+ zu Tagesordnungspunkt [Nr.] — Wortlaut: "[...]" — wird für nichtig erklärt.
 
 2. Hilfsweise: Es wird festgestellt, dass der Beschluss nichtig ist.
 
@@ -156,19 +156,19 @@ von [Zahl] Anteilen (davon [Zahl] abstimmungsberechtigt) [Beschlussinhalt]
 III. Anfechtungsgründe
 
 1. Einberufungsmangel § 51 GmbHG:
-   Die Einladung datiert vom [Datum] und wurde per [Post/E-Mail] versandt.
-   Zwischen Einladung und Versammlung lagen nur [Anzahl] Tage; die Mindestfrist
-   von 1 Woche (§ 51 Abs. 1 S. 2 GmbHG) wurde nicht eingehalten.
+ Die Einladung datiert vom [Datum] und wurde per [Post/E-Mail] versandt.
+ Zwischen Einladung und Versammlung lagen nur [Anzahl] Tage; die Mindestfrist
+ von 1 Woche (§ 51 Abs. 1 S. 2 GmbHG) wurde nicht eingehalten.
 
 2. Stimmverbot § 47 Abs. 4 GmbHG:
-   Mitgesellschafter [Name] stimmte ab, obwohl der Beschluss seine eigene
-   Entlastung / Befreiung von einer Verbindlichkeit betraf. Seine Stimmen
-   sind nicht zu berücksichtigen; ohne diese Stimmen fehlt die erforderliche
-   Mehrheit.
+ Mitgesellschafter [Name] stimmte ab, obwohl der Beschluss seine eigene
+ Entlastung / Befreiung von einer Verbindlichkeit betraf. Seine Stimmen
+ sind nicht zu berücksichtigen; ohne diese Stimmen fehlt die erforderliche
+ Mehrheit.
 
 3. Treuepflichtverletzung:
-   Der Beschluss benachteiligt die Minderheit ohne sachlichen Grund und
-   dient allein dem Interesse des Mehrheitsgesellschafters.
+ Der Beschluss benachteiligt die Minderheit ohne sachlichen Grund und
+ dient allein dem Interesse des Mehrheitsgesellschafters.
 
 IV. Frist
 Beschlussfassung am [Datum], Klageerhebung am [Datum]; Monatsfrist eingehalten.
@@ -214,11 +214,11 @@ Klage auf Ausschließung des Mitgesellschafters aus wichtigem Grund
 Anträge:
 
 1. Der Beklagte wird als Gesellschafter der [GmbH/OHG] mit sofortiger
-   Wirkung ausgeschlossen (Gestaltungsurteil).
+ Wirkung ausgeschlossen (Gestaltungsurteil).
 
 2. Der Geschäftsanteil des Beklagten ist gegen Zahlung einer Abfindung
-   in Höhe des Verkehrswerts (Gutachten ausstehend) einzuziehen
-   (§ 34 GmbHG).
+ in Höhe des Verkehrswerts (Gutachten ausstehend) einzuziehen
+ (§ 34 GmbHG).
 
 3. Die Kosten trägt der Beklagte.
 
@@ -318,10 +318,10 @@ Praktische Richtwert: EUR 15.000–250.000 je nach Bedeutung des Beschlusses.
 
 ## 2. `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich`
 
-**Fokus:** Workflow-Skill zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und ver` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsmodul zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und ver` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
 - **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
@@ -378,30 +378,30 @@ Praktische Richtwert: EUR 15.000–250.000 je nach Bedeutung des Beschlusses.
 ```
 Provisionsverlust-Berechnung (Prognosezeitraum 4 Jahre, Abwanderung 20 % p. a.):
 
-Bruttoprovision Neukunden letztes Jahr:   EUR 50.000
-Jahr 1 (×80 %):                           EUR 40.000
-Jahr 2 (×64 %):                           EUR 32.000
-Jahr 3 (×51,2 %):                         EUR 25.600
-Jahr 4 (×40,96 %):                        EUR 20.480
-Bruttoprovisionsverlust gesamt:           EUR 118.080
+Bruttoprovision Neukunden letztes Jahr: EUR 50.000
+Jahr 1 (×80 %): EUR 40.000
+Jahr 2 (×64 %): EUR 32.000
+Jahr 3 (×51,2 %): EUR 25.600
+Jahr 4 (×40,96 %): EUR 20.480
+Bruttoprovisionsverlust gesamt: EUR 118.080
 
-Abzug Bestandspflege 20 %:              ./. EUR  23.616
-Zwischensumme:                            EUR  94.464
+Abzug Bestandspflege 20 %: ./. EUR 23.616
+Zwischensumme: EUR 94.464
 
-Abzinsung Barwert (Faktor 0,93):          EUR  87.852
+Abzinsung Barwert (Faktor 0,93): EUR 87.852
 
-Billigkeitsabschlag Sogwirkung 15 %:    ./. EUR  13.178
-Berechnetes Ergebnis:                     EUR  74.674
+Billigkeitsabschlag Sogwirkung 15 %: ./. EUR 13.178
+Berechnetes Ergebnis: EUR 74.674
 
 Höchstgrenze § 89b Abs. 2 HGB
-(Ø 5 Jahresvergütungen je EUR 60.000):    EUR  60.000
+(Ø 5 Jahresvergütungen je EUR 60.000): EUR 60.000
 
-Ausgleichsanspruch:                       EUR  60.000 zzgl. 19 % USt
+Ausgleichsanspruch: EUR 60.000 zzgl. 19 % USt
 ```
 
 ## Prüfschema § 89b HGB
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
@@ -434,9 +434,9 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Geltendmachung (außergerichtlich, Jahresfrist wahrend)
 
 ```
-[Briefkopf Kanzlei]                                          [Ort, Datum]
+[Briefkopf Kanzlei] [Ort, Datum]
 
-An [Unternehmensname]                             - Einschreiben/Rückschein -
+An [Unternehmensname] - Einschreiben/Rückschein -
 
 Beendigung Handelsvertretervertrag vom [Datum]
 Geltendmachung Ausgleichsanspruch § 89b HGB — Wahrung Jahresfrist
@@ -452,10 +452,10 @@ des § 89b Abs. 4 S. 2 HGB schriftlich geltend gemacht.
 
 Vorläufige Berechnung (Detailberechnung folgt nach Belegübermittlung):
 
-Bruttoprovisionen Neukunden letztes Jahr:   EUR [X]
-Provisionen Ø 5 Jahre:                     EUR [X/Jahr]
-Höchstgrenze § 89b Abs. 2 HGB:             EUR [X]
-Vorläufiger Ausgleichsanspruch:             EUR [X] zzgl. 19 % USt
+Bruttoprovisionen Neukunden letztes Jahr: EUR [X]
+Provisionen Ø 5 Jahre: EUR [X/Jahr]
+Höchstgrenze § 89b Abs. 2 HGB: EUR [X]
+Vorläufiger Ausgleichsanspruch: EUR [X] zzgl. 19 % USt
 
 Zur Ermittlung des Ausgleichs sind wir auf die Provisionsabrechnungen und
 Kundendaten der letzten 5 Vertragsjahre angewiesen. Wir bitten um deren
@@ -470,21 +470,21 @@ Nach Vorlage der Unterlagen werden wir den Anspruch beziffert geltend machen.
 
 ```
 An das Landgericht [Sitz des Unternehmens]
-— Kammer für Handelssachen —                                 [Ort, Datum]
+— Kammer für Handelssachen — [Ort, Datum]
 
 Klage
 
-des [Handelsvertreter], [Anschrift]              – Kläger –
+des [Handelsvertreter], [Anschrift] – Kläger –
 gegen
-die [Unternehmensname], [Anschrift]              – Beklagte –
+die [Unternehmensname], [Anschrift] – Beklagte –
 
 wegen Handelsvertreterausgleich § 89b HGB
 
 Anträge:
 
 1. Die Beklagte wird verurteilt, an den Kläger EUR [Betrag] nebst Zinsen
-   in Höhe von neun Prozentpunkten über dem Basiszinssatz seit [Datum]
-   zu zahlen.
+ in Höhe von neun Prozentpunkten über dem Basiszinssatz seit [Datum]
+ zu zahlen.
 2. Die Beklagte trägt die Kosten des Rechtsstreits.
 
 Streitwert: EUR [Betrag].
@@ -699,11 +699,11 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 ### Phase 2 — Findings-Erfassung
 
 - Excel-Master-Liste mit:
-  - Bereich, Subbereich
-  - Finding-Beschreibung
-  - Klassifizierung (Red/Yellow/Green)
-  - Materialitaet (EUR-Wert oder %-Auswirkung)
-  - Lösungs-Vorschlag
+ - Bereich, Subbereich
+ - Finding-Beschreibung
+ - Klassifizierung (Red/Yellow/Green)
+ - Materialitaet (EUR-Wert oder %-Auswirkung)
+ - Lösungs-Vorschlag
 
 ### Phase 3 — Risiko-Matrix
 
@@ -831,10 +831,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Red Flag identifiziert?
 ├─ Hoch (Material): Closing-Bedingung oder Kaufpreisreduktion
-│   ├─ Quantifizierbar → Spezifische Entschädigung (Indemnity) im SPA
-│   └─ Nicht quantifizierbar → MAC-Klausel, Rücktrittsrecht verhandeln
+│ ├─ Quantifizierbar → Spezifische Entschädigung (Indemnity) im SPA
+│ └─ Nicht quantifizierbar → MAC-Klausel, Rücktrittsrecht verhandeln
 ├─ Mittel (Yellow): Garantie-Abdeckung im SPA ausreichend?
-│   └─ W&I-Versicherung als Alternative prüfen
+│ └─ W&I-Versicherung als Alternative prüfen
 └─ Niedrig (Green): Nur in Protokoll; kein SPA-Einfluss
 ```
 
@@ -855,8 +855,8 @@ RECHTLICHE QUALIFIKATION
 [Anwendbare Norm, Rechtsprechung, Risikobewertung]
 
 QUANTIFIZIERUNG
-Bestes Szenario:    EUR [MIN]
-Realistisch:        EUR [REAL]
+Bestes Szenario: EUR [MIN]
+Realistisch: EUR [REAL]
 Schlimmstes Szenario: EUR [MAX]
 
 EMPFEHLUNG

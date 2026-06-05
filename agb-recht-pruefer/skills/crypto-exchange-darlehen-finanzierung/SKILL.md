@@ -1,22 +1,22 @@
 ---
 name: crypto-exchange-darlehen-finanzierung
-description: "Nutze dies, wenn Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb, Definitionen Glossar Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb, Definitionen Glossar Agb prüfen.; Erstelle eine Arbeitsfassung zu Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb, Definitionen Glossar Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb, Definitionen Glossar Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet, Datenschutzverweise Agb, Definitionen Glossar Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `crypto-exchange-agb` | Branchen-Spezialskill für Crypto Exchange AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `darlehen-finanzierung-agb` | Branchen-Spezialskill für Darlehen Finanzierung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `datenexport-portabilitaet` | Klausel-Spezialskill für Datenexport Portabilität: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `datenschutzverweise-agb` | Klausel-Spezialskill für Datenschutzverweise AGB: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `crypto-exchange-agb` | Branchen-Fachmodul für Crypto Exchange AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `darlehen-finanzierung-agb` | Branchen-Fachmodul für Darlehen Finanzierung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `datenexport-portabilitaet` | Klausel-Fachmodul für Datenexport Portabilität: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `datenschutzverweise-agb` | Klausel-Fachmodul für Datenschutzverweise AGB: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `definitionen-glossar-agb` | Output- und Streit-Skill für Definitionen Glossar AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Crypto Exchange Agb, Darlehen Finanzierung Agb, Datenexport Portabilitaet
 
 ## 1. `crypto-exchange-agb`
 
-**Fokus:** Branchen-Spezialskill für Crypto Exchange AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Crypto Exchange AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Crypto Exchange AGB
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `darlehen-finanzierung-agb`
 
-**Fokus:** Branchen-Spezialskill für Darlehen Finanzierung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Darlehen Finanzierung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Darlehen Finanzierung AGB
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `datenexport-portabilitaet`
 
-**Fokus:** Klausel-Spezialskill für Datenexport Portabilität: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Datenexport Portabilität: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Datenexport Portabilität
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `datenschutzverweise-agb`
 
-**Fokus:** Klausel-Spezialskill für Datenschutzverweise AGB: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Datenschutzverweise AGB: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Datenschutzverweise AGB
 

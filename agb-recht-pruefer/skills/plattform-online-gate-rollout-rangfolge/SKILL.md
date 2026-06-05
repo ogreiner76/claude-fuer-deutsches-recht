@@ -1,23 +1,23 @@
 ---
 name: plattform-online-gate-rollout-rangfolge
-description: "Nutze dies, wenn Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek, Rechtsabteilung Zustimmungsfiktion Nach Bank Agb Urteil im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek, Rechtsabteilung Zustimmungsfiktion Nach Bank Agb Urteil prüfen.; Erstelle eine Arbeitsfassung zu Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek, Rechtsabteilung Zustimmungsfiktion Nach Bank Agb Urteil.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek, Rechtsabteilung Zustimmungsfiktion Nach Bank Agb Urteil
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprache, Rechtsabteilung Preisanpassung Bei Dauervertraegen Nach Energiek, Rechtsabteilung Zustimmungsfiktion Nach Bank Agb Urteil** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `plattform-und-online-checkout` | Einstiegs- und Workflow-Skill für Plattform und Online Checkout: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `plattform-und-online-checkout` | Einstiegs- und Arbeitsmodul für Plattform und Online Checkout: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 | `quality-gate-vor-rollout` | Output- und Streit-Skill für Quality Gate Vor Rollout: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `rangfolge-sprache` | Klausel-Spezialskill für Rangfolge Sprache: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `rechtsabteilung-preisanpassung-bei-dauervertraegen-nach-energiek` | Rechtsabteilungs-Spezialskill für Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: Preisgleitklauseln werden nach Anlass, Parameter, Transparenz, Kündigungsrecht und Mitteilungsmechanik bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil` | Rechtsabteilungs-Spezialskill für Zustimmungsfiktion nach Bank-AGB-Urteil: Klauseln, die Schweigen oder bloße Weiternutzung als Zustimmung behandeln, werden für Preis- und Leistungsänderungen in B2C und B2B auseinandergenommen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rangfolge-sprache` | Klausel-Fachmodul für Rangfolge Sprache: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `rechtsabteilung-preisanpassung-bei-dauervertraegen-nach-energiek` | Rechtsabteilungs-Fachmodul für Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: Preisgleitklauseln werden nach Anlass, Parameter, Transparenz, Kündigungsrecht und Mitteilungsmechanik bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil` | Rechtsabteilungs-Fachmodul für Zustimmungsfiktion nach Bank-AGB-Urteil: Klauseln, die Schweigen oder bloße Weiternutzung als Zustimmung behandeln, werden für Preis- und Leistungsänderungen in B2C und B2B auseinandergenommen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Plattform Und Online Checkout, Quality Gate Vor Rollout, Rangfolge Sprach
 
 ## 1. `plattform-und-online-checkout`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Plattform und Online Checkout: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Plattform und Online Checkout: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Plattform und Online Checkout
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `rangfolge-sprache`
 
-**Fokus:** Klausel-Spezialskill für Rangfolge Sprache: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Rangfolge Sprache: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Rangfolge Sprache
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `rechtsabteilung-preisanpassung-bei-dauervertraegen-nach-energiek`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: Preisgleitklauseln werden nach Anlass, Parameter, Transparenz, Kündigungsrecht und Mitteilungsmechanik bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: Preisgleitklauseln werden nach Anlass, Parameter, Transparenz, Kündigungsrecht und Mitteilungsmechanik bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock
 
@@ -229,7 +229,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 5. `rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Zustimmungsfiktion nach Bank-AGB-Urteil: Klauseln, die Schweigen oder bloße Weiternutzung als Zustimmung behandeln, werden für Preis- und Leistungsänderungen in B2C und B2B auseinandergenommen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Zustimmungsfiktion nach Bank-AGB-Urteil: Klauseln, die Schweigen oder bloße Weiternutzung als Zustimmung behandeln, werden für Preis- und Leistungsänderungen in B2C und B2B auseinandergenommen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil
 

@@ -1,13 +1,13 @@
 ---
 name: bussgeld-unfall-haftungsquote-vkr
-description: "Nutze dies, wenn Spezial Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial
+# Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Be
 # Bussgeld: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Bussgeld: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Bussgeld: Zahlen, Schwellenwerte und Berechnung / spezial bussgeld zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bussgeld: Zahlen, Schwellenwerte und Berechnung / bussgeld zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, BußgKatV, OWiG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -110,7 +110,7 @@ Konkrete Quotelung der Haftung zwischen Unfallbeteiligten — Grundlage für Sch
 ## Prüfschema in Tabellenform
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Ergebnis / Konsequenz |
 |---|---|---|---|
@@ -150,39 +150,39 @@ SCHADENSBERECHNUNG — Unfall vom [Datum]
 Mandant: [Name]
 
 A. FAHRZEUGSCHADEN
-   1. Reparaturkosten netto lt. SV-Gutachten      EUR ______
-      (alternativ: WBW EUR _____ minus Restwert
-       EUR _____ = Totalschadensersatz netto       EUR ______)
-   2. Merkantile Wertminderung lt. SV-Gutachten   EUR ______
-   3. Sachverständigenkosten lt. Rechnung          EUR ______
-   4. Abschleppkosten lt. Rechnung                 EUR ______
-   5. Standgeld lt. Rechnung                       EUR ______
+ 1. Reparaturkosten netto lt. SV-Gutachten EUR ______
+ (alternativ: WBW EUR _____ minus Restwert
+ EUR _____ = Totalschadensersatz netto EUR ______)
+ 2. Merkantile Wertminderung lt. SV-Gutachten EUR ______
+ 3. Sachverständigenkosten lt. Rechnung EUR ______
+ 4. Abschleppkosten lt. Rechnung EUR ______
+ 5. Standgeld lt. Rechnung EUR ______
 
 B. NUTZUNGSAUSFALL / MIETWAGENKOSTEN
-   6a. Nutzungsausfall [X] Tage × EUR [Y]
-       (Sanden/Danner/Klass Tabelle, Gruppe [Z])  EUR ______
-   6b. Mietwagenkosten lt. Rechnung               EUR ______
+ 6a. Nutzungsausfall [X] Tage × EUR [Y]
+ (Sanden/Danner/Klass Tabelle, Gruppe [Z]) EUR ______
+ 6b. Mietwagenkosten lt. Rechnung EUR ______
 
 C. PERSONENSCHADEN
-   7. Schmerzensgeld § 253 Abs. 2 BGB             EUR ______
-   8. Heilbehandlungskosten lt. Belege             EUR ______
-   9. Verdienstausfall netto [X] Tage              EUR ______
-  10. Haushaltsführungsschaden [X] Std × EUR [Y]  EUR ______
+ 7. Schmerzensgeld § 253 Abs. 2 BGB EUR ______
+ 8. Heilbehandlungskosten lt. Belege EUR ______
+ 9. Verdienstausfall netto [X] Tage EUR ______
+ 10. Haushaltsführungsschaden [X] Std × EUR [Y] EUR ______
 
 D. NEBENKOSTEN
-  11. Unkostenpauschale (Telefon, Porto, Fahrtkosten) EUR 30,00
-  12. Rechtsanwaltsgebühren (außergerichtlich)
-      1,3 Geschäftsgebühr Nr. 2300 VV RVG aus EUR ____
-      + Auslagenpauschale Nr. 7002 VV                EUR ______
+ 11. Unkostenpauschale (Telefon, Porto, Fahrtkosten) EUR 30,00
+ 12. Rechtsanwaltsgebühren (außergerichtlich)
+ 1,3 Geschäftsgebühr Nr. 2300 VV RVG aus EUR ____
+ + Auslagenpauschale Nr. 7002 VV EUR ______
 
-GESAMTSCHADEN BRUTTO                              EUR ______
+GESAMTSCHADEN BRUTTO EUR ______
 
 ANZUWENDENDE HAFTUNGSQUOTE
-Gegnerisch [X %] × EUR [Gesamtschaden]           EUR ______
+Gegnerisch [X %] × EUR [Gesamtschaden] EUR ______
 
-davon bereits reguliert                          - EUR ______
+davon bereits reguliert - EUR ______
 
-RESTFORDERUNG                                     EUR ______
+RESTFORDERUNG EUR ______
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)

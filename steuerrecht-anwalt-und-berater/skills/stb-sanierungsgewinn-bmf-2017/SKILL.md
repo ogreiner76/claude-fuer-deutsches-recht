@@ -32,7 +32,7 @@ Das BMF-Schreiben vom 27.04.2017 ist die Verwaltungsanweisung, die den früheren
 - **§ 7b GewStG** — Gewerbesteuer.
 - **§ 89 AO** — verbindliche Auskunft.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Vier Voraussetzungen im BMF-Schreiben konkretisiert
 
@@ -83,32 +83,32 @@ im Sinne § 3a Abs. 1 EStG sind nach Maßgabe des BMF-Schreibens
 vom 27.04.2017 (BStBl. I [..., Seite ...]) erfüllt:
 
 1. Sanierungsbedürftigkeit
-   Die Mandantin wies in den Jahren [X-3] bis [X-1] eine
-   Verlustreihe von kumuliert EUR [Betrag] aus. Die
-   integrierte Liquiditätsplanung zeigt einen Liquiditäts-
-   Bedarf von EUR [...] bis [Stichtag], der ohne Sanierung
-   nicht gedeckt werden konnte (Anlage 1).
+ Die Mandantin wies in den Jahren [X-3] bis [X-1] eine
+ Verlustreihe von kumuliert EUR [Betrag] aus. Die
+ integrierte Liquiditätsplanung zeigt einen Liquiditäts-
+ Bedarf von EUR [...] bis [Stichtag], der ohne Sanierung
+ nicht gedeckt werden konnte (Anlage 1).
 
 2. Sanierungsfähigkeit
-   Das IDW S 6-Konzept des Sanierungsberaters
-   [Name] vom [Datum] (Anlage 4) weist die Fortführung
-   bei Durchführung der vorgeschlagenen Maßnahmen aus.
-   Die integrierte Planung für [24 Monate ab Stichtag]
-   ist Teil des Konzepts.
+ Das IDW S 6-Konzept des Sanierungsberaters
+ [Name] vom [Datum] (Anlage 4) weist die Fortführung
+ bei Durchführung der vorgeschlagenen Maßnahmen aus.
+ Die integrierte Planung für [24 Monate ab Stichtag]
+ ist Teil des Konzepts.
 
 3. Sanierungsabsicht der Gläubiger
-   Die Gläubiger [...] haben mit Schreiben vom [Datum]
-   ausdrücklich erklärt, dass der jeweilige Verzicht
-   "zum Zweck der Sanierung der Mandantin" erfolgt
-   (Anlagen 3.1 bis 3.n). Diese Formulierung entspricht
-   der Konkretisierung in Abschnitt [...] des BMF-
-   Schreibens 27.04.2017.
+ Die Gläubiger [...] haben mit Schreiben vom [Datum]
+ ausdrücklich erklärt, dass der jeweilige Verzicht
+ "zum Zweck der Sanierung der Mandantin" erfolgt
+ (Anlagen 3.1 bis 3.n). Diese Formulierung entspricht
+ der Konkretisierung in Abschnitt [...] des BMF-
+ Schreibens 27.04.2017.
 
 4. Sanierungseignung
-   Die im Maßnahmenkatalog (Anlage 5) quantifizierten
-   Maßnahmen führen nach den Planungen zu einer
-   Verbesserung der Eigenkapitalquote von [X] % auf
-   [Y] %; die Liquiditätsdeckungslücke wird geschlossen.
+ Die im Maßnahmenkatalog (Anlage 5) quantifizierten
+ Maßnahmen führen nach den Planungen zu einer
+ Verbesserung der Eigenkapitalquote von [X] % auf
+ [Y] %; die Liquiditätsdeckungslücke wird geschlossen.
 
 Wir bitten um steuerbefreite Festsetzung in Höhe von
 EUR [Betrag] gem. § 3a Abs. 1 EStG.

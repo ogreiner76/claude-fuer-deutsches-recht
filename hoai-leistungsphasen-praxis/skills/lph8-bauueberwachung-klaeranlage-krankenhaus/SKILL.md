@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-klaeranlage-krankenhaus
-description: "Nutze dies, wenn Lph8 Bauueberwachung Klaeranlage Becken Dichtigkeit, Lph8 Bauueberwachung Krankenhaus Rein Raum, Lph8 Bauueberwachung Logistikhalle Bodenplatte, Lph8 Bauueberwachung Maengelmeldung Sap Pm, Lph8 Bauueberwachung Mauerwerk Fugenbild und 13 weitere Themen im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Lph8 Bauueberwachung Klaeranlage Becken Dichtigkeit, Lph8 Bauueberwachung Krankenhaus Rein Raum, Lph8 Bauueberwachung Logistikhalle Bodenplatte, Lph8 Bauueberwachung Maengelmeldung Sap Pm, Lph8 Bauueberwachung Mauerwerk Fugenbild und 13 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Lph8 Bauueberwachung Klaeranlage Becken Dichtigkeit, Lph8 Bauueberwachung Krankenhaus Rein Raum, Lph8 Bauueberwachung Logistikhalle Bodenplatte, Lph8 Bauueberwachung Maengelmeldung Sap Pm, Lph8 Bauueberwachung Mauerwerk Fugenbild und 13 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lph8 Bauueberwachung Klaeranlage Becken Dichtigkeit, Lph8 Bauueberwachung Krankenhaus Rein Raum, Lph8 Bauueberwachung Logistikhalle Bodenplatte, Lph8 Bauueberwachung Maengelmeldung Sap Pm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lph8 Bauueberwachung Klaeranlage Becken Dichtigkeit, Lph8 Bauueberwachung Krankenhaus Rein Raum, Lph8 Bauueberwachung Logistikhalle Bodenplatte, Lph8 Bauueberwachung Maengelmeldung Sap Pm, Lph8 Bauueberwachung Mauerwerk Fugenbild und 13 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lph8 Bauueberwachung Klaeranlage Becken Dichtigkeit, Lph8 Bauueberwachung Krankenhaus Rein Raum, Lph8 Bauueberwachung Logistikhalle Bodenplatte, Lph8 Bauueberwachung Maengelmeldung Sap Pm, Lph8 Bauueberwachung Mauerwerk Fugenbild und 13 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `lph8-bauueberwachung-klaeranlage-becken-dichtigkeit` | Bauueberwachung HOAI LPH 8 fuer Klaeranlage-Becken mit Fokus auf Dichtigkeitspruefungen nach DIN EN 1610, WU-Beton nach DIN 1045-2 WU-Richtlinie 2017, Betonschutzanstriche gegen H2S-Angriff, Rissbreitenkartierung und Fugenband-Einbaukontrolle. Umfasst VOB/C-Abnahme, SAP-PM-Mangelverfolgung und Drohnen-Thermografie fuer Dichtigkeitskontrolle an Klaerbecken bis 50.000 EW. |
 | `lph8-bauueberwachung-krankenhaus-rein-raum` | Bauueberwachung nach HOAI LPH 8 fuer Krankenhausneubauten und Reinraum-Operationsbereiche — Lueftungsanlagen Reinraumklassen nach DIN 1946-4, Hygieneanforderungen Estriche und Oberflaechen nach TRBA 100 und RKI-Empfehlung, Medienversorgung (Sauerstoff, Druckluft, Vakuum) nach DIN 13260 sowie Strahlenschutz-Bauteile nach StrlSchV. Praxisnahe Koordination mit SAP PM und BIM360. |
 | `lph8-bauueberwachung-logistikhalle-bodenplatte` | Bauueberwachung nach HOAI LPH 8 fuer Logistikhallen mit hochbelasteten Industriebodenplatten — Freiflaechen-Beton nach DIN EN 13670 und TR Industrieboden, Ebenheitsanforderungen nach DIN 18202 Tabelle 3, Fugenloses Verlegen und Hartstoff-Einstreutechnik. Unterstuetzt Bauueberwacher bei Betongueteprotokollen, Ebenheitsmessungen und SAP-PM-Integration fuer Logistikbetreiber. |
-| `lph8-bauueberwachung-maengelmeldung-sap-pm` | Methodikskill HOAI LPH 8 — Vollstaendiger Workflow fuer Maengelmeldungen in SAP Plant Maintenance PM. Umfasst Meldungsarten M1-M3, Equipment-Nummernstruktur aus Bau-Objektbaum, Schadens- und Ursachencodes nach Normen, Prioritaeten und Faelligkeiten nach VOB/B § 13, Workflows PM-Meldung bis PM-Auftrag mit Ausfuehrungs-Ueberwachung, Integration PlanRadar-SAP-PM via REST-API sowie Abschluss-Meldung und Kostenstellenzuordnung bei HOAI-LPH-8-Projekten. |
+| `lph8-bauueberwachung-maengelmeldung-sap-pm` | Methodikskill HOAI LPH 8 — Vollstaendiger fuer Maengelmeldungen in SAP Plant Maintenance PM. Umfasst Meldungsarten M1-M3, Equipment-Nummernstruktur aus Bau-Objektbaum, Schadens- und Ursachencodes nach Normen, Prioritaeten und Faelligkeiten nach VOB/B § 13, Workflows PM-Meldung bis PM-Auftrag mit Ausfuehrungs-Ueberwachung, Integration PlanRadar-SAP-PM via REST-API sowie Abschluss-Meldung und Kostenstellenzuordnung bei HOAI-LPH-8-Projekten. |
 | `lph8-bauueberwachung-mauerwerk-fugenbild` | Bauueberwachung HOAI LPH 8 fuer Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation fuer spaetere Schadensrekonstruktion. |
 | `lph8-bauueberwachung-mehrfamilienhaus-effh` | Bauueberwachung nach HOAI LPH 8 fuer Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung. |
 | `lph8-bauueberwachung-museum-denkmal-restaurierung` | Bauueberwachung nach HOAI LPH 8 fuer Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar. |
@@ -286,7 +286,7 @@ Abnahmeprotokoll Logistikbodenplatte. Fotodokumentation Einbau und Fugenraster.
 
 ## 4. `lph8-bauueberwachung-maengelmeldung-sap-pm`
 
-**Fokus:** Methodikskill HOAI LPH 8 — Vollstaendiger Workflow fuer Maengelmeldungen in SAP Plant Maintenance PM. Umfasst Meldungsarten M1-M3, Equipment-Nummernstruktur aus Bau-Objektbaum, Schadens- und Ursachencodes nach Normen, Prioritaeten und Faelligkeiten nach VOB/B § 13, Workflows PM-Meldung bis PM-Auftrag mit Ausfuehrungs-Ueberwachung, Integration PlanRadar-SAP-PM via REST-API sowie Abschluss-Meldung und Kostenstellenzuordnung bei HOAI-LPH-8-Projekten.
+**Fokus:** Methodikskill HOAI LPH 8 — Vollstaendiger fuer Maengelmeldungen in SAP Plant Maintenance PM. Umfasst Meldungsarten M1-M3, Equipment-Nummernstruktur aus Bau-Objektbaum, Schadens- und Ursachencodes nach Normen, Prioritaeten und Faelligkeiten nach VOB/B § 13, Workflows PM-Meldung bis PM-Auftrag mit Ausfuehrungs-Ueberwachung, Integration PlanRadar-SAP-PM via REST-API sowie Abschluss-Meldung und Kostenstellenzuordnung bei HOAI-LPH-8-Projekten.
 
 # Maengelmeldung und SAP Plant Maintenance in der Bauueberwachung LPH 8
 
@@ -304,7 +304,7 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 2. Meldungsarten konfigurieren: M1 Instandhaltungsanforderung fuer planmaessige Pruefungen, M2 Stoerungsmeldung fuer unplanmaessige Maengel, M3 Aktivitaetenmeldung fuer erledigte Arbeiten
 3. Schadenscode-Katalog erstellen: Nach DIN 31051 und DIN EN 13306, Codes K001-K099 Bauwerk, A001-A099 Abdichtung, E001-E099 Elektro, B001-B099 Boden
 4. Prioritaetskatalog festlegen: Prio 1 sofortige Sicherheitsmassnahme 24 h, Prio 2 baubetrieblich kritisch T+3, Prio 3 dokumentierter Mangel T+14 nach VOB/B Fristen
-5. Workflow PM-Auftrag-Abschluss: Meldung MACO Status angelegt, Auftrag erstellt AUFTR, Ausfuehrung gemessen ABGE, Technische Meldung RÜCKG, PM-Auftrag abgeschlossen ABGE
+5. PM-Auftrag-Abschluss: Meldung MACO Status angelegt, Auftrag erstellt AUFTR, Ausfuehrung gemessen ABGE, Technische Meldung RÜCKG, PM-Auftrag abgeschlossen ABGE
 6. Kostenstellen-Zuordnung: Kostenstelle nach Buchungskreis Projekt, PM-Auftrag verknuepft mit PS-Vorgang, Kosten fliessen automatisch in Projektabrechnung
 
 ## Normen und Rechtsrahmen
@@ -321,7 +321,7 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 1. Meldungsfeld-Vollstaendigkeit: Equipment-Nr, Meldungsart, Meldungsdatum, Kurzbeschreibung, Schadenscode, Ursachencode, Prioritaet, Kostenstelle, Foto-Anhang
 2. Faelligkeits-Kontrolle: Taeglich Auswertung offene Meldungen nach Faelligkeit, Eskalation bei Ueberschreitung Prio-1 an Projektleitung
 3. Massnahmen-Protokoll: Jede Massnahme im PM-Auftrag dokumentiert, Ausfuehrender, Datum, Stunden, Materialien, Abschlussfreigabe Bauueberwacher
-4. AN-Stellungnahme Frist: VOB/B § 13 Abs. 5 Frist zur Mangelbeseitigung angemessen, Erinnerung automatisch via SAP-Workflow T-3 Tage
+4. AN-Stellungnahme Frist: VOB/B § 13 Abs. 5 Frist zur Mangelbeseitigung angemessen, Erinnerung automatisch via SAP-T-3 Tage
 5. Foto-Pflicht: Mindestens 3 Fotos je Meldung Ueberblick-Detail-Kontext, Aufnahmedatum kongruent zum Meldungsdatum
 6. Abschluss-Pruefung: Nachkontrolle Bauueberwacher nach Mangelbeseitigung, Foto Abschluss, technische Meldung SAP PM Status E0004
 
@@ -336,10 +336,10 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 ## Meldungserstellung im ERP / SAP
 
 - Meldungsart M2 Standard-Prozess: Transaktionscode IW21, Equipment-Nr aus IFC-Baum, Meldungskurztext max. 40 Zeichen, Schadenscode aus Katalog Z001, Ursachencode Z002, Fotos als GOS-Anhang
-- Prioritaetssetzung: Prioritaet 1 sofort in Transaktionscode IW72 an Projektleiter weiterleiten, Auto-E-Mail-Benachrichtigung, Eskalations-Workflow nach 2 h ohne Reaktion
+- Prioritaetssetzung: Prioritaet 1 sofort in Transaktionscode IW72 an Projektleiter weiterleiten, Auto-E-Mail-Benachrichtigung, Eskalations-nach 2 h ohne Reaktion
 - Kostenstellen-Buchung: Mangelbeseitigungs-Kosten auf Auftragsart ZM01 Bau-Maengel, automatische Kostenstellenbuchung nach Ausfuehrung und Abschluss PM-Auftrag
 - PM-Auftrag aus Meldung: Transaktionscode IW32 Auftrag erstellen, Vorgaenge mit Arbeitsplan und Material-Bedarf, Kapazitaetsplanung Gewerk-Verantwortlicher
-- Workflow Eskalation: Meldung offen nach Faelligkeit -> automatischer E-Mail Projektleiter -> Nachfrist 48 h -> Eskalation Geschaeftsfuehrer -> VOB-Selbstvornahme-Mahnung
+- Eskalation: Meldung offen nach Faelligkeit -> automatischer E-Mail Projektleiter -> Nachfrist 48 h -> Eskalation Geschaeftsfuehrer -> VOB-Selbstvornahme-Mahnung
 
 ## Typische Fallstricke
 

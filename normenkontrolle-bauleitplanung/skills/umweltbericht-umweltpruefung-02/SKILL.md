@@ -1,13 +1,13 @@
 ---
 name: umweltbericht-umweltpruefung-02
-description: "Nutze dies, wenn Umweltbericht Umweltpruefung, Veraenderungssperre Zurueckstellung 14 15 Baugb, Vorhabenbezogener Bebauungsplan 12 Baugb im Plugin Normenkontrolle Bauleitplanung konkret bearbeitet werden soll. Auslöser: Bitte Umweltbericht Umweltpruefung, Veraenderungssperre Zurueckstellung 14 15 Baugb, Vorhabenbezogener Bebauungsplan 12 Baugb prüfen.; Erstelle eine Arbeitsfassung zu Umweltbericht Umweltpruefung, Veraenderungssperre Zurueckstellung 14 15 Baugb, Vorhabenbezogener Bebauungsplan 12 Baugb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Umweltbericht Umweltpruefung, Veraenderungssperre Zurueckstellung 14 15 Baugb, Vorhabenbezogener Bebauungsplan 12 Baugb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Umweltbericht Umweltpruefung, Veraenderungssperre Zurueckstellung 14 15 Baugb, Vorhabenbezogener Bebauungsplan 12 Baugb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Umweltbericht Umweltpruefung, Veraenderungssperre Zurueckstellung 14 15 Baugb, Vorhabenbezogener Bebauungsplan 12 Baugb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `umweltbericht-umweltpruefung` | Mandant greift Bebauungsplan wegen unzureichender Umweltprüfung oder fehlendem Umweltbericht an. § 2 Abs. 4 BauGB § 2a BauGB Umweltbericht. Prüfraster: Schutzgueter nach Anhang 1 BauGB Mensch Tiere Pflanzen Boden Wasser Luft Klima Landschaft Kultur Nullvariante Alternativen FFH-Vertraeglichkeit § 1a Abs. 4 BauGB. Beschleunigtes Verfahren § 13a BauGB ohne Umweltprüfung. Output: Umweltprüfungs-Audit und Angriffspunkte Normenkontrolle. Abgrenzung zu artenschutz-naturschutz-planung (Artenschutz) und beteiligung-frueh-foermlich. |
 | `veraenderungssperre-zurueckstellung-14-15-baugb` | Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo. |
-| `vorhabenbezogener-bebauungsplan-12-baugb` | Workflow-Skill zu vorhabenbezogener bebauungsplan 12 baugb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `vorhabenbezogener-bebauungsplan-12-baugb` | Arbeitsmodul zu vorhabenbezogener bebauungsplan 12 baugb: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -463,7 +463,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `vorhabenbezogener-bebauungsplan-12-baugb`
 
-**Fokus:** Workflow-Skill zu vorhabenbezogener bebauungsplan 12 baugb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu vorhabenbezogener bebauungsplan 12 baugb: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Vorhabenbezogener Bebauungsplan § 12 BauGB
 

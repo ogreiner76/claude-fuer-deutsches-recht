@@ -1,13 +1,13 @@
 ---
 name: datenraum-aufbau-datenraum-gap
-description: "Nutze dies, wenn Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -158,62 +158,62 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 1. CORPORATE
-   1.1 Handelsregisterauszuege und Satzung
-   1.2 Gesellschaftervertraege / Shareholders Agreement
-   1.3 Organigramm und Beteiligungsstruktur
-   1.4 Gesellschafterbeschluesse (letzte 3 Jahre)
-   1.5 Vollmachten und Zeichnungsberechtigungen
-   1.6 Transparenzregister-Auszug
+ 1.1 Handelsregisterauszuege und Satzung
+ 1.2 Gesellschaftervertraege / Shareholders Agreement
+ 1.3 Organigramm und Beteiligungsstruktur
+ 1.4 Gesellschafterbeschluesse (letzte 3 Jahre)
+ 1.5 Vollmachten und Zeichnungsberechtigungen
+ 1.6 Transparenzregister-Auszug
 
 2. FINANZEN
-   2.1 Jahresabschluesse (letzte 3 Jahre) — ggf. mit Pruefungsvermerk
-   2.2 Quartalsberichte / Zwischenabschluesse
-   2.3 Budget / Forecast laufendes Jahr
-   2.4 Bankverbindlichkeiten, Kreditvertraege, Sicherheiten
+ 2.1 Jahresabschluesse (letzte 3 Jahre) — ggf. mit Pruefungsvermerk
+ 2.2 Quartalsberichte / Zwischenabschluesse
+ 2.3 Budget / Forecast laufendes Jahr
+ 2.4 Bankverbindlichkeiten, Kreditvertraege, Sicherheiten
 
 3. WESENTLICHE VERTRAEGE
-   3.1 Kundenstamm-Vertraege (Top 10)
-   3.2 Lieferantenvertraege (wesentlich)
-   3.3 JV-Vertraege, Lizenzvertraege
-   3.4 Finanzierungsvertraege (Banken, Gesellschafter)
-   3.5 Miet- und Pachtvertraege Immobilien
+ 3.1 Kundenstamm-Vertraege (Top 10)
+ 3.2 Lieferantenvertraege (wesentlich)
+ 3.3 JV-Vertraege, Lizenzvertraege
+ 3.4 Finanzierungsvertraege (Banken, Gesellschafter)
+ 3.5 Miet- und Pachtvertraege Immobilien
 
 4. PERSONAL / HR [RESTRICTED — nur genehmigter Bieterkreis]
-   4.1 Schluesselarbeitsvertraege (anonymisiert)
-   4.2 Betriebsvereinbarungen und Tarifvertraege
-   4.3 Pensionszusagen / bAV
-   4.4 Organigramm mit Funktionen (keine Namen)
+ 4.1 Schluesselarbeitsvertraege (anonymisiert)
+ 4.2 Betriebsvereinbarungen und Tarifvertraege
+ 4.3 Pensionszusagen / bAV
+ 4.4 Organigramm mit Funktionen (keine Namen)
 
 5. INTELLECTUAL PROPERTY / IT
-   5.1 Marken, Patente, Schutzrechte
-   5.2 Lizenzvertraege (in-bound/out-bound)
-   5.3 Software-Vertraege; Open-Source-Inventar
+ 5.1 Marken, Patente, Schutzrechte
+ 5.2 Lizenzvertraege (in-bound/out-bound)
+ 5.3 Software-Vertraege; Open-Source-Inventar
 
 6. LEGAL / LITIGATION
-   6.1 Laufende Rechtsstreitigkeiten und Schiedsverfahren
-   6.2 Behoerdenkorrespondenz (kartellrechtlich, regulatorisch)
-   6.3 Versicherungsdeckung (D&O, Haftpflicht, Produkthaftung)
+ 6.1 Laufende Rechtsstreitigkeiten und Schiedsverfahren
+ 6.2 Behoerdenkorrespondenz (kartellrechtlich, regulatorisch)
+ 6.3 Versicherungsdeckung (D&O, Haftpflicht, Produkthaftung)
 
 7. COMPLIANCE
-   7.1 Compliance-Richtlinien
-   7.2 GwG / AML-Pruefungsberichte
-   7.3 Zertifikate (ISO, ESG)
-   7.4 Behoerdenerlaubnisse und Lizenzen
+ 7.1 Compliance-Richtlinien
+ 7.2 GwG / AML-Pruefungsberichte
+ 7.3 Zertifikate (ISO, ESG)
+ 7.4 Behoerdenerlaubnisse und Lizenzen
 
 8. STEUER
-   8.1 Steuererklaerungen (letzte 3 Jahre)
-   8.2 Betriebspruefungsberichte
-   8.3 Steuerliche Bescheide (Vorauszahlungen, Stundungen)
+ 8.1 Steuererklaerungen (letzte 3 Jahre)
+ 8.2 Betriebspruefungsberichte
+ 8.3 Steuerliche Bescheide (Vorauszahlungen, Stundungen)
 
 9. IMMOBILIEN [falls relevant]
-   9.1 Grundbuchauszuege
-   9.2 Gutachten
-   9.3 Umweltgutachten / Altlasten
+ 9.1 Grundbuchauszuege
+ 9.2 Gutachten
+ 9.3 Umweltgutachten / Altlasten
 
 10. SONSTIGES
-    10.1 Versicherungsvertraege
-    10.2 Presseberichte
-    10.3 Sonstiges
+ 10.1 Versicherungsvertraege
+ 10.2 Presseberichte
+ 10.3 Sonstiges
 ```
 
 ## Clean-Room-Konzept

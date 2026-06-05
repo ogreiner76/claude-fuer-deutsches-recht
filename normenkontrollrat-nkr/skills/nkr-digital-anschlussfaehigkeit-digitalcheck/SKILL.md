@@ -1,20 +1,20 @@
 ---
 name: nkr-digital-anschlussfaehigkeit-digitalcheck
-description: "Nutze dies, wenn Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg prüfen.; Erstelle eine Arbeitsfassung zu Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Digital Anschlussfaehigkeit Tauglich, Nkr Digitalcheck Und Onlinezugangsgesetz Ozg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-digital-anschlussfaehigkeit-tauglich` | Pruefskill Digitaltauglichkeit. Adressiert die seit 2022 geltende Pflicht zum Digitalcheck (Bundesregelungsvorhaben muessen digital praktikabel sein) und die OZG-Anschlussfaehigkeit. Mit Standardpruefraster Anschluss an bestehende Standards (XOEV FIM ELSTER beA) Once-Only-Prinzip Schnittstellen Datenformate. Mustertexte zur Stellungnahme. |
-| `nkr-digitalcheck-und-onlinezugangsgesetz-ozg` | Spezialskill OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG fuer Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen fuer die Stellungnahme. |
+| `nkr-digitalcheck-und-onlinezugangsgesetz-ozg` | Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG fuer Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen fuer die Stellungnahme. |
 
 ## Arbeitsweg
 
@@ -166,7 +166,7 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 
 ## 2. `nkr-digitalcheck-und-onlinezugangsgesetz-ozg`
 
-**Fokus:** Spezialskill OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG fuer Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen fuer die Stellungnahme.
+**Fokus:** Fachmodul OZG und Digitalcheck. Beschreibt das Onlinezugangsgesetz die OZG-Leistungen den Portalverbund das Once-Only-Prinzip und die ab dem 1. Januar 2023 anwendbare Digitalcheck-Methodik nach § 4 Abs. 3 i.V.m. § 9 NKRG fuer Bundesregelungsvorhaben. Mit Schnittstellen-Checkliste FIM XOEV ELSTER beA und Standardbausteinen fuer die Stellungnahme.
 
 # NKR-Digitalcheck und Onlinezugangsgesetz (OZG)
 

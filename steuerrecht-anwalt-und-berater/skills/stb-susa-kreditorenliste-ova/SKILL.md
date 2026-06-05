@@ -60,12 +60,12 @@ Die Kreditoren-Saldenliste zeigt alle Verbindlichkeiten gegenueber Lieferanten. 
 KREDITOREN-OPOS-LISTE
 Stichtag: [Datum]
 
-Konto    Lieferant         Saldo EUR   Faelligkeit   Skonti-Frist   Bemerkung
-70001    [Lieferant A]     8.500       In 5 Tagen    Skonti -2%     Skonti bis [Datum]
-70002    [Lieferant B]     12.000      Ueberfaellig  —              Liefersperre droht
-70003    [Lieferant C]     2.300       In 25 Tagen   —              Normal
+Konto Lieferant Saldo EUR Faelligkeit Skonti-Frist Bemerkung
+70001 [Lieferant A] 8.500 In 5 Tagen Skonti -2% Skonti bis [Datum]
+70002 [Lieferant B] 12.000 Ueberfaellig — Liefersperre droht
+70003 [Lieferant C] 2.300 In 25 Tagen — Normal
 ...
-SUMME                      [X]
+SUMME [X]
 ```
 
 ### Phase 3 — Faelligkeitsstaffel

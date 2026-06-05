@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-vergaberecht-aufklaerung
-description: "Nutze dies, wenn Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Fachanwalt Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Fachanwalt Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung
 ## Aufgabe
 Schadensersatz nach abgeschlossenem Vergabeverfahren geltend machen oder abwehren. Anspruchsgrundlage je nach Konstellation § 181 GWB, §§ 280, 311 BGB i. V. m. § 241 Abs. 2 BGB, ggf. § 826 BGB bei Vorsatz.
 
-## Kaltstart
+## Einstieg
 1. Vergabeverfahren bereits abgeschlossen (Zuschlag erteilt oder Verfahren aufgehoben)?
 2. Schadensbegehren: Vertrauensschaden (negatives Interesse) oder positives Interesse?
 3. Gab es VK- oder OLG-Verfahren mit Rechtsverletzungs-Feststellung?
@@ -278,25 +278,25 @@ Mit freundlichen Gruessen
 
 ```
 Schritt 1: Liegt Mandat ueber EU-Schwellenwert? (§ 106 GWB)
-  → NEIN: UVgO-Bereich; keine § 160-Pflicht; aber Ruege dennoch empfohlen
-  → JA: weiter zu Schritt 2
+ → NEIN: UVgO-Bereich; keine § 160-Pflicht; aber Ruege dennoch empfohlen
+ → JA: weiter zu Schritt 2
 
 Schritt 2: Wann Kenntnis vom Verstoss?
-  → Aus Bekanntmachung/Vergabeunterlagen: Ruege bis Angebotsabgabe
-  → Sonstige: 10 Tage ab Kenntnis (§ 160 Abs. 3 Nr. 1 GWB)
+ → Aus Bekanntmachung/Vergabeunterlagen: Ruege bis Angebotsabgabe
+ → Sonstige: 10 Tage ab Kenntnis (§ 160 Abs. 3 Nr. 1 GWB)
 
 Schritt 3: Frist noch offen?
-  → JA: Ruege sofort erheben
-  → NEIN: Praeklusionsrisiko; Nachpruefungsantrag unzulaessig; Schadensersatz § 181 GWB pruefen
+ → JA: Ruege sofort erheben
+ → NEIN: Praeklusionsrisiko; Nachpruefungsantrag unzulaessig; Schadensersatz § 181 GWB pruefen
 
 Schritt 4: Ruege erhoben — Reaktion Auftraggeber?
-  → Abhilfe: Verfahren beobachten; keine weiteren Schritte noetig
-  → Zurueckweisung: 15-Tage-Frist Nachpruefungsantrag § 160 Abs. 3 Nr. 4 GWB
-  → Schweigen > 10 Tage: Nachpruefungsantrag pruefen
+ → Abhilfe: Verfahren beobachten; keine weiteren Schritte noetig
+ → Zurueckweisung: 15-Tage-Frist Nachpruefungsantrag § 160 Abs. 3 Nr. 4 GWB
+ → Schweigen > 10 Tage: Nachpruefungsantrag pruefen
 
 Schritt 5: Zuschlag erteilt?
-  → Vor Zuschlag: Nachpruefungsantrag + Antrag Vorabentscheidung § 169 GWB
-  → Nach Zuschlag: § 135 GWB Unwirksamkeit oder § 181 GWB Schadensersatz
+ → Vor Zuschlag: Nachpruefungsantrag + Antrag Vorabentscheidung § 169 GWB
+ → Nach Zuschlag: § 135 GWB Unwirksamkeit oder § 181 GWB Schadensersatz
 ```
 
 ### Normen-Kette Ruegeverfahren

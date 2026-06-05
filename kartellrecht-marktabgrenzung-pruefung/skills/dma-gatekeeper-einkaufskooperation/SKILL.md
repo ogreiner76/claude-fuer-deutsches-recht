@@ -1,13 +1,13 @@
 ---
 name: dma-gatekeeper-einkaufskooperation
-description: "Nutze dies, wenn Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb prüfen.; Erstelle eine Arbeitsfassung zu Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dma Und Gatekeeper Markt, Einkaufskooperation Nachfragemacht, Einstweiliger Rechtsschutz Kartellrecht, Elastizitaeten Diversion Ratios, Energiekartellrecht Netz Und Vertrieb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -96,9 +96,9 @@ Stand 05/2026. Verfahrensstand und konkrete Aktenzeichen tagesaktuell über [bun
 - EK, DMA-Designierungen vom 06.09.2023: Alphabet, Amazon, Apple, ByteDance, Meta, Microsoft (insgesamt 22 Kernplattformdienste); ergänzende Designierung Booking vom 13.05.2024. Pflichten der DMA gelten seit 07.03.2024. X wurde im Designierungsverfahren nicht als Gatekeeper für sein soziales Netzwerk eingestuft. Verifikation [digital-markets-act.ec.europa.eu/gatekeepers](https://digital-markets-act.ec.europa.eu/gatekeepers_en).
 - BKartA-Adressatfeststellungen § 19a GWB: Alphabet/Google (2021/2023), Meta (2022), Amazon (2022), Apple (2023), Microsoft (2023) — BGH-Bestätigung Amazon und Apple (Aktenzeichen live verifizieren).
 - BKartA-Maßnahmen 2025 (§ 19a Abs. 2 GWB):
-  - Google Automotive Services / Maps Platform: Verpflichtungszusagen seit Februar 2025 zu standalone-lizenzierbaren Diensten mit Interoperabilität.
-  - Apple Tracking-Regeln: vorläufige Beurteilung Februar 2025 — Tendenz Verbot.
-  - Amazon Preiskontrollmechanismen: vorläufige Beurteilung Juni 2025.
+ - Google Automotive Services / Maps Platform: Verpflichtungszusagen seit Februar 2025 zu standalone-lizenzierbaren Diensten mit Interoperabilität.
+ - Apple Tracking-Regeln: vorläufige Beurteilung Februar 2025 — Tendenz Verbot.
+ - Amazon Preiskontrollmechanismen: vorläufige Beurteilung Juni 2025.
 - DSA-Durchsetzung: EU-Kommission, vorläufige Bewertung April 2026 zu Meta (Kinderschutz auf Instagram/Facebook) — Aktenzeichen live über [ec.europa.eu DSA](https://digital-services-act.ec.europa.eu/) verifizieren.
 - EuGH, Urt. v. 02.12.2025 — C-492/23 (Russmedia) — Verhältnis DSGVO/DSA: DSGVO geht DSA vor; kein Hosting-Privileg bei DSGVO-Verstößen.
 

@@ -79,7 +79,7 @@ Verlauf darstellen: Wann begann die Verschlechterung? Welche Therapien wurden ve
 ### Schritt 4 — Widerspruch
 
 ```
-Deutsche Rentenversicherung [Traeger]               [Ort, Datum]
+Deutsche Rentenversicherung [Traeger] [Ort, Datum]
 
 Versicherungs-Nr: [...]
 
@@ -89,26 +89,26 @@ Sehr geehrte Damen und Herren,
 
 gegen den o.g. Bescheid lege ich
 
-           Widerspruch
+ Widerspruch
 
 ein.
 
 Vorlaeufige Begruendung:
 
 1. Versicherungsrechtliche Voraussetzungen erfuellt
-   - Wartezeit 5 Jahre erfuellt seit [Datum]
-   - 3 Jahre Pflichtbeitraege in den letzten 5 Jahren vor [Datum der Erwerbsminderung]
+ - Wartezeit 5 Jahre erfuellt seit [Datum]
+ - 3 Jahre Pflichtbeitraege in den letzten 5 Jahren vor [Datum der Erwerbsminderung]
 
 2. Medizinische Voraussetzungen
-   - Diagnosen: [Liste mit ICD-Codes]
-   - Aktuelles Leistungsvermoegen: weniger als 3 Stunden taeglich
-   - Belege: Atteste meines Hausarztes Dr. [Name] vom [Datum] und Facharztes Dr. [Name] vom [Datum]
+ - Diagnosen: [Liste mit ICD-Codes]
+ - Aktuelles Leistungsvermoegen: weniger als 3 Stunden taeglich
+ - Belege: Atteste meines Hausarztes Dr. [Name] vom [Datum] und Facharztes Dr. [Name] vom [Datum]
 
 3. Verschlossener Teilzeitarbeitsmarkt (hilfsweise)
-   Sollte ein Leistungsvermoegen von 3 bis unter 6 Stunden angenommen werden, ist der Teilzeitarbeitsmarkt fuer mich verschlossen.
+ Sollte ein Leistungsvermoegen von 3 bis unter 6 Stunden angenommen werden, ist der Teilzeitarbeitsmarkt fuer mich verschlossen.
 
 4. Berufsschutz § 240 SGB VI (falls Jahrgang vor 02.01.1961)
-   Berufsschutz ist gegeben.
+ Berufsschutz ist gegeben.
 
 Beigefuegt:
 - Aerztliche Befundberichte

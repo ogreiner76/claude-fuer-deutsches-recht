@@ -1,19 +1,19 @@
 ---
 name: zugewinn-tod-tod-umgangsregelung
-description: "Nutze dies, wenn Spezial Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle prüfen.; Erstelle eine Arbeitsfassung zu Spezial Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle
+# Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-zugewinn-formular-portal-und-einreichung` | Zugewinn: Formular, Portal und Einreichungslogik im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-zugewinn-formular-portal-und-einreichung` | Zugewinn: Formular, Portal und Einreichungslogik im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `tod-eines-ehegatten-anpassung-37-ff-versausglg` | Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `tod-nach-rechtskraft-vor-umsetzung` | Tod nach Rechtskraft vor Umsetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `umgangsregelung-mustervorlagen` | Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden. Normen: § 1684 BGB (Umgang Eltern), § 1685 BGB (Umgang Dritte), § 1697a BGB (Kindeswohl-Massstab), § 89 FamFG (Vollstreckung Ordnungsmittel), § 165 FamFG (Vermittlungsverfahren). Prüfraster: Wochenend-/Ferien-/Feiertagsregelungen, Wechselmodell vs. Residenzmodell, Begleitumgang, Vollstreckbarkeit. Output Umgangsregelungs-Mustervorlagen. Abgrenzung: Kindeswohlgefaehrdung Eilantrag siehe fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag; Mediation siehe fachanwalt-familienrecht-mediation-156-famfg-cochemer. |
@@ -21,14 +21,14 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen, Unterhalt Duesseldorfer Tabelle** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-familienrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-zugewinn-formular-portal-und-einreichung`
 
-**Fokus:** Zugewinn: Formular, Portal und Einreichungslogik im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Zugewinn: Formular, Portal und Einreichungslogik im Familienrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Zugewinn: Formular, Portal und Einreichungslogik
 
@@ -42,7 +42,7 @@ Für **Spezial Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anp
 
 
 ## Spezialwissen: Zugewinn: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Zugewinn: Formular, Portal und Einreichungslogik / spezial zugewinn formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Zugewinn: Formular, Portal und Einreichungslogik / zugewinn formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FamFG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -267,25 +267,25 @@ Lebensmittelpunkt bei der Mutter / dem Vater.
 Der Vater / die Mutter hat Umgang mit dem Kind:
 a) Jeden zweiten Freitag ab 17:00 Uhr bis Sonntag 19:00 Uhr
 b) Jede zweite Woche mittwochs von 15:00 Uhr bis 19:00 Uhr
-   (oder Schulschluss bis 19:00 Uhr)
+ (oder Schulschluss bis 19:00 Uhr)
 
 § 3 Schulferien
 a) Die Sommerferien werden hälftig geteilt; erste Hälfte
-   jährlich wechselnd
+ jährlich wechselnd
 b) Die Osterferien werden hälftig geteilt; Ostersonntag
-   und -montag im jährlichen Wechsel
+ und -montag im jährlichen Wechsel
 c) Die Herbstferien (1 Woche) im Wechseljahr ganz beim
-   anderen Elternteil
+ anderen Elternteil
 d) Die Weihnachtsferien: erste Hälfte (Heiligabend bis
-   27.12.) im Wechseljahr, zweite Hälfte entsprechend
+ 27.12.) im Wechseljahr, zweite Hälfte entsprechend
 
 § 4 Feiertage und Geburtstage
 a) Heiligabend bis 14:00 Uhr bei Elternteil A, ab 14:00
-   Uhr bei Elternteil B; jährlich wechselnd
+ Uhr bei Elternteil B; jährlich wechselnd
 b) Ostern: Ostersonntag bei Elternteil A (gerades Jahr),
-   Elternteil B (ungerades Jahr)
+ Elternteil B (ungerades Jahr)
 c) Geburtstag des Kindes: Wechseljahr; Abholung 14:00 Uhr,
-   Rückbringung 19:00 Uhr
+ Rückbringung 19:00 Uhr
 d) Muttertag / Vatertag: beim jeweiligen Elternteil
 
 § 5 Holen und Bringen
@@ -325,10 +325,10 @@ Umfang bei beiden Elternteilen.
 
 § 2 Wochen-Rhythmus
 a) Woche A: Das Kind lebt bei Elternteil A
-   (Sonntag 18:00 Uhr bis Sonntag 18:00 Uhr der Folgewoche)
+ (Sonntag 18:00 Uhr bis Sonntag 18:00 Uhr der Folgewoche)
 b) Woche B: Das Kind lebt bei Elternteil B (alternierend)
 c) Übergabe: Sonntags 18:00 Uhr am Wohnort des übergebenden
-   Elternteils
+ Elternteils
 
 § 3 Ferien
 a) Sommerferien: je eine Hälfte; Beginn nach Wochenrhythmus
@@ -379,9 +379,9 @@ kein direkter Kontakt der Eltern bei Übergabe.
 § 5 Überprüfung und Steigerung
 Nach [3 Monaten]: Überprüfung durch Familiengericht und
 Jugendamt. Bei positivem Verlauf Steigerung auf:
-  Stufe 2: 4 Stunden, 14-täglich
-  Stufe 3: Samstag 10–18 Uhr ohne Begleitung
-  Stufe 4: Übernachtung alle 2 Wochen
+ Stufe 2: 4 Stunden, 14-täglich
+ Stufe 3: Samstag 10–18 Uhr ohne Begleitung
+ Stufe 4: Übernachtung alle 2 Wochen
 
 § 6 Abbruchklausel
 Bei erneuten Vorkommnissen Rückstufung oder Aussetzung
@@ -394,9 +394,9 @@ durch Familiengericht nach § 1684 Abs. 4 BGB.
 
 ```
 Während der Stillzeit / Eingewöhnungsphase in Kita:
-  — Umgang zunächst täglich 2 Stunden tagsüber bei Mutter
-  — Übernachtung frühestens ab [Alter] Monate
-  — Erweiterung monatlich besprechen
+ — Umgang zunächst täglich 2 Stunden tagsüber bei Mutter
+ — Übernachtung frühestens ab [Alter] Monate
+ — Erweiterung monatlich besprechen
 ```
 
 ### Krankheitsklausel
@@ -412,21 +412,21 @@ nachgeholt soweit Kind fit.
 ```
 Auslandsreisen jedes Elternteils mit dem Kind ins
 Nicht-EU-Ausland:
-  — Schriftliche Zustimmung des anderen Elternteils
-  — Reisedauer und Zielland angeben
-  — Reisepass des Kindes beim betreuenden Elternteil
-  — Pass-Herausgabe nur für Reisedauer
+ — Schriftliche Zustimmung des anderen Elternteils
+ — Reisedauer und Zielland angeben
+ — Reisepass des Kindes beim betreuenden Elternteil
+ — Pass-Herausgabe nur für Reisedauer
 ```
 
 ### Kommunikations-Klausel
 
 ```
 Während des Umgangs:
-  — Telefonat mit dem anderen Elternteil: einmal täglich
-    maximal 10 Minuten
-  — Keine dauernde Erreichbarkeits-Anforderung
-  — Kein Gespräch über Unterhalts- oder Sorgestreit im
-    Beisein des Kindes
+ — Telefonat mit dem anderen Elternteil: einmal täglich
+ maximal 10 Minuten
+ — Keine dauernde Erreichbarkeits-Anforderung
+ — Kein Gespräch über Unterhalts- oder Sorgestreit im
+ Beisein des Kindes
 ```
 
 ## Vollstreckbarkeit

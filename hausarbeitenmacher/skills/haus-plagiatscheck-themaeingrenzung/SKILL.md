@@ -1,13 +1,13 @@
 ---
 name: haus-plagiatscheck-themaeingrenzung
-description: "Nutze dies, wenn Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Bitte Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen prüfen.; Erstelle eine Arbeitsfassung zu Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -158,22 +158,22 @@ Wenn der Streit nicht ergebnis-relevant ist (z.B. beide Meinungen kommen zum gle
 1. Streit-Punkt (Frage / These)
 
 2. Erste Position
-   a) Auffassung
-   b) Argumente / Begründung
-   c) Quellen-Belege
+ a) Auffassung
+ b) Argumente / Begründung
+ c) Quellen-Belege
 
 3. Zweite Position (Mindermeinung / Gegen-Auffassung)
-   a) Auffassung
-   b) Argumente / Begründung
-   c) Quellen-Belege
+ a) Auffassung
+ b) Argumente / Begründung
+ c) Quellen-Belege
 
 4. ggf. weitere Positionen
 
 5. Stellungnahme
-   a) Welche Argumente überzeugen mehr?
-   b) Welche Position erscheint mit Begründung
-      tragfähiger?
-   c) Welches Ergebnis im konkreten Fall?
+ a) Welche Argumente überzeugen mehr?
+ b) Welche Position erscheint mit Begründung
+ tragfähiger?
+ c) Welches Ergebnis im konkreten Fall?
 ```
 
 ## Schritt 3 — Wendungen
@@ -226,7 +226,7 @@ und gerecht Denkenden verstößt.
 Argumente:
 - Der Wortlaut "sittenwidrig" verlangt qualifizierten Unwert.
 - Systematisch ist § 826 BGB als Auffang-Norm konzipiert,
-  die nicht das Normalmaß rechtswidriger Schädigung erfasst.
+ die nicht das Normalmaß rechtswidriger Schädigung erfasst.
 - Telos: Schutz vor besonders verwerflicher Schädigung.
 
 **Eine Mindermeinung** [Nachweis: Wagner, in:
@@ -237,10 +237,10 @@ wirtschaftliche Schadens-Verfolgung erfassen.
 
 Argumente:
 - Der Schutz-Zweck des § 826 BGB könne nur
-  durch erweiterte Auslegung erreicht werden.
+ durch erweiterte Auslegung erreicht werden.
 - Die Praxis kennt zahlreiche Fall-Gruppen, in denen
-  schon "kaufmännische" Härte als sittenwidrig
-  bewertet wurde.
+ schon "kaufmännische" Härte als sittenwidrig
+ bewertet wurde.
 
 **Stellungnahme**:
 

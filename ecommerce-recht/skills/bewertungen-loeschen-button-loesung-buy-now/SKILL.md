@@ -1,13 +1,13 @@
 ---
 name: bewertungen-loeschen-button-loesung-buy-now
-description: "Nutze dies, wenn Bewertungen Loeschen Lassen, Button Loesung 312J Bgb, Buy Now Pay Later Verbraucherkredit im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Bewertungen Loeschen Lassen, Button Loesung 312J Bgb, Buy Now Pay Later Verbraucherkredit prüfen.; Erstelle eine Arbeitsfassung zu Bewertungen Loeschen Lassen, Button Loesung 312J Bgb, Buy Now Pay Later Verbraucherkredit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bewertungen Loeschen Lassen, Button Loesung 312j Bgb, Buy Now Pay Later Verbraucherkredit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bewertungen Loeschen Lassen, Button Loesung 312J Bgb, Buy Now Pay Later Verbraucherkredit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bewertungen Loeschen Lassen, Button Loesung 312J Bgb, Buy Now Pay Later Verbraucherkredit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -105,7 +105,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 - UWG § 3a, § 5a: Verstoß als unlautere Marktverhaltensregel.
 - EuGH C-249/21 (Fuhrmann-2): Buttontext muss eindeutig sein; "Buchung abschließen" nicht ausreichend.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Anwendungsbereich.** Verbraucher? Online-Bestellung? Entgeltliche Leistung?
 2. **Informationsbereich vor Button.** Zusammenfassende Ansicht mit Produkt, Menge, Preis (Gesamtpreis), Versandkosten, ggf. Mindestlaufzeit – unmittelbar lesbar, nicht hinter Tab/Akkordeon versteckt.

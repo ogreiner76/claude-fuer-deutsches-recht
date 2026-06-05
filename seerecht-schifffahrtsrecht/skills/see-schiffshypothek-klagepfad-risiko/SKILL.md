@@ -1,13 +1,13 @@
 ---
 name: see-schiffshypothek-klagepfad-risiko
-description: "Nutze dies, wenn See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen, See 034 Schiffbauwerk Arrest Vorbereiten im Plugin Seerecht Schifffahrtsrecht konkret bearbeitet werden soll. Auslöser: Bitte See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen, See 034 Schiffbauwerk Arrest Vorbereiten prüfen.; Erstelle eine Arbeitsfassung zu See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen, See 034 Schiffbauwerk Arrest Vorbereiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen, See 034 Schiffbauwerk Arrest Vorbereiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Prüfen, See 032 Schiffbauwerk Hypothek Bestellen, See 034 Schiffbauwerk Arrest Vorbereiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

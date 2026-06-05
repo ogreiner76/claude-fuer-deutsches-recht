@@ -1,13 +1,13 @@
 ---
 name: document-production-earn-out
-description: "Nutze dies, wenn Document Production 142 Zpo, Earn Out Accounting Dispute im Plugin Commercial Courts Deutschland konkret bearbeitet werden soll. Auslöser: Bitte Document Production 142 Zpo, Earn Out Accounting Dispute prüfen.; Erstelle eine Arbeitsfassung zu Document Production 142 Zpo, Earn Out Accounting Dispute.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Document Production 142 Zpo, Earn Out Accounting Dispute: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Document Production 142 Zpo, Earn Out Accounting Dispute
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Document Production 142 Zpo, Earn Out Accounting Dispute** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -40,7 +40,7 @@ Für **Document Production 142 Zpo, Earn Out Accounting Dispute** zuerst das Arb
 
 Dieser Skill unterstützt Verfahren vor deutschen Commercial Courts oder Commercial Chambers mit internationalem Wirtschaftsbezug. Er liefert eine prozessuale Arbeitsstruktur und, wenn gewünscht, englischen Output. Deutsches Prozessrecht bleibt der Rahmen; englische Sprache bedeutet nicht Common-Law-Verfahren.
 
-## Kaltstart
+## Einstieg
 
 Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
@@ -95,7 +95,7 @@ Vor echter Verwendung aktuelle Primärquellen prüfen: GVG, ZPO, einschlägige L
 
 Dieser Skill unterstützt Verfahren vor deutschen Commercial Courts oder Commercial Chambers mit internationalem Wirtschaftsbezug. Er liefert eine prozessuale Arbeitsstruktur und, wenn gewünscht, englischen Output. Deutsches Prozessrecht bleibt der Rahmen; englische Sprache bedeutet nicht Common-Law-Verfahren.
 
-## Kaltstart
+## Einstieg
 
 Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 

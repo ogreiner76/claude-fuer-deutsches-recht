@@ -1,13 +1,13 @@
 ---
 name: frist-sofortcheck-nachbar-bauverfahren
-description: "Nutze dies, wenn Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung prüfen.; Erstelle eine Arbeitsfassung zu Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -48,7 +48,7 @@ Behoerden setzen Fristen oder lassen Fristen entstehen (Rechtsbehelf, Aeusserung
 - **ZPO §§ 222 ff., BGB §§ 187, 188** Fristenberechnung (entsprechend).
 - **Wiedereinsetzung** § 60 VwGO, § 32 VwVfG.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Dokument datieren:** Bescheiddatum, Datum Posteingang/Zustellung.
 2. **Zugang ermitteln:** Bei einfachem Brief Zugangsfiktion 3 Werktage nach Absendung (§ 41 Abs. 2 VwVfG). Bei Zustellung: tatsaechlicher Tag der Zustellung.
 3. **Rechtsbehelfsbelehrung pruefen:** Vorhanden? Inhaltlich korrekt (Form, Frist, Behoerde/Gericht)? Bei Fehlern Jahresfrist § 58 Abs. 2 VwGO.
@@ -114,7 +114,7 @@ Behoerden setzen Fristen oder lassen Fristen entstehen (Rechtsbehelf, Aeusserung
 ## Aufgabe
 Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -161,7 +161,7 @@ Erklärt Anhörungsbogen, Betroffener, Aussageverweigerung, Fahrerfrage, Fristen
 - Verjährung: regelmäßig drei Monate nach § 26 Abs. 3 StVG bei Verkehrsordnungswidrigkeiten, unterbrochen durch Anhörung (§ 33 OWiG); nach Bescheid sechs Monate.
 - Praktiker-Tipp: Bei unklarer Identifikation oder Messunsicherheit keine Angaben machen; Akteneinsicht nach § 49 OWiG iVm § 147 StPO (über Anwalt). Einspruch kann ohne Begründung eingelegt werden, Beschränkung auf Rechtsfolgen möglich (§ 67 Abs. 2 OWiG).
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -201,7 +201,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft bei Gewerbeanmeldung, Erlaubnissen, IHK/HWK, Steuernummer, Nebengewerbe und Auflagen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

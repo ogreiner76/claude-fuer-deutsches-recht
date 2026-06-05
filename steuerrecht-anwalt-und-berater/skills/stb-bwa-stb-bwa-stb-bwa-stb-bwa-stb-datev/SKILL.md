@@ -1,13 +1,13 @@
 ---
 name: stb-bwa-stb-bwa-stb-bwa-stb-bwa-stb-datev
-description: "Nutze dies, wenn Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen, Stb Bwa Vorlaeufiges Ergebnis Darstellung und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -89,26 +89,26 @@ Rentabilitaetskennzahlen zeigen, wie effizient ein Unternehmen Kapital einsetzt.
 
 ```
 EIGENKAPITALRENDITE vor Steuern:
-  Jahresergebnis vor Steuern / Durchschnittliches Eigenkapital * 100
+ Jahresergebnis vor Steuern / Durchschnittliches Eigenkapital * 100
 
 EIGENKAPITALRENDITE nach Steuern:
-  Jahresueberschuss / Durchschnittliches Eigenkapital * 100
+ Jahresueberschuss / Durchschnittliches Eigenkapital * 100
 
 GESAMTKAPITALRENDITE (ROA, Return on Assets):
-  (Jahresergebnis vor Steuern + Zinsaufwand) / Durchschnittliche Bilanzsumme * 100
+ (Jahresergebnis vor Steuern + Zinsaufwand) / Durchschnittliche Bilanzsumme * 100
 
 RETURN ON INVESTMENT (ROI, DuPont):
-  Umsatzrentabilitaet * Kapitalumschlag
-  = (Gewinn/Umsatz) * (Umsatz/Bilanzsumme)
+ Umsatzrentabilitaet * Kapitalumschlag
+ = (Gewinn/Umsatz) * (Umsatz/Bilanzsumme)
 
 UMSATZRENTABILITAET:
-  Jahresergebnis / Umsatz * 100
+ Jahresergebnis / Umsatz * 100
 
 EBIT-MARGE:
-  EBIT / Umsatz * 100
+ EBIT / Umsatz * 100
 
 EBITDA-MARGE:
-  EBITDA / Umsatz * 100
+ EBITDA / Umsatz * 100
 ```
 
 ### Phase 3 — Schwellenwerte und Bewertung (Daumenregeln, branchenabhaengig)
@@ -538,24 +538,24 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ```
 LIQUIDITAET 1. GRADES (Barliquiditaet, Cash Ratio):
-  Liquide Mittel (Bank+Kasse) / kurzfristige Verbindlichkeiten
+ Liquide Mittel (Bank+Kasse) / kurzfristige Verbindlichkeiten
 
 LIQUIDITAET 2. GRADES (einbeziehbare Liquiditaet, Quick Ratio):
-  (Liquide Mittel + kurzfristige Forderungen) / kurzfristige Verbindlichkeiten
+ (Liquide Mittel + kurzfristige Forderungen) / kurzfristige Verbindlichkeiten
 
 LIQUIDITAET 3. GRADES (gesamte kurzfristige Liquiditaet, Current Ratio):
-  Umlaufvermoegen / kurzfristige Verbindlichkeiten
+ Umlaufvermoegen / kurzfristige Verbindlichkeiten
 
 WORKING CAPITAL:
-  Umlaufvermoegen minus kurzfristige Verbindlichkeiten
-  (sollte positiv sein; bei negativ = kritisches Signal)
+ Umlaufvermoegen minus kurzfristige Verbindlichkeiten
+ (sollte positiv sein; bei negativ = kritisches Signal)
 
 ANLAGENDECKUNG I:
-  Eigenkapital / Anlagevermoegen
+ Eigenkapital / Anlagevermoegen
 
 ANLAGENDECKUNG II:
-  (Eigenkapital + langfristiges Fremdkapital) / Anlagevermoegen
-  (sollte ueber 100 Prozent sein, sonst Fristenkongruenz verletzt)
+ (Eigenkapital + langfristiges Fremdkapital) / Anlagevermoegen
+ (sollte ueber 100 Prozent sein, sonst Fristenkongruenz verletzt)
 ```
 
 ### Phase 3 — Schwellenwerte und Ampel (typische Daumenregeln, branchenabhaengig)
@@ -839,14 +839,14 @@ Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungs
 ### Phase 3 — Vergleichstabelle erstellen
 
 ```
-| Position           | Monat aktuell | Monat Vorjahr | Abweichung EUR | Abweichung in Prozent |
+| Position | Monat aktuell | Monat Vorjahr | Abweichung EUR | Abweichung in Prozent |
 |--------------------|---------------|---------------|----------------|------------------------|
-| Umsatzerloese      | 125.000       | 110.000       | +15.000        | +13,6                  |
-| Materialeinsatz    | 45.000        | 42.000        | +3.000         | +7,1                   |
-| Personalkosten     | 38.000        | 35.500        | +2.500         | +7,0                   |
-| Sonstige Aufw.     | 18.000        | 17.500        | +500           | +2,9                   |
-| Abschreibungen     | 4.500         | 4.300         | +200           | +4,7                   |
-| Betriebsergebnis   | 19.500        | 10.700        | +8.800         | +82,2                  |
+| Umsatzerloese | 125.000 | 110.000 | +15.000 | +13,6 |
+| Materialeinsatz | 45.000 | 42.000 | +3.000 | +7,1 |
+| Personalkosten | 38.000 | 35.500 | +2.500 | +7,0 |
+| Sonstige Aufw. | 18.000 | 17.500 | +500 | +2,9 |
+| Abschreibungen | 4.500 | 4.300 | +200 | +4,7 |
+| Betriebsergebnis | 19.500 | 10.700 | +8.800 | +82,2 |
 ```
 
 Vorsicht: Im obigen Beispiel ist `13,6` nur in der Tabelle akzeptabel; in der Frontmatter-Description waere das verboten (Cowork-Validator-Bug). In Erlaeuterungstexten ausserhalb der Tabelle "13 Prozent" oder "rund 14 Prozent" formulieren.

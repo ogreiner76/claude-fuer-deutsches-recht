@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Biotechnologie und Laborsicherheit
-Ressort:            BMFTR
-Kernnormen:         GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.
-Akteure/Aufsicht:   Zentrale Kommission fuer die Biologische Sicherheit (ZKBS); BVL; BfR; Laender-Genehmigungen.
-EU/Voelkerrecht:    RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmftr; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Biotechnologie und Laborsicherheit
+Ressort: BMFTR
+Kernnormen: GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.
+Akteure/Aufsicht: Zentrale Kommission fuer die Biologische Sicherheit (ZKBS); BVL; BfR; Laender-Genehmigungen.
+EU/Voelkerrecht: RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Finanzmarktaufsicht (BaFin; KWG; WpIG)
-Ressort:            BMF
-Kernnormen:         KWG; ZAG; WpIG; WpHG; KAGB; VAG; FinDAG; FinStabG; SAG; BörsG.
-Akteure/Aufsicht:   BaFin; Deutsche Bundesbank; ESMA; EBA; EIOPA; FSB.
-EU/Voelkerrecht:    CRR; CRD; MiFID II; AIFMD; UCITS; PSD2 und PSD3; DORA; MiCA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmf; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Finanzmarktaufsicht (BaFin; KWG; WpIG)
+Ressort: BMF
+Kernnormen: KWG; ZAG; WpIG; WpHG; KAGB; VAG; FinDAG; FinStabG; SAG; BörsG.
+Akteure/Aufsicht: BaFin; Deutsche Bundesbank; ESMA; EBA; EIOPA; FSB.
+EU/Voelkerrecht: CRR; CRD; MiFID II; AIFMD; UCITS; PSD2 und PSD3; DORA; MiCA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

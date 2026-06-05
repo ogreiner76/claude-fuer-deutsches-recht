@@ -1,41 +1,41 @@
 ---
 name: verfolgungsgrund-gfk-visum-national
-description: "Nutze dies, wenn Spezial Verfolgungsgrund Gfk, Spezial Visum National D, Spezial Vulnerable Personen Asyl, Spezial Woche Mehrparteien Konflikt Und Interessen, Spezial Wohnsitzauflage im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verfolgungsgrund Gfk, Spezial Visum National D, Spezial Vulnerable Personen Asyl, Spezial Woche Mehrparteien Konflikt Und Interessen, Spezial Wohnsitzauflage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verfolgungsgrund Gfk, Spezial Visum National D, Spezial Vulnerable Personen Asyl, Spezial Woche Mehrparteien Konflikt Und Interessen, Spezial Wohnsitzauflage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verfolgungsgrund Gfk, Visum National D, Vulnerable Personen Asyl, Woche Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verfolgungsgrund Gfk, Spezial Visum National D, Spezial Vulnerable Personen Asyl, Spezial Woche Mehrparteien Konflikt Und Interessen, Spezial Wohnsitzauflage
+# Verfolgungsgrund Gfk, Visum National D, Vulnerable Personen Asyl, Woche Mehrparteien Konflikt Und Interessen, Wohnsitzauflage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verfolgungsgrund Gfk, Visum National D, Vulnerable Personen Asyl, Woche Mehrparteien Konflikt Und Interessen, Wohnsitzauflage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-verfolgungsgrund-gfk` | GFK-Verfolgungsgrund: Spezial-Skill im Migrationsrecht; prüft Religion, politische Überzeugung, soziale Gruppe, Nationalität und Rasse; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-visum-national-d` | Nationales Visum D: Spezial-Skill im Migrationsrecht; prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-vulnerable-personen-asyl` | Vulnerable Personen Asyl: Spezial-Skill im Migrationsrecht; prüft Minderjährige, Krankheit, Trauma, Folteropfer und Verfahrensgarantien; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-verfolgungsgrund-gfk` | GFK-Verfolgungsgrund: Fachmodul im Migrationsrecht; prüft Religion, politische Überzeugung, soziale Gruppe, Nationalität und Rasse; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-visum-national-d` | Nationales Visum D: Fachmodul im Migrationsrecht; prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-vulnerable-personen-asyl` | Vulnerable Personen Asyl: Fachmodul im Migrationsrecht; prüft Minderjährige, Krankheit, Trauma, Folteropfer und Verfahrensgarantien; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `spezial-woche-mehrparteien-konflikt-und-interessen` | Woche: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-wohnsitzauflage` | Wohnsitzauflage: Spezial-Skill im Migrationsrecht; prüft Verpflichtung, Änderung, Familie, Arbeit, Integration; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-wohnsitzauflage` | Wohnsitzauflage: Fachmodul im Migrationsrecht; prüft Verpflichtung, Änderung, Familie, Arbeit, Integration; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
-Für **Spezial Verfolgungsgrund Gfk, Spezial Visum National D, Spezial Vulnerable Personen Asyl, Spezial Woche Mehrparteien Konflikt Und Interessen, Spezial Wohnsitzauflage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verfolgungsgrund Gfk, Visum National D, Vulnerable Personen Asyl, Woche Mehrparteien Konflikt Und Interessen, Wohnsitzauflage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-verfolgungsgrund-gfk`
 
-**Fokus:** GFK-Verfolgungsgrund: Spezial-Skill im Migrationsrecht; prüft Religion, politische Überzeugung, soziale Gruppe, Nationalität und Rasse; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** GFK-Verfolgungsgrund: Fachmodul im Migrationsrecht; prüft Religion, politische Überzeugung, soziale Gruppe, Nationalität und Rasse; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # GFK-Verfolgungsgrund
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Religion, politische Überzeugung, soziale Gruppe, Nationalität und Rasse.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Religion, politische Überzeugung, soziale Gruppe, Nationalität und Rasse.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -64,14 +64,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Relig
 
 ## 2. `spezial-visum-national-d`
 
-**Fokus:** Nationales Visum D: Spezial-Skill im Migrationsrecht; prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Nationales Visum D: Fachmodul im Migrationsrecht; prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Nationales Visum D
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -100,14 +100,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Botsc
 
 ## 3. `spezial-vulnerable-personen-asyl`
 
-**Fokus:** Vulnerable Personen Asyl: Spezial-Skill im Migrationsrecht; prüft Minderjährige, Krankheit, Trauma, Folteropfer und Verfahrensgarantien; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Vulnerable Personen Asyl: Fachmodul im Migrationsrecht; prüft Minderjährige, Krankheit, Trauma, Folteropfer und Verfahrensgarantien; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Vulnerable Personen Asyl
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Minderjährige, Krankheit, Trauma, Folteropfer und Verfahrensgarantien.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Minderjährige, Krankheit, Trauma, Folteropfer und Verfahrensgarantien.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -141,7 +141,7 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Minde
 # Woche: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Woche: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Woche: Mehrparteienkonflikt und Interessenmatrix / spezial woche mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Woche: Mehrparteienkonflikt und Interessenmatrix / woche mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -184,14 +184,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-wohnsitzauflage`
 
-**Fokus:** Wohnsitzauflage: Spezial-Skill im Migrationsrecht; prüft Verpflichtung, Änderung, Familie, Arbeit, Integration; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Wohnsitzauflage: Fachmodul im Migrationsrecht; prüft Verpflichtung, Änderung, Familie, Arbeit, Integration; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Wohnsitzauflage
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Verpflichtung, Änderung, Familie, Arbeit, Integration.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Verpflichtung, Änderung, Familie, Arbeit, Integration.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?

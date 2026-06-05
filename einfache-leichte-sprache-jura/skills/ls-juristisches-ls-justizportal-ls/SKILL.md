@@ -1,13 +1,13 @@
 ---
 name: ls-juristisches-ls-justizportal-ls
-description: "Nutze dies, wenn Ls Juristisches Glossar Bauen, Ls Justizportal Prüfen Spezial, Ls Strafprozess Rechte Erklaeren Spezial im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Bitte Ls Juristisches Glossar Bauen, Ls Justizportal Prüfen Spezial, Ls Strafprozess Rechte Erklaeren Spezial prüfen.; Erstelle eine Arbeitsfassung zu Ls Juristisches Glossar Bauen, Ls Justizportal Prüfen Spezial, Ls Strafprozess Rechte Erklaeren Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ls Juristisches Glossar Bauen, Ls Justizportal Prüfen Spezial, Ls Strafprozess Rechte Erklaeren Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ls Juristisches Glossar Bauen, Ls Justizportal Prüfen Spezial, Ls Strafprozess Rechte Erklaeren Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ls Juristisches Glossar Bauen, Ls Justizportal Prüfen Spezial, Ls Strafprozess Rechte Erklaeren Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -84,7 +84,7 @@ Dieser Skill gehoert zum Plugin `einfache-leichte-sprache-jura`. Er ergaenzt die
 # LS: Justizportal-Spezial
 
 ## Spezialwissen: LS: Justizportal-Spezial
-- **Spezialgegenstand:** LS: Justizportal-Spezial / ls justizportal pruefen spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** LS: Justizportal-/ ls justizportal pruefen spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** LS.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

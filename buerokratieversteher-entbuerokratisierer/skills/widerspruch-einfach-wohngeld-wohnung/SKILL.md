@@ -1,13 +1,13 @@
 ---
 name: widerspruch-einfach-wohngeld-wohnung
-description: "Nutze dies, wenn Widerspruch Einfach, Wohngeld, Wohnung Und Obdachlosigkeit, Zahlung Stundung Raten im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Widerspruch Einfach, Wohngeld, Wohnung Und Obdachlosigkeit, Zahlung Stundung Raten prüfen.; Erstelle eine Arbeitsfassung zu Widerspruch Einfach, Wohngeld, Wohnung Und Obdachlosigkeit, Zahlung Stundung Raten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Widerspruch Einfach, Wohngeld, Wohnung Und Obdachlosigkeit, Zahlung Stundung Raten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Widerspruch Einfach, Wohngeld, Wohnung Und Obdachlosigkeit, Zahlung Stundung Raten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Widerspruch Einfach, Wohngeld, Wohnung Und Obdachlosigkeit, Zahlung Stundung Raten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -41,7 +41,7 @@ Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch stat
 - Aufschiebende Wirkung nach § 80 Abs. 1 VwGO Regel, Ausnahmen § 80 Abs. 2 (Abgaben, Polizei-/Ordnungsverfügungen mit Sofortvollzug, ausdrückliche Anordnung). Bei Sofortvollzug Antrag § 80 Abs. 5 VwGO ans Verwaltungsgericht.
 - Praktiker-Tipp: Erst nur fristwahrend einlegen ("Widerspruch wird eingelegt; Begründung folgt") — Begründung nach Akteneinsicht (§ 29 VwVfG). Mehrere Adressaten? Pro Bescheid separat.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -88,7 +88,7 @@ Hilft bei Wohngeldantrag, Mietstufe, Einkommen, Haushaltsmitglieder, Ablehnung, 
 - Antrag: schriftlich oder elektronisch bei kommunaler Wohngeldbehörde; rückwirkende Bewilligung nicht möglich, nur ab Antragsmonat (§ 25 WoGG); Bewilligungszeitraum regelmäßig 12 Monate.
 - Praktiker-Tipp: bei Ablehnung Widerspruch innerhalb eines Monats (§ 70 VwGO); Online-Wohngeldrechner für plausible Anspruchshöhe nutzen; bei Bürgergeld-Antragsteller Wohngeldprüfung gleichzeitig (Vorrangprinzip § 12a SGB II). Erhöhungsanträge bei Mietsteigerung sofort stellen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -128,7 +128,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Routet Wohnungsnotfall, Ordnungsamt, Sozialamt, Kündigung, Räumung und Eilrechtsschutz.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -168,7 +168,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Formuliert Stundungs-, Ratenzahlungs-, Erlass- oder Aussetzungsantrag bei Forderungen öffentlicher Stellen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

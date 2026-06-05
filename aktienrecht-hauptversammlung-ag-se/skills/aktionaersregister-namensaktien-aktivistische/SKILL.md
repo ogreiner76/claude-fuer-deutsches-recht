@@ -1,22 +1,22 @@
 ---
 name: aktionaersregister-namensaktien-aktivistische
-description: "Nutze dies, wenn Aktionaersregister Namensaktien, Aktivistische Aktionaere, Anfechtungsklage 243 Aktg, Aufsichtsratsbericht im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Aktionaersregister Namensaktien, Aktivistische Aktionaere, Anfechtungsklage 243 Aktg, Aufsichtsratsbericht prüfen.; Erstelle eine Arbeitsfassung zu Aktionaersregister Namensaktien, Aktivistische Aktionaere, Anfechtungsklage 243 Aktg, Aufsichtsratsbericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aktionaersregister Namensaktien, Aktivistische Aktionaere, Anfechtungsklage 243 Aktg, Aufsichtsratsbericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aktionaersregister Namensaktien, Aktivistische Aktionaere, Anfechtungsklage 243 Aktg, Aufsichtsratsbericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aktionaersregister Namensaktien, Aktivistische Aktionaere, Anfechtungsklage 243 Aktg, Aufsichtsratsbericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `aktionaersregister-namensaktien` | Hauptversammlung AG und SE: Aktionaersregister Namensaktien; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aktivistische-aktionaere` | Hauptversammlung AG und SE: Aktivistische Aktionaere; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `anfechtungsklage-243-aktg` | Hauptversammlung AG und SE: Anfechtungsklage 243 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsratsbericht` | Hauptversammlung AG und SE: Aufsichtsratsbericht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aktionaersregister-namensaktien` | Hauptversammlung AG und SE: Aktionaersregister Namensaktien; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aktivistische-aktionaere` | Hauptversammlung AG und SE: Aktivistische Aktionaere; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `anfechtungsklage-243-aktg` | Hauptversammlung AG und SE: Anfechtungsklage 243 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsratsbericht` | Hauptversammlung AG und SE: Aufsichtsratsbericht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Aktionaersregister Namensaktien, Aktivistische Aktionaere, Anfechtungskla
 
 ## 1. `aktionaersregister-namensaktien`
 
-**Fokus:** Hauptversammlung AG und SE: Aktionaersregister Namensaktien; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Aktionaersregister Namensaktien; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aktionaersregister Namensaktien
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `aktivistische-aktionaere`
 
-**Fokus:** Hauptversammlung AG und SE: Aktivistische Aktionaere; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Aktivistische Aktionaere; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aktivistische Aktionaere
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `anfechtungsklage-243-aktg`
 
-**Fokus:** Hauptversammlung AG und SE: Anfechtungsklage 243 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Anfechtungsklage 243 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Anfechtungsklage 243 Aktg
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `aufsichtsratsbericht`
 
-**Fokus:** Hauptversammlung AG und SE: Aufsichtsratsbericht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Aufsichtsratsbericht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsratsbericht
 

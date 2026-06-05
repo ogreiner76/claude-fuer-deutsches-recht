@@ -1,13 +1,13 @@
 ---
 name: aktenbestand-pflege-bea-versand
-description: "Nutze dies, wenn Aktenbestand Pflege, Bea Versand Prüfen im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Aktenbestand Pflege, Bea Versand Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Aktenbestand Pflege, Bea Versand Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aktenbestand Pflege, Bea Versand Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Aktenbestand Pflege, Bea Versand Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aktenbestand Pflege, Bea Versand Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -50,8 +50,8 @@ naechstes-ereignis-erwartet: 2026-06-20 (Berufungsbegründungsfrist)
 ruhend-seit: null
 abgeschlossen-am: null
 abgeschlossen-begruendung: null
-archivierung-faellig: null  # bei Abschluss berechnen: + 6 Jahre § 50 BRAO
-vernichtung-faellig: null  # 6 Jahre nach Mandatsende
+archivierung-faellig: null # bei Abschluss berechnen: + 6 Jahre § 50 BRAO
+vernichtung-faellig: null # 6 Jahre nach Mandatsende
 ```
 
 ## Mandatsende

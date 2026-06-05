@@ -1,13 +1,13 @@
 ---
 name: agb-kontrolle-factoringvertrag-rahmenvertrag
-description: "Nutze dies, wenn Agb Kontrolle Factoringklauseln B2B, Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherhe, Kündigung Rahmenvertrag Exit Und Rueckuebertragung im Plugin Factoring Recht konkret bearbeitet werden soll. Auslöser: Bitte Agb Kontrolle Factoringklauseln B2B, Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherhe, Kündigung Rahmenvertrag Exit Und Rueckuebertragung prüfen.; Erstelle eine Arbeitsfassung zu Agb Kontrolle Factoringklauseln B2B, Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherhe, Kündigung Rahmenvertrag Exit Und Rueckuebertragung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Agb Kontrolle Factoringklauseln B2b, Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherhe, Kündigung Rahmenvertrag Exit Und Rueckuebertragung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Agb Kontrolle Factoringklauseln B2B, Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherhe, Kündigung Rahmenvertrag Exit Und Rueckuebertragung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Agb Kontrolle Factoringklauseln B2B, Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherhe, Kündigung Rahmenvertrag Exit Und Rueckuebertragung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -68,7 +68,7 @@ Fragen zum Einstieg:
 - **§ 138 BGB**: Wucherische Vertragsgestaltung als äußerste Grenze.
 - **§ 242 BGB**: Treu und Glauben als ergänzender Kontrollmaßstab.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Vertragstyp einordnen**: Rahmenvertrag, Einzelankaufverträge, Annex-Sicherungsverträge.
 2. **AGB-Eigenschaft prüfen**: Vorformuliert? Mehrfach verwendet? Vom Factor gestellt?

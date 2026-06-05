@@ -1,19 +1,19 @@
 ---
 name: elektronische-bea-elektronischer-zugang
-description: "Nutze dies, wenn Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein im Plugin Bgb At Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein prüfen.; Erstelle eine Arbeitsfassung zu Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `elektronische-form-bea-qes-formfiktion` | Workflow-Skill zu elektronische form bea qes formfiktion. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `elektronische-form-bea-qes-formfiktion` | Arbeitsmodul zu elektronische form bea qes formfiktion: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `elektronischer-zugang-und-plattformen` | Prüft elektronischen Zugang von Willenserklärungen nach § 130 BGB: E-Mail-Postfach, Plattform-Postfächer, automatisierte Systeme, Zeitpunkt der Kenntnisnahmemöglichkeit und Empfangsbereitschaft im B2B- und B2C-Bereich. |
 | `erklaerungsbewusstsein-und-potentielles-bewusstsein` | Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung. |
 
@@ -26,7 +26,7 @@ Für **Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattfo
 
 ## 1. `elektronische-form-bea-qes-formfiktion`
 
-**Fokus:** Workflow-Skill zu elektronische form bea qes formfiktion. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu elektronische form bea qes formfiktion: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Elektronische Form BeA QES Formfiktion
 

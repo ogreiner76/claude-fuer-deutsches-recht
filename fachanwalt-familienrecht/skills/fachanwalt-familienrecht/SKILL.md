@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-familienrecht
-description: "Nutze dies, wenn Fachanwalt Familienrecht Kindeswohlgefaehrdung Eilantrag, Fachanwalt Familienrecht Mediation 156 Famfg Cochemer, Fachanwalt Familienrecht Orientierung, Fachanwalt Familienrecht Sbgg Personenstandswechsel Folgen, Fachanwalt Familienrecht Scheidungsantrag Stellen im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Familienrecht Kindeswohlgefaehrdung Eilantrag, Fachanwalt Familienrecht Mediation 156 Famfg Cochemer, Fachanwalt Familienrecht Orientierung, Fachanwalt Familienrecht Sbgg Personenstandswechsel Folgen, Fachanwalt Familienrecht Scheidungsantrag Stellen prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Familienrecht Kindeswohlgefaehrdung Eilantrag, Fachanwalt Familienrecht Mediation 156 Famfg Cochemer, Fachanwalt Familienrecht Orientierung, Fachanwalt Familienrecht Sbgg Personenstandswechsel Folgen, Fachanwalt Familienrecht Scheidungsantrag Stellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Familienrecht Kindeswohlgefaehrdung Eilantrag, Fachanwalt Familienrecht Mediation 156 Famfg Cochemer, Fachanwalt Familienrecht Orientierung, Fachanwalt Familienrecht Sbgg Personenstandswechsel Folgen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Familienrecht Kindeswohlgefaehrdung Eilantrag, Fachanwalt Familienrecht Mediation 156 Famfg Cochemer, Fachanwalt Familienrecht Orientierung, Fachanwalt Familienrecht Sbgg Personenstandswechsel Folgen, Fachanwalt Familienrecht Scheidungsantrag Stellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Familienrecht Kindeswohlgefaehrdung Eilantrag, Fachanwalt Familienrecht Mediation 156 Famfg Cochemer, Fachanwalt Familienrecht Orientierung, Fachanwalt Familienrecht Sbgg Personenstandswechsel Folgen, Fachanwalt Familienrecht Scheidungsantrag Stellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,9 +15,9 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag` | Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einstweilige Anordnung), § 8a SGB VIII (Jugendamt-Meldung), § 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen. |
 | `fachanwalt-familienrecht-mediation-156-famfg-cochemer` | Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell: Vermittlungsverfahren § 165 FamFG bei Umgangsverweigerung, ADR-Pfade (Familienmediation DGFM, Familiengerichts-Mediation § 278a ZPO analog, Cochemer Praxis), Hochkonflikt-Familien, Schutzklausel § 1666 BGB, interdisziplinäre Zusammenarbeit mit Jugendamt, BKKJ und Verfahrensbeistand, Beurkundung § 127a BGB, MediationsG, Kostentragung, Abgrenzung zur streitigen Entscheidung nach § 1684 BGB. |
-| `fachanwalt-familienrecht-orientierung` | Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Spezialskills. |
-| `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` | Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswechsel folgen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `fachanwalt-familienrecht-scheidungsantrag-stellen` | Workflow-Skill zu fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-familienrecht-orientierung` | Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Fachmodule. |
+| `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` | Arbeitsmodul zu fachanwalt familienrecht sbgg personenstandswechsel folgen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `fachanwalt-familienrecht-scheidungsantrag-stellen` | Arbeitsmodul zu fachanwalt familienrecht scheidungsantrag stellen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -140,7 +140,7 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 - Kind 3-14 Jahre: nach Verständnis-Fähigkeit
 - Verfahrensbeistand (Anwalt des Kindes) § 158 FamFG
 
-## 7) Workflow Eltern-Verteidigung
+## 7) Eltern-Verteidigung
 
 ### Schritt 1 — Sachverhaltsanalyse
 
@@ -170,7 +170,7 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 - Mit Anwalt
 - Kind-Anhörung beobachten
 
-## 8) Workflow Jugendamts-Klage / Eilantrag
+## 8) Jugendamts-Klage / Eilantrag
 
 ### Schritt 1 — Eilantrag § 49 FamFG
 
@@ -314,7 +314,7 @@ Weitere Entscheidungen aus Modellwissen nicht zitieren; vor Ausgabe über bundes
 
 ## Prüfschema § 156 FamFG
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
@@ -407,12 +407,12 @@ Die Beteiligten [Name 1] und [Name 2] haben in dem Mediationsverfahren
 folgende Vereinbarung getroffen:
 
 1. Umgang: Das Kind [Name], geb. [Datum], verbringt den Umgang mit
-   [Elternteil] wie folgt: [Regelung].
+ [Elternteil] wie folgt: [Regelung].
 
 2. Übergaben: Die Übergabe erfolgt [Ort/Modalitäten].
 
 3. Kommunikation: Die Eltern kommunizieren über [App/E-Mail] ausschließlich
-   zum Wohl des Kindes.
+ zum Wohl des Kindes.
 
 4. Überprüfung: Die Vereinbarung wird nach [6 Monaten] gemeinsam evaluiert.
 
@@ -535,7 +535,7 @@ Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (§ 4
 
 ## 3. `fachanwalt-familienrecht-orientierung`
 
-**Fokus:** Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Spezialskills.
+**Fokus:** Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Fachmodule.
 
 # Fachanwalt für Familienrecht — Orientierung
 
@@ -632,7 +632,7 @@ Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert d
 
 ## 4. `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen`
 
-**Fokus:** Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswechsel folgen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt familienrecht sbgg personenstandswechsel folgen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen
 
@@ -695,7 +695,7 @@ Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert d
 
 ## Prüfschema — SBGG-Verfahren und Familienrechtsfolgen
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
@@ -830,7 +830,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Anmeldung Personenstandswechsel beim Standesamt
 
 ```
-[Mandant Personalien]                            [Datum]
+[Mandant Personalien] [Datum]
 
 An das Standesamt [Ort]
 
@@ -842,10 +842,10 @@ hiermit melde ich gemäß § 2 Abs. 1 SBGG an, meinen
 Geschlechtseintrag im Geburtenregister zu ändern.
 
 Personalien:
-Geburtsname:    [Name]
-Geburtsdatum:   [Datum]
-Geburtsort:     [Ort]
-Anschrift:      [Adresse]
+Geburtsname: [Name]
+Geburtsdatum: [Datum]
+Geburtsort: [Ort]
+Anschrift: [Adresse]
 
 Bisheriger Geschlechtseintrag: [männlich / weiblich / divers]
 Gewünschter Geschlechtseintrag: [männlich / weiblich / divers / ohne Eintrag]
@@ -980,10 +980,10 @@ eines Vermittlungstermins innerhalb eines Monats.
 
 ## 5. `fachanwalt-familienrecht-scheidungsantrag-stellen`
 
-**Fokus:** Workflow-Skill zu fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt familienrecht scheidungsantrag stellen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Familienrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsmodul zu fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** BGB §§ 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG §§ 49 ff., 76, 86 ff., 112 ff.; VersAusglG §§ 1, 2, 5, 10 ff., 27, 51; GewSchG.
 - **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, § 51 VersAusglG, § 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
@@ -1036,7 +1036,7 @@ eines Vermittlungstermins innerhalb eines Monats.
 
 ## Prüfschema Scheidungsantrag
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -1177,9 +1177,9 @@ In der Familiensache [...]
 beantrage ich namens des/der Antragstellers/in:
 
 1. Die am [Datum] vor dem Standesamt [Ort] geschlossene Ehe der Beteiligten
-   wird geschieden.
+ wird geschieden.
 2. Es wird festgestellt, dass das Trennungsjahr gemäß § 1565 Abs. 2 BGB nicht
-   abgewartet werden muss.
+ abgewartet werden muss.
 
 BEGRÜNDUNG:
 

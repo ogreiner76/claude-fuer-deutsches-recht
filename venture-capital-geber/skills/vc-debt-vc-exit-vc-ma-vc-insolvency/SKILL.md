@@ -1,13 +1,13 @@
 ---
 name: vc-debt-vc-exit-vc-ma-vc-insolvency
-description: "Nutze dies, wenn Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis prüfen.; Erstelle eine Arbeitsfassung zu Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

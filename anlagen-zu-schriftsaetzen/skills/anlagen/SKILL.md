@@ -1,6 +1,6 @@
 ---
 name: anlagen
-description: "Nutze dies, wenn Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage prüfen.; Erstelle eine Arbeitsfassung zu Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage

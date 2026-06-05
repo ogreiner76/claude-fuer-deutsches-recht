@@ -1,13 +1,13 @@
 ---
 name: umwandlungssteuerrecht-tabellenreview
-description: "Nutze dies, wenn Mittelstand Corporate Ma Umwandlungssteuerrecht, Mittelstand Ma Tabellenreview, Rechtsabteilung Earn Out Bei Mittelstandsverkauf, Beirat Abgrenzung Aufsichtsrat im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Mittelstand Corporate Ma Umwandlungssteuerrecht, Mittelstand Ma Tabellenreview, Rechtsabteilung Earn Out Bei Mittelstandsverkauf, Beirat Abgrenzung Aufsichtsrat prüfen.; Erstelle eine Arbeitsfassung zu Mittelstand Corporate Ma Umwandlungssteuerrecht, Mittelstand Ma Tabellenreview, Rechtsabteilung Earn Out Bei Mittelstandsverkauf, Beirat Abgrenzung Aufsichtsrat.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mittelstand Corporate Ma Umwandlungssteuerrecht, Mittelstand Ma Tabellenreview, Rechtsabteilung Earn Out Bei Mittelstandsverkauf, Beirat Abgrenzung Aufsichtsrat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mittelstand Corporate Ma Umwandlungssteuerrecht, Mittelstand Ma Tabellenreview, Rechtsabteilung Earn Out Bei Mittelstandsverkauf, Beirat Abgrenzung Aufsichtsrat
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mittelstand Corporate Ma Umwandlungssteuerrecht, Mittelstand Ma Tabellenreview, Rechtsabteilung Earn Out Bei Mittelstandsverkauf, Beirat Abgrenzung Aufsichtsrat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,8 +15,8 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `mittelstand-corporate-ma-umwandlungssteuerrecht` | Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rückwirkung, § 8c KStG Verlustuntergang, GrESt-Ergaenzungstatbestand, Einbringung §§ 20-24 UmwStG. |
 | `mittelstand-ma-tabellenreview` | Kanzlei prüft Dokumente Tabellen Formeln und Datenpunkte für Corporate/M&A mit interner Review-Matrix aus drei Perspektiven: Recht Steuer Wirtschaft. Normen §§ 276 278 BGB Sorgfaltspflicht. Prüfraster Formel-Validierung Datenpunkt-Konsistenz Perspektiven-Abgleich Fehlermarkierung. Output Review-Matrix Fehlerliste Korrekturen. Abgrenzung zu tabellenreview-3d-datenraum (Datenraum-spezifisch) und datenqualitaet-xai (KI-Qualitaet). |
-| `rechtsabteilung-earn-out-bei-mittelstandsverkauf` | Rechtsabteilungs-Spezialskill für Earn-out bei Mittelstandsverkauf: Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `beirat-abgrenzung-aufsichtsrat` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `rechtsabteilung-earn-out-bei-mittelstandsverkauf` | Rechtsabteilungs-Fachmodul für Earn-out bei Mittelstandsverkauf: Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `beirat-abgrenzung-aufsichtsrat` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -282,7 +282,7 @@ Im Mittelstands-M&A liegen die Daten häufig in schlechter Qualität vor: Excel-
 ## Prüfschema / Review-Würfel (Mittelstand-angepasst)
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -344,17 +344,17 @@ NORMALISIERUNGS-MEMO — Projekt [Deal-Code]
 Datum: [TT.MM.JJJJ]
 Erstellt von: [Name]
 
-AUSGANGSPUNKT: EBITDA laut Jahresabschluss [Jahr]    EUR [X]
+AUSGANGSPUNKT: EBITDA laut Jahresabschluss [Jahr] EUR [X]
 
 NORMALISIERUNGEN:
 (+/-) GF-Gehalt über Marktlohn: Marktgehalt EUR [Y], tatsächlich EUR [Z],
-      Differenz EUR [Z-Y] — bereinigt: EUR [(Z-Y)] addieren/subtrahieren
+ Differenz EUR [Z-Y] — bereinigt: EUR [(Z-Y)] addieren/subtrahieren
 (+) Einmalige Restrukturierungskosten [Jahr]: EUR [A] — addieren
 (+) Nicht betriebsnotwendige Kfz-Kosten (privat genutzt): EUR [B] — addieren
 (-) Einmaliger Sonderertrag Grundstücksverkauf: EUR [C] — subtrahieren
 (-) Subventionen (nicht wiederkehrend): EUR [D] — subtrahieren
 
-BEREINIGTES EBITDA:                                  EUR [X + Korrekturen]
+BEREINIGTES EBITDA: EUR [X + Korrekturen]
 
 HINWEIS: Normalisierungen sind kaufpreisrelevant; Verkäufer um Bestätigung bitten.
 ```
@@ -422,7 +422,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 3. `rechtsabteilung-earn-out-bei-mittelstandsverkauf`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Earn-out bei Mittelstandsverkauf: Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Earn-out bei Mittelstandsverkauf: Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Earn-out bei Mittelstandsverkauf
 
@@ -478,7 +478,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `beirat-abgrenzung-aufsichtsrat`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Abgrenzung Aufsichtsrat
 

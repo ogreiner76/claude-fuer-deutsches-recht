@@ -59,7 +59,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 ## Prüfschema
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -184,23 +184,23 @@ Insolvenzreife-Status: § 17 InsO — Zahlungsunfähigkeit MÖGLICH
 DEAL-AUSWIRKUNGEN:
 
 1. MAC-Klausel (SPA Ziffer [X]):
-   Definition: "[MAC-Definition aus SPA]".
-   Einschätzung: Der festgestellte Liquiditätsrückgang von EUR [X] innerhalb von
-   [Y] Wochen könnte als MAC-Ereignis zu werten sein. Endgültige Entscheidung
-   erfordert Vergleich mit Ausgangszustand bei Signing (Anlage [X]).
-   TODO [Partner] bis [Datum]: MAC-Analyse abschließen.
+ Definition: "[MAC-Definition aus SPA]".
+ Einschätzung: Der festgestellte Liquiditätsrückgang von EUR [X] innerhalb von
+ [Y] Wochen könnte als MAC-Ereignis zu werten sein. Endgültige Entscheidung
+ erfordert Vergleich mit Ausgangszustand bei Signing (Anlage [X]).
+ TODO [Partner] bis [Datum]: MAC-Analyse abschließen.
 
 2. Closing Condition (SPA Ziffer [X]):
-   Garantie der Zahlungsfähigkeit bei Closing. Bei Zahlungsunfähigkeit ist Closing
-   Condition nicht erfüllt. Käufer kann Vollzug verweigern.
+ Garantie der Zahlungsfähigkeit bei Closing. Bei Zahlungsunfähigkeit ist Closing
+ Condition nicht erfüllt. Käufer kann Vollzug verweigern.
 
 3. W&I-Versicherung:
-   Police Ziffer [X] schließt Schäden aus, die auf Insolvenzreife beruhen.
-   TODO [W&I-Owner] bis [Datum]: W&I-Broker über Situation informieren.
+ Police Ziffer [X] schließt Schäden aus, die auf Insolvenzreife beruhen.
+ TODO [W&I-Owner] bis [Datum]: W&I-Broker über Situation informieren.
 
 4. Ordinary-Course-Covenant:
-   Geschäftsleitung darf ohne Käufer-Zustimmung keine außerordentlichen Zahlungen
-   > EUR [X] leisten. § 15b InsO-Risiko ist unabhängig davon zu beachten.
+ Geschäftsleitung darf ohne Käufer-Zustimmung keine außerordentlichen Zahlungen
+ > EUR [X] leisten. § 15b InsO-Risiko ist unabhängig davon zu beachten.
 ```
 
 --- vor Versand klaeren ---

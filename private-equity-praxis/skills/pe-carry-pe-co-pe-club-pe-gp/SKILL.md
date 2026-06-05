@@ -1,13 +1,13 @@
 ---
 name: pe-carry-pe-co-pe-club-pe-gp
-description: "Nutze dies, wenn Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund prüfen.; Erstelle eine Arbeitsfassung zu Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,7 +57,7 @@ Der Skill übersetzt Excel-Mechanik in juristische Kontrollpunkte und Governance
 
 LPA Sec. 6 / 7 typisch; KAGB-Anlagebedingungen (§ 67 KAGB); InvStG §§ 1, 20 ff.; § 18 Abs. 1 Nr. 4 EStG für Carry in Personengesellschaft (Carry-Privileg, 60 Prozent steuerpflichtig nach Teileinkünfteverfahren); BFH-Rechtsprechung zur Carry-Qualifikation (ständige Rechtsprechung; konkrete Aktenzeichen vom Anwender zu verifizieren); BMF-Schreiben zu Carried Interest (Stand vom Anwender zu prüfen); ATAD-Hybridregeln (§ 4k EStG); Pillar Two MinStG bei großen Sponsoren (>= 750 Mio. EUR konsolidierter Umsatz); Carry-Allocation arbeitsrechtlich und schenkungsteuerlich (ErbStG); GmbHG bei Management Carry GmbH.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Waterfall-Architektur fixieren (European vs. American) — entscheidet über Cashflow-Sequenz und Clawback-Risiko.
 2. Stufen definieren: (a) Rückführung LP-Einlagen, (b) Pref/Hurdle 8 % p.a., (c) Catch-Up 100 % GP bis 80/20, (d) 80/20-Split.
@@ -160,7 +160,7 @@ Der Skill liefert die Struktur für Co-Investments neben dem Hauptfonds. Klassis
 
 KAGB-Scope (Co-Invest-SPV ist typisch kein AIF, sondern Holding-Vehikel, soweit kein Pooling im Sinne § 1 Abs. 1 KAGB); BGB/HGB (GbR, GmbH & Co. KG); AktG/GmbHG für Target-Governance; Shareholders Agreement (SHA) zwischen Sponsor-Fonds und Co-Invest-SPV; KAGB-Anlagebedingungen für Allocation-Policy; AWG/AWV § 55 ff. (FDI ab 10/20/25 Prozent Stimmrechte je nach Sektor); GWB §§ 35 ff. / FKVO (Zusammenrechnung bei Sponsor-Kontrolle); FSR (Verordnung (EU) 2022/2560); Tax: Schachtelprivileg § 8b KStG, Pillar Two MinStG.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Co-Invest-Eligibility im LPA prüfen; Allocation Policy dokumentieren.
 2. SPV strukturieren: meist GmbH & Co. KG mit Sponsor-Komplementär-GmbH; LUX SCSp bei internationalen Co-Investoren.
@@ -254,7 +254,7 @@ Der Skill macht aus losem Investorenchat eine belastbare Konsortialstruktur. Clu
 
 BGB §§ 705 ff. GbR (Standardfallunte häufig stillschweigende GbR); GmbHG/AktG für SPV-Struktur; § 13 ff. HGB Kommanditgesellschaft; Joint Venture Agreement / Consortium Agreement; GWB § 1 / Art. 101 AEUV (Kartellrecht bei Wettbewerber-Konsortien); FKVO bei Kontrollerwerb; MAR (VO (EU) 596/2014) Art. 7, 14, 17 bei börsennotiertem Target; AktG §§ 33 ff. WpÜG bei börsennotiertem Target (Bieterprivileg); Berücksichtigung Bewertungs-Spread bei Step-Up-Akquisitionen; Schiedsklausel (DIS / ICC).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Konsortium-Mitglieder identifizieren, KYC-Status klären, AnlV/VAG-Restriktionen prüfen.
 2. Erwerbsstruktur fixieren: gemeinsames BidCo (Standard) oder parallele Investments mit Pooling-Agreement.
@@ -352,7 +352,7 @@ Der Skill begleitet GP-led Secondaries: ein Sponsor (GP) richtet einen Continuat
 
 KAGB §§ 281 ff. (Spezial-AIF); Treuepflichten des GP / fiduciary duties; § 26 KAGB (Auslagerung / Conflict Management); ESG-Disclosure SFDR; ILPA GP-Led Secondaries Guidance (Stand 2022/2023, vom Anwender mit aktuellem Stand zu prüfen); BVK / EVCA Best Practice (vom Anwender zu prüfen); BaFin-Erwartung an Conflict-of-Interest-Management (Stand vom Anwender zu prüfen); LPA des auslaufenden Fonds (LPAC-Genehmigung, Bewertungsklauseln); SEC Private Fund Adviser Rules (US, falls US-LPs beteiligt — Update vom Anwender zu prüfen).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Vorab-Sondierung mit Lead-Secondary-Buyer und Investment Bank (typisch H1 vor Closing der GP-led).
 2. LPAC informieren und initiale Zustimmung einholen (Process Approval, nicht Pricing Approval).

@@ -1,13 +1,13 @@
 ---
 name: spuerbarkeit-zwischenstaatlichkeit-ssnip-test
-description: "Nutze dies, wenn Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb prüfen.; Erstelle eine Arbeitsfassung zu Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Spuerbarkeit Und Zwischenstaatlichkeit, Ssnip Test Anwendung, State Aid Eu Interface, Trade Association Antitrust, Transaktionswertschwelle 35 Abs 1A Gwb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,8 +15,8 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spuerbarkeit-und-zwischenstaatlichkeit` | Spürbarkeit und Zwischenstaatlichkeit: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `ssnip-test-anwendung` | Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein hypothetischer Monopolist profitabel Preise um 5 bis 10 Prozent erhoehen koennte. Wendet Small but Significant Non-transitory Increase in Price Hypothetischer-Monopolisten-Test an. Normen EU-Bekanntmachung Marktdefinition 2024 § 18 GWB Art. 102 AEUV FKVO 139/2004. Prüfraster kritische Verlustanalyse Cellophane-Fallacy-Risiko Datenbasis Preiselastizitaet. Output SSNIP-Test-Memo mit Marktdefinitions-Ergebnis und methodischer Bewertung. Abgrenzung: elastizitaeten-diversion-ratios für vertiefte oekonometrische Analyse. |
-| `state-aid-eu-interface` | EU State Aid Schnittstelle: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Beihilfen, IPCEI, Services of General Economic Interest und nationale Förderungen erkennen, Evidenz, Fristen, Strategie und Quellen. |
-| `trade-association-antitrust` | Verbände und Kartellrecht: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Verbandsarbeit, Tagesordnung, Protokoll, Statistik, Empfehlungen und Boykottgefahr absichern, Evidenz, Fristen, Strategie und Quellen. |
+| `state-aid-eu-interface` | EU State Aid Schnittstelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Beihilfen, IPCEI, Services of General Economic Interest und nationale Förderungen erkennen, Evidenz, Fristen, Strategie und Quellen. |
+| `trade-association-antitrust` | Verbände und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Verbandsarbeit, Tagesordnung, Protokoll, Statistik, Empfehlungen und Boykottgefahr absichern, Evidenz, Fristen, Strategie und Quellen. |
 | `transaktionswertschwelle-35-abs-1a-gwb` | Transaktionswertschwelle § 35 Abs 1a GWB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
 ## Arbeitsweg
@@ -112,8 +112,8 @@ Fragen:
 Quantitativer Ansatz — Kritische-Verlust-Analyse:
 ```
 Kritischer Verlustanteil = m / (m + Δp)
-  m = Deckungsbeitrag / Preis (vor Erhöhung)
-  Δp = relative Preiserhöhung (z.B. 0,05)
+ m = Deckungsbeitrag / Preis (vor Erhöhung)
+ Δp = relative Preiserhöhung (z.B. 0,05)
 ```
 Ist der tatsächliche Verlust kleiner als der kritische Verlust → Erhöhung profitabel → Markt bestätigt.
 
@@ -159,7 +159,7 @@ Begründung: [...]
 
 ## 3. `state-aid-eu-interface`
 
-**Fokus:** EU State Aid Schnittstelle: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Beihilfen, IPCEI, Services of General Economic Interest und nationale Förderungen erkennen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** EU State Aid Schnittstelle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Beihilfen, IPCEI, Services of General Economic Interest und nationale Förderungen erkennen, Evidenz, Fristen, Strategie und Quellen.
 
 # EU State Aid Schnittstelle
 
@@ -209,7 +209,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `trade-association-antitrust`
 
-**Fokus:** Verbände und Kartellrecht: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Verbandsarbeit, Tagesordnung, Protokoll, Statistik, Empfehlungen und Boykottgefahr absichern, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Verbände und Kartellrecht: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Verbandsarbeit, Tagesordnung, Protokoll, Statistik, Empfehlungen und Boykottgefahr absichern, Evidenz, Fristen, Strategie und Quellen.
 
 # Verbände und Kartellrecht
 

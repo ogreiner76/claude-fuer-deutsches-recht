@@ -1,13 +1,13 @@
 ---
 name: chatcontrol-csam-einlassung-vorbereiten
-description: "Nutze dies, wenn Fachanwalt Strafrecht Chatcontrol Csam Anwaltsgeheimnis 53 Stpo, Fachanwalt Strafrecht Einlassung Vorbereiten, Fachanwalt Strafrecht Hauptverhandlung Vorbereiten, Fachanwalt Strafrecht Insolvenzantrag Staatsanwaltschaft, Fachanwalt Strafrecht Nebenklage Opfervertretung im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Strafrecht Chatcontrol Csam Anwaltsgeheimnis 53 Stpo, Fachanwalt Strafrecht Einlassung Vorbereiten, Fachanwalt Strafrecht Hauptverhandlung Vorbereiten, Fachanwalt Strafrecht Insolvenzantrag Staatsanwaltschaft, Fachanwalt Strafrecht Nebenklage Opfervertretung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Strafrecht Chatcontrol Csam Anwaltsgeheimnis 53 Stpo, Fachanwalt Strafrecht Einlassung Vorbereiten, Fachanwalt Strafrecht Hauptverhandlung Vorbereiten, Fachanwalt Strafrecht Insolvenzantrag Staatsanwaltschaft, Fachanwalt Strafrecht Nebenklage Opfervertretung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Strafrecht Chatcontrol Csam Anwaltsgeheimnis 53 Stpo, Fachanwalt Strafrecht Einlassung Vorbereiten, Fachanwalt Strafrecht Hauptverhandlung Vorbereiten, Fachanwalt Strafrecht Insolvenzantrag Staatsanwaltschaft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Strafrecht Chatcontrol Csam Anwaltsgeheimnis 53 Stpo, Fachanwalt Strafrecht Einlassung Vorbereiten, Fachanwalt Strafrecht Hauptverhandlung Vorbereiten, Fachanwalt Strafrecht Insolvenzantrag Staatsanwaltschaft, Fachanwalt Strafrecht Nebenklage Opfervertretung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Strafrecht Chatcontrol Csam Anwaltsgeheimnis 53 Stpo, Fachanwalt Strafrecht Einlassung Vorbereiten, Fachanwalt Strafrecht Hauptverhandlung Vorbereiten, Fachanwalt Strafrecht Insolvenzantrag Staatsanwaltschaft, Fachanwalt Strafrecht Nebenklage Opfervertretung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -317,11 +317,11 @@ zu vernehmen.
 
 Begruendung
 1. Konnexitaet — der Zeuge / die Zeugin hat unmittelbare
-   Wahrnehmungen ueber [Beweisthema] gemacht da [Begruendung].
+ Wahrnehmungen ueber [Beweisthema] gemacht da [Begruendung].
 2. Bedeutung — Die Beweistatsache ist erheblich weil
-   [Verbindung mit Tatbestand / Strafzumessung].
+ [Verbindung mit Tatbestand / Strafzumessung].
 3. Geeignetheit — Der Zeuge ist nicht voellig ungeeignet im
-   Sinne § 244 Abs. 3 Satz 3 Nr. 4 StPO da [Begruendung].
+ Sinne § 244 Abs. 3 Satz 3 Nr. 4 StPO da [Begruendung].
 
 Mit kollegialen Gruessen
 ```
@@ -511,27 +511,27 @@ Schuld in monatlichen Raten von [Betrag EUR] ab [Datum].
 Mandanteninfo: Ihre Rechte in Strafverfahren und Insolvenzverfahren
 
 1. Im Strafverfahren:
-   Sie haben das Recht zu schweigen (§ 136 StPO).
-   Keine Aussage ohne Absprache mit mir.
+ Sie haben das Recht zu schweigen (§ 136 StPO).
+ Keine Aussage ohne Absprache mit mir.
 
 2. Im Insolvenzverfahren:
-   Sie sind zur Auskunft verpflichtet (§ 97 InsO).
-   Unrichtige Angaben können als Bankrott (§ 283 StGB) geahndet werden.
+ Sie sind zur Auskunft verpflichtet (§ 97 InsO).
+ Unrichtige Angaben können als Bankrott (§ 283 StGB) geahndet werden.
 
 3. Schutz vor Selbstbelastung:
-   § 97 Abs. 1 S. 3 InsO enthält ein beschränktes Verwertungsverbot:
-   Zwangsweise erlangte Auskünfte dürfen im Strafverfahren nicht
-   verwertet werden. Freiwillige Angaben genießen diesen Schutz
-   jedoch NICHT.
+ § 97 Abs. 1 S. 3 InsO enthält ein beschränktes Verwertungsverbot:
+ Zwangsweise erlangte Auskünfte dürfen im Strafverfahren nicht
+ verwertet werden. Freiwillige Angaben genießen diesen Schutz
+ jedoch NICHT.
 
 4. Praxisregel:
-   Alle Auskünfte im Insolvenzverfahren schriftlich, nach Rücksprache
-   mit mir. Keine mündlichen Spontanangaben gegenüber dem Insolvenz-
-   verwalter.
+ Alle Auskünfte im Insolvenzverfahren schriftlich, nach Rücksprache
+ mit mir. Keine mündlichen Spontanangaben gegenüber dem Insolvenz-
+ verwalter.
 
 5. Koordination:
-   Ich stimme Ihre Angaben im Insolvenzverfahren mit Ihrer
-   Strafverteidigungsstrategie ab.
+ Ich stimme Ihre Angaben im Insolvenzverfahren mit Ihrer
+ Strafverteidigungsstrategie ab.
 ```
 
 ### Baustein 3 – Antrag auf Eigenantrag mit Eigenverwaltung § 270 InsO

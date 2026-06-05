@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Aussenwirtschaft und Investitionspruefung
-Ressort:            BMWE
-Kernnormen:         AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.
-Akteure/Aufsicht:   BMWE; BMI; AA; BMF; Bundeskanzleramt.
-EU/Voelkerrecht:    FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwe; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Aussenwirtschaft und Investitionspruefung
+Ressort: BMWE
+Kernnormen: AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.
+Akteure/Aufsicht: BMWE; BMI; AA; BMF; Bundeskanzleramt.
+EU/Voelkerrecht: FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

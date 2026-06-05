@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           NATO-Recht und Stationierungsrecht
-Ressort:            BMVg
-Kernnormen:         NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.
-Akteure/Aufsicht:   BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.
-EU/Voelkerrecht:    EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmvg; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: NATO-Recht und Stationierungsrecht
+Ressort: BMVg
+Kernnormen: NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.
+Akteure/Aufsicht: BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.
+EU/Voelkerrecht: EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

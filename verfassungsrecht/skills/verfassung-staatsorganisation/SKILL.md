@@ -1,13 +1,13 @@
 ---
 name: verfassung-staatsorganisation
-description: "Nutze dies, wenn Verfassung Staatsorganisation, Verfassungsrechtliche Prüfung, Verhaeltnismaessigkeit im Plugin Verfassungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Verfassung Staatsorganisation, Verfassungsrechtliche Prüfung, Verhaeltnismaessigkeit prüfen.; Erstelle eine Arbeitsfassung zu Verfassung Staatsorganisation, Verfassungsrechtliche Prüfung, Verhaeltnismaessigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verfassung Staatsorganisation, Verfassungsrechtliche Prüfung, Verhaeltnismaessigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verfassung Staatsorganisation, Verfassungsrechtliche Prüfung, Verhaeltnismaessigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verfassung Staatsorganisation, Verfassungsrechtliche Prüfung, Verhaeltnismaessigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -83,7 +83,7 @@ Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Ski
 # Verfassungsrechtliche Prüfung — Master-Workflow
 
 ## Fachkern: Verfassungsrechtliche Prüfung — Master-Workflow
-- **Spezialgegenstand:** Verfassungsrechtliche Prüfung — Master-Workflow wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+- **Spezialgegenstand:** Verfassungsrechtliche Prüfung — Master-wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
 - **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
@@ -114,24 +114,24 @@ Vor Beginn der Prüfung ist zu klären, was eigentlich geprüft wird:
 **Skill aufrufen:** `gesetzgebungskompetenz-pruefen` und `formelle-verfassungsmaessigkeit`.
 
 1. **Zuständigkeit (Gesetzgebungskompetenz)**
-   - Art. 70 GG (Grundregel: Länder, soweit GG nicht Bund)
-   - Art. 71–72 GG (ausschließliche und konkurrierende Gesetzgebung)
-   - Art. 73 GG (Katalog Bund ausschließlich)
-   - Art. 74 GG (Katalog konkurrierend) ggf. mit Art. 72 Abs. 2 GG (Erforderlichkeitsklausel) oder Art. 72 Abs. 3 GG (Abweichungsgesetzgebung)
-   - Art. 75 GG a.F. (Rahmengesetzgebung) — **seit Föderalismusreform 2006 abgeschafft**
-   - Bei Verwaltungskompetenzen: Art. 83 ff. GG
+ - Art. 70 GG (Grundregel: Länder, soweit GG nicht Bund)
+ - Art. 71–72 GG (ausschließliche und konkurrierende Gesetzgebung)
+ - Art. 73 GG (Katalog Bund ausschließlich)
+ - Art. 74 GG (Katalog konkurrierend) ggf. mit Art. 72 Abs. 2 GG (Erforderlichkeitsklausel) oder Art. 72 Abs. 3 GG (Abweichungsgesetzgebung)
+ - Art. 75 GG a.F. (Rahmengesetzgebung) — **seit Föderalismusreform 2006 abgeschafft**
+ - Bei Verwaltungskompetenzen: Art. 83 ff. GG
 
 2. **Verfahren (Art. 76–82 GG)**
-   - Einbringung (Art. 76 GG)
-   - Drei Lesungen im Bundestag (§§ 78–86 GOBT)
-   - Beteiligung Bundesrat (Art. 77, 78 GG — Zustimmungs- vs. Einspruchsgesetz)
-   - Ausfertigung durch Bundespräsidenten (Art. 82 Abs. 1 S. 1 GG)
-   - Verkündung im Bundesgesetzblatt (Art. 82 Abs. 1 S. 1 GG)
+ - Einbringung (Art. 76 GG)
+ - Drei Lesungen im Bundestag (§§ 78–86 GOBT)
+ - Beteiligung Bundesrat (Art. 77, 78 GG — Zustimmungs- vs. Einspruchsgesetz)
+ - Ausfertigung durch Bundespräsidenten (Art. 82 Abs. 1 S. 1 GG)
+ - Verkündung im Bundesgesetzblatt (Art. 82 Abs. 1 S. 1 GG)
 
 3. **Form**
-   - Bestimmtheitsgebot (rechtsstaatliches Erfordernis)
-   - Zitiergebot (Art. 19 Abs. 1 S. 2 GG bei Grundrechtseinschränkungen)
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Bestimmtheitsgebot (rechtsstaatliches Erfordernis)
+ - Zitiergebot (Art. 19 Abs. 1 S. 2 GG bei Grundrechtseinschränkungen)
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### B. Materielle Verfassungsmäßigkeit
 
@@ -142,16 +142,16 @@ Pro betroffenem Grundrecht und pro betroffener Verfassungsnorm separat:
 1. **Schutzbereichseröffnung** — persönlich und sachlich
 2. **Eingriff** — modern: jede Beeinträchtigung des Schutzbereichs, klassisch: final, unmittelbar, rechtsförmig, mit Befehl/Zwang
 3. **Verfassungsrechtliche Rechtfertigung**
-   - Schranke (einfacher Gesetzesvorbehalt, qualifizierter Vorbehalt, verfassungsimmanente Schranken bei vorbehaltlosen Grundrechten)
-   - Schranken-Schranken (Verhältnismäßigkeit, Wesensgehalt Art. 19 Abs. 2 GG, Zitiergebot Art. 19 Abs. 1 S. 2 GG, allgemeine Geltung Art. 19 Abs. 1 S. 1 GG, Wechselwirkung)
-   - **Verhältnismäßigkeit** (Skill `verhaeltnismaessigkeit`): legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit
+ - Schranke (einfacher Gesetzesvorbehalt, qualifizierter Vorbehalt, verfassungsimmanente Schranken bei vorbehaltlosen Grundrechten)
+ - Schranken-Schranken (Verhältnismäßigkeit, Wesensgehalt Art. 19 Abs. 2 GG, Zitiergebot Art. 19 Abs. 1 S. 2 GG, allgemeine Geltung Art. 19 Abs. 1 S. 1 GG, Wechselwirkung)
+ - **Verhältnismäßigkeit** (Skill `verhaeltnismaessigkeit`): legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit
 
 4. **Sonstige verfassungsrechtliche Bindungen**
-   - Bundesstaatsprinzip Art. 20 Abs. 1 GG
-   - Demokratieprinzip Art. 20 Abs. 1, 2 GG
-   - Rechtsstaatsprinzip Art. 20 Abs. 3 GG (Vertrauensschutz, Rückwirkungsverbot, Bestimmtheit)
-   - Sozialstaatsprinzip Art. 20 Abs. 1 GG
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Bundesstaatsprinzip Art. 20 Abs. 1 GG
+ - Demokratieprinzip Art. 20 Abs. 1, 2 GG
+ - Rechtsstaatsprinzip Art. 20 Abs. 3 GG (Vertrauensschutz, Rückwirkungsverbot, Bestimmtheit)
+ - Sozialstaatsprinzip Art. 20 Abs. 1 GG
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### C. Gesamtergebnis
 
@@ -168,30 +168,30 @@ Prüfungsgegenstand: <Norm / Maßnahme>
 
 A. Formelle Verfassungsmäßigkeit
 1. Gesetzgebungskompetenz
-   - Einschlägig: Art. ___ GG
-   - Ergebnis: [vereinbar / unvereinbar]
-   - BVerfG-Pinpoint: ___
+ - Einschlägig: Art. ___ GG
+ - Ergebnis: [vereinbar / unvereinbar]
+ - BVerfG-Pinpoint: ___
 2. Verfahren
-   - Einbringung Art. 76 GG: ___
-   - Drei Lesungen: ___
-   - Bundesrat (Art. 77, 78 GG): ___
-   - Ausfertigung Art. 82 GG: ___
+ - Einbringung Art. 76 GG: ___
+ - Drei Lesungen: ___
+ - Bundesrat (Art. 77, 78 GG): ___
+ - Ausfertigung Art. 82 GG: ___
 3. Form
-   - Bestimmtheit: ___
-   - Zitiergebot Art. 19 Abs. 1 S. 2 GG: ___
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Bestimmtheit: ___
+ - Zitiergebot Art. 19 Abs. 1 S. 2 GG: ___
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 B. Materielle Verfassungsmäßigkeit
 1. Grundrecht ___
-   - Schutzbereich: ___
-   - Eingriff: ___
-   - Rechtfertigung: Schranke ___ / Schranken-Schranken
-     - Verhältnismäßigkeit:
-       - Legitimer Zweck: ___
-       - Geeignetheit: ___
-       - Erforderlichkeit: ___
-       - Angemessenheit: ___
-   - BVerfG-Pinpoint: ___
+ - Schutzbereich: ___
+ - Eingriff: ___
+ - Rechtfertigung: Schranke ___ / Schranken-Schranken
+ - Verhältnismäßigkeit:
+ - Legitimer Zweck: ___
+ - Geeignetheit: ___
+ - Erforderlichkeit: ___
+ - Angemessenheit: ___
+ - BVerfG-Pinpoint: ___
 
 C. Gesamtergebnis
 [verfassungsgemäß / verfassungswidrig / verfassungskonform auslegbar]
@@ -257,8 +257,8 @@ Skill `bverfg-rechtsprechung-recherchieren` zuerst. Pinpoint pro tragender Aussa
 **Frage:** Gibt es kein milderes, gleich wirksames Mittel?
 
 - **Maßstab:** ein anderes Mittel muss
-  - die Grundrechte des Betroffenen **weniger intensiv** einschränken **und**
-  - den Zweck **gleich wirksam** erreichen.
+ - die Grundrechte des Betroffenen **weniger intensiv** einschränken **und**
+ - den Zweck **gleich wirksam** erreichen.
 - Strikter Maßstab — Einschätzungsspielraum des Gesetzgebers ist hier geringer als bei Geeignetheit.
 - Häufiger Knackpunkt: Sind Selbstregulierung, Aufklärungspflichten, Erlaubnisvorbehalt mit Auflagen, mildere Sanktion etc. gleich wirksam wie das gewählte Mittel?
 
@@ -319,26 +319,26 @@ Eingriff: ___
 Betroffenes Grundrecht: Art. ___ GG
 
 1. Legitimer Zweck
-   - Verfolgter Zweck: ___
-   - Verfassungsrechtlich nicht missbilligt: [ja / nein]
-   - BVerfG-Pinpoint: ___
+ - Verfolgter Zweck: ___
+ - Verfassungsrechtlich nicht missbilligt: [ja / nein]
+ - BVerfG-Pinpoint: ___
 
 2. Geeignetheit
-   - Zweckförderung: ___
-   - Einschätzungsspielraum: ___
-   - Ergebnis: [geeignet / evident ungeeignet]
+ - Zweckförderung: ___
+ - Einschätzungsspielraum: ___
+ - Ergebnis: [geeignet / evident ungeeignet]
 
 3. Erforderlichkeit
-   - Mildere Mittel geprüft: ___
-   - Gleich wirksam: [ja / nein]
-   - Ergebnis: [erforderlich / nicht erforderlich]
+ - Mildere Mittel geprüft: ___
+ - Gleich wirksam: [ja / nein]
+ - Ergebnis: [erforderlich / nicht erforderlich]
 
 4. Angemessenheit
-   - Eingriffstiefe: ___
-   - Geschützte Belange: ___
-   - Abwägung: ___
-   - BVerfG-Pinpoint: ___
-   - Ergebnis: [angemessen / unangemessen]
+ - Eingriffstiefe: ___
+ - Geschützte Belange: ___
+ - Abwägung: ___
+ - BVerfG-Pinpoint: ___
+ - Ergebnis: [angemessen / unangemessen]
 
 Gesamtergebnis: [verhältnismäßig / unverhältnismäßig auf Stufe ___]
 ```

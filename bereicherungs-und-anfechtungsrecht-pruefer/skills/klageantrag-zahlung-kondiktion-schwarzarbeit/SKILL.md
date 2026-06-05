@@ -1,13 +1,13 @@
 ---
 name: klageantrag-zahlung-kondiktion-schwarzarbeit
-description: "Nutze dies, wenn Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation im Plugin Bereicherungs Und Anfechtungsrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation prüfen.; Erstelle eine Arbeitsfassung zu Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

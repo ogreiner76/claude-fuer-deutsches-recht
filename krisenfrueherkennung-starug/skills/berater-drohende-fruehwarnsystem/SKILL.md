@@ -1,13 +1,13 @@
 ---
 name: berater-drohende-fruehwarnsystem
-description: "Nutze dies, wenn Spezial Berater Verhandlung Vergleich Und Eskalation, Spezial Drohende Zahlen Schwellen Und Berechnung, Spezial Fruehwarnsystem Behörden Gericht Und Registerweg im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Spezial Berater Verhandlung Vergleich Und Eskalation, Spezial Drohende Zahlen Schwellen Und Berechnung, Spezial Fruehwarnsystem Behörden Gericht Und Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Spezial Berater Verhandlung Vergleich Und Eskalation, Spezial Drohende Zahlen Schwellen Und Berechnung, Spezial Fruehwarnsystem Behörden Gericht Und Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Berater Verhandlung Vergleich Und Eskalation, Drohende Zahlen Schwellen Und Berechnung, Fruehwarnsystem Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Berater Verhandlung Vergleich Und Eskalation, Spezial Drohende Zahlen Schwellen Und Berechnung, Spezial Fruehwarnsystem Behörden Gericht Und Registerweg
+# Berater Verhandlung Vergleich Und Eskalation, Drohende Zahlen Schwellen Und Berechnung, Fruehwarnsystem Behörden Gericht Und Registerweg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Berater Verhandlung Vergleich Und Eskalation, Drohende Zahlen Schwellen Und Berechnung, Fruehwarnsystem Behörden Gericht Und Registerweg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Berater Verhandlung Vergleich Und Eskalation, Spezial Drohende Zahlen Schwellen Und Berechnung, Spezial Fruehwarnsystem Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Berater Verhandlung Vergleich Und Eskalation, Drohende Zahlen Schwellen Und Berechnung, Fruehwarnsystem Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `krisenfrueherkennung-starug` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Berater Verhandlung Vergleich Und Eskalation, Spezial Drohende Za
 # Berater: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Berater: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Berater: Verhandlung, Vergleich und Eskalation / spezial berater verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Berater: Verhandlung, Vergleich und Eskalation / berater verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Drohende: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Drohende: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Drohende: Zahlen, Schwellenwerte und Berechnung / spezial drohende zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Drohende: Zahlen, Schwellenwerte und Berechnung / drohende zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -132,16 +132,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Schwellenwerte und Ampel
 
 - **GRÜN — keine drohende ZU:**
-  - Im 24-Monats-Horizont in keiner Periode Liquiditätsdeckung < 100 Prozent.
-  - Worst-Case zeigt mindestens 100 Prozent.
-  - Kovenanten mit Spielraum.
+ - Im 24-Monats-Horizont in keiner Periode Liquiditätsdeckung < 100 Prozent.
+ - Worst-Case zeigt mindestens 100 Prozent.
+ - Kovenanten mit Spielraum.
 - **GELB — Vorstufe drohende ZU:**
-  - Base-Case zeigt 100 Prozent, Worst-Case < 100 Prozent.
-  - Maßnahmenplan mit Sanierungsschritten in Vorbereitung.
+ - Base-Case zeigt 100 Prozent, Worst-Case < 100 Prozent.
+ - Maßnahmenplan mit Sanierungsschritten in Vorbereitung.
 - **ROT — drohende ZU § 18 InsO:**
-  - In einzelnen Perioden des 24-Monats-Horizonts Liquiditätsdeckung < 100 Prozent — auch im Base-Case.
-  - Rechtsfolge: StaRUG-Tor offen, StaRUG-Anzeige § 31 StaRUG erwägen.
-  - Achtung: Eintritt § 17 InsO ZU oder § 19 InsO Überschuldung blockt StaRUG; dann § 15a InsO Antragspflicht.
+ - In einzelnen Perioden des 24-Monats-Horizonts Liquiditätsdeckung < 100 Prozent — auch im Base-Case.
+ - Rechtsfolge: StaRUG-Tor offen, StaRUG-Anzeige § 31 StaRUG erwägen.
+ - Achtung: Eintritt § 17 InsO ZU oder § 19 InsO Überschuldung blockt StaRUG; dann § 15a InsO Antragspflicht.
 
 ## Verteidigungslinien gegen drohende ZU
 
@@ -162,7 +162,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg / spezial fruehwarnsystem behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg / fruehwarnsystem behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -199,27 +199,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Frühwarnsystem nach § 1 StaRUG — Architektur
 
 - **Pflichtanspruch (§ 1 StaRUG):**
-  - Adressat: Geschäftsleiter haftungsbeschränkter Rechtsträger (GmbH, AG, UG, SE, GmbH & Co. KG bei Haftungsbeschränkung).
-  - Pflichtumfang: **fortlaufende** Überwachung bestandsgefährdender Entwicklungen und **geeignete Gegenmaßnahmen**.
-  - Zeithorizont: orientiert sich an § 18 InsO (24 Monate Prognose).
-  - Keine direkte Sanktion in § 1 StaRUG selbst — aber haftungsrelevant nach § 43 GmbHG / § 93 AktG.
+ - Adressat: Geschäftsleiter haftungsbeschränkter Rechtsträger (GmbH, AG, UG, SE, GmbH & Co. KG bei Haftungsbeschränkung).
+ - Pflichtumfang: **fortlaufende** Überwachung bestandsgefährdender Entwicklungen und **geeignete Gegenmaßnahmen**.
+ - Zeithorizont: orientiert sich an § 18 InsO (24 Monate Prognose).
+ - Keine direkte Sanktion in § 1 StaRUG selbst — aber haftungsrelevant nach § 43 GmbHG / § 93 AktG.
 
 ## Pflichtbausteine eines Frühwarnsystems
 
 - **Liquiditätsplanung:**
-  - 13-Wochen-Liquidität (operativ, wöchentlich).
-  - 24-Monats-Liquidität (strategisch, monatlich).
-  - Direkte Methode bevorzugt; Sensitivitätsanalysen Best/Base/Worst.
+ - 13-Wochen-Liquidität (operativ, wöchentlich).
+ - 24-Monats-Liquidität (strategisch, monatlich).
+ - Direkte Methode bevorzugt; Sensitivitätsanalysen Best/Base/Worst.
 - **Ergebnis- und Bilanzplanung:**
-  - GuV-Forecast 24 Monate, Bilanzplanung.
-  - Kovenanten-Monitor (Working Capital, EBITDA, Debt-Service-Coverage, Equity Ratio).
+ - GuV-Forecast 24 Monate, Bilanzplanung.
+ - Kovenanten-Monitor (Working Capital, EBITDA, Debt-Service-Coverage, Equity Ratio).
 - **Risiko-Management:**
-  - Risikoinventar (Markt-, Kredit-, Operationelle Risiken).
-  - Risk-Map mit Eintrittswahrscheinlichkeit und Schadensausmaß.
-  - Frühindikatoren (Order Intake, Kundenbonität, Lieferantenkredite).
+ - Risikoinventar (Markt-, Kredit-, Operationelle Risiken).
+ - Risk-Map mit Eintrittswahrscheinlichkeit und Schadensausmaß.
+ - Frühindikatoren (Order Intake, Kundenbonität, Lieferantenkredite).
 - **Governance:**
-  - Reporting-Frequenz an Geschäftsleitung mind. monatlich; an Aufsichtsrat mindestens quartalsweise.
-  - Eskalationswege bei Auffälligkeiten.
+ - Reporting-Frequenz an Geschäftsleitung mind. monatlich; an Aufsichtsrat mindestens quartalsweise.
+ - Eskalationswege bei Auffälligkeiten.
 
 ## Behörden- und Gerichtsweg
 

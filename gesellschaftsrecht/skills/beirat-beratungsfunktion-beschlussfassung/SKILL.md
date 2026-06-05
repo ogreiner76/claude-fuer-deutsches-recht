@@ -1,23 +1,23 @@
 ---
 name: beirat-beratungsfunktion-beschlussfassung
-description: "Nutze dies, wenn Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan prüfen.; Erstelle eine Arbeitsfassung zu Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung, Beirat Budget Und Businessplan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-beratungsfunktion` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-beschlussfassung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussfassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-beschlussmaengel` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussmaengel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-bestellung-und-abberufung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bestellung Und Abberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-budget-und-businessplan` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Budget Und Businessplan; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-beratungsfunktion` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beratungsfunktion; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-beschlussfassung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussfassung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-beschlussmaengel` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussmaengel; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-bestellung-und-abberufung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bestellung Und Abberufung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-budget-und-businessplan` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Budget Und Businessplan; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaenge
 
 ## 1. `beirat-beratungsfunktion`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beratungsfunktion; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beratungsfunktion
 
@@ -94,7 +94,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-beschlussfassung`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussfassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussfassung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beschlussfassung
 
@@ -160,7 +160,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-beschlussmaengel`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussmaengel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussmaengel; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beschlussmaengel
 
@@ -226,7 +226,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-bestellung-und-abberufung`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bestellung Und Abberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bestellung Und Abberufung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Bestellung Und Abberufung
 
@@ -292,7 +292,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-budget-und-businessplan`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Budget Und Businessplan; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Budget Und Businessplan; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Budget Und Businessplan
 

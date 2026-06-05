@@ -1,13 +1,13 @@
 ---
 name: npl-distressed-outside-target
-description: "Nutze dies, wenn Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -264,37 +264,37 @@ Erstellt von: [KANZLEI / DEAL-TEAM]
 VERTRAULICH
 
 1. UNTERNEHMENSUEBERBLICK
-   Gruendungsjahr: [Jahr]
-   Hauptgesellschafter: [Namen / Wirtschaftlich Berechtigter]
-   Geschaeftsfuehrung: [Namen, Amtsdauer]
-   Mitarbeiter: ca. [Zahl] (Quelle: Bundesanzeiger [Jahr])
-   Hauptstandorte: [Staedte]
+ Gruendungsjahr: [Jahr]
+ Hauptgesellschafter: [Namen / Wirtschaftlich Berechtigter]
+ Geschaeftsfuehrung: [Namen, Amtsdauer]
+ Mitarbeiter: ca. [Zahl] (Quelle: Bundesanzeiger [Jahr])
+ Hauptstandorte: [Staedte]
 
 2. FINANZIELLE KENNZAHLEN (aus Bundesanzeiger)
-   | Jahr | Umsatz | EBITDA | EK-Quote | Bilanzsumme |
-   |------|--------|--------|----------|-------------|
-   | 2022 | [EUR Mio.] | [EUR Mio.] | [%] | [EUR Mio.] |
-   | 2023 | [EUR Mio.] | [EUR Mio.] | [%] | [EUR Mio.] |
+ | Jahr | Umsatz | EBITDA | EK-Quote | Bilanzsumme |
+ |------|--------|--------|----------|-------------|
+ | 2022 | [EUR Mio.] | [EUR Mio.] | [%] | [EUR Mio.] |
+ | 2023 | [EUR Mio.] | [EUR Mio.] | [%] | [EUR Mio.] |
 
 3. BEWERTUNGSINDIKATION (Multiples-Schaetzung)
-   Angenommenes EBITDA: [EUR Mio.]
-   Branchenm-Multiple: [x-y]x
-   Indikative EV-Range: EUR [X] — EUR [Y] Mio.
+ Angenommenes EBITDA: [EUR Mio.]
+ Branchenm-Multiple: [x-y]x
+ Indikative EV-Range: EUR [X] — EUR [Y] Mio.
 
 4. VORHANDENE RISIKEN
-   - [Risiko 1: z.B. Jahresabschluss 2023 noch nicht veroeffentlicht]
-   - [Risiko 2: z.B. GF-Wechsel 2x in 3 Jahren]
+ - [Risiko 1: z.B. Jahresabschluss 2023 noch nicht veroeffentlicht]
+ - [Risiko 2: z.B. GF-Wechsel 2x in 3 Jahren]
 
 5. STRATEGISCHE FIT-BEWERTUNG
-   [2-3 Saetze: Synergien, Marktposition, Komplementaritaet]
+ [2-3 Saetze: Synergien, Marktposition, Komplementaritaet]
 
 6. EMPFEHLUNG
-   [ ] Kontaktaufnahme empfohlen
-   [ ] Weitere Analyse erforderlich: [Punkt]
-   [ ] Kein Fit: [Begruendung]
+ [ ] Kontaktaufnahme empfohlen
+ [ ] Weitere Analyse erforderlich: [Punkt]
+ [ ] Kein Fit: [Begruendung]
 
 7. NAECHSTE SCHRITTE
-   [Konkrete Handlungen mit Datum und Owner]
+ [Konkrete Handlungen mit Datum und Owner]
 ```
 
 ## Rote Schwellen

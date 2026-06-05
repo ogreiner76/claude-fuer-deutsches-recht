@@ -71,13 +71,13 @@ Beachten: bei SGB XII strenger als bei Buergergeld in Karenzzeit.
 ### Schritt 4 — Berechnung
 
 ```
-Regelbedarf (Stufe 1 fuer Alleinstehende)        563 EUR
-+ KdU (Miete und Heizung)                         ... EUR
-+ Mehrbedarf bei Schwerbehinderung                ... EUR (§ 30 SGB XII)
-+ einmalige Bedarfe                                 ... EUR
-= Gesamtbedarf                                       ... EUR
-- Einkommen (Rente, ALG, sonstiges)                  ... EUR
-= Anspruch                                            ... EUR
+Regelbedarf (Stufe 1 fuer Alleinstehende) 563 EUR
++ KdU (Miete und Heizung) ... EUR
++ Mehrbedarf bei Schwerbehinderung ... EUR (§ 30 SGB XII)
++ einmalige Bedarfe ... EUR
+= Gesamtbedarf ... EUR
+- Einkommen (Rente, ALG, sonstiges) ... EUR
+= Anspruch ... EUR
 ```
 
 ### Schritt 5 — Antrag stellen
@@ -92,7 +92,7 @@ Im Sozialamt:
 ### Schritt 6 — Bei Ablehnung Widerspruch
 
 ```
-Sozialamt [Stadt]                                   [Ort, Datum]
+Sozialamt [Stadt] [Ort, Datum]
 
 Az: [...]
 
@@ -107,17 +107,17 @@ Begruendung:
 Die Voraussetzungen fuer Grundsicherung nach § 41 SGB XII liegen vor:
 
 1. Anspruchsberechtigung
-   - Renten-Eintritt am [Datum]
-   - Volle EM seit [Datum]
+ - Renten-Eintritt am [Datum]
+ - Volle EM seit [Datum]
 
 2. Bedarf liegt vor:
-   - Regelbedarf [Stufe]: [Betrag]
-   - KdU: [Betrag] (Mietvertrag anbei)
-   - Mehrbedarf wegen Schwerbehinderung G (anerkannt)
+ - Regelbedarf [Stufe]: [Betrag]
+ - KdU: [Betrag] (Mietvertrag anbei)
+ - Mehrbedarf wegen Schwerbehinderung G (anerkannt)
 
 3. Vermoegen liegt unter Schongrenze:
-   - Konto: [Betrag]
-   - Sonstiges: [...]
+ - Konto: [Betrag]
+ - Sonstiges: [...]
 
 Mit freundlichen Gruessen
 ```

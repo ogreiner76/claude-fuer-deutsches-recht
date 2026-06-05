@@ -1,20 +1,20 @@
 ---
 name: esg-greenwashing-klimaklagen-verbandsklage
-description: "Nutze dies, wenn Esg Greenwashing Csrd, Klimaklagen Verbandsklage Umwrg, Lksg Csddd Lieferkettensorgfalt im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Esg Greenwashing Csrd, Klimaklagen Verbandsklage Umwrg, Lksg Csddd Lieferkettensorgfalt prüfen.; Erstelle eine Arbeitsfassung zu Esg Greenwashing Csrd, Klimaklagen Verbandsklage Umwrg, Lksg Csddd Lieferkettensorgfalt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Esg Greenwashing Csrd, Klimaklagen Verbandsklage Umwrg, Lksg Csddd Lieferkettensorgfalt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Esg Greenwashing Csrd, Klimaklagen Verbandsklage Umwrg, Lksg Csddd Lieferkettensorgfalt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Esg Greenwashing Csrd, Klimaklagen Verbandsklage Umwrg, Lksg Csddd Lieferkettensorgfalt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `esg-greenwashing-csrd` | Workflow-Skill zu esg greenwashing csrd. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `klimaklagen-verbandsklage-umwrg` | Workflow-Skill zu klimaklagen verbandsklage umwrg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `esg-greenwashing-csrd` | Arbeitsmodul zu esg greenwashing csrd: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `klimaklagen-verbandsklage-umwrg` | Arbeitsmodul zu klimaklagen verbandsklage umwrg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `lksg-csddd-lieferkettensorgfalt` | Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit 1.1.2023 CSDDD Richtlinie 2024/1760 Phasing ab 2027. Normen LkSG §§ 3 4 8 11 24 CSDDD Art. 1 ff. Prüfraster Anwendungsbereich Sorgfaltspflichten Risikoanalyse Beschwerdemechanismus BAFA-Aufsicht. Output Risikoanalyse-Template Grundsatzerklärung Beschwerdeverfahren. Abgrenzung zu esg-greenwashing-csrd (Berichtspflicht) und umweltrecht-transaktionen-dd (M&A). |
 
 ## Arbeitsweg
@@ -26,7 +26,7 @@ Für **Esg Greenwashing Csrd, Klimaklagen Verbandsklage Umwrg, Lksg Csddd Liefer
 
 ## 1. `esg-greenwashing-csrd`
 
-**Fokus:** Workflow-Skill zu esg greenwashing csrd. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu esg greenwashing csrd: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # ESG, CSRD und Greenwashing-Verteidigung
 
@@ -152,13 +152,13 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
 - **Geschäftsentscheidung** beeinflusst
 - **Subjektive Vorstellung** Verbraucher relevant
 - **Verschiedene Aussagen-Kategorien:**
-  - Klimaneutral
-  - CO2-neutral
-  - Klimafreundlich
-  - Umweltschonend
-  - Nachhaltig
-  - Bio-basiert
-  - Recycelt
+ - Klimaneutral
+ - CO2-neutral
+ - Klimafreundlich
+ - Umweltschonend
+ - Nachhaltig
+ - Bio-basiert
+ - Recycelt
 
 **BGH 27.06.2024, I ZR 98/23** (Katjes „klimaneutral"): Werbung mit dem Schlagwort „klimaneutral" ist mehrdeutig; nur zulaessig, wenn entweder die zugrundeliegende Reduktion oder Kompensation in der Werbung selbst (nicht ueber externen Link) erlaeutert wird. Wettbewerbsverstoss nach § 5 UWG bei pauschaler Verwendung. Quelle: bundesgerichtshof.de — Pressemitteilung 144/2024 / dejure.org/2024,15820.
 
@@ -200,9 +200,9 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
 - Frist sehr eng (typisch zwei Wochen)
 - Sofort Substantiierungs-Dokumentation zusammenstellen
 - Optionen:
-  - Unterlassungserklärung abgeben
-  - Modifizierte Erklärung
-  - Streit suchen
+ - Unterlassungserklärung abgeben
+ - Modifizierte Erklärung
+ - Streit suchen
 
 ### Bundeskartellamt-Verfahren
 
@@ -354,7 +354,7 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
 
 ## 2. `klimaklagen-verbandsklage-umwrg`
 
-**Fokus:** Workflow-Skill zu klimaklagen verbandsklage umwrg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu klimaklagen verbandsklage umwrg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Klimaklagen und Verbandsklagen nach UmwRG
 
@@ -615,14 +615,14 @@ Quelle: bundesverfassungsgericht.de (Volltext) / dejure.org/2021,7050. Nachfolge
 Es wird beantragt:
 
 1. Die Genehmigung der Beklagten vom [Datum] [Az] für das
-   Vorhaben [Bezeichnung] wird aufgehoben.
+ Vorhaben [Bezeichnung] wird aufgehoben.
 
 2. Hilfsweise: Die Beklagte wird verpflichtet, die Genehmigung
-   um klimaschutzrechtliche Nebenbestimmungen zu ergaenzen,
-   die [konkrete Maßnahme] sichern.
+ um klimaschutzrechtliche Nebenbestimmungen zu ergaenzen,
+ die [konkrete Maßnahme] sichern.
 
 3. Hoechst hilfsweise: Es wird festgestellt, dass die Genehmigung
-   wegen Verletzung [Klima-Norm] rechtswidrig ist.
+ wegen Verletzung [Klima-Norm] rechtswidrig ist.
 
 4. Die Kosten des Verfahrens traegt die Beklagte.
 ```

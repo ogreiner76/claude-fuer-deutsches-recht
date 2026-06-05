@@ -1,13 +1,13 @@
 ---
 name: fz-plaedoyer-fz-roadmap-fz-start
-description: "Nutze dies, wenn Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft prüfen.; Erstelle eine Arbeitsfassung zu Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fz Plaedoyer Begruendung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fz Plaedoyer Begründung Und Verteidigung, Fz Roadmap Mehrjahresantrag, Fz Start Up Und Personengesellschaft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -336,21 +336,21 @@ FuE-Vorhaben dauern oft 2 bis 4 Jahre. Die Forschungszulage ist nicht als Einmal
 Bezugnahme: BSFZ-Bescheinigung vom [Datum], Aktenzeichen [...], Vorhabenzeitraum [von] bis [bis].
 
 1. Vorhabensstand
-   - AP-1 abgeschlossen am [Datum]; Ergebnis: [...].
-   - AP-2 abgeschlossen am [Datum]; Ergebnis: [...].
-   - AP-3 in Bearbeitung; Stand: [...].
+ - AP-1 abgeschlossen am [Datum]; Ergebnis: [...].
+ - AP-2 abgeschlossen am [Datum]; Ergebnis: [...].
+ - AP-3 in Bearbeitung; Stand: [...].
 
 2. Personaleinsatz im Wirtschaftsjahr [Jahr]
-   - Mitarbeiter A: [Stunden], FuE-Anteil [Prozent].
-   - Mitarbeiter B: [...].
+ - Mitarbeiter A: [Stunden], FuE-Anteil [Prozent].
+ - Mitarbeiter B: [...].
 
 3. Bemessungsgrundlage [Jahr]
-   - Eigene Personalkosten: [Euro].
-   - Auftragsforschung (70 Prozent): [Euro].
-   - Eigenleistung: [Euro].
-   - AfA: [Euro].
-   - Pauschale 20 Prozent: [Euro].
-   - Summe BMG: [Euro].
+ - Eigene Personalkosten: [Euro].
+ - Auftragsforschung (70 Prozent): [Euro].
+ - Eigenleistung: [Euro].
+ - AfA: [Euro].
+ - Pauschale 20 Prozent: [Euro].
+ - Summe BMG: [Euro].
 
 4. Forschungszulage 25 Prozent / 35 Prozent KMU: [Euro].
 

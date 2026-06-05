@@ -1,13 +1,13 @@
 ---
 name: schulung-legistik-aenderungs-fraktionen
-description: "Nutze dies, wenn Schulung Legistik, Spezial Aenderungs Formular Portal Und Einreichung, Spezial Fraktionen Dokumentenmatrix Und Lueckenliste, Spezial Kabinettsentwuerfe Compliance Dokumentation Und Akte im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Schulung Legistik, Spezial Aenderungs Formular Portal Und Einreichung, Spezial Fraktionen Dokumentenmatrix Und Lueckenliste, Spezial Kabinettsentwuerfe Compliance Dokumentation Und Akte prüfen.; Erstelle eine Arbeitsfassung zu Schulung Legistik, Spezial Aenderungs Formular Portal Und Einreichung, Spezial Fraktionen Dokumentenmatrix Und Lueckenliste, Spezial Kabinettsentwuerfe Compliance Dokumentation Und Akte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schulung Legistik, Aenderungs Formular Portal Und Einreichung, Fraktionen Dokumentenmatrix Und Lueckenliste, Kabinettsentwuerfe Compliance Dokumentation Und Akte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Schulung Legistik, Spezial Aenderungs Formular Portal Und Einreichung, Spezial Fraktionen Dokumentenmatrix Und Lueckenliste, Spezial Kabinettsentwuerfe Compliance Dokumentation Und Akte
+# Schulung Legistik, Aenderungs Formular Portal Und Einreichung, Fraktionen Dokumentenmatrix Und Lueckenliste, Kabinettsentwuerfe Compliance Dokumentation Und Akte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 
 ## Arbeitsweg
 
-Für **Schulung Legistik, Spezial Aenderungs Formular Portal Und Einreichung, Spezial Fraktionen Dokumentenmatrix Und Lueckenliste, Spezial Kabinettsentwuerfe Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schulung Legistik, Aenderungs Formular Portal Und Einreichung, Fraktionen Dokumentenmatrix Und Lueckenliste, Kabinettsentwuerfe Compliance Dokumentation Und Akte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `legistik-werkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -151,7 +151,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 # Aenderungs: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Aenderungs: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Aenderungs: Formular, Portal und Einreichungslogik / spezial aenderungs formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aenderungs: Formular, Portal und Einreichungslogik / aenderungs formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -193,7 +193,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung / spezial fraktionen dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung / fraktionen dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -235,7 +235,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk / spezial kabinettsentwuerfe compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk / kabinettsentwuerfe compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** XML.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

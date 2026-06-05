@@ -1,6 +1,6 @@
 ---
 name: nda-standardbedingungen
-description: "Branchen-Spezialskill für NDA Standardbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für NDA Standardbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # NDA Standardbedingungen

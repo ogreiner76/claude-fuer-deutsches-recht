@@ -1,13 +1,13 @@
 ---
 name: befristung-fao-unwirksam-fristennotiz
-description: "Nutze dies, wenn Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt prüfen.; Erstelle eine Arbeitsfassung zu Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Befristung Compliance Dokumentation Und Akte, Fao Fristen Form Und Zustaendigkeit, Unwirksam Fristennotiz Und Naechster Schritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt
+# Befristung Compliance Dokumentation Und Akte, Fao Fristen Form Und Zustaendigkeit, Unwirksam Fristennotiz Und Naechster Schritt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Befristung Compliance Dokumentation Und Akte, Fao Fristen Form Und Zustaendigkeit, Unwirksam Fristennotiz Und Naechster Schritt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen Form Und Zustaendigkeit, Spezial Unwirksam Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Befristung Compliance Dokumentation Und Akte, Fao Fristen Form Und Zustaendigkeit, Unwirksam Fristennotiz Und Naechster Schritt** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,7 +42,7 @@ Für **Spezial Befristung Compliance Dokumentation Und Akte, Spezial Fao Fristen
 ## Zweck
 Systematische Compliance-Prüfung für befristete Arbeitsverhältnisse — von der Formkontrolle über die Sachgrundprüfung bis zur Dokumentationsanforderung. Besonderer Fokus auf die häufigsten Fehler, die zur ungewollten Entfristung führen.
 
-## Kaltstart
+## Einstieg
 Wenn ein befristeter Arbeitsvertrag oder eine Verlängerungsvereinbarung vorliegt, zuerst prüfen:
 
 1. **Schriftform:** Befristungsabrede schriftlich vereinbart und vor Dienstantritt unterzeichnet?
@@ -165,7 +165,7 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 ## Zweck
 Vollständiger Überblick über das arbeitsgerichtliche Verfahrensrecht — Zuständigkeit, Instanzen, Fristen, Anwaltszwang und prozessuale Form. Grundlage für jede gerichtliche Tätigkeit im Arbeitsrecht.
 
-## Kaltstart
+## Einstieg
 Wenn eine verfahrensrechtliche Frage vorliegt, zuerst bestimmen:
 
 1. **Verfahrensart:** Urteilsverfahren (individuell) oder Beschlussverfahren (kollektiv/BetrVG)?
@@ -284,7 +284,7 @@ Angelegenheiten aus dem BetrVG, MitbestG, TVG (§ 2a ArbGG); Beteiligte sind AG 
 ## Zweck
 Sofortiger Handlungsleitfaden, wenn ein Unwirksamkeitsgrund bei einer Kündigung oder Befristung erkannt wurde. Dieser Skill stellt sicher, dass die laufende Frist gewahrt wird und der Mandant klar über den nächsten Schritt informiert wird.
 
-## Kaltstart
+## Einstieg
 Wenn ein Unwirksamkeitsgrund erkannt wurde, sofort folgende Schritte:
 
 1. **Unwirksamkeitsgrund identifizieren** (s. Checkliste unten)

@@ -1,13 +1,13 @@
 ---
 name: umgehung-gegenanwalts-unsachlichkeit
-description: "Nutze dies, wenn Anwälte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwälte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwälte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwälte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und, Anwälte Verschwiegenheit Cloud Outsourcing Kaltstart Und Fakte im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwälte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwälte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwälte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und, Anwälte Verschwiegenheit Cloud Outsourcing Kaltstart Und Fakte prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwälte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwälte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwälte Vermoegensverfall Und Zulass..."
+description: "Nutze dies bei Anwaelte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwaelte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwaelte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwaelte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwälte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwälte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwälte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und, Anwälte Verschwiegenheit Cloud Outsourcing Kaltstart Und Fakte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Umgehung Des Gegenanwalts Kaltstart Und Faktenmatrix, Anwälte Unsachlichkeit Kollegenstreit Kaltstart Und Faktenmatr, Anwälte Vergleich Mit Kammeraufsicht Kaltstart Und Faktenmatri, Anwälte Vermoegensverfall Und Zulassungswiderruf Kaltstart Und, Anwälte Verschwiegenheit Cloud Outsourcing Kaltstart Und Fakte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

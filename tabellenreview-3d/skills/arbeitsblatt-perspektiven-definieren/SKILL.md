@@ -68,18 +68,18 @@ Excel kann mehrere Tabellenblaetter nebeneinander. Der 3D-Würfel übernimmt die
 
 ```yaml
 - id: recht
-  titel: "Rechtliche Perspektive"
-  perspektive: "anwalt"
-  pruefer-rolle: "rechtsanwalt"
-  eigene-spalten-zusaetze:
-    - id: agb-wirksamkeit
-      prompt: "Sind die AGB-Klauseln nach BGB Paragraph 305 ff. wirksam?"
-  auslassungen:
-    - umsatzsteuer  # Steuerblatt; hier nicht zuständig
-  ampel-regel:
-    rot: "Unwirksame Klausel BGB Paragraph 307"
-    gelb: "AGB-Wirksamkeit zweifelhaft"
-    gruen: "Wirksam oder Individualvereinbarung"
+ titel: "Rechtliche Perspektive"
+ perspektive: "anwalt"
+ pruefer-rolle: "rechtsanwalt"
+ eigene-spalten-zusaetze:
+ - id: agb-wirksamkeit
+ prompt: "Sind die AGB-Klauseln nach BGB Paragraph 305 ff. wirksam?"
+ auslassungen:
+ - umsatzsteuer # Steuerblatt; hier nicht zuständig
+ ampel-regel:
+ rot: "Unwirksame Klausel BGB Paragraph 307"
+ gelb: "AGB-Wirksamkeit zweifelhaft"
+ gruen: "Wirksam oder Individualvereinbarung"
 ```
 
 ## Stapelung

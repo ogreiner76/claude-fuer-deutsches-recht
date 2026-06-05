@@ -1,13 +1,13 @@
 ---
 name: grosskanzlei-corporate-ma-cp-beirat
-description: "Nutze dies, wenn Grosskanzlei Corporate Ma Rechtsprechungsrecherche, Grosskanzlei Ma Fristen Cp Kalender, Beirat Musterklauseln, Gk Sanierungsgewinn Stille Reserven Klausel 8C Iv Kstg im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Corporate Ma Rechtsprechungsrecherche, Grosskanzlei Ma Fristen Cp Kalender, Beirat Musterklauseln, Gk Sanierungsgewinn Stille Reserven Klausel 8C Iv Kstg prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Corporate Ma Rechtsprechungsrecherche, Grosskanzlei Ma Fristen Cp Kalender, Beirat Musterklauseln, Gk Sanierungsgewinn Stille Reserven Klausel 8C Iv Kstg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grosskanzlei Corporate Ma Rechtsprechungsrecherche, Grosskanzlei Ma Fristen Cp Kalender, Beirat Musterklauseln, Gk Sanierungsgewinn Stille Reserven Klausel 8c Iv Kstg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Corporate Ma Rechtsprechungsrecherche, Grosskanzlei Ma Fristen Cp Kalender, Beirat Musterklauseln, Gk Sanierungsgewinn Stille Reserven Klausel 8C Iv Kstg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | --- | --- |
 | `grosskanzlei-corporate-ma-rechtsprechungsrecherche` | Corporate und M&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht für Gutachten, Schriftsatz oder DD-Report relevante BGH-Rechtsprechung zu Organpflichten, Kapitalmarkt, Umwandlung oder Insolvenz. §§ 93 und 179a AktG, § 15 AktG Verfahren. Prüfraster amtliche Bundes- und Landesquellen, Aktenzeichen-Verifizierung, Randnummern, Fundstellen-Kette, aktuelle BGH-Senats-Rechtsprechung. Output Rechtsprechungs-Digest mit Datum, Aktenzeichen, Leitsatz und Deal-Relevanz. Abgrenzung zu inhaltlicher Vertragsgestaltung in SPA/APA-Entwurf und zu Board-Paper. |
 | `grosskanzlei-ma-fristen-cp-kalender` | Freistehender Deal-Fristen- und CP-Kalender für M&A-Mandate: Anwendungsfall Fristen aus Signing Closing Q&A Regulatory Register Board und Restrukturierung muessen in einem Kalender zusammengeführt werden. SPA Closing Conditions, §§ 35 ff. GWB Kartellfristen, §§ 55 ff. AWV FDI-Fristen. Prüfraster Fristen aus E-Mail SPA Regulatory Filing und Board extrahieren, Duplikate zusammenführen, Wiedervorlagedaten setzen. Output Fristenkalender mit Quelle Owner Ampel und Eskalationsprotokoll. Abgrenzung zu Steps-Plan-PMO für Aufgabenmanagement und zu Automation-Monitoring. |
-| `beirat-musterklauseln` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-musterklauseln` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg` | Stille-Reserven-Klausel des § 8c Abs. 4 KStG und § 8d KStG als Schutzmechanismen für Verlustvorträge bei einem schädlichen Beteiligungserwerb. Beschreibt die Tatbestandsmerkmale, die Berechnungsmechanik, die Ermittlung der stillen Reserven, die Anforderungen an den § 8d-Antrag und die Fortführungsbindung. Liefert Berechnungsraster, Antrags-Checkliste und Risiko-Marker für die SPA-Dokumentation. Adressat ist das Großkanzlei-Team in komplexen Sanierungs- und Übernahmesituationen. Quellen Stand 06/2026. |
 
 ## Arbeitsweg
@@ -404,7 +404,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `beirat-musterklauseln`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 
 # Beirat Musterklauseln
@@ -516,7 +516,7 @@ Nicht dieser Skill, sondern `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkau
 - **§ 10a GewStG** – Parallelregelung Gewerbesteuer.
 - **§ 89 AO** – verbindliche Auskunft.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Teil A – § 8c Abs. 4 KStG (Stille-Reserven-Klausel):**
 
@@ -584,10 +584,10 @@ Der Schutz des Verlustvortrags ist Detailarbeit. Drei Beobachtungen:
 - Plugin `steuerrecht-anwalt-und-berater`: § 8c und § 8d KStG im Detail.
 - Plugin `insolvenzrecht`: Anteilseignerwechsel im Insolvenzplan.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
 
 ## Quellen Stand 06/2026
 

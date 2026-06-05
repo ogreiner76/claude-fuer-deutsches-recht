@@ -133,27 +133,27 @@ Unser Aktenzeichen: [AZ]
 
 Sehr geehrte Damen und Herren,
 
-wir pruefen den Einsatz von [PRODUKT] in unserer Kanzlei im Hinblick auf die 
+wir pruefen den Einsatz von [PRODUKT] in unserer Kanzlei im Hinblick auf die
 berufsrechtlichen Anforderungen nach § [NORM] [GESETZ] sowie §§ 203, 204 StGB.
 Dazu bitten wir um Beantwortung der folgenden Fragen bis zum [FRIST + 14 TAGE]:
 
 Frageblock 1 — Verschwiegenheit
-F1: Sind Ihre Mitarbeiter und alle Subunternehmer in Textform zur Verschwiegenheit 
-    ueber alle von uns eingegebenen Daten verpflichtet?
+F1: Sind Ihre Mitarbeiter und alle Subunternehmer in Textform zur Verschwiegenheit
+ ueber alle von uns eingegebenen Daten verpflichtet?
 F2: Gilt diese Verpflichtung auch nach Vertragsende zeitlich unbegrenzt?
 
 Frageblock 2 — Subunternehmer
-F3: Welche Subunternehmer (Modellanbieter, Hoster, Support-Dienstleister) haben 
-    Zugriff auf von uns eingegebene Daten?
-    Bitte vollstaendige Liste: Name, Sitz, Funktion, Verarbeitungsstandort.
-F4: Werden wir vor Wechsel oder Hinzunahme von Subunternehmern vorab in Textform 
-    informiert?
+F3: Welche Subunternehmer (Modellanbieter, Hoster, Support-Dienstleister) haben
+ Zugriff auf von uns eingegebene Daten?
+ Bitte vollstaendige Liste: Name, Sitz, Funktion, Verarbeitungsstandort.
+F4: Werden wir vor Wechsel oder Hinzunahme von Subunternehmern vorab in Textform
+ informiert?
 
 Frageblock 3 — Training und Drittstaat
-F5: Werden von uns eingegebene Daten zu Trainingszwecken genutzt? 
-    (Auch aggregiert oder anonymisiert?)
-F6: Wo werden unsere Daten verarbeitet und gespeichert? 
-    Werden US-Server oder US-Subunternehmer eingesetzt (CLOUD-Act-Risiko)?
+F5: Werden von uns eingegebene Daten zu Trainingszwecken genutzt?
+ (Auch aggregiert oder anonymisiert?)
+F6: Wo werden unsere Daten verarbeitet und gespeichert?
+ Werden US-Server oder US-Subunternehmer eingesetzt (CLOUD-Act-Risiko)?
 
 Wir bitten um Beantwortung in Textform.
 

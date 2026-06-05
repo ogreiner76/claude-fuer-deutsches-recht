@@ -1,13 +1,13 @@
 ---
 name: honorar-hoai-kuendigung-vob-bau
-description: "Nutze dies, wenn Bau Honorar Hoai Grundzuege, Bau Kündigung Vob Spezial, Bau Schiedsgutachten Spezial, Bau Sicherungsmittel Spezial im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Bitte Bau Honorar Hoai Grundzuege, Bau Kündigung Vob Spezial, Bau Schiedsgutachten Spezial, Bau Sicherungsmittel Spezial prüfen.; Erstelle eine Arbeitsfassung zu Bau Honorar Hoai Grundzuege, Bau Kündigung Vob Spezial, Bau Schiedsgutachten Spezial, Bau Sicherungsmittel Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bau Honorar Hoai Grundzuege, Bau Kündigung Vob Spezial, Bau Schiedsgutachten Spezial, Bau Sicherungsmittel Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bau Honorar Hoai Grundzuege, Bau Kündigung Vob Spezial, Bau Schiedsgutachten Spezial, Bau Sicherungsmittel Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bau Honorar Hoai Grundzuege, Bau Kündigung Vob Spezial, Bau Schiedsgutachten Spezial, Bau Sicherungsmittel Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -70,7 +70,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Rechtsprechung zu Corporate/M&A-Frage recherchieren | Recherche-Workflow und Ausgabeliste nach Template unten |
+| Standard — Rechtsprechung zu Corporate/M&A-Frage recherchieren | Recherche-und Ausgabeliste nach Template unten |
 | Variante A — Fragestellung sehr spezifisch und aktuell | Direkt in beck-online / juris suchen; Template als Ausgabeformat |
 | Variante B — Grundsatzfrage mit langer Rechtsprechungslinie | Kanoentabelle aufbauen; historische Entwicklung darstellen |
 | Variante C — auslaendisches oder EU-Recht relevant | Parallele Recherche EU-Ebene; EuGH-Urteile gesondert auflisten |
@@ -92,8 +92,8 @@ RECHERCHEERGEBNISSE
 Nr. | Gericht | Aktenzeichen | Datum | Fundstelle | Leitsatz (Paraphrase) | Verwertungsnotiz | Status
 ----|--------|-------------|-------|-----------|----------------------|-----------------|-------
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-2   | Rechtsprechung live pruefen | Gericht, Datum und Aktenzeichen erst nach freier/amtlicher Quelle eintragen | [Paraphrase] | [Relevanz] | verifiziert
-3   | [Gericht] | [Az.] | [Datum] | [Fundstelle] | [Paraphrase] | [Relevanz] | UNVERIFIED — bitte prüfen
+2 | Rechtsprechung live pruefen | Gericht, Datum und Aktenzeichen erst nach freier/amtlicher Quelle eintragen | [Paraphrase] | [Relevanz] | verifiziert
+3 | [Gericht] | [Az.] | [Datum] | [Fundstelle] | [Paraphrase] | [Relevanz] | UNVERIFIED — bitte prüfen
 
 NICHT GEFUNDEN / LÜCKEN
 - [Rechtsgebiet X]: Keine aktuelle BGH-Entscheidung ab 2020; ältester Bezug: [Az.]
@@ -102,7 +102,7 @@ NICHT GEFUNDEN / LÜCKEN
 OFFENE RECHERCHEFRAGEN (TODO)
 | Nr. | Frage | Owner | Frist | Eskalation |
 |----|-------|-------|-------|------------|
-| 1  | [Frage] | [Name] | [Datum] | [Stufe] |
+| 1 | [Frage] | [Name] | [Datum] | [Stufe] |
 
 ROUTING
 Ergebnisse verwendbar für:

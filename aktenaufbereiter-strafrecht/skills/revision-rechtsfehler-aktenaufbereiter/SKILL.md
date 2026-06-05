@@ -1,13 +1,13 @@
 ---
 name: revision-rechtsfehler-aktenaufbereiter
-description: "Nutze dies, wenn Revision Rechtsfehler Katalog, Spezial Aktenaufbereiter Erstpruefung Und Mandatsziel, Spezial Aktenvorblatt Schriftsatz Brief Und Memo Bausteine im Plugin Aktenaufbereiter Strafrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Revision Rechtsfehler Katalog, Aktenaufbereiter Erstpruefung Und Mandatsziel, Aktenvorblatt Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Revision Rechtsfehler Katalog, Spezial Aktenaufbereiter Erstpruefung Und Mandatsziel, Spezial Aktenvorblatt Schriftsatz Brief Und Memo Bausteine
+# Revision Rechtsfehler Katalog, Aktenaufbereiter Erstpruefung Und Mandatsziel, Aktenvorblatt Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Revision Rechtsfehler Katalog, Aktenaufbereiter Erstpruefung Und Mandatsziel, Aktenvorblatt Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Revision Rechtsfehler Katalog, Spezial Aktenaufbereiter Erstpruefung Und Mandatsziel, Spezial Aktenvorblatt Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Revision Rechtsfehler Katalog, Aktenaufbereiter Erstpruefung Und Mandatsziel, Aktenvorblatt Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenaufbereiter-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -83,7 +83,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 # Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel / spezial aktenaufbereiter erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel / aktenaufbereiter erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -124,7 +124,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine / spezial aktenvorblatt schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine / aktenvorblatt schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -160,52 +160,52 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Aktenvorblatt Strafsache Bausteine
 - **Standard-Aktenvorblatt Struktur:**
-  ```
-  STRAFSACHE [Mandantenname]
-  Aktenzeichen Verteidigung: ...
+ ```
+ STRAFSACHE [Mandantenname]
+ Aktenzeichen Verteidigung: ...
 
-  1. PARTEIEN
-  Mandant: [Name, geb. ..., wohnhaft ...]
-  Mandantenrolle: Beschuldigter / Angeklagter / Verletzter / Zeuge
-  Verteidiger: [Name, Kanzlei]
-  Gegenseite: Staatsanwaltschaft [Ort, Az ...]
+ 1. PARTEIEN
+ Mandant: [Name, geb. ..., wohnhaft ...]
+ Mandantenrolle: Beschuldigter / Angeklagter / Verletzter / Zeuge
+ Verteidiger: [Name, Kanzlei]
+ Gegenseite: Staatsanwaltschaft [Ort, Az ...]
 
-  2. VERFAHRENSSTAND
-  Ermittlungsverfahren / Hauptverfahren / Rechtsmittelverfahren
-  Az StA: ...
-  Az Gericht: ...
-  Sachbearbeiter StA: ... (Tel.)
-  Richter: ... (Schoeffengericht / Strafkammer / Strafrichter)
+ 2. VERFAHRENSSTAND
+ Ermittlungsverfahren / Hauptverfahren / Rechtsmittelverfahren
+ Az StA: ...
+ Az Gericht: ...
+ Sachbearbeiter StA: ... (Tel.)
+ Richter: ... (Schoeffengericht / Strafkammer / Strafrichter)
 
-  3. TATVORWURF
-  Tatzeit: ...
-  Tatort: ...
-  Gesetzliche Merkmale: § ... StGB ...
-  Strafrahmen: ... bis ... Jahre Freiheitsstrafe / Geldstrafe
+ 3. TATVORWURF
+ Tatzeit: ...
+ Tatort: ...
+ Gesetzliche Merkmale: § ... StGB ...
+ Strafrahmen: ... bis ... Jahre Freiheitsstrafe / Geldstrafe
 
-  4. AKTUELLE FRISTEN (kritisch!)
-  - Akteneinsicht beantragt am ... / erhalten am ...
-  - Stellungnahme bis ... (StA-Frist)
-  - Hauptverhandlung am ...
-  - Rechtsmittel: Berufung bis ... / Revision bis ...
+ 4. AKTUELLE FRISTEN (kritisch!)
+ - Akteneinsicht beantragt am ... / erhalten am ...
+ - Stellungnahme bis ... (StA-Frist)
+ - Hauptverhandlung am ...
+ - Rechtsmittel: Berufung bis ... / Revision bis ...
 
-  5. STATUS U-HAFT (falls einschlaegig)
-  Haftbefehl vom ... | Haftgrund ... | Pruefung OLG am ... (§ 121 StPO)
+ 5. STATUS U-HAFT (falls einschlaegig)
+ Haftbefehl vom ... | Haftgrund ... | Pruefung OLG am ... (§ 121 StPO)
 
-  6. BEWEISMITTEL UEBERSICHT
-  - Zeugen: [Name | Inhalt der Aussage | Belastend/Entlastend]
-  - Urkunden: ...
-  - Sachverstaendige: ...
-  - Asservate: ...
+ 6. BEWEISMITTEL UEBERSICHT
+ - Zeugen: [Name | Inhalt der Aussage | Belastend/Entlastend]
+ - Urkunden: ...
+ - Sachverstaendige: ...
+ - Asservate: ...
 
-  7. VORSTRAFEN (BZRG)
-  - [Datum] [Gericht] [Az] [Tat] [Strafe] [Tilgung]
-  - Verwertungsverbot § 51 BZRG: ...
+ 7. VORSTRAFEN (BZRG)
+ - [Datum] [Gericht] [Az] [Tat] [Strafe] [Tilgung]
+ - Verwertungsverbot § 51 BZRG: ...
 
-  8. STRATEGIE
-  - Mandantenziel: ...
-  - Verteidigungslinie: ...
-  - Naechster Schritt: ...
-  - Anschluss-Skills: ...
-  ```
+ 8. STRATEGIE
+ - Mandantenziel: ...
+ - Verteidigungslinie: ...
+ - Naechster Schritt: ...
+ - Anschluss-Skills: ...
+ ```
 - **Praxis-Tipp:** Aktenvorblatt bei jedem neuen Mandat sofort anlegen; bei jeder Aktenbearbeitung aktualisieren; vor Hauptverhandlung als Briefing-Tool.

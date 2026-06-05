@@ -174,11 +174,11 @@ Meldefrist: 2 Monate nach Vertragsschluss. Pruefdauer: 4 Monate (verlaengerbar).
 
 ```
 Umsaetze erreichen EU-Schwellen (FKVO Tier 1 oder 2)?
-  → Ja: EU-Kommission zustaendig (One-Stop-Shop)
-       → Ausnahme: Art. 9 FKVO Verweisung an nationale Behoerde beantragt?
-  → Nein: GWB-Schwellen erreicht?
-       → Ja: Bundeskartellamt; ggf. simultane Nicht-EU-Anmeldungen
-       → Nein: Keine Anmeldepflicht — trotzdem FDI-Screening pruefen!
+ → Ja: EU-Kommission zustaendig (One-Stop-Shop)
+ → Ausnahme: Art. 9 FKVO Verweisung an nationale Behoerde beantragt?
+ → Nein: GWB-Schwellen erreicht?
+ → Ja: Bundeskartellamt; ggf. simultane Nicht-EU-Anmeldungen
+ → Nein: Keine Anmeldepflicht — trotzdem FDI-Screening pruefen!
 ```
 
 ## Output-Template Regulatory-Memo
@@ -191,28 +191,28 @@ Transaktion: [DEAL-NAME]
 Datum: [DATUM]
 
 1. FUSIONSKONTROLLE
-   GWB-Schwellen: [Erreicht Ja/Nein; Details]
-   FKVO-Schwellen: [Erreicht Ja/Nein; Details]
-   Drittlaender-Anmeldungen: [USA HSR / UK / China / Sonstige]
-   Vollzugsverbot: [Ja/Nein; ab wann aufgehoben]
-   Erste-Phase-Dauer: [X Wochen]
+ GWB-Schwellen: [Erreicht Ja/Nein; Details]
+ FKVO-Schwellen: [Erreicht Ja/Nein; Details]
+ Drittlaender-Anmeldungen: [USA HSR / UK / China / Sonstige]
+ Vollzugsverbot: [Ja/Nein; ab wann aufgehoben]
+ Erste-Phase-Dauer: [X Wochen]
 
 2. FDI-SCREENING
-   Erwerber-Nationalitaet: [Land]
-   Zielsektor: [Sektor; AWV-Schwelle]
-   Meldefrist: [Datum]
-   Genehmigungspflicht: [Ja/Nein/Unsicher]
+ Erwerber-Nationalitaet: [Land]
+ Zielsektor: [Sektor; AWV-Schwelle]
+ Meldefrist: [Datum]
+ Genehmigungspflicht: [Ja/Nein/Unsicher]
 
 3. TIMELINE
-   | Meilenstein | Datum | Zustaendigkeit |
-   |------------|-------|---------------|
-   | Signing | [Datum] | Deal-Team |
-   | Anmeldung | [Datum] | Kartellrecht-Team |
-   | Phase-I-Frist | [Datum] | Behoerde |
-   | Voraussichtliches Closing | [Datum] | Alle |
+ | Meilenstein | Datum | Zustaendigkeit |
+ |------------|-------|---------------|
+ | Signing | [Datum] | Deal-Team |
+ | Anmeldung | [Datum] | Kartellrecht-Team |
+ | Phase-I-Frist | [Datum] | Behoerde |
+ | Voraussichtliches Closing | [Datum] | Alle |
 
 4. EMPFEHLUNG
-   [Strategie; Auflagen-Risiko; Zeitplan-Risiken]
+ [Strategie; Auflagen-Risiko; Zeitplan-Risiken]
 ```
 
 ## Rote Schwellen

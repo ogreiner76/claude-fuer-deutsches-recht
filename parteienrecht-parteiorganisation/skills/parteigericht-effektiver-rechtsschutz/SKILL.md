@@ -9,7 +9,7 @@ description: "Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch 
 
 Prüft parteigerichtliche Verfahren nicht nur nach Satzung, sondern nach ihrem praktischen Gewährleistungsgehalt: Zugang, Dauer, Gehör, Neutralität, Öffentlichkeit, Befangenheit und Erledigungsgefahr.
 
-## Kaltstart
+## Einstieg
 
 Wenn ein Dokument vorliegt, lies zuerst Satzung, Schiedsgerichtsordnung, angegriffene Maßnahme und Fristenlage. Frage höchstens vier Punkte nach:
 

@@ -1,20 +1,20 @@
 ---
 name: op-komplexe-patientenbrief-einwendung
-description: "Nutze dies, wenn Op Komplexe Narkose Assistenz Zuschlaege, Patientenbrief Und Einwendung Formulieren, Plausibilitaetscheck Rechnung Mathematisch im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte Op Komplexe Narkose Assistenz Zuschlaege, Patientenbrief Und Einwendung Formulieren, Plausibilitaetscheck Rechnung Mathematisch prüfen.; Erstelle eine Arbeitsfassung zu Op Komplexe Narkose Assistenz Zuschlaege, Patientenbrief Und Einwendung Formulieren, Plausibilitaetscheck Rechnung Mathematisch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Op Komplexe Narkose Assistenz Zuschlaege, Patientenbrief Und Einwendung Formulieren, Plausibilitaetscheck Rechnung Mathematisch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Op Komplexe Narkose Assistenz Zuschlaege, Patientenbrief Und Einwendung Formulieren, Plausibilitaetscheck Rechnung Mathematisch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Op Komplexe Narkose Assistenz Zuschlaege, Patientenbrief Und Einwendung Formulieren, Plausibilitaetscheck Rechnung Mathematisch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `op-komplexe-narkose-assistenz-zuschlaege` | OP-Komplexe Narkose Assistenz Zuschläge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
-| `patientenbrief-und-einwendung-formulieren` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Patientenbrief und Einwendung formulieren. |
+| `patientenbrief-und-einwendung-formulieren` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Patientenbrief und Einwendung formulieren. |
 | `plausibilitaetscheck-rechnung-mathematisch` | Plausibilitätscheck Rechnung mathematisch: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 
 ## Arbeitsweg
@@ -71,7 +71,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `patientenbrief-und-einwendung-formulieren`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Patientenbrief und Einwendung formulieren.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Patientenbrief und Einwendung formulieren.
 
 # Patientenbrief und Einwendung formulieren
 

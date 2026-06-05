@@ -1,13 +1,13 @@
 ---
 name: erstgespraech-mandatsannahme-fachanwalt
-description: "Nutze dies, wenn Erstgespraech Mandatsannahme, Fachanwalt Urheber Medienrecht Abmahnung Prüfen, Fachanwalt Urheber Medienrecht Filesharing Verteidigung im Plugin Fachanwalt Urheber Medienrecht konkret bearbeitet werden soll. Auslöser: Bitte Erstgespraech Mandatsannahme, Fachanwalt Urheber Medienrecht Abmahnung Prüfen, Fachanwalt Urheber Medienrecht Filesharing Verteidigung prüfen.; Erstelle eine Arbeitsfassung zu Erstgespraech Mandatsannahme, Fachanwalt Urheber Medienrecht Abmahnung Prüfen, Fachanwalt Urheber Medienrecht Filesharing Verteidigung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erstgespraech Mandatsannahme, Fachanwalt Urheber Medienrecht Abmahnung Prüfen, Fachanwalt Urheber Medienrecht Filesharing Verteidigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erstgespraech Mandatsannahme, Fachanwalt Urheber Medienrecht Abmahnung Prüfen, Fachanwalt Urheber Medienrecht Filesharing Verteidigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erstgespraech Mandatsannahme, Fachanwalt Urheber Medienrecht Abmahnung Prüfen, Fachanwalt Urheber Medienrecht Filesharing Verteidigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -93,19 +93,19 @@ Standard-Streitwerte im Urheber- und Medienrecht:
 ```
 MANDATSBOGEN — URHEBER-/MEDIENRECHT
 
-Datum:            [TT.MM.JJJJ]
-Aktenzeichen:     [INTERN]
-Mandant:          [NAME, Geburtsdatum, Adresse, Telefon, E-Mail]
-Gegner:           [NAME, Adresse, ggf. anwaltliche Vertretung]
-Sachgebiet:       [ ] Urheberrecht  [ ] KUG  [ ] Presserecht  [ ] Rundfunk  [ ] VGG
+Datum: [TT.MM.JJJJ]
+Aktenzeichen: [INTERN]
+Mandant: [NAME, Geburtsdatum, Adresse, Telefon, E-Mail]
+Gegner: [NAME, Adresse, ggf. anwaltliche Vertretung]
+Sachgebiet: [ ] Urheberrecht [ ] KUG [ ] Presserecht [ ] Rundfunk [ ] VGG
 Verletzungsobjekt:[Werk/Bild/Aeusserung kurz beschreiben]
 Veroeffentl.-Datum:[TT.MM.JJJJ]
-Frist:            [DATUM] — Bereich: [Abmahnung/eV/Gegendarstellung]
-Konflikt-Check:   [ ] geprueft, kein Konflikt  [ ] Einwilligung liegt vor
-GwG:              [ ] Identifizierung erfolgt  [ ] Risiko: [niedrig/mittel/hoch]
-Vollmacht:        [ ] unterschrieben am [DATUM]
-Streitwert:       ca. [BETRAG] EUR (Schaetzung)
-Honorar:          [ ] RVG  [ ] Stundenhonorar [BETRAG EUR/h]
+Frist: [DATUM] — Bereich: [Abmahnung/eV/Gegendarstellung]
+Konflikt-Check: [ ] geprueft, kein Konflikt [ ] Einwilligung liegt vor
+GwG: [ ] Identifizierung erfolgt [ ] Risiko: [niedrig/mittel/hoch]
+Vollmacht: [ ] unterschrieben am [DATUM]
+Streitwert: ca. [BETRAG] EUR (Schaetzung)
+Honorar: [ ] RVG [ ] Stundenhonorar [BETRAG EUR/h]
 Naechste Schritte: 1. [MASSNAHME] bis [DATUM] — 2. [MASSNAHME] bis [DATUM]
 ```
 
@@ -133,9 +133,9 @@ Mit freundlichen Gruessen
 
 ```
 Schritt 1: Frist identifizieren
-  → Abmahnung: Reaktionsfrist pruefen (uebl. 7-14 Tage)
-  → Gegendarstellung: LPG-Frist pruefen (uebl. 2-3 Monate)
-  → einstweilige Verfuegung: Widerspruchsfrist 14 Tage (§ 924 ZPO)
+ → Abmahnung: Reaktionsfrist pruefen (uebl. 7-14 Tage)
+ → Gegendarstellung: LPG-Frist pruefen (uebl. 2-3 Monate)
+ → einstweilige Verfuegung: Widerspruchsfrist 14 Tage (§ 924 ZPO)
 
 Schritt 2: Konflikt-Check und GwG
 
@@ -277,12 +277,12 @@ Ihre Mandantschaft hat die Aktivlegitimation nicht belegt.
 
 Insbesondere fehlen:
 1. Der Nachweis der Urheberschaft (Name des Schöpfers, Datum
-   der Schöpfung, Werkbeschreibung)
+ der Schöpfung, Werkbeschreibung)
 2. Der Übertragungsvertrag / ausschließliche Lizenz an Ihre
-   Mandantschaft mit dem Nachweis, dass diese Nutzungsart
-   (§ 19a UrhG, Online-Veröffentlichung) umfasst ist
+ Mandantschaft mit dem Nachweis, dass diese Nutzungsart
+ (§ 19a UrhG, Online-Veröffentlichung) umfasst ist
 3. Bei VG-Mandat: der Wahrnehmungsvertrag und der Nachweis,
-   dass das in Rede stehende Werk eingebracht wurde
+ dass das in Rede stehende Werk eingebracht wurde
 
 Wir fordern Sie auf, diese Unterlagen binnen [7] Tagen
 vollständig vorzulegen.
@@ -323,11 +323,11 @@ zu nutzen.
 
 Diese Erklärung:
 – begründet kein Anerkenntnis bzgl. Schadensersatz (§ 97
-  Abs. 2 UrhG), Auskunft (§ 101 UrhG) oder Kostenerstattung
+ Abs. 2 UrhG), Auskunft (§ 101 UrhG) oder Kostenerstattung
 – gilt nur für die konkrete Verletzungsform und kerngleiche
-  Handlungen im Sinne der BGH-Rechtsprechung
+ Handlungen im Sinne der BGH-Rechtsprechung
 – unterliegt der Annahmepflicht der Gläubigerseite; Wirkung
-  tritt erst mit Zugang der Annahmebestätigung ein
+ tritt erst mit Zugang der Annahmebestätigung ein
 
 [Ort, Datum, Unterschrift]
 ```
@@ -494,9 +494,9 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 - Standard-Erklärung der Kanzlei akzeptiert oft zu viel
 - Modifikation:
-  - Nur konkrete Tat (nicht generelle Schutz-Tat)
-  - Eingeschraenkte Verpflichtung
-  - Vertragsstrafe-Höhe (Hamburger Brauch)
+ - Nur konkrete Tat (nicht generelle Schutz-Tat)
+ - Eingeschraenkte Verpflichtung
+ - Vertragsstrafe-Höhe (Hamburger Brauch)
 
 ## 4) Streitwert-Begrenzung § 97a III UrhG
 

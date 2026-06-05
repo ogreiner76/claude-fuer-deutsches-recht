@@ -1,13 +1,13 @@
 ---
 name: arbeitsgericht-abrechnung
-description: "Nutze dies, wenn Vergleich Arbeitsgericht Abrechnung, Vergleichsverhandlung Strategie, Zugang Kündigung Bote Beweis im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vergleich Arbeitsgericht Abrechnung, Vergleichsverhandlung Strategie, Zugang Kündigung Bote Beweis prüfen.; Erstelle eine Arbeitsfassung zu Vergleich Arbeitsgericht Abrechnung, Vergleichsverhandlung Strategie, Zugang Kündigung Bote Beweis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vergleich Arbeitsgericht Abrechnung, Vergleichsverhandlung Strategie, Zugang Kündigung Bote Beweis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vergleich Arbeitsgericht Abrechnung, Vergleichsverhandlung Strategie, Zugang Kündigung Bote Beweis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vergleich Arbeitsgericht Abrechnung, Vergleichsverhandlung Strategie, Zugang Kündigung Bote Beweis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -41,7 +41,7 @@ Für **Vergleich Arbeitsgericht Abrechnung, Vergleichsverhandlung Strategie, Zug
 
 ## Auftrag
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
 
 ## Normanker
 
@@ -257,7 +257,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Auftrag
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
 
 ## Normanker
 

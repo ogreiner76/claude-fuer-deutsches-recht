@@ -1,13 +1,13 @@
 ---
 name: stb-bwa-stb-bwa-stb-bwa-stb-bwa-stb
-description: "Nutze dies, wenn Stb Bwa Aufbau Grundlagen, Stb Bwa Mandantengespraech Übergabe, Stb Bwa Monatsabschluss Routine, Stb Bwa Soll Ist Vergleich, Stb Drv Sozialversicherungspruefung und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Bwa Aufbau Grundlagen, Stb Bwa Mandantengespraech Übergabe, Stb Bwa Monatsabschluss Routine, Stb Bwa Soll Ist Vergleich, Stb Drv Sozialversicherungspruefung und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Bwa Aufbau Grundlagen, Stb Bwa Mandantengespraech Übergabe, Stb Bwa Monatsabschluss Routine, Stb Bwa Soll Ist Vergleich, Stb Drv Sozialversicherungspruefung und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Bwa Aufbau Grundlagen, Stb Bwa Mandantengespraech Uebergabe, Stb Bwa Monatsabschluss Routine, Stb Bwa Soll Ist Vergleich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Bwa Aufbau Grundlagen, Stb Bwa Mandantengespraech Übergabe, Stb Bwa Monatsabschluss Routine, Stb Bwa Soll Ist Vergleich, Stb Drv Sozialversicherungspruefung und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Bwa Aufbau Grundlagen, Stb Bwa Mandantengespraech Übergabe, Stb Bwa Monatsabschluss Routine, Stb Bwa Soll Ist Vergleich, Stb Drv Sozialversicherungspruefung und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -750,9 +750,9 @@ Folge bei Umqualifizierung: Nachzahlung Beiträge **rückwirkend bis 4 Jahre** (
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 bundle_044
-  → Leitsatz korrigiert zu echtem Inhalt (Scheinselbständigkeit Physiotherapeutin)
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → Leitsatz korrigiert zu echtem Inhalt (Scheinselbständigkeit Physiotherapeutin)
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
 
 ## 6. `stb-jahresabschluss-abgrenzungen-rap-rai`
@@ -1090,13 +1090,13 @@ Das Massgeblichkeitsprinzip (§ 5 EStG) verbindet Handels- und Steuerbilanz: die
 ### Phase 4 — Ueberleitungsrechnung
 
 ```
-JAHRESERGEBNIS HANDELSBILANZ                [X]
-+ Drohende-Verluste-Rueckstellungen          [+Y]
-+ Steuerliche Sonder-AfA Mehrabschreibung    [-Z]
-+ Anpassung Pensionsrueckstellung            [+/-]
-+ IAB (Ruecklage)                            [-Y]
-- Andere Wahlrechte                          [+/-]
-= JAHRESERGEBNIS STEUERBILANZ                [W]
+JAHRESERGEBNIS HANDELSBILANZ [X]
++ Drohende-Verluste-Rueckstellungen [+Y]
++ Steuerliche Sonder-AfA Mehrabschreibung [-Z]
++ Anpassung Pensionsrueckstellung [+/-]
++ IAB (Ruecklage) [-Y]
+- Andere Wahlrechte [+/-]
+= JAHRESERGEBNIS STEUERBILANZ [W]
 ```
 
 ### Phase 5 — E-Bilanz-Uebermittlung

@@ -1,13 +1,13 @@
 ---
 name: bieterstrategie-go-eforms-ted-eignung
-description: "Nutze dies, wenn Bieterstrategie Go No Go, Eforms Ted Bekanntmachung Check, Eignung Referenzen Umsatz Nachunternehmer, Erstgespraech Mandatsannahme im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Bieterstrategie Go No Go, Eforms Ted Bekanntmachung Check, Eignung Referenzen Umsatz Nachunternehmer, Erstgespraech Mandatsannahme prüfen.; Erstelle eine Arbeitsfassung zu Bieterstrategie Go No Go, Eforms Ted Bekanntmachung Check, Eignung Referenzen Umsatz Nachunternehmer, Erstgespraech Mandatsannahme.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bieterstrategie Go No Go, Eforms Ted Bekanntmachung Check, Eignung Referenzen Umsatz Nachunternehmer, Erstgespraech Mandatsannahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bieterstrategie Go No Go, Eforms Ted Bekanntmachung Check, Eignung Referenzen Umsatz Nachunternehmer, Erstgespraech Mandatsannahme
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bieterstrategie Go No Go, Eforms Ted Bekanntmachung Check, Eignung Referenzen Umsatz Nachunternehmer, Erstgespraech Mandatsannahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -414,19 +414,19 @@ Bevor losgelegt wird, klaere:
 ```
 MANDATSBOGEN Vergaberecht
 =========================================
-Datum Erstgespraech:      [TT.MM.JJJJ]
-Mandant:                  [NAME / UNTERNEHMEN]
-Rolle Mandant:            [Bieter / Auftraggeber / Beigeladene]
-Vergabeverfahren:         [TED-Nr. / Az. Vergabestelle]
-Auftraggeber:             [NAME, ANSCHRIFT]
+Datum Erstgespraech: [TT.MM.JJJJ]
+Mandant: [NAME / UNTERNEHMEN]
+Rolle Mandant: [Bieter / Auftraggeber / Beigeladene]
+Vergabeverfahren: [TED-Nr. / Az. Vergabestelle]
+Auftraggeber: [NAME, ANSCHRIFT]
 Auftragswert (geschaetzt):EUR [BETRAG]
 Schwellenwert ueberschritten: JA / NEIN
-Kenntnisdatum Verstoss:   [TT.MM.JJJJ]
-Ruegeobliegenheit-Frist:  [TT.MM.JJJJ] (§ 160 Abs. 3 GWB)
+Kenntnisdatum Verstoss: [TT.MM.JJJJ]
+Ruegeobliegenheit-Frist: [TT.MM.JJJJ] (§ 160 Abs. 3 GWB)
 Informationsschreiben § 134 GWB vom: [DATUM]
-Stillhaltefrist bis:      [DATUM]
-Zuschlag erteilt:         JA / NEIN
-Naechster Schritt:        [Ruege / NPA / Klage § 181 GWB]
+Stillhaltefrist bis: [DATUM]
+Zuschlag erteilt: JA / NEIN
+Naechster Schritt: [Ruege / NPA / Klage § 181 GWB]
 =========================================
 ```
 

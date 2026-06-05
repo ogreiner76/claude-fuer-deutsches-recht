@@ -1,13 +1,13 @@
 ---
 name: betreiber-deployer-bevollmaechtigter
-description: "Nutze dies, wenn Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen prüfen.; Erstelle eine Arbeitsfassung zu Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -277,7 +277,7 @@ Gepruefte Norm(en): [Art. 22 Rn. 4]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -377,7 +377,7 @@ Prüffragen:
 
 Diese Standards können als Arbeitsrahmen dienen, ohne automatisch KI-VO-Konformität zu beweisen:
 
-| Standard | Nutzen im KI-VO-Workflow | Vorsicht |
+| Standard | Nutzen im KI-VO-| Vorsicht |
 |---|---|---|
 | ISO/IEC 42001:2023 | AI Management System, Governance, Rollen, Richtlinien, kontinuierliche Verbesserung | nicht identisch mit allen KI-VO-Pflichten; keine Vermutungswirkung ohne harmonisierte Referenz |
 | ISO/IEC 23894:2023 | AI Risk Management, Risikoidentifikation, Bewertung, Behandlung, Monitoring | an Art. 9 KI-VO anpassen, Grundrechte ausdrücklich ergänzen |

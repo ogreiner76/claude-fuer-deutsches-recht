@@ -1,13 +1,13 @@
 ---
 name: immo-zwangsversteigerung-frist-naechster
-description: "Nutze dies, wenn Immo Zwangsversteigerung Verfahren, Spezial Immobilienrechtspraxis Frist Naechster Schritt, Spezial Rechtsabteilungen Fristen Form Und Zustaendigkeit im Plugin Immobilienrechtspraxis konkret bearbeitet werden soll. Auslöser: Bitte Immo Zwangsversteigerung Verfahren, Spezial Immobilienrechtspraxis Frist Naechster Schritt, Spezial Rechtsabteilungen Fristen Form Und Zustaendigkeit prüfen.; Erstelle eine Arbeitsfassung zu Immo Zwangsversteigerung Verfahren, Spezial Immobilienrechtspraxis Frist Naechster Schritt, Spezial Rechtsabteilungen Fristen Form Und Zustaendigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Immo Zwangsversteigerung Verfahren, Immobilienrechtspraxis Frist Naechster Schritt, Rechtsabteilungen Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Immo Zwangsversteigerung Verfahren, Spezial Immobilienrechtspraxis Frist Naechster Schritt, Spezial Rechtsabteilungen Fristen Form Und Zustaendigkeit
+# Immo Zwangsversteigerung Verfahren, Immobilienrechtspraxis Frist Naechster Schritt, Rechtsabteilungen Fristen Form Und Zustaendigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Immo Zwangsversteigerung Verfahren, Immobilienrechtspraxis Frist Naechster Schritt, Rechtsabteilungen Fristen Form Und Zustaendigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Immo Zwangsversteigerung Verfahren, Spezial Immobilienrechtspraxis Frist Naechster Schritt, Spezial Rechtsabteilungen Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `immobilienrechtspraxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Immo Zwangsversteigerung Verfahren, Immobilienrechtspraxis Frist Naechster Schritt, Rechtsabteilungen Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `immobilienrechtspraxis` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

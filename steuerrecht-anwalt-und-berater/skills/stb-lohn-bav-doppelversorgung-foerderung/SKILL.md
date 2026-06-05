@@ -62,9 +62,9 @@ Hat ein AN mehrere bAV-Vertraege (z.B. Direktversicherung und Pensionskasse), gr
 
 - Ueberschiessender Beitrag: voll LSt-pflichtig.
 - Optionen:
-  - Beitrag reduzieren (in einem Vertrag).
-  - Ueberschuss versteuern (Mandant akzeptiert).
-  - Beitrag in Direktzusage umwandeln (kein § 3 Nr. 63 EStG-Limit, aber andere Behandlung).
+ - Beitrag reduzieren (in einem Vertrag).
+ - Ueberschuss versteuern (Mandant akzeptiert).
+ - Beitrag in Direktzusage umwandeln (kein § 3 Nr. 63 EStG-Limit, aber andere Behandlung).
 
 ### Phase 4 — Altvertraege § 40b EStG a.F.
 

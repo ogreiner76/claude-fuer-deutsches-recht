@@ -1,13 +1,13 @@
 ---
 name: olg-vergabesenat-resilienz-sicherheit
-description: "Nutze dies, wenn Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -218,7 +218,7 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 
 ## Prüfschema: Rügeschriftsatz Vergaberecht
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Inhalt | Grundlage |
 |---------|--------|-----------|
@@ -258,7 +258,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Baustein 1 — Rüge wegen unklarer Leistungsbeschreibung
 
 ```
-[Briefkopf Rechtsanwalt]                         [Ort, Datum]
+[Briefkopf Rechtsanwalt] [Ort, Datum]
 
 [Vergabestelle]
 [Adresse gemäß Bekanntmachung]
@@ -322,7 +322,7 @@ Mit freundlichen Grüßen
 ### Baustein 2 — Rüge wegen diskriminierender Eignungsanforderung
 
 ```
-[Briefkopf Rechtsanwalt]                         [Ort, Datum]
+[Briefkopf Rechtsanwalt] [Ort, Datum]
 
 [Vergabestelle]
 [Adresse]
@@ -363,7 +363,7 @@ III. Antrag
 
 Wir beantragen:
 1. Streichung der Mindestwertvorgabe je Referenz, ersatzweise
-   Absenkung auf maximal [50 % des Auftragswerts] Euro,
+ Absenkung auf maximal [50 % des Auftragswerts] Euro,
 2. Erweiterung des Referenzzeitraums auf fünf Jahre,
 3. Verlängerung der Angebotsfrist nach Klarstellung.
 
@@ -381,7 +381,7 @@ Mit freundlichen Grüßen
 ### Baustein 3 — Rüge wegen fehlerhafter Wertung / ungewöhnlich niedrigem Angebot
 
 ```
-[Briefkopf Rechtsanwalt]                         [Ort, Datum]
+[Briefkopf Rechtsanwalt] [Ort, Datum]
 
 [Vergabestelle]
 [Adresse]
@@ -423,7 +423,7 @@ Wir beantragen:
 1. Nachträgliche Durchführung der Aufklärung nach § 60 VgV,
 2. Dokumentation des Aufklärungsverfahrens im Vergabevermerk,
 3. Ggf. Ausschluss des Angebots der [Bieter-Firma X] bei unzureichender
-   Aufklärung und Neubewertung der verbleibenden Angebote,
+ Aufklärung und Neubewertung der verbleibenden Angebote,
 4. Aussetzung der Zuschlagserteilung bis zur Entscheidung über diese Rüge.
 
 Bei Nichtabhilfe werden wir binnen 15 Kalendertagen den
@@ -555,22 +555,22 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Vergabe [BEZEICHNUNG], Az./TED-Nr. [NR.]
 Unser Mandant: [BIETER], vertreten durch [Kanzlei]
 
-R U E G E  nach § 160 Abs. 3 GWB
+R U E G E nach § 160 Abs. 3 GWB
 
 1. Kenntniszeitpunkt: [DATUM] aus [QUELLE]
 2. Verstoss:
-   Verletzung von [§ XY GWB / § ZY VgV]:
-   [Konkrete Beschreibung]
+ Verletzung von [§ XY GWB / § ZY VgV]:
+ [Konkrete Beschreibung]
 3. Frist: Die 10-Tage-Frist des § 160 Abs. 3 Nr. 1 GWB
-   ist gewahrt (Kenntnisdatum [DATUM]).
+ ist gewahrt (Kenntnisdatum [DATUM]).
 4. Antrag auf Abhilfe:
-   [Massnahme: z.B. Neuberechnung Wertung /
-   Einsicht in Wertungsunterlagen /
-   Aufhebung diskriminierender Anforderung]
+ [Massnahme: z.B. Neuberechnung Wertung /
+ Einsicht in Wertungsunterlagen /
+ Aufhebung diskriminierender Anforderung]
 5. Androhung:
-   Bei Nichtabhilfe werden wir binnen 15 Tagen
-   Nachpruefungsantrag bei der Vergabekammer stellen
-   (§ 160 Abs. 3 Nr. 4 GWB).
+ Bei Nichtabhilfe werden wir binnen 15 Tagen
+ Nachpruefungsantrag bei der Vergabekammer stellen
+ (§ 160 Abs. 3 Nr. 4 GWB).
 
 [Rechtsanwalt/-anwaeltin, Fachanwalt Vergaberecht]
 ```

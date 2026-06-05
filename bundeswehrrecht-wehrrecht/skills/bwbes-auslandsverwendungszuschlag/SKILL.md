@@ -1,13 +1,13 @@
 ---
 name: bwbes-auslandsverwendungszuschlag
-description: "Nutze dies, wenn Bwbes Neu 003 Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Neu 004 Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Neu 005 Erschwerniszulagen Militaerischer Dienst im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Bwbes Neu 003 Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Neu 004 Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Neu 005 Erschwerniszulagen Militaerischer Dienst prüfen.; Erstelle eine Arbeitsfassung zu Bwbes Neu 003 Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Neu 004 Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Neu 005 Erschwerniszulagen Militaerischer Dienst.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bwbes Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Erschwerniszulagen Militaerischer Dienst: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Bwbes Neu 003 Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Neu 004 Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Neu 005 Erschwerniszulagen Militaerischer Dienst
+# Bwbes Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Erschwerniszulagen Militaerischer Dienst
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bwbes Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Erschwerniszulagen Militaerischer Dienst** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Bwbes Neu 003 Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Neu 004 Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Neu 005 Erschwerniszulagen Militaerischer Dienst** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bwbes Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Erschwerniszulagen Militaerischer Dienst** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -115,7 +115,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -226,7 +226,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -336,7 +336,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

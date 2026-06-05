@@ -1,22 +1,22 @@
 ---
 name: papst-primat-papsttreue-kommunikation
-description: "Nutze dies, wenn Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten prüfen.; Erstelle eine Arbeitsfassung zu Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pastorale Triage Sakrament Status Lehre Oder Recht, Paten Und Firmpaten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `papst-primat-und-communio` | Papst, Primat und Communio: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `papsttreue-kommunikation-ohne-hartefehler` | Papsttreue Kommunikation ohne Härtefehler: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `pastorale-triage-sakrament-status-lehre-oder-recht` | Pastorale Triage: Sakrament, Status, Lehre oder Recht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `paten-und-firmpaten` | Paten und Firmpaten: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `papst-primat-und-communio` | Papst, Primat und Communio: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `papsttreue-kommunikation-ohne-hartefehler` | Papsttreue Kommunikation ohne Härtefehler: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `pastorale-triage-sakrament-status-lehre-oder-recht` | Pastorale Triage: Sakrament, Status, Lehre oder Recht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `paten-und-firmpaten` | Paten und Firmpaten: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Papst Primat Und Communio, Papsttreue Kommunikation Ohne Hartefehler, Pas
 
 ## 1. `papst-primat-und-communio`
 
-**Fokus:** Papst, Primat und Communio: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Papst, Primat und Communio: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Papst, Primat und Communio
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `papsttreue-kommunikation-ohne-hartefehler`
 
-**Fokus:** Papsttreue Kommunikation ohne Härtefehler: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Papsttreue Kommunikation ohne Härtefehler: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Papsttreue Kommunikation ohne Härtefehler
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `pastorale-triage-sakrament-status-lehre-oder-recht`
 
-**Fokus:** Pastorale Triage: Sakrament, Status, Lehre oder Recht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Pastorale Triage: Sakrament, Status, Lehre oder Recht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Pastorale Triage: Sakrament, Status, Lehre oder Recht
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `paten-und-firmpaten`
 
-**Fokus:** Paten und Firmpaten: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Paten und Firmpaten: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Paten und Firmpaten
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

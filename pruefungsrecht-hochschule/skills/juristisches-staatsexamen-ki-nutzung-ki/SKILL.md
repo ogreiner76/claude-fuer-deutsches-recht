@@ -1,13 +1,13 @@
 ---
 name: juristisches-staatsexamen-ki-nutzung-ki
-description: "Nutze dies, wenn Juristisches Staatsexamen, Ki Nutzung Offenlegung, Ki Nutzung Und Eigenstaendigkeit, Krankheit Und Rücktritt im Plugin Pruefungsrecht Hochschule konkret bearbeitet werden soll. Auslöser: Bitte Juristisches Staatsexamen, Ki Nutzung Offenlegung, Ki Nutzung Und Eigenstaendigkeit, Krankheit Und Rücktritt prüfen.; Erstelle eine Arbeitsfassung zu Juristisches Staatsexamen, Ki Nutzung Offenlegung, Ki Nutzung Und Eigenstaendigkeit, Krankheit Und Rücktritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Juristisches Staatsexamen, Ki Nutzung Offenlegung, Ki Nutzung Und Eigenstaendigkeit, Krankheit Und Rücktritt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Juristisches Staatsexamen, Ki Nutzung Offenlegung, Ki Nutzung Und Eigenstaendigkeit, Krankheit Und Rücktritt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Juristisches Staatsexamen, Ki Nutzung Offenlegung, Ki Nutzung Und Eigenstaendigkeit, Krankheit Und Rücktritt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

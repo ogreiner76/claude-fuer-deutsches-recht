@@ -1,13 +1,13 @@
 ---
 name: ins-chatgruppe-ins-familienangeh
-description: "Nutze dies, wenn Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige prüfen.; Erstelle eine Arbeitsfassung zu Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,7 +55,7 @@ Präventionsmaßnahmen.
 
 - Wer sind die Teilnehmer der Chatgruppe?
 - Haben Teilnehmer Zugang zu Insiderinformationen (Primärinsider: Mitarbeiter des Emittenten;
-  Sekundärinsider: Informationen aus Tipping)?
+ Sekundärinsider: Informationen aus Tipping)?
 - Wurden Transaktionen auf Basis dieser Informationen koordiniert?
 - Kausalitätsnachweis: Chat-Zeitpunkt vs. Transaktionszeitpunkt
 
@@ -64,13 +64,13 @@ Präventionsmaßnahmen.
 - Wurde eine koordinierte Handelsstrategie (z. B. Pump-and-Dump) in der Gruppe abgestimmt?
 - Wurden falsche oder irreführende Informationen verbreitet, die den Kurs beeinflussen sollten?
 - Meme Stocks: Koordinierte Käufe ohne Insiderinformation können als Marktmanipulation
-  qualifiziert werden, wenn eine verzerrende Preiswirkung beabsichtigt ist
+ qualifiziert werden, wenn eine verzerrende Preiswirkung beabsichtigt ist
 
 ### Schritt 3 – Strafrechtliche Risiken (§ 119 WpHG)
 
 - Vorsatz: Koordination in Chatgruppen belegt regelmäßig Vorsatz
 - Gewerbsmäßig (§ 119 Abs. 2 WpHG): Wenn Handel regelmäßig und zur Gewinnerzielung
-  → erhöhter Strafrahmen (bis zu 10 Jahre)
+ → erhöhter Strafrahmen (bis zu 10 Jahre)
 - Mittäterschaft: Alle aktiv koordinierenden Teilnehmer sind Mittäter (§ 25 Abs. 2 StGB)
 - Anstiftung / Beihilfe: Reine Empfänger und Weiterleiter können auch strafbar sein
 
@@ -138,12 +138,12 @@ a) Ehegatte oder eingetragener Lebenspartner
 b) Unterhaltsverpflichtete Kinder des PDMR
 c) Verwandte, die seit mindestens 1 Jahr im gemeinsamen Haushalt leben
 d) Juristische Personen, Trusts, Personengesellschaften unter Kontrolle des PDMR oder
-   einer der genannten natürlichen Personen
+ einer der genannten natürlichen Personen
 
 ### Schritt 2 – Eigenständige MAR-Pflichten nahestehender Personen
 
 - Handelsverbot nach Art. 14 MAR: Kein Handel auf Basis von Insiderinformationen des PDMR
-  (auch wenn diese nur beiläufig erwähnt wurden)
+ (auch wenn diese nur beiläufig erwähnt wurden)
 - Directors' Dealings nach Art. 19 MAR: Alle Eigengeschäfte ≥ 20.000 EUR meldepflichtig
 - Frist: 3 Geschäftstage nach Transaktion an BaFin und Emittent
 
@@ -152,7 +152,7 @@ d) Juristische Personen, Trusts, Personengesellschaften unter Kontrolle des PDMR
 - PDMR darf nahestehenden Personen keine Insiderinformationen mitteilen (Art. 10 MAR)
 - Selbst beiläufige Erwähnung kann Art. 10 MAR-Verstoß sein
 - „Need-to-know" gilt auch im privaten Bereich: Keine Gespräche über laufende
-  Transaktionen zu Hause
+ Transaktionen zu Hause
 - Schulung: PDMRs müssen explizit über Tipping-Verbot im privaten Umfeld belehrt werden
 
 ### Schritt 4 – Pre-Clearance für nahestehende Personen
@@ -166,7 +166,7 @@ d) Juristische Personen, Trusts, Personengesellschaften unter Kontrolle des PDMR
 
 - PDMRs auf Jahresschulung: Explizites Modul zu Familienangehörigen und Tipping-Verbot
 - Schriftliche Verpflichtung des PDMR: Ich werde keine Insiderinformationen an nahestehende
-  Personen weitergeben
+ Personen weitergeben
 - Merkblatt für PDMRs: „Was darf ich zu Hause nicht sagen?"
 
 ## Red-Team-Fragen

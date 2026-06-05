@@ -1,13 +1,13 @@
 ---
 name: parteiprogramm-formal-parteitag-planung
-description: "Nutze dies, wenn Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss prüfen.; Erstelle eine Arbeitsfassung zu Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsa
 ## Aufgabe
 Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Plant Parteitag/Hauptversammlung: Einladung, Antragsfristen, Wahlordnung, Mandatsprüfung, Präsidium, Protokoll.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Routet nur formal: Zuständigkeiten, Folgen, Vorsicht, keine politische Bewertung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -133,9 +133,9 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 1. Parteiverbot (Art. 21 II GG)
 - **Voraussetzungen:**
-  - Partei verfolgt nach ihren Zielen oder dem Verhalten ihrer Anhänger
-  - Beeinträchtigung oder Beseitigung der freiheitlichen demokratischen Grundordnung **oder**
-  - Gefährdung des Bestandes der BRD.
+ - Partei verfolgt nach ihren Zielen oder dem Verhalten ihrer Anhänger
+ - Beeinträchtigung oder Beseitigung der freiheitlichen demokratischen Grundordnung **oder**
+ - Gefährdung des Bestandes der BRD.
 - **Potentialität** (BVerfG, Urteil vom 17.01.2017, 2 BvB 1/13 — NPD II): "darauf ausgehen" verlangt aktives, planvolles Handeln; potentielle Möglichkeit des Erfolgs.
 - **Antrag** § 43 BVerfGG durch Bundestag, Bundesrat oder Bundesregierung beim BVerfG.
 - **Verfahren** §§ 43-47 BVerfGG (Sonderzuständigkeit Zweiter Senat).

@@ -1,13 +1,13 @@
 ---
 name: massenentlassung-kschg-schriftsatzkern
-description: "Nutze dies, wenn Massenentlassung 17 Kschg Realitaetscheck, Schriftsatzkern Substantiierung, Spezial Arbeitsrecht Tatbestand Beweis Und Belege im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Massenentlassung 17 Kschg Realitaetscheck, Schriftsatzkern Substantiierung, Spezial Arbeitsrecht Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Massenentlassung 17 Kschg Realitaetscheck, Schriftsatzkern Substantiierung, Spezial Arbeitsrecht Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Massenentlassung 17 Kschg Realitaetscheck, Schriftsatzkern Substantiierung, Arbeitsrecht Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Massenentlassung 17 Kschg Realitaetscheck, Schriftsatzkern Substantiierung, Spezial Arbeitsrecht Tatbestand Beweis Und Belege
+# Massenentlassung 17 Kschg Realitaetscheck, Schriftsatzkern Substantiierung, Arbeitsrecht Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Massenentlassung 17 Kschg Realitaetscheck, Schriftsatzkern Substantiierung, Arbeitsrecht Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Massenentlassung 17 Kschg Realitaetscheck, Schriftsatzkern Substantiierung, Spezial Arbeitsrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Massenentlassung 17 Kschg Realitaetscheck, Schriftsatzkern Substantiierung, Arbeitsrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -41,7 +41,7 @@ Für **Massenentlassung 17 Kschg Realitaetscheck, Schriftsatzkern Substantiierun
 
 ## Auftrag
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
 
 ## Normanker
 
@@ -306,7 +306,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Zweck
 Systematische Aufbereitung der Beweis- und Darlegungslast für die häufigsten arbeitsrechtlichen Streitfragen. Grundlage für Schriftsatzarbeit und Mandantenberatung: Wer muss was beweisen — und wie?
 
-## Kaltstart
+## Einstieg
 Wenn ein konkreter Sachverhalt vorliegt, zuerst klären:
 
 1. **Was ist die Anspruchsgrundlage oder Einwendung?** (Kündigung, Abfindung, Lohn, Diskriminierung, Befristung?)

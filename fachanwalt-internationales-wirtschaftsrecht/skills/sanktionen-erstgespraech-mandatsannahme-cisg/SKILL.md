@@ -1,13 +1,13 @@
 ---
 name: sanktionen-erstgespraech-mandatsannahme-cisg
-description: "Nutze dies, wenn Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung
+# Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,11 +15,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spezial-sanktionen-mandantenkommunikation-entscheidungsvorlage` | Sanktionen: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Workflow-Skill zu fachanwalt internationales wirtschaftsrecht cisg pruefung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Arbeitsmodul zu fachanwalt internationales wirtschaftsrecht cisg pruefung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespraech Mandatsannahme, Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Sanktionen Mandantenkommunikation Entscheidungsvorlage, Erstgespr
 # Sanktionen: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Sanktionen: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Sanktionen: Mandantenkommunikation und Entscheidungsvorlage / spezial sanktionen mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Sanktionen: Mandantenkommunikation und Entscheidungsvorlage / sanktionen mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -261,19 +261,19 @@ Bevor losgelegt wird, klaere:
 ```
 MANDATSBOGEN IWR
 =========================================
-Datum Erstgespraech:      [TT.MM.JJJJ]
-Mandant:                  [NAME/FIRMA]
-Sitz/Wohnort:             [RECHT DES SITZLANDES]
-Gegenseite:               [NAME/FIRMA, LAND]
-Vertragstyp:              [KAUFVERTRAG / JV / LIZENZ / DIENSTLEISTUNG]
+Datum Erstgespraech: [TT.MM.JJJJ]
+Mandant: [NAME/FIRMA]
+Sitz/Wohnort: [RECHT DES SITZLANDES]
+Gegenseite: [NAME/FIRMA, LAND]
+Vertragstyp: [KAUFVERTRAG / JV / LIZENZ / DIENSTLEISTUNG]
 Beteiligte Rechtsordnungen:[DE / FR / UK / US / ...]
-Rechtswahl Vertrag:        [JA: ROM I ART. 3 / NEIN: OBJ. ANKNUEPFUNG]
-Gerichtsstand / Schied:    [GERICHT ORT + ZUSTAENDIGKEIT / SCHIED: ICC/UNCITRAL]
-CISG anwendbar:            JA / NEIN / AUSGESCHLOSSEN
-Sanktions-Check:           KEIN RISIKO / RISIKO: [BESCHREIBUNG]
-GwG-Identifizierung:       [JA / NEIN; wirtschaftl. Berechtigte: ...]
-Sofortfrist:               [DATUM + RECHTSGRUNDLAGE]
-Naechster Schritt:         [MASSNAHME] bis [DATUM]
+Rechtswahl Vertrag: [JA: ROM I ART. 3 / NEIN: OBJ. ANKNUEPFUNG]
+Gerichtsstand / Schied: [GERICHT ORT + ZUSTAENDIGKEIT / SCHIED: ICC/UNCITRAL]
+CISG anwendbar: JA / NEIN / AUSGESCHLOSSEN
+Sanktions-Check: KEIN RISIKO / RISIKO: [BESCHREIBUNG]
+GwG-Identifizierung: [JA / NEIN; wirtschaftl. Berechtigte: ...]
+Sofortfrist: [DATUM + RECHTSGRUNDLAGE]
+Naechster Schritt: [MASSNAHME] bis [DATUM]
 =========================================
 ```
 
@@ -290,7 +290,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=1
 
 ## 3. `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung`
 
-**Fokus:** Workflow-Skill zu fachanwalt internationales wirtschaftsrecht cisg pruefung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt internationales wirtschaftsrecht cisg pruefung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Mandantenfragen beim Kaltstart
 
@@ -425,10 +425,10 @@ abgelaufen.
 Wir fordern Sie auf, bis zum [Datum, 14 Tage] Zug-um-Zug gegen Rücksendung der
 Ware zu zahlen:
 1. Kaufpreisrückerstattung EUR [Betrag] nebst Zinsen gem. Art. 78 CISG
-   ab [Zahlungsdatum];
+ ab [Zahlungsdatum];
 2. Mehrkosten Deckungskauf EUR [Betrag] (Art. 75 CISG, Anlage D1);
 3. Weitere Schäden EUR [Betrag] (Art. 74 CISG): Produktionsausfallkosten,
-   Transportkosten, Sachverständigenkosten (Anlage D2).
+ Transportkosten, Sachverständigenkosten (Anlage D2).
 
 Wir haben die Pflicht zur Schadensminderung (Art. 77 CISG) beachtet durch
 [Deckungskauf am nächstmöglichen Datum, Anlage D3].
@@ -553,21 +553,21 @@ Vertrag: [BEZEICHNUNG] vom [DATUM]
 Parteien: [KLAEGER, SITZ] ./. [BEKLAGTER, SITZ]
 
 1. CISG anwendbar?
-   Niederlassungen in Vertragsstaaten: JA (Art. 1 Abs. 1 lit. a)
-   CISG nicht ausgeschlossen: JA / NEIN (Art. 6)
-   → CISG anwendbar: JA / NEIN
+ Niederlassungen in Vertragsstaaten: JA (Art. 1 Abs. 1 lit. a)
+ CISG nicht ausgeschlossen: JA / NEIN (Art. 6)
+ → CISG anwendbar: JA / NEIN
 
 2. Anspruch (z.B. Maengelhaftung):
-   Art. 35 CISG: Vertragsmaessigkeit der Ware?
-   Art. 39 CISG: Maengelruege — Datum: [DATUM]; Frist gewahrt: JA / NEIN
+ Art. 35 CISG: Vertragsmaessigkeit der Ware?
+ Art. 39 CISG: Maengelruege — Datum: [DATUM]; Frist gewahrt: JA / NEIN
 
 3. Schadensersatz Art. 74-77 CISG:
-   Schaden: EUR [BETRAG]
-   Vorhersehbarkeit: JA / NEIN
-   Minderungspflicht Art. 77: [BESCHREIBUNG]
+ Schaden: EUR [BETRAG]
+ Vorhersehbarkeit: JA / NEIN
+ Minderungspflicht Art. 77: [BESCHREIBUNG]
 
 4. Ergebnis:
-   [Anspruch begrundet / verjährt / praekkludiert]
+ [Anspruch begrundet / verjährt / praekkludiert]
 ```
 
 <!-- AUDIT 27.05.2026

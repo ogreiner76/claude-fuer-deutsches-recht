@@ -1,13 +1,13 @@
 ---
 name: owi-lebensmittelrecht-owi-owi-02
-description: "Nutze dies, wenn Owi 058 Lebensmittelrecht Gerichtstermin Vorbe, Owi 059 Lebensmittelrecht Rechtsbeschwerde Pru, Owi 060 Lebensmittelrecht Mandantenbrief Schre, Owi 061 Tierschutz Owi Tatbestand Zerlegen im Plugin Ordnungswidrigkeitenrecht konkret bearbeitet werden soll. Auslöser: Bitte Owi 058 Lebensmittelrecht Gerichtstermin Vorbe, Owi 059 Lebensmittelrecht Rechtsbeschwerde Pru, Owi 060 Lebensmittelrecht Mandantenbrief Schre, Owi 061 Tierschutz Owi Tatbestand Zerlegen prüfen.; Erstelle eine Arbeitsfassung zu Owi 058 Lebensmittelrecht Gerichtstermin Vorbe, Owi 059 Lebensmittelrecht Rechtsbeschwerde Pru, Owi 060 Lebensmittelrecht Mandantenbrief Schre, Owi 061 Tierschutz Owi Tatbestand Zerlegen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Owi 058 Lebensmittelrecht Gerichtstermin Vorbe, Owi 059 Lebensmittelrecht Rechtsbeschwerde Pru, Owi 060 Lebensmittelrecht Mandantenbrief Schre, Owi 061 Tierschutz Owi Tatbestand Zerlegen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Owi 058 Lebensmittelrecht Gerichtstermin Vorbe, Owi 059 Lebensmittelrecht Rechtsbeschwerde Pru, Owi 060 Lebensmittelrecht Mandantenbrief Schre, Owi 061 Tierschutz Owi Tatbestand Zerlegen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Owi 058 Lebensmittelrecht Gerichtstermin Vorbe, Owi 059 Lebensmittelrecht Rechtsbeschwerde Pru, Owi 060 Lebensmittelrecht Mandantenbrief Schre, Owi 061 Tierschutz Owi Tatbestand Zerlegen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

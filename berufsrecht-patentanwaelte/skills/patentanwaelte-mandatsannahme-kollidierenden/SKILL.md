@@ -1,13 +1,13 @@
 ---
 name: patentanwaelte-mandatsannahme-kollidierenden
-description: "Nutze dies, wenn Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwaelte Marken Und Designmandate Kammerantwort Und Verfa, Patentanwaelte Marken Und Designmandate Organisationspflicht Un im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwaelte Marken Und Designmandate Kammerantwort Und Verfa, Patentanwaelte Marken Und Designmandate Organisationspflicht Un prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwae..."
+description: "Nutze dies bei Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwaelte Marken Und Designmandate Kammerantwort Und Verfa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwaelte Marken Und Designmandate Kammerantwort Und Verfa, Patentanwaelte Marken Und Designmandate Organisationspflicht Un
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Kamm, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Orga, Patentanwaelte Mandatsannahme Bei Kollidierenden Erfindern Rech, Patentanwaelte Marken Und Designmandate Kammerantwort Und Verfa, Patentanwaelte Marken Und Designmandate Organisationspflicht Un** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

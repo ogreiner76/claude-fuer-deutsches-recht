@@ -1,13 +1,13 @@
 ---
 name: quellen-rechtsprechungscheck-berufsgericht
-description: "Nutze dies, wenn Quellen Und Rechtsprechungscheck, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Notare Anderkonto Und Verwahrung Kammerantwort Und Verfahrensst im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Quellen Und Rechtsprechungscheck, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Quellen Und Rechtsprechungscheck, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Notare Anderkonto Und Verwahrung Kammerantwort Und Verfahrensst
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Quellen Und Rechtsprechungscheck, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Notare Anderkonto Und Verwahrung Kammerantwort Und Verfahrensst** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

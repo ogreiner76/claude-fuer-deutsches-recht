@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Nutze dies, wenn Anschluss-Routing im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Einfache Leichte Sprache Jura.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Anschluss-Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Einfache Leichte Sprache Jura** ein Fall n
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-ls-bescheid-workflow-chronologie` — Allgemein Ls Bescheid Workflow Chronologie
+- `allgemein-ls-bescheid-workflow-chronologie` — Allgemein Ls Bescheid Chronologie
 - `einfache-elsj-bescheidmodus-elsj` — Einfache Elsj Bescheidmodus Elsj
 - `elsj-aufenthaltsrecht-mandant` — Elsj Aufenthaltsrecht Mandant
 - `elsj-aufenthaltsrecht-mandant-betreuung-vormundschaft-einfache` — Elsj Aufenthaltsrecht Mandant Betreuung Vormundschaft Einfache
@@ -29,7 +29,7 @@ Nutze diesen Skill, wenn im Bereich **Einfache Leichte Sprache Jura** ein Fall n
 ## Arbeitsweg
 
 - Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Spezialpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
+- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
 - Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
 - Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
 

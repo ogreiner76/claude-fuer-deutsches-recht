@@ -1,13 +1,13 @@
 ---
 name: stellungnahme-aufbau-stellungnahme-ergebnis
-description: "Nutze dies, wenn Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung prüfen.; Erstelle eine Arbeitsfassung zu Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,8 +55,8 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 2. Grundsatzfeststellung (Zielsetzung; NKR-Position)
 3. Methodische Bewertung der Erfuellungsaufwand-Darstellung
 4. Pruefraster-Ergebnisse (Erforderlichkeit, Alternativen,
-   Verhaeltnismaessigkeit, KMU, Praktikabilitaet, Digital, OIOO,
-   Evaluation)
+ Verhaeltnismaessigkeit, KMU, Praktikabilitaet, Digital, OIOO,
+ Evaluation)
 5. Spezialthemen (EU, Digital, Sektor)
 6. Empfehlungen
 7. Ergebnis (foermliche Schlussbewertung)
@@ -106,9 +106,9 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 ### Abschnitt 7 — Ergebnis (Schlussbewertung)
 
 - Standardformeln:
-  - "Der NKR hat im Rahmen seines gesetzlichen Auftrags keine Einwaende gegen die Darstellung der Gesetzesfolgen."
-  - "Der NKR hat Einwaende gegen die Darstellung des Erfuellungsaufwands."
-  - "Der NKR macht im Hinblick auf den Erfuellungsaufwand folgende Bemerkungen / Empfehlungen."
+ - "Der NKR hat im Rahmen seines gesetzlichen Auftrags keine Einwaende gegen die Darstellung der Gesetzesfolgen."
+ - "Der NKR hat Einwaende gegen die Darstellung des Erfuellungsaufwands."
+ - "Der NKR macht im Hinblick auf den Erfuellungsaufwand folgende Bemerkungen / Empfehlungen."
 
 ### Abschnitt 8 — Hinweise
 

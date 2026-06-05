@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Internationale Klimafinanzierung
-Ressort:            BMZ
-Kernnormen:         Pariser Abkommen; KSG; HG; bilaterale Klimavereinbarungen.
-Akteure/Aufsicht:   BMZ; BMUKN; KfW; Green Climate Fund; AWB.
-EU/Voelkerrecht:    EU-Klimafinanzierungsziele; Green Deal; CBAM (Schnittstelle).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmz; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Internationale Klimafinanzierung
+Ressort: BMZ
+Kernnormen: Pariser Abkommen; KSG; HG; bilaterale Klimavereinbarungen.
+Akteure/Aufsicht: BMZ; BMUKN; KfW; Green Climate Fund; AWB.
+EU/Voelkerrecht: EU-Klimafinanzierungsziele; Green Deal; CBAM (Schnittstelle).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

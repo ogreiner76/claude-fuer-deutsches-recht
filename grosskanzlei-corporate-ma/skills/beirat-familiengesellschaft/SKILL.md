@@ -1,6 +1,6 @@
 ---
 name: beirat-familiengesellschaft
-description: "Nutze dies, wenn Beirat Familiengesellschaft im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Familiengesellschaft prüfen.; Erstelle eine Arbeitsfassung zu Beirat Familiengesellschaft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Familiengesellschaft: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Familiengesellschaft

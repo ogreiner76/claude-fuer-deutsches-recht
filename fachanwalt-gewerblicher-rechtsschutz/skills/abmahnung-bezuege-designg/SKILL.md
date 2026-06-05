@@ -1,13 +1,13 @@
 ---
 name: abmahnung-bezuege-designg
-description: "Nutze dies, wenn Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Abmahnung Formular Portal Und Einreichung, Bezuege Zahlen Schwellen Und Berechnung, Designg Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg
+# Abmahnung Formular Portal Und Einreichung, Bezuege Zahlen Schwellen Und Berechnung, Designg Behörden Gericht Und Registerweg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Abmahnung Formular Portal Und Einreichung, Bezuege Zahlen Schwellen Und Berechnung, Designg Behörden Gericht Und Registerweg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Abmahnung Formular Portal Und Einreichung, Spezial Bezuege Zahlen Schwellen Und Berechnung, Spezial Designg Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abmahnung Formular Portal Und Einreichung, Bezuege Zahlen Schwellen Und Berechnung, Designg Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -107,7 +107,7 @@ Keine spezifischen gesetzlichen Formerfordernisse wie § 13 UWG; aber Vollmachts
 | Vollmacht nicht beigefügt | § 174 BGB-Rüge möglich | Vollmacht unverzüglich nachreichen |
 | Veraltete Schutzrechts-Registerdaten | Anspruch ggf. nicht belegt | Registerauszug aktuell beifügen |
 
-## Kaltstart
+## Einstieg
 1. Geht es um eine ausgehende oder eingehende Abmahnung?
 2. Welches Schutzrecht oder welcher UWG-Tatbestand ist betroffen?
 3. Welcher Übermittlungsweg soll genutzt werden?
@@ -230,7 +230,7 @@ Entgangener Gewinn + nachgewiesener Schaden.
 | Feste Vertragsstrafe | Betrag festgelegt (z.B. 5.000 €) | Klar, aber unflexibel |
 | Gestaffelte Strafe | Höhe je nach Schwere / Wiederholung | Bei komplexen UE-Vereinbarungen |
 
-## Kaltstart
+## Einstieg
 1. Welcher Streitwert ist anzusetzen (Rechtsverletzung, Branche, Reichweite)?
 2. Welche Gebühren sollen berechnet werden (Anwaltsgebühren, Gerichtskosten, Behördengebühren)?
 3. Schadensersatz: Welche Methode ist sinnvoll (konkreter Schaden / Verletzergewinn / Lizenzanalogie)?
@@ -275,14 +275,14 @@ Dieser Skill behandelt die behördlichen und gerichtlichen Wege im Designrecht: 
 
 ```
 Entwurf / Abbildung erstellen (§ 11 DesignG: Wiedergabe)
-       ↓
+ ↓
 Antrag beim DPMA einreichen (online: dpma.de/service/e-dienste)
-  - Angaben: Anmelder, Entwerfer, Erzeugnisklasse (Locarno), Abbildungen
-       ↓
+ - Angaben: Anmelder, Entwerfer, Erzeugnisklasse (Locarno), Abbildungen
+ ↓
 DPMA prüft Formalia (kein Sachprüfungsverfahren)
-       ↓
+ ↓
 Eintragung und Bekanntmachung im Designblatt
-       ↓
+ ↓
 Schutzfrist: 5 Jahre ab Anmeldetag; verlängerbar bis 25 Jahre
 ```
 
@@ -355,7 +355,7 @@ Deutschland hat folgende GGM-Gerichte designiert:
 | Hague Monitor (WIPO) | [ipportal.wipo.int](https://ipportal.wipo.int) | Internationale Designs |
 | Locarno-Klassifikation | [wipo.int/classifications/locarno](https://www.wipo.int/classifications/locarno/en/) | Erzeugnisklassen |
 
-## Kaltstart
+## Einstieg
 1. Welches Design ist betroffen (DPMA / EUIPO / nicht eingetragenes GGM)?
 2. Geht es um Anmeldung, Verletzungsabwehr, Nichtigkeitsantrag oder Registerrecherche?
 3. In welchem Land findet die Verletzung statt (Zuständigkeit)?

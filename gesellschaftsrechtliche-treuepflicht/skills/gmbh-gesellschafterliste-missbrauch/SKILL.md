@@ -1,22 +1,22 @@
 ---
 name: gmbh-gesellschafterliste-missbrauch
-description: "Nutze dies, wenn Gmbh Gesellschafterliste Missbrauch, Gmbh Gewinnverwendung, Gmbh Informationsrechte, Gmbh Notgeschaeftsfuehrung im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Gmbh Gesellschafterliste Missbrauch, Gmbh Gewinnverwendung, Gmbh Informationsrechte, Gmbh Notgeschaeftsfuehrung prüfen.; Erstelle eine Arbeitsfassung zu Gmbh Gesellschafterliste Missbrauch, Gmbh Gewinnverwendung, Gmbh Informationsrechte, Gmbh Notgeschaeftsfuehrung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gmbh Gesellschafterliste Missbrauch, Gmbh Gewinnverwendung, Gmbh Informationsrechte, Gmbh Notgeschaeftsfuehrung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gmbh Gesellschafterliste Missbrauch, Gmbh Gewinnverwendung, Gmbh Informationsrechte, Gmbh Notgeschaeftsfuehrung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gmbh Gesellschafterliste Missbrauch, Gmbh Gewinnverwendung, Gmbh Informationsrechte, Gmbh Notgeschaeftsfuehrung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `gmbh-gesellschafterliste-missbrauch` | Gesellschaftsrechtliche Treuepflicht: Gmbh Gesellschafterliste Missbrauch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gmbh-gewinnverwendung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Gewinnverwendung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gmbh-informationsrechte` | Gesellschaftsrechtliche Treuepflicht: Gmbh Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gmbh-notgeschaeftsfuehrung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Notgeschaeftsfuehrung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gmbh-gesellschafterliste-missbrauch` | Gesellschaftsrechtliche Treuepflicht: Gmbh Gesellschafterliste Missbrauch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gmbh-gewinnverwendung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Gewinnverwendung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gmbh-informationsrechte` | Gesellschaftsrechtliche Treuepflicht: Gmbh Informationsrechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gmbh-notgeschaeftsfuehrung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Notgeschaeftsfuehrung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Gmbh Gesellschafterliste Missbrauch, Gmbh Gewinnverwendung, Gmbh Informat
 
 ## 1. `gmbh-gesellschafterliste-missbrauch`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Gesellschafterliste Missbrauch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Gesellschafterliste Missbrauch; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Gesellschafterliste Missbrauch
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `gmbh-gewinnverwendung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Gewinnverwendung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Gewinnverwendung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Gewinnverwendung
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `gmbh-informationsrechte`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Informationsrechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Informationsrechte
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `gmbh-notgeschaeftsfuehrung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Notgeschaeftsfuehrung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Notgeschaeftsfuehrung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Notgeschaeftsfuehrung
 

@@ -1,6 +1,6 @@
 ---
 name: rom-neu-011-pompeji-graffiti-sozialquelle
-description: "Nutze dies, wenn Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle

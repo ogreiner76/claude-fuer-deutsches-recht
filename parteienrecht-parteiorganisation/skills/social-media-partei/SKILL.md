@@ -8,7 +8,7 @@ description: "Regelt Impressum, Verantwortlichkeit, Accounts, Kandidatenposts, D
 ## Aufgabe
 Regelt Impressum, Verantwortlichkeit, Accounts, Kandidatenposts, Datenschutz, Archivierung und Krisenreaktion.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

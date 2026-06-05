@@ -1,21 +1,21 @@
 ---
 name: arzthonorarprozess-dokumentenplan
-description: "Nutze dies, wenn Arzthonorarprozess Dokumentenplan, Auslandsbehandlung Deutsche Goae Anwendung, Begründung Ueber Schwellenwert Redigieren im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Arzthonorarprozess Dokumentenplan, Auslandsbehandlung Deutsche Goae Anwendung, Begruendung Ueber Schwellenwert Redigieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arzthonorarprozess Dokumentenplan, Auslandsbehandlung Deutsche Goae Anwendung, Begründung Ueber Schwellenwert Redigieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arzthonorarprozess Dokumentenplan, Auslandsbehandlung Deutsche Goae Anwendung, Begründung Ueber Schwellenwert Redigieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `arzthonorarprozess-dokumentenplan` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Arzthonorarprozess Dokumentenplan. |
+| `arzthonorarprozess-dokumentenplan` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Arzthonorarprozess Dokumentenplan. |
 | `auslandsbehandlung-deutsche-goae-anwendung` | Auslandsbehandlung deutsche GOÄ Anwendung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
-| `begruendung-ueber-schwellenwert-redigieren` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren. |
+| `begruendung-ueber-schwellenwert-redigieren` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Arzthonorarprozess Dokumentenplan, Auslandsbehandlung Deutsche Goae Anwen
 
 ## 1. `arzthonorarprozess-dokumentenplan`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Arzthonorarprozess Dokumentenplan.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Arzthonorarprozess Dokumentenplan.
 
 # Arzthonorarprozess Dokumentenplan
 
@@ -116,7 +116,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `begruendung-ueber-schwellenwert-redigieren`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Begründung über Schwellenwert redigieren.
 
 # Begründung über Schwellenwert redigieren
 

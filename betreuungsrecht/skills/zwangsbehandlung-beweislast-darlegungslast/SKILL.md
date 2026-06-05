@@ -1,12 +1,12 @@
 ---
 name: zwangsbehandlung-beweislast-darlegungslast
-description: "Nutze dies, wenn Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung / spezial zwangsbehandlung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung / zwangsbehandlung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

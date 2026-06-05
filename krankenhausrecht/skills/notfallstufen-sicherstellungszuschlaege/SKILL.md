@@ -1,13 +1,13 @@
 ---
 name: notfallstufen-sicherstellungszuschlaege
-description: "Nutze dies, wenn Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv prüfen.; Erstelle eine Arbeitsfassung zu Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,7 +55,7 @@ Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser 
 - **Landeskrankenhausgesetze** Konkretisierung Versorgungsbeduerfnis.
 - **MD-Strukturpruefung** zur Verifizierung der Stufenmerkmale.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Eingruppierung pruefen:** Welche Stufe gilt aktuell, welche soll gehalten/erreicht werden?
 2. **Strukturmerkmale gegenrechnen:** Aerzte, Pflege, Geraete, 24/7-Bereitschaft, intensivmed. Anbindung.
 3. **MD-Bericht auswerten:** Welche Beanstandungen, welche Heilungsmoeglichkeiten?
@@ -182,7 +182,7 @@ Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB 
 - **Pflegepersonalbemessung (PPR 2.0)** ergaenzt PpUGV, ueber § 137k SGB V derzeit in Konkretisierung.
 - **TVoeD/Tarifrecht** Personalplanung und Ueberlastungsanzeigen.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Pflegesensitive Bereiche identifizieren:** PpUGV-Anlage, Stationsschluessel.
 2. **Quote berechnen:** Pflegekraefte (examiniert + Helfer mit Anrechnung) gegen Patienten je Schicht.
 3. **Meldungen pruefen:** Quartalsweise InEK-Meldung; Korrekturmoeglichkeiten beachten.

@@ -1,13 +1,13 @@
 ---
 name: pralr-spez-arbeitsrecht-aufopferung
-description: "Nutze dies, wenn Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones, Pralr Spez Eigentum Belasten Pfand Hypothek im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones, Pralr Spez Eigentum Belasten Pfand Hypothek prüfen.; Erstelle eine Arbeitsfassung zu Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones, Pralr Spez Eigentum Belasten Pfand Hypothek.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones, Pralr Spez Eigentum Belasten Pfand Hypothek
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones, Pralr Spez Eigentum Belasten Pfand Hypothek** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

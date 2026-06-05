@@ -1,6 +1,6 @@
 ---
 name: beirat-startup-investor-director
-description: "Nutze dies, wenn Beirat Startup Investor Director im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Startup Investor Director prüfen.; Erstelle eine Arbeitsfassung zu Beirat Startup Investor Director.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Startup Investor Director: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Startup Investor Director

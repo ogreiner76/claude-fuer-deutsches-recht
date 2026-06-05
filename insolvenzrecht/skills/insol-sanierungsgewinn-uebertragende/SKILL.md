@@ -1,13 +1,13 @@
 ---
 name: insol-sanierungsgewinn-uebertragende
-description: "Nutze dies, wenn Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3A Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3A Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan prüfen.; Erstelle eine Arbeitsfassung zu Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3A Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3a Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3A Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3A Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -71,7 +71,7 @@ Kaltstart-Fragen:
 - Paragraph 16 EStG / Paragraph 8b KStG — Veraeusserungsgewinn.
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Asset Deal vs. Plan-Sanierung trennen.** Beim reinen Asset Deal: kein Forderungsverzicht, kein Sanierungsertrag, dafuer Veraeusserungsgewinn.
 2. **Stille Reserven identifizieren.** Aktiva fuer Aktiva.
@@ -104,24 +104,24 @@ Kaltstart-Fragen:
 
 ```
 EBENE SCHULDNERIN (1) — Asset Deal
-Kaufpreis                                EUR 8.000.000
-abzgl. Buchwert Aktiva                   EUR 5.000.000
-= Veraeusserungsgewinn                   EUR 3.000.000
+Kaufpreis EUR 8.000.000
+abzgl. Buchwert Aktiva EUR 5.000.000
+= Veraeusserungsgewinn EUR 3.000.000
 (regulaer steuerpflichtig; durch Verlustvortraege zu verrechnen)
 
 EBENE SCHULDNERIN (2) — Plan-Restverzicht
-Restverzicht im Plan                     EUR 14.000.000
+Restverzicht im Plan EUR 14.000.000
 => Sanierungsertrag im Sinne von Paragraph 3a EStG, sofern vier
-   Voraussetzungen erfuellt.
+ Voraussetzungen erfuellt.
 
 VERRECHNUNGSREIHENFOLGE
-Sanierungsertrag                         EUR 14.000.000
-Veraeusserungsgewinn                     EUR  3.000.000
+Sanierungsertrag EUR 14.000.000
+Veraeusserungsgewinn EUR 3.000.000
 
 Verlustvortraege werden nach Paragraph 3a Absatz 3 EStG primaer durch den
 Sanierungsertrag aufgezehrt; Veraeusserungsgewinn bleibt davon getrennt.
 => Risiko: Veraeusserungsgewinn loest Steuern aus, wenn nicht ausreichend
-   Verlustvortrag ueber Paragraph 10d EStG verfuegbar.
+ Verlustvortrag ueber Paragraph 10d EStG verfuegbar.
 ```
 
 **Vertragstext-Geruest fuer den Asset-Deal-Vertrag (Paragraph 75 AO-Klausel):**
@@ -225,15 +225,15 @@ Kaltstart-Fragen:
 - Paragraph 3a EStG — Sanierungsertrag (Hauptlinie).
 - Paragraph 251 AO — Insolvenzverfahren.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Hauptantrag pruefen: Paragraph 3a EStG**. Erst wenn dieser greift, ist alles andere ueberfluessig.
 2. **Hilfslinie Stundung Paragraph 222 AO** vorbereiten:
-   - erhebliche Haerte bei Faelligkeit (Sanierung wuerde scheitern, Liquidation drohte).
-   - Anspruch nicht gefaehrdet (Liquiditaetsplan zeigt Tilgung in Raten).
+ - erhebliche Haerte bei Faelligkeit (Sanierung wuerde scheitern, Liquidation drohte).
+ - Anspruch nicht gefaehrdet (Liquiditaetsplan zeigt Tilgung in Raten).
 3. **Weitere Hilfslinie Erlass Paragraph 227 AO**:
-   - sachliche Unbilligkeit (Gesetz zweckverfehlt, hier z. B. wenn Paragraph 3a EStG-Voraussetzung knapp nicht erfuellt).
-   - persoenliche Unbilligkeit (Existenz des Unternehmens bei Vollzug bedroht).
+ - sachliche Unbilligkeit (Gesetz zweckverfehlt, hier z. B. wenn Paragraph 3a EStG-Voraussetzung knapp nicht erfuellt).
+ - persoenliche Unbilligkeit (Existenz des Unternehmens bei Vollzug bedroht).
 4. **Tatsaechliche Verstaendigung Paragraph 78 AO** bei strittigen Tatsachen (z. B. Werthaltigkeit einer Gesellschafterforderung).
 5. **Steuerliche Vorabauskunft Paragraph 89 AO** als Praeventions-Werkzeug.
 6. **Verhandlungslinie aufbauen** — schriftliche Begruendung, Liquiditaetsplan, Sanierungskonzept beifuegen.
@@ -402,7 +402,7 @@ Kaltstart-Fragen:
 - Paragraph 8 KStG — Anwendung des EStG-Verlustabzugs auf Koerperschaften.
 - Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG — gewerbesteuerliche Parallel-Regelung mit eigenstaendiger Verrechnungsmechanik.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 Die Verrechnungslogik laeuft in drei Stufen. Die folgende Tabelle zeigt das Grundmuster fuer Koerperschaften (GmbH, AG); fuer transparente Personengesellschaften ist die Logik auf Gesellschafterebene zu spiegeln.
 
@@ -546,7 +546,7 @@ Kaltstart-Fragen:
 - Paragraph 3a EStG — steuerliche Begnadigung des Sanierungsertrags.
 - BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich ueber die Liquidation hinaus bestehen; blosse Vermoegenslosigkeit begruendet keine Ausbuchung der Verbindlichkeit — Abgrenzung zum Verzicht.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Forderung und Bilanzposition zuordnen.** Welche Verbindlichkeit der Schuldnerin steht der verzichteten Forderung gegenueber?
 2. **Verzichtsart klaeren.** Endgueltig oder unter Besserungsabrede? Drittglaeubiger oder Gesellschafter?
@@ -560,7 +560,7 @@ Kaltstart-Fragen:
 **Standardfall: Drittglaeubiger verzichtet endgueltig auf werthaltige Forderung**
 
 ```
-Soll: Verbindlichkeit gegenueber Drittglaeubiger    EUR 1.000.000
+Soll: Verbindlichkeit gegenueber Drittglaeubiger EUR 1.000.000
 Haben: ausserordentlicher Ertrag (Sanierungsertrag) EUR 1.000.000
 ```
 
@@ -569,7 +569,7 @@ Steuerlich: Sanierungsertrag, Paragraph 3a EStG anwendbar.
 **Variante: Gesellschafter verzichtet (gesellschaftsrechtlich veranlasst) auf werthaltige Forderung**
 
 ```
-Soll: Verbindlichkeit gegenueber Gesellschafter     EUR 1.000.000
+Soll: Verbindlichkeit gegenueber Gesellschafter EUR 1.000.000
 Haben: Kapitalruecklage Paragraph 272 Absatz 2 Nr. 4 HGB EUR 1.000.000
 ```
 
@@ -578,7 +578,7 @@ Steuerlich: verdeckte Einlage; **kein** Sanierungsertrag, sondern Erhoehung der 
 **Variante: Gesellschafter verzichtet auf nicht werthaltige Forderung**
 
 ```
-Soll: Verbindlichkeit gegenueber Gesellschafter     EUR 1.000.000
+Soll: Verbindlichkeit gegenueber Gesellschafter EUR 1.000.000
 Haben: Kapitalruecklage (Werthaltigkeit Tag des Verzichts) EUR 200.000
 Haben: ausserordentlicher Ertrag (Sanierungsertrag) EUR 800.000
 ```
@@ -589,12 +589,12 @@ Steuerlich: Mischfall; nur der werthaltige Teil ist Einlage, der nicht werthalti
 
 ```
 Tag des Verzichts:
-Soll: Verbindlichkeit                               EUR 1.000.000
+Soll: Verbindlichkeit EUR 1.000.000
 Haben: ausserordentlicher Ertrag (Sanierungsertrag) EUR 1.000.000
 
 Tag des Eintritts des Besserungsfalls:
-Soll: ausserordentlicher Aufwand                    EUR x
-Haben: Verbindlichkeit                              EUR x
+Soll: ausserordentlicher Aufwand EUR x
+Haben: Verbindlichkeit EUR x
 ```
 
 Steuerlich: Sanierungsertrag entsteht im Verzichtsjahr; spaeterer Wiederaufleben fuehrt zu Aufwand. Wenn der Besserungsfall vor Plan-Vollzug feststeht, ist der Verzicht aufschiebend bedingt und entsteht erst mit Bedingungseintritt — abhaengig von der Klauselgestaltung.
@@ -602,8 +602,8 @@ Steuerlich: Sanierungsertrag entsteht im Verzichtsjahr; spaeterer Wiederaufleben
 **Variante: nur teilweiser Verzicht (Plan-Quote)**
 
 ```
-Soll: Verbindlichkeit (verzichteter Teil)           EUR 800.000
-Haben: ausserordentlicher Ertrag                    EUR 800.000
+Soll: Verbindlichkeit (verzichteter Teil) EUR 800.000
+Haben: ausserordentlicher Ertrag EUR 800.000
 
 Die verbleibenden 20 % bleiben passiviert und werden plangemaess bedient.
 ```

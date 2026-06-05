@@ -1,13 +1,13 @@
 ---
 name: btm-cannabis-mandantenbrief-kokain-stoff
-description: "Nutze dies, wenn Btm 030 Cannabis Mandantenbrief Schreiben, Btm 031 Kokain Stoff Prüfen, Btm 032 Kokain Menge Einordnen, Btm 033 Kokain Strafrahmen Routen im Plugin Betaeubungsmittelrecht konkret bearbeitet werden soll. Auslöser: Bitte Btm 030 Cannabis Mandantenbrief Schreiben, Btm 031 Kokain Stoff Prüfen, Btm 032 Kokain Menge Einordnen, Btm 033 Kokain Strafrahmen Routen prüfen.; Erstelle eine Arbeitsfassung zu Btm 030 Cannabis Mandantenbrief Schreiben, Btm 031 Kokain Stoff Prüfen, Btm 032 Kokain Menge Einordnen, Btm 033 Kokain Strafrahmen Routen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Btm 030 Cannabis Mandantenbrief Schreiben, Btm 031 Kokain Stoff Prüfen, Btm 032 Kokain Menge Einordnen, Btm 033 Kokain Strafrahmen Routen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Btm 030 Cannabis Mandantenbrief Schreiben, Btm 031 Kokain Stoff Prüfen, Btm 032 Kokain Menge Einordnen, Btm 033 Kokain Strafrahmen Routen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Btm 030 Cannabis Mandantenbrief Schreiben, Btm 031 Kokain Stoff Prüfen, Btm 032 Kokain Menge Einordnen, Btm 033 Kokain Strafrahmen Routen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

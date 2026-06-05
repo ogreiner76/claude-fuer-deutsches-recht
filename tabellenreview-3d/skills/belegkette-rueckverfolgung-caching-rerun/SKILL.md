@@ -1,13 +1,13 @@
 ---
 name: belegkette-rueckverfolgung-caching-rerun
-description: "Nutze dies, wenn Belegkette Rueckverfolgung, Caching Und Teil Rerun, Dokumentstapel Aufnehmen im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Belegkette Rueckverfolgung, Caching Und Teil Rerun, Dokumentstapel Aufnehmen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Belegkette Rueckverfolgung, Caching Und Teil Rerun, Dokumentstapel Aufnehmen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Belegkette Rueckverfolgung, Caching Und Teil Rerun, Dokumentstapel Aufnehmen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -201,15 +201,15 @@ Bevor der Reviewlauf startet muss der Dokumentenstapel sauber sein — kein Doku
 
 ```yaml
 - id: z-0042
-  pfad: "vdr/kunden/042-rahmenvertrag-mueller-gmbh-2023.pdf"
-  hash: "sha256:a1b2..."
-  typ: "rahmenvertrag-kunde"
-  sprache: "de"
-  seitenzahl: 47
-  ocr-konfidenz: 0.97
-  pruefer-flag: null
-  zeilenprompt: ""
-  datenraum-luecken: []
+ pfad: "vdr/kunden/042-rahmenvertrag-mueller-gmbh-2023.pdf"
+ hash: "sha256:a1b2..."
+ typ: "rahmenvertrag-kunde"
+ sprache: "de"
+ seitenzahl: 47
+ ocr-konfidenz: 0.97
+ pruefer-flag: null
+ zeilenprompt: ""
+ datenraum-luecken: []
 ```
 
 ## Ausgabe

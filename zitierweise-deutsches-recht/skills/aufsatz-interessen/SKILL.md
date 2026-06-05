@@ -1,12 +1,12 @@
 ---
 name: aufsatz-interessen
-description: "Nutze dies, wenn Aufsatz: Mehrparteienkonflikt und Interessenmatrix im Plugin Zitierweise Deutsches Recht konkret bearbeitet werden soll. Auslöser: Bitte Aufsatz: Mehrparteienkonflikt und Interessenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Aufsatz: Mehrparteienkonflikt und Interessenmatrix.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aufsatz: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Aufsatz: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Aufsatz: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Aufsatz: Mehrparteienkonflikt und Interessenmatrix / spezial aufsatz mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aufsatz: Mehrparteienkonflikt und Interessenmatrix / aufsatz mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

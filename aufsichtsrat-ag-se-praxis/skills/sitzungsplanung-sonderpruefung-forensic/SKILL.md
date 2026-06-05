@@ -1,22 +1,22 @@
 ---
 name: sitzungsplanung-sonderpruefung-forensic
-description: "Nutze dies, wenn Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufbeschluss im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufbeschluss prüfen.; Erstelle eine Arbeitsfassung zu Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufbeschluss.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufbeschluss: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufbeschluss
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufbeschluss** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `sitzungsplanung` | AG/SE-Aufsichtsrat Praxis: Sitzungsplanung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `sonderpruefung-und-forensic` | AG/SE-Aufsichtsrat Praxis: Sonderpruefung Und Forensic; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `stimmrechtsberater` | AG/SE-Aufsichtsrat Praxis: Stimmrechtsberater; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `umlaufbeschluss` | AG/SE-Aufsichtsrat Praxis: Umlaufbeschluss; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `sitzungsplanung` | AG/SE-Aufsichtsrat Praxis: Sitzungsplanung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `sonderpruefung-und-forensic` | AG/SE-Aufsichtsrat Praxis: Sonderpruefung Und Forensic; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `stimmrechtsberater` | AG/SE-Aufsichtsrat Praxis: Stimmrechtsberater; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `umlaufbeschluss` | AG/SE-Aufsichtsrat Praxis: Umlaufbeschluss; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Sitzungsplanung, Sonderpruefung Und Forensic, Stimmrechtsberater, Umlaufb
 
 ## 1. `sitzungsplanung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Sitzungsplanung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Sitzungsplanung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Sitzungsplanung
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `sonderpruefung-und-forensic`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Sonderpruefung Und Forensic; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Sonderpruefung Und Forensic; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Sonderpruefung Und Forensic
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `stimmrechtsberater`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Stimmrechtsberater; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Stimmrechtsberater; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Stimmrechtsberater
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `umlaufbeschluss`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Umlaufbeschluss; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Umlaufbeschluss; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Umlaufbeschluss
 

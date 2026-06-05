@@ -1,13 +1,13 @@
 ---
 name: ptbs-einsatzfolge-reservistendienst
-description: "Nutze dies, wenn Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge prüfen.; Erstelle eine Arbeitsfassung zu Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -61,7 +61,7 @@ Die posttraumatische Belastungsstörung (PTBS) ist eine anerkannte psychische Er
 - BSG-Rechtsprechung zur Kausalität psychischer Schäden – ständige Rechtsprechung.
 - Schnittstelle § 1 SGB IX (Teilhabe), Heilfürsorge der Bw.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Diagnose sichern.** Facharzt für Psychiatrie/Psychotherapie oder Psychotraumatologie; ICD-Code; Symptomerfassung (Intrusionen, Vermeidung, Hyperarousal, kognitive Veränderungen).
 2. **Belastungsanamnese.** Einsatzberichte, OPLAN, Kameradenberichte, eigene Tagebücher, ggf. Funkprotokolle.
@@ -213,7 +213,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -323,7 +323,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

@@ -1,6 +1,6 @@
 ---
 name: rom-037-noxalhaftung
-description: "Römisches Recht: Noxalhaftung. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Noxalhaftung. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Noxalhaftung

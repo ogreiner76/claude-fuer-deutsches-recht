@@ -37,7 +37,7 @@ Dieser Skill stellt die Zeitachse 12 Monate vor dem geplanten Antrag dar und zei
 - **BMF-Schreiben vom 27.04.2017** (Sanierungserlass-Nachfolge) — verwaltungsseitige Konkretisierung der vier Voraussetzungen.
 - Inkrafttreten der gesetzlichen Verankerung in § 3a EStG: Verifikation des aktuellen Standes (Wachstumschancengesetz, BGBl. I 2024) vor jedem Mandat.
 
-## Workflow / Schritt für Schritt — die Zeitachse
+## / Schritt für Schritt — die Zeitachse
 
 | Monat vor Plan | Aufgabe | Verantwortlich | Output |
 |---|---|---|---|
@@ -82,38 +82,38 @@ Dieser Skill stellt die Zeitachse 12 Monate vor dem geplanten Antrag dar und zei
 M-12 ► Mandantenbrief Warnung Sanierungsgewinn
 M-11 ► Verlustvortrag-Check (EStG/KStG/GewStG)
 M-10 ► Memo "unternehmensbezogen vs. personenbezogen"
-M-9  ► Sanierungskonzept Entwurf
-M-8  ► IDW-S6-Bericht Entwurf
-M-7  ► Maßnahmenkatalog mit Quote
-M-6  ► Gläubigeransprache schriftlich
-M-5  ► Plan-Bilanz mit Verzichtswirkung
-M-4  ► Optionsvergleich Verzicht vs. d/e-swap
-M-3  ► Verbindliche Auskunft (optional)
-M-2  ► Strategievermerk Vermeidung
-M-1  ► Antragsentwurf 3a IV EStG
-M-0  ► Antrag eingereicht
+M-9 ► Sanierungskonzept Entwurf
+M-8 ► IDW-S6-Bericht Entwurf
+M-7 ► Maßnahmenkatalog mit Quote
+M-6 ► Gläubigeransprache schriftlich
+M-5 ► Plan-Bilanz mit Verzichtswirkung
+M-4 ► Optionsvergleich Verzicht vs. d/e-swap
+M-3 ► Verbindliche Auskunft (optional)
+M-2 ► Strategievermerk Vermeidung
+M-1 ► Antragsentwurf 3a IV EStG
+M-0 ► Antrag eingereicht
 ```
 
 ### Berechnungsbeispiel Wirkungsweise § 3c Abs. 4 EStG
 
 ```
 Schritt 1 Vor Sanierung
-  Verlustvortrag KSt zum 31.12.        EUR 800.000
-  Gewerbeverlust zum 31.12.            EUR 600.000
+ Verlustvortrag KSt zum 31.12. EUR 800.000
+ Gewerbeverlust zum 31.12. EUR 600.000
 
 Schritt 2 Forderungsverzicht 01.04.
-  Verzichtsbetrag (Banken+Lieferanten) EUR 1.000.000
-  ► entstehender Buchgewinn handelsrechtlich
-    und steuerlich (vorläufig) gleich
+ Verzichtsbetrag (Banken+Lieferanten) EUR 1.000.000
+ ► entstehender Buchgewinn handelsrechtlich
+ und steuerlich (vorläufig) gleich
 
 Schritt 3 § 3c Abs. 4 EStG (Verbrauchsreihenfolge)
-  KSt Sanierungsertrag                 EUR 1.000.000
-  abzgl. Verlustvortrag                EUR  -800.000
-  verbleibender Sanierungsertrag       EUR   200.000
-  steuerfrei nach § 3a Abs. 1 EStG     EUR   200.000
+ KSt Sanierungsertrag EUR 1.000.000
+ abzgl. Verlustvortrag EUR -800.000
+ verbleibender Sanierungsertrag EUR 200.000
+ steuerfrei nach § 3a Abs. 1 EStG EUR 200.000
 
 Ergebnis: kein KSt-Cashflow durch Verzicht
-          aber Verlustvortrag vollständig aufgezehrt
+ aber Verlustvortrag vollständig aufgezehrt
 ```
 
 ## Typische Fehler

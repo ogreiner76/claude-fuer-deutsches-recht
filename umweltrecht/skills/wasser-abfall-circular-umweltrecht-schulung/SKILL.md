@@ -1,13 +1,13 @@
 ---
 name: wasser-abfall-circular-umweltrecht-schulung
-description: "Nutze dies, wenn Spezial Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung im Plugin Umweltrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung
+# Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `umweltrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -124,10 +124,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Entledigt sich der Erzeuger des Stoffes?
-  JA → Ist Entsorgung sicher und Verwendung nachgefragt?
-         JA → Nebenprodukt § 4 KrWG pruefen
-         NEIN → Abfall → Entsorgungspflicht § 7 KrWG
-  NEIN → Verwendung weiterhin beabsichtigt → kein Abfall
+ JA → Ist Entsorgung sicher und Verwendung nachgefragt?
+ JA → Nebenprodukt § 4 KrWG pruefen
+ NEIN → Abfall → Entsorgungspflicht § 7 KrWG
+ NEIN → Verwendung weiterhin beabsichtigt → kein Abfall
 ```
 
 ## Output-Template: Begleitschreiben Behoerdenanfrage Nebenprodukt
@@ -209,7 +209,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### A) Beauftragten-Bestellung pruefen
 
@@ -268,7 +268,7 @@ Modul A: Immissionsschutzbeauftragter (ISB)
 Zielgruppe: [NAME ISB], Stellvertreter [NAME]
 Datum: [DATUM], [ORT/VIDEO]
 Themen: BImSchG §§ 53-58, aktuelle BVerwG-Entscheidungen,
-         TA-Luft/TA-Laerm-Novellen [JAHR], Meldepflichten.
+ TA-Luft/TA-Laerm-Novellen [JAHR], Meldepflichten.
 Dauer: 4 h (inkl. Uebungsfall)
 Dokumentation: Teilnahme-Bestaetigung, Update Fachkundenachweise
 
@@ -295,7 +295,7 @@ Protokoll-Pflicht: § 130 OWiG-Dokumentation
 3. AD-HOC SCHULUNGEN
 
 Trigger: Neue Gesetzgebung (z.B. KrWG-Novelle, TEHG-Aenderung), Bussgeld-Bescheid,
-          Behoerden-Audit-Ankuendigung.
+ Behoerden-Audit-Ankuendigung.
 Verantwortlich: [NAME COMPLIANCE-OFFICER]
 ```
 

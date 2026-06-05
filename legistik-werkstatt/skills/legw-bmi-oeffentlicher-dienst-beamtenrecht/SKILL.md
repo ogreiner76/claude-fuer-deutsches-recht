@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Oeffentlicher Dienst und Beamtenrecht
-Ressort:            BMI
-Kernnormen:         BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.
-Akteure/Aufsicht:   BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.
-EU/Voelkerrecht:    Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmi; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Oeffentlicher Dienst und Beamtenrecht
+Ressort: BMI
+Kernnormen: BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.
+Akteure/Aufsicht: BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.
+EU/Voelkerrecht: Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmi; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: verkehrsowi-haertefall-fahrverbot
-description: "Nutze dies, wenn Verkehrsowi Haertefall Fahrverbot, Verkehrsowi Hauptverhandlung Amtsgericht, Verkehrsowi Mandantenkommunikation im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Verkehrsowi Haertefall Fahrverbot, Verkehrsowi Hauptverhandlung Amtsgericht, Verkehrsowi Mandantenkommunikation prüfen.; Erstelle eine Arbeitsfassung zu Verkehrsowi Haertefall Fahrverbot, Verkehrsowi Hauptverhandlung Amtsgericht, Verkehrsowi Mandantenkommunikation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verkehrsowi Haertefall Fahrverbot, Verkehrsowi Hauptverhandlung Amtsgericht, Verkehrsowi Mandantenkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verkehrsowi Haertefall Fahrverbot, Verkehrsowi Hauptverhandlung Amtsgericht, Verkehrsowi Mandantenkommunikation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verkehrsowi Haertefall Fahrverbot, Verkehrsowi Hauptverhandlung Amtsgericht, Verkehrsowi Mandantenkommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -145,7 +145,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf-Schema HV OWi
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ```
 1. Aufruf der Sache (§ 243 StPO i.V.m. § 71 OWiG)
@@ -155,9 +155,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 5. Belehrung Betroffener § 55 OWiG (Schweigerecht)
 6. Einlassung oder Schweigen
 7. Beweisaufnahme:
-   a) Zeugen (Polizeibeamte)
-   b) Urkundsbeweis (Messprotokoll, Eichschein)
-   c) Sachverstaendiger (wenn beantragt und zugelassen)
+ a) Zeugen (Polizeibeamte)
+ b) Urkundsbeweis (Messprotokoll, Eichschein)
+ c) Sachverstaendiger (wenn beantragt und zugelassen)
 8. Schlussvortrag Staatsanwaltschaft
 9. Plaedoyer Verteidiger
 10. Letztes Wort Betroffener
@@ -261,14 +261,14 @@ Die Behörde prueft nun die Akte. Danach wird entweder:
 a) das Verfahren eingestellt (kein Bussgeldbescheid mehr),
 b) ein Verhandlungstermin am Amtsgericht angesetzt, oder
 c) die Behörde den Bescheid bestaetigt (dann gehen wir
-   weiter zum Amtsgericht).
+ weiter zum Amtsgericht).
 
 Was Sie tun koennen:
 - Bitte sprechen Sie NICHT mit Polizei oder Behörden
-  ueber den Vorfall ohne mich zu kontaktieren.
+ ueber den Vorfall ohne mich zu kontaktieren.
 - Wenn Sie neue Unterlagen erhalten, bitte sofort weiterleiten.
 - Haben Sie ein Fahrtenbuch oder Notizbuch, das den Tatvorwurf
-  betrifft? Bitte aufbewahren.
+ betrifft? Bitte aufbewahren.
 
 Kostenschaetzung: [RVG-Gebuehren]
 

@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Energetische Sanierung (GEG)
-Ressort:            BMWSB
-Kernnormen:         GEG; EnEV (alt); BAFA-Foerderrichtlinien; KfW-Foerderbedingungen.
-Akteure/Aufsicht:   BAFA; KfW; BMWSB; Bezirksregierungen; Schornsteinfeger.
-EU/Voelkerrecht:    EPBD; EU-Energieeffizienz-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwsb; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Energetische Sanierung (GEG)
+Ressort: BMWSB
+Kernnormen: GEG; EnEV (alt); BAFA-Foerderrichtlinien; KfW-Foerderbedingungen.
+Akteure/Aufsicht: BAFA; KfW; BMWSB; Bezirksregierungen; Schornsteinfeger.
+EU/Voelkerrecht: EPBD; EU-Energieeffizienz-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -139,12 +139,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 1. **DD-Scope festlegen:** Workstream-Matrix erstellen; Materiality-Schwellen mit Kaeufer abstimmen; Zeitplan und DD-Team staffeln
 2. **Datenraum-Indexierung:** Dokumente nach Kategorien sortieren; fehlende Dokumente in Information Request List (IRL) erfassen
 3. **Pruefung je Workstream:**
-   - Corporate: HR-Auszuege, Satzungen, Beschluesse, Gesellschafterliste, Vollmachten, Organstruktur
-   - Arbeitsrecht: Arbeitsvertraege, Betriebsvereinbarungen, Tarifbindung, Pensionsverpflichtungen
-   - Vertraege: Change-of-Control-Klauseln, Exklusivitaeten, Kuendigungsrechte, Haftungsobergrenzen
-   - IP/IT: Markenregister, Lizenzvertraege, Open Source, Datenschutz (DSGVO-Compliance)
-   - Litigation: laufende Verfahren, Schiedsverfahren, Regulierungsrisiken
-   - Immobilien: Grundbuch, Baulasten, Umweltlasten, Mietvertraege
+ - Corporate: HR-Auszuege, Satzungen, Beschluesse, Gesellschafterliste, Vollmachten, Organstruktur
+ - Arbeitsrecht: Arbeitsvertraege, Betriebsvereinbarungen, Tarifbindung, Pensionsverpflichtungen
+ - Vertraege: Change-of-Control-Klauseln, Exklusivitaeten, Kuendigungsrechte, Haftungsobergrenzen
+ - IP/IT: Markenregister, Lizenzvertraege, Open Source, Datenschutz (DSGVO-Compliance)
+ - Litigation: laufende Verfahren, Schiedsverfahren, Regulierungsrisiken
+ - Immobilien: Grundbuch, Baulasten, Umweltlasten, Mietvertraege
 4. **Findings strukturieren:** je Finding: Dokument, Seite/Clause, Risikobeschreibung, Materiality-Bewertung (Low/Medium/High/Deal-Breaker), Empfehlung (Garantie/Freistellung/Preisanpassung/Walk Away)
 5. **Red-Flag-Report erstellen:** Top-10-Findings mit Handlungsempfehlung; Human-in-the-loop fuer High/Deal-Breaker-Findings
 6. **IRL-Management:** offene Anfragen tracken; Antwortqualitaet bewerten; Eskalation an Selling-Side

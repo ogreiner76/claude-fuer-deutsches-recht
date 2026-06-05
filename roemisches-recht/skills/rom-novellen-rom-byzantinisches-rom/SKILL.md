@@ -1,13 +1,13 @@
 ---
 name: rom-novellen-rom-byzantinisches-rom
-description: "Nutze dies, wenn Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Neu 015 Byzantinisches Prozessrecht Richter Kanzlei Und Peti, Rom Neu 016 Mittelalterliches Roemisches Recht Glossatoren Bolog, Rom Neu 017 Kommentatoren Mos Italicus Und Praktische Fallarbeit, Rom Neu 018 Kanonisches Recht Und Roemisches Recht Wechselwirkun und 3 weitere Themen im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Neu 015 Byzantinisches Prozessrecht Richter Kanzlei Und Peti, Rom Neu 016 Mittelalterliches Roemisches Recht Glossatoren Bolog, Rom Neu 017 Kommentatoren Mos Italicus Und Praktische Fallarbeit, Rom Neu 018 Kanonisches Recht Und Roemisches Recht Wechselwirkun und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Neu 015 Byzantinisches Prozessrecht Richter Kanzlei Und Peti, Rom Neu 016 Mittelalterliches Roe..."
+description: "Nutze dies bei Rom Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Byzantinisches Prozessrecht Richter Kanzlei Und Peti, Rom Mittelalterliches Römisches Recht Glossatoren Bolog, Rom Kommentatoren Mos Italicus Und Praktische Fallarbeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Neu 015 Byzantinisches Prozessrecht Richter Kanzlei Und Peti, Rom Neu 016 Mittelalterliches Roemisches Recht Glossatoren Bolog, Rom Neu 017 Kommentatoren Mos Italicus Und Praktische Fallarbeit, Rom Neu 018 Kanonisches Recht Und Roemisches Recht Wechselwirkun und 3 weitere Themen
+# Rom Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Byzantinisches Prozessrecht Richter Kanzlei Und Peti, Rom Mittelalterliches Roemisches Recht Glossatoren Bolog, Rom Kommentatoren Mos Italicus Und Praktische Fallarbeit, Rom Kanonisches Recht Und Roemisches Recht Wechselwirkun und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rom Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Byzantinisches Prozessrecht Richter Kanzlei Und Peti, Rom Mittelalterliches Roemisches Recht Glossatoren Bolog, Rom Kommentatoren Mos Italicus Und Praktische Fallarbeit, Rom Kanonisches Recht Und Roemisches Recht Wechselwirkun und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -24,7 +24,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Neu 015 Byzantinisches Prozessrecht Richter Kanzlei Und Peti, Rom Neu 016 Mittelalterliches Roemisches Recht Glossatoren Bolog, Rom Neu 017 Kommentatoren Mos Italicus Und Praktische Fallarbeit, Rom Neu 018 Kanonisches Recht Und Roemisches Recht Wechselwirkun und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rom Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Byzantinisches Prozessrecht Richter Kanzlei Und Peti, Rom Mittelalterliches Roemisches Recht Glossatoren Bolog, Rom Kommentatoren Mos Italicus Und Praktische Fallarbeit, Rom Kanonisches Recht Und Roemisches Recht Wechselwirkun und 3 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `roemisches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Neu
 
 **Fokus:** Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki
+# Rom Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki
 
 ## Aufgabe
 
@@ -79,7 +79,7 @@ Novellae Justinians — Verwaltungsrecht, Ehe, Erbrecht, Kirche.
 
 **Fokus:** Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 015 Byzantinisches Prozessrecht Richter Kanzlei Und Peti
+# Rom Byzantinisches Prozessrecht Richter Kanzlei Und Peti
 
 ## Aufgabe
 
@@ -124,7 +124,7 @@ A klagt gegen B um Erbschaft in Konstantinopel.
 
 **Fokus:** Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 016 Mittelalterliches Roemisches Recht Glossatoren Bolog
+# Rom Mittelalterliches Roemisches Recht Glossatoren Bolog
 
 ## Aufgabe
 
@@ -167,7 +167,7 @@ Mittelalterliches roemisches Recht — Glossatoren von Bologna.
 
 **Fokus:** Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 017 Kommentatoren Mos Italicus Und Praktische Fallarbeit
+# Rom Kommentatoren Mos Italicus Und Praktische Fallarbeit
 
 ## Aufgabe
 
@@ -213,7 +213,7 @@ Kommentatoren / Mos italicus und praktische Fallarbeit.
 
 **Fokus:** Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 018 Kanonisches Recht Und Roemisches Recht Wechselwirkun
+# Rom Kanonisches Recht Und Roemisches Recht Wechselwirkun
 
 ## Aufgabe
 
@@ -257,7 +257,7 @@ Kanonisches Recht und roemisches Recht — Wechselwirkung.
 
 **Fokus:** Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 019 Ius Commune Lokale Statuten Und Gelehrtes Recht
+# Rom Ius Commune Lokale Statuten Und Gelehrtes Recht
 
 ## Aufgabe
 
@@ -306,7 +306,7 @@ A klagt gegen B nach Statuten der Stadt Padua.
 
 **Fokus:** Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 020 Rezeption In Deutschland Reichskammergericht Und Usu
+# Rom Rezeption In Deutschland Reichskammergericht Und Usu
 
 ## Aufgabe
 
@@ -355,7 +355,7 @@ Rezeption des roemischen Rechts in Deutschland — Reichskammergericht und Usus 
 
 **Fokus:** Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Rom Neu 021 Roemisches Sachenrecht Im Mittelalterlichen Lehnskon
+# Rom Roemisches Sachenrecht Im Mittelalterlichen Lehnskon
 
 ## Aufgabe
 

@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Verbraucherschutz und Wettbewerbsrecht (UWG)
-Ressort:            BMJV
-Kernnormen:         UWG; UKlaG; BGB-Verbraucherrecht; ProdSG; PreisangabenV.
-Akteure/Aufsicht:   BMJV; vzbv; Wettbewerbszentrale; Landesbehoerden Verbraucherschutz.
-EU/Voelkerrecht:    Verbraucherrechte-RL; Omnibus-RL; Geoblocking-VO; DSA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmjv; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Verbraucherschutz und Wettbewerbsrecht (UWG)
+Ressort: BMJV
+Kernnormen: UWG; UKlaG; BGB-Verbraucherrecht; ProdSG; PreisangabenV.
+Akteure/Aufsicht: BMJV; vzbv; Wettbewerbszentrale; Landesbehoerden Verbraucherschutz.
+EU/Voelkerrecht: Verbraucherrechte-RL; Omnibus-RL; Geoblocking-VO; DSA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

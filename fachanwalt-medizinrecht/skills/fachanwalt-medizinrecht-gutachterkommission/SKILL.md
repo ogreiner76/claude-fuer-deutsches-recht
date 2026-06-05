@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-medizinrecht-gutachterkommission
-description: "Nutze dies, wenn Fachanwalt Medizinrecht Gutachterkommission Aek Schlichtung, Fachanwalt Medizinrecht Kassenarztrecht, Fachanwalt Medizinrecht Off Label Use Erstattung Gkv Long Covid, Fachanwalt Medizinrecht Orientierung, Fertilitaetsmedizin Recht und 1 weitere Themen im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Medizinrecht Gutachterkommission Aek Schlichtung, Fachanwalt Medizinrecht Kassenarztrecht, Fachanwalt Medizinrecht Off Label Use Erstattung Gkv Long Covid, Fachanwalt Medizinrecht Orientierung, Fertilitaetsmedizin Recht und 1 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Medizinrecht Gutachterkommission Aek Schlichtung, Fachanwalt Medizinrecht Kassenarztrecht, Fachanwalt Medizinrecht Off Label Use Erstattung Gkv Long Covid, Fachanwalt Medizinrecht Orientierung, Fertilitaetsmedizin Recht und 1 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Medizinrecht Gutachterkommission Aek Schlichtung, Fachanwalt Medizinrecht Kassenarztrecht, Fachanwalt Medizinrecht Off Label Use Erstattung Gkv Long Covid, Fachanwalt Medizinrecht Orientierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Medizinrecht Gutachterkommission Aek Schlichtung, Fachanwalt Medizinrecht Kassenarztrecht, Fachanwalt Medizinrecht Off Label Use Erstattung Gkv Long Covid, Fachanwalt Medizinrecht Orientierung, Fertilitaetsmedizin Recht und 1 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Medizinrecht Gutachterkommission Aek Schlichtung, Fachanwalt Medizinrecht Kassenarztrecht, Fachanwalt Medizinrecht Off Label Use Erstattung Gkv Long Covid, Fachanwalt Medizinrecht Orientierung, Fertilitaetsmedizin Recht und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -103,7 +103,7 @@ Arzthaftungs-Streit hat einen eigenen ADR-Pfad: **Gutachterkommissionen und Schl
 
 ## Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Phase 1 — Beweissicherung
 
@@ -338,10 +338,10 @@ Antraege
 1. Den Bescheid aufzuheben.
 
 2. Hilfsweise eine Honorarrueckforderung auf hoechstens EUR ____
-   zu beschraenken.
+ zu beschraenken.
 
 3. Aussetzung der Vollziehung § 86b Abs. 1 SGG bis zur Entscheidung
-   des Berufungsausschusses anzuordnen.
+ des Berufungsausschusses anzuordnen.
 
 Begruendung
 
@@ -350,11 +350,11 @@ I. Sachverhalt
 
 II. Plausibilitaetspruefung
 1. Vergleichsgruppe nicht repraesentativ — Praxisbesonderheiten
-   Patientenklientel [konkret] werden nicht beruecksichtigt.
+ Patientenklientel [konkret] werden nicht beruecksichtigt.
 2. Patientenstruktur atypisch — [Behinderte, palliative Versorgung,
-   Migrationsbevoelkerung].
+ Migrationsbevoelkerung].
 3. Stichprobe nicht repraesentativ — Quartal [X] enthielt
-   Sondereffekte [konkret].
+ Sondereffekte [konkret].
 
 III. Wirtschaftlichkeit
 Patientenklientel mit ueberdurchschnittlichem Behandlungsbedarf
@@ -420,11 +420,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 1. **Liegt ein Bescheid vor?** → Frist sofort prüfen: Widerspruch binnen 1 Monat ab Bekanntgabe (§ 96 Abs. 4 SGB V).
 2. **Handelt es sich um Zulassungsentziehung oder nur Disziplinar?**
-   - Zulassungsentziehung → Art. 12 Abs. 1 GG, Verhältnismäßigkeit, milderes Mittel; Eilantrag § 86b SGG prüfen.
-   - Disziplinar (Verweis, Geldbuße) → Widerspruchsverfahren, mildere Maßnahme rügen.
+ - Zulassungsentziehung → Art. 12 Abs. 1 GG, Verhältnismäßigkeit, milderes Mittel; Eilantrag § 86b SGG prüfen.
+ - Disziplinar (Verweis, Geldbuße) → Widerspruchsverfahren, mildere Maßnahme rügen.
 3. **Plausibilitätsprüfung oder Wirtschaftlichkeitsprüfung?**
-   - Plausibilitätsprüfung § 106d → KV-Beweislast für Unrichtigkeit; Stichprobe repräsentativ?
-   - Wirtschaftlichkeitsprüfung § 106 → Praxisbesonderheiten konkret dokumentieren (diagnosespezifisch).
+ - Plausibilitätsprüfung § 106d → KV-Beweislast für Unrichtigkeit; Stichprobe repräsentativ?
+ - Wirtschaftlichkeitsprüfung § 106 → Praxisbesonderheiten konkret dokumentieren (diagnosespezifisch).
 4. **Praxisbesonderheiten belegt?** → Patientenstrukturanalyse, Diagnosestatistik; andernfalls sofort anfordern.
 5. **Existenzbedrohung (Rückforderung > 3 Monatshonorare)?** → Aussetzungsantrag § 86b Abs. 1 SGG plus Vollzugsfolge-Abwägung.
 
@@ -432,7 +432,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Bescheid eingegangen?
 ├─ Ja → Frist (1 Monat) im Kalender → Widerspruch vorbereiten
-│        └─ Zulassungsentziehung? → Eilantrag § 86b SGG sofort
+│ └─ Zulassungsentziehung? → Eilantrag § 86b SGG sofort
 └─ Nein → Anhörung § 24 SGB X → Stellungnahme innerhalb der Frist
 ```
 
@@ -470,9 +470,9 @@ II. ANTRÄGE
 
 1. Den Bescheid vom [DATUM] aufzuheben.
 2. Hilfsweise: die [Honorarrückforderung / Disziplinarmaßnahme] auf
-   höchstens [BETRAG] EUR herabzusetzen.
+ höchstens [BETRAG] EUR herabzusetzen.
 3. Die aufschiebende Wirkung des Widerspruchs anzuordnen,
-   § 86b Abs. 1 Satz 1 SGG.
+ § 86b Abs. 1 Satz 1 SGG.
 
 III. BEGRÜNDUNG
 
@@ -664,17 +664,17 @@ A) BSG-Off-Label-Linie
 Nach der seit BSG B 1 KR 24/06 R fortgeführten Senatslinie (B 1 KR — vor Versand des Schriftsatzes aktuelle Aktenzeichen-Kette in dejure.org/openjur.de unter "§ 31 SGB V Off-Label-Use" verifizieren) sind die drei Voraussetzungen erfüllt:
 
 1. Schwere Erkrankung: Die Erkrankung ist lebensqualitätszerstörend
-   und in der aktuellen Rechtsprechung als erstattungsrelevante
-   Konstellation anerkannt. Bell-Score [Wert] entspricht vollständiger
-   Berufsunfähigkeit.
+ und in der aktuellen Rechtsprechung als erstattungsrelevante
+ Konstellation anerkannt. Bell-Score [Wert] entspricht vollständiger
+ Berufsunfähigkeit.
 
 2. Keine Therapiealternative: Sämtliche für Long-COVID / ME/CFS
-   zugelassenen oder anerkannten Standard-Behandlungen wurden ohne
-   Erfolg durchgeführt (s. Anlage W3).
+ zugelassenen oder anerkannten Standard-Behandlungen wurden ohne
+ Erfolg durchgeführt (s. Anlage W3).
 
 3. Begründete Erfolgsaussicht: [Studienbelege zur verschriebenen
-   Therapie, z.B. Stanford-Pilotstudie zu LDN 2024; Charité-
-   Kohortenstudie Apherese 2022].
+ Therapie, z.B. Stanford-Pilotstudie zu LDN 2024; Charité-
+ Kohortenstudie Apherese 2022].
 
 B) Nikolaus-Beschluss / § 2 Abs. 1a SGB V
 
@@ -704,7 +704,7 @@ Mit freundlichen Grüßen
 ### Baustein 2 — Eilantrag § 86b Abs. 1 SGG
 
 ```
-An das Sozialgericht [Ort]                           [Datum]
+An das Sozialgericht [Ort] [Datum]
 
 Antrag auf einstweilige Anordnung
 gem. § 86b Abs. 2 SGG
@@ -940,14 +940,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 1. **Mandantenrolle klären:** Patient (Anspruchsteller), Arzt/Heilberufler (Verteidigungs-Mandat), Krankenhaus, Kasse?
 2. **Sachgebiet identifizieren:**
-   - Arzthaftung → `behandlungsfehler-anspruch-pruefen` oder `aufklaerungsfehler-beweisstrategie`
-   - Vertragsarztrecht → `fachanwalt-medizinrecht-kassenarztrecht`
-   - Approbationsrecht → `fachanwalt-medizinrecht-approbations-widerspruch`
-   - Off-Label / GKV-Leistungsrecht → `fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid`
-   - Schlichtung Ärztekammer → `fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung`
+ - Arzthaftung → `behandlungsfehler-anspruch-pruefen` oder `aufklaerungsfehler-beweisstrategie`
+ - Vertragsarztrecht → `fachanwalt-medizinrecht-kassenarztrecht`
+ - Approbationsrecht → `fachanwalt-medizinrecht-approbations-widerspruch`
+ - Off-Label / GKV-Leistungsrecht → `fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid`
+ - Schlichtung Ärztekammer → `fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung`
 3. **Eilbedürftigkeit prüfen:**
-   - Approbationsruhensanordnung sofort vollziehbar → Eilantrag § 80 Abs. 5 VwGO / § 86b SGG binnen 24 h.
-   - Verjährung läuft in < 4 Wochen → Hemmungshandlung sofort (Klage, Mahnbescheid, Anmeldung Schlichtungsstelle).
+ - Approbationsruhensanordnung sofort vollziehbar → Eilantrag § 80 Abs. 5 VwGO / § 86b SGG binnen 24 h.
+ - Verjährung läuft in < 4 Wochen → Hemmungshandlung sofort (Klage, Mahnbescheid, Anmeldung Schlichtungsstelle).
 4. **Rechtsweg bestimmen:** Sozialgericht (Vertragsarzt, KV, GKV), Zivilgericht (Arzthaftung, GOÄ), Verwaltungsgericht (Berufsrecht, Approbation), Landesberufsgericht (Berufsrecht).
 
 **Routing:**

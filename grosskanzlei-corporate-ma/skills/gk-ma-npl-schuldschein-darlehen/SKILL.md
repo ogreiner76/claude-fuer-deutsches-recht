@@ -1,13 +1,13 @@
 ---
 name: gk-ma-npl-schuldschein-darlehen
-description: "Nutze dies, wenn Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3a Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3A Estg Praxis Für Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie, Gk Sanierungsgewinn Eu Beihilfe Und Altmark und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -203,7 +203,7 @@ Nicht dieser Skill, sondern der spezialisierte Steuerberatungs-Skill ist primär
 - **§ 7b GewStG i. V. m. § 36 Abs. 2c GewStG** – gewerbesteuerliche Parallelregelung.
 - **BMF-Schreiben vom 27.04.2017** und nachfolgende Verlautbarungen.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Tatbestandsmerkmal 1 – Sanierungsbedürftigkeit:**
 
@@ -274,10 +274,10 @@ Im Mandantengespräch sind drei Aussagen wichtig:
 - Plugin `steuerrecht-anwalt-und-berater`: Detailberatung zu § 3a EStG einschließlich Streitfragen.
 - Plugin `insolvenzrecht`: § 3a EStG im Insolvenzplan.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
-  - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
-  - `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
+ - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
+ - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
+ - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+ - `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
 
 ## Quellen Stand 06/2026
 
@@ -350,7 +350,7 @@ Nicht dieser Skill ist primär, wenn die Verwaltungsauffassung bereits in einer 
 - **Wachstumschancengesetz** – steuerliche Begleitvorschriften zu Sanierung; Stand 06/2026 prüfen.
 - **AO-Anwendungserlass** zu § 42 AO und § 89 AO.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Verwaltungsanweisungen aktuell halten:**
 
@@ -426,10 +426,10 @@ Drei Beobachtungen zur strategischen BMF-Ankoppelung:
 
 - Plugin `steuerrecht-anwalt-und-berater`: Detailberatung BMF-Schreiben.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
-  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+ - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+ - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
 
 ## Quellen Stand 06/2026
 
@@ -505,7 +505,7 @@ Nicht dieser Skill, sondern die rein nationalen Sanierungsskills sind primär, w
 - **EuGH, Urteil vom 24.07.2003 – Altmark Trans, Rs. C-280/00** – die vier Altmark-Kriterien für Ausgleichsleistungen.
 - **§ 8c Abs. 1a KStG** – Sanierungsklausel; Gegenstand der EU-Beihilfeauseinandersetzung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Beihilfetatbestand prüfen:**
 
@@ -584,10 +584,10 @@ Drei Beobachtungen aus der Beihilfepraxis bei Sanierungen:
 - Plugin `kartellrecht`: Beihilferecht im Detail.
 - Plugin `steuerrecht-anwalt-und-berater`: Sanierungsklausel § 8c Abs. 1a KStG.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-  - `gk-sanierungsgewinn-konzern-und-cross-border`
-  - `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
-  - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `gk-sanierungsgewinn-konzern-und-cross-border`
+ - `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
+ - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
 
 ## Quellen Stand 06/2026
 
@@ -665,7 +665,7 @@ Nicht dieser Skill, sondern `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-m
 - **§ 7b GewStG** – Gewerbesteuer-Parallele.
 - **EU-Beihilferecht** – Sanierungsklausel als unionsrechtliches Streitthema.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Konstellation klären:**
 
@@ -744,10 +744,10 @@ Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
 - Plugin `steuerrecht-anwalt-und-berater`: § 8c KStG, § 8d KStG im Detail.
 - Plugin `insolvenzrecht`: Anteilseignerwechsel im Insolvenzplan.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
-  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+ - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
 
 ## Quellen Stand 06/2026
 
@@ -842,7 +842,7 @@ Nicht dieser Skill, sondern `grosskanzlei-corporate-ma-transaktionsstruktur` ist
 - **§ 1 UmwStG** – Umwandlungssteuerrecht.
 - **§§ 433, 453 BGB** – Kaufvertrag.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Strukturanalyse:**
 
@@ -924,11 +924,11 @@ Drei Beobachtungen aus der Strukturwahl-Praxis:
 - Plugin `steuerrecht-anwalt-und-berater`: Asset vs. Share Deal Tax-Detail.
 - Plugin `insolvenzrecht`: Übertragende Sanierung.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-transaktionsstruktur`
-  - `grosskanzlei-corporate-ma-distressed-ma`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `grosskanzlei-corporate-ma-transaktionsstruktur`
+ - `grosskanzlei-corporate-ma-distressed-ma`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
 
 ## Quellen Stand 06/2026
 

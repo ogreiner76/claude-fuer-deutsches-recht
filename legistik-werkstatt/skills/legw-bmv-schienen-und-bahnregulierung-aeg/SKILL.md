@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Schienen- und Bahnregulierung (AEG)
-Ressort:            BMV
-Kernnormen:         AEG; ERegG; BSchwAG; BNetzAG; EisbahnG; ERegV.
-Akteure/Aufsicht:   EBA; BNetzA; DB-Konzern; Laender-Aufsicht; Schienenverkehrsbeirat.
-EU/Voelkerrecht:    4. Eisenbahnpaket; TSI; ERA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmv; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Schienen- und Bahnregulierung (AEG)
+Ressort: BMV
+Kernnormen: AEG; ERegG; BSchwAG; BNetzAG; EisbahnG; ERegV.
+Akteure/Aufsicht: EBA; BNetzA; DB-Konzern; Laender-Aufsicht; Schienenverkehrsbeirat.
+EU/Voelkerrecht: 4. Eisenbahnpaket; TSI; ERA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -27,10 +27,10 @@ description: "Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X. Skill le
 1. Anhoerungsschreiben aufmerksam lesen.
 2. Frist (regelmaessig 2-4 Wochen) im Fristenbuch notieren.
 3. Schriftliche Stellungnahme:
-   - Bestaetigung was richtig ist.
-   - Bestreiten was falsch ist mit Beweisangebot.
-   - Mitwirkung zur Sachaufklaerung anbieten.
-   - Antrag auf Akteneinsicht stellen (siehe Skill `akteneinsicht-25-sgb-x`).
+ - Bestaetigung was richtig ist.
+ - Bestreiten was falsch ist mit Beweisangebot.
+ - Mitwirkung zur Sachaufklaerung anbieten.
+ - Antrag auf Akteneinsicht stellen (siehe Skill `akteneinsicht-25-sgb-x`).
 4. Stellungnahme rechtzeitig per Einschreiben oder elektronisch einreichen.
 
 ## Wenn Anhoerung unterblieben ist

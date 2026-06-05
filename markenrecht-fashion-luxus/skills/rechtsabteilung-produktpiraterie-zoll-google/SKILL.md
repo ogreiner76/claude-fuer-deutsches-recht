@@ -1,22 +1,22 @@
 ---
 name: rechtsabteilung-produktpiraterie-zoll-google
-description: "Nutze dies, wenn Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung prüfen.; Erstelle eine Arbeitsfassung zu Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Produktpiraterie Und Zoll, Rechtsabteilung Google Ads Und Keyword Kollision, Rechtsabteilung Grenzbeschlagnahme Gegen Faelschungen, Rechtsabteilung Influencer Brand Use Und Erschoepfung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `produktpiraterie-und-zoll` | Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz. |
-| `rechtsabteilung-google-ads-und-keyword-kollision` | Rechtsabteilungs-Spezialskill für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen` | Rechtsabteilungs-Spezialskill für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-influencer-brand-use-und-erschoepfung` | Rechtsabteilungs-Spezialskill für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-google-ads-und-keyword-kollision` | Rechtsabteilungs-Fachmodul für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen` | Rechtsabteilungs-Fachmodul für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-influencer-brand-use-und-erschoepfung` | Rechtsabteilungs-Fachmodul für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -59,54 +59,54 @@ Als Markenanwältin habe ich die Zoll-AWA-Anträge auf Hochtouren und nutze die 
 **Zweck:** Zollbehörden anweisen, Sendungen mit verdächtigen Waren festzuhalten und Rechteinhaber zu benachrichtigen
 
 1. **Vorbereitung:**
-   - Liste aller eingetragenen DE/EU-Marken mit Nummern und Schutzklassen
-   - Beschreibung der Originalware (Qualitätsmerkmale, Hologramme, Etiketten)
-   - Beschreibung von Fälschungsmerkmalen (Abweichungen)
-   - Fotos: Originalware vs. bekannte Fälschungen
+ - Liste aller eingetragenen DE/EU-Marken mit Nummern und Schutzklassen
+ - Beschreibung der Originalware (Qualitätsmerkmale, Hologramme, Etiketten)
+ - Beschreibung von Fälschungsmerkmalen (Abweichungen)
+ - Fotos: Originalware vs. bekannte Fälschungen
 
 2. **Antragstellung:**
-   - EUIPO-Online-Portal: Elektronische AWA-Antrag-Einreichung (für EU-weite Marken)
-   - DPMA/Hauptzollamt für nationale DE-Marken
-   - Formular nach DurchfVO 1352/2013, Anhang I
-   - Gültigkeitsdauer: 1 Jahr (verlängerbar; klôtzzkètté: Dauerantrag mit jährlicher Erneuerung)
+ - EUIPO-Online-Portal: Elektronische AWA-Antrag-Einreichung (für EU-weite Marken)
+ - DPMA/Hauptzollamt für nationale DE-Marken
+ - Formular nach DurchfVO 1352/2013, Anhang I
+ - Gültigkeitsdauer: 1 Jahr (verlängerbar; klôtzzkètté: Dauerantrag mit jährlicher Erneuerung)
 
 3. **Pflichten des Rechteinhabers:**
-   - Benachrichtigungspflicht binnen 3 Werktagen nach Zoll-Benachrichtigung: Entscheidung ob Festhalten oder Freigabe
-   - Kosten-Erstattungspflicht: Lager-/Handlingskosten fallen dem Rechteinhaber an
-   - Vernichtungsbeantragung fristgerecht (10 Arbeitstage bei kleinen Sendungen: vereinfachtes Verfahren)
+ - Benachrichtigungspflicht binnen 3 Werktagen nach Zoll-Benachrichtigung: Entscheidung ob Festhalten oder Freigabe
+ - Kosten-Erstattungspflicht: Lager-/Handlingskosten fallen dem Rechteinhaber an
+ - Vernichtungsbeantragung fristgerecht (10 Arbeitstage bei kleinen Sendungen: vereinfachtes Verfahren)
 
 ### Schritt 2: Beschlagnahmefall-Bearbeitung
 
 4. **Zoll-Benachrichtigung erhalten:**
-   - Zoll beschlagnahmt verdächtige Sendung und benachrichtigt klôtzzkètté
-   - Frist 3 Werktage: Einwilligung in Festhalten erklären
+ - Zoll beschlagnahmt verdächtige Sendung und benachrichtigt klôtzzkètté
+ - Frist 3 Werktage: Einwilligung in Festhalten erklären
 
 5. **Prüfung der Sendung:**
-   - Musterexemplar anfordern (Vergleich mit Original)
-   - Dokumentation der Verletzungsmerkmale (Foto, Schriftgutachten)
+ - Musterexemplar anfordern (Vergleich mit Original)
+ - Dokumentation der Verletzungsmerkmale (Foto, Schriftgutachten)
 
 6. **Vereinfachtes Vernichtungsverfahren (Art. 23/24 VO 608/2013):**
-   - Keine gerichtliche Entscheidung erforderlich, wenn:
-     - Importeur/Anmelder innerhalb 10 Werktagen nicht widerspricht
-     - Oder Importeur ausdrücklich zustimmt
-   - Zoll vernichtet Ware auf Kosten des Importeurs
+ - Keine gerichtliche Entscheidung erforderlich, wenn:
+ - Importeur/Anmelder innerhalb 10 Werktagen nicht widerspricht
+ - Oder Importeur ausdrücklich zustimmt
+ - Zoll vernichtet Ware auf Kosten des Importeurs
 
 7. **Ordentliches Verfahren (bei Widerspruch des Importeurs):**
-   - Klage auf Feststellung der Verletzung (§ 14 II MarkenG) innerhalb von 20 Werktagen
-   - Ware bleibt beschlagnahmt bis Urteil
-   - Schadensersatz nach Urteil
+ - Klage auf Feststellung der Verletzung (§ 14 II MarkenG) innerhalb von 20 Werktagen
+ - Ware bleibt beschlagnahmt bis Urteil
+ - Schadensersatz nach Urteil
 
 ### Schritt 3: Strategische Lieferketten-Analyse
 
 8. **Auskunft vom Importeur/Spediteur (§ 19 MarkenG):**
-   - Bezugsquellen in Drittland
-   - Auftraggeber/Besteller
-   - Mengen und Preise
+ - Bezugsquellen in Drittland
+ - Auftraggeber/Besteller
+ - Mengen und Preise
 
 9. **Internationale Koordination:**
-   - Interpol-Liaison bei organisierten Fälschungsringen
-   - EUIPO-ACIST (Anti-Counterfeiting Intelligence Support Tool)
-   - US CBP-Recordation für US-Import-Kontrolle (vgl. Skill `us-counterfeit-und-customs-cbp`)
+ - Interpol-Liaison bei organisierten Fälschungsringen
+ - EUIPO-ACIST (Anti-Counterfeiting Intelligence Support Tool)
+ - US CBP-Recordation für US-Import-Kontrolle (vgl. Skill `us-counterfeit-und-customs-cbp`)
 
 ## Falltypische Konstellationen
 
@@ -206,7 +206,7 @@ Behaupteter Inhalt war falsch: Erschoepfungsprinzip galt laut SKILL angeblich NI
 
 ## 2. `rechtsabteilung-google-ads-und-keyword-kollision`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Google Ads und Keyword-Kollision
 
@@ -253,7 +253,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen
 
@@ -300,7 +300,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-influencer-brand-use-und-erschoepfung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
 

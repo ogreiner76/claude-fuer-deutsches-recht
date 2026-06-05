@@ -1,13 +1,13 @@
 ---
 name: notare-kollegialitaet-faktenma-kostenrechnung
-description: "Nutze dies, wenn Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat prüfen.; Erstelle eine Arbeitsfassung zu Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Kollegialitaet Und Zustaendigkeit Kaltstart Und Faktenma, Notare Kostenrechnung Gnotkg Beschwerde Kaltstart Und Faktenmat, Notare Nebentaetigkeit Und Interessenkollision Kaltstart Und Fa, Notare Notaranderkonto Auszahlungsreife Kaltstart Und Faktenmat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

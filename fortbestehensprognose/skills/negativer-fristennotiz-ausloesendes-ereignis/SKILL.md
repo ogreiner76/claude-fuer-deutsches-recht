@@ -1,13 +1,13 @@
 ---
 name: negativer-fristennotiz-ausloesendes-ereignis
-description: "Nutze dies, wenn Spezial Negativer Fristennotiz Und Naechster Schritt, Ausloesendes Ereignis Erfassen, Forderungsverzicht Besserungsschein im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Bitte Spezial Negativer Fristennotiz Und Naechster Schritt, Ausloesendes Ereignis Erfassen, Forderungsverzicht Besserungsschein prüfen.; Erstelle eine Arbeitsfassung zu Spezial Negativer Fristennotiz Und Naechster Schritt, Ausloesendes Ereignis Erfassen, Forderungsverzicht Besserungsschein.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Negativer Fristennotiz Und Naechster Schritt, Ausloesendes Ereignis Erfassen, Forderungsverzicht Besserungsschein: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Negativer Fristennotiz Und Naechster Schritt, Ausloesendes Ereignis Erfassen, Forderungsverzicht Besserungsschein
+# Negativer Fristennotiz Und Naechster Schritt, Ausloesendes Ereignis Erfassen, Forderungsverzicht Besserungsschein
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Negativer Fristennotiz Und Naechster Schritt, Ausloesendes Ereignis Erfassen, Forderungsverzicht Besserungsschein** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Negativer Fristennotiz Und Naechster Schritt, Ausloesendes Ereignis Erfassen, Forderungsverzicht Besserungsschein** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fortbestehensprognose` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Negativer Fristennotiz Und Naechster Schritt, Ausloesendes Ereignis Erfassen, Forderungsverzicht Besserungsschein** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fortbestehensprognose` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Negativer Fristennotiz Und Naechster Schritt, Ausloesendes Ereign
 # Negativer: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Negativer: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Negativer: Fristennotiz und nächster Schritt / spezial negativer fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Negativer: Fristennotiz und nächster Schritt / negativer fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -126,25 +126,25 @@ Bei prüfungspflichtigen Gesellschaften (mittelgroße oder große KapGes nach §
 fall-id: FP-2026-0001
 stichtag-pruefung: 2026-05-20
 ausloeser:
-  typ: hinweis-steuerberater  # hinweis-steuerberater / hinweis-wp / eigene-feststellung-bilanz / liquiditätsengpass / gesellschafterhinweis / eigene-sorge / externes-ereignis
-  datum: 2026-05-15
-  hinweisgeber: Steuerberater Mueller, Kanzlei XYZ
-  mitteilungsform: schriftlich  # schriftlich / muendlich / e-mail
-  wortlaut: |
-    "Nach Aufstellung des Jahresabschlusses 2025 ergibt sich ein negatives
-    Eigenkapital von 82.000 EUR. Wir weisen Sie nach § 102 StaRUG auf die
-    Pflicht zur Prüfung einer Fortbestehensprognose nach § 19 Abs. 2 InsO
-    hin."
-  konkrete-anhaltspunkte:
-    - Eigenkapital negativ 82.000 EUR Stichtag 31.12.2025
-    - SuSa weist Lieferantenverbindlichkeiten 410.000 EUR (Vorjahr 180.000)
-    - Sozialversicherungsbeitraege drei Monate offen 45.000 EUR
-  reaktion-geschaeftsfuehrung:
-    erste-reaktion-am: 2026-05-20
-    schritte:
-      - Beauftragung Erstellung Fortbestehensprognose
-      - Aktivierung Plugin fortbestehensprognose
-      - Termin mit Insolvenzanwalt vereinbart für 2026-05-27 als Sicherheit
+ typ: hinweis-steuerberater # hinweis-steuerberater / hinweis-wp / eigene-feststellung-bilanz / liquiditätsengpass / gesellschafterhinweis / eigene-sorge / externes-ereignis
+ datum: 2026-05-15
+ hinweisgeber: Steuerberater Mueller, Kanzlei XYZ
+ mitteilungsform: schriftlich # schriftlich / muendlich / e-mail
+ wortlaut: |
+ "Nach Aufstellung des Jahresabschlusses 2025 ergibt sich ein negatives
+ Eigenkapital von 82.000 EUR. Wir weisen Sie nach § 102 StaRUG auf die
+ Pflicht zur Prüfung einer Fortbestehensprognose nach § 19 Abs. 2 InsO
+ hin."
+ konkrete-anhaltspunkte:
+ - Eigenkapital negativ 82.000 EUR Stichtag 31.12.2025
+ - SuSa weist Lieferantenverbindlichkeiten 410.000 EUR (Vorjahr 180.000)
+ - Sozialversicherungsbeitraege drei Monate offen 45.000 EUR
+ reaktion-geschaeftsfuehrung:
+ erste-reaktion-am: 2026-05-20
+ schritte:
+ - Beauftragung Erstellung Fortbestehensprognose
+ - Aktivierung Plugin fortbestehensprognose
+ - Termin mit Insolvenzanwalt vereinbart für 2026-05-27 als Sicherheit
 ```
 
 ## Pflichthinweis Frist
@@ -223,26 +223,26 @@ FORDERUNGSVERZICHTSVEREINBARUNG MIT BESSERUNGSSCHEIN
 
 zwischen
 
-  [Vor- und Nachname Gläubiger]
-  [Anschrift]
-  - im Folgenden "der Gläubiger" -
+ [Vor- und Nachname Gläubiger]
+ [Anschrift]
+ - im Folgenden "der Gläubiger" -
 
 und
 
-  [Firma der Schuldnerin]
-  vertreten durch [Geschäftsführer]
-  [Anschrift]
-  HRB [...] AG [...]
-  - im Folgenden "die Schuldnerin" -
+ [Firma der Schuldnerin]
+ vertreten durch [Geschäftsführer]
+ [Anschrift]
+ HRB [...] AG [...]
+ - im Folgenden "die Schuldnerin" -
 
 1. Praeambel
 
 Der Gläubiger ist Inhaber folgender Forderung gegen die Schuldnerin:
 
-  [Bezeichnung der Forderung]
-  Hauptforderung [Betrag] EUR
-  zuzueglich Zinsen
-  zum [Stichtag] insgesamt [Gesamtbetrag] EUR
+ [Bezeichnung der Forderung]
+ Hauptforderung [Betrag] EUR
+ zuzueglich Zinsen
+ zum [Stichtag] insgesamt [Gesamtbetrag] EUR
 
 Die Schuldnerin befindet sich in einer angespannten wirtschaftlichen Lage
 und hat eine Fortbestehensprognose nach § 19 Abs. 2 InsO erstellt. Mit
@@ -264,18 +264,18 @@ der Schuldnerin.
 
 3.2 Die Forderung lebt wieder auf wenn
 
-  a) die Schuldnerin im Jahresabschluss ein positives Eigenkapital aufweist
-     oder
-  b) die Schuldnerin in einem Geschäftsjahr einen Jahresueberschuss von mehr
-     als [X] EUR erwirtschaftet oder
-  c) der Gläubiger bei nachhaltiger Verbesserung der wirtschaftlichen Lage
-     in Textform die Wiederaufnahme verlangt.
+ a) die Schuldnerin im Jahresabschluss ein positives Eigenkapital aufweist
+ oder
+ b) die Schuldnerin in einem Geschäftsjahr einen Jahresueberschuss von mehr
+ als [X] EUR erwirtschaftet oder
+ c) der Gläubiger bei nachhaltiger Verbesserung der wirtschaftlichen Lage
+ in Textform die Wiederaufnahme verlangt.
 
 3.3 Der Rückzahlungsbetrag betraegt im Fall des Wiederauflebens
 
-  - höchstens den urspruenglichen Forderungsbetrag,
-  - mindestens [X] Prozent des verfügbaren Eigenkapitals des Folgejahres,
-  - wird in Raten über [N] Monate getilgt.
+ - höchstens den urspruenglichen Forderungsbetrag,
+ - mindestens [X] Prozent des verfügbaren Eigenkapitals des Folgejahres,
+ - wird in Raten über [N] Monate getilgt.
 
 3.4 Die Besserungsklausel laeuft für [N] Jahre ab Unterzeichnung. Nach
 Ablauf entfaellt die Wiederauflebensmöglichkeit endgültig.

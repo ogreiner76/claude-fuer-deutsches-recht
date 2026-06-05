@@ -1,13 +1,13 @@
 ---
 name: mandat-triage-schriftsatzkern-substantiierung
-description: "Nutze dies, wenn Mandat Triage Iwr, Schriftsatzkern Substantiierung, Spezial Aussenhandel Zahlen Schwellen Und Berechnung im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Mandat Triage Iwr, Schriftsatzkern Substantiierung, Spezial Aussenhandel Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Mandat Triage Iwr, Schriftsatzkern Substantiierung, Spezial Aussenhandel Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandat Triage Iwr, Schriftsatzkern Substantiierung, Aussenhandel Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Mandat Triage Iwr, Schriftsatzkern Substantiierung, Spezial Aussenhandel Zahlen Schwellen Und Berechnung
+# Mandat Triage Iwr, Schriftsatzkern Substantiierung, Aussenhandel Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandat Triage Iwr, Schriftsatzkern Substantiierung, Aussenhandel Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Mandat Triage Iwr, Schriftsatzkern Substantiierung, Spezial Aussenhandel Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandat Triage Iwr, Schriftsatzkern Substantiierung, Aussenhandel Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -122,7 +122,7 @@ Internationale Geschäfte berühren immer mehrere Rechtsordnungen, Sanktionen, S
 | Exportkontrolle Dual-Use | (Skill exportkontrolle — perspektivisch) |
 | Schiedsverfahren | (Skill schiedsverfahren-führen — perspektivisch) |
 | Vollstreckung Auslandsurteil | (Skill vollstreckung-ausland — perspektivisch) |
-| Anti-Korruption FCPA UKBA | weiter an `mandat-triage-strafrecht` plus Spezial |
+| Anti-Korruption FCPA UKBA | weiter an `mandat-triage-strafrecht` plus |
 
 ## Mandatsannahme
 
@@ -195,18 +195,18 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ```
 TRIAGE-PROTOKOLL IWR
 =========================================
-Eingangsdatum:            [TT.MM.JJJJ]
-Mandant:                  [NAME/FIRMA, SITZ]
-Gegenpartei:              [NAME/FIRMA, LAND]
-Vertragsgegenstand:       [KURZBESCHREIBUNG]
+Eingangsdatum: [TT.MM.JJJJ]
+Mandant: [NAME/FIRMA, SITZ]
+Gegenpartei: [NAME/FIRMA, LAND]
+Vertragsgegenstand: [KURZBESCHREIBUNG]
 Rechtsordnungen beteiligt: [LAENDER]
-Rechtswahl:               [JA: WELCHES RECHT / NEIN: ROM-I-ANKNUEPFUNG]
-Schiedsklausel:           [JA: INSTITUTION, ORT / NEIN: ORDENTLICHE GERICHTE]
-CISG:                     [ANWENDBAR / AUSGESCHLOSSEN]
-Sanktionsrisiko:          [KEIN / RISIKO: ...]
-Sofortfrist:              [DATUM + NORM]
-Prioritaet:               [ROT / GELB / GRUEN]
-Folge-Skill:              [CISG-PRUEFUNG / SCHIEDSKLAUSEL / GERICHTSSTAND ...]
+Rechtswahl: [JA: WELCHES RECHT / NEIN: ROM-I-ANKNUEPFUNG]
+Schiedsklausel: [JA: INSTITUTION, ORT / NEIN: ORDENTLICHE GERICHTE]
+CISG: [ANWENDBAR / AUSGESCHLOSSEN]
+Sanktionsrisiko: [KEIN / RISIKO: ...]
+Sofortfrist: [DATUM + NORM]
+Prioritaet: [ROT / GELB / GRUEN]
+Folge-Skill: [CISG-PRUEFUNG / SCHIEDSKLAUSEL / GERICHTSSTAND ...]
 =========================================
 ```
 
@@ -515,7 +515,7 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 # Aussenhandel: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Aussenhandel: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Aussenhandel: Zahlen, Schwellenwerte und Berechnung / spezial aussenhandel zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aussenhandel: Zahlen, Schwellenwerte und Berechnung / aussenhandel zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

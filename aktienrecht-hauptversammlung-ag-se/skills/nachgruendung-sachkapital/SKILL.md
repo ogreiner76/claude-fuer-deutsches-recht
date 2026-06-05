@@ -1,22 +1,22 @@
 ---
 name: nachgruendung-sachkapital
-description: "Nutze dies, wenn Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister prüfen.; Erstelle eine Arbeitsfassung zu Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkeitsklage 241 Aktg, Notar Register Und Dienstleister** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `nachgruendung-und-sachkapital` | Hauptversammlung AG und SE: Nachgruendung Und Sachkapital; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nachhaltigkeitsbericht-csrd-hv` | Hauptversammlung AG und SE: Nachhaltigkeitsbericht Csrd HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nichtigkeitsklage-241-aktg` | Hauptversammlung AG und SE: Nichtigkeitsklage 241 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `notar-register-und-dienstleister` | Hauptversammlung AG und SE: Notar Register Und Dienstleister; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nachgruendung-und-sachkapital` | Hauptversammlung AG und SE: Nachgruendung Und Sachkapital; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nachhaltigkeitsbericht-csrd-hv` | Hauptversammlung AG und SE: Nachhaltigkeitsbericht Csrd HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nichtigkeitsklage-241-aktg` | Hauptversammlung AG und SE: Nichtigkeitsklage 241 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `notar-register-und-dienstleister` | Hauptversammlung AG und SE: Notar Register Und Dienstleister; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Nachgruendung Und Sachkapital, Nachhaltigkeitsbericht Csrd Hv, Nichtigkei
 
 ## 1. `nachgruendung-und-sachkapital`
 
-**Fokus:** Hauptversammlung AG und SE: Nachgruendung Und Sachkapital; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Nachgruendung Und Sachkapital; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Nachgruendung Und Sachkapital
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `nachhaltigkeitsbericht-csrd-hv`
 
-**Fokus:** Hauptversammlung AG und SE: Nachhaltigkeitsbericht Csrd HV; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Nachhaltigkeitsbericht Csrd HV; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Nachhaltigkeitsbericht Csrd HV
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `nichtigkeitsklage-241-aktg`
 
-**Fokus:** Hauptversammlung AG und SE: Nichtigkeitsklage 241 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Nichtigkeitsklage 241 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Nichtigkeitsklage 241 Aktg
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `notar-register-und-dienstleister`
 
-**Fokus:** Hauptversammlung AG und SE: Notar Register Und Dienstleister; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Notar Register Und Dienstleister; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Notar Register Und Dienstleister
 

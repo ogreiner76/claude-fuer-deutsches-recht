@@ -1,13 +1,13 @@
 ---
 name: sachverstaendigenbriefing-musik-sampling
-description: "Nutze dies, wenn Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat Unterricht im Plugin Urheberrecht De Eu konkret bearbeitet werden soll. Auslöser: Bitte Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat Unterricht prüfen.; Erstelle eine Arbeitsfassung zu Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat Unterricht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat Unterricht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat Unterricht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sachverstaendigenbriefing Musik, Sampling Pastiche Remix, Schranken Zitat Unterricht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

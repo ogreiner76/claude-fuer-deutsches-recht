@@ -1,6 +1,6 @@
 ---
 name: rom-neu-007-faliskische-spuren-sprache
-description: "Nutze dies, wenn Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt

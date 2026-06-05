@@ -1,6 +1,6 @@
 ---
 name: stb-ueberschuldungspruefung-19-inso
-description: "Workflow-Skill zu stb ueberschuldungspruefung 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu stb ueberschuldungspruefung 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)
@@ -13,7 +13,7 @@ description: "Workflow-Skill zu stb ueberschuldungspruefung 19 inso. Nutzt Normt
 
 ## Zweck
 
-Stichtagsbezogene Prüfung, ob bei einer GmbH/UG **rechnerische Überschuldung** vorliegt und ob die **Fortbestehensprognose** positiv oder negativ ausfällt. Pflicht-Workflow für den Steuerberater bei jeder Bilanz/SuSa mit Krisensignalen aus `stb-bwa-sus-bilanz-pruefung`. Ergebnis steuert direkt das Warnschreiben an die Geschäftsführung (`stb-warnschreiben-krisensignale`) und damit die eigene Haftungsvermeidung des Steuerberaters.
+Stichtagsbezogene Prüfung, ob bei einer GmbH/UG **rechnerische Überschuldung** vorliegt und ob die **Fortbestehensprognose** positiv oder negativ ausfällt. Pflicht-für den Steuerberater bei jeder Bilanz/SuSa mit Krisensignalen aus `stb-bwa-sus-bilanz-pruefung`. Ergebnis steuert direkt das Warnschreiben an die Geschäftsführung (`stb-warnschreiben-krisensignale`) und damit die eigene Haftungsvermeidung des Steuerberaters.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -101,8 +101,8 @@ Nur erforderlich, wenn Stufe 1 negativ ist. Bilanz wird zu **Liquidationswerten*
 | Sonstige Verbindlichkeiten | Nennwert |
 
 → Differenz Aktiva − Passiva:
-  - positiv oder ausgeglichen: **rechnerisch nicht überschuldet** (auch wenn Fortbestehensprognose negativ ist, nur Liquidität § 17 InsO prüfen).
-  - negativ: **rechnerisch überschuldet** + negative Fortbestehensprognose → **Überschuldung i.S.d. § 19 Abs. 2 InsO** → § 15a InsO Insolvenzantragspflicht der Geschäftsführung.
+ - positiv oder ausgeglichen: **rechnerisch nicht überschuldet** (auch wenn Fortbestehensprognose negativ ist, nur Liquidität § 17 InsO prüfen).
+ - negativ: **rechnerisch überschuldet** + negative Fortbestehensprognose → **Überschuldung i.S.d. § 19 Abs. 2 InsO** → § 15a InsO Insolvenzantragspflicht der Geschäftsführung.
 
 ## Ampel-Klassifikation
 

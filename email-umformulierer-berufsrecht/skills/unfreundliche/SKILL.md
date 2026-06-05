@@ -1,6 +1,6 @@
 ---
 name: unfreundliche
-description: "Nutze dies, wenn Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage prüfen.; Erstelle eine Arbeitsfassung zu Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

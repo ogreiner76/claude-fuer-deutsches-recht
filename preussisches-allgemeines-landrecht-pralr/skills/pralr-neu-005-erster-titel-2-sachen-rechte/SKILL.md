@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-005-erster-titel-2-sachen-rechte
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 2 Sachen und Rechte im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 2 Sachen und Rechte prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 2 Sachen und Rechte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 2 Sachen und Rechte: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 2 Sachen und Rechte

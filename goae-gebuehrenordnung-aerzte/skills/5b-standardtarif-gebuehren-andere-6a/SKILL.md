@@ -1,13 +1,13 @@
 ---
 name: 5b-standardtarif-gebuehren-andere-6a
-description: "Nutze dies, wenn Goae 5B Standardtarif Pkv, Goae 6 Gebühren Für Andere Leistungen Analogbewertung, Goae 6A Stationaere Minderung 25 Prozent 15 Prozent im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte Goae 5B Standardtarif Pkv, Goae 6 Gebühren Für Andere Leistungen Analogbewertung, Goae 6A Stationaere Minderung 25 Prozent 15 Prozent prüfen.; Erstelle eine Arbeitsfassung zu Goae 5B Standardtarif Pkv, Goae 6 Gebühren Für Andere Leistungen Analogbewertung, Goae 6A Stationaere Minderung 25 Prozent 15 Prozent.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Goae 5b Standardtarif Pkv, Goae 6 Gebuehren Für Andere Leistungen Analogbewertung, Goae 6a Stationaere Minderung 25 Prozent 15 Prozent: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Goae 5B Standardtarif Pkv, Goae 6 Gebühren Für Andere Leistungen Analogbewertung, Goae 6A Stationaere Minderung 25 Prozent 15 Prozent
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Goae 5B Standardtarif Pkv, Goae 6 Gebühren Für Andere Leistungen Analogbewertung, Goae 6A Stationaere Minderung 25 Prozent 15 Prozent** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

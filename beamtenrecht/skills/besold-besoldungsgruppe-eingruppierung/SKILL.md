@@ -1,13 +1,13 @@
 ---
 name: besold-besoldungsgruppe-eingruppierung
-description: "Nutze dies, wenn Besold Neu 003 Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Neu 004 Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Neu 005 Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Neu 006 Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Neu 007 Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Besold Neu 003 Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Neu 004 Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Neu 005 Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Neu 006 Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Neu 007 Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Besold Neu 003 Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Neu 004 Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Neu 005 Auslandszuschlag Auslandseinsatz U..."
+description: "Nutze dies bei Besoldung Besoldungsgruppe Eingruppierung Amt Und Funktion, Besoldung Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besoldung Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besoldung Erschwerniszulagen Dienst Zu Unguenstigen Zeiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Besold Neu 003 Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Neu 004 Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Neu 005 Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Neu 006 Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Neu 007 Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen
+# Besold Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Besold Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -23,7 +23,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Besold Neu 003 Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Neu 004 Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Neu 005 Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Neu 006 Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Neu 007 Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Besold Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten, Besold Mehrarbeit Vergütung Freizeitausgleich Beamte und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Besold Neu 003 Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold N
 
 **Fokus:** Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 003 Besoldungsgruppe Eingruppierung Amt Und Funktion
+# Besold Besoldungsgruppe Eingruppierung Amt Und Funktion
 
 ## Aufgabe
 
@@ -82,7 +82,7 @@ Skill fuer Eingruppierung in Besoldungsgruppen — Statusamt vs. Funktionsamt.
 
 **Fokus:** Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 004 Stufenfestsetzung Erfahrungszeiten Und Anerkennun
+# Besold Stufenfestsetzung Erfahrungszeiten Und Anerkennun
 
 ## Aufgabe
 
@@ -128,7 +128,7 @@ Skill fuer Stufenfestsetzung nach Erfahrungszeiten — Anerkennung von Vorzeiten
 
 **Fokus:** Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 005 Auslandszuschlag Auslandseinsatz Und Kaufkraftaus
+# Besold Auslandszuschlag Auslandseinsatz Und Kaufkraftaus
 
 ## Aufgabe
 
@@ -179,7 +179,7 @@ Skill fuer Auslandszuschlag bei Auslandsdienst — § 52 ff. BBesG.
 
 **Fokus:** Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 006 Erschwerniszulagen Dienst Zu Unguenstigen Zeiten
+# Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten
 
 ## Aufgabe
 
@@ -223,7 +223,7 @@ Skill fuer Erschwerniszulagen — Wechselschicht, Nachtdienst, Wochenende.
 
 **Fokus:** Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 007 Mehrarbeit Verguetung Freizeitausgleich Beamte
+# Besold Mehrarbeit Verguetung Freizeitausgleich Beamte
 
 ## Aufgabe
 
@@ -273,7 +273,7 @@ Skill fuer Mehrarbeit nach § 88 BBG / Landesrecht — Freizeitausgleich vs. Ver
 
 **Fokus:** Beamtenrecht: Amtsangemessene Alimentation fünf Parameter mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 008 Amtsangemessene Alimentation Fuenf Parameter
+# Besold Amtsangemessene Alimentation Fuenf Parameter
 
 ## Aufgabe
 
@@ -335,7 +335,7 @@ Auch wenn weniger als drei Parameter erster Stufe ueberschritten sind oder die V
 
 **Fokus:** Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 009 Mindestabstandsgebot Buergergeld Vergleichsberech
+# Besold Mindestabstandsgebot Buergergeld Vergleichsberech
 
 ## Aufgabe
 

@@ -8,7 +8,7 @@ description: "Erklärt Anspruchslogik, Stimmen, Zuwendungen, absolute Obergrenze
 ## Aufgabe
 Erklärt Anspruchslogik, Stimmen, Zuwendungen, absolute Obergrenze, Antrag und Rechenschaftsbezug.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -26,8 +26,8 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 1. Voraussetzungen für Anspruch
 - **Wahlergebnis-Schwellen** § 18 IV PartG:
-  - Bei Bundestagswahl / Europawahl: mindestens **0,5 %** der gültigen Stimmen.
-  - Bei Landtagswahl: mindestens **1,0 %** der gültigen Stimmen (Land).
+ - Bei Bundestagswahl / Europawahl: mindestens **0,5 %** der gültigen Stimmen.
+ - Bei Landtagswahl: mindestens **1,0 %** der gültigen Stimmen (Land).
 - **Antragstellung** durch Bundes- bzw. Landesvorsitzende.
 - **Rechenschaftsbericht** § 23 PartG fristgerecht eingereicht (sonst Verlust der Mittel, § 19a PartG).
 
@@ -36,12 +36,12 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 Drei Komponenten zur jährlichen Mittelzuteilung:
 
 1. **Wählerstimmenanteil**:
-   - **1 Euro** pro Stimme bis 4 Mio. Stimmen,
-   - **0,83 Euro** pro Stimme ab 4 Mio. (degressiv).
+ - **1 Euro** pro Stimme bis 4 Mio. Stimmen,
+ - **0,83 Euro** pro Stimme ab 4 Mio. (degressiv).
 2. **Mitgliedsbeiträge und Mandatsträgerbeiträge**:
-   - **0,45 Euro** pro Euro selbst eingenommener Beiträge.
+ - **0,45 Euro** pro Euro selbst eingenommener Beiträge.
 3. **Spenden natürlicher Personen** (nicht jur. Personen):
-   - **0,45 Euro** pro Euro Spende natürlicher Person, gedeckelt auf maximal 3.300 Euro Spende pro Spender / Jahr (für die Zuwendung).
+ - **0,45 Euro** pro Euro Spende natürlicher Person, gedeckelt auf maximal 3.300 Euro Spende pro Spender / Jahr (für die Zuwendung).
 
 ### 3. Absolute Obergrenze (Gesamtbetrag § 18 II PartG)
 - **Gesamtsumme** für alle Parteien: durch Gesetz festgelegt; jährlich indexiert (Preisindexkopplung); aktuelle Größenordnung 2024: ca. **200 Mio. Euro** (Live-Prüfung über www.bundestag.de/parlament/praesidium/parteienfinanzierung).

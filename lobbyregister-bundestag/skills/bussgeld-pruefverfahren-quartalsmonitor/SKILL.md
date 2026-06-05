@@ -1,19 +1,19 @@
 ---
 name: bussgeld-pruefverfahren-quartalsmonitor
-description: "Nutze dies, wenn Bussgeld Und Pruefverfahren, Fristen Und Quartalsmonitor im Plugin Lobbyregister Bundestag konkret bearbeitet werden soll. Auslöser: Bitte Bussgeld Und Pruefverfahren, Fristen Und Quartalsmonitor prüfen.; Erstelle eine Arbeitsfassung zu Bussgeld Und Pruefverfahren, Fristen Und Quartalsmonitor.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bussgeld Und Pruefverfahren, Fristen Und Quartalsmonitor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bussgeld Und Pruefverfahren, Fristen Und Quartalsmonitor
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bussgeld Und Pruefverfahren, Fristen Und Quartalsmonitor** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `bussgeld-und-pruefverfahren` | Reaktionsworkflow bei RfS-Prüfung, Anhoerung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan. |
+| `bussgeld-und-pruefverfahren` | Reaktionsbei RfS-Prüfung, Anhoerung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan. |
 | `fristen-und-quartalsmonitor` | Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist für Stellungnahmen, sechs Monate Finanzdaten, jaehrliche Bestätigung und Nachholfristen. Output Fristenbuch. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Bussgeld Und Pruefverfahren, Fristen Und Quartalsmonitor** zuerst das Arb
 
 ## 1. `bussgeld-und-pruefverfahren`
 
-**Fokus:** Reaktionsworkflow bei RfS-Prüfung, Anhoerung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan.
+**Fokus:** Reaktionsbei RfS-Prüfung, Anhoerung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan.
 
 # Bussgeld und Pruefverfahren
 

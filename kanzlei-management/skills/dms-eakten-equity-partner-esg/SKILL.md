@@ -1,13 +1,13 @@
 ---
 name: dms-eakten-equity-partner-esg
-description: "Nutze dies, wenn Dms Eakten Governance, Equity Partner Modell, Esg Kanzleimanagement, Finance Close Monthly im Plugin Kanzlei Management konkret bearbeitet werden soll. Auslöser: Bitte Dms Eakten Governance, Equity Partner Modell, Esg Kanzleimanagement, Finance Close Monthly prüfen.; Erstelle eine Arbeitsfassung zu Dms Eakten Governance, Equity Partner Modell, Esg Kanzleimanagement, Finance Close Monthly.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dms Eakten Governance, Equity Partner Modell, Esg Kanzleimanagement, Finance Close Monthly: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dms Eakten Governance, Equity Partner Modell, Esg Kanzleimanagement, Finance Close Monthly
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dms Eakten Governance, Equity Partner Modell, Esg Kanzleimanagement, Finance Close Monthly** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

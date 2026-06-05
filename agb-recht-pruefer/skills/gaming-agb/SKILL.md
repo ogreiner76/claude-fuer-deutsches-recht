@@ -1,6 +1,6 @@
 ---
 name: gaming-agb
-description: "Branchen-Spezialskill für Gaming AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Gaming AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Gaming AGB

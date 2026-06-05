@@ -1,6 +1,6 @@
 ---
 name: nkr-fallzahlen-schaetzung-bandbreiten
-description: "Methodischer Spezial-Skill fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme."
+description: "Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme."
 ---
 
 # NKR-Fallzahlen — Schaetzung und Bandbreiten
@@ -29,9 +29,9 @@ Rueckfrage nur wenn unklar: *"Was ist Ihre beste Annaeherung — und in welcher 
 1. **Statistikrecherche** vollstaendig dokumentieren (auch wenn keine Treffer)
 2. **Hilfsdaten** identifizieren: vergleichbare Pflichten, Branchenkennzahlen, Erfahrungswerte
 3. **Bandbreite** bestimmen:
-   - **Untergrenze** (konservative Annahme, eher zu wenig Faelle)
-   - **Punktschaetzung** (realistische Mittel-Annahme)
-   - **Obergrenze** (vorsichtige Annahme, eher zu viele Faelle)
+ - **Untergrenze** (konservative Annahme, eher zu wenig Faelle)
+ - **Punktschaetzung** (realistische Mittel-Annahme)
+ - **Obergrenze** (vorsichtige Annahme, eher zu viele Faelle)
 4. **Sensitivitaetsanalyse**: Auswirkung auf Erfuellungsaufwand bei Min / Max
 5. **Begruendung** offenlegen: woher kommt jede Annahme?
 6. **Aktualisierung**: Empfehlung an Ressort, nach Inkrafttreten zu evaluieren

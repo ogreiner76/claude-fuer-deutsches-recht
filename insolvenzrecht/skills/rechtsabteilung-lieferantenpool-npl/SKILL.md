@@ -1,22 +1,22 @@
 ---
 name: rechtsabteilung-lieferantenpool-npl
-description: "Nutze dies, wenn Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung Npl Kaeufer Im Schuldnerinsolvenzfall, Rechtsabteilung Schufa Löschung Nach Restschuldbefreiung, Rechtsabteilung Starug Fruehwarnsystem Für Rechtsabteilung im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung Npl Kaeufer Im Schuldnerinsolvenzfall, Rechtsabteilung Schufa Löschung Nach Restschuldbefreiung, Rechtsabteilung Starug Fruehwarnsystem Für Rechtsabteilung prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung Npl Kaeufer Im Schuldnerinsolvenzfall, Rechtsabteilung Schufa Löschung Nach Restschuldbefreiung, Rechtsabteilung Starug Fruehwarnsystem Für Rechtsabteilung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung Npl Kaeufer Im Schuldnerinsolvenzfall, Rechtsabteilung Schufa Löschung Nach Restschuldbefreiung, Rechtsabteilung Starug Fruehwarnsystem Für Rechtsabteilung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung Npl Kaeufer Im Schuldnerinsolvenzfall, Rechtsabteilung Schufa Löschung Nach Restschuldbefreiung, Rechtsabteilung Starug Fruehwarnsystem Für Rechtsabteilung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung Npl Kaeufer Im Schuldnerinsolvenzfall, Rechtsabteilung Schufa Löschung Nach Restschuldbefreiung, Rechtsabteilung Starug Fruehwarnsystem Für Rechtsabteilung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-lieferantenpool-und-eigentumsvorbehalt` | Rechtsabteilungs-Spezialskill für Lieferantenpool und Eigentumsvorbehalt: Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall` | Rechtsabteilungs-Spezialskill für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-schufa-loeschung-nach-restschuldbefreiung` | Rechtsabteilungs-Spezialskill für Schufa-Löschung nach Restschuldbefreiung: Bonitätsdaten nach Insolvenz werden auf Speicherfrist und Löschungsanspruch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-starug-fruehwarnsystem-fuer-rechtsabteilung` | Rechtsabteilungs-Spezialskill für StaRUG-Frühwarnsystem für Rechtsabteilung: Krisenfrüherkennung, Geschäftsleiterpflicht und Dokumentation werden aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-lieferantenpool-und-eigentumsvorbehalt` | Rechtsabteilungs-Fachmodul für Lieferantenpool und Eigentumsvorbehalt: Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall` | Rechtsabteilungs-Fachmodul für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-schufa-loeschung-nach-restschuldbefreiung` | Rechtsabteilungs-Fachmodul für Schufa-Löschung nach Restschuldbefreiung: Bonitätsdaten nach Insolvenz werden auf Speicherfrist und Löschungsanspruch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-starug-fruehwarnsystem-fuer-rechtsabteilung` | Rechtsabteilungs-Fachmodul für StaRUG-Frühwarnsystem für Rechtsabteilung: Krisenfrüherkennung, Geschäftsleiterpflicht und Dokumentation werden aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Rechtsabteilung Lieferantenpool Und Eigentumsvorbehalt, Rechtsabteilung N
 
 ## 1. `rechtsabteilung-lieferantenpool-und-eigentumsvorbehalt`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Lieferantenpool und Eigentumsvorbehalt: Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Lieferantenpool und Eigentumsvorbehalt: Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Lieferantenpool und Eigentumsvorbehalt
 
@@ -76,7 +76,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: NPL-Käufer im Schuldnerinsolvenzfall
 
@@ -125,7 +125,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-schufa-loeschung-nach-restschuldbefreiung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Schufa-Löschung nach Restschuldbefreiung: Bonitätsdaten nach Insolvenz werden auf Speicherfrist und Löschungsanspruch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Schufa-Löschung nach Restschuldbefreiung: Bonitätsdaten nach Insolvenz werden auf Speicherfrist und Löschungsanspruch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Schufa-Löschung nach Restschuldbefreiung
 
@@ -174,7 +174,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-starug-fruehwarnsystem-fuer-rechtsabteilung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für StaRUG-Frühwarnsystem für Rechtsabteilung: Krisenfrüherkennung, Geschäftsleiterpflicht und Dokumentation werden aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für StaRUG-Frühwarnsystem für Rechtsabteilung: Krisenfrüherkennung, Geschäftsleiterpflicht und Dokumentation werden aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: StaRUG-Frühwarnsystem für Rechtsabteilung
 

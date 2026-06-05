@@ -1,12 +1,12 @@
 ---
 name: vertragspruefung-fristennotiz-naechster
-description: "Nutze dies, wenn Vertragspruefung: Fristennotiz und nächster Schritt im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Vertragspruefung: Fristennotiz und nächster Schritt prüfen.; Erstelle eine Arbeitsfassung zu Vertragspruefung: Fristennotiz und nächster Schritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vertragspruefung: Fristennotiz und nächster Schritt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Vertragspruefung: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Vertragspruefung: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Vertragspruefung: Fristennotiz und nächster Schritt / spezial vertragspruefung fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vertragspruefung: Fristennotiz und nächster Schritt / vertragspruefung fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Fluggastrechte.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -15,7 +15,7 @@ Nutze diesen Skill, wenn im Bereich **Fluggastrechte** ein Fall noch sortiert, D
 - `airline-bonitaet-und-vollstreckung` — Airline Bonitaet Und Vollstreckung
 - `airline-standardausreden-annullierung-verspaetung-anschlussflug` — Airline Standardausreden Annullierung Verspaetung Anschlussflug
 - `airline-standardausreden-pruefen` — Airline Standardausreden Prüfen
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `annullierung-oder-verspaetung-einordnen` — Annullierung Oder Verspaetung Einordnen
 - `anschlussflug-und-reiseplan` — Anschlussflug Und Reiseplan
 - `ausnahmen-aussergewoehnliche-aussergewoehnliche-umstaende` — Ausnahmen Aussergewoehnliche Aussergewoehnliche Umstaende

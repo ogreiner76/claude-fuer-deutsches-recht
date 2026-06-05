@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Datenrecht und Data Act
-Ressort:            BMDS
-Kernnormen:         Data Act (EU); Data Governance Act (EU); BDSG; IFG; UIG.
-Akteure/Aufsicht:   BMDS; BfDI; ggf. Datenmittlerdienste-Aufsicht; BNetzA.
-EU/Voelkerrecht:    Data Act; Data Governance Act; Open Data RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmds; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Datenrecht und Data Act
+Ressort: BMDS
+Kernnormen: Data Act (EU); Data Governance Act (EU); BDSG; IFG; UIG.
+Akteure/Aufsicht: BMDS; BfDI; ggf. Datenmittlerdienste-Aufsicht; BNetzA.
+EU/Voelkerrecht: Data Act; Data Governance Act; Open Data RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

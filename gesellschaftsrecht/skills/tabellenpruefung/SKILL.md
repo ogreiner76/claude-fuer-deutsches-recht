@@ -126,101 +126,101 @@ Spaltenliste in ein getyptes Schema überführen. Für jede Spalte: `id`, `label
 
 ```yaml
 spalten:
-  - id: gegenpartei
-    label: Gegenpartei
-    typ: wörtlich
-    prompt: >
-      Wer ist die Gegenpartei dieses Vertrags? Genaue Firmierung mit Rechtsform,
-      wie sie im Rubrum oder im ersten Absatz steht. Exaktes Zitat.
+ - id: gegenpartei
+ label: Gegenpartei
+ typ: wörtlich
+ prompt: >
+ Wer ist die Gegenpartei dieses Vertrags? Genaue Firmierung mit Rechtsform,
+ wie sie im Rubrum oder im ersten Absatz steht. Exaktes Zitat.
 
-  - id: wirksamkeitsdatum
-    label: Wirksamkeitsdatum
-    typ: datum
-    prompt: >
-      Wann tritt der Vertrag in Kraft? Suche im Unterschriftenblock oder
-      in einer "Wirksamkeitsdatum"-Klausel. Falls Unterschriften an
-      verschiedenen Tagen: das spätere. ISO-Format JJJJ-MM-TT.
+ - id: wirksamkeitsdatum
+ label: Wirksamkeitsdatum
+ typ: datum
+ prompt: >
+ Wann tritt der Vertrag in Kraft? Suche im Unterschriftenblock oder
+ in einer "Wirksamkeitsdatum"-Klausel. Falls Unterschriften an
+ verschiedenen Tagen: das spätere. ISO-Format JJJJ-MM-TT.
 
-  - id: change_of_control
-    label: Change-of-Control
-    typ: klassifizieren
-    optionen:
-      - zustimmungserforderlich
-      - kündigungsrecht_bei_coc
-      - keine_regelung
-      - sonstige
-    prompt: >
-      Hat die Gegenpartei ein Sonderrecht bei Kontrollwechsel beim Mandanten?
-      Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-      Zitat der einschlägigen Klausel als Begleitfeld.
+ - id: change_of_control
+ label: Change-of-Control
+ typ: klassifizieren
+ optionen:
+ - zustimmungserforderlich
+ - kündigungsrecht_bei_coc
+ - keine_regelung
+ - sonstige
+ prompt: >
+ Hat die Gegenpartei ein Sonderrecht bei Kontrollwechsel beim Mandanten?
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Zitat der einschlägigen Klausel als Begleitfeld.
 
-  - id: abtretung
-    label: Abtretung
-    typ: klassifizieren
-    optionen:
-      - frei_übertragbar
-      - zustimmungserforderlich
-      - abtretungsverbot_absolut
-      - abtretungsverbot_354a_HGB_vorbehalt
-      - keine_regelung
-    prompt: >
-      Welche Regelung zur Abtretung? Bei absolutem Verbot zwischen Kaufleuten
-      Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - id: abtretung
+ label: Abtretung
+ typ: klassifizieren
+ optionen:
+ - frei_übertragbar
+ - zustimmungserforderlich
+ - abtretungsverbot_absolut
+ - abtretungsverbot_354a_HGB_vorbehalt
+ - keine_regelung
+ prompt: >
+ Welche Regelung zur Abtretung? Bei absolutem Verbot zwischen Kaufleuten
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-  - id: haftungsobergrenze
-    label: Haftungsobergrenze
-    typ: betrag
-    prompt: >
-      Welche betragsmäßige Haftungsobergrenze ist vereinbart? In EUR.
-      Mehrere Limits (z. B. pro Schadensfall vs. aggregat) separat erfassen.
+ - id: haftungsobergrenze
+ label: Haftungsobergrenze
+ typ: betrag
+ prompt: >
+ Welche betragsmäßige Haftungsobergrenze ist vereinbart? In EUR.
+ Mehrere Limits (z. B. pro Schadensfall vs. aggregat) separat erfassen.
 
-  - id: laufzeit
-    label: Mindestlaufzeit und Kündigung
-    typ: dauer
-    prompt: >
-      Wie lange läuft der Vertrag mindestens? Welche Kündigungsfristen gelten?
-      Ordentliche und außerordentliche Kündigung separat. Dauer + Einheit.
+ - id: laufzeit
+ label: Mindestlaufzeit und Kündigung
+ typ: dauer
+ prompt: >
+ Wie lange läuft der Vertrag mindestens? Welche Kündigungsfristen gelten?
+ Ordentliche und außerordentliche Kündigung separat. Dauer + Einheit.
 
-  - id: exklusivitaet
-    label: Exklusivität
-    typ: klassifizieren
-    optionen:
-      - exklusiv_zugunsten_mandant
-      - exklusiv_zugunsten_gegenpartei
-      - gegenseitig_exklusiv
-      - keine_exklusivitaet
-    prompt: >
-      Enthält der Vertrag eine Exklusivitätsklausel? Wer ist begünstigt?
-      Wörtliches Zitat als Begleitfeld.
+ - id: exklusivitaet
+ label: Exklusivität
+ typ: klassifizieren
+ optionen:
+ - exklusiv_zugunsten_mandant
+ - exklusiv_zugunsten_gegenpartei
+ - gegenseitig_exklusiv
+ - keine_exklusivitaet
+ prompt: >
+ Enthält der Vertrag eine Exklusivitätsklausel? Wer ist begünstigt?
+ Wörtliches Zitat als Begleitfeld.
 
-  - id: streitbeilegung
-    label: Streitbeilegung
-    typ: klassifizieren
-    optionen:
-      - ordentliches_gericht_de
-      - schiedsverfahren_dis
-      - schiedsverfahren_icc
-      - schiedsverfahren_lcia
-      - schiedsverfahren_sonstig
-      - mediation_vorschaltung
-      - auslaendisches_gericht
-      - keine_klausel
-    prompt: >
-      Welche Streitbeilegungsklausel enthält der Vertrag? Gerichtsstand, Schiedsort,
-      Schiedsordnung. Anwendbares Recht. Wörtliches Zitat.
+ - id: streitbeilegung
+ label: Streitbeilegung
+ typ: klassifizieren
+ optionen:
+ - ordentliches_gericht_de
+ - schiedsverfahren_dis
+ - schiedsverfahren_icc
+ - schiedsverfahren_lcia
+ - schiedsverfahren_sonstig
+ - mediation_vorschaltung
+ - auslaendisches_gericht
+ - keine_klausel
+ prompt: >
+ Welche Streitbeilegungsklausel enthält der Vertrag? Gerichtsstand, Schiedsort,
+ Schiedsordnung. Anwendbares Recht. Wörtliches Zitat.
 
-  - id: datenschutz_avv
-    label: Auftragsverarbeitung DSGVO
-    typ: klassifizieren
-    optionen:
-      - avv_enthalten
-      - avv_als_anlage
-      - keine_personenbezogenen_daten
-      - unklar
-    prompt: >
-      Enthält der Vertrag eine Auftragsverarbeitungsvereinbarung (AVV) nach
-      Art. 28 DSGVO? Bei SaaS-Verträgen Sub-AV nach Art. 28 Abs. 4 prüfen.
-      Drittlandübermittlung nach Art. 46 DSGVO prüfen.
+ - id: datenschutz_avv
+ label: Auftragsverarbeitung DSGVO
+ typ: klassifizieren
+ optionen:
+ - avv_enthalten
+ - avv_als_anlage
+ - keine_personenbezogenen_daten
+ - unklar
+ prompt: >
+ Enthält der Vertrag eine Auftragsverarbeitungsvereinbarung (AVV) nach
+ Art. 28 DSGVO? Bei SaaS-Verträgen Sub-AV nach Art. 28 Abs. 4 prüfen.
+ Drittlandübermittlung nach Art. 46 DSGVO prüfen.
 ```
 
 ### Schritt 2 — Zeilenprompts definieren (das Neue an dieser Matrix)
@@ -237,41 +237,41 @@ Drei typische Quellen für Zeilenprompts:
 
 ```yaml
 zeilen:
-  - dokument: "Lieferanten-MSA — Alpha GmbH.pdf"
-    typ: rahmenvertrag
-    prompt: >
-      Hauptliefervertrag, Konzernvertrag im Sinne der §§ 15 ff. AktG.
-      Zusätzlich prüfen: § 311 AktG (Beherrschungsvertrag), § 308 AktG
-      (Weisungsrecht). Bei unklarer CoC-Klausel zum Lead-Counsel
-      eskalieren.
+ - dokument: "Lieferanten-MSA — Alpha GmbH.pdf"
+ typ: rahmenvertrag
+ prompt: >
+ Hauptliefervertrag, Konzernvertrag im Sinne der §§ 15 ff. AktG.
+ Zusätzlich prüfen: § 311 AktG (Beherrschungsvertrag), § 308 AktG
+ (Weisungsrecht). Bei unklarer CoC-Klausel zum Lead-Counsel
+ eskalieren.
 
-  - dokument: "Mietvertrag Hauptniederlassung Berlin.pdf"
-    typ: gewerberaummietvertrag
-    prompt: >
-      Gewerberaum, kein Wohnraum (§ 535 ff. BGB allgemein, nicht §§ 549 ff.).
-      Indexmietklausel auf Einhaltung § 557b BGB prüfen.
-      Konkurrenzschutzklausel separat erfassen, falls vorhanden.
+ - dokument: "Mietvertrag Hauptniederlassung Berlin.pdf"
+ typ: gewerberaummietvertrag
+ prompt: >
+ Gewerberaum, kein Wohnraum (§ 535 ff. BGB allgemein, nicht §§ 549 ff.).
+ Indexmietklausel auf Einhaltung § 557b BGB prüfen.
+ Konkurrenzschutzklausel separat erfassen, falls vorhanden.
 
-  - dokument: "Vendor Agreement Beta Ltd (EN).pdf"
-    typ: internationaler_vertrag
-    prompt: >
-      Englischsprachiger Vertrag, vermutlich English law. Bei
-      Rechtswahlklausel: deutsch oder englisch? Bei Zuständigkeitsklausel:
-      Schiedsverfahren oder ordentliche Gerichtsbarkeit?
-      Wörtliche Zitate auf Englisch belassen, deutsche Erläuterung
-      in `notizen`.
+ - dokument: "Vendor Agreement Beta Ltd (EN).pdf"
+ typ: internationaler_vertrag
+ prompt: >
+ Englischsprachiger Vertrag, vermutlich English law. Bei
+ Rechtswahlklausel: deutsch oder englisch? Bei Zuständigkeitsklausel:
+ Schiedsverfahren oder ordentliche Gerichtsbarkeit?
+ Wörtliche Zitate auf Englisch belassen, deutsche Erläuterung
+ in `notizen`.
 
-  - dokument: "Anlage K7 — Nachtrag 2024.pdf"
-    typ: anlage_nachtrag
-    prompt: >
-      Nur Nachtrag — Hauptvertrag (Anlage K6) zur Vollständigkeit
-      mitlesen. CoC-Klausel ist im Hauptvertrag, nicht hier.
+ - dokument: "Anlage K7 — Nachtrag 2024.pdf"
+ typ: anlage_nachtrag
+ prompt: >
+ Nur Nachtrag — Hauptvertrag (Anlage K6) zur Vollständigkeit
+ mitlesen. CoC-Klausel ist im Hauptvertrag, nicht hier.
 
-  - dokument: "*"  # Wildcard für alle nicht spezifisch genannten
-    typ: standard
-    prompt: >
-      Standardvertrag, keine Sonderbehandlung. Spaltenprompts wörtlich
-      anwenden.
+ - dokument: "*" # Wildcard für alle nicht spezifisch genannten
+ typ: standard
+ prompt: >
+ Standardvertrag, keine Sonderbehandlung. Spaltenprompts wörtlich
+ anwenden.
 ```
 
 ### Schritt 3 — Prompt-Matrix anzeigen und bestätigen
@@ -538,18 +538,18 @@ Eindeutig bewertete Zellen: [N] ([%])
 
 --- AUFFAELLIGKEITEN (prüfung_erforderlich) ---
 1. Dokument [N], Spalte [SPALTENNAME]:
-   Befund: [BESCHREIBUNG]
-   Relevante Norm: [§ NORM]
-   Zitat: "[WORTLAUT AUS DOKUMENT]"
-   Empfehlung: [HANDLUNGSHINWEIS]
+ Befund: [BESCHREIBUNG]
+ Relevante Norm: [§ NORM]
+ Zitat: "[WORTLAUT AUS DOKUMENT]"
+ Empfehlung: [HANDLUNGSHINWEIS]
 
 2. [Weitere Auffaelligkeiten]
 
 --- GRENZFAELLE (menschliche Entscheidung erforderlich) ---
 1. Dokument [N]: [BESCHREIBUNG GRENZFALL]
-   Moegliche Einordnung A: [OPTION A] — Argument: [BEGRUENDUNG]
-   Moegliche Einordnung B: [OPTION B] — Argument: [BEGRUENDUNG]
-   Entscheidung erbeten bis: [DATUM]
+ Moegliche Einordnung A: [OPTION A] — Argument: [BEGRUENDUNG]
+ Moegliche Einordnung B: [OPTION B] — Argument: [BEGRUENDUNG]
+ Entscheidung erbeten bis: [DATUM]
 
 --- NAECHSTE SCHRITTE ---
 1. [AKTION] — verantwortlich: [PERSON] — Frist: [DATUM]

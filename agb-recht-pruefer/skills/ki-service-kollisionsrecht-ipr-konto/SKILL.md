@@ -1,23 +1,23 @@
 ---
 name: ki-service-kollisionsrecht-ipr-konto
-description: "Nutze dies, wenn Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund, Kündigung Ordentlich im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund, Kündigung Ordentlich prüfen.; Erstelle eine Arbeitsfassung zu Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund, Kündigung Ordentlich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund, Kündigung Ordentlich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündigung Aus Wichtigem Grund, Kündigung Ordentlich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `ki-service-agb` | Branchen-Spezialskill für KI Service AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `kollisionsrecht-ipr-agb` | Einstiegs- und Workflow-Skill für Kollisionsrecht IPR AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
-| `konto-kuendigung-sperre` | Klausel-Spezialskill für Konto Kündigung Sperre: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `kuendigung-aus-wichtigem-grund` | Klausel-Spezialskill für Kündigung Aus Wichtigem Grund: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `kuendigung-ordentlich` | Klausel-Spezialskill für Kündigung Ordentlich: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `ki-service-agb` | Branchen-Fachmodul für KI Service AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `kollisionsrecht-ipr-agb` | Einstiegs- und Arbeitsmodul für Kollisionsrecht IPR AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `konto-kuendigung-sperre` | Klausel-Fachmodul für Konto Kündigung Sperre: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `kuendigung-aus-wichtigem-grund` | Klausel-Fachmodul für Kündigung Aus Wichtigem Grund: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `kuendigung-ordentlich` | Klausel-Fachmodul für Kündigung Ordentlich: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Ki Service Agb, Kollisionsrecht Ipr Agb, Konto Kündigung Sperre, Kündig
 
 ## 1. `ki-service-agb`
 
-**Fokus:** Branchen-Spezialskill für KI Service AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für KI Service AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # KI Service AGB
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `kollisionsrecht-ipr-agb`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Kollisionsrecht IPR AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Kollisionsrecht IPR AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Kollisionsrecht IPR AGB
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `konto-kuendigung-sperre`
 
-**Fokus:** Klausel-Spezialskill für Konto Kündigung Sperre: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Konto Kündigung Sperre: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Konto Kündigung Sperre
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `kuendigung-aus-wichtigem-grund`
 
-**Fokus:** Klausel-Spezialskill für Kündigung Aus Wichtigem Grund: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Kündigung Aus Wichtigem Grund: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Kündigung Aus Wichtigem Grund
 
@@ -248,7 +248,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `kuendigung-ordentlich`
 
-**Fokus:** Klausel-Spezialskill für Kündigung Ordentlich: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Kündigung Ordentlich: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Kündigung Ordentlich
 
@@ -274,13 +274,13 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Ordentliche Kuendigung:**
-   - **Form:** § 309 Nr. 13 BGB: Form der Kuendigungserklaerung des Verbrauchers darf nicht ueber Textform (§ 126b BGB) hinausgehen. AGB-Klausel "Schriftform" fuer Verbraucher-Kuendigung unwirksam (BGH-Linie).
-   - **Reziprozitaet:** Eigene Kuendigungsfrist des Verwenders darf nicht laenger sein als die des Kunden (asymmetrische Klauseln regelmaessig unwirksam, § 307 BGB).
-   - **Frist B2C:** Bei Verbrauchervertraegen ueber wiederkehrende Lieferungen Kuendigungsfrist max. 1 Monat (§ 309 Nr. 9 lit. c BGB).
-   - **Kuendigungsbutton § 312k BGB:** Bei Verbrauchervertraegen im elektronischen Geschaeftsverkehr ueber entgeltliche Leistungen (Streaming, Abos, Mitgliedschaften) gilt: Kuendigungsbutton "Vertraege hier kuendigen" muss gut lesbar, dauerhaft verfuegbar und ohne Anmeldung erreichbar sein; Bestaetigungsseite mit Bestaetigungsbutton; Bestaetigung in Textform an Kunde.
-   - **B2B:** Direkte Anwendung von § 309 Nr. 13 BGB ausgeschlossen (§ 310 Abs. 1 BGB); Wertungsausstrahlung ueber § 307 BGB. Schriftform fuer B2B-Kuendigung haeufig zulaessig, jedoch Begrenzung auf qualifizierte elektronische Signatur unwirksam, da Textform mit elektronischer Form (Mail, Fax) ausreichen muss.
-   - **Mietrecht-Spezifika:** § 568 Abs. 1 BGB - Kuendigung des Wohnraummietverhaeltnisses bedarf der Schriftform (gesetzliche Schriftform, nicht durch AGB modifizierbar). § 573c BGB Kuendigungsfristen Mieter gesetzlich zwingend.
-   - **Arbeitsrecht-Spezifika:** § 623 BGB - Schriftform zwingend; § 126a BGB qES ausdruecklich ausgeschlossen.
+ - **Form:** § 309 Nr. 13 BGB: Form der Kuendigungserklaerung des Verbrauchers darf nicht ueber Textform (§ 126b BGB) hinausgehen. AGB-Klausel "Schriftform" fuer Verbraucher-Kuendigung unwirksam (BGH-Linie).
+ - **Reziprozitaet:** Eigene Kuendigungsfrist des Verwenders darf nicht laenger sein als die des Kunden (asymmetrische Klauseln regelmaessig unwirksam, § 307 BGB).
+ - **Frist B2C:** Bei Verbrauchervertraegen ueber wiederkehrende Lieferungen Kuendigungsfrist max. 1 Monat (§ 309 Nr. 9 lit. c BGB).
+ - **Kuendigungsbutton § 312k BGB:** Bei Verbrauchervertraegen im elektronischen Geschaeftsverkehr ueber entgeltliche Leistungen (Streaming, Abos, Mitgliedschaften) gilt: Kuendigungsbutton "Vertraege hier kuendigen" muss gut lesbar, dauerhaft verfuegbar und ohne Anmeldung erreichbar sein; Bestaetigungsseite mit Bestaetigungsbutton; Bestaetigung in Textform an Kunde.
+ - **B2B:** Direkte Anwendung von § 309 Nr. 13 BGB ausgeschlossen (§ 310 Abs. 1 BGB); Wertungsausstrahlung ueber § 307 BGB. Schriftform fuer B2B-Kuendigung haeufig zulaessig, jedoch Begrenzung auf qualifizierte elektronische Signatur unwirksam, da Textform mit elektronischer Form (Mail, Fax) ausreichen muss.
+ - **Mietrecht-Spezifika:** § 568 Abs. 1 BGB - Kuendigung des Wohnraummietverhaeltnisses bedarf der Schriftform (gesetzliche Schriftform, nicht durch AGB modifizierbar). § 573c BGB Kuendigungsfristen Mieter gesetzlich zwingend.
+ - **Arbeitsrecht-Spezifika:** § 623 BGB - Schriftform zwingend; § 126a BGB qES ausdruecklich ausgeschlossen.
 6. **Rechtsfolge:** Unwirksamkeit; Kunde kann auch in Textform kuendigen; gesetzliche Fristen greifen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

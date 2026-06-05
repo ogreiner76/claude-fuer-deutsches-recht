@@ -27,8 +27,8 @@ description: "Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert d
 ## Kombinierbarkeit
 
 - Pflegekasse erlaubt seit Pflegestaerkungsgesetz die Uebertragung:
-  - Bis zu 50 Prozent (806 Euro) des Kurzzeitpflegebudgets in die Verhinderungspflege uebertragbar.
-  - Bis zu 100 Prozent (1612 Euro) der Verhinderungspflege in die Kurzzeitpflege uebertragbar.
+ - Bis zu 50 Prozent (806 Euro) des Kurzzeitpflegebudgets in die Verhinderungspflege uebertragbar.
+ - Bis zu 100 Prozent (1612 Euro) der Verhinderungspflege in die Kurzzeitpflege uebertragbar.
 
 ## Antrag
 

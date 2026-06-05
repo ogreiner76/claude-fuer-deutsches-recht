@@ -1,13 +1,13 @@
 ---
 name: parteigericht-effektiver-parteigruendung
-description: "Nutze dies, wenn Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder prüfen.; Erstelle eine Arbeitsfassung zu Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikation Mitglieder** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Parteigericht Effektiver Rechtsschutz, Parteigruendung, Parteikommunikati
 
 Prüft parteigerichtliche Verfahren nicht nur nach Satzung, sondern nach ihrem praktischen Gewährleistungsgehalt: Zugang, Dauer, Gehör, Neutralität, Öffentlichkeit, Befangenheit und Erledigungsgefahr.
 
-## Kaltstart
+## Einstieg
 
 Wenn ein Dokument vorliegt, lies zuerst Satzung, Schiedsgerichtsordnung, angegriffene Maßnahme und Fristenlage. Frage höchstens vier Punkte nach:
 
@@ -95,7 +95,7 @@ Keine politischen Bewertungen. Der Skill prüft nur, ob das Verfahren formal und
 ## Aufgabe
 Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -136,7 +136,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erstellt Rundmail, Einladung, Datenschutz-Hinweis, Beschlussinformation, Konfliktkommunikation und Fristenhinweis.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

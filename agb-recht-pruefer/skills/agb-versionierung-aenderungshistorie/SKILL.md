@@ -1,6 +1,6 @@
 ---
 name: agb-versionierung-aenderungshistorie
-description: "Einstiegs- und Workflow-Skill für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
+description: "Einstiegs- und Arbeitsmodul für AGB Versionierung Änderungshistorie: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich."
 ---
 
 # AGB Versionierung Änderungshistorie

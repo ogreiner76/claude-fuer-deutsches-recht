@@ -1,13 +1,13 @@
 ---
 name: inso-tabelle-verbraucherinsolvenz-leitfaden
-description: "Nutze dies, wenn Inso Tabelle Und Feststellung Spezial, Inso Verbraucherinsolvenz Leitfaden, Insol Sanierungsgewinn Rangruecktritt Und 5 Abs 2A Estg Im Plan, Insolvenzgeld 165 Sgb Iii im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Inso Tabelle Und Feststellung Spezial, Inso Verbraucherinsolvenz Leitfaden, Insol Sanierungsgewinn Rangruecktritt Und 5 Abs 2A Estg Im Plan, Insolvenzgeld 165 Sgb Iii prüfen.; Erstelle eine Arbeitsfassung zu Inso Tabelle Und Feststellung Spezial, Inso Verbraucherinsolvenz Leitfaden, Insol Sanierungsgewinn Rangruecktritt Und 5 Abs 2A Estg Im Plan, Insolvenzgeld 165 Sgb Iii.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Inso Tabelle Und Feststellung Spezial, Inso Verbraucherinsolvenz Leitfaden, Insol Sanierungsgewinn Rangruecktritt Und 5 Abs 2a Estg Im Plan, Insolvenzgeld 165 Sgb Iii: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Inso Tabelle Und Feststellung Spezial, Inso Verbraucherinsolvenz Leitfaden, Insol Sanierungsgewinn Rangruecktritt Und 5 Abs 2A Estg Im Plan, Insolvenzgeld 165 Sgb Iii
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Inso Tabelle Und Feststellung Spezial, Inso Verbraucherinsolvenz Leitfaden, Insol Sanierungsgewinn Rangruecktritt Und 5 Abs 2A Estg Im Plan, Insolvenzgeld 165 Sgb Iii** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -192,13 +192,13 @@ Kaltstart-Fragen:
 - Paragraph 3a EStG — Sanierungsertrag (Abgrenzung).
 - BFH-Linie: "qualifizierter Rangruecktritt" als steuerliche Anerkennungsschwelle.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Zweck klaeren.** Geht es um Beseitigung der Ueberschuldung (insolvenzrechtlich) oder um Sanierungsertrag-Vermeidung (steuerlich) oder beides?
 2. **Qualifizierten Rangruecktritt formulieren** mit drei Elementen:
-   - Nachrang hinter alle Insolvenzglaeubiger.
-   - Tilgung nur aus kuenftigen Gewinnen, freien Liquiditaetsueberschuessen oder Liquidationsueberschuss.
-   - Glaeubiger verpflichtet sich, nicht in einer Weise Tilgung zu verlangen, die einen Insolvenzgrund ausloest.
+ - Nachrang hinter alle Insolvenzglaeubiger.
+ - Tilgung nur aus kuenftigen Gewinnen, freien Liquiditaetsueberschuessen oder Liquidationsueberschuss.
+ - Glaeubiger verpflichtet sich, nicht in einer Weise Tilgung zu verlangen, die einen Insolvenzgrund ausloest.
 3. **Pruefen Paragraph 5 Absatz 2a EStG.** Wenn Tilgung **nur** aus kuenftigen Einnahmen / Liquidationsueberschuss zu erfolgen hat, ist Passivierung verboten. Wenn Tilgung "auch" aus laufenden Mitteln moeglich ist, ist die Passivierungspflicht zu pruefen.
 4. **Plan-Klausel formulieren.**
 5. **Abgrenzung zum Verzicht: Bei Rangruecktritt bleibt die Forderung; bei Verzicht erlischt sie.** Steuerlich kann der Rangruecktritt im Ergebnis zu einem aehnlichen Effekt fuehren, ohne dass sofort ein Sanierungsertrag entsteht.
@@ -248,8 +248,8 @@ Schuldnerin im Sinne von § 39 Absatz 2 InsO zurueck.
 a) kuenftigen Gewinnen der Schuldnerin,
 b) einem etwaigen Liquidationsueberschuss oder
 c) sonstigem freien Vermoegen der Schuldnerin, soweit Aufzehrung des
-   Stammkapitals oder Insolvenzantragspflicht nach § 15a InsO nicht
-   ausgeloest wird,
+ Stammkapitals oder Insolvenzantragspflicht nach § 15a InsO nicht
+ ausgeloest wird,
 befriedigt.
 
 3. Der Glaeubiger verpflichtet sich, Tilgung oder Befriedigung nicht zu
@@ -656,8 +656,8 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 
 - **Lohn-Forderungen aus der Zeit VOR Eröffnung** sind grundsätzlich **einfache Insolvenz-Forderungen** § 38 InsO mit Quoten-Risiko — auch wenn sie aus den letzten Monaten stammen
 - **Masseverbindlichkeiten** sind nur:
-  - Lohn aus **fortbestehendem** Arbeitsverhältnis NACH Verfahrens-Eröffnung → § 55 Abs. 1 Nr. 2 InsO
-  - im Eröffnungs-Verfahren begründete Lohn-Ansprüche bei starkem vorläufigen Verwalter mit Verfügungs-Befugnis → § 55 Abs. 2 InsO
+ - Lohn aus **fortbestehendem** Arbeitsverhältnis NACH Verfahrens-Eröffnung → § 55 Abs. 1 Nr. 2 InsO
+ - im Eröffnungs-Verfahren begründete Lohn-Ansprüche bei starkem vorläufigen Verwalter mit Verfügungs-Befugnis → § 55 Abs. 2 InsO
 - Für Rückstände aus den drei Monaten vor Insolvenz-Ereignis greift das Insolvenzgeld § 165 SGB III; die Forderung selbst geht auf die BA über (§ 169 SGB III) und wird als § 38 InsO-Forderung angemeldet
 - § 55 Abs. 2 InsO hilft NICHT pauschal für die "letzten sechs Monate vor Eröffnung" — das ist ein verbreiteter Irrtum
 
@@ -692,7 +692,7 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 
 - Konkrete BSG- und LSG-Entscheidungen zum Insolvenzgeld (insb. Anspruchsberechtigung Gesellschafter-Geschäftsführer, Drei-Monats-Frist, Vorfinanzierung) vor Ausgabe über sozialgerichtsbarkeit.de oder dejure.org mit Datum und Aktenzeichen verifizieren.
 - Zur Schnittstelle § 142 InsO (Bargeschäft Lohnzahlungen) und Anfechtung: **BGH IX ZR 122/23 vom 05.12.2024** stellt klar, dass Lohnzahlungen ohne starre 30-Tage-Grenze auf engen zeitlichen Zusammenhang zu prüfen sind; bei Anfechtung des Verwalters gegen vorinsolvenzliche Lohnzahlungen ist die Unlauterkeit konkret darzulegen.
-  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 
 ## Paragrafenkette Insolvenzgeld
 

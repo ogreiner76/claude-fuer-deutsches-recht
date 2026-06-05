@@ -1,13 +1,13 @@
 ---
 name: normenkartierung-normenkontrollrat-kmu
-description: "Nutze dies, wenn Normenkartierung, Normenkontrollrat Kmu Check, Normhierarchie Routing, Satzungskompetenz Prüfen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Legistik Werkstatt.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies bei Normenkartierung, Normenkontrollrat Kmu Check, Normhierarchie Routing, Satzungskompetenz Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Normenkartierung, Normenkontrollrat Kmu Check, Normhierarchie Routing, Satzungskompetenz Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -153,9 +153,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - NKR-Vorlagedatei
 - Anschreiben
 - Anlagen:
-  - Erfüllungsaufwand-Tabelle
-  - KMU-Test-Bericht
-  - One-in-one-out-Nachweis
+ - Erfüllungsaufwand-Tabelle
+ - KMU-Test-Bericht
+ - One-in-one-out-Nachweis
 
 ## Anschluss
 

@@ -19,10 +19,10 @@ Vollstaendige deutsche Vorlage einer Datenschutz-Folgenabschaetzung nach Art. 35
 ## Rechtlicher Rahmen
 
 - Art. 35 Abs. 7 DSGVO Mindestinhalte:
-  - lit. a systematische Beschreibung der Verarbeitungsvorgaenge und Zwecke
-  - lit. b Bewertung der Notwendigkeit und Verhaeltnismaessigkeit
-  - lit. c Bewertung der Risiken fuer die Rechte und Freiheiten der Betroffenen
-  - lit. d Abhilfemassnahmen mit Garantien und Sicherheitsvorkehrungen
+ - lit. a systematische Beschreibung der Verarbeitungsvorgaenge und Zwecke
+ - lit. b Bewertung der Notwendigkeit und Verhaeltnismaessigkeit
+ - lit. c Bewertung der Risiken fuer die Rechte und Freiheiten der Betroffenen
+ - lit. d Abhilfemassnahmen mit Garantien und Sicherheitsvorkehrungen
 - Art. 35 Abs. 2 DSGVO DSB-Anhoerung.
 - Art. 35 Abs. 9 DSGVO Stakeholder-Konsultation soweit angemessen.
 - Art. 5 Abs. 2 DSGVO Rechenschaftspflicht.
@@ -65,7 +65,7 @@ Gesamtrisiko nach Massnahmen: [HOCH / MITTEL / GERING]
 Freigabeempfehlung: [Ja / Vorab-Konsultation Art. 36 / Nein]
 
 1. BESCHREIBUNG DER VERARBEITUNGSTAETIGKEIT
-   (Art. 35 Abs. 7 lit. a DSGVO)
+ (Art. 35 Abs. 7 lit. a DSGVO)
 1.1 Zweck und Art der Verarbeitung
 [...]
 1.2 Datenkategorien
@@ -88,7 +88,7 @@ Freigabeempfehlung: [Ja / Vorab-Konsultation Art. 36 / Nein]
 [Diagramm-Verweis oder Kurzbeschreibung]
 
 2. BEWERTUNG DER NOTWENDIGKEIT UND VERHAELTNISMAESSIGKEIT
-   (Art. 35 Abs. 7 lit. b DSGVO)
+ (Art. 35 Abs. 7 lit. b DSGVO)
 2.1 Erforderlichkeit der Verarbeitung fuer den Zweck
 [Geeignet, erforderlich, kein milderes Mittel]
 2.2 Datenminimierung (Art. 5 Abs. 1 lit. c DSGVO)
@@ -105,24 +105,24 @@ Freigabeempfehlung: [Ja / Vorab-Konsultation Art. 36 / Nein]
 [...]
 
 3. RISIKOANALYSE
-   (Art. 35 Abs. 7 lit. c DSGVO)
+ (Art. 35 Abs. 7 lit. c DSGVO)
 3.1 Risikomatrix vor Massnahmen
-| Nr | Szenario                          | Wahrsch. | Schwere | Risiko |
+| Nr | Szenario | Wahrsch. | Schwere | Risiko |
 |----|-----------------------------------|----------|---------|--------|
-| 1  | Unbefugter Zugriff (Vertraul.)    | [h/m/g]  | [h/m/g] | [R/O/G/Gn] |
-| 2  | Datenleck nach aussen             |          |         |        |
-| 3  | Verdecktes Profiling              |          |         |        |
-| 4  | Datenverlust / Verfuegbarkeit     |          |         |        |
-| 5  | Manipulation / Integritaet        |          |         |        |
-| 6  | Diskriminierung Betroffener       |          |         |        |
-| 7  | Identitaetsdiebstahl              |          |         |        |
+| 1 | Unbefugter Zugriff (Vertraul.) | [h/m/g] | [h/m/g] | [R/O/G/Gn] |
+| 2 | Datenleck nach aussen | | | |
+| 3 | Verdecktes Profiling | | | |
+| 4 | Datenverlust / Verfuegbarkeit | | | |
+| 5 | Manipulation / Integritaet | | | |
+| 6 | Diskriminierung Betroffener | | | |
+| 7 | Identitaetsdiebstahl | | | |
 3.2 Schutzziele beruehrt
 [Vertraulichkeit / Integritaet / Verfuegbarkeit / Transparenz / Intervenierbarkeit / Nicht-Verkettung / Datenminimierung]
 3.3 Schutzbeduerftige Personen
 [Kinder / Patienten / Beschaeftigte / Verbraucher]
 
 4. ABHILFEMASSNAHMEN
-   (Art. 35 Abs. 7 lit. d DSGVO)
+ (Art. 35 Abs. 7 lit. d DSGVO)
 4.1 Technische Massnahmen (Art. 32 DSGVO)
 - Verschluesselung: [Art, Schluessellaenge]
 - Pseudonymisierung: [...]

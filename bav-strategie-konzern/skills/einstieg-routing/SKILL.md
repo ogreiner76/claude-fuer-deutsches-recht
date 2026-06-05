@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Bav Strategie Konzern.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Bav Strategie Konzern** ein Fall noch sort
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-design-workflow-chronologie` — Allgemein Design Workflow Chronologie
+- `allgemein-design-workflow-chronologie` — Allgemein Design Chronologie
 - `altersversorgung-boutique-fristennotiz-psv` — Altersversorgung Boutique Fristennotiz Psv
 - `betrieblichen-drei-duesseldorfer-sonderfall` — Betrieblichen Drei Duesseldorfer Sonderfall
 - `buyout-ma-country-by-cta-contractual` — Buyout Ma Country By Cta Contractual

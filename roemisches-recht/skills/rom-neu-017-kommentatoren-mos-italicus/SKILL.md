@@ -1,6 +1,6 @@
 ---
 name: rom-neu-017-kommentatoren-mos-italicus
-description: "Nutze dies, wenn Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit

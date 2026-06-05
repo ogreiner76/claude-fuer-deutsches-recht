@@ -1,22 +1,22 @@
 ---
 name: gmbh-stimmrechtsausuebung-wettbewerb
-description: "Nutze dies, wenn Gmbh Stimmrechtsausuebung, Gmbh Wettbewerb, Hauptversammlung Stimmrecht, Hinweisgeber Und Treuepflicht im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Gmbh Stimmrechtsausuebung, Gmbh Wettbewerb, Hauptversammlung Stimmrecht, Hinweisgeber Und Treuepflicht prüfen.; Erstelle eine Arbeitsfassung zu Gmbh Stimmrechtsausuebung, Gmbh Wettbewerb, Hauptversammlung Stimmrecht, Hinweisgeber Und Treuepflicht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gmbh Stimmrechtsausuebung, Gmbh Wettbewerb, Hauptversammlung Stimmrecht, Hinweisgeber Und Treuepflicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gmbh Stimmrechtsausuebung, Gmbh Wettbewerb, Hauptversammlung Stimmrecht, Hinweisgeber Und Treuepflicht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gmbh Stimmrechtsausuebung, Gmbh Wettbewerb, Hauptversammlung Stimmrecht, Hinweisgeber Und Treuepflicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `gmbh-stimmrechtsausuebung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Stimmrechtsausuebung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `gmbh-wettbewerb` | Gesellschaftsrechtliche Treuepflicht: Gmbh Wettbewerb; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `hauptversammlung-stimmrecht` | Gesellschaftsrechtliche Treuepflicht: Hauptversammlung Stimmrecht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `hinweisgeber-und-treuepflicht` | Gesellschaftsrechtliche Treuepflicht: Hinweisgeber Und Treuepflicht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gmbh-stimmrechtsausuebung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Stimmrechtsausuebung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `gmbh-wettbewerb` | Gesellschaftsrechtliche Treuepflicht: Gmbh Wettbewerb; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `hauptversammlung-stimmrecht` | Gesellschaftsrechtliche Treuepflicht: Hauptversammlung Stimmrecht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `hinweisgeber-und-treuepflicht` | Gesellschaftsrechtliche Treuepflicht: Hinweisgeber Und Treuepflicht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Gmbh Stimmrechtsausuebung, Gmbh Wettbewerb, Hauptversammlung Stimmrecht, 
 
 ## 1. `gmbh-stimmrechtsausuebung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Stimmrechtsausuebung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Stimmrechtsausuebung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Stimmrechtsausuebung
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `gmbh-wettbewerb`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Wettbewerb; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Wettbewerb; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Wettbewerb
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `hauptversammlung-stimmrecht`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Hauptversammlung Stimmrecht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Hauptversammlung Stimmrecht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Hauptversammlung Stimmrecht
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `hinweisgeber-und-treuepflicht`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Hinweisgeber Und Treuepflicht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Hinweisgeber Und Treuepflicht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Hinweisgeber Und Treuepflicht
 

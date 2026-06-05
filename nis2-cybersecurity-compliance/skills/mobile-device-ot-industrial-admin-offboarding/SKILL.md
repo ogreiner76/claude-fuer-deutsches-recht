@@ -1,13 +1,13 @@
 ---
 name: mobile-device-ot-industrial-admin-offboarding
-description: "Nutze dies, wenn Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking im Plugin Nis2 Cybersecurity Compliance konkret bearbeitet werden soll. Auslöser: Bitte Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking prüfen.; Erstelle eine Arbeitsfassung zu Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

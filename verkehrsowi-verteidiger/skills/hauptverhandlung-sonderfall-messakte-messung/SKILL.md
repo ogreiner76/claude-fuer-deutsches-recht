@@ -1,13 +1,13 @@
 ---
 name: hauptverhandlung-sonderfall-messakte-messung
-description: "Nutze dies, wenn Spezial Hauptverhandlung Sonderfall Und Edge Case, Spezial Messakte Formular Portal Und Einreichung, Spezial Messung Fahrverbot Punkte im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Hauptverhandlung Sonderfall Und Edge Case, Spezial Messakte Formular Portal Und Einreichung, Spezial Messung Fahrverbot Punkte prüfen.; Erstelle eine Arbeitsfassung zu Spezial Hauptverhandlung Sonderfall Und Edge Case, Spezial Messakte Formular Portal Und Einreichung, Spezial Messung Fahrverbot Punkte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hauptverhandlung Sonderfall Und Edge Case, Messakte Formular Portal Und Einreichung, Messung Fahrverbot Punkte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Hauptverhandlung Sonderfall Und Edge Case, Spezial Messakte Formular Portal Und Einreichung, Spezial Messung Fahrverbot Punkte
+# Hauptverhandlung Sonderfall Und Edge Case, Messakte Formular Portal Und Einreichung, Messung Fahrverbot Punkte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hauptverhandlung Sonderfall Und Edge Case, Messakte Formular Portal Und Einreichung, Messung Fahrverbot Punkte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Hauptverhandlung Sonderfall Und Edge Case, Spezial Messakte Formular Portal Und Einreichung, Spezial Messung Fahrverbot Punkte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Hauptverhandlung Sonderfall Und Edge Case, Messakte Formular Portal Und Einreichung, Messung Fahrverbot Punkte** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Hauptverhandlung Sonderfall Und Edge Case, Spezial Messakte Formu
 # Hauptverhandlung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Hauptverhandlung: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Hauptverhandlung: Sonderfall und Edge-Case-Prüfung / spezial hauptverhandlung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Hauptverhandlung: Sonderfall und Edge-Case-Prüfung / hauptverhandlung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -67,29 +67,29 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## OWi-Hauptverhandlung Edge-Cases Bausteine
 - **Sonderfall 1: Schriftliches Verfahren § 72 OWiG:**
-  - Voraussetzung: Einverstaendnis Betroffener; Geldbusse bis 250 EUR.
-  - Vorteil: keine Verhandlung, keine Reisekosten.
-  - Nachteil: keine Beweisaufnahme, keine persoenliche Eindruck.
+ - Voraussetzung: Einverstaendnis Betroffener; Geldbusse bis 250 EUR.
+ - Vorteil: keine Verhandlung, keine Reisekosten.
+ - Nachteil: keine Beweisaufnahme, keine persoenliche Eindruck.
 - **Sonderfall 2: Berufskraftfahrer mit drohendem Fahrverbot:**
-  - **Argument Existenzbedrohung:** monatliche Einkommensausfaelle, Familie, Arbeitsplatzverlust.
-  - **OLG-Linie zur Abwehr Fahrverbot:** restriktiv; "unzumutbare Haerte" eng auszulegen; ggf. Kompensation Erhoehung Geldbusse (BGH-Linie 50-100 %).
-  - **Strategie:** zeitliche Verschiebung Fahrverbot § 25 IIa StVG 4-Monatsfrist nutzen; ggf. Antrag auf Befreiung wegen besonderer Haerte.
+ - **Argument Existenzbedrohung:** monatliche Einkommensausfaelle, Familie, Arbeitsplatzverlust.
+ - **OLG-Linie zur Abwehr Fahrverbot:** restriktiv; "unzumutbare Haerte" eng auszulegen; ggf. Kompensation Erhoehung Geldbusse (BGH-Linie 50-100 %).
+ - **Strategie:** zeitliche Verschiebung Fahrverbot § 25 IIa StVG 4-Monatsfrist nutzen; ggf. Antrag auf Befreiung wegen besonderer Haerte.
 - **Sonderfall 3: Beamte / Aerzte / Anwaelte als Betroffene:**
-  - Berufsrechtliche Konsequenzen: Disziplinarrecht / Berufsaufsicht melden.
-  - **Eintragung FAER** kann automatisch BZRG-/Berufsmeldung ausloesen.
+ - Berufsrechtliche Konsequenzen: Disziplinarrecht / Berufsaufsicht melden.
+ - **Eintragung FAER** kann automatisch BZRG-/Berufsmeldung ausloesen.
 - **Sonderfall 4: Mehrfachverstoss / Tatmehrheit § 19 OWiG:**
-  - Mehrere OWi in einer Handlung -> Tateinheit, Strafmass einheitlich.
-  - Mehrere getrennte Verstoesse -> Tatmehrheit, Strafe je Verstoss; ggf. Gesamtgeldbuesse.
+ - Mehrere OWi in einer Handlung -> Tateinheit, Strafmass einheitlich.
+ - Mehrere getrennte Verstoesse -> Tatmehrheit, Strafe je Verstoss; ggf. Gesamtgeldbuesse.
 - **Sonderfall 5: Auslaendischer Betroffener:**
-  - Halterauskunft ueber EU-Mitgliedstaat moeglich; RB 2005/214/JI Vollstreckung Geldsanktionen.
-  - Dolmetscher § 185 GVG erforderlich.
-  - Verkuendung schriftlich + Uebersetzung beruecksichtigen.
+ - Halterauskunft ueber EU-Mitgliedstaat moeglich; RB 2005/214/JI Vollstreckung Geldsanktionen.
+ - Dolmetscher § 185 GVG erforderlich.
+ - Verkuendung schriftlich + Uebersetzung beruecksichtigen.
 - **Sonderfall 6: Mehrere Betroffene (Halter + Fahrer):**
-  - Halterauskunftspflicht § 31a StVZO; Fahrtenbuchauflage bei Nichtermittelbarkeit.
-  - Interessenkollisionen Vertretung beider durch denselben Anwalt § 138 StGB / § 43a Abs. 4 BRAO.
+ - Halterauskunftspflicht § 31a StVZO; Fahrtenbuchauflage bei Nichtermittelbarkeit.
+ - Interessenkollisionen Vertretung beider durch denselben Anwalt § 138 StGB / § 43a Abs. 4 BRAO.
 - **Sonderfall 7: Eilmassnahme vor Hauptverhandlung:**
-  - **Aussetzung Vollziehung Fahrverbot:** Antrag bei AG vor Rechtskraft.
-  - **Vorlaeufige Entziehung Fuehrerschein § 111a StPO** im Strafverfahren: Beschwerde § 304 StPO.
+ - **Aussetzung Vollziehung Fahrverbot:** Antrag bei AG vor Rechtskraft.
+ - **Vorlaeufige Entziehung Fuehrerschein § 111a StPO** im Strafverfahren: Beschwerde § 304 StPO.
 - **Wiedereinsetzung § 52 OWiG:** 1 Woche ab Wegfall des Hindernisses.
 - **Praxis-Tipp:** Bei drohendem Fahrverbot Berufskraftfahrer regelmaessig persoenliches Erscheinen; persoenlicher Eindruck Betroffener oft entscheidend fuer Haerte-Pruefung.
 
@@ -107,7 +107,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Messakte: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Messakte: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Messakte: Formular, Portal und Einreichungslogik / spezial messakte formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Messakte: Formular, Portal und Einreichungslogik / messakte formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -155,11 +155,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `verkehrsowi-verteidiger`. Kontext des Plugins: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `verkehrsowi-verteidiger`. Kontext des Plugins: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -189,28 +189,28 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## Messung / Punkte / Fahrverbot Bausteine
 - **Punkte FAER § 4 StVG (seit Reform 2014):**
-  - 1 Punkt: leichtere Verstoesse (z. B. Tempoueberschreitung 21-30 km/h innerorts).
-  - 2 Punkte: schwerere Verstoesse mit Fahrverbot (z. B. ueber 30 km/h innerorts mit Fahrverbot).
-  - 3 Punkte: Straftaten und besonders schwere OWi (z. B. § 316 StGB Trunkenheit, Unfallflucht).
-  - **4-5 Punkte:** Ermahnung; **6-7 Punkte:** Verwarnung mit Aufbauseminar-Hinweis; **8 Punkte:** Entziehung Fahrerlaubnis (zwingend, § 4 V StVG).
-  - **Punkteabbau:** freiwilliges Fahreignungsseminar bei 1-5 Punkten = 1 Punkt Reduktion (nur einmal in 5 Jahren).
+ - 1 Punkt: leichtere Verstoesse (z. B. Tempoueberschreitung 21-30 km/h innerorts).
+ - 2 Punkte: schwerere Verstoesse mit Fahrverbot (z. B. ueber 30 km/h innerorts mit Fahrverbot).
+ - 3 Punkte: Straftaten und besonders schwere OWi (z. B. § 316 StGB Trunkenheit, Unfallflucht).
+ - **4-5 Punkte:** Ermahnung; **6-7 Punkte:** Verwarnung mit Aufbauseminar-Hinweis; **8 Punkte:** Entziehung Fahrerlaubnis (zwingend, § 4 V StVG).
+ - **Punkteabbau:** freiwilliges Fahreignungsseminar bei 1-5 Punkten = 1 Punkt Reduktion (nur einmal in 5 Jahren).
 - **Fahrverbot § 25 StVG:**
-  - 1-3 Monate; Antritt regelmaessig nach Wahl binnen 4-Monatsfrist § 25 IIa StVG bei Ersttaeter; wiederholt sofort.
-  - Bekannte Konstellationen: Geschwindigkeitsverstoss innerorts ab 31 km/h, ausserorts ab 41 km/h; Rotlicht qualifiziert (1+ Sek); Abstand unter 50% halber Tacho ab 80 km/h.
+ - 1-3 Monate; Antritt regelmaessig nach Wahl binnen 4-Monatsfrist § 25 IIa StVG bei Ersttaeter; wiederholt sofort.
+ - Bekannte Konstellationen: Geschwindigkeitsverstoss innerorts ab 31 km/h, ausserorts ab 41 km/h; Rotlicht qualifiziert (1+ Sek); Abstand unter 50% halber Tacho ab 80 km/h.
 - **Wegfall Fahrverbot wegen unzumutbarer Haerte** (OLG-Linie restriktiv):
-  - Berufskraftfahrer (Existenzgefahr).
-  - Pflege Angehoeriger.
-  - Wesentlicher Verlust soziale Bindungen.
-  - **Kompensation moeglich:** Erhoehung Geldbusse um 50-100 % (BGH-Linie zur tatschuldangemessenen Kompensation).
+ - Berufskraftfahrer (Existenzgefahr).
+ - Pflege Angehoeriger.
+ - Wesentlicher Verlust soziale Bindungen.
+ - **Kompensation moeglich:** Erhoehung Geldbusse um 50-100 % (BGH-Linie zur tatschuldangemessenen Kompensation).
 - **Messung Standard-Pruefung:**
-  - **Eichschein** Geraet im Tatzeitraum?
-  - **Bedienerschein** mit Schulungsnachweis?
-  - **Toleranzwerte abgezogen?** (Geschwindigkeit: 3 km/h bis 100 km/h, 3 % darueber; Abstand: 10 %).
-  - **Standardisiertes Messverfahren** (BGH zur Beweiskraft)?
-  - **Rohdaten** verfuegbar? (BVerfG-Linie zur fair-trial-Garantie zur Akteneinsicht).
+ - **Eichschein** Geraet im Tatzeitraum?
+ - **Bedienerschein** mit Schulungsnachweis?
+ - **Toleranzwerte abgezogen?** (Geschwindigkeit: 3 km/h bis 100 km/h, 3 % darueber; Abstand: 10 %).
+ - **Standardisiertes Messverfahren** (BGH zur Beweiskraft)?
+ - **Rohdaten** verfuegbar? (BVerfG-Linie zur fair-trial-Garantie zur Akteneinsicht).
 - **Messverfahren-Spezialitaeten:**
-  - PoliScan FM1: Photopositionierung-Diskussion.
-  - Leivtec XV3: dokumentierte Verfahrensschwaechen einzelner OLG-Bezirke.
-  - ES 8.0/3.0: Smear-Effekt; Photolinie.
-  - TraffiStar S330: stationaerer Blitzer, Rohdaten-Diskussion.
+ - PoliScan FM1: Photopositionierung-Diskussion.
+ - Leivtec XV3: dokumentierte Verfahrensschwaechen einzelner OLG-Bezirke.
+ - ES 8.0/3.0: Smear-Effekt; Photolinie.
+ - TraffiStar S330: stationaerer Blitzer, Rohdaten-Diskussion.
 - **Praxis-Tipp:** Bei Punktestand-Abfrage KBA Flensburg (kostenfrei); Punkteloesch-Tabelle § 29 StVG: 2,5 Jahre fuer 1-Punkt-OWi; 5 Jahre fuer 2-Punkt; 10 Jahre fuer 3-Punkt-Verstoesse.

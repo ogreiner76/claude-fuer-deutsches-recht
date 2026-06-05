@@ -8,7 +8,7 @@ description: "Prüft Sonderlage kleiner Parteien ohne Kreisverbände: Satzung, V
 ## Aufgabe
 Prüft Sonderlage kleiner Parteien ohne Kreisverbände: Satzung, Vorstand, Wahlvorschläge, Delegation.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

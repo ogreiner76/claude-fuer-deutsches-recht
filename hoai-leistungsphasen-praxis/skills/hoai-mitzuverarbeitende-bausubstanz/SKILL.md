@@ -1,13 +1,13 @@
 ---
 name: hoai-mitzuverarbeitende-bausubstanz
-description: "Nutze dies, wenn Hoai Mitzuverarbeitende Bausubstanz Bestand, Hoai Nachtragsmanagement Planer, Hoai Neun Phasen Ueberblick, Hoai Oeffentliche Vergabe Planerleistungen, Hoai Prueffaehige Schlussrechnung Einwendungen im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Hoai Mitzuverarbeitende Bausubstanz Bestand, Hoai Nachtragsmanagement Planer, Hoai Neun Phasen Ueberblick, Hoai Oeffentliche Vergabe Planerleistungen, Hoai Prueffaehige Schlussrechnung Einwendungen prüfen.; Erstelle eine Arbeitsfassung zu Hoai Mitzuverarbeitende Bausubstanz Bestand, Hoai Nachtragsmanagement Planer, Hoai Neun Phasen Ueberblick, Hoai Oeffentliche Vergabe Planerleistungen, Hoai Prueffaehige Schlussrechnung Einwendungen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hoai Mitzuverarbeitende Bausubstanz Bestand, Hoai Nachtragsmanagement Planer, Hoai Neun Phasen Ueberblick, Hoai Oeffentliche Vergabe Planerleistungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Mitzuverarbeitende Bausubstanz Bestand, Hoai Nachtragsmanagement Planer, Hoai Neun Phasen Ueberblick, Hoai Oeffentliche Vergabe Planerleistungen, Hoai Prueffaehige Schlussrechnung Einwendungen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Mitzuverarbeitende Bausubstanz Bestand, Hoai Nachtragsmanagement Planer, Hoai Neun Phasen Ueberblick, Hoai Oeffentliche Vergabe Planerleistungen, Hoai Prueffaehige Schlussrechnung Einwendungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -62,7 +62,7 @@ Liefer eine Bestandsmatrix mit Fotos/Plänen/Positionen, Wertansatz, HOAI-Bezug,
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **prüft Zusatzleistung, Änderung, Anordnung und Vergütungsanpassung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **prüft Zusatzleistung, Änderung, Anordnung und Vergütungsanpassung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -92,7 +92,7 @@ Dieser Querschnitts-Skill bearbeitet **prüft Zusatzleistung, Änderung, Anordnu
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **erklärt LPH 1 bis 9, Prozentwerte und typische Übergabepunkte** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **erklärt LPH 1 bis 9, Prozentwerte und typische Übergabepunkte** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -122,7 +122,7 @@ Dieser Querschnitts-Skill bearbeitet **erklärt LPH 1 bis 9, Prozentwerte und ty
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **prüft Vergabe von Planerleistungen, Schwellenwerte und Dokumentation** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **prüft Vergabe von Planerleistungen, Schwellenwerte und Dokumentation** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 

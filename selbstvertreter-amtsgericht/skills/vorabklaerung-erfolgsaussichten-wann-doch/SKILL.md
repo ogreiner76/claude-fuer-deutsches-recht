@@ -1,13 +1,13 @@
 ---
 name: vorabklaerung-erfolgsaussichten-wann-doch
-description: "Nutze dies, wenn Vorabklaerung Erfolgsaussichten Selbstcheck, Wann Doch Anwalt Grenzfaelle, Widerklage 33 Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Vorabklaerung Erfolgsaussichten Selbstcheck, Wann Doch Anwalt Grenzfaelle, Widerklage 33 Zpo prüfen.; Erstelle eine Arbeitsfassung zu Vorabklaerung Erfolgsaussichten Selbstcheck, Wann Doch Anwalt Grenzfaelle, Widerklage 33 Zpo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vorabklaerung Erfolgsaussichten Selbstcheck, Wann Doch Anwalt Grenzfaelle, Widerklage 33 Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vorabklaerung Erfolgsaussichten Selbstcheck, Wann Doch Anwalt Grenzfaelle, Widerklage 33 Zpo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vorabklaerung Erfolgsaussichten Selbstcheck, Wann Doch Anwalt Grenzfaelle, Widerklage 33 Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -400,14 +400,14 @@ Antraege:
 1. Die Klage wird abgewiesen.
 
 2. Widerklage: Die Klaegerin (Widerbeklagte)
-   wird verurteilt, an den Beklagten
-   (Widerklaeger) 1.800 EUR nebst Zinsen
-   in Hoehe von 5 Prozentpunkten ueber dem
-   Basiszinssatz seit [Datum] zu zahlen.
+ wird verurteilt, an den Beklagten
+ (Widerklaeger) 1.800 EUR nebst Zinsen
+ in Hoehe von 5 Prozentpunkten ueber dem
+ Basiszinssatz seit [Datum] zu zahlen.
 
 3. Die Kosten des Rechtsstreits einschliesslich
-   der Widerklage traegt die Klaegerin
-   (Widerbeklagte).
+ der Widerklage traegt die Klaegerin
+ (Widerbeklagte).
 
 Begruendung Widerklage:
 

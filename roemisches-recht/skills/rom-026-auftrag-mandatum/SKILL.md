@@ -1,6 +1,6 @@
 ---
 name: rom-026-auftrag-mandatum
-description: "Römisches Recht: Auftrag Mandatum. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Auftrag Mandatum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Auftrag Mandatum

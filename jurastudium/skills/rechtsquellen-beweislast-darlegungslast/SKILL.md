@@ -1,12 +1,12 @@
 ---
 name: rechtsquellen-beweislast-darlegungslast
-description: "Nutze dies, wenn Rechtsquellen: Beweislast, Darlegungslast und Substantiierung im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Rechtsquellen: Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Rechtsquellen: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Rechtsquellen: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Rechtsquellen: Beweislast, Darlegungslast und Substantiierung / spezial rechtsquellen beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechtsquellen: Beweislast, Darlegungslast und Substantiierung / rechtsquellen beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

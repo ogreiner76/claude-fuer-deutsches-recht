@@ -1,13 +1,13 @@
 ---
 name: dsv-kinderdaten-besondere
-description: "Nutze dies, wenn Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung, Dsv Meldung Art 33 Pflichtangaben im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Bitte Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung, Dsv Meldung Art 33 Pflichtangaben prüfen.; Erstelle eine Arbeitsfassung zu Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung, Dsv Meldung Art 33 Pflichtangaben.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung, Dsv Meldung Art 33 Pflichtangaben
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung, Dsv Meldung Art 33 Pflichtangaben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

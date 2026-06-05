@@ -1,13 +1,13 @@
 ---
 name: boilerplate-klauseln-definitionen-klauseln
-description: "Nutze dies, wenn Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent prüfen.; Erstelle eine Arbeitsfassung zu Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

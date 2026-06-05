@@ -1,13 +1,13 @@
 ---
 name: litigation-discovery-ma-commercial-quality
-description: "Nutze dies, wenn Common Law Litigation Discovery, Common Law Ma Commercial Drafting, Common Law Quality Gate im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Bitte Common Law Litigation Discovery, Common Law Ma Commercial Drafting, Common Law Quality Gate prüfen.; Erstelle eine Arbeitsfassung zu Common Law Litigation Discovery, Common Law Ma Commercial Drafting, Common Law Quality Gate.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Common Law Litigation Discovery, Common Law Ma Commercial Drafting, Common Law Quality Gate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Common Law Litigation Discovery, Common Law Ma Commercial Drafting, Common Law Quality Gate
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Common Law Litigation Discovery, Common Law Ma Commercial Drafting, Common Law Quality Gate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -107,30 +107,30 @@ Date: [DATE] — Matter: [DESCRIPTION]
 Jurisdiction: [England/Wales CPR / US FRCP]
 
 1. SCOPE OF DISCLOSURE
-   UK Standard (CPR 31.6): [relevant documents defined as: ...]
-   US Scope (FRCP 26(b)): [proportional; relevance to claims/defenses]
-   Estimated document volume: [X documents / Y GB data]
+ UK Standard (CPR 31.6): [relevant documents defined as: ...]
+ US Scope (FRCP 26(b)): [proportional; relevance to claims/defenses]
+ Estimated document volume: [X documents / Y GB data]
 
 2. PRIVILEGE REVIEW
-   Legal advice privilege: [YES — comms with [solicitor/attorney] re legal advice]
-   Litigation privilege: [YES — dominant purpose litigation / NO]
-   In-house counsel: [covered UK Three Rivers / covered US Upjohn]
-   Waiver risk: [document shared with [PARTY] — waived?]
+ Legal advice privilege: [YES — comms with [solicitor/attorney] re legal advice]
+ Litigation privilege: [YES — dominant purpose litigation / NO]
+ In-house counsel: [covered UK Three Rivers / covered US Upjohn]
+ Waiver risk: [document shared with [PARTY] — waived?]
 
 3. E-DISCOVERY / ESI
-   Litigation hold issued: [YES — [DATE] / NOT YET]
-   Custodians: [NAME, ROLE]
-   Data formats: [email / Slack / WhatsApp / cloud]
-   Cost sharing (Zubulake): [proportionality request filed / not filed]
+ Litigation hold issued: [YES — [DATE] / NOT YET]
+ Custodians: [NAME, ROLE]
+ Data formats: [email / Slack / WhatsApp / cloud]
+ Cost sharing (Zubulake): [proportionality request filed / not filed]
 
 4. THIRD PARTY DISCLOSURE
-   Norwich Pharmacal order applicable?: [YES / NO]
-   FRCP 45 subpoena?: [YES / NO]
+ Norwich Pharmacal order applicable?: [YES / NO]
+ FRCP 45 subpoena?: [YES / NO]
 
 5. NEXT STEPS
-   [ ] Issue litigation hold to [CUSTODIANS]
-   [ ] Privilege log by [DATE]
-   [ ] Disclosure list CPR / FRCP 26 disclosures by [DATE]
+ [ ] Issue litigation hold to [CUSTODIANS]
+ [ ] Privilege log by [DATE]
+ [ ] Disclosure list CPR / FRCP 26 disclosures by [DATE]
 ```
 
 
@@ -225,34 +225,34 @@ Governing Law: [English / New York / Delaware]
 Deal Value: [GBP/USD X]
 
 1. PURCHASE PRICE
-   Mechanism: [ ] Locked-box [Date: X] [ ] Completion accounts
-   Earn-out: [YES — milestones: X / NO]
-   Consideration: [cash / shares / mix]
+ Mechanism: [ ] Locked-box [Date: X] [ ] Completion accounts
+ Earn-out: [YES — milestones: X / NO]
+ Consideration: [cash / shares / mix]
 
 2. CONDITIONS TO CLOSING
-   Regulatory approvals: [EU Merger Reg. / HSR Act / CMA]
-   Material Adverse Change: [defined / MAC exclusions: general economy / COVID-type]
-   Long-stop date: [DATE]
+ Regulatory approvals: [EU Merger Reg. / HSR Act / CMA]
+ Material Adverse Change: [defined / MAC exclusions: general economy / COVID-type]
+ Long-stop date: [DATE]
 
 3. REPS AND WARRANTIES
-   Warranty package: [fundamental / general]
-   Knowledge qualifier: [actual knowledge / knowledge with enquiry]
-   Warranty insurance: [buy-side / sell-side WRI]
-   Basket: [GBP/USD X — tipping / non-tipping]
-   Cap: [GBP/USD X / [X]% deal value]
-   Limitation period: [fundamental: 7 years / general: [X] years]
+ Warranty package: [fundamental / general]
+ Knowledge qualifier: [actual knowledge / knowledge with enquiry]
+ Warranty insurance: [buy-side / sell-side WRI]
+ Basket: [GBP/USD X — tipping / non-tipping]
+ Cap: [GBP/USD X / [X]% deal value]
+ Limitation period: [fundamental: 7 years / general: [X] years]
 
 4. TAX INDEMNITY
-   Tax covenant: [included / excluded]
-   Cap: [uncapped / capped at GBP/USD X]
+ Tax covenant: [included / excluded]
+ Cap: [uncapped / capped at GBP/USD X]
 
 5. NON-COMPETE / NON-SOLICIT
-   Duration: [2 years] — Geography: [UK / EU / global]
-   Enforceability (UK): [reasonable in scope — Tillman v Egon Zehnder [2019]]
+ Duration: [2 years] — Geography: [UK / EU / global]
+ Enforceability (UK): [reasonable in scope — Tillman v Egon Zehnder [2019]]
 
 6. GOVERNING LAW / DISPUTE RESOLUTION
-   Law: [English / New York]
-   Forum: [English High Court (Commercial) / ICC Arbitration London]
+ Law: [English / New York]
+ Forum: [English High Court (Commercial) / ICC Arbitration London]
 ```
 
 

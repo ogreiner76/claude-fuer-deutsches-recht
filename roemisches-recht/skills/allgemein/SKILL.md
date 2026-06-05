@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Römisches Recht: Kaltstart, Aktenlandkarte, Quellenprüfung, Spezialskill-Routing und erste verwertbare Ausgabe."
+description: "Römisches Recht: Kaltstart, Aktenlandkarte, Quellenprüfung, Fachmodul-Routing und erste verwertbare Ausgabe."
 ---
 
 # Römisches Recht - Allgemeiner Einstieg
@@ -9,7 +9,7 @@ description: "Römisches Recht: Kaltstart, Aktenlandkarte, Quellenprüfung, Spez
 
 Römisches Recht als begriffliche Werkstatt: Institute verstehen, Falltypen trennen und moderne Dogmatik nicht vorschnell hineindeuten. Ausgangspunkt ist fast immer die praktische Frage: **Welche actio, exceptio, Formel oder prätorische Hilfe macht den Fall überhaupt durchsetzbar?**
 
-Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Spezialskills dieses Plugins vor.
+Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Fachmodule dieses Plugins vor.
 
 ## Startfragen
 

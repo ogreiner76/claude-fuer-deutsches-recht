@@ -1,13 +1,13 @@
 ---
 name: wahlkampf-wahltag-wahlkampf-war
-description: "Nutze dies, wenn Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell im Plugin Wahlkampfrecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell prüfen.; Erstelle eine Arbeitsfassung zu Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wahlkampf Wahltag Krisenkarte, Wahlkampf War Room Betriebsmodell** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

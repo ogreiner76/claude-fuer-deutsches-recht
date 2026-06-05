@@ -1,13 +1,13 @@
 ---
 name: skonti-boni-t-rezept-telepharmazie-grenzen
-description: "Nutze dies, wenn Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen prüfen.; Erstelle eine Arbeitsfassung zu Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Skonti Boni Rabatte Zuweisungsverbot, T Rezept Besondere Arzneimittel, Telepharmazie Grenzen Chancen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -66,13 +66,13 @@ Eingaben:
 - BGH 14.03.2024, "Skonti im Grosshandel" — Grosshandelszuschlag und Skonti-Höhe (vom Anwender Aktualität zu verifizieren).
 - BGH staend. Rspr. zu Boni und Treuepunkten.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Geplante Aktion klassifizieren:**
-   - Skonto vom Grosshandel auf HAP — wirtschaftlich, aber Höhe regulierungsrelevant.
-   - Bonus an Patient bei Rx — preisbindungsrelevant (siehe AMPreisV).
-   - Bonus an Patient bei OTC — zulässig, HWG-Geringwertigkeit beachten.
-   - Zuweisungsvereinbarung mit Arzt — generell unzulässig.
+ - Skonto vom Grosshandel auf HAP — wirtschaftlich, aber Höhe regulierungsrelevant.
+ - Bonus an Patient bei Rx — preisbindungsrelevant (siehe AMPreisV).
+ - Bonus an Patient bei OTC — zulässig, HWG-Geringwertigkeit beachten.
+ - Zuweisungsvereinbarung mit Arzt — generell unzulässig.
 2. **Wertgrenze prüfen:** § 7 HWG-Geringwertigkeit — laut Rspr. 1 Euro pro Aktion / pauschal ggf. höher.
 3. **Wettbewerbsrechtliche Würdigung:** § 3a UWG i.V.m. AMPreisV, HWG, ApoG.
 4. **Strafrechtliche Würdigung:** §§ 299a, 299b StGB — Vorteilsannahme/-gewährung im Verhältnis Apotheker:in zu Arzt/Klinik/Heim.

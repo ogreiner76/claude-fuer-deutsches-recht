@@ -1,13 +1,13 @@
 ---
 name: ips-gruppen-ips-architektur-ips-integrierte
-description: "Nutze dies, wenn Ips Gruppen Klassenbildung, Ips Insolvenzplan Architektur, Ips Integrierte Planung im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Ips Gruppen Klassenbildung, Ips Insolvenzplan Architektur, Ips Integrierte Planung prüfen.; Erstelle eine Arbeitsfassung zu Ips Gruppen Klassenbildung, Ips Insolvenzplan Architektur, Ips Integrierte Planung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ips Gruppen Klassenbildung, Ips Insolvenzplan Architektur, Ips Integrierte Planung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ips Gruppen Klassenbildung, Ips Insolvenzplan Architektur, Ips Integrierte Planung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ips Gruppen Klassenbildung, Ips Insolvenzplan Architektur, Ips Integrierte Planung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -133,7 +133,7 @@ Einen vollständigen InsO-Plan strukturieren. Der Skill arbeitet freistehend und
 
 1. Planziel, Planvorlageberechtigung, Verfahrensstand und Einreichungszeitpunkt aufnehmen.
 2. Darstellenden und gestaltenden Teil mit Anlagen, Gruppen und Rechtswirkungen verzahnen.
-3. Sicherheiten, Nachrang, Altmassegläubiger, Anteilsrechte und Drittsicherheiten als Spezialmodule prüfen.
+3. Sicherheiten, Nachrang, Altmassegläubiger, Anteilsrechte und Drittsicherheiten als Fachmodule prüfen.
 4. Planvollzug, Überwachung, Bedingungen und Registerfolgen vorab mitdenken.
 
 ## Ausgabe

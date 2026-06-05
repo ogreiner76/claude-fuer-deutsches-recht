@@ -1,6 +1,6 @@
 ---
 name: datenschutz-betroffenenrechte-art-15-22
-description: "Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-fuer-Schritt-Anleitung. Routing zu Spezialskills. Mustertexte fuer Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung)."
+description: "Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-fuer-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte fuer Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung)."
 ---
 
 # Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert

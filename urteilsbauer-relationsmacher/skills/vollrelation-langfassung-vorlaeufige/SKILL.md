@@ -1,13 +1,13 @@
 ---
 name: vollrelation-langfassung-vorlaeufige
-description: "Nutze dies, wenn Vollrelation Langfassung, Vorlaeufige Vollstreckbarkeit, Zulässigkeit Prüfen im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Bitte Vollrelation Langfassung, Vorlaeufige Vollstreckbarkeit, Zulässigkeit Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Vollrelation Langfassung, Vorlaeufige Vollstreckbarkeit, Zulässigkeit Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vollrelation Langfassung, Vorlaeufige Vollstreckbarkeit, Zulaessigkeit Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vollrelation Langfassung, Vorlaeufige Vollstreckbarkeit, Zulässigkeit Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vollrelation Langfassung, Vorlaeufige Vollstreckbarkeit, Zulässigkeit Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -163,9 +163,9 @@ Markdown mit klaren Hierarchien (## A Sachbericht ## B Auslegung ...). Bei DOCX-
 ## Zentrale Normen
 
 - § 708 ZPO — Vollstreckbarkeit ohne Sicherheitsleistung (Nr. 1-11 Aufzählung)
-  - Nr. 2: Versäumnisurteil
-  - Nr. 4: Anerkenntnisurteil
-  - Nr. 11: Endurteile bis 1.500 EUR
+ - Nr. 2: Versäumnisurteil
+ - Nr. 4: Anerkenntnisurteil
+ - Nr. 11: Endurteile bis 1.500 EUR
 - § 709 ZPO — Vollstreckbarkeit gegen Sicherheitsleistung von 110 Prozent (Regel)
 - § 711 ZPO — Schutzantrag der unterliegenden Partei
 - § 713 ZPO — keine Sicherheit bei fehlendem Rechtsmittel (Beschwer ≤ 600 EUR)
@@ -182,9 +182,9 @@ Entscheidungstyp?
 ├── Anerkenntnisurteil → § 708 Nr. 4 ZPO (ohne Sicherheit)
 ├── Endurteil bis 1.500 EUR → § 708 Nr. 11 ZPO (ohne Sicherheit)
 └── Endurteil über 1.500 EUR:
-    ├── Berufung statthaft (Beschwer > 600 EUR)? → § 709 ZPO (110 Prozent Sicherheit)
-    │   └── Schutzantrag § 711 ZPO gestellt? → § 711 ZPO Formulierung ergänzen
-    └── Berufung nicht statthaft (Beschwer ≤ 600 EUR, keine Zulassung)? → § 713 ZPO (ohne Sicherheit)
+ ├── Berufung statthaft (Beschwer > 600 EUR)? → § 709 ZPO (110 Prozent Sicherheit)
+ │ └── Schutzantrag § 711 ZPO gestellt? → § 711 ZPO Formulierung ergänzen
+ └── Berufung nicht statthaft (Beschwer ≤ 600 EUR, keine Zulassung)? → § 713 ZPO (ohne Sicherheit)
 ```
 
 ## Output-Template

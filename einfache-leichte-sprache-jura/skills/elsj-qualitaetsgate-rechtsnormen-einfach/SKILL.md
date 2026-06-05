@@ -1,13 +1,13 @@
 ---
 name: elsj-qualitaetsgate-rechtsnormen-einfach
-description: "Nutze dies, wenn Elsj Qualitaetsgate, Elsj Rechtsnormen Einfach, Elsj Satzbau Regeln im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Elsj Qualitaetsgate, Elsj Rechtsnormen Einfach, Elsj Satzbau Regeln: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Elsj Qualitaetsgate, Elsj Rechtsnormen Einfach, Elsj Satzbau Regeln
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Elsj Qualitaetsgate, Elsj Rechtsnormen Einfach, Elsj Satzbau Regeln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -140,7 +140,7 @@ Stoppe die Herausgabe, wenn:
 - eine Pflicht als bloße Empfehlung dargestellt wird.
 - ein Rechtsmittel falsch bezeichnet ist.
 - bei Leichter Sprache fälschlich behauptet wird, es habe eine Prüfung durch
-  Zielgruppenpersonen gegeben.
+ Zielgruppenpersonen gegeben.
 - der Text herablassend wirkt.
 
 ## 2. `elsj-rechtsnormen-einfach`

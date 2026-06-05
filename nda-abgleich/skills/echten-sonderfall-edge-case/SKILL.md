@@ -1,12 +1,12 @@
 ---
 name: echten-sonderfall-edge-case
-description: "Nutze dies, wenn Echten: Sonderfall und Edge-Case-Prüfung im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Bitte Echten: Sonderfall und Edge-Case-Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Echten: Sonderfall und Edge-Case-Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Echten: Sonderfall und Edge-Case-Prüfung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Echten: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Echten: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Echten: Sonderfall und Edge-Case-Prüfung / spezial echten sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Echten: Sonderfall und Edge-Case-Prüfung / echten sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

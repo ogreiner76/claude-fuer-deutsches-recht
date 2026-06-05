@@ -1,6 +1,6 @@
 ---
 name: closing-quellenkarte
-description: "Nutze dies, wenn Closing Quellenkarte im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Closing Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Closing Quellenkarte

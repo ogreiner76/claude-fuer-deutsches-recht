@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-krypto-haeusliche-gewalt
-description: "Nutze dies, wenn Geldwaesche Krypto Und Kontoarrest, Haeusliche Gewalt Opferschutz Und Beweis, Haftbefehl Und U Haft Antrag, Hasskriminalitaet Online Und Plattformdaten, Hauptverhandlung Sta Vorbereitung im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Bitte Geldwaesche Krypto Und Kontoarrest, Haeusliche Gewalt Opferschutz Und Beweis, Haftbefehl Und U Haft Antrag, Hasskriminalitaet Online Und Plattformdaten, Hauptverhandlung Sta Vorbereitung prüfen.; Erstelle eine Arbeitsfassung zu Geldwaesche Krypto Und Kontoarrest, Haeusliche Gewalt Opferschutz Und Beweis, Haftbefehl Und U Haft Antrag, Hasskriminalitaet Online Und Plattformdaten, Hauptverhandlung Sta Vorbereitung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geldwaesche Krypto Und Kontoarrest, Haeusliche Gewalt Opferschutz Und Beweis, Haftbefehl Und U Haft Antrag, Hasskriminalitaet Online Und Plattformdaten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Geldwaesche Krypto Und Kontoarrest, Haeusliche Gewalt Opferschutz Und Beweis, Haftbefehl Und U Haft Antrag, Hasskriminalitaet Online Und Plattformdaten, Hauptverhandlung Sta Vorbereitung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Geldwaesche Krypto Und Kontoarrest, Haeusliche Gewalt Opferschutz Und Beweis, Haftbefehl Und U Haft Antrag, Hasskriminalitaet Online Und Plattformdaten, Hauptverhandlung Sta Vorbereitung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** § 261 StGB, Vermögensarrest, Wallet-/Bankdaten, Verdachtsketten und Verhältnismäßigkeit
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -94,7 +94,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** §§ 223, 230 StGB, GewSchG, Aussagekonstanz, Schutzbedarf und Einstellungsspielräume
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -193,7 +193,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** §§ 185 ff., 130 StGB, IP-/Bestandsdaten, Meinungsfreiheit und Tatkontext
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

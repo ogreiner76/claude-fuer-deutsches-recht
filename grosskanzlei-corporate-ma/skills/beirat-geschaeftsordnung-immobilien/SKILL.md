@@ -1,25 +1,25 @@
 ---
 name: beirat-geschaeftsordnung-immobilien
-description: "Nutze dies, wenn Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-geschaeftsordnung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsordnung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-immobilien-und-investitionen` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-informationsrechte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-insolvenznaehe` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-interessenkonflikte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-katalog-wesentlicher-geschaefte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-kontrollfunktion` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Kontrollfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-geschaeftsordnung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsordnung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-immobilien-und-investitionen` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-informationsrechte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-insolvenznaehe` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-interessenkonflikte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-katalog-wesentlicher-geschaefte` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-kontrollfunktion` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Kontrollfunktion; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -30,7 +30,7 @@ Für **Beirat Geschaeftsordnung, Beirat Immobilien Und Investitionen, Beirat Inf
 
 ## 1. `beirat-geschaeftsordnung`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsordnung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Geschaeftsordnung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Geschaeftsordnung
 
@@ -96,7 +96,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-immobilien-und-investitionen`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Immobilien Und Investitionen
 
@@ -162,7 +162,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-informationsrechte`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Informationsrechte
 
@@ -228,7 +228,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-insolvenznaehe`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Insolvenznaehe
 
@@ -294,7 +294,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-interessenkonflikte`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Interessenkonflikte
 
@@ -360,7 +360,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 6. `beirat-katalog-wesentlicher-geschaefte`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Katalog Wesentlicher Geschaefte
 
@@ -426,7 +426,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 7. `beirat-kontrollfunktion`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Kontrollfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Kontrollfunktion; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Kontrollfunktion
 

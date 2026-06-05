@@ -1,13 +1,13 @@
 ---
 name: schwerpunktthemen-identifikation-akten
-description: "Nutze dies, wenn Schwerpunktthemen Identifikation, Spezial Akten Mandantenkommunikation Entscheidungsvorlage, Spezial Aktenauszug Tatbestand Beweis Und Belege im Plugin Aktenauszug Gerichtsverfahren konkret bearbeitet werden soll. Auslöser: Bitte Schwerpunktthemen Identifikation, Spezial Akten Mandantenkommunikation Entscheidungsvorlage, Spezial Aktenauszug Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Schwerpunktthemen Identifikation, Spezial Akten Mandantenkommunikation Entscheidungsvorlage, Spezial Aktenauszug Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schwerpunktthemen Identifikation, Akten Mandantenkommunikation Entscheidungsvorlage, Aktenauszug Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Schwerpunktthemen Identifikation, Spezial Akten Mandantenkommunikation Entscheidungsvorlage, Spezial Aktenauszug Tatbestand Beweis Und Belege
+# Schwerpunktthemen Identifikation, Akten Mandantenkommunikation Entscheidungsvorlage, Aktenauszug Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schwerpunktthemen Identifikation, Akten Mandantenkommunikation Entscheidungsvorlage, Aktenauszug Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Schwerpunktthemen Identifikation, Spezial Akten Mandantenkommunikation Entscheidungsvorlage, Spezial Aktenauszug Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schwerpunktthemen Identifikation, Akten Mandantenkommunikation Entscheidungsvorlage, Aktenauszug Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `aktenauszug-gerichtsverfahren` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -133,7 +133,7 @@ Quellen: dejure.org (https://dejure.org/2016,13484 ; https://dejure.org/2019,475
 # Akten: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Akten: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Akten: Mandantenkommunikation und Entscheidungsvorlage / spezial akten mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Akten: Mandantenkommunikation und Entscheidungsvorlage / akten mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -174,7 +174,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial aktenauszug tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage / aktenauszug tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

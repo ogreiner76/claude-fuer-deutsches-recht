@@ -1,13 +1,13 @@
 ---
 name: transparenzbericht-erstellung-trusted-flagger
-description: "Nutze dies, wenn Dsa Transparenzbericht Erstellung, Dsa Trusted Flagger Anerkennung, Dsa Vlop Vlose Einordnung Und Pflichten im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Dsa Transparenzbericht Erstellung, Dsa Trusted Flagger Anerkennung, Dsa Vlop Vlose Einordnung Und Pflichten prüfen.; Erstelle eine Arbeitsfassung zu Dsa Transparenzbericht Erstellung, Dsa Trusted Flagger Anerkennung, Dsa Vlop Vlose Einordnung Und Pflichten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsa Transparenzbericht Erstellung, Dsa Trusted Flagger Anerkennung, Dsa Vlop Vlose Einordnung Und Pflichten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsa Transparenzbericht Erstellung, Dsa Trusted Flagger Anerkennung, Dsa Vlop Vlose Einordnung Und Pflichten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsa Transparenzbericht Erstellung, Dsa Trusted Flagger Anerkennung, Dsa Vlop Vlose Einordnung Und Pflichten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -241,15 +241,15 @@ Designation: [DATUM] / ausstehend
 Monatliche EU-Nutzer: [ANZAHL] >= 45 Mio.: ja / nein
 
 Kernpflichten-Status:
-| Pflicht (Norm)                     | Frist     | Status     |
+| Pflicht (Norm) | Frist | Status |
 |------------------------------------|-----------|------------|
-| Risikobewertung Art. 34            | +4 Monate |            |
-| Unabh. Audit Art. 37               | jaehrlich |            |
-| Compliance-Funktion Art. 41        | laufend   |            |
-| Transparenz Werbung Art. 39        | laufend   |            |
-| Empfehlungssystem-Optionen Art. 38 | laufend   |            |
-| Forschungsdatenzugang Art. 40      | auf Anfrag|            |
-| Krisenprotokoll Art. 48            | im Krisenf|            |
+| Risikobewertung Art. 34 | +4 Monate | |
+| Unabh. Audit Art. 37 | jaehrlich | |
+| Compliance-Funktion Art. 41 | laufend | |
+| Transparenz Werbung Art. 39 | laufend | |
+| Empfehlungssystem-Optionen Art. 38 | laufend | |
+| Forschungsdatenzugang Art. 40 | auf Anfrag| |
+| Krisenprotokoll Art. 48 | im Krisenf| |
 
 Sanktionsrisiko: Art. 52 DSA — bis 6 % Jahresumsatz
 ```

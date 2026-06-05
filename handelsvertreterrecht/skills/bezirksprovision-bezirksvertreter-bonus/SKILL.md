@@ -1,13 +1,13 @@
 ---
 name: bezirksprovision-bezirksvertreter-bonus
-description: "Nutze dies, wenn Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung prüfen.; Erstelle eine Arbeitsfassung zu Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -8,7 +8,7 @@ description: "Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Inform
 ## Aufgabe
 Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Informationsrechte und Gleichbehandlung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

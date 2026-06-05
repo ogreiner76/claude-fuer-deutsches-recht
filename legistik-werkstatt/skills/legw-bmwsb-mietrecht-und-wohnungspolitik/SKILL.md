@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Mietrecht und Wohnungspolitik
-Ressort:            BMWSB
-Kernnormen:         BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.
-Akteure/Aufsicht:   BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.
-EU/Voelkerrecht:    EnergieefffizienzRL (EPBD) Schnittstelle.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwsb; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Mietrecht und Wohnungspolitik
+Ressort: BMWSB
+Kernnormen: BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.
+Akteure/Aufsicht: BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.
+EU/Voelkerrecht: EnergieefffizienzRL (EPBD) Schnittstelle.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

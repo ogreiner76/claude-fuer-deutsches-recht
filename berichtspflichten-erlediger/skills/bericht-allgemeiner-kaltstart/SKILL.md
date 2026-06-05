@@ -22,7 +22,7 @@ BStatG § 15 Auskunftspflicht; Fachgesetze je Meldeart; VwVfG; OWiG/Bußgeldnorm
 
 ## Output
 
-Pflichtenlandkarte mit Fristenboard, Datenquellen, Verantwortlichen, Eskalation und vorgeschlagenen Spezial-Skills.
+Pflichtenlandkarte mit Fristenboard, Datenquellen, Verantwortlichen, Eskalation und vorgeschlagenen Fachmodule.
 
 ## Red Flags
 

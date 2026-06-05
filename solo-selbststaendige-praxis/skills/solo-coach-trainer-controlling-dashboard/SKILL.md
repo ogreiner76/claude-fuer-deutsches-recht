@@ -1,13 +1,13 @@
 ---
 name: solo-coach-trainer-controlling-dashboard
-description: "Nutze dies, wenn Solo Coach Trainer, Solo Controlling Dashboard, Solo Cookie Consent Realistisch, Solo Crm Für Kleine, Solo Cyberversicherung und 3 weitere Themen im Plugin Solo Selbststaendige Praxis konkret bearbeitet werden soll. Auslöser: Bitte Solo Coach Trainer, Solo Controlling Dashboard, Solo Cookie Consent Realistisch, Solo Crm Für Kleine, Solo Cyberversicherung und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Solo Coach Trainer, Solo Controlling Dashboard, Solo Cookie Consent Realistisch, Solo Crm Für Kleine, Solo Cyberversicherung und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Solo Coach Trainer, Solo Controlling Dashboard, Solo Cookie Consent Realistisch, Solo Crm Für Kleine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Solo Coach Trainer, Solo Controlling Dashboard, Solo Cookie Consent Realistisch, Solo Crm Für Kleine, Solo Cyberversicherung und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Solo Coach Trainer, Solo Controlling Dashboard, Solo Cookie Consent Realistisch, Solo Crm Für Kleine, Solo Cyberversicherung und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

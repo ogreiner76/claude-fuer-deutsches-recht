@@ -31,7 +31,7 @@ Private Equity beginnt mit Perspektive: LP, GP, Sponsor, Management, Target, Ban
 
 KAGB (Scope, Spezial-AIF, KVG-Erlaubnis); GwG/KYC; AWG/AWV einschließlich sektoraler/sektorübergreifender Prüfung ab 10/20/25 Prozent Stimmrechte; GWB/FKVO (Umsatzschwellen 500/50/17.5 Mio. EUR national bzw. EU-Schwellen Art. 1 FKVO); FSR ab Drittstaatensubventionen über 50 Mio. EUR; SPA/APA-Architektur (Asset Deal vs. Share Deal); BGB/HGB; GmbHG/AktG; UmwG/UmwStG; Pillar Two (§§ 1 ff. MinStG, 15 Prozent Mindeststeuer seit 01.01.2024); MAR bei börsennotierten Targets; ESG-Schnittstellen (SFDR, CSRD, LkSG, CSDDD).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Rolle, Parteiperspektive, Deal-Phase, Zeitdruck und Mandant in einem Satz fixieren.
 2. Dokumentenlage abfragen und fehlende Unterlagen als konkrete Nachforderungsliste mit Owner und Frist notieren.
@@ -39,7 +39,7 @@ KAGB (Scope, Spezial-AIF, KVG-Erlaubnis); GwG/KYC; AWG/AWV einschließlich sekto
 4. Wirtschaftlichen Hebel und Entscheidungspunkt sauber von Rechtsrahmen trennen.
 5. Risiken nach Deal Value, Closing-Fähigkeit, Haftung und Verhandlungshebel priorisieren (Ampel grün/gelb/rot).
 6. Erstes verwertbares Arbeitsergebnis erzeugen (Kurz-Memo, Issues List, erster Draft mit Platzhaltern).
-7. Routing in Spezialskills: Fund Formation (pe-004 ff.), Subscription (pe-011), DD (pe-023 ff.), SPA (pe-027 ff.), Closing (pe-040 ff.).
+7. Routing in Fachmodule: Fund Formation (pe-004 ff.), Subscription (pe-011), DD (pe-023 ff.), SPA (pe-027 ff.), Closing (pe-040 ff.).
 
 ## Trade-off-Matrix
 

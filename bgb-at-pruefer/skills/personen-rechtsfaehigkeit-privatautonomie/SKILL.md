@@ -1,13 +1,13 @@
 ---
 name: personen-rechtsfaehigkeit-privatautonomie
-description: "Nutze dies, wenn Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107 im Plugin Bgb At Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107 prüfen.; Erstelle eine Arbeitsfassung zu Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

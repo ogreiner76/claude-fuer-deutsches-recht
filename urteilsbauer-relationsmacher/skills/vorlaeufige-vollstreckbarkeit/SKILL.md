@@ -20,9 +20,9 @@ description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZP
 ## Zentrale Normen
 
 - § 708 ZPO — Vollstreckbarkeit ohne Sicherheitsleistung (Nr. 1-11 Aufzählung)
-  - Nr. 2: Versäumnisurteil
-  - Nr. 4: Anerkenntnisurteil
-  - Nr. 11: Endurteile bis 1.500 EUR
+ - Nr. 2: Versäumnisurteil
+ - Nr. 4: Anerkenntnisurteil
+ - Nr. 11: Endurteile bis 1.500 EUR
 - § 709 ZPO — Vollstreckbarkeit gegen Sicherheitsleistung von 110 Prozent (Regel)
 - § 711 ZPO — Schutzantrag der unterliegenden Partei
 - § 713 ZPO — keine Sicherheit bei fehlendem Rechtsmittel (Beschwer ≤ 600 EUR)
@@ -39,9 +39,9 @@ Entscheidungstyp?
 ├── Anerkenntnisurteil → § 708 Nr. 4 ZPO (ohne Sicherheit)
 ├── Endurteil bis 1.500 EUR → § 708 Nr. 11 ZPO (ohne Sicherheit)
 └── Endurteil über 1.500 EUR:
-    ├── Berufung statthaft (Beschwer > 600 EUR)? → § 709 ZPO (110 Prozent Sicherheit)
-    │   └── Schutzantrag § 711 ZPO gestellt? → § 711 ZPO Formulierung ergänzen
-    └── Berufung nicht statthaft (Beschwer ≤ 600 EUR, keine Zulassung)? → § 713 ZPO (ohne Sicherheit)
+ ├── Berufung statthaft (Beschwer > 600 EUR)? → § 709 ZPO (110 Prozent Sicherheit)
+ │ └── Schutzantrag § 711 ZPO gestellt? → § 711 ZPO Formulierung ergänzen
+ └── Berufung nicht statthaft (Beschwer ≤ 600 EUR, keine Zulassung)? → § 713 ZPO (ohne Sicherheit)
 ```
 
 ## Output-Template

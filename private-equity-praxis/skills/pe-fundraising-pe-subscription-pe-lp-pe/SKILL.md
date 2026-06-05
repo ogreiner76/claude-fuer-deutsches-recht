@@ -1,13 +1,13 @@
 ---
 name: pe-fundraising-pe-subscription-pe-lp-pe
-description: "Nutze dies, wenn Pe 010 Fundraising Und Vertrieb, Pe 011 Subscription Package Und Side Letter, Pe 012 Lp Transfer Und Secondary, Pe 013 Capital Calls Und Defaulting Lp im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 010 Fundraising Und Vertrieb, Pe 011 Subscription Package Und Side Letter, Pe 012 Lp Transfer Und Secondary, Pe 013 Capital Calls Und Defaulting Lp prüfen.; Erstelle eine Arbeitsfassung zu Pe 010 Fundraising Und Vertrieb, Pe 011 Subscription Package Und Side Letter, Pe 012 Lp Transfer Und Secondary, Pe 013 Capital Calls Und Defaulting Lp.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pe 010 Fundraising Und Vertrieb, Pe 011 Subscription Package Und Side Letter, Pe 012 Lp Transfer Und Secondary, Pe 013 Capital Calls Und Defaulting Lp: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pe 010 Fundraising Und Vertrieb, Pe 011 Subscription Package Und Side Letter, Pe 012 Lp Transfer Und Secondary, Pe 013 Capital Calls Und Defaulting Lp
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pe 010 Fundraising Und Vertrieb, Pe 011 Subscription Package Und Side Letter, Pe 012 Lp Transfer Und Secondary, Pe 013 Capital Calls Und Defaulting Lp** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -57,7 +57,7 @@ Der Skill verhindert, dass Vertrieb vor Regulierungs- und Compliance-Freigabe lo
 
 KAGB §§ 293–311 (Vertrieb inländischer AIF an semiprofessionelle Anleger), §§ 312, 316 (an Privatanleger), §§ 320–321 (EU-AIF mit Pass), §§ 322–331 (Drittstaaten-AIF, National Private Placement Regime); § 295 KAGB Marketing-Kommunikations-Anforderungen; MiFID II Art. 24 ff., WpHG §§ 63 ff., 87 (Geeignetheitsprüfung); PRIIPs (VO 1286/2014) bei Retail-Vertrieb; SFDR Marketing-Kommunikation-Konsistenz (Art. 13 SFDR i.V.m. ESMA-Guidelines); Reverse-Solicitation-Doktrin (ESMA-Q&A AIFMD; BaFin-Auslegungshinweis vom Anwender zu prüfen); Wettbewerbsrecht (UWG, Greenwashing-Klauseln).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Vertriebsregime klären: § 293 (inländischer AIF, semiprofessionell) — kurzer Anzeigepfad bei BaFin (3 Wochen Stillhalte); § 312 (Retail) — erfordert Vertriebsanzeige mit Anlagebedingungen und Verkaufsprospekt.
 2. Marketingmaterialien gegen § 295 KAGB prüfen: korrekte Risikohinweise, keine Performance-Garantie-Ansätze, "as a marketing communication" Kennzeichnung.
@@ -152,7 +152,7 @@ Der Skill arbeitet das vollständige Subscription-Paket ab: Beitrittserklärung 
 
 KAGB § 67 (Anlagebedingungen), §§ 281 ff. (Spezial-AIF), § 162 KAGB (Berichts- und Informationspflichten); BGB §§ 305 ff. AGB-Recht; GwG §§ 10 ff. (KYC, UBO); FATCA-Abkommen DE-USA und §§ 138 ff. AO; FKAustG (CRS); VAG/AnlV für Versicherer; SFDR Pre-Contractual Disclosure (Art. 6, 8, 9); MFN-Doktrin als ILPA-Standard; § 162 KAGB Reporting-Pflichten; Datenschutz Art. 6, 28 DSGVO.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Subscription Agreement Draft mit Anlegerstammdaten, Commitment, Anlegerklassifizierung, FATCA/CRS, AnlV-Erklärung, ESG-Negativliste, Datenschutzhinweis.
 2. KYC-Anhang: UBO-Kette, Quellenachweis (Wealth Source, Funds Source), Sanktionserklärung, PEP-Erklärung.
@@ -245,7 +245,7 @@ Der Skill prüft, ob ein Secondary schnell closingfähig ist oder an Consent, Ta
 
 LPA-Vinkulierung (regelmäßig § 13 LPA "Transfers"); KAGB-Spezialregeln (§ 281 KAGB i.V.m. § 1 Abs. 19 für semiprofessionelle Anleger); GwG §§ 10 ff. (KYC-Neuaufnahme); InvStG §§ 16, 19, 20 (Anteilsveräußerung); BGB §§ 398 ff. Forderungsabtretung (für Unfunded Commitment) und § 415 BGB Vertragsübernahme bei Zustimmung des Vertragspartners; UmwG bei Verkauf an verbundenes Unternehmen; AnlV bei Versicherern; FATCA/CRS-Re-Documentation; Secondary Purchase Agreement (SPA) ist eigenständiges Vertragswerk mit Reps & Warranties zur Anteilseigenschaft, Funding Status, Side Letter, Tax.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. LPA-Transfer-Klausel prüfen: Consent-Voraussetzungen, Notice Period (typisch 20–30 BTage), Right-of-First-Refusal des Sponsors?
 2. Reference Date und Cut-Off-Mechanik für Pricing definieren: NAV per Last Reported Date plus Cash Flow Adjustments seitdem.
@@ -261,7 +261,7 @@ LPA-Vinkulierung (regelmäßig § 13 LPA "Transfers"); KAGB-Spezialregeln (§ 28
 | 100 % Anteilskauf | Strip Sale (Teilanteil) | Stapled Secondary |
 | --- | --- | --- |
 | Komplette Übertragung | Teilausstieg, Seller bleibt LP | Secondary + Primary in Continuation Fund |
-| Einfacher Workflow | Komplexere LPA-Anpassung | Komplex, aber GP-friendly |
+| Einfacher | Komplexere LPA-Anpassung | Komplex, aber GP-friendly |
 | Standard für Seller-Exit | Liquiditätsoption | Standard bei GP-led Secondaries |
 
 ## Praktikertipps Big-Law-PE
@@ -339,7 +339,7 @@ Der Skill erzeugt Default Notice, Risikoampel und Kommunikationsplan beim säumi
 
 LPA Capital Call Mechanics (Sec. 5 / 6 typisch); KAGB § 281 ff.; BGB §§ 280, 286 (Verzug), § 315 BGB (Leistungsbestimmung), § 320 BGB (Einrede des nicht erfüllten Vertrags); InsO §§ 80, 91, 130, 131 (Insolvenzanfechtung bei spätem Capital Call); GwG bei Buyer-Onboarding; § 19 GwG (Sanktionsfolgen, Asset-Frost); InvStG zur Behandlung des Sanktionsverlusts; AnlV (Versicherer); CRR/CRD bei Bank-LPs.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. Capital Call Notice mit allen LPA-Pflichtangaben (Höhe, Verwendungszweck, Termin, Bankverbindung) versenden.
 2. Bei verspäteter Zahlung: Late Payment Notice mit Cure Period (typisch 5–10 BTage).

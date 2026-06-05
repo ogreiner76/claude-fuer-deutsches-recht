@@ -1,13 +1,13 @@
 ---
 name: dfg-software-veroeffentlichung-tieforschung
-description: "Nutze dies, wenn Dfg Software Veroeffentlichung Spezial, Dfg Tieforschung Ethik Pflichten, Dfg Wiedereinreichung Nach Ablehnung im Plugin Dfg Foerderantrag konkret bearbeitet werden soll. Auslöser: Bitte Dfg Software Veroeffentlichung Spezial, Dfg Tieforschung Ethik Pflichten, Dfg Wiedereinreichung Nach Ablehnung prüfen.; Erstelle eine Arbeitsfassung zu Dfg Software Veroeffentlichung Spezial, Dfg Tieforschung Ethik Pflichten, Dfg Wiedereinreichung Nach Ablehnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dfg Software Veroeffentlichung Spezial, Dfg Tieforschung Ethik Pflichten, Dfg Wiedereinreichung Nach Ablehnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dfg Software Veroeffentlichung Spezial, Dfg Tieforschung Ethik Pflichten, Dfg Wiedereinreichung Nach Ablehnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dfg Software Veroeffentlichung Spezial, Dfg Tieforschung Ethik Pflichten, Dfg Wiedereinreichung Nach Ablehnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

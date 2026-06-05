@@ -1,13 +1,13 @@
 ---
 name: anw-haftungswarn-fa-stu-fa-stu-stb-lohn-anw
-description: "Nutze dies, wenn Anw Haftungswarn 15A Inso Mandant, Fa Stu Haftungsbescheid 69 191 Ao, Fa Stu Lst Haftung 42D Estg, Stb Lohn Pruefungen Drv Bp Haftung Stb, Stb Lohn Streitfaelle Bag Bsg Haftungsrisiko und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Anw Haftungswarn 15A Inso Mandant, Fa Stu Haftungsbescheid 69 191 Ao, Fa Stu Lst Haftung 42D Estg, Stb Lohn Pruefungen Drv Bp Haftung Stb, Stb Lohn Streitfaelle Bag Bsg Haftungsrisiko und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Anw Haftungswarn 15A Inso Mandant, Fa Stu Haftungsbescheid 69 191 Ao, Fa Stu Lst Haftung 42D Estg, Stb Lohn Pruefungen Drv Bp Haftung Stb, Stb Lohn Streitfaelle Bag Bsg Haftungsrisiko und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anw Haftungswarn 15a Inso Mandant, Fa Stu Haftungsbescheid 69 191 Ao, Fa Stu Lst Haftung 42d Estg, Stb Lohn Pruefungen Drv Bp Haftung Stb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anw Haftungswarn 15A Inso Mandant, Fa Stu Haftungsbescheid 69 191 Ao, Fa Stu Lst Haftung 42D Estg, Stb Lohn Pruefungen Drv Bp Haftung Stb, Stb Lohn Streitfaelle Bag Bsg Haftungsrisiko und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anw Haftungswarn 15A Inso Mandant, Fa Stu Haftungsbescheid 69 191 Ao, Fa Stu Lst Haftung 42D Estg, Stb Lohn Pruefungen Drv Bp Haftung Stb, Stb Lohn Streitfaelle Bag Bsg Haftungsrisiko und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `stb-lohn-streitfaelle-bag-bsg-haftungsrisiko` | Lohn-Streitfaelle BAG-Linie BSG-Linie StB-Haftungsrisiko. Anwendungsfall typische Streitfaelle Werkvertrag versus AN Status arbeitsrechtlich vs sozialversicherungsrechtlich Klagerisiko. Methodik Rechtsprechungsanalyse Risikobewertung. Output Memo Haftungsrisiko. |
 | `anw-akteneinsicht-steuerakte` | Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FGO sowie ergaenzend Art. 15 DSGVO bei personenbezogenen Daten. Anwendungsfall Mandant will Prüfungsbericht Aktenvermerk oder Prüfungsakte einsehen um Einspruch oder Klage zu begründen. Behandelt Verwaltungsakten Prüfungsakten Aktenvermerke Aussenprüfungs-Berichte Schwaerzungen wegen Steuergeheimnis Dritter § 30 AO. Output Antragsvorlage und strukturiertes Auswertungsraster für die uebermittelte Akte. Abgrenzung zu anw-aussenprüfung-strategien Mitwirkungspflichten und anw-einspruch-finanzamt. |
 | `anw-aussetzung-vollziehung` | Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfall Mandant hat Einspruch eingelegt will aber Nachforderung nicht sofort zahlen. Zweistufig zuerst beim Finanzamt § 361 Abs. 2 AO bei ernstlichen Zweifeln an der Rechtmäßigkeit oder unbilliger Haerte dann bei Ablehnung beim Finanzgericht § 69 Abs. 3 FGO. Prüfung Anordnungsanspruch ernstliche Zweifel oder unbillige Haerte und Anordnungsgrund drohende Vollziehung. Inkludiert eidesstattliche Versicherung. Output AdV-Antrag an FA und Antrag an FG. Abgrenzung zu anw-einspruch-finanzamt und anw-stundung-erlass-vollstreckungsaufschub. |
-| `anw-defi-lending-yield-farming-bmf-22-11-2024` | Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklärungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG Token-Tausch als Veraeusserung § 23 EStG Spekulationsfrist Wrapped Tokens LP-Tokens Yield Tokens. DAC8-Meldepflicht beachten. Workflow Wallet-Analyse Cointracking Steuererklarung. Output steuerliche Beurteilung Erklärungspflichtige Einkuenfte Beratungsmemo. Abgrenzung zu anw-dac7-dac8-plattformen-krypto. |
+| `anw-defi-lending-yield-farming-bmf-22-11-2024` | Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklärungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG Token-Tausch als Veraeusserung § 23 EStG Spekulationsfrist Wrapped Tokens LP-Tokens Yield Tokens. DAC8-Meldepflicht beachten. Wallet-Analyse Cointracking Steuererklarung. Output steuerliche Beurteilung Erklärungspflichtige Einkuenfte Beratungsmemo. Abgrenzung zu anw-dac7-dac8-plattformen-krypto. |
 | `anw-einspruch-finanzamt` | Begründeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO formulieren. Anwendungsfall Mandant erhaelt Steuerbescheid und will Einspruch einlegen. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO bzw. ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO Vier-Tage-Fiktion § 122 Abs. 2 AO seit 01.01.2025 PostModG. Angriffspunkte Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO neue Tatsachen § 173 AO Festsetzungsverjährung § 169 AO Wiedereinsetzung § 110 AO. Output Einspruchsschriftsatz mit Antrag Begründung Beweisangebot AdV-Antrag § 361 Abs. 2 AO Akteneinsicht § 364 AO. Abgrenzung zu anw-klage-finanzgericht anw-steuerbescheid-analyse. |
 
 ## Arbeitsweg
@@ -121,7 +121,7 @@ Pflicht aus § 11 BORA (Schriftform-Pflicht bei wichtigen Mandantenhinweisen) un
 ## Muster — Anwaltliches Belehrungs-/Hinweisschreiben (verkürzt)
 
 ```
-[Kanzlei-Briefkopf]                                               [Datum]
+[Kanzlei-Briefkopf] [Datum]
 
 PERSÖNLICH UND VERTRAULICH
 
@@ -151,29 +151,29 @@ sechs Wochen ab Eintritt der Ueberschuldung].
 **Risiken bei Verstoss gegen die Antragspflicht:**
 
 1. Strafrechtliche Verantwortung nach § 15a Abs. 4 InsO
-   (Freiheitsstrafe bis zu drei Jahren oder Geldstrafe; bei
-   fahrlaessiger Verschleppung bis zu einem Jahr).
+ (Freiheitsstrafe bis zu drei Jahren oder Geldstrafe; bei
+ fahrlaessiger Verschleppung bis zu einem Jahr).
 2. Persoenliche zivilrechtliche Haftung gegenueber der Gesellschaft
-   gemaess § 15b InsO (verbotene Zahlungen nach Insolvenzreife).
+ gemaess § 15b InsO (verbotene Zahlungen nach Insolvenzreife).
 3. Persoenliche Haftung gegenueber Neuglaeubigern aus § 823 Abs. 2
-   BGB i.V.m. § 15a InsO bzw. § 826 BGB (Quotenschaden Altglaeubiger,
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ BGB i.V.m. § 15a InsO bzw. § 826 BGB (Quotenschaden Altglaeubiger,
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Empfehlung:**
 
 Ich empfehle Ihnen mit Nachdruck:
 
 - saemtliche an Glaeubiger gerichteten Zahlungen unverzueglich auf
-  Insolvenzkonformitaet zu pruefen (vgl. § 15b InsO);
+ Insolvenzkonformitaet zu pruefen (vgl. § 15b InsO);
 - saemtliche an die Gesellschaft eingehenden Zahlungen auf einem
-  gesonderten Konto zu sammeln;
+ gesonderten Konto zu sammeln;
 - den Insolvenzantrag innerhalb der oben genannten Frist zu stellen,
-  sofern eine Sanierungsperspektive ausserhalb des Insolvenzverfahrens
-  nicht zeitnah belegt werden kann;
+ sofern eine Sanierungsperspektive ausserhalb des Insolvenzverfahrens
+ nicht zeitnah belegt werden kann;
 - alternative Verfahrenswege (Eigenverwaltung § 270b InsO,
-  Schutzschirm § 270d InsO, StaRUG-Restrukturierung soweit erst
-  drohende Zahlungsunfaehigkeit) gegen das Regelinsolvenzverfahren
-  abzuwaegen.
+ Schutzschirm § 270d InsO, StaRUG-Restrukturierung soweit erst
+ drohende Zahlungsunfaehigkeit) gegen das Regelinsolvenzverfahren
+ abzuwaegen.
 
 Ich stehe zur Mandatsuebernahme fuer das Insolvenzantragsverfahren oder
 fuer ein Sanierungsverfahren auf Grundlage einer gesonderten
@@ -683,7 +683,7 @@ Bevorzugte Übermittlung: elektronisch über Mein ELSTER;
 alternativ Papierform. Eine Übersendung per beA ist seit
 6.12.2024 unzulässig (§ 87a Abs. 1 S. 2 AO n.F.).
 
-[ORT], [DATUM]    [UNTERSCHRIFT]
+[ORT], [DATUM] [UNTERSCHRIFT]
 ```
 
 ## Antrag im Klageverfahren (§ 78 FGO)
@@ -697,18 +697,18 @@ An das Finanzgericht [BUNDESLAND]
 In der Streitsache [NAME] ./. Finanzamt [ORT] beantragen wir:
 
 1. Die vollständige Steuerakte betreffend [STEUERART] [JAHRE]
-   gemäß § 71 Abs. 2 FGO beizuziehen.
+ gemäß § 71 Abs. 2 FGO beizuziehen.
 2. Dem Kläger Einsicht gemäß § 78 FGO in die beigezogene
-   Verwaltungsakte zu gewähren, einschließlich interner
-   Prüfernotizen und Kontrollmitteilungen.
+ Verwaltungsakte zu gewähren, einschließlich interner
+ Prüfernotizen und Kontrollmitteilungen.
 3. Geschwärzten Aktenteilen ist eine Begründung der Schwärzung
-   beizufügen; bei Streit beantragen wir gerichtliche Prüfung.
+ beizufügen; bei Streit beantragen wir gerichtliche Prüfung.
 ```
 
 ## Schritt-für-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Aktenlage klären:** Liegt Einspruchsentscheidung vor? → Klageverfahren → § 78 FGO; sonst → § 364 AO.
 2. **Antrag formulieren** (Vorlage oben anpassen, Steuerart, Az, Mandantendaten).
@@ -790,10 +790,10 @@ beantragt. Sobald die Akte eingeht, werten wir sie für Sie aus
 und informieren Sie über die Ergebnisse, insbesondere über:
 
 - Welche Unterlagen das Finanzamt als Entscheidungsgrundlage
-  herangezogen hat
+ herangezogen hat
 - Ob Kontrollmitteilungen Dritter die Festsetzung beeinflusst haben
 - Welche Schwärzungen vorgenommen wurden und ob wir dagegen
-  vorgehen sollten
+ vorgehen sollten
 
 [KANZLEI], [DATUM]
 ```
@@ -881,7 +881,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-für-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Einspruch prüfen:** Einspruch eingelegt und Frist gewahrt? Falls nicht → zuerst Einspruch.
 2. **Begründung AdV zusammenstellen:** Ernstliche Zweifel (materielle Angriffspunkte aus Bescheidanalyse) oder unbillige Härte (Liquiditätslage, Existenzgefährdung).
@@ -944,12 +944,12 @@ Finanzamt [ORT] — Antragsgegner —
 Antrag auf Aussetzung der Vollziehung gemäß § 69 Abs. 3 FGO
 
 1. Die Vollziehung des [STEUERART]-Bescheids [JAHR] vom
-   [DATUM] in Gestalt der FA-Ablehnung vom [DATUM] wird
-   bis zum rechtskräftigen Abschluss des Klageverfahrens
-   (Az. FG [AKTENZEICHEN]) ausgesetzt.
-   Hilfsweise wird die Aufhebung der Vollziehung beantragt.
+ [DATUM] in Gestalt der FA-Ablehnung vom [DATUM] wird
+ bis zum rechtskräftigen Abschluss des Klageverfahrens
+ (Az. FG [AKTENZEICHEN]) ausgesetzt.
+ Hilfsweise wird die Aufhebung der Vollziehung beantragt.
 2. Ohne Sicherheitsleistung; hilfsweise gegen Sicherheits-
-   leistung nach richterlichem Ermessen.
+ leistung nach richterlichem Ermessen.
 
 Begründung:
 A. Verfahrensgeschichte: [...]
@@ -1034,7 +1034,7 @@ AdV-Antrag beim **Finanzamt** (§ 361 AO): über ELSTER/ERiC, Briefpost oder Tel
 
 ## 8. `anw-defi-lending-yield-farming-bmf-22-11-2024`
 
-**Fokus:** Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklärungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG Token-Tausch als Veraeusserung § 23 EStG Spekulationsfrist Wrapped Tokens LP-Tokens Yield Tokens. DAC8-Meldepflicht beachten. Workflow Wallet-Analyse Cointracking Steuererklarung. Output steuerliche Beurteilung Erklärungspflichtige Einkuenfte Beratungsmemo. Abgrenzung zu anw-dac7-dac8-plattformen-krypto.
+**Fokus:** Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklärungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG Token-Tausch als Veraeusserung § 23 EStG Spekulationsfrist Wrapped Tokens LP-Tokens Yield Tokens. DAC8-Meldepflicht beachten. Wallet-Analyse Cointracking Steuererklarung. Output steuerliche Beurteilung Erklärungspflichtige Einkuenfte Beratungsmemo. Abgrenzung zu anw-dac7-dac8-plattformen-krypto.
 
 # DeFi-Lending / Yield Farming — Steuerliche Behandlung (BMF-Schreiben)
 
@@ -1237,19 +1237,19 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 1. Statthaftigkeit § 347 AO
-   - Verwaltungsakt in Abgabenangelegenheit?
+ - Verwaltungsakt in Abgabenangelegenheit?
 2. Form § 357 AO
-   - Schriftlich oder elektronisch über § 87a AO?
+ - Schriftlich oder elektronisch über § 87a AO?
 3. Frist § 355 AO + Bekanntgabefiktion § 122 Abs. 2 AO (vier Tage seit 01.01.2025)
-   - Bekanntgabedatum + 1 Monat (Wochenend-/Feiertagsregel beachten).
+ - Bekanntgabedatum + 1 Monat (Wochenend-/Feiertagsregel beachten).
 4. Beschwer
-   - Steuerpflichtiger durch Bescheid in seinen Rechten beeinträchtigt?
+ - Steuerpflichtiger durch Bescheid in seinen Rechten beeinträchtigt?
 5. AdV § 361 AO erforderlich?
-   - Ernstliche Zweifel an Rechtmäßigkeit oder unbillige Härte?
+ - Ernstliche Zweifel an Rechtmäßigkeit oder unbillige Härte?
 6. Begründung
-   - Streitige Punkte einzeln; Tatsachen, Beweismittel, Rechtsgrundlagen.
+ - Streitige Punkte einzeln; Tatsachen, Beweismittel, Rechtsgrundlagen.
 7. Rechtsschutz nach Einspruchsentscheidung
-   - Klage FG § 47 FGO (1 Monat).
+ - Klage FG § 47 FGO (1 Monat).
 ```
 
 ## Struktur des Einspruchsschreibens
@@ -1274,9 +1274,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Formale Mängel zuerst (Bekanntgabe Begründung Adressat).
 - Materielle Mängel:
-  - Sachverhaltsfehler (Einkünftezuordnung Werbungskosten Sonderausgaben Außergewöhnliche Belastungen).
-  - Rechtsanwendungsfehler.
-  - Schätzung unrealistisch (§ 162 AO).
+ - Sachverhaltsfehler (Einkünftezuordnung Werbungskosten Sonderausgaben Außergewöhnliche Belastungen).
+ - Rechtsanwendungsfehler.
+ - Schätzung unrealistisch (§ 162 AO).
 - BFH-Rechtsprechung mit Pinpoint.
 - Verweis auf BMF-Schreiben falls einschlägig.
 - Bei Schätzungsbescheid: bestreitete Schätzungsgrundlagen plus eigene plausible Berechnung.
@@ -1295,11 +1295,11 @@ Finanzamt [Ort]
 [Anschrift]
 
 vorab per Telefax oder ELSTER (beA an Finanzamt seit 6.12.2024 unzulässig, § 87a Abs. 1 S. 2 AO n.F.)
-                                                                [Ort], [Datum]
+ [Ort], [Datum]
 
 Steuernummer: [SteuerNr]
-Bescheid:     [Bescheidart, z. B. Einkommensteuerbescheid 2024]
-Datum:        [Bescheiddatum]
+Bescheid: [Bescheidart, z. B. Einkommensteuerbescheid 2024]
+Datum: [Bescheiddatum]
 
 Einspruch und Antrag auf Aussetzung der Vollziehung
 
@@ -1307,11 +1307,11 @@ Sehr geehrte Damen und Herren,
 
 namens und in Vollmacht unserer Mandantschaft, [Name], [Anschrift], legen wir gegen den oben bezeichneten Bescheid
 
-                            Einspruch (§ 347 AO)
+ Einspruch (§ 347 AO)
 
 ein und beantragen die
 
-                            Aussetzung der Vollziehung gemäß § 361 AO
+ Aussetzung der Vollziehung gemäß § 361 AO
 
 in Höhe des streitigen Steuerbetrags von EUR [Betrag].
 

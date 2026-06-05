@@ -1,13 +1,13 @@
 ---
 name: notarielle-verwahrung-notarkammer-anfrage
-description: "Nutze dies, wenn Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma prüfen.; Erstelle eine Arbeitsfassung zu Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart..."
+description: "Nutze dies bei Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Notarielle Verwahrung Von Daten Kaltstart Und Faktenmatr, Notare Notarkammer Anfrage Kaltstart Und Faktenmatrix, Notare Notarvertretung Und Notariatsverwalter Kaltstart Und Fak, Notare Qualitaetsmanagement Im Notariat Kaltstart Und Faktenmat, Notare Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

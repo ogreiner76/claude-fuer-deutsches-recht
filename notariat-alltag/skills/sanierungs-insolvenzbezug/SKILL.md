@@ -1,13 +1,13 @@
 ---
 name: sanierungs-insolvenzbezug
-description: "Nutze dies, wenn Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, Notariat 059 Kaufpreisfaelligkeit Bei Altlasten Baulasten Und Mi, Notariat 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi im Plugin Notariat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, Notariat 059 Kaufpreisfaelligkeit Bei Altlasten Baulasten Und Mi, Notariat 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi prüfen.; Erstelle eine Arbeitsfassung zu Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, Notariat 059 Kaufpreisfaelligkeit Bei Altlasten Baulasten Und Mi, Notariat 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, Notariat 059 Kaufpreisfaelligkeit Bei Altlasten Baulasten Und Mi, Notariat 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, Notariat 059 Kaufpreisfaelligkeit Bei Altlasten Baulasten Und Mi, Notariat 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 058 Sanierungs Und Insolvenzbezug Bei Anteils Und Immob, Notariat 059 Kaufpreisfaelligkeit Bei Altlasten Baulasten Und Mi, Notariat 061 Sorgerechtsgenehmigung Familiengerichtliche Genehmi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

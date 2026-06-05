@@ -1,13 +1,13 @@
 ---
 name: widerruf-ruecknahme
-description: "Nutze dies, wenn Widerruf Rücknahme Ruhen Apothekenerlaubnis im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Widerruf Rücknahme Ruhen Apothekenerlaubnis prüfen.; Erstelle eine Arbeitsfassung zu Widerruf Rücknahme Ruhen Apothekenerlaubnis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Widerruf Ruecknahme Ruhen Apothekenerlaubnis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Widerruf Rücknahme Ruhen Apothekenerlaubnis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Widerruf Rücknahme Ruhen Apothekenerlaubnis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: pflicht-treuen-politische-betaetigung
-description: "Nutze dies, wenn Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat prüfen.; Erstelle eine Arbeitsfassung zu Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pflicht Zum Treuen Dienen 7 Sg, Politische Betaetigung Maessigung Neutralitaet, Presseaeusserung Meinungsfreiheit Soldat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -113,7 +113,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -171,20 +171,20 @@ Vor Ausgabe prüfen:
 - BVerfG zu Soldaten und politischer Meinungsfreiheit – ständige Rechtsprechung zur Verhältnismäßigkeit.
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung zur Auslegung von § 15 SG, häufig zugespitzt bei Social-Media-Posts und Reichsbürger-/Extremismusnähe.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Äußerung präzise dokumentieren.** Wortlaut, Datum, Plattform, Reichweite, Uniform, Dienstbezug.
 2. **Kontext einordnen.** Dienstlicher oder außerdienstlicher Rahmen? Geschlossener oder offener Kreis?
 3. **Inhaltsprüfung.**
-   - Werbung für politische Richtung im Dienst → § 15 I SG.
-   - Außer Dienst: Vertrauensbeeinträchtigung? Achtungswürdigkeit § 17 SG?
-   - Treuepflicht § 7/8 SG bei verfassungswidrigen oder extremistischen Inhalten.
+ - Werbung für politische Richtung im Dienst → § 15 I SG.
+ - Außer Dienst: Vertrauensbeeinträchtigung? Achtungswürdigkeit § 17 SG?
+ - Treuepflicht § 7/8 SG bei verfassungswidrigen oder extremistischen Inhalten.
 4. **Verfahrensstufe.** Innerdienstliche Belehrung – einfache Disziplinarmaßnahme – gerichtliches Disziplinarverfahren – ggf. Entlassung nach § 55 V SG.
 5. **Verteidigungsbausteine.**
-   - Art. 5 GG-Würdigung,
-   - keine Identifizierbarkeit als Soldat,
-   - bloße Faktendarstellung statt politischer Werbung,
-   - Rückzug, Löschung, Distanzierung.
+ - Art. 5 GG-Würdigung,
+ - keine Identifizierbarkeit als Soldat,
+ - bloße Faktendarstellung statt politischer Werbung,
+ - Rückzug, Löschung, Distanzierung.
 6. **Anhörung.** Schweigen bis Akteneinsicht.
 7. **Bei Extremismusverdacht** parallel: sicherheitsrechtliche Verfahren, MAD-Beteiligung, Sicherheitsüberprüfung (SÜG).
 
@@ -276,16 +276,16 @@ Der Soldat genießt die Meinungsfreiheit aus Art. 5 GG, die jedoch durch die sol
 - § 18 SG: Genehmigungspflichten für veröffentlichte dienstliche Mitteilungen.
 - ZDv A-2630/1 (Innere Führung) – nur nach Vorlage.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Inhalt klassifizieren.** Privatmeinung, dienstliche Information, geheimhaltungspflichtige Information, politisches Statement?
 2. **Genehmigungspflicht prüfen.** § 14 SG/§ 18 SG: Dienstliche Angelegenheiten benötigen Zustimmung.
 3. **Identifikationsgrad messen.** Klarname, Uniform, Truppenteil – verstärkt Bindung an SG-Pflichten.
 4. **Risikoanalyse.** Welche Pflicht ist potenziell verletzt? Mehrere parallel möglich.
 5. **Veröffentlichungsmuster.**
-   - Wahrheitsgemäß, faktenbasiert, ohne dienstliche Bewertung: in der Regel zulässig.
-   - Politische Werbung mit Bundeswehrbezug: hoch riskant.
-   - Innerdienstliche Missstände öffentlich: § 14 SG vs. Wehrbeauftragter parallel.
+ - Wahrheitsgemäß, faktenbasiert, ohne dienstliche Bewertung: in der Regel zulässig.
+ - Politische Werbung mit Bundeswehrbezug: hoch riskant.
+ - Innerdienstliche Missstände öffentlich: § 14 SG vs. Wehrbeauftragter parallel.
 6. **Strategie im Konflikt.** Sofortige Distanzierung, Löschung, Berichtigung. Schriftliche Stellungnahme.
 7. **Verfahrensgang.** Disziplinarmaßnahme einfacher Art, gerichtliches Disziplinarverfahren, ggf. WStG bei Geheimschutzverletzung.
 

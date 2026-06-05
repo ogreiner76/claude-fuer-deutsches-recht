@@ -1,13 +1,13 @@
 ---
 name: ins-beraterdepot-ins-employee
-description: "Nutze dies, wenn Ins 045 Beraterdepot, Ins 046 Employee Rumor im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 045 Beraterdepot, Ins 046 Employee Rumor prüfen.; Erstelle eine Arbeitsfassung zu Ins 045 Beraterdepot, Ins 046 Employee Rumor.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 045 Beraterdepot, Ins 046 Employee Rumor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 045 Beraterdepot, Ins 046 Employee Rumor
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 045 Beraterdepot, Ins 046 Employee Rumor** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -52,31 +52,31 @@ entwickelt Schutzmaßnahmen für Berater und ihre Mandanten.
 
 - Für welche Mandanten führt der Berater ein Depot oder Treuhandkonto?
 - Ist der Berater aufgrund seiner Mandatstätigkeit im Besitz von Insiderinformationen
-  über Finanzinstrumente im Depot?
+ über Finanzinstrumente im Depot?
 - Wenn ja: Handelsverbot für alle Transaktionen in diesen Instrumenten
 
 ### Schritt 2 – Wissenszurechnung bei Berater-Teams
 
 - Gilt das Wissen eines Beraters der gesamten Kanzlei / Beratungsgesellschaft?
-  (Grundsatz der Wissenszurechnung in Berufsorganisationen)
+ (Grundsatz der Wissenszurechnung in Berufsorganisationen)
 - Chinese Walls: Trennung zwischen der Abteilung mit Insiderwissen und der
-  Vermögensverwaltungsabteilung
+ Vermögensverwaltungsabteilung
 - Dokumentation der Chinese Wall und regelmäßige Tests
 
 ### Schritt 3 – Vermögensverwaltungsmandat für Insider-Mandanten
 
 - Führt ein Berater ein Vermögensverwaltungsmandat für einen Mandanten, der selbst ein
-  Insider ist? → Safe Harbour nach Art. 9 Abs. 1 lit. a MAR: Kein Tatbestand, wenn der
-  Berater eigenständige Entscheidungen ohne Insiderwissen des Mandanten trifft und der
-  Mandant keine Weisungen aufgrund von Insiderinformationen gegeben hat
+ Insider ist? → Safe Harbour nach Art. 9 Abs. 1 lit. a MAR: Kein Tatbestand, wenn der
+ Berater eigenständige Entscheidungen ohne Insiderwissen des Mandanten trifft und der
+ Mandant keine Weisungen aufgrund von Insiderinformationen gegeben hat
 - Dokumentation: Keine Kommunikation des Mandanten über laufende Insiderinformationen
 
 ### Schritt 4 – Monitoring-Pflichten der Berater-Gesellschaft
 
 - Compliance muss alle Depotkonten und Treuhandkonten auf insiderrelevante Transaktionen
-  überwachen
+ überwachen
 - Verdächtige Transaktionen: Kauf/Verkauf kurz vor Kursbewegungs-Ereignis bei Mandanten-
-  Unternehmen
+ Unternehmen
 - Meldung verdächtiger Transaktionen an BaFin (Art. 16 MAR)
 
 ### Schritt 5 – Präventionsmaßnahmen
@@ -162,7 +162,7 @@ Wenn bestätigt, dass eine Insiderinformation vorliegt:
 a) Insiderliste aktualisieren (alle Wissensträger aufnehmen)
 b) Prüfen: Besteht oder bestand Ad-hoc-Pflicht? Aufschub rechtmäßig?
 c) Prüfen: Hat der Mitarbeiter oder seine nahestehenden Personen in der Zwischenzeit
-   Eigengeschäfte getätigt? → Art. 14 MAR-Prüfung
+ Eigengeschäfte getätigt? → Art. 14 MAR-Prüfung
 d) Falls Eigengeschäfte: BaFin-Meldung nach Art. 16 MAR erwägen
 
 ### Schritt 4 – Nicht-Bestätigung

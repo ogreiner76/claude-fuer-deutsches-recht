@@ -1,13 +1,13 @@
 ---
 name: regr-mifid2-regrecht-einfuehrung-internal
-description: "Nutze dies, wenn Regr Mifid2 Mar Leitfaden, Regrecht Einfuehrung Sektoren, Regrecht Internal Policies Design im Plugin Regulatorisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Regr Mifid2 Mar Leitfaden, Regrecht Einfuehrung Sektoren, Regrecht Internal Policies Design prüfen.; Erstelle eine Arbeitsfassung zu Regr Mifid2 Mar Leitfaden, Regrecht Einfuehrung Sektoren, Regrecht Internal Policies Design.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Regr Mifid2 Mar Leitfaden, Regrecht Einfuehrung Sektoren, Regrecht Internal Policies Design: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Regr Mifid2 Mar Leitfaden, Regrecht Einfuehrung Sektoren, Regrecht Internal Policies Design
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Regr Mifid2 Mar Leitfaden, Regrecht Einfuehrung Sektoren, Regrecht Internal Policies Design** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Regr Mifid2 Mar Leitfaden, Regrecht Einfuehrung Sektoren, Regrecht Intern
 ## Aufgabe
 Leitfaden MiFID II und MAR: Wohlverhaltenspflichten, Suitability, Ad-hoc-Publizitaet, Insiderrecht.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?

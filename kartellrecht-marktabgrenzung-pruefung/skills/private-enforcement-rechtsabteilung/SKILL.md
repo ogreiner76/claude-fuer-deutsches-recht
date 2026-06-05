@@ -1,20 +1,20 @@
 ---
 name: private-enforcement-rechtsabteilung
-description: "Nutze dies, wenn Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschadenersatz Nach Behoerdenentscheidung, Sammelklagen Abtretungsmodelle Kartellschaden, Verjaehrung Kartellschaden 33H Gwb, Cluster Und Systemmaerkte im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschadenersatz Nach Behoerdenentscheidung, Sammelklagen Abtretungsmodelle Kartellschaden, Verjaehrung Kartellschaden 33H Gwb, Cluster Und Systemmaerkte prüfen.; Erstelle eine Arbeitsfassung zu Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschadenersatz Nach Behoerdenentscheidung, Sammelklagen Abtretungsmodelle Kartellschaden, Verjaehrung Kartellschaden 33H Gwb, Cluster Und Systemmaerkte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschadenersatz Nach Behoerdenentscheidung, Sammelklagen Abtretungsmodelle Kartellschaden, Verjaehrung Kartellschaden 33h Gwb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschadenersatz Nach Behoerdenentscheidung, Sammelklagen Abtretungsmodelle Kartellschaden, Verjaehrung Kartellschaden 33H Gwb, Cluster Und Systemmaerkte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschadenersatz Nach Behoerdenentscheidung, Sammelklagen Abtretungsmodelle Kartellschaden, Verjaehrung Kartellschaden 33H Gwb, Cluster Und Systemmaerkte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `private-enforcement-schadensersatz-intake` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Private Enforcement Schadensersatz Intake. |
-| `rechtsabteilung-kartellschadenersatz-nach-behoerdenentscheidung` | Rechtsabteilungs-Spezialskill für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `private-enforcement-schadensersatz-intake` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Private Enforcement Schadensersatz Intake. |
+| `rechtsabteilung-kartellschadenersatz-nach-behoerdenentscheidung` | Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `sammelklagen-abtretungsmodelle-kartellschaden` | Sammelklagen Abtretungsmodelle Kartellschaden: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `verjaehrung-kartellschaden-33h-gwb` | Verjährung Kartellschaden § 33h GWB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `cluster-und-systemmaerkte` | Behoerde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prüft Cluster-Maerkte Buendelung nicht-substitutiver Produkte und Systemmaerkte Primaermarkt plus Aftermarkt. Normen Art. 102 AEUV § 18 GWB § 19 GWB EuGH-Rspr zu Aftermarkt. Prüfraster Pelikan-Doktrin Kyocera-Doktrin eigenständiger Aftermarkt Nachfragesteuerung Wechselkosten. Output Marktdefinitions-Memo mit Cluster-Analyse und Angreifbarkeits-Risiko. Abgrenzung: mehrseitige-maerkte-plattformen für Plattform-Spezifika. |
@@ -28,7 +28,7 @@ Für **Private Enforcement Schadensersatz Intake, Rechtsabteilung Kartellschaden
 
 ## 1. `private-enforcement-schadensersatz-intake`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Private Enforcement Schadensersatz Intake.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Private Enforcement Schadensersatz Intake.
 
 # Private Enforcement Schadensersatz Intake
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `rechtsabteilung-kartellschadenersatz-nach-behoerdenentscheidung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Kartellschadenersatz nach Behördenentscheidung: Follow-on-Claims werden mit Passing-on, Verjährung und Datenanforderung aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung
 

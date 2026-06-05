@@ -1,13 +1,13 @@
 ---
 name: rechtsprechungsrecherche-spa-apa
-description: "Nutze dies, wenn Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -97,7 +97,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Rechtsprechung zu Corporate/M&A-Frage recherchieren | Recherche-Workflow und Ausgabeliste nach Template unten |
+| Standard — Rechtsprechung zu Corporate/M&A-Frage recherchieren | Recherche-und Ausgabeliste nach Template unten |
 | Variante A — Fragestellung sehr spezifisch und aktuell | Direkt in beck-online / juris suchen; Template als Ausgabeformat |
 | Variante B — Grundsatzfrage mit langer Rechtsprechungslinie | Kanoentabelle aufbauen; historische Entwicklung darstellen |
 | Variante C — auslaendisches oder EU-Recht relevant | Parallele Recherche EU-Ebene; EuGH-Urteile gesondert auflisten |
@@ -119,8 +119,8 @@ RECHERCHEERGEBNISSE
 Nr. | Gericht | Aktenzeichen | Datum | Fundstelle | Leitsatz (Paraphrase) | Verwertungsnotiz | Status
 ----|--------|-------------|-------|-----------|----------------------|-----------------|-------
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-2   | Rechtsprechung live pruefen | Gericht, Datum und Aktenzeichen erst nach freier/amtlicher Quelle eintragen | [Paraphrase] | [Relevanz] | verifiziert
-3   | [Gericht] | [Az.] | [Datum] | [Fundstelle] | [Paraphrase] | [Relevanz] | UNVERIFIED — bitte prüfen
+2 | Rechtsprechung live pruefen | Gericht, Datum und Aktenzeichen erst nach freier/amtlicher Quelle eintragen | [Paraphrase] | [Relevanz] | verifiziert
+3 | [Gericht] | [Az.] | [Datum] | [Fundstelle] | [Paraphrase] | [Relevanz] | UNVERIFIED — bitte prüfen
 
 NICHT GEFUNDEN / LÜCKEN
 - [Rechtsgebiet X]: Keine aktuelle BGH-Entscheidung ab 2020; ältester Bezug: [Az.]
@@ -129,7 +129,7 @@ NICHT GEFUNDEN / LÜCKEN
 OFFENE RECHERCHEFRAGEN (TODO)
 | Nr. | Frage | Owner | Frist | Eskalation |
 |----|-------|-------|-------|------------|
-| 1  | [Frage] | [Name] | [Datum] | [Stufe] |
+| 1 | [Frage] | [Name] | [Datum] | [Stufe] |
 
 ROUTING
 Ergebnisse verwendbar für:
@@ -263,12 +263,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Gegenstand: GmbH-Anteile?
-  → Ja: Notarielle Beurkundung zwingend (§ 15 III GmbHG)
-       → Vorkaufsrecht der Mitgesellschafter? → ja: Angebotsverfahren beachten
-  → Nein: AG-Aktien?
-       → vinkulierte Namensaktien: Zustimmungsvorbehalt pruefen (§ 68 II AktG)
-       → Inhaberaktien: kein Notar noetig; Depot-Uebertragung
-  → Asset Deal: kein Notar fuer Vertragstext, aber Grundstuecke -> notarielle Auflassung (§ 925 BGB)
+ → Ja: Notarielle Beurkundung zwingend (§ 15 III GmbHG)
+ → Vorkaufsrecht der Mitgesellschafter? → ja: Angebotsverfahren beachten
+ → Nein: AG-Aktien?
+ → vinkulierte Namensaktien: Zustimmungsvorbehalt pruefen (§ 68 II AktG)
+ → Inhaberaktien: kein Notar noetig; Depot-Uebertragung
+ → Asset Deal: kein Notar fuer Vertragstext, aber Grundstuecke -> notarielle Auflassung (§ 925 BGB)
 ```
 
 ## Output-Template Key Issues Memo
@@ -283,31 +283,31 @@ Version: [Nr.]
 Erstellt von: [NAME, FUNKTION]
 
 1. OFFENE BUSINESS-ENTSCHEIDUNGEN
-   | Nr. | Thema | Option A | Option B | Empfehlung |
-   |----|-------|----------|----------|-----------|
-   | 1  | Kaufpreismechanik | Locked Box | Closing Accounts | [Empfehlung] |
-   | 2  | W&I-Versicherung | Ja (Kaeufer-Policy) | Nein | [Empfehlung] |
+ | Nr. | Thema | Option A | Option B | Empfehlung |
+ |----|-------|----------|----------|-----------|
+ | 1 | Kaufpreismechanik | Locked Box | Closing Accounts | [Empfehlung] |
+ | 2 | W&I-Versicherung | Ja (Kaeufer-Policy) | Nein | [Empfehlung] |
 
 2. DD-FINDING-MATRIX
-   | Finding | Vertragsmechanismus | Owner | Status |
-   |---------|---------------------|-------|--------|
-   | [Finding 1] | Spezifische Indemnity | [Partei] | Offen/Geschlossen |
+ | Finding | Vertragsmechanismus | Owner | Status |
+ |---------|---------------------|-------|--------|
+ | [Finding 1] | Spezifische Indemnity | [Partei] | Offen/Geschlossen |
 
 3. HAFTUNGSREGIME
-   - De-Minimis: [Betrag EUR]
-   - Basket (Tipping/Deductible): [Betrag EUR]
-   - Cap: [% des Kaufpreises]
-   - Verjährung: [allg. 18-24 Monate; Tax 5-7 Jahre; Titel unbegrenzt]
+ - De-Minimis: [Betrag EUR]
+ - Basket (Tipping/Deductible): [Betrag EUR]
+ - Cap: [% des Kaufpreises]
+ - Verjährung: [allg. 18-24 Monate; Tax 5-7 Jahre; Titel unbegrenzt]
 
 4. CLOSING CONDITIONS
-   - Kartellrecht: [Anmeldung bei / Freigabe bis]
-   - Aussenhandel/FDI: [AWG/ATSG/SektSchV-Pruefung]
-   - Dritte Zustimmungen: [Change-of-Control-Klauseln]
+ - Kartellrecht: [Anmeldung bei / Freigabe bis]
+ - Aussenhandel/FDI: [AWG/ATSG/SektSchV-Pruefung]
+ - Dritte Zustimmungen: [Change-of-Control-Klauseln]
 
 5. NAECHSTE SCHRITTE
-   | Schritt | Owner | Frist |
-   |---------|-------|-------|
-   | [Massnahme 1] | [Name] | [Datum] |
+ | Schritt | Owner | Frist |
+ |---------|-------|-------|
+ | [Massnahme 1] | [Name] | [Datum] |
 ```
 
 ## Output-Template SPA-Struktur (Outline)
@@ -319,26 +319,26 @@ Datum: [DATUM]
 
 1. Definitionen und Auslegung
 2. Kauf und Verkauf der Anteile
-   2.1 Kaufgegenstand
-   2.2 Kaufpreis und Kaufpreismechanik (Locked Box / Closing Accounts)
-   2.3 Kaufpreisanpassung
+ 2.1 Kaufgegenstand
+ 2.2 Kaufpreis und Kaufpreismechanik (Locked Box / Closing Accounts)
+ 2.3 Kaufpreisanpassung
 3. Vollzugsbedingungen (Closing Conditions / Conditions Precedent)
-   3.1 Kartellfreigabe [§§ 35 ff. GWB / EU-Fusionskontrolle]
-   3.2 [Weitere CPs]
+ 3.1 Kartellfreigabe [§§ 35 ff. GWB / EU-Fusionskontrolle]
+ 3.2 [Weitere CPs]
 4. Vollzug (Closing)
-   4.1 Closing-Datum
-   4.2 Vollzugshandlungen (Deliverables)
+ 4.1 Closing-Datum
+ 4.2 Vollzugshandlungen (Deliverables)
 5. Representations and Warranties des Verkaefers
-   5.1 Corporate/Title
-   5.2 Financial Statements
-   5.3 [...]
+ 5.1 Corporate/Title
+ 5.2 Financial Statements
+ 5.3 [...]
 6. Representations and Warranties des Kaeufers
 7. Covenants pre-Closing (Interim Operating Covenants)
 8. Covenants post-Closing
 9. Haftung und Rechtsfolgen von Warranty-Verletzungen
-   9.1 Haftungslimite (De-Minimis, Basket, Cap)
-   9.2 Verjährung
-   9.3 Anti-Sandbagging
+ 9.1 Haftungslimite (De-Minimis, Basket, Cap)
+ 9.2 Verjährung
+ 9.3 Anti-Sandbagging
 10. Specific Indemnities (Freistellungen)
 11. MAC-Klausel / Material Adverse Change
 12. Ruecktrittsrechte

@@ -1,13 +1,13 @@
 ---
 name: self-preferencing-sep-frand-siec-test-aeuv
-description: "Nutze dies, wenn Self Preferencing Plattformen, Sep Frand Kartellrecht, Siec Test Eu Merger Control, Siec Test Horizontale Fusion, Spezial Aeuv Behörden Gericht Und Registerweg im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Self Preferencing Plattformen, Sep Frand Kartellrecht, Siec Test Eu Merger Control, Siec Test Horizontale Fusion, Spezial Aeuv Behörden Gericht Und Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Self Preferencing Plattformen, Sep Frand Kartellrecht, Siec Test Eu Merger Control, Siec Test Horizontale Fusion, Spezial Aeuv Behörden Gericht Und Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Self Preferencing Plattformen, Sep Frand Kartellrecht, Siec Test Eu Merger Control, Siec Test Horizontale Fusion: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Self Preferencing Plattformen, Sep Frand Kartellrecht, Siec Test Eu Merger Control, Siec Test Horizontale Fusion, Spezial Aeuv Behörden Gericht Und Registerweg
+# Self Preferencing Plattformen, Sep Frand Kartellrecht, Siec Test Eu Merger Control, Siec Test Horizontale Fusion, Aeuv Behörden Gericht Und Registerweg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Self Preferencing Plattformen, Sep Frand Kartellrecht, Siec Test Eu Merger Control, Siec Test Horizontale Fusion, Aeuv Behörden Gericht Und Registerweg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,13 +15,13 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `self-preferencing-plattformen` | Self-Preferencing Plattformen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `sep-frand-kartellrecht` | SEP FRAND Kartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `siec-test-eu-merger-control` | SIEC-Test EU Fusionskontrolle: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft horizontale, vertikale, konglomerate und potenzielle Wettbewerbswirkungen strukturieren, Evidenz, Fristen, Strategie und Quellen. |
+| `siec-test-eu-merger-control` | SIEC-Test EU Fusionskontrolle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft horizontale, vertikale, konglomerate und potenzielle Wettbewerbswirkungen strukturieren, Evidenz, Fristen, Strategie und Quellen. |
 | `siec-test-horizontale-fusion` | SIEC-Test horizontale Fusion: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `spezial-aeuv-behoerden-gericht-und-registerweg` | Aeuv: Behörden-, Gerichts- oder Registerweg im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-Für **Self Preferencing Plattformen, Sep Frand Kartellrecht, Siec Test Eu Merger Control, Siec Test Horizontale Fusion, Spezial Aeuv Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Self Preferencing Plattformen, Sep Frand Kartellrecht, Siec Test Eu Merger Control, Siec Test Horizontale Fusion, Aeuv Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `kartellrecht-marktabgrenzung-pruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -118,7 +118,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `siec-test-eu-merger-control`
 
-**Fokus:** SIEC-Test EU Fusionskontrolle: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft horizontale, vertikale, konglomerate und potenzielle Wettbewerbswirkungen strukturieren, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** SIEC-Test EU Fusionskontrolle: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft horizontale, vertikale, konglomerate und potenzielle Wettbewerbswirkungen strukturieren, Evidenz, Fristen, Strategie und Quellen.
 
 # SIEC-Test EU Fusionskontrolle
 
@@ -218,7 +218,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 # Aeuv: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Aeuv: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Aeuv: Behörden-, Gerichts- oder Registerweg / spezial aeuv behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aeuv: Behörden-, Gerichts- oder Registerweg / aeuv behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

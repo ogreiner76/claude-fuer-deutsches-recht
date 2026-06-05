@@ -35,7 +35,7 @@ Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit 
 - **BDSG** § 22 öffentlicher Bereich; § 26 BDSG Beschäftigte.
 - **EuGH** Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija (Anschluss zur weiten Auslegung biometrischer Daten).
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Funktion exakt benennen.** "Personenerkennung" ist nicht gleich "Identifikation". Detection ≠ Recognition ≠ Identification ≠ Verifikation.
 2. **Verbots-Check Art. 5 KI-VO.** Arbeitsplatz/Bildung + Emotion? Social Scoring? Massensammlung? Echtzeit-Biometrie in öffentlichem Raum?

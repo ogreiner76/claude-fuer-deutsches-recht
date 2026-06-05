@@ -1,6 +1,6 @@
 ---
 name: subscription-abonnement
-description: "Branchen-Spezialskill für Subscription Abonnement: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Subscription Abonnement: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Subscription Abonnement

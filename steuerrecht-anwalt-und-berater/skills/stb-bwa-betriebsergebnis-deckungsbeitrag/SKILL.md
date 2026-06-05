@@ -61,18 +61,18 @@ Die Standard-BWA weist ein Betriebsergebnis nach Block-Logik aus. Fuer Steuerung
 ### Phase 2 — Stufendeckungsbeitrag konfigurieren
 
 ```
-Umsatzerloese                          [Umsatz]
+Umsatzerloese [Umsatz]
 - Variable Kosten (Material, FL, var. Lohn) [Var. K]
-= DECKUNGSBEITRAG I (Rohgewinn)        [DB I]
+= DECKUNGSBEITRAG I (Rohgewinn) [DB I]
 - Fixkosten der Kostenstelle / des Produkts [Fix-KSt]
-= DECKUNGSBEITRAG II                   [DB II]
-- Allgemeine Fixkosten Unternehmen     [Allg. Fix]
-= BETRIEBSERGEBNIS / EBITDA            [BE]
-- Abschreibungen                       [AfA]
+= DECKUNGSBEITRAG II [DB II]
+- Allgemeine Fixkosten Unternehmen [Allg. Fix]
+= BETRIEBSERGEBNIS / EBITDA [BE]
+- Abschreibungen [AfA]
 = EBIT
-- Zinsergebnis                         [Zins]
+- Zinsergebnis [Zins]
 = EBT (Ergebnis vor Steuern)
-- Ertragsteuern                        [Steuern]
+- Ertragsteuern [Steuern]
 = JAHRESUEBERSCHUSS
 ```
 

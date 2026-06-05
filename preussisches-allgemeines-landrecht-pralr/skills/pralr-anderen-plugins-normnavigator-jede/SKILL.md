@@ -1,13 +1,13 @@
 ---
 name: pralr-anderen-plugins-normnavigator-jede
-description: "Nutze dies, wenn Pralr 050 Pralr In Anderen Plugins Routen, Pralr Neu 001 Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Neu 002 Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Neu 003 Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Neu 004 Erster Teil Titel 1 Personen Und Stand im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr 050 Pralr In Anderen Plugins Routen, Pralr Neu 001 Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Neu 002 Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Neu 003 Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Neu 004 Erster Teil Titel 1 Personen Und Stand prüfen.; Erstelle eine Arbeitsfassung zu Pralr 050 Pralr In Anderen Plugins Routen, Pralr Neu 001 Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Neu 002 Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Neu 003 Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Neu 004 Erster Teil Tite..."
+description: "Nutze dies bei Pralr 050 Pralr In Anderen Plugins Routen, Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Einleitung Normkarte Allgemeine Rechtsgrundsaetze: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Pralr 050 Pralr In Anderen Plugins Routen, Pralr Neu 001 Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Neu 002 Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Neu 003 Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Neu 004 Erster Teil Titel 1 Personen Und Stand
+# Pralr 050 Pralr In Anderen Plugins Routen, Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Erster Teil Titel 1 Personen Und Stand
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr 050 Pralr In Anderen Plugins Routen, Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Erster Teil Titel 1 Personen Und Stand** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Pralr 050 Pralr In Anderen Plugins Routen, Pralr Neu 001 Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Neu 002 Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Neu 003 Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Neu 004 Erster Teil Titel 1 Personen Und Stand** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr 050 Pralr In Anderen Plugins Routen, Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Einleitung Normkarte Allgemeine Rechtsgrundsaetze, Pralr Erster Teil Titel 1 Personen Und Stand** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -67,7 +67,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 **Fokus:** PrALR: Normnavigator jede PrALR-Norm als Karte erschließen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 001 Normnavigator Jede Pralr Norm Als Karte Erschliess
+# Pralr Normnavigator Jede Pralr Norm Als Karte Erschliess
 
 ## Aufgabe
 
@@ -121,7 +121,7 @@ Pro Norm: Quellenanker, Inhalt, Subsumtion, Vergleich BGB.
 
 **Fokus:** PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 002 Textzeugenvergleich 1794 1804 Ausgabe Und Ocr
+# Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr
 
 ## Aufgabe
 

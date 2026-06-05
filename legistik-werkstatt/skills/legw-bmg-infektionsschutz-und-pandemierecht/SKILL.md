@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Infektionsschutz und Pandemierecht
-Ressort:            BMG
-Kernnormen:         IfSG; IGV-AusfG; ImpfschadenAnerkennung; SGB V (Tests und Impfen).
-Akteure/Aufsicht:   RKI; PEI; BMG; Laender-Gesundheitsbehoerden; Gesundheitsaemter; STIKO.
-EU/Voelkerrecht:    ECDC; HERA; EU-Health Union; IGV der WHO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmg; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Infektionsschutz und Pandemierecht
+Ressort: BMG
+Kernnormen: IfSG; IGV-AusfG; ImpfschadenAnerkennung; SGB V (Tests und Impfen).
+Akteure/Aufsicht: RKI; PEI; BMG; Laender-Gesundheitsbehoerden; Gesundheitsaemter; STIKO.
+EU/Voelkerrecht: ECDC; HERA; EU-Health Union; IGV der WHO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

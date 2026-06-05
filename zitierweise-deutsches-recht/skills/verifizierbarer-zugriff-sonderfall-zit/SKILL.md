@@ -1,13 +1,13 @@
 ---
 name: verifizierbarer-zugriff-sonderfall-zit
-description: "Nutze dies, wenn Spezial Verifizierbarer Verhandlung Vergleich Und Eskalation, Spezial Zugriff Sonderfall Und Edge Case, Zit Gesetzeszitierung Bauleiter im Plugin Zitierweise Deutsches Recht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verifizierbarer Verhandlung Vergleich Und Eskalation, Spezial Zugriff Sonderfall Und Edge Case, Zit Gesetzeszitierung Bauleiter prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verifizierbarer Verhandlung Vergleich Und Eskalation, Spezial Zugriff Sonderfall Und Edge Case, Zit Gesetzeszitierung Bauleiter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verifizierbarer Verhandlung Vergleich Und Eskalation, Zugriff Sonderfall Und Edge Case, Zit Gesetzeszitierung Bauleiter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verifizierbarer Verhandlung Vergleich Und Eskalation, Spezial Zugriff Sonderfall Und Edge Case, Zit Gesetzeszitierung Bauleiter
+# Verifizierbarer Verhandlung Vergleich Und Eskalation, Zugriff Sonderfall Und Edge Case, Zit Gesetzeszitierung Bauleiter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verifizierbarer Verhandlung Vergleich Und Eskalation, Zugriff Sonderfall Und Edge Case, Zit Gesetzeszitierung Bauleiter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verifizierbarer Verhandlung Vergleich Und Eskalation, Spezial Zugriff Sonderfall Und Edge Case, Zit Gesetzeszitierung Bauleiter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zitierweise-deutsches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verifizierbarer Verhandlung Vergleich Und Eskalation, Zugriff Sonderfall Und Edge Case, Zit Gesetzeszitierung Bauleiter** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zitierweise-deutsches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Verifizierbarer Verhandlung Vergleich Und Eskalation, Spezial Zug
 # Verifizierbarer: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Verifizierbarer: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Verifizierbarer: Verhandlung, Vergleich und Eskalation / spezial verifizierbarer verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verifizierbarer: Verhandlung, Vergleich und Eskalation / verifizierbarer verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -79,7 +79,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Zugriff: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Zugriff: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Zugriff: Sonderfall und Edge-Case-Prüfung / spezial zugriff sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Zugriff: Sonderfall und Edge-Case-Prüfung / zugriff sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: pralr-erster-titel-erwerb-eigentum
-description: "Nutze dies, wenn Pralr Neu 010 Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Neu 011 Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Neu 012 Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Neu 013 Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Neu 014 Erster Teil Titel 11 Kauf Tausch Schenkung im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr Neu 010 Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Neu 011 Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Neu 012 Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Neu 013 Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Neu 014 Erster Teil Titel 11 Kauf Tausch Schenkung prüfen.; Erstelle eine Arbeitsfassung zu Pralr Neu 010 Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Neu 011 Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Neu 012 Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pral..."
+description: "Nutze dies bei Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Pralr Neu 010 Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Neu 011 Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Neu 012 Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Neu 013 Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Neu 014 Erster Teil Titel 11 Kauf Tausch Schenkung
+# Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Erster Teil Titel 11 Kauf Tausch Schenkung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Erster Teil Titel 11 Kauf Tausch Schenkung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Pralr Neu 010 Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Neu 011 Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Neu 012 Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Neu 013 Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Neu 014 Erster Teil Titel 11 Kauf Tausch Schenkung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un, Pralr Erster Teil Titel 11 Kauf Tausch Schenkung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `preussisches-allgemeines-landrecht-pralr` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -30,7 +30,7 @@ Für **Pralr Neu 010 Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr N
 
 **Fokus:** PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 010 Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums
+# Pralr Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums
 
 ## Aufgabe
 
@@ -79,7 +79,7 @@ A wird die Pferdekutsche gestohlen; gelangt zu B.
 
 **Fokus:** PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 011 Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac
+# Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac
 
 ## Aufgabe
 
@@ -197,7 +197,7 @@ ALR I 9 / I 22 / I 23 regelt Grundstuecksrecht, Grenzen, Nachbarrecht, Notwege, 
 
 **Fokus:** PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 013 Erster Teil Titel 10 Dienstbarkeiten Reallasten Un
+# Pralr Erster Teil Titel 10 Dienstbarkeiten Reallasten Un
 
 ## Aufgabe
 
@@ -236,7 +236,7 @@ Dorfgemeinschaft hat Hutungsrecht (Weiderecht) auf Adelsgrundstueck.
 
 **Fokus:** PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Pralr Neu 014 Erster Teil Titel 11 Kauf Tausch Schenkung
+# Pralr Erster Teil Titel 11 Kauf Tausch Schenkung
 
 ## Aufgabe
 

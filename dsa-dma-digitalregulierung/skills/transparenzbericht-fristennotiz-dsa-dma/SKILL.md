@@ -1,13 +1,13 @@
 ---
 name: transparenzbericht-fristennotiz-dsa-dma
-description: "Nutze dies, wenn Spezial Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa prüfen.; Erstelle eine Arbeitsfassung zu Spezial Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa
+# Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,11 +15,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spezial-transparenzbericht-fristennotiz-und-naechster-schritt` | Transparenzbericht: Fristennotiz und nächster Schritt im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `dsa-dma-bussgeldverteidigung` | Verteidigung gegen Bussgelder nach DSA und DMA: bis 6 Prozent (DSA) und 10 Prozent (DMA) des weltweiten Jahresumsatzes. Verfahrensgang vor EU-Kommission und Klage Art. 263 AEUV. Akteneinsicht, Anhoerung, Settlements. Beweislast, Verhaeltnismaessigkeit, Wiederholungsfaktor. Strategiememo und Schriftsatzbausteine. |
-| `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` | Workflow-Skill zu account sperre soziales netzwerk rechtsbehelfe art 20 23 dsa. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` | Arbeitsmodul zu account sperre soziales netzwerk rechtsbehelfe art 20 23 dsa: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Spezial Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bussgeldverteidigung, Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Transparenzbericht Fristennotiz Und Naechster Schritt, Dsa Dma Bu
 # Transparenzbericht: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Transparenzbericht: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Transparenzbericht: Fristennotiz und nächster Schritt / spezial transparenzbericht fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Transparenzbericht: Fristennotiz und nächster Schritt / transparenzbericht fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -119,7 +119,7 @@ Dieser Skill gehoert zum Plugin `dsa-dma-digitalregulierung`. Er ergaenzt die ue
 
 ## 3. `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa`
 
-**Fokus:** Workflow-Skill zu account sperre soziales netzwerk rechtsbehelfe art 20 23 dsa. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu account sperre soziales netzwerk rechtsbehelfe art 20 23 dsa: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA
 
@@ -133,10 +133,10 @@ Nutzer wird auf einer Online-Plattform gesperrt (Account-Sperre, Schattensperre,
 
 - **Klare und spezifische Begründung** der Beschränkung, in präziser, leicht verständlicher Sprache
 - Inhalt der Begründung Art. 17 Abs. 3:
-  - Art der Beschränkung (Sichtbarkeit, Geldwert, Bezahlung, Hosting, Account-Sperre)
-  - Sachverhalt und Umstände
-  - **Rechtliche oder vertragliche Grundlage** und Erklärung warum sie passt
-  - Information über **Beschwerdemöglichkeiten** (Art. 20, 21)
+ - Art der Beschränkung (Sichtbarkeit, Geldwert, Bezahlung, Hosting, Account-Sperre)
+ - Sachverhalt und Umstände
+ - **Rechtliche oder vertragliche Grundlage** und Erklärung warum sie passt
+ - Information über **Beschwerdemöglichkeiten** (Art. 20, 21)
 - Versand in **DSA Transparency Database** (öffentlich)
 - **Fehlt eine wirksame Begründung, ist die Sperre formal rechtswidrig** — schon hier ansetzen
 
@@ -166,9 +166,9 @@ Nutzer wird auf einer Online-Plattform gesperrt (Account-Sperre, Schattensperre,
 
 - **§§ 935, 940 ZPO** — einstweilige Verfügung auf Wiederherstellung des Zugangs / Reichweitenfreigabe
 - Verfügungsgrund regelmäßig zu bejahen, insbesondere bei:
-  - Wirtschaftlicher Abhängigkeit (Creator, Händler)
-  - Wahlnähe und politischer Kommunikation
-  - Drohender irreversibler Reichweitenverlust
+ - Wirtschaftlicher Abhängigkeit (Creator, Händler)
+ - Wahlnähe und politischer Kommunikation
+ - Drohender irreversibler Reichweitenverlust
 - Streitwert orientiert sich an wirtschaftlicher Bedeutung, oft 5 000 bis 25 000 EUR
 
 #### Internationale Zuständigkeit

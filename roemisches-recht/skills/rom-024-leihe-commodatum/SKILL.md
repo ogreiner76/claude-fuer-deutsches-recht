@@ -1,6 +1,6 @@
 ---
 name: rom-024-leihe-commodatum
-description: "Römisches Recht: Leihe Commodatum. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Leihe Commodatum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Leihe Commodatum

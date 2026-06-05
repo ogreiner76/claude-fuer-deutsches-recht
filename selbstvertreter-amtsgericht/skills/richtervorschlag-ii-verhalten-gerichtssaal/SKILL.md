@@ -1,13 +1,13 @@
 ---
 name: richtervorschlag-ii-verhalten-gerichtssaal
-description: "Nutze dies, wenn Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laienleitfaden, Video Verhandlung 128A Zpo im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laienleitfaden, Video Verhandlung 128A Zpo prüfen.; Erstelle eine Arbeitsfassung zu Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laienleitfaden, Video Verhandlung 128A Zpo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laienleitfaden, Video Verhandlung 128a Zpo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laienleitfaden, Video Verhandlung 128A Zpo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vergleich Richtervorschlag 278 Ii Zpo, Verhalten Gerichtssaal Laienleitfaden, Video Verhandlung 128A Zpo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -115,14 +115,14 @@ Bei Einigung: Vorsitzender protokolliert.
 Vergleich:
 
 1. Der Beklagte zahlt an die Klaegerin
-   1.100 EUR bis spaetestens [Datum].
+ 1.100 EUR bis spaetestens [Datum].
 
 2. Die Kosten des Rechtsstreits werden
-   gegeneinander aufgehoben.
+ gegeneinander aufgehoben.
 
 3. Mit Erfuellung dieses Vergleichs sind
-   alle gegenseitigen Anspruechre aus
-   diesem Streit erledigt.
+ alle gegenseitigen Anspruechre aus
+ diesem Streit erledigt.
 ```
 
 Beide Parteien stimmen muendlich zu. Protokoll wird vorgelesen oder vorgegeben (Aufzeichnung mit § 159 ZPO).

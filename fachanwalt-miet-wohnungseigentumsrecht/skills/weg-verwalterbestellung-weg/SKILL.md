@@ -1,34 +1,34 @@
 ---
 name: weg-verwalterbestellung-weg
-description: "Nutze dies, wenn Spezial Weg Verwalterbestellung, Spezial Weg Verwalterpflichtverletzung, Spezial Weg Verwaltungsbeirat Kommunikation, Spezial Weg Waermepumpe Geg, Spezial Weg Weihnachtsbaum Verkehrssicherung im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Weg Verwalterbestellung, Spezial Weg Verwalterpflichtverletzung, Spezial Weg Verwaltungsbeirat Kommunikation, Spezial Weg Waermepumpe Geg, Spezial Weg Weihnachtsbaum Verkehrssicherung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Weg Verwalterbestellung, Spezial Weg Verwalterpflichtverletzung, Spezial Weg Verwaltungsbeirat Kommunikation, Spezial Weg Waermepumpe Geg, Spezial Weg Weihnachtsbaum Verkehrssicherung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Weg Verwalterbestellung, Weg Verwalterpflichtverletzung, Weg Verwaltungsbeirat Kommunikation, Weg Waermepumpe Geg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Weg Verwalterbestellung, Spezial Weg Verwalterpflichtverletzung, Spezial Weg Verwaltungsbeirat Kommunikation, Spezial Weg Waermepumpe Geg, Spezial Weg Weihnachtsbaum Verkehrssicherung
+# Weg Verwalterbestellung, Weg Verwalterpflichtverletzung, Weg Verwaltungsbeirat Kommunikation, Weg Waermepumpe Geg, Weg Weihnachtsbaum Verkehrssicherung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Weg Verwalterbestellung, Weg Verwalterpflichtverletzung, Weg Verwaltungsbeirat Kommunikation, Weg Waermepumpe Geg, Weg Weihnachtsbaum Verkehrssicherung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-weg-verwalterbestellung` | Verwalterbestellung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bestellung, Vertrag, zertifizierter Verwalter, Laufzeit, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-verwalterpflichtverletzung` | Verwalterpflichtverletzung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Pflicht, Beschlussumsetzung, Schaden, Entlastung, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-verwaltungsbeirat-kommunikation` | Beiratskommunikation: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft E-Mail-Verteiler, Datenschutz, Protokoll, Beschlussvorbereitung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-waermepumpe-geg` | WEG Wärmepumpe/GEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft GEG-Pflichten, Beschluss, Duldung, Finanzierung und Mieterschnittstellen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-weg-weihnachtsbaum-verkehrssicherung` | Weihnachtsbaum/Verkehrssicherung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Aufstellung, Brandschutz, Haftung, Beschluss, Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-verwalterbestellung` | Verwalterbestellung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bestellung, Vertrag, zertifizierter Verwalter, Laufzeit, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-verwalterpflichtverletzung` | Verwalterpflichtverletzung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Pflicht, Beschlussumsetzung, Schaden, Entlastung, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-verwaltungsbeirat-kommunikation` | Beiratskommunikation: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft E-Mail-Verteiler, Datenschutz, Protokoll, Beschlussvorbereitung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-waermepumpe-geg` | WEG Wärmepumpe/GEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft GEG-Pflichten, Beschluss, Duldung, Finanzierung und Mieterschnittstellen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-weg-weihnachtsbaum-verkehrssicherung` | Weihnachtsbaum/Verkehrssicherung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Aufstellung, Brandschutz, Haftung, Beschluss, Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Weg Verwalterbestellung, Spezial Weg Verwalterpflichtverletzung, Spezial Weg Verwaltungsbeirat Kommunikation, Spezial Weg Waermepumpe Geg, Spezial Weg Weihnachtsbaum Verkehrssicherung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Weg Verwalterbestellung, Weg Verwalterpflichtverletzung, Weg Verwaltungsbeirat Kommunikation, Weg Waermepumpe Geg, Weg Weihnachtsbaum Verkehrssicherung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-weg-verwalterbestellung`
 
-**Fokus:** Verwalterbestellung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bestellung, Vertrag, zertifizierter Verwalter, Laufzeit, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Verwalterbestellung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Bestellung, Vertrag, zertifizierter Verwalter, Laufzeit, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Verwalterbestellung
 
@@ -42,9 +42,9 @@ Für **Spezial Weg Verwalterbestellung, Spezial Weg Verwalterpflichtverletzung, 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Bestellung, Vertrag, zertifizierter Verwalter, Laufzeit, Abberufung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Bestellung, Vertrag, zertifizierter Verwalter, Laufzeit, Abberufung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-weg-verwalterpflichtverletzung`
 
-**Fokus:** Verwalterpflichtverletzung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Pflicht, Beschlussumsetzung, Schaden, Entlastung, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Verwalterpflichtverletzung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Pflicht, Beschlussumsetzung, Schaden, Entlastung, Abberufung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Verwalterpflichtverletzung
 
@@ -87,9 +87,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Pflicht, Beschlussumsetzung, Schaden, Entlastung, Abberufung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Pflicht, Beschlussumsetzung, Schaden, Entlastung, Abberufung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -118,7 +118,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-weg-verwaltungsbeirat-kommunikation`
 
-**Fokus:** Beiratskommunikation: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft E-Mail-Verteiler, Datenschutz, Protokoll, Beschlussvorbereitung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Beiratskommunikation: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft E-Mail-Verteiler, Datenschutz, Protokoll, Beschlussvorbereitung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Beiratskommunikation
 
@@ -132,9 +132,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft E-Mail-Verteiler, Datenschutz, Protokoll, Beschlussvorbereitung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft E-Mail-Verteiler, Datenschutz, Protokoll, Beschlussvorbereitung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -163,7 +163,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-weg-waermepumpe-geg`
 
-**Fokus:** WEG Wärmepumpe/GEG: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft GEG-Pflichten, Beschluss, Duldung, Finanzierung und Mieterschnittstellen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Wärmepumpe/GEG: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft GEG-Pflichten, Beschluss, Duldung, Finanzierung und Mieterschnittstellen; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Wärmepumpe/GEG
 
@@ -177,9 +177,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft GEG-Pflichten, Beschluss, Duldung, Finanzierung und Mieterschnittstellen.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft GEG-Pflichten, Beschluss, Duldung, Finanzierung und Mieterschnittstellen.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -208,7 +208,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-weg-weihnachtsbaum-verkehrssicherung`
 
-**Fokus:** Weihnachtsbaum/Verkehrssicherung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Aufstellung, Brandschutz, Haftung, Beschluss, Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Weihnachtsbaum/Verkehrssicherung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Aufstellung, Brandschutz, Haftung, Beschluss, Versicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Weihnachtsbaum/Verkehrssicherung
 
@@ -222,9 +222,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Aufstellung, Brandschutz, Haftung, Beschluss, Versicherung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Aufstellung, Brandschutz, Haftung, Beschluss, Versicherung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

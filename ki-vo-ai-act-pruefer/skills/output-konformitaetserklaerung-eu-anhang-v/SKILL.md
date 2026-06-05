@@ -24,52 +24,52 @@ nach Anhang V der Verordnung (EU) 2024/1689
 Nr.: [Eindeutige Erklärungsnummer]
 
 1. Bezeichnung des KI-Systems:
-   [Produktname, Modellbezeichnung, Version]
+ [Produktname, Modellbezeichnung, Version]
 
 2. Name und Anschrift des Anbieters:
-   [Firma]
-   [Straße und Hausnummer]
-   [PLZ Ort]
-   [EU-Mitgliedstaat]
+ [Firma]
+ [Straße und Hausnummer]
+ [PLZ Ort]
+ [EU-Mitgliedstaat]
 
 3. Name und Anschrift des Bevollmächtigten
-   (falls außerhalb EU):
-   [Name und Anschrift des Bevollmächtigten]
+ (falls außerhalb EU):
+ [Name und Anschrift des Bevollmächtigten]
 
 4. Die alleinige Verantwortung für die
-   Ausstellung dieser Konformitätserklärung
-   trägt der Anbieter.
+ Ausstellung dieser Konformitätserklärung
+ trägt der Anbieter.
 
 5. Gegenstand der Erklärung
-   (Identifikation des KI-Systems, das eine
-   Rückverfolgung ermöglicht):
-   [Beschreibung des KI-Systems]
-   [Verwendungszweck]
-   [Versionsnummer oder Seriennummer]
+ (Identifikation des KI-Systems, das eine
+ Rückverfolgung ermöglicht):
+ [Beschreibung des KI-Systems]
+ [Verwendungszweck]
+ [Versionsnummer oder Seriennummer]
 
 6. Der oben beschriebene Gegenstand der
-   Erklärung entspricht den einschlägigen
-   Unionsrechtsvorschriften:
-   Verordnung (EU) 2024/1689 (KI-VO)
+ Erklärung entspricht den einschlägigen
+ Unionsrechtsvorschriften:
+ Verordnung (EU) 2024/1689 (KI-VO)
 
 7. Angaben zu den angewandten harmonisierten
-   Normen, gemeinsamen Spezifikationen oder
-   sonstigen Spezifikationen, auf die sich
-   die Konformitätserklärung bezieht:
-   [Harmonisierte Norm nur nennen, wenn einschlaegige Fundstelle im Amtsblatt der EU veroeffentlicht ist]
-   [Verweis auf gemeinsame Spezifikationen, falls einschlaegig]
-   [Verweis auf sonstige technische Spezifikationen, z.B. interne Tests oder ISO/IEC-Standards ohne Vermutungswirkung]
+ Normen, gemeinsamen Spezifikationen oder
+ sonstigen Spezifikationen, auf die sich
+ die Konformitätserklärung bezieht:
+ [Harmonisierte Norm nur nennen, wenn einschlaegige Fundstelle im Amtsblatt der EU veroeffentlicht ist]
+ [Verweis auf gemeinsame Spezifikationen, falls einschlaegig]
+ [Verweis auf sonstige technische Spezifikationen, z.B. interne Tests oder ISO/IEC-Standards ohne Vermutungswirkung]
 
 8. Angaben zur beteiligten benannten Stelle
-   (falls zutreffend):
-   [Name der benannten Stelle]
-   [Kennnummer der benannten Stelle]
-   [Art der Konformitätsbewertung]
-   [Bescheinigungsnummer und -datum]
+ (falls zutreffend):
+ [Name der benannten Stelle]
+ [Kennnummer der benannten Stelle]
+ [Art der Konformitätsbewertung]
+ [Bescheinigungsnummer und -datum]
 
 9. Zusätzliche Informationen
-   [Besondere Einsatzbedingungen,
-    Einschränkungen oder Hinweise]
+ [Besondere Einsatzbedingungen,
+ Einschränkungen oder Hinweise]
 
 Unterzeichnet für und im Namen des Anbieters:
 
@@ -142,7 +142,7 @@ Gepruefte Norm(en): [Anhang V Rn. 2]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

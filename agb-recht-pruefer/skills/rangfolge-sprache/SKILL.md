@@ -1,6 +1,6 @@
 ---
 name: rangfolge-sprache
-description: "Klausel-Spezialskill für Rangfolge Sprache: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Rangfolge Sprache: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Rangfolge Sprache

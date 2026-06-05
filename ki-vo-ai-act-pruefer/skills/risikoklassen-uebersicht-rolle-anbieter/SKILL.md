@@ -1,13 +1,13 @@
 ---
 name: risikoklassen-uebersicht-rolle-anbieter
-description: "Nutze dies, wenn Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3 im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3 prüfen.; Erstelle eine Arbeitsfassung zu Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Risikoklassen Uebersicht Und Triage, Rolle Anbieter Prüfen Art 3 Nr 3, Rolle Betreiber Prüfen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -252,7 +252,7 @@ Gepruefte Norm(en): [Art. 3 Nr. 3 Rn. 5]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -371,7 +371,7 @@ Gepruefte Norm(en): [Art. 3 Nr. 4 Rn. 6]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

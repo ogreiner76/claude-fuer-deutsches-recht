@@ -1,13 +1,13 @@
 ---
 name: waehlen-rechtsprechung-recherche-europarecht
-description: "Nutze dies, wenn Workflow Output Waehlen, Rechtsprechung Recherche Strategie, Spezial Europarecht Fristen Form Und Zustaendigkeit im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Workflow Output Waehlen, Rechtsprechung Recherche Strategie, Spezial Europarecht Fristen Form Und Zustaendigkeit prüfen.; Erstelle eine Arbeitsfassung zu Workflow Output Waehlen, Rechtsprechung Recherche Strategie, Spezial Europarecht Fristen Form Und Zustaendigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Output Waehlen, Rechtsprechung Recherche Strategie, Europarecht Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Output Waehlen, Rechtsprechung Recherche Strategie, Spezial Europarecht Fristen Form Und Zustaendigkeit
+# Output Waehlen, Rechtsprechung Recherche Strategie, Europarecht Fristen Form Und Zustaendigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Output Waehlen, Rechtsprechung Recherche Strategie, Europarecht Fristen Form Und Zustaendigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Output Waehlen, Rechtsprechung Recherche Strategie, Spezial Europarecht Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Output Waehlen, Rechtsprechung Recherche Strategie, Europarecht Fristen Form Und Zustaendigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Workflow Output Waehlen, Rechtsprechung Recherche Strategie, Spezial Euro
 
 ## Aufgabe
 
-Dieser Workflow-Skill wählt den richtigen Output-Typ für die Arbeitsaufgabe. Er unterscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline und Mandantenübersetzung und gibt Stil- und Formatierungsanweisungen.
+Dieser Arbeitsmodul wählt den richtigen Output-Typ für die Arbeitsaufgabe. Er unterscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline und Mandantenübersetzung und gibt Stil- und Formatierungsanweisungen.
 
 ## Output-Typen und wann sie passen
 
@@ -80,9 +80,9 @@ Wer liest den Output?
 - "Hier liegt ein Vertrag vor, weil die Parteien einen Vertrag geschlossen haben" → Zirkelschluss.
 - Statt dessen: "Hier liegt ein Vertrag iSd § 145 BGB vor, weil A am TT.MM.JJJJ ein Angebot iSd § 145 BGB abgegeben hat (Tatsachen) und B am TT.MM.JJJJ durch Erklärung Y angenommen hat (§ 147 BGB)."
 
-## Kaltstart
+## Einstieg
 
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -94,7 +94,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Output-Typ anhand der Entscheidungsmatrix bestimmen.
 3. Stil- und Strukturanweisungen für den gewählten Output-Typ anwenden.
-4. Passende Spezialskills vorschlagen.
+4. Passende Fachmodule vorschlagen.
 5. Ein sofort nutzbares Ergebnis erzeugen.
 
 ## Output-Standard
@@ -263,7 +263,7 @@ Dieser Skill prüft die verfahrensrechtlichen Dimensionen europarechtlicher Sach
 - Elektronische Einreichung empfohlen; postalisch möglich
 - Aussetzung des Ausgangsverfahrens § 148 ZPO analog oder spezieller Aussetzungsgrund
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

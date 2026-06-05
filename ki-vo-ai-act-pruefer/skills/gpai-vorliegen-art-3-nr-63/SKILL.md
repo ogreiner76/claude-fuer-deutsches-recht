@@ -47,7 +47,7 @@ Ein GPAI-System ist ein KI-System auf Basis eines GPAI-Modells, das für eine Vi
 Prüffragen:
 - Gibt es eine Chat-, Agenten-, API- oder Tool-Oberfläche für Nutzer?
 - Kann das System Texte, Bilder, Code, Empfehlungen oder andere Inhalte für viele Zwecke erzeugen?
-- Ist das System in einen konkreten Fachworkflow eingebettet oder bleibt es allgemeiner Assistent?
+- Ist das System in einen konkreten Facheingebettet oder bleibt es allgemeiner Assistent?
 
 ## Hochrisiko-Abgrenzung
 

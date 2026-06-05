@@ -1,19 +1,19 @@
 ---
 name: thema-look-feel-matter-file-outside-target
-description: "Nutze dies, wenn Mittelstand Corporate Ma Kommandocenter, Mittelstand Corporate Ma Look And Feel, Mittelstand Corporate Ma Matter File, Mittelstand Corporate Ma Outside In Target Screening im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Mittelstand Corporate Ma Kommandocenter, Mittelstand Corporate Ma Look And Feel, Mittelstand Corporate Ma Matter File, Mittelstand Corporate Ma Outside In Target Screening prüfen.; Erstelle eine Arbeitsfassung zu Mittelstand Corporate Ma Kommandocenter, Mittelstand Corporate Ma Look And Feel, Mittelstand Corporate Ma Matter File, Mittelstand Corporate Ma Outside In Target Screening.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mittelstand Corporate Ma Kommandocenter, Mittelstand Corporate Ma Look And Feel, Mittelstand Corporate Ma Matter File, Mittelstand Corporate Ma Outside In Target Screening: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mittelstand Corporate Ma Kommandocenter, Mittelstand Corporate Ma Look And Feel, Mittelstand Corporate Ma Matter File, Mittelstand Corporate Ma Outside In Target Screening
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mittelstand Corporate Ma Kommandocenter, Mittelstand Corporate Ma Look And Feel, Mittelstand Corporate Ma Matter File, Mittelstand Corporate Ma Outside In Target Screening** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `mittelstand-corporate-ma-kommandocenter` | Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-Workflow und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion. |
+| `mittelstand-corporate-ma-kommandocenter` | Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion. |
 | `mittelstand-corporate-ma-look-and-feel` | Kanzlei oder Plugin-Entwickler definiert visuelles Erscheinungsbild des Deal-Copiloten: ruhig edel blaeulch-silbern warmes Orange für Entscheidungspunkte. Normen keine (UI/UX-Guideline). Prüfraster Farbpalette Typografie Informationsdichte Branding-Konformität. Output Style-Guide Farb-Definitionen Layout-Regeln. Abgrenzung zu allen Fach-Skills (nur visuelles Rahmen-Setup). |
 | `mittelstand-corporate-ma-matter-file` | Deal-Akte: Legt die Transaktionsakte als Matter Workspace an: Struktur, Workstreams, Datenraumspiegel, Register, Q&A, SPA, Signing, Closing und PMI. |
 | `mittelstand-corporate-ma-outside-in-target-screening` | Outside-in Target Screening: Erstellt fruehe Zielobjekt- und Pipeline-Analysen aus öffentlichen Informationen, Nachrichten, Registern, Finanzdaten und Branchenhinweisen. |
@@ -27,7 +27,7 @@ Für **Mittelstand Corporate Ma Kommandocenter, Mittelstand Corporate Ma Look An
 
 ## 1. `mittelstand-corporate-ma-kommandocenter`
 
-**Fokus:** Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-Workflow und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion.
+**Fokus:** Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion.
 
 # Deal-Kommandocenter
 
@@ -143,7 +143,7 @@ Schnellstart für Corporate/M&A-Mandate. Der Skill erkennt aus einem Satz, Daten
 - Dealtyp und Parteiperspektive erkennen: Buy-side, Sell-side, Management, W&I-Versicherer, Public M&A oder Restrukturierung.
 - Maximal drei Rückfragen stellen, danach mit vorsichtigen Annahmen und TODOs arbeiten.
 - Deal-Phase bestimmen: Origination, Vorbereitung, Datenraum, Due Diligence, Vertrag, Signing/Closing, Integration oder Streit/Restrukturierung.
-- Den passenden internen Spezialskill routen und rote Schwellen sichtbar machen.
+- Den passenden internen Fachmodul routen und rote Schwellen sichtbar machen.
 - Anfängerfreundlich bleiben: fehlende Begriffe erklären, aber den Arbeitsfluss nicht aufhalten.
 
 ## Interne Routing-Karte

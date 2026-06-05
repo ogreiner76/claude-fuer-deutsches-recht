@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-sus-bilanz-pruefung
-description: "Workflow-Skill zu stb bwa sus bilanz pruefung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu stb bwa sus bilanz pruefung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # BWA-, SuSa- und Bilanzprüfung mit Insolvenzreife-Check (§§ 17, 19 InsO, § 102 StaRUG)
@@ -59,7 +59,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Prüfschema BWA/SuSa/Bilanz
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -149,7 +149,7 @@ KRISENMATRIX — [Firma] GmbH — Stichtag [Datum]
 ### Baustein 3: Hinweisschreiben § 102 StaRUG
 
 ```
-[StB-Briefkopf]                                  [Datum]
+[StB-Briefkopf] [Datum]
 
 PERSÖNLICH / VERTRAULICH
 
@@ -165,7 +165,7 @@ folgende Krisensignale, auf die wir Sie hiermit ausdrücklich hinweisen:
 
 1. Eigenkapital negativ — EUR [x] zum Stichtag [Datum].
 2. Sozialversicherungsbeiträge für [Monat/Monate] nicht abgeführt:
-   EUR [y] (Indiz für Zahlungseinstellung; § 266a StGB-Risiko).
+ EUR [y] (Indiz für Zahlungseinstellung; § 266a StGB-Risiko).
 3. Liquiditätslücke von EUR [z] (Quote [X] %) im 3-Wochen-Horizont.
 
 Diese Befunde begründen den begründeten Verdacht einer Krise im Sinne

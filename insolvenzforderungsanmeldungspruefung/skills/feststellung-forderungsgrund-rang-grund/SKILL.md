@@ -1,32 +1,32 @@
 ---
 name: feststellung-forderungsgrund-rang-grund
-description: "Nutze dies, wenn Spezial Feststellung Internationaler Bezug Und Schnittstellen, Spezial Forderungsgrund Rang Und Belegpruefung, Spezial Grund Risikoampel Und Gegenargumente im Plugin Insolvenzforderungsanmeldungspruefung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Feststellung Internationaler Bezug Und Schnittstellen, Spezial Forderungsgrund Rang Und Belegpruefung, Spezial Grund Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Feststellung Internationaler Bezug Und Schnittstellen, Spezial Forderungsgrund Rang Und Belegpruefung, Spezial Grund Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Feststellung Internationaler Bezug Und Schnittstellen, Forderungsgrund Rang Und Belegpruefung, Grund Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Feststellung Internationaler Bezug Und Schnittstellen, Spezial Forderungsgrund Rang Und Belegpruefung, Spezial Grund Risikoampel Und Gegenargumente
+# Feststellung Internationaler Bezug Und Schnittstellen, Forderungsgrund Rang Und Belegpruefung, Grund Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Feststellung Internationaler Bezug Und Schnittstellen, Forderungsgrund Rang Und Belegpruefung, Grund Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-feststellung-internationaler-bezug-und-schnittstellen` | Feststellung: Internationaler Bezug und Schnittstellen im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-feststellung-internationaler-bezug-und-schnittstellen` | Feststellung: Internationaler Bezug und Schnittstellen im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-forderungsgrund-rang-und-belegpruefung` | Forderungsgrund, Rang und Belegprüfung zur Tabelle: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-grund-risikoampel-und-gegenargumente` | Grund: Risikoampel, Gegenargumente und Verteidigungslinien im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-grund-risikoampel-und-gegenargumente` | Grund: Risikoampel, Gegenargumente und Verteidigungslinien im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Feststellung Internationaler Bezug Und Schnittstellen, Spezial Forderungsgrund Rang Und Belegpruefung, Spezial Grund Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzforderungsanmeldungspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Feststellung Internationaler Bezug Und Schnittstellen, Forderungsgrund Rang Und Belegpruefung, Grund Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzforderungsanmeldungspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-feststellung-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Feststellung: Internationaler Bezug und Schnittstellen im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Feststellung: Internationaler Bezug und Schnittstellen im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Feststellung: Internationaler Bezug und Schnittstellen
 
@@ -40,7 +40,7 @@ Für **Spezial Feststellung Internationaler Bezug Und Schnittstellen, Spezial Fo
 
 
 ## Spezialwissen: Feststellung: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Feststellung: Internationaler Bezug und Schnittstellen / spezial feststellung internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Feststellung: Internationaler Bezug und Schnittstellen / feststellung internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -90,11 +90,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `insolvenzforderungsanmeldungspruefung`. Kontext des Plugins: Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `insolvenzforderungsanmeldungspruefung`. Kontext des Plugins: Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -131,19 +131,19 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 ## Rangstufen — Differenzierung zwingend
 
 - **Aussonderung § 47 InsO:**
-  - Eigentum, Eigentumsvorbehalt (§ 449 BGB), Treuhand.
-  - **Keine Anmeldung zur Tabelle**, aber Verwalter ist über das Aussonderungsrecht zu informieren — Herausgabeanspruch.
+ - Eigentum, Eigentumsvorbehalt (§ 449 BGB), Treuhand.
+ - **Keine Anmeldung zur Tabelle**, aber Verwalter ist über das Aussonderungsrecht zu informieren — Herausgabeanspruch.
 - **Absonderung §§ 49–52 InsO:**
-  - Pfandrecht (§ 50 InsO), Sicherungsabtretung (§ 51 Nr. 1 InsO), Sicherungseigentum (§ 51 Nr. 1 InsO), Grundpfandrecht (§ 49 InsO).
-  - Anmeldung **mit Hinweis auf Sicherung**; Ausfall (§ 52 InsO) wird **nachträglich** angemeldet, wenn Sicherheit nicht ausreicht.
+ - Pfandrecht (§ 50 InsO), Sicherungsabtretung (§ 51 Nr. 1 InsO), Sicherungseigentum (§ 51 Nr. 1 InsO), Grundpfandrecht (§ 49 InsO).
+ - Anmeldung **mit Hinweis auf Sicherung**; Ausfall (§ 52 InsO) wird **nachträglich** angemeldet, wenn Sicherheit nicht ausreicht.
 - **Masseverbindlichkeit § 55 InsO:**
-  - **Keine Anmeldung zur Tabelle** — direkter Anspruch gegen Verwalter aus der Masse.
-  - Entstanden nach Verfahrenseröffnung durch Verwalter (§ 55 Abs. 1 Nr. 1 InsO) oder aus gegenseitigen Verträgen, deren Erfüllung der Verwalter wählt (§ 55 Abs. 1 Nr. 2 InsO).
+ - **Keine Anmeldung zur Tabelle** — direkter Anspruch gegen Verwalter aus der Masse.
+ - Entstanden nach Verfahrenseröffnung durch Verwalter (§ 55 Abs. 1 Nr. 1 InsO) oder aus gegenseitigen Verträgen, deren Erfüllung der Verwalter wählt (§ 55 Abs. 1 Nr. 2 InsO).
 - **Einfache Insolvenzforderung § 38 InsO:**
-  - Quotale Befriedigung — Standardanmeldung.
+ - Quotale Befriedigung — Standardanmeldung.
 - **Nachrangige Forderung § 39 InsO:**
-  - § 39 Abs. 1 Nr. 1 Zinsen ab Eröffnung, Nr. 2 Kosten, Nr. 3 Geldstrafen/-bußen, Nr. 4 Schenkungen, Nr. 5 **Gesellschafterdarlehen** und gleichgestellte Forderungen.
-  - Anmeldung **nur auf gesonderte Aufforderung** des Gerichts (§ 174 Abs. 3 InsO).
+ - § 39 Abs. 1 Nr. 1 Zinsen ab Eröffnung, Nr. 2 Kosten, Nr. 3 Geldstrafen/-bußen, Nr. 4 Schenkungen, Nr. 5 **Gesellschafterdarlehen** und gleichgestellte Forderungen.
+ - Anmeldung **nur auf gesonderte Aufforderung** des Gerichts (§ 174 Abs. 3 InsO).
 
 ## Belegpflicht und typische Fehler
 
@@ -158,7 +158,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-grund-risikoampel-und-gegenargumente`
 
-**Fokus:** Grund: Risikoampel, Gegenargumente und Verteidigungslinien im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Grund: Risikoampel, Gegenargumente und Verteidigungslinien im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Grund: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -172,7 +172,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 
 ## Spezialwissen: Grund: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Grund: Risikoampel, Gegenargumente und Verteidigungslinien / spezial grund risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Grund: Risikoampel, Gegenargumente und Verteidigungslinien / grund risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

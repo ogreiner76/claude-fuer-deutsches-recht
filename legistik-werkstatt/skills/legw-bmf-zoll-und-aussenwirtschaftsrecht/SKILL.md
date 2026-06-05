@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Zollrecht und Aussenwirtschaftsrecht
-Ressort:            BMF
-Kernnormen:         AWG; AWV; ZollVG; UZK (EU); UStG (Einfuhrumsatzsteuer); KrWaffKG.
-Akteure/Aufsicht:   Generalzolldirektion; Bundeszollverwaltung; BAFA (im BMWE); BMF Z-Abteilung.
-EU/Voelkerrecht:    Unionszollkodex; Dual-Use-VO; Sanktionsverordnungen der EU; ATLAS-IT.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmf; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Zollrecht und Aussenwirtschaftsrecht
+Ressort: BMF
+Kernnormen: AWG; AWV; ZollVG; UZK (EU); UStG (Einfuhrumsatzsteuer); KrWaffKG.
+Akteure/Aufsicht: Generalzolldirektion; Bundeszollverwaltung; BAFA (im BMWE); BMF Z-Abteilung.
+EU/Voelkerrecht: Unionszollkodex; Dual-Use-VO; Sanktionsverordnungen der EU; ATLAS-IT.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

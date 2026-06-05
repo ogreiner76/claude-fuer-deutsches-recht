@@ -1,13 +1,13 @@
 ---
 name: patr-software-pr-einfuehrung
-description: "Nutze dies, wenn Patr Software Ki Patentierbarkeit Spezial, Pr Einfuehrung Recherchearten, Pruefungsbescheid Vorbereiten im Plugin Patentrecherche konkret bearbeitet werden soll. Auslöser: Bitte Patr Software Ki Patentierbarkeit Spezial, Pr Einfuehrung Recherchearten, Pruefungsbescheid Vorbereiten prüfen.; Erstelle eine Arbeitsfassung zu Patr Software Ki Patentierbarkeit Spezial, Pr Einfuehrung Recherchearten, Pruefungsbescheid Vorbereiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patr Software Ki Patentierbarkeit Spezial, Pr Einfuehrung Recherchearten, Pruefungsbescheid Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patr Software Ki Patentierbarkeit Spezial, Pr Einfuehrung Recherchearten, Pruefungsbescheid Vorbereiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patr Software Ki Patentierbarkeit Spezial, Pr Einfuehrung Recherchearten, Pruefungsbescheid Vorbereiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -145,13 +145,13 @@ Wenn DPMA oder EPA einen **Prüfungsbescheid** erlässt, muss die Patentanwälti
 - **§ 47 PatG.** Anhörung.
 - **Art. 94 Abs. 3 EPÜ + Regel 71(3) EPÜ.** EPA-Prüfungsbescheid.
 - **Häufige EPA-Beanstandungen:**
-  - **Art. 54 EPÜ** — Neuheit
-  - **Art. 56 EPÜ** — Erfinderische Tätigkeit
-  - **Art. 84 EPÜ** — Klarheit (clarity) und Stütze in der Beschreibung
-  - **Art. 123(2) EPÜ** — Verbot der Erweiterung über den ursprünglichen Offenbarungsgehalt (added subject-matter)
-  - **Art. 82 EPÜ** — Einheitlichkeit (unity of invention)
-  - **Art. 83 EPÜ** — Ausführbarkeit (sufficiency of disclosure)
-  - **Art. 76(1) EPÜ** — bei Teilanmeldungen: keine Erweiterung der Stammanmeldung
+ - **Art. 54 EPÜ** — Neuheit
+ - **Art. 56 EPÜ** — Erfinderische Tätigkeit
+ - **Art. 84 EPÜ** — Klarheit (clarity) und Stütze in der Beschreibung
+ - **Art. 123(2) EPÜ** — Verbot der Erweiterung über den ursprünglichen Offenbarungsgehalt (added subject-matter)
+ - **Art. 82 EPÜ** — Einheitlichkeit (unity of invention)
+ - **Art. 83 EPÜ** — Ausführbarkeit (sufficiency of disclosure)
+ - **Art. 76(1) EPÜ** — bei Teilanmeldungen: keine Erweiterung der Stammanmeldung
 - **DPMA-Beanstandungen** sind inhaltlich vergleichbar, formal sparsamer.
 
 ## Eingaben
@@ -170,19 +170,19 @@ Jede Beanstandung als eigene Position erfassen:
 
 ```
 Beanstandung 1: Art. 54 EPUe / Anspruch 1
-  D1 = EP 3 456 789 A1, Siemens AG
-  Pinpoint: Anspruch 1, Abs. [0023], Fig. 1
-  Argument der Prüfungsabteilung: alle Merkmale von Anspruch 1 sind in D1 offenbart.
+ D1 = EP 3 456 789 A1, Siemens AG
+ Pinpoint: Anspruch 1, Abs. [0023], Fig. 1
+ Argument der Prüfungsabteilung: alle Merkmale von Anspruch 1 sind in D1 offenbart.
 
 Beanstandung 2: Art. 56 EPUe / Anspruch 2
-  D1 + D2 (US 2020/0123456)
-  Argument: ausgehend von D1 würde der Fachmann mit Anregung aus D2 zur beanspruchten Lösung gelangen.
+ D1 + D2 (US 2020/0123456)
+ Argument: ausgehend von D1 würde der Fachmann mit Anregung aus D2 zur beanspruchten Lösung gelangen.
 
 Beanstandung 3: Art. 84 EPUe / Anspruch 3
-  Argument: Merkmal "im Wesentlichen" ist unklar.
+ Argument: Merkmal "im Wesentlichen" ist unklar.
 
 Beanstandung 4: Art. 123(2) EPUe / Beschreibung Abs. [0034]
-  Argument: Änderung gegenüber urspruenglich eingereichter Fassung unzulässig erweitert.
+ Argument: Änderung gegenüber urspruenglich eingereichter Fassung unzulässig erweitert.
 ```
 
 ### Schritt 2: Pro Beanstandung Strategie wählen
@@ -239,35 +239,35 @@ vom [Datum] wie folgt Stellung. Beigefuegt sind neue Anspruchsfassungen
 (Hauptantrag und Hilfsanträge 1-3).
 
 I. Allgemeines
-   [Bezugnahme, Änderungen im Überblick]
+ [Bezugnahme, Änderungen im Überblick]
 
 II. Zu den einzelnen Beanstandungen
 
-   1. Art. 54 EPUe, Anspruch 1
-      [Argument, Pinpoint, ggf. Anspruchsbeschraenkung]
+ 1. Art. 54 EPUe, Anspruch 1
+ [Argument, Pinpoint, ggf. Anspruchsbeschraenkung]
 
-   2. Art. 56 EPUe, Anspruch 1
-      Problem-Solution-Approach:
-      Closest Prior Art: D1 (EP 3 456 789 A1)
-      Objektive technische Aufgabe: [neu / präzisiert]
-      Could-Would-Analyse: [Argument]
-      Sekundaerindizien: [optional]
+ 2. Art. 56 EPUe, Anspruch 1
+ Problem-Solution-Approach:
+ Closest Prior Art: D1 (EP 3 456 789 A1)
+ Objektive technische Aufgabe: [neu / präzisiert]
+ Could-Would-Analyse: [Argument]
+ Sekundaerindizien: [optional]
 
-   3. Art. 84 EPUe, Anspruch 3
-      [Klarstellung, neue Anspruchsfassung]
+ 3. Art. 84 EPUe, Anspruch 3
+ [Klarstellung, neue Anspruchsfassung]
 
-   4. Art. 123(2) EPUe, Beschreibung Abs. [0034]
-      [Änderung zurückgenommen / auf urspruenglichen Offenbarungsgehalt zurückgeführt]
+ 4. Art. 123(2) EPUe, Beschreibung Abs. [0034]
+ [Änderung zurückgenommen / auf urspruenglichen Offenbarungsgehalt zurückgeführt]
 
 III. Anspruchsfassungen
-   Hauptantrag - Ansprueche 1-15
-   Hilfsantrag 1 - Ansprueche 1-12
-   Hilfsantrag 2 - Ansprueche 1-10
-   Hilfsantrag 3 - Ansprueche 1-7
+ Hauptantrag - Ansprueche 1-15
+ Hilfsantrag 1 - Ansprueche 1-12
+ Hilfsantrag 2 - Ansprueche 1-10
+ Hilfsantrag 3 - Ansprueche 1-7
 
 IV. Wir beantragen
-   Erteilung des Patents auf Grundlage des Hauptantrags, hilfsweise auf
-   Grundlage des jeweils nächsten Hilfsantrags.
+ Erteilung des Patents auf Grundlage des Hauptantrags, hilfsweise auf
+ Grundlage des jeweils nächsten Hilfsantrags.
 
 Mit freundlichen Grüßen
 [Patentanwältin]

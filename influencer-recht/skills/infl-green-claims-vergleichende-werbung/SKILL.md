@@ -1,13 +1,13 @@
 ---
 name: infl-green-claims-vergleichende-werbung
-description: "Nutze dies, wenn Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation im Plugin Influencer Recht konkret bearbeitet werden soll. Auslöser: Bitte Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation prüfen.; Erstelle eine Arbeitsfassung zu Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -179,10 +179,10 @@ Schleichwerbung ist eine der häufigsten Abmahnursachen im Creator-Bereich:
 
 ```
 Gibt es eine Gegenleistung (Geld, Produkt, Vorteil)?
-  → Ja → Kennzeichnung als "Werbung" zwingend
-  → Nein → Besteht wirtschaftliches Eigeninteresse?
-      → Ja → BGH-Prüfung: Offensichtlichkeit für Follower?
-      → Nein → Redaktioneller Content, keine Pflicht
+ → Ja → Kennzeichnung als "Werbung" zwingend
+ → Nein → Besteht wirtschaftliches Eigeninteresse?
+ → Ja → BGH-Prüfung: Offensichtlichkeit für Follower?
+ → Nein → Redaktioneller Content, keine Pflicht
 ```
 
 ## Kaltstart-Fragen (6)

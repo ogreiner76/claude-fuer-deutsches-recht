@@ -1,20 +1,20 @@
 ---
 name: vkr-bussgeldverfahren-bussgeld-einspruch
-description: "Nutze dies, wenn Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prüfen, Fachanwalt Verkehrsrecht Bussgeldbescheid Prüfen im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prüfen, Fachanwalt Verkehrsrecht Bussgeldbescheid Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prüfen, Fachanwalt Verkehrsrecht Bussgeldbescheid Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prüfen, Fachanwalt Verkehrsrecht Bussgeldbescheid Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prüfen, Fachanwalt Verkehrsrecht Bussgeldbescheid Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vkr Bussgeldverfahren Grundzuege, Bussgeld Einspruch Prüfen, Fachanwalt Verkehrsrecht Bussgeldbescheid Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `vkr-bussgeldverfahren-grundzuege` | Bussgeldverfahren Grundzuege: Anhoerungsbogen, Einspruch innerhalb 2 Wochen, Hauptverhandlung Amtsgericht, Rechtsbeschwerde OLG nach §§ 79 ff. OWiG. Strategien Verteidigung, Punkterabatt bei Punkteabbau-Seminar. Pruefraster. |
-| `bussgeld-einspruch-pruefen` | Workflow-Skill zu bussgeld einspruch pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `bussgeld-einspruch-pruefen` | Arbeitsmodul zu bussgeld einspruch pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen` | Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist. OWiG §§ 65 ff. StVG § 26 Abs. 3 Verjährung. Prüfraster: Form- und Verfahrensfehler Verjährung 3 Monate ab Tat unterbrochen § 33 OWiG Messverfahren standardisiert/nicht-standardisiert Toleranzabzug Anhoerung § 55 OWiG Akteneinsicht Fahrverbot § 25 StVG Ausnahmen. Output: Bescheid-Prüfprotokoll und Einspruchsempfehlung. Abgrenzung zu bußgeld-einspruch-prüfen (Schnell-Triage) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug. |
 
 ## Arbeitsweg
@@ -78,7 +78,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-verkehrsrecht`. Er ergaenzt die uebr
 
 ## 2. `bussgeld-einspruch-pruefen`
 
-**Fokus:** Workflow-Skill zu bussgeld einspruch pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu bussgeld einspruch pruefen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Bußgeldbescheid prüfen und Einspruch
 
@@ -148,7 +148,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Prüfschema in Tabellenform
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
@@ -201,7 +201,7 @@ Sehr geehrte Damen und Herren,
 namens und in Vollmacht des Betroffenen lege ich gegen den
 Bußgeldbescheid vom [Datum], zugestellt am [Datum], hiermit
 
-                    EINSPRUCH
+ EINSPRUCH
 
 ein.
 
@@ -211,19 +211,19 @@ bleibt nach Akteneinsicht vorbehalten.
 ANTRÄGE
 
 1. Vollständige Akteneinsicht gemäß § 49 OWiG wird beantragt,
-   einschließlich:
-   a) Messprotokoll und vollständige Falldatensätze (alle
-      Rohmessdaten, nicht nur das Tatfoto), gemäß BVerfG,
-      Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   b) Eichschein des eingesetzten Messgeräts, gültig zur Tatzeit;
-   c) Schulungsnachweis des messenden Beamten (Bedienerlaubnis
-      für das konkrete Gerät);
-   d) Lebensakte des Messgeräts soweit vorhanden;
-   e) Aufstellungsprotokolle und Messbedingungen.
+ einschließlich:
+ a) Messprotokoll und vollständige Falldatensätze (alle
+ Rohmessdaten, nicht nur das Tatfoto), gemäß BVerfG,
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ b) Eichschein des eingesetzten Messgeräts, gültig zur Tatzeit;
+ c) Schulungsnachweis des messenden Beamten (Bedienerlaubnis
+ für das konkrete Gerät);
+ d) Lebensakte des Messgeräts soweit vorhanden;
+ e) Aufstellungsprotokolle und Messbedingungen.
 
 2. Aussetzung der Vollziehung des Fahrverbots bis zur
-   rechtskräftigen Entscheidung, da berufliche Härte besteht
-   (Begründung folgt nach Akteneinsicht).
+ rechtskräftigen Entscheidung, da berufliche Härte besteht
+ (Begründung folgt nach Akteneinsicht).
 
 Mit freundlichen Grüßen
 [Rechtsanwalt]
@@ -244,22 +244,22 @@ abzug). Als Messgerät wurde [Gerätebezeichnung] eingesetzt.
 II. Messung nicht verwertbar
 
 1. Eichschein: Die Eichgültigkeit des Messgeräts ist nicht
-   durch den vorgelegten Eichschein belegt. [Entweder: Eichschein
-   liegt nicht in der Akte / war zur Tatzeit abgelaufen — Anlage K1.]
-   Ohne gültigen Eichschein § 31 MessEG fehlt die Grundlage für
-   eine verwertbare Messung.
+ durch den vorgelegten Eichschein belegt. [Entweder: Eichschein
+ liegt nicht in der Akte / war zur Tatzeit abgelaufen — Anlage K1.]
+ Ohne gültigen Eichschein § 31 MessEG fehlt die Grundlage für
+ eine verwertbare Messung.
 
 2. Schulungsnachweis: Ein Schulungsnachweis des Bedieners [Name]
-   für das konkrete Gerät [Bezeichnung] liegt nicht in der Akte.
-   Nach der Bedienungsanleitung des Herstellers ist eine
-   gerätetyp-spezifische Ausbildung Voraussetzung für den Einsatz.
+ für das konkrete Gerät [Bezeichnung] liegt nicht in der Akte.
+ Nach der Bedienungsanleitung des Herstellers ist eine
+ gerätetyp-spezifische Ausbildung Voraussetzung für den Einsatz.
 
 3. Rohmessdaten: Trotz Akteneinsichtsantrags wurden die Rohmess-
-   daten des Falldatensatzes nicht vorgelegt. Nach BVerfG
-   Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   eine effektive Verteidigung notwendigen Mess-Rohdaten zu
-   erhalten. Die Verweigerung der Herausgabe begründet ein
-   Beweisverwertungsverbot.
+ daten des Falldatensatzes nicht vorgelegt. Nach BVerfG
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ eine effektive Verteidigung notwendigen Mess-Rohdaten zu
+ erhalten. Die Verweigerung der Herausgabe begründet ein
+ Beweisverwertungsverbot.
 
 III. Nicht Fahrer
 
@@ -288,24 +288,24 @@ Pflegedienstmitarbeiter / Selbstständiger] beruflich zwingend
 auf seine Fahrerlaubnis angewiesen. Im Einzelnen:
 
 1. Berufliche Abhängigkeit
-   [Konkrete Darstellung: täglich [X] km dienstlich zurückgelegt;
-   kein funktionierender öffentlicher Nahverkehr; Arbeitgeber-
-   bestätigung Anlage K1; Fahrten zu [X] Kunden/Patienten täglich]
+ [Konkrete Darstellung: täglich [X] km dienstlich zurückgelegt;
+ kein funktionierender öffentlicher Nahverkehr; Arbeitgeber-
+ bestätigung Anlage K1; Fahrten zu [X] Kunden/Patienten täglich]
 
 2. Existenzgefährdung
-   Ein Fahrverbot von [X] Monat/en würde zur Kündigung des
-   Arbeitsverhältnisses / zum Verlust wesentlicher Aufträge
-   führen (Arbeitgeberbestätigung Anlage K2).
+ Ein Fahrverbot von [X] Monat/en würde zur Kündigung des
+ Arbeitsverhältnisses / zum Verlust wesentlicher Aufträge
+ führen (Arbeitgeberbestätigung Anlage K2).
 
 3. Unzumutbarkeit
-   Eine Vertretung durch Kollegen ist nicht möglich, da [Gründe].
-   Die Inanspruchnahme von Taxis oder Mietwagen ist weder
-   wirtschaftlich tragbar noch betrieblich umsetzbar.
+ Eine Vertretung durch Kollegen ist nicht möglich, da [Gründe].
+ Die Inanspruchnahme von Taxis oder Mietwagen ist weder
+ wirtschaftlich tragbar noch betrieblich umsetzbar.
 
 4. Geringes Verschulden
-   Es handelt sich um einen Erstverstoß ohne Voreintragungen
-   im Fahreignungsregister. Der Verstoß lag lediglich [X km/h]
-   über dem Regelwert für ein Fahrverbot.
+ Es handelt sich um einen Erstverstoß ohne Voreintragungen
+ im Fahreignungsregister. Der Verstoß lag lediglich [X km/h]
+ über dem Regelwert für ein Fahrverbot.
 
 Es wird beantragt, vom Fahrverbot abzusehen und stattdessen
 die Geldbuße gemäß § 4 Abs. 4 BKatV auf das Dreifache
@@ -429,7 +429,7 @@ Hinweis: BGH (4. Strafsenat) zu Geschwindigkeitsmessverfahren ist standardisiert
 ## Prüfschema in Tabellenform
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
@@ -480,7 +480,7 @@ In der Bußgeldsache gegen
 namens und in Vollmacht des Betroffenen lege ich gegen den
 Bußgeldbescheid vom [Datum], zugestellt am [Datum],
 
-                    EINSPRUCH
+ EINSPRUCH
 
 ein. Eine Begründung bleibt nach Akteneinsicht vorbehalten.
 
@@ -490,19 +490,19 @@ ANTRÄGE
 
 Ich beantrage vollständige Akteneinsicht einschließlich:
 a) Sämtlicher Rohmessdaten des Falldatensatzes und der
-   Falldatensätze der Messreihe (konkret: alle Einzelmessungen,
-   sofern vom Gerät gespeichert; vgl. BVerfG, Beschl. v. 12.11.2020,
-   2 BvR 1616/18; BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — kein
-   Anspruch auf nicht gespeicherte Daten, aber Anspruch auf alle
-   vorhandenen Daten);
+ Falldatensätze der Messreihe (konkret: alle Einzelmessungen,
+ sofern vom Gerät gespeichert; vgl. BVerfG, Beschl. v. 12.11.2020,
+ 2 BvR 1616/18; BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — kein
+ Anspruch auf nicht gespeicherte Daten, aber Anspruch auf alle
+ vorhandenen Daten);
 b) Eichschein des Messgeräts mit Gültigkeitsdauer zur Tatzeit;
 c) Schulungsnachweis des messenden Beamten (Name, Gerätekurs);
 d) Messprotokoll mit Aufstellungsort, -bedingungen und -dauer;
 e) Betriebsanleitung des eingesetzten Geräts [Bezeichnung].
 
 2. Aussetzung der Vollziehung des Fahrverbots
-   bis zur rechtskräftigen Entscheidung, da berufliche Härte
-   droht (Begründung nach Akteneinsicht).
+ bis zur rechtskräftigen Entscheidung, da berufliche Härte
+ droht (Begründung nach Akteneinsicht).
 
 Mit freundlichen Grüßen
 [Rechtsanwalt]
@@ -544,31 +544,31 @@ dem standardisierten Verfahren (BGHSt 39, 291). Allerdings sind
 folgende Fehler zu verzeichnen:
 
 1. Eichschein abgelaufen:
-   Laut beigebrachtem Eichschein war das Gerät zuletzt am
-   [Datum] geeicht. Die Eichgültigkeitsdauer beträgt nach
-   § 32 MessEV 12 Monate. Die Tatzeit [Datum] liegt nach
-   Ablauf der Eichgültigkeit. Das Messergebnis ist nicht
-   verwertbar.
+ Laut beigebrachtem Eichschein war das Gerät zuletzt am
+ [Datum] geeicht. Die Eichgültigkeitsdauer beträgt nach
+ § 32 MessEV 12 Monate. Die Tatzeit [Datum] liegt nach
+ Ablauf der Eichgültigkeit. Das Messergebnis ist nicht
+ verwertbar.
 
 2. Rohmessdaten verweigert:
-   Trotz konkretem Antrag vom [Datum] (Anlage K1) wurden die
-   Rohmessdaten des Falldatensatzes nicht vorgelegt. Nach der
-   Rechtsprechung des BVerfG (Beschl. v. 12.11.2020, 2 BvR 1616/18;
-   Beschl. v. 20.6.2023, 2 BvR 1167/20) hat der Betroffene einen
-   Anspruch auf Zugang zu den vorhandenen Messdaten und
-   Begleitunterlagen; jedenfalls bei konkret dargelegtem
-   Aufklärungsbedarf greift ein Verwertungsverbot, wenn die
-   Verteidigung nachvollziehbar darlegt, dass sie ohne diese
-   Daten die Messung nicht überprüfen kann.
-   (Volltext der Beschlüsse vor Versand in
-   bundesverfassungsgericht.de aufrufen und Randnummern
-   ergänzen.)
+ Trotz konkretem Antrag vom [Datum] (Anlage K1) wurden die
+ Rohmessdaten des Falldatensatzes nicht vorgelegt. Nach der
+ Rechtsprechung des BVerfG (Beschl. v. 12.11.2020, 2 BvR 1616/18;
+ Beschl. v. 20.6.2023, 2 BvR 1167/20) hat der Betroffene einen
+ Anspruch auf Zugang zu den vorhandenen Messdaten und
+ Begleitunterlagen; jedenfalls bei konkret dargelegtem
+ Aufklärungsbedarf greift ein Verwertungsverbot, wenn die
+ Verteidigung nachvollziehbar darlegt, dass sie ohne diese
+ Daten die Messung nicht überprüfen kann.
+ (Volltext der Beschlüsse vor Versand in
+ bundesverfassungsgericht.de aufrufen und Randnummern
+ ergänzen.)
 
 3. Sachverständigengutachten wird beantragt:
-   Zum Nachweis der Unverwertbarkeit der Messung beantragen
-   wir die Einholung eines Sachverständigengutachtens zur
-   Frage, ob das eingesetzte Gerät am Tattag zuverlässige
-   Messergebnisse liefern konnte.
+ Zum Nachweis der Unverwertbarkeit der Messung beantragen
+ wir die Einholung eines Sachverständigengutachtens zur
+ Frage, ob das eingesetzte Gerät am Tattag zuverlässige
+ Messergebnisse liefern konnte.
 ```
 
 --- vor Versand klaeren ---

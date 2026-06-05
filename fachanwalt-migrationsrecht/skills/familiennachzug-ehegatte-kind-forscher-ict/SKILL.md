@@ -1,41 +1,41 @@
 ---
 name: familiennachzug-ehegatte-kind-forscher-ict
-description: "Nutze dies, wenn Spezial Familiennachzug Ehegatte, Spezial Familiennachzug Kind, Spezial Familiennachzug Zahlen Schwellen Und Berechnung, Spezial Forscher Ict Au Pair, Spezial Freizuegigkeit Eu im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Familiennachzug Ehegatte, Spezial Familiennachzug Kind, Spezial Familiennachzug Zahlen Schwellen Und Berechnung, Spezial Forscher Ict Au Pair, Spezial Freizuegigkeit Eu prüfen.; Erstelle eine Arbeitsfassung zu Spezial Familiennachzug Ehegatte, Spezial Familiennachzug Kind, Spezial Familiennachzug Zahlen Schwellen Und Berechnung, Spezial Forscher Ict Au Pair, Spezial Freizuegigkeit Eu.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Familiennachzug Ehegatte, Spezial Familiennachzug Kind, Spezial Familiennachzug Zahlen Schwellen Und Berechnung, Spezial Forscher Ict Au Pair, Spezial Freizuegigkeit Eu
+# Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair, Freizuegigkeit Eu
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair, Freizuegigkeit Eu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-familiennachzug-ehegatte` | Ehegattennachzug: Spezial-Skill im Migrationsrecht; prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-familiennachzug-kind` | Kindernachzug: Spezial-Skill im Migrationsrecht; prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-familiennachzug-ehegatte` | Ehegattennachzug: Fachmodul im Migrationsrecht; prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-familiennachzug-kind` | Kindernachzug: Fachmodul im Migrationsrecht; prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `spezial-familiennachzug-zahlen-schwellen-und-berechnung` | Familiennachzug: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `spezial-forscher-ict-au-pair` | Forscher/ICT/Au-pair/Sondertitel: Spezial-Skill im Migrationsrecht; prüft Sondertitel, Zweckbindung, Wechsel, Familiennachzug; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-freizuegigkeit-eu` | Freizügigkeit EU: Spezial-Skill im Migrationsrecht; prüft Arbeitnehmer, Selbstständige, Nichterwerbstätige, Familie, Verlust; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-forscher-ict-au-pair` | Forscher/ICT/Au-pair/Sondertitel: Fachmodul im Migrationsrecht; prüft Sondertitel, Zweckbindung, Wechsel, Familiennachzug; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-freizuegigkeit-eu` | Freizügigkeit EU: Fachmodul im Migrationsrecht; prüft Arbeitnehmer, Selbstständige, Nichterwerbstätige, Familie, Verlust; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
-Für **Spezial Familiennachzug Ehegatte, Spezial Familiennachzug Kind, Spezial Familiennachzug Zahlen Schwellen Und Berechnung, Spezial Forscher Ict Au Pair, Spezial Freizuegigkeit Eu** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Familiennachzug Ehegatte, Familiennachzug Kind, Familiennachzug Zahlen Schwellen Und Berechnung, Forscher Ict Au Pair, Freizuegigkeit Eu** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-familiennachzug-ehegatte`
 
-**Fokus:** Ehegattennachzug: Spezial-Skill im Migrationsrecht; prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Ehegattennachzug: Fachmodul im Migrationsrecht; prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Ehegattennachzug
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Ehe, A1, Lebensunterhalt, Wohnraum, Härtefall und Urkunden.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -64,14 +64,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Ehe, 
 
 ## 2. `spezial-familiennachzug-kind`
 
-**Fokus:** Kindernachzug: Spezial-Skill im Migrationsrecht; prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Kindernachzug: Fachmodul im Migrationsrecht; prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Kindernachzug
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Alter, Sorgerecht, Kindeswohl, Lebensunterhalt, Sprach-/Integrationsfragen.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -105,7 +105,7 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Alter
 # Familiennachzug: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Familiennachzug: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Familiennachzug: Zahlen, Schwellenwerte und Berechnung / spezial familiennachzug zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Familiennachzug: Zahlen, Schwellenwerte und Berechnung / familiennachzug zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -148,14 +148,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-forscher-ict-au-pair`
 
-**Fokus:** Forscher/ICT/Au-pair/Sondertitel: Spezial-Skill im Migrationsrecht; prüft Sondertitel, Zweckbindung, Wechsel, Familiennachzug; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Forscher/ICT/Au-pair/Sondertitel: Fachmodul im Migrationsrecht; prüft Sondertitel, Zweckbindung, Wechsel, Familiennachzug; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Forscher/ICT/Au-pair/Sondertitel
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Sondertitel, Zweckbindung, Wechsel, Familiennachzug.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Sondertitel, Zweckbindung, Wechsel, Familiennachzug.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -184,14 +184,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Sonde
 
 ## 5. `spezial-freizuegigkeit-eu`
 
-**Fokus:** Freizügigkeit EU: Spezial-Skill im Migrationsrecht; prüft Arbeitnehmer, Selbstständige, Nichterwerbstätige, Familie, Verlust; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Freizügigkeit EU: Fachmodul im Migrationsrecht; prüft Arbeitnehmer, Selbstständige, Nichterwerbstätige, Familie, Verlust; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Freizügigkeit EU
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Arbeitnehmer, Selbstständige, Nichterwerbstätige, Familie, Verlust.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Arbeitnehmer, Selbstständige, Nichterwerbstätige, Familie, Verlust.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?

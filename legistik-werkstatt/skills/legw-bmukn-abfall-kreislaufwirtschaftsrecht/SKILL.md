@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Abfall- und Kreislaufwirtschaftsrecht
-Ressort:            BMUKN
-Kernnormen:         KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.
-Akteure/Aufsicht:   UBA; Laender-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.
-EU/Voelkerrecht:    EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmukn; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Abfall- und Kreislaufwirtschaftsrecht
+Ressort: BMUKN
+Kernnormen: KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.
+Akteure/Aufsicht: UBA; Laender-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.
+EU/Voelkerrecht: EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

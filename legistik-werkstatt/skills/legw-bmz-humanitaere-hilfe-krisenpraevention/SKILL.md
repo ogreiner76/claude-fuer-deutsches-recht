@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Humanitaere Hilfe und Krisenpraevention
-Ressort:            BMZ
-Kernnormen:         Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.
-Akteure/Aufsicht:   BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.
-EU/Voelkerrecht:    DG ECHO; HumDS-Pakt; Sphere-Standards.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmz; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Humanitaere Hilfe und Krisenpraevention
+Ressort: BMZ
+Kernnormen: Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.
+Akteure/Aufsicht: BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.
+EU/Voelkerrecht: DG ECHO; HumDS-Pakt; Sphere-Standards.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: bautraegervertrag-mabv-familiengesellschaft
-description: "Nutze dies, wenn Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen im Plugin Notariat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen prüfen.; Erstelle eine Arbeitsfassung zu Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

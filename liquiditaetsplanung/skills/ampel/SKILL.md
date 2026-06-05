@@ -1,6 +1,6 @@
 ---
 name: ampel
-description: "Nutze dies, wenn Ampel: Zahlen, Schwellenwerte und Berechnung im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Ampel: Zahlen, Schwellenwerte und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Ampel: Zahlen, Schwellenwerte und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ampel: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Ampel: Zahlen, Schwellenwerte und Berechnung
@@ -69,8 +69,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **GRÜN:** Liquiditätsdeckung > 110 Prozent in jeder Periode des 24-Monats-Horizonts; 13-Wochen-Cash-Reichweite > 6 Wochen Puffer.
 - **GELB:** Liquiditätsdeckung 100–110 Prozent oder Worst-Case unter 100 Prozent — Frühwarnpflicht § 1 StaRUG, Maßnahmenplan.
 - **ROT:**
-  - Liquiditätslücke ≥ 10 Prozent über 3 Wochen → § 17 InsO Zahlungsunfähigkeit, Antragsfrist § 15a InsO.
-  - 24-Monats-Plan zeigt Lücke → § 18 InsO drohende ZU, StaRUG-Tor offen.
+ - Liquiditätslücke ≥ 10 Prozent über 3 Wochen → § 17 InsO Zahlungsunfähigkeit, Antragsfrist § 15a InsO.
+ - 24-Monats-Plan zeigt Lücke → § 18 InsO drohende ZU, StaRUG-Tor offen.
 
 ## Berechnungs-Plausibilitäten
 - Anfangsbestand Periode n+1 = Endbestand Periode n (Saldenkonsistenz).

@@ -1,13 +1,13 @@
 ---
 name: ergaenzt-fachanwalt-insolvenzantrag-red
-description: "Nutze dies, wenn Spezial Ergaenzt Mandantenkommunikation Entscheidungsvorlage, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Insolvenzantrag Red Team Und Qualitaetskontrolle, Spezial Kanzlei Sonderfall Und Edge Case, Spezial Livecheck Abschlussprodukt Und Übergabe im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Ergaenzt Mandantenkommunikation Entscheidungsvorlage, Fachanwalt Erstpruefung Und Mandatsziel, Insolvenzantrag Red Team Und Qualitaetskontrolle, Kanzlei Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Ergaenzt Mandantenkommunikation Entscheidungsvorlage, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Insolvenzantrag Red Team Und Qualitaetskontrolle, Spezial Kanzlei Sonderfall Und Edge Case, Spezial Livecheck Abschlussprodukt Und Übergabe
+# Ergaenzt Mandantenkommunikation Entscheidungsvorlage, Fachanwalt Erstpruefung Und Mandatsziel, Insolvenzantrag Red Team Und Qualitaetskontrolle, Kanzlei Sonderfall Und Edge Case, Livecheck Abschlussprodukt Und Übergabe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ergaenzt Mandantenkommunikation Entscheidungsvorlage, Fachanwalt Erstpruefung Und Mandatsziel, Insolvenzantrag Red Team Und Qualitaetskontrolle, Kanzlei Sonderfall Und Edge Case, Livecheck Abschlussprodukt Und Übergabe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Ergaenzt Mandantenkommunikation Entscheidungsvorlage, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Insolvenzantrag Red Team Und Qualitaetskontrolle, Spezial Kanzlei Sonderfall Und Edge Case, Spezial Livecheck Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ergaenzt Mandantenkommunikation Entscheidungsvorlage, Fachanwalt Erstpruefung Und Mandatsziel, Insolvenzantrag Red Team Und Qualitaetskontrolle, Kanzlei Sonderfall Und Edge Case, Livecheck Abschlussprodukt Und Übergabe** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Ergaenzt Mandantenkommunikation Entscheidungsvorlage, Spezial Fac
 # Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage / spezial ergaenzt mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage / ergaenzt mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel / spezial fachanwalt erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel / fachanwalt erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -110,26 +110,26 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafrecht-Fachanwalt Erstpruefung Bausteine
 - **Mandantenrolle praezisieren:**
-  - **Beschuldigter / Angeklagter:** Verteidigerbestellung § 137 StPO; ggf. notwendige Verteidigung §§ 140-141 StPO.
-  - **Geschaedigter / Nebenklage § 395 StPO:** Antrag Anschluss; Antragsdelikte (§§ 174-184k StGB, § 230 StGB, § 263a StGB); Zeugnis-Beistand § 68b StPO.
-  - **Adhaesionsverfahren §§ 403-406c StPO:** zivilrechtliche Anspruchsverfolgung im Strafverfahren.
-  - **Zeuge:** §§ 52 StPO Angehoerigenzeugnis; § 55 StPO Auskunftsverweigerung; Zeugnisbeistand.
-  - **Klageerzwingung § 172 StPO:** Verletzter beantragt Erhebung der oeffentlichen Klage.
+ - **Beschuldigter / Angeklagter:** Verteidigerbestellung § 137 StPO; ggf. notwendige Verteidigung §§ 140-141 StPO.
+ - **Geschaedigter / Nebenklage § 395 StPO:** Antrag Anschluss; Antragsdelikte (§§ 174-184k StGB, § 230 StGB, § 263a StGB); Zeugnis-Beistand § 68b StPO.
+ - **Adhaesionsverfahren §§ 403-406c StPO:** zivilrechtliche Anspruchsverfolgung im Strafverfahren.
+ - **Zeuge:** §§ 52 StPO Angehoerigenzeugnis; § 55 StPO Auskunftsverweigerung; Zeugnisbeistand.
+ - **Klageerzwingung § 172 StPO:** Verletzter beantragt Erhebung der oeffentlichen Klage.
 - **Verfahrensstand-Triage:**
-  - **Ermittlungsverfahren:** Akteneinsicht § 147 StPO; Stellungnahme StA; Schweigerecht § 136 StPO.
-  - **Zwischenverfahren §§ 199-211 StPO:** Eroeffnungsbeschluss-Pruefung; Einwaende § 201 StPO; Hilfsbeweisantraege.
-  - **Hauptverhandlung:** Beweisantraege § 244 StPO; Verstaendigung § 257c StPO; Schlussvortrag.
-  - **Rechtsmittel:** Berufung § 314 StPO (1 Woche); Revision §§ 341, 345 StPO (1 Woche / 1 Monat); Beschwerde § 304 StPO.
-  - **Vollstreckungsverfahren:** Strafrest § 57 StGB; Bewaehrungswiderruf § 56f StGB.
+ - **Ermittlungsverfahren:** Akteneinsicht § 147 StPO; Stellungnahme StA; Schweigerecht § 136 StPO.
+ - **Zwischenverfahren §§ 199-211 StPO:** Eroeffnungsbeschluss-Pruefung; Einwaende § 201 StPO; Hilfsbeweisantraege.
+ - **Hauptverhandlung:** Beweisantraege § 244 StPO; Verstaendigung § 257c StPO; Schlussvortrag.
+ - **Rechtsmittel:** Berufung § 314 StPO (1 Woche); Revision §§ 341, 345 StPO (1 Woche / 1 Monat); Beschwerde § 304 StPO.
+ - **Vollstreckungsverfahren:** Strafrest § 57 StGB; Bewaehrungswiderruf § 56f StGB.
 - **Tatvorwurfsklasse:**
-  - **Vergehen § 12 II StGB** (Mindeststrafe unter 1 Jahr): Strafbefehl § 407 StPO moeglich.
-  - **Verbrechen § 12 I StGB** (Mindeststrafe 1 Jahr): notwendige Verteidigung § 140 I Nr. 2 StPO; Schwurgericht / grosse Strafkammer.
+ - **Vergehen § 12 II StGB** (Mindeststrafe unter 1 Jahr): Strafbefehl § 407 StPO moeglich.
+ - **Verbrechen § 12 I StGB** (Mindeststrafe 1 Jahr): notwendige Verteidigung § 140 I Nr. 2 StPO; Schwurgericht / grosse Strafkammer.
 - **Mandantenziel-Hierarchie:**
-  - Schuldspruch vermeiden (Freispruch).
-  - Einstellung §§ 153, 153a StPO.
-  - Strafmilderung.
-  - Bewaehrung sichern (§ 56 StGB).
-  - Reputation schuetzen (BZRG, FZR, Berufsrecht).
+ - Schuldspruch vermeiden (Freispruch).
+ - Einstellung §§ 153, 153a StPO.
+ - Strafmilderung.
+ - Bewaehrung sichern (§ 56 StGB).
+ - Reputation schuetzen (BZRG, FZR, Berufsrecht).
 - **Honoraranfrage / Verguetungsvereinbarung § 3a RVG schriftlich** wenn Wahlanwaltsmandat; bei Pflichtverteidigung Festbetragstarif RVG VV 4100 ff.
 
 ## 3. `spezial-insolvenzantrag-red-team-und-qualitaetskontrolle`
@@ -139,7 +139,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Insolvenzantrag: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Insolvenzantrag: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Insolvenzantrag: Red-Team und Qualitätskontrolle / spezial insolvenzantrag red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Insolvenzantrag: Red-Team und Qualitätskontrolle / insolvenzantrag red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -180,7 +180,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Kanzlei: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Kanzlei: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Kanzlei: Sonderfall und Edge-Case-Prüfung / spezial kanzlei sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kanzlei: Sonderfall und Edge-Case-Prüfung / kanzlei sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -221,7 +221,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Livecheck: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Livecheck: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Livecheck: Abschlussprodukt und Übergabe / spezial livecheck abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Livecheck: Abschlussprodukt und Übergabe / livecheck abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -257,29 +257,29 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafrecht-Abschluss / Livecheck Bausteine
 - **Abschlussprodukt-Typen je nach Verfahrensstand:**
-  - **Ermittlungsverfahren:** Stellungnahme StA mit Antrag Einstellung § 170 II StPO oder § 153 StPO; Akteneinsichtsantrag § 147 StPO; Beweisantrag.
-  - **Zwischenverfahren:** Einwendungen gegen Eroeffnung § 201 StPO; Hilfsbeweisantraege.
-  - **Hauptverhandlung:** Beweisantraege § 244 StPO; Pladoyer mit konkretem Strafantrag; Schlusswort.
-  - **Rechtsmittel:** Berufung § 314 StPO + ggf. Begruendung; Revisionsbegruendung § 345 StPO (Sach- / Verfahrensruege).
-  - **Vollstreckung:** Antrag nachtraegliche Gesamtstrafe § 460 StPO; Strafaussetzung § 57 StGB.
+ - **Ermittlungsverfahren:** Stellungnahme StA mit Antrag Einstellung § 170 II StPO oder § 153 StPO; Akteneinsichtsantrag § 147 StPO; Beweisantrag.
+ - **Zwischenverfahren:** Einwendungen gegen Eroeffnung § 201 StPO; Hilfsbeweisantraege.
+ - **Hauptverhandlung:** Beweisantraege § 244 StPO; Pladoyer mit konkretem Strafantrag; Schlusswort.
+ - **Rechtsmittel:** Berufung § 314 StPO + ggf. Begruendung; Revisionsbegruendung § 345 StPO (Sach- / Verfahrensruege).
+ - **Vollstreckung:** Antrag nachtraegliche Gesamtstrafe § 460 StPO; Strafaussetzung § 57 StGB.
 - **Livecheck-Pflichten vor Uebergabe:**
-  - **Normen aktuell?** (z. B. KCanG-Aenderungen, StGB-Reformen)?
-  - **Rechtsprechung aktuell?** BGH / BVerfG / EuGH-Linien geprueft?
-  - **Frist nochmals re-checken?**
-  - **Vollmacht Mandant aktuell?**
-  - **BZRG / Akte vollstaendig erhalten?**
-  - **Vollstaendigkeitscheck Anlagen** (Beweismittel, Belege).
-  - **Form-Check** (Schriftform, Unterschrift, beA-Konformitaet bei Zivilrecht; im Strafrecht § 32a StPO).
+ - **Normen aktuell?** (z. B. KCanG-Aenderungen, StGB-Reformen)?
+ - **Rechtsprechung aktuell?** BGH / BVerfG / EuGH-Linien geprueft?
+ - **Frist nochmals re-checken?**
+ - **Vollmacht Mandant aktuell?**
+ - **BZRG / Akte vollstaendig erhalten?**
+ - **Vollstaendigkeitscheck Anlagen** (Beweismittel, Belege).
+ - **Form-Check** (Schriftform, Unterschrift, beA-Konformitaet bei Zivilrecht; im Strafrecht § 32a StPO).
 - **Uebergabe an Folgeverteidiger / Kanzleikollegen:**
-  - **Mandantenakte komplett** (Anschreiben, Aktenstand, Belege).
-  - **Aktenvorblatt** mit aktuellem Stand, Strategie, naechsten Schritten.
-  - **Fristenuebersicht** mit Wiedervorlagen.
-  - **Schluesselkontakte** (StA-Sachbearbeiter, Gericht, Geschaedigter, ggf. Pflichtverteidiger).
-  - **Verguetungsstand RVG** (was bereits abgerechnet, welche Phase laeuft).
+ - **Mandantenakte komplett** (Anschreiben, Aktenstand, Belege).
+ - **Aktenvorblatt** mit aktuellem Stand, Strategie, naechsten Schritten.
+ - **Fristenuebersicht** mit Wiedervorlagen.
+ - **Schluesselkontakte** (StA-Sachbearbeiter, Gericht, Geschaedigter, ggf. Pflichtverteidiger).
+ - **Verguetungsstand RVG** (was bereits abgerechnet, welche Phase laeuft).
 - **Mandantenaufklaerung Abschluss:**
-  - Verfahrensstand (laufend / abgeschlossen rechtskraeftig).
-  - Konsequenzen Urteil (BZRG-Eintrag, FAER, berufsrechtliche Folgen).
-  - Vollstreckungstermin / Ratenzahlung.
-  - Rechtsmittel-Hinweise (auch wenn nicht eingelegt).
-  - Aufbewahrungspflichten / Tilgungsfristen.
+ - Verfahrensstand (laufend / abgeschlossen rechtskraeftig).
+ - Konsequenzen Urteil (BZRG-Eintrag, FAER, berufsrechtliche Folgen).
+ - Vollstreckungstermin / Ratenzahlung.
+ - Rechtsmittel-Hinweise (auch wenn nicht eingelegt).
+ - Aufbewahrungspflichten / Tilgungsfristen.
 - **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB auch nach Mandatsende.

@@ -26,11 +26,11 @@ Gibt es bereits ein Unternehmensprofil unter ~/.claude/plugins/config/claude-fue
 
 - **Ja:** Profil lesen, Informationen bestätigen lassen.
 - **Nein:** Folgende Felder abfragen und in der Profildatei anlegen:
-  - Name und Rechtsform
-  - Hauptgeschäftstätigkeit und Aufsichtsrechtssegment (Bank, Zahlungsinstitut, Wertpapierfirma, Energieversorger, Pharmaunternehmen usw.)
-  - Jurisdiktion(en): Deutschland, EU-weit, grenzüberschreitend
-  - Risikopostur (konservativ / Standard / risikoaffin)
-  - Wichtige Ansprechpartner (Compliance-Leiter, Chefjustitiar, externer Anwalt)
+ - Name und Rechtsform
+ - Hauptgeschäftstätigkeit und Aufsichtsrechtssegment (Bank, Zahlungsinstitut, Wertpapierfirma, Energieversorger, Pharmaunternehmen usw.)
+ - Jurisdiktion(en): Deutschland, EU-weit, grenzüberschreitend
+ - Risikopostur (konservativ / Standard / risikoaffin)
+ - Wichtige Ansprechpartner (Compliance-Leiter, Chefjustitiar, externer Anwalt)
 
 ### Schritt 2 – Rollenklärung
 

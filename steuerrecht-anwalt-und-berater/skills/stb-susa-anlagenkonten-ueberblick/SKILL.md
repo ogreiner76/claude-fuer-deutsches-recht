@@ -57,25 +57,25 @@ Anlagenkonten der Klasse 0 (SKR 03) bzw. 0xxx-1xxx (SKR 04) zeigen die Buchwerte
 Anlagenkonten SKR 03 (Kontennummern typische Beispiele; konkrete Nummern mit aktueller DATEV-Kontenrahmenfassung abgleichen):
 
 ```
-0010   Immaterielle Wirtschaftsgueter
-0020   Grundstuecke und Bauten
-0080   Maschinen
-0440   Geringwertige Wirtschaftsgueter
-0500   Fuhrpark
-0670   Betriebs- und Geschaeftsausstattung
-0900   Anzahlungen auf Anlagen
-1000   Beteiligungen
+0010 Immaterielle Wirtschaftsgueter
+0020 Grundstuecke und Bauten
+0080 Maschinen
+0440 Geringwertige Wirtschaftsgueter
+0500 Fuhrpark
+0670 Betriebs- und Geschaeftsausstattung
+0900 Anzahlungen auf Anlagen
+1000 Beteiligungen
 ```
 
 ### Phase 2 — Anlagenspiegel-Auswertung
 
 ```
 ANLAGENSPIEGEL (Auszug)
-Bezeichnung      Anschaffung  Bisherige AfA  Buchwert Anfang  Zugang  Abgang  AfA Periode  Buchwert Ende
-Maschine A       50.000       30.000         20.000           —       —       2.500        17.500
-Pkw Mazda        25.000       8.000          17.000           —       —       2.083        14.917
-GWG-Pool 2026    1.200        —              —                1.200   —       240          960
-Buero-Ausstattung 15.000      6.000          9.000            —       —       1.500        7.500
+Bezeichnung Anschaffung Bisherige AfA Buchwert Anfang Zugang Abgang AfA Periode Buchwert Ende
+Maschine A 50.000 30.000 20.000 — — 2.500 17.500
+Pkw Mazda 25.000 8.000 17.000 — — 2.083 14.917
+GWG-Pool 2026 1.200 — — 1.200 — 240 960
+Buero-Ausstattung 15.000 6.000 9.000 — — 1.500 7.500
 ```
 
 ### Phase 3 — Abstimmung Hauptbuch / Anlagenspiegel

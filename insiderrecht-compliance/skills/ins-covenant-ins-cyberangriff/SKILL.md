@@ -1,13 +1,13 @@
 ---
 name: ins-covenant-ins-cyberangriff
-description: "Nutze dies, wenn Ins 024 Covenant Breach, Ins 025 Cyberangriff im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 024 Covenant Breach, Ins 025 Cyberangriff prüfen.; Erstelle eine Arbeitsfassung zu Ins 024 Covenant Breach, Ins 025 Cyberangriff.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 024 Covenant Breach, Ins 025 Cyberangriff: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 024 Covenant Breach, Ins 025 Cyberangriff
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 024 Covenant Breach, Ins 025 Cyberangriff** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -58,17 +58,17 @@ auslöst, und entwickelt die Compliance-Strategie für Emittent und Kreditgeber.
 ### Schritt 2 – Insiderinformations-Prüfung
 
 - Kursrelevanz: Würde ein verständiger Anleger die Covenant-Verletzung bei der
-  Investitionsentscheidung berücksichtigen?
+ Investitionsentscheidung berücksichtigen?
 - Hohe Kursrelevanz-Indikation bei: drohender Kreditkündigung, Cross-Default,
-  Restrukturierungsbedarf, Liquiditätsgefährdung
+ Restrukturierungsbedarf, Liquiditätsgefährdung
 - Niedrige Kursrelevanz: Technische Verletzung ohne materielle Konsequenz, bereits
-  laufende Waiver-Verhandlungen mit sehr hoher Erfolgswahrscheinlichkeit
+ laufende Waiver-Verhandlungen mit sehr hoher Erfolgswahrscheinlichkeit
 
 ### Schritt 3 – Aufschub nach Art. 17 Abs. 4 MAR
 
 - Mögliches legitimes Interesse: Laufende Waiver-Verhandlungen mit Kreditgebern
 - Voraussetzung: Waiver-Verhandlungen sind fortgeschritten und Abschluss wird
-  mit hinreichender Wahrscheinlichkeit erwartet
+ mit hinreichender Wahrscheinlichkeit erwartet
 - Vertraulichkeit: Kreditgeber unter NDA, Informationskreis begrenzt
 - Trigger: Scheitern der Verhandlungen → Sofortveröffentlichung
 
@@ -151,21 +151,21 @@ Ad-hoc-Strategie und koordiniert die parallelen Meldepflichten (MAR, DSGVO, NIS-
 ### Schritt 2 – Insiderinformations-Prüfung
 
 - Kursrelevanz: Würde ein verständiger Anleger die Information berücksichtigen?
-  Indikation für hohe Kursrelevanz: erhebliche Betriebsunterbrechung, große Kundendaten-
-  verluste, behördliche Ermittlungen, drohende Schadensersatzklagen
+ Indikation für hohe Kursrelevanz: erhebliche Betriebsunterbrechung, große Kundendaten-
+ verluste, behördliche Ermittlungen, drohende Schadensersatzklagen
 - Zeitpunkt: Ab wann lag präzise Information vor (erster sicherer Kenntnisstand)?
 - Unsicherheit: Frühe Phasen eines Angriffs können noch unpräzise sein; laufende
-  Forensik kann den Eintritt von Schäden als noch unbekannt qualifizieren
+ Forensik kann den Eintritt von Schäden als noch unbekannt qualifizieren
 
 ### Schritt 3 – Aufschub wegen laufender Strafverfolgung / IT-Forensik
 
 - Legitimes Interesse: Laufende strafrechtliche Ermittlungen oder Forensik können
-  durch frühzeitige Veröffentlichung beeinträchtigt werden
+ durch frühzeitige Veröffentlichung beeinträchtigt werden
 - ESMA-Guidance: Aufschub möglich, wenn Behörden (BSI, BKA) bestätigen, dass
-  Veröffentlichung Ermittlungen gefährdet
+ Veröffentlichung Ermittlungen gefährdet
 - Praktisch: Emittent sollte BSI/BKA schriftlich anfragen und Antwort dokumentieren
 - Aufschub endet: Wenn kein behördlicher Vorbehalt mehr besteht oder Öffentlichkeit
-  durch Dritte informiert wurde
+ durch Dritte informiert wurde
 
 ### Schritt 4 – Parallele Meldepflichten
 
@@ -177,7 +177,7 @@ Ad-hoc-Strategie und koordiniert die parallelen Meldepflichten (MAR, DSGVO, NIS-
 ### Schritt 5 – Ad-hoc-Veröffentlichung
 
 - Inhalt: Art des Angriffs (soweit bekannt), betroffene Systeme, geschätzte Auswirkungen,
-  ergriffene Maßnahmen, Ausblick
+ ergriffene Maßnahmen, Ausblick
 - Keine Offenlegung von Informationen, die laufende Ermittlungen gefährden
 - Aktualisierungs-Ad-hoc: Wenn neue wesentliche Informationen bekannt werden
 

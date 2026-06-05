@@ -1,13 +1,13 @@
 ---
 name: vergabe-nachpruefung-vergabe-os-vergabeakte
-description: "Nutze dies, wenn Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation prüfen.; Erstelle eine Arbeitsfassung zu Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -75,7 +75,7 @@ Bei einer drohenden oder erfolgten Vergabe-Entscheidung systematisch prüfen, ob
 ## Prüfschema in Tabellenform
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Rechtsgrundlage | Ergebnis / Konsequenz |
 |---|---|---|---|
@@ -114,9 +114,9 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Baustein 1 — Rügeschreiben
 
 ```
-An [Vergabestelle]                                [Datum]
+An [Vergabestelle] [Datum]
 Betr.: Vergabeverfahren [Bezeichnung], Az. [...]
-       Ruege gemaess § 160 Abs. 3 GWB
+ Ruege gemaess § 160 Abs. 3 GWB
 
 Sehr geehrte Damen und Herren,
 
@@ -127,11 +127,11 @@ Hiermit ruegeon wir folgende Vergabeverstoeße unverzueglich nach
 Kenntnisnahme:
 
 1. Verstoß gegen § 127 GWB / § 58 VgV (Wertung)
-   Das Angebot unserer Mandantin erzielte in Kriterium [X] lediglich
-   [Y] Punkte. Die Begruendung ist unzureichend, weil [konkreter
-   Vorwurf]. Ein Vergleich der Leistungsbeschreibung mit dem Angebot
-   belegt [Seite, Abschnitt]. Richtige Wertung ergaebe [Z] Punkte
-   und damit Platz 1.
+ Das Angebot unserer Mandantin erzielte in Kriterium [X] lediglich
+ [Y] Punkte. Die Begruendung ist unzureichend, weil [konkreter
+ Vorwurf]. Ein Vergleich der Leistungsbeschreibung mit dem Angebot
+ belegt [Seite, Abschnitt]. Richtige Wertung ergaebe [Z] Punkte
+ und damit Platz 1.
 
 2. [ggf. weiterer Verstoss]
 
@@ -154,28 +154,28 @@ I. Antraege
 Die Vergabekammer moge beschliessen:
 
 1. Dem Antragsgegner wird untersagt, in dem Vergabeverfahren [Titel]
-   den Zuschlag auf das Angebot der Beigeladenen zu erteilen.
+ den Zuschlag auf das Angebot der Beigeladenen zu erteilen.
 
 2. Dem Antragsgegner wird aufgegeben, das Vergabeverfahren in den
-   Stand vor der Wertungsentscheidung vom [Datum] zurueckzuversetzen
-   und das Verfahren unter Beachtung der Rechtsauffassung der
-   Vergabekammer fortzufuehren.
+ Stand vor der Wertungsentscheidung vom [Datum] zurueckzuversetzen
+ und das Verfahren unter Beachtung der Rechtsauffassung der
+ Vergabekammer fortzufuehren.
 
 3. Dem Antragsgegner wird aufgegeben, dem Antragsteller vollstaendige
-   Akteneinsicht gemaess § 165 GWB zu gewaehren.
+ Akteneinsicht gemaess § 165 GWB zu gewaehren.
 
 4. Der Antragsgegner traegt die Kosten des Verfahrens einschliesslich
-   der notwendigen Aufwendungen des Antragstellers.
+ der notwendigen Aufwendungen des Antragstellers.
 
 5. Die Hinzuziehung eines Rechtsanwalts durch den Antragsteller wird
-   fuer notwendig erklaert.
+ fuer notwendig erklaert.
 ```
 
 ### Baustein 3 — Argumentation ungewöhnlich niedriges Angebot
 
 ```
 III. Verstoß gegen § 60 VgV — ungewoehnlich niedriges Angebot der
-     Beigeladenen
+ Beigeladenen
 
 Das Angebot der Beigeladenen liegt um [X] % unter dem naechstguestigen
 Angebot (Antragsteller: EUR [A]; Beigeladene: EUR [B]). Diese Spanne
@@ -285,30 +285,30 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ```
 ERFOLGSAUSSICHTEN-MEMO Vergaberecht
 =========================================
-Mandant:     [NAME]
-Verfahren:   [BEZEICHNUNG]
-Datum Memo:  [TT.MM.JJJJ]
+Mandant: [NAME]
+Verfahren: [BEZEICHNUNG]
+Datum Memo: [TT.MM.JJJJ]
 
 1. Sachverhalt-Kurzfassung:
-   [...]
+ [...]
 
 2. Nachgewiesener Vergabeverstoß:
-   [§ XY GWB / VgV: Konkrete Verletzung]
+ [§ XY GWB / VgV: Konkrete Verletzung]
 
 3. Chancen Nachpruefungsantrag:
-   HOCH / MITTEL / GERING / KEINE
-   Begruendung: [Leitsatz-Referenz / Beweislage]
+ HOCH / MITTEL / GERING / KEINE
+ Begruendung: [Leitsatz-Referenz / Beweislage]
 
 4. Alternativ Schadensersatz § 181 GWB:
-   Voraussetzungen erfuellt: JA / NEIN
-   Schadenshoehe (geschaetzt): EUR [BETRAG]
+ Voraussetzungen erfuellt: JA / NEIN
+ Schadenshoehe (geschaetzt): EUR [BETRAG]
 
 5. Empfehlung:
-   [NPA einreichen / Schadensersatzklage / Kein weiteres Vorgehen]
+ [NPA einreichen / Schadensersatzklage / Kein weiteres Vorgehen]
 
 6. Fristen:
-   Nachpruefungsantrag bis:  [TT.MM.JJJJ]
-   Beschwerde bis (OLG):     [TT.MM.JJJJ bei VK-Entscheidung]
+ Nachpruefungsantrag bis: [TT.MM.JJJJ]
+ Beschwerde bis (OLG): [TT.MM.JJJJ bei VK-Entscheidung]
 =========================================
 ```
 

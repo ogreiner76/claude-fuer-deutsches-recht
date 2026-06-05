@@ -1,12 +1,12 @@
 ---
 name: hauszitierweise
-description: "Nutze dies, wenn Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Zitierweise Deutsches Recht konkret bearbeitet werden soll. Auslöser: Bitte Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage prüfen.; Erstelle eine Arbeitsfassung zu Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial hauszitierweise tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage / hauszitierweise tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

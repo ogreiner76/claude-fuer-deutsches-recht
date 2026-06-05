@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-018-erster-titel-15-buergschaft
-description: "Nutze dies, wenn PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten

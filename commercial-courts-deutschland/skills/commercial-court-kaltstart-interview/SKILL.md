@@ -16,7 +16,7 @@ description: "Kaltstart-Interview für neue Commercial-Court-Mandate: Parteien, 
 
 Dieser Skill unterstützt Verfahren vor deutschen Commercial Courts oder Commercial Chambers mit internationalem Wirtschaftsbezug. Er liefert eine prozessuale Arbeitsstruktur und, wenn gewünscht, englischen Output. Deutsches Prozessrecht bleibt der Rahmen; englische Sprache bedeutet nicht Common-Law-Verfahren.
 
-## Kaltstart
+## Einstieg
 
 Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 

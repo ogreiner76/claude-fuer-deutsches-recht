@@ -1,13 +1,13 @@
 ---
 name: emotionale-trigger-ironie-sarkasmus-klare
-description: "Nutze dies, wenn Emotionale Trigger Katalog, Ironie Und Sarkasmus Eliminieren, Klare Bitte Formulieren im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Emotionale Trigger Katalog, Ironie Und Sarkasmus Eliminieren, Klare Bitte Formulieren prüfen.; Erstelle eine Arbeitsfassung zu Emotionale Trigger Katalog, Ironie Und Sarkasmus Eliminieren, Klare Bitte Formulieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Emotionale Trigger Katalog, Ironie Und Sarkasmus Eliminieren, Klare Bitte Formulieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Emotionale Trigger Katalog, Ironie Und Sarkasmus Eliminieren, Klare Bitte Formulieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Emotionale Trigger Katalog, Ironie Und Sarkasmus Eliminieren, Klare Bitte Formulieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -176,7 +176,7 @@ Schritt 1: Ironische/sarkastische Formulierung identifizieren. Schritt 2: Den ta
 **Vorher:** "Vielen Dank für Ihre wie immer so hilfreiche Rückmeldung." (bei ausbleibender Antwort)
 **Nachher:** "Ich habe bislang keine Rückmeldung erhalten."
 
-**Vorher:** "Ihr ,Experte' hat offenbar eine eigene Meinung zum Gesetz."
+**Vorher:** "Ihr,Experte' hat offenbar eine eigene Meinung zum Gesetz."
 **Nachher:** "Die fachliche Einschätzung Ihres Beraters weicht von der geltenden Rechtsprechung ab."
 
 ## Ausgabeformat

@@ -1,13 +1,13 @@
 ---
 name: mandat-triage-schriftsatzkern-substantiierung
-description: "Nutze dies, wenn Mandat Triage Bank Kapitalmarktrecht, Schriftsatzkern Substantiierung, Spezial Bank Tatbestand Beweis Und Belege im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Bitte Mandat Triage Bank Kapitalmarktrecht, Schriftsatzkern Substantiierung, Spezial Bank Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Mandat Triage Bank Kapitalmarktrecht, Schriftsatzkern Substantiierung, Spezial Bank Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandat Triage Bank Kapitalmarktrecht, Schriftsatzkern Substantiierung, Bank Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Mandat Triage Bank Kapitalmarktrecht, Schriftsatzkern Substantiierung, Spezial Bank Tatbestand Beweis Und Belege
+# Mandat Triage Bank Kapitalmarktrecht, Schriftsatzkern Substantiierung, Bank Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandat Triage Bank Kapitalmarktrecht, Schriftsatzkern Substantiierung, Bank Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Mandat Triage Bank Kapitalmarktrecht, Schriftsatzkern Substantiierung, Spezial Bank Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandat Triage Bank Kapitalmarktrecht, Schriftsatzkern Substantiierung, Bank Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -121,7 +121,7 @@ Bank- und Kapitalmarktrecht ist heterogen — Anlegerschaden Konsumentenkredit S
 | Immobilienkredit | (Skill immobilienkredit-prüfen — perspektivisch) |
 | Bank-AGB-Klauselstreit | (Skill agb-banken-pruefen — perspektivisch) |
 | Kontosperre | (Skill kontosperre-prüfen — perspektivisch) |
-| Geldwäsche-Strafverfahren | weiter an `mandat-triage-strafrecht` plus Spezial |
+| Geldwäsche-Strafverfahren | weiter an `mandat-triage-strafrecht` plus |
 | BaFin-Aufsichtsverfahren | weiter an `mandat-triage-verwaltungsrecht` |
 | Pfändung P-Konto | weiter an `forderungsmanagement-klagewerkstatt` |
 | Crypto / MiCAR | (Skill micar-compliance — perspektivisch) |
@@ -198,15 +198,15 @@ Ist die Verjaebrungsfrist bekannt?
 ```
 TRIAGE-PROTOKOLL Bank-/Kapitalmarktrecht
 =========================================
-Eingangsdatum:       [TT.MM.JJJJ]
-Mandant:             [NAME]
-Sachgebiet:          [Anlageberatung / Verbraucherkredit / Kreditkuendigung ...]
-Sofortfrist:         [DATUM + RECHTSGRUNDLAGE]
-Verjaebrung:         [3 Jahre ab XX.XX.XXXX]
-Streitwert:          EUR [BETRAG]
-Prioritaet:          [ROT / GELB / GRUEN]
-Folge-Skill:         [SKILL-NAME]
-Naechster Schritt:   [MASSNAHME] bis [DATUM] durch [PERSON]
+Eingangsdatum: [TT.MM.JJJJ]
+Mandant: [NAME]
+Sachgebiet: [Anlageberatung / Verbraucherkredit / Kreditkuendigung ...]
+Sofortfrist: [DATUM + RECHTSGRUNDLAGE]
+Verjaebrung: [3 Jahre ab XX.XX.XXXX]
+Streitwert: EUR [BETRAG]
+Prioritaet: [ROT / GELB / GRUEN]
+Folge-Skill: [SKILL-NAME]
+Naechster Schritt: [MASSNAHME] bis [DATUM] durch [PERSON]
 =========================================
 ```
 

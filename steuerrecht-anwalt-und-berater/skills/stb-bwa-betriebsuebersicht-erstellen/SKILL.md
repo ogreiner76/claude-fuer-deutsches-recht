@@ -62,38 +62,38 @@ Mandant: [Firma]
 Zeitraum: [Monat / kumuliert]
 
 I. UMSATZ UND BETRIEBLICHE ERTRAEGE
-  8400 Erloese 19 Prozent USt                   [X]
-  8300 Erloese 7 Prozent USt                    [X]
-  8125 Erloese steuerfreie innergem. Lieferung  [X]
-  8200 Sonstige betriebliche Ertraege           [X]
+ 8400 Erloese 19 Prozent USt [X]
+ 8300 Erloese 7 Prozent USt [X]
+ 8125 Erloese steuerfreie innergem. Lieferung [X]
+ 8200 Sonstige betriebliche Ertraege [X]
 
 II. MATERIAL- UND WARENEINSATZ
-  3400 Wareneingang 19 Prozent VSt              [X]
-  3300 Wareneingang 7 Prozent VSt               [X]
-  3100 Fremdleistungen                          [X]
+ 3400 Wareneingang 19 Prozent VSt [X]
+ 3300 Wareneingang 7 Prozent VSt [X]
+ 3100 Fremdleistungen [X]
 
 III. PERSONALKOSTEN
-  4120 Loehne                                   [X]
-  4130 Gehaelter                                [X]
-  4138 Beitraege zur Berufsgenossenschaft       [X]
-  4140 Krankenkassen-AG-Anteil                  [X]
+ 4120 Loehne [X]
+ 4130 Gehaelter [X]
+ 4138 Beitraege zur Berufsgenossenschaft [X]
+ 4140 Krankenkassen-AG-Anteil [X]
 
 IV. SONSTIGE BETRIEBLICHE AUFWENDUNGEN
-  4210 Miete                                    [X]
-  4240 Gas Strom Wasser                         [X]
-  4500 Kfz-Kosten                               [X]
-  4600 Werbe- und Reisekosten                   [X]
-  4900 Sonstige betriebliche Aufwendungen       [X]
+ 4210 Miete [X]
+ 4240 Gas Strom Wasser [X]
+ 4500 Kfz-Kosten [X]
+ 4600 Werbe- und Reisekosten [X]
+ 4900 Sonstige betriebliche Aufwendungen [X]
 
 V. ABSCHREIBUNGEN
-  4830 Absetzungen auf Sachanlagen              [X]
+ 4830 Absetzungen auf Sachanlagen [X]
 
 VI. ZINSERGEBNIS UND STEUERN
-  7300 Zinsen und aehnliche Aufwendungen        [X]
-  7100 Zinsertraege                             [X]
-  7600 Steuern vom Einkommen und Ertrag         [X]
+ 7300 Zinsen und aehnliche Aufwendungen [X]
+ 7100 Zinsertraege [X]
+ 7600 Steuern vom Einkommen und Ertrag [X]
 
-ERGEBNIS NACH STEUERN                           [X]
+ERGEBNIS NACH STEUERN [X]
 ```
 
 ### Phase 3 — Vergleichsspalten

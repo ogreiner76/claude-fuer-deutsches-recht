@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-025-zweiter-staatsdiener
-description: "Nutze dies, wenn PrALR: Zweiter Teil Staatsdiener Amtspflichten im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Zweiter Teil Staatsdiener Amtspflichten prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Zweiter Teil Staatsdiener Amtspflichten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Zweiter Teil Staatsdiener Amtspflichten: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Staatsdiener Amtspflichten

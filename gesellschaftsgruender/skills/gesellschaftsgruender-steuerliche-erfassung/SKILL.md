@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-steuerliche-erfassung
-description: "Nutze dies, wenn Gesellschaftsgründer Steuerliche Erfassung Elster, Gesellschaftsgründer Treuhand Und Nominee, Gesellschaftsgründer Ag Kleine Ag, Gesellschaftsgründer Aufloesung Liquidation Start, Gesellschaftsgründer Auslandsgesellschafter Kyc im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Steuerliche Erfassung Elster, Gesellschaftsgründer Treuhand Und Nominee, Gesellschaftsgründer Ag Kleine Ag, Gesellschaftsgründer Aufloesung Liquidation Start, Gesellschaftsgründer Auslandsgesellschafter Kyc prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Steuerliche Erfassung Elster, Gesellschaftsgründer Treuhand Und Nominee, Gesellschaftsgründer Ag Kleine Ag, Gesellschaftsgründer Aufloesung Liquidation Start, Gesellschaftsgründer Auslandsgesellschafter Kyc.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Steuerliche Erfassung Elster, Gesellschaftsgruender Treuhand Und Nominee, Gesellschaftsgruender Ag Kleine Ag, Gesellschaftsgruender Aufloesung Liquidation Start: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Steuerliche Erfassung Elster, Gesellschaftsgründer Treuhand Und Nominee, Gesellschaftsgründer Ag Kleine Ag, Gesellschaftsgründer Aufloesung Liquidation Start, Gesellschaftsgründer Auslandsgesellschafter Kyc
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Steuerliche Erfassung Elster, Gesellschaftsgründer Treuhand Und Nominee, Gesellschaftsgründer Ag Kleine Ag, Gesellschaftsgründer Aufloesung Liquidation Start, Gesellschaftsgründer Auslandsgesellschafter Kyc** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

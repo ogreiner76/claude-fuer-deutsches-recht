@@ -1,13 +1,13 @@
 ---
 name: wi-insurance-aktenanlage-erechnung-gobd
-description: "Nutze dies, wenn Mittelstand Corporate Ma Wi Insurance, Mittelstand Ma Aktenanlage, Mittelstand Ma Erechnung Gobd, Mittelstand Ma Insolvenzreife im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Mittelstand Corporate Ma Wi Insurance, Mittelstand Ma Aktenanlage, Mittelstand Ma Erechnung Gobd, Mittelstand Ma Insolvenzreife prüfen.; Erstelle eine Arbeitsfassung zu Mittelstand Corporate Ma Wi Insurance, Mittelstand Ma Aktenanlage, Mittelstand Ma Erechnung Gobd, Mittelstand Ma Insolvenzreife.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mittelstand Corporate Ma Wi Insurance, Mittelstand Ma Aktenanlage, Mittelstand Ma Erechnung Gobd, Mittelstand Ma Insolvenzreife: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mittelstand Corporate Ma Wi Insurance, Mittelstand Ma Aktenanlage, Mittelstand Ma Erechnung Gobd, Mittelstand Ma Insolvenzreife
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mittelstand Corporate Ma Wi Insurance, Mittelstand Ma Aktenanlage, Mittelstand Ma Erechnung Gobd, Mittelstand Ma Insolvenzreife** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -292,7 +292,7 @@ Im Mittelstands-M&A sind die Transaktionen häufig vom Gesellschafter-Geschäfts
 ## Prüfschema / Anlage-Checkliste (Mittelstand-angepasst)
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -464,10 +464,10 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 **Fokus:** Kanzlei braucht GoBD-konforme E-Rechnung für M&A-Mandat: XRechnung-XML ZUGFeRD Workstream-Abrechnung revisionssicheren Buchungsnachweis. Normen GoBD BMF-Schreiben 2019 UStG §§ 14 14a ZUGFeRD EN 16931. Prüfraster Pflichtfelder XRechnung Pflichtangaben Narrative Revisionssicherheit Archivierung. Output XRechnung-XML ZUGFeRD-Paket Buchungsnachweis. Abgrenzung zu billing-narratives (Texterstellung) und mittelstand-ma-tabellenreview (Datenprüfung).
 
-# Freistehender Billing-, GoBD- und E-Rechnungsworkflow (Mittelstand)
+# Freistehender Billing-, GoBD- und E-Rechnungs(Mittelstand)
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freistehender Billing-, GoBD- und E-Rechnungsworkflow (Mittelstand)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freistehender Billing-, GoBD- und E-Rechnungs(Mittelstand)` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
 - **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
@@ -475,8 +475,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 
-## Fachkern: Freistehender Billing-, GoBD- und E-Rechnungsworkflow (Mittelstand)
-- **Spezialgegenstand:** Freistehender Billing-, GoBD- und E-Rechnungsworkflow (Mittelstand) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
+## Fachkern: Freistehender Billing-, GoBD- und E-Rechnungs(Mittelstand)
+- **Spezialgegenstand:** Freistehender Billing-, GoBD- und E-Rechnungs(Mittelstand) wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
 - **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
@@ -524,7 +524,7 @@ Mit der Einführung der E-Rechnungspflicht im B2B-Verkehr (§ 14 UStG n.F. ab 01
 ## Prüfschema / Billing-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -589,14 +589,14 @@ Projekt: [Deal-Code]
 Abrechnungszeitraum: [TT.MM.JJJJ] bis [TT.MM.JJJJ]
 Erstellt: [Datum]
 
-| Datum      | Fee Earner | Phase    | Workstream | Tätigkeit (Narrative)                                    | Dauer (h) | Rate (EUR/h) | Betrag (EUR) |
+| Datum | Fee Earner | Phase | Workstream | Tätigkeit (Narrative) | Dauer (h) | Rate (EUR/h) | Betrag (EUR) |
 |------------|------------|----------|------------|----------------------------------------------------------|-----------|--------------|--------------|
-| [Datum]    | [Partner]  | DD       | Legal      | Prüfung Gesellschaftsvertrag und Gesellschafterliste;    | 2,5       | [X]          | [Y]          |
-|            |            |          |            | Identifikation Vinkulierungsklausel; Memo an Mandant     |           |              |              |
-| [Datum]    | [Assoc.]   | DD       | Finance    | Überprüfung Jahresabschlüsse 2021–2023; EBITDA-Berein.   | 4,0       | [X]          | [Y]          |
-| [Datum]    | [Partner]  | Signing  | Legal      | Vertragsverhandlung SPA mit Gegenseite; Textmarkups      | 3,0       | [X]          | [Y]          |
-| [Datum]    | [Assoc.]   | Admin    | Admin      | Notar-Koordination; Vollmachten vorbereiten              | 1,0       | [X]          | [Y]          |
-|            |            |          |            |                                              GESAMT:     | [Summe]   |              | EUR [Total]  |
+| [Datum] | [Partner] | DD | Legal | Prüfung Gesellschaftsvertrag und Gesellschafterliste; | 2,5 | [X] | [Y] |
+| | | | | Identifikation Vinkulierungsklausel; Memo an Mandant | | | |
+| [Datum] | [Assoc.] | DD | Finance | Überprüfung Jahresabschlüsse 2021–2023; EBITDA-Berein. | 4,0 | [X] | [Y] |
+| [Datum] | [Partner] | Signing | Legal | Vertragsverhandlung SPA mit Gegenseite; Textmarkups | 3,0 | [X] | [Y] |
+| [Datum] | [Assoc.] | Admin | Admin | Notar-Koordination; Vollmachten vorbereiten | 1,0 | [X] | [Y] |
+| | | | | GESAMT: | [Summe] | | EUR [Total] |
 
 AUSLAGEN:
 - Notargebühren Urkunde vom [Datum]: EUR [X] (Beleg: Kostenrechnung Anlage [X])
@@ -613,31 +613,31 @@ RECHNUNGSBETRAG (brutto): EUR [Z + USt]
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <ubl:Invoice xmlns:ubl="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
-             xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
-             xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2">
-  <cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.3</cbc:CustomizationID>
-  <cbc:ProfileID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:ProfileID>
-  <cbc:ID>[RECHNUNGSNUMMER]</cbc:ID>
-  <cbc:IssueDate>[JJJJ-MM-TT]</cbc:IssueDate>
-  <cbc:InvoiceTypeCode>380</cbc:InvoiceTypeCode>
-  <cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode>
-  <cbc:BuyerReference>[LEITWEG-ID-MANDANT oder Bestellnummer]</cbc:BuyerReference>
-  <!-- Lieferant -->
-  <cac:AccountingSupplierParty>
-    <cac:Party>
-      <cbc:RegistrationName>[KANZLEINAME]</cbc:RegistrationName>
-      <cac:PostalAddress><cbc:StreetName>[STRASSE]</cbc:StreetName></cac:PostalAddress>
-      <cac:PartyTaxScheme><cbc:CompanyID>DE[USTID]</cbc:CompanyID></cac:PartyTaxScheme>
-    </cac:Party>
-  </cac:AccountingSupplierParty>
-  <!-- Rechnungsposition -->
-  <cac:InvoiceLine>
-    <cbc:ID>1</cbc:ID>
-    <cbc:InvoicedQuantity unitCode="HUR">[STUNDEN]</cbc:InvoicedQuantity>
-    <cbc:LineExtensionAmount currencyID="EUR">[NETTOBETRAG]</cbc:LineExtensionAmount>
-    <cac:Item><cbc:Description>[LEISTUNGSBESCHREIBUNG KURZ]</cbc:Description></cac:Item>
-    <cac:Price><cbc:PriceAmount currencyID="EUR">[STUNDENSATZ]</cbc:PriceAmount></cac:Price>
-  </cac:InvoiceLine>
+ xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"
+ xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2">
+ <cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:xoev-de:kosit:standard:xrechnung_2.3</cbc:CustomizationID>
+ <cbc:ProfileID>urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</cbc:ProfileID>
+ <cbc:ID>[RECHNUNGSNUMMER]</cbc:ID>
+ <cbc:IssueDate>[JJJJ-MM-TT]</cbc:IssueDate>
+ <cbc:InvoiceTypeCode>380</cbc:InvoiceTypeCode>
+ <cbc:DocumentCurrencyCode>EUR</cbc:DocumentCurrencyCode>
+ <cbc:BuyerReference>[LEITWEG-ID-MANDANT oder Bestellnummer]</cbc:BuyerReference>
+ <!-- Lieferant -->
+ <cac:AccountingSupplierParty>
+ <cac:Party>
+ <cbc:RegistrationName>[KANZLEINAME]</cbc:RegistrationName>
+ <cac:PostalAddress><cbc:StreetName>[STRASSE]</cbc:StreetName></cac:PostalAddress>
+ <cac:PartyTaxScheme><cbc:CompanyID>DE[USTID]</cbc:CompanyID></cac:PartyTaxScheme>
+ </cac:Party>
+ </cac:AccountingSupplierParty>
+ <!-- Rechnungsposition -->
+ <cac:InvoiceLine>
+ <cbc:ID>1</cbc:ID>
+ <cbc:InvoicedQuantity unitCode="HUR">[STUNDEN]</cbc:InvoicedQuantity>
+ <cbc:LineExtensionAmount currencyID="EUR">[NETTOBETRAG]</cbc:LineExtensionAmount>
+ <cac:Item><cbc:Description>[LEISTUNGSBESCHREIBUNG KURZ]</cbc:Description></cac:Item>
+ <cac:Price><cbc:PriceAmount currencyID="EUR">[STUNDENSATZ]</cbc:PriceAmount></cac:Price>
+ </cac:InvoiceLine>
 </ubl:Invoice>
 ```
 
@@ -770,7 +770,7 @@ Im Mittelstand ist die Insolvenzreife-Prüfung besonders heikel, weil der Gesell
 ## Prüfschema (Mittelstand)
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -885,18 +885,18 @@ Liquiditätsstatus Zielgesellschaft: AMPEL ROT (Stand [Datum])
 DEAL-AUSWIRKUNGEN:
 
 1. MAC-Klausel (SPA Ziffer [X]): Die festgestellte Liquiditätslücke von EUR [X]
-   (> 10 % der fälligen Verbindlichkeiten) könnte als Material Adverse Change
-   im Sinne der SPA-Definition zu qualifizieren sein.
-   EMPFEHLUNG: Vollzug suspendieren bis zur Klärung.
+ (> 10 % der fälligen Verbindlichkeiten) könnte als Material Adverse Change
+ im Sinne der SPA-Definition zu qualifizieren sein.
+ EMPFEHLUNG: Vollzug suspendieren bis zur Klärung.
 
 2. Closing Condition: Garantie der Zahlungsfähigkeit (SPA Ziffer [X]) ist bei
-   Zahlungsunfähigkeit nicht erfüllt. Käufer kann Vollzug verweigern.
+ Zahlungsunfähigkeit nicht erfüllt. Käufer kann Vollzug verweigern.
 
 3. Net Debt Erhöhung: Steuerrückstände EUR [X] und KK-Überziehung EUR [Y] erhöhen
-   Net Debt um EUR [Z] → Kaufpreisminderung von EUR [Z] (per SPA-Mechanik).
+ Net Debt um EUR [Z] → Kaufpreisminderung von EUR [Z] (per SPA-Mechanik).
 
 4. W&I-Versicherung: Police Ziffer [X] schließt Schäden aus, die auf Insolvenzreife
-   beruhen. W&I-Broker informieren.
+ beruhen. W&I-Broker informieren.
 
 NÄCHSTE SCHRITTE:
 TODO [Käufer-Anwalt]: MAC-Analyse abschließen bis [Datum]

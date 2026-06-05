@@ -1,19 +1,19 @@
 ---
 name: rechtsabteilung-ki-saas-vertrag-werkvertrag
-description: "Nutze dies, wenn Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2B, Werkvertrag Dienstvertrag Software, License Scanner Remediation im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2B, Werkvertrag Dienstvertrag Software, License Scanner Remediation prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2B, Werkvertrag Dienstvertrag Software, License Scanner Remediation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2b, Werkvertrag Dienstvertrag Software, License Scanner Remediation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2B, Werkvertrag Dienstvertrag Software, License Scanner Remediation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2B, Werkvertrag Dienstvertrag Software, License Scanner Remediation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-ki-code-und-trainingsdaten-im-lizenzvertrag` | Rechtsabteilungs-Spezialskill für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-ki-code-und-trainingsdaten-im-lizenzvertrag` | Rechtsabteilungs-Fachmodul für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `saas-vertrag-b2b` | Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung. |
 | `werkvertrag-dienstvertrag-software` | Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang. |
 | `license-scanner-remediation` | Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail. |
@@ -27,7 +27,7 @@ Für **Rechtsabteilung Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag
 
 ## 1. `rechtsabteilung-ki-code-und-trainingsdaten-im-lizenzvertrag`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: KI-Code und Trainingsdaten im Lizenzvertrag
 

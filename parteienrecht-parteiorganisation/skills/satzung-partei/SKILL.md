@@ -8,7 +8,7 @@ description: "Prüft Satzung gegen Parteiengesetz: Organe, Gebietsverbände, Mit
 ## Aufgabe
 Prüft Satzung gegen Parteiengesetz: Organe, Gebietsverbände, Mitgliedschaft, Beitragsordnung, Schiedsgericht, Kandidatenaufstellung, Finanzen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -91,39 +91,39 @@ Quartal: [Q1/2026]
 Termin: [Datum, Uhrzeit]
 
 1. Quartal in Zahlen (10 Min)
-   - Umsatz, EBIT, Ergebnis
-   - Vergleich Plan/Vorquartal/Vorjahresquartal
+ - Umsatz, EBIT, Ergebnis
+ - Vergleich Plan/Vorquartal/Vorjahresquartal
 
 2. BWA-Auffaelligkeiten (15 Min)
-   - Wesentliche Abweichungen
-   - Sondereffekte
-   - Empfehlungen
+ - Wesentliche Abweichungen
+ - Sondereffekte
+ - Empfehlungen
 
 3. Steuerliche Themen (15 Min)
-   - Steuervorauszahlungen
-   - USt-Voranmeldung Quartalsergebnis
-   - Investitionsabzugsbetrag § 7g EStG
-   - Sonder-AfA Moeglichkeiten
+ - Steuervorauszahlungen
+ - USt-Voranmeldung Quartalsergebnis
+ - Investitionsabzugsbetrag § 7g EStG
+ - Sonder-AfA Moeglichkeiten
 
 4. Liquiditaet und Bank (10 Min)
-   - Bankgespraeche
-   - OPOS-Status
-   - Liquiditaetsplan
+ - Bankgespraeche
+ - OPOS-Status
+ - Liquiditaetsplan
 
 5. Personal (10 Min)
-   - Bestand
-   - Anstehende Vertraegsaenderungen
-   - Lohnerhoehungen, Sonderzahlungen
-   - SV-Pruefung in Sicht?
+ - Bestand
+ - Anstehende Vertraegsaenderungen
+ - Lohnerhoehungen, Sonderzahlungen
+ - SV-Pruefung in Sicht?
 
 6. Investitionen / Strategie (15 Min)
-   - Geplante Investitionen
-   - Steuerliche Optimierung
-   - Bankfinanzierung
+ - Geplante Investitionen
+ - Steuerliche Optimierung
+ - Bankfinanzierung
 
 7. Naechste Schritte (5 Min)
-   - Termine
-   - Aktionspunkte
+ - Termine
+ - Aktionspunkte
 ```
 
 ### Phase 4 — Krisengespraech (Sonderfall)

@@ -1,19 +1,19 @@
 ---
 name: mitgliederversammlung-kleine-kreis
-description: "Nutze dies, wenn Mitgliederversammlung Kleine Partei, Mitgliederversammlung Kreis, Nichtzulassung Wahlvorschlag im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Mitgliederversammlung Kleine Partei, Mitgliederversammlung Kreis, Nichtzulassung Wahlvorschlag prüfen.; Erstelle eine Arbeitsfassung zu Mitgliederversammlung Kleine Partei, Mitgliederversammlung Kreis, Nichtzulassung Wahlvorschlag.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mitgliederversammlung Kleine Partei, Mitgliederversammlung Kreis, Nichtzulassung Wahlvorschlag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mitgliederversammlung Kleine Partei, Mitgliederversammlung Kreis, Nichtzulassung Wahlvorschlag
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mitgliederversammlung Kleine Partei, Mitgliederversammlung Kreis, Nichtzulassung Wahlvorschlag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `mitgliederversammlung-kleine-partei` | Niedrigschwelliger Workflow für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte. |
+| `mitgliederversammlung-kleine-partei` | Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte. |
 | `mitgliederversammlung-kreis` | Erstellt Einladung zur Kreis-/Mitgliederversammlung mit Frist, Tagesordnung, Satzungsgrundlage und Nachweis. |
 | `nichtzulassung-wahlvorschlag` | Routet Beschwerde/Einspruch gegen Nichtzulassung eines Wahlvorschlags nach jeweiligem Wahlrecht. |
 
@@ -26,14 +26,14 @@ Für **Mitgliederversammlung Kleine Partei, Mitgliederversammlung Kreis, Nichtzu
 
 ## 1. `mitgliederversammlung-kleine-partei`
 
-**Fokus:** Niedrigschwelliger Workflow für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte.
+**Fokus:** Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte.
 
 # Kleine Partei Praxis
 
 ## Aufgabe
-Niedrigschwelliger Workflow für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte.
+Niedrigschwelliger für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erstellt Einladung zur Kreis-/Mitgliederversammlung mit Frist, Tagesordnung, Satzungsgrundlage und Nachweis.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Routet Beschwerde/Einspruch gegen Nichtzulassung eines Wahlvorschlags nach jeweiligem Wahlrecht.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

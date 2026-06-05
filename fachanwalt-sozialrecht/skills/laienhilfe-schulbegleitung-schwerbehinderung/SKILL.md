@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-schulbegleitung-schwerbehinderung
-description: "Nutze dies, wenn Laienhilfe Schulbegleitung Kind, Laienhilfe Schwerbehinderung Gdb, Laienhilfe Sgb Xii Grundsicherung, Laienhilfe Telefonat Behörde im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Laienhilfe Schulbegleitung Kind, Laienhilfe Schwerbehinderung Gdb, Laienhilfe Sgb Xii Grundsicherung, Laienhilfe Telefonat Behörde prüfen.; Erstelle eine Arbeitsfassung zu Laienhilfe Schulbegleitung Kind, Laienhilfe Schwerbehinderung Gdb, Laienhilfe Sgb Xii Grundsicherung, Laienhilfe Telefonat Behörde.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Laienhilfe Schulbegleitung Kind, Laienhilfe Schwerbehinderung Gdb, Laienhilfe Sgb Xii Grundsicherung, Laienhilfe Telefonat Behörde: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Laienhilfe Schulbegleitung Kind, Laienhilfe Schwerbehinderung Gdb, Laienhilfe Sgb Xii Grundsicherung, Laienhilfe Telefonat Behörde
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Schulbegleitung Kind, Laienhilfe Schwerbehinderung Gdb, Laienhilfe Sgb Xii Grundsicherung, Laienhilfe Telefonat Behörde** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

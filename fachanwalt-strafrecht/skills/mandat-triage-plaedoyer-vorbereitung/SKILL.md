@@ -1,13 +1,13 @@
 ---
 name: mandat-triage-plaedoyer-vorbereitung
-description: "Nutze dies, wenn Mandat Triage Strafrecht, Plaedoyer Vorbereitung Strafverteidigung, Schriftsatzkern Substantiierung, Spezial Adhaesion Formular Portal Und Einreichung, Spezial Aktenaufbereiter Beweislast Und Darlegungslast im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Mandat Triage Strafrecht, Plaedoyer Vorbereitung Strafverteidigung, Schriftsatzkern Substantiierung, Spezial Adhaesion Formular Portal Und Einreichung, Spezial Aktenaufbereiter Beweislast Und Darlegungslast prüfen.; Erstelle eine Arbeitsfassung zu Mandat Triage Strafrecht, Plaedoyer Vorbereitung Strafverteidigung, Schriftsatzkern Substantiierung, Spezial Adhaesion Formular Portal Und Einreichung, Spezial Aktenaufbereiter Beweislast Und Darlegungslast.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandat Triage Strafrecht, Plaedoyer Vorbereitung Strafverteidigung, Schriftsatzkern Substantiierung, Adhaesion Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Mandat Triage Strafrecht, Plaedoyer Vorbereitung Strafverteidigung, Schriftsatzkern Substantiierung, Spezial Adhaesion Formular Portal Und Einreichung, Spezial Aktenaufbereiter Beweislast Und Darlegungslast
+# Mandat Triage Strafrecht, Plaedoyer Vorbereitung Strafverteidigung, Schriftsatzkern Substantiierung, Adhaesion Formular Portal Und Einreichung, Aktenaufbereiter Beweislast Und Darlegungslast
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandat Triage Strafrecht, Plaedoyer Vorbereitung Strafverteidigung, Schriftsatzkern Substantiierung, Adhaesion Formular Portal Und Einreichung, Aktenaufbereiter Beweislast Und Darlegungslast** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Mandat Triage Strafrecht, Plaedoyer Vorbereitung Strafverteidigung, Schriftsatzkern Substantiierung, Spezial Adhaesion Formular Portal Und Einreichung, Spezial Aktenaufbereiter Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandat Triage Strafrecht, Plaedoyer Vorbereitung Strafverteidigung, Schriftsatzkern Substantiierung, Adhaesion Formular Portal Und Einreichung, Aktenaufbereiter Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -264,47 +264,47 @@ Aktenzeichen: [...]
 Hauptverhandlung am [Datum]
 
 I. ERÖFFNUNG
-   Zusammenfassung des Sachverhalts aus Verteidigersicht.
-   "Was ist in dieser Sache tatsächlich passiert?"
+ Zusammenfassung des Sachverhalts aus Verteidigersicht.
+ "Was ist in dieser Sache tatsächlich passiert?"
 
 II. BEWEISWÜRDIGUNG – TATSÄCHLICHES
-   A. Zeugenaussagen
-      - Zeuge X: Widerspruch zwischen polizeilicher Vernehmung
-        vom [Datum] (Protokoll Bl. [X]) und HV-Aussage am
-        [Datum]; Aussage daher nicht glaubwürdig.
-      - Zeuge Y: Eigeninteresse; Vorwurf von [Datum].
-   B. Sachverständigengutachten
-      - Methode anerkannt? Anknüpfungstatsachen vollständig?
-      - Gegen-Auslegung möglich?
-   C. Verwertungsverbote
-      - Beschlagnahme vom [Datum]: ohne richterliche Anordnung
-        (§ 105 StPO); Beweisverwertungsverbot geltend machen.
+ A. Zeugenaussagen
+ - Zeuge X: Widerspruch zwischen polizeilicher Vernehmung
+ vom [Datum] (Protokoll Bl. [X]) und HV-Aussage am
+ [Datum]; Aussage daher nicht glaubwürdig.
+ - Zeuge Y: Eigeninteresse; Vorwurf von [Datum].
+ B. Sachverständigengutachten
+ - Methode anerkannt? Anknüpfungstatsachen vollständig?
+ - Gegen-Auslegung möglich?
+ C. Verwertungsverbote
+ - Beschlagnahme vom [Datum]: ohne richterliche Anordnung
+ (§ 105 StPO); Beweisverwertungsverbot geltend machen.
 
 III. RECHTLICHE WÜRDIGUNG
-   A. Tatbestand
-      - Objektiver Tatbestand: [Handlung X] führte nicht zu
-        [Erfolg Y]; Kausalität fehlt / obj. Zurechnung ausgeschlossen.
-      - Subjektiver Tatbestand: Vorsatz nicht nachgewiesen.
-   B. Schuldfähigkeit / Versuch / Konkurrenzen
-      - [Ggf. § 21 StGB; § 23 Abs. 2 StGB; § 52 StGB.]
+ A. Tatbestand
+ - Objektiver Tatbestand: [Handlung X] führte nicht zu
+ [Erfolg Y]; Kausalität fehlt / obj. Zurechnung ausgeschlossen.
+ - Subjektiver Tatbestand: Vorsatz nicht nachgewiesen.
+ B. Schuldfähigkeit / Versuch / Konkurrenzen
+ - [Ggf. § 21 StGB; § 23 Abs. 2 StGB; § 52 StGB.]
 
 IV. STRAFZUMESSUNG (hilfsweise)
-   Strafrahmen: § [X] StGB: [Mindeststrafe] bis [Höchststrafe].
-   Strafmilderung:
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   - Erstmals straffällig
-   - Schadenswiedergutmachung: [Betrag EUR] bereits geleistet
-   - Familie: [X] Kinder, Alleinverdiener
-   - Lange Verfahrensdauer: [X] Jahre; Belastung für Mandanten
+ Strafrahmen: § [X] StGB: [Mindeststrafe] bis [Höchststrafe].
+ Strafmilderung:
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Erstmals straffällig
+ - Schadenswiedergutmachung: [Betrag EUR] bereits geleistet
+ - Familie: [X] Kinder, Alleinverdiener
+ - Lange Verfahrensdauer: [X] Jahre; Belastung für Mandanten
 
 V. BEWÄHRUNG (§ 56 StGB)
-   Sozialprognose positiv: keine Vorstrafen, stabiles Umfeld,
-   Arbeitsstelle gesichert, Wohnverhältnisse geordnet.
+ Sozialprognose positiv: keine Vorstrafen, stabiles Umfeld,
+ Arbeitsstelle gesichert, Wohnverhältnisse geordnet.
 
 VI. ANTRAG
-   Ich beantrage, [Name] vom Vorwurf der [Straftat]
-   freizusprechen / zu einer Freiheitsstrafe von [X] Monaten
-   auf Bewährung zu verurteilen.
+ Ich beantrage, [Name] vom Vorwurf der [Straftat]
+ freizusprechen / zu einer Freiheitsstrafe von [X] Monaten
+ auf Bewährung zu verurteilen.
 ```
 
 ### Baustein 2 – Hilfsbeweisantrag (vor Schluss der Beweisaufnahme)
@@ -340,22 +340,22 @@ VORBEREITUNG LETZTES WORT
 Empfehlung für Inhalt des letzten Wortes:
 
 1. Reue / Entschuldigung:
-   Falls Geständnis oder Teilgeständnis: Kurze ehrliche
-   Entschuldigung gegenüber dem Gericht und ggf. der Verletzten.
-   Nicht ausschweifend – Glaubwürdigkeit durch Kürze.
+ Falls Geständnis oder Teilgeständnis: Kurze ehrliche
+ Entschuldigung gegenüber dem Gericht und ggf. der Verletzten.
+ Nicht ausschweifend – Glaubwürdigkeit durch Kürze.
 
 2. Sachverhaltshinweise:
-   Nur wenn Plädoyer und letztes Wort koordiniert:
-   "Ich möchte noch einmal betonen, dass ich nie die Absicht
-   hatte, [Person X] zu schädigen."
+ Nur wenn Plädoyer und letztes Wort koordiniert:
+ "Ich möchte noch einmal betonen, dass ich nie die Absicht
+ hatte, [Person X] zu schädigen."
 
 3. Persönliche Situation:
-   Kurz: Familie, Arbeit, Therapie, Wiedergutmachung.
+ Kurz: Familie, Arbeit, Therapie, Wiedergutmachung.
 
 4. Was NICHT sagen:
-   – Schuldzuweisung an Zeugen oder Opfer
-   – Rechtsmittelankündigung
-   – Lange Stellungnahmen zur Rechtslage (das ist Sache der Verteidigung)
+ – Schuldzuweisung an Zeugen oder Opfer
+ – Rechtsmittelankündigung
+ – Lange Stellungnahmen zur Rechtslage (das ist Sache der Verteidigung)
 
 Timing: Kurz (1–3 Minuten). Wirkung: Menschlichkeit zeigen.
 ```
@@ -663,7 +663,7 @@ Vor Versand:
 # Adhaesion: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Adhaesion: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Adhaesion: Formular, Portal und Einreichungslogik / spezial adhaesion formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Adhaesion: Formular, Portal und Einreichungslogik / adhaesion formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -704,7 +704,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung / spezial aktenaufbereiter beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung / aktenaufbereiter beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO, Art. 6, EMRK.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,19 +1,19 @@
 ---
 name: beirat-haftung-gk-sanierungsgewinn-gk-gk
-description: "Nutze dies, wenn Beirat Haftung, Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik, Gk Sanierungsgewinn Fruehe Mandantsteuerung Q Minus Zwoelf, Gk Sanierungsgewinn Im Bond Restructuring Finanzgesellschaften, Gk Sanierungsgewinn Konzern Und Cross Border und 2 weitere Themen im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Haftung, Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik, Gk Sanierungsgewinn Fruehe Mandantsteuerung Q Minus Zwoelf, Gk Sanierungsgewinn Im Bond Restructuring Finanzgesellschaften, Gk Sanierungsgewinn Konzern Und Cross Border und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Beirat Haftung, Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik, Gk Sanierungsgewinn Fruehe Mandantsteuerung Q Minus Zwoelf, Gk Sanierungsgewinn Im Bond Restructuring Finanzgesellschaften, Gk Sanierungsgewinn Konzern Und Cross Border und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Haftung, Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik, Gk Sanierungsgewinn Fruehe Mandantsteuerung Q Minus Zwoelf, Gk Sanierungsgewinn Im Bond Restructuring Finanzgesellschaften: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Haftung, Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik, Gk Sanierungsgewinn Fruehe Mandantsteuerung Q Minus Zwoelf, Gk Sanierungsgewinn Im Bond Restructuring Finanzgesellschaften, Gk Sanierungsgewinn Konzern Und Cross Border und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Haftung, Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik, Gk Sanierungsgewinn Fruehe Mandantsteuerung Q Minus Zwoelf, Gk Sanierungsgewinn Im Bond Restructuring Finanzgesellschaften, Gk Sanierungsgewinn Konzern Und Cross Border und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-haftung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-haftung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik` | Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (Kapitalherabsetzung, Kapitalerhöhung, Sacheinlage) und die Einbindung in die SPA-Architektur. Adressat ist das Großkanzlei-Team in Transaktion und Restrukturierung. Quellen Stand 06/2026. |
 | `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf` | Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf. Steuert die Mandantenkommunikation zwölf Monate vor der formellen Anzeige eines Restrukturierungsplans oder StaRUG-Verfahrens und bindet die Steuerseite (§ 3a EStG / § 7b GewStG / § 8c und § 8d KStG) frühzeitig ein. Adressat ist die Sozietät als Sparringspartner des CFO und Tax Director. Liefert Zeitachse Q-12 bis Q+6, Stakeholder-Map, Mandantenmemo und Beratungs-Roadmap. Quellen Stand 06/2026. |
 | `gk-sanierungsgewinn-im-bond-restructuring-finanzgesellschaften` | Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften. Behandelt die Besonderheiten der Anleihegläubiger-Strukturen, das Schuldverschreibungsgesetz, Mehrheitsentscheidungen der Anleihegläubigerversammlung, Lock-up Agreements, Schemes of Arrangement nach englischem Recht und die steuerlichen Wirkungen des Forderungsverzichts auf Schuldnerseite. Liefert Strukturraster, Plan-Klauseln und Verhandlungstaktik für Bond-Restrukturierungen. Adressat ist das Kapitalmarkt- und Restrukturierungsteam der Großkanzlei. Quellen Stand 06/2026. |
@@ -30,7 +30,7 @@ Für **Beirat Haftung, Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik, Gk
 
 ## 1. `beirat-haftung`
 
-**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Haftung
 
@@ -144,7 +144,7 @@ Nicht dieser Skill ist primär, wenn der DES nur theoretisch erwogen wird, aber 
 - **§ 7 Abs. 4 StaRUG** – DES im Restrukturierungsplan.
 - **§ 8c KStG / § 8d KStG** – Anteilseignerwechsel durch DES.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Forderungs-Inventur.** Welche Forderungen sollen eingebracht werden? Nennwert, Werthaltigkeit, Sicherheiten, Rangverhältnis.
 2. **Werthaltigkeitsprüfung.** Gutachterliche Bewertung der Forderung. Der werthaltige Teil ist die Sacheinlage; der nicht werthaltige Teil ist Sanierungsertrag.
@@ -203,11 +203,11 @@ Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikels
 - Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung DES.
 - Plugin `insolvenzrecht`: DES im Insolvenzplan; § 225a InsO.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
-  - `grosskanzlei-corporate-ma-distressed-ma`
-  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+ - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
+ - `grosskanzlei-corporate-ma-distressed-ma`
+ - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
 
 ## Quellen Stand 06/2026
 
@@ -281,7 +281,7 @@ Nicht dieser Skill, sondern `grosskanzlei-corporate-ma-distressed-ma` oder `gros
 - **BMF-Schreiben vom 27.04.2017** zur Umsetzung des Sanierungserlasses sowie nachfolgende Verlautbarungen; eigene Verifizierung im Bundessteuerblatt Stand 06/2026.
 - **FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25** zur Antragstellung im Bezug auf § 3a EStG; Volltext über die Datenbank des FG Köln und über NWB.
 
-## Workflow / Schritt für Schritt – Zeitachse Q-12 bis Q+6
+## / Schritt für Schritt – Zeitachse Q-12 bis Q+6
 
 **Q-12 bis Q-9 – Sondierung und Steuerseite ans Bord holen.**
 1. Erste Strategie-Note an den CFO mit der Warnung: Verlustvorträge sind ein Vermögensgegenstand des Konzerns; sie sind in der Sanierung gefährdet.
@@ -352,10 +352,10 @@ Schreiben Sie Ihre Empfehlungen schriftlich und gegenzeichnen lassen. Das ist ni
 - Plugin `steuerrecht-anwalt-und-berater`: Skills zu § 3a EStG, § 8c KStG, § 89 AO im Detail.
 - Plugin `insolvenzrecht`: StaRUG-Plan, Insolvenzplan, Forderungsverzicht aus Gläubigersicht.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-distressed-ma`
-  - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
-  - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+ - `grosskanzlei-corporate-ma-distressed-ma`
+ - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
+ - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
+ - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
 
 ## Quellen Stand 06/2026
 
@@ -432,7 +432,7 @@ Nicht dieser Skill ist primär, wenn nur klassisches Bank-Debt restrukturiert wi
 - **Scheme of Arrangement (UK Companies Act 2006, Part 26 / Part 26A)** – relevant bei deutscher Emittentin mit englischem Anleiherecht.
 - **EuInsVO** – grenzüberschreitendes Insolvenzverfahren.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Bond-Inventur:**
 
@@ -516,11 +516,11 @@ Drei Beobachtungen aus der Bond-Restrukturierungs-Praxis:
 - Plugin `kapitalmarktrecht`: SchVG, MAR im Detail.
 - Plugin `insolvenzrecht`: StaRUG, Insolvenzplan mit Bondgläubiger.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar`
-  - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
-  - `gk-sanierungsgewinn-konzern-und-cross-border`
+ - `grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar`
+ - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+ - `gk-sanierungsgewinn-konzern-und-cross-border`
 
 ## Quellen Stand 06/2026
 
@@ -599,7 +599,7 @@ Nicht dieser Skill, sondern die nationalen Sanierungsskills sind primär, wenn n
 - **EuInsVO – VO (EU) 2015/848** – europäische Insolvenzverordnung.
 - **EU-Beihilferecht Art. 107 AEUV** – relevant bei Sanierungsklausel.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Konzernstruktur kartieren.** Welche Gesellschaften sind betroffen? Welche sind organschaftlich verbunden? Welche befinden sich in welcher Jurisdiktion?
 2. **Forderungsstruktur kartieren.** Welche Forderungen bestehen zwischen Konzerngesellschaften? Welche zwischen Konzern und externen Gläubigern? Welche sind sicherheitenbesichert?
@@ -655,10 +655,10 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - Plugin `steuerrecht-anwalt-und-berater`: AStG, ATAD, Konzernsteuerrecht im Detail.
 - Plugin `insolvenzrecht`: EuInsVO, Konzerninsolvenz, Cross-Border-Verfahren.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
-  - `grosskanzlei-corporate-ma-translations-multijurisdictional`
-  - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
+ - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `grosskanzlei-corporate-ma-translations-multijurisdictional`
+ - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
 
 ## Quellen Stand 06/2026
 
@@ -735,7 +735,7 @@ Nicht dieser Skill ist primär, wenn der PE-Investor außerhalb einer Sanierung 
 - **§§ 327a ff. AktG** – Squeeze-Out (relevant bei Sanierung börsennotierter Target).
 - **§ 1 InvStG** – Investmentsteuerrecht (relevant bei PE-Fondsstrukturierung).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Fondsstruktur prüfen:**
 
@@ -815,12 +815,12 @@ Drei Beobachtungen aus dem Distressed-PE:
 
 - Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung Managementbeteiligung.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`
-  - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
-  - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
-  - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
-  - `grosskanzlei-corporate-ma-wi-insurance`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`
+ - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
+ - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+ - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
+ - `grosskanzlei-corporate-ma-wi-insurance`
 
 ## Quellen Stand 06/2026
 
@@ -892,7 +892,7 @@ Nicht dieser Skill ist primär, wenn die Sanierung bereits abgeschlossen ist und
 - **§§ 280, 311 Abs. 2 BGB** – Allgemeines Schuldrecht für Garantie- und Freistellungsansprüche.
 - **§§ 444, 461 BGB** – arglistige Verschweigung und vertragliche Beschaffenheitsangaben.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Risikolandkarte erstellen.** Welche steuerlichen Risikofelder sind in diesem Deal aktiv: Versagung Steuerbefreiung, Verbrauch Verlustvortrag, Versagung verbindliche Auskunft, § 8c KStG-Trigger, Mindestbesteuerung?
 2. **Locked Box vs. Closing Accounts.** Bei Sanierungs-Deals häufig Locked Box mit Effective Date vor Wirksamwerden der Sanierungsmaßnahme. Steuerliche Risiken aus der Sanierungsmaßnahme bleiben dann beim Verkäufer.
@@ -954,11 +954,11 @@ Auf Käuferseite gilt umgekehrt: Closing Condition ist die saubere Lösung, aber
 - Plugin `steuerrecht-anwalt-und-berater`: Detailberatung § 3a EStG und § 89 AO.
 - Plugin `insolvenzrecht`: SPA-Klauseln in Insolvenzplan-Transaktionen.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `grosskanzlei-corporate-ma-spa-apa-entwurf`
-  - `grosskanzlei-corporate-ma-vertragsmarkup-key-issues`
-  - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
-  - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
+ - `grosskanzlei-corporate-ma-spa-apa-entwurf`
+ - `grosskanzlei-corporate-ma-vertragsmarkup-key-issues`
+ - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+ - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+ - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
 
 ## Quellen Stand 06/2026
 

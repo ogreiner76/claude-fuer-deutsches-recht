@@ -1,6 +1,6 @@
 ---
 name: beirat-informationsrechte
-description: "Nutze dies, wenn Beirat Informationsrechte im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Informationsrechte prüfen.; Erstelle eine Arbeitsfassung zu Beirat Informationsrechte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Informationsrechte: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Informationsrechte

@@ -1,13 +1,13 @@
 ---
 name: anwaelte-verschwiegenheit-cloud-outsourcing
-description: "Nutze dies, wenn Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaelte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwaelte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwaelte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwaelte Werbung Google Ads Und Linkedin Organisationspflicht U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Verschwiegenheit Cloud Outsourcing Kammerantwort Und V, Anwälte Verschwiegenheit Cloud Outsourcing Organisationspflich, Anwälte Werbung Google Ads Und Linkedin Kammerantwort Und Verf, Anwälte Werbung Google Ads Und Linkedin Organisationspflicht U** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

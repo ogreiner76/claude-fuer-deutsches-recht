@@ -1,13 +1,13 @@
 ---
 name: fto-triage-gewerblicher-rechtsschutz-mandat
-description: "Nutze dies, wenn Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich prüfen.; Erstelle eine Arbeitsfassung zu Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -269,7 +269,7 @@ Kanzleiprofil:
 
 ### Schritt 2 – Skills-Routing anpassen
 
-Basierend auf Profil empfehlen, welche Spezialskills bevorzugt genutzt werden sollten:
+Basierend auf Profil empfehlen, welche Fachmodule bevorzugt genutzt werden sollten:
 - Marken-Schwerpunkt → `markenrecherche`, `markenanmeldung-dpma`, `unterlassungsverlangen`
 - Patent-Schwerpunkt → `fto-triage`, `erfindungsmeldung-aufnahme`, `schutzrechts-portfolio`
 - UWG-Schwerpunkt → `gewr-uwg-abmahnung-checkliste`, `verletzungs-triage`
@@ -365,13 +365,13 @@ Auf das erste Token des Arguments dispatchen.
 
 1. Prüfen, ob das Kurzzeichen nicht bereits in `mandate/<kurzzeichen>/` oder `mandate/_archiv/<kurzzeichen>/` vorhanden ist. Bei Kollision: anderen Namen wählen lassen.
 2. Aufnahmeinterview durchführen (in einem Durchgang):
-   - **Mandant** — vertretene Partei oder interne Geschäftseinheit
-   - **Gegenpartei** — andere Seite (kann mehrere umfassen; kann "unbekannter Drittverletzer" bei Watch-Treffern sein)
-   - **Mandatstyp** — für gewerblichen Rechtsschutz: Markenschutz / Markenverletzung / Schutzrechtsübertragung / Patentverletzung / FTO-Gutachten / IP-Klauselprüfung / OSS-Compliance / Portfolioverwaltung / Störerhaftung / Sonstiges
-   - **Vertraulichkeitsstufe** — standard | erhöht | Clean-Team (erhöht bei besonderer Sensibilität, Clean-Team häufig bei FTO-Gutachten und Patentkäufen)
-   - **Wesentliche Tatsachen** — 2–5 Sätze: Worum geht es, wer sind die Beteiligten, was steht auf dem Spiel
-   - **Mandatsspezifische Abweichungen von der Standardposition** (z. B. "Mandant wünscht nur schriftliche Kommunikation", "Gegenpartei ist Geschäftspartner — maßvoller Ton")
-   - **Verbundene Mandate** — Kurzzeichen zusammenhängender Mandate
+ - **Mandant** — vertretene Partei oder interne Geschäftseinheit
+ - **Gegenpartei** — andere Seite (kann mehrere umfassen; kann "unbekannter Drittverletzer" bei Watch-Treffern sein)
+ - **Mandatstyp** — für gewerblichen Rechtsschutz: Markenschutz / Markenverletzung / Schutzrechtsübertragung / Patentverletzung / FTO-Gutachten / IP-Klauselprüfung / OSS-Compliance / Portfolioverwaltung / Störerhaftung / Sonstiges
+ - **Vertraulichkeitsstufe** — standard | erhöht | Clean-Team (erhöht bei besonderer Sensibilität, Clean-Team häufig bei FTO-Gutachten und Patentkäufen)
+ - **Wesentliche Tatsachen** — 2–5 Sätze: Worum geht es, wer sind die Beteiligten, was steht auf dem Spiel
+ - **Mandatsspezifische Abweichungen von der Standardposition** (z. B. "Mandant wünscht nur schriftliche Kommunikation", "Gegenpartei ist Geschäftspartner — maßvoller Ton")
+ - **Verbundene Mandate** — Kurzzeichen zusammenhängender Mandate
 3. `mandate/<kurzzeichen>/mandat.md` mit der unten angegebenen Vorlage schreiben.
 4. `mandate/<kurzzeichen>/verlauf.md` mit einem einzigen Eröffnungseintrag anlegen.
 5. Leere `mandate/<kurzzeichen>/notizen.md` anlegen.

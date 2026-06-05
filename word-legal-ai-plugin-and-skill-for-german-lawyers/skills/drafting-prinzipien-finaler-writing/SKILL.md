@@ -1,13 +1,13 @@
 ---
 name: drafting-prinzipien-finaler-writing
-description: "Nutze dies, wenn Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate prüfen.; Erstelle eine Arbeitsfassung zu Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Qua
 
 Drei Werte tragen jedes juristische Dokument: Klarheit, Bestimmtheit und Praezision. Sie sind keine Stilvorlieben, sondern Wirksamkeitsfaktoren. Eine unklare Vertragsklausel ist nach § 305c Abs. 2 BGB im Zweifel gegen den Verwender auszulegen. Ein unbestimmter Klageantrag ist nach § 253 Abs. 2 Nr. 2 ZPO unzulaessig. Eine intransparente AGB-Klausel ist nach § 307 Abs. 1 Satz 2 BGB unwirksam.
 
-Dieser Skill operationalisiert die drei Werte als pruefbare Anforderungen. Sie liefern keine philosophische Begruendung, sondern eine Checkliste pro Satz, pro Klausel, pro Antrag. Er verweist auf die Spezial-Skills, sobald die Pruefung Schwerpunkte ergibt.
+Dieser Skill operationalisiert die drei Werte als pruefbare Anforderungen. Sie liefern keine philosophische Begruendung, sondern eine Checkliste pro Satz, pro Klausel, pro Antrag. Er verweist auf die Fachmodule, sobald die Pruefung Schwerpunkte ergibt.
 
 ## Eingaben
 
@@ -113,7 +113,7 @@ Jeder operative Satz traegt Antwort auf vier Fragen:
 
 - `definitionen-klauseln-stringent`
 - `anspruchsgrundlage-und-rechtsfolgen-klauseln`
-- `transparenzgebot-307-bgb` (Spezial-Skill fuer AGB-Transparenz)
+- `transparenzgebot-307-bgb` (Fachmodul fuer AGB-Transparenz)
 - `stil-und-ton-juristische-texte`
 
 ## Quellen (Stand 05/2026)

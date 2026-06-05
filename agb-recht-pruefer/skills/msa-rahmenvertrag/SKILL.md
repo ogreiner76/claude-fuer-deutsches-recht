@@ -1,6 +1,6 @@
 ---
 name: msa-rahmenvertrag
-description: "Branchen-Spezialskill für MSA Rahmenvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für MSA Rahmenvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # MSA Rahmenvertrag

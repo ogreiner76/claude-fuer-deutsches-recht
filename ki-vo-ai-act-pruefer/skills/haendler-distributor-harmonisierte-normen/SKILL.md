@@ -1,13 +1,13 @@
 ---
 name: haendler-distributor-harmonisierte-normen
-description: "Nutze dies, wenn Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil prüfen.; Erstelle eine Arbeitsfassung zu Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -133,7 +133,7 @@ Gepruefte Norm(en): [Art. 24 Rn. 3]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
@@ -334,7 +334,7 @@ Gepruefte Norm(en): [Art. 6 Abs. 1 Rn. 5]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

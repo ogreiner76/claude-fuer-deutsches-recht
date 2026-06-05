@@ -1,19 +1,19 @@
 ---
 name: rechtsmittelbelehrung-zivil-relation
-description: "Nutze dies, wenn Rechtsmittelbelehrung Zivil, Relation Zivil, Revisionsfest Prüfen im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Bitte Rechtsmittelbelehrung Zivil, Relation Zivil, Revisionsfest Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Rechtsmittelbelehrung Zivil, Relation Zivil, Revisionsfest Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsmittelbelehrung Zivil, Relation Zivil, Revisionsfest Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsmittelbelehrung Zivil, Relation Zivil, Revisionsfest Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsmittelbelehrung Zivil, Relation Zivil, Revisionsfest Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsmittelbelehrung-zivil` | Workflow-Skill zu rechtsmittelbelehrung zivil. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `rechtsmittelbelehrung-zivil` | Arbeitsmodul zu rechtsmittelbelehrung zivil: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `relation-zivil` | Zivilrechtliche Relation nach klassischer Relationstechnik erstellen: Referendar oder Richter erstellt Entscheidungsunterlage vor Urteilsabfassung. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Streitgegenstand, Zulässigkeitsstation, Schluessigkeitsstation, Klaeger-/Beklagten-/Replikstation, Beweisstation, Tenorierungsstation, Nebenentscheidungen. Output Vollrelation (Schulstandard) oder Kurzfassung (Praxis). Abgrenzung: Vollständige Langfassung siehe vollrelation-langfassung; Familienrichter-Spezifika siehe familienrichter-spezifika. |
 | `revisionsfest-pruefen` | Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründe Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung. Begründungstiefe Beweiswürdigung Vollständigkeit Tatsachenfeststellung. Mit BGH-Linien typischen Fallstricken Beispielen aus aktueller Rspr und Selbstprüfliste vor Urteilsversand. |
 
@@ -26,7 +26,7 @@ Für **Rechtsmittelbelehrung Zivil, Relation Zivil, Revisionsfest Prüfen** zuer
 
 ## 1. `rechtsmittelbelehrung-zivil`
 
-**Fokus:** Workflow-Skill zu rechtsmittelbelehrung zivil. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu rechtsmittelbelehrung zivil: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Rechtsmittelbelehrung Zivil
 
@@ -276,21 +276,21 @@ Dieser Skill liefert die Selbstprüfung **vor** Verkündung — nicht erst, wenn
 Der Klassiker — bei diesen Gründen ist die Aufhebung zwingend, ohne dass es auf Kausalitaet ankommt:
 
 1. **Nicht vorschriftsmaessige Besetzung** des Gerichts (Nr. 1)
-   - Geschäftsverteilungsplan eingehalten?
-   - Bei Einzelrichter: Übertragung Paragraf 348a ZPO begründet?
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Geschäftsverteilungsplan eingehalten?
+ - Bei Einzelrichter: Übertragung Paragraf 348a ZPO begründet?
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Mitwirkung eines ausgeschlossenen Richters** (Nr. 2)
-   - Selbst-Ausschluss Paragraf 41 ZPO geprüft (Verwandtschaft, Voreintragung)
+ - Selbst-Ausschluss Paragraf 41 ZPO geprüft (Verwandtschaft, Voreintragung)
 3. **Mitwirkung eines mit Erfolg abgelehnten Richters** (Nr. 3)
 4. **Verletzung der OEffentlichkeit** Paragrafen 169 ff. GVG (Nr. 4)
-   - OEffentlichkeitsausschluss richtig begründet?
+ - OEffentlichkeitsausschluss richtig begründet?
 5. **Vertretungsmangel** Paragraf 51, 56 ZPO (Nr. 5)
-   - Prozessunfähiger ohne gesetzlichen Vertreter?
+ - Prozessunfähiger ohne gesetzlichen Vertreter?
 6. **Begründungsmangel** (Nr. 6) — **der haeufigste Fall**:
-   - Keine Entscheidungsgründe überhaupt
-   - Gründe lassen die wesentliche Erwaegung nicht erkennen
-   - Widerspruch zwischen Tatbestand und Gründen
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Keine Entscheidungsgründe überhaupt
+ - Gründe lassen die wesentliche Erwaegung nicht erkennen
+ - Widerspruch zwischen Tatbestand und Gründen
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 2) Verfahrensrecht — Paragraf 545 ZPO
 
@@ -348,13 +348,13 @@ Der BGH ist an die festgestellten Tatsachen gebunden, soweit nicht
 ### Zulassungsgründe (alle gleichberechtigt)
 
 1. **Grundsaetzliche Bedeutung** (Abs. 2 S. 1 Nr. 1)
-   - Eine bislang ungeklärte oder unterschiedlich beantwortete Rechtsfrage
-   - In einer unbestimmten Zahl von Fällen auftretend
+ - Eine bislang ungeklärte oder unterschiedlich beantwortete Rechtsfrage
+ - In einer unbestimmten Zahl von Fällen auftretend
 2. **Rechtsfortbildung** (Abs. 2 S. 1 Nr. 2)
-   - Bedürfnis nach richterlicher Leitsatzbildung
+ - Bedürfnis nach richterlicher Leitsatzbildung
 3. **Sicherung einheitlicher Rechtsprechung** (Abs. 2 S. 1 Nr. 2 Alt. 2)
-   - Abweichende OLG-Rspr. zu derselben Rechtsfrage
-   - Eigene Abweichung vom BGH-Linie
+ - Abweichende OLG-Rspr. zu derselben Rechtsfrage
+ - Eigene Abweichung vom BGH-Linie
 
 ### Tenorierung
 

@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Mobilitaets- und Fuehrerscheinrecht
-Ressort:            BMV
-Kernnormen:         FeV; StVG; PBefG; CsgG (Carsharinggesetz); GVFG; ElektroMobG.
-Akteure/Aufsicht:   KBA; Fahrerlaubnisbehoerden; Verkehrsministerien der Laender.
-EU/Voelkerrecht:    Fuehrerschein-RL; alternativer Antrieb (RED III; AFIR).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmv; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Mobilitaets- und Fuehrerscheinrecht
+Ressort: BMV
+Kernnormen: FeV; StVG; PBefG; CsgG (Carsharinggesetz); GVFG; ElektroMobG.
+Akteure/Aufsicht: KBA; Fahrerlaubnisbehoerden; Verkehrsministerien der Laender.
+EU/Voelkerrecht: Fuehrerschein-RL; alternativer Antrieb (RED III; AFIR).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

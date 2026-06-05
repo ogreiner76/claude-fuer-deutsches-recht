@@ -1,22 +1,22 @@
 ---
 name: stimmrechtsausschluss-stimmrechtsberater
-description: "Nutze dies, wenn Stimmrechtsausschluss, Stimmrechtsberater Kritik, Stimmrechtsmitteilungen, Stimmrechtsvertretung Und Vollmachten im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Stimmrechtsausschluss, Stimmrechtsberater Kritik, Stimmrechtsmitteilungen, Stimmrechtsvertretung Und Vollmachten prüfen.; Erstelle eine Arbeitsfassung zu Stimmrechtsausschluss, Stimmrechtsberater Kritik, Stimmrechtsmitteilungen, Stimmrechtsvertretung Und Vollmachten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stimmrechtsausschluss, Stimmrechtsberater Kritik, Stimmrechtsmitteilungen, Stimmrechtsvertretung Und Vollmachten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stimmrechtsausschluss, Stimmrechtsberater Kritik, Stimmrechtsmitteilungen, Stimmrechtsvertretung Und Vollmachten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stimmrechtsausschluss, Stimmrechtsberater Kritik, Stimmrechtsmitteilungen, Stimmrechtsvertretung Und Vollmachten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `stimmrechtsausschluss` | Hauptversammlung AG und SE: Stimmrechtsausschluss; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `stimmrechtsberater-kritik` | Hauptversammlung AG und SE: Stimmrechtsberater Kritik; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `stimmrechtsmitteilungen` | Hauptversammlung AG und SE: Stimmrechtsmitteilungen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `stimmrechtsvertretung-und-vollmachten` | Hauptversammlung AG und SE: Stimmrechtsvertretung Und Vollmachten; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `stimmrechtsausschluss` | Hauptversammlung AG und SE: Stimmrechtsausschluss; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `stimmrechtsberater-kritik` | Hauptversammlung AG und SE: Stimmrechtsberater Kritik; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `stimmrechtsmitteilungen` | Hauptversammlung AG und SE: Stimmrechtsmitteilungen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `stimmrechtsvertretung-und-vollmachten` | Hauptversammlung AG und SE: Stimmrechtsvertretung Und Vollmachten; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Stimmrechtsausschluss, Stimmrechtsberater Kritik, Stimmrechtsmitteilungen
 
 ## 1. `stimmrechtsausschluss`
 
-**Fokus:** Hauptversammlung AG und SE: Stimmrechtsausschluss; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Stimmrechtsausschluss; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Stimmrechtsausschluss
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `stimmrechtsberater-kritik`
 
-**Fokus:** Hauptversammlung AG und SE: Stimmrechtsberater Kritik; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Stimmrechtsberater Kritik; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Stimmrechtsberater Kritik
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `stimmrechtsmitteilungen`
 
-**Fokus:** Hauptversammlung AG und SE: Stimmrechtsmitteilungen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Stimmrechtsmitteilungen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Stimmrechtsmitteilungen
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `stimmrechtsvertretung-und-vollmachten`
 
-**Fokus:** Hauptversammlung AG und SE: Stimmrechtsvertretung Und Vollmachten; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Stimmrechtsvertretung Und Vollmachten; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Stimmrechtsvertretung Und Vollmachten
 

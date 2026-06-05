@@ -1,13 +1,13 @@
 ---
 name: dma-dsa-dsgvo-fachanwalt-governance
-description: "Nutze dies, wenn Spezial Dma Compliance Dokumentation Und Akte, Spezial Dsa Zahlen Schwellen Und Berechnung, Spezial Dsgvo Behörden Gericht Und Registerweg, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Governance Mandantenkommunikation Entscheidungsvorlage im Plugin Fachanwalt It Recht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Dma Compliance Dokumentation Und Akte, Spezial Dsa Zahlen Schwellen Und Berechnung, Spezial Dsgvo Behörden Gericht Und Registerweg, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Governance Mandantenkommunikation Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Dma Compliance Dokumentation Und Akte, Spezial Dsa Zahlen Schwellen Und Berechnung, Spezial Dsgvo Behörden Gericht Und Registerweg, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Governance Mandantenkommunikation Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwellen Und Berechnung, Dsgvo Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Dma Compliance Dokumentation Und Akte, Spezial Dsa Zahlen Schwellen Und Berechnung, Spezial Dsgvo Behörden Gericht Und Registerweg, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Governance Mandantenkommunikation Entscheidungsvorlage
+# Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwellen Und Berechnung, Dsgvo Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel, Governance Mandantenkommunikation Entscheidungsvorlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwellen Und Berechnung, Dsgvo Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel, Governance Mandantenkommunikation Entscheidungsvorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Dma Compliance Dokumentation Und Akte, Spezial Dsa Zahlen Schwellen Und Berechnung, Spezial Dsgvo Behörden Gericht Und Registerweg, Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Governance Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwellen Und Berechnung, Dsgvo Behörden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel, Governance Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-it-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Dma Compliance Dokumentation Und Akte, Spezial Dsa Zahlen Schwell
 # DMA: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: DMA: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** DMA: Compliance-Dokumentation und Aktenvermerk / spezial dma compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** DMA: Compliance-Dokumentation und Aktenvermerk / dma compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DMA, DSGVO, BDSG, TTDSG, TKG, DDG, DSA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # DSA: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: DSA: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** DSA: Zahlen, Schwellenwerte und Berechnung / spezial dsa zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** DSA: Zahlen, Schwellenwerte und Berechnung / dsa zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSA, DSGVO, BDSG, TTDSG, TKG, DDG, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -126,7 +126,7 @@ Die "45-Mio-Schwelle" wird halbjährlich nach Methodik der EU-Kommission gemesse
 # DSGVO: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: DSGVO: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** DSGVO: Behörden-, Gerichts- oder Registerweg / spezial dsgvo behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** DSGVO: Behörden-, Gerichts- oder Registerweg / dsgvo behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -151,17 +151,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## DSGVO-Behördenwege
 - **Federführende Aufsicht (One-Stop-Shop):** Art. 56 DSGVO — bei grenzüberschreitender Verarbeitung die Aufsicht der Hauptniederlassung.
 - **In DE:**
-  - **BfDI** für Bundesbehörden, Telekommunikation, Post.
-  - **Landesdatenschutzbehörden** für privatwirtschaftliche Verantwortliche im jeweiligen Bundesland.
-  - **DSK (Datenschutzkonferenz):** Beschlüsse, Kurzpapiere — kein eigener Adressat, aber Auslegungshilfe.
+ - **BfDI** für Bundesbehörden, Telekommunikation, Post.
+ - **Landesdatenschutzbehörden** für privatwirtschaftliche Verantwortliche im jeweiligen Bundesland.
+ - **DSK (Datenschutzkonferenz):** Beschlüsse, Kurzpapiere — kein eigener Adressat, aber Auslegungshilfe.
 - **Beschwerderechte:**
-  - **Art. 77 DSGVO:** Beschwerde Betroffener bei Aufsichtsbehörde.
-  - **Art. 78 DSGVO:** wirksamer gerichtlicher Rechtsbehelf gegen Aufsichtsbehörde (in DE: VG-Klage).
-  - **Art. 79 DSGVO:** wirksamer gerichtlicher Rechtsbehelf gegen Verantwortlichen (in DE: ZG-Klage).
-  - **Art. 82 DSGVO:** Schadensersatz (immateriell + materiell), ZG-Klage; EuGH C-300/21 (UI vs. Österreichische Post): Schwellenwert "spürbarer Schaden" nicht erforderlich, aber konkreter Nachweis der Beeinträchtigung.
+ - **Art. 77 DSGVO:** Beschwerde Betroffener bei Aufsichtsbehörde.
+ - **Art. 78 DSGVO:** wirksamer gerichtlicher Rechtsbehelf gegen Aufsichtsbehörde (in DE: VG-Klage).
+ - **Art. 79 DSGVO:** wirksamer gerichtlicher Rechtsbehelf gegen Verantwortlichen (in DE: ZG-Klage).
+ - **Art. 82 DSGVO:** Schadensersatz (immateriell + materiell), ZG-Klage; EuGH C-300/21 (UI vs. Österreichische Post): Schwellenwert "spürbarer Schaden" nicht erforderlich, aber konkreter Nachweis der Beeinträchtigung.
 - **Behördenformulare:**
-  - Meldung Datenpanne online beim BfDI / LDI-Portal.
-  - Verfahrensverzeichnis (intern, kein Behörden-Formular).
+ - Meldung Datenpanne online beim BfDI / LDI-Portal.
+ - Verfahrensverzeichnis (intern, kein Behörden-Formular).
 
 ## Praxis-Tipp
 Bei Schadensersatzklage Art. 82 DSGVO ist nach EuGH C-300/21 keine Erheblichkeitsschwelle erforderlich, aber: der Schaden muss konkret dargelegt werden (z. B. Kontrollverlust, emotionale Belastung, drohende Identitätsmissbrauchsfolgen). Pauschalbehauptung "Ich bin entsetzt" trägt nicht — konkrete Darstellung der Beeinträchtigung ist erforderlich.
@@ -185,7 +185,7 @@ Bei Schadensersatzklage Art. 82 DSGVO ist nach EuGH C-300/21 keine Erheblichkeit
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel / spezial fachanwalt erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel / fachanwalt erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -237,7 +237,7 @@ Frühe gerichtliche Eskalation (Klage, einstweilige Verfügung) bringt schnelle 
 # Governance: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Governance: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Governance: Mandantenkommunikation und Entscheidungsvorlage / spezial governance mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Governance: Mandantenkommunikation und Entscheidungsvorlage / governance mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

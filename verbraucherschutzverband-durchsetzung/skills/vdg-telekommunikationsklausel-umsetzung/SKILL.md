@@ -1,13 +1,13 @@
 ---
 name: vdg-telekommunikationsklausel-umsetzung
-description: "Nutze dies, wenn Vdg 038 Telekommunikationsklausel Umsetzung Ue, Vdg 039 Telekommunikationsklausel Kommunikatio, Vdg 040 Telekommunikationsklausel Risiko Rot M, Vdg 106 Diesel Differenzschaden Serienfall im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 038 Telekommunikationsklausel Umsetzung Ue, Vdg 039 Telekommunikationsklausel Kommunikatio, Vdg 040 Telekommunikationsklausel Risiko Rot M, Vdg 106 Diesel Differenzschaden Serienfall prüfen.; Erstelle eine Arbeitsfassung zu Vdg 038 Telekommunikationsklausel Umsetzung Ue, Vdg 039 Telekommunikationsklausel Kommunikatio, Vdg 040 Telekommunikationsklausel Risiko Rot M, Vdg 106 Diesel Differenzschaden Serienfall.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vdg 038 Telekommunikationsklausel Umsetzung Ue, Vdg 039 Telekommunikationsklausel Kommunikatio, Vdg 040 Telekommunikationsklausel Risiko Rot M, Vdg 106 Diesel Differenzschaden Serienfall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vdg 038 Telekommunikationsklausel Umsetzung Ue, Vdg 039 Telekommunikationsklausel Kommunikatio, Vdg 040 Telekommunikationsklausel Risiko Rot M, Vdg 106 Diesel Differenzschaden Serienfall
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 038 Telekommunikationsklausel Umsetzung Ue, Vdg 039 Telekommunikationsklausel Kommunikatio, Vdg 040 Telekommunikationsklausel Risiko Rot M, Vdg 106 Diesel Differenzschaden Serienfall** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

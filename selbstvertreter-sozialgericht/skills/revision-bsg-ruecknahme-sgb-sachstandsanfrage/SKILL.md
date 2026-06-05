@@ -1,13 +1,13 @@
 ---
 name: revision-bsg-ruecknahme-sgb-sachstandsanfrage
-description: "Nutze dies, wenn Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht prüfen.; Erstelle eine Arbeitsfassung zu Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Revision Bsg 160 Sgg, Ruecknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Revision Bsg 160 Sgg, Rücknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg, Saeumnis Im Termin Sozialgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -307,7 +307,7 @@ Wichtig: Arzt muss bereit sein, das Gutachten zu erstellen UND in der Hoehe der 
 ### Schritt 3 — Antrag stellen
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [aktuell]
 
@@ -456,7 +456,7 @@ Wenn Sie vor dem Termin merken, dass Sie nicht koennen:
 **Schriftlich** zusaetzlich:
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 

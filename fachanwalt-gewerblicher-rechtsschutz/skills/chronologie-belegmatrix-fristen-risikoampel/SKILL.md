@@ -1,13 +1,13 @@
 ---
 name: chronologie-belegmatrix-fristen-risikoampel
-description: "Nutze dies, wenn Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation prüfen.; Erstelle eine Arbeitsfassung zu Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation
+# Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, W
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Workflow-Skill hilft beim strukturierten Aufbau der Zeitachse und Belegmatrix: Sachverhalts-Chronologie, Dokumentenordnung und Beweiskette für anwaltliche Verfahren im gewerblichen Rechtsschutz.
+Dieser Arbeitsmodul hilft beim strukturierten Aufbau der Zeitachse und Belegmatrix: Sachverhalts-Chronologie, Dokumentenordnung und Beweiskette für anwaltliche Verfahren im gewerblichen Rechtsschutz.
 
 ## Warum Chronologie und Belegmatrix?
 
@@ -45,19 +45,19 @@ Eine präzise Zeitachse und lückenlose Belegmatrix sind die Basis für:
 ## Chronologie-Schema
 
 ```
-[Datum]  Ereignis             Dokument / Beleg        Status
+[Datum] Ereignis Dokument / Beleg Status
 ─────────────────────────────────────────────────────────────
-[Anmeldetag]  Schutzrecht angemeldet    DPMA-Eingangsbeleg     ✓ vorhanden
-[Eintragungs-  Schutzrecht eingetragen  Registerauszug DPMA   ✓ vorhanden
+[Anmeldetag] Schutzrecht angemeldet DPMA-Eingangsbeleg ✓ vorhanden
+[Eintragungs- Schutzrecht eingetragen Registerauszug DPMA ✓ vorhanden
  datum]
-[Datum]  Verletzungshandlung  Screenshot URL+Datum    ✓ vorhanden
-         erstmalig erkannt
-[Datum]  Kenntnis Mandant     E-Mail Mandant an Kanzlei ✓ vorhanden
-[Datum]  Beweissicherung      Testkauf mit Quittung   ✓ vorhanden
-[Datum]  Abmahnung versandt   Einschreiben-Rückschein ✓ vorhanden
-[Datum]  Frist Abmahnung      Fristkalender           ✓ offen
-[Datum]  Reaktion Gegenseite  UE / Ablehnung / Keine  ○ ausstehend
-[Datum]  EV-Antrag            beA-Sendeprotokoll      ○ ausstehend
+[Datum] Verletzungshandlung Screenshot URL+Datum ✓ vorhanden
+ erstmalig erkannt
+[Datum] Kenntnis Mandant E-Mail Mandant an Kanzlei ✓ vorhanden
+[Datum] Beweissicherung Testkauf mit Quittung ✓ vorhanden
+[Datum] Abmahnung versandt Einschreiben-Rückschein ✓ vorhanden
+[Datum] Frist Abmahnung Fristkalender ✓ offen
+[Datum] Reaktion Gegenseite UE / Ablehnung / Keine ○ ausstehend
+[Datum] EV-Antrag beA-Sendeprotokoll ○ ausstehend
 ```
 
 ## Belegmatrix
@@ -106,21 +106,21 @@ Häufige Dokumentenlücken und Schließungsstrategie:
 ```
 Zeitachse Markenverletzung
 
-2020-03-15  Marke "BEISPIEL" beim DPMA angemeldet (Aktenzeichen [XX])
-2020-09-01  Eintragung; Registerauszug vom 2020-09-01 vorhanden
-2023-11-12  Website Gegenseite: Zeichen "BEISPIEL" auf Startseite entdeckt
-            → Beleg: Screenshot Anlage 1 (URL, Datum)
-2023-11-12  Mandant informiert Kanzlei via E-Mail
-            → Beleg: E-Mail-Ausdruck Anlage 2
-2023-11-14  Testkauf von verletzendem Produkt
-            → Beleg: Quittung, Foto, eV Anlage 3
-2023-11-17  Abmahnung versandt per Einschreiben + beA
-            → Beleg: Rückschein, beA-Protokoll Anlage 4
-2023-11-24  Fristablauf (10 Tage UE-Frist)
-2023-11-25  EV-Antrag beim LG Hamburg
+2020-03-15 Marke "BEISPIEL" beim DPMA angemeldet (Aktenzeichen [XX])
+2020-09-01 Eintragung; Registerauszug vom 2020-09-01 vorhanden
+2023-11-12 Website Gegenseite: Zeichen "BEISPIEL" auf Startseite entdeckt
+ → Beleg: Screenshot Anlage 1 (URL, Datum)
+2023-11-12 Mandant informiert Kanzlei via E-Mail
+ → Beleg: E-Mail-Ausdruck Anlage 2
+2023-11-14 Testkauf von verletzendem Produkt
+ → Beleg: Quittung, Foto, eV Anlage 3
+2023-11-17 Abmahnung versandt per Einschreiben + beA
+ → Beleg: Rückschein, beA-Protokoll Anlage 4
+2023-11-24 Fristablauf (10 Tage UE-Frist)
+2023-11-25 EV-Antrag beim LG Hamburg
 ```
 
-## Kaltstart
+## Einstieg
 1. Welcher Fall liegt vor und in welchem Stadium?
 2. Welche Dokumente sind bereits vorhanden?
 3. Wo sind Lücken in der Zeitachse?
@@ -151,7 +151,7 @@ Zeitachse Markenverletzung
 # Fristen und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill führt einen systematischen Fristencheck durch und bewertet das Risiko mit einer Ampel: Grün (sicher), Gelb (Handlungsbedarf), Rot (Eskalation sofort).
+Dieser Arbeitsmodul führt einen systematischen Fristencheck durch und bewertet das Risiko mit einer Ampel: Grün (sicher), Gelb (Handlungsbedarf), Rot (Eskalation sofort).
 
 ## Risikoampel-Systematik
 
@@ -230,7 +230,7 @@ Dieser Workflow-Skill führt einen systematischen Fristencheck durch und bewerte
 2. Abmahnstrategie ohne EV; Hauptsacheklage.
 3. Schadensbegrenzung dokumentieren.
 
-## Kaltstart
+## Einstieg
 1. Welches Verfahren / welche Fristen sind zu prüfen?
 2. Liegen Auslöse-Daten vor (Bekanntmachungsdatum, Zustellungsdatum, Kenntnisdatum)?
 3. Gibt es bereits einen Kalender oder soll einer erstellt werden?
@@ -259,7 +259,7 @@ Dieser Workflow-Skill führt einen systematischen Fristencheck durch und bewerte
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill unterstützt die gesamte Mandantenkommunikation im gewerblichen Rechtsschutz: von der Erstberatung über laufende Statusberichte bis zur Mandatsabschluss-Kommunikation.
+Dieser Arbeitsmodul unterstützt die gesamte Mandantenkommunikation im gewerblichen Rechtsschutz: von der Erstberatung über laufende Statusberichte bis zur Mandatsabschluss-Kommunikation.
 
 ## BRAO-Informationspflichten
 
@@ -321,14 +321,14 @@ Mandat: [Aktenzeichen] – Datum: [Datum]
 Sachverhalt: [2 Sätze]
 
 Option A: [Beschreibung]
-  Vorteil: ...
-  Nachteil / Risiko: ...
-  Kosten: ca. EUR [Betrag]
+ Vorteil: ...
+ Nachteil / Risiko: ...
+ Kosten: ca. EUR [Betrag]
 
 Option B: [Beschreibung]
-  Vorteil: ...
-  Nachteil / Risiko: ...
-  Kosten: ca. EUR [Betrag]
+ Vorteil: ...
+ Nachteil / Risiko: ...
+ Kosten: ca. EUR [Betrag]
 
 Unsere Empfehlung: Option [A/B], weil [Begründung in 2 Sätzen].
 
@@ -382,7 +382,7 @@ Wir danken für das Vertrauen und stehen für künftige Mandate gerne zur Verfü
 | Abschlussbrief versandt | ☐ |
 | Originalunterlagen zurückgegeben / archiviert | ☐ |
 
-## Kaltstart
+## Einstieg
 1. In welcher Phase des Mandats befindet sich die Kommunikation?
 2. Welche Botschaft soll übermittelt werden (Sachstand / Entscheidungsvorlage / Kosten)?
 3. Welche Tonalität ist angemessen (neutral / dringend / positiv / kritisch)?
@@ -400,5 +400,5 @@ Wir danken für das Vertrauen und stehen für künftige Mandate gerne zur Verfü
 - Annahmen und Lücken ausdrücklich markieren.
 
 ## Was dieser Skill nicht macht
-- Keine inhaltliche Rechtsprüfung (das machen die Spezialskills).
+- Keine inhaltliche Rechtsprüfung (das machen die Fachmodule).
 - Kein Ersatz für vollständige Mandantenberatung und individuelle Aufklärung.

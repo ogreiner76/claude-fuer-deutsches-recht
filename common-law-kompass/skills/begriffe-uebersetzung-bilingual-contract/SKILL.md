@@ -1,13 +1,13 @@
 ---
 name: begriffe-uebersetzung-bilingual-contract
-description: "Nutze dies, wenn Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Bitte Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer prüfen.; Erstelle eine Arbeitsfassung zu Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -107,7 +107,7 @@ Dokument: [BEZEICHNUNG] — Datum: [DATUM]
 
 Begriff | Kontext | Empfohlene dt. Entsprechung | Risiko Fehluebers.
 --------|---------|---------------------------|-------------------
-[TERM]  | [Klausel] | [ENTSPRECHUNG] | [RISIKO]
+[TERM] | [Klausel] | [ENTSPRECHUNG] | [RISIKO]
 ```
 
 
@@ -196,21 +196,21 @@ Languages: English / German
 Controlling language: [English / German / Both — per Clause X]
 
 1. CONSISTENCY REVIEW
-   Key term in English: [TERM] — German equivalent: [TERM]
-   Divergence: [YES — describe / NO]
-   Risk: [significant / minor]
+ Key term in English: [TERM] — German equivalent: [TERM]
+ Divergence: [YES — describe / NO]
+ Risk: [significant / minor]
 
 2. CIVIL LAW CONCEPTS IN ENGLISH LAW CONTEXT
-   AGB-Kontrolle terms imported: [YES — RISK: not applicable under English law / NO]
-   Treu und Glauben implied obligation: [YES — RISK: not recognized English law / NO]
-   German Ruecktrittsrecht imported: [YES — check termination provisions / NO]
+ AGB-Kontrolle terms imported: [YES — RISK: not applicable under English law / NO]
+ Treu und Glauben implied obligation: [YES — RISK: not recognized English law / NO]
+ German Ruecktrittsrecht imported: [YES — check termination provisions / NO]
 
 3. CHOICE OF LAW / CISG
-   Governing law: [English / German]
-   CISG applicable?: [YES — opt out required? / NO]
+ Governing law: [English / German]
+ CISG applicable?: [YES — opt out required? / NO]
 
 4. CORRECTIONS RECOMMENDED
-   [List of specific clause amendments]
+ [List of specific clause amendments]
 ```
 
 

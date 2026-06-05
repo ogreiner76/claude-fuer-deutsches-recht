@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Patentrecht-Plugin. Erkennt Patentanmeldung, Erfindungsmeldung, Recherche, FTO, Abmahnung, Lizenz, Einspruch, Nichtigkeit, Register- und Fristenfragen; schlägt passende Spezialskills aus diesem Plugin und bei Bedarf das Schwesterplugin patentrecherche vor."
+description: "Einstieg, Schnelltriage und Fallrouting im Patentrecht-Plugin. Erkennt Patentanmeldung, Erfindungsmeldung, Recherche, FTO, Abmahnung, Lizenz, Einspruch, Nichtigkeit, Register- und Fristenfragen; schlägt passende Fachmodule aus diesem Plugin und bei Bedarf das Schwesterplugin patentrecherche vor."
 ---
 
 # Patentrecht — Allgemein
@@ -16,7 +16,7 @@ Wenn der Nutzer nur Dateien hochlädt:
 1. **Frist zuerst:** Zustellung, Einspruch, Prüfungsbescheid, Abmahnfrist, Prioritätsjahr, Offenbarung, Messe, Launch, Lizenzdeadline.
 2. **Material erkennen:** Erfindungsmeldung, Anspruchsentwurf, Beschreibung, Zeichnungen, Patentvolltext, Prüfungsbescheid, Registerauszug, Abmahnung, Claim Chart, Lizenzvertrag, Prior-Art-Liste, Term Sheet.
 3. **Rechtsfrage bestimmen:** Anmeldung, Patentfähigkeit, Recherche, FTO, Verletzung, Verteidigung, Lizenz, Bestand, Register.
-4. **Spezialskill routen:** zuerst einen Skill aus `patentrecht`; bei Datenbankrecherche zusätzlich `patentrecherche`.
+4. **Fachmodul routen:** zuerst einen Skill aus `patentrecht`; bei Datenbankrecherche zusätzlich `patentrecherche`.
 5. **Erster Output:** Kurzbild, Risiken, fehlende Unterlagen, nächster Arbeitsschritt.
 
 ## 60-Sekunden-Intake

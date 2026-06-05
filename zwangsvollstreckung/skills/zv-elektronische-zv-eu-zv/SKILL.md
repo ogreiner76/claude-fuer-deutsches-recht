@@ -1,13 +1,13 @@
 ---
 name: zv-elektronische-zv-eu-zv
-description: "Nutze dies, wenn Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter prüfen.; Erstelle eine Arbeitsfassung zu Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -105,7 +105,7 @@ Folge: Der Gerichtsvollzieher stellt PfÜB an Banken nicht mehr per Papier zu, s
 
 Die Drittschuldnererklärung darf zusätzlich zur elektronischen Form auch per Post übermittelt werden. Erleichterung vor allem für Banken, die parallel den eBO-Empfang aufbauen müssen.
 
-## Workflow für die Praxis bis 1.10.2027
+## für die Praxis bis 1.10.2027
 
 1. **Soft Start ab 1.10.2026**: Wer XML-Antrag schreibt, sollte die ZVFV-Schemata kennen. Pilotphase nutzen.
 2. **Bestandsaufnahme Kanzlei-Software**: kann sie eBO senden? Erzeugt sie ZVFV-XML? Mit dem Software-Anbieter klären.
@@ -131,15 +131,15 @@ Die Drittschuldnererklärung darf zusätzlich zur elektronischen Form auch per P
 ```
 ZVOLLSTRDIGITG-CHECK [Mandat / Pfändung]
 
-Inkrafttreten-Stand:   verkündet [JA / NEIN, Stand-Recherche DD.MM.JJJJ]
-Anwendbar ab:          1.10.2026 (XML), 1.10.2027 (Bank-Pflicht eBO)
-Aktueller Schritt:     [PfÜB-Antrag / Zustellung an Bank / § 840-Erklärung]
-Empfehlung Form:       [Papier / beA + ERVV PDF / XML + PDF / eBO]
-Drittschuldner:        Bank [Name], eBO bekannt [JA/NEIN]
-Risiko:                [Formfehler / Doppelzustellung / Übergangsfrist]
+Inkrafttreten-Stand: verkündet [JA / NEIN, Stand-Recherche DD.MM.JJJJ]
+Anwendbar ab: 1.10.2026 (XML), 1.10.2027 (Bank-Pflicht eBO)
+Aktueller Schritt: [PfÜB-Antrag / Zustellung an Bank / § 840-Erklärung]
+Empfehlung Form: [Papier / beA + ERVV PDF / XML + PDF / eBO]
+Drittschuldner: Bank [Name], eBO bekannt [JA/NEIN]
+Risiko: [Formfehler / Doppelzustellung / Übergangsfrist]
 
-NÄCHSTER SCHRITT:      [konkret]
-WIEDERVORLAGE:         DD.MM.JJJJ
+NÄCHSTER SCHRITT: [konkret]
+WIEDERVORLAGE: DD.MM.JJJJ
 ```
 
 ## Qualitätsgates
@@ -230,7 +230,7 @@ Vorläufige grenzüberschreitende Sicherung von Bankkonten des Schuldners in ein
 - Schiedsverfahren
 - Dänemark (Opt-out)
 
-## Workflow Gläubiger
+## Gläubiger
 
 ### Schritt 1 — Vorab-Prüfung
 
@@ -244,12 +244,12 @@ Vorläufige grenzüberschreitende Sicherung von Bankkonten des Schuldners in ein
 - **Standardformular** I der Durchführungsverordnung (EU) 2016/1823 verwenden
 - **Sprachen:** Deutsch beim deutschen Gericht; das Gericht übersetzt für den ausländischen Drittschuldner
 - **Antragsschrift** mit:
-  - Personalien Gläubiger / Schuldner
-  - Höhe der Forderung
-  - Beleg Hauptsacheverfahren / Titel
-  - Glaubhaftmachung Sicherungsbedürfnis
-  - Bekannte Konto-Daten (IBAN, BIC, Bank, MS)
-  - Falls Konto unbekannt: **Antrag Kontensuche** Art. 14 EuKtPVO
+ - Personalien Gläubiger / Schuldner
+ - Höhe der Forderung
+ - Beleg Hauptsacheverfahren / Titel
+ - Glaubhaftmachung Sicherungsbedürfnis
+ - Bekannte Konto-Daten (IBAN, BIC, Bank, MS)
+ - Falls Konto unbekannt: **Antrag Kontensuche** Art. 14 EuKtPVO
 
 ### Schritt 3 — Sicherheitsleistung (Art. 12 EuKtPVO)
 
@@ -260,8 +260,8 @@ Vorläufige grenzüberschreitende Sicherung von Bankkonten des Schuldners in ein
 ### Schritt 4 — Gerichtsentscheidung
 
 - **Frist Gericht:**
-  - Ohne Titel: bis spätestens 10. Arbeitstag nach Antrag
-  - Mit Titel: bis spätestens 5. Arbeitstag nach Antrag
+ - Ohne Titel: bis spätestens 10. Arbeitstag nach Antrag
+ - Mit Titel: bis spätestens 5. Arbeitstag nach Antrag
 - **Entscheidungs-Beschluss** mit Standardformular II
 - Ex-parte-Verfahren (Schuldner wird **nicht** vorher gehört)
 
@@ -415,18 +415,18 @@ Stand 25.5.2026: Gesetz im Bundestag beschlossen am 19.3.2026, Bundesrat nicht z
 ```
 ZV-KOMMANDOCENTER [Mandant] [Az]
 
-Titel:          [Art, Datum, Aussteller]
-Klausel:        [vorhanden / fehlt / wo beantragen]
-Zustellung:     [erfolgt am DD.MM.JJJJ / offen]
-Drei Säulen:    [GRÜN / GELB / ROT]
+Titel: [Art, Datum, Aussteller]
+Klausel: [vorhanden / fehlt / wo beantragen]
+Zustellung: [erfolgt am DD.MM.JJJJ / offen]
+Drei Säulen: [GRÜN / GELB / ROT]
 
-Vollstreckungsziel:     [Geld EUR x / Räumung / Herausgabe / ...]
-Schuldner:              [Privat / Unternehmen / Insolvenz / sonst]
-Bekannte Werte:         [Bank / AG / Immobilie / Kfz / nichts]
+Vollstreckungsziel: [Geld EUR x / Räumung / Herausgabe / ...]
+Schuldner: [Privat / Unternehmen / Insolvenz / sonst]
+Bekannte Werte: [Bank / AG / Immobilie / Kfz / nichts]
 
-NÄCHSTER SKILL:         [zv-...]
-Begründung:             [warum dieser Pfad]
-Wiedervorlage:          [in N Tagen wegen ...]
+NÄCHSTER SKILL: [zv-...]
+Begründung: [warum dieser Pfad]
+Wiedervorlage: [in N Tagen wegen ...]
 ```
 
 ## Qualitätsgates

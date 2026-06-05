@@ -1,13 +1,13 @@
 ---
 name: betreiber-mitverschulden-betriebsanleitung
-description: "Nutze dies, wenn Betreiber Mitverschulden Und Fehlbedienung, Betriebsanleitung Sprache Und Warnhinweise im Plugin Robotik Recht konkret bearbeitet werden soll. Auslöser: Bitte Betreiber Mitverschulden Und Fehlbedienung, Betriebsanleitung Sprache Und Warnhinweise prüfen.; Erstelle eine Arbeitsfassung zu Betreiber Mitverschulden Und Fehlbedienung, Betriebsanleitung Sprache Und Warnhinweise.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Betreiber Mitverschulden Und Fehlbedienung, Betriebsanleitung Sprache Und Warnhinweise: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Betreiber Mitverschulden Und Fehlbedienung, Betriebsanleitung Sprache Und Warnhinweise
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -59,7 +59,7 @@ Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich da
 - **§ 823 BGB** Verkehrssicherungspflichten beider Seiten.
 - **ArbSchG**, **BetrSichV** Betreiberpflichten zur Unterweisung und Wartung.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Tatsachen sammeln** chronologisch; nicht bewerten, sondern fixieren.
 2. **Logs auswerten.** Wer hat wann welche Funktion benutzt? Wurde ein Schutzkreis gebrückt? Welche Software-Version?
@@ -158,7 +158,7 @@ Die Betriebsanleitung ist ein Sicherheitsbauteil im juristischen Sinn: Fehler in
 - **GS-Zeichen / TÜV** ProdSG § 21 als ergänzendes Qualitätssignal.
 - **Sprachenregime**: Amtssprache des Mitgliedstaats; in Deutschland deutsch (zumindest für Sicherheits- und Warninhalte).
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Zielgruppenanalyse.** Fachkraft oder Endverbraucher? Sprachniveau, Vorbildung, Sinneseinschränkungen.
 2. **Inhalt nach Anhang III Nr. 1.7 MaschinenVO**: Identifikation, Beschreibung, bestimmungsgemäße Verwendung, Restrisiken, Aufstellung/Anschluss, Bedienung, Wartung, Außerbetriebnahme, Schaltpläne, Lärm-/Vibrationsemissionen.

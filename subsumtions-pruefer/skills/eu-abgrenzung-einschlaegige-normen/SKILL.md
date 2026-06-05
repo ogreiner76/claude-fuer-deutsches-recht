@@ -1,13 +1,13 @@
 ---
 name: eu-abgrenzung-einschlaegige-normen
-description: "Nutze dies, wenn De Eu Recht Abgrenzung, Einschlaegige Normen Vorschlagen De, Einschlaegige Normen Vorschlagen Eu im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte De Eu Recht Abgrenzung, Einschlaegige Normen Vorschlagen De, Einschlaegige Normen Vorschlagen Eu prüfen.; Erstelle eine Arbeitsfassung zu De Eu Recht Abgrenzung, Einschlaegige Normen Vorschlagen De, Einschlaegige Normen Vorschlagen Eu.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei De Eu Recht Abgrenzung, Einschlaegige Normen Vorschlagen De, Einschlaegige Normen Vorschlagen Eu: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # De Eu Recht Abgrenzung, Einschlaegige Normen Vorschlagen De, Einschlaegige Normen Vorschlagen Eu
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **De Eu Recht Abgrenzung, Einschlaegige Normen Vorschlagen De, Einschlaegige Normen Vorschlagen Eu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -175,9 +175,9 @@ Das System nennt:
 ```
 Besteht ein Vertrag?
 ├─ Ja → Vertragsrecht primär prüfen (§§ 280 ff. / spezifische Vertragstypen)
-│       → Deliktshaftung parallel prüfen bei Rechtsgutsverletzung
+│ → Deliktshaftung parallel prüfen bei Rechtsgutsverletzung
 └─ Nein → Delikt (§ 823 ff.) / Bereicherungsrecht (§ 812 ff.) / öffentl. Recht
-          └─ Schutzgesetz i.S.d. § 823 Abs. 2 BGB? → Verletzter als Schutzzweck?
+ └─ Schutzgesetz i.S.d. § 823 Abs. 2 BGB? → Verletzter als Schutzzweck?
 ```
 
 **Schritt 4 — Hinweis auf Rechtsprechung**

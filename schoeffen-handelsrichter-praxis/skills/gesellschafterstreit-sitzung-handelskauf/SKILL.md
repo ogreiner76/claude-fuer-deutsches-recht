@@ -1,13 +1,13 @@
 ---
 name: gesellschafterstreit-sitzung-handelskauf
-description: "Nutze dies, wenn Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handelskauf Orientierung, Handelsrichter Handelskauf Sitzung im Plugin Schoeffen Handelsrichter Praxis konkret bearbeitet werden soll. Auslöser: Bitte Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handelskauf Orientierung, Handelsrichter Handelskauf Sitzung prüfen.; Erstelle eine Arbeitsfassung zu Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handelskauf Orientierung, Handelsrichter Handelskauf Sitzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handelskauf Orientierung, Handelsrichter Handelskauf Sitzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handelskauf Orientierung, Handelsrichter Handelskauf Sitzung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Handelsrichter Gesellschafterstreit Sitzung, Handelsrichter Handelskauf Orientierung, Handelsrichter Handelskauf Sitzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: wehrbeschwerdeordnung-beschwerde
-description: "Nutze dies, wenn Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit prüfen.; Erstelle eine Arbeitsfassung zu Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -63,7 +63,7 @@ Die Wehrbeschwerdeordnung (WBO) ist der zentrale Rechtsschutzweg des Soldaten ge
 - § 22 WBO: Aufschiebende Wirkung der gerichtlichen Anfechtung in eng begrenzten Fällen.
 - § 23 WBO: Mündliche Verhandlung beim Truppendienstgericht.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Statthaftigkeit prüfen.** Ist die Maßnahme eine Beschwer iSd § 1 WBO? Befehle, Beurteilungen, ablehnende Personalentscheidungen sind statthafte Beschwerdegegenstände. Disziplinarmaßnahmen einfacher Art werden im WDO-Weg angegriffen.
 2. **Frist berechnen.** § 6 WBO: 1 Monat ab Kenntnis. Bei mehrtägiger Maßnahme – Beginn der Frist? Zugang nachweisbar? Schutzschrift mit Vorbehalt der Begründung möglich.
@@ -215,7 +215,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -335,7 +335,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

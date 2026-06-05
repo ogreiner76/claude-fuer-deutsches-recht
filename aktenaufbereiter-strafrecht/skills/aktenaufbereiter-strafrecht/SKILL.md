@@ -102,16 +102,16 @@ Staatsanwaltschaft Mitverteidiger Nebenklagevertretung.
 ## Methodik
 
 1. Aktenbestandteile inventarisieren — pro Datei Typ Umfang
-   OCR-Status
+ OCR-Status
 2. Blatt-für-Blatt-Extraktion mit Quellenverweis
 3. Querverweis zwischen den sechs Tabellen — Personen aus
-   Personenverzeichnis müssen in Beziehung und Chronologie
-   konsistent erscheinen
+ Personenverzeichnis müssen in Beziehung und Chronologie
+ konsistent erscheinen
 4. Widerspruchsprüfung — abweichende Datums- oder Sachangaben
-   in verschiedenen Vernehmungen werden BEIDE dokumentiert mit
-   Fundstelle
+ in verschiedenen Vernehmungen werden BEIDE dokumentiert mit
+ Fundstelle
 5. Lückenprüfung — in der Anklageschrift genannte Zeugen die in
-   den Vernehmungsprotokollen fehlen werden markiert
+ den Vernehmungsprotokollen fehlen werden markiert
 6. Ausgabe als Excel-fähige Tabellen
 
 ## Anti-Halluzinations-Regel
@@ -121,7 +121,7 @@ Staatsanwaltschaft Mitverteidiger Nebenklagevertretung.
 - Jede Information mit Band und Blattangabe wenn identifizierbar
 - Widersprüche BEIDE dokumentieren mit Fundstelle
 - Unsicherheiten kennzeichnen — Beispiel `[Datum unklar]`
-  `[Name nur teilweise lesbar]`
+ `[Name nur teilweise lesbar]`
 - KEINE rechtliche Bewertung der Vorwuerfe
 - KEINE Einschätzung der Erfolgsaussichten der Verteidigung
 
@@ -184,15 +184,15 @@ zu früheren Aussagen — Fundstelle.
 ## Beispielformulierungen
 
 - "Erstelle alle sechs Übersichten zu dieser Strafakte. OCR
-  ist gemacht."
+ ist gemacht."
 - "Hier ist meine bisherige Chronologie und 400 neue Blaetter.
-  Bitte aufnehmen mit Markierung der Neuzugänge."
+ Bitte aufnehmen mit Markierung der Neuzugänge."
 - "Erzeuge zusätzlich das Wirtschaftsstraf-Set mit
-  Finanzstroemen und Kontoverbindungen."
+ Finanzstroemen und Kontoverbindungen."
 - "Gleiche die Anklageschrift mit dem Aktenbefund ab und zeige
-  Diskrepanzen."
+ Diskrepanzen."
 - "Vernehmungsübersicht mit Widersprüchen zwischen den
-  einzelnen Aussagen des Zeugen Mueller."
+ einzelnen Aussagen des Zeugen Mueller."
 
 ## Berufsrecht und Datenschutz
 

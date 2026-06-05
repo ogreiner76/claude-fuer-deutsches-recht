@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-029-normkarte-nachbarrecht-heutiger
-description: "Nutze dies, wenn PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck

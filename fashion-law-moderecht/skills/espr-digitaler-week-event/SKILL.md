@@ -1,13 +1,13 @@
 ---
 name: espr-digitaler-week-event
-description: "Nutze dies, wenn Espr Digitaler Produktpass, Fashion Week Event im Plugin Fashion Law Moderecht konkret bearbeitet werden soll. Auslöser: Bitte Espr Digitaler Produktpass, Fashion Week Event prüfen.; Erstelle eine Arbeitsfassung zu Espr Digitaler Produktpass, Fashion Week Event.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Espr Digitaler Produktpass, Fashion Week Event: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Espr Digitaler Produktpass, Fashion Week Event
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Espr Digitaler Produktpass, Fashion Week Event** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

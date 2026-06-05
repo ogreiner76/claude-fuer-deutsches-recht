@@ -1,38 +1,38 @@
 ---
 name: spanisch-modus-staatsangehoerigkeit-gebiet
-description: "Nutze dies, wenn Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status prüfen.; Erstelle eine Arbeitsfassung zu Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Spanisch Modus Migration, Staatsangehoerigkeit Gebiet Status: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status
+# Spanisch Modus Migration, Staatsangehörigkeit Gebiet Status
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Spanisch Modus Migration, Staatsangehörigkeit Gebiet Status** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-spanisch-modus-migration` | Spanisch-Modus Migrationsrecht: Workflow-Skill für Migrationsrecht; liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-staatsangehoerigkeit-gebiet-status` | Staatsangehörigkeit/Gebiet/Status: Workflow-Skill für Migrationsrecht; klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-spanisch-modus-migration` | Spanisch-Modus Migrationsrecht: Arbeitsmodul für Migrationsrecht; liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-staatsangehoerigkeit-gebiet-status` | Staatsangehörigkeit/Gebiet/Status: Arbeitsmodul für Migrationsrecht; klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Spanisch Modus Migration, Workflow Staatsangehörigkeit Gebiet Status** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Spanisch Modus Migration, Staatsangehörigkeit Gebiet Status** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-spanisch-modus-migration`
 
-**Fokus:** Spanisch-Modus Migrationsrecht: Workflow-Skill für Migrationsrecht; liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Spanisch-Modus Migrationsrecht: Arbeitsmodul für Migrationsrecht; liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Spanisch-Modus Migrationsrecht
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: liefert spanische Erklärungen mit deutschem Rechtskern und klarer Dokumentenliste.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -59,14 +59,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 2. `workflow-staatsangehoerigkeit-gebiet-status`
 
-**Fokus:** Staatsangehörigkeit/Gebiet/Status: Workflow-Skill für Migrationsrecht; klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Staatsangehörigkeit/Gebiet/Status: Arbeitsmodul für Migrationsrecht; klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Staatsangehörigkeit/Gebiet/Status
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Staatenlosigkeit, umstrittene Gebiete, Mehrstaatigkeit und Dokumentenlage.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.

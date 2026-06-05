@@ -1,13 +1,13 @@
 ---
 name: arbeitsvertrag-klauseln-settlement
-description: "Nutze dies, wenn Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklausel, Verschwiegenheitsklauseln Redline im Plugin Hinweisgeberschutz Compliance konkret bearbeitet werden soll. Auslöser: Bitte Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklausel, Verschwiegenheitsklauseln Redline prüfen.; Erstelle eine Arbeitsfassung zu Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklausel, Verschwiegenheitsklauseln Redline.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklausel, Verschwiegenheitsklauseln Redline: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklausel, Verschwiegenheitsklauseln Redline
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitsvertrag Klauseln, Settlement Und Aufhebungsvertrag, Vergleichsklausel, Verschwiegenheitsklauseln Redline** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

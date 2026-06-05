@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-lohnsteuer-monatsabschluss
-description: "Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Workflow Abrechnungsschritte 39e Tabelle. Output Lohnabrechnungen LSt-Anmeldung Bankueberweisung."
+description: "Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Abrechnungsschritte 39e Tabelle. Output Lohnabrechnungen LSt-Anmeldung Bankueberweisung."
 ---
 
 # Lohnsteuer-Monatsabschluss
@@ -85,8 +85,8 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 ### Phase 4 — SV-Beitraege
 
 - Beitragsbemessungsgrenzen (BBG) Stand 2025 (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen):
-  - RV/AV: ab 2025 bundeseinheitlich 8.050 EUR/Monat (96.600 EUR/Jahr; West-Ost-Angleichung zum 01.01.2025 abgeschlossen).
-  - KV/PV (bundeseinheitlich): 5.512,50 EUR/Monat (66.150 EUR/Jahr); JAEG abweichend.
+ - RV/AV: ab 2025 bundeseinheitlich 8.050 EUR/Monat (96.600 EUR/Jahr; West-Ost-Angleichung zum 01.01.2025 abgeschlossen).
+ - KV/PV (bundeseinheitlich): 5.512,50 EUR/Monat (66.150 EUR/Jahr); JAEG abweichend.
 - Beitragssaetze Stand 2025: RV 18,6 Prozent, AV 2,6 Prozent, KV allgemein 14,6 Prozent + KK-Zusatzbeitrag (durchschnittlich 2,5 Prozent), PV 3,6 Prozent + Kinderlosenzuschlag 0,6 Prozent; Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel pruefen.
 - Zusatzbeitrag KV individuell je Kasse.
 - Beitragsverteilung AG-/AN-Anteile (jeweils ca. halftig; Ausnahmen PV-Kinderlose, Insolvenzgeld-Umlage).
@@ -96,11 +96,11 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 - Nettolohn = Brutto minus LSt/KiSt/SolZ minus SV-AN-Anteile (- Pfaendung, - VL, - Sonderabzug).
 - Ueberweisung an AN-Konto.
 - Typische Buchungssaetze SKR04 (SKR03 entsprechend):
-  - Loehne und Gehaelter: 6020 SKR04 (4120 SKR03) "Loehne" an 3740 SKR04 (1742 SKR03) "Verbindlichkeiten aus Lohn- und Kirchensteuer", 3760 SKR04 (1741 SKR03) "Verbindlichkeiten im Rahmen der sozialen Sicherheit", 3790 SKR04 (1755 SKR03) "Sonstige Verbindlichkeiten gegenueber Mitarbeitern".
-  - AG-SV-Anteil: 6110 SKR04 (4130 SKR03) "Gesetzliche soziale Aufwendungen" an 3760 SKR04 (1741 SKR03).
-  - Bei Auszahlung Netto: 3790 SKR04 an Bank (1800 SKR04 / 1200 SKR03).
-  - Abfuehrung LSt: 3740 SKR04 an Bank.
-  - Abfuehrung SV: 3760 SKR04 an Bank.
+ - Loehne und Gehaelter: 6020 SKR04 (4120 SKR03) "Loehne" an 3740 SKR04 (1742 SKR03) "Verbindlichkeiten aus Lohn- und Kirchensteuer", 3760 SKR04 (1741 SKR03) "Verbindlichkeiten im Rahmen der sozialen Sicherheit", 3790 SKR04 (1755 SKR03) "Sonstige Verbindlichkeiten gegenueber Mitarbeitern".
+ - AG-SV-Anteil: 6110 SKR04 (4130 SKR03) "Gesetzliche soziale Aufwendungen" an 3760 SKR04 (1741 SKR03).
+ - Bei Auszahlung Netto: 3790 SKR04 an Bank (1800 SKR04 / 1200 SKR03).
+ - Abfuehrung LSt: 3740 SKR04 an Bank.
+ - Abfuehrung SV: 3760 SKR04 an Bank.
 - Konten-Nr je nach Kontenplan und DATEV-Mandantenkonfiguration; bei Abweichungen Mandantenstammdaten pruefen.
 
 ### Phase 6 — Anmeldung Lohnsteuer

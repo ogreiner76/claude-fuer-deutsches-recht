@@ -190,12 +190,12 @@ Bevor losgelegt wird, klaere:
 
 ```
 13-WOCHEN-LIQUIDITAETSVORSCHAU (direkte Methode)
-Gesellschaft: [FIRMA]    Erstellt: [DATUM]    Ersteller: [NAME]
+Gesellschaft: [FIRMA] Erstellt: [DATUM] Ersteller: [NAME]
 
 Woche | Anfangsbestand | Einzahlungen | Auszahlungen | Endbestand | Kreditlinie | Freie Liqui
-  1   |   EUR [XXX]    |  EUR [YYY]   |  EUR [ZZZ]   |  EUR [AAA] |  EUR [BBB]  |  EUR [CCC]
-  2   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
- 13   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
+ 1 | EUR [XXX] | EUR [YYY] | EUR [ZZZ] | EUR [AAA] | EUR [BBB] | EUR [CCC]
+ 2 | ... | ... | ... | ... | ... | ...
+ 13 | ... | ... | ... | ... | ... | ...
 
 AMPEL-STATUS:
 Wochen 1-4 (kurzfristig): [GRUEN / GELB / ROT]

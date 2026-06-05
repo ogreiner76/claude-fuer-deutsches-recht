@@ -1,13 +1,13 @@
 ---
 name: quellenrecherche
-description: "Nutze dies, wenn Workflow Fristen Und Risikoampel, Workflow Redteam Qualitygate, Quellenrecherche Rechtsprechung Literatur im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Fristen Und Risikoampel, Redteam Qualitygate, Quellenrecherche Rechtsprechung Literatur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Fristen Und Risikoampel, Workflow Redteam Qualitygate, Quellenrecherche Rechtsprechung Literatur
+# Fristen Und Risikoampel, Redteam Qualitygate, Quellenrecherche Rechtsprechung Literatur
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fristen Und Risikoampel, Redteam Qualitygate, Quellenrecherche Rechtsprechung Literatur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Fristen Und Risikoampel, Workflow Redteam Qualitygate, Quellenrecherche Rechtsprechung Literatur** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hausarbeitenmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristen Und Risikoampel, Redteam Qualitygate, Quellenrecherche Rechtsprechung Literatur** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `hausarbeitenmacher` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,10 +31,10 @@ Für **Workflow Fristen Und Risikoampel, Workflow Redteam Qualitygate, Quellenre
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill für `hausarbeitenmacher` Fristen- und Risikoampel im Plugin hausarbeitenmacher: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin hausarbeitenmacher: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -44,7 +44,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Hausarbeit-Disziplin
@@ -78,10 +78,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `hausarbeitenmacher` Red-Team Qualitygate im Plugin hausarbeitenmacher: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin hausarbeitenmacher: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -91,7 +91,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -232,19 +232,19 @@ Eine gute Hausarbeit lebt von guten Quellen. Wer nicht weiß, wo er sucht, finde
 
 ```
 1. juris-Suche: "§ 433 BGB" + Datum-Filter "letzte 24 Monate"
-   → aktuelle BGH-Entscheidungen
+ → aktuelle BGH-Entscheidungen
 2. Lizensierte Datenbank nur bei vorhandenem Zugang: Normsuche und konkrete Quelle protokollieren
-   Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+ Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 3. dejure.org: Norm anklicken, Verweise auf Rechtsprechung
 4. JuS-Archiv: "Kaufvertrag" + "Pflichtverletzung"
-   → Studenten-orientierte Aufsätze
+ → Studenten-orientierte Aufsätze
 ```
 
 ### Beispiel 2: Strafrecht § 263 StGB (Betrug)
 
 ```
 1. juris-Suche: "§ 263 StGB" + Filter "Senate 1-4 BGH"
-   → BGH-Strafsachen
+ → BGH-Strafsachen
 2. Literatur nur mit bereitgestellter Quelle oder lizenziert verifiziertem Zugriff verwenden.
 3. JuS-Archiv: "Vermögensschaden" + "Konkretisierung"
 4. Bei Streit: Fundstelle nur aus bereitgestellter Quelle oder lizenziert verifizierter Recherche übernehmen.

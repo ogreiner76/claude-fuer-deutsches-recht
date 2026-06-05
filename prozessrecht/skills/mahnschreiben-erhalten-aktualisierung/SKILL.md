@@ -1,13 +1,13 @@
 ---
 name: mahnschreiben-erhalten-aktualisierung
-description: "Nutze dies, wenn Mahnschreiben Erhalten, Mandat Aktualisierung, Mandat Aufnahme im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Mahnschreiben Erhalten, Mandat Aktualisierung, Mandat Aufnahme prüfen.; Erstelle eine Arbeitsfassung zu Mahnschreiben Erhalten, Mandat Aktualisierung, Mandat Aufnahme.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mahnschreiben Erhalten, Mandat Aktualisierung, Mandat Aufnahme: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mahnschreiben Erhalten, Mandat Aktualisierung, Mandat Aufnahme
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mahnschreiben Erhalten, Mandat Aktualisierung, Mandat Aufnahme** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -66,41 +66,41 @@ Strukturierte Auswertung und Triage eingehender Mahnschreiben, Abmahnungen, Ford
 ## Ablauf
 
 1. **Feldextraktion:**
-   - Absender (Name, Kanzlei, Anschrift)
-   - Empfänger (Mandant / Gesellschaft)
-   - Datum des Schreibens
-   - Aktenzeichen / Referenz des Absenders
-   - Art des Schreibens (Mahnung, Abmahnung, Klagedrohung, Aufforderung zur Unterlassung, C&D-Äquivalent)
-   - Geldforderung (Betrag, Währung, Fälligkeitsdatum)
-   - Anspruchsgrundlage (soweit angegeben)
-   - Gesetzte Frist (Datum extrahieren; wenn "2 Wochen ab Zugang" oder ähnlich: Frist anhand des Schreibdatums + Postlaufzeit schätzen)
+ - Absender (Name, Kanzlei, Anschrift)
+ - Empfänger (Mandant / Gesellschaft)
+ - Datum des Schreibens
+ - Aktenzeichen / Referenz des Absenders
+ - Art des Schreibens (Mahnung, Abmahnung, Klagedrohung, Aufforderung zur Unterlassung, C&D-Äquivalent)
+ - Geldforderung (Betrag, Währung, Fälligkeitsdatum)
+ - Anspruchsgrundlage (soweit angegeben)
+ - Gesetzte Frist (Datum extrahieren; wenn "2 Wochen ab Zugang" oder ähnlich: Frist anhand des Schreibdatums + Postlaufzeit schätzen)
 
 2. **Portfolio-Abgleich:** Prüfen, ob zu Absender / Sachverhalt bereits ein Mandat in `mandate/_log.yaml` existiert. Wenn ja: Verknüpfung herstellen und History-Update vorschlagen.
 
 3. **Berechtigungsprüfung (Kurzanalyse):**
-   - Besteht das behauptete Schuldverhältnis dem Grunde nach?
-   - Ist die Forderung bezifferbar und plausibel?
-   - Sind Verjährungseinwände (§§ 195, 199 BGB) offensichtlich möglich?
-   - Stehen Gegenansprüche (Aufrechnung § 387 BGB, Zurückbehaltungsrecht § 273 BGB) im Raum?
-   - Besteht Verdacht auf unberechtigte Abmahnung (§ 8c UWG, § 97a Abs. 4 UrhG)?
-   - Ist die Abmahnung formell vollständig (Unterlassungserklärung, Vertragsstrafe, Vollmacht)?
+ - Besteht das behauptete Schuldverhältnis dem Grunde nach?
+ - Ist die Forderung bezifferbar und plausibel?
+ - Sind Verjährungseinwände (§§ 195, 199 BGB) offensichtlich möglich?
+ - Stehen Gegenansprüche (Aufrechnung § 387 BGB, Zurückbehaltungsrecht § 273 BGB) im Raum?
+ - Besteht Verdacht auf unberechtigte Abmahnung (§ 8c UWG, § 97a Abs. 4 UrhG)?
+ - Ist die Abmahnung formell vollständig (Unterlassungserklärung, Vertragsstrafe, Vollmacht)?
 
 4. **Risikoeinschätzung:** Ampelschema:
-   - 🔴 Hohe Berechtigung / akute Frist – sofortiger Handlungsbedarf
-   - 🟡 Mittlere Berechtigung / prüfungsbedürftig
-   - 🟢 Geringe Berechtigung / defensiv haltbar
+ - 🔴 Hohe Berechtigung / akute Frist – sofortiger Handlungsbedarf
+ - 🟡 Mittlere Berechtigung / prüfungsbedürftig
+ - 🟢 Geringe Berechtigung / defensiv haltbar
 
 5. **Handlungsoptionen mit Empfehlung:**
-   - (a) Zahlung / Erfüllung (mit Vorbehalten)
-   - (b) Modifizierte Unterlassungserklärung (bei Abmahnung)
-   - (c) Abwehr / Zurückweisung mit Begründung
-   - (d) Verhandlung / Vergleichsgespräch
-   - (e) Schutzschrift hinterlegen (§ 945a ZPO) bei Gefahr einstweiliger Verfügung
-   - (f) Mandat-Intake → neues Mandat anlegen
+ - (a) Zahlung / Erfüllung (mit Vorbehalten)
+ - (b) Modifizierte Unterlassungserklärung (bei Abmahnung)
+ - (c) Abwehr / Zurückweisung mit Begründung
+ - (d) Verhandlung / Vergleichsgespräch
+ - (e) Schutzschrift hinterlegen (§ 945a ZPO) bei Gefahr einstweiliger Verfügung
+ - (f) Mandat-Intake → neues Mandat anlegen
 
 6. **Fristen-Alarm:**
-   - Antwortfrist aus Schreiben extrahieren und als absolute Frist eintragen
-   - Verjährungshemmung durch Verhandlung (§ 203 BGB) oder Mahnbescheid (§ 204 Abs. 1 Nr. 3 BGB) als Optionen nennen
+ - Antwortfrist aus Schreiben extrahieren und als absolute Frist eintragen
+ - Verjährungshemmung durch Verhandlung (§ 203 BGB) oder Mahnbescheid (§ 204 Abs. 1 Nr. 3 BGB) als Optionen nennen
 
 7. **Datei speichern:** `inbound/[JJJJ-MM-TT]-[slug].md`
 
@@ -125,10 +125,10 @@ Art: [Mahnung | Abmahnung | Klagedrohung]
 ──────────────────────────────────────
 KERNFELDER
 ──────────────────────────────────────
-Forderungsbetrag:   EUR X.XXX,XX
+Forderungsbetrag: EUR X.XXX,XX
 Anspruchsgrundlage: § 280 Abs. 1, 3, § 281 BGB
-Frist gesetzt bis:  TT.MM.JJJJ
-Konsequenz:         Klageandrohung
+Frist gesetzt bis: TT.MM.JJJJ
+Konsequenz: Klageandrohung
 
 ──────────────────────────────────────
 RISIKOEINSCHÄTZUNG: 🟡 MITTEL
@@ -145,8 +145,8 @@ Alternativen: (d) Verhandlung, (e) Schutzschrift
 ──────────────────────────────────────
 FRISTEN
 ──────────────────────────────────────
-⚠️ Antwortfrist:       TT.MM.JJJJ
-📅 Verjährungsende:    31.12.JJJJ (§§ 195, 199 BGB)
+⚠️ Antwortfrist: TT.MM.JJJJ
+📅 Verjährungsende: 31.12.JJJJ (§§ 195, 199 BGB)
 ```
 
 ## Risiken / typische Fehler
@@ -441,16 +441,16 @@ Vollständige und strukturierte Aufnahme eines neuen Mandats in das Portfolio. D
 slug: ""
 kanzlei_az: ""
 mandant:
-  name: ""
-  typ: "Unternehmer / Verbraucher"
+ name: ""
+ typ: "Unternehmer / Verbraucher"
 gegenseite:
-  name: ""
-  anwalt: ""
+ name: ""
+ anwalt: ""
 verfahren:
-  art: ""
-  gericht: ""
-  az_gericht: ""
-  verfahrensordnung: ""
+ art: ""
+ gericht: ""
+ az_gericht: ""
+ verfahrensordnung: ""
 streitwert: 0
 anspruchsgrundlage: ""
 risiko: "hoch / mittel / gering"

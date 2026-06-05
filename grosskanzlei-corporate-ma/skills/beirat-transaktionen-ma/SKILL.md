@@ -1,6 +1,6 @@
 ---
 name: beirat-transaktionen-ma
-description: "Nutze dies, wenn Beirat Transaktionen M&A im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Transaktionen M&A prüfen.; Erstelle eine Arbeitsfassung zu Beirat Transaktionen M&A.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Transaktionen M&A: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Transaktionen M&A

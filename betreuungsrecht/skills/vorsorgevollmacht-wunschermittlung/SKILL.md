@@ -1,13 +1,13 @@
 ---
 name: vorsorgevollmacht-wunschermittlung
-description: "Nutze dies, wenn Vorsorgevollmacht Prüfen, Wunschermittlung Unterstuetzte Entscheidung, Zwangsbehandlung 1832 Bgb im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Vorsorgevollmacht Prüfen, Wunschermittlung Unterstuetzte Entscheidung, Zwangsbehandlung 1832 Bgb prüfen.; Erstelle eine Arbeitsfassung zu Vorsorgevollmacht Prüfen, Wunschermittlung Unterstuetzte Entscheidung, Zwangsbehandlung 1832 Bgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vorsorgevollmacht Prüfen, Wunschermittlung Unterstuetzte Entscheidung, Zwangsbehandlung 1832 Bgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vorsorgevollmacht Prüfen, Wunschermittlung Unterstuetzte Entscheidung, Zwangsbehandlung 1832 Bgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vorsorgevollmacht Prüfen, Wunschermittlung Unterstuetzte Entscheidung, Zwangsbehandlung 1832 Bgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

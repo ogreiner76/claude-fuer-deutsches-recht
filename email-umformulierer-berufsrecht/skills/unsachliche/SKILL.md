@@ -1,6 +1,6 @@
 ---
 name: unsachliche
-description: "Nutze dies, wenn Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung

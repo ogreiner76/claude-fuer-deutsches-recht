@@ -47,29 +47,29 @@ description: "Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach 
 ## Prüfschema
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ```
 1. Prüfungsanordnung § 196 AO
-   - Schriftform, Bestimmtheit, Ermessen, Frist.
-   - Anfechtung mit Einspruch § 347 AO + AdV § 361 AO?
-   - Prüfungsumfang zulässig (§ 193 AO Kreis der Prüfungspflichtigen)?
+ - Schriftform, Bestimmtheit, Ermessen, Frist.
+ - Anfechtung mit Einspruch § 347 AO + AdV § 361 AO?
+ - Prüfungsumfang zulässig (§ 193 AO Kreis der Prüfungspflichtigen)?
 2. Vorgespräch mit Prüfer
-   - Prüfungsumfang, Räumlichkeiten, Datenträger nach § 147 Abs. 6 AO.
+ - Prüfungsumfang, Räumlichkeiten, Datenträger nach § 147 Abs. 6 AO.
 3. Mitwirkung § 200 AO
-   - Datenzugriff Z1/Z2/Z3 nach GoBD.
-   - Auskunftsverweigerungsrechte §§ 102 103 AO?
-   - Trennung Steuer- und Strafverfahren § 393 AO.
+ - Datenzugriff Z1/Z2/Z3 nach GoBD.
+ - Auskunftsverweigerungsrechte §§ 102 103 AO?
+ - Trennung Steuer- und Strafverfahren § 393 AO.
 4. Zwischenstand
-   - Prüfungsfeststellungen schriftlich anfordern; Stellungnahme einreichen.
+ - Prüfungsfeststellungen schriftlich anfordern; Stellungnahme einreichen.
 5. Schlussbesprechung § 201 AO
-   - Strittige Punkte protokollieren; Verständigung dokumentieren.
+ - Strittige Punkte protokollieren; Verständigung dokumentieren.
 6. Prüfungsbericht § 202 AO
-   - Stellungnahme abgeben; ggf. Anhörung beantragen.
+ - Stellungnahme abgeben; ggf. Anhörung beantragen.
 7. Geänderter Bescheid
-   - Einspruch § 347 AO + AdV § 361 AO (Skill `anw-einspruch-finanzamt`).
+ - Einspruch § 347 AO + AdV § 361 AO (Skill `anw-einspruch-finanzamt`).
 8. Verbindliche Zusage § 204 AO
-   - Beantragen, wenn dauerhafte Klärung erforderlich.
+ - Beantragen, wenn dauerhafte Klärung erforderlich.
 ```
 
 ## Phasen der Prüfungsbegleitung
@@ -156,11 +156,11 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 [Briefkopf]
 
 An das Finanzamt [Ort]
-Außenprüfungsstelle, z. Hd. Herrn/Frau [Prüfer]                  [Ort, Datum]
+Außenprüfungsstelle, z. Hd. Herrn/Frau [Prüfer] [Ort, Datum]
 
 Steuernummer: [SteuerNr]
-Prüfung:      [Bezeichnung Prüfungsanordnung]
-Az.:          [Aktenzeichen Außenprüfung]
+Prüfung: [Bezeichnung Prüfungsanordnung]
+Az.: [Aktenzeichen Außenprüfung]
 
 Stellungnahme zur Schlussbesprechung am [Datum]
 
@@ -169,14 +169,14 @@ Sehr geehrte/r Frau/Herr [Prüfer],
 namens und in Vollmacht der [Mandantin] nehmen wir zu den Prüfungsfeststellungen wie folgt Stellung.
 
 1. Feststellung "[Bezeichnung]"
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Antrag: Diese Feststellung wird nicht in den Prüfungsbericht aufgenommen.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Antrag: Diese Feststellung wird nicht in den Prüfungsbericht aufgenommen.
 
 2. Feststellung "[Bezeichnung]"
-   Wir treten der Feststellung sachlich nicht entgegen, regen jedoch eine Anpassung der Bemessungsgrundlage an, weil […].
+ Wir treten der Feststellung sachlich nicht entgegen, regen jedoch eine Anpassung der Bemessungsgrundlage an, weil […].
 
 3. Verbindliche Zusage § 204 AO
-   Hinsichtlich der zukünftigen Behandlung von [Sachverhalt] wird hilfsweise eine verbindliche Zusage beantragt.
+ Hinsichtlich der zukünftigen Behandlung von [Sachverhalt] wird hilfsweise eine verbindliche Zusage beantragt.
 
 Mit freundlichen Grüßen
 [Anwalt, Fachanwalt für Steuerrecht]

@@ -1,6 +1,6 @@
 ---
 name: rom-082-roman-law-false-friends
-description: "Römisches Recht: Roman Law False Friends. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Roman Law False Friends. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Roman Law False Friends

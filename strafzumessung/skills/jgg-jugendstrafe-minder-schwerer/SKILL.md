@@ -1,13 +1,13 @@
 ---
 name: jgg-jugendstrafe-minder-schwerer
-description: "Nutze dies, wenn Jgg Strafzumessung Jugendstrafe Erziehungsmassregeln, Minder Schwerer Fall Und Besonders Schwerer Fall, Nachtraegliche Gesamtstrafenbildung 55 Stgb im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Jgg Strafzumessung Jugendstrafe Erziehungsmassregeln, Minder Schwerer Fall Und Besonders Schwerer Fall, Nachtraegliche Gesamtstrafenbildung 55 Stgb prüfen.; Erstelle eine Arbeitsfassung zu Jgg Strafzumessung Jugendstrafe Erziehungsmassregeln, Minder Schwerer Fall Und Besonders Schwerer Fall, Nachtraegliche Gesamtstrafenbildung 55 Stgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Jgg Strafzumessung Jugendstrafe Erziehungsmassregeln, Minder Schwerer Fall Und Besonders Schwerer Fall, Nachtraegliche Gesamtstrafenbildung 55 Stgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Jgg Strafzumessung Jugendstrafe Erziehungsmassregeln, Minder Schwerer Fall Und Besonders Schwerer Fall, Nachtraegliche Gesamtstrafenbildung 55 Stgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Jgg Strafzumessung Jugendstrafe Erziehungsmassregeln, Minder Schwerer Fall Und Besonders Schwerer Fall, Nachtraegliche Gesamtstrafenbildung 55 Stgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -70,12 +70,12 @@ Das Jugendgerichtsgesetz (JGG) gilt fuer Jugendliche (14 bis unter 18 Jahre) und
 
 - **§ 17 Abs. 1 JGG** — Jugendstrafe ist Freiheitsentzug in Jugendstrafanstalt.
 - **§ 17 Abs. 2 JGG** — Voraussetzung:
-  - **Schaedliche Neigungen**, deren Bekaempfung erzieherische Massnahmen nicht ausreichen, **oder**
-  - **Schwere der Schuld** bei Straftaten von erheblicher Bedeutung.
+ - **Schaedliche Neigungen**, deren Bekaempfung erzieherische Massnahmen nicht ausreichen, **oder**
+ - **Schwere der Schuld** bei Straftaten von erheblicher Bedeutung.
 - **§ 18 Abs. 1 JGG** — Mindestmass 6 Monate, Hoechstmass:
-  - bei Vergehen: 5 Jahre.
-  - bei Verbrechen, fuer die Hoechststrafe ueber 10 Jahre Freiheitsstrafe nach allgemeinem Strafrecht steht: bis 10 Jahre.
-  - bei besonders schweren Mordfaellen bei Heranwachsenden nach § 105 JGG: bis 15 Jahre.
+ - bei Vergehen: 5 Jahre.
+ - bei Verbrechen, fuer die Hoechststrafe ueber 10 Jahre Freiheitsstrafe nach allgemeinem Strafrecht steht: bis 10 Jahre.
+ - bei besonders schweren Mordfaellen bei Heranwachsenden nach § 105 JGG: bis 15 Jahre.
 - **§ 18 Abs. 2 JGG** — Strafzumessungs-Grundsatz: erforderliche erzieherische Einwirkung.
 
 ### Sonderregeln
@@ -97,31 +97,31 @@ Das Jugendgerichtsgesetz (JGG) gilt fuer Jugendliche (14 bis unter 18 Jahre) und
 ## Schritt-fuer-Schritt-Anleitung (Verteidigung)
 
 1. **Anwendungsbereich** klaeren:
-   - Tatbegehungsalter? Jugendlich oder Heranwachsend?
-   - Bei Heranwachsenden: § 105 JGG-Pruefung. Antrag auf Jugendrecht meist verteidigungsguenstig.
+ - Tatbegehungsalter? Jugendlich oder Heranwachsend?
+ - Bei Heranwachsenden: § 105 JGG-Pruefung. Antrag auf Jugendrecht meist verteidigungsguenstig.
 2. **Sozialanamnese** vorbereiten:
-   - Persoenlichkeit (Entwicklung, Schulbildung, soziales Umfeld).
-   - Tat: Bagatelle, Krisentat, Jugendverfehlung?
-   - Schaedliche Neigungen erkennbar (Suchtproblematik, Gewalt, Eigentumsdelikte als Muster)?
+ - Persoenlichkeit (Entwicklung, Schulbildung, soziales Umfeld).
+ - Tat: Bagatelle, Krisentat, Jugendverfehlung?
+ - Schaedliche Neigungen erkennbar (Suchtproblematik, Gewalt, Eigentumsdelikte als Muster)?
 3. **Sanktionsvorschlag** mit Mandant und Jugendgerichtshilfe abstimmen:
-   - **Erziehungsmassregel** (Weisung, sozial-paedagogische Massnahme).
-   - **Zuchtmittel** (Auflage, Jugendarrest).
-   - **Jugendstrafe** vermeiden, wenn moeglich; sonst Bewaehrung sichern.
+ - **Erziehungsmassregel** (Weisung, sozial-paedagogische Massnahme).
+ - **Zuchtmittel** (Auflage, Jugendarrest).
+ - **Jugendstrafe** vermeiden, wenn moeglich; sonst Bewaehrung sichern.
 4. **Bewaehrungsperspektive**: § 21 JGG.
 5. **Strafzumessungs-Argumentation**:
-   - Erziehung: lernfaehig, sozial integriert, Schul- oder Berufsperspektive.
-   - Keine schaedlichen Neigungen erkennbar.
-   - Tat als Einzelfall, nicht als Muster.
+ - Erziehung: lernfaehig, sozial integriert, Schul- oder Berufsperspektive.
+ - Keine schaedlichen Neigungen erkennbar.
+ - Tat als Einzelfall, nicht als Muster.
 
 ## Heranwachsende — § 105 JGG
 
 - Anwendung Jugendrecht, wenn:
-  - Persoenlichkeitsentwicklung des Heranwachsenden noch der eines Jugendlichen gleichsteht (Reife-Beurteilung), **oder**
-  - die Tat eine typische **Jugendverfehlung** ist (Tat- und Persoenlichkeitsbeurteilung).
+ - Persoenlichkeitsentwicklung des Heranwachsenden noch der eines Jugendlichen gleichsteht (Reife-Beurteilung), **oder**
+ - die Tat eine typische **Jugendverfehlung** ist (Tat- und Persoenlichkeitsbeurteilung).
 - Wirkung der Anwendung Jugendrecht:
-  - Strafrahmen nach Jugendrecht (max. 10 Jahre bei Verbrechen; bei Mordfaellen bis 15 Jahre).
-  - Bewaehrungsregeln nach § 21 JGG.
-  - Vollzug in der Jugendstrafanstalt.
+ - Strafrahmen nach Jugendrecht (max. 10 Jahre bei Verbrechen; bei Mordfaellen bis 15 Jahre).
+ - Bewaehrungsregeln nach § 21 JGG.
+ - Vollzug in der Jugendstrafanstalt.
 
 ## Sanktionen — Faustwerte
 
@@ -247,13 +247,13 @@ In der Verteidigungspraxis stets **hilfsweise** beide Wege beantragen. **Aktenze
 
 1. **Strafrahmen-Modifikation** identifizieren: Liegt eine minder schwere Fall-Norm vor? Liegt ein Regelbeispiel-Katalog vor?
 2. **Argumente fuer minder schweren Fall** sammeln:
-   - Provokation, Notlage, akuter Affekt.
-   - Erstmaliger Verstoss.
-   - Tatfolgen geringfuegig.
-   - Tatumstaende untypisch.
+ - Provokation, Notlage, akuter Affekt.
+ - Erstmaliger Verstoss.
+ - Tatfolgen geringfuegig.
+ - Tatumstaende untypisch.
 3. **Argumente gegen Regelbeispiel-Indiz** sammeln:
-   - Konkreter Vorgang weicht von der Modellvorstellung des Regelbeispiels ab.
-   - Sonstige starke Strafmilderungs-Gesichtspunkte ueberwiegen.
+ - Konkreter Vorgang weicht von der Modellvorstellung des Regelbeispiels ab.
+ - Sonstige starke Strafmilderungs-Gesichtspunkte ueberwiegen.
 4. **Antrag**: "Wir beantragen Verurteilung nach minder schwerem Fall (§ ..., Abs. ...). Hilfsweise Strafmilderung nach § 49 Abs. 1 StGB."
 
 ## Schritt-fuer-Schritt-Anleitung (Anklage)
@@ -338,13 +338,13 @@ In solchen Faellen kommt der **Haerteausgleich** in Betracht; vgl. `haerteausgle
 1. **BZRG-Auszug** und Verfahrensakte pruefen: Welche Vorverurteilungen liegen vor? Welche Tatzeiten?
 2. **Zaesur-Pruefung**: Wurde die abzuurteilende Tat **vor** der ersten tatrichterlichen Verurteilung begangen?
 3. **Status der Vorverurteilung**:
-   - Vollstreckung schon abgeschlossen? — Haerteausgleich.
-   - Verjaehrt? — Haerteausgleich.
-   - Erlassen (Bewaehrung gluecklich abgelaufen)? — Haerteausgleich.
-   - Noch offen / in Vollstreckung / Bewaehrung laufend? — Einbeziehung nach § 55 StGB.
+ - Vollstreckung schon abgeschlossen? — Haerteausgleich.
+ - Verjaehrt? — Haerteausgleich.
+ - Erlassen (Bewaehrung gluecklich abgelaufen)? — Haerteausgleich.
+ - Noch offen / in Vollstreckung / Bewaehrung laufend? — Einbeziehung nach § 55 StGB.
 4. **Antrag**:
-   - **In der Hauptverhandlung**: "Wir beantragen, gemaess § 55 StGB eine Gesamtstrafe aus der Strafe aus dem Urteil [Az.] vom [Datum] und der hier zu verhaengenden Strafe zu bilden."
-   - **Nach Rechtskraft (Beschluss-Verfahren)**: § 460 StPO; zustaendig ist das Gericht des **letzten** Verfahrens.
+ - **In der Hauptverhandlung**: "Wir beantragen, gemaess § 55 StGB eine Gesamtstrafe aus der Strafe aus dem Urteil [Az.] vom [Datum] und der hier zu verhaengenden Strafe zu bilden."
+ - **Nach Rechtskraft (Beschluss-Verfahren)**: § 460 StPO; zustaendig ist das Gericht des **letzten** Verfahrens.
 5. **Begruendung im Urteil**: Einzelstrafen, Einsatzstrafe, Gesamtstrafe; vgl. `gesamtstrafenbildung-53-54-stgb-erste-instanz`.
 6. **Bewaehrungsperspektive**: Gesamtstrafe darf nicht ueber 2 Jahre liegen, wenn Bewaehrung erhalten bleiben soll.
 

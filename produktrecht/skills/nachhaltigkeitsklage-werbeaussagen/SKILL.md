@@ -1,13 +1,13 @@
 ---
 name: nachhaltigkeitsklage-werbeaussagen
-description: "Nutze dies, wenn Nachhaltigkeitsklage Werbeaussagen, Preisangaben, Prodr Gpsr Cra Fitness Spezial im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Nachhaltigkeitsklage Werbeaussagen, Preisangaben, Prodr Gpsr Cra Fitness Spezial prüfen.; Erstelle eine Arbeitsfassung zu Nachhaltigkeitsklage Werbeaussagen, Preisangaben, Prodr Gpsr Cra Fitness Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nachhaltigkeitsklage Werbeaussagen, Preisangaben, Prodr Gpsr Cra Fitness Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nachhaltigkeitsklage Werbeaussagen, Preisangaben, Prodr Gpsr Cra Fitness Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nachhaltigkeitsklage Werbeaussagen, Preisangaben, Prodr Gpsr Cra Fitness Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -197,15 +197,15 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur task_198 (3 Probleme):
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Naehrwertdeklaration/LMIV, nicht PAngV/Streichpreise — kein passender Ersatz.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Naehrwertdeklaration/LMIV, nicht PAngV/Streichpreise — kein passender Ersatz.
 1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Preisangabenrechtliche Entscheidungen nur mit Gericht, Datum, Aktenzeichen
-   und freier/amtlicher Quelle in die Ausgabe übernehmen.
+ Preisangabenrechtliche Entscheidungen nur mit Gericht, Datum, Aktenzeichen
+ und freier/amtlicher Quelle in die Ausgabe übernehmen.
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   explizites AZ-Zitat vorhanden; AZ existiert (BGH 25.03.2021), betrifft aber
-   Nutzungsentgelt fuer bargeldlose Zahlungen (§ 270a BGB) — falsches Thema;
-   kein Handlungsbedarf im Text, da AZ dort nicht vorkommt.
+ explizites AZ-Zitat vorhanden; AZ existiert (BGH 25.03.2021), betrifft aber
+ Nutzungsentgelt fuer bargeldlose Zahlungen (§ 270a BGB) — falsches Thema;
+ kein Handlungsbedarf im Text, da AZ dort nicht vorkommt.
 -->
 
 ## 3. `prodr-gpsr-cra-fitness-spezial`

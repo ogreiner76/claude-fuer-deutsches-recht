@@ -1,22 +1,22 @@
 ---
 name: staat-westsahara-migrationscheck
-description: "Nutze dies, wenn Staat Westsahara Migrationscheck, Staat Zentralafrikanische Republik Migrationscheck, Staat Zypern Migrationscheck, Fachanwalt Migrationsrecht Geas Reform Grenzverfahren 2024 im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Staat Westsahara Migrationscheck, Staat Zentralafrikanische Republik Migrationscheck, Staat Zypern Migrationscheck, Fachanwalt Migrationsrecht Geas Reform Grenzverfahren 2024 prüfen.; Erstelle eine Arbeitsfassung zu Staat Westsahara Migrationscheck, Staat Zentralafrikanische Republik Migrationscheck, Staat Zypern Migrationscheck, Fachanwalt Migrationsrecht Geas Reform Grenzverfahren 2024.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Staat Westsahara Migrationscheck, Staat Zentralafrikanische Republik Migrationscheck, Staat Zypern Migrationscheck, Fachanwalt Migrationsrecht Geas Reform Grenzverfahren 2024: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Staat Westsahara Migrationscheck, Staat Zentralafrikanische Republik Migrationscheck, Staat Zypern Migrationscheck, Fachanwalt Migrationsrecht Geas Reform Grenzverfahren 2024
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `staat-westsahara-migrationscheck` | Staaten- und Gebietscheck Westsahara: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-zentralafrikanische-republik-migrationscheck` | Staaten- und Gebietscheck Zentralafrikanische Republik: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `staat-zypern-migrationscheck` | Staaten- und Gebietscheck Zypern: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
-| `fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024` | GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Workflow Eilantrag Identitätsprüfung Verfahrensgarantien. |
+| `staat-westsahara-migrationscheck` | Staaten- und Gebietscheck Westsahara: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-zentralafrikanische-republik-migrationscheck` | Staaten- und Gebietscheck Zentralafrikanische Republik: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `staat-zypern-migrationscheck` | Staaten- und Gebietscheck Zypern: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
+| `fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024` | GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Eilantrag Identitätsprüfung Verfahrensgarantien. |
 
 ## Arbeitsweg
 
@@ -27,16 +27,16 @@ Für **Staat Westsahara Migrationscheck, Staat Zentralafrikanische Republik Migr
 
 ## 1. `staat-westsahara-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Westsahara: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Westsahara: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 
 # Staaten-/Gebietscheck: Westsahara
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Westsahara**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Westsahara**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 - Der Status ist politisch/rechtlich besonders sensibel. Keine Anerkennungsbehauptung treffen; neutral von Dokumenten-, Gebiets- und Behördenpraxis sprechen und die deutsche/europäische Verwaltungspraxis live prüfen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Westsahara: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -66,15 +66,15 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Westsahara**. Er 
 
 ## 2. `staat-zentralafrikanische-republik-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Zentralafrikanische Republik: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Zentralafrikanische Republik: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 
 # Staaten-/Gebietscheck: Zentralafrikanische Republik
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zentralafrikanische Republik**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zentralafrikanische Republik**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Zentralafrikanische Republik: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -104,15 +104,15 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zentralafrikanisc
 
 ## 3. `staat-zypern-migrationscheck`
 
-**Fokus:** Staaten- und Gebietscheck Zypern: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Zypern: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 
 # Staaten-/Gebietscheck: Zypern
 
 ## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zypern**. Er ist kein Länderlexikon, sondern ein Arbeitsworkflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
+Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zypern**. Er ist kein Länderlexikon, sondern ein Arbeitsfür Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
-## Kaltstart
+## Einstieg
 1. Welche Beziehung besteht zu Zypern: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
 2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
 3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
@@ -142,7 +142,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Zypern**. Er ist 
 
 ## 4. `fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024`
 
-**Fokus:** GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Workflow Eilantrag Identitätsprüfung Verfahrensgarantien.
+**Fokus:** GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Eilantrag Identitätsprüfung Verfahrensgarantien.
 
 
 # GEAS-Reform: EU-Grenzverfahren 2024
@@ -237,7 +237,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Baustein 1 — Eilantrag § 80 Abs. 5 VwGO im Grenzverfahren (vollständig)
 
 ```
-An das Verwaltungsgericht [Ort]                    [Datum]
+An das Verwaltungsgericht [Ort] [Datum]
 
 Antrag auf Anordnung der aufschiebenden Wirkung
 gem. § 80 Abs. 5 VwGO i.V.m. § 34a Abs. 2 AsylG
@@ -249,12 +249,12 @@ In dem Verfahren
 beantragen wir:
 
 1. Die aufschiebende Wirkung der mit diesem Schreiben erhobenen
-   Klage gegen den Bescheid des BAMF vom [Datum], Az. [...],
-   wird angeordnet.
+ Klage gegen den Bescheid des BAMF vom [Datum], Az. [...],
+ wird angeordnet.
 
 2. Die Antragsgegnerin wird verpflichtet, von aufenthalts-
-   beendenden Maßnahmen bis zur rechtskräftigen Entscheidung
-   im Hauptsacheverfahren abzusehen.
+ beendenden Maßnahmen bis zur rechtskräftigen Entscheidung
+ im Hauptsacheverfahren abzusehen.
 
 Begründung:
 
@@ -269,24 +269,24 @@ als [offensichtlich unbegründet / unzulässig] abgelehnt.
 II. Verfahrensfehler im Grenzverfahren GVO 2024/1349
 
 1. Unzureichende Anhörung: Die Anhörung vom [Datum] dauerte nur
-   [X Minuten]. Der zentrale Verfolgungsgrund [konkret beschreiben]
-   wurde nicht vollständig erörtert. Dies verstößt gegen Art. 12
-   AVO (EU) 2024/1348, der eine angemessene Anhörungsdauer garantiert.
+ [X Minuten]. Der zentrale Verfolgungsgrund [konkret beschreiben]
+ wurde nicht vollständig erörtert. Dies verstößt gegen Art. 12
+ AVO (EU) 2024/1348, der eine angemessene Anhörungsdauer garantiert.
 
 2. Dolmetscher-Mangel: Der eingesetzte Dolmetscher beherrschte nicht
-   den Dialekt [Bezeichnung] unseres Mandanten. Dies führte zu
-   Missverständnissen bei der Schilderung der Verfolgungsgeschichte
-   [konkrete Stelle im Protokoll S. X].
+ den Dialekt [Bezeichnung] unseres Mandanten. Dies führte zu
+ Missverständnissen bei der Schilderung der Verfolgungsgeschichte
+ [konkrete Stelle im Protokoll S. X].
 
 3. Vulnerabilität nicht berücksichtigt: Der Antragsteller / die
-   Antragstellerin leidet an [PTBS / körperlicher Erkrankung /
-   Traumafolgen — konkret]. Dies wurde dem BAMF nicht zur Kenntnis
-   gebracht. Vulnerable Personen sind nach Art. 42 Abs. 3 GVO
-   2024/1349 vom Pflicht-Grenzverfahren ausgenommen.
+ Antragstellerin leidet an [PTBS / körperlicher Erkrankung /
+ Traumafolgen — konkret]. Dies wurde dem BAMF nicht zur Kenntnis
+ gebracht. Vulnerable Personen sind nach Art. 42 Abs. 3 GVO
+ 2024/1349 vom Pflicht-Grenzverfahren ausgenommen.
 
 4. Rechtsbelehrung fehlerhaft: Die Belehrung über Rechtsbehelfs-
-   möglichkeiten erfolgte nicht in einer dem Antragsteller
-   verständlichen Sprache (Art. 8 Abs. 2 AVO 2024/1348).
+ möglichkeiten erfolgte nicht in einer dem Antragsteller
+ verständlichen Sprache (Art. 8 Abs. 2 AVO 2024/1348).
 
 III. Materieller Schutzanspruch
 
@@ -331,14 +331,14 @@ VO (EU) 2024/1349.
 Begründung:
 
 1. Ausnahmetatbestand Art. 42 Abs. 3 GVO liegt vor:
-   Unser Mandant / unsere Mandantin ist [Minderjährig / Familie
-   mit Kind unter X Jahren / medizinisch vulnerabel — konkret].
-   Das Grenzverfahren ist daher unzulässig.
+ Unser Mandant / unsere Mandantin ist [Minderjährig / Familie
+ mit Kind unter X Jahren / medizinisch vulnerabel — konkret].
+ Das Grenzverfahren ist daher unzulässig.
 
 2. Individuelle Schutzgründe: Die statistisch niedrige Anerkennungs-
-   quote des Herkunftslandes [X %] entbindet das BAMF nicht von
-   der Einzelfallprüfung. Der individuelle Verfolgungsgrund [konkret]
-   ist von der statistischen Quote nicht erfasst.
+ quote des Herkunftslandes [X %] entbindet das BAMF nicht von
+ der Einzelfallprüfung. Der individuelle Verfolgungsgrund [konkret]
+ ist von der statistischen Quote nicht erfasst.
 
 Wir beantragen:
 Übergang in das reguläre Asylverfahren und Gewährung der
@@ -478,7 +478,7 @@ Der Antragsteller stammt aus [HERKUNFTSLAND]. Anerkennungsquote laut
 EU-Daten: [X%]. Die Einbeziehung in das Pflicht-Grenzverfahren nach
 Art. 42 GVO 2024/1349 ist [nicht gerechtfertigt / rechtswidrig weil]:
 - Besondere Schutzbeduerftigkeit Art. 42 Abs. 3 GVO: [TRAUMATISIERUNG /
-  MINDERJAEHRIGKEIT / CHRONISCHE ERKRANKUNG — Attest Anlage K1]
+ MINDERJAEHRIGKEIT / CHRONISCHE ERKRANKUNG — Attest Anlage K1]
 - Individuelle Verfolgungs-Konstellation weicht von Statistik ab: [...]
 
 B. VERFAHRENSFEHLER

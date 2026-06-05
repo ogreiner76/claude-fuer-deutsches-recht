@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-023-zweiter-gemeinderecht-staedte
-description: "Nutze dies, wenn PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei

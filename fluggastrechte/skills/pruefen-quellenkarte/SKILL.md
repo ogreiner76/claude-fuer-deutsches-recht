@@ -1,6 +1,6 @@
 ---
 name: pruefen-quellenkarte
-description: "Nutze dies, wenn Prüfen Quellenkarte im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Prüfen Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Prüfen Quellenkarte

@@ -1,21 +1,21 @@
 ---
 name: eu-rente-krankengeld-aussteuerung-long-covid
-description: "Nutze dies, wenn Fachanwalt Sozialrecht Eu Rente Antrag, Fachanwalt Sozialrecht Krankengeld Aussteuerung, Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg, Fachanwalt Sozialrecht Orientierung im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Sozialrecht Eu Rente Antrag, Fachanwalt Sozialrecht Krankengeld Aussteuerung, Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg, Fachanwalt Sozialrecht Orientierung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Sozialrecht Eu Rente Antrag, Fachanwalt Sozialrecht Krankengeld Aussteuerung, Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg, Fachanwalt Sozialrecht Orientierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Sozialrecht Eu Rente Antrag, Fachanwalt Sozialrecht Krankengeld Aussteuerung, Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg, Fachanwalt Sozialrecht Orientierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Sozialrecht Eu Rente Antrag, Fachanwalt Sozialrecht Krankengeld Aussteuerung, Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg, Fachanwalt Sozialrecht Orientierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Sozialrecht Eu Rente Antrag, Fachanwalt Sozialrecht Krankengeld Aussteuerung, Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg, Fachanwalt Sozialrecht Orientierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-sozialrecht-eu-rente-antrag` | Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden. VO (EG) 883/2004 Sozialversicherungskoordinierung. Prüfraster: Antragstellung im Wohnsitzland Weiterleitung Pro-rata-temporis-Rente DRV Auslandsrente Zahlungsweg ins Ausland. Output: Workflow Rentenantrag mit EU-Auslandsbezug inkl. Dokumente. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (rein inlaendisch) und fachanwalt-internationales-wirtschaftsrecht-orientierung. |
-| `fachanwalt-sozialrecht-krankengeld-aussteuerung` | Mandant war langzeitkrank und Krankengeld laeuft nach 78 Wochen aus oder ist ausgelaufen und fragt nach Anschlusssicherung. § 44 SGB V Krankengeld Bezugsdauer 78 Wochen innerhalb 3 Jahren. Prüfraster: Anschluss ALG I § 145 SGB III Erwerbsminderungsrente § 43 SGB VI Reha-Antrag. Nahtlosigkeitsprinzip und typische Luecken. Output: Workflow Anschlussversorgung mit konkreten Antragsschritten und Fristen. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (Rentenanspruch) und eilantrag-sozialrecht. |
-| `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` | Workflow-Skill zu fachanwalt sozialrecht long covid bk anerkennung bg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-sozialrecht-eu-rente-antrag` | Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden. VO (EG) 883/2004 Sozialversicherungskoordinierung. Prüfraster: Antragstellung im Wohnsitzland Weiterleitung Pro-rata-temporis-Rente DRV Auslandsrente Zahlungsweg ins Ausland. Output: Rentenantrag mit EU-Auslandsbezug inkl. Dokumente. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (rein inlaendisch) und fachanwalt-internationales-wirtschaftsrecht-orientierung. |
+| `fachanwalt-sozialrecht-krankengeld-aussteuerung` | Mandant war langzeitkrank und Krankengeld laeuft nach 78 Wochen aus oder ist ausgelaufen und fragt nach Anschlusssicherung. § 44 SGB V Krankengeld Bezugsdauer 78 Wochen innerhalb 3 Jahren. Prüfraster: Anschluss ALG I § 145 SGB III Erwerbsminderungsrente § 43 SGB VI Reha-Antrag. Nahtlosigkeitsprinzip und typische Luecken. Output: Anschlussversorgung mit konkreten Antragsschritten und Fristen. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (Rentenanspruch) und eilantrag-sozialrecht. |
+| `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` | Arbeitsmodul zu fachanwalt sozialrecht long covid bk anerkennung bg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-sozialrecht-orientierung` | Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Überblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB IX Reha SGB XI Pflege. Verfahren SGG drei Instanzen SG LSG BSG. verifizierbare Quellen lizenzpflichtige Literaturquellen Kasseler Kommentar. Output: Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing). |
 
 ## Arbeitsweg
@@ -27,7 +27,7 @@ Für **Fachanwalt Sozialrecht Eu Rente Antrag, Fachanwalt Sozialrecht Krankengel
 
 ## 1. `fachanwalt-sozialrecht-eu-rente-antrag`
 
-**Fokus:** Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden. VO (EG) 883/2004 Sozialversicherungskoordinierung. Prüfraster: Antragstellung im Wohnsitzland Weiterleitung Pro-rata-temporis-Rente DRV Auslandsrente Zahlungsweg ins Ausland. Output: Workflow Rentenantrag mit EU-Auslandsbezug inkl. Dokumente. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (rein inlaendisch) und fachanwalt-internationales-wirtschaftsrecht-orientierung.
+**Fokus:** Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden. VO (EG) 883/2004 Sozialversicherungskoordinierung. Prüfraster: Antragstellung im Wohnsitzland Weiterleitung Pro-rata-temporis-Rente DRV Auslandsrente Zahlungsweg ins Ausland. Output: Rentenantrag mit EU-Auslandsbezug inkl. Dokumente. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (rein inlaendisch) und fachanwalt-internationales-wirtschaftsrecht-orientierung.
 
 # EU-Rente-Antrag
 
@@ -161,7 +161,7 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 
 ## 2. `fachanwalt-sozialrecht-krankengeld-aussteuerung`
 
-**Fokus:** Mandant war langzeitkrank und Krankengeld laeuft nach 78 Wochen aus oder ist ausgelaufen und fragt nach Anschlusssicherung. § 44 SGB V Krankengeld Bezugsdauer 78 Wochen innerhalb 3 Jahren. Prüfraster: Anschluss ALG I § 145 SGB III Erwerbsminderungsrente § 43 SGB VI Reha-Antrag. Nahtlosigkeitsprinzip und typische Luecken. Output: Workflow Anschlussversorgung mit konkreten Antragsschritten und Fristen. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (Rentenanspruch) und eilantrag-sozialrecht.
+**Fokus:** Mandant war langzeitkrank und Krankengeld laeuft nach 78 Wochen aus oder ist ausgelaufen und fragt nach Anschlusssicherung. § 44 SGB V Krankengeld Bezugsdauer 78 Wochen innerhalb 3 Jahren. Prüfraster: Anschluss ALG I § 145 SGB III Erwerbsminderungsrente § 43 SGB VI Reha-Antrag. Nahtlosigkeitsprinzip und typische Luecken. Output: Anschlussversorgung mit konkreten Antragsschritten und Fristen. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (Rentenanspruch) und eilantrag-sozialrecht.
 
 # Krankengeld-Aussteuerung
 
@@ -255,7 +255,7 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 
 ## 3. `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg`
 
-**Fokus:** Workflow-Skill zu fachanwalt sozialrecht long covid bk anerkennung bg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt sozialrecht long covid bk anerkennung bg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101
 
@@ -381,7 +381,7 @@ Sehr geehrte Damen und Herren,
 
 namens und in Vollmacht legen wir
 
-                       W i d e r s p r u c h
+ W i d e r s p r u c h
 
 ein.
 
@@ -421,7 +421,7 @@ Wir beantragen:
 1. Den ablehnenden Bescheid aufzuheben.
 2. Die Erkrankung als BK 3101 anzuerkennen.
 3. Heilbehandlung, Verletztenrente (MdE [X] %) und Reha
-   zu gewähren.
+ zu gewähren.
 4. Akteneinsicht § 25 SGB X.
 
 Mit freundlichen Grüßen
@@ -431,7 +431,7 @@ Mit freundlichen Grüßen
 ### Baustein 2 — Klage Sozialgericht Long-COVID BK 3101
 
 ```
-An das Sozialgericht [Ort]                       [Datum]
+An das Sozialgericht [Ort] [Datum]
 
 Klage
 [Name] ./. [Berufsgenossenschaft]
@@ -439,7 +439,7 @@ Klage
 Ich / Wir erheben namens und in Vollmacht von [Name, Geburtsdatum]
 gegen den Widerspruchsbescheid vom [Datum] (Az. [...])
 
-                           K l a g e
+ K l a g e
 
 und beantragen:
 

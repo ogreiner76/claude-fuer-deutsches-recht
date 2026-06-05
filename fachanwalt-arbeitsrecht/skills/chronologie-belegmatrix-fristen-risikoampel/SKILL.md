@@ -1,13 +1,13 @@
 ---
 name: chronologie-belegmatrix-fristen-risikoampel
-description: "Nutze dies, wenn Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation prüfen.; Erstelle eine Arbeitsfassung zu Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation
+# Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,7 +42,7 @@ Für **Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, W
 ## Zweck
 Strukturierte Aufbereitung des Sachverhalts in einer zeitlichen Abfolge mit Belegzuordnung — Grundlage für Schriftsatz, Prüfvermerk und Mandantengespräch. Verhindert, dass wichtige Ereignisse vergessen oder falsch eingeordnet werden.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen oder ein Sachverhaltsbericht vorliegen:
 
 1. **Alle relevanten Daten sammeln:** Vertragsdatum, Kündigungsdatum, Zugangsdatum, BR-Anhörungsdatum, Fristdaten, Verhandlungsdaten
@@ -157,7 +157,7 @@ BESCHAFFUNGSWEGE:
 ## Zweck
 Vollständige Fristenkontrolle für alle laufenden und entstehenden Fristen im Arbeitsrechtsmandat — mit Ampelbewertung nach Dringlichkeit. Grundlage für Wiedervorlagenkalender und Mandantenkommunikation.
 
-## Kaltstart
+## Einstieg
 Wenn ein Sachverhalt oder eine Akte vorliegt:
 
 1. **Welche Fristauslöser gibt es?** (Zugangsdatum Kündigung, Beendigungsdatum Befristung, Urteilszustellung?)
@@ -240,10 +240,10 @@ Anwalt/-in: [Name]
 
 LAUFENDE FRISTEN:
 1. Klagefrist § 4 KSchG: [Datum] ← KRITISCH
-   Zugangsdatum Kündigung: [Datum]
+ Zugangsdatum Kündigung: [Datum]
 
 2. [Weitere Frist]: [Datum]
-   [Erläuterung]
+ [Erläuterung]
 
 ABGELAUFENE FRISTEN:
 - [Datum]: [Frist] — Folge: [...]
@@ -286,7 +286,7 @@ ERLEDIGT:
 ## Zweck
 Strukturierte Kommunikation mit Mandanten im Arbeitsrechtsmandat — von der Mandantsaufnahme bis zum Abschluss. Sicherstellt, dass Informationspflichten erfüllt werden und der Mandant informiert und eingebunden bleibt.
 
-## Kaltstart
+## Einstieg
 Wenn eine Kommunikationsaufgabe vorliegt:
 
 1. **Art der Kommunikation:** Brief, E-Mail, Telefonat, Gesprächsvorbereitung?

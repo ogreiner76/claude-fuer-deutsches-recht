@@ -26,29 +26,29 @@ Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, 
 ## Ablauf / Checkliste
 
 1. **Wahlrecht ausueben.**
-   - Verantwortlicher entscheidet: Loeschung, Rueckgabe oder eine Kombination (z. B. Rueckgabe aktiver Daten, Loeschung der Kopien).
-   - Wahl muss vor Ende der Verarbeitungsleistungen kommuniziert werden – Vertrag sieht typischerweise 30 Kalendertage vor.
+ - Verantwortlicher entscheidet: Loeschung, Rueckgabe oder eine Kombination (z. B. Rueckgabe aktiver Daten, Loeschung der Kopien).
+ - Wahl muss vor Ende der Verarbeitungsleistungen kommuniziert werden – Vertrag sieht typischerweise 30 Kalendertage vor.
 
 2. **Format definieren.**
-   - Strukturierte, gaengige und maschinenlesbare Formate (CSV, JSON, XML) analog Art. 20 DSGVO.
-   - Verschluesselter Transport.
-   - Datentraegerformat oder API-Endpunkt definieren.
+ - Strukturierte, gaengige und maschinenlesbare Formate (CSV, JSON, XML) analog Art. 20 DSGVO.
+ - Verschluesselter Transport.
+ - Datentraegerformat oder API-Endpunkt definieren.
 
 3. **Loeschmethodik.**
-   - Loeschstandards: DIN 66399, NIST SP 800-88 Rev. 1.
-   - Backups: Loeschung in der naechsten regulaeren Backup-Rotation oder gezielte Loeschung.
-   - Logfiles: Aufbewahrungspflicht versus Datensparsamkeit abwaegen.
+ - Loeschstandards: DIN 66399, NIST SP 800-88 Rev. 1.
+ - Backups: Loeschung in der naechsten regulaeren Backup-Rotation oder gezielte Loeschung.
+ - Logfiles: Aufbewahrungspflicht versus Datensparsamkeit abwaegen.
 
 4. **Aufbewahrungsausnahmen.**
-   - § 257 HGB, § 147 AO: 10 Jahre, 6 Jahre.
-   - § 50 BDSG: bis Zweckerreichung beendet.
-   - § 195 BGB i.V.m. § 199 BGB: Verjaehrungsablauf abwarten.
-   - Sicherstellen: Aufbewahrungsdaten sind separiert, zugriffsbeschraenkt und nicht weiter verarbeitet (Sperrung).
+ - § 257 HGB, § 147 AO: 10 Jahre, 6 Jahre.
+ - § 50 BDSG: bis Zweckerreichung beendet.
+ - § 195 BGB i.V.m. § 199 BGB: Verjaehrungsablauf abwarten.
+ - Sicherstellen: Aufbewahrungsdaten sind separiert, zugriffsbeschraenkt und nicht weiter verarbeitet (Sperrung).
 
 5. **Nachweis.**
-   - Loeschprotokoll mit Datum, Bestand, Methode, verantwortlicher Person.
-   - Unterschrift durch den Auftragsverarbeiter.
-   - Bei Sub-AV: Loeschnachweise aller Sub-AV in der Kette.
+ - Loeschprotokoll mit Datum, Bestand, Methode, verantwortlicher Person.
+ - Unterschrift durch den Auftragsverarbeiter.
+ - Bei Sub-AV: Loeschnachweise aller Sub-AV in der Kette.
 
 ## Mustertext / Template
 

@@ -1,21 +1,21 @@
 ---
 name: gesellschafterdarlehen-rangruecktritt
-description: "Nutze dies, wenn Gesellschafterdarlehen Rangruecktritt, Liquiditaet 12 Monate, Patronatserklaerung Extern Hart Erzeugen im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Bitte Gesellschafterdarlehen Rangruecktritt, Liquiditaet 12 Monate, Patronatserklaerung Extern Hart Erzeugen prüfen.; Erstelle eine Arbeitsfassung zu Gesellschafterdarlehen Rangruecktritt, Liquiditaet 12 Monate, Patronatserklaerung Extern Hart Erzeugen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschafterdarlehen Rangruecktritt, Liquiditaet 12 Monate, Patronatserklaerung Extern Hart Erzeugen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschafterdarlehen Rangruecktritt, Liquiditaet 12 Monate, Patronatserklaerung Extern Hart Erzeugen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschafterdarlehen Rangruecktritt, Liquiditaet 12 Monate, Patronatserklaerung Extern Hart Erzeugen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `gesellschafterdarlehen-rangruecktritt` | Workflow-Skill zu gesellschafterdarlehen rangruecktritt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `liquiditaet-12-monate` | Workflow-Skill zu liquiditaet 12 monate. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `patronatserklaerung-extern-hart-erzeugen` | Workflow-Skill zu patronatserklaerung extern hart erzeugen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `gesellschafterdarlehen-rangruecktritt` | Arbeitsmodul zu gesellschafterdarlehen rangruecktritt: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `liquiditaet-12-monate` | Arbeitsmodul zu liquiditaet 12 monate: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `patronatserklaerung-extern-hart-erzeugen` | Arbeitsmodul zu patronatserklaerung extern hart erzeugen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Gesellschafterdarlehen Rangruecktritt, Liquiditaet 12 Monate, Patronatser
 
 ## 1. `gesellschafterdarlehen-rangruecktritt`
 
-**Fokus:** Workflow-Skill zu gesellschafterdarlehen rangruecktritt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu gesellschafterdarlehen rangruecktritt: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Gesellschafterdarlehen — qualifizierter Rangrücktritt
 
@@ -56,26 +56,26 @@ QUALIFIZIERTER RANGRUECKTRITT
 
 zwischen
 
-  [Vor- und Nachname Gesellschafter]
-  [Anschrift]
-  - im Folgenden "der Gläubiger" -
+ [Vor- und Nachname Gesellschafter]
+ [Anschrift]
+ - im Folgenden "der Gläubiger" -
 
 und
 
-  [Firma der Gesellschaft]
-  vertreten durch [Geschäftsführer]
-  [Anschrift]
-  HRB [...] AG [...]
-  - im Folgenden "die Schuldnerin" -
+ [Firma der Gesellschaft]
+ vertreten durch [Geschäftsführer]
+ [Anschrift]
+ HRB [...] AG [...]
+ - im Folgenden "die Schuldnerin" -
 
 1. Praeambel
 
 Der Gläubiger ist Inhaber folgender Forderung gegen die Schuldnerin:
 
-  Darlehensvertrag vom [Datum]
-  Hauptforderung in Höhe von [Betrag] EUR
-  zuzueglich vereinbarter Zinsen
-  zum [Stichtag] insgesamt [Gesamtbetrag] EUR.
+ Darlehensvertrag vom [Datum]
+ Hauptforderung in Höhe von [Betrag] EUR
+ zuzueglich vereinbarter Zinsen
+ zum [Stichtag] insgesamt [Gesamtbetrag] EUR.
 
 2. Rangrücktritt
 
@@ -86,19 +86,19 @@ Schuldnerin im Rang zurück.
 
 2.2 Der Rangrücktritt erstreckt sich auf folgende Fälle:
 
-  a) Insolvenz der Schuldnerin (Eröffnungsverfahren und eroeffnetes Verfahren),
-  b) Liquidation der Schuldnerin außerhalb der Insolvenz,
-  c) jeden anderen Fall der Geschäftsbeendigung der Schuldnerin,
-  d) jede vorinsolvenzliche Krisenlage in der die Schuldnerin nicht
-     überwiegend wahrscheinlich zahlungsfähig fortgeführt werden kann.
+ a) Insolvenz der Schuldnerin (Eröffnungsverfahren und eroeffnetes Verfahren),
+ b) Liquidation der Schuldnerin außerhalb der Insolvenz,
+ c) jeden anderen Fall der Geschäftsbeendigung der Schuldnerin,
+ d) jede vorinsolvenzliche Krisenlage in der die Schuldnerin nicht
+ überwiegend wahrscheinlich zahlungsfähig fortgeführt werden kann.
 
 2.3 Tilgung Zinszahlung oder sonstige Befriedigung der Forderung kann nur
 erfolgen wenn
 
-  - alle anderen Gläubiger der Schuldnerin gleichrangig befriedigt sind, ODER
-  - die Befriedigung aus dem freien — nicht zur Erfüllung gegenüber Gläubigern
-    gleichen oder vorrangigen Ranges erforderlichen — Vermögen der Schuldnerin
-    erfolgt.
+ - alle anderen Gläubiger der Schuldnerin gleichrangig befriedigt sind, ODER
+ - die Befriedigung aus dem freien — nicht zur Erfüllung gegenüber Gläubigern
+ gleichen oder vorrangigen Ranges erforderlichen — Vermögen der Schuldnerin
+ erfolgt.
 
 2.4 Diese Erklärung ist unwiderruflich.
 
@@ -185,7 +185,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `liquiditaet-12-monate`
 
-**Fokus:** Workflow-Skill zu liquiditaet 12 monate. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu liquiditaet 12 monate: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Zwölf-Monats-Liquidität
 
@@ -201,29 +201,29 @@ Aus den Annahmen aus `annahmen-sammeln-fortfuehrung` plus Plausibilisierung:
 
 ```yaml
 liquiditaet:
-  startbestand-2026-05-20: 18000
-  kreditlinie-verfuegbar: 12000  # Linie 150000 minus 138000 ausgenutzt
+ startbestand-2026-05-20: 18000
+ kreditlinie-verfuegbar: 12000 # Linie 150000 minus 138000 ausgenutzt
 
-  monatsdaten:
-    - monat: 2026-06
-      einzahlungen:
-        forderungen-laul: 185000
-        gesellschafter-darlehen: 0
-        sonstige: 0
-        summe: 185000
-      auszahlungen:
-        lieferanten: 130000
-        loehne-gehaelter: 78000
-        sozialabgaben: 24000
-        steuern: 14000
-        bank-tilgung: 8000
-        miete: 6000
-        energie: 9000
-        sonstige: 5000
-        summe: 274000
-      saldo-monat: -89000
-      monatsendbestand: -71000  # negativ — Linie reicht nicht
-      bemerkung: Liquiditätslücke
+ monatsdaten:
+ - monat: 2026-06
+ einzahlungen:
+ forderungen-laul: 185000
+ gesellschafter-darlehen: 0
+ sonstige: 0
+ summe: 185000
+ auszahlungen:
+ lieferanten: 130000
+ loehne-gehaelter: 78000
+ sozialabgaben: 24000
+ steuern: 14000
+ bank-tilgung: 8000
+ miete: 6000
+ energie: 9000
+ sonstige: 5000
+ summe: 274000
+ saldo-monat: -89000
+ monatsendbestand: -71000 # negativ — Linie reicht nicht
+ bemerkung: Liquiditätslücke
 ```
 
 ### Schicht 2 — Detaillierte Wochenplanung
@@ -330,7 +330,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `patronatserklaerung-extern-hart-erzeugen`
 
-**Fokus:** Workflow-Skill zu patronatserklaerung extern hart erzeugen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu patronatserklaerung extern hart erzeugen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Externe harte Patronatserklärung
 
@@ -359,18 +359,18 @@ PATRONATSERKLAERUNG
 
 zwischen
 
-  [Vor- und Nachname Patron]
-  [Anschrift]
-  - im Folgenden "der Patron" -
+ [Vor- und Nachname Patron]
+ [Anschrift]
+ - im Folgenden "der Patron" -
 
 und
 
-  [Firma der Gesellschaft]
-  vertreten durch ihre(n) Geschäftsführer(in)
-  [Name]
-  [Anschrift]
-  Handelsregister AG [...] HRB [...]
-  - im Folgenden "die Gesellschaft" -
+ [Firma der Gesellschaft]
+ vertreten durch ihre(n) Geschäftsführer(in)
+ [Name]
+ [Anschrift]
+ Handelsregister AG [...] HRB [...]
+ - im Folgenden "die Gesellschaft" -
 
 1. Praeambel
 
@@ -391,7 +391,7 @@ sind soweit diese aus eigenen Mitteln nicht aufgebracht werden können.
 
 2.2 Die Verpflichtung gilt bis zu einem Höchstbetrag von
 
-  [Betrag in EUR] EUR (in Worten ___________________)
+ [Betrag in EUR] EUR (in Worten ___________________)
 
 2.3 Die Verpflichtung gilt für den Zeitraum vom [Beginn] bis zum [Ende].
 Die Mindestlaufzeit betraegt zwölf Monate ab Unterzeichnung; sie verlängert
@@ -416,9 +416,9 @@ InsO).
 Der Patron weist seine Leistungsfähigkeit durch folgende beigefuegte
 Unterlagen nach:
 
-  - Aktueller Vermögensstatus zum [Datum]
-  - Bonitätsbescheinigung der Hausbank vom [Datum]
-  - [weitere Belege]
+ - Aktueller Vermögensstatus zum [Datum]
+ - Bonitätsbescheinigung der Hausbank vom [Datum]
+ - [weitere Belege]
 
 5. Direktdurchgriff für Gläubiger der Gesellschaft
 

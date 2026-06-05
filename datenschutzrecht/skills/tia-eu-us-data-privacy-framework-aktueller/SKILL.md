@@ -69,20 +69,20 @@ DPF-Pruefvermerk:
 
 ```
 DPF-Prufung – Importeur: [Exakter Name laut DPF-Liste]
-Abrufdatum:               [YYYY-MM-DD]
-Abruf-URL:                https://www.dataprivacyframework.gov/list
-Aufruf durch:             [Bearbeiter]
-Listing-Status:           Active / Inactive
-Zertifizierungsdatum:     [...]
+Abrufdatum: [YYYY-MM-DD]
+Abruf-URL: https://www.dataprivacyframework.gov/list
+Aufruf durch: [Bearbeiter]
+Listing-Status: Active / Inactive
+Zertifizierungsdatum: [...]
 Naechste Re-Zertifizierung: [...]
-Track:                    EU-US DPF / Swiss-US DPF / UK Extension
-HR-Daten abgedeckt:       Ja / Nein
-Non-HR-Daten abgedeckt:   Ja / Nein
+Track: EU-US DPF / Swiss-US DPF / UK Extension
+HR-Daten abgedeckt: Ja / Nein
+Non-HR-Daten abgedeckt: Ja / Nein
 Im DPF gelistete Dienste: [aus DPF-Eintrag und Privacy Policy abgleichen]
-Beschwerdemechanismus:    [Independent Recourse Mechanism, z. B. AAA, JAMS, EU-DPA Panel]
-Bewertung:                DPF tragfaehig / nur teilweise / nicht tragfaehig
-Restrisiko:                [...]
-Fallback-Klausel im DPA:   [Verweis]
+Beschwerdemechanismus: [Independent Recourse Mechanism, z. B. AAA, JAMS, EU-DPA Panel]
+Bewertung: DPF tragfaehig / nur teilweise / nicht tragfaehig
+Restrisiko: [...]
+Fallback-Klausel im DPA: [Verweis]
 ```
 
 Hinweisbaustein im TIA-Schritt 2:

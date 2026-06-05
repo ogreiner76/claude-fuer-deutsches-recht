@@ -1,13 +1,13 @@
 ---
 name: koexistenz-abgrenzungsvereinbarung-vertikale
-description: "Nutze dies, wenn Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma prüfen.; Erstelle eine Arbeitsfassung zu Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -111,35 +111,35 @@ Als Anwältin kenne ich die Grenze zwischen verbotener Preisbindung und zulässi
 
 1. **Klassifizierung der Preisklausel:**
 
-   | Klausel | Bewertung |
-   |---|---|
-   | Mindest-Verkaufspreis EUR 1.200 | Hardcore-Verstoß Art. 4 lit. a — verboten |
-   | Fest-Verkaufspreis EUR 1.200 | Hardcore-Verstoß — verboten |
-   | UPE EUR 1.200 (wirklich unverbindlich) | Zulässig |
-   | Höchstpreis EUR 1.500 (Preisobergrenze) | Grundsätzlich freistellbar (nicht Hardcore) |
-   | MAP-Policy (Minimum Advertised Price) | Grauzone — im EU-Recht problematisch |
+ | Klausel | Bewertung |
+ |---|---|
+ | Mindest-Verkaufspreis EUR 1.200 | Hardcore-Verstoß Art. 4 lit. a — verboten |
+ | Fest-Verkaufspreis EUR 1.200 | Hardcore-Verstoß — verboten |
+ | UPE EUR 1.200 (wirklich unverbindlich) | Zulässig |
+ | Höchstpreis EUR 1.500 (Preisobergrenze) | Grundsätzlich freistellbar (nicht Hardcore) |
+ | MAP-Policy (Minimum Advertised Price) | Grauzone — im EU-Recht problematisch |
 
 2. **UPE-Konzept rechtssicher gestalten:**
-   - Klausel in Händlervertrag: "klôtzzkètté SA empfiehlt unverbindlich den Verkaufspreis von EUR [X]."
-   - Kein Monitoring mit Sanktionierung bei Abweichung (sonst Scheinfreistellung)
-   - Kein direkter oder indirekter Druck auf Händler, UPE einzuhalten (kein Lieferstopp bei Unterschreitung)
-   - Dokumentation: Händler erhält UPE-Information, aber keine Verpflichtung
+ - Klausel in Händlervertrag: "klôtzzkètté SA empfiehlt unverbindlich den Verkaufspreis von EUR [X]."
+ - Kein Monitoring mit Sanktionierung bei Abweichung (sonst Scheinfreistellung)
+ - Kein direkter oder indirekter Druck auf Händler, UPE einzuhalten (kein Lieferstopp bei Unterschreitung)
+ - Dokumentation: Händler erhält UPE-Information, aber keine Verpflichtung
 
 3. **MAP-Policy — Zulässigkeit im EU-Recht:**
-   - MAP = Mindestwerbungspreis (kein Mindest-Verkaufspreis, nur Mindestwerbepreis)
-   - Im US-Recht weit verbreitet und nach Leegin Rule of Reason akzeptiert
-   - EU-Recht: Kritisch — wenn MAP faktisch als Mindest-Verkaufspreis wirkt, Hardcore-Beschränkung
-   - Strategie: MAP nur für Werbematerialien (Katalog, Anzeigen), nicht für tatsächlichen Verkaufspreis
+ - MAP = Mindestwerbungspreis (kein Mindest-Verkaufspreis, nur Mindestwerbepreis)
+ - Im US-Recht weit verbreitet und nach Leegin Rule of Reason akzeptiert
+ - EU-Recht: Kritisch — wenn MAP faktisch als Mindest-Verkaufspreis wirkt, Hardcore-Beschränkung
+ - Strategie: MAP nur für Werbematerialien (Katalog, Anzeigen), nicht für tatsächlichen Verkaufspreis
 
 4. **30 %-Marktanteilsschwelle:**
-   - klôtzzkètté-Marktanteil im Segment Haute Couture Klasse 25 in DE berechnen
-   - Marktanteil des Händlers im relevanten Markt prüfen
-   - Falls beide < 30 %: Vertikal-GVO-Freistellung ohne Weiteres
-   - Falls > 30 %: Einzelfallprüfung nach Art. 101 III AEUV
+ - klôtzzkètté-Marktanteil im Segment Haute Couture Klasse 25 in DE berechnen
+ - Marktanteil des Händlers im relevanten Markt prüfen
+ - Falls beide < 30 %: Vertikal-GVO-Freistellung ohne Weiteres
+ - Falls > 30 %: Einzelfallprüfung nach Art. 101 III AEUV
 
 5. **Kartellbehörden-Kooperation:**
-   - Bundeskartellamt-Praxis: Mehrfach Verfahren gegen UPE-Systeme, die faktisch als Preisbindung fungierten (z.B. gegen Medion, Schulranzen-Hersteller)
-   - Bei Unsicherheit: Informales Vorabgespräch mit Bundeskartellamt-Referat Vertikalrestriktionen
+ - Bundeskartellamt-Praxis: Mehrfach Verfahren gegen UPE-Systeme, die faktisch als Preisbindung fungierten (z.B. gegen Medion, Schulranzen-Hersteller)
+ - Bei Unsicherheit: Informales Vorabgespräch mit Bundeskartellamt-Referat Vertikalrestriktionen
 
 ## Falltypische Konstellationen
 
@@ -176,13 +176,13 @@ Fortsetzung dieses Vertrags.
 
 ### Preis-Klausel-Prüf-Matrix
 ```
-Klausel                                   | Zulässig? | Grundlage
-Mindest-VK-Preis                         | NEIN      | Art. 4a VGG
-Fest-VK-Preis                            | NEIN      | Art. 4a VGG
-Preis-Obergrenze                         | JA        | Art. 2 VGG
-UPE (wirkl. unverbindlich)               | JA        | Leitl. Rn. 162
-MAP (nur für Werbung)                    | GRAUZONE  | Leitl. Rn. 164
-Dual Pricing (Online-Aufschlag pauschal) | NEIN      | Art. 4e VGG
+Klausel | Zulässig? | Grundlage
+Mindest-VK-Preis | NEIN | Art. 4a VGG
+Fest-VK-Preis | NEIN | Art. 4a VGG
+Preis-Obergrenze | JA | Art. 2 VGG
+UPE (wirkl. unverbindlich) | JA | Leitl. Rn. 162
+MAP (nur für Werbung) | GRAUZONE | Leitl. Rn. 164
+Dual Pricing (Online-Aufschlag pauschal) | NEIN | Art. 4e VGG
 ```
 
 ## Verweise auf andere Skills
@@ -280,11 +280,11 @@ Die Wortmarke ist das Fundament: Sie schützt das Wort unabhängig von Schriftar
 
 - **§ 4 MarkenG:** Markenentstehung durch Eintragung, Benutzungsmarke, Notorietät
 - **§ 8 MarkenG** (absolute Schutzhindernisse):
-  - § 8 II Nr. 1: Fehlende grafische Darstellbarkeit (seit 2019: Präzision und Beständigkeit gem. Sieckmann-Kriterien)
-  - § 8 II Nr. 2: Fehlende Unterscheidungskraft
-  - § 8 II Nr. 3: Beschreibende Angaben (Freihalteinteresse der Mitbewerber)
-  - § 8 II Nr. 4: Freizeichen / Gattungsbezeichnungen
-  - § 8 II Nr. 10: Bösgläubigkeit (nicht bei Erstanmeldung relevant, aber beachten)
+ - § 8 II Nr. 1: Fehlende grafische Darstellbarkeit (seit 2019: Präzision und Beständigkeit gem. Sieckmann-Kriterien)
+ - § 8 II Nr. 2: Fehlende Unterscheidungskraft
+ - § 8 II Nr. 3: Beschreibende Angaben (Freihalteinteresse der Mitbewerber)
+ - § 8 II Nr. 4: Freizeichen / Gattungsbezeichnungen
+ - § 8 II Nr. 10: Bösgläubigkeit (nicht bei Erstanmeldung relevant, aber beachten)
 - **§§ 32-38 MarkenG:** Formvoraussetzungen, Anmeldeverfahren
 - **§§ 57-62 MarkenG:** Erinnerungsverfahren vor der Markenstelle
 - **§§ 66-68 MarkenG:** Beschwerde zum BPatG
@@ -294,41 +294,41 @@ Die Wortmarke ist das Fundament: Sie schützt das Wort unabhängig von Schriftar
 ## Prüfungsschritte
 
 1. **Zeichenwahl und Vorabrecherche:**
-   - DPMA-Markenrecherche (Datenbank DPMAregister)
-   - EUIPO eSearch plus (für EU-Kontext)
-   - Phonetische Äquivalente prüfen (klôtzzkètté — ausgesprochen "klotz-ket-té")
-   - Lexika und Warenlexika prüfen: Ist das Zeichen im Deutschen, Englischen, Französischen, Italienischen oder Spanischen beschreibend?
+ - DPMA-Markenrecherche (Datenbank DPMAregister)
+ - EUIPO eSearch plus (für EU-Kontext)
+ - Phonetische Äquivalente prüfen (klôtzzkètté — ausgesprochen "klotz-ket-té")
+ - Lexika und Warenlexika prüfen: Ist das Zeichen im Deutschen, Englischen, Französischen, Italienischen oder Spanischen beschreibend?
 
 2. **Anmeldeformular (DPMA):**
-   - Onlineanmeldung via DPMAonline (elektronische Einreichung bevorzugt)
-   - Angabe Markenart: Wortmarke
-   - Markenwiedergabe: reiner Klartext
-   - Nizza-Klassen und Warenverzeichnis
-   - Inhaberangaben, ggf. Vertretervollmacht
+ - Onlineanmeldung via DPMAonline (elektronische Einreichung bevorzugt)
+ - Angabe Markenart: Wortmarke
+ - Markenwiedergabe: reiner Klartext
+ - Nizza-Klassen und Warenverzeichnis
+ - Inhaberangaben, ggf. Vertretervollmacht
 
 3. **Gebühren:** EUR 300 für bis zu 3 Klassen; je weitere Klasse EUR 100 (PatKostG Anlage)
 
 4. **Formprüfung durch DPMA:** Zugangsdatum = Anmeldetag (§ 33 I MarkenG); nach Gebühreneingang Aktenzeichen
 
 5. **Inhaltliche Prüfung durch Markenstelle:**
-   - Prüfung der absoluten Schutzhindernisse (§ 8 MarkenG)
-   - Keine Prüfung relativer Hindernisse (§§ 9 ff.) von Amts wegen
-   - Bei Bedenken: schriftlicher Beanstandungsbescheid mit Fristsetzung
+ - Prüfung der absoluten Schutzhindernisse (§ 8 MarkenG)
+ - Keine Prüfung relativer Hindernisse (§§ 9 ff.) von Amts wegen
+ - Bei Bedenken: schriftlicher Beanstandungsbescheid mit Fristsetzung
 
 6. **Reaktion auf Beanstandungsbescheid:**
-   - Stellungnahme mit Argumenten zur Unterscheidungskraft
-   - Ggf. Verkehrsdurchsetzung nachweisen (§ 8 III MarkenG): Verkehrsbefragung, Marktanteile, Werbeaufwand, Pressebelege
-   - Warenverzeichnis einschränken als Kompromiss (nicht immer empfehlenswert)
+ - Stellungnahme mit Argumenten zur Unterscheidungskraft
+ - Ggf. Verkehrsdurchsetzung nachweisen (§ 8 III MarkenG): Verkehrsbefragung, Marktanteile, Werbeaufwand, Pressebelege
+ - Warenverzeichnis einschränken als Kompromiss (nicht immer empfehlenswert)
 
 7. **Erinnerungsverfahren (§ 64 MarkenG):**
-   - Frist: 1 Monat ab Zustellung des Zurückweisungsbeschlusses
-   - Zwei-Personen-Besetzung der Markenstelle
-   - Schriftliches Verfahren, kein Anwaltszwang
+ - Frist: 1 Monat ab Zustellung des Zurückweisungsbeschlusses
+ - Zwei-Personen-Besetzung der Markenstelle
+ - Schriftliches Verfahren, kein Anwaltszwang
 
 8. **Beschwerde zum BPatG (§ 66 MarkenG):**
-   - Frist: 1 Monat ab Erinnerungsbeschluss
-   - Anwaltszwang: Nein, aber dringend empfohlen
-   - Kostenrisiko beachten
+ - Frist: 1 Monat ab Erinnerungsbeschluss
+ - Anwaltszwang: Nein, aber dringend empfohlen
+ - Kostenrisiko beachten
 
 ## Falltypische Konstellationen
 

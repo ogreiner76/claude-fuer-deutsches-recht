@@ -31,10 +31,10 @@ Pruefen: ist jeder Pfad mindestens einmal gepruefte? Sind systematisch Grenz- un
 ## Output
 
 ```
-Skill:              legw-rmap-entscheidungsbaum-validierung
-Thema:              Entscheidungsbaum-Simulation und Verifikation
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-entscheidungsbaum-validierung
+Thema: Entscheidungsbaum-Simulation und Verifikation
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

@@ -8,7 +8,7 @@ description: "Bereitet formal saubere Pressekorrespondenz, Richtigstellung und T
 ## Aufgabe
 Bereitet formal saubere Pressekorrespondenz, Richtigstellung und Trennung von Partei/Fraktion/Kandidat vor.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

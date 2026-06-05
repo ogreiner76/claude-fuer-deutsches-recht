@@ -1,13 +1,13 @@
 ---
 name: agb-leasingvertrag-fortwirkung-schiedsklausel
-description: "Nutze dies, wenn Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken, Erganzende Vertragsauslegung Agb Luecke im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken, Erganzende Vertragsauslegung Agb Luecke prüfen.; Erstelle eine Arbeitsfassung zu Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken, Erganzende Vertragsauslegung Agb Luecke.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken, Erganzende Vertragsauslegung Agb Luecke
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken, Erganzende Vertragsauslegung Agb Luecke** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

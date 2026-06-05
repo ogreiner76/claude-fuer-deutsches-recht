@@ -1,38 +1,38 @@
 ---
 name: sichere-herkunft-sprachzertifikate
-description: "Nutze dies, wenn Spezial Sichere Herkunft Und Drittstaat, Spezial Sprachzertifikate im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Sichere Herkunft Und Drittstaat, Spezial Sprachzertifikate prüfen.; Erstelle eine Arbeitsfassung zu Spezial Sichere Herkunft Und Drittstaat, Spezial Sprachzertifikate.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sichere Herkunft Und Drittstaat, Sprachzertifikate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Sichere Herkunft Und Drittstaat, Spezial Sprachzertifikate
+# Sichere Herkunft Und Drittstaat, Sprachzertifikate
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sichere Herkunft Und Drittstaat, Sprachzertifikate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-sichere-herkunft-und-drittstaat` | Sichere Herkunft/Drittstaat: Spezial-Skill im Migrationsrecht; prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `spezial-sprachzertifikate` | Sprachzertifikate: Spezial-Skill im Migrationsrecht; prüft anerkanntes Zertifikat, Niveau, Ausnahmen, Härtefälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-sichere-herkunft-und-drittstaat` | Sichere Herkunft/Drittstaat: Fachmodul im Migrationsrecht; prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
+| `spezial-sprachzertifikate` | Sprachzertifikate: Fachmodul im Migrationsrecht; prüft anerkanntes Zertifikat, Niveau, Ausnahmen, Härtefälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 
 ## Arbeitsweg
 
-Für **Spezial Sichere Herkunft Und Drittstaat, Spezial Sprachzertifikate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Sichere Herkunft Und Drittstaat, Sprachzertifikate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-sichere-herkunft-und-drittstaat`
 
-**Fokus:** Sichere Herkunft/Drittstaat: Spezial-Skill im Migrationsrecht; prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Sichere Herkunft/Drittstaat: Fachmodul im Migrationsrecht; prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Sichere Herkunft/Drittstaat
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft EU/nationalen Listenstatus, Widerlegung, individuelle Risiken.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
@@ -61,14 +61,14 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft EU/na
 
 ## 2. `spezial-sprachzertifikate`
 
-**Fokus:** Sprachzertifikate: Spezial-Skill im Migrationsrecht; prüft anerkanntes Zertifikat, Niveau, Ausnahmen, Härtefälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+**Fokus:** Sprachzertifikate: Fachmodul im Migrationsrecht; prüft anerkanntes Zertifikat, Niveau, Ausnahmen, Härtefälle; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
 # Sprachzertifikate
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft anerkanntes Zertifikat, Niveau, Ausnahmen, Härtefälle.
+Fachmodul im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft anerkanntes Zertifikat, Niveau, Ausnahmen, Härtefälle.
 
-## Kaltstart
+## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
 3. Welche Frist oder welches Eilrisiko entscheidet den Fall?

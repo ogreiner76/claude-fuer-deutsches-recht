@@ -1,6 +1,6 @@
 ---
 name: rom-neu-002-zwoelftafelgesetz-textzeugen
-description: "Nutze dies, wenn Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht

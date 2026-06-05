@@ -1,13 +1,13 @@
 ---
 name: verl-vorschuss-ai-einsatz
-description: "Nutze dies, wenn Verl Vorschuss Prüfung Buecher, Ai Einsatz Transparenz Datenschutz, Autorenkommunikation Email, Barrierefreiheit Epub Pdf, Bildrechte Grafiken Tabellen im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Verl Vorschuss Prüfung Buecher, Ai Einsatz Transparenz Datenschutz, Autorenkommunikation Email, Barrierefreiheit Epub Pdf, Bildrechte Grafiken Tabellen prüfen.; Erstelle eine Arbeitsfassung zu Verl Vorschuss Prüfung Buecher, Ai Einsatz Transparenz Datenschutz, Autorenkommunikation Email, Barrierefreiheit Epub Pdf, Bildrechte Grafiken Tabellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl Vorschuss Prüfung Buecher, Ai Einsatz Transparenz Datenschutz, Autorenkommunikation Email, Barrierefreiheit Epub Pdf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Vorschuss Prüfung Buecher, Ai Einsatz Transparenz Datenschutz, Autorenkommunikation Email, Barrierefreiheit Epub Pdf, Bildrechte Grafiken Tabellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Vorschuss Prüfung Buecher, Ai Einsatz Transparenz Datenschutz, Autorenkommunikation Email, Barrierefreiheit Epub Pdf, Bildrechte Grafiken Tabellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -92,25 +92,25 @@ Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Hono
 § [n] Vorschuss
 
 (1) Der Verlag zahlt dem Autor einen Vorschuss in Hoehe von EUR
-    [Betrag] zuzueglich gesetzlicher Umsatzsteuer, faellig in
-    folgenden Tranchen:
-    a) EUR [Betrag] bei Vertragsschluss;
-    b) EUR [Betrag] bei Ablieferung des druckreifen Manuskripts gemaess
-       § [n] dieses Vertrags;
-    c) EUR [Betrag] bei Imprimatur.
+ [Betrag] zuzueglich gesetzlicher Umsatzsteuer, faellig in
+ folgenden Tranchen:
+ a) EUR [Betrag] bei Vertragsschluss;
+ b) EUR [Betrag] bei Ablieferung des druckreifen Manuskripts gemaess
+ § [n] dieses Vertrags;
+ c) EUR [Betrag] bei Imprimatur.
 
 (2) Der Vorschuss wird mit den nach § [n] entstehenden Tantiemen
-    verrechnet. Bis zur vollstaendigen Verrechnung erfolgt keine
-    Auszahlung an den Autor.
+ verrechnet. Bis zur vollstaendigen Verrechnung erfolgt keine
+ Auszahlung an den Autor.
 
 (3) Liefert der Autor das Manuskript nicht oder nicht vertragsgemaess
-    ab und scheitert der Verlag aus diesem Grund vom Vertrag zurueck
-    (§ 33 VerlG, § 323 BGB), sind alle bereits geleisteten Tranchen
-    binnen 30 Tagen ab Zugang der Ruecktrittserklaerung zurueckzuzahlen.
+ ab und scheitert der Verlag aus diesem Grund vom Vertrag zurueck
+ (§ 33 VerlG, § 323 BGB), sind alle bereits geleisteten Tranchen
+ binnen 30 Tagen ab Zugang der Ruecktrittserklaerung zurueckzuzahlen.
 
 (4) Der Vorschuss ist umsatzsteuerlich ein Entgelt fuer die nach diesem
-    Vertrag eingeraeumten Rechte; Steuerausweis erfolgt mit der
-    Auszahlungs-Gutschrift.
+ Vertrag eingeraeumten Rechte; Steuerausweis erfolgt mit der
+ Auszahlungs-Gutschrift.
 ```
 
 **Rueckforderungsschreiben**

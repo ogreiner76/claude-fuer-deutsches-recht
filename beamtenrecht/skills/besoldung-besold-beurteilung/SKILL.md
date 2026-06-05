@@ -1,13 +1,13 @@
 ---
 name: besoldung-besold-beurteilung
-description: "Nutze dies, wenn Besold Neu 019 Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Neu 020 Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Besold Neu 019 Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Neu 020 Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Besold Neu 019 Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Neu 020 Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Besoldung Beurteilung Plausibilisierung Und Anlassbeurteilu, Besoldung Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Besold Neu 019 Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Neu 020 Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen
+# Besold Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Besold Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -23,7 +23,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Besold Neu 019 Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Neu 020 Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Besold Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025, Besoldung Länder Check und 2 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `beamtenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Besold Neu 019 Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold 
 
 **Fokus:** Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 019 Beurteilung Plausibilisierung Und Anlassbeurteilu
+# Besold Beurteilung Plausibilisierung Und Anlassbeurteilu
 
 ## Aufgabe
 
@@ -82,7 +82,7 @@ Skill fuer dienstliche Beurteilung — Plausibilisierung und Anlassbeurteilung.
 
 **Fokus:** Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 020 Befoerderungskaskade Organisationsmissbrauch Red
+# Besold Befoerderungskaskade Organisationsmissbrauch Red
 
 ## Aufgabe
 

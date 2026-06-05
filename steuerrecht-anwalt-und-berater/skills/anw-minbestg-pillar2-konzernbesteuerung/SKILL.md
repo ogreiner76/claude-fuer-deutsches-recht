@@ -33,9 +33,9 @@ Anwaltliche Beratung großer Konzerne zur globalen Mindestbesteuerung (OECD Pill
 - **§ 1 MinBestG** — Anwendungsbereich: multinationale und große inländische Unternehmensgruppen.
 - **§§ 7 ff. MinBestG** — Berechnung des effektiven Steuersatzes (ETR).
 - **§§ 11 ff. MinBestG** — Top-Up Tax (Ergänzungssteuer); drei Mechanismen:
-  - **IIR (Income Inclusion Rule)** — Mutterunternehmen versteuert niedrig besteuerte Tochter
-  - **UTPR (Undertaxed Profits Rule)** — Auffangregel bei nicht-IIR-Land
-  - **QDMTT (Qualified Domestic Minimum Top-up Tax)** — Land selbst erhebt Ergänzungssteuer
+ - **IIR (Income Inclusion Rule)** — Mutterunternehmen versteuert niedrig besteuerte Tochter
+ - **UTPR (Undertaxed Profits Rule)** — Auffangregel bei nicht-IIR-Land
+ - **QDMTT (Qualified Domestic Minimum Top-up Tax)** — Land selbst erhebt Ergänzungssteuer
 - **§§ 75–84 MinBestG** — Berichtspflichten: GloBE-Erklärung jährlich.
 - **§§ 88 ff. MinBestG** — Sanktionen bei Verstößen.
 

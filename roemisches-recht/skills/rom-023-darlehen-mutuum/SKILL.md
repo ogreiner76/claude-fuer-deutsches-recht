@@ -1,6 +1,6 @@
 ---
 name: rom-023-darlehen-mutuum
-description: "Römisches Recht: Darlehen Mutuum. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Darlehen Mutuum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Darlehen Mutuum

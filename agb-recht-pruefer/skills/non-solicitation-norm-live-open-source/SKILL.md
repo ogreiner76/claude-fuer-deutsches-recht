@@ -1,22 +1,22 @@
 ---
 name: non-solicitation-norm-live-open-source
-description: "Nutze dies, wenn Non Solicitation, Norm Live Check Gesetze Im Internet, Open Source Komponenten, Parking Mobility Agb, Plain Language Politur im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Non Solicitation, Norm Live Check Gesetze Im Internet, Open Source Komponenten, Parking Mobility Agb, Plain Language Politur prüfen.; Erstelle eine Arbeitsfassung zu Non Solicitation, Norm Live Check Gesetze Im Internet, Open Source Komponenten, Parking Mobility Agb, Plain Language Politur.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Non Solicitation, Norm Live Check Gesetze Im Internet, Open Source Komponenten, Parking Mobility Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Non Solicitation, Norm Live Check Gesetze Im Internet, Open Source Komponenten, Parking Mobility Agb, Plain Language Politur
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Non Solicitation, Norm Live Check Gesetze Im Internet, Open Source Komponenten, Parking Mobility Agb, Plain Language Politur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `non-solicitation` | Klausel-Spezialskill für Non Solicitation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `norm-live-check-gesetze-im-internet` | Einstiegs- und Workflow-Skill für Norm Live Check Gesetze Im Internet: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
-| `open-source-komponenten` | Klausel-Spezialskill für Open Source Komponenten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `parking-mobility-agb` | Branchen-Spezialskill für Parking Mobility AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `non-solicitation` | Klausel-Fachmodul für Non Solicitation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `norm-live-check-gesetze-im-internet` | Einstiegs- und Arbeitsmodul für Norm Live Check Gesetze Im Internet: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `open-source-komponenten` | Klausel-Fachmodul für Open Source Komponenten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `parking-mobility-agb` | Branchen-Fachmodul für Parking Mobility AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `plain-language-politur` | Output- und Streit-Skill für Plain Language Politur: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Non Solicitation, Norm Live Check Gesetze Im Internet, Open Source Kompon
 
 ## 1. `non-solicitation`
 
-**Fokus:** Klausel-Spezialskill für Non Solicitation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Non Solicitation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Non Solicitation
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `norm-live-check-gesetze-im-internet`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Norm Live Check Gesetze Im Internet: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Norm Live Check Gesetze Im Internet: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Norm Live Check Gesetze Im Internet
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `open-source-komponenten`
 
-**Fokus:** Klausel-Spezialskill für Open Source Komponenten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Open Source Komponenten: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Open Source Komponenten
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `parking-mobility-agb`
 
-**Fokus:** Branchen-Spezialskill für Parking Mobility AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Parking Mobility AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Parking Mobility AGB
 

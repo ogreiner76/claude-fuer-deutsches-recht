@@ -1,13 +1,13 @@
 ---
 name: verl-plagiat-verl-persoenlichkeitsrecht
-description: "Nutze dies, wenn Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenlichkeitsrecht Im Sachbuch im Plugin Verlagsrecht Buchpreisbindung konkret bearbeitet werden soll. Auslöser: Bitte Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenlichkeitsrecht Im Sachbuch prüfen.; Erstelle eine Arbeitsfassung zu Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenlichkeitsrecht Im Sachbuch.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenlichkeitsrecht Im Sachbuch: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenlichkeitsrecht Im Sachbuch
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl 020 Plagiat Manuskript Und Quellenpruefung, Verl 021 Persoenlichkeitsrecht Im Sachbuch** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -194,9 +194,9 @@ Sachbücher, Biographien, Reportagen und journalistische Werke berühren häufig
 
 - Foto, Abbildung oder sonstige Darstellung einer Person bedarf deren Einwilligung (KUG § 22).
 - **Ausnahmen** (KUG § 23):
-  - Personen der Zeitgeschichte (Politiker, Prominente) im Rahmen ihrer öffentlichen Tätigkeit
-  - Personen als Beiwerk einer Landschaft/Szenerie
-  - Versammlungen, Aufzüge, öffentliche Ereignisse
+ - Personen der Zeitgeschichte (Politiker, Prominente) im Rahmen ihrer öffentlichen Tätigkeit
+ - Personen als Beiwerk einer Landschaft/Szenerie
+ - Versammlungen, Aufzüge, öffentliche Ereignisse
 - Grenze: Auch bei Ausnahmen kein Eingriff in berechtigte Interessen (KUG § 23 Abs. 2).
 
 ## Haftung von Autor und Verlag

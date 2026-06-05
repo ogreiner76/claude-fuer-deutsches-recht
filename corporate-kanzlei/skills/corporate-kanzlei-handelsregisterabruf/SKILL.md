@@ -177,34 +177,34 @@ Abruf-Datum: [DATUM]
 Chronologischer Ausdruck: [Ja / Nein]
 
 1. BASISINFORMATIONEN
-   Rechtsform: [GmbH / AG]
-   Gruendungsdatum: [DATUM]
-   Sitz: [ADRESSE]
-   Stammkapital/Grundkapital: EUR [BETRAG]
+ Rechtsform: [GmbH / AG]
+ Gruendungsdatum: [DATUM]
+ Sitz: [ADRESSE]
+ Stammkapital/Grundkapital: EUR [BETRAG]
 
 2. AKTUELLE ORGANE
-   Geschaeftsfuehrer / Vorstand:
-   - [NAME, Geburtsdatum, Vertretungsbefugnis, Befreiung § 181 BGB]
-   Aufsichtsrat (falls vorhanden):
-   - [NAMEN]
+ Geschaeftsfuehrer / Vorstand:
+ - [NAME, Geburtsdatum, Vertretungsbefugnis, Befreiung § 181 BGB]
+ Aufsichtsrat (falls vorhanden):
+ - [NAMEN]
 
 3. GESELLSCHAFTERSTRUKTUR
-   [QUELLE: Gesellschafterliste; Stand: Datum]
-   - [Gesellschafter 1]: [Anteile, %]
-   - [Gesellschafter 2]: [Anteile, %]
+ [QUELLE: Gesellschafterliste; Stand: Datum]
+ - [Gesellschafter 1]: [Anteile, %]
+ - [Gesellschafter 2]: [Anteile, %]
 
 4. JAHRESABSCHLUESSE (BUNDESANZEIGER)
-   Veroeffentlicht: [Jahre]
-   Nicht veroeffentlicht: [Jahren] — RISIKO: § 335 HGB Ordnungsgeld
+ Veroeffentlicht: [Jahre]
+ Nicht veroeffentlicht: [Jahren] — RISIKO: § 335 HGB Ordnungsgeld
 
 5. RED FLAGS
-   [Liste; Keine wenn keine vorhanden]
+ [Liste; Keine wenn keine vorhanden]
 
 6. TRANSPARENZREGISTER
-   UBO: [NAME, Nationalitaet, %-Anteil oder Fiktionswirkung]
+ UBO: [NAME, Nationalitaet, %-Anteil oder Fiktionswirkung]
 
 7. EMPFEHLUNG
-   [Ggf. Nachforschung; GwG-Enhanced Sorgfalt; Korrekte Gesellschafterliste einfordern]
+ [Ggf. Nachforschung; GwG-Enhanced Sorgfalt; Korrekte Gesellschafterliste einfordern]
 ```
 
 ## Rote Schwellen

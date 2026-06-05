@@ -1,13 +1,13 @@
 ---
 name: schema-schritt-subsumtions
-description: "Nutze dies, wenn Spezial Schema Verhandlung Vergleich Und Eskalation, Spezial Schritt Schriftsatz Brief Und Memo Bausteine, Spezial Subsumtions Tatbestand Beweis Und Belege im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Spezial Schema Verhandlung Vergleich Und Eskalation, Spezial Schritt Schriftsatz Brief Und Memo Bausteine, Spezial Subsumtions Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Schema Verhandlung Vergleich Und Eskalation, Spezial Schritt Schriftsatz Brief Und Memo Bausteine, Spezial Subsumtions Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schema Verhandlung Vergleich Und Eskalation, Schritt Schriftsatz Brief Und Memo Bausteine, Subsumtions Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Schema Verhandlung Vergleich Und Eskalation, Spezial Schritt Schriftsatz Brief Und Memo Bausteine, Spezial Subsumtions Tatbestand Beweis Und Belege
+# Schema Verhandlung Vergleich Und Eskalation, Schritt Schriftsatz Brief Und Memo Bausteine, Subsumtions Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schema Verhandlung Vergleich Und Eskalation, Schritt Schriftsatz Brief Und Memo Bausteine, Subsumtions Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Schema Verhandlung Vergleich Und Eskalation, Spezial Schritt Schriftsatz Brief Und Memo Bausteine, Spezial Subsumtions Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schema Verhandlung Vergleich Und Eskalation, Schritt Schriftsatz Brief Und Memo Bausteine, Subsumtions Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `subsumtions-pruefer` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -96,7 +96,7 @@ Vergleichsangebot: EUR Z
 Entscheidung: Vergleich wenn Z > Erwarteter Wert Klage
 ```
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
@@ -167,7 +167,7 @@ Ergebnis: Der Anspruch ist begründet / nicht begründet, weil [Zusammenfassung]
 Die Klage ist abzuweisen. [Beklagter] erhebt folgende Einreden und Einwendungen:
 
 1. [Einrede Verjährung]: Die Forderung ist gemäß §§ 195, 199 BGB verjährt. Fristbeginn: [Datum].
-   Frist: 3 Jahre; Ablauf: [Datum]. Verjährung nicht gehemmt, weil [Begründung].
+ Frist: 3 Jahre; Ablauf: [Datum]. Verjährung nicht gehemmt, weil [Begründung].
 
 2. [Einrede § 320 BGB]: [Beklagter] verweigert Leistung, bis [Kläger] [Gegenleistung] erbringt (Zug-um-Zug).
 
@@ -198,7 +198,7 @@ Wichtiger Hinweis: Dieses Schreiben ist kein abschließender Rechtsrat ...
 **Struktur:**
 ```
 MEMO
-An: [Empfänger]        Von: [Autor]        Datum: [TT.MM.JJJJ]
+An: [Empfänger] Von: [Autor] Datum: [TT.MM.JJJJ]
 Betr.: [Kurzbezeichnung]
 
 KURZLAGE:
@@ -241,7 +241,7 @@ Hinweis: Beweislast liegt beim [Kläger/Beklagten] gemäß [Grundregel / Umkehr]
 - Beweisangebote für streitige Tatsachen
 - Unterschrift / qualifizierte elektronische Signatur (§ 130a ZPO bei elektronischer Übermittlung)
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
@@ -339,7 +339,7 @@ Für jede Tatsachenbehauptung im Schriftsatz oder Gutachten:
 | Fehlendes Zwischenergebnis | Merkmal offen gelassen | Klares Ja/Nein mit Begründung |
 | Konjunktiv im Schluss | "könnte vorliegen" | Indikativ: "liegt vor" |
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

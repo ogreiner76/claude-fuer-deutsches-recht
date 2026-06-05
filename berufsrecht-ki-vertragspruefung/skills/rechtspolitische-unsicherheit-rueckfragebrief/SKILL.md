@@ -1,13 +1,13 @@
 ---
 name: rechtspolitische-unsicherheit-rueckfragebrief
-description: "Nutze dies, wenn Rechtspolitische Unsicherheit 43E Brao Dokumentieren, Rueckfragebrief An Anbieter, Schwarmpruefung Mehrere Tools im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Rechtspolitische Unsicherheit 43E Brao Dokumentieren, Rueckfragebrief An Anbieter, Schwarmpruefung Mehrere Tools prüfen.; Erstelle eine Arbeitsfassung zu Rechtspolitische Unsicherheit 43E Brao Dokumentieren, Rueckfragebrief An Anbieter, Schwarmpruefung Mehrere Tools.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtspolitische Unsicherheit 43e Brao Dokumentieren, Rueckfragebrief An Anbieter, Schwarmpruefung Mehrere Tools: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtspolitische Unsicherheit 43E Brao Dokumentieren, Rueckfragebrief An Anbieter, Schwarmpruefung Mehrere Tools
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtspolitische Unsicherheit 43E Brao Dokumentieren, Rueckfragebrief An Anbieter, Schwarmpruefung Mehrere Tools** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -216,21 +216,21 @@ Dazu bitten wir um Beantwortung der folgenden Fragen bis zum [FRIST + 14 TAGE]:
 
 Frageblock 1 — Verschwiegenheit
 F1: Sind Ihre Mitarbeiter und alle Subunternehmer in Textform zur Verschwiegenheit
-    ueber alle von uns eingegebenen Daten verpflichtet?
+ ueber alle von uns eingegebenen Daten verpflichtet?
 F2: Gilt diese Verpflichtung auch nach Vertragsende zeitlich unbegrenzt?
 
 Frageblock 2 — Subunternehmer
 F3: Welche Subunternehmer (Modellanbieter, Hoster, Support-Dienstleister) haben
-    Zugriff auf von uns eingegebene Daten?
-    Bitte vollstaendige Liste: Name, Sitz, Funktion, Verarbeitungsstandort.
+ Zugriff auf von uns eingegebene Daten?
+ Bitte vollstaendige Liste: Name, Sitz, Funktion, Verarbeitungsstandort.
 F4: Werden wir vor Wechsel oder Hinzunahme von Subunternehmern vorab in Textform
-    informiert?
+ informiert?
 
 Frageblock 3 — Training und Drittstaat
 F5: Werden von uns eingegebene Daten zu Trainingszwecken genutzt?
-    (Auch aggregiert oder anonymisiert?)
+ (Auch aggregiert oder anonymisiert?)
 F6: Wo werden unsere Daten verarbeitet und gespeichert?
-    Werden US-Server oder US-Subunternehmer eingesetzt (CLOUD-Act-Risiko)?
+ Werden US-Server oder US-Subunternehmer eingesetzt (CLOUD-Act-Risiko)?
 
 Wir bitten um Beantwortung in Textform.
 

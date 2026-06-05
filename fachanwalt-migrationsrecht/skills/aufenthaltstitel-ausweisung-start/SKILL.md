@@ -1,41 +1,41 @@
 ---
 name: aufenthaltstitel-ausweisung-start
-description: "Nutze dies, wenn Workflow Aufenthaltstitel Router, Workflow Ausweisung Start, Workflow Behoerdenkommunikation, Workflow Bescheid Verstehen, Workflow Blaue Karte Start im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Workflow Aufenthaltstitel Router, Workflow Ausweisung Start, Workflow Behoerdenkommunikation, Workflow Bescheid Verstehen, Workflow Blaue Karte Start prüfen.; Erstelle eine Arbeitsfassung zu Workflow Aufenthaltstitel Router, Workflow Ausweisung Start, Workflow Behoerdenkommunikation, Workflow Bescheid Verstehen, Workflow Blaue Karte Start.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Aufenthaltstitel Router, Ausweisung Start, Behoerdenkommunikation, Bescheid Verstehen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Aufenthaltstitel Router, Workflow Ausweisung Start, Workflow Behoerdenkommunikation, Workflow Bescheid Verstehen, Workflow Blaue Karte Start
+# Aufenthaltstitel Router, Ausweisung Start, Behoerdenkommunikation, Bescheid Verstehen, Blaue Karte Start
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Aufenthaltstitel Router, Ausweisung Start, Behoerdenkommunikation, Bescheid Verstehen, Blaue Karte Start** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `workflow-aufenthaltstitel-router` | Aufenthaltstitel-Router: Workflow-Skill für Migrationsrecht; wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-ausweisung-start` | Ausweisung Start: Workflow-Skill für Migrationsrecht; prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-behoerdenkommunikation` | Behördenkommunikation: Workflow-Skill für Migrationsrecht; formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-bescheid-verstehen` | Bescheid verstehen: Workflow-Skill für Migrationsrecht; erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-blaue-karte-start` | Blaue Karte EU Start: Workflow-Skill für Migrationsrecht; prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-aufenthaltstitel-router` | Aufenthaltstitel-Router: Arbeitsmodul für Migrationsrecht; wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-ausweisung-start` | Ausweisung Start: Arbeitsmodul für Migrationsrecht; prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-behoerdenkommunikation` | Behördenkommunikation: Arbeitsmodul für Migrationsrecht; formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-bescheid-verstehen` | Bescheid verstehen: Arbeitsmodul für Migrationsrecht; erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
+| `workflow-blaue-karte-start` | Blaue Karte EU Start: Arbeitsmodul für Migrationsrecht; prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Workflow Aufenthaltstitel Router, Workflow Ausweisung Start, Workflow Behoerdenkommunikation, Workflow Bescheid Verstehen, Workflow Blaue Karte Start** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Aufenthaltstitel Router, Ausweisung Start, Behoerdenkommunikation, Bescheid Verstehen, Blaue Karte Start** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `workflow-aufenthaltstitel-router`
 
-**Fokus:** Aufenthaltstitel-Router: Workflow-Skill für Migrationsrecht; wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Aufenthaltstitel-Router: Arbeitsmodul für Migrationsrecht; wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Aufenthaltstitel-Router
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -62,14 +62,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 2. `workflow-ausweisung-start`
 
-**Fokus:** Ausweisung Start: Workflow-Skill für Migrationsrecht; prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Ausweisung Start: Arbeitsmodul für Migrationsrecht; prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Ausweisung Start
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -96,14 +96,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 3. `workflow-behoerdenkommunikation`
 
-**Fokus:** Behördenkommunikation: Workflow-Skill für Migrationsrecht; formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Behördenkommunikation: Arbeitsmodul für Migrationsrecht; formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Behördenkommunikation
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -130,14 +130,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 4. `workflow-bescheid-verstehen`
 
-**Fokus:** Bescheid verstehen: Workflow-Skill für Migrationsrecht; erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Bescheid verstehen: Arbeitsmodul für Migrationsrecht; erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Bescheid verstehen
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
@@ -174,14 +174,14 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 5. `workflow-blaue-karte-start`
 
-**Fokus:** Blaue Karte EU Start: Workflow-Skill für Migrationsrecht; prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Blaue Karte EU Start: Arbeitsmodul für Migrationsrecht; prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Blaue Karte EU Start
 
 ## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug.
+Arbeitsmodul im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
 2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.

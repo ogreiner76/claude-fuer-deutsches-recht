@@ -1,13 +1,13 @@
 ---
 name: kundenservice-chatbot-lieferzeiten
-description: "Nutze dies, wenn Kundenservice Chatbot Ai Act Transparenz, Lieferzeiten Verfuegbarkeit Dropshipping, Livecheck Bgb Uwg Ddg Dsa Pangv im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Kundenservice Chatbot Ai Act Transparenz, Lieferzeiten Verfuegbarkeit Dropshipping, Livecheck Bgb Uwg Ddg Dsa Pangv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kundenservice Chatbot Ai Act Transparenz, Lieferzeiten Verfuegbarkeit Dropshipping, Livecheck Bgb Uwg Ddg Dsa Pangv
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kundenservice Chatbot Ai Act Transparenz, Lieferzeiten Verfuegbarkeit Dropshipping, Livecheck Bgb Uwg Ddg Dsa Pangv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `kundenservice-chatbot-ai-act-transparenz` | Kundenservice Chatbot AI Act Transparenz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `lieferzeiten-verfuegbarkeit-dropshipping` | Lieferzeiten Verfügbarkeit Dropshipping: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
-| `livecheck-bgb-uwg-ddg-dsa-pangv` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BGB UWG DDG DSA PAngV. |
+| `livecheck-bgb-uwg-ddg-dsa-pangv` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BGB UWG DDG DSA PAngV. |
 
 ## Arbeitsweg
 
@@ -116,7 +116,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `livecheck-bgb-uwg-ddg-dsa-pangv`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BGB UWG DDG DSA PAngV.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Livecheck BGB UWG DDG DSA PAngV.
 
 # Livecheck BGB UWG DDG DSA PAngV
 

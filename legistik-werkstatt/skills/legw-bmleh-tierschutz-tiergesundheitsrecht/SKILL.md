@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Tierschutz- und Tiergesundheitsrecht
-Ressort:            BMLEH
-Kernnormen:         TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.
-Akteure/Aufsicht:   BVL; FLI; Laender-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.
-EU/Voelkerrecht:    EU-Tiergesundheitsrecht (AHL); Tierhaltungsrichtlinien.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmleh; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Tierschutz- und Tiergesundheitsrecht
+Ressort: BMLEH
+Kernnormen: TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.
+Akteure/Aufsicht: BVL; FLI; Laender-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.
+EU/Voelkerrecht: EU-Tiergesundheitsrecht (AHL); Tierhaltungsrichtlinien.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

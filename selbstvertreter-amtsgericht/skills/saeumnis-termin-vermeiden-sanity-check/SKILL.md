@@ -1,13 +1,13 @@
 ---
 name: saeumnis-termin-vermeiden-sanity-check
-description: "Nutze dies, wenn Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht prüfen.; Erstelle eine Arbeitsfassung zu Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht, Zulassungsgrenzen Check Amtsgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -413,7 +413,7 @@ Jede gelbe oder rote Ampel bekommt einen Reparaturschritt:
 **Sanity-Check**
 | Feld | Ampel | Befund | Reparatur |
 |---|---|---|---|
-| Frist | Rot/Gelb/Grün |  |  |
+| Frist | Rot/Gelb/Grün | | |
 
 **Nicht abschicken, bevor**
 1. [kritischer Punkt]

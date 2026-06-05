@@ -1,20 +1,20 @@
 ---
 name: ehegattenvertretung-bgb-ehrenamtlicher
-description: "Nutze dies, wenn Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit prüfen.; Erstelle eine Arbeitsfassung zu Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ehegattenvertretung 1358 Bgb, Ehrenamtlicher Betreuer Erster Monat, Familienbetreuer Alltagscockpit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `ehegattenvertretung-1358-bgb` | Notvertretungsrecht Ehegatten § 1358 BGB seit 01.01.2023: Voraussetzungen, sechsmonatige Befristung, Pflichten, Abgrenzung zur Betreuung. Vorlage Information Mandanten. |
-| `ehrenamtlicher-betreuer-erster-monat` | Start-Workflow für ehrenamtliche und familiäre Betreuer in den ersten 30 Tagen: Bestellungsbeschluss verstehen, Aufgabenkreise lesen, Betreuungsgericht kontaktieren, Betreuungsverein/Behörde anbinden, Vermögens- und Gesundheitsunterlagen sichern, Fristenkalender anlegen und Überforderung vermeiden. |
+| `ehrenamtlicher-betreuer-erster-monat` | Start-für ehrenamtliche und familiäre Betreuer in den ersten 30 Tagen: Bestellungsbeschluss verstehen, Aufgabenkreise lesen, Betreuungsgericht kontaktieren, Betreuungsverein/Behörde anbinden, Vermögens- und Gesundheitsunterlagen sichern, Fristenkalender anlegen und Überforderung vermeiden. |
 | `familienbetreuer-alltagscockpit` | Alltags-Cockpit für Familienbetreuer: macht aus Post, Pflege, Bank, Arztterminen, Heimkontakt, Behörden und Gericht einen handhabbaren Wochenplan mit Aufgabenliste, Verantwortlichen, Ampel, Gesprächsnotizen und dokumentierten Entscheidungen der betreuten Person. |
 
 ## Arbeitsweg
@@ -78,7 +78,7 @@ Dieser Skill gehoert zum Plugin `betreuungsrecht`. Er ergaenzt die uebrigen Skil
 
 ## 2. `ehrenamtlicher-betreuer-erster-monat`
 
-**Fokus:** Start-Workflow für ehrenamtliche und familiäre Betreuer in den ersten 30 Tagen: Bestellungsbeschluss verstehen, Aufgabenkreise lesen, Betreuungsgericht kontaktieren, Betreuungsverein/Behörde anbinden, Vermögens- und Gesundheitsunterlagen sichern, Fristenkalender anlegen und Überforderung vermeiden.
+**Fokus:** Start-für ehrenamtliche und familiäre Betreuer in den ersten 30 Tagen: Bestellungsbeschluss verstehen, Aufgabenkreise lesen, Betreuungsgericht kontaktieren, Betreuungsverein/Behörde anbinden, Vermögens- und Gesundheitsunterlagen sichern, Fristenkalender anlegen und Überforderung vermeiden.
 
 # Ehrenamtlicher Betreuer: erster Monat
 
@@ -86,7 +86,7 @@ Dieser Skill gehoert zum Plugin `betreuungsrecht`. Er ergaenzt die uebrigen Skil
 
 Dieser Skill führt nicht berufliche Betreuer Schritt für Schritt durch die ersten vier Wochen nach Bestellung. Er arbeitet beruhigend, praktisch und gerichtstauglich: Was muss sofort passieren, was darf warten, was darf der Betreuer überhaupt, und wann wird Hilfe geholt?
 
-## Kaltstart
+## Einstieg
 
 Frage nur diese Punkte ab:
 
@@ -104,7 +104,7 @@ Frage nur diese Punkte ab:
 - Bestellungsurkunde als Arbeitsdokument sichern; nur vorzeigen, nicht unnötig kopieren lassen.
 - Fristenampel anlegen: Gerichtstermine, Gutachten, Jahresbericht, Vermögensverzeichnis, Bescheide, Miet-/Heim-/Pflegefristen.
 - Die betreute Person sprechen, sofern möglich: Was will sie? Was soll auf keinen Fall passieren?
-- Bei Gefahr für Gesundheit, Wohnung, Konto oder Pflege sofort passende Spezial-Skills routen.
+- Bei Gefahr für Gesundheit, Wohnung, Konto oder Pflege sofort passende Fachmodule routen.
 
 ### Woche 1: Hilfe-System aktivieren
 

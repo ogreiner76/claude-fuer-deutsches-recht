@@ -1,13 +1,13 @@
 ---
 name: historie-lueckenfuellung-sonderfall
-description: "Nutze dies, wenn Spezial Historie Compliance Dokumentation Und Akte, Spezial Lueckenfuellung Sonderfall Und Edge Case, Spezial Methodenlehre Erstpruefung Und Mandatsziel, Spezial Pragmatisch Internationaler Bezug Und Schnittstellen, Spezial Rechtsanwendung Tatbestand Beweis Und Belege im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Historie Compliance Dokumentation Und Akte, Spezial Lueckenfuellung Sonderfall Und Edge Case, Spezial Methodenlehre Erstpruefung Und Mandatsziel, Spezial Pragmatisch Internationaler Bezug Und Schnittstellen, Spezial Rechtsanwendung Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Historie Compliance Dokumentation Und Akte, Spezial Lueckenfuellung Sonderfall Und Edge Case, Spezial Methodenlehre Erstpruefung Und Mandatsziel, Spezial Pragmatisch Internationaler Bezug Und Schnittstellen, Spezial Rechtsanwendung Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Historie Compliance Dokumentation Und Akte, Spezial Lueckenfuellung Sonderfall Und Edge Case, Spezial Methodenlehre Erstpruefung Und Mandatsziel, Spezial Pragmatisch Internationaler Bezug Und Schnittstellen, Spezial Rechtsanwendung Tatbestand Beweis Und Belege
+# Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen, Rechtsanwendung Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen, Rechtsanwendung Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Historie Compliance Dokumentation Und Akte, Spezial Lueckenfuellung Sonderfall Und Edge Case, Spezial Methodenlehre Erstpruefung Und Mandatsziel, Spezial Pragmatisch Internationaler Bezug Und Schnittstellen, Spezial Rechtsanwendung Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen, Rechtsanwendung Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

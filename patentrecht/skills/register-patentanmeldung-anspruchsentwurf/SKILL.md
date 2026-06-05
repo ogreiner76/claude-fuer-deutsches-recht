@@ -1,13 +1,13 @@
 ---
 name: register-patentanmeldung-anspruchsentwurf
-description: "Nutze dies, wenn Rechtsstand Register Und Fristen, Spezial Patentanmeldung Fristen Form Und Zustaendigkeit, Patentanmeldung Anspruchsentwurf im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsstand Register Und Fristen, Spezial Patentanmeldung Fristen Form Und Zustaendigkeit, Patentanmeldung Anspruchsentwurf prüfen.; Erstelle eine Arbeitsfassung zu Rechtsstand Register Und Fristen, Spezial Patentanmeldung Fristen Form Und Zustaendigkeit, Patentanmeldung Anspruchsentwurf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsstand Register Und Fristen, Patentanmeldung Fristen Form Und Zustaendigkeit, Patentanmeldung Anspruchsentwurf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Rechtsstand Register Und Fristen, Spezial Patentanmeldung Fristen Form Und Zustaendigkeit, Patentanmeldung Anspruchsentwurf
+# Rechtsstand Register Und Fristen, Patentanmeldung Fristen Form Und Zustaendigkeit, Patentanmeldung Anspruchsentwurf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsstand Register Und Fristen, Patentanmeldung Fristen Form Und Zustaendigkeit, Patentanmeldung Anspruchsentwurf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Rechtsstand Register Und Fristen, Spezial Patentanmeldung Fristen Form Und Zustaendigkeit, Patentanmeldung Anspruchsentwurf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsstand Register Und Fristen, Patentanmeldung Fristen Form Und Zustaendigkeit, Patentanmeldung Anspruchsentwurf** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `patentrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -92,7 +92,7 @@ Nie allein aus einer Patentnummer schließen, dass ein Patent in Kraft ist. Imme
 # Patentanmeldung: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Patentanmeldung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Patentanmeldung: Fristen, Form, Zuständigkeit und Rechtsweg / spezial patentanmeldung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Patentanmeldung: Fristen, Form, Zuständigkeit und Rechtsweg / patentanmeldung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FTO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

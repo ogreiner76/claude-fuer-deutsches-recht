@@ -1,13 +1,13 @@
 ---
 name: regelbeispiele
-description: "Nutze dies, wenn Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Regelbeispiele Rechtsprechung im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Regelbeispiele Rechtsprechung prüfen.; Erstelle eine Arbeitsfassung zu Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Regelbeispiele Rechtsprechung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chronologie Und Belegmatrix, Fristen Und Risikoampel, Regelbeispiele Rechtsprechung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Regelbeispiele Rechtsprechung
+# Chronologie Und Belegmatrix, Fristen Und Risikoampel, Regelbeispiele Rechtsprechung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Regelbeispiele Rechtsprechung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, Regelbeispiele Rechtsprechung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Chronologie Und Belegmatrix, Fristen Und Risikoampel, Regelbeispiele Rechtsprechung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `strafzumessung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,10 +31,10 @@ Für **Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel, R
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Workflow-Skill für `strafzumessung` Chronologie und Belegmatrix im Plugin strafzumessung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin strafzumessung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -44,7 +44,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -62,19 +62,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Strafzumessungs-Chronologie-Bausteine
 - **Tat- und Verfahrenszeitachse** zur Strafmilderung wichtig: § 46 II StGB Nachtatverhalten; § 46a StGB TOA; lange Verfahrensdauer als rechtsstaatliche Kompensation (BGH-Linie, BVerfG zu Art. 6 EMRK / Art. 20 III GG).
 - **Belegmatrix Strafmilderungstatsachen:**
-  - Gestaendnis (Zeitpunkt: Polizei / StA / Hauptverhandlung; Umfang).
-  - Schadenswiedergutmachung (Betrag, Datum, Beleg, Tilgungsplan).
-  - TOA § 46a StGB (Vermittler, Vereinbarung, Erfolg).
-  - Therapie (Bescheinigung Therapeut, Beginn, Verlauf, Prognose).
-  - Drogen-Abstinenznachweis (Haaranalyse, Urinkontrollen mit chain-of-custody).
-  - Soziales Engagement (gemeinnuetzige Arbeit vor Verurteilung).
-  - Berufliche / soziale Stabilisierung.
-  - Lange Verfahrensdauer (Datum Ermittlungseinleitung bis Hauptverhandlung).
+ - Gestaendnis (Zeitpunkt: Polizei / StA / Hauptverhandlung; Umfang).
+ - Schadenswiedergutmachung (Betrag, Datum, Beleg, Tilgungsplan).
+ - TOA § 46a StGB (Vermittler, Vereinbarung, Erfolg).
+ - Therapie (Bescheinigung Therapeut, Beginn, Verlauf, Prognose).
+ - Drogen-Abstinenznachweis (Haaranalyse, Urinkontrollen mit chain-of-custody).
+ - Soziales Engagement (gemeinnuetzige Arbeit vor Verurteilung).
+ - Berufliche / soziale Stabilisierung.
+ - Lange Verfahrensdauer (Datum Ermittlungseinleitung bis Hauptverhandlung).
 - **Belegmatrix Strafschaerfungstatsachen:**
-  - Einschlaegige Vorstrafen (BZRG-Auszug; Verwertungsverbot § 51 BZRG pruefen).
-  - Tatfolgen (Schadenshoehe, Personenschaden).
-  - Bewaehrung lief? (Bewaehrungsbruch § 56f StGB).
-  - Verfahren wegen anderer Taten anhaengig?
+ - Einschlaegige Vorstrafen (BZRG-Auszug; Verwertungsverbot § 51 BZRG pruefen).
+ - Tatfolgen (Schadenshoehe, Personenschaden).
+ - Bewaehrung lief? (Bewaehrungsbruch § 56f StGB).
+ - Verfahren wegen anderer Taten anhaengig?
 - **Tagessatz-Hoehe § 40 II StGB:** monatliches Nettoeinkommen (Lohnabrechnungen 3 Monate); Schaetzung § 40 III StGB nur subsidiaer; Unterhaltslasten.
 - **Konsequenzen-Matrix:** Geldstrafe ueber 90 TS -> BZRG-Eintrag; Freiheitsstrafe -> ggf. Verlust Beamtenstatus § 24 BeamtStG; Eintragung im FZR / BZR.
 
@@ -85,10 +85,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill für `strafzumessung` Fristen- und Risikoampel im Plugin strafzumessung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin strafzumessung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -98,7 +98,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard

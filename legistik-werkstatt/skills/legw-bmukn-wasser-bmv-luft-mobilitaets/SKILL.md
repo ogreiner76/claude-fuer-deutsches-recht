@@ -1,13 +1,13 @@
 ---
 name: legw-bmukn-wasser-bmv-luft-mobilitaets
-description: "Nutze dies, wenn Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg, Legw Bmv Schifffahrts Und Seeverkehrsrecht und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg, Legw Bmv Schifffahrts Und Seeverkehrsrecht und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg, Legw Bmv Schifffahrts Und Seeverkehrsrecht und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg, Legw Bmv Schifffahrts Und Seeverkehrsrecht und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg, Legw Bmv Schifffahrts Und Seeverkehrsrecht und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,16 +87,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Wasser- und Bodenschutzrecht
-Ressort:            BMUKN
-Kernnormen:         WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.
-Akteure/Aufsicht:   UBA; BfG; Laender-Wasserbehoerden; LAWA.
-EU/Voelkerrecht:    Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmukn; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Wasser- und Bodenschutzrecht
+Ressort: BMUKN
+Kernnormen: WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.
+Akteure/Aufsicht: UBA; BfG; Laender-Wasserbehoerden; LAWA.
+EU/Voelkerrecht: Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -169,16 +169,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Luft- und Luftverkehrsrecht
-Ressort:            BMV
-Kernnormen:         LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.
-Akteure/Aufsicht:   Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).
-EU/Voelkerrecht:    EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmv; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Luft- und Luftverkehrsrecht
+Ressort: BMV
+Kernnormen: LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.
+Akteure/Aufsicht: Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).
+EU/Voelkerrecht: EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -251,16 +251,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Mobilitaets- und Fuehrerscheinrecht
-Ressort:            BMV
-Kernnormen:         FeV; StVG; PBefG; CsgG (Carsharinggesetz); GVFG; ElektroMobG.
-Akteure/Aufsicht:   KBA; Fahrerlaubnisbehoerden; Verkehrsministerien der Laender.
-EU/Voelkerrecht:    Fuehrerschein-RL; alternativer Antrieb (RED III; AFIR).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmv; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Mobilitaets- und Fuehrerscheinrecht
+Ressort: BMV
+Kernnormen: FeV; StVG; PBefG; CsgG (Carsharinggesetz); GVFG; ElektroMobG.
+Akteure/Aufsicht: KBA; Fahrerlaubnisbehoerden; Verkehrsministerien der Laender.
+EU/Voelkerrecht: Fuehrerschein-RL; alternativer Antrieb (RED III; AFIR).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -333,16 +333,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Schienen- und Bahnregulierung (AEG)
-Ressort:            BMV
-Kernnormen:         AEG; ERegG; BSchwAG; BNetzAG; EisbahnG; ERegV.
-Akteure/Aufsicht:   EBA; BNetzA; DB-Konzern; Laender-Aufsicht; Schienenverkehrsbeirat.
-EU/Voelkerrecht:    4. Eisenbahnpaket; TSI; ERA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmv; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Schienen- und Bahnregulierung (AEG)
+Ressort: BMV
+Kernnormen: AEG; ERegG; BSchwAG; BNetzAG; EisbahnG; ERegV.
+Akteure/Aufsicht: EBA; BNetzA; DB-Konzern; Laender-Aufsicht; Schienenverkehrsbeirat.
+EU/Voelkerrecht: 4. Eisenbahnpaket; TSI; ERA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -415,16 +415,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Schifffahrts- und Seeverkehrsrecht
-Ressort:            BMV
-Kernnormen:         SeeAufgG; SchSG; BinSchG; SeeFischG; Marpol-Ausfuehrungsgesetze.
-Akteure/Aufsicht:   BSH; BG Verkehr; Wasser- und Schifffahrtsverwaltung des Bundes; HavarieKommando.
-EU/Voelkerrecht:    EMSA; IMO-Umsetzung; Hafenstaatkontrolle.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmv; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Schifffahrts- und Seeverkehrsrecht
+Ressort: BMV
+Kernnormen: SeeAufgG; SchSG; BinSchG; SeeFischG; Marpol-Ausfuehrungsgesetze.
+Akteure/Aufsicht: BSH; BG Verkehr; Wasser- und Schifffahrtsverwaltung des Bundes; HavarieKommando.
+EU/Voelkerrecht: EMSA; IMO-Umsetzung; Hafenstaatkontrolle.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -497,16 +497,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Strassenverkehrsrecht (StVG; StVO)
-Ressort:            BMV
-Kernnormen:         StVG; StVO; FeV; FZV; StVZO; FStrG; PBefG.
-Akteure/Aufsicht:   Kraftfahrt-Bundesamt; BMV; Strassenverkehrsbehoerden der Laender und Kommunen.
-EU/Voelkerrecht:    Typgenehmigungsrecht (EU 2018/858); Fuehrerschein-RL; Mobilitaetspaket.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmv; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Strassenverkehrsrecht (StVG; StVO)
+Ressort: BMV
+Kernnormen: StVG; StVO; FeV; FZV; StVZO; FStrG; PBefG.
+Akteure/Aufsicht: Kraftfahrt-Bundesamt; BMV; Strassenverkehrsbehoerden der Laender und Kommunen.
+EU/Voelkerrecht: Typgenehmigungsrecht (EU 2018/858); Fuehrerschein-RL; Mobilitaetspaket.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -579,16 +579,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Militaerische Beschaffung und Vergaberecht
-Ressort:            BMVg
-Kernnormen:         BwBeschG; GWB; VgV; SektVO; KonzVgV; VSVgV (Verteidigungs- und Sicherheitsvergabe).
-Akteure/Aufsicht:   BAAINBw; BMVg-Abteilungen Ausruestung; BMWE-Vergaberecht; OLG-Vergabesenate.
-EU/Voelkerrecht:    RL 2009/81/EG (Verteidigungs- und Sicherheitsvergabe); Art. 346 AEUV.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmvg; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Militaerische Beschaffung und Vergaberecht
+Ressort: BMVg
+Kernnormen: BwBeschG; GWB; VgV; SektVO; KonzVgV; VSVgV (Verteidigungs- und Sicherheitsvergabe).
+Akteure/Aufsicht: BAAINBw; BMVg-Abteilungen Ausruestung; BMWE-Vergaberecht; OLG-Vergabesenate.
+EU/Voelkerrecht: RL 2009/81/EG (Verteidigungs- und Sicherheitsvergabe); Art. 346 AEUV.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -661,16 +661,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           NATO-Recht und Stationierungsrecht
-Ressort:            BMVg
-Kernnormen:         NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.
-Akteure/Aufsicht:   BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.
-EU/Voelkerrecht:    EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmvg; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: NATO-Recht und Stationierungsrecht
+Ressort: BMVg
+Kernnormen: NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.
+Akteure/Aufsicht: BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.
+EU/Voelkerrecht: EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: aktenherausgabe-patentakten
-description: "Nutze dies, wenn Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kaltst, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kammer, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Organi und 4 weitere Themen im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kaltst, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kammer, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Organi und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinde..."
+description: "Nutze dies bei Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kaltst, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kammer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kaltst, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kammer, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Organi und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kaltst, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kammer, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Organi und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

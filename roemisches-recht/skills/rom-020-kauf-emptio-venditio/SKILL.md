@@ -1,6 +1,6 @@
 ---
 name: rom-020-kauf-emptio-venditio
-description: "Römisches Recht: Kauf Emptio Venditio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Kauf Emptio Venditio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Kauf Emptio Venditio

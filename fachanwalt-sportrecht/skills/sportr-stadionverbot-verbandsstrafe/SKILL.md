@@ -1,13 +1,13 @@
 ---
 name: sportr-stadionverbot-verbandsstrafe
-description: "Nutze dies, wenn Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Bitte Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten prüfen.; Erstelle eine Arbeitsfassung zu Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sportr Stadionverbot Fanrechte Spezial, Sportr Stadionverbot Und Fan Rechte Spezial, Verbandsstrafe Anfechten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `sportr-stadionverbot-fanrechte-spezial` | Spezialfall Stadionverbot und Fanrechte: bundesweite und oertliche Stadionverbote, BGH-Rechtsprechung zu Anhoerung, gleichbehandlungsrechtliche Aspekte. Pruefraster fuer Anhoerungsrecht und Klage. |
 | `sportr-stadionverbot-und-fan-rechte-spezial` | Spezialfall Stadionverbot und Fan-Rechte: Hausrecht des Vereins, bundesweites Stadionverbot, Anhoerungspflicht, Klage Anfechtung, Vergleichsverhandlung. BGH-Rechtsprechung zur Begruendungspflicht. |
-| `verbandsstrafe-anfechten` | Workflow-Skill zu verbandsstrafe anfechten. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `verbandsstrafe-anfechten` | Arbeitsmodul zu verbandsstrafe anfechten: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -131,7 +131,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-sportrecht`. Er ergaenzt die uebrige
 
 ## 3. `verbandsstrafe-anfechten`
 
-**Fokus:** Workflow-Skill zu verbandsstrafe anfechten. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu verbandsstrafe anfechten: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Verbandsstrafe anfechten
 
@@ -230,7 +230,7 @@ Sehr geehrte Damen und Herren,
 namens und in Vollmacht unserer Mandantschaft [Name, Geburtsdatum]
 legen wir form- und fristgerecht
 
-                       B e r u f u n g
+ B e r u f u n g
 
 gegen die Entscheidung vom [Datum] ein.
 
@@ -243,38 +243,38 @@ Begründung:
 I. Formelle Mängel (Verfahrensfehler)
 
 1. Anhörungsrecht verletzt:
-   Unserer Mandantschaft wurde keine oder keine ausreichende
-   Möglichkeit zur Äußerung gewährt. Das Schreiben vom [Datum]
-   setzte eine Frist von nur [X Tagen], die angesichts der
-   Komplexität der Vorwürfe nicht ausreichend war (Anlage B1:
-   Schreiben mit Fristsetzung).
+ Unserer Mandantschaft wurde keine oder keine ausreichende
+ Möglichkeit zur Äußerung gewährt. Das Schreiben vom [Datum]
+ setzte eine Frist von nur [X Tagen], die angesichts der
+ Komplexität der Vorwürfe nicht ausreichend war (Anlage B1:
+ Schreiben mit Fristsetzung).
 
 2. Akteneinsicht verweigert:
-   Der Antrag auf Akteneinsicht vom [Datum] wurde ohne Begründung
-   abgelehnt (Anlage B2: Ablehnungsschreiben). Ohne Kenntnis
-   der Beweismittel war eine effektive Verteidigung nicht möglich.
+ Der Antrag auf Akteneinsicht vom [Datum] wurde ohne Begründung
+ abgelehnt (Anlage B2: Ablehnungsschreiben). Ohne Kenntnis
+ der Beweismittel war eine effektive Verteidigung nicht möglich.
 
 3. Begründungsmangel:
-   Die Entscheidung enthält keine ausreichende Subsumtion unter
-   § [Sanktionsnorm] der [Rechts- und Verfahrensordnung]. Es
-   fehlt jede Auseinandersetzung mit den Gegenargumenten.
+ Die Entscheidung enthält keine ausreichende Subsumtion unter
+ § [Sanktionsnorm] der [Rechts- und Verfahrensordnung]. Es
+ fehlt jede Auseinandersetzung mit den Gegenargumenten.
 
 II. Materielle Mängel
 
 4. Tatbestand nicht erfüllt:
-   Der vorgeworfene Sachverhalt [konkret: Datum, Vorgang] stellt
-   keine [Bezeichnung des Verstoßes nach Regelwerk] dar, weil
-   [Begründung]. Beweis: Anlage B3 (Videobeweis / Zeugenaussagen).
+ Der vorgeworfene Sachverhalt [konkret: Datum, Vorgang] stellt
+ keine [Bezeichnung des Verstoßes nach Regelwerk] dar, weil
+ [Begründung]. Beweis: Anlage B3 (Videobeweis / Zeugenaussagen).
 
 5. Fehlendes Verschulden:
-   Unsere Mandantschaft handelte aus einem entschuldbaren Irrtum
-   über [Tatbestandsmerkmal] (Anlage B4: Erklärung Mandant).
+ Unsere Mandantschaft handelte aus einem entschuldbaren Irrtum
+ über [Tatbestandsmerkmal] (Anlage B4: Erklärung Mandant).
 
 6. Unverhältnismäßigkeit:
-   Die verhängte Sperre von [N] Spielen / Geldstrafe von EUR [Betrag]
-   übersteigt den Strafrahmen vergleichbarer Fälle erheblich
-   (Anlage B5: Vergleichsentscheidungen des Verbands). Eine
-   Geldstrafe wäre ausreichend.
+ Die verhängte Sperre von [N] Spielen / Geldstrafe von EUR [Betrag]
+ übersteigt den Strafrahmen vergleichbarer Fälle erheblich
+ (Anlage B5: Vergleichsentscheidungen des Verbands). Eine
+ Geldstrafe wäre ausreichend.
 
 III. Hilfsantrag
 
@@ -293,7 +293,7 @@ Mit freundlichen Grüßen
 ### Baustein 2 — Einstweilige Verfügung § 935 ZPO gegen Spielsperre
 
 ```
-An das Landgericht [Ort]                      [Datum]
+An das Landgericht [Ort] [Datum]
 
 Antrag auf Erlass einer einstweiligen Verfügung
 gem. § 935 ZPO
@@ -390,7 +390,7 @@ Mit freundlichen Grüßen
 |---|---|
 | Verbandsinterne Berufung noch offen | Zunächst Verbandsberufung mit Verfahrens- und materiellenRügen |
 | Saison läuft, Sperre aktiv | Gleichzeitig § 935 ZPO-Antrag und Verbandsberufung |
-| Doping-Fall | Spezial-Skill `fachanwalt-sportrecht-doping-verfahren` einsetzen |
+| Doping-Fall | Fachmodul `fachanwalt-sportrecht-doping-verfahren` einsetzen |
 | Verfahrensfehler eindeutig | Primär auf formelle Mängel setzen — höchste Erfolgswahrscheinlichkeit |
 | Lizenzentzug Berufssportler | Art. 12 GG in Vordergrund; einstweilige Verfügung dringlichst |
 | CAS-Weg gewählt | 21-Tage-Frist beachten; Kosten-Budget sichern |

@@ -1,13 +1,13 @@
 ---
 name: vereinfachtes-schreiben-vollmacht-vertretung
-description: "Nutze dies, wenn Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei Auskuenften, Was Will Dieses Schreiben im Plugin Buerokratieversteher Entbuerokratisierer konkret bearbeitet werden soll. Auslöser: Bitte Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei Auskuenften, Was Will Dieses Schreiben prüfen.; Erstelle eine Arbeitsfassung zu Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei Auskuenften, Was Will Dieses Schreiben.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei Auskuenften, Was Will Dieses Schreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei Auskuenften, Was Will Dieses Schreiben
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei Auskuenften, Was Will Dieses Schreiben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Vereinfachtes Schreiben Generator, Vollmacht Und Vertretung, Vorsicht Bei
 ## Aufgabe
 Erzeugt aus Ziel und Fakten ein knappes Behördenanschreiben mit Betreff, Aktenzeichen, Antrag, Begründung, Anlagen und Frist.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Erstellt einfache Vollmacht, Begleitschreiben und Grenzen der Vertretung für Familie, Freunde, Beratungsstelle oder Anwalt.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -114,7 +114,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Hilft, vor Behördenkontakt nur notwendige, geprüfte und belegbare Angaben zu machen und unnötige Selbstbelastung oder Datenpreisgabe zu vermeiden.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -154,7 +154,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 ## Aufgabe
 Übersetzt amtliche Schreiben in die vier Fragen: Wer will was, bis wann, warum und was passiert sonst?
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

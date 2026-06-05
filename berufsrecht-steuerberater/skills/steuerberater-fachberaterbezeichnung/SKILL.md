@@ -1,13 +1,13 @@
 ---
 name: steuerberater-fachberaterbezeichnung
-description: "Nutze dies, wenn Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, Steuerberater Familiengesellschaft Conflict Check Kammerantwort, Steuerberater Familiengesellschaft Conflict Check Organisations, Steuerberater Familiengesellschaft Conflict Check Rechtsprechun, Steuerberater Fehlerhafte Steuerschaetzung Kammerantwort Und Ve im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, Steuerberater Familiengesellschaft Conflict Check Kammerantwort, Steuerberater Familiengesellschaft Conflict Check Organisations, Steuerberater Familiengesellschaft Conflict Check Rechtsprechun, Steuerberater Fehlerhafte Steuerschaetzung Kammerantwort Und Ve prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, Steuerberater Familiengesellschaft Conflict Check Kammerantwort, Steuerberater Familiengesellschaft Conflict Check Organisations, Steuerberate..."
+description: "Nutze dies bei Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, Steuerberater Familiengesellschaft Conflict Check Kammerantwort, Steuerberater Familiengesellschaft Conflict Check Organisations, Steuerberater Familiengesellschaft Conflict Check Rechtsprechun: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, Steuerberater Familiengesellschaft Conflict Check Kammerantwort, Steuerberater Familiengesellschaft Conflict Check Organisations, Steuerberater Familiengesellschaft Conflict Check Rechtsprechun, Steuerberater Fehlerhafte Steuerschaetzung Kammerantwort Und Ve
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Fachberaterbezeichnung Organisationspflicht Und P, Steuerberater Familiengesellschaft Conflict Check Kammerantwort, Steuerberater Familiengesellschaft Conflict Check Organisations, Steuerberater Familiengesellschaft Conflict Check Rechtsprechun, Steuerberater Fehlerhafte Steuerschaetzung Kammerantwort Und Ve** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

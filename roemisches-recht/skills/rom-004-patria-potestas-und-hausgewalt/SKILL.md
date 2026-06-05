@@ -1,6 +1,6 @@
 ---
 name: rom-004-patria-potestas-und-hausgewalt
-description: "Römisches Recht: Patria Potestas Und Hausgewalt. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Patria Potestas Und Hausgewalt. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Patria Potestas Und Hausgewalt

@@ -1,13 +1,13 @@
 ---
 name: email-chat-energievertrieb-eu-richtlinie
-description: "Nutze dies, wenn Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur im Plugin Handelsvertreterrecht konkret bearbeitet werden soll. Auslöser: Bitte Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur prüfen.; Erstelle eine Arbeitsfassung zu Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

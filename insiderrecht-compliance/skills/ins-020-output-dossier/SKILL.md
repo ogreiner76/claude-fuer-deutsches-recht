@@ -52,7 +52,7 @@ Checkliste je Abschnitt:
 ### Schritt 3 – BaFin-Anfrage-Management
 
 - Benenne einen einzigen Kommunikationskanal zur BaFin (i.d.R. Compliance-Officer mit
-  externer Kanzlei im Hintergrund)
+ externer Kanzlei im Hintergrund)
 - Prüfe jede BaFin-Anfrage vor Beantwortung auf Umfang und Rechtsgrundlage
 - Antworte vollständig, aber nicht über den Umfang der Anfrage hinaus
 - Dokumentiere jede Kommunikation mit der BaFin

@@ -1,19 +1,19 @@
 ---
 name: nyc-korrespondenz-plattform-piraterie
-description: "Nutze dies, wenn Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft prüfen.; Erstelle eine Arbeitsfassung zu Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `nyc-korrespondenz-und-conflict-check` | Mandat-Workflow mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation. |
+| `nyc-korrespondenz-und-conflict-check` | Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation. |
 | `plattform-piraterie-donauzon` | Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation. |
 | `positionsmarke` | Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung. |
 | `prioritaet-ausstellung-pariser-verbandsuebereinkunft` | Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfen: nationale Erstanmeldung, Unionsmarke, Madrid, Messepriorität, Nachanmeldung, Prioritätsbelege und Fristenkalender. |
@@ -27,7 +27,7 @@ Für **Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Posit
 
 ## 1. `nyc-korrespondenz-und-conflict-check`
 
-**Fokus:** Mandat-Workflow mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation.
+**Fokus:** Mandat-mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation.
 
 # NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP
 
@@ -116,7 +116,7 @@ Partner J. Halston Whitman III, Esq. (USD 1.450/h) und Senior Associate Eleanor 
 Steinacker Lichtenberg (München) und Whitman Brennan Forsythe LLP (NYC)
 vereinbaren, dass:
 1. Alle zwischen ihnen ausgetauschten Informationen im Kontext des
-   klôtzzkètté SA/Inc.-Mandats dem Common Interest Privilege unterliegen.
+ klôtzzkètté SA/Inc.-Mandats dem Common Interest Privilege unterliegen.
 2. Keine Kanzlei ist verpflichtet, diese Informationen in Discovery preiszugeben.
 3. Das Agreement gilt ab [Datum] bis zum Ende des gemeinsamen Mandats.
 ```
@@ -169,7 +169,7 @@ in connection with U.S. trademark prosecution, TTAB proceedings,
 and related enforcement matters.
 
 Fees: J. Halston Whitman III, Esq.: USD 1,450/hour
-      Eleanor M. Quintero, Esq.: USD 695/hour
+ Eleanor M. Quintero, Esq.: USD 695/hour
 
 Initial Retainer: USD 50,000 (to be applied against fees and costs)
 
@@ -232,10 +232,10 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
 ## Rechtsrahmen
 
 - **VO (EU) 2022/2065 (DSA — Digital Services Act):** Vollgültig seit 17.02.2024
-  - Art. 16/17 DSA: Notice-and-Action-Mechanismus — Plattformen müssen legale und einfach zugängliche Meldemechanismen bereitstellen; nach Meldung: zügige Entscheidung (7 Tage bei nicht-illegalen Inhalten, unverzüglich bei offensichtlich illegalen)
-  - Art. 22 DSA: Trusted Flaggers (privilegierte Meldestellen, deren Meldungen vorrangig bearbeitet werden)
-  - Art. 26-30 DSA: Transparenzpflichten für Werbung, Recommender-Systeme
-  - Art. 45 DSA: Zuständigkeit Koordinator für digitale Dienste
+ - Art. 16/17 DSA: Notice-and-Action-Mechanismus — Plattformen müssen legale und einfach zugängliche Meldemechanismen bereitstellen; nach Meldung: zügige Entscheidung (7 Tage bei nicht-illegalen Inhalten, unverzüglich bei offensichtlich illegalen)
+ - Art. 22 DSA: Trusted Flaggers (privilegierte Meldestellen, deren Meldungen vorrangig bearbeitet werden)
+ - Art. 26-30 DSA: Transparenzpflichten für Werbung, Recommender-Systeme
+ - Art. 45 DSA: Zuständigkeit Koordinator für digitale Dienste
 - **Art. 14/15 E-Commerce-Richtlinie (RL 2000/31/EG):** Noch anwendbar für Haftungsprivileg (Hosting); wird durch DSA nicht vollständig ersetzt (DSA schafft kein neues Haftungsrecht, sondern Verfahrenspflichten)
 - **§§ 7-10 DDG (Digitale-Dienste-Gesetz, abgeloest § 10 TMG zum 14.5.2024):** Haftungsprivileg Hosting-Provider (Umsetzung E-Commerce-RL)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -247,42 +247,42 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
 ### Schritt 1: Monitoring und Beweissicherung
 
 1. **Überwachung Donauzon:**
-   - Regelmäßige Suchanfragen nach "klôtzzkètté", "klotzzkette", "K°°" etc.
-   - Screenshot mit URL, Datum, Anbieter-ID, Preis (Beweis)
-   - Testkauf-Dokumentation: Kaufbeleg, Lieferdaten, Warenprüfung
+ - Regelmäßige Suchanfragen nach "klôtzzkètté", "klotzzkette", "K°°" etc.
+ - Screenshot mit URL, Datum, Anbieter-ID, Preis (Beweis)
+ - Testkauf-Dokumentation: Kaufbeleg, Lieferdaten, Warenprüfung
 
 2. **Kategorisierung der Verletzung:**
-   - Produktfälschung (gefälschte Marke auf Ware) → stärkster Anspruch
-   - Keyword-Verletzung (Markenname als Suchwort ohne Berechtigung)
-   - Lookalike-Produkt ohne direkte Markenverwendung → nur UWG
+ - Produktfälschung (gefälschte Marke auf Ware) → stärkster Anspruch
+ - Keyword-Verletzung (Markenname als Suchwort ohne Berechtigung)
+ - Lookalike-Produkt ohne direkte Markenverwendung → nur UWG
 
 ### Schritt 2: Notice-and-Action nach Art. 16 DSA
 
 3. **Meldung bei Donauzon:**
-   - Meldung über den DSA-konformen Meldemechanismus von Donauzon
-   - Inhalt nach Art. 16 II DSA: (a) Erläuterung des Problems, (b) URL des Inhalts, (c) Name/Kontakt des Meldenden, (d) Bestätigung der Gutgläubigkeit
-   - Bei Trusted-Flagger-Status (klôtzzkètté als etablierte IP-Inhaberin): beschleunigte Bearbeitung
+ - Meldung über den DSA-konformen Meldemechanismus von Donauzon
+ - Inhalt nach Art. 16 II DSA: (a) Erläuterung des Problems, (b) URL des Inhalts, (c) Name/Kontakt des Meldenden, (d) Bestätigung der Gutgläubigkeit
+ - Bei Trusted-Flagger-Status (klôtzzkètté als etablierte IP-Inhaberin): beschleunigte Bearbeitung
 
 4. **Reaktionsfrist Donauzon:**
-   - "Unverzüglich" bei offensichtlich illegalen Inhalten (DSA Art. 16 VI)
-   - 7 Werktage bei nicht-offensichtlichen Fällen
-   - Bestätigung des Eingangs und der Entscheidung (Art. 17 DSA: Begründungspflicht bei Abweichung von Meldung)
+ - "Unverzüglich" bei offensichtlich illegalen Inhalten (DSA Art. 16 VI)
+ - 7 Werktage bei nicht-offensichtlichen Fällen
+ - Bestätigung des Eingangs und der Entscheidung (Art. 17 DSA: Begründungspflicht bei Abweichung von Meldung)
 
 5. **Bei Nichtreaktion / Ablehnung:**
-   - Beschwerdeweg intern (Art. 17 II DSA: Donauzon muss Beschwerdemechanismus bereitstellen)
-   - Beschwerdeweg an nationalen Koordinator für digitale Dienste (Deutschland: Bundesnetzagentur)
-   - Klage auf Sperrverfügung nach § 14 V MarkenG iVm § 1004 BGB
+ - Beschwerdeweg intern (Art. 17 II DSA: Donauzon muss Beschwerdemechanismus bereitstellen)
+ - Beschwerdeweg an nationalen Koordinator für digitale Dienste (Deutschland: Bundesnetzagentur)
+ - Klage auf Sperrverfügung nach § 14 V MarkenG iVm § 1004 BGB
 
 ### Schritt 3: Gerichtliche Durchsetzung
 
 6. **Sperrverfügung gegen Donauzon:**
-   - Antrag auf einstweilige Verfügung gegen Donauzon (LG Hamburg oder LG München I — Wahlrecht des Klägers)
-   - Anspruchsgrundlage: § 14 V MarkenG (Unterlassung) nach Kenntnis und Nichthandeln
-   - Störerhaftung nach BGH mySpace: Donauzon haftet als Störer, wenn nach konkretem Hinweis auf Verletzung keine Maßnahmen ergriffen wurden
+ - Antrag auf einstweilige Verfügung gegen Donauzon (LG Hamburg oder LG München I — Wahlrecht des Klägers)
+ - Anspruchsgrundlage: § 14 V MarkenG (Unterlassung) nach Kenntnis und Nichthandeln
+ - Störerhaftung nach BGH mySpace: Donauzon haftet als Störer, wenn nach konkretem Hinweis auf Verletzung keine Maßnahmen ergriffen wurden
 
 7. **Proaktive Prüfpflichten:**
-   - Nach BGH mySpace: Einmalige konsequente Kontrolle nach Hinweis; Filter für bekannte Verletzungszeichen
-   - Antrag: Donauzon soll "klotzzkette" und "klôtzzkètté" aus Produkttiteln herausfiltern und zugehörige Anbieter verifizieren
+ - Nach BGH mySpace: Einmalige konsequente Kontrolle nach Hinweis; Filter für bekannte Verletzungszeichen
+ - Antrag: Donauzon soll "klotzzkette" und "klôtzzkètté" aus Produkttiteln herausfiltern und zugehörige Anbieter verifizieren
 
 ## Falltypische Konstellationen
 
@@ -383,26 +383,26 @@ Die Positionsmarke ist in Art. 3 I lit. f der Durchführungsverordnung (EU) 2018
 ## Prüfungsschritte
 
 1. **Definition der Marke:**
-   - Welches Zeichen (Streifen, Farbe, Muster, Form-Element) soll geschützt werden?
-   - An welcher genauen Position auf dem Produkt?
-   - In welchen Proportionen (Breite, Länge, Winkel)?
+ - Welches Zeichen (Streifen, Farbe, Muster, Form-Element) soll geschützt werden?
+ - An welcher genauen Position auf dem Produkt?
+ - In welchen Proportionen (Breite, Länge, Winkel)?
 
 2. **Darstellung der Positionsmarke:**
-   - Produktabbildung mit dem Zeichen in der schutzrelevanten Position
-   - Gestrichelte Linien für nicht-markenmäßige Teile des Produkts (EUIPO-Standard)
-   - Pflicht-Beschreibung der Position und des Musters im Beschreibungsfeld
+ - Produktabbildung mit dem Zeichen in der schutzrelevanten Position
+ - Gestrichelte Linien für nicht-markenmäßige Teile des Produkts (EUIPO-Standard)
+ - Pflicht-Beschreibung der Position und des Musters im Beschreibungsfeld
 
 3. **Unterscheidungskraft:**
-   - Positionsmarken haben typischerweise keine inhärente Unterscheidungskraft
-   - Ausnahme: sehr charakteristische Gestaltung (Louboutin-Rot = erkennbar auf dem ersten Blick)
-   - Regel: Verkehrsdurchsetzung erforderlich (§ 8 III MarkenG / Art. 7 III UMV)
+ - Positionsmarken haben typischerweise keine inhärente Unterscheidungskraft
+ - Ausnahme: sehr charakteristische Gestaltung (Louboutin-Rot = erkennbar auf dem ersten Blick)
+ - Regel: Verkehrsdurchsetzung erforderlich (§ 8 III MarkenG / Art. 7 III UMV)
 
 4. **Verkehrsdurchsetzungsnachweis:**
-   - Marktanteil: mind. 40 % der beteiligten Verkehrskreise erkennen das Zeichen als Herkunftshinweis
-   - Werbeaufwand letzte 5 Jahre (Euro-Beträge)
-   - Medienberichte, Fachpresse, Social Media
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   - Umsatzzahlen
+ - Marktanteil: mind. 40 % der beteiligten Verkehrskreise erkennen das Zeichen als Herkunftshinweis
+ - Werbeaufwand letzte 5 Jahre (Euro-Beträge)
+ - Medienberichte, Fachpresse, Social Media
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Umsatzzahlen
 
 5. **Warenverzeichnis:** Präzise Warenbeschreibung, da Positionsmarke an konkrete Produktkategorie gebunden
 

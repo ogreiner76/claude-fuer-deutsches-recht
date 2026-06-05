@@ -1,13 +1,13 @@
 ---
 name: beschlusssammlung-protokoll-beschlussvorlagen
-description: "Nutze dies, wenn Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung im Plugin Weg Hausverwaltung konkret bearbeitet werden soll. Auslöser: Bitte Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung prüfen.; Erstelle eine Arbeitsfassung zu Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -257,7 +257,7 @@ Die Hausverwaltung soll zwei Welten auseinanderhalten:
 
 Eine WEG-Einzelabrechnung ist kein fertiger Mieternebenkostenbescheid. Sie ist Rohmaterial.
 
-## Kaltstart
+## Einstieg
 
 1. Wer fragt: WEG-Verwalter, vermietender Eigentümer, Mieter, Anwalt?
 2. Geht es um Erstellung, Prüfung, Datenanforderung oder Streit?

@@ -1,23 +1,23 @@
 ---
 name: hr-gewalt-drohung-paket-dashboard-ceo-mail-an
-description: "Nutze dies, wenn Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm, Hr Monatsabschluss Quality Gate im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm, Hr Monatsabschluss Quality Gate prüfen.; Erstelle eine Arbeitsfassung zu Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm, Hr Monatsabschluss Quality Gate.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm, Hr Monatsabschluss Quality Gate
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Briefing, Hr Mail An Mitarbeiter Konfliktarm, Hr Monatsabschluss Quality Gate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `gewalt-drohung-hausverbot` | Berliner Start-up-HR: Drohung, Gewalt, Hausverbot und Sicherheitslage: Sofortmaßnahmen, Polizei, Kündigung, Datenschutz und Teamkommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `hr-abschlussprodukt-paket` | Berliner Start-up-HR: Abschlussprodukt-Paket: Memo, Matrix, Briefing, Mustertext, To-do-Liste und Datenschutzvermerk für HR-Fälle. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `hr-dashboard-ceo-briefing` | Berliner Start-up-HR: Geschäftsführungs-Briefing: Headcount, offene Verträge, Probezeiten, Gehaltsläufe, Risiken, Eskalationen und To-dos ohne unzulässige Details. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `hr-mail-an-mitarbeiter-konfliktarm` | Berliner Start-up-HR: HR-Mail an Beschäftigte: freundlich, klar, rechtlich vorsichtig, keine Drohung, keine unnötigen Daten. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `hr-monatsabschluss-quality-gate` | Berliner Start-up-HR: HR-Monatsabschluss: offene Probezeiten, Befristungen, Visa, Fehlzeiten, Payroll, Vorfälle, Verträge und Risiken. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `gewalt-drohung-hausverbot` | Berliner Start-up-HR: Drohung, Gewalt, Hausverbot und Sicherheitslage: Sofortmaßnahmen, Polizei, Kündigung, Datenschutz und Teamkommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `hr-abschlussprodukt-paket` | Berliner Start-up-HR: Abschlussprodukt-Paket: Memo, Matrix, Briefing, Mustertext, To-do-Liste und Datenschutzvermerk für HR-Fälle. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `hr-dashboard-ceo-briefing` | Berliner Start-up-HR: Geschäftsführungs-Briefing: Headcount, offene Verträge, Probezeiten, Gehaltsläufe, Risiken, Eskalationen und To-dos ohne unzulässige Details. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `hr-mail-an-mitarbeiter-konfliktarm` | Berliner Start-up-HR: HR-Mail an Beschäftigte: freundlich, klar, rechtlich vorsichtig, keine Drohung, keine unnötigen Daten. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `hr-monatsabschluss-quality-gate` | Berliner Start-up-HR: HR-Monatsabschluss: offene Probezeiten, Befristungen, Visa, Fehlzeiten, Payroll, Vorfälle, Verträge und Risiken. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Gewalt Drohung Hausverbot, Hr Abschlussprodukt Paket, Hr Dashboard Ceo Br
 
 ## 1. `gewalt-drohung-hausverbot`
 
-**Fokus:** Berliner Start-up-HR: Drohung, Gewalt, Hausverbot und Sicherheitslage: Sofortmaßnahmen, Polizei, Kündigung, Datenschutz und Teamkommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Drohung, Gewalt, Hausverbot und Sicherheitslage: Sofortmaßnahmen, Polizei, Kündigung, Datenschutz und Teamkommunikation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Gewalt Drohung Hausverbot
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Vorfälle
 **Fokus:** Drohung, Gewalt, Hausverbot und Sicherheitslage: Sofortmaßnahmen, Polizei, Kündigung, Datenschutz und Teamkommunikation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `hr-abschlussprodukt-paket`
 
-**Fokus:** Berliner Start-up-HR: Abschlussprodukt-Paket: Memo, Matrix, Briefing, Mustertext, To-do-Liste und Datenschutzvermerk für HR-Fälle. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Abschlussprodukt-Paket: Memo, Matrix, Briefing, Mustertext, To-do-Liste und Datenschutzvermerk für HR-Fälle. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # HR Abschlussprodukt Paket
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Governance
 **Fokus:** Abschlussprodukt-Paket: Memo, Matrix, Briefing, Mustertext, To-do-Liste und Datenschutzvermerk für HR-Fälle.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `hr-dashboard-ceo-briefing`
 
-**Fokus:** Berliner Start-up-HR: Geschäftsführungs-Briefing: Headcount, offene Verträge, Probezeiten, Gehaltsläufe, Risiken, Eskalationen und To-dos ohne unzulässige Details. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Geschäftsführungs-Briefing: Headcount, offene Verträge, Probezeiten, Gehaltsläufe, Risiken, Eskalationen und To-dos ohne unzulässige Details. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # HR Dashboard CEO Briefing
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Kaltstart
 **Fokus:** Geschäftsführungs-Briefing: Headcount, offene Verträge, Probezeiten, Gehaltsläufe, Risiken, Eskalationen und To-dos ohne unzulässige Details.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `hr-mail-an-mitarbeiter-konfliktarm`
 
-**Fokus:** Berliner Start-up-HR: HR-Mail an Beschäftigte: freundlich, klar, rechtlich vorsichtig, keine Drohung, keine unnötigen Daten. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: HR-Mail an Beschäftigte: freundlich, klar, rechtlich vorsichtig, keine Drohung, keine unnötigen Daten. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # HR Mail An Mitarbeiter Konfliktarm
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Kommunikation
 **Fokus:** HR-Mail an Beschäftigte: freundlich, klar, rechtlich vorsichtig, keine Drohung, keine unnötigen Daten.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `hr-monatsabschluss-quality-gate`
 
-**Fokus:** Berliner Start-up-HR: HR-Monatsabschluss: offene Probezeiten, Befristungen, Visa, Fehlzeiten, Payroll, Vorfälle, Verträge und Risiken. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: HR-Monatsabschluss: offene Probezeiten, Befristungen, Visa, Fehlzeiten, Payroll, Vorfälle, Verträge und Risiken. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # HR Monatsabschluss Quality Gate
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Governance
 **Fokus:** HR-Monatsabschluss: offene Probezeiten, Befristungen, Visa, Fehlzeiten, Payroll, Vorfälle, Verträge und Risiken.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

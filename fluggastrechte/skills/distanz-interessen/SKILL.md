@@ -1,12 +1,12 @@
 ---
 name: distanz-interessen
-description: "Nutze dies, wenn Distanz: Mehrparteienkonflikt und Interessenmatrix im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Distanz: Mehrparteienkonflikt und Interessenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Distanz: Mehrparteienkonflikt und Interessenmatrix.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Distanz: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Distanz: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Distanz: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Distanz: Mehrparteienkonflikt und Interessenmatrix / spezial distanz mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Distanz: Mehrparteienkonflikt und Interessenmatrix / distanz mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

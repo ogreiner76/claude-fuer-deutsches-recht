@@ -1,13 +1,13 @@
 ---
 name: agile-scrum-audit-klauseln-on-prem
-description: "Nutze dies, wenn Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag, Rechtsabteilung Data Act Und Cloud Switching Klauseln im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag, Rechtsabteilung Data Act Und Cloud Switching Klauseln prüfen.; Erstelle eine Arbeitsfassung zu Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag, Rechtsabteilung Data Act Und Cloud Switching Klauseln.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag, Rechtsabteilung Data Act Und Cloud Switching Klauseln: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag, Rechtsabteilung Data Act Und Cloud Switching Klauseln
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Agile Scrum Vertrag, Audit Klauseln Lizenz, On Prem Lizenzvertrag, Rechtsabteilung Data Act Und Cloud Switching Klauseln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,7 +16,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `agile-scrum-vertrag` | Gestaltet agile Softwareverträge mit Backlog, Sprints, Product Owner, Budget, Abnahme und Scope-Kontrolle. |
 | `audit-klauseln-lizenz` | Prüft Audit-Rechte, Nachlizenzierung, Vertraulichkeit, Datenschutz, Kosten und Missbrauchsschutz. |
 | `on-prem-lizenzvertrag` | Prüft klassische On-Prem-Lizenzen, Installation, Nutzungsumfang, Wartung, Audit, Updates und Virtualisierung. |
-| `rechtsabteilung-data-act-und-cloud-switching-klauseln` | Rechtsabteilungs-Spezialskill für Data Act und Cloud-Switching-Klauseln: Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-data-act-und-cloud-switching-klauseln` | Rechtsabteilungs-Fachmodul für Data Act und Cloud-Switching-Klauseln: Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -197,7 +197,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `rechtsabteilung-data-act-und-cloud-switching-klauseln`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Data Act und Cloud-Switching-Klauseln: Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Data Act und Cloud-Switching-Klauseln: Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Data Act und Cloud-Switching-Klauseln
 

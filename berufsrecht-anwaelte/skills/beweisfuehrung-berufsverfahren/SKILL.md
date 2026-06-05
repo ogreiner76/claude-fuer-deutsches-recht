@@ -1,13 +1,13 @@
 ---
 name: beweisfuehrung-berufsverfahren
-description: "Nutze dies, wenn Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbil..."
+description: "Nutze dies bei Anwaelte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwaelte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwaelte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwaelte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Beweisfuehrung Im Berufsverfahren Kaltstart Und Fakten, Anwälte Datenschutzpanne In Der Kanzlei Kaltstart Und Faktenma, Anwälte Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F, Anwälte Fachanwaltstitel Und Fortbildung Kaltstart Und Faktenm, Anwälte Fremdgeld Und Anderkonto Kaltstart Und Faktenmatrix** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kreditwuerdigkeits-ki-schufa
-description: "Rechtsabteilungs-Spezialskill für Kreditwürdigkeits-KI nach Schufa-Linie: Scoring wird zugleich nach AI Act, DSGVO und Bankaufsicht eingeordnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für Kreditwürdigkeits-KI nach Schufa-Linie: Scoring wird zugleich nach AI Act, DSGVO und Bankaufsicht eingeordnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
 ---
 
 # Rechtsabteilung: Kreditwürdigkeits-KI nach Schufa-Linie

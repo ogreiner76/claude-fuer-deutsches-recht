@@ -1,13 +1,13 @@
 ---
 name: avv-haftung-datenschutz-schadensersatz-dsfa
-description: "Nutze dies, wenn Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83 im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83 prüfen.; Erstelle eine Arbeitsfassung zu Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Avv Haftung Risikoallokation Art 82 Dsgvo, Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit, Dsfa Risikoanalyse Eintrittswahrscheinlichkeit Schaden, Dsr Schadensersatz Art82 Spezial, Dsv Bussgeldverteidigung Art 83** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -56,28 +56,28 @@ Verteilung der DSGVO-Haftungsrisiken zwischen Verantwortlichem und Auftragsverar
 ## Ablauf / Checkliste
 
 1. **Aussenhaftung mappen.**
-   - Wer ist gegenueber Betroffenen Anspruchsgegner? Verantwortlicher allein, Auftragsverarbeiter, beide?
-   - Gesamtschuld nach Art. 82 Abs. 4 DSGVO bei gemeinsamer Beteiligung am Verarbeitungsvorgang.
+ - Wer ist gegenueber Betroffenen Anspruchsgegner? Verantwortlicher allein, Auftragsverarbeiter, beide?
+ - Gesamtschuld nach Art. 82 Abs. 4 DSGVO bei gemeinsamer Beteiligung am Verarbeitungsvorgang.
 
 2. **Innenregress regeln.**
-   - Mass nach Art. 82 Abs. 5 DSGVO: anteilige Verantwortung.
-   - Beweislast: jede Partei muss ihren Pflichtenkreis dokumentieren.
-   - Vertragliche Vereinbarung darf den gesetzlichen Innenregress nicht ausschliessen, aber konkretisieren (Pauschalierung, Schadensobergrenzen).
+ - Mass nach Art. 82 Abs. 5 DSGVO: anteilige Verantwortung.
+ - Beweislast: jede Partei muss ihren Pflichtenkreis dokumentieren.
+ - Vertragliche Vereinbarung darf den gesetzlichen Innenregress nicht ausschliessen, aber konkretisieren (Pauschalierung, Schadensobergrenzen).
 
 3. **Cap-Diskussion.**
-   - Aussenhaftung kann nicht durch Vertrag zwischen Verantwortlichem und Auftragsverarbeiter zu Lasten des Betroffenen begrenzt werden.
-   - Innenregress-Cap zulaessig, soweit nicht gegen § 307 BGB (AGB), Vorsatz und grobe Fahrlaessigkeit nicht ausschliessbar.
-   - Branchenuebliche Caps: 12-Monats-Honorar, oft mit Sub-Cap fuer Datenschutzverletzungen.
+ - Aussenhaftung kann nicht durch Vertrag zwischen Verantwortlichem und Auftragsverarbeiter zu Lasten des Betroffenen begrenzt werden.
+ - Innenregress-Cap zulaessig, soweit nicht gegen § 307 BGB (AGB), Vorsatz und grobe Fahrlaessigkeit nicht ausschliessbar.
+ - Branchenuebliche Caps: 12-Monats-Honorar, oft mit Sub-Cap fuer Datenschutzverletzungen.
 
 4. **Versicherung.**
-   - Cyber-Versicherung des Auftragsverarbeiters: Deckungssumme, Selbstbehalt, Geltungsbereich.
-   - Pflicht zur Vorlage des Versicherungsnachweises (Versicherungsbestaetigung).
-   - DSGVO-Bussgelder regelmaessig versicherungsausschluss.
+ - Cyber-Versicherung des Auftragsverarbeiters: Deckungssumme, Selbstbehalt, Geltungsbereich.
+ - Pflicht zur Vorlage des Versicherungsnachweises (Versicherungsbestaetigung).
+ - DSGVO-Bussgelder regelmaessig versicherungsausschluss.
 
 5. **Sub-AV-Kette.**
-   - Haftung in der Kette wird durch Art. 28 Abs. 4 DSGVO durchgereicht.
-   - Primaerer Auftragsverarbeiter haftet weiter fuer Sub-AV.
-   - Regress des primaeren Auftragsverarbeiters gegen Sub-AV vertraglich zu sichern.
+ - Haftung in der Kette wird durch Art. 28 Abs. 4 DSGVO durchgereicht.
+ - Primaerer Auftragsverarbeiter haftet weiter fuer Sub-AV.
+ - Regress des primaeren Auftragsverarbeiters gegen Sub-AV vertraglich zu sichern.
 
 ## Mustertext / Template
 
@@ -281,14 +281,14 @@ Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGV
 1. **Verarbeitungsbeschreibung.** Datenfluss, Datenarten, Empfaenger, Aufbewahrung, Technologie — als Grundlage fuer die Bedrohungsanalyse.
 2. **Verhaeltnismaessigkeitspruefung.** Welche Schutzziele sind beruehrt (Vertraulichkeit, Integritaet, Verfuegbarkeit, Transparenz, Intervenierbarkeit, Nicht-Verkettung, Datenminimierung)?
 3. **Risikoanalyse.** Pro Schutzziel Bedrohungsszenarien definieren:
-   - Vertraulichkeit: unbefugter Zugriff, Datenleck, Insider-Zugriff
-   - Integritaet: unbemerkte Aenderung, Manipulation
-   - Verfuegbarkeit: Ausfall, Loeschung, Ransomware
-   - Transparenz: verdeckte Verarbeitung, fehlende Information
-   - Intervenierbarkeit: Loeschungs- oder Berichtigungssperre
-   - Nicht-Verkettung: ungewollte Zusammenfuehrung
-   - Datenminimierung: ueber Zweck hinausreichende Speicherung
-   Pro Szenario: Eintrittswahrscheinlichkeit (gering/mittel/hoch) und Schadenschwere fuer Betroffene (gering/mittel/hoch). Verknuepfung zur Risikostufe nach Matrix.
+ - Vertraulichkeit: unbefugter Zugriff, Datenleck, Insider-Zugriff
+ - Integritaet: unbemerkte Aenderung, Manipulation
+ - Verfuegbarkeit: Ausfall, Loeschung, Ransomware
+ - Transparenz: verdeckte Verarbeitung, fehlende Information
+ - Intervenierbarkeit: Loeschungs- oder Berichtigungssperre
+ - Nicht-Verkettung: ungewollte Zusammenfuehrung
+ - Datenminimierung: ueber Zweck hinausreichende Speicherung
+ Pro Szenario: Eintrittswahrscheinlichkeit (gering/mittel/hoch) und Schadenschwere fuer Betroffene (gering/mittel/hoch). Verknuepfung zur Risikostufe nach Matrix.
 4. **Massnahmen.** Wirkung der geplanten Massnahmen auf Wahrscheinlichkeit und Schwere; Pruefung ob die Risikostufe sinkt.
 5. **Restrisiko.** Risikostufe nach Massnahmen, dokumentiert pro Szenario. Wenn hoch verbleibend, Vorab-Konsultation nach Art. 36.
 6. **Konsultation / Genehmigung.** DSB-Stellungnahme; Risikomatrix in die DSFA als zentrales Steuerungsdokument einbetten.
@@ -296,12 +296,12 @@ Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGV
 ## Bewertungsmatrix (3x3)
 
 ```
-                  Schadenschwere
-                  gering    mittel    hoch
+ Schadenschwere
+ gering mittel hoch
 Wahrscheinlichkeit
-  hoch            GELB      ORANGE    ROT
-  mittel          GRUEN     GELB      ORANGE
-  gering          GRUEN     GRUEN     GELB
+ hoch GELB ORANGE ROT
+ mittel GRUEN GELB ORANGE
+ gering GRUEN GRUEN GELB
 ```
 
 - GRUEN — Risiko niedrig, dokumentieren
@@ -318,14 +318,14 @@ Verarbeitung: [BEZEICHNUNG]
 Verantwortlicher: [NAME]
 Methode: 3x3 Eintrittswahrscheinlichkeit x Schadenschwere
 
-Szenario                          | W | S | Risiko vor | Massnahme | W' | S' | Risiko nach
-1 Unbefugter Zugriff              | h | h | ROT        | [...]     | g  | h  | GELB
-2 Unbemerkte Datenmanipulation    | m | h | ORANGE     | [...]     | g  | m  | GRUEN
-3 Datenverlust durch Ausfall      | m | m | GELB       | [...]     | g  | m  | GRUEN
-4 Verdeckte Profilbildung         | h | h | ROT        | [...]     | m  | h  | ORANGE
-5 Loeschungssperre                | g | m | GRUEN      | [...]     | g  | m  | GRUEN
-6 Ungewollte Zusammenfuehrung     | m | h | ORANGE     | [...]     | g  | m  | GRUEN
-7 Ueberspeicherung                | h | g | GELB       | [...]     | g  | g  | GRUEN
+Szenario | W | S | Risiko vor | Massnahme | W' | S' | Risiko nach
+1 Unbefugter Zugriff | h | h | ROT | [...] | g | h | GELB
+2 Unbemerkte Datenmanipulation | m | h | ORANGE | [...] | g | m | GRUEN
+3 Datenverlust durch Ausfall | m | m | GELB | [...] | g | m | GRUEN
+4 Verdeckte Profilbildung | h | h | ROT | [...] | m | h | ORANGE
+5 Loeschungssperre | g | m | GRUEN | [...] | g | m | GRUEN
+6 Ungewollte Zusammenfuehrung | m | h | ORANGE | [...] | g | m | GRUEN
+7 Ueberspeicherung | h | g | GELB | [...] | g | g | GRUEN
 
 Begruendung Wahrscheinlichkeit: [Bedrohungsmodell, Erfahrungswerte, Statistik]
 Begruendung Schadenschwere: [Erwaegungsgrund 75 DSGVO, Schutzbeduerftigkeit]

@@ -1,12 +1,12 @@
 ---
 name: antraege
-description: "Nutze dies, wenn Antraege: Zahlen, Schwellenwerte und Berechnung im Plugin Dfg Foerderantrag konkret bearbeitet werden soll. Auslöser: Bitte Antraege: Zahlen, Schwellenwerte und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Antraege: Zahlen, Schwellenwerte und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Antraege: Zahlen, Schwellenwerte und Berechnung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Antraege: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Antraege: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Antraege: Zahlen, Schwellenwerte und Berechnung / spezial antraege zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Antraege: Zahlen, Schwellenwerte und Berechnung / antraege zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFG, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

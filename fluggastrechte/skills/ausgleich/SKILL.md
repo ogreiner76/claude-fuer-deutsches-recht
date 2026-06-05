@@ -1,12 +1,12 @@
 ---
 name: ausgleich
-description: "Nutze dies, wenn Ausgleich: Internationaler Bezug und Schnittstellen im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Ausgleich: Internationaler Bezug und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Ausgleich: Internationaler Bezug und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ausgleich: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Ausgleich: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Ausgleich: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Ausgleich: Internationaler Bezug und Schnittstellen / spezial ausgleich internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ausgleich: Internationaler Bezug und Schnittstellen / ausgleich internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

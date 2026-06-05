@@ -1,20 +1,20 @@
 ---
 name: evaluation-jahresbericht-fallzahlen
-description: "Nutze dies, wenn Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten prüfen.; Erstelle eine Arbeitsfassung zu Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-evaluation-und-jahresbericht` | Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen fuer Jahresberichts-Bezugnahmen und ex-post-Evaluierungsempfehlungen in einzelnen Stellungnahmen. |
-| `nkr-fallzahlen-schaetzung-bandbreiten` | Methodischer Spezial-Skill fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme. |
+| `nkr-fallzahlen-schaetzung-bandbreiten` | Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme. |
 
 ## Arbeitsweg
 
@@ -56,10 +56,10 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 
 1. **Stoffsammlung** ueber das Berichtsjahr
 2. **Aggregierte Auswertung**:
-   - Anzahl Stellungnahmen
-   - Anteil kritischer Stellungnahmen
-   - Erfuellungsaufwand-Saldo (One-in-one-out-Bilanz)
-   - Auffaellige Trends
+ - Anzahl Stellungnahmen
+ - Anteil kritischer Stellungnahmen
+ - Erfuellungsaufwand-Saldo (One-in-one-out-Bilanz)
+ - Auffaellige Trends
 3. **Themenschwerpunkte** identifizieren (z.B. Digitalisierung, EU-Umsetzung)
 4. **Empfehlungen** an Bundesregierung und Bundestag
 5. **Veroeffentlichung** und Pressearbeit
@@ -69,17 +69,17 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 1. **Evaluierungspflicht** pruefen (Konzept der Bundesregierung)
 2. **Zeitpunkt**: regelmaessig 3-5 Jahre nach Inkrafttreten
 3. **Indikatoren**:
-   - Fallzahlen
-   - Tatsaechlicher Erfuellungsaufwand vs. Schaetzung
-   - Zielereichung
-   - Unbeabsichtigte Folgen
+ - Fallzahlen
+ - Tatsaechlicher Erfuellungsaufwand vs. Schaetzung
+ - Zielereichung
+ - Unbeabsichtigte Folgen
 4. **Vergleichswerte**:
-   - Soll-Werte aus Begruendung
-   - Vorperiode
+ - Soll-Werte aus Begruendung
+ - Vorperiode
 5. **Folgen**:
-   - Korrektur
-   - Aufhebung
-   - Unveraendert
+ - Korrektur
+ - Aufhebung
+ - Unveraendert
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
@@ -138,7 +138,7 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 
 ## 2. `nkr-fallzahlen-schaetzung-bandbreiten`
 
-**Fokus:** Methodischer Spezial-Skill fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme.
+**Fokus:** Methodischer Fachmodul fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme.
 
 # NKR-Fallzahlen — Schaetzung und Bandbreiten
 
@@ -166,9 +166,9 @@ Rueckfrage nur wenn unklar: *"Was ist Ihre beste Annaeherung — und in welcher 
 1. **Statistikrecherche** vollstaendig dokumentieren (auch wenn keine Treffer)
 2. **Hilfsdaten** identifizieren: vergleichbare Pflichten, Branchenkennzahlen, Erfahrungswerte
 3. **Bandbreite** bestimmen:
-   - **Untergrenze** (konservative Annahme, eher zu wenig Faelle)
-   - **Punktschaetzung** (realistische Mittel-Annahme)
-   - **Obergrenze** (vorsichtige Annahme, eher zu viele Faelle)
+ - **Untergrenze** (konservative Annahme, eher zu wenig Faelle)
+ - **Punktschaetzung** (realistische Mittel-Annahme)
+ - **Obergrenze** (vorsichtige Annahme, eher zu viele Faelle)
 4. **Sensitivitaetsanalyse**: Auswirkung auf Erfuellungsaufwand bei Min / Max
 5. **Begruendung** offenlegen: woher kommt jede Annahme?
 6. **Aktualisierung**: Empfehlung an Ressort, nach Inkrafttreten zu evaluieren

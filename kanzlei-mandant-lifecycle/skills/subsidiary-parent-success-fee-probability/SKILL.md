@@ -1,13 +1,13 @@
 ---
 name: subsidiary-parent-success-fee-probability
-description: "Nutze dies, wenn Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance, Termination Of Mandate im Plugin Kanzlei Mandant Lifecycle konkret bearbeitet werden soll. Auslöser: Bitte Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance, Termination Of Mandate prüfen.; Erstelle eine Arbeitsfassung zu Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance, Termination Of Mandate.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance, Termination Of Mandate
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance, Termination Of Mandate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

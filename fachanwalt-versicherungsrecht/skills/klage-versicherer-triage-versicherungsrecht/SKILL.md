@@ -1,13 +1,13 @@
 ---
 name: klage-versicherer-triage-versicherungsrecht
-description: "Nutze dies, wenn Klage Versicherer Strategie, Mandat Triage Versicherungsrecht, Schriftsatzkern Substantiierung im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Klage Versicherer Strategie, Mandat Triage Versicherungsrecht, Schriftsatzkern Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Klage Versicherer Strategie, Mandat Triage Versicherungsrecht, Schriftsatzkern Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klage Versicherer Strategie, Mandat Triage Versicherungsrecht, Schriftsatzkern Substantiierung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klage Versicherer Strategie, Mandat Triage Versicherungsrecht, Schriftsatzkern Substantiierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klage Versicherer Strategie, Mandat Triage Versicherungsrecht, Schriftsatzkern Substantiierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -73,7 +73,7 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 ## Prüfschema in Tabellenform
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
@@ -117,13 +117,13 @@ An das [Amtsgericht / Landgericht] [Ort]
 KLAGESCHRIFT
 
 [Vorname Nachname], [Adresse]
-                                              — Kläger —
+ — Kläger —
 Prozessbevollmächtigte: Rechtsanwältinnen/Rechtsanwälte [Kanzlei]
 
 gegen
 
 [Versicherungs-AG], vertreten durch den Vorstand
-                                              — Beklagte —
+ — Beklagte —
 
 wegen Versicherungsleistung (Hausrat/Gebäude/[Sparte])
 Streitwert: EUR ____
@@ -131,18 +131,18 @@ Streitwert: EUR ____
 I. ANTRÄGE
 
 1. Die Beklagte wird verurteilt, an den Kläger EUR [Hauptforderung]
-   nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz
-   seit [Datum Verzugseinritt] zu zahlen.
+ nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz
+ seit [Datum Verzugseinritt] zu zahlen.
 
 2. Die Beklagte wird verurteilt, an den Kläger vorgerichtliche
-   Anwaltskosten in Höhe von EUR [Betrag] (1,3 Geschäftsgebühr
-   Nr. 2300 VV RVG aus EUR [Gegenstandswert] + USt + Auslagen)
-   zu zahlen.
+ Anwaltskosten in Höhe von EUR [Betrag] (1,3 Geschäftsgebühr
+ Nr. 2300 VV RVG aus EUR [Gegenstandswert] + USt + Auslagen)
+ zu zahlen.
 
 3. Die Kosten des Rechtsstreits trägt die Beklagte.
 
 4. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 %
-   des zu vollstreckenden Betrags vorläufig vollstreckbar.
+ des zu vollstreckenden Betrags vorläufig vollstreckbar.
 
 II. SACHVERHALT
 
@@ -160,16 +160,16 @@ Anlage K3, ab.
 III. RECHTLICHE WÜRDIGUNG
 
 1. Versicherungsfall liegt vor (vgl. § [X AVB])
-   [Subsumtion]
+ [Subsumtion]
 
 2. Ablehnungsgrund trägt nicht
-   [Obliegenheitsverletzung fehlt / Risikoausschluss unwirksam /
-    Kausalität fehlt § 28 Abs. 3 VVG]
-   BGH-Rechtsprechung zu Transparenzgebot (§ 307 Abs. 1 S. 2 BGB).
+ [Obliegenheitsverletzung fehlt / Risikoausschluss unwirksam /
+ Kausalität fehlt § 28 Abs. 3 VVG]
+ BGH-Rechtsprechung zu Transparenzgebot (§ 307 Abs. 1 S. 2 BGB).
 
 3. Fälligkeit und Verzug
-   Der Anspruch ist gemäß § 14 VVG fällig. Verzug trat am
-   [Datum] ein (Ablauf der Frist aus Anwaltsschreiben Anlage K4).
+ Der Anspruch ist gemäß § 14 VVG fällig. Verzug trat am
+ [Datum] ein (Ablauf der Frist aus Anwaltsschreiben Anlage K4).
 
 IV. BEWEISANGEBOTE
 
@@ -177,7 +177,7 @@ IV. BEWEISANGEBOTE
 - Anlage K2: Versicherungsschein mit AVB
 - Anlage K3: Ablehnungsschreiben
 - Sachverständigengutachten zum Nachweis des Schadens:
-  Sachverständiger [Name] oder gerichtlich zu bestellen
+ Sachverständiger [Name] oder gerichtlich zu bestellen
 - Zeuge: [Name, Anschrift, Beweisthema]
 
 [Rechtsanwälte]
@@ -189,15 +189,15 @@ IV. BEWEISANGEBOTE
 II. ANTRÄGE BU-VERSICHERUNG
 
 1. Es wird festgestellt, dass die Beklagte verpflichtet ist, dem
-   Kläger ab dem [Datum] aus dem Versicherungsvertrag (Police Nr.
-   [Nr.]) eine monatliche Berufsunfähigkeitsrente in Höhe von
-   EUR [X] sowie Beitragsbefreiung zu gewähren, solange Berufs-
-   unfähigkeit von mindestens 50 % im Beruf des Klägers als
-   [Berufsbezeichnung] besteht.
+ Kläger ab dem [Datum] aus dem Versicherungsvertrag (Police Nr.
+ [Nr.]) eine monatliche Berufsunfähigkeitsrente in Höhe von
+ EUR [X] sowie Beitragsbefreiung zu gewähren, solange Berufs-
+ unfähigkeit von mindestens 50 % im Beruf des Klägers als
+ [Berufsbezeichnung] besteht.
 
 2. Die Beklagte wird verurteilt, die aufgelaufenen Rückstände
-   für den Zeitraum [Beginn] bis [aktuell] in Höhe von EUR [X]
-   nebst Zinsen von 5 % über Basiszinssatz ab [Datum] zu zahlen.
+ für den Zeitraum [Beginn] bis [aktuell] in Höhe von EUR [X]
+ nebst Zinsen von 5 % über Basiszinssatz ab [Datum] zu zahlen.
 
 III. VERSICHERUNGSFALL BERUFSUNFÄHIGKEIT
 

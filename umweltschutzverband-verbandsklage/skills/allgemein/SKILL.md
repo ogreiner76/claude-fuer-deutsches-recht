@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Umweltschutzverband Verbandsklage: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Spezialskill-Routing und erste Ausgabe."
+description: "Umweltschutzverband Verbandsklage: Kaltstart, Aktenlandkarte, Rollenklärung, Fristen, Quellenprüfung, Fachmodul-Routing und erste Ausgabe."
 ---
 
 # Umweltschutzverband Verbandsklage - Allgemeiner Einstieg
 
 ## Aufgabe
 
-Führt in Umweltschutzverband Verbandsklage ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Spezialskills dieses Plugins vor.
+Führt in Umweltschutzverband Verbandsklage ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.
 
 ## Startfragen
 

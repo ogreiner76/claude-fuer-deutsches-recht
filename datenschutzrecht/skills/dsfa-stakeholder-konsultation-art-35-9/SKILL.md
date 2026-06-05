@@ -30,11 +30,11 @@ Pruefung und Strukturierung der Konsultation Betroffener oder ihrer Vertreter im
 2. **Verhaeltnismaessigkeitspruefung.** Ist eine Konsultation angemessen (Art. 35 Abs. 9 verlangt nur soweit angemessen)? Faktoren: Eingriffstiefe, Anzahl Betroffener, Erkennbarkeit der Verarbeitung, Existenz strukturierter Vertretung.
 3. **Risikoanalyse.** Risiken bei Konsultation: Geheimhaltungsinteressen, Wettbewerb, Sicherheitsrisiken. Risiken ohne Konsultation: Reputationsverlust, Aufsichtsanstoss, Akzeptanzproblem.
 4. **Massnahmen / Form der Konsultation.**
-   - Schriftliche Konsultation des Betriebsrats mit Beschreibung der Verarbeitung
-   - Umfrage unter Betroffenenstichprobe
-   - Workshop oder Diskussionsrunde
-   - Oeffentliche Anhoerung (oeffentliche Stellen)
-   - Verbaendekonsultation (Verbraucherzentralen, Datenschutzvereine)
+ - Schriftliche Konsultation des Betriebsrats mit Beschreibung der Verarbeitung
+ - Umfrage unter Betroffenenstichprobe
+ - Workshop oder Diskussionsrunde
+ - Oeffentliche Anhoerung (oeffentliche Stellen)
+ - Verbaendekonsultation (Verbraucherzentralen, Datenschutzvereine)
 5. **Restrisiko.** Bewertung des Konsultationsergebnisses und Eingang in die DSFA. Wenn Konsultation unterbleibt: Begruendung dokumentieren (Art. 35 Abs. 9 Halbsatz 2 — Schutzinteressen).
 6. **Konsultation / Genehmigung.** DSB einbinden; Ergebnis der Stakeholder-Konsultation explizit in der DSFA verarbeiten.
 

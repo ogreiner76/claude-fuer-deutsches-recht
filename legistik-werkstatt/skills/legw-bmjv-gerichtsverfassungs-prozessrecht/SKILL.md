@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Gerichtsverfassungs- und Prozessrecht
-Ressort:            BMJV
-Kernnormen:         GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.
-Akteure/Aufsicht:   BMJV; Bundesgerichte; Justizverwaltungen der Laender.
-EU/Voelkerrecht:    EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmjv; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Gerichtsverfassungs- und Prozessrecht
+Ressort: BMJV
+Kernnormen: GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.
+Akteure/Aufsicht: BMJV; Bundesgerichte; Justizverwaltungen der Laender.
+EU/Voelkerrecht: EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

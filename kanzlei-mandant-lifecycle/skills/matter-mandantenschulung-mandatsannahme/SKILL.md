@@ -1,13 +1,13 @@
 ---
 name: matter-mandantenschulung-mandatsannahme
-description: "Nutze dies, wenn Mandantenschulung, Mandatsannahme Conflict Gwg, Matter Closeout, Matter Intake Form Builder, Matter Taxonomy im Plugin Kanzlei Mandant Lifecycle konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Mandantenschulung, Mandatsannahme Conflict Gwg, Matter Closeout, Matter Intake Form Builder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mandantenschulung, Mandatsannahme Conflict Gwg, Matter Closeout, Matter Intake Form Builder, Matter Taxonomy
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenschulung, Mandatsannahme Conflict Gwg, Matter Closeout, Matter Intake Form Builder, Matter Taxonomy** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

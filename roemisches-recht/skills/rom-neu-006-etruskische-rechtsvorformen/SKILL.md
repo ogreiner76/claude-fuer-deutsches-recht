@@ -1,6 +1,6 @@
 ---
 name: rom-neu-006-etruskische-rechtsvorformen
-description: "Nutze dies, wenn Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht

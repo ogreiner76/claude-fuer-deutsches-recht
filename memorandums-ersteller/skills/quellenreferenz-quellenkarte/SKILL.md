@@ -1,6 +1,6 @@
 ---
 name: quellenreferenz-quellenkarte
-description: "Nutze dies, wenn Quellenreferenz Quellenkarte im Plugin Memorandums Ersteller konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Quellenreferenz Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Quellenreferenz Quellenkarte

@@ -1,13 +1,13 @@
 ---
 name: schutzrechts-fristennotiz-ip-klausel
-description: "Nutze dies, wenn Spezial Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Prüfung, Spezial Klausel Beweislast Und Darlegungslast im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Prüfung, Spezial Klausel Beweislast Und Darlegungslast prüfen.; Erstelle eine Arbeitsfassung zu Spezial Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Prüfung, Spezial Klausel Beweislast Und Darlegungslast.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Prüfung, Klausel Beweislast Und Darlegungslast: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Prüfung, Spezial Klausel Beweislast Und Darlegungslast
+# Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Prüfung, Klausel Beweislast Und Darlegungslast
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Prüfung, Klausel Beweislast Und Darlegungslast** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Prüfung, Spezial Klausel Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Prüfung, Klausel Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -83,11 +83,11 @@ Verletzungsprodukt/-dienstleistung: _______________
 ### Feld 5 – Vorhandene Unterlagen
 
 ```
-Vorhanden:          Fehlend:
-[ ] Schutzrechtsurkunde  [ ] Registerauszug
-[ ] Vollmacht           [ ] Eidesstattliche Versicherung
-[ ] Abmahnschreiben     [ ] Verletzungsbeleg
-[ ] Korrespondenz       [ ] Weitere Anlagen
+Vorhanden: Fehlend:
+[ ] Schutzrechtsurkunde [ ] Registerauszug
+[ ] Vollmacht [ ] Eidesstattliche Versicherung
+[ ] Abmahnschreiben [ ] Verletzungsbeleg
+[ ] Korrespondenz [ ] Weitere Anlagen
 ```
 
 ### Feld 6 – Verfahrensstand
@@ -106,19 +106,19 @@ Aktuelle Stufe:
 ### Feld 7 – Risikoampel
 
 ```
-Dringlichkeit:  [ ] Sofort handeln  [ ] Diese Woche  [ ] Keine Eile
-Schutzrecht:    [ ] Stark  [ ] Mittel  [ ] Schwach / Streitig
-Verletzung:     [ ] Eindeutig  [ ] Plausibel  [ ] Zweifelhaft
-Gesamtrisiko:   [ ] Grün  [ ] Gelb  [ ] Rot
+Dringlichkeit: [ ] Sofort handeln [ ] Diese Woche [ ] Keine Eile
+Schutzrecht: [ ] Stark [ ] Mittel [ ] Schwach / Streitig
+Verletzung: [ ] Eindeutig [ ] Plausibel [ ] Zweifelhaft
+Gesamtrisiko: [ ] Grün [ ] Gelb [ ] Rot
 ```
 
 ### Feld 8 – Nächster Schritt
 
 ```
-Was:  _______________
-Bis wann:  _______________
-Verantwortlich:  _______________
-Abhängig von:  _______________ (z.B. Mandantenentscheidung / fehlende Unterlagen)
+Was: _______________
+Bis wann: _______________
+Verantwortlich: _______________
+Abhängig von: _______________ (z.B. Mandantenentscheidung / fehlende Unterlagen)
 ```
 
 ### Feld 9 – Folge-Fristen
@@ -198,7 +198,7 @@ Bis wann: 15.04.2025 (Puffer von 2 Wochen vor Fristende)
 ## Anschluss-Skills
 
 - `spezial-fristen-abschlussprodukt-und-uebergabe` – Fristenmatrix vollständig
-- `workflow-fristen-und-risikoampel` – Workflow Fristen
+- `workflow-fristen-und-risikoampel` – Fristen
 - `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` – Mandanteninfo
 - `workflow-dokumentenintake` – Dokumentenerfassung
 
@@ -475,12 +475,12 @@ Mandatsbezug: Anwalt fragt: Muss ich beweisen, dass der Beklagte das Patent verl
 
 - Grundsatz im deutschen Zivilprozessrecht: **Wer eine Tatsache für sich in Anspruch nimmt, trägt die Beweislast** (actori incumbit probatio).
 - IP-Kläger trägt Beweislast für:
-  1. Schutzrecht (Existenz, Inhaberschaft, Gültigkeit).
-  2. Verletzungshandlung (Tatbestand, Zurechnung).
-  3. Schaden (bei Schadensersatzklage).
+ 1. Schutzrecht (Existenz, Inhaberschaft, Gültigkeit).
+ 2. Verletzungshandlung (Tatbestand, Zurechnung).
+ 3. Schaden (bei Schadensersatzklage).
 - Beklagter trägt Beweislast für:
-  1. Rechtfertigungsgründe (Erschöpfung, Lizenz, Vorbenutzungsrecht).
-  2. Nichtverschulden (nur bei § 10 GeschGehG).
+ 1. Rechtfertigungsgründe (Erschöpfung, Lizenz, Vorbenutzungsrecht).
+ 2. Nichtverschulden (nur bei § 10 GeschGehG).
 
 ## Beweislast nach Rechtsgebieten
 

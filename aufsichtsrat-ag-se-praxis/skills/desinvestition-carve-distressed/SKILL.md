@@ -1,22 +1,22 @@
 ---
 name: desinvestition-carve-distressed
-description: "Nutze dies, wenn Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste prüfen.; Erstelle eine Arbeitsfassung zu Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `desinvestition-carve-out` | AG/SE-Aufsichtsrat Praxis: Desinvestition Carve Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `distressed-und-insolvenznaehe` | AG/SE-Aufsichtsrat Praxis: Distressed Und Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `dokumentationsstandard` | AG/SE-Aufsichtsrat Praxis: Dokumentationsstandard; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `dokumentenliste` | AG/SE-Aufsichtsrat Praxis: Dokumentenliste; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `desinvestition-carve-out` | AG/SE-Aufsichtsrat Praxis: Desinvestition Carve Out; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `distressed-und-insolvenznaehe` | AG/SE-Aufsichtsrat Praxis: Distressed Und Insolvenznaehe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `dokumentationsstandard` | AG/SE-Aufsichtsrat Praxis: Dokumentationsstandard; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `dokumentenliste` | AG/SE-Aufsichtsrat Praxis: Dokumentenliste; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsst
 
 ## 1. `desinvestition-carve-out`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Desinvestition Carve Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Desinvestition Carve Out; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Desinvestition Carve Out
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `distressed-und-insolvenznaehe`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Distressed Und Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Distressed Und Insolvenznaehe; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Distressed Und Insolvenznaehe
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `dokumentationsstandard`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Dokumentationsstandard; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Dokumentationsstandard; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Dokumentationsstandard
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `dokumentenliste`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Dokumentenliste; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Dokumentenliste; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Dokumentenliste
 

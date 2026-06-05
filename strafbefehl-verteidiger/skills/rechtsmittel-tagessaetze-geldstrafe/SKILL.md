@@ -1,13 +1,13 @@
 ---
 name: rechtsmittel-tagessaetze-geldstrafe
-description: "Nutze dies, wenn Strafbefehl Rechtsmittel Nach Urteil, Strafbefehl Tagessaetze Geldstrafe, Strafbefehl Wiedereinsetzung im Plugin Strafbefehl Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Strafbefehl Rechtsmittel Nach Urteil, Strafbefehl Tagessaetze Geldstrafe, Strafbefehl Wiedereinsetzung prüfen.; Erstelle eine Arbeitsfassung zu Strafbefehl Rechtsmittel Nach Urteil, Strafbefehl Tagessaetze Geldstrafe, Strafbefehl Wiedereinsetzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafbefehl Rechtsmittel Nach Urteil, Strafbefehl Tagessaetze Geldstrafe, Strafbefehl Wiedereinsetzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Strafbefehl Rechtsmittel Nach Urteil, Strafbefehl Tagessaetze Geldstrafe, Strafbefehl Wiedereinsetzung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafbefehl Rechtsmittel Nach Urteil, Strafbefehl Tagessaetze Geldstrafe, Strafbefehl Wiedereinsetzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -63,13 +63,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Urteil des Amtsgerichts:
 ├─ Tatsachen falsch festgestellt? → Berufung (§ 312 StPO)
-│   ├─ Nur Strafmass zu hoch? → Beschraenkte Berufung auf Rechtsfolgen
-│   └─ Vollstaendige Neuverhandlung gewollt? → Unbeschraenkte Berufung
+│ ├─ Nur Strafmass zu hoch? → Beschraenkte Berufung auf Rechtsfolgen
+│ └─ Vollstaendige Neuverhandlung gewollt? → Unbeschraenkte Berufung
 ├─ Rechtsfehler (Verfahrens- oder Sachfehler)? → Revision (§ 333 StPO)
-│   ├─ Absoluter Revisionsgrund (§ 338 StPO)? → Revision fast immer erfolgversprechend
-│   └─ Sachruege (Rechtsfehler bei Strafzumessung, Tatbestand)? → Revision mit Begruendung
+│ ├─ Absoluter Revisionsgrund (§ 338 StPO)? → Revision fast immer erfolgversprechend
+│ └─ Sachruege (Rechtsfehler bei Strafzumessung, Tatbestand)? → Revision mit Begruendung
 └─ Sprung-Revision (§ 335 StPO)?
-    └─ Wenn Berufung wenig Aussicht und Rechtsfrage klar → direkt zu OLG
+ └─ Wenn Berufung wenig Aussicht und Rechtsfrage klar → direkt zu OLG
 
 Fristenkontrolle:
 □ 1 Woche Rechtsmittelfrist (§§ 314, 341 StPO)
@@ -145,10 +145,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Berechnungsschema Tagessatz
 
 ```
-1. Bruttoeinkommen monatlich:          [BETRAG] EUR
+1. Bruttoeinkommen monatlich: [BETRAG] EUR
 2. Abzuege (Lohnsteuer, SV-Beitraege): [BETRAG] EUR
-3. Nettoeinkommen:                     [BETRAG] EUR
-4. Tagessatz (Netto / 30):             [BETRAG] EUR
+3. Nettoeinkommen: [BETRAG] EUR
+4. Tagessatz (Netto / 30): [BETRAG] EUR
 
 Besonderheiten:
 - Fahrtkosten / Werbungskosten: koennen abgezogen werden
@@ -233,13 +233,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Einspruchsfrist versaeumt?
 ├─ Belehrung in Strafbefehl fehlerhaft (§ 409 Abs. 1 Nr. 7)?
-│   └─ Frist hat nie begonnen → kein Wiedereinsetzungsbedarf, Einspruch nachholen
+│ └─ Frist hat nie begonnen → kein Wiedereinsetzungsbedarf, Einspruch nachholen
 ├─ Kein Verschulden (§ 44 StPO)?
-│   ├─ Krankheit/Unfall des Mandanten → Attest + eidestattliche Versicherung
-│   ├─ Urlaub/Abwesenheit → Bescheinigung + eidesstattliche Versicherung
-│   ├─ Zustellungsfiktion § 180 ZPO widerlegen (spaetere Kenntnisnahme) → Briefkasten-Nachweis
-│   ├─ Kanzleifehler ohne Verschulden → intern klaeren; Mandant haftet nicht fuer Kanzleifehler
-│   └─ Gericht hat Frist falsch berechnet → BGH-Rechtsprechung zitieren
+│ ├─ Krankheit/Unfall des Mandanten → Attest + eidestattliche Versicherung
+│ ├─ Urlaub/Abwesenheit → Bescheinigung + eidesstattliche Versicherung
+│ ├─ Zustellungsfiktion § 180 ZPO widerlegen (spaetere Kenntnisnahme) → Briefkasten-Nachweis
+│ ├─ Kanzleifehler ohne Verschulden → intern klaeren; Mandant haftet nicht fuer Kanzleifehler
+│ └─ Gericht hat Frist falsch berechnet → BGH-Rechtsprechung zitieren
 └─ Verschulden vorhanden → Wiedereinsetzung abgelehnt; Strafbefehl rechtskraeftig
 
 Wenn Wiedereinsetzung moeglich:

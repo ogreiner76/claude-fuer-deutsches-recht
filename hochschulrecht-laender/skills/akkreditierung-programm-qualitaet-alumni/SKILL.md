@@ -1,13 +1,13 @@
 ---
 name: akkreditierung-programm-qualitaet-alumni
-description: "Nutze dies, wenn Akkreditierung Programm System, Akkreditierung Und Qualitaet, Alumni Stiftung Spenden Compliance, Anerkennung Ects Und Ausland im Plugin Hochschulrecht Länder konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Akkreditierung Programm System, Akkreditierung Und Qualitaet, Alumni Stiftung Spenden Compliance, Anerkennung Ects Und Ausland: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Akkreditierung Programm System, Akkreditierung Und Qualitaet, Alumni Stiftung Spenden Compliance, Anerkennung Ects Und Ausland
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Akkreditierung Programm System, Akkreditierung Und Qualitaet, Alumni Stiftung Spenden Compliance, Anerkennung Ects Und Ausland** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

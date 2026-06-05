@@ -8,7 +8,7 @@ description: "Prüft Infostand, Sondernutzung, Versammlungsrecht, Auflagen, Date
 ## Aufgabe
 Prüft Infostand, Sondernutzung, Versammlungsrecht, Auflagen, Datenschutz und Haftung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

@@ -1,13 +1,13 @@
 ---
 name: look-feel-mandatsannahme-gwg
-description: "Nutze dies, wenn Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg im Plugin Kanzlei Allgemein konkret bearbeitet werden soll. Auslöser: Bitte Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg prüfen.; Erstelle eine Arbeitsfassung zu Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -31,7 +31,7 @@ Für **Kanzlei Allgemein Look And Feel, Kanzlei Allgemein Mandatsannahme Gwg** z
 
 
 ## Triage zu Beginn
-1. Fuer welchen Kanzlei-Workflow soll die Ausgabe gestaltet werden: Schriftsatz, Rechnung, Dashboard, Mandantenbrief?
+1. Fuer welchen Kanzlei-soll die Ausgabe gestaltet werden: Schriftsatz, Rechnung, Dashboard, Mandantenbrief?
 2. Wird die Ausgabe in Claude Cowork oder in einem anderen System angezeigt (Markdown-Grenzen beachten)?
 3. Sollen Ampelstatus, Statuskarten oder Tabellenansichten eingesetzt werden?
 4. Ist der Empfaenger der Ausgabe ein Anwalt, ein Sekretariat oder ein Mandant?
@@ -85,7 +85,7 @@ Jede zentrale Ausgabe soll so beginnen:
 
 | Akte | Ampel | Frist | Nächste Aktion |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| | | | |
 
 ## Jetzt
 

@@ -122,13 +122,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Norm-Adapter-Tabelle [DATUM]
 Beteiligte Berufsgruppen: [LISTE]
 
-| Beruf              | Verschwiegenheit      | Dienstleisterregelung | § 203 StGB Abs. |
+| Beruf | Verschwiegenheit | Dienstleisterregelung | § 203 StGB Abs. |
 |--------------------|-----------------------|-----------------------|-----------------|
-| Rechtsanwalt       | § 43a Abs. 2 BRAO     | § 43e BRAO            | Abs. 1 Nr. 3    |
-| Steuerberater      | § 57 Abs. 1 StBerG    | § 62a StBerG          | Abs. 1 Nr. 3    |
-| Wirtschaftsprüfer | § 43 Abs. 1 WPO       | § 50a WPO             | Abs. 1 Nr. 3    |
-| Patentanwalt       | § 39a Abs. 2 PAO      | § 39c PAO             | Abs. 1 Nr. 3    |
-| Notar              | § 18 BNotO            | § 26a BNotO           | Abs. 1 Nr. 1    |
+| Rechtsanwalt | § 43a Abs. 2 BRAO | § 43e BRAO | Abs. 1 Nr. 3 |
+| Steuerberater | § 57 Abs. 1 StBerG | § 62a StBerG | Abs. 1 Nr. 3 |
+| Wirtschaftsprüfer | § 43 Abs. 1 WPO | § 50a WPO | Abs. 1 Nr. 3 |
+| Patentanwalt | § 39a Abs. 2 PAO | § 39c PAO | Abs. 1 Nr. 3 |
+| Notar | § 18 BNotO | § 26a BNotO | Abs. 1 Nr. 1 |
 
 Anzuwendende Norm (strengste bei gemischter Sozietät): § [NORM]
 Besonderheiten: [SONDERREGELN]

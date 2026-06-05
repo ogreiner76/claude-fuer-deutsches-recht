@@ -1,13 +1,13 @@
 ---
 name: erstgespraech-mandatsannahme-verkehr-autonom
-description: "Nutze dies, wenn Erstgespraech Mandatsannahme, Fachanwalt Verkehr Autonom 1D Stvg, Fachanwalt Verkehrsrecht Fahrerlaubnis Entzug im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Erstgespraech Mandatsannahme, Fachanwalt Verkehr Autonom 1D Stvg, Fachanwalt Verkehrsrecht Fahrerlaubnis Entzug prüfen.; Erstelle eine Arbeitsfassung zu Erstgespraech Mandatsannahme, Fachanwalt Verkehr Autonom 1D Stvg, Fachanwalt Verkehrsrecht Fahrerlaubnis Entzug.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erstgespraech Mandatsannahme, Fachanwalt Verkehr Autonom 1d Stvg, Fachanwalt Verkehrsrecht Fahrerlaubnis Entzug: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erstgespraech Mandatsannahme, Fachanwalt Verkehr Autonom 1D Stvg, Fachanwalt Verkehrsrecht Fahrerlaubnis Entzug
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erstgespraech Mandatsannahme, Fachanwalt Verkehr Autonom 1D Stvg, Fachanwalt Verkehrsrecht Fahrerlaubnis Entzug** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -379,7 +379,7 @@ Hinweis: Keine Aktenzeichen aus Modellwissen. Vor Versand Volltext und Randnumme
 
 ## Prüfschema in Tabellenform
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Nr. | Prüfschritt | Norm | Konsequenz |
 |---|---|---|---|
@@ -447,28 +447,28 @@ II. Begründung
 
 1. Voraussetzungen § 111a Abs. 1 StPO nicht erfüllt
 
-   [Variante A — BAK strittig:] Der dem Beschluss zugrunde
-   gelegte BAK-Wert von [X] Promille ist bestreitbar. Die
-   Blutentnahme erfolgte um [Uhrzeit], [Z] Stunden nach der
-   Fahrt. Unter Berücksichtigung der Abbauwerte (0,1 Promille/h)
-   war die BAK zur Tatzeit allenfalls [X - Abbau] Promille,
-   damit unterhalb der Grenze des § 316 StGB.
+ [Variante A — BAK strittig:] Der dem Beschluss zugrunde
+ gelegte BAK-Wert von [X] Promille ist bestreitbar. Die
+ Blutentnahme erfolgte um [Uhrzeit], [Z] Stunden nach der
+ Fahrt. Unter Berücksichtigung der Abbauwerte (0,1 Promille/h)
+ war die BAK zur Tatzeit allenfalls [X - Abbau] Promille,
+ damit unterhalb der Grenze des § 316 StGB.
 
-   [Variante B — Atypischer Fall § 69 Abs. 2 StGB:]
-   Es liegt ein atypischer Fall vor, der die Regelfall-
-   vermutung des § 69 Abs. 2 StGB widerlegt:
-   - Einmalige Verkehrssituation (Notsituation § 35 StGB
-     zur Beförderung Schwerkranker)
-   - Kein Vorwurf im Fahreignungsregister
-   - Seit dem Vorfall völlige Abstinenz (Haaranalyse Anlage K1)
-   - Berufliche Existenz hängt von Fahrerlaubnis ab
-     (Anlage K2: Arbeitgeberbestätigung)
+ [Variante B — Atypischer Fall § 69 Abs. 2 StGB:]
+ Es liegt ein atypischer Fall vor, der die Regelfall-
+ vermutung des § 69 Abs. 2 StGB widerlegt:
+ - Einmalige Verkehrssituation (Notsituation § 35 StGB
+ zur Beförderung Schwerkranker)
+ - Kein Vorwurf im Fahreignungsregister
+ - Seit dem Vorfall völlige Abstinenz (Haaranalyse Anlage K1)
+ - Berufliche Existenz hängt von Fahrerlaubnis ab
+ (Anlage K2: Arbeitgeberbestätigung)
 
 2. Verhältnismäßigkeit
 
-   Die vorläufige Entziehung ist unverhältnismäßig:
-   [Konkrete Darstellung beruflicher und persönlicher
-   Schäden; Alternative: Alkohol-Interlock-Gerät/Zeitbeschränkung]
+ Die vorläufige Entziehung ist unverhältnismäßig:
+ [Konkrete Darstellung beruflicher und persönlicher
+ Schäden; Alternative: Alkohol-Interlock-Gerät/Zeitbeschränkung]
 
 Anlagen
 - K1: Haaranalyse / Abstinenznachweis
@@ -490,14 +490,14 @@ Entziehung seit [Datum] = [Y] Monate.
 
 Begründung:
 - Vorläufige Entziehung seit [Datum] = [Y] volle Monate
-  gemäß § 69a Abs. 7 StGB anzurechnen.
+ gemäß § 69a Abs. 7 StGB anzurechnen.
 - Mandant hat seither Abstinenz vollständig eingehalten;
-  Haaranalysen vom [Datum] und [Datum] belegen Null-Befund
-  (Anlage K1, K2).
+ Haaranalysen vom [Datum] und [Datum] belegen Null-Befund
+ (Anlage K1, K2).
 - MPU-Vorgutachten ergibt prognostisch positive Beurteilung
-  (Anlage K3).
+ (Anlage K3).
 - Berufliche und familiäre Situation erfordert schnellst-
-  mögliche Wiedererteilung.
+ mögliche Wiedererteilung.
 
 Die Gesamtsperrfrist von [X - Y] weiteren Monaten ab
 Urteilsdatum ist ausreichend und angemessen.
@@ -522,25 +522,25 @@ Der Bescheid wird aufgehoben.
 II. Begründung
 
 1. Formelle Rechtswidrigkeit:
-   [z.B.: Anhörung § 28 VwVfG nicht ordnungsgemäß;
-   fehlerhafte Rechtsbehelfsbelehrung]
+ [z.B.: Anhörung § 28 VwVfG nicht ordnungsgemäß;
+ fehlerhafte Rechtsbehelfsbelehrung]
 
 2. Materielle Rechtswidrigkeit:
-   [z.B. bei Punkteentzug:]
-   Die Behörde hat die Voraussetzungen § 4 Abs. 5 Satz 1
-   Nr. 3 StVG nicht eingehalten. Ein Warnschreiben gemäß
-   § 4 Abs. 5 Satz 1 Nr. 2 StVG (Verwarnung bei 6-7 Punkten)
-   wurde nicht ordnungsgemäß zugestellt — Zustellungsnachweis
-   fehlt in der Akte.
+ [z.B. bei Punkteentzug:]
+ Die Behörde hat die Voraussetzungen § 4 Abs. 5 Satz 1
+ Nr. 3 StVG nicht eingehalten. Ein Warnschreiben gemäß
+ § 4 Abs. 5 Satz 1 Nr. 2 StVG (Verwarnung bei 6-7 Punkten)
+ wurde nicht ordnungsgemäß zugestellt — Zustellungsnachweis
+ fehlt in der Akte.
 
-   [Oder bei MPU-Anlass:]
-   Die MPU-Anordnung entbehrt der Anlasstatsachen nach
-   § 13 / § 14 FeV. Der Mandant hat [X] nachgewiesen:
-   [Abstinenz, positive ärztliche Begutachtung; VGH Bayern
-   11 CS 20.1780]
+ [Oder bei MPU-Anlass:]
+ Die MPU-Anordnung entbehrt der Anlasstatsachen nach
+ § 13 / § 14 FeV. Der Mandant hat [X] nachgewiesen:
+ [Abstinenz, positive ärztliche Begutachtung; VGH Bayern
+ 11 CS 20.1780]
 
 3. Gleichzeitig beantragen wir Anordnung aufschiebender
-   Wirkung gemäß § 80 Abs. 5 VwGO.
+ Wirkung gemäß § 80 Abs. 5 VwGO.
 
 Mit freundlichen Grüßen
 [Rechtsanwalt]

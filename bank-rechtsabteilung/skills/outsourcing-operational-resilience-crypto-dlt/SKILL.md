@@ -1,13 +1,13 @@
 ---
 name: outsourcing-operational-resilience-crypto-dlt
-description: "Nutze dies, wenn Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service, Pfandbriefbank Spezialdeckung im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Bitte Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service, Pfandbriefbank Spezialdeckung prüfen.; Erstelle eine Arbeitsfassung zu Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service, Pfandbriefbank Spezialdeckung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service, Pfandbriefbank Spezialdeckung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service, Pfandbriefbank Spezialdeckung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

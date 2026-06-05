@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-sportrecht-sportr-athletenvertrag
-description: "Nutze dies, wenn Fachanwalt Sportrecht Transferklausel, Sportr Athletenvertrag Bauleiter, Fachanwalt Sportrecht Esports Vereinsrecht Dosb Anerkennung im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Sportrecht Transferklausel, Sportr Athletenvertrag Bauleiter, Fachanwalt Sportrecht Esports Vereinsrecht Dosb Anerkennung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Sportrecht Transferklausel, Sportr Athletenvertrag Bauleiter, Fachanwalt Sportrecht Esports Vereinsrecht Dosb Anerkennung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Sportrecht Transferklausel, Sportr Athletenvertrag Bauleiter, Fachanwalt Sportrecht Esports Vereinsrecht Dosb Anerkennung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Sportrecht Transferklausel, Sportr Athletenvertrag Bauleiter, Fachanwalt Sportrecht Esports Vereinsrecht Dosb Anerkennung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Sportrecht Transferklausel, Sportr Athletenvertrag Bauleiter, Fachanwalt Sportrecht Esports Vereinsrecht Dosb Anerkennung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -100,7 +100,7 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 - Bei nicht-Spielzeit (etablierter Profi < 10 % Einsätze)
 - Standortwechsel-Recht
 
-## 6) Workflow Vertrags-Beratung
+## 6) Vertrags-Beratung
 
 ### Phase 1 — Vertrag
 
@@ -262,7 +262,7 @@ Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Berei
 - Mehrfach versucht, von Finanzämtern abgelehnt
 - Risiko: Aberkennung mit rückwirkender Versteuerung
 
-## Workflow Neugründung
+## Neugründung
 
 ### Phase 1 — Strukturentscheidung
 

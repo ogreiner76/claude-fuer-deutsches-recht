@@ -1,13 +1,13 @@
 ---
 name: gutachten-internes-ip-rechteuebertragung
-description: "Nutze dies, wenn Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen im Plugin Word Legal Ai Plugin And Skill For German Lawyers konkret bearbeitet werden soll. Auslöser: Bitte Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen prüfen.; Erstelle eine Arbeitsfassung zu Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -100,10 +100,10 @@ Dieser Skill operationalisiert die in der Repository-CLAUDE.md vorgesehene Stand
 ```
 INTERNES MEMO
 
-An:       RA Stern (Akte 2026 023)
-Von:      RA Beispiel
-Datum:    30. Mai 2026
-Betreff:  Anspruch der Mandantin auf Kaufpreis 25.000 Euro
+An: RA Stern (Akte 2026 023)
+Von: RA Beispiel
+Datum: 30. Mai 2026
+Betreff: Anspruch der Mandantin auf Kaufpreis 25.000 Euro
 
 1. Sachverhalt
 
@@ -164,9 +164,9 @@ Mandantin die Erfüllung als Lieferung beweisen kann.
 6. Risiken und offene Punkte
 
 - Beweislage zur Mangelhaftigkeit. Mandantin hat keine eigene Anlage
-  zur Mangelfreiheit der gelieferten Maschinen.
+ zur Mangelfreiheit der gelieferten Maschinen.
 - Die Mängelanzeige der Beklagten erfolgte am 8. Februar 2026. Frist
-  nach § 377 HGB einhalten, falls Handelskauf.
+ nach § 377 HGB einhalten, falls Handelskauf.
 - Mögliche Aufrechnung mit Gegenforderung der Beklagten nicht beziffert.
 
 7. Quellenverzeichnis
@@ -175,7 +175,7 @@ Mandantin die Erfüllung als Lieferung beweisen kann.
 - § 377 HGB für Untersuchungs- und Rügepflicht bei Handelskauf.
 - references/methodik-buergerliches-recht.md
 - BGH-Rechtsprechung zur Beweislast bei behaupteten Mängeln
-  (vom Nutzer zu verifizieren).
+ (vom Nutzer zu verifizieren).
 ```
 
 ## Querverweise
@@ -214,19 +214,19 @@ Dieser Skill unterstützt Sie beim Drafting von Klauseln, mit denen Rechte des G
 ## Rechtlicher und methodischer Rahmen
 
 - **Urheberrecht (UrhG):**
-  - § 29 I UrhG: Das Urheberrecht ist nicht übertragbar, mit Ausnahme der Übertragung von Todes wegen.
-  - § 29 II UrhG: Zulässig sind die Einräumung von Nutzungsrechten (§ 31 UrhG), Rechtsgeschäfte über Urheberpersönlichkeitsrechte (begrenzt) und schuldrechtliche Einwilligungen.
-  - § 31 UrhG: Einfache und ausschließliche Nutzungsrechte, räumlich, zeitlich, inhaltlich beschränkbar.
-  - § 31a UrhG: Unbekannte Nutzungsarten benötigen Schriftform.
-  - § 32 UrhG: Anspruch auf angemessene Vergütung.
-  - § 34 UrhG: Übertragung von Nutzungsrechten nur mit Zustimmung des Urhebers, außer Betriebsübergang.
-  - § 35 UrhG: Einräumung weiterer Nutzungsrechte (Sub-Lizenz) bei ausschließlichem Recht nur mit Zustimmung des Urhebers.
-  - § 41 UrhG: Rückrufrecht wegen Nichtausübung.
-  - § 69a ff. UrhG: Sonderregeln für Software, insbesondere § 69b UrhG (Computerprogramme im Arbeitsverhältnis: ausschließliches Nutzungsrecht beim Arbeitgeber).
+ - § 29 I UrhG: Das Urheberrecht ist nicht übertragbar, mit Ausnahme der Übertragung von Todes wegen.
+ - § 29 II UrhG: Zulässig sind die Einräumung von Nutzungsrechten (§ 31 UrhG), Rechtsgeschäfte über Urheberpersönlichkeitsrechte (begrenzt) und schuldrechtliche Einwilligungen.
+ - § 31 UrhG: Einfache und ausschließliche Nutzungsrechte, räumlich, zeitlich, inhaltlich beschränkbar.
+ - § 31a UrhG: Unbekannte Nutzungsarten benötigen Schriftform.
+ - § 32 UrhG: Anspruch auf angemessene Vergütung.
+ - § 34 UrhG: Übertragung von Nutzungsrechten nur mit Zustimmung des Urhebers, außer Betriebsübergang.
+ - § 35 UrhG: Einräumung weiterer Nutzungsrechte (Sub-Lizenz) bei ausschließlichem Recht nur mit Zustimmung des Urhebers.
+ - § 41 UrhG: Rückrufrecht wegen Nichtausübung.
+ - § 69a ff. UrhG: Sonderregeln für Software, insbesondere § 69b UrhG (Computerprogramme im Arbeitsverhältnis: ausschließliches Nutzungsrecht beim Arbeitgeber).
 - **Marke und Patent:**
-  - § 27 MarkenG: Marke ist vollständig übertragbar.
-  - § 30 MarkenG: Lizenz möglich (ausschließlich, einfach, räumlich, zeitlich, art-, mengen- oder qualitätsbezogen beschränkt).
-  - § 15 PatG: Patent ist übertragbar, lizenzierbar.
+ - § 27 MarkenG: Marke ist vollständig übertragbar.
+ - § 30 MarkenG: Lizenz möglich (ausschließlich, einfach, räumlich, zeitlich, art-, mengen- oder qualitätsbezogen beschränkt).
+ - § 15 PatG: Patent ist übertragbar, lizenzierbar.
 - **Erschöpfungsgrundsatz Software:** BGH "UsedSoft" und EuGH-Rechtsprechung erlauben den Weiterverkauf erschöpfter Programmkopien; Klauselverbote des Weiterverkaufs erschöpfter Kopien sind unwirksam. Exakte Fundstelle vom Nutzer zu verifizieren.
 - **Open-Source-Compliance:** Mit Open-Source-Komponenten verbundene Lizenzpflichten (insbesondere Copyleft bei GPL) können auf das Gesamtwerk durchschlagen. Drafting muss Open-Source-Inventar und Lizenzpflichten adressieren.
 - **Arbeitsverhältnisse:** Computerprogramme nach § 69b UrhG; sonstige Werke außerhalb von Software: keine automatische Rechtseinräumung an den Arbeitgeber, vertragliche Regelung notwendig.

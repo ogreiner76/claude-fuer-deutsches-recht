@@ -1,13 +1,13 @@
 ---
 name: erwerbsminderungsrente-belegfuehrung-02
-description: "Nutze dies, wenn Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugen Pkh Erstattung, Feststellungsklage 55 Sgg, Gdb Feststellung Versorgungsamt Sgb Ix, Gerichtskostenfreiheit 183 Sgg im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugen Pkh Erstattung, Feststellungsklage 55 Sgg, Gdb Feststellung Versorgungsamt Sgb Ix, Gerichtskostenfreiheit 183 Sgg prüfen.; Erstelle eine Arbeitsfassung zu Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugen Pkh Erstattung, Feststellungsklage 55 Sgg, Gdb Feststellung Versorgungsamt Sgb Ix, Gerichtskostenfreiheit 183 Sgg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugen Pkh Erstattung, Feststellungsklage 55 Sgg, Gdb Feststellung Versorgungsamt Sgb Ix: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugen Pkh Erstattung, Feststellungsklage 55 Sgg, Gdb Feststellung Versorgungsamt Sgb Ix, Gerichtskostenfreiheit 183 Sgg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugen Pkh Erstattung, Feststellungsklage 55 Sgg, Gdb Feststellung Versorgungsamt Sgb Ix, Gerichtskostenfreiheit 183 Sgg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -171,7 +171,7 @@ Bei PKH koennen eigene Fahrtkosten ebenfalls erstattet werden, wenn das im PKH-B
 Beim SG die Erstattung formlos beantragen mit Belegen:
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 
@@ -281,7 +281,7 @@ Wenn ein Verwaltungsakt vorliegt: meistens Anfechtungs- oder Verpflichtungsklage
 ### Schritt 2 — Klageschrift
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 [Name]
 [Adresse]

@@ -1,13 +1,13 @@
 ---
 name: contract-formation-false-friends-governing
-description: "Nutze dies, wenn Common Law Contract Formation Consideration, Common Law False Friends Scanner, Common Law Governing Law Jurisdiction im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Bitte Common Law Contract Formation Consideration, Common Law False Friends Scanner, Common Law Governing Law Jurisdiction prüfen.; Erstelle eine Arbeitsfassung zu Common Law Contract Formation Consideration, Common Law False Friends Scanner, Common Law Governing Law Jurisdiction.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Common Law Contract Formation Consideration, Common Law False Friends Scanner, Common Law Governing Law Jurisdiction: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Common Law Contract Formation Consideration, Common Law False Friends Scanner, Common Law Governing Law Jurisdiction
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Common Law Contract Formation Consideration, Common Law False Friends Scanner, Common Law Governing Law Jurisdiction** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -108,11 +108,11 @@ Jurisdiction: [England/Wales / New York / Delaware / ...]
 
 1. OFFER: Clear, definite, communicated: [YES / NO — issue: ...]
 2. ACCEPTANCE: Mirror-image (UK strict) / UCC 2-207 (US battle of forms): [...]
-   Method of acceptance: [in writing / conduct / performance]
+ Method of acceptance: [in writing / conduct / performance]
 3. CONSIDERATION:
-   Adequacy (courts generally don't review): [YES]
-   Sufficiency (must be of value in law): [YES / NO — past consideration issue?]
-   Practical benefit (Williams v Roffey applicable?): [YES / NO]
+ Adequacy (courts generally don't review): [YES]
+ Sufficiency (must be of value in law): [YES / NO — past consideration issue?]
+ Practical benefit (Williams v Roffey applicable?): [YES / NO]
 4. INTENTION TO CREATE LEGAL RELATIONS: [presumed commercial / rebutted?]
 5. DEED (if consideration absent): [signed / witnessed / delivered?]
 6. CAPACITY: parties legally capable: [YES / NO — corporation authority?]
@@ -219,9 +219,9 @@ Document: [DESCRIPTION] — Date: [DATE]
 
 No. | Term Found | Location | Risk | Recommended Change
 ----|-----------|----------|------|-------------------
-1   | [guarantee] | Clause 5.2 | HIGH — no discharge clause | Add: "primary indemnity" or add Holme v Brunskill waiver
-2   | [good faith] | Clause 8 | HIGH — unenforceable English law | Remove or replace with specific obligations
-3   | [condition] | Clause 3 | MEDIUM — correct usage but confirm | Confirm classification intended
+1 | [guarantee] | Clause 5.2 | HIGH — no discharge clause | Add: "primary indemnity" or add Holme v Brunskill waiver
+2 | [good faith] | Clause 8 | HIGH — unenforceable English law | Remove or replace with specific obligations
+3 | [condition] | Clause 3 | MEDIUM — correct usage but confirm | Confirm classification intended
 ```
 
 
@@ -315,27 +315,27 @@ GOVERNING LAW / JURISDICTION REVIEW
 Date: [DATE] — Contract: [DESCRIPTION]
 
 1. GOVERNING LAW CLAUSE
-   Current clause: "[VERBATIM CLAUSE TEXT]"
-   Jurisdiction chosen: [English law / New York law / ...]
-   Adequacy: [clear / ambiguous — risk: ...]
-   Recommendation: [maintain / amend to: ...]
+ Current clause: "[VERBATIM CLAUSE TEXT]"
+ Jurisdiction chosen: [English law / New York law / ...]
+ Adequacy: [clear / ambiguous — risk: ...]
+ Recommendation: [maintain / amend to: ...]
 
 2. JURISDICTION CLAUSE
-   Type: [Exclusive / Non-exclusive / Silent]
-   Court: [English High Court / SDNY / SENY / ...]
-   Enforceability risk: [Hague 2005 / common law / bilateral treaty]
-   Anti-suit injunction available?: [YES — English court / NO]
+ Type: [Exclusive / Non-exclusive / Silent]
+ Court: [English High Court / SDNY / SENY / ...]
+ Enforceability risk: [Hague 2005 / common law / bilateral treaty]
+ Anti-suit injunction available?: [YES — English court / NO]
 
 3. ARBITRATION (if clause present)
-   Institution: [ICC / LCIA / AAA / UNCITRAL ad hoc]
-   Seat: [London / New York / ...]
-   Governing procedural law: [English Arbitration Act 1996 / FAA 9 USC]
-   Award enforcement: New York Convention 1958 — [signatory states: YES]
+ Institution: [ICC / LCIA / AAA / UNCITRAL ad hoc]
+ Seat: [London / New York / ...]
+ Governing procedural law: [English Arbitration Act 1996 / FAA 9 USC]
+ Award enforcement: New York Convention 1958 — [signatory states: YES]
 
 4. ENFORCEMENT OF JUDGMENT
-   UK vs. EU (post-Brexit): [common law recognition / Hague 2005]
-   US judgment in UK: [reciprocity common law — partial]
-   German court recognition: [§§ 328 ZPO / Brussels Ia (if within scope)]
+ UK vs. EU (post-Brexit): [common law recognition / Hague 2005]
+ US judgment in UK: [reciprocity common law — partial]
+ German court recognition: [§§ 328 ZPO / Brussels Ia (if within scope)]
 
 5. RECOMMENDED CLAUSE
 [Draft standard clause for negotiation]

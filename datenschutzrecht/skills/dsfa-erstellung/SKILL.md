@@ -20,71 +20,71 @@ Vollständige Datenschutz-Folgenabschätzung nach Art. 35 DSGVO: von der Schwell
 
 1. **Schwellwertanalyse (Muss-DSFA-Prüfung).**
 
-   Art. 35 Abs. 1 DSGVO: DSFA erforderlich bei voraussichtlich hohem Risiko. Mindestens zwei der folgenden Kriterien aus EDSA-Leitlinien 09/2022 treffen zu:
+ Art. 35 Abs. 1 DSGVO: DSFA erforderlich bei voraussichtlich hohem Risiko. Mindestens zwei der folgenden Kriterien aus EDSA-Leitlinien 09/2022 treffen zu:
 
-   | Kriterium | Prüfung |
-   |---|---|
-   | Bewertung / Scoring | Ja / Nein |
-   | Automatisierte Entscheidung mit Rechtswirkung (Art. 22 DSGVO) | Ja / Nein |
-   | Systematische Überwachung | Ja / Nein |
-   | Verarbeitung sensibler Daten (Art. 9/10 DSGVO) | Ja / Nein |
-   | Verarbeitung großer Mengen oder im großen Umfang | Ja / Nein |
-   | Abgleich oder Zusammenführung von Datensätzen | Ja / Nein |
-   | Verarbeitung betreffend schutzbedürftige Personen (Kinder, Patienten) | Ja / Nein |
-   | Einsatz neuer Technologien (KI, Biometrie, IoT) | Ja / Nein |
-   | Verarbeitung verhindert Betroffenenrechte oder Dienstnutzung | Ja / Nein |
+ | Kriterium | Prüfung |
+ |---|---|
+ | Bewertung / Scoring | Ja / Nein |
+ | Automatisierte Entscheidung mit Rechtswirkung (Art. 22 DSGVO) | Ja / Nein |
+ | Systematische Überwachung | Ja / Nein |
+ | Verarbeitung sensibler Daten (Art. 9/10 DSGVO) | Ja / Nein |
+ | Verarbeitung großer Mengen oder im großen Umfang | Ja / Nein |
+ | Abgleich oder Zusammenführung von Datensätzen | Ja / Nein |
+ | Verarbeitung betreffend schutzbedürftige Personen (Kinder, Patienten) | Ja / Nein |
+ | Einsatz neuer Technologien (KI, Biometrie, IoT) | Ja / Nein |
+ | Verarbeitung verhindert Betroffenenrechte oder Dienstnutzung | Ja / Nein |
 
-   Art. 35 Abs. 3 DSGVO: In jedem Fall DSFA bei systematischer umfangreicher Verarbeitung besonderer Kategorien, umfangreicher Überwachung öffentlicher Bereiche, oder wenn auf der BfDI-Blacklist aufgeführt.
+ Art. 35 Abs. 3 DSGVO: In jedem Fall DSFA bei systematischer umfangreicher Verarbeitung besonderer Kategorien, umfangreicher Überwachung öffentlicher Bereiche, oder wenn auf der BfDI-Blacklist aufgeführt.
 
 2. **BfDI-Blacklist-Abgleich.**
-   Abgleich gegen die Blacklist des BfDI (§ 67 BDSG i.V.m. Art. 35 Abs. 4 DSGVO). `[Modellwissen – aktuellen Stand auf bfdi.bund.de prüfen]`
-   Typische Blacklist-Einträge: Biometrische Erfassungssysteme zur eindeutigen Identifizierung, Videoüberwachung öffentlicher Bereiche im großen Umfang, Scoring-Systeme für Kreditwürdigkeit, Gesundheitsdaten-Plattformen für Forschung.
+ Abgleich gegen die Blacklist des BfDI (§ 67 BDSG i.V.m. Art. 35 Abs. 4 DSGVO). `[Modellwissen – aktuellen Stand auf bfdi.bund.de prüfen]`
+ Typische Blacklist-Einträge: Biometrische Erfassungssysteme zur eindeutigen Identifizierung, Videoüberwachung öffentlicher Bereiche im großen Umfang, Scoring-Systeme für Kreditwürdigkeit, Gesundheitsdaten-Plattformen für Forschung.
 
-   BfDI-Whitelist (§ 67 Abs. 2 BDSG): Wenn Verarbeitungsart auf Whitelist, entfällt DSFA-Pflicht. `[Modellwissen – prüfen]`
+ BfDI-Whitelist (§ 67 Abs. 2 BDSG): Wenn Verarbeitungsart auf Whitelist, entfällt DSFA-Pflicht. `[Modellwissen – prüfen]`
 
 3. **Beschreibung der Verarbeitungstätigkeit (Art. 35 Abs. 7 lit. a DSGVO).**
-   - Zweck und Art der Verarbeitung
-   - Datenkategorien und betroffene Personengruppen
-   - Empfänger, Übermittlungen (inkl. Drittland)
-   - Aufbewahrungsfristen
-   - Technische Umgebung (Hosting, Sub-AVs)
-   - Eigentümer der Verarbeitung (Fachabteilung, Produkt)
+ - Zweck und Art der Verarbeitung
+ - Datenkategorien und betroffene Personengruppen
+ - Empfänger, Übermittlungen (inkl. Drittland)
+ - Aufbewahrungsfristen
+ - Technische Umgebung (Hosting, Sub-AVs)
+ - Eigentümer der Verarbeitung (Fachabteilung, Produkt)
 
 4. **Notwendigkeit und Verhältnismäßigkeit (Art. 35 Abs. 7 lit. b DSGVO).**
-   - Ist die Verarbeitung für den Zweck erforderlich (Erforderlichkeit)?
-   - Werden nicht mehr Daten verarbeitet als nötig (Datenminimierung Art. 5 Abs. 1 lit. c DSGVO)?
-   - Ist die Zweckbindung eingehalten (Art. 5 Abs. 1 lit. b DSGVO)?
-   - Ist die Rechtsgrundlage klar (Art. 6, 9 DSGVO)?
-   - Ist die Speicherfrist verhältnismäßig (Art. 5 Abs. 1 lit. e DSGVO)?
+ - Ist die Verarbeitung für den Zweck erforderlich (Erforderlichkeit)?
+ - Werden nicht mehr Daten verarbeitet als nötig (Datenminimierung Art. 5 Abs. 1 lit. c DSGVO)?
+ - Ist die Zweckbindung eingehalten (Art. 5 Abs. 1 lit. b DSGVO)?
+ - Ist die Rechtsgrundlage klar (Art. 6, 9 DSGVO)?
+ - Ist die Speicherfrist verhältnismäßig (Art. 5 Abs. 1 lit. e DSGVO)?
 
 5. **Risikoidentifikation und -bewertung (Art. 35 Abs. 7 lit. c DSGVO).**
-   Für jeden identifizierten Risikotyp: Eintrittswahrscheinlichkeit × Schwere des Schadens:
+ Für jeden identifizierten Risikotyp: Eintrittswahrscheinlichkeit × Schwere des Schadens:
 
-   | Risiko | Kategorie | Eintrittsws. | Schwere | Risikostufe |
-   |---|---|---|---|---|
-   | Unbefugter Zugriff | Vertraulichkeit | [hoch/mittel/gering] | [hoch/mittel/gering] | 🔴/🟠/🟡/🟢 |
-   | Datenverlust | Verfügbarkeit | … | … | … |
-   | Profiling ohne Kenntnis | Transparenz | … | … | … |
-   | Diskriminierung | Schaden Betroffener | … | … | … |
-   | Identitätsdiebstahl | Sicherheit | … | … | … |
+ | Risiko | Kategorie | Eintrittsws. | Schwere | Risikostufe |
+ |---|---|---|---|---|
+ | Unbefugter Zugriff | Vertraulichkeit | [hoch/mittel/gering] | [hoch/mittel/gering] | 🔴/🟠/🟡/🟢 |
+ | Datenverlust | Verfügbarkeit | … | … | … |
+ | Profiling ohne Kenntnis | Transparenz | … | … | … |
+ | Diskriminierung | Schaden Betroffener | … | … | … |
+ | Identitätsdiebstahl | Sicherheit | … | … | … |
 
-   Referenz: EDSA-Leitlinien 09/2022, Abschn. 6; ENISA-Leitfaden DSFA.
+ Referenz: EDSA-Leitlinien 09/2022, Abschn. 6; ENISA-Leitfaden DSFA.
 
 6. **Maßnahmen zur Risikominimierung (Art. 35 Abs. 7 lit. d DSGVO).**
-   Für jedes Risiko ≥ 🟡 konkrete Maßnahme:
-   - Technische Maßnahmen (Verschlüsselung, Pseudonymisierung, Zugriffskontrolle)
-   - Organisatorische Maßnahmen (Schulungen, Vier-Augen-Prinzip, Berechtigungskonzept)
-   - Vertragsmaßnahmen (AVV, SCC)
-   - Restrisiko nach Maßnahmen (bleibt 🔴? → Vorab-Konsultation Art. 36 DSGVO)
+ Für jedes Risiko ≥ 🟡 konkrete Maßnahme:
+ - Technische Maßnahmen (Verschlüsselung, Pseudonymisierung, Zugriffskontrolle)
+ - Organisatorische Maßnahmen (Schulungen, Vier-Augen-Prinzip, Berechtigungskonzept)
+ - Vertragsmaßnahmen (AVV, SCC)
+ - Restrisiko nach Maßnahmen (bleibt 🔴? → Vorab-Konsultation Art. 36 DSGVO)
 
 7. **Vorab-Konsultation Art. 36 DSGVO.**
-   Wenn nach Maßnahmen ein hohes Restrisiko verbleibt: Pflicht zur Vorab-Konsultation bei der zuständigen Aufsichtsbehörde (Art. 36 Abs. 1 DSGVO). Frist: Aufsichtsbehörde hat 8 Wochen zur Antwort (Art. 36 Abs. 2 DSGVO), verlängerbar um 6 Wochen.
+ Wenn nach Maßnahmen ein hohes Restrisiko verbleibt: Pflicht zur Vorab-Konsultation bei der zuständigen Aufsichtsbehörde (Art. 36 Abs. 1 DSGVO). Frist: Aufsichtsbehörde hat 8 Wochen zur Antwort (Art. 36 Abs. 2 DSGVO), verlängerbar um 6 Wochen.
 
 8. **DSB-Beteiligung.**
-   DSB ist bei der DSFA zu beteiligen (Art. 35 Abs. 2 DSGVO). Stellungnahme des DSB einholen und dokumentieren.
+ DSB ist bei der DSFA zu beteiligen (Art. 35 Abs. 2 DSGVO). Stellungnahme des DSB einholen und dokumentieren.
 
 9. **Freigabe und Dokumentation.**
-   Freigabeprozess aus `CLAUDE.md`; DSFA im Verarbeitungsverzeichnis vermerken (Art. 30 Abs. 1 DSGVO). DSFA ist bei wesentlicher Änderung der Verarbeitung zu wiederholen (Art. 35 Abs. 11 DSGVO).
+ Freigabeprozess aus `CLAUDE.md`; DSFA im Verarbeitungsverzeichnis vermerken (Art. 30 Abs. 1 DSGVO). DSFA ist bei wesentlicher Änderung der Verarbeitung zu wiederholen (Art. 35 Abs. 11 DSGVO).
 
 ## Quellen und Zitierweise
 

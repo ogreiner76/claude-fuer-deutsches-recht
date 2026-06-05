@@ -135,11 +135,11 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Quellensteuer, CFC-Pruefung wegen SK-KSt-Staffel.
 3. **Kurzantwort**: DBA-CSSR (Slowakei) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-CSSR; Fortgeltungs-Bekanntmachung BGBl. 1993 II S. 762).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel mit Quellensteuersatz.
-   - Methodenartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 8 AStG bei Niedrigsteuer).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-CSSR; Fortgeltungs-Bekanntmachung BGBl. 1993 II S. 762).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel mit Quellensteuersatz.
+ - Methodenartikel; EU-MTRL/EU-ZinsLizenzRL vorrangig.
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 8 AStG bei Niedrigsteuer).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: SK-KSt-Staffel 10/21/24 Prozent, § 50d Abs. 3 EStG, MLI ab 01.01.2025 (PPT-Klausel).
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

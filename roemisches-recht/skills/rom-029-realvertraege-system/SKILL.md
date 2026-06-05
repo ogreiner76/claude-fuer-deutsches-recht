@@ -1,6 +1,6 @@
 ---
 name: rom-029-realvertraege-system
-description: "Römisches Recht: Realvertraege System. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Realvertraege System. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Realvertraege System

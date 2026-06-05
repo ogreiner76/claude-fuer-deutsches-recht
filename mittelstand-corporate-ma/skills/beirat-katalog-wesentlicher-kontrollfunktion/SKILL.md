@@ -1,22 +1,22 @@
 ---
 name: beirat-katalog-wesentlicher-kontrollfunktion
-description: "Nutze dies, wenn Beirat Katalog Wesentlicher Geschaefte, Beirat Kontrollfunktion, Beirat Mitbestimmung Abgrenzung, Beirat Nachfolge im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Katalog Wesentlicher Geschaefte, Beirat Kontrollfunktion, Beirat Mitbestimmung Abgrenzung, Beirat Nachfolge prüfen.; Erstelle eine Arbeitsfassung zu Beirat Katalog Wesentlicher Geschaefte, Beirat Kontrollfunktion, Beirat Mitbestimmung Abgrenzung, Beirat Nachfolge.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Katalog Wesentlicher Geschaefte, Beirat Kontrollfunktion, Beirat Mitbestimmung Abgrenzung, Beirat Nachfolge: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Beirat Katalog Wesentlicher Geschaefte, Beirat Kontrollfunktion, Beirat Mitbestimmung Abgrenzung, Beirat Nachfolge
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Beirat Katalog Wesentlicher Geschaefte, Beirat Kontrollfunktion, Beirat Mitbestimmung Abgrenzung, Beirat Nachfolge** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `beirat-katalog-wesentlicher-geschaefte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-kontrollfunktion` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Kontrollfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-mitbestimmung-abgrenzung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-nachfolge` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-katalog-wesentlicher-geschaefte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-kontrollfunktion` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Kontrollfunktion; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-mitbestimmung-abgrenzung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-nachfolge` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Nachfolge; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Beirat Katalog Wesentlicher Geschaefte, Beirat Kontrollfunktion, Beirat M
 
 ## 1. `beirat-katalog-wesentlicher-geschaefte`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Katalog Wesentlicher Geschaefte
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-kontrollfunktion`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Kontrollfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Kontrollfunktion; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Kontrollfunktion
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-mitbestimmung-abgrenzung`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Mitbestimmung Abgrenzung
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-nachfolge`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Nachfolge; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Nachfolge
 

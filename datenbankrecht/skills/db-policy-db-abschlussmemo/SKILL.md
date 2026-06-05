@@ -1,13 +1,13 @@
 ---
 name: db-policy-db-abschlussmemo
-description: "Nutze dies, wenn Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo prüfen.; Erstelle eine Arbeitsfassung zu Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -39,7 +39,7 @@ Für **Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussm
 
 1. **Bestandsaufnahme Datenbanknutzung**: Inventarisierung aller genutzten externen Datenbanken, APIs, Daten-Feeds und Scraping-Prozesse; Erfassung vorhandener Lizenzverträge, Nutzungsbedingungen und interner Zugangstechnik.
 2. **Rechtliche Risikoklassifizierung**: Jede Datenquelle nach Schutzstatus bewerten (Datenbankwerk § 4 UrhG, Herstellerrecht §§ 87a-87e UrhG, keine Schutzfähigkeit) und Nutzungsumfang gegen erlaubte Schranken prüfen (§§ 44b, 60d UrhG, eigene Lizenz).
-3. **Freigabe-Workflow entwerfen**: Mehrstufiges Genehmigungsverfahren: (a) IT prüft technische Zugriffsmethode, (b) Legal prüft Schutzstatus und Lizenzabdeckung, (c) Freigabe durch Data-Owner dokumentiert in einem zentralen Register.
+3. **Freigabe-entwerfen**: Mehrstufiges Genehmigungsverfahren: (a) IT prüft technische Zugriffsmethode, (b) Legal prüft Schutzstatus und Lizenzabdeckung, (c) Freigabe durch Data-Owner dokumentiert in einem zentralen Register.
 4. **Policy-Entwurf erstellen**: Gliederung mit Geltungsbereich, Definitionen (Datenbank, wesentliche Entnahme, TDM), verbotene Handlungen, erlaubte Nutzung, Meldepflichten intern, Sanktionen bei Verstoß.
 5. **Schulungskonzept**: Awareness-Training für IT, Produkt, Einkauf und Legal; Fallbeispiele aus EuGH-Rechtsprechung (BHB/William Hill C-203/02, Innoweb/Wegener C-202/12); jährliche Auffrischung.
 6. **Audit-Mechanismus**: Quartalsweise Stichproben aus Zugriffslogs; jährliche Vollprüfung durch Internal Audit; externe Rechtsanwaltsprüfung alle zwei Jahre.
@@ -57,7 +57,7 @@ Für **Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussm
 
 - Sind alle externen Datenquellen im zentralen Datenbankregister erfasst und mit Schutzstatus versehen?
 - Existiert für jede Quelle eine schriftliche Lizenz oder eine dokumentierte Schrankenprüfung (§§ 44b, 60d UrhG)?
-- Ist der Freigabe-Workflow klar definiert (wer genehmigt was, in welcher Frist, wie dokumentiert)?
+- Ist der Freigabe-klar definiert (wer genehmigt was, in welcher Frist, wie dokumentiert)?
 - Bildet die Policy die Opt-out-Prüfpflicht nach § 44b Abs. 3 UrhG ab (robots.txt, maschinenlesbarer Hinweis)?
 - Sind Sanktionen bei Policy-Verstößen (Abmahnung, Kündigung, Kostenerstattung) arbeitsrechtlich wirksam vereinbart?
 - Wird die Policy mindestens jährlich auf neue Rechtsentwicklungen (EuGH-Urteile, Gesetzesänderungen) aktualisiert?

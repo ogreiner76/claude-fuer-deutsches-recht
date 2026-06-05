@@ -1,13 +1,13 @@
 ---
 name: genehmigungspflicht-jahresbericht
-description: "Nutze dies, wenn Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel prüfen.; Erstelle eine Arbeitsfassung zu Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Genehmigungspflicht Prüfung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -43,7 +43,7 @@ erforderliche Genehmigung sind Geschäfte schwebend unwirksam (§ 1855 BGB).
 
 - **Aufgabenkreise** des Betreuers (Bestellungsurkunde)
 - **Konkret geplante Maßnahme** (z. B. "Verkauf der Eigentumswohnung der
-  betreuten Person in Berlin-Charlottenburg")
+ betreuten Person in Berlin-Charlottenburg")
 - **Beteiligte Personen** (Vertragspartner, Heimträger, Arzt)
 - **Wirtschaftliche Eckdaten** (Kaufpreis, Heimkosten, Darlehenssumme)
 - **Wünsche/Willen der betreuten Person** zum Geschäft (§ 1821 BGB)
@@ -56,29 +56,29 @@ erforderliche Genehmigung sind Geschäfte schwebend unwirksam (§ 1855 BGB).
 Die §§ 1848–1858 BGB regeln **vermögensbezogene** Genehmigungspflichten:
 
 - § 1848 BGB — Grundsatz: Genehmigung des Gerichts bei wesentlichen
-  Vermögensverfügungen
+ Vermögensverfügungen
 - § 1849 BGB — Genehmigung bei Geschäften über Grundstücke und Rechte an
-  Grundstücken
+ Grundstücken
 - § 1850 BGB — Genehmigung bei Erbschaftsangelegenheiten (Annahme/
-  Ausschlagung der Erbschaft, Erbteilsverkauf)
+ Ausschlagung der Erbschaft, Erbteilsverkauf)
 - § 1851 BGB — Genehmigung bei Aufgabe/Auflösung der Wohnung der
-  betreuten Person
+ betreuten Person
 - § 1852 BGB — Genehmigung bei Geschäften über erwerbsmäßige Tätigkeit
 - § 1853 BGB — Genehmigung bei Kreditaufnahme, Verfügungen über Wertpapiere
 - § 1854 BGB — Genehmigung bei Schenkungen (Ausschluss anstandspflichtiger
-  Schenkungen)
+ Schenkungen)
 - § 1855 BGB — Rechtsfolge: schwebende Unwirksamkeit ohne Genehmigung
 
 ### Personenbezogene Maßnahmen (§§ 1828–1834 BGB)
 
 - § 1828 BGB — Einwilligung in ärztliche Maßnahmen
 - § 1829 BGB — Genehmigung bei lebensgefährlichen oder schwer
-  beeinträchtigenden ärztlichen Maßnahmen
+ beeinträchtigenden ärztlichen Maßnahmen
 - § 1831 BGB — Genehmigung **freiheitsentziehender Unterbringung**
-  (geschlossene Heimunterbringung, geschlossene psychiatrische Klinik)
+ (geschlossene Heimunterbringung, geschlossene psychiatrische Klinik)
 - § 1832 BGB — Genehmigung **freiheitsentziehender Maßnahmen** in offener
-  Einrichtung (Bettgitter, Bauchgurt, sedierende Medikamente zur
-  Bewegungseinschränkung)
+ Einrichtung (Bettgitter, Bauchgurt, sedierende Medikamente zur
+ Bewegungseinschränkung)
 
 ### § 1855 BGB — Schwebende Unwirksamkeit
 
@@ -104,32 +104,32 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Aufgabenkreis prüfen**
-   Liegt die geplante Maßnahme überhaupt im übertragenen Aufgabenkreis?
-   (Vermögenssorge / Gesundheitssorge / Aufenthaltsbestimmung — § 1815 BGB).
-   Fehlt der Aufgabenkreis, ist Erweiterung beim Gericht zu beantragen.
+ Liegt die geplante Maßnahme überhaupt im übertragenen Aufgabenkreis?
+ (Vermögenssorge / Gesundheitssorge / Aufenthaltsbestimmung — § 1815 BGB).
+ Fehlt der Aufgabenkreis, ist Erweiterung beim Gericht zu beantragen.
 
 2. **Tatbestand der Genehmigungspflicht prüfen**
-   Subsumtion unter konkreten §§ 1848 ff. BGB bzw. §§ 1831, 1832 BGB.
+ Subsumtion unter konkreten §§ 1848 ff. BGB bzw. §§ 1831, 1832 BGB.
 
 3. **Wunsch der betreuten Person ermitteln (§ 1821 BGB)**
-   Auch bei genehmigungspflichtigen Geschäften ist der Wille der betreuten
-   Person primärer Maßstab.
+ Auch bei genehmigungspflichtigen Geschäften ist der Wille der betreuten
+ Person primärer Maßstab.
 
 4. **Antrag beim Betreuungsgericht stellen**
-   Schriftlich oder zur Niederschrift der Geschäftsstelle. Beizufügen:
-   - Begründung der Maßnahme
-   - Wirtschaftliche Eckdaten (Verkehrswertgutachten, Kostenvoranschlag)
-   - Stellungnahme zum Willen der betreuten Person
-   - Bei medizinischen Maßnahmen: ärztliches Zeugnis / Gutachten
+ Schriftlich oder zur Niederschrift der Geschäftsstelle. Beizufügen:
+ - Begründung der Maßnahme
+ - Wirtschaftliche Eckdaten (Verkehrswertgutachten, Kostenvoranschlag)
+ - Stellungnahme zum Willen der betreuten Person
+ - Bei medizinischen Maßnahmen: ärztliches Zeugnis / Gutachten
 
 5. **Anhörung durch das Gericht abwarten**
-   Persönliche Anhörung der betreuten Person grundsätzlich Pflicht
-   (§ 278 FamFG); bei Unterbringung Sachverständigengutachten
-   zwingend (§ 321 FamFG).
+ Persönliche Anhörung der betreuten Person grundsätzlich Pflicht
+ (§ 278 FamFG); bei Unterbringung Sachverständigengutachten
+ zwingend (§ 321 FamFG).
 
 6. **Genehmigungsbeschluss umsetzen**
-   Geschäft erst nach Rechtskraft des Beschlusses vollziehen. Bei
-   Grundstücken: Beschluss als Anlage zum Notarvertrag.
+ Geschäft erst nach Rechtskraft des Beschlusses vollziehen. Bei
+ Grundstücken: Beschluss als Anlage zum Notarvertrag.
 
 ## Ausgabeformat
 
@@ -137,34 +137,34 @@ Strukturierte Prüfung in folgender Form:
 
 ```
 Genehmigungspflicht-Prüfung
-Geplante Maßnahme:    [konkret]
-Geprüft am:           [Datum]
-Betreute Person:      [Name, AZ]
-Aufgabenkreise:       [Aufzählung]
+Geplante Maßnahme: [konkret]
+Geprüft am: [Datum]
+Betreute Person: [Name, AZ]
+Aufgabenkreise: [Aufzählung]
 
 1. Aufgabenkreis-Zuordnung
-   [Ja/Nein, Begründung]
+ [Ja/Nein, Begründung]
 
 2. Einschlägige Rechtsnorm
-   [§ XXXX BGB — Tatbestand]
+ [§ XXXX BGB — Tatbestand]
 
 3. Subsumtion
-   [Tatbestandsmerkmal 1 — erfüllt/nicht erfüllt — Begründung]
-   [Tatbestandsmerkmal 2 — ...]
+ [Tatbestandsmerkmal 1 — erfüllt/nicht erfüllt — Begründung]
+ [Tatbestandsmerkmal 2 — ...]
 
 4. Wunsch und Wille der betreuten Person (§ 1821 BGB)
-   [Ermittelt durch ..., Inhalt: ...]
+ [Ermittelt durch ..., Inhalt: ...]
 
 5. Ergebnis
-   [ ] genehmigungspflichtig — Antrag beim Betreuungsgericht erforderlich
-   [ ] nicht genehmigungspflichtig — Begründung
-   [ ] Aufgabenkreis-Erweiterung erforderlich
+ [ ] genehmigungspflichtig — Antrag beim Betreuungsgericht erforderlich
+ [ ] nicht genehmigungspflichtig — Begründung
+ [ ] Aufgabenkreis-Erweiterung erforderlich
 
 6. Empfohlene Anlagen für Genehmigungsantrag
-   [Liste]
+ [Liste]
 
 7. Belege
-   [BGH-Entscheidungen, Kommentarstellen]
+ [BGH-Entscheidungen, Kommentarstellen]
 ```
 
 ## Beispiel
@@ -182,9 +182,9 @@ anzubringen sowie ein leichtes Sedativum (Pipamperon 20 mg) zu verabreichen.
 > *3. Subsumtion:*
 > - Maßnahme: Bettgitter + sedierende Medikation
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
->   Rn. 27 ff. — auch in offener Einrichtung)
+> Rn. 27 ff. — auch in offener Einrichtung)
 > - Sedativum: Wenn primär zur Bewegungseinschränkung verabreicht
->   (nicht therapeutisch), ebenfalls § 1832 BGB
+> (nicht therapeutisch), ebenfalls § 1832 BGB
 > - Regelmäßigkeit: jede Nacht — Tatbestand erfüllt
 >
 > *4. Wille der betreuten Person:* Frau K. wurde am 18.02.2026 befragt
@@ -276,22 +276,22 @@ Bericht mit den nach § 1863 BGB zwingend vorgeschriebenen Abschnitten.
 ## Eingaben
 
 - **Stammdaten der betreuten Person:** Name, Geburtsdatum, Anschrift,
-  Aufenthaltsort (eigene Wohnung, Heim, Klinik), Aktenzeichen des
-  Betreuungsgerichts, Anordnungsdatum und Aufgabenkreise (§ 1815 BGB)
+ Aufenthaltsort (eigene Wohnung, Heim, Klinik), Aktenzeichen des
+ Betreuungsgerichts, Anordnungsdatum und Aufgabenkreise (§ 1815 BGB)
 - **Berichtszeitraum:** Berichtsbeginn und -ende (Anfangsbericht: ab
-  Bestellung; Jahresbericht: 12 Monate; Schlussbericht: Ende der Betreuung)
+ Bestellung; Jahresbericht: 12 Monate; Schlussbericht: Ende der Betreuung)
 - **Persönliche Kontakte:** Datum, Dauer, Ort und Inhalt jedes Besuchs oder
-  Telefonats (§ 1821 Abs. 5 BGB — Pflicht zum persönlichen Kontakt)
+ Telefonats (§ 1821 Abs. 5 BGB — Pflicht zum persönlichen Kontakt)
 - **Wohnsituation:** Wechsel der Wohnung, Heimaufnahme, Heimwechsel,
-  Klinikaufenthalte
+ Klinikaufenthalte
 - **Gesundheitliche Situation:** Diagnosen (aktuelle Arztbriefe), Pflegegrad,
-  Behandlungen, ärztliche Maßnahmen mit Einwilligungsbedarf (§§ 1828 ff. BGB)
+ Behandlungen, ärztliche Maßnahmen mit Einwilligungsbedarf (§§ 1828 ff. BGB)
 - **Soziale Kontakte:** Familienangehörige, Freundeskreis, Ehrenamtliche
 - **Vermögensentwicklung:** Eckdaten (Anfangsbestand, Endbestand,
-  wesentliche Veränderungen) — Detailausweis erfolgt in der gesonderten
-  Rechnungslegung (§ 1865 BGB)
+ wesentliche Veränderungen) — Detailausweis erfolgt in der gesonderten
+ Rechnungslegung (§ 1865 BGB)
 - **Wünsche und Präferenzen der betreuten Person** (§ 1821 Abs. 2, 3 BGB —
-  Vorrang der Wünsche)
+ Vorrang der Wünsche)
 - **Bestehender Anfangs- oder Vorjahresbericht** (zur Fortschreibung)
 
 ## Rechtlicher Rahmen
@@ -306,10 +306,10 @@ geplante Ausgestaltung der Betreuung zu berichten.
 **Abs. 2 — Inhalt des Anfangsberichts:**
 1. die persönlichen Verhältnisse der betreuten Person,
 2. die Wünsche der betreuten Person und die geplanten Maßnahmen zu ihrer
-   Verwirklichung,
+ Verwirklichung,
 3. ggf. Gründe, weshalb Wünschen nicht entsprochen werden kann,
 4. die geplante Ausgestaltung der persönlichen Betreuung, insbesondere die
-   Häufigkeit persönlicher Kontakte.
+ Häufigkeit persönlicher Kontakte.
 
 **Abs. 3 — Jahresbericht:** Mindestens einmal jährlich hat der Betreuer dem
 Betreuungsgericht über die persönlichen Verhältnisse der betreuten Person
@@ -320,7 +320,7 @@ enthält insbesondere:
 2. den Umfang und Inhalt der persönlichen Kontakte,
 3. die Wünsche der betreuten Person und ihre Verwirklichung,
 4. Mitteilung, ob Anlass besteht, die Betreuung aufzuheben oder den
-   Aufgabenkreis (§ 1815 BGB) zu erweitern oder einzuschränken.
+ Aufgabenkreis (§ 1815 BGB) zu erweitern oder einzuschränken.
 
 **Abs. 4 — Schlussbericht:** Bei Beendigung der Betreuung hat der Betreuer
 einen Schlussbericht zu erstatten.
@@ -377,50 +377,50 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Eingabesichtung und Kategorisierung**
-   Der Skill sichtet alle eingegebenen Dokumente (E-Mails, Aktenvermerke,
-   Arztbriefe, Heimberichte, Kontoauszüge, Behördenpost) und ordnet sie
-   einem der vier Pflichtabschnitte des § 1863 Abs. 3 BGB zu: persönliche
-   Verhältnisse, persönliche Kontakte, Wünsche, Anlass zur Änderung.
+ Der Skill sichtet alle eingegebenen Dokumente (E-Mails, Aktenvermerke,
+ Arztbriefe, Heimberichte, Kontoauszüge, Behördenpost) und ordnet sie
+ einem der vier Pflichtabschnitte des § 1863 Abs. 3 BGB zu: persönliche
+ Verhältnisse, persönliche Kontakte, Wünsche, Anlass zur Änderung.
 
 2. **Persönliche Verhältnisse darstellen**
-   - Wohnsituation (eigene Wohnung / Heim — mit Namen der Einrichtung,
-     Aufnahmedatum, Pflegegrad)
-   - Gesundheitlicher Zustand (aktuelle Diagnosen, Veränderungen im
-     Berichtszeitraum, Klinikaufenthalte)
-   - Soziales Umfeld (Angehörige, Freundeskreis, ehrenamtliche Helfer)
-   - Wirtschaftliche Verhältnisse in Eckdaten (Anfangs-/Endvermögen,
-     Sozialleistungsbezug)
-   - Berufliche oder ehrenamtliche Tätigkeit, Beschäftigung
+ - Wohnsituation (eigene Wohnung / Heim — mit Namen der Einrichtung,
+ Aufnahmedatum, Pflegegrad)
+ - Gesundheitlicher Zustand (aktuelle Diagnosen, Veränderungen im
+ Berichtszeitraum, Klinikaufenthalte)
+ - Soziales Umfeld (Angehörige, Freundeskreis, ehrenamtliche Helfer)
+ - Wirtschaftliche Verhältnisse in Eckdaten (Anfangs-/Endvermögen,
+ Sozialleistungsbezug)
+ - Berufliche oder ehrenamtliche Tätigkeit, Beschäftigung
 
 3. **Persönliche Kontakte tabellarisch belegen**
-   Pro Kontakt: Datum, Dauer, Ort, kurze Inhaltsangabe, eigener Eindruck,
-   Wunschbezug und offene Folgeaufgabe. Bei Heimbewohnern Kontakte nicht nur
-   aus Heimberichten ableiten.
+ Pro Kontakt: Datum, Dauer, Ort, kurze Inhaltsangabe, eigener Eindruck,
+ Wunschbezug und offene Folgeaufgabe. Bei Heimbewohnern Kontakte nicht nur
+ aus Heimberichten ableiten.
 
 4. **Wünsche und ihre Verwirklichung**
-   - Wünsche der betreuten Person (geäußert oder erschlossen aus früheren
-     Willensbekundungen, Patientenverfügung, Vorsorgevollmacht)
-   - Maßnahmen des Betreuers zur Verwirklichung
-   - Bei Abweichung: Begründung (§ 1821 Abs. 3 BGB — erhebliche
-     Gefährdung)
+ - Wünsche der betreuten Person (geäußert oder erschlossen aus früheren
+ Willensbekundungen, Patientenverfügung, Vorsorgevollmacht)
+ - Maßnahmen des Betreuers zur Verwirklichung
+ - Bei Abweichung: Begründung (§ 1821 Abs. 3 BGB — erhebliche
+ Gefährdung)
 
 5. **Anlass zur Änderung der Betreuung prüfen**
-   - Sind alle Aufgabenkreise weiter erforderlich? (Verhältnismäßigkeit,
-     § 1814 Abs. 3 BGB)
-   - Sind weitere Aufgabenkreise erforderlich geworden?
-   - Lässt sich die Betreuung aufheben (z. B. wegen Vorsorgevollmacht
-     oder Genesung)?
+ - Sind alle Aufgabenkreise weiter erforderlich? (Verhältnismäßigkeit,
+ § 1814 Abs. 3 BGB)
+ - Sind weitere Aufgabenkreise erforderlich geworden?
+ - Lässt sich die Betreuung aufheben (z. B. wegen Vorsorgevollmacht
+ oder Genesung)?
 
 6. **Vermögensentwicklung — Eckdaten**
-   Bei Vermögenssorge: kurze Eckdaten (Anfangsbestand, Endbestand, große
-   Veränderungen). Die detaillierte **Rechnungslegung** erfolgt gesondert
-   nach § 1865 BGB (vereinfachte Rechnungslegung für Familienangehörige
-   nach § 1859 BGB ggf. möglich).
+ Bei Vermögenssorge: kurze Eckdaten (Anfangsbestand, Endbestand, große
+ Veränderungen). Die detaillierte **Rechnungslegung** erfolgt gesondert
+ nach § 1865 BGB (vereinfachte Rechnungslegung für Familienangehörige
+ nach § 1859 BGB ggf. möglich).
 
 7. **Anlagen zusammenstellen**
-   Aktuelle Arztbriefe (sofern für Bericht relevant), Heim-/Pflegebericht
-   (sofern vorhanden), gegebenenfalls Patientenverfügung, Vorsorgevollmacht,
-   Schreiben mit Wunschäußerungen der betreuten Person.
+ Aktuelle Arztbriefe (sofern für Bericht relevant), Heim-/Pflegebericht
+ (sofern vorhanden), gegebenenfalls Patientenverfügung, Vorsorgevollmacht,
+ Schreiben mit Wunschäußerungen der betreuten Person.
 
 ## Ausgabeformat
 
@@ -434,42 +434,42 @@ Aktenzeichen: [XVII … / …]
 Jahresbericht des Betreuers nach § 1863 Abs. 3 BGB
 Berichtszeitraum: [TT.MM.JJJJ – TT.MM.JJJJ]
 
-Betreute Person:    [Name, Vorname]
-Geboren:            [TT.MM.JJJJ]
-Anschrift:          [Aktueller Aufenthaltsort, Einrichtung]
-Bestellung:         [TT.MM.JJJJ]
-Aufgabenkreise:     [Aufzählung gem. § 1815 BGB]
+Betreute Person: [Name, Vorname]
+Geboren: [TT.MM.JJJJ]
+Anschrift: [Aktueller Aufenthaltsort, Einrichtung]
+Bestellung: [TT.MM.JJJJ]
+Aufgabenkreise: [Aufzählung gem. § 1815 BGB]
 
 1. Persönliche Verhältnisse der betreuten Person
-   1.1 Wohnsituation
-   1.2 Gesundheitlicher Zustand
-   1.3 Soziales Umfeld
-   1.4 Wirtschaftliche Verhältnisse (Eckdaten)
+ 1.1 Wohnsituation
+ 1.2 Gesundheitlicher Zustand
+ 1.3 Soziales Umfeld
+ 1.4 Wirtschaftliche Verhältnisse (Eckdaten)
 
 2. Persönliche Kontakte im Berichtszeitraum
-   Tabellarische Aufstellung: Datum | Ort | Dauer | Inhalt
-   Gesamtfrequenz: [n Besuche, n Telefonate]
+ Tabellarische Aufstellung: Datum | Ort | Dauer | Inhalt
+ Gesamtfrequenz: [n Besuche, n Telefonate]
 
 3. Wünsche der betreuten Person und ihre Verwirklichung
-   3.1 Geäußerte oder erschlossene Wünsche
-   3.2 Umgesetzte Maßnahmen
-   3.3 Ggf. Abweichungen und deren Begründung (§ 1821 Abs. 3 BGB)
+ 3.1 Geäußerte oder erschlossene Wünsche
+ 3.2 Umgesetzte Maßnahmen
+ 3.3 Ggf. Abweichungen und deren Begründung (§ 1821 Abs. 3 BGB)
 
 4. Anlass zur Änderung der Betreuung
-   [Aufhebung / Erweiterung / Einschränkung / kein Anlass]
+ [Aufhebung / Erweiterung / Einschränkung / kein Anlass]
 
 5. Vermögensentwicklung (Eckdaten)
-   Anfangsbestand:  [Datum, Betrag]
-   Endbestand:      [Datum, Betrag]
-   Wesentliche Veränderungen:
-   Gesonderte Rechnungslegung nach § 1865 BGB: beigefügt / folgt am …
+ Anfangsbestand: [Datum, Betrag]
+ Endbestand: [Datum, Betrag]
+ Wesentliche Veränderungen:
+ Gesonderte Rechnungslegung nach § 1865 BGB: beigefügt / folgt am …
 
 6. Anlagen
-   [Liste]
+ [Liste]
 
-Ort, Datum                              [Name, Unterschrift Betreuer/in]
-                                        Betreuer/in
-                                        ggf. Registrierungs-Nr. bei Berufsbetreuung
+Ort, Datum [Name, Unterschrift Betreuer/in]
+ Betreuer/in
+ ggf. Registrierungs-Nr. bei Berufsbetreuung
 ```
 
 ## Beispiel
@@ -478,18 +478,18 @@ Ort, Datum                              [Name, Unterschrift Betreuer/in]
 
 - Betreuung Frau Hannelore K., geb. 14.03.1942, AZ XVII 0234/24
 - Aufgabenkreise: Vermögenssorge, Gesundheitssorge, Aufenthaltsbestimmung,
-  Vertretung gegenüber Heim, Postangelegenheiten
+ Vertretung gegenüber Heim, Postangelegenheiten
 - Berichtszeitraum: 01.06.2025 – 31.05.2026
 - E-Mails: 12 mit Heimleitung Sonnenhof Berlin-Spandau, 4 mit Hausarzt
-  Dr. Petersen, 8 mit Rentenversicherung
+ Dr. Petersen, 8 mit Rentenversicherung
 - Aktenvermerke: 6 Besuche im Heim (jeweils ca. 60 Min), 14 Telefonate
 - Arztbriefe: Kardiologie Vivantes Spandau v. 12.09.2025 (Vorhofflimmern,
-  Antikoagulation eingeleitet); Allgemeinmedizin Petersen v. 02.03.2026
+ Antikoagulation eingeleitet); Allgemeinmedizin Petersen v. 02.03.2026
 - Heimrechnung: Pflegegrad 4, Eigenanteil 2.341 EUR/Monat, Sozialhilfe ergänzt
 - Kontoauszüge: Anfangsbestand 18342.12 EUR, Endbestand 16108.77 EUR
 - Wunschäußerung Frau K. (Vermerk v. 24.11.2025): "Möchte am Heiligabend
-  bei Tochter Susanne in Potsdam sein" — umgesetzt durch Abholfahrt am
-  24.12.2025
+ bei Tochter Susanne in Potsdam sein" — umgesetzt durch Abholfahrt am
+ 24.12.2025
 
 **Ausgabe (Auszug Abschnitt 2):**
 

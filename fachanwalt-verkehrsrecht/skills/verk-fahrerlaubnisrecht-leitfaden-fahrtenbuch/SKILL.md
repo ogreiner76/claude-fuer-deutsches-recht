@@ -1,13 +1,13 @@
 ---
 name: verk-fahrerlaubnisrecht-leitfaden-fahrtenbuch
-description: "Nutze dies, wenn Verk Fahrerlaubnisrecht Leitfaden, Verk Fahrtenbuch Anordnung Spezial, Verk Trunkenheit Drogenfahrt Spezial im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Verk Fahrerlaubnisrecht Leitfaden, Verk Fahrtenbuch Anordnung Spezial, Verk Trunkenheit Drogenfahrt Spezial prüfen.; Erstelle eine Arbeitsfassung zu Verk Fahrerlaubnisrecht Leitfaden, Verk Fahrtenbuch Anordnung Spezial, Verk Trunkenheit Drogenfahrt Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verk Fahrerlaubnisrecht Leitfaden, Verk Fahrtenbuch Anordnung Spezial, Verk Trunkenheit Drogenfahrt Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verk Fahrerlaubnisrecht Leitfaden, Verk Fahrtenbuch Anordnung Spezial, Verk Trunkenheit Drogenfahrt Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verk Fahrerlaubnisrecht Leitfaden, Verk Fahrtenbuch Anordnung Spezial, Verk Trunkenheit Drogenfahrt Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

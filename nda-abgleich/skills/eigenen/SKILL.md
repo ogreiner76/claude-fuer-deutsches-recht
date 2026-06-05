@@ -1,12 +1,12 @@
 ---
 name: eigenen
-description: "Nutze dies, wenn Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Nda Abgleich konkret bearbeitet werden soll. Auslöser: Bitte Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien prüfen.; Erstelle eine Arbeitsfassung zu Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien / spezial eigenen risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien / eigenen risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

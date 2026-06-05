@@ -1,13 +1,13 @@
 ---
 name: notare-umwandlung-registersperre
-description: "Nutze dies, wenn Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck prüfen.; Erstelle eine Arbeitsfassung zu Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung U..."
+description: "Nutze dies bei Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Umwandlung Und Registersperre Rechtsprechungscheck Und R, Notare Unparteilichkeit Bei Familiengesellschaft Rechtsprechung, Notare Urkundenrolle Fehler Rechtsprechungscheck Und Red Team, Notare Urkundensammlung Und Verwahrung Rechtsprechungscheck Und, Notare Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

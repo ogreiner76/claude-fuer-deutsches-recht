@@ -1,13 +1,13 @@
 ---
 name: ins-directors-ins-closed
-description: "Nutze dies, wenn Ins 009 Directors Dealings, Ins 010 Closed Periods im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 009 Directors Dealings, Ins 010 Closed Periods prüfen.; Erstelle eine Arbeitsfassung zu Ins 009 Directors Dealings, Ins 010 Closed Periods.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 009 Directors Dealings, Ins 010 Closed Periods: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 009 Directors Dealings, Ins 010 Closed Periods
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 009 Directors Dealings, Ins 010 Closed Periods** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -56,20 +56,20 @@ Ausnahmen ab.
 
 PDMRs (Persons Discharging Managerial Responsibilities):
 - Vorstandsmitglieder, Aufsichtsratsmitglieder, leitende Angestellte mit regelmäßigem Zugang
-  zu Insiderinformationen und Befugnis zu wesentlichen Managemententscheidungen
+ zu Insiderinformationen und Befugnis zu wesentlichen Managemententscheidungen
 
 Nahestehende Personen (Art. 3 Abs. 1 Nr. 26 MAR):
 - Ehe-/Lebenspartner, unterhaltsberechtigte Kinder, Verwandte seit ≥1 Jahr im gemeinsamen
-  Haushalt
+ Haushalt
 - Juristische Personen unter Kontrolle des PDMR oder nahestehender Person
 
 ### Schritt 2 – Meldepflichtige Transaktionen und Schwelle
 
 Meldepflichtige Geschäfte:
 - Kauf, Verkauf, Leerverkauf, Tausch, Schenkung, Erbschaft, Ausübung von Optionen und Bezugs-
-  rechten in Aktien, Anleihen, Derivaten des Emittenten
+ rechten in Aktien, Anleihen, Derivaten des Emittenten
 Schwelle: 20.000 EUR kumuliert im Kalenderjahr → erste Meldung wenn erreicht, danach
-  jede weitere Transaktion meldepflichtig (kein neues Jahresreset bis Jahresende)
+ jede weitere Transaktion meldepflichtig (kein neues Jahresreset bis Jahresende)
 
 ### Schritt 3 – Frist und Format
 
@@ -77,7 +77,7 @@ Schwelle: 20.000 EUR kumuliert im Kalenderjahr → erste Meldung wenn erreicht, 
 - Meldung an BaFin UND Emittenten (Art. 19 Abs. 2 MAR)
 - Emittent veröffentlicht innerhalb von 3 Geschäftstagen nach Eingang (§ 119 WpHG)
 - Format: DVO (EU) 2016/523-konformes Formular mit Pflichtfeldern (Name, Position, Art des
-  Instruments, Art der Transaktion, Datum, Preis, Volumen)
+ Instruments, Art der Transaktion, Datum, Preis, Volumen)
 
 ### Schritt 4 – Closed Periods (Art. 19 Abs. 11 MAR)
 
@@ -144,7 +144,7 @@ Kommunikation an PDMRs sicher und prüft Ausnahmeanträge auf Zulässigkeit.
 ### Schritt 1 – Closed-Period-Kalender erstellen
 
 - Identifiziere alle relevanten Berichtstermine: Jahresabschluss, Halbjahresbericht
-  (nicht Quartalsmitteilungen nach Art. 19 Abs. 11 MAR)
+ (nicht Quartalsmitteilungen nach Art. 19 Abs. 11 MAR)
 - Berechne Closed-Period-Beginn: 30 Kalendertage vor geplantem Veröffentlichungstermin
 - Ende der Closed Period: Tag der Veröffentlichung (inkl.)
 - Kalender für das gesamte Geschäftsjahr im Voraus erstellen
@@ -152,7 +152,7 @@ Kommunikation an PDMRs sicher und prüft Ausnahmeanträge auf Zulässigkeit.
 ### Schritt 2 – Kommunikation an PDMRs
 
 - Schriftliche Mitteilung an alle PDMRs (und nahestehende Personen) spätestens 5 Werktage
-  vor Beginn jeder Closed Period
+ vor Beginn jeder Closed Period
 - Inhalt: Beginn- und Enddatum, betroffene Instrumente, Konsequenzen bei Verletzung
 - Empfangsbestätigung einholen und archivieren
 
@@ -161,7 +161,7 @@ Kommunikation an PDMRs sicher und prüft Ausnahmeanträge auf Zulässigkeit.
 Ausnahmen nur bei außergewöhnlichen Umständen:
 a) Finanzieller Notfall des PDMR (z. B. dringende Liquiditätsbeschaffung)
 b) Merkmale der Transaktion lassen Bezug zur Insiderinformation ausscheiden
-   (z. B. automatischer Sparplan, der vor Closed Period eingerichtet wurde)
+ (z. B. automatischer Sparplan, der vor Closed Period eingerichtet wurde)
 Antragsprozess:
 - Schriftlicher Antrag des PDMR mit Begründung
 - Entscheidung durch Compliance (und ggf. Vorstand) mit Begründung
@@ -179,7 +179,7 @@ Ausnahme ist restriktiv auszulegen; bloße finanzielle Bequemlichkeit genügt ni
 Falls eine Closed-Period-Verletzung festgestellt wird:
 - Sofortige Benachrichtigung des CFO und Compliance-Officers
 - Prüfung: Lag eine Ausnahme vor? Wenn nein: Meldepflicht nach Art. 19 MAR (ex post),
-  BaFin-Meldung und interne Untersuchung
+ BaFin-Meldung und interne Untersuchung
 - Bußgeld nach § 120 WpHG möglich (bis zu 1 Mio. EUR für natürliche Personen)
 
 ## Red-Team-Fragen

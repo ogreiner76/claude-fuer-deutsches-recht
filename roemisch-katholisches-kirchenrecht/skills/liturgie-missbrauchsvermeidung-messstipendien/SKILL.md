@@ -1,22 +1,22 @@
 ---
 name: liturgie-missbrauchsvermeidung-messstipendien
-description: "Nutze dies, wenn Liturgie Und Missbrauchsvermeidung, Messstipendien Und Intentionen, Mischehe Und Religionsverschiedenheit, Missio Canonica Und Lehrerlaubnis im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Liturgie Und Missbrauchsvermeidung, Messstipendien Und Intentionen, Mischehe Und Religionsverschiedenheit, Missio Canonica Und Lehrerlaubnis prüfen.; Erstelle eine Arbeitsfassung zu Liturgie Und Missbrauchsvermeidung, Messstipendien Und Intentionen, Mischehe Und Religionsverschiedenheit, Missio Canonica Und Lehrerlaubnis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Liturgie Und Missbrauchsvermeidung, Messstipendien Und Intentionen, Mischehe Und Religionsverschiedenheit, Missio Canonica Und Lehrerlaubnis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Liturgie Und Missbrauchsvermeidung, Messstipendien Und Intentionen, Mischehe Und Religionsverschiedenheit, Missio Canonica Und Lehrerlaubnis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Liturgie Und Missbrauchsvermeidung, Messstipendien Und Intentionen, Mischehe Und Religionsverschiedenheit, Missio Canonica Und Lehrerlaubnis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `liturgie-und-missbrauchsvermeidung` | Liturgie und Missbrauchsvermeidung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `messstipendien-und-intentionen` | Messstipendien und Intentionen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `mischehe-und-religionsverschiedenheit` | Mischehe und Religionsverschiedenheit: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `missio-canonica-und-lehrerlaubnis` | Missio canonica und Lehrerlaubnis: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `liturgie-und-missbrauchsvermeidung` | Liturgie und Missbrauchsvermeidung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `messstipendien-und-intentionen` | Messstipendien und Intentionen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `mischehe-und-religionsverschiedenheit` | Mischehe und Religionsverschiedenheit: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `missio-canonica-und-lehrerlaubnis` | Missio canonica und Lehrerlaubnis: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Liturgie Und Missbrauchsvermeidung, Messstipendien Und Intentionen, Misch
 
 ## 1. `liturgie-und-missbrauchsvermeidung`
 
-**Fokus:** Liturgie und Missbrauchsvermeidung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Liturgie und Missbrauchsvermeidung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Liturgie und Missbrauchsvermeidung
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `messstipendien-und-intentionen`
 
-**Fokus:** Messstipendien und Intentionen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Messstipendien und Intentionen: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Messstipendien und Intentionen
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `mischehe-und-religionsverschiedenheit`
 
-**Fokus:** Mischehe und Religionsverschiedenheit: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Mischehe und Religionsverschiedenheit: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Mischehe und Religionsverschiedenheit
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `missio-canonica-und-lehrerlaubnis`
 
-**Fokus:** Missio canonica und Lehrerlaubnis: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Missio canonica und Lehrerlaubnis: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Missio canonica und Lehrerlaubnis
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

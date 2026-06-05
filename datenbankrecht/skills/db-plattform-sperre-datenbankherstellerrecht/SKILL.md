@@ -1,13 +1,13 @@
 ---
 name: db-plattform-sperre-datenbankherstellerrecht
-description: "Nutze dies, wenn Db 043 Plattform Sperre Wegen Data Extraction, Db 044 Datenbankherstellerrecht Gegen Ex Mitarbeiter, Db 045 Beweissicherung Durch Testcrawler im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 043 Plattform Sperre Wegen Data Extraction, Db 044 Datenbankherstellerrecht Gegen Ex Mitarbeiter, Db 045 Beweissicherung Durch Testcrawler prüfen.; Erstelle eine Arbeitsfassung zu Db 043 Plattform Sperre Wegen Data Extraction, Db 044 Datenbankherstellerrecht Gegen Ex Mitarbeiter, Db 045 Beweissicherung Durch Testcrawler.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Db 043 Plattform Sperre Wegen Data Extraction, Db 044 Datenbankherstellerrecht Gegen Ex Mitarbeiter, Db 045 Beweissicherung Durch Testcrawler: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 043 Plattform Sperre Wegen Data Extraction, Db 044 Datenbankherstellerrecht Gegen Ex Mitarbeiter, Db 045 Beweissicherung Durch Testcrawler
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 043 Plattform Sperre Wegen Data Extraction, Db 044 Datenbankherstellerrecht Gegen Ex Mitarbeiter, Db 045 Beweissicherung Durch Testcrawler** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

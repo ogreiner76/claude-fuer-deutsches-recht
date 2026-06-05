@@ -1,27 +1,27 @@
 ---
 name: gmbh-gesellschaftsgruender
-description: "Nutze dies, wenn Workflow Fristen Und Risikoampel, Spezial Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgründer Geschaeftsfuehrervertrag, Gesellschaftsgründer Gesellschaftsvertrag Gmbh, Gesellschaftsgründer Klauselkatalog Bilingual im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Workflow Fristen Und Risikoampel, Spezial Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgründer Geschaeftsfuehrervertrag, Gesellschaftsgründer Gesellschaftsvertrag Gmbh, Gesellschaftsgründer Klauselkatalog Bilingual prüfen.; Erstelle eine Arbeitsfassung zu Workflow Fristen Und Risikoampel, Spezial Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgründer Geschaeftsfuehrervertrag, Gesellschaftsgründer Gesellschaftsvertrag Gmbh, Gesellschaftsgründer Klauselkatalog Bilingual.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fristen Und Risikoampel, Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgruender Geschaeftsfuehrervertrag, Gesellschaftsgruender Gesellschaftsvertrag Gmbh: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Fristen Und Risikoampel, Spezial Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgründer Geschaeftsfuehrervertrag, Gesellschaftsgründer Gesellschaftsvertrag Gmbh, Gesellschaftsgründer Klauselkatalog Bilingual
+# Fristen Und Risikoampel, Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgründer Geschaeftsfuehrervertrag, Gesellschaftsgründer Gesellschaftsvertrag Gmbh, Gesellschaftsgründer Klauselkatalog Bilingual
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fristen Und Risikoampel, Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgründer Geschaeftsfuehrervertrag, Gesellschaftsgründer Gesellschaftsvertrag Gmbh, Gesellschaftsgründer Klauselkatalog Bilingual** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin gesellschaftsgruender: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `spezial-gmbh-fristen-form-und-zustaendigkeit` | GmbH: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gmbh-fristen-form-und-zustaendigkeit` | GmbH: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsgründung: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `gesellschaftsgruender-geschaeftsfuehrervertrag` | Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kündigungsfristen. Normen: §§ 35 38 GmbHG, BGB Dienstvertrag. Prüfraster: Verguetungsstruktur, Tantieme, Freistellung, Geheimhaltung, Pensionszusage. Output: Geschäftsführervertrags-Entwurf. Abgrenzung: nicht Anstellungsvertrag Arbeitnehmer. |
 | `gesellschaftsgruender-gesellschaftsvertrag-gmbh` | GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassung, Gewinnverteilung. Normen: §§ 2 3 5 GmbHG. Prüfraster: Notarerfordernis, Pflichtinhalte, Optionalklauseln, Sonderrechte. Output: GmbH-Gesellschaftsvertragsentwurf. Abgrenzung: nicht UG-Gründung mit Musterprotokoll § 2 Abs. 1a GmbHG. |
 | `gesellschaftsgruender-klauselkatalog-bilingual` | Klauselkatalog für GmbH-Satzung und SHA in Deutsch und Englisch: Standardklauseln für internationale Investoren. Normen: GmbHG, BGB. Prüfraster: Drag-Along, Tag-Along, Liquidationspräferenzen, Leaver-Klauseln. Output: Klauselkatalog bilinguale Fassung. Abgrenzung: nicht vollständiger Gesellschaftsvertrag. |
 
 ## Arbeitsweg
 
-Für **Workflow Fristen Und Risikoampel, Spezial Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgründer Geschaeftsfuehrervertrag, Gesellschaftsgründer Gesellschaftsvertrag Gmbh, Gesellschaftsgründer Klauselkatalog Bilingual** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristen Und Risikoampel, Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgründer Geschaeftsfuehrervertrag, Gesellschaftsgründer Gesellschaftsvertrag Gmbh, Gesellschaftsgründer Klauselkatalog Bilingual** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,10 +42,10 @@ Für **Workflow Fristen Und Risikoampel, Spezial Gmbh Fristen Form Und Zustaendi
 
 
 ## Aufgabe
-Dieser Workflow-Skill für `gesellschaftsgruender` Fristen- und Risikoampel im Plugin gesellschaftsgruender: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin gesellschaftsgruender: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -55,7 +55,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -72,7 +72,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 2. `spezial-gmbh-fristen-form-und-zustaendigkeit`
 
-**Fokus:** GmbH: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** GmbH: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsgründung: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # GmbH: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -86,7 +86,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 
 ## Spezialwissen: GmbH: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** GmbH: Fristen, Form, Zuständigkeit und Rechtsweg / spezial gmbh fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** GmbH: Fristen, Form, Zuständigkeit und Rechtsweg / gmbh fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UG, OHG, KG, PartG, MoPeG, DiRUG, GwG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -356,11 +356,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 (1) Die Gesellschaft hat [einen / mehrere] Geschäftsführer.
 (2) Ist nur ein Geschäftsführer bestellt, vertritt er die Gesellschaft allein.
-    Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft [durch je zwei
-    Geschäftsführer gemeinsam / durch einen Geschäftsführer allein] vertreten.
+ Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft [durch je zwei
+ Geschäftsführer gemeinsam / durch einen Geschäftsführer allein] vertreten.
 (3) Die Geschäftsführer sind von den Beschränkungen des § 181 BGB befreit.
 (4) Durch Gesellschafterbeschluss kann einzelnen Geschäftsführern Einzelvertretungs-
-    befugnis erteilt werden.
+ befugnis erteilt werden.
 ```
 
 ### Vinkulierung
@@ -369,8 +369,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 § [Y] Übertragung von Geschäftsanteilen
 
 (1) Die Übertragung von Geschäftsanteilen oder Teilen davon bedarf der Zustimmung
-    der Gesellschaft, die durch Beschluss der Gesellschafterversammlung mit einfacher
-    Mehrheit erteilt wird (Vinkulierung, § 15 Abs. 5 GmbHG).
+ der Gesellschaft, die durch Beschluss der Gesellschafterversammlung mit einfacher
+ Mehrheit erteilt wird (Vinkulierung, § 15 Abs. 5 GmbHG).
 (2) Das Vorkaufsrecht der übrigen Gesellschafter bleibt unberührt.
 ```
 
@@ -381,10 +381,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 (1) Die Einziehung von Geschäftsanteilen ist zulässig.
 (2) Einziehungsgründe sind:
-    a) Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters;
-    b) Pfändung des Geschäftsanteils, sofern sie nicht innerhalb von 3 Monaten aufgehoben wird;
-    c) Ausscheiden eines Gesellschafters aus wichtigem Grund gemäß § [SHA-Verweis];
-    d) Ablauf der Vesting-Periode gemäß § [SHA-Verweis] (Leaver-Fall).
+ a) Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters;
+ b) Pfändung des Geschäftsanteils, sofern sie nicht innerhalb von 3 Monaten aufgehoben wird;
+ c) Ausscheiden eines Gesellschafters aus wichtigem Grund gemäß § [SHA-Verweis];
+ d) Ablauf der Vesting-Periode gemäß § [SHA-Verweis] (Leaver-Fall).
 (3) Die Abfindung beträgt bei Good-Leaver: [Verkehrswert]; bei Bad-Leaver: [Nominalwert].
 (4) Die Einziehung erfolgt durch Beschluss der Gesellschafterversammlung mit [75] %-Mehrheit.
 ```
@@ -407,15 +407,15 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 GESELLSCHAFTSVERTRAG [FIRMENNAME] GMBH
 Version: [Nr.], Datum: [Datum], Notariell beurkundet: [Datum]
 
-§ 1  Firma, Sitz
-§ 2  Gegenstand des Unternehmens
-§ 3  Stammkapital und Geschäftsanteile
-§ 4  Einzahlung des Stammkapitals
-§ 5  Geschäftsführung und Vertretung
-§ 6  Beschränkungen der Geschäftsführung (Zustimmungsvorbehalte)
-§ 7  Gesellschafterversammlung (Einberufung, Ort, Form)
-§ 8  Beschlussfassung (Mehrheiten, Quorum)
-§ 9  Übertragung von Geschäftsanteilen (Vinkulierung, Vorkaufsrecht)
+§ 1 Firma, Sitz
+§ 2 Gegenstand des Unternehmens
+§ 3 Stammkapital und Geschäftsanteile
+§ 4 Einzahlung des Stammkapitals
+§ 5 Geschäftsführung und Vertretung
+§ 6 Beschränkungen der Geschäftsführung (Zustimmungsvorbehalte)
+§ 7 Gesellschafterversammlung (Einberufung, Ort, Form)
+§ 8 Beschlussfassung (Mehrheiten, Quorum)
+§ 9 Übertragung von Geschäftsanteilen (Vinkulierung, Vorkaufsrecht)
 § 10 Einziehung von Geschäftsanteilen
 § 11 Abfindung bei Ausscheiden
 § 12 Gewinnverwendung
@@ -599,7 +599,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 >
 > (1) Folgende Beschlüsse der Gesellschafterversammlung bedürfen einer qualifizierten Mehrheit von 80 % der abgegebenen Stimmen:
 >
-> a) Änderung der Satzung,  b) Änderung des Geschäftsgegenstands,  c) Auflösung der Gesellschaft,  d) Bestellung und Abberufung von Geschäftsführern,  e) Anstellung, Änderung und Kündigung von Anstellungsverträgen mit Geschäftsführern (insbesondere des Gesellschafter-Geschäftsführers [Name]),  f) Weisungen an die Geschäftsführung,  g) Änderung der Geschäftsordnung der Geschäftsführung,  h) Investitionen und Verpflichtungen über 100.000 EUR im Einzelfall.
+> a) Änderung der Satzung, b) Änderung des Geschäftsgegenstands, c) Auflösung der Gesellschaft, d) Bestellung und Abberufung von Geschäftsführern, e) Anstellung, Änderung und Kündigung von Anstellungsverträgen mit Geschäftsführern (insbesondere des Gesellschafter-Geschäftsführers [Name]), f) Weisungen an die Geschäftsführung, g) Änderung der Geschäftsordnung der Geschäftsführung, h) Investitionen und Verpflichtungen über 100.000 EUR im Einzelfall.
 >
 > (2) Aufgrund der Anteilshöhe der Gesellschafterin [Name] in Höhe von 25 % (und damit über der Sperrschwelle von 20 % bei einer 80 %-Mehrheit) besteht eine echte gesellschaftsvertragliche Sperrminorität. Beschlüsse zu den vorgenannten Themen können ohne ihre Zustimmung nicht gefasst werden.
 >
@@ -933,22 +933,22 @@ Mandat: [MANDANT] | Dokument: [SHA / Satzung] | Datum: [DATUM]
 
 GEPRUEFTE KLAUSELN:
 
-| Klausel                | Vorhanden | Fassung | Kommentar |
+| Klausel | Vorhanden | Fassung | Kommentar |
 |------------------------|-----------|---------|-----------|
-| Sprachvorrang-Klausel  | Ja / Nein | DE/EN   |           |
-| Drag-Along             | Ja / Nein | [%]     | Schwelle  |
-| Tag-Along              | Ja / Nein |         |           |
-| Liquidation Preference | Ja / Nein | 1x / 2x |           |
-| Anti-Dilution          | Ja / Nein | WA-BB   |           |
-| Vesting-Klausel        | Ja / Nein | 48M/12C |           |
-| Bad-Leaver / Good-Leaver| Ja / Nein|         |           |
-| Sperrminoritaet        | Ja / Nein | [%]     | SV-Schutz |
-| Wettbewerbsverbot      | Ja / Nein | [M]     | Karenz?   |
-| Schiedsklausel         | Ja / Nein | DIS     | Sprache   |
+| Sprachvorrang-Klausel | Ja / Nein | DE/EN | |
+| Drag-Along | Ja / Nein | [%] | Schwelle |
+| Tag-Along | Ja / Nein | | |
+| Liquidation Preference | Ja / Nein | 1x / 2x | |
+| Anti-Dilution | Ja / Nein | WA-BB | |
+| Vesting-Klausel | Ja / Nein | 48M/12C | |
+| Bad-Leaver / Good-Leaver| Ja / Nein| | |
+| Sperrminoritaet | Ja / Nein | [%] | SV-Schutz |
+| Wettbewerbsverbot | Ja / Nein | [M] | Karenz? |
+| Schiedsklausel | Ja / Nein | DIS | Sprache |
 
 OFFENE PUNKTE:
-  [ ] [KLAUSEL] fehlt noch; Entwurf bis [DATUM]
-  [ ] [KLAUSEL] muss an Satzung angepasst werden
+ [ ] [KLAUSEL] fehlt noch; Entwurf bis [DATUM]
+ [ ] [KLAUSEL] muss an Satzung angepasst werden
 
 FREIGABE: [NAME / DATUM]
 ```

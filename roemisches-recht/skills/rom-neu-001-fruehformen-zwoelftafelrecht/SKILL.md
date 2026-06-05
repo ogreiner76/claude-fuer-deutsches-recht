@@ -1,6 +1,6 @@
 ---
 name: rom-neu-001-fruehformen-zwoelftafelrecht
-description: "Nutze dies, wenn Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel

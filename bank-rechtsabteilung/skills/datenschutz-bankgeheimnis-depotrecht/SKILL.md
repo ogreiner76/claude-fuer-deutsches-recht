@@ -1,13 +1,13 @@
 ---
 name: datenschutz-bankgeheimnis-depotrecht
-description: "Nutze dies, wenn Datenschutz Bankgeheimnis, Depotrecht Tokenisierte Wertpapiere, Dlt Pilot Regime Market Infrastructure, Dokumentengeschaeft Akkreditiv Inkasso Standby, Dora Art16 Vereinfachter Ikt Rahmen im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Bitte Datenschutz Bankgeheimnis, Depotrecht Tokenisierte Wertpapiere, Dlt Pilot Regime Market Infrastructure, Dokumentengeschaeft Akkreditiv Inkasso Standby, Dora Art16 Vereinfachter Ikt Rahmen prüfen.; Erstelle eine Arbeitsfassung zu Datenschutz Bankgeheimnis, Depotrecht Tokenisierte Wertpapiere, Dlt Pilot Regime Market Infrastructure, Dokumentengeschaeft Akkreditiv Inkasso Standby, Dora Art16 Vereinfachter Ikt Rahmen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Datenschutz Bankgeheimnis, Depotrecht Tokenisierte Wertpapiere, Dlt Pilot Regime Market Infrastructure, Dokumentengeschaeft Akkreditiv Inkasso Standby: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Datenschutz Bankgeheimnis, Depotrecht Tokenisierte Wertpapiere, Dlt Pilot Regime Market Infrastructure, Dokumentengeschaeft Akkreditiv Inkasso Standby, Dora Art16 Vereinfachter Ikt Rahmen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutz Bankgeheimnis, Depotrecht Tokenisierte Wertpapiere, Dlt Pilot Regime Market Infrastructure, Dokumentengeschaeft Akkreditiv Inkasso Standby, Dora Art16 Vereinfachter Ikt Rahmen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -46,18 +46,18 @@ Anwendungsfälle: Kanzlei oder Unternehmen moechte einen US-amerikanischen SaaS-
 | **USA** | EU-US Data Privacy Framework, Beschluss der Kommission vom 10.07.2023 (C(2023) 4745 final) | Nur für zertifizierte Unternehmen auf der DPF-Liste; Prüfung auf data.privacyframework.gov erforderlich |
 | **UK** | Angemessenheitsbeschluss vom 28.06.2021 (Beschluss 2021/1772/EU) | Gilt vorbehaltlich Überprüfung; nach Brexit-Änderungen des britischen Datenschutzrechts beobachten |
 | **Schweiz** | Angemessenheitsbeschluss der Kommission; erneuert im Kontext des CH-Datenschutzgesetzes (nDSG, in Kraft ab 01.09.2023) | Teilweiser Angemessenheitsbeschluss; Praxis nach CH-DSG-Reform beachten |
-| **Andorra** | Beschluss 2010/625/EU |  |
-| **Argentinien** | Beschluss 2003/490/EG |  |
-| **Faeroeer** | Beschluss 2010/146/EU |  |
-| **Guernsey** | Beschluss 2003/821/EG |  |
-| **Isle of Man** | Beschluss 2004/411/EG |  |
-| **Israel** | Beschluss 2011/61/EU |  |
+| **Andorra** | Beschluss 2010/625/EU | |
+| **Argentinien** | Beschluss 2003/490/EG | |
+| **Faeroeer** | Beschluss 2010/146/EU | |
+| **Guernsey** | Beschluss 2003/821/EG | |
+| **Isle of Man** | Beschluss 2004/411/EG | |
+| **Israel** | Beschluss 2011/61/EU | |
 | **Japan** | Beschluss vom 23.01.2019 (2019/419/EU) | Mit gegenseitiger Anerkennung; Einschraenkungen beachten |
-| **Jersey** | Beschluss 2008/393/EG |  |
+| **Jersey** | Beschluss 2008/393/EG | |
 | **Kanada** | Beschluss 2002/2/EG | Nur für Organisationen, die dem PIPEDA unterliegen; Bundesbehörden ausgenommen |
-| **Neuseeland** | Beschluss 2013/65/EU |  |
+| **Neuseeland** | Beschluss 2013/65/EU | |
 | **Suedkorea** | Beschluss vom 17.12.2021 (2022/254/EU) | Erster Angemessenheitsbeschluss in Asien außerhalb Japan |
-| **Uruguay** | Beschluss 2012/484/EU |  |
+| **Uruguay** | Beschluss 2012/484/EU | |
 
 ## Ablauf
 
@@ -179,23 +179,23 @@ Transfermechanismus: [SCC Modul X / BCR / DPF]
 Datenkategorien: [Auflistung]
 
 1. Kartierung der Uebermittlung
-   [Zweck, Umfang, Haeufigkeit]
+ [Zweck, Umfang, Haeufigkeit]
 
 2. Rechtslage im Empfaengerland
-   [Relevante Gesetze, Massengesetze, Behoerdenzugriffsrechte]
-   Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Laenderanalysen]
+ [Relevante Gesetze, Massengesetze, Behoerdenzugriffsrechte]
+ Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Laenderanalysen]
 
 3. Schutzlueckenanalyse
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 4. Ergaenzende Massnahmen
-   [Verschluesselung, Pseudonymisierung, vertragliche Massnahmen]
+ [Verschluesselung, Pseudonymisierung, vertragliche Massnahmen]
 
 5. Ergebnis und Restrisiko
-   [Gruen / Orange / Rot – Begruendung]
+ [Gruen / Orange / Rot – Begruendung]
 
 6. Massnahmenplan
-   [Bei Orange oder Rot: konkrete Abhilfemassnahmen mit Frist und Verantwortlichen]
+ [Bei Orange oder Rot: konkrete Abhilfemassnahmen mit Frist und Verantwortlichen]
 
 Unterschrift DSB: _____________
 Freigabe Datenschutzbeauftragter: _____________
@@ -206,11 +206,11 @@ Freigabe Datenschutzbeauftragter: _____________
 ```
 Wer ist Exporteur?
 ├─ Verantwortlicher in EU
-│  ├─ Importeur = Verantwortlicher im Drittland → Modul 1
-│  └─ Importeur = Auftragsverarbeiter im Drittland → Modul 2
+│ ├─ Importeur = Verantwortlicher im Drittland → Modul 1
+│ └─ Importeur = Auftragsverarbeiter im Drittland → Modul 2
 └─ Auftragsverarbeiter in EU
-   ├─ Importeur = Auftragsverarbeiter im Drittland (Sub-AV) → Modul 3
-   └─ Importeur = Verantwortlicher im Drittland (Ruecktransfer) → Modul 4
+ ├─ Importeur = Auftragsverarbeiter im Drittland (Sub-AV) → Modul 3
+ └─ Importeur = Verantwortlicher im Drittland (Ruecktransfer) → Modul 4
 ```
 
 ### Datenschutzerklärungsbaustein Drittlandtransfer
@@ -267,13 +267,13 @@ Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 
 ```
 Findet eine Übermittlung außerhalb EU/EWR statt?
-  Nein → kein Kapitel-V-DSGVO-Problem
-  Ja → Angemessenheitsbeschluss vorhanden?
-        Ja (USA/DPF, UK, Schweiz etc.) → Angemessenheitsbeschluss, Scope, Empfänger und Monitoring prüfen
-        Nein → SCC (Beschluss 2021/914) vorhanden?
-                 Ja → TIA erforderlich; Modul korrekt?
-                 Nein → BCR / Art. 49 Ausnahme?
-                          Nein → Übermittlung unzulässig
+ Nein → kein Kapitel-V-DSGVO-Problem
+ Ja → Angemessenheitsbeschluss vorhanden?
+ Ja (USA/DPF, UK, Schweiz etc.) → Angemessenheitsbeschluss, Scope, Empfänger und Monitoring prüfen
+ Nein → SCC (Beschluss 2021/914) vorhanden?
+ Ja → TIA erforderlich; Modul korrekt?
+ Nein → BCR / Art. 49 Ausnahme?
+ Nein → Übermittlung unzulässig
 ```
 
 ## Output-Template — TIA-Ergebnis

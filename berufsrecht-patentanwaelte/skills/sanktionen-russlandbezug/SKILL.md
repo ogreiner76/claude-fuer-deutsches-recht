@@ -1,13 +1,13 @@
 ---
 name: sanktionen-russlandbezug
-description: "Nutze dies, wenn Patentanwaelte Sanktionen Und Russlandbezug Organisationspflich, Patentanwaelte Schutzrechtsrecherche Und Haftung Kammerantwort, Patentanwaelte Schutzrechtsrecherche Und Haftung Organisationsp, Aktenfuehrung, Berufsausuebungsgesellschaft im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Sanktionen Und Russlandbezug Organisationspflich, Patentanwaelte Schutzrechtsrecherche Und Haftung Kammerantwort, Patentanwaelte Schutzrechtsrecherche Und Haftung Organisationsp, Aktenfuehrung, Berufsausuebungsgesellschaft prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Sanktionen Und Russlandbezug Organisationspflich, Patentanwaelte Schutzrechtsrecherche Und Haftung Kammerantwort, Patentanwaelte Schutzrechtsrecherche Und Haftung Organisationsp, Aktenfuehrung, Berufsausuebungsgesellschaft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentanwaelte Sanktionen Und Russlandbezug Organisationspflich, Patentanwaelte Schutzrechtsrecherche Und Haftung Kammerantwort, Patentanwaelte Schutzrechtsrecherche Und Haftung Organisationsp, Aktenfuehrung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Sanktionen Und Russlandbezug Organisationspflich, Patentanwaelte Schutzrechtsrecherche Und Haftung Kammerantwort, Patentanwaelte Schutzrechtsrecherche Und Haftung Organisationsp, Aktenfuehrung, Berufsausuebungsgesellschaft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Sanktionen Und Russlandbezug Organisationspflich, Patentanwaelte Schutzrechtsrecherche Und Haftung Kammerantwort, Patentanwaelte Schutzrechtsrecherche Und Haftung Organisationsp, Aktenfuehrung, Berufsausuebungsgesellschaft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

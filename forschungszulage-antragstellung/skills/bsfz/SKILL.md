@@ -1,12 +1,12 @@
 ---
 name: bsfz
-description: "Nutze dies, wenn Bsfz: Behörden-, Gerichts- oder Registerweg im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Bsfz: Behörden-, Gerichts- oder Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Bsfz: Behörden-, Gerichts- oder Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bsfz: Behörden-, Gerichts- oder Registerweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Bsfz: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Bsfz: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Bsfz: Behörden-, Gerichts- oder Registerweg / spezial bsfz behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bsfz: Behörden-, Gerichts- oder Registerweg / bsfz behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FZulG, BSFZ.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

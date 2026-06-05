@@ -1,6 +1,6 @@
 ---
 name: darlehen-finanzierung-agb
-description: "Branchen-Spezialskill für Darlehen Finanzierung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Darlehen Finanzierung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Darlehen Finanzierung AGB

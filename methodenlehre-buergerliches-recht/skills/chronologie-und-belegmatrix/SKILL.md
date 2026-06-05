@@ -3,7 +3,7 @@ name: chronologie-und-belegmatrix
 description: "Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat. Es zeigt, wie zeitliche Abläufe für Verjährungs- und Fristprüfungen aufbereitet werden, wie Belege tabellarisch den Tatbestandsmerkmalen zugeordnet werden und wie Chronologie und Belegmatrix zusammen die Grundlage für Gutachten, Schriftsatz und Mandatskommunikation bilden. Das Skill sichert lückenlose Nachvollziehbarkeit des gesamten Sachverhaltsverlaufs."
 ---
 
-# Chronologie und Belegmatrix: Workflow für strukturierte Sachverhaltserfassung
+# Chronologie und Belegmatrix: für strukturierte Sachverhaltserfassung
 
 ## Fachlicher Anker
 

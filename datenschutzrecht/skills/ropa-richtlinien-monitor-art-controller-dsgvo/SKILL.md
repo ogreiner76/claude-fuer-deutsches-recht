@@ -1,13 +1,13 @@
 ---
 name: ropa-richtlinien-monitor-art-controller-dsgvo
-description: "Nutze dies, wenn Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa Art 30 Dsgvo Grundlagen, Ropa Bdsg Besondere Art 9 Categories, Ropa En Controller Template im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa Art 30 Dsgvo Grundlagen, Ropa Bdsg Besondere Art 9 Categories, Ropa En Controller Template prüfen.; Erstelle eine Arbeitsfassung zu Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa Art 30 Dsgvo Grundlagen, Ropa Bdsg Besondere Art 9 Categories, Ropa En Controller Template.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa Art 30 Dsgvo Grundlagen, Ropa Bdsg Besondere Art 9 Categories: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa Art 30 Dsgvo Grundlagen, Ropa Bdsg Besondere Art 9 Categories, Ropa En Controller Template
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Richtlinien Monitor, Ropa Art 30 Controller Deutsch Vorlage, Ropa Art 30 Dsgvo Grundlagen, Ropa Bdsg Besondere Art 9 Categories, Ropa En Controller Template** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -46,51 +46,51 @@ Typische Drifts: neue Tracking-Tool-Integration ohne Datenschutzerklärungsupdat
 ## Ablauf – Sweep-Modus
 
 1. **Commitment-Inventur.**
-   Alle Datenschutz-Commitment-Flächen aus `CLAUDE.md` lesen:
-   - Datenschutzerklärung (Haupt-URL / Dokument)
-   - CMP / Cookie-Consent-Banner-Konfiguration
-   - App-Store Privacy Labels
-   - In-Produkt-Einwilligungsflows
-   - Sektorspezifische Hinweise (TDDDG, KUG)
+ Alle Datenschutz-Commitment-Flächen aus `CLAUDE.md` lesen:
+ - Datenschutzerklärung (Haupt-URL / Dokument)
+ - CMP / Cookie-Consent-Banner-Konfiguration
+ - App-Store Privacy Labels
+ - In-Produkt-Einwilligungsflows
+ - Sektorspezifische Hinweise (TDDDG, KUG)
 
 2. **Praxis-Inventur.**
-   Aktuelle Verarbeitungspraxis aus Ausgaben des Plugins rekonstruieren:
-   - Neueste AVV-Reviews (neue Sub-AVs, neue Drittlandtransfers)
-   - Neueste DSFA-Ergebnisse (neue Verarbeitungstätigkeiten)
-   - Neueste Triage-Ergebnisse (Rechtsgrundlagenänderungen)
-   - Aus `CLAUDE.md` bekannte Systemliste und Drittlandsituation
+ Aktuelle Verarbeitungspraxis aus Ausgaben des Plugins rekonstruieren:
+ - Neueste AVV-Reviews (neue Sub-AVs, neue Drittlandtransfers)
+ - Neueste DSFA-Ergebnisse (neue Verarbeitungstätigkeiten)
+ - Neueste Triage-Ergebnisse (Rechtsgrundlagenänderungen)
+ - Aus `CLAUDE.md` bekannte Systemliste und Drittlandsituation
 
 3. **Drift-Analyse.**
-   Für jede Commit-Fläche: Ist-Inhalt gegen Praxis-Inventur abgleichen.
+ Für jede Commit-Fläche: Ist-Inhalt gegen Praxis-Inventur abgleichen.
 
-   | Commit-Fläche | Praxis-Ist | Erklärung-Ist | Drift? | Schwere |
-   |---|---|---|---|---|
-   | Datenschutzerklärung – Empfänger | [aktuelle Liste] | [publizierte Liste] | Ja/Nein | 🔴/🟡/🟢 |
-   | Cookie-Banner – Kategorien | [aktiv gesetzt] | [angekündigt] | Ja/Nein | … |
-   | Speicherfristen | [tatsächlich] | [publiziert] | Ja/Nein | … |
-   | Drittlandtransfer-Mechanismus | [aktuell] | [publiziert] | Ja/Nein | … |
+ | Commit-Fläche | Praxis-Ist | Erklärung-Ist | Drift? | Schwere |
+ |---|---|---|---|---|
+ | Datenschutzerklärung – Empfänger | [aktuelle Liste] | [publizierte Liste] | Ja/Nein | 🔴/🟡/🟢 |
+ | Cookie-Banner – Kategorien | [aktiv gesetzt] | [angekündigt] | Ja/Nein | … |
+ | Speicherfristen | [tatsächlich] | [publiziert] | Ja/Nein | … |
+ | Drittlandtransfer-Mechanismus | [aktuell] | [publiziert] | Ja/Nein | … |
 
 4. **Drift-Klassifikation.**
-   - 🔴 **Sofortiger Handlungsbedarf:** Verarbeitung erfolgt, die in der Erklärung nicht angekündigt ist → Informationspflicht-Verstoß Art. 13/14 DSGVO, potenziell rechtswidrige Verarbeitung.
-   - 🟠 **Hoch:** Wesentliche Erweiterung des Verarbeitungsumfangs nicht reflektiert (z.B. neuer Zweck, neues Empfänger-Land).
-   - 🟡 **Mittel:** Aktualisierung empfohlen, keine unmittelbare Rechtswidrigkeit (z.B. neue Formulierung genauer als nötig, aber nicht falsch).
-   - 🟢 **Gering:** Kosmetische Anpassung, kein Handlungsdruck.
+ - 🔴 **Sofortiger Handlungsbedarf:** Verarbeitung erfolgt, die in der Erklärung nicht angekündigt ist → Informationspflicht-Verstoß Art. 13/14 DSGVO, potenziell rechtswidrige Verarbeitung.
+ - 🟠 **Hoch:** Wesentliche Erweiterung des Verarbeitungsumfangs nicht reflektiert (z.B. neuer Zweck, neues Empfänger-Land).
+ - 🟡 **Mittel:** Aktualisierung empfohlen, keine unmittelbare Rechtswidrigkeit (z.B. neue Formulierung genauer als nötig, aber nicht falsch).
+ - 🟢 **Gering:** Kosmetische Anpassung, kein Handlungsdruck.
 
 5. **Änderungsentwürfe.**
-   Für jede 🔴- und 🟠-Drift: konkreten Textvorschlag für die Datenschutzerklärung formulieren (nicht als Meta-Kommentar, sondern als fertiger Erklärungstext).
+ Für jede 🔴- und 🟠-Drift: konkreten Textvorschlag für die Datenschutzerklärung formulieren (nicht als Meta-Kommentar, sondern als fertiger Erklärungstext).
 
 6. **Sweep-Bericht.**
-   Zusammenfassung: [N] Drifts, davon [N] 🔴, [N] 🟠, [N] 🟡; Änderungsvorschläge inline; Folgeaktionen.
+ Zusammenfassung: [N] Drifts, davon [N] 🔴, [N] 🟠, [N] 🟡; Änderungsvorschläge inline; Folgeaktionen.
 
 ## Ablauf – Direkt-Modus
 
 1. Geplante Änderung der Verarbeitungspraxis beschreiben lassen.
 2. Prüfen: Welche Art. 13/14 DSGVO-Pflichtinformationen sind betroffen?
-   - Neue Datenkategorie → Art. 13 Abs. 1 lit. c DSGVO
-   - Neuer Zweck → Art. 13 Abs. 1 lit. c DSGVO
-   - Neuer Empfänger → Art. 13 Abs. 1 lit. e DSGVO
-   - Neue Speicherfrist → Art. 13 Abs. 2 lit. a DSGVO
-   - Neues Drittland → Art. 13 Abs. 1 lit. f DSGVO
+ - Neue Datenkategorie → Art. 13 Abs. 1 lit. c DSGVO
+ - Neuer Zweck → Art. 13 Abs. 1 lit. c DSGVO
+ - Neuer Empfänger → Art. 13 Abs. 1 lit. e DSGVO
+ - Neue Speicherfrist → Art. 13 Abs. 2 lit. a DSGVO
+ - Neues Drittland → Art. 13 Abs. 1 lit. f DSGVO
 3. Prüfen: Ändert sich die Rechtsgrundlage (Art. 6/9 DSGVO)? Muss ggf. neue Einwilligung eingeholt werden?
 4. Prüfen: Ist eine DSFA erforderlich? (Weiterleitung an `dsfa-erstellung` anbieten)
 5. Änderungsentwurf für betroffene Abschnitte der Datenschutzerklärung erstellen.
@@ -187,11 +187,11 @@ Organisation: [NAME]
 Geprüfte Dokumente: [LISTE]
 
 Befunde:
-| Nr. | Dokument          | Abweichung / Drift              | Prioritaet | Frist  |
+| Nr. | Dokument | Abweichung / Drift | Prioritaet | Frist |
 |-----|------------------|----------------------------------|------------|--------|
-|  1  | Datenschutzerklärung | Cookie-Liste veraltet (3 neue)  | HOCH       | [DATUM]|
-|  2  | Datenschutzerklärung | Empfaenger nicht konkret benannt| MITTEL     | [DATUM]|
-|  3  | Interne Richtlinie | KI-Tools noch nicht erwaehnt    | HOCH       | [DATUM]|
+| 1 | Datenschutzerklärung | Cookie-Liste veraltet (3 neue) | HOCH | [DATUM]|
+| 2 | Datenschutzerklärung | Empfaenger nicht konkret benannt| MITTEL | [DATUM]|
+| 3 | Interne Richtlinie | KI-Tools noch nicht erwaehnt | HOCH | [DATUM]|
 
 Keine Abweichungen: [LISTE GEPRÜFTER BEREICHE]
 
@@ -244,14 +244,14 @@ g) wenn moeglich, allgemeine Beschreibung der TOMs gemaess Art. 32 Abs. 1 DSGVO.
 ### Deckblatt
 
 ```
-Verantwortlicher:        [Firmenname / Kanzleiname]
-Anschrift:               [...]
-Vertreter (Art. 27):     [falls anwendbar]
+Verantwortlicher: [Firmenname / Kanzleiname]
+Anschrift: [...]
+Vertreter (Art. 27): [falls anwendbar]
 Datenschutzbeauftragter: [Name, Kontakt]
-Aufsichtsbehoerde:       [zustaendige LDI / BfDI]
-Erstellt:                [Datum]
-Letzte Aenderung:        [Datum]
-Version:                 [v1.0]
+Aufsichtsbehoerde: [zustaendige LDI / BfDI]
+Erstellt: [Datum]
+Letzte Aenderung: [Datum]
+Version: [v1.0]
 ```
 
 ### Tabelle (Pflichtspalten)
@@ -266,8 +266,8 @@ Version:                 [v1.0]
 ### Versionierungs-Footer
 
 ```
-Version 1.0  – Erstanlage   – [Datum, Bearbeiter]
-Version 1.1  – [Aenderung]  – [Datum, Bearbeiter]
+Version 1.0 – Erstanlage – [Datum, Bearbeiter]
+Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 ```
 
 ## Typische Fehler
@@ -574,7 +574,7 @@ g) where possible, a general description of the technical and organisational mea
 
 Article 30(3) requires written or electronic form; Article 30(4) makes the RoPA available to the supervisory authority on request; Article 30(5) provides a narrow SME exemption that rarely applies in practice.
 
-## Workflow / Checklist
+## / Checklist
 
 1. Fill in the cover sheet with controller details, representative (if applicable), and DPO.
 2. One row per processing activity (one business process = one row).
@@ -590,14 +590,14 @@ Article 30(3) requires written or electronic form; Article 30(4) makes the RoPA 
 ### Cover Sheet
 
 ```
-Controller:               [Company / Firm Name]
-Address:                  [...]
+Controller: [Company / Firm Name]
+Address: [...]
 Representative (Art. 27): [if applicable]
-Data Protection Officer:  [Name, contact]
-Supervisory Authority:    [competent DPA]
-Created:                  [date]
-Last amended:             [date]
-Version:                  [v1.0]
+Data Protection Officer: [Name, contact]
+Supervisory Authority: [competent DPA]
+Created: [date]
+Last amended: [date]
+Version: [v1.0]
 ```
 
 ### Table (mandatory columns)
@@ -613,7 +613,7 @@ Version:                  [v1.0]
 
 ```
 Version 1.0 – Initial draft – [date, author]
-Version 1.1 – [change]      – [date, author]
+Version 1.1 – [change] – [date, author]
 ```
 
 ## Common mistakes

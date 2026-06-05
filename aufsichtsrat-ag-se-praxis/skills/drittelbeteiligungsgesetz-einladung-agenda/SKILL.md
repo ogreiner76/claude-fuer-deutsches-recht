@@ -1,22 +1,22 @@
 ---
 name: drittelbeteiligungsgesetz-einladung-agenda
-description: "Nutze dies, wenn Drittelbeteiligungsgesetz, Einladung Und Agenda, Einsichts Und Pruefungsrechte 111 Aktg, Entscheidungsvorlage Check im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Drittelbeteiligungsgesetz, Einladung Und Agenda, Einsichts Und Pruefungsrechte 111 Aktg, Entscheidungsvorlage Check prüfen.; Erstelle eine Arbeitsfassung zu Drittelbeteiligungsgesetz, Einladung Und Agenda, Einsichts Und Pruefungsrechte 111 Aktg, Entscheidungsvorlage Check.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Drittelbeteiligungsgesetz, Einladung Und Agenda, Einsichts Und Pruefungsrechte 111 Aktg, Entscheidungsvorlage Check: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Drittelbeteiligungsgesetz, Einladung Und Agenda, Einsichts Und Pruefungsrechte 111 Aktg, Entscheidungsvorlage Check
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Drittelbeteiligungsgesetz, Einladung Und Agenda, Einsichts Und Pruefungsrechte 111 Aktg, Entscheidungsvorlage Check** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `drittelbeteiligungsgesetz` | AG/SE-Aufsichtsrat Praxis: Drittelbeteiligungsgesetz; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `einladung-und-agenda` | AG/SE-Aufsichtsrat Praxis: Einladung Und Agenda; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `einsichts-und-pruefungsrechte-111-aktg` | AG/SE-Aufsichtsrat Praxis: Einsichts Und Pruefungsrechte 111 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `entscheidungsvorlage-check` | AG/SE-Aufsichtsrat Praxis: Entscheidungsvorlage Check; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `drittelbeteiligungsgesetz` | AG/SE-Aufsichtsrat Praxis: Drittelbeteiligungsgesetz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `einladung-und-agenda` | AG/SE-Aufsichtsrat Praxis: Einladung Und Agenda; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `einsichts-und-pruefungsrechte-111-aktg` | AG/SE-Aufsichtsrat Praxis: Einsichts Und Pruefungsrechte 111 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `entscheidungsvorlage-check` | AG/SE-Aufsichtsrat Praxis: Entscheidungsvorlage Check; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Drittelbeteiligungsgesetz, Einladung Und Agenda, Einsichts Und Pruefungsr
 
 ## 1. `drittelbeteiligungsgesetz`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Drittelbeteiligungsgesetz; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Drittelbeteiligungsgesetz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Drittelbeteiligungsgesetz
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `einladung-und-agenda`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Einladung Und Agenda; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Einladung Und Agenda; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Einladung Und Agenda
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `einsichts-und-pruefungsrechte-111-aktg`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Einsichts Und Pruefungsrechte 111 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Einsichts Und Pruefungsrechte 111 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Einsichts Und Pruefungsrechte 111 Aktg
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `entscheidungsvorlage-check`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Entscheidungsvorlage Check; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Entscheidungsvorlage Check; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Entscheidungsvorlage Check
 

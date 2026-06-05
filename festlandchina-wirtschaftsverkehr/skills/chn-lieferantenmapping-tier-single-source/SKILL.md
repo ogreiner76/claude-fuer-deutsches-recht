@@ -1,13 +1,13 @@
 ---
 name: chn-lieferantenmapping-tier-single-source
-description: "Nutze dies, wenn Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China prüfen.; Erstelle eine Arbeitsfassung zu Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

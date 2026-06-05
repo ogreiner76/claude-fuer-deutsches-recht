@@ -1,6 +1,6 @@
 ---
 name: verkehr-quellenkarte
-description: "Nutze dies, wenn Verkehr Quellenkarte im Plugin Verkehr Infrastrukturrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Verkehr Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Verkehr Quellenkarte

@@ -16,7 +16,7 @@ description: "Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, F
 
 Nutze diesen Skill, wenn eine Akte übernommen, vertreten oder kurzfristig im Sitzungsdienst weitergeführt werden muss. Ziel ist eine Übergabe, die nicht nur erzählt, sondern sofort handlungsfähig macht.
 
-## Kaltstart
+## Einstieg
 
 1. Aktenzeichen, Dezernat, Vertretungslage und Eilfristen feststellen.
 2. Haft, Verjährung, Rechtsmittelfristen, Wiedervorlagen und offene richterliche Beschlüsse markieren.

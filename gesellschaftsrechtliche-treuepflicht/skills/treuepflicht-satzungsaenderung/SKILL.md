@@ -1,22 +1,22 @@
 ---
 name: treuepflicht-satzungsaenderung
-description: "Nutze dies, wenn Treuepflicht Memo, Treuepflicht Router, Treuepflicht Satzungsaenderung, Treuepflicht Stimmrechtsvollmacht im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Treuepflicht Memo, Treuepflicht Router, Treuepflicht Satzungsaenderung, Treuepflicht Stimmrechtsvollmacht prüfen.; Erstelle eine Arbeitsfassung zu Treuepflicht Memo, Treuepflicht Router, Treuepflicht Satzungsaenderung, Treuepflicht Stimmrechtsvollmacht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Treuepflicht Memo, Treuepflicht Router, Treuepflicht Satzungsaenderung, Treuepflicht Stimmrechtsvollmacht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Treuepflicht Memo, Treuepflicht Router, Treuepflicht Satzungsaenderung, Treuepflicht Stimmrechtsvollmacht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Treuepflicht Memo, Treuepflicht Router, Treuepflicht Satzungsaenderung, Treuepflicht Stimmrechtsvollmacht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `treuepflicht-memo` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Memo; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `treuepflicht-router` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `treuepflicht-satzungsaenderung` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Satzungsaenderung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `treuepflicht-stimmrechtsvollmacht` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Stimmrechtsvollmacht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-memo` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Memo; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-router` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Router; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-satzungsaenderung` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Satzungsaenderung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-stimmrechtsvollmacht` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Stimmrechtsvollmacht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Treuepflicht Memo, Treuepflicht Router, Treuepflicht Satzungsaenderung, T
 
 ## 1. `treuepflicht-memo`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Memo; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Memo; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht Memo
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `treuepflicht-router`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Router; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht Router
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `treuepflicht-satzungsaenderung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Satzungsaenderung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Satzungsaenderung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht Satzungsaenderung
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `treuepflicht-stimmrechtsvollmacht`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Stimmrechtsvollmacht; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Stimmrechtsvollmacht; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht Stimmrechtsvollmacht
 

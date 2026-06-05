@@ -1,6 +1,6 @@
 ---
 name: emotionale
-description: "Nutze dies, wenn Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Email Umformulierer Berufsrecht konkret bearbeitet werden soll. Auslöser: Bitte Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg prüfen.; Erstelle eine Arbeitsfassung zu Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg

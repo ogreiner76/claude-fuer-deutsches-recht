@@ -36,7 +36,7 @@ Bei Personengesellschaften (GbR, OHG, KG, GmbH und Co. KG) ist der Sanierungsert
 - **§ 10a S. 1 GewStG** — Gewerbeverlust (auf Gesellschafts-Ebene).
 - **§ 180 Abs. 1 Nr. 2 AO** — gesonderte und einheitliche Feststellung.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Verbindlichkeit im Gesamthandsvermögen
 
@@ -91,48 +91,48 @@ Bei Personengesellschaften (GbR, OHG, KG, GmbH und Co. KG) ist der Sanierungsert
 ### Berechnungsbeispiel KG mit 3 Kommanditisten
 
 ```
-KG-Sanierungsertrag (Gesamthand)                EUR 1.500.000
+KG-Sanierungsertrag (Gesamthand) EUR 1.500.000
 Gewinnverteilungsschlüssel: 50/30/20 %
 
 Kommanditist A (50 %): EUR 750.000
-  ESt-Verlustvortrag                            EUR 800.000
-  Mindestbesteuerung: Sockel 1 Mio. > 750.000
-  ► voll verrechenbar
-  ► Antrag § 3a IV EStG entbehrlich
-  ► Verlustvortrag verbraucht 750.000
+ ESt-Verlustvortrag EUR 800.000
+ Mindestbesteuerung: Sockel 1 Mio. > 750.000
+ ► voll verrechenbar
+ ► Antrag § 3a IV EStG entbehrlich
+ ► Verlustvortrag verbraucht 750.000
 
 Kommanditist B (30 %): EUR 450.000
-  ESt-Verlustvortrag                            EUR 200.000
-  Sanierungsertrag - Vortrag                    EUR 250.000
-  ► Antrag § 3a IV EStG für 250.000 erforderlich
-  ► ESt-Spitzensatz ohne Antrag: ~ 105.000
+ ESt-Verlustvortrag EUR 200.000
+ Sanierungsertrag - Vortrag EUR 250.000
+ ► Antrag § 3a IV EStG für 250.000 erforderlich
+ ► ESt-Spitzensatz ohne Antrag: ~ 105.000
 
 Kommanditist C (20 %): EUR 300.000
-  Kein Verlustvortrag, aber § 15a EStG-Verluste EUR 400.000
-  ► Sanierungsertrag aktiviert § 15a-Verluste
-  ► nach § 15a-Verrechnung: 0 EUR steuerpflichtig
-  ► Antrag § 3a IV EStG ggf. entbehrlich
+ Kein Verlustvortrag, aber § 15a EStG-Verluste EUR 400.000
+ ► Sanierungsertrag aktiviert § 15a-Verluste
+ ► nach § 15a-Verrechnung: 0 EUR steuerpflichtig
+ ► Antrag § 3a IV EStG ggf. entbehrlich
 
 Gewerbesteuer:
-  Antrag § 7b GewStG durch KG mit GewSt-Erklärung
-  Gewerbeverlust § 10a S. 1 GewStG vorher prüfen
+ Antrag § 7b GewStG durch KG mit GewSt-Erklärung
+ Gewerbeverlust § 10a S. 1 GewStG vorher prüfen
 ```
 
 ### Berechnungsbeispiel Sonderbetriebsvermögen
 
 ```
 KG, Gesellschafterdarlehen Kommanditist A
-im Sonderbetriebsvermögen                       EUR 600.000
+im Sonderbetriebsvermögen EUR 600.000
 
 Gesellschafter A verzichtet:
 ► Sanierungsertrag NUR bei Mitunternehmer A
 ► Kommanditisten B und C nicht betroffen
 
 A trägt allein:
-  Sanierungsertrag                              EUR 600.000
-  ESt-Verlustvortrag                            EUR 400.000
-  Sanierungsertrag - Vortrag                    EUR 200.000
-  ► Antrag § 3a IV EStG für 200.000
+ Sanierungsertrag EUR 600.000
+ ESt-Verlustvortrag EUR 400.000
+ Sanierungsertrag - Vortrag EUR 200.000
+ ► Antrag § 3a IV EStG für 200.000
 
 Übrige Mitunternehmer unverändert.
 ```

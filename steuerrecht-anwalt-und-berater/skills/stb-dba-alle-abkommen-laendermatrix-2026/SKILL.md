@@ -18,7 +18,7 @@ description: "DBA-Ländermatrix Deutschland 2026 nach BMF-Stand 01.01.2026. Rout
 
 Dieser Skill ist der Einstieg in alle DBA-Fälle, auch wenn es noch keinen länderspezifischen Einzel-Skill gibt. Er lädt bei Bedarf `references/dba-laendermatrix-2026.md`, bestimmt den Staat und zwingt danach zur konkreten DBA-Textprüfung.
 
-## Kaltstart
+## Einstieg
 
 1. Welche Staaten sind beteiligt?
 2. Welcher Veranlagungszeitraum oder Zahlungszeitpunkt?
@@ -63,7 +63,7 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Allgemeiner Skill (dieser) vs. Landeseinzel-Skill | Routing ueber Matrix; Hinweis auf live Pruefung | Detail-Skill mit Subsumtion | bei vorhandenem Landeseinzel-Skill immer diesen vorziehen |
-| Drittstaat ohne aktuellen DBA-Text | Memo mit "kein DBA / DBA suspendiert" pruefen | Spezial-Skill (Russland, Belarus, VAE) | bei Sonderlagen Spezial-Skill nutzen |
+| Drittstaat ohne aktuellen DBA-Text | Memo mit "kein DBA / DBA suspendiert" pruefen | Fachmodul (Russland, Belarus, VAE) | bei Sonderlagen Fachmodul nutzen |
 | MLI-modifiziertes DBA vs. unmodifizierter DBA-Text | OECD-MLI-Synopse abrufen | nur DBA-Text | bei Veranlagungszeitraum ab 2019/2020 stets MLI-Synopse abrufen |
 
 ## Was Reviewer/Pruefer triggert
@@ -85,7 +85,7 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 | Lizenz von DE an irische Konzerngesellschaft | Irland | Lizenzen | `stb-dba-irland` | `stb-dba-lizenzgebuehren-art-12-bzst` |
 | Rente Wohnsitz Portugal NHR | Portugal | Pensionen | `stb-dba-portugal` | `stb-dba-rentner-pensionen-art-18` |
 | BS-Bauausfuehrung Tuerkei | Tuerkei | Unternehmensgewinn | `stb-dba-tuerkei-2011` | `stb-dba-betriebsstaette-art-5-musterabkommen` |
-| Drittland ohne Spezial-Skill (z.B. Mexiko) | Mexiko | Diverse | `stb-dba-regionenrouter-nichteu` + `stb-dba-all-country-memo-generator` | DBA-Text bundesfinanzministerium.de |
+| Drittland ohne Fachmodul (z.B. Mexiko) | Mexiko | Diverse | `stb-dba-regionenrouter-nichteu` + `stb-dba-all-country-memo-generator` | DBA-Text bundesfinanzministerium.de |
 
 ## Output (erweitert)
 
@@ -106,9 +106,9 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 | Hybridgesellschaft (LLC, LP) | `stb-dba-edge-cases-playbook` | Land-Skill, `stb-dba-grundprinzip-oecd-musterabkommen` |
 | Home-Office-Grenzgaenger | `stb-dba-home-office-pandemie-folgeregelung` | Land-Grenzgaenger-Skill |
 | Kuenstler/Sportler-Auftritt | `stb-dba-kuenstler-sportler-art-17-ma` | `stb-dba-quellensteuer-erstattung-bzst-50c-estg` |
-| Drittstaat ohne Spezial-Skill | `stb-dba-regionenrouter-nichteu` + `stb-dba-all-country-memo-generator` | `stb-dba-quellensteuer-atlas-weltweit` |
+| Drittstaat ohne Fachmodul | `stb-dba-regionenrouter-nichteu` + `stb-dba-all-country-memo-generator` | `stb-dba-quellensteuer-atlas-weltweit` |
 
-## Vorgehen bei nicht gefundenen Spezial-Skills
+## Vorgehen bei nicht gefundenen Fachmodule
 
 1. **Matrix abrufen** und Staat eintragen.
 2. **DBA-Text** ueber bundesfinanzministerium.de beziehen.

@@ -1,19 +1,19 @@
 ---
 name: grosskanzlei-rollout-thema-prozesse-abbilden
-description: "Nutze dies, wenn Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden im Plugin Kanzlei Builder Hub konkret bearbeitet werden soll. Auslöser: Bitte Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden prüfen.; Erstelle eine Arbeitsfassung zu Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `grosskanzlei-rollout-spezial` | Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-Workflow fuer Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap. |
+| `grosskanzlei-rollout-spezial` | Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-fuer Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap. |
 | `kanzlei-builder-hub-anpassen` | Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins, Branding, Workflows. Normen: technisch/intern. Prüfraster: Anpassungsumfang, Kompatibilitaet, Testbedarf. Output: Anpassungs-Konfigurationsdokument. Abgrenzung: nicht Standardinstallation. |
 | `kanzlei-prozesse-abbilden` | Typische Kanzlei-Prozesse mit Plugins und Skills abbilden: Mandatsaufnahme, Akteneinsicht, Schriftsatzentwurf, Fristenkontrolle, Rechnung, Archivierung. Pro Prozess: Welche Plugins (Skills) helfen, in welcher Reihenfolge, mit welchem Output? Vorlage zum Anpassen. |
 
@@ -26,7 +26,7 @@ Für **Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Proze
 
 ## 1. `grosskanzlei-rollout-spezial`
 
-**Fokus:** Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-Workflow fuer Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap.
+**Fokus:** Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-fuer Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap.
 
 # Grosskanzlei-Rollout
 
@@ -110,12 +110,12 @@ Dieser Skill ermöglicht die gezielte Anpassung einzelner Abschnitte des Kanzlei
 ## Eingaben
 
 - Angabe, welcher Abschnitt angepasst werden soll:
-  - `--profil` — Kanzleityp, Rechtsgebiet(e), Teamgröße, technische Vertrautheit
-  - `--positivliste` — Registries, Publisher, Konnektoren, Lizenzen hinzufügen/entfernen
-  - `--registries` — Registry-Watchlist erweitern oder kürzen
-  - `--updates` — Update-Kadenz und Benachrichtigungseinstellungen
-  - `--tom` — TOM-Dokumentation und Datenschutzhinweise
-  - Oder frei: "Ich möchte Rechtsanwalt X als neuen Ansprechpartner eintragen"
+ - `--profil` — Kanzleityp, Rechtsgebiet(e), Teamgröße, technische Vertrautheit
+ - `--positivliste` — Registries, Publisher, Konnektoren, Lizenzen hinzufügen/entfernen
+ - `--registries` — Registry-Watchlist erweitern oder kürzen
+ - `--updates` — Update-Kadenz und Benachrichtigungseinstellungen
+ - `--tom` — TOM-Dokumentation und Datenschutzhinweise
+ - Oder frei: "Ich möchte Rechtsanwalt X als neuen Ansprechpartner eintragen"
 - Aktuelles Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md`
 - Geteiltes Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-profil.md`
 
@@ -135,7 +135,7 @@ Vor jeder Änderung den aktuellen Wert des zu ändernden Abschnitts anzeigen:
 
 ```
 Aktueller Wert:
-  Kanzleityp: Einzelkanzlei, Schwerpunkt Arbeitsrecht
+ Kanzleityp: Einzelkanzlei, Schwerpunkt Arbeitsrecht
 
 Neuer Wert (bitte eingeben oder bestätigen):
 ```
@@ -169,7 +169,7 @@ Bei Positivliste-Änderungen:
 **Modus-Wechsel (restrictive ↔ permissive):**
 - Bei Wechsel nach `restrictive`: Alle vorhandenen installierten Skills sind weiterhin nutzbar, aber neue Installationen erfordern Positivliste-Eintrag.
 - Bei Wechsel nach `permissive`: **Explizit auf erhöhtes Risiko hinweisen:**
-  > "Permissiver Modus warnt bei unbekannten Quellen, blockiert sie aber nicht. Für Kanzleibetrieb mit Mandantendaten wird `restrictive` empfohlen (Art. 32 DSGVO, Datensicherheit). Bestätigen Sie mit 'ja' um fortzufahren."
+ > "Permissiver Modus warnt bei unbekannten Quellen, blockiert sie aber nicht. Für Kanzleibetrieb mit Mandantendaten wird `restrictive` empfohlen (Art. 32 DSGVO, Datensicherheit). Bestätigen Sie mit 'ja' um fortzufahren."
 - Niemals `permissive` ohne explizite Nutzerbestätigung schreiben.
 
 ### Schritt 6: Änderung bestätigen und schreiben
@@ -215,12 +215,12 @@ Pro Änderung:
 /kanzlei-builder-hub:kanzlei-builder-hub-anpassen --profil
 
 Aktueller Wert:
-  Rechtsgebiet(e): Arbeitsrecht
+ Rechtsgebiet(e): Arbeitsrecht
 
 Neues Rechtsgebiet hinzufügen: Datenschutzrecht
 
 Neuer Wert:
-  Rechtsgebiet(e): Arbeitsrecht, Datenschutzrecht
+ Rechtsgebiet(e): Arbeitsrecht, Datenschutzrecht
 
 Änderung speichern? (ja / nein): ja
 

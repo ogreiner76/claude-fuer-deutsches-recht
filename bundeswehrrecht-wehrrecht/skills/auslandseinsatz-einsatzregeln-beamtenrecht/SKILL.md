@@ -1,13 +1,13 @@
 ---
 name: auslandseinsatz-einsatzregeln-beamtenrecht
-description: "Nutze dies, wenn Auslandseinsatz Mandat Einsatzregeln, Beamtenrecht Bundeswehrverwaltung Abgrenzung, Befehl Verweigern Gewissensnot Rechtswidrigkeit im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Auslandseinsatz Mandat Einsatzregeln, Beamtenrecht Bundeswehrverwaltung Abgrenzung, Befehl Verweigern Gewissensnot Rechtswidrigkeit prüfen.; Erstelle eine Arbeitsfassung zu Auslandseinsatz Mandat Einsatzregeln, Beamtenrecht Bundeswehrverwaltung Abgrenzung, Befehl Verweigern Gewissensnot Rechtswidrigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Auslandseinsatz Mandat Einsatzregeln, Beamtenrecht Bundeswehrverwaltung Abgrenzung, Befehl Verweigern Gewissensnot Rechtswidrigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Auslandseinsatz Mandat Einsatzregeln, Beamtenrecht Bundeswehrverwaltung Abgrenzung, Befehl Verweigern Gewissensnot Rechtswidrigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Auslandseinsatz Mandat Einsatzregeln, Beamtenrecht Bundeswehrverwaltung Abgrenzung, Befehl Verweigern Gewissensnot Rechtswidrigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -62,14 +62,14 @@ Bewaffnete Auslandseinsätze deutscher Streitkräfte unterliegen einem dreistufi
 - Humanitäres Völkerrecht: Genfer Abkommen I–IV und Zusatzprotokolle I/II.
 - Völkerstrafgesetzbuch (VStGB) und Wehrstrafgesetz.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Mandatsstatus prüfen.** Bundestagsdrucksache mit Beschluss, Geltungsdauer, Mandatsstärke, Aufgabenbeschreibung.
 2. **Völkerrechtliche Grundlage** verifizieren (UN-Resolution, NATO-Beschluss, EU-CSDP-Mandat).
 3. **Einsatzregeln (ROE)** durch nationalen Befehl konkretisieren – Caveats? Gewaltanwendungsschwellen?
 4. **Konkreten Vorfall einordnen.**
-   - Innerhalb ROE und Mandat: rechtmäßig.
-   - Außerhalb: unverbindlicher Befehl, ggf. § 11 II SG / VStGB.
+ - Innerhalb ROE und Mandat: rechtmäßig.
+ - Außerhalb: unverbindlicher Befehl, ggf. § 11 II SG / VStGB.
 5. **Statusrechtliche Folgen.** Welche Gerichtsbarkeit (Deutschland nach NATO SOFA / Entsendestaatprinzip)?
 6. **Versorgungsfolgen.** § 81a SVG Einsatzunfall.
 7. **Wehrbeauftragter und parlamentarische Kontrolle** bei Unstimmigkeiten.
@@ -217,7 +217,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -336,7 +336,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

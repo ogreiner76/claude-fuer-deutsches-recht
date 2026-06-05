@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Insolvenzplan Starug Planwerkstatt.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Insolvenzplan Starug Planwerkstatt** ein F
 ## Fachlandkarte dieses Plugins
 
 - `abstimmung-anlagen-interessen-cram` — Abstimmung Anlagen Interessen Cram
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `down-red-gestaltender-gruppen` — Down Red Gestaltender Gruppen
 - `insolvenzplan-intake-klassen` — Insolvenzplan Intake Klassen
 - `ips-abstimmung-ips-anlagenpaket-ips-asset` — Ips Abstimmung Ips Anlagenpaket Ips Asset

@@ -1,13 +1,13 @@
 ---
 name: einspruchsverfahren-conflict
-description: "Nutze dies, wenn Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelte Fristenkontrolle Epo Dpma Organisationspflicht U, Patentanwaelte Fristenversaeumnis Epo Restitutio Kammerantwort im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelte Fristenkontrolle Epo Dpma Organisationspflicht U, Patentanwaelte Fristenversaeumnis Epo Restitutio Kammerantwort prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelt..."
+description: "Nutze dies bei Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelte Fristenkontrolle Epo Dpma Organisationspflicht U: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelte Fristenkontrolle Epo Dpma Organisationspflicht U, Patentanwaelte Fristenversaeumnis Epo Restitutio Kammerantwort
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Einspruchsverfahren Und Conflict Check Organisat, Patentanwaelte Einspruchsverfahren Und Conflict Check Rechtspre, Patentanwaelte Fristenkontrolle Epo Dpma Kammerantwort Und Verf, Patentanwaelte Fristenkontrolle Epo Dpma Organisationspflicht U, Patentanwaelte Fristenversaeumnis Epo Restitutio Kammerantwort** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

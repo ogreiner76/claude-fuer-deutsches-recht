@@ -1,13 +1,13 @@
 ---
 name: alternativen-keine-aufgabe-kompetenz
-description: "Nutze dies, wenn Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg prüfen.; Erstelle eine Arbeitsfassung zu Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Alternativen Prüfung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -164,23 +164,23 @@ Ergaenzend: **§ 44 GGO** (Pruefung der Gesetzesfolgen), **§ 45 GGO** (Erfuellu
 ## Pruefraster / Schritt fuer Schritt
 
 1. **Befassungspflicht** (§ 4 NKRG i.V.m. § 62 GGO):
-   - Gesetzentwuerfe der Bundesregierung -> ja
-   - Verordnungen der Bundesregierung / eines Bundesministeriums -> ja
-   - Allgemeine Verwaltungsvorschriften der Bundesregierung -> ja
-   - Formulierungshilfen fuer Koalitionsfraktionen -> faktisch ja
-   - Initiativen aus der Mitte des Bundestages -> nur auf Anforderung
-   - Laenderrecht -> nein
+ - Gesetzentwuerfe der Bundesregierung -> ja
+ - Verordnungen der Bundesregierung / eines Bundesministeriums -> ja
+ - Allgemeine Verwaltungsvorschriften der Bundesregierung -> ja
+ - Formulierungshilfen fuer Koalitionsfraktionen -> faktisch ja
+ - Initiativen aus der Mitte des Bundestages -> nur auf Anforderung
+ - Laenderrecht -> nein
 2. **Pruefungsgegenstand** (§ 4 NKRG):
-   - Erfuellungsaufwand fuer Buerger, Wirtschaft, Verwaltung
-   - Methodische Darstellung und Nachvollziehbarkeit
-   - **Nicht** Zielwahl / politische Bewertung
+ - Erfuellungsaufwand fuer Buerger, Wirtschaft, Verwaltung
+ - Methodische Darstellung und Nachvollziehbarkeit
+ - **Nicht** Zielwahl / politische Bewertung
 3. **Pruefungstiefe**:
-   - Methodische Pruefung **plus** Plausibilitaetspruefung
-   - Bei Unzulaenglichkeit: Aufforderung zur Nachbesserung
+ - Methodische Pruefung **plus** Plausibilitaetspruefung
+ - Bei Unzulaenglichkeit: Aufforderung zur Nachbesserung
 4. **Auskunftsanspruch** (§ 5 NKRG): Ressort muss Daten liefern, Akteneinsicht gewaehren
 5. **Form der Aeusserung** (§ 6 NKRG):
-   - Stellungnahme zur Kabinettsvorlage als Anlage
-   - Stellungnahme an Bundestag mit dem Gesetzentwurf
+ - Stellungnahme zur Kabinettsvorlage als Anlage
+ - Stellungnahme an Bundestag mit dem Gesetzentwurf
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 

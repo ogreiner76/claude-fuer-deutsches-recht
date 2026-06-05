@@ -1,13 +1,13 @@
 ---
 name: grenzverfahren-beweislast-notfrist-verfahrens
-description: "Nutze dies, wenn Spezial Grenzverfahren Beweislast Und Darlegungslast, Spezial Notfrist Compliance Dokumentation Und Akte, Spezial Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Grenzverfahren Beweislast Und Darlegungslast, Spezial Notfrist Compliance Dokumentation Und Akte, Spezial Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten prüfen.; Erstelle eine Arbeitsfassung zu Spezial Grenzverfahren Beweislast Und Darlegungslast, Spezial Notfrist Compliance Dokumentation Und Akte, Spezial Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Grenzverfahren Beweislast Und Darlegungslast, Notfrist Compliance Dokumentation Und Akte, Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Grenzverfahren Beweislast Und Darlegungslast, Spezial Notfrist Compliance Dokumentation Und Akte, Spezial Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten
+# Grenzverfahren Beweislast Und Darlegungslast, Notfrist Compliance Dokumentation Und Akte, Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 
 ## Arbeitsweg
 
-Für **Spezial Grenzverfahren Beweislast Und Darlegungslast, Spezial Notfrist Compliance Dokumentation Und Akte, Spezial Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Grenzverfahren Beweislast Und Darlegungslast, Notfrist Compliance Dokumentation Und Akte, Verfahrens Behörden Gericht Und Registerweg, Asyl Anhoerung Vorbereiten** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-migrationsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Grenzverfahren Beweislast Und Darlegungslast, Spezial Notfrist Co
 # Grenzverfahren: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Grenzverfahren: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Grenzverfahren: Beweislast, Darlegungslast und Substantiierung / spezial grenzverfahren beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Grenzverfahren: Beweislast, Darlegungslast und Substantiierung / grenzverfahren beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -82,7 +82,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Notfrist: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Notfrist: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Notfrist: Compliance-Dokumentation und Aktenvermerk / spezial notfrist compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Notfrist: Compliance-Dokumentation und Aktenvermerk / notfrist compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -131,7 +131,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verfahrens: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Verfahrens: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Verfahrens: Behörden-, Gerichts- oder Registerweg / spezial verfahrens behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verfahrens: Behörden-, Gerichts- oder Registerweg / verfahrens behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -294,16 +294,16 @@ auf die Anhörung vom [Datum] Bezug und ergänzen den Sachvortrag
 gemäß Mitwirkungspflicht:
 
 1. [Verfolgungshandlung, die in der Anhörung nicht vollständig
-   geschildert wurde] — konkret: [Datum, Ort, Akteur, Handlung].
+ geschildert wurde] — konkret: [Datum, Ort, Akteur, Handlung].
 
 2. Korrektur zu Protokoll Seite [X]: Die Übersetzung durch den
-   Dolmetscher war unzutreffend. Richtig ist: [Korrekte Aussage].
-   Unser Mandant / unsere Mandantin hat [Originalaussage in
-   Muttersprache transkribiert / korrigiert durch Sprachnachweise].
+ Dolmetscher war unzutreffend. Richtig ist: [Korrekte Aussage].
+ Unser Mandant / unsere Mandantin hat [Originalaussage in
+ Muttersprache transkribiert / korrigiert durch Sprachnachweise].
 
 3. Traumatische Vorgeschichte: Wir reichen das fachärztliche Attest
-   von [Arzt, Klinik] vom [Datum] nach (Anlage E1), das die PTBS-
-   Diagnose belegt und scheinbare Inkonsistenzen im Vortrag erklärt.
+ von [Arzt, Klinik] vom [Datum] nach (Anlage E1), das die PTBS-
+ Diagnose belegt und scheinbare Inkonsistenzen im Vortrag erklärt.
 
 Wir bitten um Berücksichtigung dieser Ergänzung vor Erlass des
 Bescheides.
@@ -315,7 +315,7 @@ Mit freundlichen Grüßen
 ### Baustein 2 — Eilantrag bei Ablehnung (Dublin-III-Fall)
 
 ```
-An das Verwaltungsgericht [Ort]              [Datum]
+An das Verwaltungsgericht [Ort] [Datum]
 
 Antrag auf Anordnung der aufschiebenden Wirkung
 gem. § 80 Abs. 5 VwGO i.V.m. § 34a Abs. 2 AsylG
@@ -335,10 +335,10 @@ ggf. Dublin-Überstellung in Staat X]
 
 II. Verfahrensfehler
 1. Die Anhörung dauerte nur [X Minuten]; zentraler Verfolgungsgrund
-   [konkret] wurde nicht abschließend erörtert.
+ [konkret] wurde nicht abschließend erörtert.
 2. Dolmetscher sprach nicht den Dialekt des Mandanten [konkret].
 3. Trauma-Attest wurde dem BAMF nicht zur Kenntnis gegeben;
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Materielles Schutzbegehren
 [Verfolgungshandlungen, Akteur, fehlender Schutz, keine

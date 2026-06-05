@@ -1,13 +1,13 @@
 ---
 name: db-m-db-open-db-kollektive
-description: "Nutze dies, wenn Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen prüfen.; Erstelle eine Arbeitsfassung zu Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: landesliste-bundestag-landesrecht
-description: "Nutze dies, wenn Landesliste Bundestag, Landesrecht Router, Landesverband Ohne Untergliederung im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Landesliste Bundestag, Landesrecht Router, Landesverband Ohne Untergliederung prüfen.; Erstelle eine Arbeitsfassung zu Landesliste Bundestag, Landesrecht Router, Landesverband Ohne Untergliederung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Landesliste Bundestag, Landesrecht Router, Landesverband Ohne Untergliederung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Landesliste Bundestag, Landesrecht Router, Landesverband Ohne Untergliederung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Landesliste Bundestag, Landesrecht Router, Landesverband Ohne Untergliederung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Landesliste Bundestag, Landesrecht Router, Landesverband Ohne Untergliede
 ## Aufgabe
 Begleitet Landeslistenaufstellung: Delegierten-/Mitgliederversammlung, Reihenfolge, geheime Wahl, Unterlagen, Fristen, Landeswahlleiter.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Findet das richtige Landeswahl-, Kommunalwahl- und Abgeordnetenrecht je Bundesland und markiert Live-Checks.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft Sonderlage kleiner Parteien ohne Kreisverbände: Satzung, Vorstand, Wahlvorschläge, Delegation.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

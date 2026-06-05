@@ -1,13 +1,13 @@
 ---
 name: cross-license-verletzung-anspruchsmerkmale
-description: "Nutze dies, wenn Vergleich Und Cross License, Verletzung Anspruchsmerkmale im Plugin Gebrauchsmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Vergleich Und Cross License, Verletzung Anspruchsmerkmale prüfen.; Erstelle eine Arbeitsfassung zu Vergleich Und Cross License, Verletzung Anspruchsmerkmale.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vergleich Und Cross License, Verletzung Anspruchsmerkmale: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vergleich Und Cross License, Verletzung Anspruchsmerkmale
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vergleich Und Cross License, Verletzung Anspruchsmerkmale** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

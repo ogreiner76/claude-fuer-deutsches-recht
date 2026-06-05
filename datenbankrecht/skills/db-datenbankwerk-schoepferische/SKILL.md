@@ -1,13 +1,13 @@
 ---
 name: db-datenbankwerk-schoepferische
-description: "Nutze dies, wenn Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen prüfen.; Erstelle eine Arbeitsfassung zu Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

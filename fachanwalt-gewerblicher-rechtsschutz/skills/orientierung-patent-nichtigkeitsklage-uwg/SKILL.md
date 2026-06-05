@@ -1,13 +1,13 @@
 ---
 name: orientierung-patent-nichtigkeitsklage-uwg
-description: "Nutze dies, wenn Fachanwalt Gewerblicher Rechtsschutz Orientierung, Fachanwalt Gewerblicher Rechtsschutz Patent Nichtigkeitsklage, Fachanwalt Gewerblicher Rechtsschutz Uwg Einstweilige Verfuegung im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Gewerblicher Rechtsschutz Orientierung, Fachanwalt Gewerblicher Rechtsschutz Patent Nichtigkeitsklage, Fachanwalt Gewerblicher Rechtsschutz Uwg Einstweilige Verfuegung prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Gewerblicher Rechtsschutz Orientierung, Fachanwalt Gewerblicher Rechtsschutz Patent Nichtigkeitsklage, Fachanwalt Gewerblicher Rechtsschutz Uwg Einstweilige Verfuegung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Gewerblicher Rechtsschutz Orientierung, Fachanwalt Gewerblicher Rechtsschutz Patent Nichtigkeitsklage, Fachanwalt Gewerblicher Rechtsschutz Uwg Einstweilige Verfuegung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Gewerblicher Rechtsschutz Orientierung, Fachanwalt Gewerblicher Rechtsschutz Patent Nichtigkeitsklage, Fachanwalt Gewerblicher Rechtsschutz Uwg Einstweilige Verfuegung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Gewerblicher Rechtsschutz Orientierung, Fachanwalt Gewerblicher Rechtsschutz Patent Nichtigkeitsklage, Fachanwalt Gewerblicher Rechtsschutz Uwg Einstweilige Verfuegung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,26 +34,26 @@ Für **Fachanwalt Gewerblicher Rechtsschutz Orientierung, Fachanwalt Gewerbliche
 
 ```
 Marke (Wort, Bild, Form)?
-  → MarkenG §§ 3 ff.; Ansprueche §§ 14 ff. MarkenG
-  → Skill: fachanwalt-gewerblicher-rechtsschutz-markenanmeldung
+ → MarkenG §§ 3 ff.; Ansprueche §§ 14 ff. MarkenG
+ → Skill: fachanwalt-gewerblicher-rechtsschutz-markenanmeldung
 
 Design (Erscheinungsform Erzeugnis)?
-  → DesignG §§ 2 ff.; Ansprueche §§ 38 ff. DesignG
-  → Skill: fachanwalt-gewerblicher-rechtsschutz-designverletzung
+ → DesignG §§ 2 ff.; Ansprueche §§ 38 ff. DesignG
+ → Skill: fachanwalt-gewerblicher-rechtsschutz-designverletzung
 
 Patent / Gebrauchsmuster?
-  → PatG §§ 1 ff.; GebrMG §§ 1 ff.; Nichtigkeit §§ 21, 81 PatG
-  → Skill: fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage
+ → PatG §§ 1 ff.; GebrMG §§ 1 ff.; Nichtigkeit §§ 21, 81 PatG
+ → Skill: fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage
 
 Unlauterer Wettbewerb?
-  → UWG §§ 3 ff.; Abmahnung §§ 8, 13 UWG
-  → Skill: fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg
+ → UWG §§ 3 ff.; Abmahnung §§ 8, 13 UWG
+ → Skill: fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg
 
 Domain-Streit?
-  → MarkenG § 14 + § 15; UDRP; Skript: takedown-anweisung
+ → MarkenG § 14 + § 15; UDRP; Skript: takedown-anweisung
 
 Keine Eintragungs-Barriere vorhanden?
-  → Erst Recherche: markenrecherche / fto-triage
+ → Erst Recherche: markenrecherche / fto-triage
 ```
 
 ## FAO § 14k — Voraussetzungen
@@ -184,43 +184,43 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Schritt-fuer-Schritt-Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 
 ```
 Schritt 1: Patentdokumentation beschaffen
-  → Vollstaendige Akte DPMA/EPA anfordern
-  → Anmeldungs-Tag, Prioritaets-Tag, Erteilungs-Tag notieren
+ → Vollstaendige Akte DPMA/EPA anfordern
+ → Anmeldungs-Tag, Prioritaets-Tag, Erteilungs-Tag notieren
 
 Schritt 2: Stand-der-Technik-Recherche
-  → Patentanwalt beauftragen fuer systematische Recherche
-  → NPL-Datenbanken (IEEE, Science) separat pruefen
-  → Ergebnis: Entgegenhaltungs-Tabelle mit Datum und Treffer-Analyse
+ → Patentanwalt beauftragen fuer systematische Recherche
+ → NPL-Datenbanken (IEEE, Science) separat pruefen
+ → Ergebnis: Entgegenhaltungs-Tabelle mit Datum und Treffer-Analyse
 
 Schritt 3: Anspruchsanalyse
-  → Jedes Anspruchsmerkmal identifizieren (Anspruch 1 = Ausgangspunkt)
-  → Neuheit-Abgleich: ist jedes Merkmal im StdT?
-  → Nahelegen-Analyse: Fachmann-Perspektive ex ante
+ → Jedes Anspruchsmerkmal identifizieren (Anspruch 1 = Ausgangspunkt)
+ → Neuheit-Abgleich: ist jedes Merkmal im StdT?
+ → Nahelegen-Analyse: Fachmann-Perspektive ex ante
 
 Schritt 4: Klageschrift vorbereiten
-  → Grund des Angriffs klar benennen (§ 3, § 4, § 21 I Nr. 2 PatG)
-  → Entgegenhaltungen als Anlage
-  → Vorbenutzungs-Beweise (Zeugen benennen)
+ → Grund des Angriffs klar benennen (§ 3, § 4, § 21 I Nr. 2 PatG)
+ → Entgegenhaltungen als Anlage
+ → Vorbenutzungs-Beweise (Zeugen benennen)
 
 Schritt 5: Klage einreichen BPatG
-  → Klagegebuehr einzahlen
-  → Klageschrift per beA oder Einschreiben
+ → Klagegebuehr einzahlen
+ → Klageschrift per beA oder Einschreiben
 
 Schritt 6: Schriftsatz-Phase
-  → Klageerwiderung des Patentinhabers abwarten
-  → Hilfsantraege pruefen (§ 65 PatG Beschraenkung)
+ → Klageerwiderung des Patentinhabers abwarten
+ → Hilfsantraege pruefen (§ 65 PatG Beschraenkung)
 
 Schritt 7: Muendliche Verhandlung
-  → Sachverstaendigen-Auftritt vorbereiten
-  → Priorior Art Praesentation
+ → Sachverstaendigen-Auftritt vorbereiten
+ → Priorior Art Praesentation
 
 Schritt 8: Berufung BGH (wenn noetig)
-  → Frist: 1 Monat nach Urteilszustellung (§ 110 Abs. 1 PatG)
+ → Frist: 1 Monat nach Urteilszustellung (§ 110 Abs. 1 PatG)
 ```
 
 ## Quellenregel
@@ -345,52 +345,52 @@ D2: [Titel, Veroeffentlichungsdatum]
 
 ```
 Kenntnis-Datum feststellen (Tag und Uhrzeit moeglichst genau)
-  ↓
+ ↓
 Liegt Kenntnis weniger als 4 Wochen zurueck?
-  Ja → Dringlichkeit noch gegeben; sofort handeln
-  Nein → Dringlichkeit widerlegt; nur Hauptsacheklage moeglich
+ Ja → Dringlichkeit noch gegeben; sofort handeln
+ Nein → Dringlichkeit widerlegt; nur Hauptsacheklage moeglich
 
 Hat Mandant nach Kenntnis noch laenger zugewartet?
-  → Zoegevorgehen dokumentieren, ggf. erklaeren
-  → Gericht kann trotzdem Dringlichkeit verneinen
+ → Zoegevorgehen dokumentieren, ggf. erklaeren
+ → Gericht kann trotzdem Dringlichkeit verneinen
 ```
 
 ## Schritt-fuer-Schritt-Workflow
 
 ```
 Schritt 1: Dringlichkeit pruefen
-  → Kenntnisdatum exakt feststellen
-  → 4-Wochen-Frist berechnen
-  → Sofort: Abmahnung vorbereiten
+ → Kenntnisdatum exakt feststellen
+ → 4-Wochen-Frist berechnen
+ → Sofort: Abmahnung vorbereiten
 
 Schritt 2: Abmahnung versenden
-  → Inhalt: Verstoss, Unterlassungsanspruch, strafbewehrte UE, Frist 7-10 Tage
-  → Kostenerstattungsanspruch sichern § 13 Abs. 3 UWG
-  → Per Fax + Einschreiben (Empfangsbekenntnis!)
+ → Inhalt: Verstoss, Unterlassungsanspruch, strafbewehrte UE, Frist 7-10 Tage
+ → Kostenerstattungsanspruch sichern § 13 Abs. 3 UWG
+ → Per Fax + Einschreiben (Empfangsbekenntnis!)
 
 Schritt 3: Reaktion abwarten (7-10 Tage)
-  → Modifizierte UE akzeptable? → Anti-Hammer-Klausel beachten
-  → Keine Reaktion → Verfuegungsantrag vorbereiten
-  → Abweisung → Verfuegungsantrag einreichen
+ → Modifizierte UE akzeptable? → Anti-Hammer-Klausel beachten
+ → Keine Reaktion → Verfuegungsantrag vorbereiten
+ → Abweisung → Verfuegungsantrag einreichen
 
 Schritt 4: Verfuegungsantrag erstellen
-  → Rubrum, Verfuegungsantrag, Tatsachenvortrag, Rechtswuerdigung
-  → Eidesstattliche Versicherung (EV) des Mandanten
-  → Urkunden-Belege (Screenshots datiert, Kaufbelege)
-  → Streitwertangabe (ueblicherweise 10.000-100.000 EUR)
+ → Rubrum, Verfuegungsantrag, Tatsachenvortrag, Rechtswuerdigung
+ → Eidesstattliche Versicherung (EV) des Mandanten
+ → Urkunden-Belege (Screenshots datiert, Kaufbelege)
+ → Streitwertangabe (ueblicherweise 10.000-100.000 EUR)
 
 Schritt 5: Gerichtsstand waehlen § 14 UWG
-  → LG am Ort der Niederlassung des Antragsgegners
-  → LG am Ort des Handlungsorts
-  → Forum-Shopping zulaessig — spezialisierte Kammern bevorzugen
+ → LG am Ort der Niederlassung des Antragsgegners
+ → LG am Ort des Handlungsorts
+ → Forum-Shopping zulaessig — spezialisierte Kammern bevorzugen
 
 Schritt 6: Schutzschrift des Gegners pruefen
-  → Im Zentralen Schutzschriftenregister (ZSSR) recherchieren
-  → Wenn vorhanden: muendliche Verhandlung vorbereiten
+ → Im Zentralen Schutzschriftenregister (ZSSR) recherchieren
+ → Wenn vorhanden: muendliche Verhandlung vorbereiten
 
 Schritt 7: Nach Erlass der Verfuegung
-  → Widerspruch des Beklagten abwarten (14 Tage § 924 ZPO)
-  → Hauptsacheklage ggf. einreichen (zur dauerhaften Unterlassung)
+ → Widerspruch des Beklagten abwarten (14 Tage § 924 ZPO)
+ → Hauptsacheklage ggf. einreichen (zur dauerhaften Unterlassung)
 ```
 
 ## Quellenregel

@@ -1,21 +1,21 @@
 ---
 name: vergaberechtliche-vertragsbedingungen-02
-description: "Nutze dies, wenn Vergaberechtliche Vertragsbedingungen, Vertragsstrafe 309, Vertraulichkeit Klausel, Agb Für Vereinsausschluss Und Haftung, Agb Haftung Erfuellungsgehilfen im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vergaberechtliche Vertragsbedingungen, Vertragsstrafe 309, Vertraulichkeit Klausel, Agb Für Vereinsausschluss Und Haftung, Agb Haftung Erfuellungsgehilfen prüfen.; Erstelle eine Arbeitsfassung zu Vergaberechtliche Vertragsbedingungen, Vertragsstrafe 309, Vertraulichkeit Klausel, Agb Für Vereinsausschluss Und Haftung, Agb Haftung Erfuellungsgehilfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vergaberechtliche Vertragsbedingungen, Vertragsstrafe 309, Vertraulichkeit Klausel, Agb Für Vereinsausschluss Und Haftung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vergaberechtliche Vertragsbedingungen, Vertragsstrafe 309, Vertraulichkeit Klausel, Agb Für Vereinsausschluss Und Haftung, Agb Haftung Erfuellungsgehilfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vergaberechtliche Vertragsbedingungen, Vertragsstrafe 309, Vertraulichkeit Klausel, Agb Für Vereinsausschluss Und Haftung, Agb Haftung Erfuellungsgehilfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `vergaberechtliche-vertragsbedingungen` | Branchen-Spezialskill für Vergaberechtliche Vertragsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `vergaberechtliche-vertragsbedingungen` | Branchen-Fachmodul für Vergaberechtliche Vertragsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `vertragsstrafe-309` | Norm- und Dogmatik-Skill für Vertragsstrafe 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `vertraulichkeit-klausel` | Klausel-Spezialskill für Vertraulichkeit Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `vertraulichkeit-klausel` | Klausel-Fachmodul für Vertraulichkeit Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `agb-fuer-vereinsausschluss-und-haftung` | AGB-Klauseln zum Vereinsausschluss und zur Haftung im Verein. Skill klaert die AGB-rechtliche Pruefung von Ausschlussklauseln in Vereinssatzungen und Beitrittsformularen das Verhaeltnis zur Vereinsautonomie und das gerichtliche Pruefraster bei Vereinsausschluessen. Liefert Klauselentwurf. |
 | `agb-haftung-erfuellungsgehilfen` | AGB-Haftung fuer Erfuellungsgehilfen. Skill klaert die AGB-rechtliche Behandlung von Haftungsausschluessen fuer Erfuellungsgehilfen (§ 278 BGB) und die Wechselwirkung mit § 309 Nr. 7 BGB. Behandelt die BGH-Linie zur unwirksamen Pauschalfreizeichnung und zur zulaessigen Differenzierung. Liefert Klauselentwurf. |
 
@@ -28,7 +28,7 @@ Für **Vergaberechtliche Vertragsbedingungen, Vertragsstrafe 309, Vertraulichkei
 
 ## 1. `vergaberechtliche-vertragsbedingungen`
 
-**Fokus:** Branchen-Spezialskill für Vergaberechtliche Vertragsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Vergaberechtliche Vertragsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Vergaberechtliche Vertragsbedingungen
 
@@ -109,11 +109,11 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Vertragsstrafe (§ 309 Nr. 6 BGB):**
-   - **B2C:** § 309 Nr. 6 BGB ist absolutes Klauselverbot ohne Wertungsmöglichkeit. Eine Vertragsstrafe gegen den Verbraucher für Nichtabnahme, Zahlungsverzug oder Vertragslösung ist immer unwirksam.
-   - **B2B:** § 309 Nr. 6 BGB gilt zwar nicht direkt (§ 310 Abs. 1 BGB), die Wertung strahlt aber über § 307 Abs. 2 Nr. 1 BGB aus. Strafe ist im B2B nur zulässig, wenn Verstoß klar bestimmt, Höhe angemessen (Faustregel: nicht mehr als 5% Auftragswert pro Fall) und kein Schadenersatz darüber hinaus pauschaliert wird.
-   - **Verbot der Verschleierung:** Wenn die Klausel das Wort "Vertragsstrafe" vermeidet und stattdessen "Pauschalvergütung", "Bearbeitungspauschale" oder "Aufwandsentschädigung" sagt, gilt sie trotzdem als Vertragsstrafe, sobald sie sanktionierenden Charakter hat. Transparenzgebot § 307 Abs. 1 S. 2 BGB verletzt.
-   - **Verhältnis zu § 339 BGB:** Vertragsstrafe ist akzessorisch zur Hauptforderung (§ 339 BGB) und setzt Verschulden voraus (§ 286 Abs. 4 BGB analog). Klauseln ohne Verschuldensbezug sind regelmäßig unwirksam.
-   - **Verhältnis zu Schadenspauschale:** Vertragsstrafe ist Sanktion; Schadenspauschale ist Schadenausgleich (§ 309 Nr. 5 BGB). Beides parallel pauschalieren ist regelmäßig unzulässig.
+ - **B2C:** § 309 Nr. 6 BGB ist absolutes Klauselverbot ohne Wertungsmöglichkeit. Eine Vertragsstrafe gegen den Verbraucher für Nichtabnahme, Zahlungsverzug oder Vertragslösung ist immer unwirksam.
+ - **B2B:** § 309 Nr. 6 BGB gilt zwar nicht direkt (§ 310 Abs. 1 BGB), die Wertung strahlt aber über § 307 Abs. 2 Nr. 1 BGB aus. Strafe ist im B2B nur zulässig, wenn Verstoß klar bestimmt, Höhe angemessen (Faustregel: nicht mehr als 5% Auftragswert pro Fall) und kein Schadenersatz darüber hinaus pauschaliert wird.
+ - **Verbot der Verschleierung:** Wenn die Klausel das Wort "Vertragsstrafe" vermeidet und stattdessen "Pauschalvergütung", "Bearbeitungspauschale" oder "Aufwandsentschädigung" sagt, gilt sie trotzdem als Vertragsstrafe, sobald sie sanktionierenden Charakter hat. Transparenzgebot § 307 Abs. 1 S. 2 BGB verletzt.
+ - **Verhältnis zu § 339 BGB:** Vertragsstrafe ist akzessorisch zur Hauptforderung (§ 339 BGB) und setzt Verschulden voraus (§ 286 Abs. 4 BGB analog). Klauseln ohne Verschuldensbezug sind regelmäßig unwirksam.
+ - **Verhältnis zu Schadenspauschale:** Vertragsstrafe ist Sanktion; Schadenspauschale ist Schadenausgleich (§ 309 Nr. 5 BGB). Beides parallel pauschalieren ist regelmäßig unzulässig.
 6. **Rechtsfolge:** Vollständige Unwirksamkeit der Klausel (§ 306 Abs. 1 BGB); keine geltungserhaltende Reduktion auf "angemessene" Höhe (BGH, ständige Rechtsprechung). Ersatzregel: § 280 BGB konkreter Schadenersatz.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -147,7 +147,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `vertraulichkeit-klausel`
 
-**Fokus:** Klausel-Spezialskill für Vertraulichkeit Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Vertraulichkeit Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Vertraulichkeit Klausel
 

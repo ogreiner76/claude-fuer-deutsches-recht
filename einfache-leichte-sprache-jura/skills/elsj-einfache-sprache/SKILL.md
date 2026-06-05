@@ -81,7 +81,7 @@ Der Text soll schnell beantworten:
 - Verwende denselben Begriff immer gleich.
 - Ersetze Amts- und Kanzleistil durch direkte, respektvolle Sprache.
 - Lass Rechtsgrundlagen stehen, wenn sie wichtig sind, aber erkläre ihre
-  Bedeutung.
+ Bedeutung.
 
 ## Juristische Struktur
 

@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Entwicklungszusammenarbeit und bilaterale Abkommen
-Ressort:            BMZ
-Kernnormen:         Verwaltungsvereinbarungen; HG; BHO; Vertragsgesetze (BGBl II).
-Akteure/Aufsicht:   BMZ; GIZ; KfW; Auslandshandelskammern; AA-Schnittstelle.
-EU/Voelkerrecht:    Team Europe Initiatives; EU-Treuhandfonds; NDICI.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmz; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Entwicklungszusammenarbeit und bilaterale Abkommen
+Ressort: BMZ
+Kernnormen: Verwaltungsvereinbarungen; HG; BHO; Vertragsgesetze (BGBl II).
+Akteure/Aufsicht: BMZ; GIZ; KfW; Auslandshandelskammern; AA-Schnittstelle.
+EU/Voelkerrecht: Team Europe Initiatives; EU-Treuhandfonds; NDICI.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

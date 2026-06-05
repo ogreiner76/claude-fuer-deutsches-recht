@@ -1,22 +1,22 @@
 ---
 name: ausschuesse-berater-hinzuziehen
-description: "Nutze dies, wenn Ausschuesse Router, Berater Hinzuziehen, Beraterauftrag, Berichte Des Vorstands 90 Aktg im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Ausschuesse Router, Berater Hinzuziehen, Beraterauftrag, Berichte Des Vorstands 90 Aktg prüfen.; Erstelle eine Arbeitsfassung zu Ausschuesse Router, Berater Hinzuziehen, Beraterauftrag, Berichte Des Vorstands 90 Aktg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ausschuesse Router, Berater Hinzuziehen, Beraterauftrag, Berichte Des Vorstands 90 Aktg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ausschuesse Router, Berater Hinzuziehen, Beraterauftrag, Berichte Des Vorstands 90 Aktg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ausschuesse Router, Berater Hinzuziehen, Beraterauftrag, Berichte Des Vorstands 90 Aktg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `ausschuesse-router` | AG/SE-Aufsichtsrat Praxis: Ausschuesse Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `berater-hinzuziehen` | AG/SE-Aufsichtsrat Praxis: Berater Hinzuziehen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beraterauftrag` | AG/SE-Aufsichtsrat Praxis: Beraterauftrag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `berichte-des-vorstands-90-aktg` | AG/SE-Aufsichtsrat Praxis: Berichte Des Vorstands 90 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ausschuesse-router` | AG/SE-Aufsichtsrat Praxis: Ausschuesse Router; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `berater-hinzuziehen` | AG/SE-Aufsichtsrat Praxis: Berater Hinzuziehen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beraterauftrag` | AG/SE-Aufsichtsrat Praxis: Beraterauftrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `berichte-des-vorstands-90-aktg` | AG/SE-Aufsichtsrat Praxis: Berichte Des Vorstands 90 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Ausschuesse Router, Berater Hinzuziehen, Beraterauftrag, Berichte Des Vor
 
 ## 1. `ausschuesse-router`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Ausschuesse Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Ausschuesse Router; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Ausschuesse Router
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `berater-hinzuziehen`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Berater Hinzuziehen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Berater Hinzuziehen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Berater Hinzuziehen
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beraterauftrag`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Beraterauftrag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Beraterauftrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beraterauftrag
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `berichte-des-vorstands-90-aktg`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Berichte Des Vorstands 90 Aktg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Berichte Des Vorstands 90 Aktg; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Berichte Des Vorstands 90 Aktg
 

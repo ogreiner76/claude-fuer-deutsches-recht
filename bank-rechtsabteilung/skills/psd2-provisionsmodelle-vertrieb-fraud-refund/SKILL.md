@@ -1,13 +1,13 @@
 ---
 name: psd2-provisionsmodelle-vertrieb-fraud-refund
-description: "Nutze dies, wenn Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2A, Psd2 Sca Strong Customer Authentication, Psd3 Psr Vorschau Gap Analysis im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Bitte Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2A, Psd2 Sca Strong Customer Authentication, Psd3 Psr Vorschau Gap Analysis prüfen.; Erstelle eine Arbeitsfassung zu Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2A, Psd2 Sca Strong Customer Authentication, Psd3 Psr Vorschau Gap Analysis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2a, Psd2 Sca Strong Customer Authentication: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2A, Psd2 Sca Strong Customer Authentication, Psd3 Psr Vorschau Gap Analysis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2A, Psd2 Sca Strong Customer Authentication, Psd3 Psr Vorschau Gap Analysis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

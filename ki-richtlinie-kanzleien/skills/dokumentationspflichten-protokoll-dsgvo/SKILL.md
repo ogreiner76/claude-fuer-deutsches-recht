@@ -1,13 +1,13 @@
 ---
 name: dokumentationspflichten-protokoll-dsgvo
-description: "Nutze dies, wenn Dokumentationspflichten Protokoll, Dsgvo Compliance Bausteine, Executive Summary Bausteine im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Dokumentationspflichten Protokoll, Dsgvo Compliance Bausteine, Executive Summary Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dokumentationspflichten Protokoll, Dsgvo Compliance Bausteine, Executive Summary Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dokumentationspflichten Protokoll, Dsgvo Compliance Bausteine, Executive Summary Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -39,7 +39,7 @@ Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht — die Kanzlei muss die Einhaltung de
 ## Vorgehen
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Verarbeitungsverzeichnis aktualisieren**: Jedes KI-System, das personenbezogene Daten verarbeitet, ist im Verarbeitungsverzeichnis nach Art. 30 DSGVO zu dokumentieren.
 2. **Prüfprotokoll für wichtige Outputs**: Für Schriftsätze, Gutachten und Beratungsunterlagen, die wesentlich unter KI-Mitwirkung entstanden sind, ein standardisiertes Prüfprotokoll anlegen.
@@ -232,7 +232,7 @@ Die sechs Eckpunkte spiegeln die zentralen Rechtspflichten wider: § 43 BRAO (Ge
 
 ## Vorgehen
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Eckpunkt 1 – Werkzeugcharakter** herausarbeiten und in die Richtlinie einpassen.
 2. **Eckpunkt 2 – Verschwiegenheit** mit § 43a BRAO und § 203 StGB verankern.
@@ -315,22 +315,22 @@ EXECUTIVE SUMMARY — KI-NUTZUNGSRICHTLINIE
 6 GRUNDSAETZE FUR DEN KI-EINSATZ IN UNSERER KANZLEI:
 
 1. WERKZEUGCHARAKTER: KI ist ein Arbeitshilfsmittel — keine eigenstaendige Rechtsberatung.
-   Jede KI-Ausgabe wird menschlich geprueft und verantwortet.
+ Jede KI-Ausgabe wird menschlich geprueft und verantwortet.
 
 2. VERSCHWIEGENHEIT (§ 43a Abs. 2 BRAO): Mandatsdaten werden vor KI-Eingabe anonymisiert.
-   Das Mandantengeheimnis gilt absolut.
+ Das Mandantengeheimnis gilt absolut.
 
 3. DATENSCHUTZ (DSGVO / Art. 28): Nur KI-Systeme mit Kanzlei-Account und AVV.
-   Kein Privat-Account. Kein Upload personenbezogener Daten ohne AVV.
+ Kein Privat-Account. Kein Upload personenbezogener Daten ohne AVV.
 
 4. QUELLENPRÜFUNG: Rechtsprechungs-Zitate werden gegen amtliche Quellen verifiziert.
-   Halluzinierte Fundstellen sind ein Haftungsrisiko.
+ Halluzinierte Fundstellen sind ein Haftungsrisiko.
 
 5. KEINE PRIVAT-ACCOUNTS: Nur freigegebene Kanzlei-Lizenzen.
-   (Freigabeliste: [REFERENZ AUF LISTE])
+ (Freigabeliste: [REFERENZ AUF LISTE])
 
 6. KENNZEICHNUNGSPFLICHT: KI-generierte Abschnitte in Mandanten-Dokumenten als solche
-   kennzeichnen (interne Kennzeichnung genuegt).
+ kennzeichnen (interne Kennzeichnung genuegt).
 
 Bei Fragen: [ANSPRECHPARTNER] — [EMAIL]
 Vollstaendige Richtlinie: [REFERENZ]

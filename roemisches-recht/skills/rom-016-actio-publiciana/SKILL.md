@@ -1,6 +1,6 @@
 ---
 name: rom-016-actio-publiciana
-description: "Römisches Recht: Actio Publiciana. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Actio Publiciana. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Actio Publiciana

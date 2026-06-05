@@ -1,22 +1,22 @@
 ---
 name: opportunismus-organpflicht-vs-pool-breakdown
-description: "Nutze dies, wenn Opportunismus, Organpflicht Vs Gesellschafterinteresse, Pool Breakdown, Poolvereinbarung im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Opportunismus, Organpflicht Vs Gesellschafterinteresse, Pool Breakdown, Poolvereinbarung prüfen.; Erstelle eine Arbeitsfassung zu Opportunismus, Organpflicht Vs Gesellschafterinteresse, Pool Breakdown, Poolvereinbarung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Opportunismus, Organpflicht Vs Gesellschafterinteresse, Pool Breakdown, Poolvereinbarung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Opportunismus, Organpflicht Vs Gesellschafterinteresse, Pool Breakdown, Poolvereinbarung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Opportunismus, Organpflicht Vs Gesellschafterinteresse, Pool Breakdown, Poolvereinbarung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `opportunismus` | Gesellschaftsrechtliche Treuepflicht: Opportunismus; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `organpflicht-vs-gesellschafterinteresse` | Gesellschaftsrechtliche Treuepflicht: Organpflicht Vs Gesellschafterinteresse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `pool-breakdown` | Gesellschaftsrechtliche Treuepflicht: Pool Breakdown; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `poolvereinbarung` | Gesellschaftsrechtliche Treuepflicht: Poolvereinbarung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `opportunismus` | Gesellschaftsrechtliche Treuepflicht: Opportunismus; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `organpflicht-vs-gesellschafterinteresse` | Gesellschaftsrechtliche Treuepflicht: Organpflicht Vs Gesellschafterinteresse; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `pool-breakdown` | Gesellschaftsrechtliche Treuepflicht: Pool Breakdown; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `poolvereinbarung` | Gesellschaftsrechtliche Treuepflicht: Poolvereinbarung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Opportunismus, Organpflicht Vs Gesellschafterinteresse, Pool Breakdown, P
 
 ## 1. `opportunismus`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Opportunismus; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Opportunismus; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Opportunismus
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `organpflicht-vs-gesellschafterinteresse`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Organpflicht Vs Gesellschafterinteresse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Organpflicht Vs Gesellschafterinteresse; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Organpflicht Vs Gesellschafterinteresse
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `pool-breakdown`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Pool Breakdown; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Pool Breakdown; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Pool Breakdown
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `poolvereinbarung`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Poolvereinbarung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Poolvereinbarung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Poolvereinbarung
 

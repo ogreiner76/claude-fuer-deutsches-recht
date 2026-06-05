@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Strassenverkehrsrecht (StVG; StVO)
-Ressort:            BMV
-Kernnormen:         StVG; StVO; FeV; FZV; StVZO; FStrG; PBefG.
-Akteure/Aufsicht:   Kraftfahrt-Bundesamt; BMV; Strassenverkehrsbehoerden der Laender und Kommunen.
-EU/Voelkerrecht:    Typgenehmigungsrecht (EU 2018/858); Fuehrerschein-RL; Mobilitaetspaket.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmv; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Strassenverkehrsrecht (StVG; StVO)
+Ressort: BMV
+Kernnormen: StVG; StVO; FeV; FZV; StVZO; FStrG; PBefG.
+Akteure/Aufsicht: Kraftfahrt-Bundesamt; BMV; Strassenverkehrsbehoerden der Laender und Kommunen.
+EU/Voelkerrecht: Typgenehmigungsrecht (EU 2018/858); Fuehrerschein-RL; Mobilitaetspaket.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

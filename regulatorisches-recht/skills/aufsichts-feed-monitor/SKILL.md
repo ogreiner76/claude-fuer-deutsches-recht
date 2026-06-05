@@ -29,12 +29,12 @@ IT-Sicherheit, Datenschutz, KI-Regulierung (EU-KI-VO), ESG/CSRD.
 - **BGBl.** — amtliches Verkündungsblatt; maßgeblich für Inkrafttreten von Normen.
 - **ABl. EU, Reihe L + C** — verbindliche EU-Rechtsakte und Leitlinien.
 - **BaFin-Rundschreiben** (z. B. MaRisk BA 2023, BAIT, ZAIT) — konkretisieren
-  aufsichtsrechtliche Anforderungen; §§ 6, 25b KWG, §§ 6, 23 VAG, §§ 6 ff. WpHG.
+ aufsichtsrechtliche Anforderungen; §§ 6, 25b KWG, §§ 6, 23 VAG, §§ 6 ff. WpHG.
 - **BSI** — Technische Richtlinien und Kritis-Verlautbarungen (§§ 8a ff. BSIG).
 - **EU-KI-VO (VO (EU) 2024/1689)** — Hochrisiko-Klassifikation, Konformitätspflichten.
 - **CSRD (RL (EU) 2022/2464)** — nichtfinanzielle Berichterstattung, ESRS-Standards.
 - **Art. 20 Abs. 3 GG** — Rechtsstaatsprinzip, Normenklarheit; Maßstab für die
-  Bewertung behördlicher Verlautbarungen ohne formelle Ermächtigungsnorm.
+ Bewertung behördlicher Verlautbarungen ohne formelle Ermächtigungsnorm.
 
 ### Leitentscheidungen / Aktualitäts-Anker
 
@@ -51,11 +51,11 @@ Stand 05/2026. Vor Verwendung im Schriftsatz live verifizieren — keine Aktenze
 ### Kommentare
 
 - `Sachs (Hrsg.), GG, 10. Aufl. 2021, Art. 20 Rn. 78 ff.` — Rechtsstaatsprinzip
-  und Normenklarheit als Bewertungsmaßstab für behördliche Verlautbarungen.
+ und Normenklarheit als Bewertungsmaßstab für behördliche Verlautbarungen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  Rechtsetzungskompetenzen; relevant für Verbindlichkeitsgrad von BaFin-Rundschreiben.
+ Rechtsetzungskompetenzen; relevant für Verbindlichkeitsgrad von BaFin-Rundschreiben.
 - `Schwennicke/Auerbach (Hrsg.), KWG/CRR, 4. Aufl. 2022, § 6 KWG Rn. 5 ff.`
-  — Praxis der BaFin-Verlautbarungen und deren Rechtswirkung.
+ — Praxis der BaFin-Verlautbarungen und deren Rechtswirkung.
 
 ## Ablauf
 
@@ -158,12 +158,12 @@ In Kraft: 01.08.2024. [ABl. EU L 2024/XXX] [ABl. EU]
 ## Risiken und typische Fehler
 
 - **Sekundärquelle als Primärquelle verwenden:** Kanzlei-Newsletter berichten über
-  Entscheidungen, sind aber nicht die Entscheidung. Immer auf BGBl., ABl. oder
-  Behördenwebsite verweisen.
+ Entscheidungen, sind aber nicht die Entscheidung. Immer auf BGBl., ABl. oder
+ Behördenwebsite verweisen.
 - **Referentenentwurf als geltendes Recht einstufen:** Klare Kennzeichnung als Vorstufe.
 - **Kommentierungsfristen übergehen:** Fristen sind real und oft kurz — immer im Tracker.
 - **Verbindlichkeitsgrad verwischen:** BaFin-Rundschreiben sind keine Gesetze.
-  Unterschied Gesetz / VO / Leitlinie / Merkblatt in der Ausgabe erkennbar halten.
+ Unterschied Gesetz / VO / Leitlinie / Merkblatt in der Ausgabe erkennbar halten.
 - **Stille Ergänzung durch Websuche:** Ohne Rückfrage unzulässig.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

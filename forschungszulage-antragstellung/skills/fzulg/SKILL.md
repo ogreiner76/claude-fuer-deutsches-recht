@@ -1,12 +1,12 @@
 ---
 name: fzulg
-description: "Nutze dies, wenn FZulG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte FZulG: Fristen, Form, Zuständigkeit und Rechtsweg prüfen.; Erstelle eine Arbeitsfassung zu FZulG: Fristen, Form, Zuständigkeit und Rechtsweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei FZulG: Fristen, Form, Zuständigkeit und Rechtsweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # FZulG: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: FZulG: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** FZulG: Fristen, Form, Zuständigkeit und Rechtsweg / spezial fzulg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** FZulG: Fristen, Form, Zuständigkeit und Rechtsweg / fzulg fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FZulG, BSFZ.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

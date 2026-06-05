@@ -1,13 +1,13 @@
 ---
 name: stb-lohn-statistik-sv-beitraege-meldungen
-description: "Nutze dies, wenn Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen im Plugin Steuerrecht Anwalt Und Berater konkret bearbeitet werden soll. Auslöser: Bitte Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto, Stb Lohn Umlage U1 U2 Insogeld Umlage und 4 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -508,10 +508,10 @@ Ueberstunden koennen im Arbeitszeitkonto angesammelt und durch Freizeit oder Aus
 ### Phase 1 — Vertragspruefung
 
 - Schriftliche Arbeitszeitkonto-Vereinbarung mit:
-  - Obergrenze (z.B. +120 Stunden) und Untergrenze (z.B. -40 Stunden).
-  - Ausgleichszeitraum (z.B. 12 Monate).
-  - Modalitaeten Freizeit-Ausgleich.
-  - Modalitaeten Auszahlung.
+ - Obergrenze (z.B. +120 Stunden) und Untergrenze (z.B. -40 Stunden).
+ - Ausgleichszeitraum (z.B. 12 Monate).
+ - Modalitaeten Freizeit-Ausgleich.
+ - Modalitaeten Auszahlung.
 - Falls keine Vereinbarung: Ueberstunden in der Regel als Mehrarbeit zu verguteten.
 
 ### Phase 2 — Stunden-Konto fuehren

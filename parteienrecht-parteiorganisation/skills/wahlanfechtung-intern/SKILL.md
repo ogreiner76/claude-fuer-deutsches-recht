@@ -8,7 +8,7 @@ description: "Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufste
 ## Aufgabe
 Prüft Einspruch gegen interne Vorstandswahl oder Kandidatenaufstellung nach Satzung, Frist, Zuständigkeit und Beweisen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

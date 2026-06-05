@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Betreuungsrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Betreuungsrecht** ein Fall noch sortiert, 
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `aufgabenkreise-festlegen` — Aufgabenkreise Festlegen
 - `bericht-betreuer-betreuerpflichten` — Bericht Betreuer Betreuerpflichten
 - `betreuer-als-erbe` — Betreuer Als Erbe

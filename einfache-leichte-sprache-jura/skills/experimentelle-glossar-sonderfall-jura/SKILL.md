@@ -1,13 +1,13 @@
 ---
 name: experimentelle-glossar-sonderfall-jura
-description: "Nutze dies, wenn Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage im Plugin Einfache Leichte Sprache Jura konkret bearbeitet werden soll. Auslöser: Bitte Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Experimentelle Schriftsatz Brief Und Memo Bausteine, Glossar Sonderfall Und Edge Case, Jura Mandantenkommunikation Entscheidungsvorlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage
+# Experimentelle Schriftsatz Brief Und Memo Bausteine, Glossar Sonderfall Und Edge Case, Jura Mandantenkommunikation Entscheidungsvorlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Experimentelle Schriftsatz Brief Und Memo Bausteine, Glossar Sonderfall Und Edge Case, Jura Mandantenkommunikation Entscheidungsvorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glossar Sonderfall Und Edge Case, Spezial Jura Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einfache-leichte-sprache-jura` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Experimentelle Schriftsatz Brief Und Memo Bausteine, Glossar Sonderfall Und Edge Case, Jura Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `einfache-leichte-sprache-jura` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Experimentelle Schriftsatz Brief Und Memo Bausteine, Spezial Glos
 # Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine / spezial experimentelle schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine / experimentelle schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Glossar: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Glossar: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Glossar: Sonderfall und Edge-Case-Prüfung / spezial glossar sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Glossar: Sonderfall und Edge-Case-Prüfung / glossar sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Jura: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Jura: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Jura: Mandantenkommunikation und Entscheidungsvorlage / spezial jura mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Jura: Mandantenkommunikation und Entscheidungsvorlage / jura mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

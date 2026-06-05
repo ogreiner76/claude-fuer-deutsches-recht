@@ -1,6 +1,6 @@
 ---
 name: portal-quellenkarte
-description: "Nutze dies, wenn Portal Quellenkarte im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Portal Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Portal Quellenkarte

@@ -1,32 +1,32 @@
 ---
 name: insolvenzplan-intake-klassen
-description: "Nutze dies, wenn Spezial Insolvenzplan Erstpruefung Und Mandatsziel, Spezial Intake Dokumentenmatrix Und Lueckenliste, Spezial Klassen Verhandlung Vergleich Und Eskalation im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Insolvenzplan Erstpruefung Und Mandatsziel, Intake Dokumentenmatrix Und Lueckenliste, Klassen Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Insolvenzplan Erstpruefung Und Mandatsziel, Spezial Intake Dokumentenmatrix Und Lueckenliste, Spezial Klassen Verhandlung Vergleich Und Eskalation
+# Insolvenzplan Erstpruefung Und Mandatsziel, Intake Dokumentenmatrix Und Lueckenliste, Klassen Verhandlung Vergleich Und Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Insolvenzplan Erstpruefung Und Mandatsziel, Intake Dokumentenmatrix Und Lueckenliste, Klassen Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-insolvenzplan-erstpruefung-und-mandatsziel` | Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-intake-dokumentenmatrix-und-lueckenliste` | Intake: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-klassen-verhandlung-vergleich-und-eskalation` | Klassen: Verhandlung, Vergleich und Eskalation im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-insolvenzplan-erstpruefung-und-mandatsziel` | Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-intake-dokumentenmatrix-und-lueckenliste` | Intake: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-klassen-verhandlung-vergleich-und-eskalation` | Klassen: Verhandlung, Vergleich und Eskalation im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Insolvenzplan Erstpruefung Und Mandatsziel, Spezial Intake Dokumentenmatrix Und Lueckenliste, Spezial Klassen Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Insolvenzplan Erstpruefung Und Mandatsziel, Intake Dokumentenmatrix Und Lueckenliste, Klassen Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-insolvenzplan-erstpruefung-und-mandatsziel`
 
-**Fokus:** Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -40,7 +40,7 @@ Für **Spezial Insolvenzplan Erstpruefung Und Mandatsziel, Spezial Intake Dokume
 
 
 ## Spezialwissen: Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel / spezial insolvenzplan erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel / insolvenzplan erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,13 +72,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Status quo?** Insolvenzverfahren bereits eröffnet? → Insolvenzplan §§ 217 ff. InsO. Noch nicht eröffnet, aber drohende Zahlungsunfähigkeit (§ 18 InsO)? → StaRUG § 29.
 - **Plan-Initiator?** Schuldnerin (§ 218 Abs. 1 InsO), Insolvenzverwalter (§ 218 Abs. 1 InsO), Sachwalter (§ 284 InsO bei Eigenverwaltung); im StaRUG: nur Schuldnerin.
 - **Plan-Ziel?**
-  - Sanierung des Unternehmens (Fortführung mit modifizierten Verbindlichkeiten).
-  - Übertragende Sanierung (Asset Deal an Erwerber, Restmasse wird verteilt).
-  - Liquidation mit Plan (geordnete Abwicklung).
+ - Sanierung des Unternehmens (Fortführung mit modifizierten Verbindlichkeiten).
+ - Übertragende Sanierung (Asset Deal an Erwerber, Restmasse wird verteilt).
+ - Liquidation mit Plan (geordnete Abwicklung).
 - **Zentrale Hebel:**
-  - Forderungsverzicht / Quote / Stundung (gestaltender Teil § 221 InsO bzw. § 7 StaRUG).
-  - Eingriff in Gesellschafterrechte (Debt-Equity-Swap, Kapitalherabsetzung, Kapitalerhöhung).
-  - Eingriff in Sicherheiten (Insolvenzplan kann Absonderungsrechte modifizieren, StaRUG-Plan nicht ohne Weiteres).
+ - Forderungsverzicht / Quote / Stundung (gestaltender Teil § 221 InsO bzw. § 7 StaRUG).
+ - Eingriff in Gesellschafterrechte (Debt-Equity-Swap, Kapitalherabsetzung, Kapitalerhöhung).
+ - Eingriff in Sicherheiten (Insolvenzplan kann Absonderungsrechte modifizieren, StaRUG-Plan nicht ohne Weiteres).
 - **Realistische Mehrheiten?** Klassenbildung und Best-Interest-Test mental durchgespielt; bei knappen Mehrheiten Cross-Class Cram-Down (§ 245 InsO bzw. §§ 26–28 StaRUG) prüfen.
 - **Mandatsziel:** Plan-Entwurf, Beratung Gläubigergruppe, Verteidigungslinie gegen Plan, Vollzug nach Bestätigung.
 - **Praxis:** Plan-Architektur frühzeitig festlegen — spätere Umbauten kosten Zeit und Vertrauen aller Beteiligten.
@@ -91,7 +91,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-intake-dokumentenmatrix-und-lueckenliste`
 
-**Fokus:** Intake: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Intake: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Intake: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -105,7 +105,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Intake: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Intake: Dokumentenmatrix, Lückenliste und Nachforderung / spezial intake dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Intake: Dokumentenmatrix, Lückenliste und Nachforderung / intake dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -141,7 +141,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-klassen-verhandlung-vergleich-und-eskalation`
 
-**Fokus:** Klassen: Verhandlung, Vergleich und Eskalation im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Klassen: Verhandlung, Vergleich und Eskalation im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Klassen: Verhandlung, Vergleich und Eskalation
 
@@ -155,7 +155,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Klassen: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Klassen: Verhandlung, Vergleich und Eskalation / spezial klassen verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Klassen: Verhandlung, Vergleich und Eskalation / klassen verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

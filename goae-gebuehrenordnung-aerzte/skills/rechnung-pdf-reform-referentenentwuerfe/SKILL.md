@@ -1,19 +1,19 @@
 ---
 name: rechnung-pdf-reform-referentenentwuerfe
-description: "Nutze dies, wenn Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen im Plugin Goae Gebuehrenordnung Aerzte konkret bearbeitet werden soll. Auslöser: Bitte Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen prüfen.; Erstelle eine Arbeitsfassung zu Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobachten, Gutachten Atteste Bescheinigungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `goae-rechnung-aus-pdf-extrahieren` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema GOÄ Rechnung aus PDF extrahieren. |
+| `goae-rechnung-aus-pdf-extrahieren` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema GOÄ Rechnung aus PDF extrahieren. |
 | `goae-reform-referentenentwuerfe-beobachten` | GOÄ Reform Referentenentwürfe beobachten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 | `gutachten-atteste-bescheinigungen` | Gutachten Atteste Bescheinigungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise. |
 
@@ -26,7 +26,7 @@ Für **Goae Rechnung Aus Pdf Extrahieren, Goae Reform Referentenentwuerfe Beobac
 
 ## 1. `goae-rechnung-aus-pdf-extrahieren`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema GOÄ Rechnung aus PDF extrahieren.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema GOÄ Rechnung aus PDF extrahieren.
 
 # GOÄ Rechnung aus PDF extrahieren
 

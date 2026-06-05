@@ -1,13 +1,13 @@
 ---
 name: gesr-gesellschaftsformwahl-aufsichtsrat
-description: "Nutze dies, wenn Gesr Gesellschaftsformwahl Bauleiter, Aufsichtsrat Protokoll, Beirat Abgrenzung Aufsichtsrat, Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Gesr Gesellschaftsformwahl Bauleiter, Aufsichtsrat Protokoll, Beirat Abgrenzung Aufsichtsrat, Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung prüfen.; Erstelle eine Arbeitsfassung zu Gesr Gesellschaftsformwahl Bauleiter, Aufsichtsrat Protokoll, Beirat Abgrenzung Aufsichtsrat, Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesr Gesellschaftsformwahl Bauleiter, Aufsichtsrat Protokoll, Beirat Abgrenzung Aufsichtsrat, Beirat Amtszeit Und Rotation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesr Gesellschaftsformwahl Bauleiter, Aufsichtsrat Protokoll, Beirat Abgrenzung Aufsichtsrat, Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesr Gesellschaftsformwahl Bauleiter, Aufsichtsrat Protokoll, Beirat Abgrenzung Aufsichtsrat, Beirat Amtszeit Und Rotation, Beirat Bank Und Sanierung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,9 +15,9 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `gesr-gesellschaftsformwahl-bauleiter` | Bauleiter Gesellschaftsformwahl: GmbH, UG, GmbH und Co. KG, AG, eG, Stiftung. Pruefraster Haftung, Steuern, Mitbestimmung, Publizitaet. Entscheidungstabelle. |
 | `aufsichtsrat-protokoll` | Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigger: "Protokoll", "Vorstandssitzung", "Aufsichtsratssitzung", "Gesellschafterversammlung", "Protokollentwurf", "Sitzungsprotokoll". |
-| `beirat-abgrenzung-aufsichtsrat` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-amtszeit-und-rotation` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Amtszeit Und Rotation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `beirat-bank-und-sanierung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bank Und Sanierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-abgrenzung-aufsichtsrat` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-amtszeit-und-rotation` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Amtszeit Und Rotation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-bank-und-sanierung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bank Und Sanierung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -190,7 +190,7 @@ Zusätzlich: Mindestens die Hälfte der Gesamtzahl der Mitglieder muss anwesend 
 ## Prüfschema: Sitzungsprotokoll
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -265,8 +265,8 @@ PROTOKOLL DER AUFSICHTSRATSSITZUNG
 DER MUSTER AG, Frankfurt am Main
 (HRB 12345 Amtsgericht Frankfurt am Main)
 
-Datum:        15. März 2026, 10:00 Uhr bis 12:30 Uhr
-Ort:          Räumlichkeiten der Kanzlei XY, Taunusanlage 1, 60329 Frankfurt am Main
+Datum: 15. März 2026, 10:00 Uhr bis 12:30 Uhr
+Ort: Räumlichkeiten der Kanzlei XY, Taunusanlage 1, 60329 Frankfurt am Main
 Protokollführerin: Rechtsanwältin Dr. Christine Weber, Kanzlei XY
 
 VORSITZ: Dr. Anna Müller (Aufsichtsratsvorsitzende)
@@ -387,15 +387,15 @@ PROTOKOLL DER GESELLSCHAFTERVERSAMMLUNG
 DER ALPHA GMBH, München
 (HRB 12345 Amtsgericht München)
 
-Datum:        20. März 2026, 14:00 Uhr bis 15:30 Uhr
-Ort:          Geschäftsräume der Alpha GmbH, Maximilianstraße 10, 80539 München
+Datum: 20. März 2026, 14:00 Uhr bis 15:30 Uhr
+Ort: Geschäftsräume der Alpha GmbH, Maximilianstraße 10, 80539 München
 Versammlungsleiter: Rechtsanwalt Dr. Jörg Fischer
-Protokollführer:    Rechtsanwalt Dr. Jörg Fischer
+Protokollführer: Rechtsanwalt Dr. Jörg Fischer
 
 ERSCHIENENE GESELLSCHAFTER:
-1. Herr Thomas Maier, gesch. 50 %          [anwesend / vertreten durch ___]
-2. Frau Petra Schulz, gesch. 30 %          [anwesend]
-3. Muster Beteiligungs GmbH, gesch. 20 %   [vertreten durch Max Baum]
+1. Herr Thomas Maier, gesch. 50 % [anwesend / vertreten durch ___]
+2. Frau Petra Schulz, gesch. 30 % [anwesend]
+3. Muster Beteiligungs GmbH, gesch. 20 % [vertreten durch Max Baum]
 
 Sämtliche Geschäftsanteile = 100 % sind vertreten. Einberufung in der Versammlung
 einvernehmlich als ordnungsgemäß anerkannt.
@@ -458,15 +458,15 @@ Versammlungsleiter / Protokollführer
 PRÜFCHECKLISTE — PROTOKOLL [ORGAN] VOM [DATUM]
 Zu prüfen vor Unterzeichnung / Versand
 
-[ ] 1.  Organgremium korrekt bezeichnet?
-[ ] 2.  Datum, Uhrzeit, Ort vollständig?
-[ ] 3.  Einladung ordnungsgemäß oder Verzicht dokumentiert (§ 110 Abs. 2 AktG)?
-[ ] 4.  Alle anwesenden / entschuldigten Mitglieder erfasst?
-[ ] 5.  Beschlussfähigkeit korrekt festgestellt (§ 108 Abs. 2 AktG)?
-[ ] 6.  Stimmverbote geprüft und ggf. vermerkt (§ 47 Abs. 4 GmbHG / § 136 AktG)?
-[ ] 7.  Alle TOP in korrekter Reihenfolge erfasst?
-[ ] 8.  Beschlusstexte stimmen mit tatsächlich gefassten Beschlüssen überein?
-[ ] 9.  Abstimmungsergebnisse (Ja / Nein / Enthaltung) numerisch korrekt?
+[ ] 1. Organgremium korrekt bezeichnet?
+[ ] 2. Datum, Uhrzeit, Ort vollständig?
+[ ] 3. Einladung ordnungsgemäß oder Verzicht dokumentiert (§ 110 Abs. 2 AktG)?
+[ ] 4. Alle anwesenden / entschuldigten Mitglieder erfasst?
+[ ] 5. Beschlussfähigkeit korrekt festgestellt (§ 108 Abs. 2 AktG)?
+[ ] 6. Stimmverbote geprüft und ggf. vermerkt (§ 47 Abs. 4 GmbHG / § 136 AktG)?
+[ ] 7. Alle TOP in korrekter Reihenfolge erfasst?
+[ ] 8. Beschlusstexte stimmen mit tatsächlich gefassten Beschlüssen überein?
+[ ] 9. Abstimmungsergebnisse (Ja / Nein / Enthaltung) numerisch korrekt?
 [ ] 10. Anlagen korrekt nummeriert und vollständig beigefügt?
 [ ] 11. Gäste / externe Berater mit Funktion und Top-Anwesenheit vermerkt?
 [ ] 12. Executive Sessions / vertrauliche TOP separat protokolliert?
@@ -629,9 +629,9 @@ Anlagen:
 1. [ANLAGE 1]
 2. [ANLAGE 2]
 
-________________________     ________________________
-[VORSITZENDER]                [PROTOKOLLFUEHRENDER]
-AR-Vorsitzender               [FUNKTION]
+________________________ ________________________
+[VORSITZENDER] [PROTOKOLLFUEHRENDER]
+AR-Vorsitzender [FUNKTION]
 ```
 
 ## Rote Schwellen
@@ -671,7 +671,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `beirat-abgrenzung-aufsichtsrat`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Abgrenzung Aufsichtsrat
 
@@ -737,7 +737,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-amtszeit-und-rotation`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Amtszeit Und Rotation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Amtszeit Und Rotation; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Amtszeit Und Rotation
 
@@ -803,7 +803,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-bank-und-sanierung`
 
-**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bank Und Sanierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bank Und Sanierung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Bank Und Sanierung
 

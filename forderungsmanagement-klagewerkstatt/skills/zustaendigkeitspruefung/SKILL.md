@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeitspruefung
-description: "Nutze dies, wenn Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg prüfen.; Erstelle eine Arbeitsfassung zu Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg

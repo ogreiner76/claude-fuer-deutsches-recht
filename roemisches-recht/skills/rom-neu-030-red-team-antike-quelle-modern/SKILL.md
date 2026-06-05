@@ -1,9 +1,9 @@
 ---
 name: rom-neu-030-red-team-antike-quelle-modern
-description: "Nutze dies, wenn Rom Neu 030 Red Team Antike Quelle Modern Ueberdehnt im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Rom Red Team Antike Quelle Modern Ueberdehnt: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
-# Rom Neu 030 Red Team Antike Quelle Modern Ueberdehnt
+# Rom Red Team Antike Quelle Modern Ueberdehnt
 
 ## Aufgabe
 

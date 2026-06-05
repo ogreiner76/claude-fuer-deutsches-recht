@@ -34,7 +34,7 @@ Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich da
 - **§ 823 BGB** Verkehrssicherungspflichten beider Seiten.
 - **ArbSchG**, **BetrSichV** Betreiberpflichten zur Unterweisung und Wartung.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **Tatsachen sammeln** chronologisch; nicht bewerten, sondern fixieren.
 2. **Logs auswerten.** Wer hat wann welche Funktion benutzt? Wurde ein Schutzkreis gebrückt? Welche Software-Version?

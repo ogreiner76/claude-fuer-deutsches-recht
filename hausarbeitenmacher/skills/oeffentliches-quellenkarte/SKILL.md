@@ -1,6 +1,6 @@
 ---
 name: oeffentliches-quellenkarte
-description: "Nutze dies, wenn Oeffentliches Quellenkarte im Plugin Hausarbeitenmacher konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Oeffentliches Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Oeffentliches Quellenkarte

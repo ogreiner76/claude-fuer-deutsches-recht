@@ -1,6 +1,6 @@
 ---
 name: corporate
-description: "Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
 ---
 
 # Corporate: Erstprüfung, Rollenklärung und Mandatsziel
@@ -12,7 +12,7 @@ description: "Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corpora
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Spezialwissen: Corporate: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Corporate: Erstprüfung, Rollenklärung und Mandatsziel / spezial corporate erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Corporate: Erstprüfung, Rollenklärung und Mandatsziel / corporate erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** SPA, APA, StaRUG, PMI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

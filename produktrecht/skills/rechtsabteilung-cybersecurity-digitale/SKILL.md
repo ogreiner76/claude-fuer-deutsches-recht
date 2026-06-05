@@ -1,21 +1,21 @@
 ---
 name: rechtsabteilung-cybersecurity-digitale
-description: "Nutze dies, wenn Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteilung Digitale Elemente Im Kaufrecht, Rechtsabteilung Right To Repair Im Geraetevertrieb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-cybersecurity-als-produktsicherheitsmerkmal` | Rechtsabteilungs-Spezialskill für Cybersecurity als Produktsicherheitsmerkmal: Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-digitale-elemente-im-kaufrecht` | Rechtsabteilungs-Spezialskill für Digitale Elemente im Kaufrecht: Updatepflicht, Mangel, Interoperabilität und Informationspflichten werden getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-right-to-repair-im-geraetevertrieb` | Rechtsabteilungs-Spezialskill für Right to Repair im Gerätevertrieb: Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-cybersecurity-als-produktsicherheitsmerkmal` | Rechtsabteilungs-Fachmodul für Cybersecurity als Produktsicherheitsmerkmal: Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-digitale-elemente-im-kaufrecht` | Rechtsabteilungs-Fachmodul für Digitale Elemente im Kaufrecht: Updatepflicht, Mangel, Interoperabilität und Informationspflichten werden getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-right-to-repair-im-geraetevertrieb` | Rechtsabteilungs-Fachmodul für Right to Repair im Gerätevertrieb: Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Rechtsabteilung Cybersecurity Als Produktsicherheitsmerkmal, Rechtsabteil
 
 ## 1. `rechtsabteilung-cybersecurity-als-produktsicherheitsmerkmal`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Cybersecurity als Produktsicherheitsmerkmal: Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Cybersecurity als Produktsicherheitsmerkmal: Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal
 
@@ -66,7 +66,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-digitale-elemente-im-kaufrecht`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Digitale Elemente im Kaufrecht: Updatepflicht, Mangel, Interoperabilität und Informationspflichten werden getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Digitale Elemente im Kaufrecht: Updatepflicht, Mangel, Interoperabilität und Informationspflichten werden getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Digitale Elemente im Kaufrecht
 
@@ -106,7 +106,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-right-to-repair-im-geraetevertrieb`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Right to Repair im Gerätevertrieb: Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Right to Repair im Gerätevertrieb: Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Right to Repair im Gerätevertrieb
 

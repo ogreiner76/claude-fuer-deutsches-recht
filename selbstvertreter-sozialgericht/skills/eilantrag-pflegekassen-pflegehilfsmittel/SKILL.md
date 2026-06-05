@@ -64,7 +64,7 @@ Sammeln Sie:
 ### Schritt 3 — Eilantrag-Schriftsatz
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 In dem Verfahren
 
@@ -86,7 +86,7 @@ wegen [konkret z.B. Pflegehilfsmittel Pflegebett]; Eilantrag
 A N T R A G
 
 1. Der Antragsgegner wird im Wege der einstweiligen Anordnung gem. § 86b Abs. 2 SGG verpflichtet, mir vorlaeufig folgende Leistung zu gewaehren:
-   [z.B. Versorgung mit einem hoehenverstellbaren Pflegebett gem. § 40 SGB XI; oder Pflegegrad 3 vorlaeufig.]
+ [z.B. Versorgung mit einem hoehenverstellbaren Pflegebett gem. § 40 SGB XI; oder Pflegegrad 3 vorlaeufig.]
 
 2. Prozesskostenhilfe wird beantragt.
 

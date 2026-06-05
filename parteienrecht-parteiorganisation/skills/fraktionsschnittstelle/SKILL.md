@@ -8,7 +8,7 @@ description: "Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und
 ## Aufgabe
 Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

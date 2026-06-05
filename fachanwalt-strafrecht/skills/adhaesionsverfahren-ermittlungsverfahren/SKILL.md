@@ -1,13 +1,13 @@
 ---
 name: adhaesionsverfahren-ermittlungsverfahren
-description: "Nutze dies, wenn Workflow Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Spezial Ermittlungsverfahren Vergleich Eskalation, Spezial Orientierung Fristen Form Und Zustaendigkeit, Strafprozess Aktenlog Fristen Und Wiedervorlagen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Ermittlungsverfahren Vergleich Eskalation, Orientierung Fristen Form Und Zustaendigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Spezial Ermittlungsverfahren Vergleich Eskalation, Spezial Orientierung Fristen Form Und Zustaendigkeit, Strafprozess Aktenlog Fristen Und Wiedervorlagen
+# Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Ermittlungsverfahren Vergleich Eskalation, Orientierung Fristen Form Und Zustaendigkeit, Strafprozess Aktenlog Fristen Und Wiedervorlagen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Ermittlungsverfahren Vergleich Eskalation, Orientierung Fristen Form Und Zustaendigkeit, Strafprozess Aktenlog Fristen Und Wiedervorlagen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Spezial Ermittlungsverfahren Vergleich Eskalation, Spezial Orientierung Fristen Form Und Zustaendigkeit, Strafprozess Aktenlog Fristen Und Wiedervorlagen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, Ermittlungsverfahren Vergleich Eskalation, Orientierung Fristen Form Und Zustaendigkeit, Strafprozess Aktenlog Fristen Und Wiedervorlagen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,10 +33,10 @@ Für **Workflow Redteam Qualitygate, Fachanwalt Strafrecht Adhaesionsverfahren, 
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-strafrecht` Red-Team Qualitygate im Plugin fachanwalt-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -46,7 +46,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -177,17 +177,17 @@ wegen [Tatvorwurf]
 beantragt die Verletzte [Name] durch ihre anwaltliche Vertretung:
 
 1. Die/den Angeklagte/n wird verurteilt, an die Verletzte
-   ein angemessenes Schmerzensgeld zu zahlen, dessen Höhe
-   in das Ermessen des Gerichts gestellt wird, jedoch den
-   Betrag von [z.B. 15.000 Euro] nicht unterschreiten sollte,
-   nebst Zinsen in Höhe von fünf Prozentpunkten über dem
-   Basiszinssatz seit Rechtshängigkeit dieses Antrags.
+ ein angemessenes Schmerzensgeld zu zahlen, dessen Höhe
+ in das Ermessen des Gerichts gestellt wird, jedoch den
+ Betrag von [z.B. 15.000 Euro] nicht unterschreiten sollte,
+ nebst Zinsen in Höhe von fünf Prozentpunkten über dem
+ Basiszinssatz seit Rechtshängigkeit dieses Antrags.
 
 2. Es wird festgestellt, dass die/der Angeklagte verpflichtet
-   ist, der Verletzten alle weiteren materiellen und immateriellen
-   Schäden zu ersetzen, die aus der Tat vom [Datum] künftig noch
-   entstehen, soweit Ansprüche nicht auf Dritte oder Sozial-
-   versicherungsträger übergegangen sind.
+ ist, der Verletzten alle weiteren materiellen und immateriellen
+ Schäden zu ersetzen, die aus der Tat vom [Datum] künftig noch
+ entstehen, soweit Ansprüche nicht auf Dritte oder Sozial-
+ versicherungsträger übergegangen sind.
 
 Begründung:
 Die Verletzte erlitt durch die Tat vom [Datum] folgende
@@ -215,19 +215,19 @@ Aktenzeichen: [...]
 schließen die Parteien folgenden Vergleich gemäß § 405 StPO:
 
 1. Die/der Angeklagte zahlt an die Verletzte [Name]
-   zur Abgeltung sämtlicher Schmerzensgeld- und Schadens-
-   ersatzansprüche aus der Tat vom [Datum] einen Betrag
-   von [X Euro].
+ zur Abgeltung sämtlicher Schmerzensgeld- und Schadens-
+ ersatzansprüche aus der Tat vom [Datum] einen Betrag
+ von [X Euro].
 
 2. Zahlung erfolgt in monatlichen Raten von [X Euro]
-   erstmals zum [Datum]; Gesamtfälligkeit bei Zahlungs-
-   verzug mit einer Rate.
+ erstmals zum [Datum]; Gesamtfälligkeit bei Zahlungs-
+ verzug mit einer Rate.
 
 3. Mit Zahlung des Gesamtbetrags sind alle Ansprüche der
-   Verletzten aus der Tat vom [Datum] abgegolten.
+ Verletzten aus der Tat vom [Datum] abgegolten.
 
 4. Die Gerichtskosten des Adhäsionsverfahrens trägt
-   [je nach Vereinbarung].
+ [je nach Vereinbarung].
 
 Dieser Vergleich wird als Prozessvergleich nach § 794 Abs. 1
 Nr. 1 ZPO protokolliert.
@@ -354,7 +354,7 @@ des Strafprozesses sprengt.
 # Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation / spezial ermittlungsverfahren vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation / ermittlungsverfahren vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -395,7 +395,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg / spezial orientierung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg / orientierung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StPO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -431,32 +431,32 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Strafrecht-Orientierung Fristen / Form / Zustaendigkeit Bausteine
 - **Sachliche Zustaendigkeit GVG:**
-  - **Strafrichter § 25 GVG:** Privatklagen § 374 StPO; allgemein bis Freiheitsstrafe 2 Jahre, sofern nicht hoeher beantragt.
-  - **Schoeffengericht § 28 GVG:** bis Freiheitsstrafe 4 Jahre; alle Strafsachen, die nicht zu hoher Strafkammer oder Strafrichter gehoeren.
-  - **Grosse Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
-  - **Schwurgericht § 74 II GVG:** Toetungsdelikte §§ 211 ff. StGB, Eingriff in Verkehr mit Todesfolge.
-  - **Oberlandesgericht § 120 GVG:** Staatsschutzdelikte (Hochverrat, Landesverrat, Terror).
+ - **Strafrichter § 25 GVG:** Privatklagen § 374 StPO; allgemein bis Freiheitsstrafe 2 Jahre, sofern nicht hoeher beantragt.
+ - **Schoeffengericht § 28 GVG:** bis Freiheitsstrafe 4 Jahre; alle Strafsachen, die nicht zu hoher Strafkammer oder Strafrichter gehoeren.
+ - **Grosse Strafkammer § 76 GVG:** alle Strafsachen ab 4 Jahre erwarteter Freiheitsstrafe; bestimmte Wirtschaftsstrafsachen.
+ - **Schwurgericht § 74 II GVG:** Toetungsdelikte §§ 211 ff. StGB, Eingriff in Verkehr mit Todesfolge.
+ - **Oberlandesgericht § 120 GVG:** Staatsschutzdelikte (Hochverrat, Landesverrat, Terror).
 - **Oertliche Zustaendigkeit StPO:**
-  - **§ 7 StPO:** Tatort - regelmaessig massgeblich.
-  - **§ 8 StPO:** Wohnsitz Beschuldigter.
-  - **§ 9 StPO:** Ergreifungsort.
-  - **§ 13 StPO:** Verbundene Verfahren.
+ - **§ 7 StPO:** Tatort - regelmaessig massgeblich.
+ - **§ 8 StPO:** Wohnsitz Beschuldigter.
+ - **§ 9 StPO:** Ergreifungsort.
+ - **§ 13 StPO:** Verbundene Verfahren.
 - **Fristen-Uebersicht (StPO):**
-  - **Einspruch Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung.
-  - **Berufung § 314 StPO: 1 Woche** ab Verkuendung; Begruendung optional.
-  - **Revision § 341 StPO: 1 Woche** Einlegung + § 345 StPO **1 Monat** Begruendung ab Zustellung schriftliche Urteilsausfertigung.
-  - **Beschwerde § 311 StPO: 1 Woche** sofortige; § 304 StPO einfache unbefristet.
-  - **Wiedereinsetzung § 44 StPO: 1 Woche** ab Wegfall des Hindernisses.
-  - **Klageerzwingungsverfahren § 172 II StPO: Antrag 1 Monat** ab Bescheid GenStA.
+ - **Einspruch Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung.
+ - **Berufung § 314 StPO: 1 Woche** ab Verkuendung; Begruendung optional.
+ - **Revision § 341 StPO: 1 Woche** Einlegung + § 345 StPO **1 Monat** Begruendung ab Zustellung schriftliche Urteilsausfertigung.
+ - **Beschwerde § 311 StPO: 1 Woche** sofortige; § 304 StPO einfache unbefristet.
+ - **Wiedereinsetzung § 44 StPO: 1 Woche** ab Wegfall des Hindernisses.
+ - **Klageerzwingungsverfahren § 172 II StPO: Antrag 1 Monat** ab Bescheid GenStA.
 - **Form-Re-Check:**
-  - **Schriftform** zwingend fuer Rechtsmittel (Berufung, Revision, Beschwerde) und Einspruch.
-  - **Unterschrift** Verteidiger / Mandant.
-  - **Vollmacht** bei Vertretung.
-  - **Begruendungs-Pflicht** Revision (Sach- oder Verfahrensruege; § 344 II StPO Substantiierung Verfahrensruege).
+ - **Schriftform** zwingend fuer Rechtsmittel (Berufung, Revision, Beschwerde) und Einspruch.
+ - **Unterschrift** Verteidiger / Mandant.
+ - **Vollmacht** bei Vertretung.
+ - **Begruendungs-Pflicht** Revision (Sach- oder Verfahrensruege; § 344 II StPO Substantiierung Verfahrensruege).
 - **Rechtsweg:**
-  - AG -> LG (Berufung § 312 StPO) -> OLG (Revision § 333 StPO bei LG-Urteil 1. Instanz oder Berufungsurteil).
-  - **Sprungrevision § 335 StPO** moeglich (Sprung Berufung).
-  - **Wiederaufnahme § 359 StPO** bei neuen Tatsachen / Beweismitteln.
+ - AG -> LG (Berufung § 312 StPO) -> OLG (Revision § 333 StPO bei LG-Urteil 1. Instanz oder Berufungsurteil).
+ - **Sprungrevision § 335 StPO** moeglich (Sprung Berufung).
+ - **Wiederaufnahme § 359 StPO** bei neuen Tatsachen / Beweismitteln.
 - **EMRK Art. 6:** angemessene Verfahrensdauer als Korrektiv (Strafmilderung BGH-Linie).
 
 ## 5. `strafprozess-aktenlog-fristen-und-wiedervorlagen`

@@ -1,13 +1,13 @@
 ---
 name: rom-restitutio-integrum-seehandel-lex-fenus
-description: "Nutze dies, wenn Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum, Rom 127 Magister Navis Und Mehrere Reeder und 3 weitere Themen im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum, Rom 127 Magister Navis Und Mehrere Reeder und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum, Rom 127 Magister Navis Und Mehrere Reeder und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum, Rom 127 Magister Navis Und Mehrere Reeder und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum, Rom 127 Magister Navis Und Mehrere Reeder und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -108,8 +108,8 @@ Skill fuer die lex Rhodia de iactu als historisches Pendant der modernen Grossen
 ## Rechtsfolge
 
 - Geschaedigter Befrachter erhaelt anteiligen Ausgleich von allen geretteten Beteiligten:
-  - Reeder (fuer das Schiff).
-  - Andere Befrachter (fuer ihre geretteten Sachen).
+ - Reeder (fuer das Schiff).
+ - Andere Befrachter (fuer ihre geretteten Sachen).
 - Quote bemisst sich nach Wert der geretteten Sachen.
 
 ## Verfahrensgang
@@ -378,9 +378,9 @@ Skill fuer die cura annonae.
 
 - Privatreedereien mit staatlich genehmigtem Getreidetransport.
 - Privilegien:
-  - Steuerbefreiung.
-  - Befreiung von munera (kommunale Lasten).
-  - Verminderte Strafen bei Schiffshavarien.
+ - Steuerbefreiung.
+ - Befreiung von munera (kommunale Lasten).
+ - Verminderte Strafen bei Schiffshavarien.
 
 ## Annona civica
 

@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsgruender-freiberufler-partg-gbr
-description: "Nutze dies, wenn Gesellschaftsgründer Freiberufler Partg Mbb, Gesellschaftsgründer Gbr Zu Ohg Statuswechsel, Gesellschaftsgründer Genehmigtes Kapital, Gesellschaftsgründer Genossenschaft Eg, Gesellschaftsgründer Geschaeftsfuehrer Pflichten Startphase im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Freiberufler Partg Mbb, Gesellschaftsgründer Gbr Zu Ohg Statuswechsel, Gesellschaftsgründer Genehmigtes Kapital, Gesellschaftsgründer Genossenschaft Eg, Gesellschaftsgründer Geschaeftsfuehrer Pflichten Startphase prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Freiberufler Partg Mbb, Gesellschaftsgründer Gbr Zu Ohg Statuswechsel, Gesellschaftsgründer Genehmigtes Kapital, Gesellschaftsgründer Genossenschaft Eg, Gesellschaftsgründer Geschaeftsfuehrer Pflichten Startphase.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Freiberufler Partg Mbb, Gesellschaftsgruender Gbr Zu Ohg Statuswechsel, Gesellschaftsgruender Genehmigtes Kapital, Gesellschaftsgruender Genossenschaft Eg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Freiberufler Partg Mbb, Gesellschaftsgründer Gbr Zu Ohg Statuswechsel, Gesellschaftsgründer Genehmigtes Kapital, Gesellschaftsgründer Genossenschaft Eg, Gesellschaftsgründer Geschaeftsfuehrer Pflichten Startphase
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Freiberufler Partg Mbb, Gesellschaftsgründer Gbr Zu Ohg Statuswechsel, Gesellschaftsgründer Genehmigtes Kapital, Gesellschaftsgründer Genossenschaft Eg, Gesellschaftsgründer Geschaeftsfuehrer Pflichten Startphase** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -263,19 +263,19 @@ Geschäftsführer: [Name(n)]
 Die Geschäftsführung beschließt:
 
 1. Das Stammkapital der Gesellschaft wird von [bisheriges Stammkapital] EUR um
-   [Erhöhungsbetrag] EUR auf [neues Stammkapital] EUR erhöht durch Ausgabe von
-   [Anzahl] neuen Geschäftsanteilen zu je [Nennwert] EUR.
+ [Erhöhungsbetrag] EUR auf [neues Stammkapital] EUR erhöht durch Ausgabe von
+ [Anzahl] neuen Geschäftsanteilen zu je [Nennwert] EUR.
 
 2. Die neuen Anteile werden als [Klasse] ausgegeben.
 
 3. Die neuen Anteile werden übernommen von:
-   [Name], [Adresse], Einlage: [EUR], Ausgabepreis: [EUR pro Anteil].
+ [Name], [Adresse], Einlage: [EUR], Ausgabepreis: [EUR pro Anteil].
 
 4. Das Bezugsrecht der übrigen Gesellschafter ist ausgeschlossen. Sachlicher Grund:
-   [Investor-Aufnahme / Wandlung Wandeldarlehen / ESOP-Pool / etc.].
+ [Investor-Aufnahme / Wandlung Wandeldarlehen / ESOP-Pool / etc.].
 
 5. Die Geschäftsführung wird beauftragt, die Kapitalerhöhung beim Handelsregister
-   anzumelden und eine aktualisierte Gesellschafterliste einzureichen.
+ anzumelden und eine aktualisierte Gesellschafterliste einzureichen.
 
 [Unterschriften Geschäftsführer]
 ```
@@ -498,7 +498,7 @@ ESKALATIONSSCHWELLEN
 
 ## Übergabe an andere Skills
 
-- `gesellschaftsgruender-kommandocenter` — Master-Workflow Gründung
+- `gesellschaftsgruender-kommandocenter` — Master-Gründung
 - `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Status des GF prüfen
 - `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung bei Krise
 - `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — Gewerbeamt und Finanzamt-Schritte

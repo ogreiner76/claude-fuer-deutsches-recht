@@ -1,13 +1,13 @@
 ---
 name: klage-sozialgericht-laienhilfe-akteneinsicht
-description: "Nutze dies, wenn Klage Sozialgericht, Laienhilfe Akteneinsicht Laie, Laienhilfe Arbeitslosengeld Sperrzeit, Laienhilfe Asylblg im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Klage Sozialgericht, Laienhilfe Akteneinsicht Laie, Laienhilfe Arbeitslosengeld Sperrzeit, Laienhilfe Asylblg prüfen.; Erstelle eine Arbeitsfassung zu Klage Sozialgericht, Laienhilfe Akteneinsicht Laie, Laienhilfe Arbeitslosengeld Sperrzeit, Laienhilfe Asylblg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klage Sozialgericht, Laienhilfe Akteneinsicht Laie, Laienhilfe Arbeitslosengeld Sperrzeit, Laienhilfe Asylblg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klage Sozialgericht, Laienhilfe Akteneinsicht Laie, Laienhilfe Arbeitslosengeld Sperrzeit, Laienhilfe Asylblg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klage Sozialgericht, Laienhilfe Akteneinsicht Laie, Laienhilfe Arbeitslosengeld Sperrzeit, Laienhilfe Asylblg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -366,9 +366,9 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Rechtsgrundlage:** Asylbewerberleistungsgesetz (AsylbLG); zustaendig: regelmaessig Sozialamt der Kommune; bei Aufnahmeeinrichtung Land. Klage zum Sozialgericht (§ 51 I Nr. 6a SGG).
 - **Personenkreis § 1 AsylbLG:** Asylbewerber, Geduldete (§ 60a AufenthG), Personen mit Aufenthaltsgestattung, vollziehbar Ausreisepflichtige.
 - **Leistungsstufen:**
-  - **Grundleistungen § 3 AsylbLG** in den ersten 36 Monaten (regelmaessig Sachleistungen oder Geldleistungen, ergaenzende Leistungen Bildung-und-Teilhabe wie SGB II).
-  - **Analogleistungen § 2 AsylbLG** nach 36 Monaten (Sozialhilfeniveau analog SGB XII).
-  - **Eingeschraenkte Leistungen § 1a AsylbLG** bei Mitwirkungspflichtverletzung oder Einreise zum Bezug von Leistungen - **rechtspolitisch und verfassungsrechtlich umstritten** (BVerfG-Linie zum Existenzminimum: jeder Mensch hat Anspruch auf Sicherung Existenzminimum, § 1 GG und Art. 20 GG).
+ - **Grundleistungen § 3 AsylbLG** in den ersten 36 Monaten (regelmaessig Sachleistungen oder Geldleistungen, ergaenzende Leistungen Bildung-und-Teilhabe wie SGB II).
+ - **Analogleistungen § 2 AsylbLG** nach 36 Monaten (Sozialhilfeniveau analog SGB XII).
+ - **Eingeschraenkte Leistungen § 1a AsylbLG** bei Mitwirkungspflichtverletzung oder Einreise zum Bezug von Leistungen - **rechtspolitisch und verfassungsrechtlich umstritten** (BVerfG-Linie zum Existenzminimum: jeder Mensch hat Anspruch auf Sicherung Existenzminimum, § 1 GG und Art. 20 GG).
 - **Gesundheitsversorgung § 4 AsylbLG:** akute Erkrankungen und Schmerzzustaende, Schwangerschaft, Geburt; Behandlungsschein/elektronische Gesundheitskarte je nach Bundesland.
 - **Sonderleistungen § 6 AsylbLG:** "im Einzelfall geboten" - z. B. Hilfsmittel, Kinderwagen, Winterkleidung; Ermessensentscheidung.
 - **Eilrechtsschutz § 86b II SGG** zwingend bei Kuerzung Grundleistung oder Verweigerung medizinisch dringender Behandlung.

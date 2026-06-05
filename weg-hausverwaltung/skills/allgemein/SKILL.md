@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im WEG- und Hausverwaltungs-Plugin (Stand 05/2026). Ordnet Uploads, erkennt Fristen und Risiken, fragt Rolle und Objekt ab und schlägt passende Skills für Beschlüsse, Eigentümerversammlung, Abrechnung, Handwerker, Verwaltung und Eskalation vor."
+description: "Einstieg, Schnelltriage und Fallrouting im WEG- und Hausverwaltungs-Plugin (Stand 05/2026). Ordnet Uploads, erkennt Fristen und Risiken, fragt Rolle und Objekt ab und schlägt passende Skills für Beschlüsse, Eigentümerversammlung, Abrechnung, Handwerker, Verwaltung und Eskalation vor."
 ---
 
 # WEG- und Hausverwaltung — Allgemein
@@ -28,7 +28,7 @@ Wenn der Nutzer nur Dokumente hochlädt, ohne Auftrag:
 2. **Fristen sichern:** Beschlussklage (1 Monat ab Beschluss, § 45 WEG), Klagebegründung (2 Monate, § 45 WEG; materielle Ausschlussfrist gem. BGH V ZR 33/23 vom 09.02.2024), Einladungsfrist (§ 24 WEG), Erkundigungsobliegenheit (1 Jahr, BGH V ZR 17/24 vom 25.10.2024), Betriebskostenfrist (1 Jahr ab Ende Abrechnungsperiode, § 556 Abs. 3 BGB), Gewährleistung, Angebotsbindung, Zahlungsziel, Mahnfrist.
 3. **Rolle klären:** Verwalter, GdWE, Eigentümer, Beirat, vermietender Eigentümer, Mieter, Anwalt.
 4. **Vorgang einordnen:** Versammlung, Beschluss, Abrechnung, Hausgeld, Handwerker, Störung, Datenschutz, Eskalation.
-5. **Passenden Spezial-Skill vorschlagen** und, wenn eindeutig, direkt weiterarbeiten.
+5. **Passenden Fachmodul vorschlagen** und, wenn eindeutig, direkt weiterarbeiten.
 
 ## Intake in 60 Sekunden
 

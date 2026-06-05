@@ -1,13 +1,13 @@
 ---
 name: verl-tantieme-abrechnung-themenscout
-description: "Nutze dies, wenn Verl Tantieme Abrechnung Jaehrlich, Verl Themenscout Rechtsentwicklung, Verl Trend Radar Rechtsgebiete, Verl Vergleichsverhandlung Mit Autor, Verl Vlb Katalog Pflege Jur im Plugin Verlagsredaktion konkret bearbeitet werden soll. Auslöser: Bitte Verl Tantieme Abrechnung Jaehrlich, Verl Themenscout Rechtsentwicklung, Verl Trend Radar Rechtsgebiete, Verl Vergleichsverhandlung Mit Autor, Verl Vlb Katalog Pflege Jur prüfen.; Erstelle eine Arbeitsfassung zu Verl Tantieme Abrechnung Jaehrlich, Verl Themenscout Rechtsentwicklung, Verl Trend Radar Rechtsgebiete, Verl Vergleichsverhandlung Mit Autor, Verl Vlb Katalog Pflege Jur.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verl Tantieme Abrechnung Jaehrlich, Verl Themenscout Rechtsentwicklung, Verl Trend Radar Rechtsgebiete, Verl Vergleichsverhandlung Mit Autor: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verl Tantieme Abrechnung Jaehrlich, Verl Themenscout Rechtsentwicklung, Verl Trend Radar Rechtsgebiete, Verl Vergleichsverhandlung Mit Autor, Verl Vlb Katalog Pflege Jur
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verl Tantieme Abrechnung Jaehrlich, Verl Themenscout Rechtsentwicklung, Verl Trend Radar Rechtsgebiete, Verl Vergleichsverhandlung Mit Autor, Verl Vlb Katalog Pflege Jur** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -461,10 +461,10 @@ wir folgenden Vergleich vor:
 
 1. Der Verlag zahlt an Sie EUR [Betrag] bis [Datum].
 2. Sie ueberreichen das ueberarbeitete Manuskript bis [Datum] / oder:
-   Sie verzichten auf weitere Tantiemenforderungen aus dem Werk [Titel]
-   bis [Datum].
+ Sie verzichten auf weitere Tantiemenforderungen aus dem Werk [Titel]
+ bis [Datum].
 3. Mit Erfuellung sind saemtliche wechselseitigen Ansprueche aus dem
-   Vertrag vom [Datum] erledigt (Abgeltungsklausel).
+ Vertrag vom [Datum] erledigt (Abgeltungsklausel).
 4. Die Konditionen dieses Vergleichs werden vertraulich behandelt.
 
 Wir erbitten Ihre Rueckaeusserung bis zum [Datum]. Bei Annahme wird
@@ -494,7 +494,7 @@ vereinbaren sie folgenden Vergleich:
 
 § 1 Leistungen
 (1) Der Verlag zahlt an den Autor EUR [Betrag] (in Worten: [...]) bis
-    [Datum] auf das Konto [...].
+ [Datum] auf das Konto [...].
 (2) Der Autor [liefert / verzichtet auf / uebertraegt ...].
 
 § 2 Abgeltungsklausel
@@ -515,9 +515,9 @@ Es gilt deutsches Recht. Gerichtsstand ist [Ort].
 § 5 Schriftform / Nebenabreden
 Aenderungen und Ergaenzungen beduerfen der Schriftform.
 
-Ort, Datum                          Ort, Datum
-_________________                   _________________
-Verlag                              Autor
+Ort, Datum Ort, Datum
+_________________ _________________
+Verlag Autor
 ```
 
 ## Typische Fehler / Pitfalls
@@ -578,14 +578,14 @@ Das VLB ist die zentrale Datenbank des Buchhandels in Deutschland. Wer dort nich
 ## Praxisleitfaden / Schritt fuer Schritt
 
 1. **Pflichtfelder pruefen.**
-   - ISBN, Titel, Autor (mit GND-Nummer wenn moeglich).
-   - Untertitel, Reihentitel, Bandzaehlung.
-   - Erscheinungstermin (Tag, Monat, Jahr).
-   - Verlag, Verlagsanschrift, Imprint.
-   - Sprache, Originalsprache, Uebersetzer.
-   - Format (Hardcover, Paperback, EPUB, PDF), Seitenzahl.
-   - Preis brutto, Waehrung.
-   - Warengruppe (juristische Werke: 750-789 nach VLB-Schluessel).
+ - ISBN, Titel, Autor (mit GND-Nummer wenn moeglich).
+ - Untertitel, Reihentitel, Bandzaehlung.
+ - Erscheinungstermin (Tag, Monat, Jahr).
+ - Verlag, Verlagsanschrift, Imprint.
+ - Sprache, Originalsprache, Uebersetzer.
+ - Format (Hardcover, Paperback, EPUB, PDF), Seitenzahl.
+ - Preis brutto, Waehrung.
+ - Warengruppe (juristische Werke: 750-789 nach VLB-Schluessel).
 2. **Schlagwoerter setzen.** GND-Schlagworte bevorzugen; freie Schlagworte zusaetzlich; Thema-Klassifikation (Thema 1.4 international, LB-Codes verlagsintern).
 3. **Klappentext pflegen.** Max. 2500 Zeichen; SEO-optimiert; mit den ersten 160 Zeichen den Kern fassen (Google-Snippet).
 4. **Cover hochladen.** RGB, 300 dpi, mindestens 1500 px hohe Kante; ohne Anschnitt.
@@ -640,22 +640,22 @@ Die Autorinnen und Autoren sind [kurze Vorstellung, max. 2 Saetze].
 **ONIX-Mindesteintrag-Checkliste**
 
 ```
-ISBN-13:           [978-...]
-Titel:             [...]
-Untertitel:        [...]
+ISBN-13: [978-...]
+Titel: [...]
+Untertitel: [...]
 Reihe (Codeliste): [...]
-Autor:             [Name, GND, Funktion]
-Verlag/Imprint:    [...]
+Autor: [Name, GND, Funktion]
+Verlag/Imprint: [...]
 Erscheinungsdatum: [TT.MM.JJJJ]
-Sprache:           ger
-Format:            [HC/PB/EB], [Hoehe x Breite] mm
-Seitenzahl:        [n]
-Warengruppe:       [VLB-Code]
-GND-Schlagworte:   [Liste]
+Sprache: ger
+Format: [HC/PB/EB], [Hoehe x Breite] mm
+Seitenzahl: [n]
+Warengruppe: [VLB-Code]
+GND-Schlagworte: [Liste]
 Thema-Klassifikation: [Code]
-Preis:             EUR [...], inkl. 7 % MwSt. (Buch) / 7 % (E-Book)
-Klappentext:       [siehe oben]
-Cover-Datei:       [Pfad/URL, 300 dpi RGB]
+Preis: EUR [...], inkl. 7 % MwSt. (Buch) / 7 % (E-Book)
+Klappentext: [siehe oben]
+Cover-Datei: [Pfad/URL, 300 dpi RGB]
 Inhaltsverzeichnis: [PDF]
 ```
 

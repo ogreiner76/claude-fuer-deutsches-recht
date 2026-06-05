@@ -1,13 +1,13 @@
 ---
 name: famr-mandantenaufnahme-regenbogenfamilien
-description: "Nutze dies, wenn Famr Mandantenaufnahme Spezial, Famr Regenbogenfamilien Recht Spezial, Famr Versorgungsausgleich Spezial, Fehlerhafte Auskunft Versorgungstraeger, Fragebogen Versorgungsausgleich Ausfuellen im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Famr Mandantenaufnahme Spezial, Famr Regenbogenfamilien Recht Spezial, Famr Versorgungsausgleich Spezial, Fehlerhafte Auskunft Versorgungstraeger, Fragebogen Versorgungsausgleich Ausfuellen prüfen.; Erstelle eine Arbeitsfassung zu Famr Mandantenaufnahme Spezial, Famr Regenbogenfamilien Recht Spezial, Famr Versorgungsausgleich Spezial, Fehlerhafte Auskunft Versorgungstraeger, Fragebogen Versorgungsausgleich Ausfuellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Famr Mandantenaufnahme Spezial, Famr Regenbogenfamilien Recht Spezial, Famr Versorgungsausgleich Spezial, Fehlerhafte Auskunft Versorgungstraeger: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Famr Mandantenaufnahme Spezial, Famr Regenbogenfamilien Recht Spezial, Famr Versorgungsausgleich Spezial, Fehlerhafte Auskunft Versorgungstraeger, Fragebogen Versorgungsausgleich Ausfuellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Famr Mandantenaufnahme Spezial, Famr Regenbogenfamilien Recht Spezial, Famr Versorgungsausgleich Spezial, Fehlerhafte Auskunft Versorgungstraeger, Fragebogen Versorgungsausgleich Ausfuellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -17,7 +17,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `famr-regenbogenfamilien-recht-spezial` | Spezialfall Regenbogenfamilien: rechtliche Elternschaft nach BGH, Stiefkindadoption, Co-Mutter-Anerkennung, Reform des Abstammungsrechts (Entwurf 2024 ff.), Sorgerecht bei Trennung. Pruefraster und aktueller Rechtsprechungsstand. |
 | `famr-versorgungsausgleich-spezial` | Spezialfall Versorgungsausgleich: VersAusglG, Anrechte Berechnung pro Versorgungstraeger, externe Teilung, interne Teilung, Anpassung wegen Unterhaltszahlung. Pruefraster und Beispielsfall. Schnittstelle Rentenversicherung. |
 | `fehlerhafte-auskunft-versorgungstraeger` | Fehlerhafte Auskunft Versorgungsträger: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
-| `fragebogen-versorgungsausgleich-ausfuellen` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fragebogen Versorgungsausgleich ausfüllen. |
+| `fragebogen-versorgungsausgleich-ausfuellen` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fragebogen Versorgungsausgleich ausfüllen. |
 
 ## Arbeitsweg
 
@@ -266,7 +266,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `fragebogen-versorgungsausgleich-ausfuellen`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fragebogen Versorgungsausgleich ausfüllen.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Fragebogen Versorgungsausgleich ausfüllen.
 
 # Fragebogen Versorgungsausgleich ausfüllen
 

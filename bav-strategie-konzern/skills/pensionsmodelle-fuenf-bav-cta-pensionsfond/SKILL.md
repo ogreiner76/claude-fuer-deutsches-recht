@@ -1,13 +1,13 @@
 ---
 name: pensionsmodelle-fuenf-bav-cta-pensionsfond
-description: "Nutze dies, wenn Pensionsmodelle Fuenf Durchfuehrungswege, Bav Cta Treuhand Spezial, Bav Pensionsfond Rueckdeckung Spezial im Plugin Bav Strategie Konzern konkret bearbeitet werden soll. Auslöser: Bitte Pensionsmodelle Fuenf Durchfuehrungswege, Bav Cta Treuhand Spezial, Bav Pensionsfond Rueckdeckung Spezial prüfen.; Erstelle eine Arbeitsfassung zu Pensionsmodelle Fuenf Durchfuehrungswege, Bav Cta Treuhand Spezial, Bav Pensionsfond Rueckdeckung Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pensionsmodelle Fuenf Durchfuehrungswege, Bav Cta Treuhand Spezial, Bav Pensionsfond Rueckdeckung Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pensionsmodelle Fuenf Durchfuehrungswege, Bav Cta Treuhand Spezial, Bav Pensionsfond Rueckdeckung Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pensionsmodelle Fuenf Durchfuehrungswege, Bav Cta Treuhand Spezial, Bav Pensionsfond Rueckdeckung Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -209,31 +209,31 @@ Königsalle 92 · 40212 Düsseldorf
 
 INTERNES ARBEITSPROTOKOLL — VERTRAULICH
 
-Mandant:        [Fiktive Konzern GmbH & Co. KG]
-Projekt:        Auswahl Durchführungsweg BAV
-Datum:          [Datum]
-Federführung:   fachliche Leitung, LL.M. (Oxford)
-Mitarbeit:      [Senior Associate Name], [Associate Name]
+Mandant: [Fiktive Konzern GmbH & Co. KG]
+Projekt: Auswahl Durchführungsweg BAV
+Datum: [Datum]
+Federführung: fachliche Leitung, LL.M. (Oxford)
+Mitarbeit: [Senior Associate Name], [Associate Name]
 
 1. AUSGANGSSACHVERHALT
-   Anwärter aktiv:           [Anzahl]
-   Rentner:                  [Anzahl]
-   DBO (IFRS, aktuariell):   EUR [Betrag]
-   Bestand Direktzusagen:    EUR [Betrag] Rückstellungen (HGB)
+ Anwärter aktiv: [Anzahl]
+ Rentner: [Anzahl]
+ DBO (IFRS, aktuariell): EUR [Betrag]
+ Bestand Direktzusagen: EUR [Betrag] Rückstellungen (HGB)
 
 2. ANALYSEERGEBNIS DURCHFÜHRUNGSWEGE
-   [Tabelle Vor-/Nachteile je Durchführungsweg — mandantenspezifisch]
+ [Tabelle Vor-/Nachteile je Durchführungsweg — mandantenspezifisch]
 
 3. EMPFEHLUNG
-   Empfohlener Durchführungsweg: [...]
-   Begründung: [...]
-   Erforderliche Maßnahmen: [...]
+ Empfohlener Durchführungsweg: [...]
+ Begründung: [...]
+ Erforderliche Maßnahmen: [...]
 
 4. NÄCHSTE SCHRITTE
-   □ Abstimmung mit Wirtschaftsprüfer (Bilanzierungseffekte)
-   □ Abstimmung mit Betriebsrat (§ 87 Abs. 1 Nr. 8 BetrVG)
-   □ Aktuarielle Bestätigung
-   □ BaFin-Konzession prüfen (sofern Pensionsfonds/Pensionskasse)
+ □ Abstimmung mit Wirtschaftsprüfer (Bilanzierungseffekte)
+ □ Abstimmung mit Betriebsrat (§ 87 Abs. 1 Nr. 8 BetrVG)
+ □ Aktuarielle Bestätigung
+ □ BaFin-Konzession prüfen (sofern Pensionsfonds/Pensionskasse)
 ```
 
 ### Template B: Mandats-Checkliste Durchführungsweg-Analyse

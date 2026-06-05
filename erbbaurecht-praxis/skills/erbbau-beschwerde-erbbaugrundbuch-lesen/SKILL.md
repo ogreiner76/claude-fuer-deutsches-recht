@@ -1,13 +1,13 @@
 ---
 name: erbbau-beschwerde-erbbaugrundbuch-lesen
-description: "Nutze dies, wenn Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen prüfen.; Erstelle eine Arbeitsfassung zu Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

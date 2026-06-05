@@ -1,13 +1,13 @@
 ---
 name: notariat-rangruecktritt-rangvorbehalt
-description: "Nutze dies, wenn Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz im Plugin Notariat Alltag konkret bearbeitet werden soll. Auslöser: Bitte Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz prüfen.; Erstelle eine Arbeitsfassung zu Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notariat 034 Rangruecktritt Rangvorbehalt Löschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -66,7 +66,7 @@ Ein Zuschlag nach § 398a AO wuerde - sofern einschlaegig - ebenfalls geleistet.
 
 Es wird gebeten von der Einleitung eines Strafverfahrens abzusehen.
 
-[ORT, DATUM]   [UNTERSCHRIFT RA/StB]
+[ORT, DATUM] [UNTERSCHRIFT RA/StB]
 ```
 
 ## Abgrenzung zu anderen Skills dieses Plugins

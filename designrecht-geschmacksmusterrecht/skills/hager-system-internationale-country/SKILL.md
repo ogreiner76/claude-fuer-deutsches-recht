@@ -1,13 +1,13 @@
 ---
 name: hager-system-internationale-country
-description: "Nutze dies, wenn Hager System Wipo, Internationale Country Route Design im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Hager System Wipo, Internationale Country Route Design prüfen.; Erstelle eine Arbeitsfassung zu Hager System Wipo, Internationale Country Route Design.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Hager System Wipo, Internationale Country Route Design: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hager System Wipo, Internationale Country Route Design
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hager System Wipo, Internationale Country Route Design** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: kfe-restrukturierungsbeauftragter
-description: "Nutze dies, wenn Kfe Restrukturierungsbeauftragter Spezial, Kfe Stabilisierungsanordnung Spezial, Krisenstadien Stakeholder Strategie Ergebnis Liquiditaet im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Kfe Restrukturierungsbeauftragter Spezial, Kfe Stabilisierungsanordnung Spezial, Krisenstadien Stakeholder Strategie Ergebnis Liquiditaet prüfen.; Erstelle eine Arbeitsfassung zu Kfe Restrukturierungsbeauftragter Spezial, Kfe Stabilisierungsanordnung Spezial, Krisenstadien Stakeholder Strategie Ergebnis Liquiditaet.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kfe Restrukturierungsbeauftragter Spezial, Kfe Stabilisierungsanordnung Spezial, Krisenstadien Stakeholder Strategie Ergebnis Liquiditaet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kfe Restrukturierungsbeauftragter Spezial, Kfe Stabilisierungsanordnung Spezial, Krisenstadien Stakeholder Strategie Ergebnis Liquiditaet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kfe Restrukturierungsbeauftragter Spezial, Kfe Stabilisierungsanordnung Spezial, Krisenstadien Stakeholder Strategie Ergebnis Liquiditaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -160,50 +160,50 @@ IDW S 6 unterscheidet fünf Krisenstadien, die in der Praxis selten trennscharf 
 
 ```
 STADIUM 1: STAKEHOLDERKRISE
-  Definition: Vertrauensverlust bei wesentlichen Stakeholdern
-              (Gesellschafter, Banken, Schlüsselkunden, Lieferanten, Mitarbeiter)
-  Zeitlicher Vorlauf vor Insolvenz: typisch 3-8 Jahre
-  StaRUG-Relevanz: § 1 StaRUG grundsätzlich schon auslösbar
+ Definition: Vertrauensverlust bei wesentlichen Stakeholdern
+ (Gesellschafter, Banken, Schlüsselkunden, Lieferanten, Mitarbeiter)
+ Zeitlicher Vorlauf vor Insolvenz: typisch 3-8 Jahre
+ StaRUG-Relevanz: § 1 StaRUG grundsätzlich schon auslösbar
 
 STADIUM 2: STRATEGIEKRISE
-  Definition: Erosion des strategischen Wettbewerbsvorteils
-              (Marktposition, Technologievorsprung, Kundenloyalität)
-  Zeitlicher Vorlauf: typisch 2-6 Jahre
-  StaRUG-Relevanz: § 1 StaRUG-Pflicht klar ausgelöst, wenn existenzgefährdend
+ Definition: Erosion des strategischen Wettbewerbsvorteils
+ (Marktposition, Technologievorsprung, Kundenloyalität)
+ Zeitlicher Vorlauf: typisch 2-6 Jahre
+ StaRUG-Relevanz: § 1 StaRUG-Pflicht klar ausgelöst, wenn existenzgefährdend
 
 STADIUM 3: PRODUKT-/ABSATZKRISE
-  Definition: Nachfragerückgang, Marktanteilsverlust, Preisverfall
-              ohne korrigierende strategische Reaktion
-  Zeitlicher Vorlauf: typisch 1-4 Jahre
-  StaRUG-Relevanz: Erhöhte Eskalationspflicht, § 102 StaRUG für Berater
+ Definition: Nachfragerückgang, Marktanteilsverlust, Preisverfall
+ ohne korrigierende strategische Reaktion
+ Zeitlicher Vorlauf: typisch 1-4 Jahre
+ StaRUG-Relevanz: Erhöhte Eskalationspflicht, § 102 StaRUG für Berater
 
 STADIUM 4: ERTRAGSKRISE
-  Definition: Nachhaltig negatives EBIT/EBITDA, Verlustakkumulation,
-              Eigenkapitalverzehr
-  Zeitlicher Vorlauf: typisch 6-24 Monate
-  StaRUG-Relevanz: Drohende ZU oft in Sichtweite, StaRUG-Zugang prüfen
+ Definition: Nachhaltig negatives EBIT/EBITDA, Verlustakkumulation,
+ Eigenkapitalverzehr
+ Zeitlicher Vorlauf: typisch 6-24 Monate
+ StaRUG-Relevanz: Drohende ZU oft in Sichtweite, StaRUG-Zugang prüfen
 
 STADIUM 5: LIQUIDITÄTSKRISE
-  Definition: Zahlungsunfähigkeit droht oder ist eingetreten;
-              Kreditlinien erschöpft, Zulieferer auf Vorkasse
-  Zeitlicher Vorlauf: Wochen bis Monate
-  StaRUG-Relevanz: Letztes Fenster für StaRUG; danach InsO-Pflicht
+ Definition: Zahlungsunfähigkeit droht oder ist eingetreten;
+ Kreditlinien erschöpft, Zulieferer auf Vorkasse
+ Zeitlicher Vorlauf: Wochen bis Monate
+ StaRUG-Relevanz: Letztes Fenster für StaRUG; danach InsO-Pflicht
 ```
 
 ### 2. Die kritische Schwelle: Wann wird aus Krise ein Insolvenzgrund?
 
 ```
 ERTRAGSKRISE → Überschuldungsrisiko (§ 19 InsO):
-  Wenn Verluste das Eigenkapital aufgezehrt haben und negative
-  Fortführungsprognose vorliegt.
+ Wenn Verluste das Eigenkapital aufgezehrt haben und negative
+ Fortführungsprognose vorliegt.
 
 LIQUIDITÄTSKRISE → Drohende ZU (§ 18 InsO):
-  Wenn die Liquiditätsplanung (24 Monate) zeigt, dass Verbindlichkeiten
-  überwiegend wahrscheinlich nicht bedient werden können.
+ Wenn die Liquiditätsplanung (24 Monate) zeigt, dass Verbindlichkeiten
+ überwiegend wahrscheinlich nicht bedient werden können.
 
 LIQUIDITÄTSKRISE → Eingetretene ZU (§ 17 InsO):
-  Wenn fällige Verbindlichkeiten nicht beglichen werden können
-  und dies nicht nur vorübergehend ist.
+ Wenn fällige Verbindlichkeiten nicht beglichen werden können
+ und dies nicht nur vorübergehend ist.
 ```
 
 ---
@@ -266,22 +266,22 @@ Erstellt: [GF / Berater]
 
 Erkanntes Krisenstadium: [Stadium 1-5]
 Grundlage der Einschätzung:
-  [ ] Analyse BWA / Liquiditätsplan
-  [ ] Kundengespräche
-  [ ] Bankgespräch
-  [ ] Berater-Einschätzung (IDW S 6)
-  [ ] Sonstiges: [___]
+ [ ] Analyse BWA / Liquiditätsplan
+ [ ] Kundengespräche
+ [ ] Bankgespräch
+ [ ] Berater-Einschätzung (IDW S 6)
+ [ ] Sonstiges: [___]
 
 Überlappende Stadien: [ja / nein] — Details: [___]
 
 Handlungsmaßnahmen:
-  1. [Maßnahme, verantwortlich, Frist]
-  2. [Maßnahme, verantwortlich, Frist]
+ 1. [Maßnahme, verantwortlich, Frist]
+ 2. [Maßnahme, verantwortlich, Frist]
 
 Eskalation:
-  Gesellschafter informiert: [ja / nein / geplant bis]
-  Berater einbezogen: [ja / nein / geplant]
-  StaRUG-Prüfung initiiert: [ja / nein / geplant]
+ Gesellschafter informiert: [ja / nein / geplant bis]
+ Berater einbezogen: [ja / nein / geplant]
+ StaRUG-Prüfung initiiert: [ja / nein / geplant]
 
 Unterschrift GF: ___________________ Datum: ___________
 ```

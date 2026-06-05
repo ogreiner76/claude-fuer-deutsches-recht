@@ -1,13 +1,13 @@
 ---
 name: glaeubigerantrag-glaeubigerausschuss
-description: "Nutze dies, wenn Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste prüfen.; Erstelle eine Arbeitsfassung zu Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Glaeubigerantrag Prüfung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -51,12 +51,12 @@ Behördengläubigern sowie die wesentlichen Abwehrstrategien des Schuldners.
 ## Eingaben
 
 - Gläubigerseite: Art und Höhe der Forderung, Titulierungsstand, bisherige
-  Vollstreckungsversuche, vorhandene Nachweise zum Eröffnungsgrund
+ Vollstreckungsversuche, vorhandene Nachweise zum Eröffnungsgrund
 - Schuldnerseite: Aktuelle Zahlungslage, verfügbare Liquidität, Stellungnahme zur
-  bestrittenen Forderung, Bereitschaft zur sofortigen Zahlung oder zur Vorlage
-  eines Sanierungskonzepts
+ bestrittenen Forderung, Bereitschaft zur sofortigen Zahlung oder zur Vorlage
+ eines Sanierungskonzepts
 - Verfahrensstatus: Liegt bereits ein Eigenantrag vor? Sind andere Gläubigeranträge
-  anhängig? Gibt es ein laufendes StaRUG-Verfahren?
+ anhängig? Gibt es ein laufendes StaRUG-Verfahren?
 
 ## Rechtlicher Rahmen
 
@@ -107,12 +107,12 @@ Für aktuelle BGH-Linie zu allen vorgenannten Punkten Datum, Aktenzeichen und Ra
 ### Quellen (nur verifiziert)
 
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-  Antragsberechtigung, Glaubhaftmachung, Forderungserfordernis und Missbrauch)
+ Antragsberechtigung, Glaubhaftmachung, Forderungserfordernis und Missbrauch)
 - Hölzle, in: K. Schmidt, InsO, 20. Aufl. 2023, § 14 Rn. 1–55 (Dogmatik des
-  rechtlichen Interesses, Zulässigkeit bei titulierter und nicht-titulierter
-  Forderung, § 14 Abs. 1 S. 2 InsO)
+ rechtlichen Interesses, Zulässigkeit bei titulierter und nicht-titulierter
+ Forderung, § 14 Abs. 1 S. 2 InsO)
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-  Indizienbeweis, Glaubhaftmachungsstandard im Gläubigerantrag)
+ Indizienbeweis, Glaubhaftmachungsstandard im Gläubigerantrag)
 
 ### IDW S 11
 
@@ -126,22 +126,22 @@ beauftragt wird oder das Gericht einen vorläufigen Sachverständigen bestellt.
 ## Ablauf
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Schritt 1 — Gläubigerprüfung: Forderung
 
 - **Titulierungsstand**: Liegt ein vollstreckbarer Titel vor (Urteil, Beschluss,
-  Vollstreckungsbescheid)? Wenn ja, entfällt das Glaubhaftmachungsproblem für
-  die Forderung weitgehend.
+ Vollstreckungsbescheid)? Wenn ja, entfällt das Glaubhaftmachungsproblem für
+ die Forderung weitgehend.
 - **Nicht-titulierte Forderung**: Belege zusammenstellen — Rechnung, Lieferschein,
-  Empfangsbestätigung, Kontoauszug, eidesstattliche Versicherung nach § 294 ZPO.
+ Empfangsbestätigung, Kontoauszug, eidesstattliche Versicherung nach § 294 ZPO.
 - **Fälligkeit**: Die Forderung muss im Zeitpunkt der Antragstellung bestehen und
-  fällig sein. Eine bedingte oder gestundete Forderung genügt grundsätzlich nicht
-  (Ausnahme: Stundung durch Druckausübung, Sittenwidrigkeit der Stundung).
+ fällig sein. Eine bedingte oder gestundete Forderung genügt grundsätzlich nicht
+ (Ausnahme: Stundung durch Druckausübung, Sittenwidrigkeit der Stundung).
 - **Höhe**: Für das rechtliche Interesse keine gesetzliche Mindestgrenze; jedoch
-  prüft das Gericht implizit, ob die Forderungshöhe im Verhältnis zur
-  Verfahrenserwartung steht. Bagatellbeträge können das rechtliche Interesse in
-  Frage stellen.
+ prüft das Gericht implizit, ob die Forderungshöhe im Verhältnis zur
+ Verfahrenserwartung steht. Bagatellbeträge können das rechtliche Interesse in
+ Frage stellen.
 
 ### Schritt 2 — Glaubhaftmachung des Eröffnungsgrundes
 
@@ -168,7 +168,7 @@ Zwingender Inhalt:
 - Darlegung und Glaubhaftmachung der Forderung mit Belegen
 - Darlegung und Glaubhaftmachung des Eröffnungsgrundes mit Indizienbelegen
 - Antrag auf Anordnung vorläufiger Sicherungsmaßnahmen (§§ 21, 22 InsO),
-  falls eilbedürftig (z. B. drohende Vermögensverschiebungen)
+ falls eilbedürftig (z. B. drohende Vermögensverschiebungen)
 - Kostenvorschuss (§ 26 InsO; wird bei Behörden oft erlassen)
 
 ### Schritt 4 — Reaktion auf Anhörung des Schuldners (§ 14 Abs. 2 InsO)
@@ -178,28 +178,28 @@ Schuldnerreaktionen und die rechtliche Bewertung:
 
 - **Bestreiten der Forderung**: Substantiiertes Bestreiten hemmt nicht automatisch das Verfahren; bei titulierter oder durch starke Indizien glaubhaft gemachter Forderung bleibt der Antrag zulässig (vgl. BGH-Linie; Az. vor Ausgabe verifizieren).
 - **Sofortige Zahlung der titulierten Forderung**: Beseitigt das rechtliche
-  Interesse grundsätzlich, außer § 14 Abs. 1 S. 2 InsO greift (Zahlung innerhalb
-  von 6 Monaten als potenzielle Anfechtungszahlung).
+ Interesse grundsätzlich, außer § 14 Abs. 1 S. 2 InsO greift (Zahlung innerhalb
+ von 6 Monaten als potenzielle Anfechtungszahlung).
 - **Zahlungsplan/Ratenzahlungsvereinbarung**: Kein Anspruch des Schuldners auf
-  Aussetzung; missbräuchlicher Druckantrag-Einwand bei kurzfristiger Rücknahme nach Einlenken (Az. vor Ausgabe verifizieren).
+ Aussetzung; missbräuchlicher Druckantrag-Einwand bei kurzfristiger Rücknahme nach Einlenken (Az. vor Ausgabe verifizieren).
 - **Einreichung Sanierungskonzept**: Kein verfahrensrechtlicher Aufschubgrund;
-  jedoch kann das Gericht faktisch zögern, wenn ein plausibles Sanierungskonzept
-  vorgelegt wird.
+ jedoch kann das Gericht faktisch zögern, wenn ein plausibles Sanierungskonzept
+ vorgelegt wird.
 
 ### Schritt 5 — Schutzschrift / Einstweiliger Rechtsschutz (Schuldnerseite)
 
 - **Schutzschrift**: Vor oder unmittelbar nach Anhörung beim Insolvenzgericht
-  hinterlegen; Inhalt: Bestreiten der Forderung mit Belegen, Bestreiten des
-  Eröffnungsgrundes (aktuelle Liquiditätsübersicht, ggf. IDW S 11-Stellungnahme),
-  Druckantrag-Einwand falls zutreffend.
+ hinterlegen; Inhalt: Bestreiten der Forderung mit Belegen, Bestreiten des
+ Eröffnungsgrundes (aktuelle Liquiditätsübersicht, ggf. IDW S 11-Stellungnahme),
+ Druckantrag-Einwand falls zutreffend.
 - **StaRUG-Verfahren**: Einleitung eines Restrukturierungsverfahrens nach StaRUG
-  kann faktisch den Insolvenzantrag überlagern; Anzeige der Restrukturierungssache
-  hat keine automatische Sperrwirkung gegen Gläubigeranträge, kann aber gerichtlich
-  koordiniert werden.
+ kann faktisch den Insolvenzantrag überlagern; Anzeige der Restrukturierungssache
+ hat keine automatische Sperrwirkung gegen Gläubigeranträge, kann aber gerichtlich
+ koordiniert werden.
 - **Eigenantrag des Schuldners**: Strategisch oft günstiger als Abwehr — der
-  Schuldner erhält das Vorschlagsrecht für den Insolvenzverwalter (§ 56a InsO),
-  kann Eigenverwaltung beantragen (§§ 270 ff. InsO) und behält größeren Einfluss
-  auf das Verfahren, als wenn der Gläubigerantrag zur Eröffnung führt.
+ Schuldner erhält das Vorschlagsrecht für den Insolvenzverwalter (§ 56a InsO),
+ kann Eigenverwaltung beantragen (§§ 270 ff. InsO) und behält größeren Einfluss
+ auf das Verfahren, als wenn der Gläubigerantrag zur Eröffnung führt.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -219,14 +219,14 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 Strukturiertes Prüfungsmemo mit:
 1. **Zulässigkeitsprüfung** (tabellarische Checkliste: Merkmal — Befund —
-   Bewertung)
+ Bewertung)
 2. **Begründetheitsprüfung** (Indizienliste mit Beweismitteln und
-   Bewertungsstärke)
+ Bewertungsstärke)
 3. **Handlungsempfehlung** (Gläubiger: Antragstellung ratsam/nicht ratsam;
-   Schuldner: Abwehrmittel priorisiert nach Erfolgsaussicht)
+ Schuldner: Abwehrmittel priorisiert nach Erfolgsaussicht)
 4. **Formulierungsvorschlag** für den zentralen Antragssatz
 5. **Quellen** (vollständige Zitierung aller herangezogenen Entscheidungen und
-   Kommentarstellen)
+ Kommentarstellen)
 
 
 ## Beispiel
@@ -245,16 +245,16 @@ kumulierten negativen Cash-flow von −38.000 EUR.
 
 *Zulässigkeit:*
 - Rechtliches Interesse (+): Das Finanzamt ist öffentlich-rechtlicher Gläubiger;
-  sein Interesse an der Verfahrenseröffnung folgt aus der Insolvenzquotenchance
-  und der Anfechtungsmöglichkeit nach §§ 129 ff. InsO für zurückliegende Zahlungen.
-  Behördengläubiger, insbesondere Finanzämter und Sozialversicherungsträger, stellen
-  häufig Gläubigeranträge; im FA-Bereich oft im Zusammenhang mit einer
-  Strafanzeige nach § 266a StGB (Vorenthalten von SV-Beiträgen), was das
-  behördliche Interesse weiter objektiviert.
+ sein Interesse an der Verfahrenseröffnung folgt aus der Insolvenzquotenchance
+ und der Anfechtungsmöglichkeit nach §§ 129 ff. InsO für zurückliegende Zahlungen.
+ Behördengläubiger, insbesondere Finanzämter und Sozialversicherungsträger, stellen
+ häufig Gläubigeranträge; im FA-Bereich oft im Zusammenhang mit einer
+ Strafanzeige nach § 266a StGB (Vorenthalten von SV-Beiträgen), was das
+ behördliche Interesse weiter objektiviert.
 - Forderung glaubhaft gemacht (+): Rechtskräftiger Mahnbescheid für USt-Forderung;
-  Steuerbescheide für LSt-Rückstände; Höhe belegbar durch Steuerkonto-Auszug.
+ Steuerbescheide für LSt-Rückstände; Höhe belegbar durch Steuerkonto-Auszug.
 - Fälligkeit (+): Steuerliche Fälligkeit nach § 41a EStG (LSt) und § 18 UStG (USt)
-  jeweils eingetreten und unstreitig.
+ jeweils eingetreten und unstreitig.
 
 *Begründetheit:*
 Eröffnungsgrund § 17 InsO durch Indizienkombination glaubhaft gemacht (st. BGH-Linie; Az. vor Ausgabe verifizieren):
@@ -270,48 +270,48 @@ Eröffnungsgrund § 17 InsO durch Indizienkombination glaubhaft gemacht (st. BGH
 ### Gläubigerseite
 
 1. **Unzureichende Glaubhaftmachung der Forderung**: Bloße Behauptung ohne Belege
-   genügt nicht; eidesstattliche Versicherung allein bei nicht-titulierter Forderung
-   führt regelmäßig zur Unzulässigkeit (st. BGH-Linie; Az. vor Ausgabe verifizieren).
+ genügt nicht; eidesstattliche Versicherung allein bei nicht-titulierter Forderung
+ führt regelmäßig zur Unzulässigkeit (st. BGH-Linie; Az. vor Ausgabe verifizieren).
 
 2. **Fehlende Aktualität der Indizienmittel**: Pfändungsprotokolle älter als drei
-   bis vier Monate verlieren an Überzeugungskraft; aktuellere Beweismittel sind
-   nachzuliefern.
+ bis vier Monate verlieren an Überzeugungskraft; aktuellere Beweismittel sind
+ nachzuliefern.
 
 3. **Missbräuchlicher Druckantrag**: Ein Antrag, der erkennbar nur zur
-   Druckausübung gestellt und nach Zahlung sofort zurückgenommen wird, kann als
-   rechtsmissbräuchlich eingestuft werden und Schadensersatzansprüche des
-   Schuldners auslösen (Az. der einschlägigen BGH-Entscheidungen vor Ausgabe über
-   offene Quellen verifizieren). Prüfen: hat der Mandant ein echtes
-   Eröffnungsinteresse oder nur ein Zahlungsinteresse?
+ Druckausübung gestellt und nach Zahlung sofort zurückgenommen wird, kann als
+ rechtsmissbräuchlich eingestuft werden und Schadensersatzansprüche des
+ Schuldners auslösen (Az. der einschlägigen BGH-Entscheidungen vor Ausgabe über
+ offene Quellen verifizieren). Prüfen: hat der Mandant ein echtes
+ Eröffnungsinteresse oder nur ein Zahlungsinteresse?
 
 4. **§ 14 Abs. 1 S. 2 InsO — Taktikzahlung übersehen**: Befriedigt der Schuldner
-   den antragstellenden Gläubiger kurz nach Antragstellung innerhalb der
-   6-Monatsfrist, bleibt das Antragsrecht bestehen, wenn die Zahlung
-   anfechtbar ist. Gläubiger darf Antrag bei anfechtbarer Befriedigung
-   aufrechterhalten.
+ den antragstellenden Gläubiger kurz nach Antragstellung innerhalb der
+ 6-Monatsfrist, bleibt das Antragsrecht bestehen, wenn die Zahlung
+ anfechtbar ist. Gläubiger darf Antrag bei anfechtbarer Befriedigung
+ aufrechterhalten.
 
 ### Schuldnerseite
 
 5. **Sofortige Zahlung als Anfechtungsrisiko**: Zahlt der Schuldner die
-   antragsbegründende Forderung kurzfristig, um den Antrag zu Fall zu bringen,
-   ist diese Zahlung nach § 133 Abs. 1 InsO (Vorsatzanfechtung) oder § 131 InsO
-   (inkongruente Deckung) anfechtbar, wenn innerhalb der Anfechtungsfristen
-   Insolvenz eröffnet wird. Der Schuldner "kauft" sich damit nur Zeit, ohne die
-   Insolvenzlage zu beseitigen.
+ antragsbegründende Forderung kurzfristig, um den Antrag zu Fall zu bringen,
+ ist diese Zahlung nach § 133 Abs. 1 InsO (Vorsatzanfechtung) oder § 131 InsO
+ (inkongruente Deckung) anfechtbar, wenn innerhalb der Anfechtungsfristen
+ Insolvenz eröffnet wird. Der Schuldner "kauft" sich damit nur Zeit, ohne die
+ Insolvenzlage zu beseitigen.
 
 6. **Eigeninteresse vs. Gemeininteresse**: Der Gläubigerantrag dient nicht nur
-   dem individuellen Gläubigerinteresse, sondern dem Schutz der
-   Gläubigergesamtheit. Dies schränkt die Missbrauchsrechtsprechung auf klare
-   Einzelfälle ein; der bloße Verdacht missbräuchlicher Motive genügt nicht.
+ dem individuellen Gläubigerinteresse, sondern dem Schutz der
+ Gläubigergesamtheit. Dies schränkt die Missbrauchsrechtsprechung auf klare
+ Einzelfälle ein; der bloße Verdacht missbräuchlicher Motive genügt nicht.
 
 7. **Zu späte Eigenantragsstellung**: Wartet der Schuldner zu lang mit dem
-   Eigenantrag, verliert er das Vorschlagsrecht nach § 56a InsO und riskiert
-   zudem eine persönliche Haftung der Geschäftsführer nach § 15a InsO
-   (Insolvenzverschleppungshaftung).
+ Eigenantrag, verliert er das Vorschlagsrecht nach § 56a InsO und riskiert
+ zudem eine persönliche Haftung der Geschäftsführer nach § 15a InsO
+ (Insolvenzverschleppungshaftung).
 
 8. **StaRUG-Verfahren ohne Sperrwirkung**: Das StaRUG-Restrukturierungsverfahren
-   sperrt Gläubigeranträge nicht automatisch. Ohne gerichtliche Anordnung nach
-   § 29 Abs. 2 Nr. 1 StaRUG bleibt der Gläubigerantrag vollständig wirksam.
+ sperrt Gläubigeranträge nicht automatisch. Ohne gerichtliche Anordnung nach
+ § 29 Abs. 2 Nr. 1 StaRUG bleibt der Gläubigerantrag vollständig wirksam.
 
 ## Quellenpflicht
 
@@ -348,7 +348,7 @@ Bevor losgelegt wird, klaere:
 
 ```
 INTERNES GUTACHTEN — GLAEUBIGERANTRAG § 14 InsO
-Datum: [DATUM]    Mandant: [GLAEUBIGER]    Schuldner: [SCHULDNER]
+Datum: [DATUM] Mandant: [GLAEUBIGER] Schuldner: [SCHULDNER]
 
 ERGEBNIS: Glaeubigerantrag [SINNVOLL / NICHT SINNVOLL]
 
@@ -404,9 +404,9 @@ Der Gläubigerausschuss ist das wichtigste Mitwirkungs-Organ der Gläubiger im I
 
 - **Schon im Eröffnungsverfahren** durch Insolvenzgericht bestellt
 - Pflicht bei größeren Unternehmen
-  - **§ 22a Abs. 1 InsO** Bilanzsumme mehr als sechs Millionen Euro
-  - oder Umsatz mehr als zwölf Millionen Euro
-  - oder Mitarbeiter mehr als fünfzig
+ - **§ 22a Abs. 1 InsO** Bilanzsumme mehr als sechs Millionen Euro
+ - oder Umsatz mehr als zwölf Millionen Euro
+ - oder Mitarbeiter mehr als fünfzig
 - **Antrag** beim Insolvenzgericht möglich
 - **Eilbestellung** bei Eröffnungsantrag
 

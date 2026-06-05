@@ -1,6 +1,6 @@
 ---
 name: beirat-streit-gesellschafter
-description: "Nutze dies, wenn Beirat Streit Gesellschafter im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Streit Gesellschafter prüfen.; Erstelle eine Arbeitsfassung zu Beirat Streit Gesellschafter.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Streit Gesellschafter: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Streit Gesellschafter

@@ -114,10 +114,10 @@ Die Konkretisierung einer Generalklausel ist an Grundrechten, Verfassungsprinzip
 2. **Frage(n)**
 3. **Ergebnis in einem Satz** (Kurzantwort)
 4. **Rechtliche Bewertung**
-   - Anspruchsgrundlage / Prüfungsmaßstab
-   - Tatbestandsmerkmale, jeweils mit Subsumtion
-   - Streitstand bei umstrittenen Fragen
-   - Ergebnis je Tatbestandsmerkmal
+ - Anspruchsgrundlage / Prüfungsmaßstab
+ - Tatbestandsmerkmale, jeweils mit Subsumtion
+ - Streitstand bei umstrittenen Fragen
+ - Ergebnis je Tatbestandsmerkmal
 5. **Gesamtergebnis**
 6. **Risiken / offene Punkte**
 7. **Quellenverzeichnis** (nach Hauszitierweise — siehe Plugin `zitierweise-deutsches-recht`)

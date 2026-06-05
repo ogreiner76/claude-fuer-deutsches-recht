@@ -1,6 +1,6 @@
 ---
 name: beirat-deadlock-mechanik
-description: "Nutze dies, wenn Beirat Deadlock Mechanik im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Deadlock Mechanik prüfen.; Erstelle eine Arbeitsfassung zu Beirat Deadlock Mechanik.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Deadlock Mechanik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Deadlock Mechanik

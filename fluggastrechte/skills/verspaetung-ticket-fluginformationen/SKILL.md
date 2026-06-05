@@ -1,13 +1,13 @@
 ---
 name: verspaetung-ticket-fluginformationen
-description: "Nutze dies, wenn Spezial Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder
+# Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fluggastrechte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fluggastrechte` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Flug
 # Verspaetung: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Verspaetung: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Verspaetung: Verhandlung, Vergleich und Eskalation / spezial verspaetung verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verspaetung: Verhandlung, Vergleich und Eskalation / verspaetung verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -90,50 +90,50 @@ Zu jedem Flugabschnitt:
 fall-id: FG-2026-0042
 reisedatum: 2026-05-12
 passagiere:
-  - name: Mueller, Hans
-    geburtsdatum: 1972-08-15
-    rolle: hauptbuchender
-  - name: Mueller, Eva
-    geburtsdatum: 1975-03-22
-    rolle: ehepartner
-  - name: Mueller, Lea
-    geburtsdatum: 2010-06-18
-    rolle: minderjährig
+ - name: Mueller, Hans
+ geburtsdatum: 1972-08-15
+ rolle: hauptbuchender
+ - name: Mueller, Eva
+ geburtsdatum: 1975-03-22
+ rolle: ehepartner
+ - name: Mueller, Lea
+ geburtsdatum: 2010-06-18
+ rolle: minderjährig
 
-buchungscode: ABC123  # PNR
-buchung-bei: Lufthansa  # vermarktende Airline
+buchungscode: ABC123 # PNR
+buchung-bei: Lufthansa # vermarktende Airline
 buchungsdatum: 2026-04-12
 
 flug:
-  flugnummer: LH 1234  # Code des operating carrier
-  operating-carrier: Lufthansa
-  marketing-carrier: Lufthansa
-  abflughafen: MUC (München)
-  zielflughafen: LIS (Lissabon)
-  geplante-abflugzeit: 2026-05-12T08:25:00+02:00
-  geplante-ankunftszeit: 2026-05-12T11:00:00+01:00
-  tatsaechliche-abflugzeit: null
-  tatsaechliche-ankunftszeit: null
-  flugklasse: economy
-  distanz-km: 2280  # Skill `distanz-und-ausgleich-berechnen`
+ flugnummer: LH 1234 # Code des operating carrier
+ operating-carrier: Lufthansa
+ marketing-carrier: Lufthansa
+ abflughafen: MUC (München)
+ zielflughafen: LIS (Lissabon)
+ geplante-abflugzeit: 2026-05-12T08:25:00+02:00
+ geplante-ankunftszeit: 2026-05-12T11:00:00+01:00
+ tatsaechliche-abflugzeit: null
+ tatsaechliche-ankunftszeit: null
+ flugklasse: economy
+ distanz-km: 2280 # Skill `distanz-und-ausgleich-berechnen`
 
 stoerung:
-  art: annullierung  # annullierung / verspätung / nichtbefoerderung / umbuchung / abweichender-flug
-  bekanntgabe-am: 2026-05-12T06:30:00+02:00
-  bekanntgabe-wie: SMS  # SMS / E-Mail / Schalter-Mitteilung
-  begruendung-airline: technischer Defekt
-  ersatzangebot: Flug am 13.05.2026 LH 1234
-  ersatz-tatsaechlich-genutzt: ja
+ art: annullierung # annullierung / verspätung / nichtbefoerderung / umbuchung / abweichender-flug
+ bekanntgabe-am: 2026-05-12T06:30:00+02:00
+ bekanntgabe-wie: SMS # SMS / E-Mail / Schalter-Mitteilung
+ begruendung-airline: technischer Defekt
+ ersatzangebot: Flug am 13.05.2026 LH 1234
+ ersatz-tatsaechlich-genutzt: ja
 
 belege:
-  - typ: buchungsbestätigung
-    pfad: belege/2026-05-12/buchung-LH1234.pdf
-  - typ: boardingpass
-    pfad: belege/2026-05-12/boardingpass-mueller.pdf
-  - typ: stoerungsbenachrichtigung
-    pfad: belege/2026-05-12/sms-annullierung.png
-  - typ: ersatzboardingpass
-    pfad: belege/2026-05-13/boardingpass-mueller-ersatz.pdf
+ - typ: buchungsbestätigung
+ pfad: belege/2026-05-12/buchung-LH1234.pdf
+ - typ: boardingpass
+ pfad: belege/2026-05-12/boardingpass-mueller.pdf
+ - typ: stoerungsbenachrichtigung
+ pfad: belege/2026-05-12/sms-annullierung.png
+ - typ: ersatzboardingpass
+ pfad: belege/2026-05-13/boardingpass-mueller-ersatz.pdf
 ```
 
 ## OCR / PDF-Extraktion
@@ -192,27 +192,27 @@ wohnhaft [Adresse],
 
 bevollmaechtige hiermit
 
-  [Vor- und Nachname Vollmachtnehmer],
-  geboren am [Geburtsdatum],
-  wohnhaft [Adresse],
+ [Vor- und Nachname Vollmachtnehmer],
+ geboren am [Geburtsdatum],
+ wohnhaft [Adresse],
 
 mich in allen Angelegenheiten betreffend meine Anspruechen aus dem Flug
 
-  Buchungscode (PNR): [PNR]
-  Flugnummer:        [Flugnummer]
-  Datum:             [Datum]
-  Strecke:           [Abflughafen] nach [Zielflughafen]
-  Operating Carrier: [Airline]
+ Buchungscode (PNR): [PNR]
+ Flugnummer: [Flugnummer]
+ Datum: [Datum]
+ Strecke: [Abflughafen] nach [Zielflughafen]
+ Operating Carrier: [Airline]
 
 zu vertreten. Die Vollmacht umfasst insbesondere:
 
-  - Vorgerichtliche Geltendmachung der Ausgleichsanspruechen nach
-    VO (EG) Nr. 261/2004 gegenüber der Airline
-  - Korrespondenz mit der Airline und ihrer Kundenservice
-  - Anrufung der Schlichtungsstelle Luftverkehr SOEP
-  - Klageerhebung beim zuständigen Amtsgericht
-  - Empfangnahme von Zahlungen und Schriftverkehr
-  - Untervollmacht an einen Rechtsanwalt sowie Vertretung im Rechtsstreit
+ - Vorgerichtliche Geltendmachung der Ausgleichsanspruechen nach
+ VO (EG) Nr. 261/2004 gegenüber der Airline
+ - Korrespondenz mit der Airline und ihrer Kundenservice
+ - Anrufung der Schlichtungsstelle Luftverkehr SOEP
+ - Klageerhebung beim zuständigen Amtsgericht
+ - Empfangnahme von Zahlungen und Schriftverkehr
+ - Untervollmacht an einen Rechtsanwalt sowie Vertretung im Rechtsstreit
 
 Diese Vollmacht gilt bis zum Widerruf in Textform.
 
@@ -232,16 +232,16 @@ Vollmacht für minderjähriges Kind
 
 Wir, die Erziehungsberechtigten
 
-  [Name Mutter / Vater 1], [Geburtsdatum], [Adresse]
-  [Name Vater / Mutter 2], [Geburtsdatum], [Adresse]
+ [Name Mutter / Vater 1], [Geburtsdatum], [Adresse]
+ [Name Vater / Mutter 2], [Geburtsdatum], [Adresse]
 
 vertreten unser minderjähriges Kind
 
-  [Vor- und Nachname Kind], [Geburtsdatum]
+ [Vor- und Nachname Kind], [Geburtsdatum]
 
 und bevollmaechtigen hiermit
 
-  [Vor- und Nachname Vollmachtnehmer]
+ [Vor- und Nachname Vollmachtnehmer]
 
 in dessen Namen die Anspruechen aus dem Flug [PNR / Flugnummer / Datum]
 nach VO (EG) Nr. 261/2004 geltend zu machen — einschließlich vorgerichtlich,
@@ -250,8 +250,8 @@ SOEP und gerichtlich.
 Ort Datum
 ___________
 
-___________________________________________     ___________________________________________
-[Mutter / Vater 1]                                [Vater / Mutter 2]
+___________________________________________ ___________________________________________
+[Mutter / Vater 1] [Vater / Mutter 2]
 ```
 
 ## Datenschutzhinweis (Art. 13 DSGVO)

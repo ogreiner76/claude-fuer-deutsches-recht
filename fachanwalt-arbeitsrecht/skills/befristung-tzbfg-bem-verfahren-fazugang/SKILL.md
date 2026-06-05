@@ -1,25 +1,25 @@
 ---
 name: befristung-tzbfg-bem-verfahren-fazugang
-description: "Nutze dies, wenn Fachanwalt Arbeitsrecht Befristung Tzbfg, Fachanwalt Arbeitsrecht Bem Verfahren, Fazugang Neu 005 Kuendigungsfrist Berechnen Bei Unsicherem Zugan im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Arbeitsrecht Befristung Tzbfg, Fachanwalt Arbeitsrecht Bem Verfahren, Fazugang Neu 005 Kuendigungsfrist Berechnen Bei Unsicherem Zugan prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Arbeitsrecht Befristung Tzbfg, Fachanwalt Arbeitsrecht Bem Verfahren, Fazugang Neu 005 Kuendigungsfrist Berechnen Bei Unsicherem Zugan.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Arbeitsrecht Befristung Tzbfg, Fachanwalt Arbeitsrecht Bem Verfahren, Fazugang Kuendigungsfrist Berechnen Bei Unsicherem Zugan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Fachanwalt Arbeitsrecht Befristung Tzbfg, Fachanwalt Arbeitsrecht Bem Verfahren, Fazugang Neu 005 Kuendigungsfrist Berechnen Bei Unsicherem Zugan
+# Fachanwalt Arbeitsrecht Befristung Tzbfg, Fachanwalt Arbeitsrecht Bem Verfahren, Fazugang Kuendigungsfrist Berechnen Bei Unsicherem Zugan
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Arbeitsrecht Befristung Tzbfg, Fachanwalt Arbeitsrecht Bem Verfahren, Fazugang Kuendigungsfrist Berechnen Bei Unsicherem Zugan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-arbeitsrecht-befristung-tzbfg` | Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer. Anwendungsfall befristeter Arbeitsvertrag soll geprüft oder neuer Befristungsvertrag gestaltet werden. Normen § 14 TzBfG Sachgrundbefristung sachgrundlose Befristung § 14 Abs. 4 TzBfG Schriftform vor Beschaeftigungsbeginn § 17 TzBfG Klagefrist drei Wochen. Prüfraster Schriftform-Zeitpunkt Sachgrund Vorbeschaeftigungsverbot § 14 Abs. 2 S. 2 BAG-Linie. Output Befristungsprüf-Protokoll oder Befristungsvertrags-Entwurf mit Klagefrist-Hinweis. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-betriebsratsanhoerung. |
-| `fachanwalt-arbeitsrecht-bem-verfahren` | Workflow-Skill zu fachanwalt arbeitsrecht bem verfahren. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-arbeitsrecht-bem-verfahren` | Arbeitsmodul zu fachanwalt arbeitsrecht bem verfahren: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugan` | Kündigungsfrist berechnen bei unsicherem Zugangsdatum: frühest- und spätestmöglicher Zugang, Fristberechnung §§ 187 ff. BGB, Drei-Wochen-Klagefrist § 4 KSchG, Kündigungsfristen § 622 BGB, worst-case-Strategie für Mandant. |
 
 ## Arbeitsweg
 
-Für **Fachanwalt Arbeitsrecht Befristung Tzbfg, Fachanwalt Arbeitsrecht Bem Verfahren, Fazugang Neu 005 Kuendigungsfrist Berechnen Bei Unsicherem Zugan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Arbeitsrecht Befristung Tzbfg, Fachanwalt Arbeitsrecht Bem Verfahren, Fazugang Kuendigungsfrist Berechnen Bei Unsicherem Zugan** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-arbeitsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -74,35 +74,35 @@ Für **Fachanwalt Arbeitsrecht Befristung Tzbfg, Fachanwalt Arbeitsrecht Bem Ver
 
 ```
 1. Schriftform § 14 Abs. 4 TzBfG
-   - Originale beider Parteien vor Beschäftigungsbeginn?
+ - Originale beider Parteien vor Beschäftigungsbeginn?
 2. Verlängerungen oder Neubefristung?
-   - Verlängerung iSd § 14 Abs. 2 S. 1 Hs. 2 TzBfG ist nur die nahtlose Anschluss-Befristung ohne inhaltliche Änderung.
+ - Verlängerung iSd § 14 Abs. 2 S. 1 Hs. 2 TzBfG ist nur die nahtlose Anschluss-Befristung ohne inhaltliche Änderung.
 3. Sachgrund oder sachgrundlos?
-   - Bei sachgrundlos: Vorbeschäftigung prüfen (BAG-Linie post-BVerfG).
-   - Bei Sachgrund: Stichhaltigkeit der konkreten Gründe.
+ - Bei sachgrundlos: Vorbeschäftigung prüfen (BAG-Linie post-BVerfG).
+ - Bei Sachgrund: Stichhaltigkeit der konkreten Gründe.
 4. Höchstdauer
-   - § 14 Abs. 2 TzBfG zwei Jahre / drei Verlängerungen.
-   - Tarifvertragliche Abweichungen § 14 Abs. 2 S. 3, 4 TzBfG.
+ - § 14 Abs. 2 TzBfG zwei Jahre / drei Verlängerungen.
+ - Tarifvertragliche Abweichungen § 14 Abs. 2 S. 3, 4 TzBfG.
 5. Klagefrist § 17 TzBfG
-   - Drei Wochen ab vereinbartem Ende.
+ - Drei Wochen ab vereinbartem Ende.
 6. Folge bei Unwirksamkeit
-   - Arbeitsverhältnis als unbefristet abgeschlossen.
-   - Kündigung nur nach KSchG.
+ - Arbeitsverhältnis als unbefristet abgeschlossen.
+ - Kündigung nur nach KSchG.
 ```
 
 ## Schreibvorlage (Befristungskontrollklage)
 
 ```
 An das Arbeitsgericht [Ort]
-[Anschrift]                                                          [Ort, Datum]
+[Anschrift] [Ort, Datum]
 
 In dem Rechtsstreit
 [Klagepartei] ./. [Beklagte]
-                              - wegen Befristungskontrolle -
+ - wegen Befristungskontrolle -
 
 erheben wir namens und in Vollmacht der Klagepartei
 
-                          Befristungskontrollklage
+ Befristungskontrollklage
 
 und beantragen,
 
@@ -146,7 +146,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-arbeitsrecht-bem-verfahren`
 
-**Fokus:** Workflow-Skill zu fachanwalt arbeitsrecht bem verfahren. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt arbeitsrecht bem verfahren: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # BEM-Verfahren § 167 II SGB IX
 
@@ -319,7 +319,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Zweck
 Präzise Fristberechnung, wenn das genaue Zugangsdatum der Kündigung unsicher ist — für die Klagefrist (§ 4 KSchG: 3 Wochen) und für die Berechnung der Kündigungsfrist (§ 622 BGB). Worst-Case-Strategie und Sicherheitspolster für die anwaltliche Praxis.
 
-## Kaltstart
+## Einstieg
 Wenn ein Sachverhalt vorliegt, zuerst die Zeitachse klären:
 
 1. **Was ist gesichert?** Datum der Kündigung (auf dem Schreiben), Datum der Zustellung (behauptet), Datum der tatsächlichen Kenntnisnahme?

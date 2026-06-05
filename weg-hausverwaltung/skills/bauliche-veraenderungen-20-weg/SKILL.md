@@ -34,20 +34,20 @@ Bauliche Veränderungen so prüfen, dass Anspruch, Gestattung und Kostenfolge ni
 
 1. **Maßnahme beschreiben** und betroffenes Eigentum klären (Gemeinschafts-/Sondereigentum, Sondernutzungsrecht).
 2. **Privilegierte Maßnahme** nach § 20 Abs. 2 WEG?
-   - Nr. 1: Laden elektrisch betriebener Fahrzeuge (Wallbox).
-   - Nr. 2: Barrierefreier Aus- und Umbau.
-   - Nr. 3: Einbruchsschutz.
-   - Nr. 4: Glasfaseranschluss.
-   - Nr. 5: Steckersolargerät (Balkonkraftwerk).
-   - Rechtsfolge: Anspruch auf Gestattung, "Wie" durch Beschluss regelbar.
+ - Nr. 1: Laden elektrisch betriebener Fahrzeuge (Wallbox).
+ - Nr. 2: Barrierefreier Aus- und Umbau.
+ - Nr. 3: Einbruchsschutz.
+ - Nr. 4: Glasfaseranschluss.
+ - Nr. 5: Steckersolargerät (Balkonkraftwerk).
+ - Rechtsfolge: Anspruch auf Gestattung, "Wie" durch Beschluss regelbar.
 3. **Grenze § 20 Abs. 4 WEG**: grundlegende Umgestaltung der Wohnanlage oder unbillige Benachteiligung einzelner Eigentümer?
-   - Bei Gestattung zählen **unmittelbare** Auswirkungen der baulichen Veränderung (BGH, Urteil vom 28.03.2025, V ZR 105/24 — Klimasplitgerät am Penthouse). Spätere Nutzungsauswirkungen (Lärm, Geruch) bleiben grundsätzlich außen vor, es sei denn, die unbillige Benachteiligung ist bereits jetzt evident. (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=28.03.2025&Aktenzeichen=V+ZR+105/24)
-   - Wand-/Fassadendurchbrüche sind nicht per se beeinträchtigend; Einzelfallabwägung (BGH, Urteil vom 14.02.2025, V ZR 86/24). (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+86/24)
+ - Bei Gestattung zählen **unmittelbare** Auswirkungen der baulichen Veränderung (BGH, Urteil vom 28.03.2025, V ZR 105/24 — Klimasplitgerät am Penthouse). Spätere Nutzungsauswirkungen (Lärm, Geruch) bleiben grundsätzlich außen vor, es sei denn, die unbillige Benachteiligung ist bereits jetzt evident. (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=28.03.2025&Aktenzeichen=V+ZR+105/24)
+ - Wand-/Fassadendurchbrüche sind nicht per se beeinträchtigend; Einzelfallabwägung (BGH, Urteil vom 14.02.2025, V ZR 86/24). (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+86/24)
 4. **Ausführung**: Fachbetrieb, Sicherheit, Statik, Brandschutz, Optik, Wartung, Versicherung, Rückbau bei Veräußerung/Nutzungsende.
 5. **Kostenfolge nach § 21 WEG** sauber von der Gestattung trennen:
-   - Verlangender trägt grundsätzlich (§ 21 Abs. 1 WEG).
-   - Bei Beschluss mit Zweidrittelmehrheit und mehr als der Hälfte der MEA (§ 21 Abs. 2 Nr. 1 WEG): alle Eigentümer; entgegenstehende Eigentümer können nicht zur Kostentragung gezwungen werden, wenn Maßnahme nicht amortisierbar.
-   - Bei Maßnahme nach § 20 Abs. 2 WEG (privilegiert): nur die nutzenden Eigentümer (§ 21 Abs. 1, Abs. 3 WEG).
+ - Verlangender trägt grundsätzlich (§ 21 Abs. 1 WEG).
+ - Bei Beschluss mit Zweidrittelmehrheit und mehr als der Hälfte der MEA (§ 21 Abs. 2 Nr. 1 WEG): alle Eigentümer; entgegenstehende Eigentümer können nicht zur Kostentragung gezwungen werden, wenn Maßnahme nicht amortisierbar.
+ - Bei Maßnahme nach § 20 Abs. 2 WEG (privilegiert): nur die nutzenden Eigentümer (§ 21 Abs. 1, Abs. 3 WEG).
 6. **Beschlusswortlaut mit Auflagen** (siehe Muster unten).
 7. **Vermieter-Konstellation** beachten: Bei Maßnahmen des Mieters ohne Gestattungsbeschluss kann der vermietende Eigentümer mittelbarer Handlungsstörer sein (BGH, Urteil vom 21.03.2025, V ZR 1/24). Verwalter sollte vermietende Eigentümer im Vorfeld auf das Beschlusserfordernis hinweisen. (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.03.2025&Aktenzeichen=V+ZR+1/24)
 

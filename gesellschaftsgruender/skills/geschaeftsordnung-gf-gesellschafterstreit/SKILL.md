@@ -1,13 +1,13 @@
 ---
 name: geschaeftsordnung-gf-gesellschafterstreit
-description: "Nutze dies, wenn Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Geschaeftsordnung Gf, Gesellschaftsgruender Gesellschafterstreit Eilantraege, Gesellschaftsgruender Gesellschaftervereinbarung, Gesellschaftsgruender Gf Meeting Templates: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Geschaeftsordnung Gf, Gesellschaftsgründer Gesellschafterstreit Eilantraege, Gesellschaftsgründer Gesellschaftervereinbarung, Gesellschaftsgründer Gf Meeting Templates, Gesellschaftsgründer Ggmbh Gemeinnuetzigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -109,16 +109,16 @@ der Geschaeftsfuehrung der Gesellschaft.
 
 § 3 Zustimmungspflichtige Geschaefte
 (a) Zustimmung aller GF erforderlich:
-  - Investitionen > [BETRAG] EUR
-  - Personalentscheidungen: Gehalt > [BETRAG] EUR p.a.
-  - Vertraege mit Laufzeit > [N] Jahre
-  - Kreditaufnahme > [BETRAG] EUR
+ - Investitionen > [BETRAG] EUR
+ - Personalentscheidungen: Gehalt > [BETRAG] EUR p.a.
+ - Vertraege mit Laufzeit > [N] Jahre
+ - Kreditaufnahme > [BETRAG] EUR
 
 (b) Zustimmung der Gesellschafterversammlung erforderlich:
-  - Investitionen > [BETRAG] EUR
-  - Veraeusserung wesentlicher Aktiva (> 20 % Bilanz)
-  - Beteiligungen an anderen Gesellschaften
-  - Kreditaufnahme > [BETRAG] EUR
+ - Investitionen > [BETRAG] EUR
+ - Veraeusserung wesentlicher Aktiva (> 20 % Bilanz)
+ - Beteiligungen an anderen Gesellschaften
+ - Kreditaufnahme > [BETRAG] EUR
 
 § 4 Meeting-Rhythmus
 (1) GF-Meeting: woechentlich [WOCHENTAG] [UHRZEIT]
@@ -240,7 +240,7 @@ Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefange
 ## Prüfschema: Eilrechtsschutz bei Gesellschafterstreit
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -420,7 +420,7 @@ Begründung:
 Der Beschluss der Gesellschafterversammlung vom [Datum] ist anfechtbar, weil:
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. Das Stimmverbot nach § 47 Abs. 4 GmbHG nicht beachtet wurde (Gesellschafter
-   [Name] hat trotz Stimmverbots abgestimmt; Protokoll-Anlage A).
+ [Name] hat trotz Stimmverbots abgestimmt; Protokoll-Anlage A).
 
 Die Anfechtungsklage ist beim LG [Ort] erhoben worden (Anlage B: Klageschrift).
 
@@ -460,7 +460,7 @@ Es wird beantragt, festzustellen, dass der von der Gesellschafterversammlung der
 Beklagten am [Datum] unter TOP [N] gefasste Beschluss über die Kapitalerhöhung um
 [X] EUR mit Bezugsrechtsausschluss zugunsten der [Investor GmbH]
 
-        n i c h t i g     ist,
+ n i c h t i g ist,
 
 hilfsweise:
 
@@ -616,16 +616,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 § [X] Vesting und Leaver-Regelungen
 
 (1) Die Anteile der Gründer ([Name 1], [Name 2]) unterliegen folgendem Vesting:
-    - Cliff-Periode: 12 Monate ab Unterzeichnung
-    - Nach Cliff: 25 % der Anteile unverzüglich vested
-    - Danach: monatlich 1/48 der Gesamt-Anteile, über weitere 36 Monate
+ - Cliff-Periode: 12 Monate ab Unterzeichnung
+ - Nach Cliff: 25 % der Anteile unverzüglich vested
+ - Danach: monatlich 1/48 der Gesamt-Anteile, über weitere 36 Monate
 
 (2) Im Fall des Ausscheidens vor vollständigem Vesting:
-    a) Good-Leaver-Situation: [Aufzählung Good-Leaver-Gruende]
-       Gründer behält vested Anteile; non-vested Anteile werden zum Verkehrswert
-       eingezogen. Verkehrswert = [Formel oder: fairer Marktwert laut Wirtschaftsprüfer].
-    b) Bad-Leaver-Situation: [Aufzählung Bad-Leaver-Gruende]
-       Non-vested Anteile werden zum Nominalwert eingezogen.
+ a) Good-Leaver-Situation: [Aufzählung Good-Leaver-Gruende]
+ Gründer behält vested Anteile; non-vested Anteile werden zum Verkehrswert
+ eingezogen. Verkehrswert = [Formel oder: fairer Marktwert laut Wirtschaftsprüfer].
+ b) Bad-Leaver-Situation: [Aufzählung Bad-Leaver-Gruende]
+ Non-vested Anteile werden zum Nominalwert eingezogen.
 
 (3) Die Einziehung erfolgt gemäß § [Y] des Gesellschaftsvertrages (§ 34 GmbHG).
 ```
@@ -636,16 +636,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 § [X] Mitziehverpflichtung (Drag-Along)
 
 (1) Sofern Gesellschafter, die zusammen mehr als 75 % der Stimmrechte halten
-    (Dragging Shareholders), einen Verkauf sämtlicher Anteile an einen Dritten
-    beschliessen, sind alle übrigen Gesellschafter verpflichtet, ihre Anteile
-    unter denselben Konditionen und zum gleichen Preis an denselben Käufer zu
-    veräussern (Mitziehverpflichtung).
+ (Dragging Shareholders), einen Verkauf sämtlicher Anteile an einen Dritten
+ beschliessen, sind alle übrigen Gesellschafter verpflichtet, ihre Anteile
+ unter denselben Konditionen und zum gleichen Preis an denselben Käufer zu
+ veräussern (Mitziehverpflichtung).
 
 (2) Die Dragging Shareholders müssen den übrigen Gesellschaftern mindestens
-    [30] Tage vor dem Verkauf schriftlich Mitteilung machen.
+ [30] Tage vor dem Verkauf schriftlich Mitteilung machen.
 
 (3) Alle Gesellschafter erhalten denselben Preis pro Anteil und dieselben
-    Gewährleistungs- und Haftungsbedingungen.
+ Gewährleistungs- und Haftungsbedingungen.
 ```
 
 ## Schritt-für-Schritt-Workflow
@@ -774,9 +774,9 @@ Liebe Kolleginnen und Kollegen,
 
 hiermit lade ich zum wöchentlichen GF-Meeting ein:
 
-Datum:     [Wochentag], [Datum]
-Uhrzeit:   [Uhrzeit]
-Ort:       Videokonferenz [Link] / Konferenzraum [Ort]
+Datum: [Wochentag], [Datum]
+Uhrzeit: [Uhrzeit]
+Ort: Videokonferenz [Link] / Konferenzraum [Ort]
 Teilnehmer: [Namen, Funktionen]
 
 TAGESORDNUNG
@@ -802,9 +802,9 @@ Dear colleagues,
 
 I hereby invite you to the weekly management meeting:
 
-Date:      [Day], [Date]
-Time:      [Time] CET
-Location:  Video conference [Link] / Conference room [Location]
+Date: [Day], [Date]
+Time: [Time] CET
+Location: Video conference [Link] / Conference room [Location]
 Attendees: [Names, Functions]
 
 AGENDA
@@ -853,7 +853,7 @@ TOP 2: [TITEL]
 
 OFFENE PUNKTE (TODO)
 Nr. | Punkt | Owner | Frist | Priorität
-1  | [Punkt] | [Name] | [Datum] | [hoch/mittel/niedrig]
+1 | [Punkt] | [Name] | [Datum] | [hoch/mittel/niedrig]
 
 NÄCHSTES MEETING: [Datum]
 

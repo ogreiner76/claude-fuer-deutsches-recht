@@ -1,13 +1,13 @@
 ---
 name: anwaelte-werbung-google-aktenherausgabe
-description: "Nutze dies, wenn Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck im Plugin Berufsrecht Anwaelte konkret bearbeitet werden soll. Auslöser: Bitte Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck prüfen.; Erstelle eine Arbeitsfassung zu Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaelte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwaelte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwaelte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwaelte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwälte Werbung Google Ads Und Linkedin Kaltstart Und Faktenma, Anwälte Aktenherausgabe Und Zurueckbehaltung Rechtsprechungsch, Anwälte Anwaltliche Nebentaetigkeit Rechtsprechungscheck Und R, Anwälte Anwaltsgerichtliche Anschuldigung Rechtsprechungscheck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

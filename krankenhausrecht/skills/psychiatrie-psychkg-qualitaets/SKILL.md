@@ -1,20 +1,20 @@
 ---
 name: psychiatrie-psychkg-qualitaets
-description: "Nutze dies, wenn Psychiatrie Psychkg Unterbringung Fixierung, Qualitaets Und Strukturvorgaben Intake, Qualitaetsbericht Veroeffentlichungspflichten im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Psychiatrie Psychkg Unterbringung Fixierung, Qualitaets Und Strukturvorgaben Intake, Qualitaetsbericht Veroeffentlichungspflichten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Psychiatrie Psychkg Unterbringung Fixierung, Qualitaets Und Strukturvorgaben Intake, Qualitaetsbericht Veroeffentlichungspflichten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Psychiatrie Psychkg Unterbringung Fixierung, Qualitaets Und Strukturvorgaben Intake, Qualitaetsbericht Veroeffentlichungspflichten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `psychiatrie-psychkg-unterbringung-fixierung` | Psychiatrie PsychKG Unterbringung Fixierung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
-| `qualitaets-und-strukturvorgaben-intake` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Qualitäts- und Strukturvorgaben Intake. |
+| `qualitaets-und-strukturvorgaben-intake` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Qualitäts- und Strukturvorgaben Intake. |
 | `qualitaetsbericht-veroeffentlichungspflichten` | Qualitätsbericht Veröffentlichungspflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
 
 ## Arbeitsweg
@@ -71,7 +71,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `qualitaets-und-strukturvorgaben-intake`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Qualitäts- und Strukturvorgaben Intake.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Qualitäts- und Strukturvorgaben Intake.
 
 # Qualitäts- und Strukturvorgaben Intake
 

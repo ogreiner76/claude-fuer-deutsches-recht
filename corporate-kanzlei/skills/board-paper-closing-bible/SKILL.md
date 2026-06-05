@@ -1,13 +1,13 @@
 ---
 name: board-paper-closing-bible
-description: "Nutze dies, wenn Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv im Plugin Corporate Kanzlei konkret bearbeitet werden soll. Auslöser: Bitte Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv prüfen.; Erstelle eine Arbeitsfassung zu Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Corporate Kanzlei Board Paper Business Judgment, Corporate Kanzlei Closing Bible Archiv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -105,49 +105,49 @@ Vertraulichkeitsstufe: [Intern / Streng vertraulich]
 Organ: [Vorstand / Geschäftsführung / Aufsichtsrat]
 
 1. EXECUTIVE SUMMARY
-   Empfehlung: [Handlungsempfehlung in 2–3 Sätzen]
-   Entscheidungsbedarf bis: [Datum]
-   Freigabeerfordernis: [AR-Zustimmung / keine / GV-Beschluss]
+ Empfehlung: [Handlungsempfehlung in 2–3 Sätzen]
+ Entscheidungsbedarf bis: [Datum]
+ Freigabeerfordernis: [AR-Zustimmung / keine / GV-Beschluss]
 
 2. SACHVERHALT
-   [Ausgangssituation; Anlass; wesentliche Fakten]
+ [Ausgangssituation; Anlass; wesentliche Fakten]
 
 3. RECHTLICHE RAHMENBEDINGUNGEN
-   [Normen; Zustimmungsvorbehalte; Legalitätsrisiken]
+ [Normen; Zustimmungsvorbehalte; Legalitätsrisiken]
 
 4. ALTERNATIVEN
-   | Alternative | Vorteile | Nachteile | Risikobewertung |
-   |-------------|----------|-----------|-----------------|
-   | A: [Option] | [Pro]    | [Con]     | [Hoch/Mittel/Niedrig] |
-   | B: [Option] | [Pro]    | [Con]     | [Hoch/Mittel/Niedrig] |
-   | C: Status quo | [Pro] | [Con]    | [Hoch/Mittel/Niedrig] |
+ | Alternative | Vorteile | Nachteile | Risikobewertung |
+ |-------------|----------|-----------|-----------------|
+ | A: [Option] | [Pro] | [Con] | [Hoch/Mittel/Niedrig] |
+ | B: [Option] | [Pro] | [Con] | [Hoch/Mittel/Niedrig] |
+ | C: Status quo | [Pro] | [Con] | [Hoch/Mittel/Niedrig] |
 
 5. INFORMATIONSGRUNDLAGE
-   - Externe Berater: [Kanzlei, Mandat-Nr., Datum]
-   - DD-Bericht: [Titel, Version, Datum]
-   - Interne Fachbereiche: [Bericht, Datum]
-   - Gutachten: [Gutachter, Datum]
-   [Hinweis auf KI-Nutzung bei Analyse sofern eingesetzt:
-    Tool, Zweck, Plausibilisierung durch wen]
+ - Externe Berater: [Kanzlei, Mandat-Nr., Datum]
+ - DD-Bericht: [Titel, Version, Datum]
+ - Interne Fachbereiche: [Bericht, Datum]
+ - Gutachten: [Gutachter, Datum]
+ [Hinweis auf KI-Nutzung bei Analyse sofern eingesetzt:
+ Tool, Zweck, Plausibilisierung durch wen]
 
 6. RISIKEN UND RISIKOABWÄGUNG
-   | Risiko | Eintrittswahrsch. | Schaden | Minderung |
-   |--------|-------------------|---------|-----------|
-   | [Risiko 1] | [%] | [EUR] | [Maßnahme] |
+ | Risiko | Eintrittswahrsch. | Schaden | Minderung |
+ |--------|-------------------|---------|-----------|
+ | [Risiko 1] | [%] | [EUR] | [Maßnahme] |
 
 7. EMPFEHLUNG
-   [Klare Empfehlung mit Begründung]
-   Owner: [Name/Funktion]
-   Zeitplan: [Meilensteine]
+ [Klare Empfehlung mit Begründung]
+ Owner: [Name/Funktion]
+ Zeitplan: [Meilensteine]
 
 8. OFFENE PUNKTE (TODO)
-   | Nr. | Punkt | Owner | Frist | Eskalation |
-   |----|-------|-------|-------|------------|
-   | 1  | [Punkt] | [Name] | [Datum] | [Stufe] |
+ | Nr. | Punkt | Owner | Frist | Eskalation |
+ |----|-------|-------|-------|------------|
+ | 1 | [Punkt] | [Name] | [Datum] | [Stufe] |
 
 9. ANLAGEN
-   - [Anlage 1: Beschreibung]
-   - [Anlage 2: Beschreibung]
+ - [Anlage 1: Beschreibung]
+ - [Anlage 2: Beschreibung]
 
 Erstellungsdatum: [Datum]
 Version: [Nr.]
@@ -378,7 +378,7 @@ Voraussichtliche Eintragung: [Datum]
 OFFENE PUNKTE NACH CLOSING:
 | Nr. | Punkt | Owner | Frist |
 |-----|-------|-------|-------|
-| 1   | [Punkt] | [Name] | [Datum] |
+| 1 | [Punkt] | [Name] | [Datum] |
 
 Erstellt von: [KANZLEI]
 ```

@@ -1,6 +1,6 @@
 ---
 name: forderungsmanagement
-description: "Nutze dies, wenn Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage prüfen.; Erstelle eine Arbeitsfassung zu Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage

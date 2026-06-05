@@ -57,16 +57,16 @@ Eine isolierte SuSa zeigt nur den Stichtag. Erst die Gegenueberstellung mit Vorm
 
 ```
 SUSA-VERGLEICH (Auszug)
-Konto  Bezeichnung      Aktuell  Vormonat  Diff  Vorjahres-Periode  Diff
-1200   Bank             [X]      [Y]       [Z]   [A]                [B]
-1400   Forderungen      [X]      [Y]       [Z]   [A]                [B]
-1500   Verbindl. LuL    [X]      [Y]       [Z]   [A]                [B]
-1576   Vorsteuer 19     [X]      [Y]       [Z]   [A]                [B]
-1776   USt 19           [X]      [Y]       [Z]   [A]                [B]
-2000   Eigenkapital     [X]      [Y]       [Z]   [A]                [B]
-4000   Erloese 19       [X]      [Y]       [Z]   [A]                [B]
-5000   Wareneingang 19  [X]      [Y]       [Z]   [A]                [B]
-6100   Lohn             [X]      [Y]       [Z]   [A]                [B]
+Konto Bezeichnung Aktuell Vormonat Diff Vorjahres-Periode Diff
+1200 Bank [X] [Y] [Z] [A] [B]
+1400 Forderungen [X] [Y] [Z] [A] [B]
+1500 Verbindl. LuL [X] [Y] [Z] [A] [B]
+1576 Vorsteuer 19 [X] [Y] [Z] [A] [B]
+1776 USt 19 [X] [Y] [Z] [A] [B]
+2000 Eigenkapital [X] [Y] [Z] [A] [B]
+4000 Erloese 19 [X] [Y] [Z] [A] [B]
+5000 Wareneingang 19 [X] [Y] [Z] [A] [B]
+6100 Lohn [X] [Y] [Z] [A] [B]
 ...
 ```
 
@@ -90,16 +90,16 @@ Konto  Bezeichnung      Aktuell  Vormonat  Diff  Vorjahres-Periode  Diff
 ```
 AUFFAELLIGKEITS-LISTE
 1. Konto 4000 (Erloese 19): aktueller Monat [X] Soll-Saldo vs. Habensaldo Vormonat.
-   Ursache vermuten: Gutschriften nicht erfasst?
-   Klaerung: Belege durchsehen.
+ Ursache vermuten: Gutschriften nicht erfasst?
+ Klaerung: Belege durchsehen.
 
 2. Konto 1590 (Verrechnungskonto): Saldo 12.500 EUR — kein Abbau.
-   Ursache vermuten: nicht zugeordnete Bankbewegungen.
-   Klaerung: GVC-Buchungen nachverfolgen.
+ Ursache vermuten: nicht zugeordnete Bankbewegungen.
+ Klaerung: GVC-Buchungen nachverfolgen.
 
 3. Konto 6020 (Loehne): Anstieg 38 Prozent vs. Vorjahres-Monat.
-   Ursache vermuten: neue Mitarbeiter oder Sonderzahlung.
-   Klaerung: mit Lohnabrechnung abgleichen.
+ Ursache vermuten: neue Mitarbeiter oder Sonderzahlung.
+ Klaerung: mit Lohnabrechnung abgleichen.
 ```
 
 ### Phase 6 — Korrektur und Reporting

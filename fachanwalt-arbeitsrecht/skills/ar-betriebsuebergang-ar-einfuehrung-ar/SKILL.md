@@ -1,20 +1,20 @@
 ---
 name: ar-betriebsuebergang-ar-einfuehrung-ar
-description: "Nutze dies, wenn Ar Betriebsuebergang Spezial, Ar Einfuehrung Mandantenanliegen, Ar Leiharbeit Equal Pay Spezial im Plugin Fachanwalt Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Ar Betriebsuebergang Spezial, Ar Einfuehrung Mandantenanliegen, Ar Leiharbeit Equal Pay Spezial prüfen.; Erstelle eine Arbeitsfassung zu Ar Betriebsuebergang Spezial, Ar Einfuehrung Mandantenanliegen, Ar Leiharbeit Equal Pay Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ar Betriebsuebergang Spezial, Ar Einfuehrung Mandantenanliegen, Ar Leiharbeit Equal Pay Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ar Betriebsuebergang Spezial, Ar Einfuehrung Mandantenanliegen, Ar Leiharbeit Equal Pay Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ar Betriebsuebergang Spezial, Ar Einfuehrung Mandantenanliegen, Ar Leiharbeit Equal Pay Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `ar-betriebsuebergang-spezial` | Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs. Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen, Tarif- und Betriebsvereinbarungskontinuität. |
-| `ar-einfuehrung-mandantenanliegen` | Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Spezial-Skills. Erstgesprächs-Checkliste. |
+| `ar-einfuehrung-mandantenanliegen` | Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Fachmodule. Erstgesprächs-Checkliste. |
 | `ar-leiharbeit-equal-pay-spezial` | Leiharbeit: Equal-Pay-Anspruch § 8 AÜG, Überlassungshöchstdauer 18 Monate § 1 Abs. 1b AÜG, Verbot verdeckter Arbeitnehmerüberlassung, Arbeitsverhältnis kraft Gesetzes § 10 AÜG, Gleichbehandlungsgrundsatz und tarifliche Abweichungsmöglichkeit. |
 
 ## Arbeitsweg
@@ -42,7 +42,7 @@ Für **Ar Betriebsuebergang Spezial, Ar Einfuehrung Mandantenanliegen, Ar Leihar
 ## Zweck
 Vertiefte Prüfung des Betriebsübergangs — von der Identitätsfrage über das Unterrichtungsschreiben bis zur Widerspruchsstrategie und den Folgen für Tarif- und Betriebsvereinbarungen. Besondere Bedeutung im M&A-Kontext (Asset-Deal).
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen (Kaufvertrag, Unterrichtungsschreiben, Arbeitsverträge) vorliegen, diese zuerst auswerten. Minimalfragen:
 
 1. **Transaktionsstruktur:** Asset-Deal (Übergang des Betriebs/Betriebsteils) oder Share-Deal (Gesellschafterebene, kein § 613a BGB)?
@@ -146,7 +146,7 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 
 ## 2. `ar-einfuehrung-mandantenanliegen`
 
-**Fokus:** Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Spezial-Skills. Erstgesprächs-Checkliste.
+**Fokus:** Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Fachmodule. Erstgesprächs-Checkliste.
 
 # AR: Einführung — Typische Mandantenanliegen
 
@@ -160,7 +160,7 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 
 
 ## Zweck
-Dieser Skill dient als Eingangsrouter und Orientierungshilfe. Er klassifiziert das Mandantenanliegen, benennt die einschlägigen Normen und Fristen auf einer ersten Ebene und leitet in die passenden Spezial-Skills weiter. Er ist kein Ersatz für die Spezialskills, sondern deren Startpunkt.
+Dieser Skill dient als Eingangsrouter und Orientierungshilfe. Er klassifiziert das Mandantenanliegen, benennt die einschlägigen Normen und Fristen auf einer ersten Ebene und leitet in die passenden Fachmodule weiter. Er ist kein Ersatz für die Fachmodule, sondern deren Startpunkt.
 
 ## Kaltstart — Erste Weichen
 Wenn Unterlagen (Kündigung, Vertrag, Zeugnis, Bescheid) vorliegen, diese zuerst auswerten.
@@ -242,7 +242,7 @@ Wenn Unterlagen (Kündigung, Vertrag, Zeugnis, Bescheid) vorliegen, diese zuerst
 | 2 Wochen außerordentliche Kündigung | § 626 Abs. 2 BGB | Fristablauf für Arbeitgeber |
 
 ## Anschluss-Skills
-Alle Spezial-Skills des Plugins stehen für die jeweiligen Themen bereit. Nach Klassifikation direkt in den passenden Skill wechseln und dort die fachliche Tiefe aktivieren.
+Alle Fachmodule des Plugins stehen für die jeweiligen Themen bereit. Nach Klassifikation direkt in den passenden Skill wechseln und dort die fachliche Tiefe aktivieren.
 
 ## Quellenregel
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
@@ -271,7 +271,7 @@ Alle Spezial-Skills des Plugins stehen für die jeweiligen Themen bereit. Nach K
 ## Zweck
 Vertiefte Prüfung von Leiharbeitsverhältnissen — vom Equal-Pay-Anspruch über die Überlassungshöchstdauer bis zur Frage, ob ein faktisches Arbeitsverhältnis zum Entleiher entstanden ist.
 
-## Kaltstart
+## Einstieg
 Wenn Unterlagen (Überlassungsvertrag, Arbeitsvertrag, Einsatzplan) vorliegen, diese zuerst auswerten. Minimalfragen:
 
 1. **Rolle:** Leiharbeitnehmer (Ansprüche, Statusfeststellung) oder Entleiher/Verleiher (Compliance, Gestaltung)?

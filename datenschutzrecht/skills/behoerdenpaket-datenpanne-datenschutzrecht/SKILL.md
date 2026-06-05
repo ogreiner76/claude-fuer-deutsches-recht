@@ -1,13 +1,13 @@
 ---
 name: behoerdenpaket-datenpanne-datenschutzrecht
-description: "Nutze dies, wenn Spezial Behoerdenpaket Zahlen Schwellen Und Berechnung, Spezial Datenpanne Schriftsatz Brief Und Memo Bausteine, Spezial Datenschutzrecht Compliance Dokumentation Und Akte, Spezial Dpia Dokumentenmatrix Und Lueckenliste, Spezial Drittlandstransfer Verhandlung Vergleich Und Eskalation im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Behoerdenpaket Zahlen Schwellen Und Berechnung, Spezial Datenpanne Schriftsatz Brief Und Memo Bausteine, Spezial Datenschutzrecht Compliance Dokumentation Und Akte, Spezial Dpia Dokumentenmatrix Und Lueckenliste, Spezial Drittlandstransfer Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Behoerdenpaket Zahlen Schwellen Und Berechnung, Spezial Datenpanne Schriftsatz Brief Und Memo Bausteine, Spezial Datenschutzrecht Compliance Dokumentation Und Akte, Spezial Dpia Dokumentenmatrix Und Lueckenliste, Spezial Drittlandstransfer Verhandlung Vergleich Und Eskalation.; Welche..."
+description: "Nutze dies bei Behoerdenpaket Zahlen Schwellen Und Berechnung, Datenpanne Schriftsatz Brief Und Memo Bausteine, Datenschutzrecht Compliance Dokumentation Und Akte, Dpia Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Behoerdenpaket Zahlen Schwellen Und Berechnung, Spezial Datenpanne Schriftsatz Brief Und Memo Bausteine, Spezial Datenschutzrecht Compliance Dokumentation Und Akte, Spezial Dpia Dokumentenmatrix Und Lueckenliste, Spezial Drittlandstransfer Verhandlung Vergleich Und Eskalation
+# Behoerdenpaket Zahlen Schwellen Und Berechnung, Datenpanne Schriftsatz Brief Und Memo Bausteine, Datenschutzrecht Compliance Dokumentation Und Akte, Dpia Dokumentenmatrix Und Lueckenliste, Drittlandstransfer Verhandlung Vergleich Und Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Behoerdenpaket Zahlen Schwellen Und Berechnung, Datenpanne Schriftsatz Brief Und Memo Bausteine, Datenschutzrecht Compliance Dokumentation Und Akte, Dpia Dokumentenmatrix Und Lueckenliste, Drittlandstransfer Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Behoerdenpaket Zahlen Schwellen Und Berechnung, Spezial Datenpanne Schriftsatz Brief Und Memo Bausteine, Spezial Datenschutzrecht Compliance Dokumentation Und Akte, Spezial Dpia Dokumentenmatrix Und Lueckenliste, Spezial Drittlandstransfer Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Behoerdenpaket Zahlen Schwellen Und Berechnung, Datenpanne Schriftsatz Brief Und Memo Bausteine, Datenschutzrecht Compliance Dokumentation Und Akte, Dpia Dokumentenmatrix Und Lueckenliste, Drittlandstransfer Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Spezial Behoerdenpaket Zahlen Schwellen Und Berechnung, Spezial Datenpann
 # Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung / spezial behoerdenpaket zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Behoerdenpaket: Zahlen, Schwellenwerte und Berechnung / behoerdenpaket zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine / spezial datenpanne schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine / datenpanne schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -128,7 +128,7 @@ Vorzeitige Übermeldung ist meist sicherer als unterlassene Meldung — die Risi
 # Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk / spezial datenschutzrecht compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Datenschutzrecht: Compliance-Dokumentation und Aktenvermerk / datenschutzrecht compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -169,7 +169,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Dpia: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Dpia: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Dpia: Dokumentenmatrix, Lückenliste und Nachforderung / spezial dpia dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Dpia: Dokumentenmatrix, Lückenliste und Nachforderung / dpia dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -210,7 +210,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Drittlandstransfer: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Drittlandstransfer: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Drittlandstransfer: Verhandlung, Vergleich und Eskalation / spezial drittlandstransfer verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Drittlandstransfer: Verhandlung, Vergleich und Eskalation / drittlandstransfer verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

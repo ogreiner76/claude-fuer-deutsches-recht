@@ -45,7 +45,7 @@ Nicht dieser Skill ist primär, wenn die Verwaltungsauffassung bereits in einer 
 - **Wachstumschancengesetz** – steuerliche Begleitvorschriften zu Sanierung; Stand 06/2026 prüfen.
 - **AO-Anwendungserlass** zu § 42 AO und § 89 AO.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 **Phase 1 – Verwaltungsanweisungen aktuell halten:**
 
@@ -121,10 +121,10 @@ Drei Beobachtungen zur strategischen BMF-Ankoppelung:
 
 - Plugin `steuerrecht-anwalt-und-berater`: Detailberatung BMF-Schreiben.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
-  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+ - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
+ - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
+ - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
+ - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
 
 ## Quellen Stand 06/2026
 

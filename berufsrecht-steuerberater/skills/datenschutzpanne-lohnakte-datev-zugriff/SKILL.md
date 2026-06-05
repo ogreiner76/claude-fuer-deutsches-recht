@@ -1,13 +1,13 @@
 ---
 name: datenschutzpanne-lohnakte-datev-zugriff
-description: "Nutze dies, wenn Steuerberater Datenschutzpanne Lohnakte Organisationspflicht Un, Steuerberater Datev Zugriff Nach Mandatsende Kammerantwort Und, Steuerberater Datev Zugriff Nach Mandatsende Organisationspflic, Steuerberater Fachberaterbezeichnung Kammerantwort Und Verfahre im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Datenschutzpanne Lohnakte Organisationspflicht Un, Steuerberater Datev Zugriff Nach Mandatsende Kammerantwort Und, Steuerberater Datev Zugriff Nach Mandatsende Organisationspflic, Steuerberater Fachberaterbezeichnung Kammerantwort Und Verfahre prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Datenschutzpanne Lohnakte Organisationspflicht Un, Steuerberater Datev Zugriff Nach Mandatsende Kammerantwort Und, Steuerberater Datev Zugriff Nach Mandatsende Organisationspflic, Steuerberater Fachberaterbezeichnung Kammerantwort Und Verfahre.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Steuerberater Datenschutzpanne Lohnakte Organisationspflicht Un, Steuerberater Datev Zugriff Nach Mandatsende Kammerantwort Und, Steuerberater Datev Zugriff Nach Mandatsende Organisationspflic, Steuerberater Fachberaterbezeichnung Kammerantwort Und Verfahre: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Datenschutzpanne Lohnakte Organisationspflicht Un, Steuerberater Datev Zugriff Nach Mandatsende Kammerantwort Und, Steuerberater Datev Zugriff Nach Mandatsende Organisationspflic, Steuerberater Fachberaterbezeichnung Kammerantwort Und Verfahre
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Datenschutzpanne Lohnakte Organisationspflicht Un, Steuerberater Datev Zugriff Nach Mandatsende Kammerantwort Und, Steuerberater Datev Zugriff Nach Mandatsende Organisationspflic, Steuerberater Fachberaterbezeichnung Kammerantwort Und Verfahre** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

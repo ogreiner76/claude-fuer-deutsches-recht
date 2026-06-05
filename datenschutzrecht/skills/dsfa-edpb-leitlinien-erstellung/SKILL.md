@@ -1,13 +1,13 @@
 ---
 name: dsfa-edpb-leitlinien-erstellung
-description: "Nutze dies, wenn Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi prüfen.; Erstelle eine Arbeitsfassung zu Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsfa Edpb Leitlinien 9 19 Anwendung, Dsfa Erstellung, Dsfa Für Internationale Datentransfers, Dsfa Für Ki Systeme Schnittstelle Art 26 Kivo, Dsfa Methodik Cnil Pia Vs Bsfd Bsi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -69,9 +69,9 @@ Strukturierte Anwendung der neun Kriterien der EDPB-/EDSA-Leitlinien WP 248 rev.
 3. **Risikoanalyse Kriterien.** Jedes der neun Kriterien einzeln pruefen und mit ja oder nein beantworten, jeweils mit kurzer Begruendung. Wo Grenzfaelle bestehen, das Pro und Contra dokumentieren.
 4. **Massnahmen.** Pruefen ob bereits geplante Massnahmen ein Kriterium so entkraeften, dass es nicht mehr greift (z. B. echte Anonymisierung statt Pseudonymisierung kann das Kriterium besondere Kategorien entfallen lassen).
 5. **Restrisiko / Schwellwert.** Zaehlung der erfuellten Kriterien:
-   - 0 Kriterien — DSFA voraussichtlich entbehrlich
-   - 1 Kriterium — Grenzfall, schriftliche Begruendung der Entscheidung
-   - 2 oder mehr Kriterien — DSFA zwingend
+ - 0 Kriterien — DSFA voraussichtlich entbehrlich
+ - 1 Kriterium — Grenzfall, schriftliche Begruendung der Entscheidung
+ - 2 oder mehr Kriterien — DSFA zwingend
 6. **Konsultation / Genehmigung.** Ergebnis dem DSB vorlegen; Aufsichtsbehoerde wird nur konsultiert, wenn nach DSFA hohes Restrisiko verbleibt (Art. 36 DSGVO).
 
 ## Mustertext / Template
@@ -82,16 +82,16 @@ WP-248-PRUEFUNG ZUR DSFA-PFLICHT [DATUM]
 Verarbeitung: [BEZEICHNUNG]
 Verantwortlicher: [NAME]
 
-Kriterium                                       | Erfuellt | Begruendung
-1 Scoring / Profiling / Prognose                | ja/nein  | [...]
-2 Automatisierte Entscheidung Art. 22 DSGVO     | ja/nein  | [...]
-3 Systematische Ueberwachung                    | ja/nein  | [...]
-4 Sensible Daten Art. 9 / Art. 10 DSGVO         | ja/nein  | [...]
-5 Verarbeitung in grossem Umfang                | ja/nein  | [...]
-6 Abgleich / Zusammenfuehrung                   | ja/nein  | [...]
-7 Schutzbeduerftige Personen                    | ja/nein  | [...]
-8 Neue Technologien                             | ja/nein  | [...]
-9 Verhinderung Rechtsausuebung                  | ja/nein  | [...]
+Kriterium | Erfuellt | Begruendung
+1 Scoring / Profiling / Prognose | ja/nein | [...]
+2 Automatisierte Entscheidung Art. 22 DSGVO | ja/nein | [...]
+3 Systematische Ueberwachung | ja/nein | [...]
+4 Sensible Daten Art. 9 / Art. 10 DSGVO | ja/nein | [...]
+5 Verarbeitung in grossem Umfang | ja/nein | [...]
+6 Abgleich / Zusammenfuehrung | ja/nein | [...]
+7 Schutzbeduerftige Personen | ja/nein | [...]
+8 Neue Technologien | ja/nein | [...]
+9 Verhinderung Rechtsausuebung | ja/nein | [...]
 
 Summe erfuellter Kriterien: [X] von 9
 
@@ -172,71 +172,71 @@ Vollständige Datenschutz-Folgenabschätzung nach Art. 35 DSGVO: von der Schwell
 
 1. **Schwellwertanalyse (Muss-DSFA-Prüfung).**
 
-   Art. 35 Abs. 1 DSGVO: DSFA erforderlich bei voraussichtlich hohem Risiko. Mindestens zwei der folgenden Kriterien aus EDSA-Leitlinien 09/2022 treffen zu:
+ Art. 35 Abs. 1 DSGVO: DSFA erforderlich bei voraussichtlich hohem Risiko. Mindestens zwei der folgenden Kriterien aus EDSA-Leitlinien 09/2022 treffen zu:
 
-   | Kriterium | Prüfung |
-   |---|---|
-   | Bewertung / Scoring | Ja / Nein |
-   | Automatisierte Entscheidung mit Rechtswirkung (Art. 22 DSGVO) | Ja / Nein |
-   | Systematische Überwachung | Ja / Nein |
-   | Verarbeitung sensibler Daten (Art. 9/10 DSGVO) | Ja / Nein |
-   | Verarbeitung großer Mengen oder im großen Umfang | Ja / Nein |
-   | Abgleich oder Zusammenführung von Datensätzen | Ja / Nein |
-   | Verarbeitung betreffend schutzbedürftige Personen (Kinder, Patienten) | Ja / Nein |
-   | Einsatz neuer Technologien (KI, Biometrie, IoT) | Ja / Nein |
-   | Verarbeitung verhindert Betroffenenrechte oder Dienstnutzung | Ja / Nein |
+ | Kriterium | Prüfung |
+ |---|---|
+ | Bewertung / Scoring | Ja / Nein |
+ | Automatisierte Entscheidung mit Rechtswirkung (Art. 22 DSGVO) | Ja / Nein |
+ | Systematische Überwachung | Ja / Nein |
+ | Verarbeitung sensibler Daten (Art. 9/10 DSGVO) | Ja / Nein |
+ | Verarbeitung großer Mengen oder im großen Umfang | Ja / Nein |
+ | Abgleich oder Zusammenführung von Datensätzen | Ja / Nein |
+ | Verarbeitung betreffend schutzbedürftige Personen (Kinder, Patienten) | Ja / Nein |
+ | Einsatz neuer Technologien (KI, Biometrie, IoT) | Ja / Nein |
+ | Verarbeitung verhindert Betroffenenrechte oder Dienstnutzung | Ja / Nein |
 
-   Art. 35 Abs. 3 DSGVO: In jedem Fall DSFA bei systematischer umfangreicher Verarbeitung besonderer Kategorien, umfangreicher Überwachung öffentlicher Bereiche, oder wenn auf der BfDI-Blacklist aufgeführt.
+ Art. 35 Abs. 3 DSGVO: In jedem Fall DSFA bei systematischer umfangreicher Verarbeitung besonderer Kategorien, umfangreicher Überwachung öffentlicher Bereiche, oder wenn auf der BfDI-Blacklist aufgeführt.
 
 2. **BfDI-Blacklist-Abgleich.**
-   Abgleich gegen die Blacklist des BfDI (§ 67 BDSG i.V.m. Art. 35 Abs. 4 DSGVO). `[Modellwissen – aktuellen Stand auf bfdi.bund.de prüfen]`
-   Typische Blacklist-Einträge: Biometrische Erfassungssysteme zur eindeutigen Identifizierung, Videoüberwachung öffentlicher Bereiche im großen Umfang, Scoring-Systeme für Kreditwürdigkeit, Gesundheitsdaten-Plattformen für Forschung.
+ Abgleich gegen die Blacklist des BfDI (§ 67 BDSG i.V.m. Art. 35 Abs. 4 DSGVO). `[Modellwissen – aktuellen Stand auf bfdi.bund.de prüfen]`
+ Typische Blacklist-Einträge: Biometrische Erfassungssysteme zur eindeutigen Identifizierung, Videoüberwachung öffentlicher Bereiche im großen Umfang, Scoring-Systeme für Kreditwürdigkeit, Gesundheitsdaten-Plattformen für Forschung.
 
-   BfDI-Whitelist (§ 67 Abs. 2 BDSG): Wenn Verarbeitungsart auf Whitelist, entfällt DSFA-Pflicht. `[Modellwissen – prüfen]`
+ BfDI-Whitelist (§ 67 Abs. 2 BDSG): Wenn Verarbeitungsart auf Whitelist, entfällt DSFA-Pflicht. `[Modellwissen – prüfen]`
 
 3. **Beschreibung der Verarbeitungstätigkeit (Art. 35 Abs. 7 lit. a DSGVO).**
-   - Zweck und Art der Verarbeitung
-   - Datenkategorien und betroffene Personengruppen
-   - Empfänger, Übermittlungen (inkl. Drittland)
-   - Aufbewahrungsfristen
-   - Technische Umgebung (Hosting, Sub-AVs)
-   - Eigentümer der Verarbeitung (Fachabteilung, Produkt)
+ - Zweck und Art der Verarbeitung
+ - Datenkategorien und betroffene Personengruppen
+ - Empfänger, Übermittlungen (inkl. Drittland)
+ - Aufbewahrungsfristen
+ - Technische Umgebung (Hosting, Sub-AVs)
+ - Eigentümer der Verarbeitung (Fachabteilung, Produkt)
 
 4. **Notwendigkeit und Verhältnismäßigkeit (Art. 35 Abs. 7 lit. b DSGVO).**
-   - Ist die Verarbeitung für den Zweck erforderlich (Erforderlichkeit)?
-   - Werden nicht mehr Daten verarbeitet als nötig (Datenminimierung Art. 5 Abs. 1 lit. c DSGVO)?
-   - Ist die Zweckbindung eingehalten (Art. 5 Abs. 1 lit. b DSGVO)?
-   - Ist die Rechtsgrundlage klar (Art. 6, 9 DSGVO)?
-   - Ist die Speicherfrist verhältnismäßig (Art. 5 Abs. 1 lit. e DSGVO)?
+ - Ist die Verarbeitung für den Zweck erforderlich (Erforderlichkeit)?
+ - Werden nicht mehr Daten verarbeitet als nötig (Datenminimierung Art. 5 Abs. 1 lit. c DSGVO)?
+ - Ist die Zweckbindung eingehalten (Art. 5 Abs. 1 lit. b DSGVO)?
+ - Ist die Rechtsgrundlage klar (Art. 6, 9 DSGVO)?
+ - Ist die Speicherfrist verhältnismäßig (Art. 5 Abs. 1 lit. e DSGVO)?
 
 5. **Risikoidentifikation und -bewertung (Art. 35 Abs. 7 lit. c DSGVO).**
-   Für jeden identifizierten Risikotyp: Eintrittswahrscheinlichkeit × Schwere des Schadens:
+ Für jeden identifizierten Risikotyp: Eintrittswahrscheinlichkeit × Schwere des Schadens:
 
-   | Risiko | Kategorie | Eintrittsws. | Schwere | Risikostufe |
-   |---|---|---|---|---|
-   | Unbefugter Zugriff | Vertraulichkeit | [hoch/mittel/gering] | [hoch/mittel/gering] | 🔴/🟠/🟡/🟢 |
-   | Datenverlust | Verfügbarkeit | … | … | … |
-   | Profiling ohne Kenntnis | Transparenz | … | … | … |
-   | Diskriminierung | Schaden Betroffener | … | … | … |
-   | Identitätsdiebstahl | Sicherheit | … | … | … |
+ | Risiko | Kategorie | Eintrittsws. | Schwere | Risikostufe |
+ |---|---|---|---|---|
+ | Unbefugter Zugriff | Vertraulichkeit | [hoch/mittel/gering] | [hoch/mittel/gering] | 🔴/🟠/🟡/🟢 |
+ | Datenverlust | Verfügbarkeit | … | … | … |
+ | Profiling ohne Kenntnis | Transparenz | … | … | … |
+ | Diskriminierung | Schaden Betroffener | … | … | … |
+ | Identitätsdiebstahl | Sicherheit | … | … | … |
 
-   Referenz: EDSA-Leitlinien 09/2022, Abschn. 6; ENISA-Leitfaden DSFA.
+ Referenz: EDSA-Leitlinien 09/2022, Abschn. 6; ENISA-Leitfaden DSFA.
 
 6. **Maßnahmen zur Risikominimierung (Art. 35 Abs. 7 lit. d DSGVO).**
-   Für jedes Risiko ≥ 🟡 konkrete Maßnahme:
-   - Technische Maßnahmen (Verschlüsselung, Pseudonymisierung, Zugriffskontrolle)
-   - Organisatorische Maßnahmen (Schulungen, Vier-Augen-Prinzip, Berechtigungskonzept)
-   - Vertragsmaßnahmen (AVV, SCC)
-   - Restrisiko nach Maßnahmen (bleibt 🔴? → Vorab-Konsultation Art. 36 DSGVO)
+ Für jedes Risiko ≥ 🟡 konkrete Maßnahme:
+ - Technische Maßnahmen (Verschlüsselung, Pseudonymisierung, Zugriffskontrolle)
+ - Organisatorische Maßnahmen (Schulungen, Vier-Augen-Prinzip, Berechtigungskonzept)
+ - Vertragsmaßnahmen (AVV, SCC)
+ - Restrisiko nach Maßnahmen (bleibt 🔴? → Vorab-Konsultation Art. 36 DSGVO)
 
 7. **Vorab-Konsultation Art. 36 DSGVO.**
-   Wenn nach Maßnahmen ein hohes Restrisiko verbleibt: Pflicht zur Vorab-Konsultation bei der zuständigen Aufsichtsbehörde (Art. 36 Abs. 1 DSGVO). Frist: Aufsichtsbehörde hat 8 Wochen zur Antwort (Art. 36 Abs. 2 DSGVO), verlängerbar um 6 Wochen.
+ Wenn nach Maßnahmen ein hohes Restrisiko verbleibt: Pflicht zur Vorab-Konsultation bei der zuständigen Aufsichtsbehörde (Art. 36 Abs. 1 DSGVO). Frist: Aufsichtsbehörde hat 8 Wochen zur Antwort (Art. 36 Abs. 2 DSGVO), verlängerbar um 6 Wochen.
 
 8. **DSB-Beteiligung.**
-   DSB ist bei der DSFA zu beteiligen (Art. 35 Abs. 2 DSGVO). Stellungnahme des DSB einholen und dokumentieren.
+ DSB ist bei der DSFA zu beteiligen (Art. 35 Abs. 2 DSGVO). Stellungnahme des DSB einholen und dokumentieren.
 
 9. **Freigabe und Dokumentation.**
-   Freigabeprozess aus `CLAUDE.md`; DSFA im Verarbeitungsverzeichnis vermerken (Art. 30 Abs. 1 DSGVO). DSFA ist bei wesentlicher Änderung der Verarbeitung zu wiederholen (Art. 35 Abs. 11 DSGVO).
+ Freigabeprozess aus `CLAUDE.md`; DSFA im Verarbeitungsverzeichnis vermerken (Art. 30 Abs. 1 DSGVO). DSFA ist bei wesentlicher Änderung der Verarbeitung zu wiederholen (Art. 35 Abs. 11 DSGVO).
 
 ## Quellen und Zitierweise
 
@@ -401,12 +401,12 @@ Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. We
 1. **Verarbeitungsbeschreibung.** Welche Daten gehen wohin, an wen, in welcher Form, wie oft, in welchem Umfang?
 2. **Verhaeltnismaessigkeitspruefung.** Ist der Drittlandtransfer fuer den Zweck erforderlich, oder gaebe es EU-Alternativen?
 3. **Risikoanalyse.**
-   - Drittlandrecht: Zugriffsbefugnisse von Behoerden, Rechtsbehelfe Betroffener.
-   - Anbieter-Risiko: Branche, Datentyp, Subunternehmer.
-   - Daten-Risiko: Sensitivitaet, Aggregation, Identifizierbarkeit.
+ - Drittlandrecht: Zugriffsbefugnisse von Behoerden, Rechtsbehelfe Betroffener.
+ - Anbieter-Risiko: Branche, Datentyp, Subunternehmer.
+ - Daten-Risiko: Sensitivitaet, Aggregation, Identifizierbarkeit.
 4. **Massnahmen.**
-   - Rechtsgrundlage: Angemessenheitsbeschluss, SCC mit passendem Modul, BCR, Ausnahme Art. 49.
-   - Ergaenzende Massnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information ueber Behoerdenanfragen), organisatorisch (Audit, Schulung).
+ - Rechtsgrundlage: Angemessenheitsbeschluss, SCC mit passendem Modul, BCR, Ausnahme Art. 49.
+ - Ergaenzende Massnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information ueber Behoerdenanfragen), organisatorisch (Audit, Schulung).
 5. **Restrisiko.** Pruefung ob die ergaenzenden Massnahmen das Schutzniveau auf das EU-Niveau anheben oder ob das Restrisiko hoch bleibt.
 6. **Konsultation / Genehmigung.** DSB-Anhoerung; bei verbleibendem hohem Restrisiko Art. 36 DSGVO Vorabkonsultation; bei US-Anbietern Pruefung DPF-Zertifizierung.
 
@@ -444,17 +444,17 @@ Sub-AVs: [Liste mit Land]
 
 4. Ergaenzende Massnahmen
 - Technisch:
-  [ ] Ende-zu-Ende-Verschluesselung mit EU-Schluesselhoheit
-  [ ] Pseudonymisierung vor Transfer
-  [ ] Tokenisierung
-  [ ] Split-Processing (sensitive Felder in EU)
+ [ ] Ende-zu-Ende-Verschluesselung mit EU-Schluesselhoheit
+ [ ] Pseudonymisierung vor Transfer
+ [ ] Tokenisierung
+ [ ] Split-Processing (sensitive Felder in EU)
 - Vertraglich:
-  [ ] Transparenz-Pflicht ueber Behoerdenanfragen
-  [ ] Audit-Recht
-  [ ] Loeschpflicht nach Vertragsende
+ [ ] Transparenz-Pflicht ueber Behoerdenanfragen
+ [ ] Audit-Recht
+ [ ] Loeschpflicht nach Vertragsende
 - Organisatorisch:
-  [ ] Anbieterschulung Datenschutz
-  [ ] Notfallplan bei Behoerdenzugriff
+ [ ] Anbieterschulung Datenschutz
+ [ ] Notfallplan bei Behoerdenzugriff
 
 5. Restrisikobewertung
 [GRUEN / GELB / ORANGE / ROT]
@@ -527,10 +527,10 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 - Art. 35 DSGVO Pflicht-DSFA bei voraussichtlich hohem Risiko, insbesondere bei neuen Technologien (Art. 35 Abs. 1, Abs. 3 lit. a DSGVO).
 - Art. 22 DSGVO automatisierte Einzelentscheidung.
 - VO (EU) 2024/1689 KI-VO:
-  - Art. 6, Anhang III: Hochrisiko-KI-Kategorien
-  - Art. 26 Betreiberpflichten (englisch: deployers): bestimmungsgemaesse Nutzung, menschliche Aufsicht, Logging, Information Betroffener
-  - Art. 27 Pflicht zur Grundrechte-Folgenabschaetzung (FRIA) fuer bestimmte Betreiber (oeffentliche Stellen, oeffentlich finanzierte Dienste, Kreditwuerdigkeit, Kranken- und Lebensversicherung)
-  - Art. 50 Transparenzpflichten generative KI
+ - Art. 6, Anhang III: Hochrisiko-KI-Kategorien
+ - Art. 26 Betreiberpflichten (englisch: deployers): bestimmungsgemaesse Nutzung, menschliche Aufsicht, Logging, Information Betroffener
+ - Art. 27 Pflicht zur Grundrechte-Folgenabschaetzung (FRIA) fuer bestimmte Betreiber (oeffentliche Stellen, oeffentlich finanzierte Dienste, Kreditwuerdigkeit, Kranken- und Lebensversicherung)
+ - Art. 50 Transparenzpflichten generative KI
 - EDSA-Stellungnahme 28/2024 zu KI-Modellen (Auslegung DSGVO bei KI).
 - EDSA-Leitlinien WP 248 rev.01 zur DSFA.
 - Anwendungsbeginn KI-VO: gestaffelt, Hochrisiko-Pflichten 02.08.2026.
@@ -547,8 +547,8 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 1. **Verarbeitungsbeschreibung.** Welches KI-System, welcher Zweck, welche Datenarten, welche Betroffenenkreise? Anbieter und Betreiber benennen, Anhang-III-Kategorie pruefen.
 2. **Verhaeltnismaessigkeitspruefung.** Notwendigkeit und Verhaeltnismaessigkeit der KI-gestuetzten Verarbeitung; Pruefung ob ein nicht-automatisiertes Verfahren ausreicht. Art. 5 Abs. 1 DSGVO und Erforderlichkeitspruefung.
 3. **Risikoanalyse.** Doppelblick:
-   - DSGVO-Risiken: Profiling, automatisierte Entscheidung, Trainingsdatenleck, Halluzination ueber Personen.
-   - KI-VO-Risiken: Diskriminierung durch Datenbias, fehlende menschliche Aufsicht, fehlende Robustheit.
+ - DSGVO-Risiken: Profiling, automatisierte Entscheidung, Trainingsdatenleck, Halluzination ueber Personen.
+ - KI-VO-Risiken: Diskriminierung durch Datenbias, fehlende menschliche Aufsicht, fehlende Robustheit.
 4. **Massnahmen.** TOMs nach Art. 32 DSGVO plus KI-VO-Massnahmen: menschliche Aufsicht, Logging, Transparenz, Information Betroffener (Art. 26 Abs. 11 KI-VO).
 5. **Restrisiko.** Doppelte Restrisikobewertung — fuer DSFA (Art. 35 DSGVO) und fuer FRIA (Art. 27 KI-VO), wenn diese Pflicht besteht.
 6. **Konsultation / Genehmigung.** DSB Anhoerung Art. 35 Abs. 2 DSGVO. Bei hohem Restrisiko: Art. 36 DSGVO Vorabkonsultation. Nach KI-VO: nationale Marktueberwachungsbehoerde nach Art. 70 KI-VO ggf. einbinden. Integration in Verarbeitungsverzeichnis und KI-Bestandsverzeichnis.

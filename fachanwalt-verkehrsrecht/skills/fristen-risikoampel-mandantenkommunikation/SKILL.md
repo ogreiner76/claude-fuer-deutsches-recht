@@ -1,13 +1,13 @@
 ---
 name: fristen-risikoampel-mandantenkommunikation
-description: "Nutze dies, wenn Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation, Workflow Redteam Qualitygate im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Fristen Und Risikoampel, Mandantenkommunikation, Redteam Qualitygate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation, Workflow Redteam Qualitygate
+# Fristen Und Risikoampel, Mandantenkommunikation, Redteam Qualitygate
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fristen Und Risikoampel, Mandantenkommunikation, Redteam Qualitygate** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation, Workflow Redteam Qualitygate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fristen Und Risikoampel, Mandantenkommunikation, Redteam Qualitygate** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,10 +31,10 @@ Für **Workflow Fristen Und Risikoampel, Workflow Mandantenkommunikation, Workfl
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-verkehrsrecht` Fristen- und Risikoampel im Plugin fachanwalt-verkehrsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin fachanwalt-verkehrsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -44,7 +44,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -76,10 +76,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-verkehrsrecht` Mandantenkommunikation im Plugin fachanwalt-verkehrsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-verkehrsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -89,7 +89,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -106,11 +106,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## Verkehrsrechts-Mandantenkommunikation Speziallage
 - **Entscheidungsfragen pro Saeule:**
-  - **Unfallregulierung:** fiktive vs. konkrete Abrechnung; SV-Gutachten in Auftrag geben; Mietwagen vs. Nutzungsausfall; Vorschuss/Klage gegen Versicherer § 115 VVG.
-  - **OWi:** Einspruch gegen Bussgeld trotz Kostenrisiko? Ziel: Punkte vermeiden, Fahrverbot abwenden, Geldbusse senken.
-  - **Strafrecht:** Schweigerecht § 136 StPO; bei Trunkenheitsfahrt § 316 StGB nach Akteneinsicht; vorlaeufige Entziehung Fuehrerschein § 111a StPO.
-  - **FeV:** MPU - Beratung Vorbereitungskurs, Abstinenznachweis (Haaranalyse, Urinkontrollen); Wiedererteilungsantrag rechtzeitig vor Ablauf Sperre § 20 FeV.
-  - **Versicherung:** Anzeigeobliegenheit § 30 VVG; Schadensmeldung vollstaendig; Quotenregelung bei Eigenverschulden.
+ - **Unfallregulierung:** fiktive vs. konkrete Abrechnung; SV-Gutachten in Auftrag geben; Mietwagen vs. Nutzungsausfall; Vorschuss/Klage gegen Versicherer § 115 VVG.
+ - **OWi:** Einspruch gegen Bussgeld trotz Kostenrisiko? Ziel: Punkte vermeiden, Fahrverbot abwenden, Geldbusse senken.
+ - **Strafrecht:** Schweigerecht § 136 StPO; bei Trunkenheitsfahrt § 316 StGB nach Akteneinsicht; vorlaeufige Entziehung Fuehrerschein § 111a StPO.
+ - **FeV:** MPU - Beratung Vorbereitungskurs, Abstinenznachweis (Haaranalyse, Urinkontrollen); Wiedererteilungsantrag rechtzeitig vor Ablauf Sperre § 20 FeV.
+ - **Versicherung:** Anzeigeobliegenheit § 30 VVG; Schadensmeldung vollstaendig; Quotenregelung bei Eigenverschulden.
 - **Berufliche Auswirkungen** stets explizit ansprechen: Berufskraftfahrer, Aussendienst, Pendler, Aerzte/Anwaelte (BZRG-Eintrag bei Verurteilung); Kammerpflicht-Meldungen pruefen.
 - **Versicherungsrechtliche Beratung:** ggf. Erhoehung KH-Beitrag (Schadenfreiheitsrabatt), Insassenversicherung, Rechtsschutz pruefen (Selbstbeteiligung, Vorvertrag, Wartezeit).
 - **Kostenhinweis RVG:** Verkehrsstrafsachen / Bussgeld: VV 4100 ff. RVG; Hauptverhandlungstermin auch Sonderkosten; Rechtsschutzversicherung Deckungszusage einholen.
@@ -124,10 +124,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-verkehrsrecht` Red-Team Qualitygate im Plugin fachanwalt-verkehrsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-verkehrsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -137,7 +137,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -154,21 +154,21 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## Verkehrsrechts-Red-Team-Checks
 - **Saeule-spezifischer Check:**
-  - Verkehrszivilrecht: § 195 BGB Verjaehrung gepruefft? § 254 BGB Mitverschulden? § 17 StVG Quotenbildung?
-  - OWi: § 67 OWiG 2 Wochen? § 26 III StVG Verjaehrung? Messverfahren-Pruefung dokumentiert?
-  - Verkehrsstraf: § 410 / § 314 / § 341, § 345 StPO Fristen? Schweigerecht § 136 StPO belehrt?
-  - FeV: Anhoerungsfrist FE-Behoerde? MPU-Vorlagefrist? Wiedererteilungsfristen § 20 FeV?
-  - Versicherung: § 30 VVG unverzueglich Anzeige? § 28 VVG Leistungsfreiheit-Risiko?
+ - Verkehrszivilrecht: § 195 BGB Verjaehrung gepruefft? § 254 BGB Mitverschulden? § 17 StVG Quotenbildung?
+ - OWi: § 67 OWiG 2 Wochen? § 26 III StVG Verjaehrung? Messverfahren-Pruefung dokumentiert?
+ - Verkehrsstraf: § 410 / § 314 / § 341, § 345 StPO Fristen? Schweigerecht § 136 StPO belehrt?
+ - FeV: Anhoerungsfrist FE-Behoerde? MPU-Vorlagefrist? Wiedererteilungsfristen § 20 FeV?
+ - Versicherung: § 30 VVG unverzueglich Anzeige? § 28 VVG Leistungsfreiheit-Risiko?
 - **Schadensermittlung Re-Check:**
-  - Reparaturkosten vs. Wiederbeschaffungswert: 130 %-Grenze (BGH-Linie) bei konkreter Reparatur, 100 % bei fiktiver.
-  - Wertminderung nur bei tatsaechlicher Reparatur und nicht zu altem Fahrzeug.
-  - Nutzungsausfalldauer mit Schwacke / Frauenhofer-Tabelle.
-  - Mietwagen: Anspruch nur in angemessenem Rahmen; Frauenhofer / Schwacke / Mittelwert.
+ - Reparaturkosten vs. Wiederbeschaffungswert: 130 %-Grenze (BGH-Linie) bei konkreter Reparatur, 100 % bei fiktiver.
+ - Wertminderung nur bei tatsaechlicher Reparatur und nicht zu altem Fahrzeug.
+ - Nutzungsausfalldauer mit Schwacke / Frauenhofer-Tabelle.
+ - Mietwagen: Anspruch nur in angemessenem Rahmen; Frauenhofer / Schwacke / Mittelwert.
 - **Vollmachts-Check:** Mandat aus Vollmacht; ggf. Forderungsabtretung an SV / KFZ-Werkstatt sauber dokumentiert.
 - **Konsequenzen-Re-Check:**
-  - Eintragung FAER bei Verkehrs-OWi.
-  - BZRG-Eintrag bei Verkehrsstrafrecht (ab 91 TS / Freiheitsstrafe).
-  - Versicherungsrueckstufung (Schadenfreiheitsklassen).
-  - MPU-Anordnung bei wiederholten OWi oder ab 1,6 Promille bzw. Drogen einmalig.
+ - Eintragung FAER bei Verkehrs-OWi.
+ - BZRG-Eintrag bei Verkehrsstrafrecht (ab 91 TS / Freiheitsstrafe).
+ - Versicherungsrueckstufung (Schadenfreiheitsklassen).
+ - MPU-Anordnung bei wiederholten OWi oder ab 1,6 Promille bzw. Drogen einmalig.
 - **Halluzinations-Check:** Keine erfundenen BGH-/OLG-Az; "staendige Rspr." statt erfundener Fundstellen.
 - **Berufliche Relevanz** stets ansprechen: Berufskraftfahrer, Pendler, Aerzte/Anwaelte (Berufsaufsicht), Beamte (Disziplinarrecht).

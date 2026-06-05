@@ -1,13 +1,13 @@
 ---
 name: legw-bmds-it-ki-verordnung
-description: "Nutze dies, wenn Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig, Legw Bmf Haushalts Und Zuwendungsrecht und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig, Legw Bmf Haushalts Und Zuwendungsrecht und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig, Legw Bmf Haushalts Und Zuwendungsrecht und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig, Legw Bmf Haushalts Und Zuwendungsrecht und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig, Legw Bmf Haushalts Und Zuwendungsrecht und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,16 +87,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           IT-Sicherheit (BSIG)
-Ressort:            BMDS
-Kernnormen:         BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.
-Akteure/Aufsicht:   BSI; Bundesnetzagentur; BBK; Laender-Aufsichten.
-EU/Voelkerrecht:    NIS2-RL; CER-RL; Cyber Resilience Act.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmds; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: IT-Sicherheit (BSIG)
+Ressort: BMDS
+Kernnormen: BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.
+Akteure/Aufsicht: BSI; Bundesnetzagentur; BBK; Laender-Aufsichten.
+EU/Voelkerrecht: NIS2-RL; CER-RL; Cyber Resilience Act.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -169,16 +169,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           KI-Verordnung und Aufsichtsstruktur
-Ressort:            BMDS
-Kernnormen:         KI-VO (EU); BDSG; ProdSG; ProdHaftG; einschlaegige Sektorgesetze.
-Akteure/Aufsicht:   BMDS; BNetzA (Marktaufsicht KI; geplant); BSI; BfDI; Laenderbehoerden.
-EU/Voelkerrecht:    KI-VO; AI Office; AI Liability Directive (Entwurf).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmds; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: KI-Verordnung und Aufsichtsstruktur
+Ressort: BMDS
+Kernnormen: KI-VO (EU); BDSG; ProdSG; ProdHaftG; einschlaegige Sektorgesetze.
+Akteure/Aufsicht: BMDS; BNetzA (Marktaufsicht KI; geplant); BSI; BfDI; Laenderbehoerden.
+EU/Voelkerrecht: KI-VO; AI Office; AI Liability Directive (Entwurf).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -251,16 +251,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Verwaltungsdigitalisierung und Registermodernisierung
-Ressort:            BMDS
-Kernnormen:         RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.
-Akteure/Aufsicht:   BMDS; BMI (Personenstand); Bundesverwaltungsamt; Laender.
-EU/Voelkerrecht:    Single Digital Gateway; Once-Only-Prinzip.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmds; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Verwaltungsdigitalisierung und Registermodernisierung
+Ressort: BMDS
+Kernnormen: RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.
+Akteure/Aufsicht: BMDS; BMI (Personenstand); Bundesverwaltungsamt; Laender.
+EU/Voelkerrecht: Single Digital Gateway; Once-Only-Prinzip.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -333,16 +333,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Finanzmarktaufsicht (BaFin; KWG; WpIG)
-Ressort:            BMF
-Kernnormen:         KWG; ZAG; WpIG; WpHG; KAGB; VAG; FinDAG; FinStabG; SAG; BörsG.
-Akteure/Aufsicht:   BaFin; Deutsche Bundesbank; ESMA; EBA; EIOPA; FSB.
-EU/Voelkerrecht:    CRR; CRD; MiFID II; AIFMD; UCITS; PSD2 und PSD3; DORA; MiCA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmf; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Finanzmarktaufsicht (BaFin; KWG; WpIG)
+Ressort: BMF
+Kernnormen: KWG; ZAG; WpIG; WpHG; KAGB; VAG; FinDAG; FinStabG; SAG; BörsG.
+Akteure/Aufsicht: BaFin; Deutsche Bundesbank; ESMA; EBA; EIOPA; FSB.
+EU/Voelkerrecht: CRR; CRD; MiFID II; AIFMD; UCITS; PSD2 und PSD3; DORA; MiCA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -415,16 +415,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Haushaltsrecht und Zuwendungen
-Ressort:            BMF
-Kernnormen:         BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.
-Akteure/Aufsicht:   BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.
-EU/Voelkerrecht:    EU-Beihilferecht; AGVO; De-minimis; Notifizierung; ETZ-Programme.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmf; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Haushaltsrecht und Zuwendungen
+Ressort: BMF
+Kernnormen: BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.
+Akteure/Aufsicht: BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.
+EU/Voelkerrecht: EU-Beihilferecht; AGVO; De-minimis; Notifizierung; ETZ-Programme.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmf; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -497,16 +497,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Biotechnologie und Laborsicherheit
-Ressort:            BMFTR
-Kernnormen:         GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.
-Akteure/Aufsicht:   Zentrale Kommission fuer die Biologische Sicherheit (ZKBS); BVL; BfR; Laender-Genehmigungen.
-EU/Voelkerrecht:    RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmftr; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Biotechnologie und Laborsicherheit
+Ressort: BMFTR
+Kernnormen: GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.
+Akteure/Aufsicht: Zentrale Kommission fuer die Biologische Sicherheit (ZKBS); BVL; BfR; Laender-Genehmigungen.
+EU/Voelkerrecht: RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -579,16 +579,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Forschungsfoerderung und Ressortforschung
-Ressort:            BMFTR
-Kernnormen:         BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.
-Akteure/Aufsicht:   BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.
-EU/Voelkerrecht:    Horizon Europe; ERC; EIC; AGVO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmftr; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Forschungsfoerderung und Ressortforschung
+Ressort: BMFTR
+Kernnormen: BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.
+Akteure/Aufsicht: BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.
+EU/Voelkerrecht: Horizon Europe; ERC; EIC; AGVO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -661,16 +661,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Hochschulrecht und Wissenschaftsrecht
-Ressort:            BMFTR
-Kernnormen:         HRG; WissZeitVG; LHGs der Laender; WHG (Wissenschaft); ProfBesG.
-Akteure/Aufsicht:   BMFTR; Wissenschaftsrat; DFG; HRK; Laenderministerien.
-EU/Voelkerrecht:    ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmftr; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Hochschulrecht und Wissenschaftsrecht
+Ressort: BMFTR
+Kernnormen: HRG; WissZeitVG; LHGs der Laender; WHG (Wissenschaft); ProfBesG.
+Akteure/Aufsicht: BMFTR; Wissenschaftsrat; DFG; HRK; Laenderministerien.
+EU/Voelkerrecht: ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

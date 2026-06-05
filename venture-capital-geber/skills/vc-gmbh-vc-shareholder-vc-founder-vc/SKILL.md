@@ -1,13 +1,13 @@
 ---
 name: vc-gmbh-vc-shareholder-vc-founder-vc
-description: "Nutze dies, wenn Vc 034 Gmbh Kapitalerhoehung Notar, Vc 035 Shareholder Agreement Investment Agreement, Vc 036 Founder Ip Chain, Vc 038 Arbeitsrecht Founder Team im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 034 Gmbh Kapitalerhoehung Notar, Vc 035 Shareholder Agreement Investment Agreement, Vc 036 Founder Ip Chain, Vc 038 Arbeitsrecht Founder Team prüfen.; Erstelle eine Arbeitsfassung zu Vc 034 Gmbh Kapitalerhoehung Notar, Vc 035 Shareholder Agreement Investment Agreement, Vc 036 Founder Ip Chain, Vc 038 Arbeitsrecht Founder Team.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vc 034 Gmbh Kapitalerhoehung Notar, Vc 035 Shareholder Agreement Investment Agreement, Vc 036 Founder Ip Chain, Vc 038 Arbeitsrecht Founder Team: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vc 034 Gmbh Kapitalerhoehung Notar, Vc 035 Shareholder Agreement Investment Agreement, Vc 036 Founder Ip Chain, Vc 038 Arbeitsrecht Founder Team
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vc 034 Gmbh Kapitalerhoehung Notar, Vc 035 Shareholder Agreement Investment Agreement, Vc 036 Founder Ip Chain, Vc 038 Arbeitsrecht Founder Team** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

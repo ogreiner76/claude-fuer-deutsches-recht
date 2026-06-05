@@ -44,22 +44,22 @@ Nutze diesen Skill, wenn Eigentum, Besitz, Nutzungen und Verwendungen mit §§ 8
 - **Voraussetzung:** Eigentümer X gegen Besitzer Y; kein Besitzrecht (Y ist „unrechtmäßiger Besitzer").
 - **Vindikation § 985 BGB:** Herausgabe der Sache.
 - **§§ 987 ff. BGB Folgeansprüche:**
-  - § 987 BGB Nutzungen bei verklagtem oder bösgläubigem Besitzer.
-  - § 989 BGB Schadensersatz bei verklagtem oder bösgläubigem Besitzer.
-  - § 990 BGB Bösgläubigkeit — Kenntnis vom Fehlen des Besitzrechts oder grob fahrlässige Unkenntnis.
-  - § 993 BGB redlicher und unverklagter Besitzer: nur tatsächlich gezogene Übermaß-Nutzungen, kein Schadensersatz.
+ - § 987 BGB Nutzungen bei verklagtem oder bösgläubigem Besitzer.
+ - § 989 BGB Schadensersatz bei verklagtem oder bösgläubigem Besitzer.
+ - § 990 BGB Bösgläubigkeit — Kenntnis vom Fehlen des Besitzrechts oder grob fahrlässige Unkenntnis.
+ - § 993 BGB redlicher und unverklagter Besitzer: nur tatsächlich gezogene Übermaß-Nutzungen, kein Schadensersatz.
 - **Verwendungen §§ 994 ff. BGB:**
-  - § 994 BGB notwendige Verwendungen — bei verklagtem/bösgläubigem Besitzer voller Ersatz, bei redlichem nur freiwillig erbrachte zwingende Verwendungen.
-  - § 996 BGB nützliche Verwendungen — nur wenn Eigentümer Besitz übernimmt.
+ - § 994 BGB notwendige Verwendungen — bei verklagtem/bösgläubigem Besitzer voller Ersatz, bei redlichem nur freiwillig erbrachte zwingende Verwendungen.
+ - § 996 BGB nützliche Verwendungen — nur wenn Eigentümer Besitz übernimmt.
 
 ## Konkurrenz zu §§ 812 ff. BGB
 
 - **Sperrwirkung des EBV:** Im Anwendungsbereich der §§ 987 ff. BGB sind Bereicherungs- und Deliktsansprüche grundsätzlich **gesperrt** (h.M.). Schutzwertung: Besitzschutz und privilegierte Haftung des redlichen Besitzers.
 - **Ausnahmen** (Bereicherungsrecht greift trotz EBV):
-  - **Fremdbesitzerexzess:** Besitzer überschreitet sein vermeintliches Recht (z. B. Mieter zerstört Sache mutwillig).
-  - **Aufgedrängte Verwendungen:** Verwendungen außerhalb §§ 994 ff. BGB — Bereicherungsausgleich nach § 812 BGB i.V.m. § 1001 BGB (umstritten).
-  - **§ 988 BGB unentgeltlich erlangter Besitz:** EBV greift, aber Verzahnung mit Bereicherungsrecht über Verweisung.
-  - **Verfügung eines Nichtberechtigten § 816 BGB:** vorrangiger Spezialtatbestand, kein EBV-Konflikt bei Drittverfügung.
+ - **Fremdbesitzerexzess:** Besitzer überschreitet sein vermeintliches Recht (z. B. Mieter zerstört Sache mutwillig).
+ - **Aufgedrängte Verwendungen:** Verwendungen außerhalb §§ 994 ff. BGB — Bereicherungsausgleich nach § 812 BGB i.V.m. § 1001 BGB (umstritten).
+ - **§ 988 BGB unentgeltlich erlangter Besitz:** EBV greift, aber Verzahnung mit Bereicherungsrecht über Verweisung.
+ - **Verfügung eines Nichtberechtigten § 816 BGB:** vorrangiger Spezialtatbestand, kein EBV-Konflikt bei Drittverfügung.
 
 ## Praktische Empfehlung
 

@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           EU-Grundlagen und Ratsverfahren
-Ressort:            AA
-Kernnormen:         EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.
-Akteure/Aufsicht:   AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.
-EU/Voelkerrecht:    Rat der EU; Ratsformationen; AStV; Trilog mit Parlament und Kommission.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: EU-Grundlagen und Ratsverfahren
+Ressort: AA
+Kernnormen: EUV; AEUV; EUZBLG; EUZBBG; Lissabon-Begleitgesetzgebung.
+Akteure/Aufsicht: AA Europa-Abteilung; Bundeskanzleramt EU-Koordinator; Bundesministerien.
+EU/Voelkerrecht: Rat der EU; Ratsformationen; AStV; Trilog mit Parlament und Kommission.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-aa; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-transfer-pricing-ip
-description: "Rechtsabteilungs-Spezialskill für Transfer Pricing bei IP- und Softwarelizenzen: Intercompany-Lizenzen werden mit DEMPE, Benchmark und Dokumentation geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
+description: "Rechtsabteilungs-Fachmodul für Transfer Pricing bei IP- und Softwarelizenzen: Intercompany-Lizenzen werden mit DEMPE, Benchmark und Dokumentation geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption."
 ---
 
 # Rechtsabteilung: Transfer Pricing bei IP- und Softwarelizenzen

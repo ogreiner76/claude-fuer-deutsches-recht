@@ -1,13 +1,13 @@
 ---
 name: pruefwarteschlange-red-rbst-recherche
-description: "Nutze dies, wenn Spezial Pruefwarteschlange Red Team Und Qualitaetskontrolle, Spezial Rbst Mandantenkommunikation Entscheidungsvorlage, Spezial Recherche Mehrparteien Konflikt Und Interessen im Plugin Rechtsberatungsstelle konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Pruefwarteschlange Red Team Und Qualitaetskontrolle, Rbst Mandantenkommunikation Entscheidungsvorlage, Recherche Mehrparteien Konflikt Und Interessen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Pruefwarteschlange Red Team Und Qualitaetskontrolle, Spezial Rbst Mandantenkommunikation Entscheidungsvorlage, Spezial Recherche Mehrparteien Konflikt Und Interessen
+# Pruefwarteschlange Red Team Und Qualitaetskontrolle, Rbst Mandantenkommunikation Entscheidungsvorlage, Recherche Mehrparteien Konflikt Und Interessen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pruefwarteschlange Red Team Und Qualitaetskontrolle, Rbst Mandantenkommunikation Entscheidungsvorlage, Recherche Mehrparteien Konflikt Und Interessen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Pruefwarteschlange Red Team Und Qualitaetskontrolle, Spezial Rbst Mandantenkommunikation Entscheidungsvorlage, Spezial Recherche Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtsberatungsstelle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pruefwarteschlange Red Team Und Qualitaetskontrolle, Rbst Mandantenkommunikation Entscheidungsvorlage, Recherche Mehrparteien Konflikt Und Interessen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `rechtsberatungsstelle` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Pruefwarteschlange Red Team Und Qualitaetskontrolle, Spezial Rbst
 # Pruefwarteschlange: Red-Team und Qualitätskontrolle
 
 ## Spezialwissen: Pruefwarteschlange: Red-Team und Qualitätskontrolle
-- **Spezialgegenstand:** Pruefwarteschlange: Red-Team und Qualitätskontrolle / spezial pruefwarteschlange red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pruefwarteschlange: Red-Team und Qualitätskontrolle / pruefwarteschlange red team und qualitaetskontrolle. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** RDG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Rbst: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Rbst: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Rbst: Mandantenkommunikation und Entscheidungsvorlage / spezial rbst mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rbst: Mandantenkommunikation und Entscheidungsvorlage / rbst mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** RDG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Recherche: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Recherche: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Recherche: Mehrparteienkonflikt und Interessenmatrix / spezial recherche mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Recherche: Mehrparteienkonflikt und Interessenmatrix / recherche mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** RDG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

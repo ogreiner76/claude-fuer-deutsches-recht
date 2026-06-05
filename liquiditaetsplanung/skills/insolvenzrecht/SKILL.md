@@ -1,6 +1,6 @@
 ---
 name: insolvenzrecht
-description: "Nutze dies, wenn Insolvenzrecht: Formular, Portal und Einreichungslogik im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Insolvenzrecht: Formular, Portal und Einreichungslogik prüfen.; Erstelle eine Arbeitsfassung zu Insolvenzrecht: Formular, Portal und Einreichungslogik.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Insolvenzrecht: Formular, Portal und Einreichungslogik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Insolvenzrecht: Formular, Portal und Einreichungslogik

@@ -36,23 +36,23 @@ Ergaenzend: **§ 44 GGO** (Pruefung der Gesetzesfolgen), **§ 45 GGO** (Erfuellu
 ## Pruefraster / Schritt fuer Schritt
 
 1. **Befassungspflicht** (§ 4 NKRG i.V.m. § 62 GGO):
-   - Gesetzentwuerfe der Bundesregierung -> ja
-   - Verordnungen der Bundesregierung / eines Bundesministeriums -> ja
-   - Allgemeine Verwaltungsvorschriften der Bundesregierung -> ja
-   - Formulierungshilfen fuer Koalitionsfraktionen -> faktisch ja
-   - Initiativen aus der Mitte des Bundestages -> nur auf Anforderung
-   - Laenderrecht -> nein
+ - Gesetzentwuerfe der Bundesregierung -> ja
+ - Verordnungen der Bundesregierung / eines Bundesministeriums -> ja
+ - Allgemeine Verwaltungsvorschriften der Bundesregierung -> ja
+ - Formulierungshilfen fuer Koalitionsfraktionen -> faktisch ja
+ - Initiativen aus der Mitte des Bundestages -> nur auf Anforderung
+ - Laenderrecht -> nein
 2. **Pruefungsgegenstand** (§ 4 NKRG):
-   - Erfuellungsaufwand fuer Buerger, Wirtschaft, Verwaltung
-   - Methodische Darstellung und Nachvollziehbarkeit
-   - **Nicht** Zielwahl / politische Bewertung
+ - Erfuellungsaufwand fuer Buerger, Wirtschaft, Verwaltung
+ - Methodische Darstellung und Nachvollziehbarkeit
+ - **Nicht** Zielwahl / politische Bewertung
 3. **Pruefungstiefe**:
-   - Methodische Pruefung **plus** Plausibilitaetspruefung
-   - Bei Unzulaenglichkeit: Aufforderung zur Nachbesserung
+ - Methodische Pruefung **plus** Plausibilitaetspruefung
+ - Bei Unzulaenglichkeit: Aufforderung zur Nachbesserung
 4. **Auskunftsanspruch** (§ 5 NKRG): Ressort muss Daten liefern, Akteneinsicht gewaehren
 5. **Form der Aeusserung** (§ 6 NKRG):
-   - Stellungnahme zur Kabinettsvorlage als Anlage
-   - Stellungnahme an Bundestag mit dem Gesetzentwurf
+ - Stellungnahme zur Kabinettsvorlage als Anlage
+ - Stellungnahme an Bundestag mit dem Gesetzentwurf
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 

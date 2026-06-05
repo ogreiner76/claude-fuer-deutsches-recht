@@ -64,7 +64,7 @@ Wichtig: nicht beweisen, nur glaubhaft machen (eidesstattliche Versicherung reic
 Beispiel fuer Buergergeld-Eilantrag:
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 In dem Verfahren
 

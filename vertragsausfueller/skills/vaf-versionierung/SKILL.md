@@ -1,13 +1,13 @@
 ---
 name: vaf-versionierung
-description: "Nutze dies, wenn Vaf Versionierung Aenderungsverfolgung Spezial im Plugin Vertragsausfueller konkret bearbeitet werden soll. Auslöser: Bitte Vaf Versionierung Aenderungsverfolgung Spezial prüfen.; Erstelle eine Arbeitsfassung zu Vaf Versionierung Aenderungsverfolgung Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vaf Versionierung Aenderungsverfolgung Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vaf Versionierung Aenderungsverfolgung Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vaf Versionierung Aenderungsverfolgung Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

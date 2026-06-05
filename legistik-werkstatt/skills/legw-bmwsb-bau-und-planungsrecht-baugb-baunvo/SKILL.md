@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Bau- und Planungsrecht (BauGB; BauNVO)
-Ressort:            BMWSB
-Kernnormen:         BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.
-Akteure/Aufsicht:   BMWSB; Laender-Bauaufsicht; Kommunen; OVG.
-EU/Voelkerrecht:    UVP-RL; SUP-RL; FFH-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwsb; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Bau- und Planungsrecht (BauGB; BauNVO)
+Ressort: BMWSB
+Kernnormen: BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.
+Akteure/Aufsicht: BMWSB; Laender-Bauaufsicht; Kommunen; OVG.
+EU/Voelkerrecht: UVP-RL; SUP-RL; FFH-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: asbestos-channeling-automatic-stay-avoidance
-description: "Nutze dies, wenn Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals im Plugin Us Bankruptcy Code konkret bearbeitet werden soll. Auslöser: Bitte Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals prüfen.; Erstelle eine Arbeitsfassung zu Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

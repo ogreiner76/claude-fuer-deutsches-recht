@@ -1,13 +1,13 @@
 ---
 name: laienhilfe-sanktion-fachanwalt-sozialrecht
-description: "Nutze dies, wenn Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminderungsrente, Fachanwalt Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit im Plugin Fachanwalt Sozialrecht konkret bearbeitet werden soll. Auslöser: Bitte Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminderungsrente, Fachanwalt Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit prüfen.; Erstelle eine Arbeitsfassung zu Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminderungsrente, Fachanwalt Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminderungsrente, Fachanwalt Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminderungsrente, Fachanwalt Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Laienhilfe Sanktion Minderung, Fachanwalt Sozialrecht Erwerbsminderungsrente, Fachanwalt Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -94,11 +94,11 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Meldeversaeumnis § 32 SGB II:** 10 %; auch bei mehrfach wiederholtem Meldeverstoss.
 - **Anhoerung § 24 SGB X zwingend** vor Sanktion - **Verletzung Anhoerungspflicht = Bescheid rechtswidrig**.
 - **Wichtiger Grund** § 31 I SGB II:
-  - Krankheit (Attest pruefen, AU sofort einreichen).
-  - Kinderbetreuung (Schliesstage Kita, Krankheit Kind).
-  - Pflege Angehoeriger.
-  - Verkehrshindernis ohne Verschulden.
-  - Wirtschaftliche Existenzgefaehrdung durch zumutbare Arbeit (z. B. nicht kostendeckende Vergutung).
+ - Krankheit (Attest pruefen, AU sofort einreichen).
+ - Kinderbetreuung (Schliesstage Kita, Krankheit Kind).
+ - Pflege Angehoeriger.
+ - Verkehrshindernis ohne Verschulden.
+ - Wirtschaftliche Existenzgefaehrdung durch zumutbare Arbeit (z. B. nicht kostendeckende Vergutung).
 - **Eilantrag § 86b II SGG:** bei Existenzgefaehrdung Sanktion durch hoehere als 30 % oder bei Aussetzung KdU - Anordnungsanspruch (rechtswidrige Sanktion) + Anordnungsgrund (Existenzgefaehrdung).
 - **Widerspruch § 84 SGG 1 Monat:** Anhoerung pruefen, wichtigen Grund vortragen, Verhaeltnismaessigkeit pruefen (Atypischer Fall? Persoenliche Verhaeltnisse?).
 - **Praxis-Tipp:** Bei wiederholten Sanktionen Aktivierungsplan in Frage stellen (Geeignetheit, Zumutbarkeit § 10 SGB II); bei psychischer Erkrankung Stellungnahme Hausarzt einholen.
@@ -242,7 +242,7 @@ Sehr geehrte Damen und Herren,
 namens und in Vollmacht unserer Mandantschaft legen wir gegen
 den oben bezeichneten Bescheid
 
-                       W i d e r s p r u c h
+ W i d e r s p r u c h
 
 ein und begründen diesen wie folgt:
 
@@ -277,7 +277,7 @@ gesunken (volle Erwerbsminderung § 43 Abs. 2 SGB VI).
 Belegt durch:
 - Hausarzt Dr. [Name], Attest vom [Datum] (Anlage W2)
 - Facharzt [Fachrichtung] Dr. [Name], Bericht vom [Datum]
-  (Anlage W3)
+ (Anlage W3)
 - Reha-Entlassungsbericht [Klinik] vom [Datum] (Anlage W4)
 
 Die Erkrankungen sind in ihrer Gesamtwirkung zu beurteilen
@@ -308,10 +308,10 @@ worden.
 Wir beantragen:
 1. Den ablehnenden Bescheid aufzuheben.
 2. Unserer Mandantschaft ab [Datum] eine Rente wegen voller
-   Erwerbsminderung nach § 43 Abs. 2 SGB VI zu gewähren.
+ Erwerbsminderung nach § 43 Abs. 2 SGB VI zu gewähren.
 3. Akteneinsicht in die vollständige Verwaltungsakte
-   (§ 25 SGB X), insbesondere das sozialmedizinische
-   Gutachten.
+ (§ 25 SGB X), insbesondere das sozialmedizinische
+ Gutachten.
 
 Mit freundlichen Grüßen
 [Fachanwalt/-anwältin für Sozialrecht]
@@ -339,7 +339,7 @@ Gutachter eingeholt:
 Beweisfrage:
 1. An welchen Erkrankungen leidet die Klägerin / der Kläger?
 2. Welches quantitative Leistungsvermögen auf dem allgemeinen
-   Arbeitsmarkt besteht in zeitlicher Hinsicht täglich?
+ Arbeitsmarkt besteht in zeitlicher Hinsicht täglich?
 3. Welche qualitativen Einschränkungen bestehen?
 
 Die Auslagen des Gutachters trägt die Klägerin / der Kläger
@@ -529,7 +529,7 @@ Antrag und Klage zur Feststellung Grad der Behinderung (GdB).
 - Vorteile Parkplatz (mit aG)
 - Steuer-Reduktion Kfz
 
-## 5) Workflow Klage
+## 5) Klage
 
 ### Schritt 1 — Bescheid-Prüfung
 
@@ -704,9 +704,9 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Aussteuerung:** Krankengeld endet nach 78 Wochen wegen derselben Krankheit (Bezugsrahmen 3 Jahre); Krankenkasse muss rechtzeitig Reha- oder Rentenantrag-Aufforderung machen (§ 51 SGB V) - sonst Aussteuerung verschoben.
 - **Nahtlosigkeitsregelung § 145 SGB III:** ALG-Anspruch auch bei festgestellter Erwerbsminderung unter 15 h pro Woche bis zur Entscheidung der DRV ueber EM-Rente; Vermeidung "Niemand-Zustand" zwischen Krankengeld-Ende und Rentenbescheid.
 - **Voraussetzung Nahtlosigkeit:**
-  - Letzter Tag Krankengeldbezug oder vergleichbare Leistung,
-  - **Verfuegbarkeit reduziert** auf weniger als 15 h/Woche,
-  - Anwartschaftszeit ALG erfuellt (§ 142 SGB III: 12 Monate Beitragszeit in den letzten 30 Monaten).
+ - Letzter Tag Krankengeldbezug oder vergleichbare Leistung,
+ - **Verfuegbarkeit reduziert** auf weniger als 15 h/Woche,
+ - Anwartschaftszeit ALG erfuellt (§ 142 SGB III: 12 Monate Beitragszeit in den letzten 30 Monaten).
 - **Antragspflicht** Versicherter bei Krankenkasse / Bundesagentur fuer Arbeit; § 60 SGB I Mitwirkungspflicht.
 - **Rente vs. ALG-Nahtlosigkeit:** ALG ist subsidiaer; sobald EM-Rente bewilligt, Verrechnung; bei Ablehnung EM bleibt ALG.
 - **Eilrechtsschutz § 86b SGG** bei Verweigerung Nahtlosigkeits-ALG (Existenzminimum); ggf. Hilfe Jobcenter/Sozialamt parallel beantragen.

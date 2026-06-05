@@ -52,13 +52,13 @@ In dem Rechtsstreit
 
 [Vorname Nachname Klaeger]
 [Adresse Klaeger]
-                                  - Klaeger -
+ - Klaeger -
 
 gegen
 
 [Vorname Nachname Beklagter]
 [Adresse Beklagter]
-                                  - Beklagter -
+ - Beklagter -
 
 wegen [Stichwort, z.B. "Kaufpreis"]
 ```
@@ -79,15 +79,15 @@ Eindeutig, vollstreckungsfaehig formuliert:
 Antraege:
 
 1. Der Beklagte wird verurteilt, an den Klaeger
-   1.500,00 EUR nebst Zinsen in Hoehe von 5
-   Prozentpunkten ueber dem Basiszinssatz seit
-   05.04.2025 zu zahlen.
+ 1.500,00 EUR nebst Zinsen in Hoehe von 5
+ Prozentpunkten ueber dem Basiszinssatz seit
+ 05.04.2025 zu zahlen.
 
 2. Die Kosten des Rechtsstreits traegt der
-   Beklagte.
+ Beklagte.
 
 3. Das Urteil wird fuer vorlaeufig vollstreckbar
-   erklaert.
+ erklaert.
 ```
 
 Skill `klageschrift-antrag-bestimmt-formulieren`.

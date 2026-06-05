@@ -1,13 +1,13 @@
 ---
 name: mittelstand-corporate-ma-cp-kalender-beirat
-description: "Nutze dies, wenn Mittelstand Corporate Ma Rechtsprechungsrecherche, Mittelstand Ma Fristen Cp Kalender, Beirat Musterklauseln, Mittelstand Corporate Ma Spa Apa Entwurf im Plugin Mittelstand Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Mittelstand Corporate Ma Rechtsprechungsrecherche, Mittelstand Ma Fristen Cp Kalender, Beirat Musterklauseln, Mittelstand Corporate Ma Spa Apa Entwurf prüfen.; Erstelle eine Arbeitsfassung zu Mittelstand Corporate Ma Rechtsprechungsrecherche, Mittelstand Ma Fristen Cp Kalender, Beirat Musterklauseln, Mittelstand Corporate Ma Spa Apa Entwurf.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mittelstand Corporate Ma Rechtsprechungsrecherche, Mittelstand Ma Fristen Cp Kalender, Beirat Musterklauseln, Mittelstand Corporate Ma Spa Apa Entwurf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mittelstand Corporate Ma Rechtsprechungsrecherche, Mittelstand Ma Fristen Cp Kalender, Beirat Musterklauseln, Mittelstand Corporate Ma Spa Apa Entwurf
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mittelstand Corporate Ma Rechtsprechungsrecherche, Mittelstand Ma Fristen Cp Kalender, Beirat Musterklauseln, Mittelstand Corporate Ma Spa Apa Entwurf** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `mittelstand-corporate-ma-rechtsprechungsrecherche` | Corporate-Rechtsprechungsrecherche: Sucht Rechtsprechung und amtliche Quellen für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. |
 | `mittelstand-ma-fristen-cp-kalender` | Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen §§ 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Prüfraster CP-Vollständigkeit Fristenanker Kollusionsrisiken Verlaengerungs-Optionen. Output Fristen-Kalender CP-Checkliste Terminvorschau. Abgrenzung zu automation-monitoring (technisches Monitoring) und steps-plan-pmo (Prozessplan). |
-| `beirat-musterklauseln` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-musterklauseln` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `mittelstand-corporate-ma-spa-apa-entwurf` | SPA/APA-Entwurf: Kaufvertragsentwuerfe für Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur; §§ 433 BGB, 15 GmbHG, 179 AktG, Garantiekatalog, MAC, Earn-Out. |
 
 ## Arbeitsweg
@@ -391,7 +391,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `beirat-musterklauseln`
 
-**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Musterklauseln
 
@@ -512,7 +512,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Term Sheet auswearten:** Kernparameter extrahieren — Kaufpreis, Struktur, Garantien, CPs, Rechtsordnung
 2. **DD-Findings in SPA uebertragen:** Material Issues → spezifische Garantieausnahmen oder Freistellungen; Red Flags → MAC-Trigger oder Haftungsausschluss
@@ -554,30 +554,30 @@ SHARE PURCHASE AGREEMENT (ENTWURF)
 
 1. DEFINITIONEN UND AUSLEGUNG
 2. KAUF UND UEBERTRAGUNG DER ANTEILE
-   2.1 Gegenstand; Kaufpreis (Locked Box / Completion Accounts)
-   2.2 Anpassungsmechanismus / Earn-Out-Formel
+ 2.1 Gegenstand; Kaufpreis (Locked Box / Completion Accounts)
+ 2.2 Anpassungsmechanismus / Earn-Out-Formel
 3. SIGNING UND CLOSING
-   3.1 Signing-Datum [DATUM]
-   3.2 Closing Conditions (Anlagen 3.2.1 bis 3.2.X)
-   3.3 Closing-Ablauf (Zug-um-Zug)
+ 3.1 Signing-Datum [DATUM]
+ 3.2 Closing Conditions (Anlagen 3.2.1 bis 3.2.X)
+ 3.3 Closing-Ablauf (Zug-um-Zug)
 4. GARANTIEN DES VERKAEUFERS
-   4.1 Title- und Anteilsgarantien
-   4.2 Business Warranties (Anlage 4.2)
-   4.3 Financial Statements-Garantie
-   4.4 Tax Warranties
-   4.5 Ausnahmen gemaess Disclosure Letter (Anlage 4.5)
+ 4.1 Title- und Anteilsgarantien
+ 4.2 Business Warranties (Anlage 4.2)
+ 4.3 Financial Statements-Garantie
+ 4.4 Tax Warranties
+ 4.5 Ausnahmen gemaess Disclosure Letter (Anlage 4.5)
 5. HAFTUNGSRAHMEN
-   5.1 Cap: [BETRAG / PROZENTSATZ]
-   5.2 Basket: [TIPPING / DEDUCTIBLE] Schwellenwert: [BETRAG]
-   5.3 Verjährung: 18 Monate ab Closing; Steuergarantien: Veranlagungszeitraum + 3 Monate
+ 5.1 Cap: [BETRAG / PROZENTSATZ]
+ 5.2 Basket: [TIPPING / DEDUCTIBLE] Schwellenwert: [BETRAG]
+ 5.3 Verjährung: 18 Monate ab Closing; Steuergarantien: Veranlagungszeitraum + 3 Monate
 6. MAC-KLAUSEL (MATERIAL ADVERSE CHANGE)
 7. KAEUFER-GARANTIEN
 8. SCHLUSSBESTIMMUNGEN (Schiedsklausel / Gerichtsstand, Rechtsordnung, Kosten)
 
 ANLAGEN:
-  Anlage 3.2 — Closing Deliverables
-  Anlage 4.2 — Business Warranties
-  Anlage 4.5 — Disclosure Letter
+ Anlage 3.2 — Closing Deliverables
+ Anlage 4.2 — Business Warranties
+ Anlage 4.5 — Disclosure Letter
 ```
 
 --- vor Versand klaeren ---

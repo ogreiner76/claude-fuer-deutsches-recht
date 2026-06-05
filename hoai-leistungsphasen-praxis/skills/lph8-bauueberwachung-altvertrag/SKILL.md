@@ -1,13 +1,13 @@
 ---
 name: lph8-bauueberwachung-altvertrag
-description: "Nutze dies, wenn Lph8 Bauueberwachung Windpark Fundament Turm, Hoai Altvertrag Mindestsatzstreit, Hoai Architektenvertrag Bgb 650P, Hoai Lph 01 Vertrag Und Beauftragungsumfang, Hoai Lph 02 Vertrag Und Beauftragungsumfang im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Bitte Lph8 Bauueberwachung Windpark Fundament Turm, Hoai Altvertrag Mindestsatzstreit, Hoai Architektenvertrag Bgb 650P, Hoai Lph 01 Vertrag Und Beauftragungsumfang, Hoai Lph 02 Vertrag Und Beauftragungsumfang prüfen.; Erstelle eine Arbeitsfassung zu Lph8 Bauueberwachung Windpark Fundament Turm, Hoai Altvertrag Mindestsatzstreit, Hoai Architektenvertrag Bgb 650P, Hoai Lph 01 Vertrag Und Beauftragungsumfang, Hoai Lph 02 Vertrag Und Beauftragungsumfang.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lph8 Bauueberwachung Windpark Fundament Turm, Hoai Altvertrag Mindestsatzstreit, Hoai Architektenvertrag Bgb 650p, Hoai Lph 01 Vertrag Und Beauftragungsumfang: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lph8 Bauueberwachung Windpark Fundament Turm, Hoai Altvertrag Mindestsatzstreit, Hoai Architektenvertrag Bgb 650P, Hoai Lph 01 Vertrag Und Beauftragungsumfang, Hoai Lph 02 Vertrag Und Beauftragungsumfang
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lph8 Bauueberwachung Windpark Fundament Turm, Hoai Altvertrag Mindestsatzstreit, Hoai Architektenvertrag Bgb 650P, Hoai Lph 01 Vertrag Und Beauftragungsumfang, Hoai Lph 02 Vertrag Und Beauftragungsumfang** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -117,7 +117,7 @@ Fundamentabnahmeprotokoll mit Bewehrungsabnahme-Bescheinigung, Frischbetonprotok
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **ordnet Altverträge vor 2021 und Mindestsatz-/EuGH-/BGH-Risiken** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **ordnet Altverträge vor 2021 und Mindestsatz-/EuGH-/BGH-Risiken** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -147,7 +147,7 @@ Dieser Querschnitts-Skill bearbeitet **ordnet Altverträge vor 2021 und Mindests
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **prüft Planungsgrundlage, Ziele, Kosteneinschätzung und Vertragspflichten** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **prüft Planungsgrundlage, Ziele, Kosteneinschätzung und Vertragspflichten** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 

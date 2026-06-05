@@ -34,7 +34,7 @@ Vor jedem Antrag nach § 3a Abs. 4 EStG ist zu prüfen, ob die vorhandenen Verlu
 - **§ 8c KStG, § 8d KStG** — Verlustuntergang bei Anteilseignerwechsel; Verschonungsregel.
 - **§ 7b GewStG** — Gewerbesteuer-Befreiung; mit § 10a S. 1 GewStG analog gekoppelt.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt | Output |
 |---|---|---|
@@ -72,13 +72,13 @@ Vor jedem Antrag nach § 3a Abs. 4 EStG ist zu prüfen, ob die vorhandenen Verlu
 ### Berechnungsbeispiel 1: Verlustvortrag deckt vollständig
 
 ```
-Sanierungsertrag                       EUR 600.000
-KSt-Verlustvortrag                     EUR 900.000
-Gewerbeverlust-Vortrag                 EUR 700.000
+Sanierungsertrag EUR 600.000
+KSt-Verlustvortrag EUR 900.000
+Gewerbeverlust-Vortrag EUR 700.000
 
 Mindestbesteuerung KSt:
-  Sockel 1.000.000 + 60 % (600.000 - 1.000.000) → entfaellt
-  Sanierungsertrag < Sockel; voll nutzbar
+ Sockel 1.000.000 + 60 % (600.000 - 1.000.000) → entfaellt
+ Sanierungsertrag < Sockel; voll nutzbar
 
 ► Verbrauch KSt 600.000 (Verlustvortrag verbleibt 300.000)
 ► Verbrauch GewSt 600.000 (Vortrag verbleibt 100.000)
@@ -89,16 +89,16 @@ Mindestbesteuerung KSt:
 ### Berechnungsbeispiel 2: Verlustvortrag deckt teilweise
 
 ```
-Sanierungsertrag                       EUR 2.500.000
-KSt-Verlustvortrag                     EUR 1.500.000
+Sanierungsertrag EUR 2.500.000
+KSt-Verlustvortrag EUR 1.500.000
 
 Mindestbesteuerung KSt:
-  Sockel 1.000.000 + 60 % (2.500.000 - 1.000.000) = 1.900.000
-  maximal nutzbarer Vortrag             EUR 1.500.000 (limitiert durch Vortrag selbst)
+ Sockel 1.000.000 + 60 % (2.500.000 - 1.000.000) = 1.900.000
+ maximal nutzbarer Vortrag EUR 1.500.000 (limitiert durch Vortrag selbst)
 
-  ► Sanierungsertrag 2.500.000
-  ► nutzbarer Vortrag 1.500.000
-  ► verbleibend steuerpflichtig 1.000.000
+ ► Sanierungsertrag 2.500.000
+ ► nutzbarer Vortrag 1.500.000
+ ► verbleibend steuerpflichtig 1.000.000
 
 ► Antrag § 3a IV EStG: erforderlich für 1.000.000
 ► Verlustvortrag wird voll verbraucht
@@ -108,12 +108,12 @@ Mindestbesteuerung KSt:
 
 ```
 Anteilseignerwechsel 60 % im Februar Jahr X
-  ► Verlustvortrag KSt geht unter (§ 8c KStG)
-  ► sofern nicht § 8d KStG-Antrag in Steuererklärung Jahr X gestellt
+ ► Verlustvortrag KSt geht unter (§ 8c KStG)
+ ► sofern nicht § 8d KStG-Antrag in Steuererklärung Jahr X gestellt
 
 Sanierungsforderungsverzicht im November Jahr X
-  ► Sanierungsertrag voll steuerpflichtig
-  ► Antrag § 3a IV EStG zwingend
+ ► Sanierungsertrag voll steuerpflichtig
+ ► Antrag § 3a IV EStG zwingend
 
 Lehre: Vor Sanierung § 8d KStG-Antrag sichern.
 ```
@@ -161,6 +161,6 @@ Lehre: Vor Sanierung § 8d KStG-Antrag sichern.
 - **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
 - **OFD Frankfurt a. M., Rundverfügung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
 
-### Querverweis Liquidations-Spezial-Skill
+### Querverweis Liquidations-Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse: bei Liquidation Wegfall der Verbindlichkeit mit Erloeschen mangels Steuersubjekt (FG Köln 13 K 3006/11), wodurch der Definitiveffekt sich nicht materialisiert.

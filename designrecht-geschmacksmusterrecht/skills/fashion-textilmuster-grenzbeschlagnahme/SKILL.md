@@ -1,13 +1,13 @@
 ---
 name: fashion-textilmuster-grenzbeschlagnahme
-description: "Nutze dies, wenn Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design prüfen.; Erstelle eine Arbeitsfassung zu Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fashion Textilmuster Designschutz, Grenzbeschlagnahme Design** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

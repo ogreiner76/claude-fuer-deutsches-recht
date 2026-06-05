@@ -1,12 +1,12 @@
 ---
 name: paket
-description: "Nutze dies, wenn Paket: Internationaler Bezug und Schnittstellen im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Paket: Internationaler Bezug und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Paket: Internationaler Bezug und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Paket: Internationaler Bezug und Schnittstellen: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Paket: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Paket: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Paket: Internationaler Bezug und Schnittstellen / spezial paket internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Paket: Internationaler Bezug und Schnittstellen / paket internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -30,13 +30,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Internationaler Bezug Datenschutz — Schnittstellen
 - **Räumlicher Anwendungsbereich DSGVO Art. 3:**
-  - Abs. 1: Verantwortlicher/Auftragsverarbeiter mit Niederlassung in EU/EWR.
-  - Abs. 2: Drittlandsanbieter, der Waren/Dienste an EU-Betroffene anbietet (lit. a) oder Verhalten in EU beobachtet (lit. b).
+ - Abs. 1: Verantwortlicher/Auftragsverarbeiter mit Niederlassung in EU/EWR.
+ - Abs. 2: Drittlandsanbieter, der Waren/Dienste an EU-Betroffene anbietet (lit. a) oder Verhalten in EU beobachtet (lit. b).
 - **Drittlandstransfer Art. 44 ff. DSGVO:**
-  - **Adäquanzbeschluss Art. 45**: aktuelle Liste auf ec.europa.eu (z. B. Schweiz, UK, Israel, Japan, Korea, Andorra, Argentinien etc.).
-  - **DPF (US-Adäquanz)**: VO 2023/1795 — nur teilnehmende US-Unternehmen (Liste dataprivacyframework.gov).
-  - **SCC** (Beschluss 2021/914): Modul 1 (C-C), 2 (C-P), 3 (P-P), 4 (P-C); + Annex II TOM + Annex III Subunternehmer + ggf. Annex I Beteiligte.
-  - **TIA (Transfer Impact Assessment)**: nach Schrems II (Rs. C-311/18) Pflicht; nach EDSA-Empfehlung 01/2020.
+ - **Adäquanzbeschluss Art. 45**: aktuelle Liste auf ec.europa.eu (z. B. Schweiz, UK, Israel, Japan, Korea, Andorra, Argentinien etc.).
+ - **DPF (US-Adäquanz)**: VO 2023/1795 — nur teilnehmende US-Unternehmen (Liste dataprivacyframework.gov).
+ - **SCC** (Beschluss 2021/914): Modul 1 (C-C), 2 (C-P), 3 (P-P), 4 (P-C); + Annex II TOM + Annex III Subunternehmer + ggf. Annex I Beteiligte.
+ - **TIA (Transfer Impact Assessment)**: nach Schrems II (Rs. C-311/18) Pflicht; nach EDSA-Empfehlung 01/2020.
 - **Behördenpaket:** Standardformulare BfDI/LDI/LDA; ggf. Auskunftsersuchen Art. 58 Abs. 1 lit. a, Anordnungen lit. d.
 - **EU/EWR-Niederlassung:** Bei Anbieter aus Drittstaat → Pflicht Vertreter Art. 27 DSGVO.
 

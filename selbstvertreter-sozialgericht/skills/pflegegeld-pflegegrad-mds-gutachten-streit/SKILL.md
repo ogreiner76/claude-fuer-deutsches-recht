@@ -1,13 +1,13 @@
 ---
 name: pflegegeld-pflegegrad-mds-gutachten-streit
-description: "Nutze dies, wenn Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige prüfen.; Erstelle eine Arbeitsfassung zu Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi, Pflegekasse Pflegekurse Und Angehoerige** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -294,7 +294,7 @@ Insgesamt heute ca. 170 Minuten Hilfe.
 ### Schritt 5 — Widerspruch mit Pflegeprotokoll
 
 ```
-[Pflegekasse]                                       [Ort, Datum]
+[Pflegekasse] [Ort, Datum]
 
 Versicherten-Nr: [...]
 

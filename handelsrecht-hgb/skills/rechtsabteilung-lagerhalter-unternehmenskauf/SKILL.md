@@ -1,19 +1,19 @@
 ---
 name: rechtsabteilung-lagerhalter-unternehmenskauf
-description: "Nutze dies, wenn Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb Haftung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-lagerhalter-und-speditionshaftung` | Rechtsabteilungs-Spezialskill für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden schnell berechnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-lagerhalter-und-speditionshaftung` | Rechtsabteilungs-Fachmodul für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden schnell berechnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `unternehmenskauf-hgb-haftung` | Prüft Firmenfortführung, Handelsgeschäft, Prokura, Vertragsübernahme und Haftungsrisiken im Asset Deal. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Rechtsabteilung Lagerhalter Und Speditionshaftung, Unternehmenskauf Hgb H
 
 ## 1. `rechtsabteilung-lagerhalter-und-speditionshaftung`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden schnell berechnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Lagerhalter- und Speditionshaftung: Schaden, Haftungsgrenzen und Regressketten werden schnell berechnet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Lagerhalter- und Speditionshaftung
 

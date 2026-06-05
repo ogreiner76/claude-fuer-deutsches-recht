@@ -1,13 +1,13 @@
 ---
 name: kommunalvermoegen-02
-description: "Nutze dies, wenn Ein 077 Kommunalvermoegen Behoerdenbrief Schre, Ein 078 Kommunalvermoegen Widerspruch Prüfen, Ein 079 Kommunalvermoegen Klage Skizzieren, Ein 080 Kommunalvermoegen Vergleich Bewerten im Plugin Einigungsvertrag Vermoegensrecht konkret bearbeitet werden soll. Auslöser: Bitte Ein 077 Kommunalvermoegen Behoerdenbrief Schre, Ein 078 Kommunalvermoegen Widerspruch Prüfen, Ein 079 Kommunalvermoegen Klage Skizzieren, Ein 080 Kommunalvermoegen Vergleich Bewerten prüfen.; Erstelle eine Arbeitsfassung zu Ein 077 Kommunalvermoegen Behoerdenbrief Schre, Ein 078 Kommunalvermoegen Widerspruch Prüfen, Ein 079 Kommunalvermoegen Klage Skizzieren, Ein 080 Kommunalvermoegen Vergleich Bewerten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ein 077 Kommunalvermoegen Behoerdenbrief Schre, Ein 078 Kommunalvermoegen Widerspruch Prüfen, Ein 079 Kommunalvermoegen Klage Skizzieren, Ein 080 Kommunalvermoegen Vergleich Bewerten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ein 077 Kommunalvermoegen Behoerdenbrief Schre, Ein 078 Kommunalvermoegen Widerspruch Prüfen, Ein 079 Kommunalvermoegen Klage Skizzieren, Ein 080 Kommunalvermoegen Vergleich Bewerten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ein 077 Kommunalvermoegen Behoerdenbrief Schre, Ein 078 Kommunalvermoegen Widerspruch Prüfen, Ein 079 Kommunalvermoegen Klage Skizzieren, Ein 080 Kommunalvermoegen Vergleich Bewerten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: schoeffe-medienkontakt-sitzung
-description: "Nutze dies, wenn Schoeffe Medienkontakt Sitzung, Schoeffe Opferzeugenschutz Orientierung, Schoeffe Opferzeugenschutz Sitzung im Plugin Schoeffen Handelsrichter Praxis konkret bearbeitet werden soll. Auslöser: Bitte Schoeffe Medienkontakt Sitzung, Schoeffe Opferzeugenschutz Orientierung, Schoeffe Opferzeugenschutz Sitzung prüfen.; Erstelle eine Arbeitsfassung zu Schoeffe Medienkontakt Sitzung, Schoeffe Opferzeugenschutz Orientierung, Schoeffe Opferzeugenschutz Sitzung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schoeffe Medienkontakt Sitzung, Schoeffe Opferzeugenschutz Orientierung, Schoeffe Opferzeugenschutz Sitzung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Schoeffe Medienkontakt Sitzung, Schoeffe Opferzeugenschutz Orientierung, Schoeffe Opferzeugenschutz Sitzung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Schoeffe Medienkontakt Sitzung, Schoeffe Opferzeugenschutz Orientierung, Schoeffe Opferzeugenschutz Sitzung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

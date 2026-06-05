@@ -1,13 +1,13 @@
 ---
 name: forschung-studien-gewaltschutz
-description: "Nutze dies, wenn Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie prüfen.; Erstelle eine Arbeitsfassung zu Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Forschung Studien Ethikkommission Datenschutz, Gewaltschutz Sicherheitsdienst Hausverbot, Haftpflichtfall Krankenhaus Gutachtenstrategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -145,7 +145,7 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 - **HeilberG der Laender** Aerztekammer-Schiedsstellen.
 - **ZPO §§ 142, 411a, 412** Beweisrecht.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Akte sichern:** Vollstaendige Patientenakte mit Pflege-, OP-, Anaesthesieprotokoll und Aufklaerung; Versionierung, Manipulationssicherung.
 2. **Versicherung informieren:** Schadensmeldung unverzueglich; Obliegenheiten beachten.
 3. **Interne Aufarbeitung:** Critical Incident Reporting (CIRS), Ursachenanalyse, Lessons Learned (ohne Schuldzuweisung gegen Aufklaerungseffekt).

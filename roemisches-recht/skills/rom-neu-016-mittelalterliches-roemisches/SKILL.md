@@ -1,6 +1,6 @@
 ---
 name: rom-neu-016-mittelalterliches-roemisches
-description: "Nutze dies, wenn Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna

@@ -1,19 +1,19 @@
 ---
 name: fachanwalt-strafrecht-orientierung
-description: "Nutze dies, wenn Fachanwalt Strafrecht Orientierung, Fachanwalt Strafrecht Untersuchungshaft Haftpruefung, Fachanwalt Strafrecht Verstaendigung 257C Toa 46A, Fachanwalt Strafrecht Wahlverteidiger Mandat, Fachanwalt Strafrecht Zeugenbeistand im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Strafrecht Orientierung, Fachanwalt Strafrecht Untersuchungshaft Haftpruefung, Fachanwalt Strafrecht Verstaendigung 257C Toa 46A, Fachanwalt Strafrecht Wahlverteidiger Mandat, Fachanwalt Strafrecht Zeugenbeistand prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Strafrecht Orientierung, Fachanwalt Strafrecht Untersuchungshaft Haftpruefung, Fachanwalt Strafrecht Verstaendigung 257C Toa 46A, Fachanwalt Strafrecht Wahlverteidiger Mandat, Fachanwalt Strafrecht Zeugenbeistand.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Strafrecht Orientierung, Fachanwalt Strafrecht Untersuchungshaft Haftpruefung, Fachanwalt Strafrecht Verstaendigung 257c Toa 46a, Fachanwalt Strafrecht Wahlverteidiger Mandat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Strafrecht Orientierung, Fachanwalt Strafrecht Untersuchungshaft Haftpruefung, Fachanwalt Strafrecht Verstaendigung 257C Toa 46A, Fachanwalt Strafrecht Wahlverteidiger Mandat, Fachanwalt Strafrecht Zeugenbeistand
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Strafrecht Orientierung, Fachanwalt Strafrecht Untersuchungshaft Haftpruefung, Fachanwalt Strafrecht Verstaendigung 257C Toa 46A, Fachanwalt Strafrecht Wahlverteidiger Mandat, Fachanwalt Strafrecht Zeugenbeistand** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-strafrecht-orientierung` | Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und richtigen Spezial-Skill finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Prüfraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zum richtigen Workflow-Skill. Abgrenzung zu Mandat-Triage-Strafrecht für ausführliche Erstaufnahme. |
+| `fachanwalt-strafrecht-orientierung` | Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und passendes Fachmodul finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Prüfraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zum richtigen Arbeitsmodul. Abgrenzung zu Mandat-Triage-Strafrecht für ausführliche Erstaufnahme. |
 | `fachanwalt-strafrecht-untersuchungshaft-haftpruefung` | Untersuchungshaft und Haftprüfung nach §§ 112 ff. StPO: Anwendungsfall Mandant wurde verhaftet und Strafverteidiger muss Haftbefehl anfechten oder Haftprüfungsantrag stellen. §§ 112-113 StPO Haftgründe Fluchtgefahr Verdunkelungsgefahr Wiederholungsgefahr, § 117 StPO Haftprüfung 3-Monats-Frist, § 304 StPO Haftbeschwerde. Prüfraster dringender Tatverdacht prüfen, Haftgrundargumente widerlegen, verhältnismäßige Alternativmassnahmen anbieten. Output Haftbefehlsanfechtung oder Haftprüfungsantrag mit Argumentationsstrategie. Abgrenzung zu Erstgespraeach und zu Hauptverhandlung-Vorbereiten. |
 | `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` | Verständigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a StGB vorbereiten: Anwendungsfall Strafverteidiger prüft ob Einigung durch Deal Einstellung oder TOA für Mandanten vorteilhaft ist. § 257c StPO Verständigung Gestaendnis gegen Strafrahmen, § 46a StGB Taeter-Opfer-Ausgleich Strafmilderung, § 153a StPO Einstellung gegen Auflage. Prüfraster Verständigungs-Eignung beurteilen, Gestaendnis-Risiken prüfen, TOA-Bereitschaft Opfer, Mandant belehren. Output Verständigungs-Strategie-Memo mit Gespraeachsskript und Belehrungsprotokoll. Abgrenzung zu Plaedoyer-Vorbereitung für Hauptverhandlung und zu Einlassung. |
 | `fachanwalt-strafrecht-wahlverteidiger-mandat` | Wahlverteidiger-Mandat im Strafrecht beginnen: Anwendungsfall Beschuldigter waehlt Strafverteidiger und Erstgespraeach muss Schweigerecht Akteneinsicht Honorar und Strategie klaeren. § 136 StPO Schweigerecht Erstbelehrung, § 137 StPO Verteidigerrecht, § 147 StPO Akteneinsicht. Prüfraster Schweigerecht kommunizieren, eigene Einschaetzung zurückhalten bis Akte vorliegt, Honorarvereinbarung über RVG hinaus, Verteidigungsstrategie aktiv vs. passiv besprechen. Output Erstgespraeach-Protokoll mit Sofortmassnahmen und Honorarvereinbarung. Abgrenzung zu Erstgespraeach-Mandatsannahme für allgemeine Aufnahme und zu Akteneinsicht. |
@@ -28,7 +28,7 @@ Für **Fachanwalt Strafrecht Orientierung, Fachanwalt Strafrecht Untersuchungsha
 
 ## 1. `fachanwalt-strafrecht-orientierung`
 
-**Fokus:** Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und richtigen Spezial-Skill finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Prüfraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zum richtigen Workflow-Skill. Abgrenzung zu Mandat-Triage-Strafrecht für ausführliche Erstaufnahme.
+**Fokus:** Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und passendes Fachmodul finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Prüfraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zum richtigen Arbeitsmodul. Abgrenzung zu Mandat-Triage-Strafrecht für ausführliche Erstaufnahme.
 
 # Fachanwalt für Strafrecht — Orientierung
 
@@ -207,9 +207,9 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 
 - Haftgrund kann durch mildere Maßnahmen abgewendet werden
 - Beispiele:
-  - Meldepflicht
-  - Pass-Hinterlegung
-  - Kaution
+ - Meldepflicht
+ - Pass-Hinterlegung
+ - Kaution
 
 ### Typische Maßnahmen
 
@@ -217,7 +217,7 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 - Tag-Anwesenheits-Auflage
 - Kontakt-Verbot
 
-## 7) Workflow Verteidigung
+## 7) Verteidigung
 
 ### Sofort-Schritte
 

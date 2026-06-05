@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-fao-gebrmg
-description: "Nutze dies, wenn Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation prüfen.; Erstelle eine Arbeitsfassung zu Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste, Gebrmg Verhandlung Vergleich Und Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation
+# Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste, Gebrmg Verhandlung Vergleich Und Eskalation
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste, Gebrmg Verhandlung Vergleich Und Eskalation** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Fachanwalt Erstpruefung Und Mandatsziel, Spezial Fao Dokumentenmatrix Und Lueckenliste, Spezial Gebrmg Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste, Gebrmg Verhandlung Vergleich Und Eskalation** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -129,7 +129,7 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 | Kostenaufklärung durchgeführt und protokolliert | ☐ |
 | Nächster Schritt festgelegt und Frist kommuniziert | ☐ |
 
-## Kaltstart
+## Einstieg
 1. Neues Mandat oder laufendes Verfahren mit neuem Fokus?
 2. Liegt eine eingehende Abmahnung, eine EV oder ein Sachverhalt ohne gegnerische Handlung vor?
 3. Was ist das primäre Mandatsziel (Unterlassung / Schadensersatz / Nichtigkeit / Lizenz)?
@@ -137,7 +137,7 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 5. Output: Erstprüfungs-Memo, Risikoampel, Mandantenbrief, Checkliste?
 
 ## Anschluss-Skills
-- `workflow-kaltstart-und-routing` – Routing in passende Spezialskills.
+- `workflow-kaltstart-und-routing` – Routing in passende Fachmodule.
 - `spezial-fao-dokumentenmatrix-und-lueckenliste` – FAO-Dokumentation.
 - `gr-abmahnung-workflow` – Nach Erstprüfung: Abmahnung vorbereiten.
 
@@ -180,8 +180,8 @@ Dieser Skill unterstützt bei der Vorbereitung des Antrags auf Verleihung der Fa
 
 ### Praktische Erfahrungen (§ 14k Abs. 1 FAO)
 - Mindest-Fallzahlen je Bereich (§ 14k FAO i.V.m. § 6 FAO):
-  - Markenrecht, Patentrecht, Designrecht, Urheberrecht, Wettbewerbsrecht.
-  - Mindestens **je 5 Fälle** in mindestens **3 der 5 Bereiche** (genaue Anforderungen in § 14k FAO prüfen – Änderungen durch RAK-Satzungen möglich).
+ - Markenrecht, Patentrecht, Designrecht, Urheberrecht, Wettbewerbsrecht.
+ - Mindestens **je 5 Fälle** in mindestens **3 der 5 Bereiche** (genaue Anforderungen in § 14k FAO prüfen – Änderungen durch RAK-Satzungen möglich).
 
 **Live-Check erforderlich:** [brak.de](https://www.brak.de) und zuständige RAK für aktuelle Fallzahlenanforderungen.
 
@@ -240,7 +240,7 @@ Dieser Skill unterstützt bei der Vorbereitung des Antrags auf Verleihung der Fa
 | Falsche Bereichszuordnung | RAK korrigiert; ggf. Lücke | Bereich vorab mit RAK abstimmen |
 | Lehrgang zu alt (§ 7 Abs. 2 FAO: keine zeitliche Begrenzung, aber aktuell halten) | Je nach RAK | Aktualität sicherstellen |
 
-## Kaltstart
+## Einstieg
 1. Wie weit ist die Fallliste und in welchen Bereichen fehlen noch Nachweise?
 2. Wie viele Stunden des Fachanwaltslehrgangs sind absolviert?
 3. Welcher Zeitraum ist für die Fallzählung maßgeblich?
@@ -341,21 +341,21 @@ Dieser Skill behandelt das Gebrauchsmusterrecht in der Praxis: Schutzvoraussetzu
 
 ```
 Verletzung festgestellt
-       ↓
+ ↓
 Abmahnung (mit Unterlassungsforderung)
-       ↓
+ ↓
 Reaktion: UE abgegeben? → Vergleich / Abschluss
-       ↓
+ ↓
 Keine ausreichende UE → EV-Antrag oder Klage
-       ↓
+ ↓
 Parallele Strategie: Löschungsantrag DPMA prüfen (Gegenseite)
-       ↓
+ ↓
 Verhandlung nach Klagezustellung: Vergleich prüfen
-       ↓
+ ↓
 Urteil → ggf. Berufung
 ```
 
-## Kaltstart
+## Einstieg
 1. Welches Gebrauchsmuster ist betroffen (Nummer, Anmeldetag, Schutzbereich)?
 2. Liegt eine Verletzungshandlung oder ein Löschungsangriff vor?
 3. Besteht Vergleichsbereitschaft der Gegenseite?

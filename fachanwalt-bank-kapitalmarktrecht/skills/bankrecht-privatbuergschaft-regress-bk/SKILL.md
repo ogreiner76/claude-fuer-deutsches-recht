@@ -1,13 +1,13 @@
 ---
 name: bankrecht-privatbuergschaft-regress-bk
-description: "Nutze dies, wenn Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Bitte Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern prüfen.; Erstelle eine Arbeitsfassung zu Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bankrecht Privatbuergschaft Sittenwidrigkeit, Bankrecht Regress Nach Avalzahlung, Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `bankrecht-privatbuergschaft-sittenwidrigkeit` | Privat-, Ehegatten- und Angehörigenbürgschaft prüfen: § 138 BGB, krasse finanzielle Überforderung, emotionaler Druck, Eigeninteresse, Bankkenntnis, Schriftform und Vergleichsstrategie. |
 | `bankrecht-regress-nach-avalzahlung` | Regress nach Aval-, Bürgschafts- oder Garantiezahlung im Bankmandat prüfen: § 774 BGB, Aufwendungsersatz, Kontobelastung, Sicherheiten, Mitbürgen, Insolvenz, Anfechtung und Vergleich. |
-| `bk-aufsicht-zag-dora-inhkontrolle-crr-arbeitskern` | Fachanwalts-Spezialskill für Bankaufsicht: ZAG-Erlaubnis, DORA-IKT-Risiko, KWG-Anzeigen nach AnzV, Inhaberkontrolle und CRR-Folgen in Mandatsvermerken, Behördenantworten und Prozessstrategie verknüpfen. |
+| `bk-aufsicht-zag-dora-inhkontrolle-crr-arbeitskern` | Fachanwalts-Fachmodul für Bankaufsicht: ZAG-Erlaubnis, DORA-IKT-Risiko, KWG-Anzeigen nach AnzV, Inhaberkontrolle und CRR-Folgen in Mandatsvermerken, Behördenantworten und Prozessstrategie verknüpfen. |
 
 ## Arbeitsweg
 
@@ -98,7 +98,7 @@ Liefere:
 
 ## 3. `bk-aufsicht-zag-dora-inhkontrolle-crr-arbeitskern`
 
-**Fokus:** Fachanwalts-Spezialskill für Bankaufsicht: ZAG-Erlaubnis, DORA-IKT-Risiko, KWG-Anzeigen nach AnzV, Inhaberkontrolle und CRR-Folgen in Mandatsvermerken, Behördenantworten und Prozessstrategie verknüpfen.
+**Fokus:** Fachanwalts-Fachmodul für Bankaufsicht: ZAG-Erlaubnis, DORA-IKT-Risiko, KWG-Anzeigen nach AnzV, Inhaberkontrolle und CRR-Folgen in Mandatsvermerken, Behördenantworten und Prozessstrategie verknüpfen.
 
 # Bankaufsicht: ZAG, DORA, Inhaberkontrolle und CRR – Arbeitskern
 

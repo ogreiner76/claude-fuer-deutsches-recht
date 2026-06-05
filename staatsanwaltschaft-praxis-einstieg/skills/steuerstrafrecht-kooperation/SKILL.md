@@ -1,13 +1,13 @@
 ---
 name: steuerstrafrecht-kooperation
-description: "Nutze dies, wenn Steuerstrafrecht Kooperation Finanzamt, Abschlussverfuegung Anfaengerfehler, Aktengeheimnis Und Ki Nutzung Sta, Anklageschrift Aufbau, Anklageschrift Grosse Wirtschaftsstrafkammer im Plugin Staatsanwaltschaft Praxis Einstieg konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Steuerstrafrecht Kooperation Finanzamt, Abschlussverfuegung Anfaengerfehler, Aktengeheimnis Und Ki Nutzung Sta, Anklageschrift Aufbau: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerstrafrecht Kooperation Finanzamt, Abschlussverfuegung Anfaengerfehler, Aktengeheimnis Und Ki Nutzung Sta, Anklageschrift Aufbau, Anklageschrift Grosse Wirtschaftsstrafkammer
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerstrafrecht Kooperation Finanzamt, Abschlussverfuegung Anfaengerfehler, Aktengeheimnis Und Ki Nutzung Sta, Anklageschrift Aufbau, Anklageschrift Grosse Wirtschaftsstrafkammer** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** AO, Steuerhinterziehung, Selbstanzeige, Steuerberechnung und Aktenführung
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -94,7 +94,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Anklage, Strafbefehl, Einstellung, Abgabe, Nebenentscheidungen und Mitteilungen
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -143,7 +143,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Amtsverschwiegenheit, Datenschutz, Testdaten, Anonymisierung und Tool-Governance
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
@@ -242,7 +242,7 @@ Nutze diesen Skill im Plugin **Staatsanwaltschaft Praxis-Einstieg**, wenn genau 
 
 **Fokus:** Umfangsverfahren, Konkretisierung, Beweismittel, Anlagen und Verständlichkeit
 
-## Kaltstart
+## Einstieg
 
 1. Rolle, Ziel und Entscheidungsdruck klaeren.
 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.

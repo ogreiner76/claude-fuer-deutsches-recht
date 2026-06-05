@@ -40,11 +40,11 @@ Eine Zelle die rechtlich grün aber datenschutzrechtlich rot ist ist nicht autom
 ## Ausgabe
 
 - `widerspruchsbericht.md` mit pro Widerspruch:
-  - Zeile (Dokument)
-  - Spalte (Datenpunkt)
-  - Arbeitsblatt-A und Arbeitsblatt-B mit jeweiliger Antwort
-  - Konflikt-Klassifikation
-  - Empfohlene Aktion (Re-Run / Prüfer / Konsolidierung)
+ - Zeile (Dokument)
+ - Spalte (Datenpunkt)
+ - Arbeitsblatt-A und Arbeitsblatt-B mit jeweiliger Antwort
+ - Konflikt-Klassifikation
+ - Empfohlene Aktion (Re-Run / Prüfer / Konsolidierung)
 
 ## Beispiele
 

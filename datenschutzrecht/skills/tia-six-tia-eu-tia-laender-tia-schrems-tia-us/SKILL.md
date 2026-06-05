@@ -1,13 +1,13 @@
 ---
 name: tia-six-tia-eu-tia-laender-tia-schrems-tia-us
-description: "Nutze dies, wenn Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung prüfen.; Erstelle eine Arbeitsfassung zu Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tia En Six Step Roadmap, Tia Eu Us Data Privacy Framework Aktueller Stand, Tia Länder Bewertung China India Brazil Uk, Tia Schrems Ii Eugh C 311 18 Grundlagen, Tia Us Fisa 702 Und Eo 12333 Bewertung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -51,7 +51,7 @@ This skill provides the English-language operational walk-through of EDPB Recomm
 - **EDPB Recommendation 02/2020** "European Essential Guarantees for surveillance measures" of 10 November 2020.
 - Articles 44–49 GDPR.
 
-## Workflow / Checklist
+## / Checklist
 
 ### Step 1 – Know your transfers
 
@@ -76,10 +76,10 @@ Options:
 
 - **Article 45 GDPR – Adequacy decision** (e.g. UK, Switzerland, Japan, South Korea, EU-US DPF for listed importers).
 - **Article 46 GDPR – Appropriate safeguards**:
-  - Standard Contractual Clauses (Decision (EU) 2021/914, modules 1-4),
-  - Binding Corporate Rules (Art. 47),
-  - Approved Codes of Conduct or certifications,
-  - DPA-issued contractual clauses.
+ - Standard Contractual Clauses (Decision (EU) 2021/914, modules 1-4),
+ - Binding Corporate Rules (Art. 47),
+ - Approved Codes of Conduct or certifications,
+ - DPA-issued contractual clauses.
 - **Article 49 GDPR – Derogations** (consent, contract performance, legal claims) – strict reading; not for routine flows.
 
 If Art. 45 applies, the TIA may be limited to Steps 1, 2, and 6 for the covered scope.
@@ -93,10 +93,10 @@ Check:
 - Which authorities have access powers?
 - What is the intensity of access? What safeguards exist (judicial control, suspicion-based access)?
 - Apply Recommendation 02/2020 – European Essential Guarantees (EEG):
-  - Guarantee A: rules must be clear, precise, and foreseeable.
-  - Guarantee B: necessity and proportionality.
-  - Guarantee C: independent oversight mechanism.
-  - Guarantee D: effective remedies for the data subject.
+ - Guarantee A: rules must be clear, precise, and foreseeable.
+ - Guarantee B: necessity and proportionality.
+ - Guarantee C: independent oversight mechanism.
+ - Guarantee D: effective remedies for the data subject.
 - Are the guarantees met in law **and** in practice?
 
 Sources for assessment: official reports, importer transparency reports, EDPB guidance, peer-reviewed public analyses.
@@ -139,35 +139,35 @@ Re-assess on triggers:
 
 ```
 1. Know your transfers
-   1.1 Transfer parties
-   1.2 Data categories
-   1.3 Sub-processors and onward transfers
-   1.4 Data flow diagram
+ 1.1 Transfer parties
+ 1.2 Data categories
+ 1.3 Sub-processors and onward transfers
+ 1.4 Data flow diagram
 
 2. Transfer tool
-   2.1 Chosen instrument
-   2.2 Reasoning
+ 2.1 Chosen instrument
+ 2.2 Reasoning
 
 3. Assessment of third-country law and practice
-   3.1 Government access powers
-   3.2 EEG assessment (A, B, C, D)
-   3.3 Importer transparency reports and operational experience
+ 3.1 Government access powers
+ 3.2 EEG assessment (A, B, C, D)
+ 3.3 Importer transparency reports and operational experience
 
 4. Supplementary measures
-   4.1 Technical
-   4.2 Contractual
-   4.3 Organisational
-   4.4 Effectiveness analysis
+ 4.1 Technical
+ 4.2 Contractual
+ 4.3 Organisational
+ 4.4 Effectiveness analysis
 
 5. Procedural steps
-   5.1 Contractual implementation
-   5.2 Supervisory authority consultation (where applicable)
-   5.3 Sign-off
+ 5.1 Contractual implementation
+ 5.2 Supervisory authority consultation (where applicable)
+ 5.3 Sign-off
 
 6. Re-evaluation
-   6.1 Triggers for re-assessment
-   6.2 Next review date
-   6.3 Emergency suspension process
+ 6.1 Triggers for re-assessment
+ 6.2 Next review date
+ 6.3 Emergency suspension process
 ```
 
 ## Common mistakes
@@ -277,20 +277,20 @@ DPF-Pruefvermerk:
 
 ```
 DPF-Prufung – Importeur: [Exakter Name laut DPF-Liste]
-Abrufdatum:               [YYYY-MM-DD]
-Abruf-URL:                https://www.dataprivacyframework.gov/list
-Aufruf durch:             [Bearbeiter]
-Listing-Status:           Active / Inactive
-Zertifizierungsdatum:     [...]
+Abrufdatum: [YYYY-MM-DD]
+Abruf-URL: https://www.dataprivacyframework.gov/list
+Aufruf durch: [Bearbeiter]
+Listing-Status: Active / Inactive
+Zertifizierungsdatum: [...]
 Naechste Re-Zertifizierung: [...]
-Track:                    EU-US DPF / Swiss-US DPF / UK Extension
-HR-Daten abgedeckt:       Ja / Nein
-Non-HR-Daten abgedeckt:   Ja / Nein
+Track: EU-US DPF / Swiss-US DPF / UK Extension
+HR-Daten abgedeckt: Ja / Nein
+Non-HR-Daten abgedeckt: Ja / Nein
 Im DPF gelistete Dienste: [aus DPF-Eintrag und Privacy Policy abgleichen]
-Beschwerdemechanismus:    [Independent Recourse Mechanism, z. B. AAA, JAMS, EU-DPA Panel]
-Bewertung:                DPF tragfaehig / nur teilweise / nicht tragfaehig
-Restrisiko:                [...]
-Fallback-Klausel im DPA:   [Verweis]
+Beschwerdemechanismus: [Independent Recourse Mechanism, z. B. AAA, JAMS, EU-DPA Panel]
+Bewertung: DPF tragfaehig / nur teilweise / nicht tragfaehig
+Restrisiko: [...]
+Fallback-Klausel im DPA: [Verweis]
 ```
 
 Hinweisbaustein im TIA-Schritt 2:
@@ -345,7 +345,7 @@ Hinweisbaustein im TIA-Schritt 2:
 
 ## Zweck
 
-Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-USA-Ziellaender: das Vereinigte Koenigreich (UK), die Volksrepublik China, Indien und Brasilien. Er ergaenzt die US-Spezial-Skills um die haeufigsten weiteren Cluster und liefert Pruefraster und Empfehlung fuer das Transferinstrument.
+Dieser Skill liefert die operative Drittlandbewertung fuer vier zentrale Nicht-USA-Ziellaender: das Vereinigte Koenigreich (UK), die Volksrepublik China, Indien und Brasilien. Er ergaenzt die US-Fachmodule um die haeufigsten weiteren Cluster und liefert Pruefraster und Empfehlung fuer das Transferinstrument.
 
 ## Wann brauchen Sie diesen Skill
 

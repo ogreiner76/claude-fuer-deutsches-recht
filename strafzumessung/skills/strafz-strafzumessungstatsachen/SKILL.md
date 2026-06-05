@@ -1,13 +1,13 @@
 ---
 name: strafz-strafzumessungstatsachen
-description: "Nutze dies, wenn Strafz Strafzumessungstatsachen Bauleiter, Strafzumessungs Tatsachen 46 Ii Stgb, Tagessatzhoehe 40 Ii Stgb Nettotagesverdienst im Plugin Strafzumessung konkret bearbeitet werden soll. Auslöser: Bitte Strafz Strafzumessungstatsachen Bauleiter, Strafzumessungs Tatsachen 46 Ii Stgb, Tagessatzhoehe 40 Ii Stgb Nettotagesverdienst prüfen.; Erstelle eine Arbeitsfassung zu Strafz Strafzumessungstatsachen Bauleiter, Strafzumessungs Tatsachen 46 Ii Stgb, Tagessatzhoehe 40 Ii Stgb Nettotagesverdienst.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafz Strafzumessungstatsachen Bauleiter, Strafzumessungs Tatsachen 46 Ii Stgb, Tagessatzhoehe 40 Ii Stgb Nettotagesverdienst: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Strafz Strafzumessungstatsachen Bauleiter, Strafzumessungs Tatsachen 46 Ii Stgb, Tagessatzhoehe 40 Ii Stgb Nettotagesverdienst
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafz Strafzumessungstatsachen Bauleiter, Strafzumessungs Tatsachen 46 Ii Stgb, Tagessatzhoehe 40 Ii Stgb Nettotagesverdienst** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -226,10 +226,10 @@ Die **Hoehe** des einzelnen Tagessatzes bildet die wirtschaftliche Leistungsfaeh
 ## Berechnungsschema
 
 ```
-1. Brutto-Monatseinkommen:              [BETRAG] EUR
-2. Abzuege Lohnsteuer + Sozialvers.:    [BETRAG] EUR
-3. Netto-Monatseinkommen:               [BETRAG] EUR
-4. Tagessatzhoehe (Netto / 30):         [BETRAG] EUR
+1. Brutto-Monatseinkommen: [BETRAG] EUR
+2. Abzuege Lohnsteuer + Sozialvers.: [BETRAG] EUR
+3. Netto-Monatseinkommen: [BETRAG] EUR
+4. Tagessatzhoehe (Netto / 30): [BETRAG] EUR
 ```
 
 ### Was vom Nettoeinkommen abzuziehen ist (Standard)

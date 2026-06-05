@@ -1,6 +1,6 @@
 ---
 name: precedent-quellenkarte
-description: "Nutze dies, wenn Precedent Quellenkarte im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies zur Quellenprüfung bei Precedent Quellenkarte: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
 # Precedent Quellenkarte

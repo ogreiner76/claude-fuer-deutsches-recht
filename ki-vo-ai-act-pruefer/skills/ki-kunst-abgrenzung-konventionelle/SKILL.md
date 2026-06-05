@@ -1,13 +1,13 @@
 ---
 name: ki-kunst-abgrenzung-konventionelle
-description: "Nutze dies, wenn Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25 im Plugin Ki Vo Ai Act Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25 prüfen.; Erstelle eine Arbeitsfassung zu Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -161,7 +161,7 @@ Datum: [DATUM]
 System / Komponente: [NAME]
 
 1. Technischer Befund
-[Regelwerk / Workflow / Statistik / ML-Modell / LLM / API / RAG / Hybrid]
+[Regelwerk / / Statistik / ML-Modell / LLM / API / RAG / Hybrid]
 
 2. Automation und Autonomie
 [Was läuft automatisch? Wo greift ein Mensch ein? Ist die Ausgabe menschlich vorbestimmt?]
@@ -359,7 +359,7 @@ Gepruefte Norm(en): [Art. 25 Rn. 5]
 Ergebnis:
 [ ] Anforderung erfuellt
 [ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
-    1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
+ 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
 [ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
 
 Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]

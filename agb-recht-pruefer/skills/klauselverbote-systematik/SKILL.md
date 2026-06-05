@@ -1,13 +1,13 @@
 ---
 name: klauselverbote-systematik
-description: "Nutze dies, wenn Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel prüfen.; Erstelle eine Arbeitsfassung zu Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklausel, Msa Rahmenvertrag, Preisanpassung Klausel** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,9 +15,9 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `klauselverbote-308-systematik` | Norm- und Dogmatik-Skill für Klauselverbote 308 Systematik: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `klauselverbote-309-systematik` | Norm- und Dogmatik-Skill für Klauselverbote 309 Systematik: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `konzernklausel` | Klausel-Spezialskill für Konzernklausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `msa-rahmenvertrag` | Branchen-Spezialskill für MSA Rahmenvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `preisanpassung-klausel` | Klausel-Spezialskill für Preisanpassung Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `konzernklausel` | Klausel-Fachmodul für Konzernklausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `msa-rahmenvertrag` | Branchen-Fachmodul für MSA Rahmenvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `preisanpassung-klausel` | Klausel-Fachmodul für Preisanpassung Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -54,19 +54,19 @@ Für **Klauselverbote 308 Systematik, Klauselverbote 309 Systematik, Konzernklau
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 308 BGB - Klauselverbote mit Wertungsmöglichkeit (B2C):**
-   - **Nr. 1:** Unangemessen lange Annahme- und Leistungsfrist. Begriff "unangemessen" eröffnet Wertung. Typische Grenze: Annahmefrist > 2 Wochen kritisch.
-   - **Nr. 1a:** Zahlungsfrist (Fälligkeit) - keine unangemessen lange Frist zur Erfüllung der Gegenleistung des Verwenders.
-   - **Nr. 1b:** Überprüfungs- und Abnahmefrist - nicht unangemessen lang.
-   - **Nr. 2:** Nachfrist zur Erbringung der Leistung des Verwenders - keine unangemessen lange Frist.
-   - **Nr. 3:** Lösungsvorbehalt des Verwenders aus der Vertragsbindung - nur, wenn sachlich gerechtfertigt.
-   - **Nr. 4:** Änderungsvorbehalt der versprochenen Leistung - nur bei Zumutbarkeit (-> siehe Skill aenderungsvorbehalt-308).
-   - **Nr. 5:** Fingierte Zustimmungserklärung - nur mit angemessener Frist und Hinweis (-> siehe fiktive-erklaerung-zustimmung-308).
-   - **Nr. 6:** Fingierter Zugang von Erklärungen (Zugangsfiktion).
-   - **Nr. 7:** Pauschale für Vertragsabwicklung (Stornierungsgebühren) - nur, wenn nicht über Erwartungsschaden und mit Nachweisvorbehalt.
-   - **Nr. 8:** Nichtverfügbarkeit der Leistung - sofortiges Rückzahlungsrecht des Kunden.
-   - **Nr. 9:** Abtretungsverbot - im B2C unwirksam, soweit es schutzwürdiges Interesse des Kunden überspielt.
-   - **Methodisches:** § 308 BGB lässt mehr Wertungsspielraum als § 309 BGB. Im Streitfall ist konkrete Interessenabwägung erforderlich.
-   - **B2B-Ausstrahlung:** § 310 Abs. 1 BGB schließt direkte Anwendung aus; Wertung über § 307 BGB möglich, aber differenzierter als bei § 309 BGB. Im B2B sind längere Fristen und einseitige Vorbehalte häufiger zulässig.
+ - **Nr. 1:** Unangemessen lange Annahme- und Leistungsfrist. Begriff "unangemessen" eröffnet Wertung. Typische Grenze: Annahmefrist > 2 Wochen kritisch.
+ - **Nr. 1a:** Zahlungsfrist (Fälligkeit) - keine unangemessen lange Frist zur Erfüllung der Gegenleistung des Verwenders.
+ - **Nr. 1b:** Überprüfungs- und Abnahmefrist - nicht unangemessen lang.
+ - **Nr. 2:** Nachfrist zur Erbringung der Leistung des Verwenders - keine unangemessen lange Frist.
+ - **Nr. 3:** Lösungsvorbehalt des Verwenders aus der Vertragsbindung - nur, wenn sachlich gerechtfertigt.
+ - **Nr. 4:** Änderungsvorbehalt der versprochenen Leistung - nur bei Zumutbarkeit (-> siehe Skill aenderungsvorbehalt-308).
+ - **Nr. 5:** Fingierte Zustimmungserklärung - nur mit angemessener Frist und Hinweis (-> siehe fiktive-erklaerung-zustimmung-308).
+ - **Nr. 6:** Fingierter Zugang von Erklärungen (Zugangsfiktion).
+ - **Nr. 7:** Pauschale für Vertragsabwicklung (Stornierungsgebühren) - nur, wenn nicht über Erwartungsschaden und mit Nachweisvorbehalt.
+ - **Nr. 8:** Nichtverfügbarkeit der Leistung - sofortiges Rückzahlungsrecht des Kunden.
+ - **Nr. 9:** Abtretungsverbot - im B2C unwirksam, soweit es schutzwürdiges Interesse des Kunden überspielt.
+ - **Methodisches:** § 308 BGB lässt mehr Wertungsspielraum als § 309 BGB. Im Streitfall ist konkrete Interessenabwägung erforderlich.
+ - **B2B-Ausstrahlung:** § 310 Abs. 1 BGB schließt direkte Anwendung aus; Wertung über § 307 BGB möglich, aber differenzierter als bei § 309 BGB. Im B2B sind längere Fristen und einseitige Vorbehalte häufiger zulässig.
 6. **Rechtsfolge:** Bei festgestelltem Verstoß Unwirksamkeit nach § 306 BGB.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -122,23 +122,23 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 309 BGB - Klauselverbote ohne Wertungsmöglichkeit (B2C-Katalog):**
-   - **Nr. 1:** Kurzfristige Preiserhöhungen (Lieferung binnen 4 Monate).
-   - **Nr. 2:** Leistungsverweigerungsrecht / Zurückbehaltung ausschließen oder beschränken.
-   - **Nr. 3:** Aufrechnungsverbot für unbestrittene/rechtskräftige Forderungen.
-   - **Nr. 4:** Pflicht des Verwenders zur Mahnung oder Fristsetzung beseitigen.
-   - **Nr. 5:** Schadenspauschale ohne Nachweisvorbehalt oder über Erwartungsschaden.
-   - **Nr. 6:** Vertragsstrafenversprechen vom Vertragspartner (absolutes Verbot B2C).
-   - **Nr. 7:** Haftungsausschluss für Leben/Körper/Gesundheit (lit. a) und Vorsatz/grobe Fahrlässigkeit (lit. b).
-   - **Nr. 8:** Mängelrechtebeschränkungen (8 Untertatbestände lit. a-h).
-   - **Nr. 9:** Lange Vertragslaufzeiten / automatische Verlängerung (seit 01.03.2022 verschärft).
-   - **Nr. 10:** Wechsel des Vertragspartners (Schuldnerwechsel ohne Zustimmung).
-   - **Nr. 11:** Haftung des Abschlussvertreters.
-   - **Nr. 12:** Beweislastregeln zum Nachteil des Kunden.
-   - **Nr. 13:** Form von Erklärungen über Textform hinaus (z.B. Schriftformerfordernis für Kundenkündigung).
-   - **Nr. 14:** Klage- und Schlichtungsklauseln (Schiedsabreden).
-   - **Nr. 15:** Abschlagszahlungen bei Werkverträgen.
-   - **Methodisches:** § 309 BGB ist abschließend in den dort genannten Tatbeständen. Klauseln, die nicht unter § 309 oder § 308 BGB fallen, werden über § 307 BGB geprüft.
-   - **B2B-Ausstrahlung:** § 310 Abs. 1 BGB; gleichwohl strahlen die Wertungen über § 307 BGB regelmäßig ins B2B aus (BGH, ständige Rechtsprechung).
+ - **Nr. 1:** Kurzfristige Preiserhöhungen (Lieferung binnen 4 Monate).
+ - **Nr. 2:** Leistungsverweigerungsrecht / Zurückbehaltung ausschließen oder beschränken.
+ - **Nr. 3:** Aufrechnungsverbot für unbestrittene/rechtskräftige Forderungen.
+ - **Nr. 4:** Pflicht des Verwenders zur Mahnung oder Fristsetzung beseitigen.
+ - **Nr. 5:** Schadenspauschale ohne Nachweisvorbehalt oder über Erwartungsschaden.
+ - **Nr. 6:** Vertragsstrafenversprechen vom Vertragspartner (absolutes Verbot B2C).
+ - **Nr. 7:** Haftungsausschluss für Leben/Körper/Gesundheit (lit. a) und Vorsatz/grobe Fahrlässigkeit (lit. b).
+ - **Nr. 8:** Mängelrechtebeschränkungen (8 Untertatbestände lit. a-h).
+ - **Nr. 9:** Lange Vertragslaufzeiten / automatische Verlängerung (seit 01.03.2022 verschärft).
+ - **Nr. 10:** Wechsel des Vertragspartners (Schuldnerwechsel ohne Zustimmung).
+ - **Nr. 11:** Haftung des Abschlussvertreters.
+ - **Nr. 12:** Beweislastregeln zum Nachteil des Kunden.
+ - **Nr. 13:** Form von Erklärungen über Textform hinaus (z.B. Schriftformerfordernis für Kundenkündigung).
+ - **Nr. 14:** Klage- und Schlichtungsklauseln (Schiedsabreden).
+ - **Nr. 15:** Abschlagszahlungen bei Werkverträgen.
+ - **Methodisches:** § 309 BGB ist abschließend in den dort genannten Tatbeständen. Klauseln, die nicht unter § 309 oder § 308 BGB fallen, werden über § 307 BGB geprüft.
+ - **B2B-Ausstrahlung:** § 310 Abs. 1 BGB; gleichwohl strahlen die Wertungen über § 307 BGB regelmäßig ins B2B aus (BGH, ständige Rechtsprechung).
 6. **Rechtsfolge:** Bei § 309 BGB direkter Unwirksamkeitsausspruch (§ 306 BGB); ohne Wertungsspielraum.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -168,7 +168,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `konzernklausel`
 
-**Fokus:** Klausel-Spezialskill für Konzernklausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Konzernklausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Konzernklausel
 
@@ -223,7 +223,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `msa-rahmenvertrag`
 
-**Fokus:** Branchen-Spezialskill für MSA Rahmenvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für MSA Rahmenvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # MSA Rahmenvertrag
 
@@ -278,7 +278,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `preisanpassung-klausel`
 
-**Fokus:** Klausel-Spezialskill für Preisanpassung Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Preisanpassung Klausel: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Preisanpassung Klausel
 
@@ -304,14 +304,14 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Preisanpassung:**
-   - **§ 309 Nr. 1 BGB:** Bei Verträgen mit Lieferung innerhalb von 4 Monaten nach Vertragsschluss ist eine Klausel zur kurzfristigen Erhöhung des Preises unwirksam (Verbrauchergeschäft). Für Dauerschuldverhältnisse greift die Sperre nicht direkt, dann aber § 307 BGB.
-   - **Anforderungen aus § 307 BGB (Dauerschuld, B2C und B2B):**
-     - **Anlass:** Konkreter, vom Verwender nicht beeinflussbarer Kostenfaktor (z.B. Rohstoffe, Energiekosten, gesetzliche Abgaben). Reines "Wirtschaftlichkeitserfordernis" reicht nicht.
-     - **Maßstab:** Berechnung muss anhand objektiv nachvollziehbarer Parameter erfolgen (z.B. Index, Tarifregelung).
-     - **Reziprozität:** Bei Kostensenkung muss der Verwender entsprechend die Preise senken (Symmetriegebot).
-     - **Transparenz:** Auslöser, Berechnungsmethode, Mitteilungsfrist müssen für den Kunden ex ante erkennbar sein.
-     - **Sonderkündigungsrecht:** Bei substantieller Erhöhung muss dem Kunden ein außerordentliches Kündigungsrecht eingeräumt werden (BGH, ständige Rechtsprechung zu Energie-/Telekommunikationsverträgen).
-   - **Häufige Fehler:** "Anpassung an die Marktentwicklung", "billiges Ermessen § 315 BGB" als Generalklausel - intransparent und einseitig. Keine Kostensenkungspflicht - unwirksam.
+ - **§ 309 Nr. 1 BGB:** Bei Verträgen mit Lieferung innerhalb von 4 Monaten nach Vertragsschluss ist eine Klausel zur kurzfristigen Erhöhung des Preises unwirksam (Verbrauchergeschäft). Für Dauerschuldverhältnisse greift die Sperre nicht direkt, dann aber § 307 BGB.
+ - **Anforderungen aus § 307 BGB (Dauerschuld, B2C und B2B):**
+ - **Anlass:** Konkreter, vom Verwender nicht beeinflussbarer Kostenfaktor (z.B. Rohstoffe, Energiekosten, gesetzliche Abgaben). Reines "Wirtschaftlichkeitserfordernis" reicht nicht.
+ - **Maßstab:** Berechnung muss anhand objektiv nachvollziehbarer Parameter erfolgen (z.B. Index, Tarifregelung).
+ - **Reziprozität:** Bei Kostensenkung muss der Verwender entsprechend die Preise senken (Symmetriegebot).
+ - **Transparenz:** Auslöser, Berechnungsmethode, Mitteilungsfrist müssen für den Kunden ex ante erkennbar sein.
+ - **Sonderkündigungsrecht:** Bei substantieller Erhöhung muss dem Kunden ein außerordentliches Kündigungsrecht eingeräumt werden (BGH, ständige Rechtsprechung zu Energie-/Telekommunikationsverträgen).
+ - **Häufige Fehler:** "Anpassung an die Marktentwicklung", "billiges Ermessen § 315 BGB" als Generalklausel - intransparent und einseitig. Keine Kostensenkungspflicht - unwirksam.
 6. **Rechtsfolge:** Unwirksamkeit; Preis bleibt unverändert auf Vertragsschlussniveau.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

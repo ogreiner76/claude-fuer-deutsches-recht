@@ -1,22 +1,22 @@
 ---
 name: freedom-to-public-disclosure-need-to-no
-description: "Nutze dies, wenn Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty prüfen.; Erstelle eine Arbeitsfassung zu Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `nda-und-freedom-to-operate` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Freedom To Operate; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `nda-und-public-disclosure` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Public Disclosure; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `need-to-know-empfaengerkreis` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Need To Know Empfaengerkreis; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `no-representation-no-warranty` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: No Representation No Warranty; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nda-und-freedom-to-operate` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Freedom To Operate; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `nda-und-public-disclosure` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Public Disclosure; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `need-to-know-empfaengerkreis` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Need To Know Empfaengerkreis; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `no-representation-no-warranty` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: No Representation No Warranty; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfa
 
 ## 1. `nda-und-freedom-to-operate`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Freedom To Operate; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Freedom To Operate; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Und Freedom To Operate
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `nda-und-public-disclosure`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Public Disclosure; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Public Disclosure; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Und Public Disclosure
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `need-to-know-empfaengerkreis`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Need To Know Empfaengerkreis; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Need To Know Empfaengerkreis; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Need To Know Empfaengerkreis
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `no-representation-no-warranty`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: No Representation No Warranty; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: No Representation No Warranty; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # No Representation No Warranty
 

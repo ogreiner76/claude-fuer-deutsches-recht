@@ -74,19 +74,19 @@ Folgende Struktur funktioniert gut:
 Begruendung des Widerspruchs
 
 I. Sachverhalt
-   - Was ist passiert, in einer geordneten Reihenfolge.
-   - Daten, Namen, Adressen.
+ - Was ist passiert, in einer geordneten Reihenfolge.
+ - Daten, Namen, Adressen.
 
 II. Rechtliche Bewertung
-   - Welche Entscheidung der Behoerde halte ich fuer falsch?
-   - Warum? (Tatsachen, die uebersehen wurden; Beweise, die nicht beachtet wurden; falsche Auslegung des Gesetzes)
+ - Welche Entscheidung der Behoerde halte ich fuer falsch?
+ - Warum? (Tatsachen, die uebersehen wurden; Beweise, die nicht beachtet wurden; falsche Auslegung des Gesetzes)
 
 III. Antrag
-   - Ich beantrage die Aufhebung des Bescheids vom [Datum].
-   - Hilfsweise: die Aenderung wie folgt: [...]
+ - Ich beantrage die Aufhebung des Bescheids vom [Datum].
+ - Hilfsweise: die Aenderung wie folgt: [...]
 
 IV. Beweismittel
-   - Liste aller Anlagen, nummeriert.
+ - Liste aller Anlagen, nummeriert.
 ```
 
 ### Schritt 5 — Konkrete Beispiele fuer typische Themen

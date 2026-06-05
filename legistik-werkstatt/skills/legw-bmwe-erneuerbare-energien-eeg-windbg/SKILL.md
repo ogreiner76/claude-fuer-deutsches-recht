@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Erneuerbare Energien (EEG; WindBG)
-Ressort:            BMWE
-Kernnormen:         EEG; WindBG; KWKG; SolarSpitzenG; BImSchG-Bezuege; ROG.
-Akteure/Aufsicht:   Bundesnetzagentur; Bafa; Laenderbehoerden Genehmigung; Planungsbehoerden.
-EU/Voelkerrecht:    RED III; State Aid Guidelines for Energy and Environment.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwe; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Erneuerbare Energien (EEG; WindBG)
+Ressort: BMWE
+Kernnormen: EEG; WindBG; KWKG; SolarSpitzenG; BImSchG-Bezuege; ROG.
+Akteure/Aufsicht: Bundesnetzagentur; Bafa; Laenderbehoerden Genehmigung; Planungsbehoerden.
+EU/Voelkerrecht: RED III; State Aid Guidelines for Energy and Environment.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

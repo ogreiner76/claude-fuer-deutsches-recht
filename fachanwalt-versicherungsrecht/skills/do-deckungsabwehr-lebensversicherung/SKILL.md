@@ -1,20 +1,20 @@
 ---
 name: do-deckungsabwehr-lebensversicherung
-description: "Nutze dies, wenn Fachanwalt Versicherungsrecht Do Deckungsabwehr, Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf, Fachanwalt Versicherungsrecht Leistungsablehnung Prüfen im Plugin Fachanwalt Versicherungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Versicherungsrecht Do Deckungsabwehr, Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf, Fachanwalt Versicherungsrecht Leistungsablehnung Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Versicherungsrecht Do Deckungsabwehr, Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf, Fachanwalt Versicherungsrecht Leistungsablehnung Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Versicherungsrecht Do Deckungsabwehr, Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf, Fachanwalt Versicherungsrecht Leistungsablehnung Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Versicherungsrecht Do Deckungsabwehr, Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf, Fachanwalt Versicherungsrecht Leistungsablehnung Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Versicherungsrecht Do Deckungsabwehr, Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf, Fachanwalt Versicherungsrecht Leistungsablehnung Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-versicherungsrecht-do-deckungsabwehr` | D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsansprüchen. Anwendungsfall Versicherung hat Deckung für Geschäftsführerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschäftsführer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Prüfraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschäftsbereich AVB-Auslegung. Output Deckungsanfragen-Prüfung mit AVB-Analyse Widerspruchsbegründung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-prüfen. |
-| `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` | Workflow-Skill zu fachanwalt versicherungsrecht lebensversicherung rueckkauf. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` | Arbeitsmodul zu fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-versicherungsrecht-leistungsablehnung-pruefen` | Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlässig § 307 BGB AGB-Kontrolle § 195 BGB Verjährung. Prüfraster Obliegenheitsverletzung Vorsatz grobe Fahrlässigkeit Kausalität Risikoausschluss AVB-Auslegung Verjährung Hemmung. Output Prüfvermerk mit Ablehnungsbegründung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-prüfen und fachanwalt-versicherungsrecht-deckungsklage. |
 
 ## Arbeitsweg
@@ -215,14 +215,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ```
 Ablehnungsgrund?
 ├─ Vorsatz (§ 103 VVG) → Beweislast beim Versicherer; nur bedingter Vorsatz ausreichend
-│   └─ Grobe Fahrlässigkeit? → kein Ausschluss; Versicherer haftet
+│ └─ Grobe Fahrlässigkeit? → kein Ausschluss; Versicherer haftet
 ├─ Claims-made abgelaufen → Nachhaftungsklausel prüfen (AVB)
-│   └─ Nachhaftung noch aktiv? → Versicherungsschutz besteht
+│ └─ Nachhaftung noch aktiv? → Versicherungsschutz besteht
 ├─ Selbstbehalt-Streit → § 93 II 3 AktG nur börsennotierte AG; GmbH vertraglich
 └─ Kooperationspflichtverletzung → nur bei nachgewiesenem Vorsatz leistungsfrei
 ```
 
-## Schritt-für-Schritt-Workflow D&O-Deckungsklage
+## Schritt-für-Schritt-D&O-Deckungsklage
 
 1. **Erstdokumentation:** Anspruchsschreiben gegen das Organ sichern; Versicherungspolice + alle AVB einholen; Nachhaftungsperiode prüfen.
 2. **Deckungsanzeige vorbereiten** und fristgemäß beim Versicherer einreichen — kein Anerkenntnis, keine Erklärungen ohne Abstimmung.
@@ -246,33 +246,33 @@ Streitwert: EUR [DECKUNGSSUMME]
 I. ANTRÄGE
 
 1. Die Beklagte wird verurteilt, den Kläger von der Zahlungspflicht
-   gegenüber [GESELLSCHAFT] aus dem Urteil/Beschluss vom [DATUM]
-   in Höhe von EUR [BETRAG] freizustellen.
+ gegenüber [GESELLSCHAFT] aus dem Urteil/Beschluss vom [DATUM]
+ in Höhe von EUR [BETRAG] freizustellen.
 2. Hilfsweise: Es wird festgestellt, dass die Beklagte verpflichtet ist,
-   dem Kläger aus dem D&O-Vertrag Pol.-Nr. [NR] Deckungsschutz
-   für den Anspruch [BESCHREIBUNG] zu gewähren.
+ dem Kläger aus dem D&O-Vertrag Pol.-Nr. [NR] Deckungsschutz
+ für den Anspruch [BESCHREIBUNG] zu gewähren.
 
 II. BEGRÜNDUNG
 
 1. Deckungsschutz dem Grunde nach
-   Der Kläger ist versicherte Person gem. § __ AVB D&O. Der
-   Anspruch [GESELLSCHAFT] gegen den Kläger wegen [§ 43 GmbHG /
-   § 93 AktG] ist ein versicherter Vermögensschaden i.S.d. § __ AVB.
+ Der Kläger ist versicherte Person gem. § __ AVB D&O. Der
+ Anspruch [GESELLSCHAFT] gegen den Kläger wegen [§ 43 GmbHG /
+ § 93 AktG] ist ein versicherter Vermögensschaden i.S.d. § __ AVB.
 
 2. Claims-made-Zeitraum
-   Anspruchserhebung durch [GESELLSCHAFT/IV] am [DATUM] — innerhalb
-   der Nachhaftungsperiode bis [DATUM].
+ Anspruchserhebung durch [GESELLSCHAFT/IV] am [DATUM] — innerhalb
+ der Nachhaftungsperiode bis [DATUM].
 
 3. Vorsatz-Einwand verfehlt
-   Der Versicherer trägt die Beweislast für Vorsatz (§ 103 VVG).
-   Der Kläger handelte lediglich fahrlässig [Tatsachenvortrag].
+ Der Versicherer trägt die Beweislast für Vorsatz (§ 103 VVG).
+ Der Kläger handelte lediglich fahrlässig [Tatsachenvortrag].
 
 4. Selbstbehalt-Berechnung
-   Selbstbehalt nach § __ AVB: EUR [BETRAG] (10 % oder 1,5×JG).
-   Restforderung: EUR [BETRAG].
+ Selbstbehalt nach § __ AVB: EUR [BETRAG] (10 % oder 1,5×JG).
+ Restforderung: EUR [BETRAG].
 
 Beweis: Anlage K1 Versicherungspolice, K2 AVB, K3 Ablehnungsschreiben,
-        K4 Gutachten [SV], K5 Vollmacht
+ K4 Gutachten [SV], K5 Vollmacht
 ```
 
 <!-- AUDIT 27.05.2026
@@ -281,7 +281,7 @@ BGH VI ZR 318/08 (13.10.2009): WRONG_TOPIC; tatsaechliches Thema ist Restwert be
 
 ## 2. `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf`
 
-**Fokus:** Workflow-Skill zu fachanwalt versicherungsrecht lebensversicherung rueckkauf. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt versicherungsrecht lebensversicherung rueckkauf: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Lebensversicherung Rückkauf
 
@@ -423,8 +423,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 1. **Vertragsabschluss vor oder nach 01.01.2008?** → Vor 2008 (alter VVG): Widerrufs-Joker prüfen; nach 2008 § 8 VVG (30-Tage-Frist).
 2. **Belehrungstext prüfen:** Entspricht er dem Gesetzesmuster? Wesentliche Elemente (Fristbeginn, Form, Rechtsfolgen) klar angegeben?
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   - Korrekt → ordentlicher Widerruf nur innerhalb von 30 Tagen möglich.
+ - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - Korrekt → ordentlicher Widerruf nur innerhalb von 30 Tagen möglich.
 3. **Rückkaufswert-Berechnung:** Angebot des Versicherers mit gesetzlichem Mindestbetrag § 169 Abs. 3 VVG abgleichen.
 4. **Stornogebühren im Vertrag?** → AGB-Kontrolle § 307 BGB; unwirksam wenn Rückkaufswert unter Mindestbetrag fällt.
 5. **Bewertungsreserven berücksichtigt?** → Versicherer muss hälftig zuweisen (§ 153 Abs. 3 VVG); Prüfung ggf. über BaFin-Auskunft.
@@ -469,7 +469,7 @@ Ich fordere Sie auf, bis zum [DATUM + 4 WOCHEN] folgendes zurückzuzahlen:
 - Alle eingezahlten Prämien: EUR [BETRAG GESAMT]
 - Abzüglich Risiko-Prämien (Todesfallschutz): EUR [ABZUG]
 - Zzgl. Nutzungszinsen: EUR [ZINSEN] (Berechnungsgrundlage: 5 %
-  über Basiszinssatz / marktübliche Rendite)
+ über Basiszinssatz / marktübliche Rendite)
 = Gesamtrückforderung: EUR [SUMME]
 
 Bei Nichterfüllung bis [FRIST]: Klageerhebung ohne weitere Ankündigung.
@@ -522,7 +522,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Prüfschema Ablehnungsschreiben
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. Anspruchsgrundlage benannt
 2. Tatsachen für Tatbestandsmerkmal richtig dargestellt
@@ -568,14 +568,14 @@ liegt vor weil [Begruendung].
 
 III. Zur Ablehnungsbegruendung
 1. Eine Obliegenheitsverletzung § 28 VVG liegt nicht vor weil
-   [Begruendung]. Hilfsweise ist die behauptete Verletzung jedenfalls
-   nicht kausal § 28 Abs. 3 VVG fuer Eintritt Feststellung oder
-   Umfang des Versicherungsfalls.
+ [Begruendung]. Hilfsweise ist die behauptete Verletzung jedenfalls
+ nicht kausal § 28 Abs. 3 VVG fuer Eintritt Feststellung oder
+ Umfang des Versicherungsfalls.
 2. Eine Anzeigepflichtverletzung § 19 VVG scheitert bereits an der
-   fehlenden Belehrung nach § 19 Abs. 5 VVG bzw. ist nicht
-   verschuldet.
+ fehlenden Belehrung nach § 19 Abs. 5 VVG bzw. ist nicht
+ verschuldet.
 3. Der zitierte Risikoausschluss in § __ AVB ist intransparent
-   § 307 Abs. 1 Satz 2 BGB und benachteiligt den VN unangemessen.
+ § 307 Abs. 1 Satz 2 BGB und benachteiligt den VN unangemessen.
 
 IV. Anspruchshoehe
 Die Versicherungsleistung betraegt EUR ____ nach [Berechnungsschema].

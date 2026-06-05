@@ -1,13 +1,13 @@
 ---
 name: db-ticketingdaten-db-stellenanzeigen-db
-description: "Nutze dies, wenn Db 023 Ticketingdaten Veranstaltungsdaten Und Kalender, Db 024 Stellenanzeigen Jobportal Und Scraping, Db 025 Rezeptdaten Gesundheitsdaten Und Sozialdaten im Plugin Datenbankrecht konkret bearbeitet werden soll. Auslöser: Bitte Db 023 Ticketingdaten Veranstaltungsdaten Und Kalender, Db 024 Stellenanzeigen Jobportal Und Scraping, Db 025 Rezeptdaten Gesundheitsdaten Und Sozialdaten prüfen.; Erstelle eine Arbeitsfassung zu Db 023 Ticketingdaten Veranstaltungsdaten Und Kalender, Db 024 Stellenanzeigen Jobportal Und Scraping, Db 025 Rezeptdaten Gesundheitsdaten Und Sozialdaten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Db 023 Ticketingdaten Veranstaltungsdaten Und Kalender, Db 024 Stellenanzeigen Jobportal Und Scraping, Db 025 Rezeptdaten Gesundheitsdaten Und Sozialdaten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Db 023 Ticketingdaten Veranstaltungsdaten Und Kalender, Db 024 Stellenanzeigen Jobportal Und Scraping, Db 025 Rezeptdaten Gesundheitsdaten Und Sozialdaten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Db 023 Ticketingdaten Veranstaltungsdaten Und Kalender, Db 024 Stellenanzeigen Jobportal Und Scraping, Db 025 Rezeptdaten Gesundheitsdaten Und Sozialdaten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

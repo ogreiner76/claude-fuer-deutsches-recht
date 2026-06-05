@@ -1,13 +1,13 @@
 ---
 name: strafrecht-computerbetrug-263a-design-designg
-description: "Nutze dies, wenn Strafrecht Spezial Computerbetrug 263A Stgb, Strafrecht Spezial Design Strafrecht 51 Designg, Strafrecht Spezial Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Spezial Faktische Geschaeftsfuehrer, Strafrecht Spezial Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial Computerbetrug 263A Stgb, Strafrecht Spezial Design Strafrecht 51 Designg, Strafrecht Spezial Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Spezial Faktische Geschaeftsfuehrer, Strafrecht Spezial Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial Computerbetrug 263A Stgb, Strafrecht Spezial Design Strafrecht 51 Designg, Strafrecht Spezial Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Spezial Faktische Geschaeftsfuehrer, Strafrecht Spezial Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen.;..."
+description: "Nutze dies bei Strafrecht Computerbetrug 263a Stgb, Strafrecht Design Strafrecht 51 Designg, Strafrecht Erpresserischer Menschenraub 239a 239b Stgb, Strafrecht Faktische Geschaeftsfuehrer: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafrecht Spezial Computerbetrug 263A Stgb, Strafrecht Spezial Design Strafrecht 51 Designg, Strafrecht Spezial Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Spezial Faktische Geschaeftsfuehrer, Strafrecht Spezial Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen
+# Strafrecht Computerbetrug 263A Stgb, Strafrecht Design Strafrecht 51 Designg, Strafrecht Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Faktische Geschaeftsfuehrer, Strafrecht Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Computerbetrug 263A Stgb, Strafrecht Design Strafrecht 51 Designg, Strafrecht Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Faktische Geschaeftsfuehrer, Strafrecht Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -26,7 +26,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Computerbetrug 263A Stgb, Strafrecht Spezial Design Strafrecht 51 Designg, Strafrecht Spezial Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Spezial Faktische Geschaeftsfuehrer, Strafrecht Spezial Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Computerbetrug 263A Stgb, Strafrecht Design Strafrecht 51 Designg, Strafrecht Erpresserischer Menschenraub 239A 239B Stgb, Strafrecht Faktische Geschaeftsfuehrer, Strafrecht Falschbeurkundung 348 Stgb Und 271 Stgb und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -384,12 +384,12 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 ## Praktikertipps der alten Hasen
 
 - **Tatsaechliche Geschaeftsfuehrungs-Indikatoren auflisten und entkraeften.** Bei jedem Mandanten konkret pruefen:
-  - Wer hat Konten eroeffnet?
-  - Wer hat Bankvollmachten?
-  - Wer hat Vertraege unterschrieben?
-  - Wer hat Mitarbeiter angestellt/gekuendigt?
-  - Wer hat Steuererklaerungen verantwortet?
-  - Wer hat Lieferantenverhandlungen gefuehrt?
+ - Wer hat Konten eroeffnet?
+ - Wer hat Bankvollmachten?
+ - Wer hat Vertraege unterschrieben?
+ - Wer hat Mitarbeiter angestellt/gekuendigt?
+ - Wer hat Steuererklaerungen verantwortet?
+ - Wer hat Lieferantenverhandlungen gefuehrt?
 - **Beratungskontext angreifen.** Der "Berater" (Steuerberater, Rechtsanwalt, Unternehmensberater), der intensiv ratet, ist *nicht* automatisch faktischer GF. Die Schwelle liegt bei eigenstaendigen Entscheidungen, nicht bei Beratung.
 - **Familienangehoerige absichern.** Wenn Ehefrau in der Buchhaltung hilft, ist sie regelmaessig keine faktische GF. Aber Vorsicht bei "Hausgemachten" Strukturen: wenn Ehefrau einzige Bankvollmacht hat, kann sie faktische GF werden.
 - **Lebenswerk-Beratung.** Wenn ein Senior nach Ruhestand "noch einmal Rat" gibt, ist er nicht faktischer GF. Aber: Wenn er weiter alle Entscheidungen trifft, dann doch.

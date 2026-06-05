@@ -1,12 +1,12 @@
 ---
 name: bdsg
-description: "Nutze dies, wenn Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage prüfen.; Erstelle eine Arbeitsfassung zu Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial bdsg tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage / bdsg tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

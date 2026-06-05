@@ -1,13 +1,13 @@
 ---
 name: designlizenz-vertrag-reparaturklausel
-description: "Nutze dies, wenn Designlizenz Vertrag, Reparaturklausel Und Aftermarket im Plugin Designrecht Geschmacksmusterrecht konkret bearbeitet werden soll. Auslöser: Bitte Designlizenz Vertrag, Reparaturklausel Und Aftermarket prüfen.; Erstelle eine Arbeitsfassung zu Designlizenz Vertrag, Reparaturklausel Und Aftermarket.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Designlizenz Vertrag, Reparaturklausel Und Aftermarket: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Designlizenz Vertrag, Reparaturklausel Und Aftermarket
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Designlizenz Vertrag, Reparaturklausel Und Aftermarket** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

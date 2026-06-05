@@ -1,13 +1,13 @@
 ---
 name: verfassung-grundgesetz-organstreitverfahren
-description: "Nutze dies, wenn Verfassung Grundgesetz Verfahren, Verfassung Organstreitverfahren, Gesetzentwurf Gg Konformitaet Prüfen im Plugin Verfassungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Verfassung Grundgesetz Verfahren, Verfassung Organstreitverfahren, Gesetzentwurf Gg Konformitaet Prüfen prüfen.; Erstelle eine Arbeitsfassung zu Verfassung Grundgesetz Verfahren, Verfassung Organstreitverfahren, Gesetzentwurf Gg Konformitaet Prüfen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verfassung Grundgesetz Verfahren, Verfassung Organstreitverfahren, Gesetzentwurf Gg Konformitaet Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verfassung Grundgesetz Verfahren, Verfassung Organstreitverfahren, Gesetzentwurf Gg Konformitaet Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verfassung Grundgesetz Verfahren, Verfassung Organstreitverfahren, Gesetzentwurf Gg Konformitaet Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -181,11 +181,11 @@ Für jedes betroffene Grundrecht (Aufruf Skill `grundrechtspruefung`):
 - Eingriff bestimmen — auch mittelbare und faktische Eingriffe einbeziehen.
 - Schranke benennen.
 - **Schranken-Schranken** prüfen:
-  - **Verhältnismäßigkeit** (Aufruf Skill `verhaeltnismaessigkeit`) — vier Stufen.
-  - Wesensgehalt Art. 19 Abs. 2 GG.
-  - Zitiergebot.
-  - Allgemeinheit Art. 19 Abs. 1 S. 1 GG.
-  - Wechselwirkungslehre bei Art. 5 Abs. 2 GG.
+ - **Verhältnismäßigkeit** (Aufruf Skill `verhaeltnismaessigkeit`) — vier Stufen.
+ - Wesensgehalt Art. 19 Abs. 2 GG.
+ - Zitiergebot.
+ - Allgemeinheit Art. 19 Abs. 1 S. 1 GG.
+ - Wechselwirkungslehre bei Art. 5 Abs. 2 GG.
 - Spezielle Strukturen einzelner Grundrechte berücksichtigen (Drei-Stufen-Theorie bei Art. 12 GG, Eingriffsformen bei Art. 14 GG, usw.).
 
 ### Schritt 5 — Sonstige verfassungsrechtliche Bindungen
@@ -194,8 +194,8 @@ Für jedes betroffene Grundrecht (Aufruf Skill `grundrechtspruefung`):
 
 - **Bestimmtheitsgebot** (s. Schritt 3).
 - **Vertrauensschutz und Rückwirkungsverbot:**
-  - **Echte Rückwirkung** (Rückbewirkung von Rechtsfolgen) — grundsätzlich unzulässig.
-  - **Unechte Rückwirkung** (tatbestandliche Rückanknüpfung) — zulässig, soweit Vertrauensschutz nicht überwiegt.
+ - **Echte Rückwirkung** (Rückbewirkung von Rechtsfolgen) — grundsätzlich unzulässig.
+ - **Unechte Rückwirkung** (tatbestandliche Rückanknüpfung) — zulässig, soweit Vertrauensschutz nicht überwiegt.
 - **Faires Verfahren.**
 
 #### 5b. Demokratieprinzip (Art. 20 Abs. 1, 2 GG)
@@ -232,9 +232,9 @@ Die Gesetzesbegründung sollte folgende Punkte zur Verfassungsmäßigkeit expliz
 ### Schritt 7 — Risikoeinschätzung
 
 - **Klassifikation:**
-  - **Niedrig** — keine erkennbaren verfassungsrechtlichen Bedenken.
-  - **Mittel** — auslegungsbedürftige Streitfragen; Stellungnahme aus Wissenschaft, Rechtsausschuss erwartbar.
-  - **Hoch** — substantielle Bedenken; abstrakte Normenkontrolle oder Verfassungsbeschwerde wahrscheinlich.
+ - **Niedrig** — keine erkennbaren verfassungsrechtlichen Bedenken.
+ - **Mittel** — auslegungsbedürftige Streitfragen; Stellungnahme aus Wissenschaft, Rechtsausschuss erwartbar.
+ - **Hoch** — substantielle Bedenken; abstrakte Normenkontrolle oder Verfassungsbeschwerde wahrscheinlich.
 
 - **Empfehlung bei mittlerem/hohem Risiko:** externe verfassungsrechtliche Begutachtung; Anpassungen am Entwurf, um Risiko zu reduzieren.
 
@@ -247,39 +247,39 @@ Entwurf: ___
 Regelungsziel: ___
 
 1. Gesetzgebungskompetenz
-   - Einschlägige Norm: Art. ___ GG
-   - Bei Art. 72 Abs. 2 GG: Erforderlichkeit ___
-   - BVerfG-Pinpoint: ___
+ - Einschlägige Norm: Art. ___ GG
+ - Bei Art. 72 Abs. 2 GG: Erforderlichkeit ___
+ - BVerfG-Pinpoint: ___
 
 2. Formelle Verfassungsmäßigkeit
-   - Verfahren: ___
-   - Zustimmungs-/Einspruchsgesetz: ___
-   - Bestimmtheit: ___
-   - Zitiergebot: ___
-   - Wesentlichkeit (Kalkar): ___
+ - Verfahren: ___
+ - Zustimmungs-/Einspruchsgesetz: ___
+ - Bestimmtheit: ___
+ - Zitiergebot: ___
+ - Wesentlichkeit (Kalkar): ___
 
 3. Materielle Verfassungsmäßigkeit
-   Pro betroffenes Grundrecht:
-   - Art. ___ GG
-     - Schutzbereich: ___
-     - Eingriff: ___
-     - Rechtfertigung: ___
-     - Verhältnismäßigkeit: [4 Stufen]
-     - BVerfG-Pinpoint: ___
+ Pro betroffenes Grundrecht:
+ - Art. ___ GG
+ - Schutzbereich: ___
+ - Eingriff: ___
+ - Rechtfertigung: ___
+ - Verhältnismäßigkeit: [4 Stufen]
+ - BVerfG-Pinpoint: ___
 
 4. Sonstige verfassungsrechtliche Bindungen
-   - Rechtsstaat, Rückwirkung: ___
-   - Demokratie / Parlamentsvorbehalt: ___
-   - Sozialstaat: ___
-   - Bundesstaat: ___
-   - Unionsrecht: ___
+ - Rechtsstaat, Rückwirkung: ___
+ - Demokratie / Parlamentsvorbehalt: ___
+ - Sozialstaat: ___
+ - Bundesstaat: ___
+ - Unionsrecht: ___
 
 5. Empfehlung Gesetzesbegründung
-   - ___
+ - ___
 
 6. Risikoeinschätzung
-   - [niedrig / mittel / hoch]
-   - Empfehlung: ___
+ - [niedrig / mittel / hoch]
+ - Empfehlung: ___
 
 BVerfG-Pinpoints
 - ___

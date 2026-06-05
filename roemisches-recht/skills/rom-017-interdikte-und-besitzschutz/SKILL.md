@@ -1,6 +1,6 @@
 ---
 name: rom-017-interdikte-und-besitzschutz
-description: "Römisches Recht: Interdikte Und Besitzschutz. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Interdikte Und Besitzschutz. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Interdikte Und Besitzschutz

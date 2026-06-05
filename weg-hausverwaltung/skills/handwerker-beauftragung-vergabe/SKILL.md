@@ -29,8 +29,8 @@ Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Be
 1. **Schaden/Maßnahme beschreiben**: Fotos, Ort, Dringlichkeit, Fachgewerk, betroffene Eigentumsteile, Sicherungsmaßnahmen.
 2. **Leistungsbeschreibung** erstellen: gewünschtes Ergebnis, vorhandene Bausubstanz, Ausführungszeitfenster, einzuhaltende Normen.
 3. **Angebote vergleichbar machen**:
-   - **Mindestens 2–3 Vergleichsangebote** bei substantiellen Maßnahmen (Schwellwerte im Verwaltervertrag/GO oder Beschluss verankert).
-   - Vergleichstabelle: Preis (Netto/Brutto), Leistungsumfang, Material, Ausführungszeit, Gewährleistungsfrist (abhängig von Werkart und VOB/B-Vereinbarung — siehe Mustertabelle), Pauschal-/Stundenanteil, Nebenkosten, Ausschlüsse, Referenzen, Versicherung, Bonität.
+ - **Mindestens 2–3 Vergleichsangebote** bei substantiellen Maßnahmen (Schwellwerte im Verwaltervertrag/GO oder Beschluss verankert).
+ - Vergleichstabelle: Preis (Netto/Brutto), Leistungsumfang, Material, Ausführungszeit, Gewährleistungsfrist (abhängig von Werkart und VOB/B-Vereinbarung — siehe Mustertabelle), Pauschal-/Stundenanteil, Nebenkosten, Ausschlüsse, Referenzen, Versicherung, Bonität.
 4. **Beschlussbedarf prüfen** (siehe Tabelle).
 5. **Beauftragung** mit klarer Vollmacht, Auftragsbestätigung, ggf. VOB/B-Vereinbarung, Versicherungsnachweis.
 6. **Nachträge** schriftlich vereinbaren (Mehrkostenrisiko sichtbar machen), Beirat ggf. einbinden.

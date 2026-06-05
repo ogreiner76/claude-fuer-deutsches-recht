@@ -1,13 +1,13 @@
 ---
 name: cl-vertragsklauseln-vertragsbegriffe-cl
-description: "Nutze dies, wenn Cl Vertragsklauseln Typische Uebersicht, Spezial Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Bitte Cl Vertragsklauseln Typische Uebersicht, Spezial Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial prüfen.; Erstelle eine Arbeitsfassung zu Cl Vertragsklauseln Typische Uebersicht, Spezial Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Cl Vertragsklauseln Typische Uebersicht, Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Cl Vertragsklauseln Typische Uebersicht, Spezial Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial
+# Cl Vertragsklauseln Typische Uebersicht, Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Cl Vertragsklauseln Typische Uebersicht, Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Cl Vertragsklauseln Typische Uebersicht, Spezial Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `common-law-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Cl Vertragsklauseln Typische Uebersicht, Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `common-law-kompass` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,7 +33,7 @@ Für **Cl Vertragsklauseln Typische Uebersicht, Spezial Vertragsbegriffe Risikoa
 ## Aufgabe
 Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate.
 
-## Kaltstart
+## Einstieg
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
 1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
@@ -103,7 +103,7 @@ Dieser Skill gehoert zum Plugin `common-law-kompass`. Er ergaenzt die uebrigen S
 # Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien / spezial vertragsbegriffe risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien / vertragsbegriffe risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UK, US, UCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -144,7 +144,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Common Law: Discovery-Spezial
 
 ## Spezialwissen: Common Law: Discovery-Spezial
-- **Spezialgegenstand:** Common Law: Discovery-Spezial / cl discovery doc production spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Common Law: Discovery-/ cl discovery doc production spezial. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** US, DSGVO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

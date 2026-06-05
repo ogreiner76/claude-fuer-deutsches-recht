@@ -1,13 +1,13 @@
 ---
 name: begrenzte-dienstfaehigkeit-beihilfe
-description: "Nutze dies, wenn Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete, Beihilfe Und Heilfuersorge und 2 weitere Themen im Plugin Beamtenrecht konkret bearbeitet werden soll. Auslöser: Bitte Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete, Beihilfe Und Heilfuersorge und 2 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete, Beihilfe Und Heilfuersorge und 2 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete, Beihilfe Und Heilfuersorge und 2 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete, Beihilfe Und Heilfuersorge und 2 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -283,7 +283,7 @@ Prüfe Beihilfefähigkeit, Bemessungssatz, Frist, Voranerkennung, Ausschlüsse u
 
 **Fokus:** Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 001 Bundesbesoldung Grundgehalt Familienzuschlag Zula
+# Besold Bundesbesoldung Grundgehalt Familienzuschlag Zula
 
 ## Aufgabe
 
@@ -340,7 +340,7 @@ Skill fuer Bundesbesoldung nach BBesG — Grundgehalt, Familienzuschlag, Zulagen
 
 **Fokus:** Beamtenrecht: Landesbesoldung Föderalismus und Synopse mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-# Besold Neu 002 Landesbesoldung Foederalismus Und Synopse
+# Besold Landesbesoldung Foederalismus Und Synopse
 
 ## Aufgabe
 
@@ -362,9 +362,9 @@ Skill fuer Landesbesoldung seit Foederalismusreform 2006 — Synopse der 16 Land
 
 - BVerfG 2 BvL 17/09: amtsangemessene Alimentation gilt fuer alle Dienstherren.
 - Methodischer Drei-Schritt:
-  1. Vergleich mit Tarifentwicklung.
-  2. Verbraucherpreisindex.
-  3. Mindestabstand zur Grundsicherung.
+ 1. Vergleich mit Tarifentwicklung.
+ 2. Verbraucherpreisindex.
+ 3. Mindestabstand zur Grundsicherung.
 
 ## Synopse-Strategie
 

@@ -1,22 +1,22 @@
 ---
 name: reverse-engineering-empfaenger-offenleger
-description: "Nutze dies, wenn Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat prüfen.; Erstelle eine Arbeitsfassung zu Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenger, Risikoampel Für Offenleger, Rueckgabe Löschung Und Zertifikat** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `reverse-engineering-und-gesetzliche-ausnahmen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Reverse Engineering Und Gesetzliche Ausnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `risikoampel-fuer-empfaenger` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Empfaenger; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `risikoampel-fuer-offenleger` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Offenleger; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `rueckgabe-loeschung-und-zertifikat` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Rueckgabe Loeschung Und Zertifikat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `reverse-engineering-und-gesetzliche-ausnahmen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Reverse Engineering Und Gesetzliche Ausnahmen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `risikoampel-fuer-empfaenger` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Empfaenger; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `risikoampel-fuer-offenleger` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Offenleger; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `rueckgabe-loeschung-und-zertifikat` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Rueckgabe Loeschung Und Zertifikat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Reverse Engineering Und Gesetzliche Ausnahmen, Risikoampel Für Empfaenge
 
 ## 1. `reverse-engineering-und-gesetzliche-ausnahmen`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Reverse Engineering Und Gesetzliche Ausnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Reverse Engineering Und Gesetzliche Ausnahmen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Reverse Engineering Und Gesetzliche Ausnahmen
 
@@ -81,7 +81,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `risikoampel-fuer-empfaenger`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Empfaenger; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Empfaenger; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Risikoampel Fuer Empfaenger
 
@@ -138,7 +138,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `risikoampel-fuer-offenleger`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Offenleger; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Risikoampel Fuer Offenleger; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Risikoampel Fuer Offenleger
 
@@ -195,7 +195,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `rueckgabe-loeschung-und-zertifikat`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Rueckgabe Loeschung Und Zertifikat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Rueckgabe Loeschung Und Zertifikat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Rueckgabe Loeschung Und Zertifikat
 

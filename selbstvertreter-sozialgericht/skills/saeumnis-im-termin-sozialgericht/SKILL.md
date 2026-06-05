@@ -54,7 +54,7 @@ Wenn Sie vor dem Termin merken, dass Sie nicht koennen:
 **Schriftlich** zusaetzlich:
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 

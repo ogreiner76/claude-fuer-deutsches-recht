@@ -1,13 +1,13 @@
 ---
 name: ohg-gesellschafterwechsel-prokura-paragraphen
-description: "Nutze dies, wenn Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb prüfen.; Erstelle eine Arbeitsfassung zu Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ohg Gesellschafterwechsel, Prokura Paragraphen 48 53 Hgb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

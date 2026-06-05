@@ -1,12 +1,12 @@
 ---
 name: verarbeitungsverzeichnis
-description: "Nutze dies, wenn Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik prüfen.; Erstelle eine Arbeitsfassung zu Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
 
 ## Spezialwissen: Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik / spezial verarbeitungsverzeichnis formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik / verarbeitungsverzeichnis formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,19 +1,19 @@
 ---
 name: btm-rezeptur-audit-apothekenverbund
-description: "Nutze dies, wenn Btm Rezeptur Amts Schnellcheck, Compliance Audit Apothekenverbund, Datenschutz In Apotheke Gesundheitsdaten im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Btm Rezeptur Amts Schnellcheck, Compliance Audit Apothekenverbund, Datenschutz In Apotheke Gesundheitsdaten prüfen.; Erstelle eine Arbeitsfassung zu Btm Rezeptur Amts Schnellcheck, Compliance Audit Apothekenverbund, Datenschutz In Apotheke Gesundheitsdaten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Btm Rezeptur Amts Schnellcheck, Compliance Audit Apothekenverbund, Datenschutz In Apotheke Gesundheitsdaten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Btm Rezeptur Amts Schnellcheck, Compliance Audit Apothekenverbund, Datenschutz In Apotheke Gesundheitsdaten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Btm Rezeptur Amts Schnellcheck, Compliance Audit Apothekenverbund, Datenschutz In Apotheke Gesundheitsdaten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `btm-rezeptur-amts-schnellcheck` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema BtM Rezeptur AMTS Schnellcheck. |
+| `btm-rezeptur-amts-schnellcheck` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema BtM Rezeptur AMTS Schnellcheck. |
 | `compliance-audit-apothekenverbund` | Compliance-Audit Apothekenverbund: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 | `datenschutz-in-apotheke-gesundheitsdaten` | Datenschutz in Apotheke Gesundheitsdaten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. |
 
@@ -26,7 +26,7 @@ Für **Btm Rezeptur Amts Schnellcheck, Compliance Audit Apothekenverbund, Datens
 
 ## 1. `btm-rezeptur-amts-schnellcheck`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema BtM Rezeptur AMTS Schnellcheck.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema BtM Rezeptur AMTS Schnellcheck.
 
 # BtM Rezeptur AMTS Schnellcheck
 

@@ -1,21 +1,21 @@
 ---
 name: mandantenbrief-warnung-paragraph-starug
-description: "Nutze dies, wenn Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern im Plugin Krisenfrueherkennung Starug konkret bearbeitet werden soll. Auslöser: Bitte Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern prüfen.; Erstelle eine Arbeitsfassung zu Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `mandantenbrief-warnung-paragraph-102-starug-template` | Workflow-Skill zu mandantenbrief warnung paragraph 102 starug template. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `mandantenbrief-warnung-paragraph-102-starug-template` | Arbeitsmodul zu mandantenbrief warnung paragraph 102 starug template: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `paragraph-1-starug-pflichten-und-24-monats-horizont` | § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Prüfraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungshorizont als Standard, Abgrenzung § 18 InsO, Haftungsfolgen bei Pflichtverletzung. Output § 1-StaRUG-Compliance-Memo, Umsetzungsplan Fruehwarnsystem. Abgrenzung: System-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform. |
-| `paragraph-102-starug-warnpflicht-bei-rechtsberatern` | Workflow-Skill zu paragraph 102 starug warnpflicht bei rechtsberatern. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `paragraph-102-starug-warnpflicht-bei-rechtsberatern` | Arbeitsmodul zu paragraph 102 starug warnpflicht bei rechtsberatern: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -26,7 +26,7 @@ Für **Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug 
 
 ## 1. `mandantenbrief-warnung-paragraph-102-starug-template`
 
-**Fokus:** Workflow-Skill zu mandantenbrief warnung paragraph 102 starug template. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu mandantenbrief warnung paragraph 102 starug template: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Mandantenbrief-Templates — § 102-StaRUG-Warnung in drei Eskalationsstufen
 
@@ -111,53 +111,53 @@ bestandsgefährdende Entwicklung im Sinne des § 1 StaRUG hindeuten können:
 
 1. FESTGESTELLTE KRISENZEICHEN
 
-   a) [Sachverhalt 1 — konkret beschreiben]:
-      Auf Basis der Betriebswirtschaftlichen Auswertung per [Datum]
-      haben wir festgestellt, dass [z.B. das kumulierte EBIT im laufenden
-      Geschäftsjahr EUR [Betrag] beträgt — ein Rückgang von [x Prozent]
-      gegenüber dem Vorjahreszeitraum].
+ a) [Sachverhalt 1 — konkret beschreiben]:
+ Auf Basis der Betriebswirtschaftlichen Auswertung per [Datum]
+ haben wir festgestellt, dass [z.B. das kumulierte EBIT im laufenden
+ Geschäftsjahr EUR [Betrag] beträgt — ein Rückgang von [x Prozent]
+ gegenüber dem Vorjahreszeitraum].
 
-   b) [Sachverhalt 2 — konkret beschreiben]:
-      [z.B. Offene Verbindlichkeiten gegenüber Lieferanten in Höhe von
-      EUR [Betrag] sind seit mehr als sechzig Tagen überfällig.]
+ b) [Sachverhalt 2 — konkret beschreiben]:
+ [z.B. Offene Verbindlichkeiten gegenüber Lieferanten in Höhe von
+ EUR [Betrag] sind seit mehr als sechzig Tagen überfällig.]
 
-   c) [Ggf. Sachverhalt 3]
+ c) [Ggf. Sachverhalt 3]
 
 2. RECHTLICHE EINORDNUNG
 
-   Wir weisen Sie darauf hin, dass die beschriebenen Umstände möglicherweise
-   auf eine drohende Zahlungsunfähigkeit im Sinne des § 18 InsO hindeuten
-   können. Sollte eine drohende Zahlungsunfähigkeit vorliegen, bestehen für
-   Sie als Geschäftsführer gemäß § 1 StaRUG folgende Pflichten:
+ Wir weisen Sie darauf hin, dass die beschriebenen Umstände möglicherweise
+ auf eine drohende Zahlungsunfähigkeit im Sinne des § 18 InsO hindeuten
+ können. Sollte eine drohende Zahlungsunfähigkeit vorliegen, bestehen für
+ Sie als Geschäftsführer gemäß § 1 StaRUG folgende Pflichten:
 
-   - Fortlaufende Überwachung der wirtschaftlichen Lage
-   - Sofortige Ergreifung geeigneter Gegenmaßnahmen
-   - Unterrichtung der Gesellschafter über die Lage
+ - Fortlaufende Überwachung der wirtschaftlichen Lage
+ - Sofortige Ergreifung geeigneter Gegenmaßnahmen
+ - Unterrichtung der Gesellschafter über die Lage
 
-   Wir weisen Sie ferner darauf hin, dass bei Eintritt der Zahlungsunfähigkeit
-   (§ 17 InsO) oder Überschuldung (§ 19 InsO) eine Insolvenzantragspflicht
-   nach § 15a InsO besteht. Diese Pflicht ist innerhalb von drei Wochen nach
-   Kenntnis des Insolvenzgrundes zu erfüllen.
+ Wir weisen Sie ferner darauf hin, dass bei Eintritt der Zahlungsunfähigkeit
+ (§ 17 InsO) oder Überschuldung (§ 19 InsO) eine Insolvenzantragspflicht
+ nach § 15a InsO besteht. Diese Pflicht ist innerhalb von drei Wochen nach
+ Kenntnis des Insolvenzgrundes zu erfüllen.
 
 3. HANDLUNGSEMPFEHLUNGEN
 
-   Wir empfehlen dringend:
-   a) Unverzügliche Erstellung einer rollierenden Liquiditätsplanung
-      für die nächsten vierundzwanzig Monate,
-   b) Hinzuziehung eines auf Restrukturierung spezialisierten
-      Rechtsberaters,
-   c) Information der Gesellschafter und ggf. des Aufsichtsrats
-      über die aktuelle Lage,
-   d) Prüfung, ob die Voraussetzungen für ein Restrukturierungsverfahren
-      nach dem Stabilisierungs- und Restrukturierungsrahmen (StaRUG) vorliegen.
+ Wir empfehlen dringend:
+ a) Unverzügliche Erstellung einer rollierenden Liquiditätsplanung
+ für die nächsten vierundzwanzig Monate,
+ b) Hinzuziehung eines auf Restrukturierung spezialisierten
+ Rechtsberaters,
+ c) Information der Gesellschafter und ggf. des Aufsichtsrats
+ über die aktuelle Lage,
+ d) Prüfung, ob die Voraussetzungen für ein Restrukturierungsverfahren
+ nach dem Stabilisierungs- und Restrukturierungsrahmen (StaRUG) vorliegen.
 
 4. REAKTION ERBETEN
 
-   Bitte teilen Sie uns bis zum [Datum — ca. 14 Tage] mit, welche
-   der vorgenannten Maßnahmen Sie einleiten werden. Bitte bestätigen
-   Sie außerdem den Erhalt dieses Schreibens.
+ Bitte teilen Sie uns bis zum [Datum — ca. 14 Tage] mit, welche
+ der vorgenannten Maßnahmen Sie einleiten werden. Bitte bestätigen
+ Sie außerdem den Erhalt dieses Schreibens.
 
-   Wir stehen für ein klärendes Gespräch jederzeit zur Verfügung.
+ Wir stehen für ein klärendes Gespräch jederzeit zur Verfügung.
 
 Mit freundlichen Grüßen
 
@@ -214,7 +214,7 @@ Wir setzen Ihnen eine letzte Frist bis zum [Datum — 7 Tage].
 Bitte teilen Sie uns bis dahin mit:
 1. Welche konkreten Maßnahmen Sie eingeleitet haben,
 2. Ob Sie bereits einen Restrukturierungsberater / Rechtsanwalt
-   hinzugezogen haben,
+ hinzugezogen haben,
 3. Ob eine aktuelle Liquiditätsplanung (24 Monate) vorliegt.
 
 Sollten wir bis zu diesem Datum keine ausreichende Rückmeldung
@@ -289,26 +289,26 @@ Geschäftsführer: [Name(n)]
 Wir bestätigen:
 
 1. Das Warnschreiben der Kanzlei [fiktiv] vom [Datum] gemäß § 102 StaRUG
-   ist uns am [Datum] zugegangen.
+ ist uns am [Datum] zugegangen.
 
 2. Wir haben den Inhalt zur Kenntnis genommen und sind uns bewusst, dass:
-   - die beschriebenen Umstände auf eine bestandsgefährdende Entwicklung
-     hindeuten können,
-   - eine Insolvenzantragspflicht nach § 15a InsO bestehen kann,
-   - unverzügliches Handeln erforderlich ist.
+ - die beschriebenen Umstände auf eine bestandsgefährdende Entwicklung
+ hindeuten können,
+ - eine Insolvenzantragspflicht nach § 15a InsO bestehen kann,
+ - unverzügliches Handeln erforderlich ist.
 
 3. Wir werden folgende Maßnahmen einleiten:
-   a) [Maßnahme 1 — mit Frist]
-   b) [Maßnahme 2 — mit Frist]
-   c) [Maßnahme 3 — mit Frist]
+ a) [Maßnahme 1 — mit Frist]
+ b) [Maßnahme 2 — mit Frist]
+ c) [Maßnahme 3 — mit Frist]
 
 4. Wir haben folgende Berater hinzugezogen / werden hinzuziehen:
-   [Name / Funktion — fiktiv], bis [Datum]
+ [Name / Funktion — fiktiv], bis [Datum]
 
 [Ort], [Datum]
 
-_______________________________   _______________________________
-[Geschäftsführer 1]               [Geschäftsführer 2 — falls vorhanden]
+_______________________________ _______________________________
+[Geschäftsführer 1] [Geschäftsführer 2 — falls vorhanden]
 ```
 
 ---
@@ -456,12 +456,12 @@ TOP 1: Einführung Krisenfrüherkennungssystem gemäß § 1 StaRUG
 Die Geschäftsführung beschließt:
 
 1. Mit Wirkung zum [Datum] wird ein Krisenfrüherkennungssystem nach
-   Maßgabe des § 1 StaRUG und IDW PS 340 n.F. eingeführt.
+ Maßgabe des § 1 StaRUG und IDW PS 340 n.F. eingeführt.
 2. Die rollierende Liquiditätsplanung wird auf einen Horizont von
-   24 Monaten ausgeweitet (Wochen 1-13 wöchentlich; M14-M24 monatlich).
+ 24 Monaten ausgeweitet (Wochen 1-13 wöchentlich; M14-M24 monatlich).
 3. Zuständig für die Pflege und Vorlage: [Name].
 4. Reportingzyklus: monatlich an die Geschäftsführung; quartalsweise
-   an den Gesellschafter/Aufsichtsrat.
+ an den Gesellschafter/Aufsichtsrat.
 5. Eskalationsschwellen: siehe beigefügte KPI-Ampeltabelle (Anlage 1).
 
 Festgestellt: [Ort], [Datum]
@@ -472,9 +472,9 @@ Unterschriften: _________________ / _________________
 
 ```
 1. Liegt für die nächsten 24 Monate eine integrierte Unternehmensplanung
-   (GuV / Bilanz / Cashflow) vor?
+ (GuV / Bilanz / Cashflow) vor?
 2. Enthält die Liquiditätsplanung wöchentliche Granularität für
-   die ersten 13 Wochen?
+ die ersten 13 Wochen?
 3. Sind mindestens zwei Stresstest-Szenarien dokumentiert?
 4. Wurden die Planprämissen von der Geschäftsführung formal freigegeben?
 5. Gibt es eine Plan-Ist-Abweichungsanalyse des Vormonats?
@@ -515,7 +515,7 @@ Unterschriften: _________________ / _________________
 
 ## 3. `paragraph-102-starug-warnpflicht-bei-rechtsberatern`
 
-**Fokus:** Workflow-Skill zu paragraph 102 starug warnpflicht bei rechtsberatern. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu paragraph 102 starug warnpflicht bei rechtsberatern: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # § 102 StaRUG — Warnpflicht der Rechtsberater
 
@@ -530,9 +530,9 @@ Unterschriften: _________________ / _________________
 - § 43 WPO (Berufspflichten des Wirtschaftsprüfers)
 - § 43a BRAO (Grundpflichten des Rechtsanwalts)
 - **BGH IX ZR 285/14 vom 26.01.2017** — Grundsatzentscheidung zur Hinweis- und Warnpflicht des Steuerberaters bei drohender Insolvenz; Steuerberater haftet auf den durch die unterlassene Warnung verursachten Insolvenzvertiefungsschaden.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
 - **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung der Hinweis- und Warnpflicht zugunsten des (faktischen) Geschäftsführers; der GF kann eigenen Schadensersatzanspruch gegen Berater haben, wenn er bestimmungsgemäß in den Schutzbereich des Mandatsvertrags einbezogen ist.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
 - IDW PS 340 n.F. (Risikofrüherkennungssysteme)
 
 ---
@@ -638,13 +638,13 @@ hindeuten können, die zu einer drohenden Zahlungsunfähigkeit
 im Sinne des § 18 InsO führen könnten:
 
 1. [Beschreibung Sachverhalt 1, z.B.: Die BWA per [Datum] weist
-   ein kumuliertes EBIT von EUR [Betrag] aus — gegenüber dem
-   Vorjahreswert von EUR [Betrag] entspricht dies einem Rückgang
-   von [x] Prozent.]
+ ein kumuliertes EBIT von EUR [Betrag] aus — gegenüber dem
+ Vorjahreswert von EUR [Betrag] entspricht dies einem Rückgang
+ von [x] Prozent.]
 
 2. [Beschreibung Sachverhalt 2, z.B.: Die offenen Verbindlichkeiten
-   gegenüber Lieferanten betragen zum Stichtag EUR [Betrag], davon
-   sind EUR [Betrag] seit mehr als 60 Tagen überfällig.]
+ gegenüber Lieferanten betragen zum Stichtag EUR [Betrag], davon
+ sind EUR [Betrag] seit mehr als 60 Tagen überfällig.]
 
 3. [Beschreibung Sachverhalt 3]
 
@@ -655,9 +655,9 @@ grundsätzlich innerhalb von drei Wochen zu erfüllen ist.
 
 Wir empfehlen dringend, unverzüglich:
 a) eine rollierende Liquiditätsplanung für die nächsten 24 Monate
-   zu erstellen,
+ zu erstellen,
 b) einen auf Restrukturierung spezialisierten Rechtsberater
-   hinzuzuziehen,
+ hinzuzuziehen,
 c) die Gesellschafter über die aktuelle Lage zu informieren.
 
 Bitte bestätigen Sie den Erhalt dieses Schreibens und teilen Sie
@@ -683,7 +683,7 @@ zu haben.
 
 Ich/Wir sind informiert worden, dass:
 - die beschriebenen wirtschaftlichen Kennzahlen auf eine
-  bestandsgefährdende Entwicklung hindeuten können,
+ bestandsgefährdende Entwicklung hindeuten können,
 - eine Insolvenzantragspflicht nach § 15a InsO bestehen kann,
 - unverzügliches Handeln erforderlich ist.
 

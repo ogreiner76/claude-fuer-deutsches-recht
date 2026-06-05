@@ -76,10 +76,10 @@ Beim Prüfen: nur `✓` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreic
 ### 5. Berichtspflichten
 
 - **Hauptverpflichtungen:**
-  - Umsatzsteuer-Voranmeldung (§ 18 UStG): monatlich / quartalsweise
-  - Jahresabschluss (§ 264 HGB, § 325 HGB): 12 Monate nach GJ-Ende für mittelgroße/große, 6 Monate für kleine GmbH
-  - Lohnsteueranmeldung
-  - E-Bilanz nach § 5b EStG
+ - Umsatzsteuer-Voranmeldung (§ 18 UStG): monatlich / quartalsweise
+ - Jahresabschluss (§ 264 HGB, § 325 HGB): 12 Monate nach GJ-Ende für mittelgroße/große, 6 Monate für kleine GmbH
+ - Lohnsteueranmeldung
+ - E-Bilanz nach § 5b EStG
 - **Hinweispflichten gegenüber Mandanten** (§ 102 StaRUG): bei drohender Insolvenz
 
 ### 6. Beratungstiefe
@@ -101,9 +101,9 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/s
 
 - Was eingerichtet wurde
 - Welche Skills jetzt sinnvoll als nächstes laufen können:
-  - `/steuerrecht-anwalt-und-berater:stb-bwa-sus-bilanz-pruefung` — bei Plausibilisierung der laufenden BWA/SuSa/Bilanz
-  - `/steuerrecht-anwalt-und-berater:stb-liquiditaetsvorschau-3-6-12-monate` — für klassische Liquiditätsplanung
-  - `/steuerrecht-anwalt-und-berater:stb-liquiditaetsvorschau-3wochen` — bei akutem Liquiditätsengpass / drohender Zahlungsunfähigkeit
+ - `/steuerrecht-anwalt-und-berater:stb-bwa-sus-bilanz-pruefung` — bei Plausibilisierung der laufenden BWA/SuSa/Bilanz
+ - `/steuerrecht-anwalt-und-berater:stb-liquiditaetsvorschau-3-6-12-monate` — für klassische Liquiditätsplanung
+ - `/steuerrecht-anwalt-und-berater:stb-liquiditaetsvorschau-3wochen` — bei akutem Liquiditätsengpass / drohender Zahlungsunfähigkeit
 - Hinweis auf Mandatsgeheimnis (§ 57 StBerG, § 203 StGB)
 
 ## Rechtlicher Rahmen

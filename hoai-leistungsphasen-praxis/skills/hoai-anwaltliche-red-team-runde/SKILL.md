@@ -7,7 +7,7 @@ description: "HOAI-Praxis: sucht Fehler, falsche LPH-Zuordnung, fehlende Freigab
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **sucht Fehler, falsche LPH-Zuordnung, fehlende Freigaben und Beleglücken** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **sucht Fehler, falsche LPH-Zuordnung, fehlende Freigaben und Beleglücken** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 

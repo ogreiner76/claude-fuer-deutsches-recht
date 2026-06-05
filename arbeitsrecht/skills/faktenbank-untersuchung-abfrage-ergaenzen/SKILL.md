@@ -1,13 +1,13 @@
 ---
 name: faktenbank-untersuchung-abfrage-ergaenzen
-description: "Nutze dies, wenn Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen prüfen.; Erstelle eine Arbeitsfassung zu Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -55,7 +55,7 @@ Stand dieser Faktenbank: **29.05.2026**. Vor einer konkreten Ausgabe trotzdem No
 
 ## Verifizierte Rechtsprechungsanker
 
-| Thema | Gesicherter Anker | Tragende Aussage für den Workflow | Freie Quelle |
+| Thema | Gesicherter Anker | Tragende Aussage für den | Freie Quelle |
 |---|---|---|---|
 | Mindesturlaub und Vergleich | BAG, Urteil vom 03.06.2025, 9 AZR 104/24 | Auf gesetzlichen Mindesturlaub kann während des bestehenden Arbeitsverhältnisses nicht wirksam durch gerichtlichen Vergleich verzichtet werden; § 13 Abs. 1 Satz 3 BUrlG sperrt Abweichungen zu Lasten des Arbeitnehmers. | https://www.bundesarbeitsgericht.de/entscheidung/9-azr-104-24/ |
 | Entgeltgleichheit / Paarvergleich | BAG, Urteil vom 23.10.2025, 8 AZR 300/24 | Für den Anspruch auf gleiches Entgelt kann ein Paarvergleich genügen; bei geringerer Vergütung einer Frau für gleiche oder gleichwertige Arbeit greift die Vermutung einer Benachteiligung wegen des Geschlechts. | https://www.bundesarbeitsgericht.de/entscheidung/8-azr-300-24/ |
@@ -80,7 +80,7 @@ Jede aktuelle arbeitsrechtliche Antwort enthält am Ende kurz:
 
 1. **Gesicherte Quellen:** Normen und ggf. Gerichtsentscheidungen mit Datum/Aktenzeichen/Link.
 2. **Nicht verifiziert:** Alles, was nicht frei/amtlich geprüft werden konnte.
-3. **Nächster Spezial-Skill:** aus diesem Plugin, z. B. `kuendigungs-pruefung`, `arbeitnehmer-status`, `lohnsteuer-sozialversicherung`, `agg-pruefung-bewerber-und-beschaeftigte`, `aufhebungsvertrag` oder `entfristung-schriftform-14-abs-4-erkennen`.
+3. **Nächster Fachmodul:** aus diesem Plugin, z. B. `kuendigungs-pruefung`, `arbeitnehmer-status`, `lohnsteuer-sozialversicherung`, `agg-pruefung-bewerber-und-beschaeftigte`, `aufhebungsvertrag` oder `entfristung-schriftform-14-abs-4-erkennen`.
 
 ## 2. `untersuchung-abfrage`
 
@@ -116,37 +116,37 @@ ohne alle Protokolleinträge einzeln lesen zu müssen.
 **Kernvorschriften:**
 
 - § 626 BGB: Wichtiger Grund für außerordentliche Kündigung — Abfragen
-  des Protokolls helfen, den Tatverdacht zu verdichten oder zu widerlegen
+ des Protokolls helfen, den Tatverdacht zu verdichten oder zu widerlegen
 - § 22 AGG: Beweislastverteilung bei Diskriminierungsvorwürfen — bei
-  AGG-Sachverhalt strukturierte Protokollauswertung als Basis für
-  Enthaftungsnachweis des Arbeitgebers
+ AGG-Sachverhalt strukturierte Protokollauswertung als Basis für
+ Enthaftungsnachweis des Arbeitgebers
 - § 1 Abs. 2 KSchG: Soziale Rechtfertigung der Kündigung — Abfragen der
-  Stärke der Beweislage je Untersuchungsfrage hilft, Wirksamkeitsrisiken
-  einer verhaltens- oder personenbedingten Kündigung zu bewerten
+ Stärke der Beweislage je Untersuchungsfrage hilft, Wirksamkeitsrisiken
+ einer verhaltens- oder personenbedingten Kündigung zu bewerten
 - § 26 BDSG: Verarbeitungszweck — Protokollabfragen dienen ausschließlich
-  dem Untersuchungszweck; kein Zweckwechsel ohne neue Rechtsgrundlage
+ dem Untersuchungszweck; kein Zweckwechsel ohne neue Rechtsgrundlage
 
 **Leitentscheidungen:**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Verdachtskündigung — dringender Tatverdacht erfordert objektive Schwere
-  auf Basis des tatsächlich Ermittelten; Protokollauswertung bestimmt, ob
-  Schwelle erreicht ist
+ Verdachtskündigung — dringender Tatverdacht erfordert objektive Schwere
+ auf Basis des tatsächlich Ermittelten; Protokollauswertung bestimmt, ob
+ Schwelle erreicht ist
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Tatkündigung — Überzeugungsmaßstab des Arbeitgebers; Protokollauswertung
-  zur Überprüfung, ob der volle Nachweis einer Pflichtverletzung vorliegt
+ Tatkündigung — Überzeugungsmaßstab des Arbeitgebers; Protokollauswertung
+ zur Überprüfung, ob der volle Nachweis einer Pflichtverletzung vorliegt
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Widersprüchliche Zeugenaussagen im Kündigungsschutzprozess — der Arbeitgeber
-  trägt die Darlegungs- und Beweislast für den Kündigungsgrund; nur was
-  bei der Kündigung bekannt war, zählt (Nachschieben von Gründen nur
-  eingeschränkt möglich)
+ Widersprüchliche Zeugenaussagen im Kündigungsschutzprozess — der Arbeitgeber
+ trägt die Darlegungs- und Beweislast für den Kündigungsgrund; nur was
+ bei der Kündigung bekannt war, zählt (Nachschieben von Gründen nur
+ eingeschränkt möglich)
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 - § 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  Darlegungs- und Beweislast des Arbeitgebers; Nachschieben von
-  Kündigungsgründen
+ Darlegungs- und Beweislast des Arbeitgebers; Nachschieben von
+ Kündigungsgründen
 - AGG: §§ 12, 15, 22 AGG anhand Gesetz, Nutzerquelle und frei verifizierter Rechtsprechung prüfen.
 
 ## Ablauf
@@ -230,12 +230,12 @@ Beispiel-Antwort bei Widerspruchsabfrage:
 Identifizierte Widersprüche:
 
 Widerspruch 1 — Eintrag #3 vs. Eintrag #7:
-  Eintrag #3 (Beschwerdeführerin Koch, 15.01.2025): "Das Gespräch fand nur
-  zwischen mir und Herrn Müller statt."
-  Eintrag #7 (Zeuge Bauer, 22.01.2025): "Frau Schmidt war bei dem Gespräch
-  anwesend."
-  Dokumentarische Evidenz: Kalender-Eintrag vom 12.11.2024 (Eintrag #5)
-  zeigt drei Teilnehmer. Widerspruch zur Schilderung der Beschwerdeführerin.
+ Eintrag #3 (Beschwerdeführerin Koch, 15.01.2025): "Das Gespräch fand nur
+ zwischen mir und Herrn Müller statt."
+ Eintrag #7 (Zeuge Bauer, 22.01.2025): "Frau Schmidt war bei dem Gespräch
+ anwesend."
+ Dokumentarische Evidenz: Kalender-Eintrag vom 12.11.2024 (Eintrag #5)
+ zeigt drei Teilnehmer. Widerspruch zur Schilderung der Beschwerdeführerin.
 
 Handlungsbedarf: Frau Schmidt als Zeugin befragen (Checkliste Punkt 3 — noch offen).
 ```
@@ -243,19 +243,19 @@ Handlungsbedarf: Frau Schmidt als Zeugin befragen (Checkliste Punkt 3 — noch o
 ## Risiken und typische Fehler
 
 - **Protokollabfrage ohne vollständiges Lesen**: Antworten ohne Lesen des
-  Gesamtprotokolls können Widersprüche und Lücken übersehen. Immer alle
-  Einträge sichten.
+ Gesamtprotokolls können Widersprüche und Lücken übersehen. Immer alle
+ Einträge sichten.
 - **Fehlende Eintrags-IDs**: Antworten ohne Eintrags-ID-Referenzen sind
-  nicht rückverfolgbar und erschweren spätere Anfechtungen.
+ nicht rückverfolgbar und erschweren spätere Anfechtungen.
 - **Lücken nicht als Lücken benennen**: "Dazu weiß ich nichts" ist kein
-  angemessenes Ergebnis — die Nicht-Existenz von Erkenntnissen im Protokoll
-  muss explizit als potenzielle Beweislücke benannt werden.
+ angemessenes Ergebnis — die Nicht-Existenz von Erkenntnissen im Protokoll
+ muss explizit als potenzielle Beweislücke benannt werden.
 - **Widersprüche glätten**: Widersprechende Schilderungen dürfen nicht
-  harmonisiert werden. Sie müssen direkt benannt werden — der Anwalt
-  entscheidet, welcher Version geglaubt wird.
+ harmonisiert werden. Sie müssen direkt benannt werden — der Anwalt
+ entscheidet, welcher Version geglaubt wird.
 - **Zweckbindung beachten**: Protokolldaten dürfen nur für Untersuchungs-
-  zwecke genutzt werden (§ 26 BDSG). Keine Weitergabe für andere Zwecke
-  ohne neue Rechtsgrundlage.
+ zwecke genutzt werden (§ 26 BDSG). Keine Weitergabe für andere Zwecke
+ ohne neue Rechtsgrundlage.
 
 ## Quellenpflicht
 
@@ -309,7 +309,7 @@ für eine laufende Untersuchung zur Verarbeitung eingehen.
 
 - Bezeichnung der Untersuchungssache (oder Slug)
 - Art der Daten: Befragungsnotizen / Dokumentenpaket / Anwaltsnotizen /
-  Bestätigung Anhörungshinweis
+ Bestätigung Anhörungshinweis
 - Inhalt der Daten (eingefügt oder angehängt)
 
 ## Rechtlicher Rahmen
@@ -317,32 +317,32 @@ für eine laufende Untersuchung zur Verarbeitung eingehen.
 **Kernvorschriften:**
 
 - § 26 BDSG: Verarbeitung von Beschäftigtendaten zur Aufdeckung von
-  Straftaten oder schwerwiegenden Pflichtverletzungen — Verhältnismäßigkeit
-  ist Voraussetzung; Verarbeitung nur soweit zur Sachaufklärung erforderlich
+ Straftaten oder schwerwiegenden Pflichtverletzungen — Verhältnismäßigkeit
+ ist Voraussetzung; Verarbeitung nur soweit zur Sachaufklärung erforderlich
 - Art. 5 Abs. 1 lit. c DSGVO: Datenminimierungsgrundsatz — nur notwendige
-  Daten erheben und verarbeiten
+ Daten erheben und verarbeiten
 - § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen
-  — vor Auswertung von E-Mails oder IT-Kommunikation ist Zustimmung des
-  Betriebsrats oder eine einschlägige Betriebsvereinbarung erforderlich
+ — vor Auswertung von E-Mails oder IT-Kommunikation ist Zustimmung des
+ Betriebsrats oder eine einschlägige Betriebsvereinbarung erforderlich
 - § 626 BGB: Außerordentliche Kündigung; Frist des § 626 Abs. 2 BGB (zwei
-  Wochen ab Kenntnis) — Dokumentation des Zeitpunkts des Kenntniserwerbs ist
-  untersuchungskritisch
+ Wochen ab Kenntnis) — Dokumentation des Zeitpunkts des Kenntniserwerbs ist
+ untersuchungskritisch
 - § 241 Abs. 2 BGB: Mitwirkungspflicht des Arbeitnehmers im Rahmen
-  des Untersuchungsverfahrens; Grenzen bei Selbstbelastung
+ des Untersuchungsverfahrens; Grenzen bei Selbstbelastung
 
 **Leitentscheidungen:**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Beweisverwertungsverbot bei rechtswidrig erlangten Dokumenten — heimliche
-  Videoüberwachung ohne Betriebsratsinhaber führt zum Verwertungsverbot
-  auch im Kündigungsschutzprozess; Grundsatz gilt sinngemäß für
-  rechtswidrig ausgewertete Kommunikation
+ Beweisverwertungsverbot bei rechtswidrig erlangten Dokumenten — heimliche
+ Videoüberwachung ohne Betriebsratsinhaber führt zum Verwertungsverbot
+ auch im Kündigungsschutzprozess; Grundsatz gilt sinngemäß für
+ rechtswidrig ausgewertete Kommunikation
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Verdachtskündigung — Anforderungen an die Dokumentation des Tatverdachts;
-  objektive Schwere; inhaltliche Mindestanforderungen an die Anhörung
+ Verdachtskündigung — Anforderungen an die Dokumentation des Tatverdachts;
+ objektive Schwere; inhaltliche Mindestanforderungen an die Anhörung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Erstattungsfähigkeit von Untersuchungskosten (Detektivkosten) — nur bei
-  konkreter Verdachtslage bei Beauftragung und Verhältnismäßigkeit
+ Erstattungsfähigkeit von Untersuchungskosten (Detektivkosten) — nur bei
+ konkreter Verdachtslage bei Beauftragung und Verhältnismäßigkeit
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
@@ -383,8 +383,8 @@ Geprüft / nicht relevant: [N]
 Neue Beweislücken: [N]
 
 Relevante Funde:
-  - [Kurzbeschreibung] → Auswahlkriterium: [Nr.]
-  - [Kurzbeschreibung] → Auswahlkriterium: [Nr.]
+ - [Kurzbeschreibung] → Auswahlkriterium: [Nr.]
+ - [Kurzbeschreibung] → Auswahlkriterium: [Nr.]
 ```
 
 **Schritt 5 — Quellencheckliste aktualisieren**
@@ -428,29 +428,29 @@ Geprüft / nicht relevant: 42
 Neue Beweislücken: 2
 
 Relevante Funde:
-  - E-Mail vom 08.01.2025 Müller an Schmitt: "das solltest du lieber nicht aufschreiben"
-    → Auswahlkriterium 4 (implizite Selbstbelastung)
-  - E-Mail vom 15.01.2025: widerspricht Schilderung von Zeugin K. in Eintrag #3
-    → Auswahlkriterium 5 (Widerspruch zu bestehendem Protokolleintrag)
+ - E-Mail vom 08.01.2025 Müller an Schmitt: "das solltest du lieber nicht aufschreiben"
+ → Auswahlkriterium 4 (implizite Selbstbelastung)
+ - E-Mail vom 15.01.2025: widerspricht Schilderung von Zeugin K. in Eintrag #3
+ → Auswahlkriterium 5 (Widerspruch zu bestehendem Protokolleintrag)
 ```
 
 ## Risiken und typische Fehler
 
 - **§ 87 Abs. 1 Nr. 6 BetrVG-Versäumnis**: Rechtswidrig ausgewertete
-  Kommunikation kann einem Beweisverwertungsverbot unterliegen und die
-  Kündigung gefährden. Betriebsvereinbarung vor Auswertung sicherstellen.
+ Kommunikation kann einem Beweisverwertungsverbot unterliegen und die
+ Kündigung gefährden. Betriebsvereinbarung vor Auswertung sicherstellen.
 - **Verhältnismäßigkeit nach § 26 BDSG**: Massenhafte Dokumentenauswertung
-  ohne konkreten Verdacht ist unzulässig. Auswahlkriterien dokumentieren,
-  um Verhältnismäßigkeit nachweisen zu können.
+ ohne konkreten Verdacht ist unzulässig. Auswahlkriterien dokumentieren,
+ um Verhältnismäßigkeit nachweisen zu können.
 - **§ 626 Abs. 2 BGB-Frist**: Die Zwei-Wochen-Frist beginnt ab sicherer
-  Kenntnisnahme. Unklare Dokumentation des Kenntniszeitpunkts kann zur
-  Fristversäumnis führen.
+ Kenntnisnahme. Unklare Dokumentation des Kenntniszeitpunkts kann zur
+ Fristversäumnis führen.
 - **Selektive Protokollierung**: Nur relevante Funde zu protokollieren und
-  nicht-relevante Dokumente nicht zu erfassen, untergräbt die Deckungsverifikation.
-  Jedes gesichtete Dokument muss protokolliert werden.
+ nicht-relevante Dokumente nicht zu erfassen, untergräbt die Deckungsverifikation.
+ Jedes gesichtete Dokument muss protokolliert werden.
 - **False Negative durch zu enge Kriterien**: Auswahlkriterien großzügig
-  handhaben — ein False Positive (irrelevanter Fund protokolliert) ist
-  besser als ein übersehener wesentlicher Beweis.
+ handhaben — ein False Positive (irrelevanter Fund protokolliert) ist
+ besser als ein übersehener wesentlicher Beweis.
 
 ## Quellenpflicht
 
@@ -506,7 +506,7 @@ vertraulicher Untersuchungsarbeitsbereich eingerichtet werden soll.
 ## Eingaben
 
 - Kurzbeschreibung des Vorwurfs oder der Besorgnis (kann nach Sachverhaltserfassung
-  verfeinert werden)
+ verfeinert werden)
 - Ist die Untersuchung anwaltsgeleitet? (Beeinflusst Schutzstatus der Unterlagen)
 
 ## Rechtlicher Rahmen
@@ -514,35 +514,35 @@ vertraulicher Untersuchungsarbeitsbereich eingerichtet werden soll.
 **Kernvorschriften:**
 
 - § 26 BDSG: Verarbeitung von Beschäftigtendaten zur Aufdeckung von
-  Straftaten oder schwerwiegenden Pflichtverletzungen — Erforderlichkeit
-  und Verhältnismäßigkeit als Voraussetzung; Protokolldaten sind
-  Beschäftigtendaten
+ Straftaten oder schwerwiegenden Pflichtverletzungen — Erforderlichkeit
+ und Verhältnismäßigkeit als Voraussetzung; Protokolldaten sind
+ Beschäftigtendaten
 - §§ 34, 36, 37 HinSchG: Hinweisgeberschutzgesetz — Vertraulichkeit der
-  Identität der hinweisgebenden Person; Verbot von Repressalien; interne
-  Meldestelle; Dokumentationspflichten
+ Identität der hinweisgebenden Person; Verbot von Repressalien; interne
+ Meldestelle; Dokumentationspflichten
 - § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen
-  Überwachungseinrichtungen — vor Kommunikationsauswertungen klären
+ Überwachungseinrichtungen — vor Kommunikationsauswertungen klären
 - § 82 Abs. 2 BetrVG: Recht des Arbeitnehmers, ein Betriebsratsmitglied
-  zu Besprechungen über Beschwerden hinzuzuziehen
+ zu Besprechungen über Beschwerden hinzuzuziehen
 - §§ 84, 85 BetrVG: Beschwerderecht des Arbeitnehmers; Behandlung durch
-  den Betriebsrat
+ den Betriebsrat
 - § 626 Abs. 2 BGB: Zwei-Wochen-Frist — Dokumentation des ersten
-  Kenntniszeitpunkts ab Eröffnung kritisch
+ Kenntniszeitpunkts ab Eröffnung kritisch
 - §§ 3 ff. AGG: Diskriminierungsverbote — bei AGG-relevantem Sachverhalt
-  strukturierte Untersuchung als Enthaftungsvoraussetzung
+ strukturierte Untersuchung als Enthaftungsvoraussetzung
 
 **Leitentscheidungen:**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Verdachtskündigung — umfassende Sachaufklärung vor Kündigung zwingend;
-  Untersuchungspflicht des Arbeitgebers; Dokumentationsanforderungen
+ Verdachtskündigung — umfassende Sachaufklärung vor Kündigung zwingend;
+ Untersuchungspflicht des Arbeitgebers; Dokumentationsanforderungen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Beginn der Zwei-Wochen-Frist des § 626 Abs. 2 BGB — Fristbeginn erst
-  nach ausreichender Sachaufklärung; Pflicht, Ermittlungen zügig zu führen;
-  mutwillige Verzögerung kann Verwirkung begründen
+ Beginn der Zwei-Wochen-Frist des § 626 Abs. 2 BGB — Fristbeginn erst
+ nach ausreichender Sachaufklärung; Pflicht, Ermittlungen zügig zu führen;
+ mutwillige Verzögerung kann Verwirkung begründen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Inhaltliche Anforderungen an die Anhörung der beschuldigten Person vor
-  Verdachtskündigung; Frage und Antwortrecht; Protokollierungspflicht
+ Inhaltliche Anforderungen an die Anhörung der beschuldigten Person vor
+ Verdachtskündigung; Frage und Antwortrecht; Protokollierungspflicht
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
@@ -607,9 +607,9 @@ Quellencheckliste: investigation-[slug]/quellen-checkliste.yaml
 Dokumentenprotokoll: investigation-[slug]/dokumente-geprueft.yaml
 
 Nächste Schritte:
-  /arbeitsrecht:untersuchung-ergänzen [slug] — Daten hinzufügen
-  /arbeitsrecht:untersuchung-abfrage [slug] — Protokoll abfragen
-  /arbeitsrecht:untersuchungs-memo [slug] — Vermerk entwerfen
+ /arbeitsrecht:untersuchung-ergänzen [slug] — Daten hinzufügen
+ /arbeitsrecht:untersuchung-abfrage [slug] — Protokoll abfragen
+ /arbeitsrecht:untersuchungs-memo [slug] — Vermerk entwerfen
 ```
 
 ## Beispiel
@@ -634,20 +634,20 @@ Beispiel-Ausgabe nach Sachverhaltserfassung (Betriebsrat-Flag):
 ## Risiken und typische Fehler
 
 - **Anwaltsleitung unklar**: Ohne klare Anwaltsleitung ist der Schutzstatus
-  der Untersuchungsunterlagen fraglich. Vor Anlegen der ersten Datei klären.
+ der Untersuchungsunterlagen fraglich. Vor Anlegen der ersten Datei klären.
 - **§ 626 Abs. 2 BGB-Uhr läuft**: Die Frist beginnt bei sicherer Kenntnis.
-  Mutwillige Verzögerung der Untersuchung kann dazu führen, dass die
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Mutwillige Verzögerung der Untersuchung kann dazu führen, dass die
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 82 Abs. 2 BetrVG versäumt**: Wenn dem Arbeitnehmer das Recht auf
-  Hinzuziehung eines Betriebsratsmitglieds nicht mitgeteilt wird, kann
-  dies das Verfahren belasten.
+ Hinzuziehung eines Betriebsratsmitglieds nicht mitgeteilt wird, kann
+ dies das Verfahren belasten.
 - **HinSchG-Vertraulichkeit**: Bei Hinweisgebersachen ist die Identität der
-  hinweisgebenden Person streng vertraulich zu halten (§ 8 Abs. 1 HinSchG).
-  Protokolleinträge so gestalten, dass die Identität nicht für Unbefugte
-  erkennbar ist.
+ hinweisgebenden Person streng vertraulich zu halten (§ 8 Abs. 1 HinSchG).
+ Protokolleinträge so gestalten, dass die Identität nicht für Unbefugte
+ erkennbar ist.
 - **Betriebsrat-Sonderstatus**: Beschuldigte Betriebsratsmitglieder
-  genießen besonderen Schutz (§ 103 BetrVG). Früh klären.
+ genießen besonderen Schutz (§ 103 BetrVG). Früh klären.
 
 ## Quellenpflicht
 

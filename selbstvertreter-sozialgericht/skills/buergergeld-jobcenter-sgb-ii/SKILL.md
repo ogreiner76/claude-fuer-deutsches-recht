@@ -70,7 +70,7 @@ Buergergeld bekommen Sie, wenn Sie wenig Geld haben und arbeitsfaehig sind. Das 
 ### Schritt 3 — Widerspruch
 
 ```
-Jobcenter [Ort]                                     [Ort, Datum]
+Jobcenter [Ort] [Ort, Datum]
 
 BG-Nr: [...]
 

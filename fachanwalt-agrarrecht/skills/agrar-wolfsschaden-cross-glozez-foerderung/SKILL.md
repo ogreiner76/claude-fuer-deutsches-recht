@@ -1,13 +1,13 @@
 ---
 name: agrar-wolfsschaden-cross-glozez-foerderung
-description: "Nutze dies, wenn Agrar Wolfsschaden Spezial, Agrar Cross Compliance Glozez Praxis, Agrar Foerderung Gap Strategieplan im Plugin Fachanwalt Agrarrecht konkret bearbeitet werden soll. Auslöser: Bitte Agrar Wolfsschaden Spezial, Agrar Cross Compliance Glozez Praxis, Agrar Foerderung Gap Strategieplan prüfen.; Erstelle eine Arbeitsfassung zu Agrar Wolfsschaden Spezial, Agrar Cross Compliance Glozez Praxis, Agrar Foerderung Gap Strategieplan.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Agrar Wolfsschaden Spezial, Agrar Cross Compliance Glozez Praxis, Agrar Foerderung Gap Strategieplan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Agrar Wolfsschaden Spezial, Agrar Cross Compliance Glozez Praxis, Agrar Foerderung Gap Strategieplan
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Agrar Wolfsschaden Spezial, Agrar Cross Compliance Glozez Praxis, Agrar Foerderung Gap Strategieplan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

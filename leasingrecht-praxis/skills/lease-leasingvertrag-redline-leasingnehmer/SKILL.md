@@ -1,13 +1,13 @@
 ---
 name: lease-leasingvertrag-redline-leasingnehmer
-description: "Nutze dies, wenn Lease 043 Leasingvertrag Redline Für Anbieter, Lease 044 Leasingvertrag Redline Für Leasingnehmer, Lease 006 Flottenleasing Schaden Minderwert Und Gutachten im Plugin Leasingrecht Praxis konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Lease 043 Leasingvertrag Redline Für Anbieter, Lease 044 Leasingvertrag Redline Für Leasingnehmer, Lease 006 Flottenleasing Schaden Minderwert Und Gutachten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lease 043 Leasingvertrag Redline Für Anbieter, Lease 044 Leasingvertrag Redline Für Leasingnehmer, Lease 006 Flottenleasing Schaden Minderwert Und Gutachten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lease 043 Leasingvertrag Redline Für Anbieter, Lease 044 Leasingvertrag Redline Für Leasingnehmer, Lease 006 Flottenleasing Schaden Minderwert Und Gutachten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

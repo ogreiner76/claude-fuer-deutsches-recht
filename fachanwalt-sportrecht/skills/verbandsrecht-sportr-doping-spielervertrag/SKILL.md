@@ -1,13 +1,13 @@
 ---
 name: verbandsrecht-sportr-doping-spielervertrag
-description: "Nutze dies, wenn Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag im Plugin Fachanwalt Sportrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag
+# Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,11 +15,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spezial-verbandsrecht-fristen-form-und-zustaendigkeit` | Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `sportr-doping-disziplinarverfahren-spezial` | Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption. Pruefraster fuer Verteidiger. |
-| `fachanwalt-sportrecht-spielervertrag` | Workflow-Skill zu fachanwalt sportrecht spielervertrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-sportrecht-spielervertrag` | Arbeitsmodul zu fachanwalt sportrecht spielervertrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sportrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disziplinarverfahren Spezial, Fachanwalt Sportrecht Spielervertrag** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-sportrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Verbandsrecht Fristen Form Und Zustaendigkeit, Sportr Doping Disz
 # Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg / spezial verbandsrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg / verbandsrecht fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -120,7 +120,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-sportrecht`. Er ergaenzt die uebrige
 
 ## 3. `fachanwalt-sportrecht-spielervertrag`
 
-**Fokus:** Workflow-Skill zu fachanwalt sportrecht spielervertrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt sportrecht spielervertrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Spielervertrag
 
@@ -238,12 +238,12 @@ contract on [Date]. The criteria established by CAS (CAS
 2014/A/3642) are met:
 
 1. Salary arrears: The total amount of EUR [Amount] (covering
-   [N] monthly salaries) was outstanding for more than two
-   months.
+ [N] monthly salaries) was outstanding for more than two
+ months.
 2. Two formal warnings: Demand letters were sent on [Date 1]
-   and [Date 2] (Exhibits R-1 and R-2).
+ and [Date 2] (Exhibits R-1 and R-2).
 3. The Claimant failed to remedy the breach within the
-   reasonable timeframe provided.
+ reasonable timeframe provided.
 
 Consequence: The Respondent is entitled to terminate the
 contract with just cause. No compensation is due pursuant
@@ -255,15 +255,15 @@ Should the Chamber find that just cause did not exist, the
 compensation is to be substantially reduced:
 
 1. The Claimant's contributory fault (non-payment of salary)
-   must be taken into account.
+ must be taken into account.
 2. Restwert calculation: Monthly remuneration EUR [Amount] ×
-   remaining months [N] = EUR [Amount]. The claimed amount
-   of EUR [Amount] is excessive.
+ remaining months [N] = EUR [Amount]. The claimed amount
+ of EUR [Amount] is excessive.
 3. No "protected period" breach: the contract was not
-   terminated within the first [2/3] years (Art. 17 para. 4
-   RSTP does not apply).
+ terminated within the first [2/3] years (Art. 17 para. 4
+ RSTP does not apply).
 4. The Respondent is not subject to sporting sanctions
-   (Registration ban).
+ (Registration ban).
 
 IV. RELIEF SOUGHT
 
@@ -271,7 +271,7 @@ We respectfully request the FIFA DRC to:
 a) Dismiss the Claim in its entirety;
 b) In the alternative, significantly reduce any compensation;
 c) Order the Claimant to reimburse the outstanding salary
-   arrears of EUR [Amount] plus interest.
+ arrears of EUR [Amount] plus interest.
 
 [Place, Date]
 [Signature, Counsel]
@@ -295,17 +295,17 @@ Begründung:
 I. Die vereinbarte Befristung ist unwirksam, weil:
 
 1. Sachgrundmangel § 14 Abs. 1 TzBfG: Der Vertrag benennt
-   keinen Sachgrund. Die bloße Angabe "befristet" genügt nicht
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ keinen Sachgrund. Die bloße Angabe "befristet" genügt nicht
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. [Alternativ: Sachgrund nicht tatsächlich vorhanden; z.B.
-   angebliche Eigenart der Arbeitsleistung liegt nicht vor,
-   weil der Kläger hauptsächlich Verwaltungsaufgaben erfüllt
-   hat]
+ angebliche Eigenart der Arbeitsleistung liegt nicht vor,
+ weil der Kläger hauptsächlich Verwaltungsaufgaben erfüllt
+ hat]
 
 3. Kettenbefristung § 14 Abs. 2 Satz 2 TzBfG: Zuvor bestanden
-   drei befristete Verträge mit demselben Arbeitgeber. Eine
-   weitere sachgrundlose Befristung ist unzulässig.
+ drei befristete Verträge mit demselben Arbeitgeber. Eine
+ weitere sachgrundlose Befristung ist unzulässig.
 
 II. Die Klagefrist ist gewahrt.
 Der Vertrag endete am [Datum]. Die Klage wird am [Datum] =

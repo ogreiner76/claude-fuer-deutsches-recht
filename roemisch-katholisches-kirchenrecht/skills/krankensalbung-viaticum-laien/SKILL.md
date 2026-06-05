@@ -1,22 +1,22 @@
 ---
 name: krankensalbung-viaticum-laien
-description: "Nutze dies, wenn Krankensalbung Und Viaticum, Laien In Leitungsaufgaben, Laienrollen In Liturgie Und Verkundigung, Lateinische Formeln Und Kanzleistil im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Krankensalbung Und Viaticum, Laien In Leitungsaufgaben, Laienrollen In Liturgie Und Verkundigung, Lateinische Formeln Und Kanzleistil prüfen.; Erstelle eine Arbeitsfassung zu Krankensalbung Und Viaticum, Laien In Leitungsaufgaben, Laienrollen In Liturgie Und Verkundigung, Lateinische Formeln Und Kanzleistil.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Krankensalbung Und Viaticum, Laien In Leitungsaufgaben, Laienrollen In Liturgie Und Verkundigung, Lateinische Formeln Und Kanzleistil: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Krankensalbung Und Viaticum, Laien In Leitungsaufgaben, Laienrollen In Liturgie Und Verkundigung, Lateinische Formeln Und Kanzleistil
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Krankensalbung Und Viaticum, Laien In Leitungsaufgaben, Laienrollen In Liturgie Und Verkundigung, Lateinische Formeln Und Kanzleistil** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `krankensalbung-und-viaticum` | Krankensalbung und Viaticum: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `laien-in-leitungsaufgaben` | Laien in Leitungsaufgaben: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `laienrollen-in-liturgie-und-verkundigung` | Laienrollen in Liturgie und Verkündigung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `lateinische-formeln-und-kanzleistil` | Lateinische Formeln und Kanzleistil: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `krankensalbung-und-viaticum` | Krankensalbung und Viaticum: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `laien-in-leitungsaufgaben` | Laien in Leitungsaufgaben: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `laienrollen-in-liturgie-und-verkundigung` | Laienrollen in Liturgie und Verkündigung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `lateinische-formeln-und-kanzleistil` | Lateinische Formeln und Kanzleistil: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Krankensalbung Und Viaticum, Laien In Leitungsaufgaben, Laienrollen In Li
 
 ## 1. `krankensalbung-und-viaticum`
 
-**Fokus:** Krankensalbung und Viaticum: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Krankensalbung und Viaticum: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Krankensalbung und Viaticum
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `laien-in-leitungsaufgaben`
 
-**Fokus:** Laien in Leitungsaufgaben: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Laien in Leitungsaufgaben: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Laien in Leitungsaufgaben
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `laienrollen-in-liturgie-und-verkundigung`
 
-**Fokus:** Laienrollen in Liturgie und Verkündigung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Laienrollen in Liturgie und Verkündigung: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Laienrollen in Liturgie und Verkündigung
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `lateinische-formeln-und-kanzleistil`
 
-**Fokus:** Lateinische Formeln und Kanzleistil: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Lateinische Formeln und Kanzleistil: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Lateinische Formeln und Kanzleistil
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

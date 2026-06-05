@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Wasser- und Bodenschutzrecht
-Ressort:            BMUKN
-Kernnormen:         WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.
-Akteure/Aufsicht:   UBA; BfG; Laender-Wasserbehoerden; LAWA.
-EU/Voelkerrecht:    Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmukn; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Wasser- und Bodenschutzrecht
+Ressort: BMUKN
+Kernnormen: WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.
+Akteure/Aufsicht: UBA; BfG; Laender-Wasserbehoerden; LAWA.
+EU/Voelkerrecht: Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

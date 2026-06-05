@@ -1,13 +1,13 @@
 ---
 name: risikomatrix-rueckmeldung-monate-schulung
-description: "Nutze dies, wenn Risikomatrix, Rueckmeldung 3 Monate, Schulung Fuehrungskraefte, Schutzvoraussetzungen im Plugin Hinweisgeberschutz Compliance konkret bearbeitet werden soll. Auslöser: Bitte Risikomatrix, Rueckmeldung 3 Monate, Schulung Fuehrungskraefte, Schutzvoraussetzungen prüfen.; Erstelle eine Arbeitsfassung zu Risikomatrix, Rueckmeldung 3 Monate, Schulung Fuehrungskraefte, Schutzvoraussetzungen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Risikomatrix, Rueckmeldung 3 Monate, Schulung Fuehrungskraefte, Schutzvoraussetzungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Risikomatrix, Rueckmeldung 3 Monate, Schulung Fuehrungskraefte, Schutzvoraussetzungen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Risikomatrix, Rueckmeldung 3 Monate, Schulung Fuehrungskraefte, Schutzvoraussetzungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

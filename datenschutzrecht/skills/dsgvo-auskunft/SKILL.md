@@ -197,7 +197,7 @@ wir bestätigen den Eingang Ihres Auskunftsersuchens vom [DATUM] und erteilen
 Ihnen hiermit Auskunft gemäß Art. 15 DSGVO:
 
 1. Verarbeitete Datenkategorien:
-   [LISTE NACH Art. 15 Abs. 1 lit. a DSGVO]
+ [LISTE NACH Art. 15 Abs. 1 lit. a DSGVO]
 
 2. Verarbeitungszwecke: [ZWECKE]
 
@@ -206,7 +206,7 @@ Ihnen hiermit Auskunft gemäß Art. 15 DSGVO:
 4. Speicherdauer / -kriterien: [FRIST ODER KRITERIEN]
 
 5. Rechte: Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18),
-   Widerspruch (Art. 21), Beschwerde Aufsichtsbehörde (Art. 77 DSGVO): [BEHOERDE].
+ Widerspruch (Art. 21), Beschwerde Aufsichtsbehörde (Art. 77 DSGVO): [BEHOERDE].
 
 6. Datenkopie: [ANLAGE / GESONDERT ÜBERMITTELT]
 

@@ -1,23 +1,23 @@
 ---
 name: recruiting-probezeitkuendigung-fair
-description: "Nutze dies, wenn Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung, Recruiting Interviewfragen No Go im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung, Recruiting Interviewfragen No Go prüfen.; Erstelle eine Arbeitsfassung zu Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung, Recruiting Interviewfragen No Go.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung, Recruiting Interviewfragen No Go
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidale Aeusserung, Recruiting Agg Stellenanzeige, Recruiting Bewerberdaten Löschung, Recruiting Interviewfragen No Go** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `probezeitkuendigung-fair-und-schnell` | Berliner Start-up-HR: Probezeitkündigung schnell, fair und dokumentiert: Frist, Sonderkündigungsschutz, Feedback und IT-Offboarding. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `psychische-belastung-krise-suizidale-aeusserung` | Berliner Start-up-HR: Psychische Krise oder suizidale Äußerung: Fürsorge, Notfallkontakt, Grenzen von HR, Datenschutz und Eskalation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `recruiting-agg-stellenanzeige` | Berliner Start-up-HR: Stellenanzeigen AGG-fest, inklusiv und suchmaschinenbrauchbar formulieren, ohne verdeckte Diskriminierung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `recruiting-bewerberdaten-loeschung` | Berliner Start-up-HR: Bewerberdaten verwalten und löschen: Talentpool, Einwilligung, Absage, Zugriff und Löschfristen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `recruiting-interviewfragen-no-go` | Berliner Start-up-HR: Interviewfragen: zulässige Fragen, No-go-Zonen, Dokumentation, Bias-Check und Rückmeldung an Hiring Manager. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `probezeitkuendigung-fair-und-schnell` | Berliner Start-up-HR: Probezeitkündigung schnell, fair und dokumentiert: Frist, Sonderkündigungsschutz, Feedback und IT-Offboarding. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `psychische-belastung-krise-suizidale-aeusserung` | Berliner Start-up-HR: Psychische Krise oder suizidale Äußerung: Fürsorge, Notfallkontakt, Grenzen von HR, Datenschutz und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `recruiting-agg-stellenanzeige` | Berliner Start-up-HR: Stellenanzeigen AGG-fest, inklusiv und suchmaschinenbrauchbar formulieren, ohne verdeckte Diskriminierung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `recruiting-bewerberdaten-loeschung` | Berliner Start-up-HR: Bewerberdaten verwalten und löschen: Talentpool, Einwilligung, Absage, Zugriff und Löschfristen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `recruiting-interviewfragen-no-go` | Berliner Start-up-HR: Interviewfragen: zulässige Fragen, No-go-Zonen, Dokumentation, Bias-Check und Rückmeldung an Hiring Manager. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Probezeitkuendigung Fair Und Schnell, Psychische Belastung Krise Suizidal
 
 ## 1. `probezeitkuendigung-fair-und-schnell`
 
-**Fokus:** Berliner Start-up-HR: Probezeitkündigung schnell, fair und dokumentiert: Frist, Sonderkündigungsschutz, Feedback und IT-Offboarding. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Probezeitkündigung schnell, fair und dokumentiert: Frist, Sonderkündigungsschutz, Feedback und IT-Offboarding. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Probezeitkuendigung Fair Und Schnell
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Disziplin
 **Fokus:** Probezeitkündigung schnell, fair und dokumentiert: Frist, Sonderkündigungsschutz, Feedback und IT-Offboarding.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `psychische-belastung-krise-suizidale-aeusserung`
 
-**Fokus:** Berliner Start-up-HR: Psychische Krise oder suizidale Äußerung: Fürsorge, Notfallkontakt, Grenzen von HR, Datenschutz und Eskalation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Psychische Krise oder suizidale Äußerung: Fürsorge, Notfallkontakt, Grenzen von HR, Datenschutz und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Psychische Belastung Krise Suizidale Aeusserung
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Vorfälle
 **Fokus:** Psychische Krise oder suizidale Äußerung: Fürsorge, Notfallkontakt, Grenzen von HR, Datenschutz und Eskalation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `recruiting-agg-stellenanzeige`
 
-**Fokus:** Berliner Start-up-HR: Stellenanzeigen AGG-fest, inklusiv und suchmaschinenbrauchbar formulieren, ohne verdeckte Diskriminierung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Stellenanzeigen AGG-fest, inklusiv und suchmaschinenbrauchbar formulieren, ohne verdeckte Diskriminierung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Recruiting AGG Stellenanzeige
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Recruiting
 **Fokus:** Stellenanzeigen AGG-fest, inklusiv und suchmaschinenbrauchbar formulieren, ohne verdeckte Diskriminierung.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `recruiting-bewerberdaten-loeschung`
 
-**Fokus:** Berliner Start-up-HR: Bewerberdaten verwalten und löschen: Talentpool, Einwilligung, Absage, Zugriff und Löschfristen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Bewerberdaten verwalten und löschen: Talentpool, Einwilligung, Absage, Zugriff und Löschfristen. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Recruiting Bewerberdaten Loeschung
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Recruiting
 **Fokus:** Bewerberdaten verwalten und löschen: Talentpool, Einwilligung, Absage, Zugriff und Löschfristen.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `recruiting-interviewfragen-no-go`
 
-**Fokus:** Berliner Start-up-HR: Interviewfragen: zulässige Fragen, No-go-Zonen, Dokumentation, Bias-Check und Rückmeldung an Hiring Manager. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Interviewfragen: zulässige Fragen, No-go-Zonen, Dokumentation, Bias-Check und Rückmeldung an Hiring Manager. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Recruiting Interviewfragen No Go
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Recruiting
 **Fokus:** Interviewfragen: zulässige Fragen, No-go-Zonen, Dokumentation, Bias-Check und Rückmeldung an Hiring Manager.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

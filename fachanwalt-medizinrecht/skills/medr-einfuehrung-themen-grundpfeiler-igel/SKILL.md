@@ -1,13 +1,13 @@
 ---
 name: medr-einfuehrung-themen-grundpfeiler-igel
-description: "Nutze dies, wenn Medr Einfuehrung Themen, Medr Grundpfeiler Igel Und Aerztewerbung Spezial, Medr Igel Leistung Spezial, Medr Mvz Strukturwandel Spezial, Minderjaehrige Einwilligung und 1 weitere Themen im Plugin Fachanwalt Medizinrecht konkret bearbeitet werden soll. Auslöser: Bitte Medr Einfuehrung Themen, Medr Grundpfeiler Igel Und Aerztewerbung Spezial, Medr Igel Leistung Spezial, Medr Mvz Strukturwandel Spezial, Minderjaehrige Einwilligung und 1 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Medr Einfuehrung Themen, Medr Grundpfeiler Igel Und Aerztewerbung Spezial, Medr Igel Leistung Spezial, Medr Mvz Strukturwandel Spezial, Minderjaehrige Einwilligung und 1 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Medr Einfuehrung Themen, Medr Grundpfeiler Igel Und Aerztewerbung Spezial, Medr Igel Leistung Spezial, Medr Mvz Strukturwandel Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Medr Einfuehrung Themen, Medr Grundpfeiler Igel Und Aerztewerbung Spezial, Medr Igel Leistung Spezial, Medr Mvz Strukturwandel Spezial, Minderjaehrige Einwilligung und 1 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Medr Einfuehrung Themen, Medr Grundpfeiler Igel Und Aerztewerbung Spezial, Medr Igel Leistung Spezial, Medr Mvz Strukturwandel Spezial, Minderjaehrige Einwilligung und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

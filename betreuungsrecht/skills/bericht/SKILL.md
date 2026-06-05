@@ -1,12 +1,12 @@
 ---
 name: bericht
-description: "Nutze dies, wenn Bericht: Mandantenkommunikation und Entscheidungsvorlage im Plugin Betreuungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Bericht: Mandantenkommunikation und Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Bericht: Mandantenkommunikation und Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bericht: Mandantenkommunikation und Entscheidungsvorlage: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Bericht: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Bericht: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Bericht: Mandantenkommunikation und Entscheidungsvorlage / spezial bericht mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bericht: Mandantenkommunikation und Entscheidungsvorlage / bericht mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BtOG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

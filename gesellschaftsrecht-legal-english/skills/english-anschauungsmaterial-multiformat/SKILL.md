@@ -1,31 +1,31 @@
 ---
 name: english-anschauungsmaterial-multiformat
-description: "Nutze dies, wenn Spezial English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Multiformat Auswertung im Plugin Gesellschaftsrecht Legal English konkret bearbeitet werden soll. Auslöser: Bitte Spezial English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Multiformat Auswertung prüfen.; Erstelle eine Arbeitsfassung zu Spezial English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Multiformat Auswertung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Multiformat Auswertung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Multiformat Auswertung
+# English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Multiformat Auswertung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Multiformat Auswertung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-english-fristen-form-und-zustaendigkeit` | English: Fristen, Form, Zuständigkeit und Rechtsweg im Corporate Legal English: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-english-fristen-form-und-zustaendigkeit` | English: Fristen, Form, Zuständigkeit und Rechtsweg im Corporate Legal English: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `anschauungsmaterial-multiformat-auswertung` | Wertet Corporate-Legal-English-Unterlagen in mehreren Formaten aus: PDF, Scan, Screenshot, JPEG, Excel, Chat, Email, Notarvermerk, Cap Table und Dealroom-Fragmente. |
 
 ## Arbeitsweg
 
-Für **Spezial English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Multiformat Auswertung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Multiformat Auswertung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsrecht-legal-english` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-english-fristen-form-und-zustaendigkeit`
 
-**Fokus:** English: Fristen, Form, Zuständigkeit und Rechtsweg im Corporate Legal English: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** English: Fristen, Form, Zuständigkeit und Rechtsweg im Corporate Legal English: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # English: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -39,7 +39,7 @@ Für **Spezial English Fristen Form Und Zustaendigkeit, Anschauungsmaterial Mult
 
 
 ## Spezialwissen: English: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** English: Fristen, Form, Zuständigkeit und Rechtsweg / spezial english fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** English: Fristen, Form, Zuständigkeit und Rechtsweg / english fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** SHA, SPA, DD, HR.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -137,7 +137,7 @@ Welche Rueckfrage stelle ich?
 - Extraktionsnotiz.
 - Begriffskarte.
 - Zahlen-/Formrisiko.
-- Naechster Spezialskill.
+- Naechster Fachmodul.
 - Senior-Review-Gate.
 
 

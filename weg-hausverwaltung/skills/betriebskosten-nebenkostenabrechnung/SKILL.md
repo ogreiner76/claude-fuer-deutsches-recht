@@ -29,7 +29,7 @@ Die Hausverwaltung soll zwei Welten auseinanderhalten:
 
 Eine WEG-Einzelabrechnung ist kein fertiger Mieternebenkostenbescheid. Sie ist Rohmaterial.
 
-## Kaltstart
+## Einstieg
 
 1. Wer fragt: WEG-Verwalter, vermietender Eigentümer, Mieter, Anwalt?
 2. Geht es um Erstellung, Prüfung, Datenanforderung oder Streit?

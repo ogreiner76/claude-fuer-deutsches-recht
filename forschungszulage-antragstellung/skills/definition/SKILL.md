@@ -1,12 +1,12 @@
 ---
 name: definition
-description: "Nutze dies, wenn Definition: Abschlussprodukt und Übergabe im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Definition: Abschlussprodukt und Übergabe prüfen.; Erstelle eine Arbeitsfassung zu Definition: Abschlussprodukt und Übergabe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Definition: Abschlussprodukt und Übergabe: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Definition: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Definition: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Definition: Abschlussprodukt und Übergabe / spezial definition abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Definition: Abschlussprodukt und Übergabe / definition abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FZulG, BSFZ.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

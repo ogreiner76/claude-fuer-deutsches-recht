@@ -73,11 +73,11 @@ Nach Urteil:
 **Grenzen-Check**
 | Frage | Ergebnis | Ampel |
 |---|---|---|
-| Streitwert |  |  |
-| Amtsgericht zuständig? |  |  |
-| Selbstvertretung möglich? |  |  |
-| Vereinfachtes Verfahren möglich? |  |  |
-| Berufung später realistisch? |  |  |
+| Streitwert | | |
+| Amtsgericht zuständig? | | |
+| Selbstvertretung möglich? | | |
+| Vereinfachtes Verfahren möglich? | | |
+| Berufung später realistisch? | | |
 
 **Konsequenz**
 [Klare Handlungsempfehlung: AG, LG/Anwalt, Rechtsantragsstelle, PKH, Streitwert nacharbeiten.]

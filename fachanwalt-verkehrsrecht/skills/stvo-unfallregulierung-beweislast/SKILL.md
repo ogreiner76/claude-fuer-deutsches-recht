@@ -1,13 +1,13 @@
 ---
 name: stvo-unfallregulierung-beweislast
-description: "Nutze dies, wenn Spezial Stvo Dokumentenmatrix Und Lueckenliste, Spezial Unfallregulierung Beweislast Und Darlegungslast, Spezial Verkehrsrecht Tatbestand Beweis Und Belege im Plugin Fachanwalt Verkehrsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Stvo Dokumentenmatrix Und Lueckenliste, Spezial Unfallregulierung Beweislast Und Darlegungslast, Spezial Verkehrsrecht Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Stvo Dokumentenmatrix Und Lueckenliste, Spezial Unfallregulierung Beweislast Und Darlegungslast, Spezial Verkehrsrecht Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Stvo Dokumentenmatrix Und Lueckenliste, Unfallregulierung Beweislast Und Darlegungslast, Verkehrsrecht Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Stvo Dokumentenmatrix Und Lueckenliste, Spezial Unfallregulierung Beweislast Und Darlegungslast, Spezial Verkehrsrecht Tatbestand Beweis Und Belege
+# Stvo Dokumentenmatrix Und Lueckenliste, Unfallregulierung Beweislast Und Darlegungslast, Verkehrsrecht Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Stvo Dokumentenmatrix Und Lueckenliste, Unfallregulierung Beweislast Und Darlegungslast, Verkehrsrecht Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Stvo Dokumentenmatrix Und Lueckenliste, Spezial Unfallregulierung Beweislast Und Darlegungslast, Spezial Verkehrsrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Stvo Dokumentenmatrix Und Lueckenliste, Unfallregulierung Beweislast Und Darlegungslast, Verkehrsrecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verkehrsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Stvo Dokumentenmatrix Und Lueckenliste, Spezial Unfallregulierung
 # Stvo: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Stvo: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Stvo: Dokumentenmatrix, Lückenliste und Nachforderung / spezial stvo dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Stvo: Dokumentenmatrix, Lückenliste und Nachforderung / stvo dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -67,38 +67,38 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## StVO-Dokumentenmatrix Bausteine
 - **StVO-Verstoesse-Dokumentation:**
-  - **Verkehrsschilderlage** zur Tatzeit (Beschilderung gueltig? Tempo-Limit-Schild erkennbar? Verschilderung StVO-Konform? Unterschilderung kritisch).
-  - **Wegmarkierungen** (Mittelstreifen, Sperrflaeche, Halt-/Stop-Linien).
-  - **Ampelphasen** bei Rotlichtverstoss (Phasenpruefung, qualifizierter Rotlichtverstoss ab 1 Sek + Fahrverbot Regelsanktion).
-  - **Abstandsmessung BAB:** Auswertung Foto-Folgeauflage; halber Tacho-Regel (BGH-Linie).
+ - **Verkehrsschilderlage** zur Tatzeit (Beschilderung gueltig? Tempo-Limit-Schild erkennbar? Verschilderung StVO-Konform? Unterschilderung kritisch).
+ - **Wegmarkierungen** (Mittelstreifen, Sperrflaeche, Halt-/Stop-Linien).
+ - **Ampelphasen** bei Rotlichtverstoss (Phasenpruefung, qualifizierter Rotlichtverstoss ab 1 Sek + Fahrverbot Regelsanktion).
+ - **Abstandsmessung BAB:** Auswertung Foto-Folgeauflage; halber Tacho-Regel (BGH-Linie).
 - **Pflichtdokumente bei OWi/Strafverfahren:**
-  - **Bussgeldbescheid** mit Tenor, Tatzeit-/ort, Strafvorschrift, Rechtsmittelbelehrung.
-  - **Messprotokoll** Geschwindigkeit / Abstand / Atemalkohol.
-  - **Messfoto** Frontfoto / Heckfoto / Video.
-  - **Eichschein** Geraet im Tatzeitraum.
-  - **Bedienerschein** Messbeamter / Polizeibeamter.
-  - **Lebensakte Geraet** (Reparaturen, Updates).
-  - **Lichtbild Fahreridentifizierung**.
+ - **Bussgeldbescheid** mit Tenor, Tatzeit-/ort, Strafvorschrift, Rechtsmittelbelehrung.
+ - **Messprotokoll** Geschwindigkeit / Abstand / Atemalkohol.
+ - **Messfoto** Frontfoto / Heckfoto / Video.
+ - **Eichschein** Geraet im Tatzeitraum.
+ - **Bedienerschein** Messbeamter / Polizeibeamter.
+ - **Lebensakte Geraet** (Reparaturen, Updates).
+ - **Lichtbild Fahreridentifizierung**.
 - **Lueckenliste Standard:**
-  - Eichschein fehlt / abgelaufen?
-  - Bedienerschein fehlt?
-  - Toleranzwerte abgezogen?
-  - Beweisfoto nicht eindeutig (Verdeckung, Bewegungsunschaerfe)?
-  - Standardisiertes Messverfahren angewandt? (BGH-Linie zur Vermutung Richtigkeit).
-  - **Rohdaten** verfuegbar (BVerfG-Linie zur fair-trial-Garantie zur Akteneinsicht)?
+ - Eichschein fehlt / abgelaufen?
+ - Bedienerschein fehlt?
+ - Toleranzwerte abgezogen?
+ - Beweisfoto nicht eindeutig (Verdeckung, Bewegungsunschaerfe)?
+ - Standardisiertes Messverfahren angewandt? (BGH-Linie zur Vermutung Richtigkeit).
+ - **Rohdaten** verfuegbar (BVerfG-Linie zur fair-trial-Garantie zur Akteneinsicht)?
 - **Nachforderungs-Schreiben Vorlage:**
-  ```
-  Sehr geehrte Damen und Herren,
-  zur Akte Az ... bitten wir innerhalb von 14 Tagen um Vorlage / Mitteilung:
-  - Eichschein des Messgeraets ... im Tatzeitraum.
-  - Bedienerschein / Schulungsnachweis des Messbeamten ...
-  - Lebensakte des Messgeraets.
-  - Vollstaendige Rohdatensaetze (.case bzw. .esa) der Messung.
-  - Bedienungsanleitung des Messgeraets in der zum Tatzeitpunkt gueltigen Fassung.
+ ```
+ Sehr geehrte Damen und Herren,
+ zur Akte Az ... bitten wir innerhalb von 14 Tagen um Vorlage / Mitteilung:
+ - Eichschein des Messgeraets ... im Tatzeitraum.
+ - Bedienerschein / Schulungsnachweis des Messbeamten ...
+ - Lebensakte des Messgeraets.
+ - Vollstaendige Rohdatensaetze (.case bzw. .esa) der Messung.
+ - Bedienungsanleitung des Messgeraets in der zum Tatzeitpunkt gueltigen Fassung.
 
-  Diese Angaben sind erforderlich, um die ordnungsgemaesse Durchfuehrung der Messung
-  fair-trial-konform pruefen zu koennen (BVerfG, staendige Rspr. zur Akteneinsicht).
-  ```
+ Diese Angaben sind erforderlich, um die ordnungsgemaesse Durchfuehrung der Messung
+ fair-trial-konform pruefen zu koennen (BVerfG, staendige Rspr. zur Akteneinsicht).
+ ```
 - **Strategie:** Bei vollstaendiger Akte Pruefung gegen PTB-Bauartzulassung; ggf. Sachverstaendigengutachten beantragen § 244 StPO i.V.m. § 71 OWiG.
 
 ## 2. `spezial-unfallregulierung-beweislast-und-darlegungslast`
@@ -108,7 +108,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Unfallregulierung: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Unfallregulierung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Unfallregulierung: Beweislast, Darlegungslast und Substantiierung / spezial unfallregulierung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Unfallregulierung: Beweislast, Darlegungslast und Substantiierung / unfallregulierung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, BGB.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -149,7 +149,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial verkehrsrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / verkehrsrecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -185,23 +185,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Verkehrsrechts-Tatbestand-Beweisbausteine
 - **Verkehrszivilrecht - Tatbestandsmerkmale § 7 StVG (Halterhaftung):**
-  - **Betriebsgefahr** Kfz: ohne Verschulden; Ausnahme hoehere Gewalt § 7 II StVG.
-  - **Mitverursachung** § 17 StVG bei Unfall zwischen mehreren Kfz.
-  - **Beweis** Tatzeit-Tatort durch Polizeiprotokoll, Zeugen, Telematik-Daten, KFZ-Diagnosesysteme (Crash-Recorder seit 2024 EU-Pflicht).
+ - **Betriebsgefahr** Kfz: ohne Verschulden; Ausnahme hoehere Gewalt § 7 II StVG.
+ - **Mitverursachung** § 17 StVG bei Unfall zwischen mehreren Kfz.
+ - **Beweis** Tatzeit-Tatort durch Polizeiprotokoll, Zeugen, Telematik-Daten, KFZ-Diagnosesysteme (Crash-Recorder seit 2024 EU-Pflicht).
 - **§ 18 StVG Fahrerhaftung:** Verschulden zu vermuten; Entlastungsbeweis Fahrer.
 - **§ 823 BGB Verschulden:** Vorsatz / Fahrlaessigkeit; Verschulden indiziell bei Verstoss gegen StVO.
 - **Schadenshoehe-Beweis:**
-  - SV-Gutachten (eigener SV bei klarer Haftung; bei Bagatellschaden Kostenvoranschlag).
-  - Fiktive vs. konkrete Abrechnung: 130 %-Grenze BGH-Linie bei tatsaechlicher Reparatur.
-  - Wertminderung (BVSK-Honorartabelle, SV-Tabellen); nicht bei zu altem Fahrzeug.
-  - Nutzungsausfall (Schwacke / Frauenhofer-Tabelle).
-  - Mietwagen (Frauenhofer / Schwacke / Mittelwert; Anspruch auf erforderlichen, nicht jeden Mietwagen).
+ - SV-Gutachten (eigener SV bei klarer Haftung; bei Bagatellschaden Kostenvoranschlag).
+ - Fiktive vs. konkrete Abrechnung: 130 %-Grenze BGH-Linie bei tatsaechlicher Reparatur.
+ - Wertminderung (BVSK-Honorartabelle, SV-Tabellen); nicht bei zu altem Fahrzeug.
+ - Nutzungsausfall (Schwacke / Frauenhofer-Tabelle).
+ - Mietwagen (Frauenhofer / Schwacke / Mittelwert; Anspruch auf erforderlichen, nicht jeden Mietwagen).
 - **Verkehrs-OWi - Tatbestandsmerkmale § 24 StVG:**
-  - Versto gegen Verbote / Gebote der StVO.
-  - Fahrlaessigkeit § 10 OWiG genuegt; Vorsatz erschwert.
+ - Versto gegen Verbote / Gebote der StVO.
+ - Fahrlaessigkeit § 10 OWiG genuegt; Vorsatz erschwert.
 - **Verkehrsstrafrecht:**
-  - **§ 142 StGB Unfallflucht:** Verkehrsunfall + Beteiligung + Sich-Entfernen vor Feststellung + Vorsatz; Verzeihung BVerfG durch hoehere Strafe nicht moeglich.
-  - **§ 316 StGB Trunkenheit:** absolute Fahruntuechtigkeit ab 1,1 Promille BAK (PKW); relative ab 0,3 mit Ausfallerscheinungen.
-  - **§ 315c StGB Gefaehrdung StraVerkehr:** konkrete Gefahr fuer Leib / Leben / fremde Sachen erheblichen Wertes.
-  - **§ 315d StGB Verbotene Kraftfahrzeugrennen:** seit 2017 Vergehen mit Freiheitsstrafe bis 2 Jahre, qualifiziert bis 10 Jahre.
+ - **§ 142 StGB Unfallflucht:** Verkehrsunfall + Beteiligung + Sich-Entfernen vor Feststellung + Vorsatz; Verzeihung BVerfG durch hoehere Strafe nicht moeglich.
+ - **§ 316 StGB Trunkenheit:** absolute Fahruntuechtigkeit ab 1,1 Promille BAK (PKW); relative ab 0,3 mit Ausfallerscheinungen.
+ - **§ 315c StGB Gefaehrdung StraVerkehr:** konkrete Gefahr fuer Leib / Leben / fremde Sachen erheblichen Wertes.
+ - **§ 315d StGB Verbotene Kraftfahrzeugrennen:** seit 2017 Vergehen mit Freiheitsstrafe bis 2 Jahre, qualifiziert bis 10 Jahre.
 - **Beweiserhebung Verkehrsstrafrecht:** Blutalkoholgutachten (Blutprobe § 81a StPO Voraussetzungen, Richtervorbehalt grundsaetzlich); Drogengutachten (Anlage zu § 24a StVG Wirkstoffliste); Ringversuch Massbericht.

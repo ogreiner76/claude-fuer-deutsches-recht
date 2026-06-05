@@ -24,50 +24,50 @@ Zu jedem Flugabschnitt:
 fall-id: FG-2026-0042
 reisedatum: 2026-05-12
 passagiere:
-  - name: Mueller, Hans
-    geburtsdatum: 1972-08-15
-    rolle: hauptbuchender
-  - name: Mueller, Eva
-    geburtsdatum: 1975-03-22
-    rolle: ehepartner
-  - name: Mueller, Lea
-    geburtsdatum: 2010-06-18
-    rolle: minderjährig
+ - name: Mueller, Hans
+ geburtsdatum: 1972-08-15
+ rolle: hauptbuchender
+ - name: Mueller, Eva
+ geburtsdatum: 1975-03-22
+ rolle: ehepartner
+ - name: Mueller, Lea
+ geburtsdatum: 2010-06-18
+ rolle: minderjährig
 
-buchungscode: ABC123  # PNR
-buchung-bei: Lufthansa  # vermarktende Airline
+buchungscode: ABC123 # PNR
+buchung-bei: Lufthansa # vermarktende Airline
 buchungsdatum: 2026-04-12
 
 flug:
-  flugnummer: LH 1234  # Code des operating carrier
-  operating-carrier: Lufthansa
-  marketing-carrier: Lufthansa
-  abflughafen: MUC (München)
-  zielflughafen: LIS (Lissabon)
-  geplante-abflugzeit: 2026-05-12T08:25:00+02:00
-  geplante-ankunftszeit: 2026-05-12T11:00:00+01:00
-  tatsaechliche-abflugzeit: null
-  tatsaechliche-ankunftszeit: null
-  flugklasse: economy
-  distanz-km: 2280  # Skill `distanz-und-ausgleich-berechnen`
+ flugnummer: LH 1234 # Code des operating carrier
+ operating-carrier: Lufthansa
+ marketing-carrier: Lufthansa
+ abflughafen: MUC (München)
+ zielflughafen: LIS (Lissabon)
+ geplante-abflugzeit: 2026-05-12T08:25:00+02:00
+ geplante-ankunftszeit: 2026-05-12T11:00:00+01:00
+ tatsaechliche-abflugzeit: null
+ tatsaechliche-ankunftszeit: null
+ flugklasse: economy
+ distanz-km: 2280 # Skill `distanz-und-ausgleich-berechnen`
 
 stoerung:
-  art: annullierung  # annullierung / verspätung / nichtbefoerderung / umbuchung / abweichender-flug
-  bekanntgabe-am: 2026-05-12T06:30:00+02:00
-  bekanntgabe-wie: SMS  # SMS / E-Mail / Schalter-Mitteilung
-  begruendung-airline: technischer Defekt
-  ersatzangebot: Flug am 13.05.2026 LH 1234
-  ersatz-tatsaechlich-genutzt: ja
+ art: annullierung # annullierung / verspätung / nichtbefoerderung / umbuchung / abweichender-flug
+ bekanntgabe-am: 2026-05-12T06:30:00+02:00
+ bekanntgabe-wie: SMS # SMS / E-Mail / Schalter-Mitteilung
+ begruendung-airline: technischer Defekt
+ ersatzangebot: Flug am 13.05.2026 LH 1234
+ ersatz-tatsaechlich-genutzt: ja
 
 belege:
-  - typ: buchungsbestätigung
-    pfad: belege/2026-05-12/buchung-LH1234.pdf
-  - typ: boardingpass
-    pfad: belege/2026-05-12/boardingpass-mueller.pdf
-  - typ: stoerungsbenachrichtigung
-    pfad: belege/2026-05-12/sms-annullierung.png
-  - typ: ersatzboardingpass
-    pfad: belege/2026-05-13/boardingpass-mueller-ersatz.pdf
+ - typ: buchungsbestätigung
+ pfad: belege/2026-05-12/buchung-LH1234.pdf
+ - typ: boardingpass
+ pfad: belege/2026-05-12/boardingpass-mueller.pdf
+ - typ: stoerungsbenachrichtigung
+ pfad: belege/2026-05-12/sms-annullierung.png
+ - typ: ersatzboardingpass
+ pfad: belege/2026-05-13/boardingpass-mueller-ersatz.pdf
 ```
 
 ## OCR / PDF-Extraktion

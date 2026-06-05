@@ -1,13 +1,13 @@
 ---
 name: dma-business-user-gatekeeper
-description: "Nutze dies, wenn Dma Business User Zugang Spezial, Dma Gatekeeper Schwellen Und Kernplattformdienste, Dma Interoperabilitaet Messenger Art 7 im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Dma Business User Zugang Spezial, Dma Gatekeeper Schwellen Und Kernplattformdienste, Dma Interoperabilitaet Messenger Art 7 prüfen.; Erstelle eine Arbeitsfassung zu Dma Business User Zugang Spezial, Dma Gatekeeper Schwellen Und Kernplattformdienste, Dma Interoperabilitaet Messenger Art 7.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dma Business User Zugang Spezial, Dma Gatekeeper Schwellen Und Kernplattformdienste, Dma Interoperabilitaet Messenger Art 7: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dma Business User Zugang Spezial, Dma Gatekeeper Schwellen Und Kernplattformdienste, Dma Interoperabilitaet Messenger Art 7
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dma Business User Zugang Spezial, Dma Gatekeeper Schwellen Und Kernplattformdienste, Dma Interoperabilitaet Messenger Art 7** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

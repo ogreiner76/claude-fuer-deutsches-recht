@@ -113,7 +113,7 @@ Die Antworten geben in Verbindung mit der 7-Fragen-Diagnose oben ein belastbares
 
 - Ampelschema mit Begründung je Kriterium.
 - Förderchance in Euro (Bandbreite konservativ/realistisch/optimistisch).
-- Engpass-Liste mit dem nächsten Spezialskill.
+- Engpass-Liste mit dem nächsten Fachmodul.
 - Liste der sofort zu sichernden Belege.
 
 ## Querverweise

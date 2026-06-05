@@ -1,13 +1,13 @@
 ---
 name: chn-contract-language-arbitration-hk
-description: "Nutze dies, wenn Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China im Plugin Festlandchina Wirtschaftsverkehr konkret bearbeitet werden soll. Auslöser: Bitte Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China prüfen.; Erstelle eine Arbeitsfassung zu Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

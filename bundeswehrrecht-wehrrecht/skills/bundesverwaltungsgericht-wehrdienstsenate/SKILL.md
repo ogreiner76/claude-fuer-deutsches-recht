@@ -1,13 +1,13 @@
 ---
 name: bundesverwaltungsgericht-wehrdienstsenate
-description: "Nutze dies, wenn Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Neu 001 Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Neu 002 Wehrsold Freiwilliger Wehrdienst Und Unterhaltssic im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Neu 001 Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Neu 002 Wehrsold Freiwilliger Wehrdienst Und Unterhaltssic prüfen.; Erstelle eine Arbeitsfassung zu Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Neu 001 Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Neu 002 Wehrsold Freiwilliger Wehrdienst Und Unterhaltssic.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Wehrsold Freiwilliger Wehrdienst Und Unterhaltssic: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Neu 001 Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Neu 002 Wehrsold Freiwilliger Wehrdienst Und Unterhaltssic
+# Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Wehrsold Freiwilliger Wehrdienst Und Unterhaltssic
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Wehrsold Freiwilliger Wehrdienst Und Unterhaltssic** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Neu 001 Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Neu 002 Wehrsold Freiwilliger Wehrdienst Und Unterhaltssic** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Wehrsold Freiwilliger Wehrdienst Und Unterhaltssic** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `bundeswehrrecht-wehrrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -59,7 +59,7 @@ Die Wehrdienstsenate des BVerwG (1. und 2. Wehrdienstsenat) entscheiden über Re
 - § 80a VwGO: Vorläufige Maßnahmen im Eilrechtsschutz.
 - § 50 SG: Verlust der Rechte als Soldat – höchstrichterliche Klärung beim BVerwG.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Rechtsmittelart bestimmen.** Berufung in WDO-Sachen (§ 23a WDO); Antrag auf gerichtliche Entscheidung in § 21 WBO-Sachen; Beschwerde gegen Beschluss des TDG.
 2. **Frist sichern.** 1 Monat ab Zustellung des TDG-Urteils bzw. des Beschwerdebescheids.
@@ -209,7 +209,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -318,7 +318,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 

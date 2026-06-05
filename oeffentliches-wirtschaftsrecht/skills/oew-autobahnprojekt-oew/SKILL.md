@@ -1,13 +1,13 @@
 ---
 name: oew-autobahnprojekt-oew
-description: "Nutze dies, wenn Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki im Plugin Oeffentliches Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki prüfen.; Erstelle eine Arbeitsfassung zu Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

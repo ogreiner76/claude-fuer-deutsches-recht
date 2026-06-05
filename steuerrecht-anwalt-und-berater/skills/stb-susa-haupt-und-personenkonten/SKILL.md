@@ -50,11 +50,11 @@ Die SuSa zeigt einen Saldo auf dem Sammelkonto "Forderungen aus Lieferungen und 
 Typische SKR-03-Sammelkonten (Nummern beispielhaft; bei Abweichungen in der aktuellen DATEV-Kontenrahmenfassung nachschlagen):
 
 ```
-1200  Bank                    [X]
-1400  Forderungen LuL         [X]
-1700  Verbindlichkeiten LuL   [X]
-1576  Vorsteuer 19 Prozent    [X]
-1776  USt 19 Prozent          [X]
+1200 Bank [X]
+1400 Forderungen LuL [X]
+1700 Verbindlichkeiten LuL [X]
+1576 Vorsteuer 19 Prozent [X]
+1776 USt 19 Prozent [X]
 ```
 
 ### Phase 2 — Personenkonten-OPOS

@@ -1,22 +1,22 @@
 ---
 name: laufzeit-nachwirkungsfrist-oeffentliche-hand
-description: "Nutze dies, wenn Laufzeit Und Nachwirkungsfrist, Oeffentliche Hand Und Vergabeverfahren, Catch All Klausel Arbeitsvertrag, Verhandlungsbrief Zu Harten Klauseln im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Laufzeit Und Nachwirkungsfrist, Oeffentliche Hand Und Vergabeverfahren, Catch All Klausel Arbeitsvertrag, Verhandlungsbrief Zu Harten Klauseln prüfen.; Erstelle eine Arbeitsfassung zu Laufzeit Und Nachwirkungsfrist, Oeffentliche Hand Und Vergabeverfahren, Catch All Klausel Arbeitsvertrag, Verhandlungsbrief Zu Harten Klauseln.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Laufzeit Und Nachwirkungsfrist, Oeffentliche Hand Und Vergabeverfahren, Catch All Klausel Arbeitsvertrag, Verhandlungsbrief Zu Harten Klauseln: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Laufzeit Und Nachwirkungsfrist, Oeffentliche Hand Und Vergabeverfahren, Catch All Klausel Arbeitsvertrag, Verhandlungsbrief Zu Harten Klauseln
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Laufzeit Und Nachwirkungsfrist, Oeffentliche Hand Und Vergabeverfahren, Catch All Klausel Arbeitsvertrag, Verhandlungsbrief Zu Harten Klauseln** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `laufzeit-und-nachwirkungsfrist` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Laufzeit Und Nachwirkungsfrist; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `oeffentliche-hand-und-vergabeverfahren` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oeffentliche Hand Und Vergabeverfahren; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `catch-all-klausel-arbeitsvertrag` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Catch All Klausel Arbeitsvertrag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `verhandlungsbrief-zu-harten-klauseln` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verhandlungsbrief Zu Harten Klauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `laufzeit-und-nachwirkungsfrist` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Laufzeit Und Nachwirkungsfrist; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `oeffentliche-hand-und-vergabeverfahren` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oeffentliche Hand Und Vergabeverfahren; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `catch-all-klausel-arbeitsvertrag` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Catch All Klausel Arbeitsvertrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `verhandlungsbrief-zu-harten-klauseln` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verhandlungsbrief Zu Harten Klauseln; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Laufzeit Und Nachwirkungsfrist, Oeffentliche Hand Und Vergabeverfahren, C
 
 ## 1. `laufzeit-und-nachwirkungsfrist`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Laufzeit Und Nachwirkungsfrist; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Laufzeit Und Nachwirkungsfrist; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Laufzeit Und Nachwirkungsfrist
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `oeffentliche-hand-und-vergabeverfahren`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oeffentliche Hand Und Vergabeverfahren; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Oeffentliche Hand Und Vergabeverfahren; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Oeffentliche Hand Und Vergabeverfahren
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `catch-all-klausel-arbeitsvertrag`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Catch All Klausel Arbeitsvertrag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Catch All Klausel Arbeitsvertrag; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Catch All Klausel Arbeitsvertrag
 
@@ -198,7 +198,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `verhandlungsbrief-zu-harten-klauseln`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verhandlungsbrief Zu Harten Klauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Verhandlungsbrief Zu Harten Klauseln; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Verhandlungsbrief Zu Harten Klauseln
 

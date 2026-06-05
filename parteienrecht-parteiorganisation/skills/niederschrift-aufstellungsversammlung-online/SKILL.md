@@ -1,13 +1,13 @@
 ---
 name: niederschrift-aufstellungsversammlung-online
-description: "Nutze dies, wenn Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage prüfen.; Erstelle eine Arbeitsfassung zu Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentlic
 ## Aufgabe
 Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Prüft Satzung, Identifikation, geheime elektronische Wahl, Beschlussfähigkeit, Datenschutz und technische Risiken.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Baut Aktenstruktur für Satzung, Protokolle, Mitglieder, Wahlvorschläge, Finanzen, Spenden, Schiedsverfahren.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

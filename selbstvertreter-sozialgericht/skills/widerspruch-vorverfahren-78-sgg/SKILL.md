@@ -55,7 +55,7 @@ Adressat ist die Behoerde, die den Bescheid erlassen hat — NICHT das Gericht. 
 [Ihr Name]
 [Ihre Adresse]
 
-[Behoerde mit Adresse]                                  [Ort, Datum]
+[Behoerde mit Adresse] [Ort, Datum]
 
 Az: [aus dem Bescheid uebernehmen]
 Betr: Bescheid vom [Datum], zugegangen am [Datum]
@@ -66,7 +66,7 @@ Sehr geehrte Damen und Herren,
 
 gegen den oben bezeichneten Bescheid lege ich
 
-                       Widerspruch
+ Widerspruch
 
 ein. Die Begruendung folgt nach Akteneinsicht.
 

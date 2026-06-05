@@ -1,13 +1,13 @@
 ---
 name: use-sale-utilities-valuation-enterprise-venue
-description: "Nutze dies, wenn Use Sale Lease 363, Utilities 366, Valuation Enterprise, Venue Jurisdiction Core im Plugin Us Bankruptcy Code konkret bearbeitet werden soll. Auslöser: Bitte Use Sale Lease 363, Utilities 366, Valuation Enterprise, Venue Jurisdiction Core prüfen.; Erstelle eine Arbeitsfassung zu Use Sale Lease 363, Utilities 366, Valuation Enterprise, Venue Jurisdiction Core.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Use Sale Lease 363, Utilities 366, Valuation Enterprise, Venue Jurisdiction Core: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Use Sale Lease 363, Utilities 366, Valuation Enterprise, Venue Jurisdiction Core
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Use Sale Lease 363, Utilities 366, Valuation Enterprise, Venue Jurisdiction Core** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

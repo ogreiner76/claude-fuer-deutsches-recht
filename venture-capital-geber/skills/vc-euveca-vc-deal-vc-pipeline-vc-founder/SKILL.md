@@ -1,13 +1,13 @@
 ---
 name: vc-euveca-vc-deal-vc-pipeline-vc-founder
-description: "Nutze dies, wenn Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake im Plugin Venture Capital Geber konkret bearbeitet werden soll. Auslöser: Bitte Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake prüfen.; Erstelle eine Arbeitsfassung zu Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

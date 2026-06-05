@@ -1,19 +1,19 @@
 ---
 name: rechtsabteilung-w
-description: "Nutze dies, wenn Rechtsabteilung W I Claim Nach Financial Statements Breach im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung W I Claim Nach Financial Statements Breach prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung W I Claim Nach Financial Statements Breach.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsabteilung W I Claim Nach Financial Statements Breach: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung W I Claim Nach Financial Statements Breach
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung W I Claim Nach Financial Statements Breach** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-w-i-claim-nach-financial-statements-breach` | Rechtsabteilungs-Spezialskill für W&I-Claim nach Financial Statements Breach: Claim Notice, Loss Quantification und Versichererkommunikation werden taktisch vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-w-i-claim-nach-financial-statements-breach` | Rechtsabteilungs-Fachmodul für W&I-Claim nach Financial Statements Breach: Claim Notice, Loss Quantification und Versichererkommunikation werden taktisch vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -24,7 +24,7 @@ Für **Rechtsabteilung W I Claim Nach Financial Statements Breach** zuerst das A
 
 ## 1. `rechtsabteilung-w-i-claim-nach-financial-statements-breach`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für W&I-Claim nach Financial Statements Breach: Claim Notice, Loss Quantification und Versichererkommunikation werden taktisch vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für W&I-Claim nach Financial Statements Breach: Claim Notice, Loss Quantification und Versichererkommunikation werden taktisch vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: W&I-Claim nach Financial Statements Breach
 

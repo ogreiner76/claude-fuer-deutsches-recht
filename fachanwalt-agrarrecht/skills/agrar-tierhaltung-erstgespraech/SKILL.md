@@ -1,13 +1,13 @@
 ---
 name: agrar-tierhaltung-erstgespraech
-description: "Nutze dies, wenn Agrar Tierhaltung Spezial Tieg, Erstgespraech Mandatsannahme, Fachanwalt Agrarrecht Duenge Ordnungswidrigkeit im Plugin Fachanwalt Agrarrecht konkret bearbeitet werden soll. Auslöser: Bitte Agrar Tierhaltung Spezial Tieg, Erstgespraech Mandatsannahme, Fachanwalt Agrarrecht Duenge Ordnungswidrigkeit prüfen.; Erstelle eine Arbeitsfassung zu Agrar Tierhaltung Spezial Tieg, Erstgespraech Mandatsannahme, Fachanwalt Agrarrecht Duenge Ordnungswidrigkeit.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Agrar Tierhaltung Tieg, Erstgespraech Mandatsannahme, Fachanwalt Agrarrecht Duenge Ordnungswidrigkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Agrar Tierhaltung Spezial Tieg, Erstgespraech Mandatsannahme, Fachanwalt Agrarrecht Duenge Ordnungswidrigkeit
+# Agrar Tierhaltung Tieg, Erstgespraech Mandatsannahme, Fachanwalt Agrarrecht Duenge Ordnungswidrigkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Agrar Tierhaltung Tieg, Erstgespraech Mandatsannahme, Fachanwalt Agrarrecht Duenge Ordnungswidrigkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Agrar Tierhaltung Spezial Tieg, Erstgespraech Mandatsannahme, Fachanwalt Agrarrecht Duenge Ordnungswidrigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Agrar Tierhaltung Tieg, Erstgespraech Mandatsannahme, Fachanwalt Agrarrecht Duenge Ordnungswidrigkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-agrarrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Agrar Tierhaltung Spezial Tieg, Erstgespraech Mandatsannahme, Fachanwalt 
 # Agrar: Tierhaltung-Genehmigung
 
 ## Spezialwissen: Agrar: Tierhaltung-Genehmigung
-- **Spezialgegenstand:** Agrar: Tierhaltung-Genehmigung / agrar tierhaltung spezial tieg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Agrar: Tierhaltung-Genehmigung / agrar tierhaltung tieg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** TierSchG, TierSchNutztV, BImSchG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -318,17 +318,17 @@ Der Bescheid wirft unserer Mandantschaft vor am [Datum] auf der Flaeche
 
 2. Verteidigung:
 a) Objektiv: Die ausgebrachte Stickstoffmenge betraegt nach
-   Aufzeichnungen [Wert] kg N/ha und damit unter der Obergrenze von
-   170 kg N/ha § 6 Abs. 4 DueV. Die Berechnung der Behoerde beruht auf
-   einer fehlerhaften Annahme zur Tierzahl (Anlage K1 HIT-Datenbank).
+ Aufzeichnungen [Wert] kg N/ha und damit unter der Obergrenze von
+ 170 kg N/ha § 6 Abs. 4 DueV. Die Berechnung der Behoerde beruht auf
+ einer fehlerhaften Annahme zur Tierzahl (Anlage K1 HIT-Datenbank).
 b) Sperrfrist § 6 Abs. 8 DueV: Die Ausbringung erfolgte am [Datum] —
-   noch vor Beginn der Sperrfrist (Anlage K2 Wetter- und Bodendaten).
+ noch vor Beginn der Sperrfrist (Anlage K2 Wetter- und Bodendaten).
 c) Subjektive Seite: Auch bei Annahme eines objektiven Verstosses fehlt
-   es an Vorsatz oder Fahrlaessigkeit § 10 OWiG. Unsere Mandantschaft
-   stuetzte sich auf die schriftliche Beratung des Pflanzenbauberaters
-   vom [Datum] (Anlage K3).
+ es an Vorsatz oder Fahrlaessigkeit § 10 OWiG. Unsere Mandantschaft
+ stuetzte sich auf die schriftliche Beratung des Pflanzenbauberaters
+ vom [Datum] (Anlage K3).
 d) Hoehere Gewalt: Aussergewoehnliche Witterung am [Zeitraum] machte
-   ein vorgezogenes Ausbringen unaufschiebbar (Anlage K4 DWD-Daten).
+ ein vorgezogenes Ausbringen unaufschiebbar (Anlage K4 DWD-Daten).
 
 3. Anregung:
 Hilfsweise — sollte die Behoerde an einem Verstoss festhalten — bitten

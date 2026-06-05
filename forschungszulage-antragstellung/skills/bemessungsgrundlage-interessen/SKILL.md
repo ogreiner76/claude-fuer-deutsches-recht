@@ -1,12 +1,12 @@
 ---
 name: bemessungsgrundlage-interessen
-description: "Nutze dies, wenn Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix im Plugin Forschungszulage Antragstellung konkret bearbeitet werden soll. Auslöser: Bitte Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix / spezial bemessungsgrundlage mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix / bemessungsgrundlage mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FZulG, BSFZ.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

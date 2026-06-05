@@ -31,10 +31,10 @@ Pruefen: wo bleibt die Letztverantwortung beim Menschen (Art. 22 DSGVO)? Sind al
 ## Output
 
 ```
-Skill:              legw-rmap-vollzugstauglichkeit
-Thema:              Vollzugstauglichkeit der Rulemap im Verwaltungsverfahren
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-vollzugstauglichkeit
+Thema: Vollzugstauglichkeit der Rulemap im Verwaltungsverfahren
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

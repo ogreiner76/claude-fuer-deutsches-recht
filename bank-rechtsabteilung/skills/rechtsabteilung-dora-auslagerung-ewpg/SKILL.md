@@ -1,23 +1,23 @@
 ---
 name: rechtsabteilung-dora-auslagerung-ewpg
-description: "Nutze dies, wenn Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu im Plugin Bank Rechtsabteilung konkret bearbeitet werden soll. Auslöser: Bitte Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu prüfen.; Erstelle eine Arbeitsfassung zu Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rech..."
+description: "Nutze dies bei Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsabteilung Ewpg Tokenisierung Und Registerrisiko, Rechtsabteilung Npl Verkauf Mit Datenschutz Und Bankgeheimnis, Rechtsabteilung Psd2 Strong Customer Authentication Fall, Rechtsabteilung Schufa Score Und Automatisierte Kreditentscheidu** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `rechtsabteilung-dora-auslagerung-bei-kritischem-ict-dienstleiste` | Rechtsabteilungs-Spezialskill für DORA-Auslagerung bei kritischem ICT-Dienstleister: ICT-Verträge, Exit-Pläne, Register of Information und Vorstandsvorlagen werden in einem Stresscheck zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-ewpg-tokenisierung-und-registerrisiko` | Rechtsabteilungs-Spezialskill für eWpG-Tokenisierung und Registerrisiko: Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis` | Rechtsabteilungs-Spezialskill für NPL-Verkauf mit Datenschutz und Bankgeheimnis: Notleidende Forderungen werden für Abtretung, Datenraum, Schuldnerinformation und Servicing rechtssicher vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-psd2-strong-customer-authentication-fall` | Rechtsabteilungs-Spezialskill für PSD2-Strong-Customer-Authentication-Fall: Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
-| `rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu` | Rechtsabteilungs-Spezialskill für Schufa-Score und automatisierte Kreditentscheidung: Kreditprozesse werden darauf geprüft, ob der Score nur Hilfsinformation oder faktisch entscheidend ist. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-dora-auslagerung-bei-kritischem-ict-dienstleiste` | Rechtsabteilungs-Fachmodul für DORA-Auslagerung bei kritischem ICT-Dienstleister: ICT-Verträge, Exit-Pläne, Register of Information und Vorstandsvorlagen werden in einem Stresscheck zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-ewpg-tokenisierung-und-registerrisiko` | Rechtsabteilungs-Fachmodul für eWpG-Tokenisierung und Registerrisiko: Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis` | Rechtsabteilungs-Fachmodul für NPL-Verkauf mit Datenschutz und Bankgeheimnis: Notleidende Forderungen werden für Abtretung, Datenraum, Schuldnerinformation und Servicing rechtssicher vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-psd2-strong-customer-authentication-fall` | Rechtsabteilungs-Fachmodul für PSD2-Strong-Customer-Authentication-Fall: Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
+| `rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu` | Rechtsabteilungs-Fachmodul für Schufa-Score und automatisierte Kreditentscheidung: Kreditprozesse werden darauf geprüft, ob der Score nur Hilfsinformation oder faktisch entscheidend ist. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Rechtsabteilung Dora Auslagerung Bei Kritischem Ict Dienstleiste, Rechtsa
 
 ## 1. `rechtsabteilung-dora-auslagerung-bei-kritischem-ict-dienstleiste`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für DORA-Auslagerung bei kritischem ICT-Dienstleister: ICT-Verträge, Exit-Pläne, Register of Information und Vorstandsvorlagen werden in einem Stresscheck zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für DORA-Auslagerung bei kritischem ICT-Dienstleister: ICT-Verträge, Exit-Pläne, Register of Information und Vorstandsvorlagen werden in einem Stresscheck zusammengeführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister
 
@@ -75,7 +75,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-ewpg-tokenisierung-und-registerrisiko`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für eWpG-Tokenisierung und Registerrisiko: Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für eWpG-Tokenisierung und Registerrisiko: Tokenisierte Wertpapiere werden auf Registerführung, Verwahrung, Vertrieb und Prospekt-/MiCAR-Schnittstelle geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: eWpG-Tokenisierung und Registerrisiko
 
@@ -122,7 +122,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-npl-verkauf-mit-datenschutz-und-bankgeheimnis`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für NPL-Verkauf mit Datenschutz und Bankgeheimnis: Notleidende Forderungen werden für Abtretung, Datenraum, Schuldnerinformation und Servicing rechtssicher vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für NPL-Verkauf mit Datenschutz und Bankgeheimnis: Notleidende Forderungen werden für Abtretung, Datenraum, Schuldnerinformation und Servicing rechtssicher vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: NPL-Verkauf mit Datenschutz und Bankgeheimnis
 
@@ -169,7 +169,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-psd2-strong-customer-authentication-fall`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für PSD2-Strong-Customer-Authentication-Fall: Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für PSD2-Strong-Customer-Authentication-Fall: Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: PSD2-Strong-Customer-Authentication-Fall
 
@@ -216,7 +216,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 5. `rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu`
 
-**Fokus:** Rechtsabteilungs-Spezialskill für Schufa-Score und automatisierte Kreditentscheidung: Kreditprozesse werden darauf geprüft, ob der Score nur Hilfsinformation oder faktisch entscheidend ist. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Fachmodul für Schufa-Score und automatisierte Kreditentscheidung: Kreditprozesse werden darauf geprüft, ob der Score nur Hilfsinformation oder faktisch entscheidend ist. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung
 

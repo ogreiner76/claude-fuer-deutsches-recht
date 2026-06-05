@@ -1,22 +1,22 @@
 ---
 name: verbraucherfreundliche-fassung-02
-description: "Nutze dies, wenn Verbraucherfreundliche Fassung, Verbraucherschutz Schnellcheck, Vereinsbedingungen, Verfuegbarkeit Wartungsfenster, Verhandlungs Playbook Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Verbraucherfreundliche Fassung, Verbraucherschutz Schnellcheck, Vereinsbedingungen, Verfuegbarkeit Wartungsfenster, Verhandlungs Playbook Agb prüfen.; Erstelle eine Arbeitsfassung zu Verbraucherfreundliche Fassung, Verbraucherschutz Schnellcheck, Vereinsbedingungen, Verfuegbarkeit Wartungsfenster, Verhandlungs Playbook Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verbraucherfreundliche Fassung, Verbraucherschutz Schnellcheck, Vereinsbedingungen, Verfuegbarkeit Wartungsfenster: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verbraucherfreundliche Fassung, Verbraucherschutz Schnellcheck, Vereinsbedingungen, Verfuegbarkeit Wartungsfenster, Verhandlungs Playbook Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verbraucherfreundliche Fassung, Verbraucherschutz Schnellcheck, Vereinsbedingungen, Verfuegbarkeit Wartungsfenster, Verhandlungs Playbook Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `verbraucherfreundliche-fassung` | Output- und Streit-Skill für Verbraucherfreundliche Fassung: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `verbraucherschutz-schnellcheck` | Einstiegs- und Workflow-Skill für Verbraucherschutz Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
-| `vereinsbedingungen` | Branchen-Spezialskill für Vereinsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `verfuegbarkeit-wartungsfenster` | Klausel-Spezialskill für Verfügbarkeit Wartungsfenster: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `verbraucherschutz-schnellcheck` | Einstiegs- und Arbeitsmodul für Verbraucherschutz Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `vereinsbedingungen` | Branchen-Fachmodul für Vereinsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `verfuegbarkeit-wartungsfenster` | Klausel-Fachmodul für Verfügbarkeit Wartungsfenster: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `verhandlungs-playbook-agb` | Output- und Streit-Skill für Verhandlungs Playbook AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsweg
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `verbraucherschutz-schnellcheck`
 
-**Fokus:** Einstiegs- und Workflow-Skill für Verbraucherschutz Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für Verbraucherschutz Schnellcheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Verbraucherschutz Schnellcheck
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `vereinsbedingungen`
 
-**Fokus:** Branchen-Spezialskill für Vereinsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Vereinsbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Vereinsbedingungen
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `verfuegbarkeit-wartungsfenster`
 
-**Fokus:** Klausel-Spezialskill für Verfügbarkeit Wartungsfenster: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Verfügbarkeit Wartungsfenster: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Verfügbarkeit Wartungsfenster
 

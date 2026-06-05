@@ -1,13 +1,13 @@
 ---
 name: kommunale-klinik-krankenhaus-mvz
-description: "Nutze dies, wenn Kommunale Klinik Beihilfe Und Eu Beihilfen, Krankenhaus Mvz Gruendung Zulassung Compliance, Krankenhausapotheke Arzneimittelversorgung im Plugin Krankenhausrecht konkret bearbeitet werden soll. Auslöser: Bitte Kommunale Klinik Beihilfe Und Eu Beihilfen, Krankenhaus Mvz Gruendung Zulassung Compliance, Krankenhausapotheke Arzneimittelversorgung prüfen.; Erstelle eine Arbeitsfassung zu Kommunale Klinik Beihilfe Und Eu Beihilfen, Krankenhaus Mvz Gruendung Zulassung Compliance, Krankenhausapotheke Arzneimittelversorgung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kommunale Klinik Beihilfe Und Eu Beihilfen, Krankenhaus Mvz Gruendung Zulassung Compliance, Krankenhausapotheke Arzneimittelversorgung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kommunale Klinik Beihilfe Und Eu Beihilfen, Krankenhaus Mvz Gruendung Zulassung Compliance, Krankenhausapotheke Arzneimittelversorgung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kommunale Klinik Beihilfe Und Eu Beihilfen, Krankenhaus Mvz Gruendung Zulassung Compliance, Krankenhausapotheke Arzneimittelversorgung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -147,7 +147,7 @@ Die Krankenhausversorgung mit Arzneimitteln laeuft entweder ueber eine eigene **
 - **BfArM-Lieferengpassmanagement** (Arzneimittel-Versorgungs-Verbesserungsgesetz).
 - **Cannabis-Gesetz, BtMG** fuer Betaeubungsmittel.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 1. **Versorgungsmodell pruefen:** Eigene Apotheke, Verbund-Apotheke, Versorgungsvertrag § 14 ApoG.
 2. **Compliance Apotheke:** Apothekenleiter, ApBetrO, Pruefungen Land.
 3. **NUB-Antrag pruefen:** Wenn Arzneimittel/Methode neu — Antrag an InEK, § 6 Abs. 2 KHEntgG.

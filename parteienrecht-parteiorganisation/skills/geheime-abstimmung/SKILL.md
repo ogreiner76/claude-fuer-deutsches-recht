@@ -8,7 +8,7 @@ description: "Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne,
 ## Aufgabe
 Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

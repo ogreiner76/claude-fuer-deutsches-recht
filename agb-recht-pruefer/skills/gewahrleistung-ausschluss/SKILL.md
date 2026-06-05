@@ -1,6 +1,6 @@
 ---
 name: gewahrleistung-ausschluss
-description: "Klausel-Spezialskill für Gewährleistung Ausschluss: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Gewährleistung Ausschluss: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Gewährleistung Ausschluss

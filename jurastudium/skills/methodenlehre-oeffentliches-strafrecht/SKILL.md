@@ -1,13 +1,13 @@
 ---
 name: methodenlehre-oeffentliches-strafrecht
-description: "Nutze dies, wenn Methodenlehre Oeffentliches Recht, Methodenlehre Strafrecht, Methodenlehre Zivilrecht im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Methodenlehre Oeffentliches Recht, Methodenlehre Strafrecht, Methodenlehre Zivilrecht prüfen.; Erstelle eine Arbeitsfassung zu Methodenlehre Oeffentliches Recht, Methodenlehre Strafrecht, Methodenlehre Zivilrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Methodenlehre Oeffentliches Recht, Methodenlehre Strafrecht, Methodenlehre Zivilrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Methodenlehre Oeffentliches Recht, Methodenlehre Strafrecht, Methodenlehre Zivilrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Methodenlehre Oeffentliches Recht, Methodenlehre Strafrecht, Methodenlehre Zivilrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -332,22 +332,22 @@ Im Zivilrecht ist die Methodik standardisierter als anderswo: Das Gutachten folg
 Eine zivilrechtliche Klausur ohne saubere AGL-Reihenfolge ist verloren. Die kanonische Reihenfolge:
 
 1. **Vertragliche Ansprüche** (Primär-, Sekundär-, Begleitansprüche)
-   - § 433 BGB, § 535 BGB, § 631 BGB, § 611 BGB usw.
-   - Leistungsstörungen: §§ 280 I, 280 I, II, 286, 280 I, III, 281, 280 I, III, 283, 284, 311a II.
-   - Rücktritt §§ 323, 326 V; Minderung § 441; Nacherfüllung § 439.
+ - § 433 BGB, § 535 BGB, § 631 BGB, § 611 BGB usw.
+ - Leistungsstörungen: §§ 280 I, 280 I, II, 286, 280 I, III, 281, 280 I, III, 283, 284, 311a II.
+ - Rücktritt §§ 323, 326 V; Minderung § 441; Nacherfüllung § 439.
 
 2. **Vertragsähnliche Ansprüche**
-   - c. i. c. (§§ 280 I, 311 II, 241 II), Vertrag mit Schutzwirkung Dritter, GoA (§§ 677 ff.), Eigentümer-Besitzer-Verhältnis (§§ 985, 987 ff., 994 ff.).
+ - c. i. c. (§§ 280 I, 311 II, 241 II), Vertrag mit Schutzwirkung Dritter, GoA (§§ 677 ff.), Eigentümer-Besitzer-Verhältnis (§§ 985, 987 ff., 994 ff.).
 
 3. **Dingliche Ansprüche**
-   - Herausgabe § 985 BGB, Beseitigung/Unterlassung § 1004, § 894 (Grundbuchberichtigung).
+ - Herausgabe § 985 BGB, Beseitigung/Unterlassung § 1004, § 894 (Grundbuchberichtigung).
 
 4. **Deliktische Ansprüche**
-   - § 823 I, § 823 II, § 826, §§ 824, 825, 831, 832, 833, 836, 839 BGB.
-   - Quasideliktische Ansprüche: §§ 7 ff. StVG, ProdHaftG, UmweltHG.
+ - § 823 I, § 823 II, § 826, §§ 824, 825, 831, 832, 833, 836, 839 BGB.
+ - Quasideliktische Ansprüche: §§ 7 ff. StVG, ProdHaftG, UmweltHG.
 
 5. **Bereicherungsrechtliche Ansprüche**
-   - § 812 I 1 Fall 1 (Leistungskondiktion), § 812 I 1 Fall 2 (Nichtleistungskondiktion), § 813, § 816, § 822.
+ - § 812 I 1 Fall 1 (Leistungskondiktion), § 812 I 1 Fall 2 (Nichtleistungskondiktion), § 813, § 816, § 822.
 
 **Faustregel**: Vertrag vor Delikt, Delikt vor Bereicherung. Aber: Die **Subsidiarität** ist anspruchsspezifisch (nicht jeder Anspruch ist gegen den anderen subsidiär).
 

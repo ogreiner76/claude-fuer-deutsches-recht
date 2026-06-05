@@ -8,7 +8,7 @@ description: "Findet das richtige Landeswahl-, Kommunalwahl- und Abgeordnetenrec
 ## Aufgabe
 Findet das richtige Landeswahl-, Kommunalwahl- und Abgeordnetenrecht je Bundesland und markiert Live-Checks.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

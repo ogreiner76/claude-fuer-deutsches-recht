@@ -1,13 +1,13 @@
 ---
 name: zuschlagskriterien-wertungsschema
-description: "Nutze dies, wenn Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Fachanwalt Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelv
 ## Aufgabe
 Erstelle oder pruefe ein vergaberechtsfestes Wertungsschema oder bereite eine Wertungsruege vor. Output je nach Rolle: Wertungsmatrix mit Begruendungstext fuer Auftraggeber, Pruefvermerk und Ruegeschriftsatz-Modul fuer Bieter.
 
-## Kaltstart
+## Einstieg
 1. Auftraggeber oder Bieter?
 2. Lieferung, Dienstleistung, Bau, Konzession?
 3. Schwellenwert ueberschritten? (Oberschwelle = GWB/VgV/SektVO/KonzVgV; Unterschwelle = UVgO/VOB-A Abschn. 1)

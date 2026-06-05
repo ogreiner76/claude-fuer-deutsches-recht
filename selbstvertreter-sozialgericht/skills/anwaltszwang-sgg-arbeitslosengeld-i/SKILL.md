@@ -1,13 +1,13 @@
 ---
 name: anwaltszwang-sgg-arbeitslosengeld-i
-description: "Nutze dies, wenn Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I prüfen.; Erstelle eine Arbeitsfassung zu Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anwaltszwang Prüfen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden, Aufrechnung Laufende Leistungen 51 Sgb I** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -219,7 +219,7 @@ Bei Eigenkuendigung "wichtiger Grund":
 ### Schritt 4 — Widerspruch
 
 ```
-Agentur fuer Arbeit [Ort]                          [Ort, Datum]
+Agentur fuer Arbeit [Ort] [Ort, Datum]
 
 Az: [...]
 
@@ -232,9 +232,9 @@ gegen den o.g. Bescheid mit Sperrzeit von 12 Wochen lege ich Widerspruch ein.
 Begruendung:
 
 1. Wichtiger Grund fuer Eigenkuendigung lag vor:
-   - Mobbing durch Vorgesetzten (siehe Aufzeichnungen Anlage 1)
-   - Aerztliches Attest zur psychischen Belastung (Anlage 2)
-   - Beschwerde beim Betriebsrat (Anlage 3)
+ - Mobbing durch Vorgesetzten (siehe Aufzeichnungen Anlage 1)
+ - Aerztliches Attest zur psychischen Belastung (Anlage 2)
+ - Beschwerde beim Betriebsrat (Anlage 3)
 
 2. Hilfsweise: Sperrzeit ist unverhaeltnismaessig hoch.
 

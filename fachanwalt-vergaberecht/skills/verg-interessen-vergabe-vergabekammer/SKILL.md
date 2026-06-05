@@ -1,13 +1,13 @@
 ---
 name: verg-interessen-vergabe-vergabekammer
-description: "Nutze dies, wenn Spezial Verg Mehrparteien Konflikt Und Interessen, Spezial Vergabe Behörden Gericht Und Registerweg, Spezial Vergabekammer Verhandlung Vergleich Und Eskalation, Spezial Vergaberecht Tatbestand Beweis Und Belege im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verg Mehrparteien Konflikt Und Interessen, Spezial Vergabe Behörden Gericht Und Registerweg, Spezial Vergabekammer Verhandlung Vergleich Und Eskalation, Spezial Vergaberecht Tatbestand Beweis Und Belege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verg Mehrparteien Konflikt Und Interessen, Spezial Vergabe Behörden Gericht Und Registerweg, Spezial Vergabekammer Verhandlung Vergleich Und Eskalation, Spezial Vergaberecht Tatbestand Beweis Und Belege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verg Mehrparteien Konflikt Und Interessen, Vergabe Behörden Gericht Und Registerweg, Vergabekammer Verhandlung Vergleich Und Eskalation, Vergaberecht Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verg Mehrparteien Konflikt Und Interessen, Spezial Vergabe Behörden Gericht Und Registerweg, Spezial Vergabekammer Verhandlung Vergleich Und Eskalation, Spezial Vergaberecht Tatbestand Beweis Und Belege
+# Verg Mehrparteien Konflikt Und Interessen, Vergabe Behörden Gericht Und Registerweg, Vergabekammer Verhandlung Vergleich Und Eskalation, Vergaberecht Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verg Mehrparteien Konflikt Und Interessen, Vergabe Behörden Gericht Und Registerweg, Vergabekammer Verhandlung Vergleich Und Eskalation, Vergaberecht Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verg Mehrparteien Konflikt Und Interessen, Spezial Vergabe Behörden Gericht Und Registerweg, Spezial Vergabekammer Verhandlung Vergleich Und Eskalation, Spezial Vergaberecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-vergaberecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verg Mehrparteien Konflikt Und Interessen, Vergabe Behörden Gericht Und Registerweg, Vergabekammer Verhandlung Vergleich Und Eskalation, Vergaberecht Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-vergaberecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Spezial Verg Mehrparteien Konflikt Und Interessen, Spezial Vergabe Behör
 # Verg: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Verg: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Verg: Mehrparteienkonflikt und Interessenmatrix / spezial verg mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verg: Mehrparteienkonflikt und Interessenmatrix / verg mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -84,7 +84,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vergabe: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Vergabe: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Vergabe: Behörden-, Gerichts- oder Registerweg / spezial vergabe behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vergabe: Behörden-, Gerichts- oder Registerweg / vergabe behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -136,7 +136,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vergabekammer: Verhandlung, Vergleich und Eskalation
 
 ## Spezialwissen: Vergabekammer: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Vergabekammer: Verhandlung, Vergleich und Eskalation / spezial vergabekammer verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vergabekammer: Verhandlung, Vergleich und Eskalation / vergabekammer verhandlung vergleich und eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -188,7 +188,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial vergaberecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage / vergaberecht tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

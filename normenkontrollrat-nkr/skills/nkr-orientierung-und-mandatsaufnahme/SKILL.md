@@ -1,6 +1,6 @@
 ---
 name: nkr-orientierung-und-mandatsaufnahme
-description: "Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Spezial-Skills im Plugin."
+description: "Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Fachmodulen."
 ---
 
 # NKR-Orientierung und Mandatsaufnahme
@@ -33,16 +33,16 @@ Sind die drei Angaben vorhanden, sofort die Pruefskizze (siehe Ausgabeformat).
 1. **Eingang triagieren**: Welcher Vorhabenstyp? Was ist die NKR-Befassungspflicht (§ 4 NKRG)?
 2. **Federfuehrendes Ressort identifizieren**: BMJ / BMI / BMF / BMWK etc.
 3. **Pruefumfang bestimmen** (Skill `nkr-pruefumfang-was-prueft-der-nkr-nicht`):
-   - Pruefen: Methodik und Vollstaendigkeit der Erfuellungsaufwand-Darstellung, Nachvollziehbarkeit, Praktikabilitaet, Digitaltauglichkeit
-   - **Nicht** pruefen: politische Zweckmaessigkeit oder Zielwahl
+ - Pruefen: Methodik und Vollstaendigkeit der Erfuellungsaufwand-Darstellung, Nachvollziehbarkeit, Praktikabilitaet, Digitaltauglichkeit
+ - **Nicht** pruefen: politische Zweckmaessigkeit oder Zielwahl
 4. **Phase im Verfahrensgang** (Skill `nkr-verfahrensgang-referentenentwurf-bis-bundestag`):
-   - Referentenentwurf vor Ressortabstimmung / vor Kabinett / Formulierungshilfe / parlamentarische Aenderung
+ - Referentenentwurf vor Ressortabstimmung / vor Kabinett / Formulierungshilfe / parlamentarische Aenderung
 5. **Frist klaeren**: Standardfrist nach NKRG / GGO; bei Eilbeduerftigkeit gekuerzte Frist
 6. **Cluster waehlen**:
-   - Erfuellungsaufwand-Berechnung -> Cluster B
-   - Pruefraster anwenden -> Cluster C
-   - Stellungnahme entwerfen -> Cluster D
-   - Spezialthema (Digital, EU, KMU) -> Cluster E
+ - Erfuellungsaufwand-Berechnung -> Cluster B
+ - Pruefraster anwenden -> Cluster C
+ - Stellungnahme entwerfen -> Cluster D
+ - Spezialthema (Digital, EU, KMU) -> Cluster E
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 

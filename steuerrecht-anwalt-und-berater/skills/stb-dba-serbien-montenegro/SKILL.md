@@ -94,8 +94,8 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbes
 ## Praktiker-Tipps der alten Hasen
 
 - **Erstattungsverfahren RS/ME → DE-Mandant**:
-  - Serbien: Antrag bei Poreska uprava Republike Srbije; Online-Portal "ePorezi" (vom Anwender mit aktuellem Stand zu verifizieren). Ansaessigkeitsbescheinigung der Poreska uprava als Anlage.
-  - Montenegro: Antrag bei der Steuerverwaltung Montenegro (Uprava prihoda i carina, UPC). Online-Portal (vom Anwender mit aktuellem Stand zu verifizieren).
+ - Serbien: Antrag bei Poreska uprava Republike Srbije; Online-Portal "ePorezi" (vom Anwender mit aktuellem Stand zu verifizieren). Ansaessigkeitsbescheinigung der Poreska uprava als Anlage.
+ - Montenegro: Antrag bei der Steuerverwaltung Montenegro (Uprava prihoda i carina, UPC). Online-Portal (vom Anwender mit aktuellem Stand zu verifizieren).
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Serbokroatisch (DBA-Jugoslawien 1987); heutige Textfassungen werden auf Serbisch (kyrillisch) bzw. Montenegrinisch (lateinisch) angewendet. Konsolidierter Text im BMF-Verzeichnis.
 - **Lokaler Berater**: Bei serbischen oder montenegrinischen Gesellschaften, Diaspora-Mandanten und Erbfaellen ist Hinzuziehung eines lokalen Beraters wegen unterschiedlicher Rechtskulturen und Sprachenunterschiede empfehlenswert.
 - **Apostille**: ZWINGEND bei Urkunden zur Verwendung in Drittstaaten Serbien und Montenegro (beide nicht EU). Haager Uebereinkommen 1961 gilt; deutsche Behoerden geben Apostille fuer Inlandsdokumente aus. Konsularische Beglaubigung kann ergaenzend erforderlich sein bei spezifischen Notarurkunden.
@@ -143,11 +143,11 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht Rente/Beteiligung, Wohnsitzstaat-Pruefung, EU-Beitrittsperspektive.
 3. **Kurzantwort**: DBA-Jugoslawien 1987 (fortgeltend) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode in DE.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-Jugoslawien 1987; Nachfolge-Bekanntmachungen).
-   - Mittelpunkt Lebensinteressen bei Diaspora pruefen.
-   - Einkunftsart (DRV-Rente Art. 18, Beteiligung Art. 11 DBA-Jugoslawien 1987).
-   - Methodenartikel (Anrechnung ueberwiegend).
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 49 EStG bei beschraenkter Steuerpflicht).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-Jugoslawien 1987; Nachfolge-Bekanntmachungen).
+ - Mittelpunkt Lebensinteressen bei Diaspora pruefen.
+ - Einkunftsart (DRV-Rente Art. 18, Beteiligung Art. 11 DBA-Jugoslawien 1987).
+ - Methodenartikel (Anrechnung ueberwiegend).
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 49 EStG bei beschraenkter Steuerpflicht).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: aelteres DBA mit roemischen Artikelnummern, kein MLI, EU-Beitrittsperspektive, Apostille bei Urkunden.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

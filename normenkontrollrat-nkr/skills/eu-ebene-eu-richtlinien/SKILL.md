@@ -1,13 +1,13 @@
 ---
 name: eu-ebene-eu-richtlinien
-description: "Nutze dies, wenn Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating prüfen.; Erstelle eine Arbeitsfassung zu Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -56,25 +56,25 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 ## Pruefraster / Schritt fuer Schritt
 
 1. **Rechtsaktstyp identifizieren**:
-   - Richtlinie (Umsetzung) -> nationaler Gestaltungsspielraum, Goldplating-Gefahr
-   - Verordnung (Durchfuehrung) -> nur Begleitvorschriften
-   - Beschluss / Empfehlung -> wenig nationale Rechtssetzung
+ - Richtlinie (Umsetzung) -> nationaler Gestaltungsspielraum, Goldplating-Gefahr
+ - Verordnung (Durchfuehrung) -> nur Begleitvorschriften
+ - Beschluss / Empfehlung -> wenig nationale Rechtssetzung
 2. **EU-Vorgaben kartieren**:
-   - Welche Pflichten sind zwingend?
-   - Welche Optionen / Mindestharmonisierung?
-   - Welche Aufnahme von "national gestaltbaren Spielraeumen"?
+ - Welche Pflichten sind zwingend?
+ - Welche Optionen / Mindestharmonisierung?
+ - Welche Aufnahme von "national gestaltbaren Spielraeumen"?
 3. **Umsetzungsspielraum nutzen**:
-   - 1:1-Umsetzung bevorzugt
-   - Goldplating nur mit Begruendung
+ - 1:1-Umsetzung bevorzugt
+ - Goldplating nur mit Begruendung
 4. **Erfuellungsaufwand der Umsetzung**:
-   - Erfuellungsaufwand aus der EU-Vorgabe (Mindestaufwand)
-   - **Zusatzaufwand** aus deutscher Ueberregulierung (Delta-Berechnung)
+ - Erfuellungsaufwand aus der EU-Vorgabe (Mindestaufwand)
+ - **Zusatzaufwand** aus deutscher Ueberregulierung (Delta-Berechnung)
 5. **EU-Folgenabschaetzung einbeziehen**:
-   - Impact Assessment der EU-Kommission lesen
-   - RSB-Opinion lesen
-   - Daten als Ausgangspunkt verwenden, dann auf deutsche Verhaeltnisse adaptieren
+ - Impact Assessment der EU-Kommission lesen
+ - RSB-Opinion lesen
+ - Daten als Ausgangspunkt verwenden, dann auf deutsche Verhaeltnisse adaptieren
 6. **REFIT-Programme nutzen**:
-   - Wenn EU bereits Vereinfachung andenkt, nicht national verschaerfen
+ - Wenn EU bereits Vereinfachung andenkt, nicht national verschaerfen
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 

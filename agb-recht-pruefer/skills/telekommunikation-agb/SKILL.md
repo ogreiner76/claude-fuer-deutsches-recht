@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-agb
-description: "Branchen-Spezialskill für Telekommunikation AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Telekommunikation AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Telekommunikation AGB

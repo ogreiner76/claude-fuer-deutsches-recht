@@ -1,13 +1,13 @@
 ---
 name: ins-stimmrechtsmitteilung-ins-social
-description: "Nutze dies, wenn Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak prüfen.; Erstelle eine Arbeitsfassung zu Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 040 Stimmrechtsmitteilung, Ins 042 Social Media Leak** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -61,14 +61,14 @@ sicher, dass Paketerwerbe und Meldungen rechtskonform ablaufen.
 
 - Hat der Käufer beim Erwerb des Aktienpakets Insiderinformationen genutzt?
 - Insiderinformationen können sein: nicht-öffentliche Prognoseabweichungen, M&A-Pläne,
-  regulatory actions – Informationen aus einer Due Diligence über den Emittenten
+ regulatory actions – Informationen aus einer Due Diligence über den Emittenten
 - Safe Harbour: Unternehmensinterne Entscheidung, strategische Beteiligung aufzubauen,
-  stellt allein noch keine Insiderinformation über den Emittenten dar
+ stellt allein noch keine Insiderinformation über den Emittenten dar
 
 ### Schritt 3 – Stimmrechtsmitteilung als Insiderinformation
 
 - Das Überschreiten einer Meldeschwelle durch einen Großaktionär kann für den Emittenten
-  eine Insiderinformation sein (z. B. überraschende 10 %-Beteiligung eines Aktivisten)
+ eine Insiderinformation sein (z. B. überraschende 10 %-Beteiligung eines Aktivisten)
 - Emittent hat keine eigenständige Meldepflicht, aber ggf. Ad-hoc-Pflicht nach Art. 17 MAR
 - Timing: Ad-hoc-Pflicht entsteht, wenn Emittent von der Beteiligung offiziell informiert wird
 
@@ -90,7 +90,7 @@ sicher, dass Paketerwerbe und Meldungen rechtskonform ablaufen.
 - Hat der Käufer beim Paketkauf Insiderinformationen genutzt?
 - Wurde die Stimmrechtsmitteilung fristgerecht und im korrekten Format eingereicht?
 - Hat der Emittent die Beteiligung als Insiderinformation qualifiziert und ggf. eine
-  Ad-hoc-Mitteilung veröffentlicht?
+ Ad-hoc-Mitteilung veröffentlicht?
 - Gibt es Hinweise auf Acting-in-Concert mit anderen Aktionären?
 
 ## Ausgabeformat
@@ -135,12 +135,12 @@ die Compliance-Reaktion einschließlich Ad-hoc-Entscheidung und forensischer Sic
 - Ist die Information präzise und kursrelevant (Art. 7 MAR)?
 - Stammt die Information von einer Person mit Insiderkenntnissen oder ist es Spekulation?
 - Verbreitung: Wie viele Follower/Views hat der Post? Wurde er von Qualitätsjournalisten
-  aufgegriffen?
+ aufgegriffen?
 
 ### Schritt 2 – Nichtöffentlichkeits-Bewertung
 
 - Nichtöffentlichkeit ist aufgehoben, wenn die Information einer breiten Öffentlichkeit
-  zugänglich ist und von ihr zur Kenntnis genommen werden kann
+ zugänglich ist und von ihr zur Kenntnis genommen werden kann
 - Ein einzelner Tweet ohne Verbreitung genügt nicht
 - Aber: Wenn Mainstream-Medien berichten (Reuters, Bloomberg, FAZ): Öffentlichkeit hergestellt
 - Grenzfall: Nischenforum, kleiner Telegram-Kanal → Compliance-Entscheidung mit Zeitstempel

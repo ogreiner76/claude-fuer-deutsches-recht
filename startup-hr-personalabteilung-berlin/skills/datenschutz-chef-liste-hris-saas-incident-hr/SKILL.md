@@ -1,23 +1,23 @@
 ---
 name: datenschutz-chef-liste-hris-saas-incident-hr
-description: "Nutze dies, wenn Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas Tools, Datenschutz Incident Hr Datenpanne, Datenschutz Ki In Hr Recruiting, Datenschutz Monitoring Produktivitaet im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas Tools, Datenschutz Incident Hr Datenpanne, Datenschutz Ki In Hr Recruiting, Datenschutz Monitoring Produktivitaet prüfen.; Erstelle eine Arbeitsfassung zu Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas Tools, Datenschutz Incident Hr Datenpanne, Datenschutz Ki In Hr Recruiting, Datenschutz Monitoring Produktivitaet.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas Tools, Datenschutz Incident Hr Datenpanne, Datenschutz Ki In Hr Recruiting: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas Tools, Datenschutz Incident Hr Datenpanne, Datenschutz Ki In Hr Recruiting, Datenschutz Monitoring Produktivitaet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas Tools, Datenschutz Incident Hr Datenpanne, Datenschutz Ki In Hr Recruiting, Datenschutz Monitoring Produktivitaet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `datenschutz-chef-liste-gehaelter-fehlzeiten` | Berliner Start-up-HR: Chef-Liste zu Gehältern, Fehlzeiten und sensiblen Merkmalen: Need-to-know, Aggregation, Schwärzung und Zweckbindung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `datenschutz-hris-und-saas-tools` | Berliner Start-up-HR: HRIS/SaaS-Tools prüfen: AVV, TOMs, Drittlandtransfer, Rollenrechte, Löschung und Betriebsrat. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `datenschutz-incident-hr-datenpanne` | Berliner Start-up-HR: HR-Datenpanne: Eindämmung, Risikoanalyse, Meldung Art. 33/34 DSGVO, Betroffeneninfo und Lessons Learned. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `datenschutz-ki-in-hr-recruiting` | Berliner Start-up-HR: KI in Recruiting und HR: Transparenz, Bias, DSGVO, KI-VO-Routing, menschliche Entscheidung und Vendor-Check. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `datenschutz-monitoring-produktivitaet` | Berliner Start-up-HR: Produktivitätsmonitoring, Screenshots, Aktivitätsdaten und Tool-Analytics: rote Linien, Mitbestimmung und Transparenz. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `datenschutz-chef-liste-gehaelter-fehlzeiten` | Berliner Start-up-HR: Chef-Liste zu Gehältern, Fehlzeiten und sensiblen Merkmalen: Need-to-know, Aggregation, Schwärzung und Zweckbindung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `datenschutz-hris-und-saas-tools` | Berliner Start-up-HR: HRIS/SaaS-Tools prüfen: AVV, TOMs, Drittlandtransfer, Rollenrechte, Löschung und Betriebsrat. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `datenschutz-incident-hr-datenpanne` | Berliner Start-up-HR: HR-Datenpanne: Eindämmung, Risikoanalyse, Meldung Art. 33/34 DSGVO, Betroffeneninfo und Lessons Learned. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `datenschutz-ki-in-hr-recruiting` | Berliner Start-up-HR: KI in Recruiting und HR: Transparenz, Bias, DSGVO, KI-VO-Routing, menschliche Entscheidung und Vendor-Check. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `datenschutz-monitoring-produktivitaet` | Berliner Start-up-HR: Produktivitätsmonitoring, Screenshots, Aktivitätsdaten und Tool-Analytics: rote Linien, Mitbestimmung und Transparenz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Datenschutz Chef Liste Gehaelter Fehlzeiten, Datenschutz Hris Und Saas To
 
 ## 1. `datenschutz-chef-liste-gehaelter-fehlzeiten`
 
-**Fokus:** Berliner Start-up-HR: Chef-Liste zu Gehältern, Fehlzeiten und sensiblen Merkmalen: Need-to-know, Aggregation, Schwärzung und Zweckbindung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Chef-Liste zu Gehältern, Fehlzeiten und sensiblen Merkmalen: Need-to-know, Aggregation, Schwärzung und Zweckbindung. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Datenschutz Chef Liste Gehaelter Fehlzeiten
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Datenschutz
 **Fokus:** Chef-Liste zu Gehältern, Fehlzeiten und sensiblen Merkmalen: Need-to-know, Aggregation, Schwärzung und Zweckbindung.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `datenschutz-hris-und-saas-tools`
 
-**Fokus:** Berliner Start-up-HR: HRIS/SaaS-Tools prüfen: AVV, TOMs, Drittlandtransfer, Rollenrechte, Löschung und Betriebsrat. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: HRIS/SaaS-Tools prüfen: AVV, TOMs, Drittlandtransfer, Rollenrechte, Löschung und Betriebsrat. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Datenschutz HRIS Und SaaS Tools
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Datenschutz
 **Fokus:** HRIS/SaaS-Tools prüfen: AVV, TOMs, Drittlandtransfer, Rollenrechte, Löschung und Betriebsrat.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `datenschutz-incident-hr-datenpanne`
 
-**Fokus:** Berliner Start-up-HR: HR-Datenpanne: Eindämmung, Risikoanalyse, Meldung Art. 33/34 DSGVO, Betroffeneninfo und Lessons Learned. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: HR-Datenpanne: Eindämmung, Risikoanalyse, Meldung Art. 33/34 DSGVO, Betroffeneninfo und Lessons Learned. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Datenschutz Incident HR Datenpanne
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Datenschutz
 **Fokus:** HR-Datenpanne: Eindämmung, Risikoanalyse, Meldung Art. 33/34 DSGVO, Betroffeneninfo und Lessons Learned.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `datenschutz-ki-in-hr-recruiting`
 
-**Fokus:** Berliner Start-up-HR: KI in Recruiting und HR: Transparenz, Bias, DSGVO, KI-VO-Routing, menschliche Entscheidung und Vendor-Check. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: KI in Recruiting und HR: Transparenz, Bias, DSGVO, KI-VO-Routing, menschliche Entscheidung und Vendor-Check. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Datenschutz KI In HR Recruiting
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Datenschutz
 **Fokus:** KI in Recruiting und HR: Transparenz, Bias, DSGVO, KI-VO-Routing, menschliche Entscheidung und Vendor-Check.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `datenschutz-monitoring-produktivitaet`
 
-**Fokus:** Berliner Start-up-HR: Produktivitätsmonitoring, Screenshots, Aktivitätsdaten und Tool-Analytics: rote Linien, Mitbestimmung und Transparenz. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Produktivitätsmonitoring, Screenshots, Aktivitätsdaten und Tool-Analytics: rote Linien, Mitbestimmung und Transparenz. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Datenschutz Monitoring Produktivitaet
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Datenschutz
 **Fokus:** Produktivitätsmonitoring, Screenshots, Aktivitätsdaten und Tool-Analytics: rote Linien, Mitbestimmung und Transparenz.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

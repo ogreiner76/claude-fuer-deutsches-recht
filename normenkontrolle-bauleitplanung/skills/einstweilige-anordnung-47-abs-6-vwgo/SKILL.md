@@ -96,15 +96,15 @@ Der Eilantrag ist die schärfste Waffe der Mandantenseite. Bei drohendem Vollzug
 2. Statthaftigkeit und Antragsbefugnis (kurz)
 3. Sachverhalt (kompakt — Eilrichter haben wenig Zeit)
 4. Eilbedürftigkeit
-   4.1 Drohender Vollzug konkret (Baugenehmigung beantragt, Bauarbeiten geplant)
-   4.2 Irreversibilität bei Realisierung
+ 4.1 Drohender Vollzug konkret (Baugenehmigung beantragt, Bauarbeiten geplant)
+ 4.2 Irreversibilität bei Realisierung
 5. Erfolgsprognose Hauptsache
-   5.1 Stärkste Fehler kompakt
-   5.2 Verweis auf Hauptsacheschriftsatz für Details
+ 5.1 Stärkste Fehler kompakt
+ 5.2 Verweis auf Hauptsacheschriftsatz für Details
 6. Vollzugsfolgenabwägung
-   6.1 Folgen ohne Eilanordnung
-   6.2 Folgen mit Eilanordnung
-   6.3 Saldo
+ 6.1 Folgen ohne Eilanordnung
+ 6.2 Folgen mit Eilanordnung
+ 6.3 Saldo
 7. Glaubhaftmachung-Anlagen
 8. Streitwert
 

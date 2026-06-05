@@ -63,7 +63,7 @@ Auswirkungen auf demografische Entwicklung.
 
 Liste der angehörten Verbände, eingegangene Stellungnahmen, Bewertung.
 
-## Workflow vom Referentenentwurf zum Kabinettsentwurf
+## vom Referentenentwurf zum Kabinettsentwurf
 
 1. Referentenentwurf erstellt (siehe `referentenentwurf-bauen`)
 2. Verbändeanhörung durchgeführt (siehe `verbaendeanhoerung-ressortabstimmung`)

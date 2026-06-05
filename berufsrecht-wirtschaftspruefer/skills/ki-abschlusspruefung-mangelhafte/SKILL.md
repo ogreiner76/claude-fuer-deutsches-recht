@@ -1,13 +1,13 @@
 ---
 name: ki-abschlusspruefung-mangelhafte
-description: "Nutze dies, wenn Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtschaftspruefer Praesentation Im Aufsichtsrat Rechtsprechung, Wirtschaftspruefer Review Engagement Abgrenzung Rechtsprechungs im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtschaftspruefer Praesentation Im Aufsichtsrat Rechtsprechung, Wirtschaftspruefer Review Engagement Abgrenzung Rechtsprechungs prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtsch..."
+description: "Nutze dies bei Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtschaftspruefer Praesentation Im Aufsichtsrat Rechtsprechung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtschaftspruefer Praesentation Im Aufsichtsrat Rechtsprechung, Wirtschaftspruefer Review Engagement Abgrenzung Rechtsprechungs
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Ki In Abschlusspruefung Rechtsprechungscheck, Wirtschaftspruefer Mangelhafte Arbeitspapiere Rechtsprechungsch, Wirtschaftspruefer Netzwerkunternehmen Und Brand Rechtsprechung, Wirtschaftspruefer Praesentation Im Aufsichtsrat Rechtsprechung, Wirtschaftspruefer Review Engagement Abgrenzung Rechtsprechungs** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

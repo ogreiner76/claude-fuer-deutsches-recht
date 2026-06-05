@@ -33,7 +33,7 @@ Bei grenzüberschreitenden Sachverhalten wirft die Sanierungsertragsbefreiung Fr
 - **DBA** — typischerweise Art. 5 (Betriebsstätte), Art. 7 (Unternehmensgewinne), Art. 11 (Zinsen).
 - **§ 50d Abs. 8, 9 EStG** — Subject-to-tax-Klauseln.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Schuldner ist deutsche Gesellschaft mit Auslandsbetriebsstätte
 
@@ -89,16 +89,16 @@ Bei grenzüberschreitenden Sachverhalten wirft die Sanierungsertragsbefreiung Fr
 ### Beispiel: Deutsche GmbH mit britischer Betriebsstätte
 
 ```
-Verbindlichkeit gegenüber dt. Bank   EUR 1.000.000
-Verbindlichkeit gegenüber brit. Bank EUR   500.000
+Verbindlichkeit gegenüber dt. Bank EUR 1.000.000
+Verbindlichkeit gegenüber brit. Bank EUR 500.000
 
 Verzicht beide Banken voll:
-► Gesamt-Sanierungsertrag             EUR 1.500.000
+► Gesamt-Sanierungsertrag EUR 1.500.000
 
 Zuordnung:
 ► Stammhaus DE: EUR 1.000.000 ► § 3a EStG-Antrag
 ► Betriebsstätte UK: EUR 500.000 ► DBA-Freistellung greift,
-  deutsche Steuerbefreiung nicht erforderlich
+ deutsche Steuerbefreiung nicht erforderlich
 ► UK behandelt Ertrag nach UK-Recht (separat zu prüfen)
 ```
 

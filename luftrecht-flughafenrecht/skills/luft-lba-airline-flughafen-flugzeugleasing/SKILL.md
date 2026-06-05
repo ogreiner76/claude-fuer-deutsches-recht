@@ -1,13 +1,13 @@
 ---
 name: luft-lba-airline-flughafen-flugzeugleasing
-description: "Nutze dies, wenn Luft 003 Lba Zustaendigkeit Prüfen, Luft 021 Airline Zustaendigkeit Prüfen, Luft 031 Flughafen Zustaendigkeit Prüfen, Luft 041 Flugzeugleasing Zustaendigkeit Prüfen, Luft 051 Registerpfandrecht Zustaendigkeit Prue im Plugin Luftrecht Flughafenrecht konkret bearbeitet werden soll. Auslöser: Bitte Luft 003 Lba Zustaendigkeit Prüfen, Luft 021 Airline Zustaendigkeit Prüfen, Luft 031 Flughafen Zustaendigkeit Prüfen, Luft 041 Flugzeugleasing Zustaendigkeit Prüfen, Luft 051 Registerpfandrecht Zustaendigkeit Prue prüfen.; Erstelle eine Arbeitsfassung zu Luft 003 Lba Zustaendigkeit Prüfen, Luft 021 Airline Zustaendigkeit Prüfen, Luft 031 Flughafen Zustaendigkeit Prüfen, Luft 041 Flugzeugleasing Zustaendigkeit Prüfen, Luft 051 Registerpfandrecht Zustaendigkeit Prue.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Luft 003 Lba Zustaendigkeit Prüfen, Luft 021 Airline Zustaendigkeit Prüfen, Luft 031 Flughafen Zustaendigkeit Prüfen, Luft 041 Flugzeugleasing Zustaendigkeit Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Luft 003 Lba Zustaendigkeit Prüfen, Luft 021 Airline Zustaendigkeit Prüfen, Luft 031 Flughafen Zustaendigkeit Prüfen, Luft 041 Flugzeugleasing Zustaendigkeit Prüfen, Luft 051 Registerpfandrecht Zustaendigkeit Prue
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Luft 003 Lba Zustaendigkeit Prüfen, Luft 021 Airline Zustaendigkeit Prüfen, Luft 031 Flughafen Zustaendigkeit Prüfen, Luft 041 Flugzeugleasing Zustaendigkeit Prüfen, Luft 051 Registerpfandrecht Zustaendigkeit Prue** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

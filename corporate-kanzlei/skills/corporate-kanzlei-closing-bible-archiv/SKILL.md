@@ -187,7 +187,7 @@ Voraussichtliche Eintragung: [Datum]
 OFFENE PUNKTE NACH CLOSING:
 | Nr. | Punkt | Owner | Frist |
 |-----|-------|-------|-------|
-| 1   | [Punkt] | [Name] | [Datum] |
+| 1 | [Punkt] | [Name] | [Datum] |
 
 Erstellt von: [KANZLEI]
 ```

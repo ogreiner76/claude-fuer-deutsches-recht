@@ -1,13 +1,13 @@
 ---
 name: tk-regulierungsakte-tk-aktenzugang
-description: "Nutze dies, wenn Tk Regulierungsakte Nummernverwaltung Stellungnahme Entwurf, Tk Regulierungsakte Rufnummernmissbrauch Stellungnahme Entwurf, Aktenzugang Geschaeftsgeheimnisse Schwaerzung, Beschwerde Verbraucher Unternehmen Verband im Plugin Bundesnetzagentur Verfahren konkret bearbeitet werden soll. Auslöser: Bitte Tk Regulierungsakte Nummernverwaltung Stellungnahme Entwurf, Tk Regulierungsakte Rufnummernmissbrauch Stellungnahme Entwurf, Aktenzugang Geschaeftsgeheimnisse Schwaerzung, Beschwerde Verbraucher Unternehmen Verband prüfen.; Erstelle eine Arbeitsfassung zu Tk Regulierungsakte Nummernverwaltung Stellungnahme Entwurf, Tk Regulierungsakte Rufnummernmissbrauch Stellungnahme Entwurf, Aktenzugang Geschaeftsgeheimnisse Schwaerzung, Beschwerde Verbraucher Unternehmen Verband.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tk Regulierungsakte Nummernverwaltung Stellungnahme Entwurf, Tk Regulierungsakte Rufnummernmissbrauch Stellungnahme Entwurf, Aktenzugang Geschaeftsgeheimnisse Schwaerzung, Beschwerde Verbraucher Unternehmen Verband: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tk Regulierungsakte Nummernverwaltung Stellungnahme Entwurf, Tk Regulierungsakte Rufnummernmissbrauch Stellungnahme Entwurf, Aktenzugang Geschaeftsgeheimnisse Schwaerzung, Beschwerde Verbraucher Unternehmen Verband
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,8 +15,8 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | --- | --- |
 | `tk-regulierungsakte-nummernverwaltung-stellungnahme-entwurf` | Nummernverwaltung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. |
 | `tk-regulierungsakte-rufnummernmissbrauch-stellungnahme-entwurf` | Rufnummernmissbrauch: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. |
-| `aktenzugang-geschaeftsgeheimnisse-schwaerzung` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung. |
-| `beschwerde-verbraucher-unternehmen-verband` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband. |
+| `aktenzugang-geschaeftsgeheimnisse-schwaerzung` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung. |
+| `beschwerde-verbraucher-unternehmen-verband` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband. |
 
 ## Arbeitsweg
 
@@ -109,7 +109,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `aktenzugang-geschaeftsgeheimnisse-schwaerzung`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung.
 
 
 # Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur
@@ -138,40 +138,40 @@ Dieser Skill steuert die anwaltliche Arbeit am Schnittpunkt von Akteneinsicht un
 ## Ablauf
 
 1. **Verfahrensstand klären.**
-   - Beschlusskammer und Az. (Format z. B. BK3-23-XXX-XX).
-   - Stand der Konsultation gem. § 12 TKG bzw. § 56 EnWG.
-   - Anstehende Anhörung, Termin der Beschlusskammer, parallele Bußgeldverfahren.
-   - Vorgeschichte: Antrag, Marktanalyse, Konsultation, Notifikation an EU-Kommission Art. 32 EECC.
+ - Beschlusskammer und Az. (Format z. B. BK3-23-XXX-XX).
+ - Stand der Konsultation gem. § 12 TKG bzw. § 56 EnWG.
+ - Anstehende Anhörung, Termin der Beschlusskammer, parallele Bußgeldverfahren.
+ - Vorgeschichte: Antrag, Marktanalyse, Konsultation, Notifikation an EU-Kommission Art. 32 EECC.
 
 2. **Schutzinteresse identifizieren.** Welche Daten sind streng vertraulich?
-   - Kostenrechnung, Nachfragerstruktur, Margen.
-   - Identität von Whistleblowern, IT-Sicherheitsdaten.
-   - Vertragsentwürfe und unterzeichnete Verträge.
-   - Trennung in: Geschäftsgeheimnis i. S. v. § 2 Nr. 1 GeschGehG, personenbezogene Daten (Art. 4 Nr. 1 DSGVO), behördliches Beratungsgeheimnis, sicherheitsrelevante Daten (§ 165 TKG).
+ - Kostenrechnung, Nachfragerstruktur, Margen.
+ - Identität von Whistleblowern, IT-Sicherheitsdaten.
+ - Vertragsentwürfe und unterzeichnete Verträge.
+ - Trennung in: Geschäftsgeheimnis i. S. v. § 2 Nr. 1 GeschGehG, personenbezogene Daten (Art. 4 Nr. 1 DSGVO), behördliches Beratungsgeheimnis, sicherheitsrelevante Daten (§ 165 TKG).
 
 3. **Schwärzungsstrategie.** Drei Versionsstufen:
-   - Vollversion für die Beschlusskammer.
-   - Geschwärzte Version für die Akteneinsicht der Beigeladenen.
-   - Ggf. weiter reduzierte Version für die Öffentlichkeit (Online-Stellung des Beschlusses).
+ - Vollversion für die Beschlusskammer.
+ - Geschwärzte Version für die Akteneinsicht der Beigeladenen.
+ - Ggf. weiter reduzierte Version für die Öffentlichkeit (Online-Stellung des Beschlusses).
 
 4. **Begründungspflicht erfüllen.** Pro geschwärzter Passage:
-   - Konkret darlegen, warum gerade dieser Wert oder dieser Satz Geheimnis ist.
-   - Wettbewerbsrelevanz beziffern.
-   - Pauschale Schwärzungen werden von der BNetzA und vom VG Köln regelmäßig zurückgewiesen.
+ - Konkret darlegen, warum gerade dieser Wert oder dieser Satz Geheimnis ist.
+ - Wettbewerbsrelevanz beziffern.
+ - Pauschale Schwärzungen werden von der BNetzA und vom VG Köln regelmäßig zurückgewiesen.
 
 5. **Akteneinsichtsantrag formulieren oder abwehren.**
-   - Antragsteller: konkrete Aktenteile bezeichnen, Verfahrensbezug darlegen.
-   - Geheimnisinhaber: differenziert widersprechen, Alternativvorschläge (Zusammenfassung, gerundete Werte, Bandbreitenangaben).
-   - Bei Beigeladenen-Antrag: Anhörung des Geheimnisinhabers ist Standard und muss verlangt werden, falls unterblieben.
+ - Antragsteller: konkrete Aktenteile bezeichnen, Verfahrensbezug darlegen.
+ - Geheimnisinhaber: differenziert widersprechen, Alternativvorschläge (Zusammenfassung, gerundete Werte, Bandbreitenangaben).
+ - Bei Beigeladenen-Antrag: Anhörung des Geheimnisinhabers ist Standard und muss verlangt werden, falls unterblieben.
 
 6. **In-camera-Mechanismen.**
-   - Bei Vorlageverweigerung Antrag nach § 99 Abs. 2 VwGO an den Fachsenat des OVG/BVerwG.
-   - Im verwaltungsbehördlichen Verfahren: faktischer in-camera-Vortrag in der Beschlusskammer.
+ - Bei Vorlageverweigerung Antrag nach § 99 Abs. 2 VwGO an den Fachsenat des OVG/BVerwG.
+ - Im verwaltungsbehördlichen Verfahren: faktischer in-camera-Vortrag in der Beschlusskammer.
 
 7. **Rechtsschutz.**
-   - Eilantrag nach § 123 VwGO oder § 80 Abs. 5 VwGO beim VG Köln (sachlich zuständig nach § 51 Abs. 1 Nr. 7 VwGO für BNetzA-Sachen).
-   - Im TK-Bereich ggf. unmittelbar OVG Münster nach § 233 TKG.
-   - Beschwerde § 146 VwGO mit substantiierter Beschwerdebegründung binnen Monatsfrist (bei Eilbeschluss 2 Wochen).
+ - Eilantrag nach § 123 VwGO oder § 80 Abs. 5 VwGO beim VG Köln (sachlich zuständig nach § 51 Abs. 1 Nr. 7 VwGO für BNetzA-Sachen).
+ - Im TK-Bereich ggf. unmittelbar OVG Münster nach § 233 TKG.
+ - Beschwerde § 146 VwGO mit substantiierter Beschwerdebegründung binnen Monatsfrist (bei Eilbeschluss 2 Wochen).
 
 ## Mustertexte
 
@@ -231,7 +231,7 @@ Vor Versand prüfen:
 
 ## 4. `beschwerde-verbraucher-unternehmen-verband`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband.
 
 
 # Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband
@@ -263,23 +263,23 @@ Dieser Skill steuert die Beschwerdearbeit bei der Bundesnetzagentur in den Rolle
 ## Ablauf
 
 1. **Beschwerdetyp wählen.**
-   - Schlichtungsverfahren (außergerichtlich, verbraucherbezogen, kostenfrei).
-   - Förmliche Aufsichts-/Verfahrensanzeige (Beschlusskammer leitet von Amts wegen ein Verfahren ein).
-   - Anrufung der Streitbeilegungsstelle Energie (§ 31 EnWG).
-   - Beschwerde im Eisenbahnbereich (§ 66 ERegG) für Unternehmen.
+ - Schlichtungsverfahren (außergerichtlich, verbraucherbezogen, kostenfrei).
+ - Förmliche Aufsichts-/Verfahrensanzeige (Beschlusskammer leitet von Amts wegen ein Verfahren ein).
+ - Anrufung der Streitbeilegungsstelle Energie (§ 31 EnWG).
+ - Beschwerde im Eisenbahnbereich (§ 66 ERegG) für Unternehmen.
 
 2. **Adressat klären.**
-   - BNetzA-Verbraucherservice (Mainz).
-   - Schlichtungsstelle Telekommunikation (Bonn).
-   - Schlichtungsstelle Energie (Berlin).
-   - Beschlusskammer der zuständigen Sparte (BK1–BK11).
-   - Eisenbahn-Spartenkammer (konkrete BK-Bezeichnung vom Anwender zu verifizieren).
+ - BNetzA-Verbraucherservice (Mainz).
+ - Schlichtungsstelle Telekommunikation (Bonn).
+ - Schlichtungsstelle Energie (Berlin).
+ - Beschlusskammer der zuständigen Sparte (BK1–BK11).
+ - Eisenbahn-Spartenkammer (konkrete BK-Bezeichnung vom Anwender zu verifizieren).
 
 3. **Sachverhalt schreiben.**
-   - Knapper, chronologischer Sachvortrag.
-   - Tatsachenkern in 1–3 Seiten.
-   - Belege als Anlagen (Verträge, Rechnungen, Korrespondenz, Bestätigungs-Mails, Bescheide).
-   - Bei Massenphänomenen (Ping-Anrufe, irreführende Werbung): Vorlage strukturierter Tabelle.
+ - Knapper, chronologischer Sachvortrag.
+ - Tatsachenkern in 1–3 Seiten.
+ - Belege als Anlagen (Verträge, Rechnungen, Korrespondenz, Bestätigungs-Mails, Bescheide).
+ - Bei Massenphänomenen (Ping-Anrufe, irreführende Werbung): Vorlage strukturierter Tabelle.
 
 4. **Antrag formulieren.** Konkretes Ziel: Unterlassen, Erstattung, Vertragsanpassung, Verhängung eines Bußgelds, Untersagung gem. § 192 TKG.
 
@@ -290,9 +290,9 @@ Dieser Skill steuert die Beschwerdearbeit bei der Bundesnetzagentur in den Rolle
 7. **Akten- und Eingangsverfolgung.** Eingangsbestätigung, Verfahrensnummer, regelmäßige Sachstandsanfrage (max. 4–6 Wochen).
 
 8. **Rechtsschutz gegen Untätigkeit.**
-   - Untätigkeitsklage § 75 VwGO beim VG Köln.
-   - Bei Verbandsanträgen ggf. § 42 Abs. 2 VwGO-Prüfung (drittschützende Norm?).
-   - Aktivlegitimation der qualifizierten Einrichtung folgt aus § 4 UKlaG.
+ - Untätigkeitsklage § 75 VwGO beim VG Köln.
+ - Bei Verbandsanträgen ggf. § 42 Abs. 2 VwGO-Prüfung (drittschützende Norm?).
+ - Aktivlegitimation der qualifizierten Einrichtung folgt aus § 4 UKlaG.
 
 ## Mustertexte
 

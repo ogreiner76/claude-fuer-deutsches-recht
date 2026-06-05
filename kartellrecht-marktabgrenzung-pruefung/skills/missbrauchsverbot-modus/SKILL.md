@@ -1,13 +1,13 @@
 ---
 name: missbrauchsverbot-modus
-description: "Nutze dies, wenn Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht Horizontale Fusion Vertikal Konglomerat, Paragraf 18 Gwb Prüfung, Potenzieller Wettbewerb Marktzutritt im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht Horizontale Fusion Vertikal Konglomerat, Paragraf 18 Gwb Prüfung, Potenzieller Wettbewerb Marktzutritt prüfen.; Erstelle eine Arbeitsfassung zu Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht Horizontale Fusion Vertikal Konglomerat, Paragraf 18 Gwb Prüfung, Potenzieller Wettbewerb Marktzutritt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht Horizontale Fusion Vertikal Konglomerat, Paragraf 18 Gwb Prüfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht Horizontale Fusion Vertikal Konglomerat, Paragraf 18 Gwb Prüfung, Potenzieller Wettbewerb Marktzutritt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Missbrauchsverbot Modus, Nachhaltigkeitskooperation Wettbewerbsrecht, Nicht Horizontale Fusion Vertikal Konglomerat, Paragraf 18 Gwb Prüfung, Potenzieller Wettbewerb Marktzutritt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -269,9 +269,9 @@ Praxis: Häufig bei Lebensmitteleinzelhandel (Marktmacht gegenüber Lieferanten)
 2. Marktanteil: [%]
 3. Vermutungsregel § 18 Abs. 4: [greift / greift nicht]
 4. Weitere Faktoren:
-   - Marktzutrittsschranken: [hoch / mittel / niedrig]
-   - Finanzkraft: [überragend / normal]
-   - Datenzugang (bei Plattformen § 18 Abs. 3a): [relevant / nicht relevant]
+ - Marktzutrittsschranken: [hoch / mittel / niedrig]
+ - Finanzkraft: [überragend / normal]
+ - Datenzugang (bei Plattformen § 18 Abs. 3a): [relevant / nicht relevant]
 5. Gemeinsame Marktbeherrschung § 18 Abs. 5–6: [prüfen / nicht relevant]
 6. Relative Marktmacht § 20: [prüfen / nicht relevant]
 7. Ergebnis Marktbeherrschung: [ja / nein / zweifelhaft]

@@ -1,13 +1,13 @@
 ---
 name: pruefumfang-was-standardkostenmodell-skm
-description: "Nutze dies, wenn Nkr Pruefumfang Was Prueft Der Nkr Nicht, Nkr Standardkostenmodell Skm im Plugin Normenkontrollrat Nkr konkret bearbeitet werden soll. Auslöser: Bitte Nkr Pruefumfang Was Prueft Der Nkr Nicht, Nkr Standardkostenmodell Skm prüfen.; Erstelle eine Arbeitsfassung zu Nkr Pruefumfang Was Prueft Der Nkr Nicht, Nkr Standardkostenmodell Skm.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nkr Pruefumfang Was Prueft Der Nkr Nicht, Nkr Standardkostenmodell Skm: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nkr Pruefumfang Was Prueft Der Nkr Nicht, Nkr Standardkostenmodell Skm
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nkr Pruefumfang Was Prueft Der Nkr Nicht, Nkr Standardkostenmodell Skm** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -152,10 +152,10 @@ Rueckfrage nur wenn unklar: *"Welche Methodik liegt der Ressortdarstellung zugru
 
 ```
 Erfuellungsaufwand (jaehrlich)
-   = Σ (Aufwand pro Fall × Fallzahl pro Jahr)
+ = Σ (Aufwand pro Fall × Fallzahl pro Jahr)
 
 Aufwand pro Fall
-   = Zeitaufwand × Lohnsatz + Sachkosten + externe Dienstleistungskosten
+ = Zeitaufwand × Lohnsatz + Sachkosten + externe Dienstleistungskosten
 ```
 
 ## Pruefraster / Schritt fuer Schritt

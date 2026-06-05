@@ -56,7 +56,7 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 ## Prüfschema / Review-Würfel
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -128,12 +128,12 @@ TABELLENREVIEW — Projekt [Deal-Code] — Workstream [Finance]
 Stand: [Datum]
 Erstellt von: [Name]
 
-| Dok.-Nr. | Dokument        | Stichtag   | Umsatz   | EBITDA   | Net Debt | Status      | Kommentar |
+| Dok.-Nr. | Dokument | Stichtag | Umsatz | EBITDA | Net Debt | Status | Kommentar |
 |----------|-----------------|------------|----------|----------|----------|-------------|-----------|
-| DR-001   | JA 2023 (HGB)   | 31.12.2023 | EUR 50M  | EUR 7M   | EUR 12M  | belegt      | OK        |
-| DR-002   | Forecast 2024   | 31.12.2024 | EUR 55M  | EUR 8M   | n.v.     | prüfen      | Net Debt fehlt — TODO Finance bis [Datum] |
-| DR-003   | Interim Q1 2024 | 31.03.2024 | EUR 13M  | EUR 2M   | EUR 11M  | widersprüchl.| Umsatz Q1 2024 vs. Forecast-Ableitung: EUR 0,5M Differenz — Q&A stellen |
-| DR-004   | Tax Return 2022 | 31.12.2022 | nicht v. | nicht v. | nicht v. | leer        | Nicht in DR hochgeladen — Q&A: Steuerbescheid 2022 anfordern |
+| DR-001 | JA 2023 (HGB) | 31.12.2023 | EUR 50M | EUR 7M | EUR 12M | belegt | OK |
+| DR-002 | Forecast 2024 | 31.12.2024 | EUR 55M | EUR 8M | n.v. | prüfen | Net Debt fehlt — TODO Finance bis [Datum] |
+| DR-003 | Interim Q1 2024 | 31.03.2024 | EUR 13M | EUR 2M | EUR 11M | widersprüchl.| Umsatz Q1 2024 vs. Forecast-Ableitung: EUR 0,5M Differenz — Q&A stellen |
+| DR-004 | Tax Return 2022 | 31.12.2022 | nicht v. | nicht v. | nicht v. | leer | Nicht in DR hochgeladen — Q&A: Steuerbescheid 2022 anfordern |
 ```
 
 ### Baustein 2 — Q&A-Fragen aus Tabellenreview

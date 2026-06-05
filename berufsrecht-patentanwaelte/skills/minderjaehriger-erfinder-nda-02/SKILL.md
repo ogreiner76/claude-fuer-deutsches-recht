@@ -1,13 +1,13 @@
 ---
 name: minderjaehriger-erfinder-nda-02
-description: "Nutze dies, wenn Patentanwaelte Minderjaehriger Erfinder Kaltstart Und Faktenmat, Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart Und Fakten, Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart Und F, Patentanwaelte Outsourcing Von Zeichnungen Kaltstart Und Fakten im Plugin Berufsrecht Patentanwaelte konkret bearbeitet werden soll. Auslöser: Bitte Patentanwaelte Minderjaehriger Erfinder Kaltstart Und Faktenmat, Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart Und Fakten, Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart Und F, Patentanwaelte Outsourcing Von Zeichnungen Kaltstart Und Fakten prüfen.; Erstelle eine Arbeitsfassung zu Patentanwaelte Minderjaehriger Erfinder Kaltstart Und Faktenmat, Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart Und Fakten, Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart Und F, Patentanwaelte Outsourcing Von Zeichnungen Kaltstart Und Fakten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentanwaelte Minderjaehriger Erfinder Kaltstart Und Faktenmat, Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart Und Fakten, Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart Und F, Patentanwaelte Outsourcing Von Zeichnungen Kaltstart Und Fakten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentanwaelte Minderjaehriger Erfinder Kaltstart Und Faktenmat, Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart Und Fakten, Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart Und F, Patentanwaelte Outsourcing Von Zeichnungen Kaltstart Und Fakten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentanwaelte Minderjaehriger Erfinder Kaltstart Und Faktenmat, Patentanwaelte Nda Vor Erfindungsgespraech Kaltstart Und Fakten, Patentanwaelte Nichtigkeitsklage Mandatswechsel Kaltstart Und F, Patentanwaelte Outsourcing Von Zeichnungen Kaltstart Und Fakten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

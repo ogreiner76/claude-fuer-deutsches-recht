@@ -107,8 +107,8 @@ Hoehe des am Fahrzeug entstandenen Schadens.
 Die Parteien werden auf folgende rechtliche Gesichtspunkte hingewiesen
 (Paragraf 139 II ZPO):
 1. Es bestehen Bedenken gegen die Schluessigkeit der Klage hinsichtlich
-   des Vortrags zur Hoehe des Schmerzensgeldes. Der Klaeger wird
-   gebeten, [...] naeher darzulegen.
+ des Vortrags zur Hoehe des Schmerzensgeldes. Der Klaeger wird
+ gebeten, [...] naeher darzulegen.
 2. [...]
 Den Parteien wird Gelegenheit gegeben, hierzu binnen drei Wochen
 schriftsaetzlich Stellung zu nehmen.
@@ -169,8 +169,8 @@ durch Beschluss zurueckzuweisen, da
 1. die Berufung keine Aussicht auf Erfolg hat (Paragraf 522 II 1 Nr. 1 ZPO),
 2. die Rechtssache keine grundsaetzliche Bedeutung hat (Nr. 2),
 3. die Fortbildung des Rechts oder die Sicherung einer einheitlichen
-   Rechtsprechung eine Entscheidung des Berufungsgerichts nicht erfordert
-   (Nr. 3) und
+ Rechtsprechung eine Entscheidung des Berufungsgerichts nicht erfordert
+ (Nr. 3) und
 4. eine muendliche Verhandlung nicht geboten ist (Nr. 4).
 
 Im einzelnen: [...]

@@ -1,13 +1,13 @@
 ---
 name: kennzeichnungspflichten-veroeffentlichungen
-description: "Nutze dies, wenn Kennzeichnungspflichten Veroeffentlichungen, Ki Kompetenz Erwerb Plan, Ki Vo Betreiber Pflichten im Plugin Ki Richtlinie Kanzleien konkret bearbeitet werden soll. Auslöser: Bitte Kennzeichnungspflichten Veroeffentlichungen, Ki Kompetenz Erwerb Plan, Ki Vo Betreiber Pflichten prüfen.; Erstelle eine Arbeitsfassung zu Kennzeichnungspflichten Veroeffentlichungen, Ki Kompetenz Erwerb Plan, Ki Vo Betreiber Pflichten.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kennzeichnungspflichten Veroeffentlichungen, Ki Kompetenz Erwerb Plan, Ki Vo Betreiber Pflichten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kennzeichnungspflichten Veroeffentlichungen, Ki Kompetenz Erwerb Plan, Ki Vo Betreiber Pflichten
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kennzeichnungspflichten Veroeffentlichungen, Ki Kompetenz Erwerb Plan, Ki Vo Betreiber Pflichten** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -39,7 +39,7 @@ Art. 50 Abs. 4 Unterabs. 2 Satz 1 KI-VO: Betreiber eines KI-Systems, das Text zu
 ## Vorgehen
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Schriftsätze an Gerichte**: Keine Kennzeichnungspflicht nach KI-VO — nicht öffentlich und anwaltliche redaktionelle Verantwortung durch Unterschrift.
 2. **Kanzlei-Blog und Website-Inhalte**: Wenn KI-generierte Texte ohne inhaltliche menschliche Überarbeitung veröffentlicht werden, ist eine Kennzeichnung geboten. Bei menschlicher Endkontrolle greift die Ausnahme.
@@ -114,24 +114,24 @@ KENNZEICHNUNGS-LEITFADEN KI-GENERIERTE INHALTE
 [KANZLEI] — Stand: [DATUM]
 
 1. SCHRIFTSAETZE UND RECHTLICHE STELLUNGNAHMEN:
-   Interne Kennzeichnung in Arbeitsexemplar genuegt; externe Kennzeichnung
-   gegenueber Gericht nur bei Anfrage oder wenn inhaltlich relevant.
-   Formulierung: "Dieser Abschnitt wurde mit KI-Unterstuetzung erstellt
-   und menschlich geprueft."
+ Interne Kennzeichnung in Arbeitsexemplar genuegt; externe Kennzeichnung
+ gegenueber Gericht nur bei Anfrage oder wenn inhaltlich relevant.
+ Formulierung: "Dieser Abschnitt wurde mit KI-Unterstuetzung erstellt
+ und menschlich geprueft."
 
 2. MANDANTENSCHREIBEN:
-   Keine zwingende externe Kennzeichnung (ausser wenn Mandant fragt oder
-   Richtlinie es verlangt).
+ Keine zwingende externe Kennzeichnung (ausser wenn Mandant fragt oder
+ Richtlinie es verlangt).
 
 3. VEROEFFENTLICHUNGEN (Fachaufsaetze, Blog, LinkedIn):
-   Kennzeichnung empfohlen: "Erstellt mit KI-Unterstuetzung, redaktionell
-   geprueft und verantwortet."
+ Kennzeichnung empfohlen: "Erstellt mit KI-Unterstuetzung, redaktionell
+ geprueft und verantwortet."
 
 4. CHATBOT-EINSATZ (Art. 50 Abs. 1 KI-VO):
-   Pflicht zur Offenlegung gegenueber Nutzern dass sie mit KI interagieren.
+ Pflicht zur Offenlegung gegenueber Nutzern dass sie mit KI interagieren.
 
 5. DEEPFAKES / SYNTHETISCHE MEDIEN (Art. 50 Abs. 4 KI-VO):
-   Pflicht zur Kennzeichnung als KI-generiert.
+ Pflicht zur Kennzeichnung als KI-generiert.
 
 Internes Kennzeichnungs-Symbol: [SYMBOL / TAG z.B. [KI-draft]]
 ```
@@ -235,7 +235,7 @@ Art. 3 Nr. 4 KI-VO: "Betreiber" — wer ein KI-System in eigener Verantwortung b
 ## Vorgehen
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Betreiber-Status bestätigen**: Kanzlei nutzt fremden KI-Dienst beruflich → Betreiber nach Art. 3 Nr. 4 KI-VO. Einzelner angestellter Anwalt ist kein Betreiber, wenn die Kanzlei den Account bereitstellt.
 2. **Hochrisiko-Prüfung**: Fällt das eingesetzte KI-System unter Anhang III Nr. 8.a (Justizbehörden)? Nein — Anwaltschaft ist keine staatliche Justizbehörde. Prüfen, ob ggf. Anhang III Nr. 4 (Personalwesen) greift.

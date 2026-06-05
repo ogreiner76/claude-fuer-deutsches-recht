@@ -1,13 +1,13 @@
 ---
 name: verbraucherkredit-widerrufsjoker-wphg
-description: "Nutze dies, wenn Spezial Verbraucherkredit Verhandlung Vergleich Und Eskalation, Spezial Widerrufsjoker Formular Portal Und Einreichung, Spezial Wphg Dokumentenmatrix Und Lueckenliste im Plugin Fachanwalt Bank Kapitalmarktrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Verbraucherkredit Verhandlung Vergleich Und Eskalation, Widerrufsjoker Formular Portal Und Einreichung, Wphg Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verbraucherkredit Verhandlung Vergleich Und Eskalation, Spezial Widerrufsjoker Formular Portal Und Einreichung, Spezial Wphg Dokumentenmatrix Und Lueckenliste
+# Verbraucherkredit Verhandlung Vergleich Und Eskalation, Widerrufsjoker Formular Portal Und Einreichung, Wphg Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verbraucherkredit Verhandlung Vergleich Und Eskalation, Widerrufsjoker Formular Portal Und Einreichung, Wphg Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verbraucherkredit Verhandlung Vergleich Und Eskalation, Spezial Widerrufsjoker Formular Portal Und Einreichung, Spezial Wphg Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verbraucherkredit Verhandlung Vergleich Und Eskalation, Widerrufsjoker Formular Portal Und Einreichung, Wphg Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bank-kapitalmarktrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

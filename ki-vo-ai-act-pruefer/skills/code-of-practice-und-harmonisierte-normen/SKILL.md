@@ -53,7 +53,7 @@ Prüffragen:
 
 Diese Standards können als Arbeitsrahmen dienen, ohne automatisch KI-VO-Konformität zu beweisen:
 
-| Standard | Nutzen im KI-VO-Workflow | Vorsicht |
+| Standard | Nutzen im KI-VO-| Vorsicht |
 |---|---|---|
 | ISO/IEC 42001:2023 | AI Management System, Governance, Rollen, Richtlinien, kontinuierliche Verbesserung | nicht identisch mit allen KI-VO-Pflichten; keine Vermutungswirkung ohne harmonisierte Referenz |
 | ISO/IEC 23894:2023 | AI Risk Management, Risikoidentifikation, Bewertung, Behandlung, Monitoring | an Art. 9 KI-VO anpassen, Grundrechte ausdrücklich ergänzen |

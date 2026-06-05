@@ -1,13 +1,13 @@
 ---
 name: jurisdiktion-costa-rica-daenemark-competition
-description: "Nutze dies, wenn Jurisdiktion Costa Rica Competition Authority, Jurisdiktion Daenemark Competition Authority, Jurisdiktion Deutschland Competition Authority, Jurisdiktion Dominikanische Republik Competition Authority, Jurisdiktion Ecuador Competition Authority und 9 weitere Themen im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Jurisdiktion Costa Rica Competition Authority, Jurisdiktion Daenemark Competition Authority, Jurisdiktion Deutschland Competition Authority, Jurisdiktion Dominikanische Republik Competition Authority, Jurisdiktion Ecuador Competition Authority und 9 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Jurisdiktion Costa Rica Competition Authority, Jurisdiktion Daenemark Competition Authority, Jurisdiktion Deutschland Competition Authority, Jurisdiktion Dominikanische Republik Competition Authority, Jurisdiktion Ecuador Competition Authority und 9 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Jurisdiktion Costa Rica Competition Authority, Jurisdiktion Daenemark Competition Authority, Jurisdiktion Deutschland Competition Authority, Jurisdiktion Dominikanische Republik Competition Authority: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Jurisdiktion Costa Rica Competition Authority, Jurisdiktion Daenemark Competition Authority, Jurisdiktion Deutschland Competition Authority, Jurisdiktion Dominikanische Republik Competition Authority, Jurisdiktion Ecuador Competition Authority und 9 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Jurisdiktion Costa Rica Competition Authority, Jurisdiktion Daenemark Competition Authority, Jurisdiktion Deutschland Competition Authority, Jurisdiktion Dominikanische Republik Competition Authority, Jurisdiktion Ecuador Competition Authority und 9 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

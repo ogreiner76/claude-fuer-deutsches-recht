@@ -1,13 +1,13 @@
 ---
 name: vertraulichkeit-vs-zugriffskonzept
-description: "Nutze dies, wenn Vertraulichkeit Vs Anhoerung, Zugriffskonzept im Plugin Hinweisgeberschutz Compliance konkret bearbeitet werden soll. Auslöser: Bitte Vertraulichkeit Vs Anhoerung, Zugriffskonzept prüfen.; Erstelle eine Arbeitsfassung zu Vertraulichkeit Vs Anhoerung, Zugriffskonzept.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vertraulichkeit Vs Anhoerung, Zugriffskonzept: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vertraulichkeit Vs Anhoerung, Zugriffskonzept
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vertraulichkeit Vs Anhoerung, Zugriffskonzept** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

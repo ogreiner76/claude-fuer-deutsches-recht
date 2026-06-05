@@ -1,13 +1,13 @@
 ---
 name: werbung-siegel-zulassung-widerruf
-description: "Nutze dies, wenn Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle im Plugin Berufsrecht Steuerberater konkret bearbeitet werden soll. Auslöser: Bitte Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle prüfen.; Erstelle eine Arbeitsfassung zu Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

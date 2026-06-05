@@ -32,10 +32,10 @@ Pruefen: ist jede Aenderung rueckverfolgbar? Bleibt der parlamentarische Vorbeha
 ## Output
 
 ```
-Skill:              legw-rmap-evaluierung-und-aenderung
-Thema:              Evaluierung und Aenderung von Rulemap-Normen
-Ergebnis:           <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills:    siehe Description-Verweise
+Skill: legw-rmap-evaluierung-und-aenderung
+Thema: Evaluierung und Aenderung von Rulemap-Normen
+Ergebnis: <Artefakt gemaess Kern und Vorgehen>
+Naechste Skills: siehe Description-Verweise
 ```
 
 ## Abgrenzung

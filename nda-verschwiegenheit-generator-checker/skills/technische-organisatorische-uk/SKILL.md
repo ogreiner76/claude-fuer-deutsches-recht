@@ -1,22 +1,22 @@
 ---
 name: technische-organisatorische-uk
-description: "Nutze dies, wenn Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York im Plugin Nda Verschwiegenheit Generator Checker konkret bearbeitet werden soll. Auslöser: Bitte Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York prüfen.; Erstelle eine Arbeitsfassung zu Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreement, Unterlassung Eilrechtsschutz, Us Nda Delaware New York** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `technische-organisatorische-schutzmassnahmen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Technische Organisatorische Schutzmassnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `uk-confidentiality-agreement` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Uk Confidentiality Agreement; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `unterlassung-eilrechtsschutz` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Unterlassung Eilrechtsschutz; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `us-nda-delaware-new-york` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: US NDA Delaware New York; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `technische-organisatorische-schutzmassnahmen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Technische Organisatorische Schutzmassnahmen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `uk-confidentiality-agreement` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Uk Confidentiality Agreement; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `unterlassung-eilrechtsschutz` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Unterlassung Eilrechtsschutz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `us-nda-delaware-new-york` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: US NDA Delaware New York; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Technische Organisatorische Schutzmassnahmen, Uk Confidentiality Agreemen
 
 ## 1. `technische-organisatorische-schutzmassnahmen`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Technische Organisatorische Schutzmassnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Technische Organisatorische Schutzmassnahmen; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Technische Organisatorische Schutzmassnahmen
 
@@ -81,7 +81,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `uk-confidentiality-agreement`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Uk Confidentiality Agreement; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Uk Confidentiality Agreement; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Uk Confidentiality Agreement
 
@@ -138,7 +138,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `unterlassung-eilrechtsschutz`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Unterlassung Eilrechtsschutz; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Unterlassung Eilrechtsschutz; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Unterlassung Eilrechtsschutz
 
@@ -195,7 +195,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `us-nda-delaware-new-york`
 
-**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: US NDA Delaware New York; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: US NDA Delaware New York; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # US NDA Delaware New York
 

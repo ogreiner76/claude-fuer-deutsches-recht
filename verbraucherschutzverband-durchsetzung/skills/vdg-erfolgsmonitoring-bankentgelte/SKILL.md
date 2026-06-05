@@ -1,13 +1,13 @@
 ---
 name: vdg-erfolgsmonitoring-bankentgelte
-description: "Nutze dies, wenn Vdg 020 Erfolgsmonitoring, Vdg 021 Bankentgelte Sammelfaehigkeit Prüfen, Vdg 022 Bankentgelte Klageschrift Strukturiere, Vdg 023 Bankentgelte Anspruchsgruppen Bilden im Plugin Verbraucherschutzverband Durchsetzung konkret bearbeitet werden soll. Auslöser: Bitte Vdg 020 Erfolgsmonitoring, Vdg 021 Bankentgelte Sammelfaehigkeit Prüfen, Vdg 022 Bankentgelte Klageschrift Strukturiere, Vdg 023 Bankentgelte Anspruchsgruppen Bilden prüfen.; Erstelle eine Arbeitsfassung zu Vdg 020 Erfolgsmonitoring, Vdg 021 Bankentgelte Sammelfaehigkeit Prüfen, Vdg 022 Bankentgelte Klageschrift Strukturiere, Vdg 023 Bankentgelte Anspruchsgruppen Bilden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vdg 020 Erfolgsmonitoring, Vdg 021 Bankentgelte Sammelfaehigkeit Prüfen, Vdg 022 Bankentgelte Klageschrift Strukturiere, Vdg 023 Bankentgelte Anspruchsgruppen Bilden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vdg 020 Erfolgsmonitoring, Vdg 021 Bankentgelte Sammelfaehigkeit Prüfen, Vdg 022 Bankentgelte Klageschrift Strukturiere, Vdg 023 Bankentgelte Anspruchsgruppen Bilden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vdg 020 Erfolgsmonitoring, Vdg 021 Bankentgelte Sammelfaehigkeit Prüfen, Vdg 022 Bankentgelte Klageschrift Strukturiere, Vdg 023 Bankentgelte Anspruchsgruppen Bilden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

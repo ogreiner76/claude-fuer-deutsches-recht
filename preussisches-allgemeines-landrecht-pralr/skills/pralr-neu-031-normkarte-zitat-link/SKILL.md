@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-031-normkarte-zitat-link
-description: "Nutze dies, wenn PrALR: Normkarte Zitat mit Link zum Digitalisat im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte PrALR: Normkarte Zitat mit Link zum Digitalisat prüfen.; Erstelle eine Arbeitsfassung zu PrALR: Normkarte Zitat mit Link zum Digitalisat.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei PrALR: Normkarte Zitat mit Link zum Digitalisat: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # PrALR: Normkarte Zitat mit Link zum Digitalisat

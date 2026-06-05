@@ -1,13 +1,13 @@
 ---
 name: kapitalwert-korrespondierender-kindeswohl
-description: "Nutze dies, wenn Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg prüfen.; Erstelle eine Arbeitsfassung zu Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kapitalwert Korrespondierender Kapitalwert Prüfen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten, Kurze Ehezeit 3 Abs 3 Versausglg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -104,7 +104,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Auftrag
 
-Dieser Spezialskill ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
+Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit Allgemeinplätzen, sondern ordnet die Akte nach Anspruchsziel, Frist, Beweis, Gegenseite, Gericht und wirtschaftlichem Ergebnis.
 
 ## Normanker
 

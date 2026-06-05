@@ -8,7 +8,7 @@ description: "Erklärt, wo Partei frei regeln kann und wo PartG, Wahlrecht oder 
 ## Aufgabe
 Erklärt, wo Partei frei regeln kann und wo PartG, Wahlrecht oder demokratische Mindeststandards Grenzen setzen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

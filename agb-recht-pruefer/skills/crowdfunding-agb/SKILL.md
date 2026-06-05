@@ -1,6 +1,6 @@
 ---
 name: crowdfunding-agb
-description: "Branchen-Spezialskill für Crowdfunding AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Crowdfunding AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Crowdfunding AGB

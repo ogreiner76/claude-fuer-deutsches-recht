@@ -1,12 +1,12 @@
 ---
 name: geltend
-description: "Nutze dies, wenn Geltend: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Geltend: Fristen, Form, Zuständigkeit und Rechtsweg prüfen.; Erstelle eine Arbeitsfassung zu Geltend: Fristen, Form, Zuständigkeit und Rechtsweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Geltend: Fristen, Form, Zuständigkeit und Rechtsweg: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Geltend: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Geltend: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Geltend: Fristen, Form, Zuständigkeit und Rechtsweg / spezial geltend fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Geltend: Fristen, Form, Zuständigkeit und Rechtsweg / geltend fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

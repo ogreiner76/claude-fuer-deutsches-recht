@@ -1,22 +1,22 @@
 ---
 name: abschlusspruefer-steuerung-aufsichtsrat
-description: "Nutze dies, wenn Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router im Plugin Aufsichtsrat Ag Se Praxis konkret bearbeitet werden soll. Auslöser: Bitte Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router prüfen.; Erstelle eine Arbeitsfassung zu Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `abschlusspruefer-steuerung` | AG/SE-Aufsichtsrat Praxis: Abschlusspruefer Steuerung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `aufsichtsrat-steuer-compliance` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Steuer Compliance; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `ad-hoc-und-aufsichtsrat` | AG/SE-Aufsichtsrat Praxis: Ad Hoc Und Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `ag-se-boersennotiert-router` | AG/SE-Aufsichtsrat Praxis: AG SE Boersennotiert Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `abschlusspruefer-steuerung` | AG/SE-Aufsichtsrat Praxis: Abschlusspruefer Steuerung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `aufsichtsrat-steuer-compliance` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Steuer Compliance; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ad-hoc-und-aufsichtsrat` | AG/SE-Aufsichtsrat Praxis: Ad Hoc Und Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `ag-se-boersennotiert-router` | AG/SE-Aufsichtsrat Praxis: AG SE Boersennotiert Router; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Au
 
 ## 1. `abschlusspruefer-steuerung`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Abschlusspruefer Steuerung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Abschlusspruefer Steuerung; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Abschlusspruefer Steuerung
 
@@ -87,7 +87,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `aufsichtsrat-steuer-compliance`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Steuer Compliance; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Steuer Compliance; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat Steuer Compliance
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `ad-hoc-und-aufsichtsrat`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: Ad Hoc Und Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Ad Hoc Und Aufsichtsrat; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Ad Hoc Und Aufsichtsrat
 
@@ -201,7 +201,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `ag-se-boersennotiert-router`
 
-**Fokus:** AG/SE-Aufsichtsrat Praxis: AG SE Boersennotiert Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: AG SE Boersennotiert Router; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # AG SE Boersennotiert Router
 

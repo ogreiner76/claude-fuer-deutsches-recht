@@ -1,19 +1,19 @@
 ---
 name: versorgungstraeger-antwort-zielversorgung
-description: "Nutze dies, wenn Versorgungstraeger Antwort Prüfen, Zielversorgung Waehlen Externe Teilung im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Versorgungstraeger Antwort Prüfen, Zielversorgung Waehlen Externe Teilung prüfen.; Erstelle eine Arbeitsfassung zu Versorgungstraeger Antwort Prüfen, Zielversorgung Waehlen Externe Teilung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Versorgungstraeger Antwort Prüfen, Zielversorgung Waehlen Externe Teilung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Versorgungstraeger Antwort Prüfen, Zielversorgung Waehlen Externe Teilung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Versorgungstraeger Antwort Prüfen, Zielversorgung Waehlen Externe Teilung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `versorgungstraeger-antwort-pruefen` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträger Antwort prüfen. |
+| `versorgungstraeger-antwort-pruefen` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträger Antwort prüfen. |
 | `zielversorgung-waehlen-externe-teilung` | Zielversorgung wählen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 
 ## Arbeitsweg
@@ -25,7 +25,7 @@ Für **Versorgungstraeger Antwort Prüfen, Zielversorgung Waehlen Externe Teilun
 
 ## 1. `versorgungstraeger-antwort-pruefen`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträger Antwort prüfen.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträger Antwort prüfen.
 
 # Versorgungsträger Antwort prüfen
 

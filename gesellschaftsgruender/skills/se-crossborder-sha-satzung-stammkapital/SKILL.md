@@ -1,13 +1,13 @@
 ---
 name: se-crossborder-sha-satzung-stammkapital
-description: "Nutze dies, wenn Gesellschaftsgründer Se Und Crossborder, Gesellschaftsgründer Sha Satzung Stimmverpflichtung, Gesellschaftsgründer Stammkapital Einzahlung, Gesellschaftsgründer Stammkapitalverlust Paragraf 49 Gmbhg, Gesellschaftsgründer Transparenzregister im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Se Und Crossborder, Gesellschaftsgründer Sha Satzung Stimmverpflichtung, Gesellschaftsgründer Stammkapital Einzahlung, Gesellschaftsgründer Stammkapitalverlust Paragraf 49 Gmbhg, Gesellschaftsgründer Transparenzregister prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Se Und Crossborder, Gesellschaftsgründer Sha Satzung Stimmverpflichtung, Gesellschaftsgründer Stammkapital Einzahlung, Gesellschaftsgründer Stammkapitalverlust Paragraf 49 Gmbhg, Gesellschaftsgründer Transparenzregister.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Se Und Crossborder, Gesellschaftsgruender Sha Satzung Stimmverpflichtung, Gesellschaftsgruender Stammkapital Einzahlung, Gesellschaftsgruender Stammkapitalverlust Paragraf 49 Gmbhg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Se Und Crossborder, Gesellschaftsgründer Sha Satzung Stimmverpflichtung, Gesellschaftsgründer Stammkapital Einzahlung, Gesellschaftsgründer Stammkapitalverlust Paragraf 49 Gmbhg, Gesellschaftsgründer Transparenzregister
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Se Und Crossborder, Gesellschaftsgründer Sha Satzung Stimmverpflichtung, Gesellschaftsgründer Stammkapital Einzahlung, Gesellschaftsgründer Stammkapitalverlust Paragraf 49 Gmbhg, Gesellschaftsgründer Transparenzregister** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -304,8 +304,8 @@ entsprechen, gefasst werden.
 (2) Insbesondere verpflichten sich die Gesellschafter,
 folgenden Beschluessen nur dann zuzustimmen, wenn
 [BEDINGUNG]:
-  a) Aenderung der Satzung;
-  b) [WEITERE THEMEN].
+ a) Aenderung der Satzung;
+ b) [WEITERE THEMEN].
 
 (3) Bei Verstoss gegen Abs. 1 oder 2 schuldet der
 verstossende Gesellschafter den anderen Gesellschaftern
@@ -558,16 +558,16 @@ KONTONUMMER: [IBAN]
 BANK: [NAME]
 
 EINZAHLENDE GESELLSCHAFTER:
-  [NAME 1]: [BETRAG] EUR (Ueberweisung von Konto [IBAN])
-  [NAME 2]: [BETRAG] EUR (Ueberweisung von Konto [IBAN])
+ [NAME 1]: [BETRAG] EUR (Ueberweisung von Konto [IBAN])
+ [NAME 2]: [BETRAG] EUR (Ueberweisung von Konto [IBAN])
 
 BANKBESTAETIGUNG ERHALTEN: Ja / Nein | Datum: [DATUM]
 WORTLAUT: "Betrag steht zur freien Verfuegung des GF"
 
 HIN-UND-HERZAHLEN-CHECK:
-  Geplanter Kauf vom Gesellschafter: Ja / Nein
-  Falls Ja: Zeitabstand zum Einzahlungsdatum: [N] Monate
-  Risiko: [OK / ERHOEHTES RISIKO — Pruefung empfohlen]
+ Geplanter Kauf vom Gesellschafter: Ja / Nein
+ Falls Ja: Zeitabstand zum Einzahlungsdatum: [N] Monate
+ Risiko: [OK / ERHOEHTES RISIKO — Pruefung empfohlen]
 
 EIDESSTATTLICHE VERSICHERUNG GF: [NAME] am [DATUM]
 
@@ -630,7 +630,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Prüfschema § 49 Abs. 3 GmbHG
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Ergebnis |
 |---|---|---|
@@ -696,13 +696,13 @@ Ort: [Adresse] / Video-Link: [ggf. URL]
 
 TAGESORDNUNG
 1. Bericht der Geschäftsführung zur Lage der Gesellschaft (§ 49 Abs. 3 GmbHG)
-   - Eigenkapital-Status (Stand [Datum])
-   - Ursachen der Entwicklung
-   - Liquiditätsprognose
+ - Eigenkapital-Status (Stand [Datum])
+ - Ursachen der Entwicklung
+ - Liquiditätsprognose
 2. Beratung und Beschlussfassung über Sanierungsmaßnahmen
-   a) Kapitalerhöhung (bar oder durch Gesellschafterdarlehen)
-   b) Betriebliche Restrukturierungsmaßnahmen
-   c) Einleitung StaRUG-Verfahren gemäß § 31 StaRUG (falls drohende Zahlungsunfähigkeit)
+ a) Kapitalerhöhung (bar oder durch Gesellschafterdarlehen)
+ b) Betriebliche Restrukturierungsmaßnahmen
+ c) Einleitung StaRUG-Verfahren gemäß § 31 StaRUG (falls drohende Zahlungsunfähigkeit)
 3. Sonstiges
 
 Zu Ziffer 2 werden wir konkrete Beschlussvorlagen vorlegen.
@@ -824,8 +824,8 @@ Erstellt von: [Name, Funktion]
 WIRTSCHAFTLICH BERECHTIGTE
 | Nr. | Name | Geburtsdatum | Wohnsitz | Staatsangeh. | Art des Interesses | Höhe |
 |----|------|-------------|---------|-------------|-------------------|------|
-| 1  | [Name] | [TT.MM.JJJJ] | [Stadt, Land] | [Dtsch.] | Direkte Beteiligung | [%] |
-| 2  | [Name] | [TT.MM.JJJJ] | [Stadt, Land] | [Dtsch.] | Mittelbar über [Holding GmbH] | [%] |
+| 1 | [Name] | [TT.MM.JJJJ] | [Stadt, Land] | [Dtsch.] | Direkte Beteiligung | [%] |
+| 2 | [Name] | [TT.MM.JJJJ] | [Stadt, Land] | [Dtsch.] | Mittelbar über [Holding GmbH] | [%] |
 
 Fiktiver wirtschaftlich Berechtigter: [Ja — Name, Funktion / Nein]
 
@@ -862,7 +862,7 @@ Frühwarnung: Jede Änderung der Gesellschafterstruktur → sofort melden
 
 ## Übergabe an andere Skills
 
-- `gesellschaftsgruender-kommandocenter` — Master-Workflow Gründung
+- `gesellschaftsgruender-kommandocenter` — Master-Gründung
 - `gesellschaftsgruender-handelsregister-anmeldung` — HR-Eintragung vor Transparenzregister
 - `gesellschaftsgruender-cap-table` — Gesellschafterstruktur als Grundlage der Meldung
 - `gesellschaftsgruender-gesellschaftervereinbarung` — Kontrollrechte aus SHA als Meldegrundlage

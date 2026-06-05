@@ -1,21 +1,21 @@
 ---
 name: vorstandsvorlage-regulierungsrisiko
-description: "Nutze dies, wenn Verfahren Vorstandsvorlage Regulierungsrisiko, Verfahren Widerspruch Klage Verwaltungsgericht, Zustaendigkeitsradar Energie Telekom Post Eisenbahn Digitales, Energie Regulierungsakte Bilanzkreis Gas Stellungnahme Entwurf, Energie Regulierungsakte Bilanzkreis Strom Stellungnahme Entwurf und 3 weitere Themen im Plugin Bundesnetzagentur Verfahren konkret bearbeitet werden soll. Auslöser: Bitte Verfahren Vorstandsvorlage Regulierungsrisiko, Verfahren Widerspruch Klage Verwaltungsgericht, Zustaendigkeitsradar Energie Telekom Post Eisenbahn Digitales, Energie Regulierungsakte Bilanzkreis Gas Stellungnahme Entwurf, Energie Regulierungsakte Bilanzkreis Strom Stellungnahme Entwurf und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Verfahren Vorstandsvorlage Regulierungsrisiko, Verfahren Widerspruch Klage Verwaltungsgericht, Zustaendigkeitsradar Energie Telekom Post Eisenbahn Digitales, Energie Regulierungsakte Bilanzkreis Gas Stellungnahme Entwurf, Energie Regulie..."
+description: "Nutze dies bei Verfahren Vorstandsvorlage Regulierungsrisiko, Verfahren Widerspruch Klage Verwaltungsgericht, Zustaendigkeitsradar Energie Telekom Post Eisenbahn Digitales, Energie Regulierungsakte Bilanzkreis Gas Stellungnahme Entwurf: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verfahren Vorstandsvorlage Regulierungsrisiko, Verfahren Widerspruch Klage Verwaltungsgericht, Zustaendigkeitsradar Energie Telekom Post Eisenbahn Digitales, Energie Regulierungsakte Bilanzkreis Gas Stellungnahme Entwurf, Energie Regulierungsakte Bilanzkreis Strom Stellungnahme Entwurf und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verfahren Vorstandsvorlage Regulierungsrisiko, Verfahren Widerspruch Klage Verwaltungsgericht, Zustaendigkeitsradar Energie Telekom Post Eisenbahn Digitales, Energie Regulierungsakte Bilanzkreis Gas Stellungnahme Entwurf, Energie Regulierungsakte Bilanzkreis Strom Stellungnahme Entwurf und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `verfahren-vorstandsvorlage-regulierungsrisiko` | Verfahren / Vorstandsvorlage Regulierungsrisiko: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
-| `verfahren-widerspruch-klage-verwaltungsgericht` | Verfahren / Widerspruch Klage Verwaltungsgericht: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
-| `zustaendigkeitsradar-energie-telekom-post-eisenbahn-digitales` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales. |
+| `verfahren-vorstandsvorlage-regulierungsrisiko` | Verfahren / Vorstandsvorlage Regulierungsrisiko: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
+| `verfahren-widerspruch-klage-verwaltungsgericht` | Verfahren / Widerspruch Klage Verwaltungsgericht: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
+| `zustaendigkeitsradar-energie-telekom-post-eisenbahn-digitales` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales. |
 | `energie-regulierungsakte-bilanzkreis-gas-stellungnahme-entwurf` | Bilanzkreis Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 | `energie-regulierungsakte-bilanzkreis-strom-stellungnahme-entwurf` | Bilanzkreis Strom: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 | `energie-regulierungsakte-kwkg-zuschlaege-stellungnahme-entwurf` | KWKG Zuschläge: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
@@ -31,7 +31,7 @@ Für **Verfahren Vorstandsvorlage Regulierungsrisiko, Verfahren Widerspruch Klag
 
 ## 1. `verfahren-vorstandsvorlage-regulierungsrisiko`
 
-**Fokus:** Verfahren / Vorstandsvorlage Regulierungsrisiko: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Vorstandsvorlage Regulierungsrisiko: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Vorstandsvorlage Regulierungsrisiko
 
@@ -71,7 +71,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `verfahren-widerspruch-klage-verwaltungsgericht`
 
-**Fokus:** Verfahren / Widerspruch Klage Verwaltungsgericht: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Widerspruch Klage Verwaltungsgericht: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Widerspruch Klage Verwaltungsgericht
 
@@ -111,7 +111,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `zustaendigkeitsradar-energie-telekom-post-eisenbahn-digitales`
 
-**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales.
+**Fokus:** zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales.
 
 # Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales
 

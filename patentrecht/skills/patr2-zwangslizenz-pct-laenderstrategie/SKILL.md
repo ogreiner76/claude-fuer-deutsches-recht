@@ -1,13 +1,13 @@
 ---
 name: patr2-zwangslizenz-pct-laenderstrategie
-description: "Nutze dies, wenn Patr2 Zwangslizenz Spezial, Pct Laenderstrategie Und Nationalphasen, Pruefungsbescheid Dpma Epa Erwiderung im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Patr2 Zwangslizenz Spezial, Pct Laenderstrategie Und Nationalphasen, Pruefungsbescheid Dpma Epa Erwiderung prüfen.; Erstelle eine Arbeitsfassung zu Patr2 Zwangslizenz Spezial, Pct Laenderstrategie Und Nationalphasen, Pruefungsbescheid Dpma Epa Erwiderung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patr2 Zwangslizenz Spezial, Pct Laenderstrategie Und Nationalphasen, Pruefungsbescheid Dpma Epa Erwiderung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patr2 Zwangslizenz Spezial, Pct Laenderstrategie Und Nationalphasen, Pruefungsbescheid Dpma Epa Erwiderung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patr2 Zwangslizenz Spezial, Pct Laenderstrategie Und Nationalphasen, Pruefungsbescheid Dpma Epa Erwiderung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,7 +87,7 @@ Dieser Skill gehoert zum Plugin `patentrecht`. Er ergaenzt die uebrigen Skills d
 
 Internationale Anmeldestrategie über Paris/PCT mit Budget-, Markt- und Fristenlogik.
 
-## Kaltstart
+## Einstieg
 
 Frage zu Beginn nur die Punkte ab, die für die nächste irreversible Entscheidung gebraucht werden:
 

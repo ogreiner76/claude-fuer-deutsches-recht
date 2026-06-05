@@ -59,7 +59,7 @@ umfassend zur Vertretung, insbesondere zur:
 - Entgegennahme von Bescheiden und Schriftstuecken (§ 122 Abs. 1 S. 4 AO)
 - Verhandlungsfuehrung mit dem Finanzamt und Vereinbarungen tatsaechlicher Verstaendigung
 
-[ORT, DATUM]                          [UNTERSCHRIFT]
+[ORT, DATUM] [UNTERSCHRIFT]
 ```
 
 ## Abgrenzung zu anderen Skills dieses Plugins

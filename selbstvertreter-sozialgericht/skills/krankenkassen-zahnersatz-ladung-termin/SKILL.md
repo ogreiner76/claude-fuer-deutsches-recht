@@ -1,13 +1,13 @@
 ---
 name: krankenkassen-zahnersatz-ladung-termin
-description: "Nutze dies, wenn Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien, Mitwirkungspflicht 60 Bis 67 Sgb I im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien, Mitwirkungspflicht 60 Bis 67 Sgb I prüfen.; Erstelle eine Arbeitsfassung zu Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien, Mitwirkungspflicht 60 Bis 67 Sgb I.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien, Mitwirkungspflicht 60 Bis 67 Sgb I
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien, Mitwirkungspflicht 60 Bis 67 Sgb I** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -275,7 +275,7 @@ Wenn die Behoerde noch einen ablehnenden Bescheid hat: Sie brauchen erst Widersp
 ### Schritt 2 — Klageschrift
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 [Name]
 [Adresse]

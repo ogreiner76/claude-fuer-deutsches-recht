@@ -1,13 +1,13 @@
 ---
 name: datenschutz-auskunftsersuchen-art-bank
-description: "Nutze dies, wenn Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung Score Beweisplan, Datenschutz Beschwerde Art 77 Aufsichtsbehoerde, Datenschutz Beschwerde Aufsicht Auskunftei, Datenschutz Betroffenenrechte Art 15 22 Orchestriert im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung Score Beweisplan, Datenschutz Beschwerde Art 77 Aufsichtsbehoerde, Datenschutz Beschwerde Aufsicht Auskunftei, Datenschutz Betroffenenrechte Art 15 22 Orchestriert prüfen.; Erstelle eine Arbeitsfassung zu Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung Score Beweisplan, Datenschutz Beschwerde Art 77 Aufsichtsbehoerde, Datenschutz Beschwerde Aufsicht Auskunftei, Datenschutz Betroffenenrechte Art 15 22 Orchestriert.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung Score Beweisplan, Datenschutz Beschwerde Art 77 Aufsichtsbehoerde, Datenschutz Beschwerde Aufsicht Auskunftei: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung Score Beweisplan, Datenschutz Beschwerde Art 77 Aufsichtsbehoerde, Datenschutz Beschwerde Aufsicht Auskunftei, Datenschutz Betroffenenrechte Art 15 22 Orchestriert
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Datenschutz Auskunftsersuchen Art 15 Praxis, Datenschutz Bank Ablehnung Score Beweisplan, Datenschutz Beschwerde Art 77 Aufsichtsbehoerde, Datenschutz Beschwerde Aufsicht Auskunftei, Datenschutz Betroffenenrechte Art 15 22 Orchestriert** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -17,7 +17,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `datenschutz-bank-ablehnung-score-beweisplan` | Beweis- und Anspruchsplan bei Konto-, Kredit-, Leasing- oder Mietablehnung wegen Auskunftei-/Score-Daten. |
 | `datenschutz-beschwerde-art-77-aufsichtsbehoerde` | Beschwerde Art. 77 DSGVO bei zustaendiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zustaendig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-fuer-Schritt fuer beide Seiten. Mustertexte fuer Beschwerdeschreiben Stellungnahme und Anhoerungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung). |
 | `datenschutz-beschwerde-aufsicht-auskunftei` | Beschwerde nach Art. 77 DSGVO gegen SCHUFA/Credit Agency: Zuständigkeit, Sachverhalt, Anträge, Belege, gerichtliche Kontrolle. |
-| `datenschutz-betroffenenrechte-art-15-22-orchestriert` | Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-fuer-Schritt-Anleitung. Routing zu Spezialskills. Mustertexte fuer Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung). |
+| `datenschutz-betroffenenrechte-art-15-22-orchestriert` | Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-fuer-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte fuer Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung). |
 
 ## Arbeitsweg
 
@@ -364,7 +364,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 5. `datenschutz-betroffenenrechte-art-15-22-orchestriert`
 
-**Fokus:** Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-fuer-Schritt-Anleitung. Routing zu Spezialskills. Mustertexte fuer Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung).
+**Fokus:** Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-fuer-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte fuer Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen ueber spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung).
 
 # Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert
 

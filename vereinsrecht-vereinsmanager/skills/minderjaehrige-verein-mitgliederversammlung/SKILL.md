@@ -1,13 +1,13 @@
 ---
 name: minderjaehrige-verein-mitgliederversammlung
-description: "Nutze dies, wenn Minderjaehrige Im Verein, Mitgliederversammlung Einberufung, Mitgliedsbeitraege im Plugin Vereinsrecht Vereinsmanager konkret bearbeitet werden soll. Auslöser: Bitte Minderjaehrige Im Verein, Mitgliederversammlung Einberufung, Mitgliedsbeitraege prüfen.; Erstelle eine Arbeitsfassung zu Minderjaehrige Im Verein, Mitgliederversammlung Einberufung, Mitgliedsbeitraege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Minderjaehrige Im Verein, Mitgliederversammlung Einberufung, Mitgliedsbeitraege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Minderjaehrige Im Verein, Mitgliederversammlung Einberufung, Mitgliedsbeitraege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Minderjaehrige Im Verein, Mitgliederversammlung Einberufung, Mitgliedsbeitraege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Minderjaehrige Im Verein, Mitgliederversammlung Einberufung, Mitgliedsbei
 ## Aufgabe
 Prüft Mitgliedschaft, Zustimmung Eltern, Aufsicht, Fotos, Schutzkonzept und Kinderschutz.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erstellt Einladung, Fristcheck, Tagesordnung, Beschlussgegenstände und Versandnachweis.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -93,8 +93,8 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ### 1. Einberufungspflicht (§ 36 BGB)
 - **Regelmäßig** in den von Satzung vorgesehenen Fällen (mindestens 1x jährlich üblich).
 - **Außerordentlich** wenn:
-  - Interesse des Vereins es erfordert (§ 36 BGB),
-  - schriftliches Verlangen von 10 % der Mitglieder (§ 37 BGB; Satzung kann andere Quote bestimmen).
+ - Interesse des Vereins es erfordert (§ 36 BGB),
+ - schriftliches Verlangen von 10 % der Mitglieder (§ 37 BGB; Satzung kann andere Quote bestimmen).
 - **Notfalleinberufung** durch Mitglieder § 37 II BGB bei Verweigerung des Vorstands.
 
 ### 2. Einberufungsorgan (§ 36 BGB)
@@ -194,7 +194,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Gestaltet Beitragsordnung, Fälligkeit, Mahnung, Sozialklausel, Umlagen und Beitragserhöhung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

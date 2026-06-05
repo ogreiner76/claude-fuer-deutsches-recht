@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Nutze dies, wenn Einstieg und Routing im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Fachanwalt Verwaltungsrecht.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Einstieg und Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Einstieg und Routing
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Fachanwalt Verwaltungsrecht** ein Fall noc
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Workflow Chronologie Workflow Fristen
+- `allgemein-workflow-chronologie-workflow-fristen` — Allgemein Chronologie Fristen
 - `anfechtungs-eilrechtsschutz-abs-eilrechtsschutz` — Anfechtungs Eilrechtsschutz Abs Eilrechtsschutz
 - `einstweilige-fachanwalt-kanzlei` — Einstweilige Fachanwalt Kanzlei
 - `erstgespraech-mandatsannahme-fa-vwgo-anfechtungsklage` — Erstgespraech Mandatsannahme Fa Vwgo Anfechtungsklage

@@ -1,13 +1,13 @@
 ---
 name: wehrpflicht-wehrdienst-wehrpflichtgesetz
-description: "Nutze dies, wenn Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und Verteidigungsfall, Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle im Plugin Bundeswehrrecht Wehrrecht konkret bearbeitet werden soll. Auslöser: Bitte Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und Verteidigungsfall, Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle prüfen.; Erstelle eine Arbeitsfassung zu Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und Verteidigungsfall, Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und Verteidigungsfall, Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und Verteidigungsfall, Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wehrpflicht Wehrdienst Reservist Routing, Wehrpflichtgesetz Spannungs Und Verteidigungsfall, Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -110,7 +110,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -221,7 +221,7 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
-  (openjur.de, bverwg.de, bverfg.de, bgh.de).
+ (openjur.de, bverwg.de, bverfg.de, bgh.de).
 - Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
 - Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
 
@@ -280,16 +280,16 @@ Das Wehrstrafgesetz (WStG) ergänzt das StGB um spezifische soldatische Tatbest�
 - § 16 WDO: Aussetzung des Disziplinarverfahrens bei parallel laufender Strafsache.
 - § 50 SG: Entlassung aus dem Dienstverhältnis bei strafrechtlicher Verurteilung (Berufssoldat: Verlust der Rechte als Soldat ab 1 Jahr Freiheitsstrafe).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Tatbestand sortieren.** § 15 (zeitliche Dauer, kein Entziehungswille) vs. § 16 (Entziehungsabsicht). Bei Rückkehr binnen drei Tagen vermutet die Rspr. regelmäßig keine Entziehungsabsicht.
 2. **Anhörung/Vernehmung sichern.** Soldatischer Beschuldigtenstatus – Schweigerecht, Verteidigerkonsultation vor jeder Vernehmung.
 3. **Akteneinsicht.** § 147 StPO – Verteidiger nimmt Einsicht; eigene Akteneinsicht durch Beschuldigten begrenzt.
 4. **Parallelverfahren managen.** WDO-Verfahren beantragen ruhen zu lassen (§ 16 WDO) bis Strafverfahren abgeschlossen.
 5. **Materielle Verteidigung.**
-   - § 16: Bestreiten der Entziehungsabsicht.
-   - § 19/20: Befehlsrechtmäßigkeit, Remonstration nachweisen, § 5 WStG prüfen.
-   - § 15: Notwehr/Notstand bei familiärer/medizinischer Sondersituation.
+ - § 16: Bestreiten der Entziehungsabsicht.
+ - § 19/20: Befehlsrechtmäßigkeit, Remonstration nachweisen, § 5 WStG prüfen.
+ - § 15: Notwehr/Notstand bei familiärer/medizinischer Sondersituation.
 6. **Folgenfrage.** § 50 SG-Schwelle: Bei 1 Jahr Freiheitsstrafe ohne Bewährung tritt die Entlassung kraft Gesetzes ein.
 7. **Versorgungsfolgen.** Verlust von Versorgungsansprüchen bei Verurteilung (§ 38 SVG entsprechend).
 

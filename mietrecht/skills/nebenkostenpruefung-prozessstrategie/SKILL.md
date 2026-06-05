@@ -1,13 +1,13 @@
 ---
 name: nebenkostenpruefung-prozessstrategie
-description: "Nutze dies, wenn Spezial Nebenkostenpruefung Formular Portal Und Einreichung, Spezial Prozessstrategie Mieterhoehung, Spezial Quellen Schriftsatz Brief Und Memo Bausteine im Plugin Mietrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Nebenkostenpruefung Formular Portal Und Einreichung, Prozessstrategie Mieterhoehung, Quellen Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Nebenkostenpruefung Formular Portal Und Einreichung, Spezial Prozessstrategie Mieterhoehung, Spezial Quellen Schriftsatz Brief Und Memo Bausteine
+# Nebenkostenpruefung Formular Portal Und Einreichung, Prozessstrategie Mieterhoehung, Quellen Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nebenkostenpruefung Formular Portal Und Einreichung, Prozessstrategie Mieterhoehung, Quellen Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,11 +15,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `spezial-nebenkostenpruefung-formular-portal-und-einreichung` | Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Belegeinsicht verlangen, Einwendungen fristwahrend formulieren, Rückzahlungsanspruch beziffern, Mahnung/Mahnverfahren/Klage behandeln und Unterlagen für Amtsgericht oder Mieter-/Vermieterportal ordnen. |
 | `spezial-prozessstrategie-mieterhoehung` | Prozessstrategie bei Mieterhöhung, Belegen und Sachverständigenrisiko: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-quellen-schriftsatz-brief-und-memo-bausteine` | Quellen: Schriftsatz-, Brief- und Memo-Bausteine im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-quellen-schriftsatz-brief-und-memo-bausteine` | Quellen: Schriftsatz-, Brief- und Memo-Bausteine im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Nebenkostenpruefung Formular Portal Und Einreichung, Spezial Prozessstrategie Mieterhoehung, Spezial Quellen Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Nebenkostenpruefung Formular Portal Und Einreichung, Prozessstrategie Mieterhoehung, Quellen Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `mietrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -43,7 +43,7 @@ Für **Spezial Nebenkostenpruefung Formular Portal Und Einreichung, Spezial Proz
 
 Dieser Skill baut aus einer fehlerhaften oder bestrittenen Betriebskostenabrechnung ein verwertbares Arbeitspaket: fristwahrendes Einwendungsschreiben, Belegeinsicht, Korrekturberechnung, Rückzahlungsaufforderung, Mahn-/Klageabwehr oder Klagepaket zum Amtsgericht.
 
-## Kaltstart
+## Einstieg
 
 1. Wer reicht ein: Mieter, Vermieter, Verwaltung, Anwalt?
 2. Wo soll es hin: Gegenseite, Hausverwaltungsportal, Mieterverein, Rechtsschutz, Mahngericht, Amtsgericht?
@@ -58,11 +58,11 @@ Dieser Skill baut aus einer fehlerhaften oder bestrittenen Betriebskostenabrechn
 3. **Streitbetrag rechnen**: unstreitig, streitig, zurückbehalten, gezahlt unter Vorbehalt.
 4. **Dokumente ordnen**: Anlagenverzeichnis mit Datum, Absender, Inhalt, Beweiswert.
 5. **Verfahrenspfad wählen**:
-   - außergerichtliche Korrektur,
-   - Rückzahlungsverlangen,
-   - Verteidigung gegen Mahnung/Mahnbescheid,
-   - Klage auf Rückzahlung oder Feststellung,
-   - Klage des Vermieters auf Nachzahlung.
+ - außergerichtliche Korrektur,
+ - Rückzahlungsverlangen,
+ - Verteidigung gegen Mahnung/Mahnbescheid,
+ - Klage auf Rückzahlung oder Feststellung,
+ - Klage des Vermieters auf Nachzahlung.
 
 ## Portal-/Formularlogik
 
@@ -102,11 +102,11 @@ Dieser Skill baut aus einer fehlerhaften oder bestrittenen Betriebskostenabrechn
 
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `mietrecht`. Kontext des Plugins: Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `mietrecht`. Kontext des Plugins: Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -136,7 +136,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-quellen-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Quellen: Schriftsatz-, Brief- und Memo-Bausteine im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Quellen: Schriftsatz-, Brief- und Memo-Bausteine im Mietrecht: fachlich vertiefter Fachmodul mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Quellen: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -150,7 +150,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 
 ## Spezialwissen: Quellen: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Quellen: Schriftsatz-, Brief- und Memo-Bausteine / spezial quellen schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Quellen: Schriftsatz-, Brief- und Memo-Bausteine / quellen schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

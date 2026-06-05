@@ -1,13 +1,13 @@
 ---
 name: dokumenten-upload-formfehler-heilungs
-description: "Nutze dies, wenn Dokumenten Upload Extraktion, Formfehler Heilungs Timeline im Plugin Wandeldarlehen Lebenszyklus konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Dokumenten Upload Extraktion, Formfehler Heilungs Timeline: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dokumenten Upload Extraktion, Formfehler Heilungs Timeline
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dokumenten Upload Extraktion, Formfehler Heilungs Timeline** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -208,15 +208,15 @@ Bei Wandeldarlehen sind Form-Fragen oft komplex (Textform reicht für Verpflicht
 ### Beispiel-Fall
 
 ```
-Tag 0:    Wandeldarlehens-Vertrag unterzeichnet
-          (Textform via DocuSign mit SMS-OTP)
-Tag 1-7:  Auszahlung Darlehen
-Tag 8:    Gesellschaft uebermittelt Quartals-Bericht
-          Liquiditaets-Schwierigkeiten erkennbar
-Tag 9:    Geschaeftsfuehrer-Sitzung — Sanierungs-Plan
-          Pruefung Zahlungs-Unfaehigkeit § 17 InsO
-Tag 14:   Insolvenz-Antrag droht
-Tag 15:   Insolvenz-Antrag eingereicht
+Tag 0: Wandeldarlehens-Vertrag unterzeichnet
+ (Textform via DocuSign mit SMS-OTP)
+Tag 1-7: Auszahlung Darlehen
+Tag 8: Gesellschaft uebermittelt Quartals-Bericht
+ Liquiditaets-Schwierigkeiten erkennbar
+Tag 9: Geschaeftsfuehrer-Sitzung — Sanierungs-Plan
+ Pruefung Zahlungs-Unfaehigkeit § 17 InsO
+Tag 14: Insolvenz-Antrag droht
+Tag 15: Insolvenz-Antrag eingereicht
 ```
 
 #### Risiko-Konstellation

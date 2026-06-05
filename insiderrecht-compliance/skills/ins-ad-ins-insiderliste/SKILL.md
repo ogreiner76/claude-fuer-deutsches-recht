@@ -1,13 +1,13 @@
 ---
 name: ins-ad-ins-insiderliste
-description: "Nutze dies, wenn Ins 003 Ad Hoc Art17, Ins 005 Insiderliste Art18 im Plugin Insiderrecht Compliance konkret bearbeitet werden soll. Auslöser: Bitte Ins 003 Ad Hoc Art17, Ins 005 Insiderliste Art18 prüfen.; Erstelle eine Arbeitsfassung zu Ins 003 Ad Hoc Art17, Ins 005 Insiderliste Art18.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ins 003 Ad Hoc Art17, Ins 005 Insiderliste Art18: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ins 003 Ad Hoc Art17, Ins 005 Insiderliste Art18
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ins 003 Ad Hoc Art17, Ins 005 Insiderliste Art18** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -73,7 +73,7 @@ Inhaltspflichten nach Art. 17 MAR und BaFin-Emittentenleitfaden:
 ### Schritt 3 – Verbreitung
 
 - Übermittlung über ein zugelassenes Medienbündel (EQS Newswire / DGAP / äquivalent)
-  gleichzeitig an alle Medien, die im EWR einen breiten Anlegerkreis erreichen (Art. 2 DVO 2016/1055)
+ gleichzeitig an alle Medien, die im EWR einen breiten Anlegerkreis erreichen (Art. 2 DVO 2016/1055)
 - BaFin-Meldung gleichzeitig mit oder unmittelbar nach Veröffentlichung (§ 50 WpHG)
 - Handelsplatz-Meldung an alle relevanten Börsen (XETRA, Regionalbörsen, ausländische Plätze)
 
@@ -165,9 +165,9 @@ Zugang zu Insiderinformationen, z. B. Vorstand, Compliance-Officer).
 
 - Aufnahme unmittelbar bei Erkenntnis der Insiderinformation, nicht erst bei bestätigtem Abschluss
 - Jede aufgenommene Person muss schriftlich über:
-  a) das Bestehen einer Insiderinformation informiert werden
-  b) die rechtlichen Konsequenzen (Handelsverbote, Offenlegungsverbote) belehrt werden
-  c) die Belehrung unterschrieben zurücksenden
+ a) das Bestehen einer Insiderinformation informiert werden
+ b) die rechtlichen Konsequenzen (Handelsverbote, Offenlegungsverbote) belehrt werden
+ c) die Belehrung unterschrieben zurücksenden
 - Belehrungsnachweis ist Teil der Compliance-Akte
 
 ### Schritt 3 – Aktualisierungspflicht
@@ -182,7 +182,7 @@ Alle Änderungen sind mit Zeitstempel zu versehen.
 ### Schritt 4 – Externe Dienstleister und Berater
 
 - Banken, Kanzleien, WP-Gesellschaften, die Zugang zur Insiderinformation haben, müssen
-  eigene Listen führen (Art. 18 Abs. 2 MAR)
+ eigene Listen führen (Art. 18 Abs. 2 MAR)
 - Emittent muss sicherstellen, dass externe Parteien die Verpflichtung kennen und einhalten
 - Vertragliche Klausel in NDA / Beratervertrag empfehlen
 

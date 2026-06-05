@@ -1,6 +1,6 @@
 ---
 name: rom-069-pandektenwissenschaft
-description: "Römisches Recht: Pandektenwissenschaft. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Pandektenwissenschaft. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Pandektenwissenschaft

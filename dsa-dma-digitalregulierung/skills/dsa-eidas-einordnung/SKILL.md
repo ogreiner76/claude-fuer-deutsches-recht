@@ -1,13 +1,13 @@
 ---
 name: dsa-eidas-einordnung
-description: "Nutze dies, wenn Spezial Dsa Tatbestand Beweis Und Belege, Spezial Eidas Behörden Gericht Und Registerweg, Spezial Einordnung Zahlen Schwellen Und Berechnung im Plugin Dsa Dma Digitalregulierung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Dsa Tatbestand Beweis Und Belege, Spezial Eidas Behörden Gericht Und Registerweg, Spezial Einordnung Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Dsa Tatbestand Beweis Und Belege, Spezial Eidas Behörden Gericht Und Registerweg, Spezial Einordnung Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsa Tatbestand Beweis Und Belege, Eidas Behörden Gericht Und Registerweg, Einordnung Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Dsa Tatbestand Beweis Und Belege, Spezial Eidas Behörden Gericht Und Registerweg, Spezial Einordnung Zahlen Schwellen Und Berechnung
+# Dsa Tatbestand Beweis Und Belege, Eidas Behörden Gericht Und Registerweg, Einordnung Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsa Tatbestand Beweis Und Belege, Eidas Behörden Gericht Und Registerweg, Einordnung Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Dsa Tatbestand Beweis Und Belege, Spezial Eidas Behörden Gericht Und Registerweg, Spezial Einordnung Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Dsa Tatbestand Beweis Und Belege, Eidas Behörden Gericht Und Registerweg, Einordnung Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `dsa-dma-digitalregulierung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Dsa Tatbestand Beweis Und Belege, Spezial Eidas Behörden Gericht
 # DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial dsa tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage / dsa tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DSA, EU, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -95,7 +95,7 @@ Schnelle Entfernung mindert Haftungsrisiko, kann aber gegen Art. 17 (Begründung
 # Eidas: Behörden-, Gerichts- oder Registerweg
 
 ## Spezialwissen: Eidas: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Eidas: Behörden-, Gerichts- oder Registerweg / spezial eidas behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Eidas: Behörden-, Gerichts- oder Registerweg / eidas behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -121,13 +121,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **VO (EU) 910/2014 (eIDAS)** geändert durch **VO (EU) 2024/1183 (eIDAS 2.0)**: rechtsgültige eID, qualifizierte elektronische Signatur (QES), elektronische Siegel, Zeitstempel, qualifizierte Webseitenzertifikate, Einschreiben.
 - **EU Digital Identity Wallet (EUDI Wallet)**: Mitgliedstaaten müssen Wallet bereitstellen.
 - **Zuständige Aufsicht in DE:**
-  - **BNetzA** als Aufsicht über qualifizierte Vertrauensdiensteanbieter (§ 9 VDG).
-  - **BSI** für Sicherheitsanforderungen, Standards, Zertifizierungen.
+ - **BNetzA** als Aufsicht über qualifizierte Vertrauensdiensteanbieter (§ 9 VDG).
+ - **BSI** für Sicherheitsanforderungen, Standards, Zertifizierungen.
 - **Vertrauensliste der EU**: ec.europa.eu/digital-building-blocks/sites/display/EUDIGITALIDENTITYWALLET — Liste qualifizierter Vertrauensdiensteanbieter.
 - **Klagewege:**
-  - **Vor BNetzA**: Anhörung, Anordnung, Widerruf der Zulassung; gegen Anordnungen VG-Klage.
-  - **Zivilrecht**: §§ 6, 8 VDG (Vertrauensdienstegesetz) — Schadensersatzansprüche.
-  - **Strafrecht**: § 269 StGB Fälschung beweiserheblicher Daten, § 268 StGB Fälschung technischer Aufzeichnungen.
+ - **Vor BNetzA**: Anhörung, Anordnung, Widerruf der Zulassung; gegen Anordnungen VG-Klage.
+ - **Zivilrecht**: §§ 6, 8 VDG (Vertrauensdienstegesetz) — Schadensersatzansprüche.
+ - **Strafrecht**: § 269 StGB Fälschung beweiserheblicher Daten, § 268 StGB Fälschung technischer Aufzeichnungen.
 
 ## Praxis-Tipp
 QES (qualifizierte elektronische Signatur) hat nach § 126a BGB die Funktion der Schriftform. Bei Streit über die Beweiskraft elektronischer Signaturen sind das Vertrauensdienste-Zertifikat (mit gültigem Zeitstempel zur Signaturzeit), die Sperrlistenprüfung (OCSP/CRL) und die Vertrauensliste der EU die Beweisgrundlage.
@@ -151,7 +151,7 @@ QES (qualifizierte elektronische Signatur) hat nach § 126a BGB die Funktion der
 # Einordnung: Zahlen, Schwellenwerte und Berechnung
 
 ## Spezialwissen: Einordnung: Zahlen, Schwellenwerte und Berechnung
-- **Spezialgegenstand:** Einordnung: Zahlen, Schwellenwerte und Berechnung / spezial einordnung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Einordnung: Zahlen, Schwellenwerte und Berechnung / einordnung zahlen schwellen und berechnung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

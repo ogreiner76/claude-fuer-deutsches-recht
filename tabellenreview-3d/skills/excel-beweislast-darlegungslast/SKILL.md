@@ -1,12 +1,12 @@
 ---
 name: excel-beweislast-darlegungslast
-description: "Nutze dies, wenn Excel: Beweislast, Darlegungslast und Substantiierung im Plugin Tabellenreview 3d konkret bearbeitet werden soll. Auslöser: Bitte Excel: Beweislast, Darlegungslast und Substantiierung prüfen.; Erstelle eine Arbeitsfassung zu Excel: Beweislast, Darlegungslast und Substantiierung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Excel: Beweislast, Darlegungslast und Substantiierung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Excel: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Excel: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Excel: Beweislast, Darlegungslast und Substantiierung / spezial excel beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Excel: Beweislast, Darlegungslast und Substantiierung / excel beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DD.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

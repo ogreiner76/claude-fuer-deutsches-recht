@@ -1,13 +1,13 @@
 ---
 name: open-operate-reaktion
-description: "Nutze dies, wenn Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Open Formular Portal Und Einreichung, Operate Verhandlung Vergleich Und Eskalation, Reaktion Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen
+# Open Formular Portal Und Einreichung, Operate Verhandlung Vergleich Und Eskalation, Reaktion Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Open Formular Portal Und Einreichung, Operate Verhandlung Vergleich Und Eskalation, Reaktion Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Open Formular Portal Und Einreichung, Spezial Operate Verhandlung Vergleich Und Eskalation, Spezial Reaktion Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Open Formular Portal Und Einreichung, Operate Verhandlung Vergleich Und Eskalation, Reaktion Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gewerblicher-rechtsschutz` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -237,12 +237,12 @@ Mandatsbezug: EV ist vollzogen; Abmahner und Abgemahnter wollen Kosten und Risik
 - Vergleich außergerichtlich: Schriftlicher Vergleichsvertrag.
 - Vergleich gerichtlich: § 278 ZPO (Güterverhandlung) oder § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich mit Vollstreckungstitel).
 - Inhalte eines typischen IP-Vergleichs:
-  - Unterlassungspflicht mit Vertragsstrafe.
-  - Schadensersatz / Lizenzgebühr (pauschaler oder laufender Betrag).
-  - Kostenregelung.
-  - Freistellungsklausel (Schutz vor Ansprüchen Dritter).
-  - Geheimhaltungsklausel.
-  - Wirksamkeitsklausel bei Veränderung der Schutzrechtslage.
+ - Unterlassungspflicht mit Vertragsstrafe.
+ - Schadensersatz / Lizenzgebühr (pauschaler oder laufender Betrag).
+ - Kostenregelung.
+ - Freistellungsklausel (Schutz vor Ansprüchen Dritter).
+ - Geheimhaltungsklausel.
+ - Wirksamkeitsklausel bei Veränderung der Schutzrechtslage.
 
 ### Phase 4 – Eskalation (wenn Einigung scheitert)
 
@@ -437,9 +437,9 @@ Mandatsbezug: Deutsches Unternehmen entdeckt Verletzung seiner deutschen Marke d
 
 - **UDRP (Uniform Domain Name Dispute Resolution Policy):** Standardverfahren für generische Domains (.com, .net, .org).
 - **Voraussetzungen:**
-  1. Domain identisch oder verwechslungsfähig ähnlich mit Marke.
-  2. Kein legitimes Interesse des Domain-Inhabers.
-  3. Bösgläubige Registrierung und Benutzung.
+ 1. Domain identisch oder verwechslungsfähig ähnlich mit Marke.
+ 2. Kein legitimes Interesse des Domain-Inhabers.
+ 3. Bösgläubige Registrierung und Benutzung.
 - **Verfahren:** Online-Einreichung bei WIPO-Schiedsgericht; kein persönlicher Auftritt; Entscheidung meist in 2–3 Monaten.
 - **Ergebnis:** Übertragung oder Löschung der Domain.
 - **Alternativen:** .de-Domains über DENIC-Dispute; nationale TLDs über nationale Stellen.

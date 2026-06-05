@@ -1,6 +1,6 @@
 ---
 name: rom-056-hereditatis-petitio
-description: "Römisches Recht: Hereditatis Petitio. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Hereditatis Petitio. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Hereditatis Petitio

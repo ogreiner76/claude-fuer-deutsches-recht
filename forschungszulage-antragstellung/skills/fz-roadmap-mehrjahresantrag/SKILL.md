@@ -87,21 +87,21 @@ FuE-Vorhaben dauern oft 2 bis 4 Jahre. Die Forschungszulage ist nicht als Einmal
 Bezugnahme: BSFZ-Bescheinigung vom [Datum], Aktenzeichen [...], Vorhabenzeitraum [von] bis [bis].
 
 1. Vorhabensstand
-   - AP-1 abgeschlossen am [Datum]; Ergebnis: [...].
-   - AP-2 abgeschlossen am [Datum]; Ergebnis: [...].
-   - AP-3 in Bearbeitung; Stand: [...].
+ - AP-1 abgeschlossen am [Datum]; Ergebnis: [...].
+ - AP-2 abgeschlossen am [Datum]; Ergebnis: [...].
+ - AP-3 in Bearbeitung; Stand: [...].
 
 2. Personaleinsatz im Wirtschaftsjahr [Jahr]
-   - Mitarbeiter A: [Stunden], FuE-Anteil [Prozent].
-   - Mitarbeiter B: [...].
+ - Mitarbeiter A: [Stunden], FuE-Anteil [Prozent].
+ - Mitarbeiter B: [...].
 
 3. Bemessungsgrundlage [Jahr]
-   - Eigene Personalkosten: [Euro].
-   - Auftragsforschung (70 Prozent): [Euro].
-   - Eigenleistung: [Euro].
-   - AfA: [Euro].
-   - Pauschale 20 Prozent: [Euro].
-   - Summe BMG: [Euro].
+ - Eigene Personalkosten: [Euro].
+ - Auftragsforschung (70 Prozent): [Euro].
+ - Eigenleistung: [Euro].
+ - AfA: [Euro].
+ - Pauschale 20 Prozent: [Euro].
+ - Summe BMG: [Euro].
 
 4. Forschungszulage 25 Prozent / 35 Prozent KMU: [Euro].
 

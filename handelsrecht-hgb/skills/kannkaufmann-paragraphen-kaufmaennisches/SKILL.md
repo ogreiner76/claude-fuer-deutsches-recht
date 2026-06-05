@@ -1,13 +1,13 @@
 ---
 name: kannkaufmann-paragraphen-kaufmaennisches
-description: "Nutze dies, wenn Kannkaufmann Paragraphen 2 3 Hgb, Kaufmaennisches Bestaetigungsschreiben im Plugin Handelsrecht Hgb konkret bearbeitet werden soll. Auslöser: Bitte Kannkaufmann Paragraphen 2 3 Hgb, Kaufmaennisches Bestaetigungsschreiben prüfen.; Erstelle eine Arbeitsfassung zu Kannkaufmann Paragraphen 2 3 Hgb, Kaufmaennisches Bestaetigungsschreiben.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kannkaufmann Paragraphen 2 3 Hgb, Kaufmaennisches Bestaetigungsschreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kannkaufmann Paragraphen 2 3 Hgb, Kaufmaennisches Bestaetigungsschreiben
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kannkaufmann Paragraphen 2 3 Hgb, Kaufmaennisches Bestaetigungsschreiben** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

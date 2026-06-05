@@ -1,13 +1,13 @@
 ---
 name: qualitaetscheck-release-rechnungspruefung
-description: "Nutze dies, wenn Hoai Qualitaetscheck Vor Release, Hoai Rechnungspruefung Architekt, Hoai Sachverstaendigenfragen, Hoai Sonderkuendigung Bgb 650R, Hoai Stufenbeauftragung im Plugin Hoai Leistungsphasen Praxis konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Hoai Qualitaetscheck Vor Release, Hoai Rechnungspruefung Architekt, Hoai Sachverstaendigenfragen, Hoai Sonderkuendigung Bgb 650r: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Hoai Qualitaetscheck Vor Release, Hoai Rechnungspruefung Architekt, Hoai Sachverstaendigenfragen, Hoai Sonderkuendigung Bgb 650R, Hoai Stufenbeauftragung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Hoai Qualitaetscheck Vor Release, Hoai Rechnungspruefung Architekt, Hoai Sachverstaendigenfragen, Hoai Sonderkuendigung Bgb 650R, Hoai Stufenbeauftragung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -34,7 +34,7 @@ Für **Hoai Qualitaetscheck Vor Release, Hoai Rechnungspruefung Architekt, Hoai 
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **prüft, ob ein Plan-/Vergabe-/Baupaket an die nächste Stelle darf** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **prüft, ob ein Plan-/Vergabe-/Baupaket an die nächste Stelle darf** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -64,7 +64,7 @@ Dieser Querschnitts-Skill bearbeitet **prüft, ob ein Plan-/Vergabe-/Baupaket an
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **prüft Unternehmerrechnung, Aufmaß, Nachtrag, Skonto und Kostenkontrolle** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **prüft Unternehmerrechnung, Aufmaß, Nachtrag, Skonto und Kostenkontrolle** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -94,7 +94,7 @@ Dieser Querschnitts-Skill bearbeitet **prüft Unternehmerrechnung, Aufmaß, Nach
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **formuliert Beweisthemen für selbständiges Beweisverfahren oder Privatgutachten** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **formuliert Beweisthemen für selbständiges Beweisverfahren oder Privatgutachten** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -124,7 +124,7 @@ Dieser Querschnitts-Skill bearbeitet **formuliert Beweisthemen für selbständig
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **prüft Sonderkündigungsrecht nach Planungsgrundlage und Belehrung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **prüft Sonderkündigungsrecht nach Planungsgrundlage und Belehrung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 
@@ -154,7 +154,7 @@ Dieser Querschnitts-Skill bearbeitet **prüft Sonderkündigungsrecht nach Planun
 
 ## Einsatz
 
-Dieser Querschnitts-Skill bearbeitet **prüft Abruf, Leistungsstand, Kündigung, Resthonorar und Nachbeauftragung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
+Dieser Querschnitts-Skill bearbeitet **prüft Abruf, Leistungsstand, Kündigung, Resthonorar und Nachbeauftragung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
 
 ## Arbeitsweise
 

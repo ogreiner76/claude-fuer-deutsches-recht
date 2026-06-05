@@ -1,13 +1,13 @@
 ---
 name: intake-decision-kg-gmbhcokg
-description: "Nutze dies, wenn Gesellschaftsgründer Intake Decision Tree, Gesellschaftsgründer Kg Und Gmbhcokg, Gesellschaftsgründer Mitarbeiterbeteiligung Esop Vsop, Gesellschaftsgründer Rechtsformwahl, Gesellschaftsgründer Share Classes A B C im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Gesellschaftsgruender Intake Decision Tree, Gesellschaftsgruender Kg Und Gmbhcokg, Gesellschaftsgruender Mitarbeiterbeteiligung Esop Vsop, Gesellschaftsgruender Rechtsformwahl: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gesellschaftsgründer Intake Decision Tree, Gesellschaftsgründer Kg Und Gmbhcokg, Gesellschaftsgründer Mitarbeiterbeteiligung Esop Vsop, Gesellschaftsgründer Rechtsformwahl, Gesellschaftsgründer Share Classes A B C
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Intake Decision Tree, Gesellschaftsgründer Kg Und Gmbhcokg, Gesellschaftsgründer Mitarbeiterbeteiligung Esop Vsop, Gesellschaftsgründer Rechtsformwahl, Gesellschaftsgründer Share Classes A B C** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -45,7 +45,7 @@ Für **Gesellschaftsgründer Intake Decision Tree, Gesellschaftsgründer Kg Und 
 
 Der Gründer-Intake-Prozess ist das erste strukturierte Gespräch zwischen Mandant und Kanzlei. Zu diesem Zeitpunkt sind alle weichenstellenden Entscheidungen noch offen: Rechtsform, Kapitalstruktur, Gesellschafter-GF-Verhältnis, Investorenstruktur, Sozialversicherungsstatus. Fehlerhafte Weichenstellungen im Intake — falsche Rechtsform, fehlende Sperrminorität, nicht geplante Holding-Struktur — lassen sich später nur mit erheblichem Aufwand und steuerlichen Risiken korrigieren.
 
-Dieser Skill stellt den grafischen Decision Tree für den Gründer-Intake-Workflow bereit: konditionale Logik als Mermaid-Diagramm, Pflichtfeld-Validierung, Trigger-Events für Skills und Dokumente, Fristen-Engine-Integration und Workflow-Engine-Hinweise für Implementierung in Bryter, Josef, Documate oder custom Node.js/React.
+Dieser Skill stellt den grafischen Decision Tree für den Gründer-Intake-bereit: konditionale Logik als Mermaid-Diagramm, Pflichtfeld-Validierung, Trigger-Events für Skills und Dokumente, Fristen-Engine-Integration und Workflow-Engine-Hinweise für Implementierung in Bryter, Josef, Documate oder custom Node.js/React.
 
 ## Kaltstart-Rückfragen
 
@@ -105,155 +105,155 @@ Frist: unverzüglich nach Eintragung der Gesellschaft im Handelsregister und unv
 | 9 | Compliance-Knoten | Erste-100-Tage-GF-Pflichten: § 315 HGB, § 325 HGB (erste Offenlegung), § 40 GmbHG (Gesellschafterliste), § 20 GwG (TraFinG) | Trigger: gesellschafts-compliance |
 | 10 | Streit-Eskalations-Knoten | Streit zwischen Gründern? Beschluss angefochten? | Trigger: gesellschaftsgruender-gesellschafterstreit-eilantraege |
 
-## Gesamtworkflow (Mermaid)
+## Gesamt(Mermaid)
 
 ```mermaid
 flowchart TD
-    Start([Mandant fragt Gruendung an]) --> Intake[Gruender-Intake-Formular]
+ Start([Mandant fragt Gruendung an]) --> Intake[Gruender-Intake-Formular]
 
-    Intake --> Q1{Anzahl Gruender?}
-    Q1 -->|1| Solo[Solo-Gruender-Pfad]
-    Q1 -->|2-3| StandardPath[Standard-Pfad]
-    Q1 -->|4+| ComplexPath[Komplex-Pfad mit SHA]
+ Intake --> Q1{Anzahl Gruender?}
+ Q1 -->|1| Solo[Solo-Gruender-Pfad]
+ Q1 -->|2-3| StandardPath[Standard-Pfad]
+ Q1 -->|4+| ComplexPath[Komplex-Pfad mit SHA]
 
-    Solo --> Q2a{Kapital verfuegbar?}
-    Q2a -->|< 5.000 EUR| UG_Pfad[UG-Pfad]
-    Q2a -->|5.000 - 25.000 EUR| Q2b{Investor geplant?}
-    Q2a -->|>= 25.000 EUR| GmbH_Pfad[GmbH-Pfad]
+ Solo --> Q2a{Kapital verfuegbar?}
+ Q2a -->|< 5.000 EUR| UG_Pfad[UG-Pfad]
+ Q2a -->|5.000 - 25.000 EUR| Q2b{Investor geplant?}
+ Q2a -->|>= 25.000 EUR| GmbH_Pfad[GmbH-Pfad]
 
-    Q2b -->|Ja| GmbH_Pfad
-    Q2b -->|Nein| UG_Empfehlung[UG empfohlen]
+ Q2b -->|Ja| GmbH_Pfad
+ Q2b -->|Nein| UG_Empfehlung[UG empfohlen]
 
-    StandardPath --> Q3{Investor in 12 Monaten?}
-    Q3 -->|Ja| ClassShares_jetzt[Class-Shares schon bei Gruendung]
-    Q3 -->|Nein| ClassShares_spaeter[Class-Shares spaeter einfuehren]
-    Q3 -->|Unklar| GenehmigtesKapital_jetzt[Genehmigtes Kapital vorsehen]
+ StandardPath --> Q3{Investor in 12 Monaten?}
+ Q3 -->|Ja| ClassShares_jetzt[Class-Shares schon bei Gruendung]
+ Q3 -->|Nein| ClassShares_spaeter[Class-Shares spaeter einfuehren]
+ Q3 -->|Unklar| GenehmigtesKapital_jetzt[Genehmigtes Kapital vorsehen]
 
-    ComplexPath --> ClassShares_jetzt
+ ComplexPath --> ClassShares_jetzt
 
-    ClassShares_jetzt --> SHA_Modul[SHA-Modul triggern]
-    ClassShares_spaeter --> Satzung_Modul[Satzung-Modul triggern]
-    GenehmigtesKapital_jetzt --> Satzung_Modul
+ ClassShares_jetzt --> SHA_Modul[SHA-Modul triggern]
+ ClassShares_spaeter --> Satzung_Modul[Satzung-Modul triggern]
+ GenehmigtesKapital_jetzt --> Satzung_Modul
 
-    SHA_Modul --> Vesting{Vesting fuer Gruender?}
-    Vesting -->|Ja| VestingKlausel[Vesting-Klausel SHA]
-    Vesting -->|Nein| Stoppschild_Vesting[Warnung: Bad-Leaver-Risiko]
+ SHA_Modul --> Vesting{Vesting fuer Gruender?}
+ Vesting -->|Ja| VestingKlausel[Vesting-Klausel SHA]
+ Vesting -->|Nein| Stoppschild_Vesting[Warnung: Bad-Leaver-Risiko]
 
-    VestingKlausel --> StimmBindung[Stimmbindungs-Klausel SHA]
-    StimmBindung --> Notar[Notar-Vorbereitung]
-    Satzung_Modul --> Notar
-    UG_Pfad --> Notar
-    UG_Empfehlung --> Notar
+ VestingKlausel --> StimmBindung[Stimmbindungs-Klausel SHA]
+ StimmBindung --> Notar[Notar-Vorbereitung]
+ Satzung_Modul --> Notar
+ UG_Pfad --> Notar
+ UG_Empfehlung --> Notar
 
-    Notar --> SV_Check{GF-Sozialversicherung?}
-    SV_Check -->|Solo-GF| SV_frei[SV-frei]
-    SV_Check -->|Mehrheits-GF| SV_frei
-    SV_Check -->|Minderheits-GF| SV_Sperrminoritaet{Echte Sperrminoritaet in Satzung?}
+ Notar --> SV_Check{GF-Sozialversicherung?}
+ SV_Check -->|Solo-GF| SV_frei[SV-frei]
+ SV_Check -->|Mehrheits-GF| SV_frei
+ SV_Check -->|Minderheits-GF| SV_Sperrminoritaet{Echte Sperrminoritaet in Satzung?}
 
-    SV_Sperrminoritaet -->|Ja in Satzung| SV_frei
-    SV_Sperrminoritaet -->|Nur in SHA| SV_pflichtig_Warnung[WARNUNG: BSG-Linie - SHA-Stimmbindung reicht nicht]
-    SV_Sperrminoritaet -->|Keine| SV_pflichtig[SV-pflichtig]
+ SV_Sperrminoritaet -->|Ja in Satzung| SV_frei
+ SV_Sperrminoritaet -->|Nur in SHA| SV_pflichtig_Warnung[WARNUNG: BSG-Linie - SHA-Stimmbindung reicht nicht]
+ SV_Sperrminoritaet -->|Keine| SV_pflichtig[SV-pflichtig]
 
-    SV_frei --> Statusfeststellung[Statusfeststellung Paragraf 7a SGB IV beantragen]
-    SV_pflichtig_Warnung --> Statusfeststellung
-    SV_pflichtig --> Statusfeststellung
+ SV_frei --> Statusfeststellung[Statusfeststellung Paragraf 7a SGB IV beantragen]
+ SV_pflichtig_Warnung --> Statusfeststellung
+ SV_pflichtig --> Statusfeststellung
 
-    Statusfeststellung --> HR_Anmeldung[Handelsregister-Anmeldung]
-    HR_Anmeldung --> Behoerden[Gewerbe Finanzamt IHK BG TraFinG]
-    Behoerden --> Compliance[Erste 100 Tage GF-Pflichten]
-    Compliance --> Ende([Operatives Geschaeft])
+ Statusfeststellung --> HR_Anmeldung[Handelsregister-Anmeldung]
+ HR_Anmeldung --> Behoerden[Gewerbe Finanzamt IHK BG TraFinG]
+ Behoerden --> Compliance[Erste 100 Tage GF-Pflichten]
+ Compliance --> Ende([Operatives Geschaeft])
 ```
 
 ## Detail-Diagramm: Class-Shares-Modul
 
 ```mermaid
 flowchart TD
-    Start([Class-Shares-Modul]) --> Q1{Anzahl Klassen?}
-    Q1 -->|1 nur Common| Klasse1[Standard-Satzung]
-    Q1 -->|2 Common + B| Klasse2[Series-A-Struktur]
-    Q1 -->|3+ Common A B C| Klasse3[Multi-Class-Struktur]
+ Start([Class-Shares-Modul]) --> Q1{Anzahl Klassen?}
+ Q1 -->|1 nur Common| Klasse1[Standard-Satzung]
+ Q1 -->|2 Common + B| Klasse2[Series-A-Struktur]
+ Q1 -->|3+ Common A B C| Klasse3[Multi-Class-Struktur]
 
-    Klasse2 --> Q2{Investor-Schutz}
-    Q2 -->|Liquidation Preference| LiqPref[Klausel 6 Liquidation Preference]
-    Q2 -->|Anti-Dilution| AntiDil[Klausel 7 Anti-Dilution]
-    Q2 -->|Veto-Rechte| Veto[Sondervetorechte]
+ Klasse2 --> Q2{Investor-Schutz}
+ Q2 -->|Liquidation Preference| LiqPref[Klausel 6 Liquidation Preference]
+ Q2 -->|Anti-Dilution| AntiDil[Klausel 7 Anti-Dilution]
+ Q2 -->|Veto-Rechte| Veto[Sondervetorechte]
 
-    LiqPref --> Q3{Participating oder non-participating?}
-    Q3 -->|non-participating| LiqPref_NP[Beste Praxis bei Tech-Startup]
-    Q3 -->|participating| LiqPref_Warnung[WARNUNG: Bei mittelmaessigem Exit Vorteil Investor erheblich]
+ LiqPref --> Q3{Participating oder non-participating?}
+ Q3 -->|non-participating| LiqPref_NP[Beste Praxis bei Tech-Startup]
+ Q3 -->|participating| LiqPref_Warnung[WARNUNG: Bei mittelmaessigem Exit Vorteil Investor erheblich]
 
-    AntiDil --> Q4{Methode?}
-    Q4 -->|Weighted Average broad-based| AntiDil_WA[Standard empfohlen]
-    Q4 -->|Full Ratchet| AntiDil_FR[Aggressiv nur bei riskanten Investments]
+ AntiDil --> Q4{Methode?}
+ Q4 -->|Weighted Average broad-based| AntiDil_WA[Standard empfohlen]
+ Q4 -->|Full Ratchet| AntiDil_FR[Aggressiv nur bei riskanten Investments]
 
-    Veto --> Q5{Reichweite}
-    Q5 -->|Spezifische Themen| Veto_OK[Klausel 2 Golden Share angepasst]
-    Q5 -->|Alle Beschluesse| Veto_Sittenwidrig[WARNUNG Sittenwidrigkeit Paragraf 138 BGB]
+ Veto --> Q5{Reichweite}
+ Q5 -->|Spezifische Themen| Veto_OK[Klausel 2 Golden Share angepasst]
+ Q5 -->|Alle Beschluesse| Veto_Sittenwidrig[WARNUNG Sittenwidrigkeit Paragraf 138 BGB]
 ```
 
 ## Detail-Diagramm: SV-Status-Prüfung
 
 ```mermaid
 flowchart TD
-    Start([SV-Status-Pruefung]) --> Q1{Ist der GF zugleich Gesellschafter?}
-    Q1 -->|Nein - Fremd-GF| Fremd[Fremd-GF]
-    Q1 -->|Ja| Q2{Anteilshoehe?}
+ Start([SV-Status-Pruefung]) --> Q1{Ist der GF zugleich Gesellschafter?}
+ Q1 -->|Nein - Fremd-GF| Fremd[Fremd-GF]
+ Q1 -->|Ja| Q2{Anteilshoehe?}
 
-    Fremd --> SV_pflichtig[SV-pflichtig BSG-Linie]
+ Fremd --> SV_pflichtig[SV-pflichtig BSG-Linie]
 
-    Q2 -->|>= 50 Prozent| Mehrheit[Mehrheits-GF]
-    Q2 -->|< 50 Prozent| Q3{Sperrminoritaet?}
+ Q2 -->|>= 50 Prozent| Mehrheit[Mehrheits-GF]
+ Q2 -->|< 50 Prozent| Q3{Sperrminoritaet?}
 
-    Mehrheit --> SV_frei[SV-frei BSG-Linie]
+ Mehrheit --> SV_frei[SV-frei BSG-Linie]
 
-    Q3 -->|Ja in Satzung| Q4{Sperrminoritaet umfassend?}
-    Q3 -->|Nur in SHA-Stimmbindung| SV_pflichtig_SHA[SV-pflichtig BSG 11.11.2015]
-    Q3 -->|Keine| SV_pflichtig
+ Q3 -->|Ja in Satzung| Q4{Sperrminoritaet umfassend?}
+ Q3 -->|Nur in SHA-Stimmbindung| SV_pflichtig_SHA[SV-pflichtig BSG 11.11.2015]
+ Q3 -->|Keine| SV_pflichtig
 
-    Q4 -->|Ja| SV_frei
-    Q4 -->|Nur teilweise| SV_pruefen[Im Einzelfall pruefen]
+ Q4 -->|Ja| SV_frei
+ Q4 -->|Nur teilweise| SV_pruefen[Im Einzelfall pruefen]
 
-    SV_pflichtig --> Statusfeststellung[Paragraf 7a SGB IV beantragen]
-    SV_pflichtig_SHA --> Statusfeststellung
-    SV_frei --> Statusfeststellung
-    SV_pruefen --> Statusfeststellung
+ SV_pflichtig --> Statusfeststellung[Paragraf 7a SGB IV beantragen]
+ SV_pflichtig_SHA --> Statusfeststellung
+ SV_frei --> Statusfeststellung
+ SV_pruefen --> Statusfeststellung
 
-    Statusfeststellung --> Lohnabrechnung[Lohnabrechnung entsprechend einrichten]
+ Statusfeststellung --> Lohnabrechnung[Lohnabrechnung entsprechend einrichten]
 ```
 
 ## Detail-Diagramm: Streit-Eskalations-Pfad
 
 ```mermaid
 flowchart TD
-    Start([Streitiger Gesellschafterbeschluss]) --> Q1{Beschluss bereits gefasst?}
-    Q1 -->|Nein| Pravention[Praevention: SHA-Stimmbindung pruefen Beirat anrufen]
-    Q1 -->|Ja| Q2{Bei HR eingereicht?}
+ Start([Streitiger Gesellschafterbeschluss]) --> Q1{Beschluss bereits gefasst?}
+ Q1 -->|Nein| Pravention[Praevention: SHA-Stimmbindung pruefen Beirat anrufen]
+ Q1 -->|Ja| Q2{Bei HR eingereicht?}
 
-    Q2 -->|Nein| Q3{Eilbeduerftigkeit gegeben?}
-    Q2 -->|Ja| Sofort_eA[Einstweilige Verfuegung LG + Anmeldungs-Sperre Registergericht binnen 48h]
+ Q2 -->|Nein| Q3{Eilbeduerftigkeit gegeben?}
+ Q2 -->|Ja| Sofort_eA[Einstweilige Verfuegung LG + Anmeldungs-Sperre Registergericht binnen 48h]
 
-    Q3 -->|Ja| Sofort_eA
-    Q3 -->|Nein| Anfechtungsklage[Anfechtungsklage binnen 1 Monat]
+ Q3 -->|Ja| Sofort_eA
+ Q3 -->|Nein| Anfechtungsklage[Anfechtungsklage binnen 1 Monat]
 
-    Sofort_eA --> Q4{Verfuegung erlassen?}
-    Q4 -->|Ja| Hauptverfahren[Hauptverfahren Anfechtungsklage]
-    Q4 -->|Nein| Q5{Beschwerde?}
-    Q5 -->|Ja| OLG[OLG-Beschwerde]
-    Q5 -->|Nein| Hauptverfahren
+ Sofort_eA --> Q4{Verfuegung erlassen?}
+ Q4 -->|Ja| Hauptverfahren[Hauptverfahren Anfechtungsklage]
+ Q4 -->|Nein| Q5{Beschwerde?}
+ Q5 -->|Ja| OLG[OLG-Beschwerde]
+ Q5 -->|Nein| Hauptverfahren
 
-    Anfechtungsklage --> Hauptverfahren
-    OLG --> Hauptverfahren
+ Anfechtungsklage --> Hauptverfahren
+ OLG --> Hauptverfahren
 
-    Hauptverfahren --> Beirat[Schlichtungs-Pflicht Beirat einhalten]
-    Beirat --> Q6{Beirat Vergleich vorgeschlagen?}
-    Q6 -->|Ja| Q7{Annahme?}
-    Q6 -->|Nein| Verfahren_weiter[LG entscheidet]
+ Hauptverfahren --> Beirat[Schlichtungs-Pflicht Beirat einhalten]
+ Beirat --> Q6{Beirat Vergleich vorgeschlagen?}
+ Q6 -->|Ja| Q7{Annahme?}
+ Q6 -->|Nein| Verfahren_weiter[LG entscheidet]
 
-    Q7 -->|Ja| Vergleich[Vergleich Klagerückname]
-    Q7 -->|Nein| Verfahren_weiter
+ Q7 -->|Ja| Vergleich[Vergleich Klagerückname]
+ Q7 -->|Nein| Verfahren_weiter
 
-    Verfahren_weiter --> Urteil[Urteil und ggf. Berufung]
-    Pravention --> Vergleich
+ Verfahren_weiter --> Urteil[Urteil und ggf. Berufung]
+ Pravention --> Vergleich
 ```
 
 ## Pflichtfeld-Knotenpunkte (vollständig)
@@ -402,24 +402,24 @@ flowchart TD
 
 ```
 ┌──────────────────────────────────────────┐
-│  Frontend (React Hook Form / Bryter UI)  │
-│  Kaskadierende Fragen, JSON Schema       │
+│ Frontend (React Hook Form / Bryter UI) │
+│ Kaskadierende Fragen, JSON Schema │
 └───────────────────┬──────────────────────┘
-                    │
+ │
 ┌───────────────────▼──────────────────────┐
-│  Business-Logic-Engine                   │
-│  Conditional Logic, Validierung,         │
-│  Trigger-Events, Fristen                 │
+│ Business-Logic-Engine │
+│ Conditional Logic, Validierung, │
+│ Trigger-Events, Fristen │
 └───────────────────┬──────────────────────┘
-                    │
-      ┌─────────────┼─────────────┐
-      │             │             │
-┌─────▼───┐   ┌─────▼────┐  ┌────▼──────┐
-│  DOC    │   │ Fristen- │  │ Notar-    │
-│  ASM    │   │ Engine   │  │ Paket-    │
-│  DOCX   │   │ iCal /   │  │ ZIP-      │
-│  PDF    │   │ Outlook  │  │ Export    │
-└─────────┘   └──────────┘  └───────────┘
+ │
+ ┌─────────────┼─────────────┐
+ │ │ │
+┌─────▼───┐ ┌─────▼────┐ ┌────▼──────┐
+│ DOC │ │ Fristen- │ │ Notar- │
+│ ASM │ │ Engine │ │ Paket- │
+│ DOCX │ │ iCal / │ │ ZIP- │
+│ PDF │ │ Outlook │ │ Export │
+└─────────┘ └──────────┘ └───────────┘
 ```
 
 ### Output-Formate
@@ -437,37 +437,37 @@ flowchart TD
 
 ```json
 {
-  "node_id": "intake_class_shares",
-  "title": "Class-Shares-Festlegung",
-  "question": "Sollen Anteilsklassen schon bei Gruendung eingefuehrt werden?",
-  "type": "single-choice",
-  "options": [
-    {
-      "id": "only_common",
-      "label": "Nur Common Shares",
-      "next": "intake_vesting",
-      "trigger_skill": "gesellschaftsgruender-gesellschaftsvertrag-gmbh",
-      "warning_if": [
-        {
-          "condition": "investor_planned_within_12_months == true",
-          "message": "Bei absehbarem Investor empfohlen, schon jetzt Class-Shares oder genehmigtes Kapital fuer Class B vorzusehen"
-        }
-      ]
-    },
-    {
-      "id": "common_and_b",
-      "label": "Common + Class B (Vorbereitung Investor)",
-      "next": "intake_b_share_terms",
-      "trigger_skill": "gesellschaftsgruender-share-classes-a-b-c"
-    },
-    {
-      "id": "multi_class",
-      "label": "Multi-Class (Common + A + B + C)",
-      "next": "intake_multi_class_governance",
-      "trigger_skill": "gesellschaftsgruender-share-classes-a-b-c",
-      "warning": "Multi-Class-Strukturen sind komplex und teuer beim Notar; nur bei klarer Investoren-Roadmap empfohlen"
-    }
-  ]
+ "node_id": "intake_class_shares",
+ "title": "Class-Shares-Festlegung",
+ "question": "Sollen Anteilsklassen schon bei Gruendung eingefuehrt werden?",
+ "type": "single-choice",
+ "options": [
+ {
+ "id": "only_common",
+ "label": "Nur Common Shares",
+ "next": "intake_vesting",
+ "trigger_skill": "gesellschaftsgruender-gesellschaftsvertrag-gmbh",
+ "warning_if": [
+ {
+ "condition": "investor_planned_within_12_months == true",
+ "message": "Bei absehbarem Investor empfohlen, schon jetzt Class-Shares oder genehmigtes Kapital fuer Class B vorzusehen"
+ }
+ ]
+ },
+ {
+ "id": "common_and_b",
+ "label": "Common + Class B (Vorbereitung Investor)",
+ "next": "intake_b_share_terms",
+ "trigger_skill": "gesellschaftsgruender-share-classes-a-b-c"
+ },
+ {
+ "id": "multi_class",
+ "label": "Multi-Class (Common + A + B + C)",
+ "next": "intake_multi_class_governance",
+ "trigger_skill": "gesellschaftsgruender-share-classes-a-b-c",
+ "warning": "Multi-Class-Strukturen sind komplex und teuer beim Notar; nur bei klarer Investoren-Roadmap empfohlen"
+ }
+ ]
 }
 ```
 
@@ -499,15 +499,15 @@ Jede Eingabe und jede Entscheidung wird protokolliert mit:
 | Juristische Übersetzung (bei bilingualen Dokumenten) | 500–4.000 EUR je nach Umfang |
 | Custom-Entwicklung (Node.js + React) | 80–200 Stunden × Entwickler-Stundensatz |
 | Notar-Gebühren GmbH-Gründung (25.000 EUR Stammkapital) | ca. 700–1.500 EUR |
-| Anwaltliche Begleitung kompletter Gründungs-Workflow | ca. 3.000–10.000 EUR (Kanzlei-abhängig) |
+| Anwaltliche Begleitung kompletter Gründungs-| ca. 3.000–10.000 EUR (Kanzlei-abhängig) |
 
 ## Strategische Empfehlung
 
 | Situation | Empfehlung |
 |---|---|
-| Startup mit Investor-Roadmap | Vollständiger Intake-Workflow mit Class-Shares, SHA, Vesting; Notar-Paket parallel vorbereiten |
+| Startup mit Investor-Roadmap | Vollständiger Intake-mit Class-Shares, SHA, Vesting; Notar-Paket parallel vorbereiten |
 | Solo-Gründer ohne Investorenpläne | Vereinfachter Workflow: Rechtsformwahl + GmbH/UG-Gründung + Behörden-Checkliste |
-| Kanzlei will Workflow digitalisieren | Bryter oder Josef als No-Code-Einstieg; Custom-Entwicklung für maximale Kontrolle |
+| Kanzlei will digitalisieren | Bryter oder Josef als No-Code-Einstieg; Custom-Entwicklung für maximale Kontrolle |
 | Mehrere Gründer, Streitpotenzial absehbar | Vollständige SHA mit Vesting, Drag/Tag, Schiedsklausel; Beirat mit Schlichtungsfunktion |
 
 ## Anschluss-Skills
@@ -549,20 +549,20 @@ EMPFOHLENE RECHTSFORM: [GmbH / UG / GmbH & Co. KG]
 Begruendung: [KURZE BEGRUENDUNG AUS DECISION TREE]
 
 GESELLSCHAFTER:
-  [NAME 1]: [%] Anteile | Sperrminoritaet: [Ja/Nein] | GF: [Ja/Nein]
-  [NAME 2]: [%] Anteile | Sperrminoritaet: [Ja/Nein] | GF: [Ja/Nein]
+ [NAME 1]: [%] Anteile | Sperrminoritaet: [Ja/Nein] | GF: [Ja/Nein]
+ [NAME 2]: [%] Anteile | Sperrminoritaet: [Ja/Nein] | GF: [Ja/Nein]
 
 SV-STATUS GF(s):
-  [NAME]: [SV-pflichtig / SV-frei (Mehrheit)] | Statusfeststellung empfohlen: [Ja/Nein]
+ [NAME]: [SV-pflichtig / SV-frei (Mehrheit)] | Statusfeststellung empfohlen: [Ja/Nein]
 
 NAECHSTE SCHRITTE:
-  [ ] Firmenname pruefen (IHK-Vorpruefung)
-  [ ] Notar-Termin vereinbaren (Vorlauf: 2-4 Wochen)
-  [ ] Stammkapital einzahlen (mind. 12.500 EUR)
-  [ ] Transparenzregister-Anmeldung (nach HR-Eintragung)
-  [ ] Berufsgenossenschaft (1 Woche nach Geschaeftsbeginn)
-  [ ] Finanzamt (ELSTER-Fragebogen; § 138 AO)
-  [ ] SV-Statusfeststellung beantragen (DRV Bund)
+ [ ] Firmenname pruefen (IHK-Vorpruefung)
+ [ ] Notar-Termin vereinbaren (Vorlauf: 2-4 Wochen)
+ [ ] Stammkapital einzahlen (mind. 12.500 EUR)
+ [ ] Transparenzregister-Anmeldung (nach HR-Eintragung)
+ [ ] Berufsgenossenschaft (1 Woche nach Geschaeftsbeginn)
+ [ ] Finanzamt (ELSTER-Fragebogen; § 138 AO)
+ [ ] SV-Statusfeststellung beantragen (DRV Bund)
 
 FRISTEN-EXPORT: [iCal / Outlook generiert: JA / NEIN]
 NOTAR-PAKET: [ZIP erstellt: JA / NEIN]
@@ -650,10 +650,10 @@ Sitz: [ORT]
 
 § 3 Gesellschafter
 Komplementaerin: [FIRMA] Verwaltungs-GmbH, HRB [NR.]
-  — ohne Vermoegensbeteiligung und Hafteinlage —
+ — ohne Vermoegensbeteiligung und Hafteinlage —
 Kommanditisten:
-  [NAME 1]: Hafteinlage [BETRAG] EUR
-  [NAME 2]: Hafteinlage [BETRAG] EUR
+ [NAME 1]: Hafteinlage [BETRAG] EUR
+ [NAME 2]: Hafteinlage [BETRAG] EUR
 
 § 4 Geschaeftsfuehrung und Vertretung
 Die Geschaeftsfuehrung und Vertretung obliegt der
@@ -662,9 +662,9 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 
 § 5 Gewinnverteilung
 (1) Komplementaerin: Haftungs-Verguetung [BETRAG] EUR
-    jaehrlich, erstattet von der KG.
+ jaehrlich, erstattet von der KG.
 (2) Restgewinn: Kommanditisten im Verhaeltnis ihrer
-    Kapitalanteile.
+ Kapitalanteile.
 ```
 
 ## Rote Schwellen
@@ -828,7 +828,7 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 
 ## Prüfschema: Rechtsformwahl
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -1081,14 +1081,14 @@ Gesellschaft: [Firma] GmbH in Gründung
 Die Gründer erstatten gemäß § 5 Abs. 4 GmbHG den folgenden Sachgründungsbericht:
 
 1. Die Gesellschafterin [Name] bringt folgende Sacheinlage ein:
-   [Beschreibung der Sacheinlage, z.B. "Warenzeichen DE [Nr.] laut DPMA-Eintragung
-   (Anlage 1)"]
+ [Beschreibung der Sacheinlage, z.B. "Warenzeichen DE [Nr.] laut DPMA-Eintragung
+ (Anlage 1)"]
 
 2. Der Wert der Sacheinlage beläuft sich auf mindestens [X] EUR, wie aus dem
-   beigefügten Gutachten des Sachverständigen [Name] vom [Datum] (Anlage 2) hervorgeht.
+ beigefügten Gutachten des Sachverständigen [Name] vom [Datum] (Anlage 2) hervorgeht.
 
 3. Der Wert übersteigt den Nennbetrag der dafür übernommenen Stammeinlage in Höhe
-   von [X] EUR.
+ von [X] EUR.
 
 4. Besondere Schwierigkeiten bei der Bewertung bestanden nicht.
 
@@ -1165,24 +1165,24 @@ Mandant: [NAME] | Datum: [DATUM]
 EMPFEHLUNG: [RECHTSFORM]
 
 BEGRUENDUNG:
-  Haftung:       [Beschraenkt / Unbeschraenkt]
-  Mindestkapital:[BETRAG] EUR (vorhanden: Ja/Nein)
-  Investoren:    [Geeignet / Nicht geeignet fuer]
-  SV-Status GF: [Pflichtig / Frei bei [%] Anteil + Sperrminoritaet]
-  Steuer:        [KSt-Regime / Transparent]
-  Notar:         [Erforderlich / Nicht erforderlich]
+ Haftung: [Beschraenkt / Unbeschraenkt]
+ Mindestkapital:[BETRAG] EUR (vorhanden: Ja/Nein)
+ Investoren: [Geeignet / Nicht geeignet fuer]
+ SV-Status GF: [Pflichtig / Frei bei [%] Anteil + Sperrminoritaet]
+ Steuer: [KSt-Regime / Transparent]
+ Notar: [Erforderlich / Nicht erforderlich]
 
 ALTERNATIVEN GEPRUEFT:
-  GmbH:          [Warum nicht: ...]
-  UG:            [Warum nicht: ...]
-  GmbH & Co. KG: [Warum nicht: ...]
+ GmbH: [Warum nicht: ...]
+ UG: [Warum nicht: ...]
+ GmbH & Co. KG: [Warum nicht: ...]
 
 NAECHSTE SCHRITTE:
-  [ ] Firmennamen pruefen
-  [ ] Stammkapital bereitstellen: [BETRAG] EUR
-  [ ] Satzungsentwurf erstellen
-  [ ] Notar-Termin: [DATUM]
-  [ ] Holding-Struktur pruefen: [Ja / Nein / Spaeter]
+ [ ] Firmennamen pruefen
+ [ ] Stammkapital bereitstellen: [BETRAG] EUR
+ [ ] Satzungsentwurf erstellen
+ [ ] Notar-Termin: [DATUM]
+ [ ] Holding-Struktur pruefen: [Ja / Nein / Spaeter]
 ```
 
 ## 5. `gesellschaftsgruender-share-classes-a-b-c`
@@ -1269,9 +1269,9 @@ CP2 = CP1 × (A + B) / (A + C)
 
 CP1 = bisheriger Class-A-Ausgabepreis
 CP2 = angepasster Class-A-Ausgabepreis
-A   = Anzahl ausstehender Anteile vor Down-Round-Ausgabe
-B   = Gegenwert der neuen Anteile zum bisherigen CP1 in EUR
-C   = Anzahl tatsaechlich ausgegebener neuer Anteile
+A = Anzahl ausstehender Anteile vor Down-Round-Ausgabe
+B = Gegenwert der neuen Anteile zum bisherigen CP1 in EUR
+C = Anzahl tatsaechlich ausgegebener neuer Anteile
 
 Die Anpassung erfolgt durch Ausgabe zusaetzlicher Class-A-Anteile oder
 durch Aendrung des Ausgabepreises fuer ausstehende Class-A-Anteile.
@@ -1299,10 +1299,10 @@ Version: [Nr.]
 CAP TABLE MIT KLASSEN
 | Gesellschafter | Klasse | Anteile | % | Ausgabepreis | Liq. Pref. | Anti-Dil. | Veto |
 |---------------|-------|---------|---|-------------|-----------|----------|------|
-| [Gründer 1]   | Common | [Nr.]  |[%]| [EUR]       | —         | —         | — |
-| [Gründer 2]   | Common | [Nr.]  |[%]| [EUR]       | —         | —         | — |
-| [Investor A]  | Class A | [Nr.] |[%]| [EUR]       | 1x NP     | WA broad  | Ja |
-| ESOP Pool     | Common | [Nr.]  |[%]| reserviert  | —         | —         | — |
+| [Gründer 1] | Common | [Nr.] |[%]| [EUR] | — | — | — |
+| [Gründer 2] | Common | [Nr.] |[%]| [EUR] | — | — | — |
+| [Investor A] | Class A | [Nr.] |[%]| [EUR] | 1x NP | WA broad | Ja |
+| ESOP Pool | Common | [Nr.] |[%]| reserviert | — | — | — |
 
 VETORECHTE CLASS A (Investor)
 [ ] Kapitalerhöhung > [EUR]

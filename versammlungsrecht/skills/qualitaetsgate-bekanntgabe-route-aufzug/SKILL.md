@@ -1,13 +1,13 @@
 ---
 name: qualitaetsgate-bekanntgabe-route-aufzug
-description: "Nutze dies, wenn Qualitaetsgate Vor Bekanntgabe, Route Aufzug Und Streckenplanung im Plugin Versammlungsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Qualitaetsgate Vor Bekanntgabe, Route Aufzug Und Streckenplanung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Qualitaetsgate Vor Bekanntgabe, Route Aufzug Und Streckenplanung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Qualitaetsgate Vor Bekanntgabe, Route Aufzug Und Streckenplanung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: kanzlei-interessen-livecheck-mandat
-description: "Nutze dies, wenn Spezial Kanzlei Mehrparteien Konflikt Und Interessen, Spezial Livecheck Abschlussprodukt Und Übergabe, Spezial Mandat Mandantenkommunikation Entscheidungsvorlage, Spezial Orientierung Sonderfall Und Edge Case im Plugin Fachanwalt Bau Architektenrecht konkret bearbeitet werden soll. Auslöser: Welche amtliche Quelle prüfe ich zuerst?; Gibt es aktuelle Rechtsprechung?; Bitte Fundstellen verifizieren.."
+description: "Nutze dies bei Kanzlei Mehrparteien Konflikt Und Interessen, Livecheck Abschlussprodukt Und Uebergabe, Mandat Mandantenkommunikation Entscheidungsvorlage, Orientierung Sonderfall Und Edge Case: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Kanzlei Mehrparteien Konflikt Und Interessen, Spezial Livecheck Abschlussprodukt Und Übergabe, Spezial Mandat Mandantenkommunikation Entscheidungsvorlage, Spezial Orientierung Sonderfall Und Edge Case
+# Kanzlei Mehrparteien Konflikt Und Interessen, Livecheck Abschlussprodukt Und Übergabe, Mandat Mandantenkommunikation Entscheidungsvorlage, Orientierung Sonderfall Und Edge Case
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kanzlei Mehrparteien Konflikt Und Interessen, Livecheck Abschlussprodukt Und Übergabe, Mandat Mandantenkommunikation Entscheidungsvorlage, Orientierung Sonderfall Und Edge Case** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Kanzlei Mehrparteien Konflikt Und Interessen, Spezial Livecheck Abschlussprodukt Und Übergabe, Spezial Mandat Mandantenkommunikation Entscheidungsvorlage, Spezial Orientierung Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Kanzlei Mehrparteien Konflikt Und Interessen, Livecheck Abschlussprodukt Und Übergabe, Mandat Mandantenkommunikation Entscheidungsvorlage, Orientierung Sonderfall Und Edge Case** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-bau-architektenrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -32,7 +32,7 @@ Für **Spezial Kanzlei Mehrparteien Konflikt Und Interessen, Spezial Livecheck A
 # Kanzlei: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Kanzlei: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Kanzlei: Mehrparteienkonflikt und Interessenmatrix / spezial kanzlei mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Kanzlei: Mehrparteienkonflikt und Interessenmatrix / kanzlei mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -73,7 +73,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Livecheck: Abschlussprodukt und Übergabe
 
 ## Spezialwissen: Livecheck: Abschlussprodukt und Übergabe
-- **Spezialgegenstand:** Livecheck: Abschlussprodukt und Übergabe / spezial livecheck abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Livecheck: Abschlussprodukt und Übergabe / livecheck abschlussprodukt und uebergabe. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -114,7 +114,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Mandat: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Mandat: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Mandat: Mandantenkommunikation und Entscheidungsvorlage / spezial mandat mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Mandat: Mandantenkommunikation und Entscheidungsvorlage / mandat mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -155,7 +155,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Orientierung: Sonderfall und Edge-Case-Prüfung
 
 ## Spezialwissen: Orientierung: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Orientierung: Sonderfall und Edge-Case-Prüfung / spezial orientierung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Orientierung: Sonderfall und Edge-Case-Prüfung / orientierung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

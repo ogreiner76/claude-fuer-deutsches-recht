@@ -1,13 +1,13 @@
 ---
 name: pralr-unterricht-seminar-mueller-arnold
-description: "Nutze dies, wenn Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck im Plugin Preußisches Allgemeines Landrecht Pralr konkret bearbeitet werden soll. Auslöser: Bitte Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck prüfen.; Erstelle eine Arbeitsfassung zu Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr, Pralr 042 Drucke Pauli Decker Nauck** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

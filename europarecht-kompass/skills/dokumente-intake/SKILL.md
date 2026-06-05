@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Nutze dies, wenn Dokumentenintake im Plugin Europarecht Kompass konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies für Unterlagen zu Dokumentenintake: sortiert Dokumente, erkennt Lücken, ordnet Beweiswert und formuliert gezielte Rückfragen."
 ---
 
 # Dokumentenintake
@@ -11,7 +11,7 @@ Nutze diesen Skill, wenn im Bereich **Europarecht Kompass** ein Fall noch sortie
 
 ## Fachlandkarte dieses Plugins
 
-- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Workflow Chronologie
+- `allgemein-anschluss-router-workflow-chronologie` — Allgemein Anschluss Router Chronologie
 - `beihilfen-drafting-europarecht` — Beihilfen Drafting Europarecht
 - `er-vorlageverfahren-eur-kommissionsverfahren-eur-mandant` — Er Vorlageverfahren Eur Kommissionsverfahren Eur Mandant
 - `eur-anrufung-eur-state-beihilfen-vergaben` — Eur Anrufung Eur State Beihilfen Vergaben

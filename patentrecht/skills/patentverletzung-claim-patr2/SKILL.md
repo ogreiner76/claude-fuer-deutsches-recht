@@ -1,13 +1,13 @@
 ---
 name: patentverletzung-claim-patr2
-description: "Nutze dies, wenn Patentverletzung Claim Chart, Patr2 Arbeitnehmererfindung Leitfaden, Patr2 Patentverletzungsklage Spezial im Plugin Patentrecht konkret bearbeitet werden soll. Auslöser: Bitte Patentverletzung Claim Chart, Patr2 Arbeitnehmererfindung Leitfaden, Patr2 Patentverletzungsklage Spezial prüfen.; Erstelle eine Arbeitsfassung zu Patentverletzung Claim Chart, Patr2 Arbeitnehmererfindung Leitfaden, Patr2 Patentverletzungsklage Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Patentverletzung Claim Chart, Patr2 Arbeitnehmererfindung Leitfaden, Patr2 Patentverletzungsklage Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Patentverletzung Claim Chart, Patr2 Arbeitnehmererfindung Leitfaden, Patr2 Patentverletzungsklage Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Patentverletzung Claim Chart, Patr2 Arbeitnehmererfindung Leitfaden, Patr2 Patentverletzungsklage Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -63,9 +63,9 @@ Bewertung: erfüllt, nicht erfüllt, unklar, nur äquivalent denkbar, Beleg fehl
 - **§ 14 PatG / Art. 69 EPÜ und Auslegungsprotokoll:** Schutzbereich bestimmt sich nach den Ansprüchen; Beschreibung und Zeichnungen zur Auslegung; Mittelweg zwischen Wortsinn und Inhaltsidee.
 - **Wortsinngemäße Verletzung:** Jedes Merkmal muss vollständig im angegriffenen Produkt/Verfahren erfüllt sein. Lückenfreiheit zwingend; einzelnes fehlendes Merkmal verhindert Wortsinn-Verletzung.
 - **Äquivalenz (BGH "Schneidmesser" GRUR 2002, 511 / BGH X ZR 168/00):** Drei Voraussetzungen kumulativ:
-  1. **Gleiche Wirkung** des Austauschmittels.
-  2. **Auffindbarkeit** für den Fachmann mit dem Anspruch als Vorbild.
-  3. **Gleichwertigkeit aus dem Anspruch** — Auswahlpflicht.
+ 1. **Gleiche Wirkung** des Austauschmittels.
+ 2. **Auffindbarkeit** für den Fachmann mit dem Anspruch als Vorbild.
+ 3. **Gleichwertigkeit aus dem Anspruch** — Auswahlpflicht.
 - **Mittelbare Verletzung § 10 PatG:** Lieferung wesentlicher Erfindungsmittel; sowohl objektives Element (Bezug auf wesentliches Mittel) als auch subjektives Element (Wissen/Erkennbarkeit).
 - **Einwendungen:** Vorbenutzungsrecht § 12 PatG, Erschöpfung § 9 S. 2 PatG, Lizenz, Versuchsprivileg § 11 Nr. 2 PatG, Bolar-Klausel.
 - **Beweisqualität:** Mandantenangabe < Foto/Video < Demonstration vor Notar/Sachverständigen < Marktproduktprüfung im Labor < unabhängiger Sachverständiger.

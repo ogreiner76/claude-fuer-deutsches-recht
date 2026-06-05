@@ -8,7 +8,7 @@ description: "Routet Kommunalwahlrecht je Land: Wahlgebiet, Listen, Reserveliste
 ## Aufgabe
 Routet Kommunalwahlrecht je Land: Wahlgebiet, Listen, Reservelisten, Wahlbezirk, Unterstützungsunterschriften und Fristen.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

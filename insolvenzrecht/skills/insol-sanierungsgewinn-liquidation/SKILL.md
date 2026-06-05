@@ -1,13 +1,13 @@
 ---
 name: insol-sanierungsgewinn-liquidation
-description: "Nutze dies, wenn Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3A Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3A Estg im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3A Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3A Estg prüfen.; Erstelle eine Arbeitsfassung zu Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3A Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3A Estg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3a Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3a Estg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3A Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3A Estg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3A Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3A Estg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `insol-sanierungsgewinn-liquidation-statt-plan-folgen` | Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermoegenslosigkeit bestehen. OFD Frankfurt: Liquidationsbeschluss allein ist kein konkludenter Verzicht. Entscheidungsmatrix mit Steuersicht und Mustertexte. |
 | `insol-sanierungsgewinn-mandantenwarnung-iv-und-cro` | Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klaeren ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 OWiG, Paragraph 69 AO), wie der Berater eingebunden wird. Erste Antwort knapp, dann sofort Briefentwurf. |
-| `insol-sanierungsgewinn-massenpriorisierung-261-vs-3a-estg` | Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. Workflow zur Modellierung und Mustertexte fuer Glaeubigerausschuss-Brief. |
+| `insol-sanierungsgewinn-massenpriorisierung-261-vs-3a-estg` | Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. zur Modellierung und Mustertexte fuer Glaeubigerausschuss-Brief. |
 | `insol-sanierungsgewinn-restschuldbefreiung-und-3a-estg` | Restschuldbefreiung Paragraphen 286 ff. InsO bei natuerlichen Personen und ihre Schnittstelle zum Sanierungsertrag Paragraph 3a EStG. Bei natuerlichen Personen Unterscheidung unternehmensbezogene vs. unternehmerbezogene Sanierung. Paragraph 3a EStG erfasst nur unternehmensbezogene Sanierung. Restschuldbefreiung erlischt Verbindlichkeiten zivilrechtlich; steuerlich kann gleichwohl ein Ertrag entstehen. Mustertexte und Pruefraster. |
 
 ## Arbeitsweg
@@ -74,7 +74,7 @@ Kaltstart-Fragen:
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 - OFD Frankfurt a. M.: Liquidationsbeschluss allein ist kein konkludenter Forderungsverzicht (Verlautbarung der OFD — Az/Datum vom Anwender mit aktueller OFD-Veroeffentlichung zu pruefen).
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Entscheidungsmatrix Plan vs. Liquidation** aus betriebs- und steuerwirtschaftlicher Sicht aufstellen.
 2. **Stille Reserven bewerten** — bei Liquidation werden sie aufgedeckt; bei Plan-Buchwertfortfuehrung nicht.
@@ -129,21 +129,21 @@ Mandant: [Schuldnerin]
 Stichtag: [Datum]
 
 I. PLAN-SZENARIO
-Forderungsverzicht                   EUR 5.000.000
-Sanierungsertrag                     EUR 5.000.000
-abzgl. Verrechnung Paragraph 3a III  EUR 1.500.000
-= Restbetrag                         EUR 3.500.000
+Forderungsverzicht EUR 5.000.000
+Sanierungsertrag EUR 5.000.000
+abzgl. Verrechnung Paragraph 3a III EUR 1.500.000
+= Restbetrag EUR 3.500.000
 => Paragraph 3a Absatz 1 EStG anwendbar (vier Voraussetzungen)
-Steuer Erwartungswert                EUR    300.000 (Restrisiko)
-Verbleibendes EK nach Plan           EUR  1.200.000
+Steuer Erwartungswert EUR 300.000 (Restrisiko)
+Verbleibendes EK nach Plan EUR 1.200.000
 Unternehmen fortgefuehrt
 
 II. LIQUIDATIONS-SZENARIO
-Verwertungserloese Aktiva            EUR  4.000.000
-Buchwert Aktiva                      EUR  3.000.000
-= Aufgabegewinn                      EUR  1.000.000
-abzgl. Verlustvortrag (Paragraph 10d) EUR  1.000.000
-= zu versteuern                      EUR          0
+Verwertungserloese Aktiva EUR 4.000.000
+Buchwert Aktiva EUR 3.000.000
+= Aufgabegewinn EUR 1.000.000
+abzgl. Verlustvortrag (Paragraph 10d) EUR 1.000.000
+= zu versteuern EUR 0
 Verteilung an Insolvenzglaeubiger (Quote ca. 18%)
 Verbindlichkeiten bleiben zivilrechtlich (BFH II R 19/01) bestehen
 Schuldnerin erlischt mit Loeschung im Handelsregister
@@ -256,7 +256,7 @@ Wenn die Fragen 1 und 4 beantwortet sind, beginnt der Brief.
 - Paragraph 43a Absatz 2 BRAO, Paragraph 203 StGB — Mandantengeheimnis bei Kommunikation; AVV bei Tools.
 - Paragraph 3a EStG, Paragraph 7b GewStG — die materiellen Sanierungsgewinn-Normen.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Adressat klaeren.** IV/CRO/Schuldner — drei verschiedene Briefe in unterschiedlichen Tonfaellen.
 2. **Sachverhalts-Bezug einfuegen.** Welche konkrete Krisensituation? Welcher Plan-Stand?
@@ -403,7 +403,7 @@ In anderen Plugins:
 
 ## 3. `insol-sanierungsgewinn-massenpriorisierung-261-vs-3a-estg`
 
-**Fokus:** Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. Workflow zur Modellierung und Mustertexte fuer Glaeubigerausschuss-Brief.
+**Fokus:** Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. zur Modellierung und Mustertexte fuer Glaeubigerausschuss-Brief.
 
 # Sanierungsgewinn — Massenpriorisierung Paragraphen 53/261 InsO vs. Paragraph 3a EStG
 
@@ -445,7 +445,7 @@ Kaltstart-Fragen:
 - Paragraph 251 AO — Steuern in der Insolvenz.
 - Paragraph 3a EStG.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Sanierungs-Modellrechnung.** Hauptantrag Paragraph 3a EStG: wie hoch der Restbetrag?
 2. **Sensitivitaetsanalyse: was wenn Paragraph 3a EStG scheitert?** Steuerbetrag berechnen (KSt, GewSt).
@@ -482,19 +482,19 @@ Kaltstart-Fragen:
 
 ```
 SZENARIO A (Paragraph 3a EStG greift voll):
-Masse                       EUR 6.000.000
-abzgl. Verfahrenskosten     EUR   500.000
-abzgl. weitere Massehaft.   EUR   500.000
-= verteilbar                EUR 5.000.000
+Masse EUR 6.000.000
+abzgl. Verfahrenskosten EUR 500.000
+abzgl. weitere Massehaft. EUR 500.000
+= verteilbar EUR 5.000.000
 Plan-Quote 25% einhaltbar.
 
 SZENARIO B (Paragraph 3a EStG scheitert; KSt + GewSt rd. 30% auf 3.000.000):
-Steuer auf Sanierungsertrag EUR   900.000
-Masse                       EUR 6.000.000
-abzgl. Verfahrenskosten     EUR   500.000
-abzgl. weitere Massehaft.   EUR   500.000
-abzgl. Steuer-Masseverbind. EUR   900.000
-= verteilbar                EUR 4.100.000
+Steuer auf Sanierungsertrag EUR 900.000
+Masse EUR 6.000.000
+abzgl. Verfahrenskosten EUR 500.000
+abzgl. weitere Massehaft. EUR 500.000
+abzgl. Steuer-Masseverbind. EUR 900.000
+= verteilbar EUR 4.100.000
 Plan-Quote bei 25% verlangt 5.000.000 -> nicht einhaltbar.
 => Plan-Anpassung erforderlich oder Hilfslinie Paragraph 222/227 AO.
 
@@ -526,12 +526,12 @@ erfuellten vier Voraussetzungen.
 Sensitivitaetsanalyse:
 - Szenario A (Paragraph 3a EStG greift voll): Plan-Quote [%] einhaltbar.
 - Szenario B (Paragraph 3a EStG scheitert): Mehr-Steuer ca. EUR [Betrag]
-  als Masseverbindlichkeit Paragraph 55 InsO; Plan-Quote nicht einhaltbar.
+ als Masseverbindlichkeit Paragraph 55 InsO; Plan-Quote nicht einhaltbar.
 
 Risikominderungsstrategie:
 1. Vorabauskunft Paragraph 89 AO wird beantragt (Zeitschiene: [Monate]).
 2. Plan enthaelt Hilfslinie Stundung Paragraph 222 AO; Tilgungsplan in
-   Anlage [...].
+ Anlage [...].
 3. Plan-Quote enthaelt Polster von EUR [Betrag] fuer Restrisiken.
 
 Ich bitte um Beratung und ggf. Beschluss zum Vorgehen.
@@ -623,12 +623,12 @@ Kaltstart-Fragen:
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 - Paragraph 251 AO.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Verbindlichkeiten klassifizieren:** geschaeftlich vs. privat. Nur geschaeftlich loest Sanierungsertrag aus.
 2. **Sanierungs-Modus:**
-   - Plan-Sanierung (mit Forderungsverzicht): Sanierungsertrag moeglich.
-   - reine Restschuldbefreiung: zivilrechtliches Erloeschen der Verbindlichkeit; steuerlich aber bilanziell Ertrag, falls die Verbindlichkeit zuvor passiviert war.
+ - Plan-Sanierung (mit Forderungsverzicht): Sanierungsertrag moeglich.
+ - reine Restschuldbefreiung: zivilrechtliches Erloeschen der Verbindlichkeit; steuerlich aber bilanziell Ertrag, falls die Verbindlichkeit zuvor passiviert war.
 3. **Vier Voraussetzungen Paragraph 3a Absatz 2 EStG** pruefen, wenn unternehmensbezogen.
 4. **Unternehmerbezogene Sanierung** abgrenzen — sie ist nicht von Paragraph 3a EStG erfasst; hier Hilfslinie Paragraph 227 AO.
 5. **Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG**: Verlustvortraege der natuerlichen Person.
@@ -680,10 +680,10 @@ Die Restschuldbefreiung erlischt die Verbindlichkeit (Paragraph 301 Absatz 1 Ins
 
 ```
 EBENE BETRIEBSSCHULDEN (Plan-Sanierung unternehmensbezogen)
-Forderungsverzicht                  EUR 600.000
-abzgl. Verlustvortrag (Annahme)     EUR 200.000
-abzgl. Sanierungskosten             EUR  20.000
-= Restsanierungsertrag              EUR 380.000
+Forderungsverzicht EUR 600.000
+abzgl. Verlustvortrag (Annahme) EUR 200.000
+abzgl. Sanierungskosten EUR 20.000
+= Restsanierungsertrag EUR 380.000
 => Paragraph 3a EStG anwendbar, falls vier Voraussetzungen.
 
 EBENE PRIVATSCHULDEN (Restschuldbefreiung)

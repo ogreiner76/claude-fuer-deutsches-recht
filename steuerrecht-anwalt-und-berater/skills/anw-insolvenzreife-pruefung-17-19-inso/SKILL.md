@@ -1,6 +1,6 @@
 ---
 name: anw-insolvenzreife-pruefung-17-19-inso
-description: "Workflow-Skill zu anw insolvenzreife pruefung 17 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu anw insolvenzreife pruefung 17 19 inso: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO (Steueranwalts-Sicht)
@@ -64,7 +64,7 @@ Der Steueranwalt ist typischerweise der erste Berater, der erkennt, dass seine M
 ## Prüfschema Insolvenzreife
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -137,7 +137,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ANWALTLICHES PRÜFGUTACHTEN — VERTRAULICH
 Betreff: Insolvenzreife-Prüfung [Firma] GmbH — Stichtag [Datum]
 Erstellt von: Rechtsanwalt/Rechtsanwältin [Name], Fachanwalt/Fachanwältin
-              für Steuerrecht
+ für Steuerrecht
 
 A. Sachverhalt und Auftrag
 [Kurze Darstellung des Mandats; Anlass: Steuerrückstände EUR x;
@@ -149,20 +149,20 @@ B. Prüfung § 17 InsO — Zahlungsunfähigkeit
 I. Liquiditätsstatus zum [Stichtag]:
 
 Aktiva I:
- Bankguthaben (Kto. Nr. ...)     EUR [x]
- Ungenutzte Kreditlinie           EUR [y]
+ Bankguthaben (Kto. Nr. ...) EUR [x]
+ Ungenutzte Kreditlinie EUR [y]
  Forderungen Zahlungseingang ≤14T EUR [z]
- Summe Aktiva I                   EUR [A]
+ Summe Aktiva I EUR [A]
 
 Passiva I:
  Steuerschulden FA [Bescheid ...] EUR [a]
  (davon AdV § 361 AO: EUR [b] bleibt Passiva I;
-  davon Stundung § 222 AO bis [Datum]: EUR [c] = herausnehmen)
- Netto Steuerschulden Passiva I   EUR [a-c]
- Lohnsteuer § 41a EStG fällig     EUR [d]
- SV-Abgaben fällig                EUR [e]
- LuL-Verbindlichkeiten fällig     EUR [f]
- Summe Passiva I                  EUR [P]
+ davon Stundung § 222 AO bis [Datum]: EUR [c] = herausnehmen)
+ Netto Steuerschulden Passiva I EUR [a-c]
+ Lohnsteuer § 41a EStG fällig EUR [d]
+ SV-Abgaben fällig EUR [e]
+ LuL-Verbindlichkeiten fällig EUR [f]
+ Summe Passiva I EUR [P]
 
 Deckungslücke = [P] − [A] = EUR [L]
 Quote = [L] / [P] = [X] %
@@ -230,11 +230,11 @@ Zahlungen aus der Gesellschaft, die die Insolvenzmasse schmälern
 Wir empfehlen Ihnen dringend, unverzüglich:
 1. einen Fachanwalt für Insolvenzrecht hinzuzuziehen;
 2. mit dem Insolvenzgericht [Gericht] (Registergericht Ihres
-   Gesellschaftssitzes) Kontakt aufzunehmen;
+ Gesellschaftssitzes) Kontakt aufzunehmen;
 3. bis zum Insolvenzantrag keine Zahlungen mehr aus der
-   Gesellschaft zu leisten, die die Masse schmälern könnten
-   (§ 15b InsO), ausgenommen Zahlungen die mit der Sorgfalt
-   eines ordentlichen Kaufmanns vereinbar sind.
+ Gesellschaft zu leisten, die die Masse schmälern könnten
+ (§ 15b InsO), ausgenommen Zahlungen die mit der Sorgfalt
+ eines ordentlichen Kaufmanns vereinbar sind.
 
 Bitte bestätigen Sie uns den Empfang dieses Schreibens und
 teilen Sie uns mit, welche Schritte Sie unternehmen werden.
@@ -251,26 +251,26 @@ Datum: [Datum]
 Teilnehmer: RA [Name], GF [Firma GmbH], ggf. Steuerberater [Name]
 
 Gegenstand: Erörterung der Insolvenzreife-Prüfung und Belehrung
-            nach § 15a InsO
+ nach § 15a InsO
 
 1. Das anwaltliche Prüfgutachten vom [Datum] wurde dem Mandanten
-   erläutert. Ergebnis: Zahlungsunfähigkeit nach § 17 InsO seit
-   [Stichtag] bejaht.
+ erläutert. Ergebnis: Zahlungsunfähigkeit nach § 17 InsO seit
+ [Stichtag] bejaht.
 
 2. Der Mandant wurde ausdrücklich belehrt über:
-   a) Inhalt und Rechtsfolgen des § 15a Abs. 1 InsO
-      (Antragspflicht, Frist 3 Wochen);
-   b) Strafbarkeit nach § 15a Abs. 4 InsO;
-   c) Persönliche Haftung nach § 15b InsO für Masseschmälerungen;
-   d) § 69 AO GF-Haftung für nicht abgeführte Steuern;
-   e) § 266a StGB Strafbarkeit bei nicht abgeführten SV-Beiträgen.
+ a) Inhalt und Rechtsfolgen des § 15a Abs. 1 InsO
+ (Antragspflicht, Frist 3 Wochen);
+ b) Strafbarkeit nach § 15a Abs. 4 InsO;
+ c) Persönliche Haftung nach § 15b InsO für Masseschmälerungen;
+ d) § 69 AO GF-Haftung für nicht abgeführte Steuern;
+ e) § 266a StGB Strafbarkeit bei nicht abgeführten SV-Beiträgen.
 
 3. Der Mandant hat erklärt: [Reaktion des Mandanten dokumentieren]
 
 4. Nächste Schritte: [Beschluss Beteiligter]
 
 5. Kopie dieses Aktenvermerks geht an den Steuerberater [Name]
-   zur Dokumentation der § 102 StaRUG-Pflichterfüllung.
+ zur Dokumentation der § 102 StaRUG-Pflichterfüllung.
 
 Unterschrift RA: ___________________
 Datum: ___________________________
@@ -327,6 +327,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 <!-- AUDIT 27.05.2026 bundle_044
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  → Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=24.05.2005&Aktenzeichen=IX+ZR+123%2F04
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ → Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=24.05.2005&Aktenzeichen=IX+ZR+123%2F04
 -->

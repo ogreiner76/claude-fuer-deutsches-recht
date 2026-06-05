@@ -1,13 +1,13 @@
 ---
 name: wiedereinsetzung-frist-buergergeld-sanktionen
-description: "Nutze dies, wenn Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31A Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Prüfen, Widerspruch Ohne Anwalt Einreichen im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31A Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Prüfen, Widerspruch Ohne Anwalt Einreichen prüfen.; Erstelle eine Arbeitsfassung zu Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31A Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Prüfen, Widerspruch Ohne Anwalt Einreichen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wiedereinsetzung Frist 67 Sgg, Bürgergeld Sanktionen 31a Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31A Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Prüfen, Widerspruch Ohne Anwalt Einreichen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31A Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Prüfen, Widerspruch Ohne Anwalt Einreichen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -97,7 +97,7 @@ Wenn das Hindernis (z.B. die Krankheit) endet, haben Sie nur 2 Wochen Zeit fuer 
 ### Schritt 3 — Antrag schreiben
 
 ```
-[Behoerde / SG]                                    [Ort, Datum]
+[Behoerde / SG] [Ort, Datum]
 
 Az: [aus dem Bescheid]
 

@@ -1,6 +1,6 @@
 ---
 name: rom-006-vormundschaft-und-kuratel
-description: "Römisches Recht: Vormundschaft Und Kuratel. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Vormundschaft Und Kuratel. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Vormundschaft Und Kuratel

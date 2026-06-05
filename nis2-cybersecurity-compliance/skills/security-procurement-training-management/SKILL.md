@@ -1,13 +1,13 @@
 ---
 name: security-procurement-training-management
-description: "Nutze dies, wenn Security Procurement Tender, Security Training Management, Sektor Und Groessencheck, Software Sbom im Plugin Nis2 Cybersecurity Compliance konkret bearbeitet werden soll. Auslöser: Bitte Security Procurement Tender, Security Training Management, Sektor Und Groessencheck, Software Sbom prüfen.; Erstelle eine Arbeitsfassung zu Security Procurement Tender, Security Training Management, Sektor Und Groessencheck, Software Sbom.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Security Procurement Tender, Security Training Management, Sektor Und Groessencheck, Software Sbom: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Security Procurement Tender, Security Training Management, Sektor Und Groessencheck, Software Sbom
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Security Procurement Tender, Security Training Management, Sektor Und Groessencheck, Software Sbom** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

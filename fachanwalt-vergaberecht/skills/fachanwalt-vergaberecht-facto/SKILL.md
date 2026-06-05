@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-vergaberecht-facto
-description: "Nutze dies, wenn Fachanwalt Vergaberecht De Facto Vergabe Klage, Fachanwalt Vergaberecht Eignungspruefung, Fachanwalt Vergaberecht Freiberufliche Leistungen Hoai, Fachanwalt Vergaberecht Inhouse Interkommunal im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Vergaberecht De Facto Vergabe Klage, Fachanwalt Vergaberecht Eignungspruefung, Fachanwalt Vergaberecht Freiberufliche Leistungen Hoai, Fachanwalt Vergaberecht Inhouse Interkommunal prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Vergaberecht De Facto Vergabe Klage, Fachanwalt Vergaberecht Eignungspruefung, Fachanwalt Vergaberecht Freiberufliche Leistungen Hoai, Fachanwalt Vergaberecht Inhouse Interkommunal.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Vergaberecht De Facto Vergabe Klage, Fachanwalt Vergaberecht Eignungspruefung, Fachanwalt Vergaberecht Freiberufliche Leistungen Hoai, Fachanwalt Vergaberecht Inhouse Interkommunal: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Vergaberecht De Facto Vergabe Klage, Fachanwalt Vergaberecht Eignungspruefung, Fachanwalt Vergaberecht Freiberufliche Leistungen Hoai, Fachanwalt Vergaberecht Inhouse Interkommunal
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Vergaberecht De Facto Vergabe Klage, Fachanwalt Vergaberecht Eignungspruefung, Fachanwalt Vergaberecht Freiberufliche Leistungen Hoai, Fachanwalt Vergaberecht Inhouse Interkommunal** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -91,7 +91,7 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 - Negativ-Interesse: Bewerbungs-Kosten
 - Positiv-Interesse: entgangener Gewinn (BGH-Linie)
 
-## 5) Workflow Aufdeckung
+## 5) Aufdeckung
 
 ### Phase 1 — Information
 
@@ -307,9 +307,9 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Baustein 1 — Stellungnahme Selbstreinigung § 125 GWB
 
 ```
-An [Auftraggeber / Vergabestelle]             [Datum]
+An [Auftraggeber / Vergabestelle] [Datum]
 Betr.: Vergabeverfahren [Titel], Az. [...]
-       Stellungnahme Selbstreinigung § 125 GWB
+ Stellungnahme Selbstreinigung § 125 GWB
 
 Sehr geehrte Damen und Herren,
 
@@ -338,13 +338,13 @@ vollständig ausgeglichen.
 III. Compliance-Maßnahmen (§ 125 Abs. 1 Nr. 3 GWB)
 
 a) Einführung eines ISO 37301-zertifizierten Compliance-Management-
-   Systems am [Datum] (Anlage K4: Zertifikat).
+ Systems am [Datum] (Anlage K4: Zertifikat).
 b) Schulung aller Vertriebs- und Beschaffungsmitarbeiter am
-   [Datum] und jährlich seitdem (Anlage K5: Teilnehmerlisten).
+ [Datum] und jährlich seitdem (Anlage K5: Teilnehmerlisten).
 c) Entlassung der involvierten Personen [Name, Position] mit
-   Datum [Datum] (Anlage K6).
+ Datum [Datum] (Anlage K6).
 d) Einrichtung eines anonymen Hinweisgebersystems (Whistleblower-
-   Hotline) seit [Datum] (Anlage K7).
+ Hotline) seit [Datum] (Anlage K7).
 
 IV. Verhältnismäßigkeit (§ 125 Abs. 2 GWB)
 
@@ -363,9 +363,9 @@ ist.
 ### Baustein 2 — Rüge wegen überzogener Eignungsanforderungen
 
 ```
-An [Vergabestelle]                              [Datum]
+An [Vergabestelle] [Datum]
 Betr.: Vergabe [Titel], Rüge § 160 Abs. 3 GWB
-       Unverhältnismäßige Eignungsanforderungen
+ Unverhältnismäßige Eignungsanforderungen
 
 Sehr geehrte Damen und Herren,
 
@@ -392,9 +392,9 @@ die Vergabeunterlagen entsprechend anzupassen.
 ### Baustein 3 — Rüge Eignungsbejahung Konkurrent
 
 ```
-An [Vergabestelle]                              [Datum]
+An [Vergabestelle] [Datum]
 Betr.: Vergabe [Titel], Rüge § 160 Abs. 3 GWB
-       Unberechtigte Eignungsbejahung Beigeladener
+ Unberechtigte Eignungsbejahung Beigeladener
 
 Sehr geehrte Damen und Herren,
 
@@ -402,15 +402,15 @@ unsere Mandantin beanstandet, dass die [Beigeladene GmbH] zu
 Unrecht als geeignet behandelt wurde.
 
 1. Fehlendes Eignungskriterium: Die Bekanntmachung vom [Datum]
-   verlangt [konkrete Anforderung, z.B. ISO 27001-Zertifikat].
-   Die Beigeladene verfügt nach unserem Kenntnisstand über kein
-   solches Zertifikat (Anlage K1: öffentlich zugängliche Liste).
+ verlangt [konkrete Anforderung, z.B. ISO 27001-Zertifikat].
+ Die Beigeladene verfügt nach unserem Kenntnisstand über kein
+ solches Zertifikat (Anlage K1: öffentlich zugängliche Liste).
 
 2. Obligatorischer Ausschlussgrund § 123 Abs. 4 Nr. 2 GWB:
-   Die Beigeladene hat in dem am [Datum] veröffentlichten
-   Vergabeverfahren [Az.] Kartellanteile getragen, was durch
-   Pressemitteilung des Bundeskartellamts vom [Datum] belegt ist
-   (Anlage K2). Ein zwingender Ausschlussgrund liegt vor.
+ Die Beigeladene hat in dem am [Datum] veröffentlichten
+ Vergabeverfahren [Az.] Kartellanteile getragen, was durch
+ Pressemitteilung des Bundeskartellamts vom [Datum] belegt ist
+ (Anlage K2). Ein zwingender Ausschlussgrund liegt vor.
 
 Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 
@@ -510,20 +510,20 @@ Stellungnahme zur Eignungspruefung
 Vergabeverfahren [BEZEICHNUNG]
 
 1. Eignungssachverhalt:
-   Unser Mandant hat alle in der Bekanntmachung vom
-   [DATUM] geforderten Eignungsnachweise fristgerecht
-   eingereicht (Anlage K1 bis K[N]).
+ Unser Mandant hat alle in der Bekanntmachung vom
+ [DATUM] geforderten Eignungsnachweise fristgerecht
+ eingereicht (Anlage K1 bis K[N]).
 
 2. Zum streitigen Kriterium [XYZ]:
-   [Konkreter Nachweis + BGH/EuGH-Bezug]
-   Das Kriterium ist im Verhältnis zum Auftragsgegenstand
-   verhaeltnismaessig nach § 122 Abs. 4 GWB / EuGH 03.06.2022,
-   C-376/21 (curia.europa.eu).
+ [Konkreter Nachweis + BGH/EuGH-Bezug]
+ Das Kriterium ist im Verhältnis zum Auftragsgegenstand
+ verhaeltnismaessig nach § 122 Abs. 4 GWB / EuGH 03.06.2022,
+ C-376/21 (curia.europa.eu).
 
 3. Antrag:
-   Unser Mandant ist als geeignet anzusehen.
-   Ein Ausschluss wegen mangelnder Eignung ist
-   rechtswidrig und aufzuheben.
+ Unser Mandant ist als geeignet anzusehen.
+ Ein Ausschluss wegen mangelnder Eignung ist
+ rechtswidrig und aufzuheben.
 ```
 
 
@@ -546,7 +546,7 @@ Vergabeverfahren [BEZEICHNUNG]
 ## Aufgabe
 Vergabe von Architekten-, Ingenieur-, Rechts-, Wirtschaftspruefer- und sonstigen freiberuflichen Leistungen vergaberechts- und honorarrechtskonform aufsetzen oder pruefen. Schluesselfrage: Welches Verfahren, wie Honorar in der Wertung beruecksichtigen?
 
-## Kaltstart
+## Einstieg
 1. Leistung freiberuflich i. S. § 18 EStG?
 2. Schwellenwert oberschwellig (Liefer-/Dienstleistung EUR 216000 Kommunen / EUR 140000 Bund ab 01.01.2026)?
 3. Planungsleistung mit HOAI-Bezug (Architekt, Ingenieur)?
@@ -614,7 +614,7 @@ EuGH C-377/17 und BGH VII ZR 174/19 ueber curia.europa.eu und bundesgerichtshof.
 ## Aufgabe
 Inhouse-Geschaeft oder horizontale interkommunale Zusammenarbeit als Ausnahme von der Ausschreibungspflicht pruefen. Fehlt eine Ausnahme, droht De-facto-Vergabe und § 135 GWB-Unwirksamkeit.
 
-## Kaltstart
+## Einstieg
 1. Wer ist Auftraggeber, wer ist Auftragnehmer (gleicher oeffentlicher Auftraggeber, Tochter, Schwester-Kommune)?
 2. Beherrschungsstruktur (Anteile, Beirats-/Aufsichtsmehrheit)?
 3. Privater Kapitalanteil am Auftragnehmer?

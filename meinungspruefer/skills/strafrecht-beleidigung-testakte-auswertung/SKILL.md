@@ -1,13 +1,13 @@
 ---
 name: strafrecht-beleidigung-testakte-auswertung
-description: "Nutze dies, wenn Strafrecht 185 Beleidigung, Testakte Auswertung im Plugin Meinungspruefer konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht 185 Beleidigung, Testakte Auswertung prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht 185 Beleidigung, Testakte Auswertung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafrecht 185 Beleidigung, Testakte Auswertung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Strafrecht 185 Beleidigung, Testakte Auswertung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht 185 Beleidigung, Testakte Auswertung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -100,13 +100,13 @@ Nutze diesen Skill, wenn die Arbeitsakte `meinungspruefer-grenzfaelle-alltag` ho
 1. Dateien inventarisieren.
 2. Jede Äußerung als eigenes Äußerungsblatt erfassen.
 3. Stränge bilden:
-   - X-Post Bauprojekt.
-   - LinkedIn Projektleitung.
-   - Kantine/Arbeitgeber.
-   - Schule/Elternchat.
-   - Bürgermeister und "Lackaffe".
-   - Pinocchio-Vergleich.
-   - Tatsachenvorwurf mit Beleglücken.
+ - X-Post Bauprojekt.
+ - LinkedIn Projektleitung.
+ - Kantine/Arbeitgeber.
+ - Schule/Elternchat.
+ - Bürgermeister und "Lackaffe".
+ - Pinocchio-Vergleich.
+ - Tatsachenvorwurf mit Beleglücken.
 4. Pro Strang passende Skills vorschlagen.
 5. Eine Gesamtampel ausgeben.
 

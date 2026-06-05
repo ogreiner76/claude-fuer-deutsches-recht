@@ -1,13 +1,13 @@
 ---
 name: pfueb-raeumung-schuldnerschutz-beweislast
-description: "Nutze dies, wenn Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast prüfen.; Erstelle eine Arbeitsfassung zu Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pfueb Risikoampel Und Gegenargumente, Raeumung Compliance Dokumentation Und Akte, Schuldnerschutz Beweislast Und Darlegungslast: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast
+# Pfueb Risikoampel Und Gegenargumente, Raeumung Compliance Dokumentation Und Akte, Schuldnerschutz Beweislast Und Darlegungslast
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pfueb Risikoampel Und Gegenargumente, Raeumung Compliance Dokumentation Und Akte, Schuldnerschutz Beweislast Und Darlegungslast** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance Dokumentation Und Akte, Spezial Schuldnerschutz Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pfueb Risikoampel Und Gegenargumente, Raeumung Compliance Dokumentation Und Akte, Schuldnerschutz Beweislast Und Darlegungslast** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `zwangsvollstreckung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Pfueb Risikoampel Und Gegenargumente, Spezial Raeumung Compliance
 # Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien / spezial pfueb risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien / pfueb risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Raeumung: Compliance-Dokumentation und Aktenvermerk
 
 ## Spezialwissen: Raeumung: Compliance-Dokumentation und Aktenvermerk
-- **Spezialgegenstand:** Raeumung: Compliance-Dokumentation und Aktenvermerk / spezial raeumung compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Raeumung: Compliance-Dokumentation und Aktenvermerk / raeumung compliance dokumentation und akte. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -135,7 +135,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung
 
 ## Spezialwissen: Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung / spezial schuldnerschutz beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung / schuldnerschutz beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

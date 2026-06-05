@@ -59,7 +59,7 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 ## Prüfschema Liquiditätsvorschau
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -126,22 +126,22 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ```
 LIQUIDITÄTSVORSCHAU — VERTRAULICH — Projekt [Deal-Code]
-Stichtag: [TT.MM.JJJJ]   Erstellt von: [Name]
+Stichtag: [TT.MM.JJJJ] Erstellt von: [Name]
 
-| Position           | Woche 1     | Woche 2     | Woche 3     |
+| Position | Woche 1 | Woche 2 | Woche 3 |
 |--------------------|-------------|-------------|-------------|
-| Anfangsbestand     | EUR [X]     | EUR [Y]     | EUR [Z]     |
-| + Einzahlungen     | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon Debitoren  | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon sonstige   | EUR [...]   | EUR [...]   | EUR [...]   |
-| - Auszahlungen     | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon Löhne/GH   | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon Lieferant. | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon Steuern/SV | EUR [...]   | EUR [...]   | EUR [...]   |
-|   davon Debt Serv. | EUR [...]   | EUR [...]   | EUR [...]   |
-| Endbestand         | EUR [Y]     | EUR [Z]     | EUR [A]     |
-| Deckungslücke      | EUR 0       | EUR 0       | EUR [B]     |
-| AMPEL              | GRÜN        | GRÜN        | ROT         |
+| Anfangsbestand | EUR [X] | EUR [Y] | EUR [Z] |
+| + Einzahlungen | EUR [...] | EUR [...] | EUR [...] |
+| davon Debitoren | EUR [...] | EUR [...] | EUR [...] |
+| davon sonstige | EUR [...] | EUR [...] | EUR [...] |
+| - Auszahlungen | EUR [...] | EUR [...] | EUR [...] |
+| davon Löhne/GH | EUR [...] | EUR [...] | EUR [...] |
+| davon Lieferant. | EUR [...] | EUR [...] | EUR [...] |
+| davon Steuern/SV | EUR [...] | EUR [...] | EUR [...] |
+| davon Debt Serv. | EUR [...] | EUR [...] | EUR [...] |
+| Endbestand | EUR [Y] | EUR [Z] | EUR [A] |
+| Deckungslücke | EUR 0 | EUR 0 | EUR [B] |
+| AMPEL | GRÜN | GRÜN | ROT |
 
 HINWEIS: Woche 3 zeigt Deckungslücke EUR [B]. Prüfung § 17 InsO erforderlich.
 TODO [Owner] bis [Datum]: Brückenfinanzierung sicherstellen oder StaRUG-Anzeige prüfen.
@@ -155,20 +155,20 @@ Stand: [Datum]
 
 A. EINZAHLUNGEN
 1. Debitoren-OPOS: EUR [X] fällig in Woche [X]. Ausfallwahrscheinlichkeit [Y] %.
-   Quelle: OPOS-Liste vom [Datum]. NICHT BELEGBAR: [Posten] — TODO [Owner].
+ Quelle: OPOS-Liste vom [Datum]. NICHT BELEGBAR: [Posten] — TODO [Owner].
 2. Anzahlungen Auftrag [Nr.]: EUR [X], Zahlungseingang [Datum] lt. Auftragsbestätigung.
-   Quelle: Auftragsbestätigung Anlage [X].
+ Quelle: Auftragsbestätigung Anlage [X].
 
 B. AUSZAHLUNGEN
 1. Löhne: EUR [X], Fälligkeit [Datum]. Quelle: Lohnliste [Datum].
 2. Steuerrückstand: EUR [X], Fälligkeit [Datum] lt. Bescheid [AZ].
-   Risiko: Vollstreckung bei Nichtzahlung. TODO [Owner] bis [Datum]: Ratenzahlungsantrag.
+ Risiko: Vollstreckung bei Nichtzahlung. TODO [Owner] bis [Datum]: Ratenzahlungsantrag.
 
 C. KRITISCHE ANNAHMEN
 - Kreditlinie Bank [Name]: EUR [X] verfügbar. Covenant-Verletzung ab [Datum] möglich.
-  TODO: Bankgespräch bis [Datum].
+ TODO: Bankgespräch bis [Datum].
 - Management-Forecast-Umsatz Q2 +15 %: NICHT PLAUSIBEL auf Basis OPOS.
-  Korrektur: -8 % angesetzt.
+ Korrektur: -8 % angesetzt.
 ```
 
 --- vor Versand klaeren ---

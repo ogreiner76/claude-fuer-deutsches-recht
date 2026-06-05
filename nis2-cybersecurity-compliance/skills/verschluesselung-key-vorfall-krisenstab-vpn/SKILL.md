@@ -1,13 +1,13 @@
 ---
 name: verschluesselung-key-vorfall-krisenstab-vpn
-description: "Nutze dies, wenn Verschluesselung Key Management, Vorfall Krisenstab, Vpn Ausland Reisen, Vulnerability Management im Plugin Nis2 Cybersecurity Compliance konkret bearbeitet werden soll. Auslöser: Bitte Verschluesselung Key Management, Vorfall Krisenstab, Vpn Ausland Reisen, Vulnerability Management prüfen.; Erstelle eine Arbeitsfassung zu Verschluesselung Key Management, Vorfall Krisenstab, Vpn Ausland Reisen, Vulnerability Management.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verschluesselung Key Management, Vorfall Krisenstab, Vpn Ausland Reisen, Vulnerability Management: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verschluesselung Key Management, Vorfall Krisenstab, Vpn Ausland Reisen, Vulnerability Management
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verschluesselung Key Management, Vorfall Krisenstab, Vpn Ausland Reisen, Vulnerability Management** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

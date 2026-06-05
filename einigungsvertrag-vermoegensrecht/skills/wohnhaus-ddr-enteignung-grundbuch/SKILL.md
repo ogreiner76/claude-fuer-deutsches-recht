@@ -1,13 +1,13 @@
 ---
 name: wohnhaus-ddr-enteignung-grundbuch
-description: "Nutze dies, wenn Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus Ddr Enteignung Grundbuch Ausw, Ein 097 Wohnhaus Ddr Enteignung Behoerdenbrief, Ein 098 Wohnhaus Ddr Enteignung Widerspruch Pr im Plugin Einigungsvertrag Vermoegensrecht konkret bearbeitet werden soll. Auslöser: Bitte Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus Ddr Enteignung Grundbuch Ausw, Ein 097 Wohnhaus Ddr Enteignung Behoerdenbrief, Ein 098 Wohnhaus Ddr Enteignung Widerspruch Pr prüfen.; Erstelle eine Arbeitsfassung zu Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus Ddr Enteignung Grundbuch Ausw, Ein 097 Wohnhaus Ddr Enteignung Behoerdenbrief, Ein 098 Wohnhaus Ddr Enteignung Widerspruch Pr.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus Ddr Enteignung Grundbuch Ausw, Ein 097 Wohnhaus Ddr Enteignung Behoerdenbrief, Ein 098 Wohnhaus Ddr Enteignung Widerspruch Pr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus Ddr Enteignung Grundbuch Ausw, Ein 097 Wohnhaus Ddr Enteignung Behoerdenbrief, Ein 098 Wohnhaus Ddr Enteignung Widerspruch Pr
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ein 094 Wohnhaus Ddr Enteignung Berechtigte Er, Ein 096 Wohnhaus Ddr Enteignung Grundbuch Ausw, Ein 097 Wohnhaus Ddr Enteignung Behoerdenbrief, Ein 098 Wohnhaus Ddr Enteignung Widerspruch Pr** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

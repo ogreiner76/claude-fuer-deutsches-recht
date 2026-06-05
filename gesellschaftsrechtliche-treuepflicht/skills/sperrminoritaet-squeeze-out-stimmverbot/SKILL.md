@@ -1,22 +1,22 @@
 ---
 name: sperrminoritaet-squeeze-out-stimmverbot
-description: "Nutze dies, wenn Sperrminoritaet, Squeeze Out, Stimmverbot Und Selbstbetroffenheit, Treuepflicht Abschlussbericht Playbook im Plugin Gesellschaftsrechtliche Treuepflicht konkret bearbeitet werden soll. Auslöser: Bitte Sperrminoritaet, Squeeze Out, Stimmverbot Und Selbstbetroffenheit, Treuepflicht Abschlussbericht Playbook prüfen.; Erstelle eine Arbeitsfassung zu Sperrminoritaet, Squeeze Out, Stimmverbot Und Selbstbetroffenheit, Treuepflicht Abschlussbericht Playbook.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Sperrminoritaet, Squeeze Out, Stimmverbot Und Selbstbetroffenheit, Treuepflicht Abschlussbericht Playbook: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Sperrminoritaet, Squeeze Out, Stimmverbot Und Selbstbetroffenheit, Treuepflicht Abschlussbericht Playbook
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Sperrminoritaet, Squeeze Out, Stimmverbot Und Selbstbetroffenheit, Treuepflicht Abschlussbericht Playbook** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `sperrminoritaet` | Gesellschaftsrechtliche Treuepflicht: Sperrminoritaet; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `squeeze-out` | Gesellschaftsrechtliche Treuepflicht: Squeeze Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `stimmverbot-und-selbstbetroffenheit` | Gesellschaftsrechtliche Treuepflicht: Stimmverbot Und Selbstbetroffenheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `treuepflicht-abschlussbericht-playbook` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Abschlussbericht Playbook; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `sperrminoritaet` | Gesellschaftsrechtliche Treuepflicht: Sperrminoritaet; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `squeeze-out` | Gesellschaftsrechtliche Treuepflicht: Squeeze Out; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `stimmverbot-und-selbstbetroffenheit` | Gesellschaftsrechtliche Treuepflicht: Stimmverbot Und Selbstbetroffenheit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `treuepflicht-abschlussbericht-playbook` | Gesellschaftsrechtliche Treuepflicht: Treuepflicht Abschlussbericht Playbook; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Sperrminoritaet, Squeeze Out, Stimmverbot Und Selbstbetroffenheit, Treuep
 
 ## 1. `sperrminoritaet`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Sperrminoritaet; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Sperrminoritaet; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Sperrminoritaet
 
@@ -93,7 +93,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `squeeze-out`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Squeeze Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Squeeze Out; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Squeeze Out
 
@@ -159,7 +159,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `stimmverbot-und-selbstbetroffenheit`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Stimmverbot Und Selbstbetroffenheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Stimmverbot Und Selbstbetroffenheit; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Stimmverbot Und Selbstbetroffenheit
 
@@ -225,7 +225,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `treuepflicht-abschlussbericht-playbook`
 
-**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Abschlussbericht Playbook; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuepflicht Abschlussbericht Playbook; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuepflicht Abschlussbericht Playbook
 

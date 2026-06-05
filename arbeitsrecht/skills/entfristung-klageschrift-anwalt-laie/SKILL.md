@@ -1,13 +1,13 @@
 ---
 name: entfristung-klageschrift-anwalt-laie
-description: "Nutze dies, wenn Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet prüfen.; Erstelle eine Arbeitsfassung zu Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -358,7 +358,7 @@ ____________________________
 
 ## Zweck
 
-Wie im KüSchK-Bündel muss auch im Entfristungs-Workflow zunächst geklärt werden, wer den Skill nutzt. Die Warnstufe und die Art der Ausgaben richten sich danach.
+Wie im KüSchK-Bündel muss auch im Entfristungs-zunächst geklärt werden, wer den Skill nutzt. Die Warnstufe und die Art der Ausgaben richten sich danach.
 
 ## Pflicht-Eröffnungsfrage
 
@@ -480,11 +480,11 @@ Gleichzeitig mit der Entfristungsklage Weiterbeschäftigungsantrag stellen:
 Befristung unwirksam (§ 16 Satz 1 TzBfG):
 ├── Arbeitgeber beschäftigt freiwillig weiter → Normales unbefristetes AV
 ├── Arbeitgeber verweigert Weiterbeschäftigung →
-│   ├── Annahmeverzugslohn (§ 615 BGB) verlangen
-│   └── Weiterbeschäftigungsantrag vollstrecken
+│ ├── Annahmeverzugslohn (§ 615 BGB) verlangen
+│ └── Weiterbeschäftigungsantrag vollstrecken
 └── Arbeitgeber kündigt ordentlich →
-    ├── Kündigung vor vereinbartem Ende → § 16 Satz 2 TzBfG: zu früh → unwirksam
-    └── Kündigung zum/nach vereinbartem Ende → KSchG-Prüfung (§ 1 KSchG, § 102 BetrVG)
+ ├── Kündigung vor vereinbartem Ende → § 16 Satz 2 TzBfG: zu früh → unwirksam
+ └── Kündigung zum/nach vereinbartem Ende → KSchG-Prüfung (§ 1 KSchG, § 102 BetrVG)
 ```
 
 ## Klageziel

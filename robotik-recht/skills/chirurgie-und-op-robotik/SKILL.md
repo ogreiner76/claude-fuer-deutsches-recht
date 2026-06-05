@@ -35,7 +35,7 @@ OP- und Chirurgieroboter sind regelmäßig Medizinprodukte hoher Risikoklasse (M
 - **DSGVO** Art. 9 Patientendaten; § 22 BDSG.
 - **VO (EU) 2024/2853** Produkthaftung.
 
-## Workflow Schritt für Schritt
+## Schritt für Schritt
 
 1. **MDR-Klassifizierung.** Klasse IIb/III? Software als Medizinprodukt (SaMD) gesondert? Kombiprodukt?
 2. **Konformitätsbewertung.** Modul nach Anhang IX/X MDR; Benannte Stelle eingebunden.

@@ -1,6 +1,6 @@
 ---
 name: interessen
-description: "Nutze dies, wenn Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Schnittstellen: Mehrparteienkonflikt und Interessenmatrix prüfen.; Erstelle eine Arbeitsfassung zu Schnittstellen: Mehrparteienkonflikt und Interessenmatrix.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Schnittstellen: Mehrparteienkonflikt und Interessenmatrix: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Schnittstellen: Mehrparteienkonflikt und Interessenmatrix

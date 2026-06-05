@@ -1,13 +1,13 @@
 ---
 name: prozessrecht-mandat-arbeitsbereich-abschnitt
-description: "Nutze dies, wenn Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt prüfen.; Erstelle eine Arbeitsfassung zu Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prozessrecht Anpassen, Prozessrecht Mandat Arbeitsbereich, Schriftsatz Abschnitt** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -81,9 +81,9 @@ Keine gesonderten Normen. Allgemein: §§ 43a BRAO, 3a RVG bei rollenbezogenen �
 
 ```
 Änderung gespeichert:
-  Feld: praxis_schwerpunkte
-  Alt:  ["ZPO", "ArbGG"]
-  Neu:  ["ZPO", "ArbGG", "StPO"]
+ Feld: praxis_schwerpunkte
+ Alt: ["ZPO", "ArbGG"]
+ Neu: ["ZPO", "ArbGG", "StPO"]
 
 CLAUDE.md aktualisiert. Alle Skills verwenden ab sofort das neue Profil.
 ```
@@ -131,7 +131,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 ### Schritt 1: Konfiguration prüfen
 
@@ -145,13 +145,13 @@ Lies `CLAUDE.md` → Abschnitt `## Mandatsarbeitsbereiche`. Ist `Aktiviert: ✗`
 
 1. Prüfen, ob der Slug noch nicht in `mandate/<slug>/` oder `mandate/_archiviert/<slug>/` existiert. Bei Kollision: anderen Slug wählen lassen.
 2. Aufnahmeinterview:
-   - **Mandant** (zu vertretende Partei oder interne Abteilung bei Syndikusanwalt)
-   - **Gegenseite** (eine oder mehrere)
-   - **Mandatstyp**: Zivilstreitigkeit | Arbeitsrechtssache | Verwaltungsverfahren | Strafverteidigung | Steuerrechtsstreit (FGO) | Sozialrechtsstreit (SGG) | IP-Streit | sonstiges
-   - **Vertraulichkeitsstufe**: Standard | erhöht | Clean-Team
-   - **Sachverhalt** (2–5 Sätze: Gegenstand, Beteiligte, Streitwert/Risiko, Besonderheiten)
-   - **Mandatsspezifische Abweichungen vom Kanzleistandard** (z. B. "Mandant verlangt wöchentliche Statusberichte", "Gegenseite ist Geschäftspartner — deeskalierender Ton")
-   - **Verwandte Mandate** (Slugs verbundener Sachen)
+ - **Mandant** (zu vertretende Partei oder interne Abteilung bei Syndikusanwalt)
+ - **Gegenseite** (eine oder mehrere)
+ - **Mandatstyp**: Zivilstreitigkeit | Arbeitsrechtssache | Verwaltungsverfahren | Strafverteidigung | Steuerrechtsstreit (FGO) | Sozialrechtsstreit (SGG) | IP-Streit | sonstiges
+ - **Vertraulichkeitsstufe**: Standard | erhöht | Clean-Team
+ - **Sachverhalt** (2–5 Sätze: Gegenstand, Beteiligte, Streitwert/Risiko, Besonderheiten)
+ - **Mandatsspezifische Abweichungen vom Kanzleistandard** (z. B. "Mandant verlangt wöchentliche Statusberichte", "Gegenseite ist Geschäftspartner — deeskalierender Ton")
+ - **Verwandte Mandate** (Slugs verbundener Sachen)
 3. `mandate/<slug>/akte.md` nach Vorlage unten schreiben.
 4. `mandate/<slug>/verlauf.md` mit Eröffnungseintrag seeden.
 5. Leere `mandate/<slug>/notizen.md` anlegen.
@@ -318,11 +318,11 @@ Entwurf einzelner Abschnitte eines Schriftsatzes – Klageschrift, Klageerwideru
 1. **Mandatsdaten laden:** mandat.md, verlauf.md, ggf. Chronologie und Anspruchstabelle einlesen. Mandatstheorie und Kanzleistil aus CLAUDE.md laden.
 
 2. **Abschnittstyp bestimmen:**
-   - **Klageschrift** (§§ 253, 261 ZPO): Rubrum, Anträge, Sachverhaltsdarstellung, Rechtliche Ausführungen, Beweisangebote.
-   - **Klageerwiderung** (§ 277 ZPO): Bestreiten (erheblich/unerheblich), Gegendarstellung, Rechtsausführungen, eigene Anträge, Hilfsaufrechnung/Widerklage.
-   - **Berufungsbegründung** (§ 520 Abs. 3 ZPO): Darlegung der Berufungsangriffe, Bezifferung von Rechtsverletzungen (§ 546 ZPO), neue Tatsachen und Beweise (§ 531 Abs. 2 ZPO), Berufungsanträge.
-   - **Revisionsbegründung** (§ 551 Abs. 3 ZPO): Revisionsgründe (§ 545 ZPO), absolute Revisionsgründe (§ 547 ZPO), Rüge der Nichtzulassung (§ 544 ZPO), Grundsatzrevision (§ 543 Abs. 2 ZPO).
-   - **Beschwerde** (§§ 567 ff., 574 ff. ZPO): Statthaftigkeit, Frist, Begründung.
+ - **Klageschrift** (§§ 253, 261 ZPO): Rubrum, Anträge, Sachverhaltsdarstellung, Rechtliche Ausführungen, Beweisangebote.
+ - **Klageerwiderung** (§ 277 ZPO): Bestreiten (erheblich/unerheblich), Gegendarstellung, Rechtsausführungen, eigene Anträge, Hilfsaufrechnung/Widerklage.
+ - **Berufungsbegründung** (§ 520 Abs. 3 ZPO): Darlegung der Berufungsangriffe, Bezifferung von Rechtsverletzungen (§ 546 ZPO), neue Tatsachen und Beweise (§ 531 Abs. 2 ZPO), Berufungsanträge.
+ - **Revisionsbegründung** (§ 551 Abs. 3 ZPO): Revisionsgründe (§ 545 ZPO), absolute Revisionsgründe (§ 547 ZPO), Rüge der Nichtzulassung (§ 544 ZPO), Grundsatzrevision (§ 543 Abs. 2 ZPO).
+ - **Beschwerde** (§§ 567 ff., 574 ff. ZPO): Statthaftigkeit, Frist, Begründung.
 
 3. **Urteilsstil anwenden:** Tatsachenvortrag in indirekter Rede oder Behauptungsform, normative Subsumtion knapp, Beweisangebote vollständig.
 
@@ -377,6 +377,6 @@ Schriftsatzformat im deutschen Standard:
 
 <!-- AUDIT 27.05.2026
 Problem : BGH VI ZR 73/20, NJW 2021, 1886 Rn. 15 (" neue Angriffsmittel § 531 ZPO ") – Zitatfehler (WRONG_TOPIC). Das Urteil behandelt Verletzung des allgemeinen Persönlichkeitsrechts / Bestimmtheit Klageantrags bei Erstbegehungsgefahr (NJW 2021, 1756), nicht neue Angriffsmittel nach § 531 ZPO (dejure.org/2021,4358). Eintrag ersatzlos gelöscht; kein verifizierbarer Ersatz mit identischem NJW-Fundstelle ermittelt.
-Quelle   : https://dejure.org/2021,4358
-Aktion   : Zeile entfernt
+Quelle : https://dejure.org/2021,4358
+Aktion : Zeile entfernt
 -->

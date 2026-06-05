@@ -1,6 +1,6 @@
 ---
 name: beirat-beschlussmaengel
-description: "Nutze dies, wenn Beirat Beschlussmaengel im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Beschlussmaengel prüfen.; Erstelle eine Arbeitsfassung zu Beirat Beschlussmaengel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Beschlussmaengel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Beschlussmaengel

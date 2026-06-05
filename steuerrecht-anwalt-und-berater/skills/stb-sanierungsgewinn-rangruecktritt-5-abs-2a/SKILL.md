@@ -32,7 +32,7 @@ description: "Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot
 - **§ 3a EStG** — Sanierungsertrag.
 - **§ 8 Abs. 3 KStG** — verdeckte Einlage.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt |
 |---|---|
@@ -78,10 +78,10 @@ i.S.d. § 39 Abs. 2 InsO).
 
 Die Forderung ist zu tilgen, sobald und soweit eine
 Tilgung möglich ist aus:
-  (i)   künftigen Gewinnen oder Einnahmen der Schuldnerin,
-  (ii)  einem die sonstigen Verbindlichkeiten der Schuldnerin
-        übersteigenden freien Vermögen, oder
-  (iii) einem etwaigen Liquidationsüberschuss.
+ (i) künftigen Gewinnen oder Einnahmen der Schuldnerin,
+ (ii) einem die sonstigen Verbindlichkeiten der Schuldnerin
+ übersteigenden freien Vermögen, oder
+ (iii) einem etwaigen Liquidationsüberschuss.
 
 Diese Erklärung gilt unwiderruflich bis zur nachhaltigen
 Beseitigung der Krise der Schuldnerin.
@@ -138,9 +138,9 @@ Tilgungsabrede umfasst:
 
 III. Ergebnis
 [Wenn alle Quellen erfasst, insb. freies Vermögen:
-   § 5 Abs. 2a EStG-Risiko gering — Verbindlichkeit bleibt]
+ § 5 Abs. 2a EStG-Risiko gering — Verbindlichkeit bleibt]
 [Wenn nur Gewinne/Einnahmen:
-   § 5 Abs. 2a EStG-Risiko hoch — Auflösung droht]
+ § 5 Abs. 2a EStG-Risiko hoch — Auflösung droht]
 
 IV. Empfehlung
 [Klausel-Anpassung durch Nachtragsvereinbarung]

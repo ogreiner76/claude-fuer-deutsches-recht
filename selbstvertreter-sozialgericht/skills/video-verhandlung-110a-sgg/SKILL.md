@@ -40,7 +40,7 @@ Sie muessen nicht immer ins Gericht fahren. Sie koennen auch per Video teilnehme
 ### Schritt 1 — Antrag stellen
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 

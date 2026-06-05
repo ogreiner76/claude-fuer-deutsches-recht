@@ -45,15 +45,15 @@ Bevor der Reviewlauf startet muss der Dokumentenstapel sauber sein — kein Doku
 
 ```yaml
 - id: z-0042
-  pfad: "vdr/kunden/042-rahmenvertrag-mueller-gmbh-2023.pdf"
-  hash: "sha256:a1b2..."
-  typ: "rahmenvertrag-kunde"
-  sprache: "de"
-  seitenzahl: 47
-  ocr-konfidenz: 0.97
-  pruefer-flag: null
-  zeilenprompt: ""
-  datenraum-luecken: []
+ pfad: "vdr/kunden/042-rahmenvertrag-mueller-gmbh-2023.pdf"
+ hash: "sha256:a1b2..."
+ typ: "rahmenvertrag-kunde"
+ sprache: "de"
+ seitenzahl: 47
+ ocr-konfidenz: 0.97
+ pruefer-flag: null
+ zeilenprompt: ""
+ datenraum-luecken: []
 ```
 
 ## Ausgabe

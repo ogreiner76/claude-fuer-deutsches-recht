@@ -106,23 +106,23 @@ Pflichtspalten:
 ```
 0. Verfahrensdokumentation
 1. Projektakte je Vorhaben
-   1.1 Projektsteckbrief
-   1.2 BSFZ-Antrag und Bescheinigung
-   1.3 Arbeitspakete und Meilensteine
-   1.4 Versuchsberichte und Ergebnisse
-   1.5 Quellenverzeichnis Stand der Technik
+ 1.1 Projektsteckbrief
+ 1.2 BSFZ-Antrag und Bescheinigung
+ 1.3 Arbeitspakete und Meilensteine
+ 1.4 Versuchsberichte und Ergebnisse
+ 1.5 Quellenverzeichnis Stand der Technik
 2. Zeit- und Personalkosten
-   2.1 Stundenaufzeichnung Mitarbeiter A
-   2.2 ...
-   2.x Personalkosten je Mitarbeiter
+ 2.1 Stundenaufzeichnung Mitarbeiter A
+ 2.2 ...
+ 2.x Personalkosten je Mitarbeiter
 3. Auftragsforschung
-   3.1 Verträge
-   3.2 Rechnungen
-   3.3 Zahlungsnachweise
-   3.4 EU/EWR-Bestätigung
+ 3.1 Verträge
+ 3.2 Rechnungen
+ 3.3 Zahlungsnachweise
+ 3.4 EU/EWR-Bestätigung
 4. Wirtschaftsgüter
-   4.1 AfA-Plan
-   4.2 Zuordnungsnachweise
+ 4.1 AfA-Plan
+ 4.2 Zuordnungsnachweise
 5. Gemein- und Betriebskostenpauschale (sofern einschlägig)
 6. Andere Förderungen / AGVO-Kumulierungsblatt
 7. Finanzamt-Antrag und Bescheide

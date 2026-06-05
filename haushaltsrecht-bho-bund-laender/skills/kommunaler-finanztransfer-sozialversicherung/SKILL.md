@@ -1,13 +1,13 @@
 ---
 name: kommunaler-finanztransfer-sozialversicherung
-description: "Nutze dies, wenn Bho 255 Kommunaler Finanztransfer Vollzug Trac, Bho 256 Sozialversicherung Schnittstelle Titel, Bho 257 Sozialversicherung Schnittstelle Umsch, Bho 258 Sozialversicherung Schnittstelle Sperr, Bho 259 Sozialversicherung Schnittstelle Decku und 6 weitere Themen im Plugin Haushaltsrecht Bho Bund Länder konkret bearbeitet werden soll. Auslöser: Bitte Bho 255 Kommunaler Finanztransfer Vollzug Trac, Bho 256 Sozialversicherung Schnittstelle Titel, Bho 257 Sozialversicherung Schnittstelle Umsch, Bho 258 Sozialversicherung Schnittstelle Sperr, Bho 259 Sozialversicherung Schnittstelle Decku und 6 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Bho 255 Kommunaler Finanztransfer Vollzug Trac, Bho 256 Sozialversicherung Schnittstelle Titel, Bho 257 Sozialversicherung Schnittstelle Umsch, Bho 258 Sozialversicherung Schnittstelle Sperr, Bho 259 Sozialversicherung Schnittstelle Decku und 6 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Bho 255 Kommunaler Finanztransfer Vollzug Trac, Bho 256 Sozialversicherung Schnittstelle Titel, Bho 257 Sozialversicherung Schnittstelle Umsch, Bho 258 Sozialversicherung Schnittstelle Sperr: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Bho 255 Kommunaler Finanztransfer Vollzug Trac, Bho 256 Sozialversicherung Schnittstelle Titel, Bho 257 Sozialversicherung Schnittstelle Umsch, Bho 258 Sozialversicherung Schnittstelle Sperr, Bho 259 Sozialversicherung Schnittstelle Decku und 6 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Bho 255 Kommunaler Finanztransfer Vollzug Trac, Bho 256 Sozialversicherung Schnittstelle Titel, Bho 257 Sozialversicherung Schnittstelle Umsch, Bho 258 Sozialversicherung Schnittstelle Sperr, Bho 259 Sozialversicherung Schnittstelle Decku und 6 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

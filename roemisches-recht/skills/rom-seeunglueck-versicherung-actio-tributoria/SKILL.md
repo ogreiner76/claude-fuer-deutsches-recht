@@ -1,13 +1,13 @@
 ---
 name: rom-seeunglueck-versicherung-actio-tributoria
-description: "Nutze dies, wenn Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen.; Welche Norm..."
+description: "Nutze dies bei Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis, Rom 136 Intercessio Frauen Senatusconsultum Velleianum und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

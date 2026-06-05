@@ -1,13 +1,13 @@
 ---
 name: amts-medikationsanalyse
-description: "Nutze dies, wenn Amts Medikationsanalyse Beratungspflicht, Apothekenbetriebsordnung Grundpflichten, Apothekenerlaubnis Apog Persoenliche Voraussetzungen im Plugin Apothekenrecht konkret bearbeitet werden soll. Auslöser: Bitte Amts Medikationsanalyse Beratungspflicht, Apothekenbetriebsordnung Grundpflichten, Apothekenerlaubnis Apog Persoenliche Voraussetzungen prüfen.; Erstelle eine Arbeitsfassung zu Amts Medikationsanalyse Beratungspflicht, Apothekenbetriebsordnung Grundpflichten, Apothekenerlaubnis Apog Persoenliche Voraussetzungen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Amts Medikationsanalyse Beratungspflicht, Apothekenbetriebsordnung Grundpflichten, Apothekenerlaubnis Apog Persoenliche Voraussetzungen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Amts Medikationsanalyse Beratungspflicht, Apothekenbetriebsordnung Grundpflichten, Apothekenerlaubnis Apog Persoenliche Voraussetzungen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Amts Medikationsanalyse Beratungspflicht, Apothekenbetriebsordnung Grundpflichten, Apothekenerlaubnis Apog Persoenliche Voraussetzungen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -120,7 +120,7 @@ Eingaben:
 - **§ 25 ApBetrO:** Apothekenübliche Waren (Abgrenzungskatalog).
 - **§§ 34 ff. ApBetrO:** Krankenhausapotheken (Personal § 28, Räume § 29).
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Räume (§ 4 ApBetrO):** Offizin, Laboratorium, ausreichender Lagerraum und Nachtdienstzimmer; Gesamt-Grundfläche der Betriebsräume mindestens 110 Quadratmeter (§ 4 Abs. 2 Satz 3 ApBetrO). Keine fixe Einzelflächenvorgabe pro Raum; Laboratorium mit Abzug/Absaugvorrichtung. Behindertenzugang; abschliessbarer BtM-Schrank.
 2. **Personal (§ 3 ApBetrO, § 7 ApoG):** Apothekerleitung anwesend oder vertretungsbefugt. PTA-Tätigkeit unter Apothekeraufsicht; Vertretungsregelung dokumentiert.
@@ -223,7 +223,7 @@ Erforderliche Eingaben vom Mandanten:
 - BVerfG, staend. Rspr. zu Art. 12 GG und Apothekenrecht (Apothekenurteil 1958).
 - Berufsordnung der jeweiligen Landesapothekerkammer.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Approbation prüfen:** Approbationsurkunde, Datum, ausstellende Behörde. Bei EU-Anerkennung: Bescheid nach §§ 4, 4a BApO.
 2. **Staatsangehörigkeit:** Deutsche, EU-, EWR-, Schweizer Staatsangehörigkeit unproblematisch; Drittstaatler nur über § 2 Abs. 2 ApoG (Härtefall, Ausnahmegenehmigung).

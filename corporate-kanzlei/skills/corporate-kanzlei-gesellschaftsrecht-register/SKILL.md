@@ -166,24 +166,24 @@ Handelsregister-Abteilung B
 [ADRESSE]
 
 Betreff: [FIRMA GmbH] — HRB [NUMMER]
-         Aenderung der Geschaeftsfuehrung
+ Aenderung der Geschaeftsfuehrung
 
 Wir melden als Geschaeftsfuehrer der [FIRMA GmbH] zur Eintragung in das Handelsregister an:
 
 1. ABBERUFUNG:
-   [ALTER GF: Name, Geburtsdatum, Wohnort] ist als Geschaeftsfuehrer abberufen worden.
-   Beschluss der Gesellschafterversammlung vom [DATUM].
+ [ALTER GF: Name, Geburtsdatum, Wohnort] ist als Geschaeftsfuehrer abberufen worden.
+ Beschluss der Gesellschafterversammlung vom [DATUM].
 
 2. NEUBESTELLUNG:
-   Zum neuen Geschaeftsfuehrer ist bestellt worden:
-   [NEUER GF: Name, Geburtsdatum, Wohnort]
-   Vertretungsbefugnis: Einzelvertretungsberechtigung / Gesamtvertretungsberechtigung
-   Beschluss der Gesellschafterversammlung vom [DATUM].
+ Zum neuen Geschaeftsfuehrer ist bestellt worden:
+ [NEUER GF: Name, Geburtsdatum, Wohnort]
+ Vertretungsbefugnis: Einzelvertretungsberechtigung / Gesamtvertretungsberechtigung
+ Beschluss der Gesellschafterversammlung vom [DATUM].
 
-   Befreiung von §181 BGB: [Ja / Nein]
+ Befreiung von §181 BGB: [Ja / Nein]
 
 3. VERSICHERUNG GEMAESS § 8 III GMBHG
-   Der Unterzeichner versichert, dass kein Bestellungshindernis nach § 6 II GmbHG vorliegt.
+ Der Unterzeichner versichert, dass kein Bestellungshindernis nach § 6 II GmbHG vorliegt.
 
 [FIRMA GMBH]
 [NEUER GF NAME]

@@ -1,13 +1,13 @@
 ---
 name: zvg-recherche-quality-gate-raeumung
-description: "Nutze dies, wenn Zvg Portal Recherche, Zvg Quality Gate, Zvg Raeumung Kündigung im Plugin Zwangsverwaltung Zvg konkret bearbeitet werden soll. Auslöser: Bitte Zvg Portal Recherche, Zvg Quality Gate, Zvg Raeumung Kündigung prüfen.; Erstelle eine Arbeitsfassung zu Zvg Portal Recherche, Zvg Quality Gate, Zvg Raeumung Kündigung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zvg Portal Recherche, Zvg Quality Gate, Zvg Raeumung Kündigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zvg Portal Recherche, Zvg Quality Gate, Zvg Raeumung Kündigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zvg Portal Recherche, Zvg Quality Gate, Zvg Raeumung Kündigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

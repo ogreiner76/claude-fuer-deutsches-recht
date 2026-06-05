@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Krankenversicherungs- und Leistungsrecht (SGB V)
-Ressort:            BMG
-Kernnormen:         SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.
-Akteure/Aufsicht:   GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.
-EU/Voelkerrecht:    EU-Patientenrechte-RL; HTA-VO.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmg; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Krankenversicherungs- und Leistungsrecht (SGB V)
+Ressort: BMG
+Kernnormen: SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.
+Akteure/Aufsicht: GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.
+EU/Voelkerrecht: EU-Patientenrechte-RL; HTA-VO.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

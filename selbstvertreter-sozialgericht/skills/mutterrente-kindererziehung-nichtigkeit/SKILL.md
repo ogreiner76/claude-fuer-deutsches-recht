@@ -1,13 +1,13 @@
 ---
 name: mutterrente-kindererziehung-nichtigkeit
-description: "Nutze dies, wenn Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix prüfen.; Erstelle eine Arbeitsfassung zu Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160a Sgg, Orientierung Selbstvertreter Sozialgericht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160A Sgg, Orientierung Selbstvertreter Sozialgericht, Persoenliches Budget 29 Sgb Ix** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

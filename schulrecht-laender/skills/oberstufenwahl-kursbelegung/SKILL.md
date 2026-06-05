@@ -1,13 +1,13 @@
 ---
 name: oberstufenwahl-kursbelegung
-description: "Nutze dies, wenn Oberstufenwahl Und Kursbelegung, Ordnungsmassnahmen Anhoerung, Polizei In Der Schule, Privatschule Und Ersatzschule im Plugin Schulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Oberstufenwahl Und Kursbelegung, Ordnungsmassnahmen Anhoerung, Polizei In Der Schule, Privatschule Und Ersatzschule prüfen.; Erstelle eine Arbeitsfassung zu Oberstufenwahl Und Kursbelegung, Ordnungsmassnahmen Anhoerung, Polizei In Der Schule, Privatschule Und Ersatzschule.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Oberstufenwahl Und Kursbelegung, Ordnungsmassnahmen Anhoerung, Polizei In Der Schule, Privatschule Und Ersatzschule: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Oberstufenwahl Und Kursbelegung, Ordnungsmassnahmen Anhoerung, Polizei In Der Schule, Privatschule Und Ersatzschule
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Oberstufenwahl Und Kursbelegung, Ordnungsmassnahmen Anhoerung, Polizei In Der Schule, Privatschule Und Ersatzschule** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

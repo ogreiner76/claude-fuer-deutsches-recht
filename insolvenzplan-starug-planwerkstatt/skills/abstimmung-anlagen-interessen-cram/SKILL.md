@@ -1,32 +1,32 @@
 ---
 name: abstimmung-anlagen-interessen-cram
-description: "Nutze dies, wenn Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung im Plugin Insolvenzplan Starug Planwerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Abstimmung Internationaler Bezug Und Schnittstellen, Anlagen Mehrparteien Konflikt Und Interessen, Cram Formular Portal Und Einreichung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung
+# Abstimmung Internationaler Bezug Und Schnittstellen, Anlagen Mehrparteien Konflikt Und Interessen, Cram Formular Portal Und Einreichung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Abstimmung Internationaler Bezug Und Schnittstellen, Anlagen Mehrparteien Konflikt Und Interessen, Cram Formular Portal Und Einreichung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-abstimmung-internationaler-bezug-und-schnittstellen` | Abstimmung: Internationaler Bezug und Schnittstellen im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-anlagen-mehrparteien-konflikt-und-interessen` | Anlagen: Mehrparteienkonflikt und Interessenmatrix im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-cram-formular-portal-und-einreichung` | Cram: Formular, Portal und Einreichungslogik im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-abstimmung-internationaler-bezug-und-schnittstellen` | Abstimmung: Internationaler Bezug und Schnittstellen im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-anlagen-mehrparteien-konflikt-und-interessen` | Anlagen: Mehrparteienkonflikt und Interessenmatrix im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-cram-formular-portal-und-einreichung` | Cram: Formular, Portal und Einreichungslogik im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anlagen Mehrparteien Konflikt Und Interessen, Spezial Cram Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Abstimmung Internationaler Bezug Und Schnittstellen, Anlagen Mehrparteien Konflikt Und Interessen, Cram Formular Portal Und Einreichung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzplan-starug-planwerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-abstimmung-internationaler-bezug-und-schnittstellen`
 
-**Fokus:** Abstimmung: Internationaler Bezug und Schnittstellen im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Abstimmung: Internationaler Bezug und Schnittstellen im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Abstimmung: Internationaler Bezug und Schnittstellen
 
@@ -40,7 +40,7 @@ Für **Spezial Abstimmung Internationaler Bezug Und Schnittstellen, Spezial Anla
 
 
 ## Spezialwissen: Abstimmung: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Abstimmung: Internationaler Bezug und Schnittstellen / spezial abstimmung internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Abstimmung: Internationaler Bezug und Schnittstellen / abstimmung internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-anlagen-mehrparteien-konflikt-und-interessen`
 
-**Fokus:** Anlagen: Mehrparteienkonflikt und Interessenmatrix im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Anlagen: Mehrparteienkonflikt und Interessenmatrix im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Anlagen: Mehrparteienkonflikt und Interessenmatrix
 
@@ -90,7 +90,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Anlagen: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Anlagen: Mehrparteienkonflikt und Interessenmatrix / spezial anlagen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Anlagen: Mehrparteienkonflikt und Interessenmatrix / anlagen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -123,11 +123,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **§ 230 InsO weitere Anlagen:** Erklärungen der Planbetroffenen (z. B. neue Kreditzusagen, Forderungsverzichte, Patronatserklärungen) — Anlagen wirken als Vertragsverpflichtung; ohne Anlage kein Plan-Vollzug.
 - **§ 7 StaRUG entspricht:** Vergleichende Aufstellung, Finanzplan, Sanierungskonzept als Anlagen.
 - **Interessenmatrix (Gläubigergruppen):**
-  - Banken: Sicherheitenverwertung, Realkreditverteidigung, Kovenanten;
-  - Lieferanten: Lieferantenkredit, Eigentumsvorbehalt, Geschäftsbeziehung;
-  - Arbeitnehmer: Arbeitsplätze, Lohnzahlung, Insolvenzgeld;
-  - Steuerfiskus/SV: Sondergläubiger mit Insolvenzaufrechnungsverbot § 96 InsO;
-  - Gesellschafter: Anteilseignerrechte, Debt-Equity-Swap, Squeeze-out.
+ - Banken: Sicherheitenverwertung, Realkreditverteidigung, Kovenanten;
+ - Lieferanten: Lieferantenkredit, Eigentumsvorbehalt, Geschäftsbeziehung;
+ - Arbeitnehmer: Arbeitsplätze, Lohnzahlung, Insolvenzgeld;
+ - Steuerfiskus/SV: Sondergläubiger mit Insolvenzaufrechnungsverbot § 96 InsO;
+ - Gesellschafter: Anteilseignerrechte, Debt-Equity-Swap, Squeeze-out.
 - **Konflikte typisch:** Gesellschafter wollen Anteile behalten, Banken wollen Sicherheiten realisieren, Lieferanten wollen Geschäft fortsetzen, Arbeitnehmer wollen Beschäftigung sichern.
 - **Trade-off:** Plan-Anlagen mit harten Verpflichtungen geben Gläubigern Sicherheit, binden aber Schuldnerin operativ; weiche Bekundungen sind flexibel, aber im Streit wertlos.
 - **Praxis:** Anlagen-Reihenfolge: Sanierungskonzept, Plan-Bilanz/-GuV/-Liquidität, Vergleichsrechnung je Gruppe, Zusagen Dritter, Drittsicherheiten — die Vergleichsrechnung ist meist die Streitkernzelle.
@@ -140,7 +140,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-cram-formular-portal-und-einreichung`
 
-**Fokus:** Cram: Formular, Portal und Einreichungslogik im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Cram: Formular, Portal und Einreichungslogik im Insolvenzplan und StaRUG: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Cram: Formular, Portal und Einreichungslogik
 
@@ -154,7 +154,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Cram: Formular, Portal und Einreichungslogik
-- **Spezialgegenstand:** Cram: Formular, Portal und Einreichungslogik / spezial cram formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Cram: Formular, Portal und Einreichungslogik / cram formular portal und einreichung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** StaRUG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

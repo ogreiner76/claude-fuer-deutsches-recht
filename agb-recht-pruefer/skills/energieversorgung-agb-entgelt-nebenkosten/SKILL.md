@@ -1,22 +1,22 @@
 ---
 name: energieversorgung-agb-entgelt-nebenkosten
-description: "Nutze dies, wenn Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb, Fiktive Erklaerung Zustimmung 308 im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb, Fiktive Erklaerung Zustimmung 308 prüfen.; Erstelle eine Arbeitsfassung zu Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb, Fiktive Erklaerung Zustimmung 308.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb, Fiktive Erklaerung Zustimmung 308
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, Factoring Agb, Fiktive Erklaerung Zustimmung 308** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `energieversorgung-agb` | Branchen-Spezialskill für Energieversorgung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `entgelt-nebenkosten-service-fees` | Klausel-Spezialskill für Entgelt Nebenkosten Service Fees: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `exklusivitaet` | Klausel-Spezialskill für Exklusivität: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `factoring-agb` | Branchen-Spezialskill für Factoring AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `energieversorgung-agb` | Branchen-Fachmodul für Energieversorgung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `entgelt-nebenkosten-service-fees` | Klausel-Fachmodul für Entgelt Nebenkosten Service Fees: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `exklusivitaet` | Klausel-Fachmodul für Exklusivität: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `factoring-agb` | Branchen-Fachmodul für Factoring AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `fiktive-erklaerung-zustimmung-308` | Norm- und Dogmatik-Skill für Fiktive Erklärung Zustimmung 308: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 
 ## Arbeitsweg
@@ -28,7 +28,7 @@ Für **Energieversorgung Agb, Entgelt Nebenkosten Service Fees, Exklusivitaet, F
 
 ## 1. `energieversorgung-agb`
 
-**Fokus:** Branchen-Spezialskill für Energieversorgung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Energieversorgung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Energieversorgung AGB
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `entgelt-nebenkosten-service-fees`
 
-**Fokus:** Klausel-Spezialskill für Entgelt Nebenkosten Service Fees: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Entgelt Nebenkosten Service Fees: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Entgelt Nebenkosten Service Fees
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `exklusivitaet`
 
-**Fokus:** Klausel-Spezialskill für Exklusivität: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Exklusivität: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Exklusivität
 
@@ -193,7 +193,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `factoring-agb`
 
-**Fokus:** Branchen-Spezialskill für Factoring AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Factoring AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Factoring AGB
 
@@ -274,11 +274,11 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 308 Nr. 5 BGB (fingierte Zustimmung):**
-   - Eine Klausel, nach der das Schweigen des Vertragspartners als Annahme oder Zustimmung gilt, ist nur wirksam, wenn (a) dem Vertragspartner eine angemessene Frist zur ausdrücklichen Erklärung gewährt wird und (b) der Verwender den Kunden bei Fristbeginn auf die vorgesehene Bedeutung seines Verhaltens (Zustimmungsfiktion) besonders hinweist.
-   - **Beide Anforderungen müssen kumulativ erfüllt sein.** Hinweispflicht muss in der Klausel selbst und im konkreten Mitteilungsschreiben erfolgen.
-   - **EuGH-Rechtsprechung Banken-AGB:** Pauschale Zustimmungsfiktion bei wesentlichen Vertragsänderungen (Preise, Hauptleistung) im B2C bei Zahlungsdiensten unwirksam (EuGH, Urteil vom 11.11.2020, C-287/19 - DenizBank); ständige Rechtsprechung in nationalen Banken-AGB-Fällen entsprechend (BGH, Urteil vom 27.04.2021, XI ZR 26/20 - Sparkassen). Beschränkung auf rein technische oder rechtlich gebotene Änderungen denkbar.
-   - **Frist:** Mindestens 6 Wochen sind im Banken- und Versicherungsbereich Praxis, im Allgemeinen 4-6 Wochen angemessen; kürzere Fristen nur ausnahmsweise tragfähig.
-   - **B2B-Ausstrahlung:** § 308 Nr. 5 BGB strahlt über § 307 BGB ins B2B aus. Im B2B sind allerdings Fiktionsklauseln eher noch zumutbar, jedoch nicht ohne Frist und ohne Hinweis.
+ - Eine Klausel, nach der das Schweigen des Vertragspartners als Annahme oder Zustimmung gilt, ist nur wirksam, wenn (a) dem Vertragspartner eine angemessene Frist zur ausdrücklichen Erklärung gewährt wird und (b) der Verwender den Kunden bei Fristbeginn auf die vorgesehene Bedeutung seines Verhaltens (Zustimmungsfiktion) besonders hinweist.
+ - **Beide Anforderungen müssen kumulativ erfüllt sein.** Hinweispflicht muss in der Klausel selbst und im konkreten Mitteilungsschreiben erfolgen.
+ - **EuGH-Rechtsprechung Banken-AGB:** Pauschale Zustimmungsfiktion bei wesentlichen Vertragsänderungen (Preise, Hauptleistung) im B2C bei Zahlungsdiensten unwirksam (EuGH, Urteil vom 11.11.2020, C-287/19 - DenizBank); ständige Rechtsprechung in nationalen Banken-AGB-Fällen entsprechend (BGH, Urteil vom 27.04.2021, XI ZR 26/20 - Sparkassen). Beschränkung auf rein technische oder rechtlich gebotene Änderungen denkbar.
+ - **Frist:** Mindestens 6 Wochen sind im Banken- und Versicherungsbereich Praxis, im Allgemeinen 4-6 Wochen angemessen; kürzere Fristen nur ausnahmsweise tragfähig.
+ - **B2B-Ausstrahlung:** § 308 Nr. 5 BGB strahlt über § 307 BGB ins B2B aus. Im B2B sind allerdings Fiktionsklauseln eher noch zumutbar, jedoch nicht ohne Frist und ohne Hinweis.
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel (Schweigen ist grundsätzlich keine Erklärung, § 147 BGB; Ausnahme: kaufmännisches Bestätigungsschreiben im B2B).
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

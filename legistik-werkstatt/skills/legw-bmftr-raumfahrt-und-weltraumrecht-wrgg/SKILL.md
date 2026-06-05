@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Raumfahrt- und Weltraumrecht
-Ressort:            BMFTR
-Kernnormen:         WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.
-Akteure/Aufsicht:   BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.
-EU/Voelkerrecht:    EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmftr; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Raumfahrt- und Weltraumrecht
+Ressort: BMFTR
+Kernnormen: WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.
+Akteure/Aufsicht: BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.
+EU/Voelkerrecht: EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

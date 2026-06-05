@@ -1,13 +1,13 @@
 ---
 name: agb-online-altersverifikation-jugendschutz
-description: "Nutze dies, wenn Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe im Plugin Ecommerce Recht konkret bearbeitet werden soll. Auslöser: Bitte Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe prüfen.; Erstelle eine Arbeitsfassung zu Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Agb Im Online Shop Einbeziehung 305 Bgb, Altersverifikation Jugendschutz, App Commerce In App Kaeufe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -61,25 +61,25 @@ Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie 
 - UKlaG: Unterlassungsklage Verbraucherverbände.
 - BGH zur Online-AGB-Einbeziehung – ständige Rechtsprechung: Hinweis und Möglichkeit der Kenntnisnahme reichen; Pflicht zur Aktivbestätigung (Checkbox) nicht erforderlich, aber praktisch empfohlen.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 1. **Einbeziehungspfad prüfen.** Vor Bestellabgabe Hinweis "Es gelten unsere AGB"; Link unmittelbar zur Volltext-Fassung; Druck- und Speicherfunktion.
 2. **AGB-Inhalt strukturieren.**
-   - Geltungsbereich,
-   - Vertragsschluss / Angebot,
-   - Lieferung und Versand,
-   - Preise und Zahlung,
-   - Eigentumsvorbehalt,
-   - Mängelhaftung / Gewährleistung,
-   - Haftungsbegrenzung,
-   - Widerrufsrecht (Verlinkung),
-   - Streitbeilegung / Gerichtsstand,
-   - Datenschutz (Verweis).
+ - Geltungsbereich,
+ - Vertragsschluss / Angebot,
+ - Lieferung und Versand,
+ - Preise und Zahlung,
+ - Eigentumsvorbehalt,
+ - Mängelhaftung / Gewährleistung,
+ - Haftungsbegrenzung,
+ - Widerrufsrecht (Verlinkung),
+ - Streitbeilegung / Gerichtsstand,
+ - Datenschutz (Verweis).
 3. **Inhaltskontrolle.**
-   - § 309 Nr. 7 BGB: Haftungsausschluss bei Vorsatz/grober Fahrlässigkeit/wesentlichen Pflichten unzulässig.
-   - § 309 Nr. 8 BGB: Gewährleistungsausschluss bei Neuware unzulässig.
-   - § 309 Nr. 9 BGB: Laufzeit Dauerschuldverhältnisse begrenzt.
-   - § 309 Nr. 12 BGB: Vorausabtretung von Gegenforderungen.
+ - § 309 Nr. 7 BGB: Haftungsausschluss bei Vorsatz/grober Fahrlässigkeit/wesentlichen Pflichten unzulässig.
+ - § 309 Nr. 8 BGB: Gewährleistungsausschluss bei Neuware unzulässig.
+ - § 309 Nr. 9 BGB: Laufzeit Dauerschuldverhältnisse begrenzt.
+ - § 309 Nr. 12 BGB: Vorausabtretung von Gegenforderungen.
 4. **Versionierung.** Stand-Vermerk, Archivierung, Verlauf.
 5. **Update-Mechanismus.** Bei wesentlichen Änderungen: Mitteilung mit Widerspruchsrecht.
 6. **Streitfall.** Klausel angreifen: nicht einbezogen oder unwirksam.

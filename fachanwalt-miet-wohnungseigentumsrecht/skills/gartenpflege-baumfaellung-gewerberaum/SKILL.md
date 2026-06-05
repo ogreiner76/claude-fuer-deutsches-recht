@@ -1,34 +1,34 @@
 ---
 name: gartenpflege-baumfaellung-gewerberaum
-description: "Nutze dies, wenn Spezial Gartenpflege Baumfaellung, Spezial Gewerberaum Betriebspflicht, Spezial Gewerberaum Covid Nachwirkungen, Spezial Gewerberaum Konkurrenzschutz, Spezial Gewerberaum Schriftform 550 im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Gartenpflege Baumfaellung, Spezial Gewerberaum Betriebspflicht, Spezial Gewerberaum Covid Nachwirkungen, Spezial Gewerberaum Konkurrenzschutz, Spezial Gewerberaum Schriftform 550 prüfen.; Erstelle eine Arbeitsfassung zu Spezial Gartenpflege Baumfaellung, Spezial Gewerberaum Betriebspflicht, Spezial Gewerberaum Covid Nachwirkungen, Spezial Gewerberaum Konkurrenzschutz, Spezial Gewerberaum Schriftform 550.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gartenpflege Baumfaellung, Gewerberaum Betriebspflicht, Gewerberaum Covid Nachwirkungen, Gewerberaum Konkurrenzschutz: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Gartenpflege Baumfaellung, Spezial Gewerberaum Betriebspflicht, Spezial Gewerberaum Covid Nachwirkungen, Spezial Gewerberaum Konkurrenzschutz, Spezial Gewerberaum Schriftform 550
+# Gartenpflege Baumfaellung, Gewerberaum Betriebspflicht, Gewerberaum Covid Nachwirkungen, Gewerberaum Konkurrenzschutz, Gewerberaum Schriftform 550
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gartenpflege Baumfaellung, Gewerberaum Betriebspflicht, Gewerberaum Covid Nachwirkungen, Gewerberaum Konkurrenzschutz, Gewerberaum Schriftform 550** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-gartenpflege-baumfaellung` | Gartenpflege/Baumfällung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaum-betriebspflicht` | Gewerberaum Betriebspflicht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Klausel, Sortiment, Öffnungszeiten, Sanktionen, Zumutbarkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaum-covid-nachwirkungen` | Gewerberaum Störung der Geschäftsgrundlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anpassung, Risikoübernahme, Umsatzdaten, Vergleichslinie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaum-konkurrenzschutz` | Konkurrenzschutz: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft ausdrücklichen/vertragsimmanenten Schutz, Sortimente, Center, Unterlassung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-gewerberaum-schriftform-550` | Gewerberaum Schriftform § 550: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Nachträge, Anlagen, Laufzeit, Parteien, Miethöhe, Heilungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-gartenpflege-baumfaellung` | Gartenpflege/Baumfällung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-gewerberaum-betriebspflicht` | Gewerberaum Betriebspflicht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Klausel, Sortiment, Öffnungszeiten, Sanktionen, Zumutbarkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-gewerberaum-covid-nachwirkungen` | Gewerberaum Störung der Geschäftsgrundlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anpassung, Risikoübernahme, Umsatzdaten, Vergleichslinie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-gewerberaum-konkurrenzschutz` | Konkurrenzschutz: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft ausdrücklichen/vertragsimmanenten Schutz, Sortimente, Center, Unterlassung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-gewerberaum-schriftform-550` | Gewerberaum Schriftform § 550: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Nachträge, Anlagen, Laufzeit, Parteien, Miethöhe, Heilungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Gartenpflege Baumfaellung, Spezial Gewerberaum Betriebspflicht, Spezial Gewerberaum Covid Nachwirkungen, Spezial Gewerberaum Konkurrenzschutz, Spezial Gewerberaum Schriftform 550** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gartenpflege Baumfaellung, Gewerberaum Betriebspflicht, Gewerberaum Covid Nachwirkungen, Gewerberaum Konkurrenzschutz, Gewerberaum Schriftform 550** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-gartenpflege-baumfaellung`
 
-**Fokus:** Gartenpflege/Baumfällung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Gartenpflege/Baumfällung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Gartenpflege/Baumfällung
 
@@ -42,9 +42,9 @@ Für **Spezial Gartenpflege Baumfaellung, Spezial Gewerberaum Betriebspflicht, S
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft laufende Kosten, Instandhaltung, Sondermaßnahme, Verkehrssicherung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-gewerberaum-betriebspflicht`
 
-**Fokus:** Gewerberaum Betriebspflicht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Klausel, Sortiment, Öffnungszeiten, Sanktionen, Zumutbarkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Gewerberaum Betriebspflicht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Klausel, Sortiment, Öffnungszeiten, Sanktionen, Zumutbarkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Gewerberaum Betriebspflicht
 
@@ -87,9 +87,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Klausel, Sortiment, Öffnungszeiten, Sanktionen, Zumutbarkeit.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Klausel, Sortiment, Öffnungszeiten, Sanktionen, Zumutbarkeit.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -118,7 +118,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-gewerberaum-covid-nachwirkungen`
 
-**Fokus:** Gewerberaum Störung der Geschäftsgrundlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anpassung, Risikoübernahme, Umsatzdaten, Vergleichslinie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Gewerberaum Störung der Geschäftsgrundlage: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anpassung, Risikoübernahme, Umsatzdaten, Vergleichslinie; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Gewerberaum Störung der Geschäftsgrundlage
 
@@ -132,9 +132,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Anpassung, Risikoübernahme, Umsatzdaten, Vergleichslinie.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Anpassung, Risikoübernahme, Umsatzdaten, Vergleichslinie.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -163,7 +163,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-gewerberaum-konkurrenzschutz`
 
-**Fokus:** Konkurrenzschutz: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft ausdrücklichen/vertragsimmanenten Schutz, Sortimente, Center, Unterlassung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Konkurrenzschutz: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft ausdrücklichen/vertragsimmanenten Schutz, Sortimente, Center, Unterlassung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Konkurrenzschutz
 
@@ -177,9 +177,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft ausdrücklichen/vertragsimmanenten Schutz, Sortimente, Center, Unterlassung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft ausdrücklichen/vertragsimmanenten Schutz, Sortimente, Center, Unterlassung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -208,7 +208,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-gewerberaum-schriftform-550`
 
-**Fokus:** Gewerberaum Schriftform § 550: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Nachträge, Anlagen, Laufzeit, Parteien, Miethöhe, Heilungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Gewerberaum Schriftform § 550: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Nachträge, Anlagen, Laufzeit, Parteien, Miethöhe, Heilungsklauseln; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Gewerberaum Schriftform § 550
 
@@ -222,9 +222,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Nachträge, Anlagen, Laufzeit, Parteien, Miethöhe, Heilungsklauseln.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Nachträge, Anlagen, Laufzeit, Parteien, Miethöhe, Heilungsklauseln.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

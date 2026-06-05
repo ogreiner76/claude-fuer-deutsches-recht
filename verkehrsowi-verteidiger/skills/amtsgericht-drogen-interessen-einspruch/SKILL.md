@@ -1,13 +1,13 @@
 ---
 name: amtsgericht-drogen-interessen-einspruch
-description: "Nutze dies, wenn Spezial Amtsgericht Mandantenkommunikation Entscheidungsvorlage, Spezial Drogen Mehrparteien Konflikt Und Interessen, Spezial Einspruch Dokumentenmatrix Und Lueckenliste im Plugin Verkehrsowi Verteidiger konkret bearbeitet werden soll. Auslöser: Bitte Spezial Amtsgericht Mandantenkommunikation Entscheidungsvorlage, Spezial Drogen Mehrparteien Konflikt Und Interessen, Spezial Einspruch Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Spezial Amtsgericht Mandantenkommunikation Entscheidungsvorlage, Spezial Drogen Mehrparteien Konflikt Und Interessen, Spezial Einspruch Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Amtsgericht Mandantenkommunikation Entscheidungsvorlage, Drogen Mehrparteien Konflikt Und Interessen, Einspruch Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Amtsgericht Mandantenkommunikation Entscheidungsvorlage, Spezial Drogen Mehrparteien Konflikt Und Interessen, Spezial Einspruch Dokumentenmatrix Und Lueckenliste
+# Amtsgericht Mandantenkommunikation Entscheidungsvorlage, Drogen Mehrparteien Konflikt Und Interessen, Einspruch Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Amtsgericht Mandantenkommunikation Entscheidungsvorlage, Drogen Mehrparteien Konflikt Und Interessen, Einspruch Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Amtsgericht Mandantenkommunikation Entscheidungsvorlage, Spezial Drogen Mehrparteien Konflikt Und Interessen, Spezial Einspruch Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Amtsgericht Mandantenkommunikation Entscheidungsvorlage, Drogen Mehrparteien Konflikt Und Interessen, Einspruch Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehrsowi-verteidiger` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Amtsgericht Mandantenkommunikation Entscheidungsvorlage, Spezial 
 # Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Spezialwissen: Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage / spezial amtsgericht mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage / amtsgericht mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -67,44 +67,44 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## OWi-AG-Mandantenkommunikation Bausteine
 - **Vorbereitung Hauptverhandlung (Mandantenbrief):**
-  ```
-  Sehr geehrte Frau / Herr ...,
+ ```
+ Sehr geehrte Frau / Herr ...,
 
-  ich teile Ihnen mit, dass die Hauptverhandlung gegen Sie im Bussgeldverfahren wegen
-  ... auf den ... vor dem Amtsgericht ... anberaumt wurde.
+ ich teile Ihnen mit, dass die Hauptverhandlung gegen Sie im Bussgeldverfahren wegen
+ ... auf den ... vor dem Amtsgericht ... anberaumt wurde.
 
-  Termin: [Datum, Uhrzeit, Saal]
-  Gericht: AG ... (Adresse)
+ Termin: [Datum, Uhrzeit, Saal]
+ Gericht: AG ... (Adresse)
 
-  Erscheinenspflicht:
-  - Sie sind grundsaetzlich verpflichtet, persoenlich zu erscheinen (§ 73 OWiG).
-  - Befreiung von Erscheinenspflicht moeglich bei Vertretung durch Verteidiger mit Vollmacht (§ 73 II OWiG).
-  - Empfehlung: persoenliches Erscheinen, da Eindruck Betroffener strafmildernd / freisprechend wirken kann.
+ Erscheinenspflicht:
+ - Sie sind grundsaetzlich verpflichtet, persoenlich zu erscheinen (§ 73 OWiG).
+ - Befreiung von Erscheinenspflicht moeglich bei Vertretung durch Verteidiger mit Vollmacht (§ 73 II OWiG).
+ - Empfehlung: persoenliches Erscheinen, da Eindruck Betroffener strafmildernd / freisprechend wirken kann.
 
-  Mitnehmen:
-  - Personalausweis.
-  - Fuehrerschein.
-  - Versicherungsnachweis Rechtsschutz (falls vorhanden).
-  - Entscheidungsrelevante Unterlagen (Lohnabrechnung fuer Geldbussen-Bemessung).
+ Mitnehmen:
+ - Personalausweis.
+ - Fuehrerschein.
+ - Versicherungsnachweis Rechtsschutz (falls vorhanden).
+ - Entscheidungsrelevante Unterlagen (Lohnabrechnung fuer Geldbussen-Bemessung).
 
-  Strategie / Erwartungshorizont:
-  - Best Case: Freispruch / Einstellung gemaess § 47 OWiG.
-  - Wahrscheinlichster: Verurteilung mit reduzierter Sanktion.
-  - Worst Case: Bestaetigung Bussgeldbescheid + Verfahrenskosten.
+ Strategie / Erwartungshorizont:
+ - Best Case: Freispruch / Einstellung gemaess § 47 OWiG.
+ - Wahrscheinlichster: Verurteilung mit reduzierter Sanktion.
+ - Worst Case: Bestaetigung Bussgeldbescheid + Verfahrenskosten.
 
-  Naechste Schritte:
-  - Persoenliche Vorbesprechung am ... in der Kanzlei (Tel. ...).
-  - Wir besprechen Ihre Aussage / Schweigerecht.
-  - Klaerung Strategie / Entscheidung Bestreiten.
-  ```
+ Naechste Schritte:
+ - Persoenliche Vorbesprechung am ... in der Kanzlei (Tel. ...).
+ - Wir besprechen Ihre Aussage / Schweigerecht.
+ - Klaerung Strategie / Entscheidung Bestreiten.
+ ```
 - **Entscheidungsmatrix vor Hauptverhandlung mit Mandant:**
-  - Einspruchsruecknahme (bei aussichtsloser Lage / Vergleichsangebot StA).
-  - Beschraenkung auf Rechtsfolgenausspruch (Schuldspruch akzeptiert, nur Strafmass streitig).
-  - Vollverteidigung mit Beweisaufnahme.
-  - Verstaendigung § 257c StPO i.V.m. § 71 OWiG.
+ - Einspruchsruecknahme (bei aussichtsloser Lage / Vergleichsangebot StA).
+ - Beschraenkung auf Rechtsfolgenausspruch (Schuldspruch akzeptiert, nur Strafmass streitig).
+ - Vollverteidigung mit Beweisaufnahme.
+ - Verstaendigung § 257c StPO i.V.m. § 71 OWiG.
 - **Kostenhinweis RVG OWi:**
-  - VV 5100 (Grundgebuehr), 5103 (Verfahrensgebuehr Verteidiger im OWi-Verfahren), 5109 (Verfahrensgebuehr Einspruchsverfahren), 5110-5115 (Terminsgebuehr).
-  - Bei Rechtsschutzversicherung: Wartezeit pruefen; Selbstbeteiligung; Strafrechtsschutz nur ohne Vorsatz.
+ - VV 5100 (Grundgebuehr), 5103 (Verfahrensgebuehr Verteidiger im OWi-Verfahren), 5109 (Verfahrensgebuehr Einspruchsverfahren), 5110-5115 (Terminsgebuehr).
+ - Bei Rechtsschutzversicherung: Wartezeit pruefen; Selbstbeteiligung; Strafrechtsschutz nur ohne Vorsatz.
 - **Mandantenfreigabe schriftlich** fuer alle Entscheidungen: Einspruch / Ruecknahme / Beschraenkung / Vertretung / Verstaendigung.
 
 ## Qualitätsanker: Messdaten, Messakte und faires Verfahren
@@ -121,7 +121,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Drogen: Mehrparteienkonflikt und Interessenmatrix
 
 ## Spezialwissen: Drogen: Mehrparteienkonflikt und Interessenmatrix
-- **Spezialgegenstand:** Drogen: Mehrparteienkonflikt und Interessenmatrix / spezial drogen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Drogen: Mehrparteienkonflikt und Interessenmatrix / drogen mehrparteien konflikt und interessen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -157,30 +157,30 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Drogen-Verkehrs-Spezialitaeten Bausteine
 - **Rechtsgrundlage Drogen im Strassenverkehr:**
-  - **§ 24a II StVG:** OWi bei Wirkstoffnachweis im Blut; Wirkstoffe in Anlage zu § 24a StVG (THC, Kokain, Amphetamin, Methamphetamin, MDMA, Morphin, Benzoylecgonin).
-  - **§ 316 StGB:** Trunkenheit (analog auch Drogen) bei relativer / absoluter Fahruntuechtigkeit; Drogen: regelmaessig Wirkstoffspiegel + Ausfallerscheinungen.
-  - **§ 315c I Nr. 1a StGB:** Gefaehrdung StraVerkehr bei Drogen + konkrete Gefahr fuer Leib / Leben / fremde Sachen erheblichen Werts.
-  - **§ 69 StGB:** Entziehung Fahrerlaubnis als Regelfolge.
+ - **§ 24a II StVG:** OWi bei Wirkstoffnachweis im Blut; Wirkstoffe in Anlage zu § 24a StVG (THC, Kokain, Amphetamin, Methamphetamin, MDMA, Morphin, Benzoylecgonin).
+ - **§ 316 StGB:** Trunkenheit (analog auch Drogen) bei relativer / absoluter Fahruntuechtigkeit; Drogen: regelmaessig Wirkstoffspiegel + Ausfallerscheinungen.
+ - **§ 315c I Nr. 1a StGB:** Gefaehrdung StraVerkehr bei Drogen + konkrete Gefahr fuer Leib / Leben / fremde Sachen erheblichen Werts.
+ - **§ 69 StGB:** Entziehung Fahrerlaubnis als Regelfolge.
 - **KCanG seit April 2024:**
-  - Cannabis-Konsum legal in Grenzen.
-  - **Aber:** § 24a II StVG bleibt - Wirkstoffe in Anlage zu § 24a StVG **erweitert um THC-Grenzwert 3,5 ng/ml** (Stand 2024); Differenzierung muss live geprueft werden.
+ - Cannabis-Konsum legal in Grenzen.
+ - **Aber:** § 24a II StVG bleibt - Wirkstoffe in Anlage zu § 24a StVG **erweitert um THC-Grenzwert 3,5 ng/ml** (Stand 2024); Differenzierung muss live geprueft werden.
 - **MPU-Anordnung § 13/14 FeV:**
-  - **§ 13 Nr. 1c FeV:** ab 1,6 Promille Atemalkohol oder 0,8 BAK (Stand: Reform pruefen) -> MPU.
-  - **§ 14 I Nr. 2 FeV:** auch einmaliger Drogenkonsum (insbesondere harte Drogen) genuegt fuer MPU.
-  - **§ 14 II FeV:** Cannabis-Konsumenten - regelmaessiger Konsum + Trennung Konsum/Fahren oder Mischkonsum.
+ - **§ 13 Nr. 1c FeV:** ab 1,6 Promille Atemalkohol oder 0,8 BAK (Stand: Reform pruefen) -> MPU.
+ - **§ 14 I Nr. 2 FeV:** auch einmaliger Drogenkonsum (insbesondere harte Drogen) genuegt fuer MPU.
+ - **§ 14 II FeV:** Cannabis-Konsumenten - regelmaessiger Konsum + Trennung Konsum/Fahren oder Mischkonsum.
 - **Wirkstoff-Grenzwerte (Anlage zu § 24a StVG, aktuell pruefen):**
-  - THC: 3,5 ng/ml (seit Reform 2024).
-  - Kokain / Benzoylecgonin: niedrigster Nachweis.
-  - Amphetamin / Methamphetamin / MDMA: aehnlich.
-  - Morphin: 10 ng/ml.
+ - THC: 3,5 ng/ml (seit Reform 2024).
+ - Kokain / Benzoylecgonin: niedrigster Nachweis.
+ - Amphetamin / Methamphetamin / MDMA: aehnlich.
+ - Morphin: 10 ng/ml.
 - **Beweisstrategie Verteidigung:**
-  - **Blutprobe § 81a StPO**: Voraussetzungen (Richtervorbehalt regelmaessig, Gefahr im Verzug eng); Verwertungsverbot bei groben Versto.
-  - **Atemalkoholmessung / Schnelltests Drogen**: lediglich Indiz; Blutprobe massgeblich.
-  - **Sekundaer-Konsum / passive Aufnahme**: bei Cannabis Verteidigungslinie moeglich.
-  - **Nachzehrung Alkohol**: zwischen Trinken Ende und Messung tatsaechlich relevant?
+ - **Blutprobe § 81a StPO**: Voraussetzungen (Richtervorbehalt regelmaessig, Gefahr im Verzug eng); Verwertungsverbot bei groben Versto.
+ - **Atemalkoholmessung / Schnelltests Drogen**: lediglich Indiz; Blutprobe massgeblich.
+ - **Sekundaer-Konsum / passive Aufnahme**: bei Cannabis Verteidigungslinie moeglich.
+ - **Nachzehrung Alkohol**: zwischen Trinken Ende und Messung tatsaechlich relevant?
 - **Massregeln und Wiedererteilung:**
-  - **§ 69 StGB Entziehung Fahrerlaubnis** + **§ 69a StGB Sperre** (6 Monate bis 5 Jahre, lebenslang bei besonders schweren Faellen).
-  - **Wiedererteilungsantrag § 20 FeV** fruehestens 6 Monate vor Ablauf Sperre; idR MPU-Anordnung.
+ - **§ 69 StGB Entziehung Fahrerlaubnis** + **§ 69a StGB Sperre** (6 Monate bis 5 Jahre, lebenslang bei besonders schweren Faellen).
+ - **Wiedererteilungsantrag § 20 FeV** fruehestens 6 Monate vor Ablauf Sperre; idR MPU-Anordnung.
 - **Mehrparteienlage:** Versicherer (KH/Voll/Insassenversicherer) bei Unfall mit Drogenfahrt - **Leistungsfreiheit § 28 VVG (Vorsatz / grobe Fahrlaessigkeit)** moeglich; Mandant ueber Anzeigeobliegenheit § 30 VVG aufklaeren.
 
 ## Qualitätsanker: Messdaten, Messakte und faires Verfahren
@@ -197,7 +197,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Spezialwissen: Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung
-- **Spezialgegenstand:** Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung / spezial einspruch dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung / einspruch dokumentenmatrix und lueckenliste. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -234,19 +234,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## OWi-Einspruch / Dokumentenmatrix - Bausteine
 - **Pflichtdokumente bei Einspruch § 67 OWiG:** Bussgeldbescheid mit Datum Zustellung; Einspruchsschreiben unterschrieben; Vollmacht Verteidiger.
 - **Messverfahren-Pruefung Lueckenliste:**
-  - **Eichschein** Geraet im Tatzeitraum gueltig? (Eichordnung; regelmaessig 1 Jahr).
-  - **Bedienerschein / Schulungsnachweis** Messbeamter? (gemaess PTB-Anforderungen).
-  - **Lebensakte Geraet** komplett? (Reparaturen, Software-Updates).
-  - **Messprotokoll** ordnungsgemaess gefuehrt? (Datum, Zeit, Aufstellort, Witterung).
-  - **Rohdaten** (.case / .esa / Statistik): Anspruch auf Herausgabe nach BVerfG-Linie zur fair-trial-Garantie - vom OLG zunehmend bejaht; ggf. Verfassungsbeschwerde bei Verweigerung.
-  - **Messort** Hinweisschilder? Tempolimit unauffaellig? Geraet zugelassen fuer die Messstelle?
+ - **Eichschein** Geraet im Tatzeitraum gueltig? (Eichordnung; regelmaessig 1 Jahr).
+ - **Bedienerschein / Schulungsnachweis** Messbeamter? (gemaess PTB-Anforderungen).
+ - **Lebensakte Geraet** komplett? (Reparaturen, Software-Updates).
+ - **Messprotokoll** ordnungsgemaess gefuehrt? (Datum, Zeit, Aufstellort, Witterung).
+ - **Rohdaten** (.case / .esa / Statistik): Anspruch auf Herausgabe nach BVerfG-Linie zur fair-trial-Garantie - vom OLG zunehmend bejaht; ggf. Verfassungsbeschwerde bei Verweigerung.
+ - **Messort** Hinweisschilder? Tempolimit unauffaellig? Geraet zugelassen fuer die Messstelle?
 - **Standardisierte Messverfahren BGH-Linie:** Vermutung Richtigkeit bei Einhaltung der PTB-Bauartzulassung; Verteidigung muss konkreten Anhaltspunkt fuer Messfehler liefern (Anomalien, Toleranzunterschreitung).
 - **Spezifische Geraete-Schwaechen:**
-  - **Poliscan F1HP / FM1**: bekannte Diskussionen zu Photopositionierung, Rohdaten-Verfuegbarkeit.
-  - **Leivtec XV3**: Verfahren bei AG/OLG bei systematischen Messfehlern.
-  - **ES 8.0 / 3.0**: Smear-Effekt bei schnellen Fahrzeugen, Photolinien-Pruefung.
-  - **TraffiStar S330**: stationaerer Blitzer, Rohdaten kontrovers.
-  - **VKS 3.0 / VPS 3.0**: Video-Nachverfolgung.
+ - **Poliscan F1HP / FM1**: bekannte Diskussionen zu Photopositionierung, Rohdaten-Verfuegbarkeit.
+ - **Leivtec XV3**: Verfahren bei AG/OLG bei systematischen Messfehlern.
+ - **ES 8.0 / 3.0**: Smear-Effekt bei schnellen Fahrzeugen, Photolinien-Pruefung.
+ - **TraffiStar S330**: stationaerer Blitzer, Rohdaten kontrovers.
+ - **VKS 3.0 / VPS 3.0**: Video-Nachverfolgung.
 - **Fahrerermittlung** § 25 StVG: Lichtbildqualitaet (Aehnlichkeitsabgleich); Fahrtenbuchauflage § 31a StVZO nach Verfahrenseinstellung moeglich.
 - **Beschraenkungsmoeglichkeiten:** Einspruch auf Rechtsfolgenausspruch (analog § 410 II StPO; gilt auch im OWi-Verfahren).
 - **Nachforderungs-Schreiben** mit konkreter Liste und Frist; ggf. Beweisantrag § 244 StPO i.V.m. § 71 OWiG.

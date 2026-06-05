@@ -138,11 +138,11 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, RO-KSt-Niveau, A1-Bescheinigung Sozialversicherung.
 3. **Kurzantwort**: DBA-Rumaenien 2001 Art. X regelt das Besteuerungsrecht; Freistellung aktive Einkuenfte / Anrechnung passive.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-RO 2001).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
-   - Methodenartikel (Art. 23 — Freistellung aktive Einkuenfte, Anrechnung passive).
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG bei MTRL).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-RO 2001).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
+ - Methodenartikel (Art. 23 — Freistellung aktive Einkuenfte, Anrechnung passive).
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG bei MTRL).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: Pflege-Arbeitnehmer-A1, RO-Mikrosteuer-Regime, § 50d Abs. 9 EStG, MLI-Status.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

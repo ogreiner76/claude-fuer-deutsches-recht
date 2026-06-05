@@ -1,13 +1,13 @@
 ---
 name: konform-interessen-konvertiert-oben
-description: "Nutze dies, wenn Spezial Konform Mehrparteien Konflikt Und Interessen, Spezial Konvertiert Zahlen Schwellen Und Berechnung, Spezial Oben Formular Portal Und Einreichung, Spezial Schriftsaetzen Dokumentenmatrix Und Lueckenliste im Plugin Anlagen Zu Schriftsaetzen konkret bearbeitet werden soll. Auslöser: Bitte Spezial Konform Mehrparteien Konflikt Und Interessen, Spezial Konvertiert Zahlen Schwellen Und Berechnung, Spezial Oben Formular Portal Und Einreichung, Spezial Schriftsaetzen Dokumentenmatrix Und Lueckenliste prüfen.; Erstelle eine Arbeitsfassung zu Spezial Konform Mehrparteien Konflikt Und Interessen, Spezial Konvertiert Zahlen Schwellen Und Berechnung, Spezial Oben Formular Portal Und Einreichung, Spezial Schriftsaetzen Dokumentenmatrix Und Lueckenliste.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Konform Mehrparteien Konflikt Und Interessen, Konvertiert Zahlen Schwellen Und Berechnung, Oben Formular Portal Und Einreichung, Schriftsaetzen Dokumentenmatrix Und Lueckenliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Konform Mehrparteien Konflikt Und Interessen, Spezial Konvertiert Zahlen Schwellen Und Berechnung, Spezial Oben Formular Portal Und Einreichung, Spezial Schriftsaetzen Dokumentenmatrix Und Lueckenliste
+# Konform Mehrparteien Konflikt Und Interessen, Konvertiert Zahlen Schwellen Und Berechnung, Oben Formular Portal Und Einreichung, Schriftsaetzen Dokumentenmatrix Und Lueckenliste
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Konform Mehrparteien Konflikt Und Interessen, Konvertiert Zahlen Schwellen Und Berechnung, Oben Formular Portal Und Einreichung, Schriftsaetzen Dokumentenmatrix Und Lueckenliste** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Konform Mehrparteien Konflikt Und Interessen, Spezial Konvertiert Zahlen Schwellen Und Berechnung, Spezial Oben Formular Portal Und Einreichung, Spezial Schriftsaetzen Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `anlagen-zu-schriftsaetzen` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Konform Mehrparteien Konflikt Und Interessen, Konvertiert Zahlen Schwellen Und Berechnung, Oben Formular Portal Und Einreichung, Schriftsaetzen Dokumentenmatrix Und Lueckenliste** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `anlagen-zu-schriftsaetzen` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

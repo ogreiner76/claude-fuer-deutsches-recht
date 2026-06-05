@@ -8,7 +8,7 @@ description: "Baut aus unordentlichen Fotos, Scans, Briefen, E-Mails und Formula
 ## Aufgabe
 Baut aus unordentlichen Fotos, Scans, Briefen, E-Mails und Formularen eine Chronologie, Anlagenliste und Lückenliste.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

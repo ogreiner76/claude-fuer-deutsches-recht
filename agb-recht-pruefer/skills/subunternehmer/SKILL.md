@@ -1,6 +1,6 @@
 ---
 name: subunternehmer
-description: "Klausel-Spezialskill für Subunternehmer: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
+description: "Klausel-Fachmodul für Subunternehmer: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung."
 ---
 
 # Subunternehmer

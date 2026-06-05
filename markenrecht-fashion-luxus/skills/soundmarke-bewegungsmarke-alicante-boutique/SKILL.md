@@ -1,13 +1,13 @@
 ---
 name: soundmarke-bewegungsmarke-alicante-boutique
-description: "Nutze dies, wenn Soundmarke Und Bewegungsmarke, Spezial Alicante Schriftsatz Brief Und Memo Bausteine, Spezial Boutique Tatbestand Beweis Und Belege, Spezial Dpma Risikoampel Und Gegenargumente im Plugin Markenrecht Fashion Luxus konkret bearbeitet werden soll. Auslöser: Bitte Soundmarke Und Bewegungsmarke, Spezial Alicante Schriftsatz Brief Und Memo Bausteine, Spezial Boutique Tatbestand Beweis Und Belege, Spezial Dpma Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Soundmarke Und Bewegungsmarke, Spezial Alicante Schriftsatz Brief Und Memo Bausteine, Spezial Boutique Tatbestand Beweis Und Belege, Spezial Dpma Risikoampel Und Gegenargumente.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Soundmarke Und Bewegungsmarke, Alicante Schriftsatz Brief Und Memo Bausteine, Boutique Tatbestand Beweis Und Belege, Dpma Risikoampel Und Gegenargumente: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Soundmarke Und Bewegungsmarke, Spezial Alicante Schriftsatz Brief Und Memo Bausteine, Spezial Boutique Tatbestand Beweis Und Belege, Spezial Dpma Risikoampel Und Gegenargumente
+# Soundmarke Und Bewegungsmarke, Alicante Schriftsatz Brief Und Memo Bausteine, Boutique Tatbestand Beweis Und Belege, Dpma Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Soundmarke Und Bewegungsmarke, Alicante Schriftsatz Brief Und Memo Bausteine, Boutique Tatbestand Beweis Und Belege, Dpma Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Soundmarke Und Bewegungsmarke, Spezial Alicante Schriftsatz Brief Und Memo Bausteine, Spezial Boutique Tatbestand Beweis Und Belege, Spezial Dpma Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Soundmarke Und Bewegungsmarke, Alicante Schriftsatz Brief Und Memo Bausteine, Boutique Tatbestand Beweis Und Belege, Dpma Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `markenrecht-fashion-luxus` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -56,24 +56,24 @@ Beide Markenarten wurden durch die UMV-Reform 2017/1001 erheblich vereinfacht: G
 ### Hörmarke
 
 1. **Tonaufnahme/Notation vorbereiten:**
-   - Professionelle MP3-Aufnahme (Stereo, 44.1 kHz, 320 kbps, max. 30 Sek.)
-   - Alternativ oder ergänzend: Notenschrift als PNG/JPEG in hoher Auflösung
-   - Sonagramm (Spektrograph) als optionaler Zusatz
+ - Professionelle MP3-Aufnahme (Stereo, 44.1 kHz, 320 kbps, max. 30 Sek.)
+ - Alternativ oder ergänzend: Notenschrift als PNG/JPEG in hoher Auflösung
+ - Sonagramm (Spektrograph) als optionaler Zusatz
 
 2. **Datei-Check vor EUIPO-Upload:**
-   - MP3-Format (nicht WAV, AAC, FLAC)
-   - Max. 2 MB Dateigröße (EUIPO), max. 2 MB (DPMA)
-   - Klare, rauschfreie Aufnahme — Hintergrundgeräusche vermeiden
+ - MP3-Format (nicht WAV, AAC, FLAC)
+ - Max. 2 MB Dateigröße (EUIPO), max. 2 MB (DPMA)
+ - Klare, rauschfreie Aufnahme — Hintergrundgeräusche vermeiden
 
 3. **Beschreibung der Hörmarke:**
-   - Pflichtfeld beim EUIPO: textliche Beschreibung des Klangs
-   - Beispiel: "Fünf absteigende Harfentöne in e-Moll: e4 – d4 – c4 – h3 – a3, Achtelnotenwerte, Tempo 60 bpm"
-   - Beim DPMA: Beschreibung optional, aber empfehlenswert
+ - Pflichtfeld beim EUIPO: textliche Beschreibung des Klangs
+ - Beispiel: "Fünf absteigende Harfentöne in e-Moll: e4 – d4 – c4 – h3 – a3, Achtelnotenwerte, Tempo 60 bpm"
+ - Beim DPMA: Beschreibung optional, aber empfehlenswert
 
 4. **Unterscheidungskraft prüfen:**
-   - Kurze musikalische Phrase: grundsätzlich unterscheidungskräftig, wenn nicht trivial (Dur-Tonleiter aufwärts = zu simpel)
-   - Natürliche Klänge (Vogelgesang, Regenrauschen): geringere Unterscheidungskraft
-   - Sprachliche Slogans als Hörmarke: doppelte Prüfung (Slogan + Klang)
+ - Kurze musikalische Phrase: grundsätzlich unterscheidungskräftig, wenn nicht trivial (Dur-Tonleiter aufwärts = zu simpel)
+ - Natürliche Klänge (Vogelgesang, Regenrauschen): geringere Unterscheidungskraft
+ - Sprachliche Slogans als Hörmarke: doppelte Prüfung (Slogan + Klang)
 
 5. **Warenverzeichnis:** Wie bei Wortmarke, Klassen 3/14/18/25/35
 
@@ -158,7 +158,7 @@ Bevor die Hörmarke eingereicht wird, klaere:
 # Alicante: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Alicante: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Alicante: Schriftsatz-, Brief- und Memo-Bausteine / spezial alicante schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Alicante: Schriftsatz-, Brief- und Memo-Bausteine / alicante schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -199,7 +199,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Spezialwissen: Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial boutique tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage / boutique tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -240,7 +240,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Dpma: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Dpma: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Dpma: Risikoampel, Gegenargumente und Verteidigungslinien / spezial dpma risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Dpma: Risikoampel, Gegenargumente und Verteidigungslinien / dpma risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI, EU.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

@@ -1,13 +1,13 @@
 ---
 name: reklamationsschreiben-cmr-schriftsatzkern
-description: "Nutze dies, wenn Reklamationsschreiben Cmr Hgb, Schriftsatzkern Substantiierung, Spezial Adsp Internationaler Bezug Und Schnittstellen im Plugin Fachanwalt Transport Speditionsrecht konkret bearbeitet werden soll. Auslöser: Bitte Reklamationsschreiben Cmr Hgb, Schriftsatzkern Substantiierung, Spezial Adsp Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Reklamationsschreiben Cmr Hgb, Schriftsatzkern Substantiierung, Spezial Adsp Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Reklamationsschreiben Cmr Hgb, Schriftsatzkern Substantiierung, Adsp Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Reklamationsschreiben Cmr Hgb, Schriftsatzkern Substantiierung, Spezial Adsp Internationaler Bezug Und Schnittstellen
+# Reklamationsschreiben Cmr Hgb, Schriftsatzkern Substantiierung, Adsp Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Reklamationsschreiben Cmr Hgb, Schriftsatzkern Substantiierung, Adsp Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Reklamationsschreiben Cmr Hgb, Schriftsatzkern Substantiierung, Spezial Adsp Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-transport-speditionsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Reklamationsschreiben Cmr Hgb, Schriftsatzkern Substantiierung, Adsp Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-transport-speditionsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -135,7 +135,7 @@ Genaue Schadenbezifferung nach interner Prüfung vorbehalten.
 Alle Ansprüche aus dem Frachtvertrag bleiben ausdrücklich
 vorbehalten.
 
-[Unterschrift Empfänger]   [ggf. Unterschrift Fahrer]
+[Unterschrift Empfänger] [ggf. Unterschrift Fahrer]
 ```
 
 ### Baustein 2 – Förmliches Reklamationsschreiben (CMR Art. 30)
@@ -159,49 +159,49 @@ wir zeigen die anwaltliche Vertretung der [Mandantschaft]
 an und machen folgende Schadensersatzansprüche geltend:
 
 1. SACHVERHALT
-   Transport: von [Verladeort] nach [Entladeort]
-   Datum Übernahme: [Datum]
-   Datum Ablieferung: [Datum]
-   Sendung: [Bezeichnung], Bruttogewicht [X] kg
-   Wert laut Handelsrechnung: EUR [Betrag] (Anlage K1)
+ Transport: von [Verladeort] nach [Entladeort]
+ Datum Übernahme: [Datum]
+ Datum Ablieferung: [Datum]
+ Sendung: [Bezeichnung], Bruttogewicht [X] kg
+ Wert laut Handelsrechnung: EUR [Betrag] (Anlage K1)
 
 2. SCHADEN
-   Art: [vollständiger Verlust / Teilverlust / Beschädigung /
-         Lieferverspätung um [X] Tage]
-   Feststellung: [bei Annahme / nach Entpacken am Datum]
-   Vorbehalt im Frachtbrief: [ja/nein; Datum]
+ Art: [vollständiger Verlust / Teilverlust / Beschädigung /
+ Lieferverspätung um [X] Tage]
+ Feststellung: [bei Annahme / nach Entpacken am Datum]
+ Vorbehalt im Frachtbrief: [ja/nein; Datum]
 
 3. REKLAMATIONSFRIST
-   Die Reklamation erfolgt innerhalb der Fristen des
-   Art. 30 CMR / § 438 HGB:
-   – Bei erkennbarem Schaden: sofort bei Annahme
-     (Frachtbrief-Vorbehalt vom [Datum], Anlage K2)
-   – Bei verdecktem Schaden: innerhalb 7 Tage (Datum
-     Ablieferung [X], Frist endet [X+7 Werktage]).
+ Die Reklamation erfolgt innerhalb der Fristen des
+ Art. 30 CMR / § 438 HGB:
+ – Bei erkennbarem Schaden: sofort bei Annahme
+ (Frachtbrief-Vorbehalt vom [Datum], Anlage K2)
+ – Bei verdecktem Schaden: innerhalb 7 Tage (Datum
+ Ablieferung [X], Frist endet [X+7 Werktage]).
 
 4. SCHADENSBERECHNUNG
-   Verkehrswert der Sendung: EUR [Betrag]
-   Haftungshöchstbetrag Art. 23 CMR: [X] kg × 8.33 SZR
-   × Tageskurs [EUR/SZR] = EUR [Betrag]
-   [Bei qualifiziertem Verschulden Art. 29 CMR: voller
-   Schadenersatz EUR [Betrag]]
+ Verkehrswert der Sendung: EUR [Betrag]
+ Haftungshöchstbetrag Art. 23 CMR: [X] kg × 8.33 SZR
+ × Tageskurs [EUR/SZR] = EUR [Betrag]
+ [Bei qualifiziertem Verschulden Art. 29 CMR: voller
+ Schadenersatz EUR [Betrag]]
 
 5. BEWEISMITTEL
-   Anlage K1: Handelsrechnung
-   Anlage K2: Frachtbrief (Kopie mit Vorbehalt)
-   Anlage K3: Fotos des Schadens
-   Anlage K4: Sachverständigenprotokoll / Schadengutachten
+ Anlage K1: Handelsrechnung
+ Anlage K2: Frachtbrief (Kopie mit Vorbehalt)
+ Anlage K3: Fotos des Schadens
+ Anlage K4: Sachverständigenprotokoll / Schadengutachten
 
 6. FORDERUNG
-   Wir fordern Sie auf, bis zum [Datum, 14 Tage] folgende
-   Beträge zu zahlen:
-   – Schadensersatz: EUR [Betrag]
-   – Frachtrückerstattung: EUR [Betrag]
-   – Zinsen 5 % p.a. ab Reklamationsdatum (Art. 27 CMR)
-   – Gesamtforderung: EUR [Summe]
+ Wir fordern Sie auf, bis zum [Datum, 14 Tage] folgende
+ Beträge zu zahlen:
+ – Schadensersatz: EUR [Betrag]
+ – Frachtrückerstattung: EUR [Betrag]
+ – Zinsen 5 % p.a. ab Reklamationsdatum (Art. 27 CMR)
+ – Gesamtforderung: EUR [Summe]
 
-   Bei ausbleibender Zahlung behalten wir uns Klage vor.
-   Die Verjährungsfrist Art. 32 CMR endet am [Datum].
+ Bei ausbleibender Zahlung behalten wir uns Klage vor.
+ Die Verjährungsfrist Art. 32 CMR endet am [Datum].
 
 Mit freundlichen Grüßen
 [Kanzlei, Unterschrift]
@@ -212,24 +212,24 @@ Mit freundlichen Grüßen
 ```
 SCHADENSBERECHNUNG gemäß CMR Art. 23
 
-Sendung:           Maschinenteile, 850 kg Bruttogewicht
-Warenwert:         EUR 75.000 (Handelsrechnung, Anlage K1)
+Sendung: Maschinenteile, 850 kg Bruttogewicht
+Warenwert: EUR 75.000 (Handelsrechnung, Anlage K1)
 
 1. Haftungshöchstbetrag CMR Art. 23 Abs. 3:
-   850 kg × 8.33 SZR/kg = 7.080 SZR
-   × SDR-Kurs 1.33 EUR/SZR (Ablieferungstag) = EUR 9.417
+ 850 kg × 8.33 SZR/kg = 7.080 SZR
+ × SDR-Kurs 1.33 EUR/SZR (Ablieferungstag) = EUR 9.417
 
 2. Frachtanteil CMR Art. 23 Abs. 4:
-   Fracht EUR 1.200 + Zoll EUR 0 = EUR 1.200
+ Fracht EUR 1.200 + Zoll EUR 0 = EUR 1.200
 
 3. Anspruch bei Regelhaftung: EUR 9.417 + EUR 1.200 = EUR 10.617
 
 4. Bei qualifiziertem Verschulden Art. 29 CMR:
-   Warenwert EUR 75.000 + Frachtanteil EUR 1.200 = EUR 76.200
+ Warenwert EUR 75.000 + Frachtanteil EUR 1.200 = EUR 76.200
 
 Differenz zu regulärer Haftung: EUR 65.583
 → Nachweis qualifiziertes Verschulden Art. 29 CMR
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klaeren ---
@@ -519,7 +519,7 @@ Vor Versand:
 # Adsp: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Adsp: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Adsp: Internationaler Bezug und Schnittstellen / spezial adsp internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Adsp: Internationaler Bezug und Schnittstellen / adsp internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** HGB, CMR, COTIF, CO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

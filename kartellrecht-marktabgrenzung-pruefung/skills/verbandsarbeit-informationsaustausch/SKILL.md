@@ -1,13 +1,13 @@
 ---
 name: verbandsarbeit-informationsaustausch
-description: "Nutze dies, wenn Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbarung Patent Settlement Pay For Delay, Vertical Restraints Vber Global, Vertikal Gvo 2022 720 Vertriebsvertraege im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbarung Patent Settlement Pay For Delay, Vertical Restraints Vber Global, Vertikal Gvo 2022 720 Vertriebsvertraege prüfen.; Erstelle eine Arbeitsfassung zu Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbarung Patent Settlement Pay For Delay, Vertical Restraints Vber Global, Vertikal Gvo 2022 720 Vertriebsvertraege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbarung Patent Settlement Pay For Delay, Vertical Restraints Vber Global, Vertikal Gvo 2022 720 Vertriebsvertraege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbarung Patent Settlement Pay For Delay, Vertical Restraints Vber Global, Vertikal Gvo 2022 720 Vertriebsvertraege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verbandsarbeit Informationsaustausch Grenzen, Vergleichsvereinbarung Patent Settlement Pay For Delay, Vertical Restraints Vber Global, Vertikal Gvo 2022 720 Vertriebsvertraege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `verbandsarbeit-informationsaustausch-grenzen` | Verbandsarbeit Informationsaustausch Grenzen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `vergleichsvereinbarung-patent-settlement-pay-for-delay` | Vergleichsvereinbarung Patent Settlement Pay-for-delay: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `vertical-restraints-vber-global` | Vertical Restraints und VBER: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisbindung, Gebiets-/Kundenschutz, Plattformverbote, MFN und Online-Vertrieb prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `vertical-restraints-vber-global` | Vertical Restraints und VBER: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisbindung, Gebiets-/Kundenschutz, Plattformverbote, MFN und Online-Vertrieb prüfen, Evidenz, Fristen, Strategie und Quellen. |
 | `vertikal-gvo-2022-720-vertriebsvertraege` | Vertikal-GVO 2022/720 Vertriebsverträge: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 
 ## Arbeitsweg
@@ -117,7 +117,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `vertical-restraints-vber-global`
 
-**Fokus:** Vertical Restraints und VBER: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisbindung, Gebiets-/Kundenschutz, Plattformverbote, MFN und Online-Vertrieb prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Vertical Restraints und VBER: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisbindung, Gebiets-/Kundenschutz, Plattformverbote, MFN und Online-Vertrieb prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 # Vertical Restraints und VBER
 

@@ -1,6 +1,6 @@
 ---
 name: rom-neu-021-roemisches-sachenrecht
-description: "Nutze dies, wenn Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext im Plugin Römisches Recht konkret bearbeitet werden soll. Auslöser: Bitte Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext prüfen.; Erstelle eine Arbeitsfassung zu Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext

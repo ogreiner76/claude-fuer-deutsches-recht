@@ -1,13 +1,13 @@
 ---
 name: belegte-faellige-fmkw
-description: "Nutze dies, wenn Spezial Belegte Compliance Dokumentation Und Akte, Spezial Faellige Zahlen Schwellen Und Berechnung, Spezial Fmkw Mandantenkommunikation Entscheidungsvorlage im Plugin Forderungsmanagement Klagewerkstatt konkret bearbeitet werden soll. Auslöser: Bitte Spezial Belegte Compliance Dokumentation Und Akte, Spezial Faellige Zahlen Schwellen Und Berechnung, Spezial Fmkw Mandantenkommunikation Entscheidungsvorlage prüfen.; Erstelle eine Arbeitsfassung zu Spezial Belegte Compliance Dokumentation Und Akte, Spezial Faellige Zahlen Schwellen Und Berechnung, Spezial Fmkw Mandantenkommunikation Entscheidungsvorlage.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Belegte Compliance Dokumentation Und Akte, Faellige Zahlen Schwellen Und Berechnung, Fmkw Mandantenkommunikation Entscheidungsvorlage: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Belegte Compliance Dokumentation Und Akte, Spezial Faellige Zahlen Schwellen Und Berechnung, Spezial Fmkw Mandantenkommunikation Entscheidungsvorlage
+# Belegte Compliance Dokumentation Und Akte, Faellige Zahlen Schwellen Und Berechnung, Fmkw Mandantenkommunikation Entscheidungsvorlage
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Belegte Compliance Dokumentation Und Akte, Faellige Zahlen Schwellen Und Berechnung, Fmkw Mandantenkommunikation Entscheidungsvorlage** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Belegte Compliance Dokumentation Und Akte, Spezial Faellige Zahlen Schwellen Und Berechnung, Spezial Fmkw Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Belegte Compliance Dokumentation Und Akte, Faellige Zahlen Schwellen Und Berechnung, Fmkw Mandantenkommunikation Entscheidungsvorlage** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `forderungsmanagement-klagewerkstatt` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -99,9 +99,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **B2B-Zahlungsfristen (§ 271a BGB):** Vereinbarte Zahlungsfrist darf grundsätzlich 60 Tage nicht überschreiten (§ 271a Abs. 1 S. 1 BGB); bei Verbraucher als Schuldner sogar 30 Tage (§ 271a Abs. 1 S. 2 BGB). Überschreitung führt zur Reduktion auf das gesetzliche Maß.
 - **Verzug ohne Mahnung (§ 286 Abs. 2 BGB):** Wenn (1) Leistungszeit kalendermäßig bestimmt, (2) Mahnung ist entbehrlich, (3) Schuldner ernsthaft verweigert, (4) 30 Tage nach Fälligkeit und Zugang Rechnung bei Verbrauchern bzw. ab Rechnungsdatum bei B2B (§ 286 Abs. 3 BGB).
 - **Verzugszinsen:**
-  - B2C: 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
-  - B2B: 9 Prozentpunkte über Basiszinssatz (§ 288 Abs. 2 BGB).
-  - Aktuelle Werte halbjährlich (1. Januar / 1. Juli) auf bundesbank.de prüfen.
+ - B2C: 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
+ - B2B: 9 Prozentpunkte über Basiszinssatz (§ 288 Abs. 2 BGB).
+ - Aktuelle Werte halbjährlich (1. Januar / 1. Juli) auf bundesbank.de prüfen.
 - **40-Euro-Pauschale (§ 288 Abs. 5 BGB):** Bei B2B-Geldforderungen ohne Verbraucher als Gläubiger: 40 Euro je Forderung pauschal als Verzugsschaden, anrechenbar auf weitergehende Schadensersatzkosten (z. B. Inkasso/Anwalt). Greift bei jeder verzögerten Zahlung neu.
 - **Rechnungs-Anforderungen (§ 14 UStG bei B2B):** Vollständige Rechnung mit Pflichtangaben (Anschriften, Steuernummer/USt-IdNr., Datum, Leistungsbeschreibung, Entgelt, Steuersatz, Steuerbetrag). Bei Mängeln häufig Berufung auf fehlende Fälligkeit; gerichtlich aber strikt zu trennen: Mängel der Rechnung berühren in der Regel nicht die Fälligkeit der zugrundeliegenden Forderung.
 - **Verjährung (§ 195 BGB):** Regelmäßig 3 Jahre, Beginn mit Schluss des Jahres, in dem Anspruch entstanden und Kenntnis besteht (§ 199 BGB). Bei Mietzinsen: 3 Jahre. Bei Werklohn: 3 Jahre ab Abnahme.

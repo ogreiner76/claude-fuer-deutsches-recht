@@ -1,33 +1,33 @@
 ---
 name: feststellung-sonderfall-glaeubigerantrag-inso
-description: "Nutze dies, wenn Spezial Feststellung Sonderfall Und Edge Case, Spezial Glaeubigerantrag Risikoampel Und Gegenargumente, Spezial Inso Schriftsatz Brief Und Memo Bausteine, Spezial Insolvenzrecht Behörden Gericht Und Registerweg im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Feststellung Sonderfall Und Edge Case, Spezial Glaeubigerantrag Risikoampel Und Gegenargumente, Spezial Inso Schriftsatz Brief Und Memo Bausteine, Spezial Insolvenzrecht Behörden Gericht Und Registerweg prüfen.; Erstelle eine Arbeitsfassung zu Spezial Feststellung Sonderfall Und Edge Case, Spezial Glaeubigerantrag Risikoampel Und Gegenargumente, Spezial Inso Schriftsatz Brief Und Memo Bausteine, Spezial Insolvenzrecht Behörden Gericht Und Registerweg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Feststellung Sonderfall Und Edge Case, Glaeubigerantrag Risikoampel Und Gegenargumente, Inso Schriftsatz Brief Und Memo Bausteine, Insolvenzrecht Behörden Gericht Und Registerweg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Feststellung Sonderfall Und Edge Case, Spezial Glaeubigerantrag Risikoampel Und Gegenargumente, Spezial Inso Schriftsatz Brief Und Memo Bausteine, Spezial Insolvenzrecht Behörden Gericht Und Registerweg
+# Feststellung Sonderfall Und Edge Case, Glaeubigerantrag Risikoampel Und Gegenargumente, Inso Schriftsatz Brief Und Memo Bausteine, Insolvenzrecht Behörden Gericht Und Registerweg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Feststellung Sonderfall Und Edge Case, Glaeubigerantrag Risikoampel Und Gegenargumente, Inso Schriftsatz Brief Und Memo Bausteine, Insolvenzrecht Behörden Gericht Und Registerweg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-feststellung-sonderfall-und-edge-case` | Feststellung: Sonderfall und Edge-Case-Prüfung im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-glaeubigerantrag-risikoampel-und-gegenargumente` | Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-inso-schriftsatz-brief-und-memo-bausteine` | InsO: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-insolvenzrecht-behoerden-gericht-und-registerweg` | Insolvenzrecht: Behörden-, Gerichts- oder Registerweg im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-feststellung-sonderfall-und-edge-case` | Feststellung: Sonderfall und Edge-Case-Prüfung im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-glaeubigerantrag-risikoampel-und-gegenargumente` | Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-inso-schriftsatz-brief-und-memo-bausteine` | InsO: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-insolvenzrecht-behoerden-gericht-und-registerweg` | Insolvenzrecht: Behörden-, Gerichts- oder Registerweg im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Feststellung Sonderfall Und Edge Case, Spezial Glaeubigerantrag Risikoampel Und Gegenargumente, Spezial Inso Schriftsatz Brief Und Memo Bausteine, Spezial Insolvenzrecht Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Feststellung Sonderfall Und Edge Case, Glaeubigerantrag Risikoampel Und Gegenargumente, Inso Schriftsatz Brief Und Memo Bausteine, Insolvenzrecht Behörden Gericht Und Registerweg** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-feststellung-sonderfall-und-edge-case`
 
-**Fokus:** Feststellung: Sonderfall und Edge-Case-Prüfung im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Feststellung: Sonderfall und Edge-Case-Prüfung im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Feststellung: Sonderfall und Edge-Case-Prüfung
 
@@ -41,7 +41,7 @@ Für **Spezial Feststellung Sonderfall Und Edge Case, Spezial Glaeubigerantrag R
 
 
 ## Spezialwissen: Feststellung: Sonderfall und Edge-Case-Prüfung
-- **Spezialgegenstand:** Feststellung: Sonderfall und Edge-Case-Prüfung / spezial feststellung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Feststellung: Sonderfall und Edge-Case-Prüfung / feststellung sonderfall und edge case. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -86,7 +86,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-glaeubigerantrag-risikoampel-und-gegenargumente`
 
-**Fokus:** Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -100,7 +100,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien / spezial glaeubigerantrag risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Glaeubigerantrag: Risikoampel, Gegenargumente und Verteidigungslinien / glaeubigerantrag risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -145,7 +145,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-inso-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** InsO: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** InsO: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # InsO: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -159,7 +159,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: InsO: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** InsO: Schriftsatz-, Brief- und Memo-Bausteine / spezial inso schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** InsO: Schriftsatz-, Brief- und Memo-Bausteine / inso schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -211,7 +211,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-insolvenzrecht-behoerden-gericht-und-registerweg`
 
-**Fokus:** Insolvenzrecht: Behörden-, Gerichts- oder Registerweg im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Insolvenzrecht: Behörden-, Gerichts- oder Registerweg im Insolvenzrecht: fachlich vertiefter Fachmodul mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Insolvenzrecht: Behörden-, Gerichts- oder Registerweg
 
@@ -225,7 +225,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Insolvenzrecht: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Insolvenzrecht: Behörden-, Gerichts- oder Registerweg / spezial insolvenzrecht behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Insolvenzrecht: Behörden-, Gerichts- oder Registerweg / insolvenzrecht behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

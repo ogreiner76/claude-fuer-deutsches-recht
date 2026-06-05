@@ -136,14 +136,14 @@ Empfohlene Struktur fuer das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 2. **Frage(n)**: Besteuerungsrecht, Branch Profits Tax, RRSP-Auszahlung, Wegzugsbesteuerung.
 3. **Kurzantwort**: DBA-Kanada 2001 Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
 4. **Rechtliche Bewertung**:
-   - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-CA 2001; Quebec-Sonderregeln).
-   - Sachliche Anwendbarkeit (Art. 2).
-   - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
-   - Methodenartikel (Art. 23 — Anrechnung passive, Freistellung mit Aktivitaetsklausel aktive).
-   - Branch Profits Tax Art. 10 Abs. 6.
-   - § 6 AStG bei Wegzug (Kanada Drittland).
-   - § 4k EStG bei Hybridmismatch (ULC, LLP).
-   - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
+ - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-CA 2001; Quebec-Sonderregeln).
+ - Sachliche Anwendbarkeit (Art. 2).
+ - Einkunftsart und Verteilungsartikel mit konkretem Quellensteuersatz.
+ - Methodenartikel (Art. 23 — Anrechnung passive, Freistellung mit Aktivitaetsklausel aktive).
+ - Branch Profits Tax Art. 10 Abs. 6.
+ - § 6 AStG bei Wegzug (Kanada Drittland).
+ - § 4k EStG bei Hybridmismatch (ULC, LLP).
+ - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
 6. **Risiken / offene Punkte**: Hybridunternehmen, Quebec-Sondersteuer, Apostille seit 2024, MLI mit PPT.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).

@@ -1,13 +1,13 @@
 ---
 name: merger-talks-nachfolge-practice-office
-description: "Nutze dies, wenn Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics Decoder, Okrs Kanzlei im Plugin Kanzlei Management konkret bearbeitet werden soll. Auslöser: Bitte Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics Decoder, Okrs Kanzlei prüfen.; Erstelle eine Arbeitsfassung zu Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics Decoder, Okrs Kanzlei.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics Decoder, Okrs Kanzlei: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics Decoder, Okrs Kanzlei
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Merger Talks Kanzlei, Nachfolge In Practice Group, Office Politics Decoder, Okrs Kanzlei** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

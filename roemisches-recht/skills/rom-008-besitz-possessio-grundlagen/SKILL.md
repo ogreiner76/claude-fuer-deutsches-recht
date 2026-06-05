@@ -1,6 +1,6 @@
 ---
 name: rom-008-besitz-possessio-grundlagen
-description: "Römisches Recht: Besitz Possessio Grundlagen. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Besitz Possessio Grundlagen. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Besitz Possessio Grundlagen

@@ -1,6 +1,6 @@
 ---
 name: rom-028-buergschaft-und-sicherheiten
-description: "Römisches Recht: Buergschaft Und Sicherheiten. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Buergschaft Und Sicherheiten. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Buergschaft Und Sicherheiten

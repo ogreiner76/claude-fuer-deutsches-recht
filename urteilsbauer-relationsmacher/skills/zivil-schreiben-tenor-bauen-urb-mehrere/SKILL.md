@@ -1,13 +1,13 @@
 ---
 name: zivil-schreiben-tenor-bauen-urb-mehrere
-description: "Nutze dies, wenn Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial im Plugin Urteilsbauer Relationsmacher konkret bearbeitet werden soll. Auslöser: Bitte Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial prüfen.; Erstelle eine Arbeitsfassung zu Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -56,7 +56,7 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Einleitungssatz formulieren:** "Die Parteien streiten über [STREITGEGENSTAND] aus [VERTRAGSART/DELIKT]."
 2. **Unstreitige Tatsachen:** Chronologisch — Vertragsschluss, Lieferung, Zahlung etc.
@@ -107,12 +107,12 @@ Die Beklagte lieferte am [DATUM].
 Der Kläger behauptet, [STREITIGE TATSACHE KLÄGER].
 
 Der Kläger beantragt,
-    die Beklagte zu verurteilen, an ihn [BETRAG] EUR nebst Zinsen zu zahlen.
+ die Beklagte zu verurteilen, an ihn [BETRAG] EUR nebst Zinsen zu zahlen.
 
 Die Beklagte behauptet, [STREITIGE TATSACHE BEKLAGTE].
 
 Die Beklagte beantragt,
-    die Klage abzuweisen.
+ die Klage abzuweisen.
 
 Das Gericht hat Beweis erhoben durch Vernehmung des Zeugen [NAME] sowie durch Einholung
 eines schriftlichen Sachverständigengutachtens des Sachverständigen [NAME] vom [DATUM].
@@ -188,14 +188,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Tenor
 
 1. Die Beklagte wird verurteilt, an den Kläger [BETRAG] EUR nebst Zinsen in Höhe von
-   fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem [DATUM] zu zahlen.
-   [Im Übrigen wird die Klage abgewiesen.]
+ fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem [DATUM] zu zahlen.
+ [Im Übrigen wird die Klage abgewiesen.]
 
 2. Die [Beklagte / Kosten werden gequotelt: Kläger X von Hundert, Beklagte Y von Hundert]
-   trägt die Kosten des Rechtsstreits.
+ trägt die Kosten des Rechtsstreits.
 
 3. Das Urteil ist vorläufig vollstreckbar [gegen Sicherheitsleistung in Höhe von
-   einhundertzehn Prozent des jeweils zu vollstreckenden Betrages].
+ einhundertzehn Prozent des jeweils zu vollstreckenden Betrages].
 
 4. Der Streitwert wird auf [BETRAG] EUR festgesetzt.
 ```
@@ -203,16 +203,16 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Aufbau
 
 1. **Hauptsache** (Verurteilung / Klageabweisung)
-   - bezifferter Zahlungsantrag mit Zinsen "ab" Datum / "seit" Datum
-   - bei Mehrforderungen: Reihenfolge wie im Antrag, mit Hilfsanträgen kenntlich machen
+ - bezifferter Zahlungsantrag mit Zinsen "ab" Datum / "seit" Datum
+ - bei Mehrforderungen: Reihenfolge wie im Antrag, mit Hilfsanträgen kenntlich machen
 2. **Kosten** (Paragraf 91 ff ZPO)
-   - bei vollem Obsiegen: "Der Beklagte traegt die Kosten des Rechtsstreits."
-   - bei teilweisem Obsiegen: Quote nach Paragraf 92 ZPO
-   - bei mehreren Beklagten: Paragraf 100 ZPO
+ - bei vollem Obsiegen: "Der Beklagte traegt die Kosten des Rechtsstreits."
+ - bei teilweisem Obsiegen: Quote nach Paragraf 92 ZPO
+ - bei mehreren Beklagten: Paragraf 100 ZPO
 3. **Vorläufige Vollstreckbarkeit** (Paragraf 708 ff ZPO)
-   - Standardformel: "Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages."
-   - Bei Beschwer unter 600 EUR: Paragraf 713 ZPO - ohne Sicherheit
-   - Bei Versäumnisurteil: Paragraf 708 Nr. 2 ZPO
+ - Standardformel: "Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages."
+ - Bei Beschwer unter 600 EUR: Paragraf 713 ZPO - ohne Sicherheit
+ - Bei Versäumnisurteil: Paragraf 708 Nr. 2 ZPO
 4. **Streitwert** (gesonderter Beschluss oder im Tenor)
 5. **Berufungszulassung** (Paragraf 511 Abs. 4 ZPO bei AG-Urteilen mit Beschwer unter 600 EUR)
 

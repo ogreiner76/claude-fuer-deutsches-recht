@@ -1,13 +1,13 @@
 ---
 name: str-bundesstrasse-unterhaltung-dokumente
-description: "Nutze dies, wenn Str 038 Bundesstrasse Unterhaltung Ruegen, Str 039 Bundesstrasse Dokumente Sortieren, Str 040 Bundesstrasse Dashboard Erstellen, Str 041 Landesstrasse Baulast Prüfen im Plugin Strassenrecht Infrastruktur konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Str 038 Bundesstrasse Unterhaltung Ruegen, Str 039 Bundesstrasse Dokumente Sortieren, Str 040 Bundesstrasse Dashboard Erstellen, Str 041 Landesstrasse Baulast Prüfen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Str 038 Bundesstrasse Unterhaltung Ruegen, Str 039 Bundesstrasse Dokumente Sortieren, Str 040 Bundesstrasse Dashboard Erstellen, Str 041 Landesstrasse Baulast Prüfen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Str 038 Bundesstrasse Unterhaltung Ruegen, Str 039 Bundesstrasse Dokumente Sortieren, Str 040 Bundesstrasse Dashboard Erstellen, Str 041 Landesstrasse Baulast Prüfen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

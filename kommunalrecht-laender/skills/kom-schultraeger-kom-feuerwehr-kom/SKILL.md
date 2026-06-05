@@ -1,13 +1,13 @@
 ---
 name: kom-schultraeger-kom-feuerwehr-kom
-description: "Nutze dies, wenn Kom 148 Schultraeger Zustaendigkeit Prüfen, Kom 158 Feuerwehr Zustaendigkeit Prüfen, Kom 010 Kommunalabgaben Prüfen, Kom 117 Kommunalabgabe Landesrecht Routen, Kom 119 Kommunalabgabe Beschluss Bauen und 1 weitere Themen im Plugin Kommunalrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Kom 148 Schultraeger Zustaendigkeit Prüfen, Kom 158 Feuerwehr Zustaendigkeit Prüfen, Kom 010 Kommunalabgaben Prüfen, Kom 117 Kommunalabgabe Landesrecht Routen, Kom 119 Kommunalabgabe Beschluss Bauen und 1 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Kom 148 Schultraeger Zustaendigkeit Prüfen, Kom 158 Feuerwehr Zustaendigkeit Prüfen, Kom 010 Kommunalabgaben Prüfen, Kom 117 Kommunalabgabe Landesrecht Routen, Kom 119 Kommunalabgabe Beschluss Bauen und 1 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kom 148 Schultraeger Zustaendigkeit Prüfen, Kom 158 Feuerwehr Zustaendigkeit Prüfen, Kom 010 Kommunalabgaben Prüfen, Kom 117 Kommunalabgabe Landesrecht Routen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kom 148 Schultraeger Zustaendigkeit Prüfen, Kom 158 Feuerwehr Zustaendigkeit Prüfen, Kom 010 Kommunalabgaben Prüfen, Kom 117 Kommunalabgabe Landesrecht Routen, Kom 119 Kommunalabgabe Beschluss Bauen und 1 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kom 148 Schultraeger Zustaendigkeit Prüfen, Kom 158 Feuerwehr Zustaendigkeit Prüfen, Kom 010 Kommunalabgaben Prüfen, Kom 117 Kommunalabgabe Landesrecht Routen, Kom 119 Kommunalabgabe Beschluss Bauen und 1 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

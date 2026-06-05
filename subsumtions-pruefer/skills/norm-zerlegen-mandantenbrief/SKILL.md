@@ -1,13 +1,13 @@
 ---
 name: norm-zerlegen-mandantenbrief
-description: "Nutze dies, wenn Norm Zerlegen In Tatbestandsmerkmale, Output Memo Und Mandantenbrief, Output Pruefungsdokument Mit Warnhinweisen im Plugin Subsumtions Prüfer konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Norm Zerlegen In Tatbestandsmerkmale, Output Memo Und Mandantenbrief, Output Pruefungsdokument Mit Warnhinweisen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Norm Zerlegen In Tatbestandsmerkmale, Output Memo Und Mandantenbrief, Output Pruefungsdokument Mit Warnhinweisen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Norm Zerlegen In Tatbestandsmerkmale, Output Memo Und Mandantenbrief, Output Pruefungsdokument Mit Warnhinweisen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -256,8 +256,8 @@ Das System kann nicht prüfen:
 • ob es eine vorrangige, speziellere oder günstigere Norm gibt
 • ob die Gegenseite andere Tatsachen behauptet oder belegt
 • ob Generalklauseln und unbestimmte Rechtsbegriffe im
-  Einzelfall wie ausgelegt zugunsten oder zulasten des Nutzers
-  ausgelegt werden
+ Einzelfall wie ausgelegt zugunsten oder zulasten des Nutzers
+ ausgelegt werden
 • ob das Prüfungsergebnis vor Gericht standhält
 
 Erstellt: [Datum]

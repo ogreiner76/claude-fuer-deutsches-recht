@@ -1,6 +1,6 @@
 ---
 name: competition-global-kaltstart
-description: "Global Competition Kaltstart: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft welche Jurisdiktionen, Produkte, Märkte, Umsätze, Behörden, Deadlines und Verfahrensarten sofort relevant sind, Evidenz, Fristen, Strategie und Quellen."
+description: "Global Competition Kaltstart: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft welche Jurisdiktionen, Produkte, Märkte, Umsätze, Behörden, Deadlines und Verfahrensarten sofort relevant sind, Evidenz, Fristen, Strategie und Quellen."
 ---
 
 # Global Competition Kaltstart

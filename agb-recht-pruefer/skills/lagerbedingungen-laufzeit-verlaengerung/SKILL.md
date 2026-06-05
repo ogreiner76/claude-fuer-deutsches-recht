@@ -1,23 +1,23 @@
 ---
 name: lagerbedingungen-laufzeit-verlaengerung
-description: "Nutze dies, wenn Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages prüfen.; Erstelle eine Arbeitsfassung zu Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaenderung Produktupdate, Liquidated Damages** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `lagerbedingungen` | Branchen-Spezialskill für Lagerbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `lagerbedingungen` | Branchen-Fachmodul für Lagerbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `laufzeit-verlaengerung-309` | Norm- und Dogmatik-Skill für Laufzeit Verlängerung 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `leasing-agb` | Branchen-Spezialskill für Leasing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `leistungsaenderung-produktupdate` | Klausel-Spezialskill für Leistungsänderung Produktupdate: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `liquidated-damages` | Klausel-Spezialskill für Liquidated Damages: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `leasing-agb` | Branchen-Fachmodul für Leasing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `leistungsaenderung-produktupdate` | Klausel-Fachmodul für Leistungsänderung Produktupdate: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `liquidated-damages` | Klausel-Fachmodul für Liquidated Damages: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Lagerbedingungen, Laufzeit Verlaengerung 309, Leasing Agb, Leistungsaende
 
 ## 1. `lagerbedingungen`
 
-**Fokus:** Branchen-Spezialskill für Lagerbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Lagerbedingungen: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Lagerbedingungen
 
@@ -109,14 +109,14 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus Laufzeit und Verlängerung (§ 309 Nr. 9 BGB):**
-   - **Neue Fassung seit 01.03.2022 (Gesetz für faire Verbraucherverträge):** Bei B2C-Verbraucherverträgen gilt für nach dem 01.03.2022 geschlossene Verträge:
-     - **Erstlaufzeit:** maximal 2 Jahre.
-     - **Verlängerung:** nur stillschweigend auf unbestimmte Zeit zulässig, wenn Kündigung mit Frist von höchstens 1 Monat jederzeit möglich ist.
-     - **Kündigungsfrist Erstvertrag:** max. 1 Monat zum Ende der Erstlaufzeit (§ 309 Nr. 9 lit. c BGB).
-   - **B2B:** § 309 Nr. 9 BGB greift direkt nicht; aber § 307 BGB. Erstlaufzeiten über 2 Jahre und automatische Verlängerung um mehr als 1 Jahr im B2B regelmäßig nach Wertungsausstrahlung unwirksam, sofern keine besondere Investitionsamortisation begründet werden kann.
-   - **Häufiger Fehler "Verlängerung um 12 Monate, wenn nicht 3 Monate vor Ablauf gekündigt":** Im B2C absolut unwirksam (Kündigungsfrist > 1 Monat, Verlängerung um > 1 Monat statt unbestimmt). Im B2B kritisch, oft nur bei besonderen Sachgründen haltbar.
-   - **Mitteilungspflicht § 312k BGB (B2C-Onlineverträge):** Anbieter muss in Textform vor Ablauf an Vertragslaufzeit erinnern. Verstoß führt zur Möglichkeit der jederzeitigen Kündigung mit Monatsfrist.
-   - **Kündigungsbutton § 312k BGB:** Verträge im elektronischen Geschäftsverkehr mit Verbrauchern müssen einen leicht zugänglichen Kündigungsbutton enthalten.
+ - **Neue Fassung seit 01.03.2022 (Gesetz für faire Verbraucherverträge):** Bei B2C-Verbraucherverträgen gilt für nach dem 01.03.2022 geschlossene Verträge:
+ - **Erstlaufzeit:** maximal 2 Jahre.
+ - **Verlängerung:** nur stillschweigend auf unbestimmte Zeit zulässig, wenn Kündigung mit Frist von höchstens 1 Monat jederzeit möglich ist.
+ - **Kündigungsfrist Erstvertrag:** max. 1 Monat zum Ende der Erstlaufzeit (§ 309 Nr. 9 lit. c BGB).
+ - **B2B:** § 309 Nr. 9 BGB greift direkt nicht; aber § 307 BGB. Erstlaufzeiten über 2 Jahre und automatische Verlängerung um mehr als 1 Jahr im B2B regelmäßig nach Wertungsausstrahlung unwirksam, sofern keine besondere Investitionsamortisation begründet werden kann.
+ - **Häufiger Fehler "Verlängerung um 12 Monate, wenn nicht 3 Monate vor Ablauf gekündigt":** Im B2C absolut unwirksam (Kündigungsfrist > 1 Monat, Verlängerung um > 1 Monat statt unbestimmt). Im B2B kritisch, oft nur bei besonderen Sachgründen haltbar.
+ - **Mitteilungspflicht § 312k BGB (B2C-Onlineverträge):** Anbieter muss in Textform vor Ablauf an Vertragslaufzeit erinnern. Verstoß führt zur Möglichkeit der jederzeitigen Kündigung mit Monatsfrist.
+ - **Kündigungsbutton § 312k BGB:** Verträge im elektronischen Geschäftsverkehr mit Verbrauchern müssen einen leicht zugänglichen Kündigungsbutton enthalten.
 6. **Rechtsfolge:** Unwirksamkeit; gesetzliches Kündigungsrecht. Bei B2C-Onlineverträgen ohne Kündigungsbutton: jederzeitige Kündigung möglich.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -150,7 +150,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `leasing-agb`
 
-**Fokus:** Branchen-Spezialskill für Leasing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Leasing AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Leasing AGB
 
@@ -205,7 +205,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `leistungsaenderung-produktupdate`
 
-**Fokus:** Klausel-Spezialskill für Leistungsänderung Produktupdate: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Leistungsänderung Produktupdate: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Leistungsänderung Produktupdate
 
@@ -260,7 +260,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `liquidated-damages`
 
-**Fokus:** Klausel-Spezialskill für Liquidated Damages: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Liquidated Damages: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Liquidated Damages
 

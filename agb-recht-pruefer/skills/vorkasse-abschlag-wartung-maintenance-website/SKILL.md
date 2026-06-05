@@ -1,23 +1,23 @@
 ---
 name: vorkasse-abschlag-wartung-maintenance-website
-description: "Nutze dies, wenn Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, Wesentliche Rechte Pflichten 307, Widerruf Umfeld Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, Wesentliche Rechte Pflichten 307, Widerruf Umfeld Agb prüfen.; Erstelle eine Arbeitsfassung zu Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, Wesentliche Rechte Pflichten 307, Widerruf Umfeld Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, Wesentliche Rechte Pflichten 307: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, Wesentliche Rechte Pflichten 307, Widerruf Umfeld Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, Wesentliche Rechte Pflichten 307, Widerruf Umfeld Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `vorkasse-abschlag-sicherheit` | Klausel-Spezialskill für Vorkasse Abschlag Sicherheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `wartung-maintenance` | Branchen-Spezialskill für Wartung Maintenance: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `vorkasse-abschlag-sicherheit` | Klausel-Fachmodul für Vorkasse Abschlag Sicherheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `wartung-maintenance` | Branchen-Fachmodul für Wartung Maintenance: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `website-update-check` | Output- und Streit-Skill für Website Update Check: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 | `wesentliche-rechte-pflichten-307` | Norm- und Dogmatik-Skill für Wesentliche Rechte Pflichten 307: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `widerruf-umfeld-agb` | Klausel-Spezialskill für Widerruf Umfeld AGB: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `widerruf-umfeld-agb` | Klausel-Fachmodul für Widerruf Umfeld AGB: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Vorkasse Abschlag Sicherheit, Wartung Maintenance, Website Update Check, 
 
 ## 1. `vorkasse-abschlag-sicherheit`
 
-**Fokus:** Klausel-Spezialskill für Vorkasse Abschlag Sicherheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Vorkasse Abschlag Sicherheit: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Vorkasse Abschlag Sicherheit
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `wartung-maintenance`
 
-**Fokus:** Branchen-Spezialskill für Wartung Maintenance: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Wartung Maintenance: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Wartung Maintenance
 
@@ -219,17 +219,17 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 307 Abs. 2 Nr. 2 BGB (Kardinalpflichten):**
-   - **Begriff Kardinalpflicht:** Vertragstypische, im Vertragszweck wesentliche Pflichten, deren Erfuellung der Vertrag erst seinen Sinn gibt. Sie sind dadurch gekennzeichnet, dass der Vertragspartner regelmaessig auf ihre Erfuellung vertrauen darf.
-   - **Beispiele:**
-     - Beim Kaufvertrag: Lieferung mangelfreier Ware, Eigentumsuebertragung.
-     - Beim Werkvertrag: Herstellung des Werkes nach Vertragspflicht.
-     - Beim Dienstvertrag/SaaS: Bereitstellung der vertraglich vereinbarten Dienstleistung in vereinbarter Qualitaet.
-     - Beim Mietvertrag: Ueberlassung in tauglichem Zustand (§ 535 BGB).
-   - **Hauptanwendung:** Haftungsklauseln. Eine Klausel, die die Haftung fuer Verletzung der Kardinalpflicht selbst bei leichter Fahrlaessigkeit ausschliesst oder so weit beschraenkt, dass der Vertragspartner seine Hauptleistungs-Erwartung verliert, ist unwirksam.
-   - **Zulaessig:** Begrenzung der Haftung bei leichter Fahrlaessigkeit der Kardinalpflichten auf den vertragstypisch vorhersehbaren Schaden (BGH, ständige Rechtsprechung). Voraussetzung: Begrenzung muss in vernuenftiger Relation zum Vertragswert stehen.
-   - **B2B-Anwendbarkeit:** Volle Geltung; § 307 Abs. 2 Nr. 2 BGB ist auch im unternehmerischen Verkehr unmittelbar anwendbar.
-   - **Differenzierung notwendig:** "Wesentliche Vertragspflichten" (oft auch als Synonym verwendet) sollten in der Klausel ausdruecklich definiert werden, um Transparenzanforderungen § 307 Abs. 1 S. 2 BGB zu genuegen.
-   - **Praxis-Tipp:** Im Haftungsklauseltext "wesentliche Vertragspflichten" oder "Kardinalpflichten" ausdruecklich nennen und definieren; sonst Risiko der Unbestimmtheit.
+ - **Begriff Kardinalpflicht:** Vertragstypische, im Vertragszweck wesentliche Pflichten, deren Erfuellung der Vertrag erst seinen Sinn gibt. Sie sind dadurch gekennzeichnet, dass der Vertragspartner regelmaessig auf ihre Erfuellung vertrauen darf.
+ - **Beispiele:**
+ - Beim Kaufvertrag: Lieferung mangelfreier Ware, Eigentumsuebertragung.
+ - Beim Werkvertrag: Herstellung des Werkes nach Vertragspflicht.
+ - Beim Dienstvertrag/SaaS: Bereitstellung der vertraglich vereinbarten Dienstleistung in vereinbarter Qualitaet.
+ - Beim Mietvertrag: Ueberlassung in tauglichem Zustand (§ 535 BGB).
+ - **Hauptanwendung:** Haftungsklauseln. Eine Klausel, die die Haftung fuer Verletzung der Kardinalpflicht selbst bei leichter Fahrlaessigkeit ausschliesst oder so weit beschraenkt, dass der Vertragspartner seine Hauptleistungs-Erwartung verliert, ist unwirksam.
+ - **Zulaessig:** Begrenzung der Haftung bei leichter Fahrlaessigkeit der Kardinalpflichten auf den vertragstypisch vorhersehbaren Schaden (BGH, ständige Rechtsprechung). Voraussetzung: Begrenzung muss in vernuenftiger Relation zum Vertragswert stehen.
+ - **B2B-Anwendbarkeit:** Volle Geltung; § 307 Abs. 2 Nr. 2 BGB ist auch im unternehmerischen Verkehr unmittelbar anwendbar.
+ - **Differenzierung notwendig:** "Wesentliche Vertragspflichten" (oft auch als Synonym verwendet) sollten in der Klausel ausdruecklich definiert werden, um Transparenzanforderungen § 307 Abs. 1 S. 2 BGB zu genuegen.
+ - **Praxis-Tipp:** Im Haftungsklauseltext "wesentliche Vertragspflichten" oder "Kardinalpflichten" ausdruecklich nennen und definieren; sonst Risiko der Unbestimmtheit.
 6. **Rechtsfolge:** Unwirksamkeit; gesetzliche Haftung nach §§ 280, 249 BGB greift voll.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 
@@ -263,7 +263,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `widerruf-umfeld-agb`
 
-**Fokus:** Klausel-Spezialskill für Widerruf Umfeld AGB: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Widerruf Umfeld AGB: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Widerruf Umfeld AGB
 

@@ -66,7 +66,7 @@ Wichtig: Arzt muss bereit sein, das Gutachten zu erstellen UND in der Hoehe der 
 ### Schritt 3 — Antrag stellen
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [aktuell]
 

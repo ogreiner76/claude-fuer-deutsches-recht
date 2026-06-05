@@ -1,6 +1,6 @@
 ---
 name: franchise-agb
-description: "Branchen-Spezialskill für Franchise AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
+description: "Branchen-Fachmodul für Franchise AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen."
 ---
 
 # Franchise AGB

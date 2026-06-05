@@ -1,25 +1,25 @@
 ---
 name: liquiditaetsvorschau-3wochen-02
-description: "Nutze dies, wenn Liquiditaetsvorschau 3Wochen, Liquiditaetsvorschau Insolvenzrechtlich, Spezial Ampel Zahlen Schwellen Und Berechnung im Plugin Liquiditaetsplanung konkret bearbeitet werden soll. Auslöser: Bitte Liquiditaetsvorschau 3Wochen, Liquiditaetsvorschau Insolvenzrechtlich, Spezial Ampel Zahlen Schwellen Und Berechnung prüfen.; Erstelle eine Arbeitsfassung zu Liquiditaetsvorschau 3Wochen, Liquiditaetsvorschau Insolvenzrechtlich, Spezial Ampel Zahlen Schwellen Und Berechnung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Liquiditaetsvorschau 3wochen, Liquiditaetsvorschau Insolvenzrechtlich, Ampel Zahlen Schwellen Und Berechnung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Liquiditaetsvorschau 3Wochen, Liquiditaetsvorschau Insolvenzrechtlich, Spezial Ampel Zahlen Schwellen Und Berechnung
+# Liquiditaetsvorschau 3Wochen, Liquiditaetsvorschau Insolvenzrechtlich, Ampel Zahlen Schwellen Und Berechnung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Liquiditaetsvorschau 3Wochen, Liquiditaetsvorschau Insolvenzrechtlich, Ampel Zahlen Schwellen Und Berechnung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `liquiditaetsvorschau-3wochen` | Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster, Excel-Export, Quote/Luecken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Pruefung. |
-| `liquiditaetsvorschau-insolvenzrechtlich` | Workflow-Skill zu liquiditaetsvorschau insolvenzrechtlich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `liquiditaetsvorschau-insolvenzrechtlich` | Arbeitsmodul zu liquiditaetsvorschau insolvenzrechtlich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `spezial-ampel-zahlen-schwellen-und-berechnung` | Ampel: Zahlen, Schwellenwerte und Berechnung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsweg
 
-Für **Liquiditaetsvorschau 3Wochen, Liquiditaetsvorschau Insolvenzrechtlich, Spezial Ampel Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `liquiditaetsplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Liquiditaetsvorschau 3Wochen, Liquiditaetsvorschau Insolvenzrechtlich, Ampel Zahlen Schwellen Und Berechnung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `liquiditaetsplanung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -215,12 +215,12 @@ Bevor losgelegt wird, klaere:
 
 ```
 13-WOCHEN-LIQUIDITAETSVORSCHAU (direkte Methode)
-Gesellschaft: [FIRMA]    Erstellt: [DATUM]    Ersteller: [NAME]
+Gesellschaft: [FIRMA] Erstellt: [DATUM] Ersteller: [NAME]
 
 Woche | Anfangsbestand | Einzahlungen | Auszahlungen | Endbestand | Kreditlinie | Freie Liqui
-  1   |   EUR [XXX]    |  EUR [YYY]   |  EUR [ZZZ]   |  EUR [AAA] |  EUR [BBB]  |  EUR [CCC]
-  2   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
- 13   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
+ 1 | EUR [XXX] | EUR [YYY] | EUR [ZZZ] | EUR [AAA] | EUR [BBB] | EUR [CCC]
+ 2 | ... | ... | ... | ... | ... | ...
+ 13 | ... | ... | ... | ... | ... | ...
 
 AMPEL-STATUS:
 Wochen 1-4 (kurzfristig): [GRUEN / GELB / ROT]
@@ -233,7 +233,7 @@ ANNAHMEN: [Auflistung der Schluesselannahmen]
 
 ## 2. `liquiditaetsvorschau-insolvenzrechtlich`
 
-**Fokus:** Workflow-Skill zu liquiditaetsvorschau insolvenzrechtlich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu liquiditaetsvorschau insolvenzrechtlich: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
 
@@ -285,16 +285,16 @@ Detailregeln siehe Schwester-Skill `liquiditaetsvorschau-3wochen`, Abschnitt "Be
 **Schritt 3 — Aufstellung der Liquiditätsbilanz**
 
 ```
-Aktiva I  (am Stichtag sofort verfügbar)          €
-+ Aktiva II (binnen 3 Wochen flüssig)             €
-= Σ Liquide Mittel                                €
+Aktiva I (am Stichtag sofort verfügbar) €
++ Aktiva II (binnen 3 Wochen flüssig) €
+= Σ Liquide Mittel €
 
-Passiva I (am Stichtag fällig & eingefordert)     €
-+ Passiva II (binnen 3 Wochen fällig)             €
-= Σ Fällige Verbindlichkeiten                     €
+Passiva I (am Stichtag fällig & eingefordert) €
++ Passiva II (binnen 3 Wochen fällig) €
+= Σ Fällige Verbindlichkeiten €
 
 Liquiditätslücke (absolut) = Σ Fällig − Σ Liquide
-Liquiditätsquote          = Liquiditätslücke ÷ Σ Fällig
+Liquiditätsquote = Liquiditätslücke ÷ Σ Fällig
 ```
 
 Maßstab: BGH-Linie zur Liquiditätsbilanz; konkrete Aktenzeichen und Randnummern vor Ausgabe über dejure.org / openjur.de verifizieren.
@@ -394,12 +394,12 @@ Bevor losgelegt wird, klaere:
 
 ```
 13-WOCHEN-LIQUIDITAETSVORSCHAU (direkte Methode)
-Gesellschaft: [FIRMA]    Erstellt: [DATUM]    Ersteller: [NAME]
+Gesellschaft: [FIRMA] Erstellt: [DATUM] Ersteller: [NAME]
 
 Woche | Anfangsbestand | Einzahlungen | Auszahlungen | Endbestand | Kreditlinie | Freie Liqui
-  1   |   EUR [XXX]    |  EUR [YYY]   |  EUR [ZZZ]   |  EUR [AAA] |  EUR [BBB]  |  EUR [CCC]
-  2   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
- 13   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
+ 1 | EUR [XXX] | EUR [YYY] | EUR [ZZZ] | EUR [AAA] | EUR [BBB] | EUR [CCC]
+ 2 | ... | ... | ... | ... | ... | ...
+ 13 | ... | ... | ... | ... | ... | ...
 
 AMPEL-STATUS:
 Wochen 1-4 (kurzfristig): [GRUEN / GELB / ROT]
@@ -480,8 +480,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **GRÜN:** Liquiditätsdeckung > 110 Prozent in jeder Periode des 24-Monats-Horizonts; 13-Wochen-Cash-Reichweite > 6 Wochen Puffer.
 - **GELB:** Liquiditätsdeckung 100–110 Prozent oder Worst-Case unter 100 Prozent — Frühwarnpflicht § 1 StaRUG, Maßnahmenplan.
 - **ROT:**
-  - Liquiditätslücke ≥ 10 Prozent über 3 Wochen → § 17 InsO Zahlungsunfähigkeit, Antragsfrist § 15a InsO.
-  - 24-Monats-Plan zeigt Lücke → § 18 InsO drohende ZU, StaRUG-Tor offen.
+ - Liquiditätslücke ≥ 10 Prozent über 3 Wochen → § 17 InsO Zahlungsunfähigkeit, Antragsfrist § 15a InsO.
+ - 24-Monats-Plan zeigt Lücke → § 18 InsO drohende ZU, StaRUG-Tor offen.
 
 ## Berechnungs-Plausibilitäten
 - Anfangsbestand Periode n+1 = Endbestand Periode n (Saldenkonsistenz).

@@ -1,13 +1,13 @@
 ---
 name: pruefungsgespraech-ag-rechtsgeschichte
-description: "Nutze dies, wenn Pruefungsgespraech Ag, Rechtsgeschichte, Spezial Gutachtenstil Internationaler Bezug Und Schnittstellen im Plugin Jurastudium konkret bearbeitet werden soll. Auslöser: Bitte Pruefungsgespraech Ag, Rechtsgeschichte, Spezial Gutachtenstil Internationaler Bezug Und Schnittstellen prüfen.; Erstelle eine Arbeitsfassung zu Pruefungsgespraech Ag, Rechtsgeschichte, Spezial Gutachtenstil Internationaler Bezug Und Schnittstellen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pruefungsgespraech Ag, Rechtsgeschichte, Gutachtenstil Internationaler Bezug Und Schnittstellen: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Pruefungsgespraech Ag, Rechtsgeschichte, Spezial Gutachtenstil Internationaler Bezug Und Schnittstellen
+# Pruefungsgespraech Ag, Rechtsgeschichte, Gutachtenstil Internationaler Bezug Und Schnittstellen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pruefungsgespraech Ag, Rechtsgeschichte, Gutachtenstil Internationaler Bezug Und Schnittstellen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Pruefungsgespraech Ag, Rechtsgeschichte, Spezial Gutachtenstil Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jurastudium` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Pruefungsgespraech Ag, Rechtsgeschichte, Gutachtenstil Internationaler Bezug Und Schnittstellen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `jurastudium` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -227,10 +227,10 @@ Lern-Anker: Wer Rückwirkungsverbot, Radbruchsche Formel und Naturrecht/Positivi
 - **Verfassungskonvent auf Herrenchiemsee** (10.–23. Aug. 1948): Vorentwurf.
 - **Parlamentarischer Rat** (Bonn, 1. Sept. 1948 – 8. Mai 1949): 65 Mitglieder aus den Landtagen, Vorsitz Konrad Adenauer. Berichterstatter Carlo Schmid (SPD) und Thomas Dehler (FDP). Verabschiedung des Grundgesetzes am 8. Mai 1949 — Jahrestag der deutschen Kapitulation.
 - **Kernentscheidungen**:
-  - **Art. 1 I GG** als Reaktion auf die Würdeentleerung im NS.
-  - **Art. 79 III GG** als Ewigkeitsklausel — die Grundwerte sind verfassungsfest.
-  - **Wehrhafte Demokratie**: Art. 9 II, 18, 21 II GG.
-  - **Föderalismus** als Gegenmodell zum zentralistischen Einheitsstaat.
+ - **Art. 1 I GG** als Reaktion auf die Würdeentleerung im NS.
+ - **Art. 79 III GG** als Ewigkeitsklausel — die Grundwerte sind verfassungsfest.
+ - **Wehrhafte Demokratie**: Art. 9 II, 18, 21 II GG.
+ - **Föderalismus** als Gegenmodell zum zentralistischen Einheitsstaat.
 - **Provisorium**: Das GG sollte bis zur Wiedervereinigung gelten (Präambel a. F.). Nach der Wiedervereinigung wurde nicht Art. 146 GG (neue Verfassung), sondern der Beitritt nach Art. 23 GG a. F. gewählt.
 
 Lern-Anker: Jeder Grundrechtsprüfungsblock ruht auf der Genese. Wer "Würde" liest, soll Auschwitz mitdenken — das ist juristisch.
@@ -287,7 +287,7 @@ Diese Skill schlägt vor, nennt aber bewusst keine Autoritäten als Pflicht. Üb
 # Gutachtenstil: Internationaler Bezug und Schnittstellen
 
 ## Spezialwissen: Gutachtenstil: Internationaler Bezug und Schnittstellen
-- **Spezialgegenstand:** Gutachtenstil: Internationaler Bezug und Schnittstellen / spezial gutachtenstil internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gutachtenstil: Internationaler Bezug und Schnittstellen / gutachtenstil internationaler bezug und schnittstellen. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

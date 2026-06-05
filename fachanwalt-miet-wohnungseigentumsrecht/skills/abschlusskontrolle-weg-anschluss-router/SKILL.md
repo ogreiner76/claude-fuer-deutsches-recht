@@ -1,34 +1,34 @@
 ---
 name: abschlusskontrolle-weg-anschluss-router
-description: "Nutze dies, wenn Allgemein, Workflow Abschlusskontrolle Miet Weg, Workflow Anschluss Skills Router, Workflow Balkonkraftwerk Solar, Workflow Barrierefreiheit Weg Miete im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Allgemein, Workflow Abschlusskontrolle Miet Weg, Workflow Anschluss Skills Router, Workflow Balkonkraftwerk Solar, Workflow Barrierefreiheit Weg Miete prüfen.; Erstelle eine Arbeitsfassung zu Allgemein, Workflow Abschlusskontrolle Miet Weg, Workflow Anschluss Skills Router, Workflow Balkonkraftwerk Solar, Workflow Barrierefreiheit Weg Miete.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Allgemein, Abschlusskontrolle Miet Weg, Anschluss Skills Router, Balkonkraftwerk Solar: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Allgemein, Workflow Abschlusskontrolle Miet Weg, Workflow Anschluss Skills Router, Workflow Balkonkraftwerk Solar, Workflow Barrierefreiheit Weg Miete
+# Allgemein, Abschlusskontrolle Miet Weg, Anschluss Skills Router, Balkonkraftwerk Solar, Barrierefreiheit Weg Miete
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Allgemein, Abschlusskontrolle Miet Weg, Anschluss Skills Router, Balkonkraftwerk Solar, Barrierefreiheit Weg Miete** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Miet- und Wohnungseigentumsrecht-Plugin: führt Laien, neue Anwältinnen und erfahrene Praktiker durch Wohnraummiete, Gewerberaum, Betriebskosten, Modernisierung, Kündigung, WEG, Beschlüsse, Verwaltung, Beweise, Fristen und passende Anschluss-Skills. |
-| `workflow-abschlusskontrolle-miet-weg` | Abschlusskontrolle Miet/WEG: Workflow-Skill für Miet- und WEG-Recht; prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-miet-wohnungseigentumsrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
-| `workflow-balkonkraftwerk-solar` | Balkonkraftwerk und Solar: Workflow-Skill für Miet- und WEG-Recht; sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
-| `workflow-barrierefreiheit-weg-miete` | Barrierefreiheit in Miete/WEG: Workflow-Skill für Miet- und WEG-Recht; prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `allgemein` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und Wohnungseigentumsrecht-Plugin: führt Laien, neue Anwältinnen und erfahrene Praktiker durch Wohnraummiete, Gewerberaum, Betriebskosten, Modernisierung, Kündigung, WEG, Beschlüsse, Verwaltung, Beweise, Fristen und passende Anschluss-Skills. |
+| `workflow-abschlusskontrolle-miet-weg` | Abschlusskontrolle Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-miet-wohnungseigentumsrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor. |
+| `workflow-balkonkraftwerk-solar` | Balkonkraftwerk und Solar: Arbeitsmodul für Miet- und WEG-Recht; sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
+| `workflow-barrierefreiheit-weg-miete` | Barrierefreiheit in Miete/WEG: Arbeitsmodul für Miet- und WEG-Recht; prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output. |
 
 ## Arbeitsweg
 
-Für **Allgemein, Workflow Abschlusskontrolle Miet Weg, Workflow Anschluss Skills Router, Workflow Balkonkraftwerk Solar, Workflow Barrierefreiheit Weg Miete** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Allgemein, Abschlusskontrolle Miet Weg, Anschluss Skills Router, Balkonkraftwerk Solar, Barrierefreiheit Weg Miete** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `allgemein`
 
-**Fokus:** Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Miet- und Wohnungseigentumsrecht-Plugin: führt Laien, neue Anwältinnen und erfahrene Praktiker durch Wohnraummiete, Gewerberaum, Betriebskosten, Modernisierung, Kündigung, WEG, Beschlüsse, Verwaltung, Beweise, Fristen und passende Anschluss-Skills.
+**Fokus:** Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und Wohnungseigentumsrecht-Plugin: führt Laien, neue Anwältinnen und erfahrene Praktiker durch Wohnraummiete, Gewerberaum, Betriebskosten, Modernisierung, Kündigung, WEG, Beschlüsse, Verwaltung, Beweise, Fristen und passende Anschluss-Skills.
 
 # Miet- und WEG-Kompass
 
@@ -79,7 +79,7 @@ Gib zuerst eine Kurzlage aus: `Falltyp`, `Frist`, `größtes Risiko`, `fehlende 
 
 ## 2. `workflow-abschlusskontrolle-miet-weg`
 
-**Fokus:** Abschlusskontrolle Miet/WEG: Workflow-Skill für Miet- und WEG-Recht; prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Abschlusskontrolle Miet/WEG: Arbeitsmodul für Miet- und WEG-Recht; prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Abschlusskontrolle Miet/WEG
 
@@ -93,9 +93,9 @@ Gib zuerst eine Kurzlage aus: `Falltyp`, `Frist`, `größtes Risiko`, `fehlende 
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft, ob Ergebnis verständlich, belegbar, fristensicher und handlungsfähig ist.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -108,7 +108,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -124,7 +124,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 3. `workflow-anschluss-skills-router`
 
-**Fokus:** Anschluss-Skills Router im Plugin fachanwalt-miet-wohnungseigentumsrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.
+**Fokus:** Anschluss-Skills Router im Plugin fachanwalt-miet-wohnungseigentumsrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor.
 
 # Anschluss-Skills Router
 
@@ -138,10 +138,10 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-miet-wohnungseigentumsrecht` Anschluss-Skills Router im Plugin fachanwalt-miet-wohnungseigentumsrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Anschluss-Skills Router im Plugin fachanwalt-miet-wohnungseigentumsrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -151,7 +151,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -168,7 +168,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 4. `workflow-balkonkraftwerk-solar`
 
-**Fokus:** Balkonkraftwerk und Solar: Workflow-Skill für Miet- und WEG-Recht; sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Balkonkraftwerk und Solar: Arbeitsmodul für Miet- und WEG-Recht; sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Balkonkraftwerk und Solar
 
@@ -182,9 +182,9 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: sortiert Mietrecht, WEG, Privilegierung, Statik, Versicherung und Netz.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -197,7 +197,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab
@@ -213,7 +213,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 ## 5. `workflow-barrierefreiheit-weg-miete`
 
-**Fokus:** Barrierefreiheit in Miete/WEG: Workflow-Skill für Miet- und WEG-Recht; prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+**Fokus:** Barrierefreiheit in Miete/WEG: Arbeitsmodul für Miet- und WEG-Recht; prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
 
 # Barrierefreiheit in Miete/WEG
 
@@ -227,9 +227,9 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 
 
 ## Aufgabe
-Dieser Workflow-Skill macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss.
+Dieser Arbeitsmodul macht den Einstieg in `fachanwalt-miet-wohnungseigentumsrecht` leichter. Schwerpunkt: prüft Anspruch, Duldung, Kosten, Rückbau und Beschluss.
 
-## Kaltstart
+## Einstieg
 Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
 1. Rolle und Ziel der fragenden Person.
 2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
@@ -242,7 +242,7 @@ Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheid
 2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
 3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
 4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
 
 ## Qualitätsmaßstab

@@ -1,13 +1,13 @@
 ---
 name: gpai-modelle-ki-anbieter-arbeitsrecht
-description: "Nutze dies, wenn Gpai Modelle Systemic Risk, Ki Anbieter Prüfung, Ki Arbeitsrecht Mitbestimmung im Plugin Ki Governance konkret bearbeitet werden soll. Auslöser: Bitte Gpai Modelle Systemic Risk, Ki Anbieter Prüfung, Ki Arbeitsrecht Mitbestimmung prüfen.; Erstelle eine Arbeitsfassung zu Gpai Modelle Systemic Risk, Ki Anbieter Prüfung, Ki Arbeitsrecht Mitbestimmung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gpai Modelle Systemic Risk, Ki Anbieter Prüfung, Ki Arbeitsrecht Mitbestimmung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Gpai Modelle Systemic Risk, Ki Anbieter Prüfung, Ki Arbeitsrecht Mitbestimmung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gpai Modelle Systemic Risk, Ki Anbieter Prüfung, Ki Arbeitsrecht Mitbestimmung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -105,7 +105,7 @@ Anbieter mit unseren Daten macht).
 
 - KI-Vertrag, KI-Annex oder AGB-KI-Abschnitt (Datei oder eingefügter Text)
 - Praxisprofil aus `CLAUDE.md` (Anbieter-Governance-Positionen, KI-Richtlinien-
-  Verpflichtungen, Anwendungsfall-Register)
+ Verpflichtungen, Anwendungsfall-Register)
 - Anbieter-Name und Verwendungszweck
 
 ## Rechtlicher Rahmen
@@ -113,44 +113,44 @@ Anbieter mit unseren Daten macht).
 **Kernvorschriften**
 
 - **AI Act Art. 3 Nr. 3/4 KI-VO**: Definitionen Anbieter/Betreiber; maßgeblich
-  für Pflichtenzuordnung.
+ für Pflichtenzuordnung.
 - **AI Act Art. 25 KI-VO**: Verantwortlichkeiten in der Lieferkette; vertragliche
-  Pflichten-Übertragung; Betreiber darf keine Art. 5-Verbote veranlassen
-  (Art. 25 Abs. 2 KI-VO).
+ Pflichten-Übertragung; Betreiber darf keine Art. 5-Verbote veranlassen
+ (Art. 25 Abs. 2 KI-VO).
 - **AI Act Art. 26/29 KI-VO**: Betreiberpflichten (Eignung prüfen, Anleitung
-  befolgen, menschliche Aufsicht sicherstellen, Protokollierung).
+ befolgen, menschliche Aufsicht sicherstellen, Protokollierung).
 - **DSGVO Art. 28**: AVV-Pflichten bei KI-Auftragsverarbeitung; Prüfungsrecht
-  Art. 28 Abs. 3 lit. h DSGVO.
+ Art. 28 Abs. 3 lit. h DSGVO.
 - **GeschGehG §§ 2, 4**: Eingabe vertraulicher Daten in externe KI kann
-  Geheimnisschutz gefährden, wenn Anbieter für Training nutzt.
+ Geheimnisschutz gefährden, wenn Anbieter für Training nutzt.
 - **BGB §§ 305 ff. (§ 307)**: AGB-Kontrolle; unangemessene
-  Haftungsbeschränkungen können unwirksam sein.
+ Haftungsbeschränkungen können unwirksam sein.
 - **Produkthaftungs-RL 2024/2853/EU**: KI-Systeme als Produkte; relevant bei
-  Haftungsklauseln im Anbietervertrag.
+ Haftungsklauseln im Anbietervertrag.
 - **UrhG § 44b**: Text-und-Data-Mining-Schranke; relevant bei Training auf
-  lizenzierten Inhalten.
+ lizenzierten Inhalten.
 
 **Leitentscheidungen**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Vertragsgestaltung muss DSGVO Art. 22 Widerspruchs- und Prüfungsrechte
-  operationalisieren.
+ Vertragsgestaltung muss DSGVO Art. 22 Widerspruchs- und Prüfungsrechte
+ operationalisieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  von Haftungsausschlüssen bei komplexen IT-Systemen; Maßstab für KI-
-  Anbieter-Haftungsklauseln.
+ von Haftungsausschlüssen bei komplexen IT-Systemen; Maßstab für KI-
+ Anbieter-Haftungsklauseln.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Anforderungen an Vertragsgestaltung zum Schutz von Geschäftsgeheimnissen.
+ Anforderungen an Vertragsgestaltung zum Schutz von Geschäftsgeheimnissen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  Datenübermittlung an externe Dienstleister; übertragbar auf KI-AVV.
+ Datenübermittlung an externe Dienstleister; übertragbar auf KI-AVV.
 
 **Kommentare**
 
 - Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 25 Rn. 5
-  (Verantwortlichkeitsverteilung; vertragliche Pflichten-Übertragung; Doppelautoren-Kommentar).
+ (Verantwortlichkeitsverteilung; vertragliche Pflichten-Übertragung; Doppelautoren-Kommentar).
 - Hoffmann, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
-  Teil IV Rn. 120 (Vertragsgestaltung bei KI-Diensten).
+ Teil IV Rn. 120 (Vertragsgestaltung bei KI-Diensten).
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-  bei IT-/Softwareverträgen; KI-Haftungsklauseln).
+ bei IT-/Softwareverträgen; KI-Haftungsklauseln).
 - Bertermann, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 28 Rn. 30.
 
 *Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im Einzelfall.*
@@ -254,9 +254,9 @@ Betreiberpflichten Art. 26/29 dokumentieren. AVV: DSGVO Art. 28 prüfen.
 ## Risiken und typische Fehler
 
 - Training-auf-Daten-Klausel ist die am häufigsten übersehene: nie aus
-  Reputation annehmen; in Schriftform bestätigen lassen.
+ Reputation annehmen; in Schriftform bestätigen lassen.
 - Stack nicht kartieren: modern KI ist geschichtet; nur die Oberfläche zu
-  prüfen ist der häufigste Fehler.
+ prüfen ist der häufigste Fehler.
 - Nutzungsrichtlinie mit Datennutzungsklausel verwechseln: AUP ≠ Data Terms.
 - Verlängerungen als Hebel nutzen: Lücken jetzt dokumentieren.
 

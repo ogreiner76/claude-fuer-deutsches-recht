@@ -1,13 +1,13 @@
 ---
 name: berufung-zpo-berufungs-zulassung-beweislast
-description: "Nutze dies, wenn Berufung Amtsgericht 511 Zpo, Berufungs Zulassung Niedrig Streitwert, Beweislast Grundregel Wer Was im Plugin Selbstvertreter Amtsgericht konkret bearbeitet werden soll. Auslöser: Bitte Berufung Amtsgericht 511 Zpo, Berufungs Zulassung Niedrig Streitwert, Beweislast Grundregel Wer Was prüfen.; Erstelle eine Arbeitsfassung zu Berufung Amtsgericht 511 Zpo, Berufungs Zulassung Niedrig Streitwert, Beweislast Grundregel Wer Was.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Berufung Amtsgericht 511 Zpo, Berufungs Zulassung Niedrig Streitwert, Beweislast Grundregel Wer Was: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Berufung Amtsgericht 511 Zpo, Berufungs Zulassung Niedrig Streitwert, Beweislast Grundregel Wer Was
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Berufung Amtsgericht 511 Zpo, Berufungs Zulassung Niedrig Streitwert, Beweislast Grundregel Wer Was** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

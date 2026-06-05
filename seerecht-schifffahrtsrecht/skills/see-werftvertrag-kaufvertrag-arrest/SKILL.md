@@ -1,13 +1,13 @@
 ---
 name: see-werftvertrag-kaufvertrag-arrest
-description: "Nutze dies, wenn See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden, See 047 Werftvertrag Local Counsel Instruieren im Plugin Seerecht Schifffahrtsrecht konkret bearbeitet werden soll. Auslöser: Bitte See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden, See 047 Werftvertrag Local Counsel Instruieren prüfen.; Erstelle eine Arbeitsfassung zu See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden, See 047 Werftvertrag Local Counsel Instruieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden, See 047 Werftvertrag Local Counsel Instruieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **See 043 Werftvertrag Kaufvertrag Scopen, See 044 Werftvertrag Arrest Vorbereiten, See 045 Werftvertrag Wrackpflicht Prüfen, See 046 Werftvertrag Versicherung Melden, See 047 Werftvertrag Local Counsel Instruieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

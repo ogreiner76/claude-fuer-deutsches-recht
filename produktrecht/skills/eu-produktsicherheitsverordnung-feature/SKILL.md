@@ -1,13 +1,13 @@
 ---
 name: eu-produktsicherheitsverordnung-feature
-description: "Nutze dies, wenn Eu Produktsicherheitsverordnung Gpsr, Feature Risikobewertung, Impressum Pflicht im Plugin Produktrecht konkret bearbeitet werden soll. Auslöser: Bitte Eu Produktsicherheitsverordnung Gpsr, Feature Risikobewertung, Impressum Pflicht prüfen.; Erstelle eine Arbeitsfassung zu Eu Produktsicherheitsverordnung Gpsr, Feature Risikobewertung, Impressum Pflicht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Eu Produktsicherheitsverordnung Gpsr, Feature Risikobewertung, Impressum Pflicht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Eu Produktsicherheitsverordnung Gpsr, Feature Risikobewertung, Impressum Pflicht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Eu Produktsicherheitsverordnung Gpsr, Feature Risikobewertung, Impressum Pflicht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -259,7 +259,7 @@ Prüfen:
 - AGB-Klauseln: Einbeziehungsanforderungen (§§ 305, 305c BGB), überraschende Klauseln, Inhaltskontrolle (§§ 307–309 BGB)
 - Fernabsatz: Widerrufsrecht (§§ 312g, 355 BGB), Widerrufsbelehrung (Muster-Widerrufsformular)
 - Verbraucherverträge: wesentliche Informationen (Art. 246a EGBGB), Buttonlösung (§ 312j BGB)
-  - **Button-Beschriftung isoliert prüfen** — maßgeblich sind nur die Worte auf dem Button, nicht Kontext oder Begleitumstände (EuGH C-249/21 "Fuhrmann-2"). Verstoß = endgültige Unwirksamkeit (§ 312j Abs. 4 BGB) plus Rückabwicklung nach § 812 BGB; gilt branchenübergreifend, auch für regulierte Bereiche wie Online-Glücksspiel (LG Aachen, Urteil vom 27.05.2026, 10 O 306/25 – "Wette abgeben" unzureichend; Quelle: Pressehinweis Gamesright/rightmart, 28.05.2026, Volltext bei Aufnahme noch nicht veröffentlicht).
+ - **Button-Beschriftung isoliert prüfen** — maßgeblich sind nur die Worte auf dem Button, nicht Kontext oder Begleitumstände (EuGH C-249/21 "Fuhrmann-2"). Verstoß = endgültige Unwirksamkeit (§ 312j Abs. 4 BGB) plus Rückabwicklung nach § 812 BGB; gilt branchenübergreifend, auch für regulierte Bereiche wie Online-Glücksspiel (LG Aachen, Urteil vom 27.05.2026, 10 O 306/25 – "Wette abgeben" unzureichend; Quelle: Pressehinweis Gamesright/rightmart, 28.05.2026, Volltext bei Aufnahme noch nicht veröffentlicht).
 - Gewährleistung: § 434 BGB (Produktmangel, Übereinstimmung mit öffentlichen Äußerungen inkl. Werbeaussagen)
 
 ## Übergaben
@@ -301,8 +301,8 @@ Wenn die Bewertung Fälle, Normen, Verordnungen oder Vollzugsmaßnahmen zitiert 
 
 <!-- AUDIT 27.05.2026
 Problem : BGH VI ZR 721/15 ("Nutzerdaten") – Zitatfehler (WRONG_TOPIC). Das Urteil behandelt unzulässige E-Mail-Werbung / § 7 UWG, nicht Datenhaftung bei Plattform-Nutzerdaten (dejure.org/2017,9951). Eintrag ersatzlos gelöscht.
-Quelle   : https://dejure.org/2017,9951
-Aktion   : Zeile entfernt
+Quelle : https://dejure.org/2017,9951
+Aktion : Zeile entfernt
 -->
 
 ## 3. `impressum-pflicht`

@@ -1,6 +1,6 @@
 ---
 name: rom-049-actiones-in-rem-in-personam
-description: "Römisches Recht: Actiones In Rem In Personam. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Actiones In Rem In Personam. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Actiones In Rem In Personam

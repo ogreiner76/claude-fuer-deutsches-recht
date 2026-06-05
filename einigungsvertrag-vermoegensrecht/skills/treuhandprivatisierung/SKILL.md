@@ -1,13 +1,13 @@
 ---
 name: treuhandprivatisierung
-description: "Nutze dies, wenn Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe im Plugin Einigungsvertrag Vermoegensrecht konkret bearbeitet werden soll. Auslöser: Bitte Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe prüfen.; Erstelle eine Arbeitsfassung zu Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

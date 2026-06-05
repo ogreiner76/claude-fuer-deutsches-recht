@@ -1,13 +1,13 @@
 ---
 name: surety-guarantee-ucc-sales-us-vs
-description: "Nutze dies, wenn Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting im Plugin Common Law Kompass konkret bearbeitet werden soll. Auslöser: Bitte Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting prüfen.; Erstelle eine Arbeitsfassung zu Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -101,23 +101,23 @@ Date: [DATE] — Instrument: [DESCRIPTION]
 Jurisdiction: [England/Wales / New York]
 
 1. CLASSIFICATION
-   [ ] Guarantee: secondary liability; principal must default first
-   [ ] On-demand bond: payable on demand; no proof of default required
-   [ ] Indemnity: primary independent liability; variation does not discharge
+ [ ] Guarantee: secondary liability; principal must default first
+ [ ] On-demand bond: payable on demand; no proof of default required
+ [ ] Indemnity: primary independent liability; variation does not discharge
 
 2. FORMAL REQUIREMENTS
-   UK: Writing under Statute of Frauds 1677 s 4: [YES — signed / NO — invalid]
-   US: Statute of Frauds applicable state: [YES / NO]
+ UK: Writing under Statute of Frauds 1677 s 4: [YES — signed / NO — invalid]
+ US: Statute of Frauds applicable state: [YES / NO]
 
 3. DISCHARGE RISKS (Holme v Brunskill)
-   Material variation without consent: [YES — RISK / NO]
-   Extension of time to principal: [YES — RISK if no reservation of rights / NO]
-   Release of co-guarantor: [YES — RISK / NO]
-   Reservation of rights clause present: [YES / NO — ADD]
+ Material variation without consent: [YES — RISK / NO]
+ Extension of time to principal: [YES — RISK if no reservation of rights / NO]
+ Release of co-guarantor: [YES — RISK / NO]
+ Reservation of rights clause present: [YES / NO — ADD]
 
 4. DEMAND REQUIREMENTS
-   Notice required: [YES — [X] business days / NO — on demand]
-   Conforming demand: [documentary requirements met?]
+ Notice required: [YES — [X] business days / NO — on demand]
+ Conforming demand: [documentary requirements met?]
 
 5. RECOMMENDED ACTION
 [...]
@@ -213,31 +213,31 @@ UCC ARTICLE 2 SALES CONTRACT CHECKLIST
 Date: [DATE] — Goods: [DESCRIPTION] — State: [STATE]
 
 1. FORMATION
-   Both parties merchants?: [YES / NO — special rules apply]
-   Battle of forms (§ 2-207): [YES — terms differ / NO]
-   Outcome: [last-shot rule / knockout rule / ...]
+ Both parties merchants?: [YES / NO — special rules apply]
+ Battle of forms (§ 2-207): [YES — terms differ / NO]
+ Outcome: [last-shot rule / knockout rule / ...]
 
 2. WARRANTIES
-   Express warranty (§ 2-313): [YES — basis of bargain: ...]
-   Implied warranty merchantability (§ 2-314): [YES / DISCLAIMED conspicuously]
-   Implied fitness (§ 2-315): [YES — seller knew purpose / DISCLAIMED]
-   Disclaimer conspicuous (§ 2-316): [YES — caps, bold / NO — RISK]
+ Express warranty (§ 2-313): [YES — basis of bargain: ...]
+ Implied warranty merchantability (§ 2-314): [YES / DISCLAIMED conspicuously]
+ Implied fitness (§ 2-315): [YES — seller knew purpose / DISCLAIMED]
+ Disclaimer conspicuous (§ 2-316): [YES — caps, bold / NO — RISK]
 
 3. RISK OF LOSS
-   Shipment contract (F.O.B. origin): risk passes on delivery to carrier
-   Destination contract (F.O.B. destination): risk passes on tender at destination
-   Current clause: [VERBATIM] — classification: [shipment / destination]
+ Shipment contract (F.O.B. origin): risk passes on delivery to carrier
+ Destination contract (F.O.B. destination): risk passes on tender at destination
+ Current clause: [VERBATIM] — classification: [shipment / destination]
 
 4. REMEDIES (Buyer)
-   Cover (§ 2-712): buy substitute; recover difference
-   Market price damages (§ 2-713): contract price minus market price at breach
-   Specific performance (§ 2-716): unique goods or other proper circumstances
-   Rejection (§ 2-601): perfect tender rule — any non-conformity allows rejection
-   Revocation of acceptance (§ 2-608): substantial impairment after acceptance
+ Cover (§ 2-712): buy substitute; recover difference
+ Market price damages (§ 2-713): contract price minus market price at breach
+ Specific performance (§ 2-716): unique goods or other proper circumstances
+ Rejection (§ 2-601): perfect tender rule — any non-conformity allows rejection
+ Revocation of acceptance (§ 2-608): substantial impairment after acceptance
 
 5. CISG APPLICABLE?
-   Both parties in CISG states?: [YES — CISG governs unless excluded / NO]
-   Exclusion clause: [present / NOT present — add Art. 6 CISG opt-out]
+ Both parties in CISG states?: [YES — CISG governs unless excluded / NO]
+ Exclusion clause: [present / NOT present — add Art. 6 CISG opt-out]
 ```
 
 
@@ -366,8 +366,8 @@ KRITISCHE UK/US-KONFLIKTE
 
 Nr. | Klausel | Aktueller Text | Problem | Empfohlene Aenderung | Prioritaet
 ----|---------|---------------|---------|---------------------|----------
- 1  | [§/Abs.] | "[Auszug]" | [UK/US-Konflikt] | "[Neuer Text]" | HOCH
- 2  | ...
+ 1 | [§/Abs.] | "[Auszug]" | [UK/US-Konflikt] | "[Neuer Text]" | HOCH
+ 2 | ...
 
 STYLE-ANPASSUNGEN (Nicht-kritisch)
 - [Liste formaler Stilanpassungen: Datumsformat, defined terms, Nummerierung, ...]

@@ -1,6 +1,6 @@
 ---
 name: beirat-abgrenzung-aufsichtsrat
-description: "Nutze dies, wenn Beirat Abgrenzung Aufsichtsrat im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Abgrenzung Aufsichtsrat prüfen.; Erstelle eine Arbeitsfassung zu Beirat Abgrenzung Aufsichtsrat.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Abgrenzung Aufsichtsrat: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Abgrenzung Aufsichtsrat

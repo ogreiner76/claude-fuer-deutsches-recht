@@ -1,33 +1,33 @@
 ---
 name: wohngemeinschaft-mieterwechsel-wohnraummiete
-description: "Nutze dies, wenn Spezial Wohngemeinschaft Mieterwechsel, Spezial Wohnraummiete Behörden Gericht Und Registerweg, Spezial Zwangsversteigerung Mietrecht, Spezial Zwangsverwaltung Mietrecht im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Wohngemeinschaft Mieterwechsel, Spezial Wohnraummiete Behörden Gericht Und Registerweg, Spezial Zwangsversteigerung Mietrecht, Spezial Zwangsverwaltung Mietrecht prüfen.; Erstelle eine Arbeitsfassung zu Spezial Wohngemeinschaft Mieterwechsel, Spezial Wohnraummiete Behörden Gericht Und Registerweg, Spezial Zwangsversteigerung Mietrecht, Spezial Zwangsverwaltung Mietrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wohngemeinschaft Mieterwechsel, Wohnraummiete Behörden Gericht Und Registerweg, Zwangsversteigerung Mietrecht, Zwangsverwaltung Mietrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Wohngemeinschaft Mieterwechsel, Spezial Wohnraummiete Behörden Gericht Und Registerweg, Spezial Zwangsversteigerung Mietrecht, Spezial Zwangsverwaltung Mietrecht
+# Wohngemeinschaft Mieterwechsel, Wohnraummiete Behörden Gericht Und Registerweg, Zwangsversteigerung Mietrecht, Zwangsverwaltung Mietrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-wohngemeinschaft-mieterwechsel` | WG und Mieterwechsel: Spezial-Skill im Miet- und Wohnungseigentumsrecht; klärt Vertragsparteien, Zustimmung, Nachmieter, Kaution, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-wohnraummiete-behoerden-gericht-und-registerweg` | Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-zwangsversteigerung-mietrecht` | Zwangsversteigerung Mietrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Sonderkündigungsrecht, Kaution, Besitz, Erwerberpflichten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-zwangsverwaltung-mietrecht` | Zwangsverwaltung Mietrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Mietzahlungen, Kündigung, Nebenkosten, Kaution, Verwalterbefugnis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-wohngemeinschaft-mieterwechsel` | WG und Mieterwechsel: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Vertragsparteien, Zustimmung, Nachmieter, Kaution, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-wohnraummiete-behoerden-gericht-und-registerweg` | Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-zwangsversteigerung-mietrecht` | Zwangsversteigerung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sonderkündigungsrecht, Kaution, Besitz, Erwerberpflichten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-zwangsverwaltung-mietrecht` | Zwangsverwaltung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Mietzahlungen, Kündigung, Nebenkosten, Kaution, Verwalterbefugnis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Wohngemeinschaft Mieterwechsel, Spezial Wohnraummiete Behörden Gericht Und Registerweg, Spezial Zwangsversteigerung Mietrecht, Spezial Zwangsverwaltung Mietrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Wohngemeinschaft Mieterwechsel, Wohnraummiete Behörden Gericht Und Registerweg, Zwangsversteigerung Mietrecht, Zwangsverwaltung Mietrecht** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-wohngemeinschaft-mieterwechsel`
 
-**Fokus:** WG und Mieterwechsel: Spezial-Skill im Miet- und Wohnungseigentumsrecht; klärt Vertragsparteien, Zustimmung, Nachmieter, Kaution, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WG und Mieterwechsel: Fachmodul im Miet- und Wohnungseigentumsrecht; klärt Vertragsparteien, Zustimmung, Nachmieter, Kaution, Gesamtschuld; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 
 # WG und Mieterwechsel
@@ -42,9 +42,9 @@ Für **Spezial Wohngemeinschaft Mieterwechsel, Spezial Wohnraummiete Behörden G
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: klärt Vertragsparteien, Zustimmung, Nachmieter, Kaution, Gesamtschuld.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: klärt Vertragsparteien, Zustimmung, Nachmieter, Kaution, Gesamtschuld.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-wohnraummiete-behoerden-gericht-und-registerweg`
 
-**Fokus:** Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Miet- und WEG-Recht: fachlich vertiefter Spezialskill mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Wohnraummiete: Behörden-, Gerichts- oder Registerweg im Miet- und WEG-Recht: fachlich vertiefter Fachmodul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 
 # Wohnraummiete: Behörden-, Gerichts- oder Registerweg
@@ -88,7 +88,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Spezialwissen: Wohnraummiete: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Wohnraummiete: Behörden-, Gerichts- oder Registerweg / spezial wohnraummiete behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Wohnraummiete: Behörden-, Gerichts- oder Registerweg / wohnraummiete behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** FAO, BGB, WEG, BetrKV.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -124,7 +124,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-zwangsversteigerung-mietrecht`
 
-**Fokus:** Zwangsversteigerung Mietrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Sonderkündigungsrecht, Kaution, Besitz, Erwerberpflichten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Zwangsversteigerung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Sonderkündigungsrecht, Kaution, Besitz, Erwerberpflichten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 
 # Zwangsversteigerung Mietrecht
@@ -139,9 +139,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Sonderkündigungsrecht, Kaution, Besitz, Erwerberpflichten.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Sonderkündigungsrecht, Kaution, Besitz, Erwerberpflichten.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -170,7 +170,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-zwangsverwaltung-mietrecht`
 
-**Fokus:** Zwangsverwaltung Mietrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Mietzahlungen, Kündigung, Nebenkosten, Kaution, Verwalterbefugnis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Zwangsverwaltung Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Mietzahlungen, Kündigung, Nebenkosten, Kaution, Verwalterbefugnis; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 
 # Zwangsverwaltung Mietrecht
@@ -185,9 +185,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Mietzahlungen, Kündigung, Nebenkosten, Kaution, Verwalterbefugnis.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Mietzahlungen, Kündigung, Nebenkosten, Kaution, Verwalterbefugnis.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

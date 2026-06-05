@@ -1,13 +1,13 @@
 ---
 name: zv-raeumung-zv-tabellenauszug-zv
-description: "Nutze dies, wenn Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv im Plugin Zwangsvollstreckung konkret bearbeitet werden soll. Auslöser: Bitte Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv prüfen.; Erstelle eine Arbeitsfassung zu Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -58,13 +58,13 @@ Wohn- oder Gewerberäume vom Schuldner herausverlangen. Hier kollidieren Eigentu
 1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. **Räumungsauftrag** an GV mit klarer Bezeichnung Räumungsobjekt (Adresse, Lage im Haus).
 4. **Räumungsart wählen**:
-   - **§ 885 ZPO klassisch**: GV räumt das Objekt, schuldnerische Habe wird entfernt, eingelagert, verwertet (umfangreiche Lager- und Vorschusskosten).
-   - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ - **§ 885 ZPO klassisch**: GV räumt das Objekt, schuldnerische Habe wird entfernt, eingelagert, verwertet (umfangreiche Lager- und Vorschusskosten).
+ - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 5. **Termin** beim GV anberaumen; Vorschuss leisten; Eröffnungswerkzeug (Schlüsseldienst) bestellen.
 6. **Wohnungsöffnung**: Schloss durch Schlüsseldienst öffnen, neue Schließanlage installieren.
 7. **Schuldnerhabe**:
-   - § 885: einlagern (vier Wochen Aufbewahrungspflicht), dann verwerten.
-   - § 885a: Vermieterpfandrecht greift sofort; Gläubiger muss Schuldner aber Gelegenheit geben, Sachen abzuholen.
+ - § 885: einlagern (vier Wochen Aufbewahrungspflicht), dann verwerten.
+ - § 885a: Vermieterpfandrecht greift sofort; Gläubiger muss Schuldner aber Gelegenheit geben, Sachen abzuholen.
 8. **Vollstreckungsschutz** § 765a ZPO: Härtefall (Erkrankung, Suizidgefahr, Geburtshochphase) → einstweilige Einstellung möglich.
 
 ## Berliner Räumung § 885a ZPO
@@ -95,17 +95,17 @@ Wohn- oder Gewerberäume vom Schuldner herausverlangen. Hier kollidieren Eigentu
 ```
 RÄUMUNG [Mandant] gegen [Schuldner], GV [Bezirk]
 
-Titel:                 [Räumungsurteil / Vergleich]
-Räumungsfrist:         abgelaufen am DD.MM.JJJJ
-Objekt:                [Adresse, Lage, Räume]
-Titel-Schuldner:       [Personen aufzählen]
-Weitere Bewohner:      [eigene Titel? ja/nein]
-Räumungsart:           [§ 885 klassisch / § 885a Berlin]
-Pfandrecht § 562 BGB:  [ja – Vermieter / nein]
-Erwartete Kosten:      EUR x
+Titel: [Räumungsurteil / Vergleich]
+Räumungsfrist: abgelaufen am DD.MM.JJJJ
+Objekt: [Adresse, Lage, Räume]
+Titel-Schuldner: [Personen aufzählen]
+Weitere Bewohner: [eigene Titel? ja/nein]
+Räumungsart: [§ 885 klassisch / § 885a Berlin]
+Pfandrecht § 562 BGB: [ja – Vermieter / nein]
+Erwartete Kosten: EUR x
 
-NÄCHSTER SCHRITT:      Termin GV
-WIEDERVORLAGE:         DD.MM.JJJJ
+NÄCHSTER SCHRITT: Termin GV
+WIEDERVORLAGE: DD.MM.JJJJ
 ```
 
 ## Qualitätsgates
@@ -154,9 +154,9 @@ Der vollstreckbare Tabellenauszug ist ein eigener Titel (§ 201 Abs. 2 Satz 1 In
 1. **Tabellenauszug prüfen**: Ist die Forderung mit dem Vermerk "festgestellt" eingetragen, nicht "bestritten"? Bestreitet der Insolvenzverwalter, aber nicht der Schuldner – Titel gegen Schuldner trotzdem entstanden.
 2. **Verfahrensstand**: Verfahren aufgehoben/eingestellt? Vollstreckung erst danach zulässig (§ 89 InsO greift bis dahin).
 3. **Restschuldbefreiung**:
-   - **Nicht erteilt** (versagt oder Verfahren nach IK-Plan): freie Vollstreckung.
-   - **Erteilt**: § 301 InsO – Vollstreckung grundsätzlich gesperrt; **Ausnahmen § 302 InsO** (vorsätzliche unerlaubte Handlung mit Eintrag in der Tabelle, Unterhaltsrückstände aus pflichtwidriger Verletzung, hinterzogene Steuern).
-   - **Wohlverhaltensphase**: Vollstreckung gegen den pfändbaren Teil des Schuldnereinkommens nur eingeschränkt zulässig.
+ - **Nicht erteilt** (versagt oder Verfahren nach IK-Plan): freie Vollstreckung.
+ - **Erteilt**: § 301 InsO – Vollstreckung grundsätzlich gesperrt; **Ausnahmen § 302 InsO** (vorsätzliche unerlaubte Handlung mit Eintrag in der Tabelle, Unterhaltsrückstände aus pflichtwidriger Verletzung, hinterzogene Steuern).
+ - **Wohlverhaltensphase**: Vollstreckung gegen den pfändbaren Teil des Schuldnereinkommens nur eingeschränkt zulässig.
 4. **Klausel** beim Insolvenzgericht (§ 201 Abs. 2 Satz 2 InsO, § 727 ZPO) bzw. wenn Insolvenzgericht das Verfahren geführt hat – aus der vollstreckbaren Ausfertigung.
 5. **Zustellung** an Schuldner § 750 ZPO.
 6. **Pfändung** durchziehen über `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt` oder `zv-mobiliar-gv-auftrag`.
@@ -186,17 +186,17 @@ Nur diese Forderungen lassen sich nach Restschuldbefreiung weiterhin vollstrecke
 ```
 TABELLENAUSZUG § 201 InsO [Mandant] gegen [Schuldner]
 
-InsO-Verfahren:        AG [Ort] Az [IN/IK ...]
+InsO-Verfahren: AG [Ort] Az [IN/IK ...]
 Aufhebung/Einstellung: am DD.MM.JJJJ
-Forderung Tabelle:     lfd Nr x, EUR y, "festgestellt"
-Bestritten von:        [niemand / Insolvenzverwalter / Schuldner]
-Restschuldbefreiung:   [nicht erteilt / erteilt / versagt / verfahrensgegenstand]
-§ 302-Privileg:        [nein / Deliktsforderung mit Eintrag / Unterhalt / ...]
-Verjährung:            30 Jahre ab Feststellung, ab DD.MM.JJJJ
-Klausel:               [vorhanden / beim AG Insolvenzgericht beantragen]
-Zustellung § 750:      [erfolgt am DD.MM.JJJJ / offen]
+Forderung Tabelle: lfd Nr x, EUR y, "festgestellt"
+Bestritten von: [niemand / Insolvenzverwalter / Schuldner]
+Restschuldbefreiung: [nicht erteilt / erteilt / versagt / verfahrensgegenstand]
+§ 302-Privileg: [nein / Deliktsforderung mit Eintrag / Unterhalt / ...]
+Verjährung: 30 Jahre ab Feststellung, ab DD.MM.JJJJ
+Klausel: [vorhanden / beim AG Insolvenzgericht beantragen]
+Zustellung § 750: [erfolgt am DD.MM.JJJJ / offen]
 
-NÄCHSTER SKILL:        [zv-pfueb-bank / zv-pfueb-arbeitsentgelt / ...]
+NÄCHSTER SKILL: [zv-pfueb-bank / zv-pfueb-arbeitsentgelt / ...]
 ```
 
 ## Qualitätsgates
@@ -279,14 +279,14 @@ Andernfalls genügt es, beim zentralen Vollstreckungsgericht Einsicht in das vor
 ```
 VA-AUFTRAG [Mandant] gegen [Schuldner], Az [GV]
 
-Titel:                 [Art, Datum]
-Sperrfrist § 802d:     [frei / bis DD.MM.JJJJ / Glaubhaftmachung beigelegt]
-Modul-Auftrag:         [1 Zahlung / 2 VA / 3 Sachpfändung]
-Drittauskunft § 802l:  [ja – Rentenversicherung, BZSt, KBA]
+Titel: [Art, Datum]
+Sperrfrist § 802d: [frei / bis DD.MM.JJJJ / Glaubhaftmachung beigelegt]
+Modul-Auftrag: [1 Zahlung / 2 VA / 3 Sachpfändung]
+Drittauskunft § 802l: [ja – Rentenversicherung, BZSt, KBA]
 Voraussichtliche Kosten: EUR x (GvKostG)
 
-NÄCHSTER SCHRITT:      VA-Termin abwarten / bei Nichterscheinen § 802g
-WIEDERVORLAGE:         DD.MM.JJJJ
+NÄCHSTER SCHRITT: VA-Termin abwarten / bei Nichterscheinen § 802g
+WIEDERVORLAGE: DD.MM.JJJJ
 ```
 
 ## Qualitätsgates

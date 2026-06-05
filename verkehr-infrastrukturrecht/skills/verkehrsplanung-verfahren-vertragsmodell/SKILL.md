@@ -1,13 +1,13 @@
 ---
 name: verkehrsplanung-verfahren-vertragsmodell
-description: "Nutze dies, wenn Spezial Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial im Plugin Verkehr Infrastrukturrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial
+# Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehr-infrastrukturrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `verkehr-infrastrukturrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastr
 # Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg / spezial verkehrsplanung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg / verkehrsplanung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -104,7 +104,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Schritt-fuer-Schritt-Workflow
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 1. **Bescheid analysieren:** Art des Verwaltungsakts, Begruendung, Rechtsbehelfsbelehrung, Zustellungsdatum
 2. **Frist berechnen:** Widerspruchsfrist 1 Monat ab Bekanntgabe (§ 70 VwGO); wenn keine Belehrung: 1 Jahr (§ 58 II VwGO)
@@ -120,18 +120,18 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ```
 Bescheid erhalten
-        |
+ |
 Vollziehbarkeit? (§ 80 II VwGO)
-  Ja (Verkehrszeichen) ──→ Eilantrag § 80 V VwGO + Widerspruch
-  Nein (aufschiebende Wirkung) ──→ nur Widerspruch einlegen
-        |
+ Ja (Verkehrszeichen) ──→ Eilantrag § 80 V VwGO + Widerspruch
+ Nein (aufschiebende Wirkung) ──→ nur Widerspruch einlegen
+ |
 Widerspruchsbescheid abschlägig
-        |
+ |
 Klage beim VG (§ 42 VwGO) binnen 1 Monat
-        |
+ |
 Obsiegen/Unterliegen
-  Unterliegen ──→ Berufung OVG (§ 124 VwGO) oder Sprungrevision
-  Obsiegen ──→ Vollstreckung (§ 172 VwGO) oder Einigung
+ Unterliegen ──→ Berufung OVG (§ 124 VwGO) oder Sprungrevision
+ Obsiegen ──→ Vollstreckung (§ 172 VwGO) oder Einigung
 ```
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -153,7 +153,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 **Adressat:** Widerspruchsbehorde — Tonfall: sachlich-juristisch, fristwahrend
 
 ```
-[KANZLEI], [ADRESSE]                     [ORT], [DATUM]
+[KANZLEI], [ADRESSE] [ORT], [DATUM]
 
 An die [BEHOERDE]
 [ADRESSE]
@@ -175,12 +175,12 @@ gegen den Bescheid vom [DATUM] ein.
 Zur Begruendung wird Folgendes ausgefuehrt:
 
 1. Formelle Rechtswidrigkeit
-   Der angefochtene Bescheid ist ohne die nach § 28 I VwVfG erforderliche
-   vorherige Anhoerung ergangen. [...]
+ Der angefochtene Bescheid ist ohne die nach § 28 I VwVfG erforderliche
+ vorherige Anhoerung ergangen. [...]
 
 2. Materielle Rechtswidrigkeit
-   Die Behoerde hat ihr Ermessen nach § 45 StVO fehlerhaft ausgeubt, weil [...]
-   Der Grundsatz der Verhaeltnismaessigkeit (Art. 20 III GG) ist verletzt, weil [...]
+ Die Behoerde hat ihr Ermessen nach § 45 StVO fehlerhaft ausgeubt, weil [...]
+ Der Grundsatz der Verhaeltnismaessigkeit (Art. 20 III GG) ist verletzt, weil [...]
 
 Wir beantragen, den Bescheid vom [DATUM] aufzuheben.
 

@@ -1,6 +1,6 @@
 ---
 name: designverletzung-fehlerkatalog
-description: "Nutze dies, wenn Designverletzung Fehlerkatalog im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies als Fehlerbremse bei Designverletzung Fehlerkatalog: prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand."
 ---
 
 # Designverletzung Fehlerkatalog

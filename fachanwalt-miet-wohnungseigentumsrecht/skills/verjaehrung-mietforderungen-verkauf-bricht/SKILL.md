@@ -1,34 +1,34 @@
 ---
 name: verjaehrung-mietforderungen-verkauf-bricht
-description: "Nutze dies, wenn Spezial Verjaehrung Mietforderungen, Spezial Verkauf Bricht Nicht Miete, Spezial Vermieterzutritt, Spezial Versicherungskosten, Spezial Vollstreckungsschutz Raeumung im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Verjaehrung Mietforderungen, Spezial Verkauf Bricht Nicht Miete, Spezial Vermieterzutritt, Spezial Versicherungskosten, Spezial Vollstreckungsschutz Raeumung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Verjaehrung Mietforderungen, Spezial Verkauf Bricht Nicht Miete, Spezial Vermieterzutritt, Spezial Versicherungskosten, Spezial Vollstreckungsschutz Raeumung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verjaehrung Mietforderungen, Verkauf Bricht Nicht Miete, Vermieterzutritt, Versicherungskosten: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Verjaehrung Mietforderungen, Spezial Verkauf Bricht Nicht Miete, Spezial Vermieterzutritt, Spezial Versicherungskosten, Spezial Vollstreckungsschutz Raeumung
+# Verjaehrung Mietforderungen, Verkauf Bricht Nicht Miete, Vermieterzutritt, Versicherungskosten, Vollstreckungsschutz Raeumung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verjaehrung Mietforderungen, Verkauf Bricht Nicht Miete, Vermieterzutritt, Versicherungskosten, Vollstreckungsschutz Raeumung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-verjaehrung-mietforderungen` | Verjährung Mietforderungen: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beginn, Hemmung, Anerkenntnis, Aufrechnung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-verkauf-bricht-nicht-miete` | Kauf bricht nicht Miete: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Eigentümerwechsel, Kaution, Betriebskosten, Kündigungssperren; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-vermieterzutritt` | Vermieterzutritt: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anlass, Ankündigung, Notfall, Besichtigung, Verkauf, Beweisaufnahme; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-versicherungskosten` | Versicherungskosten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Umlagefähigkeit, Elementar, Selbstbehalt, Verwaltungskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
-| `spezial-vollstreckungsschutz-raeumung` | Vollstreckungsschutz Räumung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 765a ZPO, Räumungsfrist, Gesundheitsgefahr, Ersatzwohnraum; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-verjaehrung-mietforderungen` | Verjährung Mietforderungen: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beginn, Hemmung, Anerkenntnis, Aufrechnung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-verkauf-bricht-nicht-miete` | Kauf bricht nicht Miete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Eigentümerwechsel, Kaution, Betriebskosten, Kündigungssperren; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-vermieterzutritt` | Vermieterzutritt: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anlass, Ankündigung, Notfall, Besichtigung, Verkauf, Beweisaufnahme; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-versicherungskosten` | Versicherungskosten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Umlagefähigkeit, Elementar, Selbstbehalt, Verwaltungskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-vollstreckungsschutz-raeumung` | Vollstreckungsschutz Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft § 765a ZPO, Räumungsfrist, Gesundheitsgefahr, Ersatzwohnraum; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Verjaehrung Mietforderungen, Spezial Verkauf Bricht Nicht Miete, Spezial Vermieterzutritt, Spezial Versicherungskosten, Spezial Vollstreckungsschutz Raeumung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Verjaehrung Mietforderungen, Verkauf Bricht Nicht Miete, Vermieterzutritt, Versicherungskosten, Vollstreckungsschutz Raeumung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-verjaehrung-mietforderungen`
 
-**Fokus:** Verjährung Mietforderungen: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beginn, Hemmung, Anerkenntnis, Aufrechnung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Verjährung Mietforderungen: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Beginn, Hemmung, Anerkenntnis, Aufrechnung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Verjährung Mietforderungen
 
@@ -42,9 +42,9 @@ Für **Spezial Verjaehrung Mietforderungen, Spezial Verkauf Bricht Nicht Miete, 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Beginn, Hemmung, Anerkenntnis, Aufrechnung.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Beginn, Hemmung, Anerkenntnis, Aufrechnung.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -73,7 +73,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-verkauf-bricht-nicht-miete`
 
-**Fokus:** Kauf bricht nicht Miete: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Eigentümerwechsel, Kaution, Betriebskosten, Kündigungssperren; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Kauf bricht nicht Miete: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Eigentümerwechsel, Kaution, Betriebskosten, Kündigungssperren; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Kauf bricht nicht Miete
 
@@ -87,9 +87,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Eigentümerwechsel, Kaution, Betriebskosten, Kündigungssperren.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Eigentümerwechsel, Kaution, Betriebskosten, Kündigungssperren.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -118,7 +118,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-vermieterzutritt`
 
-**Fokus:** Vermieterzutritt: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anlass, Ankündigung, Notfall, Besichtigung, Verkauf, Beweisaufnahme; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Vermieterzutritt: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Anlass, Ankündigung, Notfall, Besichtigung, Verkauf, Beweisaufnahme; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Vermieterzutritt
 
@@ -132,9 +132,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Anlass, Ankündigung, Notfall, Besichtigung, Verkauf, Beweisaufnahme.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Anlass, Ankündigung, Notfall, Besichtigung, Verkauf, Beweisaufnahme.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -163,7 +163,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-versicherungskosten`
 
-**Fokus:** Versicherungskosten: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Umlagefähigkeit, Elementar, Selbstbehalt, Verwaltungskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Versicherungskosten: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft Umlagefähigkeit, Elementar, Selbstbehalt, Verwaltungskosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Versicherungskosten
 
@@ -177,9 +177,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Umlagefähigkeit, Elementar, Selbstbehalt, Verwaltungskosten.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft Umlagefähigkeit, Elementar, Selbstbehalt, Verwaltungskosten.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -208,7 +208,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-vollstreckungsschutz-raeumung`
 
-**Fokus:** Vollstreckungsschutz Räumung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft § 765a ZPO, Räumungsfrist, Gesundheitsgefahr, Ersatzwohnraum; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Vollstreckungsschutz Räumung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft § 765a ZPO, Räumungsfrist, Gesundheitsgefahr, Ersatzwohnraum; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Vollstreckungsschutz Räumung
 
@@ -222,9 +222,9 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft § 765a ZPO, Räumungsfrist, Gesundheitsgefahr, Ersatzwohnraum.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft § 765a ZPO, Räumungsfrist, Gesundheitsgefahr, Ersatzwohnraum.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?

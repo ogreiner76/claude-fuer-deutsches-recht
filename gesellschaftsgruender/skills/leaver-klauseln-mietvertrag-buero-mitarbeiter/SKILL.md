@@ -1,13 +1,13 @@
 ---
 name: leaver-klauseln-mietvertrag-buero-mitarbeiter
-description: "Nutze dies, wenn Gesellschaftsgründer Leaver Klauseln, Gesellschaftsgründer Mietvertrag Buero Labor, Gesellschaftsgründer Mitarbeiter Gf Arbeitsvertrag, Spezial Gesellschaftsvertrag Vergleich Eskalation, Gesellschaftsgründer Produkt Und Produkthaftung Start im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Gesellschaftsgründer Leaver Klauseln, Gesellschaftsgründer Mietvertrag Buero Labor, Gesellschaftsgründer Mitarbeiter Gf Arbeitsvertrag, Spezial Gesellschaftsvertrag Vergleich Eskalation, Gesellschaftsgründer Produkt Und Produkthaftung Start prüfen.; Erstelle eine Arbeitsfassung zu Gesellschaftsgründer Leaver Klauseln, Gesellschaftsgründer Mietvertrag Buero Labor, Gesellschaftsgründer Mitarbeiter Gf Arbeitsvertrag, Spezial Gesellschaftsvertrag Vergleich Eskalation, Gesellschaftsgründer Produkt Und Produkthaftung Start.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Gesellschaftsgruender Leaver Klauseln, Gesellschaftsgruender Mietvertrag Buero Labor, Gesellschaftsgruender Mitarbeiter Gf Arbeitsvertrag, Gesellschaftsvertrag Vergleich Eskalation: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Gesellschaftsgründer Leaver Klauseln, Gesellschaftsgründer Mietvertrag Buero Labor, Gesellschaftsgründer Mitarbeiter Gf Arbeitsvertrag, Spezial Gesellschaftsvertrag Vergleich Eskalation, Gesellschaftsgründer Produkt Und Produkthaftung Start
+# Gesellschaftsgründer Leaver Klauseln, Gesellschaftsgründer Mietvertrag Buero Labor, Gesellschaftsgründer Mitarbeiter Gf Arbeitsvertrag, Gesellschaftsvertrag Vergleich Eskalation, Gesellschaftsgründer Produkt Und Produkthaftung Start
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Gesellschaftsgründer Leaver Klauseln, Gesellschaftsgründer Mietvertrag Buero Labor, Gesellschaftsgründer Mitarbeiter Gf Arbeitsvertrag, Gesellschaftsvertrag Vergleich Eskalation, Gesellschaftsgründer Produkt Und Produkthaftung Start** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,12 +16,12 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `gesellschaftsgruender-leaver-klauseln` | Prüft Good/Bad-Leaver-Klauseln, Abfindung, Einziehung und Durchsetzbarkeit. |
 | `gesellschaftsgruender-mietvertrag-buero-labor` | Prüft Mietvertrag vor Gründung/Eintragung, Vor-GmbH-Haftung und Genehmigungen. |
 | `gesellschaftsgruender-mitarbeiter-gf-arbeitsvertrag` | Prüft Gründeranstellung, Geschäftsführervertrag, Sozialversicherung, IP und Wettbewerbsverbote. |
-| `spezial-gesellschaftsvertrag-vergleich-eskalation` | Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-gesellschaftsvertrag-vergleich-eskalation` | Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation im Gesellschaftsgründung: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `gesellschaftsgruender-produkt-und-produkthaftung-start` | Prüft CE, Produktsicherheit, Bedienungsanleitung, Haftung und Versicherung vor Markteintritt. |
 
 ## Arbeitsweg
 
-Für **Gesellschaftsgründer Leaver Klauseln, Gesellschaftsgründer Mietvertrag Buero Labor, Gesellschaftsgründer Mitarbeiter Gf Arbeitsvertrag, Spezial Gesellschaftsvertrag Vergleich Eskalation, Gesellschaftsgründer Produkt Und Produkthaftung Start** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Gesellschaftsgründer Leaver Klauseln, Gesellschaftsgründer Mietvertrag Buero Labor, Gesellschaftsgründer Mitarbeiter Gf Arbeitsvertrag, Gesellschaftsvertrag Vergleich Eskalation, Gesellschaftsgründer Produkt Und Produkthaftung Start** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -217,7 +217,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 4. `spezial-gesellschaftsvertrag-vergleich-eskalation`
 
-**Fokus:** Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation im Gesellschaftsgründung: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation
 
@@ -231,7 +231,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 
 ## Spezialwissen: Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation
-- **Spezialgegenstand:** Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation / spezial gesellschaftsvertrag vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation / gesellschaftsvertrag vergleich eskalation. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UG, OHG, KG, PartG, MoPeG, DiRUG, GwG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

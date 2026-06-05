@@ -1,22 +1,22 @@
 ---
 name: notarielle-niederschrift-organrollen-vorstand
-description: "Nutze dies, wenn Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold im Plugin Aktienrecht Hauptversammlung Ag Se konkret bearbeitet werden soll. Auslöser: Bitte Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold prüfen.; Erstelle eine Arbeitsfassung zu Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsleiter, Pandemie Krise Notfall, Post Hv Litigation Hold** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `notarielle-niederschrift` | Hauptversammlung AG und SE: Notarielle Niederschrift; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `organrollen-vorstand-aufsichtsrat-versammlungsleiter` | Hauptversammlung AG und SE: Organrollen Vorstand Aufsichtsrat Versammlungsleiter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `pandemie-krise-notfall` | Hauptversammlung AG und SE: Pandemie Krise Notfall; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
-| `post-hv-litigation-hold` | Hauptversammlung AG und SE: Post HV Litigation Hold; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `notarielle-niederschrift` | Hauptversammlung AG und SE: Notarielle Niederschrift; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `organrollen-vorstand-aufsichtsrat-versammlungsleiter` | Hauptversammlung AG und SE: Organrollen Vorstand Aufsichtsrat Versammlungsleiter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `pandemie-krise-notfall` | Hauptversammlung AG und SE: Pandemie Krise Notfall; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `post-hv-litigation-hold` | Hauptversammlung AG und SE: Post HV Litigation Hold; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Notarielle Niederschrift, Organrollen Vorstand Aufsichtsrat Versammlungsl
 
 ## 1. `notarielle-niederschrift`
 
-**Fokus:** Hauptversammlung AG und SE: Notarielle Niederschrift; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Notarielle Niederschrift; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Notarielle Niederschrift
 
@@ -84,7 +84,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `organrollen-vorstand-aufsichtsrat-versammlungsleiter`
 
-**Fokus:** Hauptversammlung AG und SE: Organrollen Vorstand Aufsichtsrat Versammlungsleiter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Organrollen Vorstand Aufsichtsrat Versammlungsleiter; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Organrollen Vorstand Aufsichtsrat Versammlungsleiter
 
@@ -141,7 +141,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `pandemie-krise-notfall`
 
-**Fokus:** Hauptversammlung AG und SE: Pandemie Krise Notfall; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Pandemie Krise Notfall; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Pandemie Krise Notfall
 
@@ -195,7 +195,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `post-hv-litigation-hold`
 
-**Fokus:** Hauptversammlung AG und SE: Post HV Litigation Hold; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Post HV Litigation Hold; konkretisierter Spezial-mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Post HV Litigation Hold
 

@@ -1,13 +1,13 @@
 ---
 name: jveg-gerichtsschreiben-jveg-kuerzung-wegfall
-description: "Nutze dies, wenn Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A im Plugin Jveg Kostenpruefer konkret bearbeitet werden soll. Auslöser: Bitte Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A prüfen.; Erstelle eine Arbeitsfassung zu Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8a: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Jveg Gerichtsschreiben Prüfung, Jveg Kommandocenter, Jveg Kuerzung Wegfall 8A** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -112,7 +112,7 @@ Strukturierte Schreibenanalyse mit Fehlertypen, Normverweisen und Handlungsempfe
 
 
 ## Aufgabe
-Erfasse alle Parameter eines JVEG-Kostenvorgangs und erstelle eine vollständige Kostenlandkarte, die den Prüfvorgang strukturiert und an die richtigen Spezial-Skills weiterleitet.
+Erfasse alle Parameter eines JVEG-Kostenvorgangs und erstelle eine vollständige Kostenlandkarte, die den Prüfvorgang strukturiert und an die passendes Fachmoduls weiterleitet.
 
 ## Triage — kläre vor dem Start
 
@@ -153,7 +153,7 @@ Jeder neue JVEG-Kostenvorgang oder wenn Überblick über einen laufenden Vorgang
 2. Alle geltend gemachten Positionen erfassen.
 3. Kostenlandkarte erstellen (Positionen → Normen → offene Punkte).
 4. Frist § 23 JVEG prüfen.
-5. An Spezial-Skills weiterleiten (Fahrtkosten, Sachverständige, Dolmetscher, Zeugen).
+5. An Fachmodule weiterleiten (Fahrtkosten, Sachverständige, Dolmetscher, Zeugen).
 
 ## Output-Template
 

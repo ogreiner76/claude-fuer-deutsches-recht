@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-sanktionslisten-haftpflicht
-description: "Nutze dies, wenn Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft im Plugin Berufsrecht Notare konkret bearbeitet werden soll. Auslöser: Bitte Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft prüfen.; Erstelle eine Arbeitsfassung zu Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Notare Geldwaesche Sanktionslisten Organisationspflicht Und Pra, Notare Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr, Notare Haftpflicht Und Schadenmeldung Organisationspflicht Und, Aktenfuehrung, Berufsausuebungsgesellschaft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

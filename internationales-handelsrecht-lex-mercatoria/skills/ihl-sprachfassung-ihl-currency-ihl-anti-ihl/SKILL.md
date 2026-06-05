@@ -1,13 +1,13 @@
 ---
 name: ihl-sprachfassung-ihl-currency-ihl-anti-ihl
-description: "Nutze dies, wenn Ihl 052 Sprachfassung Und Auslegung, Ihl 053 Currency Risk And Indexation, Ihl 055 Anti Corruption Fcpa Ukba, Ihl 056 Human Rights Supply Chain im Plugin Internationales Handelsrecht Lex Mercatoria konkret bearbeitet werden soll. Auslöser: Bitte Ihl 052 Sprachfassung Und Auslegung, Ihl 053 Currency Risk And Indexation, Ihl 055 Anti Corruption Fcpa Ukba, Ihl 056 Human Rights Supply Chain prüfen.; Erstelle eine Arbeitsfassung zu Ihl 052 Sprachfassung Und Auslegung, Ihl 053 Currency Risk And Indexation, Ihl 055 Anti Corruption Fcpa Ukba, Ihl 056 Human Rights Supply Chain.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Ihl 052 Sprachfassung Und Auslegung, Ihl 053 Currency Risk And Indexation, Ihl 055 Anti Corruption Fcpa Ukba, Ihl 056 Human Rights Supply Chain: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Ihl 052 Sprachfassung Und Auslegung, Ihl 053 Currency Risk And Indexation, Ihl 055 Anti Corruption Fcpa Ukba, Ihl 056 Human Rights Supply Chain
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ihl 052 Sprachfassung Und Auslegung, Ihl 053 Currency Risk And Indexation, Ihl 055 Anti Corruption Fcpa Ukba, Ihl 056 Human Rights Supply Chain** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

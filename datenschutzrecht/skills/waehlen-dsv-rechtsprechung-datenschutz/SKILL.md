@@ -1,13 +1,13 @@
 ---
 name: waehlen-dsv-rechtsprechung-datenschutz
-description: "Nutze dies, wenn Workflow Output Waehlen, Workflow Redteam Qualitygate, Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Datenschutz Bussgeldverfahren Art 83 Dsgvo Verteidigung, Dsv Sanktion Beschlussverfahren 72 Owig im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Output Waehlen, Redteam Qualitygate, Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Datenschutz Bussgeldverfahren Art 83 Dsgvo Verteidigung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Output Waehlen, Workflow Redteam Qualitygate, Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Datenschutz Bussgeldverfahren Art 83 Dsgvo Verteidigung, Dsv Sanktion Beschlussverfahren 72 Owig
+# Output Waehlen, Redteam Qualitygate, Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Datenschutz Bussgeldverfahren Art 83 Dsgvo Verteidigung, Dsv Sanktion Beschlussverfahren 72 Owig
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Output Waehlen, Redteam Qualitygate, Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Datenschutz Bussgeldverfahren Art 83 Dsgvo Verteidigung, Dsv Sanktion Beschlussverfahren 72 Owig** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -17,11 +17,11 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin datenschutzrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` | Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-Linien zur Bagatellschwelle; OLG-Entscheidungen zur Beweislast bei Kontrollverlust; LG-Streuung bei Datenleck-Massenklagen; Schmerzensgeldgrößen; Kausalitäts-anforderungen. Output: Rechtsprechungs-Übersicht mit Begründungslinien. Abgrenzung: keine konkrete Verteidigung. |
 | `datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung` | Bußgeldverteidigung nach Art. 83 DSGVO bis 4 Prozent Jahresumsatz oder 20 Mio. EUR. EDSA-Leitlinien 04/2022 zur Bemessung. Sieben-Fragen-Diagnose: Anhörung oder Bußgeldbescheid, Aufsichtsbehörde, Norm DSGVO/BDSG, Bezugsumsatz, Vorwurf, Verschulden, Maßnahmenlage. Schritt-für-Schritt: Akteneinsicht, keine vorschnelle Stellungnahme, dynamische Geldbemessung, EDSA-Methodik, § 41 BDSG, OWiG/StPO-Verfahrensgarantien. Einspruch nach § 67 OWiG binnen zwei Wochen. EuGH C-807/21 Deutsche Wohnen und C-683/21: Unternehmensgeldbuße ohne Identifizierung einer natürlichen Person, aber nicht ohne Vorsatz oder Fahrlässigkeit. Mustertexte Einspruch, Stellungnahme, Erledigungsvorschlag. Abgrenzung: keine zivilrechtliche Schadensersatzabwehr. |
-| `dsv-sanktion-beschlussverfahren-72-owig` | Datenschutzrecht-Brückenskill: Beschlussverfahren § 72 OWiG: Schriftliche Erledigung per Beschluss prüfen, wenn Tatsachen und Verfahrenslage dafür taugen. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
+| `dsv-sanktion-beschlussverfahren-72-owig` | Datenschutzrecht-Brückenskill: Beschlussverfahren § 72 OWiG: Schriftliche Erledigung per Beschluss prüfen, wenn Tatsachen und Verfahrenslage dafür taugen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden. |
 
 ## Arbeitsweg
 
-Für **Workflow Output Waehlen, Workflow Redteam Qualitygate, Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Datenschutz Bussgeldverfahren Art 83 Dsgvo Verteidigung, Dsv Sanktion Beschlussverfahren 72 Owig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Output Waehlen, Redteam Qualitygate, Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Datenschutz Bussgeldverfahren Art 83 Dsgvo Verteidigung, Dsv Sanktion Beschlussverfahren 72 Owig** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `datenschutzrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -33,10 +33,10 @@ Für **Workflow Output Waehlen, Workflow Redteam Qualitygate, Dsv Rechtsprechung
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `datenschutzrecht` Output wählen im Plugin datenschutzrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Output wählen im Plugin datenschutzrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -46,7 +46,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Outputformen Datenschutz
@@ -80,10 +80,10 @@ Bei einer Datenpannenmeldung nach Art. 33 stets das Online-Meldeformular der zus
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `datenschutzrecht` Red-Team Qualitygate im Plugin datenschutzrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin datenschutzrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -93,7 +93,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Red-Team-Prüfpunkte Datenschutz
@@ -309,7 +309,7 @@ Sieben-Fragen-Diagnose:
 
 ## 5. `dsv-sanktion-beschlussverfahren-72-owig`
 
-**Fokus:** Datenschutzrecht-Brückenskill: Beschlussverfahren § 72 OWiG: Schriftliche Erledigung per Beschluss prüfen, wenn Tatsachen und Verfahrenslage dafür taugen. Spezialskill für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
+**Fokus:** Datenschutzrecht-Brückenskill: Beschlussverfahren § 72 OWiG: Schriftliche Erledigung per Beschluss prüfen, wenn Tatsachen und Verfahrenslage dafür taugen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 # Beschlussverfahren § 72 OWiG
 

@@ -1,13 +1,13 @@
 ---
 name: legw-bmvg-reservisten
-description: "Nutze dies, wenn Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung, Legw Bmwe Energie Und Netzregulierung Enwg und 3 weitere Themen im Plugin Legistik Werkstatt konkret bearbeitet werden soll. Auslöser: Bitte Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung, Legw Bmwe Energie Und Netzregulierung Enwg und 3 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung, Legw Bmwe Energie Und Netzregulierung Enwg und 3 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung, Legw Bmwe Energie Und Netzregulierung Enwg und 3 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung, Legw Bmwe Energie Und Netzregulierung Enwg und 3 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -87,16 +87,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Reservistenrecht und Zivilschutzrecht
-Ressort:            BMVg
-Kernnormen:         ResG; SG; ZSKG; KritisDachG; BBK-G.
-Akteure/Aufsicht:   Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.
-EU/Voelkerrecht:    EU-Katastrophenschutzmechanismus.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmvg; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Reservistenrecht und Zivilschutzrecht
+Ressort: BMVg
+Kernnormen: ResG; SG; ZSKG; KritisDachG; BBK-G.
+Akteure/Aufsicht: Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.
+EU/Voelkerrecht: EU-Katastrophenschutzmechanismus.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -169,16 +169,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Verteidigungstechnologie und Exportkontrolle
-Ressort:            BMVg
-Kernnormen:         KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.
-Akteure/Aufsicht:   BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.
-EU/Voelkerrecht:    Common Position 2008/944/GASP; Wassenaar; MTCR.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmvg; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Verteidigungstechnologie und Exportkontrolle
+Ressort: BMVg
+Kernnormen: KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.
+Akteure/Aufsicht: BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.
+EU/Voelkerrecht: Common Position 2008/944/GASP; Wassenaar; MTCR.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -251,16 +251,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Wehrrecht und Soldatenstatus
-Ressort:            BMVg
-Kernnormen:         SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.
-Akteure/Aufsicht:   BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.
-EU/Voelkerrecht:    PESCO; EDF; EU-Verteidigungsbeschaffung.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmvg; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Wehrrecht und Soldatenstatus
+Ressort: BMVg
+Kernnormen: SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.
+Akteure/Aufsicht: BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.
+EU/Voelkerrecht: PESCO; EDF; EU-Verteidigungsbeschaffung.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -333,16 +333,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Aussenwirtschaft und Investitionspruefung
-Ressort:            BMWE
-Kernnormen:         AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.
-Akteure/Aufsicht:   BMWE; BMI; AA; BMF; Bundeskanzleramt.
-EU/Voelkerrecht:    FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwe; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Aussenwirtschaft und Investitionspruefung
+Ressort: BMWE
+Kernnormen: AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.
+Akteure/Aufsicht: BMWE; BMI; AA; BMF; Bundeskanzleramt.
+EU/Voelkerrecht: FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -415,16 +415,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Energierecht und Netzregulierung (EnWG)
-Ressort:            BMWE
-Kernnormen:         EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.
-Akteure/Aufsicht:   Bundesnetzagentur; Bundeskartellamt; Laender-Energieregulierer; BMWE Abteilung Energie.
-EU/Voelkerrecht:    Strom- und Gasbinnenmarktpakete; ACER; NetCode.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwe; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Energierecht und Netzregulierung (EnWG)
+Ressort: BMWE
+Kernnormen: EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.
+Akteure/Aufsicht: Bundesnetzagentur; Bundeskartellamt; Laender-Energieregulierer; BMWE Abteilung Energie.
+EU/Voelkerrecht: Strom- und Gasbinnenmarktpakete; ACER; NetCode.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -497,16 +497,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Erneuerbare Energien (EEG; WindBG)
-Ressort:            BMWE
-Kernnormen:         EEG; WindBG; KWKG; SolarSpitzenG; BImSchG-Bezuege; ROG.
-Akteure/Aufsicht:   Bundesnetzagentur; Bafa; Laenderbehoerden Genehmigung; Planungsbehoerden.
-EU/Voelkerrecht:    RED III; State Aid Guidelines for Energy and Environment.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwe; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Erneuerbare Energien (EEG; WindBG)
+Ressort: BMWE
+Kernnormen: EEG; WindBG; KWKG; SolarSpitzenG; BImSchG-Bezuege; ROG.
+Akteure/Aufsicht: Bundesnetzagentur; Bafa; Laenderbehoerden Genehmigung; Planungsbehoerden.
+EU/Voelkerrecht: RED III; State Aid Guidelines for Energy and Environment.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -579,16 +579,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Industriepolitik; Foerderrecht; EU-Beihilfen
-Ressort:            BMWE
-Kernnormen:         BHO; SubvG; AGVO; Notifizierungspflicht (Art. 108 AEUV); ggf. IPCEI-Regeln.
-Akteure/Aufsicht:   BMWE; Bafa; Projekttraeger; EU-Kommission GD COMP.
-EU/Voelkerrecht:    AGVO; KMU-Definition; Klimaschutz-Beihilfeleitlinien; Chips Act; CRMA.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwe; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Industriepolitik; Foerderrecht; EU-Beihilfen
+Ressort: BMWE
+Kernnormen: BHO; SubvG; AGVO; Notifizierungspflicht (Art. 108 AEUV); ggf. IPCEI-Regeln.
+Akteure/Aufsicht: BMWE; Bafa; Projekttraeger; EU-Kommission GD COMP.
+EU/Voelkerrecht: AGVO; KMU-Definition; Klimaschutz-Beihilfeleitlinien; Chips Act; CRMA.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette
@@ -661,16 +661,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Wettbewerbsrecht und Kartellrecht (GWB)
-Ressort:            BMWE
-Kernnormen:         GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.
-Akteure/Aufsicht:   Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.
-EU/Voelkerrecht:    FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Act).
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmwe; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Wettbewerbsrecht und Kartellrecht (GWB)
+Ressort: BMWE
+Kernnormen: GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.
+Akteure/Aufsicht: Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.
+EU/Voelkerrecht: FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Act).
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

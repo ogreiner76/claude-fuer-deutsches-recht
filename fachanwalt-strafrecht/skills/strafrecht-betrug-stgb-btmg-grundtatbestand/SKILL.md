@@ -1,13 +1,13 @@
 ---
 name: strafrecht-betrug-stgb-btmg-grundtatbestand
-description: "Nutze dies, wenn Strafrecht Spezial Betrug 263 Stgb Grundtatbestand, Strafrecht Spezial Btmg 29 Grundtatbestand, Strafrecht Spezial Btmg 29A Nicht Geringe Menge, Strafrecht Spezial Btmg 30 Handeltreiben, Strafrecht Spezial Btmg 30A Schwerer Bandenhandel und 5 weitere Themen im Plugin Fachanwalt Strafrecht konkret bearbeitet werden soll. Auslöser: Bitte Strafrecht Spezial Betrug 263 Stgb Grundtatbestand, Strafrecht Spezial Btmg 29 Grundtatbestand, Strafrecht Spezial Btmg 29A Nicht Geringe Menge, Strafrecht Spezial Btmg 30 Handeltreiben, Strafrecht Spezial Btmg 30A Schwerer Bandenhandel und 5 weitere Themen prüfen.; Erstelle eine Arbeitsfassung zu Strafrecht Spezial Betrug 263 Stgb Grundtatbestand, Strafrecht Spezial Btmg 29 Grundtatbestand, Strafrecht Spezial Btmg 29A Nicht Geringe Menge, Strafrecht Spezial Btmg 30 Handeltreiben, Strafrecht Spezial Btmg 30A Schwerer Bandenhandel und 5 weitere Themen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29a Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Strafrecht Spezial Betrug 263 Stgb Grundtatbestand, Strafrecht Spezial Btmg 29 Grundtatbestand, Strafrecht Spezial Btmg 29A Nicht Geringe Menge, Strafrecht Spezial Btmg 30 Handeltreiben, Strafrecht Spezial Btmg 30A Schwerer Bandenhandel und 5 weitere Themen
+# Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29A Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben, Strafrecht Btmg 30A Schwerer Bandenhandel und 5 weitere Themen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29A Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben, Strafrecht Btmg 30A Schwerer Bandenhandel und 5 weitere Themen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -26,7 +26,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Strafrecht Spezial Betrug 263 Stgb Grundtatbestand, Strafrecht Spezial Btmg 29 Grundtatbestand, Strafrecht Spezial Btmg 29A Nicht Geringe Menge, Strafrecht Spezial Btmg 30 Handeltreiben, Strafrecht Spezial Btmg 30A Schwerer Bandenhandel und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Strafrecht Betrug 263 Stgb Grundtatbestand, Strafrecht Btmg 29 Grundtatbestand, Strafrecht Btmg 29A Nicht Geringe Menge, Strafrecht Btmg 30 Handeltreiben, Strafrecht Btmg 30A Schwerer Bandenhandel und 5 weitere Themen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-strafrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -799,17 +799,17 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
 - **Aerztliches Attest:** Hausarzt oder Suchtmediziner attestiert Konsum, Tagesdosis und Therapiebedarf. Tipp: Aerztin/Arzt schriftlich informieren, was attestiert werden soll (Konsumdauer, Tagesdosis, Therapiebereitschaft).
 - **Konsumprotokoll:** Mandant fuehrt Konsumprotokoll (vereinzelt empfohlen; nur, wenn klar Eigenkonsum, sonst Selbstbelastung).
 - **Indizien gegen Verkaufsabsicht:**
-  - Keine Portionierung
-  - Keine Feinwaage
-  - Keine Beutel/Tueten in Verkaufsmengen
-  - Keine Kommunikation mit Kunden (Chats, SMS, Anrufe)
-  - Keine groesseren Bargeldbetraege im Haushalt
+ - Keine Portionierung
+ - Keine Feinwaage
+ - Keine Beutel/Tueten in Verkaufsmengen
+ - Keine Kommunikation mit Kunden (Chats, SMS, Anrufe)
+ - Keine groesseren Bargeldbetraege im Haushalt
 - **Indizien gegen reinen Eigenkonsum (Vorsicht):**
-  - Mehrere Stoffe gleichzeitig in groesseren Mengen
-  - Portionierte Mengen
-  - Verkaufsmaterialien
-  - Chats/Kunden-Kontakte
-  - Hohe Bargeldbetraege
+ - Mehrere Stoffe gleichzeitig in groesseren Mengen
+ - Portionierte Mengen
+ - Verkaufsmaterialien
+ - Chats/Kunden-Kontakte
+ - Hohe Bargeldbetraege
 - **Konsumeinheiten-Argumentation:** Bei mittleren Mengen kann man darlegen, dass die Menge fuer mehrtaegigen oder mehrwoechigen Eigenkonsum reicht. Beispiel: Tagesdosis 100 mg Amphetaminbase x 30 Tage = 3 g. Bei Sucht hoeher.
 - **Therapieanbahnung:** Sofort. Beratungsstellen-Termin im ersten Mandantengespraech vereinbaren. Wirkt strafmildernd und ermoeglicht spaeter § 35 BtMG.
 
@@ -972,13 +972,13 @@ Die nicht geringe Menge ([Schwelle] g) wird damit [Faktor]-fach erreicht/untersc
 ## Quellen Stand 06/2026
 
 - BGH staendige Rspr. zur nicht geringen Menge jeweils stoffbezogen:
-  - Heroin 1.5 g HHC: BGH-Linie verifizieren
-  - Kokain 5 g KHC: BGH-Linie verifizieren
-  - Amphetamin 10 g Base: BGH-Linie verifizieren
-  - MDMA 30 g Base bzw. 100 KE: BGH-Linie verifizieren
-  - LSD 6 mg / 300 KE: BGH-Linie verifizieren
-  - Cannabis (vor KCanG) 7.5 g THC: BGH 1 StR 386/03 — Aktenzeichen mit BGH-Linie verifizieren
-  - Cannabis nach KCanG: aktuelle BGH-Entscheidungen abwarten
+ - Heroin 1.5 g HHC: BGH-Linie verifizieren
+ - Kokain 5 g KHC: BGH-Linie verifizieren
+ - Amphetamin 10 g Base: BGH-Linie verifizieren
+ - MDMA 30 g Base bzw. 100 KE: BGH-Linie verifizieren
+ - LSD 6 mg / 300 KE: BGH-Linie verifizieren
+ - Cannabis (vor KCanG) 7.5 g THC: BGH 1 StR 386/03 — Aktenzeichen mit BGH-Linie verifizieren
+ - Cannabis nach KCanG: aktuelle BGH-Entscheidungen abwarten
 - BGH zur Berechnung bei Streckmitteln (Wirkstoffgehalt, nicht Bruttogewicht).
 - BGH zur Vorsatzanforderung bei nicht geringer Menge (dolus eventualis).
 - §§ 29a, 30, 30a BtMG sowie §§ 34, 35 KCanG.

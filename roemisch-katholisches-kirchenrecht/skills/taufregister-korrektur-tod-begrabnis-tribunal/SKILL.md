@@ -1,22 +1,22 @@
 ---
 name: taufregister-korrektur-tod-begrabnis-tribunal
-description: "Nutze dies, wenn Taufregister Korrektur Und Randvermerke, Tod Begrabnis Und Begrabnisrecht, Tribunal Interview Ohne Suggestion, Trinitat Christologie Und Mariologie im Plugin Roemisch Katholisches Kirchenrecht konkret bearbeitet werden soll. Auslöser: Bitte Taufregister Korrektur Und Randvermerke, Tod Begrabnis Und Begrabnisrecht, Tribunal Interview Ohne Suggestion, Trinitat Christologie Und Mariologie prüfen.; Erstelle eine Arbeitsfassung zu Taufregister Korrektur Und Randvermerke, Tod Begrabnis Und Begrabnisrecht, Tribunal Interview Ohne Suggestion, Trinitat Christologie Und Mariologie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Taufregister Korrektur Und Randvermerke, Tod Begrabnis Und Begrabnisrecht, Tribunal Interview Ohne Suggestion, Trinitat Christologie Und Mariologie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Taufregister Korrektur Und Randvermerke, Tod Begrabnis Und Begrabnisrecht, Tribunal Interview Ohne Suggestion, Trinitat Christologie Und Mariologie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Taufregister Korrektur Und Randvermerke, Tod Begrabnis Und Begrabnisrecht, Tribunal Interview Ohne Suggestion, Trinitat Christologie Und Mariologie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `taufregister-korrektur-und-randvermerke` | Taufregister: Korrektur und Randvermerke: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `tod-begrabnis-und-begrabnisrecht` | Tod, Begräbnis und Begräbnisrecht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `tribunal-interview-ohne-suggestion` | Tribunal-Interview ohne Suggestion: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
-| `trinitat-christologie-und-mariologie` | Trinität, Christologie und Mariologie: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `taufregister-korrektur-und-randvermerke` | Taufregister: Korrektur und Randvermerke: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `tod-begrabnis-und-begrabnisrecht` | Tod, Begräbnis und Begräbnisrecht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `tribunal-interview-ohne-suggestion` | Tribunal-Interview ohne Suggestion: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
+| `trinitat-christologie-und-mariologie` | Trinität, Christologie und Mariologie: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Für **Taufregister Korrektur Und Randvermerke, Tod Begrabnis Und Begrabnisrecht
 
 ## 1. `taufregister-korrektur-und-randvermerke`
 
-**Fokus:** Taufregister: Korrektur und Randvermerke: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Taufregister: Korrektur und Randvermerke: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Taufregister: Korrektur und Randvermerke
 
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -85,7 +85,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `tod-begrabnis-und-begrabnisrecht`
 
-**Fokus:** Tod, Begräbnis und Begräbnisrecht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Tod, Begräbnis und Begräbnisrecht: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Tod, Begräbnis und Begräbnisrecht
 
@@ -132,7 +132,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -143,7 +143,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `tribunal-interview-ohne-suggestion`
 
-**Fokus:** Tribunal-Interview ohne Suggestion: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Tribunal-Interview ohne Suggestion: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Tribunal-Interview ohne Suggestion
 
@@ -190,7 +190,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 
@@ -201,7 +201,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `trinitat-christologie-und-mariologie`
 
-**Fokus:** Trinität, Christologie und Mariologie: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Trinität, Christologie und Mariologie: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Trinität, Christologie und Mariologie
 
@@ -248,7 +248,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 - Prüfvermerk, Gesprächsleitfaden, Aktennotiz, Schreiben oder Entscheidungsbaum.
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
-- Spezialskill-Empfehlung für den nächsten Schritt.
+- Fachmodul-Empfehlung für den nächsten Schritt.
 
 ## Qualitäts- und Quellenregel
 

@@ -1,13 +1,13 @@
 ---
 name: minderheitenrechte-partei-mitgliederdaten
-description: "Nutze dies, wenn Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte im Plugin Parteienrecht Parteiorganisation konkret bearbeitet werden soll. Auslöser: Bitte Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte prüfen.; Erstelle eine Arbeitsfassung zu Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -33,7 +33,7 @@ Für **Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte** zuer
 ## Aufgabe
 Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Informationsrechte und Gleichbehandlung.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -74,7 +74,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Regelt Mitgliederverzeichnis, Zugriff, Export, Wahlberechtigung, Löschung, Auskunft und Sicherheit.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?
@@ -115,7 +115,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 ## Aufgabe
 Erklärt Aufnahme, Stimmrecht, Antragsrecht, Gleichbehandlung, Datenschutz, Mitgliedsbeiträge und Austritt.
 
-## Kaltstart
+## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
 1. Welche Rolle hat die betroffene Person oder Organisation?

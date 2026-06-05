@@ -1,6 +1,6 @@
 ---
 name: beirat-geschaeftsfuehrerabberufung
-description: "Nutze dies, wenn Beirat Geschaeftsfuehrerabberufung im Plugin Grosskanzlei Corporate Ma konkret bearbeitet werden soll. Auslöser: Bitte Beirat Geschaeftsfuehrerabberufung prüfen.; Erstelle eine Arbeitsfassung zu Beirat Geschaeftsfuehrerabberufung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Beirat Geschaeftsfuehrerabberufung: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Beirat Geschaeftsfuehrerabberufung

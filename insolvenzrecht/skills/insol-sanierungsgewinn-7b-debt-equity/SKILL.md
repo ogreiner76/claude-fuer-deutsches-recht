@@ -1,13 +1,13 @@
 ---
 name: insol-sanierungsgewinn-7b-debt-equity
-description: "Nutze dies, wenn Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan im Plugin Insolvenzrecht konkret bearbeitet werden soll. Auslöser: Bitte Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan prüfen.; Erstelle eine Arbeitsfassung zu Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Insol Sanierungsgewinn 7b Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Insol Sanierungsgewinn 7B Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -70,7 +70,7 @@ Kaltstart-Fragen:
 - Paragraph 184 AO — Gewerbesteuermessbetrag.
 - Paragraph 3a EStG — Spiegelbild im EStG.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Gewerbesteuerliche Verlustvortraege ermitteln.** Paragraph 10a GewStG-Vortrag ist eigenstaendig.
 2. **Sanierungsertrag identifizieren.** Identitaet mit dem KSt-/ESt-Sanierungsertrag, aber u. U. abweichend wegen GewSt-Korrekturen Paragraph 8 ff. GewStG.
@@ -106,22 +106,22 @@ Kaltstart-Fragen:
 
 ```
 SCHIENE KSt (Paragraph 3a EStG)
-Sanierungsertrag                              EUR 5.000.000
-abzgl. Sanierungskosten                       EUR    200.000
-abzgl. KSt-Verlustvortrag                     EUR  1.500.000
-= Restsanierungsertrag                        EUR  3.300.000
+Sanierungsertrag EUR 5.000.000
+abzgl. Sanierungskosten EUR 200.000
+abzgl. KSt-Verlustvortrag EUR 1.500.000
+= Restsanierungsertrag EUR 3.300.000
 => Paragraph 3a Absatz 1 EStG anwendbar bei erfuellten vier Voraussetzungen.
 
 SCHIENE GewSt (Paragraph 7b GewStG)
-Sanierungsertrag (mit GewSt-Korrekturen)      EUR 5.000.000
-abzgl. Sanierungskosten                       EUR    200.000
-abzgl. GewSt-Vortrag                          EUR  1.200.000
-= Restsanierungsertrag GewSt                  EUR  3.600.000
+Sanierungsertrag (mit GewSt-Korrekturen) EUR 5.000.000
+abzgl. Sanierungskosten EUR 200.000
+abzgl. GewSt-Vortrag EUR 1.200.000
+= Restsanierungsertrag GewSt EUR 3.600.000
 => Paragraph 7b Absatz 1 GewStG anwendbar bei erfuellten vier Voraussetzungen.
 
 WAERE OHNE PARAGRAPH 7b GewStG die Steuer
-Messbetrag (3,5 % auf 3.600.000)              EUR    126.000
-Hebesatz 460 %                                EUR    579.600
+Messbetrag (3,5 % auf 3.600.000) EUR 126.000
+Hebesatz 460 % EUR 579.600
 
 => Ersparnis bei erfolgreichem Antrag: ca. EUR 580 Tsd. (allein GewSt).
 ```
@@ -249,13 +249,13 @@ Kaltstart-Fragen:
 - Paragraph 3 Nr. 40 EStG — Teileinkuenfteverfahren.
 - BFH-Linie zur verdeckten Einlage bei nicht werthaltiger Forderung.
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Sacheinlagepruefung.** Welcher Wert wird der eingebrachten Forderung im handelsrechtlichen Kapitalerhoehungs-Verfahren beigemessen?
 2. **Werthaltigkeit der Forderung am Stichtag pruefen.**
 3. **Zwei steuerliche Sphaeren trennen:**
-   - **Ebene Schuldnerin:** Verbindlichkeit faellt weg; Sanierungsertrag in Hoehe des nicht werthaltigen Teils der Forderung.
-   - **Ebene Glaeubiger/Investor:** Anschaffungskosten der Beteiligung in Hoehe des werthaltigen Teils; Verzichts-Aufwand in Hoehe des nicht werthaltigen Teils.
+ - **Ebene Schuldnerin:** Verbindlichkeit faellt weg; Sanierungsertrag in Hoehe des nicht werthaltigen Teils der Forderung.
+ - **Ebene Glaeubiger/Investor:** Anschaffungskosten der Beteiligung in Hoehe des werthaltigen Teils; Verzichts-Aufwand in Hoehe des nicht werthaltigen Teils.
 4. **Paragraph 3a EStG-Pruefung** fuer den Sanierungsertrag auf Schuldnerebene.
 5. **Plan-Klausel formulieren** (Paragraph 225a InsO bzw. StaRUG).
 6. **Anteils-Bewertung** (insbesondere bei AG: Sacheinlagepruefung Paragraph 27 AktG).
@@ -295,19 +295,19 @@ In der Praxis erfolgt der Vorgang oft als kombinierte Einlage: die Forderung wir
 
 ```
 EBENE SCHULDNERIN
-Wegfall Verbindlichkeit:  EUR 50.000.000
-Davon werthaltiger Teil:  EUR 10.000.000 (Einlage in Kapitalruecklage)
-Davon nicht werthaltig:   EUR 40.000.000 (Sanierungsertrag)
+Wegfall Verbindlichkeit: EUR 50.000.000
+Davon werthaltiger Teil: EUR 10.000.000 (Einlage in Kapitalruecklage)
+Davon nicht werthaltig: EUR 40.000.000 (Sanierungsertrag)
 
-Sanierungsertrag                           EUR 40.000.000
-abzgl. Sanierungskosten                    EUR    500.000
-abzgl. KSt-Verlustvortrag (Annahme)        EUR 25.000.000
-= Restsanierungsertrag                     EUR 14.500.000
+Sanierungsertrag EUR 40.000.000
+abzgl. Sanierungskosten EUR 500.000
+abzgl. KSt-Verlustvortrag (Annahme) EUR 25.000.000
+= Restsanierungsertrag EUR 14.500.000
 => Paragraph 3a Absatz 1 EStG anwendbar, sofern vier Voraussetzungen erfuellt.
 
 EBENE GLAEUBIGER (Bank)
-Buchwert Forderung vor DES:   EUR 50.000.000
-abzgl. Sanierungs-Aufwand:    EUR 40.000.000 (nicht werthaltiger Teil)
+Buchwert Forderung vor DES: EUR 50.000.000
+abzgl. Sanierungs-Aufwand: EUR 40.000.000 (nicht werthaltiger Teil)
 = Anschaffungskosten Beteiligung 30%: EUR 10.000.000
 ```
 
@@ -436,7 +436,7 @@ Kaltstart-Fragen:
 | StB Schuldner | klassisches Mandat zur Steuererklaerung und Beratung | Paragraph 280 BGB Beratungshaftung; ggf. Paragraph 69 AO |
 | Glaeubigerausschuss | Aufsicht und Mitsprache bei Plan | Paragraph 71 InsO |
 
-## Workflow / Schritt fuer Schritt
+## / Schritt fuer Schritt
 
 1. **Rolle und Verantwortlichkeit klaeren.** Wer entscheidet, wer berichtet, wer haftet?
 2. **CRO-Vertrag pruefen.** Insbesondere: Vertretungsmacht, Haftungs-Cap, Versicherungsdeckung.
@@ -493,7 +493,7 @@ Stand: [Datum]
 
 4. Versicherung
 - D-und-O-Deckung [Versicherer] mit Schaden-Nr. [...]; Anzeige der
-  Sanierungslage am [Datum] erfolgt.
+ Sanierungslage am [Datum] erfolgt.
 
 5. Risiken
 [...]
@@ -602,7 +602,7 @@ Wenn nur drei der sechs Antworten vorliegen, beginnt die Arbeit am Zeitstrahl. D
 - Paragraphen 222, 227 AO — Stundung und Erlass.
 - Paragraph 60 InsO — Haftung des Insolvenzverwalters fuer schuldhafte Pflichtverletzung.
 
-## Workflow / Zeitachse mit Monaten und Antragspflichtigen
+## / Zeitachse mit Monaten und Antragspflichtigen
 
 Die folgende Tabelle nimmt als Tag 0 den geplanten Tag der Plan-Einreichung oder Plan-Vorlage bei Gericht. Negative Monatszahlen sind die Vorbereitungsphase.
 

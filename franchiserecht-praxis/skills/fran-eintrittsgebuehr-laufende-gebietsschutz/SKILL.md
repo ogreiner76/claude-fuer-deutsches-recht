@@ -1,13 +1,13 @@
 ---
 name: fran-eintrittsgebuehr-laufende-gebietsschutz
-description: "Nutze dies, wenn Fran 005 Eintrittsgebuehr Laufende Gebühren Marketing Fee, Fran 006 Gebietsschutz Standortanalyse Und Kannibalisierung, Fran 007 Bezugsbindung Lieferanten Und Kartellrecht im Plugin Franchiserecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Fran 005 Eintrittsgebuehr Laufende Gebühren Marketing Fee, Fran 006 Gebietsschutz Standortanalyse Und Kannibalisierung, Fran 007 Bezugsbindung Lieferanten Und Kartellrecht prüfen.; Erstelle eine Arbeitsfassung zu Fran 005 Eintrittsgebuehr Laufende Gebühren Marketing Fee, Fran 006 Gebietsschutz Standortanalyse Und Kannibalisierung, Fran 007 Bezugsbindung Lieferanten Und Kartellrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fran 005 Eintrittsgebuehr Laufende Gebuehren Marketing Fee, Fran 006 Gebietsschutz Standortanalyse Und Kannibalisierung, Fran 007 Bezugsbindung Lieferanten Und Kartellrecht: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fran 005 Eintrittsgebuehr Laufende Gebühren Marketing Fee, Fran 006 Gebietsschutz Standortanalyse Und Kannibalisierung, Fran 007 Bezugsbindung Lieferanten Und Kartellrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fran 005 Eintrittsgebuehr Laufende Gebühren Marketing Fee, Fran 006 Gebietsschutz Standortanalyse Und Kannibalisierung, Fran 007 Bezugsbindung Lieferanten Und Kartellrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

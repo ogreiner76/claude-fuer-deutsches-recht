@@ -1,13 +1,13 @@
 ---
 name: anspruchsgrundlagen-anwaltsperspektive
-description: "Nutze dies, wenn Spezial Anspruchsgrundlagen Behörden Gericht Und Registerweg, Spezial Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Spezial Auslegung Verhandlung Vergleich Und Eskalation, Spezial Buergerliches Abschlussprodukt Und Übergabe, Spezial Gutachtenstil Risikoampel Und Gegenargumente im Plugin Methodenlehre Buergerliches Recht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Anspruchsgrundlagen Behörden Gericht Und Registerweg, Spezial Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Spezial Auslegung Verhandlung Vergleich Und Eskalation, Spezial Buergerliches Abschlussprodukt Und Übergabe, Spezial Gutachtenstil Risikoampel Und Gegenargumente prüfen.; Erstelle eine Arbeitsfassung zu Spezial Anspruchsgrundlagen Behörden Gericht Und Registerweg, Spezial Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Spezial Auslegung Verhandlung Vergleich Und Eskalation, Spezial Buergerliches Abschlussprodukt Und Übergabe, Spezial Gutachtenstil Risikoampel Und Gege..."
+description: "Nutze dies bei Anspruchsgrundlagen Behörden Gericht Und Registerweg, Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Auslegung Verhandlung Vergleich Und Eskalation, Buergerliches Abschlussprodukt Und Uebergabe: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Anspruchsgrundlagen Behörden Gericht Und Registerweg, Spezial Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Spezial Auslegung Verhandlung Vergleich Und Eskalation, Spezial Buergerliches Abschlussprodukt Und Übergabe, Spezial Gutachtenstil Risikoampel Und Gegenargumente
+# Anspruchsgrundlagen Behörden Gericht Und Registerweg, Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Auslegung Verhandlung Vergleich Und Eskalation, Buergerliches Abschlussprodukt Und Übergabe, Gutachtenstil Risikoampel Und Gegenargumente
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anspruchsgrundlagen Behörden Gericht Und Registerweg, Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Auslegung Verhandlung Vergleich Und Eskalation, Buergerliches Abschlussprodukt Und Übergabe, Gutachtenstil Risikoampel Und Gegenargumente** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -21,7 +21,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Anspruchsgrundlagen Behörden Gericht Und Registerweg, Spezial Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Spezial Auslegung Verhandlung Vergleich Und Eskalation, Spezial Buergerliches Abschlussprodukt Und Übergabe, Spezial Gutachtenstil Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anspruchsgrundlagen Behörden Gericht Und Registerweg, Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Auslegung Verhandlung Vergleich Und Eskalation, Buergerliches Abschlussprodukt Und Übergabe, Gutachtenstil Risikoampel Und Gegenargumente** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `methodenlehre-buergerliches-recht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail

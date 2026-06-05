@@ -1,13 +1,13 @@
 ---
 name: dsv-art-besondere-aufnahme-statusinformation
-description: "Nutze dies, wenn Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko im Plugin Datenschutzrecht konkret bearbeitet werden soll. Auslöser: Bitte Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko prüfen.; Erstelle eine Arbeitsfassung zu Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dsv Art 9 Besondere Kategorien, Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

@@ -1,13 +1,13 @@
 ---
 name: dealteam-zusammenfassung
-description: "Nutze dies, wenn Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance, Gesellschaftsrecht Anpassen im Plugin Gesellschaftsrecht konkret bearbeitet werden soll. Auslöser: Bitte Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance, Gesellschaftsrecht Anpassen prüfen.; Erstelle eine Arbeitsfassung zu Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance, Gesellschaftsrecht Anpassen.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance, Gesellschaftsrecht Anpassen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance, Gesellschaftsrecht Anpassen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -283,10 +283,10 @@ Gesellschafterversammlung vom [DATUM]
 [Beschlusstext — präzise, vollständig]
 
 Abstimmungsergebnis:
-Ja-Stimmen:       [N] ([PROZENT] %)
-Nein-Stimmen:     [N] ([PROZENT] %)
-Enthaltungen:     [N]
-Stimmbefangen:    [NAME(N)] gem. § 47 Abs. 4 GmbHG wegen [GRUND]
+Ja-Stimmen: [N] ([PROZENT] %)
+Nein-Stimmen: [N] ([PROZENT] %)
+Enthaltungen: [N]
+Stimmbefangen: [NAME(N)] gem. § 47 Abs. 4 GmbHG wegen [GRUND]
 
 Der Beschluss ist [angenommen / abgelehnt].
 
@@ -600,7 +600,7 @@ Gilt für alle AG (keine Größenklassenausnahme). GmbH: Prüfungspflicht ab mit
 ## Prüfschema: Compliance-Initialisierung und laufender Betrieb
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -694,7 +694,7 @@ wir vertreten die [Gesellschaft], [HR-Nummer], [Anschrift], in der oben bezeichn
 Angelegenheit. Gegen den Ordnungsgeldbescheid vom [Datum], der unserer Mandantin am
 [Datum] zugegangen ist, legen wir hiermit
 
-                              W i d e r s p r u c h
+ W i d e r s p r u c h
 
 ein.
 
@@ -771,52 +771,52 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 # HINWEIS: Fristen sind nur Referenz — beim Bundesanzeiger/HR/TR bestätigen
 
 metadaten:
-  unternehmen: "[Konzern- / Mandantenname]"
-  erstellt: "[Datum]"
-  zuletzt_aktualisiert: "[Datum]"
-  letztes_audit: null
+ unternehmen: "[Konzern- / Mandantenname]"
+ erstellt: "[Datum]"
+ zuletzt_aktualisiert: "[Datum]"
+ letztes_audit: null
 
 gesellschaften:
-  - name: "Alpha GmbH"
-    typ: "GmbH"
-    handelsregisternummer: "HRB 12345"
-    registergericht: "Amtsgericht München"
-    gruendungsdatum: "2015-01-10"
-    status: "aktiv"
-    groessenklasse: "mittelgroß § 267 Abs. 2 HGB"
-    geschaeftsjahr_ende: "12-31"
-    abschlusspruefung_pflicht: "ja"
-    gesellschafter_liste_aktuell: "2025-11-15"
-    notizen: "Abtretung März 2026 noch nicht eingetragen"
+ - name: "Alpha GmbH"
+ typ: "GmbH"
+ handelsregisternummer: "HRB 12345"
+ registergericht: "Amtsgericht München"
+ gruendungsdatum: "2015-01-10"
+ status: "aktiv"
+ groessenklasse: "mittelgroß § 267 Abs. 2 HGB"
+ geschaeftsjahr_ende: "12-31"
+ abschlusspruefung_pflicht: "ja"
+ gesellschafter_liste_aktuell: "2025-11-15"
+ notizen: "Abtretung März 2026 noch nicht eingetragen"
 
-    pflichten:
-      - typ: "Jahresabschluss § 325 HGB"
-        faellig: "2026-12-31"
-        faelligkeits_grundlage: "GJ-Ende 31.12.2025 + 12 Monate"
-        zuletzt_eingereicht: "2025-10-15"
-        status: "aktuell"
-        notizen: "GJ 2025 bis 31.12.2026 einzureichen"
+ pflichten:
+ - typ: "Jahresabschluss § 325 HGB"
+ faellig: "2026-12-31"
+ faelligkeits_grundlage: "GJ-Ende 31.12.2025 + 12 Monate"
+ zuletzt_eingereicht: "2025-10-15"
+ status: "aktuell"
+ notizen: "GJ 2025 bis 31.12.2026 einzureichen"
 
-      - typ: "Gesellschafterliste § 40 GmbHG"
-        faellig: "2026-04-05"
-        faelligkeits_grundlage: "Unverzüglich nach Abtretung März 2026"
-        zuletzt_eingereicht: "2025-11-15"
-        status: "überfällig"
-        notizen: "Abtretung v. 20.03.2026 noch nicht eingetragen; GF aufgefordert"
+ - typ: "Gesellschafterliste § 40 GmbHG"
+ faellig: "2026-04-05"
+ faelligkeits_grundlage: "Unverzüglich nach Abtretung März 2026"
+ zuletzt_eingereicht: "2025-11-15"
+ status: "überfällig"
+ notizen: "Abtretung v. 20.03.2026 noch nicht eingetragen; GF aufgefordert"
 
-      - typ: "Transparenzregister § 20 GwG"
-        faellig: "2026-04-03"
-        faelligkeits_grundlage: "Änderung wirtschaftlich Berechtigter März 2026 + 2 Wochen"
-        zuletzt_eingereicht: "2025-11-15"
-        status: "überfällig"
-        notizen: "Neuer wirtschaftlich Berechtigter nach Abtretung"
+ - typ: "Transparenzregister § 20 GwG"
+ faellig: "2026-04-03"
+ faelligkeits_grundlage: "Änderung wirtschaftlich Berechtigter März 2026 + 2 Wochen"
+ zuletzt_eingereicht: "2025-11-15"
+ status: "überfällig"
+ notizen: "Neuer wirtschaftlich Berechtigter nach Abtretung"
 
-      - typ: "Jahresabschlussprüfung § 316 HGB"
-        faellig: "2026-05-31"
-        faelligkeits_grundlage: "Vor Feststellung und Offenlegung GJ 2025"
-        zuletzt_eingereicht: null
-        status: "bald_fällig"
-        notizen: "Prüfungsauftrag an KPMG erteilt 01.02.2026"
+ - typ: "Jahresabschlussprüfung § 316 HGB"
+ faellig: "2026-05-31"
+ faelligkeits_grundlage: "Vor Feststellung und Offenlegung GJ 2025"
+ zuletzt_eingereicht: null
+ status: "bald_fällig"
+ notizen: "Prüfungsauftrag an KPMG erteilt 01.02.2026"
 ```
 
 ## Tracker-Datei (technische Beschreibung)
@@ -876,21 +876,21 @@ GESELLSCHAFTS-COMPLIANCE-BERICHT — [Datum]
 [Unternehmensname]
 
 ÜBERFÄLLIG ([N]):
-  [Gesellschaft] / [Pflicht] — war fällig am [Datum]
+ [Gesellschaft] / [Pflicht] — war fällig am [Datum]
 
 FÄLLIG INNERHALB [N] TAGE ([N]):
-  [Gesellschaft] / [Pflicht] — fällig [Datum]
+ [Gesellschaft] / [Pflicht] — fällig [Datum]
 
 KÜRZLICH EINGEREICHT ([N] in letzten 90 Tagen):
-  [Gesellschaft] / [Pflicht] — eingereicht [Datum]
+ [Gesellschaft] / [Pflicht] — eingereicht [Datum]
 
 UNBEKANNTER STATUS ([N]):
-  [Gesellschaft] / [Pflicht] — keine Information; direkt beim Registerführer bestätigen
+ [Gesellschaft] / [Pflicht] — keine Information; direkt beim Registerführer bestätigen
 
 TRANSPARENZREGISTER:
-  Zuletzt geprüft: [Datum]
-  Gesellschaften mit aktueller Eintragung: [N] von [N]
-  Gesellschaften ohne Prüfung in letzten 12 Monaten: [Liste]
+ Zuletzt geprüft: [Datum]
+ Gesellschaften mit aktueller Eintragung: [N] von [N]
+ Gesellschaften ohne Prüfung in letzten 12 Monaten: [Liste]
 ```
 
 ## Modus 3: Update
@@ -928,22 +928,22 @@ Massen-Update: Wirtschaftsprüfer-Bericht oder HR-Auszug hochladen; Matching-Ges
 GESELLSCHAFTS-GESUNDHEITS-AUDIT — [Datum]
 
 EINREICHUNGS-COMPLIANCE
-  Überfällig: [N]
-  Unbekannter Status: [N]
+ Überfällig: [N]
+ Unbekannter Status: [N]
 
 RUHENDE GESELLSCHAFTEN ([N])
-  [Liste mit Alter und jährlichen Tragekosten]
+ [Liste mit Alter und jährlichen Tragekosten]
 
 TRANSPARENZREGISTER
-  Nicht eingetragen / geprüft: [N] Gesellschaften
+ Nicht eingetragen / geprüft: [N] Gesellschaften
 
 BILANZPUBLIZITÄT § 325 HGB
-  Überfällig (>12 Monate): [N] Gesellschaften
-  Ordnungsgeldgefahr BfJ: [Liste]
+ Überfällig (>12 Monate): [N] Gesellschaften
+ Ordnungsgeldgefahr BfJ: [Liste]
 
 EMPFOHLENE MASSNAHMEN
-  1. [Höchste Priorität]
-  2. [etc.]
+ 1. [Höchste Priorität]
+ 2. [etc.]
 ```
 
 ## Modus 5: Export

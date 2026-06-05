@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-umwandlungsrecht
-description: "Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. §§ 2-38 UmwG Verschmelzung, §§ 123-173 UmwG Spaltung, §§ 190-304 UmwG Formwechsel. Prüfraster notarielle Schritte Registerpflichten Arbeitnehmerschutz Gläubigerschutz steuerliche Rückwirkung M&A-Zeitplan. Output Umwandlungs-Workflow mit Schritt-fuer-Schritt-Plan und Zeitplan-Integration. Abgrenzung zu Umwandlungssteuerrecht und zu Transaktionsstruktur."
+description: "Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. §§ 2-38 UmwG Verschmelzung, §§ 123-173 UmwG Spaltung, §§ 190-304 UmwG Formwechsel. Prüfraster notarielle Schritte Registerpflichten Arbeitnehmerschutz Gläubigerschutz steuerliche Rückwirkung M&A-Zeitplan. Output Umwandlungs-mit Schritt-fuer-Schritt-Plan und Zeitplan-Integration. Abgrenzung zu Umwandlungssteuerrecht und zu Transaktionsstruktur."
 ---
 
 # Umwandlungsrecht
@@ -165,7 +165,7 @@ Art: [VERSCHMELZUNG / AUSGLIEDERUNG / FORMWECHSEL]
 Rechtsträger: [UEBERTR. RT] → [AUFNEHMENDER RT]
 Zieldatum Eintragung: [DATUM]
 
-SCHRITT        | VERANTWORTLICHER | TERMIN  | STATUS
+SCHRITT | VERANTWORTLICHER | TERMIN | STATUS
 Umwandlungsvertrag/-plan | [NAME] | [DATUM] | [ ]
 Umwandlungsbericht | [NAME] | [DATUM] | [ ]
 Pruefung (falls pflichtig) | [PRUEFER] | [DATUM] | [ ]

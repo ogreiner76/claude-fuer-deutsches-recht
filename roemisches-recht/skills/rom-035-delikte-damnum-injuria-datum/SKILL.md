@@ -1,6 +1,6 @@
 ---
 name: rom-035-delikte-damnum-injuria-datum
-description: "Römisches Recht: Delikte Damnum Injuria Datum. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Delikte Damnum Injuria Datum. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Delikte Damnum Injuria Datum

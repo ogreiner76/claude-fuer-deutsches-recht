@@ -1,13 +1,13 @@
 ---
 name: elterngeld-elterngeldstellen-em-rente
-description: "Nutze dies, wenn Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X, Erwerbsminderungs Rente Streit Sgb Vi im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X, Erwerbsminderungs Rente Streit Sgb Vi prüfen.; Erstelle eine Arbeitsfassung zu Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X, Erwerbsminderungs Rente Streit Sgb Vi.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X, Erwerbsminderungs Rente Streit Sgb Vi
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X, Erwerbsminderungs Rente Streit Sgb Vi** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -214,7 +214,7 @@ Beim Versorgungsamt (oder Bezirksregierung — Land je nach Bundesland):
 ### Schritt 5 — Bei Ablehnung Widerspruch
 
 ```
-Versorgungsamt / Bezirksregierung [...]            [Ort, Datum]
+Versorgungsamt / Bezirksregierung [...] [Ort, Datum]
 
 Az: [...]
 
@@ -227,20 +227,20 @@ gegen den o.g. Bescheid lege ich Widerspruch ein.
 Begruendung:
 
 1. Tatbestand der Gewalttat
-   Am [Datum] erfolgte gegen mich Gewalttat in Form von [...]. Polizei-Akte Az [...].
+ Am [Datum] erfolgte gegen mich Gewalttat in Form von [...]. Polizei-Akte Az [...].
 
 2. Gesundheitliche Folgen
-   Diagnosen:
-   - PTBS (ICD F43.1) - Diagnose-Datum [...]
-   - Depression (F33) - Diagnose-Datum [...]
-   - [koerperliche Folgen]
-   Belege: Atteste Dr. [Name], Therapeutin Dr. [Name].
+ Diagnosen:
+ - PTBS (ICD F43.1) - Diagnose-Datum [...]
+ - Depression (F33) - Diagnose-Datum [...]
+ - [koerperliche Folgen]
+ Belege: Atteste Dr. [Name], Therapeutin Dr. [Name].
 
 3. Ursaechlichkeit
-   Die psychischen Folgen sind nach aerztlicher Einschaetzung ursaechlich auf die Gewalttat zurueckzufuehren.
+ Die psychischen Folgen sind nach aerztlicher Einschaetzung ursaechlich auf die Gewalttat zurueckzufuehren.
 
 4. GdS Bewertung
-   Nach Versorgungsmedizinischen Grundsaetzen ist GdS mindestens [Wert] gegeben.
+ Nach Versorgungsmedizinischen Grundsaetzen ist GdS mindestens [Wert] gegeben.
 
 Mit freundlichen Gruessen
 ```
@@ -421,7 +421,7 @@ Verlauf darstellen: Wann begann die Verschlechterung? Welche Therapien wurden ve
 ### Schritt 4 — Widerspruch
 
 ```
-Deutsche Rentenversicherung [Traeger]               [Ort, Datum]
+Deutsche Rentenversicherung [Traeger] [Ort, Datum]
 
 Versicherungs-Nr: [...]
 
@@ -431,26 +431,26 @@ Sehr geehrte Damen und Herren,
 
 gegen den o.g. Bescheid lege ich
 
-           Widerspruch
+ Widerspruch
 
 ein.
 
 Vorlaeufige Begruendung:
 
 1. Versicherungsrechtliche Voraussetzungen erfuellt
-   - Wartezeit 5 Jahre erfuellt seit [Datum]
-   - 3 Jahre Pflichtbeitraege in den letzten 5 Jahren vor [Datum der Erwerbsminderung]
+ - Wartezeit 5 Jahre erfuellt seit [Datum]
+ - 3 Jahre Pflichtbeitraege in den letzten 5 Jahren vor [Datum der Erwerbsminderung]
 
 2. Medizinische Voraussetzungen
-   - Diagnosen: [Liste mit ICD-Codes]
-   - Aktuelles Leistungsvermoegen: weniger als 3 Stunden taeglich
-   - Belege: Atteste meines Hausarztes Dr. [Name] vom [Datum] und Facharztes Dr. [Name] vom [Datum]
+ - Diagnosen: [Liste mit ICD-Codes]
+ - Aktuelles Leistungsvermoegen: weniger als 3 Stunden taeglich
+ - Belege: Atteste meines Hausarztes Dr. [Name] vom [Datum] und Facharztes Dr. [Name] vom [Datum]
 
 3. Verschlossener Teilzeitarbeitsmarkt (hilfsweise)
-   Sollte ein Leistungsvermoegen von 3 bis unter 6 Stunden angenommen werden, ist der Teilzeitarbeitsmarkt fuer mich verschlossen.
+ Sollte ein Leistungsvermoegen von 3 bis unter 6 Stunden angenommen werden, ist der Teilzeitarbeitsmarkt fuer mich verschlossen.
 
 4. Berufsschutz § 240 SGB VI (falls Jahrgang vor 02.01.1961)
-   Berufsschutz ist gegeben.
+ Berufsschutz ist gegeben.
 
 Beigefuegt:
 - Aerztliche Befundberichte

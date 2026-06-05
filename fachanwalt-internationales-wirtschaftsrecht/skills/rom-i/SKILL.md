@@ -1,13 +1,13 @@
 ---
 name: rom-i
-description: "Nutze dies, wenn Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Fachanwalt Internationales Wirtschaftsrecht Rom I Anwendbarkeit im Plugin Fachanwalt Internationales Wirtschaftsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Mandantenkommunikation, Redteam Qualitygate, Fachanwalt Internationales Wirtschaftsrecht Rom I Anwendbarkeit: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Fachanwalt Internationales Wirtschaftsrecht Rom I Anwendbarkeit
+# Mandantenkommunikation, Redteam Qualitygate, Fachanwalt Internationales Wirtschaftsrecht Rom I Anwendbarkeit
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mandantenkommunikation, Redteam Qualitygate, Fachanwalt Internationales Wirtschaftsrecht Rom I Anwendbarkeit** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Fachanwalt Internationales Wirtschaftsrecht Rom I Anwendbarkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Mandantenkommunikation, Redteam Qualitygate, Fachanwalt Internationales Wirtschaftsrecht Rom I Anwendbarkeit** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-internationales-wirtschaftsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,10 +31,10 @@ Für **Workflow Mandantenkommunikation, Workflow Redteam Qualitygate, Fachanwalt
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-internationales-wirtschaftsrecht` Mandantenkommunikation im Plugin fachanwalt-internationales-wirtschaftsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-internationales-wirtschaftsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -44,7 +44,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -66,10 +66,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-internationales-wirtschaftsrecht` Red-Team Qualitygate im Plugin fachanwalt-internationales-wirtschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-internationales-wirtschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -79,7 +79,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -138,10 +138,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 2. Zeitlicher Anwendungsbereich (Vertraege ab 17.12.2009)
 3. Rechtswahl Art. 3 Rom I — explizit oder konkludent
 4. Sonderkonstellationen:
-   - Verbrauchervertrag Art. 6 — gewoehnlicher Aufenthalt + ausgerichtete Taetigkeit
-   - Arbeitsvertrag Art. 8 — gewoehnlicher Arbeitsort
-   - Befoerderung Art. 5
-   - Versicherung Art. 7
+ - Verbrauchervertrag Art. 6 — gewoehnlicher Aufenthalt + ausgerichtete Taetigkeit
+ - Arbeitsvertrag Art. 8 — gewoehnlicher Arbeitsort
+ - Befoerderung Art. 5
+ - Versicherung Art. 7
 5. Mangels Rechtswahl Art. 4 Rom I anwenden
 6. Ausweichklausel Art. 4 Abs. 3 Rom I pruefen
 7. Eingriffsnormen Art. 9 Rom I (lex fori + ggf. Erfuellungsstaat)
@@ -173,19 +173,19 @@ namens und in Vollmacht unserer Mandantschaft nehmen wir wie folgt zum
 anwendbaren Recht Stellung:
 
 1. Der Vertrag vom [Datum] enthaelt in Ziffer [X] eine ausdrueckliche
-   Rechtswahl zugunsten deutschen Rechts. Diese ist nach Art. 3 Abs. 1
-   Rom-I-VO wirksam.
+ Rechtswahl zugunsten deutschen Rechts. Diese ist nach Art. 3 Abs. 1
+ Rom-I-VO wirksam.
 
 2. Hilfsweise: Auch ohne Rechtswahl waere deutsches Recht nach Art. 4
-   Abs. 1 lit. a Rom-I-VO anwendbar weil der Verkaeufer seinen
-   gewoehnlichen Aufenthalt in Deutschland hat.
+ Abs. 1 lit. a Rom-I-VO anwendbar weil der Verkaeufer seinen
+ gewoehnlichen Aufenthalt in Deutschland hat.
 
 3. Die international zwingenden Eingriffsnormen — insbesondere die
-   Sanktionen der EU-Verordnung [...] — bleiben nach Art. 9 Rom-I-VO
-   anwendbar.
+ Sanktionen der EU-Verordnung [...] — bleiben nach Art. 9 Rom-I-VO
+ anwendbar.
 
 4. Verbraucherschutzvorschriften Art. 6 Rom-I-VO sind nicht
-   einschlaegig weil beide Parteien Unternehmer sind.
+ einschlaegig weil beide Parteien Unternehmer sind.
 
 Mit freundlichen Gruessen
 ```
@@ -231,17 +231,17 @@ Vertrag: [BEZEICHNUNG] vom [DATUM]
 Parteien: [KLAEGER] (Sitz: [LAND]) ./. [BEKLAGTER] (Sitz: [LAND])
 
 1. Rechtswahl (Art. 3 Rom I):
-   [JA: [RECHTSORDNUNG] — Nachweis: Klausel X / NEIN: Objektive Anknuepfung]
+ [JA: [RECHTSORDNUNG] — Nachweis: Klausel X / NEIN: Objektive Anknuepfung]
 
 2. Objektive Anknuepfung Art. 4 Rom I:
-   Vertragstyp: [KAUF/DIENSTLEISTUNG/...]
-   Charakteristische Leistung: [VERKAEUFER/DIENSTLEISTER]
-   Gewoehnlicher Aufenthalt Leistungserbringer: [LAND]
-   → Anwendbares Recht: [RECHTSORDNUNG]
+ Vertragstyp: [KAUF/DIENSTLEISTUNG/...]
+ Charakteristische Leistung: [VERKAEUFER/DIENSTLEISTER]
+ Gewoehnlicher Aufenthalt Leistungserbringer: [LAND]
+ → Anwendbares Recht: [RECHTSORDNUNG]
 
 3. Eingriffsnormen (Art. 9 Rom I):
-   [KEINE / JA: [BESCHREIBUNG]]
+ [KEINE / JA: [BESCHREIBUNG]]
 
 4. Ergebnis:
-   Auf den vorliegenden Vertrag ist [RECHTSORDNUNG] anwendbar.
+ Auf den vorliegenden Vertrag ist [RECHTSORDNUNG] anwendbar.
 ```

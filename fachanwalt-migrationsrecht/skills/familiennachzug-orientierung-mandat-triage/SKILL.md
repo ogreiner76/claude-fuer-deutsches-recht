@@ -1,21 +1,21 @@
 ---
 name: familiennachzug-orientierung-mandat-triage
-description: "Nutze dies, wenn Fachanwalt Migrationsrecht Familiennachzug, Fachanwalt Migrationsrecht Orientierung, Mandat Triage Migrationsrecht, Migr Asyl Folge Und Zweitantrag Spezial im Plugin Fachanwalt Migrationsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Migrationsrecht Familiennachzug, Fachanwalt Migrationsrecht Orientierung, Mandat Triage Migrationsrecht, Migr Asyl Folge Und Zweitantrag Spezial prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Migrationsrecht Familiennachzug, Fachanwalt Migrationsrecht Orientierung, Mandat Triage Migrationsrecht, Migr Asyl Folge Und Zweitantrag Spezial.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Migrationsrecht Familiennachzug, Fachanwalt Migrationsrecht Orientierung, Mandat Triage Migrationsrecht, Migr Asyl Folge Und Zweitantrag Spezial: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Migrationsrecht Familiennachzug, Fachanwalt Migrationsrecht Orientierung, Mandat Triage Migrationsrecht, Migr Asyl Folge Und Zweitantrag Spezial
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-migrationsrecht-familiennachzug` | Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren. Prüfraster §§ 27-36 AufenthG Familiennachzug Lebensunterhalt Wohnraum Sprachkenntnisse A1. Beschleunigtes Visum-Verfahren Familiennachzug zu Schutzbedürftigen nach § 36a AufenthG. Normen § 27 AufenthG Grundsatz § 28 AufenthG Ehegatten § 32 AufenthG Kinder. Output Nachzugs-Prüf-Memo Antragscheckliste Visum-Entwurf Klage-Option bei Ablehnung. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für eigenständige Titelerteilung. |
-| `fachanwalt-migrationsrecht-orientierung` | Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate verifizierbare Quellen. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-migrationsrecht für konkreten Mandats-Einstieg. |
-| `mandat-triage-migrationsrecht` | Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Überstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-prüfung und Spezial-Skills. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden). |
+| `fachanwalt-migrationsrecht-orientierung` | Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate verifizierbare Quellen. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-migrationsrecht für konkreten Mandats-Einstieg. |
+| `mandat-triage-migrationsrecht` | Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Überstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-prüfung und Fachmodule. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden). |
 | `migr-asyl-folge-und-zweitantrag-spezial` | Spezialfall Asyl-Folge- und Zweitantrag: § 71 AsylG, neue Beweismittel, geaenderte Sachlage. Antragsbegruendung, Erfolgschancen, Eilantrag Aufschiebende Wirkung. Mustertexte und aktuelle Rechtsprechung BVerwG. |
 
 ## Arbeitsweg
@@ -76,8 +76,8 @@ Visum / Aufenthaltstitel für Familienangehörige eines in Deutschland lebenden 
 ### Standard
 
 - Netto-Einkommen Stamm-Inhaber muss reichen für:
-  - Eigenen Lebensunterhalt
-  - Lebensunterhalt aller mitnachziehenden
+ - Eigenen Lebensunterhalt
+ - Lebensunterhalt aller mitnachziehenden
 - Mietkosten + Sozialhilfe-Bedarfssatz als Maßstab
 
 ### Ausnahmen
@@ -213,8 +213,8 @@ Visumstelle
 [ADRESSE]
 
 Re: Visumsantrag Familiennachzug fuer [ANTRAGSTELLER NAME, geb. DATUM]
-    zu [STAMMINHABER NAME, AufenthaltsstT/NE, wohnhaft ADRESSE D]
-    Visumantrag-Nr.: [falls vorhanden]
+ zu [STAMMINHABER NAME, AufenthaltsstT/NE, wohnhaft ADRESSE D]
+ Visumantrag-Nr.: [falls vorhanden]
 
 Sehr geehrte Damen und Herren,
 
@@ -231,8 +231,8 @@ II. ANSPRUCHSGRUNDLAGE
 
 III. VORAUSSETZUNGEN LIEGEN VOR
 a) Lebensunterhalt: Netto-Einkommen [BETRAG EUR] (Einkommensnachweise
-   Anlage 2). Der Bedarf fuer 2 Personen betraegt nach Sozialrechtssaetzen
-   ca. [BETRAG] EUR. Deckung gegeben.
+ Anlage 2). Der Bedarf fuer 2 Personen betraegt nach Sozialrechtssaetzen
+ ca. [BETRAG] EUR. Deckung gegeben.
 b) Wohnraum: [Groesse m2] — ausreichend fuer [X] Personen (Anlage 3: Mietvertrag).
 c) Sprachkenntnis: A1-Zertifikat Anlage 4. [ODER: Ausnahme wegen ...]
 d) Keine Ausweisungsinteressen (§ 5 Abs. 1 Nr. 2 AufenthG).
@@ -253,7 +253,7 @@ Wir bitten um zeitnahe Bearbeitung und stehen fuer Rueckfragen zur Verfuegung.
 
 ## 2. `fachanwalt-migrationsrecht-orientierung`
 
-**Fokus:** Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate verifizierbare Quellen. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-migrationsrecht für konkreten Mandats-Einstieg.
+**Fokus:** Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate verifizierbare Quellen. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-migrationsrecht für konkreten Mandats-Einstieg.
 
 
 # Fachanwalt für Migrationsrecht — Orientierung
@@ -359,26 +359,26 @@ Mandant: [NAME, GEBURTSDATUM, NATIONALITAET]
 Datum: [DATUM]
 
 1. AKTUELLER STATUS
-   Aufenthaltsstatus: [Gestattung / Duldung / AE § ... / NE]
-   Laufendes Verfahren: [BAMF-Az. / VG-Az.]
+ Aufenthaltsstatus: [Gestattung / Duldung / AE § ... / NE]
+ Laufendes Verfahren: [BAMF-Az. / VG-Az.]
 
 2. MOEGLICHE ANSPRUECHE / ROUTEN
-   a) Asylrechtliche Route: [Erstantrag / Folgeantrag § 71 AsylG / Klage]
-   b) Humanitaerer Aufenthaltstitel: [§ 25 Abs. ... AufenthG]
-   c) Abschiebungsschutz: [§ 60 Abs. 5 / Abs. 7 AufenthG / § 60a]
-   d) Familiennachzug: [§§ 27 ff. AufenthG — Grundvoraussetzungen gegeben?]
+ a) Asylrechtliche Route: [Erstantrag / Folgeantrag § 71 AsylG / Klage]
+ b) Humanitaerer Aufenthaltstitel: [§ 25 Abs. ... AufenthG]
+ c) Abschiebungsschutz: [§ 60 Abs. 5 / Abs. 7 AufenthG / § 60a]
+ d) Familiennachzug: [§§ 27 ff. AufenthG — Grundvoraussetzungen gegeben?]
 
 3. NAECHSTE SCHRITTE
-   - [Schritt 1 mit Frist und Verantwortlichem]
-   - [Schritt 2]
+ - [Schritt 1 mit Frist und Verantwortlichem]
+ - [Schritt 2]
 
 4. FRISTEN
-   Naechste Klagefrist: [DATUM]
-   Titelablauf: [DATUM]
+ Naechste Klagefrist: [DATUM]
+ Titelablauf: [DATUM]
 
 5. KOSTEN
-   PKH-Antrag: [gestellt / noch nicht gestellt / nicht erforderlich]
-   Beratungshilfe: [ja / nein]
+ PKH-Antrag: [gestellt / noch nicht gestellt / nicht erforderlich]
+ Beratungshilfe: [ja / nein]
 ```
 
 <!-- AUDIT 27.05.2026
@@ -393,7 +393,7 @@ dejure.org/2013,2363 (NJW 2013, 1415).
 
 ## 3. `mandat-triage-migrationsrecht`
 
-**Fokus:** Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Überstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-prüfung und Spezial-Skills. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden).
+**Fokus:** Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Überstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-prüfung und Fachmodule. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden).
 
 
 # Mandat-Triage Migrationsrecht

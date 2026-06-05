@@ -75,7 +75,7 @@ Bei PKH koennen eigene Fahrtkosten ebenfalls erstattet werden, wenn das im PKH-B
 Beim SG die Erstattung formlos beantragen mit Belegen:
 
 ```
-Sozialgericht [Ort]                                 [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 Az: [...]
 

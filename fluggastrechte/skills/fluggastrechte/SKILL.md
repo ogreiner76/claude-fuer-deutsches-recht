@@ -1,12 +1,12 @@
 ---
 name: fluggastrechte
-description: "Nutze dies, wenn Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Bitte Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel prüfen.; Erstelle eine Arbeitsfassung zu Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Spezialwissen: Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel / spezial fluggastrechte erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel / fluggastrechte erstpruefung und mandatsziel. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VO, EG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

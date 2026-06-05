@@ -1,13 +1,13 @@
 ---
 name: anfechtungs-eilrechtsschutz-abs
-description: "Nutze dies, wenn Spezial Anfechtungs Risikoampel Und Gegenargumente, Spezial Eilrechtsschutz 80 Abs 5 Vwgo, Spezial Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Anfechtungs Risikoampel Und Gegenargumente, Spezial Eilrechtsschutz 80 Abs 5 Vwgo, Spezial Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Spezial Anfechtungs Risikoampel Und Gegenargumente, Spezial Eilrechtsschutz 80 Abs 5 Vwgo, Spezial Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anfechtungs Risikoampel Und Gegenargumente, Eilrechtsschutz 80 Abs 5 Vwgo, Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Anfechtungs Risikoampel Und Gegenargumente, Spezial Eilrechtsschutz 80 Abs 5 Vwgo, Spezial Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine
+# Anfechtungs Risikoampel Und Gegenargumente, Eilrechtsschutz 80 Abs 5 Vwgo, Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anfechtungs Risikoampel Und Gegenargumente, Eilrechtsschutz 80 Abs 5 Vwgo, Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Anfechtungs Risikoampel Und Gegenargumente, Spezial Eilrechtsschutz 80 Abs 5 Vwgo, Spezial Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verwaltungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Anfechtungs Risikoampel Und Gegenargumente, Eilrechtsschutz 80 Abs 5 Vwgo, Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-verwaltungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Anfechtungs Risikoampel Und Gegenargumente, Spezial Eilrechtsschu
 # Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Spezialwissen: Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Spezialgegenstand:** Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien / spezial anfechtungs risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien / anfechtungs risikoampel und gegenargumente. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, VwVfG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -72,11 +72,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Eilrechtsschutz nach § 80 Abs. 5 VwGO
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `fachanwalt-verwaltungsrecht`. Kontext des Plugins: Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `fachanwalt-verwaltungsrecht`. Kontext des Plugins: Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
-## Kaltstart
+## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -111,7 +111,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 # Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine / spezial eilrechtsschutz schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine / eilrechtsschutz schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** VwGO, VwVfG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

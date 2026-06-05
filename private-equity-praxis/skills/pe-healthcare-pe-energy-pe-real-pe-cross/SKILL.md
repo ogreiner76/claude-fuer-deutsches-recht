@@ -1,13 +1,13 @@
 ---
 name: pe-healthcare-pe-energy-pe-real-pe-cross
-description: "Nutze dies, wenn Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment im Plugin Private Equity Praxis konkret bearbeitet werden soll. Auslöser: Bitte Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment prüfen.; Erstelle eine Arbeitsfassung zu Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

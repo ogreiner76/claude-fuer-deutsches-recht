@@ -1,34 +1,34 @@
 ---
 name: fachanwalt-steuer-schnittstelle-erstgespraech
-description: "Nutze dies, wenn Spezial Steuer Schnittstelle Vermietung, Erstgespraech Mandatsannahme, Fachanwalt Miet Weg Mediation Mietverein Schlichtung, Fachanwalt Miet Weg Waermepumpe Geg, Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung im Plugin Fachanwalt Miet Wohnungseigentumsrecht konkret bearbeitet werden soll. Auslöser: Bitte Spezial Steuer Schnittstelle Vermietung, Erstgespraech Mandatsannahme, Fachanwalt Miet Weg Mediation Mietverein Schlichtung, Fachanwalt Miet Weg Waermepumpe Geg, Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung prüfen.; Erstelle eine Arbeitsfassung zu Spezial Steuer Schnittstelle Vermietung, Erstgespraech Mandatsannahme, Fachanwalt Miet Weg Mediation Mietverein Schlichtung, Fachanwalt Miet Weg Waermepumpe Geg, Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Steuer Schnittstelle Vermietung, Erstgespraech Mandatsannahme, Fachanwalt Miet Weg Mediation Mietverein Schlichtung, Fachanwalt Miet Weg Waermepumpe Geg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Steuer Schnittstelle Vermietung, Erstgespraech Mandatsannahme, Fachanwalt Miet Weg Mediation Mietverein Schlichtung, Fachanwalt Miet Weg Waermepumpe Geg, Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung
+# Steuer Schnittstelle Vermietung, Erstgespraech Mandatsannahme, Fachanwalt Miet Weg Mediation Mietverein Schlichtung, Fachanwalt Miet Weg Waermepumpe Geg, Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Steuer Schnittstelle Vermietung, Erstgespraech Mandatsannahme, Fachanwalt Miet Weg Mediation Mietverein Schlichtung, Fachanwalt Miet Weg Waermepumpe Geg, Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-steuer-schnittstelle-vermietung` | Steuer-Schnittstelle Vermietung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
+| `spezial-steuer-schnittstelle-vermietung` | Steuer-Schnittstelle Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
-| `fachanwalt-miet-weg-mediation-mietverein-schlichtung` | Miet- und WEG-Streit Mediation. Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Workflow Mietminderung-Vergleich Räumungsverzicht-Verhandlung. |
+| `fachanwalt-miet-weg-mediation-mietverein-schlichtung` | Miet- und WEG-Streit Mediation. Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Mietminderung-Vergleich Räumungsverzicht-Verhandlung. |
 | `fachanwalt-miet-weg-waermepumpe-geg` | Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschluesse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. Abgrenzung bauliche Veraenderung § 20 Abs. 1 WEG. Beschlussanfechtung § 44 WEG. Schallschutz LG Muenchen I. Mietrechtliche Modernisierungsankündigung § 555c BGB. KfW-Foerderung BAFA BEG-EM. |
-| `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` | Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` | Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
-Für **Spezial Steuer Schnittstelle Vermietung, Erstgespraech Mandatsannahme, Fachanwalt Miet Weg Mediation Mietverein Schlichtung, Fachanwalt Miet Weg Waermepumpe Geg, Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Steuer Schnittstelle Vermietung, Erstgespraech Mandatsannahme, Fachanwalt Miet Weg Mediation Mietverein Schlichtung, Fachanwalt Miet Weg Waermepumpe Geg, Fachanwalt Miet Wohnungseigentumsrecht Eigenbedarfskuendigung** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-miet-wohnungseigentumsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-steuer-schnittstelle-vermietung`
 
-**Fokus:** Steuer-Schnittstelle Vermietung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Steuer-Schnittstelle Vermietung: Fachmodul im Miet- und Wohnungseigentumsrecht; erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Steuer-Schnittstelle Vermietung
 
@@ -42,9 +42,9 @@ Für **Spezial Steuer Schnittstelle Vermietung, Erstgespraech Mandatsannahme, Fa
 
 
 ## Aufgabe
-Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail.
+Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail.
 
-## Kaltstart
+## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
 3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
@@ -265,7 +265,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fachanwalt-miet-weg-mediation-mietverein-schlichtung`
 
-**Fokus:** Miet- und WEG-Streit Mediation. Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Workflow Mietminderung-Vergleich Räumungsverzicht-Verhandlung.
+**Fokus:** Miet- und WEG-Streit Mediation. Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Mietminderung-Vergleich Räumungsverzicht-Verhandlung.
 
 # Miet-/WEG-Mediation und Mietvereins-Schlichtung
 
@@ -398,15 +398,15 @@ VERGLEICH
 Die Parteien einigen sich wie folgt:
 
 1. Der Beklagte verpflichtet sich, die Wohnung
-   [ADRESSE, LAGE] bis spaetestens [DATUM]
-   geraeumtem Zustand zu verlassen und an
-   den Klaeager herauszugeben.
+ [ADRESSE, LAGE] bis spaetestens [DATUM]
+ geraeumtem Zustand zu verlassen und an
+ den Klaeager herauszugeben.
 
 2. Der Klaeager verzichtet auf rueckstaendige
-   Miete bis [DATUM] in Hoehe von EUR [BETRAG].
+ Miete bis [DATUM] in Hoehe von EUR [BETRAG].
 
 3. Die Kosten des Rechtsstreits werden gegeneinander
-   aufgehoben.
+ aufgehoben.
 
 Vollstreckbare Ausfertigung: fuer [VERMIETER]
 ```
@@ -529,23 +529,23 @@ TOP [Nr.]: Heizungstausch — Einbau Wärmepumpe
 Die Eigentümerversammlung beschließt:
 
 1. Die bestehende Heizungsanlage (Baujahr [Jahr]) wird durch
-   eine Luft-Wasser-Wärmepumpe [Marke, Modell] ersetzt.
+ eine Luft-Wasser-Wärmepumpe [Marke, Modell] ersetzt.
 
 2. Der Auftrag wird an die Firma [Handwerker] zum Angebots-
-   preis von EUR [Betrag] (Anlage 1: Kostenvoranschlag) erteilt.
+ preis von EUR [Betrag] (Anlage 1: Kostenvoranschlag) erteilt.
 
 3. Die Anlage wird im/auf dem [Gemeinschaftseigentum: Garten /
-   Kellerraum / Dach] aufgestellt. Das Schallschutzgutachten
-   der [Ingenieurbüro] vom [Datum] (Anlage 2) weist die
-   Einhaltung der Richtwerte der TA Lärm nach.
+ Kellerraum / Dach] aufgestellt. Das Schallschutzgutachten
+ der [Ingenieurbüro] vom [Datum] (Anlage 2) weist die
+ Einhaltung der Richtwerte der TA Lärm nach.
 
 4. Die Kosten werden nach Miteigentumsanteilen verteilt
-   (§ 21 Abs. 1 WEG). Unter Berücksichtigung der
-   BAFA-Förderung von EUR [Betrag] trägt jeder Eigentümer
-   EUR [Betrag] (Liste Anlage 3).
+ (§ 21 Abs. 1 WEG). Unter Berücksichtigung der
+ BAFA-Förderung von EUR [Betrag] trägt jeder Eigentümer
+ EUR [Betrag] (Liste Anlage 3).
 
 5. Die Hausverwaltung wird beauftragt, den BAFA-Förderantrag
-   vor Auftragserteilung einzureichen.
+ vor Auftragserteilung einzureichen.
 
 Ergebnis: [Stimmen dafür] dafür, [Stimmen dagegen] dagegen,
 [Enthaltungen] Enthaltungen.
@@ -561,14 +561,14 @@ An [Mieter / Mieterin der Wohnung [Anschrift]]
 Wir kündigen folgende Modernisierungsmaßnahme an:
 
 Art: Austausch der Zentralheizungsanlage durch eine
-     Luft-Wasser-Wärmepumpe und hydraulischen Abgleich
-     gemäß GEG-Anforderungen.
+ Luft-Wasser-Wärmepumpe und hydraulischen Abgleich
+ gemäß GEG-Anforderungen.
 
 Umfang: Außeneinheit im Garten, neue Inneneinheit Keller,
-        Leitungsanpassungen in den Wohnungen.
+ Leitungsanpassungen in den Wohnungen.
 
 Beginn: [Datum — mindestens drei Monate nach Zugang]
-Dauer:  voraussichtlich [x] Wochen
+Dauer: voraussichtlich [x] Wochen
 
 Voraussichtliche Mieterhöhung nach § 559 BGB:
 EUR [Betrag] / Monat (= 8 % p. a. von EUR [Kosten Anteil Wohnung])
@@ -644,9 +644,9 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 - BGB §§ 555b–555e, 559–559b
 - CO2KostAufG: Wohngebäude nach Stufenmodell (§§ 5 bis 7); Nichtwohngebäude aktuell nach § 8 Abs. 1 und 2 mit hälftiger Aufteilung bzw. maximal 50 Prozent Mieteranteil. § 8 Abs. 4 und die Evaluation 04/2026 begründen noch kein verbindliches Stufenmodell für Nichtwohngebäude.
 - Verifizierte BGH-Rechtsprechung (Stand 05/2026):
-  - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
-  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / unbillige Benachteiligung): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&anz=1&nr=141426&pos=0
-  - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+ - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
+ - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / unbillige Benachteiligung): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&anz=1&nr=141426&pos=0
+ - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 - Weitere Rechtsprechung vor Verwendung live ueber dejure.org/openjur.de/bundesgerichtshof.de pruefen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Förderrichtlinie BEG Einzelmaßnahmen 2024
@@ -654,7 +654,7 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 
 ## 5. `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung`
 
-**Fokus:** Workflow-Skill zu fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt miet wohnungseigentumsrecht eigenbedarfskuendigung: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB
 
@@ -748,7 +748,7 @@ Berechnung: vom 3. Werktag des Monats
 - Mieter trägt Beweislast für Vortaeuschung
 - Indizien: Wiedervermietung, Verkauf, Renovierung mit Neumieter-Suche
 
-## 6) Workflow Vermieter-Kündigung
+## 6) Vermieter-Kündigung
 
 ### Schritt 1 — Eigenbedarf konkretisieren
 

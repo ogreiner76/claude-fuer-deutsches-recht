@@ -1,23 +1,23 @@
 ---
 name: avv-agb-b2b-harte-b2c-b2b2c-backup
-description: "Nutze dies, wenn Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb prüfen.; Erstelle eine Arbeitsfassung zu Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Avv Und Agb Schnittstelle, B2b Harte Fassung, B2c B2b B2b2c Rollencheck, Backup Datenverlust: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, Backup Datenverlust, Bank Agb** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `avv-und-agb-schnittstelle` | Branchen-Spezialskill für AVV und AGB Schnittstelle: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `avv-und-agb-schnittstelle` | Branchen-Fachmodul für AVV und AGB Schnittstelle: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `b2b-harte-fassung` | Output- und Streit-Skill für B2B Harte Fassung: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `b2c-b2b-b2b2c-rollencheck` | Einstiegs- und Workflow-Skill für B2C B2B B2B2C Rollencheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
-| `backup-datenverlust` | Klausel-Spezialskill für Backup Datenverlust: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `bank-agb` | Branchen-Spezialskill für Bank AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `b2c-b2b-b2b2c-rollencheck` | Einstiegs- und Arbeitsmodul für B2C B2B B2B2C Rollencheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
+| `backup-datenverlust` | Klausel-Fachmodul für Backup Datenverlust: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `bank-agb` | Branchen-Fachmodul für Bank AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Avv Und Agb Schnittstelle, B2B Harte Fassung, B2C B2B B2B2C Rollencheck, 
 
 ## 1. `avv-und-agb-schnittstelle`
 
-**Fokus:** Branchen-Spezialskill für AVV und AGB Schnittstelle: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für AVV und AGB Schnittstelle: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # AVV und AGB Schnittstelle
 
@@ -164,7 +164,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `b2c-b2b-b2b2c-rollencheck`
 
-**Fokus:** Einstiegs- und Workflow-Skill für B2C B2B B2B2C Rollencheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Arbeitsmodul für B2C B2B B2B2C Rollencheck: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # B2C B2B B2B2C Rollencheck
 
@@ -219,7 +219,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `backup-datenverlust`
 
-**Fokus:** Klausel-Spezialskill für Backup Datenverlust: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Backup Datenverlust: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Backup Datenverlust
 
@@ -274,7 +274,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `bank-agb`
 
-**Fokus:** Branchen-Spezialskill für Bank AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Bank AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Bank AGB
 

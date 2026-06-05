@@ -1,13 +1,13 @@
 ---
 name: autismus-sensorik-barrierefreiheit-schule
-description: "Nutze dies, wenn Autismus Sensorik Schule, Barrierefreiheit Schule, Befreiung Schulveranstaltung, Beschwerde Gegen Lehrkraft im Plugin Schulrecht Länder konkret bearbeitet werden soll. Auslöser: Bitte Autismus Sensorik Schule, Barrierefreiheit Schule, Befreiung Schulveranstaltung, Beschwerde Gegen Lehrkraft prüfen.; Erstelle eine Arbeitsfassung zu Autismus Sensorik Schule, Barrierefreiheit Schule, Befreiung Schulveranstaltung, Beschwerde Gegen Lehrkraft.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Autismus Sensorik Schule, Barrierefreiheit Schule, Befreiung Schulveranstaltung, Beschwerde Gegen Lehrkraft: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Autismus Sensorik Schule, Barrierefreiheit Schule, Befreiung Schulveranstaltung, Beschwerde Gegen Lehrkraft
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Autismus Sensorik Schule, Barrierefreiheit Schule, Befreiung Schulveranstaltung, Beschwerde Gegen Lehrkraft** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

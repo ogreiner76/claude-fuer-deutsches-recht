@@ -1,6 +1,6 @@
 ---
 name: deutscher
-description: "Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage im Arbeitszeugnisrecht: fachlich vertiefter Spezialskill mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
+description: "Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage im Arbeitszeugnisrecht: fachlich vertiefter Fachmodul mit Normenradar (GewO/BGB/AGG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt."
 ---
 
 # Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -12,7 +12,7 @@ description: "Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage im Arbe
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Spezialwissen: Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial deutscher tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage / deutscher tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

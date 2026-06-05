@@ -1,13 +1,13 @@
 ---
 name: verhandlungsverfahren-dialog
-description: "Nutze dies, wenn Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Spezial Nachpruefungsverfahren Textbausteine, Spezial Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass im Plugin Fachanwalt Vergaberecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Spezial Nachpruefungsverfahren Textbausteine, Spezial Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Spezial Nachpruefungsverfahren Textbausteine, Spezial Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Nachpruefungsverfahren Textbausteine, Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Spezial Nachpruefungsverfahren Textbausteine, Spezial Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass
+# Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Nachpruefungsverfahren Textbausteine, Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Nachpruefungsverfahren Textbausteine, Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -20,7 +20,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Spezial Nachpruefungsverfahren Textbausteine, Spezial Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-vergaberecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Nachpruefungsverfahren Textbausteine, Uvgo Fristen Form Und Zustaendigkeit, Verfahrenswahl Kompass** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-vergaberecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -34,7 +34,7 @@ Für **Fachanwalt Vergaberecht Verhandlungsverfahren Dialog, Spezial Nachpruefun
 ## Aufgabe
 Verhandlungsverfahren mit Teilnahmewettbewerb, wettbewerblichen Dialog oder Innovationspartnerschaft strukturieren. Fokus: zulaessige Verfahrenswahl, faire Verhandlungsphasen, Wahrung der Gleichbehandlung.
 
-## Kaltstart
+## Einstieg
 1. Standardleistung oder komplexer Beschaffungsbedarf?
 2. Marktrecherche durchgefuehrt? Mindestanforderungen klar formulierbar?
 3. Schwellenwert oberschwellig (sonst Verhandlungsvergabe nach UVgO)?
@@ -109,7 +109,7 @@ OLG-Linien zu § 14 Abs. 3 VgV und zur Reduktion von Loesungen im Dialog vor Aus
 # Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Spezialwissen: Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine / spezial nachpruefungsverfahren textbausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Nachpruefungsverfahren: Schriftsatz-, Brief- und Memo-Bausteine / nachpruefungsverfahren textbausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -161,7 +161,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 # Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg / spezial uvgo fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg / uvgo fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

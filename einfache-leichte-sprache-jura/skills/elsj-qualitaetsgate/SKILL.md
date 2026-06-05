@@ -115,5 +115,5 @@ Stoppe die Herausgabe, wenn:
 - eine Pflicht als bloße Empfehlung dargestellt wird.
 - ein Rechtsmittel falsch bezeichnet ist.
 - bei Leichter Sprache fälschlich behauptet wird, es habe eine Prüfung durch
-  Zielgruppenpersonen gegeben.
+ Zielgruppenpersonen gegeben.
 - der Text herablassend wirkt.

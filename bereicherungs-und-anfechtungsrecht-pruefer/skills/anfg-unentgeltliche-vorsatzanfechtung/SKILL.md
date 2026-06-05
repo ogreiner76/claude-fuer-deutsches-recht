@@ -1,13 +1,13 @@
 ---
 name: anfg-unentgeltliche-vorsatzanfechtung
-description: "Nutze dies, wenn Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis im Plugin Bereicherungs Und Anfechtungsrecht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis prüfen.; Erstelle eine Arbeitsfassung zu Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `anfg-unentgeltliche-leistung-4` | Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen für Anstandsschenkungen, kein Verschuldenserfordernis. Output: Prüfergebnis Anfechtbarkeit mit Anfechtungszeitraum. Abgrenzung: nicht § 134 InsO (erfordert Insolvenzeröffnung). |
 | `anfg-vorsatzanfechtung-3-i` | Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Prüfraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisführung. Output: Prüfergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren). |
-| `anspruchsziel-und-rueckabwicklungsarchitektur` | Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Spezial-Skills). |
+| `anspruchsziel-und-rueckabwicklungsarchitektur` | Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Fachmodule). |
 | `anweisungsfall-deckungs-und-valutaverhaeltnis` | Nutze diesen Skill, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Normen: § 670 BGB und §§ 812 ff. BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Dreiecksdiagramm mit Fehlerort und korrektem Rückabwicklungsweg. Abgrenzung: nicht echte Drittleistung § 267 BGB ohne Anweisung. |
 
 ## Arbeitsweg
@@ -165,7 +165,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `anspruchsziel-und-rueckabwicklungsarchitektur`
 
-**Fokus:** Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Spezial-Skills).
+**Fokus:** Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Fachmodule).
 
 # Anspruchsziel und Rückabwicklungsarchitektur
 
@@ -206,27 +206,27 @@ Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare 
 ## Anspruchsgrundlagenarchitektur — Reihenfolge
 
 1. **Vertraglicher Anspruch:**
-   - § 433 BGB Kaufpreis, § 535 BGB Mietzins, § 611 BGB Vergütung.
-   - § 346 BGB Rückgewähr nach Rücktritt.
-   - § 357 BGB Rückgewähr nach Widerruf.
+ - § 433 BGB Kaufpreis, § 535 BGB Mietzins, § 611 BGB Vergütung.
+ - § 346 BGB Rückgewähr nach Rücktritt.
+ - § 357 BGB Rückgewähr nach Widerruf.
 2. **c.i.c. — § 280 Abs. 1 i.V.m. § 311 Abs. 2 BGB:** vorvertragliche Pflichtverletzung.
 3. **GoA §§ 677, 683 BGB:** Aufwendungsersatz aus berechtigter Geschäftsführung ohne Auftrag.
 4. **Dingliche Ansprüche:**
-   - § 985 BGB Herausgabe (Eigentümer-Besitzer-Verhältnis).
-   - §§ 987 ff. BGB Folgeansprüche (Nutzungen, Schadensersatz, Verwendungen).
+ - § 985 BGB Herausgabe (Eigentümer-Besitzer-Verhältnis).
+ - §§ 987 ff. BGB Folgeansprüche (Nutzungen, Schadensersatz, Verwendungen).
 5. **Delikt:**
-   - § 823 Abs. 1 BGB Schadensersatz aus Verletzung absoluter Rechtsgüter.
-   - § 823 Abs. 2 BGB i.V.m. Schutzgesetz.
-   - § 826 BGB sittenwidrige vorsätzliche Schädigung.
-   - § 831 BGB Verrichtungsgehilfe.
+ - § 823 Abs. 1 BGB Schadensersatz aus Verletzung absoluter Rechtsgüter.
+ - § 823 Abs. 2 BGB i.V.m. Schutzgesetz.
+ - § 826 BGB sittenwidrige vorsätzliche Schädigung.
+ - § 831 BGB Verrichtungsgehilfe.
 6. **Bereicherungsrecht §§ 812 ff. BGB:**
-   - § 812 Abs. 1 S. 1 Alt. 1 BGB Leistungskondiktion (Leistung ohne Rechtsgrund).
-   - § 812 Abs. 1 S. 1 Alt. 2 BGB Nichtleistungskondiktion (Eingriffskondiktion).
-   - § 812 Abs. 1 S. 2 Alt. 1 BGB condictio ob causam finitam (Wegfall des Rechtsgrunds).
-   - § 812 Abs. 1 S. 2 Alt. 2 BGB condictio ob rem (Zweckverfehlung).
-   - § 813 BGB condictio indebiti bei Erfüllung einredebehafteter Forderung.
-   - § 816 Abs. 1, 2 BGB Verfügung eines Nichtberechtigten / Empfang an Nichtberechtigten.
-   - § 822 BGB Bereicherung eines Dritten.
+ - § 812 Abs. 1 S. 1 Alt. 1 BGB Leistungskondiktion (Leistung ohne Rechtsgrund).
+ - § 812 Abs. 1 S. 1 Alt. 2 BGB Nichtleistungskondiktion (Eingriffskondiktion).
+ - § 812 Abs. 1 S. 2 Alt. 1 BGB condictio ob causam finitam (Wegfall des Rechtsgrunds).
+ - § 812 Abs. 1 S. 2 Alt. 2 BGB condictio ob rem (Zweckverfehlung).
+ - § 813 BGB condictio indebiti bei Erfüllung einredebehafteter Forderung.
+ - § 816 Abs. 1, 2 BGB Verfügung eines Nichtberechtigten / Empfang an Nichtberechtigten.
+ - § 822 BGB Bereicherung eines Dritten.
 
 ## Rückabwicklungs-Architektur — Reihenfolge der Prüfung
 

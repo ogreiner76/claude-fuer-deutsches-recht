@@ -3,7 +3,7 @@ name: mandantenkommunikation
 description: "Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate. Es zeigt, wie rechtliche Einschätzungen mandantengerecht übersetzt werden, welche Informationen zu welchem Zeitpunkt des Mandats mitgeteilt werden müssen und wie schriftliche und mündliche Kommunikation methodisch so aufgebaut wird, dass Mandanten informierte Entscheidungen treffen können. Besonderes Gewicht liegt auf der Aufklärungspflicht, der Dokumentation von Kommunikationsinhalten und der Haftungsreduktion durch vollständige Informationsweitergabe."
 ---
 
-# Workflow Mandantenkommunikation
+# Mandantenkommunikation
 
 ## Fachlicher Anker
 
@@ -13,9 +13,9 @@ description: "Dieses Skill strukturiert die anwaltliche Mandantenkommunikation i
 
 ## Mandantenfall
 
-- Eine Mandantin mit geringen Rechtskenntnissen soll über ihre Erfolgsaussichten in einem Mietrechtsstreit informiert werden. Der Workflow hilft, die rechtliche Einschätzung in verständlicher Sprache zu vermitteln, ohne an Präzision zu verlieren.
-- Ein Unternehmer erhält eine komplexe Risikoanalyse mit mehreren Szenarien. Der Workflow hilft, die Informationen so zu strukturieren, dass der Mandant die Kernbotschaft sofort versteht und eine informierte Entscheidung über das weitere Vorgehen treffen kann.
-- Eine Mandantin lehnt einen Vergleich ab, obwohl ihr Anwalt ihn empfohlen hat. Der Workflow zeigt, wie die Risikoaufklärung vollständig dokumentiert wird, sodass die Entscheidung der Mandantin und die Empfehlung des Anwalts haftungsrechtlich klar sind.
+- Eine Mandantin mit geringen Rechtskenntnissen soll über ihre Erfolgsaussichten in einem Mietrechtsstreit informiert werden. Der hilft, die rechtliche Einschätzung in verständlicher Sprache zu vermitteln, ohne an Präzision zu verlieren.
+- Ein Unternehmer erhält eine komplexe Risikoanalyse mit mehreren Szenarien. Der hilft, die Informationen so zu strukturieren, dass der Mandant die Kernbotschaft sofort versteht und eine informierte Entscheidung über das weitere Vorgehen treffen kann.
+- Eine Mandantin lehnt einen Vergleich ab, obwohl ihr Anwalt ihn empfohlen hat. Der zeigt, wie die Risikoaufklärung vollständig dokumentiert wird, sodass die Entscheidung der Mandantin und die Empfehlung des Anwalts haftungsrechtlich klar sind.
 
 ## Erste Schritte
 

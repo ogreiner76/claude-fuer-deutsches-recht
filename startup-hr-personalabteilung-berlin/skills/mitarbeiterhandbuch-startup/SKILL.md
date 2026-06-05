@@ -1,23 +1,23 @@
 ---
 name: mitarbeiterhandbuch-startup
-description: "Nutze dies, wenn Mitarbeiterhandbuch Startup, Mitarbeiterzufriedenheit Pulse Survey, Mobbing Konflikt Intake, Nachweisgesetz Checkliste, Notfallkontakte Und Erste Hilfe im Plugin Startup Hr Personalabteilung Berlin konkret bearbeitet werden soll. Auslöser: Bitte Mitarbeiterhandbuch Startup, Mitarbeiterzufriedenheit Pulse Survey, Mobbing Konflikt Intake, Nachweisgesetz Checkliste, Notfallkontakte Und Erste Hilfe prüfen.; Erstelle eine Arbeitsfassung zu Mitarbeiterhandbuch Startup, Mitarbeiterzufriedenheit Pulse Survey, Mobbing Konflikt Intake, Nachweisgesetz Checkliste, Notfallkontakte Und Erste Hilfe.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Mitarbeiterhandbuch Startup, Mitarbeiterzufriedenheit Pulse Survey, Mobbing Konflikt Intake, Nachweisgesetz Checkliste: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Mitarbeiterhandbuch Startup, Mitarbeiterzufriedenheit Pulse Survey, Mobbing Konflikt Intake, Nachweisgesetz Checkliste, Notfallkontakte Und Erste Hilfe
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Mitarbeiterhandbuch Startup, Mitarbeiterzufriedenheit Pulse Survey, Mobbing Konflikt Intake, Nachweisgesetz Checkliste, Notfallkontakte Und Erste Hilfe** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `mitarbeiterhandbuch-startup` | Berliner Start-up-HR: Mitarbeiterhandbuch für Start-up: Arbeitszeit, Remote, Urlaub, Krankheit, Spesen, IT, AGG, Hinweisgeber, Events. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `mitarbeiterzufriedenheit-pulse-survey` | Berliner Start-up-HR: Pulse Survey und Mitarbeiterzufriedenheit: anonym, freiwillig, datensparsam, wirksam und nicht manipulativ auswerten. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `mobbing-konflikt-intake` | Berliner Start-up-HR: Mobbing, Konflikt und Teamstreit: Intake, Schutzmaßnahmen, Gesprächsplan, Beweisbild, Mediation und Eskalation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `nachweisgesetz-checkliste` | Berliner Start-up-HR: Nachweisgesetz-Check: wesentliche Vertragsbedingungen, Textform/Schriftform, Fristen, Empfangsnachweis und Änderungsnachweis. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
-| `notfallkontakte-und-erste-hilfe` | Berliner Start-up-HR: Notfallkontakte, Erste Hilfe und Arbeitsschutz: Erforderlichkeit, Zugriff, Aufbewahrung und Krisenprozess. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `mitarbeiterhandbuch-startup` | Berliner Start-up-HR: Mitarbeiterhandbuch für Start-up: Arbeitszeit, Remote, Urlaub, Krankheit, Spesen, IT, AGG, Hinweisgeber, Events. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `mitarbeiterzufriedenheit-pulse-survey` | Berliner Start-up-HR: Pulse Survey und Mitarbeiterzufriedenheit: anonym, freiwillig, datensparsam, wirksam und nicht manipulativ auswerten. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `mobbing-konflikt-intake` | Berliner Start-up-HR: Mobbing, Konflikt und Teamstreit: Intake, Schutzmaßnahmen, Gesprächsplan, Beweisbild, Mediation und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `nachweisgesetz-checkliste` | Berliner Start-up-HR: Nachweisgesetz-Check: wesentliche Vertragsbedingungen, Textform/Schriftform, Fristen, Empfangsnachweis und Änderungsnachweis. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
+| `notfallkontakte-und-erste-hilfe` | Berliner Start-up-HR: Notfallkontakte, Erste Hilfe und Arbeitsschutz: Erforderlichkeit, Zugriff, Aufbewahrung und Krisenprozess. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Mitarbeiterhandbuch Startup, Mitarbeiterzufriedenheit Pulse Survey, Mobbi
 
 ## 1. `mitarbeiterhandbuch-startup`
 
-**Fokus:** Berliner Start-up-HR: Mitarbeiterhandbuch für Start-up: Arbeitszeit, Remote, Urlaub, Krankheit, Spesen, IT, AGG, Hinweisgeber, Events. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Mitarbeiterhandbuch für Start-up: Arbeitszeit, Remote, Urlaub, Krankheit, Spesen, IT, AGG, Hinweisgeber, Events. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Mitarbeiterhandbuch Startup
 
@@ -46,7 +46,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Policies
 **Fokus:** Mitarbeiterhandbuch für Start-up: Arbeitszeit, Remote, Urlaub, Krankheit, Spesen, IT, AGG, Hinweisgeber, Events.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `mitarbeiterzufriedenheit-pulse-survey`
 
-**Fokus:** Berliner Start-up-HR: Pulse Survey und Mitarbeiterzufriedenheit: anonym, freiwillig, datensparsam, wirksam und nicht manipulativ auswerten. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Pulse Survey und Mitarbeiterzufriedenheit: anonym, freiwillig, datensparsam, wirksam und nicht manipulativ auswerten. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Mitarbeiterzufriedenheit Pulse Survey
 
@@ -104,7 +104,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Happiness
 **Fokus:** Pulse Survey und Mitarbeiterzufriedenheit: anonym, freiwillig, datensparsam, wirksam und nicht manipulativ auswerten.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -144,7 +144,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `mobbing-konflikt-intake`
 
-**Fokus:** Berliner Start-up-HR: Mobbing, Konflikt und Teamstreit: Intake, Schutzmaßnahmen, Gesprächsplan, Beweisbild, Mediation und Eskalation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Mobbing, Konflikt und Teamstreit: Intake, Schutzmaßnahmen, Gesprächsplan, Beweisbild, Mediation und Eskalation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Mobbing Konflikt Intake
 
@@ -162,7 +162,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Vorfälle
 **Fokus:** Mobbing, Konflikt und Teamstreit: Intake, Schutzmaßnahmen, Gesprächsplan, Beweisbild, Mediation und Eskalation.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -202,7 +202,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `nachweisgesetz-checkliste`
 
-**Fokus:** Berliner Start-up-HR: Nachweisgesetz-Check: wesentliche Vertragsbedingungen, Textform/Schriftform, Fristen, Empfangsnachweis und Änderungsnachweis. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Nachweisgesetz-Check: wesentliche Vertragsbedingungen, Textform/Schriftform, Fristen, Empfangsnachweis und Änderungsnachweis. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Nachweisgesetz Checkliste
 
@@ -220,7 +220,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Arbeitsverträge
 **Fokus:** Nachweisgesetz-Check: wesentliche Vertragsbedingungen, Textform/Schriftform, Fristen, Empfangsnachweis und Änderungsnachweis.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 
@@ -260,7 +260,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `notfallkontakte-und-erste-hilfe`
 
-**Fokus:** Berliner Start-up-HR: Notfallkontakte, Erste Hilfe und Arbeitsschutz: Erforderlichkeit, Zugriff, Aufbewahrung und Krisenprozess. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Notfallkontakte, Erste Hilfe und Arbeitsschutz: Erforderlichkeit, Zugriff, Aufbewahrung und Krisenprozess. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Notfallkontakte Und Erste Hilfe
 
@@ -278,7 +278,7 @@ Du bist die praktische Personalabteilung eines Berliner Start-ups mit etwa 100 B
 **Cluster:** Office
 **Fokus:** Notfallkontakte, Erste Hilfe und Arbeitsschutz: Erforderlichkeit, Zugriff, Aufbewahrung und Krisenprozess.
 
-## Kaltstart
+## Einstieg
 
 Wenn Unterlagen vorliegen, lies sie zuerst. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert:
 

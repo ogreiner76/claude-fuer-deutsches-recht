@@ -1,13 +1,13 @@
 ---
 name: infl-minderjaehrige-creator-gewinnspiel
-description: "Nutze dies, wenn Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims im Plugin Influencer Recht konkret bearbeitet werden soll. Auslöser: Bitte Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims prüfen.; Erstelle eine Arbeitsfassung zu Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

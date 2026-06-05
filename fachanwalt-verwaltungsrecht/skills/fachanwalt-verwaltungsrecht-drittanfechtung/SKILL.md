@@ -1,13 +1,13 @@
 ---
 name: fachanwalt-verwaltungsrecht-drittanfechtung
-description: "Nutze dies, wenn Fachanwalt Verwaltungsrecht Drittanfechtung Umwelt, Fachanwalt Verwaltungsrecht Einstweiliger Rechtsschutz, Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg Bverfg im Plugin Fachanwalt Verwaltungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Verwaltungsrecht Drittanfechtung Umwelt, Fachanwalt Verwaltungsrecht Einstweiliger Rechtsschutz, Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg Bverfg prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Verwaltungsrecht Drittanfechtung Umwelt, Fachanwalt Verwaltungsrecht Einstweiliger Rechtsschutz, Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg Bverfg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Verwaltungsrecht Drittanfechtung Umwelt, Fachanwalt Verwaltungsrecht Einstweiliger Rechtsschutz, Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg Bverfg: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Verwaltungsrecht Drittanfechtung Umwelt, Fachanwalt Verwaltungsrecht Einstweiliger Rechtsschutz, Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg Bverfg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Verwaltungsrecht Drittanfechtung Umwelt, Fachanwalt Verwaltungsrecht Einstweiliger Rechtsschutz, Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg Bverfg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,7 +15,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | --- | --- |
 | `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt` | Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn oder Umweltverband: Klagebefugnis und materielle Gründe prüfen. Normen: § 42 Abs. 2 VwGO (Schutznorm-Theorie), § 5 BImSchG (Nachbarschutz), UmwRG (Verbandsklage), UVP-Pflicht. Prüfraster: Klagebefugnis Dritter, drittschützende Normen, UVP-Fehler, Verbandsklage. Output Klageschrift-Entwurf, Klagebefugungs-Gutachten. Abgrenzung: BImSchG-Genehmigung Betreiber siehe energieanlagen-bimschg-genehmigung-verfahren; Bauleitplanung Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo. |
 | `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` | Einstweiligen Rechtsschutz nach § 80 Abs. 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbedürftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (einstweilige Anordnung), § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO (Glaubhaftmachung). Prüfraster: Abgrenzung § 80 Abs. 5 vs. § 123 VwGO, Anordnungsgrund, Anordnungsanspruch, Interessenabwaegung. Output Antrags-Entwurf mit Begründung, Eidesstattliche Versicherung. Abgrenzung: § 80 Abs. 5 spezifisch siehe eilantrag-80-abs-5-vwgo; Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo. |
-| `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg` | Workflow-Skill zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg` | Arbeitsmodul zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -236,7 +236,7 @@ Das verwaltungsgerichtliche Eilrechtsschutzrecht ist zweigeteilt: § 80 Abs. 5 V
 ## Prüfschema Einstweiliger Rechtsschutz
 
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -319,14 +319,14 @@ Antrag nach § 80 Abs. 5 VwGO
 Anträge
 
 1. Die aufschiebende Wirkung des Widerspruchs [/ der Klage] des
-   Antragstellers gegen den Bescheid der Antragsgegnerin vom [Datum]
-   Aktenzeichen [Az.] wird wiederhergestellt [bei Nr. 4] / angeordnet
-   [bei Nr. 1-3].
+ Antragstellers gegen den Bescheid der Antragsgegnerin vom [Datum]
+ Aktenzeichen [Az.] wird wiederhergestellt [bei Nr. 4] / angeordnet
+ [bei Nr. 1-3].
 
 2. Die Antragsgegnerin trägt die Kosten des Verfahrens.
 
 3. Der Streitwert wird auf EUR [Betrag] (Hälfte des
-   Hauptsache-Streitwerts) festgesetzt.
+ Hauptsache-Streitwerts) festgesetzt.
 
 Begründung
 
@@ -349,7 +349,7 @@ Der Verwaltungsakt ist aus folgenden Gründen voraussichtlich
 rechtswidrig:
 1. Formell: Anhörung nach § 28 VwVfG unterblieben.
 2. Materiell: [Tatbestandsvoraussetzungen nicht erfüllt /
-   Ermessensfehler / Unverhältnismäßigkeit].
+ Ermessensfehler / Unverhältnismäßigkeit].
 
 IV. Interessenabwägung
 Für das Aussetzungsinteresse spricht: [irreversible Schäden,
@@ -505,13 +505,13 @@ Aktuelle Linien mit Eilrechtsschutz-Bezug:
 
 ## 3. `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg`
 
-**Fokus:** Workflow-Skill zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Klimaklage gegen Bundesländer — KSG / BVerfG 2021
 
 ## Fachkern: Klimaklage gegen Bundesländer — KSG / BVerfG 2021
 
-- **Spezialfrage (Klimaklage gegen Bundesländer — KSG / BVerfG 2021):** Workflow-Skill zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+- **Spezialfrage (Klimaklage gegen Bundesländer — KSG / BVerfG 2021):** Arbeitsmodul zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
 

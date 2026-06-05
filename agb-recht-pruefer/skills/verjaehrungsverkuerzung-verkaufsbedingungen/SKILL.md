@@ -1,23 +1,23 @@
 ---
 name: verjaehrungsverkuerzung-verkaufsbedingungen
-description: "Nutze dies, wenn Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versicherung Avb, Versionsdiff Agb, Vollmacht Vertretung im Plugin Agb Recht Prüfer konkret bearbeitet werden soll. Auslöser: Bitte Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versicherung Avb, Versionsdiff Agb, Vollmacht Vertretung prüfen.; Erstelle eine Arbeitsfassung zu Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versicherung Avb, Versionsdiff Agb, Vollmacht Vertretung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Verjaehrungsverkuerzung, Verkaufsbedingungen B2b, Versicherung Avb, Versionsdiff Agb: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versicherung Avb, Versionsdiff Agb, Vollmacht Vertretung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versicherung Avb, Versionsdiff Agb, Vollmacht Vertretung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `verjaehrungsverkuerzung` | Klausel-Spezialskill für Verjaehrungsverkürzung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `verkaufsbedingungen-b2b` | Branchen-Spezialskill für Verkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `versicherung-avb` | Branchen-Spezialskill für Versicherung Avb: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `verjaehrungsverkuerzung` | Klausel-Fachmodul für Verjaehrungsverkürzung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `verkaufsbedingungen-b2b` | Branchen-Fachmodul für Verkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
+| `versicherung-avb` | Branchen-Fachmodul für Versicherung Avb: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `versionsdiff-agb` | Output- und Streit-Skill für Versionsdiff AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `vollmacht-vertretung` | Klausel-Spezialskill für Vollmacht Vertretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
+| `vollmacht-vertretung` | Klausel-Fachmodul für Vollmacht Vertretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Für **Verjaehrungsverkuerzung, Verkaufsbedingungen B2B, Versicherung Avb, Versi
 
 ## 1. `verjaehrungsverkuerzung`
 
-**Fokus:** Klausel-Spezialskill für Verjaehrungsverkürzung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Verjaehrungsverkürzung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Verjaehrungsverkürzung
 
@@ -83,7 +83,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `verkaufsbedingungen-b2b`
 
-**Fokus:** Branchen-Spezialskill für Verkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Verkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Verkaufsbedingungen B2B
 
@@ -138,7 +138,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `versicherung-avb`
 
-**Fokus:** Branchen-Spezialskill für Versicherung Avb: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Fachmodul für Versicherung Avb: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Versicherung Avb
 
@@ -248,7 +248,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `vollmacht-vertretung`
 
-**Fokus:** Klausel-Spezialskill für Vollmacht Vertretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Fachmodul für Vollmacht Vertretung: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Vollmacht Vertretung
 

@@ -1,13 +1,13 @@
 ---
 name: software-ip-chain-mna-dd-policy-legal-scope
-description: "Nutze dies, wenn Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router im Plugin Softwarerecht De Eu Us konkret bearbeitet werden soll. Auslöser: Bitte Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router prüfen.; Erstelle eine Arbeitsfassung zu Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

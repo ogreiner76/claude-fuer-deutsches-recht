@@ -1,13 +1,13 @@
 ---
 name: unfallrente-sgb-unfallversicherung-bg
-description: "Nutze dies, wenn Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg prüfen.; Erstelle eine Arbeitsfassung zu Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt, Vergleich Vorschlag 101 Sgg** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -170,7 +170,7 @@ Bekannte BKs:
 ### Schritt 4 — Widerspruch
 
 ```
-[Berufsgenossenschaft]                          [Ort, Datum]
+[Berufsgenossenschaft] [Ort, Datum]
 
 Az: [...]
 
@@ -183,15 +183,15 @@ gegen den o.g. Bescheid lege ich Widerspruch ein.
 Begruendung:
 
 1. Der Vorfall vom [Datum] erfuellt die Voraussetzungen des Arbeitsunfalls nach § 8 SGB VII:
-   - Versicherte Taetigkeit als [Beruf] bei [Arbeitgeber].
-   - Auf dem direkten Weg von [...] zu [...] (Wegeunfall).
-   - Stoss / Sturz / Aufprall durch [...].
-   - Koerperschaden: [konkrete Verletzung].
+ - Versicherte Taetigkeit als [Beruf] bei [Arbeitgeber].
+ - Auf dem direkten Weg von [...] zu [...] (Wegeunfall).
+ - Stoss / Sturz / Aufprall durch [...].
+ - Koerperschaden: [konkrete Verletzung].
 
 2. Beweise:
-   - Anlage 1: D-Arzt-Bericht vom [Datum]
-   - Anlage 2: Klinik-Bericht
-   - Anlage 3: Zeuge [Name, Adresse], Kollege
+ - Anlage 1: D-Arzt-Bericht vom [Datum]
+ - Anlage 2: Klinik-Bericht
+ - Anlage 3: Zeuge [Name, Adresse], Kollege
 
 3. Vorlaeufig MdE-Bewertung: Bei dauerhafter Funktionseinschraenkung der [...] kommt eine MdE von mindestens 20 % in Betracht.
 
@@ -306,7 +306,7 @@ Erst nach Ablauf koennen Sie klagen.
 Vor der Klage ist es gut (nicht zwingend), nochmal zu erinnern. Mustertext:
 
 ```
-[Behoerde]                                          [Ort, Datum]
+[Behoerde] [Ort, Datum]
 
 Az: [...]
 
@@ -324,7 +324,7 @@ Mit freundlichen Gruessen
 ### Schritt 3 — Klageschrift
 
 ```
-Sozialgericht [Ort]                                  [Ort, Datum]
+Sozialgericht [Ort] [Ort, Datum]
 
 [Name]
 [Adresse]

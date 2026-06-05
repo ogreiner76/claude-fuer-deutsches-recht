@@ -32,7 +32,7 @@ description: "§ 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext
 - **§ 7b GewStG** — Sanierungsertragsbefreiung.
 - **§ 7 GewStG** — Ermittlung Gewerbeertrag.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 | Schritt | Inhalt |
 |---|---|
@@ -66,20 +66,20 @@ description: "§ 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext
 ### Berechnungsbeispiel Mindestbesteuerung GewSt
 
 ```
-Gewerbeertrag vor Sanierung               EUR  -100.000
-Sanierungsertrag                          EUR 2.300.000
-Gewerbeertrag des Jahres                  EUR 2.200.000
+Gewerbeertrag vor Sanierung EUR -100.000
+Sanierungsertrag EUR 2.300.000
+Gewerbeertrag des Jahres EUR 2.200.000
 
-Gewerbeverlust-Vortrag § 10a S.1 GewStG   EUR 1.600.000
+Gewerbeverlust-Vortrag § 10a S.1 GewStG EUR 1.600.000
 
 Mindestbesteuerung:
-  Sockel                                  EUR 1.000.000
-  + 60 % (2.200.000 - 1.000.000)          EUR   720.000
-  maximal nutzbarer Vortrag               EUR 1.720.000
-  begrenzt durch Vortrag                  EUR 1.600.000
+ Sockel EUR 1.000.000
+ + 60 % (2.200.000 - 1.000.000) EUR 720.000
+ maximal nutzbarer Vortrag EUR 1.720.000
+ begrenzt durch Vortrag EUR 1.600.000
 
-Gewerbeertrag nach Verlustverrechnung     EUR   600.000
-Davon Sanierungsertrag-Anteil (max.)      EUR   600.000
+Gewerbeertrag nach Verlustverrechnung EUR 600.000
+Davon Sanierungsertrag-Anteil (max.) EUR 600.000
 ► § 7b GewStG-Antrag stellen, um diesen Anteil freizustellen
 ► Gewerbeverlust voll verbraucht
 ```
@@ -87,17 +87,17 @@ Davon Sanierungsertrag-Anteil (max.)      EUR   600.000
 ### Berechnungsbeispiel ohne Anteilseignerwechsel-Problematik
 
 ```
-Sanierungsertrag                          EUR  500.000
-Gewerbeertrag laufendes Geschäft          EUR  -100.000
-Gewerbeertrag des Jahres                  EUR  400.000
+Sanierungsertrag EUR 500.000
+Gewerbeertrag laufendes Geschäft EUR -100.000
+Gewerbeertrag des Jahres EUR 400.000
 
-Gewerbeverlust-Vortrag                    EUR  450.000
+Gewerbeverlust-Vortrag EUR 450.000
 
 Mindestbesteuerung: Sockel 1 Mio. > 400.000 ► voll nutzbar
 Verrechnung: 400.000 vom Gewerbeertrag
-verbleibender Gewerbeertrag                EUR        0
+verbleibender Gewerbeertrag EUR 0
 ► § 7b GewStG-Antrag dennoch erwägen (Bindungswirkung minimal,
-  da Ertrag bereits durch Verlust verbraucht)
+ da Ertrag bereits durch Verlust verbraucht)
 ```
 
 ### Memo-Baustein zur Identitätsprüfung § 10a S. 8 GewStG
@@ -116,7 +116,7 @@ III. Subsumtion
 - Unternehmensidentität (Branche, Betriebsstätte, ...)
 - Unternehmeridentität (juristische Person bleibt)
 - BFH-Linie zur Wesentlichkeit nicht aus Modellwissen
-  zitieren; vor Ausgabe Quelle prüfen
+ zitieren; vor Ausgabe Quelle prüfen
 
 IV. Folge
 [Wenn untergegangen: kein Verbrauch durch Sanierungsertrag möglich;

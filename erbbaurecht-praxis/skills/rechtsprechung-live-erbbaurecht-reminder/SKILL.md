@@ -1,13 +1,13 @@
 ---
 name: rechtsprechung-live-erbbaurecht-reminder
-description: "Nutze dies, wenn Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder im Plugin Erbbaurecht Praxis konkret bearbeitet werden soll. Auslöser: Bitte Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder prüfen.; Erstelle eine Arbeitsfassung zu Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsprechung Erbbaurecht Live Verifizieren, Erbbaurecht Fristen Und Reminder** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

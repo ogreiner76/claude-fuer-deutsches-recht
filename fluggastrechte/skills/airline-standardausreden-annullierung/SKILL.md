@@ -1,21 +1,21 @@
 ---
 name: airline-standardausreden-annullierung
-description: "Nutze dies, wenn Airline Standardausreden Prüfen, Annullierung Oder Verspaetung Einordnen, Anschlussflug Und Reiseplan im Plugin Fluggastrechte konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Airline Standardausreden Prüfen, Annullierung Oder Verspaetung Einordnen, Anschlussflug Und Reiseplan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Airline Standardausreden Prüfen, Annullierung Oder Verspaetung Einordnen, Anschlussflug Und Reiseplan
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Airline Standardausreden Prüfen, Annullierung Oder Verspaetung Einordnen, Anschlussflug Und Reiseplan** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
 | `airline-standardausreden-pruefen` | Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumung der Meldefrist Akzeptanz der Umbuchung Voucher als Erfuellung Zuständigkeitseinrede. Für Reaktion auf Airline-Ablehnungsschreiben in Skill `forderungsschreiben-mahnung` oder Klage. |
-| `annullierung-oder-verspaetung-einordnen` | Workflow-Skill zu annullierung oder verspaetung einordnen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `anschlussflug-und-reiseplan` | Workflow-Skill zu anschlussflug und reiseplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `annullierung-oder-verspaetung-einordnen` | Arbeitsmodul zu annullierung oder verspaetung einordnen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
+| `anschlussflug-und-reiseplan` | Arbeitsmodul zu anschlussflug und reiseplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 
 ## Arbeitsweg
 
@@ -161,7 +161,7 @@ Diesen Katalog vor jedem Mahnungsschreiben durchgehen — Standardausreden mit P
 
 ## 2. `annullierung-oder-verspaetung-einordnen`
 
-**Fokus:** Workflow-Skill zu annullierung oder verspaetung einordnen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu annullierung oder verspaetung einordnen: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Annullierung Verspätung oder Nichtbeförderung einordnen
 
@@ -229,39 +229,39 @@ Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspätet ist un
 
 ```
 1. Hat der geplante Flug exakt wie geplant stattgefunden?
-   - Ja → keine Annullierung; Verspätung prüfen (Schritt 2)
-   - Nein → Schritt 3
+ - Ja → keine Annullierung; Verspätung prüfen (Schritt 2)
+ - Nein → Schritt 3
 
 2. Welche Ankunftsverspätung am Endziel?
-   - 0 bis unter 3 Stunden → keinen Ausgleichsanspruch nach VO 261;
-     Betreuungsleistungen Art. 9 ggf. bei Abflugverspätung
-   - 3 Stunden oder mehr → Ausgleichsanspruch wie bei Annullierung
-     (EuGH Sturgeon)
+ - 0 bis unter 3 Stunden → keinen Ausgleichsanspruch nach VO 261;
+ Betreuungsleistungen Art. 9 ggf. bei Abflugverspätung
+ - 3 Stunden oder mehr → Ausgleichsanspruch wie bei Annullierung
+ (EuGH Sturgeon)
 
 3. Wie wurde der Flug geändert?
-   - komplett ausgefallen → Annullierung
-   - durchgeführt aber gravierend abweichend (Datum Flugnummer
-     Zeitpunkt mehr als drei Stunden) → Annullierung
-   - durchgeführt mit geringerer Verspätung → Verspätung prüfen
-   - Passagier wurde am Gate abgewiesen trotz gültigem Ticket
-     → Nichtbefoerderung
+ - komplett ausgefallen → Annullierung
+ - durchgeführt aber gravierend abweichend (Datum Flugnummer
+ Zeitpunkt mehr als drei Stunden) → Annullierung
+ - durchgeführt mit geringerer Verspätung → Verspätung prüfen
+ - Passagier wurde am Gate abgewiesen trotz gültigem Ticket
+ → Nichtbefoerderung
 
 4. Stehen außergewöhnliche Umstaende entgegen?
-   → Skill `ausnahmen-aussergewoehnliche-umstaende-pruefen`
+ → Skill `ausnahmen-aussergewoehnliche-umstaende-pruefen`
 ```
 
 ## Ausgabe
 
 - `einordnung.md` mit:
-  - rechtlicher Kategorie (Annullierung / Verspätung / Nichtbeförderung)
-  - Begründung mit Verweis auf Norm und EuGH-Rechtsprechung
-  - Höhe der voraussichtlichen Ausgleichszahlung (verweist auf Skill `distanz-und-ausgleich-berechnen`)
-  - offenen Fragen zur Klärung mit dem Mandanten
+ - rechtlicher Kategorie (Annullierung / Verspätung / Nichtbeförderung)
+ - Begründung mit Verweis auf Norm und EuGH-Rechtsprechung
+ - Höhe der voraussichtlichen Ausgleichszahlung (verweist auf Skill `distanz-und-ausgleich-berechnen`)
+ - offenen Fragen zur Klärung mit dem Mandanten
 - Hinweis auf Skill `ausnahmen-aussergewoehnliche-umstaende-pruefen` zur Prüfung der Ausnahmen.
 
 ## 3. `anschlussflug-und-reiseplan`
 
-**Fokus:** Workflow-Skill zu anschlussflug und reiseplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu anschlussflug und reiseplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 # Anschlussflug und Reiseplan
 
@@ -331,12 +331,12 @@ Wenn die Reise innerhalb der EU mit Umsteigen in einem **Drittstaat** stattfinde
 Anschlussflug-Analyse
 Buchung: eine PNR (ABC123) über Lufthansa
 Etappen:
-  1. BER 12.05.2026 08:00 → MAD 12.05.2026 11:30 (LH 1234)
-  2. MAD 12.05.2026 13:00 → EZE 13.05.2026 06:00 (LH 5678)
+ 1. BER 12.05.2026 08:00 → MAD 12.05.2026 11:30 (LH 1234)
+ 2. MAD 12.05.2026 13:00 → EZE 13.05.2026 06:00 (LH 5678)
 
 Stoerung:
-  Etappe 2 annulliert
-  Ersatz: EZE Ankunft 14.05.2026 10:00
+ Etappe 2 annulliert
+ Ersatz: EZE Ankunft 14.05.2026 10:00
 
 Endzielverspätung: 28 Stunden
 Distanz BER-EZE (Endziel): 11.940 km nicht-innergemeinschaftlich

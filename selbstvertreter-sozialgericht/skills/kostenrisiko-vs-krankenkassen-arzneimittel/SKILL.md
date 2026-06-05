@@ -1,13 +1,13 @@
 ---
 name: kostenrisiko-vs-krankenkassen-arzneimittel
-description: "Nutze dies, wenn Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V im Plugin Selbstvertreter Sozialgericht konkret bearbeitet werden soll. Auslöser: Bitte Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V prüfen.; Erstelle eine Arbeitsfassung zu Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V, Krankenkassen Haeusliche Krankenpflege 37 Sgb V** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -248,12 +248,12 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 - Grundsatz: keine Fahrkostenuebernahme.
 - Ausnahmen § 60 Abs. 2 SGB V:
-  - Rettungsfahrt.
-  - Krankentransport mit medizinischer Begleitung.
-  - Genehmigung im Voraus erforderlich!
-  - Schwerbehinderte mit Merkzeichen "aG" "Bl" oder "H".
-  - Pflegegrad 3 mit Mobilitaetsbeschraenkung Pflegegrad 4 oder 5.
-  - Dauerhaftes Erfordernis (z. B. Onkologie Dialyse Bestrahlung) — als "vergleichbar schwerwiegender Fall".
+ - Rettungsfahrt.
+ - Krankentransport mit medizinischer Begleitung.
+ - Genehmigung im Voraus erforderlich!
+ - Schwerbehinderte mit Merkzeichen "aG" "Bl" oder "H".
+ - Pflegegrad 3 mit Mobilitaetsbeschraenkung Pflegegrad 4 oder 5.
+ - Dauerhaftes Erfordernis (z. B. Onkologie Dialyse Bestrahlung) — als "vergleichbar schwerwiegender Fall".
 
 ## Genehmigungsvorbehalt
 

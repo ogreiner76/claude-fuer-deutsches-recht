@@ -59,10 +59,10 @@ Der Anlagenspiegel (Anlagenverzeichnis) bildet die Bestandsentwicklung des Anlag
 
 ```
 ANLAGENSPIEGEL [Geschaeftsjahr]
-Position           | AHK Anfang | Zugang | Abgang | Umgliederung | Endbestand AHK | Kum. AfA Anfang | AfA des Jahres | Abgang AfA | Kum. AfA Ende | Buchwert Anfang | Buchwert Ende
-Immaterielle WG    | [X]        | [Y]    | [Z]    | -            | [A]            | [B]             | [C]            | [Z]        | [D]           | [E]             | [F]
-Sachanlagen        | ...
-Finanzanlagen      | ...
+Position | AHK Anfang | Zugang | Abgang | Umgliederung | Endbestand AHK | Kum. AfA Anfang | AfA des Jahres | Abgang AfA | Kum. AfA Ende | Buchwert Anfang | Buchwert Ende
+Immaterielle WG | [X] | [Y] | [Z] | - | [A] | [B] | [C] | [Z] | [D] | [E] | [F]
+Sachanlagen | ...
+Finanzanlagen | ...
 ```
 
 ### Phase 2 — Zugaenge

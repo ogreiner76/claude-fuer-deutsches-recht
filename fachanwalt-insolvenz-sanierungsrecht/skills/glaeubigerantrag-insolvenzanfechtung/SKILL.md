@@ -1,22 +1,22 @@
 ---
 name: glaeubigerantrag-insolvenzanfechtung
-description: "Nutze dies, wenn Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag, Fachanwalt Insolvenz Sanierungsrecht Insolvenzanfechtung, Fachanwalt Insolvenz Sanierungsrecht Orientierung, Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan, Insanw Anfechtungsmandat Leitfaden im Plugin Fachanwalt Insolvenz Sanierungsrecht konkret bearbeitet werden soll. Auslöser: Bitte Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag, Fachanwalt Insolvenz Sanierungsrecht Insolvenzanfechtung, Fachanwalt Insolvenz Sanierungsrecht Orientierung, Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan, Insanw Anfechtungsmandat Leitfaden prüfen.; Erstelle eine Arbeitsfassung zu Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag, Fachanwalt Insolvenz Sanierungsrecht Insolvenzanfechtung, Fachanwalt Insolvenz Sanierungsrecht Orientierung, Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan, Insanw Anfechtungsmandat Leitfaden.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag, Fachanwalt Insolvenz Sanierungsrecht Insolvenzanfechtung, Fachanwalt Insolvenz Sanierungsrecht Orientierung, Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag, Fachanwalt Insolvenz Sanierungsrecht Insolvenzanfechtung, Fachanwalt Insolvenz Sanierungsrecht Orientierung, Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan, Insanw Anfechtungsmandat Leitfaden
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag, Fachanwalt Insolvenz Sanierungsrecht Insolvenzanfechtung, Fachanwalt Insolvenz Sanierungsrecht Orientierung, Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsplan, Insanw Anfechtungsmandat Leitfaden** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag` | Workflow-Skill zu fachanwalt insolvenz sanierungsrecht glaeubigerantrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag` | Arbeitsmodul zu fachanwalt insolvenz sanierungsrecht glaeubigerantrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung` | Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich prüfen: Verwalter- und Anfechtungsgegnerperspektive, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146, KI-Screening von Schuldnerakten und Grenzen bei § 133-Wertungen sowie Dreiecksverhältnissen. |
 | `fachanwalt-insolvenz-sanierungsrecht-orientierung` | Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltsprüfung vor. Normen §§ 17-19 InsO Eroeffnungsgründe § 15a InsO Antragspflicht §§ 270 ff. InsO Eigenverwaltung § 270d InsO Schutzschirm StaRUG EuInsVO. Prüfraster Eroeffnungsgründe Antragspflicht Plan-Verfahren Anfechtung Fachanwalt-Voraussetzungen verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenkarte verifizierbare Quellen und Routing zu Mandatsskills. Abgrenzung zu erstgespraech-mandatsannahme und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan. |
-| `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` | Workflow-Skill zu fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` | Arbeitsmodul zu fachanwalt insolvenz sanierungsrecht restrukturierungsplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. |
 | `insanw-anfechtungsmandat-leitfaden` | Leitfaden Anfechtungsmandat fuer Verwalter und Verteidiger: §§ 129 ff. InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Pruefraster Indizien Kenntnis Glaeubigerbenachteiligung. Mustertext Aufforderungsschreiben und Klageerwiderung. |
 
 ## Arbeitsweg
@@ -28,10 +28,10 @@ Für **Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag, Fachanwalt Insolve
 
 ## 1. `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag`
 
-**Fokus:** Workflow-Skill zu fachanwalt insolvenz sanierungsrecht glaeubigerantrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt insolvenz sanierungsrecht glaeubigerantrag: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt insolvenz sanierungsrecht glaeubigerantrag. Nutzt Normtext, Nutzerangaben und verifizierte ` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsmodul zu fachanwalt insolvenz sanierungsrecht glaeubigerantrag. Nutzt Normtext, Nutzerangaben und verifizierte ` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
@@ -74,7 +74,7 @@ Für **Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag, Fachanwalt Insolve
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
@@ -258,7 +258,7 @@ Haftungsrisiko: Gläubiger, der mutwillig oder leichtfertig Antrag stellt, hafte
 - InsO §§ 14, 17, 18, 19, 21, 22, 26, 27
 - BGH-Linie zur Zahlungsunfähigkeit (Liquiditätsbilanz, 10 %-Schwelle, Zahlungseinstellung): konkrete Aktenzeichen vor Ausgabe über dejure.org / openjur.de mit Datum verifizieren.
 - **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers (für Antragsbegründung bei Wechsel der Geschäftsleitung).
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle.
 
 ## 2. `fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung`
@@ -462,26 +462,26 @@ Bevor losgelegt wird, klaere:
 ## Aktuelle Leitentscheidungen des BGH IX. Zivilsenats (Stand Mai 2026)
 
 - **BGH IX ZR 122/23 vom 05.12.2024** — Konkretisierung der *Unlauterkeit* iSd § 142 Abs. 1 Hs. 2 InsO bei der Vorsatzanfechtung im Bargeschäft.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 - **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung; konkrete Erwartung dauerhafter Liquiditätsunterdeckung erforderlich.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - **BGH IX ZR 239/22 vom 18.04.2024** — Anfechtung gesellschafterähnlicher Stellung (§ 135 InsO).
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - **BGH IX ZR 114/23 vom 19.12.2024** — Forderungsanmeldung bei Abtretung; Individualisierung.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
 - **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Aktionärs-Schadensersatzforderungen sind in der Insolvenz der AG keine einfachen Insolvenzforderungen iSd § 38 InsO; Nachrang.
 - **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden (§ 823 II BGB iVm § 15a InsO).
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung; Wissentlichkeitsausschluss erfordert positive Kenntnis pro konkreter Pflichtverletzung; § 15a / § 15b InsO nicht koppelbar.
 - **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung.
-  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+ <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde gegen Bestätigung des StaRUG-Restrukturierungsplans unzulässig.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Workflow — Ersteinschätzung in 5 Schritten
+## — Ersteinschätzung in 5 Schritten
 
 1. **Sachverhalt aufnehmen:** Mandantenrolle (Schuldner, Gläubiger, Verwalter, Anfechtungsgegner), Eröffnungsgrund prüfen, Fristen sichern. Bei Aktenzeichen-Bezug: konkrete BGH/BVerfG-Entscheidung über dejure.org/openjur.de mit Datum verifizieren.
 2. **Pfad waehlen:** Entscheidungsbaum: [ZU vorhanden?] → Ja: Eigenantrag + Eigenverwaltung/Schutzschirm moeglich → Nein: StaRUG wenn drohende ZU.
@@ -512,8 +512,8 @@ Frist: [DATUM] (3 Wochen ab ZU / 6 Wochen ab Ueberschuldung)
 Haftungsrisiko GF: § 15b InsO — Zahlungen nach Insolvenzreife rueckforderbar
 
 IV. EMPFOHLENER PFAD
-[ ] Eigenantrag Regelverfahren   [ ] Schutzschirm § 270d InsO
-[ ] StaRUG-Plan                  [ ] Eigenverwaltung §§ 270 ff.
+[ ] Eigenantrag Regelverfahren [ ] Schutzschirm § 270d InsO
+[ ] StaRUG-Plan [ ] Eigenverwaltung §§ 270 ff.
 
 V. SOFORT-MASSNAHMEN (bis [DATUM])
 1. [...]
@@ -525,10 +525,10 @@ VI. KOSTEN / HONORARRAHMEN
 
 ## 4. `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan`
 
-**Fokus:** Workflow-Skill zu fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Arbeitsmodul zu fachanwalt insolvenz sanierungsrecht restrukturierungsplan: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Arbeitsmodul zu fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
 - **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
 - **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
@@ -730,7 +730,7 @@ Restrukturierungsbeauftragter § 73 StaRUG: Vergütung nach § 80 StaRUG analog 
 - StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz), BGBl. 2020 I S. 3256
 - InsO §§ 17–19 (Eröffnungsgründe)
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat) — Verfassungsbeschwerde von Minderheitsaktionären (VARTA AG) gegen gerichtliche Bestätigung eines Restrukturierungsplans (Kapitalherabsetzung auf Null, Bezugsrechtsausschluss) als unzulässig zurückgewiesen; Beschwerde war nicht gegen § 66 Abs. 2 Nr. 3 StaRUG selbst gerichtet. Bedeutung: StaRUG-Sanierungen mit Eingriff in Aktionärsrechte sind verfassungsrechtlich nicht generell ausgeschlossen.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Konkrete LG/OLG-Entscheidungen zu StaRUG-Praxis (Mehrheiten, Cross-Class-Cramdown § 26 StaRUG, Stabilisierungsanordnungen § 49 StaRUG) vor Ausgabe über offene Quellen verifizieren.
 - Literatur (Braun, Morgen/Heise, Flöther) nur bei vorhandenem Live-Zugriff oder vom Nutzer bereitgestellter Quelle zitieren.
 

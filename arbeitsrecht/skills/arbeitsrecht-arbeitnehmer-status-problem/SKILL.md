@@ -1,13 +1,13 @@
 ---
 name: arbeitsrecht-arbeitnehmer-status-problem
-description: "Nutze dies, wenn Arbeitnehmer Status, Arbeitsrecht Anpassen, Arbeitsrecht Mandat Arbeitsbereich, Arbeitsrecht Problem Sortieren im Plugin Arbeitsrecht konkret bearbeitet werden soll. Auslöser: Bitte Arbeitnehmer Status, Arbeitsrecht Anpassen, Arbeitsrecht Mandat Arbeitsbereich, Arbeitsrecht Problem Sortieren prüfen.; Erstelle eine Arbeitsfassung zu Arbeitnehmer Status, Arbeitsrecht Anpassen, Arbeitsrecht Mandat Arbeitsbereich, Arbeitsrecht Problem Sortieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Arbeitnehmer Status, Arbeitsrecht Anpassen, Arbeitsrecht Mandat Arbeitsbereich, Arbeitsrecht Problem Sortieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Arbeitnehmer Status, Arbeitsrecht Anpassen, Arbeitsrecht Mandat Arbeitsbereich, Arbeitsrecht Problem Sortieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Arbeitnehmer Status, Arbeitsrecht Anpassen, Arbeitsrecht Mandat Arbeitsbereich, Arbeitsrecht Problem Sortieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -76,12 +76,12 @@ Bevor losgelegt wird, kläre:
 - **BAG, Urteil vom 01.12.2020 - 9 AZR 102/20** (Crowdworker / Plattformarbeit): Auch ein Crowdworker, der ueber eine Smartphone-App Mikroauftraege erfuellt, kann Arbeitnehmer sein, wenn die organisatorische Einbindung (z.B. Anreizsystem mit Stufen / Level / Bewertung) ihn zur staendigen Auftragsannahme veranlasst und faktisch fremdbestimmte Arbeit erzwingt. Eine starre vertragliche Bezeichnung ist unerheblich; entscheidend ist die tatsaechliche Durchfuehrung. Quelle: dejure.org-Vernetzung BAG 01.12.2020 - 9 AZR 102/20.
 - Hinweis: BAG hat den Crowdworker-Status seitdem nicht generell ausgeweitet, jeder Einzelfall ist anhand der typusbildenden Merkmale (Weisungsgebundenheit, persoenliche Abhaengigkeit, Fremdbestimmung) zu pruefen.
 - **EU-Plattformarbeitsrichtlinie (EU) 2024/2831 vom 23.10.2024** (ABl. L vom 11.11.2024; CELEX 32024L2831) - Umsetzungsfrist 02.12.2026:
-  - **Widerlegbare gesetzliche Vermutung** eines Arbeitsverhaeltnisses (Art. 5): liegen Tatsachen vor, die auf Steuerung und Kontrolle hindeuten, wird ein Arbeitsverhaeltnis vermutet; **die Beweislast fuer das Nichtbestehen liegt bei der digitalen Arbeitsplattform**; gilt nur fuer Zeitraeume ab 02.12.2026 (keine Rueckwirkung).
-  - **Algorithmisches Management (Kapitel III)**: Verbot der Verarbeitung bestimmter Daten (emotionaler Zustand, Privatgespraeche, Gewerkschaftszugehoerigkeit, sensible Merkmale, biometrische Identifizierung); Pflicht zur Datenschutz-Folgenabschaetzung mit Einbindung der Beschaeftigtenvertreter; Transparenzpflicht ueber Einsatz und Funktionsweise automatisierter Systeme.
-  - **Menschliche Aufsicht**: Entscheidungen ueber **Kontosperrung oder Vertragsbeendigung** muessen zwingend von einem Menschen getroffen werden; Recht auf Erklaerung und Ueberpruefung automatisierter Entscheidungen innerhalb von zwei Wochen.
-  - **Anwendungsbereich**: gilt fuer Plattformarbeitende mit Arbeitsvertrag/Arbeitsverhaeltnis; Vorschriften zum algorithmischen Management auch fuer Personen ohne Arbeitsvertrag.
-  - Umsetzung in deutsches Recht (vermutlich Aenderung BGB, BetrVG, NachweisG) steht aus; Praxis sollte im Mandat bereits ab 2026 die Vermutungsregel mitdenken.
-  - Quelle: eur-lex.europa.eu - https://eur-lex.europa.eu/eli/dir/2024/2831/oj
+ - **Widerlegbare gesetzliche Vermutung** eines Arbeitsverhaeltnisses (Art. 5): liegen Tatsachen vor, die auf Steuerung und Kontrolle hindeuten, wird ein Arbeitsverhaeltnis vermutet; **die Beweislast fuer das Nichtbestehen liegt bei der digitalen Arbeitsplattform**; gilt nur fuer Zeitraeume ab 02.12.2026 (keine Rueckwirkung).
+ - **Algorithmisches Management (Kapitel III)**: Verbot der Verarbeitung bestimmter Daten (emotionaler Zustand, Privatgespraeche, Gewerkschaftszugehoerigkeit, sensible Merkmale, biometrische Identifizierung); Pflicht zur Datenschutz-Folgenabschaetzung mit Einbindung der Beschaeftigtenvertreter; Transparenzpflicht ueber Einsatz und Funktionsweise automatisierter Systeme.
+ - **Menschliche Aufsicht**: Entscheidungen ueber **Kontosperrung oder Vertragsbeendigung** muessen zwingend von einem Menschen getroffen werden; Recht auf Erklaerung und Ueberpruefung automatisierter Entscheidungen innerhalb von zwei Wochen.
+ - **Anwendungsbereich**: gilt fuer Plattformarbeitende mit Arbeitsvertrag/Arbeitsverhaeltnis; Vorschriften zum algorithmischen Management auch fuer Personen ohne Arbeitsvertrag.
+ - Umsetzung in deutsches Recht (vermutlich Aenderung BGB, BetrVG, NachweisG) steht aus; Praxis sollte im Mandat bereits ab 2026 die Vermutungsregel mitdenken.
+ - Quelle: eur-lex.europa.eu - https://eur-lex.europa.eu/eli/dir/2024/2831/oj
 - Aktualisierungen vor Schriftsatzverwendung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de, bundessozialgericht.de) pruefen.
 
 ## Quellenregel
@@ -178,24 +178,24 @@ VERTRAULICH – MANDATSGEHEIMNIS – § 43a Abs. 2 BRAO
 
 Ergebnis: [Selbständig / Grenzfall / Arbeitnehmerstatus wahrscheinlich]
 
-I.   § 611a BGB Gesamtbild
-     Indizien für Arbeitnehmer: [Liste]
-     Indizien für Selbständigen: [Liste]
-     Gesamtbewertung: [Ergebnis]
+I. § 611a BGB Gesamtbild
+ Indizien für Arbeitnehmer: [Liste]
+ Indizien für Selbständigen: [Liste]
+ Gesamtbewertung: [Ergebnis]
 
-II.  § 7 SGB IV (SV-rechtlich)
-     Nachzahlungsrisiko: [Betrag] bei [N] Jahren rückwirkend
-     Strafbarkeit § 266a StGB: [ja / nein / Prüfen]
+II. § 7 SGB IV (SV-rechtlich)
+ Nachzahlungsrisiko: [Betrag] bei [N] Jahren rückwirkend
+ Strafbarkeit § 266a StGB: [ja / nein / Prüfen]
 
 III. AÜG-Relevanz (falls gegeben)
-     Erlaubnis vorhanden: [ja / nein]
-     Höchstüberlassungsdauer erreicht: [ja / nein / Datum]
+ Erlaubnis vorhanden: [ja / nein]
+ Höchstüberlassungsdauer erreicht: [ja / nein / Datum]
 
-IV.  Clearingverfahren empfohlen? [ja / nein – Begründung]
+IV. Clearingverfahren empfohlen? [ja / nein – Begründung]
 
-V.   Gestaltungsempfehlungen
-     1. [konkrete Maßnahme]
-     2. [konkrete Maßnahme]
+V. Gestaltungsempfehlungen
+ 1. [konkrete Maßnahme]
+ 2. [konkrete Maßnahme]
 
 Risikobewertung: [🔴 / 🟡 / 🟢]
 ```
@@ -298,13 +298,13 @@ Relevante Normen je nach Änderungsbereich:
 ```
 Profil-Änderung: [Kürzel der Änderung]
 ================================================
-Geändert:  [Abschnitt in CLAUDE.md]
+Geändert: [Abschnitt in CLAUDE.md]
 
 Vorher:
-  [Alt-Wert]
+ [Alt-Wert]
 
 Nachher:
-  [Neu-Wert]
+ [Neu-Wert]
 
 Gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md
 ```
@@ -380,13 +380,13 @@ Falls `Aktiviert: ✗` (Syndikus / in-house):
 **`neu <kürzel>`** – Neue Mandatsakte anlegen.
 1. Kürzel in Kleinbuchstaben, Bindestriche erlaubt (z.B. `mueller-ksg-2024`).
 2. Kurzes Intake-Interview:
-   > - Mandantenname (intern, nicht für Ausgaben)
-   > - Sachverhalt in einem Satz (Kündigung / Untersuchung / Entsendung / Tarifstreit)
-   > - Zuständiger Anwalt
-   > - Aktenstatus: offen / ruhend / geschlossen
-   > - Besondere Vertraulichkeitsstufe?
+ > - Mandantenname (intern, nicht für Ausgaben)
+ > - Sachverhalt in einem Satz (Kündigung / Untersuchung / Entsendung / Tarifstreit)
+ > - Zuständiger Anwalt
+ > - Aktenstatus: offen / ruhend / geschlossen
+ > - Besondere Vertraulichkeitsstufe?
 3. `mandat.md`, `verlauf.md` und `notizen.md` anlegen unter:
-   `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/akten/<kürzel>/`
+ `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/akten/<kürzel>/`
 
 **`auflisten`** – Alle Akten tabellarisch mit Status und aktive-Akte-Flag anzeigen.
 
@@ -417,25 +417,25 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 ```
 Mandatsakte angelegt: mueller-ksg-2024
 ========================================
-Mandant:    [intern anonymisiert]
+Mandant: [intern anonymisiert]
 Sachverhalt: Kündigungsschutzklage nach betriebsbedingter Kündigung
-Anwalt:     [Name]
-Status:     offen
-Ablage:     ~/.../akten/mueller-ksg-2024/
+Anwalt: [Name]
+Status: offen
+Ablage: ~/.../akten/mueller-ksg-2024/
 
 Dateien erstellt:
-  mandat.md    – Akten-Stammdaten und Kontext
-  verlauf.md   – Chronologisches Protokoll
-  notizen.md   – Freie Notizen, entwürfe, Recherche-Ergebnisse
+ mandat.md – Akten-Stammdaten und Kontext
+ verlauf.md – Chronologisches Protokoll
+ notizen.md – Freie Notizen, entwürfe, Recherche-Ergebnisse
 ```
 
 **Auflisten:**
 ```
 Mandantenakten – Arbeitsrecht
 =================================
-● mueller-ksg-2024     [offen]    Kündigungsschutzklage      geändert: heute
-  bayer-betriebsrat    [ruhend]   BR-Streitigkeit § 87 BetrVG   geändert: vor 3 Wo.
-  huber-entsendung     [offen]    Entsendung Frankreich          geändert: gestern
+● mueller-ksg-2024 [offen] Kündigungsschutzklage geändert: heute
+ bayer-betriebsrat [ruhend] BR-Streitigkeit § 87 BetrVG geändert: vor 3 Wo.
+ huber-entsendung [offen] Entsendung Frankreich geändert: gestern
 
 ● = aktive Akte
 ```
@@ -487,7 +487,7 @@ Kündigung wegen betriebsbedingter Restrukturierung, Sozialauswahl streitig.
 
 ## Zweck
 
-Dieser Skill ist der ruhige erste Tisch in einer unuebersichtlichen arbeitsrechtlichen Lage. Er beginnt nicht mit einem Schema, sondern mit Ordnung: Was ist passiert, was will die Person erreichen, was liegt als Dokument vor, was eilt und welcher Spezial-Skill hilft jetzt wirklich?
+Dieser Skill ist der ruhige erste Tisch in einer unuebersichtlichen arbeitsrechtlichen Lage. Er beginnt nicht mit einem Schema, sondern mit Ordnung: Was ist passiert, was will die Person erreichen, was liegt als Dokument vor, was eilt und welcher Fachmodul hilft jetzt wirklich?
 
 ## Vier Pflichtbausteine
 

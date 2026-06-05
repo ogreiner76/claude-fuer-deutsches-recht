@@ -1,6 +1,6 @@
 ---
 name: output-behoerdenbrief-sop-mandantenmemo
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Behördenbrief SOP Mandantenmemo."
+description: "Nutze dies bei Output Behördenbrief SOP Mandantenmemo: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output Behördenbrief SOP Mandantenmemo

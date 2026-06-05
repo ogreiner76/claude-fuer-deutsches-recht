@@ -1,13 +1,13 @@
 ---
 name: wirtschaftspruefer-testat-widerruf-ergaenzung
-description: "Nutze dies, wenn Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Organisation, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Rechtsprechu, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo im Plugin Berufsrecht Wirtschaftspruefer konkret bearbeitet werden soll. Auslöser: Bitte Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Organisation, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Rechtsprechu, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo prüfen.; Erstelle eine Arbeitsfassung zu Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Organisation, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Rechtsprechu, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Organisation, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Rechtsprechu, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Organisation, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Rechtsprechu, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Kammerantwor, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Organisation, Wirtschaftspruefer Testat Widerruf Oder Ergaenzung Rechtsprechu, Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

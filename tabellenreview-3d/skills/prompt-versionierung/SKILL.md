@@ -57,17 +57,17 @@ Semantische Versions-ID pro Prompt: `<spalte-id>@<major>.<minor>.<patch>`
 
 ```yaml
 - spalte-id: change-of-control
-  version: "2.1.0"
-  wortlaut: |
-    Enthält der Vertrag eine Klausel die bei Kontrollwechsel ...
-  antworttyp: zitat-mit-fundstelle-und-schwelle
-  ampel-regel:
-    rot: "Klausel vorhanden + harte Kündigungsfolge ohne Heilung"
-    gelb: "Zustimmungsvorbehalt mit unklarer Schwelle"
-    gruen: "Keine Klausel oder branchenübliche Schwelle"
-  geaendert-am: "2026-05-20"
-  geaendert-von: "anwalt-x"
-  migrationspfad: "Patch-Änderung — bestehende Zellen behalten gültig."
+ version: "2.1.0"
+ wortlaut: |
+ Enthält der Vertrag eine Klausel die bei Kontrollwechsel ...
+ antworttyp: zitat-mit-fundstelle-und-schwelle
+ ampel-regel:
+ rot: "Klausel vorhanden + harte Kündigungsfolge ohne Heilung"
+ gelb: "Zustimmungsvorbehalt mit unklarer Schwelle"
+ gruen: "Keine Klausel oder branchenübliche Schwelle"
+ geaendert-am: "2026-05-20"
+ geaendert-von: "anwalt-x"
+ migrationspfad: "Patch-Änderung — bestehende Zellen behalten gültig."
 ```
 
 ## Integration mit Audit-Trail

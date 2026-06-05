@@ -1,13 +1,13 @@
 ---
 name: uwg-systematik-statt-streit
-description: "Nutze dies, wenn Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Vergleichsverhandlung Strategie im Plugin Fachanwalt Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Vergleichsverhandlung Strategie prüfen.; Erstelle eine Arbeitsfassung zu Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Vergleichsverhandlung Strategie.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Vergleichsverhandlung Strategie: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Vergleichsverhandlung Strategie
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Uwg Systematik Und Anwendung, Vergleich Statt Streit Strategie, Vergleichsverhandlung Strategie** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -60,30 +60,30 @@ Dieser Skill liefert die systematische Übersicht des UWG und praxisnahe Werkzeu
 
 ```
 Schritt 1: Anwendungsbereich
-  → Geschäftliche Handlung i.S.v. § 2 Abs. 1 Nr. 2 UWG?
-  → B2B oder B2C? (Unterschiede im Rechtsschutz)
+ → Geschäftliche Handlung i.S.v. § 2 Abs. 1 Nr. 2 UWG?
+ → B2B oder B2C? (Unterschiede im Rechtsschutz)
 
 Schritt 2: Verbotstatbestand
-  → §§ 3a, 4, 4a, 5, 5a, 6, 7 UWG oder Anhang?
-  → Spürbarkeit (§ 3 Abs. 1 UWG; bei Verbraucherschutz: entfällt bei schwarzer Liste)
+ → §§ 3a, 4, 4a, 5, 5a, 6, 7 UWG oder Anhang?
+ → Spürbarkeit (§ 3 Abs. 1 UWG; bei Verbraucherschutz: entfällt bei schwarzer Liste)
 
 Schritt 3: Aktivlegitimation (§ 8 Abs. 3 UWG)
-  → Mitbewerber (konkretes Wettbewerbsverhältnis)?
-  → Qualifizierter Verband (BfJ-Liste § 8b UWG)?
-  → IHK / HWK / Kammer?
+ → Mitbewerber (konkretes Wettbewerbsverhältnis)?
+ → Qualifizierter Verband (BfJ-Liste § 8b UWG)?
+ → IHK / HWK / Kammer?
 
 Schritt 4: Wiederholungsgefahr / Erstbegehungsgefahr
-  → Begehungsform (Unterlassung vs. Beseitigung)
+ → Begehungsform (Unterlassung vs. Beseitigung)
 
 Schritt 5: Verschulden (für Schadensersatz § 9 UWG)
-  → Vorsatz oder Fahrlässigkeit
+ → Vorsatz oder Fahrlässigkeit
 
 Schritt 6: Anspruchsumfang
-  → Unterlassung (§ 8 Abs. 1 UWG)
-  → Beseitigung
-  → Schadensersatz (§ 9 UWG)
-  → Auskunft (§ 9 Abs. 1 UWG: „soweit erforderlich")
-  → Abmahnkosten (§ 13 Abs. 3 UWG)
+ → Unterlassung (§ 8 Abs. 1 UWG)
+ → Beseitigung
+ → Schadensersatz (§ 9 UWG)
+ → Auskunft (§ 9 Abs. 1 UWG: „soweit erforderlich")
+ → Abmahnkosten (§ 13 Abs. 3 UWG)
 ```
 
 ## Typische Tatbestände mit Beispielen
@@ -134,7 +134,7 @@ II. Die Verletzungshandlung verwirklicht [§ 5 / § 5a / § 7] UWG.
 III. Dringlichkeit: § 12 Abs. 1 UWG; Kenntniszeitpunkt: [Datum].
 ```
 
-## Kaltstart
+## Einstieg
 1. Welcher konkrete Verstoß liegt vor (Irreführung / Spam / Nachahmung / Rechtsbruch)?
 2. Wer ist aktivlegitimiert (Mitbewerber, Verband)?
 3. Liegt eine eingehende oder ausgehende Abmahnung vor?
@@ -273,7 +273,7 @@ von EUR [Betrag] für jeden Fall der Zuwiderhandlung (Hamburger Brauch).
 - Entsteht, wenn anwaltliche Tätigkeit zur Einigung beigetragen hat.
 - Streitwert-Beispiel 50.000 €: 1,5 × Tabellenwert = ca. 1.893 € netto.
 
-## Kaltstart
+## Einstieg
 1. In welchem Stadium ist das Verfahren (Abmahnung / EV / Klage / bereits tituliert)?
 2. Gibt es Anzeichen für Vergleichsbereitschaft der Gegenseite?
 3. Welche Vergleichsoption kommt in Betracht (Lizenz / Abgrenzung / Einmalzahlung)?
@@ -347,29 +347,29 @@ In Marken-, Patent-, Design- und Wettbewerbsrecht typische Interessen-Cluster:
 
 ```
 Schritt 1: Analyse BATNA und ZOPA
-  → Prozessprognose erstellen (Erfolgswahrscheinlichkeit, Kosten, Dauer)
-  → Vergleichszahlung gegen Prozesskostenprognose stellen
+ → Prozessprognose erstellen (Erfolgswahrscheinlichkeit, Kosten, Dauer)
+ → Vergleichszahlung gegen Prozesskostenprognose stellen
 
 Schritt 2: Verhandlungs-Einstieg
-  → Anker setzen: erste Position hoeher als Zielwert, aber begruendbar
-  → Mit konkreten Normen verknuepfen (BGH-Leitentscheidungen nennen)
+ → Anker setzen: erste Position hoeher als Zielwert, aber begruendbar
+ → Mit konkreten Normen verknuepfen (BGH-Leitentscheidungen nennen)
 
 Schritt 3: Konzessionsphase
-  → Kleine, begruendete Schritte nachgeben
-  → Jede Konzession an Gegenleistung knuepfen
-  → Konzessionen abnehmend (nicht linear)
+ → Kleine, begruendete Schritte nachgeben
+ → Jede Konzession an Gegenleistung knuepfen
+ → Konzessionen abnehmend (nicht linear)
 
 Schritt 4: Modifizierte UE oder Vergleichssumme
-  → Anti-Hammer-Klausel einbauen
-  → Abgeltungsklausel-Reichweite klaeren (eng / mittel / weit)
+ → Anti-Hammer-Klausel einbauen
+ → Abgeltungsklausel-Reichweite klaeren (eng / mittel / weit)
 
 Schritt 5: Vergleichsvertrag entwerfen
-  → Praeambel, Hauptregelung, Faelligkeit, Sicherheiten
-  → Vollstreckungstitel-Ersatz vereinbaren (§ 796a ZPO)
+ → Praeambel, Hauptregelung, Faelligkeit, Sicherheiten
+ → Vollstreckungstitel-Ersatz vereinbaren (§ 796a ZPO)
 
 Schritt 6: Mandantenfreigabe vor Unterzeichnung
-  → Schriftliche Zustimmung Mandant
-  → Steuer- und Vollstreckungs-Memo beifuegen
+ → Schriftliche Zustimmung Mandant
+ → Steuer- und Vollstreckungs-Memo beifuegen
 ```
 
 ## Vergleichsentwurf — Pflichtbestandteile

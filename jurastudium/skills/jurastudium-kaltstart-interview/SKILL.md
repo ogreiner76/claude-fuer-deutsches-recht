@@ -79,8 +79,8 @@ Für jede Lehrveranstaltung:
 ### Schritt 4: Lernstil
 
 1. **Drill oder Erklärung?**
-   - *Drill*: Du willst, dass das Plugin dich fragt, nachbohrt und sagt, wenn deine Begründung unscharf ist.
-   - *Erklärung*: Du willst zuerst klare Darstellungen, dann dich selbst testen.
+ - *Drill*: Du willst, dass das Plugin dich fragt, nachbohrt und sagt, wenn deine Begründung unscharf ist.
+ - *Erklärung*: Du willst zuerst klare Darstellungen, dann dich selbst testen.
 2. Wo bist du stark (Rechtsgebiete, Aufbautypen)?
 3. Wo bist du schwach (Rechtsgebiete, Prüfungsschritte)?
 4. Was vermeidest du systematisch?
@@ -118,7 +118,7 @@ Das Plugin schreibt alle Angaben in `~/.claude/plugins/config/claude-fuer-deutsc
 
 ## Quellen und Zitierweise
 
-Dieser Skill erzeugt keine inhaltlichen juristischen Outputs. Zitierregeln →  `../references/zitierweise.md` werden in den nachgelagerten Skills angewendet.
+Dieser Skill erzeugt keine inhaltlichen juristischen Outputs. Zitierregeln → `../references/zitierweise.md` werden in den nachgelagerten Skills angewendet.
 
 ## Ausgabeformat
 

@@ -1,31 +1,31 @@
 ---
 name: rechtsformwahl-ueber
-description: "Nutze dies, wenn Spezial Rechtsformwahl Behörden Gericht Und Registerweg, Spezial Ueber Schriftsatz Brief Und Memo Bausteine im Plugin Gesellschaftsgruender konkret bearbeitet werden soll. Auslöser: Bitte Spezial Rechtsformwahl Behörden Gericht Und Registerweg, Spezial Ueber Schriftsatz Brief Und Memo Bausteine prüfen.; Erstelle eine Arbeitsfassung zu Spezial Rechtsformwahl Behörden Gericht Und Registerweg, Spezial Ueber Schriftsatz Brief Und Memo Bausteine.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Rechtsformwahl Behörden Gericht Und Registerweg, Ueber Schriftsatz Brief Und Memo Bausteine: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Rechtsformwahl Behörden Gericht Und Registerweg, Spezial Ueber Schriftsatz Brief Und Memo Bausteine
+# Rechtsformwahl Behörden Gericht Und Registerweg, Ueber Schriftsatz Brief Und Memo Bausteine
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Rechtsformwahl Behörden Gericht Und Registerweg, Ueber Schriftsatz Brief Und Memo Bausteine** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-rechtsformwahl-behoerden-gericht-und-registerweg` | Rechtsformwahl: Behörden-, Gerichts- oder Registerweg im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-ueber-schriftsatz-brief-und-memo-bausteine` | Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-rechtsformwahl-behoerden-gericht-und-registerweg` | Rechtsformwahl: Behörden-, Gerichts- oder Registerweg im Gesellschaftsgründung: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-ueber-schriftsatz-brief-und-memo-bausteine` | Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgründung: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Rechtsformwahl Behörden Gericht Und Registerweg, Spezial Ueber Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Rechtsformwahl Behörden Gericht Und Registerweg, Ueber Schriftsatz Brief Und Memo Bausteine** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `gesellschaftsgruender` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-rechtsformwahl-behoerden-gericht-und-registerweg`
 
-**Fokus:** Rechtsformwahl: Behörden-, Gerichts- oder Registerweg im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Rechtsformwahl: Behörden-, Gerichts- oder Registerweg im Gesellschaftsgründung: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Rechtsformwahl: Behörden-, Gerichts- oder Registerweg
 
@@ -39,7 +39,7 @@ Für **Spezial Rechtsformwahl Behörden Gericht Und Registerweg, Spezial Ueber S
 
 
 ## Spezialwissen: Rechtsformwahl: Behörden-, Gerichts- oder Registerweg
-- **Spezialgegenstand:** Rechtsformwahl: Behörden-, Gerichts- oder Registerweg / spezial rechtsformwahl behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Rechtsformwahl: Behörden-, Gerichts- oder Registerweg / rechtsformwahl behoerden gericht und registerweg. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UG, OHG, KG, PartG, MoPeG, DiRUG, GwG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -88,7 +88,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-ueber-schriftsatz-brief-und-memo-bausteine`
 
-**Fokus:** Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgründung: fachlich vertiefter Fachmodul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Ueber: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -102,7 +102,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Ueber: Schriftsatz-, Brief- und Memo-Bausteine
-- **Spezialgegenstand:** Ueber: Schriftsatz-, Brief- und Memo-Bausteine / spezial ueber schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ueber: Schriftsatz-, Brief- und Memo-Bausteine / ueber schriftsatz brief und memo bausteine. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** UG, OHG, KG, PartG, MoPeG, DiRUG, GwG.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

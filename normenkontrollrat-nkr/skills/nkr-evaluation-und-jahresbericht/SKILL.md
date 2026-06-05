@@ -32,10 +32,10 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 
 1. **Stoffsammlung** ueber das Berichtsjahr
 2. **Aggregierte Auswertung**:
-   - Anzahl Stellungnahmen
-   - Anteil kritischer Stellungnahmen
-   - Erfuellungsaufwand-Saldo (One-in-one-out-Bilanz)
-   - Auffaellige Trends
+ - Anzahl Stellungnahmen
+ - Anteil kritischer Stellungnahmen
+ - Erfuellungsaufwand-Saldo (One-in-one-out-Bilanz)
+ - Auffaellige Trends
 3. **Themenschwerpunkte** identifizieren (z.B. Digitalisierung, EU-Umsetzung)
 4. **Empfehlungen** an Bundesregierung und Bundestag
 5. **Veroeffentlichung** und Pressearbeit
@@ -45,17 +45,17 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 1. **Evaluierungspflicht** pruefen (Konzept der Bundesregierung)
 2. **Zeitpunkt**: regelmaessig 3-5 Jahre nach Inkrafttreten
 3. **Indikatoren**:
-   - Fallzahlen
-   - Tatsaechlicher Erfuellungsaufwand vs. Schaetzung
-   - Zielereichung
-   - Unbeabsichtigte Folgen
+ - Fallzahlen
+ - Tatsaechlicher Erfuellungsaufwand vs. Schaetzung
+ - Zielereichung
+ - Unbeabsichtigte Folgen
 4. **Vergleichswerte**:
-   - Soll-Werte aus Begruendung
-   - Vorperiode
+ - Soll-Werte aus Begruendung
+ - Vorperiode
 5. **Folgen**:
-   - Korrektur
-   - Aufhebung
-   - Unveraendert
+ - Korrektur
+ - Aufhebung
+ - Unveraendert
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 

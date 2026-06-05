@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Nutze dies, wenn Anschluss-Routing im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Ich habe ein neues Thema im Bereich Berufsrecht Ki Vertragspruefung.; Welche Unterlagen brauchen Sie?; Welcher Spezialskill passt?."
+description: "Nutze dies zum Einstieg in Anschluss-Routing: klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad."
 ---
 
 # Anschluss-Routing
@@ -12,7 +12,7 @@ Nutze diesen Skill, wenn im Bereich **Berufsrecht Ki Vertragspruefung** ein Fall
 ## Fachlandkarte dieses Plugins
 
 - `ai-act-rollen-kanzlei-provider-deployer-api` — Ai Act Rollen Kanzlei Provider Deployer Api
-- `allgemein-brki-rollout-workflow-chronologie` — Allgemein Brki Rollout Workflow Chronologie
+- `allgemein-brki-rollout-workflow-chronologie` — Allgemein Brki Rollout Chronologie
 - `anbietern-belehrung-sonderfall-edge` — Anbietern Belehrung Sonderfall Edge
 - `art-50-ki-vo-schriftsatz-marketing-chatbot` — Art 50 Ki Vo Schriftsatz Marketing Chatbot
 - `avv-grenzpruefung-brki-anbieter-brki-eu` — Avv Grenzpruefung Brki Anbieter Brki Eu
@@ -29,7 +29,7 @@ Nutze diesen Skill, wenn im Bereich **Berufsrecht Ki Vertragspruefung** ein Fall
 ## Arbeitsweg
 
 - Passende Anschluss-Skills nach Sachverhalt, Rolle, Frist und gewünschtem Output auswählen.
-- Nicht mehrere Spezialpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
+- Nicht mehrere Fachpfade parallel aufblasen; zuerst den entscheidenden Engpass lösen.
 - Bei Grenzfällen zwei Pfade kurz gegenüberstellen und eine Empfehlung geben.
 - Router-Entscheidung dokumentieren, damit die Akte nachvollziehbar bleibt.
 

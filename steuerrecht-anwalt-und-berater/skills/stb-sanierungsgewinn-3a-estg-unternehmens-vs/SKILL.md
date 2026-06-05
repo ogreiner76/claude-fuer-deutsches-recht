@@ -31,7 +31,7 @@ description: "Abgrenzung unternehmensbezogene Sanierung gegen personenbezogene S
 - **§ 4 EStG, § 5 EStG** — Betriebsvermögensvergleich; Abgrenzung Betrieb / Privat.
 - **§§ 286 ff. InsO** — Restschuldbefreiungsverfahren.
 
-## Workflow / Schritt für Schritt
+## / Schritt für Schritt
 
 ### Variante A: unternehmensbezogene Sanierung (§ 3a Abs. 1, 2 EStG)
 
@@ -108,7 +108,7 @@ IV. Ergebnis
 § 3a Abs. [1 / 5] EStG anwendbar.
 
 V. Folge: Antrag § 3a Abs. 4 EStG mit Berücksichtigung
-    der spezifischen Voraussetzungen.
+ der spezifischen Voraussetzungen.
 ```
 
 ### Berechnungsbeispiel Personengesellschaft mit gemischtem Verzicht
@@ -116,14 +116,14 @@ V. Folge: Antrag § 3a Abs. 4 EStG mit Berücksichtigung
 ```
 KG mit zwei Kommanditisten 50/50:
 
-Verzicht Bankdarlehen Gesamthandsvermögen        EUR 800.000
-  ► je Mitunternehmer EUR 400.000 Sanierungsertrag
-  ► je Mitunternehmer Antrag § 3a Abs. 4 EStG
+Verzicht Bankdarlehen Gesamthandsvermögen EUR 800.000
+ ► je Mitunternehmer EUR 400.000 Sanierungsertrag
+ ► je Mitunternehmer Antrag § 3a Abs. 4 EStG
 
 Verzicht Gesellschafterdarlehen Kommanditist A
-  Sonderbetriebsvermögen                         EUR 200.000
-  ► nur Kommanditist A betroffen
-  ► getrennte Prüfung in dessen Steuererklärung
+ Sonderbetriebsvermögen EUR 200.000
+ ► nur Kommanditist A betroffen
+ ► getrennte Prüfung in dessen Steuererklärung
 ```
 
 ## Typische Fehler

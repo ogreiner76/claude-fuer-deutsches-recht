@@ -1,6 +1,6 @@
 ---
 name: rom-066-glossatoren-und-kommentatoren
-description: "Römisches Recht: Glossatoren Und Kommentatoren. Geführter Spezialskill mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
+description: "Römisches Recht: Glossatoren Und Kommentatoren. Geführter Fachmodul mit Quellenlogik, Prüfroutine, Red-Team-Fragen und verwertbarem Output."
 ---
 
 # Glossatoren Und Kommentatoren

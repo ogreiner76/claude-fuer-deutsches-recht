@@ -72,14 +72,14 @@ Antraege:
 1. Die Klage wird abgewiesen.
 
 2. Widerklage: Die Klaegerin (Widerbeklagte)
-   wird verurteilt, an den Beklagten
-   (Widerklaeger) 1.800 EUR nebst Zinsen
-   in Hoehe von 5 Prozentpunkten ueber dem
-   Basiszinssatz seit [Datum] zu zahlen.
+ wird verurteilt, an den Beklagten
+ (Widerklaeger) 1.800 EUR nebst Zinsen
+ in Hoehe von 5 Prozentpunkten ueber dem
+ Basiszinssatz seit [Datum] zu zahlen.
 
 3. Die Kosten des Rechtsstreits einschliesslich
-   der Widerklage traegt die Klaegerin
-   (Widerbeklagte).
+ der Widerklage traegt die Klaegerin
+ (Widerbeklagte).
 
 Begruendung Widerklage:
 

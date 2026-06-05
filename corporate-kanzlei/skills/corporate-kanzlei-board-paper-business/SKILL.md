@@ -78,49 +78,49 @@ Vertraulichkeitsstufe: [Intern / Streng vertraulich]
 Organ: [Vorstand / Geschäftsführung / Aufsichtsrat]
 
 1. EXECUTIVE SUMMARY
-   Empfehlung: [Handlungsempfehlung in 2–3 Sätzen]
-   Entscheidungsbedarf bis: [Datum]
-   Freigabeerfordernis: [AR-Zustimmung / keine / GV-Beschluss]
+ Empfehlung: [Handlungsempfehlung in 2–3 Sätzen]
+ Entscheidungsbedarf bis: [Datum]
+ Freigabeerfordernis: [AR-Zustimmung / keine / GV-Beschluss]
 
 2. SACHVERHALT
-   [Ausgangssituation; Anlass; wesentliche Fakten]
+ [Ausgangssituation; Anlass; wesentliche Fakten]
 
 3. RECHTLICHE RAHMENBEDINGUNGEN
-   [Normen; Zustimmungsvorbehalte; Legalitätsrisiken]
+ [Normen; Zustimmungsvorbehalte; Legalitätsrisiken]
 
 4. ALTERNATIVEN
-   | Alternative | Vorteile | Nachteile | Risikobewertung |
-   |-------------|----------|-----------|-----------------|
-   | A: [Option] | [Pro]    | [Con]     | [Hoch/Mittel/Niedrig] |
-   | B: [Option] | [Pro]    | [Con]     | [Hoch/Mittel/Niedrig] |
-   | C: Status quo | [Pro] | [Con]    | [Hoch/Mittel/Niedrig] |
+ | Alternative | Vorteile | Nachteile | Risikobewertung |
+ |-------------|----------|-----------|-----------------|
+ | A: [Option] | [Pro] | [Con] | [Hoch/Mittel/Niedrig] |
+ | B: [Option] | [Pro] | [Con] | [Hoch/Mittel/Niedrig] |
+ | C: Status quo | [Pro] | [Con] | [Hoch/Mittel/Niedrig] |
 
 5. INFORMATIONSGRUNDLAGE
-   - Externe Berater: [Kanzlei, Mandat-Nr., Datum]
-   - DD-Bericht: [Titel, Version, Datum]
-   - Interne Fachbereiche: [Bericht, Datum]
-   - Gutachten: [Gutachter, Datum]
-   [Hinweis auf KI-Nutzung bei Analyse sofern eingesetzt:
-    Tool, Zweck, Plausibilisierung durch wen]
+ - Externe Berater: [Kanzlei, Mandat-Nr., Datum]
+ - DD-Bericht: [Titel, Version, Datum]
+ - Interne Fachbereiche: [Bericht, Datum]
+ - Gutachten: [Gutachter, Datum]
+ [Hinweis auf KI-Nutzung bei Analyse sofern eingesetzt:
+ Tool, Zweck, Plausibilisierung durch wen]
 
 6. RISIKEN UND RISIKOABWÄGUNG
-   | Risiko | Eintrittswahrsch. | Schaden | Minderung |
-   |--------|-------------------|---------|-----------|
-   | [Risiko 1] | [%] | [EUR] | [Maßnahme] |
+ | Risiko | Eintrittswahrsch. | Schaden | Minderung |
+ |--------|-------------------|---------|-----------|
+ | [Risiko 1] | [%] | [EUR] | [Maßnahme] |
 
 7. EMPFEHLUNG
-   [Klare Empfehlung mit Begründung]
-   Owner: [Name/Funktion]
-   Zeitplan: [Meilensteine]
+ [Klare Empfehlung mit Begründung]
+ Owner: [Name/Funktion]
+ Zeitplan: [Meilensteine]
 
 8. OFFENE PUNKTE (TODO)
-   | Nr. | Punkt | Owner | Frist | Eskalation |
-   |----|-------|-------|-------|------------|
-   | 1  | [Punkt] | [Name] | [Datum] | [Stufe] |
+ | Nr. | Punkt | Owner | Frist | Eskalation |
+ |----|-------|-------|-------|------------|
+ | 1 | [Punkt] | [Name] | [Datum] | [Stufe] |
 
 9. ANLAGEN
-   - [Anlage 1: Beschreibung]
-   - [Anlage 2: Beschreibung]
+ - [Anlage 1: Beschreibung]
+ - [Anlage 2: Beschreibung]
 
 Erstellungsdatum: [Datum]
 Version: [Nr.]

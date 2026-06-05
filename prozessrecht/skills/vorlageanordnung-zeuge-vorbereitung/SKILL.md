@@ -1,13 +1,13 @@
 ---
 name: vorlageanordnung-zeuge-vorbereitung
-description: "Nutze dies, wenn Vorlageanordnung, Zeuge Vorbereitung im Plugin Prozessrecht konkret bearbeitet werden soll. Auslöser: Bitte Vorlageanordnung, Zeuge Vorbereitung prüfen.; Erstelle eine Arbeitsfassung zu Vorlageanordnung, Zeuge Vorbereitung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vorlageanordnung, Zeuge Vorbereitung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Vorlageanordnung, Zeuge Vorbereitung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vorlageanordnung, Zeuge Vorbereitung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -366,9 +366,9 @@ Vorbereitung auf eine Zeugenvernehmung im deutschen Zivil- oder Strafverfahren. 
 1. **Zeugenprofil erstellen:** Aus Mandatsakte und Chronologie: Was weiß der Zeuge, was hat er gesagt, welche Dokumente hat er unterzeichnet?
 
 2. **Themengliederung:**
-   - Kernthemen (direkt anspruchsrelevant)
-   - Glaubwürdigkeitsthemen (Widersprüche zu früheren Aussagen, Eigeninteresse)
-   - Bestätigungsthemen (ungünstige Tatsachen aus Zeugen-Sicht bestätigen lassen)
+ - Kernthemen (direkt anspruchsrelevant)
+ - Glaubwürdigkeitsthemen (Widersprüche zu früheren Aussagen, Eigeninteresse)
+ - Bestätigungsthemen (ungünstige Tatsachen aus Zeugen-Sicht bestätigen lassen)
 
 3. **Fragenkatalog:** Geschlossene Kontrollfragen (auf ein Ja/Nein ausgerichtet) zuerst; offene Fragen nur bei sicherer Antwort; Fangfragen vermeiden (Prozessrisiko: Zeuge weicht aus).
 

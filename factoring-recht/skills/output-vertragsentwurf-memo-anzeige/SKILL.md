@@ -1,6 +1,6 @@
 ---
 name: output-vertragsentwurf-memo-anzeige
-description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Output Vertragsentwurf Memo Anzeige."
+description: "Nutze dies bei Output Vertragsentwurf Memo Anzeige: prüft die konkrete Fachfrage mit Normen, Belegen, Risiken, Gegenargumenten und einem verwertbaren Arbeitsergebnis."
 ---
 
 # Output Vertragsentwurf Memo Anzeige

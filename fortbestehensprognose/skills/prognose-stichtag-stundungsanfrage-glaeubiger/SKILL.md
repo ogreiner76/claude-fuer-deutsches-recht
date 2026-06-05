@@ -1,13 +1,13 @@
 ---
 name: prognose-stichtag-stundungsanfrage-glaeubiger
-description: "Nutze dies, wenn Prognose Dokumentation Stichtag, Stundungsanfrage Glaeubiger, Annahmen Belastbarkeit Plausibilisieren im Plugin Fortbestehensprognose konkret bearbeitet werden soll. Auslöser: Bitte Prognose Dokumentation Stichtag, Stundungsanfrage Glaeubiger, Annahmen Belastbarkeit Plausibilisieren prüfen.; Erstelle eine Arbeitsfassung zu Prognose Dokumentation Stichtag, Stundungsanfrage Glaeubiger, Annahmen Belastbarkeit Plausibilisieren.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Prognose Dokumentation Stichtag, Stundungsanfrage Glaeubiger, Annahmen Belastbarkeit Plausibilisieren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Prognose Dokumentation Stichtag, Stundungsanfrage Glaeubiger, Annahmen Belastbarkeit Plausibilisieren
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Prognose Dokumentation Stichtag, Stundungsanfrage Glaeubiger, Annahmen Belastbarkeit Plausibilisieren** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -113,12 +113,12 @@ Stress-Szenario: [...]
 [Aus Skill sanierungsbausteine-vorschlagen.
 Pro Baustein: Bezeichnung — Höhe — Umsetzungsstatus — Beleg.]
 
-  - Patronatserklärung Hauptgesellschafter 200000 EUR — unterzeichnet
-    am [Datum] — Anlage A1
-  - Gesellschafterdarlehen 120000 EUR mit qualifiziertem Rangrücktritt —
-    notariell beurkundet am [Datum] — Anlage A2
-  - Stundungsvereinbarungen 5 Lieferanten — schriftlich vorhanden am
-    [Datum] — Anlagen A3 bis A7
+ - Patronatserklärung Hauptgesellschafter 200000 EUR — unterzeichnet
+ am [Datum] — Anlage A1
+ - Gesellschafterdarlehen 120000 EUR mit qualifiziertem Rangrücktritt —
+ notariell beurkundet am [Datum] — Anlage A2
+ - Stundungsvereinbarungen 5 Lieferanten — schriftlich vorhanden am
+ [Datum] — Anlagen A3 bis A7
 
 10. GESAMTBEWERTUNG
 
@@ -139,9 +139,9 @@ Folge: [Keine Antragspflicht aus Überschuldung / Antragspflicht ausgeloest]
 
 Diese Prognose ist zu aktualisieren:
 
-  - vierteljaehrlich zum [nächster Stichtag]
-  - bei jeder wesentlichen Änderung der Annahmen
-  - bei Eintritt eines der negativen Ereignisse aus dem Stress-Szenario
+ - vierteljaehrlich zum [nächster Stichtag]
+ - bei jeder wesentlichen Änderung der Annahmen
+ - bei Eintritt eines der negativen Ereignisse aus dem Stress-Szenario
 
 12. ABSCHLIESSENDE ERKLAERUNG DES GESCHAEFTSFUEHRERS
 
@@ -158,13 +158,13 @@ ___________________________
 
 ANLAGEN
 
-  A1 Patronatserklärung Hauptgesellschafter
-  A2 Gesellschafterdarlehen mit Rangrücktritt notariell
-  A3 bis A7 Stundungsvereinbarungen
-  A8 Liquiditätsplan 12 Monate (Excel)
-  A9 Aktueller BWA SuSa
-  A10 Hinweisschreiben Steuerberater § 102 StaRUG
-  A11 Bilanz 2025 mit Anhang
+ A1 Patronatserklärung Hauptgesellschafter
+ A2 Gesellschafterdarlehen mit Rangrücktritt notariell
+ A3 bis A7 Stundungsvereinbarungen
+ A8 Liquiditätsplan 12 Monate (Excel)
+ A9 Aktueller BWA SuSa
+ A10 Hinweisschreiben Steuerberater § 102 StaRUG
+ A11 Bilanz 2025 mit Anhang
 ```
 
 ## Aufbewahrung
@@ -282,15 +282,15 @@ Sehr geehrte Damen und Herren,
 
 mit Bezug auf die offenen Rechnungen
 
-  Rechnung Nr. [...] vom [...] in Höhe von [...] EUR (fällig [...])
-  Rechnung Nr. [...] vom [...] in Höhe von [...] EUR (fällig [...])
-  Gesamt offene Forderung: [...] EUR
+ Rechnung Nr. [...] vom [...] in Höhe von [...] EUR (fällig [...])
+ Rechnung Nr. [...] vom [...] in Höhe von [...] EUR (fällig [...])
+ Gesamt offene Forderung: [...] EUR
 
 bitten wir Sie um Stundung wie folgt:
 
-  - Fälligkeit verschoben auf [neues Datum]
-  - alternativ Ratenzahlung in [N] gleichen Monatsraten ab [Datum]
-  - Erste Rate in Höhe von [...] EUR überweisen wir bereits am [...]
+ - Fälligkeit verschoben auf [neues Datum]
+ - alternativ Ratenzahlung in [N] gleichen Monatsraten ab [Datum]
+ - Erste Rate in Höhe von [...] EUR überweisen wir bereits am [...]
 
 Hintergrund: Unsere Gesellschaft befindet sich in einer angespannten
 wirtschaftlichen Phase die wir aktiv durch Maßnahmen (Standortoptimierung
@@ -321,7 +321,7 @@ An [Bank]
 [Anschrift]
 
 Betreff: Antrag auf Tilgungspause Darlehen Nr. [...] / Verlängerung
-        Kreditlinie
+ Kreditlinie
 
 Sehr geehrte Damen und Herren,
 
@@ -341,9 +341,9 @@ die Fortfuehrung im Prognosezeitraum von zwölf Monaten.
 
 Wir übersenden Ihnen vorab:
 
-  - Fortbestehensprognose mit Stichtag [...]
-  - Patronatserklärung des Hauptgesellschafters vom [...]
-  - 12-Monats-Liquiditätsplan einschließlich Sensitivitaetsszenarien
+ - Fortbestehensprognose mit Stichtag [...]
+ - Patronatserklärung des Hauptgesellschafters vom [...]
+ - 12-Monats-Liquiditätsplan einschließlich Sensitivitaetsszenarien
 
 Für ein persoenliches Gespraech sind wir gerne kurzfristig verfügbar.
 
@@ -371,9 +371,9 @@ Sehr geehrte Damen und Herren,
 namens und im Auftrag der oben genannten Gesellschaft beantragen wir gemäß
 § 222 AO Stundung der nachstehenden Steuern:
 
-  Koerperschaftsteuer Vorauszahlung Q2/2026, fällig [...]: [...] EUR
-  Solidaritaetszuschlag, fällig [...]: [...] EUR
-  Gewerbesteuer Vorauszahlung Q2/2026, fällig [...]: [...] EUR
+ Koerperschaftsteuer Vorauszahlung Q2/2026, fällig [...]: [...] EUR
+ Solidaritaetszuschlag, fällig [...]: [...] EUR
+ Gewerbesteuer Vorauszahlung Q2/2026, fällig [...]: [...] EUR
 
 bis zum [neues Datum] beziehungsweise alternativ Ratenzahlung in
 [N] Monatsraten ab [...].
@@ -390,9 +390,9 @@ fristgerechte Zahlung gesichert.
 
 Auf Verlangen reichen wir Folgendes nach:
 
-  - Fortbestehensprognose mit Stichtag [...]
-  - Aktueller Liquiditätsplan
-  - Patronatserklärung des Hauptgesellschafters
+ - Fortbestehensprognose mit Stichtag [...]
+ - Aktueller Liquiditätsplan
+ - Patronatserklärung des Hauptgesellschafters
 
 Lohnsteuer und Umsatzsteuer (Treuhand-Steuern) sind hiervon ausdrücklich nicht
 betroffen. Diese werden weiterhin fristgerecht abgeführt.
@@ -408,13 +408,13 @@ Erst nach **schriftlicher** Stundungszusage des Gläubigers darf die Fälligkeit
 
 ```yaml
 stundungen:
-  - glaeubiger: Lieferant XYZ GmbH
-    offene-forderung: 24000
-    urspruengliche-faelligkeit: 2026-06-15
-    gestundete-faelligkeit: 2026-09-15
-    zusage-vom: 2026-06-05
-    zusage-form: E-Mail mit Bestätigung
-    bemerkung: Anzahlung 5000 EUR mit Stundungserklärung gezahlt
+ - glaeubiger: Lieferant XYZ GmbH
+ offene-forderung: 24000
+ urspruengliche-faelligkeit: 2026-06-15
+ gestundete-faelligkeit: 2026-09-15
+ zusage-vom: 2026-06-05
+ zusage-form: E-Mail mit Bestätigung
+ bemerkung: Anzahlung 5000 EUR mit Stundungserklärung gezahlt
 ```
 
 ## Ausgabe
@@ -508,36 +508,36 @@ Anlagen: Liquiditaetsplanung (Anlage 1), aktuelle BWA (Anlage 2)
 
 ```yaml
 plausibilisierung:
-  - annahme-id: umsatz-hauptsegment
-    band: realistisch  # konservativ / realistisch / ambitioniert / nicht-belastbar
-    begruendung: |
-      Auftragsbestand bis 09/2026 belegt; ab 10/2026 Modellfortschreibung
-      auf Basis Vorjahr +3%
-    risiko: mittel
-    sensitivitaet-szenario:
-      negativ: 10% Umsatzrückgang ab 10/2026
-      effekt-eur: -190000 (kumuliert)
+ - annahme-id: umsatz-hauptsegment
+ band: realistisch # konservativ / realistisch / ambitioniert / nicht-belastbar
+ begruendung: |
+ Auftragsbestand bis 09/2026 belegt; ab 10/2026 Modellfortschreibung
+ auf Basis Vorjahr +3%
+ risiko: mittel
+ sensitivitaet-szenario:
+ negativ: 10% Umsatzrückgang ab 10/2026
+ effekt-eur: -190000 (kumuliert)
 
-  - annahme-id: kostensenkung-standort
-    band: ambitioniert
-    begruendung: |
-      Kündigung Standortmietvertrag erfordert 9-Monats-Kündigungsfrist;
-      Schliessung bis 08/2026 nur möglich wenn Mieter Aufhebung akzeptiert.
-      Aktuell in Verhandlung — nicht belegt.
-    risiko: hoch
-    sensitivitaet-szenario:
-      negativ: Schliessung gelingt nicht im Planhorizont
-      effekt-eur: 50000 monatliche Mehrkosten
+ - annahme-id: kostensenkung-standort
+ band: ambitioniert
+ begruendung: |
+ Kündigung Standortmietvertrag erfordert 9-Monats-Kündigungsfrist;
+ Schliessung bis 08/2026 nur möglich wenn Mieter Aufhebung akzeptiert.
+ Aktuell in Verhandlung — nicht belegt.
+ risiko: hoch
+ sensitivitaet-szenario:
+ negativ: Schliessung gelingt nicht im Planhorizont
+ effekt-eur: 50000 monatliche Mehrkosten
 
-  - annahme-id: bankenzusage-erhöhung-kreditlinie
-    band: nicht-belastbar
-    begruendung: |
-      Verhandlung mit Bank laeuft. Bisher keine schriftliche Zusage.
-      Bank verweist auf laufendes Rating-Verfahren.
-    risiko: hoch
-    sensitivitaet-szenario:
-      negativ: Kreditlinie wird nicht erhöht
-      effekt-eur: keine zusätzliche Liquidität 80000 EUR
+ - annahme-id: bankenzusage-erhöhung-kreditlinie
+ band: nicht-belastbar
+ begruendung: |
+ Verhandlung mit Bank laeuft. Bisher keine schriftliche Zusage.
+ Bank verweist auf laufendes Rating-Verfahren.
+ risiko: hoch
+ sensitivitaet-szenario:
+ negativ: Kreditlinie wird nicht erhöht
+ effekt-eur: keine zusätzliche Liquidität 80000 EUR
 ```
 
 ## Konservativer Maßstab
@@ -551,21 +551,21 @@ Eine Fortbestehensprognose ist nicht der Ort für Optimismus. **IDW S 11** und *
 
 ```yaml
 szenarien:
-  basisszenario:
-    annahmen: alle wie in annahmen.yaml
-    ergebnis-12-monate-liquiditaet: positiv
-    bemerkung: Plan-Szenario
+ basisszenario:
+ annahmen: alle wie in annahmen.yaml
+ ergebnis-12-monate-liquiditaet: positiv
+ bemerkung: Plan-Szenario
 
-  negativ-szenario:
-    annahmen: alle ambitioniert-Annahmen reduziert auf konservativ
-    ergebnis-12-monate-liquiditaet: knapp positiv  # vor Maßnahmen
-    bemerkung: Risiko-Szenario; bei Eintritt sind Zusatzmaßnahmen erforderlich
+ negativ-szenario:
+ annahmen: alle ambitioniert-Annahmen reduziert auf konservativ
+ ergebnis-12-monate-liquiditaet: knapp positiv # vor Maßnahmen
+ bemerkung: Risiko-Szenario; bei Eintritt sind Zusatzmaßnahmen erforderlich
 
-  stress-szenario:
-    annahmen: zusätzlich Wegfall Top-Kunde
-    ergebnis-12-monate-liquiditaet: negativ
-    bemerkung: Reines Stress-Szenario; in der Plausibilisierung
-      als unwahrscheinlich eingeschaetzt
+ stress-szenario:
+ annahmen: zusätzlich Wegfall Top-Kunde
+ ergebnis-12-monate-liquiditaet: negativ
+ bemerkung: Reines Stress-Szenario; in der Plausibilisierung
+ als unwahrscheinlich eingeschaetzt
 ```
 
 ## Sonderfälle

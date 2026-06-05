@@ -1,13 +1,13 @@
 ---
 name: fristennotiz-naechster-vorpruefung
-description: "Nutze dies, wenn Spezial Vertragspruefung Fristennotiz Und Naechster Schritt, Spezial Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege im Plugin Berufsrecht Ki Vertragspruefung konkret bearbeitet werden soll. Auslöser: Bitte Spezial Vertragspruefung Fristennotiz Und Naechster Schritt, Spezial Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege prüfen.; Erstelle eine Arbeitsfassung zu Spezial Vertragspruefung Fristennotiz Und Naechster Schritt, Spezial Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Vertragspruefung Fristennotiz Und Naechster Schritt, Spezial Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege
+# Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -19,7 +19,7 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 
 ## Arbeitsweg
 
-Für **Spezial Vertragspruefung Fristennotiz Und Naechster Schritt, Spezial Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-ki-vertragspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Vertragspruefung Fristennotiz Und Naechster Schritt, Vorpruefung Fristen Form Und Zustaendigkeit, Klauselvorschlaege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `berufsrecht-ki-vertragspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -31,7 +31,7 @@ Für **Spezial Vertragspruefung Fristennotiz Und Naechster Schritt, Spezial Vorp
 # Vertragspruefung: Fristennotiz und nächster Schritt
 
 ## Spezialwissen: Vertragspruefung: Fristennotiz und nächster Schritt
-- **Spezialgegenstand:** Vertragspruefung: Fristennotiz und nächster Schritt / spezial vertragspruefung fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vertragspruefung: Fristennotiz und nächster Schritt / vertragspruefung fristennotiz und naechster schritt. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -96,7 +96,7 @@ Schnelle Einführung neuer Legal-AI-Tools verlangt nach Berufsträger-Sorgfalt. 
 # Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Spezialwissen: Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Spezialgegenstand:** Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg / spezial vorpruefung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg / vorpruefung fristen form und zustaendigkeit. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -265,18 +265,18 @@ Anbieter: [NAME] | Produkt: [PRODUKT]
 
 Anforderung: Aufnahme folgender Klauseln bis [FRIST]:
 
-Nr. | Baustein                    | Status       | Anbieter-Antwort
+Nr. | Baustein | Status | Anbieter-Antwort
 ----|-----------------------------|--------------|------------------
- 1  | Verschwiegenheit            | offen        |
- 2  | Strafrechtl. Belehrung      | offen        |
- 3  | Erforderlichkeitsschwelle   | offen        |
- 4  | Subunternehmer-Vorbehalt    | offen        |
- 5  | No training                 | [vorhanden/offen] |
- 6  | Zero Retention              | offen        |
- 7  | EU-Hosting                  | offen        |
- 9  | Audit-Recht / ISO 27001     | offen        |
-10  | Loeschkonzept               | offen        |
-13  | Prof. Secrecy Addendum (US) | entfaellt/offen |
+ 1 | Verschwiegenheit | offen |
+ 2 | Strafrechtl. Belehrung | offen |
+ 3 | Erforderlichkeitsschwelle | offen |
+ 4 | Subunternehmer-Vorbehalt | offen |
+ 5 | No training | [vorhanden/offen] |
+ 6 | Zero Retention | offen |
+ 7 | EU-Hosting | offen |
+ 9 | Audit-Recht / ISO 27001 | offen |
+10 | Loeschkonzept | offen |
+13 | Prof. Secrecy Addendum (US) | entfaellt/offen |
 
 Bei Nichtunterzeichnung bis [FRIST]: Vertragskuendigung zum [DATUM].
 ```

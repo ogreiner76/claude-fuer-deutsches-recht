@@ -1,13 +1,13 @@
 ---
 name: markenanmeldung-dpma-markenrecherche-open
-description: "Nutze dies, wenn Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung im Plugin Gewerblicher Rechtsschutz konkret bearbeitet werden soll. Auslöser: Bitte Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung prüfen.; Erstelle eine Arbeitsfassung zu Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Markenanmeldung Dpma, Markenrecherche, Open Source Prüfung** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -43,41 +43,41 @@ oder Logo schützen; DPMA erteilt Beanstandung; Wettbewerber widerspricht.
 ## Eingaben
 
 1. **Markenform** – Wortmarke, Bildmarke, Wort-/Bildmarke, abstrakte Farbmarke,
-   Klangmarke, 3D-Marke (§ 3 Abs. 1 MarkenG).
+ Klangmarke, 3D-Marke (§ 3 Abs. 1 MarkenG).
 2. **Waren und Dienstleistungen** – Konkrete Beschreibung; Klassenzuordnung nach
-   Nizza-Klassifikation (45 Klassen); je Klasse eigene Gebühr ab Klasse 4.
+ Nizza-Klassifikation (45 Klassen); je Klasse eigene Gebühr ab Klasse 4.
 3. **Anmeldetag** – maßgeblich für Priorität (§ 32 Abs. 1 MarkenG); Unionsprioritä
-   (§ 34 MarkenG, 6 Monate ab Auslandsanmeldung); Ausstellungspriorität (§ 35
-   MarkenG, 6 Monate).
+ (§ 34 MarkenG, 6 Monate ab Auslandsanmeldung); Ausstellungspriorität (§ 35
+ MarkenG, 6 Monate).
 4. **Recherche-Ergebnisse** – DPMA-Datenbank (DPMAregister), EUIPO (EUTM-Suche),
-   WIPO (Madrid-System); ältere identische oder ähnliche Zeichen für
-   Kollisionsrisiko.
+ WIPO (Madrid-System); ältere identische oder ähnliche Zeichen für
+ Kollisionsrisiko.
 5. **Anmelder** – Name, Adresse, ggf. Markenanwalts-/Patentanwaltsvollmacht
-   (§ 11 MarkenG: kein Anwaltszwang beim DPMA, wohl aber Vertretungsmöglichkeit).
+ (§ 11 MarkenG: kein Anwaltszwang beim DPMA, wohl aber Vertretungsmöglichkeit).
 
 ## Rechtlicher Rahmen
 
 ### Zentrale Normen
 
 - **§ 3 MarkenG** – Markenfähige Zeichen: alle Zeichen, die grafisch darstellbar
-  und geeignet sind, Waren/Dienstleistungen eines Unternehmens von denen anderer
-  zu unterscheiden.
+ und geeignet sind, Waren/Dienstleistungen eines Unternehmens von denen anderer
+ zu unterscheiden.
 - **§ 8 MarkenG** – Absolute Eintragungshindernisse: fehlende Unterscheidungskraft
-  (Abs. 2 Nr. 1), beschreibender Charakter (Abs. 2 Nr. 2), Freihaltebedürfnis
-  (Abs. 2 Nr. 2), Täuschungsgefahr (Abs. 2 Nr. 4), Sittenwidrigkeit (Abs. 2
-  Nr. 5); Überwindung durch Verkehrsdurchsetzung (Abs. 3).
+ (Abs. 2 Nr. 1), beschreibender Charakter (Abs. 2 Nr. 2), Freihaltebedürfnis
+ (Abs. 2 Nr. 2), Täuschungsgefahr (Abs. 2 Nr. 4), Sittenwidrigkeit (Abs. 2
+ Nr. 5); Überwindung durch Verkehrsdurchsetzung (Abs. 3).
 - **§ 32 MarkenG** – Anmeldeinhalt: Angaben zum Anmelder, Wiedergabe der Marke,
-  Verzeichnis der Waren und Dienstleistungen; Anmeldetag nach Abs. 2.
+ Verzeichnis der Waren und Dienstleistungen; Anmeldetag nach Abs. 2.
 - **§ 36 MarkenG** – Prüfung der Anmeldung auf Eintragungshindernisse.
 - **§ 37 MarkenG** – Zurückweisung der Anmeldung bei Eintragungshindernis.
 - **§ 40 MarkenG** – Eintragung und Veröffentlichung.
 - **§ 42 MarkenG** – Widerspruch: binnen 3 Monaten nach Veröffentlichung der
-  Eintragung (§ 42 Abs. 1 Satz 1 MarkenG); Widerspruchsgrund: ältere Marke
-  (§ 9 MarkenG) oder sonstiges älteres Recht (§ 13 MarkenG).
+ Eintragung (§ 42 Abs. 1 Satz 1 MarkenG); Widerspruchsgrund: ältere Marke
+ (§ 9 MarkenG) oder sonstiges älteres Recht (§ 13 MarkenG).
 - **§ 53 MarkenG** – Verfallsantrag wegen Nichtbenutzung (5-Jahres-Frist § 26
-  MarkenG); einredeweise geltend machen im Widerspruchsverfahren.
+ MarkenG); einredeweise geltend machen im Widerspruchsverfahren.
 - **§ 66 MarkenG** – Beschwerde zum BPatG gegen Beschlüsse des DPMA; Frist
-  1 Monat ab Zustellung (§ 66 Abs. 2 MarkenG); aufschiebende Wirkung.
+ 1 Monat ab Zustellung (§ 66 Abs. 2 MarkenG); aufschiebende Wirkung.
 
 ### Anmeldegebühren (Stand: DPMA-Gebührenordnung 2024)
 
@@ -91,19 +91,19 @@ oder Logo schützen; DPMA erteilt Beanstandung; Wettbewerber widerspricht.
 ### Leitentscheidungen
 
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   "Medicon-Apotheke/MediCo Apotheke": Zum Freihaltebedürfnis (§ 8 Abs. 2 Nr. 2 MarkenG):
-   Beschreibende Angaben, die zur Bezeichnung von Merkmalen der angemeldeten
-   Waren oder Dienstleistungen dienen können, sind auch dann von der Eintragung
-   ausgeschlossen, wenn die Beschreibung mittelbar oder nur in einer möglichen
-   Verwendungsweise vorliegt; Überwindung durch Verkehrsdurchsetzung
-   (§ 8 Abs. 3 MarkenG) möglich, wenn der Verkehr das Zeichen als Herkunftshinweis
-   versteht.
+ "Medicon-Apotheke/MediCo Apotheke": Zum Freihaltebedürfnis (§ 8 Abs. 2 Nr. 2 MarkenG):
+ Beschreibende Angaben, die zur Bezeichnung von Merkmalen der angemeldeten
+ Waren oder Dienstleistungen dienen können, sind auch dann von der Eintragung
+ ausgeschlossen, wenn die Beschreibung mittelbar oder nur in einer möglichen
+ Verwendungsweise vorliegt; Überwindung durch Verkehrsdurchsetzung
+ (§ 8 Abs. 3 MarkenG) möglich, wenn der Verkehr das Zeichen als Herkunftshinweis
+ versteht.
 
 2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   "Langenscheidt-Gelb": Zur Schutzfähigkeit abstrakter Farbmarken; einzelne
-   Farbe ohne geografische Kontur kann Unterscheidungskraft haben, wenn sie durch
-   langjährige Benutzung Verkehrsdurchsetzung erlangt hat; strenger Maßstab
-   wegen Freihaltebedürfnis (§ 8 Abs. 2 Nr. 1 und 2 MarkenG).
+ "Langenscheidt-Gelb": Zur Schutzfähigkeit abstrakter Farbmarken; einzelne
+ Farbe ohne geografische Kontur kann Unterscheidungskraft haben, wenn sie durch
+ langjährige Benutzung Verkehrsdurchsetzung erlangt hat; strenger Maßstab
+ wegen Freihaltebedürfnis (§ 8 Abs. 2 Nr. 1 und 2 MarkenG).
 
 ### Quellenregel
 
@@ -111,47 +111,47 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Ablauf
 
 1. **Markenrecherche** – DPMA-Datenbank (DPMAregister.dpma.de), EUIPO TMview,
-   WIPO Global Brand Database; identische und ähnliche Zeichen für identische
-   und ähnliche Waren/Dienstleistungen prüfen; absolute Hindernisse vorab
-   einschätzen (§ 8 MarkenG).
+ WIPO Global Brand Database; identische und ähnliche Zeichen für identische
+ und ähnliche Waren/Dienstleistungen prüfen; absolute Hindernisse vorab
+ einschätzen (§ 8 MarkenG).
 
 2. **Klassifikation** – Waren und Dienstleistungen den Nizza-Klassen zuordnen
-   (aktuelle Fassung 12. Ausg. NCL 2023); TMclass (EUIPO-Tool) nutzen;
-   Klassenanzahl minimieren zur Kostenoptimierung.
+ (aktuelle Fassung 12. Ausg. NCL 2023); TMclass (EUIPO-Tool) nutzen;
+ Klassenanzahl minimieren zur Kostenoptimierung.
 
 3. **Anmeldeformular ausfüllen** – Elektronisch über DPMAonline (Einsparung 50 €
-   gegenüber Papieranmeldung); Angaben: Anmelder, Vertreter, Markenform,
-   Markenwiedergabe (Bilddatei in TIF/JPG), Waren-/Dienstleistungsverzeichnis,
-   Prioritätsangaben.
+ gegenüber Papieranmeldung); Angaben: Anmelder, Vertreter, Markenform,
+ Markenwiedergabe (Bilddatei in TIF/JPG), Waren-/Dienstleistungsverzeichnis,
+ Prioritätsangaben.
 
 4. **Gebühren einzahlen** – Gleichzeitig mit Einreichung oder innerhalb von
-   3 Monaten (§ 6 DPMAV); Zahlung per Banküberweisung, Lastschrift oder
-   DPMA-Guthabenkonto; fehlende Zahlung = kein Anmeldetag.
+ 3 Monaten (§ 6 DPMAV); Zahlung per Banküberweisung, Lastschrift oder
+ DPMA-Guthabenkonto; fehlende Zahlung = kein Anmeldetag.
 
 5. **DPMA-Prüfung abwarten** – Prüfung auf absolute Eintragungshindernisse
-   (§ 36 MarkenG); ggf. Beanstandungsbescheid; Frist zur Stellungnahme
-   (i. d. R. 4 Monate, verlängerbar). Keine Prüfung auf relative Hindernisse
-   (§§ 9–13 MarkenG) durch DPMA.
+ (§ 36 MarkenG); ggf. Beanstandungsbescheid; Frist zur Stellungnahme
+ (i. d. R. 4 Monate, verlängerbar). Keine Prüfung auf relative Hindernisse
+ (§§ 9–13 MarkenG) durch DPMA.
 
 6. **Eintragung und Veröffentlichung** – Bei positiver Prüfung: Eintragung ins
-   Markenregister (§ 40 MarkenG); Veröffentlichung im Markenblatt;
-   Schutzdauer 10 Jahre ab Anmeldetag (§ 47 Abs. 1 MarkenG).
+ Markenregister (§ 40 MarkenG); Veröffentlichung im Markenblatt;
+ Schutzdauer 10 Jahre ab Anmeldetag (§ 47 Abs. 1 MarkenG).
 
 7. **Widerspruchsfrist überwachen** – 3 Monate ab Veröffentlichung (§ 42 Abs. 1
-   Satz 1 MarkenG); Inhaber älterer Marken können Widerspruch einlegen; frühzeitig
-   Verwechslungsgefahr-Analyse durchführen.
+ Satz 1 MarkenG); Inhaber älterer Marken können Widerspruch einlegen; frühzeitig
+ Verwechslungsgefahr-Analyse durchführen.
 
 8. **Widerspruchsverfahren** – Widerspruchsgebühr 250 €; Benutzungseinrede
-   geltend machen (§ 43 MarkenG), wenn die ältere Marke älter als 5 Jahre;
-   Verhandlung beim DPMA; Beschwerde zum BPatG (§ 66 MarkenG, Frist 1 Monat).
+ geltend machen (§ 43 MarkenG), wenn die ältere Marke älter als 5 Jahre;
+ Verhandlung beim DPMA; Beschwerde zum BPatG (§ 66 MarkenG, Frist 1 Monat).
 
 ## Ausgabeformat
 
 - **Anmeldememo** (Gutachtenstil): Hindernisanalyse § 8 MarkenG → Waren/DL-
-  Verzeichnis → Kostenübersicht → Empfehlung.
+ Verzeichnis → Kostenübersicht → Empfehlung.
 - **Klassifikationstabelle** (Tabelle): Klasse | Waren/Dienstleistungen | Gebühr.
 - **Stellungnahme auf Beanstandungsbescheid** (Schriftsatz): Adressat DPMA;
-  Aktenzeichen; Argumentation zur Schutzfähigkeit; ggf. Verkehrsdurchsetzung.
+ Aktenzeichen; Argumentation zur Schutzfähigkeit; ggf. Verkehrsdurchsetzung.
 
 ## Beispiel
 
@@ -177,18 +177,18 @@ zusätzlich 100 € = insgesamt 400 €.
 ## Risiken und typische Fehler
 
 - **Frist Widerspruch:** 3 Monate ab Veröffentlichung (§ 42 Abs. 1 Satz 1
-  MarkenG); Versäumnis führt zum Verlust des Widerspruchsrechts.
+ MarkenG); Versäumnis führt zum Verlust des Widerspruchsrechts.
 - **Frist Beschwerde BPatG:** 1 Monat ab Zustellung des DPMA-Beschlusses
-  (§ 66 Abs. 2 MarkenG).
+ (§ 66 Abs. 2 MarkenG).
 - **Waren-/Dienstleistungsverzeichnis zu weit:** Überschießende Klassifikation
-  erhöht Angriffsfläche für Nichtbenutzungseinrede (§ 26 MarkenG); nach 5 Jahren
-  Verfallsrisiko für nicht genutzte Klassen.
+ erhöht Angriffsfläche für Nichtbenutzungseinrede (§ 26 MarkenG); nach 5 Jahren
+ Verfallsrisiko für nicht genutzte Klassen.
 - **Prioritätsfrist versäumt:** Unionspriorität 6 Monate ab Erstanmeldung
-  (§ 34 MarkenG); Versäumnis führt zu Verlust der rückwirkenden Priorität.
+ (§ 34 MarkenG); Versäumnis führt zu Verlust der rückwirkenden Priorität.
 - **Benutzungseinrede vergessen:** Im Widerspruchsverfahren Benutzungsnachweis
-  der älteren Marke einfordern (§ 43 MarkenG), wenn Schutzdauer > 5 Jahre.
+ der älteren Marke einfordern (§ 43 MarkenG), wenn Schutzdauer > 5 Jahre.
 - **Berufsrecht:** § 43a BRAO, § 3 BORA; bei gleichzeitiger Vertretung von
-  Anmelder und Widersprechendem: Interessenkonflikt.
+ Anmelder und Widersprechendem: Interessenkonflikt.
 
 ## Quellenpflicht
 
@@ -217,10 +217,10 @@ Bevor die Anmeldung eingereicht wird, klaere:
 <!-- AUDIT 27.05.2026
 Task: Bundle 031 / Halluzinations-Reparatur
 Problem: Konkrete Leitentscheidungen duerfen nur nach Live-Verifikation mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle ausgegeben werden.
-         obwohl der Inhalt (Medicon-Apotheke, Freihaltebeduerfnis § 8 II Nr. 2 MarkenG) zum
-         Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-           Fallname um "/MediCo Apotheke" ergaenzt. Beide Fundstellen im Dokument korrigiert.
-           Verifiziert via dejure.org.
+ obwohl der Inhalt (Medicon-Apotheke, Freihaltebeduerfnis § 8 II Nr. 2 MarkenG) zum
+ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Fallname um "/MediCo Apotheke" ergaenzt. Beide Fundstellen im Dokument korrigiert.
+ Verifiziert via dejure.org.
 -->
 
 ## 2. `markenrecherche`
@@ -389,15 +389,15 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ## Eingaben
 
 1. **Was wird geprüft?**
-   - Abhängigkeitsliste (`package.json`, `requirements.txt`, `go.mod`, `Gemfile`, `Cargo.toml`, `pom.xml`, SBOM nach SPDX / CycloneDX, Lockfile)
-   - Einzelne Bibliothek — ein konkretes Paket, das hinzugefügt werden soll
-   - Eigener Code — Vorbereitung zur Open-Source-Veröffentlichung
+ - Abhängigkeitsliste (`package.json`, `requirements.txt`, `go.mod`, `Gemfile`, `Cargo.toml`, `pom.xml`, SBOM nach SPDX / CycloneDX, Lockfile)
+ - Einzelne Bibliothek — ein konkretes Paket, das hinzugefügt werden soll
+ - Eigener Code — Vorbereitung zur Open-Source-Veröffentlichung
 
 2. **Einsatzmodell** (vor Klassifikation der Pflichten zwingend festlegen):
-   - SaaS / gehosteter Dienst — Nutzer greifen über Netz zu; kein Code wird ausgeliefert
-   - Distribuiertes Programm — kompilierter Code wird ausgeliefert (Desktop-App, Mobile-App, On-Prem-Server, CLI)
-   - Nur intern — ausschließlich im Unternehmen genutzt, keine Auslieferung nach außen
-   - Eingebettet / Firmware — ausgeliefert in Hardware oder als Closed-System-Firmware
+ - SaaS / gehosteter Dienst — Nutzer greifen über Netz zu; kein Code wird ausgeliefert
+ - Distribuiertes Programm — kompilierter Code wird ausgeliefert (Desktop-App, Mobile-App, On-Prem-Server, CLI)
+ - Nur intern — ausschließlich im Unternehmen genutzt, keine Auslieferung nach außen
+ - Eingebettet / Firmware — ausgeliefert in Hardware oder als Closed-System-Firmware
 
 ## Rechtlicher Rahmen
 

@@ -1,32 +1,32 @@
 ---
 name: ifap-insolvenzforderungsanmeldungspruefung
-description: "Nutze dies, wenn Spezial Ifap Mandantenkommunikation Entscheidungsvorlage, Spezial Insolvenzforderungsanmeldungspruefung Erstpruefung, Spezial Intake Tatbestand Beweis Und Belege im Plugin Insolvenzforderungsanmeldungspruefung konkret bearbeitet werden soll. Auslöser: Ich lade Unterlagen hoch.; Was fehlt noch?; Bitte Dokumente sortieren.."
+description: "Nutze dies bei Ifap Mandantenkommunikation Entscheidungsvorlage, Insolvenzforderungsanmeldungspruefung Erstpruefung, Intake Tatbestand Beweis Und Belege: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Spezial Ifap Mandantenkommunikation Entscheidungsvorlage, Spezial Insolvenzforderungsanmeldungspruefung Erstpruefung, Spezial Intake Tatbestand Beweis Und Belege
+# Ifap Mandantenkommunikation Entscheidungsvorlage, Insolvenzforderungsanmeldungspruefung Erstpruefung, Intake Tatbestand Beweis Und Belege
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Ifap Mandantenkommunikation Entscheidungsvorlage, Insolvenzforderungsanmeldungspruefung Erstpruefung, Intake Tatbestand Beweis Und Belege** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
 | Arbeitsmodul | Fokus |
 | --- | --- |
-| `spezial-ifap-mandantenkommunikation-entscheidungsvorlage` | Ifap: Mandantenkommunikation und Entscheidungsvorlage im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-insolvenzforderungsanmeldungspruefung-erstpruefung` | Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
-| `spezial-intake-tatbestand-beweis-und-belege` | Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-ifap-mandantenkommunikation-entscheidungsvorlage` | Ifap: Mandantenkommunikation und Entscheidungsvorlage im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-insolvenzforderungsanmeldungspruefung-erstpruefung` | Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
+| `spezial-intake-tatbestand-beweis-und-belege` | Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsweg
 
-Für **Spezial Ifap Mandantenkommunikation Entscheidungsvorlage, Spezial Insolvenzforderungsanmeldungspruefung Erstpruefung, Spezial Intake Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzforderungsanmeldungspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Ifap Mandantenkommunikation Entscheidungsvorlage, Insolvenzforderungsanmeldungspruefung Erstpruefung, Intake Tatbestand Beweis Und Belege** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `insolvenzforderungsanmeldungspruefung` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
 
 ## 1. `spezial-ifap-mandantenkommunikation-entscheidungsvorlage`
 
-**Fokus:** Ifap: Mandantenkommunikation und Entscheidungsvorlage im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Ifap: Mandantenkommunikation und Entscheidungsvorlage im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Ifap: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -40,7 +40,7 @@ Für **Spezial Ifap Mandantenkommunikation Entscheidungsvorlage, Spezial Insolve
 
 
 ## Spezialwissen: Ifap: Mandantenkommunikation und Entscheidungsvorlage
-- **Spezialgegenstand:** Ifap: Mandantenkommunikation und Entscheidungsvorlage / spezial ifap mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Ifap: Mandantenkommunikation und Entscheidungsvorlage / ifap mandantenkommunikation entscheidungsvorlage. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-insolvenzforderungsanmeldungspruefung-erstpruefung`
 
-**Fokus:** Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -90,7 +90,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel
-- **Spezialgegenstand:** Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel / spezial insolvenzforderungsanmeldungspruefung erstpruefung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel / insolvenzforderungsanmeldungspruefung erstpruefung. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
@@ -121,11 +121,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Erstprüfung Forderungsanmeldung — Schnellraster
 - **Erste Frage Rolle:** Anmeldender Gläubiger (Forderung sichern) oder Insolvenzverwalter (Bestreiten prüfen)?
 - **Forderungstyp triagieren:**
-  - § 38 InsO einfache Insolvenzforderung — Standard.
-  - § 39 InsO nachrangig — Zinsen ab Eröffnung, Gesellschafterdarlehen § 39 Abs. 1 Nr. 5 InsO.
-  - § 47 InsO Aussonderung — Eigentum, Vorbehalt; nicht Tabellenforderung.
-  - §§ 49–51 InsO Absonderung — Pfand, Sicherungseigentum; nur Ausfallbetrag als Tabellenforderung.
-  - §§ 53–55 InsO Masseforderung — direkter Anspruch gegen Verwalter.
+ - § 38 InsO einfache Insolvenzforderung — Standard.
+ - § 39 InsO nachrangig — Zinsen ab Eröffnung, Gesellschafterdarlehen § 39 Abs. 1 Nr. 5 InsO.
+ - § 47 InsO Aussonderung — Eigentum, Vorbehalt; nicht Tabellenforderung.
+ - §§ 49–51 InsO Absonderung — Pfand, Sicherungseigentum; nur Ausfallbetrag als Tabellenforderung.
+ - §§ 53–55 InsO Masseforderung — direkter Anspruch gegen Verwalter.
 - **Fristen prüfen:** § 28 InsO Anmeldefrist im Eröffnungsbeschluss; bei Verspätung Sonderprüfungstermin § 177 InsO mit Kostentragung Anmelder.
 - **vbuH-Eigenschaft:** Liegt vorsätzlich begangene unerlaubte Handlung vor (§ 302 Nr. 1 InsO)? Wenn ja, ausdrücklich anmelden, sonst keine Restschuldbefreiungs-Ausnahme.
 - **Anfechtungsrisiken:** Haben Mandantin oder verbundene Personen in den letzten 4 (kongruent)/10 (vorsätzlich) Jahren Zahlungen erhalten? Verwalteranfechtung (§§ 129 ff. InsO) droht.
@@ -140,7 +140,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-intake-tatbestand-beweis-und-belege`
 
-**Fokus:** Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage im Forderungsprüfung: fachlich vertiefter Fachmodul mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -154,7 +154,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 
 ## Spezialwissen: Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Spezialgegenstand:** Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage / spezial intake tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
+- **Spezialgegenstand:** Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage / intake tatbestand beweis und belege. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
 - **Normen-/Quellenanker:** InsO.
 - **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
 - **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.

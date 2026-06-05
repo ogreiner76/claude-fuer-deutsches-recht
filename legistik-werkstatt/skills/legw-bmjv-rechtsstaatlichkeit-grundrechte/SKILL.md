@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Rechtsstaatlichkeit und Grundrechte-Querschnitt
-Ressort:            BMJV
-Kernnormen:         GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.
-Akteure/Aufsicht:   BMJV; BVerfG; BGH; Auslaenderbehoerden; Bundesrat.
-EU/Voelkerrecht:    Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmjv; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Rechtsstaatlichkeit und Grundrechte-Querschnitt
+Ressort: BMJV
+Kernnormen: GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.
+Akteure/Aufsicht: BMJV; BVerfG; BGH; Auslaenderbehoerden; Bundesrat.
+EU/Voelkerrecht: Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmjv; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: nicht-ausgleichsreife-notarielle
-description: "Nutze dies, wenn Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko, Private Rentenversicherung Kapitalwahlrecht im Plugin Fachanwalt Familienrecht konkret bearbeitet werden soll. Auslöser: Bitte Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko, Private Rentenversicherung Kapitalwahlrecht prüfen.; Erstelle eine Arbeitsfassung zu Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko, Private Rentenversicherung Kapitalwahlrecht.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko, Private Rentenversicherung Kapitalwahlrecht
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Nicht Ausgleichsreife Anrechte 19 Versausglg, Notarielle Scheidungsfolgenvereinbarung Va, Oeffentlicher Dienst Zusatzversorgung Vbl, Pensionszusage Bewertung Insolvenzrisiko, Private Rentenversicherung Kapitalwahlrecht** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 

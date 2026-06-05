@@ -1,13 +1,13 @@
 ---
 name: 19a-gwb-gwb-relative-abuse-economic
-description: "Nutze dies, wenn 19A Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing im Plugin Kartellrecht Marktabgrenzung Prüfung konkret bearbeitet werden soll. Auslöser: Bitte 19A Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing prüfen.; Erstelle eine Arbeitsfassung zu 19A Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing.; Welche Normen und Nachweise brauche ich?."
+description: "Nutze dies bei 19a Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
 # 19A Gwb Ueberragende Marktuebergreifende Bedeutung, 20 Gwb Relative Marktmacht, Abuse Of Economic Dependence, Algorithmic Collusion Ai Pricing
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die unten genannten Teilfragen in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -15,8 +15,8 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benac
 | --- | --- |
 | `19a-gwb-ueberragende-marktuebergreifende-bedeutung` | § 19a GWB überragende marktübergreifende Bedeutung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
 | `20-gwb-relative-marktmacht` | § 20 GWB relative Marktmacht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. |
-| `abuse-of-economic-dependence` | Relative Marktmacht und Economic Dependence: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Abhängigkeit, Datenzugang, Plattformen, Lieferstopps und Konditionenmissbrauch prüfen, Evidenz, Fristen, Strategie und Quellen. |
-| `algorithmic-collusion-ai-pricing` | Algorithmic Collusion und AI Pricing: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisalgorithmen, Hub-and-Spoke, Signalling und Monitoring kartellrechtlich untersuchen, Evidenz, Fristen, Strategie und Quellen. |
+| `abuse-of-economic-dependence` | Relative Marktmacht und Economic Dependence: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Abhängigkeit, Datenzugang, Plattformen, Lieferstopps und Konditionenmissbrauch prüfen, Evidenz, Fristen, Strategie und Quellen. |
+| `algorithmic-collusion-ai-pricing` | Algorithmic Collusion und AI Pricing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisalgorithmen, Hub-and-Spoke, Signalling und Monitoring kartellrechtlich untersuchen, Evidenz, Fristen, Strategie und Quellen. |
 
 ## Arbeitsweg
 
@@ -119,7 +119,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `abuse-of-economic-dependence`
 
-**Fokus:** Relative Marktmacht und Economic Dependence: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Abhängigkeit, Datenzugang, Plattformen, Lieferstopps und Konditionenmissbrauch prüfen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Relative Marktmacht und Economic Dependence: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Abhängigkeit, Datenzugang, Plattformen, Lieferstopps und Konditionenmissbrauch prüfen, Evidenz, Fristen, Strategie und Quellen.
 
 
 # Relative Marktmacht und Economic Dependence
@@ -170,7 +170,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `algorithmic-collusion-ai-pricing`
 
-**Fokus:** Algorithmic Collusion und AI Pricing: Spezialskill für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisalgorithmen, Hub-and-Spoke, Signalling und Monitoring kartellrechtlich untersuchen, Evidenz, Fristen, Strategie und Quellen.
+**Fokus:** Algorithmic Collusion und AI Pricing: Fachmodul für großes Kartellrecht mit BKartA, DG Competition, FTC/DOJ und internationalen Behörden; prüft Preisalgorithmen, Hub-and-Spoke, Signalling und Monitoring kartellrechtlich untersuchen, Evidenz, Fristen, Strategie und Quellen.
 
 
 # Algorithmic Collusion und AI Pricing

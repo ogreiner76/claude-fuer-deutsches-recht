@@ -57,16 +57,16 @@ Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkung
 Sachfeld-Kompass:
 
 ```
-Sachfeld:           Agrar- und Foerderungsrecht (GAK; GAP)
-Ressort:            BMLEH
-Kernnormen:         GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.
-Akteure/Aufsicht:   BLE; Laender-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.
-EU/Voelkerrecht:    GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmleh; normhierarchie-routing; 
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
+Sachfeld: Agrar- und Foerderungsrecht (GAK; GAP)
+Ressort: BMLEH
+Kernnormen: GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.
+Akteure/Aufsicht: BLE; Laender-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.
+EU/Voelkerrecht: GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.
+Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
+Stolpersteine: <Sachfeld-spezifisch>
+Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
+ normenkartierung; verfassungsmaessigkeit-quercheck;
+ europarechtskonformitaet; rechtsfolgenabschaetzung
 ```
 
 ## Anschluss an die Legistik-Kette

@@ -1,13 +1,13 @@
 ---
 name: inso-p004-anwendbarkeit-p036-unpfandbare
-description: "Nutze dies, wenn Workflow Redteam Qualitygate, Inso P004 Anwendbarkeit Der Zivilprozessordnung, Inso P036 Unpfandbare Gegenstande, Fachanwalt Insolvenz Sanierungsrecht Schutzschirmverfahren, Inso Grundzuege Verfahrenstypen im Plugin Fachanwalt Insolvenz Sanierungsrecht konkret bearbeitet werden soll. Auslöser: Was kann hier schiefgehen?; Bitte red-team prüfen.; Welche Frist oder Beweislast übersehe ich?."
+description: "Nutze dies bei Redteam Qualitygate, Inso P004 Anwendbarkeit Der Zivilprozessordnung, Inso P036 Unpfandbare Gegenstande, Fachanwalt Insolvenz Sanierungsrecht Schutzschirmverfahren: führt durch diese fachlich verbundenen Module, wählt den passenden Prüfpfad und liefert den nächsten belastbaren Arbeitsschritt."
 ---
 
-# Workflow Redteam Qualitygate, Inso P004 Anwendbarkeit Der Zivilprozessordnung, Inso P036 Unpfandbare Gegenstande, Fachanwalt Insolvenz Sanierungsrecht Schutzschirmverfahren, Inso Grundzuege Verfahrenstypen
+# Redteam Qualitygate, Inso P004 Anwendbarkeit Der Zivilprozessordnung, Inso P036 Unpfandbare Gegenstande, Fachanwalt Insolvenz Sanierungsrecht Schutzschirmverfahren, Inso Grundzuege Verfahrenstypen
 
-## Zweck
+## Arbeitsbereich
 
-Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+Dieser Arbeitsbereich führt die Teilfragen zu **Redteam Qualitygate, Inso P004 Anwendbarkeit Der Zivilprozessordnung, Inso P036 Unpfandbare Gegenstande, Fachanwalt Insolvenz Sanierungsrecht Schutzschirmverfahren, Inso Grundzuege Verfahrenstypen** in einem handhabbaren Prüfpfad zusammen. Beginne mit dem Modul, das die Akte wirklich trägt; kombiniere weitere Module nur, wenn Frist, Zuständigkeit, Beweislast oder Output dadurch konkret besser werden.
 
 ## Arbeitsmodule
 
@@ -16,12 +16,12 @@ Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachli
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-insolvenz-sanierungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `inso-p004-anwendbarkeit-der-zivilprozessordnung` | § 4 InsO (Anwendbarkeit der Zivilprozeßordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p036-unpfandbare-gegenstande` | § 36 InsO (Unpfändbare Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
-| `fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren` | Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfähigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung Sanierungsfähigkeit. Insolvenz-Plan Vorbereitung. Workflow Antrag Sachwalter Plan Beschluss Aufhebung. |
+| `fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren` | Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfähigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung Sanierungsfähigkeit. Insolvenz-Plan Vorbereitung. Antrag Sachwalter Plan Beschluss Aufhebung. |
 | `inso-grundzuege-verfahrenstypen` | Grundzuege Insolvenz- und Sanierungsverfahrenstypen: Regelinsolvenz, Eigenverwaltung mit oder ohne Schutzschirm, Insolvenzplan, StaRUG-Restrukturierungsplan, Verbraucherinsolvenz. Pro Typ: Schwelle, Antragsrecht, Akteure, Ablauf, typische Outcomes. Entscheidungstabelle. |
 
 ## Arbeitsweg
 
-Für **Workflow Redteam Qualitygate, Inso P004 Anwendbarkeit Der Zivilprozessordnung, Inso P036 Unpfandbare Gegenstande, Fachanwalt Insolvenz Sanierungsrecht Schutzschirmverfahren, Inso Grundzuege Verfahrenstypen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
+Für **Redteam Qualitygate, Inso P004 Anwendbarkeit Der Zivilprozessordnung, Inso P036 Unpfandbare Gegenstande, Fachanwalt Insolvenz Sanierungsrecht Schutzschirmverfahren, Inso Grundzuege Verfahrenstypen** zuerst das Arbeitsmodul wählen, dessen Tatsachen im konkreten Fall wirklich angelegt sind. Im Plugin `fachanwalt-insolvenz-sanierungsrecht` bleiben Rollen, Fristen, Zuständigkeit, Anspruchs- oder Verfahrensgrundlage, Beweislast und gewünschter Output getrennt; Module nur kombinieren, wenn dieselbe Akte mehrere dieser Punkte trägt. Tragende Normen und Fundstellen nach `references/quellenhygiene.md` verifizieren.
 
 
 ## Arbeitsmodule im Detail
@@ -42,10 +42,10 @@ Für **Workflow Redteam Qualitygate, Inso P004 Anwendbarkeit Der Zivilprozessord
 
 
 ## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-insolvenz-sanierungsrecht` Red-Team Qualitygate im Plugin fachanwalt-insolvenz-sanierungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-insolvenz-sanierungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+## Einstieg
+Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
 1. Wer fragt in welcher Rolle?
 2. Was ist das gewünschte Ergebnis?
@@ -55,7 +55,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Arbeitsworkflow
 1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Output-Standard
@@ -86,7 +86,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsworkflow an **§ 4 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 4 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 4 InsO**
@@ -139,7 +139,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 
 ## Einsatz
-Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsworkflow an **§ 36 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
+Nutze diesen Skill, wenn ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 36 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 36 InsO**
@@ -180,7 +180,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren`
 
-**Fokus:** Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfähigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung Sanierungsfähigkeit. Insolvenz-Plan Vorbereitung. Workflow Antrag Sachwalter Plan Beschluss Aufhebung.
+**Fokus:** Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfähigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung Sanierungsfähigkeit. Insolvenz-Plan Vorbereitung. Antrag Sachwalter Plan Beschluss Aufhebung.
 
 # Schutzschirmverfahren § 270d InsO
 
@@ -352,9 +352,9 @@ Bei unklarer Lage `fachanwalt-insolvenz-idw-s6-sanierungskonzept` vorschalten un
 ## 10) BGH- und BVerfG-Linien (Stand Mai 2026)
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA-Sanierung) — Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null, Bezugsrechtsausschluss) als unzulässig zurückgewiesen; die Beschwerdeführer hatten die Verletzung von Grundrechten nicht hinreichend dargelegt. Bedeutung: StaRUG-Sanierungen mit Eingriff in Aktionärsrechte sind verfassungsrechtlich nicht generell ausgeschlossen.
-  Quelle: <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ Quelle: <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Kapitalmarktrechtliche Schadensersatzforderungen geschädigter Aktionäre sind in der Insolvenz der AG keine einfachen Insolvenzforderungen iSd § 38 InsO; sie treten hinter die einfachen Insolvenzgläubiger zurück. Relevanz: bei börsennotierten Schuldnerinnen Anmeldung von Aktionärsforderungen klar abzugrenzen.
-  Quelle: <https://www.lto.de/recht/kanzleien-unternehmen/k/bgh-ixzr12724-wirecard-insolvenzmasse-forderungen-aktionaere-urteil> (BGH-Pressemitteilung 2025/211; Az. über bundesgerichtshof.de verifizieren)
+ Quelle: <https://www.lto.de/recht/kanzleien-unternehmen/k/bgh-ixzr12724-wirecard-insolvenzmasse-forderungen-aktionaere-urteil> (BGH-Pressemitteilung 2025/211; Az. über bundesgerichtshof.de verifizieren)
 - Konkrete BGH-Linie zur Eigenverwaltung (§ 270b InsO) und Schutzschirm (§ 270d InsO), insbesondere zu Anforderungen an die Bescheinigung und zur Bestellung des Sachwalters, vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
 
 ## Anschluss
@@ -376,7 +376,7 @@ Bevor losgelegt wird, klaere:
 ## Aktuelle Leitentscheidungen
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA / StaRUG-Restrukturierungsplan)
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard / Nachrang Aktionärsschadensersatz)
 - Weitere BGH-Entscheidungen zur Eigenverwaltung / Schutzschirm vor Ausgabe über dejure.org, openjur.de und bundesgerichtshof.de mit Datum und Aktenzeichen verifizieren.
 
@@ -387,7 +387,7 @@ Bevor losgelegt wird, klaere:
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Workflow — 6-Phasen-Schritt-fuer-Schritt
+## — 6-Phasen-Schritt-fuer-Schritt
 
 1. **Krisen-Diagnose (Woche -4 bis -2 vor Antrag):** Liquiditaet 13 Wochen direct-method erstellen; Eröffnungsgrund §§ 17-19 InsO bestimmen; Fortbestehensprognose IDW S 11 beauftragen.
 2. **Bescheinigung (Woche -2 bis -1):** Sachverstaendigen mit Bescheinigung § 270d Abs. 1 InsO beauftragen; Sanierungskonzept auf IDW-S-6-Niveau als Grundlage vorbereiten und Red-Team-Lücken vorab schließen.

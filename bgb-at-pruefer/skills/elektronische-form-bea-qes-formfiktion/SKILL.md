@@ -1,6 +1,6 @@
 ---
 name: elektronische-form-bea-qes-formfiktion
-description: "Workflow-Skill zu elektronische form bea qes formfiktion. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Arbeitsmodul zu elektronische form bea qes formfiktion: prüft Normtext, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle."
 ---
 
 # Elektronische Form BeA QES Formfiktion
